@@ -2,7 +2,8 @@
 title: "Maxine Waters"
 type: politician
 content-readiness: draft
-last-updated: 2026-04-12
+central-thesis: "Waters is the populist gatekeeper of Wall Street regulation. Her Financial Services Committee position makes her the person every bank, insurer, crypto exchange, and real estate lobby needs to engage with — whether she's in the majority or minorit..."
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -21,15 +22,13 @@ website: "https://waters.house.gov"
 phone: "202-225-2201"
 donors: "[[California Nurses Association]]"
 related: "[[The Wall Street Democrat - Goldman Sachs to Congress Pipeline]] · [[Gregory Meeks]] · [[_Donald Trump Master Profile|Trump]] · [[Goldman Sachs]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[SEIU - Service Employees International Union|SEIU]] · [[Frank Pallone]]"
-last-enriched: "2026-04-12"
+last-enriched: "2026-04-09"
 needs-reenrichment: true
 reenrich-reason: "run fec pipeline; run congress pipeline"
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
   • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
   • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it.
 The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
-total-received: "$431,662"
-fec-candidate-id: "H4CA23011"
 ---
 #maxine-waters #democrat #california #house #financial-services #ranking-member #phase-6-gavel-power
 
@@ -247,38 +246,3 @@ Her rhetoric consistently frames regulation as protection — protecting consume
 
 ### DOJ Press Releases
 <!-- auto:doj-press removed 2026-04-10 by Research Claude: was showing >10K DOJ mentions from the API index-size false-positive bug. Main engine fix d1ceb91 (2026-04-10) caps at 10K + validates 60% name match. Will repopulate correctly on next pipeline run. -->
-
-### Campaign Finance (FEC)
-<!-- auto:fec-politician start -->
-| Metric | Value |
-|--------|-------|
-| Election Cycle | 2026 |
-| Total Raised | $431,662 |
-| Individual Contributions | $159,545 |
-| PAC Contributions | $132,000 |
-| Cash on Hand | 149340.00 |
-| IE Support (Super PAC) | $85,286 |
-| IE Opposition (Super PAC) | $1,449,552 |
-
-**Fundraising by cycle:**
-
-| Cycle | Total Raised | Individual | PAC |
-|-------|-------------|------------|-----|
-| 2026 | $431,662 | $159,545 | $132,000 |
-| 2024 | $1,119,386 | $547,196 | $493,977 |
-| 2022 | $1,248,563 | $503,499 | $687,140 |
-| 2020 | $2,126,590 | $606,140 | $914,191 |
-| 2018 | $1,600,230 | $509,330 | $569,351 |
-
-**Top outside spenders:**
-
-| Committee | Support | Oppose |
-|-----------|---------|--------|
-| FUTURE45 | $0 | $899,018 |
-| VIGOP (VIRGIN ISLANDS REPUBLICAN PARTY) | $0 | $321,313 |
-| STARS AND STRIPES FOREVER PAC | $0 | $210,929 |
-| LOS ANGELES COUNTY DEMOCRATIC CENTRAL COMMITTEE | $62,562 | $0 |
-| ELBERT GUILLORY'S AMERICA | $9,724 | $8,292 |
-
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H4CA23011/) (Tier 1)
-<!-- auto:fec-politician end -->

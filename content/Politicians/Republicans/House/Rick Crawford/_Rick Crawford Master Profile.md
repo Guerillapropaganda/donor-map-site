@@ -2,6 +2,7 @@
 title: "Rick Crawford"
 type: politician
 content-readiness: draft
+central-thesis: "Rick Crawford is the loyalty appointee who chairs America's intelligence oversight committee — a former EOD technician and Arkansas rice farmer who got the gavel not because of intelligence expertise but because his predecessor was too supportive ..."
 last-updated: 2026-04-11
 source-tier: 1
 parent: null

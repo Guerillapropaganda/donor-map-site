@@ -2,6 +2,7 @@
 title: "John Ratcliffe Master Profile"
 type: politician
 content-readiness: draft
+central-thesis: "John Ratcliffe's career arc — small-town mayor → congressman → Trump impeachment defender → DNI → defense consultant ($2.2M+) → CIA Director — represents loyalty-as-qualification in its purest form. He has no intelligence community background, inf..."
 last-updated: 2026-04-07
 source-tier: 1
 parent: null

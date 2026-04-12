@@ -2,6 +2,7 @@
 title: "Nikki Haley Master Profile"
 type: politician
 content-readiness: draft
+central-thesis: "Haley is the donor class's 'electability' candidate — the corporate-friendly, defense-hawk Republican who could theoretically win general elections by assembling the pre-Trump GOP coalition: suburban voters, defense establishment, Wall Street, and..."
 last-updated: 2026-04-09
 source-tier: 1
 parent: null

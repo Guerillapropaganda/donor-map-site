@@ -2,6 +2,7 @@
 title: "Ted Cruz Master Profile"
 type: politician
 content-readiness: draft
+central-thesis: "Ted Cruz is the perfect case study in donor-class override of personal unpopularity. He is consistently rated the least-liked senator among his own colleagues. His favorability ratings are among the lowest of any incumbent senator. He fled to Canc..."
 last-updated: 2026-04-11
 source-tier: 1
 career-total: "$100M"

@@ -2,7 +2,8 @@
 title: Barack Obama Master Profile
 type: politician
 content-readiness: draft
-last-updated: 2026-04-12
+central-thesis: "Obama is the master of the Two-Audience Problem: one message for progressive voters, one private reassurance for donors. His 2008 campaign promised 'hope and change' and ran against the financial sector's power. His private reassurance to bankers ..."
+last-updated: '2026-04-11'
 source-tier: 1
 parent: null
 party: Democrat
@@ -69,7 +70,12 @@ proclamations: 1230
 last-enriched: '2026-04-08'
 needs-reenrichment: true
 reenrich-reason: run voting pipeline; run congress pipeline
-related: ">- · [[UnitedHealth Group - Optum]]"
+related: >-
+  [[_Joe Biden Master Profile]] · [[_Kamala Harris Master Profile]] · [[_Nancy
+  Pelosi Master Profile]] · [[_Bernie Sanders Master Profile]] · [[_Gavin Newsom
+  Master Profile]] · [[Apple]] · [[Tim Geithner]] · [[Larry Summers]] ·
+  [[Insurance Industry Bloc]] · [[Pharmaceutical Industry]] · [[UnitedHealth
+  Group - Optum]] · [[Democracy Alliance]]
 ---
 #obama #master-profile #president #illinois #senate #class-analysis #follow-the-money #wall-street #silicon-valley #healthcare-donor-capture #two-audience-problem
 
@@ -374,10 +380,3 @@ Compare this to [[_Bernie Sanders Master Profile|Bernie Sanders]], who left offi
 
 - [Source: Federal Register — Presidential Documents](https://www.federalregister.gov/presidential-documents/executive-orders/barack-obama) (Tier 1)
 <!-- auto:executive-orders end -->
-
-### Voting Record
-<!-- auto:voting-record start -->
-**Sources**
-
-- [Congress.gov: Barack Obama](https://www.congress.gov/member/c001091) (Tier 1)
-<!-- auto:voting-record end -->

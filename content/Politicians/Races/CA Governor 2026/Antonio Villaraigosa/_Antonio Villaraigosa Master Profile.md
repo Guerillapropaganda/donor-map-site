@@ -2,6 +2,7 @@
 title: "Antonio Villaraigosa Master Profile"
 type: politician
 content-readiness: draft
+central-thesis: "Villaraigosa is the real estate and development industry's preferred candidate — his entire political trajectory reveals the same coalition: developer money funds his campaigns, building trades unions provide labor legitimacy, and pro-development ..."
 last-updated: 2026-04-08
 source-tier: 1
 parent: null

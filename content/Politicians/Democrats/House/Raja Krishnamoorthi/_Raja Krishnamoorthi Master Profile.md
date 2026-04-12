@@ -2,6 +2,7 @@
 title: "Raja Krishnamoorthi"
 type: politician
 content-readiness: draft
+central-thesis: "Krishnamoorthi is the bipartisan national security technocrat — a Democrat who provides liberal cover for the anti-China consensus that serves both defense industry donors and tech competitors seeking to eliminate Chinese competition from the Amer..."
 last-updated: 2026-04-11
 source-tier: 1
 parent: null

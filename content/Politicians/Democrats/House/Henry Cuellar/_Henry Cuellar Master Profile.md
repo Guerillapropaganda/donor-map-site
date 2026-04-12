@@ -2,6 +2,7 @@
 title: "Henry Cuellar Master Profile"
 type: politician
 content-readiness: draft
+central-thesis: "Henry Cuéllar is the most explicit donor-to-policy case in this vault: foreign bribes converted directly into legislative action. Azerbaijan's state oil company paid $300,000+ to Cuéllar through intermediaries 2014-2021. The payments were document..."
 last-updated: 2026-04-10
 source-tier: 1
 parent: null

@@ -4,6 +4,7 @@ type: politician
 chamber: "Senate"
 party: "Democrat"
 content-readiness: draft
+central-thesis: "Bennet's political career is underwritten by education reform donors. As DPS superintendent, he implemented charter school expansion (70+ new charters opened during his tenure, 48 schools closed). This positioned him as attractive to Eli Broad, Wa..."
 last-updated: 2026-04-12
 source-tier: 1
 parent: null

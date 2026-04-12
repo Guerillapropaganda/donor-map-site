@@ -6,6 +6,7 @@ former-roles:
   - "Illinois State Senator (2013–2019)"
   - "US House candidate IL-9 (2018 primary, lost)"
 content-readiness: draft
+central-thesis: "Daniel Biss won his 2026 primary in Illinois' 9th District—a heavily Democratic, intellectually-aligned Chicago suburb—by positioning himself as a pro-Palestinian, climate-conscious progressive who is 'not for sale' to AIPAC money. This positionin..."
 last-updated: 2026-04-11
 source-tier: 1
 parent: null

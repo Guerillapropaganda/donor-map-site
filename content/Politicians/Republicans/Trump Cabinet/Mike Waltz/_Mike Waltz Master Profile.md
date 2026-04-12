@@ -2,6 +2,7 @@
 title: "Mike Waltz"
 type: politician
 content-readiness: draft
+central-thesis: "Waltz is the defense contractor revolving door operating at the highest level of national security decision-making. He co-founded a company that received $930 million in Pentagon contracts, sold it for $92 million just before the Afghanistan withd..."
 last-updated: 2026-04-09
 source-tier: 1
 parent: null

@@ -2,6 +2,7 @@
 title: "Mitch McConnell Master Profile"
 type: politician
 content-readiness: draft
+central-thesis: "Mitch McConnell is not a politician who uses donor money — he is the architect of the system through which donor money controls American politics. His three structural achievements — killing campaign finance reform (McConnell v. FEC → Citizens Uni..."
 last-updated: 2026-04-08
 source-tier: 1
 career-total: "$47M"

@@ -2,6 +2,7 @@
 title: "Debbie Wasserman Schultz"
 type: politician
 content-readiness: draft
+central-thesis: "Wasserman Schultz is the Both-Sides Illusion made flesh. She is a Democrat funded by the same sugar PACs and Israel lobby money that funds the Republican Cuba hawks. Her presence in the sugar-defense-Israel coalition proves that the embargo — and ..."
 last-updated: 2026-04-12
 source-tier: 1
 parent: null

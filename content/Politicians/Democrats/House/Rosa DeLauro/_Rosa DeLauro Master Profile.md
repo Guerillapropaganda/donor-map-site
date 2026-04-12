@@ -2,6 +2,7 @@
 title: "Rosa DeLauro"
 type: politician
 content-readiness: draft
+central-thesis: "DeLauro is the working-class progressive who controls the spending. Her Appropriations gavel gives her direct authority over federal spending allocations — and the industries that depend on those allocations fund her campaign. The contradiction is..."
 last-updated: 2026-04-11
 source-tier: 1
 parent: null

@@ -2,6 +2,7 @@
 title: "Lauren Boebert"
 type: politician
 content-readiness: draft
+central-thesis: "Boebert is the culture war economy personified: she converts media attention into campaign donations without producing legislation or serving donor-class interests in the traditional sense. Her fundraising operates outside the committee-jurisdicti..."
 last-updated: 2026-04-08
 source-tier: 1
 parent: null

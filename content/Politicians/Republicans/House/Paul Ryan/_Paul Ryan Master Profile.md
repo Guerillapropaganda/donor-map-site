@@ -2,6 +2,7 @@
 title: "Paul Ryan"
 type: politician
 content-readiness: draft
+central-thesis: "Paul Ryan exemplifies the donor-class politician masked as principled conservative. His public brand is 'fiscal hawk' concerned about deficits and wasteful spending. But his legislative record contradicts this entirely: as Speaker, he authored the..."
 last-updated: 2026-04-09
 source-tier: 1
 parent: null

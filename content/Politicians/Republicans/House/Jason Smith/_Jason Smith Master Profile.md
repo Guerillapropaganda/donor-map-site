@@ -2,7 +2,8 @@
 title: "Jason Smith"
 type: politician
 content-readiness: draft
-last-updated: 2026-04-12
+central-thesis: "Smith is the rural poor kid who writes tax policy for the rich. His Ways & Means gavel gives him authorship over every major tax provision in America — and the industries that benefit from those provisions fund his campaign at rates that exploded ..."
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 party: "Republican"
@@ -23,7 +24,7 @@ bills-sponsored: 7
 bills-cosponsored: 27
 website: "https://jasonsmith.house.gov"
 phone: "202-225-4404"
-donors: "[[American Gaming Association]] · [[National Association of Manufacturers]] · [[Tech Industry]] · [[National Restaurant Association]] · [[ActBlue]]"
+donors: "[[American Gaming Association]] · [[National Association of Manufacturers]] · [[Tech Industry]] · [[National Restaurant Association]]"
 related: "[[Real Estate Lobby Funds the Housing Crisis From Both Sides]] · [[The Ways and Means Gavel and Corporate Tax Architecture]] · [[Real Estate Roundtable]] · [[_Donald Trump Master Profile|Trump]] · [[Koch Network - Charles Koch]] · [[Private Equity Buys Regulatory Immunity Across the Aisle]] · [[Mike Crapo]]"
 bioguide-id: "S001195"
 issues:

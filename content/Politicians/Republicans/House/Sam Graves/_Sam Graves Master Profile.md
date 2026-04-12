@@ -2,6 +2,7 @@
 title: "Sam Graves"
 type: politician
 content-readiness: draft
+central-thesis: "Sam Graves chairs the largest committee in Congress — and every industry it regulates funds his campaigns. OpenSecrets data shows Graves as the #1 recipient of contributions from airlines, trucking, railroads, and air transport in the 2022 cycle, ..."
 last-updated: 2026-04-06
 source-tier: 1
 parent: null

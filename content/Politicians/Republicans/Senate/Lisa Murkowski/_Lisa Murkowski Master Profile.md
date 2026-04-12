@@ -2,6 +2,7 @@
 title: "Lisa Murkowski"
 type: politician
 content-readiness: draft
+central-thesis: "Lisa Murkowski is Alaska's oil ambassador — a senator whose state's economy is so dependent on fossil fuel extraction that representing Alaska and representing the oil industry are structurally identical. She received $611,000+ from oil and gas ov..."
 last-updated: 2026-04-10
 source-tier: 1
 parent: null

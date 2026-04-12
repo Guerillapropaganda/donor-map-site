@@ -2,6 +2,7 @@
 title: "Bryan Steil"
 type: politician
 content-readiness: draft
+central-thesis: "Bryan Steil chairs the committee that writes federal election law — and his top donor sector is securities and investment ($721,840 in 2023-2024 alone), with Blackstone Group as a top individual donor ($56,500). Wall Street banks (Wells Fargo, Mor..."
 last-updated: 2026-04-10
 source-tier: 1
 parent: null

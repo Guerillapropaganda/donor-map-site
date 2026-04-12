@@ -2,6 +2,7 @@
 title: "Dick Cheney"
 type: politician
 content-readiness: draft
+central-thesis: "Cheney is the textbook revolving-door operative: CEO of defense contractor Halliburton → Vice President → oversees a $2 trillion war that directs content-readiness: draft0.8B+ in contracts to his former company → maintains financial ties (deferred compensation) through..."
 last-updated: 2026-04-08
 source-tier: 2
 parent: null

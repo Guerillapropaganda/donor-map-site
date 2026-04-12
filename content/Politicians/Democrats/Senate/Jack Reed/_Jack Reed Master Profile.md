@@ -2,6 +2,7 @@
 title: "Jack Reed"
 type: politician
 content-readiness: draft
+central-thesis: "Jack Reed is the military-industrial complex's most credentialed Democrat. West Point, Army Ranger, 82nd Airborne, Harvard Kennedy School, Harvard Law — the CV is impeccable. He parlayed it into the Senate's most important defense position, where ..."
 last-updated: 2026-04-12
 source-tier: 1
 parent: null

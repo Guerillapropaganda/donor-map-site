@@ -2,6 +2,7 @@
 title: "Gregory Meeks"
 type: politician
 content-readiness: draft
+central-thesis: "Gregory Meeks is the donor class's man on foreign affairs. His committee position gives him veto authority over arms sales — and his donors know it. AIPAC and pro-Israel groups have given him $523,000+ career; Wall Street firms fund him through Fi..."
 last-updated: 2026-04-09
 source-tier: 1
 parent: null

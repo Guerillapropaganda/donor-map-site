@@ -2,6 +2,7 @@
 title: "Frank Lucas Master Profile"
 type: politician
 content-readiness: draft
+central-thesis: "Frank Lucas is the man who votes on his own subsidy checks. He sits on the committee that writes the Farm Bill, directly benefiting from the legislation he authors. This is not accidental. It is structural corruption protected by both parties and ..."
 last-updated: 2026-04-11
 source-tier: 1
 parent: null

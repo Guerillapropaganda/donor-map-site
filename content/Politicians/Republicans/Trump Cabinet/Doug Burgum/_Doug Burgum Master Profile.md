@@ -2,6 +2,7 @@
 title: "Doug Burgum Master Profile"
 type: politician
 content-readiness: draft
+central-thesis: "Doug Burgum's trajectory — software entrepreneur → tech millionaire → North Dakota governor → Interior Secretary → 'energy czar' — represents the conversion of tech wealth into fossil fuel policy power. His content-readiness: draft.1 billion Microsoft exit funded a pol..."
 last-updated: 2026-04-06
 source-tier: 1
 parent: null

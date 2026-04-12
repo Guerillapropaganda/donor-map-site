@@ -4,6 +4,7 @@ type: local-politician
 current-office: "Cook County Commissioner, District 6 (Illinois)"
 candidate-for: "US House 2026 (Illinois, Democratic primary — exact district needs verification from FEC filing H6IL02355)"
 content-readiness: draft
+central-thesis: "Donna Miller's 2026 primary victory represents the most visible and controversial deployment of AIPAC's shell PAC infrastructure in the 2026 cycle. The 'Affordable Chicago Now' super PAC—which Miller's opponents explicitly identified as an AIPAC s..."
 last-updated: 2026-04-11
 source-tier: 1
 parent: null

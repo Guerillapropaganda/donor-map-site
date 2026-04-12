@@ -2,6 +2,7 @@
 title: "Rex Tillerson"
 type: politician
 content-readiness: draft
+central-thesis: "Tillerson's career is the fossil fuel revolving door in its purest form: 41 years building wealth and relationships inside the world's most powerful oil company, then a brief stint as Secretary of State where his primary qualification was his rela..."
 last-updated: 2026-04-08
 source-tier: 1
 parent: null

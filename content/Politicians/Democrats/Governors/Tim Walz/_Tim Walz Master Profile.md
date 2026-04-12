@@ -2,6 +2,7 @@
 title: "Tim Walz"
 type: politician
 content-readiness: draft
+central-thesis: "Walz's authenticity is genuine: he taught school, coached football, served in the National Guard, and built Minnesota Democratic politics through labor union relationships rather than Wall Street finance. The question is whether this authenticity ..."
 last-updated: 2026-04-12
 source-tier: 1
 parent: null

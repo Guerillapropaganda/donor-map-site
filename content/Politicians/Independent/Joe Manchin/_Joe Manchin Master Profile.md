@@ -2,6 +2,7 @@
 title: "Joe Manchin Master Profile"
 type: politician
 content-readiness: draft
+central-thesis: "Joe Manchin is the donor class's most efficient investment in modern American politics. A single senator — one vote — killed content-readiness: draft86 billion in climate legislation (Build Back Better's clean electricity program, methane fees, EV incentives), then ext..."
 last-updated: 2026-04-06
 source-tier: 1
 parent: null

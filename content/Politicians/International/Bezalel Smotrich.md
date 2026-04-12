@@ -2,6 +2,7 @@
 title: "Bezalel Smotrich"
 type: politician
 content-readiness: draft
+central-thesis: "Settlement expansion in the West Bank is government-subsidized real estate development. Smotrich is both the political architect and the fiscal gatekeeper of that program. As Finance Minister, he allocated 2.7 billion shekels ($843 million) over f..."
 last-updated: 2026-03-24
 source-tier: 1
 parent: null

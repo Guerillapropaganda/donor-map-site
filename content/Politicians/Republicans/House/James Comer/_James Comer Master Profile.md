@@ -2,6 +2,7 @@
 title: "James Comer"
 type: politician
 content-readiness: draft
+central-thesis: "Comer is the investigator who doesn't investigate himself. His Oversight Committee gavel gives him the most powerful investigative tool in Congress — unilateral subpoena power — and he has deployed it almost exclusively as a partisan weapon. The B..."
 last-updated: 2026-04-10
 source-tier: 1
 parent: null

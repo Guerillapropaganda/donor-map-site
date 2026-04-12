@@ -2,6 +2,7 @@
 title: "Mike Pompeo Master Profile"
 type: politician
 content-readiness: draft
+central-thesis: "Pompeo is the Koch brothers' direct product — Koch Industries funded his Kansas congressional campaigns, he built his pre-political business career with Koch venture capital seed money, he served their interests at CIA and State, and his post-gove..."
 last-updated: 2026-04-07
 source-tier: 1
 parent: null

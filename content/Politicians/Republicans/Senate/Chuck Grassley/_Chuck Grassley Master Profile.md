@@ -2,6 +2,7 @@
 title: "Chuck Grassley"
 type: politician
 content-readiness: draft
+central-thesis: "Chuck Grassley is the gatekeeper of the federal judiciary and the pharmaceutical industry's most useful contradiction. He holds the single most powerful position in American judicial politics — Judiciary Committee chair — and has used it to reshap..."
 last-updated: 2026-04-10
 source-tier: 1
 parent: null

@@ -4,6 +4,7 @@ type: politician
 chamber: "House"
 party: "Democrat"
 content-readiness: draft
+central-thesis: "Goldman demonstrates how dynastic wealth purchases political power in the 21st century Democratic Party. His campaign did not build grassroots support; he self-funded $4M in primary spending in a crowded field. His Trump impeachment credentials we..."
 last-updated: 2026-04-10
 source-tier: 1
 parent: null

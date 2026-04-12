@@ -1,0 +1,7027 @@
+{
+  "lastUpdated": "2026-04-12T22:01:14.070Z",
+  "runtime": "3.2s",
+  "stats": {
+    "totalCommittees": 230,
+    "mappedCommittees": 32,
+    "totalMemberAssignments": 254,
+    "uniqueMembers": 98
+  },
+  "tickerSectors": {
+    "LMT": "defense",
+    "RTX": "defense",
+    "NOC": "defense",
+    "GD": "defense",
+    "BA": "defense",
+    "HII": "defense",
+    "LHX": "defense",
+    "LDOS": "defense",
+    "BAH": "defense",
+    "PLTR": "defense",
+    "PANW": "cybersecurity",
+    "CRWD": "cybersecurity",
+    "XOM": "energy",
+    "CVX": "energy",
+    "COP": "energy",
+    "EOG": "energy",
+    "SLB": "energy",
+    "MPC": "energy",
+    "VLO": "energy",
+    "PSX": "energy",
+    "HES": "energy",
+    "OXY": "energy",
+    "HAL": "energy",
+    "DVN": "energy",
+    "FANG": "energy",
+    "APA": "energy",
+    "NEE": "utilities",
+    "DUK": "utilities",
+    "SO": "utilities",
+    "D": "utilities",
+    "AEP": "utilities",
+    "EXC": "utilities",
+    "SRE": "utilities",
+    "PCG": "utilities",
+    "JPM": "banking",
+    "BAC": "banking",
+    "WFC": "banking",
+    "C": "banking",
+    "GS": "banking",
+    "MS": "banking",
+    "USB": "banking",
+    "PNC": "banking",
+    "TFC": "banking",
+    "COF": "banking",
+    "SCHW": "finance",
+    "BLK": "finance",
+    "BX": "finance",
+    "KKR": "finance",
+    "APO": "finance",
+    "ICE": "finance",
+    "CME": "finance",
+    "NDAQ": "finance",
+    "SPGI": "finance",
+    "V": "fintech",
+    "MA": "fintech",
+    "AXP": "fintech",
+    "PYPL": "fintech",
+    "SQ": "fintech",
+    "BRK": "insurance",
+    "BRK.B": "insurance",
+    "BRK.A": "insurance",
+    "UNH": "insurance",
+    "CI": "insurance",
+    "ELV": "insurance",
+    "HUM": "insurance",
+    "MET": "insurance",
+    "PRU": "insurance",
+    "AIG": "insurance",
+    "ALL": "insurance",
+    "JNJ": "healthcare",
+    "PFE": "pharma",
+    "MRK": "pharma",
+    "ABBV": "pharma",
+    "LLY": "pharma",
+    "BMY": "pharma",
+    "AMGN": "pharma",
+    "GILD": "pharma",
+    "BIIB": "biotech",
+    "MRNA": "biotech",
+    "REGN": "biotech",
+    "VRTX": "biotech",
+    "TMO": "healthcare",
+    "ABT": "healthcare",
+    "DHR": "healthcare",
+    "MDT": "healthcare",
+    "HCA": "healthcare",
+    "CVS": "healthcare",
+    "MCK": "healthcare",
+    "CAH": "healthcare",
+    "NVO": "pharma",
+    "AAPL": "tech",
+    "MSFT": "tech",
+    "GOOGL": "tech",
+    "GOOG": "tech",
+    "META": "tech",
+    "AMZN": "tech",
+    "NVDA": "tech",
+    "TSLA": "tech",
+    "AMD": "tech",
+    "INTC": "tech",
+    "CRM": "tech",
+    "ORCL": "tech",
+    "ADBE": "tech",
+    "NFLX": "tech",
+    "SNOW": "tech",
+    "NOW": "tech",
+    "SHOP": "tech",
+    "UBER": "tech",
+    "LYFT": "tech",
+    "ABNB": "tech",
+    "COIN": "crypto",
+    "MARA": "crypto",
+    "RIOT": "crypto",
+    "MSTR": "crypto",
+    "T": "telecom",
+    "VZ": "telecom",
+    "TMUS": "telecom",
+    "CMCSA": "telecom",
+    "DIS": "media",
+    "WBD": "media",
+    "PARA": "media",
+    "NWSA": "media",
+    "FOX": "media",
+    "UNP": "transport",
+    "CSX": "transport",
+    "NSC": "transport",
+    "UAL": "transport",
+    "DAL": "transport",
+    "LUV": "transport",
+    "AAL": "transport",
+    "FDX": "transport",
+    "UPS": "transport",
+    "ADM": "agriculture",
+    "BG": "agriculture",
+    "DE": "agriculture",
+    "CAT": "agriculture",
+    "TSN": "food",
+    "KO": "food",
+    "PEP": "food",
+    "GIS": "food",
+    "K": "food",
+    "MCD": "food",
+    "SBUX": "food",
+    "YUM": "food",
+    "AMT": "real-estate",
+    "PLD": "real-estate",
+    "CCI": "real-estate",
+    "SPG": "real-estate",
+    "O": "real-estate",
+    "WELL": "real-estate",
+    "DLR": "real-estate",
+    "NEM": "mining",
+    "FCX": "mining",
+    "ALB": "mining",
+    "VMC": "construction",
+    "MLM": "construction",
+    "SHW": "construction"
+  },
+  "committeeSectorMap": {
+    "HSAG": {
+      "name": "Agriculture",
+      "sectors": [
+        "agriculture",
+        "food",
+        "commodities"
+      ]
+    },
+    "HSAP": {
+      "name": "Appropriations",
+      "sectors": [
+        "government",
+        "defense",
+        "healthcare"
+      ]
+    },
+    "HSAS": {
+      "name": "Armed Services",
+      "sectors": [
+        "defense",
+        "aerospace",
+        "cybersecurity"
+      ]
+    },
+    "HSBA": {
+      "name": "Financial Services",
+      "sectors": [
+        "banking",
+        "finance",
+        "insurance",
+        "crypto",
+        "fintech"
+      ]
+    },
+    "HSBU": {
+      "name": "Budget",
+      "sectors": [
+        "government",
+        "finance"
+      ]
+    },
+    "HSED": {
+      "name": "Education and the Workforce",
+      "sectors": [
+        "education",
+        "labor"
+      ]
+    },
+    "HSIF": {
+      "name": "Energy and Commerce",
+      "sectors": [
+        "energy",
+        "oil",
+        "utilities",
+        "pharma",
+        "healthcare",
+        "telecom",
+        "tech"
+      ]
+    },
+    "HSFA": {
+      "name": "Foreign Affairs",
+      "sectors": [
+        "defense",
+        "foreign"
+      ]
+    },
+    "HSHA": {
+      "name": "Homeland Security",
+      "sectors": [
+        "defense",
+        "cybersecurity",
+        "security"
+      ]
+    },
+    "HSII": {
+      "name": "Natural Resources",
+      "sectors": [
+        "energy",
+        "oil",
+        "mining",
+        "utilities"
+      ]
+    },
+    "HSJU": {
+      "name": "Judiciary",
+      "sectors": [
+        "tech",
+        "telecom",
+        "media"
+      ]
+    },
+    "HSPW": {
+      "name": "Transportation and Infrastructure",
+      "sectors": [
+        "transport",
+        "construction",
+        "infrastructure"
+      ]
+    },
+    "HSSM": {
+      "name": "Small Business",
+      "sectors": [
+        "fintech",
+        "finance"
+      ]
+    },
+    "HSSY": {
+      "name": "Science, Space, and Technology",
+      "sectors": [
+        "tech",
+        "aerospace",
+        "biotech"
+      ]
+    },
+    "HSVR": {
+      "name": "Veterans' Affairs",
+      "sectors": [
+        "healthcare",
+        "defense"
+      ]
+    },
+    "HSWM": {
+      "name": "Ways and Means",
+      "sectors": [
+        "finance",
+        "insurance",
+        "healthcare",
+        "energy"
+      ]
+    },
+    "SSAF": {
+      "name": "Agriculture, Nutrition, and Forestry",
+      "sectors": [
+        "agriculture",
+        "food",
+        "commodities"
+      ]
+    },
+    "SSAP": {
+      "name": "Appropriations",
+      "sectors": [
+        "government",
+        "defense",
+        "healthcare"
+      ]
+    },
+    "SSAS": {
+      "name": "Armed Services",
+      "sectors": [
+        "defense",
+        "aerospace",
+        "cybersecurity"
+      ]
+    },
+    "SSBK": {
+      "name": "Banking, Housing, and Urban Affairs",
+      "sectors": [
+        "banking",
+        "finance",
+        "insurance",
+        "crypto",
+        "fintech",
+        "real-estate"
+      ]
+    },
+    "SSBU": {
+      "name": "Budget",
+      "sectors": [
+        "government",
+        "finance"
+      ]
+    },
+    "SSCM": {
+      "name": "Commerce, Science, and Transportation",
+      "sectors": [
+        "tech",
+        "telecom",
+        "transport",
+        "aerospace",
+        "media"
+      ]
+    },
+    "SSEG": {
+      "name": "Energy and Natural Resources",
+      "sectors": [
+        "energy",
+        "oil",
+        "mining",
+        "utilities"
+      ]
+    },
+    "SSEV": {
+      "name": "Environment and Public Works",
+      "sectors": [
+        "energy",
+        "construction",
+        "utilities"
+      ]
+    },
+    "SSFI": {
+      "name": "Finance",
+      "sectors": [
+        "finance",
+        "insurance",
+        "healthcare",
+        "energy",
+        "pharma"
+      ]
+    },
+    "SSFR": {
+      "name": "Foreign Relations",
+      "sectors": [
+        "defense",
+        "foreign"
+      ]
+    },
+    "SSGA": {
+      "name": "Homeland Security and Governmental Affairs",
+      "sectors": [
+        "defense",
+        "cybersecurity",
+        "security",
+        "government"
+      ]
+    },
+    "SSHR": {
+      "name": "Health, Education, Labor, and Pensions",
+      "sectors": [
+        "healthcare",
+        "pharma",
+        "biotech",
+        "education"
+      ]
+    },
+    "SSJU": {
+      "name": "Judiciary",
+      "sectors": [
+        "tech",
+        "telecom",
+        "media"
+      ]
+    },
+    "SSSB": {
+      "name": "Small Business and Entrepreneurship",
+      "sectors": [
+        "fintech",
+        "finance"
+      ]
+    },
+    "JSTX": {
+      "name": "Joint Committee on Taxation",
+      "sectors": [
+        "finance",
+        "insurance"
+      ]
+    },
+    "JSEC": {
+      "name": "Joint Economic Committee",
+      "sectors": [
+        "finance",
+        "banking"
+      ]
+    }
+  },
+  "committees": [
+    {
+      "code": "HSAG",
+      "name": "House Committee on Agriculture",
+      "type": "house",
+      "url": "https://agriculture.house.gov/",
+      "jurisdiction": "The House Committee on Agriculture has legislative jurisdiction over agriculture, food, rural development, and forestry.",
+      "sectors": [
+        "agriculture",
+        "food",
+        "commodities"
+      ],
+      "sectorName": "Agriculture",
+      "members": []
+    },
+    {
+      "code": "HSAP",
+      "name": "House Committee on Appropriations",
+      "type": "house",
+      "url": "https://appropriations.house.gov/",
+      "jurisdiction": "The House Committee on Appropriations is responsible for legislation allocating federal funds prior to expenditure from the treasury. Appropriations are generally limited to the levels set by the Budget Resolution drafted by the House Committee on the Budget. The Committee is also responsible for supplemental spending bills, which are sometimes needed in the middle of a fiscal year to compensate for emergency expenses.",
+      "sectors": [
+        "government",
+        "defense",
+        "healthcare"
+      ],
+      "sectorName": "Appropriations",
+      "members": []
+    },
+    {
+      "code": "HSAS",
+      "name": "House Committee on Armed Services",
+      "type": "house",
+      "url": "https://armedservices.house.gov/",
+      "jurisdiction": "The House Committee on Armed Services has legislative jurisdiction over military and defense.",
+      "sectors": [
+        "defense",
+        "aerospace",
+        "cybersecurity"
+      ],
+      "sectorName": "Armed Services",
+      "members": []
+    },
+    {
+      "code": "HSED",
+      "name": "House Committee on Education and Workforce",
+      "type": "house",
+      "url": "https://edlabor.house.gov/",
+      "jurisdiction": "The committee has legislative jurisdiction over matters related to higher and lower education, workforce development and protections, and health, employment, labor, and pensions.",
+      "sectors": [
+        "education",
+        "labor"
+      ],
+      "sectorName": "Education and the Workforce",
+      "members": []
+    },
+    {
+      "code": "HSIF",
+      "name": "House Committee on Energy and Commerce",
+      "type": "house",
+      "url": "https://energycommerce.house.gov/",
+      "jurisdiction": "The House Committee on Energy and Commerce has legislative jurisdiction on matters related to telecommunications, consumer protection, food and drug safety, public health research, environmental quality, energy policy, and interstate and foreign commerce. It oversees multiple cabinet-level Departments and independent agencies, including the Departments of Energy, Health and Human Services, Commerce, and Transportation, as well as the Environmental Protection Agency, the Federal Trade Commission, the Food and Drug Administration, and the Federal Communications Commission.",
+      "sectors": [
+        "energy",
+        "oil",
+        "utilities",
+        "pharma",
+        "healthcare",
+        "telecom",
+        "tech"
+      ],
+      "sectorName": "Energy and Commerce",
+      "members": []
+    },
+    {
+      "code": "HSBA",
+      "name": "House Committee on Financial Services",
+      "type": "house",
+      "url": "https://financialservices.house.gov/",
+      "jurisdiction": "The House Financial Services Committee has jurisdiction over issues pertaining to the economy, the banking system, housing, insurance, and securities and exchanges. Additionally, the Committee also has jurisdiction over monetary policy, international finance, international monetary organizations, and efforts to combat terrorist financing. The Committee oversees the Nation’s economy through its oversight of the Federal Reserve Board and individual reserve banks, the Treasury, the production and distribution of currency, and the Nation’s capital markets.",
+      "sectors": [
+        "banking",
+        "finance",
+        "insurance",
+        "crypto",
+        "fintech"
+      ],
+      "sectorName": "Financial Services",
+      "members": []
+    },
+    {
+      "code": "HSFA",
+      "name": "House Committee on Foreign Affairs",
+      "type": "house",
+      "url": "https://foreignaffairs.house.gov/",
+      "jurisdiction": "The House Committee on Foreign Affairs considers legislation that impacts the diplomatic community, which includes the Department of State, the Agency for International Development, the Peace Corps, the United Nations, and the enforcement of the Arms Export Control Act.",
+      "sectors": [
+        "defense",
+        "foreign"
+      ],
+      "sectorName": "Foreign Affairs",
+      "members": []
+    },
+    {
+      "code": "HSHA",
+      "name": "House Committee on House Administration",
+      "type": "house",
+      "url": "https://cha.house.gov/",
+      "jurisdiction": "The Committee on House Administration has legislative jurisdiction over the federal elections and the day-to-day operations of the House. The Committee's jurisdiction over federal elections requires it to consider proposals to amend federal election law and to monitor congressional elections across the United States. The Committee also sets budget authorizations for expenses of other House committees and members of Congress. It also oversees several federal organizations such as the Library of Congress and Smithsonian Institution.",
+      "sectors": [
+        "defense",
+        "cybersecurity",
+        "security"
+      ],
+      "sectorName": "Homeland Security",
+      "members": []
+    },
+    {
+      "code": "HSII",
+      "name": "House Committee on Natural Resources",
+      "type": "house",
+      "url": "https://naturalresources.house.gov/",
+      "jurisdiction": "The House Committee on Natural Resources considers legislation about American energy production, mineral lands and mining, fisheries and wildlife, public lands, oceans, Native Americans, irrigation and reclamation.",
+      "sectors": [
+        "energy",
+        "oil",
+        "mining",
+        "utilities"
+      ],
+      "sectorName": "Natural Resources",
+      "members": []
+    },
+    {
+      "code": "HSSY",
+      "name": "House Committee on Science, Space, and Technology",
+      "type": "house",
+      "url": "https://science.house.gov/",
+      "jurisdiction": "The Committee on Science, Space, and Technology has a jurisdiction over a range of matters related to energy research and development, federally owned or operated non-military energy laboratories, astronautical research and development, civil aviation, environmental research and development; marine research, and more. The Committee oversees the National Institute of Standards and Technology, National Aeronautics and Space Administration, National Science Foundation, and National Weather Service. It also reviews laws, programs, and Government activities relating to non-military research and development to report back to the House.",
+      "sectors": [
+        "tech",
+        "aerospace",
+        "biotech"
+      ],
+      "sectorName": "Science, Space, and Technology",
+      "members": []
+    },
+    {
+      "code": "HSSM",
+      "name": "House Committee on Small Business",
+      "type": "house",
+      "url": "https://smallbusiness.house.gov/",
+      "jurisdiction": "The House Small Business Committee was established to protect and assist small businesses.  As such, the Committee has jurisdiction over matters related to small business financial aid, regulatory flexibility, and paperwork reduction. Additionally, the House Small Business Committee has  oversight and legislative authority over the Small Business Administration (SBA) and its programs.",
+      "sectors": [
+        "fintech",
+        "finance"
+      ],
+      "sectorName": "Small Business",
+      "members": []
+    },
+    {
+      "code": "HSBU",
+      "name": "House Committee on the Budget",
+      "type": "house",
+      "url": "https://budget.house.gov/",
+      "jurisdiction": "The House Committee on the Budget is responsible for drafting a concurrent resolution on the budget for congressional action on spending, revenue, and debt-limit legislation. The Budget Resolution must be jointly agreed to by both the House and the Senate, but does not need to be signed by the President. The Committee is also responsible for enforcing the Budget Resolution by informing representatives of violations to the budget, and by working with other committees, such as the Committee on Appropriations, to prevent potential violations.",
+      "sectors": [
+        "government",
+        "finance"
+      ],
+      "sectorName": "Budget",
+      "members": []
+    },
+    {
+      "code": "HSJU",
+      "name": "House Committee on the Judiciary",
+      "type": "house",
+      "url": "https://judiciary.house.gov/",
+      "jurisdiction": "The Committee on the Judiciary has jurisdiction over matters relating to the administration of justice in federal courts, administrative bodies, and law enforcement agencies. Its role in impeachment proceedings has also brought it much attention.  The committee’s jurisdiction also includes a range of issues such as bankruptcy, espionage, terrorism, the protection of civil liberties, constitutional amendments, and more. The Committee oversees the Departments of Justice and Homeland Security.",
+      "sectors": [
+        "tech",
+        "telecom",
+        "media"
+      ],
+      "sectorName": "Judiciary",
+      "members": []
+    },
+    {
+      "code": "HSPW",
+      "name": "House Committee on Transportation and Infrastructure",
+      "type": "house",
+      "url": "https://transportation.house.gov/",
+      "jurisdiction": "The Transportation and Infrastructure Committee has jurisdiction over all modes of transportation: aviation, maritime and waterborne transportation, highways, bridges, mass transit, and railroads. The Committee also has jurisdiction over other aspects of our national infrastructure, such as clean water and waste water management, the transport of resources by pipeline, flood damage reduction, the management of federally owned real estate and public buildings, the development of economically depressed rural and urban areas, disaster preparedness and response, and hazardous materials transportation.",
+      "sectors": [
+        "transport",
+        "construction",
+        "infrastructure"
+      ],
+      "sectorName": "Transportation and Infrastructure",
+      "members": []
+    },
+    {
+      "code": "HSVR",
+      "name": "House Committee on Veterans' Affairs",
+      "type": "house",
+      "url": "https://veterans.house.gov/",
+      "jurisdiction": "The House Committee on Veterans' Affairs is the authorizing committee for the Department of Veterans Affairs (VA). The committee is responsible for recommending legislation expanding, curtailing, or fine-tuning existing laws relating to veterans' benefits. The Committee also has oversight responsibility, which means monitoring and evaluating the operations of the VA. If the Committee finds that VA is not administering laws as Congress intended, then it is addressed through the hearing process and legislation.",
+      "sectors": [
+        "healthcare",
+        "defense"
+      ],
+      "sectorName": "Veterans' Affairs",
+      "members": []
+    },
+    {
+      "code": "HSWM",
+      "name": "House Committee on Ways and Means",
+      "type": "house",
+      "url": "https://waysandmeans.house.gov/",
+      "jurisdiction": "The Committee on Ways and Means is the chief tax-writing committee in the House of Representatives. The Committee derives a large share of its jurisdiction from Article I, Section VII of the U.S. Constitution, which declares, “All Bills for raising Revenue shall originate in the House of Representatives.” The committee has jurisdiction over revenue and related issues such as tariffs, reciprocal trade agreements, and the bonded debt of the United States. It also oversees revenue-related aspects of the Social Security system, Medicare, and social services programs.",
+      "sectors": [
+        "finance",
+        "insurance",
+        "healthcare",
+        "energy"
+      ],
+      "sectorName": "Ways and Means",
+      "members": []
+    },
+    {
+      "code": "JSTX",
+      "name": "Joint Committee on Taxation",
+      "type": "joint",
+      "url": "https://www.jct.gov",
+      "jurisdiction": "",
+      "sectors": [
+        "finance",
+        "insurance"
+      ],
+      "sectorName": "Joint Committee on Taxation",
+      "members": []
+    },
+    {
+      "code": "JSEC",
+      "name": "Joint Economic Committee",
+      "type": "joint",
+      "url": "http://www.jec.senate.gov/",
+      "jurisdiction": "",
+      "sectors": [
+        "finance",
+        "banking"
+      ],
+      "sectorName": "Joint Economic Committee",
+      "members": []
+    },
+    {
+      "code": "SSAF",
+      "name": "Senate Committee on Agriculture, Nutrition, and Forestry",
+      "type": "senate",
+      "url": "http://www.agriculture.senate.gov/",
+      "jurisdiction": "The Senate Committee on Agriculture has legislative jurisdiction over agriculture, food, and nutrition.",
+      "sectors": [
+        "agriculture",
+        "food",
+        "commodities"
+      ],
+      "sectorName": "Agriculture, Nutrition, and Forestry",
+      "members": [
+        {
+          "name": "John Boozman",
+          "fullName": "Sen. John Boozman [R-AR]",
+          "govtrackId": 400040,
+          "bioguideid": "B001236",
+          "role": "chair"
+        },
+        {
+          "name": "Mitch McConnell",
+          "fullName": "Sen. Mitch McConnell [R-KY]",
+          "govtrackId": 300072,
+          "bioguideid": "M000355",
+          "role": "member"
+        },
+        {
+          "name": "John Hoeven",
+          "fullName": "Sen. John Hoeven [R-ND]",
+          "govtrackId": 412494,
+          "bioguideid": "H001061",
+          "role": "member"
+        },
+        {
+          "name": "Joni Ernst",
+          "fullName": "Sen. Joni Ernst [R-IA]",
+          "govtrackId": 412667,
+          "bioguideid": "E000295",
+          "role": "member"
+        },
+        {
+          "name": "Cindy Hyde-Smith",
+          "fullName": "Sen. Cindy Hyde-Smith [R-MS]",
+          "govtrackId": 412743,
+          "bioguideid": "H001079",
+          "role": "member"
+        },
+        {
+          "name": "Roger Marshall",
+          "fullName": "Sen. Roger Marshall [R-KS]",
+          "govtrackId": 412704,
+          "bioguideid": "M001198",
+          "role": "member"
+        },
+        {
+          "name": "Tommy Tuberville",
+          "fullName": "Sen. Tommy Tuberville [R-AL]",
+          "govtrackId": 456796,
+          "bioguideid": "T000278",
+          "role": "member"
+        },
+        {
+          "name": "Jim Justice",
+          "fullName": "Sen. Jim Justice [R-WV]",
+          "govtrackId": 456969,
+          "bioguideid": "J000312",
+          "role": "member"
+        },
+        {
+          "name": "Charles Grassley",
+          "fullName": "Sen. Charles “Chuck” Grassley [R-IA]",
+          "govtrackId": 300048,
+          "bioguideid": "G000386",
+          "role": "member"
+        },
+        {
+          "name": "John Thune",
+          "fullName": "Sen. John Thune [R-SD]",
+          "govtrackId": 400546,
+          "bioguideid": "T000250",
+          "role": "member"
+        },
+        {
+          "name": "Deb Fischer",
+          "fullName": "Sen. Deb Fischer [R-NE]",
+          "govtrackId": 412556,
+          "bioguideid": "F000463",
+          "role": "member"
+        },
+        {
+          "name": "Jerry Moran",
+          "fullName": "Sen. Jerry Moran [R-KS]",
+          "govtrackId": 400284,
+          "bioguideid": "M000934",
+          "role": "member"
+        },
+        {
+          "name": "Amy Klobuchar",
+          "fullName": "Sen. Amy Klobuchar [D-MN]",
+          "govtrackId": 412242,
+          "bioguideid": "K000367",
+          "role": "ranking_member"
+        },
+        {
+          "name": "Michael Bennet",
+          "fullName": "Sen. Michael Bennet [D-CO]",
+          "govtrackId": 412330,
+          "bioguideid": "B001267",
+          "role": "member"
+        },
+        {
+          "name": "Tina Smith",
+          "fullName": "Sen. Tina Smith [D-MN]",
+          "govtrackId": 412742,
+          "bioguideid": "S001203",
+          "role": "member"
+        },
+        {
+          "name": "Richard Durbin",
+          "fullName": "Sen. Richard Durbin [D-IL]",
+          "govtrackId": 300038,
+          "bioguideid": "D000563",
+          "role": "member"
+        },
+        {
+          "name": "Cory Booker",
+          "fullName": "Sen. Cory Booker [D-NJ]",
+          "govtrackId": 412598,
+          "bioguideid": "B001288",
+          "role": "member"
+        },
+        {
+          "name": "Ben Luján",
+          "fullName": "Sen. Ben Ray Luján [D-NM]",
+          "govtrackId": 412293,
+          "bioguideid": "L000570",
+          "role": "member"
+        },
+        {
+          "name": "Raphael Warnock",
+          "fullName": "Sen. Raphael Warnock [D-GA]",
+          "govtrackId": 456858,
+          "bioguideid": "W000790",
+          "role": "member"
+        },
+        {
+          "name": "Peter Welch",
+          "fullName": "Sen. Peter Welch [D-VT]",
+          "govtrackId": 412239,
+          "bioguideid": "W000800",
+          "role": "member"
+        },
+        {
+          "name": "John Fetterman",
+          "fullName": "Sen. John Fetterman [D-PA]",
+          "govtrackId": 456877,
+          "bioguideid": "F000479",
+          "role": "member"
+        },
+        {
+          "name": "Adam Schiff",
+          "fullName": "Sen. Adam Schiff [D-CA]",
+          "govtrackId": 400361,
+          "bioguideid": "S001150",
+          "role": "member"
+        },
+        {
+          "name": "Elissa Slotkin",
+          "fullName": "Sen. Elissa Slotkin [D-MI]",
+          "govtrackId": 412784,
+          "bioguideid": "S001208",
+          "role": "member"
+        }
+      ]
+    },
+    {
+      "code": "SSAP",
+      "name": "Senate Committee on Appropriations",
+      "type": "senate",
+      "url": "http://www.appropriations.senate.gov/",
+      "jurisdiction": "The Senate Committee on Appropriations is responsible for legislation allocating federal funds prior to expenditure from the treasury. Appropriations are generally limited to the levels set by the Budget Resolution drafted by the Senate Committee on the Budget. The Committee is also responsible for supplemental spending bills, which are sometimes needed in the middle of a fiscal year to compensate for emergency expenses.",
+      "sectors": [
+        "government",
+        "defense",
+        "healthcare"
+      ],
+      "sectorName": "Appropriations",
+      "members": [
+        {
+          "name": "Susan Collins",
+          "fullName": "Sen. Susan Collins [R-ME]",
+          "govtrackId": 300025,
+          "bioguideid": "C001035",
+          "role": "chair"
+        },
+        {
+          "name": "Mitch McConnell",
+          "fullName": "Sen. Mitch McConnell [R-KY]",
+          "govtrackId": 300072,
+          "bioguideid": "M000355",
+          "role": "member"
+        },
+        {
+          "name": "Lisa Murkowski",
+          "fullName": "Sen. Lisa Murkowski [R-AK]",
+          "govtrackId": 300075,
+          "bioguideid": "M001153",
+          "role": "member"
+        },
+        {
+          "name": "Lindsey Graham",
+          "fullName": "Sen. Lindsey Graham [R-SC]",
+          "govtrackId": 300047,
+          "bioguideid": "G000359",
+          "role": "member"
+        },
+        {
+          "name": "Jerry Moran",
+          "fullName": "Sen. Jerry Moran [R-KS]",
+          "govtrackId": 400284,
+          "bioguideid": "M000934",
+          "role": "member"
+        },
+        {
+          "name": "John Hoeven",
+          "fullName": "Sen. John Hoeven [R-ND]",
+          "govtrackId": 412494,
+          "bioguideid": "H001061",
+          "role": "member"
+        },
+        {
+          "name": "John Boozman",
+          "fullName": "Sen. John Boozman [R-AR]",
+          "govtrackId": 400040,
+          "bioguideid": "B001236",
+          "role": "member"
+        },
+        {
+          "name": "Shelley Capito",
+          "fullName": "Sen. Shelley Moore Capito [R-WV]",
+          "govtrackId": 400061,
+          "bioguideid": "C001047",
+          "role": "member"
+        },
+        {
+          "name": "John Kennedy",
+          "fullName": "Sen. John Neely Kennedy [R-LA]",
+          "govtrackId": 412679,
+          "bioguideid": "K000393",
+          "role": "member"
+        },
+        {
+          "name": "Cindy Hyde-Smith",
+          "fullName": "Sen. Cindy Hyde-Smith [R-MS]",
+          "govtrackId": 412743,
+          "bioguideid": "H001079",
+          "role": "member"
+        },
+        {
+          "name": "Bill Hagerty",
+          "fullName": "Sen. Bill Hagerty [R-TN]",
+          "govtrackId": 456798,
+          "bioguideid": "H000601",
+          "role": "member"
+        },
+        {
+          "name": "Katie Britt",
+          "fullName": "Sen. Katie Britt [R-AL]",
+          "govtrackId": 456874,
+          "bioguideid": "B001319",
+          "role": "member"
+        },
+        {
+          "name": "Deb Fischer",
+          "fullName": "Sen. Deb Fischer [R-NE]",
+          "govtrackId": 412556,
+          "bioguideid": "F000463",
+          "role": "member"
+        },
+        {
+          "name": "Mike Rounds",
+          "fullName": "Sen. Mike Rounds [R-SD]",
+          "govtrackId": 412669,
+          "bioguideid": "R000605",
+          "role": "member"
+        },
+        {
+          "name": "Patty Murray",
+          "fullName": "Sen. Patty Murray [D-WA]",
+          "govtrackId": 300076,
+          "bioguideid": "M001111",
+          "role": "ranking_member"
+        },
+        {
+          "name": "Richard Durbin",
+          "fullName": "Sen. Richard Durbin [D-IL]",
+          "govtrackId": 300038,
+          "bioguideid": "D000563",
+          "role": "member"
+        },
+        {
+          "name": "John Reed",
+          "fullName": "Sen. John F. “Jack” Reed [D-RI]",
+          "govtrackId": 300081,
+          "bioguideid": "R000122",
+          "role": "member"
+        },
+        {
+          "name": "Jeanne Shaheen",
+          "fullName": "Sen. Jeanne Shaheen [D-NH]",
+          "govtrackId": 412323,
+          "bioguideid": "S001181",
+          "role": "member"
+        },
+        {
+          "name": "Jeff Merkley",
+          "fullName": "Sen. Jeff Merkley [D-OR]",
+          "govtrackId": 412325,
+          "bioguideid": "M001176",
+          "role": "member"
+        },
+        {
+          "name": "Christopher Coons",
+          "fullName": "Sen. Christopher Coons [D-DE]",
+          "govtrackId": 412390,
+          "bioguideid": "C001088",
+          "role": "member"
+        },
+        {
+          "name": "Brian Schatz",
+          "fullName": "Sen. Brian Schatz [D-HI]",
+          "govtrackId": 412507,
+          "bioguideid": "S001194",
+          "role": "member"
+        },
+        {
+          "name": "Tammy Baldwin",
+          "fullName": "Sen. Tammy Baldwin [D-WI]",
+          "govtrackId": 400013,
+          "bioguideid": "B001230",
+          "role": "member"
+        },
+        {
+          "name": "Christopher Murphy",
+          "fullName": "Sen. Christopher Murphy [D-CT]",
+          "govtrackId": 412194,
+          "bioguideid": "M001169",
+          "role": "member"
+        },
+        {
+          "name": "Chris Van Hollen",
+          "fullName": "Sen. Chris Van Hollen [D-MD]",
+          "govtrackId": 400415,
+          "bioguideid": "V000128",
+          "role": "member"
+        },
+        {
+          "name": "Martin Heinrich",
+          "fullName": "Sen. Martin Heinrich [D-NM]",
+          "govtrackId": 412281,
+          "bioguideid": "H001046",
+          "role": "member"
+        },
+        {
+          "name": "Gary Peters",
+          "fullName": "Sen. Gary Peters [D-MI]",
+          "govtrackId": 412305,
+          "bioguideid": "P000595",
+          "role": "member"
+        },
+        {
+          "name": "Kirsten Gillibrand",
+          "fullName": "Sen. Kirsten Gillibrand [D-NY]",
+          "govtrackId": 412223,
+          "bioguideid": "G000555",
+          "role": "member"
+        },
+        {
+          "name": "Jon Ossoff",
+          "fullName": "Sen. Jon Ossoff [D-GA]",
+          "govtrackId": 456857,
+          "bioguideid": "O000174",
+          "role": "member"
+        }
+      ]
+    },
+    {
+      "code": "SSAS",
+      "name": "Senate Committee on Armed Services",
+      "type": "senate",
+      "url": "http://www.armed-services.senate.gov/",
+      "jurisdiction": "The Senate Committee on Armed Services has legislative jurisdiction over military and defense.",
+      "sectors": [
+        "defense",
+        "aerospace",
+        "cybersecurity"
+      ],
+      "sectorName": "Armed Services",
+      "members": [
+        {
+          "name": "Roger Wicker",
+          "fullName": "Sen. Roger Wicker [R-MS]",
+          "govtrackId": 400432,
+          "bioguideid": "W000437",
+          "role": "chair"
+        },
+        {
+          "name": "Deb Fischer",
+          "fullName": "Sen. Deb Fischer [R-NE]",
+          "govtrackId": 412556,
+          "bioguideid": "F000463",
+          "role": "member"
+        },
+        {
+          "name": "Tom Cotton",
+          "fullName": "Sen. Tom Cotton [R-AR]",
+          "govtrackId": 412508,
+          "bioguideid": "C001095",
+          "role": "member"
+        },
+        {
+          "name": "Mike Rounds",
+          "fullName": "Sen. Mike Rounds [R-SD]",
+          "govtrackId": 412669,
+          "bioguideid": "R000605",
+          "role": "member"
+        },
+        {
+          "name": "Joni Ernst",
+          "fullName": "Sen. Joni Ernst [R-IA]",
+          "govtrackId": 412667,
+          "bioguideid": "E000295",
+          "role": "member"
+        },
+        {
+          "name": "Dan Sullivan",
+          "fullName": "Sen. Dan Sullivan [R-AK]",
+          "govtrackId": 412665,
+          "bioguideid": "S001198",
+          "role": "member"
+        },
+        {
+          "name": "Kevin Cramer",
+          "fullName": "Sen. Kevin Cramer [R-ND]",
+          "govtrackId": 412555,
+          "bioguideid": "C001096",
+          "role": "member"
+        },
+        {
+          "name": "Rick Scott",
+          "fullName": "Sen. Rick Scott [R-FL]",
+          "govtrackId": 412838,
+          "bioguideid": "S001217",
+          "role": "member"
+        },
+        {
+          "name": "Tommy Tuberville",
+          "fullName": "Sen. Tommy Tuberville [R-AL]",
+          "govtrackId": 456796,
+          "bioguideid": "T000278",
+          "role": "member"
+        },
+        {
+          "name": "Ted Budd",
+          "fullName": "Sen. Ted Budd [R-NC]",
+          "govtrackId": 412712,
+          "bioguideid": "B001305",
+          "role": "member"
+        },
+        {
+          "name": "Eric Schmitt",
+          "fullName": "Sen. Eric Schmitt [R-MO]",
+          "govtrackId": 456875,
+          "bioguideid": "S001227",
+          "role": "member"
+        },
+        {
+          "name": "Jim Banks",
+          "fullName": "Sen. Jim Banks [R-IN]",
+          "govtrackId": 412702,
+          "bioguideid": "B001299",
+          "role": "member"
+        },
+        {
+          "name": "Tim Sheehy",
+          "fullName": "Sen. Tim Sheehy [R-MT]",
+          "govtrackId": 456966,
+          "bioguideid": "S001232",
+          "role": "member"
+        },
+        {
+          "name": "John Reed",
+          "fullName": "Sen. John F. “Jack” Reed [D-RI]",
+          "govtrackId": 300081,
+          "bioguideid": "R000122",
+          "role": "ranking_member"
+        },
+        {
+          "name": "Jeanne Shaheen",
+          "fullName": "Sen. Jeanne Shaheen [D-NH]",
+          "govtrackId": 412323,
+          "bioguideid": "S001181",
+          "role": "member"
+        },
+        {
+          "name": "Kirsten Gillibrand",
+          "fullName": "Sen. Kirsten Gillibrand [D-NY]",
+          "govtrackId": 412223,
+          "bioguideid": "G000555",
+          "role": "member"
+        },
+        {
+          "name": "Richard Blumenthal",
+          "fullName": "Sen. Richard Blumenthal [D-CT]",
+          "govtrackId": 412490,
+          "bioguideid": "B001277",
+          "role": "member"
+        },
+        {
+          "name": "Mazie Hirono",
+          "fullName": "Sen. Mazie Hirono [D-HI]",
+          "govtrackId": 412200,
+          "bioguideid": "H001042",
+          "role": "member"
+        },
+        {
+          "name": "Timothy Kaine",
+          "fullName": "Sen. Timothy “Tim” Kaine [D-VA]",
+          "govtrackId": 412582,
+          "bioguideid": "K000384",
+          "role": "member"
+        },
+        {
+          "name": "Angus King",
+          "fullName": "Sen. Angus King [I-ME]",
+          "govtrackId": 412545,
+          "bioguideid": "K000383",
+          "role": "member"
+        },
+        {
+          "name": "Elizabeth Warren",
+          "fullName": "Sen. Elizabeth Warren [D-MA]",
+          "govtrackId": 412542,
+          "bioguideid": "W000817",
+          "role": "member"
+        },
+        {
+          "name": "Gary Peters",
+          "fullName": "Sen. Gary Peters [D-MI]",
+          "govtrackId": 412305,
+          "bioguideid": "P000595",
+          "role": "member"
+        },
+        {
+          "name": "Tammy Duckworth",
+          "fullName": "Sen. Tammy Duckworth [D-IL]",
+          "govtrackId": 412533,
+          "bioguideid": "D000622",
+          "role": "member"
+        },
+        {
+          "name": "Jacky Rosen",
+          "fullName": "Sen. Jacky Rosen [D-NV]",
+          "govtrackId": 412715,
+          "bioguideid": "R000608",
+          "role": "member"
+        },
+        {
+          "name": "Mark Kelly",
+          "fullName": "Sen. Mark Kelly [D-AZ]",
+          "govtrackId": 456794,
+          "bioguideid": "K000377",
+          "role": "member"
+        },
+        {
+          "name": "Elissa Slotkin",
+          "fullName": "Sen. Elissa Slotkin [D-MI]",
+          "govtrackId": 412784,
+          "bioguideid": "S001208",
+          "role": "member"
+        }
+      ]
+    },
+    {
+      "code": "SSBK",
+      "name": "Senate Committee on Banking, Housing, and Urban Affairs",
+      "type": "senate",
+      "url": "http://banking.senate.gov/",
+      "jurisdiction": "The Senate Committee on Banking, Housing, and Urban Affairs not only has legislative jurisdiction on the topics listed in its name, but also on a range of other topics such as economic stability, federal monetary policy, and government contracts.",
+      "sectors": [
+        "banking",
+        "finance",
+        "insurance",
+        "crypto",
+        "fintech",
+        "real-estate"
+      ],
+      "sectorName": "Banking, Housing, and Urban Affairs",
+      "members": [
+        {
+          "name": "Tim Scott",
+          "fullName": "Sen. Tim Scott [R-SC]",
+          "govtrackId": 412471,
+          "bioguideid": "S001184",
+          "role": "chair"
+        },
+        {
+          "name": "Michael Crapo",
+          "fullName": "Sen. Michael “Mike” Crapo [R-ID]",
+          "govtrackId": 300030,
+          "bioguideid": "C000880",
+          "role": "member"
+        },
+        {
+          "name": "Mike Rounds",
+          "fullName": "Sen. Mike Rounds [R-SD]",
+          "govtrackId": 412669,
+          "bioguideid": "R000605",
+          "role": "member"
+        },
+        {
+          "name": "Thom Tillis",
+          "fullName": "Sen. Thom Tillis [R-NC]",
+          "govtrackId": 412668,
+          "bioguideid": "T000476",
+          "role": "member"
+        },
+        {
+          "name": "John Kennedy",
+          "fullName": "Sen. John Neely Kennedy [R-LA]",
+          "govtrackId": 412679,
+          "bioguideid": "K000393",
+          "role": "member"
+        },
+        {
+          "name": "Bill Hagerty",
+          "fullName": "Sen. Bill Hagerty [R-TN]",
+          "govtrackId": 456798,
+          "bioguideid": "H000601",
+          "role": "member"
+        },
+        {
+          "name": "Cynthia Lummis",
+          "fullName": "Sen. Cynthia Lummis [R-WY]",
+          "govtrackId": 412294,
+          "bioguideid": "L000571",
+          "role": "member"
+        },
+        {
+          "name": "Katie Britt",
+          "fullName": "Sen. Katie Britt [R-AL]",
+          "govtrackId": 456874,
+          "bioguideid": "B001319",
+          "role": "member"
+        },
+        {
+          "name": "Pete Ricketts",
+          "fullName": "Sen. Pete Ricketts [R-NE]",
+          "govtrackId": 456952,
+          "bioguideid": "R000618",
+          "role": "member"
+        },
+        {
+          "name": "Jim Banks",
+          "fullName": "Sen. Jim Banks [R-IN]",
+          "govtrackId": 412702,
+          "bioguideid": "B001299",
+          "role": "member"
+        },
+        {
+          "name": "Kevin Cramer",
+          "fullName": "Sen. Kevin Cramer [R-ND]",
+          "govtrackId": 412555,
+          "bioguideid": "C001096",
+          "role": "member"
+        },
+        {
+          "name": "Bernie Moreno",
+          "fullName": "Sen. Bernie Moreno [R-OH]",
+          "govtrackId": 456967,
+          "bioguideid": "M001242",
+          "role": "member"
+        },
+        {
+          "name": "Dave McCormick",
+          "fullName": "Sen. Dave McCormick [R-PA]",
+          "govtrackId": 456968,
+          "bioguideid": "M001243",
+          "role": "member"
+        },
+        {
+          "name": "Elizabeth Warren",
+          "fullName": "Sen. Elizabeth Warren [D-MA]",
+          "govtrackId": 412542,
+          "bioguideid": "W000817",
+          "role": "ranking_member"
+        },
+        {
+          "name": "John Reed",
+          "fullName": "Sen. John F. “Jack” Reed [D-RI]",
+          "govtrackId": 300081,
+          "bioguideid": "R000122",
+          "role": "member"
+        },
+        {
+          "name": "Mark Warner",
+          "fullName": "Sen. Mark Warner [D-VA]",
+          "govtrackId": 412321,
+          "bioguideid": "W000805",
+          "role": "member"
+        },
+        {
+          "name": "Chris Van Hollen",
+          "fullName": "Sen. Chris Van Hollen [D-MD]",
+          "govtrackId": 400415,
+          "bioguideid": "V000128",
+          "role": "member"
+        },
+        {
+          "name": "Catherine Cortez Masto",
+          "fullName": "Sen. Catherine Cortez Masto [D-NV]",
+          "govtrackId": 412681,
+          "bioguideid": "C001113",
+          "role": "member"
+        },
+        {
+          "name": "Tina Smith",
+          "fullName": "Sen. Tina Smith [D-MN]",
+          "govtrackId": 412742,
+          "bioguideid": "S001203",
+          "role": "member"
+        },
+        {
+          "name": "Raphael Warnock",
+          "fullName": "Sen. Raphael Warnock [D-GA]",
+          "govtrackId": 456858,
+          "bioguideid": "W000790",
+          "role": "member"
+        },
+        {
+          "name": "Andy Kim",
+          "fullName": "Sen. Andy Kim [D-NJ]",
+          "govtrackId": 412797,
+          "bioguideid": "K000394",
+          "role": "member"
+        },
+        {
+          "name": "Ruben Gallego",
+          "fullName": "Sen. Ruben Gallego [D-AZ]",
+          "govtrackId": 412612,
+          "bioguideid": "G000574",
+          "role": "member"
+        },
+        {
+          "name": "Lisa Blunt Rochester",
+          "fullName": "Sen. Lisa Blunt Rochester [D-DE]",
+          "govtrackId": 412689,
+          "bioguideid": "B001303",
+          "role": "member"
+        },
+        {
+          "name": "Angela Alsobrooks",
+          "fullName": "Sen. Angela Alsobrooks [D-MD]",
+          "govtrackId": 456965,
+          "bioguideid": "A000382",
+          "role": "member"
+        }
+      ]
+    },
+    {
+      "code": "SSCM",
+      "name": "Senate Committee on Commerce, Science, and Transportation",
+      "type": "senate",
+      "url": "http://www.commerce.senate.gov/",
+      "jurisdiction": "The Senate Committee on Commerce, Science, and Transportation has legislative jurisdiction on matters related to science and technology, oceans policy, transportation, communications, and consumer affairs.",
+      "sectors": [
+        "tech",
+        "telecom",
+        "transport",
+        "aerospace",
+        "media"
+      ],
+      "sectorName": "Commerce, Science, and Transportation",
+      "members": [
+        {
+          "name": "Ted Cruz",
+          "fullName": "Sen. Ted Cruz [R-TX]",
+          "govtrackId": 412573,
+          "bioguideid": "C001098",
+          "role": "chair"
+        },
+        {
+          "name": "John Thune",
+          "fullName": "Sen. John Thune [R-SD]",
+          "govtrackId": 400546,
+          "bioguideid": "T000250",
+          "role": "member"
+        },
+        {
+          "name": "Roger Wicker",
+          "fullName": "Sen. Roger Wicker [R-MS]",
+          "govtrackId": 400432,
+          "bioguideid": "W000437",
+          "role": "member"
+        },
+        {
+          "name": "Deb Fischer",
+          "fullName": "Sen. Deb Fischer [R-NE]",
+          "govtrackId": 412556,
+          "bioguideid": "F000463",
+          "role": "member"
+        },
+        {
+          "name": "Jerry Moran",
+          "fullName": "Sen. Jerry Moran [R-KS]",
+          "govtrackId": 400284,
+          "bioguideid": "M000934",
+          "role": "member"
+        },
+        {
+          "name": "Dan Sullivan",
+          "fullName": "Sen. Dan Sullivan [R-AK]",
+          "govtrackId": 412665,
+          "bioguideid": "S001198",
+          "role": "member"
+        },
+        {
+          "name": "Marsha Blackburn",
+          "fullName": "Sen. Marsha Blackburn [R-TN]",
+          "govtrackId": 400032,
+          "bioguideid": "B001243",
+          "role": "member"
+        },
+        {
+          "name": "Todd Young",
+          "fullName": "Sen. Todd Young [R-IN]",
+          "govtrackId": 412428,
+          "bioguideid": "Y000064",
+          "role": "member"
+        },
+        {
+          "name": "Ted Budd",
+          "fullName": "Sen. Ted Budd [R-NC]",
+          "govtrackId": 412712,
+          "bioguideid": "B001305",
+          "role": "member"
+        },
+        {
+          "name": "Eric Schmitt",
+          "fullName": "Sen. Eric Schmitt [R-MO]",
+          "govtrackId": 456875,
+          "bioguideid": "S001227",
+          "role": "member"
+        },
+        {
+          "name": "John Curtis",
+          "fullName": "Sen. John Curtis [R-UT]",
+          "govtrackId": 412740,
+          "bioguideid": "C001114",
+          "role": "member"
+        },
+        {
+          "name": "Bernie Moreno",
+          "fullName": "Sen. Bernie Moreno [R-OH]",
+          "govtrackId": 456967,
+          "bioguideid": "M001242",
+          "role": "member"
+        },
+        {
+          "name": "Tim Sheehy",
+          "fullName": "Sen. Tim Sheehy [R-MT]",
+          "govtrackId": 456966,
+          "bioguideid": "S001232",
+          "role": "member"
+        },
+        {
+          "name": "Shelley Capito",
+          "fullName": "Sen. Shelley Moore Capito [R-WV]",
+          "govtrackId": 400061,
+          "bioguideid": "C001047",
+          "role": "member"
+        },
+        {
+          "name": "Cynthia Lummis",
+          "fullName": "Sen. Cynthia Lummis [R-WY]",
+          "govtrackId": 412294,
+          "bioguideid": "L000571",
+          "role": "member"
+        },
+        {
+          "name": "Maria Cantwell",
+          "fullName": "Sen. Maria Cantwell [D-WA]",
+          "govtrackId": 300018,
+          "bioguideid": "C000127",
+          "role": "ranking_member"
+        },
+        {
+          "name": "Amy Klobuchar",
+          "fullName": "Sen. Amy Klobuchar [D-MN]",
+          "govtrackId": 412242,
+          "bioguideid": "K000367",
+          "role": "member"
+        },
+        {
+          "name": "Brian Schatz",
+          "fullName": "Sen. Brian Schatz [D-HI]",
+          "govtrackId": 412507,
+          "bioguideid": "S001194",
+          "role": "member"
+        },
+        {
+          "name": "Edward Markey",
+          "fullName": "Sen. Edward “Ed” Markey [D-MA]",
+          "govtrackId": 400253,
+          "bioguideid": "M000133",
+          "role": "member"
+        },
+        {
+          "name": "Gary Peters",
+          "fullName": "Sen. Gary Peters [D-MI]",
+          "govtrackId": 412305,
+          "bioguideid": "P000595",
+          "role": "member"
+        },
+        {
+          "name": "Tammy Baldwin",
+          "fullName": "Sen. Tammy Baldwin [D-WI]",
+          "govtrackId": 400013,
+          "bioguideid": "B001230",
+          "role": "member"
+        },
+        {
+          "name": "Tammy Duckworth",
+          "fullName": "Sen. Tammy Duckworth [D-IL]",
+          "govtrackId": 412533,
+          "bioguideid": "D000622",
+          "role": "member"
+        },
+        {
+          "name": "Jacky Rosen",
+          "fullName": "Sen. Jacky Rosen [D-NV]",
+          "govtrackId": 412715,
+          "bioguideid": "R000608",
+          "role": "member"
+        },
+        {
+          "name": "Ben Luján",
+          "fullName": "Sen. Ben Ray Luján [D-NM]",
+          "govtrackId": 412293,
+          "bioguideid": "L000570",
+          "role": "member"
+        },
+        {
+          "name": "John Hickenlooper",
+          "fullName": "Sen. John Hickenlooper [D-CO]",
+          "govtrackId": 456797,
+          "bioguideid": "H000273",
+          "role": "member"
+        },
+        {
+          "name": "John Fetterman",
+          "fullName": "Sen. John Fetterman [D-PA]",
+          "govtrackId": 456877,
+          "bioguideid": "F000479",
+          "role": "member"
+        },
+        {
+          "name": "Andy Kim",
+          "fullName": "Sen. Andy Kim [D-NJ]",
+          "govtrackId": 412797,
+          "bioguideid": "K000394",
+          "role": "member"
+        },
+        {
+          "name": "Lisa Blunt Rochester",
+          "fullName": "Sen. Lisa Blunt Rochester [D-DE]",
+          "govtrackId": 412689,
+          "bioguideid": "B001303",
+          "role": "member"
+        }
+      ]
+    },
+    {
+      "code": "SSEG",
+      "name": "Senate Committee on Energy and Natural Resources",
+      "type": "senate",
+      "url": "http://www.energy.senate.gov/",
+      "jurisdiction": "The Senate Committee on Energy and Natural Resources has legislative jurisdiction on matters related to energy resources and development, nuclear energy, Indian affairs, public lands and their renewable resources, surface mining, territories and insular possessions, and water resources.",
+      "sectors": [
+        "energy",
+        "oil",
+        "mining",
+        "utilities"
+      ],
+      "sectorName": "Energy and Natural Resources",
+      "members": [
+        {
+          "name": "Mike Lee",
+          "fullName": "Sen. Mike Lee [R-UT]",
+          "govtrackId": 412495,
+          "bioguideid": "L000577",
+          "role": "chair"
+        },
+        {
+          "name": "John Barrasso",
+          "fullName": "Sen. John Barrasso [R-WY]",
+          "govtrackId": 412251,
+          "bioguideid": "B001261",
+          "role": "member"
+        },
+        {
+          "name": "James Risch",
+          "fullName": "Sen. James Risch [R-ID]",
+          "govtrackId": 412322,
+          "bioguideid": "R000584",
+          "role": "member"
+        },
+        {
+          "name": "Steve Daines",
+          "fullName": "Sen. Steve Daines [R-MT]",
+          "govtrackId": 412549,
+          "bioguideid": "D000618",
+          "role": "member"
+        },
+        {
+          "name": "Tom Cotton",
+          "fullName": "Sen. Tom Cotton [R-AR]",
+          "govtrackId": 412508,
+          "bioguideid": "C001095",
+          "role": "member"
+        },
+        {
+          "name": "Dave McCormick",
+          "fullName": "Sen. Dave McCormick [R-PA]",
+          "govtrackId": 456968,
+          "bioguideid": "M001243",
+          "role": "member"
+        },
+        {
+          "name": "Jim Justice",
+          "fullName": "Sen. Jim Justice [R-WV]",
+          "govtrackId": 456969,
+          "bioguideid": "J000312",
+          "role": "member"
+        },
+        {
+          "name": "Bill Cassidy",
+          "fullName": "Sen. Bill Cassidy [R-LA]",
+          "govtrackId": 412269,
+          "bioguideid": "C001075",
+          "role": "member"
+        },
+        {
+          "name": "Cindy Hyde-Smith",
+          "fullName": "Sen. Cindy Hyde-Smith [R-MS]",
+          "govtrackId": 412743,
+          "bioguideid": "H001079",
+          "role": "member"
+        },
+        {
+          "name": "Lisa Murkowski",
+          "fullName": "Sen. Lisa Murkowski [R-AK]",
+          "govtrackId": 300075,
+          "bioguideid": "M001153",
+          "role": "member"
+        },
+        {
+          "name": "John Hoeven",
+          "fullName": "Sen. John Hoeven [R-ND]",
+          "govtrackId": 412494,
+          "bioguideid": "H001061",
+          "role": "member"
+        },
+        {
+          "name": "Martin Heinrich",
+          "fullName": "Sen. Martin Heinrich [D-NM]",
+          "govtrackId": 412281,
+          "bioguideid": "H001046",
+          "role": "ranking_member"
+        },
+        {
+          "name": "Ron Wyden",
+          "fullName": "Sen. Ron Wyden [D-OR]",
+          "govtrackId": 300100,
+          "bioguideid": "W000779",
+          "role": "member"
+        },
+        {
+          "name": "Maria Cantwell",
+          "fullName": "Sen. Maria Cantwell [D-WA]",
+          "govtrackId": 300018,
+          "bioguideid": "C000127",
+          "role": "member"
+        },
+        {
+          "name": "Mazie Hirono",
+          "fullName": "Sen. Mazie Hirono [D-HI]",
+          "govtrackId": 412200,
+          "bioguideid": "H001042",
+          "role": "member"
+        },
+        {
+          "name": "Angus King",
+          "fullName": "Sen. Angus King [I-ME]",
+          "govtrackId": 412545,
+          "bioguideid": "K000383",
+          "role": "member"
+        },
+        {
+          "name": "Catherine Cortez Masto",
+          "fullName": "Sen. Catherine Cortez Masto [D-NV]",
+          "govtrackId": 412681,
+          "bioguideid": "C001113",
+          "role": "member"
+        },
+        {
+          "name": "John Hickenlooper",
+          "fullName": "Sen. John Hickenlooper [D-CO]",
+          "govtrackId": 456797,
+          "bioguideid": "H000273",
+          "role": "member"
+        },
+        {
+          "name": "Alejandro Padilla",
+          "fullName": "Sen. Alejandro “Alex” Padilla [D-CA]",
+          "govtrackId": 456856,
+          "bioguideid": "P000145",
+          "role": "member"
+        },
+        {
+          "name": "Ruben Gallego",
+          "fullName": "Sen. Ruben Gallego [D-AZ]",
+          "govtrackId": 412612,
+          "bioguideid": "G000574",
+          "role": "member"
+        }
+      ]
+    },
+    {
+      "code": "SSEV",
+      "name": "Senate Committee on Environment and Public Works",
+      "type": "senate",
+      "url": "http://www.epw.senate.gov/",
+      "jurisdiction": "The Senate Committee on Environment and Public Works has legislative jurisdiction on matters related to environmental protection, resource utilization and conservation, and public infrastructure.",
+      "sectors": [
+        "energy",
+        "construction",
+        "utilities"
+      ],
+      "sectorName": "Environment and Public Works",
+      "members": [
+        {
+          "name": "Shelley Capito",
+          "fullName": "Sen. Shelley Moore Capito [R-WV]",
+          "govtrackId": 400061,
+          "bioguideid": "C001047",
+          "role": "chair"
+        },
+        {
+          "name": "Kevin Cramer",
+          "fullName": "Sen. Kevin Cramer [R-ND]",
+          "govtrackId": 412555,
+          "bioguideid": "C001096",
+          "role": "member"
+        },
+        {
+          "name": "Cynthia Lummis",
+          "fullName": "Sen. Cynthia Lummis [R-WY]",
+          "govtrackId": 412294,
+          "bioguideid": "L000571",
+          "role": "member"
+        },
+        {
+          "name": "John Curtis",
+          "fullName": "Sen. John Curtis [R-UT]",
+          "govtrackId": 412740,
+          "bioguideid": "C001114",
+          "role": "member"
+        },
+        {
+          "name": "Lindsey Graham",
+          "fullName": "Sen. Lindsey Graham [R-SC]",
+          "govtrackId": 300047,
+          "bioguideid": "G000359",
+          "role": "member"
+        },
+        {
+          "name": "Dan Sullivan",
+          "fullName": "Sen. Dan Sullivan [R-AK]",
+          "govtrackId": 412665,
+          "bioguideid": "S001198",
+          "role": "member"
+        },
+        {
+          "name": "Pete Ricketts",
+          "fullName": "Sen. Pete Ricketts [R-NE]",
+          "govtrackId": 456952,
+          "bioguideid": "R000618",
+          "role": "member"
+        },
+        {
+          "name": "Roger Wicker",
+          "fullName": "Sen. Roger Wicker [R-MS]",
+          "govtrackId": 400432,
+          "bioguideid": "W000437",
+          "role": "member"
+        },
+        {
+          "name": "John Boozman",
+          "fullName": "Sen. John Boozman [R-AR]",
+          "govtrackId": 400040,
+          "bioguideid": "B001236",
+          "role": "member"
+        },
+        {
+          "name": "Jon Husted",
+          "fullName": "Sen. Jon Husted [R-OH]",
+          "govtrackId": 457032,
+          "bioguideid": "H001104",
+          "role": "member"
+        },
+        {
+          "name": "Sheldon Whitehouse",
+          "fullName": "Sen. Sheldon Whitehouse [D-RI]",
+          "govtrackId": 412247,
+          "bioguideid": "W000802",
+          "role": "ranking_member"
+        },
+        {
+          "name": "Bernard Sanders",
+          "fullName": "Sen. Bernard “Bernie” Sanders [I-VT]",
+          "govtrackId": 400357,
+          "bioguideid": "S000033",
+          "role": "member"
+        },
+        {
+          "name": "Jeff Merkley",
+          "fullName": "Sen. Jeff Merkley [D-OR]",
+          "govtrackId": 412325,
+          "bioguideid": "M001176",
+          "role": "member"
+        },
+        {
+          "name": "Edward Markey",
+          "fullName": "Sen. Edward “Ed” Markey [D-MA]",
+          "govtrackId": 400253,
+          "bioguideid": "M000133",
+          "role": "member"
+        },
+        {
+          "name": "Mark Kelly",
+          "fullName": "Sen. Mark Kelly [D-AZ]",
+          "govtrackId": 456794,
+          "bioguideid": "K000377",
+          "role": "member"
+        },
+        {
+          "name": "Alejandro Padilla",
+          "fullName": "Sen. Alejandro “Alex” Padilla [D-CA]",
+          "govtrackId": 456856,
+          "bioguideid": "P000145",
+          "role": "member"
+        },
+        {
+          "name": "Adam Schiff",
+          "fullName": "Sen. Adam Schiff [D-CA]",
+          "govtrackId": 400361,
+          "bioguideid": "S001150",
+          "role": "member"
+        },
+        {
+          "name": "Lisa Blunt Rochester",
+          "fullName": "Sen. Lisa Blunt Rochester [D-DE]",
+          "govtrackId": 412689,
+          "bioguideid": "B001303",
+          "role": "member"
+        },
+        {
+          "name": "Angela Alsobrooks",
+          "fullName": "Sen. Angela Alsobrooks [D-MD]",
+          "govtrackId": 456965,
+          "bioguideid": "A000382",
+          "role": "member"
+        }
+      ]
+    },
+    {
+      "code": "SSFI",
+      "name": "Senate Committee on Finance",
+      "type": "senate",
+      "url": "http://www.finance.senate.gov/",
+      "jurisdiction": "The Senate Committee on Finance has legislative jurisdiction on matters relating to taxation, debt, customs, foreign trade, and health programs under the Social Security Act such as Medicare, Medicaid, the Children's Health Insurance Program (CHIP), Temporary Assistance to Needy Families (TANF) and other health and human services programs financed by a specific tax or trust fund.",
+      "sectors": [
+        "finance",
+        "insurance",
+        "healthcare",
+        "energy",
+        "pharma"
+      ],
+      "sectorName": "Finance",
+      "members": [
+        {
+          "name": "Michael Crapo",
+          "fullName": "Sen. Michael “Mike” Crapo [R-ID]",
+          "govtrackId": 300030,
+          "bioguideid": "C000880",
+          "role": "chair"
+        },
+        {
+          "name": "Charles Grassley",
+          "fullName": "Sen. Charles “Chuck” Grassley [R-IA]",
+          "govtrackId": 300048,
+          "bioguideid": "G000386",
+          "role": "member"
+        },
+        {
+          "name": "John Cornyn",
+          "fullName": "Sen. John Cornyn [R-TX]",
+          "govtrackId": 300027,
+          "bioguideid": "C001056",
+          "role": "member"
+        },
+        {
+          "name": "John Thune",
+          "fullName": "Sen. John Thune [R-SD]",
+          "govtrackId": 400546,
+          "bioguideid": "T000250",
+          "role": "member"
+        },
+        {
+          "name": "Tim Scott",
+          "fullName": "Sen. Tim Scott [R-SC]",
+          "govtrackId": 412471,
+          "bioguideid": "S001184",
+          "role": "member"
+        },
+        {
+          "name": "Bill Cassidy",
+          "fullName": "Sen. Bill Cassidy [R-LA]",
+          "govtrackId": 412269,
+          "bioguideid": "C001075",
+          "role": "member"
+        },
+        {
+          "name": "James Lankford",
+          "fullName": "Sen. James Lankford [R-OK]",
+          "govtrackId": 412464,
+          "bioguideid": "L000575",
+          "role": "member"
+        },
+        {
+          "name": "Steve Daines",
+          "fullName": "Sen. Steve Daines [R-MT]",
+          "govtrackId": 412549,
+          "bioguideid": "D000618",
+          "role": "member"
+        },
+        {
+          "name": "Todd Young",
+          "fullName": "Sen. Todd Young [R-IN]",
+          "govtrackId": 412428,
+          "bioguideid": "Y000064",
+          "role": "member"
+        },
+        {
+          "name": "John Barrasso",
+          "fullName": "Sen. John Barrasso [R-WY]",
+          "govtrackId": 412251,
+          "bioguideid": "B001261",
+          "role": "member"
+        },
+        {
+          "name": "Ron Johnson",
+          "fullName": "Sen. Ron Johnson [R-WI]",
+          "govtrackId": 412496,
+          "bioguideid": "J000293",
+          "role": "member"
+        },
+        {
+          "name": "Thom Tillis",
+          "fullName": "Sen. Thom Tillis [R-NC]",
+          "govtrackId": 412668,
+          "bioguideid": "T000476",
+          "role": "member"
+        },
+        {
+          "name": "Marsha Blackburn",
+          "fullName": "Sen. Marsha Blackburn [R-TN]",
+          "govtrackId": 400032,
+          "bioguideid": "B001243",
+          "role": "member"
+        },
+        {
+          "name": "Roger Marshall",
+          "fullName": "Sen. Roger Marshall [R-KS]",
+          "govtrackId": 412704,
+          "bioguideid": "M001198",
+          "role": "member"
+        },
+        {
+          "name": "Ron Wyden",
+          "fullName": "Sen. Ron Wyden [D-OR]",
+          "govtrackId": 300100,
+          "bioguideid": "W000779",
+          "role": "ranking_member"
+        },
+        {
+          "name": "Maria Cantwell",
+          "fullName": "Sen. Maria Cantwell [D-WA]",
+          "govtrackId": 300018,
+          "bioguideid": "C000127",
+          "role": "member"
+        },
+        {
+          "name": "Michael Bennet",
+          "fullName": "Sen. Michael Bennet [D-CO]",
+          "govtrackId": 412330,
+          "bioguideid": "B001267",
+          "role": "member"
+        },
+        {
+          "name": "Mark Warner",
+          "fullName": "Sen. Mark Warner [D-VA]",
+          "govtrackId": 412321,
+          "bioguideid": "W000805",
+          "role": "member"
+        },
+        {
+          "name": "Sheldon Whitehouse",
+          "fullName": "Sen. Sheldon Whitehouse [D-RI]",
+          "govtrackId": 412247,
+          "bioguideid": "W000802",
+          "role": "member"
+        },
+        {
+          "name": "Margaret Hassan",
+          "fullName": "Sen. Margaret “Maggie” Hassan [D-NH]",
+          "govtrackId": 412680,
+          "bioguideid": "H001076",
+          "role": "member"
+        },
+        {
+          "name": "Catherine Cortez Masto",
+          "fullName": "Sen. Catherine Cortez Masto [D-NV]",
+          "govtrackId": 412681,
+          "bioguideid": "C001113",
+          "role": "member"
+        },
+        {
+          "name": "Elizabeth Warren",
+          "fullName": "Sen. Elizabeth Warren [D-MA]",
+          "govtrackId": 412542,
+          "bioguideid": "W000817",
+          "role": "member"
+        },
+        {
+          "name": "Bernard Sanders",
+          "fullName": "Sen. Bernard “Bernie” Sanders [I-VT]",
+          "govtrackId": 400357,
+          "bioguideid": "S000033",
+          "role": "member"
+        },
+        {
+          "name": "Tina Smith",
+          "fullName": "Sen. Tina Smith [D-MN]",
+          "govtrackId": 412742,
+          "bioguideid": "S001203",
+          "role": "member"
+        },
+        {
+          "name": "Ben Luján",
+          "fullName": "Sen. Ben Ray Luján [D-NM]",
+          "govtrackId": 412293,
+          "bioguideid": "L000570",
+          "role": "member"
+        },
+        {
+          "name": "Raphael Warnock",
+          "fullName": "Sen. Raphael Warnock [D-GA]",
+          "govtrackId": 456858,
+          "bioguideid": "W000790",
+          "role": "member"
+        },
+        {
+          "name": "Peter Welch",
+          "fullName": "Sen. Peter Welch [D-VT]",
+          "govtrackId": 412239,
+          "bioguideid": "W000800",
+          "role": "member"
+        }
+      ]
+    },
+    {
+      "code": "SSFR",
+      "name": "Senate Committee on Foreign Relations",
+      "type": "senate",
+      "url": "http://www.foreign.senate.gov/",
+      "jurisdiction": "The Senate Committee on Foreign Relations was established in 1816 as one of the original ten standing committees of the Senate. Throughout its history, the committee has been instrumental in developing and influencing United States foreign policy, at different times supporting and opposing the policies of presidents and secretaries of state. The committee has considered, debated, and reported important treaties and legislation, ranging from the purchase of Alaska in 1867 to the establishment of the United Nations in 1945. It also holds jurisdiction over all diplomatic nominations. Through these powers, the committee has helped shape foreign policy of broad significance, in matters of war and peace and international relations. Members of the committee have assisted in the negotiation of treaties, and at times have helped to defeat treaties they felt were not in the national interest.",
+      "sectors": [
+        "defense",
+        "foreign"
+      ],
+      "sectorName": "Foreign Relations",
+      "members": [
+        {
+          "name": "James Risch",
+          "fullName": "Sen. James Risch [R-ID]",
+          "govtrackId": 412322,
+          "bioguideid": "R000584",
+          "role": "chair"
+        },
+        {
+          "name": "Pete Ricketts",
+          "fullName": "Sen. Pete Ricketts [R-NE]",
+          "govtrackId": 456952,
+          "bioguideid": "R000618",
+          "role": "member"
+        },
+        {
+          "name": "Dave McCormick",
+          "fullName": "Sen. Dave McCormick [R-PA]",
+          "govtrackId": 456968,
+          "bioguideid": "M001243",
+          "role": "member"
+        },
+        {
+          "name": "Steve Daines",
+          "fullName": "Sen. Steve Daines [R-MT]",
+          "govtrackId": 412549,
+          "bioguideid": "D000618",
+          "role": "member"
+        },
+        {
+          "name": "Bill Hagerty",
+          "fullName": "Sen. Bill Hagerty [R-TN]",
+          "govtrackId": 456798,
+          "bioguideid": "H000601",
+          "role": "member"
+        },
+        {
+          "name": "John Barrasso",
+          "fullName": "Sen. John Barrasso [R-WY]",
+          "govtrackId": 412251,
+          "bioguideid": "B001261",
+          "role": "member"
+        },
+        {
+          "name": "Mike Lee",
+          "fullName": "Sen. Mike Lee [R-UT]",
+          "govtrackId": 412495,
+          "bioguideid": "L000577",
+          "role": "member"
+        },
+        {
+          "name": "Rand Paul",
+          "fullName": "Sen. Rand Paul [R-KY]",
+          "govtrackId": 412492,
+          "bioguideid": "P000603",
+          "role": "member"
+        },
+        {
+          "name": "Ted Cruz",
+          "fullName": "Sen. Ted Cruz [R-TX]",
+          "govtrackId": 412573,
+          "bioguideid": "C001098",
+          "role": "member"
+        },
+        {
+          "name": "Rick Scott",
+          "fullName": "Sen. Rick Scott [R-FL]",
+          "govtrackId": 412838,
+          "bioguideid": "S001217",
+          "role": "member"
+        },
+        {
+          "name": "John Curtis",
+          "fullName": "Sen. John Curtis [R-UT]",
+          "govtrackId": 412740,
+          "bioguideid": "C001114",
+          "role": "member"
+        },
+        {
+          "name": "John Cornyn",
+          "fullName": "Sen. John Cornyn [R-TX]",
+          "govtrackId": 300027,
+          "bioguideid": "C001056",
+          "role": "member"
+        },
+        {
+          "name": "Jeanne Shaheen",
+          "fullName": "Sen. Jeanne Shaheen [D-NH]",
+          "govtrackId": 412323,
+          "bioguideid": "S001181",
+          "role": "ranking_member"
+        },
+        {
+          "name": "Christopher Coons",
+          "fullName": "Sen. Christopher Coons [D-DE]",
+          "govtrackId": 412390,
+          "bioguideid": "C001088",
+          "role": "member"
+        },
+        {
+          "name": "Christopher Murphy",
+          "fullName": "Sen. Christopher Murphy [D-CT]",
+          "govtrackId": 412194,
+          "bioguideid": "M001169",
+          "role": "member"
+        },
+        {
+          "name": "Timothy Kaine",
+          "fullName": "Sen. Timothy “Tim” Kaine [D-VA]",
+          "govtrackId": 412582,
+          "bioguideid": "K000384",
+          "role": "member"
+        },
+        {
+          "name": "Jeff Merkley",
+          "fullName": "Sen. Jeff Merkley [D-OR]",
+          "govtrackId": 412325,
+          "bioguideid": "M001176",
+          "role": "member"
+        },
+        {
+          "name": "Cory Booker",
+          "fullName": "Sen. Cory Booker [D-NJ]",
+          "govtrackId": 412598,
+          "bioguideid": "B001288",
+          "role": "member"
+        },
+        {
+          "name": "Brian Schatz",
+          "fullName": "Sen. Brian Schatz [D-HI]",
+          "govtrackId": 412507,
+          "bioguideid": "S001194",
+          "role": "member"
+        },
+        {
+          "name": "Chris Van Hollen",
+          "fullName": "Sen. Chris Van Hollen [D-MD]",
+          "govtrackId": 400415,
+          "bioguideid": "V000128",
+          "role": "member"
+        },
+        {
+          "name": "Tammy Duckworth",
+          "fullName": "Sen. Tammy Duckworth [D-IL]",
+          "govtrackId": 412533,
+          "bioguideid": "D000622",
+          "role": "member"
+        },
+        {
+          "name": "Jacky Rosen",
+          "fullName": "Sen. Jacky Rosen [D-NV]",
+          "govtrackId": 412715,
+          "bioguideid": "R000608",
+          "role": "member"
+        }
+      ]
+    },
+    {
+      "code": "SSHR",
+      "name": "Senate Committee on Health, Education, Labor, and Pensions",
+      "type": "senate",
+      "url": "http://www.help.senate.gov/",
+      "jurisdiction": "The Senate Committee on Health, Education, Labor, and Pensions has jurisdiction over most of the agencies, institutes, and programs of the Department of Health and Human Services, including the Food and Drug Administration, the Centers for Disease Control and Prevention, the National Institutes of Health, the Administration on Aging, the Substance Abuse and Mental Health Services Administration, and the Agency for Healthcare Research and Quality.",
+      "sectors": [
+        "healthcare",
+        "pharma",
+        "biotech",
+        "education"
+      ],
+      "sectorName": "Health, Education, Labor, and Pensions",
+      "members": [
+        {
+          "name": "Bill Cassidy",
+          "fullName": "Sen. Bill Cassidy [R-LA]",
+          "govtrackId": 412269,
+          "bioguideid": "C001075",
+          "role": "chair"
+        },
+        {
+          "name": "Rand Paul",
+          "fullName": "Sen. Rand Paul [R-KY]",
+          "govtrackId": 412492,
+          "bioguideid": "P000603",
+          "role": "member"
+        },
+        {
+          "name": "Susan Collins",
+          "fullName": "Sen. Susan Collins [R-ME]",
+          "govtrackId": 300025,
+          "bioguideid": "C001035",
+          "role": "member"
+        },
+        {
+          "name": "Lisa Murkowski",
+          "fullName": "Sen. Lisa Murkowski [R-AK]",
+          "govtrackId": 300075,
+          "bioguideid": "M001153",
+          "role": "member"
+        },
+        {
+          "name": "Roger Marshall",
+          "fullName": "Sen. Roger Marshall [R-KS]",
+          "govtrackId": 412704,
+          "bioguideid": "M001198",
+          "role": "member"
+        },
+        {
+          "name": "Tim Scott",
+          "fullName": "Sen. Tim Scott [R-SC]",
+          "govtrackId": 412471,
+          "bioguideid": "S001184",
+          "role": "member"
+        },
+        {
+          "name": "Joshua Hawley",
+          "fullName": "Sen. Joshua “Josh” Hawley [R-MO]",
+          "govtrackId": 412840,
+          "bioguideid": "H001089",
+          "role": "member"
+        },
+        {
+          "name": "Tommy Tuberville",
+          "fullName": "Sen. Tommy Tuberville [R-AL]",
+          "govtrackId": 456796,
+          "bioguideid": "T000278",
+          "role": "member"
+        },
+        {
+          "name": "Jim Banks",
+          "fullName": "Sen. Jim Banks [R-IN]",
+          "govtrackId": 412702,
+          "bioguideid": "B001299",
+          "role": "member"
+        },
+        {
+          "name": "Jon Husted",
+          "fullName": "Sen. Jon Husted [R-OH]",
+          "govtrackId": 457032,
+          "bioguideid": "H001104",
+          "role": "member"
+        },
+        {
+          "name": "Ashley Moody",
+          "fullName": "Sen. Ashley Moody [R-FL]",
+          "govtrackId": 457033,
+          "bioguideid": "M001244",
+          "role": "member"
+        },
+        {
+          "name": "Bernard Sanders",
+          "fullName": "Sen. Bernard “Bernie” Sanders [I-VT]",
+          "govtrackId": 400357,
+          "bioguideid": "S000033",
+          "role": "ranking_member"
+        },
+        {
+          "name": "Patty Murray",
+          "fullName": "Sen. Patty Murray [D-WA]",
+          "govtrackId": 300076,
+          "bioguideid": "M001111",
+          "role": "member"
+        },
+        {
+          "name": "Tammy Baldwin",
+          "fullName": "Sen. Tammy Baldwin [D-WI]",
+          "govtrackId": 400013,
+          "bioguideid": "B001230",
+          "role": "member"
+        },
+        {
+          "name": "Christopher Murphy",
+          "fullName": "Sen. Christopher Murphy [D-CT]",
+          "govtrackId": 412194,
+          "bioguideid": "M001169",
+          "role": "member"
+        },
+        {
+          "name": "Timothy Kaine",
+          "fullName": "Sen. Timothy “Tim” Kaine [D-VA]",
+          "govtrackId": 412582,
+          "bioguideid": "K000384",
+          "role": "member"
+        },
+        {
+          "name": "Margaret Hassan",
+          "fullName": "Sen. Margaret “Maggie” Hassan [D-NH]",
+          "govtrackId": 412680,
+          "bioguideid": "H001076",
+          "role": "member"
+        },
+        {
+          "name": "John Hickenlooper",
+          "fullName": "Sen. John Hickenlooper [D-CO]",
+          "govtrackId": 456797,
+          "bioguideid": "H000273",
+          "role": "member"
+        },
+        {
+          "name": "Edward Markey",
+          "fullName": "Sen. Edward “Ed” Markey [D-MA]",
+          "govtrackId": 400253,
+          "bioguideid": "M000133",
+          "role": "member"
+        },
+        {
+          "name": "Andy Kim",
+          "fullName": "Sen. Andy Kim [D-NJ]",
+          "govtrackId": 412797,
+          "bioguideid": "K000394",
+          "role": "member"
+        },
+        {
+          "name": "Lisa Blunt Rochester",
+          "fullName": "Sen. Lisa Blunt Rochester [D-DE]",
+          "govtrackId": 412689,
+          "bioguideid": "B001303",
+          "role": "member"
+        },
+        {
+          "name": "Angela Alsobrooks",
+          "fullName": "Sen. Angela Alsobrooks [D-MD]",
+          "govtrackId": 456965,
+          "bioguideid": "A000382",
+          "role": "member"
+        }
+      ]
+    },
+    {
+      "code": "SSGA",
+      "name": "Senate Committee on Homeland Security and Governmental Affairs",
+      "type": "senate",
+      "url": "http://www.hsgac.senate.gov/",
+      "jurisdiction": "The Senate Committee on Homeland Security and Governmental Affairs is the Senate’s primary oversight committee with broad jurisdiction over government operations generally and the Department of Homeland Security in particular. Its primary responsibilities are to study the efficiency, economy, and effectiveness of all agencies and departments of the federal government; evaluate the effects of laws enacted to reorganize the legislative and executive branches of government; and study the intergovernmental relationships between the U.S. and states and municipalities, and between the U.S. and international organizations of which the U.S. is a member.",
+      "sectors": [
+        "defense",
+        "cybersecurity",
+        "security",
+        "government"
+      ],
+      "sectorName": "Homeland Security and Governmental Affairs",
+      "members": [
+        {
+          "name": "Rand Paul",
+          "fullName": "Sen. Rand Paul [R-KY]",
+          "govtrackId": 412492,
+          "bioguideid": "P000603",
+          "role": "chair"
+        },
+        {
+          "name": "Ron Johnson",
+          "fullName": "Sen. Ron Johnson [R-WI]",
+          "govtrackId": 412496,
+          "bioguideid": "J000293",
+          "role": "member"
+        },
+        {
+          "name": "James Lankford",
+          "fullName": "Sen. James Lankford [R-OK]",
+          "govtrackId": 412464,
+          "bioguideid": "L000575",
+          "role": "member"
+        },
+        {
+          "name": "Rick Scott",
+          "fullName": "Sen. Rick Scott [R-FL]",
+          "govtrackId": 412838,
+          "bioguideid": "S001217",
+          "role": "member"
+        },
+        {
+          "name": "Joshua Hawley",
+          "fullName": "Sen. Joshua “Josh” Hawley [R-MO]",
+          "govtrackId": 412840,
+          "bioguideid": "H001089",
+          "role": "member"
+        },
+        {
+          "name": "Bernie Moreno",
+          "fullName": "Sen. Bernie Moreno [R-OH]",
+          "govtrackId": 456967,
+          "bioguideid": "M001242",
+          "role": "member"
+        },
+        {
+          "name": "Joni Ernst",
+          "fullName": "Sen. Joni Ernst [R-IA]",
+          "govtrackId": 412667,
+          "bioguideid": "E000295",
+          "role": "member"
+        },
+        {
+          "name": "Ashley Moody",
+          "fullName": "Sen. Ashley Moody [R-FL]",
+          "govtrackId": 457033,
+          "bioguideid": "M001244",
+          "role": "member"
+        },
+        {
+          "name": "Gary Peters",
+          "fullName": "Sen. Gary Peters [D-MI]",
+          "govtrackId": 412305,
+          "bioguideid": "P000595",
+          "role": "ranking_member"
+        },
+        {
+          "name": "Margaret Hassan",
+          "fullName": "Sen. Margaret “Maggie” Hassan [D-NH]",
+          "govtrackId": 412680,
+          "bioguideid": "H001076",
+          "role": "member"
+        },
+        {
+          "name": "Richard Blumenthal",
+          "fullName": "Sen. Richard Blumenthal [D-CT]",
+          "govtrackId": 412490,
+          "bioguideid": "B001277",
+          "role": "member"
+        },
+        {
+          "name": "John Fetterman",
+          "fullName": "Sen. John Fetterman [D-PA]",
+          "govtrackId": 456877,
+          "bioguideid": "F000479",
+          "role": "member"
+        },
+        {
+          "name": "Andy Kim",
+          "fullName": "Sen. Andy Kim [D-NJ]",
+          "govtrackId": 412797,
+          "bioguideid": "K000394",
+          "role": "member"
+        },
+        {
+          "name": "Ruben Gallego",
+          "fullName": "Sen. Ruben Gallego [D-AZ]",
+          "govtrackId": 412612,
+          "bioguideid": "G000574",
+          "role": "member"
+        },
+        {
+          "name": "Elissa Slotkin",
+          "fullName": "Sen. Elissa Slotkin [D-MI]",
+          "govtrackId": 412784,
+          "bioguideid": "S001208",
+          "role": "member"
+        }
+      ]
+    },
+    {
+      "code": "SSSB",
+      "name": "Senate Committee on Small Business and Entrepreneurship",
+      "type": "senate",
+      "url": "http://www.sbc.senate.gov/",
+      "jurisdiction": "The Senate Committee on Small Business and Entrepreneurship has legislative jurisdiction over the Small Business Administration (SBA). The SBA is an independent federal agency meant to assist and protect the interests of small businesses. The Committee is also responsible for studying and problems of American small business enterprises, and reporting back to the Senate.",
+      "sectors": [
+        "fintech",
+        "finance"
+      ],
+      "sectorName": "Small Business and Entrepreneurship",
+      "members": []
+    },
+    {
+      "code": "SSBU",
+      "name": "Senate Committee on the Budget",
+      "type": "senate",
+      "url": "http://www.budget.senate.gov/",
+      "jurisdiction": "The Senate Committee on the Budget is responsible for drafting a concurrent resolution on the budget for congressional action on spending, revenue, and debt-limit legislation. The Budget Resolution must be jointly agreed to by both the House and the Senate, but does not need to be signed by the President. The Committee is also responsible for enforcing the Budget Resolution by informing senators of violations to the budget, and by working with other committees, such as the Committee on Appropriations, to prevent potential violations.",
+      "sectors": [
+        "government",
+        "finance"
+      ],
+      "sectorName": "Budget",
+      "members": []
+    },
+    {
+      "code": "SSJU",
+      "name": "Senate Committee on the Judiciary",
+      "type": "senate",
+      "url": "http://www.judiciary.senate.gov/",
+      "jurisdiction": "The Senate Committee on the Judiciary provides oversight of the Department of Justice and the agencies under the Department's jurisdiction, including the Federal Bureau of Investigation, and the Department of Homeland Security. It also plays an important role in the consideration of nominations and pending legislation. Any legislation related to civil liberty, constitutional amendments, immigration and naturalization, and a variety of other topics is referred to the Committee.",
+      "sectors": [
+        "tech",
+        "telecom",
+        "media"
+      ],
+      "sectorName": "Judiciary",
+      "members": []
+    }
+  ],
+  "politicianCommittees": {
+    "john boozman": {
+      "name": "John Boozman",
+      "committees": [
+        {
+          "code": "SSAF",
+          "name": "Agriculture, Nutrition, and Forestry",
+          "role": "chair",
+          "sectors": [
+            "agriculture",
+            "food",
+            "commodities"
+          ]
+        },
+        {
+          "code": "SSAP",
+          "name": "Appropriations",
+          "role": "member",
+          "sectors": [
+            "government",
+            "defense",
+            "healthcare"
+          ]
+        },
+        {
+          "code": "SSEV",
+          "name": "Environment and Public Works",
+          "role": "member",
+          "sectors": [
+            "energy",
+            "construction",
+            "utilities"
+          ]
+        }
+      ],
+      "sectors": [
+        "agriculture",
+        "food",
+        "commodities",
+        "government",
+        "defense",
+        "healthcare",
+        "energy",
+        "construction",
+        "utilities"
+      ]
+    },
+    "mitch mcconnell": {
+      "name": "Mitch McConnell",
+      "committees": [
+        {
+          "code": "SSAF",
+          "name": "Agriculture, Nutrition, and Forestry",
+          "role": "member",
+          "sectors": [
+            "agriculture",
+            "food",
+            "commodities"
+          ]
+        },
+        {
+          "code": "SSAP",
+          "name": "Appropriations",
+          "role": "member",
+          "sectors": [
+            "government",
+            "defense",
+            "healthcare"
+          ]
+        }
+      ],
+      "sectors": [
+        "agriculture",
+        "food",
+        "commodities",
+        "government",
+        "defense",
+        "healthcare"
+      ]
+    },
+    "john hoeven": {
+      "name": "John Hoeven",
+      "committees": [
+        {
+          "code": "SSAF",
+          "name": "Agriculture, Nutrition, and Forestry",
+          "role": "member",
+          "sectors": [
+            "agriculture",
+            "food",
+            "commodities"
+          ]
+        },
+        {
+          "code": "SSAP",
+          "name": "Appropriations",
+          "role": "member",
+          "sectors": [
+            "government",
+            "defense",
+            "healthcare"
+          ]
+        },
+        {
+          "code": "SSEG",
+          "name": "Energy and Natural Resources",
+          "role": "member",
+          "sectors": [
+            "energy",
+            "oil",
+            "mining",
+            "utilities"
+          ]
+        }
+      ],
+      "sectors": [
+        "agriculture",
+        "food",
+        "commodities",
+        "government",
+        "defense",
+        "healthcare",
+        "energy",
+        "oil",
+        "mining",
+        "utilities"
+      ]
+    },
+    "joni ernst": {
+      "name": "Joni Ernst",
+      "committees": [
+        {
+          "code": "SSAF",
+          "name": "Agriculture, Nutrition, and Forestry",
+          "role": "member",
+          "sectors": [
+            "agriculture",
+            "food",
+            "commodities"
+          ]
+        },
+        {
+          "code": "SSAS",
+          "name": "Armed Services",
+          "role": "member",
+          "sectors": [
+            "defense",
+            "aerospace",
+            "cybersecurity"
+          ]
+        },
+        {
+          "code": "SSGA",
+          "name": "Homeland Security and Governmental Affairs",
+          "role": "member",
+          "sectors": [
+            "defense",
+            "cybersecurity",
+            "security",
+            "government"
+          ]
+        }
+      ],
+      "sectors": [
+        "agriculture",
+        "food",
+        "commodities",
+        "defense",
+        "aerospace",
+        "cybersecurity",
+        "security",
+        "government"
+      ]
+    },
+    "cindy hyde-smith": {
+      "name": "Cindy Hyde-Smith",
+      "committees": [
+        {
+          "code": "SSAF",
+          "name": "Agriculture, Nutrition, and Forestry",
+          "role": "member",
+          "sectors": [
+            "agriculture",
+            "food",
+            "commodities"
+          ]
+        },
+        {
+          "code": "SSAP",
+          "name": "Appropriations",
+          "role": "member",
+          "sectors": [
+            "government",
+            "defense",
+            "healthcare"
+          ]
+        },
+        {
+          "code": "SSEG",
+          "name": "Energy and Natural Resources",
+          "role": "member",
+          "sectors": [
+            "energy",
+            "oil",
+            "mining",
+            "utilities"
+          ]
+        }
+      ],
+      "sectors": [
+        "agriculture",
+        "food",
+        "commodities",
+        "government",
+        "defense",
+        "healthcare",
+        "energy",
+        "oil",
+        "mining",
+        "utilities"
+      ]
+    },
+    "roger marshall": {
+      "name": "Roger Marshall",
+      "committees": [
+        {
+          "code": "SSAF",
+          "name": "Agriculture, Nutrition, and Forestry",
+          "role": "member",
+          "sectors": [
+            "agriculture",
+            "food",
+            "commodities"
+          ]
+        },
+        {
+          "code": "SSFI",
+          "name": "Finance",
+          "role": "member",
+          "sectors": [
+            "finance",
+            "insurance",
+            "healthcare",
+            "energy",
+            "pharma"
+          ]
+        },
+        {
+          "code": "SSHR",
+          "name": "Health, Education, Labor, and Pensions",
+          "role": "member",
+          "sectors": [
+            "healthcare",
+            "pharma",
+            "biotech",
+            "education"
+          ]
+        }
+      ],
+      "sectors": [
+        "agriculture",
+        "food",
+        "commodities",
+        "finance",
+        "insurance",
+        "healthcare",
+        "energy",
+        "pharma",
+        "biotech",
+        "education"
+      ]
+    },
+    "tommy tuberville": {
+      "name": "Tommy Tuberville",
+      "committees": [
+        {
+          "code": "SSAF",
+          "name": "Agriculture, Nutrition, and Forestry",
+          "role": "member",
+          "sectors": [
+            "agriculture",
+            "food",
+            "commodities"
+          ]
+        },
+        {
+          "code": "SSAS",
+          "name": "Armed Services",
+          "role": "member",
+          "sectors": [
+            "defense",
+            "aerospace",
+            "cybersecurity"
+          ]
+        },
+        {
+          "code": "SSHR",
+          "name": "Health, Education, Labor, and Pensions",
+          "role": "member",
+          "sectors": [
+            "healthcare",
+            "pharma",
+            "biotech",
+            "education"
+          ]
+        }
+      ],
+      "sectors": [
+        "agriculture",
+        "food",
+        "commodities",
+        "defense",
+        "aerospace",
+        "cybersecurity",
+        "healthcare",
+        "pharma",
+        "biotech",
+        "education"
+      ]
+    },
+    "jim justice": {
+      "name": "Jim Justice",
+      "committees": [
+        {
+          "code": "SSAF",
+          "name": "Agriculture, Nutrition, and Forestry",
+          "role": "member",
+          "sectors": [
+            "agriculture",
+            "food",
+            "commodities"
+          ]
+        },
+        {
+          "code": "SSEG",
+          "name": "Energy and Natural Resources",
+          "role": "member",
+          "sectors": [
+            "energy",
+            "oil",
+            "mining",
+            "utilities"
+          ]
+        }
+      ],
+      "sectors": [
+        "agriculture",
+        "food",
+        "commodities",
+        "energy",
+        "oil",
+        "mining",
+        "utilities"
+      ]
+    },
+    "charles grassley": {
+      "name": "Charles Grassley",
+      "committees": [
+        {
+          "code": "SSAF",
+          "name": "Agriculture, Nutrition, and Forestry",
+          "role": "member",
+          "sectors": [
+            "agriculture",
+            "food",
+            "commodities"
+          ]
+        },
+        {
+          "code": "SSFI",
+          "name": "Finance",
+          "role": "member",
+          "sectors": [
+            "finance",
+            "insurance",
+            "healthcare",
+            "energy",
+            "pharma"
+          ]
+        }
+      ],
+      "sectors": [
+        "agriculture",
+        "food",
+        "commodities",
+        "finance",
+        "insurance",
+        "healthcare",
+        "energy",
+        "pharma"
+      ]
+    },
+    "john thune": {
+      "name": "John Thune",
+      "committees": [
+        {
+          "code": "SSAF",
+          "name": "Agriculture, Nutrition, and Forestry",
+          "role": "member",
+          "sectors": [
+            "agriculture",
+            "food",
+            "commodities"
+          ]
+        },
+        {
+          "code": "SSCM",
+          "name": "Commerce, Science, and Transportation",
+          "role": "member",
+          "sectors": [
+            "tech",
+            "telecom",
+            "transport",
+            "aerospace",
+            "media"
+          ]
+        },
+        {
+          "code": "SSFI",
+          "name": "Finance",
+          "role": "member",
+          "sectors": [
+            "finance",
+            "insurance",
+            "healthcare",
+            "energy",
+            "pharma"
+          ]
+        }
+      ],
+      "sectors": [
+        "agriculture",
+        "food",
+        "commodities",
+        "tech",
+        "telecom",
+        "transport",
+        "aerospace",
+        "media",
+        "finance",
+        "insurance",
+        "healthcare",
+        "energy",
+        "pharma"
+      ]
+    },
+    "deb fischer": {
+      "name": "Deb Fischer",
+      "committees": [
+        {
+          "code": "SSAF",
+          "name": "Agriculture, Nutrition, and Forestry",
+          "role": "member",
+          "sectors": [
+            "agriculture",
+            "food",
+            "commodities"
+          ]
+        },
+        {
+          "code": "SSAP",
+          "name": "Appropriations",
+          "role": "member",
+          "sectors": [
+            "government",
+            "defense",
+            "healthcare"
+          ]
+        },
+        {
+          "code": "SSAS",
+          "name": "Armed Services",
+          "role": "member",
+          "sectors": [
+            "defense",
+            "aerospace",
+            "cybersecurity"
+          ]
+        },
+        {
+          "code": "SSCM",
+          "name": "Commerce, Science, and Transportation",
+          "role": "member",
+          "sectors": [
+            "tech",
+            "telecom",
+            "transport",
+            "aerospace",
+            "media"
+          ]
+        }
+      ],
+      "sectors": [
+        "agriculture",
+        "food",
+        "commodities",
+        "government",
+        "defense",
+        "healthcare",
+        "aerospace",
+        "cybersecurity",
+        "tech",
+        "telecom",
+        "transport",
+        "media"
+      ]
+    },
+    "jerry moran": {
+      "name": "Jerry Moran",
+      "committees": [
+        {
+          "code": "SSAF",
+          "name": "Agriculture, Nutrition, and Forestry",
+          "role": "member",
+          "sectors": [
+            "agriculture",
+            "food",
+            "commodities"
+          ]
+        },
+        {
+          "code": "SSAP",
+          "name": "Appropriations",
+          "role": "member",
+          "sectors": [
+            "government",
+            "defense",
+            "healthcare"
+          ]
+        },
+        {
+          "code": "SSCM",
+          "name": "Commerce, Science, and Transportation",
+          "role": "member",
+          "sectors": [
+            "tech",
+            "telecom",
+            "transport",
+            "aerospace",
+            "media"
+          ]
+        }
+      ],
+      "sectors": [
+        "agriculture",
+        "food",
+        "commodities",
+        "government",
+        "defense",
+        "healthcare",
+        "tech",
+        "telecom",
+        "transport",
+        "aerospace",
+        "media"
+      ]
+    },
+    "amy klobuchar": {
+      "name": "Amy Klobuchar",
+      "committees": [
+        {
+          "code": "SSAF",
+          "name": "Agriculture, Nutrition, and Forestry",
+          "role": "ranking_member",
+          "sectors": [
+            "agriculture",
+            "food",
+            "commodities"
+          ]
+        },
+        {
+          "code": "SSCM",
+          "name": "Commerce, Science, and Transportation",
+          "role": "member",
+          "sectors": [
+            "tech",
+            "telecom",
+            "transport",
+            "aerospace",
+            "media"
+          ]
+        }
+      ],
+      "sectors": [
+        "agriculture",
+        "food",
+        "commodities",
+        "tech",
+        "telecom",
+        "transport",
+        "aerospace",
+        "media"
+      ]
+    },
+    "michael bennet": {
+      "name": "Michael Bennet",
+      "committees": [
+        {
+          "code": "SSAF",
+          "name": "Agriculture, Nutrition, and Forestry",
+          "role": "member",
+          "sectors": [
+            "agriculture",
+            "food",
+            "commodities"
+          ]
+        },
+        {
+          "code": "SSFI",
+          "name": "Finance",
+          "role": "member",
+          "sectors": [
+            "finance",
+            "insurance",
+            "healthcare",
+            "energy",
+            "pharma"
+          ]
+        }
+      ],
+      "sectors": [
+        "agriculture",
+        "food",
+        "commodities",
+        "finance",
+        "insurance",
+        "healthcare",
+        "energy",
+        "pharma"
+      ]
+    },
+    "tina smith": {
+      "name": "Tina Smith",
+      "committees": [
+        {
+          "code": "SSAF",
+          "name": "Agriculture, Nutrition, and Forestry",
+          "role": "member",
+          "sectors": [
+            "agriculture",
+            "food",
+            "commodities"
+          ]
+        },
+        {
+          "code": "SSBK",
+          "name": "Banking, Housing, and Urban Affairs",
+          "role": "member",
+          "sectors": [
+            "banking",
+            "finance",
+            "insurance",
+            "crypto",
+            "fintech",
+            "real-estate"
+          ]
+        },
+        {
+          "code": "SSFI",
+          "name": "Finance",
+          "role": "member",
+          "sectors": [
+            "finance",
+            "insurance",
+            "healthcare",
+            "energy",
+            "pharma"
+          ]
+        }
+      ],
+      "sectors": [
+        "agriculture",
+        "food",
+        "commodities",
+        "banking",
+        "finance",
+        "insurance",
+        "crypto",
+        "fintech",
+        "real-estate",
+        "healthcare",
+        "energy",
+        "pharma"
+      ]
+    },
+    "richard durbin": {
+      "name": "Richard Durbin",
+      "committees": [
+        {
+          "code": "SSAF",
+          "name": "Agriculture, Nutrition, and Forestry",
+          "role": "member",
+          "sectors": [
+            "agriculture",
+            "food",
+            "commodities"
+          ]
+        },
+        {
+          "code": "SSAP",
+          "name": "Appropriations",
+          "role": "member",
+          "sectors": [
+            "government",
+            "defense",
+            "healthcare"
+          ]
+        }
+      ],
+      "sectors": [
+        "agriculture",
+        "food",
+        "commodities",
+        "government",
+        "defense",
+        "healthcare"
+      ]
+    },
+    "cory booker": {
+      "name": "Cory Booker",
+      "committees": [
+        {
+          "code": "SSAF",
+          "name": "Agriculture, Nutrition, and Forestry",
+          "role": "member",
+          "sectors": [
+            "agriculture",
+            "food",
+            "commodities"
+          ]
+        },
+        {
+          "code": "SSFR",
+          "name": "Foreign Relations",
+          "role": "member",
+          "sectors": [
+            "defense",
+            "foreign"
+          ]
+        }
+      ],
+      "sectors": [
+        "agriculture",
+        "food",
+        "commodities",
+        "defense",
+        "foreign"
+      ]
+    },
+    "ben luján": {
+      "name": "Ben Luján",
+      "committees": [
+        {
+          "code": "SSAF",
+          "name": "Agriculture, Nutrition, and Forestry",
+          "role": "member",
+          "sectors": [
+            "agriculture",
+            "food",
+            "commodities"
+          ]
+        },
+        {
+          "code": "SSCM",
+          "name": "Commerce, Science, and Transportation",
+          "role": "member",
+          "sectors": [
+            "tech",
+            "telecom",
+            "transport",
+            "aerospace",
+            "media"
+          ]
+        },
+        {
+          "code": "SSFI",
+          "name": "Finance",
+          "role": "member",
+          "sectors": [
+            "finance",
+            "insurance",
+            "healthcare",
+            "energy",
+            "pharma"
+          ]
+        }
+      ],
+      "sectors": [
+        "agriculture",
+        "food",
+        "commodities",
+        "tech",
+        "telecom",
+        "transport",
+        "aerospace",
+        "media",
+        "finance",
+        "insurance",
+        "healthcare",
+        "energy",
+        "pharma"
+      ]
+    },
+    "raphael warnock": {
+      "name": "Raphael Warnock",
+      "committees": [
+        {
+          "code": "SSAF",
+          "name": "Agriculture, Nutrition, and Forestry",
+          "role": "member",
+          "sectors": [
+            "agriculture",
+            "food",
+            "commodities"
+          ]
+        },
+        {
+          "code": "SSBK",
+          "name": "Banking, Housing, and Urban Affairs",
+          "role": "member",
+          "sectors": [
+            "banking",
+            "finance",
+            "insurance",
+            "crypto",
+            "fintech",
+            "real-estate"
+          ]
+        },
+        {
+          "code": "SSFI",
+          "name": "Finance",
+          "role": "member",
+          "sectors": [
+            "finance",
+            "insurance",
+            "healthcare",
+            "energy",
+            "pharma"
+          ]
+        }
+      ],
+      "sectors": [
+        "agriculture",
+        "food",
+        "commodities",
+        "banking",
+        "finance",
+        "insurance",
+        "crypto",
+        "fintech",
+        "real-estate",
+        "healthcare",
+        "energy",
+        "pharma"
+      ]
+    },
+    "peter welch": {
+      "name": "Peter Welch",
+      "committees": [
+        {
+          "code": "SSAF",
+          "name": "Agriculture, Nutrition, and Forestry",
+          "role": "member",
+          "sectors": [
+            "agriculture",
+            "food",
+            "commodities"
+          ]
+        },
+        {
+          "code": "SSFI",
+          "name": "Finance",
+          "role": "member",
+          "sectors": [
+            "finance",
+            "insurance",
+            "healthcare",
+            "energy",
+            "pharma"
+          ]
+        }
+      ],
+      "sectors": [
+        "agriculture",
+        "food",
+        "commodities",
+        "finance",
+        "insurance",
+        "healthcare",
+        "energy",
+        "pharma"
+      ]
+    },
+    "john fetterman": {
+      "name": "John Fetterman",
+      "committees": [
+        {
+          "code": "SSAF",
+          "name": "Agriculture, Nutrition, and Forestry",
+          "role": "member",
+          "sectors": [
+            "agriculture",
+            "food",
+            "commodities"
+          ]
+        },
+        {
+          "code": "SSCM",
+          "name": "Commerce, Science, and Transportation",
+          "role": "member",
+          "sectors": [
+            "tech",
+            "telecom",
+            "transport",
+            "aerospace",
+            "media"
+          ]
+        },
+        {
+          "code": "SSGA",
+          "name": "Homeland Security and Governmental Affairs",
+          "role": "member",
+          "sectors": [
+            "defense",
+            "cybersecurity",
+            "security",
+            "government"
+          ]
+        }
+      ],
+      "sectors": [
+        "agriculture",
+        "food",
+        "commodities",
+        "tech",
+        "telecom",
+        "transport",
+        "aerospace",
+        "media",
+        "defense",
+        "cybersecurity",
+        "security",
+        "government"
+      ]
+    },
+    "adam schiff": {
+      "name": "Adam Schiff",
+      "committees": [
+        {
+          "code": "SSAF",
+          "name": "Agriculture, Nutrition, and Forestry",
+          "role": "member",
+          "sectors": [
+            "agriculture",
+            "food",
+            "commodities"
+          ]
+        },
+        {
+          "code": "SSEV",
+          "name": "Environment and Public Works",
+          "role": "member",
+          "sectors": [
+            "energy",
+            "construction",
+            "utilities"
+          ]
+        }
+      ],
+      "sectors": [
+        "agriculture",
+        "food",
+        "commodities",
+        "energy",
+        "construction",
+        "utilities"
+      ]
+    },
+    "elissa slotkin": {
+      "name": "Elissa Slotkin",
+      "committees": [
+        {
+          "code": "SSAF",
+          "name": "Agriculture, Nutrition, and Forestry",
+          "role": "member",
+          "sectors": [
+            "agriculture",
+            "food",
+            "commodities"
+          ]
+        },
+        {
+          "code": "SSAS",
+          "name": "Armed Services",
+          "role": "member",
+          "sectors": [
+            "defense",
+            "aerospace",
+            "cybersecurity"
+          ]
+        },
+        {
+          "code": "SSGA",
+          "name": "Homeland Security and Governmental Affairs",
+          "role": "member",
+          "sectors": [
+            "defense",
+            "cybersecurity",
+            "security",
+            "government"
+          ]
+        }
+      ],
+      "sectors": [
+        "agriculture",
+        "food",
+        "commodities",
+        "defense",
+        "aerospace",
+        "cybersecurity",
+        "security",
+        "government"
+      ]
+    },
+    "susan collins": {
+      "name": "Susan Collins",
+      "committees": [
+        {
+          "code": "SSAP",
+          "name": "Appropriations",
+          "role": "chair",
+          "sectors": [
+            "government",
+            "defense",
+            "healthcare"
+          ]
+        },
+        {
+          "code": "SSHR",
+          "name": "Health, Education, Labor, and Pensions",
+          "role": "member",
+          "sectors": [
+            "healthcare",
+            "pharma",
+            "biotech",
+            "education"
+          ]
+        }
+      ],
+      "sectors": [
+        "government",
+        "defense",
+        "healthcare",
+        "pharma",
+        "biotech",
+        "education"
+      ]
+    },
+    "lisa murkowski": {
+      "name": "Lisa Murkowski",
+      "committees": [
+        {
+          "code": "SSAP",
+          "name": "Appropriations",
+          "role": "member",
+          "sectors": [
+            "government",
+            "defense",
+            "healthcare"
+          ]
+        },
+        {
+          "code": "SSEG",
+          "name": "Energy and Natural Resources",
+          "role": "member",
+          "sectors": [
+            "energy",
+            "oil",
+            "mining",
+            "utilities"
+          ]
+        },
+        {
+          "code": "SSHR",
+          "name": "Health, Education, Labor, and Pensions",
+          "role": "member",
+          "sectors": [
+            "healthcare",
+            "pharma",
+            "biotech",
+            "education"
+          ]
+        }
+      ],
+      "sectors": [
+        "government",
+        "defense",
+        "healthcare",
+        "energy",
+        "oil",
+        "mining",
+        "utilities",
+        "pharma",
+        "biotech",
+        "education"
+      ]
+    },
+    "lindsey graham": {
+      "name": "Lindsey Graham",
+      "committees": [
+        {
+          "code": "SSAP",
+          "name": "Appropriations",
+          "role": "member",
+          "sectors": [
+            "government",
+            "defense",
+            "healthcare"
+          ]
+        },
+        {
+          "code": "SSEV",
+          "name": "Environment and Public Works",
+          "role": "member",
+          "sectors": [
+            "energy",
+            "construction",
+            "utilities"
+          ]
+        }
+      ],
+      "sectors": [
+        "government",
+        "defense",
+        "healthcare",
+        "energy",
+        "construction",
+        "utilities"
+      ]
+    },
+    "shelley capito": {
+      "name": "Shelley Capito",
+      "committees": [
+        {
+          "code": "SSAP",
+          "name": "Appropriations",
+          "role": "member",
+          "sectors": [
+            "government",
+            "defense",
+            "healthcare"
+          ]
+        },
+        {
+          "code": "SSCM",
+          "name": "Commerce, Science, and Transportation",
+          "role": "member",
+          "sectors": [
+            "tech",
+            "telecom",
+            "transport",
+            "aerospace",
+            "media"
+          ]
+        },
+        {
+          "code": "SSEV",
+          "name": "Environment and Public Works",
+          "role": "chair",
+          "sectors": [
+            "energy",
+            "construction",
+            "utilities"
+          ]
+        }
+      ],
+      "sectors": [
+        "government",
+        "defense",
+        "healthcare",
+        "tech",
+        "telecom",
+        "transport",
+        "aerospace",
+        "media",
+        "energy",
+        "construction",
+        "utilities"
+      ]
+    },
+    "john kennedy": {
+      "name": "John Kennedy",
+      "committees": [
+        {
+          "code": "SSAP",
+          "name": "Appropriations",
+          "role": "member",
+          "sectors": [
+            "government",
+            "defense",
+            "healthcare"
+          ]
+        },
+        {
+          "code": "SSBK",
+          "name": "Banking, Housing, and Urban Affairs",
+          "role": "member",
+          "sectors": [
+            "banking",
+            "finance",
+            "insurance",
+            "crypto",
+            "fintech",
+            "real-estate"
+          ]
+        }
+      ],
+      "sectors": [
+        "government",
+        "defense",
+        "healthcare",
+        "banking",
+        "finance",
+        "insurance",
+        "crypto",
+        "fintech",
+        "real-estate"
+      ]
+    },
+    "bill hagerty": {
+      "name": "Bill Hagerty",
+      "committees": [
+        {
+          "code": "SSAP",
+          "name": "Appropriations",
+          "role": "member",
+          "sectors": [
+            "government",
+            "defense",
+            "healthcare"
+          ]
+        },
+        {
+          "code": "SSBK",
+          "name": "Banking, Housing, and Urban Affairs",
+          "role": "member",
+          "sectors": [
+            "banking",
+            "finance",
+            "insurance",
+            "crypto",
+            "fintech",
+            "real-estate"
+          ]
+        },
+        {
+          "code": "SSFR",
+          "name": "Foreign Relations",
+          "role": "member",
+          "sectors": [
+            "defense",
+            "foreign"
+          ]
+        }
+      ],
+      "sectors": [
+        "government",
+        "defense",
+        "healthcare",
+        "banking",
+        "finance",
+        "insurance",
+        "crypto",
+        "fintech",
+        "real-estate",
+        "foreign"
+      ]
+    },
+    "katie britt": {
+      "name": "Katie Britt",
+      "committees": [
+        {
+          "code": "SSAP",
+          "name": "Appropriations",
+          "role": "member",
+          "sectors": [
+            "government",
+            "defense",
+            "healthcare"
+          ]
+        },
+        {
+          "code": "SSBK",
+          "name": "Banking, Housing, and Urban Affairs",
+          "role": "member",
+          "sectors": [
+            "banking",
+            "finance",
+            "insurance",
+            "crypto",
+            "fintech",
+            "real-estate"
+          ]
+        }
+      ],
+      "sectors": [
+        "government",
+        "defense",
+        "healthcare",
+        "banking",
+        "finance",
+        "insurance",
+        "crypto",
+        "fintech",
+        "real-estate"
+      ]
+    },
+    "mike rounds": {
+      "name": "Mike Rounds",
+      "committees": [
+        {
+          "code": "SSAP",
+          "name": "Appropriations",
+          "role": "member",
+          "sectors": [
+            "government",
+            "defense",
+            "healthcare"
+          ]
+        },
+        {
+          "code": "SSAS",
+          "name": "Armed Services",
+          "role": "member",
+          "sectors": [
+            "defense",
+            "aerospace",
+            "cybersecurity"
+          ]
+        },
+        {
+          "code": "SSBK",
+          "name": "Banking, Housing, and Urban Affairs",
+          "role": "member",
+          "sectors": [
+            "banking",
+            "finance",
+            "insurance",
+            "crypto",
+            "fintech",
+            "real-estate"
+          ]
+        }
+      ],
+      "sectors": [
+        "government",
+        "defense",
+        "healthcare",
+        "aerospace",
+        "cybersecurity",
+        "banking",
+        "finance",
+        "insurance",
+        "crypto",
+        "fintech",
+        "real-estate"
+      ]
+    },
+    "patty murray": {
+      "name": "Patty Murray",
+      "committees": [
+        {
+          "code": "SSAP",
+          "name": "Appropriations",
+          "role": "ranking_member",
+          "sectors": [
+            "government",
+            "defense",
+            "healthcare"
+          ]
+        },
+        {
+          "code": "SSHR",
+          "name": "Health, Education, Labor, and Pensions",
+          "role": "member",
+          "sectors": [
+            "healthcare",
+            "pharma",
+            "biotech",
+            "education"
+          ]
+        }
+      ],
+      "sectors": [
+        "government",
+        "defense",
+        "healthcare",
+        "pharma",
+        "biotech",
+        "education"
+      ]
+    },
+    "john reed": {
+      "name": "John Reed",
+      "committees": [
+        {
+          "code": "SSAP",
+          "name": "Appropriations",
+          "role": "member",
+          "sectors": [
+            "government",
+            "defense",
+            "healthcare"
+          ]
+        },
+        {
+          "code": "SSAS",
+          "name": "Armed Services",
+          "role": "ranking_member",
+          "sectors": [
+            "defense",
+            "aerospace",
+            "cybersecurity"
+          ]
+        },
+        {
+          "code": "SSBK",
+          "name": "Banking, Housing, and Urban Affairs",
+          "role": "member",
+          "sectors": [
+            "banking",
+            "finance",
+            "insurance",
+            "crypto",
+            "fintech",
+            "real-estate"
+          ]
+        }
+      ],
+      "sectors": [
+        "government",
+        "defense",
+        "healthcare",
+        "aerospace",
+        "cybersecurity",
+        "banking",
+        "finance",
+        "insurance",
+        "crypto",
+        "fintech",
+        "real-estate"
+      ]
+    },
+    "jeanne shaheen": {
+      "name": "Jeanne Shaheen",
+      "committees": [
+        {
+          "code": "SSAP",
+          "name": "Appropriations",
+          "role": "member",
+          "sectors": [
+            "government",
+            "defense",
+            "healthcare"
+          ]
+        },
+        {
+          "code": "SSAS",
+          "name": "Armed Services",
+          "role": "member",
+          "sectors": [
+            "defense",
+            "aerospace",
+            "cybersecurity"
+          ]
+        },
+        {
+          "code": "SSFR",
+          "name": "Foreign Relations",
+          "role": "ranking_member",
+          "sectors": [
+            "defense",
+            "foreign"
+          ]
+        }
+      ],
+      "sectors": [
+        "government",
+        "defense",
+        "healthcare",
+        "aerospace",
+        "cybersecurity",
+        "foreign"
+      ]
+    },
+    "jeff merkley": {
+      "name": "Jeff Merkley",
+      "committees": [
+        {
+          "code": "SSAP",
+          "name": "Appropriations",
+          "role": "member",
+          "sectors": [
+            "government",
+            "defense",
+            "healthcare"
+          ]
+        },
+        {
+          "code": "SSEV",
+          "name": "Environment and Public Works",
+          "role": "member",
+          "sectors": [
+            "energy",
+            "construction",
+            "utilities"
+          ]
+        },
+        {
+          "code": "SSFR",
+          "name": "Foreign Relations",
+          "role": "member",
+          "sectors": [
+            "defense",
+            "foreign"
+          ]
+        }
+      ],
+      "sectors": [
+        "government",
+        "defense",
+        "healthcare",
+        "energy",
+        "construction",
+        "utilities",
+        "foreign"
+      ]
+    },
+    "christopher coons": {
+      "name": "Christopher Coons",
+      "committees": [
+        {
+          "code": "SSAP",
+          "name": "Appropriations",
+          "role": "member",
+          "sectors": [
+            "government",
+            "defense",
+            "healthcare"
+          ]
+        },
+        {
+          "code": "SSFR",
+          "name": "Foreign Relations",
+          "role": "member",
+          "sectors": [
+            "defense",
+            "foreign"
+          ]
+        }
+      ],
+      "sectors": [
+        "government",
+        "defense",
+        "healthcare",
+        "foreign"
+      ]
+    },
+    "brian schatz": {
+      "name": "Brian Schatz",
+      "committees": [
+        {
+          "code": "SSAP",
+          "name": "Appropriations",
+          "role": "member",
+          "sectors": [
+            "government",
+            "defense",
+            "healthcare"
+          ]
+        },
+        {
+          "code": "SSCM",
+          "name": "Commerce, Science, and Transportation",
+          "role": "member",
+          "sectors": [
+            "tech",
+            "telecom",
+            "transport",
+            "aerospace",
+            "media"
+          ]
+        },
+        {
+          "code": "SSFR",
+          "name": "Foreign Relations",
+          "role": "member",
+          "sectors": [
+            "defense",
+            "foreign"
+          ]
+        }
+      ],
+      "sectors": [
+        "government",
+        "defense",
+        "healthcare",
+        "tech",
+        "telecom",
+        "transport",
+        "aerospace",
+        "media",
+        "foreign"
+      ]
+    },
+    "tammy baldwin": {
+      "name": "Tammy Baldwin",
+      "committees": [
+        {
+          "code": "SSAP",
+          "name": "Appropriations",
+          "role": "member",
+          "sectors": [
+            "government",
+            "defense",
+            "healthcare"
+          ]
+        },
+        {
+          "code": "SSCM",
+          "name": "Commerce, Science, and Transportation",
+          "role": "member",
+          "sectors": [
+            "tech",
+            "telecom",
+            "transport",
+            "aerospace",
+            "media"
+          ]
+        },
+        {
+          "code": "SSHR",
+          "name": "Health, Education, Labor, and Pensions",
+          "role": "member",
+          "sectors": [
+            "healthcare",
+            "pharma",
+            "biotech",
+            "education"
+          ]
+        }
+      ],
+      "sectors": [
+        "government",
+        "defense",
+        "healthcare",
+        "tech",
+        "telecom",
+        "transport",
+        "aerospace",
+        "media",
+        "pharma",
+        "biotech",
+        "education"
+      ]
+    },
+    "christopher murphy": {
+      "name": "Christopher Murphy",
+      "committees": [
+        {
+          "code": "SSAP",
+          "name": "Appropriations",
+          "role": "member",
+          "sectors": [
+            "government",
+            "defense",
+            "healthcare"
+          ]
+        },
+        {
+          "code": "SSFR",
+          "name": "Foreign Relations",
+          "role": "member",
+          "sectors": [
+            "defense",
+            "foreign"
+          ]
+        },
+        {
+          "code": "SSHR",
+          "name": "Health, Education, Labor, and Pensions",
+          "role": "member",
+          "sectors": [
+            "healthcare",
+            "pharma",
+            "biotech",
+            "education"
+          ]
+        }
+      ],
+      "sectors": [
+        "government",
+        "defense",
+        "healthcare",
+        "foreign",
+        "pharma",
+        "biotech",
+        "education"
+      ]
+    },
+    "chris van hollen": {
+      "name": "Chris Van Hollen",
+      "committees": [
+        {
+          "code": "SSAP",
+          "name": "Appropriations",
+          "role": "member",
+          "sectors": [
+            "government",
+            "defense",
+            "healthcare"
+          ]
+        },
+        {
+          "code": "SSBK",
+          "name": "Banking, Housing, and Urban Affairs",
+          "role": "member",
+          "sectors": [
+            "banking",
+            "finance",
+            "insurance",
+            "crypto",
+            "fintech",
+            "real-estate"
+          ]
+        },
+        {
+          "code": "SSFR",
+          "name": "Foreign Relations",
+          "role": "member",
+          "sectors": [
+            "defense",
+            "foreign"
+          ]
+        }
+      ],
+      "sectors": [
+        "government",
+        "defense",
+        "healthcare",
+        "banking",
+        "finance",
+        "insurance",
+        "crypto",
+        "fintech",
+        "real-estate",
+        "foreign"
+      ]
+    },
+    "martin heinrich": {
+      "name": "Martin Heinrich",
+      "committees": [
+        {
+          "code": "SSAP",
+          "name": "Appropriations",
+          "role": "member",
+          "sectors": [
+            "government",
+            "defense",
+            "healthcare"
+          ]
+        },
+        {
+          "code": "SSEG",
+          "name": "Energy and Natural Resources",
+          "role": "ranking_member",
+          "sectors": [
+            "energy",
+            "oil",
+            "mining",
+            "utilities"
+          ]
+        }
+      ],
+      "sectors": [
+        "government",
+        "defense",
+        "healthcare",
+        "energy",
+        "oil",
+        "mining",
+        "utilities"
+      ]
+    },
+    "gary peters": {
+      "name": "Gary Peters",
+      "committees": [
+        {
+          "code": "SSAP",
+          "name": "Appropriations",
+          "role": "member",
+          "sectors": [
+            "government",
+            "defense",
+            "healthcare"
+          ]
+        },
+        {
+          "code": "SSAS",
+          "name": "Armed Services",
+          "role": "member",
+          "sectors": [
+            "defense",
+            "aerospace",
+            "cybersecurity"
+          ]
+        },
+        {
+          "code": "SSCM",
+          "name": "Commerce, Science, and Transportation",
+          "role": "member",
+          "sectors": [
+            "tech",
+            "telecom",
+            "transport",
+            "aerospace",
+            "media"
+          ]
+        },
+        {
+          "code": "SSGA",
+          "name": "Homeland Security and Governmental Affairs",
+          "role": "ranking_member",
+          "sectors": [
+            "defense",
+            "cybersecurity",
+            "security",
+            "government"
+          ]
+        }
+      ],
+      "sectors": [
+        "government",
+        "defense",
+        "healthcare",
+        "aerospace",
+        "cybersecurity",
+        "tech",
+        "telecom",
+        "transport",
+        "media",
+        "security"
+      ]
+    },
+    "kirsten gillibrand": {
+      "name": "Kirsten Gillibrand",
+      "committees": [
+        {
+          "code": "SSAP",
+          "name": "Appropriations",
+          "role": "member",
+          "sectors": [
+            "government",
+            "defense",
+            "healthcare"
+          ]
+        },
+        {
+          "code": "SSAS",
+          "name": "Armed Services",
+          "role": "member",
+          "sectors": [
+            "defense",
+            "aerospace",
+            "cybersecurity"
+          ]
+        }
+      ],
+      "sectors": [
+        "government",
+        "defense",
+        "healthcare",
+        "aerospace",
+        "cybersecurity"
+      ]
+    },
+    "jon ossoff": {
+      "name": "Jon Ossoff",
+      "committees": [
+        {
+          "code": "SSAP",
+          "name": "Appropriations",
+          "role": "member",
+          "sectors": [
+            "government",
+            "defense",
+            "healthcare"
+          ]
+        }
+      ],
+      "sectors": [
+        "government",
+        "defense",
+        "healthcare"
+      ]
+    },
+    "roger wicker": {
+      "name": "Roger Wicker",
+      "committees": [
+        {
+          "code": "SSAS",
+          "name": "Armed Services",
+          "role": "chair",
+          "sectors": [
+            "defense",
+            "aerospace",
+            "cybersecurity"
+          ]
+        },
+        {
+          "code": "SSCM",
+          "name": "Commerce, Science, and Transportation",
+          "role": "member",
+          "sectors": [
+            "tech",
+            "telecom",
+            "transport",
+            "aerospace",
+            "media"
+          ]
+        },
+        {
+          "code": "SSEV",
+          "name": "Environment and Public Works",
+          "role": "member",
+          "sectors": [
+            "energy",
+            "construction",
+            "utilities"
+          ]
+        }
+      ],
+      "sectors": [
+        "defense",
+        "aerospace",
+        "cybersecurity",
+        "tech",
+        "telecom",
+        "transport",
+        "media",
+        "energy",
+        "construction",
+        "utilities"
+      ]
+    },
+    "tom cotton": {
+      "name": "Tom Cotton",
+      "committees": [
+        {
+          "code": "SSAS",
+          "name": "Armed Services",
+          "role": "member",
+          "sectors": [
+            "defense",
+            "aerospace",
+            "cybersecurity"
+          ]
+        },
+        {
+          "code": "SSEG",
+          "name": "Energy and Natural Resources",
+          "role": "member",
+          "sectors": [
+            "energy",
+            "oil",
+            "mining",
+            "utilities"
+          ]
+        }
+      ],
+      "sectors": [
+        "defense",
+        "aerospace",
+        "cybersecurity",
+        "energy",
+        "oil",
+        "mining",
+        "utilities"
+      ]
+    },
+    "dan sullivan": {
+      "name": "Dan Sullivan",
+      "committees": [
+        {
+          "code": "SSAS",
+          "name": "Armed Services",
+          "role": "member",
+          "sectors": [
+            "defense",
+            "aerospace",
+            "cybersecurity"
+          ]
+        },
+        {
+          "code": "SSCM",
+          "name": "Commerce, Science, and Transportation",
+          "role": "member",
+          "sectors": [
+            "tech",
+            "telecom",
+            "transport",
+            "aerospace",
+            "media"
+          ]
+        },
+        {
+          "code": "SSEV",
+          "name": "Environment and Public Works",
+          "role": "member",
+          "sectors": [
+            "energy",
+            "construction",
+            "utilities"
+          ]
+        }
+      ],
+      "sectors": [
+        "defense",
+        "aerospace",
+        "cybersecurity",
+        "tech",
+        "telecom",
+        "transport",
+        "media",
+        "energy",
+        "construction",
+        "utilities"
+      ]
+    },
+    "kevin cramer": {
+      "name": "Kevin Cramer",
+      "committees": [
+        {
+          "code": "SSAS",
+          "name": "Armed Services",
+          "role": "member",
+          "sectors": [
+            "defense",
+            "aerospace",
+            "cybersecurity"
+          ]
+        },
+        {
+          "code": "SSBK",
+          "name": "Banking, Housing, and Urban Affairs",
+          "role": "member",
+          "sectors": [
+            "banking",
+            "finance",
+            "insurance",
+            "crypto",
+            "fintech",
+            "real-estate"
+          ]
+        },
+        {
+          "code": "SSEV",
+          "name": "Environment and Public Works",
+          "role": "member",
+          "sectors": [
+            "energy",
+            "construction",
+            "utilities"
+          ]
+        }
+      ],
+      "sectors": [
+        "defense",
+        "aerospace",
+        "cybersecurity",
+        "banking",
+        "finance",
+        "insurance",
+        "crypto",
+        "fintech",
+        "real-estate",
+        "energy",
+        "construction",
+        "utilities"
+      ]
+    },
+    "rick scott": {
+      "name": "Rick Scott",
+      "committees": [
+        {
+          "code": "SSAS",
+          "name": "Armed Services",
+          "role": "member",
+          "sectors": [
+            "defense",
+            "aerospace",
+            "cybersecurity"
+          ]
+        },
+        {
+          "code": "SSFR",
+          "name": "Foreign Relations",
+          "role": "member",
+          "sectors": [
+            "defense",
+            "foreign"
+          ]
+        },
+        {
+          "code": "SSGA",
+          "name": "Homeland Security and Governmental Affairs",
+          "role": "member",
+          "sectors": [
+            "defense",
+            "cybersecurity",
+            "security",
+            "government"
+          ]
+        }
+      ],
+      "sectors": [
+        "defense",
+        "aerospace",
+        "cybersecurity",
+        "foreign",
+        "security",
+        "government"
+      ]
+    },
+    "ted budd": {
+      "name": "Ted Budd",
+      "committees": [
+        {
+          "code": "SSAS",
+          "name": "Armed Services",
+          "role": "member",
+          "sectors": [
+            "defense",
+            "aerospace",
+            "cybersecurity"
+          ]
+        },
+        {
+          "code": "SSCM",
+          "name": "Commerce, Science, and Transportation",
+          "role": "member",
+          "sectors": [
+            "tech",
+            "telecom",
+            "transport",
+            "aerospace",
+            "media"
+          ]
+        }
+      ],
+      "sectors": [
+        "defense",
+        "aerospace",
+        "cybersecurity",
+        "tech",
+        "telecom",
+        "transport",
+        "media"
+      ]
+    },
+    "eric schmitt": {
+      "name": "Eric Schmitt",
+      "committees": [
+        {
+          "code": "SSAS",
+          "name": "Armed Services",
+          "role": "member",
+          "sectors": [
+            "defense",
+            "aerospace",
+            "cybersecurity"
+          ]
+        },
+        {
+          "code": "SSCM",
+          "name": "Commerce, Science, and Transportation",
+          "role": "member",
+          "sectors": [
+            "tech",
+            "telecom",
+            "transport",
+            "aerospace",
+            "media"
+          ]
+        }
+      ],
+      "sectors": [
+        "defense",
+        "aerospace",
+        "cybersecurity",
+        "tech",
+        "telecom",
+        "transport",
+        "media"
+      ]
+    },
+    "jim banks": {
+      "name": "Jim Banks",
+      "committees": [
+        {
+          "code": "SSAS",
+          "name": "Armed Services",
+          "role": "member",
+          "sectors": [
+            "defense",
+            "aerospace",
+            "cybersecurity"
+          ]
+        },
+        {
+          "code": "SSBK",
+          "name": "Banking, Housing, and Urban Affairs",
+          "role": "member",
+          "sectors": [
+            "banking",
+            "finance",
+            "insurance",
+            "crypto",
+            "fintech",
+            "real-estate"
+          ]
+        },
+        {
+          "code": "SSHR",
+          "name": "Health, Education, Labor, and Pensions",
+          "role": "member",
+          "sectors": [
+            "healthcare",
+            "pharma",
+            "biotech",
+            "education"
+          ]
+        }
+      ],
+      "sectors": [
+        "defense",
+        "aerospace",
+        "cybersecurity",
+        "banking",
+        "finance",
+        "insurance",
+        "crypto",
+        "fintech",
+        "real-estate",
+        "healthcare",
+        "pharma",
+        "biotech",
+        "education"
+      ]
+    },
+    "tim sheehy": {
+      "name": "Tim Sheehy",
+      "committees": [
+        {
+          "code": "SSAS",
+          "name": "Armed Services",
+          "role": "member",
+          "sectors": [
+            "defense",
+            "aerospace",
+            "cybersecurity"
+          ]
+        },
+        {
+          "code": "SSCM",
+          "name": "Commerce, Science, and Transportation",
+          "role": "member",
+          "sectors": [
+            "tech",
+            "telecom",
+            "transport",
+            "aerospace",
+            "media"
+          ]
+        }
+      ],
+      "sectors": [
+        "defense",
+        "aerospace",
+        "cybersecurity",
+        "tech",
+        "telecom",
+        "transport",
+        "media"
+      ]
+    },
+    "richard blumenthal": {
+      "name": "Richard Blumenthal",
+      "committees": [
+        {
+          "code": "SSAS",
+          "name": "Armed Services",
+          "role": "member",
+          "sectors": [
+            "defense",
+            "aerospace",
+            "cybersecurity"
+          ]
+        },
+        {
+          "code": "SSGA",
+          "name": "Homeland Security and Governmental Affairs",
+          "role": "member",
+          "sectors": [
+            "defense",
+            "cybersecurity",
+            "security",
+            "government"
+          ]
+        }
+      ],
+      "sectors": [
+        "defense",
+        "aerospace",
+        "cybersecurity",
+        "security",
+        "government"
+      ]
+    },
+    "mazie hirono": {
+      "name": "Mazie Hirono",
+      "committees": [
+        {
+          "code": "SSAS",
+          "name": "Armed Services",
+          "role": "member",
+          "sectors": [
+            "defense",
+            "aerospace",
+            "cybersecurity"
+          ]
+        },
+        {
+          "code": "SSEG",
+          "name": "Energy and Natural Resources",
+          "role": "member",
+          "sectors": [
+            "energy",
+            "oil",
+            "mining",
+            "utilities"
+          ]
+        }
+      ],
+      "sectors": [
+        "defense",
+        "aerospace",
+        "cybersecurity",
+        "energy",
+        "oil",
+        "mining",
+        "utilities"
+      ]
+    },
+    "timothy kaine": {
+      "name": "Timothy Kaine",
+      "committees": [
+        {
+          "code": "SSAS",
+          "name": "Armed Services",
+          "role": "member",
+          "sectors": [
+            "defense",
+            "aerospace",
+            "cybersecurity"
+          ]
+        },
+        {
+          "code": "SSFR",
+          "name": "Foreign Relations",
+          "role": "member",
+          "sectors": [
+            "defense",
+            "foreign"
+          ]
+        },
+        {
+          "code": "SSHR",
+          "name": "Health, Education, Labor, and Pensions",
+          "role": "member",
+          "sectors": [
+            "healthcare",
+            "pharma",
+            "biotech",
+            "education"
+          ]
+        }
+      ],
+      "sectors": [
+        "defense",
+        "aerospace",
+        "cybersecurity",
+        "foreign",
+        "healthcare",
+        "pharma",
+        "biotech",
+        "education"
+      ]
+    },
+    "angus king": {
+      "name": "Angus King",
+      "committees": [
+        {
+          "code": "SSAS",
+          "name": "Armed Services",
+          "role": "member",
+          "sectors": [
+            "defense",
+            "aerospace",
+            "cybersecurity"
+          ]
+        },
+        {
+          "code": "SSEG",
+          "name": "Energy and Natural Resources",
+          "role": "member",
+          "sectors": [
+            "energy",
+            "oil",
+            "mining",
+            "utilities"
+          ]
+        }
+      ],
+      "sectors": [
+        "defense",
+        "aerospace",
+        "cybersecurity",
+        "energy",
+        "oil",
+        "mining",
+        "utilities"
+      ]
+    },
+    "elizabeth warren": {
+      "name": "Elizabeth Warren",
+      "committees": [
+        {
+          "code": "SSAS",
+          "name": "Armed Services",
+          "role": "member",
+          "sectors": [
+            "defense",
+            "aerospace",
+            "cybersecurity"
+          ]
+        },
+        {
+          "code": "SSBK",
+          "name": "Banking, Housing, and Urban Affairs",
+          "role": "ranking_member",
+          "sectors": [
+            "banking",
+            "finance",
+            "insurance",
+            "crypto",
+            "fintech",
+            "real-estate"
+          ]
+        },
+        {
+          "code": "SSFI",
+          "name": "Finance",
+          "role": "member",
+          "sectors": [
+            "finance",
+            "insurance",
+            "healthcare",
+            "energy",
+            "pharma"
+          ]
+        }
+      ],
+      "sectors": [
+        "defense",
+        "aerospace",
+        "cybersecurity",
+        "banking",
+        "finance",
+        "insurance",
+        "crypto",
+        "fintech",
+        "real-estate",
+        "healthcare",
+        "energy",
+        "pharma"
+      ]
+    },
+    "tammy duckworth": {
+      "name": "Tammy Duckworth",
+      "committees": [
+        {
+          "code": "SSAS",
+          "name": "Armed Services",
+          "role": "member",
+          "sectors": [
+            "defense",
+            "aerospace",
+            "cybersecurity"
+          ]
+        },
+        {
+          "code": "SSCM",
+          "name": "Commerce, Science, and Transportation",
+          "role": "member",
+          "sectors": [
+            "tech",
+            "telecom",
+            "transport",
+            "aerospace",
+            "media"
+          ]
+        },
+        {
+          "code": "SSFR",
+          "name": "Foreign Relations",
+          "role": "member",
+          "sectors": [
+            "defense",
+            "foreign"
+          ]
+        }
+      ],
+      "sectors": [
+        "defense",
+        "aerospace",
+        "cybersecurity",
+        "tech",
+        "telecom",
+        "transport",
+        "media",
+        "foreign"
+      ]
+    },
+    "jacky rosen": {
+      "name": "Jacky Rosen",
+      "committees": [
+        {
+          "code": "SSAS",
+          "name": "Armed Services",
+          "role": "member",
+          "sectors": [
+            "defense",
+            "aerospace",
+            "cybersecurity"
+          ]
+        },
+        {
+          "code": "SSCM",
+          "name": "Commerce, Science, and Transportation",
+          "role": "member",
+          "sectors": [
+            "tech",
+            "telecom",
+            "transport",
+            "aerospace",
+            "media"
+          ]
+        },
+        {
+          "code": "SSFR",
+          "name": "Foreign Relations",
+          "role": "member",
+          "sectors": [
+            "defense",
+            "foreign"
+          ]
+        }
+      ],
+      "sectors": [
+        "defense",
+        "aerospace",
+        "cybersecurity",
+        "tech",
+        "telecom",
+        "transport",
+        "media",
+        "foreign"
+      ]
+    },
+    "mark kelly": {
+      "name": "Mark Kelly",
+      "committees": [
+        {
+          "code": "SSAS",
+          "name": "Armed Services",
+          "role": "member",
+          "sectors": [
+            "defense",
+            "aerospace",
+            "cybersecurity"
+          ]
+        },
+        {
+          "code": "SSEV",
+          "name": "Environment and Public Works",
+          "role": "member",
+          "sectors": [
+            "energy",
+            "construction",
+            "utilities"
+          ]
+        }
+      ],
+      "sectors": [
+        "defense",
+        "aerospace",
+        "cybersecurity",
+        "energy",
+        "construction",
+        "utilities"
+      ]
+    },
+    "tim scott": {
+      "name": "Tim Scott",
+      "committees": [
+        {
+          "code": "SSBK",
+          "name": "Banking, Housing, and Urban Affairs",
+          "role": "chair",
+          "sectors": [
+            "banking",
+            "finance",
+            "insurance",
+            "crypto",
+            "fintech",
+            "real-estate"
+          ]
+        },
+        {
+          "code": "SSFI",
+          "name": "Finance",
+          "role": "member",
+          "sectors": [
+            "finance",
+            "insurance",
+            "healthcare",
+            "energy",
+            "pharma"
+          ]
+        },
+        {
+          "code": "SSHR",
+          "name": "Health, Education, Labor, and Pensions",
+          "role": "member",
+          "sectors": [
+            "healthcare",
+            "pharma",
+            "biotech",
+            "education"
+          ]
+        }
+      ],
+      "sectors": [
+        "banking",
+        "finance",
+        "insurance",
+        "crypto",
+        "fintech",
+        "real-estate",
+        "healthcare",
+        "energy",
+        "pharma",
+        "biotech",
+        "education"
+      ]
+    },
+    "michael crapo": {
+      "name": "Michael Crapo",
+      "committees": [
+        {
+          "code": "SSBK",
+          "name": "Banking, Housing, and Urban Affairs",
+          "role": "member",
+          "sectors": [
+            "banking",
+            "finance",
+            "insurance",
+            "crypto",
+            "fintech",
+            "real-estate"
+          ]
+        },
+        {
+          "code": "SSFI",
+          "name": "Finance",
+          "role": "chair",
+          "sectors": [
+            "finance",
+            "insurance",
+            "healthcare",
+            "energy",
+            "pharma"
+          ]
+        }
+      ],
+      "sectors": [
+        "banking",
+        "finance",
+        "insurance",
+        "crypto",
+        "fintech",
+        "real-estate",
+        "healthcare",
+        "energy",
+        "pharma"
+      ]
+    },
+    "thom tillis": {
+      "name": "Thom Tillis",
+      "committees": [
+        {
+          "code": "SSBK",
+          "name": "Banking, Housing, and Urban Affairs",
+          "role": "member",
+          "sectors": [
+            "banking",
+            "finance",
+            "insurance",
+            "crypto",
+            "fintech",
+            "real-estate"
+          ]
+        },
+        {
+          "code": "SSFI",
+          "name": "Finance",
+          "role": "member",
+          "sectors": [
+            "finance",
+            "insurance",
+            "healthcare",
+            "energy",
+            "pharma"
+          ]
+        }
+      ],
+      "sectors": [
+        "banking",
+        "finance",
+        "insurance",
+        "crypto",
+        "fintech",
+        "real-estate",
+        "healthcare",
+        "energy",
+        "pharma"
+      ]
+    },
+    "cynthia lummis": {
+      "name": "Cynthia Lummis",
+      "committees": [
+        {
+          "code": "SSBK",
+          "name": "Banking, Housing, and Urban Affairs",
+          "role": "member",
+          "sectors": [
+            "banking",
+            "finance",
+            "insurance",
+            "crypto",
+            "fintech",
+            "real-estate"
+          ]
+        },
+        {
+          "code": "SSCM",
+          "name": "Commerce, Science, and Transportation",
+          "role": "member",
+          "sectors": [
+            "tech",
+            "telecom",
+            "transport",
+            "aerospace",
+            "media"
+          ]
+        },
+        {
+          "code": "SSEV",
+          "name": "Environment and Public Works",
+          "role": "member",
+          "sectors": [
+            "energy",
+            "construction",
+            "utilities"
+          ]
+        }
+      ],
+      "sectors": [
+        "banking",
+        "finance",
+        "insurance",
+        "crypto",
+        "fintech",
+        "real-estate",
+        "tech",
+        "telecom",
+        "transport",
+        "aerospace",
+        "media",
+        "energy",
+        "construction",
+        "utilities"
+      ]
+    },
+    "pete ricketts": {
+      "name": "Pete Ricketts",
+      "committees": [
+        {
+          "code": "SSBK",
+          "name": "Banking, Housing, and Urban Affairs",
+          "role": "member",
+          "sectors": [
+            "banking",
+            "finance",
+            "insurance",
+            "crypto",
+            "fintech",
+            "real-estate"
+          ]
+        },
+        {
+          "code": "SSEV",
+          "name": "Environment and Public Works",
+          "role": "member",
+          "sectors": [
+            "energy",
+            "construction",
+            "utilities"
+          ]
+        },
+        {
+          "code": "SSFR",
+          "name": "Foreign Relations",
+          "role": "member",
+          "sectors": [
+            "defense",
+            "foreign"
+          ]
+        }
+      ],
+      "sectors": [
+        "banking",
+        "finance",
+        "insurance",
+        "crypto",
+        "fintech",
+        "real-estate",
+        "energy",
+        "construction",
+        "utilities",
+        "defense",
+        "foreign"
+      ]
+    },
+    "bernie moreno": {
+      "name": "Bernie Moreno",
+      "committees": [
+        {
+          "code": "SSBK",
+          "name": "Banking, Housing, and Urban Affairs",
+          "role": "member",
+          "sectors": [
+            "banking",
+            "finance",
+            "insurance",
+            "crypto",
+            "fintech",
+            "real-estate"
+          ]
+        },
+        {
+          "code": "SSCM",
+          "name": "Commerce, Science, and Transportation",
+          "role": "member",
+          "sectors": [
+            "tech",
+            "telecom",
+            "transport",
+            "aerospace",
+            "media"
+          ]
+        },
+        {
+          "code": "SSGA",
+          "name": "Homeland Security and Governmental Affairs",
+          "role": "member",
+          "sectors": [
+            "defense",
+            "cybersecurity",
+            "security",
+            "government"
+          ]
+        }
+      ],
+      "sectors": [
+        "banking",
+        "finance",
+        "insurance",
+        "crypto",
+        "fintech",
+        "real-estate",
+        "tech",
+        "telecom",
+        "transport",
+        "aerospace",
+        "media",
+        "defense",
+        "cybersecurity",
+        "security",
+        "government"
+      ]
+    },
+    "dave mccormick": {
+      "name": "Dave McCormick",
+      "committees": [
+        {
+          "code": "SSBK",
+          "name": "Banking, Housing, and Urban Affairs",
+          "role": "member",
+          "sectors": [
+            "banking",
+            "finance",
+            "insurance",
+            "crypto",
+            "fintech",
+            "real-estate"
+          ]
+        },
+        {
+          "code": "SSEG",
+          "name": "Energy and Natural Resources",
+          "role": "member",
+          "sectors": [
+            "energy",
+            "oil",
+            "mining",
+            "utilities"
+          ]
+        },
+        {
+          "code": "SSFR",
+          "name": "Foreign Relations",
+          "role": "member",
+          "sectors": [
+            "defense",
+            "foreign"
+          ]
+        }
+      ],
+      "sectors": [
+        "banking",
+        "finance",
+        "insurance",
+        "crypto",
+        "fintech",
+        "real-estate",
+        "energy",
+        "oil",
+        "mining",
+        "utilities",
+        "defense",
+        "foreign"
+      ]
+    },
+    "mark warner": {
+      "name": "Mark Warner",
+      "committees": [
+        {
+          "code": "SSBK",
+          "name": "Banking, Housing, and Urban Affairs",
+          "role": "member",
+          "sectors": [
+            "banking",
+            "finance",
+            "insurance",
+            "crypto",
+            "fintech",
+            "real-estate"
+          ]
+        },
+        {
+          "code": "SSFI",
+          "name": "Finance",
+          "role": "member",
+          "sectors": [
+            "finance",
+            "insurance",
+            "healthcare",
+            "energy",
+            "pharma"
+          ]
+        }
+      ],
+      "sectors": [
+        "banking",
+        "finance",
+        "insurance",
+        "crypto",
+        "fintech",
+        "real-estate",
+        "healthcare",
+        "energy",
+        "pharma"
+      ]
+    },
+    "catherine cortez masto": {
+      "name": "Catherine Cortez Masto",
+      "committees": [
+        {
+          "code": "SSBK",
+          "name": "Banking, Housing, and Urban Affairs",
+          "role": "member",
+          "sectors": [
+            "banking",
+            "finance",
+            "insurance",
+            "crypto",
+            "fintech",
+            "real-estate"
+          ]
+        },
+        {
+          "code": "SSEG",
+          "name": "Energy and Natural Resources",
+          "role": "member",
+          "sectors": [
+            "energy",
+            "oil",
+            "mining",
+            "utilities"
+          ]
+        },
+        {
+          "code": "SSFI",
+          "name": "Finance",
+          "role": "member",
+          "sectors": [
+            "finance",
+            "insurance",
+            "healthcare",
+            "energy",
+            "pharma"
+          ]
+        }
+      ],
+      "sectors": [
+        "banking",
+        "finance",
+        "insurance",
+        "crypto",
+        "fintech",
+        "real-estate",
+        "energy",
+        "oil",
+        "mining",
+        "utilities",
+        "healthcare",
+        "pharma"
+      ]
+    },
+    "andy kim": {
+      "name": "Andy Kim",
+      "committees": [
+        {
+          "code": "SSBK",
+          "name": "Banking, Housing, and Urban Affairs",
+          "role": "member",
+          "sectors": [
+            "banking",
+            "finance",
+            "insurance",
+            "crypto",
+            "fintech",
+            "real-estate"
+          ]
+        },
+        {
+          "code": "SSCM",
+          "name": "Commerce, Science, and Transportation",
+          "role": "member",
+          "sectors": [
+            "tech",
+            "telecom",
+            "transport",
+            "aerospace",
+            "media"
+          ]
+        },
+        {
+          "code": "SSHR",
+          "name": "Health, Education, Labor, and Pensions",
+          "role": "member",
+          "sectors": [
+            "healthcare",
+            "pharma",
+            "biotech",
+            "education"
+          ]
+        },
+        {
+          "code": "SSGA",
+          "name": "Homeland Security and Governmental Affairs",
+          "role": "member",
+          "sectors": [
+            "defense",
+            "cybersecurity",
+            "security",
+            "government"
+          ]
+        }
+      ],
+      "sectors": [
+        "banking",
+        "finance",
+        "insurance",
+        "crypto",
+        "fintech",
+        "real-estate",
+        "tech",
+        "telecom",
+        "transport",
+        "aerospace",
+        "media",
+        "healthcare",
+        "pharma",
+        "biotech",
+        "education",
+        "defense",
+        "cybersecurity",
+        "security",
+        "government"
+      ]
+    },
+    "ruben gallego": {
+      "name": "Ruben Gallego",
+      "committees": [
+        {
+          "code": "SSBK",
+          "name": "Banking, Housing, and Urban Affairs",
+          "role": "member",
+          "sectors": [
+            "banking",
+            "finance",
+            "insurance",
+            "crypto",
+            "fintech",
+            "real-estate"
+          ]
+        },
+        {
+          "code": "SSEG",
+          "name": "Energy and Natural Resources",
+          "role": "member",
+          "sectors": [
+            "energy",
+            "oil",
+            "mining",
+            "utilities"
+          ]
+        },
+        {
+          "code": "SSGA",
+          "name": "Homeland Security and Governmental Affairs",
+          "role": "member",
+          "sectors": [
+            "defense",
+            "cybersecurity",
+            "security",
+            "government"
+          ]
+        }
+      ],
+      "sectors": [
+        "banking",
+        "finance",
+        "insurance",
+        "crypto",
+        "fintech",
+        "real-estate",
+        "energy",
+        "oil",
+        "mining",
+        "utilities",
+        "defense",
+        "cybersecurity",
+        "security",
+        "government"
+      ]
+    },
+    "lisa blunt rochester": {
+      "name": "Lisa Blunt Rochester",
+      "committees": [
+        {
+          "code": "SSBK",
+          "name": "Banking, Housing, and Urban Affairs",
+          "role": "member",
+          "sectors": [
+            "banking",
+            "finance",
+            "insurance",
+            "crypto",
+            "fintech",
+            "real-estate"
+          ]
+        },
+        {
+          "code": "SSCM",
+          "name": "Commerce, Science, and Transportation",
+          "role": "member",
+          "sectors": [
+            "tech",
+            "telecom",
+            "transport",
+            "aerospace",
+            "media"
+          ]
+        },
+        {
+          "code": "SSEV",
+          "name": "Environment and Public Works",
+          "role": "member",
+          "sectors": [
+            "energy",
+            "construction",
+            "utilities"
+          ]
+        },
+        {
+          "code": "SSHR",
+          "name": "Health, Education, Labor, and Pensions",
+          "role": "member",
+          "sectors": [
+            "healthcare",
+            "pharma",
+            "biotech",
+            "education"
+          ]
+        }
+      ],
+      "sectors": [
+        "banking",
+        "finance",
+        "insurance",
+        "crypto",
+        "fintech",
+        "real-estate",
+        "tech",
+        "telecom",
+        "transport",
+        "aerospace",
+        "media",
+        "energy",
+        "construction",
+        "utilities",
+        "healthcare",
+        "pharma",
+        "biotech",
+        "education"
+      ]
+    },
+    "angela alsobrooks": {
+      "name": "Angela Alsobrooks",
+      "committees": [
+        {
+          "code": "SSBK",
+          "name": "Banking, Housing, and Urban Affairs",
+          "role": "member",
+          "sectors": [
+            "banking",
+            "finance",
+            "insurance",
+            "crypto",
+            "fintech",
+            "real-estate"
+          ]
+        },
+        {
+          "code": "SSEV",
+          "name": "Environment and Public Works",
+          "role": "member",
+          "sectors": [
+            "energy",
+            "construction",
+            "utilities"
+          ]
+        },
+        {
+          "code": "SSHR",
+          "name": "Health, Education, Labor, and Pensions",
+          "role": "member",
+          "sectors": [
+            "healthcare",
+            "pharma",
+            "biotech",
+            "education"
+          ]
+        }
+      ],
+      "sectors": [
+        "banking",
+        "finance",
+        "insurance",
+        "crypto",
+        "fintech",
+        "real-estate",
+        "energy",
+        "construction",
+        "utilities",
+        "healthcare",
+        "pharma",
+        "biotech",
+        "education"
+      ]
+    },
+    "ted cruz": {
+      "name": "Ted Cruz",
+      "committees": [
+        {
+          "code": "SSCM",
+          "name": "Commerce, Science, and Transportation",
+          "role": "chair",
+          "sectors": [
+            "tech",
+            "telecom",
+            "transport",
+            "aerospace",
+            "media"
+          ]
+        },
+        {
+          "code": "SSFR",
+          "name": "Foreign Relations",
+          "role": "member",
+          "sectors": [
+            "defense",
+            "foreign"
+          ]
+        }
+      ],
+      "sectors": [
+        "tech",
+        "telecom",
+        "transport",
+        "aerospace",
+        "media",
+        "defense",
+        "foreign"
+      ]
+    },
+    "marsha blackburn": {
+      "name": "Marsha Blackburn",
+      "committees": [
+        {
+          "code": "SSCM",
+          "name": "Commerce, Science, and Transportation",
+          "role": "member",
+          "sectors": [
+            "tech",
+            "telecom",
+            "transport",
+            "aerospace",
+            "media"
+          ]
+        },
+        {
+          "code": "SSFI",
+          "name": "Finance",
+          "role": "member",
+          "sectors": [
+            "finance",
+            "insurance",
+            "healthcare",
+            "energy",
+            "pharma"
+          ]
+        }
+      ],
+      "sectors": [
+        "tech",
+        "telecom",
+        "transport",
+        "aerospace",
+        "media",
+        "finance",
+        "insurance",
+        "healthcare",
+        "energy",
+        "pharma"
+      ]
+    },
+    "todd young": {
+      "name": "Todd Young",
+      "committees": [
+        {
+          "code": "SSCM",
+          "name": "Commerce, Science, and Transportation",
+          "role": "member",
+          "sectors": [
+            "tech",
+            "telecom",
+            "transport",
+            "aerospace",
+            "media"
+          ]
+        },
+        {
+          "code": "SSFI",
+          "name": "Finance",
+          "role": "member",
+          "sectors": [
+            "finance",
+            "insurance",
+            "healthcare",
+            "energy",
+            "pharma"
+          ]
+        }
+      ],
+      "sectors": [
+        "tech",
+        "telecom",
+        "transport",
+        "aerospace",
+        "media",
+        "finance",
+        "insurance",
+        "healthcare",
+        "energy",
+        "pharma"
+      ]
+    },
+    "john curtis": {
+      "name": "John Curtis",
+      "committees": [
+        {
+          "code": "SSCM",
+          "name": "Commerce, Science, and Transportation",
+          "role": "member",
+          "sectors": [
+            "tech",
+            "telecom",
+            "transport",
+            "aerospace",
+            "media"
+          ]
+        },
+        {
+          "code": "SSEV",
+          "name": "Environment and Public Works",
+          "role": "member",
+          "sectors": [
+            "energy",
+            "construction",
+            "utilities"
+          ]
+        },
+        {
+          "code": "SSFR",
+          "name": "Foreign Relations",
+          "role": "member",
+          "sectors": [
+            "defense",
+            "foreign"
+          ]
+        }
+      ],
+      "sectors": [
+        "tech",
+        "telecom",
+        "transport",
+        "aerospace",
+        "media",
+        "energy",
+        "construction",
+        "utilities",
+        "defense",
+        "foreign"
+      ]
+    },
+    "maria cantwell": {
+      "name": "Maria Cantwell",
+      "committees": [
+        {
+          "code": "SSCM",
+          "name": "Commerce, Science, and Transportation",
+          "role": "ranking_member",
+          "sectors": [
+            "tech",
+            "telecom",
+            "transport",
+            "aerospace",
+            "media"
+          ]
+        },
+        {
+          "code": "SSEG",
+          "name": "Energy and Natural Resources",
+          "role": "member",
+          "sectors": [
+            "energy",
+            "oil",
+            "mining",
+            "utilities"
+          ]
+        },
+        {
+          "code": "SSFI",
+          "name": "Finance",
+          "role": "member",
+          "sectors": [
+            "finance",
+            "insurance",
+            "healthcare",
+            "energy",
+            "pharma"
+          ]
+        }
+      ],
+      "sectors": [
+        "tech",
+        "telecom",
+        "transport",
+        "aerospace",
+        "media",
+        "energy",
+        "oil",
+        "mining",
+        "utilities",
+        "finance",
+        "insurance",
+        "healthcare",
+        "pharma"
+      ]
+    },
+    "edward markey": {
+      "name": "Edward Markey",
+      "committees": [
+        {
+          "code": "SSCM",
+          "name": "Commerce, Science, and Transportation",
+          "role": "member",
+          "sectors": [
+            "tech",
+            "telecom",
+            "transport",
+            "aerospace",
+            "media"
+          ]
+        },
+        {
+          "code": "SSEV",
+          "name": "Environment and Public Works",
+          "role": "member",
+          "sectors": [
+            "energy",
+            "construction",
+            "utilities"
+          ]
+        },
+        {
+          "code": "SSHR",
+          "name": "Health, Education, Labor, and Pensions",
+          "role": "member",
+          "sectors": [
+            "healthcare",
+            "pharma",
+            "biotech",
+            "education"
+          ]
+        }
+      ],
+      "sectors": [
+        "tech",
+        "telecom",
+        "transport",
+        "aerospace",
+        "media",
+        "energy",
+        "construction",
+        "utilities",
+        "healthcare",
+        "pharma",
+        "biotech",
+        "education"
+      ]
+    },
+    "john hickenlooper": {
+      "name": "John Hickenlooper",
+      "committees": [
+        {
+          "code": "SSCM",
+          "name": "Commerce, Science, and Transportation",
+          "role": "member",
+          "sectors": [
+            "tech",
+            "telecom",
+            "transport",
+            "aerospace",
+            "media"
+          ]
+        },
+        {
+          "code": "SSEG",
+          "name": "Energy and Natural Resources",
+          "role": "member",
+          "sectors": [
+            "energy",
+            "oil",
+            "mining",
+            "utilities"
+          ]
+        },
+        {
+          "code": "SSHR",
+          "name": "Health, Education, Labor, and Pensions",
+          "role": "member",
+          "sectors": [
+            "healthcare",
+            "pharma",
+            "biotech",
+            "education"
+          ]
+        }
+      ],
+      "sectors": [
+        "tech",
+        "telecom",
+        "transport",
+        "aerospace",
+        "media",
+        "energy",
+        "oil",
+        "mining",
+        "utilities",
+        "healthcare",
+        "pharma",
+        "biotech",
+        "education"
+      ]
+    },
+    "mike lee": {
+      "name": "Mike Lee",
+      "committees": [
+        {
+          "code": "SSEG",
+          "name": "Energy and Natural Resources",
+          "role": "chair",
+          "sectors": [
+            "energy",
+            "oil",
+            "mining",
+            "utilities"
+          ]
+        },
+        {
+          "code": "SSFR",
+          "name": "Foreign Relations",
+          "role": "member",
+          "sectors": [
+            "defense",
+            "foreign"
+          ]
+        }
+      ],
+      "sectors": [
+        "energy",
+        "oil",
+        "mining",
+        "utilities",
+        "defense",
+        "foreign"
+      ]
+    },
+    "john barrasso": {
+      "name": "John Barrasso",
+      "committees": [
+        {
+          "code": "SSEG",
+          "name": "Energy and Natural Resources",
+          "role": "member",
+          "sectors": [
+            "energy",
+            "oil",
+            "mining",
+            "utilities"
+          ]
+        },
+        {
+          "code": "SSFI",
+          "name": "Finance",
+          "role": "member",
+          "sectors": [
+            "finance",
+            "insurance",
+            "healthcare",
+            "energy",
+            "pharma"
+          ]
+        },
+        {
+          "code": "SSFR",
+          "name": "Foreign Relations",
+          "role": "member",
+          "sectors": [
+            "defense",
+            "foreign"
+          ]
+        }
+      ],
+      "sectors": [
+        "energy",
+        "oil",
+        "mining",
+        "utilities",
+        "finance",
+        "insurance",
+        "healthcare",
+        "pharma",
+        "defense",
+        "foreign"
+      ]
+    },
+    "james risch": {
+      "name": "James Risch",
+      "committees": [
+        {
+          "code": "SSEG",
+          "name": "Energy and Natural Resources",
+          "role": "member",
+          "sectors": [
+            "energy",
+            "oil",
+            "mining",
+            "utilities"
+          ]
+        },
+        {
+          "code": "SSFR",
+          "name": "Foreign Relations",
+          "role": "chair",
+          "sectors": [
+            "defense",
+            "foreign"
+          ]
+        }
+      ],
+      "sectors": [
+        "energy",
+        "oil",
+        "mining",
+        "utilities",
+        "defense",
+        "foreign"
+      ]
+    },
+    "steve daines": {
+      "name": "Steve Daines",
+      "committees": [
+        {
+          "code": "SSEG",
+          "name": "Energy and Natural Resources",
+          "role": "member",
+          "sectors": [
+            "energy",
+            "oil",
+            "mining",
+            "utilities"
+          ]
+        },
+        {
+          "code": "SSFI",
+          "name": "Finance",
+          "role": "member",
+          "sectors": [
+            "finance",
+            "insurance",
+            "healthcare",
+            "energy",
+            "pharma"
+          ]
+        },
+        {
+          "code": "SSFR",
+          "name": "Foreign Relations",
+          "role": "member",
+          "sectors": [
+            "defense",
+            "foreign"
+          ]
+        }
+      ],
+      "sectors": [
+        "energy",
+        "oil",
+        "mining",
+        "utilities",
+        "finance",
+        "insurance",
+        "healthcare",
+        "pharma",
+        "defense",
+        "foreign"
+      ]
+    },
+    "bill cassidy": {
+      "name": "Bill Cassidy",
+      "committees": [
+        {
+          "code": "SSEG",
+          "name": "Energy and Natural Resources",
+          "role": "member",
+          "sectors": [
+            "energy",
+            "oil",
+            "mining",
+            "utilities"
+          ]
+        },
+        {
+          "code": "SSFI",
+          "name": "Finance",
+          "role": "member",
+          "sectors": [
+            "finance",
+            "insurance",
+            "healthcare",
+            "energy",
+            "pharma"
+          ]
+        },
+        {
+          "code": "SSHR",
+          "name": "Health, Education, Labor, and Pensions",
+          "role": "chair",
+          "sectors": [
+            "healthcare",
+            "pharma",
+            "biotech",
+            "education"
+          ]
+        }
+      ],
+      "sectors": [
+        "energy",
+        "oil",
+        "mining",
+        "utilities",
+        "finance",
+        "insurance",
+        "healthcare",
+        "pharma",
+        "biotech",
+        "education"
+      ]
+    },
+    "ron wyden": {
+      "name": "Ron Wyden",
+      "committees": [
+        {
+          "code": "SSEG",
+          "name": "Energy and Natural Resources",
+          "role": "member",
+          "sectors": [
+            "energy",
+            "oil",
+            "mining",
+            "utilities"
+          ]
+        },
+        {
+          "code": "SSFI",
+          "name": "Finance",
+          "role": "ranking_member",
+          "sectors": [
+            "finance",
+            "insurance",
+            "healthcare",
+            "energy",
+            "pharma"
+          ]
+        }
+      ],
+      "sectors": [
+        "energy",
+        "oil",
+        "mining",
+        "utilities",
+        "finance",
+        "insurance",
+        "healthcare",
+        "pharma"
+      ]
+    },
+    "alejandro padilla": {
+      "name": "Alejandro Padilla",
+      "committees": [
+        {
+          "code": "SSEG",
+          "name": "Energy and Natural Resources",
+          "role": "member",
+          "sectors": [
+            "energy",
+            "oil",
+            "mining",
+            "utilities"
+          ]
+        },
+        {
+          "code": "SSEV",
+          "name": "Environment and Public Works",
+          "role": "member",
+          "sectors": [
+            "energy",
+            "construction",
+            "utilities"
+          ]
+        }
+      ],
+      "sectors": [
+        "energy",
+        "oil",
+        "mining",
+        "utilities",
+        "construction"
+      ]
+    },
+    "jon husted": {
+      "name": "Jon Husted",
+      "committees": [
+        {
+          "code": "SSEV",
+          "name": "Environment and Public Works",
+          "role": "member",
+          "sectors": [
+            "energy",
+            "construction",
+            "utilities"
+          ]
+        },
+        {
+          "code": "SSHR",
+          "name": "Health, Education, Labor, and Pensions",
+          "role": "member",
+          "sectors": [
+            "healthcare",
+            "pharma",
+            "biotech",
+            "education"
+          ]
+        }
+      ],
+      "sectors": [
+        "energy",
+        "construction",
+        "utilities",
+        "healthcare",
+        "pharma",
+        "biotech",
+        "education"
+      ]
+    },
+    "sheldon whitehouse": {
+      "name": "Sheldon Whitehouse",
+      "committees": [
+        {
+          "code": "SSEV",
+          "name": "Environment and Public Works",
+          "role": "ranking_member",
+          "sectors": [
+            "energy",
+            "construction",
+            "utilities"
+          ]
+        },
+        {
+          "code": "SSFI",
+          "name": "Finance",
+          "role": "member",
+          "sectors": [
+            "finance",
+            "insurance",
+            "healthcare",
+            "energy",
+            "pharma"
+          ]
+        }
+      ],
+      "sectors": [
+        "energy",
+        "construction",
+        "utilities",
+        "finance",
+        "insurance",
+        "healthcare",
+        "pharma"
+      ]
+    },
+    "bernard sanders": {
+      "name": "Bernard Sanders",
+      "committees": [
+        {
+          "code": "SSEV",
+          "name": "Environment and Public Works",
+          "role": "member",
+          "sectors": [
+            "energy",
+            "construction",
+            "utilities"
+          ]
+        },
+        {
+          "code": "SSFI",
+          "name": "Finance",
+          "role": "member",
+          "sectors": [
+            "finance",
+            "insurance",
+            "healthcare",
+            "energy",
+            "pharma"
+          ]
+        },
+        {
+          "code": "SSHR",
+          "name": "Health, Education, Labor, and Pensions",
+          "role": "ranking_member",
+          "sectors": [
+            "healthcare",
+            "pharma",
+            "biotech",
+            "education"
+          ]
+        }
+      ],
+      "sectors": [
+        "energy",
+        "construction",
+        "utilities",
+        "finance",
+        "insurance",
+        "healthcare",
+        "pharma",
+        "biotech",
+        "education"
+      ]
+    },
+    "john cornyn": {
+      "name": "John Cornyn",
+      "committees": [
+        {
+          "code": "SSFI",
+          "name": "Finance",
+          "role": "member",
+          "sectors": [
+            "finance",
+            "insurance",
+            "healthcare",
+            "energy",
+            "pharma"
+          ]
+        },
+        {
+          "code": "SSFR",
+          "name": "Foreign Relations",
+          "role": "member",
+          "sectors": [
+            "defense",
+            "foreign"
+          ]
+        }
+      ],
+      "sectors": [
+        "finance",
+        "insurance",
+        "healthcare",
+        "energy",
+        "pharma",
+        "defense",
+        "foreign"
+      ]
+    },
+    "james lankford": {
+      "name": "James Lankford",
+      "committees": [
+        {
+          "code": "SSFI",
+          "name": "Finance",
+          "role": "member",
+          "sectors": [
+            "finance",
+            "insurance",
+            "healthcare",
+            "energy",
+            "pharma"
+          ]
+        },
+        {
+          "code": "SSGA",
+          "name": "Homeland Security and Governmental Affairs",
+          "role": "member",
+          "sectors": [
+            "defense",
+            "cybersecurity",
+            "security",
+            "government"
+          ]
+        }
+      ],
+      "sectors": [
+        "finance",
+        "insurance",
+        "healthcare",
+        "energy",
+        "pharma",
+        "defense",
+        "cybersecurity",
+        "security",
+        "government"
+      ]
+    },
+    "ron johnson": {
+      "name": "Ron Johnson",
+      "committees": [
+        {
+          "code": "SSFI",
+          "name": "Finance",
+          "role": "member",
+          "sectors": [
+            "finance",
+            "insurance",
+            "healthcare",
+            "energy",
+            "pharma"
+          ]
+        },
+        {
+          "code": "SSGA",
+          "name": "Homeland Security and Governmental Affairs",
+          "role": "member",
+          "sectors": [
+            "defense",
+            "cybersecurity",
+            "security",
+            "government"
+          ]
+        }
+      ],
+      "sectors": [
+        "finance",
+        "insurance",
+        "healthcare",
+        "energy",
+        "pharma",
+        "defense",
+        "cybersecurity",
+        "security",
+        "government"
+      ]
+    },
+    "margaret hassan": {
+      "name": "Margaret Hassan",
+      "committees": [
+        {
+          "code": "SSFI",
+          "name": "Finance",
+          "role": "member",
+          "sectors": [
+            "finance",
+            "insurance",
+            "healthcare",
+            "energy",
+            "pharma"
+          ]
+        },
+        {
+          "code": "SSHR",
+          "name": "Health, Education, Labor, and Pensions",
+          "role": "member",
+          "sectors": [
+            "healthcare",
+            "pharma",
+            "biotech",
+            "education"
+          ]
+        },
+        {
+          "code": "SSGA",
+          "name": "Homeland Security and Governmental Affairs",
+          "role": "member",
+          "sectors": [
+            "defense",
+            "cybersecurity",
+            "security",
+            "government"
+          ]
+        }
+      ],
+      "sectors": [
+        "finance",
+        "insurance",
+        "healthcare",
+        "energy",
+        "pharma",
+        "biotech",
+        "education",
+        "defense",
+        "cybersecurity",
+        "security",
+        "government"
+      ]
+    },
+    "rand paul": {
+      "name": "Rand Paul",
+      "committees": [
+        {
+          "code": "SSFR",
+          "name": "Foreign Relations",
+          "role": "member",
+          "sectors": [
+            "defense",
+            "foreign"
+          ]
+        },
+        {
+          "code": "SSHR",
+          "name": "Health, Education, Labor, and Pensions",
+          "role": "member",
+          "sectors": [
+            "healthcare",
+            "pharma",
+            "biotech",
+            "education"
+          ]
+        },
+        {
+          "code": "SSGA",
+          "name": "Homeland Security and Governmental Affairs",
+          "role": "chair",
+          "sectors": [
+            "defense",
+            "cybersecurity",
+            "security",
+            "government"
+          ]
+        }
+      ],
+      "sectors": [
+        "defense",
+        "foreign",
+        "healthcare",
+        "pharma",
+        "biotech",
+        "education",
+        "cybersecurity",
+        "security",
+        "government"
+      ]
+    },
+    "joshua hawley": {
+      "name": "Joshua Hawley",
+      "committees": [
+        {
+          "code": "SSHR",
+          "name": "Health, Education, Labor, and Pensions",
+          "role": "member",
+          "sectors": [
+            "healthcare",
+            "pharma",
+            "biotech",
+            "education"
+          ]
+        },
+        {
+          "code": "SSGA",
+          "name": "Homeland Security and Governmental Affairs",
+          "role": "member",
+          "sectors": [
+            "defense",
+            "cybersecurity",
+            "security",
+            "government"
+          ]
+        }
+      ],
+      "sectors": [
+        "healthcare",
+        "pharma",
+        "biotech",
+        "education",
+        "defense",
+        "cybersecurity",
+        "security",
+        "government"
+      ]
+    },
+    "ashley moody": {
+      "name": "Ashley Moody",
+      "committees": [
+        {
+          "code": "SSHR",
+          "name": "Health, Education, Labor, and Pensions",
+          "role": "member",
+          "sectors": [
+            "healthcare",
+            "pharma",
+            "biotech",
+            "education"
+          ]
+        },
+        {
+          "code": "SSGA",
+          "name": "Homeland Security and Governmental Affairs",
+          "role": "member",
+          "sectors": [
+            "defense",
+            "cybersecurity",
+            "security",
+            "government"
+          ]
+        }
+      ],
+      "sectors": [
+        "healthcare",
+        "pharma",
+        "biotech",
+        "education",
+        "defense",
+        "cybersecurity",
+        "security",
+        "government"
+      ]
+    }
+  }
+}

@@ -2,6 +2,7 @@
 title: Marjorie Taylor Greene Master Profile
 type: politician
 content-readiness: draft
+central-thesis: "MTG monetizes outrage — her donor model is built on small-dollar fundraising triggered by controversy, making her the right-wing mirror of the progressive fundraising model. But unlike AOC, whose controversies emerge from substantive policy challe..."
 last-updated: '2026-04-10'
 source-tier: 1
 parent: null

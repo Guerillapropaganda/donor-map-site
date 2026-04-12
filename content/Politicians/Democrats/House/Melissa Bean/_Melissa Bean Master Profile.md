@@ -2,7 +2,8 @@
 title: "Melissa Bean Master Profile"
 type: politician
 content-readiness: draft
-last-updated: 2026-04-12
+central-thesis: "Melissa Bean represents a new prototype in the 2026 election cycle: the 'comeback candidate' funded by a coalition of emerging donor interests (AI tech, cryptocurrency, pro-Israel infrastructure). Her 2026 primary victory was almost entirely depen..."
+last-updated: 2026-04-11
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -38,7 +39,7 @@ related: "[[AIPAC - American Israel Public Affairs Committee]] · [[Think Big AI
 internal-notes: "[MANUAL 2026-04-11] Bioguide recovered: B001253. Previously cleared by fix-bioguide-contamination.cjs because the profile was sharing a contaminated wrong bioguide (C001091 or B001296) with other unrelated profiles. Manually verified against bioguide.congress.gov/search. needs-reenrichment flipped from false to true — the next scheduled pipeline run will now populate correct Congress.gov auto-blocks.
 
 [JANITOR 2026-04-11] Bioguide contamination cleared by fix-bioguide-contamination.cjs. This profile had bioguide-id set to 'B001296' ((unknown — smaller 3-file contamination)), almost certainly from a past bulk-set script that fell through to candidates[0]?.bioguideId when a name search failed. 3 unrelated profiles all had the same wrong ID — same class of bug as the A000383 Alan Armstrong incident documented in the Pipeline Guide. The wrong ID has been removed. A correct bioguide must be added manually (verify at bioguide.congress.gov/search) before the Congress.gov pipeline can enrich this profile. Pipeline will skip this profile until a bioguide is provided."
-last-enriched: "2026-04-12"
+last-enriched: "2026-04-11"
 total-raised: "$2,292,879"
 total-spent: "$2,451,348"
 cash-on-hand: "25239.79"

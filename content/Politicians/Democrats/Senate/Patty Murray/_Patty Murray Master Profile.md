@@ -2,6 +2,7 @@
 title: "Patty Murray"
 type: politician
 content-readiness: draft
+central-thesis: "Patty Murray exemplifies the unsexy, unglamorous accumulation of structural power in the Senate: appropriations control, committee seniority, and the ability to direct billions of dollars to home-state industries. Unlike dramatic figures who draw ..."
 last-updated: 2026-04-12
 source-tier: 1
 parent: null

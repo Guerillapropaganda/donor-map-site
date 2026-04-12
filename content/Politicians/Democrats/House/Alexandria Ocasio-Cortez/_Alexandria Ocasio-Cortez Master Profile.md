@@ -2,6 +2,7 @@
 title: "Alexandria Ocasio-Cortez Master Profile"
 type: politician
 content-readiness: draft
+central-thesis: "AOC represents the donor class's nightmare AND its containment strategy. Her small-dollar funding model proves that politicians don't need corporate money — a demonstration effect that terrifies every institution that depends on the funding chokeh..."
 last-updated: 2026-04-12
 source-tier: 1
 parent: null

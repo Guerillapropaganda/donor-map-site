@@ -2,6 +2,7 @@
 title: "Kay Granger Master Profile"
 type: politician
 content-readiness: draft
+central-thesis: "Kay Granger was, effectively, Lockheed Martin's $634,000+ congressional employee — with a career total possibly exceeding $800,000 in direct contributions and revolving-door connections. Her Fort Worth district contains the F-35 production line. S..."
 last-updated: 2026-04-08
 source-tier: 1
 parent: null

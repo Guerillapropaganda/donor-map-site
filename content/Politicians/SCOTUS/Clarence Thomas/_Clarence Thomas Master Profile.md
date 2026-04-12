@@ -2,6 +2,7 @@
 title: "Clarence Thomas Master Profile"
 type: politician
 content-readiness: draft
+central-thesis: "Clarence Thomas is the Supreme Court's proof of concept for donor capture. Over 30+ years, a network of billionaire donors — Harlan Crow ($4.75M+ in gifts), the Koch brothers (donor summit access), and Leonard Leo (the architect) — have provided T..."
 last-updated: 2026-03-24
 source-tier: 1
 parent: null

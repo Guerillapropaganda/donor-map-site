@@ -2,6 +2,7 @@
 title: "Dan Osborn Master Profile"
 type: politician
 content-readiness: draft
+central-thesis: "Osborn represents an emerging independent working-class model that is primarily funded by national Democratic infrastructure while maintaining an 'independent' brand to appeal to Nebraska moderates and right-leaning working-class voters skeptical ..."
 last-updated: 2026-04-10
 source-tier: 1
 parent: null

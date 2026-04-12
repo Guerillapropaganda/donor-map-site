@@ -2,6 +2,7 @@
 title: Ron DeSantis Master Profile
 type: politician
 content-readiness: draft
+central-thesis: "DeSantis is the donor class's backup plan. When Trump became criminally indicted and legally toxic heading into 2024, billionaires like Ken Griffin ($5M+ to DeSantis's 2022 reelection), the Koch network, and Club for Growth-aligned donors rallied ..."
 last-updated: 2026-04-10
 source-tier: 1
 parent: null

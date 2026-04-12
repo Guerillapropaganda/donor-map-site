@@ -2,6 +2,7 @@
 title: "Steve Witkoff"
 type: politician
 content-readiness: draft
+central-thesis: "Witkoff is the purest embodiment of the Trump administration's merger of personal profit and public diplomacy. As Middle East envoy, he negotiates with the same Gulf state leaders whose sovereign wealth funds invest in his business ventures and th..."
 last-updated: 2026-04-10
 source-tier: 1
 parent: null

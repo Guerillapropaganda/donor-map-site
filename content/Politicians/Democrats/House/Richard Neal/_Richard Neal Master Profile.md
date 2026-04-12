@@ -2,6 +2,7 @@
 title: "Richard Neal Master Profile"
 type: politician
 content-readiness: draft
+central-thesis: "Richard Neal's congressional career is the institutional mechanism by which the insurance and pharmaceutical industries prevented American healthcare reform for 35 years. His job was never to pass legislation advancing working-class healthcare int..."
 last-updated: 2026-04-08
 source-tier: 1
 parent: null

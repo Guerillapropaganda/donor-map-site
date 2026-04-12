@@ -2,6 +2,7 @@
 title: "Joni Ernst Master Profile"
 type: politician
 content-readiness: draft
+central-thesis: "Joni Ernst rode the Tea Party wave and rural authenticity (farm background, military service) into the Senate, but her donor base is Koch money and corporate agribusiness, not family farmers. Iowa's agricultural consolidation over the past 40 year..."
 last-updated: 2026-04-08
 source-tier: 1
 parent: null

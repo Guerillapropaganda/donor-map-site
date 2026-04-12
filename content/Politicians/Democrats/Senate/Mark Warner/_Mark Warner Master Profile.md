@@ -2,6 +2,7 @@
 title: "Mark Warner"
 type: politician
 content-readiness: draft
+central-thesis: "Warner occupies the clearest personal financial conflict in the Senate. His $215M+ wealth comes directly from telecom venture capital (Nextel, spectrum trading). He now sits on committees that set policy for tech regulation, foreign investment scr..."
 last-updated: 2026-04-12
 source-tier: 1
 parent: null

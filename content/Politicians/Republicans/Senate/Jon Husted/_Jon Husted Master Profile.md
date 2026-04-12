@@ -2,6 +2,7 @@
 title: "Jon Husted Master Profile"
 type: politician
 content-readiness: draft
+central-thesis: "Husted represents the establishment Republican faction in Ohio—a reliable vote for corporate donors and wealthy individuals with regulatory interests before state and federal agencies. His long tenure in Ohio Republican politics positions him as a..."
 last-updated: 2026-04-08
 source-tier: 1
 parent: null

@@ -2,6 +2,7 @@
 title: "Neil Gorsuch Master Profile"
 type: politician
 content-readiness: draft
+central-thesis: "Neil Gorsuch is the donor class's return on the most audacious power play in modern Senate history. McConnell held Scalia's seat open for 293 days — blocking a president's constitutional authority to fill a vacancy — so that the Federalist Society..."
 last-updated: 2026-04-07
 source-tier: 1
 parent: null

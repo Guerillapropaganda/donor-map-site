@@ -2,6 +2,7 @@
 title: "Jim McGovern"
 type: politician
 content-readiness: draft
+central-thesis: "Jim McGovern is the rare committee leader whose donor profile is genuinely modest and whose policy work centers on issues with no major corporate lobby: hunger, human rights, and procedural reform. His top donors are labor unions, lawyers, and hea..."
 last-updated: 2026-04-10
 source-tier: 1
 parent: null

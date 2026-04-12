@@ -2,6 +2,7 @@
 title: "Gretchen Whitmer Master Profile"
 type: politician
 content-readiness: draft
+central-thesis: "Whitmer is the donor class's ideal 2028 vehicle — progressive branding (reproductive rights, infrastructure, 'Fix the Damn Roads') layered over a pro-business, auto industry-aligned governing record. Michigan's EV manufacturing subsidies are simul..."
 last-updated: 2026-04-08
 source-tier: 1
 parent: null

@@ -2,6 +2,7 @@
 title: "Betty Yee Master Profile"
 type: politician
 content-readiness: draft
+central-thesis: "Betty Yee is the fiscal technocrat candidate — her entire political identity is built around the Controller role, which gives her unique visibility into California's state finances, pension obligations, corporate tax compliance, and fiscal policy ..."
 last-updated: 2026-04-09
 source-tier: 1
 parent: null

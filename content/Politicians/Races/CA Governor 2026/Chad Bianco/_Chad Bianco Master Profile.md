@@ -2,6 +2,7 @@
 title: "Chad Bianco Master Profile"
 type: politician
 content-readiness: draft
+central-thesis: "Bianco represents a different species than the donor-class Democrat. He is the authoritarian-right sheriff: a constitutional sheriff movement adherent who believes the county sheriff's authority supersedes federal and state government, a former Oa..."
 last-updated: 2026-04-09
 source-tier: 1
 parent: null

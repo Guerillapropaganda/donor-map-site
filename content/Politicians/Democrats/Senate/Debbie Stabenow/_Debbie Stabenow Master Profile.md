@@ -2,6 +2,7 @@
 title: "Debbie Stabenow Master Profile"
 type: politician
 content-readiness: draft
+central-thesis: "Stabenow is the Farm Bill senator — the Democrat who controlled more agribusiness spending than any other member of her caucus for over a decade. Her Agriculture Committee chairmanship gave her jurisdiction over crop insurance subsidies (the large..."
 last-updated: 2026-04-08
 source-tier: 1
 parent: null

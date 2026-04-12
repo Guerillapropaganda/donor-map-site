@@ -2,6 +2,7 @@
 title: "Zoe Lofgren"
 type: politician
 content-readiness: draft
+central-thesis: "Zoe Lofgren is Silicon Valley's member of Congress — funded by Apple, Google, Meta, Cisco, and the entire tech ecosystem, representing the district where those companies are headquartered. When Big Tech antitrust legislation came before the Judici..."
 last-updated: 2026-04-11
 source-tier: 1
 parent: null

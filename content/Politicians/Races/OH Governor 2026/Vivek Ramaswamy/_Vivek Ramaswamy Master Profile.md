@@ -2,6 +2,7 @@
 title: Vivek Ramaswamy Master Profile
 type: politician
 content-readiness: draft
+central-thesis: "Vivek Ramaswamy's political brand — anti-regulation, anti-DEI, anti-'woke capitalism' — is funded by and serves the same billionaire class it claims to challenge. His $2.4 billion fortune was built through Roivant Sciences, a pharmaceutical compan..."
 last-updated: 2026-04-10
 source-tier: 1
 parent: null

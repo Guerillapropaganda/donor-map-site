@@ -2,6 +2,7 @@
 title: "Patrick McHenry Master Profile"
 type: politician
 content-readiness: draft
+central-thesis: "Patrick McHenry's congressional career is the perfected architecture of Wall Street legislative capture: a Congressman who spent 20 years writing financial regulation that explicitly benefited his donors, then cashed out to those same donors' firm..."
 last-updated: 2026-04-10
 source-tier: 1
 parent: null
