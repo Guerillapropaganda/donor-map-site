@@ -1225,8 +1225,8 @@ export default function RelationshipsPage() {
                 onMouseMove={handleMouseMove}
                 onMouseUp={handleMouseUp}
                 onMouseLeave={handleMouseUp}>
-                <div ref={graphRef} className="relative"
-                  style={{ height: `${Math.max(500, selected.connectionCount * 20)}px`, width: `${Math.max(500, selected.connectionCount * 20)}px`, transform: `scale(${graphZoom}) translate(${graphPan.x / graphZoom}px, ${graphPan.y / graphZoom}px)`, transformOrigin: "center center" }}>
+                <div ref={graphRef} className="relative mx-auto"
+                  style={{ height: `${Math.max(500, Math.min(selected.connectionCount * 20, 700))}px`, width: `${Math.max(500, Math.min(selected.connectionCount * 20, 700))}px`, overflow: "hidden", transform: `scale(${graphZoom}) translate(${graphPan.x / graphZoom}px, ${graphPan.y / graphZoom}px)`, transformOrigin: "center center" }}>
                   {/* Center node */}
                   <div className="absolute left-1/2 top-1/2 -translate-x-1/2 -translate-y-1/2 w-28 h-28 rounded-full flex items-center justify-center text-center z-10"
                     style={{ backgroundColor: `${TYPE_COLORS[selected.type]}20`, border: `2px solid ${TYPE_COLORS[selected.type]}` }}>

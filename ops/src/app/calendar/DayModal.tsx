@@ -213,7 +213,7 @@ export function DayModal({ date, schedule, state, onClose, onToggleTask }: Props
                     {completedOnThisDay.map((c, idx) => (
                       <div key={`${c.taskId}-${idx}`} className="flex gap-2">
                         <span className="text-[var(--color-text-dim)] w-10 flex-shrink-0">
-                          {c.completedAt.slice(11, 16)}
+                          {new Date(c.completedAt).toLocaleTimeString("en-US", { hour: "2-digit", minute: "2-digit", hour12: false })}
                         </span>
                         <span className="text-[var(--color-green)] flex-shrink-0">✓</span>
                         <span className="text-[var(--color-text)] truncate">{c.task}</span>

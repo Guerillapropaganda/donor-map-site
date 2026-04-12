@@ -300,9 +300,9 @@ export default function Dashboard() {
           <h3 className="text-[9px] uppercase tracking-wider text-[var(--color-text-dim)] mb-3">Vault Health</h3>
           {stats ? (() => {
             const total = profiles.length || 1
-            const verified = profiles.filter(p => (p as Record<string, unknown>)["content-readiness"] === "verified" || (p as Record<string, unknown>)["content-readiness"] === "ready").length
-            const draft = profiles.filter(p => (p as Record<string, unknown>)["content-readiness"] === "draft" || (p as Record<string, unknown>)["content-readiness"] === "developed").length
-            const raw = profiles.filter(p => (p as Record<string, unknown>)["content-readiness"] === "raw" || !(p as Record<string, unknown>)["content-readiness"]).length
+            const verified = profiles.filter(p => p.contentReadiness === "verified" || p.contentReadiness === "ready" || p.contentReadiness === "s-tier").length
+            const draft = profiles.filter(p => p.contentReadiness === "draft" || p.contentReadiness === "developed").length
+            const raw = profiles.filter(p => p.contentReadiness === "raw" || !p.contentReadiness).length
             const healthPct = Math.round(((verified * 3 + draft * 1.5) / (total * 3)) * 100)
             const color = healthPct > 60 ? "#22c55e" : healthPct > 30 ? "#f59e0b" : "#ef4444"
             return (
