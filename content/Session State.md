@@ -13,11 +13,76 @@ Both Code Claude and Research Claude update this at the end of every session. Re
 ---
 
 ## Last Session
+Claude: Code + Research
+Date: 2026-04-12 (full day marathon)
+
+### Theme
+Vault expansion, system health, editorial depth, pipeline fixes, and checklist audit. Added 476 politician profiles, wrote 38 Class Analysis sections, stripped 16,805 em dashes, built Pipeline Health dashboard, fixed 6 checklist detection bugs, fixed 2 donor-map-engine pipeline bugs, ran 2 enrichment batches (~100 profiles enriched), and added structural quality checks to the verification checklist.
+
+### Done - Vault Expansion (Code Claude)
+- **476 new politician profiles** via `scripts/bulk-create-politicians.cjs`. Data from unitedstates/congress-legislators. 402 Congress + 71 cabinet (Biden/Obama/Trump additions) + 3 SCOTUS (Sotomayor, Kagan, Jackson). Total: 252 to 713.
+- **8 missing profile stubs**: Amgen, Scaife Foundations, Donors Trust, AFT, American Energy Alliance, American Homes 4 Rent, YouTube, RFK Jr.
+
+### Done - Voice-Drift / Em Dash Cleanup (Code Claude)
+- **16,805 em dashes** stripped across 3 passes (536 body text + 415 blockquotes + 24 list-item separators). Voice-drift: 25 hard fails to 1.
+- **122 legacy inline dataview fields** removed from 107 profiles. `scripts/clean-inline-fields.cjs`.
+
+### Done - Editorial Depth (Research Claude)
+- **38 Class Analysis sections** written across politicians and donors/corps:
+  - Politicians (22): Graham, Tim Scott, McConnell, Feinstein, Cruz, Schumer, Trump, Obama, Biden, Jeffries, AOC, Omar, Tlaib, Rand Paul, Booker, Warner, Hawley, Ro Khanna, Whitehouse, Joni Ernst + more
+  - Donors/Corps (16+): ExxonMobil, Koch Network, ALEC, Murdoch, Goldman Sachs, Blackstone, Lockheed Martin, AIPAC, JPMorgan, Boeing, Marathon Petroleum, John Deere, Cargill, Tyson Foods, General Dynamics
+
+### Done - Pipeline Health Dashboard (Code Claude)
+- **New API**: `ops/src/app/api/pipeline-health/route.ts` + **New component**: `ops/src/components/PipelineHealth.tsx`. Side-by-side with Vault Health donut.
+- **Ops improvements**: parallel fetch (Promise.all), error states, aria-labels, global breadcrumbs, D3 type safety fixes.
+
+### Done - Checklist & Pipeline Audit (Code Claude)
+- **6 checklist detection bugs fixed** in `VerificationChecklist.tsx`: committee marker mismatch, source diversity overcount, heading depth H2-H4, contradiction logic, bills fallback.
+- **5 structural quality checks added**: party field, chamber field, bioguide-id for Congress, heading levels, callout syntax. New "STRUCTURAL QUALITY" group blocks ready promotion.
+- **Feinstein profile rewrite**: added 8 missing frontmatter fields, fixed all headings/callouts/em dashes.
+- **25 profiles fixed vault-wide** via `scripts/fix-profile-structure.cjs`: 14 missing party, 13 missing chamber, 116 heading fixes, 27 callout fixes.
+
+### Done - donor-map-engine Pipeline Fixes
+- **fetchJson redirect protection**: `shared.cjs` now detects infinite redirect loops (Congress.gov Aug 2025 incident class). Manual redirect handling with maxRedirects counter.
+- **Committee pipeline bioguide fallback**: `committee-pipeline.cjs` now reads bioguide-id from frontmatter first, bypassing broken Congress.gov `/member?query=` API. Commit `9bff77d`.
+- **2 enrichment batches triggered**: ~100 profiles enriched with FEC, LDA, ProPublica 990, OFAC-SDN, GLEIF, Stock Watcher data.
+
+### Done - Admin Notes Resolved
+- Bioguide contamination alert: marked done (was already fixed)
+- Readiness conflicts: marked done (0 inline markers remaining)
+
+### Known issues / still outstanding
+- **1 voice-drift hard fail** remaining (banned AI vocabulary, Research Claude lane)
+- **Congress.gov API** still returning 429 rate limits on DEMO_KEY. Need registered key.
+- **GovTrack bills-sponsored shows 0** for some profiles (e.g., Feinstein). Pipeline needs re-run.
+- **245 profiles missing central-thesis frontmatter field** (have the body section but not the field)
+- **90 profiles missing bioguide-id** (older profiles pre-bulk-creation)
+- **Committee pipeline test run** (24317211622) status unknown
+
+### Next session priorities
+1. **Register Congress.gov API key** (free at api.data.gov/signup) to replace DEMO_KEY
+2. **Trigger full enrichment run** with committee pipeline now fixed
+3. **Fill central-thesis frontmatter** on 245 profiles (script to extract from body ## Central Thesis)
+4. **Fill bioguide-id** on 90 remaining profiles missing it
+5. **Draft-to-ready promotions** on profiles that now pass structural checks
+6. **Republican opposition edges** for all new politician profiles
+
+### Session end state
+- **20+ deploys, ~2,500 files changed across session**
+- **Politician profiles: 252 to 713**
+- **Class Analysis sections: 38 written**
+- **Voice-drift: 25 to 1 hard fail**
+- **Checklist: 6 bugs fixed + 5 structural checks added**
+- **Engine: 2 pipeline bugs fixed, pushed to donor-map-engine main**
+
+---
+
+## Previous Session
 Claude: Code
 Date: 2026-04-12 afternoon
 
 ### Theme
-Built a complete public tip submission pipeline. Site visitors can now submit tips on any profile page, which flow through Web3Forms (email notification) → Cloudflare Worker relay → GitHub Action (workflow_dispatch) → vault file in `content/Admin Notes/Tips/`. Ops app gets a dedicated Tips page to review, action, or dismiss submissions.
+Built a complete public tip submission pipeline. Site visitors can now submit tips on any profile page, which flow through Web3Forms (email notification) to Cloudflare Worker relay to GitHub Action (workflow_dispatch) to vault file in `content/Admin Notes/Tips/`. Ops app gets a dedicated Tips page to review, action, or dismiss submissions.
 
 ### Done — Public Tip Form (`quartz/components/TipForm.tsx`)
 - New Quartz component rendering on all profile pages (politician/donor/corporation)
