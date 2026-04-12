@@ -79,6 +79,7 @@ export function Sidebar() {
     <>
       {/* Mobile hamburger button */}
       <button onClick={() => setMobileOpen((o) => !o)}
+        aria-label={mobileOpen ? "Close navigation menu" : "Open navigation menu"}
         className="fixed top-3 left-3 z-[60] md:hidden w-10 h-10 rounded-lg bg-[var(--color-bg-card)] border border-[var(--color-border)] flex items-center justify-center text-[var(--color-text-dim)] hover:text-[var(--color-text)]">
         <svg width={18} height={18} fill="none" stroke="currentColor" viewBox="0 0 24 24" strokeWidth={2}>
           {mobileOpen
@@ -105,6 +106,7 @@ export function Sidebar() {
       <div className="px-3 pt-3 pb-1">
         <button
           onClick={() => window.dispatchEvent(new KeyboardEvent("keydown", { key: "k", ctrlKey: true }))}
+          aria-label="Open search (Ctrl+K)"
           className="w-full flex items-center gap-2 px-3 py-2 rounded-lg border border-[var(--color-border)] bg-[var(--color-bg)] text-[var(--color-text-dim)] hover:border-[var(--color-steel)]/30 hover:text-[var(--color-text)] transition-colors"
         >
           <svg width={12} height={12} fill="none" stroke="currentColor" viewBox="0 0 24 24" strokeWidth={2}>
@@ -118,10 +120,12 @@ export function Sidebar() {
       {/* Back / Forward */}
       <div className="px-3 pb-1 flex gap-1">
         <button onClick={() => router.back()}
+          aria-label="Navigate back"
           className="flex-1 flex items-center justify-center gap-1 px-2 py-1.5 rounded-lg border border-[var(--color-border)] bg-[var(--color-bg)] text-[var(--color-text-dim)] hover:border-[var(--color-steel)]/30 hover:text-[var(--color-text)] transition-colors text-[10px]">
           ← Back
         </button>
         <button onClick={() => router.forward()}
+          aria-label="Navigate forward"
           className="flex-1 flex items-center justify-center gap-1 px-2 py-1.5 rounded-lg border border-[var(--color-border)] bg-[var(--color-bg)] text-[var(--color-text-dim)] hover:border-[var(--color-steel)]/30 hover:text-[var(--color-text)] transition-colors text-[10px]">
           Forward →
         </button>

@@ -11,6 +11,7 @@ import { ActivityFeed } from "@/components/ActivityFeed"
 import { TypeBreakdown } from "@/components/TypeBreakdown"
 import { ContentBreakdown } from "@/components/ContentBreakdown"
 import { Breadcrumbs } from "@/components/Breadcrumbs"
+import { PipelineHealth } from "@/components/PipelineHealth"
 
 interface ActivityItem { id: string; type: string; actor: string; action: string; detail: string; timestamp: string; link?: string }
 
@@ -58,19 +59,29 @@ export default function Dashboard() {
       })
   }
 
+  const [activityError, setActivityError] = useState(false)
+  const [statusError, setStatusError] = useState(false)
+
   const loadActivity = async (type = "all") => {
     try {
+      setActivityError(false)
       const res = await fetch(`/api/activity?limit=15&type=${type}`)
       const data = await res.json()
       setActivity(data.items || [])
-    } catch { /* skip */ }
+    } catch {
+      setActivityError(true)
+    }
   }
 
   const loadStatus = async () => {
     try {
+      setStatusError(false)
       const res = await fetch("/api/status")
       if (res.ok) setStatusData(await res.json())
-    } catch { /* skip */ }
+      else setStatusError(true)
+    } catch {
+      setStatusError(true)
+    }
   }
 
   // Attention Queue — loaded once on mount, displayed in the priority card
@@ -103,10 +114,9 @@ export default function Dashboard() {
   }
 
   useEffect(() => {
+    // Parallel fetch — all independent data sources at once
     loadVault()
-    loadActivity()
-    loadStatus()
-    loadAttention()
+    Promise.all([loadActivity(), loadStatus(), loadAttention()])
   }, [])
 
   const timeAgo = (ts: string) => {
@@ -293,8 +303,8 @@ export default function Dashboard() {
         </Link>
       )}
 
-      {/* Vault Health + Pipeline Status + Activity Feed */}
-      <div className="grid grid-cols-1 md:grid-cols-3 gap-4 mb-6">
+      {/* Vault Health + Pipeline Health */}
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-4 mb-4">
         {/* Vault Health */}
         <div className="bg-[var(--color-bg-card)] border border-[var(--color-border)] rounded-lg p-4">
           <h3 className="text-[9px] uppercase tracking-wider text-[var(--color-text-dim)] mb-3">Vault Health</h3>
@@ -336,7 +346,12 @@ export default function Dashboard() {
           })() : <div className="animate-pulse h-16 bg-[var(--color-bg)] rounded" />}
         </div>
 
-        {/* Charts */}
+        {/* Pipeline Health */}
+        <PipelineHealth />
+      </div>
+
+      {/* Content & Type Breakdown */}
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-4 mb-6">
         <ContentBreakdown profiles={profiles} />
         <TypeBreakdown stats={stats} />
       </div>
