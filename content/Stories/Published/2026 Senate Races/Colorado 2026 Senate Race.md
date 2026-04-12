@@ -21,10 +21,10 @@ donors: Small-Dollar Donors Colorado Democratic Party Renewable Energy PACs [[Te
 
 ### The Race
 
-Colorado's 2026 Senate seat is a **Democratic defense** — incumbent John Hickenlooper is seeking re-election to a second full term. Colorado has trended blue since 2016 (Biden +13.5 in 2020, Harris +10.3 in 2024). The state has two consistently purple areas (Western Slope oil/gas country, and parts of El Paso County) but Denver metro dominance and youth demographics favor Democrats.
+Colorado's 2026 Senate seat is a **Democratic defense**, incumbent John Hickenlooper is seeking re-election to a second full term. Colorado has trended blue since 2016 (Biden +13.5 in 2020, Harris +10.3 in 2024). The state has two consistently purple areas (Western Slope oil/gas country, and parts of El Paso County) but Denver metro dominance and youth demographics favor Democrats.
 
 ### Democratic Primary (June 30, 2026):
-- **Senator John Hickenlooper** — incumbent, unopposed so far in Democratic primary.
+- **Senator John Hickenlooper**, incumbent, unopposed so far in Democratic primary.
 
 ### Republican Primary:
 - **Status:** Not yet fully defined. Colorado Republicans have not yet consolidated around a single challenger. The field is wide open.
@@ -42,7 +42,7 @@ Colorado's 2026 Senate seat is a **Democratic defense** — incumbent John Hicke
 - **Q4 2025:** $1.1M+ raised
 - **Total cash on hand:** $3.8M as of December 2025
 - **2026 YTD:** Pace suggests $6M+ for the cycle
-- Donor profile: ~80% of donations are $25 or less — grassroots small-dollar model dominant.
+- Donor profile: ~80% of donations are $25 or less, grassroots small-dollar model dominant.
 - Nearly all donations in Q4 2025 were $25 or less.
 - Party support: $100K+ donated to Colorado Democratic Party for organizing.
 - [Source: Colorado Politics: Hickenlooper raises $1.7M in Q3](https://www.coloradopolitics.com/2025/07/14/colorado-democrat-john-hickenloopers-us-senate-campaign-raises-over-1-5-million-in-latest-quarter-c3b279a9-f27f-4308-8ebd-dc6bb6b87523/) (Tier 2)
@@ -51,27 +51,27 @@ Colorado's 2026 Senate seat is a **Democratic defense** — incumbent John Hicke
 
 ### Fundraising Consistency:
 - Hickenlooper was the only statewide candidate in Colorado to raise more than $1M in all four quarters of 2025. This consistency signals either strong incumbent machine or sustained grassroots interest (likely both).
-- Party building: The $100K+ to Colorado Dems shows willingness to invest in infrastructure, not just his own race — typical incumbent positioning.
+- Party building: The $100K+ to Colorado Dems shows willingness to invest in infrastructure, not just his own race, typical incumbent positioning.
 
 ### Money Flow Interpretation:
-Hickenlooper's small-dollar base ($25 or less = ~80% of donations) is extraordinarily consistent and grassroots-focused. This is neither mega-donor dependent nor institutional bundler dependent. It suggests a politician with genuine small-donor base — either from 2020 election infrastructure (Democrats turned out hard in 2020 after Trump's first term) or from his own reputation (former Denver mayor, BrewPub owner, accessible brand). The $3.8M cash position is solid but not dominant — this will be a competitive race if Republicans field a strong, funded opponent.
+Hickenlooper's small-dollar base ($25 or less = ~80% of donations) is extraordinarily consistent and grassroots-focused. This is neither mega-donor dependent nor institutional bundler dependent. It suggests a politician with genuine small-donor base, either from 2020 election infrastructure (Democrats turned out hard in 2020 after Trump's first term) or from his own reputation (former Denver mayor, BrewPub owner, accessible brand). The $3.8M cash position is solid but not dominant, this will be a competitive race if Republicans field a strong, funded opponent.
 
 ---
 
 ### The Donor Class Question
 
 ### Which donor forces are shaping this race?
-- **Small-dollar Democratic base:** Hickenlooper's 80% sub-$25 donation rate is the most distinctive feature. This is real grassroots money — not bundlers, not mega-donors, not corporate PACs. Suggests authentic political base.
+- **Small-dollar Democratic base:** Hickenlooper's 80% sub-$25 donation rate is the most distinctive feature. This is real grassroots money, not bundlers, not mega-donors, not corporate PACs. Suggests authentic political base.
 
 - **Energy & utilities interests:** Colorado is a major oil/gas and renewable energy state. Hickenlooper, as former governor, has relationships with fossil fuel interests (western slope oil operators) AND renewable energy interests (solar, wind manufacturing). This creates a dual-donor dynamic unlike most Democratic senators.
-  - Oil/gas: Western Slope operators in the 3rd Congressional District (Ute Pass oil, natural gas) likely have favorable views of Hickenlooper's business background.
-  - Renewables: Colorado solar/wind manufacturing (Vestas, Gamesa, Siemens have operations in CO) likely support Hickenlooper's mixed record (he signed clean energy bills but also protected oil/gas interests).
+ - Oil/gas: Western Slope operators in the 3rd Congressional District (Ute Pass oil, natural gas) likely have favorable views of Hickenlooper's business background.
+ - Renewables: Colorado solar/wind manufacturing (Vestas, Gamesa, Siemens have operations in CO) likely support Hickenlooper's mixed record (he signed clean energy bills but also protected oil/gas interests).
 
-- **Outdoor recreation money:** Colorado's outdoor recreation economy ($62B+ statewide) creates a donor class interested in public lands, water quality, and climate — but not at the expense of energy development. Patagonia, Osprey, outdoor PACs likely support Hickenlooper as a "moderate environmentalist" (environment + business-friendly).
+- **Outdoor recreation money:** Colorado's outdoor recreation economy ($62B+ statewide) creates a donor class interested in public lands, water quality, and climate, but not at the expense of energy development. Patagonia, Osprey, outdoor PACs likely support Hickenlooper as a "moderate environmentalist" (environment + business-friendly).
 
 - **Tech money:** Colorado's tech corridor (Denver, Boulder startup ecosystem) is growing and trending Democratic. LinkedIn, Google, and startup founders have Colorado bases.
 
-**The contradiction:** Hickenlooper is a former fossil fuel-friendly governor who signed renewable energy mandates. His donor base reflects this: he gets money from people who want climate action AND people who want energy business certainty. This is textbook donor-class Democrat — acceptable to capital on both extractive and renewable sides because his governance prioritizes neither over investor returns.
+**The contradiction:** Hickenlooper is a former fossil fuel-friendly governor who signed renewable energy mandates. His donor base reflects this: he gets money from people who want climate action AND people who want energy business certainty. This is textbook donor-class Democrat, acceptable to capital on both extractive and renewable sides because his governance prioritizes neither over investor returns.
 
 ---
 
@@ -83,7 +83,7 @@ Hickenlooper's small-dollar base ($25 or less = ~80% of donations) is extraordin
 
 - **[[IBEW - International Brotherhood of Electrical Workers|IBEW]] construction money:** Colorado's building trades ([[IBEW - International Brotherhood of Electrical Workers|IBEW]], UA, Operating Engineers) are powerful donors in purple states. Hickenlooper likely has union support for construction projects (RTD rail, water infrastructure) approved as governor.
 
-- **Marijuana industry money:** Colorado legalized cannabis in 2012. The multi-billion-dollar legal marijuana industry creates a new donor class with interests in banking access, interstate commerce, and tax policy. Hickenlooper opposed legalization as governor but has since accepted it — he likely receives contributions from marijuana business interests now.
+- **Marijuana industry money:** Colorado legalized cannabis in 2012. The multi-billion-dollar legal marijuana industry creates a new donor class with interests in banking access, interstate commerce, and tax policy. Hickenlooper opposed legalization as governor but has since accepted it, he likely receives contributions from marijuana business interests now.
 
 ---
 

@@ -15,11 +15,11 @@ donors: [[Koch Network - Charles Koch]]
 
 ### The Endorsement: A Historic Bet
 
-On November 28, 2023, [[Americans for Prosperity|Americans for Prosperity]] Action — the political arm of the Koch network — endorsed [[_Nikki Haley Master Profile|Nikki Haley]] for the 2024 Republican presidential nomination. It was the first time in the organization's history that it had formally endorsed a candidate in a Republican presidential primary.
+On November 28, 2023, [[Americans for Prosperity|Americans for Prosperity]] Action, the political arm of the Koch network, endorsed [[_Nikki Haley Master Profile|Nikki Haley]] for the 2024 Republican presidential nomination. It was the first time in the organization's history that it had formally endorsed a candidate in a Republican presidential primary.
 
-The endorsement was accompanied by a commitment to spend tens of millions of dollars — multimillion-dollar ad campaigns across Iowa, New Hampshire, and Super Tuesday states, plus voter contact operations that had already reached 6 million primary voters over the preceding months. AFP Action's memo stated that Haley was "the strongest candidate to defeat Trump in the GOP primaries as well as President Biden in the general election."
+The endorsement was accompanied by a commitment to spend tens of millions of dollars, multimillion-dollar ad campaigns across Iowa, New Hampshire, and Super Tuesday states, plus voter contact operations that had already reached 6 million primary voters over the preceding months. AFP Action's memo stated that Haley was "the strongest candidate to defeat Trump in the GOP primaries as well as President Biden in the general election."
 
-The decision was not without cost. AFP leadership was warned by internal stakeholders that the endorsement would cause "attrition" within the organization. At least one director of grassroots operations was terminated after voicing opposition. The Koch network's base — libertarian-leaning conservatives who had built the organization over decades on free-market principles, not candidate endorsements — was not uniformly enthusiastic about backing any single candidate.
+The decision was not without cost. AFP leadership was warned by internal stakeholders that the endorsement would cause "attrition" within the organization. At least one director of grassroots operations was terminated after voicing opposition. The Koch network's base, libertarian-leaning conservatives who had built the organization over decades on free-market principles, not candidate endorsements, was not uniformly enthusiastic about backing any single candidate.
 
 ---
 
@@ -27,7 +27,7 @@ The decision was not without cost. AFP leadership was warned by internal stakeho
 
 To understand the Koch endorsement, you have to understand what the Koch network has been trying to do since 2015, when Trump's candidacy disrupted the post-Reagan Republican political economy.
 
-The pre-Trump Republican establishment rested on a three-part coalition: corporate donors who wanted low taxes and light regulation, social conservatives who provided the grassroots base, and foreign policy hawks who maintained the defense establishment's institutional relationships. Trump broke the coalition by activating a fourth constituency — white working-class economic nationalism — that was hostile to the free trade and immigration positions the Koch network's business interests required.
+The pre-Trump Republican establishment rested on a three-part coalition: corporate donors who wanted low taxes and light regulation, social conservatives who provided the grassroots base, and foreign policy hawks who maintained the defense establishment's institutional relationships. Trump broke the coalition by activating a fourth constituency, white working-class economic nationalism, that was hostile to the free trade and immigration positions the Koch network's business interests required.
 
 > [!money]
 > The Koch network's political spending from 2015–2024 represents a sustained effort to find the Republican who can deliver the donor-class policy agenda without Trump's economic nationalism. The sequence:
@@ -43,13 +43,13 @@ The restoration project failed in 2024 for the same reason it failed in 2016: Re
 
 ### The AFP Endorsement Mechanics: Ground Game vs. Air War
 
-AFP Action's value proposition was always the ground game — its claim to have built the largest conservative grassroots organization in America, with chapters in every state and millions of volunteer activists. The Haley endorsement was supposed to deliver something DeSantis's Never Back Down super PAC could not: authentic grassroots voter contact from conservative activists with existing relationships in primary states.
+AFP Action's value proposition was always the ground game, its claim to have built the largest conservative grassroots organization in America, with chapters in every state and millions of volunteer activists. The Haley endorsement was supposed to deliver something DeSantis's Never Back Down super PAC could not: authentic grassroots voter contact from conservative activists with existing relationships in primary states.
 
 The results were mixed at best:
 
 - AFP's voter contact reached 6 million primary voters before Haley even officially received the endorsement
 - In Iowa, the organization had active chapters in all 99 counties
-- Haley finished second in New Hampshire (43% vs. Trump's 54%) — her best result
+- Haley finished second in New Hampshire (43% vs. Trump's 54%), her best result
 - She lost South Carolina, her home state, by 20 points
 - She dropped out March 6, 2024, after Super Tuesday
 
@@ -70,7 +70,7 @@ The Haley endorsement revealed the fault lines:
 
 ### The Class Analysis: What the [[Koch Network - Charles Koch|Koch Network]] Wants
 
-The Koch network's policy priorities are consistent across decades: free trade, reduced corporate regulation, lower taxes, reduced entitlement spending, and opposition to labor organizing. Trump's economic nationalism — tariffs, industrial policy, immigration restriction — conflicts with virtually every core Koch economic interest.
+The Koch network's policy priorities are consistent across decades: free trade, reduced corporate regulation, lower taxes, reduced entitlement spending, and opposition to labor organizing. Trump's economic nationalism, tariffs, industrial policy, immigration restriction, conflicts with virtually every core Koch economic interest.
 
 Koch's backing of Haley was not primarily about Haley. It was about finding any Republican who could win the nomination while maintaining Koch-friendly economic positions. Haley's record offered this: as South Carolina governor, she had recruited [[Boeing|Boeing]] and other manufacturers with corporate incentive packages, opposed union organizing, maintained a business-friendly regulatory environment, and never deviated from conventional Republican free-market economics.
 
@@ -85,7 +85,7 @@ After Haley suspended her campaign in March 2024, her donor base faced a choice:
 
 Most chose the pragmatic path. AFP did not formally endorse Trump in the general election but reduced its anti-Trump rhetoric. Griffin, who had funded the Haley super PAC, made clear he would back Trump in the general. The Wall Street donors who had funded Haley's primary run largely migrated to Trump's general election orbit.
 
-The restoration project failed in 2024. Its institutional infrastructure — AFP's ground game, Wall Street's fundraising networks, the Koch policy apparatus — remains intact for 2028.
+The restoration project failed in 2024. Its institutional infrastructure. AFP's ground game, Wall Street's fundraising networks, the Koch policy apparatus, remains intact for 2028.
 
 ---
 

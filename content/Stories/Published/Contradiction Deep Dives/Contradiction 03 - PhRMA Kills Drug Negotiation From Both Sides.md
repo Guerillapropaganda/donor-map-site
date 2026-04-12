@@ -31,9 +31,9 @@ Both block the same outcome: Medicare drug price negotiation.
 
 [!contradiction] **The public debate is theater. The receipts are in the donations.** Both parties' healthcare messaging functions as performance for different constituencies while the legislative outcome serves the same donor class: pharmaceutical manufacturers.
 
-[!quote] **"Access to healthcare should be a right, not just a privilege." — [[_Kamala Harris Master Profile|Kamala Harris]], 2024 Democratic Debate** Democrats present universal healthcare access as moral imperative. Yet Democratic gatekeepers kill universal price negotiation in committee before floor votes occur. Constituents never see the contradiction.
+[!quote] **"Access to healthcare should be a right, not just a privilege.", [[_Kamala Harris Master Profile|Kamala Harris]], 2024 Democratic Debate** Democrats present universal healthcare access as moral imperative. Yet Democratic gatekeepers kill universal price negotiation in committee before floor votes occur. Constituents never see the contradiction.
 
-[!quote] **"The market, not government, should set prices. Price controls destroy innovation." — Republican Healthcare Position, 2024–2026** Republicans present free-market ideology as economic principle. Yet the pharmaceutical market is not free — it is monopoly-protected by patent law, FDA exclusivity grants, and evergreening practices. [[PhRMA|PhRMA]] funds Republicans to defend this monopoly while calling it "free market."
+[!quote] **"The market, not government, should set prices. Price controls destroy innovation.". Republican Healthcare Position, 2024–2026** Republicans present free-market ideology as economic principle. Yet the pharmaceutical market is not free, it is monopoly-protected by patent law, FDA exclusivity grants, and evergreening practices. [[PhRMA|PhRMA]] funds Republicans to defend this monopoly while calling it "free market."
 
 ### The Both-Sides Illusion:
 - Democrats pass bills with watered-down drug pricing provisions (10 negotiable drugs instead of all drugs) and claim victory.
@@ -102,7 +102,7 @@ No Democratic senator with under $200K in career pharma donations voted against 
 1. Canada's drugs meet American safety standards (Health Canada regulatory authority equivalent to FDA)
 2. If the concern were safety, Booker could have voted for a safety amendment
 3. Six months after voting against importation, Booker voted for the 21st Century Cures Act, which actually weakened FDA approval standards
-4. Booker later (May 2017) joined with Sanders to introduce a drug re-importation bill with safety provisions — admitting safety wasn't the real barrier
+4. Booker later (May 2017) joined with Sanders to introduce a drug re-importation bill with safety provisions, admitting safety wasn't the real barrier
 
 [!quote] **[[_Bernie Sanders Master Profile|Bernie Sanders]]' Response:** "My first response to that is show me the dead Canadians. This was not a statement of mockery. It was epidemiological fact: Canada has negotiated drug prices for 60 years. Canadians are not dead from cheaper drugs. The safety argument was pharma rhetoric, not public health policy.
 
@@ -159,7 +159,7 @@ PhRMA's most profitable strategy: don't try to win floor votes. Control the comm
 - Ranking Republican: Chuck Grassley (R-IA): $380K+ from pharma
 - Policy outcome: Finance Committee blocks expansion of IRA negotiation authority
 
-[!money] **The Concentration:** Committee chairs receive 5–10x more pharmaceutical industry donations than rank-and-file members. The donor message is explicit: chair the right committee, get the gavel, and kill legislation we dislike. The "kill" happens in committee markup — voters never see a floor vote that didn't happen.
+[!money] **The Concentration:** Committee chairs receive 5–10x more pharmaceutical industry donations than rank-and-file members. The donor message is explicit: chair the right committee, get the gavel, and kill legislation we dislike. The "kill" happens in committee markup, voters never see a floor vote that didn't happen.
 
 ### Why Floor Votes Are Avoided:
 - Public polling: 80%+ support drug price negotiation
@@ -194,13 +194,13 @@ PhRMA's most profitable strategy: don't try to win floor votes. Control the comm
 ### The Outcome:
 Americans pay 3–4x what Germans, Canadians, Australians pay for identical drugs. Pharma shareholders profit. Workers without insurance ration insulin. Seniors skip medications to afford food. Both parties claim to fight for affordability. Neither party threatens the pricing structure. The donations are the explanation.
 
-[!money] **The Class Analysis:** Pharmaceutical manufacturers belong to the capitalist class. They profit from scarcity (monopoly patents) and capture the political system that enforces that scarcity. Democrats and Republicans both serve this class while performing opposition to each other for electoral audiences. The contradiction between voters' interests and donors' interests is not ideological — it is structural.
+[!money] **The Class Analysis:** Pharmaceutical manufacturers belong to the capitalist class. They profit from scarcity (monopoly patents) and capture the political system that enforces that scarcity. Democrats and Republicans both serve this class while performing opposition to each other for electoral audiences. The contradiction between voters' interests and donors' interests is not ideological, it is structural.
 
 ---
 
 ### Sources
 
-### Tier 1 — Government Records & Official Data
+### Tier 1. Government Records & Official Data
 - [Senate LDA Filings: PhRMA Lobbying Profile, 2024](https://lda.gov/filings/public/filing/search/) (Tier 1)
 - [FEC Candidate: Cory Booker Donor Profile](https://www.fec.gov/data/candidate/P00009795/) (Tier 1)
 - [FEC Candidate: Richard Neal Donor Profile](https://www.fec.gov/data/candidate/H8MA02041/) (Tier 1)
@@ -211,7 +211,7 @@ Americans pay 3–4x what Germans, Canadians, Australians pay for identical drug
 - [IRA Drug Negotiation Implementation • Congressional Research Service](https://sgp.fas.org/crs/health/IF12447.pdf) (Tier 1)
 - [U.S. GAO: Inflation Reduction Act Implementation](https://www.gao.gov/products/gao-25-106996) (Tier 1)
 
-### Tier 2 — Investigative Journalism & Research
+### Tier 2. Investigative Journalism & Research
 - [The Intercept: Cory Booker Joins GOP to Kill Drug Importation Measure](https://theintercept.com/2017/01/12/cory-booker-joins-senate-republicans-to-kill-measure-to-import-cheaper-medicine-from-canada/) (Tier 2)
 - [The New Republic: Cory Booker's Explanation for Drug Import Vote Doesn't Track](https://newrepublic.com/article/139820/cory-bookers-explanation-voting-cheap-prescription-drugs-doesnt-track) (Tier 2)
 - [Read Sludge: Richard Neal and Healthcare Donor Contributions](https://readsludge.com/2020/05/05/neal-took-big-bucks-from-lobbyists-while-killing-a-surprise-medical-bills-fix/) (Tier 2)
@@ -222,7 +222,7 @@ Americans pay 3–4x what Germans, Canadians, Australians pay for identical drug
 - [STAT News: Big Pharma PAC Contributions to Sanders, Warren Overblown](https://www.statnews.com/2025/02/03/big-pharma-pac-contributions-to-bernie-sanders-elizabeth-warren-open-secrets-data/) *(source unavailable)* (Tier 2)
 - [Fierce Pharma: Record Pharma Lobbying Q1 2024 at $92M](https://www.fiercepharma.com/pharma/peddling-influence-d-c-cost-pharma-industry-a-record-92m-first-quarter) (Tier 2)
 
-### Tier 2 — Healthcare Policy & Analysis
+### Tier 2. Healthcare Policy & Analysis
 - [Kaiser Health News: Big Pharma Greets Hundreds of Ex-Federal Workers at Revolving Door](https://kffhealthnews.org/news/big-pharma-greets-hundreds-of-ex-federal-workers-at-the-revolving-door/at-the-revolving-door/) (Tier 2)
 - [The Hill: Booker Tries to Shake Doubts About Pharmaceutical Ties](https://thehill.com/homenews/campaign/424993-booker-tries-to-shake-doubts-about-pharmaceutical-ties-ahead-of-2020/) (Tier 2)
 - [ProPublica: Medicare Drug Planners Now Lobbyists, With Billions at Stake](https://www.propublica.org/article/medicare-drug-planners-now-lobbyists-with-billions-at-stake-1020) (Tier 2)

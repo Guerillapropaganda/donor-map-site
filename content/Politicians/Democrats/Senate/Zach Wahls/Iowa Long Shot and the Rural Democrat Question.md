@@ -39,7 +39,7 @@ Iowa's transformation from swing state to lean-Republican state is recent and dr
 
 ### The Grassley Retirement and Its Meaning
 
-Chuck Grassley represented Iowa in the Senate for decades. His retirement creates an open seat — the most favorable condition for a challenger. However, Grassley's decision to retire (rather than run for reelection) may signal that even his seat is vulnerable, but to Republicans, not Democrats.
+Chuck Grassley represented Iowa in the Senate for decades. His retirement creates an open seat, the most favorable condition for a challenger. However, Grassley's decision to retire (rather than run for reelection) may signal that even his seat is vulnerable, but to Republicans, not Democrats.
 
 ### What this means:
 - An open Republican seat in Iowa does not automatically favor Democrats
@@ -53,18 +53,18 @@ Chuck Grassley represented Iowa in the Senate for decades. His retirement create
 
 This is where the vault's donor-class analysis becomes critical. Who funds Wahls' campaign, and why?
 
-**Scenario 1: National Progressive Donors** — If Wahls' campaign is funded by national progressive networks (small-dollar fundraising + Warren networks), the motivation may be:
+**Scenario 1: National Progressive Donors**. If Wahls' campaign is funded by national progressive networks (small-dollar fundraising + Warren networks), the motivation may be:
 - Signal value (progressives "show up" for LGBTQ+ candidates even in red states)
 - Cause support (funding LGBTQ+ representation as inherent good)
 - Genuine belief that Wahls can win (though this would be optimistic)
 - Infrastructure building (using the campaign to organize progressives in Iowa for future races)
 
-**Scenario 2: DSCC Strategic Decision** — If the DSCC funds Wahls (or a Wahls-like candidate), the calculation would be:
+**Scenario 2: DSCC Strategic Decision**. If the DSCC funds Wahls (or a Wahls-like candidate), the calculation would be:
 - Minimize losses in Iowa (put up a candidate, run a campaign, but concede the seat as likely loss)
 - Use Iowa as organizing infrastructure for 2028 and beyond
 - Try to maximize Democratic turnout for downballot races (state legislature, etc.) even if Senate is lost
 
-**Scenario 3: Cause Fundraising** — If Wahls fundraises as a symbol of LGBTQ+ representation and rural progressive values (rather than as an actual Senate contender), the money may come from:
+**Scenario 3: Cause Fundraising**. If Wahls fundraises as a symbol of LGBTQ+ representation and rural progressive values (rather than as an actual Senate contender), the money may come from:
 - LGBTQ+ advocacy donors who support his candidacy for representation value, not electoral viability
 - Progressive donors who see Iowa as a *cause* rather than a *race*
 - Activists who want to fund rural organizing regardless of Senate outcome

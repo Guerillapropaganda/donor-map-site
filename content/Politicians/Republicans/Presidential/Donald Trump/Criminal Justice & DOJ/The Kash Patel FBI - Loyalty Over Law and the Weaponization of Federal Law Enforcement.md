@@ -15,7 +15,7 @@ donors: [[Save America PAC]] · [[MAGA Inc]]
 
 ### The Pathway: From Nunes Aide to FBI Director in Seven Years
 
-Kash Patel entered Trump's second term as FBI Director after ascending through a predictable pipeline of partisan loyalty. Nunes staffer (2009-2017) to NSC aide (2017-2019) to Deputy Inspector General critic of the FBI (2019-2020) to Trump PAC beneficiary to FBI Director-in-waiting. The Nunes Memo — Patel's 2018 investigation alleging FBI abuse of surveillance authority — became his credential to oversee the FBI itself. [Senate Judiciary Committee: Patel Confirmation Statement](https://www.judiciary.senate.gov/press/dem/releases/durbin-kash-patels-record-shows-he-is-a-dangerous-inexperienced-and-dishonest-trump-loyalist-who-is-not-qualified-to-serve-as-next-fbi-director) (Tier 2)
+Kash Patel entered Trump's second term as FBI Director after ascending through a predictable pipeline of partisan loyalty. Nunes staffer (2009-2017) to NSC aide (2017-2019) to Deputy Inspector General critic of the FBI (2019-2020) to Trump PAC beneficiary to FBI Director-in-waiting. The Nunes Memo. Patel's 2018 investigation alleging FBI abuse of surveillance authority, became his credential to oversee the FBI itself. [Senate Judiciary Committee: Patel Confirmation Statement](https://www.judiciary.senate.gov/press/dem/releases/durbin-kash-patels-record-shows-he-is-a-dangerous-inexperienced-and-dishonest-trump-loyalist-who-is-not-qualified-to-serve-as-next-fbi-director) (Tier 2)
 
 ### "Government Gangsters" and the Enemies List
 
@@ -37,11 +37,11 @@ Under Patel, the FBI has conducted systematic removals of career agents and supe
 
 The counterintelligence unit targeting Iran (CI-12) was "gutted" in March 2026, with a dozen agents and staff removed. The timing: days before Trump launched Operation Epic Fury bombing strikes that killed Ayatollah Ali Khamenei. Patel's purge disabled the FBI's capacity to analyze Iranian threats while military action proceeded. [CNN: Iran Unit Firings](https://www.cnn.com/2026/03/03/politics/patel-fbi-national-security-division-firings-iran) (Tier 2)
 
-When unflattering stories broke about Patel's management — allegations of jet misuse, rudderless leadership, insider accusations of jeopardizing investigations — the response was consistent: fire the people involved in the investigation being jeopardized. Pattern documented in four instances: firings occurred "within hours or days of unflattering accounts emerging about him and his competency." [CBS News: Agents Fired](https://www.cbsnews.com/news/fbi-agents-patel-fired-counterintelligence-including-iran/) (Tier 2)
+When unflattering stories broke about Patel's management, allegations of jet misuse, rudderless leadership, insider accusations of jeopardizing investigations, the response was consistent: fire the people involved in the investigation being jeopardized. Pattern documented in four instances: firings occurred "within hours or days of unflattering accounts emerging about him and his competency." [CBS News: Agents Fired](https://www.cbsnews.com/news/fbi-agents-patel-fired-counterintelligence-including-iran/) (Tier 2)
 
 ### The Loyalty Test Applied Across Government: Schedule F
 
-Patel operates within a larger framework of loyalty institutionalization. Schedule F — the Trump administration's civil service reform — converts "policy-influencing positions" from merit-based employment to at-will positions explicitly requiring "loyalty" to the President. The Office of Personnel Management hiring rule includes essay questions: "How would you help advance the president's executive orders and policy priorities in this role?" and "Identify one or two relevant executive orders or policy initiatives that are significant to you."
+Patel operates within a larger framework of loyalty institutionalization. Schedule F, the Trump administration's civil service reform, converts "policy-influencing positions" from merit-based employment to at-will positions explicitly requiring "loyalty" to the President. The Office of Personnel Management hiring rule includes essay questions: "How would you help advance the president's executive orders and policy priorities in this role?" and "Identify one or two relevant executive orders or policy initiatives that are significant to you."
 
 These are not job qualifications. They are loyalty tests. Patel's FBI purges are the proof of concept. [Democracy Forward: Schedule F Challenge](https://democracyforward.org/news/press-releases/schedule-f-042225/) (Tier 2)
 
@@ -50,7 +50,7 @@ These are not job qualifications. They are loyalty tests. Patel's FBI purges are
 
 ### The January 6th Investigation Shutdown
 
-Approximately 400 January 6th cases were pending or in pre-charge pipeline when Trump returned to office. The FBI had been systematically prosecuting Capitol rioters — 1,000+ charged, hundreds convicted. Trump pardoned 1,500+ on January 20, 2025. Patel then purged the investigators. Former head of the FBI's New York office James Dennehy was forced out after refusing a request to turn over names of all agents who worked on Capitol riot cases. [Senate Judiciary: Coons vs. Patel](https://www.coons.senate.gov/news/press-releases/senator-coons-grills-fbi-director-kash-patel-over-firing-of-fbi-officers-for-investigations-of-january-6-rioters/) (Tier 2)
+Approximately 400 January 6th cases were pending or in pre-charge pipeline when Trump returned to office. The FBI had been systematically prosecuting Capitol rioters, 1,000+ charged, hundreds convicted. Trump pardoned 1,500+ on January 20, 2025. Patel then purged the investigators. Former head of the FBI's New York office James Dennehy was forced out after refusing a request to turn over names of all agents who worked on Capitol riot cases. [Senate Judiciary: Coons vs. Patel](https://www.coons.senate.gov/news/press-releases/senator-coons-grills-fbi-director-kash-patel-over-firing-of-fbi-officers-for-investigations-of-january-6-rioters/) (Tier 2)
 
 The structural impact: 400+ pending cases now have diminished investigative capacity. Victims of violence won't see prosecutions. The Capitol attack becomes historical event, not ongoing criminal investigation. The FBI's institutional capacity to investigate threats to the sitting President is eliminated.
 
@@ -64,13 +64,13 @@ This creates a conflict of interest structure. Patel runs the FBI while holding 
 
 Project 2025 ([[Heritage Foundation]]'s transition document) includes a section on FBI and law enforcement. Core proposal: "Rebuild the FBI with new leadership committed to the Constitution and the rule of law." Translation: hire people loyal to Trump's interpretation of constitutionalism. Fire everyone else. Patel is both the author (as Heritage Action member) and the implementer.
 
-The doctrinal framework is identical across 350+ executive orders written by Project 2025 staff (many now in Cabinet). FBI reform, civil service reform, Schedule F — all emerge from the same donor-backed policy shop. [[Project 2025 - The Blueprint They Followed]] contains the full architecture. (Tier 2)
+The doctrinal framework is identical across 350+ executive orders written by Project 2025 staff (many now in Cabinet). FBI reform, civil service reform, Schedule F, all emerge from the same donor-backed policy shop. [[Project 2025 - The Blueprint They Followed]] contains the full architecture. (Tier 2)
 
 ### History: The FBI Serves Whoever Controls It
 
-The class analysis is structural, not personal. Under Hoover (1935-1972), the FBI served the anti-communist donor class. Red Scare files, civil rights infiltration, labor surveillance — all funded by donors who benefited from Cold War military spending and union suppression. The institution was not independent. It served power. The question was always: whose power?
+The class analysis is structural, not personal. Under Hoover (1935-1972), the FBI served the anti-communist donor class. Red Scare files, civil rights infiltration, labor surveillance, all funded by donors who benefited from Cold War military spending and union suppression. The institution was not independent. It served power. The question was always: whose power?
 
-Under Patel, the FBI serves whoever controls Trump — which means billionaire MAGA donors, foreign governments who paid Trishul LLC, and the Trump family's legal interests. The institution is still not independent. It still serves power. The question remains the same.
+Under Patel, the FBI serves whoever controls Trump, which means billionaire MAGA donors, foreign governments who paid Trishul LLC, and the Trump family's legal interests. The institution is still not independent. It still serves power. The question remains the same.
 
 Hoover at least maintained fiction of independence from the sitting President. Patel dispenses with the fiction. He answers to Trump. He fires people who investigate Trump. He dismantles units that threaten Trump. He names enemies from his books and removes them from federal service.
 

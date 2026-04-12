@@ -19,17 +19,17 @@ donors: Native American Tribes Small-Dollar Donors Majority Fund Labor PACs
 
 ### The Race
 
-Minnesota's 2026 Senate seat is an open seat — incumbent Democrat Tina Smith is retiring. The state, traditionally Democratic and trending bluer (Biden +7.8 in 2020, Harris +8.5 in 2024), leans heavily toward Democrats in Senate races. This is not a competitive pickup opportunity for Republicans; it is a question of which Democrat controls the seat.
+Minnesota's 2026 Senate seat is an open seat, incumbent Democrat Tina Smith is retiring. The state, traditionally Democratic and trending bluer (Biden +7.8 in 2020, Harris +8.5 in 2024), leans heavily toward Democrats in Senate races. This is not a competitive pickup opportunity for Republicans; it is a question of which Democrat controls the seat.
 
 ### Democratic Primary (August 11, 2026):
-- **Lt. Governor Peggy Flanagan** (DFL) — leading in polling (49% vs 36% in GQR poll). White Earth Nation citizen, would be the first Native American woman elected to the U.S. Senate. Endorsed by [[_Elizabeth Warren Master Profile|Elizabeth Warren]], Al Franken, Deb Haaland. Progressive positioning.
-- **U.S. Representative Angie Craig** (DFL) — House Agriculture Committee ranking member, leading in fundraising ($3.8M cash on hand vs $811K for Flanagan). First openly LGBTQ+ person potentially elected to Senate from Minnesota. Centrist positioning (connected to Majority Fund, centrist PAC).
+- **Lt. Governor Peggy Flanagan** (DFL), leading in polling (49% vs 36% in GQR poll). White Earth Nation citizen, would be the first Native American woman elected to the U.S. Senate. Endorsed by [[_Elizabeth Warren Master Profile|Elizabeth Warren]], Al Franken, Deb Haaland. Progressive positioning.
+- **U.S. Representative Angie Craig** (DFL). House Agriculture Committee ranking member, leading in fundraising ($3.8M cash on hand vs $811K for Flanagan). First openly LGBTQ+ person potentially elected to Senate from Minnesota. Centrist positioning (connected to Majority Fund, centrist PAC).
 - **Other candidates:** No other major Democratic challengers reported.
 
 ### Republican Primary:
-- **Royce White** — 2024 GOP nominee returns for 2026. Ran strong in 2024 (47.4% general election).
-- **Adam Schwarze** — Retired Navy SEAL.
-- **Michele Tafoya** — Retired sportscaster, considering entry.
+- **Royce White**, 2024 GOP nominee returns for 2026. Ran strong in 2024 (47.4% general election).
+- **Adam Schwarze**. Retired Navy SEAL.
+- **Michele Tafoya**. Retired sportscaster, considering entry.
 
 **Competitive Assessment:** Leans Democratic heavily. The race is effectively decided in the DFL primary. General election will favor the Democratic nominee.
 
@@ -39,14 +39,14 @@ Minnesota's 2026 Senate seat is an open seat — incumbent Democrat Tina Smith i
 
 ### Flanagan's Fundraising Model:
 - Cash on hand: $811K (as of latest FEC filing)
-- Fundraising strategy: No corporate PACs. Small-dollar donor model — average donation $29, 98% under $100.
+- Fundraising strategy: No corporate PACs. Small-dollar donor model, average donation $29, 98% under $100.
 - Largest donors: Native American tribes across the country contributing in the $5K–$25K range.
 - Grassroots-first positioning: emphasizing tribal sovereignty and indigenous representation.
 - [Source: Minnesota Reformer Q3 fundraising analysis](https://minnesotareformer.com/briefs/craig-more-than-doubles-flanagans-q3-fundraising/) (Tier 2)
 - [Source: Center Square: Flanagan leads polling, Craig tops fundraising](https://www.thecentersquare.com/minnesota/article_5db19f2b-cdc8-467e-b890-430aef0b9846.html) (Tier 2)
 
 ### Craig's Fundraising Model:
-- Cash on hand: $3.8M (as of latest FEC filing — 4.7x Flanagan)
+- Cash on hand: $3.8M (as of latest FEC filing, 4.7x Flanagan)
 - Transfer from House campaign: $650K+ from her congressional reelection committee to Senate race.
 - Majority Fund PAC: $100K+ from this centrist Democratic PAC (affiliated with Majority Democrats, centrist caucus).
 - Small-dollar base: 92% of donations under $100, but concentrated fundraising from bundlers.
@@ -81,7 +81,7 @@ Craig is outpacing Flanagan 4.7-to-1 in cash reserves despite trailing 13 points
 
 - **House Agriculture Committee dynamics:** Craig's committee position gives her leverage with farm-state donors, agricultural PACs, and rural Democratic constituencies. Agriculture is also a sector with significant labor union leverage ([[UFCW - United Food and Commercial Workers|UFCW]], farm worker organizing).
 
-- **2028 positioning:** Winner of this race will likely be a 2028 presidential primary contender if Harris runs, or a Senate floor leader if Republicans take the chamber. Flanagan's indigenous identity and small-dollar model; Craig's institutional relationships and House seniority — both create different power bases.
+- **2028 positioning:** Winner of this race will likely be a 2028 presidential primary contender if Harris runs, or a Senate floor leader if Republicans take the chamber. Flanagan's indigenous identity and small-dollar model; Craig's institutional relationships and House seniority, both create different power bases.
 
 ---
 

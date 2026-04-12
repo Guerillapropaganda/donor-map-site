@@ -51,7 +51,7 @@ audit-a-plus-passed: "2026-04-11"
 
 Devon Energy Corporation. One of the largest independent oil and gas producers in the United States ($15.9 billion revenue, 2024), headquartered in Oklahoma City. Devon operates primarily in the Permian Basin (Texas/New Mexico), Delaware Basin, Anadarko Basin (Oklahoma), and Eagle Ford Shale (Texas). The company merged with WPX Energy in 2021, consolidating its position as a leading shale producer.
 
-Devon PAC contributes $500,000-$1 million per cycle, with individual employee contributions and lobbying spending of $2-4 million annually. Devon's political significance is concentrated in Oklahoma, where the company is a major employer, taxpayer, and political donor — shaping the state's energy policy ecosystem.
+Devon PAC contributes $500,000-$1 million per cycle, with individual employee contributions and lobbying spending of $2-4 million annually. Devon's political significance is concentrated in Oklahoma, where the company is a major employer, taxpayer, and political donor, shaping the state's energy policy ecosystem.
 
 - [OpenSecrets: Devon Energy organizational profile](https://www.opensecrets.org/orgs/devon-energy/summary?id=D000021818) (Tier 1)
 
@@ -65,9 +65,9 @@ Favorable federal land leasing policies (expedited permitting, reduced royalty r
 
 ### What They've Gotten
 
-**Permitting Reform:** Devon and the independent producer lobby successfully advocated for expedited permitting provisions in the 2022 Inflation Reduction Act — a concession to fossil fuel interests embedded within the largest climate legislation in US history. The IRA's permitting provisions require federal oil and gas lease sales as a precondition for renewable energy leasing on federal lands.
+**Permitting Reform:** Devon and the independent producer lobby successfully advocated for expedited permitting provisions in the 2022 Inflation Reduction Act, a concession to fossil fuel interests embedded within the largest climate legislation in US history. The IRA's permitting provisions require federal oil and gas lease sales as a precondition for renewable energy leasing on federal lands.
 
-**Oklahoma Tax Architecture:** Oklahoma's gross production tax on oil and gas — effectively the state's severance tax — has been repeatedly reduced through industry lobbying. Devon and other Oklahoma producers benefit from a tax structure that collects significantly less per barrel than other producing states.
+**Oklahoma Tax Architecture:** Oklahoma's gross production tax on oil and gas, effectively the state's severance tax, has been repeatedly reduced through industry lobbying. Devon and other Oklahoma producers benefit from a tax structure that collects significantly less per barrel than other producing states.
 
 > [!money]
 > Devon's Oklahoma-centric political operation illustrates how energy companies capture state governments. Oklahoma's economy depends on oil and gas revenue; the industry's tax contributions fund state services; and the industry's political contributions ensure the tax rates remain low. The circular dependency — the state needs the industry, the industry shapes the state — creates a political environment where regulation of oil and gas is structurally impossible regardless of which party holds power.

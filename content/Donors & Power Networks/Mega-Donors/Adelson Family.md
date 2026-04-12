@@ -30,13 +30,13 @@ audit-a-plus-passed: "2026-04-11"
 
 ### Who They Are
 
-The Adelson family is the most prolific Republican mega-donor dynasty in post-Citizens United American politics. The operation centers on Sheldon Adelson (died January 11, 2021) and his wife Miriam Adelson, whose combined lifetime political giving exceeds $557 million — more than any other American family.
+The Adelson family is the most prolific Republican mega-donor dynasty in post-Citizens United American politics. The operation centers on Sheldon Adelson (died January 11, 2021) and his wife Miriam Adelson, whose combined lifetime political giving exceeds $557 million, more than any other American family.
 
-The fortune derives from Las Vegas Sands Corporation (NYSE: LVS), the world's largest casino company by revenue ($13.02 billion in 2025). Sheldon built the empire: Venetian, Palazzo, Marina Bay Sands (Singapore), Sands China (Macau). After his death, Miriam became majority owner (47% stake) and chairwoman. The company sold its Las Vegas properties in 2022, refocusing on Asia — but the political operation stayed American.
+The fortune derives from Las Vegas Sands Corporation (NYSE: LVS), the world's largest casino company by revenue ($13.02 billion in 2025). Sheldon built the empire: Venetian, Palazzo, Marina Bay Sands (Singapore), Sands China (Macau). After his death, Miriam became majority owner (47% stake) and chairwoman. The company sold its Las Vegas properties in 2022, refocusing on Asia, but the political operation stayed American.
 
 Miriam Adelson: born October 10, 1945, Tel Aviv. Physician (internal medicine, addiction medicine). Net worth: $40.5–45.1 billion (March 2026). Richest person in Nevada. Richest Israeli citizen. Owner of Israel Hayom (Israel's most-read newspaper), Las Vegas Review-Journal, and Dallas Mavericks ($3.8B, December 2023).
 
-Sheldon Adelson: born August 4, 1933, Boston. Son of a cab driver. Built the Sands convention and casino empire from nothing. Net worth at death: ~$35 billion. His political spending transformed Republican donor politics — before Adelson, no single donor had spent $100 million in a cycle. He did it three times.
+Sheldon Adelson: born August 4, 1933, Boston. Son of a cab driver. Built the Sands convention and casino empire from nothing. Net worth at death: ~$35 billion. His political spending transformed Republican donor politics, before Adelson, no single donor had spent $100 million in a cycle. He did it three times.
 
 ---
 
@@ -44,15 +44,15 @@ Sheldon Adelson: born August 4, 1933, Boston. Son of a cab driver. Built the San
 
 The Adelson political agenda operates on two tracks: Israel policy and business protection. Both have been delivered by every Republican administration they funded.
 
-**Israel — maximalist policy:** Jerusalem embassy relocation, Golan Heights sovereignty recognition, Abraham Accords normalization, opposition to Palestinian statehood, military confrontation with Iran, settlement expansion. Miriam personally supports formal West Bank annexation — the one priority not yet delivered.
+**Israel, maximalist policy:** Jerusalem embassy relocation, Golan Heights sovereignty recognition, Abraham Accords normalization, opposition to Palestinian statehood, military confrontation with Iran, settlement expansion. Miriam personally supports formal West Bank annexation, the one priority not yet delivered.
 
-**Anti-online gambling — business protection:** Sheldon's brick-and-mortar casino empire faced existential competition from online gambling. The Adelsons spent millions lobbying for the Restoration of America's Wire Act (RAWA) and pressuring DOJ for the Wire Act reinterpretation that would ban interstate online gambling.
+**Anti-online gambling, business protection:** Sheldon's brick-and-mortar casino empire faced existential competition from online gambling. The Adelsons spent millions lobbying for the Restoration of America's Wire Act (RAWA) and pressuring DOJ for the Wire Act reinterpretation that would ban interstate online gambling.
 
-**Republican governance:** The family doesn't fund specific policies beyond Israel and gambling — they fund the entire Republican infrastructure. The $557M+ ensures permanent access and influence across administrations.
+**Republican governance:** The family doesn't fund specific policies beyond Israel and gambling, they fund the entire Republican infrastructure. The $557M+ ensures permanent access and influence across administrations.
 
 ---
 
-### Who They Fund — Cycle-by-Cycle
+### Who They Fund. Cycle-by-Cycle
 
 > [!money] $557 Million — The Largest Family Political Operation in American History
 > **Combined Adelson lifetime political giving:**
@@ -82,11 +82,11 @@ The Adelson political agenda operates on two tracks: Israel policy and business 
 | Texas combined PACs | $15M+ to state candidates | 2024–2025 |
 | Austin lobbying operation | 100+ lobbyists, $5–10M/year | 2021–present |
 
-The corporate PAC spending is modest because the family's personal spending dwarfs it. Sheldon didn't need a corporate vehicle — he was the vehicle.
+The corporate PAC spending is modest because the family's personal spending dwarfs it. Sheldon didn't need a corporate vehicle, he was the vehicle.
 
 ---
 
-### What They've Gotten — The Policy Purchase
+### What They've Gotten. The Policy Purchase
 
 ### First-term deliverables (2017–2021):
 
@@ -103,20 +103,20 @@ The corporate PAC spending is modest because the family's personal spending dwar
 | Adelson Priority | Amount Spent (approx.) | Policy Outcome | Date |
 |-----------------|----------------------|----------------|------|
 | Maximalist Israel ambassador | $106–120M (2024 cycle) | Mike Huckabee appointed | January 2025 |
-| Secretary of State influence | Included in access | Marco Rubio — appointment attributed to Adelson influence | January 2025 |
+| Secretary of State influence | Included in access | Marco Rubio, appointment attributed to Adelson influence | January 2025 |
 | Iran military confrontation | Included in access | US-Israel joint strikes on Iran (8,000+ targets) | February 2026 |
 | Settlement expansion | Included in access | Accelerated West Bank settlement expansion (UN reports) | Ongoing 2025–2026 |
 | Campus speech enforcement | Included in access | Title VI enforcement against universities | Ongoing 2025–2026 |
 
-### The Iran Priority — The Hawkish Donor
+### The Iran Priority. The Hawkish Donor
 
-Adelson was "somewhat unhinged on the issue of Iran" — his public positions ran far to the right of mainstream Republican Iran hawks. He publicly called for dropping a nuclear bomb on an uninhabited Iranian desert as a "negotiating tactic," framing extreme military threat as negotiating leverage (UNVERIFIED).
+Adelson was "somewhat unhinged on the issue of Iran", his public positions ran far to the right of mainstream Republican Iran hawks. He publicly called for dropping a nuclear bomb on an uninhabited Iranian desert as a "negotiating tactic," framing extreme military threat as negotiating leverage (UNVERIFIED).
 
-Trump withdrew from the JCPOA on May 8, 2018 — 11 months after receiving Adelson's $82M in 2016 cycle donations. The Iran maximum pressure campaign launched in 2018 would escalate throughout Trump's first term and explode into direct military confrontation in February 2026, during Miriam's second-term cycle support. The 19-month timeline from $100M+ 2024 donations to the 8,000+ target Iran strikes represents the most explicit donor-to-war policy outcome in American history.
+Trump withdrew from the JCPOA on May 8, 2018, 11 months after receiving Adelson's $82M in 2016 cycle donations. The Iran maximum pressure campaign launched in 2018 would escalate throughout Trump's first term and explode into direct military confrontation in February 2026, during Miriam's second-term cycle support. The 19-month timeline from $100M+ 2024 donations to the 8,000+ target Iran strikes represents the most explicit donor-to-war policy outcome in American history.
 
 ---
 
-### The Wire Act — The Business Protection Purchase
+### The Wire Act. The Business Protection Purchase
 
 > [!money] The Wire Act Reinterpretation — Policy-for-Profit
 > In November 2018, DOJ reversed its 2011 opinion to declare the Wire Act applied to ALL interstate online gambling — not just sports betting. This directly protected Adelson's brick-and-mortar casino empire from internet competition.
@@ -135,21 +135,21 @@ Trump withdrew from the JCPOA on May 8, 2018 — 11 months after receiving Adels
 
 | Date | Event/Contribution | Amount | Policy Action | Time Gap |
 |------|-------------------|--------|---------------|----------|
-| 2012 | Adelsons spend $150M+ on Gingrich/Romney | $150M+ | No direct policy (Obama wins) | — |
-| 2016-06 | Adelsons begin Trump donations after Cruz exits | $82M total cycle | — | — |
-| 2017-12 | Trump announces Jerusalem embassy relocation | — | Embassy relocation ordered | 18 months from first donations |
-| 2018-05 | Embassy opens in Jerusalem | — | Fundamental policy shift every prior president refused | 23 months |
-| 2018-11 | DOJ issues Wire Act reinterpretation | — | Online gambling competition blocked | 29 months from 2016 donations |
-| 2018-11 | Miriam receives Presidential Medal of Freedom | — | Personal honor for mega-donor | 29 months |
-| 2019-03 | Trump recognizes Golan Heights sovereignty | — | International law violation serving Adelson priority | 34 months |
-| 2020-08 | Abraham Accords signed (UAE) | — | Gulf normalization — Adelson priority | 50 months |
-| 2020 | Adelsons spend $218M — new all-time record | $218M | — | — |
-| 2024-07 | Miriam begins $100M+ Preserve America PAC spending | $100M+ | — | — |
-| 2025-01 | Huckabee appointed Ambassador to Israel | — | Maximalist pro-Israel ambassador | 6 months from 2024 donations |
-| 2025-01 | Rubio confirmed Secretary of State | — | Appointment attributed to Adelson influence | 6 months |
-| 2025-03 | MAGA Inc. Candlelight Dinner — Miriam attends ($1M/plate) | $1M+ | Access maintenance | Ongoing |
-| 2025-12 | Miriam offers $250M for Trump third term at Hanukkah reception | $250M pledge | Constitutional term limit prevents execution | — |
-| 2026-02 | US-Israel joint strikes on Iran — 8,000+ targets | — | Highest-value policy return of any single donor in vault | 19 months from 2024 donations |
+| 2012 | Adelsons spend $150M+ on Gingrich/Romney | $150M+ | No direct policy (Obama wins) |, |
+| 2016-06 | Adelsons begin Trump donations after Cruz exits | $82M total cycle |, |, |
+| 2017-12 | Trump announces Jerusalem embassy relocation |, | Embassy relocation ordered | 18 months from first donations |
+| 2018-05 | Embassy opens in Jerusalem |, | Fundamental policy shift every prior president refused | 23 months |
+| 2018-11 | DOJ issues Wire Act reinterpretation |, | Online gambling competition blocked | 29 months from 2016 donations |
+| 2018-11 | Miriam receives Presidential Medal of Freedom |, | Personal honor for mega-donor | 29 months |
+| 2019-03 | Trump recognizes Golan Heights sovereignty |, | International law violation serving Adelson priority | 34 months |
+| 2020-08 | Abraham Accords signed (UAE) |, | Gulf normalization. Adelson priority | 50 months |
+| 2020 | Adelsons spend $218M, new all-time record | $218M |, |, |
+| 2024-07 | Miriam begins $100M+ Preserve America PAC spending | $100M+ |, |, |
+| 2025-01 | Huckabee appointed Ambassador to Israel |, | Maximalist pro-Israel ambassador | 6 months from 2024 donations |
+| 2025-01 | Rubio confirmed Secretary of State |, | Appointment attributed to Adelson influence | 6 months |
+| 2025-03 | MAGA Inc. Candlelight Dinner. Miriam attends ($1M/plate) | $1M+ | Access maintenance | Ongoing |
+| 2025-12 | Miriam offers $250M for Trump third term at Hanukkah reception | $250M pledge | Constitutional term limit prevents execution |, |
+| 2026-02 | US-Israel joint strikes on Iran, 8,000+ targets |, | Highest-value policy return of any single donor in vault | 19 months from 2024 donations |
 
 > [!money] The ROI Calculation
 > The $82M spent in 2016 produced: embassy relocation (priceless to Israeli right), Golan recognition (international law violation), Medal of Freedom, Wire Act reinterpretation (billions in competitive protection), Abraham Accords. The $106–120M spent in 2024 has already produced: two key appointments (Huckabee, Rubio), Iran military strikes, accelerated settlement expansion, and campus speech enforcement.
@@ -171,25 +171,25 @@ Trump withdrew from the JCPOA on May 8, 2018 — 11 months after receiving Adels
 
 ---
 
-### Class Analysis — The Most Transparent Pay-to-Play in American Politics
+### Class Analysis. The Most Transparent Pay-to-Play in American Politics
 
-The Adelson family represents the vault's clearest donor-to-policy pipeline. Unlike Koch (who operates across every policy domain through institutional infrastructure) or Musk (who merges business with government), the Adelsons spend $557M+ on a single primary issue — Israel — and receive specific, named policy outcomes traceable directly to the money.
+The Adelson family represents the vault's clearest donor-to-policy pipeline. Unlike Koch (who operates across every policy domain through institutional infrastructure) or Musk (who merges business with government), the Adelsons spend $557M+ on a single primary issue. Israel, and receive specific, named policy outcomes traceable directly to the money.
 
 The structural function: Adelson money ensures no Republican president deviates from maximalist Israel policy. The spending is both reward (embassy, Golan Heights, Medal of Freedom) and investment (appointments, Iran confrontation, settlement expansion). The ROI is visible and specific: $82M bought an embassy relocation that every previous president refused.
 
 The class contradiction is stark: the fortune funding West Bank maximalism and now an Iran war is generated by immigrant hospitality workers in Las Vegas and Macau. The [[UNITE HERE]] members cleaning Sands hotel rooms generate the profits that fund Adelson's political project. Their labor creates the wealth. The wealth funds policies they have no voice in. $557M in political spending. Zero input from the workers who generate it.
 
-**Pattern: Donor-Class Override.** Every major Adelson policy outcome — embassy, Golan, Huckabee, Iran strikes — overrides broader constituency preferences. Polls consistently show American voters oppose direct military confrontation with Iran. The policy happened because the donor wanted it.
+**Pattern: Donor-Class Override.** Every major Adelson policy outcome, embassy, Golan, Huckabee, Iran strikes, overrides broader constituency preferences. Polls consistently show American voters oppose direct military confrontation with Iran. The policy happened because the donor wanted it.
 
-**Pattern: Two-Audience Problem.** Republican candidates publicly frame Israel policy as moral or strategic imperative. Privately, the policy tracks Adelson's specific preferences — including appointments attributed directly to her influence. The public rationale and the private mechanism are different.
+**Pattern: Two-Audience Problem.** Republican candidates publicly frame Israel policy as moral or strategic imperative. Privately, the policy tracks Adelson's specific preferences, including appointments attributed directly to her influence. The public rationale and the private mechanism are different.
 
-**Pattern: Structural Limit.** Formal annexation — Miriam's top priority — remains undelivered because it threatens other donor interests. The limit of single-issue mega-donor power is visible: when your priority conflicts with the multi-donor ecosystem, you get everything except the thing you want most.
+**Pattern: Structural Limit.** Formal annexation. Miriam's top priority, remains undelivered because it threatens other donor interests. The limit of single-issue mega-donor power is visible: when your priority conflicts with the multi-donor ecosystem, you get everything except the thing you want most.
 
 ### Citizens United and the Doubling of Effective Power
 
-The Adelsons' political power "ballooned after the 2010 Supreme Court Citizens United decision, loosening limits on outside spending" ([Politico](https://www.politico.com/news/2021/01/12/adelson-super-pac-gop-458380) (Tier 2)). Over the last five years of Sheldon's life (2016-2020), the couple gave $280 million to House and Senate Republicans' main super PACs alone — supplying **more than one-third of funding for the Congressional Leadership Fund and nearly one-quarter of the Senate Leadership Fund** ([Politico](https://www.politico.com/news/2021/01/12/adelson-super-pac-gop-458380) (Tier 2)).
+The Adelsons' political power "ballooned after the 2010 Supreme Court Citizens United decision, loosening limits on outside spending" ([Politico](https://www.politico.com/news/2021/01/12/adelson-super-pac-gop-458380) (Tier 2)). Over the last five years of Sheldon's life (2016-2020), the couple gave $280 million to House and Senate Republicans' main super PACs alone, supplying **more than one-third of funding for the Congressional Leadership Fund and nearly one-quarter of the Senate Leadership Fund** ([Politico](https://www.politico.com/news/2021/01/12/adelson-super-pac-gop-458380) (Tier 2)).
 
-This concentration of funding created structural dependency: Republican leadership in Congress became reliant on Adelson's continued support for their campaign infrastructure. Without the Adelsons, CLF and SLF lose 33-25% of their operational capacity. This is not influence — this is organizational control.
+This concentration of funding created structural dependency: Republican leadership in Congress became reliant on Adelson's continued support for their campaign infrastructure. Without the Adelsons, CLF and SLF lose 33-25% of their operational capacity. This is not influence, this is organizational control.
 
 ---
 
@@ -214,14 +214,14 @@ This concentration of funding created structural dependency: Republican leadersh
 - [CNBC: Miriam Adelson PAC funding](https://www.cnbc.com/2024/08/16/donald-trump-miriam-adelson-campaign-funding.html) (Tier 2)
 
 ### Wire Act / Anti-Online Gambling:
-- [Card Player: Sheldon Adelson gets his way — DOJ says all online gambling illegal](https://www.cardplayer.com/poker-news/23543-sheldon-adelson-gets-his-way-department-of-justice-says-all-online-gambling-illegal) (Tier 2)
+- [Card Player: Sheldon Adelson gets his way. DOJ says all online gambling illegal](https://www.cardplayer.com/poker-news/23543-sheldon-adelson-gets-his-way-department-of-justice-says-all-online-gambling-illegal) (Tier 2)
 - [Legal Sports Report: NJ AG blasts DOJ Wire Act opinion, eyes Adelson meddling](https://www.legalsportsreport.com/28838/nj-letter-wire-act-adelson/) (Tier 2)
 - [Tablet Magazine: Casino mogul Sheldon Adelson's campaign against online gambling](https://www.tabletmag.com/sections/news/articles/sheldon-adelsons-war-against-online-gambling) (Tier 2)
 
 ### Israel Policy:
 - [Responsible Statecraft: Trump tell-all cites Adelson's bankrolled Israel embassy move](https://responsiblestatecraft.org/2022/10/07/new-book-highlights-how-campaign-money-influences-us-foreign-policy/) (Tier 2)
 - [Newsweek: How Miriam Adelson shaped Trump's Israel strategy](https://www.newsweek.com/how-miriam-adelson-shaped-donald-trumps-israel-strategy-10875990) (Tier 2)
-- [Al Jazeera: Who is Miriam Adelson — pro-Israel donor Trump lauded at Knesset](https://www.aljazeera.com/economy/2025/2/26/washington-post-opinion-head-departs-as-jeff-bezos-shifts-focus-for-paper-about-latest-us-border-flashpoint) (Tier 2)
+- [Al Jazeera: Who is Miriam Adelson, pro-Israel donor Trump lauded at Knesset](https://www.aljazeera.com/economy/2025/2/26/washington-post-opinion-head-departs-as-jeff-bezos-shifts-focus-for-paper-about-latest-us-border-flashpoint) (Tier 2)
 
 ### Las Vegas Sands / Texas:
 - [OpenSecrets: Las Vegas Sands profile](https://www.opensecrets.org/orgs/las-vegas-sands/summary?id=D000020980) (Tier 1)
@@ -251,7 +251,7 @@ This concentration of funding created structural dependency: Republican leadersh
 
 > This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.
 
-### Financial Overview (990 Filing — 2023)
+### Financial Overview (990 Filing, 2023)
 <!-- auto:propublica-990 start -->
 | Metric | Amount |
 |--------|--------|

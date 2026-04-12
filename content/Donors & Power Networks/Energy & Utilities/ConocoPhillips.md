@@ -83,9 +83,9 @@ audit-a-plus-passed: "2026-04-11"
 
 ### Who They Are
 
-ConocoPhillips. The largest independent exploration and production company in the world ($58 billion revenue, 2024). Unlike integrated majors (ExxonMobil, Chevron), ConocoPhillips focuses exclusively on upstream oil and gas production — finding and extracting hydrocarbons. The company's political operation is focused on maintaining federal lands access, opposing emissions regulations that constrain production, and securing regulatory approval for major projects.
+ConocoPhillips. The largest independent exploration and production company in the world ($58 billion revenue, 2024). Unlike integrated majors (ExxonMobil, Chevron), ConocoPhillips focuses exclusively on upstream oil and gas production, finding and extracting hydrocarbons. The company's political operation is focused on maintaining federal lands access, opposing emissions regulations that constrain production, and securing regulatory approval for major projects.
 
-ConocoPhillips' most politically significant asset is the Willow Project — an $8 billion oil development on Alaska's North Slope approved in 2023 after intense lobbying, expected to produce 180,000 barrels per day over 30 years.
+ConocoPhillips' most politically significant asset is the Willow Project, an $8 billion oil development on Alaska's North Slope approved in 2023 after intense lobbying, expected to produce 180,000 barrels per day over 30 years.
 
 - [OpenSecrets: ConocoPhillips organizational profile](https://www.opensecrets.org/orgs/conocophillips/summary?id=D000000438) (Tier 1)
 
@@ -113,7 +113,7 @@ ConocoPhillips' most politically significant asset is the Willow Project — an 
 
 **Total PAC spending 2000–2024:** ~$3.74 million | **Total all-source contributions 2000–2024:** ~$19.8 million
 
-ConocoPhillips SPIRIT PAC (FEC Committee ID C00112896) raised $457,652 in 2023–2024 and gave $294,000 to federal candidates (17.69% to Democrats, 82.31% to Republicans). The company's giving is highly variable — averaging 82–92% Republican, jumping to 92%+ in non-presidential off-years. The extreme 2016 anomaly (88.70% GOP) reflects concentrated investment in a potential Trump deregulatory presidency.
+ConocoPhillips SPIRIT PAC (FEC Committee ID C00112896) raised $457,652 in 2023–2024 and gave $294,000 to federal candidates (17.69% to Democrats, 82.31% to Republicans). The company's giving is highly variable, averaging 82–92% Republican, jumping to 92%+ in non-presidential off-years. The extreme 2016 anomaly (88.70% GOP) reflects concentrated investment in a potential Trump deregulatory presidency.
 
 ### Federal Lobbying Expenditures (2002–2024):
 
@@ -137,7 +137,7 @@ ConocoPhillips SPIRIT PAC (FEC Committee ID C00112896) raised $457,652 in 2023�
 | 2023 | $7,860,000 |
 | 2024 | $8,350,000 |
 
-**Confirmed total 2002–2024:** ~$91 million. The 2010 peak ($19.6M) marked ConocoPhillips' highest single-year spending and coincided with Senate votes on Waxman-Markey cap-and-trade legislation — the industry's coordinated fight to block climate policy. Recent years (2022–2024, averaging $8.3M annually) now exceed [[ExxonMobil]]'s federal lobbying spending.
+**Confirmed total 2002–2024:** ~$91 million. The 2010 peak ($19.6M) marked ConocoPhillips' highest single-year spending and coincided with Senate votes on Waxman-Markey cap-and-trade legislation, the industry's coordinated fight to block climate policy. Recent years (2022–2024, averaging $8.3M annually) now exceed [[ExxonMobil]]'s federal lobbying spending.
 
 ### 2024 Top Recipients:
 
@@ -148,13 +148,13 @@ ConocoPhillips SPIRIT PAC (FEC Committee ID C00112896) raised $457,652 in 2023�
 | Center Forward Cmte | $300,000 | Energy-focused bipartisan |
 | John Barrasso (R-WY) | $45,375 | Energy Cmte chair, anti-EV bill sponsor |
 | August Pfluger (R-TX11) | $33,900 | House Energy subcommittee |
-| Kamala Harris | $32,211 | Presidential (D) — employees only |
+| Kamala Harris | $32,211 | Presidential (D), employees only |
 | Ryan Zinke (R-MT) | $28,950 | Former Interior Secretary |
 | Lisa Murkowski (R-AK) | $26,200 | Willow Project ally |
 | Dan Sullivan (R-AK) | $25,846 | Willow Project ally |
 | Mary Peltola (D-AK) | $17,245 | Democrat who supported Willow |
 
-**Alaska Delegation Pattern:** ConocoPhillips' 2024 giving heavily weighted to Alaska delegation members who championed Willow approval — Murkowski and Sullivan were the most important political advocates.
+**Alaska Delegation Pattern:** ConocoPhillips' 2024 giving heavily weighted to Alaska delegation members who championed Willow approval. Murkowski and Sullivan were the most important political advocates.
 
 ### Revolving Door: The Cheney Energy Task Force Connection
 
@@ -187,11 +187,11 @@ The Willow Project ($8 billion investment, 180,000 barrels per day at peak, 600 
 | Dec 2023 | ConocoPhillips Final Investment Decision | $8B investment confirmed |
 | Q4 2025 | ConocoPhillips Q4 2025 lobbying: $2.63M on Willow development, NPR-A permitting, BLM 2024 rule opposition | Ongoing lobbying during Trump administration |
 
-**Key Political Relationships:** ConocoPhillips credited approval to "unwavering support from Alaska's Congressional Delegation — Senators Murkowski and Sullivan and Representative Peltola." Senator Murkowski noted Biden "needed to really be brought around" on the issue, implying sustained political pressure from the Alaska delegation.
+**Key Political Relationships:** ConocoPhillips credited approval to "unwavering support from Alaska's Congressional Delegation. Senators Murkowski and Sullivan and Representative Peltola." Senator Murkowski noted Biden "needed to really be brought around" on the issue, implying sustained political pressure from the Alaska delegation.
 
-**Contradiction Analysis:** The Biden administration simultaneously approved Willow while restricting other federal oil leasing (Arctic and Atlantic). This demonstrates the "Donor-Class Override" pattern — policy outcome directly contradicts candidate's campaign pledge but serves donor interests.
+**Contradiction Analysis:** The Biden administration simultaneously approved Willow while restricting other federal oil leasing (Arctic and Atlantic). This demonstrates the "Donor-Class Override" pattern, policy outcome directly contradicts candidate's campaign pledge but serves donor interests.
 
-**Federal Lands Leasing:** ConocoPhillips benefits from continued federal lands oil and gas leasing, which both Trump and Biden administrations maintained (Biden at reduced levels). The Inflation Reduction Act's climate provisions included a mandatory federal leasing requirement — fossil fuel companies won leasing guarantees as the price of climate legislation. The requirement guarantees 2 million acres of federal lands must be offered for oil and gas leasing every year.
+**Federal Lands Leasing:** ConocoPhillips benefits from continued federal lands oil and gas leasing, which both Trump and Biden administrations maintained (Biden at reduced levels). The Inflation Reduction Act's climate provisions included a mandatory federal leasing requirement, fossil fuel companies won leasing guarantees as the price of climate legislation. The requirement guarantees 2 million acres of federal lands must be offered for oil and gas leasing every year.
 
 **Arctic Development and LNG Permitting:** ConocoPhillips continues lobbying on:
 - LNG export permits and infrastructure
@@ -205,7 +205,7 @@ The Willow Project ($8 billion investment, 180,000 barrels per day at peak, 600 
 
 **Keystone XL Pipeline (2008–2021):** ConocoPhillips was among the 14 pro-Keystone companies that collectively spent $59 million or more in 2014 alone. The industry's total lobbying and dark money spending on Keystone exceeded several hundred million dollars over the decade-plus fight.
 
-**Federal Lands Leasing:** ConocoPhillips benefits from the mandatory federal leasing requirement built into the Inflation Reduction Act (2022). The requirement guarantees that 2 million acres of federal lands must be offered for oil and gas leasing every year — a direct fossil fuel policy victory embedded in climate legislation. Both Trump and Biden administrations maintained federal leasing; Biden's reduced levels still honored the mandatory baseline.
+**Federal Lands Leasing:** ConocoPhillips benefits from the mandatory federal leasing requirement built into the Inflation Reduction Act (2022). The requirement guarantees that 2 million acres of federal lands must be offered for oil and gas leasing every year, a direct fossil fuel policy victory embedded in climate legislation. Both Trump and Biden administrations maintained federal leasing; Biden's reduced levels still honored the mandatory baseline.
 
 ---
 

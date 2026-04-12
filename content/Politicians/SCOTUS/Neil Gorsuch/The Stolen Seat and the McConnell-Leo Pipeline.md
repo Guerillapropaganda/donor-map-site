@@ -26,14 +26,14 @@ donors: [[Leonard Leo]], [[Judicial Crisis Network]], [[Koch Network - Charles K
 |------|-------|
 | 2016-02-13 | Justice Scalia death announced |
 | 2016-02-13 | McConnell announces: no hearings, no votes for Obama nominee (within hours of Scalia's death) |
-| 2016-03-16 | President Obama nominates Merrick Garland — Chief Judge, D.C. Circuit; confirmed 76-23 to that court in 1997 |
-| 2016-03 to 2017-01 | 293 days of blockade — no hearings, no committee vote, no floor vote |
+| 2016-03-16 | President Obama nominates Merrick Garland. Chief Judge, D.C. Circuit; confirmed 76-23 to that court in 1997 |
+| 2016-03 to 2017-01 | 293 days of blockade, no hearings, no committee vote, no floor vote |
 | 2017-01-03 | Garland nomination expires with end of 114th Congress |
 | 2017-01-31 | Trump nominates [[_Neil Gorsuch Master Profile|Neil Gorsuch]] |
 | 2017-02 to 2017-04 | JCN launches $10M+ dark money ad campaign for Gorsuch confirmation |
-| 2017-04-07 | Gorsuch confirmed 54-45 (nuclear option — McConnell eliminates filibuster for Supreme Court nominees) |
+| 2017-04-07 | Gorsuch confirmed 54-45 (nuclear option. McConnell eliminates filibuster for Supreme Court nominees) |
 
-The blockade was unprecedented: first time since the Civil War that a nominee without a withdrawn nomination failed to receive any consideration. McConnell eliminated the filibuster for Supreme Court nominees specifically to confirm Gorsuch with a simple majority — a permanent change to Senate procedure that also enabled Kavanaugh (50-48) and Barrett (52-48) confirmations.
+The blockade was unprecedented: first time since the Civil War that a nominee without a withdrawn nomination failed to receive any consideration. McConnell eliminated the filibuster for Supreme Court nominees specifically to confirm Gorsuch with a simple majority, a permanent change to Senate procedure that also enabled Kavanaugh (50-48) and Barrett (52-48) confirmations.
 
 ---
 
@@ -41,7 +41,7 @@ The blockade was unprecedented: first time since the Civil War that a nominee wi
 
 Leo, co-chairman of the Federalist Society, served as Trump's primary advisor on judicial nominations. Trump publicly outsourced Supreme Court selection to the Federalist Society, calling it one of the "greatest achievements" of his first term. Leo first contacted then-Tenth-Circuit-Judge Gorsuch about the potential nomination to fill Scalia's vacancy.
 
-Leo's CRC Advisors coordinated a months-long media campaign: opinion essays, 5,000+ news story quotes, pundit TV appearances, TV and radio ads. The campaign manufactured the narrative that Gorsuch was a principled textualist in Scalia's mold — obscuring the unprecedented political operation that created the vacancy.
+Leo's CRC Advisors coordinated a months-long media campaign: opinion essays, 5,000+ news story quotes, pundit TV appearances, TV and radio ads. The campaign manufactured the narrative that Gorsuch was a principled textualist in Scalia's mold, obscuring the unprecedented political operation that created the vacancy.
 
 Leo also shepherded the nominations of Roberts (2005), Alito (2006), Kavanaugh (2018), and Barrett (2020). One man, operating through a network of interlocking dark money nonprofits, has been instrumental in placing five of nine Supreme Court justices.
 
@@ -62,13 +62,13 @@ Leo also shepherded the nominations of Roberts (2005), Alito (2006), Kavanaugh (
 
 Every 5-4 ruling where Gorsuch provided the fifth conservative vote is a ruling that would have gone the other way with Garland:
 
-- **Epic Systems Corp. v. Lewis (2018)** — 5-4: Gorsuch authored majority blocking worker class actions
-- **Rucho v. Common Cause (2019)** — 5-4: partisan gerrymandering claims nonjusticiable
-- **Dobbs v. Jackson (2022)** — would not have had 5 votes to overturn Roe without Gorsuch (6-3 became possible only because Barrett replaced Ginsburg)
-- **West Virginia v. EPA (2022)** — 6-3: Gorsuch's major questions doctrine concurrence limiting regulatory authority
-- **Loper Bright v. Raimondo (2024)** — 6-2: overturning [[Chevron|Chevron]] deference
+- **Epic Systems Corp. v. Lewis (2018)**, 5-4: Gorsuch authored majority blocking worker class actions
+- **Rucho v. Common Cause (2019)**, 5-4: partisan gerrymandering claims nonjusticiable
+- **Dobbs v. Jackson (2022)**, would not have had 5 votes to overturn Roe without Gorsuch (6-3 became possible only because Barrett replaced Ginsburg)
+- **West Virginia v. EPA (2022)**, 6-3: Gorsuch's major questions doctrine concurrence limiting regulatory authority
+- **Loper Bright v. Raimondo (2024)**, 6-2: overturning [[Chevron|Chevron]] deference
 
-The stolen seat didn't just add one conservative vote — it prevented a liberal majority (5-4 with Garland) and created the foundation for the 6-3 supermajority that followed Barrett's confirmation in 2020.
+The stolen seat didn't just add one conservative vote, it prevented a liberal majority (5-4 with Garland) and created the foundation for the 6-3 supermajority that followed Barrett's confirmation in 2020.
 
 ---
 
@@ -85,10 +85,10 @@ The stolen seat didn't just add one conservative vote — it prevented a liberal
 
 - [NPR: What Happened With Merrick Garland In 2016 And Why It Matters Now](https://www.npr.org/2018/06/29/624467256/what-happened-with-merrick-garland-in-2016-and-why-it-matters-now) (Tier 2)
 - [Constitution Center: Tracking the Controversy over Judge Garland's Nomination](https://constitutioncenter.org/blog/tracking-the-controversy-over-judge-garlands-nomination) (Tier 2)
-- [Senator Sheldon Whitehouse: The Scheme Speech 6 — Judicial Crisis Network](https://www.whitehouse.senate.gov/news/speeches/the-scheme-speech-6-judicial-crisis-network/) (Tier 1)
+- [Senator Sheldon Whitehouse: The Scheme Speech 6. Judicial Crisis Network](https://www.whitehouse.senate.gov/news/speeches/the-scheme-speech-6-judicial-crisis-network/) (Tier 1)
 - [OpenSecrets: Secretive Conservative Legal Group Funded by $17M Mystery Donor](https://www.opensecrets.org/news/2019/05/dark-money-group-funded-by-17million-mystery-donor-before-kavanaugh/) (Tier 2)
 - [ProPublica: How a Secretive Billionaire Handed His Fortune to the Architect of the Right-Wing Takeover of the Courts](https://www.propublica.org/article/dark-money-leonard-leo-barre-seid) (Tier 2)
-- [ProPublica: We Don't Talk About Leonard — The Man Behind the Right's Supreme Court Supermajority](https://www.propublica.org/article/we-dont-talk-about-leonard-leo-supreme-court-supermajority) (Tier 2)
-- [Senator Sheldon Whitehouse: Scheme 18 — Leonard Leo's $1.6 Billion Payday](https://www.whitehouse.senate.gov/news/speeches/scheme-18_leonard-leos-16-billion-payday/) (Tier 1)
-- [U.S. Senate: Roll Call Vote — Gorsuch Confirmation 54-45](https://www.senate.gov/legislative/LIS/roll_call_votes/vote1151/vote_115_1_00111.htm) (Tier 1)
+- [ProPublica: We Don't Talk About Leonard. The Man Behind the Right's Supreme Court Supermajority](https://www.propublica.org/article/we-dont-talk-about-leonard-leo-supreme-court-supermajority) (Tier 2)
+- [Senator Sheldon Whitehouse: Scheme 18. Leonard Leo's $1.6 Billion Payday](https://www.whitehouse.senate.gov/news/speeches/scheme-18_leonard-leos-16-billion-payday/) (Tier 1)
+- [U.S. Senate: Roll Call Vote. Gorsuch Confirmation 54-45](https://www.senate.gov/legislative/LIS/roll_call_votes/vote1151/vote_115_1_00111.htm) (Tier 1)
 - [Congress.gov: Nomination of Neil M. Gorsuch (Official Record)](https://www.congress.gov/nomination/115th-congress/55) (Tier 1)

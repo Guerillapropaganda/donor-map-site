@@ -24,7 +24,7 @@ donors: ALEC Members [[Koch Network - Charles Koch|Koch Industries]] American Le
 
 ### The Machine: How ALEC Protects Dark Money
 
-ALEC (American Legislative Exchange Council) is a corporate-funded organization that provides state legislators with "model legislation" — pre-written bills that legislators can introduce into their state legislatures. The organization claims to promote "free market" policies, but the primary function is to protect corporate donors from public accountability.
+ALEC (American Legislative Exchange Council) is a corporate-funded organization that provides state legislators with "model legislation", pre-written bills that legislators can introduce into their state legislatures. The organization claims to promote "free market" policies, but the primary function is to protect corporate donors from public accountability.
 
 The meta-corruption: ALEC's most successful recent project is to pass laws that protect dark money from disclosure. Using dark money to pass laws protecting dark money. The mechanism is brilliant in its circularity.
 
@@ -87,7 +87,7 @@ This is not just regulatory capture. This is the corruption machine upgrading it
 
 ### ALEC's Membership Deception
 
-ALEC claims to have "1/4 of all state legislators" as members — roughly 2,000 legislators out of 8,000 nationally.
+ALEC claims to have "1/4 of all state legislators" as members, roughly 2,000 legislators out of 8,000 nationally.
 
 ### Actual paid membership (per IRS Form 990):
 - 2022: 485 paid individual legislator members

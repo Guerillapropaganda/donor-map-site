@@ -19,7 +19,7 @@ donors: [[AIPAC - American Israel Public Affairs Committee|AIPAC - American Isra
 
 Before October 7, 2023, [[_John Fetterman Master Profile|John Fetterman]] had not distinguished himself as a particular advocate for Israel policy or a critic of Palestinian rights. He held conventional Democratic positions. After October 7, his public positioning hardened rapidly into what even mainstream political commentary describes as "outing him as not being progressive."
 
-Fetterman's October 2023 statements went beyond Democratic consensus positioning. He declared that he did not support a ceasefire "until Hamas is neutralized"—a position that, by 2024, had become minority even among Democrats. More importantly, he began using language that positioned pro-Israel support not as policy preference but as identity claim: "I'm a really strong, unapologetic supporter of Israel and it's really not going to change for me."
+Fetterman's October 2023 statements went beyond Democratic consensus positioning. He declared that he did not support a ceasefire "until Hamas is neutralized", a position that, by 2024, had become minority even among Democrats. More importantly, he began using language that positioned pro-Israel support not as policy preference but as identity claim: "I'm a really strong, unapologetic supporter of Israel and it's really not going to change for me."
 
 > [!contradiction]
 > This is the central contradiction: Fetterman won a swing-state Senate seat powered by 140,000+ small-dollar donors, many of them younger and/or progressive, who expected him to represent working-class Democratic values. Within 15 months of taking office, he had positioned himself as an unconditional Israel hawk, explicitly rejecting conditions on military aid and using language that framed pro-Israel positioning as non-negotiable personal identity. The Pennsylvania progressives who sent $27 in 2022 were watching what amounted to a bait-and-switch. Fetterman's response ("I haven't changed a lick") is the response of someone refusing to acknowledge the shift, or perhaps genuinely unable to recognize it.
@@ -54,7 +54,7 @@ Fetterman's October 2023 statements went beyond Democratic consensus positioning
 
 When asked directly whether the Senate should put conditions on U.S. military aid to Israel, Fetterman's answer was unambiguous: "No, none."
 
-This answer positions Fetterman to the right of substantial Democratic opinion. As of 2024, substantial Democratic constituencies—progressive politicians, young Democrats, Palestinian solidarity movements—support conditioning aid on demonstrated human rights improvements. Fetterman's "no conditions" position aligns him with pro-Israel hardliners and Republican positions.
+This answer positions Fetterman to the right of substantial Democratic opinion. As of 2024, substantial Democratic constituencies, progressive politicians, young Democrats, Palestinian solidarity movements, support conditioning aid on demonstrated human rights improvements. Fetterman's "no conditions" position aligns him with pro-Israel hardliners and Republican positions.
 
 > [!money]
 > The "no conditions" answer is the clearest ideological marker of Fetterman's donor-class alignment. This is not a position driven by Pennsylvania constituent pressure—Pennsylvania has substantial Palestinian solidarity constituencies, particularly among younger voters. This is a position driven by AIPAC alignment. Fetterman has received ~$250,000 from pro-Israel donors since 2023, and his hardline positioning attracts Republican donors specifically because it signals donor-class reliability on Israel despite Democratic Party divisions. The "no conditions" position is worth examining because it's the hinge between "politician with pro-Israel preferences" and "politician aligned with pro-Israel lobbying infrastructure."
@@ -128,7 +128,7 @@ Yet this framing obscures the actual political dynamic: AIPAC donors want hardli
 
 - [Post-Gazette: Fetterman sparks backlash with staunch support for Israel](https://www.post-gazette.com/news/politics-nation/2023/11/03/john-fetterman-israel-hamas-progressives/stories/202311050075) (Tier 2)
 - [The Intercept: Since October, Sen. John Fetterman Has Been Building a Roster of Republican Donors](https://theintercept.com/2024/04/19/john-fetterman-israel-gop-donors/) (Tier 2)
-- [The Nation: Senator John Fetterman Is a Progressive Icon, a Republican Hate Figure—and a Pro-Israel Pinup](https://www.thenation.com/article/politics/fetterman-israel-palestine-progressives/) (Tier 2)
+- [The Nation: Senator John Fetterman Is a Progressive Icon, a Republican Hate Figure, and a Pro-Israel Pinup](https://www.thenation.com/article/politics/fetterman-israel-palestine-progressives/) (Tier 2)
 - [New Republic: John Fetterman Speaks: I Haven't Changed a Lick](https://newrepublic.com/article/177976/john-fetterman-interview-israel-progressive) (Tier 2)
 - [Pittsburgh Jewish Chronicle: Fetterman says he'll 'lean in' on U.S.-Israel relationship as senator](https://jewishchronicle.timesofisrael.com/john-fetterman-says-hell-lean-in-on-u-s-israel-relationship-as-senator/) (Tier 2)
 - [Algemeiner: Fetterman Hosts AIPAC, Bondi Survivor in DC Office](https://www.algemeiner.com/2026/02/26/fetterman-hosts-aipac-bondi-survivor-dc-office/) (Tier 2)

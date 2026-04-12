@@ -19,10 +19,10 @@ donors: [[SEIU - Service Employees International Union]] · [[California Nurses 
 
 ### Media Profile Sources:
 Swalwell's media visibility derives from:
-- House Intelligence Committee service (2017–present) — gives him standing to comment on national security, Trump investigations
-- Trump impeachment proceedings (2019–2021) — Swalwell was a House impeachment manager; made dozens of cable news appearances
-- Regular MSNBC/CNN appearances (2017–present) — developed as a reliable Democratic commentator for cable news
-- 2019 presidential campaign — briefly ran for president, giving him national platform
+- House Intelligence Committee service (2017–present), gives him standing to comment on national security, Trump investigations
+- Trump impeachment proceedings (2019–2021). Swalwell was a House impeachment manager; made dozens of cable news appearances
+- Regular MSNBC/CNN appearances (2017–present), developed as a reliable Democratic commentator for cable news
+- 2019 presidential campaign, briefly ran for president, giving him national platform
 - Post-presidential, continued cable news presence as a House member commenting on Trump
 
 ### The Cable News Model:
@@ -37,23 +37,23 @@ The cable news model is self-reinforcing: media appearances create name recognit
 Despite high media visibility, Swalwell's congressional record shows modest legislative accomplishment:
 
 ### Voting Record:
-As of March 2026, Swalwell has missed 640 of 7,390 roll call votes (8.7% absence rate). The median current House member misses 2.1% of votes. Swalwell's absence rate is 4x the median — suggesting either he is frequently absent from Congress to do media appearances, or he is not engaged with legislative work.
+As of March 2026, Swalwell has missed 640 of 7,390 roll call votes (8.7% absence rate). The median current House member misses 2.1% of votes. Swalwell's absence rate is 4x the median, suggesting either he is frequently absent from Congress to do media appearances, or he is not engaged with legislative work.
 
 ### Biden Alignment:
-As of October 2021, Swalwell voted with Biden's stated position 100% of the time. This is higher than many Democrats — suggesting Swalwell does not deviate from Democratic leadership on any major vote. This is institutional Democrat behavior, not independent power broker.
+As of October 2021, Swalwell voted with Biden's stated position 100% of the time. This is higher than many Democrats, suggesting Swalwell does not deviate from Democratic leadership on any major vote. This is institutional Democrat behavior, not independent power broker.
 
 ### Sponsored Bills:
 Swalwell's sponsored bills (from Congress.gov) are mostly symbolic:
-- Duty to Report Act (requiring campaigns to report foreign offers of assistance) — sponsored, not passed
-- Congressional Future Forum (bipartisan group addressing gun violence) — a caucus, not legislation
-- Student Loan Borrower Bill of Rights Act — sponsored, not passed
-- Federal funding for local police and fire departments (East Bay-specific) — local pork barrel, not major legislation
+- Duty to Report Act (requiring campaigns to report foreign offers of assistance), sponsored, not passed
+- Congressional Future Forum (bipartisan group addressing gun violence), a caucus, not legislation
+- Student Loan Borrower Bill of Rights Act, sponsored, not passed
+- Federal funding for local police and fire departments (East Bay-specific), local pork barrel, not major legislation
 
 ### Committee Work:
 Swalwell serves on House Intelligence and Judiciary committees. Intelligence Committee work is classified, so legislative impact is not visible. Judiciary Committee work is visible: Swalwell does not have major legislative initiatives there.
 
 ### The Absence of Major Legislative Accomplishment:
-Swalwell has not passed major legislation, authored significant policy initiatives, or achieved legislative accomplishments that would appear in a standard congressional record. His absence from Congress 8.7% of the time is high for a sitting representative — suggesting his cable news work is more central to his professional identity than his House work.
+Swalwell has not passed major legislation, authored significant policy initiatives, or achieved legislative accomplishments that would appear in a standard congressional record. His absence from Congress 8.7% of the time is high for a sitting representative, suggesting his cable news work is more central to his professional identity than his House work.
 
 ---
 
@@ -91,7 +91,7 @@ SEIU endorsed Swalwell (not Becerra, despite CNA also backing him; not Steyer, d
 
 ### The Congressional Record Through a Class Lens
 
-Swalwell's voting record shows 100% alignment with Biden — suggesting his votes consistently favor Democratic leadership positions. The question is: what do those positions include?
+Swalwell's voting record shows 100% alignment with Biden, suggesting his votes consistently favor Democratic leadership positions. The question is: what do those positions include?
 
 Without detailed vote-by-vote analysis, the class analysis observation is: a representative who votes 100% with Democratic leadership for 13 years is voting for:
 - Defense spending increases (Biden budget priorities)

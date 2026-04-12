@@ -99,7 +99,7 @@ Miriam Adelson has maintained the network and adapted it to post-Trump context:
 ### Trump Administration (2017-2021):
 - Recognition of Jerusalem as Israeli capital (2017)
 - Relocation of U.S. embassy to Jerusalem
-- Withdrawal from Iran nuclear agreement (JCPOA) — enabling Israeli/Saudi military planning against Iran
+- Withdrawal from Iran nuclear agreement (JCPOA), enabling Israeli/Saudi military planning against Iran
 - Support for Israeli settlements in occupied Palestinian territories (reversed normative U.S. position)
 - Blocking international investigation into Israeli military actions in Gaza
 - Blocking Palestinian refugee right of return (UNRWA defunding)
@@ -116,7 +116,7 @@ Despite Biden being elected without Adelson network support (switched to Trump),
 > The RJC frames itself as defending Jewish interests, yet its funding and political strategy has consistently enabled policies that increase Israeli government power while marginalizing Palestinian rights and opposing humanitarian investigation into civilian casualties. The organization aligns with Netanyahu government positions (right-wing expansionism, occupation hardline) while excluding Israeli peace advocates, Israeli leftists, and Jewish American opponents of occupation from political coalition. This represents capture of "Jewish" identity politics by a narrow Israeli right-wing agenda.
 
 ### 2024 Campaign Trajectory:
-RJC doubled down on Trump support post-2024 primaries, committing $100M+ to Trump campaign and super PACs despite Trump's previous statements about Jewish voters and his embrace of white nationalist supporters. The commitment reveals that RJC's pro-Israel commitment supersedes concerns about antisemitism within Trump coalition — illustrating that "pro-Israel" politics can override Jewish community interests broadly.
+RJC doubled down on Trump support post-2024 primaries, committing $100M+ to Trump campaign and super PACs despite Trump's previous statements about Jewish voters and his embrace of white nationalist supporters. The commitment reveals that RJC's pro-Israel commitment supersedes concerns about antisemitism within Trump coalition, illustrating that "pro-Israel" politics can override Jewish community interests broadly.
 
 ### Congressional Alignment:
 RJC funding has created a core bloc of 50+ House members and 10+ Senate Republicans who reflexively support all Israeli government positions. This bloc blocks investigations into Israeli military conduct, opposes Palestinian aid, and votes against any conditional statements on Israeli obligations to international law.
@@ -129,13 +129,13 @@ The Republican Jewish Coalition exemplifies **donor capture of ethnic/religious 
 
 The RJC also illustrates **how single-issue mega-donor networks override party ideology:** Republican candidates accept RJC funding and political support in exchange for automatic pro-Israel alignment, meaning Israeli government policy influences American electoral outcomes and congressional voting patterns through mega-donor mechanisms.
 
-The post-Adelson transition reveals **billionaire-driven political continuity:** When Sheldon Adelson died, Republican pro-Israel political commitments remained unchanged because Miriam Adelson inherited the network and mega-donor position. There was no democratic process, no reassessment of whether this agenda serves broader constituencies — merely continuation of billionaire-directed strategy.
+The post-Adelson transition reveals **billionaire-driven political continuity:** When Sheldon Adelson died, Republican pro-Israel political commitments remained unchanged because Miriam Adelson inherited the network and mega-donor position. There was no democratic process, no reassessment of whether this agenda serves broader constituencies, merely continuation of billionaire-directed strategy.
 
 The RJC also demonstrates **asymmetry in pro-Israel vs. pro-Palestinian funding:** Pro-Israel funding ($500M+ annually through RJC, AIPAC, and affiliated networks) vastly exceeds pro-Palestinian funding (roughly $50M+ annually through smaller organizations). This funding disparity directly translates to political disparity: pro-Israel positions dominate Congress not because they represent democratic majorities, but because they command superior financial resources.
 
 ---
 
-### Financial Overview (990 Filing — 2023)
+### Financial Overview (990 Filing, 2023)
 <!-- auto:propublica-990 start -->
 
 | Metric | Amount |

@@ -15,9 +15,9 @@ donors: [[Defense Industry Bloc]]
 
 ### What Happened
 
-[[_Tommy Tuberville Master Profile|Tommy Tuberville]] violated the STOCK Act — the Stop Trading on Congressional Knowledge Act, enacted in 2012 to prevent members of Congress from using non-public legislative information for personal financial gain — more than 130 times in his first year in office alone. The violations involved trades he was legally required to disclose within 45 days of execution; instead, he disclosed them late, in some cases by months. The total value of improperly disclosed trades in 2021 reached up to $3.56 million.
+[[_Tommy Tuberville Master Profile|Tommy Tuberville]] violated the STOCK Act, the Stop Trading on Congressional Knowledge Act, enacted in 2012 to prevent members of Congress from using non-public legislative information for personal financial gain, more than 130 times in his first year in office alone. The violations involved trades he was legally required to disclose within 45 days of execution; instead, he disclosed them late, in some cases by months. The total value of improperly disclosed trades in 2021 reached up to $3.56 million.
 
-The pattern did not stop in year one. By 2023, Tuberville and his wife reported more than 400 stock trades, placing him in the top five most active traders in Congress. In 2024, they reported 270 trades. Throughout this period, he maintained a seat on the Senate Armed Services Committee — one of the most powerful oversight positions in Congress for companies that manufacture weapons, provide logistics, and secure government contracts worth hundreds of billions of dollars annually.
+The pattern did not stop in year one. By 2023, Tuberville and his wife reported more than 400 stock trades, placing him in the top five most active traders in Congress. In 2024, they reported 270 trades. Throughout this period, he maintained a seat on the Senate Armed Services Committee, one of the most powerful oversight positions in Congress for companies that manufacture weapons, provide logistics, and secure government contracts worth hundreds of billions of dollars annually.
 
 ---
 
@@ -38,7 +38,7 @@ The STOCK Act, as written, relies on two mechanisms: disclosure requirements (tr
 
 In August 2021, the Campaign Legal Center filed a formal ethics complaint against Tuberville with the Senate Ethics Committee, documenting the 130+ violations. As of 2025, no enforcement action has been taken.
 
-This is not unique to Tuberville — the enforcement void is structural. When the Pelosi trading controversy emerged in 2021–2022, public attention briefly focused on congressional trading more broadly. A bipartisan STOCK Act reform bill (the ETHICS Act, the TRUST in Congress Act) was proposed but not passed. The current regime amounts to: disclose late, pay a nominal fine if caught, face no further consequences.
+This is not unique to Tuberville, the enforcement void is structural. When the Pelosi trading controversy emerged in 2021–2022, public attention briefly focused on congressional trading more broadly. A bipartisan STOCK Act reform bill (the ETHICS Act, the TRUST in Congress Act) was proposed but not passed. The current regime amounts to: disclose late, pay a nominal fine if caught, face no further consequences.
 
 ---
 
@@ -56,7 +56,7 @@ The comparison with Tuberville is instructive:
 | Enforcement action | None | None |
 | Annual trading volume | Significant | Top 5 in Congress (400+ trades, 2023) |
 
-The difference is not that Pelosi's trades were acceptable and Tuberville's were not — both illustrate the same structural failure. The difference is that Tuberville's violations occurred in an area where he had direct regulatory authority (Armed Services), in higher volume, with more systematic lateness, while receiving campaign donations from the same sector he was trading.
+The difference is not that Pelosi's trades were acceptable and Tuberville's were not, both illustrate the same structural failure. The difference is that Tuberville's violations occurred in an area where he had direct regulatory authority (Armed Services), in higher volume, with more systematic lateness, while receiving campaign donations from the same sector he was trading.
 
 > [!contradiction]
 > Tuberville ran on "draining the swamp" and outsider anti-establishment credibility. His STOCK Act violation record is worse, by volume, than most career politicians. The outsider brand provided cultural cover for behavior that the establishment politicians he criticized rarely matched in scale. The enforcement void that protects him is the same enforcement void that protects everyone else. He didn't change the swamp — he learned to use it faster.
@@ -67,7 +67,7 @@ The difference is not that Pelosi's trades were acceptable and Tuberville's were
 
 The STOCK Act passed with overwhelming bipartisan support in 2012. The enforcement mechanisms were gutted in a quiet amendment passed the same year. The original bill required detailed online disclosure of all trades by congressional staffers and executive branch officials; the amendment stripped the staff reporting requirement within two weeks of passage, after lobbying from affected parties.
 
-The pattern is consistent: transparency rules pass when politically convenient; enforcement mechanisms are weakened when politically inconvenient. The STOCK Act, as it currently operates, provides the appearance of accountability without the substance. Tuberville's 130+ violations — disclosed after the fact, generating no enforcement — are not an anomaly. They are the system working as designed by those who benefit from its weakness.
+The pattern is consistent: transparency rules pass when politically convenient; enforcement mechanisms are weakened when politically inconvenient. The STOCK Act, as it currently operates, provides the appearance of accountability without the substance. Tuberville's 130+ violations, disclosed after the fact, generating no enforcement, are not an anomaly. They are the system working as designed by those who benefit from its weakness.
 
 ---
 

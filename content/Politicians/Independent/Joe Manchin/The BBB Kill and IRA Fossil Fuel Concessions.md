@@ -34,18 +34,18 @@ donors: [[Fossil Fuel Bloc]] · [[Koch Network - Charles Koch]]
 
 | Date | Event | Donor Context |
 |------|-------|---------------|
-| July 28, 2021 | Manchin signs private memo with Schumer proposing $1.5T cap (vs. $3.5T sought). Demands Energy Committee "sole jurisdiction" over clean energy standard; requests "innovation not elimination" of fossil fuels; demands carbon capture support. | — |
+| July 28, 2021 | Manchin signs private memo with Schumer proposing $1.5T cap (vs. $3.5T sought). Demands Energy Committee "sole jurisdiction" over clean energy standard; requests "innovation not elimination" of fossil fuels; demands carbon capture support. |, |
 | Summer 2021 | Manchin holds "weekly meetings" with [[ExxonMobil]] lobbyists per leaked Greenpeace recordings. Exxon's stated strategy: push natural gas within any clean standards, not block standards outright. | ExxonMobil active lobbying |
-| October 15, 2021 | New York Times reports Manchin tells White House he **will not support CEPP**. White House begins revising bill to remove the $150B provision. | — |
-| October 20, 2021 | **E&E News reveals Manchin took $400,000+ from fossil fuel interests in July–October 2021 alone** — while negotiating BBB. Donor list: [[ConocoPhillips]], [[Energy Transfer Partners]], [[Williams Companies]], HollyFrontier, [[Plains All American]], [[Enterprise Products Partners]]. | **$400K fossil fuel surge during CEPP blockade** |
-| October 2021 | Manchin's stated reason for killing CEPP: *"I'm not going to sit back and let anyone accelerate whatever the market's changes are doing."* Claims BBB would "use taxpayer dollars to pay private companies to do things they're already doing" — both arguments disputed by energy analysts. | — |
-| Late Oct–Nov 2021 | Democrats delete entire CEPP from bill to keep Manchin. Remaining climate package shrinks to ~$320B in clean energy tax credits. Manchin also opposes methane fee and EV incentives. | — |
-| November 2021 | House passes revised BBB (CEPP removed) and sends to Senate. | — |
-| December 19, 2021 | **Manchin announces on Fox News Sunday (not to White House) that he will not support BBB at all.** Stated reasons: inflation, the deficit, Omicron variant. Says legislation would "dramatically reshape our society" and make nation "more vulnerable." Also jeopardizes black lung disease benefits for coal miners. Biden reportedly "blindsided." | — |
-| February 1, 2022 | Manchin declares BBB "dead" on Senate floor: *"I am not going to vote for Build Back Better."* | — |
-| Spring–June 2022 | Biden and Schumer resume negotiations with sharply scaled-back bill. Russia's invasion of Ukraine drives up gas prices, strengthening Manchin's "energy security" argument. | — |
-| July 2022 | Manchin again walks away from negotiations — even after appearing to agree to deal. Schumer tells colleagues deal is dead. | — |
-| July 27, 2022 | Manchin and Schumer surprise with **Inflation Reduction Act** deal — smaller bill with major fossil fuel concessions built in. | — |
+| October 15, 2021 | New York Times reports Manchin tells White House he **will not support CEPP**. White House begins revising bill to remove the $150B provision. |, |
+| October 20, 2021 | **E&E News reveals Manchin took $400,000+ from fossil fuel interests in July–October 2021 alone**, while negotiating BBB. Donor list: [[ConocoPhillips]], [[Energy Transfer Partners]], [[Williams Companies]], HollyFrontier, [[Plains All American]], [[Enterprise Products Partners]]. | **$400K fossil fuel surge during CEPP blockade** |
+| October 2021 | Manchin's stated reason for killing CEPP: *"I'm not going to sit back and let anyone accelerate whatever the market's changes are doing."* Claims BBB would "use taxpayer dollars to pay private companies to do things they're already doing", both arguments disputed by energy analysts. |, |
+| Late Oct–Nov 2021 | Democrats delete entire CEPP from bill to keep Manchin. Remaining climate package shrinks to ~$320B in clean energy tax credits. Manchin also opposes methane fee and EV incentives. |, |
+| November 2021 | House passes revised BBB (CEPP removed) and sends to Senate. |, |
+| December 19, 2021 | **Manchin announces on Fox News Sunday (not to White House) that he will not support BBB at all.** Stated reasons: inflation, the deficit, Omicron variant. Says legislation would "dramatically reshape our society" and make nation "more vulnerable." Also jeopardizes black lung disease benefits for coal miners. Biden reportedly "blindsided." |, |
+| February 1, 2022 | Manchin declares BBB "dead" on Senate floor: *"I am not going to vote for Build Back Better."* |, |
+| Spring–June 2022 | Biden and Schumer resume negotiations with sharply scaled-back bill. Russia's invasion of Ukraine drives up gas prices, strengthening Manchin's "energy security" argument. |, |
+| July 2022 | Manchin again walks away from negotiations, even after appearing to agree to deal. Schumer tells colleagues deal is dead. |, |
+| July 27, 2022 | Manchin and Schumer surprise with **Inflation Reduction Act** deal, smaller bill with major fossil fuel concessions built in. |, |
 
 ---
 
@@ -53,7 +53,7 @@ donors: [[Fossil Fuel Bloc]] · [[Koch Network - Charles Koch]]
 
 The IRA passed August 2022 with $369 billion in climate and energy investments. But Manchin's fossil fuel concessions restructured the bill to ensure continued fossil fuel expansion alongside renewable deployment.
 
-#### The Fossil Fuel Concessions — The Price of Manchin's Vote
+#### The Fossil Fuel Concessions. The Price of Manchin's Vote
 
 ### 1. Mandatory Oil and Gas Lease Sales (Offshore)
 
@@ -77,12 +77,12 @@ The IRA passed August 2022 with $369 billion in climate and energy investments. 
 - **303-mile natural gas pipeline** from West Virginia to Virginia
 - Manchin negotiated **separate side deal** with Schumer and Speaker Pelosi to hold votes on permitting reform legislation before fiscal year 2022 end
 - Would have:
-  - Fast-tracked MVP specifically
-  - Shortened NEPA environmental review from 6 years to 1–2 years
-  - Reduced lawsuit statute of limitations from 6 years to 150 days
-  - Blocked current MVP lawsuits
+ - Fast-tracked MVP specifically
+ - Shortened NEPA environmental review from 6 years to 1–2 years
+ - Reduced lawsuit statute of limitations from 6 years to 150 days
+ - Blocked current MVP lawsuits
 - **Permitting bill ultimately failed** in September 2022 when Progressive Caucus blocked it from spending resolution
-- Manchin tried again to attach it to December 2022 NDAA — also failed
+- Manchin tried again to attach it to December 2022 NDAA, also failed
 - **MVP ultimately completed in 2024** via separate legislation
 - **Donors involved:** [[Equitrans Midstream]] (MVP co-owner: $15,800 to Manchin 2017–2022 cycle); combined Manchin + Schumer received $340,000+ from MVP-related companies
 
@@ -94,8 +94,8 @@ The IRA passed August 2022 with $369 billion in climate and energy investments. 
 - Manchin specifically demanded this provision in July 2021 memo to Schumer
 - **Worth approximately $3 billion** in credits
 - **Beneficiaries:**
-  - [[Enterprise Products Partners]] ($159K donor; "game changer" per CEO)
-  - Coal-fired power plants (enabled Petra Nova CCS project in Texas to restart after 3-year idle; new projects at plants in New Mexico and North Dakota)
+ - [[Enterprise Products Partners]] ($159K donor; "game changer" per CEO)
+ - Coal-fired power plants (enabled Petra Nova CCS project in Texas to restart after 3-year idle; new projects at plants in New Mexico and North Dakota)
 - **Criticism:** 500+ environmental organizations argued CCS "delays needed transition away from fossil fuels" and uses unproven technology to extend coal and gas plant lifespans
 
 **Source:** [Sludge: Manchin Delivered 'Game Changer' to His Top Donor](https://readsludge.com/2022/08/29/manchin-delivered-game-changer-to-his-top-donor/) (Tier 2)
@@ -107,12 +107,12 @@ The IRA passed August 2022 with $369 billion in climate and energy investments. 
 - Includes $850 million in industry grants to monitor/reduce methane (effectively subsidizing compliance)
 - Manchin called original version "punitive"
 
-**Source:** [E&E News, July 28, 2022: Manchin revives climate deal — what's in the $369B bill](https://www.eenews.net/articles/manchin-revives-climate-deal-whats-in-the-369b-bill/) (Tier 2)
+**Source:** [E&E News, July 28, 2022: Manchin revives climate deal, what's in the $369B bill](https://www.eenews.net/articles/manchin-revives-climate-deal-whats-in-the-369b-bill/) (Tier 2)
 
 ### 6. Other Fossil Fuel Provisions
 
-- **Royalty rate increases** for oil and gas on federal land (Manchin framed as "balanced" — accepted higher rates in exchange for guaranteed auctions)
-- **API watermark on draft:** American Petroleum Institute watermark reportedly found on leaked memo of Manchin's permitting reform draft — suggesting API effectively wrote provisions of the legislation
+- **Royalty rate increases** for oil and gas on federal land (Manchin framed as "balanced", accepted higher rates in exchange for guaranteed auctions)
+- **API watermark on draft:** American Petroleum Institute watermark reportedly found on leaked memo of Manchin's permitting reform draft, suggesting API effectively wrote provisions of the legislation
 
 **Source:** [Food & Water Watch: Manchin's Dirty Side Deal Sidelined](https://www.foodandwaterwatch.org/2022/09/27/manchin-side-deal-removed/) (Tier 2)
 
@@ -121,7 +121,7 @@ The IRA passed August 2022 with $369 billion in climate and energy investments. 
 
 ---
 
-### The Fossil Fuel Donor Pipeline — Detailed Breakdown
+### The Fossil Fuel Donor Pipeline. Detailed Breakdown
 
 #### Top Corporate Donors (2017–2022 Cycle)
 
@@ -140,13 +140,13 @@ The IRA passed August 2022 with $369 billion in climate and energy investments. 
 | [[Equitrans Midstream]] | $15.8K | Spun off from EQT; Mountain Valley Pipeline co-owner |
 | [[Domestic Energy Producers Alliance]] | $14.5K | Industry group |
 | [[ExxonMobil]] | $10K | 2018 cycle; lobbyist Keith McCoy admitted "weekly meetings" with Manchin |
-| [[Shell USA]] | Donated 2022 | — |
-| [[Marathon Oil]] | Donated 2022 | — |
-| [[Ovintiv Inc]] | Donated 2022 | — |
+| [[Shell USA]] | Donated 2022 |, |
+| [[Marathon Oil]] | Donated 2022 |, |
+| [[Ovintiv Inc]] | Donated 2022 |, |
 
 **Source:** [OpenSecrets Contributors 2022 Cycle](https://www.fec.gov/data/candidate/S0WV00090/) (Tier 1) (UNVERIFIED)
 
-#### Oil & Gas Executives — Q3 2021 Peak Donations (During BBB Negotiations)
+#### Oil & Gas Executives. Q3 2021 Peak Donations (During BBB Negotiations)
 
 | Executive | Company | Title | Amount | Timing |
 |-----------|---------|-------|--------|--------|
@@ -162,16 +162,16 @@ The IRA passed August 2022 with $369 billion in climate and energy investments. 
 
 **Source:** [E&E News, October 20, 2021: Manchin has raked in $400K in fossil fuel donations](https://www.eenews.net/articles/manchin-has-raked-in-400k-in-fossil-fuel-donations/) (Tier 2)
 
-#### Company PACs — Q3 2021 Maximum Donations
+#### Company PACs. Q3 2021 Maximum Donations
 
 All six of these PACs donated exactly $5,000 (legal maximum) in the same quarter:
 
-- **[[ConocoPhillips]] PAC** — $5,000
-- **[[Energy Transfer Partners]] PAC** — $5,000
-- **HollyFrontier Corp PAC** — $5,000
-- **[[Williams Companies]] PAC** — $5,000
-- **Plains All American GP LLC PAC** — $5,000
-- **[[Enterprise Products Partners]] PAC** — $5,000
+- **[[ConocoPhillips]] PAC**, $5,000
+- **[[Energy Transfer Partners]] PAC**, $5,000
+- **HollyFrontier Corp PAC**, $5,000
+- **[[Williams Companies]] PAC**, $5,000
+- **Plains All American GP LLC PAC**, $5,000
+- **[[Enterprise Products Partners]] PAC**, $5,000
 
 **Total coordinated PAC donations:** $30,000 in single quarter
 
@@ -183,11 +183,11 @@ All six of these PACs donated exactly $5,000 (legal maximum) in the same quarter
 |---------|------------------|-----------------|-------|
 | [[NextEra Energy]] | $49.6K | Largest U.S. utility company |
 | [[Dominion Energy]] | $23.6K | Appalachian Power parent; Manchin's 2nd-largest Senate utility donor after Schumer (Chuck Schumer got more) |
-| [[DTE Energy]] | $15K | — |
-| [[PG&E Corporation]] | $17.8K | — |
-| [[Exelon]] | Donated Q3 2021 | — |
+| [[DTE Energy]] | $15K |, |
+| [[PG&E Corporation]] | $17.8K |, |
+| [[Exelon]] | Donated Q3 2021 |, |
 
-**Career utility donations:** Over Manchin's entire Senate career, utilities gave roughly **$647,452** — his 7th largest donor industry overall.
+**Career utility donations:** Over Manchin's entire Senate career, utilities gave roughly **$647,452**, his 7th largest donor industry overall.
 
 **2022 status:** Manchin ranked **#2 Senate recipient of utility money** (behind Chuck Schumer) for 2022 cycle. All utilities opposed CEPP because it would have penalized them for slow decarbonization.
 
@@ -197,11 +197,11 @@ All six of these PACs donated exactly $5,000 (legal maximum) in the same quarter
 
 | Company | 2010 Cycle Industry Total | 2011–2012 Cycle Industry Total |
 |---------|---------|---------|
-| [[CONSOL Energy]] | — | $3,940,000 |
-| [[Peabody Energy]] | — | $3,860,000 |
+| [[CONSOL Energy]] |, | $3,940,000 |
+| [[Peabody Energy]] |, | $3,860,000 |
 | [[Alpha Natural Resources]] | $608,000 | $2,646,395 |
 | [[Arch Coal]] | $1,910,000 | $1,810,000 |
-| [[Murray Energy]] | $559,000 | — |
+| [[Murray Energy]] | $559,000 |, |
 
 **Manchin's status:** Designated **#1 coal mining industry recipient in the Senate** in both 2010 and 2012 cycles.
 
@@ -215,7 +215,7 @@ All six of these PACs donated exactly $5,000 (legal maximum) in the same quarter
 
 ### Energy Committee Chairmanship: Structural Amplification of Fossil Fuel Influence
 
-Manchin became a member of the Senate Energy and Natural Resources Committee when he entered the Senate in **November 2010**. After Democrats took the Senate majority in 2020, he became **chairman** — a position that gave him extraordinary power over energy legislation, oversight, nominations, and hearings.
+Manchin became a member of the Senate Energy and Natural Resources Committee when he entered the Senate in **November 2010**. After Democrats took the Senate majority in 2020, he became **chairman**, a position that gave him extraordinary power over energy legislation, oversight, nominations, and hearings.
 
 ### Committee jurisdiction includes:
 - Federal oil, gas, and coal leasing on public lands
@@ -240,10 +240,10 @@ Manchin became a member of the Senate Energy and Natural Resources Committee whe
 - **March 2022:** Only Democrat to join Republicans in voting to overturn EPA heavy-duty truck emissions regulation
 - **May 2023:** Vowed to oppose every Biden EPA nominee in anticipation of proposed EPA rules on coal and natural gas power plant emissions
 - **FY2023–2024:** Inserted report language into funding bills directing DOE to give "full and fair consideration" to fossil fuel projects and not "discriminate" against coal or natural gas power plants
-- **February 2023:** Convened Energy Committee hearing on coal technology where he personally pushed DOE to invest in "gob" waste coal — the exact fuel his own Enersystems company burns, earning him $500K+/year
+- **February 2023:** Convened Energy Committee hearing on coal technology where he personally pushed DOE to invest in "gob" waste coal, the exact fuel his own Enersystems company burns, earning him $500K+/year
 - **July 2024:** Co-authored **Energy Permitting Reform Act of 2024** with Sen. John Barrasso (R-WY) requiring minimum federal oil/gas/coal lease sales; extended oil and gas drill permits; fast-tracked offshore gas under FAST-41; set coal leasing deadlines. Passed committee but never reached full Senate.
 
-**Enterprise Products Partners leverage:** Manchin's largest corporate donor ($159K in 2017–2022 cycle) also gave **$369,700 to members of the Senate Energy Committee** in 2022 — using the committee as an investment vehicle.
+**Enterprise Products Partners leverage:** Manchin's largest corporate donor ($159K in 2017–2022 cycle) also gave **$369,700 to members of the Senate Energy Committee** in 2022, using the committee as an investment vehicle.
 
 **Source:** [Senate Energy Committee 2023 Year in Review](https://www.energy.senate.gov/2024/1/senate-energy-and-natural-resources-committee-2023-year-in-review) (Tier 1) (UNVERIFIED)
 

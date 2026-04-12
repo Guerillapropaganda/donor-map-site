@@ -19,7 +19,7 @@ donors: [[Koch Network - Charles Koch]], [[Concerned Veterans for America]]
 
 ### Key Connections
 - **Koch network / CVA:** "Strongly supported" by Concerned Veterans for America throughout career. Championed CVA legislative priorities in Congress. Now implements them as Secretary.
-- **Privatization pipeline:** Confirmation hearing rhetoric — "there'll always be a VA for the veteran" — contradicted by immediate actions: unprecedented staff reductions at VA health centers, expansion of private provider referrals, proposals to cut VA resources and redirect "savings" to outsourced community care.
+- **Privatization pipeline:** Confirmation hearing rhetoric, "there'll always be a VA for the veteran", contradicted by immediate actions: unprecedented staff reductions at VA health centers, expansion of private provider referrals, proposals to cut VA resources and redirect "savings" to outsourced community care.
 - **DOGE alignment:** Embraced DOGE workforce cuts at VA. Staff reductions create appointment delays → veterans pushed to community care (private networks run by Optum/TriWest) → private contractor revenue increases. Circular logic: engineered crisis justifies outsourcing.
 - **Pre-appointment revenue streams:** 2024 income included $623,500 from Dogwood Strategies (government affairs firm), $104,000 from America First Policy Institute (pro-Trump think tank), $18,000 from Newsmax, $28,000 from Salem Media Group. Conservative media and lobbying pipeline before Cabinet appointment.
 - **Hegseth pairing:** Hegseth (Defense Secretary, former CVA executive director) and Collins (VA Secretary, CVA legislative ally) now control both Pentagon and VA. Koch privatization ideology runs both institutions simultaneously.
@@ -37,7 +37,7 @@ Koch network (via CVA), conservative media (Newsmax, Salem Media), America First
 - [CNN: Hegseth and Collins push cutting veterans' health benefits](https://www.cnn.com/2024/12/07/politics/pete-hegseth-doug-collins-veterans-health-care/index.html) (Tier 2)
 - [Veterans Healthcare Policy Institute: Four Misleading Arguments](https://www.veteranspolicy.org/journalism-and-commentary/journalism/the-four-misleading-arguments-made-by-doug-collins) (Tier 2)
 - [OpenSecrets: Doug Collins campaign finance](https://www.opensecrets.org/members-of-congress/summary?cid=N00033518) (Tier 1)
-- [OpenSecrets: Trump administration profile — Doug Collins](https://www.opensecrets.org/news/2025/04/trump-administration-profile-doug-collins/) (Tier 1)
+- [OpenSecrets: Trump administration profile. Doug Collins](https://www.opensecrets.org/news/2025/04/trump-administration-profile-doug-collins/) (Tier 1)
 - [OpenSecrets: How money is driving push to privatize veterans' health care](https://www.opensecrets.org/news/2025/12/how-money-is-driving-the-push-to-privatize-veterans-health-care/) (Tier 1)
 - [American Prospect: Privatizing Veterans' Health Care Will Be a Disaster](https://prospect.org/2025/07/30/2025-07-30-privatizing-veterans-health-care-will-be-disaster/) (Tier 2)
 - [Congress.gov: Collins nomination](https://www.congress.gov/nomination/119th-congress/11/5) (Tier 1)

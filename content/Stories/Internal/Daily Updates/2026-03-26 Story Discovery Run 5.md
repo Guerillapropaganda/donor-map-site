@@ -19,21 +19,21 @@ known-gaps:
 
 **Task:** story-discovery (automated run)
 **Date:** 2026-03-26
-**Sources verified:** 12 Chrome browser load tests — all VALID (1 verified via web search confirmation, all UNVERIFIED tags cleared)
+**Sources verified:** 12 Chrome browser load tests, all VALID (1 verified via web search confirmation, all UNVERIFIED tags cleared)
 
 ---
 
-### Diamond — Fed Rolls Back Bank Capital Rules After Years of Wall Street Lobbying
+### Diamond. Fed Rolls Back Bank Capital Rules After Years of Wall Street Lobbying
 
-**What happened:** On March 19, 2026, the Federal Reserve, FDIC, and OCC unveiled proposals to ease capital requirements for the largest banks by ~5%. This is the biggest regulatory rollback of post-2008 bank safeguards to date — the culmination of nearly three years of intense Wall Street lobbying against the stricter Basel III endgame proposal.
+**What happened:** On March 19, 2026, the Federal Reserve, FDIC, and OCC unveiled proposals to ease capital requirements for the largest banks by ~5%. This is the biggest regulatory rollback of post-2008 bank safeguards to date, the culmination of nearly three years of intense Wall Street lobbying against the stricter Basel III endgame proposal.
 
-**The donor-to-policy pipeline:** Wall Street institutions spent years lobbying against the original Basel III endgame rules. Fed Vice Chair for Supervision Michelle Bowman previewed the relaxed proposals in a March 12 speech at the Cato Institute. The revised rules would free up billions for share buybacks and dividends — a direct transfer of regulatory protection from the public to bank shareholders.
+**The donor-to-policy pipeline:** Wall Street institutions spent years lobbying against the original Basel III endgame rules. Fed Vice Chair for Supervision Michelle Bowman previewed the relaxed proposals in a March 12 speech at the Cato Institute. The revised rules would free up billions for share buybacks and dividends, a direct transfer of regulatory protection from the public to bank shareholders.
 
-**Class analysis:** This is a textbook Donor-Class Override. The original Basel III endgame rules were designed to prevent another 2008-style collapse. The banking lobby didn't just weaken them — they got regulators to rewrite the rules in their favor. The 5% capital reduction means less cushion against systemic risk, while freeing capital for shareholder payouts. The public bears the downside risk; Wall Street captures the upside.
+**Class analysis:** This is a textbook Donor-Class Override. The original Basel III endgame rules were designed to prevent another 2008-style collapse. The banking lobby didn't just weaken them, they got regulators to rewrite the rules in their favor. The 5% capital reduction means less cushion against systemic risk, while freeing capital for shareholder payouts. The public bears the downside risk; Wall Street captures the upside.
 
-**Vault relevance:** Intersects with Wall Street donor nodes. Could feed into sub-notes on any politician who received major bank PAC money and publicly supported the rollback. Also relevant to the Both-Sides Illusion pattern — Democrats who took bank money while nominally supporting regulation.
+**Vault relevance:** Intersects with Wall Street donor nodes. Could feed into sub-notes on any politician who received major bank PAC money and publicly supported the rollback. Also relevant to the Both-Sides Illusion pattern. Democrats who took bank money while nominally supporting regulation.
 
-**Additionally:** Two Republican members of Congress who received nearly $5 million in financial sector donations are pushing federal legislation to override state interest rate protections, allowing lenders to charge potentially exorbitant rates — a direct donor-to-legislation pipeline.
+**Additionally:** Two Republican members of Congress who received nearly $5 million in financial sector donations are pushing federal legislation to override state interest rate protections, allowing lenders to charge potentially exorbitant rates, a direct donor-to-legislation pipeline.
 
 ### Sources:
 - [Axios: Wall Street cops propose new slate of easier big bank rules](https://www.axios.com/2026/03/19/fed-bank-wall-street-regulation) (Tier 2)
@@ -42,32 +42,32 @@ known-gaps:
 
 ---
 
-### Gold — AIPAC's $22M Illinois Primary Blitz and Dark Money Laundering
+### Gold. AIPAC's $22M Illinois Primary Blitz and Dark Money Laundering
 
-**What happened:** AIPAC and its affiliated super PAC United Democracy Project (UDP) spent roughly $22 million in Illinois House Democratic primaries on March 17, 2026. Critically, AIPAC's super PAC seeded two anonymous groups that funneled over $14 million into races — obscuring the money trail. Results were mixed: AIPAC-backed candidates won two races (Bean, Miller) but AIPAC-opposed candidates also prevailed in two others (Ford, Biss).
+**What happened:** AIPAC and its affiliated super PAC United Democracy Project (UDP) spent roughly $22 million in Illinois House Democratic primaries on March 17, 2026. Critically, AIPAC's super PAC seeded two anonymous groups that funneled over $14 million into races, obscuring the money trail. Results were mixed: AIPAC-backed candidates won two races (Bean, Miller) but AIPAC-opposed candidates also prevailed in two others (Ford, Biss).
 
-**The donor-to-policy pipeline:** AIPAC has amassed a $100M+ war chest for the 2026 cycle. The organization is running a systematic campaign to punish Democrats who criticize Israeli policy and reward those who remain aligned. The dark money laundering through anonymous affiliate groups is a new escalation — AIPAC's super PAC funded groups whose names obscure the Israel lobby connection.
+**The donor-to-policy pipeline:** AIPAC has amassed a $100M+ war chest for the 2026 cycle. The organization is running a systematic campaign to punish Democrats who criticize Israeli policy and reward those who remain aligned. The dark money laundering through anonymous affiliate groups is a new escalation. AIPAC's super PAC funded groups whose names obscure the Israel lobby connection.
 
-**Class analysis:** This is Dark Money Symmetry in action. AIPAC — which positions itself as bipartisan — is functionally operating as a dark money operation within Democratic primaries, using anonymous shell groups to hide the source of spending. A new progressive counter-PAC has launched with $10M to fight back, but the asymmetry in resources is vast.
+**Class analysis:** This is Dark Money Symmetry in action. AIPAC, which positions itself as bipartisan, is functionally operating as a dark money operation within Democratic primaries, using anonymous shell groups to hide the source of spending. A new progressive counter-PAC has launched with $10M to fight back, but the asymmetry in resources is vast.
 
-**Vault relevance:** Directly relevant to the [[AIPAC - American Israel Public Affairs Committee|AIPAC]] donor node, any Illinois politician profiles, and the Dark Money sector. The Intercept reported that while AIPAC officially stayed out of the Illinois Senate race, its individual donors heavily backed Juliana Stratton — revealing the difference between institutional positioning and donor-class coordination.
+**Vault relevance:** Directly relevant to the [[AIPAC - American Israel Public Affairs Committee|AIPAC]] donor node, any Illinois politician profiles, and the Dark Money sector. The Intercept reported that while AIPAC officially stayed out of the Illinois Senate race, its individual donors heavily backed Juliana Stratton, revealing the difference between institutional positioning and donor-class coordination.
 
 ### Sources:
 - [WBEZ: Pro-Israel group's donors and affiliates pour $13.7 million into Chicago-area primaries](https://www.wbez.org/politics/2026/02/27/aipac-pro-israel-groups-chicago-area-democratic-congressional-primaries-miller-conyears-ervin-bean-fine) (Tier 2)
 - [NBC News: New super PAC launches to counter AIPAC spending in Democratic primaries](https://www.nbcnews.com/politics/2026-election/new-super-pac-launches-counter-aipac-spending-democratic-primaries-rcna259448) (Tier 2)
-- [The Intercept: AIPAC Stays Out of Illinois Senate Race — But Its Donors Back Juliana Stratton](https://theintercept.com/2026/03/12/aipac-illinois-senate-stratton-kelly-krishnamoorthi/) (Tier 2)
+- [The Intercept: AIPAC Stays Out of Illinois Senate Race. But Its Donors Back Juliana Stratton](https://theintercept.com/2026/03/12/aipac-illinois-senate-stratton-kelly-krishnamoorthi/) (Tier 2)
 - [Sludge: Here Is How Much AIPAC Has Funneled to Every Member of Congress](https://readsludge.com/2026/03/01/here-is-how-much-aipac-has-funneled-to-every-member-of-congress/) (Tier 2)
 - [WaPo: Super PAC spending surges in midterms; some groups hide their cause](https://www.washingtonpost.com/politics/2026/03/21/israel-midterms-spending-pacs/) (Tier 2)
 
 ---
 
-### Gold — Crypto Industry Doubles 2024 Spending, Fairshake Targets Anti-Crypto Democrats
+### Gold. Crypto Industry Doubles 2024 Spending, Fairshake Targets Anti-Crypto Democrats
 
-**What happened:** The cryptocurrency industry has dumped at least $288 million into the 2026 midterms — more than double the $130 million spent in 2024. Fairshake, backed by Coinbase, Andreessen Horowitz, and Ripple, has $193 million in its war chest. In early March, Fairshake marked its first primary wins and spent $1.5 million targeting Rep. Al Green (D-TX), forcing him into a runoff against pro-blockchain candidate Christian Menefee.
+**What happened:** The cryptocurrency industry has dumped at least $288 million into the 2026 midterms, more than double the $130 million spent in 2024. Fairshake, backed by Coinbase, Andreessen Horowitz, and Ripple, has $193 million in its war chest. In early March, Fairshake marked its first primary wins and spent $1.5 million targeting Rep. Al Green (D-TX), forcing him into a runoff against pro-blockchain candidate Christian Menefee.
 
-**The donor-to-policy pipeline:** Fairshake's $193M war chest coincided with the crypto industry's push for favorable regulation. The PAC touts its spending at the same moment regulatory bills face first votes in Congress. The explicit mission — to oppose anti-crypto politicians and support pro-crypto leaders — is a direct transactional framing: money for policy alignment.
+**The donor-to-policy pipeline:** Fairshake's $193M war chest coincided with the crypto industry's push for favorable regulation. The PAC touts its spending at the same moment regulatory bills face first votes in Congress. The explicit mission, to oppose anti-crypto politicians and support pro-crypto leaders, is a direct transactional framing: money for policy alignment.
 
-**Class analysis:** This is the Self-Funding as Independence pattern inverted — it's not a billionaire funding themselves, but a billionaire-funded industry PAC buying an entire congressional caucus. The crypto industry's strategy makes the donor-to-policy pipeline explicit and unapologetic. Green's offense was voting against crypto-friendly legislation and earning an "F" from Stand With Crypto — the punishment is a $1.5M primary challenge.
+**Class analysis:** This is the Self-Funding as Independence pattern inverted, it's not a billionaire funding themselves, but a billionaire-funded industry PAC buying an entire congressional caucus. The crypto industry's strategy makes the donor-to-policy pipeline explicit and unapologetic. Green's offense was voting against crypto-friendly legislation and earning an "F" from Stand With Crypto, the punishment is a $1.5M primary challenge.
 
 **Vault relevance:** Directly relevant to Tech & Crypto donor nodes, Fairshake PAC profile, and any politician profiles targeted by crypto money. The Al Green race is a case study in Donor-Class Override.
 
@@ -78,13 +78,13 @@ known-gaps:
 
 ---
 
-### Gold — Elon Musk's $71M GOP Midterm Investment
+### Gold. Elon Musk's $71M GOP Midterm Investment
 
 **What happened:** Elon Musk has donated roughly $71 million to Republican causes for the 2026 midterms, making him the top individual campaign spender. Key donations: $10M to Kentucky Senate candidate Nate Morris (to replace McConnell), $5M each to Congressional Leadership Fund and Senate Leadership Fund, and $5M to Trump's MAGA Inc. This comes after Musk said in May 2025 he would "do a lot less" political spending.
 
 **The donor-to-policy pipeline:** Musk's political spending coincides with his government role through DOGE (Department of Government Efficiency) and ongoing federal contracts through SpaceX and Tesla. The spending-to-access pipeline is direct: the man running a government cost-cutting operation is simultaneously the largest individual donor to the party controlling Congress.
 
-**Class analysis:** This is the ultimate Both-Sides Illusion breaker — Musk isn't playing both sides, he's building one side. The $71M buys structural loyalty across the GOP congressional apparatus. His Kentucky investment to replace McConnell signals an effort to shape the Senate leadership pipeline, not just individual races.
+**Class analysis:** This is the ultimate Both-Sides Illusion breaker. Musk isn't playing both sides, he's building one side. The $71M buys structural loyalty across the GOP congressional apparatus. His Kentucky investment to replace McConnell signals an effort to shape the Senate leadership pipeline, not just individual races.
 
 **Vault relevance:** Directly relevant to Mega-Donors sector, any Musk donor node, and Republican politician profiles receiving his money. The 50 billionaire families collectively pumping $430M+ into midterms provides the macro context.
 
@@ -95,7 +95,7 @@ known-gaps:
 
 ---
 
-### Silver — PBM Reform Passes Despite Pharma Lobbying — But Watch the Fine Print
+### Silver. PBM Reform Passes Despite Pharma Lobbying. But Watch the Fine Print
 
 **What happened:** Congress passed PBM (pharmacy benefit manager) reform as part of the Consolidated Appropriations Act 2026, requiring PBMs to pass through 100% of rebates to plan clients. The bill passed the House 217-214 on February 3, 2026. Meanwhile, Rep. Jake Auchincloss (MA-4) took nearly $1M from Big Pharma across 5 cycles while opposing drug price negotiation.
 
@@ -107,11 +107,11 @@ known-gaps:
 
 ### Sources:
 - [Mintz: Congress Passes Landmark PBM Reform in 2026 Spending Bill](https://www.mintz.com/insights-center/viewpoints/2146/2026-02-06-congress-passes-landmark-pbm-reform-2026-spending-bill) (Tier 3)
-- [Poulos for Massachusetts: How Pharmaceutical Industry Money Blocks Congressional Drug Price Reform](https://poulos.house/2026/01/17/pharmaceutical-money-blocks-drug-price-reform.html) (Tier 4 — campaign site, independently verify claims)
+- [Poulos for Massachusetts: How Pharmaceutical Industry Money Blocks Congressional Drug Price Reform](https://poulos.house/2026/01/17/pharmaceutical-money-blocks-drug-price-reform.html) (Tier 4, campaign site, independently verify claims)
 
 ---
 
-### Silver — DISCLOSE Act Reintroduction Is Theater While Dark Money Flows
+### Silver. DISCLOSE Act Reintroduction Is Theater While Dark Money Flows
 
 **What happened:** In March 2026, 180+ Democrats reintroduced the DISCLOSE Act, which would require disclosure of donors giving $10,000+ to political organizations. The updated version captures social media influencer payments as political spending. All 47 Democratic senators and 139 House Democrats co-sponsor. The bill has zero chance of passing a Republican-controlled Congress.
 
@@ -125,7 +125,7 @@ known-gaps:
 
 ---
 
-### Bronze — Macro Context: 2026 Is the Most Expensive Midterm in History
+### Bronze. Macro Context: 2026 Is the Most Expensive Midterm in History
 
 ### Data points:
 - Total political ad spending projected at $10.8 billion (20%+ over 2022)
@@ -143,10 +143,10 @@ known-gaps:
 
 ### Story Leads for Follow-Up
 
-1. **Fed Capital Rollback — Who benefits?** Map which bank PAC donors gave to which senators/representatives, then track their public statements on Basel III. This is a Diamond-tier investigation waiting to happen.
-2. **AIPAC Dark Money Shell Groups** — The anonymous groups seeded by AIPAC's super PAC in Illinois need deeper investigation. What are they called? Who runs them? This is a Dark Money Symmetry case study.
-3. **Fairshake vs. Al Green Runoff** — Track the runoff spending. If Fairshake escalates beyond $1.5M, this becomes a case study in industry PACs overriding constituency preferences.
-4. **Musk's DOGE + Campaign Spending Overlap** — The man cutting government while funding the party that controls government is a structural conflict of interest story. Cross-reference DOGE actions with Musk's donor recipients.
-5. **PBM Reform — Who Voted No?** — 217-214 is razor-thin. Who were the holdouts, and what pharma money did they take?
+1. **Fed Capital Rollback. Who benefits?** Map which bank PAC donors gave to which senators/representatives, then track their public statements on Basel III. This is a Diamond-tier investigation waiting to happen.
+2. **AIPAC Dark Money Shell Groups**. The anonymous groups seeded by AIPAC's super PAC in Illinois need deeper investigation. What are they called? Who runs them? This is a Dark Money Symmetry case study.
+3. **Fairshake vs. Al Green Runoff**. Track the runoff spending. If Fairshake escalates beyond $1.5M, this becomes a case study in industry PACs overriding constituency preferences.
+4. **Musk's DOGE + Campaign Spending Overlap**. The man cutting government while funding the party that controls government is a structural conflict of interest story. Cross-reference DOGE actions with Musk's donor recipients.
+5. **PBM Reform. Who Voted No?**, 217-214 is razor-thin. Who were the holdouts, and what pharma money did they take?
 
 ---

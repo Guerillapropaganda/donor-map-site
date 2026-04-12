@@ -44,13 +44,13 @@ audit-a-plus-passed: "2026-04-11"
 
 ### Who He Is
 
-[[Paul Singer]]. Founder and co-CEO of Elliott Management ($72.7 billion AUM, founded 1977 with $1.3 million). Net worth $5.5+ billion. The Republican Party's most sophisticated donor — funds candidates, controls judicial access, and profits from the policy outcomes his donations produce.
+[[Paul Singer]]. Founder and co-CEO of Elliott Management ($72.7 billion AUM, founded 1977 with $1.3 million). Net worth $5.5+ billion. The Republican Party's most sophisticated donor, funds candidates, controls judicial access, and profits from the policy outcomes his donations produce.
 
 ---
 
 ### What He Wants
 
-Access to the Supreme Court and foreign policy that serves his investment strategy. Singer's business model is vulture/activist investing — buying distressed sovereign debt and corporate assets cheaply, then using litigation and political pressure to extract maximum value. His political donations purchase the foreign policy hawks and judicial access that make this model work.
+Access to the Supreme Court and foreign policy that serves his investment strategy. Singer's business model is vulture/activist investing, buying distressed sovereign debt and corporate assets cheaply, then using litigation and political pressure to extract maximum value. His political donations purchase the foreign policy hawks and judicial access that make this model work.
 
 ---
 
@@ -76,7 +76,7 @@ Access to the Supreme Court and foreign policy that serves his investment strate
 ### What He's Gotten
 
 ### The Alito Alaska Trip and the $2.4 Billion Argentina Payday:
-In July 2008, [[Leonard Leo|Leonard Leo]] arranged a luxury fishing trip to King Salmon Lodge, Alaska. Participants: Justice [[_Samuel Alito Master Profile|Samuel Alito]], [[Paul Singer]], conservative judge A. Raymond Randolph, and lodge owner Robin Arkley II. Leo invited Singer and asked if he'd provide private jet travel for Alito — the flight alone would have cost $100,000 if Alito chartered it himself. Alito never disclosed the trip. Singer subsequently brought 10+ cases before the Supreme Court. Alito never recused himself.
+In July 2008, [[Leonard Leo|Leonard Leo]] arranged a luxury fishing trip to King Salmon Lodge, Alaska. Participants: Justice [[_Samuel Alito Master Profile|Samuel Alito]], [[Paul Singer]], conservative judge A. Raymond Randolph, and lodge owner Robin Arkley II. Leo invited Singer and asked if he'd provide private jet travel for Alito, the flight alone would have cost $100,000 if Alito chartered it himself. Alito never disclosed the trip. Singer subsequently brought 10+ cases before the Supreme Court. Alito never recused himself.
 
 The most consequential case: Republic of Argentina v. NML Capital (2014). The Supreme Court ruled 7-1 in favor of Singer's NML Capital subsidiary, enabling the $2.4 billion settlement with Argentina under President Macri in 2016. Singer's initial investment: approximately $117 million in distressed Argentine bonds. The return: 2,000%.
 
@@ -87,11 +87,11 @@ The most consequential case: Republic of Argentina v. NML Capital (2014). The Su
 
 ### The Argentina Vulture Fund Model
 
-NML Capital — Elliott Management's Cayman Islands subsidiary — purchased Argentine bonds after the country's 2001 default on $82 billion in sovereign debt. The strategy: buy defaulted debt at pennies on the dollar, refuse restructuring deals that other creditors accept (93% of bondholders agreed to take 30 cents), then litigate for full repayment plus interest.
+NML Capital. Elliott Management's Cayman Islands subsidiary, purchased Argentine bonds after the country's 2001 default on $82 billion in sovereign debt. The strategy: buy defaulted debt at pennies on the dollar, refuse restructuring deals that other creditors accept (93% of bondholders agreed to take 30 cents), then litigate for full repayment plus interest.
 
-Tactics included persuading a court in Ghana to seize the ARA Libertad, an Argentine naval vessel. U.S. District Judge Thomas Griesa ruled Argentina couldn't pay any other bondholders unless it settled with NML first — effectively holding an entire nation's debt restructuring hostage to one hedge fund.
+Tactics included persuading a court in Ghana to seize the ARA Libertad, an Argentine naval vessel. U.S. District Judge Thomas Griesa ruled Argentina couldn't pay any other bondholders unless it settled with NML first, effectively holding an entire nation's debt restructuring hostage to one hedge fund.
 
-The $2.4 billion payout was part of a $4.65 billion settlement with four hedge funds under President Macri. The settlement changed global sovereign debt practices — developing nations now include "collective action clauses" to prevent holdout creditors from extracting above-market returns through litigation.
+The $2.4 billion payout was part of a $4.65 billion settlement with four hedge funds under President Macri. The settlement changed global sovereign debt practices, developing nations now include "collective action clauses" to prevent holdout creditors from extracting above-market returns through litigation.
 
 ---
 
@@ -106,16 +106,16 @@ The $2.4 billion payout was part of a $4.65 billion settlement with four hedge f
 
 | Date | Event/Contribution | Amount | Policy Action | Time Gap | Outcome |
 |---|---|---|---|---|---|
-| 2008-07 | Singer provides private jet for Alito Alaska fishing trip (Leo-arranged) | ~$100K (flight value) | Alito never recuses from Singer's cases; trip never disclosed | — | Access to sitting Supreme Court justice secured |
+| 2008-07 | Singer provides private jet for Alito Alaska fishing trip (Leo-arranged) | ~$100K (flight value) | Alito never recuses from Singer's cases; trip never disclosed |, | Access to sitting Supreme Court justice secured |
 | 2010 | Koch network participation | $10M+ | Tax policy, deregulation, conservative judicial infrastructure | Multi-year | Singer embedded in conservative mega-donor ecosystem |
-| 2012 | Founds American Unity PAC (pro-gay-marriage Republican) | $1M seed + $815K | Marriage equality gains Republican donor support | — | Social liberalism coexists with economic predation model |
-| 2014-06 | Singer's NML Capital wins Republic of Argentina v. NML Capital at SCOTUS | — | 7-1 ruling enables NML to enforce distressed bond claims against Argentina | 6 years after fishing trip | Alito votes with majority; never recuses despite Singer relationship |
+| 2012 | Founds American Unity PAC (pro-gay-marriage Republican) | $1M seed + $815K | Marriage equality gains Republican donor support |, | Social liberalism coexists with economic predation model |
+| 2014-06 | Singer's NML Capital wins Republic of Argentina v. NML Capital at SCOTUS |, | 7-1 ruling enables NML to enforce distressed bond claims against Argentina | 6 years after fishing trip | Alito votes with majority; never recuses despite Singer relationship |
 | 2014 | Singer funds Tom Cotton Senate campaign | $415K+ direct + super PAC | Cotton wins; writes Iran letter 60 days into office | ~4 months | Singer's #2 donation produces Iran hawk in Senate |
 | 2016 | $24M to Republican/conservative outside groups; $15.5M Make America Number 1 | $24M total | 2016 election funding; initially anti-Trump, pivots to support | Concurrent | Singer backs Cruz, then supports Trump general election |
-| 2016 | Argentina settles with NML Capital under President Macri | — | $2.4B settlement (part of $4.65B total to four hedge funds) | 2 years after SCOTUS ruling | Singer's $117M investment returns $2.4B — 2,000% ROI |
+| 2016 | Argentina settles with NML Capital under President Macri |, | $2.4B settlement (part of $4.65B total to four hedge funds) | 2 years after SCOTUS ruling | Singer's $117M investment returns $2.4B, 2,000% ROI |
 | 2019 | $3.3M+ to Birthright Israel Foundation; $1.25M to AIEF | $4.55M | Pro-Israel advocacy and congressional travel funded | Ongoing | Pro-Israel foreign policy ecosystem maintained |
 | 2022 | $1M to United Democracy Project (AIPAC super PAC) | $1M | UDP spends $33M+ in Democratic primaries against progressives | Concurrent | Pro-Israel congressional majority reinforced |
-| 2024-06 | $10M to Senate Leadership Fund | $10M | Republican Senate campaign infrastructure funded | — | Read Sludge: "Facing Dem scrutiny, Alito benefactor donates $10M to GOP" |
+| 2024-06 | $10M to Senate Leadership Fund | $10M | Republican Senate campaign infrastructure funded |, | Read Sludge: "Facing Dem scrutiny, Alito benefactor donates $10M to GOP" |
 | 2024 | $25M to SLF, $12M to CLF, $5M to MAGA Inc. | $42M+ total | 2024 election: Trump elected, Republican Congress | Concurrent | Singer becomes seventh-largest donor to outside groups |
 | 2025–2026 | Second-largest UDP contributor (behind AIPAC's direct transfer) | Undisclosed (multi-million) | 2026 midterm pro-Israel spending | Ongoing | Singer funding both Republican infrastructure and pro-Israel Democratic primary spending |
 
@@ -150,7 +150,7 @@ The $2.4 billion payout was part of a $4.65 billion settlement with four hedge f
 
 > This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.
 
-### Financial Overview (990 Filing — 2023)
+### Financial Overview (990 Filing, 2023)
 <!-- auto:propublica-990 start -->
 | Metric | Amount |
 |--------|--------|

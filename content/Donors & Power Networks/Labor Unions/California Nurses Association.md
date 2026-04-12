@@ -54,7 +54,7 @@ audit-a-plus-passed: "2026-04-11"
 
 ### Who They Are
 
-California Nurses Association (CNA). The most politically aggressive healthcare union in America, representing 100,000+ registered nurses in California and affiliated with National Nurses United (NNU), the nation's largest nurses' union (225,000+ members). CNA is the leading institutional advocate for single-payer healthcare (Medicare for All) — the union has championed California single-payer legislation (AB 1400, SB 562) and the national Medicare for All Act with a political intensity that exceeds any other institutional supporter.
+California Nurses Association (CNA). The most politically aggressive healthcare union in America, representing 100,000+ registered nurses in California and affiliated with National Nurses United (NNU), the nation's largest nurses' union (225,000+ members). CNA is the leading institutional advocate for single-payer healthcare (Medicare for All), the union has championed California single-payer legislation (AB 1400, SB 562) and the national Medicare for All Act with a political intensity that exceeds any other institutional supporter.
 
 CNA's political operation spends $10-20M per cycle on California and federal campaigns, independent expenditures, and ballot measure advocacy. The union's political significance extends beyond its spending: CNA provides the grassroots organizing infrastructure, policy expertise, and moral authority (nurses as trusted healthcare voices) that the single-payer movement depends on. CNA was Bernie Sanders' most prominent union endorser in both 2016 and 2020.
 
@@ -63,7 +63,7 @@ CNA's political operation spends $10-20M per cycle on California and federal cam
 
 ---
 
-### Financial Overview (990 Filing — 2023)
+### Financial Overview (990 Filing, 2023)
 <!-- auto:propublica-990 start -->
 
 | Metric | Amount |

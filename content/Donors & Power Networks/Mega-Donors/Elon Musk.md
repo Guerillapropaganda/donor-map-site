@@ -117,11 +117,11 @@ Born in Pretoria during apartheid. Father Errol Musk: partial owner of an emeral
 
 **Cumulative government support across all companies:** $38 billion+ [Source: [Fox Business: Musk government funding](https://www.foxbusiness.com/politics/how-much-have-musks-tesla-spacex-benefited-from-government-funds) (Tier 2)]
 
-Then Musk was given control of DOGE — the agency cutting spending on everyone except [[Elon Musk]]. SpaceX received $5.9 billion in April 2025 while Musk was leading DOGE cuts. (See: [[DOGE - The Billionaires Government]])
+Then Musk was given control of DOGE, the agency cutting spending on everyone except [[Elon Musk]]. SpaceX received $5.9 billion in April 2025 while Musk was leading DOGE cuts. (See: [[DOGE - The Billionaires Government]])
 
 ---
 
-### DOGE — The Aftermath
+### DOGE. The Aftermath
 
 > [!contradiction] Cut the Workforce, Increased the Spending
 > **Federal workforce:** Decreased from 3.015M (January 2025) to 2.744M (November 2025) — largest peacetime workforce reduction on record, 270,000+ positions eliminated
@@ -139,7 +139,7 @@ Then Musk was given control of DOGE — the agency cutting spending on everyone 
 
 **Legal challenges:** District court blocked DOGE data access (early 2025, later vacated on appeal August 2025). 14 states sued. Unions sued Treasury over DOGE access to sensitive financial data. Protect Democracy Project sued over OMB apportionment database removal. Campaign Legal Center sued for "lawless, unconstitutional power grab." None stopped the workforce cuts, but the spending didn't decrease either.
 
-For [[IBEW - International Brotherhood of Electrical Workers|IBEW]]: DOGE targeted NLRB staff (the agency protecting union rights) and Davis-Bacon enforcement (prevailing wage for federal construction). The man who suppresses union organizing at his companies was given authority over the agencies that protect union rights — then left after five months with the agencies gutted and spending unchanged.
+For [[IBEW - International Brotherhood of Electrical Workers|IBEW]]: DOGE targeted NLRB staff (the agency protecting union rights) and Davis-Bacon enforcement (prevailing wage for federal construction). The man who suppresses union organizing at his companies was given authority over the agencies that protect union rights, then left after five months with the agencies gutted and spending unchanged.
 
 ---
 
@@ -156,7 +156,7 @@ For [[IBEW - International Brotherhood of Electrical Workers|IBEW]]: DOGE target
 
 ---
 
-### The SpaceX-xAI Merger — $1.25 Trillion
+### The SpaceX-xAI Merger, $1.25 Trillion
 
 February 2, 2026: SpaceX and xAI merged into the most valuable private company in history. SpaceX valued at $1 trillion, xAI at $250 billion. Combined entity: $1.25 trillion. Musk holds ~43% ownership stake. [Source: [CNBC: SpaceX-xAI merger](https://web.archive.org/web/2026/https:/www.cnbc.com/2026/02/02/spacex-xai-merger.html) (Tier 2)]
 
@@ -178,15 +178,15 @@ X is a $44 billion political instrument: 250+ million users, algorithmic amplifi
 
 ---
 
-### The Trump-Musk Relationship — Bromance to Feud to Fragile Truce
+### The Trump-Musk Relationship. Bromance to Feud to Fragile Truce
 
-### Phase 1 — The Bromance (January–May 2025):
-Trump victory speech: "A star is born — Elon!" Musk led DOGE with direct White House access. February 2025: Musk stated he loved Trump as "a straight man."
+### Phase 1. The Bromance (January–May 2025):
+Trump victory speech: "A star is born. Elon!" Musk led DOGE with direct White House access. February 2025: Musk stated he loved Trump as "a straight man."
 
-### Phase 2 — The Falling Out (June–September 2025):
+### Phase 2. The Falling Out (June–September 2025):
 Musk departed DOGE May 2025. June: bitter public feud over Trump's spending bill. Musk called Trump's "big, beautiful bill" a "disgusting abomination." Musk highlighted Trump's ties to Jeffrey Epstein. Threatened to form "American Party" to run candidates. Trump called Musk "crazy" and said he was "disappointed." Months of social media attacks across X and Truth Social.
 
-### Phase 3 — Fragile Truce (September 2025–present):
+### Phase 3. Fragile Truce (September 2025–present):
 September: public reunion at Charlie Kirk memorial service. December: dinner at Mar-a-Lago. Musk posted "2026 is going to be amazing." January 2026: Musk mocked Trump's "Board of Peace" at Davos, calling it "Board of Piece."
 
 Current status: "distrustful alliance of convenience." Both understand mutual damage potential. Musk funding Republican 2026 campaigns signals thaw, but the feud revealed the structural tension: Musk expected to run the government, Trump expected gratitude without competition.
@@ -231,7 +231,7 @@ His personal pay exceeds the entire political spending budget of the American la
 
 ---
 
-### Class Analysis — The New Model Oligarch
+### Class Analysis. The New Model Oligarch
 
 **Old model (Koch):** Build wealth → fund think tanks and PACs → shape policy through institutions → maintain separation between business and politics.
 
@@ -239,7 +239,7 @@ His personal pay exceeds the entire political spending budget of the American la
 
 Musk merged the oligarch, the propagandist, the political operative, the government official, and the foreign election interferer into a single person approaching $1 trillion in personal wealth. DOGE failed to cut spending but succeeded in gutting the agencies that regulate Musk's companies. The workforce cuts are permanent. The spending cuts aren't. That's the tell.
 
-For IBEW: Tesla and SpaceX are non-union competitors in IBEW-adjacent work (EV electrical systems, aerospace, solar/battery). His DOGE attacked prevailing wage enforcement. He spent $340M+ to elect and maintain an administration dismantling labor protections. The Koch network's Janus campaign cost a fraction of what Musk spent in two years. And unlike Koch, Musk didn't just buy politicians — he became the government, then left it gutted.
+For IBEW: Tesla and SpaceX are non-union competitors in IBEW-adjacent work (EV electrical systems, aerospace, solar/battery). His DOGE attacked prevailing wage enforcement. He spent $340M+ to elect and maintain an administration dismantling labor protections. The Koch network's Janus campaign cost a fraction of what Musk spent in two years. And unlike Koch, Musk didn't just buy politicians, he became the government, then left it gutted.
 
 ---
 
@@ -253,16 +253,16 @@ For IBEW: Tesla and SpaceX are non-union competitors in IBEW-adjacent work (EV e
 | 2024-11 | Trump victory; Musk named DOGE head | $292M total 2024 spending | DOGE created by executive order January 2025 | 2 months | Musk given authority over agencies regulating his own companies |
 | 2025-01–05 | Musk leads DOGE; SpaceX contracts continue | $0 (government position) | SpaceX awarded $5.9B Space Force contract (April 2025) | Concurrent | $38B+ cumulative government support while Musk cuts other agencies' budgets |
 | 2025-01–05 | DOGE targets NLRB staff, Davis-Bacon enforcement | $0 (government position) | NLRB staffing reduced; prevailing wage enforcement degraded | Immediate | Agencies regulating Musk's non-union companies gutted from inside |
-| 2025-05 | Musk departs DOGE | — | Federal workforce reduced by 270,000+; spending actually increased 5.8% | 5-month tenure | Workforce cuts permanent; spending cuts nonexistent; regulatory agencies degraded |
+| 2025-05 | Musk departs DOGE |, | Federal workforce reduced by 270,000+; spending actually increased 5.8% | 5-month tenure | Workforce cuts permanent; spending cuts nonexistent; regulatory agencies degraded |
 | 2025-06 | $5M each to SLF, CLF, MAGA Inc (June 27) | $15M single day | Republican congressional infrastructure funded for 2026 midterms | Ongoing | Musk becomes largest individual donor to both GOP congressional super PACs |
 | 2025-12 | $5M each to SLF and CLF (second round); $10M Kentucky Senate | $20M | 2026 midterm field-shaping; Kentucky successor race funded | Ongoing | SLF reaches $100M cash on hand; CLF reaches $54M |
-| 2026-02 | SpaceX-xAI merger announced | $1.25T combined valuation | Vertically integrated empire: rockets, AI, satellites, social media, EVs | — | Most valuable private company in history; Musk holds ~43% |
-| 2026-03 | Terafab chip facility announced ($20B Austin) | $20B planned investment | Private chip manufacturing for AI, vehicles, space | — | Supply chain capture: government-dependent contractor building strategic infrastructure |
+| 2026-02 | SpaceX-xAI merger announced | $1.25T combined valuation | Vertically integrated empire: rockets, AI, satellites, social media, EVs |, | Most valuable private company in history; Musk holds ~43% |
+| 2026-03 | Terafab chip facility announced ($20B Austin) | $20B planned investment | Private chip manufacturing for AI, vehicles, space |, | Supply chain capture: government-dependent contractor building strategic infrastructure |
 
 > [!money] The $292M → $38B Pipeline
 > Musk spent $292 million electing Trump in 2024. His companies hold $38 billion+ in cumulative government contracts and support. He was given authority over the agencies that regulate those companies. SpaceX received $5.9 billion in new contracts while Musk was cutting other agencies' budgets. The $292 million political investment purchased direct access to the regulatory and procurement apparatus. ROI: approximately 130-to-1 measured in government contract value alone — and that's before counting the regulatory relief (NLRB gutting, Davis-Bacon enforcement reduction, SEC settlement positioning) that protects his commercial operations.
 
-[Source: [OpenSecrets — Elon Musk 2024 donor profile](https://www.fec.gov/data/independent-expenditures/?q=Elon%20Musk) (Tier 1); [Fox Business: Musk government funding](https://www.foxbusiness.com/politics/how-much-have-musks-tesla-spacex-benefited-from-government-funds) (Tier 2)]
+[Source: [OpenSecrets. Elon Musk 2024 donor profile](https://www.fec.gov/data/independent-expenditures/?q=Elon%20Musk) (Tier 1); [Fox Business: Musk government funding](https://www.foxbusiness.com/politics/how-much-have-musks-tesla-spacex-benefited-from-government-funds) (Tier 2)]
 
 ---
 
@@ -285,7 +285,7 @@ OBBBA terminated IRA §30D (New Clean Vehicle Credit, $7,500), §25E (Used Clean
 > [!contradiction]
 > Musk's companies took billions in EV tax credits and regulatory credits since 2010. Tesla's 2024 regulatory credit revenue alone was $2.8 billion. Then Musk spent $292 million electing the coalition that campaigned on killing those credits. When the coalition delivered on its promise in July 2025, Tesla cried foul. This is the Donor-Class Override pattern: the political coalition you bought will always prioritize its anti-climate base over your personal margin. Musk assumed he could buy protection from the base he mobilized. He couldn't.
 
-### America First Legal — The Secret $43 Million
+### America First Legal. The Secret $43 Million
 
 In 2022, Musk secretly donated at least $43 million to an America First Legal (AFL) subsidiary. AFL is Stephen Miller's organization. Its Treasurer at the time was Russell Vought, who then became Trump's OMB Director. DeSmog documents Musk ties to Project 2025 architects through this donation chain. The money was dark money until disclosure, and it paid for the legal infrastructure that now runs immigration enforcement and the dismantling of DEI. Source: [DeSmog: Musk tied to Project 2025](https://www.desmog.com/2025/06/02/map-70-percent-trump-cabinet-tie-project-2025-heritage-afpi-convention-states-dunn-doge/ject-2025-heritage-afpi-convention-states-dunn-doge/) (Tier 2).
 
@@ -330,57 +330,57 @@ Six individuals accounted for over $900 million in 2024 election spending. That'
 ### Sources
 
 ### Political Spending:
-- [OpenSecrets — Elon Musk 2024 donor profile](https://www.fec.gov/data/independent-expenditures/?q=Elon%20Musk) (Tier 1)
-- [OpenSecrets News — 2024 political donors ranking](https://www.opensecrets.org/news/2025/03/elon-musk-tops-list-of-2024-political-donors-but-six-others-gave-more-than-100-million) (Tier 1)
-- [The Hill — Musk contributes to Trump super PAC](https://www.thehill.com/homenews/campaign/4953444-elon-musk-contributes-trump-super-pac/) (Tier 2)
-- [NBC News — Elon Musk's quarter-billion-dollar 2024 spending](https://www.nbcnews.com/politics/2024-election/elon-musk-spent-quarter-billion-dollars-electing-trump-financing-myste-rcna182922) (Tier 2)
-- [Al Jazeera — Musk's $75M pro-Trump group contribution](https://www.aljazeera.com/news/2024/10/16/musk-gave-seventy-five-million-to-pro-trump-group-underscoring-influence-on-race) (Tier 2)
+- [OpenSecrets. Elon Musk 2024 donor profile](https://www.fec.gov/data/independent-expenditures/?q=Elon%20Musk) (Tier 1)
+- [OpenSecrets News, 2024 political donors ranking](https://www.opensecrets.org/news/2025/03/elon-musk-tops-list-of-2024-political-donors-but-six-others-gave-more-than-100-million) (Tier 1)
+- [The Hill. Musk contributes to Trump super PAC](https://www.thehill.com/homenews/campaign/4953444-elon-musk-contributes-trump-super-pac/) (Tier 2)
+- [NBC News. Elon Musk's quarter-billion-dollar 2024 spending](https://www.nbcnews.com/politics/2024-election/elon-musk-spent-quarter-billion-dollars-electing-trump-financing-myste-rcna182922) (Tier 2)
+- [Al Jazeera. Musk's $75M pro-Trump group contribution](https://www.aljazeera.com/news/2024/10/16/musk-gave-seventy-five-million-to-pro-trump-group-underscoring-influence-on-race) (Tier 2)
 
 ### DOGE:
-- Brookings Institution — Federal spending tracking ($7.135T → $7.558T) (Tier 1)
-- Cato Institute — "DOGE had no noticeable effect on trajectory of spending" (Tier 2)
-- Fortune — DOGE ceased to exist November 2025, March 2026 deposition (Tier 2)
-- CBS News — DOGE cuts cost $135B analysis (Tier 2)
-- Yahoo Finance — workforce 3.015M → 2.744M (Tier 2)
+- Brookings Institution. Federal spending tracking ($7.135T → $7.558T) (Tier 1)
+- Cato Institute, "DOGE had no noticeable effect on trajectory of spending" (Tier 2)
+- Fortune. DOGE ceased to exist November 2025, March 2026 deposition (Tier 2)
+- CBS News. DOGE cuts cost $135B analysis (Tier 2)
+- Yahoo Finance, workforce 3.015M → 2.744M (Tier 2)
 
 ### SpaceX/xAI:
-- SpaceNews — $733.5M national security contracts (Tier 2)
-- Air & Space Forces Magazine — Space Force $1B launches (Tier 2)
-- CNBC — SpaceX-xAI $1.25T merger (Tier 2)
-- DCD — xAI Memphis $659M expansion (Tier 2)
+- SpaceNews, $733.5M national security contracts (Tier 2)
+- Air & Space Forces Magazine. Space Force $1B launches (Tier 2)
+- CNBC. SpaceX-xAI $1.25T merger (Tier 2)
+- DCD, xAI Memphis $659M expansion (Tier 2)
 
 ### Tesla:
-- Rest of World — 2025 deliveries down 8.6% (Tier 2)
-- Morningstar — Robotaxi analysis, Cybercab April 2026 (Tier 2)
-- Boston.com — NHTSA FSD probe escalation March 2026 (Tier 2)
-- Wikipedia — Tesla union disputes (IF Metall, Germany works council) (Tier 3)
+- Rest of World, 2025 deliveries down 8.6% (Tier 2)
+- Morningstar. Robotaxi analysis, Cybercab April 2026 (Tier 2)
+- Boston.com. NHTSA FSD probe escalation March 2026 (Tier 2)
+- Wikipedia. Tesla union disputes (IF Metall, Germany works council) (Tier 3)
 
 ### Trump Relationship:
-- NPR — Bromance breakup June 2025 (Tier 2)
-- CNN — Breakup analysis, "disgusting abomination" (Tier 2)
-- Fox News — Mar-a-Lago dinner December 2025 (Tier 2)
-- Euronews — Davos "Board of Piece" mockery January 2026 (Tier 2)
+- NPR. Bromance breakup June 2025 (Tier 2)
+- CNN. Breakup analysis, "disgusting abomination" (Tier 2)
+- Fox News. Mar-a-Lago dinner December 2025 (Tier 2)
+- Euronews. Davos "Board of Piece" mockery January 2026 (Tier 2)
 
 ### Foreign Interference:
-- CNN — AfD endorsement, Weidel livestream (Tier 2)
-- Washington Post — X algorithmic amplification of AfD (Tier 2)
-- NPR — Germany accuses Musk of election interference (Tier 2)
+- CNN. AfD endorsement, Weidel livestream (Tier 2)
+- Washington Post. X algorithmic amplification of AfD (Tier 2)
+- NPR. Germany accuses Musk of election interference (Tier 2)
 
 ### Legal:
-- [CNBC — SEC settlement talks March 2026](https://www.cnbc.com/2026/03/17/elon-musk-sec-in-talks-to-settle-government-lawsuit-over-twitter-deal.html) (Tier 2)
-- [SEC.gov — Elon R. Musk litigation release](https://www.sec.gov/enforcement-litigation/litigation-releases/lr-26219) (Tier 1)
-- [Bloomberg — Musk seeks dismissal of SEC lawsuit](https://www.bloomberg.com/news/articles/2025-08-29/musk-seeks-dismissal-of-sec-suit-over-twitter-stake-disclosure) (Tier 2)
+- [CNBC. SEC settlement talks March 2026](https://www.cnbc.com/2026/03/17/elon-musk-sec-in-talks-to-settle-government-lawsuit-over-twitter-deal.html) (Tier 2)
+- [SEC.gov. Elon R. Musk litigation release](https://www.sec.gov/enforcement-litigation/litigation-releases/lr-26219) (Tier 1)
+- [Bloomberg. Musk seeks dismissal of SEC lawsuit](https://www.bloomberg.com/news/articles/2025-08-29/musk-seeks-dismissal-of-sec-suit-over-twitter-stake-disclosure) (Tier 2)
 
 ### Net Worth:
 - [Bloomberg Billionaires Index](https://www.bloomberg.com/billionaires/profiles/elon-r-musk/) (Tier 1)
-- [Wikipedia — Wealth of Elon Musk](https://en.wikipedia.org/wiki/Wealth_of_Elon_Musk) (Tier 3)
-- [Investormint — Elon Musk's Net Worth 2026](https://investormint.com/investing/elon-musk-net-worth) (Tier 2)
+- [Wikipedia. Wealth of Elon Musk](https://en.wikipedia.org/wiki/Wealth_of_Elon_Musk) (Tier 3)
+- [Investormint. Elon Musk's Net Worth 2026](https://investormint.com/investing/elon-musk-net-worth) (Tier 2)
 
 ---
 
 ### March 2026 Updates
 
-**DOGE exposed under oath (March 16, 2026):** Former DOGE employee Nate Cavanaugh testified in deposition that DOGE's cost-cutting efforts fell far short of the $2 trillion goal and did little to reduce the federal deficit. Over 10 months, DOGE eliminated 300,000+ federal employee roles and claimed 13,440 contract cancellations — but actual deficit impact was negligible. Court documents revealed DOGE used ChatGPT to flag grants as "DEI" — including a $349K museum HVAC replacement.
+**DOGE exposed under oath (March 16, 2026):** Former DOGE employee Nate Cavanaugh testified in deposition that DOGE's cost-cutting efforts fell far short of the $2 trillion goal and did little to reduce the federal deficit. Over 10 months, DOGE eliminated 300,000+ federal employee roles and claimed 13,440 contract cancellations, but actual deficit impact was negligible. Court documents revealed DOGE used ChatGPT to flag grants as "DEI", including a $349K museum HVAC replacement.
 
 > [!contradiction]
 > DOGE promised $2 trillion in savings. Under oath, a DOGE staffer admitted it didn't meaningfully reduce the deficit. The 300,000 eliminated jobs and 13,440 cancelled contracts produced fiscal theater while degrading government capacity during an active war.
@@ -394,29 +394,29 @@ Six individuals accounted for over $900 million in 2024 election spending. That'
 - [Fortune: DOGE cancelled HVAC grant via ChatGPT DEI flagging](https://fortune.com/2026/03/19/doge-cancelled-350000-hvac-grant-dei-lawsuit-elon-musk/) (Tier 2)
 - [Washington Times: Musk offers TSA salaries during DHS shutdown](https://www.washingtontimes.com/news/2026/mar/21/musk-offers-pay-tsa-salaries-dhs-shutdown-stretches-fifth-week/) (Tier 2)
 
-**xAI rebuild admission (March 13, 2026):** Musk admitted xAI "was not built right first time around" and "is being rebuilt from the foundations up" — six weeks after Tesla invested $2 billion of shareholder money into the company. The SpaceX-xAI merger (February 2026) valued the combined entity at $1–1.25 trillion. Multiple xAI co-founders have departed. This is a rare public admission of failure from Musk on a project he poured billions of other people's money into.
+**xAI rebuild admission (March 13, 2026):** Musk admitted xAI "was not built right first time around" and "is being rebuilt from the foundations up", six weeks after Tesla invested $2 billion of shareholder money into the company. The SpaceX-xAI merger (February 2026) valued the combined entity at $1–1.25 trillion. Multiple xAI co-founders have departed. This is a rare public admission of failure from Musk on a project he poured billions of other people's money into.
 
 - [Electrek: Musk admits xAI not built right, rebuild underway](https://electrek.co/2026/03/13/elon-musk-admits-xai-built-wrong-rebuild-tesla-spacex-investment/) (Tier 2)
 - [CNBC: Musk says xAI must be rebuilt as co-founder exodus continues](https://www.cnbc.com/2026/03/13/elon-musk-xai-co-founders-spacex-ipo.html) (Tier 2)
 
-**Terafab announced (March 22, 2026):** Musk announced "Terafab," a **$20 billion** private chip manufacturing facility in Austin, Texas — a joint venture between Tesla, SpaceX, and xAI to produce AI chips for vehicles, humanoid robots, and space applications. Target: a terawatt of annual AI computing power. This is the most significant move yet toward Musk vertically integrating his entire industrial empire: from raw chip fab to rockets, cars, AI, and communications.
+**Terafab announced (March 22, 2026):** Musk announced "Terafab," a **$20 billion** private chip manufacturing facility in Austin, Texas, a joint venture between Tesla, SpaceX, and xAI to produce AI chips for vehicles, humanoid robots, and space applications. Target: a terawatt of annual AI computing power. This is the most significant move yet toward Musk vertically integrating his entire industrial empire: from raw chip fab to rockets, cars, AI, and communications.
 
 > [!money] The privatization of strategic manufacturing
 > Musk is building a government-scale chip fab with companies that hold billions in federal contracts (SpaceX alone: $15B+ in NASA/DoD contracts). A private actor with extraordinary government access is now building the infrastructure the government depends on — while simultaneously advising the government on technology policy (Trump AI executive order, March 20). The regulatory capture is now being joined by supply chain capture.
 
 **Tesla market cap recovery (March 2026):** Tesla's market cap recovered **$158 billion** after Musk stepped back from his official DOGE role. The market had priced Musk's government service as a liability to his commercial enterprises. The recovery signals investor belief that DOGE damaged Tesla's brand globally.
 
-**DOGE self-assessment (March 2026):** Musk told PBS that DOGE was "only somewhat successful" and that he "wouldn't do it again." This is the first major public admission from Musk that the operation fell short — corroborating the Cavanaugh deposition findings above.
+**DOGE self-assessment (March 2026):** Musk told PBS that DOGE was "only somewhat successful" and that he "wouldn't do it again." This is the first major public admission from Musk that the operation fell short, corroborating the Cavanaugh deposition findings above.
 
 - [Bloomberg: Elon Musk Plans Terafab Chip Facility in Austin with Tesla, SpaceX, xAI](https://www.bloomberg.com/news/articles/2026-03-22/elon-musk-says-tesla-xai-spacex-terafab-to-start-in-austin) (Tier 2)
 - [Fortune: Elon Musk's retreat from DOGE has lifted Tesla's valuation by $158 billion](https://fortune.com/article/elon-musk-doge-tesla-stock-market-cap-outlook/) (Tier 2)
 - [PBS: Elon Musk says DOGE was only 'somewhat successful' and he wouldn't do it again](https://www.pbs.org/newshour/politics/elon-musk-says-doge-was-only-somewhat-successful-and-he-wouldnt-do-it-again) (Tier 2)
 
-### March 24, 2026 Update — Appeals Court Shields Musk from Deposition
+### March 24, 2026 Update. Appeals Court Shields Musk from Deposition
 
-**Deposition blocked (March 4, 2026):** A federal appeals court blocked Musk's deposition in the USAID shutdown lawsuit, granting the Trump administration's request to halt the proceeding. This shields Musk from testifying under oath about his role in shuttering USAID — a significant legal victory that prevents discovery into the decision-making process behind DOGE's most controversial action.
+**Deposition blocked (March 4, 2026):** A federal appeals court blocked Musk's deposition in the USAID shutdown lawsuit, granting the Trump administration's request to halt the proceeding. This shields Musk from testifying under oath about his role in shuttering USAID, a significant legal victory that prevents discovery into the decision-making process behind DOGE's most controversial action.
 
-**DHS shutdown deepens Musk contradictions:** With the DHS shutdown in its 38th day (March 24), 366 TSA officers have quit and callout rates are 5x normal. ICE agents are now deployed to airports to cover TSA shortfalls. Musk's earlier offer to pay TSA salaries remains unresolved — the architect of government destruction offering to personally subsidize the wreckage.
+**DHS shutdown deepens Musk contradictions:** With the DHS shutdown in its 38th day (March 24), 366 TSA officers have quit and callout rates are 5x normal. ICE agents are now deployed to airports to cover TSA shortfalls. Musk's earlier offer to pay TSA salaries remains unresolved, the architect of government destruction offering to personally subsidize the wreckage.
 
 - [Bloomberg: Appeals court blocks Musk deposition in DOGE fight](https://www.bloomberg.com/news/articles/2026-03-04/elon-musk-deposition-blocked-by-appeals-court-in-doge-fight) (Tier 2)
 - [Government Executive: Inside DOGE's early days of chaos](https://www.govexec.com/management/2026/03/inside-doges-early-days-pressure-campaigns-rule-breaking-and-chaos/412193/) (Tier 2)

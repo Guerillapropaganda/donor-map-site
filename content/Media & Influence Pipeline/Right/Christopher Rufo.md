@@ -16,7 +16,7 @@ related: "[[DonorsTrust]] · [[Koch Network - Charles Koch]] · [[Bradley Founda
 
 ### Who They Are
 
-Christopher Rufo operates at the intersection of think tank, media platform, and policy architecture. As senior fellow at the [[Manhattan Institute for Policy Research|Manhattan Institute]], City Journal contributor, Fox News regular, and Substack personality (122K+ subscribers), Rufo functions as a policy entrepreneur who uses media as transmission mechanism for pre-written legislative proposals. He does not create audiences that demand policy—he manufactures audience demand through strategic media campaigns, then delivers the policy solutions that donors have already funded the Institute to develop.
+Christopher Rufo operates at the intersection of think tank, media platform, and policy architecture. As senior fellow at the [[Manhattan Institute for Policy Research|Manhattan Institute]], City Journal contributor, Fox News regular, and Substack personality (122K+ subscribers), Rufo functions as a policy entrepreneur who uses media as transmission mechanism for pre-written legislative proposals. He does not create audiences that demand policy, he manufactures audience demand through strategic media campaigns, then delivers the policy solutions that donors have already funded the Institute to develop.
 
 His Substack reach (122,000+ subscribers) and Fox News appearances provide direct access to approximately 2-3 million weekly viewers across platforms. Unlike traditional media personalities, Rufo's content is always output of research infrastructure: every policy proposal he publicizes began as a funded project inside Manhattan Institute, often with specific donor initiatives directing the research. The media platform amplifies, but the policy machine is the actual product.
 
@@ -30,7 +30,7 @@ Rufo's income streams are layered and interdependent, all feeding from the same 
 - **Bradley Prize:** $300,000 one-time award (2025, Tier 1)
 - **Fox News contributor fees:** Estimated $50,000–$100,000 annually (recurring appearances)
 
-**Total annual compensation: $800,000–$900,000+**, making Rufo a top-1% income earner in the media landscape. This is not an accident — it is the price of manufacturing the specific policy panic that benefits his funders.
+**Total annual compensation: $800,000–$900,000+**, making Rufo a top-1% income earner in the media landscape. This is not an accident, it is the price of manufacturing the specific policy panic that benefits his funders.
 
 > [!money]
 > Rufo's income is architecturally dependent on three things: Manhattan Institute employment (which requires funding from Bradley, DonorsTrust, Koch), American Studio nonprofit (which requires the same donors), and continued manufacturing of anti-CRT/anti-DEI content (which is exactly what those donors want). Lose the panic, lose the funding.
@@ -39,13 +39,13 @@ Rufo's income streams are layered and interdependent, all feeding from the same 
 
 **Total:** $0 | **Contributions:** 0 | **API-verified:** 2026-04-01
 
-*Pending API query — run fecDonorLookup() for this individual.*
+*Pending API query, run fecDonorLookup() for this individual.*
 
 Note: Rufo does not make significant federal campaign contributions. His political influence operates through institutional infrastructure (Manhattan Institute, American Studio) rather than direct candidate funding. His donors make the contributions; Rufo makes the policy.
 
 ### Who Funds Them
 
-The donor class that funds Rufo operates through three primary mechanisms: direct Manhattan Institute funding, American Studio nonprofit funding, and Bradley Prize designation. These donors are not choosing Rufo randomly—they are funding the specific policy output that his campaigns produce.
+The donor class that funds Rufo operates through three primary mechanisms: direct Manhattan Institute funding, American Studio nonprofit funding, and Bradley Prize designation. These donors are not choosing Rufo randomly, they are funding the specific policy output that his campaigns produce.
 
 ### Manhattan Institute funders (Rufo's institutional salary, research platform):
 
@@ -73,7 +73,7 @@ Rufo's content agenda is tightly aligned with donor interests. He has pushed:
 - Result: The brand became toxic. Public perception of CRT went from neutral (5% awareness in 2020) to overwhelmingly negative (75% unfavorable by 2022) in 18 months through coordinated media + dark money campaigns
 
 ### Anti-DEI Agenda:
-- Pushed federal ban on diversity training (Executive Order 13950, Sept 2020—which Rufo helped draft)
+- Pushed federal ban on diversity training (Executive Order 13950, Sept 2020, which Rufo helped draft)
 - Escalated to state legislation banning DEI initiatives entirely (Florida HB 7, "Stop WOKE Act")
 - Targeted university DEI offices specifically, demanding elimination of "diversity bureaucracy"
 - Attacked gender studies programs as ideological capture
@@ -96,7 +96,7 @@ These are not abstract policy positions. They are outputs of funded research inf
 
 This is NOT traditional audience capture. The mechanism is inverted.
 
-Rufo does not follow audience demand—he *manufactures* audience demand through strategic information control and then provides the policy solutions his funders have already designed. This is the inverse of the two-audience problem: instead of lying to voters while keeping donors happy, Rufo manufactures voter anger about issues donors have selected, creating the *appearance* of grassroots demand for policies that serve donor interests.
+Rufo does not follow audience demand, he *manufactures* audience demand through strategic information control and then provides the policy solutions his funders have already designed. This is the inverse of the two-audience problem: instead of lying to voters while keeping donors happy, Rufo manufactures voter anger about issues donors have selected, creating the *appearance* of grassroots demand for policies that serve donor interests.
 
 ### The mechanism:
 
@@ -135,7 +135,7 @@ Return: a public university transformed from regional liberal arts institution i
 
 ### Class Analysis
 
-Rufo is the most effective policy entrepreneur in the right-wing media ecosystem because he manufactures consent rather than merely amplifying it. He is not a commentator reacting to events—he is infrastructure generating events that serve donor interests.
+Rufo is the most effective policy entrepreneur in the right-wing media ecosystem because he manufactures consent rather than merely amplifying it. He is not a commentator reacting to events, he is infrastructure generating events that serve donor interests.
 
 The donor class that funds him (Koch, Bradley, DonorsTrust, Singer, Searle) wants to:
 1. Eliminate institutional spaces where the legitimacy of capital accumulation can be questioned
@@ -143,7 +143,7 @@ The donor class that funds him (Koch, Bradley, DonorsTrust, Singer, Searle) want
 3. Defund and restructure public institutions that might compete with private market alternatives
 4. Normalize culture war as permanent electoral strategy (ensuring voters are perpetually mobilized around symbolic issues rather than material redistribution)
 
-Rufo's media platform serves all four purposes. Every campaign he runs, every article he publishes, every board action he orchestrates—these are donor-class projects translated into media spectacle.
+Rufo's media platform serves all four purposes. Every campaign he runs, every article he publishes, every board action he orchestrates, these are donor-class projects translated into media spectacle.
 
 The brilliance of the arrangement is that it appears to be the opposite of what it is. Voters believe they are rising up against "woke indoctrination" in schools. Donors know they are paying for the elimination of pedagogy that might produce class consciousness. Voters believe they are defending American tradition. Donors know they are paying for the narrowing of curriculum to exclude critical perspectives on capitalism.
 
@@ -156,25 +156,25 @@ Rufo's funding and editorial independence work like this:
 - **Manhattan Institute salary:** Non-negotiable condition is continued production of donor-preferred research and media output. The Institute has a donor-directed agenda around DEI elimination; Rufo executes it.
 - **American Studio nonprofit:** A pass-through entity that accepts dark money from DonorsTrust ($370K) and pays Rufo directly. Creates the appearance of independent funding while routing donor money to him in a form that is structurally harder to trace than direct payments.
 - **Substack:** Allows direct audience monetization and creates the appearance of audience-funded independence. In reality, the audience size itself is a product of Manhattan Institute platform and media infrastructure. Without the think tank, the Substack would have 20K subscribers, not 122K.
-- **Editorial red line:** Any analysis that connects donor interests to the policies Rufo promotes—that frames this as billionaire-funded astroturf rather than grassroots populism—is off-limits. The narrative requirement is always: this is what the people want, not what donors funded.
+- **Editorial red line:** Any analysis that connects donor interests to the policies Rufo promotes, that frames this as billionaire-funded astroturf rather than grassroots populism, is off-limits. The narrative requirement is always: this is what the people want, not what donors funded.
 
-Triple-income-stream architecture means that even if one funding source dries up, the others sustain him. But all three are conditional on the same thing: continued manufacturing of panic about DEI, race, and culture. The moment he stops or pivots, the money stops. This is not corruption—it is the pure, logical result of the funding model.
+Triple-income-stream architecture means that even if one funding source dries up, the others sustain him. But all three are conditional on the same thing: continued manufacturing of panic about DEI, race, and culture. The moment he stops or pivots, the money stops. This is not corruption, it is the pure, logical result of the funding model.
 
 ### Timeline
 
 | Date | Event | Key Players | Amount | Significance |
 |------|-------|------------|--------|--------------|
-| Sept 2020 | Rufo appears on Fox News, describes CRT in schools as Marxist indoctrination; calls for federal action | Fox News, Trump administration, DonorsTrust | — | Media launch of CRT panic; directly precedes EO 13950 drafting |
-| Sept 17, 2020 | Helps draft Executive Order 13950, "Combating Public Health, Labor, and Educational Discrimination" | Rufo, Trump White House, Heritage Foundation | — | Federal precedent set without Congressional approval; criminalizes diversity training |
+| Sept 2020 | Rufo appears on Fox News, describes CRT in schools as Marxist indoctrination; calls for federal action | Fox News, Trump administration, DonorsTrust |, | Media launch of CRT panic; directly precedes EO 13950 drafting |
+| Sept 17, 2020 | Helps draft Executive Order 13950, "Combating Public Health, Labor, and Educational Discrimination" | Rufo, Trump White House, Heritage Foundation |, | Federal precedent set without Congressional approval; criminalizes diversity training |
 | 2021 | Anti-CRT media campaign goes viral; DonorsTrust funds American Studio and amplifies messaging | DonorsTrust, American Studio, Manhattan Institute | $370K to American Studio | Campaign reaches 50M+ impressions; creates grassroots perception of parental demand |
-| 2022 | Florida HB 7 ("Stop WOKE Act") signed into law; Rufo present at signing | Ron DeSantis, Rufo, Florida legislators | — | First state legislation criminalizing classroom discussion of systemic racism |
-| Jan 6, 2023 | DeSantis appoints Rufo to New College of Florida Board of Trustees | Ron DeSantis, Rufo, New College | — | Institutional takeover begins; Rufo given direct control over hiring, curriculum, budget |
-| Jan 31, 2023 | First board meeting under Rufo; President Richard Okker forced to resign | Rufo, Okker, New College leadership | — | Institutional restructuring begins; first visible use of board authority |
-| Feb-Aug 2023 | Rufo directs elimination of DEI office, firing of DEI dean, termination of gender studies program | Rufo, New College leadership, faculty | — | 60+ faculty positions eliminated; 40% turnover begins |
+| 2022 | Florida HB 7 ("Stop WOKE Act") signed into law; Rufo present at signing | Ron DeSantis, Rufo, Florida legislators |, | First state legislation criminalizing classroom discussion of systemic racism |
+| Jan 6, 2023 | DeSantis appoints Rufo to New College of Florida Board of Trustees | Ron DeSantis, Rufo, New College |, | Institutional takeover begins; Rufo given direct control over hiring, curriculum, budget |
+| Jan 31, 2023 | First board meeting under Rufo; President Richard Okker forced to resign | Rufo, Okker, New College leadership |, | Institutional restructuring begins; first visible use of board authority |
+| Feb-Aug 2023 | Rufo directs elimination of DEI office, firing of DEI dean, termination of gender studies program | Rufo, New College leadership, faculty |, | 60+ faculty positions eliminated; 40% turnover begins |
 | 2024 | Bradley Foundation awards Rufo $300K Bradley Prize for "intellectual courage" | Bradley Foundation, Rufo | $300,000 | Public recognition of Rufo as key executor of donor agenda |
-| Nov 2024 | Rufo meets with Trump transition team at Mar-a-Lago; pitches DEI elimination executive orders | Rufo, Trump transition team, policy advisors | — | Direct coordination on incoming federal policy; Jan 2025 EO proposals shaped by Rufo input |
-| Jan 2025 | Trump signs executive orders eliminating federal DEI initiatives, using Rufo's proposals | Trump, Rufo proposals, federal agencies | — | Rufo's media-generated politics now federal law; second federal precedent |
-| 2025 | New College of Florida cost per student reaches $134K (highest in public university system) while maintaining lowest graduation rate | Rufo, New College leadership | — | Institutional transformation complete; model for future university takeovers |
+| Nov 2024 | Rufo meets with Trump transition team at Mar-a-Lago; pitches DEI elimination executive orders | Rufo, Trump transition team, policy advisors |, | Direct coordination on incoming federal policy; Jan 2025 EO proposals shaped by Rufo input |
+| Jan 2025 | Trump signs executive orders eliminating federal DEI initiatives, using Rufo's proposals | Trump, Rufo proposals, federal agencies |, | Rufo's media-generated politics now federal law; second federal precedent |
+| 2025 | New College of Florida cost per student reaches $134K (highest in public university system) while maintaining lowest graduation rate | Rufo, New College leadership |, | Institutional transformation complete; model for future university takeovers |
 
 > [!money]
 > The timeline reveals a machine: public panic → federal action → state legislation → institutional control → federal action again. Rufo's role shifts with the stage, but the output is constant. He manufactures the demand, provides the policy blueprint, and implements the institutional consequences. The donors stay invisible; the audience sees only the "grassroots" results.
@@ -184,11 +184,11 @@ Triple-income-stream architecture means that even if one funding source dries up
 - [FEC: Christopher Rufo individual contributions (0 results)](https://www.fec.gov/data/receipts/?contributor_name=Christopher+Rufo) (Tier 1)
 - [ProPublica Nonprofit Explorer: Manhattan Institute for Policy Research (990 filings, 2014–2024)](https://projects.propublica.org/nonprofits/organizations/135626156) *(source unavailable)* (Tier 1)
 - [ProPublica Nonprofit Explorer: American Studio (990 filings, 2020–2024)](https://projects.propublica.org/nonprofits/organizations/855631396) *(source unavailable)* (Tier 1)
-- [Center for Media and Democracy: SourceWatch — Manhattan Institute for Policy Research](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/Manhattan_Institute_for_Policy_Research) (Tier 2)
-- [Center for Media and Democracy: SourceWatch — Christopher Rufo](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/Christopher_Rufo) (Tier 2)
+- [Center for Media and Democracy: SourceWatch. Manhattan Institute for Policy Research](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/Manhattan_Institute_for_Policy_Research) (Tier 2)
+- [Center for Media and Democracy: SourceWatch. Christopher Rufo](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/Christopher_Rufo) (Tier 2)
 - [Mother Jones: "The Men Behind the All-Out War on 'Woke' Corporate America"](https://www.motherjones.com/politics/2023/06/anti-dei-activists-dark-money/) *(source unavailable)* (Tier 2)
 - [Mother Jones: "How Bradley Foundation Funds the War on 'Woke'"](https://www.motherjones.com/politics/2023/03/bradley-foundation-woke-culture-war/) *(source unavailable)* (Tier 2)
-- [UCLA Law: CRT Forward Tracking Project — State-Level Anti-CRT Legislation](https://www.law.ucla.edu/centers/critical-race-theory-forward/crt-forward-tracking-project) *(source unavailable)* (Tier 1)
+- [UCLA Law: CRT Forward Tracking Project. State-Level Anti-CRT Legislation](https://www.law.ucla.edu/centers/critical-race-theory-forward/crt-forward-tracking-project) *(source unavailable)* (Tier 1)
 - [Exposed by CMD: "Who's Behind the Anti-CRT Movement"](https://exposedbycdn.org/2021/10/who-behind-anti-crt-movement/) *(source unavailable)* (Tier 2)
 - [Politico: "How Christopher Rufo's Anti-CRT Campaign Shapes Republican Politics"](https://www.politico.com/news/2021/10/07/christopher-rufo-anti-crt-republican-politics) (Tier 2)
 - [The Chronicle of Higher Education: "New College's Enrollment Crisis and Rufo's Radical Restructuring"](https://www.chronicle.com/articles/new-college-enrollment-crisis) (Tier 3)

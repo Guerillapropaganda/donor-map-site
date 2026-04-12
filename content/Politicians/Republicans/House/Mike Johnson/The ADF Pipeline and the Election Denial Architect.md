@@ -31,7 +31,7 @@ donors: [[Leonard Leo]]
 | Legal briefs | Endorsed briefs criminalizing consensual adult sexual activity |
 | Post-ADF connections | First Liberty Institute (attorney), Louisiana Family Forum (volunteer) |
 
-ADF — designated as an anti-LGBTQ hate group by the SPLC — is the largest religious liberty legal organization in the United States. Johnson's 9-year tenure makes him one of ADF's longest-serving public figures. The organization's cases include defending state sodomy laws (post-Lawrence v. Texas), opposing same-sex marriage nationwide, challenging transgender student protections, and seeking religious exemptions from anti-discrimination statutes.
+ADF, designated as an anti-LGBTQ hate group by the SPLC, is the largest religious liberty legal organization in the United States. Johnson's 9-year tenure makes him one of ADF's longest-serving public figures. The organization's cases include defending state sodomy laws (post-Lawrence v. Texas), opposing same-sex marriage nationwide, challenging transgender student protections, and seeking religious exemptions from anti-discrimination statutes.
 
 ---
 
@@ -62,7 +62,7 @@ ADF — designated as an anti-LGBTQ hate group by the SPLC — is the largest re
 
 ### The Council for National Policy
 
-Johnson was listed in CNP membership directories (2012-2013) — previously unreported until investigative journalism uncovered it. The Council for National Policy is a secretive conservative networking organization that connects donors, movement leaders, and elected officials. Its meetings are closed to the public and media. Members have included the Koch brothers, the DeVos family, and leaders of major religious right organizations. Johnson's CNP membership connects his ADF legal career to the broader conservative donor and policy infrastructure.
+Johnson was listed in CNP membership directories (2012-2013), previously unreported until investigative journalism uncovered it. The Council for National Policy is a secretive conservative networking organization that connects donors, movement leaders, and elected officials. Its meetings are closed to the public and media. Members have included the Koch brothers, the DeVos family, and leaders of major religious right organizations. Johnson's CNP membership connects his ADF legal career to the broader conservative donor and policy infrastructure.
 
 ---
 

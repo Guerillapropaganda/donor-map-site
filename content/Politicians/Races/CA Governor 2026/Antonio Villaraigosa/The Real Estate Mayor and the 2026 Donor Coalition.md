@@ -20,12 +20,12 @@ donors: [[California Building and Construction Trades Council]] · [[California 
 Villaraigosa's mayoral record (2005–2013) was defined by the Safer Cities Initiative, a coordinated push involving LAPD Chief Bill Bratton (brought in from New York to apply "broken windows" policing theory) and Councilwoman Jan Perry. The initiative was framed as public safety. The outcome was gentrification and displacement.
 
 ### The Policy Framework:
-The Safer Cities Initiative targeted downtown Los Angeles's skid row district with aggressive enforcement of misdemeanor laws — loitering, jaywalking, vending without permits. The objective was to "clean up" the downtown corridor for commercial redevelopment. The process worked: downtown LA's "undesirable" population was pushed out, land became available for redevelopment, and developers moved in.
+The Safer Cities Initiative targeted downtown Los Angeles's skid row district with aggressive enforcement of misdemeanor laws, loitering, jaywalking, vending without permits. The objective was to "clean up" the downtown corridor for commercial redevelopment. The process worked: downtown LA's "undesirable" population was pushed out, land became available for redevelopment, and developers moved in.
 
 ### The Developer Payoff:
 As the homeless population and long-term residents were displaced (through policing and/or market pressure), developers acquired downtown LA property at distressed prices. They converted older structures into lofts and condominiums marketed to young professionals and wealthy investors. Downtown LA transformed from a working-class district into a gentrifying urban center with luxury housing development.
 
-Villaraigosa's role was not accidental: he actively promoted downtown development as part of his vision for LA as a "world-class city" — rhetoric that has meant the same thing in every gentrifying city: displace poor people, welcome capital.
+Villaraigosa's role was not accidental: he actively promoted downtown development as part of his vision for LA as a "world-class city", rhetoric that has meant the same thing in every gentrifying city: displace poor people, welcome capital.
 
 ### Who Benefited:
 - Developers: massive profits from land acquisition, conversion, and luxury sales
@@ -55,7 +55,7 @@ Villaraigosa became a real estate consultant/lobbyist post-mayoralty. (Specific 
 ### 2018 Campaign:
 When Villaraigosa announced a gubernatorial run, charter school billionaires immediately recognized his value. His anti-union, pro-development record made him the perfect candidate to break up the [[CTA - California Teachers Association|California Teachers Association]]'s political power. Reed Hastings (Netflix), Eli Broad, Bloomberg, and Oberndorf committed $22.5 million to an independent committee in his support.
 
-The charter school investment was not a wild bet on an unknown candidate — it was capital recognizing a proven asset: Villaraigosa's opposition to public education unions and support for charter schools as "reform."
+The charter school investment was not a wild bet on an unknown candidate, it was capital recognizing a proven asset: Villaraigosa's opposition to public education unions and support for charter schools as "reform."
 
 ### 2026 Campaign:
 Same donor class returns: real estate developers + Building Trades unions (who benefit from development) + anticipated charter school money if the primary remains fractured.
@@ -64,7 +64,7 @@ Same donor class returns: real estate developers + Building Trades unions (who b
 
 ### The Class Analysis: Why Buildings and Unions Align
 
-The Building Trades unions' endorsement of Villaraigosa is not a contradiction to class analysis — it is class analysis itself.
+The Building Trades unions' endorsement of Villaraigosa is not a contradiction to class analysis, it is class analysis itself.
 
 Construction unions (electricians, plumbers, ironworkers, operating engineers) benefit directly from construction volume. More buildings = more jobs for union members. Villaraigosa as mayor presided over downtown LA development. Villaraigosa as governor would likely pursue pro-development policy (approval of new projects, streamlining environmental review, opposing housing restrictions).
 
@@ -90,7 +90,7 @@ Developers have opposed Measure ULA as a cost burden that reduces their profit m
 
 Jay Luchs (Newmark vice chairman), a major donor to Villaraigosa's 2026 campaign ($10,175.25), made a public statement: "Villaraigosa's opposition to Measure ULA signals to developers that he'll protect their margins."
 
-This is an explicit donor-to-policy signal: developers are funding Villaraigosa because they expect him to oppose — or quietly not enforce — a tax designed to fund affordable housing.
+This is an explicit donor-to-policy signal: developers are funding Villaraigosa because they expect him to oppose, or quietly not enforce, a tax designed to fund affordable housing.
 
 ---
 
@@ -100,7 +100,7 @@ Villaraigosa's 2018 gubernatorial run lost decisively to Newsom (10.6% to 61.6%)
 
 The 2026 comeback suggests the donor class has learned from 2018: spreading Villaraigosa's message through charter school independent committees may not be enough. But in a crowded Democratic field (8 Democrats, 2+ Republicans), Villaraigosa's LA base + Building Trades ground game could push him into the top two.
 
-The question is not whether Villaraigosa would govern as mayor-like (development-friendly, anti-public-education, pro-gentrification) — the question is whether he can consolidate enough votes in a fragmented primary.
+The question is not whether Villaraigosa would govern as mayor-like (development-friendly, anti-public-education, pro-gentrification), the question is whether he can consolidate enough votes in a fragmented primary.
 
 ---
 

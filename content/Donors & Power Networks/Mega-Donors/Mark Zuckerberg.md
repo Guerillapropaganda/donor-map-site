@@ -48,11 +48,11 @@ audit-a-plus-passed: "2026-04-11"
 
 ### Who They Are
 
-Mark Zuckerberg. CEO and controlling shareholder of Meta Platforms (net worth $200+ billion, 2024). Zuckerberg controls Meta through a dual-class share structure that gives him approximately 58% of voting power despite owning roughly 13% of shares — making Meta a controlled company despite its public listing on the NASDAQ. Meta operates Facebook, Instagram, WhatsApp, and Threads, with a combined user base exceeding 3.9 billion monthly active users globally.
+Mark Zuckerberg. CEO and controlling shareholder of Meta Platforms (net worth $200+ billion, 2024). Zuckerberg controls Meta through a dual-class share structure that gives him approximately 58% of voting power despite owning roughly 13% of shares, making Meta a controlled company despite its public listing on the NASDAQ. Meta operates Facebook, Instagram, WhatsApp, and Threads, with a combined user base exceeding 3.9 billion monthly active users globally.
 
-Zuckerberg's political trajectory is the most dramatic realignment in Silicon Valley history: from progressive tech philanthropist who donated $400 million to election infrastructure in 2020, to Trump-aligned tech mogul who dismantled Meta's fact-checking program, appointed Republican operatives to senior leadership, and personally cultivated Trump's goodwill — all to neutralize regulatory threats against a $1.5 trillion company.
+Zuckerberg's political trajectory is the most dramatic realignment in Silicon Valley history: from progressive tech philanthropist who donated $400 million to election infrastructure in 2020, to Trump-aligned tech mogul who dismantled Meta's fact-checking program, appointed Republican operatives to senior leadership, and personally cultivated Trump's goodwill, all to neutralize regulatory threats against a $1.5 trillion company.
 
-The Zuckerberg political operation functions through three channels: personal donations (historically modest and bipartisan), the Meta corporate PAC (which gave $197,300 to federal candidates in the 2024 cycle), and Meta's corporate lobbying machine — which spent a record $24.4 million in 2024 and $26.3 million in 2025, employing up to 85 lobbyists (one for every six members of Congress). The third channel — corporate restructuring to serve political ends — is where the real power lies.
+The Zuckerberg political operation functions through three channels: personal donations (historically modest and bipartisan), the Meta corporate PAC (which gave $197,300 to federal candidates in the 2024 cycle), and Meta's corporate lobbying machine, which spent a record $24.4 million in 2024 and $26.3 million in 2025, employing up to 85 lobbyists (one for every six members of Congress). The third channel, corporate restructuring to serve political ends, is where the real power lies.
 
 ---
 
@@ -68,9 +68,9 @@ Zuckerberg's direct political giving has been relatively modest compared to his 
 
 **Meta Corporate PAC (2024 cycle):** Gave $197,300 to federal candidates, split roughly evenly between parties. The PAC gave $30,000 each to the Republican and Democratic senatorial campaign committees, spread contributions to party leaders in both chambers, and emphasized backing incumbents in Senate races. Meta's PAC raised $341,607 in the 2023-2024 cycle.
 
-**Trump Inaugural Fund (2025):** Meta donated $1 million to Trump's inaugural fund — a direct signal of realignment. This broke historical precedent: no donation to either candidate's inaugural in 2017 (Trump) or 2021 (Biden).
+**Trump Inaugural Fund (2025):** Meta donated $1 million to Trump's inaugural fund, a direct signal of realignment. This broke historical precedent: no donation to either candidate's inaugural in 2017 (Trump) or 2021 (Biden).
 
-### Chan Zuckerberg Initiative — Election Infrastructure & Political Retreat (2020-2025):
+### Chan Zuckerberg Initiative. Election Infrastructure & Political Retreat (2020-2025):
 
 Zuckerberg and his wife Priscilla Chan donated a total of **$419.5 million** in election infrastructure funding (not $400M as commonly cited):
 - $250M initial to CTCL + $50M to CEIR (Sept 1, 2020)
@@ -78,7 +78,7 @@ Zuckerberg and his wife Priscilla Chan donated a total of **$419.5 million** in 
 - $19.5M more to CEIR
 - **Total: $419.5M**
 
-**Distribution analysis:** CTCL distributed $332M to approximately 2,500 election departments in 49 states. Blue state breakdown: 65.6% went to Biden-won states ($1.10/voter vs $0.72/voter in Trump states). BUT the trifecta breakdown complicates the narrative: Republican trifecta states actually received $143.9M vs $96.1M for Democratic trifecta states — an unexpected advantage for GOP-controlled legislatures.
+**Distribution analysis:** CTCL distributed $332M to approximately 2,500 election departments in 49 states. Blue state breakdown: 65.6% went to Biden-won states ($1.10/voter vs $0.72/voter in Trump states). BUT the trifecta breakdown complicates the narrative: Republican trifecta states actually received $143.9M vs $96.1M for Democratic trifecta states, an unexpected advantage for GOP-controlled legislatures.
 
 **Anti-Zuckerbucks legislation:** The donation became a lightning rod. 28 states enacted bans on private election administration funding (no state had such a law before 2021). Nonetheless, 6 Democratic governors vetoed state-level bans. House Administration Committee hearing titled "Confronting Zuckerbucks" held Feb 7, 2024. The END ZUCKERBUCKS Act passed the House but stalled in Senate.
 
@@ -86,9 +86,9 @@ Zuckerberg and his wife Priscilla Chan donated a total of **$419.5 million** in 
 
 **2025 Zuckerberg political realignment:** No personal donation to either presidential candidate (2024 cycle). No endorsement of Harris or Trump through public channels. In August 2024, Zuckerberg wrote to Congress criticizing Biden administration pressure on COVID censorship. July 2024: Zuckerberg praised Trump as "badass" after assassination attempt. November 2024: Private Mar-a-Lago meeting with Trump-elect. Stephen Miller statement: Zuckerberg "very clear about his desire to be a supporter and participant."
 
-**2026 White House integration:** March 2026 — Trump appointed Zuckerberg to Presidential Council of Advisors on Science and Technology (PCAST) alongside Huang (Nvidia CEO) and Ellison (Oracle founder). Meta funded State Ballroom construction at White House (capital access signal).
+**2026 White House integration:** March 2026. Trump appointed Zuckerberg to Presidential Council of Advisors on Science and Technology (PCAST) alongside Huang (Nvidia CEO) and Ellison (Oracle founder). Meta funded State Ballroom construction at White House (capital access signal).
 
-**Meta Lobbying Operation:** The primary political weapon. Meta spent a record $24.4 million on lobbying in 2024 (a 27% increase over 2023) powered by 65 lobbyists. In Q1 2025 alone, Meta spent $8 million — its highest single-quarter outlay ever — employing 85 lobbyists as the FTC antitrust trial approached. Meta ranks 8th out of 9,200 lobbying clients tracked by OpenSecrets.
+**Meta Lobbying Operation:** The primary political weapon. Meta spent a record $24.4 million on lobbying in 2024 (a 27% increase over 2023) powered by 65 lobbyists. In Q1 2025 alone, Meta spent $8 million, its highest single-quarter outlay ever, employing 85 lobbyists as the FTC antitrust trial approached. Meta ranks 8th out of 9,200 lobbying clients tracked by OpenSecrets.
 
 ---
 
@@ -96,7 +96,7 @@ Zuckerberg and his wife Priscilla Chan donated a total of **$419.5 million** in 
 
 | Date | Recipient/Target | Amount | Policy Return | Time Gap |
 |------|-----------------|--------|---------------|----------|
-| Sep 2020 | CTCL election infrastructure grants | $419.5M total | Political goodwill, election access infrastructure; later became liability requiring political rehabilitation | — |
+| Sep 2020 | CTCL election infrastructure grants | $419.5M total | Political goodwill, election access infrastructure; later became liability requiring political rehabilitation |, |
 | 2020-2022 | Democratic candidates and committees | ~$25K direct | Regulatory restraint during Biden administration; FTC case filed but progressed slowly | 1-2 years |
 | Jan 2025 | Nick Clegg replaced by Joel Kaplan (Bush WH Deputy Chief of Staff) as head of global affairs | Corporate restructuring | Republican political alignment; Trump access channel established | Immediate |
 | Jan 2025 | Meta ends third-party fact-checking program | Institutional cost | Trump praise; hostile rhetoric against Meta ceased | Immediate |
@@ -104,7 +104,7 @@ Zuckerberg and his wife Priscilla Chan donated a total of **$419.5 million** in 
 | Jan 2025 | Trump inaugural fund | $1M | Political access, regulatory goodwill signal | Ongoing |
 | Apr 2025 | Dina Powell McCormick (Trump first-term advisor) appointed to Meta board | Board seat | Second Trump-aligned board member; reinforced GOP alignment | Ongoing |
 | 2024-2025 | Meta lobbying operation | $24.4M (2024), $26.3M (2025) | TikTok ban momentum (eliminates competitor), antitrust defense, AI regulation shaping | Ongoing |
-| Nov 2025 | FTC antitrust trial concludes | $50M+ legal defense | Meta wins — Judge Boasberg rules FTC failed to prove monopoly; TikTok/YouTube count as competitive substitutes; Instagram and WhatsApp acquisitions preserved | 5 years (from 2020 filing) |
+| Nov 2025 | FTC antitrust trial concludes | $50M+ legal defense | Meta wins. Judge Boasberg rules FTC failed to prove monopoly; TikTok/YouTube count as competitive substitutes; Instagram and WhatsApp acquisitions preserved | 5 years (from 2020 filing) |
 | Mar 2026 | PCAST appointment alongside Nvidia/Oracle CEOs | Prestige/access | White House scientific advisory board seat; state capital investment (State Ballroom funding) | Immediate |
 
 > [!money]
@@ -114,11 +114,11 @@ Zuckerberg and his wife Priscilla Chan donated a total of **$419.5 million** in 
 
 ### What They've Gotten
 
-**FTC Antitrust Victory (November 2025):** After a six-week bench trial, U.S. District Judge James E. Boasberg ruled that the FTC failed to prove Meta currently holds a monopoly in personal social networking. The court found the FTC's proposed market definition — limited to Facebook, Instagram, Snapchat, and MeWe — was unduly narrow, and that TikTok and YouTube function as competitive substitutes. Meta will not be forced to divest Instagram or WhatsApp. This is the single largest regulatory victory in Zuckerberg's career, preserving hundreds of billions in shareholder value.
+**FTC Antitrust Victory (November 2025):** After a six-week bench trial, U.S. District Judge James E. Boasberg ruled that the FTC failed to prove Meta currently holds a monopoly in personal social networking. The court found the FTC's proposed market definition, limited to Facebook, Instagram, Snapchat, and MeWe, was unduly narrow, and that TikTok and YouTube function as competitive substitutes. Meta will not be forced to divest Instagram or WhatsApp. This is the single largest regulatory victory in Zuckerberg's career, preserving hundreds of billions in shareholder value.
 
-**TikTok Ban Momentum:** Meta's lobbying operation ($24.4M in 2024) coincided with — and benefited from — Congress passing the TikTok ban legislation. While Meta was not the sole driver, the elimination or forced sale of its largest competitor serves Meta's commercial interests directly. Meta's record lobbying quarter (Q1 2024, $7.6M) coincided with the House vote on the TikTok ban.
+**TikTok Ban Momentum:** Meta's lobbying operation ($24.4M in 2024) coincided with, and benefited from. Congress passing the TikTok ban legislation. While Meta was not the sole driver, the elimination or forced sale of its largest competitor serves Meta's commercial interests directly. Meta's record lobbying quarter (Q1 2024, $7.6M) coincided with the House vote on the TikTok ban.
 
-**Trump Détente:** Trump had previously called for Meta's prosecution and Zuckerberg's imprisonment. After the realignment — Kaplan promotion, fact-checking termination, board appointments, inaugural donation — Trump praised Meta and dropped hostile rhetoric entirely. The political threat was neutralized through institutional restructuring rather than traditional campaign donations.
+**Trump Détente:** Trump had previously called for Meta's prosecution and Zuckerberg's imprisonment. After the realignment. Kaplan promotion, fact-checking termination, board appointments, inaugural donation. Trump praised Meta and dropped hostile rhetoric entirely. The political threat was neutralized through institutional restructuring rather than traditional campaign donations.
 
 **Regulatory Shield:** Meta's political pivot reduced the likelihood of aggressive action across multiple fronts: antitrust (FTC), content moderation legislation, AI regulation, and data privacy enforcement. By aligning with the party controlling the White House, Senate, and House, Zuckerberg purchased a regulatory ceasefire.
 
@@ -126,7 +126,7 @@ Zuckerberg and his wife Priscilla Chan donated a total of **$419.5 million** in 
 
 ### The Revolving Door
 
-**Joel Kaplan:** Bush White House Deputy Chief of Staff for Policy → Meta VP of Global Public Policy (2011) → Meta President of Global Affairs (January 2025). Kaplan's promotion to replace Nick Clegg was the organizational embodiment of Meta's political realignment — a Republican operative now controls Meta's global policy operation. Effect: Meta's annual federal lobbying increased from <$400K (2009) to $1.3M (2011) after Kaplan's hire, then to $24.4M (2024). Sen. Warren: since Kaplan's hiring, Facebook spent $71M+ on lobbying — nearly **100 times** the pre-Kaplan rate.
+**Joel Kaplan:** Bush White House Deputy Chief of Staff for Policy → Meta VP of Global Public Policy (2011) → Meta President of Global Affairs (January 2025). Kaplan's promotion to replace Nick Clegg was the organizational embodiment of Meta's political realignment, a Republican operative now controls Meta's global policy operation. Effect: Meta's annual federal lobbying increased from <$400K (2009) to $1.3M (2011) after Kaplan's hire, then to $24.4M (2024). Sen. Warren: since Kaplan's hiring, Facebook spent $71M+ on lobbying, nearly **100 times** the pre-Kaplan rate.
 
 **Nick Clegg:** UK Deputy Prime Minister (liberal moderate) → Meta VP Global Affairs (2018) → Meta President Global Affairs (2022-2025) → Replaced by Kaplan. Clegg's removal signals institutional shift away from political moderation toward Republican alignment.
 
@@ -158,13 +158,13 @@ Zuckerberg and his wife Priscilla Chan donated a total of **$419.5 million** in 
 
 ### Class Analysis
 
-Zuckerberg represents the purest form of tech oligarch political operation: he doesn't need to donate hundreds of millions to campaigns because he controls the information infrastructure itself. Meta's platforms reach 3.9 billion users monthly — more than any government, media company, or political party. The political power isn't in the PAC contributions ($197,300 in 2024); it's in the platform decisions: what content gets amplified, what gets suppressed, whether fact-checking exists, and who sits on the board making those decisions.
+Zuckerberg represents the purest form of tech oligarch political operation: he doesn't need to donate hundreds of millions to campaigns because he controls the information infrastructure itself. Meta's platforms reach 3.9 billion users monthly, more than any government, media company, or political party. The political power isn't in the PAC contributions ($197,300 in 2024); it's in the platform decisions: what content gets amplified, what gets suppressed, whether fact-checking exists, and who sits on the board making those decisions.
 
-The 2020-2025 arc demonstrates how billionaire political alignment works at scale. Zuckerberg's $400 million in 2020 election spending — ostensibly nonpartisan — generated a Republican backlash that created regulatory leverage against Meta. The 2025 realignment was the payoff: structural changes to Meta's governance, content policies, and political relationships, all designed to neutralize that leverage. The transaction wasn't a campaign donation; it was a corporate restructuring.
+The 2020-2025 arc demonstrates how billionaire political alignment works at scale. Zuckerberg's $400 million in 2020 election spending, ostensibly nonpartisan, generated a Republican backlash that created regulatory leverage against Meta. The 2025 realignment was the payoff: structural changes to Meta's governance, content policies, and political relationships, all designed to neutralize that leverage. The transaction wasn't a campaign donation; it was a corporate restructuring.
 
 The FTC antitrust victory in November 2025 validated the strategy. By the time the case went to trial, the political environment had shifted: a Trump-aligned Meta faced a Trump-appointed FTC chair with diminished appetite for breaking up a newly cooperative tech giant. Whether the political realignment directly influenced the judicial outcome is unknowable; that the realignment reduced the political pressure for aggressive prosecution is observable.
 
-The structural function Zuckerberg serves for the donor class: he demonstrates that tech monopolists can survive regulatory threats by aligning their platforms with political power. The lesson for every tech CEO: when antitrust comes, the defense isn't legal — it's political. Restructure your company's political alignment, sacrifice institutional commitments that antagonize the ruling party, and preserve your market position. The cost is measured in credibility; the benefit is measured in market capitalization.
+The structural function Zuckerberg serves for the donor class: he demonstrates that tech monopolists can survive regulatory threats by aligning their platforms with political power. The lesson for every tech CEO: when antitrust comes, the defense isn't legal, it's political. Restructure your company's political alignment, sacrifice institutional commitments that antagonize the ruling party, and preserve your market position. The cost is measured in credibility; the benefit is measured in market capitalization.
 
 ---
 

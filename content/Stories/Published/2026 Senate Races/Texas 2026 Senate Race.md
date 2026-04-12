@@ -21,13 +21,13 @@ donors: [[Oil & Gas PACs]] Small-Dollar Democratic Donors [[Defense Contractors]
 
 ### The Race
 
-Texas's 2026 Senate seat is a **Republican defense** — but with unusual primary turbulence. Incumbent John Cornyn (R) is running for a fifth term and is facing a serious primary challenge from Texas Attorney General Ken Paxton (R). The March 3 primary produced no majority winner, forcing a **May 26 Republican runoff** between Cornyn and Paxton.
+Texas's 2026 Senate seat is a **Republican defense**, but with unusual primary turbulence. Incumbent John Cornyn (R) is running for a fifth term and is facing a serious primary challenge from Texas Attorney General Ken Paxton (R). The March 3 primary produced no majority winner, forcing a **May 26 Republican runoff** between Cornyn and Paxton.
 
 On the Democratic side, **James Talarico** (State Rep, D-Austin) won the Democratic primary with 47% of the vote against U.S. Rep. Jasmine Crockett and Ahmad Hassan on March 3, 2026.
 
 ### Republican Primary Runoff (May 26, 2026):
-- **[[John Cornyn]]** (incumbent) — four-term senator, party-aligned, McConnell ally
-- **Ken Paxton** — Trump-aligned, indicted on securities fraud charges (trial ongoing), hard-right positioning
+- **[[John Cornyn]]** (incumbent), four-term senator, party-aligned, McConnell ally
+- **Ken Paxton**. Trump-aligned, indicted on securities fraud charges (trial ongoing), hard-right positioning
 
 ### Democratic Nominee:
 - **James Talarico** (settled as nominee post-March 3 primary)
@@ -41,7 +41,7 @@ Winner of Republican runoff will face Talarico. Texas is a solid Republican stat
 
 ### The Money Map
 
-### James Talarico (Democratic Nominee) — Fundraising:
+### James Talarico (Democratic Nominee). Fundraising:
 - **Total raised (as of early February 2026):** $20M+ (one of the largest grassroots fundraising operations in 2026 Democratic politics)
 - **Q1 2026 (first 6 weeks):** $7.4M raised
 - **Q4 2025 total:** $13M cumulative
@@ -53,7 +53,7 @@ Winner of Republican runoff will face Talarico. Texas is a solid Republican stat
 - [Source: KSAT: Talarico reports raising nearly $7M](https://www.ksat.com/news/texas/2026/01/02/james-talarico-reports-raising-nearly-7-million-continuing-cash-influx-to-us-senate-bid/) (Tier 2)
 - [Source: Texas Tribune: Talarico holds cash lead over Crockett in Senate primary](https://www.texastribune.org/2026/01/31/texas-us-senate-democratic-primary-fundraising-q4-james-talarico-jasmine-crockett/) (Tier 2)
 
-### Republican Nominee (Cornyn or Paxton) — Fundraising (Limited 2026 data):
+### Republican Nominee (Cornyn or Paxton). Fundraising (Limited 2026 data):
 - **Cornyn 2024 cycle:** $27.5M+ raised (for 2024 reelection in a non-presidential year)
 - **Paxton 2024 cycle:** $18M+ raised despite indictment and party isolation
 - **2026 dynamics:** Cornyn likely to have access to traditional Republican donor network, oil/gas PACs, and establishment funding. Paxton likely to have Trump-world money and populist small-dollar donors, but less institutional access.
@@ -74,8 +74,8 @@ This is a striking asymmetry. Talarico raised $20M from small-dollar donors (tea
 
 ### Which donor forces are shaping this race?
 - **[[Fossil Fuel Bloc|Fossil Fuel Bloc]] (primary Republican money):** Texas oil/gas industry sees this race as critical to maintaining Senate access to energy policy. Cornyn sits on the Energy and Natural Resources Committee. Paxton has been friendly to oil/gas deregulation as AG. Either Republican nominee will be heavily funded by oil/gas PACs. Talarico's no-corporate-PAC stance means zero oil/gas money.
-  - [Fossil Fuel Bloc node: $578M+ national political spending (2024)](https://fossulfuelbloc.md/?q=Texas%202026%20Senate%20Race) (Tier 2)
-  - [[Chevron|Chevron]], [[ExxonMobil|ExxonMobil]] primary Texas operations = highest density of oil/gas donors nationally
+ - [Fossil Fuel Bloc node: $578M+ national political spending (2024)](https://fossulfuelbloc.md/?q=Texas%202026%20Senate%20Race) (Tier 2)
+ - [[Chevron|Chevron]], [[ExxonMobil|ExxonMobil]] primary Texas operations = highest density of oil/gas donors nationally
 
 - **Small-dollar Democratic base (Talarico's money):** Talarico's $20M from $100-or-less donors is one of the largest small-dollar fundraising operations in 2026 Democratic politics. This represents teacher unions (indirectly funding via small-dollar individuals), progressive grassroots ([[ActBlue|ActBlue]] infrastructure), and out-of-state Democratic donors (Sanders 2016/2020 infrastructure). This is capital-independent organizing money.
 

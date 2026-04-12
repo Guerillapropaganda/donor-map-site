@@ -26,7 +26,7 @@ Obama's economic team was the most Wall Street-integrated cabinet appointment in
 
 | Date | Position | Official | Prior Affiliation | Campaign Donation Connection | Policy Outcome |
 |------|----------|----------|-------------------|------------------------------|----------------|
-| 2007-08 | Campaign | — | [[Goldman Sachs]] employees/PAC | $994K contributions to Obama (2nd largest donor) | Financial sector access |
+| 2007-08 | Campaign |, | [[Goldman Sachs]] employees/PAC | $994K contributions to Obama (2nd largest donor) | Financial sector access |
 | 2008-11-24 | Treasury Secretary (nominee) | Tim Geithner | NY Fed president; [[Goldman Sachs|Goldman Sachs]] alumnus | Direct Wall Street pipeline | Protected Wall Street from prosecution |
 | 2009-01 | NEC Director | Larry Summers | D.E. Shaw hedge fund; earned $5.2M in 2008 | Summers-friendly Silicon Valley donors | Bailout-first economic response; rejected alternatives |
 | 2009-01 | Economic Advisor | Gene Sperling | Goldman Sachs consultant; $887,727 payment for "charitable giving advice" | Direct Goldman compensation | Preserved bank profit structures |
@@ -62,7 +62,7 @@ Obama's leaked comment to Wall Street executives in March 2009 perfectly capture
 
 "I'm the only thing between you and the pitchforks."
 
-To Wall Street, this meant: I understand your existential threat; I will protect you from popular rage. To progressives, this meant: I'm containing the mob, don't worry, justice will prevail. The quote was directed at bankers — an explicit promise of protection. It was kept.
+To Wall Street, this meant: I understand your existential threat; I will protect you from popular rage. To progressives, this meant: I'm containing the mob, don't worry, justice will prevail. The quote was directed at bankers, an explicit promise of protection. It was kept.
 
 The pitchforks metaphor acknowledged that public anger at financial sector was legitimate. But the promise was to Wall Street, not to the public. Obama positioned himself as the buffer between the financial sector and accountability. He fulfilled this role perfectly.
 
@@ -92,11 +92,11 @@ Holder's law firm billed millions in hours defending the financial sector in reg
 
 ### Analytical Patterns
 
-**The Genuine Win + Structural Limit** — TARP prevented total banking system collapse, which would have been catastrophic. Economic collapse prevents all other policy. But the structural limit: the same institutions that caused the crisis remained intact, preserved in their profitable form, with no criminal consequences. The policy prevented systemic failure but ensured systemic continuity of the same structures that had failed.
+**The Genuine Win + Structural Limit**. TARP prevented total banking system collapse, which would have been catastrophic. Economic collapse prevents all other policy. But the structural limit: the same institutions that caused the crisis remained intact, preserved in their profitable form, with no criminal consequences. The policy prevented systemic failure but ensured systemic continuity of the same structures that had failed.
 
-**The Two-Audience Problem** — Obama told progressives he was holding Wall Street accountable while simultaneously appointing Wall Street to run the bailout. He told bankers he was protecting them from prosecution while appearing to the public to prosecute financial crime. The leaked "pitchforks" quote reveals the actual audience: Wall Street executives, not the public.
+**The Two-Audience Problem**. Obama told progressives he was holding Wall Street accountable while simultaneously appointing Wall Street to run the bailout. He told bankers he was protecting them from prosecution while appearing to the public to prosecute financial crime. The leaked "pitchforks" quote reveals the actual audience: Wall Street executives, not the public.
 
-**The Villain Framing** — The narrative of the financial crisis shifted from "Wall Street fraud caused this" to "the financial sector made mistakes we must move past." The criminals became the victims of their own collapse, requiring government rescue. Focusing on the bankers' criminal intent was reframed as "unhelpful blame" and "backwards-looking."
+**The Villain Framing**. The narrative of the financial crisis shifted from "Wall Street fraud caused this" to "the financial sector made mistakes we must move past." The criminals became the victims of their own collapse, requiring government rescue. Focusing on the bankers' criminal intent was reframed as "unhelpful blame" and "backwards-looking."
 
 ---
 

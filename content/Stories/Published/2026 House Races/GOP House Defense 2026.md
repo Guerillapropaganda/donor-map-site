@@ -110,16 +110,16 @@ These three seats are the Democratic party's most high-probability flip targets 
 
 The NRCC targets 26+ House Democrats as part of an offensive strategy. These include:
 
-- **All 13 Democrats who represent Trump-won districts** — targeting Democrats in fundamentally Republican seats as low-hanging fruit
-- **Democrats who broke party ranks on key votes** — targeting members who opposed party consensus on spending, border, or other issues
-- **Freshman Democrats elected by <5 points** — mirroring their defense strategy by targeting Democratic freshmen with narrow margins
+- **All 13 Democrats who represent Trump-won districts**, targeting Democrats in fundamentally Republican seats as low-hanging fruit
+- **Democrats who broke party ranks on key votes**, targeting members who opposed party consensus on spending, border, or other issues
+- **Freshman Democrats elected by <5 points**, mirroring their defense strategy by targeting Democratic freshmen with narrow margins
 
 [NRCC Names 26 House Democrats to Initial Target List for 2026 - Roll Call](https://rollcall.com/2025/03/17/house-republicans-nrcc-targets-midterm-elections/) (Tier 2)
 
 ### Most vulnerable Democrats (NRCC's Tier 1 targets):
-- Josh Harder (CA-13) — actually this is Adam Gray; rank him as top pick
-- George Whitesides (CA-20) — narrow 2024 margin
-- Dave Min (CA-37) — narrow 2024 margin
+- Josh Harder (CA-13), actually this is Adam Gray; rank him as top pick
+- George Whitesides (CA-20), narrow 2024 margin
+- Dave Min (CA-37), narrow 2024 margin
 - Several Democrats in Trump +3 to Trump +8 districts
 
 ### The Money Advantage Question: Who Has More Cash?

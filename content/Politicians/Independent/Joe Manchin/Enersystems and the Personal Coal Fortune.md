@@ -41,7 +41,7 @@ donors: [[Fossil Fuel Bloc]]
 - Income (2011–2020): $80K–$250K from dividends/interest
 - Asset value: Up to $500K
 
-**How Enersystems works:** Founded 1988 by Roch Manchin with Joe as president, secretary, treasurer. Buys "gob" — waste coal refuse from mining operations — and sells it to the **Grant Town Power Plant** in Marion County, West Virginia. The company also performs virtually all operating and maintenance functions at Grant Town under a "Waste Fuel Services Agreement" (entered April 2013, revised September 2015). Enersystems is a middleman in the coal supply chain, profiting from every ton of coal burned. Every policy that extends coal's viability extends Manchin's personal income.
+**How Enersystems works:** Founded 1988 by Roch Manchin with Joe as president, secretary, treasurer. Buys "gob", waste coal refuse from mining operations, and sells it to the **Grant Town Power Plant** in Marion County, West Virginia. The company also performs virtually all operating and maintenance functions at Grant Town under a "Waste Fuel Services Agreement" (entered April 2013, revised September 2015). Enersystems is a middleman in the coal supply chain, profiting from every ton of coal burned. Every policy that extends coal's viability extends Manchin's personal income.
 
 ---
 
@@ -50,7 +50,7 @@ donors: [[Fossil Fuel Bloc]]
 Every Manchin vote on energy and climate policy must be read through the Enersystems lens:
 
 **Build Back Better (2021–2022):** Manchin single-handedly killed $186 billion in climate provisions from Biden's signature legislation. The original BBB included:
-- Clean Electricity Performance Program ($150B) — would have accelerated coal plant closures
+- Clean Electricity Performance Program ($150B), would have accelerated coal plant closures
 - Methane fee on fossil fuel operations
 - Electric vehicle incentives threatening gasoline demand
 - Clean energy tax credits at scale
@@ -70,11 +70,11 @@ Manchin killed the CEPP entirely. His stated reason: "I can't vote for a bill th
 
 ### The Grant Town Connection
 
-The Grant Town Power Plant — Enersystems' primary and sole customer (2008–2019 per EIA records) — is a 80-megawatt waste coal plant in Marion County, West Virginia. If the plant closes, Enersystems loses its market. Federal climate policy that would accelerate coal plant closures directly threatens Manchin's income stream.
+The Grant Town Power Plant. Enersystems' primary and sole customer (2008–2019 per EIA records), is a 80-megawatt waste coal plant in Marion County, West Virginia. If the plant closes, Enersystems loses its market. Federal climate policy that would accelerate coal plant closures directly threatens Manchin's income stream.
 
 **Ownership and operation:** Owned by American Bituminous Power Partners (AmBit). Electricity sold to Monongahela Power Company (Mon Power), a subsidiary of FirstEnergy. West Virginia ratepayers fund the purchase through utility rates. Enersystems operates virtually all of the plant's operating and maintenance functions under the Waste Fuel Services Agreement.
 
-**The rate-payer bailout:** Between 2013 and 2016, the WV Public Service Commission allowed Mon Power to pay the Grant Town plant **$56 million above market price**. In 2015, another above-market rate was allowed — effectively forcing West Virginia electricity ratepayers to subsidize the plant that is Enersystems' only customer and Manchin's sole source of income.
+**The rate-payer bailout:** Between 2013 and 2016, the WV Public Service Commission allowed Mon Power to pay the Grant Town plant **$56 million above market price**. In 2015, another above-market rate was allowed, effectively forcing West Virginia electricity ratepayers to subsidize the plant that is Enersystems' only customer and Manchin's sole source of income.
 
 **Public health impact:** The Clean Air Task Force estimates that emissions from Grant Town Power Plant caused (2019 baseline):
 - **18 annual deaths**

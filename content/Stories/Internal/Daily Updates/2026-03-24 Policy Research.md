@@ -9,19 +9,19 @@ parent: null
 
 #analysis
 
-### Daily Policy Research Log — March 24, 2026
+### Daily Policy Research Log. March 24, 2026
 
 *Automated scan covering federal legislation, executive actions, agency rulemaking, SCOTUS, and state legislation. All findings connected to donor interests tracked in vault.*
 
 ---
 
-### 1. Iran War — Trump Postpones Hormuz Ultimatum, Claims "Productive" Talks
+### 1. Iran War. Trump Postpones Hormuz Ultimatum, Claims "Productive" Talks
 
-The biggest policy development of the day: Trump called off his 48-hour ultimatum to strike Iran's power plants and energy infrastructure, announcing a five-day pause citing "productive conversations" with Tehran. Markets responded immediately — Brent crude dropped nearly 11% to ~$100/bbl from $112, WTI fell over 10% to ~$88/bbl. The S&P 500 jumped 1.15%, the Dow and NASDAQ both rallied ~1.4%.
+The biggest policy development of the day: Trump called off his 48-hour ultimatum to strike Iran's power plants and energy infrastructure, announcing a five-day pause citing "productive conversations" with Tehran. Markets responded immediately. Brent crude dropped nearly 11% to ~$100/bbl from $112, WTI fell over 10% to ~$88/bbl. The S&P 500 jumped 1.15%, the Dow and NASDAQ both rallied ~1.4%.
 
 Iran denied any direct talks, with state media claiming Trump "retreated out of fear." However, CBS News reported exclusively that a senior Iranian Foreign Ministry official confirmed receiving "points from the U.S. through mediators" that are "being reviewed."
 
-The military context remains severe: CENTCOM reports over 9,000 Iranian targets struck, 140+ naval vessels destroyed, and 9,000+ combat flights since the war began on March 1. This is not a ceasefire — it is a tactical pause on infrastructure escalation while combat operations continue.
+The military context remains severe: CENTCOM reports over 9,000 Iranian targets struck, 140+ naval vessels destroyed, and 9,000+ combat flights since the war began on March 1. This is not a ceasefire, it is a tactical pause on infrastructure escalation while combat operations continue.
 
 > [!money] Oil price whiplash and the donor calculus
 > The 10%+ oil price drop in a single day cuts both ways for the fossil fuel donor bloc. [[ExxonMobil]], [[Chevron]], and upstream producers like [[Kelcy Warren]] (Energy Transfer) see immediate revenue compression — Brent dropping from $113 to $100 erases roughly $1.3B/day in global upstream revenue. But the five-day pause also creates optionality: if talks collapse, prices spike again. The war itself remains the best thing to happen to fossil fuel profits since the Ukraine invasion. Track whether any oil industry lobbying emerges against a peace deal.
@@ -37,7 +37,7 @@ The military context remains severe: CENTCOM reports over 9,000 Iranian targets 
 
 ---
 
-### 2. DHS Shutdown — Deal Appears Close, ICE Funding Split Strategy Emerges
+### 2. DHS Shutdown. Deal Appears Close, ICE Funding Split Strategy Emerges
 
 After 38 days of partial shutdown, senators expressed "newfound optimism" Monday night that a deal was imminent. The emerging strategy: fund most of DHS (TSA, FEMA, CISA, Coast Guard, Secret Service) through a regular appropriations bill while splitting off ICE enforcement and removal operations funding for the partisan reconciliation process.
 
@@ -47,7 +47,7 @@ Senate Appropriations Chair Susan Collins (R-ME) said after a White House meetin
 
 Democrats are demanding to see actual legislative language. Senate Appropriations ranking member Patty Murray (D-WA): "I have not seen the language, and I don't agree to anything till I see the language."
 
-Meanwhile, GOP cracks are showing — several Republican senators have publicly expressed frustration with the shutdown's impact on TSA and airport security during spring break.
+Meanwhile, GOP cracks are showing, several Republican senators have publicly expressed frustration with the shutdown's impact on TSA and airport security during spring break.
 
 > [!money] The ICE-reconciliation pipeline
 > Splitting ICE enforcement funding into reconciliation is a donor-class masterstroke. Reconciliation requires only 51 Senate votes (no filibuster), ensuring private prison contractors [[CoreCivic]] and [[GEO Group]] get their funding regardless of Democratic opposition. This also embeds immigration enforcement spending into the same vehicle as tax cuts and defense spending — tying the carceral state expansion directly to the donor-class fiscal agenda. Track whether private prison lobbyists pushed this specific funding structure.
@@ -58,13 +58,13 @@ Meanwhile, GOP cracks are showing — several Republican senators have publicly 
 - [Roll Call: DHS funding deal appears close after White House talks](https://rollcall.com/2026/03/23/dhs-funding-deal-appears-close-after-white-house-talks/) (Tier 2)
 - [WSLS/AP: Senators consider deal to fund DHS but not ICE enforcement](https://www.wsls.com/news/politics/2026/03/24/senators-consider-deal-to-fund-homeland-security-but-not-ice-enforcement-as-airport-lines-snarl/) (Tier 2)
 - [The Hill: GOP cracks in Senate begin to show in DHS shutdown fight](https://thehill.com/homenews/senate/5795847-homeland-security-funding-stalemate/) (Tier 2)
-- [CNN: Trump rejected an off-ramp to the DHS shutdown — for now](https://www.cnn.com/2026/03/23/politics/trump-dhs-shutdown-save-america-act) (Tier 2)
+- [CNN: Trump rejected an off-ramp to the DHS shutdown, for now](https://www.cnn.com/2026/03/23/politics/trump-dhs-shutdown-save-america-act) (Tier 2)
 
 ---
 
 ### 3. Pentagon Burning Through $152B Reconciliation Fund in One Year
 
-Breaking Defense and Federal News Network report that the DoD plans to spend all $152 billion allocated through the first reconciliation bill in FY2026 — even though Congress allocated the funding to be spent over five years. This represents a dramatic acceleration from the administration's own earlier plans ($113B in FY26).
+Breaking Defense and Federal News Network report that the DoD plans to spend all $152 billion allocated through the first reconciliation bill in FY2026, even though Congress allocated the funding to be spent over five years. This represents a dramatic acceleration from the administration's own earlier plans ($113B in FY26).
 
 Major spending allocations:
 
@@ -80,15 +80,15 @@ Combined with the regular defense appropriation and the pending $200B Iran suppl
 > [!money] Reconciliation as defense contractor slush fund
 > Burning five years of funding in one year is not fiscal discipline — it's a procurement bonanza for [[Lockheed Martin]] (JASSM-ER, missile defense), [[Boeing]] (shipbuilding, munitions), [[Raytheon (RTX)]] (LRASM, radar systems), and [[Northrop Grumman]] (Golden Dome components). Breaking Defense editorialized that the spending plan "makes a perfect case against another round" of reconciliation defense funding — but the Iran war provides the political justification for reconciliation 2.0 regardless. The donor-class loop: defense contractors fund Armed Services Committee members → committee members authorize reconciliation defense spending → spending flows to those same contractors.
 
-- [Breaking Defense: Reconciliation revealed — how the Pentagon plans to spend all $152B in FY26](https://breakingdefense.com/2026/02/reconciliation-revealed-how-the-pentagon-plans-to-spend-all-152-billion-in-fy26/) (Tier 2)
+- [Breaking Defense: Reconciliation revealed, how the Pentagon plans to spend all $152B in FY26](https://breakingdefense.com/2026/02/reconciliation-revealed-how-the-pentagon-plans-to-spend-all-152-billion-in-fy26/) (Tier 2)
 - [Federal News Network: DoD plans to spend entire $152B from reconciliation in one year](https://federalnewsnetwork.com/defense-main/2026/02/dod-plans-to-spend-entire-152-billion-from-reconciliation-bill-in-one-year/) (Tier 2)
 - [Breaking Defense: Pentagon plans for reconciliation slush fund make case against another round](https://breakingdefense.com/2026/03/pentagon-plans-for-reconciliation-slush-fund-make-a-perfect-case-against-another-round/) (Tier 2)
 
 ---
 
-### 4. Fifth Circuit Kills FTC Merger Filing Overhaul — US Chamber Victory
+### 4. Fifth Circuit Kills FTC Merger Filing Overhaul. US Chamber Victory
 
-On March 19, the Fifth Circuit Court of Appeals denied the FTC's motion to stay a district court ruling that struck down the agency's overhauled Hart-Scott-Rodino (HSR) merger filing requirements — the first major update to premerger notification rules in nearly 50 years. The ruling is now effective immediately, reverting to the old, less burdensome filing form.
+On March 19, the Fifth Circuit Court of Appeals denied the FTC's motion to stay a district court ruling that struck down the agency's overhauled Hart-Scott-Rodino (HSR) merger filing requirements, the first major update to premerger notification rules in nearly 50 years. The ruling is now effective immediately, reverting to the old, less burdensome filing form.
 
 The district court found two independent grounds for invalidation: (1) the new rules exceeded the FTC's statutory authority under the HSR Act, and (2) the rule was "arbitrary and capricious" because the FTC failed to adequately weigh costs against benefits. The plaintiff was the US Chamber of Commerce, joined by other business groups.
 
@@ -104,11 +104,11 @@ The district court found two independent grounds for invalidation: (1) the new r
 
 ---
 
-### 5. SCOTUS — Al Otro Lado Oral Arguments (Immigration), Zorn Qualified Immunity
+### 5. SCOTUS. Al Otro Lado Oral Arguments (Immigration), Zorn Qualified Immunity
 
 Two notable SCOTUS developments on March 24:
 
-**Noem v. Al Otro Lado (oral arguments today):** The Court heard arguments on whether asylum seekers stopped by officials on the Mexican side of the U.S.-Mexico border have legally "arrived in the United States" under immigration law. A ruling that they have not arrived would strip asylum protections from people turned away at the border — directly expanding executive deportation power. The case was filed under Noem's name as DHS Secretary; [[_Markwayne Mullin Master Profile|Markwayne Mullin]] takes over March 31.
+**Noem v. Al Otro Lado (oral arguments today):** The Court heard arguments on whether asylum seekers stopped by officials on the Mexican side of the U.S.-Mexico border have legally "arrived in the United States" under immigration law. A ruling that they have not arrived would strip asylum protections from people turned away at the border, directly expanding executive deportation power. The case was filed under Noem's name as DHS Secretary; [[_Markwayne Mullin Master Profile|Markwayne Mullin]] takes over March 31.
 
 **Zorn v. Linton (per curiam, March 23):** The Court held that Sergeant Jacob Zorn was entitled to qualified immunity in a police excessive force case. Per curiam decisions (unsigned, without oral argument) in qualified immunity cases continue the Court's pattern of expanding police legal protections.
 
@@ -121,7 +121,7 @@ Two notable SCOTUS developments on March 24:
 
 ---
 
-### 6. Executive Orders — Fraud Task Force Positioning for Medicaid Purge
+### 6. Executive Orders. Fraud Task Force Positioning for Medicaid Purge
 
 No new executive orders issued March 24. However, the March 16 Fraud Task Force EO deserves continued attention as Medicaid implementation deadlines approach:
 
@@ -139,12 +139,12 @@ Additional March EOs worth tracking for donor connections:
 > [!contradiction] "Fighting fraud" while creating the conditions for coverage loss
 > The Fraud Task Force EO is a preemptive narrative device. The reconciliation bill's Medicaid work requirements will mechanically disenroll millions who fail to document 80 hours/month of work — many of whom are already working but lack employer verification systems. Framing this as "fraud elimination" rather than "policy-driven disenrollment" protects the tax cuts that funded the Medicaid cuts. Private insurers ([[UnitedHealth Group - Optum]], [[Anthem - Elevance Health]]) benefit either way — people pushed off Medicaid either buy private coverage (profit) or go uninsured (reduced competition for the insured market).
 
-- [White House: Fact Sheet — Task Force to Eliminate Fraud](https://www.whitehouse.gov/fact-sheets/2026/03/fact-sheet-president-donald-j-trump-establishes-the-task-force-to-eliminate-fraud/) (Tier 1)
+- [White House: Fact Sheet. Task Force to Eliminate Fraud](https://www.whitehouse.gov/fact-sheets/2026/03/fact-sheet-president-donald-j-trump-establishes-the-task-force-to-eliminate-fraud/) (Tier 1)
 - [Federal Register: 2026 Trump Executive Orders](https://www.federalregister.gov/presidential-documents/executive-orders/donald-trump/2026) (Tier 1)
 
 ---
 
-### 7. California — No Major New Legislation This Week
+### 7. California. No Major New Legislation This Week
 
 The California legislature is in session but no significant new bills were signed or advanced in the March 23-24 window. The most recent notable action was Governor Newsom's demand that DHS release $500M in stalled FEMA funding for LA wildfire recovery, which was covered in the March 24 News Scan.
 
@@ -158,22 +158,22 @@ Items to watch in the CA legislature:
 ### Vault Cross-References and Update Flags
 
 ### Donor profiles to update:
-- [[ExxonMobil]] / [[Chevron]] — Oil price whiplash from Hormuz pause ($113 → $100), windfall profits still elevated vs. pre-war levels
-- [[Lockheed Martin]] / [[Boeing]] / [[Raytheon (RTX)]] — Pentagon burning $152B reconciliation fund in single year; munitions and shipbuilding allocations
-- [[CoreCivic]] / [[GEO Group]] — DHS deal emerging with ICE funding split to reconciliation; SCOTUS Al Otro Lado oral arguments
-- [[Fairshake PAC]] — Track whether crypto donor bloc responds to market rally (crypto prices up with equity markets)
+- [[ExxonMobil]] / [[Chevron]]. Oil price whiplash from Hormuz pause ($113 → $100), windfall profits still elevated vs. pre-war levels
+- [[Lockheed Martin]] / [[Boeing]] / [[Raytheon (RTX)]]. Pentagon burning $152B reconciliation fund in single year; munitions and shipbuilding allocations
+- [[CoreCivic]] / [[GEO Group]]. DHS deal emerging with ICE funding split to reconciliation; SCOTUS Al Otro Lado oral arguments
+- [[Fairshake PAC]]. Track whether crypto donor bloc responds to market rally (crypto prices up with equity markets)
 
 ### New sub-notes flagged:
-- **Pentagon $152B Reconciliation Burn Rate** — The decision to spend five years of funding in one year, with specific contractor allocations, deserves a dedicated sub-note under defense donors
-- **FTC Merger Oversight Rollback** — Fifth Circuit HSR ruling as part of broader regulatory capture pattern (connect to DOGE FTC staff cuts)
-- **DHS Shutdown Resolution Framework** — The ICE-reconciliation funding split as a structural template for bypassing bipartisan negotiation on enforcement spending
-- **Al Otro Lado and the Asylum Arrival Doctrine** — SCOTUS case implications for the detention-deportation pipeline
+- **Pentagon $152B Reconciliation Burn Rate**. The decision to spend five years of funding in one year, with specific contractor allocations, deserves a dedicated sub-note under defense donors
+- **FTC Merger Oversight Rollback**. Fifth Circuit HSR ruling as part of broader regulatory capture pattern (connect to DOGE FTC staff cuts)
+- **DHS Shutdown Resolution Framework**. The ICE-reconciliation funding split as a structural template for bypassing bipartisan negotiation on enforcement spending
+- **Al Otro Lado and the Asylum Arrival Doctrine**. SCOTUS case implications for the detention-deportation pipeline
 
 ### Pattern flags:
 | Pattern | Where It Appears |
 |---------|-----------------|
 | **Genuine Win + Structural Limit** | DHS deal: TSA funded (visible win), ICE enforcement deferred to reconciliation (structural dodge) |
-| **Donor-Class Override** | Pentagon burning 5 years of reconciliation funds in 1 year — Congress allocated over 5 years, DoD ignoring timeline |
+| **Donor-Class Override** | Pentagon burning 5 years of reconciliation funds in 1 year. Congress allocated over 5 years, DoD ignoring timeline |
 | **Two-Audience Problem** | Trump's Hormuz pause: peace messaging for markets, continued military operations on the ground |
 | **Dark Money Symmetry** | US Chamber funding HSR lawsuit while both parties' donors benefit from weaker merger oversight |
 

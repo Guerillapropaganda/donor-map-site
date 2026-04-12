@@ -15,7 +15,7 @@ donors: Healthcare Industry Networks
 
 ### The Pharmaceutical Enforcement Record as Attorney General
 
-As California Attorney General (2017–2021), Becerra pursued an aggressive pharmaceutical industry enforcement strategy, particularly targeting "pay-for-delay" schemes — agreements between brand-name drug companies and generic manufacturers to delay generic drug market entry.
+As California Attorney General (2017–2021), Becerra pursued an aggressive pharmaceutical industry enforcement strategy, particularly targeting "pay-for-delay" schemes, agreements between brand-name drug companies and generic manufacturers to delay generic drug market entry.
 
 ### Pay-for-Delay Mechanism:
 When a brand-name drug's patent is set to expire, generic manufacturers file applications to produce cheaper versions. But pharmaceutical companies have financial incentives to pay those generic manufacturers to stay out of the market, maintaining their monopoly price indefinitely. This scheme is anticompetitive and illegal, but it had been under-enforced for years.
@@ -38,15 +38,15 @@ But the critical question for class analysis is: did Becerra's enforcement actua
 ### The Structural Limitation of Pay-for-Delay Enforcement:
 Pay-for-delay settlements address a specific subset of generic drug competition. They do NOT address:
 
-- **Brand-name drug pricing:** Becerra's settlements did not reduce prices for brand-name drugs still under patent. He could not — patent law protects monopoly pricing.
-- **Patent evergreening:** Pharmaceutical companies extend patent life through minor formulation changes (e.g., changing pill color, combining drugs into fixed-dose combinations). This legal strategy was not challenged by Becerra's AG office.
+- **Brand-name drug pricing:** Becerra's settlements did not reduce prices for brand-name drugs still under patent. He could not, patent law protects monopoly pricing.
+- **Patent evergreening:** Pharmaceutical companies extend patent life through minor formulation changes (e.g. changing pill color, combining drugs into fixed-dose combinations). This legal strategy was not challenged by Becerra's AG office.
 - **Reference pricing and international comparisons:** US drug prices remain 2–3x higher than other developed nations. Becerra's enforcement did not address why.
 - **PBM rebates:** Pharmacy benefit managers receive rebates from manufacturers and use them to negotiate formulary placement. Becerra's office did not challenge this system.
 
 ### The Settlement Limitation:
-The $69M Teva settlement sounds substantial until contextualized: Teva's annual revenue is $15+ billion. The settlement is approximately 0.5% of annual revenue — a cost of doing business. For a pharmaceutical company, a $69M settlement is a negotiated fine for behavior that was profitable for 6 years.
+The $69M Teva settlement sounds substantial until contextualized: Teva's annual revenue is $15+ billion. The settlement is approximately 0.5% of annual revenue, a cost of doing business. For a pharmaceutical company, a $69M settlement is a negotiated fine for behavior that was profitable for 6 years.
 
-The question is not whether Becerra was aggressive — it is whether aggressive enforcement on pay-for-delay, without broader pharmaceutical industry restructuring, actually constrains industry power.
+The question is not whether Becerra was aggressive, it is whether aggressive enforcement on pay-for-delay, without broader pharmaceutical industry restructuring, actually constrains industry power.
 
 ---
 
@@ -96,7 +96,7 @@ During Becerra's HHS tenure, the pharmaceutical industry remained a major Democr
 These donations were not directly to Becerra, but they indicate the pharmaceutical industry's continued deep integration into Democratic fundraising infrastructure.
 
 ### The Regulatory Capture Framework:
-Regulatory capture occurs when regulated industries influence regulators to serve industry interests rather than public interest. The question is not whether Becerra was corrupt — it is whether his enforcement actions were designed to appease political constituents (patients, Democrats) while protecting pharmaceutical industry profitability and political access.
+Regulatory capture occurs when regulated industries influence regulators to serve industry interests rather than public interest. The question is not whether Becerra was corrupt, it is whether his enforcement actions were designed to appease political constituents (patients, Democrats) while protecting pharmaceutical industry profitability and political access.
 
 The evidence suggests managed rather than structural accountability:
 - Enforcement on pay-for-delay (specific, addressable) rather than patent evergreening (structural, would require industry restructuring)
@@ -109,7 +109,7 @@ The evidence suggests managed rather than structural accountability:
 
 Becerra enters the 2026 race with a healthcare industry credibility narrative: "I've fought pharmaceutical companies and negotiated lower drug prices." This is true within the constraints described above.
 
-The question for voters is whether they accept Becerra's version of pharmaceutical accountability — aggressive enforcement within existing law and industry relationships — or whether they want a governor who would restructure pharmaceutical industry power more fundamentally.
+The question for voters is whether they accept Becerra's version of pharmaceutical accountability, aggressive enforcement within existing law and industry relationships, or whether they want a governor who would restructure pharmaceutical industry power more fundamentally.
 
 His $3.8M cash advantage and 14% convention delegate support indicate significant healthcare industry network support. Healthcare workers (nurses, hospital staff), labor unions, and pharmaceutical supply chain employees see Becerra as experienced and trustworthy.
 

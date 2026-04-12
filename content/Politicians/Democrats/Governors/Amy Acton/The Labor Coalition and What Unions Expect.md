@@ -120,7 +120,7 @@ AFGE endorsed Acton specifically because federal employees face direct threat fr
 AFGE endorsed Acton because she is the Democratic alternative to Ramaswamy's anti-federal-worker platform. Expectation: Acton uses governor's office to:
 - Publicly oppose federal workforce cuts (bully pulpit)
 - Support federal employees facing federal layoffs (moral + political support)
-- Use state authority to oppose federal privatization (e.g., oppose privatization of state-federal programs)
+- Use state authority to oppose federal privatization (e.g. oppose privatization of state-federal programs)
 
 **The mechanism:** This endorsement is directly about federal employees' survival, not abstract politics. AFGE sees Acton as defending their jobs against Ramaswamy's explicit threat.
 
@@ -175,13 +175,13 @@ Acton's structural position: she depends on union infrastructure to deliver vict
 
 ### Analytical Patterns
 
-**Institutional Labor as Party Infrastructure, Not Grassroots Power** — The 1.2 million workers represented through union endorsements are organized through leadership, not member mobilization. This is efficient from a campaign perspective (leadership delivers coordinated field operations). But it structures union leadership as a Democratic Party stakeholder whose interests must be served through governance. Union members vote (they are constituents); union leadership negotiates (they are infrastructure partners). Acton relates differently to each.
+**Institutional Labor as Party Infrastructure, Not Grassroots Power**. The 1.2 million workers represented through union endorsements are organized through leadership, not member mobilization. This is efficient from a campaign perspective (leadership delivers coordinated field operations). But it structures union leadership as a Democratic Party stakeholder whose interests must be served through governance. Union members vote (they are constituents); union leadership negotiates (they are infrastructure partners). Acton relates differently to each.
 
-**The DOGE Connection as Existential** — Ramaswamy co-led DOGE proposing to eliminate 75% of federal workforce. This is not abstract Republican talking point; this is explicit threat to AFGE member employment. Federal employees in Ohio understand: Ramaswamy's election means their jobs are explicitly targeted. AFGE's endorsement of Acton is not ideological choice between Democrats; it is survival choice between keeping federal jobs or losing federal jobs. This makes federal employee turnout for Acton highly reliable (they are protecting their own existence).
+**The DOGE Connection as Existential**. Ramaswamy co-led DOGE proposing to eliminate 75% of federal workforce. This is not abstract Republican talking point; this is explicit threat to AFGE member employment. Federal employees in Ohio understand: Ramaswamy's election means their jobs are explicitly targeted. AFGE's endorsement of Acton is not ideological choice between Democrats; it is survival choice between keeping federal jobs or losing federal jobs. This makes federal employee turnout for Acton highly reliable (they are protecting their own existence).
 
-**The Manufacturing/Auto Worker Coalition as Class Analysis** — UAW endorsement of Acton (as against Ramaswamy, a venture capitalist) reflects fundamental class conflict. Auto workers' material interests are opposite venture capitalists': workers want job security, wage standards, workplace safety; venture capitalists want deregulation, union busting, automation-enabling labor flexibility. Acton (working-class origin, public sector healthcare background) represents worker interests; Ramaswamy (billionaire venture capitalist) represents capital interests. The endorsement is not performative; it is structural. This is what class politics looks like when applied consistently.
+**The Manufacturing/Auto Worker Coalition as Class Analysis**. UAW endorsement of Acton (as against Ramaswamy, a venture capitalist) reflects fundamental class conflict. Auto workers' material interests are opposite venture capitalists': workers want job security, wage standards, workplace safety; venture capitalists want deregulation, union busting, automation-enabling labor flexibility. Acton (working-class origin, public sector healthcare background) represents worker interests; Ramaswamy (billionaire venture capitalist) represents capital interests. The endorsement is not performative; it is structural. This is what class politics looks like when applied consistently.
 
-**The Statehouse Constraint on Union Priorities** — Union leadership can deliver field operations to elect Acton governor; but they cannot deliver Republican legislative votes for their policy priorities. If Republicans control Ohio House and Senate (current situation), union priorities (prevailing wage, collective bargaining protection, school funding) will be blocked. Acton will be personally aligned with union interests but structurally powerless to deliver them. This is the pattern: governor's bully pulpit matters; executive authority matters; but legislative hostility blocks implementation. Unions understand this. They will accept compromise and blame Republicans. But it creates disappointment risk.
+**The Statehouse Constraint on Union Priorities**. Union leadership can deliver field operations to elect Acton governor; but they cannot deliver Republican legislative votes for their policy priorities. If Republicans control Ohio House and Senate (current situation), union priorities (prevailing wage, collective bargaining protection, school funding) will be blocked. Acton will be personally aligned with union interests but structurally powerless to deliver them. This is the pattern: governor's bully pulpit matters; executive authority matters; but legislative hostility blocks implementation. Unions understand this. They will accept compromise and blame Republicans. But it creates disappointment risk.
 
 ---
 
@@ -194,7 +194,7 @@ Acton's structural position: she depends on union infrastructure to deliver vict
 - [Economic Policy Institute: Right-to-Work Impact on Union Density and Wages](https://www.epi.org/publication/right-to-work-states/) (Tier 1)
 - [Ohio Senate Bill 5 and 2011 Referendum | Ohio History Central](https://www.ohiohistory.org/research/) (Tier 2)
 - [Ohio Prevailing Wage Law | Ohio Revised Code § 4115.13](https://codes.ohio.gov/ohio-revised-code/section-4115.13) (Tier 1)
-- [AFGE: Federal Employees Under Attack — DOGE and Workforce Cuts](https://www.afge.org/) (Tier 2)
+- [AFGE: Federal Employees Under Attack. DOGE and Workforce Cuts](https://www.afge.org/) (Tier 2)
 - [Ramaswamy DOGE Plan: 75% Federal Workforce Cuts | Politico](https://www.politico.com/news/2025/vivek-ramaswamy-doge-federal-workforce) (Tier 2)
 
 ---

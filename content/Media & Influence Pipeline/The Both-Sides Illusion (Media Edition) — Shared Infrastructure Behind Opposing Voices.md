@@ -41,28 +41,28 @@ Six corporations control the majority of U.S. political media distribution. Thre
 
 ### Venture Capital Cross-Spectrum Map
 
-Silicon Valley's elite investors back media on both sides — the same people funding Trump super PACs also fund left-leaning outlets. This is not hedge-hedging. This is infrastructure investment: whoever wins the election, the venture class profits from media polarization and platform dependency.
+Silicon Valley's elite investors back media on both sides, the same people funding Trump super PACs also fund left-leaning outlets. This is not hedge-hedging. This is infrastructure investment: whoever wins the election, the venture class profits from media polarization and platform dependency.
 
 | Investor | Media Investments | Political Donations | Cross-Spectrum Pattern | Key Amount |
 |----------|------------------|---------------------|----------------------|------------|
-| **Marc Andreessen & Ben Horowitz (a16z)** | Free Press seed (center-right) | $2.5M each to Right for America (pro-Trump PAC) | "Non-partisan, one issue voters" — tech policy self-interest transcends ideology | $5M+ PAC + Free Press seed |
+| **Marc Andreessen & Ben Horowitz (a16z)** | Free Press seed (center-right) | $2.5M each to Right for America (pro-Trump PAC) | "Non-partisan, one issue voters", tech policy self-interest transcends ideology | $5M+ PAC + Free Press seed |
 | **David Sacks (Craft Ventures)** | Free Press seed (center-right) | $33,400 Clinton 2016 → $12M Trump fundraiser 2024 → AI/Crypto Czar | Full spectrum flip: Democratic donor → Trump fundraiser → White House appointment. Divested $200M+ crypto pre-appointment | $12M+ Trump + $33K Clinton |
-| **Alan Patricof (Greycroft)** | TYT investor (progressive), Axios seed (centrist), HuffPost ($315M exit to AOL) | $54K House Victory Project (Dem), Clinton/Obama foundation ties | Office "adorned with Clinton and Obama photos" — but portfolio spans spectrum | $315M+ (HuffPost exit) |
-| **Howard Schultz (Starbucks founder)** | Free Press seed (center-right) | Democratic mega-donor (Obama, Clinton, Murray, Cantwell) + independent presidential run 2020 | Called on CEOs to boycott ALL political donations — then invested in political media | $5M+ Dem + Free Press seed |
+| **Alan Patricof (Greycroft)** | TYT investor (progressive), Axios seed (centrist), HuffPost ($315M exit to AOL) | $54K House Victory Project (Dem), Clinton/Obama foundation ties | Office "adorned with Clinton and Obama photos", but portfolio spans spectrum | $315M+ (HuffPost exit) |
+| **Howard Schultz (Starbucks founder)** | Free Press seed (center-right) | Democratic mega-donor (Obama, Clinton, Murray, Cantwell) + independent presidential run 2020 | Called on CEOs to boycott ALL political donations, then invested in political media | $5M+ Dem + Free Press seed |
 | **Jeffrey Katzenberg (WndrCo)** | TYT $20M (progressive) | Major Democratic fundraiser, DreamWorks → Comcast $3.8B | Hollywood-Democratic finance circuit funding progressive media while profiting from corporate conglomerate system | $20M TYT + $3.8B Comcast tie |
-| **Chamath Palihapitiya (Social Capital)** | No direct media investments documented | $1M+ Democratic groups → co-hosted Trump fundraiser with Sacks 2024 | Active Democratic donor pivoting to Trump access — same regulatory self-interest as Sacks/Andreessen | $1M+ split both sides |
+| **Chamath Palihapitiya (Social Capital)** | No direct media investments documented | $1M+ Democratic groups → co-hosted Trump fundraiser with Sacks 2024 | Active Democratic donor pivoting to Trump access, same regulatory self-interest as Sacks/Andreessen | $1M+ split both sides |
 | **Wilks Brothers (Farris & Dan)** | Daily Wire $4.7M seed (conservative) | $5M Cruz super PAC, $200K Club for Growth, donations to Greene/Gaetz/Hawley/Paul | Fracking fortune funding exclusively conservative media + candidates. No cross-spectrum hedging. | $4.9M+ conservative only |
 
 > [!money]
 > The investor class funding "the debate" is remarkably small and interconnected, even when individual members take opposing political positions. Sacks gave $33,400 to Clinton, then raised $12M for Trump. Patricof's office has Clinton photos on the wall while his fund backs outlets spanning the spectrum. Andreessen calls it "non-partisan" — it's capital allocation optimized for influence regardless of who wins. The shared class interest: favorable tech regulation, capital gains tax treatment, crypto-friendly policy.
 
-**Key Insight:** Paramount Skydance acquired The Free Press for ~$150M. The Free Press investor list — Andreessen, Sacks, Schultz, Kotick, Herbert Allen Jr. — reads like a bipartisan capital deployment ledger. These are not ideological bets. They are infrastructure investments by a financial class that profits from media polarization regardless of which side "wins."
+**Key Insight:** Paramount Skydance acquired The Free Press for ~$150M. The Free Press investor list. Andreessen, Sacks, Schultz, Kotick, Herbert Allen Jr. reads like a bipartisan capital deployment ledger. These are not ideological bets. They are infrastructure investments by a financial class that profits from media polarization regardless of which side "wins."
 
 ---
 
 ### The GARM Advertising Chokepoint
 
-The World Federation of Advertisers (WFA) controls 90% of global advertising spending through GARM (Global Alliance for Responsible Media), which died in 2024 under X/Rumble antitrust lawsuits — but its mechanism survived and evolved.
+The World Federation of Advertisers (WFA) controls 90% of global advertising spending through GARM (Global Alliance for Responsible Media), which died in 2024 under X/Rumble antitrust lawsuits, but its mechanism survived and evolved.
 
 ### How it worked (and partly still works):
 
@@ -83,7 +83,7 @@ The World Federation of Advertisers (WFA) controls 90% of global advertising spe
 - Same standards applied identically would produce parity. The scores reflect ideological judgment, not risk.
 
 ### Distribution impact:
-Right-leaning creators earn 15-40% less per 1,000 views on YouTube, Spotify, and TikTok — not because conservative audiences are smaller (185.5M subscribers), but because advertiser rates are negotiated by category, and conservative content carries lower rates by GARM/GroupM assignment.
+Right-leaning creators earn 15-40% less per 1,000 views on YouTube, Spotify, and TikTok, not because conservative audiences are smaller (185.5M subscribers), but because advertiser rates are negotiated by category, and conservative content carries lower rates by GARM/GroupM assignment.
 
 ---
 
@@ -148,7 +148,7 @@ Four categories of policy are systematically under-covered by left and right med
 ### Project Censored Top 25 Censored Stories 2026-2027:
 Top 5 under-covered: ICE surveillance (27M undocumented), Amazon AI surveillance (Rekognition contract expansion), Indigenous financial underfunding (BIA budget cuts), working-class news void (local news collapse), water infrastructure privatization.
 
-**None of these appear in cable news or mainstream podcasting** — left or right. The envelope itself is bipartisan.
+**None of these appear in cable news or mainstream podcasting**, left or right. The envelope itself is bipartisan.
 
 ---
 
@@ -165,8 +165,8 @@ Top 5 under-covered: ICE surveillance (27M undocumented), Amazon AI surveillance
 | **2022** | Carried interest loophole survives IRA (Sinema strips it at last moment) | Joe Manchin, Kyrsten Sinema (Senate Democrats) | $12B/decade tax revenue preserved | Bipartisan silence from cable news. Both sides avoid quantifying this donor-class win. |
 | **2024** | X/Rumble antitrust lawsuits against GARM; coalition dissolves within 24 hours | Elon Musk, X Legal, Rumble | N/A | Proves GARM was coordinated monopoly, not market forces. Mechanism migrates to platform-specific policies. |
 | **2024** | Free Press raises Series A: $150M from venture capital (Andreessen, Sacks, Schultz, Katzenberg) | a16z, David Sacks, Howard Schultz, Jeffrey Katzenberg | $150M | Venture capital funds left-aligned media with same capital deployed to right-aligned super PACs. Same ecosystem. |
-| **2024** | PNAS Nexus: "Selection bias in cable news" study — convergence on economic issues, divergence on social issues | Arizona State University, Stanford researchers | N/A | Proves both-sides frame operates by editorial choice: cover culture wars, ignore economic policy. |
-| **2024** | University of Rochester: 1.8M headlines analyzed — newspapers converge on economic coverage, diverge on partisan messaging | Political Science Department, 1.8M headlines | N/A | Algorithmic analysis confirms: economic policy covered through partisan lens, not structural analysis. |
+| **2024** | PNAS Nexus: "Selection bias in cable news" study, convergence on economic issues, divergence on social issues | Arizona State University, Stanford researchers | N/A | Proves both-sides frame operates by editorial choice: cover culture wars, ignore economic policy. |
+| **2024** | University of Rochester: 1.8M headlines analyzed, newspapers converge on economic coverage, diverge on partisan messaging | Political Science Department, 1.8M headlines | N/A | Algorithmic analysis confirms: economic policy covered through partisan lens, not structural analysis. |
 | **2024** | Stanford GSB: consolidation in local news leads to 15-40% less election coverage, more right-wing slant in consolidated markets | Graduate School of Business, media economics | N/A | Sinclair Broadcasting case study: standardized content, reduced local accountability, national conservative alignment. |
 | **2024** | MSNBC "Morning Joe" hosts resign over Trump meeting; CNN fires Chris Licht (newsroom revolt); NBCUniversal profit-pressure escalates | Joe Scarborough, Mika Brzezinski, Chris Licht | $5B+ in ad revenue at stake | Demonstrates owner-class intervention in editorial independence. Both networks restructure under profit pressure. |
 | **2025** | Paramount-Skydance FCC approval finalized; Bari Weiss becomes CBS News editor-in-chief | David Ellison, Bari Weiss, FCC | Merger approved | Establishes conservative editorial direction across major broadcast news network. Mirrors left-leaning MSNBC repositioning. |
@@ -181,24 +181,24 @@ Academic research identifies the structural mechanism producing "both sides" fra
 
 ### Herman & Chomsky Propaganda Model (1988):
 Five filters determining what becomes "news":
-1. **Ownership** — concentrated in 6+ corporations, all shareholder-return dependent
-2. **Advertising** — revenue source shapes editorial boundaries (GARM mechanism)
-3. **Expert sourcing** — think tanks funded by same donors as politicians (revolving door)
-4. **Flak (opposition)** — organized criticism of coverage that threatens capital flows
-5. **Anticommunism** (now: terrorism/radicalism) — ideological frame that excludes structural class analysis
+1. **Ownership**, concentrated in 6+ corporations, all shareholder-return dependent
+2. **Advertising**, revenue source shapes editorial boundaries (GARM mechanism)
+3. **Expert sourcing**, think tanks funded by same donors as politicians (revolving door)
+4. **Flak (opposition)**, organized criticism of coverage that threatens capital flows
+5. **Anticommunism** (now: terrorism/radicalism), ideological frame that excludes structural class analysis
 
 Both left and right media operate inside all five filters. The debate occurs within them, not about them.
 
 ### Hallin's Spheres (1989):
 Three zones of media coverage:
-- **Consensus sphere:** (bipartisan agreement) — defense spending, Israel policy, pharma industry existence, Wall Street finance
-- **Legitimate controversy sphere:** (both-sides debate) — tax rates, regulation intensity, social issues, immigration
-- **Deviance sphere:** (excluded) — nationalization, wealth confiscation, labor organizing, dissolution of corporations
+- **Consensus sphere:** (bipartisan agreement), defense spending, Israel policy, pharma industry existence, Wall Street finance
+- **Legitimate controversy sphere:** (both-sides debate), tax rates, regulation intensity, social issues, immigration
+- **Deviance sphere:** (excluded), nationalization, wealth confiscation, labor organizing, dissolution of corporations
 
 Both left and right media place identical issues in identical spheres. The debate boundary is uniform.
 
 ### Overton Window (2000):
-Originated by Mackinac Center (Koch-funded think tank) as a framework to explain to donors why funding "radical" think tank ideas could influence policy. Key insight: the politically feasible range (window) can be shifted by coordinated infrastructure investment. Both left and right operate this framework — they just fight over where to place the window.
+Originated by Mackinac Center (Koch-funded think tank) as a framework to explain to donors why funding "radical" think tank ideas could influence policy. Key insight: the politically feasible range (window) can be shifted by coordinated infrastructure investment. Both left and right operate this framework, they just fight over where to place the window.
 
 ### FAIR Media Analysis:
 Fairness & Accuracy in Reporting documented 30+ years of coverage analysis:
@@ -209,8 +209,8 @@ Fairness & Accuracy in Reporting documented 30+ years of coverage analysis:
 
 ### PNAS Nexus 2024 Study ("Selection bias in cable news"):
 1.4M cable news segments (2016-2024) analyzed across CNN, MSNBC, Fox News:
-- **Economic issues:** Converge on framing — pro-growth, pro-corporate, market-skepticism of regulation
-- **Social issues:** Diverge dramatically — culture war, identity, abortion, transgender rights
+- **Economic issues:** Converge on framing, pro-growth, pro-corporate, market-skepticism of regulation
+- **Social issues:** Diverge dramatically, culture war, identity, abortion, transgender rights
 - **Significance:** Editorial selection (what to cover) operates by shared economic interest; presentation (how to frame) diverges by audience
 - **Mechanism:** Same ownership/advertiser pressure produces same economic blindspots; partisan audience allows divergence on social issues without alienating advertisers
 
@@ -236,7 +236,7 @@ Markets consolidated by Sinclair Broadcasting (1,200+ stations):
 The infrastructure of political media debate is owned, funded, distributed, and monetized by a small financial class. Three mechanisms ensure debate boundaries remain safe for capital:
 
 ### 1. Ownership Consolidation
-Six corporations control 85%+ of broadcast/cable political media reach. Shareholder return is the universal optimization function. No publicly-traded media company can sustain an editorial line threatening capital markets, bank lending, pharma profits, or defense spending — all bipartisan consensus points.
+Six corporations control 85%+ of broadcast/cable political media reach. Shareholder return is the universal optimization function. No publicly-traded media company can sustain an editorial line threatening capital markets, bank lending, pharma profits, or defense spending, all bipartisan consensus points.
 
 ### 2. Advertiser Capture (GARM model, evolved)
 "Advertiser-safe" category excludes economic policy discussion. Instead: social issues, culture wars, identity. These generate engagement without threatening the ownership class. Private equity backing (iHeartMedia, Paramount-Skydance under KKR/Ellison) further aligns incentives toward profit over coverage depth.
@@ -267,7 +267,7 @@ The "both sides" media system functions as a unified infrastructure serving capi
 [Outcome]              ← Vigorous disagreement on social issues, silence on economic policy
 ```
 
-This is not conspiracy. It is **infrastructure optimization**. The owner class does not conspire to suppress economic policy coverage — the business model naturally produces that outcome. A media outlet that systematically investigated carried interest, pharma pricing, or defense spending would:
+This is not conspiracy. It is **infrastructure optimization**. The owner class does not conspire to suppress economic policy coverage, the business model naturally produces that outcome. A media outlet that systematically investigated carried interest, pharma pricing, or defense spending would:
 - Lose pharma and defense advertisers
 - Attract lower-tier ad rates (not in GARM "premium" inventory)
 - Face organized flak from think tanks funded by the same donors

@@ -27,7 +27,7 @@ Instead, Cassidy survived. He's now running for reelection in 2026, despite Trum
 
 ### Why Cassidy's Vote Was Permitted
 
-The answer lies in Louisiana's economy: petroleum and petrochemicals are not peripheral to Louisiana politics—they *are* Louisiana politics.
+The answer lies in Louisiana's economy: petroleum and petrochemicals are not peripheral to Louisiana politics, they *are* Louisiana politics.
 
 ### The numbers:
 - 15% of state GDP comes from petrochemical manufacturing
@@ -42,7 +42,7 @@ In this context, Louisiana's donor class has strategic interests that differ fro
 3. Maintain Louisiana's position in competitive federal energy spending allocations
 4. Deliver infrastructure money specifically to petrochemical-adjacent projects
 
-Cassidy provided all of these. His bipartisan infrastructure bill co-authorship immediately after his impeachment vote was not contradiction—it was the whole point. His willingness to break with Trump on principle demonstrated to Democratic senators that he could negotiate in good faith on energy legislation. The petrochemical industry's calculation was simple: a Trump loyalist who couldn't work across the aisle would lose dealmaking capacity. Cassidy's conviction vote proved he had integrity—that his word on a deal would hold even under Trump pressure.
+Cassidy provided all of these. His bipartisan infrastructure bill co-authorship immediately after his impeachment vote was not contradiction, it was the whole point. His willingness to break with Trump on principle demonstrated to Democratic senators that he could negotiate in good faith on energy legislation. The petrochemical industry's calculation was simple: a Trump loyalist who couldn't work across the aisle would lose dealmaking capacity. Cassidy's conviction vote proved he had integrity, that his word on a deal would hold even under Trump pressure.
 
 ---
 
@@ -54,7 +54,7 @@ Six months after his impeachment vote, Cassidy co-authored the $1.2 trillion Bip
 Regional hydrogen manufacturing from natural gas with carbon sequestration. Blue hydrogen is fossil fuel infrastructure rebranded as climate policy. Louisiana's thermal conversion hubs convert natural gas and petroleum byproducts into hydrogen, with the CO2 piped through existing infrastructure. The industry gets federal subsidies; the energy infrastructure remains in place; environmental externalities are minimized in the accounting.
 
 ### Carbon Capture and Sequestration ($6 billion):
-Federal money for CO2 pipeline infrastructure. Cassidy co-sponsored with Senator Chris Coons (D-DE) a provision for low-interest loans for CO2 pipelines. These pipelines don't remove CO2 from the atmosphere—they move CO2 from industrial facilities to underground sequestration or utilization sites. The pipelines route through Louisiana's industrial corridor, benefiting companies that already operate extensive pipeline infrastructure.
+Federal money for CO2 pipeline infrastructure. Cassidy co-sponsored with Senator Chris Coons (D-DE) a provision for low-interest loans for CO2 pipelines. These pipelines don't remove CO2 from the atmosphere, they move CO2 from industrial facilities to underground sequestration or utilization sites. The pipelines route through Louisiana's industrial corridor, benefiting companies that already operate extensive pipeline infrastructure.
 
 ### What Louisiana Received:
 Estimates place Louisiana's share of infrastructure funding between $49–70 million in the first fiscal year, with ongoing allocation through the decade. The petrochemical industry was the primary beneficiary, not general infrastructure.
@@ -63,7 +63,7 @@ Estimates place Louisiana's share of infrastructure funding between $49–70 mil
 
 ### The Cancer Alley Contradiction
 
-In 2021, President Biden referred to Louisiana's industrial corridor as "Cancer Alley"—a term used by environmental justice advocates to describe the documented correlation between industrial petrochemical pollution and elevated cancer rates in nearby communities (predominantly Black and low-income).
+In 2021, President Biden referred to Louisiana's industrial corridor as "Cancer Alley", a term used by environmental justice advocates to describe the documented correlation between industrial petrochemical pollution and elevated cancer rates in nearby communities (predominantly Black and low-income).
 
 Cassidy's response: "It's a slam upon our state."
 
@@ -71,9 +71,9 @@ As a physician, Cassidy invoked medical expertise to dismiss the claim. He ackno
 
 The contradiction is stark:
 
-Cassidy deployed constitutional principle to convict Trump — *I took an oath to support and defend the Constitution.*
+Cassidy deployed constitutional principle to convict Trump, *I took an oath to support and defend the Constitution.*
 
-Cassidy deployed medical expertise to defend petrochemical companies against cancer causation claims — *Lifestyle factors, not pollution.*
+Cassidy deployed medical expertise to defend petrochemical companies against cancer causation claims, *Lifestyle factors, not pollution.*
 
 The difference: defending the Constitution against a political threat doesn't cost anything. Defending communities against petrochemical pollution would threaten the industry that funds and defines Louisiana's political system. One principle is permitted. The other is economically impossible in a petrochemical state.
 
@@ -97,9 +97,9 @@ Cassidy's case reveals how the vault's core thesis functions at the state level:
 
 Donors don't need politicians to be unprincipled. They need politicians whose principles don't threaten donor interests.
 
-Cassidy voted to convict Trump on principle. That principle *served* petrochemical interests by preserving his dealmaking capacity. His impeachment vote wasn't contradiction—it was the mechanism through which he demonstrated trustworthiness to Democratic senators and the Biden administration on energy infrastructure legislation.
+Cassidy voted to convict Trump on principle. That principle *served* petrochemical interests by preserving his dealmaking capacity. His impeachment vote wasn't contradiction, it was the mechanism through which he demonstrated trustworthiness to Democratic senators and the Biden administration on energy infrastructure legislation.
 
-The system is sophisticated enough to tolerate—even celebrate—principled stances that don't threaten the donor class. What it cannot tolerate is principle that would restrict petrochemical industry operations, environmental regulation, or federal energy subsidies.
+The system is sophisticated enough to tolerate, even celebrate, principled stances that don't threaten the donor class. What it cannot tolerate is principle that would restrict petrochemical industry operations, environmental regulation, or federal energy subsidies.
 
 ---
 

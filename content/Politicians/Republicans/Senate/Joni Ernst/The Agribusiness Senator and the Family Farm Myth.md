@@ -38,7 +38,7 @@ These raw numbers mask the real story: consolidation is accelerating. The number
 Agricultural consolidation is extreme. In Iowa:
 - The largest 10% of farms control 72% of farmland.
 - The bottom 50% of farms control just 5% of farmland.
-- The median farm size is 336 acres — meaning the "average" family farm is now so large it requires serious capital investment and is often operated by non-family corporate entities.
+- The median farm size is 336 acres, meaning the "average" family farm is now so large it requires serious capital investment and is often operated by non-family corporate entities.
 
 ### Corporate Control:
 American agricultural land is increasingly owned or controlled by:
@@ -58,7 +58,7 @@ The Koch Network is not an agricultural network, strictly speaking. But Charles 
 - Koch Network funding supports agricultural deregulation (particularly environmental regulation of large-scale operations)
 - Koch Network ideologically opposes agricultural regulation and supports subsidy structures that benefit large-scale commodity producers
 
-Ernst explicitly credited the Koch Network with starting her political trajectory. In 2014, Koch-aligned super PACs and groups spent $12 million supporting Ernst — more than Ernst's own campaign raised.
+Ernst explicitly credited the Koch Network with starting her political trajectory. In 2014, Koch-aligned super PACs and groups spent $12 million supporting Ernst, more than Ernst's own campaign raised.
 
 ### Ethanol Industry:
 Ernst is a co-chair of the Senate Biofuels Caucus. She has advocated consistently for:
@@ -67,13 +67,13 @@ Ernst is a co-chair of the Senate Biofuels Caucus. She has advocated consistentl
 - Tax incentives for ethanol producers
 
 The ethanol industry is not composed of small farmers. It is composed of:
-- Multinational processing companies: Archer Daniels Midland (ADM) — largest privately-held company in Iowa, operates dozens of ethanol refineries; Valero Energy; POET LLC (largest ethanol producer)
+- Multinational processing companies: Archer Daniels Midland (ADM), largest privately-held company in Iowa, operates dozens of ethanol refineries; Valero Energy; POET LLC (largest ethanol producer)
 - Large commodity corn producers who sell corn to ethanol processors
 
 The Renewable Fuel Standard benefits large commodity producers (by increasing ethanol demand, thus corn demand and corn prices) and multinational corporations that operate ethanol facilities. It does not significantly benefit small family farmers.
 
 ### Meatpacking and Concentrated Animal Feeding Operations (CAFOs):
-Ernst has consistently opposed regulations on concentrated animal feeding operations (CAFOs) — large-scale industrial livestock facilities that consolidate thousands of animals in single locations.
+Ernst has consistently opposed regulations on concentrated animal feeding operations (CAFOs), large-scale industrial livestock facilities that consolidate thousands of animals in single locations.
 
 Major CAFO operators:
 - Tyson Foods (headquartered in Arkansas but operates massive CAFO operations in Iowa)
@@ -101,7 +101,7 @@ Small family farm operations do not operate CAFOs. CAFOs are exclusively large-s
 The Farm Bill, reauthorized every five years, is where agricultural policy is actually determined. It is not a family farm bill. It is a corporate agriculture and commodity producer bill, structured to concentrate subsidy money among the largest operations.
 
 ### How the Farm Bill Works:
-The Farm Bill provides "commodity supports" — guaranteed prices, direct payments, and insurance for commodity crops (corn, soybeans, wheat, cotton, rice, sugar). The system is not based on need or on farm size. It is based on production: larger producers receive proportionately larger subsidies.
+The Farm Bill provides "commodity supports", guaranteed prices, direct payments, and insurance for commodity crops (corn, soybeans, wheat, cotton, rice, sugar). The system is not based on need or on farm size. It is based on production: larger producers receive proportionately larger subsidies.
 
 Result: the largest 10% of farms receive approximately 60% of commodity subsidy money. The smallest 50% of farms receive less than 5%.
 
@@ -164,11 +164,11 @@ The contradiction is structural, not accidental. Ernst's function in the politic
 
 Ernst announced her retirement in September 2025 as Iowa political landscape shifted. Several factors converged:
 
-1. **Electoral vulnerability:** Iowa is shifting Democratic. Ernst's 2020 margin (51.8%) was only 6.6 points — comfortable, but a significant decline from her 2014 performance (57.3%). A 2026 reelection would have been competitive.
+1. **Electoral vulnerability:** Iowa is shifting Democratic. Ernst's 2020 margin (51.8%) was only 6.6 points, comfortable, but a significant decline from her 2014 performance (57.3%). A 2026 reelection would have been competitive.
 
 2. **Farm consolidation acceleration:** Farmland consolidation in Iowa has accelerated in recent years. The number of farms continues to decline; the proportion of farm-controlled agricultural land held by large corporate entities continues to rise. The family farm brand becomes increasingly contradicted by reality.
 
-3. **Structural liability:** Ernst's legislative record — CAFO opposition, ethanol subsidy support, Koch Network alignment — becomes more visible the longer she serves. A challenging reelection campaign would require defending these positions against a Democratic candidate offering alternative agricultural policy.
+3. **Structural liability:** Ernst's legislative record. CAFO opposition, ethanol subsidy support, Koch Network alignment, becomes more visible the longer she serves. A challenging reelection campaign would require defending these positions against a Democratic candidate offering alternative agricultural policy.
 
 Retirement before the 2026 cycle avoided forcing a defense of the contradiction on the campaign trail.
 

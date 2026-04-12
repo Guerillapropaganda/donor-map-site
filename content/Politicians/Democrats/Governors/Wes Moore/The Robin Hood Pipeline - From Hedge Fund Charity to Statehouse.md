@@ -13,7 +13,7 @@ donors: Paul Tudor Jones, [[George Soros]], Glenn Dubin, Stanley Druckenmiller
 
 ---
 
-### The Robin Hood Pipeline — From Hedge Fund Charity to Statehouse
+### The Robin Hood Pipeline. From Hedge Fund Charity to Statehouse
 
 > [!money]
 > The Robin Hood Foundation — founded by hedge fund billionaire Paul Tudor Jones in 1988 — placed [[_Wes Moore Master Profile|Wes Moore]] as CEO in 2017. During his four-year tenure, Moore raised $650 million from a board where 12 of 19 leadership positions were held by hedge fund managers (Paul Tudor Jones, Glenn Dubin, [[George Soros|George Soros]], Stanley Druckenmiller, [[Goldman Sachs|Goldman Sachs]] CEO, JPMorgan Chase CEO). The foundation invested its assets in hedge funds managed by board members, paying $14 million in fees to affiliated funds. Moore leveraged this network to build the political brand, fundraising infrastructure, and donor relationships that produced his 2022 gubernatorial campaign. The anti-poverty charity functioned as a pre-campaign organization — funded by, governed by, and ultimately serving the political interests of the hedge fund donor class.
@@ -36,7 +36,7 @@ donors: Paul Tudor Jones, [[George Soros]], Glenn Dubin, Stanley Druckenmiller
 
 ### The Affiliated Fund Fees
 
-Robin Hood invested its charitable assets in hedge funds managed by its own board members and major donors. The arrangement generated $14 million in fees for affiliated funds — a self-dealing structure that was ended in 2007 only after public criticism. The returns exceeded market averages, but the conflict was structural: the people fighting poverty earned management fees on the charity's endowment.
+Robin Hood invested its charitable assets in hedge funds managed by its own board members and major donors. The arrangement generated $14 million in fees for affiliated funds, a self-dealing structure that was ended in 2007 only after public criticism. The returns exceeded market averages, but the conflict was structural: the people fighting poverty earned management fees on the charity's endowment.
 
 ---
 

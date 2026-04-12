@@ -24,7 +24,7 @@ tags: #analysis #story
 
 Biden's 2020 campaign promised to stop the Dakota Access Pipeline. He said it on stage: "I will end the new Dakota Access Pipeline." When elected, environmental groups and Standing Rock Sioux Nation expected him to revoke the permit. Biden did not. He revoked the Keystone XL pipeline permit but left DAPL running through Standing Rock Sioux Nation's drinking water. Democrats campaign against pipelines; Democrats in office protect them.
 
-The contradiction is structural, not accidental. The policy (DAPL operation) is not decided by electoral promises — it is decided by who owns the money. [[Kelcy Warren]] owns Energy Transfer Partners. Warren donations discipline both parties toward the same outcome.
+The contradiction is structural, not accidental. The policy (DAPL operation) is not decided by electoral promises, it is decided by who owns the money. [[Kelcy Warren]] owns Energy Transfer Partners. Warren donations discipline both parties toward the same outcome.
 
 ---
 
@@ -39,11 +39,11 @@ The tightest donation-to-policy timeline in the vault:
 | Date | Action | Amount | Notes |
 |------|--------|--------|-------|
 | Jan 20, 2017 | Trump inauguration | $250,000 | Warren donation to Trump inaugural committee |
-| Jan 24, 2017 | Trump executive order signed | — | Directs Army Corps to "expedite" DAPL easement approval |
-| Jan 24-Feb 3, 2017 | Army Corps expedited review | — | Bypassed environmental study required by law |
-| Feb 1, 2017 | Easement approved | — | DAPL final segment cleared |
-| May 14, 2017 | First test pumping | — | Pipeline begins operation |
-| June 1, 2017 | Full commercial operation | — | Revenue begins flowing to Energy Transfer |
+| Jan 24, 2017 | Trump executive order signed |, | Directs Army Corps to "expedite" DAPL easement approval |
+| Jan 24-Feb 3, 2017 | Army Corps expedited review |, | Bypassed environmental study required by law |
+| Feb 1, 2017 | Easement approved |, | DAPL final segment cleared |
+| May 14, 2017 | First test pumping |, | Pipeline begins operation |
+| June 1, 2017 | Full commercial operation |, | Revenue begins flowing to Energy Transfer |
 
 Four days from donation to executive order. Rick Perry, Trump's Secretary of Energy, was a former Energy Transfer board member. The pipeline survived three administrations through the consistency of donor loyalty.
 
@@ -64,16 +64,16 @@ Warren spends to protect Energy Transfer infrastructure across both federal and 
 ---
 
 ### Obama (2016): Blocked it
-December 4, 2016 — Last weeks of Obama administration. Army Corps of Engineers refused to grant the water easement under Lake Oahe. Environmental impact statement ordered. Standing Rock won a temporary victory through law.
+December 4, 2016. Last weeks of Obama administration. Army Corps of Engineers refused to grant the water easement under Lake Oahe. Environmental impact statement ordered. Standing Rock won a temporary victory through law.
 
 ### Trump (2017): Approved it (4 days into presidency)
-January 24, 2017 — Trump signs executive order instructing Army Corps to "review and approve in an expedited manner" the same easement Obama blocked. Army Corps canceled the environmental study. The Corps approved the easement. Pipeline construction completed.
+January 24, 2017. Trump signs executive order instructing Army Corps to "review and approve in an expedited manner" the same easement Obama blocked. Army Corps canceled the environmental study. The Corps approved the easement. Pipeline construction completed.
 
 ### Biden (2021): Refused to shut it down
-January 2021 — D.C. Circuit Court vacates DAPL federal permits, ordering new Environmental Impact Statement. Sierra Club, Standing Rock, and 200+ organizations call on Biden to shut down the pipeline. Biden's Justice Department tells federal court it will *not* shut down DAPL "at this time." The pipeline keeps running. In December 2025 — nearly 5 years later — the Corps released an environmental impact statement, effectively validating the permit's continuation.
+January 2021. D.C. Circuit Court vacates DAPL federal permits, ordering new Environmental Impact Statement. Sierra Club, Standing Rock, and 200+ organizations call on Biden to shut down the pipeline. Biden's Justice Department tells federal court it will *not* shut down DAPL "at this time." The pipeline keeps running. In December 2025, nearly 5 years later, the Corps released an environmental impact statement, effectively validating the permit's continuation.
 
 [!contradiction]
-The pipeline survived because the bipartisan consensus *protects existing fossil fuel infrastructure*. Obama blocked a *new* project; Trump built it; Biden could have killed it and chose not to. This is not policy disagreement — it is unified protection of investor capital across party lines. Warren's donations ($20M to Trump, donations to both parties' politicians) bought that consensus.
+The pipeline survived because the bipartisan consensus *protects existing fossil fuel infrastructure*. Obama blocked a *new* project; Trump built it; Biden could have killed it and chose not to. This is not policy disagreement, it is unified protection of investor capital across party lines. Warren's donations ($20M to Trump, donations to both parties' politicians) bought that consensus.
 
 ---
 
@@ -87,7 +87,7 @@ Winter Storm Uri hit Texas February 14-20, 2021. ERCOT (Electric Reliability Cou
 Energy Transfer Partners' natural gas operations profited $2.4 billion from the price spike during the blackouts. [[Kelcy Warren]] made more money in five days than most Texans earned in a lifetime. The bill: $295 billion in statewide damage.
 
 ### Warren → Abbott Donation Sequence: June 2021
-June 23, 2021 — Four months after the grid failure, [[Kelcy Warren]] gave [[_Greg Abbott Master Profile|Greg Abbott]] $1 million. This was *4 times* Warren's typical state donation ($250K checks prior). It was the largest donation Warren had ever made to a state politician.
+June 23, 2021. Four months after the grid failure, [[Kelcy Warren]] gave [[_Greg Abbott Master Profile|Greg Abbott]] $1 million. This was *4 times* Warren's typical state donation ($250K checks prior). It was the largest donation Warren had ever made to a state politician.
 
 The timing was not coincidental. Abbott refused additional grid reforms in special legislative sessions. The natural gas sector avoided scrutiny. Warren's $2.4 billion windfall was protected from any regulatory clawback.
 
@@ -100,11 +100,11 @@ The pattern repeats at state level: disaster profits → political donation → 
 
 ---
 
-Fossil fuel infrastructure is not really about energy supply — it is about capital extraction from captive customers. Democrats campaign against pipelines to signal opposition to climate catastrophe. But Democrats in office *protect* pipelines because they are controlled by the same donor class that would otherwise move money to Republicans.
+Fossil fuel infrastructure is not really about energy supply, it is about capital extraction from captive customers. Democrats campaign against pipelines to signal opposition to climate catastrophe. But Democrats in office *protect* pipelines because they are controlled by the same donor class that would otherwise move money to Republicans.
 
 The contradiction is functional. Campaign opposition to fossil fuels proves Democratic credibility to climate-conscious voters (working class, young, communities of color). Actual protection of fossil fuel assets proves Democratic loyalty to capital ([[Kelcy Warren]], energy utilities, PE firms). The party gets both: environmental votes *and* fossil fuel money.
 
-Working class Texans froze in the dark. Energy Transfer made $2.4 billion. Greg Abbott got $1 million. Democratic voters were promised pipeline opposition. Democratic officials delivered pipeline operation. The bipartisan consensus — Trump fast-tracked DAPL, Biden refused to kill it, both accepted Warren's donations — ensured the policy outcome: the pipeline survives, the capital flows, the workers freeze.
+Working class Texans froze in the dark. Energy Transfer made $2.4 billion. Greg Abbott got $1 million. Democratic voters were promised pipeline opposition. Democratic officials delivered pipeline operation. The bipartisan consensus. Trump fast-tracked DAPL, Biden refused to kill it, both accepted Warren's donations, ensured the policy outcome: the pipeline survives, the capital flows, the workers freeze.
 
 This is not a bug in Democratic strategy. It is the feature. The party performs climate opposition to maintain the voting bloc while the money maintains the policy infrastructure.
 

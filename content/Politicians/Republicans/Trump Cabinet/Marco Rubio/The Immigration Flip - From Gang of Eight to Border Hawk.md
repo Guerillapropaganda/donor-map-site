@@ -13,7 +13,7 @@ donors: [[Fanjul Family - Florida Crystals]]
 
 ---
 
-### The Gang of Eight — What It Actually Was
+### The Gang of Eight. What It Actually Was
 
 S.744: Border Security, Economic Opportunity, and Immigration Modernization Act of 2013.
 
@@ -28,15 +28,15 @@ S.744: Border Security, Economic Opportunity, and Immigration Modernization Act 
 - Expanded agricultural guest worker visas
 - E-Verify requirement for employers
 
-**The Senate vote:** June 27, 2013 — passed 68-32. Fourteen Republicans joined all Democrats. A supermajority.
+**The Senate vote:** June 27, 2013, passed 68-32. Fourteen Republicans joined all Democrats. A supermajority.
 
 **The House outcome:** Speaker John Boehner refused to bring the bill to the floor, citing the informal "Hastert Rule" that a Speaker would not bring legislation lacking a majority of the Republican caucus. The bill died.
 
 ---
 
-### Why Rubio Supported It — The Donor Logic
+### Why Rubio Supported It. The Donor Logic
 
-Rubio's Gang of Eight support was not ideologically anomalous in 2013. The Republican establishment — Karl Rove, the Chamber of Commerce, the Bush family orbit — had concluded after Obama's 2012 reelection (in which Romney got 27% of the Latino vote) that the party needed to pass immigration reform or face demographic collapse in presidential elections.
+Rubio's Gang of Eight support was not ideologically anomalous in 2013. The Republican establishment. Karl Rove, the Chamber of Commerce, the Bush family orbit, had concluded after Obama's 2012 reelection (in which Romney got 27% of the Latino vote) that the party needed to pass immigration reform or face demographic collapse in presidential elections.
 
 **The donor class consensus in 2013:** The Chamber of Commerce, the agricultural industry (including the Fanjul family's sugar operations, which depend on agricultural labor), and the Republican establishment all wanted comprehensive immigration reform. It provided legal labor for agriculture, a path to citizenship that could bring Latino voters back to the Republican Party, and resolution of the legal ambiguity that made large employers nervous about their workforce.
 
@@ -46,18 +46,18 @@ Rubio was the ideal messenger: young, Cuban-American, Tea Party-elected, Senate 
 
 ---
 
-### The Reversal — When the Donor Math Changed
+### The Reversal. When the Donor Math Changed
 
 The bill's failure in the House created a political problem for Rubio: he had championed legislation that the base hated, and he was running for president.
 
-**The 2016 primary donor environment:** The Tea Party's anti-immigration-reform wing had become the dominant force in Republican primaries. The same small-dollar donor base that had funded Rubio's 2010 Senate upset was now demanding harder-line immigration positions. Trump entered the race in June 2015 explicitly on an anti-immigration platform — "They're bringing drugs, they're bringing crime, they're rapists" — and shot to the top of the polls immediately.
+**The 2016 primary donor environment:** The Tea Party's anti-immigration-reform wing had become the dominant force in Republican primaries. The same small-dollar donor base that had funded Rubio's 2010 Senate upset was now demanding harder-line immigration positions. Trump entered the race in June 2015 explicitly on an anti-immigration platform, "They're bringing drugs, they're bringing crime, they're rapists", and shot to the top of the polls immediately.
 
 ### The timeline of Rubio's reversal:
-- September 2014: Rubio first signals retreat — says comprehensive reform "won't work" and border security must come first
+- September 2014: Rubio first signals retreat, says comprehensive reform "won't work" and border security must come first
 - 2015: Stops defending the Gang of Eight bill on the trail
 - November 2015: Rubio says he would not support the bill he co-authored in its current form
 - January 2016: Under attack from Cruz and Trump in debates, Rubio says the bill is no longer viable
-- February 2016: **The definitive statement** — Rubio tells NBC that the Gang of Eight bill "was never intended to become law." His co-authored, Senate-passed legislation was always, he claimed, just a gambit.
+- February 2016: **The definitive statement**. Rubio tells NBC that the Gang of Eight bill "was never intended to become law." His co-authored, Senate-passed legislation was always, he claimed, just a gambit.
 
 > [!quote]
 > "The Senate bill was not headed toward becoming law." — [[_Marco Rubio Master Profile|Marco Rubio]], NBC News, February 2016
@@ -66,9 +66,9 @@ The claim that the bill was never meant to pass is verifiably false: Rubio gave 
 
 ---
 
-### The Agricultural Labor Exemption — What Rubio Never Explained
+### The Agricultural Labor Exemption. What Rubio Never Explained
 
-The Gang of Eight bill included expanded H-2A agricultural guest worker visas and provisions protecting the existing agricultural workforce. The Fanjul family — Florida Crystals / Domino Sugar — employs a significant agricultural labor force in Florida's sugar cane industry.
+The Gang of Eight bill included expanded H-2A agricultural guest worker visas and provisions protecting the existing agricultural workforce. The Fanjul family. Florida Crystals / Domino Sugar, employs a significant agricultural labor force in Florida's sugar cane industry.
 
 The bill that Rubio co-authored was, among other things, beneficial to Florida's sugar industry: it would have regularized the status of workers already employed in agricultural operations, expanded legal pathways for future agricultural labor, and reduced the legal liability of large agricultural employers.
 
@@ -78,9 +78,9 @@ When Rubio abandoned the bill under primary pressure, he never explained what ha
 
 ---
 
-### The Second-Term Position — Border Hawk as Secretary of State
+### The Second-Term Position. Border Hawk as Secretary of State
 
-By 2025, Rubio had completed the transformation. As Secretary of State, he presented the hardest-line positions on migration and border security consistent with the Trump administration's overall approach. The Gang of Eight's path-to-citizenship provision — the bill's most controversial element, which Rubio had spent months defending on Spanish-language television — was never mentioned.
+By 2025, Rubio had completed the transformation. As Secretary of State, he presented the hardest-line positions on migration and border security consistent with the Trump administration's overall approach. The Gang of Eight's path-to-citizenship provision, the bill's most controversial element, which Rubio had spent months defending on Spanish-language television, was never mentioned.
 
 The 11 million undocumented immigrants that the Gang of Eight would have provided legal status for are now subject to the mass deportation agenda that Rubio serves.
 
@@ -90,11 +90,11 @@ The Fanjul family still grows sugar in Florida. Their agricultural labor force s
 
 ### Sources
 
-- [American Immigration Council: Guide to S.744 — the 2013 Senate Immigration Bill](https://www.americanimmigrationcouncil.org/report/guide-s744-understanding-2013-senate-immigration-bill/) (Tier 2)
-- [NBC News: Rubio — Gang of 8 bill never intended to become law](https://www.nbcnews.com/politics/2016-election/rubio-gang-8-bill-never-intended-become-law-n518936) (Tier 2)
+- [American Immigration Council: Guide to S.744, the 2013 Senate Immigration Bill](https://www.americanimmigrationcouncil.org/report/guide-s744-understanding-2013-senate-immigration-bill/) (Tier 2)
+- [NBC News: Rubio. Gang of 8 bill never intended to become law](https://www.nbcnews.com/politics/2016-election/rubio-gang-8-bill-never-intended-become-law-n518936) (Tier 2)
 - [NBC News: The many immigration positions of Marco Rubio](https://www.nbcnews.com/politics/2016-election/marco-rubio-s-record-immigration-more-complicated-you-think-n488601) (Tier 2)
 - [CBS News: Rubio answers for his failed 2013 immigration plans](https://www.cbsnews.com/news/marco-rubio-answers-for-his-failed-2013-immigration-plans-again/) (Tier 2)
-- [National Review: Marco Rubio's billion-dollar sugar addiction — Fanjul relationship](https://www.nationalreview.com/2015/11/marco-rubio-sugar-subsidy-support-fanjul-brothers/) (Tier 2)
+- [National Review: Marco Rubio's billion-dollar sugar addiction. Fanjul relationship](https://www.nationalreview.com/2015/11/marco-rubio-sugar-subsidy-support-fanjul-brothers/) (Tier 2)
 - [The Hill: Rubio defends Gang of Eight immigration bill](https://thehill.com/blogs/ballot-box/gop-primaries/268525-rubio-defends-gang-of-eight-immigration-bill/) (Tier 2)
 - [FEC Candidate: Marco Rubio donor history](https://www.fec.gov/data/candidate/P60006723/) (Tier 1)
 

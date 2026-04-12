@@ -50,16 +50,16 @@ Result: Progressives lost decisively. In Georgia 2026, the pattern is repeating 
 In Illinois 2024 primary, all three industries deployed in same races:
 
 - **Sean Casten (Democratic incumbent, crypto-skeptical on finance regulation):**
-  - Crypto (Fairshake + Republican outside money): $8.6M spent AGAINST him
-  - AIPAC: Spent against him for not being sufficiently pro-Israel
-  - AI: Minimal investment but aligned with crypto/AIPAC
-  - Result: Lost to pro-Trump Republican (Casten held seat since 2019)
+ - Crypto (Fairshake + Republican outside money): $8.6M spent AGAINST him
+ - AIPAC: Spent against him for not being sufficiently pro-Israel
+ - AI: Minimal investment but aligned with crypto/AIPAC
+ - Result: Lost to pro-Trump Republican (Casten held seat since 2019)
 
 - **Janice Schakowsky (Democratic incumbent, progressive on Israel):**
-  - AIPAC: Spent against her for supporting conditions on Israel aid
-  - Crypto: Aligned spending (though less direct targeting)
-  - AI: Minimal but aligned
-  - Result: Lost to pro-Trump Republican
+ - AIPAC: Spent against her for supporting conditions on Israel aid
+ - Crypto: Aligned spending (though less direct targeting)
+ - AI: Minimal but aligned
+ - Result: Lost to pro-Trump Republican
 
 The pattern: When crypto, AI, and AIPAC align on same target, they overwhelm local politics. Total spending ($34M+) dwarfs what Democratic candidates could raise in primary.
 
@@ -138,7 +138,7 @@ If elected, Collins will be expected to:
 - Oppose data privacy legislation that constrains training data access
 - Support copyright reforms permitting unlimited AI training data use
 
-These interests don't conflict with Collins' Trump alignment — Trump administration is allied with all three industries. Collins' delivery mechanism is vote + committee positioning (if assigned to relevant committees, which he would be as new GOP senator).
+These interests don't conflict with Collins' Trump alignment. Trump administration is allied with all three industries. Collins' delivery mechanism is vote + committee positioning (if assigned to relevant committees, which he would be as new GOP senator).
 
 ---
 

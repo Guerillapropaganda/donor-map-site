@@ -18,7 +18,7 @@ This note maps the donor and institutional interests shaping Newsom's gun contro
 
 ---
 
-### Gun Control Donors — Bloomberg and the Advocacy Network
+### Gun Control Donors. Bloomberg and the Advocacy Network
 Gun control advocacy in California is unusual because it is substantially funded by a single billionaire.
 
 > [!money]
@@ -36,7 +36,7 @@ Bloomberg's funding model is distinctive because it creates dependency. Organiza
 
 ---
 
-### California Gun Control Record — The Genuine Win
+### California Gun Control Record. The Genuine Win
 Newsom has signed substantial gun control legislation. The record here is material:
 
 > [!money]
@@ -49,11 +49,11 @@ Newsom has signed substantial gun control legislation. The record here is materi
 
 This is not smoke and mirrors. AB 28 is the first-in-the-nation firearm excise tax. California gun restrictions are genuinely restrictive compared to the rest of the country. Newsom has signed them. This is a genuine policy win, particularly compared to federal policy (no national gun restrictions passed under Trump or Biden).
 
-But the class analysis complicates this. Gun control benefits specific populations — affluent urban and suburban areas where gun violence is perceived as external (urban crime) rather than internal (police enforcement). Working-class communities and communities of color experience gun violence differently because they experience police differently. The gun control advocacy network frames the issue as preventing gun deaths. The structural outcome is that gun violence policy in California is shaped by billionaire donors rather than by communities most affected by gun violence.
+But the class analysis complicates this. Gun control benefits specific populations, affluent urban and suburban areas where gun violence is perceived as external (urban crime) rather than internal (police enforcement). Working-class communities and communities of color experience gun violence differently because they experience police differently. The gun control advocacy network frames the issue as preventing gun deaths. The structural outcome is that gun violence policy in California is shaped by billionaire donors rather than by communities most affected by gun violence.
 
 ---
 
-### The Police Union Contradiction — CCPOA and PORAC
+### The Police Union Contradiction. CCPOA and PORAC
 This is where the public safety donor network becomes analytically complex.
 
 > [!money]
@@ -76,27 +76,27 @@ This is where the public safety donor network becomes analytically complex.
 
 ---
 
-### CCPOA — The Prison Guard Union
+### CCPOA. The Prison Guard Union
 CCPOA's role in public safety policy is straightforward. More incarceration benefits the union. Less incarceration threatens it. CCPOA has opposed the one genuine structural reform Newsom achieved: prison closures.
 
-The prison closures (5 facilities, $928M+ annual savings) are the one area where Newsom genuinely threatened CCPOA's institutional base. The contracts ($1.6B combined, 2023 and 2025) are the price of managing that threat. CCPOA also funded Prop 36 ($300K, 2024) — the tough-on-crime measure Newsom opposed. This is not hypocrisy on Newsom's part. It is CCPOA's independent power. The union can oppose the governor while accepting his support.
+The prison closures (5 facilities, $928M+ annual savings) are the one area where Newsom genuinely threatened CCPOA's institutional base. The contracts ($1.6B combined, 2023 and 2025) are the price of managing that threat. CCPOA also funded Prop 36 ($300K, 2024), the tough-on-crime measure Newsom opposed. This is not hypocrisy on Newsom's part. It is CCPOA's independent power. The union can oppose the governor while accepting his support.
 
 ---
 
-### PORAC — The Police Union Umbrella
+### PORAC. The Police Union Umbrella
 PORAC (Peace Officers Research Association of California) represents 85,000+ officers across 950+ associations. It has been more subtle than CCPOA in its reform strategy. Rather than pure opposition, PORAC negotiates reforms downward to acceptable terms then shifts to neutral.
 
 Pattern documented in vault notes:
 
-— AB 392 (use of force, 2019): Initially opposed → negotiated to neutral → Newsom signed weakened version
-— SB 2 (police decertification): PORAC opposed qualified immunity reforms
-— AB 847 (civilian oversight, 2025): Opposed → negotiated confidentiality protections → shifted to neutral → Newsom signed weakened version
+, AB 392 (use of force, 2019): Initially opposed → negotiated to neutral → Newsom signed weakened version
+, SB 2 (police decertification): PORAC opposed qualified immunity reforms
+, AB 847 (civilian oversight, 2025): Opposed → negotiated confidentiality protections → shifted to neutral → Newsom signed weakened version
 
 This is donor relationship strategy. PORAC does not oppose all reform. It negotiates reform to ensure it does not threaten police union power, then claims neutrality. The reform still happens (so Newsom can claim victory) but within bounds the police union sets. The $39–51 million in PORAC Legal Defense Fund reserves and the 297+ officers hidden from public view via clean-record agreements represent the structural outcome: police accountability is negotiated away.
 
 ---
 
-### Private Security Industry — The Unexamined Lobby
+### Private Security Industry. The Unexamined Lobby
 California has a substantial private security industry (armed guards, corporate security, detention facility contractors). The industry has not been extensively researched in connection with public safety policy, but the infrastructure exists.
 
 > [!contradiction]
@@ -105,22 +105,22 @@ California has a substantial private security industry (armed guards, corporate 
 ---
 
 ### Who Has No Money at This Table
-— Communities most affected by gun violence (urban, working-class, communities of color): no major funding source
-— Crime victims and their families (except wealthy neighborhoods): no organized donor class
-— Public defenders and criminal justice reform organizations: chronically underfunded compared to law enforcement
-— Police misconduct victims: no PAC, no funding mechanism comparable to PORAC LDF ($20M/year)
-— Private security workers (often low-wage, non-union): no labor organization with political power comparable to police unions
+, Communities most affected by gun violence (urban, working-class, communities of color): no major funding source
+, Crime victims and their families (except wealthy neighborhoods): no organized donor class
+, Public defenders and criminal justice reform organizations: chronically underfunded compared to law enforcement
+, Police misconduct victims: no PAC, no funding mechanism comparable to PORAC LDF ($20M/year)
+, Private security workers (often low-wage, non-union): no labor organization with political power comparable to police unions
 
 ---
 
 ### Remaining Research Needed
-1. **Everytown for Gun Safety contributions to California campaigns** — direct funding to Newsom or state Democratic infrastructure
-2. **Giffords PAC contributions to California candidates** — cycle-by-cycle
-3. **Brady Campaign California operations** — funding sources, expenditures
-4. **PORAC Legal Defense Fund — detailed breakdown** — which officers, which misconduct, which confidentiality agreements, which negotiated settlements
-5. **Private security industry lobbying in California** — organized structures, PAC formation, legislative engagement
-6. **California Police Chiefs Association contributions** — direct to Newsom, to California Democratic Party
-7. **Police union opposition to specific crime reduction measures** — coordinated strategy documentation
+1. **Everytown for Gun Safety contributions to California campaigns**, direct funding to Newsom or state Democratic infrastructure
+2. **Giffords PAC contributions to California candidates**, cycle-by-cycle
+3. **Brady Campaign California operations**, funding sources, expenditures
+4. **PORAC Legal Defense Fund, detailed breakdown**, which officers, which misconduct, which confidentiality agreements, which negotiated settlements
+5. **Private security industry lobbying in California**, organized structures, PAC formation, legislative engagement
+6. **California Police Chiefs Association contributions**, direct to Newsom, to California Democratic Party
+7. **Police union opposition to specific crime reduction measures**, coordinated strategy documentation
 
 ---
 
@@ -145,26 +145,26 @@ California has a substantial private security industry (armed guards, corporate 
 AB 28 (gun manufacturer tax) is a real policy win. $160 million annually for school safety and violence reduction is material funding for genuine public health work. California's gun restrictions are the most stringent in the nation. That is a genuine achievement. The structural limit: gun control does not threaten law enforcement union power. In fact, it reinforces it. More gun restrictions mean more police enforcement of those restrictions, more police arrests for firearm violations, more justification for police presence and authority. Newsom delivers genuine gun control wins that are compatible with law enforcement union interests. Crime reduction measures that would threaten police power (drug treatment instead of arrest, pretrial release instead of incarceration, community violence interruption instead of police patrol) face greater resistance. The structural limit is that public safety policy is shaped by the interests that benefit from police power expansion, not the interests that would reduce crime through non-police mechanisms.
 
 ### 2. Villain Framing
-"Gun violence" and "gun manufacturers" become named villains in public safety discourse. Law enforcement unions and police power expansion are not named as obstacles to crime reduction. Private security industry expansion (armed guards protecting wealthy areas while public disarmament proceeds) is not examined. The actual structural drivers of public violence — poverty, incarceration, lack of community investment — are addressed rhetorically (Newsom talks about these things) but not systematically (budgets go to police and prosecution, not crime prevention and community health). Villain framing lets Newsom appear pro-public-safety while advancing a public safety model (more police power, more prosecution, more incarceration) that has not reduced crime.
+"Gun violence" and "gun manufacturers" become named villains in public safety discourse. Law enforcement unions and police power expansion are not named as obstacles to crime reduction. Private security industry expansion (armed guards protecting wealthy areas while public disarmament proceeds) is not examined. The actual structural drivers of public violence, poverty, incarceration, lack of community investment, are addressed rhetorically (Newsom talks about these things) but not systematically (budgets go to police and prosecution, not crime prevention and community health). Villain framing lets Newsom appear pro-public-safety while advancing a public safety model (more police power, more prosecution, more incarceration) that has not reduced crime.
 
 ### 3. Two-Audience Problem
 Gun control advocates and progressive base hear: California's most restrictive gun laws, $160M annual tax for school safety, numerous gun restrictions passed, nation-leading policy. Law enforcement unions, police departments, and private security industry hear: gun restrictions → more police enforcement → more police authority, justified incarceration continues, police budgets protected and growing, CCPOA contracts $1.6B over period, PORAC LDF reserves $39–51M for officer defense. The two audiences are told consistent stories about public safety policy. They are receiving different material confirmations of what Newsom will fund and protect. Law enforcement benefits from gun control policy (enforcement opportunity) while simultaneously opposing crime reduction measures that would reduce police power.
 
 ### 4. Pilot Program
-AB 28 school safety funding is the exemplar: visible, measurable, addressing a specific problem (school shootings). But the funding goes to school police, metal detectors, law enforcement training — police solutions to what is framed as a public health problem. The $160M annually could fund treatment, community health workers, violence prevention infrastructure. Instead, it is allocated to law enforcement expansion within schools. The program is real. The structural limit is that public safety policy in California is shaped by law enforcement interests, and those interests benefit from police expansion rather than crime prevention without police.
+AB 28 school safety funding is the exemplar: visible, measurable, addressing a specific problem (school shootings). But the funding goes to school police, metal detectors, law enforcement training, police solutions to what is framed as a public health problem. The $160M annually could fund treatment, community health workers, violence prevention infrastructure. Instead, it is allocated to law enforcement expansion within schools. The program is real. The structural limit is that public safety policy in California is shaped by law enforcement interests, and those interests benefit from police expansion rather than crime prevention without police.
 
 ---
 
 ### Key Research Priorities
-1. ~~Newsom gun control record~~ — **Done.** AB 28, SB 2, multiple other bills documented; complete list still needed.
-2. ~~CCPOA public safety spending~~ — **Done.** $2.9M to Newsom documented, $1.6B contracts documented.
-3. ~~PORAC contributions~~ — **Done (partial).** $47.1K direct (2022), $2.1M+ collective recall documented; full cycle-by-cycle still needed.
-4. Everytown for Gun Safety California contributions — **Not yet started.**
-5. Giffords PAC contributions to California candidates — **Not yet started.**
-6. Bloomberg's gun control funding breakdown — state vs. national — **Not yet started.**
-7. Private security industry lobbying and PAC formation — **Not yet started.**
-8. Police misconduct settlements and PORAC LDF use by specific officers — **Not yet started.** Would require FOIA requests.
-9. Crime reduction vs. police expansion budget allocation — comparative analysis not yet started.
+1. ~~Newsom gun control record~~, **Done.** AB 28, SB 2, multiple other bills documented; complete list still needed.
+2. ~~CCPOA public safety spending~~, **Done.** $2.9M to Newsom documented, $1.6B contracts documented.
+3. ~~PORAC contributions~~, **Done (partial).** $47.1K direct (2022), $2.1M+ collective recall documented; full cycle-by-cycle still needed.
+4. Everytown for Gun Safety California contributions, **Not yet started.**
+5. Giffords PAC contributions to California candidates, **Not yet started.**
+6. Bloomberg's gun control funding breakdown, state vs. national, **Not yet started.**
+7. Private security industry lobbying and PAC formation, **Not yet started.**
+8. Police misconduct settlements and PORAC LDF use by specific officers, **Not yet started.** Would require FOIA requests.
+9. Crime reduction vs. police expansion budget allocation, comparative analysis not yet started.
 
 ### Primary sources to pull:
 - [California FPPC](https://cal-access.sos.ca.gov/Campaign/Committees/list.aspx?page=1) (Tier 1)

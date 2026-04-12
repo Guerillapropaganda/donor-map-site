@@ -15,9 +15,9 @@ tags: #story
 
 ### The Methodology
 
-Geographic donor clustering measures where a politician's campaign money originates relative to their constituency. The donor-first thesis requires understanding this map: **a politician funded by out-of-state money serves out-of-state interests.** When 95% of [[_Susan Collins Master Profile|Susan Collins]]' donations come from outside Maine, Maine voters are not the constituency funding her political independence — Wall Street is.
+Geographic donor clustering measures where a politician's campaign money originates relative to their constituency. The donor-first thesis requires understanding this map: **a politician funded by out-of-state money serves out-of-state interests.** When 95% of [[_Susan Collins Master Profile|Susan Collins]]' donations come from outside Maine, Maine voters are not the constituency funding her political independence. Wall Street is.
 
-The geographic dimension reveals what ideology alone cannot. Two politicians may both receive corporate money, but if one's donors live across the country and the other's live within the state, they are tethered to different constituencies. Out-of-state donors are ideological — they select candidates based on national issues, not local ones. In-state donors are structural — they may be neighbors, business partners, local industries. The geographic split between donor base and constituency is the class analysis made visible.
+The geographic dimension reveals what ideology alone cannot. Two politicians may both receive corporate money, but if one's donors live across the country and the other's live within the state, they are tethered to different constituencies. Out-of-state donors are ideological, they select candidates based on national issues, not local ones. In-state donors are structural, they may be neighbors, business partners, local industries. The geographic split between donor base and constituency is the class analysis made visible.
 
 How it works: Federal Election Commission data requires itemization of donations over $200. Donors self-report their address. OpenSecrets and the FEC aggregate these by state of origin. The metric: percentage of itemized individual contributions from out-of-state sources. This metric underestimates total out-of-state giving because donations under $200 are not itemized and small-dollar platforms like [[ActBlue|ActBlue]] can obscure geographic origin. But it captures the high-dollar picture where donor class interest is most concentrated.
 
@@ -52,13 +52,13 @@ How it works: Federal Election Commission data requires itemization of donations
 ### The Worst Offenders
 
 ### [[_Susan Collins Master Profile|Susan Collins]]: 95% Out-of-State (Maine)
-Collins raised $26.5M for her 2020 reelection with only 13 Maine residents giving $200+ in a single quarter (July-September 2019). In one three-month period, only $2M of $26M came from itemized Maine donations. This is geographic disconnection as financial strategy: her "moderate" brand — "deep concern," reliable votes on donor priorities — is a national asset worth funding. She voted for Kavanaugh (→ Roe overturned), the $1.5T tax cut, and against the ACA twenty times but abstained strategically. Out-of-state donors paid for the brand; Maine voters got the votes.
+Collins raised $26.5M for her 2020 reelection with only 13 Maine residents giving $200+ in a single quarter (July-September 2019). In one three-month period, only $2M of $26M came from itemized Maine donations. This is geographic disconnection as financial strategy: her "moderate" brand, "deep concern," reliable votes on donor priorities, is a national asset worth funding. She voted for Kavanaugh (→ Roe overturned), the $1.5T tax cut, and against the ACA twenty times but abstained strategically. Out-of-state donors paid for the brand; Maine voters got the votes.
 
 [!money]
 **The mechanism:** Collins' donor class is Wall Street, private equity, and pharmaceutical corporations. She votes their way. Her in-state base includes some manufacturing and forestry interests that do not align with her votes. Geographic disconnection is the reveal: she is literally funded to serve constituencies outside Maine.
 
 ### [[_Lindsey Graham Master Profile|Lindsey Graham]]: 87% Out-of-State (South Carolina)
-Graham raised only 13% of his money from South Carolina donors in mid-2019. He performs Southern loyalty (Trump, military, Israel) but is funded from outside the South. His policy record confirms the geographic mismatch: he voted for military expansion (defense PAC money), tax cuts (corporate), and Israel funding ([[AIPAC - American Israel Public Affairs Committee|AIPAC]]). South Carolina has agricultural and textile interests — Graham's record does not prioritize them. His record prioritizes Wall Street and Washington power.
+Graham raised only 13% of his money from South Carolina donors in mid-2019. He performs Southern loyalty (Trump, military, Israel) but is funded from outside the South. His policy record confirms the geographic mismatch: he voted for military expansion (defense PAC money), tax cuts (corporate), and Israel funding ([[AIPAC - American Israel Public Affairs Committee|AIPAC]]). South Carolina has agricultural and textile interests. Graham's record does not prioritize them. His record prioritizes Wall Street and Washington power.
 
 ### [[_Josh Hawley Master Profile|Josh Hawley]]: 77% Out-of-State (Missouri)
 Hawley raised 77% of individual donations from out of state, though in-state donors gave higher per-donation averages ($115 in-state vs. $78 out-of-state). This suggests a two-tier system: rural Missouri gives small checks, coastal wealth funds the operation. Hawley's hard-right performance appeals to a national base of ideological donors but does not reflect Missouri's economic structure. His anti-Big Tech, pro-crypto positioning is funded by national anti-tech ideological networks, not Missouri industry.
@@ -123,7 +123,7 @@ Four out of every five "maxed-out" federal contributions (donations of $3,300+) 
 
 Geographic disconnection is donor-class disconnection.
 
-When a senator's money comes from Manhattan, San Francisco, and Washington, D.C., and their voters come from rural communities, the senator serves two constituencies. The senator votes the way the money votes. The senator's rhetorical posture ("I stand with working families") performs service to the voters; the actual policy service goes to the donors.
+When a senator's money comes from Manhattan, San Francisco, and Washington, D.C. and their voters come from rural communities, the senator serves two constituencies. The senator votes the way the money votes. The senator's rhetorical posture ("I stand with working families") performs service to the voters; the actual policy service goes to the donors.
 
 The donor-first thesis becomes geographically visible through this analysis:
 

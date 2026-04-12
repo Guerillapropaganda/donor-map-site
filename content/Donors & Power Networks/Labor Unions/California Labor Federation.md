@@ -35,9 +35,9 @@ audit-a-plus-passed: "2026-04-11"
 
 ### Who They Are
 
-[[California Labor Federation|California Labor Federation]], AFL-CIO — the statewide coordinating body for union political activity across California. 1,300+ affiliated local unions. 2.3 million union members represented. 22 local building trades councils plus central labor councils. Not a union — the mechanism through which California's unions exercise collective political power.
+[[California Labor Federation|California Labor Federation]], AFL-CIO, the statewide coordinating body for union political activity across California. 1,300+ affiliated local unions. 2.3 million union members represented. 22 local building trades councils plus central labor councils. Not a union, the mechanism through which California's unions exercise collective political power.
 
-The LA County Federation of Labor alone represents 300+ unions and 800,000+ members — the single largest local labor body in the United States.
+The LA County Federation of Labor alone represents 300+ unions and 800,000+ members, the single largest local labor body in the United States.
 
 ---
 
@@ -77,11 +77,11 @@ The Federation consistently endorses Newsom despite: the SB 984 PLA veto (buildi
 
 ---
 
-### Class Analysis — The Containment Function
+### Class Analysis. The Containment Function
 
 The California Labor Federation is the most important institutional node in the vault for understanding how the Democratic Party manages organized labor.
 
-**The structural function:** The Federation aggregates labor's political power — 2.3 million members, hundreds of millions in combined spending, the largest volunteer mobilization infrastructure in California politics — and channels it into the Democratic Party. In exchange, labor gets a seat at the table: endorsement input, legislative access, occasional incremental wins.
+**The structural function:** The Federation aggregates labor's political power, 2.3 million members, hundreds of millions in combined spending, the largest volunteer mobilization infrastructure in California politics, and channels it into the Democratic Party. In exchange, labor gets a seat at the table: endorsement input, legislative access, occasional incremental wins.
 
 **What it doesn't get:** Structural change. The Federation endorsed every version of Newsom. Newsom vetoed PLAs, killed single-payer, cut state worker pay during COVID, and governs in the interest of the healthcare/tech/real estate donor class on every issue where labor and capital interests conflict. The Federation endorses him again.
 
@@ -92,13 +92,13 @@ The California Labor Federation is the most important institutional node in the 
 >
 > Compare this to the Las Vegas Culinary Union ([[UNITE HERE|UNITE HERE]] Local 226), which controls Nevada politics through voter mobilization rather than endorsements. The Culinary Union's power is structural — they deliver elections. The Federation's power is institutional — they deliver endorsements. Structural power can't be ignored. Institutional power can.
 
-**The containment thesis:** The Federation's structural function in the vault's framework is channeling labor's political power into the Democratic Party without threatening the donor class's control of economic policy. It's not that the Federation is corrupt or captured — it's that the consensus-based, two-party-dependent model produces this outcome structurally. No individual decision is wrong. The system produces the result.
+**The containment thesis:** The Federation's structural function in the vault's framework is channeling labor's political power into the Democratic Party without threatening the donor class's control of economic policy. It's not that the Federation is corrupt or captured, it's that the consensus-based, two-party-dependent model produces this outcome structurally. No individual decision is wrong. The system produces the result.
 
-For IBEW members: the Federation is the body through which IBEW's California political strategy gets coordinated with other building trades and other unions. When the Federation endorses Newsom despite the SB 984 veto, IBEW's PLA fight gets subordinated to the coalition's consensus. The alternative — breaking with the Federation, running independent labor candidates, building third-party infrastructure — is high-risk and has no precedent in modern California politics. But the current model keeps producing the same result: labor endorses, capital governs.
+For IBEW members: the Federation is the body through which IBEW's California political strategy gets coordinated with other building trades and other unions. When the Federation endorses Newsom despite the SB 984 veto, IBEW's PLA fight gets subordinated to the coalition's consensus. The alternative, breaking with the Federation, running independent labor candidates, building third-party infrastructure, is high-risk and has no precedent in modern California politics. But the current model keeps producing the same result: labor endorses, capital governs.
 
 ---
 
-### Financial Overview (990 Filing — 2023)
+### Financial Overview (990 Filing, 2023)
 <!-- auto:propublica-990 start -->
 
 | Metric | Amount |

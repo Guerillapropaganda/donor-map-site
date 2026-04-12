@@ -36,7 +36,7 @@ The pipeline has five phases: **Recruitment (2011)** → **Mentorship (2012-2015
 
 ### Thiel's $15M Senate SuperPAC Investment: Anatomy of a Political Purchase
 
-In 2022, [[Peter Thiel|Peter Thiel]]'s *Protect Ohio Values* PAC spent $15M on [[_JD Vance Master Profile|JD Vance]]'s Ohio Senate race—unprecedented for a single Senate candidate at that time. This was not an endorsement. It was an acquisition.
+In 2022, [[Peter Thiel|Peter Thiel]]'s *Protect Ohio Values* PAC spent $15M on [[_JD Vance Master Profile|JD Vance]]'s Ohio Senate race, unprecedented for a single Senate candidate at that time. This was not an endorsement. It was an acquisition.
 
 ### The math:
 - Thiel PAC: $15M
@@ -45,15 +45,15 @@ In 2022, [[Peter Thiel|Peter Thiel]]'s *Protect Ohio Values* PAC spent $15M on [
 
 ### Why Ohio? Why Vance?
 Vance checked three boxes:
-1. **Credible working-class face**: *Hillbilly Elegy* had sold 3M copies. He could speak to Appalachian grievance authentically—essential for a billionaire-proxy politician.
+1. **Credible working-class face**: *Hillbilly Elegy* had sold 3M copies. He could speak to Appalachian grievance authentically, essential for a billionaire-proxy politician.
 2. **Ideologically aligned**: Already committed to Thiel's anti-democracy stance, surveillance expansion, and crypto deregulation positions.
 3. **Vulnerable to control**: Young, ambitious, politically inexperienced, entirely dependent on Thiel's patronage for viability. No independent donor base or political machinery.
 
-The Senate race was not about winning Ohio for Vance's ideas. It was about securing a national platform and federal position for 2024 VP consideration—the actual target.
+The Senate race was not about winning Ohio for Vance's ideas. It was about securing a national platform and federal position for 2024 VP consideration, the actual target.
 
 ### Mentorship as Patronage: Yale Law to Mar-a-Lago
 
-Thiel's relationship with Vance began as formal mentorship but transformed into explicit patronage—a structure that reveals how billionaire political control actually operates at scale.
+Thiel's relationship with Vance began as formal mentorship but transformed into explicit patronage, a structure that reveals how billionaire political control actually operates at scale.
 
 ### 2012-2015 mentorship period:
 - Thiel met Vance at Yale Law School during Thiel's speaking engagement
@@ -88,7 +88,7 @@ Per Aspera's stated mission: "America's national renaissance through pro-natalis
 
 ### How Thiel Brought Vance to Trump: The 2024 VP Selection
 
-The VP selection process in summer 2024 was the moment of full integration—Thiel's political product finally placed in the position of actual governmental power.
+The VP selection process in summer 2024 was the moment of full integration, Thiel's political product finally placed in the position of actual governmental power.
 
 ### The lobbying campaign:
 - **Thiel**: Direct Trump endorsement, May 2024 statement supporting Vance
@@ -133,7 +133,7 @@ Vance is the proof-of-concept for billionaire political manufacturing at scale. 
 6. Use Senate as holding pattern (don't legislate, just position)
 7. Place in VP office where real power resides
 
-This template can be replicated. Thiel is now explicitly considering the same strategy with other emerging figures—proving that Vance is not a unique accident of history, but a replicable political product.
+This template can be replicated. Thiel is now explicitly considering the same strategy with other emerging figures, proving that Vance is not a unique accident of history, but a replicable political product.
 
 ### Sources
 

@@ -21,7 +21,7 @@ In 2007, then-Harvard Law School professor [[_Elizabeth Warren Master Profile|El
 
 The concept was radical because it treated financial predation not as a moral failing of individual lenders but as a structural problem requiring agency enforcement. It focused on the consumer harm caused by deceptive and predatory financial products, not on protecting financial industry profits.
 
-President Obama embraced the concept. The CFPB was created as part of the Dodd-Frank financial reform bill in 2010. Warren was the founding director of the agency — initially not officially, because Republicans threatened to block her confirmation, so she served in an unofficial capacity before leaving to run for Senate in 2012.
+President Obama embraced the concept. The CFPB was created as part of the Dodd-Frank financial reform bill in 2010. Warren was the founding director of the agency, initially not officially, because Republicans threatened to block her confirmation, so she served in an unofficial capacity before leaving to run for Senate in 2012.
 
 ---
 
@@ -60,7 +60,7 @@ The CFPB's success in returning $21 billion and protecting consumers from predat
 ### Why the CFPB Was Permitted:
 The financial services industry opposed the CFPB's creation and continues to oppose its enforcement authority. But the financial crisis of 2008 created a political moment when some financial regulation was politically inevitable. The CFPB was permitted because:
 
-1. **Post-2008 political window:** The financial crisis created public anger at Wall Street and demand for regulation. Opposing *all* financial reform became politically impossible. The CFPB was a compromise—it regulated consumer-facing predatory practices while leaving the structural architecture of finance (deregulated derivatives, proprietary trading, excessive leverage) intact.
+1. **Post-2008 political window:** The financial crisis created public anger at Wall Street and demand for regulation. Opposing *all* financial reform became politically impossible. The CFPB was a compromise, it regulated consumer-facing predatory practices while leaving the structural architecture of finance (deregulated derivatives, proprietary trading, excessive leverage) intact.
 
 2. **Extracting value from consumer fraud is not core to financial capital:** The $21 billion returned to consumers represents predatory practices that extracted value from the vulnerable. Eliminating predatory lending does not threaten the core financial system. It prevents *excess* predation, not predation itself. Mortgages, credit cards, and loans remain. Banks continue to profit from the financial system; they simply cannot engage in the most egregious fraud.
 
@@ -120,7 +120,7 @@ In 2025, the Trump administration moved to dismantle the CFPB. DOGE ([[Elon Musk
 
 This is what Warren's genuine win looks like when threatened by a billionaire oligarchy: it is destroyed without ceremony or resistance from the donor-class Democratic Party.
 
-The Democrats could have made CFPB defense central to their political identity. They did not. The CFPB became an orphan — something Warren created but the Democratic Party would not defend when it was threatened.
+The Democrats could have made CFPB defense central to their political identity. They did not. The CFPB became an orphan, something Warren created but the Democratic Party would not defend when it was threatened.
 
 This is the pattern: genuine reforms are permitted when they don't threaten capital. When capital decides a reform has become inconvenient, it is dismantled. The political system does not defend reforms against capital pressure.
 
@@ -170,7 +170,7 @@ Warren's CFPB speeches perform differently to different audiences:
 - **To working-class voters and progressive advocates:** "This agency returns money stolen from you by banks. I created it. I will defend it."
 - **To institutional Democratic colleagues and Wall Street-aligned party infrastructure:** "The CFPB operates within the financial system. It permits banking to continue, just with less egregious fraud."
 
-Both positions are true. The contradiction emerges when the second audience (party leadership dependent on Wall Street funding) declines to defend the agency against Trump's dismantlement. Warren's public anger at the CFPB destruction is genuine; her lack of power to actually stop it reflects the two-audience dynamic — the party's institutional interests diverge from the agency's institutional survival.
+Both positions are true. The contradiction emerges when the second audience (party leadership dependent on Wall Street funding) declines to defend the agency against Trump's dismantlement. Warren's public anger at the CFPB destruction is genuine; her lack of power to actually stop it reflects the two-audience dynamic, the party's institutional interests diverge from the agency's institutional survival.
 
 #### 4. The Pilot Program
 

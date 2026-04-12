@@ -9,7 +9,7 @@ related: "[[_Joe Manchin Master Profile]]"
 ---
 #joe-manchin #heather-bresch #mylan #epipen #pharma #family-enrichment #class-analysis
 
-donors: [[PhRMA]] · (Mylan — internal family firm)
+donors: [[PhRMA]] · (Mylan, internal family firm)
 
 ---
 
@@ -29,7 +29,7 @@ donors: [[PhRMA]] · (Mylan — internal family firm)
 | 2013-01-01 | Mylan EpiPen price increase | $265 | Washington Post |
 | 2016-09-01 | Mylan EpiPen price reaches peak (2-pack) | $609 | House Oversight Committee |
 
-**What changed:** Nothing about the product changed. The epinephrine in the EpiPen costs approximately $1. The auto-injector technology was decades old. Mylan raised the price because it could — EpiPen held 90%+ of the market, and families with children who have severe allergies had no alternative. The price increases were pure extraction.
+**What changed:** Nothing about the product changed. The epinephrine in the EpiPen costs approximately $1. The auto-injector technology was decades old. Mylan raised the price because it could. EpiPen held 90%+ of the market, and families with children who have severe allergies had no alternative. The price increases were pure extraction.
 
 ---
 
@@ -37,7 +37,7 @@ donors: [[PhRMA]] · (Mylan — internal family firm)
 
 **CEO compensation (Mylan):** $18.9 million annual (at peak)
 
-**The MBA scandal:** In 2007, it was revealed that West Virginia University had retroactively awarded Heather Bresch an MBA she had not completed. Bresch had earned only 22 of 48 required credits. WVU's provost resigned over the scandal. The degree was rescinded. At the time, [[_Joe Manchin Master Profile|Joe Manchin]] was Governor of West Virginia — the state that funds WVU. The university's accreditation was briefly threatened.
+**The MBA scandal:** In 2007, it was revealed that West Virginia University had retroactively awarded Heather Bresch an MBA she had not completed. Bresch had earned only 22 of 48 required credits. WVU's provost resigned over the scandal. The degree was rescinded. At the time, [[_Joe Manchin Master Profile|Joe Manchin]] was Governor of West Virginia, the state that funds WVU. The university's accreditation was briefly threatened.
 
 > [!contradiction]
 > West Virginia's governor's daughter received a degree she didn't earn from the state's flagship university — while her father controlled the state's budget. Years later, she became CEO of a pharmaceutical company that priced a life-saving medication beyond the reach of West Virginia families — the poorest in America. The Manchin family's enrichment operates through institutional capture at every level: state government, state university, pharmaceutical industry, and federal Senate.
@@ -48,7 +48,7 @@ donors: [[PhRMA]] · (Mylan — internal family firm)
 
 Despite his daughter's pharmaceutical career, Manchin has never recused himself from pharmaceutical policy votes:
 
-- Supported Medicare drug price negotiation provisions in the IRA — but only after ensuring the negotiation applied to just 10 drugs initially (a major pharma concession)
+- Supported Medicare drug price negotiation provisions in the IRA, but only after ensuring the negotiation applied to just 10 drugs initially (a major pharma concession)
 - Never supported broader price controls that would have affected the kind of pricing Mylan engaged in
 - Did not support importation of cheaper drugs from Canada at the scale reform advocates demanded
 - Career pharmaceutical industry contributions: included in broader healthcare donor totals

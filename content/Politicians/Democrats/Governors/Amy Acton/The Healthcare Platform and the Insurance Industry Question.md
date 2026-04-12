@@ -76,15 +76,15 @@ Evidence of structural limitation:
 Acton's healthcare platform demonstrates the vault's key pattern: a candidate delivers real wins while respecting the structural boundaries of the system that generated the problem in the first place.
 
 ### Real Wins Acton Can Deliver as Governor:
-1. **Medicaid expansion advocacy** — Ohio Gov. DeWine actually expanded Medicaid (rare for Republican); Acton would defend + strengthen it. Affects 2.9M Ohioans currently enrolled. Genuine working-class healthcare expansion.
-2. **Marketplace subsidy advocacy** — State can theoretically create matching subsidy program for ACA-eligible Ohioans; affects ~300K people in marketplace plans. Real money for real people.
-3. **Hospital closure prevention** — Executive branch can work with legislature to create rural hospital stabilization fund, Medicaid payment increase for rural providers. 11 hospitals at risk; this is real stakes.
+1. **Medicaid expansion advocacy**. Ohio Gov. DeWine actually expanded Medicaid (rare for Republican); Acton would defend + strengthen it. Affects 2.9M Ohioans currently enrolled. Genuine working-class healthcare expansion.
+2. **Marketplace subsidy advocacy**. State can theoretically create matching subsidy program for ACA-eligible Ohioans; affects ~300K people in marketplace plans. Real money for real people.
+3. **Hospital closure prevention**. Executive branch can work with legislature to create rural hospital stabilization fund, Medicaid payment increase for rural providers. 11 hospitals at risk; this is real stakes.
 
 ### Structural Limits Acton Cannot Overcome:
-1. **No single-payer system** — Would require dismantle of existing insurance framework; Ohio Republican legislature would never pass. Acton does not advocate for it.
-2. **No pharmaceutical price controls beyond federal** — State has limited authority; federal Medicare negotiation is Tier 1 lever. Acton does not challenge federal pharma pricing.
-3. **No insurance profit caps** — Would require federal regulation or state law targeting insurance company business model. Acton does not propose this.
-4. **No healthcare industry lobbying restrictions** — Ohio legislature is funded by healthcare interests; they control regulatory capture. Acton does not challenge this.
+1. **No single-payer system**. Would require dismantle of existing insurance framework; Ohio Republican legislature would never pass. Acton does not advocate for it.
+2. **No pharmaceutical price controls beyond federal**. State has limited authority; federal Medicare negotiation is Tier 1 lever. Acton does not challenge federal pharma pricing.
+3. **No insurance profit caps**. Would require federal regulation or state law targeting insurance company business model. Acton does not propose this.
+4. **No healthcare industry lobbying restrictions**. Ohio legislature is funded by healthcare interests; they control regulatory capture. Acton does not challenge this.
 
 **The Pattern:** Acton will fight for $X million in Medicaid expansion and hospital stabilization. The insurance system will continue extracting profits from Ohioans at rates that make healthcare the second-largest household expense (after housing). The pattern holds across Democratic governors: real wins that affect margin, structural limits that preserve the system.
 
@@ -99,8 +99,8 @@ The class analysis sharpens when comparing Acton's healthcare position to her li
 | **Healthcare Funding Model** | Grassroots individual donations; no insurance/pharma money | Venture capital fortune (including biotech); billionaire self-funded |
 | **FDA Position** | Supports regulatory framework; does not attack FDA | Co-led DOGE proposing 75% federal workforce cuts (includes FDA staff cuts) |
 | **Pharma Conflict of Interest** | No documented financial interest in pharmaceutical outcomes | Founded/profited from Roivant Sciences (biotech); FDA deregulation directly benefits Roivant |
-| **Healthcare System Position** | Advocates expansion within existing framework | Advocates "gut the FDA" — eliminates regulatory oversight |
-| **Who Benefits** | Acton's wins benefit working families (Medicaid expansion); Ramaswamy's wins benefit venture capital |  | Ramaswamy's "deregulation" benefits his own company's bottom line |
+| **Healthcare System Position** | Advocates expansion within existing framework | Advocates "gut the FDA", eliminates regulatory oversight |
+| **Who Benefits** | Acton's wins benefit working families (Medicaid expansion); Ramaswamy's wins benefit venture capital | | Ramaswamy's "deregulation" benefits his own company's bottom line |
 
 ### The Structural Contradiction in Ramaswamy's Position:
 Ramaswamy frames "gutting the FDA" as libertarian principle (less government = more freedom). The actual mechanism: FDA deregulation benefits pharmaceutical companies that can skip safety testing or skip efficacy data collection. Roivant Sciences, the company Ramaswamy founded and profited from, benefits directly from weaker FDA oversight.
@@ -132,11 +132,11 @@ The pressure point: Acton can deliver Medicaid expansion only if she negotiates 
 
 ### Analytical Patterns
 
-**The Genuine Conviction Without Insurance Industry Capture** — Acton's healthcare advocacy is authentic: she was a public health professor and Columbus Foundation VP directing healthcare grants; she lived through Ohio's healthcare crisis directly. Her lack of insurance industry donors is not strategic repositioning; it is consistent with her career trajectory. This legitimacy matters. But it does not determine governance outcomes. A governor with authentic healthcare commitment who faces a Republican legislature will deliver smaller wins than her rhetoric suggests.
+**The Genuine Conviction Without Insurance Industry Capture**. Acton's healthcare advocacy is authentic: she was a public health professor and Columbus Foundation VP directing healthcare grants; she lived through Ohio's healthcare crisis directly. Her lack of insurance industry donors is not strategic repositioning; it is consistent with her career trajectory. This legitimacy matters. But it does not determine governance outcomes. A governor with authentic healthcare commitment who faces a Republican legislature will deliver smaller wins than her rhetoric suggests.
 
-**The Sanders Comparison** — [[_Bernie Sanders Master Profile|Bernie Sanders]] advocates Medicare for All (system dismantling); Acton advocates Medicaid expansion (system expansion within existing framework). Sanders was a senator without power to pass his bill; if elected president, he would face similar constraints (Senate Democrats would not pass Medicare for All). Acton, like Sanders, can be genuinely committed to working-class healthcare without being able to deliver structural healthcare system change. The difference: Sanders has spent 30 years honest about the contradiction; Acton is running in a 2026 Ohio race where articulating structural limits is electoral danger.
+**The Sanders Comparison**, [[_Bernie Sanders Master Profile|Bernie Sanders]] advocates Medicare for All (system dismantling); Acton advocates Medicaid expansion (system expansion within existing framework). Sanders was a senator without power to pass his bill; if elected president, he would face similar constraints (Senate Democrats would not pass Medicare for All). Acton, like Sanders, can be genuinely committed to working-class healthcare without being able to deliver structural healthcare system change. The difference: Sanders has spent 30 years honest about the contradiction; Acton is running in a 2026 Ohio race where articulating structural limits is electoral danger.
 
-**The Genuine Win + Structural Limit Specifically** — Acton can deliver:
+**The Genuine Win + Structural Limit Specifically**. Acton can deliver:
 - Medicaid expansion (if legislature cooperates): ~500K newly insured Ohioans
 - Marketplace subsidy fund (state-level): ~100K people with lower premiums
 - Rural hospital stabilization (state funding): potentially saves 3-5 hospitals
@@ -156,7 +156,7 @@ Acton can win the first category; she cannot address the second without dismantl
 - [Ohio Marketplace Enrollment Decline 2017-2026 | Centers for Medicare and Medicaid Services](https://www.cms.gov/marketplace-state-data/ohio) (Tier 1)
 - [Hospital Closures Threatening Rural Ohio | Ohio Hospital Association](https://www.ohiohospitals.org/advocacy/rural-hospitals-at-risk) (Tier 2)
 - [Medicaid's Role in Birth Coverage: National Data | Kaiser Family Foundation](https://www.kff.org/medicaid/state-indicator/births-covered-by-medicaid/) (Tier 2)
-- [CBS News: The billionaire who fueled JD Vance's rapid rise — Peter Thiel and biotech connections](https://www.cbsnews.com/news/jd-vance-trump-vp-peter-thiel-billionaire/) (Tier 2)
+- [CBS News: The billionaire who fueled JD Vance's rapid rise. Peter Thiel and biotech connections](https://www.cbsnews.com/news/jd-vance-trump-vp-peter-thiel-billionaire/) (Tier 2)
 - [DOGE Federal Workforce Cuts: 75% Reduction Plan | Politico](https://www.politico.com/news/2024/11/doge-federal-workforce-cuts) (Tier 2)
 - [FDA Deregulation as Pharma Industry Benefit | STAT News](https://www.statnews.com/article/fda-deregulation-pharma/) (Tier 2)
 - [Health Insurance Industry Lobbying Spending (2020-2026) | OpenSecrets](https://lda.gov/filings/public/filing/search/) (Tier 1)

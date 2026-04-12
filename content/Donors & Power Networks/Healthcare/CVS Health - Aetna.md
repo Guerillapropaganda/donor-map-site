@@ -22,9 +22,9 @@ audit-a-plus-passed: "2026-04-11"
 
 ### Who They Are
 
-CVS Health Corporation. A vertically integrated healthcare giant with $357 billion in annual revenue (2024) — the fifth-largest company in America by revenue. CVS operates in three intersecting domains: pharmacy retail (9,000+ stores), pharmacy benefit management (CVS Caremark, one of the three PBMs controlling 80% of the market), and health insurance (Aetna, acquired for $69 billion in 2018). This vertical integration means CVS controls insurance coverage decisions, drug formulary placement, and pharmacy dispensing — extracting profit at every stage of the prescription drug supply chain.
+CVS Health Corporation. A vertically integrated healthcare giant with $357 billion in annual revenue (2024), the fifth-largest company in America by revenue. CVS operates in three intersecting domains: pharmacy retail (9,000+ stores), pharmacy benefit management (CVS Caremark, one of the three PBMs controlling 80% of the market), and health insurance (Aetna, acquired for $69 billion in 2018). This vertical integration means CVS controls insurance coverage decisions, drug formulary placement, and pharmacy dispensing, extracting profit at every stage of the prescription drug supply chain.
 
-CVS PAC contributes $2-3 million per cycle and the company spends $10-12 million annually on lobbying — making it one of the top healthcare lobbying spenders in America.
+CVS PAC contributes $2-3 million per cycle and the company spends $10-12 million annually on lobbying, making it one of the top healthcare lobbying spenders in America.
 
 - [OpenSecrets: CVS Health organizational profile](https://www.opensecrets.org/orgs/cvs-health/summary?id=D000024650) (Tier 1)
 
@@ -59,7 +59,7 @@ Bipartisan distribution targeting healthcare committee members, with emphasis on
 
 ### Class Analysis
 
-CVS Health represents the complete vertical capture of the prescription drug supply chain. The company's business model extracts value from patients at three distinct points — insurance premiums, PBM spreads, and pharmacy margins — while presenting itself as a healthcare provider. The $357 billion in annual revenue flows overwhelmingly from consumers and government health programs (Medicare Part D, Medicaid managed care) to shareholders. CVS's political operation protects this extraction model by preventing the transparency, unbundling, and competition legislation that would expose how much of each healthcare dollar is captured by the intermediary rather than spent on care. The patients standing in CVS pharmacy lines are the raw material; the shareholders are the beneficiaries.
+CVS Health represents the complete vertical capture of the prescription drug supply chain. The company's business model extracts value from patients at three distinct points, insurance premiums, PBM spreads, and pharmacy margins, while presenting itself as a healthcare provider. The $357 billion in annual revenue flows overwhelmingly from consumers and government health programs (Medicare Part D, Medicaid managed care) to shareholders. CVS's political operation protects this extraction model by preventing the transparency, unbundling, and competition legislation that would expose how much of each healthcare dollar is captured by the intermediary rather than spent on care. The patients standing in CVS pharmacy lines are the raw material; the shareholders are the beneficiaries.
 
 ---
 

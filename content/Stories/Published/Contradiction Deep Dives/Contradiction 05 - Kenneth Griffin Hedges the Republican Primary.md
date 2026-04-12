@@ -69,7 +69,7 @@ Sources:
 
 ### The Citadel Interest: What Actually Matters
 
-[[Kenneth Griffin]] controls Citadel LLC, a hedge fund managing approximately $65-67 billion in assets under management (AUM) as of early 2024-2026. His personal net worth: $51.2 billion as of January 2026, ranking 34th globally. The fund has generated $74 billion in net gains since inception in 1990 — the most profitable hedge fund in history.
+[[Kenneth Griffin]] controls Citadel LLC, a hedge fund managing approximately $65-67 billion in assets under management (AUM) as of early 2024-2026. His personal net worth: $51.2 billion as of January 2026, ranking 34th globally. The fund has generated $74 billion in net gains since inception in 1990, the most profitable hedge fund in history.
 
 What threatens this? Taxation. Regulation. Carried interest reductions. Capital gains rate increases.
 

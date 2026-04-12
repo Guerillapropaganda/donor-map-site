@@ -91,11 +91,11 @@ The A/F binary is a crude measure of crypto industry interests, not legislative 
 1. **Different funding sources**: Fairshake draws from crypto entrepreneurs and venture capital invested in blockchain. Think Big draws from Silicon Valley executives in traditional tech (Andreessen, OpenAI stakeholders).
 
 2. **Overlapping but distinct goals**:
-   - Crypto PACs prioritize regulatory capture (anti-SEC enforcement, anti-IRS regulation)
-   - AI PACs prioritize market access and liability protection
-   - Both oppose traditional Democratic regulation
+ - Crypto PACs prioritize regulatory capture (anti-SEC enforcement, anti-IRS regulation)
+ - AI PACs prioritize market access and liability protection
+ - Both oppose traditional Democratic regulation
 
-3. **Combined spending**: Crypto + AI industries spent nearly $20M in Illinois primaries across all races. Yet neither sector dominated outcomes—machine politics (Pritzker) and democratic voters proved more decisive.
+3. **Combined spending**: Crypto + AI industries spent nearly $20M in Illinois primaries across all races. Yet neither sector dominated outcomes, machine politics (Pritzker) and democratic voters proved more decisive.
 
 ### The Class Difference
 
@@ -150,7 +150,7 @@ The reality: Voters and established power structures still privilege machine pol
 - [Where big spending won – and lost – in the Illinois primary](https://www.local10.com/news/politics/2026/03/18/where-big-spending-won-and-lost-in-the-illinois-primary/) (Local 10 News, March 18, 2026) (Tier 2)
 
 ### Tier 2: Campaign Finance Analysis
-- [Super PAC scorecard — how outside spending groups fared in efforts to influence Illinois primary voters](https://www.wbez.org/government-politics/elections/2026/03/18/illinois-primary-super-pac-spending-aipac-cryptocurrency-ai-sports-betting) (WBEZ Chicago, March 18, 2026) (Tier 2)
+- [Super PAC scorecard, how outside spending groups fared in efforts to influence Illinois primary voters](https://www.wbez.org/government-politics/elections/2026/03/18/illinois-primary-super-pac-spending-aipac-cryptocurrency-ai-sports-betting) (WBEZ Chicago, March 18, 2026) (Tier 2)
 - [Illinois Senate Primary Features Millions in Outside Spending, Too](https://prospect.org/2026/03/17/illinois-senate-primary-super-pac-spending-juliana-stratton-raja-krishnamoorthi/) (American Prospect, March 17, 2026) (Tier 2)
 - [Special-Interest Super PACs Underperform in Illinois Democratic Primary](https://prospect.org/2026/03/18/special-interest-super-pacs-underperform-illinois-democratic-primary-stratton-biss-miller-bean-ford/) (American Prospect, March 18, 2026) (Tier 2)
 

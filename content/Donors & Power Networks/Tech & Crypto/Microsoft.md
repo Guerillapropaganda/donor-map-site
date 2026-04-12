@@ -64,7 +64,7 @@ audit-a-plus-passed: "2026-04-11"
 
 ### Who They Are
 
-Microsoft Corporation. The second-most valuable company in the world (~$3.1 trillion market cap, 2025). Under CEO Satya Nadella, Microsoft has positioned itself as the infrastructure layer of American technology: Azure cloud services for government and enterprise, Office 365 for productivity, LinkedIn for professional networking, and — through its $13 billion investment in OpenAI — the dominant commercial AI platform.
+Microsoft Corporation. The second-most valuable company in the world (~$3.1 trillion market cap, 2025). Under CEO Satya Nadella, Microsoft has positioned itself as the infrastructure layer of American technology: Azure cloud services for government and enterprise, Office 365 for productivity, LinkedIn for professional networking, and, through its $13 billion investment in OpenAI, the dominant commercial AI platform.
 
 Microsoft is one of the top corporate political spenders in America: $10.6 million in federal lobbying in 2024, $2+ million in PAC contributions per cycle, and one of the largest government contracting relationships of any tech company. Microsoft's JEDI and subsequent JWCC cloud contracts with the Pentagon position the company as a core defense technology provider.
 
@@ -76,7 +76,7 @@ Microsoft is one of the top corporate political spenders in America: $10.6 milli
 
 Microsoft's policy priorities: favorable government cloud contracting (Azure competes with Amazon Web Services for billions in federal contracts), AI regulation that favors large incumbents and infrastructure providers, copyright frameworks that protect AI training on copyrighted data, favorable antitrust treatment of its Activision Blizzard acquisition and OpenAI investment, immigration reform (H-1B visa expansion for tech workforce), and preservation of its enterprise software market position.
 
-Microsoft's AI lobbying is its most significant current investment. The company's $13 billion OpenAI stake makes it the leading commercial AI provider, and Microsoft lobbies for regulatory frameworks that treat AI safety through voluntary commitments rather than mandatory constraints — preserving its ability to deploy AI products without external oversight.
+Microsoft's AI lobbying is its most significant current investment. The company's $13 billion OpenAI stake makes it the leading commercial AI provider, and Microsoft lobbies for regulatory frameworks that treat AI safety through voluntary commitments rather than mandatory constraints, preserving its ability to deploy AI products without external oversight.
 
 ---
 
@@ -85,10 +85,10 @@ Microsoft's AI lobbying is its most significant current investment. The company'
 Microsoft PAC distributes bipartisan contributions approximately 50/50, reflecting the company's dependence on government contracts from both parties. Heavy concentration on Armed Services Committee members (defense contracting jurisdiction), Commerce Committee members (tech regulation), and Judiciary Committee members (antitrust).
 
 ### Key relationships:
-- Armed Services Committee members — JWCC and Pentagon cloud contracts
-- Intelligence Committee members — classified cloud services
-- AI caucus members — shaping AI governance
-- Washington State delegation — home state
+- Armed Services Committee members. JWCC and Pentagon cloud contracts
+- Intelligence Committee members, classified cloud services
+- AI caucus members, shaping AI governance
+- Washington State delegation, home state
 
 ---
 
@@ -98,7 +98,7 @@ Microsoft PAC distributes bipartisan contributions approximately 50/50, reflecti
 
 **Activision Blizzard Acquisition (2023):** Microsoft's $69 billion acquisition of Activision Blizzard was approved by the FTC after a court ruled in Microsoft's favor, overcoming antitrust concerns. Microsoft's lobbying and legal strategy successfully framed the acquisition as pro-competitive.
 
-**AI Regulation Framework:** Microsoft's preferred "responsible AI" framework — based on voluntary commitments, industry self-regulation, and government-industry partnerships — has become the default policy approach in Washington. No mandatory AI regulation has passed Congress, preserving Microsoft's ability to deploy AI products without constraint.
+**AI Regulation Framework:** Microsoft's preferred "responsible AI" framework, based on voluntary commitments, industry self-regulation, and government-industry partnerships, has become the default policy approach in Washington. No mandatory AI regulation has passed Congress, preserving Microsoft's ability to deploy AI products without constraint.
 
 ---
 

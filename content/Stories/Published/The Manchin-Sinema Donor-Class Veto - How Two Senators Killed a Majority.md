@@ -30,9 +30,9 @@ donors: [[Fossil Fuel Bloc]], [[Koch Network - Charles Koch]]
 
 ### The Structural Logic
 
-The 50-50 Senate created the narrowest possible majority — any single defection killed legislation. This arithmetic handed extraordinary power to any senator willing to break from the caucus. The donor class recognized this immediately: rather than funding 50 senators to block progressive legislation, they only needed to secure two.
+The 50-50 Senate created the narrowest possible majority, any single defection killed legislation. This arithmetic handed extraordinary power to any senator willing to break from the caucus. The donor class recognized this immediately: rather than funding 50 senators to block progressive legislation, they only needed to secure two.
 
-Manchin and Sinema weren't random defectors. They represented complementary sectors of the donor class: Manchin covered energy and extractive industries; Sinema covered Wall Street, private equity, and pharmaceuticals. Their combined coverage meant that every major donor-class interest — fossil fuels, finance, pharma — had a designated protector in the Democratic caucus.
+Manchin and Sinema weren't random defectors. They represented complementary sectors of the donor class: Manchin covered energy and extractive industries; Sinema covered Wall Street, private equity, and pharmaceuticals. Their combined coverage meant that every major donor-class interest, fossil fuels, finance, pharma, had a designated protector in the Democratic caucus.
 
 > [!contradiction]
 > Both senators claimed independence as a virtue. Manchin: "I just want to find common ground." Sinema: "independence from the broken partisan system." But their "independence" was directional — it always moved toward the donor class's position, never away from it. Manchin never broke with fossil fuel interests to support climate action. Sinema never broke with Wall Street to support progressive taxation. The independence was real, but it was independence from their voters, not from their donors.
@@ -53,12 +53,12 @@ Manchin and Sinema weren't random defectors. They represented complementary sect
 
 ### The Money Trail: Parallel Donor Capture
 
-### Manchin — The Self-Funding Model:
-Manchin didn't need external donors to know how to vote. His company, Enersystems Inc., paid him ~$500,000/year in coal brokerage dividends — $5.2 million between 2011 and 2020. Every climate regulation that closes a coal plant reduces his personal income. The donor class's interests and Manchin's personal interests were identical. He is the st
+### Manchin. The Self-Funding Model:
+Manchin didn't need external donors to know how to vote. His company, Enersystems Inc. paid him ~$500,000/year in coal brokerage dividends, $5.2 million between 2011 and 2020. Every climate regulation that closes a coal plant reduces his personal income. The donor class's interests and Manchin's personal interests were identical. He is the st
 
-Career fossil fuel industry contributions: $900K+ (OpenSecrets). But external donations were supplementary — the real alignment was structural.
+Career fossil fuel industry contributions: $900K+ (OpenSecrets). But external donations were supplementary, the real alignment was structural.
 
-### Sinema — The Real-Time Shift:
+### Sinema. The Real-Time Shift:
 Sinema's capture is traceable quarter by quarter. She won in 2018 with broad-based funding. By 2021, the securities and investment industry had become her dominant donor bloc: $3.5M+ career total, with nearly $1 million arriving in the single year before she killed carried interest. Specific firms:
 
 | Firm | Donations | Industry |
@@ -70,7 +70,7 @@ Sinema's capture is traceable quarter by quarter. She won in 2018 with broad-bas
 | Elliott Advisors | $51K+ | Hedge fund |
 | Pharmaceutical industry total | $466K+ | Pharma |
 
-The donation surge preceded the policy delivery. Wall Street funded Sinema before she killed carried interest — not after. The investment came first; the return followed.
+The donation surge preceded the policy delivery. Wall Street funded Sinema before she killed carried interest, not after. The investment came first; the return followed.
 
 ---
 
@@ -112,9 +112,9 @@ Both senators left office in January 2025. Neither sought reelection. Their depa
 
 The Manchin-Sinema bloc demonstrates three structural principles of donor-class power in the Senate:
 
-**1. Narrow majorities amplify donor leverage.** In a 50-50 Senate, the donor class needed to capture only two senators to veto an entire legislative agenda. The cost of capturing two senators is a rounding error compared to the policy returns — $3.5M to Sinema preserved $6.5–14B/decade in carried interest. The ROI is measured in thousands of percent.
+**1. Narrow majorities amplify donor leverage.** In a 50-50 Senate, the donor class needed to capture only two senators to veto an entire legislative agenda. The cost of capturing two senators is a rounding error compared to the policy returns, $3.5M to Sinema preserved $6.5–14B/decade in carried interest. The ROI is measured in thousands of percent.
 
-**2. The donor class diversifies its portfolio.** Manchin and Sinema weren't redundant — they covered different sectors. Fossil fuels, finance, and pharma each had a designated protector. The diversification ensured comprehensive coverage: no major donor-class interest was left undefended.
+**2. The donor class diversifies its portfolio.** Manchin and Sinema weren't redundant, they covered different sectors. Fossil fuels, finance, and pharma each had a designated protector. The diversification ensured comprehensive coverage: no major donor-class interest was left undefended.
 
 **3. The capture is bipartisan in effect.** Both senators nominally caucused with Democrats. Their votes counted toward the Democratic majority for procedural purposes. But their substantive votes served donor-class interests indistinguishable from Republican positions. The donor class doesn't need a Republican majority when it can purchase a functional veto within the Democratic caucus.
 

@@ -76,7 +76,7 @@ audit-a-plus-passed: "2026-04-11"
 
 ### Who They Are
 
-Eli Lilly and Company (NYSE: LLY). The most valuable pharmaceutical company on Earth — market capitalization exceeding $820 billion (March 2026), headquartered in Indianapolis, Indiana. Revenue of $45.0 billion in 2024 (up 32% year-over-year), with 2025 guidance of $58-61 billion driven by explosive GLP-1 drug sales. Lilly employs approximately 43,000 people worldwide.
+Eli Lilly and Company (NYSE: LLY). The most valuable pharmaceutical company on Earth, market capitalization exceeding $820 billion (March 2026), headquartered in Indianapolis, Indiana. Revenue of $45.0 billion in 2024 (up 32% year-over-year), with 2025 guidance of $58-61 billion driven by explosive GLP-1 drug sales. Lilly employs approximately 43,000 people worldwide.
 
 Lilly's product portfolio spans three politically significant categories:
 
@@ -86,15 +86,15 @@ Lilly's product portfolio spans three politically significant categories:
 | Insulin | Humalog (insulin lispro), Humulin (human insulin) | Legacy revenue (declining) | Insulin pricing crisis, $35 cap politics, PBM reform |
 | Oncology/Other | Verzenio (breast cancer), Kisunla (Alzheimer's) | Growing portfolio | FDA approval pathways, clinical trial regulation |
 
-**The insulin oligopoly:** Lilly, Novo Nordisk, and Sanofi control approximately 90% of the global insulin market. This three-company structure enabled decades of parallel pricing — each company raising list prices in lockstep — creating the insulin affordability crisis that affects 8.4 million insulin-dependent Americans.
+**The insulin oligopoly:** Lilly, Novo Nordisk, and Sanofi control approximately 90% of the global insulin market. This three-company structure enabled decades of parallel pricing, each company raising list prices in lockstep, creating the insulin affordability crisis that affects 8.4 million insulin-dependent Americans.
 
 ---
 
-### The Money — Political Spending
+### The Money. Political Spending
 
 Eli Lilly's political operation is modest relative to its market cap but strategically targeted:
 
-### Eli Lilly PAC (C00082792) — 2024 cycle:
+### Eli Lilly PAC (C00082792), 2024 cycle:
 
 | Category | Amount |
 |----------|--------|
@@ -105,66 +105,66 @@ Eli Lilly's political operation is modest relative to its market cap but strateg
 | Individual donors ($200+) | $1,797,435 |
 | End cash on hand | $1,490,046 |
 
-### Lobbying — annual spending:
+### Lobbying, annual spending:
 
 | Year | Lobbying Spend | Lobbyists | Revolving Door % |
 |------|---------------|-----------|-----------------|
 | 2023 | $8,446,360 | 86 | 79% (68 of 86) formerly government |
 | 2024 | $6,720,000 | 84 | 70% (59 of 84) formerly government |
-| 2025 | $11,155,000 | — | — |
+| 2025 | $11,155,000 |, |, |
 
-**The 2025 lobbying spike:** Lilly's lobbying spending jumped 66% from $6.7M (2024) to $11.2M (2025) — reflecting the escalating policy stakes around GLP-1 Medicare coverage, IRA drug price negotiation expansion, and the Trump administration's "most-favored-nation" pricing deal. The pharmaceutical industry overall spent a record $388M on federal lobbying in 2024 and was on pace to surpass that in 2025.
+**The 2025 lobbying spike:** Lilly's lobbying spending jumped 66% from $6.7M (2024) to $11.2M (2025), reflecting the escalating policy stakes around GLP-1 Medicare coverage, IRA drug price negotiation expansion, and the Trump administration's "most-favored-nation" pricing deal. The pharmaceutical industry overall spent a record $388M on federal lobbying in 2024 and was on pace to surpass that in 2025.
 
-**Revolving door:** 79% of Lilly's 2023 lobbyists previously held government jobs — the corporate-to-government pipeline runs in both directions. Former FDA officials, CMS staff, and congressional health committee aides rotate into Lilly's lobbying operation, bringing institutional knowledge of exactly which regulatory levers to pull.
+**Revolving door:** 79% of Lilly's 2023 lobbyists previously held government jobs, the corporate-to-government pipeline runs in both directions. Former FDA officials, CMS staff, and congressional health committee aides rotate into Lilly's lobbying operation, bringing institutional knowledge of exactly which regulatory levers to pull.
 
 **Organization-wide contributions (2024 cycle via OpenSecrets):** $1,863,367 total (PAC + individual contributions).
 
 ---
 
-### Who They Fund — Top Recipients (2024 Cycle)
+### Who They Fund. Top Recipients (2024 Cycle)
 
 | Recipient | Amount | Type | Strategic Interest |
 |-----------|--------|------|-------------------|
-| National Republican Congressional Cmte | $147,207 | Party committee | House majority — drug pricing votes |
+| National Republican Congressional Cmte | $147,207 | Party committee | House majority, drug pricing votes |
 | GOPAC | $145,500 | 527 organization | State-level Republican infrastructure |
-| Kamala Harris | $136,618 | Candidate (D-PRES) | Hedging — employee individual contributions |
-| National Republican Senatorial Cmte | $71,897 | Party committee | Senate — FDA/CMS confirmation votes |
+| Kamala Harris | $136,618 | Candidate (D-PRES) | Hedging, employee individual contributions |
+| National Republican Senatorial Cmte | $71,897 | Party committee | Senate. FDA/CMS confirmation votes |
 | Democratic Senatorial Campaign Cmte | $53,688 | Party committee | Bipartisan access |
 | Democratic Congressional Campaign Cmte | $40,338 | Party committee | Bipartisan access |
-| Donald Trump | $25,216 | Candidate (R-PRES) | Executive branch — FDA/CMS policy |
+| Donald Trump | $25,216 | Candidate (R-PRES) | Executive branch. FDA/CMS policy |
 | Committed to America PAC | $25,000 | Outside group | Republican infrastructure |
-| Brett Guthrie (R-KY-02) | $24,900 | Candidate | Energy & Commerce Committee — drug regulation |
-| Jim Banks (R-IN-03) | $23,425 | Candidate | Indiana delegation — hometown protection |
+| Brett Guthrie (R-KY-02) | $24,900 | Candidate | Energy & Commerce Committee, drug regulation |
+| Jim Banks (R-IN-03) | $23,425 | Candidate | Indiana delegation, hometown protection |
 
-**The hedging pattern:** Lilly PAC gives 60/40 Republican/Democratic — but individual Lilly employees gave $136K to Harris vs. $25K to Trump. The corporate PAC tilts Republican (deregulation, tax policy); the employee base tilts toward the party less hostile to pharmaceutical regulation. This is classic pharma hedging: fund both sides to ensure access regardless of who wins.
+**The hedging pattern:** Lilly PAC gives 60/40 Republican/Democratic, but individual Lilly employees gave $136K to Harris vs. $25K to Trump. The corporate PAC tilts Republican (deregulation, tax policy); the employee base tilts toward the party less hostile to pharmaceutical regulation. This is classic pharma hedging: fund both sides to ensure access regardless of who wins.
 
-**Indiana concentration:** Jim Banks (R-IN) is a top recipient because Lilly is Indiana's largest employer and most politically powerful corporation. Every Indiana delegation member receives Lilly PAC money — hometown protection is non-negotiable.
+**Indiana concentration:** Jim Banks (R-IN) is a top recipient because Lilly is Indiana's largest employer and most politically powerful corporation. Every Indiana delegation member receives Lilly PAC money, hometown protection is non-negotiable.
 
-**PhRMA pass-through:** Lilly is a major funder of PhRMA (Pharmaceutical Research and Manufacturers of America), which spent $29.2M on lobbying in 2024 and channels additional millions through the American Action Network and other dark money conduits to [[Congressional Leadership Fund]] and [[Senate Leadership Fund]]. Lilly's direct PAC spending understates its political footprint — the industry trade association spending is where the real money flows.
+**PhRMA pass-through:** Lilly is a major funder of PhRMA (Pharmaceutical Research and Manufacturers of America), which spent $29.2M on lobbying in 2024 and channels additional millions through the American Action Network and other dark money conduits to [[Congressional Leadership Fund]] and [[Senate Leadership Fund]]. Lilly's direct PAC spending understates its political footprint, the industry trade association spending is where the real money flows.
 
 ---
 
 ### What They Want
 
-**GLP-1 Medicare coverage (highest current priority):** In November 2025, Trump announced a deal with Lilly and Novo Nordisk to cut GLP-1 prices to $245/month for Medicare — in exchange for Medicare covering obesity treatments for the first time. This is the pharmaceutical industry's dream scenario: government-funded demand expansion for $100B+ annual market drugs. Lilly's lobbying spike to $11.2M in 2025 directly correlates with this coverage negotiation.
+**GLP-1 Medicare coverage (highest current priority):** In November 2025, Trump announced a deal with Lilly and Novo Nordisk to cut GLP-1 prices to $245/month for Medicare, in exchange for Medicare covering obesity treatments for the first time. This is the pharmaceutical industry's dream scenario: government-funded demand expansion for $100B+ annual market drugs. Lilly's lobbying spike to $11.2M in 2025 directly correlates with this coverage negotiation.
 
-**IRA drug negotiation limitation:** The Inflation Reduction Act authorized Medicare to negotiate prices on high-cost drugs. Lilly's Jardiance was among the first 10 drugs selected for negotiation. Mounjaro/Zepbound likely won't face negotiation until the end of the decade due to market exclusivity timelines — but Lilly is lobbying to prevent expansion of the negotiation program to more drugs and earlier timelines.
+**IRA drug negotiation limitation:** The Inflation Reduction Act authorized Medicare to negotiate prices on high-cost drugs. Lilly's Jardiance was among the first 10 drugs selected for negotiation. Mounjaro/Zepbound likely won't face negotiation until the end of the decade due to market exclusivity timelines, but Lilly is lobbying to prevent expansion of the negotiation program to more drugs and earlier timelines.
 
-**Patent protection and exclusivity:** Lilly's GLP-1 patents and FDA exclusivity periods protect Mounjaro/Zepbound from generic/biosimilar competition. Every year of extended exclusivity on a $50B+ annual revenue drug is worth billions — making patent policy Lilly's highest-value lobbying target per dollar spent.
+**Patent protection and exclusivity:** Lilly's GLP-1 patents and FDA exclusivity periods protect Mounjaro/Zepbound from generic/biosimilar competition. Every year of extended exclusivity on a $50B+ annual revenue drug is worth billions, making patent policy Lilly's highest-value lobbying target per dollar spent.
 
-**PBM reform (strategic deflection):** Lilly aggressively promotes PBM (pharmacy benefit manager) reform — blaming PBMs for high drug prices rather than accepting responsibility for list price increases. This is the pharmaceutical industry's most effective deflection: redirect public anger at the middlemen while maintaining pricing power at the manufacturer level.
+**PBM reform (strategic deflection):** Lilly aggressively promotes PBM (pharmacy benefit manager) reform, blaming PBMs for high drug prices rather than accepting responsibility for list price increases. This is the pharmaceutical industry's most effective deflection: redirect public anger at the middlemen while maintaining pricing power at the manufacturer level.
 
 **Opposition to international reference pricing:** Trump's "most-favored-nation" pricing executive orders threaten to benchmark US drug prices against lower international prices. Lilly's November 2025 deal with Trump was a preemptive concession on GLP-1 pricing designed to prevent broader MFN implementation that would affect the entire portfolio.
 
 ---
 
-### What They've Gotten — The Insulin-to-GLP-1 Pipeline
+### What They've Gotten. The Insulin-to-GLP-1 Pipeline
 
 ### The Humalog price arc (1996-2023):
 
 | Date | Event | Humalog Price/Vial | Significance |
 |------|-------|-------------------|--------------|
-| 1996 | Humalog FDA approval | $21 | Introduction price — same molecule throughout |
+| 1996 | Humalog FDA approval | $21 | Introduction price, same molecule throughout |
 | 2005 | Parallel pricing with Novo/Sanofi begins accelerating | ~$60 | 186% increase in 9 years |
 | 2014 | Peak pricing era begins | ~$200 | 852% increase; insulin rationing deaths reported |
 | 2019 | Senate Finance investigation launched (Grassley-Wyden) | $275 | 1,200% increase; 100,000+ pages of documents reviewed |
@@ -172,7 +172,7 @@ Eli Lilly's political operation is modest relative to its market cap but strateg
 | 2023-03 | Lilly announces 70% price cut, $35/month cap | $82 (list); $35 (OOP cap) | Came only after IRA Medicare insulin cap removed political cover |
 | 2024-02 | Minnesota AG settlement | $35/month guaranteed | Legal enforcement of price commitment |
 
-**The calculation:** Humalog's molecule did not change between 1996 and 2023. The $21-to-$275 price increase was pure pricing power enabled by the insulin oligopoly, PBM rebate architecture, and political protection from lobbying. Lilly's cumulative insulin revenue over this period exceeded $40 billion. The "voluntary" $35 cap came only after the Inflation Reduction Act's Medicare insulin cap (2023) and mounting state AG lawsuits made continued high pricing politically untenable — not because Lilly chose affordability.
+**The calculation:** Humalog's molecule did not change between 1996 and 2023. The $21-to-$275 price increase was pure pricing power enabled by the insulin oligopoly, PBM rebate architecture, and political protection from lobbying. Lilly's cumulative insulin revenue over this period exceeded $40 billion. The "voluntary" $35 cap came only after the Inflation Reduction Act's Medicare insulin cap (2023) and mounting state AG lawsuits made continued high pricing politically untenable, not because Lilly chose affordability.
 
 ### The GLP-1 gold rush (2022-present):
 
@@ -183,24 +183,24 @@ Eli Lilly's political operation is modest relative to its market cap but strateg
 | 2024 | Combined Mounjaro + Zepbound revenue | $23B+ (est. for full year 2024) |
 | 2025-Q3 | Mounjaro quarterly revenue | $6.52B (up 109% YoY) |
 | 2025-Q3 | Zepbound quarterly revenue | $3.57B (up 184% YoY) |
-| 2025-11 | Trump-Lilly GLP-1 deal | Medicare coverage at $245/month — government-funded demand |
+| 2025-11 | Trump-Lilly GLP-1 deal | Medicare coverage at $245/month, government-funded demand |
 | 2026 guidance | Full-year 2025 revenue guidance | $58-61B (up 29-43% from 2024) |
 
-**The market cap trajectory:** Lilly's market cap grew from ~$300B (early 2023) to $820B+ (March 2026) — almost entirely on GLP-1 sales growth and the prospect of government-funded Medicare obesity coverage. The $520B+ in market cap appreciation represents Wall Street's bet that Lilly will successfully convert a public health crisis (obesity) into a permanent taxpayer-funded revenue stream.
+**The market cap trajectory:** Lilly's market cap grew from ~$300B (early 2023) to $820B+ (March 2026), almost entirely on GLP-1 sales growth and the prospect of government-funded Medicare obesity coverage. The $520B+ in market cap appreciation represents Wall Street's bet that Lilly will successfully convert a public health crisis (obesity) into a permanent taxpayer-funded revenue stream.
 
-**Inaugural access:** Lilly funneled between $500,000 and $1 million to Trump's 2025 inaugural committee — alongside other major pharmaceutical companies — ensuring access to the administration negotiating GLP-1 pricing and Medicare coverage terms.
+**Inaugural access:** Lilly funneled between $500,000 and $1 million to Trump's 2025 inaugural committee, alongside other major pharmaceutical companies, ensuring access to the administration negotiating GLP-1 pricing and Medicare coverage terms.
 
 ---
 
-### The PhRMA Machine — Industry-Level Political Power
+### The PhRMA Machine. Industry-Level Political Power
 
 Lilly's direct PAC spending ($2.4M raised) is dwarfed by the industry's collective political infrastructure:
 
-**PhRMA (trade association):** $29.2M lobbying (2024). PhRMA is funded by member companies including Lilly, Pfizer, AbbVie, Merck, and others. PhRMA's lobbying operation is the largest in Washington — more than any other industry trade group.
+**PhRMA (trade association):** $29.2M lobbying (2024). PhRMA is funded by member companies including Lilly, Pfizer, AbbVie, Merck, and others. PhRMA's lobbying operation is the largest in Washington, more than any other industry trade group.
 
-**Dark money channels:** PhRMA donated $12M+ to the American Action Network (AAN), which passes money to [[Congressional Leadership Fund]]. Individual pharma companies donate to AAN anonymously — their fingerprints never appear in FEC filings. When CLF runs ads attacking a Democrat who supports drug price controls, the pharmaceutical funding is invisible to voters.
+**Dark money channels:** PhRMA donated $12M+ to the American Action Network (AAN), which passes money to [[Congressional Leadership Fund]]. Individual pharma companies donate to AAN anonymously, their fingerprints never appear in FEC filings. When CLF runs ads attacking a Democrat who supports drug price controls, the pharmaceutical funding is invisible to voters.
 
-**Industry total (2024):** The pharmaceutical industry spent $388M on federal lobbying in 2024 — a record. Lilly's $6.7M is 1.7% of the industry total, but the collective action through PhRMA multiplies every company's individual spending.
+**Industry total (2024):** The pharmaceutical industry spent $388M on federal lobbying in 2024, a record. Lilly's $6.7M is 1.7% of the industry total, but the collective action through PhRMA multiplies every company's individual spending.
 
 ---
 
@@ -217,16 +217,16 @@ Lilly's direct PAC spending ($2.4M raised) is dwarfed by the industry's collecti
 
 ### Sources
 
-- [OpenSecrets: Eli Lilly PAC summary — $2.4M raised, 60/40 R/D split (C00082792)](https://www.opensecrets.org/political-action-committees-pacs/eli-lilly-co/C00082792/summary/2024) (Tier 1)
+- [OpenSecrets: Eli Lilly PAC summary, $2.4M raised, 60/40 R/D split (C00082792)](https://www.opensecrets.org/political-action-committees-pacs/eli-lilly-co/C00082792/summary/2024) (Tier 1)
 - [FEC: Eli Lilly PAC committee filings (C00082792)](https://www.fec.gov/data/committee/C00082792/) (Tier 1)
-- [OpenSecrets: Eli Lilly organizational profile — $1.86M contributions, recipients](https://www.opensecrets.org/orgs/eli-lilly-co/summary?id=d000000166) (Tier 1)
-- [Senate LDA Filings: Eli Lilly lobbying profile — $6.7M (2024), $11.2M (2025)](https://lda.gov/filings/public/filing/search/) (Tier 1)
-- [Senate Finance Committee: Grassley-Wyden insulin investigation — 100,000+ pages of documents (2021)](https://www.finance.senate.gov/chairmans-news/grassley-wyden-release-insulin-investigation-uncovering-business-practices-between-drug-companies-and-pbms-that-keep-prices-high) (Tier 1)
+- [OpenSecrets: Eli Lilly organizational profile, $1.86M contributions, recipients](https://www.opensecrets.org/orgs/eli-lilly-co/summary?id=d000000166) (Tier 1)
+- [Senate LDA Filings: Eli Lilly lobbying profile, $6.7M (2024), $11.2M (2025)](https://lda.gov/filings/public/filing/search/) (Tier 1)
+- [Senate Finance Committee: Grassley-Wyden insulin investigation, 100,000+ pages of documents (2021)](https://www.finance.senate.gov/chairmans-news/grassley-wyden-release-insulin-investigation-uncovering-business-practices-between-drug-companies-and-pbms-that-keep-prices-high) (Tier 1)
 - [NPR: Eli Lilly cuts insulin price, caps at $35/month (March 2023)](https://www.npr.org/2023/03/01/1160339792/eli-lilly-insulin-price) (Tier 2)
 - [CNBC: Trump announces Eli Lilly, Novo Nordisk deals to cut GLP-1 prices (November 2025)](https://www.cnbc.com/2025/11/06/trump-eli-lilly-novo-nordisk-deal-obesity-drug-prices.html) (Tier 2)
 - [Read Sludge: Pharmaceutical industry on pace for record lobbying spending (2025)](https://readsludge.com/2025/08/29/pharmaceutical-industry-on-pace-for-record-lobbying-spending/) (Tier 2)
-- [Minnesota AG: Eli Lilly insulin settlement — $35/month guaranteed (February 2024)](https://www.ag.state.mn.us/Office/Communications/2024/02/07_EliLilly.asp) (Tier 1)
-- [Eli Lilly: Q4 2025 financial results — $58-61B 2025 guidance](https://investor.lilly.com/news-releases/news-release-details/lilly-reports-fourth-quarter-2025-financial-results-and-provides) (Tier 1)
+- [Minnesota AG: Eli Lilly insulin settlement, $35/month guaranteed (February 2024)](https://www.ag.state.mn.us/Office/Communications/2024/02/07_EliLilly.asp) (Tier 1)
+- [Eli Lilly: Q4 2025 financial results, $58-61B 2025 guidance](https://investor.lilly.com/news-releases/news-release-details/lilly-reports-fourth-quarter-2025-financial-results-and-provides) (Tier 1)
 - [Ballotpedia: Eli Lilly and Company](https://ballotpedia.org/Eli_Lilly_and_Company) (Tier 3)
 
 ---

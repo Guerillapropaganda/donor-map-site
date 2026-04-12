@@ -47,13 +47,13 @@ audit-a-plus-passed: "2026-04-11"
 
 ### Who They Are
 
-Enterprise Products Partners (NYSE: EPD) is one of the largest publicly traded partnerships in the United States and a leading North American provider of midstream energy services — natural gas gathering, processing, transportation, and storage; NGL fractionation and export; and crude oil pipeline operations. Founded 1968, headquartered in Houston, Texas. Co-CEOs A. James "Jim" Teague ($16M compensation) and W. Randall Fowler ($12M compensation) lead approximately 7,500 employees. Market capitalization: ~$81–84B as of early 2026.
+Enterprise Products Partners (NYSE: EPD) is one of the largest publicly traded partnerships in the United States and a leading North American provider of midstream energy services, natural gas gathering, processing, transportation, and storage; NGL fractionation and export; and crude oil pipeline operations. Founded 1968, headquartered in Houston, Texas. Co-CEOs A. James "Jim" Teague ($16M compensation) and W. Randall Fowler ($12M compensation) lead approximately 7,500 employees. Market capitalization: ~$81–84B as of early 2026.
 
 ---
 
 ### What They Want
 
-Enterprise Products wants to preserve and expand fossil fuel infrastructure — pipelines, processing plants, export terminals — while blocking or delaying the energy transition. Their policy agenda tracks directly to their business model: oppose emissions regulations, maintain favorable tax treatment for MLPs, secure pipeline permits and rights-of-way, and ensure continued demand for natural gas and NGLs. Every dollar spent on lobbying and political contributions protects a business that generated $52.6B in revenue in 2025.
+Enterprise Products wants to preserve and expand fossil fuel infrastructure, pipelines, processing plants, export terminals, while blocking or delaying the energy transition. Their policy agenda tracks directly to their business model: oppose emissions regulations, maintain favorable tax treatment for MLPs, secure pipeline permits and rights-of-way, and ensure continued demand for natural gas and NGLs. Every dollar spent on lobbying and political contributions protects a business that generated $52.6B in revenue in 2025.
 
 ---
 
@@ -93,7 +93,7 @@ Enterprise Products wants to preserve and expand fossil fuel infrastructure — 
 
 ### Class Analysis
 
-Enterprise Products Partners represents the structural core of fossil fuel political influence — not through ideological crusading but through business-model defense. The $768K in political contributions is a rounding error against $52.6B in revenue, but it buys access to the legislators who control pipeline permitting, emissions standards, and MLP tax treatment. The company's 80% Republican contribution ratio reflects a straightforward calculation: Republicans are more reliably aligned with the fossil fuel policy agenda. The MLP structure itself is a class benefit — it allows the company to distribute nearly all income to unitholders (mostly wealthy investors) while paying minimal corporate tax. Every dollar spent on political access protects this structural advantage.
+Enterprise Products Partners represents the structural core of fossil fuel political influence, not through ideological crusading but through business-model defense. The $768K in political contributions is a rounding error against $52.6B in revenue, but it buys access to the legislators who control pipeline permitting, emissions standards, and MLP tax treatment. The company's 80% Republican contribution ratio reflects a straightforward calculation: Republicans are more reliably aligned with the fossil fuel policy agenda. The MLP structure itself is a class benefit, it allows the company to distribute nearly all income to unitholders (mostly wealthy investors) while paying minimal corporate tax. Every dollar spent on political access protects this structural advantage.
 
 ---
 

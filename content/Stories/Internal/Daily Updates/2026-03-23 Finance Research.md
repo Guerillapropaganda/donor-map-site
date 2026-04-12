@@ -7,7 +7,7 @@ source-tier: 1
 parent: null
 ---
 
-### Daily Campaign Finance Research Scan — March 23, 2026
+### Daily Campaign Finance Research Scan. March 23, 2026
 tags: #research-log #story
 
 ---
@@ -22,20 +22,20 @@ Post-Illinois primary analysis continues to dominate the campaign finance landsc
 ### Key Findings
 
 ### 1. Illinois Super PAC Scorecard: Crypto and AI Mostly Lost
-Fortune, Chicago Sun-Times, and The American Prospect published comprehensive scorecards of the March 18 Illinois primaries. The verdict: **AI and crypto spent nearly $20 million and mostly lost.** Fairshake spent $9.8M against Juliana Stratton (Senate), $2.5M against La Shawn Ford (7th CD), $817K against Robert Peters (2nd CD) — all three won comfortably. Think Big PAC spent $1M+ boosting Jesse Jackson Jr. — also lost. Only AIPAC-affiliated groups posted meaningful wins (Donna Miller in 2nd, Melissa Bean in 8th).
+Fortune, Chicago Sun-Times, and The American Prospect published comprehensive scorecards of the March 18 Illinois primaries. The verdict: **AI and crypto spent nearly $20 million and mostly lost.** Fairshake spent $9.8M against Juliana Stratton (Senate), $2.5M against La Shawn Ford (7th CD), $817K against Robert Peters (2nd CD), all three won comfortably. Think Big PAC spent $1M+ boosting Jesse Jackson Jr. also lost. Only AIPAC-affiliated groups posted meaningful wins (Donna Miller in 2nd, Melissa Bean in 8th).
 
 This represents Fairshake's first significant 2026 loss and challenges the 91% win rate narrative from 2024. The results suggest heavy outside spending may be less effective in deep-blue Democratic primaries with engaged base voters.
 
 *Updated:* [[Fairshake PAC]], [[Think Big AI]]
 
-- [Fortune: AI and Crypto spent nearly $20M to reshape Illinois — they mostly lost](https://fortune.com/2026/03/18/ai-crypto-illinois-primary-spending-fairshake-think-big-pac/) (Tier 2)
+- [Fortune: AI and Crypto spent nearly $20M to reshape Illinois, they mostly lost](https://fortune.com/2026/03/18/ai-crypto-illinois-primary-spending-fairshake-think-big-pac/) (Tier 2)
 - [Chicago Sun-Times: Super PAC scorecard](https://chicago.suntimes.com/elections/2026/03/18/illinois-primary-super-pac-spending-aipac-cryptocurrency-ai-sports-betting) (Tier 2)
 - [The American Prospect: Special-Interest Super PACs Underperform in Illinois](https://prospect.org/2026/03/18/special-interest-super-pacs-underperform-illinois-democratic-primary-stratton-biss-miller-bean-ford/) (Tier 2)
 
 ---
 
 ### 2. American Priorities: First Organized Counter-AIPAC Super PAC Launches
-NBC News reported a new progressive super PAC — **American Priorities** — launching with a **$10 million** commitment to counter AIPAC/UDP spending in Democratic primaries. Led by Hannah Fertig (former Bernie Sanders 2020 campaign, Justice Democrats strategist). Already spent $500K+ boosting Nida Allam (NC) and $72K supporting Rev. Frederick Haynes III (TX-30). Plans to target at least 10 races.
+NBC News reported a new progressive super PAC, **American Priorities**, launching with a **$10 million** commitment to counter AIPAC/UDP spending in Democratic primaries. Led by Hannah Fertig (former Bernie Sanders 2020 campaign, Justice Democrats strategist). Already spent $500K+ boosting Nida Allam (NC) and $72K supporting Rev. Frederick Haynes III (TX-30). Plans to target at least 10 races.
 
 This is the first organized counter-spending operation specifically designed to challenge UDP's primary dominance. A separate pro-Palestine super PAC has also assembled a multimillion-dollar war chest per The American Prospect (February 2026). The emergence of counter-PACs represents a structural shift: progressives are now building the same spending infrastructure they previously criticized, forced into the arms race by AIPAC's $96M war chest.
 
@@ -79,7 +79,7 @@ Political strategists warn most candidates aren't raising money quickly enough t
 ---
 
 ### 5. Club for Growth 2025 Filings: Yass Dominance Confirmed
-EXPOSEDbyCMD (February 2026) reported that Club for Growth Action raised **$15.8M in 2025**, with **$10M (63%) from Jeff Yass alone**. This confirms Yass's continued dominance of Republican primary enforcement infrastructure — he is functionally the sole funder of the mechanism that keeps Republican incumbents in line on tax and spending policy.
+EXPOSEDbyCMD (February 2026) reported that Club for Growth Action raised **$15.8M in 2025**, with **$10M (63%) from Jeff Yass alone**. This confirms Yass's continued dominance of Republican primary enforcement infrastructure, he is functionally the sole funder of the mechanism that keeps Republican incumbents in line on tax and spending policy.
 
 *Updated:* [[Club for Growth]], [[Jeff Yass]]
 
@@ -98,7 +98,7 @@ Updated UDP financial data: raised $61M+ in the second half of 2025 alone, endin
 
 ### Macro Context: 2026 Spending Trajectory
 
-OpenSecrets projects **$10.8 billion** in total political advertising spending for the 2026 cycle — 20%+ higher than 2022. Senate spending projected at **$2.8 billion** (beating the 2024 record), House spending at **$2.2 billion** (crossing $2B for the first time). Total national outside spending has already exceeded **$225 million** — the most ever at this point in any cycle, and $75M+ more than 2024's record pace.
+OpenSecrets projects **$10.8 billion** in total political advertising spending for the 2026 cycle, 20%+ higher than 2022. Senate spending projected at **$2.8 billion** (beating the 2024 record), House spending at **$2.2 billion** (crossing $2B for the first time). Total national outside spending has already exceeded **$225 million**, the most ever at this point in any cycle, and $75M+ more than 2024's record pace.
 
 - [OpenSecrets: Political ad spending projected to reach new high in 2026 midterms](https://www.opensecrets.org/news/2026/01/political-ad-spending-is-projected-to-reach-a-new-high-in-2026-midterms/) (Tier 1)
 
@@ -106,21 +106,21 @@ OpenSecrets projects **$10.8 billion** in total political advertising spending f
 
 ### Files Updated This Session
 
-- [[Elon Musk]] — Added 2026 midterm spending callout ($30M+, Kentucky race, SLF/CLF December donations)
-- [[Fairshake PAC]] — Updated Illinois results with specific spending/loss data, added contradiction callout
-- [[Think Big AI]] — Added Illinois results, contradiction callout on AI industry electoral failure
-- [[United Democracy Project - UDP]] — Updated financial scale ($96M COH, $30M AIPAC transfer, Singer as #2 donor), added American Priorities counter-PAC section, added pro-Palestine PAC reference
-- [[Senate Leadership Fund]] — Added Musk as donor ($10M total), updated cash on hand ($100M)
-- [[Congressional Leadership Fund]] — Added Musk as donor ($10M total), updated cash on hand ($54M)
-- [[Club for Growth]] — Updated with 2025 fundraising ($15.8M, 63% from Yass)
-- [[Jeff Yass]] — Added Club for Growth 2025 data ($10M), updated total political spending ($100M+)
-- [[Paul Singer]] — Updated UDP contribution status (second-largest 2025-2026 cycle contributor)
-- [[_Katie Porter Master Profile]] — Added H2 2025 fundraising data ($3M, 12K donors, $3.2M COH)
-- [[Steve Hilton]] — Added CalMatters fundraising context and source
+- [[Elon Musk]]. Added 2026 midterm spending callout ($30M+, Kentucky race, SLF/CLF December donations)
+- [[Fairshake PAC]]. Updated Illinois results with specific spending/loss data, added contradiction callout
+- [[Think Big AI]]. Added Illinois results, contradiction callout on AI industry electoral failure
+- [[United Democracy Project - UDP]]. Updated financial scale ($96M COH, $30M AIPAC transfer, Singer as #2 donor), added American Priorities counter-PAC section, added pro-Palestine PAC reference
+- [[Senate Leadership Fund]]. Added Musk as donor ($10M total), updated cash on hand ($100M)
+- [[Congressional Leadership Fund]]. Added Musk as donor ($10M total), updated cash on hand ($54M)
+- [[Club for Growth]]. Updated with 2025 fundraising ($15.8M, 63% from Yass)
+- [[Jeff Yass]]. Added Club for Growth 2025 data ($10M), updated total political spending ($100M+)
+- [[Paul Singer]]. Updated UDP contribution status (second-largest 2025-2026 cycle contributor)
+- [[_Katie Porter Master Profile]]. Added H2 2025 fundraising data ($3M, 12K donors, $3.2M COH)
+- [[Steve Hilton]]. Added CalMatters fundraising context and source
 
 ### Not Yet in Vault (Flagged for Future Profiles)
 
-- **American Priorities PAC** — New anti-AIPAC counter-super PAC ($10M, Hannah Fertig). Relevant to [[United Democracy Project - UDP]] and the Israel Lobby cluster. Consider creating a profile.
-- **Nate Morris** — Kentucky Senate candidate receiving $10M from Musk. Not yet tracked.
-- **Leading the Future / Think Big structural detail** — The AI PAC ecosystem is growing complex enough to warrant a dedicated structural map similar to the AIPAC shell PAC documentation.
-- **Konstantin Sokolov** — $11M MAGA Inc donor. No vault profile. Private equity investor with minimal public footprint.
+- **American Priorities PAC**. New anti-AIPAC counter-super PAC ($10M, Hannah Fertig). Relevant to [[United Democracy Project - UDP]] and the Israel Lobby cluster. Consider creating a profile.
+- **Nate Morris**. Kentucky Senate candidate receiving $10M from Musk. Not yet tracked.
+- **Leading the Future / Think Big structural detail**. The AI PAC ecosystem is growing complex enough to warrant a dedicated structural map similar to the AIPAC shell PAC documentation.
+- **Konstantin Sokolov**, $11M MAGA Inc donor. No vault profile. Private equity investor with minimal public footprint.

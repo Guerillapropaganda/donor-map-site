@@ -16,7 +16,7 @@ tags: #analysis #story
 
 ---
 
-Net neutrality was not killed by ideology. It was killed by money flowing to both sides of the aisle. Four companies — Comcast, AT&T, Verizon, and Charter — spent approximately $145 million in combined contributions to federal candidates across the 2014–2024 cycles, while their all-time federal lobbying totals reach staggering levels: AT&T at $324 million (No. 2 all-time), Verizon at $317 million (No. 4), and Comcast at $283 million (No. 9). [Senate LDA Filings: Federal Lobbying Rankings](https://lda.gov/filings/public/filing/search/) (Tier 1)
+Net neutrality was not killed by ideology. It was killed by money flowing to both sides of the aisle. Four companies. Comcast, AT&T, Verizon, and Charter, spent approximately $145 million in combined contributions to federal candidates across the 2014–2024 cycles, while their all-time federal lobbying totals reach staggering levels: AT&T at $324 million (No. 2 all-time), Verizon at $317 million (No. 4), and Comcast at $283 million (No. 9). [Senate LDA Filings: Federal Lobbying Rankings](https://lda.gov/filings/public/filing/search/) (Tier 1)
 
 The industry deliberately hedges its bets. AT&T gave 64.9% to Republicans in 2014 but 70.2% to Democrats in 2020. Comcast's PAC tilted Republican until 2022, when it flipped to 52.4% Democratic. In the 2016 cycle, Comcast gave to 360 House members (83%) and 52 senators; AT&T gave to 381 House members (88%) and all 91 senators who ran. At least 31 members of Congress owned Comcast shares and 50 owned Verizon shares in 2015. [OpenSecrets: AT&T Profile](https://www.opensecrets.org/orgs/at-t-inc/totals?id=d000000076) (Tier 1)
 
@@ -25,14 +25,14 @@ The industry deliberately hedges its bets. AT&T gave 64.9% to Republicans in 201
 
 ---
 
-### The Receipts — Top Recipients (2023–2024 Cycle)
+### The Receipts. Top Recipients (2023–2024 Cycle)
 
 ---
 
 | Recipient | Party | Telecom $ | Committee |
 |-----------|-------|-----------|-----------|
 | [[_Maria Cantwell Master Profile|Maria Cantwell]] | D-WA | $221,642 | Commerce Chair |
-| Jon Tester | D-MT | $195,088 | — |
+| Jon Tester | D-MT | $195,088 |, |
 | [[_Frank Pallone Master Profile|Frank Pallone]] | D-NJ | $147,800 | E&C Ranking Member |
 | [[_Ted Cruz Master Profile|Ted Cruz]] | R-TX | $147,602 | Commerce |
 | [[_Steve Scalise Master Profile|Steve Scalise]] | R-LA | $96,874 | Majority Leader |
@@ -66,11 +66,11 @@ The industry deliberately hedges its bets. AT&T gave 64.9% to Republicans in 201
 
 ### The 18 House Democrats Who Killed the 2018 CRA Discharge Petition
 
-After the Senate voted 52–47 on May 16, 2018 to restore net neutrality, the resolution moved to the House. Democrats launched a discharge petition requiring 218 signatures — but 18 House Democrats refused to sign, killing it before the December deadline. Every single holdout had taken telecom money. [VICE/Motherboard: House Democrats Who Haven't Supported Net Neutrality Have All Taken Money From Telecoms](https://www.vice.com/en/article/house-democrats-who-havent-supported-net-neutrality-yet-have-all-taken-money-from-telecoms/) (Tier 2)
+After the Senate voted 52–47 on May 16, 2018 to restore net neutrality, the resolution moved to the House. Democrats launched a discharge petition requiring 218 signatures, but 18 House Democrats refused to sign, killing it before the December deadline. Every single holdout had taken telecom money. [VICE/Motherboard: House Democrats Who Haven't Supported Net Neutrality Have All Taken Money From Telecoms](https://www.vice.com/en/article/house-democrats-who-havent-supported-net-neutrality-yet-have-all-taken-money-from-telecoms/) (Tier 2)
 
-The holdouts included four representatives from Comcast's home state of Pennsylvania — [[_Brendan Boyle Master Profile|Brendan Boyle]], Robert Brady, Matt Cartwright, and Dwight Evans — plus [[_Josh Gottheimer Master Profile|Josh Gottheimer]] (D-NJ), who received $79,870 from telecom in the 2022 cycle alone and later organized anti-net-neutrality Democratic activity in 2019.
+The holdouts included four representatives from Comcast's home state of Pennsylvania, [[_Brendan Boyle Master Profile|Brendan Boyle]], Robert Brady, Matt Cartwright, and Dwight Evans, plus [[_Josh Gottheimer Master Profile|Josh Gottheimer]] (D-NJ), who received $79,870 from telecom in the 2022 cycle alone and later organized anti-net-neutrality Democratic activity in 2019.
 
-### [[_Kyrsten Sinema Master Profile|Kyrsten Sinema]] — The Senate Holdout
+### [[_Kyrsten Sinema Master Profile|Kyrsten Sinema]]. The Senate Holdout
 
 Sinema was the only Senate Democrat not to co-sponsor the Save the Internet Act in 2019. Direct telecom donations to Sinema included AT&T PAC ($2,000), Verizon PAC ($1,000), Cox PAC ($2,500), plus $15,000 through her leadership PAC from NCTA, Charter, and Comcast PACs. A Comcast-lobbyist-run dark money super PAC (Center Forward Committee) spent $100,000 on ads supporting Sinema after she directed $150,000 to its coffers. [The American Prospect/Sludge: Kyrsten Sinema Anti-Net-Neutrality Super PAC Comcast Lobbyist](https://prospect.org/2019/11/08/kyrsten-sinema-anti-net-neutrality-super-pac-comcast-lobbyist/) (Tier 2)
 
@@ -79,7 +79,7 @@ Sinema was the only Senate Democrat not to co-sponsor the Save the Internet Act 
 
 ### Biden-Era Complicity
 
-Democrats failed to confirm an FCC third commissioner for 29 months, leaving the FCC deadlocked 2-2. [[_Chuck Schumer Master Profile|Schumer]] ($302,540 from telecom in 2022) and [[_Maria Cantwell Master Profile|Cantwell]] ($221,642 in 2024) — the Democrats who controlled the confirmation calendar — collected the industry's checks while the regulatory body they needed for action sat paralyzed.
+Democrats failed to confirm an FCC third commissioner for 29 months, leaving the FCC deadlocked 2-2. [[_Chuck Schumer Master Profile|Schumer]] ($302,540 from telecom in 2022) and [[_Maria Cantwell Master Profile|Cantwell]] ($221,642 in 2024), the Democrats who controlled the confirmation calendar, collected the industry's checks while the regulatory body they needed for action sat paralyzed.
 
 ---
 
@@ -87,11 +87,11 @@ Democrats failed to confirm an FCC third commissioner for 29 months, leaving the
 
 ---
 
-The FCC voted 3-2 on party lines on December 14, 2017 to repeal net neutrality — led by Chairman Ajit Pai, former Verizon associate general counsel. [Ars Technica: FCC Votes to Allow Blocking and Throttling](https://arstechnica.com/tech-policy/2017/12/goodbye-net-neutrality-ajit-pais-fcc-votes-to-allow-blocking-and-throttling/) (Tier 2)
+The FCC voted 3-2 on party lines on December 14, 2017 to repeal net neutrality, led by Chairman Ajit Pai, former Verizon associate general counsel. [Ars Technica: FCC Votes to Allow Blocking and Throttling](https://arstechnica.com/tech-policy/2017/12/goodbye-net-neutrality-ajit-pais-fcc-votes-to-allow-blocking-and-throttling/) (Tier 2)
 
 [[_Mitch McConnell Master Profile|Mitch McConnell]] declared the Save the Internet Act "dead on arrival" in April 2019. [[_Roger Wicker Master Profile|Roger Wicker]] (R-MS, $93,700 from telecom in 2024) blocked Senate hearings as Commerce Chair. [[_Ted Cruz Master Profile|Ted Cruz]] ($147,602) called net neutrality "Obamacare for the Internet." [[_Cathy McMorris Rodgers Master Profile|Cathy McMorris Rodgers]] ($88,600 in 2024) led House Republican efforts opposing the Biden FCC's 2024 restoration. [FEC Receipts: Telecom Industry](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1)
 
-On January 2, 2025, the 6th Circuit struck down Biden's restored net neutrality order, citing the Loper Bright decision. Trump's new FCC Chairman Brendan Carr — who co-authored Project 2025's FCC chapter — called it "a win." [CBS News: Trump FCC Brendan Carr](https://www.cbsnews.com/news/trump-fcc-brendan-carr-project-2025-what-to-know/) (Tier 2)
+On January 2, 2025, the 6th Circuit struck down Biden's restored net neutrality order, citing the Loper Bright decision. Trump's new FCC Chairman Brendan Carr, who co-authored Project 2025's FCC chapter, called it "a win." [CBS News: Trump FCC Brendan Carr](https://www.cbsnews.com/news/trump-fcc-brendan-carr-project-2025-what-to-know/) (Tier 2)
 
 ---
 
@@ -99,7 +99,7 @@ On January 2, 2025, the 6th Circuit struck down Biden's restored net neutrality 
 
 ---
 
-The revolving door is fully bipartisan — Democrats and Republicans rotate through identical positions:
+The revolving door is fully bipartisan. Democrats and Republicans rotate through identical positions:
 
 | Name | FCC Role | Then |
 |------|----------|------|
@@ -155,7 +155,7 @@ Combined: $924 million in all-time federal lobbying from three companies alone. 
 
 The net neutrality story is not a simple Republican-kills/Democrat-defends narrative. It is a systematic purchase of policy outcomes by an industry that deployed cash across both parties simultaneously.
 
-Republicans killed net neutrality outright through the FCC vote, Senate blockade, and court challenges. Democrats enabled its killing through delay, defection, and inaction: 18 House Democrats refused to sign the discharge petition, Sinema was the sole Senate holdout, Biden's team failed to seat an FCC commissioner for 29 months, and the Democrats who controlled the confirmation calendar — [[_Chuck Schumer Master Profile|Schumer]] and [[_Maria Cantwell Master Profile|Cantwell]] — were collecting the industry's largest checks.
+Republicans killed net neutrality outright through the FCC vote, Senate blockade, and court challenges. Democrats enabled its killing through delay, defection, and inaction: 18 House Democrats refused to sign the discharge petition, Sinema was the sole Senate holdout, Biden's team failed to seat an FCC commissioner for 29 months, and the Democrats who controlled the confirmation calendar, [[_Chuck Schumer Master Profile|Schumer]] and [[_Maria Cantwell Master Profile|Cantwell]], were collecting the industry's largest checks.
 
 > [!contradiction]
 > The Democrats who publicly championed net neutrality — Schumer ($302,540), Cantwell ($221,642), Markey — received hundreds of thousands of dollars from the industry they claimed to be protecting consumers against. The industry gave to both sides because it needed both sides. The donor always wins. The public always loses.

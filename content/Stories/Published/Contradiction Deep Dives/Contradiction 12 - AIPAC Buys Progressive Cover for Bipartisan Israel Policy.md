@@ -24,11 +24,11 @@ tags: #analysis #story
 ---
 #analysis
 
-Ritchie Torres (D-NY-15) campaigns as a progressive: housing policy, minimum wage increases ($15/hr platform), union empowerment, desegregated schools, student debt cancellation. His domestic record *performs* opposition to Republican hawks. He voted against Republican immigration policies, supports environmental regulation, backs labor rights. By every standard metric of progressive governance—housing, wages, education—he positions himself as the anti-Republican. On Gaza and Israel, he is indistinguishable from [[_Ted Cruz Master Profile|Ted Cruz]].
+Ritchie Torres (D-NY-15) campaigns as a progressive: housing policy, minimum wage increases ($15/hr platform), union empowerment, desegregated schools, student debt cancellation. His domestic record *performs* opposition to Republican hawks. He voted against Republican immigration policies, supports environmental regulation, backs labor rights. By every standard metric of progressive governance, housing, wages, education, he positions himself as the anti-Republican. On Gaza and Israel, he is indistinguishable from [[_Ted Cruz Master Profile|Ted Cruz]].
 
 Both Torres and Cruz cosponsored the Israel Anti-Boycott Act (federal crime for BDS participation). Both voted for every military aid package to Israel. Both positioned themselves as Israel's "loudest supporter" in their chambers. Both opposed cease-fire resolutions. Both condemned Hamas without naming Israeli actions. Torres left the Congressional Progressive Caucus over its criticism of Israel. Same policy, different party costume.
 
-The contradiction is intentional. Torres gives [[AIPAC - American Israel Public Affairs Committee|AIPAC]] what Republicans cannot: credibility with the left. When a Democrat — a *progressive* Democrat — stands with Israel on Gaza, the appearance of bipartisanship protects the policy from the progressive base that might otherwise defect.
+The contradiction is intentional. Torres gives [[AIPAC - American Israel Public Affairs Committee|AIPAC]] what Republicans cannot: credibility with the left. When a Democrat, a *progressive* Democrat, stands with Israel on Gaza, the appearance of bipartisanship protects the policy from the progressive base that might otherwise defect.
 
 ---
 
@@ -44,7 +44,7 @@ The contradiction is intentional. Torres gives [[AIPAC - American Israel Public 
 | 2024-12-31 | Israel Lobby bundled contributions to Ritchie Torres (2024 cycle total, including AIPAC + allied PACs) | $1,528,002 | OpenSecrets |
 | 2016-2024 | AIPAC + Israel Lobby cumulative contributions to Torres (career total tracked) | $1.57 million+ | OpenSecrets |
 
-Torres is one of the highest-receiving Democrats from AIPAC. The flow accelerated after October 7, 2024 — when his Israel advocacy became most visible, donations increased. This is donor-to-outcome timing: AIPAC funded him *because* he performed the opposition function they needed.
+Torres is one of the highest-receiving Democrats from AIPAC. The flow accelerated after October 7, 2024, when his Israel advocacy became most visible, donations increased. This is donor-to-outcome timing: AIPAC funded him *because* he performed the opposition function they needed.
 
 ### AIPAC's 2024 Dual Strategy
 [!money]
@@ -52,7 +52,7 @@ AIPAC 2024 deployed two contradictory moves in the same election cycle:
 - **Destroyed progressive critics:** $45.2M to defeat Jamaal Bowman (D-NY) in primary, $8.5M+ against Cori Bush (D-MO). These were anti-Israel progressives, and AIPAC made them unelectable.
 - **Funded progressive supporters:** Torres, [[_Hakeem Jeffries Master Profile|Hakeem Jeffries]], Gregory Meeks, and 34+ Congressional Progressive Caucus members who voted pro-Israel. Tier 1 AIPAC funding.
 
-The pattern: progressives who accept AIPAC money and alignment get protected. Progressives who reject it get destroyed. It is not policy debate — it is donor control with a loyalty test.
+The pattern: progressives who accept AIPAC money and alignment get protected. Progressives who reject it get destroyed. It is not policy debate, it is donor control with a loyalty test.
 
 ---
 
@@ -60,12 +60,12 @@ The pattern: progressives who accept AIPAC money and alignment get protected. Pr
 
 ---
 
-Why does AIPAC need Ritchie Torres? Because Republicans will never convince the Democratic base that Gaza policy is just. But a progressive — a Black, queer, pro-housing, pro-labor Democrat from the Bronx — can perform the contradiction that Republican hawks cannot. When Torres says "ceasefire is antisemitic," the left must listen to a voice it nominally trusts.
+Why does AIPAC need Ritchie Torres? Because Republicans will never convince the Democratic base that Gaza policy is just. But a progressive, a Black, queer, pro-housing, pro-labor Democrat from the Bronx, can perform the contradiction that Republican hawks cannot. When Torres says "ceasefire is antisemitic," the left must listen to a voice it nominally trusts.
 
 [!contradiction]
 The illusion of internal debate is worth $683,006 to AIPAC because it prevents unified progressive resistance. If Israel policy were transparently Republican-aligned (which it is), the Democratic base would organize. Instead, Torres creates the appearance of legitimate progressive disagreement. Bowman gets destroyed, Torres gets funded, and the result is: Israel policy becomes "bipartisan consensus with progressive representation."
 
-Saban, Adelson, Schusterman, and Ellison — all bundling to Torres — are buying the appearance of legitimacy for a policy that their money controls.
+Saban, Adelson, Schusterman, and Ellison, all bundling to Torres, are buying the appearance of legitimacy for a policy that their money controls.
 
 ---
 

@@ -17,11 +17,11 @@ donors: [[ActBlue]] · [[PhRMA]] · [[AIPAC - American Israel Public Affairs Com
 
 ### The Pattern
 
-The Democratic Party performs a decentralized civil war between "progressives" and "moderates" — a conflict so publicly visible that it dominates media coverage and internal party energy. But the donor infrastructure tells a different story. The most powerful Democratic donors fund both sides. They fund primary challengers against moderates. They fund moderates against progressives. They fund coalition-building after the primary. The performance of opposition is structurally separate from the material political infrastructure that both sides depend on.
+The Democratic Party performs a decentralized civil war between "progressives" and "moderates", a conflict so publicly visible that it dominates media coverage and internal party energy. But the donor infrastructure tells a different story. The most powerful Democratic donors fund both sides. They fund primary challengers against moderates. They fund moderates against progressives. They fund coalition-building after the primary. The performance of opposition is structurally separate from the material political infrastructure that both sides depend on.
 
 This is not new. But it has become systematized. The mechanism: [[ActBlue|ActBlue]] (small-dollar fundraising for progressives) and DSCC/DCCC bundlers (major donor networks for moderates) operate as parallel channels serving the same donors. A donor who writes a personal check to the moderate goes through the leadership PAC. A donor who wants to fund a primary challenge to a moderate goes through a progressive outside group. Both flows have the same origin points.
 
-The result: The Democratic Party's internal conflict — which voters experience as genuine ideological war — is partly real and partly performance. Where the conflict becomes real: labor vs charter schools, Gaza vs [[AIPAC - American Israel Public Affairs Committee|AIPAC]], drug pricing vs pharma. Where it becomes performance: both sides accept the same infrastructure, both sides depend on the same donor classes, both sides leave the fundamental economic structures untouched.
+The result: The Democratic Party's internal conflict, which voters experience as genuine ideological war, is partly real and partly performance. Where the conflict becomes real: labor vs charter schools, Gaza vs [[AIPAC - American Israel Public Affairs Committee|AIPAC]], drug pricing vs pharma. Where it becomes performance: both sides accept the same infrastructure, both sides depend on the same donor classes, both sides leave the fundamental economic structures untouched.
 
 > [!contradiction] **The fundamental intra-party contradiction: Progressive and moderate Democrats perform opposition to each other. They share donors. The donors' interests survive whichever side wins the primary. The conflict is real on cultural positioning. The consensus is absolute on structural economic questions.**
 
@@ -32,7 +32,7 @@ The result: The Democratic Party's internal conflict — which voters experience
 
 ---
 
-### CONTRADICTION 01: Pelosi vs Squad — Public Opposition, Shared Donor Infrastructure
+### CONTRADICTION 01: Pelosi vs Squad. Public Opposition, Shared Donor Infrastructure
 
 ### The Performance:
 - 2020: Pelosi endorses Squad members in primaries. Squad attacks Pelosi on speed and boldness.
@@ -40,7 +40,7 @@ The result: The Democratic Party's internal conflict — which voters experience
 - 2024: Squad members run independent media, Pelosi leads establishment apparatus. Different bases, different rhetoric, opposite donor classes (supposedly).
 
 ### The Money:
-Squad members (AOC, Omar, Tlaib, Pressley) raised 61% of their total 2020 funding from small donations ($200 or less). Pelosi leadership network raised 14.1% from small donations, $1.2 million from corporate PACs. This was framed as structural difference — progressives had "real" grassroots funding, leadership had corporate money.
+Squad members (AOC, Omar, Tlaib, Pressley) raised 61% of their total 2020 funding from small donations ($200 or less). Pelosi leadership network raised 14.1% from small donations, $1.2 million from corporate PACs. This was framed as structural difference, progressives had "real" grassroots funding, leadership had corporate money.
 
 But both operated through the same channels:
 - **[[ActBlue|ActBlue]] platform:** Both Squad and Pelosi Democrats use ActBlue for fundraising infrastructure. ActBlue raised $5.1 billion for Democrats in 2020 cycle, $16 billion cumulative by 2025.
@@ -49,8 +49,8 @@ But both operated through the same channels:
 
 **The Real Question:** Did any major donor give to BOTH Squad members AND Pelosi's leadership PAC? Did Pelosi's opposition to Squad primary challenges (like her 2020 DCCC blacklist of vendors working for primary challengers against moderates) constitute structural gatekeeping that prevented independent funding from reaching Squad opponents?
 
-### The Answer — Structural Gatekeeping:
-Pelosi's 2020 DCCC rule: "Vendors and consultants who work on behalf of primary challengers against incumbent Democrats will be blacklisted." This was explicitly anti-progressive. It cut off the vendor ecosystem that progressives needed to run primaries against moderates. Squad members worked around this by building their own digital and grassroots apparatus — proving the gatekeeping was real and that opposing it required structural independence from Pelosi infrastructure.
+### The Answer. Structural Gatekeeping:
+Pelosi's 2020 DCCC rule: "Vendors and consultants who work on behalf of primary challengers against incumbent Democrats will be blacklisted." This was explicitly anti-progressive. It cut off the vendor ecosystem that progressives needed to run primaries against moderates. Squad members worked around this by building their own digital and grassroots apparatus, proving the gatekeeping was real and that opposing it required structural independence from Pelosi infrastructure.
 
 | Event | Date | Amount | Detail | Source |
 |-------|------|--------|--------|--------|
@@ -65,7 +65,7 @@ Pelosi's 2020 DCCC rule: "Vendors and consultants who work on behalf of primary 
 
 ---
 
-### CONTRADICTION 02: Schumer vs Progressive Senate Candidates — DSCC Funding as Parallel Structure
+### CONTRADICTION 02: Schumer vs Progressive Senate Candidates. DSCC Funding as Parallel Structure
 
 ### The Performance:
 - Schumer leads Senate Democrats. Framed as pragmatist willing to take Wall Street money for electoral power.
@@ -73,10 +73,10 @@ Pelosi's 2020 DCCC rule: "Vendors and consultants who work on behalf of primary 
 - Conflict: Schumer opposes primary challenges to moderates. Progressives argue for stronger chairs and committee leadership.
 
 ### The Money:
-Schumer's personal funding: **$707K from [[Goldman Sachs|Goldman Sachs]] (1989-2014)**, making Goldman his single largest donor for two decades. Schumer's DSCC (2005-2009 chair): **$685K from Goldman in 2006 alone** — during same year Goldman was AIPAC's top donor and funding Kerry/Bush through both PACs.
+Schumer's personal funding: **$707K from [[Goldman Sachs|Goldman Sachs]] (1989-2014)**, making Goldman his single largest donor for two decades. Schumer's DSCC (2005-2009 chair): **$685K from Goldman in 2006 alone**, during same year Goldman was AIPAC's top donor and funding Kerry/Bush through both PACs.
 
 ### The Real Contradiction:
-Did Goldman money that went to Schumer personally (funding his power base) also flow to "progressive" Senate candidates through DSCC when those candidates won? Yes — with conditions.
+Did Goldman money that went to Schumer personally (funding his power base) also flow to "progressive" Senate candidates through DSCC when those candidates won? Yes, with conditions.
 
 Progressive Senate candidates who received DSCC support (2020-2024 cycle):
 - **[[_Raphael Warnock Master Profile|Raphael Warnock]]** (Georgia 2021): $138M+ total fundraising, 73% from out-of-state donors. Warnock accepted DSCC support and defeated David Perdue. DSCC funds often come from the same bundlers as Schumer's personal network.
@@ -84,7 +84,7 @@ Progressive Senate candidates who received DSCC support (2020-2024 cycle):
 - **[[Catherine Cortez Masto]]** (Nevada 2022): DSCC-backed. Gaming industry money dominates Nevada politics (tied to casino donors who also fund moderate leadership).
 
 ### The Pattern:
-DSCC under Schumer supported these progressives — but with invisible conditions. Support for candidates who:
+DSCC under Schumer supported these progressives, but with invisible conditions. Support for candidates who:
 1. Accept DSCC donor network integration
 2. Don't challenge incumbent moderates
 3. Vote with leadership on procedural/institutional votes
@@ -106,7 +106,7 @@ The DSCC is not a neutral fundraising channel. It's a filter that converts indep
 
 ---
 
-### CONTRADICTION 03: "Progressive" Pharma Votes — Democrats Against Their Own Amendments
+### CONTRADICTION 03: "Progressive" Pharma Votes. Democrats Against Their Own Amendments
 
 ### The Performance:
 - Democratic Party campaigns on drug pricing reform, Medicare negotiation, ending "Price gouging."
@@ -126,7 +126,7 @@ The 13 Democrats who voted NO:
 7. Heidi Heitkamp (D-ND)
 8. Others
 
-### Temporal Mapping — Booker Case:
+### Temporal Mapping. Booker Case:
 | Date | Event | Amount | Recipient | Policy Outcome | Source |
 |------|-------|--------|-----------|---------------|--------|
 | 2014-2016 | Pharma peak contributions to Booker | $468K | Cory Booker (D-NJ) | Booker accumulates highest pharma donations of any Dem senator | OpenSecrets (Tier 1) |
@@ -136,7 +136,7 @@ The 13 Democrats who voted NO:
 
 ### The Contradiction:
 - Booker voted NO claiming "safety concerns" about importation without safety standards.
-- Six months later, Booker co-sponsored a bill that DID include safety standards — proving safety wasn't the barrier.
+- Six months later, Booker co-sponsored a bill that DID include safety standards, proving safety wasn't the barrier.
 - The barrier was pharma's profit margin. US insulin costs 10x what Canadians pay. Pharma donations preceded the contradictory votes by 1-3 years.
 
 ### Sources:
@@ -147,11 +147,11 @@ The 13 Democrats who voted NO:
 
 ---
 
-### CONTRADICTION 04: Richard Neal — Ways & Means Chair vs Drug Negotiation
+### CONTRADICTION 04: Richard Neal. Ways & Means Chair vs Drug Negotiation
 
 ### The Performance:
 - 2019-2021: Progressives push aggressive drug negotiation provisions.
-- [[_Richard Neal Master Profile|Richard Neal]] (D-MA) chairs House Ways & Means Committee — controls health care and tax policy.
+- [[_Richard Neal Master Profile|Richard Neal]] (D-MA) chairs House Ways & Means Committee, controls health care and tax policy.
 - Neal frames himself as pragmatist finding "comprehensive approach" to drug pricing.
 - Progressives frame Neal as pharma's gatekeeper blocking ambitious negotiation.
 
@@ -163,7 +163,7 @@ Over Neal's 20-year House career:
 - **Health professional PACs: $950K**
 - **Single cycle peak (2018): $129.5K from pharma** (36% of Massachusetts total)
 
-### Temporal Mapping — Build Back Better Drug Negotiation:
+### Temporal Mapping. Build Back Better Drug Negotiation:
 | Date | Event | Amount | Recipient | Policy Outcome | Source |
 |------|-------|--------|-----------|---------------|--------|
 | Q1 2019 | Peak pharma donations to Neal | $61.8K | [[_Richard Neal Master Profile|Richard Neal]] (Ways & Means ranking Dem) | Neal consolidates gatekeeper position | FEC filings (Tier 1) |
@@ -184,7 +184,7 @@ Pharma donations arrived 3+ months before Neal's committee action. The "comprehe
 
 ---
 
-### CONTRADICTION 05: AIPAC's Progressive Problem — Buying the "Acceptable" Progressive
+### CONTRADICTION 05: AIPAC's Progressive Problem. Buying the "Acceptable" Progressive
 
 ### The Performance:
 - Squad members (Tlaib, Omar) and progressive critics targeted by AIPAC primary spending.
@@ -197,7 +197,7 @@ The contradiction: AIPAC doesn't just fund one side of progressive politics. It 
 
 ### Ritchie Torres: AIPAC's Progressive Solution
 - Torres (D-NY-15): **$683K direct AIPAC funding (2024)**, **$1.528M total Israel lobby funding** (cumulative)
-- Maintains progressive positions on housing, minimum wage, climate — giving AIPAC bipartisan legitimacy
+- Maintains progressive positions on housing, minimum wage, climate, giving AIPAC bipartisan legitimacy
 - Torres and [[_Ted Cruz Master Profile|Ted Cruz]] agree on nothing except Israel
 - Torres left Progressive Caucus over Gaza criticism (February 2024), validating AIPAC's discipline mechanism
 
@@ -226,7 +226,7 @@ AIPAC's 2024 spending breakdown:
 
 ---
 
-### CONTRADICTION 06: Climate Democrats vs Fossil Fuel Money — The Rhetorical Position/Material Position Gap
+### CONTRADICTION 06: Climate Democrats vs Fossil Fuel Money. The Rhetorical Position/Material Position Gap
 
 ### The Performance:
 - Democratic Party campaigns on climate action, Green New Deal, ending fossil fuel subsidies.
@@ -274,7 +274,7 @@ Key Democrats with public climate rhetoric but fossil fuel funding:
 
 **Finding 3: AIPAC's real power is progressive containment, not progressive defeat.** AIPAC doesn't just defeat progressive Israel critics. It funds and integrates "acceptable progressives" (Torres) who keep AIPAC-aligned positions inside progressive frames. The Squad's Gaza positions become easier to isolate because AIPAC-backed progressives can claim anti-establishment bona fides while supporting Israel lobby goals.
 
-**Finding 4: Climate Democrats are structurally impossible without energy industry restructuring.** Democrats who campaign on climate action but accept energy industry money aren't hypocrites — they're trapped. Voting for aggressive climate policy requires breaking with defense contractors (Boeing, Lockheed), utility oligopolies (Dominion, Southern Company), and energy state political bases (Colorado, Virginia, Washington). The donor class hasn't restructured around renewable energy yet. Until it does, climate rhetoric paired with energy donations isn't hypocrisy — it's the structural limit of Democratic climate ambition.
+**Finding 4: Climate Democrats are structurally impossible without energy industry restructuring.** Democrats who campaign on climate action but accept energy industry money aren't hypocrites, they're trapped. Voting for aggressive climate policy requires breaking with defense contractors (Boeing, Lockheed), utility oligopolies (Dominion, Southern Company), and energy state political bases (Colorado, Virginia, Washington). The donor class hasn't restructured around renewable energy yet. Until it does, climate rhetoric paired with energy donations isn't hypocrisy, it's the structural limit of Democratic climate ambition.
 
 **Finding 5: The real Democratic divide is between donor classes, not ideology.** Progressive small-dollar donors vs established bundler networks. Pharma vs working class health interests. Energy utilities vs renewable energy investors. Israel lobby vs Palestinian solidarity donors. These are real material conflicts. They're not performing conflict. But the public partisan framing (progressive vs moderate) obscures the underlying donor-class division. Voters experience it as ideology. It's actually about who pays.
 

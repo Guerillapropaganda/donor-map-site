@@ -75,11 +75,11 @@ audit-a-plus-passed: "2026-04-11"
 
 ### Who They Are
 
-Conservative think tank founded in 1973 by Paul Weyrich and Edwin Feulner with seed funding from Joseph Coors. Operates as a 501(c)(3) research organization with $415 million in total assets (2023). Annual revenue crossed $100 million in 2023 — a 26% increase from pre-2022 levels, coinciding with the launch of Project 2025.
+Conservative think tank founded in 1973 by Paul Weyrich and Edwin Feulner with seed funding from Joseph Coors. Operates as a 501(c)(3) research organization with $415 million in total assets (2023). Annual revenue crossed $100 million in 2023, a 26% increase from pre-2022 levels, coinciding with the launch of Project 2025.
 
-Heritage runs a three-entity political operation. The Foundation itself produces policy research and personnel pipelines. Heritage Action for America (501(c)(4), founded 2010) does lobbying and grassroots mobilization through ~20,000 "Sentinels." The Sentinel Action Fund (Super PAC, launched 2022) handles direct electoral spending — $13 million in the 2022 midterms alone.
+Heritage runs a three-entity political operation. The Foundation itself produces policy research and personnel pipelines. Heritage Action for America (501(c)(4), founded 2010) does lobbying and grassroots mobilization through ~20,000 "Sentinels." The Sentinel Action Fund (Super PAC, launched 2022) handles direct electoral spending, $13 million in the 2022 midterms alone.
 
-The organization's structural function is not research. It is personnel placement and policy pre-fabrication. Heritage doesn't just recommend policy — it writes the executive orders, trains the appointees, and tracks implementation. Project 2025 made this explicit with its four pillars: a 920-page policy guide, a database of 30,000+ vetted applicants for federal positions, a Presidential Administration Academy to train them, and a 180-day action playbook for the first six months.
+The organization's structural function is not research. It is personnel placement and policy pre-fabrication. Heritage doesn't just recommend policy, it writes the executive orders, trains the appointees, and tracks implementation. Project 2025 made this explicit with its four pillars: a 920-page policy guide, a database of 30,000+ vetted applicants for federal positions, a Presidential Administration Academy to train them, and a 180-day action playbook for the first six months.
 
 > [!quote]
 > No other Washington institution has "that kind of footprint" in a presidential transition.
@@ -91,13 +91,13 @@ The organization's structural function is not research. It is personnel placemen
 
 Heritage's policy agenda has been remarkably consistent for 50 years. The specifics rotate; the structural goals don't.
 
-**Regulatory capture:** Gut the administrative state's capacity to regulate industry. EPA deregulation, OSHA enforcement collapse, NLRB gutting, CFPB weakening — all appear in the Mandate for Leadership documents across multiple editions.
+**Regulatory capture:** Gut the administrative state's capacity to regulate industry. EPA deregulation, OSHA enforcement collapse, NLRB gutting, CFPB weakening, all appear in the Mandate for Leadership documents across multiple editions.
 
 **Tax architecture for capital:** The Tax Cuts and Jobs Act (2017) was Heritage's signature policy win. Stephen Moore, Heritage's tax expert, was a key architect. Heritage hosted Trump, Paul Ryan, and Ways and Means Chair Kevin Brady during the design phase.
 
 **Judicial pipeline:** Heritage co-produced (with the Federalist Society) the list of 21 Supreme Court nominees that Trump adopted in 2016. John Malcolm, director of Heritage's Meese Center, prepared the list. Neil Gorsuch came directly from it.
 
-**Personnel control:** Schedule F — reclassifying tens of thousands of federal employees as at-will — originated in Heritage policy papers and was implemented in Trump's first term before Biden reversed it. Project 2025 builds the infrastructure to do it again, permanently.
+**Personnel control:** Schedule F, reclassifying tens of thousands of federal employees as at-will, originated in Heritage policy papers and was implemented in Trump's first term before Biden reversed it. Project 2025 builds the infrastructure to do it again, permanently.
 
 **Defense spending:** Consistent advocacy for increased military budgets, aligned with defense contractor donor interests.
 
@@ -124,14 +124,14 @@ Heritage does not disclose individual donors (501(c)(3) organizations are not re
 
 ### What They've Gotten
 
-#### The Revolving Door — By the Numbers
+#### The Revolving Door. By the Numbers
 
 **Trump 1.0 (2017-2021):** At least 66 Heritage employees and alumni were hired into the administration. Heritage maintained a database of ~3,000 vetted conservatives built since 2014 specifically for this purpose.
 
 **Trump 2.0 (2025-present):** At least 31 individuals with Project 2025 connections appointed, nominated, or confirmed to administration positions, including:
-- Russell Vought — OMB Director (key Project 2025 architect)
-- Peter Navarro — Senior Counselor for Trade & Manufacturing (Mandate author)
-- Tom Homan — Immigration enforcement (listed contributor)
+- Russell Vought. OMB Director (key Project 2025 architect)
+- Peter Navarro. Senior Counselor for Trade & Manufacturing (Mandate author)
+- Tom Homan. Immigration enforcement (listed contributor)
 
 **Heritage rehires after Trump 1.0:** The revolving door swings both ways. When Trump left office, Heritage absorbed senior officials to keep them in the network:
 - Ken Cuccinelli (Deputy DHS Secretary)
@@ -154,18 +154,18 @@ Heritage does not disclose individual donors (501(c)(3) organizations are not re
 | USMCA (NAFTA rebrand) | 2018-2020 | Heritage-influenced renegotiation |
 | Project 2025 personnel pipeline | 2025-present | 31+ appointees, 30,000+ applicant database |
 
-#### Temporal Mapping — The Project 2025 Pipeline
+#### Temporal Mapping. The Project 2025 Pipeline
 
 | Date | Event | Amount/Scale | Outcome |
 |------|-------|-------------|---------|
-| 2022 | Project 2025 launched under Paul Dans | — | 920-page Mandate, 30,000 applicant database |
+| 2022 | Project 2025 launched under Paul Dans |, | 920-page Mandate, 30,000 applicant database |
 | 2022 | Heritage grants $965K to P2025 advisory orgs | $965K | 58% of all Heritage grant-making |
 | 2022-2023 | Revenue surges 26% | $95M → $100.9M | Fundraising machinery activated |
 | 2024 | Heritage donates to RNC Convention | $1M | Direct partisan spending |
 | 2024 | Bradley Impact Fund pushes to P2025 network | $50M+ | 29 advisory organizations funded |
-| Jan 2025 | Trump inaugurated | — | Project 2025 implementation begins |
-| 2025 | 31+ P2025-connected officials placed | — | Russell Vought (OMB), Navarro, Homan |
-| 2025 | Schedule F reimplemented | — | Federal workforce restructuring |
+| Jan 2025 | Trump inaugurated |, | Project 2025 implementation begins |
+| 2025 | 31+ P2025-connected officials placed |, | Russell Vought (OMB), Navarro, Homan |
+| 2025 | Schedule F reimplemented |, | Federal workforce restructuring |
 | Dec 2025 | Heritage staff exodus to Pence group | 12+ staff | Internal fracture over antisemitism concerns |
 
 ---
@@ -179,9 +179,9 @@ The structural function: billionaire foundations (Scaife, Koch, Bradley, Coors, 
 > [!money]
 > The ROI calculation for Heritage donors is staggering. The Koch network invested $5.7 million in Heritage over 25 years. Heritage-aligned policy wins include the Tax Cuts and Jobs Act (saving Koch Industries an estimated $1-1.4 billion annually), Chevron deference elimination, EPA deregulation across two administrations, and NLRB gutting. Even attributing only a fraction of these outcomes to Heritage, the return exceeds 100x.
 
-The December 2025 staff exodus — 12+ senior employees leaving for a Mike Pence-founded group over antisemitism concerns — reveals a secondary dynamic. Heritage's power depends on maintaining the appearance of principled conservatism. When the organization's alignment with Trump becomes too politically toxic for some staff, the network fractures. But the personnel database, the policy documents, and the donor relationships persist.
+The December 2025 staff exodus, 12+ senior employees leaving for a Mike Pence-founded group over antisemitism concerns, reveals a secondary dynamic. Heritage's power depends on maintaining the appearance of principled conservatism. When the organization's alignment with Trump becomes too politically toxic for some staff, the network fractures. But the personnel database, the policy documents, and the donor relationships persist.
 
-Heritage Action's scorecard system deserves specific attention. By rating every member of Congress on Heritage-defined metrics and mobilizing 20,000 grassroots "Sentinels" to pressure them, Heritage doesn't just recommend policy — it enforces compliance. Legislators who deviate from Heritage positions face primary challengers, negative scorecard ratings, and grassroots pressure campaigns.
+Heritage Action's scorecard system deserves specific attention. By rating every member of Congress on Heritage-defined metrics and mobilizing 20,000 grassroots "Sentinels" to pressure them, Heritage doesn't just recommend policy, it enforces compliance. Legislators who deviate from Heritage positions face primary challengers, negative scorecard ratings, and grassroots pressure campaigns.
 
 ---
 

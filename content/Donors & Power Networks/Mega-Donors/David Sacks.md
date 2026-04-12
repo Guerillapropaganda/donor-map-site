@@ -93,7 +93,7 @@ Sacks' political objectives map directly to his Craft Ventures portfolio:
 
 **Defense tech expansion:** Craft portfolio includes Anduril Industries (Palmer Luckey defense AI startup), Firestorm Labs, Swarm Aero, Allen Control Systems. Anduril secured $159M Army contract (night vision goggles) and $20B Army contract (March 2026).
 
-**Anti-regulation ideology:** Elimination of regulatory barriers to tech industry expansion — opposing antitrust enforcement, AI safety regulation, social media accountability, and frameworks imposing costs on venture capital business model.
+**Anti-regulation ideology:** Elimination of regulatory barriers to tech industry expansion, opposing antitrust enforcement, AI safety regulation, social media accountability, and frameworks imposing costs on venture capital business model.
 
 ---
 
@@ -115,7 +115,7 @@ Sacks' political objectives map directly to his Craft Ventures portfolio:
 
 | Date | Amount | Recipient | Party | Notes |
 |------|--------|-----------|-------|-------|
-| 01/07/2002 | $6,000 | PayPal Inc PAC | — | Executive VP - Product, Palo Alto |
+| 01/07/2002 | $6,000 | PayPal Inc PAC |, | Executive VP - Product, Palo Alto |
 | 12/30/2013 | $2,600 | Ed Royce (Congress) | R | San Francisco, Yammer CEO |
 | 10/14/2014 | $2,600 | Scott Brown (Senate) | R | San Francisco, CEO |
 | 06/27/2016 | $28,000 | DNC Services Corp | D | San Francisco, Yammer CEO |
@@ -126,7 +126,7 @@ Sacks' political objectives map directly to his Craft Ventures portfolio:
 
 - 2021: $90K+ to California Newsom recall (Against the Recall defense)
 - 2022: $1M to Protect Ohio Values (pro-JD Vance Senate super PAC); Thiel contributed $15M to same PAC
-- 2024: Co-hosted $12M Trump fundraiser at Pacific Heights mansion (June 6) — top tier $500K per couple, mid-tier $300K per couple, entry $50K per person. Funds distributed to Trump 47 Joint Fundraising Committee, RNC, and 42 state parties. JD Vance introduced Sacks to Donald Trump Jr. at Conrad Hotel in D.C. (early 2024), directly leading to this event. Sacks publicly credited Vance: "this [fundraiser] would not have happened without Vance."
+- 2024: Co-hosted $12M Trump fundraiser at Pacific Heights mansion (June 6), top tier $500K per couple, mid-tier $300K per couple, entry $50K per person. Funds distributed to Trump 47 Joint Fundraising Committee, RNC, and 42 state parties. JD Vance introduced Sacks to Donald Trump Jr. at Conrad Hotel in D.C. (early 2024), directly leading to this event. Sacks publicly credited Vance: "this [fundraiser] would not have happened without Vance."
 
 **All In podcast as political infrastructure:** The podcast reaches 6M monthly downloads and 1M+ YouTube subscribers. Serves as direct channel to tech wealth and political decision-makers. 2025 All In Summit charged $7,500 per person, generating $21M ticket revenue; Vanity Fair described it as "fever-dream capitalist bacchanal" and "political staging ground." White House AI Summit (2025) originally proposed $1M sponsorships for exclusive Trump access; chief of staff intervened to prevent All In from being sole organizer.
 
@@ -137,17 +137,17 @@ Sacks' political objectives map directly to his Craft Ventures portfolio:
 | Date | Recipient/Target | Amount | Policy Return | Time Gap |
 |------|------------------|--------|----------------|----------|
 | 2024-06-06 | Trump fundraiser (bundled from hundreds) | $12M raised | Appointment as AI/Crypto Czar announced Dec 2024 | 6 months |
-| 2025-01-23 | Crypto EO (Sacks as architect) | — | Day One executive order revoking Biden crypto bans, prohibiting CBDCs, establishing federal framework | Immediate |
-| 2025-02-04 | First Sacks press conference | — | Pledged regulatory clarity, stablecoin legislation, bicameral working group on crypto across committees | 12 days |
-| 2025-03-05 | Ethics waiver (Crypto) | — | 11-page waiver by David Warrington covering all "particular matters" in digital asset industry; OGE director had been fired one month prior | Immediate |
-| 2025-03-06 | Strategic Bitcoin Reserve EO | — | Trump signed order retaining ~200K BTC (~$17B+ value); Sacks designed and announced policy; legitimizes crypto as national asset | 1 day |
-| 2025-06-02 | Second ethics waiver | — | Waiver specifically addressing AI holdings; allowed retention of 449+ AI portfolio companies | 3 months |
-| 2025-07-18 | GENIUS Act signed into law | — | Senate passage 68-30; Sacks primary policy driver; BitGo (Craft: 7.8% stake) filed for IPO immediately after; policy created favorable regulatory framework for stablecoin issuers benefiting portfolio companies | 1 month post-waiver |
-| 2025-07-31 | Sacks hits 130-day SGE limit | — | Transitioned to PCAST co-chair; continues policy influence without SGE time restrictions | Seamless |
-| 2025-09-01 | Democrats ethics investigation | — | Elizabeth Warren and congressional Democrats launched formal investigation into whether Sacks exceeded 130-day SGE limit | 4 months post-appointment |
-| 2025-12-11 | AI Preemption EO signed | — | "Ensuring a National Policy Framework for Artificial Intelligence" — directed DOJ to challenge state AI laws; directed Sacks to prepare legislation preempting state AI regulation; architecture by Sacks | 11 months |
-| 2026-03-14 | Anduril $20B Army contract | — | Craft portfolio company; policy framework Sacks helped build during government tenure | 14 months post-appointment |
-| 2026-03-26 | Stepped down as AI/Crypto Czar | — | Formally exhausted 130-day SGE limit; remains PCAST co-chair with continued policy access | 15 months |
+| 2025-01-23 | Crypto EO (Sacks as architect) |, | Day One executive order revoking Biden crypto bans, prohibiting CBDCs, establishing federal framework | Immediate |
+| 2025-02-04 | First Sacks press conference |, | Pledged regulatory clarity, stablecoin legislation, bicameral working group on crypto across committees | 12 days |
+| 2025-03-05 | Ethics waiver (Crypto) |, | 11-page waiver by David Warrington covering all "particular matters" in digital asset industry; OGE director had been fired one month prior | Immediate |
+| 2025-03-06 | Strategic Bitcoin Reserve EO |, | Trump signed order retaining ~200K BTC (~$17B+ value); Sacks designed and announced policy; legitimizes crypto as national asset | 1 day |
+| 2025-06-02 | Second ethics waiver |, | Waiver specifically addressing AI holdings; allowed retention of 449+ AI portfolio companies | 3 months |
+| 2025-07-18 | GENIUS Act signed into law |, | Senate passage 68-30; Sacks primary policy driver; BitGo (Craft: 7.8% stake) filed for IPO immediately after; policy created favorable regulatory framework for stablecoin issuers benefiting portfolio companies | 1 month post-waiver |
+| 2025-07-31 | Sacks hits 130-day SGE limit |, | Transitioned to PCAST co-chair; continues policy influence without SGE time restrictions | Seamless |
+| 2025-09-01 | Democrats ethics investigation |, | Elizabeth Warren and congressional Democrats launched formal investigation into whether Sacks exceeded 130-day SGE limit | 4 months post-appointment |
+| 2025-12-11 | AI Preemption EO signed |, | "Ensuring a National Policy Framework for Artificial Intelligence", directed DOJ to challenge state AI laws; directed Sacks to prepare legislation preempting state AI regulation; architecture by Sacks | 11 months |
+| 2026-03-14 | Anduril $20B Army contract |, | Craft portfolio company; policy framework Sacks helped build during government tenure | 14 months post-appointment |
+| 2026-03-26 | Stepped down as AI/Crypto Czar |, | Formally exhausted 130-day SGE limit; remains PCAST co-chair with continued policy access | 15 months |
 
 **Chip export advocacy:** Sacks advocated lifting Biden-era chip export restrictions. Negotiated deal for 500K U.S. AI chips (primarily Nvidia) to UAE (potential $200B revenue). Had close relationship with Nvidia CEO Jensen Huang; echoed Huang's views in White House meetings. Advocated lifting U.S. ban on Nvidia chip sales to China. His 449 AI portfolio companies benefit from cheaper, more accessible chips.
 
@@ -158,7 +158,7 @@ Sacks' political objectives map directly to his Craft Ventures portfolio:
 
 ### The PayPal Mafia Network
 
-Sacks operates within [[Peter Thiel]]'s political network — the PayPal Mafia evolved from tech alumni network into organized political funding bloc with direct executive power access.
+Sacks operates within [[Peter Thiel]]'s political network, the PayPal Mafia evolved from tech alumni network into organized political funding bloc with direct executive power access.
 
 ### Network structure (as of Trump 2.0):
 
@@ -169,7 +169,7 @@ Sacks operates within [[Peter Thiel]]'s political network — the PayPal Mafia e
 | David Sacks | COO, Product Leader | Yammer, Craft Ventures | AI/Crypto Czar → PCAST | Regulatory capture appointee; policy architect |
 | Ken Howery | CFO | Founders Fund | U.S. Ambassador to Denmark | Diplomatic credential |
 | Mark Woolway | Early employee | Craft Ventures | Network coordinator | Was on Trump 1.0 Treasury transition team |
-| Michael Kratsios | — | Thiel Capital chief of staff | PCAST co-chair, OSTP Director | Policy network coordination |
+| Michael Kratsios |, | Thiel Capital chief of staff | PCAST co-chair, OSTP Director | Policy network coordination |
 
 ### Deployment vectors:
 
@@ -206,7 +206,7 @@ Sacks operates within [[Peter Thiel]]'s political network — the PayPal Mafia e
 - RNC 2024: Sacks gave primetime speech endorsing Trump-Vance; other hosts supported or minimally critiqued ticket
 - Trump appearance on show post-fundraiser: "I love David's house"
 - JD Vance appearance (September 2024): Consolidated Silicon Valley support; The Verge noted Sacks and Vance's "political fortunes are tied together"
-- Co-hosts' ideological evolution: Palihapitiya donated $250K+ to Biden in 2020; by 2024 co-hosting Trump fundraiser — signaled show's ability to pull donors rightward
+- Co-hosts' ideological evolution: Palihapitiya donated $250K+ to Biden in 2020; by 2024 co-hosting Trump fundraiser, signaled show's ability to pull donors rightward
 
 ### Commercial/policy events:
 
@@ -216,7 +216,7 @@ Sacks operates within [[Peter Thiel]]'s political network — the PayPal Mafia e
 
 ### Podcast continuation during government service:
 
-The show continued throughout Sacks' tenure as Czar. Forewent AI/crypto sponsorships during government service but earned tens of millions from summit ticket sales. David Friedberg (fourth co-host) appointed to PCAST March 2026 — two of four hosts now serving as presidential science advisors.
+The show continued throughout Sacks' tenure as Czar. Forewent AI/crypto sponsorships during government service but earned tens of millions from summit ticket sales. David Friedberg (fourth co-host) appointed to PCAST March 2026, two of four hosts now serving as presidential science advisors.
 
 ### Ideological influence:
 
@@ -235,7 +235,7 @@ Vanity Fair (September 2025): Traced "the hosts' move from Trump critics to MAGA
 
 ### Political lobbying:
 
-Sacks personally lobbied Trump to select Vance as VP running mate, alongside Elon Musk and Tucker Carlson. The Verge: "Cohost David Sacks' and Vance's political fortunes are tied together — if Trump wins, Sacks looks like a kingmaker and has a vice president who is indebted to him."
+Sacks personally lobbied Trump to select Vance as VP running mate, alongside Elon Musk and Tucker Carlson. The Verge: "Cohost David Sacks' and Vance's political fortunes are tied together, if Trump wins, Sacks looks like a kingmaker and has a vice president who is indebted to him."
 
 ### Public positioning:
 
@@ -253,7 +253,7 @@ Sacks personally lobbied Trump to select Vance as VP running mate, alongside Elo
 | **Crypto deregulation** | Both support eliminating SEC crypto enforcement; Vance Senate co-sponsor of pro-crypto legislation |
 | **Techno-libertarianism** | Skepticism of government regulation; pro-market economics; Thiel-influenced worldview |
 
-Vance worked at Mithril Capital (Thiel fund), launched Narya Capital with Thiel backing, entered politics with Thiel's $15M and Sacks' $1M — ideological formation substantially shaped by Thiel-Sacks network.
+Vance worked at Mithril Capital (Thiel fund), launched Narya Capital with Thiel backing, entered politics with Thiel's $15M and Sacks' $1M, ideological formation substantially shaped by Thiel-Sacks network.
 
 ---
 
@@ -266,7 +266,7 @@ Vance worked at Mithril Capital (Thiel fund), launched Narya Capital with Thiel 
 - **March 5, 2025:** 11-page waiver by David Warrington covering all "particular matters of general applicability" in digital asset industry. Issued one month after Trump fired OGE director.
 - **June 2025:** Second waiver specifically addressing AI holdings
 
-Kathleen Clark (Washington University): "These are sham ethics waivers. They lack rigorous objective ethics analysis ensuring public policy serves public benefit. They were aimed at enabling Sacks to profit from government position... like a presidential pardon in advance."
+Kathleen Clark (Washington University): "These are sham ethics waivers. They lack rigorous objective ethics analysis ensuring public policy serves public benefit. They were aimed at enabling Sacks to profit from government position.. like a presidential pardon in advance."
 
 Elizabeth Warren (May 2025 letter to OGE): Questioned waivers while Sacks simultaneously co-hosted "$1.5 million-a-head dinner for crypto industry players" while shaping federal crypto policy.
 
@@ -301,12 +301,12 @@ Sacks and Craft Ventures divested $200M+ in digital assets ($85M+ personal):
 ### Remaining conflicts: Other notable:
 
 - Neuralink (Musk brain-chip startup)
-- Palantir (Thiel data company — retained despite AI classification; waiver classified as "SaaS" not "AI" despite explicit "AI-Powered Automation" marketing)
+- Palantir (Thiel data company, retained despite AI classification; waiver classified as "SaaS" not "AI" despite explicit "AI-Powered Automation" marketing)
 - Reddit, Slack, Affirm, Intercom (enterprise SaaS)
 - Glue (AI platform; Sacks remained on board while serving as Czar)
 - 449+ AI companies benefiting from AI preemption and Pentagon procurement policies
 
-**The Palantir waiver controversy:** Sacks received waiver allowing non-divestment from Palantir. Waiver classified Palantir as "SaaS company" rather than AI company — despite Palantir explicitly selling "AI-Powered Automation for Every Decision." Palantir has major contracts with U.S. Army, DHS, ICE.
+**The Palantir waiver controversy:** Sacks received waiver allowing non-divestment from Palantir. Waiver classified Palantir as "SaaS company" rather than AI company, despite Palantir explicitly selling "AI-Powered Automation for Every Decision." Palantir has major contracts with U.S. Army, DHS, ICE.
 
 **The Nvidia situation:** Sacks had close relationship with Nvidia CEO Jensen Huang; echoed Huang's views in White House meetings; advocated lifting export restrictions. Deal for 500K U.S. AI chips (primarily Nvidia) to UAE (potential $200B revenue) attributed to Sacks' influence. Oval Office meeting with Huang led to Trump authorizing Nvidia chip sales to China. Sacks has no disclosed direct Craft stake in Nvidia, but 449 AI portfolio companies benefit from cheaper, more accessible chips.
 
@@ -327,7 +327,7 @@ Sacks and Craft Ventures divested $200M+ in digital assets ($85M+ personal):
 
 ### Class Analysis
 
-**The new model of regulatory capture:** Sacks represents the most explicit form of donor-class control in Trump 2.0. He doesn't operate through the revolving door (industry → government → industry) — he has eliminated the door entirely.
+**The new model of regulatory capture:** Sacks represents the most explicit form of donor-class control in Trump 2.0. He doesn't operate through the revolving door (industry → government → industry), he has eliminated the door entirely.
 
 In previous administrations, capture required sequence: work in industry, then government, then back to industry, hoping spin was slow enough to hide exchange. Sacks holds government power and industry power *simultaneously*, using SGE status to avoid:
 - Full financial disclosure (SGE threshold: 130 days/year, not 365)
@@ -342,9 +342,9 @@ In previous administrations, capture required sequence: work in industry, then g
 3. Ethics waivers and SGE status remove accountability mechanisms that would normally flag conflicts
 4. Thiel network political protection: Vance picks Sacks, Trump shields him from ethics review
 
-**Mark Woolway precedent:** Early PayPal employee at Craft Ventures was on Trump 1.0 Treasury transition team — network's influence in Trump 1.0 anticipated Trump 2.0. The network learned structural lessons from first administration.
+**Mark Woolway precedent:** Early PayPal employee at Craft Ventures was on Trump 1.0 Treasury transition team, network's influence in Trump 1.0 anticipated Trump 2.0. The network learned structural lessons from first administration.
 
-**South Africa background:** KQED investigation noted Thiel, Sacks, Musk shared apartheid-era upbringing in country with explicit white minority governance, limited democratic norms, state-directed capitalism — may have shaped skepticism of electoral democracy, regulatory constraints, liberal governance frameworks.
+**South Africa background:** KQED investigation noted Thiel, Sacks, Musk shared apartheid-era upbringing in country with explicit white minority governance, limited democratic norms, state-directed capitalism, may have shaped skepticism of electoral democracy, regulatory constraints, liberal governance frameworks.
 
 ### Policy as portfolio management:
 
@@ -357,7 +357,7 @@ In previous administrations, capture required sequence: work in industry, then g
 
 By March 2026, $500M+ in personal portfolio wealth appreciation from policies Sacks designed while in government. Anduril valuation: $2.3B → $8.5B+ (14 months). BitGo: IPO filing. 18+ portfolio companies landed federal AI contracts. Net: 130 days of government service created hundreds of millions in personal profit.
 
-**Bipartisan manipulation:** Sacks' trajectory — Republican → Democrat → California progressive recall funder → Trump MAGA — suggests opportunistic ideological positioning rather than principled political identity, optimized around protecting and growing financial interests and policy influence. Every pivot preserved or advanced his portfolio interests. Every policy championed benefits Craft Ventures. The ideology is window dressing; the business model is the message.
+**Bipartisan manipulation:** Sacks' trajectory. Republican → Democrat → California progressive recall funder → Trump MAGA, suggests opportunistic ideological positioning rather than principled political identity, optimized around protecting and growing financial interests and policy influence. Every pivot preserved or advanced his portfolio interests. Every policy championed benefits Craft Ventures. The ideology is window dressing; the business model is the message.
 
 > [!money] The ROI of Political Capture
 > Sacks' $1M super PAC donation (Vance 2022) placed Vance in position to select Sacks for government role. That role created $500M+ portfolio returns within 12 months. This is not contribution-to-policy; it is contribution-to-personal-wealth-extraction via government capture. The class function: venture capital openly merges with government power, eliminating fiction that regulatory agencies constrain private profit. Sacks proves that in Trump 2.0, wealthiest tech entrepreneurs don't need to lobby government — they *become* government, keep their companies, and use public power to enrich themselves.
@@ -428,7 +428,7 @@ By March 2026, $500M+ in personal portfolio wealth appreciation from policies Sa
 
 > This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.
 
-### Financial Overview (990 Filing — 2023)
+### Financial Overview (990 Filing, 2023)
 <!-- auto:propublica-990 start -->
 | Metric | Amount |
 |--------|--------|

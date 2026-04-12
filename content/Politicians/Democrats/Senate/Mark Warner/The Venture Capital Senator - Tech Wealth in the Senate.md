@@ -15,17 +15,17 @@ donors: [[Google - Alphabet]] [[Amazon]] [[Microsoft]] [[Silicon Valley Democrat
 
 ### The Billionaire-Senator Pipeline
 
-Mark Warner is the wealthiest member of the U.S. Senate with an estimated net worth of $215 million (2024 financial disclosure). His wealth comes from his pre-political career as a venture capitalist and telecommunications entrepreneur — he was an early investor in Nextel and co-founded Columbia Capital, a telecom-focused venture capital firm. Warner's tech industry wealth creates a structural alignment: his personal financial interests, his donor base, and his policy positions on technology regulation all point in the same direction.
+Mark Warner is the wealthiest member of the U.S. Senate with an estimated net worth of $215 million (2024 financial disclosure). His wealth comes from his pre-political career as a venture capitalist and telecommunications entrepreneur, he was an early investor in Nextel and co-founded Columbia Capital, a telecom-focused venture capital firm. Warner's tech industry wealth creates a structural alignment: his personal financial interests, his donor base, and his policy positions on technology regulation all point in the same direction.
 
-Warner chairs the Senate Intelligence Committee and serves on the Finance, Banking, and Commerce committees — giving him jurisdiction over tech regulation, AI policy, telecommunications, and national security applications of technology. His tech industry expertise is genuine; his conflicts of interest are equally genuine.
+Warner chairs the Senate Intelligence Committee and serves on the Finance, Banking, and Commerce committees, giving him jurisdiction over tech regulation, AI policy, telecommunications, and national security applications of technology. His tech industry expertise is genuine; his conflicts of interest are equally genuine.
 
 ---
 
 ### The RESTRICT Act and Tech Regulation Theater
 
-Warner's most prominent legislative effort on technology — the RESTRICT Act (2023), targeting TikTok and other foreign-controlled tech platforms — illustrates his pattern. The legislation targeted a Chinese-owned competitor while leaving American tech giants untouched. Warner frames tech regulation as a national security issue, which allows him to appear tough on technology while focusing enforcement on foreign companies that compete with his domestic tech donor base.
+Warner's most prominent legislative effort on technology, the RESTRICT Act (2023), targeting TikTok and other foreign-controlled tech platforms, illustrates his pattern. The legislation targeted a Chinese-owned competitor while leaving American tech giants untouched. Warner frames tech regulation as a national security issue, which allows him to appear tough on technology while focusing enforcement on foreign companies that compete with his domestic tech donor base.
 
-Warner has not authored legislation that would meaningfully constrain Google's search monopoly, Meta's data collection, or Amazon's market dominance — despite sitting on committees with jurisdiction over all three. His tech regulation agenda targets competitors to American tech companies (TikTok, Huawei) while protecting the American tech companies that fund his campaigns.
+Warner has not authored legislation that would meaningfully constrain Google's search monopoly, Meta's data collection, or Amazon's market dominance, despite sitting on committees with jurisdiction over all three. His tech regulation agenda targets competitors to American tech companies (TikTok, Huawei) while protecting the American tech companies that fund his campaigns.
 
 > [!contradiction]
 > Warner calls himself "the Senate's leading voice on tech accountability." His tech regulation proposals target Chinese companies while American tech giants — Google ($13M lobbying), Meta ($20M lobbying), Amazon ($21M lobbying) — operate with minimal legislative constraint. The accountability is selective, and the selection criteria map to his donor base.

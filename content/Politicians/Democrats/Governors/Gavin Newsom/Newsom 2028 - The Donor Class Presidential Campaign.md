@@ -15,13 +15,13 @@ donors: [[Blue Shield of California]] · [[Kaiser Permanente]] · [[UnitedHealth
 
 ### The Thesis
 
-[[_Gavin Newsom Master Profile|Gavin Newsom]]'s 2028 presidential campaign is no longer speculation — it's infrastructure. Campaign for Democracy PAC with $7.7 million in the bank. Book tour through New Hampshire, Nevada, and South Carolina. 100,000+ new out-of-state donors. Hollywood writing big checks. Litigation portfolio against Trump worth $168 billion in preserved federal funding. October 2025: "Yeah, I'd be lying otherwise" when asked if he was giving serious thought to running.
+[[_Gavin Newsom Master Profile|Gavin Newsom]]'s 2028 presidential campaign is no longer speculation, it's infrastructure. Campaign for Democracy PAC with $7.7 million in the bank. Book tour through New Hampshire, Nevada, and South Carolina. 100,000+ new out-of-state donors. Hollywood writing big checks. Litigation portfolio against Trump worth $168 billion in preserved federal funding. October 2025: "Yeah, I'd be lying otherwise" when asked if he was giving serious thought to running.
 
 The question was never whether he's running. The question is: whose money is he running on, and what will that money cost the working class?
 
 ---
 
-### Campaign for Democracy PAC — The Shadow Campaign
+### Campaign for Democracy PAC. The Shadow Campaign
 
 **Formation:** Built from remaining funds of 2022 California gubernatorial campaign. Nominally focused on challenging state-level Republicans in red states. Widely understood as 2028 infrastructure.
 
@@ -39,21 +39,21 @@ The question was never whether he's running. The question is: whose money is he 
 
 ### The Early State Calendar
 
-**South Carolina (July 2025):** Two-day tour, 8 stops across rural areas and GOP strongholds. Not California venues — deliberate engagement with the electorate Harris lost.
+**South Carolina (July 2025):** Two-day tour, 8 stops across rural areas and GOP strongholds. Not California venues, deliberate engagement with the electorate Harris lost.
 
 **Nevada (March 4, 2026):** Las Vegas event. Private event in Boulder City at home of Democratic activist Judy Hoskins. Union-heavy state, but the meeting is in a donor's home, not a union hall.
 
 **New Hampshire (March 5, 2026):** Portsmouth Music Hall event. First-in-the-nation primary state. Met with New Hampshire Democratic Party chairs.
 
-**Fundraising geography:** The Hill reported Newsom's fundraising campaign targets "everywhere except California" — building the national small-dollar base that his California donor network can't substitute for.
+**Fundraising geography:** The Hill reported Newsom's fundraising campaign targets "everywhere except California", building the national small-dollar base that his California donor network can't substitute for.
 
 **New donor base:** 100,000+ contributors not previously involved in his campaigns. More than half live outside California. This is the Sanders lesson applied by a donor-class candidate: you need small-dollar numbers to survive a primary, even if the big money is what actually funds the operation.
 
 ---
 
-### The Book Tour — "Young Man in a Hurry"
+### The Book Tour, "Young Man in a Hurry"
 
-Released February-March 2026. Book tour stops strategically placed in key primary states. The book is a campaign autobiography by another name — humanizing narrative (dyslexia, family), California record framing, anti-Trump positioning. Every presidential candidate since Obama has launched with a book.
+Released February-March 2026. Book tour stops strategically placed in key primary states. The book is a campaign autobiography by another name, humanizing narrative (dyslexia, family), California record framing, anti-Trump positioning. Every presidential candidate since Obama has launched with a book.
 
 Notable: Harris wrote in her own book that Newsom said he'd call her back after Biden dropped out in July 2024 but never did. The books are already competing.
 
@@ -63,7 +63,7 @@ Notable: Harris wrote in her own book that Newsom said he'd call her back after 
 
 Newsom has constructed the most aggressive state-vs-federal litigation strategy of any governor:
 
-**The $168 billion number:** California's legal challenges have restored at least $168 billion in federal funding (Governor's office, August 2025). This is the campaign headline — "I fought Trump and won $168 billion for California."
+**The $168 billion number:** California's legal challenges have restored at least $168 billion in federal funding (Governor's office, August 2025). This is the campaign headline, "I fought Trump and won $168 billion for California."
 
 ### Key cases:
 - **National Guard federalization:** Trump deployed Guard to Los Angeles. Newsom sued. Judge ordered deployment to end (December 2025). Ninth Circuit upheld (December 12, 2025).
@@ -75,39 +75,39 @@ Newsom has constructed the most aggressive state-vs-federal litigation strategy 
 > [!contradiction] Litigation as Campaign Infrastructure
 > The lawsuits are genuine — real legal victories protecting real Californians. They're also campaign ads. Every filing generates national media. Every victory is a Newsom headline. Every Trump counterattack proves Newsom is "the Democrat Trump fears most." The litigation portfolio is a 2028 campaign that costs the California taxpayer instead of the campaign fund.
 
-**Media strategy:** Launched podcast featuring [[_Steve Bannon Master Profile|Steve Bannon]] and Ben Shapiro (drew party criticism). Social media adopts Trump-style tactics — CAPS text messages, mock slogans including "Make America GAVIN Again." NPR described him as "punching a bully back." Bloomberg profiled him as "California's [[_Gavin Newsom Master Profile|Gavin Newsom]] Pits His Future on Battling Trump."
+**Media strategy:** Launched podcast featuring [[_Steve Bannon Master Profile|Steve Bannon]] and Ben Shapiro (drew party criticism). Social media adopts Trump-style tactics. CAPS text messages, mock slogans including "Make America GAVIN Again." NPR described him as "punching a bully back." Bloomberg profiled him as "California's [[_Gavin Newsom Master Profile|Gavin Newsom]] Pits His Future on Battling Trump."
 
 ---
 
-### The Donor Infrastructure — Who's Writing Checks
+### The Donor Infrastructure. Who's Writing Checks
 
 ### Hollywood (locked in):
 Deadline (December 2025): "Hollywood Donors Line Up Behind Governor's Expected White House Bid." Democratic insider James Costos: "Enthusiasm by L.A. donors is very strong and very encouraging, big checks are being written."
 
 Key Hollywood donors:
-- Jeffrey Katzenberg — $500K recall donation, but his influence has "plummeted" after Biden/Harris debacle. On "apparent sabbatical" from political influence as of March 2026. The most important Hollywood fundraiser of the last decade may not be available for 2028.
-- Steven Spielberg — $25K recall donation. Reliable but not a lead fundraiser.
-- [[Haim Saban|Haim Saban]] — Prominent recall supporter. $7.98M lifetime to CA Democrats. Israel alignment makes him available for Newsom's post-October 7 positioning.
+- Jeffrey Katzenberg, $500K recall donation, but his influence has "plummeted" after Biden/Harris debacle. On "apparent sabbatical" from political influence as of March 2026. The most important Hollywood fundraiser of the last decade may not be available for 2028.
+- Steven Spielberg, $25K recall donation. Reliable but not a lead fundraiser.
+- [[Haim Saban|Haim Saban]]. Prominent recall supporter. $7.98M lifetime to CA Democrats. Israel alignment makes him available for Newsom's post-October 7 positioning.
 
 ### Silicon Valley (complicated):
 The same network that funded Harris ($1B+) is Newsom's home territory, but the relationship is strained:
-- Reed Hastings — $3M anti-recall donation (largest individual 2021 donor). Available for 2028.
-- [[Reid Hoffman|Reid Hoffman]] — Signed 75-Silicon Valley leader anti-recall letter. Also gave $1.6M to [[_Josh Shapiro Master Profile|Josh Shapiro]]'s gubernatorial campaign. Hedge.
-- Vinod Khosla — Signed "VCsforKamala" in 2024. Democratic venture capital lane.
-- [[Laurene Powell Jobs|Laurene Powell Jobs]] — Publicly backed recall. $929K to Biden 2024. Now focused on The Atlantic.
-- Ron Conway — Anti-recall supporter. Bay Area political giving pioneer.
+- Reed Hastings, $3M anti-recall donation (largest individual 2021 donor). Available for 2028.
+- [[Reid Hoffman|Reid Hoffman]]. Signed 75-Silicon Valley leader anti-recall letter. Also gave $1.6M to [[_Josh Shapiro Master Profile|Josh Shapiro]]'s gubernatorial campaign. Hedge.
+- Vinod Khosla. Signed "VCsforKamala" in 2024. Democratic venture capital lane.
+- [[Laurene Powell Jobs|Laurene Powell Jobs]]. Publicly backed recall. $929K to Biden 2024. Now focused on The Atlantic.
+- Ron Conway. Anti-recall supporter. Bay Area political giving pioneer.
 
-**The AI problem:** Tech donors are "annoyed" by Newsom's October 2025 social media addiction warning label law and AI safety standards. Silicon Valley is "cosying up to Trump." Newsom takes a "situational" line — friendly enough to keep donor access, regulatory enough to claim governance. The SB 7 veto (AI regulation) was specifically called out by the California Federation of Labor as a betrayal.
+**The AI problem:** Tech donors are "annoyed" by Newsom's October 2025 social media addiction warning label law and AI safety standards. Silicon Valley is "cosying up to Trump." Newsom takes a "situational" line, friendly enough to keep donor access, regulatory enough to claim governance. The SB 7 veto (AI regulation) was specifically called out by the California Federation of Labor as a betrayal.
 
 ### Real estate (structural):
-- George Marcus (Marcus & Millichap) — $1M anti-recall (biggest local donor). $400K+ to Newsom 2018. Billionaire real estate broker.
-- [[California Apartment Association|California Apartment Association]], California Association of Realtors — institutional donors who need housing rhetoric without housing policy.
+- George Marcus (Marcus & Millichap), $1M anti-recall (biggest local donor). $400K+ to Newsom 2018. Billionaire real estate broker.
+- [[California Apartment Association|California Apartment Association]], California Association of Realtors, institutional donors who need housing rhetoric without housing policy.
 
 ### Healthcare (the vault's deepest thread):
-Blue Shield ($299K+), Kaiser ($35.5M behested), UnitedHealth/[[UnitedHealth Group - Optum|Optum]] ($231K+). These donors need a president who talks "universal coverage" without implementing single-payer. Newsom is their candidate — he ran on single-payer, governed against it, and can sell "California's health innovation" nationally without threatening the private insurance profit model.
+Blue Shield ($299K+), Kaiser ($35.5M behested), UnitedHealth/[[UnitedHealth Group - Optum|Optum]] ($231K+). These donors need a president who talks "universal coverage" without implementing single-payer. Newsom is their candidate, he ran on single-payer, governed against it, and can sell "California's health innovation" nationally without threatening the private insurance profit model.
 
 ### Israel lobby:
-[[AIPAC - American Israel Public Affairs Committee|AIPAC]], Saban ($7.98M lifetime), [[DMFI - Democratic Majority for Israel|DMFI]]. Newsom's post-October 7 rightward shift positions him for AIPAC support. The same AIPAC that spent $126.9M in 2024 to destroy progressive Democrats will have no reason to oppose Newsom — he's already aligned.
+[[AIPAC - American Israel Public Affairs Committee|AIPAC]], Saban ($7.98M lifetime), [[DMFI - Democratic Majority for Israel|DMFI]]. Newsom's post-October 7 rightward shift positions him for AIPAC support. The same AIPAC that spent $126.9M in 2024 to destroy progressive Democrats will have no reason to oppose Newsom, he's already aligned.
 
 > [!money] The 2028 Fundraising Estimate
 > **California donor base:** The networks that produced Harris's $1B+ are available to Newsom
@@ -120,12 +120,12 @@ Blue Shield ($299K+), Kaiser ($35.5M behested), UnitedHealth/[[UnitedHealth Grou
 
 ### The Moderate Pivot
 
-CalMatters (2026): Newsom is "morphing into a moderate" — from hard-left California governor to middle-of-road national candidate.
+CalMatters (2026): Newsom is "morphing into a moderate", from hard-left California governor to middle-of-road national candidate.
 
 ### The pivot in action:
-- **Healthcare:** May 2025 — plan to cap new Medi-Cal enrollment for undocumented adults. Existing undocumented enrollees face $100 monthly premium starting 2027. Cuts to dental services. This reverses his signature progressive achievement (universal Medi-Cal expansion regardless of immigration status).
+- **Healthcare:** May 2025, plan to cap new Medi-Cal enrollment for undocumented adults. Existing undocumented enrollees face $100 monthly premium starting 2027. Cuts to dental services. This reverses his signature progressive achievement (universal Medi-Cal expansion regardless of immigration status).
 - **Energy:** Signed bills streamlining drilling permit processes to boost in-state oil production. Environmental groups criticized.
-- **AI:** Vetoed SB 7 (AI regulation) — siding with tech donors over labor unions.
+- **AI:** Vetoed SB 7 (AI regulation), siding with tech donors over labor unions.
 - **Podcast strategy:** Bannon and Shapiro appearances signal willingness to engage right-wing media, not just progressive base.
 
 The moderate pivot is the donor-class calibration: primary voters need progressive language, general election voters need moderate positioning, and the donor class needs someone who governs for capital regardless of which language they're using. Newsom is running both calibrations simultaneously.
@@ -169,7 +169,7 @@ The consolidation question: can Newsom force Harris out of the race early (the B
 
 ---
 
-### The Labor Problem — AI as the New Fault Line
+### The Labor Problem. AI as the New Fault Line
 
 > [!contradiction] The Union Endorsement That Isn't Earned
 > Newsom will seek and likely receive the [[California Labor Federation|California Labor Federation]] endorsement, [[SEIU - Service Employees International Union|SEIU]] endorsement, and building trades endorsement for 2028. He will receive these endorsements despite:
@@ -182,13 +182,13 @@ The consolidation question: can Newsom force Harris out of the race early (the B
 
 **The new condition (February 2026):** Union leaders conveyed that "their support for any 2028 presidential run will depend on how he handles artificial intelligence." Hoodline: "Unions To Newsom: Get Tough On AI Or Forget 2028 Backing." CalMatters: labor says he must regulate AI "if he wants the presidency."
 
-This is the first time California labor has publicly conditioned a presidential endorsement. The AI fault line is real: labor sees AI as "the biggest existential threat facing working Americans today." Newsom vetoed SB 7 for tech donors. Now labor is telling him the veto has a price. Whether that price is actually collected — or whether the endorsement comes unconditionally anyway — is the 2028 test of whether institutional labor has any structural power left.
+This is the first time California labor has publicly conditioned a presidential endorsement. The AI fault line is real: labor sees AI as "the biggest existential threat facing working Americans today." Newsom vetoed SB 7 for tech donors. Now labor is telling him the veto has a price. Whether that price is actually collected, or whether the endorsement comes unconditionally anyway, is the 2028 test of whether institutional labor has any structural power left.
 
 For [[IBEW - International Brotherhood of Electrical Workers|IBEW]]: Newsom's 2028 campaign will include infrastructure language, clean energy promises, and "good-paying union jobs" rhetoric from IRA/IIJA. The question is whether the [[IBEW - International Brotherhood of Electrical Workers|IBEW]] endorsement comes with conditions (PLA mandates, prevailing wage expansion, apprenticeship requirements) or whether it comes as another unconditional gift that buys nothing structural.
 
 ---
 
-### California as Liability — The Attack File
+### California as Liability. The Attack File
 
 ### Budget crisis:
 - 2025-26: $18 billion deficit
@@ -232,19 +232,19 @@ For [[IBEW - International Brotherhood of Electrical Workers|IBEW]]: Newsom's 20
 
 **Jason Kinney:** Political consultant since Newsom's San Francisco City Hall days (~20 years). Key transition team member. Partnered on 2016 marijuana legalization campaign. De-registered as lobbyist when Newsom became governor.
 
-Both are California operators. The 2028 campaign will require national hires — Iowa, New Hampshire, South Carolina, Nevada operatives — and the staffing choices will signal whether Newsom is running a California-export campaign or a genuine national operation.
+Both are California operators. The 2028 campaign will require national hires. Iowa, New Hampshire, South Carolina, Nevada operatives, and the staffing choices will signal whether Newsom is running a California-export campaign or a genuine national operation.
 
 ---
 
-### Class Analysis — The Product the Donor Class Is Buying
+### Class Analysis. The Product the Donor Class Is Buying
 
 The 2028 Newsom campaign is the donor class's ideal product: a candidate who speaks progressive language (climate, immigration, abortion, guns) while governing for corporate interests (healthcare industry, tech, real estate, gig economy). The progressive rhetoric attracts primary voters. The corporate governance attracts corporate money. The working class gets the rhetoric. The donor class gets the policy.
 
-This is the California model going national. Newsom has perfected it in Sacramento — every union endorsement despite every anti-labor veto, every progressive speech despite every corporate-friendly decision. The moderate pivot is already visible: capping Medi-Cal, streamlining oil drilling, vetoing AI regulation, podcasting with Bannon and Shapiro. The 2028 campaign is an attempt to scale the California contradiction to the national level.
+This is the California model going national. Newsom has perfected it in Sacramento, every union endorsement despite every anti-labor veto, every progressive speech despite every corporate-friendly decision. The moderate pivot is already visible: capping Medi-Cal, streamlining oil drilling, vetoing AI regulation, podcasting with Bannon and Shapiro. The 2028 campaign is an attempt to scale the California contradiction to the national level.
 
 The vault's question: can the same model that lost with Harris ($2.3B, every union endorsement, donor class fully mobilized) win with Newsom? Or has the working class learned to read column B?
 
-The new variable: AI. If labor's 2028 endorsement condition holds — regulate AI or lose our support — it would be the first time a Democratic donor-class candidate faces a structural choice between tech donors and union endorsements. Newsom's entire career has been built on never making that choice. 2028 may force it.
+The new variable: AI. If labor's 2028 endorsement condition holds, regulate AI or lose our support, it would be the first time a Democratic donor-class candidate faces a structural choice between tech donors and union endorsements. Newsom's entire career has been built on never making that choice. 2028 may force it.
 
 ---
 
@@ -286,33 +286,33 @@ The new variable: AI. If labor's 2028 endorsement condition holds — regulate A
 
 ### March 2026 Polling Update
 
-**Popularity flip:** An Emerson College poll (March 2026) shows Newsom's national net favorability moved from **-11 points** (December 2025) to **+2 points** — a 13-point swing as he positions himself against Trump and builds a national profile.
+**Popularity flip:** An Emerson College poll (March 2026) shows Newsom's national net favorability moved from **-11 points** (December 2025) to **+2 points**, a 13-point swing as he positions himself against Trump and builds a national profile.
 
-**Primary polling:** An Echelon Insights poll (March 2–5, 2026, n=1,152 likely Dem voters) shows Harris at 31%, Newsom at 16%. A UC Berkeley/POLITICO California survey shows 28% of Californians back Newsom vs. 14% for Harris. A Manhattan Institute poll finds Black voters prefer Harris over Newsom 34% to 14% — a significant structural challenge.
+**Primary polling:** An Echelon Insights poll (March 2–5, 2026, n=1,152 likely Dem voters) shows Harris at 31%, Newsom at 16%. A UC Berkeley/POLITICO California survey shows 28% of Californians back Newsom vs. 14% for Harris. A Manhattan Institute poll finds Black voters prefer Harris over Newsom 34% to 14%, a significant structural challenge.
 
 **Formal status:** Newsom told CBS News he "will consider" a White House run after the 2026 elections. No formal announcement. Ballotpedia had not identified any formal campaign announcement as of February 2026. The typical timeline: announce after November 2026 midterms.
 
-**SXSW:** Newsom appeared at SXSW 2026 — a national media and tech-industry audience — consistent with donor-class presidential positioning.
+**SXSW:** Newsom appeared at SXSW 2026, a national media and tech-industry audience, consistent with donor-class presidential positioning.
 
 - [CBS News: Newsom says he will consider White House run after 2026 elections](https://www.cbsnews.com/news/newsom-says-he-will-consider-white-house-run-after-2026-elections/) (Tier 2)
 - [Newsweek: Newsom surges as Democratic 2028 front-runner](https://www.newsweek.com/newsom-surges-poll-democratic-primary-frontrunner-2124888) (Tier 2)
-- [TheGrio: Newsom leads Harris in 2028 poll — can he win Black voters?](https://thegrio.com/2026/03/12/newsom-leads-kamala-harris-2028-presidential-poll-can-he-win-over-black-voters/) (Tier 2)
+- [TheGrio: Newsom leads Harris in 2028 poll, can he win Black voters?](https://thegrio.com/2026/03/12/newsom-leads-kamala-harris-2028-presidential-poll-can-he-win-over-black-voters/) (Tier 2)
 
 ---
 
 ### Redistricting as Donor Army Builder (2025–2026)
 
-**The Proposition 50 redistricting campaign** is the most important under-analyzed development in Newsom's 2028 infrastructure. The ballot measure — a redistricting reform initiative — raised **$114 million total**, stopping fundraising when the campaign had **$37 million** remaining in the bank.
+**The Proposition 50 redistricting campaign** is the most important under-analyzed development in Newsom's 2028 infrastructure. The ballot measure, a redistricting reform initiative, raised **$114 million total**, stopping fundraising when the campaign had **$37 million** remaining in the bank.
 
-**New donor file created:** The redistricting campaign attracted more than **107,000 identifiable individual donors** — more than Newsom's 2018 and 2022 campaigns and his 2021 recall committee *combined*. Of these:
+**New donor file created:** The redistricting campaign attracted more than **107,000 identifiable individual donors**, more than Newsom's 2018 and 2022 campaigns and his 2021 recall committee *combined*. Of these:
 - **80%+ gave $250 or less** (small-dollar donors)
-- **Majority from outside California** — the first time Newsom has built a true national donor base
+- **Majority from outside California**, the first time Newsom has built a true national donor base
 - The bulk of major donations came from **[[George Soros|George Soros]], [[House Majority PAC|House Majority PAC]], and a constellation of California and national labor unions**
 
-**What this means for 2028:** Newsom now controls a donor file of 100,000+ small-dollar contributors who hadn't previously given to his campaigns. This is the equivalent of a presidential campaign's first-quarter fundraising donor acquisition — accomplished before he's even announced. The redistricting cause was the vehicle; the donor file is the asset.
+**What this means for 2028:** Newsom now controls a donor file of 100,000+ small-dollar contributors who hadn't previously given to his campaigns. This is the equivalent of a presidential campaign's first-quarter fundraising donor acquisition, accomplished before he's even announced. The redistricting cause was the vehicle; the donor file is the asset.
 
-**Timeline:** Newsom told allies he likely wouldn't announce a presidential campaign until after he **leaves office in January 2027** — consistent with the standard post-governorship presidential launch pattern.
+**Timeline:** Newsom told allies he likely wouldn't announce a presidential campaign until after he **leaves office in January 2027**, consistent with the standard post-governorship presidential launch pattern.
 
-- [The Hill — Gavin Newsom gains 100,000 new contributors amid battles with Trump](https://thehill.com/homenews/campaign/5641006-gavin-newsom-presidential-run-2028/) (Tier 2)
-- [Yahoo News — Newsom's redistricting campaign unlocks a new donor army ahead of 2028](https://www.yahoo.com/news/articles/newsom-redistricting-campaign-unlocks-donor-130000910.html) (Tier 2)
-- [OpenSecrets — Democratic presidential contenders test the waters during midterm 'shadow campaign'](https://www.opensecrets.org/news/2026/01/democratic-presidential-contenders-test-the-waters-during-midterm-shadow-campaign/) (Tier 1)
+- [The Hill. Gavin Newsom gains 100,000 new contributors amid battles with Trump](https://thehill.com/homenews/campaign/5641006-gavin-newsom-presidential-run-2028/) (Tier 2)
+- [Yahoo News. Newsom's redistricting campaign unlocks a new donor army ahead of 2028](https://www.yahoo.com/news/articles/newsom-redistricting-campaign-unlocks-donor-130000910.html) (Tier 2)
+- [OpenSecrets. Democratic presidential contenders test the waters during midterm 'shadow campaign'](https://www.opensecrets.org/news/2026/01/democratic-presidential-contenders-test-the-waters-during-midterm-shadow-campaign/) (Tier 1)

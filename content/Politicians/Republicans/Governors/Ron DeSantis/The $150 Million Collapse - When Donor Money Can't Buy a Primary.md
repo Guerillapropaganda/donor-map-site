@@ -15,15 +15,15 @@ donors: [[Kenneth Griffin]] · [[Koch Network - Charles Koch]] · [[Fossil Fuel 
 
 ### The Setup: The Donor Class's Plan
 
-When [[_Donald Trump Master Profile|Donald Trump]] was indicted in April 2023 — then again in June, August, and December — the Republican donor class believed it had found its exit ramp. [[_Ron DeSantis Master Profile|Ron DeSantis]] had won Florida's 2022 gubernatorial race by 19 points. He had Ken Griffin's $5M backing. He had the Koch network's operational interest. He had [[Club for Growth|Club for Growth]]-aligned polling showing him beating Trump in Iowa and New Hampshire. By mid-2022, the donor class had coalesced around a theory: DeSantis was the disciplined, policy-fluent, legally clean alternative who could deliver the same deregulation without the criminal court calendar.
+When [[_Donald Trump Master Profile|Donald Trump]] was indicted in April 2023, then again in June, August, and December, the Republican donor class believed it had found its exit ramp. [[_Ron DeSantis Master Profile|Ron DeSantis]] had won Florida's 2022 gubernatorial race by 19 points. He had Ken Griffin's $5M backing. He had the Koch network's operational interest. He had [[Club for Growth|Club for Growth]]-aligned polling showing him beating Trump in Iowa and New Hampshire. By mid-2022, the donor class had coalesced around a theory: DeSantis was the disciplined, policy-fluent, legally clean alternative who could deliver the same deregulation without the criminal court calendar.
 
-The theory was backed with extraordinary resources. By January 2024 when DeSantis suspended his campaign, the total spend by campaign and super PAC combined had reached **$158.5 million** — against a candidate who won **zero states** and earned **approximately 51,000 votes in Iowa** at a per-vote cost of roughly **$2,263**.
+The theory was backed with extraordinary resources. By January 2024 when DeSantis suspended his campaign, the total spend by campaign and super PAC combined had reached **$158.5 million**, against a candidate who won **zero states** and earned **approximately 51,000 votes in Iowa** at a per-vote cost of roughly **$2,263**.
 
 ---
 
 ### The Money Structure: Outsourcing the Campaign
 
-DeSantis's 2024 operation made a structural bet that became a case study in donor-class overreach. Rather than building a traditional campaign apparatus, DeSantis effectively outsourced his entire ground game, voter contact, travel logistics, and advertising to Never Back Down — a super PAC nominally operating independently of the campaign.
+DeSantis's 2024 operation made a structural bet that became a case study in donor-class overreach. Rather than building a traditional campaign apparatus, DeSantis effectively outsourced his entire ground game, voter contact, travel logistics, and advertising to Never Back Down, a super PAC nominally operating independently of the campaign.
 
 > [!money]
 > **Never Back Down raised:** $145.1 million
@@ -33,13 +33,13 @@ DeSantis's 2024 operation made a structural bet that became a case study in dono
 > **Primary victories:** 0
 > **Iowa result:** Third place, behind Trump and Haley
 
-The PAC structure allowed DeSantis to project massive financial resources while maintaining legal separation — but it created a fundamental operational problem. The candidate himself had to perform. Ads can soften a market; $130M cannot make a candidate likable, agile, or compelling on the trail. DeSantis proved stiff in debates, awkward in retail politics, and unable to generate the earned media that Trump commanded for free.
+The PAC structure allowed DeSantis to project massive financial resources while maintaining legal separation, but it created a fundamental operational problem. The candidate himself had to perform. Ads can soften a market; $130M cannot make a candidate likable, agile, or compelling on the trail. DeSantis proved stiff in debates, awkward in retail politics, and unable to generate the earned media that Trump commanded for free.
 
 ---
 
 ### The Never Back Down Implosion
 
-Never Back Down's dysfunction was as instructive as its spending. A super PAC operating as a de facto campaign — with no formal candidate direction allowed by law — was structurally positioned to develop its own internal politics, compete with the actual campaign for influence, and optimize for metrics (ad impressions, voter contacts) rather than electoral outcomes.
+Never Back Down's dysfunction was as instructive as its spending. A super PAC operating as a de facto campaign, with no formal candidate direction allowed by law, was structurally positioned to develop its own internal politics, compete with the actual campaign for influence, and optimize for metrics (ad impressions, voter contacts) rather than electoral outcomes.
 
 By late 2023:
 
@@ -48,7 +48,7 @@ By late 2023:
 - New leadership was installed multiple times
 - The group canceled $2.5 million in 2024 TV advertising as other DeSantis-aligned groups took over functions
 
-The Washington Post's investigation found that Never Back Down had built an expensive air war (TV, digital, direct mail) when the Iowa caucus environment required ground war — personal contact, precinct organization, retail politics that DeSantis himself had to perform. The super PAC couldn't perform it for him.
+The Washington Post's investigation found that Never Back Down had built an expensive air war (TV, digital, direct mail) when the Iowa caucus environment required ground war, personal contact, precinct organization, retail politics that DeSantis himself had to perform. The super PAC couldn't perform it for him.
 
 ---
 

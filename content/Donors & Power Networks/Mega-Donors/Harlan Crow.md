@@ -32,13 +32,13 @@ audit-a-plus-passed: "2026-04-11"
 
 ### Who They Are
 
-[[Harlan Crow]]. Billionaire real estate developer (Crow Holdings). Heir to Trammell Crow Company fortune. Provider of the most extensively documented pattern of gifts to a sitting Supreme Court justice in modern American history: $4.75 million+ to [[_Clarence Thomas Master Profile|Clarence Thomas]] over 30+ years [Source: [Senate Judiciary Committee: Ethical Crisis at the Supreme Court](https://www.judiciary.senate.gov/supreme-court-ethics) *(source unavailable)* (Tier 1)]. Gifts include: superyacht cruises, private jet flights on Bombardier Global 5000, luxury resort access (Bohemian Grove, Adirondacks Camp Topridge, East Texas ranch), real estate purchases ($133K for Thomas's mother's home), boarding school tuition for Thomas's grand-nephew, a $19K Bible, a $15K Lincoln bust. Collector of Nazi memorabilia (signed "Mein Kampf," Hitler paintings, Nazi insignia linens). Seed funder of Liberty Central ($500K — Ginni Thomas/[[Leonard Leo|Leonard Leo]] organization). $100K+ to Leo's Teneo Network. Refused to comply with Senate Judiciary Committee subpoena [Source: [ProPublica: Senate investigation of Crow and Leo gifts](https://www.propublica.org/article/clarence-thomas-harlan-crow-private-jet-flights-senate-investigation-scotus) (Tier 2)].
+[[Harlan Crow]]. Billionaire real estate developer (Crow Holdings). Heir to Trammell Crow Company fortune. Provider of the most extensively documented pattern of gifts to a sitting Supreme Court justice in modern American history: $4.75 million+ to [[_Clarence Thomas Master Profile|Clarence Thomas]] over 30+ years [Source: [Senate Judiciary Committee: Ethical Crisis at the Supreme Court](https://www.judiciary.senate.gov/supreme-court-ethics) *(source unavailable)* (Tier 1)]. Gifts include: superyacht cruises, private jet flights on Bombardier Global 5000, luxury resort access (Bohemian Grove, Adirondacks Camp Topridge, East Texas ranch), real estate purchases ($133K for Thomas's mother's home), boarding school tuition for Thomas's grand-nephew, a $19K Bible, a $15K Lincoln bust. Collector of Nazi memorabilia (signed "Mein Kampf," Hitler paintings, Nazi insignia linens). Seed funder of Liberty Central ($500K. Ginni Thomas/[[Leonard Leo|Leonard Leo]] organization). $100K+ to Leo's Teneo Network. Refused to comply with Senate Judiciary Committee subpoena [Source: [ProPublica: Senate investigation of Crow and Leo gifts](https://www.propublica.org/article/clarence-thomas-harlan-crow-private-jet-flights-senate-investigation-scotus) (Tier 2)].
 
 ---
 
 ### What They Want
 
-Deregulation of real estate and financial markets. Reduced government oversight of commercial development. Tax policy favorable to inherited wealth and real estate investment. Favorable judicial interpretation of property rights, regulatory takings, and administrative authority. Crow's business empire — commercial real estate, development, property management — is directly affected by every Supreme Court decision on regulation, taxation, and government authority.
+Deregulation of real estate and financial markets. Reduced government oversight of commercial development. Tax policy favorable to inherited wealth and real estate investment. Favorable judicial interpretation of property rights, regulatory takings, and administrative authority. Crow's business empire, commercial real estate, development, property management, is directly affected by every Supreme Court decision on regulation, taxation, and government authority.
 
 ---
 
@@ -58,13 +58,13 @@ Deregulation of real estate and financial markets. Reduced government oversight 
 
 ### What They've Gotten
 
-Crow's business interests have appeared in or been connected to at least four Supreme Court cases — while Thomas participated without recusing:
+Crow's business interests have appeared in or been connected to at least four Supreme Court cases, while Thomas participated without recusing:
 
-- **Loper Bright v. Raimondo** — regulatory interpretation affecting Crow's real estate operations
-- **CFPB existence challenge** — financial regulation of Crow's business interests
-- **Acheson Hotels v. Laufer** — ADA enforcement affecting commercial real estate
-- **Sackett case** — trade group chaired by Crow Holdings CEO filed amicus brief
-- **2005 architecture firm case** — firm sought $25M+ from Trammell Crow Residential
+- **Loper Bright v. Raimondo**, regulatory interpretation affecting Crow's real estate operations
+- **CFPB existence challenge**, financial regulation of Crow's business interests
+- **Acheson Hotels v. Laufer**. ADA enforcement affecting commercial real estate
+- **Sackett case**, trade group chaired by Crow Holdings CEO filed amicus brief
+- **2005 architecture firm case**, firm sought $25M+ from Trammell Crow Residential
 
 > [!money]
 > The $4.75M in gifts is not philanthropy — it's the cost of maintaining access to a Supreme Court justice whose votes affect billions in real estate value. Crow's real estate empire benefits from every decision weakening regulatory authority, reducing government oversight, and expanding property rights. Thomas has been the Court's most reliable vote for all three. The gifts purchased not a single favorable ruling but a 30-year pattern of favorable jurisprudence — a lifetime subscription to a justice who delivers the donor class's preferred outcomes on every significant property and regulatory case.
@@ -86,7 +86,7 @@ Crow's influence extends well beyond gifts to a single justice. OpenSecrets docu
 | Koch donor network events | Major participant | Multi-year |
 | Cornel West presidential campaign | Donation | 2023 |
 
-The Cornel West donation is the tell — Crow funded a third-party candidate who would siphon votes from Biden/Democrats. This is not ideological; it's strategic disruption.
+The Cornel West donation is the tell. Crow funded a third-party candidate who would siphon votes from Biden/Democrats. This is not ideological; it's strategic disruption.
 
 [Source: [OpenSecrets: Crow Holdings summary](https://www.opensecrets.org/orgs/crow-holdings/summary?id=D000021943) (Tier 1); [CREW: Harlan Crow's dark money connections](https://www.citizensforethics.org/news/analysis/harlan-crows-deep-dark-money-connections/) (Tier 2); [OpenSecrets: Harlan Crow political ramping](https://www.opensecrets.org/news/2023/04/harlan-and-kathy-crow-ramped-up-political-contributions-over-the-decades-since-meeting-u-s-supreme-court-justice-clarence-thomas/) (Tier 2)]
 
@@ -96,17 +96,17 @@ The Cornel West donation is the tell — Crow funded a third-party candidate who
 
 | Date | Event/Contribution | Amount | Policy Action | Time Gap | Outcome |
 |---|---|---|---|---|---|
-| 1996 | Crow meets Clarence and Ginni Thomas | — | Relationship begins | — | 30-year gift pipeline initiated |
+| 1996 | Crow meets Clarence and Ginni Thomas |, | Relationship begins |, | 30-year gift pipeline initiated |
 | 1996–2024 | Cumulative gifts to Clarence Thomas | $4.75M+ | Thomas participates in 10+ cases touching Crow interests without recusing | Multi-decade | Thomas becomes Court's most reliable vote for property rights, deregulation, weakened administrative authority |
 | 2000s | Superyacht cruises, private jet flights, Bohemian Grove access | Hundreds of thousands annually | Thomas fails to disclose gifts on financial disclosure forms | Ongoing | Pattern of non-disclosure enables continued gift flow |
-| 2009 | Crow purchases Thomas's mother's home | $133K | Thomas's mother continues living in home rent-free | — | Real estate transaction between justice and his benefactor |
-| 2010 | Citizens United decided (Thomas votes with majority) | — | Unlimited corporate political spending unleashed | — | Crow's political spending capacity expanded; Crow Holdings PAC spending ramps |
+| 2009 | Crow purchases Thomas's mother's home | $133K | Thomas's mother continues living in home rent-free |, | Real estate transaction between justice and his benefactor |
+| 2010 | Citizens United decided (Thomas votes with majority) |, | Unlimited corporate political spending unleashed |, | Crow's political spending capacity expanded; Crow Holdings PAC spending ramps |
 | 2010–2024 | FEC-reported political spending ramps dramatically | $13.8M post-Citizens United | Republican candidates and PACs funded at scale | Multi-year | Crow contributions increase 400%+ after meeting Thomas vs. before |
-| 2011 | $500K seed funding to Liberty Central (Ginni Thomas/Leo org) | $500K | Conservative judicial advocacy organization launched | — | Crow funds both the justice and the justice's wife's political operations |
-| 2014 | Thomas votes in Republic of Argentina v. NML Capital (Singer case) | — | 7-1 ruling favoring hedge fund creditors over sovereign nations | — | Thomas votes with Crow's donor network interests on financial deregulation |
+| 2011 | $500K seed funding to Liberty Central (Ginni Thomas/Leo org) | $500K | Conservative judicial advocacy organization launched |, | Crow funds both the justice and the justice's wife's political operations |
+| 2014 | Thomas votes in Republic of Argentina v. NML Capital (Singer case) |, | 7-1 ruling favoring hedge fund creditors over sovereign nations |, | Thomas votes with Crow's donor network interests on financial deregulation |
 | 2020–2021 | $100K+ to Teneo Network (Leo organization) | $100K+ | Conservative judicial pipeline maintained | Ongoing | Crow funds Leo, who arranged Alito fishing trip, who coordinates with McConnell on judicial confirmations |
-| 2023 | ProPublica investigation published | — | Senate Judiciary Committee opens investigation | — | Crow refuses voluntary disclosure |
-| 2024-12 | Senate Judiciary Committee report: gifts "no comparison in modern history" | — | Committee votes to subpoena Crow and Leo | — | Crow does not comply with subpoena |
+| 2023 | ProPublica investigation published |, | Senate Judiciary Committee opens investigation |, | Crow refuses voluntary disclosure |
+| 2024-12 | Senate Judiciary Committee report: gifts "no comparison in modern history" |, | Committee votes to subpoena Crow and Leo |, | Crow does not comply with subpoena |
 
 > [!money] The 400% Ramp
 > OpenSecrets documented that Crow's political spending increased 400%+ after meeting Clarence Thomas in 1996. Before Thomas, Crow was a minor Republican donor. After Thomas, Crow became a mega-donor funding the NRSC ($1.1M), SLF ($725K), DonorsTrust (undisclosed), Koch network events, and Liberty Central ($500K). The relationship with Thomas didn't just give Crow access to one justice — it connected him to the entire conservative dark money ecosystem (Leo, Koch, Federalist Society) that Thomas is embedded in. The $4.75M in gifts to Thomas was the entry fee to a network worth billions in favorable jurisprudence.
@@ -142,7 +142,7 @@ The Senate Judiciary Committee's December 2024 report found that Crow's gifts to
 
 > This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.
 
-### Financial Overview (990 Filing — 2023)
+### Financial Overview (990 Filing, 2023)
 <!-- auto:propublica-990 start -->
 | Metric | Amount |
 |--------|--------|

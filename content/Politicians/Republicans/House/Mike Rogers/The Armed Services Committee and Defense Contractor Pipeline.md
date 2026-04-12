@@ -15,7 +15,7 @@ donors: [[Lockheed Martin]] [[Boeing]] [[Northrop Grumman]] [[Raytheon (RTX)|Ray
 
 ### The Defense Committee Fundraising Engine
 
-Mike Rogers chairs the House Armed Services Committee — the authorizing committee that determines which weapons systems get built, which military bases stay open, and which defense contractors receive multi-billion-dollar procurement contracts. Rogers represents Alabama's 3rd District, home to Anniston Army Depot and adjacent to Redstone Arsenal — the Army's primary missile defense and technology center.
+Mike Rogers chairs the House Armed Services Committee, the authorizing committee that determines which weapons systems get built, which military bases stay open, and which defense contractors receive multi-billion-dollar procurement contracts. Rogers represents Alabama's 3rd District, home to Anniston Army Depot and adjacent to Redstone Arsenal, the Army's primary missile defense and technology center.
 
 Rogers' donor profile is a textbook case of Committee Jurisdiction as Fundraising Engine: defense PACs (Lockheed Martin, Boeing, Northrop Grumman, Raytheon) are his top contributors in every cycle. The companies that depend on his committee for contract authorization fund his campaigns. The pipeline is direct and unmediated.
 
@@ -23,7 +23,7 @@ Rogers' donor profile is a textbook case of Committee Jurisdiction as Fundraisin
 
 ### The Authorization-to-Contribution Cycle
 
-The Armed Services Committee authorizes the National Defense Authorization Act (NDAA) annually — an $886 billion bill in FY2024. Rogers' committee determines which weapons programs receive funding authorization, which procurement contracts are approved, and which military construction projects proceed. Every defense contractor in America has a direct financial interest in Rogers' decisions.
+The Armed Services Committee authorizes the National Defense Authorization Act (NDAA) annually, an $886 billion bill in FY2024. Rogers' committee determines which weapons programs receive funding authorization, which procurement contracts are approved, and which military construction projects proceed. Every defense contractor in America has a direct financial interest in Rogers' decisions.
 
 The contribution cycle is predictable: defense PACs contribute to Rogers' campaign, Rogers authorizes their programs in the NDAA, the programs generate contract revenue, and a portion of that revenue flows back through PAC contributions for the next cycle. The feedback loop is self-sustaining and has operated continuously since Rogers joined the committee.
 
@@ -34,7 +34,7 @@ The contribution cycle is predictable: defense PACs contribute to Rogers' campai
 
 ### The Alabama Defense Economy
 
-Alabama's defense economy gives Rogers constituent-service cover for what is fundamentally a contractor-serving function. Redstone Arsenal employs 44,000+ workers. Anniston Army Depot employs 4,000+. When Rogers authorizes a missile defense program, he can truthfully claim he's creating jobs in his district. The jobs are real; the structural function — channeling taxpayer dollars through defense contractors whose PACs fund his campaigns — is the part that stays unspoken.
+Alabama's defense economy gives Rogers constituent-service cover for what is fundamentally a contractor-serving function. Redstone Arsenal employs 44,000+ workers. Anniston Army Depot employs 4,000+. When Rogers authorizes a missile defense program, he can truthfully claim he's creating jobs in his district. The jobs are real; the structural function, channeling taxpayer dollars through defense contractors whose PACs fund his campaigns, is the part that stays unspoken.
 
 ---
 

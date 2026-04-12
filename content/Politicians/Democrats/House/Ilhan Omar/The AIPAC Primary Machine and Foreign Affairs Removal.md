@@ -15,9 +15,9 @@ donors: [[AIPAC - American Israel Public Affairs Committee|AIPAC]] (opposition)
 
 ### The Foreign Affairs Removal
 
-In January 2023, House Republicans voted 218–211 along party lines to pass H.Res.76 — removing Omar from the Foreign Affairs Committee. The stated justification was Omar's 2019 comments about AIPAC's influence ("it's all about the Benjamins"), which had been criticized as antisemitic by members of both parties. Omar had apologized and issued clarifications; the removal came four years later, after Republicans gained the House majority under Speaker Kevin McCarthy.
+In January 2023, House Republicans voted 218–211 along party lines to pass H.Res.76, removing Omar from the Foreign Affairs Committee. The stated justification was Omar's 2019 comments about AIPAC's influence ("it's all about the Benjamins"), which had been criticized as antisemitic by members of both parties. Omar had apologized and issued clarifications; the removal came four years later, after Republicans gained the House majority under Speaker Kevin McCarthy.
 
-The removal was retaliatory in structure but served multiple interests simultaneously. Republicans gained a partisan win. The Israel lobby gained the removal of its most vocal critic from the committee with direct jurisdiction over US foreign policy toward Israel and Palestine. And many mainstream Democrats were privately relieved: Omar's committee position gave institutional weight to Palestine advocacy, which created friction with the party's donor base. The removal achieved AIPAC's legislative objective without requiring AIPAC to spend a dollar — Republican congressional power did the work that primary spending was designed to accomplish.
+The removal was retaliatory in structure but served multiple interests simultaneously. Republicans gained a partisan win. The Israel lobby gained the removal of its most vocal critic from the committee with direct jurisdiction over US foreign policy toward Israel and Palestine. And many mainstream Democrats were privately relieved: Omar's committee position gave institutional weight to Palestine advocacy, which created friction with the party's donor base. The removal achieved AIPAC's legislative objective without requiring AIPAC to spend a dollar. Republican congressional power did the work that primary spending was designed to accomplish.
 
 The vote aligned exactly with party lines. Speaker McCarthy faced initial defections but whipped members back into line; Rep. Victoria Spartz flipped her vote to yes after a meeting with McCarthy. Zero Democrats voted for removal.
 
@@ -27,7 +27,7 @@ The vote aligned exactly with party lines. Speaker McCarthy faced initial defect
 
 The 2022 Democratic primary in Minnesota's 5th Congressional District became one of the most expensive House primaries in the country. Omar faced former Minneapolis City Council member Don Samuels, backed by pro-Israel donors and AIPAC's super PAC, the United Democracy Project (UDP).
 
-The UDP spent approximately $350,000 directly in the race, with additional six-figure outside spending from allied pro-Israel donors. Omar won — but only by 2,500 votes, a 2.15-point margin (50.35% vs. 48.2%). In a safe blue district where she had won her 2020 primary by 18 points, the near-miss was a significant warning signal.
+The UDP spent approximately $350,000 directly in the race, with additional six-figure outside spending from allied pro-Israel donors. Omar won, but only by 2,500 votes, a 2.15-point margin (50.35% vs. 48.2%). In a safe blue district where she had won her 2020 primary by 18 points, the near-miss was a significant warning signal.
 
 The near-miss had structural value beyond the result: it forced Omar to divert campaign resources from governance to primary defense, demonstrated to other members that her seat was vulnerable, and established Samuels as a credible vehicle for future challenges.
 
@@ -38,26 +38,26 @@ The near-miss had structural value beyond the result: it forced Omar to divert c
 
 ### The 2024 Primary: Strategic Withdrawal
 
-AIPAC and the UDP reversed course in 2024 — they largely sat out Omar's rematch against Samuels. By July 2024, AIPAC had given just $25 to Samuels' campaign. The UDP deployed its resources elsewhere, spending $14.6 million against Jamaal Bowman (NY-16) and $8.6 million against Cori Bush (MO-01) — both of whom lost.
+AIPAC and the UDP reversed course in 2024, they largely sat out Omar's rematch against Samuels. By July 2024, AIPAC had given just $25 to Samuels' campaign. The UDP deployed its resources elsewhere, spending $14.6 million against Jamaal Bowman (NY-16) and $8.6 million against Cori Bush (MO-01), both of whom lost.
 
 Omar won the 2024 primary by a 13-point margin, raising $6.6 million to Samuels' $1.4 million.
 
-The strategic logic: AIPAC calculated that Omar's district (one of the most progressive in America, with a large Somali-American community) made her seat structurally harder to flip than Bowman's or Bush's suburban swing districts. Capital deployed against Bowman and Bush had higher expected return on investment. The 2022 near-miss had served its disciplinary purpose — demonstrating vulnerability — without requiring a 2024 follow-through investment.
+The strategic logic: AIPAC calculated that Omar's district (one of the most progressive in America, with a large Somali-American community) made her seat structurally harder to flip than Bowman's or Bush's suburban swing districts. Capital deployed against Bowman and Bush had higher expected return on investment. The 2022 near-miss had served its disciplinary purpose, demonstrating vulnerability, without requiring a 2024 follow-through investment.
 
 ---
 
 ### The 2024 Campaign Finance Landscape: UDP's Scale
 
-AIPAC's United Democracy Project became the dominant outside spender in Democratic primaries in 2024. Total 2024 cycle spending exceeded $95.1 million — more than double the $44 million spent in 2022. The UDP ended 2023 with $40 million in cash on hand, nearly double its total 2022 midterm spend.
+AIPAC's United Democracy Project became the dominant outside spender in Democratic primaries in 2024. Total 2024 cycle spending exceeded $95.1 million, more than double the $44 million spent in 2022. The UDP ended 2023 with $40 million in cash on hand, nearly double its total 2022 midterm spend.
 
 Critically, nearly 46% of AIPAC donations to Democratic candidates came from donors who had given to Republican causes or candidates since 2020. Major UDP contributors included:
 
-- **[[Jan Koum]]** (WhatsApp co-founder) — $5 million
-- **Bernie Marcus** (Home Depot co-founder, Trump donor) — $1 million
-- **[[Paul Singer]]** (hedge fund billionaire, Nikki Haley donor) — $1 million
-- **Bob Kraft** (New England Patriots owner) — $500,000 via LLC
+- **[[Jan Koum]]** (WhatsApp co-founder), $5 million
+- **Bernie Marcus** (Home Depot co-founder, Trump donor), $1 million
+- **[[Paul Singer]]** (hedge fund billionaire, Nikki Haley donor), $1 million
+- **Bob Kraft** (New England Patriots owner), $500,000 via LLC
 
-Republican money flowing through a Democratic-facing super PAC to influence Democratic primary outcomes is a structural feature of AIPAC's operation — not an anomaly. The "bipartisan" framing conceals a unidirectional interest: suppressing Palestine advocacy in the Democratic Party.
+Republican money flowing through a Democratic-facing super PAC to influence Democratic primary outcomes is a structural feature of AIPAC's operation, not an anomaly. The "bipartisan" framing conceals a unidirectional interest: suppressing Palestine advocacy in the Democratic Party.
 
 > [!money]
 > AIPAC's UDP is structurally a Republican-funded instrument for shaping Democratic primary outcomes. When 46% of your "Democratic" super PAC's money comes from Trump and Haley donors, the bipartisan label is cover for a single-issue veto operation. The mechanism: Republican megadonors who cannot vote in Democratic primaries use AIPAC as the conduit to eliminate the Democratic members most aligned with Palestinian rights and most likely to challenge US military aid to Israel. Omar survived in 2024; Bowman and Bush did not. The net result is a Democratic caucus more compliant on Israel policy than the Democratic primary electorate.
@@ -66,7 +66,7 @@ Republican money flowing through a Democratic-facing super PAC to influence Demo
 
 ### The Chilling Effect: What Omar's Case Teaches Other Members
 
-The AIPAC/UDP strategy's primary product is not the defeat of individual members — it is the silence of members who are watching. Every Democrat in a potentially competitive primary district has seen the 2022 Omar near-miss, the 2024 Bowman and Bush defeats, and the $95+ million AIPAC deployed in a single cycle.
+The AIPAC/UDP strategy's primary product is not the defeat of individual members, it is the silence of members who are watching. Every Democrat in a potentially competitive primary district has seen the 2022 Omar near-miss, the 2024 Bowman and Bush defeats, and the $95+ million AIPAC deployed in a single cycle.
 
 The implicit message: criticize Israeli government policy or oppose military aid packages and face a well-funded, professionally managed primary challenge with national media coverage and Republican money backing your opponent. The financial and political cost of dissent is made explicit through each high-profile challenge.
 
@@ -79,13 +79,13 @@ The implicit message: criticize Israeli government policy or oppose military aid
 
 Omar's removal was part of a broader Republican pattern targeting progressive critics of Israel policy. In January 2023, Republicans also removed Reps. Adam Schiff and Eric Swalwell from the Intelligence Committee (retaliation for the Trump impeachments) in the same procedural sweep. The Omar removal was the most politically consequential because it stripped jurisdiction over the exact policy area at issue.
 
-The precedent is structural: if a party controls the House, it can remove any member of the minority from any committee at any time on any pretext. The formal floor vote normalizes removal as a disciplinary tool, lowering the barrier for future removals. Democrats had set the precedent themselves in 2021, removing Marjorie Taylor Greene and Paul Gosar from committees — Republicans applied the same tool to Omar.
+The precedent is structural: if a party controls the House, it can remove any member of the minority from any committee at any time on any pretext. The formal floor vote normalizes removal as a disciplinary tool, lowering the barrier for future removals. Democrats had set the precedent themselves in 2021, removing Marjorie Taylor Greene and Paul Gosar from committees. Republicans applied the same tool to Omar.
 
 ---
 
 ### Sources
 
-- [Congress.gov: H.Res.76 — Removing Omar from Foreign Affairs](https://www.congress.gov/bill/118th-congress/house-resolution/76) (Tier 1)
+- [Congress.gov: H.Res.76. Removing Omar from Foreign Affairs](https://www.congress.gov/bill/118th-congress/house-resolution/76) (Tier 1)
 - [Congress.gov: Ilhan Omar member page](https://www.congress.gov/member/ilhan-omar/O000173) (Tier 1)
 - [FEC Candidate: Ilhan Omar campaign finance summary](https://www.fec.gov/data/candidate/H8MN05239/) (Tier 1)
 - [OpenSecrets: Minnesota District 05 2022 race summary](https://www.opensecrets.org/races/summary?cycle=2022&id=MN05) (Tier 1)

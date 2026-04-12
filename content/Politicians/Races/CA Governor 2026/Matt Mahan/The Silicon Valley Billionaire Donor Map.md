@@ -72,7 +72,7 @@ The billionaire donors didn't choose randomly. Mahan offers three things no othe
 
 1. **Opposition to the billionaire tax.** Mahan publicly opposed California's proposed 5% one-time wealth tax before announcing. The billionaires then maxed out. Cause → effect.
 
-2. **Tech industry fluency.** As founder of Causes and Brigade Media, Mahan speaks the industry's language. He's not a politician learning about tech — he's a tech executive who became a politician. The donor class is funding one of its own.
+2. **Tech industry fluency.** As founder of Causes and Brigade Media, Mahan speaks the industry's language. He's not a politician learning about tech, he's a tech executive who became a politician. The donor class is funding one of its own.
 
 3. **Moderate Democratic positioning.** Mahan can win a Democratic primary while opposing progressive taxation. In a top-two primary where Republican-vs-Republican is a statistical possibility (27% chance), Mahan gives billionaires a Democrat they can fund without funding progressive redistribution.
 

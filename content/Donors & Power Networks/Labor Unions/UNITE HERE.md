@@ -50,16 +50,16 @@ audit-a-plus-passed: "2026-04-11"
 
 ### Who They Are
 
-[[UNITE HERE|UNITE HERE]] — approximately 300,000 active members nationally. Hotels, food service, laundry, warehouse, gaming, airports, sports venues. The union of the people who make hospitality function: the workers who clean the rooms, serve the food, wash the linens, pour the drinks, and greet the guests. The most precarious major union workforce in the vault — jobs that disappeared overnight during COVID and came back slowly, with fewer staff expected to do more work.
+[[UNITE HERE|UNITE HERE]], approximately 300,000 active members nationally. Hotels, food service, laundry, warehouse, gaming, airports, sports venues. The union of the people who make hospitality function: the workers who clean the rooms, serve the food, wash the linens, pour the drinks, and greet the guests. The most precarious major union workforce in the vault, jobs that disappeared overnight during COVID and came back slowly, with fewer staff expected to do more work.
 
 ### California locals:
 - **Local 2** (San Francisco/Bay Area): 15,000+ members. President Elizabeth Tapia.
 - **Local 11** (Southern California): 30,000+ members covering hotels, restaurants, airports, sports venues across LA, Orange County, and Arizona. Co-Presidents Ada Briceño, Susan Minato, Kurt Petersen.
 
 ### The Las Vegas model:
-- **Culinary Workers Union Local 226 + Bartenders Local 165:** 60,000 members in Las Vegas/Reno. The largest UNITE HERE affiliate nationally. Members from 178 countries speaking 40+ languages. Unionized the entire casino industry. Runs the largest labor-led independent canvassing program in the country — 1,800 canvassers, 3.5 million+ doors knocked in 2024.
+- **Culinary Workers Union Local 226 + Bartenders Local 165:** 60,000 members in Las Vegas/Reno. The largest UNITE HERE affiliate nationally. Members from 178 countries speaking 40+ languages. Unionized the entire casino industry. Runs the largest labor-led independent canvassing program in the country, 1,800 canvassers, 3.5 million+ doors knocked in 2024.
 
-**Immigrant workforce:** UNITE HERE's membership is majority women and substantially immigrant. Local 355 (Miami airport area) reports 90% of its 7,000 members are immigrants. Over 65% of Miami hotel workers are foreign-born. The union's identity and organizing model are built around immigrant workers — which makes Trump's immigration enforcement apparatus a direct threat to their membership.
+**Immigrant workforce:** UNITE HERE's membership is majority women and substantially immigrant. Local 355 (Miami airport area) reports 90% of its 7,000 members are immigrants. Over 65% of Miami hotel workers are foreign-born. The union's identity and organizing model are built around immigrant workers, which makes Trump's immigration enforcement apparatus a direct threat to their membership.
 
 ---
 
@@ -87,7 +87,7 @@ UNITE HERE expected 80–90% of its 300,000 members to be idled indefinitely dur
 - Business travel down 85%, not expected to recover until 2024
 - Full employment recovery didn't arrive until late 2023/early 2024
 
-The pandemic revealed the structural vulnerability of hospitality workers: their jobs exist only when people travel, eat out, and stay in hotels. When demand drops, they're the first fired. When demand returns, the companies tried to bring back fewer workers at the same workload — which set up the 2024 strike wave.
+The pandemic revealed the structural vulnerability of hospitality workers: their jobs exist only when people travel, eat out, and stay in hotels. When demand drops, they're the first fired. When demand returns, the companies tried to bring back fewer workers at the same workload, which set up the 2024 strike wave.
 
 ---
 
@@ -103,11 +103,11 @@ The largest coordinated hotel strike in American history. This is what happened 
 
 **Core demands across all cities:** Higher wages, fairer workloads, reversal of pandemic-era job cuts (fewer workers doing more rooms), understaffing protections.
 
-**The class analysis:** Hotel room rates hit records in 2024. Hotel company profits hit records. The workers who clean those rooms were being asked to clean more rooms for the same money. The strike was about the gap between what the companies charged and what the workers were paid — the extraction rate.
+**The class analysis:** Hotel room rates hit records in 2024. Hotel company profits hit records. The workers who clean those rooms were being asked to clean more rooms for the same money. The strike was about the gap between what the companies charged and what the workers were paid, the extraction rate.
 
 ---
 
-### Local 11 — The Political Innovator
+### Local 11. The Political Innovator
 
 UNITE HERE Local 11 in Los Angeles runs the most aggressive local-level wage campaign of any union in the vault. Rather than waiting for state or federal legislation, Local 11 files voter initiatives for citywide minimum wages:
 
@@ -117,25 +117,25 @@ UNITE HERE Local 11 in Los Angeles runs the most aggressive local-level wage cam
 - **Long Beach (2024):** Hotel worker minimum wage
 - **Los Angeles:** Filed voter initiative for citywide $25/hour minimum (rising to $30/hour by July 1, 2028)
 
-The strategy: use the ballot initiative process to set wages city by city, creating a patchwork of local minimums that effectively establishes the standard across the region. It's slower than a statewide law but harder for the industry to block — local hospitality workers voting on their own wages in cities where tourism revenue makes the economic case visible.
+The strategy: use the ballot initiative process to set wages city by city, creating a patchwork of local minimums that effectively establishes the standard across the region. It's slower than a statewide law but harder for the industry to block, local hospitality workers voting on their own wages in cities where tourism revenue makes the economic case visible.
 
-**2026 Disney contract fight:** Local 11 held first bargaining session for the 2026 Disney contract in January 2026. Disney theme park workers in Anaheim — the next front.
+**2026 Disney contract fight:** Local 11 held first bargaining session for the 2026 Disney contract in January 2026. Disney theme park workers in Anaheim, the next front.
 
 ---
 
-### The Las Vegas Model — How Union Power Actually Works
+### The Las Vegas Model. How Union Power Actually Works
 
 The Culinary Workers Union Local 226 in Las Vegas is the most powerful local union in America, and understanding why reveals what the other unions in the vault are missing.
 
 **What they did:** Organized the entire casino industry. Every major casino hotel on the Las Vegas Strip and Downtown is unionized. 60,000 members. The union controls the labor supply for the industry that drives Nevada's economy.
 
-**How they maintain power:** Not through PAC spending but through member mobilization. 1,800 canvassers. 3.5 million doors knocked in 2024. The Culinary Union doesn't buy politicians — it delivers elections. Nevada is a swing state, and the union's ground game is the deciding factor in close races. Politicians who cross the Culinary Union lose in Nevada. That's real power — not the transactional relationship that SEIU has with Newsom, but structural leverage over the political process itself.
+**How they maintain power:** Not through PAC spending but through member mobilization. 1,800 canvassers. 3.5 million doors knocked in 2024. The Culinary Union doesn't buy politicians, it delivers elections. Nevada is a swing state, and the union's ground game is the deciding factor in close races. Politicians who cross the Culinary Union lose in Nevada. That's real power, not the transactional relationship that SEIU has with Newsom, but structural leverage over the political process itself.
 
-**Why it works in Vegas and not elsewhere:** Single dominant industry (hospitality/gaming), geographic concentration (the Strip), immigrant workforce with strong community ties, decades of organizational investment. The model is hard to replicate in diversified economies — but it's the proof of concept that union political power can exceed union financial power when organizing is prioritized over donations.
+**Why it works in Vegas and not elsewhere:** Single dominant industry (hospitality/gaming), geographic concentration (the Strip), immigrant workforce with strong community ties, decades of organizational investment. The model is hard to replicate in diversified economies, but it's the proof of concept that union political power can exceed union financial power when organizing is prioritized over donations.
 
 ---
 
-### Class Analysis — The Immigrant Working Class
+### Class Analysis. The Immigrant Working Class
 
 UNITE HERE is the vault's clearest connection between immigration policy and labor economics. When Trump's immigration enforcement apparatus (see: [[Immigration Enforcement - The Detention Economy]]) targets hospitality workers, it's targeting UNITE HERE's membership base.
 
@@ -144,9 +144,9 @@ The class structure:
 - **Hotel workers:** Substantially immigrant, majority women, earning service-sector wages. They organize through UNITE HERE to improve those conditions.
 - **Immigration enforcement:** Creates fear that suppresses wages and organizing. A worker who might join the union won't risk it if they're undocumented and ICE is conducting raids in the industry.
 
-The Trump-era paradox: the same administration that fills hotel rooms through business travel and tourism revenue is making it harder for the workers who clean those rooms to organize. The enforcement apparatus doesn't target the hotel owners who hire immigrant workers — it targets the workers themselves.
+The Trump-era paradox: the same administration that fills hotel rooms through business travel and tourism revenue is making it harder for the workers who clean those rooms to organize. The enforcement apparatus doesn't target the hotel owners who hire immigrant workers, it targets the workers themselves.
 
-For [[IBEW - International Brotherhood of Electrical Workers|IBEW]] members: UNITE HERE's organizing model — city-by-city ballot initiatives, industry-wide unionization, voter mobilization over PAC spending — offers a different template than the building trades' traditional approach. The Las Vegas Culinary Union proved that a union can control a local political environment through organizing rather than donations. Could IBEW locals in cities with major construction booms (like the IE's logistics/solar/data center expansion) build a similar model?
+For [[IBEW - International Brotherhood of Electrical Workers|IBEW]] members: UNITE HERE's organizing model, city-by-city ballot initiatives, industry-wide unionization, voter mobilization over PAC spending, offers a different template than the building trades' traditional approach. The Las Vegas Culinary Union proved that a union can control a local political environment through organizing rather than donations. Could IBEW locals in cities with major construction booms (like the IE's logistics/solar/data center expansion) build a similar model?
 
 ---
 

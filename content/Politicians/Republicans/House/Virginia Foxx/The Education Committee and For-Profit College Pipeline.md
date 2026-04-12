@@ -15,7 +15,7 @@ donors: [[Apollo Global Management]] [[Private Equity Industry Bloc]]
 
 ### The For-Profit College Protector
 
-Virginia Foxx chaired the House Education and the Workforce Committee (2023-2025), with jurisdiction over for-profit college regulation, student loan policy, and workforce development. Foxx has been the for-profit college industry's most reliable defender in Congress — opposing the gainful employment rule (which required career programs to demonstrate graduates earned enough to repay their loans), weakening the 90/10 rule (which limits for-profit colleges' dependence on federal financial aid), and blocking the borrower defense to repayment rule (which allows defrauded students to discharge their loans).
+Virginia Foxx chaired the House Education and the Workforce Committee (2023-2025), with jurisdiction over for-profit college regulation, student loan policy, and workforce development. Foxx has been the for-profit college industry's most reliable defender in Congress, opposing the gainful employment rule (which required career programs to demonstrate graduates earned enough to repay their loans), weakening the 90/10 rule (which limits for-profit colleges' dependence on federal financial aid), and blocking the borrower defense to repayment rule (which allows defrauded students to discharge their loans).
 
 The for-profit college industry's business model depends entirely on federal financial aid: students borrow federal money, pay it to for-profit institutions, and the institutions keep the revenue regardless of educational outcomes. The regulatory framework Foxx has weakened was designed to ensure that this pipeline of federal money produced actual educational results.
 
@@ -23,9 +23,9 @@ The for-profit college industry's business model depends entirely on federal fin
 
 ### The Apollo-Foxx Pipeline
 
-Apollo Global Management's investment in APEI (parent of University of Phoenix) makes Apollo the most significant private equity player in for-profit education. Apollo PAC and employees contributed $52,700 to Foxx during the 2023-2024 cycle — the same cycle in which Foxx advanced legislation eliminating the gainful employment rule and weakening accountability standards that constrain for-profit profitability.
+Apollo Global Management's investment in APEI (parent of University of Phoenix) makes Apollo the most significant private equity player in for-profit education. Apollo PAC and employees contributed $52,700 to Foxx during the 2023-2024 cycle, the same cycle in which Foxx advanced legislation eliminating the gainful employment rule and weakening accountability standards that constrain for-profit profitability.
 
-The University of Phoenix — once the largest for-profit university in the country with 460,000 students — has faced FTC investigations, state attorney general lawsuits, and a $191 million FTC settlement for deceptive advertising. Foxx's deregulation efforts protect institutions like Phoenix from the accountability mechanisms that would constrain their extraction of federal student aid dollars.
+The University of Phoenix, once the largest for-profit university in the country with 460,000 students, has faced FTC investigations, state attorney general lawsuits, and a $191 million FTC settlement for deceptive advertising. Foxx's deregulation efforts protect institutions like Phoenix from the accountability mechanisms that would constrain their extraction of federal student aid dollars.
 
 > [!money]
 > The for-profit college pipeline extracts approximately $30 billion annually in federal financial aid. Students borrow; schools collect; taxpayers absorb the defaults. Foxx's committee deregulation ensures the pipeline continues flowing. Apollo's $52,700 contribution to Foxx is the cost of maintaining access to billions in federal revenue. The return on investment is incalculable — not because it's small, but because the entire business model depends on the regulatory framework Foxx controls.

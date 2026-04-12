@@ -37,7 +37,7 @@ audit-a-plus-passed: "2026-04-11"
 
 ### What They Want
 
-Mithril's explicitly stated thesis combines three layers: dual-use technologies serving defense and 16 critical infrastructure sectors; technology transfer from university research teams; and revenue clarity from federal marketplace procurement pathways. The fund targets companies at scale-up stage—beyond startup phase but before public markets. Portfolio construction prioritizes federal government as anchor customer, making defense contracts and intelligence agency relationships primary value drivers. [Mithril Capital - Building to Last](https://www.mithril.com/) (Tier 3)
+Mithril's explicitly stated thesis combines three layers: dual-use technologies serving defense and 16 critical infrastructure sectors; technology transfer from university research teams; and revenue clarity from federal marketplace procurement pathways. The fund targets companies at scale-up stage, beyond startup phase but before public markets. Portfolio construction prioritizes federal government as anchor customer, making defense contracts and intelligence agency relationships primary value drivers. [Mithril Capital - Building to Last](https://www.mithril.com/) (Tier 3)
 
 > [!money]
 > **The Federal Pathway:** Mithril's dual-use thesis explicitly chains academic innovation → federal procurement → commercial scale. This is technology pipeline design with government contracts as the guaranteed customer. Companies backed by Thiel's ideology, capitalized at scale, and positioned to bid for classified work.
@@ -61,14 +61,14 @@ Mithril's explicitly stated thesis combines three layers: dual-use technologies 
 - GreyOrange: Robotics and automation for supply chain/infrastructure. [Mithril Capital Management Portfolio Investments](https://www.cbinsights.com/investor/mithril-capital-management) (Tier 3)
 - Nuvia: Processor design. Acquired by Qualcomm. [Mithril Capital Management Portfolio Investments](https://www.cbinsights.com/investor/mithril-capital-management) (Tier 3)
 
-**Palantir:** Thiel uses Mithril to hold both Class A and supervoting Class B shares in [[Palantir Technologies|Palantir Technologies]]—his flagship defense contractor. Gives Thiel voting control over the company's strategic direction while maintaining venture fund structure. [Mithril Capital - Wikipedia](https://en.wikipedia.org/wiki/Mithril_Capital) (Tier 2)
+**Palantir:** Thiel uses Mithril to hold both Class A and supervoting Class B shares in [[Palantir Technologies|Palantir Technologies]], his flagship defense contractor. Gives Thiel voting control over the company's strategic direction while maintaining venture fund structure. [Mithril Capital - Wikipedia](https://en.wikipedia.org/wiki/Mithril_Capital) (Tier 2)
 
 ---
 
 ### What They've Gotten
 
 ### Market Returns:
-- Auris acquisition ($3.4B sale price): Represents the clearest case of venture thesis working—healthcare innovation + federal interest + massive exit. [Mithril Capital Management – Info, Investments & Portfolio](https://vc-mapping.gilion.com/vc-firms/mithril-capital-management) (Tier 3)
+- Auris acquisition ($3.4B sale price): Represents the clearest case of venture thesis working, healthcare innovation + federal interest + massive exit. [Mithril Capital Management – Info, Investments & Portfolio](https://vc-mapping.gilion.com/vc-firms/mithril-capital-management) (Tier 3)
 - Nuvia acquisition by Qualcomm: Defense-relevant processor technology. [Mithril Capital Management Portfolio Investments](https://www.cbinsights.com/investor/mithril-capital-management) (Tier 3)
 
 ### Strategic Positioning:
@@ -83,7 +83,7 @@ Mithril's explicitly stated thesis combines three layers: dual-use technologies 
 
 ### Thiel's Ideological Pipeline
 
-Mithril functions as infrastructure for Thiel's political economy vision. Companies backed by the fund tend to reflect three Thiel priorities: (1) defense technology independent of Pentagon bureaucracy (BlackSky, Helion—intelligence/energy solutions outside traditional contracting); (2) biotech/medical innovation with zero regulatory friction (Invivyd, Auris); (3) dual-use technologies that don't distinguish between civilian and defense markets (robotics, software platforms, processors).
+Mithril functions as infrastructure for Thiel's political economy vision. Companies backed by the fund tend to reflect three Thiel priorities: (1) defense technology independent of Pentagon bureaucracy (BlackSky, Helion, intelligence/energy solutions outside traditional contracting); (2) biotech/medical innovation with zero regulatory friction (Invivyd, Auris); (3) dual-use technologies that don't distinguish between civilian and defense markets (robotics, software platforms, processors).
 
 The fund's Texas headquarters and focus on federal procurement pathways align with Thiel's movement toward Republican alliance-building and DOGE (Department of Government Efficiency) influence. Companies in Mithril's portfolio become assets in a larger project to redirect federal spending toward Thiel-aligned contractors.
 

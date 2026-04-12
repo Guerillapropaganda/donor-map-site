@@ -25,7 +25,7 @@ donors:: [[AIPAC - American Israel Public Affairs Committee]] [[United Democracy
 
 In the March 2026 Illinois Democratic House primaries, AIPAC deployed a new model for donor concealment: shell PACs with anodyne names that disguise the actual source of funding.
 
-The strategy works like this: AIPAC's super PAC arm, [[United Democracy Project - UDP|United Democracy Project]] (UDP), funneled millions into three anonymous groups. These groups were created specifically for the 2026 Illinois primaries, operated by AIPAC affiliates, and given names designed to obscure their purpose and funding source. Voters saw ads from "Elect Chicago Women," "Affordable Chicago Now," and "Chicago Progressive Partnership" — and had no way to know these were AIPAC front groups until the FEC filings were published after Election Day. [AIPAC super PAC funded big-spending Illinois groups, as Democratic fights over Israel spread - NBC News](https://www.nbcnews.com/politics/2026-election/aipac-super-pac-funded-illinois-groups-democratic-primaries-israel-rcna264379) (Tier 2)
+The strategy works like this: AIPAC's super PAC arm, [[United Democracy Project - UDP|United Democracy Project]] (UDP), funneled millions into three anonymous groups. These groups were created specifically for the 2026 Illinois primaries, operated by AIPAC affiliates, and given names designed to obscure their purpose and funding source. Voters saw ads from "Elect Chicago Women," "Affordable Chicago Now," and "Chicago Progressive Partnership", and had no way to know these were AIPAC front groups until the FEC filings were published after Election Day. [AIPAC super PAC funded big-spending Illinois groups, as Democratic fights over Israel spread - NBC News](https://www.nbcnews.com/politics/2026-election/aipac-super-pac-funded-illinois-groups-democratic-primaries-israel-rcna264379) (Tier 2)
 
 ### The Three Shell PACs: Structure, Funding, and Activity
 
@@ -46,7 +46,7 @@ Elect Chicago Women spent:
 ### Affordable Chicago Now
 Incorporated days after Elect Chicago Women with an address at a business mailbox rental facility. This setup is specifically designed to minimize physical presence and avoid identification with AIPAC.
 
-Affordable Chicago Now spent nearly $4.4 million supporting [[_Donna Miller Master Profile|Donna Miller]] in the 2nd District. [Super PAC scorecard — how outside spending groups fared in efforts to influence Illinois primary voters - Chicago Sun-Times](https://chicago.suntimes.com/elections/2026/03/18/illinois-primary-super-pac-spending-aipac-cryptocurrency-ai-sports-betting) (Tier 2)
+Affordable Chicago Now spent nearly $4.4 million supporting [[_Donna Miller Master Profile|Donna Miller]] in the 2nd District. [Super PAC scorecard, how outside spending groups fared in efforts to influence Illinois primary voters - Chicago Sun-Times](https://chicago.suntimes.com/elections/2026/03/18/illinois-primary-super-pac-spending-aipac-cryptocurrency-ai-sports-betting) (Tier 2)
 
 ### Chicago Progressive Partnership
 The third AIPAC-linked shell PAC reportedly spent $1.2M+ across the Illinois House primaries. [A voter's guide to the confusing world of super PACs influencing 2026 Illinois primary races - WBEZ Chicago](https://www.wbez.org/government-politics/elections/2026/03/13/super-pacs-influence-2026-illinois-primary-races-glossary) (Tier 2)
@@ -92,7 +92,7 @@ The naming strategy allows AIPAC to:
 
 **Result:** Biss won the Democratic primary despite AIPAC opposition. [Illinois Results: Daniel Biss Beats Kat Abughazaleh in Blow to Left and AIPAC Alike - The Intercept](https://theintercept.com/2026/03/17/illinois-house-senate-primary-results-biss-abughazaleh/) (Tier 2)
 
-**Class Analysis:** Biss's victory is significant. It shows that AIPAC's shell PAC model is not universally successful — voter preference and local political dynamics can still overcome massive outside spending. However, AIPAC won 2 out of 3 races in Illinois, suggesting the strategy is effective enough to be worth repeating nationally.
+**Class Analysis:** Biss's victory is significant. It shows that AIPAC's shell PAC model is not universally successful, voter preference and local political dynamics can still overcome massive outside spending. However, AIPAC won 2 out of 3 races in Illinois, suggesting the strategy is effective enough to be worth repeating nationally.
 
 ### Comparison: 2024 Bowman-Latimer Precedent
 

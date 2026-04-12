@@ -26,7 +26,7 @@ American Water Works is the largest private water utility in the United States. 
 - John Garamendi (D-CA): $5,000
 - Jimmy Panetta (D-CA): $5,000
 - Guy Reschenthaler (R-PA): $5,000
-- Shelley Moore Capito (R-WV, Senate EPW ranking member): $5,000 — **second contribution in consecutive cycles** (Tier 1)
+- Shelley Moore Capito (R-WV, Senate EPW ranking member): $5,000, **second contribution in consecutive cycles** (Tier 1)
 
 **Federal lobbying totals:** $100,000 (2025 Q1); $1.6 million annually (federal and state combined, 2022). (Tier 2)
 
@@ -50,37 +50,37 @@ From 2019 to 2022, manufacturers of PFOA/PFOS ("forever chemicals") and their tr
 > [!contradiction]
 > The PFAS Action Act passed the House twice (2019, 2021) with bipartisan support — then died in the Senate Environment and Public Works Committee. The 17 EPW Republicans received $400,000 from PFAS manufacturers and industry groups. The 10 EPW Democrats received $70,000. Neither amount is coincidental. (Tier 2)
 
-**Shelley Moore Capito, the ranking Republican on EPW, received $85,900 from chemical companies — AND $5,000 from American Water Works in 2024.** She is simultaneously the single most industry-funded legislator on the committee with jurisdiction over both water privatization and PFAS regulation. (Tier 1)
+**Shelley Moore Capito, the ranking Republican on EPW, received $85,900 from chemical companies. AND $5,000 from American Water Works in 2024.** She is simultaneously the single most industry-funded legislator on the committee with jurisdiction over both water privatization and PFAS regulation. (Tier 1)
 
 ### The Legislative Record: Blocking Standards, Enabling Privatization
 
 **Senate EPW kills PFAS liability (2021):** On the day Sen. Thom Tillis (R-NC) cast the deciding vote against a NDAA amendment holding PFAS manufacturers liable for cleanup, DuPont's PAC contributed $1,000. Honeywell followed five days later with $3,000. (Tier 2)
 
-**2021 Infrastructure Bill — what advocates stopped:** The original bipartisan framework proposed public-private partnerships, private activity bonds, and "asset recycling" as water financing mechanisms. Food & Water Watch noted water PPPs carry capital costs five times higher than municipal bonds. Advocates stripped explicit water privatization language from the final bill—but Biden's National Infrastructure Advisory Council Chair, Adebayo Ogunlesi (CEO of an investment bank managing $100 billion in water infrastructure assets), recommended "removing barriers to privatization" in 2023. (Tier 2)
+**2021 Infrastructure Bill, what advocates stopped:** The original bipartisan framework proposed public-private partnerships, private activity bonds, and "asset recycling" as water financing mechanisms. Food & Water Watch noted water PPPs carry capital costs five times higher than municipal bonds. Advocates stripped explicit water privatization language from the final bill, but Biden's National Infrastructure Advisory Council Chair, Adebayo Ogunlesi (CEO of an investment bank managing $100 billion in water infrastructure assets), recommended "removing barriers to privatization" in 2023. (Tier 2)
 
-**State-level victories for private companies:** Rep. Bill Pascrell (D-NJ, Ways and Means) received $2,500 from American Water Works PAC while championing bills eliminating state volume caps on private activity bonds for water infrastructure. New Jersey American Water used 26 lobbyists across four states (2012) to push privatization. In 2015, GOP Governor Chris Christie signed the Water Infrastructure Protection Act — eliminating referendum requirements for water utility sales — after American Water contributed $50,000 to the Republican Governors Association that Christie chaired. (Tier 2)
+**State-level victories for private companies:** Rep. Bill Pascrell (D-NJ, Ways and Means) received $2,500 from American Water Works PAC while championing bills eliminating state volume caps on private activity bonds for water infrastructure. New Jersey American Water used 26 lobbyists across four states (2012) to push privatization. In 2015, GOP Governor Chris Christie signed the Water Infrastructure Protection Act, eliminating referendum requirements for water utility sales, after American Water contributed $50,000 to the Republican Governors Association that Christie chaired. (Tier 2)
 
 ### The Damage Record
 
 **Indianapolis (2002–2010):** Veolia signed a $1.5 billion, 20-year contract. Within one year, customer complaints more than doubled. The city terminated early in 2010, paying Veolia $29 million in fees and $3.5–5.5 million monthly during transition. (Tier 2)
 
-**Pittsburgh (2012–2019):** Veolia received half of every dollar "saved" the city — creating incentive to cut corners. Veolia altered water treatment without state approval; lead levels in Pittsburgh water exceeded federal limits for the first time in history. (Tier 2)
+**Pittsburgh (2012–2019):** Veolia received half of every dollar "saved" the city, creating incentive to cut corners. Veolia altered water treatment without state approval; lead levels in Pittsburgh water exceeded federal limits for the first time in history. (Tier 2)
 
 **Atlanta (2003):** United Water's $428 million, 20-year contract was terminated after five years due to service failures. (Tier 2)
 
-**Research consensus:** A 2022 peer-reviewed study of 500 largest U.S. water systems found private systems charged $186 more annually ($501 vs. $315 for public systems) — with the largest annual effect of any variable in the model. Low-income households in privatized systems spent 1.55% more of income on water. (Tier 2)
+**Research consensus:** A 2022 peer-reviewed study of 500 largest U.S. water systems found private systems charged $186 more annually ($501 vs. $315 for public systems), with the largest annual effect of any variable in the model. Low-income households in privatized systems spent 1.55% more of income on water. (Tier 2)
 
 ### Environmental Justice Failure Across Both Parties
 
 **Jackson, Mississippi (80% Black):** The city's 2022 water crisis left 150,000 without safe water. Republican Governor Tate Reeves (as state treasurer in 2011) opposed state funding for Jackson water infrastructure as "fiscal conservatism." The state then distributed $10 billion in ARPA and infrastructure funds to water projects while Jackson remained underfunded. (Tier 2)
 
-**Flint, Michigan (57% Black):** Michigan's emergency manager law (2011) removed elected officials in majority-Black cities — Flint, Detroit, Pontiac, Benton Harbor — replacing them with state appointees accountable only to the governor. Emergency managers cut $80 million from environmental protection spending (2013–2014), making privatization appear necessary. One emergency manager switched the city to untreated Flint River water, violating the federal Lead and Copper Rule. (Tier 2)
+**Flint, Michigan (57% Black):** Michigan's emergency manager law (2011) removed elected officials in majority-Black cities. Flint, Detroit, Pontiac, Benton Harbor, replacing them with state appointees accountable only to the governor. Emergency managers cut $80 million from environmental protection spending (2013–2014), making privatization appear necessary. One emergency manager switched the city to untreated Flint River water, violating the federal Lead and Copper Rule. (Tier 2)
 
-**Baltimore:** Tax lien foreclosures for unpaid water bills disproportionately affected Black residents (70% of those affected were Black). Grassroots organizing stopped privatization and passed the Water Accountability and Equity Act (2019) — against initial Democratic city tolerance. (Tier 2)
+**Baltimore:** Tax lien foreclosures for unpaid water bills disproportionately affected Black residents (70% of those affected were Black). Grassroots organizing stopped privatization and passed the Water Accountability and Equity Act (2019), against initial Democratic city tolerance. (Tier 2)
 
 ### The EPA Erosion
 
-The Office of Water operates on approximately $426 million annually. EPA workforce fell from 17,278 (2010) to 14,130 (2025) — losing nearly 3,200 staff. The Trump FY2020 budget proposed cutting EPA from $8.8 billion to $6.1 billion (31% reduction), including $301 million from Drinking Water SRF and $574 million from Clean Water SRF. Republican House appropriations committees proposed reducing EPA to $6.17 billion (2024) — 39% below enacted levels. (Tier 1)
+The Office of Water operates on approximately $426 million annually. EPA workforce fell from 17,278 (2010) to 14,130 (2025), losing nearly 3,200 staff. The Trump FY2020 budget proposed cutting EPA from $8.8 billion to $6.1 billion (31% reduction), including $301 million from Drinking Water SRF and $574 million from Clean Water SRF. Republican House appropriations committees proposed reducing EPA to $6.17 billion (2024), 39% below enacted levels. (Tier 1)
 
 Reduced enforcement capacity makes private management appear more necessary. This is structural design, not accident.
 

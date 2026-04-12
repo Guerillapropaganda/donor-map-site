@@ -19,7 +19,7 @@ Newsom's most significant and least contested education achievement is the expan
 
 **Historical context:** California's Transitional Kindergarten program was created in 2010 under Jerry Brown, originally limited to children born between September and December who just missed the kindergarten enrollment cutoff. By 2018, only approximately 100,000 children statewide were enrolled in TK.
 
-**Newsom's expansion:** In his 2021 budget, Newsom began phasing in a universal expansion — opening TK eligibility to all 4-year-olds on a rolling timeline:
+**Newsom's expansion:** In his 2021 budget, Newsom began phasing in a universal expansion, opening TK eligibility to all 4-year-olds on a rolling timeline:
 - 2021-2022: Ages 4 born by Sept. 1 eligible
 - 2022-2023: Ages 4 born by August 2 eligible
 - 2023-2024: Ages 4 born by July 2 eligible
@@ -31,8 +31,8 @@ By the 2025–2026 school year, all California 4-year-olds were eligible for a f
 
 ---
 
-### This Is a Real Win — Apply the Class Lens Anyway
-**Why it matters for working-class families.** Private preschool in California costs $15,000–$25,000 per year in most urban areas. Wealthy and upper-middle-class families have always had access to high-quality pre-K. Working-class families have relied on patchwork Head Start programs, underfunded subsidized childcare, or nothing. Universal TK provides a free, publicly funded year of structured early education to children who would otherwise not have had it. The research on early childhood education outcomes — particularly for low-income children — is robust. This policy helps working-class children materially.
+### This Is a Real Win. Apply the Class Lens Anyway
+**Why it matters for working-class families.** Private preschool in California costs $15,000–$25,000 per year in most urban areas. Wealthy and upper-middle-class families have always had access to high-quality pre-K. Working-class families have relied on patchwork Head Start programs, underfunded subsidized childcare, or nothing. Universal TK provides a free, publicly funded year of structured early education to children who would otherwise not have had it. The research on early childhood education outcomes, particularly for low-income children, is robust. This policy helps working-class children materially.
 
 **The implementation gap.** The expansion has faced significant implementation challenges: not enough credentialed TK teachers, facilities that weren't built to accommodate the influx, and quality that varies widely by district. The gap between "universal eligibility" and "universal quality access" is real. Wealthy districts expanded smoothly; lower-income districts struggled with staffing and space. Credit the policy; scrutinize the implementation.
 
@@ -49,34 +49,34 @@ By the 2025–2026 school year, all California 4-year-olds were eligible for a f
 ---
 
 ### Class Analysis: Who Benefits First
-Even on genuine wins, the class distribution matters. TK expansion has been fastest and highest-quality in districts with more resources — existing facilities, established early education infrastructure, better-compensated teachers. The children in the wealthiest districts in California gain access to high-quality pre-K. The children in the poorest districts gain access to pre-K that may be underfunded, understaffed, and in inadequate facilities.
+Even on genuine wins, the class distribution matters. TK expansion has been fastest and highest-quality in districts with more resources, existing facilities, established early education infrastructure, better-compensated teachers. The children in the wealthiest districts in California gain access to high-quality pre-K. The children in the poorest districts gain access to pre-K that may be underfunded, understaffed, and in inadequate facilities.
 
-This is not an argument against universal pre-K. It's an argument that universal eligibility without equitable resource distribution produces unequal outcomes — and that the children who need it most may be getting the worst version of it.
+This is not an argument against universal pre-K. It's an argument that universal eligibility without equitable resource distribution produces unequal outcomes, and that the children who need it most may be getting the worst version of it.
 
 ---
 
 ### Analytical Patterns
 
-**The Genuine Win + Structural Limit** — TK expansion delivered real, measurable access to early education for hundreds of thousands of children who would otherwise not have had it. The program works. The structural limit is that equitable implementation was not prioritized: wealthy districts absorbed the expansion smoothly; low-income districts struggled with staffing, facilities, and quality. The research on TK quality shows that the best outcomes accrue in well-resourced districts. This is not an argument against universal TK; it's an argument that universal access without equitable resource distribution produces unequal outcomes.
+**The Genuine Win + Structural Limit**. TK expansion delivered real, measurable access to early education for hundreds of thousands of children who would otherwise not have had it. The program works. The structural limit is that equitable implementation was not prioritized: wealthy districts absorbed the expansion smoothly; low-income districts struggled with staffing, facilities, and quality. The research on TK quality shows that the best outcomes accrue in well-resourced districts. This is not an argument against universal TK; it's an argument that universal access without equitable resource distribution produces unequal outcomes.
 
-**The Pilot Program** — The phase-in timeline (starting with Sept. 1 birth cutoff, slowly expanding) is consistent with a scaled rollout, but it also meant that TK took eight years to reach full implementation across Newsom's tenure. A faster, larger investment in infrastructure upfront (teacher training, facility building) would have prepared the system for universal access from day one. Instead, the gradual rollout meant years of implementation gaps in lower-income districts.
+**The Pilot Program**. The phase-in timeline (starting with Sept. 1 birth cutoff, slowly expanding) is consistent with a scaled rollout, but it also meant that TK took eight years to reach full implementation across Newsom's tenure. A faster, larger investment in infrastructure upfront (teacher training, facility building) would have prepared the system for universal access from day one. Instead, the gradual rollout meant years of implementation gaps in lower-income districts.
 
-**The Two-Audience Problem** — To working-class families and progressive audiences, TK is "free, high-quality early education." To business audiences and education reformers, TK is framed as "job readiness" and "early intervention for at-risk populations." The same policy program is universalist to the former audience and targeted/remedial to the latter. This framing shapes which populations are prioritized for quality resources.
+**The Two-Audience Problem**. To working-class families and progressive audiences, TK is "free, high-quality early education." To business audiences and education reformers, TK is framed as "job readiness" and "early intervention for at-risk populations." The same policy program is universalist to the former audience and targeted/remedial to the latter. This framing shapes which populations are prioritized for quality resources.
 
 ### Timeline
 
 | Date | Event | Key Players | Amount | Significance |
 |------|-------|-------------|--------|--------------|
-| 2010 | Jerry Brown creates Transitional Kindergarten program; limited to children born Sept-Dec who miss kindergarten cutoff | Gov. Jerry Brown, CA legislature | 100K enrollment baseline | Establishes TK as a narrow program Newsom will later expand — policy infrastructure predates his governorship |
-| 2018 | TK enrollment remains ~100K statewide; no expansion under prior governors despite growing early education research | Prior governors, CA Dept. of Education | No expansion | Status quo demonstrates political inertia — universal pre-K advocacy existed for years without gubernatorial action |
+| 2010 | Jerry Brown creates Transitional Kindergarten program; limited to children born Sept-Dec who miss kindergarten cutoff | Gov. Jerry Brown, CA legislature | 100K enrollment baseline | Establishes TK as a narrow program Newsom will later expand, policy infrastructure predates his governorship |
+| 2018 | TK enrollment remains ~100K statewide; no expansion under prior governors despite growing early education research | Prior governors, CA Dept. of Education | No expansion | Status quo demonstrates political inertia, universal pre-K advocacy existed for years without gubernatorial action |
 | 2019-01 | Newsom inaugurated; campaign promises include education expansion and early childhood investment | Newsom, CTA, education advocates | Campaign promise | CTA endorsement and campaign support create expectation of TK expansion as policy priority |
-| 2021-06 | Newsom includes $2.1B annual TK expansion in state budget; phase-in begins with Sept. 1 birth cutoff | Newsom, CA legislature, CTA | $2.1B annually | Major budget commitment — CTA wins new credentialed teacher positions and union membership expansion; working-class families gain free pre-K access |
+| 2021-06 | Newsom includes $2.1B annual TK expansion in state budget; phase-in begins with Sept. 1 birth cutoff | Newsom, CA legislature, CTA | $2.1B annually | Major budget commitment. CTA wins new credentialed teacher positions and union membership expansion; working-class families gain free pre-K access |
 | 2021–2022 | TK Phase 1: expanded to 4-year-olds born by Sept. 1; enrollment increases from 100K to ~150K | CA school districts, new TK teachers | 50K new students | Rollout reveals implementation gap: wealthy districts absorb expansion smoothly; low-income districts face staffing and facility shortages from day one |
-| 2022–2023 | TK Phase 2: eligibility extended to ages 4 born by Aug. 2; enrollment reaches ~200K | CA school districts, CDE | 50K new students | Two-tier quality pattern solidifies — credentialed teachers concentrate in well-resourced districts; 35-40% staffing gaps reported in low-income districts |
-| 2023–2024 | TK Phase 3: eligibility extended to ages 4 born by July 2; enrollment reaches ~280K | CA school districts, CDE | 80K new students | Acceleration phase — largest single-year enrollment jump; facility retrofitting still incomplete in underfunded districts |
-| 2024–2025 | Full universal implementation: all California 4-year-olds eligible for TK; enrollment reaches 350K+ | Newsom, CDE, all CA school districts | 70K new students | California becomes most populous state with near-universal pre-K — genuine policy win for 250K+ children who would otherwise lack access |
-| 2025 | State audits reveal uneven quality: wealthy districts have certified teachers and new facilities; low-income districts report chronic staffing gaps and shared facilities | State auditors, CDE, district administrators | Implementation gaps documented | The class distribution of quality contradicts "universal" framing — universal eligibility without equitable resource distribution produces unequal outcomes |
-| 2026-03 | TK evaluation: access expanded dramatically but quality remains unequal; childcare for ages 0-3 remains chronically underfunded ($800M actual vs. $3.2B needed) | Newsom (legacy), CDE, childcare advocates | $2.4B annual gap (0-3 care) | Mixed legacy — genuine win on 4-year-old access; structural failure on equitable quality; childcare cliff for younger children unaddressed |
+| 2022–2023 | TK Phase 2: eligibility extended to ages 4 born by Aug. 2; enrollment reaches ~200K | CA school districts, CDE | 50K new students | Two-tier quality pattern solidifies, credentialed teachers concentrate in well-resourced districts; 35-40% staffing gaps reported in low-income districts |
+| 2023–2024 | TK Phase 3: eligibility extended to ages 4 born by July 2; enrollment reaches ~280K | CA school districts, CDE | 80K new students | Acceleration phase, largest single-year enrollment jump; facility retrofitting still incomplete in underfunded districts |
+| 2024–2025 | Full universal implementation: all California 4-year-olds eligible for TK; enrollment reaches 350K+ | Newsom, CDE, all CA school districts | 70K new students | California becomes most populous state with near-universal pre-K, genuine policy win for 250K+ children who would otherwise lack access |
+| 2025 | State audits reveal uneven quality: wealthy districts have certified teachers and new facilities; low-income districts report chronic staffing gaps and shared facilities | State auditors, CDE, district administrators | Implementation gaps documented | The class distribution of quality contradicts "universal" framing, universal eligibility without equitable resource distribution produces unequal outcomes |
+| 2026-03 | TK evaluation: access expanded dramatically but quality remains unequal; childcare for ages 0-3 remains chronically underfunded ($800M actual vs. $3.2B needed) | Newsom (legacy), CDE, childcare advocates | $2.4B annual gap (0-3 care) | Mixed legacy, genuine win on 4-year-old access; structural failure on equitable quality; childcare cliff for younger children unaddressed |
 
 ### Funding and Resource Distribution
 
@@ -95,7 +95,7 @@ This is not an argument against universal pre-K. It's an argument that universal
 
 - [California Department of Education: TK expansion timeline and enrollment data](https://www.cde.ca.gov/ci/gs/tk/) (Tier 1)
 - [California Legislative Analyst's Office: TK funding and implementation analysis](https://lao.ca.gov/reports/2022/education/transitional-kindergarten) (Tier 1)
-- [CalMatters: California transitional kindergarten — Moving too fast?](https://calmatters.org/category/education/2022/11/california-transitional-kindergarten/) (Tier 2)
+- [CalMatters: California transitional kindergarten. Moving too fast?](https://calmatters.org/category/education/2022/11/california-transitional-kindergarten/) (Tier 2)
 - [EdSource: TK quality and staffing gaps in low-income districts](https://edsource.org/2023/california-transitional-kindergarten-expansion-quality) (Tier 2)
 - [California Department of Finance: 2025 Education Budget Summary](https://dof.ca.gov/budget/) (Tier 1)
 - [CREDO Stanford: Early Childhood Education Outcomes by District Wealth](https://credo.stanford.edu/2024-california-tk-outcomes) (Tier 2)

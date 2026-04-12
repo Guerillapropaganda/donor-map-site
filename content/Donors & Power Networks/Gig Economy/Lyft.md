@@ -81,49 +81,49 @@ audit-a-plus-passed: "2026-04-11"
 
 ### What They Want
 
-— Independent contractor classification for all drivers
-— No gig worker protections at state or federal level
-— Prop 22 preserved and defended in courts
-— Favorable insurance regulations (achieved 2025)
-— No federal reclassification through the PRO Act
+, Independent contractor classification for all drivers
+, No gig worker protections at state or federal level
+, Prop 22 preserved and defended in courts
+, Favorable insurance regulations (achieved 2025)
+, No federal reclassification through the PRO Act
 
 ---
 
 ### Who They Fund
 
-**Prop 22 campaign (2020)** — Lyft contributed $49.0 million to Yes on Prop 22, the third-largest individual contributor behind Uber ($59.5M) and [[DoorDash|DoorDash]] ($52.1M). [Source: Ballotpedia / Cal-Access — Tier 1]
+**Prop 22 campaign (2020)**. Lyft contributed $49.0 million to Yes on Prop 22, the third-largest individual contributor behind Uber ($59.5M) and [[DoorDash|DoorDash]] ($52.1M). [Source: Ballotpedia / Cal-Access. Tier 1]
 
-**Prop 22 legal defense** — Lyft, along with [[DoorDash|DoorDash]] and Instacart, funded the legal defense when Prop 22 was challenged in court through to the California Supreme Court's July 2024 ruling upholding the measure. [Source: Ballotpedia — Tier 1]
+**Prop 22 legal defense**. Lyft, along with [[DoorDash|DoorDash]] and Instacart, funded the legal defense when Prop 22 was challenged in court through to the California Supreme Court's July 2024 ruling upholding the measure. [Source: Ballotpedia. Tier 1]
 
-**Prop 30 (2022)** — Lyft spent over $8 million supporting Prop 30, a climate/transportation tax measure that Newsom publicly opposed. This is one of the few instances where Lyft broke from the governor rather than aligning with him — though notably it was on a measure that would have subsidized EV infrastructure (benefiting Lyft's fleet transition), not on labor protections. [Source: CalMatters — Tier 2]
+**Prop 30 (2022)**. Lyft spent over $8 million supporting Prop 30, a climate/transportation tax measure that Newsom publicly opposed. This is one of the few instances where Lyft broke from the governor rather than aligning with him, though notably it was on a measure that would have subsidized EV infrastructure (benefiting Lyft's fleet transition), not on labor protections. [Source: CalMatters. Tier 2]
 
 ### California lobbying:
-— 2019: $930,000 in lobbying spending (AB5 legislative session)
-— 2020: $760,000 in lobbying spending
-— Combined Uber/Lyft lobbying during AB5 debates: approximately $900,000
-[Source: OpenSecrets / LA Times — Tier 2]
+, 2019: $930,000 in lobbying spending (AB5 legislative session)
+, 2020: $760,000 in lobbying spending
+, Combined Uber/Lyft lobbying during AB5 debates: approximately $900,000
+[Source: OpenSecrets / LA Times. Tier 2]
 
-**[[_Gavin Newsom Master Profile|Gavin Newsom]]** — No significant direct contributions to Newsom campaigns identified in available public filings. Like Uber, the relationship operates through structural leverage rather than direct payments.
+**[[_Gavin Newsom Master Profile|Gavin Newsom]]**. No significant direct contributions to Newsom campaigns identified in available public filings. Like Uber, the relationship operates through structural leverage rather than direct payments.
 
-**[[Flex Association]]** — Lyft is a co-founding member of the Flex Association (est. 2021), the post-Prop 22 trade association and lobbying group for the gig economy industry, alongside Uber, [[DoorDash|DoorDash]], Grubhub, HopSkipDrive, Instacart, and Shipt. [Source: The Hill — Tier 2]
+**[[Flex Association]]**. Lyft is a co-founding member of the Flex Association (est. 2021), the post-Prop 22 trade association and lobbying group for the gig economy industry, alongside Uber, [[DoorDash|DoorDash]], Grubhub, HopSkipDrive, Instacart, and Shipt. [Source: The Hill. Tier 2]
 
-**Federal PAC:** Lyft Inc PAC raised $22,469 in the 2023-2024 federal cycle — notably small compared to Uber's operation. Lyft's political spending is concentrated at the California state level. [Source: OpenSecrets — Tier 1]
+**Federal PAC:** Lyft Inc PAC raised $22,469 in the 2023-2024 federal cycle, notably small compared to Uber's operation. Lyft's political spending is concentrated at the California state level. [Source: OpenSecrets. Tier 1]
 
 ---
 
 ### What They've Gotten
 
-— Prop 22 passed November 2020. Drivers remain independent contractors.
-— California Supreme Court upheld Prop 22 as constitutional, July 2024 — Lyft funded the legal defense that achieved this.
-— Newsom silent during the Prop 22 campaign. [See: [[Prop 22 - The $200M Corporate Rollback]]]
-— September 2025: Newsom signed a bill reducing required rideshare insurance from $1 million to $60,000 per person / $300,000 per incident — a direct cost reduction for Lyft's California operations.
-— September 2025: Newsom signed "union rights" bill that lets drivers organize while remaining contractors — preserving the Prop 22 framework Lyft paid $49M to secure.
+, Prop 22 passed November 2020. Drivers remain independent contractors.
+, California Supreme Court upheld Prop 22 as constitutional, July 2024. Lyft funded the legal defense that achieved this.
+, Newsom silent during the Prop 22 campaign. [See: [[Prop 22 - The $200M Corporate Rollback]]]
+, September 2025: Newsom signed a bill reducing required rideshare insurance from $1 million to $60,000 per person / $300,000 per incident, a direct cost reduction for Lyft's California operations.
+, September 2025: Newsom signed "union rights" bill that lets drivers organize while remaining contractors, preserving the Prop 22 framework Lyft paid $49M to secure.
 
 ---
 
 ### Investor / Network Connections
 
-Lyft's investor base includes [[Marc Andreessen & Horowitz|Andreessen Horowitz]], Fidelity, and Alphabet (Google). The Andreessen Horowitz connection is particularly worth tracking — a16z is one of the most politically active VC firms in Silicon Valley and has funded multiple California-adjacent policy operations, including direct political spending through its own influence network.
+Lyft's investor base includes [[Marc Andreessen & Horowitz|Andreessen Horowitz]], Fidelity, and Alphabet (Google). The Andreessen Horowitz connection is particularly worth tracking, a16z is one of the most politically active VC firms in Silicon Valley and has funded multiple California-adjacent policy operations, including direct political spending through its own influence network.
 
 Logan Green and John Zimmer personal political donations: No significant California political contributions identified. John Zimmer donated $1 million to ACLU (national). Co-founders donated 1.5+ million shares to National Philanthropic Trust. Their political engagement runs through the company's institutional channels rather than personal donations.
 
@@ -131,18 +131,18 @@ Logan Green and John Zimmer personal political donations: No significant Califor
 
 ### Enemies / Opposition
 
-— [[SEIU - Service Employees International Union|SEIU]] — led No on 22 campaign
-— [[California Labor Federation|California Labor Federation]] — opposed Prop 22
-— Gig Workers Collective — frontline worker organizing
-— AB5 author Lorena Gonzalez
+, [[SEIU - Service Employees International Union|SEIU]], led No on 22 campaign
+, [[California Labor Federation|California Labor Federation]], opposed Prop 22
+, Gig Workers Collective, frontline worker organizing
+, AB5 author Lorena Gonzalez
 
 ---
 
 ### Connected Policy Areas
 
-Labor — AB5, Prop 22, gig worker classification, Flex Association
-Insurance/liability — 2025 insurance reduction bill
-Climate/EV — Prop 30 ($8M spent, Newsom opposed)
+Labor. AB5, Prop 22, gig worker classification, Flex Association
+Insurance/liability, 2025 insurance reduction bill
+Climate/EV. Prop 30 ($8M spent, Newsom opposed)
 
 ---
 

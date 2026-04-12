@@ -57,7 +57,7 @@ audit-a-plus-passed: "2026-04-11"
 
 RTX Corporation (rebranded from Raytheon Technologies in 2023 after the Raytheon-United Technologies merger in April 2020) stands as one of the world's largest aerospace and defense contractors. The company reported $88.6 billion in total sales in 2025, up 10% year-over-year, with a $268 billion total backlog including $107 billion in defense programs. RTX is headquartered in Arlington, Virginia, and operates three primary business units: Raytheon (missiles, air defense, radar systems), Collins Aerospace (avionics, life support, communications), and Pratt & Whitney (aircraft engines, including the F135 powering every F-35). The company is the #2 Pentagon contractor by total contract value, receiving $145 billion in federal contracts from 2020-2024 alone.
 
-RTX produces the weapons systems that define American military power projection: Tomahawk cruise missiles, AMRAAM air-to-air missiles, Standard Missile-6 interceptors, Stinger missiles, Patriot air defense systems, and the sensor/radar systems integrated into virtually every U.S. and allied weapons platform. RTX's political operation parallels its weapons production: $3.87 million in PAC contributions (2024), $13.5 million in annual lobbying, and a revolving door so pronounced that two of its executives became Secretary of Defense — one under each party. The company holds a 20-year, $50 billion umbrella contract with the Pentagon for Patriot systems, production, spare parts, and support.
+RTX produces the weapons systems that define American military power projection: Tomahawk cruise missiles, AMRAAM air-to-air missiles, Standard Missile-6 interceptors, Stinger missiles, Patriot air defense systems, and the sensor/radar systems integrated into virtually every U.S. and allied weapons platform. RTX's political operation parallels its weapons production: $3.87 million in PAC contributions (2024), $13.5 million in annual lobbying, and a revolving door so pronounced that two of its executives became Secretary of Defense, one under each party. The company holds a 20-year, $50 billion umbrella contract with the Pentagon for Patriot systems, production, spare parts, and support.
 
 ---
 
@@ -67,7 +67,7 @@ RTX produces the weapons systems that define American military power projection:
 
 **Multi-year production contracts:** The February 2026 munitions agreements lock in production for up to 7 years, representing the defense contractor's ideal: guaranteed revenue streams insulated from political cycles. RTX secured landmark multi-year agreements to dramatically increase output: Tomahawk production to 1,000+ annually, AMRAAM to 1,900+, and Standard Missile-6 to 500+. The company raised factory capital investment from $2.6 billion to $3.1 billion to support this surge.
 
-**Conflict escalation as revenue driver:** Each Tomahawk cruise missile fired costs $1.5-2 million to replace. Each AMRAAM expended in combat creates replacement demand. RTX stock hit an all-time high of $214.50 on March 3, 2026 — the first trading day after U.S. strikes on Iran. The February 2026 production agreements were signed before the Iran strikes began, positioning the company for war before it started.
+**Conflict escalation as revenue driver:** Each Tomahawk cruise missile fired costs $1.5-2 million to replace. Each AMRAAM expended in combat creates replacement demand. RTX stock hit an all-time high of $214.50 on March 3, 2026, the first trading day after U.S. strikes on Iran. The February 2026 production agreements were signed before the Iran strikes began, positioning the company for war before it started.
 
 **Revolving door preservation:** RTX's structural advantage depends on former executives holding government positions and former government officials joining RTX. Any reform of the revolving door threatens the company's access pipeline and decision-making influence.
 
@@ -91,7 +91,7 @@ RTX operates a substantial federal lobbying apparatus with the Senior VP for Glo
 | 2024 | RTX Corp | $13.51M |
 | 2025 | RTX Corp | $3.66M (Q1 only) |
 
-The 2020 merger with United Technologies caused a near-tripling of reported lobbying spend as the combined entity consolidated filings. 2021 was a record year at $15.4 million, coinciding with the Ukraine weapons debate and the post-January 6 period. Raytheon Technologies ranked #11 among all U.S. lobbying spenders in 2021, one of only two defense contractors in the top 20. An estimated 78-87% of RTX's registered lobbyists in any given year are "revolvers" — former government officials. RTX's primary lobbying targets include National Defense Authorization Acts, Department of Defense Appropriations Acts, FAA Reauthorization, Intelligence Authorization Acts, AUKUS Submarine Transfer Authorization, and tax codes related to R&D credits.
+The 2020 merger with United Technologies caused a near-tripling of reported lobbying spend as the combined entity consolidated filings. 2021 was a record year at $15.4 million, coinciding with the Ukraine weapons debate and the post-January 6 period. Raytheon Technologies ranked #11 among all U.S. lobbying spenders in 2021, one of only two defense contractors in the top 20. An estimated 78-87% of RTX's registered lobbyists in any given year are "revolvers", former government officials. RTX's primary lobbying targets include National Defense Authorization Acts, Department of Defense Appropriations Acts, FAA Reauthorization, Intelligence Authorization Acts, AUKUS Submarine Transfer Authorization, and tax codes related to R&D credits.
 
 > [!money]
 > RTX spent $13.51 million on lobbying in 2024. The company holds a $50 billion 20-year umbrella contract with the Pentagon. In February 2026 alone, RTX secured multi-year production agreements worth billions (Tomahawk, AMRAAM, SM-6). The lobbying investment is 0.027% of the umbrella contract value. No other industry achieves this return on political spending because no other industry's customers are legally obligated to buy from a handful of vendors.
@@ -114,9 +114,9 @@ Combined PAC and individual employee contributions in 2024 totaled $3.87 million
 Most serve on Armed Services, Appropriations, Intelligence, or Foreign Affairs committees:
 
 ### House Armed Services Committee Members:
-- [[_Mike Rogers Master Profile|Mike Rogers]] (R-AL) — Chair: $10,000
-- [[_Rob Wittman Master Profile|Rob Wittman]] (R-VA) — Vice Chair
-- [[_Adam Smith Master Profile|Adam Smith]] (D-WA) — Ranking Member: $10,000
+- [[_Mike Rogers Master Profile|Mike Rogers]] (R-AL). Chair: $10,000
+- [[_Rob Wittman Master Profile|Rob Wittman]] (R-VA). Vice Chair
+- [[_Adam Smith Master Profile|Adam Smith]] (D-WA). Ranking Member: $10,000
 - [[_Salud Carbajal Master Profile|Salud Carbajal]] (D-CA): $10,000
 - [[_Seth Moulton Master Profile|Seth Moulton]] (D-MA): $10,000
 
@@ -126,15 +126,15 @@ Most serve on Armed Services, Appropriations, Intelligence, or Foreign Affairs c
 - [[_Mike Simpson Master Profile|Mike Simpson]] (R-ID): $10,000
 
 ### House Leadership:
-- [[_Mike Johnson Master Profile|Mike Johnson]] (R-LA) — Speaker: $10,000
-- [[_Steve Scalise Master Profile|Steve Scalise]] (R-LA) — Majority Leader
-- [[_Hakeem Jeffries Master Profile|Hakeem Jeffries]] (D-NY) — Minority Leader: $10,000
-- [[_Katherine Clark Master Profile|Katherine Clark]] (D-MA) — Minority Whip: $10,000
+- [[_Mike Johnson Master Profile|Mike Johnson]] (R-LA). Speaker: $10,000
+- [[_Steve Scalise Master Profile|Steve Scalise]] (R-LA). Majority Leader
+- [[_Hakeem Jeffries Master Profile|Hakeem Jeffries]] (D-NY). Minority Leader: $10,000
+- [[_Katherine Clark Master Profile|Katherine Clark]] (D-MA). Minority Whip: $10,000
 
 ### Senate Armed Services Committee:
 - [[_Rick Scott Master Profile|Rick Scott]] (R-FL): $8,000
 - [[_Martin Heinrich Master Profile|Martin Heinrich]] (D-NM): $7,500
-- [[_Roger Wicker Master Profile|Roger Wicker]] (R-MS) — Chair: $5,500
+- [[_Roger Wicker Master Profile|Roger Wicker]] (R-MS). Chair: $5,500
 - [[_John Barrasso Master Profile|John Barrasso]] (R-WY): $5,000
 
 ### Armed Services Committee Concentration Pattern:
@@ -143,7 +143,7 @@ Per OpenSecrets' 2023 analysis, the defense sector gave $5.8 million to the 84 m
 
 #### Members of Congress Invested in RTX Stock
 
-A Business Insider investigation (May 2022) found that 20 federal lawmakers had personally invested money in Raytheon Technologies or Lockheed Martin stock, which had nearly doubled in value since the March 2020 market crash, as those lawmakers debated sending weapons to Ukraine. Current holdings tracked by OpenSecrets include [[_Mark Meadows Master Profile|Mark Meadows]] (R) — $15,001-$50,000 and [[_Greg Gianforte Master Profile|Greg Gianforte]] (R) — $23,769.
+A Business Insider investigation (May 2022) found that 20 federal lawmakers had personally invested money in Raytheon Technologies or Lockheed Martin stock, which had nearly doubled in value since the March 2020 market crash, as those lawmakers debated sending weapons to Ukraine. Current holdings tracked by OpenSecrets include [[_Mark Meadows Master Profile|Mark Meadows]] (R), $15,001-$50,000 and [[_Greg Gianforte Master Profile|Greg Gianforte]] (R), $23,769.
 
 ---
 
@@ -180,11 +180,11 @@ Recent annual RTX government payments (trailing 12 months from March 2026) total
 
 #### The $152 Billion One-Year Burn
 
-The Pentagon plans to spend the entire $152 billion reconciliation defense allocation in a single fiscal year (FY2026). The allocation includes $25 billion for munitions replenishment (Tomahawk, AMRAAM — RTX's primary focus), $24.4 billion for Golden Dome missile defense (RTX prime contractor), and remaining billions for aircraft, vehicles, and facilities. The unprecedented one-year burn rate guarantees that defense contractors receive the money before any future Congress could claw it back.
+The Pentagon plans to spend the entire $152 billion reconciliation defense allocation in a single fiscal year (FY2026). The allocation includes $25 billion for munitions replenishment (Tomahawk, AMRAAM. RTX's primary focus), $24.4 billion for Golden Dome missile defense (RTX prime contractor), and remaining billions for aircraft, vehicles, and facilities. The unprecedented one-year burn rate guarantees that defense contractors receive the money before any future Congress could claw it back.
 
 ---
 
-### The Revolving Door — Two Defense Secretaries
+### The Revolving Door. Two Defense Secretaries
 
 RTX holds a unique distinction: it has placed executives in the Secretary of Defense position under both parties, demonstrating the company's access across the political spectrum.
 
@@ -209,13 +209,13 @@ RTX holds a unique distinction: it has placed executives in the Secretary of Def
 #### Mark Esper (Trump Administration 1.0, 2017-2020)
 
 ### Timeline:
-- 2010-2017: Vice President for Government Relations at Raytheon Company — top corporate lobbyist
+- 2010-2017: Vice President for Government Relations at Raytheon Company, top corporate lobbyist
 - During this period, Raytheon posted record federal lobbying spending, peaking in 2013 at $7.6 million
 - Named top corporate lobbyist by The Hill in 2015 and 2016
 - 2017: Nominated by President Trump as Secretary of the Army; confirmed 90-8
 - 2019-2020: Secretary of Defense (July 23, 2019 – November 9, 2020)
 
-**Significance:** Esper was Raytheon's registered lobbyist for 7 years, directly advocating for defense budgets and missile systems before becoming the nation's top defense official. During Senate confirmation, he **refused to commit to recusing himself from decisions involving Raytheon** beyond the legally required 2 years, prompting a fierce exchange with Sen. Elizabeth Warren. Esper worked on acquisition policy and missile systems in 2016 — the very programs he would later oversee as Defense Secretary.
+**Significance:** Esper was Raytheon's registered lobbyist for 7 years, directly advocating for defense budgets and missile systems before becoming the nation's top defense official. During Senate confirmation, he **refused to commit to recusing himself from decisions involving Raytheon** beyond the legally required 2 years, prompting a fierce exchange with Sen. Elizabeth Warren. Esper worked on acquisition policy and missile systems in 2016, the very programs he would later oversee as Defense Secretary.
 
 #### William Lynn III (Obama Administration, 2009-2011)
 
@@ -223,14 +223,14 @@ RTX holds a unique distinction: it has placed executives in the Secretary of Def
 - 2003-2008: Senior Vice President and top lobbyist for Raytheon Company
 - January 2009: President Obama nominates Lynn as Deputy Secretary of Defense (the #2 position)
 - This appointment violated Obama's own ethics executive order banning lobbyists from working on issues related to their former employers for 2 years
-- Obama issued a **special waiver** for Lynn — the first waiver granted under the new ethics rules — drawing immediate criticism from Sen. John McCain and watchdog groups
+- Obama issued a **special waiver** for Lynn, the first waiver granted under the new ethics rules, drawing immediate criticism from Sen. John McCain and watchdog groups
 - February 2009-October 2011: Lynn serves as Deputy Secretary, overseeing day-to-day Pentagon management with broad influence over procurement decisions
 
 #### Bob Work (Pentagon to Raytheon, 2014-2017)
 
 ### Timeline:
 - 2014-July 2017: Deputy Secretary of Defense under Obama and Trump
-- During tenure, oversaw the "Third Offset" technology strategy emphasizing advanced autonomous weapons and AI — systems Raytheon produces
+- During tenure, oversaw the "Third Offset" technology strategy emphasizing advanced autonomous weapons and AI, systems Raytheon produces
 - **August 2017 (less than one month after leaving government):** Work is elected to Raytheon's board of directors
 - CEO Thomas Kennedy stated Work's expertise in defense strategy, advanced technologies, and acquisition reform was directly valuable to Raytheon
 
@@ -244,12 +244,12 @@ RTX holds a unique distinction: it has placed executives in the Secretary of Def
 - May 2019: Pompeo issues emergency declaration bypassing congressional objections; Faulkner resigns amid investigations
 - September 2019: Faulkner is rehired by Trump administration despite forced resignation and ongoing investigation
 
-**Impact:** Sen. Bob Menendez had frozen a separate **$2 billion Raytheon sale** of 120,000 precision-guided missiles. The emergency declaration circumvented this legislative hold. House Foreign Affairs Committee deposition testimony revealed State Department officials were "fully aware of ongoing Congressional concerns regarding the Saudi-led coalition — particularly civilian casualties in Yemen — and when they found themselves unable to assuage those concerns, pushed ahead with an 'emergency' justification for the sales."
+**Impact:** Sen. Bob Menendez had frozen a separate **$2 billion Raytheon sale** of 120,000 precision-guided missiles. The emergency declaration circumvented this legislative hold. House Foreign Affairs Committee deposition testimony revealed State Department officials were "fully aware of ongoing Congressional concerns regarding the Saudi-led coalition, particularly civilian casualties in Yemen, and when they found themselves unable to assuage those concerns, pushed ahead with an 'emergency' justification for the sales."
 
 #### Maj. Gen. Mike Boera (Air Force to Raytheon, 2015)
 
 ### Timeline:
-- Served as USAF Director of Programs in the office of the deputy chief of staff for strategic plans and programs — directly shaping which weapons the Air Force buys
+- Served as USAF Director of Programs in the office of the deputy chief of staff for strategic plans and programs, directly shaping which weapons the Air Force buys
 - 2015: Joins Raytheon as Executive of Intelligence, Information and Services division
 - Same year: Air Force awarded Raytheon $2.9 billion in contracts
 
@@ -279,7 +279,7 @@ A Quincy Institute/Jacobin investigation (April 2024) reveals the systemic natur
 
 ---
 
-### Saudi Arabia and Yemen — The Arms Sales Machine
+### Saudi Arabia and Yemen. The Arms Sales Machine
 
 Raytheon has been the primary U.S. munitions supplier to Saudi Arabia's air campaign in Yemen since 2015. The company was the first weapons manufacturer to build a permanent operation in Saudi Arabia in the 1960s, hiring members of the Saudi royal family as consultants. Raytheon opened a Riyadh office in 2017. After the Yemen war began in March 2015, Raytheon's stock price rose from approximately $108 to more than $180 by 2019, reflecting billions in Saudi arms revenue.
 
@@ -288,28 +288,28 @@ Raytheon has been the primary U.S. munitions supplier to Saudi Arabia's air camp
 - Airstrike on family vehicle: Killed 15 members of a single family using Raytheon GBU-12
 - August 2018 (Dahyan school bus massacre): Killing 40 children, linked to Raytheon-manufactured munitions
 
-Per OpenSecrets Yemen case study, Raytheon alone gave over $4.5 million to the campaigns and leadership PACs of senators who voted against blocking sales to Saudi Arabia in December 2021. The company specifically retained lobbyists to work on Saudi Arabia-related issues when Congress attempted to restrict sales. Raytheon's PAC contributions to Congress resumed specifically timed to the legislative calendar on arms sales. David Urban, the lobbyist Raytheon retained for Yemen-related work, was in the same West Point class with Mark Esper and Secretary of State Mike Pompeo — members of the "West Point Mafia" that maintained strong ties and informal coordination on defense policy.
+Per OpenSecrets Yemen case study, Raytheon alone gave over $4.5 million to the campaigns and leadership PACs of senators who voted against blocking sales to Saudi Arabia in December 2021. The company specifically retained lobbyists to work on Saudi Arabia-related issues when Congress attempted to restrict sales. Raytheon's PAC contributions to Congress resumed specifically timed to the legislative calendar on arms sales. David Urban, the lobbyist Raytheon retained for Yemen-related work, was in the same West Point class with Mark Esper and Secretary of State Mike Pompeo, members of the "West Point Mafia" that maintained strong ties and informal coordination on defense policy.
 
 ---
 
-### Ukraine — From Revenue Decline to Revenue Surge
+### Ukraine. From Revenue Decline to Revenue Surge
 
 Raytheon's Missiles & Defense segment experienced four consecutive quarters of revenue decline before Russia's February 2022 invasion of Ukraine. The conflict reversed this trajectory entirely.
 
 ### Weapons supplied to Ukraine:
 - **Stinger** man-portable air defense missiles (replenishment for U.S. Army stocks sent to Ukraine)
 - **Patriot** air and missile defense systems (delivered to Ukraine; Germany, Netherlands, Romania also ordered replacements)
-- **NASAMS** (National Advanced Surface-to-Air Missile Systems) — delivered directly to Ukraine
-- **AMRAAM** (AIM-120) air-to-air missiles — included in multi-nation packages for Ukraine
+- **NASAMS** (National Advanced Surface-to-Air Missile Systems), delivered directly to Ukraine
+- **AMRAAM** (AIM-120) air-to-air missiles, included in multi-nation packages for Ukraine
 - **Javelin** anti-tank missiles (co-manufactured with Lockheed Martin)
 
 **Revenue impact:** By Q4 2022, RMD reversed course with 6% year-on-year sales growth, driven by Ukraine-linked demand. Company backlog grew from $63 billion (end 2021) to $77 billion (mid-2024). In Q2 2022, new orders included $662 million for Stinger missile replenishment for the U.S. Army alone. In Q4 2023, approximately 40% of Raytheon's $6.9 billion in revenues stemmed from Patriot system components (GEM-T missiles).
 
-**The lobbying during the Ukraine debate:** Per Business Insider (May 2022), as Congress debated a $40 billion Ukraine military aid package in April 2022, Raytheon Technologies donated over $51,000 to more than 30 members of Congress. Among the recipients were 8 members of the House Armed Services Committee. RTX also donated $15,000 to the National Republican Senatorial Committee and $2,500 to Speaker Nancy Pelosi. RTX CEO Greg Hayes told investors: "I fully expect we'll see some benefit from it" — referring to the Ukraine conflict as a business opportunity.
+**The lobbying during the Ukraine debate:** Per Business Insider (May 2022), as Congress debated a $40 billion Ukraine military aid package in April 2022, Raytheon Technologies donated over $51,000 to more than 30 members of Congress. Among the recipients were 8 members of the House Armed Services Committee. RTX also donated $15,000 to the National Republican Senatorial Committee and $2,500 to Speaker Nancy Pelosi. RTX CEO Greg Hayes told investors: "I fully expect we'll see some benefit from it", referring to the Ukraine conflict as a business opportunity.
 
 ---
 
-### F-35 Program — Multiple Revenue Streams
+### F-35 Program. Multiple Revenue Streams
 
 Raytheon is not the F-35 prime contractor (that is Lockheed Martin), but RTX supplies four critical F-35 systems, generating revenue from every F-35 built, every hour it flies, and every missile it carries.
 
@@ -337,7 +337,7 @@ In October 2024, Raytheon Company entered into two separate deferred prosecution
 
 **Major Fraud Against the United States (2012-2013 and 2017-2018):** Raytheon employees provided false and fraudulent information to the DOD during contract negotiations for PATRIOT missile systems and radar systems sold to foreign partners, overcharging the DOD by over $111 million. Criminal penalty: $146.8 million; victim compensation: $111.2 million.
 
-**False Claims Act Settlement (2009-2020):** Raytheon knowingly failed to provide truthful cost and pricing data during negotiations on numerous government contracts, violating the Truth in Negotiations Act (TINA). Raytheon admitted to misrepresenting labor and material costs for weapon systems supplied to the DoD. Settlement: $428 million — the second-largest government procurement fraud recovery under the Act at the time.
+**False Claims Act Settlement (2009-2020):** Raytheon knowingly failed to provide truthful cost and pricing data during negotiations on numerous government contracts, violating the Truth in Negotiations Act (TINA). Raytheon admitted to misrepresenting labor and material costs for weapon systems supplied to the DoD. Settlement: $428 million, the second-largest government procurement fraud recovery under the Act at the time.
 
 **Foreign Corrupt Practices Act (FCPA) Violations:** Raytheon employees bribed a government official in Qatar to secure contracts and willfully concealed the bribes in export license applications with the State Department (violating the Arms Export Control Act and ITAR). Criminal penalty: approximately $367 million.
 
@@ -350,27 +350,27 @@ In October 2024, Raytheon Company entered into two separate deferred prosecution
 
 ### Class Analysis
 
-RTX represents the defense sector's structural capture of the American state. The mechanism is not corruption in the traditional sense — it is institutional design embedded in the revolving door, PAC funding, committee concentration, and the interlocking interests of government officials, defense contractors, and shareholders.
+RTX represents the defense sector's structural capture of the American state. The mechanism is not corruption in the traditional sense, it is institutional design embedded in the revolving door, PAC funding, committee concentration, and the interlocking interests of government officials, defense contractors, and shareholders.
 
 **The revolving door is the product, not the accident.** RTX does not merely hire former Pentagon officials. It places its own executives as Secretary of Defense. Esper (Raytheon lobbyist → Defense Secretary) and Austin (Raytheon board → Defense Secretary) represent both parties and demonstrate the company's structural access across the political spectrum. The company does not need to buy political access because it becomes the government. Then contracts flow. Austin oversaw $2.36 billion in Raytheon contracts while pledging recusal. The recusal is the performance; the contracts are the reality.
 
-**War is the business model, literally.** RTX stock hit an all-time high the trading day after U.S. strikes on Iran. Each Tomahawk expended creates a replacement order. Each AMRAAM fired in combat generates demand for the 1,900+/year production line RTX just contracted. The company does not need to advocate for war — it only needs to ensure that when war happens, it is positioned to profit. The February 2026 production agreements were signed before the Iran strikes began. The $200 billion market cap surge matched the Pentagon's $200 billion supplemental request for munitions replenishment, suggesting coordinated expectations.
+**War is the business model, literally.** RTX stock hit an all-time high the trading day after U.S. strikes on Iran. Each Tomahawk expended creates a replacement order. Each AMRAAM fired in combat generates demand for the 1,900+/year production line RTX just contracted. The company does not need to advocate for war, it only needs to ensure that when war happens, it is positioned to profit. The February 2026 production agreements were signed before the Iran strikes began. The $200 billion market cap surge matched the Pentagon's $200 billion supplemental request for munitions replenishment, suggesting coordinated expectations.
 
 **Bipartisan funding is structural insurance.** RTX gives to both parties because it needs both parties. Democratic defense hawks and Republican military expansionists agree on one thing: the money flows to RTX regardless. The $374,000 to election-denying Republicans after a brief post-January-6 "pause" demonstrates the limits of corporate principle when contract renewals are at stake.
 
-**Shareholder returns dwarf other stakeholders.** RTX paid $3.7 billion in dividends and buybacks in 2024 alone and has returned over $33 billion to shareholders since the merger in 2020. The company's largest institutional shareholders are Vanguard, BlackRock, and State Street — asset managers that hold stock on behalf of pension funds, index funds, and wealthy investors. The $950 million fraud settlement in October 2024 was absorbed without any impact on shareholder distributions.
+**Shareholder returns dwarf other stakeholders.** RTX paid $3.7 billion in dividends and buybacks in 2024 alone and has returned over $33 billion to shareholders since the merger in 2020. The company's largest institutional shareholders are Vanguard, BlackRock, and State Street, asset managers that hold stock on behalf of pension funds, index funds, and wealthy investors. The $950 million fraud settlement in October 2024 was absorbed without any impact on shareholder distributions.
 
-**Opportunity cost analysis.** The top five Pentagon contractors received $771 billion over five years (2020-2024) — more than twice the combined $356 billion appropriated for U.S. diplomacy, development, and humanitarian aid over the same period.
+**Opportunity cost analysis.** The top five Pentagon contractors received $771 billion over five years (2020-2024), more than twice the combined $356 billion appropriated for U.S. diplomacy, development, and humanitarian aid over the same period.
 
-**The structural logic loop:** (1) Raytheon lobbies Congress and the Pentagon for higher defense budgets, specific weapons programs, and favorable arms export policies. (2) Congress members who receive Raytheon PAC money sit on committees (Armed Services, Appropriations, Intelligence) that authorize and fund defense programs. (3) The Pentagon buys the weapons Raytheon produces, generating revenue. (4) Senior government officials know that a lucrative post-government career awaits if they are friendly to defense contractors while in office. (5) Raytheon hires those former officials onto its board and lobbying staff, enhancing its access to the next generation of officials. (6) Conflicts arise — a Secretary of Defense must manage $800+ billion in procurement while personally holding stock in a top contractor — which are resolved through recusal pledges of uncertain enforceability. The system produces an institutional bias toward militarized solutions to geopolitical problems. When Raytheon lobbyists and executives sit in government, the analysis that reaches decision-makers tends to favor approaches that require weapons procurement.
+**The structural logic loop:** (1) Raytheon lobbies Congress and the Pentagon for higher defense budgets, specific weapons programs, and favorable arms export policies. (2) Congress members who receive Raytheon PAC money sit on committees (Armed Services, Appropriations, Intelligence) that authorize and fund defense programs. (3) The Pentagon buys the weapons Raytheon produces, generating revenue. (4) Senior government officials know that a lucrative post-government career awaits if they are friendly to defense contractors while in office. (5) Raytheon hires those former officials onto its board and lobbying staff, enhancing its access to the next generation of officials. (6) Conflicts arise, a Secretary of Defense must manage $800+ billion in procurement while personally holding stock in a top contractor, which are resolved through recusal pledges of uncertain enforceability. The system produces an institutional bias toward militarized solutions to geopolitical problems. When Raytheon lobbyists and executives sit in government, the analysis that reaches decision-makers tends to favor approaches that require weapons procurement.
 
 ---
 
 ### Sources
 
-#### Tier 1 — Government Data and Records
+#### Tier 1. Government Data and Records
 
-- [FEC Committee C00097568 — RTX PAC](https://www.fec.gov/data/committee/C00097568/)
+- [FEC Committee C00097568. RTX PAC](https://www.fec.gov/data/committee/C00097568/)
 - [USAspending.gov: RTX Federal Award Recipient Profile](https://www.usaspending.gov/recipient/bb947c1e-56f7-2f71-34d9-b0240c8b117c-P/latest)
 - [DOJ Press Release: $950M Raytheon Settlement](https://www.justice.gov/archives/opa/pr/raytheon-company-pay-over-950m-connection-defective-pricing-foreign-bribery-and-export)
 - [OpenSecrets: RTX Corp Profile](https://www.opensecrets.org/orgs/rtx-corp/summary?id=D000072615) (Tier 1)
@@ -382,7 +382,7 @@ RTX represents the defense sector's structural capture of the American state. Th
 - [RTX 2024 Annual Results](https://raytheon.mediaroom.com/2025-01-28-RTX-Reports-2024-Results-and-Announces-2025-Outlook)
 - [House Foreign Affairs Committee: Faulkner deposition excerpts](https://democrats-foreignaffairs.house.gov/_cache/files/9/7/974fcf1a-f596-4775-b15d-c543996d12fe/E1BDC43C68CEB64B31CF8C5ADB217899.faulkner-excerpts.pdf)
 
-#### Tier 2 — Major Investigative Journalism and Analysis
+#### Tier 2. Major Investigative Journalism and Analysis
 
 - [Quincy Institute: Profits of War: Top Beneficiaries of Pentagon Spending 2020-2024](https://quincyinst.org/research/profits-of-war-top-beneficiaries-of-pentagon-spending-2020-2024/)
 - [OpenSecrets: Armed Services Committee defense sector contributions (March 2023)](https://www.opensecrets.org/news/2023/03/armed-services-committee-members-received-5-8-million-from-defense-sector-during-2022-election-cycle/)
@@ -401,7 +401,7 @@ RTX represents the defense sector's structural capture of the American state. Th
 - [ADHRB: Saudi Arabia arms sales and Faulkner](https://www.adhrb.org/2018/09/us-decision-to-continue-supporting-the-war-in-yemen-led-by-secretary-pompeo-and-former-raytheon-lobbyist/)
 - [Defense News: F-35 EODAS sensor selection](https://www.defensenews.com/air/2018/06/13/raytheon-beats-out-northrop-to-provide-key-f-35-system/)
 
-#### Tier 3 — Secondary Reporting and Reference
+#### Tier 3. Secondary Reporting and Reference
 
 - [Mother Jones: Austin defense industry ties](https://www.motherjones.com/politics/2020/12/lloyd-austin-defense-secretary-raytheon-joe-biden/)
 - [Inside Defense: Austin financial disclosures](https://insidedefense.com/insider/austin-discloses-financial-ties-defense-contractors)

@@ -41,7 +41,7 @@ AFGE (American Federation of Government Employees) is the largest federal employ
 
 Founded in 1932, AFGE operates as a traditional AFL-CIO-affiliated labor union with a political action committee (AFGE-PAC) that donates to Democratic candidates and federal labor protection-friendly Republicans. Annual budget: $100M+; union membership: 700K+; political spending: $2-5M per cycle.
 
-AFGE represents the largest concentration of organized public sector workers in the U.S., making it a primary target for union-weakening initiatives (like Trump's proposed DOGE federal workforce reduction).
+AFGE represents the largest concentration of organized public sector workers in the U.S. making it a primary target for union-weakening initiatives (like Trump's proposed DOGE federal workforce reduction).
 
 ---
 
@@ -49,7 +49,7 @@ AFGE represents the largest concentration of organized public sector workers in 
 
 **Job security and wage protection for federal employees,** defined as:
 
-- Opposition to federal workforce reductions ("RIFs" — Reductions in Force)
+- Opposition to federal workforce reductions ("RIFs". Reductions in Force)
 - Opposition to federal employee compensation reductions
 - Defense of federal employee defined-benefit pension systems
 - Opposition to at-will federal employment (which would allow removal without cause)
@@ -65,13 +65,13 @@ AFGE has explicitly positioned itself as a primary opponent of DOGE (Department 
 
 ### 2024 Political Spending:
 ### Democratic Presidential Candidates:
-- Joe Biden 2020/2024 — primary union supporter ($500K+ direct support + get-out-the-vote mobilization)
+- Joe Biden 2020/2024, primary union supporter ($500K+ direct support + get-out-the-vote mobilization)
 - Endorsed Biden despite union concerns about slow federal hiring under Biden administration
 
 ### Democratic Congressional Candidates:
 - Democratic Senate candidates supporting federal employee protections (~$500K per cycle)
 - Democratic House candidates in districts with significant federal workforce (~$1M per cycle)
-- Democratic candidates in federal hub cities (Washington D.C., Northern Virginia, Maryland, federal centers)
+- Democratic candidates in federal hub cities (Washington D.C. Northern Virginia, Maryland, federal centers)
 
 ### Federal Employee Advocacy:
 - Direct lobbying (in-house and contract lobbyists) on federal pay, benefits, staffing
@@ -118,7 +118,7 @@ AFGE is currently mobilizing full political and legal resources to resist DOGE:
 - Legal challenges to federal workforce reductions
 - Coalition mobilization with Democratic Congress members
 - Media campaigns highlighting federal worker job losses
-- Political organizing in federal hub districts (Northern Virginia, Washington D.C., Maryland)
+- Political organizing in federal hub districts (Northern Virginia, Washington D.C. Maryland)
 
 > [!contradiction]
 > AFGE presents itself as a workers' rights organization defending federal employees against cuts, yet represents a relatively privileged workforce with above-average wages, defined-benefit pensions, and job security (compared to private sector workers). AFGE's advocacy for federal job protection can be framed as either: (1) class solidarity defending working conditions across public sector, or (2) privileged workers defending their relative advantages while less-organized private sector workers lack similar protections. This creates tension between AFGE's universal labor rhetoric and its particularistic defense of federal employee privileges.
@@ -144,7 +144,7 @@ This means AFGE's defense of federal jobs is simultaneously defense of privilege
 
 ---
 
-### Financial Overview (990 Filing — 2023)
+### Financial Overview (990 Filing, 2023)
 <!-- auto:propublica-990 start -->
 
 | Metric | Amount |

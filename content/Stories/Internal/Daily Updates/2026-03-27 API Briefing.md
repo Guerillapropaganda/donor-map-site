@@ -18,7 +18,7 @@ related: "[[Donors & Power Networks Index]] · [[_VAULT_INDEX]]"
 
 ---
 
-### 2026-03-27 — Daily API Briefing
+### 2026-03-27. Daily API Briefing
 
 **Run time:** 2026-03-27 (automated scheduled task)
 **APIs queried:** FEC (BLOCKED), USASpending (✓), Senate LDA (✓)
@@ -26,7 +26,7 @@ related: "[[Donors & Power Networks Index]] · [[_VAULT_INDEX]]"
 
 ---
 
-### ⚠️ FEC API — RATE LIMITED (Action Required)
+### ⚠️ FEC API. RATE LIMITED (Action Required)
 
 **Status:** DEMO_KEY exhausted (40 calls/hour limit hit by prior sessions)
 
@@ -41,18 +41,18 @@ The FEC DEMO_KEY rate limit was exceeded before this run began. No independent e
 
 ---
 
-### Senate LDA — New Lobbying Filings
+### Senate LDA. New Lobbying Filings
 
 **Source:** [Senate LDA API](https://lda.gov/api/v1/filings/?filing_year=2026&page_size=20&ordering=-dt_posted) (Tier 1) (API)
 **Total 2026 filings in database:** 1,475
 
-#### Tracked Entities — Flagged Filings
+#### Tracked Entities. Flagged Filings
 
 ### JPMorgan Chase Holdings LLC
 - **Registrant:** Dentons US LLP
 - **Period:** Q1 2026 (Jan 1 – Mar 31)
 - **Income:** $60,000
-- **Lobbying issues:** Financial Institutions/Investments/Securities — "Issues regarding tax, budget, regulatory reform, general financial services"
+- **Lobbying issues:** Financial Institutions/Investments/Securities, "Issues regarding tax, budget, regulatory reform, general financial services"
 - **Posted:** 2026-03-26
 - **Flag:** JPMorgan is lobbying on "regulatory reform" as the Trump administration pursues bank deregulation. Connects to [[Wall Street]] donor network and ongoing rollback of Dodd-Frank remnants. Wikilink: [[JPMorgan Chase]]
 
@@ -69,18 +69,18 @@ The FEC DEMO_KEY rate limit was exceeded before this run began. No independent e
 | Sysco | Dentons US LLP | $50,000 | (issues not returned) |
 | ConocoPhillips | (new registration) | N/A | Energy/fossil fuel (registration filing) |
 
-**ConocoPhillips new registration flag:** ConocoPhillips filed a new lobbying registration on 2026-03-26 (filing type: RR = Registration). This is the first 2026 registration for this entity. Track for subsequent activity reports — they will file expense reports in subsequent quarters.
+**ConocoPhillips new registration flag:** ConocoPhillips filed a new lobbying registration on 2026-03-26 (filing type: RR = Registration). This is the first 2026 registration for this entity. Track for subsequent activity reports, they will file expense reports in subsequent quarters.
 
 **Dentons US LLP concentration:** Four of the most recently posted Q1 2026 filings are from Dentons, including JPMorgan. Dentons is one of the largest lobby shops in DC. Worth building out a Dentons registrant node to track their full client portfolio.
 
 ---
 
-### USASpending — Federal Contract Activity (March 2026)
+### USASpending. Federal Contract Activity (March 2026)
 
 **Source:** [USASpending API](https://api.usaspending.gov/api/v2/search/spending_by_award/) (Tier 1) (API)
 **Filter:** Award actions dated March 1–27, 2026 | Contract award types A/B/C/D
 
-**Note on data interpretation:** USASpending time_period filters by action date — these are contracts with new obligations, modifications, or task order activity in March 2026, not necessarily new contract starts. Dollar amounts represent the top obligation value on record for those contracts.
+**Note on data interpretation:** USASpending time_period filters by action date, these are contracts with new obligations, modifications, or task order activity in March 2026, not necessarily new contract starts. Dollar amounts represent the top obligation value on record for those contracts.
 
 #### Defense Contractors
 
@@ -92,7 +92,7 @@ The FEC DEMO_KEY rate limit was exceeded before this run began. No independent e
 | DTFAWA10C00052 | Lockheed Martin Services LLC | $488M |
 | (NOAA C-130J production) | Lockheed Martin Corporation | $461M |
 
-- Top contract: External tanks production (NASA Marshall) — $2.87B
+- Top contract: External tanks production (NASA Marshall), $2.87B
 - FAA NextGen trajectory management (aviation infrastructure)
 - NOAA C-130J aircraft modification (4 aircraft, fully modified)
 - Wikilink: [[Lockheed Martin]]
@@ -105,7 +105,7 @@ The FEC DEMO_KEY rate limit was exceeded before this run began. No independent e
 | (STARS) | STARS ATC system, ops sustainment | $232M |
 | (GEO satellite) | GEO 5/6 service leases | $226M |
 
-- **Flag:** Raytheon's $418M FAA radar contract is a non-DOD defense contract — Federal Aviation Administration paying Raytheon to replace air traffic control radar. Classic dual-use defense/civilian infrastructure capture.
+- **Flag:** Raytheon's $418M FAA radar contract is a non-DOD defense contract. Federal Aviation Administration paying Raytheon to replace air traffic control radar. Classic dual-use defense/civilian infrastructure capture.
 - Wikilink: [[Raytheon Technologies]]
 
 ### Northrop Grumman
@@ -113,7 +113,7 @@ The FEC DEMO_KEY rate limit was exceeded before this run began. No independent e
 | Contract | Description | Amount |
 |----------|-------------|--------|
 | (NextSTEP NRA) | NASA NextSTEP deep space habitat | $2.46B |
-| (others) | $1.4B combined | — |
+| (others) | $1.4B combined |, |
 
 - Wikilink: [[Northrop Grumman]]
 
@@ -133,7 +133,7 @@ The FEC DEMO_KEY rate limit was exceeded before this run began. No independent e
 | Contract | Description | Amount |
 |----------|-------------|--------|
 | 47QFCA210051 | Navy/NAWCAD IT task order | $815M |
-| (others) | $843M combined | — |
+| (others) | $843M combined |, |
 
 #### Tech/Cloud Contractors
 
@@ -143,9 +143,9 @@ The FEC DEMO_KEY rate limit was exceeded before this run began. No independent e
 |----------|-------------|--------|
 | HSTXXX0000002144 | Microsoft Azure Stratus (DHS) | $58.5M |
 | (military use) | Military licensing | $11.7M |
-| (other) | $5.1M | — |
+| (other) | $5.1M |, |
 
-- **Flag:** Microsoft Azure Stratus is a DHS cloud contract — Microsoft is the primary cloud provider for Department of Homeland Security. March 2026 activity shows active obligations. Connect to [[Microsoft]] and broader [[Tech & Crypto]] donor network.
+- **Flag:** Microsoft Azure Stratus is a DHS cloud contract. Microsoft is the primary cloud provider for Department of Homeland Security. March 2026 activity shows active obligations. Connect to [[Microsoft]] and broader [[Tech & Crypto]] donor network.
 
 ### Amazon Web Services
 
@@ -165,42 +165,42 @@ The FEC DEMO_KEY rate limit was exceeded before this run began. No independent e
 |----------|-------------|--------|
 | (portfolio mgmt) | IGF portfolio management services | $34.4M |
 
-- Goldman Sachs appears in USASpending as a government contractor for portfolio management services. Connects to revolving door narrative — Goldman alumni running Treasury, Goldman receiving federal contracts.
+- Goldman Sachs appears in USASpending as a government contractor for portfolio management services. Connects to revolving door narrative. Goldman alumni running Treasury, Goldman receiving federal contracts.
 - Wikilink: [[Goldman Sachs]]
 
 ---
 
-### Analytical Flags — Items Requiring Deeper Investigation
+### Analytical Flags. Items Requiring Deeper Investigation
 
 1. **JPMorgan + Regulatory Reform lobbying (HIGH PRIORITY)**
-   - JPMorgan filing Q1 2026 lobbying on regulatory reform while Trump administration dismantles CFPB
-   - Connect to JPMorgan's $1M+ Trump inaugural donation and subsequent deregulatory policy outcomes
-   - Pattern: [[Donor-Class Override]] — deregulation serves donors, harms consumers
-   - Next step: Pull JPMorgan's full 2025-2026 lobbying expenditure history via LDA
+ - JPMorgan filing Q1 2026 lobbying on regulatory reform while Trump administration dismantles CFPB
+ - Connect to JPMorgan's $1M+ Trump inaugural donation and subsequent deregulatory policy outcomes
+ - Pattern: [[Donor-Class Override]], deregulation serves donors, harms consumers
+ - Next step: Pull JPMorgan's full 2025-2026 lobbying expenditure history via LDA
 
 2. **Raytheon FAA Radar Contract (MEDIUM PRIORITY)**
-   - $418M to Raytheon for civilian aviation infrastructure
-   - Pattern: defense contractor capture of non-DOD civilian infrastructure budgets
-   - Next step: Check if Raytheon has donated to Transportation Committee members
+ - $418M to Raytheon for civilian aviation infrastructure
+ - Pattern: defense contractor capture of non-DOD civilian infrastructure budgets
+ - Next step: Check if Raytheon has donated to Transportation Committee members
 
 3. **ConocoPhillips New Registration (MEDIUM PRIORITY)**
-   - New 2026 lobbying registration filed March 26 — track for Q1 expense report
-   - Energy sector lobbying likely tied to pipeline approvals, permit streamlining, LNG exports
-   - Connect to [[Energy & Utilities]] donor network
+ - New 2026 lobbying registration filed March 26, track for Q1 expense report
+ - Energy sector lobbying likely tied to pipeline approvals, permit streamlining, LNG exports
+ - Connect to [[Energy & Utilities]] donor network
 
 4. **Goldman Sachs as Federal Contractor (LOW-MEDIUM)**
-   - Goldman receiving $34M+ federal portfolio management contracts while also being major donor
-   - Donation-to-contract pipeline to investigate: who are the committee members overseeing Treasury/finance contracts?
+ - Goldman receiving $34M+ federal portfolio management contracts while also being major donor
+ - Donation-to-contract pipeline to investigate: who are the committee members overseeing Treasury/finance contracts?
 
 5. **Future of Life Institute lobbying ($90K Q1 2026) (FLAG)**
-   - AI safety nonprofit filing lobbying registrations at $90K/quarter is notable
-   - Future of Life is funded by Elon Musk and other tech billionaires
-   - May be lobbying on AI regulation to shape favorable framework
-   - Not currently in vault — recommend building donor node
+ - AI safety nonprofit filing lobbying registrations at $90K/quarter is notable
+ - Future of Life is funded by Elon Musk and other tech billionaires
+ - May be lobbying on AI regulation to shape favorable framework
+ - Not currently in vault, recommend building donor node
 
 6. **Dentons US LLP client concentration (LOW)**
-   - Dentons filed 4+ new Q1 2026 registrations in a single batch — suggests active expansion of DC lobbying practice
-   - Build out Dentons registrant node to track full client portfolio
+ - Dentons filed 4+ new Q1 2026 registrations in a single batch, suggests active expansion of DC lobbying practice
+ - Build out Dentons registrant node to track full client portfolio
 
 ---
 
@@ -219,10 +219,10 @@ The FEC DEMO_KEY rate limit was exceeded before this run began. No independent e
 
 ### Session Notes
 
-- **FEC DEMO_KEY rate limit** is the primary data gap. This will repeat every daily run until a registered key is obtained. David should register at https://www.fec.gov/developers/ — it's free and provides 1,000 calls/hour.
+- **FEC DEMO_KEY rate limit** is the primary data gap. This will repeat every daily run until a registered key is obtained. David should register at https://www.fec.gov/developers/, it's free and provides 1,000 calls/hour.
 - **LDA API throttling**: The LDA API throttled after ~15 requests. Rate limit appears to be per-minute. The key tracked entity data (JPMorgan, ConocoPhillips) was captured before throttling hit.
 - **USASpending date filtering**: The `action_date` filter is working, but `Awarding Agency Name` and `Award Date` fields are not returned by the API for these records (null). The dollar amounts and contract IDs are valid.
-- **Next run priority**: Once FEC key is registered, the independent expenditure data (schedule_e) is the highest-value pull — super PAC spending patterns are the core of the vault's thesis.
+- **Next run priority**: Once FEC key is registered, the independent expenditure data (schedule_e) is the highest-value pull, super PAC spending patterns are the core of the vault's thesis.
 
 ---
 

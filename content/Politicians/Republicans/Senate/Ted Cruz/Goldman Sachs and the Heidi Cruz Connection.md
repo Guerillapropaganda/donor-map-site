@@ -28,7 +28,7 @@ donors: [[Goldman Sachs]]
 - Total undisclosed: $1.43 million combined
 - **Not reported on FEC filings** as required by federal law
 
-The loans were discovered by the New York Times in 2016 during Cruz's presidential campaign. Cruz described the omission as a "paperwork error." The FEC found that Cruz had failed to properly disclose the loans and imposed a $35,000 fine — a fraction of the undisclosed amount.
+The loans were discovered by the New York Times in 2016 during Cruz's presidential campaign. Cruz described the omission as a "paperwork error." The FEC found that Cruz had failed to properly disclose the loans and imposed a $35,000 fine, a fraction of the undisclosed amount.
 
 > [!contradiction]
 > Cruz ran for Senate in 2012 as a Tea Party insurgent — the outsider who would fight the establishment. His campaign was secretly financed by Goldman Sachs, the institution that most symbolizes the financial establishment. The "paperwork error" defense asks voters to believe that a Harvard Law-educated Supreme Court litigator accidentally forgot to report over a million dollars in loans from his wife's employer. The error wasn't accidental — it was structural. Disclosing Goldman loans would have destroyed the Tea Party brand that Cruz was selling.

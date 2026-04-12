@@ -40,9 +40,9 @@ audit-a-plus-passed: "2026-04-11"
 
 ### Who They Are
 
-Bill Gates. Co-founder of Microsoft, co-chair of the Bill & Melinda Gates Foundation ($75 billion endowment — the largest private foundation in the world), and one of the wealthiest individuals on Earth ($130+ billion net worth, 2024).
+Bill Gates. Co-founder of Microsoft, co-chair of the Bill & Melinda Gates Foundation ($75 billion endowment, the largest private foundation in the world), and one of the wealthiest individuals on Earth ($130+ billion net worth, 2024).
 
-Gates's political influence operates primarily through philanthropy rather than campaign contributions. The Gates Foundation's annual disbursements ($7-8 billion) exceed the budgets of most government agencies and many countries' health ministries. Gates's education spending — $10+ billion over two decades on US K-12 reform, particularly Common Core standards and charter schools — has shaped American education policy more than any elected official.
+Gates's political influence operates primarily through philanthropy rather than campaign contributions. The Gates Foundation's annual disbursements ($7-8 billion) exceed the budgets of most government agencies and many countries' health ministries. Gates's education spending, $10+ billion over two decades on US K-12 reform, particularly Common Core standards and charter schools, has shaped American education policy more than any elected official.
 
 ---
 
@@ -54,9 +54,9 @@ Education reform (charter schools, teacher evaluation, standardized testing), gl
 
 ### What He's Gotten
 
-**Education Policy Capture:** Gates Foundation spending drove the adoption of Common Core State Standards — a $300 million investment in developing, marketing, and implementing the standards across 45 states. The Foundation funded the standards' development, funded advocacy groups that promoted adoption, funded the testing companies that created aligned assessments, and funded the implementation support. The result: a billionaire effectively set national education standards through philanthropic spending rather than democratic process.
+**Education Policy Capture:** Gates Foundation spending drove the adoption of Common Core State Standards, a $300 million investment in developing, marketing, and implementing the standards across 45 states. The Foundation funded the standards' development, funded advocacy groups that promoted adoption, funded the testing companies that created aligned assessments, and funded the implementation support. The result: a billionaire effectively set national education standards through philanthropic spending rather than democratic process.
 
-**Pandemic Response Authority:** During COVID-19, Gates became a de facto global health authority — advising governments, funding vaccine development (CEPI, Coalition for Epidemic Preparedness Innovations), and shaping WHO policy. The Gates Foundation's $10+ billion in WHO funding makes it the second-largest funder of the World Health Organization (after the US government), giving Gates influence over global health priorities commensurate with a nation-state.
+**Pandemic Response Authority:** During COVID-19, Gates became a de facto global health authority, advising governments, funding vaccine development (CEPI, Coalition for Epidemic Preparedness Innovations), and shaping WHO policy. The Gates Foundation's $10+ billion in WHO funding makes it the second-largest funder of the World Health Organization (after the US government), giving Gates influence over global health priorities commensurate with a nation-state.
 
 > [!money]
 > Gates's philanthropic model illustrates how billionaire giving substitutes private priorities for democratic decision-making. The Gates Foundation's education spending ($10+ billion) imposed policy changes — Common Core, charter school expansion, teacher evaluation metrics — that no elected body voted for. The foundation's global health spending ($50+ billion) shapes WHO priorities and pandemic response in ways that no democratic process authorized. Gates pays no taxes on the wealth directed to his foundation (charitable deduction), receives public credit for generosity, and exercises policy authority that exceeds most governments'. Philanthropy at this scale is not charity; it is governance without consent.

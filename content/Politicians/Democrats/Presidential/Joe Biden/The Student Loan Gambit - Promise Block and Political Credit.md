@@ -13,7 +13,7 @@ donors: Higher Education Lobby, [[Student Loan Servicer Industry]], Navient, Bet
 
 ---
 
-### The Student Loan Gambit — Promise Block and Political Credit
+### The Student Loan Gambit. Promise Block and Political Credit
 
 > [!contradiction]
 > September 2022: Biden announces $10K–$20K student loan forgiveness. Projected impact: $170–300B debt relief for 43–45 million borrowers. Total outstanding student debt: $1.77 trillion. Forgiveness covers 9.6–17% of total debt. June 2023: Supreme Court blocks forgiveness in Biden v. Nebraska. Biden's response: claim credit for fighting while pursuing SAVE plan and targeted forgiveness. August 2024: Forgiveness actually delivered: $170B for 4.8M borrowers (0.3% of total debt forgiven through full execution). The structural issue: $1.77 trillion in student debt remains untouched. Loan servicer industry preserved. No tuition reform. Higher education financing model remains intact.
@@ -35,9 +35,9 @@ Forgiveness scope:
 |---|---|---|
 | Non-Pell Grant borrowers | $10,000 | 23 million |
 | Pell Grant recipients | $20,000 | 20 million |
-| Total eligible | — | 43 million |
+| Total eligible |, | 43 million |
 
-This would have been the largest student debt relief in U.S. history. If executed, it would have reduced total student debt from $1.77 trillion to ~$1.60 trillion — an 9.6% reduction.
+This would have been the largest student debt relief in U.S. history. If executed, it would have reduced total student debt from $1.77 trillion to ~$1.60 trillion, an 9.6% reduction.
 
 The political calculation was clear: announce the plan, energize the base before midterm elections, and then execute post-election. Biden's team expected implementation to begin in 2023.
 
@@ -100,14 +100,14 @@ Why? Because Biden did not reform undergraduate tuition or the higher education 
 ### Comparison: Full Structural Reform Would Have Addressed Flow + Stock
 A genuine structural challenge to student debt would have included:
 
-1. **Debt forgiveness** (stock) — what Biden attempted
-2. **Tuition reform** (flow) — what Biden did not pursue
-   - Free public university tuition (proposed by Sanders, not adopted)
-   - Community college free tuition (passed in some states, not federalized)
-   - Reduced federal loan interest rates (not pursued)
-3. **Loan servicer reform** (structure) — what Biden did not pursue
-   - Direct federal loan servicing (eliminating middlemen like Navient)
-   - Reduced default prosecution
+1. **Debt forgiveness** (stock), what Biden attempted
+2. **Tuition reform** (flow), what Biden did not pursue
+ - Free public university tuition (proposed by Sanders, not adopted)
+ - Community college free tuition (passed in some states, not federalized)
+ - Reduced federal loan interest rates (not pursued)
+3. **Loan servicer reform** (structure), what Biden did not pursue
+ - Direct federal loan servicing (eliminating middlemen like Navient)
+ - Reduced default prosecution
 
 Biden's student loan policy addressed the stock problem (existing debt) but did not address the flow problem (new debt generation). Students would still need loans to attend college.
 
@@ -129,7 +129,7 @@ Loan servicers profit from each borrower account. The higher the loan balance, t
 
 A 2023 analysis estimated that Biden's original forgiveness plan would cost servicers ~$1.2 billion in lost annual revenue (43 million borrowers × ~$300/borrower/year in servicing fees).
 
-The loan servicer industry lobbied against Biden's forgiveness plan (though quietly — it's politically unpopular to defend loan servicers). The Supreme Court block prevented this revenue loss from occurring.
+The loan servicer industry lobbied against Biden's forgiveness plan (though quietly, it's politically unpopular to defend loan servicers). The Supreme Court block prevented this revenue loss from occurring.
 
 Biden's SAVE plan, while reducing monthly payments, keeps borrowers in the servicing system for longer (20+ year repayment). This is better for servicers than full forgiveness but worse than the original 25-year repayment timelines.
 
@@ -154,13 +154,13 @@ The higher education industry gave Biden campaign contributions (university trus
 
 ### Analytical Patterns
 
-**The Genuine Win + Structural Limit** — The $170B in forgiveness delivered is real debt relief for 4.8M borrowers. This is not rhetorical. These borrowers will not spend the next decade paying loans, can buy homes, can have children without debt burden. But the structural limit is immediate: $1.60 trillion in remaining debt, students graduating in 2024–2025 with the same debt burdens as 2020. The policy addressed individuals but not the system.
+**The Genuine Win + Structural Limit**. The $170B in forgiveness delivered is real debt relief for 4.8M borrowers. This is not rhetorical. These borrowers will not spend the next decade paying loans, can buy homes, can have children without debt burden. But the structural limit is immediate: $1.60 trillion in remaining debt, students graduating in 2024–2025 with the same debt burdens as 2020. The policy addressed individuals but not the system.
 
-**The Two-Audience Problem** — Biden's rhetoric emphasized fighting the Supreme Court and delivering relief to working people. Behind closed doors, Biden's team avoided pressing for loan servicer industry reform or tuition caps, which would have threatened university and servicer revenue. Progressives celebrated the forgiveness announcements and SAVE plan details. Universities and servicers calculated the net impact on their revenue streams.
+**The Two-Audience Problem**. Biden's rhetoric emphasized fighting the Supreme Court and delivering relief to working people. Behind closed doors, Biden's team avoided pressing for loan servicer industry reform or tuition caps, which would have threatened university and servicer revenue. Progressives celebrated the forgiveness announcements and SAVE plan details. Universities and servicers calculated the net impact on their revenue streams.
 
-**The Pilot Program + Hedging** — SAVE plan is structured as an income-driven repayment alternative, not a replacement for direct forgiveness. This allows Biden to claim that payments are lower without claiming that debt is forgiven. It's a hedge: if the plan fails financially, Biden can revert to older repayment structures. The hedge protects the loan servicer industry's revenue model.
+**The Pilot Program + Hedging**. SAVE plan is structured as an income-driven repayment alternative, not a replacement for direct forgiveness. This allows Biden to claim that payments are lower without claiming that debt is forgiven. It's a hedge: if the plan fails financially, Biden can revert to older repayment structures. The hedge protects the loan servicer industry's revenue model.
 
-**The Supreme Court Blame + Structural Acceptance** — Biden blamed the Supreme Court block for preventing full forgiveness. This is accurate — the Court did block it. But Biden could have responded by proposing tuition reform, direct federal loan servicing, or other structural changes. Instead, Biden accepted the Court's judgment and worked within its boundaries. The structural finance model for higher education was preserved.
+**The Supreme Court Blame + Structural Acceptance**. Biden blamed the Supreme Court block for preventing full forgiveness. This is accurate, the Court did block it. But Biden could have responded by proposing tuition reform, direct federal loan servicing, or other structural changes. Instead, Biden accepted the Court's judgment and worked within its boundaries. The structural finance model for higher education was preserved.
 
 ---
 

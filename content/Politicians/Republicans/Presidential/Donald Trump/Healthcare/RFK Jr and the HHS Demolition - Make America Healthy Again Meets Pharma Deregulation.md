@@ -13,7 +13,7 @@ donors: [[Pharmaceutical Industry|Pharma Industry]]
 
 ---
 
-### RFK Jr. and the HHS Demolition — Make America Healthy Again Meets Pharma Deregulation
+### RFK Jr. and the HHS Demolition. Make America Healthy Again Meets Pharma Deregulation
 
 ### Who Is RFK Jr.
 
@@ -46,7 +46,7 @@ HHS canceled $500 million in federal mRNA vaccine development contracts (COVID, 
 
 ### The Measles Crisis
 
-2025 saw 2,281 confirmed measles cases — the highest in 34 years. First measles-related deaths in 10 years. United States lost its globally recognized measles "elimination status" by early 2026. As of March 2026, 1,100+ confirmed cases reported in 2026 alone with 10 new outbreaks. South Carolina epicenter: 960+ cases. Kennedy ousted all 17 CDC vaccine advisory panel members and replaced them. June 2025: court blocked Kennedy from scaling back childhood vaccine schedule (preliminary injunction maintained through May 2026 pending lawsuit). Kennedy gave "lukewarm endorsement" of measles vaccine during Texas outbreak.
+2025 saw 2,281 confirmed measles cases, the highest in 34 years. First measles-related deaths in 10 years. United States lost its globally recognized measles "elimination status" by early 2026. As of March 2026, 1,100+ confirmed cases reported in 2026 alone with 10 new outbreaks. South Carolina epicenter: 960+ cases. Kennedy ousted all 17 CDC vaccine advisory panel members and replaced them. June 2025: court blocked Kennedy from scaling back childhood vaccine schedule (preliminary injunction maintained through May 2026 pending lawsuit). Kennedy gave "lukewarm endorsement" of measles vaccine during Texas outbreak.
 
 ### The Class Analysis: Two Masters
 

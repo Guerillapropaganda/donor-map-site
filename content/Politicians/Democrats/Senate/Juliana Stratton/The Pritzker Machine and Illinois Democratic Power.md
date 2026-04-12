@@ -37,7 +37,7 @@ The 2026 Senate primary was the first major test of Pritzker's power to anoint a
 
 ### The Scale of Advantage
 
-[[_Juliana Stratton Master Profile|Juliana Stratton]] reported only $2.8 million in direct campaign spending. Her primary opponents (Raja Krishnamoorthi and Robin Kelly) raised more direct campaign funds than she did. She won the primary almost entirely on the back of Super PAC spending—roughly 5:1 ratio of outside money to her own campaign resources.
+[[_Juliana Stratton Master Profile|Juliana Stratton]] reported only $2.8 million in direct campaign spending. Her primary opponents (Raja Krishnamoorthi and Robin Kelly) raised more direct campaign funds than she did. She won the primary almost entirely on the back of Super PAC spending, roughly 5:1 ratio of outside money to her own campaign resources.
 
 **In contrast**: Her opponent Krishnamoorthi was backed by [[Fairshake PAC|Fairshake PAC]] crypto money ($10M+), but this was distributed across the race and less focused on a single candidate. Pritzker's money was laser-focused on one person.
 
@@ -55,7 +55,7 @@ The 2026 Senate primary was the first major test of Pritzker's power to anoint a
 Pritzker faces significant speculation about a 2028 presidential run. He has pointedly refused to rule it out, saying he "can't rule anything out."
 
 ### Strategic benefit of Senate control:
-- According to former U.S. Senator Carol Moseley Braun (quoted March 2026): "Running for the presidency... but the more senators on your side, the better."
+- According to former U.S. Senator Carol Moseley Braun (quoted March 2026): "Running for the presidency.. but the more senators on your side, the better."
 - A senator beholden to Pritzker provides leverage within Democratic caucus and national party circles
 - Illinois Senate seat is safely Democratic; it won't flip regardless of who wins, making it a reliable vehicle for presidential ambitions
 
@@ -88,7 +88,7 @@ The Pritzker machine illustrates how **billionaire governors** operate in modern
 
 ### The Contradiction
 
-Stratton's campaign messaging ("grassroots," "no corporate PACs") was built on top of the most concentrated billionaire spending in the 2026 Illinois primary. Her primary victory was not won through organizing, canvassing, or grassroots fundraising—it was won through personalized wealth concentration from one family.
+Stratton's campaign messaging ("grassroots," "no corporate PACs") was built on top of the most concentrated billionaire spending in the 2026 Illinois primary. Her primary victory was not won through organizing, canvassing, or grassroots fundraising, it was won through personalized wealth concentration from one family.
 
 The irony: Stratton attacked crypto money and industry special interests while accepting Pritzker money, effectively endorsing the principle that billionaire donations are acceptable while corporate PAC money is not.
 
@@ -101,7 +101,7 @@ The irony: Stratton attacked crypto money and industry special interests while a
 - [Pritzker drops $5M to boost Lt. Gov. Juliana Stratton in Senate race](https://capitolnewsillinois.com/news/pritzker-drops-5m-to-boost-lt-gov-juliana-stratton-in-senate-race/) (Capitol News Illinois) (Tier 2)
 - [Illinois Gov. JB Pritzker spends $5 million to boost his pick for Senate in his state](https://www.nbcnews.com/politics/2026-election/illinois-gov-jb-pritzker-spends-5-million-boost-pick-senate-state-rcna257067) (NBC News) (Tier 2)
 - [Inside JB Pritzker's power play in Illinois' Senate primary – and what it means for a 2028 run](https://us.cnn.com/2026/03/18/politics/jb-pritzker-illinois-senate-primary-2028-plans) (CNN, March 18, 2026) (Tier 2)
-- [Illinois results solidify JB Pritzker's 'powerhouse' role — and set up a White House run](https://www.nbcnews.com/politics/2028-election/illinois-results-solidify-jb-pritzkers-powerhouse-role-set-white-house-rcna263890) (NBC News, March 18, 2026) (Tier 2)
+- [Illinois results solidify JB Pritzker's 'powerhouse' role, and set up a White House run](https://www.nbcnews.com/politics/2028-election/illinois-results-solidify-jb-pritzkers-powerhouse-role-set-white-house-rcna263890) (NBC News, March 18, 2026) (Tier 2)
 - [A Democratic fight for an Illinois Senate seat is testing the sway of JB Pritzker, pro-crypto forces and anti-ICE messaging](https://www.cnn.com/2026/03/16/politics/illinois-senate-primary-pritzker-crypto-immigration) (CNN, March 16, 2026) (Tier 2)
 - [JB Pritzker's role in Illinois primary could set the stage for 2028](https://www.ms.now/news/j-b-pritzker-illinois-democrat-senate-primary) (MSN/NBC) (Tier 2)
 - [Pritzker flexes political muscle with Stratton victory amid 2028 chatter](https://thehill.com/homenews/campaign/5789921-pritzker-influence-illinois-senate-stratton-win/) (The Hill, March 2026) (Tier 2)
@@ -110,7 +110,7 @@ The irony: Stratton attacked crypto money and industry special interests while a
 ### Tier 2: Campaign Finance Analysis
 - [Illinois Senate Primary Features Millions in Outside Spending, Too](https://prospect.org/2026/03/17/illinois-senate-primary-super-pac-spending-juliana-stratton-raja-krishnamoorthi/) (American Prospect, March 17, 2026) (Tier 2)
 - [Where big spending won – and lost – in the Illinois primary](https://www.local10.com/news/politics/2026/03/18/where-big-spending-won-and-lost-in-the-illinois-primary/) (Local 10 News, March 18, 2026) (Tier 2)
-- [Super PAC scorecard — how outside spending groups fared in efforts to influence Illinois primary voters](https://www.wbez.org/government-politics/elections/2026/03/18/illinois-primary-super-pac-spending-aipac-cryptocurrency-ai-sports-betting) (WBEZ Chicago, March 18, 2026) (Tier 2)
+- [Super PAC scorecard, how outside spending groups fared in efforts to influence Illinois primary voters](https://www.wbez.org/government-politics/elections/2026/03/18/illinois-primary-super-pac-spending-aipac-cryptocurrency-ai-sports-betting) (WBEZ Chicago, March 18, 2026) (Tier 2)
 
 ### Tier 3: Aggregators
 - [United States Senate election in Illinois, 2026 - Ballotpedia](https://ballotpedia.org/United_States_Senate_election_in_Illinois,_2026) (Ballotpedia) (Tier 3)

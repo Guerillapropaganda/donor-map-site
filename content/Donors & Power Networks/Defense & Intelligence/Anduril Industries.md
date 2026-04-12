@@ -80,7 +80,7 @@ Anduril Industries is a private AI-driven defense contractor founded in 2017 by 
 
 ### What They Want
 
-Anduril wants to disrupt the traditional defense procurement model — replacing slow, cost-plus contracting with Silicon Valley-style rapid iteration. CEO Brian Schimpf has publicly pushed for Pentagon acquisition reform. But the structural incentive is the same as legacy defense contractors: maximize government contract revenue. The company's growth depends on expanding the market for autonomous weapons systems and convincing the Pentagon to shift spending from manned platforms to AI-driven ones. Anduril needs: larger defense budgets, faster procurement timelines, expanded border security spending, and political allies who will champion defense tech innovation.
+Anduril wants to disrupt the traditional defense procurement model, replacing slow, cost-plus contracting with Silicon Valley-style rapid iteration. CEO Brian Schimpf has publicly pushed for Pentagon acquisition reform. But the structural incentive is the same as legacy defense contractors: maximize government contract revenue. The company's growth depends on expanding the market for autonomous weapons systems and convincing the Pentagon to shift spending from manned platforms to AI-driven ones. Anduril needs: larger defense budgets, faster procurement timelines, expanded border security spending, and political allies who will champion defense tech innovation.
 
 ---
 
@@ -101,7 +101,7 @@ Anduril wants to disrupt the traditional defense procurement model — replacing
 - Direct access to Trump administration decision-makers
 
 ### Key contracts:
-- $20B Army enterprise contract (March 2026) — one of the largest defense deals ever awarded to a non-traditional contractor
+- $20B Army enterprise contract (March 2026), one of the largest defense deals ever awarded to a non-traditional contractor
 - $1B SOCOM counter-drone contract
 - $967M Air Force ABMS contract
 
@@ -124,7 +124,7 @@ Anduril wants to disrupt the traditional defense procurement model — replacing
 
 ### Class Analysis
 
-Anduril represents a new model of defense-sector class power: Silicon Valley venture capital fused with the military-industrial complex. The company's $30.5B valuation (pursuing $60B) is built on the premise that software-defined autonomous weapons will replace legacy hardware — transferring defense spending from old-line contractors to VC-backed startups. Palmer Luckey's personal relationship with Trump and the Thiel network connection (via co-founder Trae Stephens) provide political access that money alone can't buy. The $20B Army contract in March 2026 validates the model: political access → procurement reform advocacy → massive contracts. The Ohio Arsenal-1 factory ($900M+) shows this isn't a software company anymore — it's becoming an autonomous weapons manufacturer at industrial scale. The losses ($800M in 2025, $1.2B projected for 2026) don't matter in the VC model; what matters is capturing market share in a sector where the customer (the U.S. government) has a $886B annual defense budget.
+Anduril represents a new model of defense-sector class power: Silicon Valley venture capital fused with the military-industrial complex. The company's $30.5B valuation (pursuing $60B) is built on the premise that software-defined autonomous weapons will replace legacy hardware, transferring defense spending from old-line contractors to VC-backed startups. Palmer Luckey's personal relationship with Trump and the Thiel network connection (via co-founder Trae Stephens) provide political access that money alone can't buy. The $20B Army contract in March 2026 validates the model: political access → procurement reform advocacy → massive contracts. The Ohio Arsenal-1 factory ($900M+) shows this isn't a software company anymore, it's becoming an autonomous weapons manufacturer at industrial scale. The losses ($800M in 2025, $1.2B projected for 2026) don't matter in the VC model; what matters is capturing market share in a sector where the customer (the U.S. government) has a $886B annual defense budget.
 
 > [!contradiction]
 > Anduril positions itself as a disruptor of the "slow, wasteful" defense procurement system. But its business model depends on the same structural feature as legacy contractors: government spending. The company disrupts who gets the contracts, not the system that generates them. Larger defense budgets benefit Anduril as much as they benefit Lockheed Martin.
@@ -150,7 +150,7 @@ Anduril represents a new model of defense-sector class power: Silicon Valley ven
 
 ---
 
-research-status:: draft — Financial profile, valuation history, contract awards, lobbying data, and political connections documented. Gaps: detailed lobbying issue breakdown, Palmer Luckey individual donation records (FEC API needed), Thiel network mapping, complete contract list, Arsenal-1 factory details, revenue projections by contract. FEC API available for Luckey donation records.
+research-status:: draft. Financial profile, valuation history, contract awards, lobbying data, and political connections documented. Gaps: detailed lobbying issue breakdown, Palmer Luckey individual donation records (FEC API needed), Thiel network mapping, complete contract list, Arsenal-1 factory details, revenue projections by contract. FEC API available for Luckey donation records.
 
 ---
 

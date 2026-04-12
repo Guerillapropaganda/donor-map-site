@@ -28,7 +28,7 @@ donors: [[Harlan Crow]]
 | 1990-01-01 | Crow begins annual East Texas ranch retreats for Thomas (exact dates pending) | Unknown | ProPublica/Senate Judiciary |
 | 1990-01-01 | Crow provides annual Bohemian Grove access for Thomas (exact dates pending) | Unknown | ProPublica/Senate Judiciary |
 | 1990-01-01 | Crow begins private jet flights on Bombardier Global 5000 for Thomas (exact dates pending) | Hundreds of thousands | ProPublica/Senate Judiciary |
-| 2005-01-01 | Supreme Court denies cert in architecture firm case; firm sought $25M+ from Trammell Crow Residential; Thomas participated (exact date pending) | — | Supreme Court records |
+| 2005-01-01 | Supreme Court denies cert in architecture firm case; firm sought $25M+ from Trammell Crow Residential; Thomas participated (exact date pending) |, | Supreme Court records |
 | 2014-10-01 | Harlan Crow purchases Thomas's mother's home and two adjacent lots in Savannah, Georgia | $133,363 | Chatham County Real Estate Records |
 | 2014-01-01 | Crow funds renovations to Savannah property (exact date pending) | $36,000+ | ProPublica/Senate Judiciary |
 | 2000-01-01 | Crow funds grand nephew's boarding school tuition (Thomas has full custody; exact dates pending) | Unknown | ProPublica |
@@ -36,8 +36,8 @@ donors: [[Harlan Crow]]
 | 2000-01-01 | Harlan Crow gifts Lincoln bust to Clarence Thomas (exact date pending) | $15,000 | ProPublica |
 | 2019-01-01 | Indonesia trip: Crow provides private jet and 162-foot superyacht "Michaela Rose" for Thomas (exact date pending) | $500,000+ | ProPublica |
 | 2021-01-01 | Crow funds Adirondacks and New York City luxury travel for Thomas (exact date pending) | Unknown | ProPublica/Senate Judiciary |
-| 2023-04-06 | ProPublica publishes first investigation of Crow's luxury gifts to Thomas | — | ProPublica |
-| 2023-08-01 | Thomas acknowledges he should have disclosed trips and files partial amendments (exact date pending) | — | ProPublica |
+| 2023-04-06 | ProPublica publishes first investigation of Crow's luxury gifts to Thomas |, | ProPublica |
+| 2023-08-01 | Thomas acknowledges he should have disclosed trips and files partial amendments (exact date pending) |, | ProPublica |
 | 2024-06-01 | Senate investigation finds at least 3 additional undisclosed private jet flights (exact date pending) | Unknown | Senate Judiciary Committee |
 | **TOTAL DOCUMENTED SINCE 1991** | **$4.75M+ in gifts, none disclosed until April 2023** | **$4.75M+** | **ProPublica/Senate Judiciary** |
 

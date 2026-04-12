@@ -30,7 +30,7 @@ The relationship is intellectual, financial, and familial:
 - Cotton hired Kristol's son Joseph as his Senate legislative director
 - The mentor-protégé-family pipeline: Mansfield → Kristol → Cotton → Kristol's son employed by Cotton
 
-The Kristol investment wasn't just financial — it was the placement of a neoconservative ideologue in the Senate, staffed by the donor's own family member.
+The Kristol investment wasn't just financial, it was the placement of a neoconservative ideologue in the Senate, staffed by the donor's own family member.
 
 ---
 
@@ -52,7 +52,7 @@ The Kristol investment wasn't just financial — it was the placement of a neoco
 
 ### The Dark Money Infrastructure
 
-Cotton's dark money operation: America One Policies, a 501(c)(4) nonprofit incorporated in 2019 by Cotton's former Senate legislative director Jonathan Hiler. Planned $2 million digital ad campaign in swing districts. Directors include Arkansas real estate investor Ted Dickey. IRS approval was delayed until May 2020. The 501(c)(4) structure means donors are not disclosed — allowing the same neoconservative billionaire network to fund Cotton's political activities without public attribution.
+Cotton's dark money operation: America One Policies, a 501(c)(4) nonprofit incorporated in 2019 by Cotton's former Senate legislative director Jonathan Hiler. Planned $2 million digital ad campaign in swing districts. Directors include Arkansas real estate investor Ted Dickey. IRS approval was delayed until May 2020. The 501(c)(4) structure means donors are not disclosed, allowing the same neoconservative billionaire network to fund Cotton's political activities without public attribution.
 
 ---
 

@@ -15,13 +15,13 @@ donors: [[Walton Family Foundation]] · Jim Walton - Walmart Heir · Arkansas Bu
 
 ### The Law
 
-The LEARNS Act (Act 237 of 2023) is Arkansas's education privatization legislation. It created the Education Freedom Account (EFA) program — a school voucher system that directs state education funding to private schools.
+The LEARNS Act (Act 237 of 2023) is Arkansas's education privatization legislation. It created the Education Freedom Account (EFA) program, a school voucher system that directs state education funding to private schools.
 
 [[_Sarah Huckabee Sanders Master Profile|Sarah Huckabee Sanders]] signed the law in April 2023, calling it "the largest overhaul of the state's education system in Arkansas history." The law includes three components:
 
-1. **School Vouchers (EFA program)** — Taxpayer-funded accounts for private school tuition
-2. **Teacher Salary Increase** — Modest raise in minimum starting salary
-3. **Dual Diploma Program** — Career/technical education pathway
+1. **School Vouchers (EFA program)**. Taxpayer-funded accounts for private school tuition
+2. **Teacher Salary Increase**. Modest raise in minimum starting salary
+3. **Dual Diploma Program**. Career/technical education pathway
 
 The voucher component is the transformative element. The teacher salary increase is small enough to function primarily as cover for the privatization agenda. The dual diploma is relatively minor. The actual change: redirecting state education funding from public schools to private schools.
 
@@ -59,9 +59,9 @@ Year 3 (2025-26): Eligible to all Arkansas students regardless of school rating
 The [[Walton Family Foundation|Walton Family Foundation]] (Walmart heirs) has invested $407 million since 1997 in pushing charter schools and school privatization nationally. In Arkansas, the Foundation is the primary driver of privatization infrastructure.
 
 ### Key Network Organizations:
-- **Arkansans for Education Reform Foundation** — $435K in contributions (2017), with $350K from [[Walton Family Foundation|Walton Family Foundation]]
-- **Arkansas Learns** — EFA program advocacy; Executive Director Gary Newton (also serves as Arkansans for Education Reform president)
-- **Charter School Network** — The Waltons have funded expansion of charter schools throughout Arkansas
+- **Arkansans for Education Reform Foundation**, $435K in contributions (2017), with $350K from [[Walton Family Foundation|Walton Family Foundation]]
+- **Arkansas Learns**. EFA program advocacy; Executive Director Gary Newton (also serves as Arkansans for Education Reform president)
+- **Charter School Network**. The Waltons have funded expansion of charter schools throughout Arkansas
 
 ### The Money Flow:
 Walton Foundation → Arkansans for Education Reform → Arkansas Learns → EFA program advocacy → legislative passage → state education funding flows to private schools and charter operators in the Walton network.
@@ -83,7 +83,7 @@ The beneficiaries: private schools (especially selective, religious schools serv
 Wealthy Arkansas families benefit immediately: they can now direct public money to the private schools they already prefer, reducing their out-of-pocket costs. The median income of EFA participants skews toward higher-income families (though exact data is not publicly detailed).
 
 ### The Walton Foundation
-The Foundation's 25-year privatization investment in Arkansas begins to pay off. As state funding flows to private and charter schools, the ecosystem the Waltons built — private operators, charter networks, ideological backing — becomes economically viable through public funding.
+The Foundation's 25-year privatization investment in Arkansas begins to pay off. As state funding flows to private and charter schools, the ecosystem the Waltons built, private operators, charter networks, ideological backing, becomes economically viable through public funding.
 
 ---
 

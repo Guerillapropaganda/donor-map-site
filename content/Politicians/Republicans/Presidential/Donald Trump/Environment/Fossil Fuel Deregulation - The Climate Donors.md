@@ -36,8 +36,8 @@ The fossil fuel industry spent at least $219 million to elect the 2024 U.S. gove
 
 ### The Policy Return
 
-### Day One — Energy Emergency Declaration:
-Trump declared a national energy emergency on January 20, 2025 — the first such declaration in American history. The legal authority invoked was designed for supply disruptions, not policy preferences. The declaration unlocked expedited permitting for drilling, pipeline construction, and LNG export terminals, bypassing normal environmental review processes.
+### Day One. Energy Emergency Declaration:
+Trump declared a national energy emergency on January 20, 2025, the first such declaration in American history. The legal authority invoked was designed for supply disruptions, not policy preferences. The declaration unlocked expedited permitting for drilling, pipeline construction, and LNG export terminals, bypassing normal environmental review processes.
 
 ### The Regulatory Rollback (31+ rules targeted):
 EPA ordered to:
@@ -51,12 +51,12 @@ Interior Department ordered to:
 - Fast-track drilling permits on federal lands
 - Reverse Biden-era conservation designations
 
-### The Endangerment Finding — REVOKED (February 18, 2026):
-~~The most consequential proposal~~ Now the most consequential deregulatory act in American history: Trump's EPA published a final rule on February 18, 2026 revoking the 2009 endangerment finding — the scientific determination that greenhouse gas emissions endanger public health and welfare. The EPA administration called it "the single largest deregulatory action in U.S. history" and claimed it would "save Americans over $1.3 trillion."
+### The Endangerment Finding. REVOKED (February 18, 2026):
+~~The most consequential proposal~~ Now the most consequential deregulatory act in American history: Trump's EPA published a final rule on February 18, 2026 revoking the 2009 endangerment finding, the scientific determination that greenhouse gas emissions endanger public health and welfare. The EPA administration called it "the single largest deregulatory action in U.S. history" and claimed it would "save Americans over $1.3 trillion."
 
-The finding was the legal foundation for ALL federal climate regulation. Without it, the EPA has no statutory authority to regulate carbon emissions from any source — cars, power plants, factories, anything. The revocation upends vehicle tailpipe rules, power plant standards, heavy-duty truck emissions limits, and federal sustainability procurement requirements — the full architecture of U.S. climate policy since 2009.
+The finding was the legal foundation for ALL federal climate regulation. Without it, the EPA has no statutory authority to regulate carbon emissions from any source, cars, power plants, factories, anything. The revocation upends vehicle tailpipe rules, power plant standards, heavy-duty truck emissions limits, and federal sustainability procurement requirements, the full architecture of U.S. climate policy since 2009.
 
-Immediate legal challenges filed by the American Lung Association, American Public Health Association, and the State of California (see [[Newsom 2028 - The Donor Class Presidential Campaign]] — California sued the day after the revocation was announced).
+Immediate legal challenges filed by the American Lung Association, American Public Health Association, and the State of California (see [[Newsom 2028 - The Donor Class Presidential Campaign]]. California sued the day after the revocation was announced).
 
 The endangerment finding was upheld by the D.C. Circuit Court of Appeals in 2012 and was based on the scientific consensus compiled by the IPCC, NOAA, and NASA. Revoking it required the EPA to argue, against its own scientists and 17 years of settled science, that CO2 emissions are not a threat to public health. The fossil fuel industry has sought this repeal since 2009. Sixteen years of lobbying, think tank publications, and political spending have now produced a single regulatory action that eliminates federal climate authority entirely.
 
@@ -69,9 +69,9 @@ The endangerment finding was upheld by the D.C. Circuit Court of Appeals in 2012
 
 [[_Greg Abbott Master Profile|Greg Abbott]]'s Texas is the domestic model for what Trump is implementing nationally. (See: [[_Greg Abbott Master Profile|Greg Abbott]])
 
-- **Deregulated grid:** Texas's deregulated electrical grid — maintained by ERCOT under Abbott's PUC appointees — collapsed during Winter Storm Uri (February 2021), killing 246+ Texans. The same deregulatory philosophy now governs federal energy policy.
+- **Deregulated grid:** Texas's deregulated electrical grid, maintained by ERCOT under Abbott's PUC appointees, collapsed during Winter Storm Uri (February 2021), killing 246+ Texans. The same deregulatory philosophy now governs federal energy policy.
 - **Shared donors:** [[Kelcy Warren|Kelcy Warren]], [[Harold Hamm|Harold Hamm]], and the Koch network fund both Abbott and Trump. The policy agenda is identical: deregulation, expanded drilling, resistance to renewable mandates, weakened safety standards.
-- **Right-to-work:** Texas's anti-union framework — which Koch money built over decades — is the labor model the national fossil fuel deregulation agenda depends on. Deregulated energy requires deregulated labor. The workers who maintain the infrastructure have fewer protections.
+- **Right-to-work:** Texas's anti-union framework, which Koch money built over decades, is the labor model the national fossil fuel deregulation agenda depends on. Deregulated energy requires deregulated labor. The workers who maintain the infrastructure have fewer protections.
 
 ---
 
@@ -89,32 +89,32 @@ The endangerment finding was upheld by the D.C. Circuit Court of Appeals in 2012
 
 ---
 
-### Class Analysis — The Climate Donor Class
+### Class Analysis. The Climate Donor Class
 
 The fossil fuel deregulation agenda is the Koch network's 50-year project reaching completion. The think tanks (Cato, Heritage, Heartland Institute) built the intellectual framework. The PACs (AFP, [[Senate Leadership Fund|Senate Leadership Fund]]) elected the politicians. The industry ($219M+ in 2024 alone) funded the campaigns. The result: a president who declared fossil fuel expansion a national emergency and proposed eliminating the legal basis for all federal climate regulation.
 
-The class structure is stark. The fossil fuel donor class — Koch Industries ($140B revenue), [[ExxonMobil|ExxonMobil]] ($344B revenue), [[Chevron|Chevron]] ($192B revenue) — profits from extraction. The environmental costs — air pollution, water contamination, climate-driven extreme weather — are borne by working-class communities who live near refineries, pipelines, and chemical plants. The regulatory agencies being dismantled (EPA, OSHA) are the agencies that protect those communities.
+The class structure is stark. The fossil fuel donor class. Koch Industries ($140B revenue), [[ExxonMobil|ExxonMobil]] ($344B revenue), [[Chevron|Chevron]] ($192B revenue), profits from extraction. The environmental costs, air pollution, water contamination, climate-driven extreme weather, are borne by working-class communities who live near refineries, pipelines, and chemical plants. The regulatory agencies being dismantled (EPA, OSHA) are the agencies that protect those communities.
 
-For [[IBEW - International Brotherhood of Electrical Workers|IBEW]] members: This is where the class analysis gets complicated. Fossil fuel infrastructure creates real IBEW jobs — power plant electrical work, refinery maintenance, pipeline projects. The clean energy transition also creates IBEW jobs — solar installation, battery storage, EV charging infrastructure, grid modernization. The question isn't whether IBEW members work in energy — they work in all of it. The question is whether the regulatory framework protects the workers who build and maintain it. Deregulation doesn't eliminate the work. It eliminates the safety standards, prevailing wage enforcement, and environmental protections that make the work survivable. The Koch network's anti-Davis-Bacon, anti-prevailing-wage agenda is inseparable from its anti-EPA, anti-climate-regulation agenda. Both serve the same donors. Both hurt the same workers.
+For [[IBEW - International Brotherhood of Electrical Workers|IBEW]] members: This is where the class analysis gets complicated. Fossil fuel infrastructure creates real IBEW jobs, power plant electrical work, refinery maintenance, pipeline projects. The clean energy transition also creates IBEW jobs, solar installation, battery storage, EV charging infrastructure, grid modernization. The question isn't whether IBEW members work in energy, they work in all of it. The question is whether the regulatory framework protects the workers who build and maintain it. Deregulation doesn't eliminate the work. It eliminates the safety standards, prevailing wage enforcement, and environmental protections that make the work survivable. The Koch network's anti-Davis-Bacon, anti-prevailing-wage agenda is inseparable from its anti-EPA, anti-climate-regulation agenda. Both serve the same donors. Both hurt the same workers.
 
 ---
 
 ### Analytical Patterns
 
 ### The Genuine Win + Structural Limit:
-The fossil fuel industry achieved a genuine policy victory with the endangerment finding revocation. This is not a rhetorical win or a symbolic gesture — it eliminates the legal foundation for all federal climate regulation. However, it stops short of directly subsidizing fossil fuel production. Trump's energy emergency declaration expedites permitting and bypasses environmental review, but it does not restructure the underlying cost economics of fossil fuels versus renewables. The policy removes regulatory barriers rather than creating direct financial advantages through production tax credits or direct subsidies.
+The fossil fuel industry achieved a genuine policy victory with the endangerment finding revocation. This is not a rhetorical win or a symbolic gesture, it eliminates the legal foundation for all federal climate regulation. However, it stops short of directly subsidizing fossil fuel production. Trump's energy emergency declaration expedites permitting and bypasses environmental review, but it does not restructure the underlying cost economics of fossil fuels versus renewables. The policy removes regulatory barriers rather than creating direct financial advantages through production tax credits or direct subsidies.
 
 > [!contradiction] The Jobs Problem
 > The fossil fuel industry frames deregulation as "energy independence" and job creation, but fossil fuel extraction is capital-intensive and employment-flat. The 31+ targeted environmental rules include vehicle emissions standards and power plant rules that, if weakened, theoretically reduce compliance costs. Those "saved" costs flow to shareholder returns, not wage increases. Solar and wind installation created more U.S. jobs than coal, oil, and gas extraction combined in 2023–2025.
 
 ### The Villain Framing:
-The energy emergency declaration invokes external threat (implied energy supply disruption) to justify regulatory dismantling. The actual framing displaces blame — EPA regulation is portrayed as the problem, not fossil fuel extraction or carbon emissions. The decision to revoke the endangerment finding required the EPA to argue against its own scientific consensus, which the agency framed as "correction of error," not "political reversal."
+The energy emergency declaration invokes external threat (implied energy supply disruption) to justify regulatory dismantling. The actual framing displaces blame. EPA regulation is portrayed as the problem, not fossil fuel extraction or carbon emissions. The decision to revoke the endangerment finding required the EPA to argue against its own scientific consensus, which the agency framed as "correction of error," not "political reversal."
 
 ### The Two-Audience Problem:
 To donors: the policy is deregulation that increases margins and eliminates compliance costs. To voters: the policy is "energy independence," "lower energy prices," and "American jobs." These are not the same outcome. Deregulation does not guarantee lower energy prices (renewable competition matters more). It does not require job creation (capital-intensive industries eliminate positions through efficiency). The messaging is entirely disconnected from economic mechanics.
 
 ### The Pilot Program:
-Not applicable in this case — the endangerment finding revocation is a comprehensive structural change, not a pilot. However, the "energy emergency" declaration is a form of emergency-authority overreach that, if allowed to stand, creates a precedent for future administrations to invoke emergency authorities for non-emergency policy preferences.
+Not applicable in this case, the endangerment finding revocation is a comprehensive structural change, not a pilot. However, the "energy emergency" declaration is a form of emergency-authority overreach that, if allowed to stand, creates a precedent for future administrations to invoke emergency authorities for non-emergency policy preferences.
 
 ---
 
@@ -124,10 +124,10 @@ Not applicable in this case — the endangerment finding revocation is a compreh
 |------|---|---|---|---|
 | 2024 | Fossil fuel industry political spending | $219M+ | Election of Trump administration | 0 days |
 | January 20, 2025 | Trump inaugural fund: [[Chevron|Chevron]], [[ExxonMobil|ExxonMobil]], Occidental | $4M combined | Energy emergency declaration (Day 1) | Same day |
-| Jan–Feb 2025 | Trump signs energy-related EOs | — | EPA ordered to weaken 31+ environmental rules | 2–4 weeks |
-| Feb 18, 2026 | — | — | EPA publishes final rule revoking endangerment finding | 13 months post-inauguration |
-| Jan 22, 2026 | — | — | DOE announces $83.6B in clean energy loans eliminated/restructured | 12 months post-inauguration |
-| March 2026 | — | — | Full architectural dismantling of federal clean energy investment | 14 months post-inauguration |
+| Jan–Feb 2025 | Trump signs energy-related EOs |, | EPA ordered to weaken 31+ environmental rules | 2–4 weeks |
+| Feb 18, 2026 |, |, | EPA publishes final rule revoking endangerment finding | 13 months post-inauguration |
+| Jan 22, 2026 |, |, | DOE announces $83.6B in clean energy loans eliminated/restructured | 12 months post-inauguration |
+| March 2026 |, |, | Full architectural dismantling of federal clean energy investment | 14 months post-inauguration |
 
 ---
 
@@ -147,12 +147,12 @@ Not applicable in this case — the endangerment finding revocation is a compreh
 
 ---
 
-### 2026 Update — Endangerment Finding Revoked
+### 2026 Update. Endangerment Finding Revoked
 
 **February 18, 2026:** EPA published final rule revoking the 2009 endangerment finding. Full effect: eliminates federal regulatory authority over greenhouse gas emissions under the Clean Air Act. Administration claims "$1.3 trillion in savings." Legal challenges immediately filed by health organizations and California.
 
-**March 2026:** The IRA rollback is also accelerating — the DOE's Office of Energy Dominance Financing restructured, revised, or eliminated over **$83.6 billion** in clean energy loans and conditional commitments out of the $104 billion in Biden-era loan obligations. The architecture of federal clean energy investment — built via IRA and IIJA — is being systematically dismantled through administrative action rather than legislation.
+**March 2026:** The IRA rollback is also accelerating, the DOE's Office of Energy Dominance Financing restructured, revised, or eliminated over **$83.6 billion** in clean energy loans and conditional commitments out of the $104 billion in Biden-era loan obligations. The architecture of federal clean energy investment, built via IRA and IIJA, is being systematically dismantled through administrative action rather than legislation.
 
 **Tariff disruption for clean energy:** The 2025 tariff regime raised costs on solar panels, wind turbines, and battery components. Combined with the IRA loan restructuring, the policy environment for new clean energy investment has deteriorated sharply.
 
-**Flag for new sub-note:** The scale of IRA rollback (DOE loans + legislative OBBBA cuts to clean energy tax credits) may warrant its own sub-note: "IRA Dismantlement — The Clean Energy Donor Counter-Move."
+**Flag for new sub-note:** The scale of IRA rollback (DOE loans + legislative OBBBA cuts to clean energy tax credits) may warrant its own sub-note: "IRA Dismantlement. The Clean Energy Donor Counter-Move."

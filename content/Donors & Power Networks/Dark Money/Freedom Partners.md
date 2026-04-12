@@ -37,13 +37,13 @@ audit-a-plus-passed: "2026-04-11"
 
 ### Who They Were
 
-Freedom Partners Chamber of Commerce was a 501(c)(6) nonprofit founded in November 2011 in Arlington, Virginia, serving as the central funding hub of the Koch brothers' political network. Membership required minimum $100,000 annual dues from approximately 200 members — making it an exclusive donor club for the conservative mega-donor class. Key leadership included Chairman Mark Holden (a Koch Industries executive), Kevin Gentry, and Kelly Bulloch. The organization dissolved in 2019 as part of a Koch network restructuring, with operations absorbed into Americans for Prosperity and the umbrella organization Stand Together.
+Freedom Partners Chamber of Commerce was a 501(c)(6) nonprofit founded in November 2011 in Arlington, Virginia, serving as the central funding hub of the Koch brothers' political network. Membership required minimum $100,000 annual dues from approximately 200 members, making it an exclusive donor club for the conservative mega-donor class. Key leadership included Chairman Mark Holden (a Koch Industries executive), Kevin Gentry, and Kelly Bulloch. The organization dissolved in 2019 as part of a Koch network restructuring, with operations absorbed into Americans for Prosperity and the umbrella organization Stand Together.
 
 ---
 
 ### What They Wanted
 
-Freedom Partners existed to advance free-market deregulation, kill the Affordable Care Act, block environmental regulation, and reduce government spending — the policy agenda of the Koch donor class. Its 501(c)(6) structure shielded donor identities while allowing unlimited political spending. The organization functioned as a clearinghouse: wealthy donors pooled contributions, and Freedom Partners distributed them strategically across the conservative ecosystem to maximize policy impact while minimizing individual donor exposure.
+Freedom Partners existed to advance free-market deregulation, kill the Affordable Care Act, block environmental regulation, and reduce government spending, the policy agenda of the Koch donor class. Its 501(c)(6) structure shielded donor identities while allowing unlimited political spending. The organization functioned as a clearinghouse: wealthy donors pooled contributions, and Freedom Partners distributed them strategically across the conservative ecosystem to maximize policy impact while minimizing individual donor exposure.
 
 ---
 
@@ -70,11 +70,11 @@ Freedom Partners existed to advance free-market deregulation, kill the Affordabl
 - Heritage Action: undisclosed
 - Club for Growth: undisclosed
 
-### Super PAC — Freedom Partners Action Fund:
+### Super PAC. Freedom Partners Action Fund:
 - Total election spending: $50M+
 - 2014 midterms alone: $23M
 
-**Personnel-to-power pipeline:** Former president Marc Short went on to serve as White House Director of Legislative Affairs in the Trump administration — a direct revolving door from Koch dark money to White House legislative strategy.
+**Personnel-to-power pipeline:** Former president Marc Short went on to serve as White House Director of Legislative Affairs in the Trump administration, a direct revolving door from Koch dark money to White House legislative strategy.
 
 ---
 
@@ -91,7 +91,7 @@ Freedom Partners existed to advance free-market deregulation, kill the Affordabl
 
 ### Class Analysis
 
-Freedom Partners was the Koch network's central bank — a mechanism for the billionaire donor class to pool resources and distribute them with strategic precision across conservative infrastructure. The $575M+ in grants didn't fund ideas; they funded an ecosystem designed to translate donor-class wealth into donor-class policy. The 501(c)(6) structure was the key innovation: it combined the anonymity of dark money with the scale of institutional investment. When Freedom Partners dissolved in 2019, the function didn't disappear — it migrated to Stand Together, Americans for Prosperity, and other Koch vehicles. The dissolution was a corporate restructuring, not a retreat.
+Freedom Partners was the Koch network's central bank, a mechanism for the billionaire donor class to pool resources and distribute them with strategic precision across conservative infrastructure. The $575M+ in grants didn't fund ideas; they funded an ecosystem designed to translate donor-class wealth into donor-class policy. The 501(c)(6) structure was the key innovation: it combined the anonymity of dark money with the scale of institutional investment. When Freedom Partners dissolved in 2019, the function didn't disappear, it migrated to Stand Together, Americans for Prosperity, and other Koch vehicles. The dissolution was a corporate restructuring, not a retreat.
 
 ---
 
@@ -105,7 +105,7 @@ Freedom Partners was the Koch network's central bank — a mechanism for the bil
 
 ---
 
-research-status:: draft — Core financial profile and grant distribution documented from Perplexity research dossier. Gaps: individual donor identities (shielded by 501(c)(6) status), complete grant recipient list, detailed policy-outcome temporal mapping. FEC API data available for super PAC spending; IRS 990 data available via ProPublica for revenue figures.
+research-status:: draft. Core financial profile and grant distribution documented from Perplexity research dossier. Gaps: individual donor identities (shielded by 501(c)(6) status), complete grant recipient list, detailed policy-outcome temporal mapping. FEC API data available for super PAC spending; IRS 990 data available via ProPublica for revenue figures.
 
 ---
 

@@ -17,7 +17,7 @@ donors: [[ActBlue]] · Small-Dollar Grassroots Donors · [[Crypto Industry Bloc]
 
 [[_Elizabeth Warren Master Profile|Elizabeth Warren]]'s 2020 presidential campaign is simultaneously proof that an alternative funding model exists at scale and proof that alternative funding models cannot overcome donor-class structural power. She raised $38 million+ entirely from individual contributions averaging $28. Her campaign proved that a grassroots small-dollar model could fund a competitive presidential campaign. And then the Democratic Party's donor-class consolidation defeated her, proving that structural funding advantage is more powerful than individual donor volume.
 
-The 2020 campaign also contains the template for what comes after: when a politician threatens to challenge donor interests, the donor class doesn't need to defeat them directly. They defeat their allies, make the political cost visible, and wait for the politician to retreat. This is the function of [[Fairshake PAC|Fairshake PAC]] in the 2024 cycle — not attacking Warren (she's safe in Massachusetts, re-elected in 2022), but attacking everyone who aligns with her. The discipline is structural, not personal.
+The 2020 campaign also contains the template for what comes after: when a politician threatens to challenge donor interests, the donor class doesn't need to defeat them directly. They defeat their allies, make the political cost visible, and wait for the politician to retreat. This is the function of [[Fairshake PAC|Fairshake PAC]] in the 2024 cycle, not attacking Warren (she's safe in Massachusetts, re-elected in 2022), but attacking everyone who aligns with her. The discipline is structural, not personal.
 
 ---
 
@@ -38,7 +38,7 @@ Warren's $38 million proved two things:
 
 2. **Small-dollar donors are politically reliable.** They showed up consistently, gave repeatedly, maintained engagement throughout the campaign. The donor base was stable and committed, not fickle or transaction-dependent like high-dollar donors.
 
-This is the vault's core thesis tested: if funding is removed from the equation, can a politician opposing the donor class succeed? The 2020 campaign partially proved yes — Warren's campaign was viable, competitive, and reached Super Tuesday as a serious contender.
+This is the vault's core thesis tested: if funding is removed from the equation, can a politician opposing the donor class succeed? The 2020 campaign partially proved yes. Warren's campaign was viable, competitive, and reached Super Tuesday as a serious contender.
 
 > [!money]
 > **The $38 Million Achievement:**
@@ -103,7 +103,7 @@ But critically: **she was not offered the vice presidency.**
 
 This matters. Warren was a senator from a solid Democratic state. She represented the progressive wing of the party. She had significant political credibility. VP consideration for Warren was widely discussed before Super Tuesday. During the primary, she was a viable running-mate option.
 
-The VP went to [[_Kamala Harris Master Profile|Kamala Harris]], which made strategic sense: Biden needed to consolidate Black voters and racial justice coalition support. Harris made that signal. But the fact that Warren was not considered — or was considered and rejected — reveals something about how the consolidation viewed her: she was too independent, too willing to fund herself without donor support, too committed to structural financial reform.
+The VP went to [[_Kamala Harris Master Profile|Kamala Harris]], which made strategic sense: Biden needed to consolidate Black voters and racial justice coalition support. Harris made that signal. But the fact that Warren was not considered, or was considered and rejected, reveals something about how the consolidation viewed her: she was too independent, too willing to fund herself without donor support, too committed to structural financial reform.
 
 **No cabinet position was offered initially either.** Warren remained in the Senate. She was not Secretary of Treasury (that went to Janet Yellen, a former Federal Reserve chair aligned with traditional finance). She was not given a role in the administration.
 
@@ -123,7 +123,7 @@ After 2020, the Democratic Party confirmed that it was not interested in structu
 
 In this context, Warren continued to push crypto regulation. She had introduced the Digital Asset Anti-Money Laundering Act with Republican Roger Marshall in December 2022. In 2023, she and Marshall expanded the coalition of Senate support for the bill, announcing 11 new co-sponsors in September 2023.
 
-The crypto industry's response was to create [[Fairshake PAC|Fairshake PAC]] — a permanent super PAC funded by Coinbase, Ripple, and Andreessen Horowitz, with $195M+ committed for the 2024 election cycle.
+The crypto industry's response was to create [[Fairshake PAC|Fairshake PAC]], a permanent super PAC funded by Coinbase, Ripple, and Andreessen Horowitz, with $195M+ committed for the 2024 election cycle.
 
 ### Critically: Fairshake did not attack Warren directly.
 Warren is a senator from Massachusetts, a safe blue state. She was re-elected in 2022 with 60% of the vote. She cannot be defeated through primary or general election spending. Fairshake attacking Warren directly would be wasting money.
@@ -134,7 +134,7 @@ Instead, Fairshake attacked Warren's *allies*:
 - **[[Jamaal Bowman]]** (House member from New York, progressive, crypto skeptic): Fairshake spent heavily against Bowman. Bowman lost his primary.
 - **Other crypto-skeptic Democrats:** Fairshake provided a standing threat to any Democrat who aligned with Warren's regulation agenda.
 
-This is the disciplinary function. Fairshake's message is not "Warren cannot be defeated" (that's obvious — she's in a safe seat). The message is: "If you follow Warren's lead on crypto regulation, we will destroy you electorally."
+This is the disciplinary function. Fairshake's message is not "Warren cannot be defeated" (that's obvious, she's in a safe seat). The message is: "If you follow Warren's lead on crypto regulation, we will destroy you electorally."
 
 > [!contradiction]
 > **The Disciplinary Structure:**
@@ -164,7 +164,7 @@ Warren's 2020 campaign proved the small-dollar model could scale. The 2024 crypt
 
 ### Analytical Patterns
 
-#### 1. Genuine Win + Structural Limit — The Presidential Campaign Proof of Concept
+#### 1. Genuine Win + Structural Limit. The Presidential Campaign Proof of Concept
 
 Warren's 2020 campaign is a genuine win: $38M+ raised without Wall Street, without corporate PAC money, without traditional bundling networks. The small-dollar model works. She competed nationally, built state-by-state infrastructure, made Super Tuesday as a serious contender.
 
@@ -172,7 +172,7 @@ The structural limit is equally clear: the donor-class Democratic Party's consol
 
 Warren proved the small-dollar model's possibility. She did not prove its sufficiency.
 
-#### 2. The Two-Audience Problem — Squeezed From Both Sides
+#### 2. The Two-Audience Problem. Squeezed From Both Sides
 
 Warren's 2020 campaign was premised on simultaneously appealing to:
 
@@ -184,19 +184,19 @@ This positioning works in a fractured primary. It collapses in a consolidation. 
 
 The two-audience problem is not unique to Warren. It's generic to Democratic politicians trying to thread the needle between their working-class base and their donor-class funding. But Warren's small-dollar funding base meant she couldn't retreat to the donor-class position without losing her funding. Sanders' union backing meant he was committed to the progressive base. Biden had traditional Democratic establishment backing so he didn't need to appeal to progressives. Warren had no constituency to fall back on once the split occurred.
 
-#### 3. The Villain Framing — Wall Street and Crypto as External Enemies
+#### 3. The Villain Framing. Wall Street and Crypto as External Enemies
 
 Warren framed the crypto industry as the villain in her 2024 regulatory push. Fairshake's response framed Warren as the villain in the crypto industry's story. But the structural reality is more complex: both are playing within a Democratic Party funded by major industries. Warren's regulatory agenda threatens crypto industry profits. The crypto industry's opposition spending threatens her allies' electoral viability.
 
 The villain framing breaks down because it implies a conflict between two external parties (Warren vs. crypto industry) rather than a structural conflict within the Democratic Party itself (Warren's policy agenda conflicts with the Democratic Party's funding base). The party could have made crypto regulation a unified position. Instead, it remained divided, with Fairshake's spending the arbiter of the actual policy position.
 
-#### 4. The Pilot Program — Small-Dollar Funding as Proof of Concept
+#### 4. The Pilot Program. Small-Dollar Funding as Proof of Concept
 
 Warren's 2020 campaign functioned as a pilot program for what happens when a politician builds an alternative funding model outside the donor-class system. The answer: it works at the funding level, but it doesn't change structural power relationships.
 
 The pilot will likely not expand. Warren's 2020 campaign is the clearest proof-of-concept that alternative funding exists. But it did not translate into electoral victory or policy implementation. Other candidates and politicians can observe the pilot and see: yes, small-dollar funding works, but it doesn't win. Progressives learned this lesson from 2020. The push for small-dollar funding has not intensified; it has remained with Warren and a few allies (like [[_Katie Porter Master Profile|Katie Porter]] before her 2024 loss).
 
-The pilot model — demonstrate that an alternative is possible, then watch as the system integrates the demonstration into proof that the alternative is insufficient — is characteristic of donor-class management of threats.
+The pilot model, demonstrate that an alternative is possible, then watch as the system integrates the demonstration into proof that the alternative is insufficient, is characteristic of donor-class management of threats.
 
 ---
 
@@ -206,7 +206,7 @@ The pilot model — demonstrate that an alternative is possible, then watch as t
 |------|-------------------|--------|----------------------|-----------|
 | November 8, 2016 | Warren re-elected U.S. Senator from Massachusetts (second term) | $27.4M raised; 72% individual contributions | Establishes Warren as credible national political figure; proves small-dollar model at Senate scale | 3 years before presidential campaign |
 | December 2018 | Warren tests 2020 presidential campaign possibilities; begins building national fundraising infrastructure | Early stage building; no major spending yet | Signals to progressive base that single-payer healthcare and financial regulation are presidential-level issues | 13 months before campaign announcement |
-| January 2, 2019 | Warren officially launches 2020 presidential campaign | Begins accepting presidential-level small-dollar donations | Grassroots funding model activated; working-class and professional-class donors begin committing |  |
+| January 2, 2019 | Warren officially launches 2020 presidential campaign | Begins accepting presidential-level small-dollar donations | Grassroots funding model activated; working-class and professional-class donors begin committing | |
 | November 1, 2019 | Warren releases detailed Medicare for All financing plan | Campaign fundraising continues; no Wall Street backing materializes | Demonstrates competence and seriousness; reinforces small-dollar appeal | 4 months before Super Tuesday |
 | November 15-20, 2019 | Warren announces "transition plan" retreat from Medicare for All | No new funding; consolidation messaging quietly circulates | Signals to Democratic establishment that Warren is negotiable; progressives begin reconsidering | 3.5 months before Super Tuesday |
 | December 2022 | Warren introduces Digital Asset Anti-Money Laundering Act with Roger Marshall | No direct funding involved; Senate legislative work | Establishes Warren as crypto industry's primary congressional opponent | 2 years before Fairshake spending |

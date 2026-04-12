@@ -13,7 +13,7 @@ donors: [[Michael Bloomberg]] · [[Haim Saban]]
 
 ---
 
-### The Prosecutor Record — DA and AG (2004–2017)
+### The Prosecutor Record. DA and AG (2004–2017)
 
 Harris's prosecutorial career is the donor-class pipeline in formation. San Francisco DA (2004–2011), California Attorney General (2011–2017). The pattern across both offices: aggressive prosecution of individual poverty crimes, structural restraint on corporate and financial crime, institutional defense of the carceral state even at the cost of innocent people.
 
@@ -23,9 +23,9 @@ Harris's prosecutorial career is the donor-class pipeline in formation. San Fran
 
 #### The Willie Brown Launch
 
-1994–1995: Harris dated Willie Brown, then-Speaker of the California State Assembly (married but separated 13 years). Brown appointed Harris to two state commissions: the California Unemployment Insurance Appeals Board and the California Medical Assistance Commission. These were entry-level patronage appointments — access to the San Francisco political machine, not policy power.
+1994–1995: Harris dated Willie Brown, then-Speaker of the California State Assembly (married but separated 13 years). Brown appointed Harris to two state commissions: the California Unemployment Insurance Appeals Board and the California Medical Assistance Commission. These were entry-level patronage appointments, access to the San Francisco political machine, not policy power.
 
-Harris ended the relationship in late 1995. Brown became SF mayor in 1996. Harris ran for DA in 2003 — nine years after the appointments. The direct electoral impact of the Brown connection is overstated by critics, but the structural access it provided to California's Democratic donor class is the real story. Brown was the gatekeeper to the SF machine that later funded Harris's entire career arc.
+Harris ended the relationship in late 1995. Brown became SF mayor in 1996. Harris ran for DA in 2003, nine years after the appointments. The direct electoral impact of the Brown connection is overstated by critics, but the structural access it provided to California's Democratic donor class is the real story. Brown was the gatekeeper to the SF machine that later funded Harris's entire career arc.
 
 #### DA Prosecution Record
 
@@ -39,13 +39,13 @@ Harris ran as a reform prosecutor in 2003. Her actual record was mixed:
 ### Marijuana prosecutions:
 - 1,956 misdemeanor and felony marijuana convictions
 - 45 people sent to state prison for marijuana (compared to predecessor Hallinan's 135)
-- Later, as Senator and presidential candidate, Harris supported legalization — the same flexibility documented across the vault
+- Later, as Senator and presidential candidate, Harris supported legalization, the same flexibility documented across the vault
 
 ### Homicide clearance:
 - Cleared 27 of 74 backlogged homicide cases within first six months
 
 ### The "Back on Track" reentry program:
-Harris's signature initiative offered first-time nonviolent drug offenders an alternative to prison: GED, job training, community service. 300+ participants. Recidivism rate: 10% vs. 54% statewide average. This was genuine reform — and it became the resume line that built her "progressive prosecutor" brand.
+Harris's signature initiative offered first-time nonviolent drug offenders an alternative to prison: GED, job training, community service. 300+ participants. Recidivism rate: 10% vs. 54% statewide average. This was genuine reform, and it became the resume line that built her "progressive prosecutor" brand.
 
 #### Truancy Prosecutions
 
@@ -90,12 +90,12 @@ Harris negotiated California's share of the $25 billion national settlement with
 - Final settlement: $20 billion secured for California
 - ~$9.2 billion disbursed in principal reductions for approximately 84,000 homeowners
 - Average relief per household: ~$109,756 in principal reduction
-- Direct checks to foreclosure victims: $1,480 per family — roughly one month's rent in California
+- Direct checks to foreclosure victims: $1,480 per family, roughly one month's rent in California
 
 > [!contradiction] The Settlement Math
 > Harris marketed this as "taking on the big banks" — her signature accomplishment as AG. Housing advocates criticized it as a fraction of actual damages. The banks collectively caused hundreds of billions in losses. They paid $25 billion total (national). The settlement functioned as a cost of doing business — the banks continued operations, homeowners received modest relief, and Harris got a campaign talking point. The banks viewed $25 billion as the price of regulatory peace.
 
-#### Death Penalty — Defending the System
+#### Death Penalty. Defending the System
 
 ### As SF DA (2004–2011):
 - Vowed in inaugural address never to charge the death penalty
@@ -103,15 +103,15 @@ Harris negotiated California's share of the $25 billion national settlement with
 - Kept the promise throughout seven-year tenure
 
 ### As AG (2011–2017):
-- 2014: Federal judge ruled California's death penalty unconstitutional. Harris's office **appealed the ruling** — actively fighting to preserve the state's capital punishment system despite her stated personal opposition
+- 2014: Federal judge ruled California's death penalty unconstitutional. Harris's office **appealed the ruling**, actively fighting to preserve the state's capital punishment system despite her stated personal opposition
 - Litigated aggressively against DNA testing in the Kevin Cooper case (see below)
 - The contradiction: personally opposed the death penalty, then used the AG's office to defend it. When asked during the 2024 campaign, Harris was silent on whether she supported legislation to end capital punishment.
 
 The prosecutor's flexibility: oppose the system when it's safe (as DA, where she controlled charging), defend it when the institution requires (as AG, where her job was to represent the state). Career advancement dictated the position.
 
-#### Kevin Cooper — Death Row DNA Testing
+#### Kevin Cooper. Death Row DNA Testing
 
-**The case:** June 4, 1983 — Doug & Peggy Ryen (age 41), daughter Jessica (10), neighbor Christopher Hughes (11) found murdered in Chino Hills. Kevin Cooper — who had escaped from nearby Chino prison two days earlier — convicted and placed on death row in 1985. Cooper has maintained his innocence for four decades.
+**The case:** June 4, 1983. Doug & Peggy Ryen (age 41), daughter Jessica (10), neighbor Christopher Hughes (11) found murdered in Chino Hills. Kevin Cooper, who had escaped from nearby Chino prison two days earlier, convicted and placed on death row in 1985. Cooper has maintained his innocence for four decades.
 
 ### Harris's actions (2010–2018):
 - As AG, her office opposed DNA testing requested by Cooper's attorneys
@@ -120,15 +120,15 @@ The prosecutor's flexibility: oppose the system when it's safe (as DA, where she
 
 ### The reversal (2018):
 - After a New York Times article by Nicholas Kristof highlighted police investigator misconduct in the case
-- Harris — now a U.S. Senator — publicly advocated for DNA testing
+- Harris, now a U.S. Senator, publicly advocated for DNA testing
 - December 2018: Governor Brown ordered new DNA testing
 - The reversal appeared motivated by political pressure (as a Senator positioning for 2020) rather than legal conviction (as AG she had fought testing for eight years)
 
-#### Daniel Larsen — Wrongful Conviction
+#### Daniel Larsen. Wrongful Conviction
 
 **1999:** Daniel Larsen convicted of possessing a concealed weapon. Sentenced to 27-years-to-life under three strikes. Police claimed they saw Larsen throw a knife under a car during a bar confrontation.
 
-**2010:** Federal judge finds conviction wrongful — insufficient evidence.
+**2010:** Federal judge finds conviction wrongful, insufficient evidence.
 
 ### Harris's response (2010–2012):
 - Fought to keep Larsen imprisoned for two additional years after the innocence finding
@@ -138,7 +138,7 @@ The prosecutor's flexibility: oppose the system when it's safe (as DA, where she
 
 Larsen was released after two additional years of imprisonment following a finding of innocence. Compensation was denied.
 
-#### George Gage — Suppressed Evidence
+#### George Gage. Suppressed Evidence
 
 **The case:** George Gage, a 60-year-old electrician with no criminal record, convicted of sexual abuse based solely on the testimony of one accuser (now adult) describing events decades prior. First trial ended in a hung jury.
 
@@ -156,7 +156,7 @@ Larsen was released after two additional years of imprisonment following a findi
 
 ---
 
-### The Pattern — Class Analysis
+### The Pattern. Class Analysis
 
 Harris's prosecutorial career shows a consistent structural bias:
 

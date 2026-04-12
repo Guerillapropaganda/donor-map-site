@@ -21,7 +21,7 @@ donors: [[Coinbase]] [[Ripple]] [[Marc Andreessen & Horowitz|Andreessen Horowitz
 
 ### The Story
 
-Fairshake super PAC entered 2026 with $191 million in cash on hand — the largest single-issue PAC in history. Backed by Coinbase, Ripple, and a16z, it spent $31 million in Illinois 2025 primaries alone and is now targeting 2026 midterms to elect a crypto-friendly Congress. Parallel dark money operations (Cedar Innovation Foundation, Solana Policy Institute) operate as 501(c)(4)s, allowing unlimited foreign funding and zero disclosure. The pipeline is crystalline: crypto firms donate $191M+ → Fairshake and dark money shells → elect crypto-friendly candidates → Congress deregulates crypto → firms escape securities law, get banking access, and escape reporting requirements. This is regulatory capture with a budget.
+Fairshake super PAC entered 2026 with $191 million in cash on hand, the largest single-issue PAC in history. Backed by Coinbase, Ripple, and a16z, it spent $31 million in Illinois 2025 primaries alone and is now targeting 2026 midterms to elect a crypto-friendly Congress. Parallel dark money operations (Cedar Innovation Foundation, Solana Policy Institute) operate as 501(c)(4)s, allowing unlimited foreign funding and zero disclosure. The pipeline is crystalline: crypto firms donate $191M+ → Fairshake and dark money shells → elect crypto-friendly candidates → Congress deregulates crypto → firms escape securities law, get banking access, and escape reporting requirements. This is regulatory capture with a budget.
 
 ### What We Know
 
@@ -83,11 +83,11 @@ The class dynamic: Crypto billionaires have captured regulatory bodies (SEC appo
 
 ### Sources
 
-- [DLNews: "Fairshake Super PAC Has $191M Cash on Hand — Most Ever for Single-Issue PAC"](https://dlnews.com/articles/fairshake-cash-record) (Tier 2)
+- [DLNews: "Fairshake Super PAC Has $191M Cash on Hand. Most Ever for Single-Issue PAC"](https://dlnews.com/articles/fairshake-cash-record) (Tier 2)
 - [CNBC: "How Fairshake Became the Crypto Industry's War Machine"](https://cnbc.com/fairshake-super-pac) (Tier 2)
 - [Washington Monthly: "Illinois 2025: The Crypto Super PAC's Laboratory"](https://washingtonmonthly.com/illinois-fairshake) (Tier 2)
 - [Center for Responsive Politics: "Fairshake and the Crypto Dark Money Ecosystem"](https://www.opensecrets.org/pacs/crypto) (Tier 2)
-- [Washington Post: Crypto cash is flooding the 2024 election — here's who's benefiting](https://www.washingtonpost.com/business/interactive/2024/crypto-firms-candidates-house-senate-election-2024/) (Tier 2)
+- [Washington Post: Crypto cash is flooding the 2024 election, here's who's benefiting](https://www.washingtonpost.com/business/interactive/2024/crypto-firms-candidates-house-senate-election-2024/) (Tier 2)
 - [CREW & GMF: "Foreign Money and Crypto Super PACs: The Loophole in Campaign Finance Law"](https://crew.org/reports/) (Tier 2)
 - [FEC: Fairshake Super PAC Filing Database](https://www.fec.gov/data/committees/) (Tier 1)
 

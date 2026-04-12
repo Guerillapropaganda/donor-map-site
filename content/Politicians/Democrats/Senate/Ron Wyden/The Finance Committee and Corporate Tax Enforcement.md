@@ -15,17 +15,17 @@ donors: [[Google - Alphabet]] [[Silicon Valley Democratic Donor Network]] [[Gold
 
 ### The Progressive Tax Reformer
 
-Ron Wyden chaired the Senate Finance Committee (2021-2025) — the single most powerful committee in Congress, with jurisdiction over all federal taxation, Medicare, Medicaid, Social Security, and trade. Wyden positioned himself as the most progressive Finance Committee chairman in modern history: he proposed a billionaires' income tax (taxing unrealized capital gains), championed corporate minimum tax provisions in the Inflation Reduction Act, and pursued international tax reform to prevent offshoring.
+Ron Wyden chaired the Senate Finance Committee (2021-2025), the single most powerful committee in Congress, with jurisdiction over all federal taxation, Medicare, Medicaid, Social Security, and trade. Wyden positioned himself as the most progressive Finance Committee chairman in modern history: he proposed a billionaires' income tax (taxing unrealized capital gains), championed corporate minimum tax provisions in the Inflation Reduction Act, and pursued international tax reform to prevent offshoring.
 
-Wyden's tax proposals are genuinely progressive and would generate significant revenue from the wealthy. His billionaires' income tax would have raised approximately $557 billion over 10 years from the 700 wealthiest Americans. This is not performative — Wyden's policy development team produced detailed legislative text, revenue estimates, and implementation frameworks.
+Wyden's tax proposals are genuinely progressive and would generate significant revenue from the wealthy. His billionaires' income tax would have raised approximately $557 billion over 10 years from the 700 wealthiest Americans. This is not performative. Wyden's policy development team produced detailed legislative text, revenue estimates, and implementation frameworks.
 
 ---
 
 ### The Structural Limit
 
-The limit is political, not ideological. Wyden's most ambitious proposals — billionaires' income tax, unrealized capital gains taxation, closing carried interest — never received floor votes because they lacked support from enough Democratic senators to clear the chamber. The Finance Committee passed some provisions, but Senate dynamics (particularly opposition from centrist Democrats and the filibuster) prevented full implementation.
+The limit is political, not ideological. Wyden's most ambitious proposals, billionaires' income tax, unrealized capital gains taxation, closing carried interest, never received floor votes because they lacked support from enough Democratic senators to clear the chamber. The Finance Committee passed some provisions, but Senate dynamics (particularly opposition from centrist Democrats and the filibuster) prevented full implementation.
 
-Wyden's Oregon constituency and tech industry donor relationships create a secondary limit. Oregon is home to major tech operations (Intel, Nike, tech startup ecosystem), and Wyden has been Silicon Valley's closest ally in the Senate on digital privacy and Section 230 issues. His privacy advocacy is genuine — he's the Senate's most consistent voice for encryption and surveillance reform — but it also serves the tech industry's interest in preventing federal privacy regulation that would constrain data collection business models.
+Wyden's Oregon constituency and tech industry donor relationships create a secondary limit. Oregon is home to major tech operations (Intel, Nike, tech startup ecosystem), and Wyden has been Silicon Valley's closest ally in the Senate on digital privacy and Section 230 issues. His privacy advocacy is genuine, he's the Senate's most consistent voice for encryption and surveillance reform, but it also serves the tech industry's interest in preventing federal privacy regulation that would constrain data collection business models.
 
 > [!money]
 > Wyden's Section 230 position illustrates the alignment: he co-authored the original Section 230 in 1996 and has been its most vocal defender in the Senate. Section 230 protects the tech industry from liability for user-generated content. Wyden's defense of the provision is principled (internet freedom, innovation); it also serves the tech industry that funds his campaigns and headquartered in his political orbit.
@@ -34,7 +34,7 @@ Wyden's Oregon constituency and tech industry donor relationships create a secon
 
 ### The Privacy Paradox
 
-Wyden is the Senate's most aggressive advocate for digital privacy — authoring bills to restrict government surveillance, requiring warrant requirements for email and location data, and opposing backdoor encryption mandates. This privacy advocacy frequently aligns with tech industry preferences: strong encryption protects Apple's business model, warrant requirements constrain government access to Google's data, and privacy rules that focus on government rather than corporate data collection leave the tech business model intact.
+Wyden is the Senate's most aggressive advocate for digital privacy, authoring bills to restrict government surveillance, requiring warrant requirements for email and location data, and opposing backdoor encryption mandates. This privacy advocacy frequently aligns with tech industry preferences: strong encryption protects Apple's business model, warrant requirements constrain government access to Google's data, and privacy rules that focus on government rather than corporate data collection leave the tech business model intact.
 
 The paradox: Wyden's privacy agenda protects citizens from government surveillance while largely leaving corporate surveillance (the business model of his tech donors) unaddressed.
 

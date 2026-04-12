@@ -15,7 +15,7 @@ donors: [[Koch Network - Charles Koch]] · [[Cryptocurrency Industry]]
 
 ### The Brand vs. the Reality
 
-[[_Rand Paul Master Profile|Rand Paul]]'s political identity is built on libertarianism: opposition to government overreach, fiscal conservatism, civil liberties, anti-interventionism, free markets. This brand is genuinely popular with a specific constituency — young, anti-establishment voters who distrust both parties, Ron Paul movement inheritors, and cryptocurrency enthusiasts. It also happens to align precisely with the economic interests of the Koch network: reduced regulation, lower taxes, weakened federal agencies, and obstruction of social spending.
+[[_Rand Paul Master Profile|Rand Paul]]'s political identity is built on libertarianism: opposition to government overreach, fiscal conservatism, civil liberties, anti-interventionism, free markets. This brand is genuinely popular with a specific constituency, young, anti-establishment voters who distrust both parties, Ron Paul movement inheritors, and cryptocurrency enthusiasts. It also happens to align precisely with the economic interests of the Koch network: reduced regulation, lower taxes, weakened federal agencies, and obstruction of social spending.
 
 The question the donor-class framework asks is not whether Paul believes his principles. He probably does. The question is: which of his principles does he apply consistently, and which does he apply selectively in ways that happen to benefit his donors?
 
@@ -34,7 +34,7 @@ Koch Industries is headquartered in Wichita, Kansas. Charles Koch has spent deca
 
 ### Cryptocurrency: The New Libertarian Donor Pipeline
 
-In April 2015, [[_Rand Paul Master Profile|Rand Paul]] became the first major presidential candidate to accept Bitcoin donations. This was not primarily a financial strategy (Bitcoin donations were capped at $100) — it was a positioning move that placed Paul at the center of the emerging cryptocurrency donor community, a constituency that would grow exponentially over the following decade.
+In April 2015, [[_Rand Paul Master Profile|Rand Paul]] became the first major presidential candidate to accept Bitcoin donations. This was not primarily a financial strategy (Bitcoin donations were capped at $100), it was a positioning move that placed Paul at the center of the emerging cryptocurrency donor community, a constituency that would grow exponentially over the following decade.
 
 The libertarian-cryptocurrency alignment is ideological: both critique central banking, government currency control, and financial regulation. Paul's father Ron Paul had spent decades campaigning against the Federal Reserve; [[_Rand Paul Master Profile|Rand Paul]] inherited this positioning and extended it to digital currency. "End the Fed" became "deregulate crypto."
 
@@ -52,8 +52,8 @@ Paul's libertarianism is applied selectively in ways that consistently favor wea
 | Federal spending (healthcare) | Eliminate/cut | Yes | Wealthy donors |
 | Federal spending (military) | Reduce (partially) | Yes | Ambiguous |
 | Drug legalization | Pro-reform | Yes | Civil liberties community |
-| Abortion | Pro-life (federal ban stance has varied) | **No** — government control of bodies | Religious donor base |
-| Immigration | Restrictionist | **No** — anti-free movement of labor | Nativist donor base |
+| Abortion | Pro-life (federal ban stance has varied) | **No**, government control of bodies | Religious donor base |
+| Immigration | Restrictionist | **No**, anti-free movement of labor | Nativist donor base |
 | Cryptocurrency deregulation | Yes | Yes | Tech-finance donor class |
 | Medicare/Medicaid | Eliminate/cut | Yes | Wealthy, corporations |
 | NSA surveillance | Anti | Yes | Civil liberties community |
@@ -70,7 +70,7 @@ The pattern: consistent libertarianism on issues that benefit donors (taxes, reg
 
 The Koch network's investment in Paul makes sense from a pure return-on-investment analysis. Kentucky is a reliably Republican state with a Senate seat that can be held cheaply compared to competitive states. A Koch-aligned senator in Kentucky costs far less to maintain than a Koch-aligned senator in Pennsylvania or Arizona. The return: two Senate votes per year, committee presence, and a high-profile libertarian brand that the Koch network can use as a public face for its policy agenda.
 
-Paul's libertarian media presence — frequent television appearances, the Senate filibuster performances, the 2016 presidential run — gave the Koch policy agenda a populist, anti-establishment face that billionaire donors cannot provide themselves. The Koch network funds the brand; the brand legitimizes the agenda; Paul delivers the votes.
+Paul's libertarian media presence, frequent television appearances, the Senate filibuster performances, the 2016 presidential run, gave the Koch policy agenda a populist, anti-establishment face that billionaire donors cannot provide themselves. The Koch network funds the brand; the brand legitimizes the agenda; Paul delivers the votes.
 
 ---
 

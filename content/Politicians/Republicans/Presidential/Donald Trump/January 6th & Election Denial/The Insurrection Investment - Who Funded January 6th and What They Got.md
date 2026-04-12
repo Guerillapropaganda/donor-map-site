@@ -13,7 +13,7 @@ donors: [[_Donald Trump Master Profile|Trump]] [[Koch Network - Charles Koch]] [
 
 ---
 
-### The $250 Million Fiction — The "Election Defense Fund" That Never Existed
+### The $250 Million Fiction. The "Election Defense Fund" That Never Existed
 
 Save America PAC raised $251.3 million between November 2020 and December 2024 under the explicit promise of mounting a legal defense against "election fraud." The J6 Committee documented that this fund was a fiction. Of the $251M raised, approximately $25 million (10%) went to actual election legal work. The remaining $226 million flowed to Trump personal expenses, family entities, and political operations designed to consolidate Trump's power within the Republican party, not to challenge the election.
 
@@ -25,7 +25,7 @@ This is not a case of money being spent inefficiently on a failed legal strategy
 > [!contradiction]
 > The Save America PAC was marketed as a patriotic defense of electoral integrity. Emails to donors used language like "DEFEND OUR ELECTION" and "STOP THE STEAL" with all-caps urgency. Donors believed they were funding courts and lawyers to overturn the 2020 result. They received almost no election defense work. They instead funded the weaponization of that fiction into Republican party structure — the 147 votes to overturn certification, the state-level audit campaigns, the rally infrastructure. The donors got the political outcome (delegitimized democracy) at the price they paid for (legal defense they never received). (Tier 1: J6 Committee analysis; Tier 2: ProPublica investigation into PAC spending discrepancies)
 
-### Save America PAC Financials — Where the Money Actually Flowed
+### Save America PAC Financials. Where the Money Actually Flowed
 
 Between November 2020 and December 2024, Save America PAC processed the following documented financial flows:
 
@@ -80,7 +80,7 @@ This is visible in the donor class's post-January 6 behavior. Virtually no donor
 > [!money]
 > The donors' return on this investment is structural: (1) Delegitimized democracy cannot function as a check on corporate power. (2) Election denial positioned Trump as the Republican party's dominant figure, reshaping GOP into explicitly authoritarian party. (3) This cleared the field for donor-class consolidation (Koch network, Adelson family, Musk, Mellon alliance with Trump). (4) By 2024, a Trump second term was assured, with explicit promises to roll back labor law, environmental regulation, tax policy, and executive branch constraint of capital. The $250M in election denial funding was venture capital in restoring authoritarian rule. The ROI is measured in policy, not in votes. (Tier 2: ProPublica; Tier 2: Dark Money Tracking)
 
-### The Pardons Connection — The Clemency Pipeline
+### The Pardons Connection. The Clemency Pipeline
 
 By January 2025, Trump had signed 1,400+ pardons and commutations on his first day and first weeks. Among these were 120+ January 6 defendants, including Oath Keepers and Proud Boys leaders who were convicted of seditious conspiracy. The January 6 defendants became the opening signal for Trump's clemency/pardon agenda: that laws do not apply to his supporters.
 
@@ -89,7 +89,7 @@ The connection between January 6 funding and the January 6 pardon pipeline is di
 > [!money]
 > Legal defense funds for January 6 defendants: Patriot Freedom Fund ($2M+), National Republican Senatorial Committee NRSC emergency funds ($500K+), Save America PAC ($1M+ committed to defendant legal support). These funds supported 60+ January 6 defendants through trial and conviction. Upon Trump's pardon of the defendants, these legal funds became effectively venture capital in testing the boundaries of presidential clemency power. The next step is using clemency to shield Trump-aligned officials from prosecution, and then to move toward prosecution of Trump's political enemies. The infrastructure of January 6 funding became the infrastructure of clemency testing. (Tier 1: DOJ January 6 prosecution records; Tier 2: Patriot Freedom Fund reporting; Tier 2: ProPublica analysis)
 
-### Donor Network Consolidation — The Ruling Class Realignment
+### Donor Network Consolidation. The Ruling Class Realignment
 
 The election denial infrastructure accomplished its true function: consolidating billionaire donor control over the Republican party and eliminating the possibility of electoral outcomes that threaten capital. By 2024, the Koch network, Adelson family, Mellon, Musk, and Thiel network were aligned in backing Trump's second term with explicit promises of deregulation, union destruction, and capital repatriation.
 
@@ -98,7 +98,7 @@ Election denial was the mechanism that allowed this consolidation. By delegitimi
 > [!contradiction]
 > The Republican party claimed to represent working class voters. Election denial messaging explicitly appealed to working class grievance about election "theft." However, the donors funding election denial (Koch, Adelson, Mellon, Musk) were simultaneously funding policies that destroy union power, eliminate labor protections, and expand corporate exploitation. Working class Trump voters believed they were voting to "stop the steal." Their ruling class funders were stealing their regulatory protections, labor law, and wage power. The election denial message was the distraction that allowed the theft. (Tier 2: ProPublica analysis; Tier 2: Dark Money Tracking)
 
-### The Structural Outcome — When the Investment Pays Off
+### The Structural Outcome. When the Investment Pays Off
 
 By March 2026, the election denial investment had delivered concrete policy returns. Trump's second term implemented across the board:
 
@@ -113,7 +113,7 @@ The donors who funded the $250M election denial infrastructure received estimate
 > [!money]
 > Estimated quantified returns to election denial donors (2025-2026): Koch network (anti-labor wins, energy deregulation) ~$50B, Adelson (immigration enforcement supporting low-wage industries) ~$100B, Mellon (border wall + immigration enforcement integration) ~$25B, Musk (regulatory capture across SpaceX/Tesla/xAI sectors) ~$75B, combined defense contractors (military budget expansion) ~$150B. These are policy outcomes that would have been politically impossible under a democratic constraint system. The election denial infrastructure removed that constraint. (Tier 2: ProPublica analysis; Tier 3: Economic modeling of regulatory rollback impacts)
 
-### The Gap Between Rhetoric and Reality — The Analytical Framework
+### The Gap Between Rhetoric and Reality. The Analytical Framework
 
 Every major donor to the election denial infrastructure publicly articulated belief in "election integrity" concerns. None of them believed the 2020 election was stolen. Internal communications captured by congressional investigators, journalists, and prosecutors show that mega-donors understood the fraud claims were false by January 2021.
 
@@ -124,7 +124,7 @@ The analytical framework: Who benefits? The donor class benefits from delegitimi
 > [!contradiction]
 > The stated goal of Save America PAC was election defense ($250M raised). The actual function of Save America PAC was capital consolidation ($250M to family, Trump, and party control). The donors knew this. The small-dollar donors did not. This is the essential distinction between the ruling class and the base: the ruling class understands the grift. The base participates in it without understanding it. (Tier 1: Congressional deposition transcripts; Tier 2: ProPublica; Tier 2: Washington Post investigation)
 
-### 2028 and Beyond — The Permanent Delegitimization Machine
+### 2028 and Beyond. The Permanent Delegitimization Machine
 
 By March 2026, election denial has become a permanent feature of Republican politics rather than a response to a single election loss. The 2024 cycle saw election denial rhetoric and funding across 50 states at the primary and general election levels. The 2028 primary is already positioning election denial challenges as routine. What was supposed to be a one-time defense of 2020 has become the default Republican opposition mechanism for any election result the donor class disfavors.
 
@@ -135,15 +135,15 @@ This permanence is the evidence that election denial was never about overturning
 ### Sources
 
 - [FEC.gov: Save America PAC Financial Disclosures (Form 3X)](https://www.fec.gov/data/committee/C00753251/?tab=contributions) (Tier 1)
-- [House Select Committee to Investigate the January 6th Attack — Final Report, Chapter 3: Election Fraud Allegations](https://january6thcommittee.house.gov/news/press-releases/read-house-select-committee-january-6-final-report) (Tier 1)
+- [House Select Committee to Investigate the January 6th Attack. Final Report, Chapter 3: Election Fraud Allegations](https://january6thcommittee.house.gov/news/press-releases/read-house-select-committee-january-6-final-report) (Tier 1)
 - [OpenSecrets: Trump Political Operation Steers $130 Million in Donor Money to Cover Legal Fees](https://www.opensecrets.org/news/2023/08/trump-political-operation-steers-130-million-in-donor-money-to-cover-legal-fees/) (Tier 1)
 - [OpenSecrets: The 147 Republicans Who Voted to Overturn the Election](https://www.opensecrets.org/news/) (Tier 2)
 - [Citizens for Responsibility and Ethics in Washington (CREW): The Sedition Caucus Report](https://www.citizensforethics.org/analysis/the-sedition-caucus/) (Tier 2)
 - [Washington Post: Inside the Rally That Led to the Capitol Riot](https://www.washingtonpost.com/nation/interactive/2021/capitol-insurrection-visual-timeline/) (Tier 2)
 - [ProPublica: Top Trump Fundraiser Boasted of Raising $3 Million to Support Jan. 6 "Save America" Rally](https://www.propublica.org/article/top-trump-fundraiser-boasted-of-raising-3-million-to-support-jan-6-save-america-rally) (Tier 2)
 - [New York Times: Turning Point USA's Role in January 6 Rally](https://www.nytimes.com/2021/01/15/us/politics/turning-point-action-rally-buses.html) (Tier 2)
-- [Department of Justice: Capitol Breach Cases — Prosecution Documents](https://www.justice.gov/usao-dc/capitol-breach-cases) (Tier 1)
-- [ProPublica: Nonprofit Tracker — Patriot Freedom Fund](https://projects.propublica.org/nonprofits/organizations/873379391) (Tier 1)
+- [Department of Justice: Capitol Breach Cases. Prosecution Documents](https://www.justice.gov/usao-dc/capitol-breach-cases) (Tier 1)
+- [ProPublica: Nonprofit Tracker. Patriot Freedom Fund](https://projects.propublica.org/nonprofits/organizations/873379391) (Tier 1)
 - [OpenSecrets: Defense Industry PAC Donations to 147 Election-Overturn Voters](https://www.opensecrets.org/members-of-congress/summary?name=Insurrection%20Investment) (Tier 2)
 - [Pew Research: Republicans' Belief in Election Fraud Claims, 2021-2024](https://www.pewresearch.org/topic/politics-policy/) (Tier 3)
 - [Dark Money Tracking: Election Denial Funding Sources 2020-2024](https://www.opensecrets.org/dark-money/) (Tier 2)

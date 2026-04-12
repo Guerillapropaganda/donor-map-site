@@ -16,7 +16,7 @@ donors:: Duke Energy NC Utilities Regulatory Commission Environmental Groups Ren
 
 ### [[_Roy Cooper Master Profile|Roy Cooper]]'s Environmental Record: Real Wins with Structural Limitations
 
-[[_Roy Cooper Master Profile|Roy Cooper]]'s environmental policy achievements as governor are genuine and significant—his Clean Energy Act commits North Carolina utilities to 70% carbon emissions reductions by 2030 and carbon neutrality by 2050, positioning the state as a climate leader relative to other Southern states. However, the policy structure reveals the characteristic pattern of donor-class environmentalism: real climate progress combined with preservation of utility company profit models and rate structures.
+[[_Roy Cooper Master Profile|Roy Cooper]]'s environmental policy achievements as governor are genuine and significant, his Clean Energy Act commits North Carolina utilities to 70% carbon emissions reductions by 2030 and carbon neutrality by 2050, positioning the state as a climate leader relative to other Southern states. However, the policy structure reveals the characteristic pattern of donor-class environmentalism: real climate progress combined with preservation of utility company profit models and rate structures.
 
 ---
 
@@ -130,7 +130,7 @@ Both policies are genuine wins. Both also stop short of the structural change th
 - [NC Governor official site: Environment initiatives](https://governor.nc.gov/issues/environment) (Tier 1 - government primary source) (Tier 2)
 - [Roy Cooper official website: Accomplishments](https://www.govroycooper.org/accomplishments) (Tier 1 - primary source) (Tier 2)
 - [NCDHHS: Climate Change and Clean Energy: Plans and Progress](https://www.ncdhhs.gov/about/department-initiatives/climate-change-and-clean-energy-plans-and-progress) (Tier 1 - government primary source) (Tier 2)
-- [The Assembly NC: What Roy Cooper Did — And Didn't — Accomplish As NC Governor](https://www.theassemblync.com/news/politics/roy-cooper-legacy-governor-north-carolina/) (Tier 2)
+- [The Assembly NC: What Roy Cooper Did. And Didn't. Accomplish As NC Governor](https://www.theassemblync.com/news/politics/roy-cooper-legacy-governor-north-carolina/) (Tier 2)
 - [NC Newsline: Cooper reports sizable lead in fundraising for 2026 U.S. Senate race](https://ncnewsline.com/2026/02/02/cooper-reports-sizable-lead-in-fundraising-for-2026-u-s-senate-race/) (Tier 2)
 - [Wikipedia: Roy Cooper](https://en.wikipedia.org/wiki/Roy_Cooper) (Tier 3)
 

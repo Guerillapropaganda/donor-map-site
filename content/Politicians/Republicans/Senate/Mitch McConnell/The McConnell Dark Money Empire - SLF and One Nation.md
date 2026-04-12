@@ -13,7 +13,7 @@ donors: [[Koch Network - Charles Koch]] · [[Leonard Leo]] · [[Crypto Industry 
 
 ---
 
-### The McConnell Dark Money Empire — SLF and One Nation
+### The McConnell Dark Money Empire. SLF and One Nation
 
 > [!money]
 > The [[Senate Leadership Fund|Senate Leadership Fund]] and One Nation together represent the largest Republican dark money operation in America. Combined spending: $291M (2022), $211M (2024). Run by Steven Law — McConnell's former chief of staff (1991–1997). The machine operates independently of McConnell's personal fundraising, which means it survives his retirement. The dark money empire is the lasting infrastructure, not the man.
@@ -26,18 +26,18 @@ Founded January 2015 by McConnell allies. President: Steven Law.
 
 | Date | Event | Amount | Source |
 |------|-------|--------|--------|
-| 2015-01-01 | Senate Leadership Fund founded by McConnell allies; Steven Law becomes President (exact date pending) | — | SLF records |
+| 2015-01-01 | Senate Leadership Fund founded by McConnell allies; Steven Law becomes President (exact date pending) |, | SLF records |
 | 2020-01-01 | SLF raised and spent funds in Senate races (exact dates pending) | Unknown | OpenSecrets |
 | 2022-01-01 | SLF raises contributions for 2022 cycle (exact dates pending) | $246,000,000 | OpenSecrets |
 | 2022-01-01 | SLF spends record amount on 2022 Republican Senate races (exact dates pending) | $291,000,000 | OpenSecrets |
 | 2024-01-01 | SLF raises contributions for 2024 cycle (exact dates pending) | $67,400,000 | OpenSecrets |
 | 2024-01-01 | SLF spends on 2024 Senate majority defense (exact dates pending) | $211,000,000 | OpenSecrets |
 
-**How it works:** SLF is a super PAC — unlimited contributions, full disclosure of donors. It funds television advertising for Republican Senate candidates and attack ads against Democrats. McConnell's former chief of staff runs it. McConnell's relationships fill it. The senator's power creates the fundraising leverage; the PAC deploys the money.
+**How it works:** SLF is a super PAC, unlimited contributions, full disclosure of donors. It funds television advertising for Republican Senate candidates and attack ads against Democrats. McConnell's former chief of staff runs it. McConnell's relationships fill it. The senator's power creates the fundraising leverage; the PAC deploys the money.
 
 ---
 
-### One Nation (501(c)(4) — Dark Money)
+### One Nation (501(c)(4). Dark Money)
 
 Same office, leadership, and staff as SLF. President: Steven Law (same person).
 
@@ -49,7 +49,7 @@ Same office, leadership, and staff as SLF. President: Steven Law (same person).
 | 2022-01-01 | One Nation passes through $60M to Senate Leadership Fund (38% of SLF spending) (exact dates pending) | $60,000,000 | Dark money disclosure |
 | 2024-01-01 | One Nation raises funds in Q1 2024 (exact dates pending) | $27,000,000 | OpenSecrets |
 
-**The dark money function:** One Nation is a 501(c)(4) "social welfare" nonprofit. It does not disclose donors. It passes tens of millions to SLF (which does disclose), laundering the money's origin. The two organizations share an office, a president, and a purpose — but One Nation hides what SLF reveals.
+**The dark money function:** One Nation is a 501(c)(4) "social welfare" nonprofit. It does not disclose donors. It passes tens of millions to SLF (which does disclose), laundering the money's origin. The two organizations share an office, a president, and a purpose, but One Nation hides what SLF reveals.
 
 ---
 
@@ -74,7 +74,7 @@ Same office, leadership, and staff as SLF. President: Steven Law (same person).
 
 ### The Machine Outlives the Man
 
-McConnell's personal fundraising collapsed in 2024 ($76,000 in Q3 — lowest in four years, $341,000 for the first nine months). But SLF raised $211M+ in the same period. The dark money infrastructure does not depend on McConnell's personal participation. Steven Law, the operational heir, will continue running SLF and One Nation after McConnell retires in 2026.
+McConnell's personal fundraising collapsed in 2024 ($76,000 in Q3, lowest in four years, $341,000 for the first nine months). But SLF raised $211M+ in the same period. The dark money infrastructure does not depend on McConnell's personal participation. Steven Law, the operational heir, will continue running SLF and One Nation after McConnell retires in 2026.
 
 The class function: McConnell built an institution, not a personal brand. The institution serves the donor class regardless of who holds the leadership title. [[_John Thune Master Profile|John Thune]] inherited the Senate leadership; Steven Law inherited the money machine. The donor class's investment in McConnell was an investment in permanent infrastructure.
 

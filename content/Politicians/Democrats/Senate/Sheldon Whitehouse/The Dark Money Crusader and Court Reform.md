@@ -15,7 +15,7 @@ donors: [[Silicon Valley Democratic Donor Network]] [[Demand Justice]]
 
 ### The Dark Money Specialist
 
-Sheldon Whitehouse has built his Senate career around a single analytical framework: the conservative dark money network's capture of the federal judiciary. His "Web of Denial" and "Scheme" floor speeches — over 300 delivered since 2012 — systematically map the connections between [[Leonard Leo]], the [[Federalist Society]], the [[Judicial Crisis Network]], [[DonorsTrust]], and the Republican judicial appointment pipeline.
+Sheldon Whitehouse has built his Senate career around a single analytical framework: the conservative dark money network's capture of the federal judiciary. His "Web of Denial" and "Scheme" floor speeches, over 300 delivered since 2012, systematically map the connections between [[Leonard Leo]], the [[Federalist Society]], the [[Judicial Crisis Network]], [[DonorsTrust]], and the Republican judicial appointment pipeline.
 
 Whitehouse's analysis is among the most rigorous class analyses produced by any sitting senator. His floor speeches document the flow of anonymous donor money through intermediary organizations to judicial nomination campaigns, identifying the structural mechanism by which the donor class captures lifetime judicial appointments.
 
@@ -23,7 +23,7 @@ Whitehouse's analysis is among the most rigorous class analyses produced by any 
 
 ### The Genuine Achievement
 
-Whitehouse authored the DISCLOSE Act (requiring dark money disclosure), the Supreme Court Ethics Act (requiring a binding ethics code for Supreme Court justices), and led Judiciary Committee investigations into the Federalist Society's judicial selection pipeline. His investigation of [[Leonard Leo]]'s financial network — documented through subpoenas, public records, and IRS filings — produced the most comprehensive public mapping of the conservative judicial dark money infrastructure.
+Whitehouse authored the DISCLOSE Act (requiring dark money disclosure), the Supreme Court Ethics Act (requiring a binding ethics code for Supreme Court justices), and led Judiciary Committee investigations into the Federalist Society's judicial selection pipeline. His investigation of [[Leonard Leo]]'s financial network, documented through subpoenas, public records, and IRS filings, produced the most comprehensive public mapping of the conservative judicial dark money infrastructure.
 
 His SCOTUS ethics investigation revealed that Clarence Thomas received $4.2 million in undisclosed gifts from Harlan Crow and that Samuel Alito accepted luxury trips from Paul Singer while Singer had cases before the Court. These disclosures produced the first meaningful public accountability for Supreme Court conflicts of interest.
 
@@ -40,7 +40,7 @@ Whitehouse's reforms have not passed. The DISCLOSE Act has been introduced in ev
 
 ### The Democratic Dark Money Symmetry
 
-Whitehouse's dark money crusade faces a credibility challenge: Democratic dark money operations (through [[Arabella Advisors]], [[Sixteen Thirty Fund]], and [[Demand Justice]]) mirror the conservative dark money infrastructure he critiques. Whitehouse benefits from progressive dark money in his own elections and supports Demand Justice — a dark money organization that advocates for progressive judicial appointments. The Dark Money Symmetry pattern: both parties run identical dark money operations while one denounces the other's.
+Whitehouse's dark money crusade faces a credibility challenge: Democratic dark money operations (through [[Arabella Advisors]], [[Sixteen Thirty Fund]], and [[Demand Justice]]) mirror the conservative dark money infrastructure he critiques. Whitehouse benefits from progressive dark money in his own elections and supports Demand Justice, a dark money organization that advocates for progressive judicial appointments. The Dark Money Symmetry pattern: both parties run identical dark money operations while one denounces the other's.
 
 ---
 

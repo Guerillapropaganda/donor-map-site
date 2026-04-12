@@ -51,16 +51,16 @@ audit-a-plus-passed: "2026-04-11"
 
 ### Who They Are
 
-[[Blue Shield of California|Blue Shield of California]] is a nonprofit health insurance plan — one of the largest in California — covering roughly 4.5 million members. Despite nonprofit status, it operates as a major player in the California health insurance market and has a substantial lobbying and political donation operation. Its nonprofit designation does not mean it lacks institutional interests in maintaining the private insurance model.
+[[Blue Shield of California|Blue Shield of California]] is a nonprofit health insurance plan, one of the largest in California, covering roughly 4.5 million members. Despite nonprofit status, it operates as a major player in the California health insurance market and has a substantial lobbying and political donation operation. Its nonprofit designation does not mean it lacks institutional interests in maintaining the private insurance model.
 
 ---
 
 ### What They Want
 
-— Preservation of the private health insurance market in California (single-payer would eliminate their business model entirely)
-— Favorable terms in state contracts, particularly Medi-Cal managed care
-— Minimal regulation of insurance practices and PBM arrangements
-— Access to emergency contracting opportunities (as demonstrated during COVID)
+, Preservation of the private health insurance market in California (single-payer would eliminate their business model entirely)
+, Favorable terms in state contracts, particularly Medi-Cal managed care
+, Minimal regulation of insurance practices and PBM arrangements
+, Access to emergency contracting opportunities (as demonstrated during COVID)
 
 ---
 
@@ -75,10 +75,10 @@ audit-a-plus-passed: "2026-04-11"
 > **California Democratic Party — $2.7 million since 2006**, including a **$1 million** contribution during Newsom's 2021 recall fight. Additional documented: $50,000 to California Democratic Party; $20,000 to LGBTQ+ Caucus Leadership Fund. Funding the party infrastructure that protects the governor is functionally equivalent to funding the governor. [Source: National Institute on Money in Politics / CapRadio, 2021 — Tier 1/2]
 
 ### Behested payments:
-— **Project Homekey (2020):** $45 million requested from Blue Shield and [[Kaiser Permanente|Kaiser Permanente]] combined for homelessness housing initiative — one of the largest documented behested payment requests in Newsom's $226 million 2020 behested payment year. [Source: KTLA / FPPC Form 803 — Tier 1/2]
+, **Project Homekey (2020):** $45 million requested from Blue Shield and [[Kaiser Permanente|Kaiser Permanente]] combined for homelessness housing initiative, one of the largest documented behested payment requests in Newsom's $226 million 2020 behested payment year. [Source: KTLA / FPPC Form 803. Tier 1/2]
 
 ### The Relationship Cultivation:
-CapRadio documented Blue Shield's years-long strategy of building the relationship with Newsom — contributions, foundation donations, party infrastructure funding — culminating in the no-bid vaccine contract. KQED: "Newsom Awarded the No-Bid Vaccine Contract to Blue Shield, a Trusted and Generous Supporter." This is the class analysis in miniature: years of investment → crisis opportunity → contract extraction.
+CapRadio documented Blue Shield's years-long strategy of building the relationship with Newsom, contributions, foundation donations, party infrastructure funding, culminating in the no-bid vaccine contract. KQED: "Newsom Awarded the No-Bid Vaccine Contract to Blue Shield, a Trusted and Generous Supporter." This is the class analysis in miniature: years of investment → crisis opportunity → contract extraction.
 
 **Partially confirmed.** Direct contributions documented ($299K+). Party contributions documented ($2.7M+). Project Homekey behested payment documented ($45M combined with Kaiser). **Remaining research:** Full FPPC Form 803 entries naming Blue Shield as payor; individual contributions to health committee legislators; [[Kaiser Permanente|Kaiser Permanente]] parallel contributions (same pattern, separate node needed).
 
@@ -86,10 +86,10 @@ CapRadio documented Blue Shield's years-long strategy of building the relationsh
 
 ### What They've Gotten
 
-— April 2020: Blue Shield CEO appointed by Newsom to co-lead the state's COVID testing task force.
-— February 2021: Awarded a no-bid contract worth up to $15 million to run California's COVID vaccine distribution statewide.
-— Single-payer (AB 1400 / CalCare) died in January 2022 without Newsom's support. Blue Shield's business model survives.
-— Medi-Cal expansion under "universal coverage" framing brought millions of new customers into the managed care system Blue Shield participates in.
+, April 2020: Blue Shield CEO appointed by Newsom to co-lead the state's COVID testing task force.
+, February 2021: Awarded a no-bid contract worth up to $15 million to run California's COVID vaccine distribution statewide.
+, Single-payer (AB 1400 / CalCare) died in January 2022 without Newsom's support. Blue Shield's business model survives.
+, Medi-Cal expansion under "universal coverage" framing brought millions of new customers into the managed care system Blue Shield participates in.
 
 ---
 
@@ -101,7 +101,7 @@ Blue Shield gave during the recall fight (existential for Newsom), received a no
 
 ### Connected Policy Areas
 
-Healthcare — Single-payer, COVID contracts, PBM regulation
+Healthcare. Single-payer, COVID contracts, PBM regulation
 
 ---
 

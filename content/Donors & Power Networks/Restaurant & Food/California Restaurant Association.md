@@ -79,11 +79,11 @@ The [[California Restaurant Association|California Restaurant Association]] (CRA
 
 ### What They Want
 
-— No mandatory minimum wage increases above the state floor for specific industries
-— Removal of joint liability provisions that hold parent companies responsible for franchisee labor violations
-— No fast food worker organizing rights or sector-wide bargaining
-— Defeat or rollback of the FAST Act / Fast Food Council
-— Regulatory exemptions from labor code protections for tipped workers
+, No mandatory minimum wage increases above the state floor for specific industries
+, Removal of joint liability provisions that hold parent companies responsible for franchisee labor violations
+, No fast food worker organizing rights or sector-wide bargaining
+, Defeat or rollback of the FAST Act / Fast Food Council
+, Regulatory exemptions from labor code protections for tipped workers
 
 ---
 
@@ -91,11 +91,11 @@ The [[California Restaurant Association|California Restaurant Association]] (CRA
 
 CRA operates five PACs: Candidate PAC, Issues PAC, San Diego Restaurant + Beverage PAC, Los Angeles Food + Beverage PAC, and Greater Sacramento Restaurant PAC. 6.5% of CRA membership dues are contributed to PACs; contributions are voluntary.
 
-**CRA Issues PAC — 2024 cycle:** $167,285 in contributions, $75,273 in expenditures. [Source: Transparency USA — Tier 1]
+**CRA Issues PAC, 2024 cycle:** $167,285 in contributions, $75,273 in expenditures. [Source: Transparency USA. Tier 1]
 
 CRA-PAC contributes to California legislators on both sides, with focus on labor and business committee members.
 
-**[[_Gavin Newsom Master Profile|Gavin Newsom]]** — No large direct CRA-PAC contributions to Newsom documented in available public records. The CRA's primary leverage was not direct contributions but the referendum threat — spending $71.7 million through the "Save Local Restaurants" coalition to qualify a referendum to repeal AB 257 as a bargaining chip. That threat produced the AB 1228 deal that removed joint liability. [See: [[FAST Act and the AB 1228 Deal]]]
+**[[_Gavin Newsom Master Profile|Gavin Newsom]]**. No large direct CRA-PAC contributions to Newsom documented in available public records. The CRA's primary leverage was not direct contributions but the referendum threat, spending $71.7 million through the "Save Local Restaurants" coalition to qualify a referendum to repeal AB 257 as a bargaining chip. That threat produced the AB 1228 deal that removed joint liability. [See: [[FAST Act and the AB 1228 Deal]]]
 
 > [!money]
 > **The Referendum War Chest — $71.7 million:**
@@ -109,8 +109,8 @@ CRA-PAC contributes to California legislators on both sides, with focus on labor
 
 ### What They've Gotten
 
-— AB 257 replaced by AB 1228 (September 2023): minimum wage reduced from $22 to $20/hr, and the joint liability provision removed entirely. The referendum was dropped in exchange. This is their biggest California win in recent years.
-— No enforcement mechanism holding franchisors liable for franchisee labor violations — the precise outcome the CRA spent millions to achieve.
+, AB 257 replaced by AB 1228 (September 2023): minimum wage reduced from $22 to $20/hr, and the joint liability provision removed entirely. The referendum was dropped in exchange. This is their biggest California win in recent years.
+, No enforcement mechanism holding franchisors liable for franchisee labor violations, the precise outcome the CRA spent millions to achieve.
 
 ---
 
@@ -124,34 +124,34 @@ This tactic works because California's initiative/referendum system allows well-
 
 ### Key Allies
 
-— McDonald's Corporation
-— Yum Brands (Taco Bell, Pizza Hut, KFC)
-— Jack in the Box
-— National Restaurant Association (federal counterpart)
-— International Franchise Association
+, McDonald's Corporation
+, Yum Brands (Taco Bell, Pizza Hut, KFC)
+, Jack in the Box
+, National Restaurant Association (federal counterpart)
+, International Franchise Association
 
 ---
 
 ### Enemies / Opposition
 
-— [[SEIU - Service Employees International Union|SEIU]] — primary champion of the FAST Act
-— Fight for $15
-— [[California Labor Federation|California Labor Federation]]
+, [[SEIU - Service Employees International Union|SEIU]], primary champion of the FAST Act
+, Fight for $15
+, [[California Labor Federation|California Labor Federation]]
 
 ---
 
 ### Connected Policy Areas
 
-Labor — FAST Act, AB 1228, fast food minimum wage, joint liability
+Labor. FAST Act, AB 1228, fast food minimum wage, joint liability
 
 ---
 
 ### Sources
 
-- [CalMatters: California fast food deal — wage hike, no referendum](https://calmatters.org/category/politics/2023/09/california-fast-food-deal/) (Tier 2)
+- [CalMatters: California fast food deal, wage hike, no referendum](https://calmatters.org/category/politics/2023/09/california-fast-food-deal/) (Tier 2)
 - [Ballotpedia: Fast food minimum wage referendum](https://ballotpedia.org/California_Fast_Food_Restaurant_Minimum_Wage_and_Labor_Regulations_Referendum_(2024)) (Tier 1)
 - [Transparency USA: CRA Issues PAC](https://www.transparencyusa.org/ca/committee/california-restaurant-association-issues-pac-901032-rcp) (Tier 1)
-- ~~[FollowTheMoney.org: CRA contributions](https://www.followthemoney.org/tools/election-overview?eid=4463)~~ (was FollowTheMoney — site merged into OpenSecrets, all URLs dead) (Tier 1)
+- ~~[FollowTheMoney.org: CRA contributions](https://www.followthemoney.org/tools/election-overview?eid=4463)~~ (was FollowTheMoney, site merged into OpenSecrets, all URLs dead) (Tier 1)
 - [Governing: Fast food spent $4M to stop accountability bill](https://www.governing.com/policy/fast-food-spent-4m-to-stop-california-accountability-bill) (Tier 2)
 - [OpenSecrets: National Restaurant Association](https://www.opensecrets.org/orgs/national-restaurant-assn/summary?id=D000000150) (Tier 1)
 - [FPPC: CRA-PAC contribution records](https://cal-access.sos.ca.gov/Campaign/Committees/list.aspx?page=1) (Tier 1)

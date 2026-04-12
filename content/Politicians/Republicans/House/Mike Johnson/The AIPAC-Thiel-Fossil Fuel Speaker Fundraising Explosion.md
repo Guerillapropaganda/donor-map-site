@@ -29,7 +29,7 @@ donors: [[AIPAC - American Israel Public Affairs Committee]], [[Peter Thiel]], [
 | 2023 total | $104,000 | 4x previous career total |
 | Career total (through 2024) | $898,393+ | Accumulated primarily post-Speaker |
 
-The AIPAC money arrived after Johnson pushed the $14 billion Israel aid package through the House — separating Israel aid from Ukraine aid to maximize pro-Israel leverage. The November 2023 timing is explicit: $95,000 in the same month as the legislative action. The transaction is visible in the FEC filings.
+The AIPAC money arrived after Johnson pushed the $14 billion Israel aid package through the House, separating Israel aid from Ukraine aid to maximize pro-Israel leverage. The November 2023 timing is explicit: $95,000 in the same month as the legislative action. The transaction is visible in the FEC filings.
 
 ---
 
@@ -47,7 +47,7 @@ The AIPAC money arrived after Johnson pushed the $14 billion Israel aid package 
 
 ### The Russian-Connected Donation
 
-In 2018, American Ethane Company — 88% owned by Russian nationals Konstantin Nikolaev, Mikhail Yuriev, and Andrey Kunatbaev — donated to Johnson's campaign. The company had previously donated tens of thousands to Louisiana GOP campaigns. The donation raises the question of foreign financial influence on a congressman who would later become Speaker — though American Ethane is a U.S.-registered company and the donations were technically legal under campaign finance law.
+In 2018, American Ethane Company, 88% owned by Russian nationals Konstantin Nikolaev, Mikhail Yuriev, and Andrey Kunatbaev, donated to Johnson's campaign. The company had previously donated tens of thousands to Louisiana GOP campaigns. The donation raises the question of foreign financial influence on a congressman who would later become Speaker, though American Ethane is a U.S.-registered company and the donations were technically legal under campaign finance law.
 
 ---
 

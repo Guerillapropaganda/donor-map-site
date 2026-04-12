@@ -67,13 +67,13 @@ Early giving prioritized first-time candidates and challengers, establishing pat
 The real magnitude of Ocasio-Cortez's endorsement economy extends far beyond PAC disbursements:
 
 ### 2025 NYC Mayoral Race:
-Zohran Mamdani received her early endorsement and won—validating her endorsement as primary-moving force in New York progressive politics (Tier 2).
+Zohran Mamdani received her early endorsement and won, validating her endorsement as primary-moving force in New York progressive politics (Tier 2).
 
 ### 2026 New Jersey Special Election:
 Analilia Mejia, another AOC endorsee, outperformed baseline expectations and secured victory (Tier 2).
 
 ### 2020 Primary Unseating Incumbents:
-Her endorsements of Jamaal Bowman and Cori Bush preceded their primary victories over long-serving incumbent representatives—a material shift in House composition (Tier 2).
+Her endorsements of Jamaal Bowman and Cori Bush preceded their primary victories over long-serving incumbent representatives, a material shift in House composition (Tier 2).
 
 ### Donor Network Activation:
 Her social media audience (3.1M+ Instagram followers) and bundled small-dollar networks generate far more capital than $90-200K direct PAC contributions. ActBlue H1 2025 data ranks her 3rd nationally in small-dollar donation activation, behind only DNC and DSCC (Tier 2).
@@ -87,7 +87,7 @@ Chakrabarti co-founded both Justice Democrats and Brand New Congress, recruited 
 Coordinates multi-candidate endorsement slates, expanding her influence across state-level races.
 
 ### Democratic Socialists of America (DSA):
-Complex relationship marked by occasional divergence on endorsement priorities and strategy—not a unified bloc despite shared origins.
+Complex relationship marked by occasional divergence on endorsement priorities and strategy, not a unified bloc despite shared origins.
 
 ### Bernie Sanders Coalition:
 Q1 2025 "Fighting Oligarchy" tour fundraising with Sanders correlated with campaign spike to $9.6M (Tier 2), indicating his network mobilization capability intersects with hers.
@@ -99,11 +99,11 @@ Q1 2025 "Fighting Oligarchy" tour fundraising with Sanders correlated with campa
 ### Verified
 - [FEC: Courage to Change PAC committee page (C00692202)](https://www.fec.gov/data/committee/C00692202/) (Tier 1)
 - [FEC: Courage to Change independent expenditures](https://www.fec.gov/data/independent-expenditures/?committee_id=C00692202) (Tier 1)
-- [Reuters: Moderate Democrats Return Donations (2021)](https://www.reuters.com/world/us/moderate-democrats-return-courage-change-pac-donations-2021/) (Tier 2 — URL NEEDED)
-- [CNN: AOC Fundraising Juggernaut](https://www.cnn.com/) (Tier 2 — URL NEEDED)
-- [Politico: Q1 2025 Fundraising Analysis](https://www.politico.com/) (Tier 2 — URL NEEDED)
-- [City & State NY: Progressive Endorsement Slates](https://www.cityandstateny.com/) (Tier 2 — URL NEEDED)
-- [San Francisco Chronicle: CA-11 debate (Chakrabarti/Chan/Wiener), April 2026](https://www.sfchronicle.com/) (Tier 2 — URL NEEDED)
+- [Reuters: Moderate Democrats Return Donations (2021)](https://www.reuters.com/world/us/moderate-democrats-return-courage-change-pac-donations-2021/) (Tier 2. URL NEEDED)
+- [CNN: AOC Fundraising Juggernaut](https://www.cnn.com/) (Tier 2. URL NEEDED)
+- [Politico: Q1 2025 Fundraising Analysis](https://www.politico.com/) (Tier 2. URL NEEDED)
+- [City & State NY: Progressive Endorsement Slates](https://www.cityandstateny.com/) (Tier 2. URL NEEDED)
+- [San Francisco Chronicle: CA-11 debate (Chakrabarti/Chan/Wiener), April 2026](https://www.sfchronicle.com/) (Tier 2. URL NEEDED)
 
 ### Archived
 - ~~[OpenSecrets: Courage to Change 2024, 2022, 2020](https://www.opensecrets.org/political-action-committees-pacs/courage-to-change/C00692202/summary/2024)~~ (was Tier 1, OpenSecrets demoted, FEC committee page above covers same data)

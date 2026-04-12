@@ -21,7 +21,7 @@ related: "[[_Alexandria Ocasio-Cortez Master Profile|AOC]] · [[_Bernie Sanders 
 
 [[_Saikat Chakrabarti Master Profile|Chakrabarti]] didn't enter electoral politics as an established operative. He was a software engineer and data specialist who worked on the [[_Bernie Sanders Master Profile|Sanders]] 2016 campaign. That experience became the crucible for what followed.
 
-In April 2016, while Sanders was still competing, Chakrabarti and ~20 former Sanders staffers founded **Brand New Congress** — a PAC and operational vehicle designed to run candidates in 400+ House seats. The core team included Alexandra Rojas, Corbin Trent, and Zack Exley. The model was audacious: identify insurgent candidates, vet them, fund them, and coordinate messaging.
+In April 2016, while Sanders was still competing, Chakrabarti and ~20 former Sanders staffers founded **Brand New Congress**, a PAC and operational vehicle designed to run candidates in 400+ House seats. The core team included Alexandra Rojas, Corbin Trent, and Zack Exley. The model was audacious: identify insurgent candidates, vet them, fund them, and coordinate messaging.
 
 When Sanders lost, the appetite for a parallel candidate recruitment infrastructure only grew. By January 23, 2017, **Justice Democrats** formally launched as its sister PAC, with Chakrabarti as Executive Director. Co-founders included Exley, **[[Cenk Uygur]]** from The Young Turks, Kyle Kulinski from Secular Talk, Rojas, and Trent. The organizations would operate in tandem but with distinct legal structures and functions.
 
@@ -40,7 +40,7 @@ The first phase was nakedly experimental. Justice Democrats and Brand New Congre
 - Target 400+ House seats nationwide
 - Offer structured support to those selected
 
-This was "candidate as service" at scale—radical for its time. It bypassed the traditional gatekeeping of party operatives and polling firms.
+This was "candidate as service" at scale, radical for its time. It bypassed the traditional gatekeeping of party operatives and polling firms.
 
 #### Phase 2: Campaign in a Box (June–August 2017)
 
@@ -67,7 +67,7 @@ This became the durable architecture: two PACs with complementary functions, sup
 
 #### Justice Democrats PAC (FEC C00630665)
 
-Justice Democrats registered as a **Hybrid PAC with a Non-Contribution Account** — meaning it could accept both direct contributions (capped at $5,000 per donor per cycle) and unlimited independent expenditures.
+Justice Democrats registered as a **Hybrid PAC with a Non-Contribution Account**, meaning it could accept both direct contributions (capped at $5,000 per donor per cycle) and unlimited independent expenditures.
 
 | Cycle | Raised | Spent | Direct to Candidates |
 |-------|--------|-------|----------------------|
@@ -100,7 +100,7 @@ Brand New Congress contracted sharply after 2022, raising only $22,721 in 2024. 
 
 #### 2018: Small-Dollar Dominated
 
-The first cycle relied on grassroots small-dollar fundraising. The largest individual donor was Arden Buck (Colorado) at $11,500. [[_Saikat Chakrabarti Master Profile|Chakrabarti]] himself contributed $5,000 via "Some Character LLC" — his own shell entity.
+The first cycle relied on grassroots small-dollar fundraising. The largest individual donor was Arden Buck (Colorado) at $11,500. [[_Saikat Chakrabarti Master Profile|Chakrabarti]] himself contributed $5,000 via "Some Character LLC", his own shell entity.
 
 #### 2020: Venture Capital and PAC Transfers
 
@@ -161,7 +161,7 @@ The casting call model produced measurable electoral results, though not univers
 
 - **Endorsed candidates**: 30 (BNC) + 12 (JD)
 - **Primary wins**: 8 of 27 (30% success rate)
-- **General election wins**: 1 major — **[[_Alexandria Ocasio-Cortez Master Profile|AOC]]** in NY-14
+- **General election wins**: 1 major, **[[_Alexandria Ocasio-Cortez Master Profile|AOC]]** in NY-14
 
 [[_Alexandria Ocasio-Cortez Master Profile|AOC]] became the public face of the operation. A 28-year-old community organizer, she was recruited through the BNC casting call, trained and media-prepped by the infrastructure, and then defeated an incumbent, the chair of the House Democratic caucus. It validated Chakrabarti's model entirely.
 
@@ -207,7 +207,7 @@ By 2024, Chakrabarti's PACs and operational machines had:
 5. **Demonstrated a hybrid PAC model** that blended small-dollar grassroots with large institutional funders
 6. **Integrated venture capital** (Preston-Werner, Dudum, Ebrahimi) into progressive electoral infrastructure
 
-The infrastructure was not a monolith. It thrived on tension between revolutionary rhetoric (overturning incumbents, class-based messaging) and pragmatic institutionalization (PAC bureaucracy, FEC compliance, embedded within Democratic funding ecosystems). By 2024, it had become establishment—the very gatekeeping it sought to disrupt.
+The infrastructure was not a monolith. It thrived on tension between revolutionary rhetoric (overturning incumbents, class-based messaging) and pragmatic institutionalization (PAC bureaucracy, FEC compliance, embedded within Democratic funding ecosystems). By 2024, it had become establishment, the very gatekeeping it sought to disrupt.
 
 ---
 

@@ -50,13 +50,13 @@ Annual revenue has ranged from $37 million (2024, a contraction year) to $52 mil
 George Soros pledged $3 million to help launch CAP in 2003, alongside other major Democratic donors including Peter Lewis, Steve Bing, and Herb and Marion Sandler.
 
 ### Board members who are also donors:
-- **Hansjörg Wyss** — Swiss billionaire (net worth ~$5-6B), founder of the $2.7B Wyss Foundation, sits on CAP's board of directors. Also funds through the Berger Action Fund ($232M) and the Arabella Advisors dark money network. Wyss is a foreign national, which raises legal questions about his role in U.S. political infrastructure.
-- **Donald Sussman** — Hedge fund manager and major Democratic donor, board director. One of the largest individual donors to Democratic causes in the 2016 cycle.
-- **[[Tom Steyer]]** — Billionaire climate donor, former CAP board director (through ~2019). Funded CAP and later ran for president in 2020.
-- **Senator Tom Daschle** — Former Senate Majority Leader, CAP board chair (2022-present). Former lobbyist.
-- **Jonathan Lavine** — Managing partner at Bain Capital, former board director.
-- **Glenn Hutchins** — Silver Lake Partners co-founder, former board director.
-- **Eric Mindich** — Hedge fund manager (former), board director through 2023.
+- **Hansjörg Wyss**. Swiss billionaire (net worth ~$5-6B), founder of the $2.7B Wyss Foundation, sits on CAP's board of directors. Also funds through the Berger Action Fund ($232M) and the Arabella Advisors dark money network. Wyss is a foreign national, which raises legal questions about his role in U.S. political infrastructure.
+- **Donald Sussman**. Hedge fund manager and major Democratic donor, board director. One of the largest individual donors to Democratic causes in the 2016 cycle.
+- **[[Tom Steyer]]**. Billionaire climate donor, former CAP board director (through ~2019). Funded CAP and later ran for president in 2020.
+- **Senator Tom Daschle**. Former Senate Majority Leader, CAP board chair (2022-present). Former lobbyist.
+- **Jonathan Lavine**. Managing partner at Bain Capital, former board director.
+- **Glenn Hutchins**. Silver Lake Partners co-founder, former board director.
+- **Eric Mindich**. Hedge fund manager (former), board director through 2023.
 
 ### Foundation donors ($1M+ in 2022, self-reported):
 Bloomberg Philanthropies, Carnegie Corporation of New York, Chan Zuckerberg Initiative, Bill & Melinda Gates Foundation, William and Flora Hewlett Foundation, Sandler Foundation, Silicon Valley Community Foundation, Wellspring Philanthropic Fund.
@@ -77,7 +77,7 @@ Bloomberg Philanthropies, Carnegie Corporation of New York, Chan Zuckerberg Init
 - NBCUniversal: donor
 
 ### Dark money connections:
-CAP is embedded in the Arabella Advisors progressive dark money network, which operates through the New Venture Fund (501c3) and Sixteen Thirty Fund (501c4). Wyss's funding flows through these vehicles. As of 2024, CAP stopped publishing its donor honor roll, citing concerns about donor targeting — a decision that also conveniently reduces transparency at a moment when corporate and foreign-linked donor relationships have attracted scrutiny.
+CAP is embedded in the Arabella Advisors progressive dark money network, which operates through the New Venture Fund (501c3) and Sixteen Thirty Fund (501c4). Wyss's funding flows through these vehicles. As of 2024, CAP stopped publishing its donor honor roll, citing concerns about donor targeting, a decision that also conveniently reduces transparency at a moment when corporate and foreign-linked donor relationships have attracted scrutiny.
 
 ---
 
@@ -88,7 +88,7 @@ CAP is embedded in the Arabella Advisors progressive dark money network, which o
 | 2003 | Obama transition framework ("Change for America" blueprint) | $3M+ (Soros founding pledge) | CAP's 2009 "Change for America" agenda adopted as Obama transition blueprint; 10 CAP experts joined Obama transition team | 6 years |
 | 2009-2010 | ACA (Affordable Care Act) | Goldman Sachs $50K+, AHIP donor, PhRMA donor | ACA preserved private insurance market; no public option; no single-payer. CAP's Neera Tanden served as senior HHS health reform advisor during drafting | 2-4 years from donations to legislation |
 | 2014-2015 | Obama White House | Wyss Foundation multi-year | John Podesta (CAP founder) became Obama White House Counselor overseeing climate and regulatory policy; Wyss funded climate-aligned CAP research | 2-3 years |
-| 2017-2018 | "Medicare Extra" proposal | AHIP donor, PhRMA donor, insurance industry donors | CAP's public option proposal included private insurance carve-out — no single-payer pathway; became the policy floor for Democratic debate | 1-3 years |
+| 2017-2018 | "Medicare Extra" proposal | AHIP donor, PhRMA donor, insurance industry donors | CAP's public option proposal included private insurance carve-out, no single-payer pathway; became the policy floor for Democratic debate | 1-3 years |
 | 2021-2022 | Biden administration (70+ hires) | Wyss Foundation, Bloomberg, tech donors | Near-wholesale transfer of CAP staff into Biden White House: Tanden (Domestic Policy Council), Klain (Chief of Staff connections), Magsamen (Pentagon), McDonough (VA) | Ongoing from 2003 investment |
 | 2022-2023 | Inflation Reduction Act ($369B climate) | Google $100K+, Apple $100K+, Wyss Foundation | John Podesta (CAP founder) appointed Biden clean energy czar to oversee IRA implementation; climate spending structured as private-sector investment vehicle | 20 years from CAP founding |
 | 2023-2024 | Financial regulation rollback prevention | Goldman Sachs $50K+, Citigroup $100K+ | CAP produced no major push for breaking up big banks or reinstating Glass-Steagall equivalents; Wall Street donors protected from structural reform agenda | Continuous |
@@ -101,16 +101,16 @@ CAP is embedded in the Arabella Advisors progressive dark money network, which o
 ### What They Produce
 
 ### Landmark policy papers:
-- **"Universal Health Care Coverage for the United States" (2007)** — CAP's pre-ACA healthcare blueprint. Preserved employer-sponsored insurance and private insurance markets. Became the substantive framework for Democratic health reform debate.
-- **"Change for America" (2008-2009)** — Comprehensive policy agenda for an incoming Democratic administration. Adopted as de facto Obama transition blueprint; 10 CAP experts joined the Obama transition team.
-- **"Medicare Extra for All" (2018)** — Public option proposal with explicit private insurance opt-out provision. Foreclosed the single-payer debate within mainstream Democratic policy space.
-- **"A 100% Clean Future" (2019)** — Climate policy roadmap whose key provisions (clean electricity standard, climate finance mechanisms) appeared in Biden's Build Back Better framework and the Inflation Reduction Act.
+- **"Universal Health Care Coverage for the United States" (2007)**. CAP's pre-ACA healthcare blueprint. Preserved employer-sponsored insurance and private insurance markets. Became the substantive framework for Democratic health reform debate.
+- **"Change for America" (2008-2009)**. Comprehensive policy agenda for an incoming Democratic administration. Adopted as de facto Obama transition blueprint; 10 CAP experts joined the Obama transition team.
+- **"Medicare Extra for All" (2018)**. Public option proposal with explicit private insurance opt-out provision. Foreclosed the single-payer debate within mainstream Democratic policy space.
+- **"A 100% Clean Future" (2019)**. Climate policy roadmap whose key provisions (clean electricity standard, climate finance mechanisms) appeared in Biden's Build Back Better framework and the Inflation Reduction Act.
 
 ### Media infrastructure:
-ThinkProgress (2005-2019) — CAP's in-house media outlet, which at peak operated as one of the most-read progressive websites. Shut down in September 2019 after the staff unionized and CAP refused to fund the union contract — a revealing episode of donor-class priorities overriding stated progressive commitments.
+ThinkProgress (2005-2019). CAP's in-house media outlet, which at peak operated as one of the most-read progressive websites. Shut down in September 2019 after the staff unionized and CAP refused to fund the union contract, a revealing episode of donor-class priorities overriding stated progressive commitments.
 
 ### Model legislation:
-CAP produces policy memos and legislative language that Democratic Congressional staff regularly incorporate verbatim. Unlike ALEC on the right, CAP does not formally distribute model legislation — but the revolving door performs the same function. CAP staff who become Senate HELP Committee staffers or White House domestic policy advisors bring the same policy frameworks with them.
+CAP produces policy memos and legislative language that Democratic Congressional staff regularly incorporate verbatim. Unlike ALEC on the right, CAP does not formally distribute model legislation, but the revolving door performs the same function. CAP staff who become Senate HELP Committee staffers or White House domestic policy advisors bring the same policy frameworks with them.
 
 ---
 
@@ -124,14 +124,14 @@ A squadron of CAP experts worked with Obama's 2008-2009 transition team. CAP's "
 ### Biden administration (2021-2025):
 Politico described CAP as "the most influential think tank of the Biden era" in 2021. By mid-2021, nearly 70 CAP employees had joined the Biden administration. Key placements included: Ron Klain (Chief of Staff, with CAP connections), Neera Tanden (Staff Secretary, then Domestic Policy Council Director), Kelly Magsamen (Pentagon Chief of Staff), Brian Deese (NEC Director, with CAP ties). In September 2022, Biden appointed CAP founder John Podesta as clean energy czar with control over roughly $370 billion in IRA climate spending.
 
-### Trump 2.0 era — opposition research and Democratic rebuild (2025–):
-As Biden's administration ended in January 2025, the revolving door reversed: CAP became the landing pad for departing Democratic officials rather than the launchpad. Neera Tanden — who left CAP for a Biden White House position in 2021 and rose to Domestic Policy Council Director — returned to lead CAP as president and CEO in January 2025, her second stint running the organization.
+### Trump 2.0 era, opposition research and Democratic rebuild (2025–):
+As Biden's administration ended in January 2025, the revolving door reversed: CAP became the landing pad for departing Democratic officials rather than the launchpad. Neera Tanden, who left CAP for a Biden White House position in 2021 and rose to Domestic Policy Council Director, returned to lead CAP as president and CEO in January 2025, her second stint running the organization.
 
-Tanden's return signals CAP's pivot to opposition infrastructure. In a February 2025 interview with Semafor, she explicitly positioned CAP as the institution Democrats need for both aggressive Trump resistance and alternative agenda development: "The most important thing about Trump is that he's a bully, and if you cower he will take your breakfast money and your lunch money. He'll take all your money." She also told Democrats they "should not be knee-jerk institution defenders" — a posture that, coming from the head of the Democratic establishment's flagship think tank, is notable.
+Tanden's return signals CAP's pivot to opposition infrastructure. In a February 2025 interview with Semafor, she explicitly positioned CAP as the institution Democrats need for both aggressive Trump resistance and alternative agenda development: "The most important thing about Trump is that he's a bully, and if you cower he will take your breakfast money and your lunch money. He'll take all your money." She also told Democrats they "should not be knee-jerk institution defenders", a posture that, coming from the head of the Democratic establishment's flagship think tank, is notable.
 
 The structural pattern is unchanged: CAP follows the power. When Democrats are in government, CAP deploys its staff. When Democrats are in opposition, CAP warehouses them and generates the research agenda for the next administration. The $37-52M annual budget continues flowing from the same donor base regardless of which party holds the White House.
 
-**The mechanism:** CAP functions as a Democratic government-in-waiting. It hires talent between Democratic administrations, keeps them productively employed drafting policy, then deploys them into government when Democrats win. The donors who fund CAP fund the institution that produces the people who run the government. Policy preferences do not need to be delivered via campaign contributions — they're baked into the staff.
+**The mechanism:** CAP functions as a Democratic government-in-waiting. It hires talent between Democratic administrations, keeps them productively employed drafting policy, then deploys them into government when Democrats win. The donors who fund CAP fund the institution that produces the people who run the government. Policy preferences do not need to be delivered via campaign contributions, they're baked into the staff.
 
 ---
 
@@ -154,16 +154,16 @@ The pattern is structurally significant: CAP is not a think tank that occasional
 ### What Their Funders Got
 
 ### Private insurance industry (AHIP, Eli Lilly, PhRMA):
-The ACA, drafted during a period when CAP provided both the policy framework and key HHS staff, preserved the private insurance market as the structural foundation of American healthcare. No public option survived. No single-payer pathway was advanced. The individual mandate created a captive customer base for private insurers. CAP's "Medicare Extra" proposal (2018) explicitly carved out a role for private insurance in any future public option — foreclosing single-payer before the debate began.
+The ACA, drafted during a period when CAP provided both the policy framework and key HHS staff, preserved the private insurance market as the structural foundation of American healthcare. No public option survived. No single-payer pathway was advanced. The individual mandate created a captive customer base for private insurers. CAP's "Medicare Extra" proposal (2018) explicitly carved out a role for private insurance in any future public option, foreclosing single-payer before the debate began.
 
 ### Wall Street (Goldman Sachs, Citigroup, Bank of America):
-CAP produced no serious agenda for reinstating Glass-Steagall, breaking up Too Big to Fail banks, or imposing structural financial reform during either the Obama or Biden eras. Dodd-Frank (2010), shaped in part by alumni of CAP-adjacent networks, preserved the major banks intact. The IRA created a new green finance market in which Wall Street institutions are positioned as climate capital intermediaries — a mechanism that enriches the financial sector while addressing climate emissions.
+CAP produced no serious agenda for reinstating Glass-Steagall, breaking up Too Big to Fail banks, or imposing structural financial reform during either the Obama or Biden eras. Dodd-Frank (2010), shaped in part by alumni of CAP-adjacent networks, preserved the major banks intact. The IRA created a new green finance market in which Wall Street institutions are positioned as climate capital intermediaries, a mechanism that enriches the financial sector while addressing climate emissions.
 
 ### Tech sector (Google, Apple, Microsoft):
 No major antitrust push emerged from CAP's policy pipeline during either the Obama or Biden administrations. The Biden administration's late-term FTC activism was independent of CAP. CAP published no major research agenda calling for breaking up platform monopolies while Google and Apple were among its disclosed donors.
 
 ### Defense contractors (Northrop Grumman):
-CAP's foreign policy shop consistently operated within the liberal interventionist consensus — supporting NATO commitments, opposing troop withdrawal from Afghanistan, backing drone warfare — positions compatible with sustained defense contractor revenue. No serious agenda for Pentagon budget reduction has emerged from CAP's policy output.
+CAP's foreign policy shop consistently operated within the liberal interventionist consensus, supporting NATO commitments, opposing troop withdrawal from Afghanistan, backing drone warfare, positions compatible with sustained defense contractor revenue. No serious agenda for Pentagon budget reduction has emerged from CAP's policy output.
 
 > [!contradiction]
 > CAP describes itself as a "progressive" institution committed to reducing inequality and expanding access to healthcare, education, and economic opportunity. Its donor list includes the private insurance lobby (AHIP), the pharmaceutical industry (PhRMA, Eli Lilly), Wall Street (Goldman Sachs, Citigroup), a defense contractor (Northrop Grumman), and major tech monopolies (Google, Apple, Microsoft). Its most significant healthcare proposal preserved private insurance. Its most prominent climate proposal created a private investment market. Its founding donor (Soros) and key board members (Sussman, Wyss, Hutchins, Lavine, Mindich) are all drawn from hedge funds, private equity, or billionaire philanthropy. CAP is progressive in its branding and in the genuine gains it has delivered on social issues (LGBTQ+ rights, immigration reform rhetoric, voting rights advocacy). It is not progressive on the structural economic questions — healthcare financialization, Wall Street regulation, defense budgets — that would most directly threaten the financial interests of its donor base.
@@ -174,7 +174,7 @@ CAP's foreign policy shop consistently operated within the liberal interventioni
 
 The Center for American Progress occupies a specific structural position in the U.S. political economy: it is the donor class's mechanism for managing Democratic Party policy. Its function is not to advance progressive policy in any structurally threatening sense. Its function is to ensure that when Democrats hold power, the policy outputs are compatible with the financial interests of the donors who funded the institution that produced the people who now run the government.
 
-This is not a conspiracy — it is an architecture. The architecture works as follows: billionaires and corporations who benefit from a functioning but unreformed capitalist state fund a think tank that employs smart people, produces legitimate research, and trains a generation of technocrats. Those technocrats enter Democratic administrations. Democratic administrations produce policies that are modestly redistributive on social dimensions (civil rights, climate investment, healthcare coverage expansion) while leaving structural economic arrangements — financial regulation, healthcare markets, corporate taxation, defense spending — substantially intact.
+This is not a conspiracy, it is an architecture. The architecture works as follows: billionaires and corporations who benefit from a functioning but unreformed capitalist state fund a think tank that employs smart people, produces legitimate research, and trains a generation of technocrats. Those technocrats enter Democratic administrations. Democratic administrations produce policies that are modestly redistributive on social dimensions (civil rights, climate investment, healthcare coverage expansion) while leaving structural economic arrangements, financial regulation, healthcare markets, corporate taxation, defense spending, substantially intact.
 
 CAP's rhetorical function is to provide a progressive vocabulary for this project. The ACA is "universal healthcare." The IRA is a "Green New Deal." The public option is "Medicare for All." The vocabulary signals progressive intent. The donor list signals the structural limits. The revolving door delivers the outcome.
 
@@ -186,7 +186,7 @@ The ThinkProgress episode is instructive: when CAP's own progressive media staff
 
 - [ProPublica Nonprofit Explorer: Center for American Progress (EIN 30-0126510)](https://projects.propublica.org/nonprofits/organizations/300126510) (Tier 1)
 - [ProPublica Nonprofit Explorer: CAP Action Fund (EIN 30-0192708)](https://projects.propublica.org/nonprofits/organizations/300192708) (Tier 1)
-- [OpenSecrets: Center for American Progress — Organization Profile](https://www.opensecrets.org/orgs/center-for-american-progress/summary?id=D000032441) (Tier 1)
+- [OpenSecrets: Center for American Progress. Organization Profile](https://www.opensecrets.org/orgs/center-for-american-progress/summary?id=D000032441) (Tier 1)
 - [The Nation: The Secret Donors Behind the Center for American Progress and Other Think Tanks](https://www.thenation.com/article/archive/secret-donors-behind-center-american-progress-and-other-think-tanks-updated-524/) (Tier 2)
 - [Think Tank Funding Tracker: Center for American Progress](https://thinktankfundingtracker.org/think-tank/center-for-american-progress/) (Tier 2)
 - [InfluenceWatch: Center for American Progress (CAP)](https://www.influencewatch.org/non-profit/center-for-american-progress-cap/) (Tier 3)
@@ -197,9 +197,9 @@ The ThinkProgress episode is instructive: when CAP's own progressive media staff
 - [Politico: The Most Influential Think Tank of the Biden Era Has a New Leader](https://www.politico.com/news/2021/06/30/center-for-american-progress-new-leader-497167) (Tier 2)
 - [The Hill: Liberal News Site ThinkProgress Shutting Down](https://thehill.com/homenews/media/460268-liberal-news-site-thinkprogress-shutting-down/) (Tier 3)
 - [The Intercept: Leaked Emails From Pro-Clinton Group Reveal Censorship of Staff on Israel, AIPAC Pandering](https://theintercept.com/2015/11/05/leaked-emails-from-pro-clinton-group-reveal-censorship-of-staff-on-israel-aipac-pandering-warped-militarism/) (Tier 2)
-- [Truthdig: The Center for American Progress Isn't Fooling Anybody — ThinkProgress union shutdown analysis (2019)](https://www.truthdig.com/articles/liberal-think-tank-shutters-its-unionized-news-site-thinkprogress/) (Tier 2)
+- [Truthdig: The Center for American Progress Isn't Fooling Anybody. ThinkProgress union shutdown analysis (2019)](https://www.truthdig.com/articles/liberal-think-tank-shutters-its-unionized-news-site-thinkprogress/) (Tier 2)
 - [The Nation: Corporate Influence at the Center for American Progress?](https://www.thenation.com/article/archive/corporate-influence-center-american-progress/) (Tier 2)
-- [Jacobin: How CAP Fuels the Right — Tanden, Israel, and donor-driven foreign policy (2019)](https://jacobin.com/2019/04/center-for-american-progress-tanden-israel-omar) (Tier 2)
+- [Jacobin: How CAP Fuels the Right. Tanden, Israel, and donor-driven foreign policy (2019)](https://jacobin.com/2019/04/center-for-american-progress-tanden-israel-omar) (Tier 2)
 - [Semafor: Center for American Progress' new head Neera Tanden says Democrats 'should not be knee-jerk institution defenders' (February 2025)](https://www.semafor.com/article/02/20/2025/new-center-for-american-progress-head-neera-tanden-interview-on-democrats) (Tier 2)
 
 ### Tax Filings (IRS 990)
