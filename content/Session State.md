@@ -3,7 +3,7 @@ title: Session State
 type: system
 last-updated: 2026-04-12
 ---
-<!-- last session: 4 dashboard bug fixes (graph overflow, enrichment count, calendar timestamps, vault health donut 0%→74%) -->
+<!-- last session: D3 force graph + bidirectional connections + enrichment detail view + type colors -->
 
 
 # Session State
@@ -14,62 +14,64 @@ Both Code Claude and Research Claude update this at the end of every session. Re
 
 ## Last Session
 Claude: Code
+Date: 2026-04-12 late night — relationships graph overhaul + pipeline reporting
+
+### Theme
+Replaced the unusable orbit graph with a D3 force-directed graph, fixed bidirectional connection gaps (Newsom not showing Trump as opponent), added per-profile enrichment detail view to pipeline page, and shipped relationship type colors to the live site. 5 commits, 4 deploys, all successful.
+
+### Done
+
+- **D3 Force Graph** (`ops/src/app/relationships/page.tsx`). Replaced manual orbit layout with D3 force simulation: `forceSimulation` + `forceManyBody(-120)` + `forceCollide` + `forceLink`. Small colored circles (r=7) per node, always-visible faint labels (opacity 0.35) that brighten on hover with tooltip. Per-type filter toggles (donors/related/opposes/stories). Zoom, pan, drag nodes, click to navigate, right-click context menu. Commits `fe451199`, `62c64b26`.
+
+- **Stories bug fix** (`ops/src/app/api/connections/route.ts`). Story-link edges only populated the SOURCE profile's stories array (the story itself), not the TARGET (the person the story is about). Trump had 0 stories despite 47 story-link edges pointing at him. Fixed: both endpoints now get the connection.
+
+- **Bidirectional connections** (`ops/src/app/api/connections/route.ts`). Opposes and related edges now bidirectional in the API. If Trump opposes Newsom, Newsom also shows Trump in his opposes list. Previously only stories had this reverse-population treatment. Commit `395bc71b`.
+
+- **ProfileWidget type colors** (`quartz/components/ProfileWidget.tsx`). Flow rows now get colored left-border by relationship type: green=donor, blue=related, red=opposes, purple=story. CSS classes `pw-rel-donor`, `pw-rel-related`, `pw-rel-opposes`, `pw-rel-story`.
+
+- **Alerts cap fix** (`ops/src/app/api/status/route.ts`). Removed `Math.min(alertsCritical, 99)` cap that was silently truncating the dashboard critical alert count.
+
+- **Enrichment detail view** (`ops/src/app/api/enrichment-log/route.ts`, `ops/src/components/EnrichmentLog.tsx`). New API endpoint parses `Auto-Enrichment Log.md` into structured per-pipeline, per-profile results with conflict flags. Groups entries into batches (15-min windows). New component on pipeline page shows exactly who was enriched, what was found, and which profiles had merge conflicts. Filterable by pipeline type. Commit `11a1a357`.
+
+- **D3 installed in ops** (`ops/package.json`). Added `d3` + `@types/d3` to ops dependencies.
+
+### Pipeline health check
+- Dispatcher running (PID 1807, 23+ hours)
+- Janitor clean (0 issues, 1,850 profiles scanned)
+- Enrichment pipeline: 6 green runs on April 11-12 (scheduled + manual). Last cancelled runs were April 4.
+
+### Known issues / still outstanding
+- **3 stories need FEC Tier 1 migration** (Intra-Republican, Schumer-McConnell, Michigan 2026). Editor-only.
+- **Contradiction 06 Crypto** flagged by voice-drift-detector (13 em dashes). Research Claude lane.
+- **Feature requests remaining:** Money trail graph, profile type differentials in graph nodes, mutual/opposition tags, scripts page Run buttons verification.
+
+### Next session priorities
+1. **Money trail graph** — interactive directed money flow visualization (David's #2 feature request)
+2. **Profile type differentials** — thread rulebook colors (media purple, K Street amber, etc.) into graph nodes for both Ops and live site
+3. **Scripts page Run buttons** — verify they actually trigger pipelines
+4. **Content depth** — Research Claude: draft-to-ready promotions, editorial depth passes
+
+### Session end state
+- **5 commits, 4 successful deploys**
+- **Latest deploy:** `d946c6ee` (run 24309195006)
+- **Worktree ops server** on port 3334 still running for testing
+
+---
+
+## Previous Session
+Claude: Code
 Date: 2026-04-12 morning — bug fix session from David's wrinkles list
 
 ### Theme
 David reported 16 issues across the Ops app. Triaged into 4 fixable bugs (shipped), 2 non-bugs (explained), 6 feature requests (roadmapped), and 4 operational items (step-by-step directions given). All 4 code fixes verified in preview with zero console errors.
 
 ### Done — 4 dashboard bug fixes (commit `a53bf573` → merge `54315fd7`)
-
-- **Bug A: Relationships graph overflow.** `ops/src/app/relationships/page.tsx` line 1229: container grew to `connectionCount * 20` px (3000px+ for well-connected profiles), causing SVG lines to radiate from an offscreen center. Fixed: capped at `max(500, min(connectionCount * 20, 700))`, added `overflow: hidden` + `mx-auto` centering.
-
-- **Bug B: Stories counted as "Not Enriched".** `ops/src/lib/vault.ts` `computeStats()`: all profiles without `lastEnriched` counted as "neverEnriched", including stories/events/meta that never need pipeline enrichment (enrichment weight = 0 per Phase 1d). Fixed: built `ENRICHMENT_NOT_APPLICABLE` set from `WEIGHTS_BY_TYPE`, added inline `resolveTypeForStats()` helper (can't import the `fs`-dependent `profile-type-rulebook.ts` because `vault.ts` is bundled for the client via `VaultGrid.tsx`). NOT ENRICHED dropped **1,223 → 296**. NEVER ENRICHED dropped to **306**.
-
-- **Bug C: Calendar task timestamps show UTC.** `ops/src/app/calendar/Calendar.tsx` line 288 + `DayModal.tsx` line 216: the live clock was fixed (uses `getHours/getMinutes`) but task completion timestamps still used `.slice(11, 16)` on ISO strings (extracting UTC time). At 4:41am CT = 11:41 UTC, showed "11:41". Fixed: replaced with `new Date(ts).toLocaleTimeString("en-US", { hour: "2-digit", minute: "2-digit", hour12: false })`.
-
-- **Bug D: Vault Health donut showing 0%.** `ops/src/app/page.tsx` lines 303-305: inline filter used kebab-case bracket access `p["content-readiness"]` on profile objects that have camelCase `p.contentReadiness` (mapped by `local-vault.ts`). Every profile returned `undefined`, so verified=0, draft=0, healthPct=0%. Fixed: switched to `p.contentReadiness`, also added `s-tier` to the verified bucket. Result: **0% → 74%**.
-
-### Explained to David (not bugs)
-
-- **S-Tier filter shows 0.** Zero profiles in the vault have `content-readiness: s-tier`. The filter works correctly — it shows 0 because there are 0 s-tier profiles. First one will appear when David manually promotes a verified profile.
-
-- **Alerts dashboard vs alerts page.** The delegation fix IS shipped (`/api/status` calls `/api/alerts`). If numbers look wrong, the issue is in `/api/alerts` endpoint itself, not the dashboard display. Follow-up investigation needed.
-
-### Roadmapped (feature requests, not this session)
-
-1. **Relationship type visual distinctions** — color-coded edges by type (monetary green, opposition red, story purple, mutual gold). Stories should show as purple "STORY" badges instead of generic "related".
-2. **Money trail graph** — interactive page with directed money flow, river-effect lines showing direction.
-3. **Profile type differentials** — thread rulebook colors into relationship graph nodes for media, K Street, judicial, corporations, dark money.
-4. **Mutual/opposition tags** — new relationship concept for bidirectional monetary edges where both parties benefit. Needs schema discussion.
-5. **Scripts triggerable by buttons** — verify `/scripts` page Run buttons work.
-6. **Rules folder + scripts documentation** — add script function descriptions to CLAUDE.md.
-
-### Operational directions given to David
-
-- **Attention dispatcher auto-start:** step-by-step for `shell:startup` shortcut (File Explorer → `shell:startup` → New Shortcut → `cmd /c cd /d "C:\Users\third\donor-map-site" && node scripts/attention-dispatcher.cjs --daemon`).
-- **Healthchecks.io:** sign up, create check, set period 2h / grace 30min, copy ping URL, set `HEALTHCHECKS_PING_URL` env var.
-- **UptimeRobot:** sign up, add HTTP(s) monitor for `https://thedonormap.org`, 5-min interval.
-- **Sentry:** optional, sign up, create Node.js project, copy DSN for future wiring.
-
-### Known issues / still outstanding
-
-- **Alerts endpoint** may be computing wrong counts — delegation works but source data needs investigation.
-- **3 stories need FEC Tier 1 migration** (Intra-Republican, Schumer-McConnell, Michigan 2026). Each has known-gaps with exact FEC IDs. Editor-only.
-- **Contradiction 06 Crypto** flagged by voice-drift-detector (13 em dashes). Research Claude lane.
-- **Feature requests** from David's list (relationship visuals, money trail, mutual tags, etc.) need plan-mode design sessions.
-
-### Next session priorities
-
-1. **Relationship type visual distinctions** — plan-mode design for color-coding edges by type in ProfileWidget + DiscoveryPanel. This is David's #1 feature request and directly visible to users.
-2. **Stories showing as "related" instead of purple** — the per-profile JSON has a `stories` array; ProfileWidget just needs to render those entries with a different badge/color.
-3. **Alerts endpoint investigation** — debug `/api/alerts` to find why counts may be wrong.
-4. **Content work** — shift from architecture to editorial depth: Research Claude depth passes, draft→ready promotions.
-5. **David: FEC migration + dispatcher startup + external services** (operational items with step-by-step directions already provided).
+- **Bug A:** Relationships graph overflow capped at max 700px
+- **Bug B:** Stories/events excluded from "Not Enriched" count (1,223 → 296)
+- **Bug C:** Calendar timestamps converted from UTC to local time
+- **Bug D:** Vault Health donut fixed (0% → 74%) by switching to camelCase property access
 
 ### Session end state
-- **4 bugs fixed and deployed** — graph, enrichment, timestamps, vault health donut
-- **16-item wrinkles list fully triaged** — 4 fixed, 2 explained, 6 roadmapped, 4 operational directions given
-- **Preview verified:** zero console errors, vault health 74%, enrichment counts honest
 - **Latest deploy:** `54315fd7`
 
 ---
