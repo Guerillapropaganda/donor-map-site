@@ -154,6 +154,18 @@ But CAFO regulation would threaten Tyson Foods, Cargill, JBS USA — the multina
 
 ---
 
+## Class Analysis
+
+Joni Ernst's political career was purchased for $12 million. Koch Network super PACs, Americans for Prosperity, Freedom Partners, the 60 Plus Association, American Future Fund, and the National Federation of Independent Business spent $12M+ in outside money to elect her in 2014, a sum equal to what her own campaign raised. Joni Ernst acknowledged the purchase openly. At a Koch donor retreat at the St. Regis Monarch Beach, she told the room that the Koch Network "really started my trajectory." 74% of non-party outside spending in her race was dark money. The hog farm brand was the product. Corporate agriculture was the customer.
+
+Iowa's agricultural consolidation is the class context. Over four decades, farmland has concentrated into industrial operations. The top 10% of farms receive the majority of federal subsidy money. Joni Ernst campaigns as a family farmer defending family farming, but her legislative record serves the corporations that are displacing family farms. She co-chairs the Biofuels Caucus and champions the Renewable Fuel Standard, which sounds like support for Iowa agriculture. The beneficiaries are Archer Daniels Midland, Valero Energy, and POET LLC, multinational corporations that operate industrial-scale ethanol refineries. Ethanol subsidies flow to large-scale commodity corn producers and the multinational processors who buy their output. Small family farmers do not benefit proportionately. Joni Ernst fought her own party's EPA administrator on small-refinery waivers in 2018 and 2019. That was not populist independence. That was donor defense. Ethanol processors fund Joni Ernst. EPA waivers threatened their revenue. She protected her donors' market.
+
+The meatpacking money follows the same pattern. Tyson Foods, Cargill, and JBS USA operate concentrated animal feeding operations across Iowa. Joni Ernst has consistently opposed CAFO regulation and co-sponsored the EATS Act to override California's Proposition 12 livestock welfare requirements. The meatpacking corporations want deregulation. They donate to Joni Ernst. She delivers deregulation. The "family farmer" defending rural Iowa is defending the industrial operations that have made family farming economically unviable. The Koch Network's $12M investment purchased a decade of this service: farm bill votes that funnel subsidies to industrial agriculture, ethanol advocacy for multinational processors, CAFO deregulation for meatpacking conglomerates, and a senator who frames all of it as standing up for Iowa farmers.
+
+Joni Ernst announced her retirement in September 2025, avoiding a 2026 reelection that would have forced the contradiction into public view. Iowa is shifting, and the gap between the family farm brand and the corporate agriculture reality was becoming harder to maintain. Eleven years of Koch service, then a quiet exit. The trajectory the Koch Network started, they also got to finish.
+
+---
+
 ## Analytical Patterns
 
 **The Genuine Win + Structural Limit** — Ernst has secured genuine policy victories on ethanol subsidies, farm bill provisions, and agricultural infrastructure that deliver real benefits to Iowa's agricultural sector. However, these victories accrue primarily to large-scale industrial agriculture, agribusiness conglomerates, and input manufacturers—not to family farmers. Her "support for Iowa farmers" is structurally real but directed at corporate agriculture rather than at the family farm consolidation crisis that actually threatens her constituency.

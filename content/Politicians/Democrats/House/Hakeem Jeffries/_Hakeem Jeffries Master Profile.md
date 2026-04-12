@@ -170,6 +170,18 @@ The institutional continuity is the point. Jeffries was selected because he woul
 >
 > **Wall Street $3M+ → Build Back Better gutting:** Finance sector funding → Jeffries opposes wealth tax additions. The Minority Leader's role in diluting progressive legislation traces directly to who funds his leadership PAC.
 
+## Class Analysis
+
+Hakeem Jeffries is the Democratic donor class's succession plan. Nancy Pelosi recruited him, mentored him, and retired to install him as leader. The transition was not a power struggle. It was a handoff, designed to ensure the donor infrastructure survived the leadership change. The function remains identical: collect corporate money, distribute to loyal members, freeze out insurgents, maintain Wall Street and AIPAC relationships, speak the language of the constituency while serving the interests of the donor class.
+
+The geographic class analysis is the sharpest lens. Jeffries represents Crown Heights and Brownsville, historically Black neighborhoods being hollowed out by gentrification. His top donors are the real estate industry ($365K in 2022) and Wall Street ($600K in 2022), the exact industries driving the displacement of his constituency. The zip codes of his donors are the zip codes of Brooklyn's displacement. The zip codes of his constituents are the zip codes of the displaced. Jeffries stands at the intersection of these two class interests and services the one that writes checks.
+
+The AIPAC relationship reveals the donor class's operational mechanics. Jeffries publicly claims AIPAC's direct PAC contribution is $5,000-$10,000 per cycle. Technically true. The actual figure, including coordinated independent spending, bundled contributions, and affiliated PAC networks, is $1.3M+ career. The gap between the disclosed number and the actual number is not a lie in the legal sense. It is the system working as designed: the disclosure framework shows $5K, the actual influence costs $1.3M, and the difference is structurally invisible.
+
+The leadership PAC (Jobs, Education and Family First) and Team Blue PAC (co-founded with Josh Gottheimer, funded "almost exclusively by corporate PACs and lobbyists") replicate Pelosi's discipline mechanism exactly. Members who cross the leadership lose access to the donor network. The money is the whip. Jeffries does not need to threaten or punish. He simply controls the pipeline that every member needs to survive reelection. That is the class function of the House Democratic leader: not to set policy, but to ensure the donor class retains veto power over who gets funded and who gets primaried.
+
+---
+
 ## Rhetorical Signature Moves
 
 1. **The alphabetical affirmations:** Jeffries regularly deploys alliterative alphabetical speeches ("A is for Accountability, B is for Build Back Better...") — a distinctive rhetorical style that reads as inspiring to supporters and evasive to critics, since the poetic form avoids substantive commitment.

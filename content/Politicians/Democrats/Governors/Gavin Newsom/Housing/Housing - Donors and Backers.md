@@ -2,10 +2,10 @@
 title: "Housing - Donors and Backers"
 type: sub-note
 content-readiness: ready
-last-updated: 2026-04-11
+last-updated: 2026-04-12
 source-tier: 1
 parent: [[_Gavin Newsom Master Profile]]
-related: "[[Newsom 2028 - The Donor Class Presidential Campaign]] · [[3.5 Million Units - Broken Promise]] · [[Supply-Side Framework - Who It Helps]] · [[Rent Control - Props 10, 21, and 33]] · [[Homelessness Spending and Encampments]] · [[_Gavin Newsom Master Profile]] · [[Prop 22 - The $200M Corporate Rollback]] · [[The $1.6 Billion Fundraising Machine]] · [[The Biden Exit and Harris Installation]] · [[Legislative Record as Speaker]] · [[The Last Oil Democrat - Fossil Fuel Money in a Blue District]]"
+related: "[[Newsom 2028 - The Donor Class Presidential Campaign]] · [[3.5 Million Units - Broken Promise]] · [[Supply-Side Framework - Who It Helps]] · [[Rent Control - Props 10, 21, and 33]] · [[Homelessness Spending and Encampments]] · [[_Gavin Newsom Master Profile]] · [[Prop 22 - The $200M Corporate Rollback]] · [[The $1.6 Billion Fundraising Machine]] · [[The Biden Exit and Harris Installation]] · [[Legislative Record as Speaker]] · [[The Last Oil Democrat - Fossil Fuel Money in a Blue District]] · [[The Education Committee and Labor Alignment]]"
 ---
 #newsom #housing #donors #backers #follow-the-money #supply-side #deregulation #developer-profits #homelessness #affordability-gap #research-node
 

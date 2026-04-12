@@ -2,7 +2,7 @@
 title: "Gilead Sciences"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-11
+last-updated: 2026-04-12
 source-tier: 1
 parent: null
 sector: "Pharma & Healthcare"
@@ -65,7 +65,7 @@ sec-form-types:
   - "SCHEDULE 13G/A"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
-related: "[[Novo Nordisk]] · [[AbbVie]] · [[Merck]] · [[Pfizer]] · [[PhRMA]] · [[Purdue Pharma - Sackler Family]] · [[PhRMA - Pharmaceutical Research and Manufacturers of America]] · [[Moderna]] · [[Johnson & Johnson]] · [[Eli Lilly]]"
+related: "[[Novo Nordisk]] · [[AbbVie]] · [[Merck]] · [[Pfizer]] · [[PhRMA]] · [[Purdue Pharma - Sackler Family]] · [[PhRMA - Pharmaceutical Research and Manufacturers of America]] · [[Moderna]] · [[Johnson & Johnson]] · [[Eli Lilly]] · [[Centene Corporation]]"
 nonprofit-status: "501(c)(3)"
 total-revenue: 111952387
 total-assets: 161936520

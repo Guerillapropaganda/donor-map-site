@@ -2,7 +2,7 @@
 title: "Stand Together"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-11
+last-updated: 2026-04-12
 source-tier: 1
 parent: null
 sector: "Dark Money"
@@ -64,7 +64,7 @@ politicians-funded:
 nonprofit-status: "501(c)(3)"
 total-revenue: 1852719
 total-assets: 290992
-related: "[[US Chamber of Commerce]] · [[The Libertarian Brand and Donor Class Service]] · [[Americans for Tax Reform - Grover Norquist]] · [[Bryan Steil]] · [[The Criminal Justice Reform and Bipartisan Alliance]] · [[Koch Network - Charles Koch|Charles Koch]] · [[Americans for Prosperity]] · [[Heritage Foundation]] · [[ALEC - American Legislative Exchange Council|ALEC]] · [[Cato Institute]] · [[Donors Trust]] · [[Master Donor Database]] · [[Donor Registry - Master Index]] · [[DeVos Family]] · [[Insurance Industry]] · [[National Education Association]] · [[Walton Family Foundation]] · [[American Federation for Children]]"
+related: "[[US Chamber of Commerce]] · [[The Libertarian Brand and Donor Class Service]] · [[Americans for Tax Reform - Grover Norquist]] · [[Bryan Steil]] · [[The Criminal Justice Reform and Bipartisan Alliance]] · [[Koch Network - Charles Koch|Charles Koch]] · [[Americans for Prosperity]] · [[Heritage Foundation]] · [[ALEC - American Legislative Exchange Council|ALEC]] · [[Cato Institute]] · [[Donors Trust]] · [[Master Donor Database]] · [[Donor Registry - Master Index]] · [[DeVos Family]] · [[Insurance Industry]] · [[National Education Association]] · [[Walton Family Foundation]] · [[American Federation for Children]] · [[Defense Contractors Bloc]]"
 cross-vault-triangulation-count: 14
 audit-a-plus-passed: "2026-04-11"
 ---

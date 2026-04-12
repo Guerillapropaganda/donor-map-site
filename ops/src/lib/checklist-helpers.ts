@@ -54,7 +54,8 @@ export function countTier1InBody(raw: string): number {
  * NOTE: the fallback overcounts when the same source-type appears multiple
  * times — a profile with 5 FEC citations and nothing else registers as 5.
  * That's acceptable for the "draft → ready" floor (2+) but NOT for the A+
- * floor (3+). For A+, prefer reading the frontmatter array directly.
+ * floor (3+). The A+ check in VerificationChecklist.tsx uses frontmatter
+ * only (no body fallback) to prevent false positives at the highest tier.
  */
 export function countSourceTypes(profile: Profile, raw: string): number {
   const fm = (profile.sourceTypes || []).length
@@ -70,7 +71,7 @@ export function countSourceTypes(profile: Profile, raw: string): number {
  */
 export function hasHeading(raw: string, heading: string): boolean {
   const esc = heading.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")
-  const re = new RegExp(`^#{2,3}\\s+${esc}`, "im")
+  const re = new RegExp(`^#{2,4}\\s+${esc}`, "im")
   return re.test(raw)
 }
 

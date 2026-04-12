@@ -2,7 +2,7 @@
 title: "United Democracy Project - UDP"
 type: pac
 content-readiness: draft
-last-updated: 2026-04-11
+last-updated: 2026-04-12
 source-tier: 1
 parent: null
 sector: "Super PACs"
@@ -28,7 +28,7 @@ source-types:
 known-gaps:
   - Only 1 Tier 1 source type (FEC). Need second Tier 1 type for verified promotion (e.g., Senate LDA if lobbying disclosures exist).
   - No IRS 990 data (super PAC, not 501c4, so may not apply)
-related: "[[Illinois House Primaries 2026 - The PAC Laboratory]] · [[The Adelson Pipeline - Embassy, Abraham Accords, and Iran]] · [[Israel and Foreign Policy - Donors and Backers]] · [[Elect Chicago Women Shell PAC Operation]] · [[_Donna Miller Master Profile]] · [[_Daniel Biss Master Profile]] · [[_Jamaal Bowman Master Profile]] · [[_Cori Bush Master Profile]] · [[AIPAC - American Israel Public Affairs Committee]] · [[2026 House Money Map]] · [[AIPAC Illinois Shell PAC Operation]] · [[DMFI - Democratic Majority for Israel|DMFI]] · [[NORPAC]] · [[Fairshake PAC]] · [[Think Big AI PAC]] · [[Elect Chicago Women PAC]] · [[Affordable Chicago Now PAC]] · [[Wesley Bell Master Profile]]"
+related: "[[Illinois House Primaries 2026 - The PAC Laboratory]] · [[The Adelson Pipeline - Embassy, Abraham Accords, and Iran]] · [[Israel and Foreign Policy - Donors and Backers]] · [[Elect Chicago Women Shell PAC Operation]] · [[_Donna Miller Master Profile]] · [[_Daniel Biss Master Profile]] · [[_Jamaal Bowman Master Profile]] · [[_Cori Bush Master Profile]] · [[AIPAC - American Israel Public Affairs Committee]] · [[2026 House Money Map]] · [[AIPAC Illinois Shell PAC Operation]] · [[DMFI - Democratic Majority for Israel|DMFI]] · [[NORPAC]] · [[Fairshake PAC]] · [[Think Big AI PAC]] · [[Elect Chicago Women PAC]] · [[Affordable Chicago Now PAC]] · [[Wesley Bell Master Profile]] · [[Summer Lee Master Profile]]"
 cross-vault-triangulation-count: 14
 needs-reenrichment: true
 reenrich-reason: "run fec pipeline; run pipelines"

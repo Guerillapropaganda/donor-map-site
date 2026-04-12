@@ -2,7 +2,7 @@
 title: "Congressional Leadership Fund"
 type: pac
 content-readiness: draft
-last-updated: 2026-04-11
+last-updated: 2026-04-12
 source-tier: 1
 parent: null
 sector: "Super PACs"
@@ -23,7 +23,7 @@ ein: "852656340"
 nonprofit-status: "501(c)(4)"
 total-revenue: 9647510
 total-assets: 714325
-related: "[[Senate Majority PAC]] · [[Mike Lawler Master Profile]] · [[The Revolving Door Explosion of 2025]] · [[American Action Network]] · [[Senate Leadership Fund]] · [[Club for Growth]] · [[Fossil Fuel Bloc]] · [[Elon Musk]] · [[Jeffrey Yass]] · [[Timothy Mellon]] · [[Master Donor Database]] · [[Donor Registry - Master Index]] · [[National Republican Senatorial Committee]] · [[MAGA Inc]] · [[Winning for Women PAC]] · [[Priorities USA Action]] · [[One Nation]]"
+related: "[[Senate Majority PAC]] · [[Mike Lawler Master Profile]] · [[The Revolving Door Explosion of 2025]] · [[American Action Network]] · [[Senate Leadership Fund]] · [[Club for Growth]] · [[Fossil Fuel Bloc]] · [[Elon Musk]] · [[Jeffrey Yass]] · [[Timothy Mellon]] · [[Master Donor Database]] · [[Donor Registry - Master Index]] · [[National Republican Senatorial Committee]] · [[MAGA Inc]] · [[Winning for Women PAC]] · [[Priorities USA Action]] · [[One Nation]] · [[WinRed]]"
 opposes: "[[Kyrsten Sinema Master Profile]]"
 cross-vault-triangulation-count: 14
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:

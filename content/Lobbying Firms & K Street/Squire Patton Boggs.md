@@ -2,7 +2,7 @@
 title: "Squire Patton Boggs"
 type: lobbying-firm
 content-readiness: draft
-last-updated: 2026-04-08
+last-updated: 2026-04-12
 source-tier: 1
 parent: null
 annual-revenue: "$23.5M"
@@ -16,7 +16,7 @@ fara-countries:
   - "KAZAKHSTAN"
   - "KOREA SOUTH"
   - "PALESTINE"
-related: "[[Boeing]] · [[_Lobbying Firms Framework]] · [[Goldman Sachs — The Government Sachs Alumni Network]]"
+related: "[[Boeing]] · [[_Lobbying Firms Framework]] · [[Goldman Sachs — The Government Sachs Alumni Network]] · [[Donald Trump Master Profile]]"
 lei: "259400PVBJ4RB4LUZ721"
 lei-jurisdiction: "PL"
 last-enriched: "2026-04-08"

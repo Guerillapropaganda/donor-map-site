@@ -2,10 +2,11 @@
 title: "Juliana Stratton"
 type: sub-note
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-12
 source-tier: 1
 parent: [[_Juliana Stratton Master Profile]]
-related: "[[The Pritzker Machine and Illinois Democratic Power]] · [[Illinois Senate Primary Money War]] · [[Crypto vs. Institutional Democrats in Illinois]] · [[Corporate PAC Pledge and Its Limits]] · [[Dick Durbin]] · [[_JB Pritzker Master Profile|JB Pritzker]] · [[_Raja Krishnamoorthi Master Profile|Raja Krishnamoorthi]]"
+related: "[[The Pritzker Machine and Illinois Democratic Power]] · [[Illinois Senate Primary Money War]] · [[Crypto vs. Institutional Democrats in Illinois]] · [[Corporate PAC Pledge and Its Limits]] · [[Dick Durbin]] · [[_JB Pritzker Master Profile|JB Pritzker]] · [[_Raja Krishnamoorthi Master Profile|Raja Krishnamoorthi]] · [[Fairshake PAC]]"
+donors: "[[Illinois Future PAC]]"
 ---
 #politician #democrat #senate #illinois #2026-candidate #black-woman-senator
 tags: #democrat

@@ -2,7 +2,7 @@
 title: "Janet Mills Master Profile"
 type: politician
 content-readiness: draft
-last-updated: 2026-04-09
+last-updated: 2026-04-12
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -21,7 +21,8 @@ known-gaps:
   - "No voting record data"
   - "No mapped relationships"
 last-enriched: "2026-04-09"
-related: "[[_Susan Collins Master Profile|Susan Collins]] · [[_Graham Platner Master Profile|Graham Platner]] · [[One Nation]]"
+related: "[[_Susan Collins Master Profile|Susan Collins]] · [[_Graham Platner Master Profile|Graham Platner]] · [[One Nation]] · [[Democratic Senatorial Campaign Committee]]"
+donors: "[[Democratic Senatorial Campaign Committee]]"
 ---
 #politician #democrat #governor #maine #2026-senate-candidate
 tags: #democrat

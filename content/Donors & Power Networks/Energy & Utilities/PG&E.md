@@ -2,7 +2,7 @@
 title: "PG&E"
 type: corporation
 content-readiness: draft
-last-updated: 2026-04-11
+last-updated: 2026-04-12
 source-tier: 1
 parent: null
 sector: "Energy & Utilities"
@@ -13,7 +13,7 @@ ein: "943358729"
 annual-revenue: "$23.4M"
 net-assets: "$99.5M"
 tax-year: "2023"
-related: "[[Fossil Fuel Bloc]] · [[IBEW California State Association]] · [[_Gavin Newsom Master Profile]] · [[PG&E - The Utility Donor and the Wildfire Cover]] · [[Environment - Donors and Backers]] · [[Western States Petroleum Association]] · [[Uber]] · [[UnitedHealth Group - Optum]] · [[Kaiser Permanente]] · [[PBM Industry Bloc - OptumRx, CVS Caremark, Express Scripts]] · [[Johnson & Johnson]]"
+related: "[[Fossil Fuel Bloc]] · [[IBEW California State Association]] · [[_Gavin Newsom Master Profile]] · [[PG&E - The Utility Donor and the Wildfire Cover]] · [[Environment - Donors and Backers]] · [[Western States Petroleum Association]] · [[Uber]] · [[UnitedHealth Group - Optum]] · [[Kaiser Permanente]] · [[PBM Industry Bloc - OptumRx, CVS Caremark, Express Scripts]] · [[Johnson & Johnson]] · [[Moderna]]"
 top-federal-agency: "Department of Defense"
 top-naics-code: "221122"
 federal-awards-total: 0

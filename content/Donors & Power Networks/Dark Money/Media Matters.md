@@ -2,7 +2,7 @@
 title: "Media Matters"
 type: donor
 content-readiness: draft
-last-updated: 2026-04-11
+last-updated: 2026-04-12
 source-tier: 2
 parent: null
 sector: "Dark Money"
@@ -46,7 +46,7 @@ known-gaps:
   - "No mapped relationships"
 lobbying-spend: 9397596
 lobbying-filings: 95
-related: "[[Democracy Alliance]] · [[Center for American Progress]] · [[Media Matters|David Brock]] · [[Sixteen Thirty Fund]] · [[New Venture Fund]] · [[Open Society Foundations]] · [[Ocean Conservancy]] · [[Trial Lawyers Fund]]"
+related: "[[Democracy Alliance]] · [[Center for American Progress]] · [[Media Matters|David Brock]] · [[Sixteen Thirty Fund]] · [[New Venture Fund]] · [[Open Society Foundations]] · [[Ocean Conservancy]] · [[Trial Lawyers Fund]] · [[National Progressive Donor Networks]]"
 total-political-spend: "$3,998,524"
 politicians-funded:
   - "Bill Clinton"

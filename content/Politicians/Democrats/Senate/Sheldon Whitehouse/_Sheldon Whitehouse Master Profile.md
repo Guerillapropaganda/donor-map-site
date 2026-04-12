@@ -217,6 +217,18 @@ Whitehouse has documented the Federalist Society/Leo network with stunning preci
 
 ---
 
+## Class Analysis
+
+Sheldon Whitehouse has built the most detailed public accounting of right-wing dark money in American politics. His 80+ "Scheme" floor speeches name names, trace money flows, and document the $580M pipeline that captured the Supreme Court. The investigations are accurate. They are also incomplete by design. Sheldon Whitehouse's investigative framework stops precisely where his own donor class begins.
+
+The trial lawyers are the financial backbone: $3.3M career from lawyers and law firms, led by plaintiffs' firms like Motley Rice ($83,903), Thornton Law Firm ($80,075), and Cotchett Pitre ($59,200). These firms depend on a litigation-friendly regulatory framework. Sheldon Whitehouse opposes tort reform. The arrangement is direct. The plaintiff bar's $3.3M investment buys a reliable vote against any attempt to limit civil litigation. This is the same donor-to-policy pipeline Sheldon Whitehouse documents in Leonard Leo's network. The difference is framing: when Leo does it, Sheldon Whitehouse calls it a scheme. When his own donors do it, he calls it representation.
+
+The AIPAC silence is the most revealing gap. AIPAC was Sheldon Whitehouse's single largest contributor in 2024 at $147,208, and his career pro-Israel industry total is $616,721. AIPAC spent $126.9M in 2024 federal races, including $9.9M to defeat Jamaal Bowman and $15M to defeat Cori Bush, both Black progressives. Sheldon Whitehouse, who meticulously maps how Leonard Leo's dark money captures judicial appointments, has applied none of this methodology to AIPAC's spending. The dark money watchdog declines to watch the money when it flows from his own donors. The selective application of the "scheme" framework is the tell.
+
+Then there is the wife's employer. Sandra Whitehouse has received $2,686,800 from Ocean Conservancy since 2010 through direct employment and consulting fees. In 2024, Ocean Conservancy received $6.9M in federal grants after Sheldon Whitehouse voted for the enabling legislation. Ocean Conservancy has received $14.2M in government funding total during Sandra's tenure. The structural question is straightforward: is this arrangement meaningfully different from the donor-to-policy pipelines Sheldon Whitehouse documents in his floor speeches? The Senate Ethics Committee dismissed a complaint about it. The structural conflict remains. Sheldon Whitehouse legislates for his wife's employer while building a career denouncing the financial entanglements of others. He proves the donor-first thesis applies even to its most credible critics. He is not wrong about the scheme. He is a beneficiary of its mirror image.
+
+---
+
 ## Analytical Patterns
 
 **Genuine Win + Structural Limit** — Whitehouse's 80+ "Scheme" floor speeches and SCOTUS ethics investigations are genuinely important public records documenting how anonymous donor money captures judicial appointments. His exposure of Clarence Thomas's $4.2M in undisclosed gifts produced the first meaningful accountability for Supreme Court conflicts of interest. The structural limit: his investigations never threaten the broader dark money system that funds left-wing infrastructure, nor do they address his own family's financial entanglement with policy beneficiaries. The DISCLOSE Act has been blocked for 15+ years by the same networks it would regulate — the investigation substitutes for the reform.

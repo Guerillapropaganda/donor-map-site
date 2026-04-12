@@ -23,7 +23,7 @@ total-revenue: 168530018
 total-assets: 2754902
 lei: "549300JZ9WCXZDH10988"
 lei-jurisdiction: "US-DE"
-related: "[[Federalist Society]] · [[Barre Seid]] · [[Leonard Leo]] · [[Marble Freedom Trust]] · [[Sentinel Action Fund]] · [[Judicial Crisis Network]] · [[DeVos Family]] · [[Heritage Foundation]] · [[American Federation for Children]] · [[Walton Family Foundation]]"
+related: "[[Federalist Society]] · [[Barre Seid]] · [[Leonard Leo]] · [[Marble Freedom Trust]] · [[Sentinel Action Fund]] · [[Judicial Crisis Network]] · [[DeVos Family]] · [[Heritage Foundation]] · [[American Federation for Children]] · [[Walton Family Foundation]] · [[Insurance Industry]]"
 cross-vault-triangulation-count: 8
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
   • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.

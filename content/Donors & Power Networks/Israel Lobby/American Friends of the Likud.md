@@ -2,14 +2,14 @@
 title: "American Friends of the Likud"
 type: donor
 content-readiness: draft
-last-updated: 2026-04-11
+last-updated: 2026-04-12
 source-tier: 2
 parent: null
 sector: "Israel Lobby"
 entity-type: "Individual Donor"
 politicians-funded:
   - "Benjamin Netanyahu"
-related: "[[Haim Saban]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Miriam Adelson]] · [[Pro-Israel Donor Network Deep Dive]] · [[JCRC Bay Area]] · [[JPAC - Jewish Public Affairs Committee of California]] · [[J Street]] · [[Christians United for Israel]] · [[Blue Shield of California]]"
+related: "[[Haim Saban]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Miriam Adelson]] · [[Pro-Israel Donor Network Deep Dive]] · [[JCRC Bay Area]] · [[JPAC - Jewish Public Affairs Committee of California]] · [[J Street]] · [[Christians United for Israel]] · [[Blue Shield of California]] · [[Anthem - Elevance Health]]"
 known-gaps:
   - "No FEC contribution data"
   - "No lobbying disclosure data"

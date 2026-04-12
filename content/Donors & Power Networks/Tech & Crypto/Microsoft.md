@@ -2,7 +2,7 @@
 title: "Microsoft"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-11
+last-updated: 2026-04-12
 source-tier: 1
 parent: null
 sector: "Tech & Crypto"
@@ -51,7 +51,7 @@ regulatory-agencies:
   - "Food and Nutrition Service"
   - "Housing and Urban Development Department"
   - "National Oceanic and Atmospheric Administration"
-related: "[[The Judiciary Committee and Tech Accountability]] · [[The Appropriations Vice Chair and Defense-Healthcare Axis]] · [[The Venture Capital Senator - Tech Wealth in the Senate]] · [[The Commerce Committee and Boeing Washington]] · [[The Commerce Committee and Big Tech Jurisdiction]] · [[The Climate and Commerce Committee Jurisdiction]] · [[The Antitrust Crusade and Legislative Stalling]] · [[The Immigration and Administration Committees - Silicon Valley Gatekeeper]] · [[Ro Khanna Master Profile]] · [[The Silicon Valley Progressive and Tech Industry Alignment]] · [[Patty Murray]] · [[Google - Alphabet]] · [[Amazon]] · [[Apple]] · [[OpenAI]] · [[Palantir Technologies]] · [[Cathy McMorris Rodgers Master Profile]] · [[Amy Klobuchar]] · [[Oracle]] · [[Pramila Jayapal]] · [[Nvidia]]"
+related: "[[The Judiciary Committee and Tech Accountability]] · [[The Appropriations Vice Chair and Defense-Healthcare Axis]] · [[The Venture Capital Senator - Tech Wealth in the Senate]] · [[The Commerce Committee and Boeing Washington]] · [[The Commerce Committee and Big Tech Jurisdiction]] · [[The Climate and Commerce Committee Jurisdiction]] · [[The Antitrust Crusade and Legislative Stalling]] · [[The Immigration and Administration Committees - Silicon Valley Gatekeeper]] · [[Ro Khanna Master Profile]] · [[The Silicon Valley Progressive and Tech Industry Alignment]] · [[Patty Murray]] · [[Google - Alphabet]] · [[Amazon]] · [[Apple]] · [[OpenAI]] · [[Palantir Technologies]] · [[Cathy McMorris Rodgers Master Profile]] · [[Amy Klobuchar]] · [[Oracle]] · [[Pramila Jayapal]] · [[Nvidia]] · [[Meta - Facebook]]"
 federal-awards-total: 470321891
 federal-contracts-count: 25
 federal-grants-count: 0
