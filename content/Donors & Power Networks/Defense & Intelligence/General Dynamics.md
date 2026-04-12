@@ -102,6 +102,18 @@ General Dynamics PAC targets Armed Services Committee members (both chambers), A
 
 ---
 
+## Class Analysis
+
+General Dynamics spends $10-12 million annually on lobbying to protect programs worth $200+ billion. The Columbia-class ballistic missile submarine program alone is $131 billion. The Virginia-class attack submarines cost $4.3 billion each, and the Navy plans to buy two per year. The ratio between political investment and program value is roughly 20,000 to 1. No other investment in the American economy generates returns at that scale.
+
+The Katie Britt earmark is the mechanism in miniature. General Dynamics PAC donated $16,000 to Senator Britt. Cornerstone Government Affairs, a lobbying firm with General Dynamics as a client, donated $43,000+ to Britt's campaign and leadership PAC. Combined: $59,000 in political investment. Britt pushed a $220 million earmark for Abrams tanks manufactured at General Dynamics' Anniston, Alabama facility. Even the reduced $58.8 million that made it into the final bill yields a 997:1 return on investment. The full $220 million, if it materializes in future cycles, yields 3,729:1.
+
+The funding targets are precise. General Dynamics PAC contributions go to Armed Services Committee members in both chambers, Appropriations defense subcommittee members, and delegations from states where the company operates: Connecticut (Electric Boat submarines), Virginia (corporate headquarters), Ohio (combat systems), Georgia (Gulfstream jets). The company does not fund politicians generally. It funds the specific legislators who authorize and appropriate its revenue.
+
+The defense industrial base argument is the political cover. General Dynamics positions submarine production rates as a national security necessity, and the Navy agrees. The Columbia-class is the Navy's top priority. But national security necessity and corporate revenue are the same thing here. Electric Boat's shipyard capacity must stay at maximum utilization, which requires continuous submarine orders, which requires continuous defense authorization, which requires continuous political spending on the legislators who write the authorizations. The circle is closed. The company calls it national security. The balance sheet calls it $42.3 billion in annual revenue.
+
+---
+
 ### Sources
 
 - [OpenSecrets: General Dynamics organizational profile](https://www.opensecrets.org/orgs/general-dynamics/summary?id=D000000165) (Tier 1)

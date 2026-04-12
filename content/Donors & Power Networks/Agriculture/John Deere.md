@@ -105,6 +105,18 @@ The right-to-repair fight is a case study in how intellectual property law conve
 
 ---
 
+## Class Analysis
+
+John Deere is a case study in how intellectual property law converts product ownership into perpetual rent extraction. The company sells a $500,000 combine, then uses proprietary software locks to prevent the buyer from repairing it. The farmer who owns the equipment does not control it. John Deere controls it through DRM, end-user licensing agreements, and authorized-technician requirements. This is not a side business. It is the business model: convert a one-time sale into a recurring service relationship where the customer has no alternative.
+
+The right-to-repair fight reveals the political structure. John Deere spends $3-5 million annually lobbying against legislation that would let farmers fix their own machines. That spending protects a service revenue stream (authorized technicians at $150-250/hour) and a data monopoly (John Deere equipment collects planting rates, yield data, soil conditions that the company controls and monetizes). The farmer generates the data. John Deere owns it. The lobbying ensures that arrangement stays legal.
+
+John Deere's $13.9 million in federal contracts, almost entirely from the Department of Defense, adds a second revenue stream from public money. Wheel loaders, track loaders, motor graders purchased with defense dollars. The company that tells farmers they cannot repair their own tractors also sells construction equipment to the military. Both relationships share a structure: the buyer depends on the seller for ongoing access to what they already paid for.
+
+The political math is straightforward. John Deere's PAC contributes $1-2 million per cycle. Its lobbying budget runs $3-5 million annually. In return, right-to-repair legislation dies in committee, EPA emissions standards for farm equipment stay favorable, and trade agreements protect export markets worth billions. The investment-to-return ratio is the point. A few million in political spending protects a market position worth tens of billions.
+
+---
+
 ### Federal Spending (USASpending)
 <!-- auto:usaspending start -->
 

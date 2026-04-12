@@ -141,6 +141,18 @@ Opposition to EPA regulation of agricultural waste (poultry litter runoff), favo
 
 ---
 
+## Class Analysis
+
+Tyson Foods processes the nation's meat supply with 139,000 workers earning $15-18/hour in physically dangerous conditions. The workforce is disproportionately immigrant, documented and undocumented. This is not incidental to the business model. It is the business model. A vulnerable workforce does not organize, does not report safety violations, and does not demand higher wages. Immigration policy that targets workers rather than employers is not a failure of enforcement. It is enforcement working exactly as Tyson needs it to work.
+
+The line speed waivers tell the same story from a different angle. USDA granted Tyson and other poultry processors permission to increase processing line speeds. Faster lines mean higher production volume and higher profits. They also mean higher worker injury rates, documented by safety advocacy groups. Tyson's $2-4 million annual lobbying spend bought regulatory outcomes that increase revenue by speeding up production while shifting the cost of that speed onto workers' bodies.
+
+The political spending pattern is bipartisan and targeted. Tyson's PAC contributes $500,000-$800,000 per cycle, focused on members who control agricultural policy, labor regulation, and immigration enforcement. The company funds politicians in both parties because it needs outcomes from both: favorable USDA inspection rules from agriculture committees, reduced OSHA enforcement from labor committees, and immigration policy that maintains the labor supply from both sides of the aisle.
+
+Tyson's $220 million in federal contracts, primarily through the Department of Agriculture, means the same government that regulates Tyson's processing plants also buys Tyson's products. The company operates at the intersection of agricultural subsidy policy (commodity programs that reduce feed costs), labor policy (immigration enforcement that maintains a vulnerable workforce), and food safety regulation (line speed waivers that prioritize throughput). Every dollar of political spending protects multiple revenue streams simultaneously.
+
+---
+
 ### Sources
 
 - [OpenSecrets: Tyson Foods organizational profile](https://www.opensecrets.org/orgs/tyson-foods/summary?id=D000000443) (Tier 1)
