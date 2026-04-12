@@ -150,6 +150,18 @@ Favorable agricultural trade policy (opposition to tariffs on grain exports), co
 
 ---
 
+## Class Analysis
+
+Cargill is the largest privately held company in the United States, and the private structure is the strategy. At $177 billion in revenue, Cargill would rank in the top 15 of the Fortune 500, but because the Cargill and MacMillan families maintain private ownership, the company avoids the public disclosure requirements that apply to every comparable corporation. No SEC filings, no quarterly earnings calls, no shareholder votes. The $50+ billion in combined family wealth is shielded from the scrutiny that public companies face by default.
+
+The commodity market concentration is the core of the power. Cargill, along with ADM, Bunge, and Louis Dreyfus (the "ABCD" traders), controls 70-90% of global grain trade. Four companies set the price of the commodities that determine what food costs worldwide. In any other industry, that level of market concentration would trigger antitrust action. In agriculture, neither the CFTC nor the DOJ has mounted a serious challenge. Cargill's lobbying, channeled through trade associations like the American Farm Bureau Federation and the National Grain and Feed Association, ensures the regulatory framework treats this concentration as normal.
+
+Every trade agreement the United States signs that reduces barriers to grain exports directly benefits Cargill's commodity trading operations. NAFTA, USMCA, bilateral deals. The company's PAC contributions of $1-2 million per cycle and lobbying spend of $3-5 million annually are modest relative to revenue because the political work happens through industry associations. The spending is distributed, not hidden. It just does not carry Cargill's name.
+
+The 42 FDA recalls (including 10 Class I, the most serious category) and 12,441 federal court cases document the operational reality behind the revenue numbers. Cargill processes food at a scale where regulatory violations and litigation are costs of doing business, not existential threats. The company's political spending ensures the regulatory penalties stay manageable and the market structure stays intact.
+
+---
+
 ### Sources
 
 - [OpenSecrets: Cargill organizational profile](https://www.opensecrets.org/orgs/cargill-inc/summary?id=D000000241) (Tier 1)
