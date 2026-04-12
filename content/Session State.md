@@ -3,7 +3,7 @@ title: Session State
 type: system
 last-updated: 2026-04-12
 ---
-<!-- last session: D3 force graph + bidirectional connections + enrichment detail view + type colors -->
+<!-- last session: Marathon: D3 graphs, money trail, 271 opposition edges, filter fixes, enrichment reporting, scripts Run buttons -->
 
 
 # Session State
@@ -13,48 +13,58 @@ Both Code Claude and Research Claude update this at the end of every session. Re
 ---
 
 ## Last Session
-Claude: Code
-Date: 2026-04-12 late night — relationships graph overhaul + pipeline reporting
+Claude: Code + Research
+Date: 2026-04-12 (all day marathon session)
 
 ### Theme
-Replaced the unusable orbit graph with a D3 force-directed graph, fixed bidirectional connection gaps (Newsom not showing Trump as opponent), added per-profile enrichment detail view to pipeline page, and shipped relationship type colors to the live site. 5 commits, 4 deploys, all successful.
+Massive feature session. Built the Money Trail graph, overhauled the relationships graph with D3 force simulation, added dual-layer node coloring, fixed List View freeze, fixed graph filter dedup bugs, added entity type filters, built scripts page Run buttons, enrichment detail reporting, and populated 271 new political-opposition edges (104 Democrats vs Trump). 15+ commits, 10+ deploys.
 
-### Done
+### Done — Relationships Graph Overhaul
+- **D3 Force Graph** (`ops/src/app/relationships/page.tsx`). Replaced manual orbit layout with D3 force simulation. Commits `fe451199`, `62c64b26`.
+- **Dual-layer nodes**: inner circle = entity type (politician/donor/think-tank/K Street/media), outer ring = relationship type (funded/related/opposes/stories). Commit `1af145da`.
+- **Entity type filters**: toggle row for Politicians/Donors/Think Tanks/K Street/Media. Distinct color palette (indigo/teal/fuchsia/orange/yellow) to avoid clashing with relationship colors.
+- **List View freeze fix**: `getSharedConnections()` was O(n^2). Replaced with `useMemo` pre-computed `sharedMap` + `profileMap`. Trump loads instantly now. Commit `9a6f000b`.
+- **Graph filter dedup fix**: two-pass node building. Pass 1 collects all types per name, pass 2 includes only nodes with active types. Priority: opposes > donors > stories > related. Commit `9a6f000b`.
+- **Zoom reset on filter toggle**: `zoomIdentity` reset prevents stale zoom from hiding nodes. Commit `b0607ae7`.
+- **Duplicate React key fix**: `key={rt::name}` for List View items appearing in multiple type arrays. Commit `5b86f802`.
+- **Connection dedup**: forward-path dedup in connections API prevents double-counting bidirectional edges. Commit `b38bd5de`.
 
-- **D3 Force Graph** (`ops/src/app/relationships/page.tsx`). Replaced manual orbit layout with D3 force simulation: `forceSimulation` + `forceManyBody(-120)` + `forceCollide` + `forceLink`. Small colored circles (r=7) per node, always-visible faint labels (opacity 0.35) that brighten on hover with tooltip. Per-type filter toggles (donors/related/opposes/stories). Zoom, pan, drag nodes, click to navigate, right-click context menu. Commits `fe451199`, `62c64b26`.
+### Done — Money Trail Graph
+- **Full monetary network** (`ops/src/app/money-trail/page.tsx`). 928 monetary edges as D3 force graph. Animated flow dots pulsing along edges. Both-sides donors highlighted with amber glow. Sector coloring mode toggle. Party/both-sides/donors filters. Node count slider (50-500). Directed arrows. Click to open in editor. Commit `3155462a`.
+- **API rewired to JSONL** (`ops/src/app/api/money-trail/route.ts`). Reads from canonical JSONL store instead of frontmatter.
 
-- **Stories bug fix** (`ops/src/app/api/connections/route.ts`). Story-link edges only populated the SOURCE profile's stories array (the story itself), not the TARGET (the person the story is about). Trump had 0 stories despite 47 story-link edges pointing at him. Fixed: both endpoints now get the connection.
+### Done — Pipeline & Enrichment
+- **Enrichment detail view** (`ops/src/components/EnrichmentLog.tsx`, `/api/enrichment-log`). Per-profile, per-pipeline results with conflict flags. Filterable by pipeline type. Commit `11a1a357`.
+- **Scripts Run buttons** (`ops/src/app/scripts/page.tsx`, `/api/scripts`). Server-side script execution with allowlist, loading states, output viewer. Commit `cf826d28`.
+- **Alerts cap fix** (`ops/src/app/api/status/route.ts`). Removed Math.min(99) cap.
 
-- **Bidirectional connections** (`ops/src/app/api/connections/route.ts`). Opposes and related edges now bidirectional in the API. If Trump opposes Newsom, Newsom also shows Trump in his opposes list. Previously only stories had this reverse-population treatment. Commit `395bc71b`.
+### Done — Live Site
+- **ProfileWidget type colors** (`quartz/components/ProfileWidget.tsx`). Colored left-border by relationship type. CSS classes `pw-rel-donor/related/opposes/story`.
+- **Bidirectional connections** (`ops/src/app/api/connections/route.ts`). Opposes, related, and stories edges now populate both source AND target profiles.
 
-- **ProfileWidget type colors** (`quartz/components/ProfileWidget.tsx`). Flow rows now get colored left-border by relationship type: green=donor, blue=related, red=opposes, purple=story. CSS classes `pw-rel-donor`, `pw-rel-related`, `pw-rel-opposes`, `pw-rel-story`.
-
-- **Alerts cap fix** (`ops/src/app/api/status/route.ts`). Removed `Math.min(alertsCritical, 99)` cap that was silently truncating the dashboard critical alert count.
-
-- **Enrichment detail view** (`ops/src/app/api/enrichment-log/route.ts`, `ops/src/components/EnrichmentLog.tsx`). New API endpoint parses `Auto-Enrichment Log.md` into structured per-pipeline, per-profile results with conflict flags. Groups entries into batches (15-min windows). New component on pipeline page shows exactly who was enriched, what was found, and which profiles had merge conflicts. Filterable by pipeline type. Commit `11a1a357`.
-
-- **D3 installed in ops** (`ops/package.json`). Added `d3` + `@types/d3` to ops dependencies.
-
-### Pipeline health check
-- Dispatcher running (PID 1807, 23+ hours)
-- Janitor clean (0 issues, 1,850 profiles scanned)
-- Enrichment pipeline: 6 green runs on April 11-12 (scheduled + manual). Last cancelled runs were April 4.
+### Done — Data Enrichment (Research Claude)
+- **271 new political-opposition edges** in `data/relationships.jsonl`. 104 Democrats bidirectional with Trump (187 edges) + 84 edges from frontmatter migration across 43 profiles. Total opposition: 47 → 318.
+- **8 K Street firms** connected to Trump: Ballard Partners, BGR Group, Akin Gump, Mercury, Squire Patton Boggs, Holland & Knight, Brownstein, Invariant.
+- **Edge type cleanup**: fixed `to_type`/`from_type` "unknown" on opposition edges.
 
 ### Known issues / still outstanding
-- **3 stories need FEC Tier 1 migration** (Intra-Republican, Schumer-McConnell, Michigan 2026). Editor-only.
-- **Contradiction 06 Crypto** flagged by voice-drift-detector (13 em dashes). Research Claude lane.
-- **Feature requests remaining:** Money trail graph, profile type differentials in graph nodes, mutual/opposition tags, scripts page Run buttons verification.
+- **Both-sides contradiction nodes** (red inner + red ring) in opposition view need investigation. Some profiles appear in both opposes AND related/donors for Trump.
+- **3 stories need FEC Tier 1 migration** (editor-only).
+- **Contradiction 06 Crypto** flagged by voice-drift-detector (Research Claude lane).
+- **Money trail missing features**: search/highlight, money paths between profiles, gatekeeper detection.
 
 ### Next session priorities
-1. **Money trail graph** — interactive directed money flow visualization (David's #2 feature request)
-2. **Profile type differentials** — thread rulebook colors (media purple, K Street amber, etc.) into graph nodes for both Ops and live site
-3. **Scripts page Run buttons** — verify they actually trigger pipelines
-4. **Content depth** — Research Claude: draft-to-ready promotions, editorial depth passes
+1. **Alerts endpoint investigation** — debug `/api/alerts` counts, verify alert accuracy
+2. **Both-sides contradiction investigation** — profiles appearing in both opposes AND donors/related
+3. **Republican opposition edges** — mirror the Democrat treatment (every Republican should have opposition edges with key Democrats)
+4. **Money trail enhancements** — search, sector filter, minimum connections filter
+5. **Content depth** — Research Claude: draft-to-ready promotions
 
 ### Session end state
-- **5 commits, 4 successful deploys**
-- **Latest deploy:** `d946c6ee` (run 24309195006)
-- **Worktree ops server** on port 3334 still running for testing
+- **15+ commits, 10+ deploys, all successful**
+- **Latest deploy:** `0fd4e303` (run 24313256904)
+- **Opposition edges:** 47 → 318 (6.7x increase)
+- **Monetary edges:** 928 (visualized in Money Trail)
 
 ---
 
@@ -62,17 +72,8 @@ Replaced the unusable orbit graph with a D3 force-directed graph, fixed bidirect
 Claude: Code
 Date: 2026-04-12 morning — bug fix session from David's wrinkles list
 
-### Theme
-David reported 16 issues across the Ops app. Triaged into 4 fixable bugs (shipped), 2 non-bugs (explained), 6 feature requests (roadmapped), and 4 operational items (step-by-step directions given). All 4 code fixes verified in preview with zero console errors.
-
 ### Done — 4 dashboard bug fixes (commit `a53bf573` → merge `54315fd7`)
-- **Bug A:** Relationships graph overflow capped at max 700px
-- **Bug B:** Stories/events excluded from "Not Enriched" count (1,223 → 296)
-- **Bug C:** Calendar timestamps converted from UTC to local time
-- **Bug D:** Vault Health donut fixed (0% → 74%) by switching to camelCase property access
-
-### Session end state
-- **Latest deploy:** `54315fd7`
+- Graph overflow capped, enrichment count honest, calendar timestamps local, vault health donut 0%→74%
 
 ---
 
