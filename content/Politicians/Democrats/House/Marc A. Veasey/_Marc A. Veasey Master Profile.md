@@ -1,0 +1,29 @@
+---
+title: "Marc A. Veasey Master Profile"
+type: politician
+content-readiness: raw
+last-updated: 2026-04-12
+source-tier: 1
+party: "Democrat"
+chamber: "House"
+state: "Texas"
+state-abbr: "TX"
+district: "33"
+bioguide-id: "V000131"
+govtrack-id: 412579
+born: "1971-01-03"
+wikidata-id: "Q4068811"
+website: "https://veasey.house.gov"
+phone: "202-225-9897"
+source-types:
+  - Congress
+known-gaps:
+  - "No FEC contribution data"
+  - "No legislative record"
+  - "No voting record"
+  - "No mapped relationships"
+---
+
+# Marc A. Veasey
+
+Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.

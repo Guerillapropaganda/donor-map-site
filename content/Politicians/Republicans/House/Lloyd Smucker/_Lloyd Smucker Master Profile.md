@@ -1,0 +1,29 @@
+---
+title: "Lloyd Smucker Master Profile"
+type: politician
+content-readiness: raw
+last-updated: 2026-04-12
+source-tier: 1
+party: "Republican"
+chamber: "House"
+state: "Pennsylvania"
+state-abbr: "PA"
+district: "11"
+bioguide-id: "S001199"
+govtrack-id: 412722
+born: "1964-01-23"
+wikidata-id: "Q6662742"
+website: "https://smucker.house.gov"
+phone: "202-225-2411"
+source-types:
+  - Congress
+known-gaps:
+  - "No FEC contribution data"
+  - "No legislative record"
+  - "No voting record"
+  - "No mapped relationships"
+---
+
+# Lloyd Smucker
+
+Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.

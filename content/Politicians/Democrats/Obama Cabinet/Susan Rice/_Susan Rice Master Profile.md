@@ -1,0 +1,18 @@
+---
+title: "Susan Rice Master Profile"
+type: politician
+content-readiness: raw
+last-updated: 2026-04-12
+source-tier: 1
+party: "Democrat"
+chamber: "UN Ambassador (2009-2013), National Security Advisor (2013-2017)"
+known-gaps:
+  - "No mapped relationships"
+  - "No donor network analysis"
+source-types:
+  - Congress
+---
+
+# Susan Rice
+
+UN Ambassador (2009-2013), National Security Advisor (2013-2017). Profile pending enrichment.

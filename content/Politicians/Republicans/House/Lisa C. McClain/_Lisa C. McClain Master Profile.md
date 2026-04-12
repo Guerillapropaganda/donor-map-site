@@ -1,0 +1,29 @@
+---
+title: "Lisa C. McClain Master Profile"
+type: politician
+content-readiness: raw
+last-updated: 2026-04-12
+source-tier: 1
+party: "Republican"
+chamber: "House"
+state: "Michigan"
+state-abbr: "MI"
+district: "9"
+bioguide-id: "M001136"
+govtrack-id: 456827
+born: "1966-04-07"
+wikidata-id: "Q102184540"
+website: "https://mcclain.house.gov"
+phone: "202-225-2106"
+source-types:
+  - Congress
+known-gaps:
+  - "No FEC contribution data"
+  - "No legislative record"
+  - "No voting record"
+  - "No mapped relationships"
+---
+
+# Lisa C. McClain
+
+Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
