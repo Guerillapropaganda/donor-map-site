@@ -3,7 +3,7 @@ title: Michael Whatley Master Profile
 type: politician
 content-readiness: draft
 central-thesis: "Michael Whatley's political career exemplifies the revolving door between fossil fuel lobbying and Republican Party leadership. His professional life centers on three interlocking interests: oil and gas industry advocacy (HBW Resources, Consumer E..."
-last-updated: '2026-04-09'
+last-updated: 2026-04-12
 source-tier: 2
 parent: null
 party: Republican
@@ -22,7 +22,8 @@ known-gaps:
   - No legislative record from Congress.gov
   - No voting record data
   - No mapped relationships
-related: "[[North Carolina 2026 Senate Race]] · [[Michael Whatley Oil and Gas Lobbying History]]"
+related: "[[North Carolina 2026 Senate Race]] · [[Michael Whatley Oil and Gas Lobbying History]] · [[Susan B. Anthony Pro-Life America PAC]] · [[Consumer Energy Alliance]]"
+donors: "[[Susan B. Anthony Pro-Life America PAC]] · [[HBW Resources]]"
 ---
 #politician #republican #senate #north-carolina #2026-candidate #oil-lobbyist #trump-aligned
 tags: #republican

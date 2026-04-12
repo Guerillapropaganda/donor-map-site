@@ -2,13 +2,13 @@
 title: "Thorn Run Partners"
 type: lobbying-firm
 content-readiness: draft
-last-updated: 2026-04-09
+last-updated: 2026-04-12
 source-tier: 1
 parent: null
 annual-revenue: "$32.3M (2025)"
 lobbyist-count: 37
 revolving-door-pct: "62.9%"
-related: "[[PhRMA - Pharmaceutical Research and Manufacturers of America|PhRMA]] · [[Comcast - NBCUniversal|Comcast]] · [[_Lobbying Firms Framework]] · [[Forbes Tate Partners]] · [[Capitol Counsel]] · [[BGR Group]] · [[Cornerstone Government Affairs]] · [[Subject Matter (now Avoq)]] · [[Mehlman Consulting]] · [[Fierce Government Relations]] · [[Brownstein Hyatt Farber Schreck]] · [[Peck Madigan Jones (now Tiber Creek Group)]] · [[Prime Policy Group]] · [[K&L Gates]] · [[Crossroads Strategies]] · [[Cassidy & Associates]] · [[Ballard Partners]] · [[Alpine Group]] · [[Akin Gump Strauss Hauer & Feld]]"
+related: "[[PhRMA - Pharmaceutical Research and Manufacturers of America|PhRMA]] · [[Comcast - NBCUniversal|Comcast]] · [[_Lobbying Firms Framework]] · [[Forbes Tate Partners]] · [[Capitol Counsel]] · [[BGR Group]] · [[Cornerstone Government Affairs]] · [[Subject Matter (now Avoq)]] · [[Mehlman Consulting]] · [[Fierce Government Relations]] · [[Brownstein Hyatt Farber Schreck]] · [[Peck Madigan Jones (now Tiber Creek Group)]] · [[Prime Policy Group]] · [[K&L Gates]] · [[Crossroads Strategies]] · [[Cassidy & Associates]] · [[Ballard Partners]] · [[Alpine Group]] · [[Akin Gump Strauss Hauer & Feld]] · [[Squire Patton Boggs]]"
 sec-filings: 15
 sec-form-types:
   - "10-K"

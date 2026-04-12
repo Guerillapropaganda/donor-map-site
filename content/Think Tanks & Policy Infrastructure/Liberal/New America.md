@@ -9,7 +9,7 @@ category: liberal
 tax-status: 501c3
 lei: "549300C6JPZKHI5YDM10"
 lei-jurisdiction: "KY"
-related: "[[Goldman Sachs]] · [[Gates Foundation]] · [[Brookings Institution]] · [[Urban Institute]] · [[The Think Tank Money Map — Budget, Funding Sources, and the Illusion of Independence]] · [[The Revolving Door — A Cross-Think-Tank Personnel Map]]"
+related: "[[Goldman Sachs]] · [[Gates Foundation]] · [[Brookings Institution]] · [[Urban Institute]] · [[The Think Tank Money Map — Budget, Funding Sources, and the Illusion of Independence]] · [[The Revolving Door — A Cross-Think-Tank Personnel Map]] · [[The Idea Laundering Pipeline — How Think Tank Research Becomes Law]] · [[Economic Policy Institute]]"
 known-gaps:
   - "No FEC contribution data"
 sec-filings: 10000

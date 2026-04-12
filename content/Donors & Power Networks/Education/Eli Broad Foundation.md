@@ -18,7 +18,7 @@ total-revenue: 163352987
 total-assets: 1860562867
 lei: "549300MEWH8MEHZXWM71"
 lei-jurisdiction: "US-CA"
-related: "[[CTA - California Teachers Association]] · [[Michael Bennet]] · [[_Gavin Newsom Master Profile]] · [[Education - Donors and Backers]] · [[Charter Schools and the Billionaire Reform Movement]] · [[California Charter Schools Association]] · [[Walton Family Foundation]] · [[UnitedHealth Group - Optum]] · [[Kaiser Permanente]] · [[PBM Industry Bloc - OptumRx, CVS Caremark, Express Scripts]] · [[Johnson & Johnson]] · [[Moderna]] · [[Novo Nordisk]]"
+related: "[[CTA - California Teachers Association]] · [[Michael Bennet]] · [[_Gavin Newsom Master Profile]] · [[Education - Donors and Backers]] · [[Charter Schools and the Billionaire Reform Movement]] · [[California Charter Schools Association]] · [[Walton Family Foundation]] · [[UnitedHealth Group - Optum]] · [[Kaiser Permanente]] · [[PBM Industry Bloc - OptumRx, CVS Caremark, Express Scripts]] · [[Johnson & Johnson]] · [[Moderna]] · [[Novo Nordisk]] · [[Merck]] · [[Gilead Sciences]]"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
 cross-vault-triangulation-count: 10

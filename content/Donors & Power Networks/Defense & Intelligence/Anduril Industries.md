@@ -26,7 +26,7 @@ sec-form-types:
   - "EX-99.2"
   - "NPORT-EX"
   - "NPORT-P"
-related: "[[Palantir Technologies]] · [[David Sacks]] · [[Peter Thiel]] · [[Palmer Luckey]] · [[Founders Fund]] · [[Palantir Technologies Political Operation]] · [[Lockheed Martin]] · [[Raytheon Technologies]] · [[Raytheon (RTX Corporation)]] · [[Valero Energy]] · [[Occidental Petroleum]]"
+related: "[[Palantir Technologies]] · [[David Sacks]] · [[Peter Thiel]] · [[Palmer Luckey]] · [[Founders Fund]] · [[Palantir Technologies Political Operation]] · [[Lockheed Martin]] · [[Raytheon Technologies]] · [[Raytheon (RTX Corporation)]] · [[Valero Energy]] · [[Occidental Petroleum]] · [[WSPA - Western States Petroleum Association]] · [[Instacart]]"
 subawards-issued: 50
 subawards-issued-amount: 156117244
 subawards-received: 50

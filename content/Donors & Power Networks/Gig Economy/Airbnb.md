@@ -34,7 +34,7 @@ regulatory-agencies:
   - "Regulatory Information Service Center"
   - "Securities and Exchange Commission"
   - "U.S. Citizenship and Immigration Services"
-related: "[[Lyft]] · [[Instacart]] · [[Uber]] · [[DoorDash]] · [[Blackstone Real Estate]] · [[Flex Association]] · [[Fossil Fuel Bloc]] · [[UnitedHealth Group - Optum]] · [[PG&E]] · [[ExxonMobil]] · [[WSPA - Western States Petroleum Association]]"
+related: "[[Lyft]] · [[Instacart]] · [[Uber]] · [[DoorDash]] · [[Blackstone Real Estate]] · [[Flex Association]] · [[Fossil Fuel Bloc]] · [[UnitedHealth Group - Optum]] · [[PG&E]] · [[ExxonMobil]] · [[WSPA - Western States Petroleum Association]] · [[Valero Energy]] · [[Raytheon Technologies]]"
 cross-vault-triangulation-count: 7
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
   • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.

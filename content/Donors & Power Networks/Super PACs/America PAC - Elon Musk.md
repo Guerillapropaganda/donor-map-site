@@ -9,7 +9,7 @@ sector: "Super PACs"
 entity-type: "PAC"
 issues:
   - "Technology"
-related: "[[Mike Lawler Master Profile]] · [[Elon Musk]] · [[Tesla - Elon Musk Political Operation]] · [[SpaceX]] · [[MAGA Inc]] · [[Congressional Leadership Fund]] · [[Senate Majority PAC]] · [[Winning for Women PAC]] · [[Senate Leadership Fund]] · [[Priorities USA Action]] · [[One Nation]]"
+related: "[[Mike Lawler Master Profile]] · [[Elon Musk]] · [[Tesla - Elon Musk Political Operation]] · [[SpaceX]] · [[MAGA Inc]] · [[Congressional Leadership Fund]] · [[Senate Majority PAC]] · [[Winning for Women PAC]] · [[Senate Leadership Fund]] · [[Priorities USA Action]] · [[One Nation]] · [[WinRed]] · [[Fairshake PAC]]"
 known-gaps:
   - "No FEC contribution data"
 ---

@@ -39,7 +39,7 @@ regulatory-agencies:
   - "Homeland Security Department"
   - "Housing and Urban Development Department"
   - "Internal Revenue Service"
-related: "[[Healthcare Sector]] · [[The Moderate Brand as Donor Strategy]] · [[John Thune Master Profile]] · [[John Cornyn]] · [[Deb Fischer]] · [[Bryan Steil]] · [[Mark Warner]] · [[Barack Obama Master Profile]] · [[The Maui Wildfire Response and the Rebuilding Money Trail]] · [[Chris Murphy Master Profile]] · [[Defense Contractors]] · [[Insurance Industry Bloc]] · [[UnitedHealth Group - Optum]] · [[Blue Cross Blue Shield Association]] · [[Anthem PAC]] · [[PhRMA]] · [[Centene Corporation PAC]] · [[US Chamber of Commerce]] · [[Stand Together]] · [[National Education Association]] · [[DeVos Family]] · [[Walton Family Foundation]] · [[American Federation for Children]]"
+related: "[[Healthcare Sector]] · [[The Moderate Brand as Donor Strategy]] · [[John Thune Master Profile]] · [[John Cornyn]] · [[Deb Fischer]] · [[Bryan Steil]] · [[Mark Warner]] · [[Barack Obama Master Profile]] · [[The Maui Wildfire Response and the Rebuilding Money Trail]] · [[Chris Murphy Master Profile]] · [[Defense Contractors]] · [[Insurance Industry Bloc]] · [[UnitedHealth Group - Optum]] · [[Blue Cross Blue Shield Association]] · [[Anthem PAC]] · [[PhRMA]] · [[Centene Corporation PAC]] · [[US Chamber of Commerce]] · [[Stand Together]] · [[National Education Association]] · [[DeVos Family]] · [[Walton Family Foundation]] · [[American Federation for Children]] · [[Defense Industry]] · [[Defense Industry Bloc]]"
 lobbying-spend: 25607025
 lobbying-filings: 107
 cross-vault-triangulation-count: 17

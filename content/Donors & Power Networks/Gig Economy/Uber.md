@@ -87,7 +87,7 @@ subawards-received: 50
 subawards-received-amount: 35631187
 top-federal-agency: "Department of Defense"
 top-naics-code: "238910"
-related: "[[Instacart]] · [[Newsom 2028 - The Donor Class Presidential Campaign]] · [[Fossil Fuel Bloc]] · [[GEO Group - Private Prison Industrial Complex]] · [[CoreCivic]] · [[_Gavin Newsom Master Profile]] · [[AB5 - Gig Worker Classification]] · [[Prop 22 - The $200M Corporate Rollback]] · [[Labor - Donors and Backers]] · [[Lyft]] · [[DoorDash]] · [[_Donald Trump Master Profile]] · [[UnitedHealth Group - Optum]] · [[Kaiser Permanente]] · [[PBM Industry Bloc - OptumRx, CVS Caremark, Express Scripts]] · [[Johnson & Johnson]] · [[Moderna]] · [[Novo Nordisk]]"
+related: "[[Instacart]] · [[Newsom 2028 - The Donor Class Presidential Campaign]] · [[Fossil Fuel Bloc]] · [[GEO Group - Private Prison Industrial Complex]] · [[CoreCivic]] · [[_Gavin Newsom Master Profile]] · [[AB5 - Gig Worker Classification]] · [[Prop 22 - The $200M Corporate Rollback]] · [[Labor - Donors and Backers]] · [[Lyft]] · [[DoorDash]] · [[_Donald Trump Master Profile]] · [[UnitedHealth Group - Optum]] · [[Kaiser Permanente]] · [[PBM Industry Bloc - OptumRx, CVS Caremark, Express Scripts]] · [[Johnson & Johnson]] · [[Moderna]] · [[Novo Nordisk]] · [[Merck]] · [[Gilead Sciences]]"
 federal-awards-total: 1913339677
 federal-contracts-count: 25
 federal-grants-count: 25

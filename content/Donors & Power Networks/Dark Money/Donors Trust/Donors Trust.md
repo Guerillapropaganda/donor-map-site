@@ -11,7 +11,7 @@ known-gaps:
   - "No lobbying data"
   - "No mapped relationships"
 source-types: []
-related: "[[Stand Together]]"
+related: "[[Stand Together]] · [[Judicial Crisis Network]]"
 ---
 
 # Donors Trust

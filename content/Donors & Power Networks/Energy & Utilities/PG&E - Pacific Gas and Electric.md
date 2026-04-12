@@ -16,7 +16,7 @@ needs-reenrichment: true
 reenrich-reason: "run lda pipeline"
 total-revenue: 397265
 total-assets: 358665
-related: "[[Environment - Donors and Backers]] · [[100% Clean Energy and the 2035 EV Mandate]] · [[Economic Policy - Donors and Backers]] · [[WSPA - Western States Petroleum Association]] · [[Occidental Petroleum]] · [[Valero Energy]] · [[Marathon Petroleum]] · [[Chevron]] · [[Koch Industries]] · [[ExxonMobil]] · [[ConocoPhillips]] · [[_Gavin Newsom Master Profile|Gavin Newsom]] · [[Hawaiian Electric Company]] · [[NextEra Energy]] · [[Southern Company]] · [[Halliburton]] · [[Duke Energy]] · [[Devon Energy]] · [[Palantir Technologies Political Operation]]"
+related: "[[Environment - Donors and Backers]] · [[100% Clean Energy and the 2035 EV Mandate]] · [[Economic Policy - Donors and Backers]] · [[WSPA - Western States Petroleum Association]] · [[Occidental Petroleum]] · [[Valero Energy]] · [[Marathon Petroleum]] · [[Chevron]] · [[Koch Industries]] · [[ExxonMobil]] · [[ConocoPhillips]] · [[_Gavin Newsom Master Profile|Gavin Newsom]] · [[Hawaiian Electric Company]] · [[NextEra Energy]] · [[Southern Company]] · [[Halliburton]] · [[Duke Energy]] · [[Devon Energy]] · [[Palantir Technologies Political Operation]] · [[Raytheon Technologies]] · [[Instacart]]"
 lei: "R0KNQ1I1NAJLDR51ER82"
 lei-jurisdiction: "US-CA"
 federal-register-mentions: 5

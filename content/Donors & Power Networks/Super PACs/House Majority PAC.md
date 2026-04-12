@@ -26,7 +26,7 @@ court-jurisdictions:
 sec-filings: 1
 sec-form-types:
   - "10-K"
-related: "[[Senate Majority PAC]] · [[DCCC Red-to-Blue Targets 2026]] · [[_Hakeem Jeffries Master Profile|Hakeem Jeffries]] · [[Master Donor Database]] · [[Donor Registry - Master Index]] · [[Senate Leadership Fund]] · [[National Republican Senatorial Committee]] · [[Winning for Women PAC]] · [[Priorities USA Action]] · [[MAGA Inc]] · [[WinRed]]"
+related: "[[Senate Majority PAC]] · [[DCCC Red-to-Blue Targets 2026]] · [[_Hakeem Jeffries Master Profile|Hakeem Jeffries]] · [[Master Donor Database]] · [[Donor Registry - Master Index]] · [[Senate Leadership Fund]] · [[National Republican Senatorial Committee]] · [[Winning for Women PAC]] · [[Priorities USA Action]] · [[MAGA Inc]] · [[WinRed]] · [[Trump Victory]] · [[Fairshake PAC]]"
 opposes: "[[Michael Waltz]] · [[Mark Green]]"
 cross-vault-triangulation-count: 8
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:

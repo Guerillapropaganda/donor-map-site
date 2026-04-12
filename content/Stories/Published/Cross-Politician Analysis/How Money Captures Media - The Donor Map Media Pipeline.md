@@ -3,10 +3,10 @@ title: "How Money Captures Media — The Donor Map Media Pipeline"
 type: story
 content-readiness: ready
 central-thesis: "Politicians deliver votes. Media personalities deliver consent. The same donor class funds both."
-last-updated: 2026-04-11
+last-updated: 2026-04-12
 source-tier: 1
 parent: null
-related: "[[Intra-Republican Contradiction Map]] · [[_Media Pipeline Framework]] · [[_Media Pipeline Index]] · [[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]] · [[Peter Thiel]] · [[Research Methodology and Data Sources]] · [[Intra-Democratic Contradiction Map - The Progressive vs Moderate Illusion]] · [[Geographic Donor Clustering - Where the Money Actually Comes From]] · [[Trump-Newsom Donor Class Mirror - Same Money, Different Rhetoric]] · [[Schumer-McConnell Senate Leadership Mirror - Same Money, Different Caucuses]] · [[Pelosi-McCarthy House Leadership Mirror - Same Corporate Apparatus, Different Brand]]"
+related: "[[Intra-Republican Contradiction Map]] · [[_Media Pipeline Framework]] · [[_Media Pipeline Index]] · [[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]] · [[Peter Thiel]] · [[Research Methodology and Data Sources]] · [[Intra-Democratic Contradiction Map - The Progressive vs Moderate Illusion]] · [[Geographic Donor Clustering - Where the Money Actually Comes From]] · [[Trump-Newsom Donor Class Mirror - Same Money, Different Rhetoric]] · [[Schumer-McConnell Senate Leadership Mirror - Same Money, Different Caucuses]] · [[Pelosi-McCarthy House Leadership Mirror - Same Corporate Apparatus, Different Brand]] · [[Booker-Scott Donor Class Mirror - Two Black Senators, One Donor Class]] · [[Tech Billionaires Switch Parties on Regulatory Self-Interest]]"
 ---
 #media-pipeline #cross-analysis #class-analysis #donor-map #both-sides-illusion
 

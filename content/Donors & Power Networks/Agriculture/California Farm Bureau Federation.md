@@ -59,7 +59,7 @@ court-jurisdictions:
 nonprofit-status: "501(c)(5)"
 total-revenue: 29941168
 total-assets: 75856990
-related: "[[Agricultural Labor Vulnerability Donors]] · [[_Gavin Newsom Master Profile]] · [[Farmworker Union Rights - AB 2183 Veto and Reversal]] · [[H-2A Guest Worker Pipeline and Farmworker Vulnerability]] · [[Immigration - Donors and Backers]] · [[Labor - Donors and Backers]] · [[Western Growers Association]] · [[Haim Saban]] · [[JPAC - Jewish Public Affairs Committee of California]] · [[JCRC Bay Area]] · [[J Street]] · [[Christians United for Israel]] · [[American Friends of the Likud]]"
+related: "[[Agricultural Labor Vulnerability Donors]] · [[_Gavin Newsom Master Profile]] · [[Farmworker Union Rights - AB 2183 Veto and Reversal]] · [[H-2A Guest Worker Pipeline and Farmworker Vulnerability]] · [[Immigration - Donors and Backers]] · [[Labor - Donors and Backers]] · [[Western Growers Association]] · [[Haim Saban]] · [[JPAC - Jewish Public Affairs Committee of California]] · [[JCRC Bay Area]] · [[J Street]] · [[Christians United for Israel]] · [[American Friends of the Likud]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Blue Shield of California]]"
 sec-filings: 291
 sec-form-types:
   - "10-Q"

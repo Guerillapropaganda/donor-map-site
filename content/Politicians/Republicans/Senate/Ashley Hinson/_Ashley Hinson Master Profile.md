@@ -3,7 +3,7 @@ title: Ashley Hinson Master Profile
 type: politician
 content-readiness: draft
 central-thesis: "Ashley Hinson represents the post-Trump Republican establishment's preferred profile: media-savvy, young, female-presenting leadership that translates television credibility into electoral appeal while advancing conventional Republican donor prior..."
-last-updated: 2026-04-10
+last-updated: 2026-04-12
 source-tier: 1
 parent: null
 party: Republican
@@ -30,14 +30,13 @@ opposes: >-
   [[UA UNION PLUMBERS & PIPEFITTERS VOTE! PAC (UNITED ASSOCIATION OF JOURNEYMEN
   AND APPRENTICES OF THE PLUMBING & PIPEFITTING INDUSTRY OF THE UNITED STATES
   AND CANADA)]] · [[HOUSE MAJORITY PAC]] · [[DCCC]]
-related: >-
-  [[_Zach Wahls Master Profile|Zach Wahls]] · [[Senate Leadership Fund]] ·
-  [[Winning for Women PAC]]
+related: ">- · [[Winning for Women PAC]] · [[Senate Leadership Fund]]"
 total-raised: "$4,892,227"
 total-spent: "$1,650,040"
 cash-on-hand: "5170262.53"
 fec-cycle: 2026
 last-enriched: "2026-04-10"
+donors: "[[Winning for Women PAC]] · [[Senate Leadership Fund]]"
 ---
 #politician #republican #senate #iowa #2026-candidate
 tags: #republican

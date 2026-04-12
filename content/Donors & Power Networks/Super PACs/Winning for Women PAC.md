@@ -9,7 +9,7 @@ sector: "Super PACs"
 entity-type: "PAC"
 politicians-funded:
   - "Elise Stefanik"
-related: "[[Ashley Hinson Master Profile]] · [[EMILY's List]] · [[Congressional Leadership Fund]] · [[_Elise Stefanik Master Profile|Stefanik]] · [[National Republican Congressional Committee|NRCC]] · [[Citadel LLC]] · [[Paul Singer]] · [[Senate Leadership Fund]] · [[Senate Majority PAC]] · [[Priorities USA Action]] · [[National Republican Senatorial Committee]] · [[One Nation]] · [[MAGA Inc]]"
+related: "[[Ashley Hinson Master Profile]] · [[EMILY's List]] · [[Congressional Leadership Fund]] · [[_Elise Stefanik Master Profile|Stefanik]] · [[National Republican Congressional Committee|NRCC]] · [[Citadel LLC]] · [[Paul Singer]] · [[Senate Leadership Fund]] · [[Senate Majority PAC]] · [[Priorities USA Action]] · [[National Republican Senatorial Committee]] · [[One Nation]] · [[MAGA Inc]] · [[WinRed]] · [[Fairshake PAC]]"
 cross-vault-triangulation-count: 7
 needs-reenrichment: true
 reenrich-reason: "run fec pipeline; run pipelines"

@@ -156,10 +156,10 @@ function getPoliticianChecklist(chamber?: string): ChecklistItem[] {
     { id: "chamber-field", label: "chamber: field in frontmatter", group: "structural", blockingFor: "ready",
       check: (p) => !!p.chamber },
     { id: "bioguide-field", label: "bioguide-id: for House/Senate members", group: "structural", blockingFor: "ready", naAllowed: true,
-      check: (p) => {
+      check: (p, raw) => {
         const ch = (p.chamber || "").toLowerCase()
         if (ch !== "house" && ch !== "senate") return true // N/A for non-Congress
-        return !!(p as Record<string, unknown>)["bioguideId"] || !!(p as Record<string, unknown>)["bioguide-id"]
+        return raw.includes("bioguide-id:")
       }
     },
     { id: "heading-levels", label: "Major sections use ## headings (not ###)", group: "structural", blockingFor: "ready",
@@ -543,14 +543,15 @@ export function evaluateReadinessEligibility(profile: Profile, raw: string): {
   const pct = total > 0 ? Math.round((checked / total) * 100) : 0
 
   // Per-group breakdown (plan Step 4)
-  const groupKeys: ChecklistGroup[] = ["core", "tier-a", "tier-b", "tier-c", "tier-d", "s-tier"]
+  const groupKeys: ChecklistGroup[] = ["core", "structural", "tier-a", "tier-b", "tier-c", "tier-d", "s-tier"]
   const tierBreakdown: Record<ChecklistGroup, { passed: number; total: number; pct: number }> = {
-    "core":   { passed: 0, total: 0, pct: 0 },
-    "tier-a": { passed: 0, total: 0, pct: 0 },
-    "tier-b": { passed: 0, total: 0, pct: 0 },
-    "tier-c": { passed: 0, total: 0, pct: 0 },
-    "tier-d": { passed: 0, total: 0, pct: 0 },
-    "s-tier": { passed: 0, total: 0, pct: 0 },
+    "core":       { passed: 0, total: 0, pct: 0 },
+    "structural": { passed: 0, total: 0, pct: 0 },
+    "tier-a":     { passed: 0, total: 0, pct: 0 },
+    "tier-b":     { passed: 0, total: 0, pct: 0 },
+    "tier-c":     { passed: 0, total: 0, pct: 0 },
+    "tier-d":     { passed: 0, total: 0, pct: 0 },
+    "s-tier":     { passed: 0, total: 0, pct: 0 },
   }
   for (const item of items) {
     if (isNa(item.id)) continue

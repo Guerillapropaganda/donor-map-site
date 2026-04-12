@@ -3,12 +3,12 @@ title: "Crypto Industry Buys Both Parties in One Cycle"
 type: story
 content-readiness: ready
 editor-vouched: true
-last-updated: 2026-04-08
+last-updated: 2026-04-12
 source-tier: 1
 parent: null
 issues:
   - "Technology"
-related: "[[Tech Billionaires Switch Parties on Regulatory Self-Interest]] · [[Crypto Industry Bloc]] · [[_Donald Trump Master Profile|Donald Trump]] · [[_Kamala Harris Master Profile|Kamala Harris]] · [[_Bernie Sanders Master Profile|Bernie Sanders]] · [[Sherrod Brown]] · [[_Katie Porter Master Profile|Katie Porter]]"
+related: "[[Tech Billionaires Switch Parties on Regulatory Self-Interest]] · [[Crypto Industry Bloc]] · [[_Donald Trump Master Profile|Donald Trump]] · [[_Kamala Harris Master Profile|Kamala Harris]] · [[_Bernie Sanders Master Profile|Bernie Sanders]] · [[Sherrod Brown]] · [[_Katie Porter Master Profile|Katie Porter]] · [[Crypto vs Labor - The Structural Funding Gap]]"
 ---
 #investigation #contradiction #crypto #fairshake #both-sides #bipartisan-capture #class-analysis
 tags: #analysis #story

@@ -7,7 +7,7 @@ source-tier: 1
 parent: null
 issues:
   - "Technology"
-related: "[[Crypto Industry Buys Both Parties in One Cycle]] · [[Marc Andreessen & Horowitz|Marc Andreessen]] · [[Elon Musk]] · [[Reid Hoffman]] · [[David Sacks]] · [[Dustin Moskovitz]] · [[Eric Schmidt]] · [[_Kamala Harris Master Profile|Kamala Harris]] · [[_Donald Trump Master Profile|Donald Trump]] · [[Crypto Industry Bloc]] · [[Georgia 2026 Senate Race]] · [[Crypto vs Labor - The Structural Funding Gap]] · [[Intra-Democratic Contradiction Map - The Progressive vs Moderate Illusion]] · [[Geographic Donor Clustering - Where the Money Actually Comes From]] · [[Intra-Republican Contradiction Map]] · [[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]]"
+related: "[[Crypto Industry Buys Both Parties in One Cycle]] · [[Marc Andreessen & Horowitz|Marc Andreessen]] · [[Elon Musk]] · [[Reid Hoffman]] · [[David Sacks]] · [[Dustin Moskovitz]] · [[Eric Schmidt]] · [[_Kamala Harris Master Profile|Kamala Harris]] · [[_Donald Trump Master Profile|Donald Trump]] · [[Crypto Industry Bloc]] · [[Georgia 2026 Senate Race]] · [[Crypto vs Labor - The Structural Funding Gap]] · [[Intra-Democratic Contradiction Map - The Progressive vs Moderate Illusion]] · [[Geographic Donor Clustering - Where the Money Actually Comes From]] · [[Intra-Republican Contradiction Map]] · [[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]] · [[Trump-Newsom Donor Class Mirror - Same Money, Different Rhetoric]] · [[Schumer-McConnell Senate Leadership Mirror - Same Money, Different Caucuses]]"
 ---
 #investigation #contradiction #tech #silicon-valley #party-switching #class-analysis
 tags: #analysis #story

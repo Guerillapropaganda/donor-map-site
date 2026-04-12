@@ -12,7 +12,7 @@ corroboration-count: 2
 known-gaps:
   - "No mapped relationships"
 
-related: "[[General Dynamics]] · [[National Republican Senatorial Committee]]"
+related: "[[General Dynamics]] · [[National Republican Senatorial Committee]] · [[Democratic Senatorial Campaign Committee]] · [[Pharmaceutical Industry Bloc]]"
 ---
 #2026-election #senate #new-hampshire #race-frame
 
