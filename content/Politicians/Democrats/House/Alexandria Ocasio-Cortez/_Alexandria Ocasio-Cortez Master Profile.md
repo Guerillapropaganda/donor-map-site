@@ -175,6 +175,18 @@ Without corporate donor dependency, AOC's policy positions are structurally unco
 >
 > **$0 fossil fuel → Green New Deal.** $0 AIPAC → ceasefire votes. $0 pharma → M4A co-sponsorship. $0 crypto → anti-deregulation votes. The correlation works in reverse and is complete across every sector. The donor data predicts the vote — the donor is just different.
 
+## Class Analysis
+
+Alexandria Ocasio-Cortez is the vault's control variable. She proves the donor-class thesis by operating outside it: $0 from fossil fuel, $0 from AIPAC, $0 from pharma, $0 from crypto PACs, $0 from corporate PACs ever. And every policy position tracks the absence of those donors with perfect inverse correlation. Green New Deal authorship (no fossil fuel money). Ceasefire votes (no AIPAC money). Medicare for All co-sponsorship (no pharma money). Anti-FIT21 votes (no crypto money). The donor data predicts the vote. The donor is just different.
+
+The professional-class tension is the honest complication. AOC's no-corporate-PAC pledge is structurally real. But the industry breakdown of her individual contributions reveals a professional-class donor base: Finance, Insurance and Real Estate at $5.3M career. Securities and Investment at $2.7M. Tech at $3.7M. Top contributing employers: Google ($161K), Amazon ($63K), Apple ($62K). These are $20-$200 individual donations from educated professionals in coastal metros, not PAC money. But they are overwhelmingly not working-class. 99%+ of contributions come from outside NY-14. Only 6% of 2018 itemized donations came from within her district. The small-dollar model is clean. The class it draws from is professional, not working-class.
+
+The containment question is the structural class analysis. AOC entered Congress as an insurgent who defeated a 10-term incumbent with no corporate money. Wall Street CEOs (Goldman Sachs's David Solomon, Blackstone's Stephen Schwarzman, Nelson Peltz, Stanley Druckenmiller, Ken Langone) bankrolled a $2M+ primary challenge against her. She won by 57 points. The donor class cannot defund her and cannot defeat her electorally. The remaining mechanism is institutional absorption: committee assignments, coalition politics, party loyalty incentives. AOC accepted a seat on Energy and Commerce. She endorsed Biden after endorsing Sanders. She campaigns for moderate candidates in competitive districts. Each institutional accommodation is individually rational. The cumulative pattern is the containment mechanism working.
+
+The class function AOC performs is unique: she demonstrates that the small-dollar model works, which makes it structurally threatening to the donor class. But she has not replicated it at scale. Courage to Change PAC, her leadership PAC, endorsed candidates who mostly lost their primaries. The institutional Democratic Party, funded by the donor class AOC rejects, retains the power to determine who gets DCCC support and who gets primaried. AOC proved the model. The question the vault holds is whether the model can survive the institution designed to contain it.
+
+---
+
 ## Rhetorical Signature Moves
 
 1. **The lived experience anchor:** AOC regularly deploys her bartender-to-Congress story as class credentials. This is authentic in origin but has become a rhetorical device that insulates her from elite criticism while her institutional position evolves.

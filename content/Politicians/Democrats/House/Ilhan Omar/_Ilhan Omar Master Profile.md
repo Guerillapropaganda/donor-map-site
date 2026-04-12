@@ -191,6 +191,18 @@ The FEC opened an inquiry into Omar's small-dollar fundraising patterns — the 
 
 ---
 
+## Class Analysis
+
+Ilhan Omar is the vault's clearest case of donor-class punitive action against foreign policy dissent. She was removed from the Foreign Affairs Committee not for ethics violations but for policy positions that threatened the pro-Israel donor network's control over U.S. foreign policy. The mechanism was procedural (a House vote, 218-211, party-line) but the cause was financial: AIPAC and affiliated networks determined that Omar's continued jurisdiction over military aid and Middle East policy was unacceptable to their donor base.
+
+The class geography is precise. Omar represents Minneapolis's 5th District, which contains the largest Somali-American and East African communities in the United States, plus a significant Arab-American population. These communities have direct material stakes in U.S. policy toward East Africa and the Middle East. They elected Omar specifically to represent those interests on Foreign Affairs. The committee removal means the constituency with the most direct material interest in U.S. foreign policy has been formally excluded from the committee with oversight jurisdiction. The donor class (pro-Israel networks) overrode the constituent class (Somali-American/Arab-American communities). The mechanism was a House vote. The purpose was jurisdictional exclusion.
+
+The AIPAC spending pattern reveals the donor class's cost-benefit rationality. In 2022, United Democracy Project spent $350K against Omar. She won by 2,000 votes. In 2024, AIPAC declined to engage. Instead it concentrated resources on Jamaal Bowman ($8M+, defeated) and Cori Bush ($9M+, defeated), where the constituencies were persuadable. Omar's district demographics (Somali-American, East African, Arab-American) make pro-Israel spending counterproductive, generating backlash instead of votes. The strategic withdrawal is class rationality: spend where ROI is positive. Omar's survival is not a failure of the donor class. It is evidence that the donor class triages its investments.
+
+Omar's small-dollar model ($1.7M in Q1 2024, 56,022 contributions, $31.79 average, 98% under $200) is the defensive mechanism. Each AIPAC attack cycle generates a fundraising surge. The FEC opened an inquiry into her small-dollar patterns, a regulatory scrutiny that large-donor bundling networks rarely face. The structural hostility is visible: the system questions the legitimacy of genuine small-dollar independence more readily than it questions the legitimacy of $9M in outside PAC spending to defeat a sitting member.
+
+---
+
 ## Analytical Patterns
 
 **Donor-Class Override (Foreign Affairs Removal):** The committee removal is the vault's most documented case of institutional donor-class power operating through House procedure. AIPAC doesn't control House floor votes directly — but Republican leadership's decision to target Omar specifically, rather than other progressive critics of Israel policy, tracks with AIPAC donor priorities. The mechanism: donor → political pressure on Republican leadership → floor vote → committee jurisdiction removed.
