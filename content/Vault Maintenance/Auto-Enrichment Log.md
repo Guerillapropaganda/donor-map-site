@@ -59,6 +59,13 @@ Bot-written. Research Claude reads this to see what fresh API data landed in the
 
 
 
+
+## 2026-04-12 22:44 UTC — 1 profile
+
+**Congress.gov — 1 profile:**
+- Dianne Feinstein — 0 policy areas, bioguide F000062
+
+---
 ## 2026-04-12 22:30 UTC — 1 profile
 
 **committee — 1 profile:**

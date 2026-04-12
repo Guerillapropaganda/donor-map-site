@@ -5,7 +5,7 @@ content-readiness: ready
 last-updated: 2026-04-12
 source-tier: 1
 parent: null
-related: "[[Defense Contractor 450000 Percent ROI]] · [[Think Tank Capture - Foreign Governments Writing US Policy]] · [[The Defense Spending Bipartisan Consensus]] · [[_Lindsey Graham Master Profile|Lindsey Graham]] · [[Raytheon Technologies]] · [[Koch network]]"
+related: "[[Defense Contractor 450000 Percent ROI]] · [[Think Tank Capture - Foreign Governments Writing US Policy]] · [[The Defense Spending Bipartisan Consensus]] · [[_Lindsey Graham Master Profile|Lindsey Graham]] · [[Raytheon Technologies]] · [[Koch network]] · [[Lockheed Martin]]"
 ---
 #2026-election #senate #south-carolina #race-frame
 

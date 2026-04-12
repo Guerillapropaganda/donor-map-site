@@ -10,7 +10,7 @@ entity-type: "Individual Donor"
 issues:
   - "Dark Money & Campaign Finance"
   - "Infrastructure"
-related: "[[National Progressive Donor Networks]] · [[Sheldon Whitehouse]] · [[Sixteen Thirty Fund]] · [[New Venture Fund]] · [[Demand Justice]] · [[Democracy Alliance]] · [[George Soros]] · [[DonorsTrust]] · [[Leonard Leo]] · [[Ocean Conservancy]] · [[Trial Lawyers Fund]] · [[Open Society Foundations]] · [[Media Matters]] · [[Legal Sector Donors]] · [[Finance and Tech Bundler Network]] · [[Environmental Law & Policy Center]]"
+related: "[[National Progressive Donor Networks]] · [[Sheldon Whitehouse]] · [[Sixteen Thirty Fund]] · [[New Venture Fund]] · [[Demand Justice]] · [[Democracy Alliance]] · [[George Soros]] · [[DonorsTrust]] · [[Leonard Leo]] · [[Ocean Conservancy]] · [[Trial Lawyers Fund]] · [[Open Society Foundations]] · [[Media Matters]] · [[Legal Sector Donors]] · [[Finance and Tech Bundler Network]] · [[Environmental Law & Policy Center]] · [[Democratic Party Infrastructure]]"
 known-gaps:
   - "No FEC contribution data"
   - "No lobbying disclosure data"

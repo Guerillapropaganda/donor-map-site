@@ -5,7 +5,7 @@ content-readiness: ready
 last-updated: 2026-04-12
 source-tier: 1
 parent: [[_Gavin Newsom Master Profile]]
-related: "[[Immigration - Donors and Backers]] · [[CCPOA - The Prison Guard Donor and the Reform Ceiling]] · [[Death Penalty Moratorium - Genuine Win With Limits]] · [[San Quentin - COVID Disaster and Rehabilitation Theater]] · [[Policing Reform - George Floyd Era]] · [[_Gavin Newsom Master Profile]] · [[Prop 22 - The $200M Corporate Rollback]] · [[Newsom 2028 - The Donor Class Presidential Campaign]] · [[The $1.6 Billion Fundraising Machine]] · [[The Biden Exit and Harris Installation]] · [[Legislative Record as Speaker]] · [[The Last Oil Democrat - Fossil Fuel Money in a Blue District]] · [[The Education Committee and Labor Alignment]]"
+related: "[[Immigration - Donors and Backers]] · [[CCPOA - The Prison Guard Donor and the Reform Ceiling]] · [[Death Penalty Moratorium - Genuine Win With Limits]] · [[San Quentin - COVID Disaster and Rehabilitation Theater]] · [[Policing Reform - George Floyd Era]] · [[_Gavin Newsom Master Profile]] · [[Prop 22 - The $200M Corporate Rollback]] · [[Newsom 2028 - The Donor Class Presidential Campaign]] · [[The $1.6 Billion Fundraising Machine]] · [[The Biden Exit and Harris Installation]] · [[Legislative Record as Speaker]] · [[The Last Oil Democrat - Fossil Fuel Money in a Blue District]] · [[The Education Committee and Labor Alignment]] · [[The Corporate-Democratic Donor Coalition and AIPAC Connection]]"
 ---
 #newsom #criminal-justice #donors #backers #[[CCPOA - California Correctional Peace Officers Association|CCPOA]] #bail-bond #law-enforcement #follow-the-money #research-node #carceral-state #class-analysis
 

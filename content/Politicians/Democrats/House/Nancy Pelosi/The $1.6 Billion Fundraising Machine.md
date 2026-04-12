@@ -5,7 +5,7 @@ content-readiness: draft
 last-updated: 2026-04-12
 source-tier: 1
 parent: [[_Nancy Pelosi Master Profile]]
-related: "[[The Biden Exit and Harris Installation]] · [[_Nancy Pelosi Master Profile]] · [[_Kamala Harris Master Profile]] · [[_Gavin Newsom Master Profile]] · [[_Bernie Sanders Master Profile]] · [[Newsom 2028 - The Donor Class Presidential Campaign]] · [[Legislative Record as Speaker]] · [[The Last Oil Democrat - Fossil Fuel Money in a Blue District]] · [[The Education Committee and Labor Alignment]] · [[The Corporate-Democratic Donor Coalition and AIPAC Connection]] · [[School Choice and the Catholic Church Prosecution as Brand Architecture]] · [[Prop 22 - The $200M Corporate Rollback]]"
+related: "[[The Biden Exit and Harris Installation]] · [[_Nancy Pelosi Master Profile]] · [[_Kamala Harris Master Profile]] · [[_Gavin Newsom Master Profile]] · [[_Bernie Sanders Master Profile]] · [[Newsom 2028 - The Donor Class Presidential Campaign]] · [[Legislative Record as Speaker]] · [[The Last Oil Democrat - Fossil Fuel Money in a Blue District]] · [[The Education Committee and Labor Alignment]] · [[The Corporate-Democratic Donor Coalition and AIPAC Connection]] · [[School Choice and the Catholic Church Prosecution as Brand Architecture]] · [[Prop 22 - The $200M Corporate Rollback]] · [[Labor - Donors and Backers]]"
 source-types:
   - FEC
 ---

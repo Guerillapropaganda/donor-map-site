@@ -19,7 +19,7 @@ lei: "549300VIWYMSIGT1U456"
 lei-jurisdiction: "US-DE"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
-related: "[[Johnson & Johnson]] · [[The Insurance Industry Public Option Kill]] · [[Tenet Healthcare]] · [[Blue Cross Blue Shield Association]] · [[UnitedHealth Group - Optum]] · [[Anthem - Elevance Health]] · [[Blue Shield of California]] · [[PBM Industry Bloc - OptumRx, CVS Caremark, Express Scripts]] · [[PhRMA]] · [[Purdue Pharma - Sackler Family]] · [[PhRMA - Pharmaceutical Research and Manufacturers of America]] · [[Novo Nordisk]] · [[Moderna]] · [[Merck]] · [[Gilead Sciences]] · [[Eli Lilly]]"
+related: "[[Johnson & Johnson]] · [[The Insurance Industry Public Option Kill]] · [[Tenet Healthcare]] · [[Blue Cross Blue Shield Association]] · [[UnitedHealth Group - Optum]] · [[Anthem - Elevance Health]] · [[Blue Shield of California]] · [[PBM Industry Bloc - OptumRx, CVS Caremark, Express Scripts]] · [[PhRMA]] · [[Purdue Pharma - Sackler Family]] · [[PhRMA - Pharmaceutical Research and Manufacturers of America]] · [[Novo Nordisk]] · [[Moderna]] · [[Merck]] · [[Gilead Sciences]] · [[Eli Lilly]] · [[Centene Corporation]]"
 court-cases: 1995
 court-jurisdictions:
   - "District Court, D. Connecticut"

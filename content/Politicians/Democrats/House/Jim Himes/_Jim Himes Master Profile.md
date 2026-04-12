@@ -3,7 +3,7 @@ title: "Jim Himes"
 type: politician
 content-readiness: draft
 central-thesis: "Jim Himes is the Goldman Sachs pipeline made flesh. He moved from the trading floor to Congress, represented the hedge fund corridor, sat on the committee that regulates his former industry, and consistently voted to weaken the regulations his par..."
-last-updated: 2026-04-08
+last-updated: 2026-04-12
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -26,7 +26,7 @@ bills-sponsored: 3
 bills-cosponsored: 157
 website: "https://himes.house.gov"
 phone: "202-225-5541"
-last-enriched: "2026-04-07"
+last-enriched: "2026-04-12"
 needs-reenrichment: true
 reenrich-reason: "re-run fec pipeline"
 related: "[[Chris Murphy Master Profile]] · [[_Nancy Pelosi Master Profile|Pelosi]] · [[_Chuck Schumer Master Profile|Schumer]] · [[Goldman Sachs - Wall Street Titan|Goldman Sachs]] · [[The Wall Street-Schumer Funding Axis]]"
@@ -233,3 +233,38 @@ The district-donor-committee triangle is nearly perfect. CT-04 is the hedge fund
 - [GovTrack: Jim Himes](https://www.govtrack.us/congress/members/412282) (Tier 1)
 
 <!-- auto:voting-record pending-merge end -->
+
+### Campaign Finance (FEC)
+<!-- auto:fec-politician start -->
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2026 |
+| Total Raised | $803,939 |
+| Individual Contributions | $208,082 |
+| PAC Contributions | $469,500 |
+| Cash on Hand | 2238362.21 |
+| IE Support (Super PAC) | $1,349,084 |
+| IE Opposition (Super PAC) | $168,655 |
+
+**Fundraising by cycle:**
+
+| Cycle | Total Raised | Individual | PAC |
+|-------|-------------|------------|-----|
+| 2026 | $803,939 | $208,082 | $469,500 |
+| 2024 | $2,120,398 | $821,094 | $1,034,000 |
+| 2022 | $1,695,712 | $625,375 | $881,961 |
+| 2020 | $1,632,647 | $555,988 | $831,650 |
+| 2018 | $2,028,483 | $755,958 | $959,328 |
+
+**Top outside spenders:**
+
+| Committee | Support | Oppose |
+|-----------|---------|--------|
+| DEMOCRATIC CONGRESSIONAL CAMPAIGN COMMITTEE | $1,276,129 | $0 |
+| LEAGUE OF CONSERVATION VOTERS INC | $71,850 | $0 |
+| TRINITY PAC | $0 | $64,118 |
+| CONNECTICUT TAXPAYERS ALLIANCE | $0 | $40,000 |
+| COMMON SENSE FOR CONNECTICUT | $0 | $39,058 |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H8CT04172/) (Tier 1)
+<!-- auto:fec-politician end -->

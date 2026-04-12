@@ -70,7 +70,7 @@ proclamations: 1230
 last-enriched: '2026-04-08'
 needs-reenrichment: true
 reenrich-reason: run voting pipeline; run congress pipeline
-related: ">- · [[UnitedHealth Group - Optum]]"
+related: ">- · [[UnitedHealth Group - Optum]] · [[Insurance Industry Bloc]]"
 ---
 #obama #master-profile #president #illinois #senate #class-analysis #follow-the-money #wall-street #silicon-valley #healthcare-donor-capture #two-audience-problem
 
@@ -375,3 +375,10 @@ Compare this to [[_Bernie Sanders Master Profile|Bernie Sanders]], who left offi
 
 - [Source: Federal Register — Presidential Documents](https://www.federalregister.gov/presidential-documents/executive-orders/barack-obama) (Tier 1)
 <!-- auto:executive-orders end -->
+
+### Voting Record
+<!-- auto:voting-record start -->
+**Sources**
+
+- [Congress.gov: Barack Obama](https://www.congress.gov/member/c001091) (Tier 1)
+<!-- auto:voting-record end -->

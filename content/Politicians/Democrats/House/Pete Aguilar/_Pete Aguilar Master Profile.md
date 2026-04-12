@@ -3,7 +3,7 @@ title: "Pete Aguilar"
 type: politician
 content-readiness: draft
 central-thesis: "Pete Aguilar represents the Democratic Party's leadership pipeline: moderate enough for donors, diverse enough for the base, loyal enough for leadership. His rise from a Southern California inland district to the third-ranking House Democrat illus..."
-last-updated: 2026-04-11
+last-updated: 2026-04-12
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -24,7 +24,7 @@ internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.
   • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it.
   • No last-enriched date is set. The pipelines have never touched this file.
 The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
-last-enriched: "2026-04-11"
+last-enriched: "2026-04-12"
 bioguide-id: "A000371"
 issues:
   - "Agriculture and Food"

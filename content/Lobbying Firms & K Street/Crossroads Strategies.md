@@ -2,7 +2,7 @@
 title: "Crossroads Strategies"
 type: lobbying-firm
 content-readiness: draft
-last-updated: 2026-04-09
+last-updated: 2026-04-12
 source-tier: 1
 parent: null
 annual-revenue: "$28.3M (2025)"
@@ -18,7 +18,7 @@ court-jurisdictions:
   - "District Court, N.D. California"
   - "United States Bankruptcy Court, D. Delaware"
   - "United States Bankruptcy Court, S.D. New York"
-related: "[[PhRMA - Pharmaceutical Research and Manufacturers of America|PhRMA]] · [[Goldman Sachs]] · [[Fossil Fuel Bloc]] · [[Brownstein Hyatt Farber Schreck]] · [[Peck Madigan Jones (now Tiber Creek Group)]] · [[Prime Policy Group]] · [[Cassidy & Associates]] · [[Ballard Partners]] · [[K&L Gates]] · [[Akin Gump Strauss Hauer & Feld]] · [[Forbes Tate Partners]] · [[Thorn Run Partners]] · [[Subject Matter (now Avoq)]] · [[Mehlman Consulting]] · [[Fierce Government Relations]] · [[Cornerstone Government Affairs]] · [[Capitol Counsel]] · [[BGR Group]] · [[Alpine Group]]"
+related: "[[PhRMA - Pharmaceutical Research and Manufacturers of America|PhRMA]] · [[Goldman Sachs]] · [[Fossil Fuel Bloc]] · [[Brownstein Hyatt Farber Schreck]] · [[Peck Madigan Jones (now Tiber Creek Group)]] · [[Prime Policy Group]] · [[Cassidy & Associates]] · [[Ballard Partners]] · [[K&L Gates]] · [[Akin Gump Strauss Hauer & Feld]] · [[Forbes Tate Partners]] · [[Thorn Run Partners]] · [[Subject Matter (now Avoq)]] · [[Mehlman Consulting]] · [[Fierce Government Relations]] · [[Cornerstone Government Affairs]] · [[Capitol Counsel]] · [[BGR Group]] · [[Alpine Group]] · [[Holland & Knight]]"
 sec-filings: 33
 sec-form-types:
   - "10-K"

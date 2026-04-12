@@ -34,7 +34,7 @@ regulatory-agencies:
   - "Federal Housing Finance Agency"
   - "Justice Department"
   - "Labor Department"
-related: "[[Palantir Technologies]] · [[SpaceX]] · [[Apple]] · [[Raytheon (RTX)]] · [[Founders Fund]] · [[Crypto Industry Bloc]] · [[Donald Trump Master Profile]] · [[Brownstein Hyatt Farber Schreck]]"
+related: "[[Palantir Technologies]] · [[SpaceX]] · [[Apple]] · [[Raytheon (RTX)]] · [[Founders Fund]] · [[Crypto Industry Bloc]] · [[Donald Trump Master Profile]] · [[Brownstein Hyatt Farber Schreck]] · [[Holland & Knight]]"
 sec-filings: 737
 sec-form-types:
   - "10-K"

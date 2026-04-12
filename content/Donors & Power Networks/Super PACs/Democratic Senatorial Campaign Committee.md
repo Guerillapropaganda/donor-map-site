@@ -15,7 +15,7 @@ regulatory-agencies:
   - "Federal Election Commission"
   - "Postal Regulatory Commission"
   - "Securities and Exchange Commission"
-related: "[[Priorities USA Action]] · [[New Hampshire 2026 Senate Race]] · [[Iowa 2026 Senate Race]] · [[Janet Mills Master Profile]] · [[Opioid Litigation and Pharmaceutical Industry Accountability]] · [[Emilys List]] · [[Senate Majority PAC]] · [[House Majority PAC]] · [[ActBlue]] · [[EMILY's List]] · [[Senate Leadership Fund]] · [[Winning for Women PAC]] · [[One Nation]] · [[National Republican Senatorial Committee]] · [[MAGA Inc]] · [[WinRed]] · [[Trump Victory]]"
+related: "[[Priorities USA Action]] · [[New Hampshire 2026 Senate Race]] · [[Iowa 2026 Senate Race]] · [[Janet Mills Master Profile]] · [[Opioid Litigation and Pharmaceutical Industry Accountability]] · [[Emilys List]] · [[Senate Majority PAC]] · [[House Majority PAC]] · [[ActBlue]] · [[EMILY's List]] · [[Senate Leadership Fund]] · [[Winning for Women PAC]] · [[One Nation]] · [[National Republican Senatorial Committee]] · [[MAGA Inc]] · [[WinRed]] · [[Trump Victory]] · [[Fairshake PAC]]"
 sec-filings: 145
 sec-form-types:
   - "10-K"
