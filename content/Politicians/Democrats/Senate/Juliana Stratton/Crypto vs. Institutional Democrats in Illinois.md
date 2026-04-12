@@ -5,7 +5,7 @@ content-readiness: ready
 last-updated: 2026-04-12
 source-tier: 1
 parent: [[_Juliana Stratton Master Profile]]
-related: "[[Juliana Stratton]] · [[_Raja Krishnamoorthi Master Profile|Raja Krishnamoorthi]] · [[Illinois Future PAC]] · [[Fairshake PAC]] · [[Think Big AI PAC]] · [[OpenAI]] · [[Cryptocurrency Industry]]"
+related: "[[Juliana Stratton]] · [[_Raja Krishnamoorthi Master Profile|Raja Krishnamoorthi]] · [[Illinois Future PAC]] · [[Fairshake PAC]] · [[Think Big AI PAC]] · [[OpenAI]] · [[Cryptocurrency Industry]] · [[Coinbase]]"
 ---
 #crypto-politics #fairshake #blockchain-pacs #institutional-democrats #2026-elections
 

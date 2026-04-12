@@ -46,7 +46,7 @@ known-gaps:
   - "No mapped relationships"
 lobbying-spend: 9397596
 lobbying-filings: 95
-related: "[[Democracy Alliance]] · [[Center for American Progress]] · [[Media Matters|David Brock]] · [[Sixteen Thirty Fund]] · [[New Venture Fund]] · [[Open Society Foundations]] · [[Ocean Conservancy]] · [[Trial Lawyers Fund]] · [[National Progressive Donor Networks]] · [[Legal Sector Donors]]"
+related: "[[Democracy Alliance]] · [[Center for American Progress]] · [[Media Matters|David Brock]] · [[Sixteen Thirty Fund]] · [[New Venture Fund]] · [[Open Society Foundations]] · [[Ocean Conservancy]] · [[Trial Lawyers Fund]] · [[National Progressive Donor Networks]] · [[Legal Sector Donors]] · [[Finance and Tech Bundler Network]]"
 total-political-spend: "$3,998,524"
 politicians-funded:
   - "Bill Clinton"

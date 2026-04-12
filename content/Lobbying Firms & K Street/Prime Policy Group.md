@@ -2,7 +2,7 @@
 title: "Prime Policy Group"
 type: lobbying-firm
 content-readiness: draft
-last-updated: 2026-04-09
+last-updated: 2026-04-12
 source-tier: 1
 parent: null
 annual-revenue: "$4.1M"
@@ -13,7 +13,7 @@ sec-form-types:
   - "20-F"
   - "EX-2"
   - "EX-8.1"
-related: "[[Koch Network - Charles Koch]] · [[Fossil Fuel Bloc]] · [[Cassidy & Associates]] · [[Brownstein Hyatt Farber Schreck]] · [[Peck Madigan Jones (now Tiber Creek Group)]] · [[Crossroads Strategies]] · [[Ballard Partners]] · [[K&L Gates]] · [[Subject Matter (now Avoq)]] · [[Thorn Run Partners]] · [[Mehlman Consulting]] · [[Forbes Tate Partners]] · [[Fierce Government Relations]] · [[Cornerstone Government Affairs]] · [[Capitol Counsel]] · [[BGR Group]] · [[Alpine Group]] · [[Akin Gump Strauss Hauer & Feld]]"
+related: "[[Koch Network - Charles Koch]] · [[Fossil Fuel Bloc]] · [[Cassidy & Associates]] · [[Brownstein Hyatt Farber Schreck]] · [[Peck Madigan Jones (now Tiber Creek Group)]] · [[Crossroads Strategies]] · [[Ballard Partners]] · [[K&L Gates]] · [[Subject Matter (now Avoq)]] · [[Thorn Run Partners]] · [[Mehlman Consulting]] · [[Forbes Tate Partners]] · [[Fierce Government Relations]] · [[Cornerstone Government Affairs]] · [[Capitol Counsel]] · [[BGR Group]] · [[Alpine Group]] · [[Akin Gump Strauss Hauer & Feld]] · [[Holland & Knight]]"
 ein: "841989534"
 nonprofit-status: "501(c)(4)"
 last-enriched: "2026-04-07"

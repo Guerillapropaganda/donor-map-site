@@ -18,7 +18,7 @@ federal-register-mentions: 489
 regulatory-agencies:
   - "Federal Highway Administration"
   - "Transportation Department"
-related: "[[Adelson Family]] · [[_Donald Trump Master Profile|Donald Trump]] · [[Miriam Adelson]] · [[MAGA Inc]] · [[Trump 2024 Campaign]] · [[WinRed]] · [[Fairshake PAC]] · [[Trump Victory]] · [[Save America PAC]] · [[Senate Majority PAC]]"
+related: "[[Adelson Family]] · [[_Donald Trump Master Profile|Donald Trump]] · [[Miriam Adelson]] · [[MAGA Inc]] · [[Trump 2024 Campaign]] · [[WinRed]] · [[Fairshake PAC]] · [[Trump Victory]] · [[Save America PAC]] · [[Senate Majority PAC]] · [[Winning for Women PAC]]"
 cross-vault-triangulation-count: 6
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
   • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.

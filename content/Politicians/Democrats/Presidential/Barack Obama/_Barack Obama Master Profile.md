@@ -70,7 +70,7 @@ proclamations: 1230
 last-enriched: '2026-04-08'
 needs-reenrichment: true
 reenrich-reason: run voting pipeline; run congress pipeline
-related: ">- · [[UnitedHealth Group - Optum]]"
+related: ">- · [[UnitedHealth Group - Optum]] · [[Insurance Industry Bloc]]"
 ---
 #obama #master-profile #president #illinois #senate #class-analysis #follow-the-money #wall-street #silicon-valley #healthcare-donor-capture #two-audience-problem
 

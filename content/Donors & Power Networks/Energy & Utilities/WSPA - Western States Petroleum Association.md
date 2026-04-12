@@ -20,7 +20,7 @@ needs-reenrichment: true
 reenrich-reason: "run lda pipeline"
 total-revenue: 56147294
 total-assets: 16493191
-related: "[[Valero Energy]] · [[Environment - Donors and Backers]] · [[Economic Policy - Donors and Backers]] · [[PG&E - Pacific Gas and Electric]] · [[ExxonMobil]] · [[Occidental Petroleum]] · [[ConocoPhillips]] · [[HBW Resources]] · [[Koch Industries]] · [[Fossil Fuel Bloc]] · [[Chevron]] · [[Marathon Petroleum]] · [[_Gavin Newsom Master Profile|Gavin Newsom]] · [[NextEra Energy]] · [[Southern Company]] · [[Halliburton]] · [[Duke Energy]] · [[Devon Energy]] · [[Palantir Technologies Political Operation]] · [[Raytheon Technologies]]"
+related: "[[Valero Energy]] · [[Environment - Donors and Backers]] · [[Economic Policy - Donors and Backers]] · [[PG&E - Pacific Gas and Electric]] · [[ExxonMobil]] · [[Occidental Petroleum]] · [[ConocoPhillips]] · [[HBW Resources]] · [[Koch Industries]] · [[Fossil Fuel Bloc]] · [[Chevron]] · [[Marathon Petroleum]] · [[_Gavin Newsom Master Profile|Gavin Newsom]] · [[NextEra Energy]] · [[Southern Company]] · [[Halliburton]] · [[Duke Energy]] · [[Devon Energy]] · [[Palantir Technologies Political Operation]] · [[Raytheon Technologies]] · [[Instacart]]"
 cross-vault-triangulation-count: 16
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
   • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.

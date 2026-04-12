@@ -279,3 +279,30 @@ _No committee data found._
 
 ### DOJ Press Releases
 <!-- auto:doj-press removed 2026-04-10 by Research Claude: was showing >10K DOJ mentions from the API index-size false-positive bug. Main engine fix d1ceb91 (2026-04-10) caps at 10K + validates 60% name match. Will repopulate correctly on next pipeline run. -->
+
+### Legislative Activity (Congress.gov)
+<!-- auto:congress-legislation start -->
+| Metric | Value |
+|--------|-------|
+| Scope | Career Total |
+| Party | Democrat |
+| State | CA |
+| Chamber | Senate |
+| Bills Sponsored | 2211 |
+| Bills Cosponsored | 6727 |
+
+**Recent sponsored legislation:**
+
+| Bill | Title | Status |
+|------|-------|--------|
+| — |  | — |
+| — |  | Motion to table amendment SA 4720 agreed to in Senate by Voice Vote. |
+| — |  | — |
+| — |  | — |
+| — |  | — |
+| — |  | — |
+| — |  | — |
+| — |  | — |
+
+- [Source: Congress.gov](https://www.congress.gov/member/F000062) (Tier 1)
+<!-- auto:congress-legislation end -->

@@ -2,7 +2,7 @@
 title: "Cornerstone Government Affairs"
 type: lobbying-firm
 content-readiness: draft
-last-updated: 2026-04-09
+last-updated: 2026-04-12
 source-tier: 1
 parent: null
 annual-revenue: "$55.7M"
@@ -30,7 +30,7 @@ fara-countries:
   - "TAIWAN"
   - "UNITED ARAB EMIRATES"
   - "YEMEN"
-related: "[[Google - Alphabet]] · [[Palantir Technologies]] · [[Boeing]] · [[General Dynamics]] · [[Raytheon (RTX)|RTX Corp]] · [[AbbVie]] · [[Johnson & Johnson]] · [[Apollo Global Management]] · [[PhRMA]] · [[Subject Matter (now Avoq)]] · [[Mehlman Consulting]] · [[Forbes Tate Partners]] · [[Thorn Run Partners]] · [[Fierce Government Relations]] · [[Capitol Counsel]] · [[Brownstein Hyatt Farber Schreck]] · [[Peck Madigan Jones (now Tiber Creek Group)]] · [[Prime Policy Group]] · [[K&L Gates]] · [[Crossroads Strategies]] · [[Cassidy & Associates]] · [[Ballard Partners]] · [[BGR Group]] · [[Alpine Group]] · [[Akin Gump Strauss Hauer & Feld]]"
+related: "[[Google - Alphabet]] · [[Palantir Technologies]] · [[Boeing]] · [[General Dynamics]] · [[Raytheon (RTX)|RTX Corp]] · [[AbbVie]] · [[Johnson & Johnson]] · [[Apollo Global Management]] · [[PhRMA]] · [[Subject Matter (now Avoq)]] · [[Mehlman Consulting]] · [[Forbes Tate Partners]] · [[Thorn Run Partners]] · [[Fierce Government Relations]] · [[Capitol Counsel]] · [[Brownstein Hyatt Farber Schreck]] · [[Peck Madigan Jones (now Tiber Creek Group)]] · [[Prime Policy Group]] · [[K&L Gates]] · [[Crossroads Strategies]] · [[Cassidy & Associates]] · [[Ballard Partners]] · [[BGR Group]] · [[Alpine Group]] · [[Akin Gump Strauss Hauer & Feld]] · [[Squire Patton Boggs]]"
 court-cases: 19
 last-enriched: "2026-04-09"
 needs-reenrichment: true
