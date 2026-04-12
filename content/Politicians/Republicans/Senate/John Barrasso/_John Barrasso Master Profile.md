@@ -14,6 +14,7 @@ issues:
   - "Energy & Climate"
 total-received: "$1,139,745"
 fec-candidate-id: "S6WY00068"
+bioguide-id: "B001261"
 govtrack-id: 412251
 bills-sponsored: 49
 bills-cosponsored: 196

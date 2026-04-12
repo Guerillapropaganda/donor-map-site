@@ -8,6 +8,7 @@ source-tier: 1
 parent: null
 party: "Democrat"
 chamber: "Senate"
+bioguide-id: "R000146"
 govtrack-id: 300082
 bills-sponsored: 0
 bills-cosponsored: 0

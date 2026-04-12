@@ -1,6 +1,7 @@
 ---
 title: "Michael Bennet"
 type: politician
+bioguide-id: "B001267"
 chamber: "Senate"
 party: "Democrat"
 content-readiness: draft

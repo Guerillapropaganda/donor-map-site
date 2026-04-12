@@ -38,6 +38,7 @@ corroboration-count: 3
 known-gaps:
   - "No mapped relationships"
 last-enriched: "2026-04-09"
+bioguide-id: "H001061"
 govtrack-id: 412494
 bills-sponsored: 19
 bills-cosponsored: 190

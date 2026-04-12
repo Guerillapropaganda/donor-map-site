@@ -17,6 +17,7 @@ top-donors:
   - "JPMorgan Chase"
   - "Northwestern Mutual"
   - "Fox News"
+bioguide-id: "R000570"
 govtrack-id: 400351
 bills-sponsored: 0
 bills-cosponsored: 0

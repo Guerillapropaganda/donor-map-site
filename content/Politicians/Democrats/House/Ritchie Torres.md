@@ -1,6 +1,7 @@
 ---
 title: "Ritchie Torres"
 type: politician
+bioguide-id: "T000486"
 chamber: "House"
 party: "Democrat"
 content-readiness: draft

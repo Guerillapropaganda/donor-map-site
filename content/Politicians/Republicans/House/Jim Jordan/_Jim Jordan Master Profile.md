@@ -19,6 +19,7 @@ known-gaps:
   - "No legislative record from Congress.gov"
   - "No voting record data"
   - "No mapped relationships"
+bioguide-id: "J000289"
 govtrack-id: 412226
 bills-sponsored: 1
 bills-cosponsored: 16

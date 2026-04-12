@@ -1,6 +1,7 @@
 ---
 title: "John Cornyn"
 type: politician
+bioguide-id: "C001056"
 content-readiness: draft
 central-thesis: "John Cornyn is the Texas corporate establishment's Senate operator — a reliable legislative mechanic for oil and gas deregulation, defense spending, financial services preferences, and judicial confirmations who functions as the institutional coun..."
 last-updated: 2026-04-12

@@ -36,6 +36,7 @@ stock-trade-tickers:
 total-received: "$385,884"
 fec-candidate-id: "S6IL00292"
 donors: "[[Democracy Alliance]]"
+bioguide-id: "D000622"
 govtrack-id: 412533
 bills-sponsored: 47
 bills-cosponsored: 423

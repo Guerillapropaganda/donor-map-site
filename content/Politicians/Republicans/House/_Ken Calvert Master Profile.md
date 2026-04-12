@@ -14,6 +14,7 @@ issues:
   - "Defense & Military"
 top-donors:
   - "Raytheon PAC"
+bioguide-id: "C000059"
 govtrack-id: 400057
 bills-sponsored: 20
 bills-cosponsored: 162

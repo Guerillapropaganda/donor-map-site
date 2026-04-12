@@ -18,6 +18,7 @@ top-donors:
   - "Koch Network - Charles Koch"
   - "Agribusiness Donor Bloc"
   - "Ethanol Industry"
+bioguide-id: "E000295"
 govtrack-id: 412667
 bills-sponsored: 84
 bills-cosponsored: 174

@@ -16,6 +16,7 @@ top-donors:
   - "Koch Network - Charles Koch"
 donors: "[[Harlan Crow]]"
 related: "[[Private Equity Buys Regulatory Immunity Across the Aisle]] · [[Koch Network - Charles Koch]] · [[_Donald Trump Master Profile|Trump]] · [[_Jason Smith Master Profile|Jason Smith]] · [[Ron Wyden]]"
+bioguide-id: "C000880"
 govtrack-id: 300030
 bills-sponsored: 27
 bills-cosponsored: 254

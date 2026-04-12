@@ -1,6 +1,7 @@
 ---
 title: "Tim Walberg"
 type: politician
+bioguide-id: "W000798"
 content-readiness: draft
 central-thesis: "Tim Walberg is the anti-labor pastor who chairs the labor committee — funded by billionaires who want to dismantle public education and weaken unions. His top donors include the DeVos family ($76,700+ since 2007), Marc Rowan (Apollo Global Managem..."
 last-updated: 2026-04-09

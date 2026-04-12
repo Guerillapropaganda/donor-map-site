@@ -17,6 +17,7 @@ leadership-roles:
   - "Ranking Member"
 total-received: "$497,950"
 fec-candidate-id: "H4MS02068"
+bioguide-id: "T000193"
 govtrack-id: 400402
 bills-sponsored: 14
 bills-cosponsored: 355

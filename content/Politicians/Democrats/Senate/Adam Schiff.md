@@ -1,6 +1,7 @@
 ---
 title: "Adam Schiff"
 type: politician
+bioguide-id: "S001150"
 chamber: "Senate"
 party: "Democrat"
 content-readiness: draft

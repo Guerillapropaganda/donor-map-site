@@ -21,6 +21,7 @@ top-donors:
   - "Fanjul Family - Florida Crystals"
 total-received: "$301,979"
 fec-candidate-id: "H0FL26036"
+bioguide-id: "G000593"
 govtrack-id: 456809
 bills-sponsored: 8
 bills-cosponsored: 113

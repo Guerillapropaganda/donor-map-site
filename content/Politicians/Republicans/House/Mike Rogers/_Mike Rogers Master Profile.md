@@ -23,6 +23,7 @@ related: "[[The Armed Services Committee and Progressive Defense Paradox]] · [[
 last-enriched: "2026-04-10"
 needs-reenrichment: true
 reenrich-reason: "run fec pipeline; run congress pipeline"
+bioguide-id: "R000575"
 govtrack-id: 400341
 bills-sponsored: 82
 bills-cosponsored: 1979

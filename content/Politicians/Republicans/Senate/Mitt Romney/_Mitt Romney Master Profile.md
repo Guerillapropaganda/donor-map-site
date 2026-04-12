@@ -10,6 +10,7 @@ party: "Republican"
 chamber: "Senate"
 total-received: "$483,642,897"
 fec-candidate-id: "S8UT00176"
+bioguide-id: "R000615"
 govtrack-id: 412841
 bills-sponsored: 0
 bills-cosponsored: 0

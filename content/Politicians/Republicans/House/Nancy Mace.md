@@ -10,6 +10,7 @@ source-tier: 1
 parent: null
 total-received: "$452,863"
 fec-candidate-id: "H0SC01394"
+bioguide-id: "M000194"
 govtrack-id: 456843
 bills-sponsored: 79
 bills-cosponsored: 170

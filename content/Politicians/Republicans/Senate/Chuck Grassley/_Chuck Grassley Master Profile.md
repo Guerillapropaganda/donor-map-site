@@ -16,6 +16,7 @@ committees:
 issues:
   - "Agriculture"
   - "Healthcare"
+bioguide-id: "G000386"
 govtrack-id: 300048
 bills-sponsored: 73
 bills-cosponsored: 202

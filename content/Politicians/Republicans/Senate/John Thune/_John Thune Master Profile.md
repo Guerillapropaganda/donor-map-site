@@ -1,6 +1,7 @@
 ---
 title: "John Thune Master Profile"
 type: politician
+bioguide-id: "T000250"
 content-readiness: draft
 central-thesis: "John Thune's 20-year Senate career demonstrates the corporate capture model at its most institutionally successful. An agricultural-state senator from South Dakota — population 900,000, median household income $65K — is funded primarily by NextEra..."
 last-updated: 2026-04-07

@@ -1,6 +1,7 @@
 ---
 title: "Lindsey Graham Master Profile"
 type: politician
+bioguide-id: "G000359"
 content-readiness: draft
 central-thesis: "Lindsey Graham is the Senate's purest demonstration that political identity follows money. He was John McCain's ideological twin — interventionist, bipartisan, immigration-moderate — because McCain's donor network rewarded that positioning. When M..."
 last-updated: 2026-03-27

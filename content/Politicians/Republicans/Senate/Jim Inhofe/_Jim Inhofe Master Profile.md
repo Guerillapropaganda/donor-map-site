@@ -1,6 +1,7 @@
 ---
 title: "Jim Inhofe"
 type: politician
+bioguide-id: "I000024"
 content-readiness: draft
 central-thesis: "Inhofe served two donor classes simultaneously: the fossil fuel industry and the defense industry. As chair of both the Environment and Armed Services committees at different points, he was perfectly positioned to deliver for both. For oil and gas..."
 last-updated: 2026-03-25

@@ -20,6 +20,7 @@ related: "[[Real Estate Lobby Funds the Housing Crisis From Both Sides]] · [[Ko
 last-enriched: "2026-04-10"
 needs-reenrichment: true
 reenrich-reason: "run congress pipeline"
+bioguide-id: "S001176"
 govtrack-id: 412261
 bills-sponsored: 3
 bills-cosponsored: 5

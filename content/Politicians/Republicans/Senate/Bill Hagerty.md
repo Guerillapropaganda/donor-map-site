@@ -8,6 +8,7 @@ central-thesis: "Hagerty exemplifies the private equity-to-political-appointment
 last-updated: 2026-04-08
 source-tier: 1
 parent: null
+bioguide-id: "H000601"
 govtrack-id: 456798
 bills-sponsored: 22
 bills-cosponsored: 158
