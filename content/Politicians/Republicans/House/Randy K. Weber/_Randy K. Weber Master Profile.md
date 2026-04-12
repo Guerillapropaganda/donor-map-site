@@ -1,0 +1,29 @@
+---
+title: "Randy K. Weber Master Profile"
+type: politician
+content-readiness: raw
+last-updated: 2026-04-12
+source-tier: 1
+party: "Republican"
+chamber: "House"
+state: "Texas"
+state-abbr: "TX"
+district: "14"
+bioguide-id: "W000814"
+govtrack-id: 412574
+born: "1953-07-02"
+wikidata-id: "Q4014569"
+website: "https://weber.house.gov"
+phone: "202-225-2831"
+source-types:
+  - Congress
+known-gaps:
+  - "No FEC contribution data"
+  - "No legislative record"
+  - "No voting record"
+  - "No mapped relationships"
+---
+
+# Randy K. Weber
+
+Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.

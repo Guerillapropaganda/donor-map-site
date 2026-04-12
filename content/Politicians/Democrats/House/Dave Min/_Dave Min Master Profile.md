@@ -1,0 +1,29 @@
+---
+title: "Dave Min Master Profile"
+type: politician
+content-readiness: raw
+last-updated: 2026-04-12
+source-tier: 1
+party: "Democrat"
+chamber: "House"
+state: "California"
+state-abbr: "CA"
+district: "47"
+bioguide-id: "M001241"
+govtrack-id: 456981
+born: "1976-03-05"
+wikidata-id: "Q31213321"
+website: "https://min.house.gov"
+phone: "202-225-5611"
+source-types:
+  - Congress
+known-gaps:
+  - "No FEC contribution data"
+  - "No legislative record"
+  - "No voting record"
+  - "No mapped relationships"
+---
+
+# Dave Min
+
+Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
