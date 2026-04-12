@@ -1,6 +1,7 @@
 ---
 title: "Chris Christie"
 type: politician
+party: "Independent"
 content-readiness: draft
 last-updated: 2026-04-07
 source-tier: 1
@@ -24,17 +25,17 @@ donors: Wall Street / Finance Sector · New Jersey Corporate Establishment · An
 
 ---
 
-### Who He Is
+## Who He Is
 
 Chris Christie. Born September 6, 1962. Former Governor of New Jersey (2010–2018). 2024 Republican presidential candidate (anti-Trump lane, withdrew January 2024). U.S. Attorney (2002–2008). Net worth ~$15-20M. Political significance lies entirely in one relationship: his prosecution of Charles Kushner (Jared's father) as federal prosecutor, which created a generational vendetta that shaped Trump administration personnel and White House dynamics.
 
-### Central Thesis — The Prosecutor Who Created His Own Enemy
+## Central Thesis — The Prosecutor Who Created His Own Enemy
 
 Christie's political career is a demonstration of how prosecuting a billionaire creates permanent class consequences. In 2005, as U.S. Attorney for New Jersey, Christie secured guilty pleas from Charles Kushner for tax evasion, campaign finance violations ($600K+ illegal contributions), and witness tampering (orchestrating a prostitute to seduce and record his brother-in-law to intimidate him into silence).
 
 Charles Kushner served 14 months in federal prison. Then Trump pardoned him in December 2020. Then Trump selected Kushner's son as a White House advisor with broad portfolio authority (Middle East peace, China policy, real estate deals). The vendetta trajectory: Kushner's prosecutor became the object of family enmity; Kushner family's deep pockets used that enmity to remove Christie from Trump's transition team (2016) and later fund his political opposition (2024).
 
-### Core Contradiction — Anti-Trump Funded by the Class He Prosecuted
+## Core Contradiction — Anti-Trump Funded by the Class He Prosecuted
 
 Christie's 2024 presidential campaign was premised on anti-Trump positioning — he framed himself as the Republican who could take Trump down in the primary. His donor base was "Never-Trump" Wall Street, corporate establishment Republicans who wanted an alternative to MAGA.
 
@@ -42,7 +43,7 @@ But the Kushner family's wealth ($5B+) and Trump's alliance with the Kushner fam
 
 The contradiction: Christie built his political brand on prosecuting corruption and holding the powerful accountable. But his prosecution of Charles Kushner decades earlier became the basis for the Kushner family using their wealth to sideline him from power. He was politically destroyed by the only family in New Jersey with wealth comparable to his own ambitions.
 
-### Donor Class Map
+## Donor Class Map
 
 > [!money]
 > **The Prosecution That Created Class Consequences:** Christie sentenced Charles Kushner to 14 months in federal prison for tax evasion and campaign finance violations. The punishment should have ended the matter. Instead, Kushner's restoration through Trump's 2020 pardon, combined with [[_Jared Kushner Master Profile|Jared Kushner]]'s White House access, created a vendetta that systematically removed Christie from power. The lesson: prosecuting the wealthy creates permanent class enemies. Christie won in court; the Kushner family won in politics.
@@ -59,8 +60,7 @@ The contradiction: Christie built his political brand on prosecuting corruption 
 | 2023-06 | Christie launches 2024 presidential campaign | N/A | Anti-Trump positioning; Wall Street donors (Scaramucci, Kravis, Crow) rally | Donor anti-Trump coalition forms |
 | 2023-06-30 | Tell It Like It Is PAC (Christie super PAC) raised $5.9M | $5.9M Super PAC | Wall Street hedge funds, corporate donors, anti-Trump Republicans contribute | Donor concentration |
 | 2024-01 | Christie withdraws from 2024 race (Iowa/New Hampshire losses, insufficient delegate path) | N/A | Anti-Trump lane collapses; Trump wins primary easily | Donor coalition fails |
-
-[!contradiction] **The Vendetta Destruction**: Christie prosecuted Charles Kushner for corruption and sent him to federal prison. Twenty years later, Kushner's family wealth (and Jared Kushner's White House access) transformed the prosecutor into an outsider. The man who held the powerful accountable became the outsider held accountable by a more powerful family. His 2024 presidential campaign was an attempt to regain power against the Kushner alliance, but with insufficient fundraising to compete against Trump/Musk resources.
+> [!contradiction] **The Vendetta Destruction**: Christie prosecuted Charles Kushner for corruption and sent him to federal prison. Twenty years later, Kushner's family wealth (and Jared Kushner's White House access) transformed the prosecutor into an outsider. The man who held the powerful accountable became the outsider held accountable by a more powerful family. His 2024 presidential campaign was an attempt to regain power against the Kushner alliance, but with insufficient fundraising to compete against Trump/Musk resources.
 
 ### New Jersey Establishment Politics — Corporate Subsidies and Regulatory Capture
 
@@ -76,7 +76,7 @@ But this donor coalition had been politically neutered by Trumpism. Scaramucci h
 
 The lesson: donors alone cannot manufacture political viability when the party has moved fundamentally away from the donor class's political interests. The Republican Party had transformed into a Trump-Musk vehicle; Wall Street Republicans were now spectators, not power brokers.
 
-### Analytical Patterns
+## Analytical Patterns
 
 **The Genuine Win + Structural Limit:** Christie's prosecution of Charles Kushner was a genuine, material victory against white-collar crime — he secured guilty pleas and imprisonment. However, the structural limit appeared immediately: prosecution of a billionaire's son created permanent class enmity that transcended the legal system. Trump's pardon neutralized the prosecution's effects. Kishner then used wealth to remove Christie from power entirely. In class terms, Christie won the legal battle but lost the material power struggle — the prosecutor couldn't compete with the defendant's family wealth and access.
 
@@ -84,7 +84,7 @@ The lesson: donors alone cannot manufacture political viability when the party h
 
 **The Anti-Trump Funding Cannot Create Political Viability:** Christie's 2024 campaign demonstrated that donor funding alone cannot manufacture political support when the party has fundamentally reorganized around a rival capital coalition. Wall Street Republicans were wealthy but politically marginal; Trump Republicans were consolidated and mobilized. Donors cannot purchase voters when the party's base has reorganized against the donor coalition's interests.
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 **1. "Tough on Corruption"**: Repeatedly invoked his prosecution record to claim independence from Trump. "I sent a major developer to prison" was supposed to establish him as someone who holds power accountable, distinct from Trump-aligned sycophancy.
 

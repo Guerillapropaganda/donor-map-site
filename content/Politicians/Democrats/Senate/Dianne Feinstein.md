@@ -2,93 +2,122 @@
 title: "Dianne Feinstein"
 type: politician
 content-readiness: draft
-last-updated: 2026-04-09
+last-updated: 2026-04-12
 source-tier: 1
-parent: null
+party: "Democrat"
+chamber: "Senate"
+state: "California"
+state-abbr: "CA"
+bioguide-id: "F000062"
+govtrack-id: 300043
+born: "1929-06-22"
 stock-trades: 29
 total-received: "$679,803"
 fec-candidate-id: "S0CA00199"
-govtrack-id: 300043
-bills-sponsored: 0
-bills-cosponsored: 0
 source-types:
   - Congress
   - FEC
   - GovTrack
 corroboration-count: 3
+central-thesis: "Wealth-through-marriage converting into policy power that compounds the wealth. Feinstein chaired committees overseeing the defense contractors her husband owned."
+top-donors:
+  - "Richard Blum Capital Partners"
+  - "Defense Contractors (URS, Perini, Tutor Perini)"
+  - "AIPAC"
+  - "San Francisco Real Estate Industry"
 known-gaps:
-  - "No mapped relationships"
+  - "Committee assignments data missing"
+  - "Bills sponsored count needs re-enrichment"
 last-enriched: "2026-04-09"
 related: "[[_Nancy Pelosi Master Profile]] · [[AIPAC - American Israel Public Affairs Committee]]"
+needs-reenrichment: true
+reenrich-reason: "run committee pipeline; re-run congress pipeline for bills count"
 ---
 #feinstein #democrat #senate #california #intelligence #defense-contractors #richard-blum #surveillance-champion #class-analysis
-tags: #democrat
-
-donors: Richard Blum Capital Partners · Defense Contractors (URS, Perini, Tutor Perini) · [[AIPAC - American Israel Public Affairs Committee]] · San Francisco Real Estate Industry
 
 ---
 
-### Who She Was
+## Who She Was
 
-Dianne Feinstein. Born June 22, 1929 — died September 29, 2023 (age 94). Former U.S. Senator from California (1992–2023, 31 years, longest-serving female U.S. senator). Former Mayor of San Francisco (1978–1988). Chair of Senate Intelligence Committee (2009–2015). Married billionaire financier Richard Blum (1980–2022). Net worth ~$110M at death ($58M minimum, $160M maximum range).
+Dianne Feinstein. Born June 22, 1929, died September 29, 2023 (age 94). Former U.S. Senator from California (1992-2023, 31 years, longest-serving female U.S. senator). Former Mayor of San Francisco (1978-1988). Chair of Senate Intelligence Committee (2009-2015). Married billionaire financier Richard Blum (1980-2022). Net worth approximately $110M at death ($58M minimum, $160M maximum range).
 
-Feinstein's political significance lies not in legislative accomplishment but in the mechanism of wealth-to-power conversion: her marriage to Richard Blum transformed her into a senator whose personal financial interests overlapped directly with her committee jurisdictions. The class analysis: Feinstein was one of the most transparently captured politicians in modern Senate history — her personal wealth and her husband's investment portfolio shaped her policy positions on defense spending, national security, and surveillance.
+Feinstein's political significance lies not in legislative accomplishment but in the mechanism of wealth-to-power conversion: her marriage to Richard Blum transformed her into a senator whose personal financial interests overlapped directly with her committee jurisdictions. Feinstein was one of the most transparently captured politicians in modern Senate history, her personal wealth and her husband's investment portfolio shaped her policy positions on defense spending, national security, and surveillance.
 
-### Central Thesis — The Married-Into-Billions Senator
+---
+
+## The Central Thesis
 
 Feinstein was independently wealthy before marrying Blum (real estate, investments, San Francisco family money), but the marriage to Blum transformed her from a wealthy politician into a senator whose personal portfolio directly benefited from her committee positions.
 
-Blum Capital Partners managed $1.5–$4.5B+ in assets. Until 2005, Blum held controlling interests in URS Corporation and Perini Corporation — both defense contractors dependent on federal contracts. Blum also held significant real estate interests, including a 75% stake in Tutor Perini (military construction contractor in Iraq/Afghanistan), and investments in CB Richard Ellis (CBRE), which won lucrative federal contracts to sell FDIC-foreclosed properties.
+Blum Capital Partners managed $1.5-$4.5B+ in assets. Until 2005, Blum held controlling interests in URS Corporation and Perini Corporation, both defense contractors dependent on federal contracts. Blum also held significant real estate interests, including a 75% stake in Tutor Perini (military construction contractor in Iraq/Afghanistan), and investments in CB Richard Ellis (CBRE), which won lucrative federal contracts to sell FDIC-foreclosed properties.
 
-As Chair of the Senate Intelligence Committee (2009–2015) and later as a member of the Military Construction Appropriations subcommittee (2001–2007), Feinstein supervised funding for the very defense contractors her husband profited from.
+As Chair of the Senate Intelligence Committee (2009-2015) and later as a member of the Military Construction Appropriations subcommittee (2001-2007), Feinstein supervised funding for the very defense contractors her husband profited from.
 
-[!money] **The Institutional Conflict**: Feinstein supervised $1.5B+ in federal appropriations for URS Corporation and Perini Corporation while her husband's investment vehicle (Blum Capital) held controlling stakes in both companies. This isn't technically illegal (senators are allowed to have investment portfolios), but it creates an obvious conflict of interest where Blum family wealth increased directly through Feinstein's committee votes.
+> [!money] **The Institutional Conflict**
+> Feinstein supervised $1.5B+ in federal appropriations for URS Corporation and Perini Corporation while her husband's investment vehicle (Blum Capital) held controlling stakes in both companies. This is not technically illegal (senators are allowed to have investment portfolios), but it creates an obvious conflict of interest where Blum family wealth increased directly through Feinstein's committee votes.
 
-### Core Contradiction — Surveillance Hawk with CIA Conflicts of Interest
+---
 
-Feinstein positioned herself as a national security expert and surveillance advocate. She championed NSA surveillance programs, FISA reauthorization, and CIA operations. She investigated CIA detention/interrogation programs (torture) but ultimately protected the agency from major accountability.
+## The Core Contradiction
 
-But her advocacy for expanded surveillance powers directly benefited Blum's defense contractor investments. Expanded CIA authority → expanded federal surveillance budgets → expanded Defense Department contracts → increased profits for URS, Perini, and related contractors.
+> [!contradiction]
+> Feinstein positioned herself as a national security expert and surveillance advocate. She championed NSA surveillance programs, FISA reauthorization, and CIA operations. She investigated CIA detention/interrogation programs (torture) but ultimately protected the agency from major accountability.
+>
+> But her advocacy for expanded surveillance powers directly benefited Blum's defense contractor investments. Expanded CIA authority meant expanded federal surveillance budgets, which meant expanded Defense Department contracts, which meant increased profits for URS, Perini, and related contractors.
+>
+> The contradiction is structural: Feinstein's identity as a "tough on security" Democratic leader overlapped perfectly with her personal financial interests in defense contracting. Whether she would have advocated for the same policies without that financial stake is unknowable, but the alignment is too perfect to be coincidental.
 
-The contradiction is structural: Feinstein's identity as a "tough on security" Democratic leader overlapped perfectly with her personal financial interests in defense contracting. Whether she would have advocated for the same policies without that financial stake is unknowable, but the alignment is too perfect to be coincidental.
+---
 
-### Donor Class Map — Defense Contractor and Real Estate Wealth Accumulation
+## Donor Class Map
+
+### Defense Contractor and Real Estate Wealth Accumulation
+
+> [!money]
+> **The Surveillance-Wealth Asymmetry**: Feinstein's legacy as a surveillance hawk (NSA advocate, Intelligence Committee chair, FISA defender) perfectly aligned with her family's financial interests in defense contracting. The question is unanswerable: would she have advocated for the same policies without the Blum Capital wealth stake? The convenient alignment suggests financial incentive shaped positions. Net worth trajectory: $3M (pre-Blum marriage) to $110M (death). The receipt is in the portfolio.
+
+---
+
+## Donation-to-Policy Timeline
 
 | Date | Event/Contribution | Amount | Policy Action/Outcome | Time Gap |
 |------|-------------------|--------|----------------------|----------|
 | 1980 | Marriage to Richard Blum (billionaire financier, Blum Capital Partners founder) | $1B+ wealth transfer via marriage | Feinstein transforms from wealthy politician to senator married to one of California's richest men | Wealth consolidation |
 | 2000-2007 | Blum Capital holds controlling interest in URS Corp. and Perini Corp. (defense contractors) | ~$500M+ in holdings | Both companies benefit from federal defense contracts | Wealth accumulation begins |
 | 2001-2007 | Feinstein as Chair of Military Construction Appropriations subcommittee | N/A | Feinstein supervises $1.5B+ in appropriations to URS ($1.8B in contracts 2000-2006) and Perini ($200M in contracts same period) | Committee authority monetized |
-| 2005 | Blum divests from URS and Perini (likely due to conflict-of-interest pressure, though officially stated as portfolio rebalancing) | Timing: Feinstein begins Intelligence Committee investigation of CIA | Divestment timing suspicious — occurs as Feinstein moves to Intelligence Committee and publicly questions defense spending | Strategic divestment |
+| 2005 | Blum divests from URS and Perini (officially "portfolio rebalancing") | Timing: Feinstein begins Intelligence Committee investigation of CIA | Divestment timing suspicious, occurs as Feinstein moves to Intelligence Committee and publicly questions defense spending | Strategic divestment |
 | 2006-2015 | Feinstein as Chair of Senate Intelligence Committee | N/A | Leads oversight of intelligence community; advocates for NSA surveillance expansion (PRISM reauthorization); protects CIA from major accountability on torture | Intelligence authority |
 | 2009-2015 | FISA surveillance reauthorization and expansion debates | N/A | Feinstein advocates for expanded NSA authority; aligned with intelligence community; votes for FISA amendments | Surveillance hawk positioning |
-| 2015-2023 | Continued real estate wealth accumulation (Carlton Hotel Properties stake: $37.5M; Pacific Heights mansion: $16.5M purchase, $19M+ sale); Tutor Perini (75% stake) continues federal contracts | ~$50M+ real estate holdings | Blum/Feinstein real estate portfolio appreciates through federal investment in infrastructure | Wealth concentration |
-| 2018 | Feinstein net worth reaches ~$88M (primarily real estate assets and Blum Capital stake) | N/A | Continues through retirement; wealth accumulation never stops | Ongoing wealth |
-| 2023-09 | Feinstein dies in office (age 94); 31-year Senate tenure ends; estate valued at ~$110M | N/A | Wealth transferred to heirs; Blum outlives her with $1B+ remaining | Dynasty wealth |
+| 2015-2023 | Continued real estate wealth accumulation (Carlton Hotel Properties stake: $37.5M; Pacific Heights mansion: $16.5M purchase, $19M+ sale) | ~$50M+ real estate holdings | Blum/Feinstein real estate portfolio appreciates through federal investment in infrastructure | Wealth concentration |
+| 2023-09 | Feinstein dies in office (age 94); 31-year Senate tenure ends; estate valued at ~$110M | N/A | Wealth transferred to heirs | Dynasty wealth |
 
-[!contradiction] **The Surveillance-Wealth Asymmetry**: Feinstein's legacy as a surveillance hawk (NSA advocate, Intelligence Committee chair, FISA defender) perfectly aligned with her family's financial interests in defense contracting. The question unanswerable: would she have advocated for the same policies without the Blum Capital wealth stake? The convenient alignment suggests financial incentive shaped positions.
+---
 
-### San Francisco Real Estate Wealth — The Secondary Source
+### San Francisco Real Estate Wealth
 
 Beyond Blum Capital, Feinstein's wealth derived substantially from San Francisco real estate investments. In 2018, her net worth breakdown showed: Blum Capital stake, San Francisco Carlton Hotel Properties ($37.5M), Pacific Heights mansion (~$20M+), and other real estate holdings.
 
 This real estate wealth also intersected with her policy positions: Feinstein opposed affordable housing requirements, favored real estate developer donations, and protected San Francisco's real estate appreciation from regulatory intervention. As a senator from California, she influenced California housing policy toward developer-friendly positions despite San Francisco's housing crisis.
 
-The class analysis: Feinstein's positions on housing, development, and urban policy were influenced by her direct ownership of high-value San Francisco real estate. Policies that appreciated property values (restrictive zoning, developer tax breaks, opposition to public housing) directly benefited her portfolio.
+---
 
-### Intelligence Committee Chaos — The CIA-Senator Conflict
+### Intelligence Committee Chaos
 
 In March 2014, Feinstein publicly accused the CIA of secretly accessing Senate Intelligence Committee computer files, removing documents, and attempting to intimidate committee investigators while the committee investigated CIA detention/torture programs.
 
-The irony: the committee chair (Feinstein) claimed the intelligence agency (CIA) was undermining oversight — but Feinstein simultaneously protected the CIA from major accountability. She investigated torture but allowed the CIA to avoid criminal prosecution. She exposed the overreach but worked with the intelligence community for eventual cooperation rather than confrontation.
+The irony: the committee chair (Feinstein) claimed the intelligence agency (CIA) was undermining oversight, but Feinstein simultaneously protected the CIA from major accountability. She investigated torture but allowed the CIA to avoid criminal prosecution. She exposed the overreach but worked with the intelligence community for eventual cooperation rather than confrontation.
 
 This dynamic likely reflected Feinstein's structural position: her wealth depended partially on the intelligence community and defense establishment. Aggressive oversight that threatened the CIA's institutional power would have threatened the defense contractor ecosystem that partially funded her wealth.
 
-### Cognitive Decline and Power Dynamics — The Final Years (2022–2023)
+---
+
+### Cognitive Decline and Power Dynamics
 
 In Feinstein's final years, her cognitive decline raised questions about who actually wielded her Senate power. She missed significant votes, appeared confused in public settings, and her office staff reportedly made major decisions in her stead. Observers questioned whether Feinstein's Senate seat effectively transferred to her staff, her family (particularly her daughter who worked in politics), or to seniority-based institutional power.
 
-The class analysis: when a wealthy senator becomes incapacitated, do the institutional relationships and donor networks simply transfer to the successor staff? Feinstein's case suggests yes — her Senate power continued operating through institutional inertia and staffing continuity, not through her personal agency.
+When a wealthy senator becomes incapacitated, do the institutional relationships and donor networks simply transfer to the successor staff? Feinstein's case suggests yes. Her Senate power continued operating through institutional inertia and staffing continuity, not through her personal agency.
+
+---
 
 ## Class Analysis
 
@@ -104,7 +133,7 @@ The final-years cognitive decline exposes the class infrastructure beneath the i
 
 ---
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 **1. "National Security Expert"**: Invoked decades on Intelligence Committee to claim deep expertise on surveillance, counterterrorism, and foreign threats. This expertise framing masked the conflict-of-interest between her positions and her portfolio.
 
@@ -114,25 +143,26 @@ The final-years cognitive decline exposes the class infrastructure beneath the i
 
 **4. "Institutional Credibility"**: Leaned on 31 years of seniority and female-senator pioneer status to claim moral authority on intelligence matters, even when her positions tracked her financial interests too closely.
 
-### Analytical Patterns
+---
 
-**The Genuine Win + Structural Limit** — Feinstein's investigation into CIA torture (detention and interrogation programs) was genuine oversight—it exposed institutional abuse and generated public accountability. The structural limit: the investigation never resulted in criminal prosecutions of CIA operatives; the agency's core institutional power was preserved; her surveillance advocacy (NSA expansion, FISA reauthorization) protected the intelligence infrastructure that enables abuse.
+## Analytical Patterns
 
-[!contradiction] **The Surveillance Hawk with Defense Contractor Wealth** — Feinstein's advocacy for expanded surveillance powers directly benefited her husband's defense contractor investments. Expanded CIA authority increased federal surveillance budgets, which expanded Defense Department contracts, which increased profits for URS, Perini, and related contractors. Whether she would have advocated for these positions without financial interest is unknowable; the convenient alignment between her policy advocacy and personal wealth accumulation was too perfect to be coincidental.
+**The Genuine Win + Structural Limit**: Feinstein's investigation into CIA torture (detention and interrogation programs) was genuine oversight that exposed institutional abuse and generated public accountability. The structural limit: the investigation never resulted in criminal prosecutions of CIA operatives; the agency's core institutional power was preserved; her surveillance advocacy (NSA expansion, FISA reauthorization) protected the intelligence infrastructure that enables abuse.
 
-**The Institutional Credibility Frame** — Feinstein's 31 years of seniority and pioneer status as a female senator gave her moral authority on intelligence matters, even when her positions tracked her financial interests too closely. The institutional credibility obscured that her wealth depended on the exact systems she was ostensibly overseeing.
+> [!contradiction]
+> **The Surveillance Hawk with Defense Contractor Wealth**: Feinstein's advocacy for expanded surveillance powers directly benefited her husband's defense contractor investments. Expanded CIA authority increased federal surveillance budgets, which expanded Defense Department contracts, which increased profits for URS, Perini, and related contractors. Whether she would have advocated for these positions without financial interest is unknowable; the convenient alignment between her policy advocacy and personal wealth accumulation was too perfect to be coincidental.
 
-### Sources
+**The Institutional Credibility Frame**: Feinstein's 31 years of seniority and pioneer status as a female senator gave her moral authority on intelligence matters, even when her positions tracked her financial interests too closely. The institutional credibility obscured that her wealth depended on the exact systems she was ostensibly overseeing.
+
+---
+
+## Sources
 
 - [CBS News: Dianne Feinstein Net Worth at Death](https://www.cbsnews.com/news/dianne-feinstein-net-worth-richard-blum-children/) (Tier 2)
-- [FoundSF: Richard C. Blum and Dianne Feinstein — The Power Couple of California](https://www.foundsf.org/Main_Page?title=Richard_C._Blum_and_Dianne_Feinstein:_The_Power_Couple_of_California) (Tier 3)
+- [FoundSF: Richard C. Blum and Dianne Feinstein](https://www.foundsf.org/Main_Page?title=Richard_C._Blum_and_Dianne_Feinstein:_The_Power_Couple_of_California) (Tier 3)
 - [Mercury News: Feinstein Under Fire Over Defense Ties](https://www.mercurynews.com/2007/04/14/feinstein-under-fire-over-defense-ties/) (Tier 2)
 - [Wikipedia: Richard C. Blum](https://en.wikipedia.org/wiki/Richard_C._Blum) (Tier 3)
-- [RootsAction.org: Senator Profits from Wars and Post Office](https://act.rootsaction.org/p/dia/action/public/?action_KEY=7309) (Tier 4)
-- [The Real Deal: Feinstein's Pacific Heights Mansion Sales](https://therealdeal.com/san-francisco/2025/07/03/dianne-feinsteins-pacific-heights-mansion-sells/) (Tier 3)
 - [EPIC v. CIA: CIA Spying on Congress](https://epic.org/documents/epic-v-cia-cia-spying-on-congress/) (Tier 1)
-
-### Legislative Activity (Congress.gov)
 
 ### Congressional Stock Trades (STOCK Act)
 <!-- auto:stock-trades start -->
@@ -210,9 +240,6 @@ The final-years cognitive decline exposes the class infrastructure beneath the i
 | 2023-09-28 | On the Motion to Proceed H.R. 3935 | Yea | Motion to Proceed Agreed to |
 | 2023-09-26 | Motion to Invoke Cloture: Motion to Proceed to H.R. 3935 | Not Voting | Cloture Motion Agreed to |
 | 2023-09-21 | On the Nomination PN691: Gen. Eric M. Smith, in the Marine Corps, to be General | Not Voting | Nomination Confirmed |
-| 2023-09-21 | Motion to Invoke Cloture: Gen. Eric M. Smith for appointment as Commandant of th… | Not Voting | Cloture Motion Agreed to |
-| 2023-09-21 | On the Nomination PN537: Gen. Randy A. George, in the Army, to be General | Not Voting | Nomination Confirmed |
-| 2023-09-20 | Motion to Invoke Cloture: Gen. Randy A. George for appointment as Chief of Staff… | Not Voting | Cloture Motion Agreed to |
 
 - [Source: GovTrack.us](https://www.govtrack.us/congress/members/300043) (Tier 1)
 <!-- auto:govtrack end -->
@@ -223,21 +250,11 @@ The final-years cognitive decline exposes the class infrastructure beneath the i
 
 | Date | Vote | Position | Result |
 |------|------|----------|--------|
-| 2023-09-28 | S.J.Res. 24 (118th): A joint resolution providing for congressional disapproval under chapter 8 of title 5, United State | **Not Voting** | Veto Sustained |
-| 2023-09-28 | S.J.Res. 9 (118th): A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States | **Not Voting** | Veto Sustained |
+| 2023-09-28 | S.J.Res. 24 (118th): Congressional disapproval resolution | **Not Voting** | Veto Sustained |
+| 2023-09-28 | S.J.Res. 9 (118th): Congressional disapproval resolution | **Not Voting** | Veto Sustained |
 | 2023-09-26 | Motion to Invoke Cloture: Motion to Proceed to H.R. 3935 | **Not Voting** | Cloture Motion Agreed to |
-| 2023-09-21 | On the Nomination PN691: Gen. Eric M. Smith, in the Marine Corps, to be General | **Not Voting** | Nomination Confirmed |
-| 2023-09-21 | Motion to Invoke Cloture: Gen. Eric M. Smith for appointment as Commandant of the Marine Corps and appointment in the U. | **Not Voting** | Cloture Motion Agreed to |
-| 2023-09-21 | On the Nomination PN537: Gen. Randy A. George, in the Army, to be General | **Not Voting** | Nomination Confirmed |
-| 2023-09-20 | Motion to Invoke Cloture: Gen. Randy A. George for appointment as Chief of Staff of the Army and appointment in the U.S. | **Not Voting** | Cloture Motion Agreed to |
-| 2023-09-20 | On the Nomination PN677: Gen. Charles Q. Brown, Jr., in the Air Force, to be General | **Not Voting** | Nomination Confirmed |
-| 2023-09-20 | Motion to Invoke Cloture: Gen. Charles Q. Brown Jr. for reappointment as Chairman of the Joint Chiefs of Staff and appoi | **Not Voting** | Cloture Motion Agreed to |
-| 2023-09-20 | Motion to Invoke Cloture: Motion to Suspend the rules under Rule V Re: Amdt No 1092 | **Yea** | Cloture Motion Rejected |
-| 2023-09-19 | On the Nomination PN173: Rita F. Lin, of California, to be United States District Judge for the Northern District of Cal | **Not Voting** | Nomination Confirmed |
-| 2023-09-19 | Motion to Invoke Cloture: Rita F. Lin to be U.S. District Judge for the Northern District of California: Rita F. Lin, of | **Not Voting** | Cloture Motion Agreed to |
-| 2023-09-19 | On the Nomination PN591: Vernon D. Oliver, of Connecticut, to be United States District Judge for the District of Connec | **Not Voting** | Nomination Confirmed |
-| 2023-09-18 | Motion to Invoke Cloture: Vernon D. Oliver to be U.S. District Judge for the District of Connecticut: Vernon D. Oliver,  | **Yea** | Cloture Motion Agreed to |
-| 2023-09-12 | Motion to Invoke Cloture: Motion to Proceed to H.R. 4366 | **Yea** | Cloture Motion Agreed to |
+| 2023-09-21 | On the Nomination PN691: Gen. Eric M. Smith | **Not Voting** | Nomination Confirmed |
+| 2023-09-20 | On the Nomination PN677: Gen. Charles Q. Brown, Jr. | **Not Voting** | Nomination Confirmed |
 
 **Sources**
 
@@ -245,6 +262,7 @@ The final-years cognitive decline exposes the class infrastructure beneath the i
 <!-- auto:voting-record end -->
 
 ### Committee Assignments (Congress.gov)
+<!-- Committee data pending pipeline re-enrichment. bioguide-id F000062 added 2026-04-12. -->
 
 ### DOJ Press Releases
 <!-- auto:doj-press removed 2026-04-10 by Research Claude: was showing >10K DOJ mentions from the API index-size false-positive bug. Main engine fix d1ceb91 (2026-04-10) caps at 10K + validates 60% name match. Will repopulate correctly on next pipeline run. -->

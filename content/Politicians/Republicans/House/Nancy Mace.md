@@ -1,6 +1,8 @@
 ---
 title: "Nancy Mace"
 type: politician
+chamber: "House"
+party: "Republican"
 content-readiness: draft
 last-updated: 2026-04-07
 source-tier: 1
@@ -29,15 +31,15 @@ donors: Trump-Aligned Donors · Conservative PACs · [[Crypto Industry Bloc]] ·
 
 ---
 
-### Who They Are
+## Who They Are
 
 Nancy Mace. U.S. Representative from South Carolina District 1 (2021–present). Age 45. First woman to graduate from The Citadel. Former state representative (2015-2019). Military background (served in U.S. Air Force Reserve). Known for sharp social media presence and visibility-seeking behavior. Mace is the clearest case study of how Republican politician ideology tracks with donor funding: when her funding sources shift, her stated positions flip with mechanical precision.
 
-### The Central Thesis
+## The Central Thesis
 
 Nancy Mace is the donor-class weather vane. Her positions do not reflect a stable ideology or principle — they shift when the donor incentive structure changes. Her post-January 6 criticism of Trump was genuine, but only lasted as long as moderate donors were willing to fund her. When Trump-aligned donors threatened a primary challenge and moderate donors proved unable or unwilling to protect her, Mace flipped back to MAGA alignment. She opposed the transgender athlete ban, then supported it when conservative donors demanded it. She positioned as moderate and principled in 2021, then positioned as MAGA-loyal in 2023-2024. The only constant: she follows the money. Mace proves that "swing district moderation" is not an ideology — it's a fundraising position that changes when the donor incentives change.
 
-### The Core Contradiction
+## The Core Contradiction
 
 Mace claims to be an independent voice who votes her conscience and represents her constituents' values. Her rhetoric emphasizes autonomy ("I will win without him" — regarding Trump), political courage, and personal principle. Yet her actual voting record and position shifts follow donor funding with striking precision. She is not a moderating force; she is an opportunist whose positions are determined by whoever is funding her campaign at any given moment.
 
@@ -49,7 +51,7 @@ The contradiction is sharpest on transgender rights:
 
 This is not evolution of thinking. This is synchronized donor-driven position switching.
 
-### Donor Class Map
+## Donor Class Map
 
 | Date | Event/Contribution | Amount | Policy Action/Outcome | Time Gap |
 |------|------|------|------|------|
@@ -140,7 +142,7 @@ Mace's flip on transgender rights is the clearest possible case study of donor-d
 - Anti-immigration hardline positions
 - Shift away from bipartisan votes to partisan alignment
 
-### Analytical Patterns
+## Analytical Patterns
 
 **The Genuine Win + Structural Limit** — Mace's anti-immigrant positioning is a real policy victory for the MAGA donor base in a swing district, but stops short of comprehensive immigration system reform. Her hardline culture war stance mobilizes small-dollar donors without delivering structural policy change.
 
@@ -153,7 +155,7 @@ Mace's flip on transgender rights is the clearest possible case study of donor-d
 
 ---
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 1. **The Personal Authenticity Claim:** Mace constantly invokes her military background, Citadel graduation, and personal journey as evidence of independence and principle. The claim obscures that her actual voting and position shifts follow donor money mechanically.
 

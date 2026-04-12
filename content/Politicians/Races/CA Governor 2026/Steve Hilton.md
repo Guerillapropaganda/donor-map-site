@@ -19,20 +19,20 @@ donors: [[Koch Network - Charles Koch|Koch conservatives]] · Silicon Valley tec
 
 ---
 
-### Who They Are
+## Who They Are
 
 Stephen Glenn Charles Hilton is a British-American conservative political commentator, former Fox News host, and 2026 Republican candidate for California governor. Born in London in 1969 to Hungarian-Jewish immigrant parents, Hilton studied politics, philosophy, and economics at Oxford University, where he met David Cameron. He spent the 1990s in politics and advertising before cofounding the Silicon Valley political crowdfunding platform Crowdpac (2014-2018), teaching at Stanford University's Hasso Plattner Institute of Design, and hosting Fox News's "The Next Revolution" (2017-2023). His campaign centers on housing, homelessness, immigration enforcement, and deregulation under the slogan "Make California Golden Again." As of March 2026, Hilton leads statewide polling at 17% in Emerson surveys and has raised $5.7 million in campaign funds, primarily from a geographically dispersed base of 30,000 small-dollar donors leveraging his Fox News audience.
 
-### The Central Thesis
+## The Central Thesis
 
 **Steve Hilton represents the merger of tech-libertarian deregulation ideology with Fox News conservative populism.** His political product is a technocratic alternative to Chad Bianco's law-enforcement populism: anti-government across the board (fewer rules, lower taxes, smaller bureaucracy), but deployed through a national media platform rather than regional law-enforcement networks. His donor base is national conservative media infrastructure—the Fox News audience converted to campaign cash—rather than California Republican establishment or old money. Hilton's candidacy succeeds or fails on whether voters accept a media-celebrity reformer narrative (change through deregulation and efficiency) or demand a law-enforcement strongman (change through enforcement). Both compete for the same Republican vote in a crowded primary where only one Republican advances to the November general.
 
-### The Core Contradiction
+## The Core Contradiction
 
 > [!contradiction]
 > Hilton frames California's crises (housing, homelessness, immigration) as self-inflicted government failures and proposes deregulation, tax cuts, and streamlined permitting as solutions. Yet his own wealth and political access came through elite networks (Oxford, Cameron's government, Stanford, Fox News, venture capital)—institutions he now tells voters have been "totally mismanaged" by ideology. He attacks the "far left" and "one-party rule" without crediting his own rise to the very credentialed elite class he claims to oppose. He is a billionaire-adjacent media figure attacking government overreach while appearing on a major corporation's platform. His pitch is populist; his pedigree is establishment.
 
-### Donor Class Map
+## Donor Class Map
 
 > [!money]
 > **The Media-to-Money Pipeline:** Hilton's $5.7 million fundraise follows the exact pattern of Trump's 2016 primary campaign: a national conservative media personality leverages cable news audience, converts viewers to small-dollar donors, and uses attention and cash to compete in Republican primaries. His 30,000 donors are not primarily California Republicans; they are Fox News viewers nationwide who became aware of Hilton through "The Next Revolution" (2017-2023) and respond to direct fundraising appeals. This model bypasses traditional California Republican donors (who back Bianco or establishment figures) and instead taps a nationalized conservative donor base. It works because media reach scales faster than local political relationships.
@@ -49,7 +49,7 @@ Stephen Glenn Charles Hilton is a British-American conservative political commen
 - Unnamed 30,000 small-dollar donors ($4.1M raised in H2 2025)
 - Crowdpac tech network: Adam Bonica (Stanford), Gisel Kordestani (Google executive)
 
-### Donation-to-Policy Timeline
+## Donation-to-Policy Timeline
 
 | Date | Event | Amount | Policy Outcome | Source |
 |------|-------|--------|-----------------|--------|
@@ -60,7 +60,7 @@ Stephen Glenn Charles Hilton is a British-American conservative political commen
 | H2 2025 | Raises $4.1M in six months (30,000 small-dollar donors) | $4.1M | Campaign expansion; consolidates Fox News audience into campaign cash |  [CalMatters: Fundraising Report](https://calmatters.org/category/politics/2026/02/governors-race-fundraising-reports/) (Tier 2) |
 | Feb-March 2026 | Total raised $5.7M; leads Republican field in fundraising | $5.7M | Campaign advertising, field operations; maintains polling lead (17% Emerson, March 2026) |  [Emerson: California 2026 Poll](https://emersoncollegepolling.com/california-2026-poll-hilton-swalwell-bianco-lead-nonpartisan-primary-for-governor/) (Tier 1) |
 
-### Analytical Patterns
+## Analytical Patterns
 
 ### Pattern 1: Self-Funding as Independence
 Hilton's narrative frames his financial success (Fox News salary, Crowdpac returns) as evidence of competence and independence from "special interests." Yet his donor base is entirely dependent on media celebrity—remove "The Next Revolution" and his donor list disappears. He claims to represent change against elites while operating inside the fox-to-donor pipeline that created Trump. This is Self-Funding as Independence: billionaires (or near-billionaires) claim outsider status because they self-fund, ignoring that media salary is as tied to corporate interests as any donor PAC.
@@ -77,7 +77,7 @@ Hilton attributes California's housing crisis to "70% of lawsuits blocking housi
 ### Pattern 5: Rhetorical Populism + Elite Credentials
 Hilton deploys populist rhetoric ("Make California Golden Again," attacks on "one-party rule," promises to "cut bureaucracy") while maintaining credentialed elite positioning: Oxford degree, Cameron's government, Stanford lecturer, Fox News host. His populism is elite populism—critique of government incompetence from the perspective of a more competent elite, not from working-class interest. Unlike Bianco's law-enforcement populism (which ties to police union power), Hilton's is media populism (which ties to Fox News and tech wealth).
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 1. **"Common Sense" and "Competence"**: Hilton repeatedly frames his agenda as pragmatic problem-solving. "We need common sense and competence," not ideology. This reframes deregulation as neutrality (not an ideological choice) and positions himself as the technocratic fix.
 

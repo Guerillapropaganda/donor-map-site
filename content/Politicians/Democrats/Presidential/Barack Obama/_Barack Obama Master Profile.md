@@ -195,8 +195,7 @@ Elizabeth Fowler (WellPoint's former Vice President for Public Policy) was Max B
 To the Left, Obama could say: "We passed healthcare reform. 20 million people now have insurance." To the insurance and pharma industries, he could say: "Your profit model is protected. Coverage expansion means more customers. Patent protections mean you keep pricing power."
 
 Both statements are true. The class analysis reveals that the structural outcome benefited the industries more than working-class people. Healthcare costs continued rising under the ACA (average family premiums up 20%+ over Obama's presidency). Deductibles increased significantly. Out-of-pocket costs rose. The insurance mandate meant millions of people were required to buy insurance that had high deductibles and limited benefits. This was not accidental — this is what the insurance industry's negotiations with the White House produced.
-
-[!money] **The Temporal Chain of ACA Capture**
+> [!money] **The Temporal Chain of ACA Capture**
 ### Goldman Sachs/Wall Street donations (2007–2008, $5M+) → Obama appoints Wall Street Cabinet (Geithner, Summers, Sperling) → Insurance industry negotiations in early 2009 → Public option removed from bill before Senate debate → Pharma deal ($80B for ~$100B in increased revenues from new insured population) → ACA passes → Insurance stocks rise; pharma stocks hold; coverage expands but costs remain high; insurance/pharma profit structure intact.
 ---
 
@@ -213,8 +212,7 @@ The Silicon Valley integration also shaped Obama's tech policy. His NSA director
 The outcome: Obama protected Silicon Valley's market dominance and data collection business model while simultaneously expanding government surveillance. The surveillance state that Trump inherited and continued was built under Obama. The tech companies that complained loudest about Trump's actions had benefited from Obama's infrastructure-building for state-scale data collection.
 
 Post-presidency, Silicon Valley's investment in Democratic causes increased significantly. Billionaire tech founders (Salesforce's Marc Benioff, Asana's [[Dustin Moskovitz|Dustin Moskovitz]], etc.) became major Democratic donors. They understood that Obama had protected their interests despite his progressive rhetoric. Capital rewards those who serve its interests while maintaining the appearance of challenging power.
-
-[!contradiction] **The Silicon Valley Paradox**
+> [!contradiction] **The Silicon Valley Paradox**
 ### Obama administration promises: privacy, tech regulation, challenge to monopoly power. Obama administration actions: NSA mass surveillance expansion, zero antitrust action against Google/Amazon, tech company data partnerships protected. Obama post-presidency: Silicon Valley tech billionaires become massive Democratic donors. Capital understood that Obama had protected their interests.
 ---
 
@@ -247,8 +245,7 @@ The post-presidency confirms the class analysis. Obama's speaking fees to Wall S
 ## Analytical Patterns
 
 **The Genuine Win + Structural Limit** — Obama's Affordable Care Act expanded insurance coverage (20M people gained insurance) and the ACA generated real material gains for people who previously lacked coverage. His financial crisis response prevented total economic collapse (TARP prevented banking system failure). His judicial confirmations matched Trump's pace, installing 200+ judges. These are genuine achievements. The structural limit: the ACA preserved insurance company profit structures; no banker prosecutions occurred; the judicial pipeline operated identically under both parties with different donor-class priorities but same structural capture.
-
-[!contradiction] **The Hope Brand Hiding Wall Street Integration** — Obama's 2008 campaign promised "hope and change" against the financial sector's power while his donors were Wall Street itself ($5M+ from financial sector, Goldman Sachs as second-largest donor). His cabinet was the most Wall Street-integrated since the post-FDR period (Geithner, Summers, Sperling). His leaked quote to bankers — "I'm the only thing between you and the pitchforks" — reveals the Two-Audience Problem perfectly: tell progressives you're challenging power, tell capital you're protecting them. Both statements were true.
+> [!contradiction] **The Hope Brand Hiding Wall Street Integration** — Obama's 2008 campaign promised "hope and change" against the financial sector's power while his donors were Wall Street itself ($5M+ from financial sector, Goldman Sachs as second-largest donor). His cabinet was the most Wall Street-integrated since the post-FDR period (Geithner, Summers, Sperling). His leaked quote to bankers — "I'm the only thing between you and the pitchforks" — reveals the Two-Audience Problem perfectly: tell progressives you're challenging power, tell capital you're protecting them. Both statements were true.
 
 **The Two-Audience Problem at Scale** — Obama mastered the Two-Audience Problem at a level no recent Democratic president matched: insurance stocks rose 15-20% during the ACA fight while progressives celebrated healthcare reform; Silicon Valley got market dominance protection and NSA surveillance partnerships while Obama's NSA was expanding mass surveillance; Wall Street was bailed out without prosecutions while progressives believed Obama was "fighting big banks." His post-presidency $65M book deal and $50M Netflix deal are the financial recognition of his service to capital. Capital understood that Obama, despite his rhetoric, had protected their interests.
 

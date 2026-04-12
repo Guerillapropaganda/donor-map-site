@@ -54,8 +54,7 @@ Vance is not an organic politician. He is an explicitly designed artifact create
 1. **Ideological cover**: Provide a working-class face for billionaire-friendly politics (union busting, deregulation, anti-democracy, surveillance capitalism)
 2. **Wealth transfer machine**: Position himself to profit from defense contracts, venture capital allocation, and government surveillance contracts
 3. **2028 succession planning**: Establish himself as the MAGA frontrunner when Trump's second term ends, ensuring continuity of billionaire influence over the Republican Party
-
-[!money] The trail is explicit: $15M direct Thiel funding → Yale law mentorship → [[Mithril Capital|Mithril Capital]] wealth accumulation → 2024 VP selection as final payoff.
+> [!money] The trail is explicit: $15M direct Thiel funding → Yale law mentorship → [[Mithril Capital|Mithril Capital]] wealth accumulation → 2024 VP selection as final payoff.
 
 ## The Core Contradiction: Working-Class Brand Funded by Billionaires
 
@@ -75,8 +74,7 @@ His Senate voting record—57 bills introduced, 0 passed—reflects this contrad
 | [[Elon Musk]] | ~$45M/month America PAC (2024) | MAGA alignment, tech monopoly protection | VP selection lobbying, crypto/Twitter alignment |
 | [[Marc Andreessen & Horowitz]] | $8-12M+ contributions | VC industry deregulation, defense contracts | Portfolio overlap with Narya, government contract interests |
 | [[Crypto Industry Bloc]] | $5-8M+ (2024) | Pro-crypto policy, financial deregulation | [[_David Sacks Master Profile|David Sacks]] alignment, crypto defense in Senate |
-
-[!contradiction] Vance frames himself as anti-establishment while being the establishment's most explicit creation. His utility lies precisely in this contradiction: he can attack "elites" while serving them.
+> [!contradiction] Vance frames himself as anti-establishment while being the establishment's most explicit creation. His utility lies precisely in this contradiction: he can attack "elites" while serving them.
 
 ## Donation-to-Policy Timeline
 
