@@ -205,18 +205,29 @@ Brady represents issue-based donor infrastructure serving Democratic electoral p
 
 | Metric | Value |
 |--------|-------|
-| Politicians Funded | 6 |
+| Politicians Funded | 17 |
 | Active Lobbyist | Yes |
 | Committee Overlap Detected | None |
 
 **Funded politicians:**
 
+- [[Gina McCarthy]] — lobbying: $836K
 - [[Kevin McCarthy]] — lobbying: $836K
 - [[Wes Moore]] — lobbying: $836K
+- [[Gwen Moore]] — lobbying: $836K
+- [[Barry Moore]] — lobbying: $836K
+- [[Blake D. Moore]] — lobbying: $836K
+- [[Riley M. Moore]] — lobbying: $836K
+- [[Tim Moore]] — lobbying: $836K
+- [[Jerrold Nadler]] — lobbying: $836K
 - [[Jerry Nadler]] (Judiciary, Antitrust (Judiciary)) — lobbying: $836K
+- [[James E. Clyburn]] — lobbying: $836K
+- [[Robert Menendez]] — lobbying: $836K
 - [[Bob Menendez]] (Foreign Relations) — lobbying: $836K
 - [[Melissa Bean]] — lobbying: $836K
+- [[Aaron Bean]] — lobbying: $836K
 - [[Linda McMahon]] (Education & Labor) — lobbying: $836K
+- [[Salud O. Carbajal]] — lobbying: $836K
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-12.*
 
