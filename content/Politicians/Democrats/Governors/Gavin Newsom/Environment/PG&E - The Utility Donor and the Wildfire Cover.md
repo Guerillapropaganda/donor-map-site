@@ -5,7 +5,7 @@ content-readiness: draft
 last-updated: 2026-04-12
 source-tier: 1
 parent: [[_Gavin Newsom Master Profile]]
-related: "[[100% Clean Energy and the 2035 EV Mandate]] · [[Fracking and Oil Permits - Green Branding vs. Record]] · [[Environment - Donors and Backers]] · [[_Gavin Newsom Master Profile]] · [[Legislative Record as Speaker]] · [[The Last Oil Democrat - Fossil Fuel Money in a Blue District]] · [[The Biden Exit and Harris Installation]] · [[The $1.6 Billion Fundraising Machine]] · [[The Education Committee and Labor Alignment]] · [[The Corporate-Democratic Donor Coalition and AIPAC Connection]]"
+related: "[[100% Clean Energy and the 2035 EV Mandate]] · [[Fracking and Oil Permits - Green Branding vs. Record]] · [[Environment - Donors and Backers]] · [[_Gavin Newsom Master Profile]] · [[Legislative Record as Speaker]] · [[The Last Oil Democrat - Fossil Fuel Money in a Blue District]] · [[The Biden Exit and Harris Installation]] · [[The $1.6 Billion Fundraising Machine]] · [[The Education Committee and Labor Alignment]] · [[The Corporate-Democratic Donor Coalition and AIPAC Connection]] · [[School Choice and the Catholic Church Prosecution as Brand Architecture]]"
 ---
 #newsom #environment #PGE #utility #wildfire #donor-class #ratepayers #bankruptcy #criminal-protection #class-analysis #follow-the-money #regulated-monopoly
 

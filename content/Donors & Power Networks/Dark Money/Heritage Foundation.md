@@ -50,7 +50,7 @@ sec-form-types:
   - "SC 13G"
 lei: "5493006YU7R03XUJSX56"
 lei-jurisdiction: "US-DC"
-related: "[[American Federation for Children]] · [[Project 2025 - The Blueprint They Followed]] · [[Leonard Leo]] · [[Koch Network - Charles Koch]] · [[Federalist Society]] · [[_Donald Trump Master Profile|Trump]] · [[Three Justices in Four Years - The Leonard Leo Investment and Its Returns|Leo Judicial Pipeline]] · [[DeVos Family]] · [[Bradley Foundation]] · [[National Education Association]] · [[US Chamber of Commerce]] · [[Walton Family Foundation]] · [[Insurance Industry]] · [[Defense Contractors Bloc]] · [[American Iron and Steel Institute]]"
+related: "[[American Federation for Children]] · [[Project 2025 - The Blueprint They Followed]] · [[Leonard Leo]] · [[Koch Network - Charles Koch]] · [[Federalist Society]] · [[_Donald Trump Master Profile|Trump]] · [[Three Justices in Four Years - The Leonard Leo Investment and Its Returns|Leo Judicial Pipeline]] · [[DeVos Family]] · [[Bradley Foundation]] · [[National Education Association]] · [[US Chamber of Commerce]] · [[Walton Family Foundation]] · [[Insurance Industry]] · [[Defense Contractors Bloc]] · [[American Iron and Steel Institute]] · [[Defense Industry]]"
 total-political-spend: "$1,007,158"
 federal-register-mentions: 139
 regulatory-agencies:

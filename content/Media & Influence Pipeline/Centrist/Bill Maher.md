@@ -7,7 +7,7 @@ source-tier: 2
 parent: null
 category: centrist
 platform: multi-platform
-related: "[[Koch Network - Charles Koch]] · [[John Oliver]] · [[Lex Fridman]] · [[Dave Rubin]] · [[Tucker Carlson]] · [[The Platform Dependency Spectrum — Revenue Vulnerability Across Political Media]]"
+related: "[[Koch Network - Charles Koch]] · [[John Oliver]] · [[Lex Fridman]] · [[Dave Rubin]] · [[Tucker Carlson]] · [[The Platform Dependency Spectrum — Revenue Vulnerability Across Political Media]] · [[Tim Pool]]"
 ---
 
 #media-pipeline #centrist #hbo #comedy #corporate-media #anti-woke #centrist-laundering #independence-theater

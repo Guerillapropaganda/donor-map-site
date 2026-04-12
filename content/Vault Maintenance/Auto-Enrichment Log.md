@@ -58,6 +58,13 @@ Bot-written. Research Claude reads this to see what fresh API data landed in the
 
 
 
+
+## 2026-04-12 22:30 UTC — 1 profile
+
+**committee — 1 profile:**
+- Dianne Feinstein — 0 committees, 0 subcommittees
+
+---
 ## 2026-04-12 21:27 UTC — 29 profiles
 
 **FEC — 29 profiles:**

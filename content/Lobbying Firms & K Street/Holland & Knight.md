@@ -19,7 +19,7 @@ fara-countries:
   - "JAPAN"
   - "KOREA SOUTH"
   - "QATAR"
-related: "[[Google - Alphabet|Alphabet/Google]] · [[Occidental Petroleum]] · [[Fossil Fuel Bloc]] · [[Donald Trump Master Profile]]"
+related: "[[Google - Alphabet|Alphabet/Google]] · [[Occidental Petroleum]] · [[Fossil Fuel Bloc]] · [[Donald Trump Master Profile]] · [[Brownstein Hyatt Farber Schreck]]"
 ein: "311472972"
 nonprofit-status: "501(c)(3)"
 last-enriched: "2026-04-09"

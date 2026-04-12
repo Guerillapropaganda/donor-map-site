@@ -23,7 +23,7 @@ court-jurisdictions:
 nonprofit-status: "501(c)(4)"
 total-revenue: 1057103
 total-assets: 79716
-related: "[[Democratic Senatorial Campaign Committee]] · [[ActBlue]] · [[House Majority PAC]] · [[Senate Majority PAC]] · [[Priorities USA Action]] · [[DSCC - Democratic Senatorial Campaign Committee]] · [[Majority Forward]] · [[Winning for Women PAC]] · [[Senate Leadership Fund]] · [[One Nation]]"
+related: "[[Democratic Senatorial Campaign Committee]] · [[ActBlue]] · [[House Majority PAC]] · [[Senate Majority PAC]] · [[Priorities USA Action]] · [[DSCC - Democratic Senatorial Campaign Committee]] · [[Majority Forward]] · [[Winning for Women PAC]] · [[Senate Leadership Fund]] · [[One Nation]] · [[WinRed]]"
 cross-vault-triangulation-count: 7
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
   • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.

@@ -7,7 +7,7 @@ source-tier: 1
 parent: null
 issues:
   - "Wall Street & Finance"
-related: "[[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]] · [[Stephen Schwarzman|Stephen Schwarzman]] · [[Paul Singer|Paul Singer]] · [[_Susan Collins Master Profile|Susan Collins]] · [[Elliott Management|Elliott Management]] · [[Blackstone|Blackstone]] · [[Intra-Republican Contradiction Map]] · [[Intra-Democratic Contradiction Map - The Progressive vs Moderate Illusion]] · [[Geographic Donor Clustering - Where the Money Actually Comes From]] · [[Trump-Newsom Donor Class Mirror - Same Money, Different Rhetoric]] · [[Schumer-McConnell Senate Leadership Mirror - Same Money, Different Caucuses]] · [[Pelosi-McCarthy House Leadership Mirror - Same Corporate Apparatus, Different Brand]]"
+related: "[[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]] · [[Stephen Schwarzman|Stephen Schwarzman]] · [[Paul Singer|Paul Singer]] · [[_Susan Collins Master Profile|Susan Collins]] · [[Elliott Management|Elliott Management]] · [[Blackstone|Blackstone]] · [[Intra-Republican Contradiction Map]] · [[Intra-Democratic Contradiction Map - The Progressive vs Moderate Illusion]] · [[Geographic Donor Clustering - Where the Money Actually Comes From]] · [[Trump-Newsom Donor Class Mirror - Same Money, Different Rhetoric]] · [[Schumer-McConnell Senate Leadership Mirror - Same Money, Different Caucuses]] · [[Pelosi-McCarthy House Leadership Mirror - Same Corporate Apparatus, Different Brand]] · [[How Money Captures Media — The Donor Map Media Pipeline]]"
 ---
 #investigation #contradiction #schwarzman #singer #wall-street #republican #class-analysis
 tags: #analysis #story
