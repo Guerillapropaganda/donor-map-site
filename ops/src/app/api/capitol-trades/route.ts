@@ -6,20 +6,81 @@ const ROOT = path.join(process.cwd(), "..")
 const CURRENT_FILE = path.join(ROOT, "data", "financial-disclosures.json")
 const HISTORICAL_FILE = path.join(ROOT, "data", "financial-disclosures-historical.json")
 
-// Crypto ETFs and crypto-company stocks
-const CRYPTO_TICKERS = new Set([
-  // Direct crypto ETFs
-  'GBTC', 'ETHE', 'BITO', 'BITX', 'ARKB', 'IBIT', 'FBTC', 'HODL',
-  'BTCO', 'EZBC', 'DEFI', 'BITW', 'BRRR', 'BTCW', 'ETHV', 'CETH',
-  // Crypto companies
-  'COIN', 'MARA', 'RIOT', 'MSTR', 'HUT', 'BITF', 'CLSK', 'CIFR',
-  'IREN', 'CORZ', 'BTBT', 'ARBK', 'SATO', 'WULF', 'DGHI',
-  // Crypto-adjacent
-  'SQ', 'PYPL', 'SI', 'HOOD',
-  // Direct crypto pseudo-tickers (from parser)
-  'BTC', 'ETH', 'SOL', 'ADA', 'DOGE', 'XRP', 'LTC', 'XLM',
-  'DOT', 'AVAX', 'LINK', 'BNB', 'ALGO', 'CRYPTO',
-])
+// ─── Crypto Tier System ───────────────────────────────────────
+// Tier 1: Direct crypto holdings (Bitcoin, Ethereum, etc.)
+// Tier 2: Crypto ETFs (pure crypto exposure vehicles)
+// Tier 3: Crypto companies (revenue primarily from crypto)
+// Tier 4: Crypto-adjacent (touch crypto but not core business)
+//
+// Tiers 1-3 are shown by default. Tier 4 is opt-in because
+// buying PayPal isn't the same signal as buying Bitcoin.
+
+type CryptoTier = 'direct' | 'etf' | 'company' | 'adjacent'
+
+interface CryptoTickerInfo {
+  name: string
+  tier: CryptoTier
+}
+
+const CRYPTO_TICKER_DB: Record<string, CryptoTickerInfo> = {
+  // Tier 1: Direct crypto
+  BTC:    { name: 'Bitcoin',              tier: 'direct' },
+  ETH:    { name: 'Ethereum',             tier: 'direct' },
+  SOL:    { name: 'Solana',               tier: 'direct' },
+  ADA:    { name: 'Cardano',              tier: 'direct' },
+  DOGE:   { name: 'Dogecoin',             tier: 'direct' },
+  XRP:    { name: 'Ripple',               tier: 'direct' },
+  LTC:    { name: 'Litecoin',             tier: 'direct' },
+  XLM:    { name: 'Stellar',              tier: 'direct' },
+  DOT:    { name: 'Polkadot',             tier: 'direct' },
+  AVAX:   { name: 'Avalanche',            tier: 'direct' },
+  LINK:   { name: 'Chainlink',            tier: 'direct' },
+  BNB:    { name: 'BNB',                  tier: 'direct' },
+  ALGO:   { name: 'Algorand',             tier: 'direct' },
+  CRYPTO: { name: 'Crypto (unspecified)',  tier: 'direct' },
+
+  // Tier 2: Crypto ETFs
+  GBTC: { name: 'Grayscale Bitcoin Trust',       tier: 'etf' },
+  ETHE: { name: 'Grayscale Ethereum Trust',      tier: 'etf' },
+  BITO: { name: 'ProShares Bitcoin ETF',         tier: 'etf' },
+  BITX: { name: 'Volatility Shares 2x Bitcoin',  tier: 'etf' },
+  ARKB: { name: 'ARK 21Shares Bitcoin ETF',      tier: 'etf' },
+  IBIT: { name: 'iShares Bitcoin Trust',         tier: 'etf' },
+  FBTC: { name: 'Fidelity Wise Origin Bitcoin',  tier: 'etf' },
+  HODL: { name: 'VanEck Bitcoin Trust',          tier: 'etf' },
+  BTCO: { name: 'Invesco Galaxy Bitcoin ETF',    tier: 'etf' },
+  EZBC: { name: 'Franklin Bitcoin ETF',          tier: 'etf' },
+  DEFI: { name: 'Hashdex Bitcoin ETF',           tier: 'etf' },
+  BITW: { name: 'Bitwise 10 Crypto Index',       tier: 'etf' },
+  BRRR: { name: 'Valkyrie Bitcoin Fund',         tier: 'etf' },
+  BTCW: { name: 'WisdomTree Bitcoin Fund',       tier: 'etf' },
+  ETHV: { name: 'VanEck Ethereum Trust',         tier: 'etf' },
+  CETH: { name: 'Bitwise Ethereum ETF',          tier: 'etf' },
+
+  // Tier 3: Crypto companies (revenue primarily from crypto)
+  COIN: { name: 'Coinbase',          tier: 'company' },
+  MARA: { name: 'Marathon Digital',   tier: 'company' },
+  RIOT: { name: 'Riot Platforms',     tier: 'company' },
+  MSTR: { name: 'MicroStrategy',     tier: 'company' },
+  HUT:  { name: 'Hut 8 Mining',      tier: 'company' },
+  BITF: { name: 'Bitfarms',          tier: 'company' },
+  CLSK: { name: 'CleanSpark',        tier: 'company' },
+  CIFR: { name: 'Cipher Mining',     tier: 'company' },
+  IREN: { name: 'Iris Energy',       tier: 'company' },
+  CORZ: { name: 'Core Scientific',   tier: 'company' },
+  BTBT: { name: 'Bit Digital',       tier: 'company' },
+  ARBK: { name: 'Argo Blockchain',   tier: 'company' },
+  WULF: { name: 'TeraWulf',          tier: 'company' },
+  DGHI: { name: 'Digihost',          tier: 'company' },
+
+  // Tier 4: Crypto-adjacent (not core business)
+  SQ:   { name: 'Block (Square)',      tier: 'adjacent' },
+  PYPL: { name: 'PayPal',             tier: 'adjacent' },
+  SI:   { name: 'Silvergate Capital',  tier: 'adjacent' },
+  HOOD: { name: 'Robinhood',          tier: 'adjacent' },
+}
+
+const CRYPTO_TICKERS = new Set(Object.keys(CRYPTO_TICKER_DB))
 
 const CRYPTO_ASSET_RE = /\b(bitcoin|ethereum|crypto|cryptocurrency|digital\s*asset|digital\s*currency|virtual\s*currency|blockchain|solana|cardano|dogecoin|ripple|xrp|grayscale.*bitcoin|grayscale.*ethereum|proshares.*bitcoin)\b/i
 
@@ -29,31 +90,13 @@ function isCryptoTrade(ticker: string | null, asset: string): boolean {
   return false
 }
 
-// Crypto ticker categorization for display
-const CRYPTO_CATEGORIES: Record<string, string> = {
-  // Direct crypto
-  BTC: 'Bitcoin', ETH: 'Ethereum', SOL: 'Solana', ADA: 'Cardano',
-  DOGE: 'Dogecoin', XRP: 'Ripple', LTC: 'Litecoin', XLM: 'Stellar',
-  DOT: 'Polkadot', AVAX: 'Avalanche', LINK: 'Chainlink', BNB: 'BNB',
-  ALGO: 'Algorand', CRYPTO: 'Crypto (unspecified)',
-  // ETFs
-  GBTC: 'Grayscale Bitcoin Trust', ETHE: 'Grayscale Ethereum Trust',
-  BITO: 'ProShares Bitcoin ETF', BITX: 'Volatility Shares 2x Bitcoin',
-  ARKB: 'ARK 21Shares Bitcoin ETF', IBIT: 'iShares Bitcoin Trust',
-  FBTC: 'Fidelity Wise Origin Bitcoin', HODL: 'VanEck Bitcoin Trust',
-  BTCO: 'Invesco Galaxy Bitcoin ETF', EZBC: 'Franklin Bitcoin ETF',
-  DEFI: 'Hashdex Bitcoin ETF', BITW: 'Bitwise 10 Crypto Index',
-  BRRR: 'Valkyrie Bitcoin Fund', BTCW: 'WisdomTree Bitcoin Fund',
-  ETHV: 'VanEck Ethereum Trust', CETH: 'Bitwise Ethereum ETF',
-  // Companies
-  COIN: 'Coinbase', MARA: 'Marathon Digital', RIOT: 'Riot Platforms',
-  MSTR: 'MicroStrategy', HUT: 'Hut 8 Mining', BITF: 'Bitfarms',
-  CLSK: 'CleanSpark', CIFR: 'Cipher Mining', IREN: 'Iris Energy',
-  CORZ: 'Core Scientific', BTBT: 'Bit Digital', ARBK: 'Argo Blockchain',
-  WULF: 'TeraWulf', DGHI: 'Digihost',
-  // Crypto-adjacent
-  SQ: 'Block (Square)', PYPL: 'PayPal', SI: 'Silvergate Capital',
-  HOOD: 'Robinhood',
+function getCryptoInfo(ticker: string | null, asset: string): { tier: CryptoTier; category: string } | null {
+  if (ticker) {
+    const info = CRYPTO_TICKER_DB[ticker.toUpperCase()]
+    if (info) return { tier: info.tier, category: info.name }
+  }
+  if (asset && CRYPTO_ASSET_RE.test(asset)) return { tier: 'direct', category: 'Crypto (from description)' }
+  return null
 }
 
 interface Trade {
@@ -71,15 +114,19 @@ interface Trade {
   year: number
   sourceUrl: string
   isCrypto: boolean
+  cryptoTier?: CryptoTier
   cryptoCategory?: string
 }
 
 function tagCrypto(trade: Trade): Trade {
   const crypto = trade.isCrypto || isCryptoTrade(trade.ticker, trade.asset)
+  if (!crypto) return { ...trade, isCrypto: false }
+  const info = getCryptoInfo(trade.ticker, trade.asset)
   return {
     ...trade,
-    isCrypto: crypto,
-    cryptoCategory: crypto && trade.ticker ? (CRYPTO_CATEGORIES[trade.ticker.toUpperCase()] || trade.ticker) : undefined,
+    isCrypto: true,
+    cryptoTier: info?.tier || 'direct',
+    cryptoCategory: info?.category || trade.ticker || 'Unknown',
   }
 }
 
@@ -183,8 +230,14 @@ export async function GET(request: Request) {
   let totalBuys = 0, totalSells = 0
 
   // Crypto stats
-  const cryptoTickers: Record<string, { buys: number; sells: number; buyAmt: number; sellAmt: number; category: string }> = {}
-  const cryptoTraders: Record<string, { buys: number; sells: number; buyAmt: number; sellAmt: number; total: number; tickers: Set<string> }> = {}
+  const cryptoTickers: Record<string, { buys: number; sells: number; buyAmt: number; sellAmt: number; category: string; tier: CryptoTier }> = {}
+  const cryptoTraders: Record<string, { buys: number; sells: number; buyAmt: number; sellAmt: number; total: number; tickers: Set<string>; tiers: Set<CryptoTier> }> = {}
+  const tierStats: Record<CryptoTier, { trades: number; buyAmt: number; sellAmt: number }> = {
+    direct: { trades: 0, buyAmt: 0, sellAmt: 0 },
+    etf: { trades: 0, buyAmt: 0, sellAmt: 0 },
+    company: { trades: 0, buyAmt: 0, sellAmt: 0 },
+    adjacent: { trades: 0, buyAmt: 0, sellAmt: 0 },
+  }
   let cryptoBuys = 0, cryptoSells = 0, cryptoBuyAmt = 0, cryptoSellAmt = 0
 
   for (const t of trades) {
@@ -206,16 +259,23 @@ export async function GET(request: Request) {
 
     // Crypto tracking
     if (t.isCrypto && t.ticker) {
-      if (!cryptoTickers[t.ticker]) cryptoTickers[t.ticker] = { buys: 0, sells: 0, buyAmt: 0, sellAmt: 0, category: t.cryptoCategory || t.ticker }
+      const tier = t.cryptoTier || 'direct'
+      if (!cryptoTickers[t.ticker]) cryptoTickers[t.ticker] = { buys: 0, sells: 0, buyAmt: 0, sellAmt: 0, category: t.cryptoCategory || t.ticker, tier }
       const ct = cryptoTickers[t.ticker]
       const amt = t.amount.max || t.amount.min || 0
       if (t.type === "Purchase") { ct.buys++; ct.buyAmt += amt; cryptoBuys++; cryptoBuyAmt += amt }
       else if (t.type === "Sale") { ct.sells++; ct.sellAmt += amt; cryptoSells++; cryptoSellAmt += amt }
 
-      if (!cryptoTraders[t.politician]) cryptoTraders[t.politician] = { buys: 0, sells: 0, buyAmt: 0, sellAmt: 0, total: 0, tickers: new Set() }
+      // Tier stats
+      tierStats[tier].trades++
+      if (t.type === "Purchase") tierStats[tier].buyAmt += amt
+      else if (t.type === "Sale") tierStats[tier].sellAmt += amt
+
+      if (!cryptoTraders[t.politician]) cryptoTraders[t.politician] = { buys: 0, sells: 0, buyAmt: 0, sellAmt: 0, total: 0, tickers: new Set(), tiers: new Set() }
       const cp = cryptoTraders[t.politician]
       cp.total++
       cp.tickers.add(t.ticker)
+      cp.tiers.add(tier)
       if (t.type === "Purchase") { cp.buys++; cp.buyAmt += amt }
       else if (t.type === "Sale") { cp.sells++; cp.sellAmt += amt }
     }
@@ -254,7 +314,7 @@ export async function GET(request: Request) {
 
   // Crypto top traders (serialize Sets)
   const topCryptoTraders = Object.entries(cryptoTraders)
-    .map(([name, data]) => ({ name, buys: data.buys, sells: data.sells, buyAmt: data.buyAmt, sellAmt: data.sellAmt, total: data.total, tickers: [...data.tickers] }))
+    .map(([name, data]) => ({ name, buys: data.buys, sells: data.sells, buyAmt: data.buyAmt, sellAmt: data.sellAmt, total: data.total, tickers: [...data.tickers], tiers: [...data.tiers] }))
     .sort((a, b) => (b.buyAmt + b.sellAmt) - (a.buyAmt + a.sellAmt))
 
   return NextResponse.json({
@@ -279,6 +339,7 @@ export async function GET(request: Request) {
       uniqueTraders: Object.keys(cryptoTraders).length,
       topTickers: topCryptoTickers,
       topTraders: topCryptoTraders,
+      tiers: tierStats,
     },
     sources: {
       current: currentExists,
