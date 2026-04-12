@@ -22,8 +22,39 @@ known-gaps:
   - "No legislative record"
   - "No voting record"
   - "No mapped relationships"
+ofac-sdn-match: "true"
+last-enriched: "2026-04-12"
+ofac-programs:
+  - "SDNTK"
+  - "VENEZUELA"
+  - "ILLICIT-DRUGS-EO14059"
 ---
 
 # Pablo Jose Hernandez
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+### OFAC Sanctions Screening
+<!-- auto:ofac-sdn start -->
+| Metric | Value |
+|--------|-------|
+| SDN List Status | **Match found** |
+| Match Quality | Fuzzy match (token overlap) |
+| SDN Records Matched | 6 |
+| Sanctions Programs | SDNTK, VENEZUELA, ILLICIT-DRUGS-EO14059 |
+| Entity Types | individual |
+
+**Matched SDN entries:**
+- WIDOBLO HERNANDEZ, Jose (individual) [SDNTK]
+  - Remarks: DOB 10 Apr 1952; POB Mexico City, Distrito Federal, Mexico; nationality Mexico; citizen Mexico; Passport 99400004049 (Mexico); C.U.R.P. WIHJ520410HDFDRS02 (Mexico).
+- MORON HERNANDEZ, Santiago Jose (individual) [VENEZUELA]
+  - Remarks: DOB 11 May 1984; POB Venezuela; nationality Venezuela; Gender Male; Cedula No. V-16586012 (Venezuela); Passport 045751099 (Venezuela); alt. Passport 153166637; Identification Number D19807013 (Venezue...
+- MORON HERNANDEZ, Ricardo Jose (individual) [VENEZUELA]
+  - Remarks: DOB 19 Dec 1982; POB Venezuela; nationality Venezuela; Gender Male; Cedula No. V-15809729 (Venezuela); Identification Number Z14040390 (Venezuela).
+- DEMOYA HERNANDEZ, Jose Miguel (individual) [ILLICIT-DRUGS-EO14059]
+  - Remarks: DOB 19 Sep 1984; nationality Colombia; Gender Male; Cedula No. 78115749 (Colombia); a.k.a. 'Chirimoya'.
+- RODRIGUEZ HERNANDEZ, Jose Saul (individual) [ILLICIT-DRUGS-EO14059]
+  - Remarks: DOB 05 Oct 1968; POB Oaxaca, Mexico; nationality Mexico; Gender Male; C.U.R.P. ROHS681005HOCDRL06 (Mexico).
+
+- [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1)
+<!-- auto:ofac-sdn end -->

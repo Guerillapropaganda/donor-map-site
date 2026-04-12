@@ -251,8 +251,8 @@ The "too big to fail" designation is the vault's clearest example of **Donor-Cla
 <!-- auto:influence-cross-ref end -->
 
 <!-- auto:influence-cross-ref pending-merge 2026-04-12 -->
-> [!attention] Fresh API data available - needs manual merge
-> Bot detected your edits to this section. New data below - fold in what's useful, then delete this block.
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 
 | Metric | Value |
 |--------|-------|
@@ -271,11 +271,11 @@ The "too big to fail" designation is the vault's clearest example of **Donor-Cla
 
 **Funded politicians:**
 
-- [[Barack Obama]] - lobbying: $9.8M
-- [[Joe Biden]] - lobbying: $9.8M
-- [[Cory Booker]] - lobbying: $9.8M
-- [[John Boehner]] (Finance) - lobbying: $9.8M
-- [[Paul Ryan]] (Finance) - lobbying: $9.8M
+- [[Barack Obama]] — lobbying: $9.8M
+- [[Joe Biden]] — lobbying: $9.8M
+- [[Cory Booker]] — lobbying: $9.8M
+- [[John Boehner]] (Finance) — lobbying: $9.8M
+- [[Paul Ryan]] (Finance) — lobbying: $9.8M
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-12.*
 
