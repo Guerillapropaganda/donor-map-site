@@ -1,227 +1,147 @@
 import { NextResponse } from "next/server"
-import { getLocalProfiles } from "@/lib/local-vault"
+import fs from "fs"
+import path from "path"
+import matter from "gray-matter"
+import { loadEdges } from "@/lib/relationships-store"
 
-interface FlowNode {
+interface MoneyNode {
   id: string
-  label: string
-  type: "donor" | "politician" | "committee" | "bill" | "lobbying-firm" | "pac"
+  name: string
+  type: string
   party?: string
-  amount?: string
-  meta?: Record<string, string>
+  sector?: string
+  degree: number
+  bothSides: boolean
 }
 
-interface FlowEdge {
+interface MoneyEdge {
   source: string
   target: string
-  label?: string
-  amount?: string
-  type: "funds" | "serves-on" | "sponsors" | "lobbies" | "contracts"
+  confidence: number
 }
 
-function parseWikilinks(value: string): string[] {
-  if (!value) return []
-  const matches = value.match(/\[\[([^\]]+)\]\]/g) || []
-  return matches.map((m) => {
-    const inner = m.replace("[[", "").replace("]]", "")
-    return inner.split("|").pop() || inner
-  })
-}
+let cache: { data: unknown; timestamp: number } | null = null
+const CACHE_TTL = 300_000
 
-export async function GET(request: Request) {
-  const { searchParams } = new URL(request.url)
-  const profileName = searchParams.get("profile")
+export async function GET() {
+  if (cache && Date.now() - cache.timestamp < CACHE_TTL) {
+    return NextResponse.json(cache.data)
+  }
 
   try {
-    const profiles = getLocalProfiles()
-    const nodes: FlowNode[] = []
-    const edges: FlowEdge[] = []
-    const nodeIds = new Set<string>()
+    const repoRoot = path.resolve(process.cwd(), "..")
+    const contentDir = path.join(repoRoot, "content")
 
-    const addNode = (node: FlowNode) => {
-      if (!nodeIds.has(node.id)) {
-        nodeIds.add(node.id)
-        nodes.push(node)
+    // Load all monetary edges from canonical store
+    const allEdges = loadEdges()
+    const monetaryEdges = allEdges.filter(e => e.type === "monetary" && e.status === "active")
+
+    // Quick profile metadata scan for type/party/sector
+    const profileMeta = new Map<string, { type: string; party?: string; sector?: string }>()
+    function walkMeta(dir: string, depth = 0) {
+      if (depth > 5) return
+      try {
+        for (const entry of fs.readdirSync(dir, { withFileTypes: true })) {
+          const full = path.join(dir, entry.name)
+          if (entry.isDirectory()) {
+            if (["Assets", "node_modules", ".obsidian", "Admin Notes", "Vault Maintenance", "Events"].includes(entry.name)) continue
+            walkMeta(full, depth + 1)
+          } else if (entry.name.endsWith(".md") && !entry.name.startsWith("index")) {
+            try {
+              const raw = fs.readFileSync(full, "utf-8")
+              const m = raw.match(/^---\n([\s\S]*?)\n---/)
+              if (!m) continue
+              const fm = require("js-yaml").load(m[1]) as Record<string, unknown>
+              const title = String(fm.title ?? entry.name.replace(".md", "")).replace(/^_/, "").replace(/\s*Master Profile.*/, "").trim()
+              const rel = path.relative(contentDir, full).replace(/\\/g, "/")
+              const folder = rel.split("/")[0]
+              let type = "unknown"
+              if (folder === "Politicians") type = "politician"
+              else if (folder.startsWith("Donors")) type = fm.type ? String(fm.type) : "donor"
+              else if (folder.startsWith("Think")) type = "think-tank"
+              else if (folder.startsWith("Lobbying")) type = "lobbying-firm"
+              else if (folder.includes("Media")) type = "media-profile"
+              profileMeta.set(title, {
+                type: String(fm.type ?? type),
+                party: fm.party ? String(fm.party) : undefined,
+                sector: fm.sector ? String(fm.sector) : undefined,
+              })
+            } catch { /* skip */ }
+          }
+        }
+      } catch { /* skip */ }
+    }
+    walkMeta(contentDir)
+
+    // Build graph
+    const nodeMap = new Map<string, MoneyNode>()
+    const edges: MoneyEdge[] = []
+
+    function ensureNode(name: string, edgeType?: string) {
+      if (!nodeMap.has(name)) {
+        const meta = profileMeta.get(name)
+        nodeMap.set(name, {
+          id: name, name,
+          type: meta?.type ?? edgeType ?? "unknown",
+          party: meta?.party, sector: meta?.sector,
+          degree: 0, bothSides: false,
+        })
       }
     }
 
-    if (profileName) {
-      // Single-profile money trail
-      const target = profiles.find(
-        (p) => p.title === profileName || p.title.replace(/^_/, "").replace(/ Master Profile$/, "") === profileName
-      )
-      if (!target) return NextResponse.json({ error: "Profile not found" }, { status: 404 })
+    for (const edge of monetaryEdges) {
+      ensureNode(edge.from, edge.from_type ?? undefined)
+      ensureNode(edge.to, edge.to_type ?? undefined)
+      nodeMap.get(edge.from)!.degree++
+      nodeMap.get(edge.to)!.degree++
+      edges.push({
+        source: edge.from,
+        target: edge.to,
+        confidence: edge.confidence ?? 0.5,
+      })
+    }
 
-      const cleanTitle = target.title.replace(/^_/, "").replace(/ Master Profile$/, "")
-
-      if (target.type === "politician") {
-        // Politician: show donors → politician → committees → bills
-        const polId = `pol:${cleanTitle}`
-        addNode({
-          id: polId,
-          label: cleanTitle,
-          type: "politician",
-          party: target.party,
-          amount: target.totalReceived || target.careerTotal,
-          meta: { chamber: target.chamber || "", state: target.state || "" },
-        })
-
-        // Donors
-        const donorNames = new Set<string>()
-        const topDonors = Array.isArray(target.topDonors) ? target.topDonors : []
-        for (const d of topDonors) donorNames.add(typeof d === "string" ? d : String(d))
-        if (target.donors) for (const d of parseWikilinks(target.donors)) donorNames.add(d)
-
-        for (const donorName of donorNames) {
-          const donorId = `donor:${donorName}`
-          const donorProfile = profiles.find(
-            (p) => p.title === donorName || p.title.replace(/^_/, "").replace(/ Master Profile$/, "") === donorName
-          )
-          addNode({
-            id: donorId,
-            label: donorName,
-            type: donorProfile?.type === "corporation" ? "pac" : "donor",
-            amount: donorProfile?.totalPoliticalSpend || donorProfile?.lobbyingSpend || undefined,
-          })
-          edges.push({ source: donorId, target: polId, type: "funds", label: "funds" })
-        }
-
-        // Committees
-        const committees = Array.isArray(target.committees) ? target.committees : []
-        for (const c of committees) {
-          const cName = typeof c === "string" ? c : String(c)
-          const cId = `committee:${cName}`
-          addNode({ id: cId, label: cName, type: "committee" })
-          edges.push({
-            source: polId,
-            target: cId,
-            type: "serves-on",
-            label: target.leadershipRoles ? "chairs/serves" : "serves on",
-          })
-        }
-
-        // Bills
-        if (target.billsSponsored && parseInt(String(target.billsSponsored)) > 0) {
-          const billId = `bills:${cleanTitle}`
-          addNode({
-            id: billId,
-            label: `${target.billsSponsored} Bills Sponsored`,
-            type: "bill",
-            meta: { cosponsored: String(target.billsCosponsored || 0) },
-          })
-          edges.push({ source: polId, target: billId, type: "sponsors", label: "sponsors" })
-        }
-      } else if (target.type === "donor" || target.type === "corporation") {
-        // Donor/Corp: show donor → politicians funded + lobbying
-        const donorId = `donor:${cleanTitle}`
-        addNode({
-          id: donorId,
-          label: cleanTitle,
-          type: target.type === "corporation" ? "pac" : "donor",
-          amount: target.totalPoliticalSpend || target.lobbyingSpend || undefined,
-          meta: { sector: target.sector || "" },
-        })
-
-        // Politicians funded
-        const funded: string[] = Array.isArray(target.politiciansFunded) ? [...target.politiciansFunded] : []
-        if (target.related) {
-          for (const r of parseWikilinks(target.related)) {
-            const rProfile = profiles.find(
-              (p) => p.title === r || p.title.replace(/^_/, "").replace(/ Master Profile$/, "") === r
-            )
-            if (rProfile?.type === "politician") funded.push(r)
-          }
-        }
-
-        for (const polName of [...new Set(funded)]) {
-          const pn = typeof polName === "string" ? polName : String(polName)
-          const polProfile = profiles.find(
-            (p) => p.title === pn || p.title.replace(/^_/, "").replace(/ Master Profile$/, "") === pn
-          )
-          const polId = `pol:${pn}`
-          addNode({
-            id: polId,
-            label: pn,
-            type: "politician",
-            party: polProfile?.party,
-          })
-          edges.push({ source: donorId, target: polId, type: "funds", label: "funds" })
-
-          // Add committees for each politician
-          const comms = Array.isArray(polProfile?.committees) ? polProfile.committees : []
-          for (const c of comms.slice(0, 3)) {
-            const cName = typeof c === "string" ? c : String(c)
-            const cId = `committee:${cName}`
-            addNode({ id: cId, label: cName, type: "committee" })
-            edges.push({ source: polId, target: cId, type: "serves-on", label: "serves on" })
-          }
-        }
-
-        // Lobbying spend
-        if (target.lobbyingSpend || target.lobbyingFilings) {
-          const lobbyId = `lobby:${cleanTitle}`
-          addNode({
-            id: lobbyId,
-            label: `Lobbying: ${target.lobbyingFilings || "?"} filings`,
-            type: "lobbying-firm",
-            amount: target.lobbyingSpend ? `$${Number(target.lobbyingSpend).toLocaleString()}` : undefined,
-          })
-          edges.push({ source: donorId, target: lobbyId, type: "lobbies", label: "spends on lobbying" })
-        }
-
-        // Federal contracts
-        if (target.federalContracts || target.federalAwardsTotal) {
-          const contractId = `contracts:${cleanTitle}`
-          addNode({
-            id: contractId,
-            label: `${target.federalContracts || "?"} Federal Contracts`,
-            type: "bill",
-            amount: target.federalAwardsTotal ? `$${Number(target.federalAwardsTotal).toLocaleString()}` : undefined,
-          })
-          edges.push({ source: donorId, target: contractId, type: "contracts", label: "receives contracts" })
+    // Both-sides detection: non-politician nodes funding both D and R
+    for (const [name, node] of nodeMap) {
+      if (node.type === "politician") continue
+      const parties = new Set<string>()
+      for (const e of edges) {
+        if (e.source === name) {
+          const t = nodeMap.get(e.target)
+          if (t?.party) parties.add(t.party)
         }
       }
-    } else {
-      // Overview: top both-sides donors
-      const donorToPols = new Map<string, { dems: string[]; reps: string[] }>()
-      for (const p of profiles) {
-        if (p.type !== "politician" || !p.party) continue
-        const donorNames = new Set<string>()
-        const topDonors = Array.isArray(p.topDonors) ? p.topDonors : []
-        for (const d of topDonors) donorNames.add(typeof d === "string" ? d : String(d))
-        if (p.donors) for (const d of parseWikilinks(p.donors)) donorNames.add(d)
-
-        for (const dn of donorNames) {
-          if (!donorToPols.has(dn)) donorToPols.set(dn, { dems: [], reps: [] })
-          const bucket = donorToPols.get(dn)!
-          const cleanName = p.title.replace(/^_/, "").replace(/ Master Profile$/, "")
-          if (p.party === "Democrat") bucket.dems.push(cleanName)
-          else if (p.party === "Republican") bucket.reps.push(cleanName)
-        }
-      }
-
-      // Top 15 both-sides donors
-      const bothSides = [...donorToPols.entries()]
-        .filter(([, v]) => v.dems.length > 0 && v.reps.length > 0)
-        .sort((a, b) => (b[1].dems.length + b[1].reps.length) - (a[1].dems.length + a[1].reps.length))
-        .slice(0, 15)
-
-      for (const [donorName, { dems, reps }] of bothSides) {
-        const donorId = `donor:${donorName}`
-        addNode({ id: donorId, label: donorName, type: "donor" })
-        for (const d of dems.slice(0, 5)) {
-          const polId = `pol:${d}`
-          addNode({ id: polId, label: d, type: "politician", party: "Democrat" })
-          edges.push({ source: donorId, target: polId, type: "funds" })
-        }
-        for (const r of reps.slice(0, 5)) {
-          const polId = `pol:${r}`
-          addNode({ id: polId, label: r, type: "politician", party: "Republican" })
-          edges.push({ source: donorId, target: polId, type: "funds" })
-        }
+      if (parties.has("Democrat") && parties.has("Republican")) {
+        node.bothSides = true
       }
     }
 
-    return NextResponse.json({ nodes, edges, profileCount: profiles.length })
+    const nodes = Array.from(nodeMap.values())
+    const bothSidesCount = nodes.filter(n => n.bothSides).length
+
+    // Sector breakdown
+    const sectorCounts: Record<string, number> = {}
+    for (const n of nodes) {
+      if (n.type !== "politician" && n.sector) {
+        sectorCounts[n.sector] = (sectorCounts[n.sector] || 0) + 1
+      }
+    }
+
+    const result = {
+      nodes,
+      edges,
+      stats: {
+        totalEdges: edges.length,
+        totalNodes: nodes.length,
+        totalDonors: nodes.filter(n => n.type !== "politician").length,
+        totalPoliticians: nodes.filter(n => n.type === "politician").length,
+        bothSidesCount,
+        topSectors: Object.entries(sectorCounts).sort((a, b) => b[1] - a[1]).slice(0, 10),
+      },
+    }
+
+    cache = { data: result, timestamp: Date.now() }
+    return NextResponse.json(result)
   } catch (error: unknown) {
     const msg = error instanceof Error ? error.message : "Unknown error"
     return NextResponse.json({ error: msg }, { status: 500 })
