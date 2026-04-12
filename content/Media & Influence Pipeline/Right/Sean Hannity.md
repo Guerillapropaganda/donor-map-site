@@ -106,7 +106,7 @@ Hannity's audience capture is uniquely institutional. Unlike independent media f
 | 2025-2026 | Smartmatic $2.7B lawsuit proceeds against Fox | Smartmatic, Fox Corp | $2.7B claimed | Second defamation wave; Hannity again better-positioned than departed Carlson |
 
 > [!money]
-> Hannity's financial architecture is uniquely layered: $25M Fox salary + $20M radio + $90M real estate, all reinforcing the same political agenda. His promotion of HUD policies while personally profiting from HUD-insured loans represents the clearest undisclosed conflict of interest in the vault's media pipeline. The real estate empire distinguishes Hannity from every other media figure profiled: he doesn't just broadcast policy — he profits from the policies he promotes. The ROI calculation runs both directions: Fox gets a reliable host, and Hannity gets a platform that protects his real estate interests from scrutiny.
+> Hannity's financial architecture is uniquely layered: $25M Fox salary + $20M radio + $90M real estate, all reinforcing the same political agenda. His promotion of HUD policies while personally profiting from HUD-insured loans represents the clearest undisclosed conflict of interest in the vault's media pipeline. The real estate empire distinguishes Hannity from every other media figure profiled: he doesn't just broadcast policy, he profits from the policies he promotes. The ROI calculation runs both directions: Fox gets a reliable host, and Hannity gets a platform that protects his real estate interests from scrutiny.
 
 ### Class Analysis
 
@@ -139,5 +139,5 @@ Hannity is the purest institutional media product in this vault, the Fox News eq
 - [Fox News: Sean Hannity and Ainsley Earhardt Engaged](https://www.foxnews.com/media/sean-hannity-ainsley-earhardt-engaged) (Tier 4) (Chrome verified 2026-03-27), self-reported engagement announcement; Trump congratulated on Truth Social
 - [Washington Post: Fox News, Dominion settle defamation lawsuit for $787.5 million](https://www.washingtonpost.com/media/2023/04/18/fox-news-dominion-settlement/) (Tier 2) (Chrome verified 2026-03-27). Dominion settlement; discovery texts revealed Hannity's private election fraud skepticism alongside Carlson/Ingraham
 
-> **Technical note:** The FEC API link returns raw JSON from the FEC government database. Sean Hannity shows zero federal political contributions — a $0 FEC record from a $45M/year earner with direct access to the White House and $90M in real estate held through shell companies. The absence is the data point: Hannity influences politics through media access, not through traceable donations.
+> **Technical note:** The FEC API link returns raw JSON from the FEC government database. Sean Hannity shows zero federal political contributions, a $0 FEC record from a $45M/year earner with direct access to the White House and $90M in real estate held through shell companies. The absence is the data point: Hannity influences politics through media access, not through traceable donations.
 

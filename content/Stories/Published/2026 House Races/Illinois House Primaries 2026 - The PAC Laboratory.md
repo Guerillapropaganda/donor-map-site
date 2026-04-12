@@ -73,7 +73,7 @@ This spending occurred in a state Democrats control, with no competitive general
 **Result:** Biss won the primary despite AIPAC opposition. [Illinois Results: Daniel Biss Beats Kat Abughazaleh in Blow to Left and AIPAC Alike - The Intercept](https://theintercept.com/2026/03/17/illinois-house-senate-primary-results-biss-abughazaleh/) (Tier 2)
 
 > [!contradiction]
-> AIPAC spent $5.8 million attacking Daniel Biss — the single largest expenditure by AIPAC-linked PACs in any Illinois race. Despite this overwhelming spending advantage, Biss won. The result suggests that massive independent expenditure spending is not deterministic, especially in a race where the opposing candidate has strong local credibility (Biss as Evanston mayor) and an independent media narrative (progressive Jewish critique of Israeli government).
+> AIPAC spent $5.8 million attacking Daniel Biss, the single largest expenditure by AIPAC-linked PACs in any Illinois race. Despite this overwhelming spending advantage, Biss won. The result suggests that massive independent expenditure spending is not deterministic, especially in a race where the opposing candidate has strong local credibility (Biss as Evanston mayor) and an independent media narrative (progressive Jewish critique of Israeli government).
 
 **Class Analysis:** Biss's victory demonstrates the limits of donor power in primaries. AIPAC's loss suggests that when:
 1. An incumbent has strong local standing

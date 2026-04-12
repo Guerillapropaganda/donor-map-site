@@ -61,7 +61,7 @@ The Washington Post's investigation found that Never Back Down had built an expe
 > **April–June 2023:** DeSantis formally enters race. Never Back Down raises $130M+. Donor class momentum builds.
 > **August 2023:** DeSantis polls begin declining. Trump's indictments, paradoxically, boost his polling among Republican primary voters.
 > **September 2023:** Griffin publicly announces he is sitting out the primary. States he doesn't understand the Disney strategy.
-> **November 2023:** Koch's AFP Action endorses [[_Nikki Haley Master Profile|Nikki Haley]] — $31M pledged. The Koch pivot is the clearest signal: the donor class's primary alternative is now Haley, not DeSantis.
+> **November 2023:** Koch's AFP Action endorses [[_Nikki Haley Master Profile|Nikki Haley]], $31M pledged. The Koch pivot is the clearest signal: the donor class's primary alternative is now Haley, not DeSantis.
 > **January 2024:** DeSantis finishes third in Iowa (11%). Drops out January 21. Endorses Trump same day.
 
 The timeline reveals the donor class's instrumental logic: they backed DeSantis as a vehicle for their policy preferences. When the vehicle proved unable to win, they switched vehicles. The money was always about the destination (deregulation, tax structure, judicial appointments), not the driver.
@@ -85,7 +85,7 @@ The donor class cannot:
 - Buy enthusiasm that voters must actually feel
 
 > [!contradiction]
-> The DeSantis campaign spent $2,263 per Iowa caucus vote. [[_Elizabeth Warren Master Profile|Elizabeth Warren]] raised 71% of her primary funds from small-dollar donors. The inverse structures produced the inverse outcomes: Warren built authentic grassroots energy; DeSantis built a donor-class infrastructure without a grassroots base. Neither won the nomination — but Warren competed seriously through Super Tuesday on grassroots money. DeSantis dropped out before New Hampshire on $158.5M in elite funding. The money alone could not manufacture the thing it was trying to buy.
+> The DeSantis campaign spent $2,263 per Iowa caucus vote. [[_Elizabeth Warren Master Profile|Elizabeth Warren]] raised 71% of her primary funds from small-dollar donors. The inverse structures produced the inverse outcomes: Warren built authentic grassroots energy; DeSantis built a donor-class infrastructure without a grassroots base. Neither won the nomination, but Warren competed seriously through Super Tuesday on grassroots money. DeSantis dropped out before New Hampshire on $158.5M in elite funding. The money alone could not manufacture the thing it was trying to buy.
 
 ---
 

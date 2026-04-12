@@ -61,7 +61,7 @@ Harris's signature initiative offered first-time nonviolent drug offenders an al
 - 10% truancy threshold before prosecution triggered
 
 > [!contradiction] Who Gets Prosecuted
-> In San Francisco under Harris's direct supervision, the truancy program was intervention-first with minimal prosecution. But the state law she authored was used by other counties — particularly Orange County — to jail parents, overwhelmingly poor mothers of color. Harris later expressed regret for how the law was applied elsewhere, but defended her SF approach. The pattern: reform rhetoric at the local level, punitive infrastructure at the state level, and no accountability for how the tool was used once it left her hands.
+> In San Francisco under Harris's direct supervision, the truancy program was intervention-first with minimal prosecution. But the state law she authored was used by other counties, particularly Orange County, to jail parents, overwhelmingly poor mothers of color. Harris later expressed regret for how the law was applied elsewhere, but defended her SF approach. The pattern: reform rhetoric at the local level, punitive infrastructure at the state level, and no accountability for how the tool was used once it left her hands.
 
 ---
 
@@ -69,10 +69,10 @@ Harris's signature initiative offered first-time nonviolent drug offenders an al
 
 #### The Mnuchin Transaction
 
-> [!money] Follow the Money — OneWest Bank
-> **2012:** California DOJ investigation finds OneWest Bank (CEO: Steve Mnuchin) engaged in "widespread misconduct" in foreclosures. Internal memo documents over 1,000 violations of foreclosure laws — backdating documents, violating notice and waiting period laws, rigging foreclosure auctions. By January 2013, OneWest had foreclosed on 35,000 California homes and was beginning foreclosure proceedings on 45,000 more. Prosecutors prepared a draft civil complaint and recommended filing a civil enforcement action.
+> [!money] Follow the Money. OneWest Bank
+> **2012:** California DOJ investigation finds OneWest Bank (CEO: Steve Mnuchin) engaged in "widespread misconduct" in foreclosures. Internal memo documents over 1,000 violations of foreclosure laws, backdating documents, violating notice and waiting period laws, rigging foreclosure auctions. By January 2013, OneWest had foreclosed on 35,000 California homes and was beginning foreclosure proceedings on 45,000 more. Prosecutors prepared a draft civil complaint and recommended filing a civil enforcement action.
 >
-> **Early 2013:** Harris declines to proceed. Two months after the memo was prepared, no public explanation offered. Her office later claimed OneWest's federal bank charter shielded it from state subpoenas — but the AG could have filed civil action regardless and chose not to.
+> **Early 2013:** Harris declines to proceed. Two months after the memo was prepared, no public explanation offered. Her office later claimed OneWest's federal bank charter shielded it from state subpoenas, but the AG could have filed civil action regardless and chose not to.
 >
 > **2016:** Mnuchin donates $2,000 to Harris's Senate campaign. Harris was the only Democrat running for national office to receive a Mnuchin donation that cycle.
 >
@@ -93,7 +93,7 @@ Harris negotiated California's share of the $25 billion national settlement with
 - Direct checks to foreclosure victims: $1,480 per family, roughly one month's rent in California
 
 > [!contradiction] The Settlement Math
-> Harris marketed this as "taking on the big banks" — her signature accomplishment as AG. Housing advocates criticized it as a fraction of actual damages. The banks collectively caused hundreds of billions in losses. They paid $25 billion total (national). The settlement functioned as a cost of doing business — the banks continued operations, homeowners received modest relief, and Harris got a campaign talking point. The banks viewed $25 billion as the price of regulatory peace.
+> Harris marketed this as "taking on the big banks", her signature accomplishment as AG. Housing advocates criticized it as a fraction of actual damages. The banks collectively caused hundreds of billions in losses. They paid $25 billion total (national). The settlement functioned as a cost of doing business, the banks continued operations, homeowners received modest relief, and Harris got a campaign talking point. The banks viewed $25 billion as the price of regulatory peace.
 
 #### Death Penalty. Defending the System
 

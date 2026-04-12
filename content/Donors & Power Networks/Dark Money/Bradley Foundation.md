@@ -91,30 +91,30 @@ The foundation's current president is Richard Graber. Gabe Conger, who heads the
 
 ### Who They Fund
 
-> [!money] Follow the Money — 2022 Annual Grant Breakdown
+> [!money] Follow the Money, 2022 Annual Grant Breakdown
 > **Total Bradley + Bradley Impact Fund combined: $86.4 million (2022)**
 >
 > **$32.5 million to right-wing litigation groups:**
-> - **America First Legal (AFL)** — $27.1 million (61% of AFL's entire 2022 budget). AFL is Stephen Miller's litigation factory challenging racial equity programs, LGBTQ protections, and voting rights.
-> - **Wisconsin Institute for Law & Liberty (WILL)** — $1.1 million (23% of WILL's 2022 budget). WILL is Bradley's state-level litigation arm, producing both right-wing legal challenges and school privatization research.
+> - **America First Legal (AFL)**, $27.1 million (61% of AFL's entire 2022 budget). AFL is Stephen Miller's litigation factory challenging racial equity programs, LGBTQ protections, and voting rights.
+> - **Wisconsin Institute for Law & Liberty (WILL)**, $1.1 million (23% of WILL's 2022 budget). WILL is Bradley's state-level litigation arm, producing both right-wing legal challenges and school privatization research.
 >
 > **$25.4 million to policy and advocacy groups:**
-> - State Policy Network affiliates — $7.5 million across 34 state chapters
-> - National Center for Public Policy Research — $1M+ (for "Free Enterprise Project" anti-ESG work)
-> - Freedom Foundation — $887,175 (national anti-union decertification, expanded to all 50 states in 2021)
-> - ALEC — $500,000 (model legislation pipeline)
-> - Heritage Foundation — $529,850 ($225K specifically for "Election Law Initiative and Legal Strategy Forums")
-> - Alliance Defending Freedom — $824,000 (anti-LGBTQ litigation)
-> - Conservative Partnership Institute — $862,310 (trains House Freedom Caucus members)
-> - Texas Public Policy Foundation — $451,350
-> - Independent Women's Forum — $305,000
+> - State Policy Network affiliates, $7.5 million across 34 state chapters
+> - National Center for Public Policy Research, $1M+ (for "Free Enterprise Project" anti-ESG work)
+> - Freedom Foundation, $887,175 (national anti-union decertification, expanded to all 50 states in 2021)
+> - ALEC, $500,000 (model legislation pipeline)
+> - Heritage Foundation, $529,850 ($225K specifically for "Election Law Initiative and Legal Strategy Forums")
+> - Alliance Defending Freedom, $824,000 (anti-LGBTQ litigation)
+> - Conservative Partnership Institute, $862,310 (trains House Freedom Caucus members)
+> - Texas Public Policy Foundation, $451,350
+> - Independent Women's Forum, $305,000
 >
 > **$9.8 million to right-wing media:**
-> - American Independent Media — $2.5 million
-> - Project Veritas — $1.8 million
+> - American Independent Media, $2.5 million
+> - Project Veritas, $1.8 million
 >
 > **$8.3 million to youth movement building:**
-> - Turning Point USA — $7.8 million (second-largest single recipient of all Bradley grants in 2022)
+> - Turning Point USA, $7.8 million (second-largest single recipient of all Bradley grants in 2022)
 >
 > **$10.3 million to higher education**
 
@@ -144,7 +144,7 @@ Bradley's most consequential long-term investment: funding the creation of Milwa
 **Outcome:** From fewer than 350 students in 1990 to **52,000 Wisconsin students** using vouchers today. The Milwaukee model was exported nationally, the DeVos school choice network in Michigan, Arizona's universal ESA program, and state-level voucher expansions in 2023-2024 all trace their intellectual DNA to Bradley's Milwaukee laboratory.
 
 > [!contradiction]
-> The Bradley Foundation was created to aid needy families in Milwaukee. Its flagship policy achievement redirected public education funding to private schools operating with minimal public accountability — 80% of Michigan charter schools (inspired by the Milwaukee model) are for-profit. The federal government denied Michigan a $45M Charter Schools Program grant specifically because of inadequate oversight. The foundation that claimed to help Milwaukee families built the infrastructure that helped privatize education in their city while systematically defunding the public school system those families depended on.
+> The Bradley Foundation was created to aid needy families in Milwaukee. Its flagship policy achievement redirected public education funding to private schools operating with minimal public accountability, 80% of Michigan charter schools (inspired by the Milwaukee model) are for-profit. The federal government denied Michigan a $45M Charter Schools Program grant specifically because of inadequate oversight. The foundation that claimed to help Milwaukee families built the infrastructure that helped privatize education in their city while systematically defunding the public school system those families depended on.
 
 ---
 
@@ -203,7 +203,7 @@ The prizes serve as signals to the conservative ecosystem: these are the intelle
 | 2023 | Wisconsin voucher rates increase in budget (Evers bargain) | Policy win | $9,874/K-8 student, $12,368/HS student in public funds | Decades of investment |
 
 > [!money] The ROI on Conservative Infrastructure
-> The Bradley Foundation has given $1.3 billion in grants since 1985. The policy outcomes — school voucher programs redirecting billions in annual public funds to private operators, the AFL litigation factory blocking equity programs, ALEC model legislation adopted in 30+ states, Janus v. AFSCME gutting public sector union revenues, the Milwaukee voucher model exported nationally — represent a return that dwarfs the investment. The Janus decision alone reduced SEIU Local 1000 dues revenues by 49% nationally. Every state that adopted right-to-work based on State Policy Network model legislation (partially Bradley-funded) generated permanent reductions in labor power. Bradley's $1.3B bought an infrastructure that generates ongoing ideological returns worth orders of magnitude more.
+> The Bradley Foundation has given $1.3 billion in grants since 1985. The policy outcomes, school voucher programs redirecting billions in annual public funds to private operators, the AFL litigation factory blocking equity programs, ALEC model legislation adopted in 30+ states, Janus v. AFSCME gutting public sector union revenues, the Milwaukee voucher model exported nationally, represent a return that dwarfs the investment. The Janus decision alone reduced SEIU Local 1000 dues revenues by 49% nationally. Every state that adopted right-to-work based on State Policy Network model legislation (partially Bradley-funded) generated permanent reductions in labor power. Bradley's $1.3B bought an infrastructure that generates ongoing ideological returns worth orders of magnitude more.
 
 ---
 
@@ -218,7 +218,7 @@ Bradley's school choice operation is the clearest example of the class mechanics
 The 2022 grant of $27.1 million to America First Legal, 61% of AFL's budget, represents Bradley choosing direct intervention: rather than funding think tanks that produce arguments, fund the litigation factory that attacks equity programs in court. This is the evolution of the conservative infrastructure model: from ideas to lawsuits, from intellectual influence to institutional sabotage.
 
 > [!contradiction]
-> Bradley presents itself as a philanthropic foundation supporting research and education. Its 2022 grants went to: Project Veritas ($1.8M — a disinformation operation under federal investigation), America First Legal ($27.1M — litigation challenging voting rights and racial equity), and Turning Point USA ($7.8M — a youth organization whose members participated in the January 6 events). The "philanthropy" subsidized by the charitable tax deduction funded the organizations dismantling democratic accountability mechanisms.
+> Bradley presents itself as a philanthropic foundation supporting research and education. Its 2022 grants went to: Project Veritas ($1.8M, a disinformation operation under federal investigation), America First Legal ($27.1M, litigation challenging voting rights and racial equity), and Turning Point USA ($7.8M, a youth organization whose members participated in the January 6 events). The "philanthropy" subsidized by the charitable tax deduction funded the organizations dismantling democratic accountability mechanisms.
 
 ---
 

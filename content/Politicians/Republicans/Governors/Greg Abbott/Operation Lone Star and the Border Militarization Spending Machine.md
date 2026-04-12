@@ -93,7 +93,7 @@ Abbott's Operation Lone Star is one variable among many. Whether the operation h
 Federal courts have examined Operation Lone Star in immigration cases. The findings: no documented evidence that the operation has reduced illegal migration patterns. The operation exists primarily as political theater and budget allocation mechanism, not as effective border enforcement.
 
 > [!contradiction]
-> Abbott markets Operation Lone Star as the nation's most aggressive border security operation. The actual evidence: 513,700 apprehensions claimed (most by federal agents, not Abbott's deployment); $11 billion+ spent; no documented reduction in migration patterns attributable to the operation. The operation performs border enforcement symbolically (troops visible, wire deployed, migrants bused away) without evidence of operational impact. The spectacle is the outcome. The ineffectiveness is not a failure — it is a feature.
+> Abbott markets Operation Lone Star as the nation's most aggressive border security operation. The actual evidence: 513,700 apprehensions claimed (most by federal agents, not Abbott's deployment); $11 billion+ spent; no documented reduction in migration patterns attributable to the operation. The operation performs border enforcement symbolically (troops visible, wire deployed, migrants bused away) without evidence of operational impact. The spectacle is the outcome. The ineffectiveness is not a failure, it is a feature.
 
 ---
 

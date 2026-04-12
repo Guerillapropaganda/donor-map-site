@@ -153,7 +153,7 @@ The Aspen Institute doesn't produce model legislation or traditional policy pape
 | Sep 2025 | Porterfield departure announced | N/A (leadership) | CEO stepping down summer 2026 after doubling revenue, tripling endowment, $300M capital campaign | Leadership transition during institutional crisis |
 
 > [!money]
-> The Aspen Institute's business model is selling access disguised as education. A $200K McKinsey sponsorship or a $500K Breakthrough Energy grant doesn't purchase a policy paper — it purchases a seat at the table where congressional members discuss policy off-the-record. The Congressional Program's "off-the-record" format is the key feature: it exempts these donor-politician interactions from the transparency that formal lobbying requires. The $32.6M in federal funding further embeds the Institute into the government apparatus it claims to independently advise.
+> The Aspen Institute's business model is selling access disguised as education. A $200K McKinsey sponsorship or a $500K Breakthrough Energy grant doesn't purchase a policy paper, it purchases a seat at the table where congressional members discuss policy off-the-record. The Congressional Program's "off-the-record" format is the key feature: it exempts these donor-politician interactions from the transparency that formal lobbying requires. The $32.6M in federal funding further embeds the Institute into the government apparatus it claims to independently advise.
 
 ---
 
@@ -196,7 +196,7 @@ The Aspen Institute's revolving door operates at the highest levels of governmen
 - *Congress → think tank, training next generation of bipartisan leaders in Aspen's worldview*
 
 > [!contradiction]
-> The Aspen Institute positions its Congressional Program as "free of special interests and lobbying," yet the Washington Free Beacon documented that trips bring together the Institute's corporate donors with the members of Congress who regulate those donors' industries — in off-the-record settings that evade lobbying disclosure requirements. The "non-lobbying" format is the feature, not the bug: it provides the access without the transparency.
+> The Aspen Institute positions its Congressional Program as "free of special interests and lobbying," yet the Washington Free Beacon documented that trips bring together the Institute's corporate donors with the members of Congress who regulate those donors' industries, in off-the-record settings that evade lobbying disclosure requirements. The "non-lobbying" format is the feature, not the bug: it provides the access without the transparency.
 
 ---
 
@@ -231,7 +231,7 @@ The $756M asset base and $444M annual revenue make the Aspen Institute more a in
 The Bezos endowment marks a new phase: institutional capture by a single mega-donor family. The Center for Rising Generations will operate for decades under the Bezos name, shaping educational policy with the worldview of the world's wealthiest family embedded in its founding charter. This is not merely a donation, it's a purchase of institutional permanence.
 
 > [!money]
-> The Aspen Institute is the billionaire consensus factory. Its $756M in assets doesn't buy policy papers — it buys the social infrastructure where the ruling class develops its shared worldview. The Congressional Program puts donors in rooms with the politicians who regulate them, off the record and off the disclosure books. The Ideas Festival creates the cultural context in which donor-class preferences are repackaged as bipartisan common sense. Every dollar spent at Aspen purchases not a specific policy outcome but something more valuable: the assumption that the people in the room are the people who should be making the decisions.
+> The Aspen Institute is the billionaire consensus factory. Its $756M in assets doesn't buy policy papers, it buys the social infrastructure where the ruling class develops its shared worldview. The Congressional Program puts donors in rooms with the politicians who regulate them, off the record and off the disclosure books. The Ideas Festival creates the cultural context in which donor-class preferences are repackaged as bipartisan common sense. Every dollar spent at Aspen purchases not a specific policy outcome but something more valuable: the assumption that the people in the room are the people who should be making the decisions.
 
 ---
 

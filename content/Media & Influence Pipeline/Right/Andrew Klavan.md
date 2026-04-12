@@ -51,7 +51,7 @@ Klavan's income derives from two institutional sources:
 No FEC individual contributions found. The FEC API returns 0 results for "KLAVAN, ANDREW" with no matches in contributor records. This confirms $0 personal political giving, consistent with the Daily Wire host pattern (Walsh: $0, Shapiro: $0, Knowles: $0, Boreing: $0). Klavan, like his Daily Wire colleagues, exercises political influence through content and institutional reach, not personal campaign finance.
 
 > [!money]
-> The entire Daily Wire A-roster shows $0 personal FEC footprint. This is not coincidence — it's structural. The Wilks Brothers don't need their hosts to make donations; they need them to produce content that serves donor-class political interests. Personal political giving would create a paper trail. Content produces deniability.
+> The entire Daily Wire A-roster shows $0 personal FEC footprint. This is not coincidence, it's structural. The Wilks Brothers don't need their hosts to make donations; they need them to produce content that serves donor-class political interests. Personal political giving would create a paper trail. Content produces deniability.
 
 - [FEC: Andrew Klavan individual contributions (0 results)](https://www.fec.gov/data/receipts/?contributor_name=KLAVAN%2C+ANDREW) (Tier 1)
 
@@ -128,7 +128,7 @@ Klavan's structural function for the donor class is **cultural legitimization**.
 The theological capitalism frame is central: Klavan's Christianity is not incidental to his politics but constitutive of it. The Wilks Brothers fund a theocratic media empire; Klavan provides the theological cover that makes this operation appear spiritually legitimate rather than nakedly political. His conversion memoir is, from the donor class's perspective, a more valuable asset than any policy white paper.
 
 > [!contradiction]
-> Klavan attended University of California, Berkeley — the symbolic center of American campus liberalism — and became conservative watching Reagan. He writes crime fiction where justice is restored and order prevails, then hosts a political commentary show where he argues that disorder is overwhelming America. The novelist who spent 40 years depicting a world where problems get solved works for a media operation whose business model depends on convincing audiences that problems are unsolvable without the correct political response.
+> Klavan attended University of California, Berkeley, the symbolic center of American campus liberalism, and became conservative watching Reagan. He writes crime fiction where justice is restored and order prevails, then hosts a political commentary show where he argues that disorder is overwhelming America. The novelist who spent 40 years depicting a world where problems get solved works for a media operation whose business model depends on convincing audiences that problems are unsolvable without the correct political response.
 
 ---
 
@@ -162,7 +162,7 @@ The theological capitalism frame is central: Klavan's Christianity is not incide
 | 2025 | *The Kingdom of Cain* nonfiction published | Klavan |, | Theological conservatism reframed as literary criticism; audience expansion |
 
 > [!money]
-> Klavan joined the Daily Wire the same year the Wilks Brothers' seed money was deployed and the year he published his conversion memoir. These are not coincidences. The theological capitalism operation — Wilks money funding Christian-aligned conservative media — needed a literary intellectual to provide credibility. Klavan provided exactly that, and his memoir provided the spiritual narrative to legitimize the project. Literary prestige converted directly into ideological infrastructure.
+> Klavan joined the Daily Wire the same year the Wilks Brothers' seed money was deployed and the year he published his conversion memoir. These are not coincidences. The theological capitalism operation. Wilks money funding Christian-aligned conservative media, needed a literary intellectual to provide credibility. Klavan provided exactly that, and his memoir provided the spiritual narrative to legitimize the project. Literary prestige converted directly into ideological infrastructure.
 
 ---
 

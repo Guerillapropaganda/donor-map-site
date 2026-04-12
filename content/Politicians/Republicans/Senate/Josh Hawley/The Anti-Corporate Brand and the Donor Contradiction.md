@@ -16,7 +16,7 @@ donors: [[Leonard Leo]]
 ### The Anti-Corporate Brand and the Donor Contradiction
 
 > [!money]
-> [[_Josh Hawley Master Profile|Josh Hawley]] wrote "The Tyranny of Big Tech" calling for breaking up Google, Facebook, and Amazon. He pledged to refuse corporate PAC donations. He positions himself as the Senate's anti-corporate populist. 77% of his individual donors are from outside Missouri. His top 2024 donor is Smead Capital Management — a $2 billion Seattle-based hedge fund. His book royalties generated $467,000 in 2021 alone. His wife is senior counsel at Alliance Defending Freedom — a $104 million Christian legal organization funded by conservative megadonors. The "anti-corporate populist" is funded by hedge funds, dark money networks, book deals, and his household's ties to the Christian right's donor class.
+> [[_Josh Hawley Master Profile|Josh Hawley]] wrote "The Tyranny of Big Tech" calling for breaking up Google, Facebook, and Amazon. He pledged to refuse corporate PAC donations. He positions himself as the Senate's anti-corporate populist. 77% of his individual donors are from outside Missouri. His top 2024 donor is Smead Capital Management, a $2 billion Seattle-based hedge fund. His book royalties generated $467,000 in 2021 alone. His wife is senior counsel at Alliance Defending Freedom, a $104 million Christian legal organization funded by conservative megadonors. The "anti-corporate populist" is funded by hedge funds, dark money networks, book deals, and his household's ties to the Christian right's donor class.
 
 ---
 

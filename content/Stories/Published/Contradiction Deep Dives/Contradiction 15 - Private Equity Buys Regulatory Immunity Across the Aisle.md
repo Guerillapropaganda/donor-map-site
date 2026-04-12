@@ -67,7 +67,7 @@ Her receipts:
 [FEC Candidate: Sinema Summary](https://www.fec.gov/data/candidate/H2AZ09019/) (Tier 1), [PBS News: Sinema Received Nearly $1 Million from Wall Street](https://www.pbs.org/newshour/politics/sinema-received-nearly-1-million-from-wall-street-while-killing-tax-hike-on-investors) (Tier 2), [More Perfect Union: Sinema PE Donations Keep Flowing](https://perfectunion.us/sinemas-private-equity-donations-keep-flowing-after-saving-tax-loophole/) (Tier 2)
 
 > [!money]
-> Two days after the IRA deal was announced, Blackstone hired Michael Shapiro — [[_Chuck Schumer Master Profile|Schumer's]] son-in-law — as Managing Director of Government Affairs. [Washington Free Beacon: PE Giant Taps Schumer's Son-in-Law as Lobbyist](https://freebeacon.com/democrats/private-equity-giant-taps-schumers-son-in-law-as-lobbyist/) (Tier 2)
+> Two days after the IRA deal was announced, Blackstone hired Michael Shapiro, [[_Chuck Schumer Master Profile|Schumer's]] son-in-law, as Managing Director of Government Affairs. [Washington Free Beacon: PE Giant Taps Schumer's Son-in-Law as Lobbyist](https://freebeacon.com/democrats/private-equity-giant-taps-schumers-son-in-law-as-lobbyist/) (Tier 2)
 
 Seven Democratic senators then voted with all Republicans to exempt PE from the IRA's 15% corporate minimum tax, a $35 billion gift: Sinema, Kelly, [[_Raphael Warnock Master Profile|Warnock]], [[_Jon Ossoff Master Profile|Ossoff]], Rosen, Cortez Masto, and Hassan. [Jacobin: Democratic Senators Wall Street Donors Private Equity](https://jacobin.com/2022/08/democratic-senators-wall-street-donors-private-equity) (Tier 2)
 
@@ -127,7 +127,7 @@ The carried interest loophole has survived every credible threat. Obama (2007–
 The loophole costs the Treasury $13–63 billion per decade depending on the scoring methodology. Schwarzman personally pocketed $78.4 million in carried interest at the preferential rate in 2020. The PE industry's investment in political protection, $627 million in a single cycle, returns thousands of percent annually.
 
 > [!contradiction]
-> Three presidents campaigned on closing carried interest. The House passed reform four times under Obama. Democrats controlled the Senate, the House, and the White House in 2022. The loophole survived because the money — not the rhetoric — determines the outcome. The donor always wins. The public always pays.
+> Three presidents campaigned on closing carried interest. The House passed reform four times under Obama. Democrats controlled the Senate, the House, and the White House in 2022. The loophole survived because the money, not the rhetoric, determines the outcome. The donor always wins. The public always pays.
 
 ---
 

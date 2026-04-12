@@ -28,7 +28,7 @@ The STOCK Act's core premise is straightforward: members of Congress with oversi
 In 2024, Tuberville was identified as one of at least 37 members of Congress trading defense stocks, disclosing between $63,007 and $245,000 worth of defense stock transactions, ranking as the seventh-most active defense stock trader in Congress among those with direct oversight authority.
 
 > [!money]
-> The STOCK Act was designed to close the information asymmetry between Congress members and ordinary investors. Tuberville's violations demonstrate that the asymmetry remains intact and the disclosure regime — even when violated — carries no meaningful enforcement consequences. The penalty for late STOCK Act disclosure is $200 per violation. On trades worth millions, this is not a deterrent; it is a rounding error.
+> The STOCK Act was designed to close the information asymmetry between Congress members and ordinary investors. Tuberville's violations demonstrate that the asymmetry remains intact and the disclosure regime, even when violated, carries no meaningful enforcement consequences. The penalty for late STOCK Act disclosure is $200 per violation. On trades worth millions, this is not a deterrent; it is a rounding error.
 
 ---
 
@@ -59,7 +59,7 @@ The comparison with Tuberville is instructive:
 The difference is not that Pelosi's trades were acceptable and Tuberville's were not, both illustrate the same structural failure. The difference is that Tuberville's violations occurred in an area where he had direct regulatory authority (Armed Services), in higher volume, with more systematic lateness, while receiving campaign donations from the same sector he was trading.
 
 > [!contradiction]
-> Tuberville ran on "draining the swamp" and outsider anti-establishment credibility. His STOCK Act violation record is worse, by volume, than most career politicians. The outsider brand provided cultural cover for behavior that the establishment politicians he criticized rarely matched in scale. The enforcement void that protects him is the same enforcement void that protects everyone else. He didn't change the swamp — he learned to use it faster.
+> Tuberville ran on "draining the swamp" and outsider anti-establishment credibility. His STOCK Act violation record is worse, by volume, than most career politicians. The outsider brand provided cultural cover for behavior that the establishment politicians he criticized rarely matched in scale. The enforcement void that protects him is the same enforcement void that protects everyone else. He didn't change the swamp, he learned to use it faster.
 
 ---
 

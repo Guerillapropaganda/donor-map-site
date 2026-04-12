@@ -16,7 +16,7 @@ donors: [[Peter Thiel]] · [[Marc Andreessen & Horowitz]]
 ### The Silicon Valley Billionaire Donor Map
 
 > [!money]
-> 25+ billionaires chose one candidate out of a 10-person field. 86% of all billionaire donations in the California governor's race flow to [[_Matt Mahan Master Profile|Matt Mahan]]. This is not organic support — it's a coordinated class investment. The tech billionaire class identified its preferred candidate and maxed out contributions within weeks of his announcement.
+> 25+ billionaires chose one candidate out of a 10-person field. 86% of all billionaire donations in the California governor's race flow to [[_Matt Mahan Master Profile|Matt Mahan]]. This is not organic support, it's a coordinated class investment. The tech billionaire class identified its preferred candidate and maxed out contributions within weeks of his announcement.
 
 ---
 
@@ -62,7 +62,7 @@ donors: [[Peter Thiel]] · [[Marc Andreessen & Horowitz]]
 > - **Villaraigosa:** Real estate developers, $6.1M
 > - **Swalwell:** Hollywood + [[SEIU - Service Employees International Union|SEIU]], $3.1M
 >
-> Mahan's donor base is the narrowest and wealthiest. His campaign represents the fewest people contributing the most money — the inverse of the democratic ideal his "common sense" rhetoric invokes.
+> Mahan's donor base is the narrowest and wealthiest. His campaign represents the fewest people contributing the most money, the inverse of the democratic ideal his "common sense" rhetoric invokes.
 
 ---
 
@@ -99,7 +99,7 @@ During Mahan's San Jose mayoral race, a $1.5 million independent committee purch
 ### The Class Analysis
 
 > [!money]
-> The Mahan donor map is the clearest example in California politics of a specific class buying a specific candidate. 25+ billionaires from the same industry, in the same region, funding the same person, who opposes the tax that would affect them personally. The transparency is almost refreshing — there's no dark money mystery here, no hidden donors, no complex PAC laundering. The tech billionaire class identified its interests (no wealth tax, light regulation, housing deregulation), found a candidate who shares those interests (because he came from their world), and funded him openly. The only question left is whether California voters will reward the transparency or punish the concentration.
+> The Mahan donor map is the clearest example in California politics of a specific class buying a specific candidate. 25+ billionaires from the same industry, in the same region, funding the same person, who opposes the tax that would affect them personally. The transparency is almost refreshing, there's no dark money mystery here, no hidden donors, no complex PAC laundering. The tech billionaire class identified its interests (no wealth tax, light regulation, housing deregulation), found a candidate who shares those interests (because he came from their world), and funded him openly. The only question left is whether California voters will reward the transparency or punish the concentration.
 
 ---
 

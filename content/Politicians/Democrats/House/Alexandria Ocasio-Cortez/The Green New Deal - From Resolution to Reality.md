@@ -26,7 +26,7 @@ The resolution called for a "10-year national mobilization" to:
 Key features: sweeping, popular with the progressive base, explicitly linked climate and economic justice, and entirely impossible under existing donor-class political constraints.
 
 > [!money]
-> The Green New Deal was never going to pass in 2019. What it did was set the terms of what transformational climate policy would look like — and establish AOC as the most prominent advocate for that vision. The fossil fuel industry, which spent $359 million on federal lobbying in 2019, immediately mobilized against it. The framing campaign was successful: the GND became associated with "socialism" and "abolishing cows" in mainstream media coverage rather than with its actual provisions.
+> The Green New Deal was never going to pass in 2019. What it did was set the terms of what transformational climate policy would look like, and establish AOC as the most prominent advocate for that vision. The fossil fuel industry, which spent $359 million on federal lobbying in 2019, immediately mobilized against it. The framing campaign was successful: the GND became associated with "socialism" and "abolishing cows" in mainstream media coverage rather than with its actual provisions.
 
 ---
 
@@ -51,7 +51,7 @@ When Biden took office with a Democratic trifecta, progressives including AOC at
 The strategy failed in September 2021 when nine centrist Democrats broke ranks and voted for the bipartisan infrastructure bill without waiting for reconciliation guarantees. AOC voted no. The Progressive Caucus ultimately capitulated.
 
 > [!contradiction]
-> The "hold the line" moment was the clearest demonstration of the donor-class constraint on progressive strategy. The centrist Democrats who broke the line — [[_Josh Gottheimer Master Profile|Josh Gottheimer]]'s Problem Solvers Caucus — were precisely the members most dependent on Wall Street and corporate donor funding. Their defection was not ideological; it was structural. They could not afford to anger the donor class by blocking the infrastructure bill. AOC, with her small-dollar base, could. But she was outvoted.
+> The "hold the line" moment was the clearest demonstration of the donor-class constraint on progressive strategy. The centrist Democrats who broke the line, [[_Josh Gottheimer Master Profile|Josh Gottheimer]]'s Problem Solvers Caucus, were precisely the members most dependent on Wall Street and corporate donor funding. Their defection was not ideological; it was structural. They could not afford to anger the donor class by blocking the infrastructure bill. AOC, with her small-dollar base, could. But she was outvoted.
 
 ---
 
@@ -73,7 +73,7 @@ The Inflation Reduction Act was passed in August 2022. It is the most significan
 **The AOC position:** AOC voted for the IRA. After years of holding out for transformational climate policy, she ultimately supported a bill that contained Manchin's fossil fuel guarantees.
 
 > [!money]
-> The IRA is framed as the "compromise" between transformational climate policy and political reality. But the "political reality" is the fossil fuel industry's funding of [[_Joe Manchin Master Profile|Joe Manchin]] and the Senate Democratic caucus. The IRA locked in both clean energy investment AND continued fossil fuel extraction — structurally preventing the phase-out that climate science requires. AOC's yes vote reflects the containment mechanism: the legislation is better than nothing, making a no vote appear obstructionist, but it forecloses the GND's vision by setting "the most we can do" at fossil-fuel-compatible incremental investment.
+> The IRA is framed as the "compromise" between transformational climate policy and political reality. But the "political reality" is the fossil fuel industry's funding of [[_Joe Manchin Master Profile|Joe Manchin]] and the Senate Democratic caucus. The IRA locked in both clean energy investment AND continued fossil fuel extraction, structurally preventing the phase-out that climate science requires. AOC's yes vote reflects the containment mechanism: the legislation is better than nothing, making a no vote appear obstructionist, but it forecloses the GND's vision by setting "the most we can do" at fossil-fuel-compatible incremental investment.
 
 ---
 

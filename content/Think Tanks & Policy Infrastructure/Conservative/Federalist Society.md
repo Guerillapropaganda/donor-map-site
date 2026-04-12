@@ -61,7 +61,7 @@ The Federalist Society's direct budget is modest by Washington standards, $22.5M
 | 47 separate foundation donors | ~$4M combined | 2018 | ProPublica 990 |
 
 > [!money]
-> [[DonorsTrust]] — the Koch-aligned donor-advised fund that legally shields contributor identities — provided over 25% of the Federalist Society's annual budget in 2017 ($5.5M of ~$20M). In 2022, the Society was DonorsTrust's single largest recipient at $4.3M, out of $134M total distributed. The chairman of DonorsTrust's board, Kimberly Dennis, simultaneously sits on the Federalist Society's board of visitors — creating a closed governance loop between the anonymous funding vehicle and the recipient organization.
+> [[DonorsTrust]], the Koch-aligned donor-advised fund that legally shields contributor identities, provided over 25% of the Federalist Society's annual budget in 2017 ($5.5M of ~$20M). In 2022, the Society was DonorsTrust's single largest recipient at $4.3M, out of $134M total distributed. The chairman of DonorsTrust's board, Kimberly Dennis, simultaneously sits on the Federalist Society's board of visitors, creating a closed governance loop between the anonymous funding vehicle and the recipient organization.
 
 **The Leo financial empire**, the real scale of the operation:
 
@@ -135,7 +135,7 @@ The Federalist Society's revolving door operates differently from traditional po
 OpenSecrets tracks 93 Federalist Society-connected individuals through the revolving door between the organization, government positions, and private sector roles.
 
 > [!contradiction]
-> The Federalist Society maintains that it has "no formal role in judicial selection" and exists solely for "education." Yet Leonard Leo — who ran the organization for decades — personally curated the Supreme Court nominee lists that Trump used, coordinated $44M+ in dark money spending on judicial confirmation campaigns through JCN, and simultaneously extracted $102M in consulting fees from his own dark money network through CRC Advisors. The "educational nonprofit" provides the intellectual veneer; the dark money network provides the power. The tax-exempt status subsidizes the entire operation.
+> The Federalist Society maintains that it has "no formal role in judicial selection" and exists solely for "education." Yet Leonard Leo, who ran the organization for decades, personally curated the Supreme Court nominee lists that Trump used, coordinated $44M+ in dark money spending on judicial confirmation campaigns through JCN, and simultaneously extracted $102M in consulting fees from his own dark money network through CRC Advisors. The "educational nonprofit" provides the intellectual veneer; the dark money network provides the power. The tax-exempt status subsidizes the entire operation.
 
 ---
 
@@ -155,7 +155,7 @@ OpenSecrets tracks 93 Federalist Society-connected individuals through the revol
 | 2024 | Loper Bright v. Raimondo | Decades of Chevron criticism cultivated at FedSoc events | Chevron deference eliminated, 40 years of regulatory authority gutted | 6-3 all FedSoc majority |
 
 > [!money]
-> The ROI calculation defies conventional measurement. The Federalist Society's direct budget is ~$22M/year. Leo's broader network has spent approximately $600M over two decades on judicial infrastructure. The policy returns: Chevron elimination shifts $100B+ in reduced regulatory costs to corporations over a decade. Dobbs, SFFA, Bruen, Citizens United — each represents a multi-billion-dollar structural transfer of power from public institutions to private capital. The donor class invested hundreds of millions in the judicial pipeline and received structural control of constitutional interpretation. No lobbying expenditure, no campaign contribution, no legislative strategy has ever produced comparable returns.
+> The ROI calculation defies conventional measurement. The Federalist Society's direct budget is ~$22M/year. Leo's broader network has spent approximately $600M over two decades on judicial infrastructure. The policy returns: Chevron elimination shifts $100B+ in reduced regulatory costs to corporations over a decade. Dobbs, SFFA, Bruen, Citizens United, each represents a multi-billion-dollar structural transfer of power from public institutions to private capital. The donor class invested hundreds of millions in the judicial pipeline and received structural control of constitutional interpretation. No lobbying expenditure, no campaign contribution, no legislative strategy has ever produced comparable returns.
 
 ### Trump 2.0, the pipeline continues despite the public rift:
 
@@ -182,7 +182,7 @@ In 2023, Washington, D.C. Attorney General Brian Schwalb launched an investigati
 Schwalb issued subpoenas to Leo-affiliated groups in mid-2023. Leo's legal team declined to produce records and held private meetings to push back against the investigation. The response from Congress was revealing: Republican House Judiciary Chairman Jim Jordan and Oversight Chairman James Comer launched a counter-investigation of Schwalb himself, threatening the D.C. AG with subpoenas for investigating a conservative operative, effectively using congressional power to shield a dark money network from legal accountability.
 
 > [!contradiction]
-> The congressional intervention reveals the structural protection mechanism: when a local prosecutor investigates dark money flows that benefit the conservative donor class, the politicians funded by that same donor class use their institutional power to investigate the investigator. Jordan and Comer — both recipients of support from conservative dark money networks — characterized Schwalb's investigation as "politically motivated" while simultaneously using their political positions to obstruct it. The investigation's outcome remains unresolved as of early 2026.
+> The congressional intervention reveals the structural protection mechanism: when a local prosecutor investigates dark money flows that benefit the conservative donor class, the politicians funded by that same donor class use their institutional power to investigate the investigator. Jordan and Comer, both recipients of support from conservative dark money networks, characterized Schwalb's investigation as "politically motivated" while simultaneously using their political positions to obstruct it. The investigation's outcome remains unresolved as of early 2026.
 
 ---
 

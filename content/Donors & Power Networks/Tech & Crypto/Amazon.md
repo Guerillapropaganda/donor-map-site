@@ -142,7 +142,7 @@ Amazon hired anti-union consultants at $3,000-3,200/day. Total Bessemer spending
 | 2022-12-31 | Total documented anti-union consulting spending through 2022 | $18.5M+ | LM-10 filings |
 
 > [!contradiction]
-> Amazon's corporate messaging promotes "employee voice" and "open door policy." Amazon spent $14.2 million in a single year (2022) on anti-union consultants — more than any other company in America. At Bessemer, the NLRB found Amazon violated federal labor law three separate times and ordered three separate elections. At Staten Island, Amazon illegally fired the lead organizer and called workers "thugs." The "open door" leads to a room full of union-busting lawyers billing $3,200 a day.
+> Amazon's corporate messaging promotes "employee voice" and "open door policy." Amazon spent $14.2 million in a single year (2022) on anti-union consultants, more than any other company in America. At Bessemer, the NLRB found Amazon violated federal labor law three separate times and ordered three separate elections. At Staten Island, Amazon illegally fired the lead organizer and called workers "thugs." The "open door" leads to a room full of union-busting lawyers billing $3,200 a day.
 
 ---
 
@@ -171,7 +171,7 @@ The NLRB gutting is Amazon's single most valuable policy outcome:
 - 31 Biden-era GC memos rescinded, including joint employer guidance
 
 > [!money]
-> Amazon's 771,000+ US warehouse workers earn a median of ~$35,000/year. Unionized warehouse workers typically earn 10-30% more with benefits. If Amazon's 771,000 warehouse workers unionized and received even a 15% wage increase, annual labor costs would rise by ~$4 billion. Amazon's $14.2 million anti-union consulting budget represents a 280x ROI if it prevents unionization across the workforce. The NLRB gutting — which Amazon didn't even have to pay for directly — provides the same protection for free.
+> Amazon's 771,000+ US warehouse workers earn a median of ~$35,000/year. Unionized warehouse workers typically earn 10-30% more with benefits. If Amazon's 771,000 warehouse workers unionized and received even a 15% wage increase, annual labor costs would rise by ~$4 billion. Amazon's $14.2 million anti-union consulting budget represents a 280x ROI if it prevents unionization across the workforce. The NLRB gutting, which Amazon didn't even have to pay for directly, provides the same protection for free.
 
 #### HQ2 Subsidy Extraction
 
@@ -308,15 +308,15 @@ Amazon is the most complete case study in the vault of how a single corporation 
 
 **Funded politicians:**
 
-- [[Donald Trump]] — lobbying: $42.1M
-- [[Amy Klobuchar]] (Antitrust (Judiciary), Judiciary, Agriculture) — lobbying: $42.1M
+- [[Donald Trump]] - lobbying: $42.1M
+- [[Amy Klobuchar]] (Antitrust (Judiciary), Judiciary, Agriculture) - lobbying: $42.1M
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-09.*
 <!-- auto:influence-cross-ref end -->
 
 <!-- auto:influence-cross-ref pending-merge 2026-04-12 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+> [!attention] Fresh API data available - needs manual merge
+> Bot detected your edits to this section. New data below - fold in what's useful, then delete this block.
 
 | Metric | Value |
 |--------|-------|
@@ -334,8 +334,8 @@ Amazon is the most complete case study in the vault of how a single corporation 
 
 **Funded politicians:**
 
-- [[Donald Trump]] — lobbying: $42.1M
-- [[Amy Klobuchar]] (Antitrust (Judiciary), Judiciary, Agriculture) — lobbying: $42.1M
+- [[Donald Trump]] - lobbying: $42.1M
+- [[Amy Klobuchar]] (Antitrust (Judiciary), Judiciary, Agriculture) - lobbying: $42.1M
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-12.*
 
@@ -411,12 +411,12 @@ Amazon is the most complete case study in the vault of how a single corporation 
 | Agencies | Antitrust Division, Employee Benefits Security Administration, Energy Department, Environmental Protection Agency, Export-Import Bank, Federal Communications Commission, Federal Energy Regulatory Commission, Federal Trade Commission +7 more |
 
 **Recent regulatory activity:**
-- [Joint Industry Plan; Order Approving an Amendment to the National Market System Plan Governing the Consolidated Audit Trail, as Modified by the Commission, To Further Reduce the Costs of the Consolidated Audit Trail](https://www.federalregister.gov/documents/2026/04/01/2026-06255/joint-industry-plan-order-approving-an-amendment-to-the-national-market-system-plan-governing-the) (2026-04-01) — Securities and Exchange Commission
-- [Privacy Act of 1974; System of Records](https://www.federalregister.gov/documents/2026/03/27/2026-05932/privacy-act-of-1974-system-of-records) (2026-03-27) — Export-Import Bank
-- [Privacy Act of 1974; System of Records](https://www.federalregister.gov/documents/2026/03/26/2026-05870/privacy-act-of-1974-system-of-records) (2026-03-26) — Environmental Protection Agency
-- [Actions Taken at the March 12, 2026 Meeting](https://www.federalregister.gov/documents/2026/03/25/2026-05822/actions-taken-at-the-march-12-2026-meeting) (2026-03-25) — Susquehanna River Basin Commission
-- [Rule Concerning the Use of Prenotification Negative Option Plans](https://www.federalregister.gov/documents/2026/03/13/2026-04952/rule-concerning-the-use-of-prenotification-negative-option-plans) (2026-03-13) — Federal Trade Commission
-- [Media Bureau Seeks Comment on Sports Broadcasting Practices and Marketplace Developments](https://www.federalregister.gov/documents/2026/03/04/2026-04286/media-bureau-seeks-comment-on-sports-broadcasting-practices-and-marketplace-developments) (2026-03-04) — Federal Communications Commission
+- [Joint Industry Plan; Order Approving an Amendment to the National Market System Plan Governing the Consolidated Audit Trail, as Modified by the Commission, To Further Reduce the Costs of the Consolidated Audit Trail](https://www.federalregister.gov/documents/2026/04/01/2026-06255/joint-industry-plan-order-approving-an-amendment-to-the-national-market-system-plan-governing-the) (2026-04-01) - Securities and Exchange Commission
+- [Privacy Act of 1974; System of Records](https://www.federalregister.gov/documents/2026/03/27/2026-05932/privacy-act-of-1974-system-of-records) (2026-03-27) - Export-Import Bank
+- [Privacy Act of 1974; System of Records](https://www.federalregister.gov/documents/2026/03/26/2026-05870/privacy-act-of-1974-system-of-records) (2026-03-26) - Environmental Protection Agency
+- [Actions Taken at the March 12, 2026 Meeting](https://www.federalregister.gov/documents/2026/03/25/2026-05822/actions-taken-at-the-march-12-2026-meeting) (2026-03-25) - Susquehanna River Basin Commission
+- [Rule Concerning the Use of Prenotification Negative Option Plans](https://www.federalregister.gov/documents/2026/03/13/2026-04952/rule-concerning-the-use-of-prenotification-negative-option-plans) (2026-03-13) - Federal Trade Commission
+- [Media Bureau Seeks Comment on Sports Broadcasting Practices and Marketplace Developments](https://www.federalregister.gov/documents/2026/03/04/2026-04286/media-bureau-seeks-comment-on-sports-broadcasting-practices-and-marketplace-developments) (2026-03-04) - Federal Communications Commission
 - ... and 791 more
 
 - [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Amazon%22) (Tier 1)
@@ -451,12 +451,12 @@ Amazon is the most complete case study in the vault of how a single corporation 
 
 **Recent recalls:**
 
-- [Children's Toys Recalled Due to Risk of Serious Injury or Death from Choking Hazard; Violates the Small Ball Ban; Sold on Amazon by Beestech](https://www.cpsc.gov/Recalls/26365) (2026-04-02) — The recalled spiral tower toy sets violate the mandatory standard for toys because they contain small balls and are intended for children under three years of age, posing a deadly choking hazard.
-- [Coluans Christmas Light-Up Rings Recalled Due to Risk of Serious Injury or Death from Battery Ingestion Hazard; Violates Mandatory Standard for Toys; Sold on Amazon by BUDI Official](https://www.cpsc.gov/Recalls/26369) (2026-04-02) — The recalled light-up rings violate the mandatory safety standard for toys because the battery compartment within the LED light ring contains button cell batteries that can be easily accessed by children. When button cell or coin batteries are swallowed, the ingested batteries can cause serious injuries, internal chemical burns and death.
-- [ELENKER Portable Bed Rails Recalled Due to Risk of Serious Injury or Death from Entrapment and Asphyxiation; Violates Mandatory Standard for Adult Portable Bed Rails; Sold on Amazon by Fuzhou Shiah...](https://www.cpsc.gov/Recalls/26374) (2026-04-02) — The recalled bed rails violate the mandatory standard for adult portable bed rails because when the bed rails are attached to a bed, users can become entrapped within the bed rail or between the bed rail and the side of the mattress, posing a serious entrapment hazard and risk of death by asphyxiation. In addition, the bed rails do not bear the required hazard warning labels.
-- [Gavoyeat Halloween Light-Up Rings Recalled Due to Risk of Serious Injury or Death from Battery Ingestion Hazard; Violates Mandatory Standard for Toys; Sold on Amazon by CSZWEICD](https://www.cpsc.gov/Recalls/26368) (2026-04-02) — The recalled light-up rings violate the mandatory safety standard for toys because the battery compartment within the LED light ring contains button cell batteries that can be easily accessed by children. When button cell or coin batteries are swallowed, the ingested batteries can cause serious injuries, internal chemical burns and death.
-- [Tuymec Minoxidil Hair Growth Spray Bottles Recalled Due to Risk of Serious Injury or Death from Child Poisoning; Violates Mandatory Standard for Child-Resistant Packaging; Sold on Amazon by DrHealB...](https://www.cpsc.gov/Recalls/26381) (2026-04-02) — The hair serum contains minoxidil, which must be in child-resistant packaging as required by the Poison Prevention Packaging Act. The hair serum's packaging is not child-resistant, posing a risk of serious injury or death from poisoning if the contents are swallowed by young children.
-- [MPINOI Adult Portable Bed Rails Recalled Due to Risk of Serious Injury or Death from Entrapment and Asphyxiation; Violate Mandatory Standard for Adult Portable Bed Rails; Sold on Amazon by Bioenrrty](https://www.cpsc.gov/Recalls/26350) (2026-03-26) — The recalled bed rails violate the mandatory standard for adult portable bed rails because users can become entrapped within the bed rail, or between the bed rail and the side of the mattress, posing a serious entrapment hazard and risk of death by asphyxiation. In addition, the bed rails do not bear the required hazard warning labels.
+- [Children's Toys Recalled Due to Risk of Serious Injury or Death from Choking Hazard; Violates the Small Ball Ban; Sold on Amazon by Beestech](https://www.cpsc.gov/Recalls/26365) (2026-04-02) - The recalled spiral tower toy sets violate the mandatory standard for toys because they contain small balls and are intended for children under three years of age, posing a deadly choking hazard.
+- [Coluans Christmas Light-Up Rings Recalled Due to Risk of Serious Injury or Death from Battery Ingestion Hazard; Violates Mandatory Standard for Toys; Sold on Amazon by BUDI Official](https://www.cpsc.gov/Recalls/26369) (2026-04-02) - The recalled light-up rings violate the mandatory safety standard for toys because the battery compartment within the LED light ring contains button cell batteries that can be easily accessed by children. When button cell or coin batteries are swallowed, the ingested batteries can cause serious injuries, internal chemical burns and death.
+- [ELENKER Portable Bed Rails Recalled Due to Risk of Serious Injury or Death from Entrapment and Asphyxiation; Violates Mandatory Standard for Adult Portable Bed Rails; Sold on Amazon by Fuzhou Shiah...](https://www.cpsc.gov/Recalls/26374) (2026-04-02) - The recalled bed rails violate the mandatory standard for adult portable bed rails because when the bed rails are attached to a bed, users can become entrapped within the bed rail or between the bed rail and the side of the mattress, posing a serious entrapment hazard and risk of death by asphyxiation. In addition, the bed rails do not bear the required hazard warning labels.
+- [Gavoyeat Halloween Light-Up Rings Recalled Due to Risk of Serious Injury or Death from Battery Ingestion Hazard; Violates Mandatory Standard for Toys; Sold on Amazon by CSZWEICD](https://www.cpsc.gov/Recalls/26368) (2026-04-02) - The recalled light-up rings violate the mandatory safety standard for toys because the battery compartment within the LED light ring contains button cell batteries that can be easily accessed by children. When button cell or coin batteries are swallowed, the ingested batteries can cause serious injuries, internal chemical burns and death.
+- [Tuymec Minoxidil Hair Growth Spray Bottles Recalled Due to Risk of Serious Injury or Death from Child Poisoning; Violates Mandatory Standard for Child-Resistant Packaging; Sold on Amazon by DrHealB...](https://www.cpsc.gov/Recalls/26381) (2026-04-02) - The hair serum contains minoxidil, which must be in child-resistant packaging as required by the Poison Prevention Packaging Act. The hair serum's packaging is not child-resistant, posing a risk of serious injury or death from poisoning if the contents are swallowed by young children.
+- [MPINOI Adult Portable Bed Rails Recalled Due to Risk of Serious Injury or Death from Entrapment and Asphyxiation; Violate Mandatory Standard for Adult Portable Bed Rails; Sold on Amazon by Bioenrrty](https://www.cpsc.gov/Recalls/26350) (2026-03-26) - The recalled bed rails violate the mandatory standard for adult portable bed rails because users can become entrapped within the bed rail, or between the bed rail and the side of the mattress, posing a serious entrapment hazard and risk of death by asphyxiation. In addition, the bed rails do not bear the required hazard warning labels.
 - ... and 278 more
 
 - [Source: CPSC SaferProducts](https://www.saferproducts.gov/PublicSearch?query=Amazon) (Tier 1)
@@ -471,12 +471,12 @@ Amazon is the most complete case study in the vault of how a single corporation 
 | Case Types | 820 Copyright, 830 Property Rights: Patent, 890 Other Statutory Actions |
 
 **Notable cases:**
-- Garvey v. The Campbell's Company (2026) — District Court, N.D. California
-- DANCO, LLC v. Hangzhou Great Star Industrial Co., Ltd. (2026) — District Court, N.D. Texas
-- Global Brother SRL v. Ting (2026) — District Court, D. Delaware
-- Wood v. Amazon.com Services, LLC (2026) — District Court, M.D. Tennessee
-- Leavell v. Amazon Fulfillment Center BOIS (2026) — District Court, D. Idaho
-- Baldacci v. Amazon.com (2026) — District Court, W.D. Washington
+- Garvey v. The Campbell's Company (2026) - District Court, N.D. California
+- DANCO, LLC v. Hangzhou Great Star Industrial Co., Ltd. (2026) - District Court, N.D. Texas
+- Global Brother SRL v. Ting (2026) - District Court, D. Delaware
+- Wood v. Amazon.com Services, LLC (2026) - District Court, M.D. Tennessee
+- Leavell v. Amazon Fulfillment Center BOIS (2026) - District Court, D. Idaho
+- Baldacci v. Amazon.com (2026) - District Court, W.D. Washington
 
 - [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Amazon%22&type=r) (Tier 1)
 <!-- auto:courtlistener-cases end -->

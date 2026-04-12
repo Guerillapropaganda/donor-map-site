@@ -61,7 +61,7 @@ Expanded religious liberty exemptions from anti-discrimination laws, abortion re
 Each victory expands the legal territory in which religious objections override anti-discrimination protections, building a constitutional framework that prioritizes religious liberty over civil rights.
 
 > [!money]
-> ADF's $100+ million annual budget funds the most effective conservative litigation operation in America: 15 Supreme Court victories that have reshaped constitutional law on religious liberty, abortion, and LGBTQ rights. The organization's legal strategy converts conservative Christian theology into constitutional doctrine through the federal court system — using the Federalist Society's judicial pipeline to ensure sympathetic judges hear ADF's cases. The ROI: $100 million annually in organizational spending has produced constitutional precedents that will shape American law for generations.
+> ADF's $100+ million annual budget funds the most effective conservative litigation operation in America: 15 Supreme Court victories that have reshaped constitutional law on religious liberty, abortion, and LGBTQ rights. The organization's legal strategy converts conservative Christian theology into constitutional doctrine through the federal court system, using the Federalist Society's judicial pipeline to ensure sympathetic judges hear ADF's cases. The ROI: $100 million annually in organizational spending has produced constitutional precedents that will shape American law for generations.
 
 ---
 

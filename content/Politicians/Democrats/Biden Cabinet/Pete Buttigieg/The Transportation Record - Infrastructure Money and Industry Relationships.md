@@ -38,7 +38,7 @@ The Biden administration's Infrastructure Investment and Jobs Act committed $1.2
 **The distributional question:** Infrastructure money flows through a specific set of industries: construction contractors, engineering firms, equipment manufacturers, financial intermediaries who handle bond issuance. These are also the industries that contribute to political campaigns. The infrastructure law didn't create new winner industries, it directed massive federal spending toward established industries that were already part of the Democratic donor class's base.
 
 > [!money]
-> The bipartisan infrastructure law is genuinely good public investment — America's infrastructure was underfunded for decades. But "good policy" and "donor class benefit" are not mutually exclusive. The construction and engineering industries are among the top political donors in the country. A Transportation Secretary who distributes $570 billion to these industries is serving both public need and donor interest simultaneously. The McKinsey framework presents this as win-win. The class analysis notes that the win is unevenly distributed: the infrastructure gets built, but the contracts, profits, and financial returns flow to the same donor networks that funded the campaign.
+> The bipartisan infrastructure law is genuinely good public investment. America's infrastructure was underfunded for decades. But "good policy" and "donor class benefit" are not mutually exclusive. The construction and engineering industries are among the top political donors in the country. A Transportation Secretary who distributes $570 billion to these industries is serving both public need and donor interest simultaneously. The McKinsey framework presents this as win-win. The class analysis notes that the win is unevenly distributed: the infrastructure gets built, but the contracts, profits, and financial returns flow to the same donor networks that funded the campaign.
 
 ---
 
@@ -62,7 +62,7 @@ Buttigieg's consumer protection record on airlines is his most defensible policy
 **The Nation's critique:** The Nation ran a piece titled "[[_Pete Buttigieg Master Profile|Pete Buttigieg]] Refuses to Reform a Dangerously Unsafe Airline Industry," specifically citing his handling of [[Boeing|Boeing]] safety failures (737 MAX crashes, door plug blowout on Alaska Airlines Flight 1282) as evidence of structural industry deference.
 
 > [!contradiction]
-> Buttigieg issued $164 million in fines and secured real consumer protections. He did not challenge the structural market concentration that makes airline consumer protection necessary in the first place — four airlines controlling the market means passengers have no exit option when airlines mistreat them. The consumer protection wins are real. The structural reform that would make them unnecessary is absent. This is the McKinsey pattern: optimize within existing constraints rather than challenge the constraints themselves.
+> Buttigieg issued $164 million in fines and secured real consumer protections. He did not challenge the structural market concentration that makes airline consumer protection necessary in the first place, four airlines controlling the market means passengers have no exit option when airlines mistreat them. The consumer protection wins are real. The structural reform that would make them unnecessary is absent. This is the McKinsey pattern: optimize within existing constraints rather than challenge the constraints themselves.
 
 ---
 
@@ -90,7 +90,7 @@ On February 3, 2023, a Norfolk Southern freight train derailed in East Palestine
 **One year later:** PBS reported that rail safety measures had stalled one year after the East Palestine disaster. The regulatory changes Buttigieg promised in the aftermath had not moved through Congress or the regulatory process.
 
 > [!quote]
-> Buttigieg on critics who said he only went to East Palestine because Trump had already visited: "Bulls—." His response to that specific criticism was defensively correct. His response to the underlying question — why did it take 20 days — was not.
+> Buttigieg on critics who said he only went to East Palestine because Trump had already visited: "Bulls, ." His response to that specific criticism was defensively correct. His response to the underlying question, why did it take 20 days, was not.
 
 ---
 

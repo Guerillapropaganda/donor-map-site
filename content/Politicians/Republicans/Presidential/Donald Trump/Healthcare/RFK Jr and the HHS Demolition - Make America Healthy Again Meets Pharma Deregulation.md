@@ -38,7 +38,7 @@ MAHA's stated philosophy is nutrition, exercise, and natural therapies as health
 Kennedy announced 10,000 HHS staff layoffs effective May 27, 2025, with 3,500 targeting FDA. Consolidated 28 HHS divisions into 15. Reorganized smaller agencies into new "Administration for a Healthy America." Cuts targeted policy, human resources, IT, procurement, and communications staff. Drug, medical device, and food reviewers exempt from cuts. FDA shrinking by nearly 20 percent. Peter Marks, FDA's top vaccine official, resigned March 28 citing disagreement with Kennedy, stating "truth and transparency are not desired by the Secretary."
 
 > [!quote]
-> Peter Marks resignation letter: "Truth and transparency are not desired by the Secretary." — March 28, 2025.
+> Peter Marks resignation letter: "Truth and transparency are not desired by the Secretary.". March 28, 2025.
 
 ### CDC Budget Cuts and Vaccine Program Impacts
 

@@ -23,11 +23,11 @@ Gun control advocacy in California is unusual because it is substantially funded
 
 > [!money]
 > **Michael Bloomberg's gun control funding:**
-> — Lifetime giving to gun control advocacy: $270+ million (since 2007)
-> — Everytown for Gun Safety launch: $50 million (2014)
-> — 2024 cycle: $115 million to Democratic causes (includes gun control but not limited to)
-> — Bloomberg's personal wealth: $104–109 billion
-> [Source: Capital Research Center / Wikipedia / 2024 news — Tier 2]
+>. Lifetime giving to gun control advocacy: $270+ million (since 2007)
+>. Everytown for Gun Safety launch: $50 million (2014)
+>, 2024 cycle: $115 million to Democratic causes (includes gun control but not limited to)
+>. Bloomberg's personal wealth: $104–109 billion
+> [Source: Capital Research Center / Wikipedia / 2024 news. Tier 2]
 
 Bloomberg's funding model is distinctive because it creates dependency. Organizations like Everytown for Gun Safety (which Bloomberg founded) and Giffords (which he funds substantially) have institutional capacity because Bloomberg funds them. Other sources of gun control advocacy exist (Moms Demand Action, Brady Campaign, March for Our Lives, Sandy Hook Promise) but the funding concentration around Bloomberg is clear.
 
@@ -41,11 +41,11 @@ Newsom has signed substantial gun control legislation. The record here is materi
 
 > [!money]
 > **Major gun control bills signed by Newsom:**
-> — AB 28 (2023) — 11% excise tax on firearms and ammunition, generating ~$160 million annually for school safety and violence reduction programs
-> — SB 2 (2023) — doubled training requirements for concealed carry permits; banned concealed carry in sensitive places (schools, parks, sporting events)
-> — Multiple other restrictions on firearm sales, background checks, age limits
-> — Total effect: California has the most restrictive gun laws in the United States
-> [Source: California Governor's Office / CNN / Congressional Sportsmen's Foundation — Tier 1]
+>. AB 28 (2023), 11% excise tax on firearms and ammunition, generating ~$160 million annually for school safety and violence reduction programs
+>. SB 2 (2023), doubled training requirements for concealed carry permits; banned concealed carry in sensitive places (schools, parks, sporting events)
+>. Multiple other restrictions on firearm sales, background checks, age limits
+>. Total effect: California has the most restrictive gun laws in the United States
+> [Source: California Governor's Office / CNN / Congressional Sportsmen's Foundation. Tier 1]
 
 This is not smoke and mirrors. AB 28 is the first-in-the-nation firearm excise tax. California gun restrictions are genuinely restrictive compared to the rest of the country. Newsom has signed them. This is a genuine policy win, particularly compared to federal policy (no national gun restrictions passed under Trump or Biden).
 
@@ -58,18 +58,18 @@ This is where the public safety donor network becomes analytically complex.
 
 > [!money]
 > **CCPOA contributions to Newsom:**
-> — $2.9 million total since governor inauguration (31% of all CCPOA spending)
-> — 2023 contract: $1B+/3-year
-> — 2025 contract: $600M/4-year
-> [Source: CalMatters — Tier 2]
+>, $2.9 million total since governor inauguration (31% of all CCPOA spending)
+>, 2023 contract: $1B+/3-year
+>, 2025 contract: $600M/4-year
+> [Source: CalMatters. Tier 2]
 
 > [!money]
 > **PORAC contributions to Newsom:**
-> — Direct: $47,100 (2022 campaign, with LAPPL)
-> — Collective law enforcement recall defense (2021): $2.1+ million
-> — PORAC Legal Defense Fund: $39–51 million in annual reserves, $20 million/year defending officers accused of misconduct
-> — Clean-record agreements hiding misconduct for 297+ officers across 163+ agencies
-> [Source: CalMatters / UC Berkeley — Tier 2]
+>. Direct: $47,100 (2022 campaign, with LAPPL)
+>. Collective law enforcement recall defense (2021): $2.1+ million
+>. PORAC Legal Defense Fund: $39–51 million in annual reserves, $20 million/year defending officers accused of misconduct
+>. Clean-record agreements hiding misconduct for 297+ officers across 163+ agencies
+> [Source: CalMatters / UC Berkeley. Tier 2]
 
 > [!contradiction]
 > **CCPOA and PORAC oppose crime reduction measures that would reduce police staffing (prison closures, pretrial release expansion) while simultaneously supporting gun control rhetoric. They present themselves as "public safety" organizations but their institutional interests are police power expansion, not crime reduction.** Gun control advocates like Bloomberg frame the issue as "preventing gun deaths." Law enforcement unions frame it as "supporting police." The two frames are compatible when the policy is an armature of police enforcement (restrictions on civilian gun ownership, police patrol, police arrests, police search authority). They diverge when the policy is crime reduction without police expansion (drug treatment instead of incarceration, community violence interruption instead of police presence, pretrial release instead of jail). Newsom's gun control record is strong. His record on police reform that would reduce police power while reducing crime is much weaker. The donor structure explains both: gun control does not threaten police unions; crime reduction does.

@@ -28,7 +28,7 @@ No FEC individual contributions found. The FEC API returns 0 results for "LEMON,
 - [FEC: Don Lemon individual contributions (0 results, $0.00)](https://www.fec.gov/data/receipts/?contributor_name=LEMON%2C+DON) (Tier 1)
 
 > [!money]
-> $0 FEC from a journalist who earned $4-6M/year at CNN, received a $24.5M exit settlement, and was offered $1.5M by Elon Musk for a single show deal. Lemon's political influence operates entirely through editorial positioning and, post-CNN, through activist visibility. The arrest at a Minnesota church protest represents a new mode of political engagement: direct action rather than campaign donations — something no other media figure in this vault has done.
+> $0 FEC from a journalist who earned $4-6M/year at CNN, received a $24.5M exit settlement, and was offered $1.5M by Elon Musk for a single show deal. Lemon's political influence operates entirely through editorial positioning and, post-CNN, through activist visibility. The arrest at a Minnesota church protest represents a new mode of political engagement: direct action rather than campaign donations, something no other media figure in this vault has done.
 
 ---
 
@@ -99,7 +99,7 @@ Lemon's trajectory reveals how institutional media shapes and then discards pers
 | Jan 30, 2026 | Arrested at Minnesota church anti-ICE protest | FBI, Trump admin | N/A | Transformation from commentator to activist; national press freedom story |
 
 > [!money]
-> Lemon's financial trajectory is uniquely volatile: $4-6M/year at CNN → $24.5M exit settlement → $1.5M Musk deal (voided) → YouTube ad revenue (unknown but significantly less). The $24.5M settlement is the largest documented media separation payment in this vault — more than double what CNN paid any comparable departure. The money bought Lemon's silence on CNN's internal problems while funding his independent transition. The Musk deal's collapse — $1.5M voided because Lemon asked hard questions — is the clearest demonstration that platform "partnerships" are conditional on editorial deference.
+> Lemon's financial trajectory is uniquely volatile: $4-6M/year at CNN → $24.5M exit settlement → $1.5M Musk deal (voided) → YouTube ad revenue (unknown but significantly less). The $24.5M settlement is the largest documented media separation payment in this vault, more than double what CNN paid any comparable departure. The money bought Lemon's silence on CNN's internal problems while funding his independent transition. The Musk deal's collapse, $1.5M voided because Lemon asked hard questions, is the clearest demonstration that platform "partnerships" are conditional on editorial deference.
 
 ### Class Analysis
 
@@ -127,5 +127,5 @@ The post-institutional phase is where Lemon becomes analytically interesting. Th
 - [Wikipedia: Don Lemon](https://en.wikipedia.org/wiki/Don_Lemon) (Tier 3) (Chrome verified 2026-03-26)
 - [FEC: Don Lemon individual contributions (0 results, $0.00)](https://www.fec.gov/data/receipts/?contributor_name=LEMON%2C+DON) (Tier 1)
 
-> **Technical note:** The FEC API link returns raw JSON from the FEC government database. Don Lemon shows zero federal political contributions — a $0 FEC record from a journalist who received $24.5M in a CNN separation settlement and earned $4-6M/year during his primetime tenure.
+> **Technical note:** The FEC API link returns raw JSON from the FEC government database. Don Lemon shows zero federal political contributions, a $0 FEC record from a journalist who received $24.5M in a CNN separation settlement and earned $4-6M/year during his primetime tenure.
 

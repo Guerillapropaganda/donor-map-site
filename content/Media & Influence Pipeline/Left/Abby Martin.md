@@ -48,7 +48,7 @@ No FEC individual contributions found. The FEC API returns 0 results for "MARTIN
 At estimated sub-$200K/yr income from crowdfunding and documentaries, zero FEC activity is consistent with independent left media figures who operate outside institutional political structures. Martin has never endorsed a major-party candidate since her disillusionment with the Kerry 2004 campaign.
 
 > [!money]
-> Zero FEC at low income is structurally different from zero FEC at high income (the Fox News pattern). Martin's $0 reflects genuine political independence — she has no institutional reason to avoid donations and no donor class to protect. Her 2004 Kerry campaign work was the last time she engaged with major-party politics. The absence of FEC activity is ideologically consistent, not strategically calculated.
+> Zero FEC at low income is structurally different from zero FEC at high income (the Fox News pattern). Martin's $0 reflects genuine political independence, she has no institutional reason to avoid donations and no donor class to protect. Her 2004 Kerry campaign work was the last time she engaged with major-party politics. The absence of FEC activity is ideologically consistent, not strategically calculated.
 
 - [FEC: Abby Martin individual contributions (0 results)](https://www.fec.gov/data/receipts/?contributor_name=MARTIN%2C+ABBY) (Tier 1)
 
@@ -111,7 +111,7 @@ The class analysis question is not whether Martin is "controlled" by her funders
 The anti-BDS lawsuit is the most consequential output of Martin's career for the donor class analysis: [[AIPAC - American Israel Public Affairs Committee|AIPAC]] and the [[Israel - Government Lobbying Operation|Israel lobby]] spent years passing anti-BDS laws in 30+ states. Martin's refusal to sign the Georgia pledge and the resulting federal court ruling that the law violated the First Amendment created a legal precedent that threatens the entire legislative architecture. The donor class (pro-Israel lobby organizations) invested in legislation; Martin's lawsuit produced a judicial check on that investment.
 
 > [!contradiction]
-> Martin's career embodies the left media paradox: genuine editorial independence funded by states with their own imperial interests (Russia, Venezuela), followed by genuine financial independence that limits reach and production capacity. The "independence" was always real; the question is whether independence from U.S. corporate media requires dependence on something else — and whether crowdfunding breaks that cycle or just reduces the scale.
+> Martin's career embodies the left media paradox: genuine editorial independence funded by states with their own imperial interests (Russia, Venezuela), followed by genuine financial independence that limits reach and production capacity. The "independence" was always real; the question is whether independence from U.S. corporate media requires dependence on something else, and whether crowdfunding breaks that cycle or just reduces the scale.
 
 ### Capture Architecture
 
@@ -135,7 +135,7 @@ The anti-BDS lawsuit is the most consequential output of Martin's career for the
 | 2025 | *Earth's Greatest Enemy* documentary released | Martin, Prysner | Crowdfunded | Environmental imperialism documentary; continued independent production |
 
 > [!money]
-> The timeline reveals the structural constraint on left anti-imperialist media: two state-funded platforms (RT, teleSUR), both terminated by geopolitical events (RT by Russia's Ukraine invasion fallout, teleSUR by U.S. sanctions). The shift to crowdfunding in 2018 represents genuine independence but at drastically reduced scale. The anti-BDS lawsuit (2020–2021) is the highest-impact output of Martin's career — a federal court precedent that cost the Israel lobby's legislative investment real legal ground. That this precedent came from a crowdfunded journalist, not a major media organization, is the class analysis in miniature.
+> The timeline reveals the structural constraint on left anti-imperialist media: two state-funded platforms (RT, teleSUR), both terminated by geopolitical events (RT by Russia's Ukraine invasion fallout, teleSUR by U.S. sanctions). The shift to crowdfunding in 2018 represents genuine independence but at drastically reduced scale. The anti-BDS lawsuit (2020–2021) is the highest-impact output of Martin's career, a federal court precedent that cost the Israel lobby's legislative investment real legal ground. That this precedent came from a crowdfunded journalist, not a major media organization, is the class analysis in miniature.
 
 ### Sources
 

@@ -22,9 +22,9 @@ The structure is instructive: no explicit quid pro quo, no smoking-gun email. In
 ### [[Blue Shield of California|Blue Shield of California]]
 
 > [!money]
-> Blue Shield gave $99,000+ to Newsom campaigns since 2010, and $2.7 million to the California Democratic Party since 2006 — including $1 million during the 2021 recall fight.
+> Blue Shield gave $99,000+ to Newsom campaigns since 2010, and $2.7 million to the California Democratic Party since 2006, including $1 million during the 2021 recall fight.
 >
-> In April 2020, Newsom appointed Blue Shield's CEO to co-lead the state's COVID testing task force. In February 2021, he awarded Blue Shield a no-bid contract worth up to $15 million to run vaccine distribution statewide. — CapRadio, February 2021.
+> In April 2020, Newsom appointed Blue Shield's CEO to co-lead the state's COVID testing task force. In February 2021, he awarded Blue Shield a no-bid contract worth up to $15 million to run vaccine distribution statewide.. CapRadio, February 2021.
 
 ---
 
@@ -32,7 +32,7 @@ The structure is instructive: no explicit quid pro quo, no smoking-gun email. In
 > [!money]
 > UnitedHealth gave $100,000 to Newsom's inaugural fund in 2019.
 >
-> During COVID, UnitedHealth received a no-bid contract worth up to $177 million for COVID testing and data tracking, followed by another $315 million contract through expedited bidding. They then contributed $31,000 to his reelection campaign and $100,000 to his ballot measure committee. — CapRadio, February 2021.
+> During COVID, UnitedHealth received a no-bid contract worth up to $177 million for COVID testing and data tracking, followed by another $315 million contract through expedited bidding. They then contributed $31,000 to his reelection campaign and $100,000 to his ballot measure committee.. CapRadio, February 2021.
 
 UnitedHealth's subsidiary OptumRx is one of the three largest pharmacy benefit managers (PBMs) in the country. Newsom vetoed PBM oversight legislation in September 2024. [See: [[Prescription Drug Pricing - PBM Veto Cycle]]]
 
@@ -44,7 +44,7 @@ Newsom and the companies denied wrongdoing. No investigation was opened. CapRadi
 This is the clearest documented example of the donor-contract cycle in Newsom's record. It also connects directly to his failure to advance single-payer: the same companies whose business model would have been eliminated under single-payer were the ones receiving COVID contracts and making ongoing campaign contributions. [See: [[Single-Payer Broken Promise]]]
 
 > [!contradiction]
-> Newsom campaigned and governed as a progressive on healthcare — his signature promise was single-payer, his public rhetoric emphasized putting "patients before profits." Yet the COVID contract awards reveal a contrary reality: the largest healthcare insurers in California, whose profit models would be eliminated under single-payer, received $492 million in public funds through no-bid and limited-bidder contracts. The apparent contradiction dissolves when understood through class analysis: Newsom's "progressive healthcare" positions and his simultaneous protection of insurer profits are not contradictory — they are the same donor-class strategy. The rhetoric and the money both serve capital.
+> Newsom campaigned and governed as a progressive on healthcare, his signature promise was single-payer, his public rhetoric emphasized putting "patients before profits." Yet the COVID contract awards reveal a contrary reality: the largest healthcare insurers in California, whose profit models would be eliminated under single-payer, received $492 million in public funds through no-bid and limited-bidder contracts. The apparent contradiction dissolves when understood through class analysis: Newsom's "progressive healthcare" positions and his simultaneous protection of insurer profits are not contradictory, they are the same donor-class strategy. The rhetoric and the money both serve capital.
 
 ### Analytical Patterns
 

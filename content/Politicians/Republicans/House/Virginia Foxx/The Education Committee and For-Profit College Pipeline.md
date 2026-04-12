@@ -28,7 +28,7 @@ Apollo Global Management's investment in APEI (parent of University of Phoenix) 
 The University of Phoenix, once the largest for-profit university in the country with 460,000 students, has faced FTC investigations, state attorney general lawsuits, and a $191 million FTC settlement for deceptive advertising. Foxx's deregulation efforts protect institutions like Phoenix from the accountability mechanisms that would constrain their extraction of federal student aid dollars.
 
 > [!money]
-> The for-profit college pipeline extracts approximately $30 billion annually in federal financial aid. Students borrow; schools collect; taxpayers absorb the defaults. Foxx's committee deregulation ensures the pipeline continues flowing. Apollo's $52,700 contribution to Foxx is the cost of maintaining access to billions in federal revenue. The return on investment is incalculable — not because it's small, but because the entire business model depends on the regulatory framework Foxx controls.
+> The for-profit college pipeline extracts approximately $30 billion annually in federal financial aid. Students borrow; schools collect; taxpayers absorb the defaults. Foxx's committee deregulation ensures the pipeline continues flowing. Apollo's $52,700 contribution to Foxx is the cost of maintaining access to billions in federal revenue. The return on investment is incalculable, not because it's small, but because the entire business model depends on the regulatory framework Foxx controls.
 
 ---
 

@@ -30,7 +30,7 @@ What the bill does: it requires drug manufacturers to notify HHS and submit a tr
 What the bill does not do: it does not cap prices, prohibit increases, or require manufacturers to justify prices already in place. Manufacturers retain full discretion to raise prices, they simply must disclose first.
 
 > [!contradiction]
-> Baldwin has introduced the FAIR Drug Pricing Act in four separate Congresses (2017, 2019, 2021, 2023). It passed the HELP Committee in May 2023 — the most progress it has made in six years of introduction — and never came to a full Senate floor vote. A transparency bill that requires disclosure but prohibits nothing is the structural ideal for pharmaceutical-adjacent HELP Committee fundraising: it generates populist press releases, shows constituent action, creates pharmaceutical industry friction (which polls well), and never threatens the actual pricing model. The legislation that keeps failing is the legislation that doesn't cap prices.
+> Baldwin has introduced the FAIR Drug Pricing Act in four separate Congresses (2017, 2019, 2021, 2023). It passed the HELP Committee in May 2023, the most progress it has made in six years of introduction, and never came to a full Senate floor vote. A transparency bill that requires disclosure but prohibits nothing is the structural ideal for pharmaceutical-adjacent HELP Committee fundraising: it generates populist press releases, shows constituent action, creates pharmaceutical industry friction (which polls well), and never threatens the actual pricing model. The legislation that keeps failing is the legislation that doesn't cap prices.
 
 ---
 

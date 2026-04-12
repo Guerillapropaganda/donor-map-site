@@ -75,7 +75,7 @@ Fowler did not hide this career path. She was transparent about her prior insura
 
 This is not fraud; it is the standard functioning of donor-class governance.
 
-> [!contradiction] **The Revolving Door as Legislative Architecture.** The person who wrote the ACA's Senate bill — Elizabeth Fowler — was a WellPoint VP before joining Baucus's staff and returned to Johnson & Johnson afterward. The insurance industry didn't lobby for favorable legislation from the outside; it wrote the legislation from the inside. The ACA was not a compromise between government and industry — it was industry self-regulation disguised as reform.
+> [!contradiction] **The Revolving Door as Legislative Architecture.** The person who wrote the ACA's Senate bill. Elizabeth Fowler, was a WellPoint VP before joining Baucus's staff and returned to Johnson & Johnson afterward. The insurance industry didn't lobby for favorable legislation from the outside; it wrote the legislation from the inside. The ACA was not a compromise between government and industry, it was industry self-regulation disguised as reform.
 
 ---
 

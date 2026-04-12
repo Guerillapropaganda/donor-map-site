@@ -120,7 +120,7 @@ CFR ranks sixth among all American think tanks in Pentagon contractor funding, b
 - Other: 16%
 
 > [!money]
-> The corporate membership structure is the institutional conflict of interest in plain sight. BlackRock, Goldman Sachs, ExxonMobil, JPMorgan Chase, and the major defense contractors aren't donating to CFR out of civic spirit — they're buying access to the institution that sets the intellectual parameters for American foreign policy. When CFR produces a report on financial regulation, China trade policy, energy security, or defense spending, the companies that funded it are in the room. The 3/5 transparency score on Think Tank Funding Tracker means the full donor list isn't public — the $2.4M from Pentagon contractors is the floor, not the ceiling.
+> The corporate membership structure is the institutional conflict of interest in plain sight. BlackRock, Goldman Sachs, ExxonMobil, JPMorgan Chase, and the major defense contractors aren't donating to CFR out of civic spirit, they're buying access to the institution that sets the intellectual parameters for American foreign policy. When CFR produces a report on financial regulation, China trade policy, energy security, or defense spending, the companies that funded it are in the room. The 3/5 transparency score on Think Tank Funding Tracker means the full donor list isn't public, the $2.4M from Pentagon contractors is the floor, not the ceiling.
 
 ---
 
@@ -205,7 +205,7 @@ CIA analyst → NSC Korea policy director → CFR Senior Fellow → arrested Jul
 Every CFR chairman for 50+ years has come from Wall Street's highest echelon. The "independent" foreign policy think tank has been chaired, continuously, by the people who run American finance.
 
 > [!contradiction]
-> CFR claims its funding policies "ensure intellectual independence and integrity." Donors "may not direct the outcome of any research." But the corporate membership structure — where Goldman Sachs, BlackRock, JPMorgan, ExxonMobil, and Lockheed Martin all pay for access and interaction with CFR's fellows — creates a selection pressure that doesn't require direct instruction. Fellows who produce research unwelcome to the donor class don't get promoted, don't get their task force reports funded, and don't get the government positions that flow through the CFR network. Independence doesn't require active suppression — it just requires the right people never getting hired in the first place.
+> CFR claims its funding policies "ensure intellectual independence and integrity." Donors "may not direct the outcome of any research." But the corporate membership structure, where Goldman Sachs, BlackRock, JPMorgan, ExxonMobil, and Lockheed Martin all pay for access and interaction with CFR's fellows, creates a selection pressure that doesn't require direct instruction. Fellows who produce research unwelcome to the donor class don't get promoted, don't get their task force reports funded, and don't get the government positions that flow through the CFR network. Independence doesn't require active suppression, it just requires the right people never getting hired in the first place.
 
 ---
 
@@ -238,7 +238,7 @@ The "centrist" or "nonpartisan" label obscures what the class composition reveal
 - **Idea Laundering:** Donors fund corporate membership → fellows produce research → research is cited in Congressional testimony by those same fellows as government officials → policy follows → donors benefit
 
 > [!contradiction]
-> In March 2026, Secretary of Defense Pete Hegseth announced the Pentagon would end Senior Service College Fellowships at 22 institutions — including CFR, Brookings, CNAS, Atlantic Council, CSIS, New America, and the Stimson Center — along with 13 elite universities including all Ivy League schools. In total, 93 military students enrolled in these programs would be redirected to institutions like Liberty University, Hillsdale College, and DOD-affiliated programs. The irony: CFR, the institution that has credentialed every CIA director, Secretary of Defense, and national security advisor for a century, is now deemed insufficiently rigorous by the defense establishment it helped build. The contradiction reveals CFR's actual position — it is the establishment's establishment, and when the establishment shifts (as it has under Trump 2.0), CFR's centrality becomes a liability rather than an asset.
+> In March 2026, Secretary of Defense Pete Hegseth announced the Pentagon would end Senior Service College Fellowships at 22 institutions, including CFR, Brookings, CNAS, Atlantic Council, CSIS, New America, and the Stimson Center, along with 13 elite universities including all Ivy League schools. In total, 93 military students enrolled in these programs would be redirected to institutions like Liberty University, Hillsdale College, and DOD-affiliated programs. The irony: CFR, the institution that has credentialed every CIA director, Secretary of Defense, and national security advisor for a century, is now deemed insufficiently rigorous by the defense establishment it helped build. The contradiction reveals CFR's actual position, it is the establishment's establishment, and when the establishment shifts (as it has under Trump 2.0), CFR's centrality becomes a liability rather than an asset.
 
 ---
 

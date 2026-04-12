@@ -28,7 +28,7 @@ Osborn's direct fundraising in 2024 showed strong numbers on the surface: over $
 However, geographic analysis reveals the illusion: of $1 million+ raised from individual donors, just four percent came from Nebraska residents. [Source: Free Beacon](https://freebeacon.com/elections/independent-nebraska-senate-candidate-dan-osborns-latest-financial-disclosures-show-nearly-400000-raised-from-roughly-200-donors-six-are-nebraskans/) (Tier 2). The majority came from California, New York, Massachusetts, and Washington, D.C. the exact geographic centers of Democratic wealth that Osborn rhetorically opposes as "special interests." The average $43.46 donation masks that these funds are funneled through [[ActBlue|ActBlue]], the Democratic Party's online fundraising platform, which bundles small donations from wealthy Democratic networks.
 
 > [!money]
-> Osborn raised $1,000,000+ in direct contributions (2024), but 96% came from out-of-state Democratic donors channeled through [[ActBlue|ActBlue]]. Only 4% came from Nebraska. This contradicts his "grassroots working class" narrative—his actual funding base is wealthy out-of-state Democrats.
+> Osborn raised $1,000,000+ in direct contributions (2024), but 96% came from out-of-state Democratic donors channeled through [[ActBlue|ActBlue]]. Only 4% came from Nebraska. This contradicts his "grassroots working class" narrative, his actual funding base is wealthy out-of-state Democrats.
 
 ### Tier 2: DSCC Direct Support
 

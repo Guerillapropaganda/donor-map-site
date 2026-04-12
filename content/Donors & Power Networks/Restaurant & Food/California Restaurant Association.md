@@ -98,8 +98,8 @@ CRA-PAC contributes to California legislators on both sides, with focus on labor
 **[[_Gavin Newsom Master Profile|Gavin Newsom]]**. No large direct CRA-PAC contributions to Newsom documented in available public records. The CRA's primary leverage was not direct contributions but the referendum threat, spending $71.7 million through the "Save Local Restaurants" coalition to qualify a referendum to repeal AB 257 as a bargaining chip. That threat produced the AB 1228 deal that removed joint liability. [See: [[FAST Act and the AB 1228 Deal]]]
 
 > [!money]
-> **The Referendum War Chest — $71.7 million:**
-> The "Save Local Restaurants" committee raised $71.7 million as of October 2023 to repeal AB 257. Top donors: Chipotle ($12.8M), In-N-Out ($12.8M), Chick-fil-A ($11.5M), McDonald's ($10M). The referendum was withdrawn on December 29, 2023 after the AB 1228 deal — $71.7 million spent not to win a vote but to negotiate from a position of strength. The $20/hr minimum wage was the concession; the removal of joint liability was the prize. [Source: Ballotpedia / CalMatters — Tier 1/2]
+> **The Referendum War Chest, $71.7 million:**
+> The "Save Local Restaurants" committee raised $71.7 million as of October 2023 to repeal AB 257. Top donors: Chipotle ($12.8M), In-N-Out ($12.8M), Chick-fil-A ($11.5M), McDonald's ($10M). The referendum was withdrawn on December 29, 2023 after the AB 1228 deal, $71.7 million spent not to win a vote but to negotiate from a position of strength. The $20/hr minimum wage was the concession; the removal of joint liability was the prize. [Source: Ballotpedia / CalMatters. Tier 1/2]
 
 **[[National Restaurant Association]]** (federal counterpart): $2.95 million in federal lobbying (2021). Coordinated with CRA on referendum campaign.
 

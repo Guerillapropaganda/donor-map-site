@@ -86,7 +86,7 @@ Fairshake, the crypto industry's super PAC, ended 2025 with $193 million, more t
 **2026 targets identified:** NY House Democrats Laura Gillen, Dan Goldman, and Ritchie Torres, all voted for the CLARITY Act (pro-crypto) and now face progressive primary challengers. Fairshake is positioning to defend them, spending against their primary opponents.
 
 > [!money]
-> **Both-Sides Illusion in action:** Fairshake funds both Protect Progress (D) and Defend American Jobs (R) simultaneously. Any Democrat who votes pro-crypto gets defended by Fairshake money; any Democrat who votes against gets targeted. The industry has effectively converted its super PAC into a cross-party enforcement mechanism — not an electoral strategy, but a legislative compliance system.
+> **Both-Sides Illusion in action:** Fairshake funds both Protect Progress (D) and Defend American Jobs (R) simultaneously. Any Democrat who votes pro-crypto gets defended by Fairshake money; any Democrat who votes against gets targeted. The industry has effectively converted its super PAC into a cross-party enforcement mechanism, not an electoral strategy, but a legislative compliance system.
 
 **Vault profiles to update:** [[Fairshake PAC]] (new node needed), [[Coinbase]], [[a16z - Andreessen Horowitz]]
 
@@ -114,7 +114,7 @@ A new super PAC, **Leading the Future**, was launched in August 2025 by AI indus
 > **Palantir co-founder Lonsdale is a founding donor of a $125M super PAC.** Palantir received $1.5B+ in government contracts in FY2025 (defense, ICE, DOGE-adjacent). This PAC is connected to the vault's existing Palantir lobbying research. A "federal AI regulatory framework" that Lonsdale's PAC is backing would almost certainly be written to advantage large AI incumbents over open-source alternatives.
 
 > [!contradiction]
-> **The "pro-regulation" framing is a deregulation play.** "National AI standards" preempting state laws means eliminating California's consumer AI protections — the same state rules that are stricter than anything Congress would pass. The industry is deploying "regulate us federally" as a weapon against state-level consumer protection.
+> **The "pro-regulation" framing is a deregulation play.** "National AI standards" preempting state laws means eliminating California's consumer AI protections, the same state rules that are stricter than anything Congress would pass. The industry is deploying "regulate us federally" as a weapon against state-level consumer protection.
 
 **Vault profiles to update:** [[Palantir Technologies]], [[Peter Thiel]] (Lonsdale connection)
 
@@ -149,7 +149,7 @@ Federal lobbying spending hit $5.08 billion in 2025, the first year to break $5 
 **Data centers / AI** drove the highest year-over-year growth, with "lawyers and lobbyists, defense, and agribusiness" sectors showing largest proportional increases.
 
 > [!money]
-> **Meta now tops Big Tech lobbying — surpassing Google for the first time.** Meta spent $26.29M vs. Google's ~$15.6M. This is directly connected to Zuckerberg's January 2025 Trump meeting and subsequent Meta donations to Trump's inaugural fund. The lobbying spending and the access strategy are the same operation.
+> **Meta now tops Big Tech lobbying, surpassing Google for the first time.** Meta spent $26.29M vs. Google's ~$15.6M. This is directly connected to Zuckerberg's January 2025 Trump meeting and subsequent Meta donations to Trump's inaugural fund. The lobbying spending and the access strategy are the same operation.
 
 **Vault profiles to update:** [[Meta - Facebook]], [[Google - Alphabet]], [[Blackstone Group]], [[US Chamber of Commerce]]
 
@@ -185,7 +185,7 @@ Peter Thiel resumed political giving in early 2025 after sitting out the 2024 cy
 > **Thiel simultaneously funds Speaker Johnson (establishment) and Club for Growth (which primaries establishment Republicans).** These appear contradictory but serve the same function: maximizing leverage across the GOP coalition. Johnson controls floor schedule; Club for Growth controls who gets primaried. Thiel has access to both enforcement levers.
 
 > [!money]
-> **$3M to kill California's billionaire wealth tax** is a direct Donor-Class Override at state level. The proposed 5% CA wealth tax would cost Thiel directly. He deployed a $3M lobbying investment to protect personal wealth from taxation — then continued making federal political donations. The ROI calculus: Thiel's net worth ~$15B; a 5% annual wealth tax on assets above a threshold could cost him hundreds of millions. $3M lobbying spend = indefinite protection.
+> **$3M to kill California's billionaire wealth tax** is a direct Donor-Class Override at state level. The proposed 5% CA wealth tax would cost Thiel directly. He deployed a $3M lobbying investment to protect personal wealth from taxation, then continued making federal political donations. The ROI calculus: Thiel's net worth ~$15B; a 5% annual wealth tax on assets above a threshold could cost him hundreds of millions. $3M lobbying spend = indefinite protection.
 
 **Vault profiles to update:** [[Peter Thiel]], [[Club for Growth Action]], [[_Mike Johnson Master Profile]]
 
@@ -233,7 +233,7 @@ Americans for Prosperity Action (AFP Action) raised $28.9M in 2025, with $6.5M f
 **AFP 2024 cycle total:** $130M+ in independent expenditures, one of the largest outside political spenders in 2024.
 
 > [!money]
-> **Donor-Class Override, documented:** The Koch network spent $28.9M in 2025 lobbying to kill healthcare subsidies that directly benefit working-class Americans in Republican districts. HSAs (the Koch alternative) primarily benefit higher-income workers who have disposable income to contribute. The beneficiary of killing ACA subsidies is the insurance industry and employers who prefer limited worker benefits — both core Koch network constituencies.
+> **Donor-Class Override, documented:** The Koch network spent $28.9M in 2025 lobbying to kill healthcare subsidies that directly benefit working-class Americans in Republican districts. HSAs (the Koch alternative) primarily benefit higher-income workers who have disposable income to contribute. The beneficiary of killing ACA subsidies is the insurance industry and employers who prefer limited worker benefits, both core Koch network constituencies.
 
 **Vault profiles to update:** [[Koch Network - Charles Koch]], [[Americans for Prosperity]]
 
@@ -276,7 +276,7 @@ LegiStorm tracked 866 individuals moving from Congress to lobbying in 2025, a re
 **Legislative response (likely DOA):** H.R. 3554 (Close the Revolving Door Act of 2025). Neguse + AOC sponsors, proposes lifetime lobbying ban for former members, 6-year cooling-off for staff. Senate companion ZOMBIE Act (Bennet). Both unlikely to advance in Republican-controlled Congress.
 
 > [!contradiction]
-> **The record revolving door year is not a bug — it's a feature of DOGE.** Musk brought private-sector tech workers into government without standard ethics guardrails, they cut agencies regulating their former employers, and are now positioned to move back to industry with inside knowledge. The DOGE-to-industry pipeline is the most accelerated revolving door instance in modern American political history.
+> **The record revolving door year is not a bug, it's a feature of DOGE.** Musk brought private-sector tech workers into government without standard ethics guardrails, they cut agencies regulating their former employers, and are now positioned to move back to industry with inside knowledge. The DOGE-to-industry pipeline is the most accelerated revolving door instance in modern American political history.
 
 **Vault profiles to update:** [[Elon Musk - Tesla SpaceX]], [[DOGE - Department of Government Efficiency]] (if exists)
 
@@ -298,7 +298,7 @@ Foris DAX (parent of Crypto.com exchange) was the single largest donor to MAGA I
 - 2025: SEC drops major crypto enforcement actions; CFTC leadership reshuffled
 
 > [!money]
-> **Donation-to-policy timing:** The crypto industry gave $288M+ to the 2026 midterms — more than double the 2024 cycle — after the Trump administration delivered regulatory rollback. This is the donation-to-outcome sequence in reverse: policy first, then payment. The payment structure ensures continued favorable treatment.
+> **Donation-to-policy timing:** The crypto industry gave $288M+ to the 2026 midterms, more than double the 2024 cycle, after the Trump administration delivered regulatory rollback. This is the donation-to-outcome sequence in reverse: policy first, then payment. The payment structure ensures continued favorable treatment.
 
 **Vault profiles to update:** [[Crypto.com / Foris DAX]] (new node needed), [[_Donald Trump Master Profile]]
 

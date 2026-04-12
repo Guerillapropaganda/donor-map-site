@@ -24,9 +24,9 @@ This is the class analysis complication on criminal justice: CCPOA is a labor un
 
 ### The Donations
 > [!money]
-> **$2.9 million total to Newsom since he became governor** — representing 31% of all CCPOA political spending since 2001. Per-cycle: ~$1.5M (2018 campaign), $1.75M (2021 anti-recall — the single largest state employee union contribution), $1M (2024 Prop 1). CCPOA has contributed heavily to California governors across both parties for decades — their strategy is access, not ideology. They give to whoever controls CDCR appointments and prison budget decisions.
+> **$2.9 million total to Newsom since he became governor**, representing 31% of all CCPOA political spending since 2001. Per-cycle: ~$1.5M (2018 campaign), $1.75M (2021 anti-recall, the single largest state employee union contribution), $1M (2024 Prop 1). CCPOA has contributed heavily to California governors across both parties for decades, their strategy is access, not ideology. They give to whoever controls CDCR appointments and prison budget decisions.
 >
-> What did $2.9 million buy? Two contracts worth $1.6 billion combined (2023: $1B+/3yr, 2025: $600M/4yr), overtime that grew from $491M (2019) to ~$600M (2024-25), and no structural reform to the system. [Source: CalMatters, July 2024 — Tier 2]
+> What did $2.9 million buy? Two contracts worth $1.6 billion combined (2023: $1B+/3yr, 2025: $600M/4yr), overtime that grew from $491M (2019) to ~$600M (2024-25), and no structural reform to the system. [Source: CalMatters, July 2024. Tier 2]
 
 ---
 
@@ -42,7 +42,7 @@ This is the class analysis complication on criminal justice: CCPOA is a labor un
 **Prop 36 (2024):** CCPOA contributed $300,000 in support of Prop 36, the tough-on-crime ballot measure that re-felonized certain repeat theft and drug offenses. Newsom publicly opposed it. It passed with 68% of the vote.
 
 > [!contradiction]
-> CCPOA gave Newsom $2.9 million. CCPOA also funded the ballot measure Newsom opposed. The union doesn't need the governor to agree with it on everything — it just needs him not to touch the contracts, the overtime, or the staffing structure. That's what the money buys. The policy fights happen at the ballot box. The institutional protection happens at the negotiating table.
+> CCPOA gave Newsom $2.9 million. CCPOA also funded the ballot measure Newsom opposed. The union doesn't need the governor to agree with it on everything, it just needs him not to touch the contracts, the overtime, or the staffing structure. That's what the money buys. The policy fights happen at the ballot box. The institutional protection happens at the negotiating table.
 
 ### What hasn't happened under Newsom:
 , No serious push for sentencing reform that would materially reduce the prison population
@@ -55,9 +55,9 @@ This is the class analysis complication on criminal justice: CCPOA is a labor un
 
 ### The Reform Ceiling
 > [!contradiction]
-> CCPOA's presence in Newsom's donor base creates a structural ceiling on how far he can push criminal justice reform. Any policy that meaningfully reduces incarceration — expanded parole, sentence reductions, drug decriminalization — reduces the prison population, which eventually reduces guard headcount and CCPOA's power. The governor who seriously pursued that agenda would face an institutional fight with one of his largest donors.
+> CCPOA's presence in Newsom's donor base creates a structural ceiling on how far he can push criminal justice reform. Any policy that meaningfully reduces incarceration, expanded parole, sentence reductions, drug decriminalization, reduces the prison population, which eventually reduces guard headcount and CCPOA's power. The governor who seriously pursued that agenda would face an institutional fight with one of his largest donors.
 >
-> Newsom's approach: symbolic reforms that don't threaten the population level. Death penalty moratorium — doesn't release anyone. Rhetoric about rehabilitation — doesn't close prisons. San Quentin transformation announcement — converts one facility while the system remains intact. The ceiling is visible in what he doesn't do as much as what he does.
+> Newsom's approach: symbolic reforms that don't threaten the population level. Death penalty moratorium, doesn't release anyone. Rhetoric about rehabilitation, doesn't close prisons. San Quentin transformation announcement, converts one facility while the system remains intact. The ceiling is visible in what he doesn't do as much as what he does.
 
 ---
 
@@ -105,7 +105,7 @@ The problem with mass incarceration is not that individual guards are bad people
 > [!contradiction]
 > Newsom's public positioning to progressive voters and criminal justice advocates: "I am committed to criminal justice reform, reducing incarceration, and making prisons more humane."
 >
-> Newsom's negotiating position with CCPOA: "I need your support, you need your members protected and paid well, and we can both win if we manage this carefully. You don't need the governor to agree with you on everything — you need him not to touch the contracts, the overtime, or the population."
+> Newsom's negotiating position with CCPOA: "I need your support, you need your members protected and paid well, and we can both win if we manage this carefully. You don't need the governor to agree with you on everything, you need him not to touch the contracts, the overtime, or the population."
 >
 > The resolution: Symbolic reforms (chokehold bans, investigation authority, rehabilitation announcement) combined with structural protection (no sentencing reform, no qualified immunity removal, massive contracts despite budget deficits). The progressive base gets policy announcements. CCPOA gets paid. The prison system gets bigger budgets. Everyone except imprisoned people and their families wins.
 

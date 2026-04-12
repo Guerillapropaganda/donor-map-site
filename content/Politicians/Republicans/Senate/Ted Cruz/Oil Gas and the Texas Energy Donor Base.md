@@ -16,7 +16,7 @@ donors: [[Koch Network - Charles Koch]] · [[Fossil Fuel Bloc]]
 ### Oil, Gas, and the Texas Energy Donor Base
 
 > [!money]
-> $4.8 million career from oil and gas — Cruz's largest donor sector and the defining financial relationship of his career. Texas produces more oil and gas than any other state. Cruz represents Texas. The alignment is structural: the state's dominant industry funds the senator who protects it. Every Cruz vote on climate, regulation, and energy policy is pre-purchased.
+> $4.8 million career from oil and gas. Cruz's largest donor sector and the defining financial relationship of his career. Texas produces more oil and gas than any other state. Cruz represents Texas. The alignment is structural: the state's dominant industry funds the senator who protects it. Every Cruz vote on climate, regulation, and energy policy is pre-purchased.
 
 ---
 
@@ -46,7 +46,7 @@ donors: [[Koch Network - Charles Koch]] · [[Fossil Fuel Bloc]]
 **Texas grid failure (February 2021):** During the Texas winter storm that killed 246+ people and left millions without power, Cruz flew to Cancún. The grid failure was partly caused by the deregulated energy market Cruz champions, the same deregulation his oil and gas donors demand. Cruz's response to the crisis: blame renewable energy (wind turbines), despite natural gas infrastructure failures causing the majority of lost generation capacity.
 
 > [!contradiction]
-> Cruz fled to Cancún while his constituents froze to death in homes without power — a grid failure caused by the deregulatory framework his donors fund him to maintain. The Cancún trip wasn't the scandal. The scandal is the policy framework: Texas's isolated, deregulated grid exists because energy companies profit from avoiding federal reliability standards. Cruz's donors built the system that failed. Cruz protects the system. His constituents die in it.
+> Cruz fled to Cancún while his constituents froze to death in homes without power, a grid failure caused by the deregulatory framework his donors fund him to maintain. The Cancún trip wasn't the scandal. The scandal is the policy framework: Texas's isolated, deregulated grid exists because energy companies profit from avoiding federal reliability standards. Cruz's donors built the system that failed. Cruz protects the system. His constituents die in it.
 
 ---
 

@@ -16,7 +16,7 @@ donors: [[Crypto Industry Bloc]]
 ### Majority Forward and the Democratic Dark Money Operation
 
 > [!money]
-> Majority Forward — the Democratic counterpart to McConnell's One Nation — raised $74 million in 2020 from anonymous donors. [[Senate Majority PAC|Senate Majority PAC]], its super PAC sister organization, spent $230M+ in the 2022 cycle. Together they form the largest Democratic dark money operation in America. Schumer's fingerprints are on both. The Democratic leader who denounces Citizens United on the Senate floor runs the same dark money architecture he claims to oppose.
+> Majority Forward, the Democratic counterpart to McConnell's One Nation, raised $74 million in 2020 from anonymous donors. [[Senate Majority PAC|Senate Majority PAC]], its super PAC sister organization, spent $230M+ in the 2022 cycle. Together they form the largest Democratic dark money operation in America. Schumer's fingerprints are on both. The Democratic leader who denounces Citizens United on the Senate floor runs the same dark money architecture he claims to oppose.
 
 ---
 
@@ -35,7 +35,7 @@ donors: [[Crypto Industry Bloc]]
 - Same office and leadership overlap as SMP
 
 > [!money]
-> The structural parallel to McConnell's SLF/One Nation is exact. Super PAC for disclosed spending, 501(c)(4) for anonymous money that gets passed through to the super PAC. Both parties built identical dark money architectures. The difference is rhetorical: McConnell openly celebrates Citizens United while Schumer publicly mourns it — then exploits the same system.
+> The structural parallel to McConnell's SLF/One Nation is exact. Super PAC for disclosed spending, 501(c)(4) for anonymous money that gets passed through to the super PAC. Both parties built identical dark money architectures. The difference is rhetorical: McConnell openly celebrates Citizens United while Schumer publicly mourns it, then exploits the same system.
 
 ---
 
@@ -46,7 +46,7 @@ donors: [[Crypto Industry Bloc]]
 **Schumer's operational position:** Raises hundreds of millions through the exact dark money infrastructure he publicly denounces. Majority Forward's anonymous donors get the same access and influence as One Nation's anonymous donors.
 
 > [!contradiction]
-> McConnell is honest about dark money — he considers it protected speech and says so. Schumer calls dark money a threat to democracy while running the largest Democratic dark money operation in the country. The hypocrisy is bipartisan in function but asymmetric in presentation. Both leaders serve their donor class through anonymous money. Only one pretends otherwise.
+> McConnell is honest about dark money, he considers it protected speech and says so. Schumer calls dark money a threat to democracy while running the largest Democratic dark money operation in the country. The hypocrisy is bipartisan in function but asymmetric in presentation. Both leaders serve their donor class through anonymous money. Only one pretends otherwise.
 
 ---
 

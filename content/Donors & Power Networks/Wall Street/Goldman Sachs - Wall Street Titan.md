@@ -27,7 +27,7 @@ The revolving door operates on two tracks simultaneously: Goldman places former 
 The Goldman alumni network includes Treasury Secretaries (Robert Rubin, Hank Paulson, Steve Mnuchin), National Economic Council directors (Gary Cohn, Gene Sperling), Federal Reserve officials, SEC chairs, and dozens of senior economic positions across every administration since 1993.
 
 > [!money]
-> Goldman Sachs's core political investment is not its PAC. It is the career pipeline it has built between its executive floors and the Treasury Department, the National Economic Council, the SEC, and the NSC. When a Goldman partner becomes Treasury Secretary, the bank doesn't need to lobby — it has a former partner writing the regulations. This has operated continuously through Clinton (Rubin), Bush (Paulson), Obama (Patterson), and Trump 1.0 (Mnuchin, Cohn, Bannon, Powell). The structural function is regulatory capture through personnel placement — the most sophisticated and durable form of political influence available to any corporation. In 2024, Goldman spent $2.74M on contributions and $2.74M on lobbying. The personnel pipeline is free.
+> Goldman Sachs's core political investment is not its PAC. It is the career pipeline it has built between its executive floors and the Treasury Department, the National Economic Council, the SEC, and the NSC. When a Goldman partner becomes Treasury Secretary, the bank doesn't need to lobby, it has a former partner writing the regulations. This has operated continuously through Clinton (Rubin), Bush (Paulson), Obama (Patterson), and Trump 1.0 (Mnuchin, Cohn, Bannon, Powell). The structural function is regulatory capture through personnel placement, the most sophisticated and durable form of political influence available to any corporation. In 2024, Goldman spent $2.74M on contributions and $2.74M on lobbying. The personnel pipeline is free.
 
 ---
 
@@ -106,7 +106,7 @@ Goldman led all full-service investment banks in revolving door rate in 2016, ah
 | 2024 | Goldman PAC + employees: $3.53M contributions, bipartisan | Goldman PAC, Goldman employees | $3,531,408 | Ranked 283 of 40,455 contributing orgs; top recipients McCormick (R) and Harris (D) |
 
 > [!money]
-> The temporal pattern across 30 years is structurally consistent: Goldman places an alumnus at Treasury or NEC → deregulation or favorable policy follows within months → Goldman monetizes the policy environment. Robert Rubin: Glass-Steagall repealed, derivatives deregulated → 2008 crisis generated massive Goldman profits until the collapse. Hank Paulson: administered the bailout that saved Goldman $12.9B. Gary Cohn: corporate tax cut produced an estimated $1B+ Goldman savings in year one. The revolving door's ROI is not speculative — it is documented in each case. Every $1M Goldman spends on political contributions and lobbying returns hundreds of millions in policy outcomes.
+> The temporal pattern across 30 years is structurally consistent: Goldman places an alumnus at Treasury or NEC → deregulation or favorable policy follows within months → Goldman monetizes the policy environment. Robert Rubin: Glass-Steagall repealed, derivatives deregulated → 2008 crisis generated massive Goldman profits until the collapse. Hank Paulson: administered the bailout that saved Goldman $12.9B. Gary Cohn: corporate tax cut produced an estimated $1B+ Goldman savings in year one. The revolving door's ROI is not speculative, it is documented in each case. Every $1M Goldman spends on political contributions and lobbying returns hundreds of millions in policy outcomes.
 
 ---
 
@@ -117,7 +117,7 @@ Goldman's 2024 contributions went to both parties: Dave McCormick (R-PA, $414K),
 Since 2010, Goldman has slightly favored Republicans (62% of contributions in 2016), but the institutional strategy is bipartisan coverage. The filter is committee assignment, not party: Goldman's contributions flow to members of the Senate Finance Committee, Senate Banking Committee, House Ways and Means Committee, and House Financial Services Committee, the committees that regulate Goldman's business.
 
 > [!contradiction]
-> Goldman Sachs alumni served as NEC director under Obama (Gene Sperling) and under Trump (Gary Cohn). They served as Treasury Secretary under Clinton (Rubin), Bush (Paulson), and Trump (Mnuchin). Goldman alumni shaped the regulatory response to the 2008 crisis — which Goldman helped cause — from inside the Obama administration. The revolving door has operated under presidents who campaigned for Wall Street accountability (Obama) and against Wall Street power (Trump 2016). The campaign rhetoric is irrelevant to the structural outcome: Goldman alumni write economic policy regardless of who wins.
+> Goldman Sachs alumni served as NEC director under Obama (Gene Sperling) and under Trump (Gary Cohn). They served as Treasury Secretary under Clinton (Rubin), Bush (Paulson), and Trump (Mnuchin). Goldman alumni shaped the regulatory response to the 2008 crisis, which Goldman helped cause, from inside the Obama administration. The revolving door has operated under presidents who campaigned for Wall Street accountability (Obama) and against Wall Street power (Trump 2016). The campaign rhetoric is irrelevant to the structural outcome: Goldman alumni write economic policy regardless of who wins.
 
 ---
 

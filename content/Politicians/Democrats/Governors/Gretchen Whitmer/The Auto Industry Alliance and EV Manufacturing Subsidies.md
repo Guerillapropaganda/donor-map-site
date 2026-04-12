@@ -26,7 +26,7 @@ The analytical question is not whether EV manufacturing is good policy. It is wh
 In 2022, lawmakers created SOAR as Whitmer's flagship economic development vehicle. The program was designed as a $2 billion Strategic Operating and Attraction Reserve fund to underwrite large-scale industrial investment, specifically targeting auto industry EV transition projects. The structure allowed the state to commit large upfront subsidies to corporations promising job creation, with job targets written into agreements but enforcement mechanisms described as weak.
 
 > [!money]
-> By 2024, Michigan had committed over $1 billion through SOAR-adjacent deals and had produced approximately 200 jobs — against promises of 24,966 total jobs across its top subsidy recipients. That's a one-fifth delivery rate on the core public justification for the program. The state spent $900M on its top 10 subsidy deals (Whitmer's tenure) and got 4,200 jobs — about $214,000 per job created. At the Ford Marshall plant, the math is far worse.
+> By 2024, Michigan had committed over $1 billion through SOAR-adjacent deals and had produced approximately 200 jobs, against promises of 24,966 total jobs across its top subsidy recipients. That's a one-fifth delivery rate on the core public justification for the program. The state spent $900M on its top 10 subsidy deals (Whitmer's tenure) and got 4,200 jobs, about $214,000 per job created. At the Ford Marshall plant, the math is far worse.
 
 ---
 
@@ -68,7 +68,7 @@ Whitmer's 2022 reelection raised approximately $17.9 million from 187,000 donors
 The OpenSecrets industry breakdown for Whitmer's 2022 cycle shows finance, law, and business as top contributing sectors, the same sectors that intermediate between auto executive wealth and political campaigns.
 
 > [!contradiction]
-> The structural problem: the governor who announces and defends $1.75 billion in Ford subsidies is also the governor whose campaign receives money from Ford executive networks. This is not corruption in the legal sense. It is the architecture of capture — a feedback loop in which donor class interests and policy outcomes align without any explicit quid pro quo. The auto industry needs a governor willing to fight for industrial subsidies. Whitmer is that governor. The campaign money flows accordingly. The policy serves the donor class. The public pays.
+> The structural problem: the governor who announces and defends $1.75 billion in Ford subsidies is also the governor whose campaign receives money from Ford executive networks. This is not corruption in the legal sense. It is the architecture of capture, a feedback loop in which donor class interests and policy outcomes align without any explicit quid pro quo. The auto industry needs a governor willing to fight for industrial subsidies. Whitmer is that governor. The campaign money flows accordingly. The policy serves the donor class. The public pays.
 
 ---
 

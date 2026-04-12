@@ -96,7 +96,7 @@ Preservation of qualified immunity (which shields officers from personal liabili
 **Police Funding Increases:** Despite the 2020 "Defund the Police" movement, police budgets have increased in virtually every major US city. Federal COPS grants, DOJ funding programs, and state-level police funding formulas have all expanded. The FOP's lobbying successfully reframed the post-George Floyd debate from accountability to funding, shifting the political conversation from how police are regulated to how much police are paid.
 
 > [!money]
-> The FOP's political operation demonstrates how a union can function as both a labor organization (advocating for member wages and benefits) and a deregulation lobby (opposing accountability measures that constrain member behavior). Unlike most unions, which face corporate opposition, police unions face minimal organized opposition because "opposing police" is politically radioactive. The FOP's $1-2 million in PAC spending generates outsized political returns because the endorsement value exceeds the contribution value — being labeled "anti-police" by the FOP is a political death sentence in most districts.
+> The FOP's political operation demonstrates how a union can function as both a labor organization (advocating for member wages and benefits) and a deregulation lobby (opposing accountability measures that constrain member behavior). Unlike most unions, which face corporate opposition, police unions face minimal organized opposition because "opposing police" is politically radioactive. The FOP's $1-2 million in PAC spending generates outsized political returns because the endorsement value exceeds the contribution value, being labeled "anti-police" by the FOP is a political death sentence in most districts.
 
 ---
 

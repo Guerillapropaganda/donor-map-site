@@ -44,7 +44,7 @@ Breaking Points operates a hybrid subscription-and-advertising model deliberatel
 **Staffing model:** A small crew of mainly part-time hourly contractors, deliberately lean to minimize overhead and maintain financial independence from any single revenue source.
 
 > [!money]
-> **The subscription model as independence claim.** Ball and Enjeti's central marketing thesis is that subscriber funding equals editorial independence: no corporate owners, no advertiser pressure, no ideological mandates from management. This is structurally true — no corporate parent, no network boss. But it's not the whole picture. Enjeti came to Breaking Points from a Hudson Institute fellowship (neoconservative think tank), and his foreign policy positions consistently align with the Hudson Institute worldview: hawkish on China, skeptical of Russia policy retreats, broadly supportive of the national security state — the exact positions a Hudson Institute fellow would hold. The subscription model funds the show. But the subscribers subscribed *because* Enjeti had already been shaped by Hudson Institute funding. The independence is real in the present tense. The ideological formation happened earlier, on someone else's dime.
+> **The subscription model as independence claim.** Ball and Enjeti's central marketing thesis is that subscriber funding equals editorial independence: no corporate owners, no advertiser pressure, no ideological mandates from management. This is structurally true, no corporate parent, no network boss. But it's not the whole picture. Enjeti came to Breaking Points from a Hudson Institute fellowship (neoconservative think tank), and his foreign policy positions consistently align with the Hudson Institute worldview: hawkish on China, skeptical of Russia policy retreats, broadly supportive of the national security state, the exact positions a Hudson Institute fellow would hold. The subscription model funds the show. But the subscribers subscribed *because* Enjeti had already been shaped by Hudson Institute funding. The independence is real in the present tense. The ideological formation happened earlier, on someone else's dime.
 
 ---
 
@@ -75,11 +75,11 @@ Ball's FEC record splits into two phases: her own 2010 congressional race (VA-1,
 | Ojeda for NC | $2,000 | 2 | DEM | 2025 |
 
 > [!money]
-> Ball's FEC record is the strongest indicator of genuine progressive conviction in the centrist media section. Three patterns stand out: (1) the 2025 surge — $24K+ to insurgent candidates (Kasky, Ventouras, Blake, Abdul, Ojeda) while employer is listed as "Breaking Points," showing active progressive recruitment; (2) the People's House Project pipeline — $23.7K into her own PAC that Reid Hoffman funded, which channeled 39% to Ball's salary; (3) the Osborn independent — $3,300 to an independent Senate candidate, the only non-Democratic recipient. This distinguishes her sharply from co-host Enjeti ($0), suggesting asymmetric political conviction in the "populist crossover" format.
+> Ball's FEC record is the strongest indicator of genuine progressive conviction in the centrist media section. Three patterns stand out: (1) the 2025 surge, $24K+ to insurgent candidates (Kasky, Ventouras, Blake, Abdul, Ojeda) while employer is listed as "Breaking Points," showing active progressive recruitment; (2) the People's House Project pipeline, $23.7K into her own PAC that Reid Hoffman funded, which channeled 39% to Ball's salary; (3) the Osborn independent, $3,300 to an independent Senate candidate, the only non-Democratic recipient. This distinguishes her sharply from co-host Enjeti ($0), suggesting asymmetric political conviction in the "populist crossover" format.
 
 - [FEC: Krystal Ball individual contributions (227 results)](https://www.fec.gov/data/receipts/?contributor_name=ball%2C+krystal) (Tier 1)
 
-> **Disambiguation note:** The FEC API returns 227 raw results for "ball, krystal." VA-filtered results (162) are all confirmed as the media personality — employer listed as "Breaking Points," "Breaking Point LLC," "MSNBC," or "self-employed." Remaining results from other states need further verification. Raw total includes ActBlue conduit double-counting; de-duplicated figures reported above.
+> **Disambiguation note:** The FEC API returns 227 raw results for "ball, krystal." VA-filtered results (162) are all confirmed as the media personality, employer listed as "Breaking Points," "Breaking Point LLC," "MSNBC," or "self-employed." Remaining results from other states need further verification. Raw total includes ActBlue conduit double-counting; de-duplicated figures reported above.
 
 #### Saagar Enjeti
 
@@ -89,7 +89,7 @@ No FEC individual contributions found. Zero results across all fuzzy-match varia
 
 - [FEC: Saagar Enjeti individual contributions (0 results)](https://www.fec.gov/data/receipts/?contributor_name=saagar+enjeti) (Tier 1)
 
-> **Note on API results:** The FEC API search for "saagar enjeti" and variants returns zero results. No disambiguation needed — no contributions on record for the media personality.
+> **Note on API results:** The FEC API search for "saagar enjeti" and variants returns zero results. No disambiguation needed, no contributions on record for the media personality.
 
 ---
 
@@ -159,7 +159,7 @@ No FEC individual contributions found. Zero results across all fuzzy-match varia
 | Feb 2026 | 1.73M subscribers, 1.054B views | Ball, Enjeti | N/A | Show is definitively largest left-right populist crossover media operation in independent media |
 
 > [!money]
-> **The Rising-to-Breaking Points pipeline.** Ball and Enjeti didn't build Breaking Points from scratch — they built it by leaving The Hill's Rising with an audience they'd grown at their corporate employer's expense. The Hill provided the platform, the production resources, and the institutional credibility that made Ball and Enjeti nationally known. Then they left, taking the audience with them. This is the independent media playbook: build your audience at a corporate employer's expense, then monetize it independently. The Hill gets to watch its hosts walk out with 285,000 subscribers already waiting. The corporate media model inadvertently incubates its own competition.
+> **The Rising-to-Breaking Points pipeline.** Ball and Enjeti didn't build Breaking Points from scratch, they built it by leaving The Hill's Rising with an audience they'd grown at their corporate employer's expense. The Hill provided the platform, the production resources, and the institutional credibility that made Ball and Enjeti nationally known. Then they left, taking the audience with them. This is the independent media playbook: build your audience at a corporate employer's expense, then monetize it independently. The Hill gets to watch its hosts walk out with 285,000 subscribers already waiting. The corporate media model inadvertently incubates its own competition.
 
 ---
 

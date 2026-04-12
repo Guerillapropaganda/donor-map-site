@@ -150,7 +150,7 @@ CBPP's influence operates through a distinct pipeline: CBPP produces analysis �
 | 2025-2026 | Executive Action Watch | Foundation-funded tracker | Real-time documentation of Trump executive actions: $167B non-defense cuts, 10% federal workforce reduction, illegal fund withholding, becomes definitive opposition research resource | Ongoing |
 
 > [!money]
-> CBPP's policy pipeline is distinctive not for direct donor-to-legislation ROI but for institutional capture: the organization produces the research, trains the staff, places them in government, and then provides the analytical cover for the policies those staff implement. The Stacy Dean case is paradigmatic — 24 years at CBPP producing SNAP research, then appointed to run the federal SNAP program itself. The research doesn't just influence policy; the researchers become the policymakers.
+> CBPP's policy pipeline is distinctive not for direct donor-to-legislation ROI but for institutional capture: the organization produces the research, trains the staff, places them in government, and then provides the analytical cover for the policies those staff implement. The Stacy Dean case is paradigmatic, 24 years at CBPP producing SNAP research, then appointed to run the federal SNAP program itself. The research doesn't just influence policy; the researchers become the policymakers.
 
 ---
 
@@ -195,7 +195,7 @@ CBPP has one of the most active revolving doors in the progressive think tank ec
 - *Government pension policy → think tank board overseeing pension policy research*
 
 > [!contradiction]
-> CBPP describes itself as "nonpartisan" despite a revolving door that runs exclusively through Democratic administrations. No CBPP alumnus has ever served in a Republican administration. The revolving door operates on a strict partisan axis — CBPP staff govern during Democratic administrations and produce opposition research during Republican ones.
+> CBPP describes itself as "nonpartisan" despite a revolving door that runs exclusively through Democratic administrations. No CBPP alumnus has ever served in a Republican administration. The revolving door operates on a strict partisan axis. CBPP staff govern during Democratic administrations and produce opposition research during Republican ones.
 
 ---
 
@@ -230,7 +230,7 @@ The revolving door pattern reinforces this: CBPP alumni enter government to mana
 The Democracy Alliance connection and the Arabella Advisors dark money pipeline (Hopewell Fund, New Venture Fund) reveal that even progressive think tanks operate within opaque funding structures that mirror the dark money networks they criticize on the right. The closed-loop between CAP funding CBPP and then citing CBPP's research is a progressive version of the same citation-laundering patterns seen in conservative think tank networks.
 
 > [!money]
-> CBPP's funders invest in poverty management, not poverty elimination. The foundation ecosystem needs poverty to exist in order to justify its own tax-exempt existence. CBPP provides the intellectual infrastructure for this managed amelioration — keeping the safety net intact enough to prevent social crisis while never threatening the wealth accumulation that makes the safety net necessary. It's the most effective progressive think tank in America, and that effectiveness operates within boundaries set by the donor class that funds it.
+> CBPP's funders invest in poverty management, not poverty elimination. The foundation ecosystem needs poverty to exist in order to justify its own tax-exempt existence. CBPP provides the intellectual infrastructure for this managed amelioration, keeping the safety net intact enough to prevent social crisis while never threatening the wealth accumulation that makes the safety net necessary. It's the most effective progressive think tank in America, and that effectiveness operates within boundaries set by the donor class that funds it.
 
 ---
 

@@ -26,7 +26,7 @@ In April 2016, while Sanders was still competing, Chakrabarti and ~20 former San
 When Sanders lost, the appetite for a parallel candidate recruitment infrastructure only grew. By January 23, 2017, **Justice Democrats** formally launched as its sister PAC, with Chakrabarti as Executive Director. Co-founders included Exley, **[[Cenk Uygur]]** from The Young Turks, Kyle Kulinski from Secular Talk, Rojas, and Trent. The organizations would operate in tandem but with distinct legal structures and functions.
 
 > [!contradiction]
-> Cenk Uygur stepped down December 22, 2017 when old sexist and racist blog posts resurfaced. Kyle Kulinski also withdrew. The founding principle—grassroots insurgency—collided with incomplete vetting of the co-founders themselves.
+> Cenk Uygur stepped down December 22, 2017 when old sexist and racist blog posts resurfaced. Kyle Kulinski also withdrew. The founding principle, grassroots insurgency, collided with incomplete vetting of the co-founders themselves.
 
 ---
 
@@ -78,7 +78,7 @@ Justice Democrats registered as a **Hybrid PAC with a Non-Contribution Account**
 | **Cumulative** | **~$23.1M** | | |
 
 > [!money]
-> Justice Democrats raised nearly $23.1 million over eight years. Direct candidate contributions stayed minimal (< $75K per cycle)—a signal that the real value flowed through in-kind services and independent expenditures.
+> Justice Democrats raised nearly $23.1 million over eight years. Direct candidate contributions stayed minimal (< $75K per cycle), a signal that the real value flowed through in-kind services and independent expenditures.
 
 #### Brand New Congress PAC (FEC C00613810)
 
@@ -147,7 +147,7 @@ The infrastructure comprised multiple legal entities:
 | Brand New Congress LLC | For-profit LLC | Delaware | Sole member: Chakrabarti |
 
 > [!money]
-> No 501(c)(4) "dark money" entity was ever registered. Chakrabarti chose registered PACs over shadow structures. This created transparency but also regulatory exposure—every donation and expenditure was public.
+> No 501(c)(4) "dark money" entity was ever registered. Chakrabarti chose registered PACs over shadow structures. This created transparency but also regulatory exposure, every donation and expenditure was public.
 
 The Hybrid PAC model was critical: it allowed both capped direct contributions ($5,000 limit) and **unlimited independent expenditures**. Around 2019-2020, Justice Democrats added a Super PAC component, further expanding expenditure capacity.
 
@@ -193,7 +193,7 @@ The trajectory showed: explosive growth (2018-2020), plateau (2022), and then a 
 - **Total personal contribution**: $30,000 across both cycles
 
 > [!quote]
-> Chakrabarti took no salary from Brand New Congress LLC during his tenure as its sole owner. This contrasts sharply with many PAC executives who draw significant compensation. His leverage was structural—ownership of the LLC and executive directorship of JD PAC—rather than direct financial extraction.
+> Chakrabarti took no salary from Brand New Congress LLC during his tenure as its sole owner. This contrasts sharply with many PAC executives who draw significant compensation. His leverage was structural, ownership of the LLC and executive directorship of JD PAC, rather than direct financial extraction.
 
 ---
 

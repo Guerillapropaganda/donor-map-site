@@ -93,7 +93,7 @@ Continued private operation of immigration detention centers and state prisons. 
 **Critical partisan shift:** Before 2012, GEO split donations relatively evenly between parties. After Obama's DOJ announced plans to phase out private prison contracts in 2016, GEO shifted dramatically toward Republicans, by 2020, 94% of contributions went to Republicans. The 2024 cycle shows the partisan tilt is now near-total at 93.9% to Republicans. The 2024 cycle figure of $3.7 million includes large soft-money contributions, including $2.75 million in organizational spending.
 
 > [!money]
-> **The Partisan Tilt as Political Strategy:** GEO's donation pattern reveals a clear profit-follows-enforcement calculation. When Democratic administrations pursued incarceration reduction, GEO shifted funding away. When Republican administrations expanded detention, GEO went all-in. The company is not investing in ideology — it is investing in occupancy rates.
+> **The Partisan Tilt as Political Strategy:** GEO's donation pattern reveals a clear profit-follows-enforcement calculation. When Democratic administrations pursued incarceration reduction, GEO shifted funding away. When Republican administrations expanded detention, GEO went all-in. The company is not investing in ideology, it is investing in occupancy rates.
 
 #### Total political contributions (corporate + PAC), from GEO's own disclosures:
 
@@ -235,7 +235,7 @@ GEO Group and [[CoreCivic]] derived only approximately 23% of their 2019 revenue
 | FY 2025 | Total new/expanded annual contracts | **$520 million (company's best year ever)** |
 
 > [!money] $2 Million Political Investment → $520 Million in New Annual Contracts → $254 Million Profit
-> Trump's reversal of Biden's private prison ban, coupled with OBBBA authorization and the expanded mass deportation agenda, created a $1+ billion contract windfall in 2025 alone. GEO Group's $2 million investment in Trump 2024 (PAC + subsidiaries + executives) returned approximately $520 million in new or expanded annual contract revenue within weeks of Trump's inauguration. Return on investment: 260:1. By year-end, net income was $254.4 million — 700%+ higher than 2024.
+> Trump's reversal of Biden's private prison ban, coupled with OBBBA authorization and the expanded mass deportation agenda, created a $1+ billion contract windfall in 2025 alone. GEO Group's $2 million investment in Trump 2024 (PAC + subsidiaries + executives) returned approximately $520 million in new or expanded annual contract revenue within weeks of Trump's inauguration. Return on investment: 260:1. By year-end, net income was $254.4 million, 700%+ higher than 2024.
 >
 > This is not speculation about future contracts. This is documented, awarded, operational contract value. GEO is operating 26,000 ICE beds. The company's CEO called 2025 "the largest amount of new business we have won in a single year in our company's history."
 
@@ -322,7 +322,7 @@ Despite state-level bans, university and municipal divestment campaigns have pre
 ### The ICE-to-GEO Revolving Door
 
 > [!contradiction] The Regulators Become the Regulated
-> GEO Group systematically hires the ICE officials who oversee its contracts, creating a structural pipeline where the agency responsible for detention oversight sends its senior leadership to the company profiting from detention expansion. The revolving door isn't incidental — it's the business model.
+> GEO Group systematically hires the ICE officials who oversee its contracts, creating a structural pipeline where the agency responsible for detention oversight sends its senior leadership to the company profiting from detention expansion. The revolving door isn't incidental, it's the business model.
 
 #### Documented revolving door moves (ICE leadership → GEO Group):
 
@@ -523,7 +523,7 @@ Both GEO and [[CoreCivic]] are members of the **Day 1 Alliance**, a trade associ
 - [OpenSecrets: GEO Group Lobbying](https://www.opensecrets.org/orgs/geo-group/lobbying?id=D000022003) (Tier 1)
 - [Senate LDA Filings: Federal Lobbying Summary](https://lda.gov/filings/public/filing/search/) (Tier 1)
 - [Project on Government Oversight (POGO): Private Prison Giant Hired ICE Detention Chief](https://www.pogo.org/investigates/private-prison-giant-hired-ice-detention-chief) (Tier 2)
-- [POGO: Locking In Profits — Top ICE Officials to GEO](https://www.pogo.org/investigates/locking-in-profits-top-ice-officials-leave-agency-to-serve-its-top-contractor) (Tier 2)
+- [POGO: Locking In Profits - Top ICE Officials to GEO](https://www.pogo.org/investigates/locking-in-profits-top-ice-officials-leave-agency-to-serve-its-top-contractor) (Tier 2)
 - [Public Citizen: Pam Bondi Conflict of Interest](https://www.citizen.org/article/conflicted-justice/) (Tier 2)
 - [New York Times: Pam Bondi as AG](https://www.nytimes.com/2025/01/08/us/politics/pam-bondi-trump-attorney-general-lobbyist.html) (Tier 2)
 - [Politico: Pam Bondi DOJ ethics](https://www.politico.com/news/2024/12/07/pam-bondi-doj-ethics-00192890) (Tier 2)
@@ -552,7 +552,7 @@ Both GEO and [[CoreCivic]] are members of the **Day 1 Alliance**, a trade associ
 
 #### Biden Executive Order & ICE Impact:
 - [OpenSecrets: Biden phases out private prisons](https://www.opensecrets.org/news/2021/02/biden-phases-out-private-prisons/) (Tier 1)
-- [ACLU: Unchecked growth — private prison corporations and ICE under Biden](https://www.aclu.org/news/immigrants-rights/unchecked-growth-private-prison-corporations-and-immigration-detention-three-years-into-the-biden-administration) (Tier 2)
+- [ACLU: Unchecked growth - private prison corporations and ICE under Biden](https://www.aclu.org/news/immigrants-rights/unchecked-growth-private-prison-corporations-and-immigration-detention-three-years-into-the-biden-administration) (Tier 2)
 - [Marshall Project: What Will Trump's Executive Order on Private Prisons Really Do?](https://www.themarshallproject.org/2025/01/22/trump-private-prisons-executive-order) (Tier 2)
 
 #### Class Analysis & Racial Dimensions:
@@ -586,11 +586,11 @@ Both GEO and [[CoreCivic]] are members of the **Day 1 Alliance**, a trade associ
 
 **Funded politicians:**
 
-- [[Gavin Newsom]] — lobbying: $2.6M — contracts: $959K
-- [[Donald Trump]] — lobbying: $2.6M — contracts: $959K
-- [[Chad Bianco]] — lobbying: $2.6M — contracts: $959K
-- [[Marco Rubio]] — lobbying: $2.6M — contracts: $959K
-- [[Pam Bondi]] — lobbying: $2.6M — contracts: $959K
+- [[Gavin Newsom]] - lobbying: $2.6M - contracts: $959K
+- [[Donald Trump]] - lobbying: $2.6M - contracts: $959K
+- [[Chad Bianco]] - lobbying: $2.6M - contracts: $959K
+- [[Marco Rubio]] - lobbying: $2.6M - contracts: $959K
+- [[Pam Bondi]] - lobbying: $2.6M - contracts: $959K
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-12.*
 <!-- auto:influence-cross-ref end -->

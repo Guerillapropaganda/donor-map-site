@@ -60,11 +60,11 @@ The ideology descends from the posse comitatus movement of the 1970s–80s, a fa
 When the membership leaked, Bianco had a clean exit available: condemn the Oath Keepers, call the membership a mistake, distance himself. He chose not to take it. Instead:
 
 > [!quote]
-> — Claimed the group's aims have been "misunderstood."
-> — Said: "Except for a few fringe people, that's not really what they stand for."
-> — Said: "They certainly don't promote violence and government overthrow."
-> — Acknowledged January 6 was "completely wrong" but framed it as a few bad actors, not an organizational pattern.
-> — Said: "If you love America, if you're proud to be an American and you support the Constitution, you are labeled as an extremist."
+>. Claimed the group's aims have been "misunderstood."
+>. Said: "Except for a few fringe people, that's not really what they stand for."
+>. Said: "They certainly don't promote violence and government overthrow."
+>. Acknowledged January 6 was "completely wrong" but framed it as a few bad actors, not an organizational pattern.
+>. Said: "If you love America, if you're proud to be an American and you support the Constitution, you are labeled as an extremist."
 
 This is the revealing choice. By October 2021, Rhodes had already been arrested. The organization's role in January 6 was extensively documented. Bianco chose to defend the Oath Keepers rather than break with them, because his political base (the constitutional sheriff / COVID defiance / Fox News audience) overlaps with the Oath Keepers' constituency. Denouncing them would cost him more politically than defending them.
 

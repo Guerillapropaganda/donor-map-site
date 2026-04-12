@@ -79,10 +79,10 @@ The pattern: give CTA something real (AB 1505) to maintain the relationship, whi
 | 2020–2025 | Charter sector expansion continues despite AB 1505 |, | 1,300+ charters maintained/expanded; no serious renegotiation of funding formula | Ongoing |
 
 > [!money]
-> Newsom caught between two donor blocs: CTA (labor, anti-charter, $5M+) and billionaire philanthropists (charter funders, education "reformers" with $300M+). Record reflects managed tension — give labor something real (AB 1505) while keeping the door open for billionaires (veto AB 1507, don't restructure funding).
+> Newsom caught between two donor blocs: CTA (labor, anti-charter, $5M+) and billionaire philanthropists (charter funders, education "reformers" with $300M+). Record reflects managed tension, give labor something real (AB 1505) while keeping the door open for billionaires (veto AB 1507, don't restructure funding).
 
 > [!contradiction]
-> **Public School Champion Funded by Charter Advocates**: Newsom campaigns as a champion of public education and teacher rights (AB 1505, teacher salary investments) while accepting significant donations from the billionaire philanthropists funding charter school expansion. The contradiction: AB 1505 gave CTA a token (district veto authority) while the fundamental structure benefiting charter expansion (per-pupil funding drain, lack of financial transparency) remained untouched. Newsom's position requires maintaining both relationships — appearing to oppose charter expansion while structurally enabling it.
+> **Public School Champion Funded by Charter Advocates**: Newsom campaigns as a champion of public education and teacher rights (AB 1505, teacher salary investments) while accepting significant donations from the billionaire philanthropists funding charter school expansion. The contradiction: AB 1505 gave CTA a token (district veto authority) while the fundamental structure benefiting charter expansion (per-pupil funding drain, lack of financial transparency) remained untouched. Newsom's position requires maintaining both relationships, appearing to oppose charter expansion while structurally enabling it.
 
 ### Analytical Patterns
 

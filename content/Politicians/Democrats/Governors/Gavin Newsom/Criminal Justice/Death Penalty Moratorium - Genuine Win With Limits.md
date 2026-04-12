@@ -41,7 +41,7 @@ Credit it directly. This is not a complicated case.
 **Commutation as the Road Not Taken.** The moratorium stopped future executions but did not commute sentences. As of 2024, death row has shrunk to below 600 (from 737 in 2019) through resentencings and natural deaths in custody, not through executive commutation. Newsom has not granted broad commutations that would resolve the legal status of death row prisoners, moving them definitively out of death row into life sentences with parole eligibility. The 2024 Condemned Inmate Transfer Program moved 512 people into general population but left them technically on death row: still condemned, still awaiting execution if a future governor reverses the moratorium. They remain in a different kind of limbo than segregation, but limbo nonetheless.
 
 > [!contradiction]
-> **The Moratorium as Perpetual Limitation:** Newsom stopped executions but stopped short of commutation or abolition. Death row prisoners are technically alive because Newsom is governor — not because their sentences have changed. A future governor can reverse the moratorium with an executive order. This is structurally different from abolition, which would require a vote or a statute. The moratorium is the maximum power available under executive authority, but it is also the minimum needed to claim the victory of "ending the death penalty" without the political cost of actual abolition.
+> **The Moratorium as Perpetual Limitation:** Newsom stopped executions but stopped short of commutation or abolition. Death row prisoners are technically alive because Newsom is governor, not because their sentences have changed. A future governor can reverse the moratorium with an executive order. This is structurally different from abolition, which would require a vote or a statute. The moratorium is the maximum power available under executive authority, but it is also the minimum needed to claim the victory of "ending the death penalty" without the political cost of actual abolition.
 
 **The [[CCPOA - California Correctional Peace Officers Association|CCPOA]] ceiling again.** Broad commutation or parole eligibility paths would require engagement with CCPOA's interests, death row prisoners are a significant housing and custody population. The moratorium and transfer program as structured avoid direct conflict: death row is emptied (resolving a cost problem), prisoners get better conditions (a reform win), and no prisoners are released into parole consideration (satisfying tough-on-crime constituencies and unions).
 
@@ -93,9 +93,9 @@ This is a genuine win with real limits. Credit the moratorium and the transfer p
 ---
 
 ### Key Quotes
-> "I do not believe that a civilized society can claim to be a leader in the world as long as its government sanctions the premeditated killing of human beings." — Newsom, signing the moratorium, March 2019.
+> "I do not believe that a civilized society can claim to be a leader in the world as long as its government sanctions the premeditated killing of human beings.". Newsom, signing the moratorium, March 2019.
 
-> "The state's death penalty system has been, by all measures, a failure because it has discriminated against defendants who are mentally ill, Black and brown, or can't afford expensive legal representation." — Governor Newsom, describing the failure of capital justice in California.
+> "The state's death penalty system has been, by all measures, a failure because it has discriminated against defendants who are mentally ill, Black and brown, or can't afford expensive legal representation.". Governor Newsom, describing the failure of capital justice in California.
 
 ---
 

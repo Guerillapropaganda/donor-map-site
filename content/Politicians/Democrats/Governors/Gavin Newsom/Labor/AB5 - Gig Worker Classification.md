@@ -21,7 +21,7 @@ The practical effect: gig workers for companies like [[Uber|Uber]], [[Lyft|Lyft]
 The [[California Labor Federation|California Labor Federation]], [[SEIU - Service Employees International Union|SEIU]], and the [[CNA - California Nurses Association|California Nurses Association]] celebrated it as a landmark. Newsom called it "landmark legislation for workers."
 
 > [!money]
-> **The Contradiction in Motion:** Newsom signed legislation that threatened to cost [[Uber|Uber]], [[Lyft|Lyft]], and [[DoorDash|DoorDash]] billions in employee benefits liability — then 13 months later, when those same companies funded a $205.7 million campaign to overturn AB5 through a ballot initiative (Prop 22), he remained silent. The companies he'd just regulated then regulated him back, and he accepted their terms.
+> **The Contradiction in Motion:** Newsom signed legislation that threatened to cost [[Uber|Uber]], [[Lyft|Lyft]], and [[DoorDash|DoorDash]] billions in employee benefits liability, then 13 months later, when those same companies funded a $205.7 million campaign to overturn AB5 through a ballot initiative (Prop 22), he remained silent. The companies he'd just regulated then regulated him back, and he accepted their terms.
 
 ---
 
@@ -43,7 +43,7 @@ The California Trucking Association challenged AB5 in federal court, arguing it 
 AB5 did not include an enforcement mechanism with teeth. The state could sue companies for misclassification, but individual workers could not bring class action suits easily. The Labor Commissioner's office was underfunded for the scale of enforcement required. The gig companies simply continued operating as before while the legal battles played out, which is what made Prop 22 possible. [See: [[Prop 22 - The $200M Corporate Rollback]]]
 
 > [!contradiction]
-> **Enforcement Gap as Political Choice:** AB5's lack of individual worker enforcement rights wasn't accidental. Stronger enforcement language was fought during the legislative process. Newsom's office didn't push hard for enforcement teeth, and labor advocates had to compromise to get the bill passed at all. A governor genuinely committed to worker protections would have made enforcement a non-negotiable centerpiece. This gap — predictably — became the rationale for Prop 22: "The law isn't working anyway, so let voters decide."
+> **Enforcement Gap as Political Choice:** AB5's lack of individual worker enforcement rights wasn't accidental. Stronger enforcement language was fought during the legislative process. Newsom's office didn't push hard for enforcement teeth, and labor advocates had to compromise to get the bill passed at all. A governor genuinely committed to worker protections would have made enforcement a non-negotiable centerpiece. This gap, predictably, became the rationale for Prop 22: "The law isn't working anyway, so let voters decide."
 
 ---
 

@@ -20,7 +20,7 @@ When [[_Nancy Pelosi Master Profile|Nancy Pelosi]] stepped down from House Democ
 Jeffries had been building toward this position for years. His chairmanship of the House Democratic Caucus (2019–2023) gave him experience managing the caucus's messaging and fundraising operations. His Team Blue PAC co-founding with [[_Josh Gottheimer Master Profile|Josh Gottheimer]] (the most prominent corporate Democrat in the House) signaled donor-class alignment explicitly.
 
 > [!money]
-> Team Blue PAC, co-founded by Jeffries, relied "almost exclusively on corporate PACs and lobbyists" for its funding per Sludge analysis. This was not a centrist messaging organization or a policy shop — it was a donor collection mechanism associated with the anti-progressive wing of House Democrats. Jeffries' co-founding was a public declaration of his position in the intra-party class war.
+> Team Blue PAC, co-founded by Jeffries, relied "almost exclusively on corporate PACs and lobbyists" for its funding per Sludge analysis. This was not a centrist messaging organization or a policy shop, it was a donor collection mechanism associated with the anti-progressive wing of House Democrats. Jeffries' co-founding was a public declaration of his position in the intra-party class war.
 
 ---
 
@@ -36,7 +36,7 @@ Jeffries is the top recipient of Israel-lobby money in the House, with over $1.3
 When directly asked about AIPAC donations on a radio program, Jeffries stated that AIPAC's PAC can contribute only $5,000–$10,000 per cycle, technically accurate for the registered PAC, but misleading about the full scope of coordinated independent spending and affiliated donor networks that produce the $1.3M career total.
 
 > [!contradiction]
-> Jeffries' congressional district includes a significant Arab-American and Muslim population in addition to Jewish communities. His Gaza position — maintaining support for Israel through the 2023–2024 military campaign despite mass civilian casualties — created significant tension with Arab-American and progressive constituents. The AIPAC donor relationship directly constrains his policy options. His public framing ("two-state solution," "civilian protection") is indistinguishable from the language of the Biden administration — which is the language of the donor class consensus on Israel/Palestine.
+> Jeffries' congressional district includes a significant Arab-American and Muslim population in addition to Jewish communities. His Gaza position, maintaining support for Israel through the 2023–2024 military campaign despite mass civilian casualties, created significant tension with Arab-American and progressive constituents. The AIPAC donor relationship directly constrains his policy options. His public framing ("two-state solution," "civilian protection") is indistinguishable from the language of the Biden administration, which is the language of the donor class consensus on Israel/Palestine.
 
 ---
 
@@ -62,7 +62,7 @@ The Pelosi-to-Jeffries succession produces a predictable policy output: legislat
 The pattern: support for reproductive rights (does not threaten financial interests), opposition to January 6th (positions the party against democratic threats), corporate-friendly climate legislation (IRA with fossil fuel carve-outs rather than Green New Deal), no serious effort on tax reform that would threaten capital gains or carried interest, and consistent protection of the filibuster and its donor-class function.
 
 > [!quote]
-> "A is for accountable. B is for bold. C is for courageous. D is for determined..." — Jeffries, alphabetical floor speech style. The poetic structure is the point: it produces memorable, shareable content without policy commitment.
+> "A is for accountable. B is for bold. C is for courageous. D is for determined...". Jeffries, alphabetical floor speech style. The poetic structure is the point: it produces memorable, shareable content without policy commitment.
 
 ---
 

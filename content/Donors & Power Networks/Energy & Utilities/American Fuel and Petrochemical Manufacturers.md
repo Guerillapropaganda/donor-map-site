@@ -85,7 +85,7 @@ AFPM actively opposes the Renewable Fuel Standard, carbon taxes, EV mandates, an
 ### Who They Fund
 
 > [!money] Follow the Money
-> AFPM is one of the most active fossil fuel lobbying organizations in the country. $8.95M on lobbying in 2024 (7 lobbyists), $3.49M in 2025. The AFPM PAC contributed $842K in the 2024 cycle, with $350K to the Congressional Leadership Fund and $150K to the Senate Leadership Fund — funding Republican House and Senate campaign infrastructure.
+> AFPM is one of the most active fossil fuel lobbying organizations in the country. $8.95M on lobbying in 2024 (7 lobbyists), $3.49M in 2025. The AFPM PAC contributed $842K in the 2024 cycle, with $350K to the Congressional Leadership Fund and $150K to the Senate Leadership Fund, funding Republican House and Senate campaign infrastructure.
 
 ### 2024 cycle political contributions ($842K via PAC):
 - 73% to Republicans
@@ -121,7 +121,7 @@ AFPM actively opposes the Renewable Fuel Standard, carbon taxes, EV mandates, an
 AFPM is the fossil fuel industry's collective action vehicle, a $61.4M trade association funded by membership dues that turns individual corporate interests into coordinated lobbying power. The $8.95M in 2024 lobbying buys direct access to legislators and regulators on behalf of every major refiner and petrochemical manufacturer in the country. The $842K in PAC contributions to Republican leadership PACs is strategic: rather than funding individual candidates, AFPM funds the party infrastructure that controls committee assignments, floor votes, and the legislative calendar. The CEO's $4.5M compensation reflects the value the member companies place on this function, it's cheaper than each company lobbying individually, and the trade association structure provides cover ("AFPM opposes the carbon tax" sounds different from "ExxonMobil opposes the carbon tax").
 
 > [!contradiction]
-> AFPM member companies increasingly publish sustainability reports and net-zero pledges. Meanwhile, the trade association they fund collectively spends nearly $9M/year lobbying against the regulations that would make those pledges binding. InfluenceMap has documented this gap systematically — the companies say one thing publicly while their trade association does the opposite in Washington.
+> AFPM member companies increasingly publish sustainability reports and net-zero pledges. Meanwhile, the trade association they fund collectively spends nearly $9M/year lobbying against the regulations that would make those pledges binding. InfluenceMap has documented this gap systematically, the companies say one thing publicly while their trade association does the opposite in Washington.
 
 ---
 

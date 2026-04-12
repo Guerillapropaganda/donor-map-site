@@ -93,7 +93,7 @@ AIPAC's Illinois operation is a case study in how lobby money evolves when it be
 - [NBC News: AIPAC super PAC funded big-spending Illinois groups](https://www.nbcnews.com/politics/2026-election/aipac-super-pac-funded-illinois-groups-democratic-primaries-israel-rcna264379) (Tier 2)
 
 > [!money]
-> $96M banked by United Democracy Project for 2026 midterms. $5.3M routed through front PACs in Illinois alone — undisclosed until post-election FEC filings. The Intercept confirms this is a deliberate strategy shift: route spending through front groups so recipients can claim they received donations from "donors," not AIPAC. Same money. Different wrapper. The deniability layer is the new product.
+> $96M banked by United Democracy Project for 2026 midterms. $5.3M routed through front PACs in Illinois alone, undisclosed until post-election FEC filings. The Intercept confirms this is a deliberate strategy shift: route spending through front groups so recipients can claim they received donations from "donors," not AIPAC. Same money. Different wrapper. The deniability layer is the new product.
 
 ---
 
@@ -149,7 +149,7 @@ The March 2026 fundraising email is the explicit statement of what the vault doc
 - [CNN: Trump fundraising email uses photo from soldiers' dignified transfer and promises 'private national security briefings'](https://www.cnn.com/2026/03/13/politics/trump-fundraise-email-soldier) (Tier 2)
 
 > [!contradiction]
-> The administration offered classified briefings to donors as a fundraising incentive. When exposed, an official admitted donors were "duped" — the briefings weren't real. The admission of deception is treated as exculpatory. Under any coherent analysis, a president marketing access to classified information to campaign donors — real or fabricated — is the corruption story, not a rebuttal to it.
+> The administration offered classified briefings to donors as a fundraising incentive. When exposed, an official admitted donors were "duped", the briefings weren't real. The admission of deception is treated as exculpatory. Under any coherent analysis, a president marketing access to classified information to campaign donors, real or fabricated, is the corruption story, not a rebuttal to it.
 
 ---
 
@@ -306,7 +306,7 @@ DoD contracts as % of revenue: Lockheed 74%, Boeing/RTX 30–40%, Booz Allen Ham
 Note from Run 1: Lockheed Martin is also a Trump White House ballroom donor (see DIAMOND-01 above). The $191B in Lockheed contracts over five years documented in DIAMOND-01 now has a direct war-spending amplifier. The ballroom donation and the January 2026 pre-war production contracts are potentially part of the same access chain.
 
 > [!money]
-> The January 2026 production scale-up contracts with Lockheed preceded the public war declaration by ~6 weeks. The $200B supplemental request — if approved — would route an additional $200B through the same contractors already booking record revenue. This is not incidental to the war; it is the structural reason the war proceeds without congressional authorization. The Hegseth profile should document his role in signing the pre-war production contracts before the formal war declaration, and the lobbying spend that preceded both.
+> The January 2026 production scale-up contracts with Lockheed preceded the public war declaration by ~6 weeks. The $200B supplemental request, if approved, would route an additional $200B through the same contractors already booking record revenue. This is not incidental to the war; it is the structural reason the war proceeds without congressional authorization. The Hegseth profile should document his role in signing the pre-war production contracts before the formal war declaration, and the lobbying spend that preceded both.
 
 ### Key research gaps:
 - 2024 cycle Lockheed/RTX PAC contributions to Armed Services Committee members. OpenSecrets (Tier 1)
@@ -342,7 +342,7 @@ Key donor-to-vote link: Sen. Kirsten Gillibrand (D-NY) was the bill's primary De
 The CLARITY Act (broader digital asset market structure) is now advancing in 2026, setting up a second wave of crypto legislative wins for the same donor coalition.
 
 > [!money]
-> Donation-to-policy timeline: 2024 cycle ($250M crypto industry spend via Fairshake) → November 2024 elections → January 2025 new Congress seated → June 17 Senate passage → July 18 signed into law. Six months from seating to first major win. Gillibrand received $217K and co-sponsored the bill. The Merkley amendment blocking conflict-of-interest rules was defeated — meaning the same Congress that received $250M from crypto will now personally benefit from crypto deregulation. The Two-Audience Problem is structural here: Democrats who publicly expressed concern about Trump's crypto profiteering voted for the bill that deregulates the industry he profits from.
+> Donation-to-policy timeline: 2024 cycle ($250M crypto industry spend via Fairshake) → November 2024 elections → January 2025 new Congress seated → June 17 Senate passage → July 18 signed into law. Six months from seating to first major win. Gillibrand received $217K and co-sponsored the bill. The Merkley amendment blocking conflict-of-interest rules was defeated, meaning the same Congress that received $250M from crypto will now personally benefit from crypto deregulation. The Two-Audience Problem is structural here: Democrats who publicly expressed concern about Trump's crypto profiteering voted for the bill that deregulates the industry he profits from.
 
 ### Key research gaps:
 - Full list of 18 Democratic yes votes: Congress.gov roll call for S.394 (Tier 1)
@@ -374,7 +374,7 @@ What it does not touch: pharmaceutical manufacturers' list prices, rebate struct
 Context: All but four Democratic lawmakers on the House Energy and Commerce Committee received $500K+ in pharma PAC donations (Pfizer, Merck, AbbVie, J&J) in the 2024 cycle. The pharma industry spent ~$150M on federal lobbying in 2025. Congressional hearings featured members publicly attacking PBMs while holding pharma contributions, a documented pattern in published news reporting.
 
 > [!contradiction]
-> Congress performed populist outrage at "middlemen" while accepting $500K+ from the manufacturers those middlemen serve. The PBM reform bill is calibrated to produce a headline ("we fixed drug pricing") while protecting the industry's actual pricing power. This is the Villain Framing analytical pattern at a structural level: identify a visible intermediary as the enemy, legislate against the intermediary, leave the donor-class source of the problem untouched. The 2028 effective date is the tell — by the time this takes effect, the lawmakers who passed it will have run two more elections on "we fought Big Pharma."
+> Congress performed populist outrage at "middlemen" while accepting $500K+ from the manufacturers those middlemen serve. The PBM reform bill is calibrated to produce a headline ("we fixed drug pricing") while protecting the industry's actual pricing power. This is the Villain Framing analytical pattern at a structural level: identify a visible intermediary as the enemy, legislate against the intermediary, leave the donor-class source of the problem untouched. The 2028 effective date is the tell, by the time this takes effect, the lawmakers who passed it will have run two more elections on "we fought Big Pharma."
 
 ### Verified sources (Chrome-confirmed this run):
 - [Sidley Austin: Congress Passes Significant Federal Pharmacy Benefit Manager Reform Impacting Pharmaceutical Market Access](https://www.sidley.com/en/insights/newsupdates/2026/02/congress-passes-significant-federal-pharmacy-benefit-manager-reform-impacting-pharmaceutical-market) (Tier 3)
@@ -399,7 +399,7 @@ The 21st Century ROAD to Housing Act passed the Senate 89-10 on March 12, 2026. 
 The 89-10 vote margin, bipartisan, overwhelming, is the tell. A vote this lopsided on legislation that genuinely threatened real estate or Wall Street donors does not happen.
 
 > [!money]
-> A ban that: (1) exempts all but the largest holders, (2) expires automatically in 15 years, (3) doesn't touch existing portfolios, and (4) bundles deregulatory provisions for the development industry is not a structural threat to the real estate donor class. It is a headline. The 89-10 vote confirms that both parties' donor bases can live with it — because neither is actually threatened by it. The Genuine Win + Structural Limit pattern applies: the 350-home threshold is real and does restrict the very largest institutional buyers; the structural limits ensure the restriction doesn't cascade.
+> A ban that: (1) exempts all but the largest holders, (2) expires automatically in 15 years, (3) doesn't touch existing portfolios, and (4) bundles deregulatory provisions for the development industry is not a structural threat to the real estate donor class. It is a headline. The 89-10 vote confirms that both parties' donor bases can live with it, because neither is actually threatened by it. The Genuine Win + Structural Limit pattern applies: the 350-home threshold is real and does restrict the very largest institutional buyers; the structural limits ensure the restriction doesn't cascade.
 
 ### Verified sources (Chrome-confirmed this run):
 - [NPR: Senate passes bipartisan housing bill targeting large investors and easing regulations](https://www.npr.org/2026/03/12/nx-s1-5742566/senate-bipartisan-housing-bill-investors-ban) (Tier 2)

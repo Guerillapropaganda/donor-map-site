@@ -42,7 +42,7 @@ Before taking the role, Sacks divested approximately $200 million in crypto hold
 - Equity stakes in SpaceX and X.ai (Musk companies)
 
 > [!money]
-> Public Citizen analyzed Sacks' ethics disclosure and found that his financial interests remained deeply entangled with the AI sector he was appointed to regulate. [[Palantir Technologies|Palantir Technologies]] — which has billions in government contracts with the Pentagon and ICE for surveillance and data analytics systems, and which describes its own products as AI-enabled on its corporate website — was classified by Sacks' disclosure as NOT an AI company. The classification allowed Sacks to avoid recusal requirements for Palantir-related policy decisions. Palantir's stock appreciated significantly following the rescission of Biden's AI Executive Order in January 2025 — a rescission Sacks celebrated publicly.
+> Public Citizen analyzed Sacks' ethics disclosure and found that his financial interests remained deeply entangled with the AI sector he was appointed to regulate. [[Palantir Technologies|Palantir Technologies]], which has billions in government contracts with the Pentagon and ICE for surveillance and data analytics systems, and which describes its own products as AI-enabled on its corporate website, was classified by Sacks' disclosure as NOT an AI company. The classification allowed Sacks to avoid recusal requirements for Palantir-related policy decisions. Palantir's stock appreciated significantly following the rescission of Biden's AI Executive Order in January 2025, a rescission Sacks celebrated publicly.
 
 ---
 
@@ -81,7 +81,7 @@ The core problem is not the specific holdings Sacks disclosed, it's the portfoli
 - **The result:** Sacks was not required to recuse himself from decisions affecting Palantir's government contracts.
 
 > [!contradiction]
-> Palantir's corporate website describes "AI-powered operations" as its core business. Palantir's stock ticker is listed on the AI/tech indices. Palantir CEO Alex Karp frequently discusses AI as the company's central value proposition. [[_David Sacks Master Profile|David Sacks]]' ethics disclosure classified Palantir as NOT an AI company. The classification was not a mistake — it was the outcome of a disclosure process designed to minimize recusal requirements. The AI Czar decided that the AI surveillance company in his portfolio is not an AI company.
+> Palantir's corporate website describes "AI-powered operations" as its core business. Palantir's stock ticker is listed on the AI/tech indices. Palantir CEO Alex Karp frequently discusses AI as the company's central value proposition. [[_David Sacks Master Profile|David Sacks]]' ethics disclosure classified Palantir as NOT an AI company. The classification was not a mistake, it was the outcome of a disclosure process designed to minimize recusal requirements. The AI Czar decided that the AI surveillance company in his portfolio is not an AI company.
 
 ---
 

@@ -48,8 +48,8 @@ Operation Southern Spear was formally named on November 13, 2025, building on a 
 
 On February 25, 2026, OFAC issued FAQ 1238, announcing a "favorable licensing policy" for specific license applications to resell Venezuelan-origin oil for use in Cuba, but only for transactions supporting "the Cuban people, including the Cuban private sector." Transactions involving the Cuban military, intelligence, or state institutions are explicitly excluded.
 
-> [!money] Follow the Money — The Privatization Mechanism
-> The FAQ 1238 framework creates a structural mechanism: fuel is available to U.S.-aligned private entities but denied to the state grid that powers hospitals, public water systems, and refrigeration. The stated goal is empowering Cuba's private sector. The structural outcome is forced privatization of energy survival — whoever controls fuel access controls the island's economic future. This is not diplomacy; it is asset positioning. The same policy that blocks state fuel creates the "distressed" conditions under which private capital (see: LARA Fund, MasTec) can acquire Cuban infrastructure at fire-sale valuations.
+> [!money] Follow the Money. The Privatization Mechanism
+> The FAQ 1238 framework creates a structural mechanism: fuel is available to U.S.-aligned private entities but denied to the state grid that powers hospitals, public water systems, and refrigeration. The stated goal is empowering Cuba's private sector. The structural outcome is forced privatization of energy survival, whoever controls fuel access controls the island's economic future. This is not diplomacy; it is asset positioning. The same policy that blocks state fuel creates the "distressed" conditions under which private capital (see: LARA Fund, MasTec) can acquire Cuban infrastructure at fire-sale valuations.
 
 ---
 
@@ -66,7 +66,7 @@ By March 2026, the consequences were systemic:
 - Human Rights Watch: "The humanitarian situation in Cuba was already extremely fragile, but the electricity crisis is pushing many essential services to the limit"
 
 > [!contradiction]
-> On March 31, 2026 — the same day Cuba's humanitarian crisis dominated international headlines — Trump allowed a Russian tanker to dock at Matanzas carrying 700,000 barrels of crude, saying "They have to survive." The administration that engineered the fuel blockade positioned itself as the humanitarian exception. The "maximum pressure" architects grant themselves the "humanitarian" release valve. The contradiction reveals the strategy: the blockade is not meant to destroy Cuba permanently but to create sufficient "distress" for a negotiated transition — one in which U.S.-aligned capital acquires state assets at devalued prices.
+> On March 31, 2026, the same day Cuba's humanitarian crisis dominated international headlines. Trump allowed a Russian tanker to dock at Matanzas carrying 700,000 barrels of crude, saying "They have to survive." The administration that engineered the fuel blockade positioned itself as the humanitarian exception. The "maximum pressure" architects grant themselves the "humanitarian" release valve. The contradiction reveals the strategy: the blockade is not meant to destroy Cuba permanently but to create sufficient "distress" for a negotiated transition, one in which U.S.-aligned capital acquires state assets at devalued prices.
 
 ---
 

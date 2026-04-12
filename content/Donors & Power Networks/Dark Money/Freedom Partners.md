@@ -50,7 +50,7 @@ Freedom Partners existed to advance free-market deregulation, kill the Affordabl
 ### Who They Funded
 
 > [!money] Follow the Money
-> Freedom Partners raised $256 million in its first full year (2012) and distributed over $575 million in grants from 2012 to 2017. This was not charity — it was a coordinated investment by the donor class in political infrastructure designed to return policy dividends worth orders of magnitude more.
+> Freedom Partners raised $256 million in its first full year (2012) and distributed over $575 million in grants from 2012 to 2017. This was not charity, it was a coordinated investment by the donor class in political infrastructure designed to return policy dividends worth orders of magnitude more.
 
 ### IRS 990 revenue by year:
 - 2011: $255.7M

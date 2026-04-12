@@ -38,7 +38,7 @@ Sen. Joe Lieberman (I-CT) received $1 million+ from the insurance industry over 
 Sen. Ben Nelson (D-NE) was a former insurance executive. Insurance was his No. 1 industry contributor: $470,649 (2007–2012). [FEC Candidate: Ben Nelson Summary](https://www.fec.gov/data/candidate/S6NE00095/) (Tier 1)
 
 > [!contradiction]
-> Three Democrats killed the public option. All three had direct financial ties to the insurance industry — through donations (Baucus, Lieberman, Nelson), through employment (Nelson was a former insurance executive), through staffing (Baucus's chief health counsel was a former WellPoint VP), and through family (Lieberman's wife lobbied for health companies). The public option died not because Democrats lacked votes but because industry money controlled the votes that mattered.
+> Three Democrats killed the public option. All three had direct financial ties to the insurance industry, through donations (Baucus, Lieberman, Nelson), through employment (Nelson was a former insurance executive), through staffing (Baucus's chief health counsel was a former WellPoint VP), and through family (Lieberman's wife lobbied for health companies). The public option died not because Democrats lacked votes but because industry money controlled the votes that mattered.
 
 ---
 
@@ -102,7 +102,7 @@ The insurance industry does not oppose healthcare reform. It purchases healthcar
 The contradiction is not that the system fails. The contradiction is that both parties call it success. Democrats point to expanded coverage. Republicans point to market-based solutions. Both collect the checks. The insurance industry got exactly what it paid for: a legally compelled customer base with no public alternative and $83 billion/year in excess Medicare payments.
 
 > [!contradiction]
-> $853 million in contributions (1998–2024). $96.4 million in AHIP lobbying (2018–2024). $86.2 million secretly funneled to kill the public option while pledging cooperation at the White House. 93% of incumbents funded. The insurance industry does not hedge its bets — it owns the table.
+> $853 million in contributions (1998–2024). $96.4 million in AHIP lobbying (2018–2024). $86.2 million secretly funneled to kill the public option while pledging cooperation at the White House. 93% of incumbents funded. The insurance industry does not hedge its bets, it owns the table.
 
 ---
 

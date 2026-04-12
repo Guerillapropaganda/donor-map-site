@@ -30,7 +30,7 @@ The 2028 Democratic presidential primary is structurally unusual: an incumbent p
 **The Substack:** In early 2026, Whitmer launched a Substack newsletter, described as focused on "bipartisan solutions." The Substack maintains her national media presence and audience cultivation while allowing her to shape her own narrative outside traditional media gatekeeping.
 
 > [!money]
-> Each of these moves — PAC, DGA, book, Substack — is individually defensible as good governance or public communication. Cumulatively, they form the infrastructure of a presidential campaign that hasn't been announced. The donor class reads this correctly: Whitmer is auditioning. The donations flow to the PAC; the contacts accumulate at DGA events; the book and Substack keep the national media interested. The campaign hasn't started, but the fundraising network is being built.
+> Each of these moves. PAC, DGA, book, Substack, is individually defensible as good governance or public communication. Cumulatively, they form the infrastructure of a presidential campaign that hasn't been announced. The donor class reads this correctly: Whitmer is auditioning. The donations flow to the PAC; the contacts accumulate at DGA events; the book and Substack keep the national media interested. The campaign hasn't started, but the fundraising network is being built.
 
 ---
 
@@ -50,7 +50,7 @@ This is not uncertainty. This is optimal presidential positioning. By not announ
 - Preserves "electability" credibility, she hasn't lost a national race because she hasn't run one
 
 > [!contradiction]
-> The media frames Whitmer's ambivalence as genuine uncertainty. The donor class reads it differently: she's keeping her options open while building the infrastructure. A governor who is genuinely not running doesn't form a federal PAC, take the DGA vice chair role, write a national memoir, and launch a Substack focused on national politics. The ambivalence is the brand. It positions her as reluctant rather than hungry, which is exactly the kind of candidate the donor class prefers — someone who can be convinced, rather than someone who wants it too obviously.
+> The media frames Whitmer's ambivalence as genuine uncertainty. The donor class reads it differently: she's keeping her options open while building the infrastructure. A governor who is genuinely not running doesn't form a federal PAC, take the DGA vice chair role, write a national memoir, and launch a Substack focused on national politics. The ambivalence is the brand. It positions her as reluctant rather than hungry, which is exactly the kind of candidate the donor class prefers, someone who can be convinced, rather than someone who wants it too obviously.
 
 ---
 

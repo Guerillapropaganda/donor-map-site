@@ -30,7 +30,7 @@ No FEC individual contributions found for either "WALLACE, NICOLLE" or "WALLACE,
 
 - [FEC: Nicolle Wallace individual contributions (0 results, $0.00)](https://www.fec.gov/data/receipts/?contributor_name=WALLACE%2C+NICOLLE) (Tier 1)
 
-> **Note on API results:** Searched both "WALLACE, NICOLLE" and "WALLACE, NICOLE" — both return zero results. A career spent inside Republican campaigns and the White House, followed by a decade as an anti-Trump media voice, with $0 in personal political contributions throughout. The influence operates through platforms, not money.
+> **Note on API results:** Searched both "WALLACE, NICOLLE" and "WALLACE, NICOLE", both return zero results. A career spent inside Republican campaigns and the White House, followed by a decade as an anti-Trump media voice, with $0 in personal political contributions throughout. The influence operates through platforms, not money.
 
 ---
 
@@ -99,7 +99,7 @@ Wallace's audience capture operates through identity rather than platform:
 | Mar 2026 | MS NOW schedule overhaul. Wallace's slot appears stable | MS NOW, Comcast | $3-5M/yr est. | Institutional survival through corporate restructuring |
 
 > [!money]
-> Wallace's financial architecture is a mirror image of Fox's institutional capture model: a single corporate employer (Comcast) providing $3-5M/year with zero alternative platform. Her value proposition — "former Republican who saw the truth" — is entirely dependent on credentials from a political identity she has abandoned. This creates a unique dependency trap: she cannot return to Republican politics (burned those bridges) and cannot build independent media (no platform beyond MS NOW). The institution owns her brand more completely than almost any other figure in this pipeline.
+> Wallace's financial architecture is a mirror image of Fox's institutional capture model: a single corporate employer (Comcast) providing $3-5M/year with zero alternative platform. Her value proposition, "former Republican who saw the truth", is entirely dependent on credentials from a political identity she has abandoned. This creates a unique dependency trap: she cannot return to Republican politics (burned those bridges) and cannot build independent media (no platform beyond MS NOW). The institution owns her brand more completely than almost any other figure in this pipeline.
 
 ### Class Analysis
 
@@ -127,5 +127,5 @@ Wallace embodies the Revolving Door (Media) pattern in its purest form, governme
 - [Ballotpedia: Nicolle Wallace](https://ballotpedia.org/Nicolle_Wallace) (Tier 3)
 - [FEC: Nicolle Wallace individual contributions (0 results, $0.00)](https://www.fec.gov/data/receipts/?contributor_name=WALLACE%2C+NICOLLE) (Tier 1)
 
-> **Technical note:** The FEC API link returns raw JSON from the FEC government database. Nicolle Wallace shows zero federal political contributions across both "NICOLLE" and "NICOLE" name variations. A former White House Communications Director and presidential campaign senior advisor with $0 in personal political giving across her entire career — influence flows through institutional access, never personal donations.
+> **Technical note:** The FEC API link returns raw JSON from the FEC government database. Nicolle Wallace shows zero federal political contributions across both "NICOLLE" and "NICOLE" name variations. A former White House Communications Director and presidential campaign senior advisor with $0 in personal political giving across her entire career, influence flows through institutional access, never personal donations.
 

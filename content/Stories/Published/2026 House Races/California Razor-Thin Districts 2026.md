@@ -83,7 +83,7 @@ Michelle Steel has already declared her candidacy to run again in 2026, guarante
 This is unprecedented: the two closest House races in 2024 are now locked into 2026 rematches, both in California, both with vulnerable incumbents elected by fewer than 700 votes combined.
 
 > [!contradiction]
-> Michelle Steel's 2024 loss broke a Republican hold on Little Saigon that had lasted decades. Steel represented Orange County's Vietnamese American community for four years. Yet she lost to Tran, also Vietnamese American, suggesting the election turned on something other than ethnic representation — likely anti-incumbent sentiment and Trump's unpopularity in immigrant communities in November 2024.
+> Michelle Steel's 2024 loss broke a Republican hold on Little Saigon that had lasted decades. Steel represented Orange County's Vietnamese American community for four years. Yet she lost to Tran, also Vietnamese American, suggesting the election turned on something other than ethnic representation, likely anti-incumbent sentiment and Trump's unpopularity in immigrant communities in November 2024.
 
 In 2026, the presidential context will be different. Trump is president. Immigration enforcement is a central issue. Steel will emphasize law-and-order framing. Tran will fight to hold suburban, college-educated voters and Asian American support.
 

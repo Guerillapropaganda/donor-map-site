@@ -130,7 +130,7 @@ audit-a-plus-passed: "2026-04-11"
 **Uber Innovation PAC**. Formed as a California state PAC. Committed $30 million for the 2024 cycle, one of California's largest single-funded state PACs. Spent more than $7 million on independent expenditures in the 2024 California legislative cycle, representing 7% of all outside money in state legislative races. Supported or opposed 26 candidates. Specific expenditures included $990,000+ opposing Democrat Kathryn Lybarger, $443,000 in Assembly District 26 (Los Angeles), and $274,000+ supporting a single candidate. As of December 31, 2025: $20.7 million cash on hand. [Source: Mercury News / Transparency USA. Tier 2]
 
 > [!money]
-> Uber's California political operation is no longer just about Prop 22. The Innovation PAC spent $7 million in a single cycle shaping who sits in the state legislature. That's not influence — it's legislative curation.
+> Uber's California political operation is no longer just about Prop 22. The Innovation PAC spent $7 million in a single cycle shaping who sits in the state legislature. That's not influence, it's legislative curation.
 
 ### California campaigns (sample 2021 recipients):
 , Akilah Weber for CA Assembly: $4,900

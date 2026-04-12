@@ -16,7 +16,7 @@ donors: [[Fossil Fuel Bloc]] · [[Koch Network - Charles Koch]]
 ### The BBB Kill and IRA Fossil Fuel Concessions
 
 > [!money]
-> [[_Joe Manchin Master Profile|Joe Manchin]] killed $186 billion in climate provisions from Build Back Better — the largest climate investment in American history — and then extracted the Mountain Valley Pipeline, mandatory fossil fuel lease sales, and weakened methane fees as the price of supporting the smaller Inflation Reduction Act. The fossil fuel industry's total lobbying spend on BBB was $400,000+ from coal alone plus broader energy industry pressure. Manchin's one vote delivered what hundreds of millions in lobbying might not have achieved: the systematic gutting of transformative climate legislation.
+> [[_Joe Manchin Master Profile|Joe Manchin]] killed $186 billion in climate provisions from Build Back Better, the largest climate investment in American history, and then extracted the Mountain Valley Pipeline, mandatory fossil fuel lease sales, and weakened methane fees as the price of supporting the smaller Inflation Reduction Act. The fossil fuel industry's total lobbying spend on BBB was $400,000+ from coal alone plus broader energy industry pressure. Manchin's one vote delivered what hundreds of millions in lobbying might not have achieved: the systematic gutting of transformative climate legislation.
 
 ---
 
@@ -117,7 +117,7 @@ The IRA passed August 2022 with $369 billion in climate and energy investments. 
 **Source:** [Food & Water Watch: Manchin's Dirty Side Deal Sidelined](https://www.foodandwaterwatch.org/2022/09/27/manchin-side-deal-removed/) (Tier 2)
 
 > [!contradiction]
-> The IRA is celebrated as the largest climate investment in American history ($369 billion). But the fossil fuel concessions Manchin extracted ensure that climate investment is permanently tethered to fossil fuel expansion. The law mandates that the government sell oil and gas leases as a precondition for renewable development. The "climate bill" structurally guarantees continued fossil fuel extraction. Manchin didn't just extract a compromise — he embedded fossil fuel dependency into the architecture of climate legislation itself.
+> The IRA is celebrated as the largest climate investment in American history ($369 billion). But the fossil fuel concessions Manchin extracted ensure that climate investment is permanently tethered to fossil fuel expansion. The law mandates that the government sell oil and gas leases as a precondition for renewable development. The "climate bill" structurally guarantees continued fossil fuel extraction. Manchin didn't just extract a compromise, he embedded fossil fuel dependency into the architecture of climate legislation itself.
 
 ---
 

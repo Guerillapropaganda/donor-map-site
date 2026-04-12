@@ -70,7 +70,7 @@ Founded in 1980 as a successor to Coastal States Gas Corporation, Valero generat
 Valero represents the refining segment of the fossil fuel donor class, distinct from upstream producers (ExxonMobil, Chevron) but aligned on regulatory opposition. Refiners face a unique squeeze: they must buy crude at market prices and sell refined products into regulated markets, making them especially aggressive on environmental compliance costs, Renewable Fuel Standard (RFS) mandates, and carbon pricing. Valero's political operation exists to ensure that the regulatory environment never makes refining unprofitable, and that the transition to electric vehicles and renewable energy proceeds slowly enough for the company to extract maximum value from existing infrastructure.
 
 > [!money]
-> Valero's political spending is strategically bipartisan but leans heavily Republican. In the 2024 cycle, the company's total political spending reached **$5.66 million** (PAC + individual contributions). The PAC alone gave **$595,000** to federal candidates. But the real money flows through super PAC contributions: **$250,000 each** to the House and Senate Republican super PACs (Congressional Leadership Fund and Senate Leadership Fund) in a single quarter — timed to coincide with Republican legislation clearing the way for new oil and gas infrastructure.
+> Valero's political spending is strategically bipartisan but leans heavily Republican. In the 2024 cycle, the company's total political spending reached **$5.66 million** (PAC + individual contributions). The PAC alone gave **$595,000** to federal candidates. But the real money flows through super PAC contributions: **$250,000 each** to the House and Senate Republican super PACs (Congressional Leadership Fund and Senate Leadership Fund) in a single quarter, timed to coincide with Republican legislation clearing the way for new oil and gas infrastructure.
 
 ---
 
@@ -115,7 +115,7 @@ Valero's PAC contributions flow to members of Congress on energy, commerce, and 
 , **Maintained fossil fuel tax provisions**, carried interest, intangible drilling costs deduction, percentage depletion allowance all preserved
 
 > [!contradiction]
-> Valero brands itself as "advancing the future of energy" and highlights its renewable diesel and ethanol operations. But the renewables division exists because of government mandates (RFS) that Valero simultaneously lobbies to weaken. The company's 3.2 million barrels/day of petroleum refining capacity dwarfs its renewable fuel output. The "energy transition" branding is a hedge — if mandates tighten, Valero has renewable assets to point to; if mandates weaken, the company's core fossil fuel business is protected.
+> Valero brands itself as "advancing the future of energy" and highlights its renewable diesel and ethanol operations. But the renewables division exists because of government mandates (RFS) that Valero simultaneously lobbies to weaken. The company's 3.2 million barrels/day of petroleum refining capacity dwarfs its renewable fuel output. The "energy transition" branding is a hedge, if mandates tighten, Valero has renewable assets to point to; if mandates weaken, the company's core fossil fuel business is protected.
 
 ---
 

@@ -41,7 +41,7 @@ Boreing's income and the Daily Wire's revenue stream operated across multiple ve
 No FEC individual contributions found. The FEC API returns 0 results for "BOREING, JEREMY", no false positives, no disambiguation required. Confirmed $0.
 
 > [!money]
-> Boreing built the infrastructure for political influence — the capital returns flow through equity and consumer brands, not personal donations. The pattern is identical to Ben Shapiro ($0), Matt Walsh ($0), Michael Knowles ($0), and Laura Ingraham ($0): Daily Wire principals exercise political influence through platform scale, not personal campaign giving. This is the Daily Wire model — the donor (Wilks Brothers) provides capital, the talent provides reach, and the capital returns flow through equity stakes and consumer brand revenue rather than political contributions.
+> Boreing built the infrastructure for political influence, the capital returns flow through equity and consumer brands, not personal donations. The pattern is identical to Ben Shapiro ($0), Matt Walsh ($0), Michael Knowles ($0), and Laura Ingraham ($0): Daily Wire principals exercise political influence through platform scale, not personal campaign giving. This is the Daily Wire model, the donor (Wilks Brothers) provides capital, the talent provides reach, and the capital returns flow through equity stakes and consumer brand revenue rather than political contributions.
 
 - [FEC: Jeremy Boreing individual contributions (0 results)](https://www.fec.gov/data/receipts/?contributor_name=BOREING%2C+JEREMY) (Tier 1)
 
@@ -116,7 +116,7 @@ Boreing's model differs from individual host capture, he built the platform infr
 | March 2026 | Launches *The Jeremy Boreing Show* as independent production | Boreing |, | Post-Daily Wire independent media launch; tests whether Boreing has personal audience independent of Daily Wire infrastructure |
 
 > [!money]
-> The Daily Wire's transformation from a pool house podcast to a $200M+ annual enterprise is Boreing's structural achievement. The Wilks Brothers provided the capital; Boreing provided the architecture — specifically, the insight that the advertiser-dependency trap could be avoided through subscription revenue and consumer brand diversification. Jeremy's Razors (est. $20M/yr by 2024) and Mayflower Cigars ($4.2M since launch) are not merchandise — they are anti-institutional political infrastructure, proving that conservative audience loyalty can be converted into consumer revenue that bypasses corporate advertiser leverage entirely. Harry's Razors thought they were punishing the Knowles Show by pulling $8M in ads. Boreing built a $20M/year replacement. The boycott became the product.
+> The Daily Wire's transformation from a pool house podcast to a $200M+ annual enterprise is Boreing's structural achievement. The Wilks Brothers provided the capital; Boreing provided the architecture, specifically, the insight that the advertiser-dependency trap could be avoided through subscription revenue and consumer brand diversification. Jeremy's Razors (est. $20M/yr by 2024) and Mayflower Cigars ($4.2M since launch) are not merchandise, they are anti-institutional political infrastructure, proving that conservative audience loyalty can be converted into consumer revenue that bypasses corporate advertiser leverage entirely. Harry's Razors thought they were punishing the Knowles Show by pulling $8M in ads. Boreing built a $20M/year replacement. The boycott became the product.
 
 ### Class Analysis
 

@@ -46,13 +46,13 @@ No FEC individual contributions found. FEC API returns zero results for "Lex Fri
 
 - [FEC: Lex Fridman individual contributions (0 results)](https://www.fec.gov/data/receipts/?contributor_name=lex+fridman) (Tier 1)
 
-> **Note on API results:** The FEC API search for "lex fridman" returns zero results across all variations. No API matches for the media personality. Consistent with his explicit "apolitical" brand positioning and lack of personal political engagement. No results to disambiguate — zero contributions on record.
+> **Note on API results:** The FEC API search for "lex fridman" returns zero results across all variations. No API matches for the media personality. Consistent with his explicit "apolitical" brand positioning and lack of personal political engagement. No results to disambiguate, zero contributions on record.
 
 > [!money]
 > Fridman's zero contributions are structurally aligned with his funding model: distributed tech-sector sponsorship creates no incentive for personal political giving. Unlike Taibbi (individual donor to Democrats, then bipartisan) or Kasparian (progressive donor to boss's PAC), Fridman's politics don't register in FEC records because his funding operates entirely through platform access and advertiser relationships rather than personal political conviction. This absence is itself ideologically significant: it suggests the "apolitical" brand is not performed independence but structurally dependent neutrality.
 
 > [!money]
-> Fridman has no single corporate patron like Rogan's Spotify deal ($450M+) or Carlson's Fox contract. Instead, his funding model is **distributed dependency**: dozens of tech-sector sponsors whose executives are also his guests. The sponsor-guest pipeline creates an incentive structure where critical questioning of tech companies would jeopardize both ad revenue and access to future guests. The dependency is invisible because it's diffuse — but it's structurally identical to advertiser capture.
+> Fridman has no single corporate patron like Rogan's Spotify deal ($450M+) or Carlson's Fox contract. Instead, his funding model is **distributed dependency**: dozens of tech-sector sponsors whose executives are also his guests. The sponsor-guest pipeline creates an incentive structure where critical questioning of tech companies would jeopardize both ad revenue and access to future guests. The dependency is invisible because it's diffuse, but it's structurally identical to advertiser capture.
 
 ---
 

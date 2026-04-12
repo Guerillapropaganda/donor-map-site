@@ -72,13 +72,13 @@ Key subsidiaries relevant to this database:
 ### Who They Fund
 
 > [!money]
-> **[[_Gavin Newsom Master Profile|Gavin Newsom]] — at least $231,000 documented:**
-> — $100,000 to inaugural fund (2019)
-> — ~$58,000 combined during 2018 campaign cycle
-> — $31,000 to reelection campaign (December 2019)
-> — $100,000 to ballot measure committee
+> **[[_Gavin Newsom Master Profile|Gavin Newsom]], at least $231,000 documented:**
+>, $100,000 to inaugural fund (2019)
+>, ~$58,000 combined during 2018 campaign cycle
+>, $31,000 to reelection campaign (December 2019)
+>, $100,000 to ballot measure committee
 >
-> The timeline matters: the inaugural contribution came before the COVID contracts. The reelection and ballot measure contributions came after. Total state payments to UnitedHealth subsidiaries during this period: **$544.2 million** while donating $120,900+ (2018–2022). That is a 4,500-to-1 return on investment measured in state contract dollars alone. [Source: CapRadio, 2021 / CA Secretary of State Power Search — Tier 1/2]
+> The timeline matters: the inaugural contribution came before the COVID contracts. The reelection and ballot measure contributions came after. Total state payments to UnitedHealth subsidiaries during this period: **$544.2 million** while donating $120,900+ (2018–2022). That is a 4,500-to-1 return on investment measured in state contract dollars alone. [Source: CapRadio, 2021 / CA Secretary of State Power Search. Tier 1/2]
 
 ### Federal PAC (OpenSecrets):
 , 2023-24 cycle: $3.14 million raised, $4.47 million in contributions
@@ -137,7 +137,7 @@ Healthcare. COVID contracts, PBM regulation, single-payer
 | 2024-12 | UnitedHealth CEO Brian Thompson shot and killed in NYC |, | National attention on insurance industry denial-of-care practices |, | Public anger connected to exact PBM/denial practices Newsom's vetoes protected |
 
 > [!money] The No-Bid Math
-> UnitedHealth contributed $231K+ to Newsom across campaigns, inaugural fund, and ballot measures. It received $544.2 million in state contracts during the same period — a 2,355-to-1 return measured in raw contract dollars. The no-bid COVID contracts ($459M) came after the $100K inaugural donation and before the $31K reelection contribution. The contributions after the contracts confirm this is an ongoing relationship, not a one-time transaction. Then in 2024, Newsom vetoed both PBM oversight and private equity healthcare acquisition bills — protecting UnitedHealth/OptumRx's core business model. The $231K purchased $544M in contracts and regulatory protection worth billions in preserved revenue.
+> UnitedHealth contributed $231K+ to Newsom across campaigns, inaugural fund, and ballot measures. It received $544.2 million in state contracts during the same period, a 2,355-to-1 return measured in raw contract dollars. The no-bid COVID contracts ($459M) came after the $100K inaugural donation and before the $31K reelection contribution. The contributions after the contracts confirm this is an ongoing relationship, not a one-time transaction. Then in 2024, Newsom vetoed both PBM oversight and private equity healthcare acquisition bills, protecting UnitedHealth/OptumRx's core business model. The $231K purchased $544M in contracts and regulatory protection worth billions in preserved revenue.
 
 [Source: [CapRadio: no-bid contracts investigation](https://www.capradio.org/articles/2021/02/16/investigation-big-newsom-donors-including-blue-shield-received-no-bid-contracts-during-covid-19-response/) (Tier 2); [OpenSecrets: UnitedHealth Group PAC profile](https://www.opensecrets.org/orgs/unitedhealth-group/summary?id=D000000348) (Tier 1); [CA Secretary of State: Power Search](https://powersearch.sos.ca.gov/advanced.php) (Tier 1)]
 

@@ -27,7 +27,7 @@ The podcast hosts (Favreau, Vietor, Lovett, Pfeiffer) do not individually file F
 - [FEC: Vote Save America PAC (C00835587). Committee Overview](https://www.fec.gov/data/committee/C00835587/) (Tier 1)
 - [OpenSecrets: Vote Save America PAC Profile](https://www.opensecrets.org/political-action-committees-pacs/vote-save-america/C00835587/summary/2024) (Tier 1)
 
-> **Note on FEC structure:** Pod Save America is a media organization, not individual contributors. The hosts' political giving operates through their affiliated PAC (Vote Save America) rather than personal FEC filings. Individual host contributions are not separately reportable — they operate as a unified political entity through the PAC. No individual FEC records exist to disambiguate; the PAC itself is the organizational vehicle.
+> **Note on FEC structure:** Pod Save America is a media organization, not individual contributors. The hosts' political giving operates through their affiliated PAC (Vote Save America) rather than personal FEC filings. Individual host contributions are not separately reportable, they operate as a unified political entity through the PAC. No individual FEC records exist to disambiguate; the PAC itself is the organizational vehicle.
 
 ---
 
@@ -95,7 +95,7 @@ The hosts provide this. Their insider credibility, they *were* in the room, lets
 The SiriusXM deal deepens this dynamic. SXM Media is not a neutral distribution partner, it is the advertising infrastructure of a major corporate media conglomerate. The ad inventory that Crooked Media runs through SXM connects its "progressive" content to the same Fortune 500 advertiser pool that buys time on CNN, MSNBC, and mainstream liberal outlets. The sponsors' presence in the feed sends a quiet signal: this content is safe for corporate America.
 
 > [!contradiction]
-> Pod Save America's core brand proposition is "former insiders telling you the truth the party won't." The funding model inverts this: a Soros-backed, SiriusXM-distributed, Fortune 500-sponsored media operation staffed by ex-Obama consultants. When 61 of their own workers unionized and demanded fair wages, Crooked Media spent more than a year resisting — long enough that the WGAE filed Unfair Labor Practice charges with the NLRB for systematically excluding workers from the bargaining unit. The company that tells its audience to organize and vote took 13+ months to give its own staff a contract.
+> Pod Save America's core brand proposition is "former insiders telling you the truth the party won't." The funding model inverts this: a Soros-backed, SiriusXM-distributed, Fortune 500-sponsored media operation staffed by ex-Obama consultants. When 61 of their own workers unionized and demanded fair wages, Crooked Media spent more than a year resisting, long enough that the WGAE filed Unfair Labor Practice charges with the NLRB for systematically excluding workers from the bargaining unit. The company that tells its audience to organize and vote took 13+ months to give its own staff a contract.
 
 ---
 
@@ -122,7 +122,7 @@ The SiriusXM deal deepens this dynamic. SXM Media is not a neutral distribution 
 | 2023–24 | Vote Save America PAC raises $8.67M for Democratic candidates | Vote Save America PAC | $8.67M | FEC-documented political fundraising arm raises millions directly for party |
 
 > [!money]
-> Vote Save America has raised over $70M for Democratic candidates and causes since 2018 — channeled through a PAC funded primarily by the PSA audience. The media operation is the donor acquisition engine for the political operation. Crooked Media is not just a podcast company that does activism; it is a campaign finance vehicle with a podcast on top.
+> Vote Save America has raised over $70M for Democratic candidates and causes since 2018, channeled through a PAC funded primarily by the PSA audience. The media operation is the donor acquisition engine for the political operation. Crooked Media is not just a podcast company that does activism; it is a campaign finance vehicle with a podcast on top.
 
 ---
 

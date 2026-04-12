@@ -142,7 +142,7 @@ The real PAC spending happens at the state level, where individual state Farm Bu
 AFBF maintains 22+ registered federal lobbyists in its public policy department, plus 20+ state Farm Bureaus with their own registered federal lobbyists, a total lobbying force significantly larger than the national numbers suggest.
 
 > [!money]
-> AFBF spent $16 million on federal lobbying over the decade 2002-2012 — 45% of the total spent by the ten largest agribusiness interests. The return: Farm Bill commodity programs worth tens of billions per cycle, crop insurance subsidies, EPA regulatory rollbacks, and trade war bailout payments. The 2020 trade bailout alone distributed $20+ billion to farmers, with two-thirds going to the top 10% of producers. AFBF's lobbying investment is a rounding error compared to the subsidies it protects.
+> AFBF spent $16 million on federal lobbying over the decade 2002-2012, 45% of the total spent by the ten largest agribusiness interests. The return: Farm Bill commodity programs worth tens of billions per cycle, crop insurance subsidies, EPA regulatory rollbacks, and trade war bailout payments. The 2020 trade bailout alone distributed $20+ billion to farmers, with two-thirds going to the top 10% of producers. AFBF's lobbying investment is a rounding error compared to the subsidies it protects.
 
 ---
 
@@ -160,7 +160,7 @@ AFBF's political legitimacy rests on its "6 million members" claim. That claim r
 The insurance companies are legally separate from AFBF, for-profit entities owned by state Farm Bureaus. But the membership model links them structurally: purchasing a Farm Bureau insurance policy requires paying Farm Bureau dues, which counts the policyholder as a "member." A Missouri analysis found less than one-third of state Farm Bureau members are farmers. The remaining two-thirds are suburbanites with car insurance who are counted as agricultural constituents when AFBF testifies before Congress.
 
 > [!contradiction]
-> AFBF tells Congress it represents 5.9 million farm families — more than twice the total number of farmers in America. The membership count includes insurance customers who have never planted a seed. The "Voice of Agriculture" is, by membership composition, primarily the voice of people who bought homeowners' insurance from a company with "Farm" in the name. The political power is real. The agricultural identity is manufactured.
+> AFBF tells Congress it represents 5.9 million farm families, more than twice the total number of farmers in America. The membership count includes insurance customers who have never planted a seed. The "Voice of Agriculture" is, by membership composition, primarily the voice of people who bought homeowners' insurance from a company with "Farm" in the name. The political power is real. The agricultural identity is manufactured.
 
 ---
 
@@ -247,7 +247,7 @@ The American Farm Bureau Federation is a case study in institutional identity fr
 | Net Assets | $108.4M |
 | Officer Compensation | $2.5M |
 
-- [Source: ProPublica Nonprofit Explorer — EIN 360725160](https://projects.propublica.org/nonprofits/organizations/360725160) (Tier 1) (VERIFIED)
+- [Source: ProPublica Nonprofit Explorer - EIN 360725160](https://projects.propublica.org/nonprofits/organizations/360725160) (Tier 1) (VERIFIED)
 - [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F360725160_202311_990O_2024121122947525.pdf) (Tier 1) (VERIFIED)
 
 <!-- auto:propublica-990 end -->
@@ -259,7 +259,7 @@ The American Farm Bureau Federation is a case study in institutional identity fr
 - [OpenSecrets: Farm Bureau PACs Industry Detail 2022](https://www.opensecrets.org/political-action-committees-pacs/industry-detail/A6500/2022) (Tier 1) (VERIFIED)
 - [USDA: Farmer Bridge Assistance Announcement (Dec 2025)](https://www.usda.gov/about-usda/news/press-releases/2025/12/08/trump-administration-announces-12-billion-farmer-bridge-payments-american-farmers-impacted-unfair) (Tier 1) (VERIFIED)
 - [EWG: Farm Subsidies Ballooned Under Trump (Interactive)](https://www.ewg.org/interactive-maps/2021-farm-subsidies-ballooned-under-trump/) (Tier 1) (VERIFIED)
-- [Investigate Midwest: The "Voice of Agriculture" — These Groups Beg to Differ](https://investigatemidwest.org/2022/02/08/the-american-farm-bureau-federation-claims-its-the-voice-of-agriculture-these-groups-beg-to-differ/) (Tier 2) (VERIFIED)
+- [Investigate Midwest: The "Voice of Agriculture" - These Groups Beg to Differ](https://investigatemidwest.org/2022/02/08/the-american-farm-bureau-federation-claims-its-the-voice-of-agriculture-these-groups-beg-to-differ/) (Tier 2) (VERIFIED)
 - [Civil Eats: How Four Years of Trump Reshaped Food and Farming](https://civileats.com/2020/11/02/how-four-years-of-trump-reshaped-food-and-farming/) (Tier 2) (VERIFIED)
 - [Inside Climate News: Reducing Methane from Livestock Critical for Climate](https://insideclimatenews.org/news/22122023/milking-it-reducing-methane-from-livestock-critical-for-climate/) (Tier 2) (VERIFIED)
 - [NPR: Trump Administration Announcing $12 Billion in Farm Payments](https://www.npr.org/2018/07/24/631953880/trump-administration-to-provide-farmers-12-billion-to-offset-tariffs) (Tier 2) (VERIFIED)
@@ -268,7 +268,7 @@ The American Farm Bureau Federation is a case study in institutional identity fr
 - [IATP: Farm Bureau Leadership Accused of Playing to Business Interests](https://www.iatp.org/news/farm-bureau-leadership-accused-of-playing-to-business-interests) (Tier 2) (VERIFIED)
 - [Missouri Independent: AFBF Representation Criticism](https://missouriindependent.com/2022/02/15/american-farm-bureau-federation-claims-its-the-voice-of-agriculture-others-beg-to-differ/) (Tier 2) (VERIFIED)
 - [InfluenceWatch: AFBF Profile](https://www.influencewatch.org/labor-union/american-farm-bureau-federation/) (Tier 3) (VERIFIED)
-- ~~[SourceWatch: AFBF](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/American_Farm_Bureau_Federation)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3)
+- ~~[SourceWatch: AFBF](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/American_Farm_Bureau_Federation)~~ (was Tier 3 - URL broken, archived by Ops) (Tier 3)
 - [Wikipedia: American Farm Bureau Federation](https://en.wikipedia.org/wiki/American_Farm_Bureau_Federation) (Tier 3) (VERIFIED)
 
 ---
@@ -284,9 +284,9 @@ The American Farm Bureau Federation is a case study in institutional identity fr
 
 | Recipient | Amount | Party |
 |-----------|--------|-------|
-| AG AMERICA | $21,094 | — |
-| DNC-NONFEDERAL-CORPORATE | $20,000 | — |
-| NRCCC - NON FED ACT | $3,000 | — |
+| AG AMERICA | $21,094 | - |
+| DNC-NONFEDERAL-CORPORATE | $20,000 | - |
+| NRCCC - NON FED ACT | $3,000 | - |
 | REPUBLICAN NATIONAL COMMITTEE - CONTRIBUTIONS (AKA REPUBLICAN NATIONAL FINANCE COMMITTEE | $200 | REP |
 
 - [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=American%20Farm%20Bureau%20Federation) (Tier 1) (VERIFIED)
@@ -313,8 +313,8 @@ The American Farm Bureau Federation is a case study in institutional identity fr
 <!-- auto:influence-cross-ref end -->
 
 <!-- auto:influence-cross-ref pending-merge 2026-04-12 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+> [!attention] Fresh API data available - needs manual merge
+> Bot detected your edits to this section. New data below - fold in what's useful, then delete this block.
 
 | Metric | Value |
 |--------|-------|
@@ -368,11 +368,11 @@ The American Farm Bureau Federation is a case study in institutional identity fr
 
 **Notable filings:**
 
-- 2002-01-04 — **425**: 425
-- 2002-01-04 — **425**: 425
-- 2004-04-02 — **8-K**: FBL FINANCIAL 8-K
-- 2002-01-14 — **425**: FORM 425:  PRESS RELEASE
-- 2002-01-10 — **425**: 425
+- 2002-01-04 - **425**: 425
+- 2002-01-04 - **425**: 425
+- 2004-04-02 - **8-K**: FBL FINANCIAL 8-K
+- 2002-01-14 - **425**: FORM 425:  PRESS RELEASE
+- 2002-01-10 - **425**: 425
 
 - [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22American%20Farm%20Bureau%20Federation%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:sec-edgar end -->
@@ -386,12 +386,12 @@ The American Farm Bureau Federation is a case study in institutional identity fr
 | Case Types | 2899 Other Statutes APA/Review Agency, 440 Civil Rights: Other, 441 Civil Rights: Voting, 441 Voting, 442 Civil Rights: Employment |
 
 **Notable cases:**
-- REQUEST FOR EXEMPTION FROM ELECTRONIC PUBLIC ACCESS FEES BY ALEXANDER LOVE (2026) — District Court, District of Columbia
-- United States v. Ziriax (2026) — District Court, W.D. Oklahoma
-- United States v. Thomas (2026) — District Court, D. Connecticut
-- United States v. EVANS (2025) — District Court, District of Columbia
-- United States v. Matthews (2025) — District Court, C.D. Illinois
-- United States v. RAFFENSPERGER (2025) — District Court, M.D. Georgia
+- REQUEST FOR EXEMPTION FROM ELECTRONIC PUBLIC ACCESS FEES BY ALEXANDER LOVE (2026) - District Court, District of Columbia
+- United States v. Ziriax (2026) - District Court, W.D. Oklahoma
+- United States v. Thomas (2026) - District Court, D. Connecticut
+- United States v. EVANS (2025) - District Court, District of Columbia
+- United States v. Matthews (2025) - District Court, C.D. Illinois
+- United States v. RAFFENSPERGER (2025) - District Court, M.D. Georgia
 
 - [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22American%20Farm%20Bureau%20Federation%22&type=r) (Tier 1) (VERIFIED)
 <!-- auto:courtlistener-cases end -->
@@ -407,12 +407,12 @@ The American Farm Bureau Federation is a case study in institutional identity fr
 | Agencies | Agricultural Marketing Service, Agriculture Department, Commerce Department, Employment and Training Administration, Energy Department, Environmental Protection Agency, Federal Energy Regulatory Commission, Fish and Wildlife Service +6 more |
 
 **Recent regulatory activity:**
-- [Endangered and Threatened Wildlife and Plants; Regulations Pertaining to Endangered and Threatened Wildlife and Plants](https://www.federalregister.gov/documents/2025/11/21/2025-20552/endangered-and-threatened-wildlife-and-plants-regulations-pertaining-to-endangered-and-threatened) (VERIFIED) (2025-11-21) — Interior Department ★
-- [Endangered and Threatened Wildlife and Plants; Listing Endangered and Threatened Species and Designating Critical Habitat](https://www.federalregister.gov/documents/2025/11/21/2025-20549/endangered-and-threatened-wildlife-and-plants-listing-endangered-and-threatened-species-and) (2025-11-21) — Interior Department ★
-- [Recission of Final Rule: Improving Protections for Workers in Temporary Agricultural Employment in the United States](https://www.federalregister.gov/documents/2025/07/02/2025-12315/recission-of-final-rule-improving-protections-for-workers-in-temporary-agricultural-employment-in) (2025-07-02) — Labor Department ★
-- [Distribution of Continued Dumping and Subsidy Offset to Affected Domestic Producers](https://www.federalregister.gov/documents/2025/05/30/2025-08516/distribution-of-continued-dumping-and-subsidy-offset-to-affected-domestic-producers) (2025-05-30) — Homeland Security Department
-- [Air Plan Approval; Pennsylvania; Redesignation Request and Associated Maintenance Plan for the Liberty-Clairton Area for the 1997 Annual and 2006 24-Hour Fine Particulate Matter Standard and Maintenance Plan for the Allegheny County Area for the 2012 Annual Fine Particulate Matter Standard](https://www.federalregister.gov/documents/2025/04/07/2025-05921/air-plan-approval-pennsylvania-redesignation-request-and-associated-maintenance-plan-for-the) (2025-04-07) — Environmental Protection Agency
-- [Review of the Secondary National Ambient Air Quality Standards for Oxides of Nitrogen, Oxides of Sulfur, and Particulate Matter](https://www.federalregister.gov/documents/2024/12/27/2024-29463/review-of-the-secondary-national-ambient-air-quality-standards-for-oxides-of-nitrogen-oxides-of) (2024-12-27) — Environmental Protection Agency ★
+- [Endangered and Threatened Wildlife and Plants; Regulations Pertaining to Endangered and Threatened Wildlife and Plants](https://www.federalregister.gov/documents/2025/11/21/2025-20552/endangered-and-threatened-wildlife-and-plants-regulations-pertaining-to-endangered-and-threatened) (VERIFIED) (2025-11-21) - Interior Department ★
+- [Endangered and Threatened Wildlife and Plants; Listing Endangered and Threatened Species and Designating Critical Habitat](https://www.federalregister.gov/documents/2025/11/21/2025-20549/endangered-and-threatened-wildlife-and-plants-listing-endangered-and-threatened-species-and) (2025-11-21) - Interior Department ★
+- [Recission of Final Rule: Improving Protections for Workers in Temporary Agricultural Employment in the United States](https://www.federalregister.gov/documents/2025/07/02/2025-12315/recission-of-final-rule-improving-protections-for-workers-in-temporary-agricultural-employment-in) (2025-07-02) - Labor Department ★
+- [Distribution of Continued Dumping and Subsidy Offset to Affected Domestic Producers](https://www.federalregister.gov/documents/2025/05/30/2025-08516/distribution-of-continued-dumping-and-subsidy-offset-to-affected-domestic-producers) (2025-05-30) - Homeland Security Department
+- [Air Plan Approval; Pennsylvania; Redesignation Request and Associated Maintenance Plan for the Liberty-Clairton Area for the 1997 Annual and 2006 24-Hour Fine Particulate Matter Standard and Maintenance Plan for the Allegheny County Area for the 2012 Annual Fine Particulate Matter Standard](https://www.federalregister.gov/documents/2025/04/07/2025-05921/air-plan-approval-pennsylvania-redesignation-request-and-associated-maintenance-plan-for-the) (2025-04-07) - Environmental Protection Agency
+- [Review of the Secondary National Ambient Air Quality Standards for Oxides of Nitrogen, Oxides of Sulfur, and Particulate Matter](https://www.federalregister.gov/documents/2024/12/27/2024-29463/review-of-the-secondary-national-ambient-air-quality-standards-for-oxides-of-nitrogen-oxides-of) (2024-12-27) - Environmental Protection Agency ★
 - ... and 204 more
 
 - [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22American%20Farm%20Bureau%20Federation%22) (Tier 1)

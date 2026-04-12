@@ -54,13 +54,13 @@ The Adelson political agenda operates on two tracks: Israel policy and business 
 
 ### Who They Fund. Cycle-by-Cycle
 
-> [!money] $557 Million — The Largest Family Political Operation in American History
+> [!money] $557 Million. The Largest Family Political Operation in American History
 > **Combined Adelson lifetime political giving:**
 > - Sheldon (lifetime): $273 million
 > - Miriam (lifetime): $284 million
 > - **Family total: $557 million+**
 >
-> Every dollar went to Republican and conservative causes. The Adelsons are the only American family to exceed $100 million in a single election cycle — and they did it in 2012, 2016, 2020, and 2024.
+> Every dollar went to Republican and conservative causes. The Adelsons are the only American family to exceed $100 million in a single election cycle, and they did it in 2012, 2016, 2020, and 2024.
 
 ### By election cycle:
 
@@ -118,16 +118,16 @@ Trump withdrew from the JCPOA on May 8, 2018, 11 months after receiving Adelson'
 
 ### The Wire Act. The Business Protection Purchase
 
-> [!money] The Wire Act Reinterpretation — Policy-for-Profit
-> In November 2018, DOJ reversed its 2011 opinion to declare the Wire Act applied to ALL interstate online gambling — not just sports betting. This directly protected Adelson's brick-and-mortar casino empire from internet competition.
+> [!money] The Wire Act Reinterpretation. Policy-for-Profit
+> In November 2018, DOJ reversed its 2011 opinion to declare the Wire Act applied to ALL interstate online gambling, not just sports betting. This directly protected Adelson's brick-and-mortar casino empire from internet competition.
 >
 > **The lobbying pipeline:** Sheldon funded the Coalition to Stop Internet Gambling (est. 2014). He leveraged $13.2 million in 2014 donations to build political relationships necessary for the broader DOJ pressure campaign. Three former elected officials served as bipartisan cover: Wellington Webb (D-Denver mayor), Blanche Lincoln (D-Ark. senator), George Pataki (R-NY governor). He met House Speaker John Boehner in January 2015 to push RAWA directly. When Congress refused to pass RAWA legislation, Adelson's lobbyists pressured AG Jeff Sessions to use the DOJ administrative process instead (UNVERIFIED).
 >
-> **The memo:** A lobbyist for Adelson drafted the memo opposing online gambling that was sent to the Justice Department in April 2017 — the administrative infrastructure for policy reversal was constructed through proxy authorship ([USA Today](https://www.usatoday.com/story/opinion/2019/02/07/justice-department-online-gambling-gop-donor-sheldon-adelson-trump-column/2019-02-07/) *(source unavailable)* (Tier 2)).
+> **The memo:** A lobbyist for Adelson drafted the memo opposing online gambling that was sent to the Justice Department in April 2017, the administrative infrastructure for policy reversal was constructed through proxy authorship ([USA Today](https://www.usatoday.com/story/opinion/2019/02/07/justice-department-online-gambling-gop-donor-sheldon-adelson-trump-column/2019-02-07/) *(source unavailable)* (Tier 2)).
 >
-> **The outcome:** On November 2, 2018, Sessions' DOJ delivered the opinion Adelson's lobbyists requested. The reversal was strategically timed 4 years after the initial 2014 donations and 3.5 years into the Trump administration. The "educational nonprofit" argument — protecting children and the poor from online gambling — was the cover for a business decision worth billions to Las Vegas Sands.
+> **The outcome:** On November 2, 2018, Sessions' DOJ delivered the opinion Adelson's lobbyists requested. The reversal was strategically timed 4 years after the initial 2014 donations and 3.5 years into the Trump administration. The "educational nonprofit" argument, protecting children and the poor from online gambling, was the cover for a business decision worth billions to Las Vegas Sands.
 >
-> **The reversal:** January 2021 — First Circuit Court of Appeals ruled Wire Act applies only to sports betting. DOJ declined to appeal. Adelson lost the legal battle but won three years of regulatory uncertainty that delayed online gambling expansion.
+> **The reversal:** January 2021. First Circuit Court of Appeals ruled Wire Act applies only to sports betting. DOJ declined to appeal. Adelson lost the legal battle but won three years of regulatory uncertainty that delayed online gambling expansion.
 
 ---
 
@@ -165,7 +165,7 @@ Trump withdrew from the JCPOA on May 8, 2018, 11 months after receiving Adelson'
 >
 > Trump's answer (October 2025): "I will not allow Israel to annex the West Bank." Vance called annexation "a very stupid political stunt."
 >
-> The reason: annexation threatens the Abraham Accords framework — Gulf normalization, Kushner's $2B PIF fund, $23B in Abraham Accords weapons sales. Adelson's single-issue spending collides with the multi-issue donor ecosystem. She gets embassies, ambassadors, rhetoric, and a war. Formal annexation would cost other donors — and those donors spend collectively more.
+> The reason: annexation threatens the Abraham Accords framework. Gulf normalization, Kushner's $2B PIF fund, $23B in Abraham Accords weapons sales. Adelson's single-issue spending collides with the multi-issue donor ecosystem. She gets embassies, ambassadors, rhetoric, and a war. Formal annexation would cost other donors, and those donors spend collectively more.
 >
 > The functional substitute: de facto annexation through accelerated settlement expansion, which delivers the same territorial outcome without triggering the diplomatic consequences. Adelson may not get the formal declaration, but the ground facts are moving in her direction.
 

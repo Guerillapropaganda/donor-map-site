@@ -36,7 +36,7 @@ The PAC's name was chosen to appear as a grassroots feminist organization. It is
 | Mar 21, 2026 | Journalism confirms AIPAC/UDP origin | Evanston RoundTable, NBC News, WBEZ reporting | N/A | Public accountability arrives post-election; no electoral consequence possible |
 
 > [!money]
-> Elect Chicago Women raised $9,636,200 in total. The operational structure: AIPAC's United Democracy Project contributed $4 million (seed/control), supplemented by $3.4 million from three Chicago-area finance sector donors (Anthony Davis: $1.5M; Blair Frank: $1M; Michael Sacks: $900K). An estimated $3.3–3.9 million of that total was deployed in IL-8 to support Bean. A separate AIPAC-linked PAC, Chicago Progressive Partnership, spent an additional $700K opposing Ahmed. Total AIPAC-affiliated IL-8 operation: $4–4.6 million. Bean's own campaign fundraising: estimated $800K–1M. Outside spending dominated the race at roughly 4:1 — the PAC spent more money attacking Ahmed than Bean raised for herself.
+> Elect Chicago Women raised $9,636,200 in total. The operational structure: AIPAC's United Democracy Project contributed $4 million (seed/control), supplemented by $3.4 million from three Chicago-area finance sector donors (Anthony Davis: $1.5M; Blair Frank: $1M; Michael Sacks: $900K). An estimated $3.3–3.9 million of that total was deployed in IL-8 to support Bean. A separate AIPAC-linked PAC, Chicago Progressive Partnership, spent an additional $700K opposing Ahmed. Total AIPAC-affiliated IL-8 operation: $4–4.6 million. Bean's own campaign fundraising: estimated $800K–1M. Outside spending dominated the race at roughly 4:1, the PAC spent more money attacking Ahmed than Bean raised for herself.
 
 ---
 
@@ -47,7 +47,7 @@ The PAC name was chosen to evoke grassroots feminist organizing. Melissa Bean is
 None of AIPAC's stated goals involve feminist advocacy. ECW's actual function is to enforce donor-class conformity on Israel policy by defeating candidates, like Ahmed and Biss in the 9th, who have expressed solidarity with Palestinians or criticized Israeli government military conduct.
 
 > [!contradiction]
-> "Elect Chicago Women" sounds like it cares about women in Congress. The actual selection criterion for PAC support is: does the candidate align with AIPAC's pro-Israel policy agenda? Bean and Fine were supported not because they are women but because they are the women AIPAC preferred over their opponents. Junaid Ahmed — whose election would have represented a Pakistani-American Muslim in Congress — was opposed not because of gender but because of his positions on Gaza. The feminist branding is the cover story for what is fundamentally a foreign-policy enforcement operation.
+> "Elect Chicago Women" sounds like it cares about women in Congress. The actual selection criterion for PAC support is: does the candidate align with AIPAC's pro-Israel policy agenda? Bean and Fine were supported not because they are women but because they are the women AIPAC preferred over their opponents. Junaid Ahmed, whose election would have represented a Pakistani-American Muslim in Congress, was opposed not because of gender but because of his positions on Gaza. The feminist branding is the cover story for what is fundamentally a foreign-policy enforcement operation.
 
 ---
 
@@ -63,7 +63,7 @@ Chicago Progressive Partnership, which shares vendors, donors, and a treasurer w
 No ad mentioned Israel, Gaza, or foreign policy. This was strategic. By 2026, the AIPAC brand had become politically toxic with a significant segment of the Democratic primary electorate. Direct AIPAC involvement would have motivated opposition turnout. Instead, AIPAC-affiliated groups ran progressive-coded economic attacks, making Ahmed appear as a wealthy elite while the donor coalition's actual billionaire funders remained invisible.
 
 > [!contradiction]
-> AIPAC and its affiliated donors — UDP, plus Anthony Davis (Linden Capital Partners), Michael Sacks (GSM Grosnover), and Blair Frank (Capital Group) — collectively represent hundreds of millions in institutional finance and real estate capital. They spent $700K portraying a tech consultant as too wealthy and elite to represent working-class voters. The class contradiction is precisely inverted: the donor coalition that selected Bean and funded the "attack from the left" strategy IS the finance and corporate class they claimed Ahmed represented.
+> AIPAC and its affiliated donors. UDP, plus Anthony Davis (Linden Capital Partners), Michael Sacks (GSM Grosnover), and Blair Frank (Capital Group), collectively represent hundreds of millions in institutional finance and real estate capital. They spent $700K portraying a tech consultant as too wealthy and elite to represent working-class voters. The class contradiction is precisely inverted: the donor coalition that selected Bean and funded the "attack from the left" strategy IS the finance and corporate class they claimed Ahmed represented.
 
 ---
 

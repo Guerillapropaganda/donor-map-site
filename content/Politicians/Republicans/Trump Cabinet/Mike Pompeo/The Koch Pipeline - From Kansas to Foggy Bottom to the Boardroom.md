@@ -97,7 +97,7 @@ Pompeo was the primary architect and advocate for the Trump administration's max
 The post-government career is the return on the Koch investment, not direct payments from Koch, but the platform, relationships, and credibility that Koch money built over a decade in Congress, now monetized through speaking fees, board positions, and consulting arrangements.
 
 > [!money]
-> The Hudson Institute — where Pompeo landed immediately after leaving State — has received funding from defense contractors, foreign governments, and business interests aligned with the hawkish foreign policy posture that Pompeo advocated throughout his career. The think tank is not ideologically neutral; it is an infrastructure node of the same donor network that funded Pompeo's congressional career and supported his foreign policy positions. The revolving door runs through institutions that serve the same interests.
+> The Hudson Institute, where Pompeo landed immediately after leaving State, has received funding from defense contractors, foreign governments, and business interests aligned with the hawkish foreign policy posture that Pompeo advocated throughout his career. The think tank is not ideologically neutral; it is an infrastructure node of the same donor network that funded Pompeo's congressional career and supported his foreign policy positions. The revolving door runs through institutions that serve the same interests.
 
 ---
 

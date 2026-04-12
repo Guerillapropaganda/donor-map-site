@@ -49,7 +49,7 @@ No FEC individual contributions confirmed for Chris Cuomo the journalist. FEC AP
 
 - [FEC: Chris Cuomo individual contributions (0 results, 0 confirmed)](https://www.fec.gov/data/receipts/?contributor_name=cuomo%2C+chris) (Tier 1)
 
-> **Disambiguation note:** The FEC API returns 2 results for "CUOMO, CHRISTOPHER" — both small ActBlue donations from a Westchester County, NY employer (likely a government employee). Neither matches Chris Cuomo the television journalist. The dynasty asset — Chris Cuomo's entire media career — was built on family political infrastructure, not personal political giving. The absence of any FEC record is structurally significant: a media figure who rose through a political dynasty leaves no trace of personal political participation.
+> **Disambiguation note:** The FEC API returns 2 results for "CUOMO, CHRISTOPHER", both small ActBlue donations from a Westchester County, NY employer (likely a government employee). Neither matches Chris Cuomo the television journalist. The dynasty asset. Chris Cuomo's entire media career, was built on family political infrastructure, not personal political giving. The absence of any FEC record is structurally significant: a media figure who rose through a political dynasty leaves no trace of personal political participation.
 
 ---
 
@@ -62,7 +62,7 @@ No FEC individual contributions confirmed for Chris Cuomo the journalist. FEC AP
 **The Cuomo Dynasty (structural):** The most important "funder" in Cuomo's career isn't a corporation, it's the family name. Mario Cuomo's political legacy, Andrew Cuomo's gubernatorial power, and the family's Democratic establishment network constituted an access asset that no media training could replicate. Every career move. Fox to ABC to CNN, was facilitated by the family's political infrastructure. The firing was also a dynasty event: Chris's career collapsed because of Andrew's scandal, not because of Chris's journalism.
 
 > [!contradiction]
-> **The Dynasty Paradox:** Chris Cuomo's entire media career was built on the Cuomo political dynasty — the family name provided access, credibility, and booking power that drove ratings. That same dynasty destroyed his career when the family's political operation (advising Andrew during the harassment scandal) was exposed as operating through Chris's media position. The asset and the liability were the same thing. Corporate media bought the dynasty, and the dynasty's implosion took the corporate career with it.
+> **The Dynasty Paradox:** Chris Cuomo's entire media career was built on the Cuomo political dynasty, the family name provided access, credibility, and booking power that drove ratings. That same dynasty destroyed his career when the family's political operation (advising Andrew during the harassment scandal) was exposed as operating through Chris's media position. The asset and the liability were the same thing. Corporate media bought the dynasty, and the dynasty's implosion took the corporate career with it.
 
 ---
 
@@ -115,7 +115,7 @@ Cuomo pushes a **centrist-populist framework** that has shifted noticeably right
 | Dec 2024 | Signs multi-year NewsNation renewal | Cuomo, Nexstar | Undisclosed | Brand rehabilitation validated by ratings growth; carousel completes rotation |
 
 > [!money]
-> **The depreciation-and-recovery cycle.** Cuomo's salary trajectory maps a corporate asset's depreciation curve: $6M/year (CNN peak) → $0 (fired) → ~$1M/year (NewsNation) → multi-year renewal (appreciating). The $125M arbitration claim against CNN was an attempt to capture the full value of the depreciation event itself. The class analysis: corporate media treats media personalities as financial instruments — acquired, deployed, written down after scandal, and repurchased at discount when the brand recovers. Cuomo has never been an independent actor in this process. He is the asset being traded.
+> **The depreciation-and-recovery cycle.** Cuomo's salary trajectory maps a corporate asset's depreciation curve: $6M/year (CNN peak) → $0 (fired) → ~$1M/year (NewsNation) → multi-year renewal (appreciating). The $125M arbitration claim against CNN was an attempt to capture the full value of the depreciation event itself. The class analysis: corporate media treats media personalities as financial instruments, acquired, deployed, written down after scandal, and repurchased at discount when the brand recovers. Cuomo has never been an independent actor in this process. He is the asset being traded.
 
 ---
 

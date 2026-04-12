@@ -57,7 +57,7 @@ Geithner's career arc is the most documented revolving door sequence in modern A
 Before government: Kissinger Associates (1985–1988), then Treasury Department under Clinton (1988–2001, rising to Under Secretary for International Affairs), then IMF (2001–2003). The career began in foreign policy and international finance. Geithner never worked in domestic banking before being appointed to oversee it.
 
 > [!contradiction]
-> Geithner was confirmed as Treasury Secretary despite failing to pay $34,023 in self-employment taxes for income received from the IMF (2001–2004). He paid the taxes only after being nominated. The man chosen to run the IRS and Treasury had not paid his own taxes — a fact that would have disqualified any ordinary citizen from government employment but did not prevent Wall Street's preferred candidate from overseeing the largest bank bailout in history.
+> Geithner was confirmed as Treasury Secretary despite failing to pay $34,023 in self-employment taxes for income received from the IMF (2001–2004). He paid the taxes only after being nominated. The man chosen to run the IRS and Treasury had not paid his own taxes, a fact that would have disqualified any ordinary citizen from government employment but did not prevent Wall Street's preferred candidate from overseeing the largest bank bailout in history.
 
 ---
 
@@ -79,7 +79,7 @@ The policy pattern: every Geithner decision during the crisis protected existing
 ### Who They Fund
 
 > [!money] Follow the Money
-> FEC records show 31 individual contributions totaling approximately $450,000+, all from Warburg Pincus, all 100% Democratic. The pattern: zero contributions during government service (2003–2013), then concentrated giving in 2020 and 2024 cycles after accumulating private equity wealth. Geithner is not a mega-donor by Wall Street standards — his significance is as a bundler, connector, and living proof that the revolving door pays.
+> FEC records show 31 individual contributions totaling approximately $450,000+, all from Warburg Pincus, all 100% Democratic. The pattern: zero contributions during government service (2003–2013), then concentrated giving in 2020 and 2024 cycles after accumulating private equity wealth. Geithner is not a mega-donor by Wall Street standards, his significance is as a bundler, connector, and living proof that the revolving door pays.
 
 FEC individual contributions (2000–2026):
 
@@ -117,7 +117,7 @@ The contribution pattern reveals strategic Democratic donor behavior: massive 20
 | Sep–Oct 2024 | House Victory Project + 28 House candidates | $178,000+ | Democratic House candidates in competitive races | Pre-election cycle |
 
 > [!money]
-> The bailout math: Geithner's Treasury disbursed $634.8 billion in TARP funds and authorized trillions in Federal Reserve lending facilities. ProPublica's Bailout Tracker shows the government ultimately recovered $109 billion in profit from TARP. The financial industry framing: "the bailout made money." The class analysis: 9.3 million American households lost their homes to foreclosure between 2006 and 2014. The banks were saved. The homeowners were not. Geithner's HAMP program — designed to help homeowners — disbursed only 28% of its authorized $75 billion. Geithner later told Neil Barofsky (SIGTARP Inspector General) that HAMP was designed to "foam the runway" for the banks by spreading out foreclosures, not to save homeowners. The policy was never intended to help the people it was marketed to help.
+> The bailout math: Geithner's Treasury disbursed $634.8 billion in TARP funds and authorized trillions in Federal Reserve lending facilities. ProPublica's Bailout Tracker shows the government ultimately recovered $109 billion in profit from TARP. The financial industry framing: "the bailout made money." The class analysis: 9.3 million American households lost their homes to foreclosure between 2006 and 2014. The banks were saved. The homeowners were not. Geithner's HAMP program, designed to help homeowners, disbursed only 28% of its authorized $75 billion. Geithner later told Neil Barofsky (SIGTARP Inspector General) that HAMP was designed to "foam the runway" for the banks by spreading out foreclosures, not to save homeowners. The policy was never intended to help the people it was marketed to help.
 
 ---
 
@@ -134,7 +134,7 @@ Geithner's career is the most complete revolving door sequence documented in the
 **Stage 4. The payoff (2014–present):** Warburg Pincus president and chairman. Estimated compensation: $3–5M+ annually. The firm manages $83 billion in assets. Geithner's government experience, specifically his crisis management credentials and his relationships with global regulators, is his primary value to Warburg Pincus. He is not hired for private equity expertise. He is hired for access.
 
 > [!contradiction]
-> Geithner testified to Congress that the bailout was necessary to prevent economic collapse. This may be true. But the bailout's structure — rescuing banks while allowing foreclosures, paying AIG counterparties 100 cents on the dollar, refusing to prosecute executives — was a choice, not a necessity. Geithner chose the version of crisis management that protected the class of people who would later hire him. The revolving door doesn't require conspiracy. It requires only that regulators internalize the worldview of the people they regulate — and Geithner's entire career, from Kissinger Associates to Warburg Pincus, was spent inside that worldview.
+> Geithner testified to Congress that the bailout was necessary to prevent economic collapse. This may be true. But the bailout's structure, rescuing banks while allowing foreclosures, paying AIG counterparties 100 cents on the dollar, refusing to prosecute executives, was a choice, not a necessity. Geithner chose the version of crisis management that protected the class of people who would later hire him. The revolving door doesn't require conspiracy. It requires only that regulators internalize the worldview of the people they regulate, and Geithner's entire career, from Kissinger Associates to Warburg Pincus, was spent inside that worldview.
 
 ---
 

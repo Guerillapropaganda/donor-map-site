@@ -97,7 +97,7 @@ RAND's funding structure is unique among think tanks: it is overwhelmingly a gov
 **The Open Philanthropy pipeline:** Open Philanthropy, funded by Facebook co-founder Dustin Moskovitz, has given RAND over $15 million for AI-related research. This became controversial when Politico reported in December 2023 that RAND researchers were a driving force behind Biden's AI executive order reporting requirements. RAND employees expressed internal concerns about objectivity. CEO Matheny's simultaneous role on Anthropic's oversight board deepens the conflict-of-interest questions.
 
 > [!money]
-> RAND's funding model is the cleanest example of the government-contractor-as-think-tank structure. Unlike Heritage or Brookings, which are funded primarily by private donors and foundations, RAND gets 77% of its revenue directly from the agencies whose policies it shapes. The Department of War pays RAND to research defense policy, RAND recommends more defense spending, Congress funds more defense spending, and the new spending generates new RAND contracts. The feedback loop is structural, not conspiratorial — it's how the FFRDC model works by design.
+> RAND's funding model is the cleanest example of the government-contractor-as-think-tank structure. Unlike Heritage or Brookings, which are funded primarily by private donors and foundations, RAND gets 77% of its revenue directly from the agencies whose policies it shapes. The Department of War pays RAND to research defense policy, RAND recommends more defense spending, Congress funds more defense spending, and the new spending generates new RAND contracts. The feedback loop is structural, not conspiratorial, it's how the FFRDC model works by design.
 
 ---
 
@@ -147,7 +147,7 @@ RAND's policy influence operates through a unique mechanism: the FFRDC model giv
 | Oct 2025 | Federal government (DOGE contract cuts) | −$X (contract losses) | 192 layoffs (11% of workforce); "lack of work" as government research contracts reduced under Trump/DOGE | Immediate, structural dependency exposed |
 
 > [!money]
-> Between 2014 and 2019, RAND received $1.029 billion of the $1.078 billion that defense contractors and U.S. government agencies donated to the top 50 think tanks — 95% of all such funding went to a single institution. This is not a think tank that occasionally does defense work. This is a defense contractor that occasionally does non-defense work. The nonprofit framing obscures the fundamental reality: RAND is the Pentagon's in-house research arm operating at arm's length for legal and political convenience.
+> Between 2014 and 2019, RAND received $1.029 billion of the $1.078 billion that defense contractors and U.S. government agencies donated to the top 50 think tanks, 95% of all such funding went to a single institution. This is not a think tank that occasionally does defense work. This is a defense contractor that occasionally does non-defense work. The nonprofit framing obscures the fundamental reality: RAND is the Pentagon's in-house research arm operating at arm's length for legal and political convenience.
 
 ---
 
@@ -178,7 +178,7 @@ RAND's revolving door operates differently from most think tanks. Rather than a 
 **The pattern:** RAND's board reads like a retirement home for Secretaries of Defense, Secretaries of the Navy, Secretaries of the Air Force, DHS Secretaries, and NSC officials. These are the same agencies that fund 77% of RAND's budget. The people who authorized RAND's contracts as government officials later govern RAND as trustees.
 
 > [!contradiction]
-> RAND bills itself as "nonpartisan" and "independent," but its board is stacked with former officials from the very agencies that fund it. The organization's claimed independence is structurally impossible when the same people rotate between authorizing RAND's contracts (as government officials) and overseeing RAND's operations (as trustees). This isn't corruption — it's the design. The FFRDC model was built to create this exact kind of controlled dependency.
+> RAND bills itself as "nonpartisan" and "independent," but its board is stacked with former officials from the very agencies that fund it. The organization's claimed independence is structurally impossible when the same people rotate between authorizing RAND's contracts (as government officials) and overseeing RAND's operations (as trustees). This isn't corruption, it's the design. The FFRDC model was built to create this exact kind of controlled dependency.
 
 ---
 

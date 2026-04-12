@@ -16,7 +16,7 @@ donors: [[Leonard Leo|Leonard Leo]] · Federalist Society · National conservati
 ### The Kavanaugh Vote and the Donor Realignment
 
 > [!money]
-> Collins cast the deciding vote to confirm [[_Brett Kavanaugh Master Profile|Brett Kavanaugh]] in October 2018. In Q4 2018, she raised $1.8 million — her career best outside an election cycle. This was a dramatic spike: in Q3 2018, the quarter immediately before her Kavanaugh vote, she raised only $140,000. Of the ~$900,000 from individual donors over $200, only $19,000 came from Maine residents (less than 2% of itemized large donations). The Kavanaugh vote replaced Collins's moderate Maine donor base with a national conservative donor network. She traded her state for a fundraising pipeline. The vote wasn't courage — it was a donor market calculation.
+> Collins cast the deciding vote to confirm [[_Brett Kavanaugh Master Profile|Brett Kavanaugh]] in October 2018. In Q4 2018, she raised $1.8 million, her career best outside an election cycle. This was a dramatic spike: in Q3 2018, the quarter immediately before her Kavanaugh vote, she raised only $140,000. Of the ~$900,000 from individual donors over $200, only $19,000 came from Maine residents (less than 2% of itemized large donations). The Kavanaugh vote replaced Collins's moderate Maine donor base with a national conservative donor network. She traded her state for a fundraising pipeline. The vote wasn't courage, it was a donor market calculation.
 
 ---
 
@@ -31,7 +31,7 @@ donors: [[Leonard Leo|Leonard Leo]] · Federalist Society · National conservati
 **The Progressive Penalty vs. Conservative Reward:** Maine's People's Alliance raised $1 million+ through CrowdPAC, pledging donations to Collins's next challenger if she voted yes. Progressive small-dollar donors attempted to create a financial consequence for the vote. Collins voted yes anyway, because the national conservative donor reward ($1.8M in one quarter) far exceeded the progressive penalty (which translated to Sara Gideon's eventual 2020 challenge).
 
 > [!contradiction]
-> Collins delivered a 45-minute floor speech explaining her Kavanaugh vote as a principled legal analysis separate from politics. The speech was praised by mainstream outlets as thoughtful and independent. The fundraising data tells a different story: the immediate post-vote surge of $1.8M came from exactly the donor class that wanted Kavanaugh confirmed, from exactly the geography (86% out-of-state) that had no stake in Collins's Maine record. The "principled" vote was rewarded by the precise constituency that would benefit most from a conservative Court — Wall Street, corporate America, anti-regulatory donors. The speech was the packaging. The money was the product.
+> Collins delivered a 45-minute floor speech explaining her Kavanaugh vote as a principled legal analysis separate from politics. The speech was praised by mainstream outlets as thoughtful and independent. The fundraising data tells a different story: the immediate post-vote surge of $1.8M came from exactly the donor class that wanted Kavanaugh confirmed, from exactly the geography (86% out-of-state) that had no stake in Collins's Maine record. The "principled" vote was rewarded by the precise constituency that would benefit most from a conservative Court. Wall Street, corporate America, anti-regulatory donors. The speech was the packaging. The money was the product.
 
 ---
 

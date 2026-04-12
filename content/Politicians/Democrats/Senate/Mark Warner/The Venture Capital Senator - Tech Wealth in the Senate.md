@@ -28,7 +28,7 @@ Warner's most prominent legislative effort on technology, the RESTRICT Act (2023
 Warner has not authored legislation that would meaningfully constrain Google's search monopoly, Meta's data collection, or Amazon's market dominance, despite sitting on committees with jurisdiction over all three. His tech regulation agenda targets competitors to American tech companies (TikTok, Huawei) while protecting the American tech companies that fund his campaigns.
 
 > [!contradiction]
-> Warner calls himself "the Senate's leading voice on tech accountability." His tech regulation proposals target Chinese companies while American tech giants — Google ($13M lobbying), Meta ($20M lobbying), Amazon ($21M lobbying) — operate with minimal legislative constraint. The accountability is selective, and the selection criteria map to his donor base.
+> Warner calls himself "the Senate's leading voice on tech accountability." His tech regulation proposals target Chinese companies while American tech giants. Google ($13M lobbying), Meta ($20M lobbying), Amazon ($21M lobbying), operate with minimal legislative constraint. The accountability is selective, and the selection criteria map to his donor base.
 
 ---
 

@@ -24,26 +24,26 @@ This note maps the donor and institutional interests shaping Newsom's housing re
 The clearest picture comes from Newsom's 2021 recall defense, when the real estate industry mobilized en masse.
 
 > [!money]
-> **2021 Recall Defense — $3.3 million from real estate**
-> — California Association of Realtors: $2.6 million ($1.5M in May + $1.1M in July)
-> — California Building Industry Association: $1.1 million
-> — Individual developers and real estate firms: $600K+ (Thomas Coates $100K, Tod Spieker $100K, San Francisco Apartment Association $25K)
-> [Source: The Real Deal / Fox News / OpenSecrets — Tier 2]
+> **2021 Recall Defense, $3.3 million from real estate**
+>. California Association of Realtors: $2.6 million ($1.5M in May + $1.1M in July)
+>. California Building Industry Association: $1.1 million
+>. Individual developers and real estate firms: $600K+ (Thomas Coates $100K, Tod Spieker $100K, San Francisco Apartment Association $25K)
+> [Source: The Real Deal / Fox News / OpenSecrets. Tier 2]
 
 > [!contradiction]
-> **Newsom campaigns to progressives on housing scarcity and homelessness. His donors profit from deregulation that increases the ability to develop without affordability mandates.** The supply-side framework locates the housing problem in restrictive zoning (true). The solution Newsom backs — removing local control, streamlining approvals, eliminating affordability requirements in favor of pure production volume — benefits developers directly. The problem and solution are framed in the language of progressive housing policy. The material outcome is developer profit without corresponding affordable housing creation.
+> **Newsom campaigns to progressives on housing scarcity and homelessness. His donors profit from deregulation that increases the ability to develop without affordability mandates.** The supply-side framework locates the housing problem in restrictive zoning (true). The solution Newsom backs, removing local control, streamlining approvals, eliminating affordability requirements in favor of pure production volume, benefits developers directly. The problem and solution are framed in the language of progressive housing policy. The material outcome is developer profit without corresponding affordable housing creation.
 
 ### 2022 Campaign Donations
 
 > [!money]
 > **Homebuilders to 2022 Newsom reelection campaign:**
-> — Lennar Corporation: $32,400
-> — Taylor Morrison: $32,400
-> — Shea Homes: $32,400
-> — Meritage Homes: $32,400
-> — Pulte Homes: $32,400
-> — California Building Industry Association: $35,100+ (additional ongoing)
-> [Source: OpenSecrets / The Real Deal — Tier 1]
+>. Lennar Corporation: $32,400
+>. Taylor Morrison: $32,400
+>. Shea Homes: $32,400
+>. Meritage Homes: $32,400
+>. Pulte Homes: $32,400
+>. California Building Industry Association: $35,100+ (additional ongoing)
+> [Source: OpenSecrets / The Real Deal. Tier 1]
 
 The pattern is consistent. Individual homebuilder donations track below the federal contribution cap but are coordinated with trade association giving. The California Association of Realtors, which represents 200,000+ agents, gives at scale ($1.5M+ to recall). The California Building Industry Association, representing major constructors, gives at scale. Small individual builder donations ($32.4K each, near the legal maximum) ensure participation. Trade associations (CREPAC. California Real Estate PAC) provide infrastructure for coordinated giving.
 
@@ -64,7 +64,7 @@ Bills signed:
 , **SB 423 (2023)**, removes local authority over parking minimums in residential projects. Reduces developer construction costs by up to 20 percent.
 
 > [!contradiction]
-> **The supply-side promise: more units = lower prices. The material outcome: builder profit volume without affordability mandates.** California has added housing units under the supply-side framework. But the vast majority are market-rate or luxury units built on shorter timelines with lower costs because parking, affordable unit set-asides, and community process are reduced or eliminated. The units that would house workers (affordable housing) require tax credits, subsidies, or forced set-asides — all politically difficult. The units that profit developers (market-rate, no affordability requirements) flow from the streamlined approval process. Newsom delivers what his donors can build profitably. The progressive frame obscures that the material outcome serves supply without affordability.
+> **The supply-side promise: more units = lower prices. The material outcome: builder profit volume without affordability mandates.** California has added housing units under the supply-side framework. But the vast majority are market-rate or luxury units built on shorter timelines with lower costs because parking, affordable unit set-asides, and community process are reduced or eliminated. The units that would house workers (affordable housing) require tax credits, subsidies, or forced set-asides, all politically difficult. The units that profit developers (market-rate, no affordability requirements) flow from the streamlined approval process. Newsom delivers what his donors can build profitably. The progressive frame obscures that the material outcome serves supply without affordability.
 
 ---
 

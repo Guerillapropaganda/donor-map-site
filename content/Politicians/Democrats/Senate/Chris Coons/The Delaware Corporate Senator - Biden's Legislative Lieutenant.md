@@ -26,7 +26,7 @@ Coons inherited not just Biden's seat but Biden's donor infrastructure. Financia
 Coons' primary structural function is protecting Delaware's status as America's corporate domicile. Any federal legislation that would create a federal corporate chartering system, mandate federal incorporation standards, or preempt Delaware's Court of Chancery jurisdiction directly threatens the state's economic foundation. Coons opposes these proposals as a matter of state economic survival, but the economic survival he's protecting is the corporate sector's preference for Delaware's business-friendly legal environment.
 
 > [!money]
-> Delaware's corporate franchise tax generates approximately $2 billion annually — more than 40% of the state's general fund revenue. Protecting this revenue stream is the single most important economic function of Delaware's U.S. senators. When Coons opposes federal corporate governance reform, he is protecting both his state's budget and his donors' preferred legal regime. The constituency interest and the donor interest are identical because the donors ARE the constituency's economic base.
+> Delaware's corporate franchise tax generates approximately $2 billion annually, more than 40% of the state's general fund revenue. Protecting this revenue stream is the single most important economic function of Delaware's U.S. senators. When Coons opposes federal corporate governance reform, he is protecting both his state's budget and his donors' preferred legal regime. The constituency interest and the donor interest are identical because the donors ARE the constituency's economic base.
 
 ---
 

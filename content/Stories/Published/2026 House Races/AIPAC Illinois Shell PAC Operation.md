@@ -107,7 +107,7 @@ The AIPAC shell PAC model in Illinois mirrors the 2024 Jamaal Bowman-George Lati
 - Results: 2 wins out of 3 races
 
 > [!money]
-> The evolution from 2024 to 2026 is toward greater obscuration. UDP's $14.9 million in Bowman-Latimer spending was transparent — voters and journalists knew AIPAC was behind it. The $14.1 million in Illinois spending was hidden until after the election. If this model works, expect it to be replicated in every major Democratic primary nationally.
+> The evolution from 2024 to 2026 is toward greater obscuration. UDP's $14.9 million in Bowman-Latimer spending was transparent, voters and journalists knew AIPAC was behind it. The $14.1 million in Illinois spending was hidden until after the election. If this model works, expect it to be replicated in every major Democratic primary nationally.
 
 ### The Precedent: Shell PACs as Donor-Class Standard Practice
 

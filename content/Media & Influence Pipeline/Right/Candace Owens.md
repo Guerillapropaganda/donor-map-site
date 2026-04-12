@@ -32,7 +32,7 @@ No FEC individual contributions found. Candace Owens has made zero federal polit
 
 - [FEC: Candace Owens individual contributions (0 results)](https://www.fec.gov/data/receipts/?contributor_name=owens%2C+candace) (Tier 1)
 
-> **Disambiguation note:** FEC returns 63 results for "candace owens" and 222 results for "farmer, candace" (maiden name) — all are Democratic donors from Tennessee and other states, none match the conservative media personality.
+> **Disambiguation note:** FEC returns 63 results for "candace owens" and 222 results for "farmer, candace" (maiden name), all are Democratic donors from Tennessee and other states, none match the conservative media personality.
 
 ---
 
@@ -58,7 +58,7 @@ The post-Daily Wire operation is the fastest media independence build in this va
 - **Total estimated independent revenue:** $15-25M annually across podcast sponsorships ($2-10M), Club Candace subscriptions ($10M+), YouTube ad revenue ($1.4-4.2M), merchandise/book royalties (~$1M), speaking engagements ($1M+).
 
 > [!money]
-> **The firing-as-liberation economics:** Owens's firing from the Daily Wire may be the most financially productive termination in conservative media history. Under the Daily Wire, Owens was a salaried employee whose content drove subscriptions to someone else's platform. Independent, she captures 100% of her audience's economic value — sponsorships, subscriptions, merch, speaking fees. The antisemitism controversy that ended her Daily Wire career simultaneously built her independent audience by positioning her as too dangerous for corporate conservative media. Getting fired was the business plan, whether she intended it or not.
+> **The firing-as-liberation economics:** Owens's firing from the Daily Wire may be the most financially productive termination in conservative media history. Under the Daily Wire, Owens was a salaried employee whose content drove subscriptions to someone else's platform. Independent, she captures 100% of her audience's economic value, sponsorships, subscriptions, merch, speaking fees. The antisemitism controversy that ended her Daily Wire career simultaneously built her independent audience by positioning her as too dangerous for corporate conservative media. Getting fired was the business plan, whether she intended it or not.
 
 ---
 
@@ -95,7 +95,7 @@ The post-Daily Wire operation is the fastest media independence build in this va
 **Capture mechanism. The Persecution Narrative as Growth Engine:** Every career setback becomes audience acquisition fuel. Fired from Daily Wire? She was too honest about Israel. Sued by the Macrons? She's over the target. Criticized for antisemitism? The ADL is trying to silence her. The pattern is identical across events: institutional rejection → persecution narrative → audience sympathy → subscription/donation conversion. The Macron lawsuit is the purest form, a $219-page legal complaint that simultaneously threatens her financially and provides unlimited content, merchandise, and fundraising opportunities.
 
 > [!contradiction]
-> **The independence contradiction.** Owens markets herself as the conservative media figure who broke free from billionaire control — fired by the Wilks-funded Daily Wire, independent of the Thiel/Rumble ecosystem, self-funded by her audience. This is partially true and analytically significant: she is the only right-wing media figure in this vault without institutional backing. But the independence was not chosen — it was imposed. Owens was fired. She didn't leave the Daily Wire on principle; she was removed for antisemitism. The "independent" brand was built from a termination, not a liberation. And the independence is sustained by conspiracy content (Macron) and antisemitic rhetoric that mainstream conservative outlets won't touch — meaning her editorial "freedom" is actually editorial exile from the institutions that would otherwise constrain her worst impulses.
+> **The independence contradiction.** Owens markets herself as the conservative media figure who broke free from billionaire control, fired by the Wilks-funded Daily Wire, independent of the Thiel/Rumble ecosystem, self-funded by her audience. This is partially true and analytically significant: she is the only right-wing media figure in this vault without institutional backing. But the independence was not chosen, it was imposed. Owens was fired. She didn't leave the Daily Wire on principle; she was removed for antisemitism. The "independent" brand was built from a termination, not a liberation. And the independence is sustained by conspiracy content (Macron) and antisemitic rhetoric that mainstream conservative outlets won't touch, meaning her editorial "freedom" is actually editorial exile from the institutions that would otherwise constrain her worst impulses.
 
 ---
 

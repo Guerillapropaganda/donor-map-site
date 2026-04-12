@@ -54,7 +54,7 @@ All four hosts confirmed $0 via Chrome JavaScript FEC API queries. Each query re
 No FEC individual contributions found. The FEC API returns 0 results for "MENAKER, WILL", no records to disambiguate.
 
 > [!money]
-> Will Menaker's $0 FEC record is ideologically consistent with a host who built his media identity explicitly critiquing the Democratic Party as structurally insufficient. Unlike right-wing talent whose $0 reflects strategic restraint at high income, Menaker's $0 reflects explicit anti-electoral politics — Chapo's entire thesis is that personal donations to campaigns are not the mechanism of structural change.
+> Will Menaker's $0 FEC record is ideologically consistent with a host who built his media identity explicitly critiquing the Democratic Party as structurally insufficient. Unlike right-wing talent whose $0 reflects strategic restraint at high income, Menaker's $0 reflects explicit anti-electoral politics. Chapo's entire thesis is that personal donations to campaigns are not the mechanism of structural change.
 
 - [FEC: Will Menaker individual contributions (0 results)](https://www.fec.gov/data/receipts/?contributor_name=MENAKER%2C+WILL) (Tier 1)
 
@@ -65,7 +65,7 @@ No FEC individual contributions found. The FEC API returns 0 results for "MENAKE
 No FEC individual contributions found. The FEC API returns 0 results for "BIEDERMAN, FELIX."
 
 > [!money]
-> Felix Biederman's $0 FEC record is consistent with the Chapo structural position: the show's platform built around structural critique of electoral politics as insufficient. The mechanism of political change Chapo endorses is mass movement and material organization — not $250 checks to federal campaigns.
+> Felix Biederman's $0 FEC record is consistent with the Chapo structural position: the show's platform built around structural critique of electoral politics as insufficient. The mechanism of political change Chapo endorses is mass movement and material organization, not $250 checks to federal campaigns.
 
 - [FEC: Felix Biederman individual contributions (0 results)](https://www.fec.gov/data/receipts/?contributor_name=BIEDERMAN%2C+FELIX) (Tier 1)
 
@@ -76,7 +76,7 @@ No FEC individual contributions found. The FEC API returns 0 results for "BIEDER
 No FEC individual contributions found. The FEC API returns 0 results for "CHRISTMAN, MATT."
 
 > [!money]
-> Matt Christman's $0 FEC record fits the Hegelian-inflected, structural Marxist politics he articulated on air. Christman's "Acid Marxism" thesis explicitly located political change outside electoral cycles — the $0 record is an expression of the analysis, not an oversight.
+> Matt Christman's $0 FEC record fits the Hegelian-inflected, structural Marxist politics he articulated on air. Christman's "Acid Marxism" thesis explicitly located political change outside electoral cycles, the $0 record is an expression of the analysis, not an oversight.
 
 - [FEC: Matt Christman individual contributions (0 results)](https://www.fec.gov/data/receipts/?contributor_name=CHRISTMAN%2C+MATT) (Tier 1)
 
@@ -87,7 +87,7 @@ No FEC individual contributions found. The FEC API returns 0 results for "CHRIST
 No FEC individual contributions found. The FEC API returns 0 results for "FROST, AMBER."
 
 > [!money]
-> Amber A'Lee Frost coined the term "Dirtbag Left" to describe political speech that rejects liberal civility norms — including the performative campaign donation as a class-marked signal of serious political engagement. Her $0 FEC record is structurally coherent with that critique.
+> Amber A'Lee Frost coined the term "Dirtbag Left" to describe political speech that rejects liberal civility norms, including the performative campaign donation as a class-marked signal of serious political engagement. Her $0 FEC record is structurally coherent with that critique.
 
 - [FEC: Amber Frost individual contributions (0 results)](https://www.fec.gov/data/receipts/?contributor_name=FROST%2C+AMBER) (Tier 1)
 
@@ -166,7 +166,7 @@ There is no traditional funder class to receive returns. But the structural func
 | March 2026 | 47,363 paid subscribers, $199,784/month, #5 overall Patreon, #3 podcast | All hosts | $199,784/month | Decade of operation at scale: largest left-media Patreon in U.S. with no corporate backing ever received |
 
 > [!money]
-> Chapo's $199,784/month (March 2026) is the number that disproves the assumption that left media cannot financially sustain itself without institutional backing. But the more revealing figure is the comparison: Bill Maher makes $10M/year from HBO (corporate); Pod Save America makes millions from Soros investment, SiriusXM, and corporate sponsors; Chapo makes $2.4M/year from 47,000 people each paying $4.22. The structural difference is not just independence — it's accountability direction. Maher's $10M flows down from one HBO corporate relationship that could be terminated by one meeting. Chapo's $2.4M flows up from 47,000 individual decisions that require 47,000 individual cancellations to collapse. The subscriber model creates diffuse accountability instead of concentrated accountability. This is genuinely more democratic — and also harder to capture. The Reddit ban tested it and failed to kill it. The Matt Christman stroke tested it and failed to kill it. The question for the vault's thesis: does the audience itself become the capturing force when the financial dependency is this direct?
+> Chapo's $199,784/month (March 2026) is the number that disproves the assumption that left media cannot financially sustain itself without institutional backing. But the more revealing figure is the comparison: Bill Maher makes $10M/year from HBO (corporate); Pod Save America makes millions from Soros investment, SiriusXM, and corporate sponsors; Chapo makes $2.4M/year from 47,000 people each paying $4.22. The structural difference is not just independence, it's accountability direction. Maher's $10M flows down from one HBO corporate relationship that could be terminated by one meeting. Chapo's $2.4M flows up from 47,000 individual decisions that require 47,000 individual cancellations to collapse. The subscriber model creates diffuse accountability instead of concentrated accountability. This is genuinely more democratic, and also harder to capture. The Reddit ban tested it and failed to kill it. The Matt Christman stroke tested it and failed to kill it. The question for the vault's thesis: does the audience itself become the capturing force when the financial dependency is this direct?
 
 ### Class Analysis
 

@@ -42,7 +42,7 @@ The oversight argument was addressed in later packages, which included enhanced 
 The diplomacy argument, that U.S. aid prolongs the war, is the most consequential. It aligns with the Russian government's stated preference for reduced U.S. support for Ukraine. It benefits any actor interested in a frozen conflict or Russian territorial gains in Ukraine. It does not obviously benefit the working-class Kentuckians Paul claims to represent.
 
 > [!contradiction]
-> Paul cited inflation and high gas prices as reasons to block Ukraine aid in May 2022. Russia's invasion of Ukraine was a primary driver of the global energy price spike Paul cited. The solution to energy price inflation caused by Russian aggression was not to reduce aid to the country resisting that aggression — it was to resolve the conflict. Paul's analysis inverted the causal chain in ways that happened to serve Russia's strategic interest in reduced Western support for Ukraine.
+> Paul cited inflation and high gas prices as reasons to block Ukraine aid in May 2022. Russia's invasion of Ukraine was a primary driver of the global energy price spike Paul cited. The solution to energy price inflation caused by Russian aggression was not to reduce aid to the country resisting that aggression, it was to resolve the conflict. Paul's analysis inverted the causal chain in ways that happened to serve Russia's strategic interest in reduced Western support for Ukraine.
 
 ---
 

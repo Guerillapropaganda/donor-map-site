@@ -83,7 +83,7 @@ The organization's structural function is not research. It is personnel placemen
 
 > [!quote]
 > No other Washington institution has "that kind of footprint" in a presidential transition.
-> — CNN Politics, January 2017, describing Heritage's role in Trump 1.0 staffing
+>. CNN Politics, January 2017, describing Heritage's role in Trump 1.0 staffing
 
 ---
 
@@ -118,7 +118,7 @@ Heritage does not disclose individual donors (501(c)(3) organizations are not re
 | DonorsTrust / Donors Capital Fund | $500K+ to Heritage directly | 2010-2024 | DeSmog |
 
 > [!money]
-> The Bradley Impact Fund alone pushed $50 million to 29 Project 2025 advisory board organizations since 2020. Heritage's own 2022 grants directed 58% ($965,000 of $1.67 million) to Project 2025 advisory organizations. The fundraising surge coincided precisely with the project's launch — revenue jumped 26% from pre-2022 baselines to $100.9 million in 2023.
+> The Bradley Impact Fund alone pushed $50 million to 29 Project 2025 advisory board organizations since 2020. Heritage's own 2022 grants directed 58% ($965,000 of $1.67 million) to Project 2025 advisory organizations. The fundraising surge coincided precisely with the project's launch, revenue jumped 26% from pre-2022 baselines to $100.9 million in 2023.
 
 ---
 

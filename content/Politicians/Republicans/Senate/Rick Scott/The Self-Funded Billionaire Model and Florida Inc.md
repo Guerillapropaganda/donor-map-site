@@ -16,7 +16,7 @@ donors: (Self-funded from Columbia/HCA fortune)
 ### The Self-Funded Billionaire Model and Florida Inc.
 
 > [!money]
-> [[_Rick Scott Master Profile|Rick Scott]] has spent approximately $152 million of his own money on political campaigns: $75M (2010 governor), $63.6M (2018 Senate — three-quarters of his total), $13.7M (2024 reelection). Total career self-funding makes him one of the most prolific self-funders in American political history. The source of this money: a $370M+ golden parachute from the company that committed the largest Medicare fraud in history. Scott didn't earn his political career — he purchased it with the proceeds of healthcare fraud.
+> [[_Rick Scott Master Profile|Rick Scott]] has spent approximately $152 million of his own money on political campaigns: $75M (2010 governor), $63.6M (2018 Senate, three-quarters of his total), $13.7M (2024 reelection). Total career self-funding makes him one of the most prolific self-funders in American political history. The source of this money: a $370M+ golden parachute from the company that committed the largest Medicare fraud in history. Scott didn't earn his political career, he purchased it with the proceeds of healthcare fraud.
 
 ---
 
@@ -63,7 +63,7 @@ Scott claimed to place his wealth in a "blind trust" to avoid conflicts of inter
 **STOCK Act violation (2022):** Scott sold Emida Corporation stock worth up to $450,000 in September 2021 but didn't report it until August 2022, an 11-month delay violating federal disclosure law.
 
 > [!money]
-> The "blind trust" was the thinnest possible legal cover for a senator whose household portfolio includes Cayman Islands hedge funds, tech giants, and 550+ investment items — all affected by the tax, trade, and regulatory policies Scott votes on. He abandoned the trust entirely in February 2019. The facade lasted until it was no longer useful. The wealthiest member of Congress votes on policies that affect his $200–300M portfolio with no blind trust, no divestiture, and a STOCK Act violation on record.
+> The "blind trust" was the thinnest possible legal cover for a senator whose household portfolio includes Cayman Islands hedge funds, tech giants, and 550+ investment items, all affected by the tax, trade, and regulatory policies Scott votes on. He abandoned the trust entirely in February 2019. The facade lasted until it was no longer useful. The wealthiest member of Congress votes on policies that affect his $200–300M portfolio with no blind trust, no divestiture, and a STOCK Act violation on record.
 
 ---
 

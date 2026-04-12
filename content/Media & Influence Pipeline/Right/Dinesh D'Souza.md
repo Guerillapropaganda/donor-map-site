@@ -37,7 +37,7 @@ D'Souza's revenue streams operate through a diversified pipeline:
 **Political giving:** D'Souza Media LLC donated $463,900 in the 2024 election cycle, distributed as: $150,000 to Club for Growth Action and $250,000 to Right Texas PAC. These donations reveal his function as a donor-class node redistributing capital within the conservative infrastructure.
 
 > [!money]
-> The Obama's America model (private donor coalition financing a feature film as political weapon) established a template that repeat across D'Souza's career. Each film cycle requires upfront capital from the conservative donor network; D'Souza's return is guaranteed distribution through partisan infrastructure (Salem, Bongino, Rumble) and audience capture through media partnerships. The 2024 cycle donations ($463,900 from his media LLC) show he has evolved from dependent on external financing to actively redistributing capital within the conservative ecosystem — a sign of institutional integration.
+> The Obama's America model (private donor coalition financing a feature film as political weapon) established a template that repeat across D'Souza's career. Each film cycle requires upfront capital from the conservative donor network; D'Souza's return is guaranteed distribution through partisan infrastructure (Salem, Bongino, Rumble) and audience capture through media partnerships. The 2024 cycle donations ($463,900 from his media LLC) show he has evolved from dependent on external financing to actively redistributing capital within the conservative ecosystem, a sign of institutional integration.
 
 ---
 
@@ -52,7 +52,7 @@ D'Souza's revenue streams operate through a diversified pipeline:
 | 2024-10-01 | Right Texas PAC | $250,000 | REP | D'Souza Media LLC |
 
 > [!money]
-> D'Souza's FEC record shows contributions exclusively to Republican super PACs and conservative policy organizations. The timing (October 2024) and amounts ($400,000+ in a single cycle) demonstrate he functions as a capital node within the conservative donor network, not merely as a media personality. The Club for Growth and Right Texas PAC allocations align with his content (anti-progressive alarmism, election integrity narratives) — his giving reveals which donor priorities his media output serves.
+> D'Souza's FEC record shows contributions exclusively to Republican super PACs and conservative policy organizations. The timing (October 2024) and amounts ($400,000+ in a single cycle) demonstrate he functions as a capital node within the conservative donor network, not merely as a media personality. The Club for Growth and Right Texas PAC allocations align with his content (anti-progressive alarmism, election integrity narratives), his giving reveals which donor priorities his media output serves.
 
 - [FEC: D'Souza Media LLC contributions](https://www.fec.gov/data/receipts/?contributor_name=D%27Souza+Media) (Tier 1)
 

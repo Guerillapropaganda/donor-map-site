@@ -53,10 +53,10 @@ Newsom has repeatedly used language like "people with their clothes off defecati
 ---
 
 > [!money]
-> **Pharmaceutical & Behavioral Health Industry Funding**: [[Kaiser Permanente|Kaiser Permanente]] and [[Blue Shield of California|Blue Shield of California]] have donated $150K+ to Newsom since 2018. CARE Court's involuntary treatment model and SB 43's expanded conservatorship threshold position these vendors for expanded patient bases and institutional purchasing power — more involuntary clients flowing into their systems. Newsom's framing of homelessness as a healthcare problem requiring pharmaceutical intervention directly benefits insurers and behavioral health corporations.
+> **Pharmaceutical & Behavioral Health Industry Funding**: [[Kaiser Permanente|Kaiser Permanente]] and [[Blue Shield of California|Blue Shield of California]] have donated $150K+ to Newsom since 2018. CARE Court's involuntary treatment model and SB 43's expanded conservatorship threshold position these vendors for expanded patient bases and institutional purchasing power, more involuntary clients flowing into their systems. Newsom's framing of homelessness as a healthcare problem requiring pharmaceutical intervention directly benefits insurers and behavioral health corporations.
 
 > [!contradiction]
-> **Forced Treatment vs. Civil Liberties**: Newsom frames CARE Court as compassionate mental health intervention while advocates like Disability Rights California and the ACLU document it as an erosion of civil rights — the first expansion of involuntary commitment criteria since 1967. The contradiction: Newsom presents himself as protecting vulnerable people while using healthcare language to criminalize homelessness and poverty without funding the community resources that would actually help.
+> **Forced Treatment vs. Civil Liberties**: Newsom frames CARE Court as compassionate mental health intervention while advocates like Disability Rights California and the ACLU document it as an erosion of civil rights, the first expansion of involuntary commitment criteria since 1967. The contradiction: Newsom presents himself as protecting vulnerable people while using healthcare language to criminalize homelessness and poverty without funding the community resources that would actually help.
 
 ---
 

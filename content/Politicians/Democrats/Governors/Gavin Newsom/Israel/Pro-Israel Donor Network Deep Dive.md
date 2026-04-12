@@ -59,7 +59,7 @@ The ADL co-authored the 2024 anti-protest legislation package Newsom signed. The
 [[Haim Saban|Haim Saban]] is the most important figure in this network and the most under-reported in mainstream coverage of California Democratic politics. [Full profile: [[Haim Saban]]]
 
 > [!money]
-> Saban has given approximately **$12 million+ to federal Democratic causes** since the 1990s. **$16 million in the 2016 cycle alone** ($7 million to Priorities USA, the Clinton super PAC). **$4.5 million in the 2024 cycle.** He also donated **$1 million to AIPAC's [[United Democracy Project - UDP|United Democracy Project]]** — the super PAC that spent $9.9 million destroying Jamaal Bowman's congressional career for criticizing Israel. [Source: OpenSecrets / Haaretz — Tier 1/2]
+> Saban has given approximately **$12 million+ to federal Democratic causes** since the 1990s. **$16 million in the 2016 cycle alone** ($7 million to Priorities USA, the Clinton super PAC). **$4.5 million in the 2024 cycle.** He also donated **$1 million to AIPAC's [[United Democracy Project - UDP|United Democracy Project]]**, the super PAC that spent $9.9 million destroying Jamaal Bowman's congressional career for criticizing Israel. [Source: OpenSecrets / Haaretz. Tier 1/2]
 
 Saban is the Democratic Party's version of [[Miriam Adelson|Miriam Adelson]], a single-issue mega-donor whose billions buy alignment on Israel. His exact words in a 2009 New Yorker profile: he described himself as having "one issue, and it's Israel." He sponsors AIPAC's political training seminar, directly building the next generation of pro-Israel political operatives.
 
@@ -77,7 +77,7 @@ California's technology sector has produced a class of billionaires with documen
 **[[Larry Ellison|Larry Ellison]] (Oracle)**. One of the wealthiest individuals in California (net worth ~$200B+). Ellison has hosted fundraisers for Israeli political figures including [[_Benjamin Netanyahu Master Profile|Benjamin Netanyahu]] and has made significant donations to Israeli medical institutions. Oracle has significant Israeli operations (R&D center in Israel).
 
 > [!money]
-> Ellison's federal political giving totals **$46 million+** — overwhelmingly Republican in recent cycles, including **$36.7 million in the 2024 cycle** (largely to [[Senate Leadership Fund|Senate Leadership Fund]] and Republican super PACs). His Israel commitment operates through personal relationships (Netanyahu fundraiser host, Israeli philanthropy) rather than through the California Democratic donor infrastructure specifically. He is included here because his wealth and Israel alignment make him part of the structural environment — a California tech billionaire whose Israel positions reinforce the consensus — but his direct influence on Newsom is less documented than Saban or Katzenberg. [Source: OpenSecrets / Haaretz — Tier 1/2]
+> Ellison's federal political giving totals **$46 million+**, overwhelmingly Republican in recent cycles, including **$36.7 million in the 2024 cycle** (largely to [[Senate Leadership Fund|Senate Leadership Fund]] and Republican super PACs). His Israel commitment operates through personal relationships (Netanyahu fundraiser host, Israeli philanthropy) rather than through the California Democratic donor infrastructure specifically. He is included here because his wealth and Israel alignment make him part of the structural environment, a California tech billionaire whose Israel positions reinforce the consensus, but his direct influence on Newsom is less documented than Saban or Katzenberg. [Source: OpenSecrets / Haaretz. Tier 1/2]
 
 **[[Reid Hoffman|Reid Hoffman]] (LinkedIn/Greylock Partners)**. Major Democratic mega-donor and a significant funder of California Democratic politics. Hoffman has been publicly supportive of Israel and critical of BDS. As a Democratic Party infrastructure donor (funds of democracy projects, progressive tech infrastructure), his relationships with California Democratic leadership including Newsom are well-documented.
 
@@ -96,9 +96,9 @@ Hollywood has historically been the most visible locus of Jewish-American wealth
 **Jeffrey Katzenberg (DreamWorks/WndrCo)**. Major Democratic mega-donor and personal ally of Newsom. Katzenberg is a longtime California Democratic Party power broker who has been a top fundraiser for Democratic presidential candidates going back to Al Gore. He and Newsom have an established relationship. Katzenberg has been a strong supporter of Israel and a critic of BDS within Democratic circles.
 
 > [!money]
-> Katzenberg's documented Newsom donations: **$500,000 to the 2021 recall defense** (the single largest individual recall donation identified in this research) and **$64,800 to Newsom's 2022 reelection campaign** (maxed out under California contribution limits). His federal giving is extensive — over **$5 million lifetime** to Democratic causes including major bundling for Obama and Biden. Katzenberg was Biden's 2024 campaign co-chair before Biden withdrew.
+> Katzenberg's documented Newsom donations: **$500,000 to the 2021 recall defense** (the single largest individual recall donation identified in this research) and **$64,800 to Newsom's 2022 reelection campaign** (maxed out under California contribution limits). His federal giving is extensive, over **$5 million lifetime** to Democratic causes including major bundling for Obama and Biden. Katzenberg was Biden's 2024 campaign co-chair before Biden withdrew.
 >
-> The recall donation is the clearest direct link: half a million dollars to keep a governor in office whose Israel positions align with Katzenberg's. [Source: CalMatters recall donor tracker / OpenSecrets — Tier 1/2]
+> The recall donation is the clearest direct link: half a million dollars to keep a governor in office whose Israel positions align with Katzenberg's. [Source: CalMatters recall donor tracker / OpenSecrets. Tier 1/2]
 
 **The Hollywood Studio Network**. The major studio executive class in Los Angeles has overlapping pro-Israel donor networks. This layer is less easily mapped than individual billionaires but functions through bundled donations, entertainment industry PACs, and personal connections maintained through LA Democratic Party events.
 
@@ -119,7 +119,7 @@ This is a structural succession story: Newsom inherited the political infrastruc
 California requires disclosure of "behested payments", charitable donations made at the direction of a politician, above $5,000. Behested payments are how donor-politician relationships are sometimes maintained without direct campaign contributions.
 
 > [!money]
-> Newsom has raised over **$300 million in behested payments** over 15 years — nearly $227 million in 2020 alone. Within that total: **$10 million from Charles and Lynn Schusterman Family Philanthropies** — a progressive Jewish foundation with significant Israel programming. Newsom also raised over $11 million for the Tides Foundation since 2020.
+> Newsom has raised over **$300 million in behested payments** over 15 years, nearly $227 million in 2020 alone. Within that total: **$10 million from Charles and Lynn Schusterman Family Philanthropies**, a progressive Jewish foundation with significant Israel programming. Newsom also raised over $11 million for the Tides Foundation since 2020.
 >
 > The Schusterman connection is significant: the Schusterman family is one of the largest funders of pro-Israel education and advocacy programs in America, including Birthright Israel and AIPAC-affiliated organizations. A $10 million behested payment from a pro-Israel foundation to a Newsom-designated cause is exactly the kind of exchange that sits outside campaign finance records but inside the donor relationship.
 

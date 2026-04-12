@@ -16,7 +16,7 @@ donors: [[Leonard Leo]]
 ### The $22 Million Confirmation and the McConnell Precedent Reversal
 
 > [!money]
-> [[_Amy Coney Barrett Master Profile|Amy Coney Barrett]]'s confirmation was the capstone of [[Leonard Leo|Leonard Leo]]'s 30-year project to capture the Supreme Court. The Judicial Crisis Network (now Concord Fund) spent $22 million+ on the Barrett confirmation — funded through the Rule of Law Trust, which received $21.5 million in a single year as a conduit for anonymous donors. This followed $17.1 million for Kavanaugh and $10 million for Gorsuch. Leo personally architected all three Trump appointments — selecting the nominees, managing the confirmation campaigns, and directing the dark money infrastructure. The total cost of constructing the 6-3 supermajority: approximately $50 million in anonymous dark money through JCN alone, with additional millions through affiliated entities.
+> [[_Amy Coney Barrett Master Profile|Amy Coney Barrett]]'s confirmation was the capstone of [[Leonard Leo|Leonard Leo]]'s 30-year project to capture the Supreme Court. The Judicial Crisis Network (now Concord Fund) spent $22 million+ on the Barrett confirmation, funded through the Rule of Law Trust, which received $21.5 million in a single year as a conduit for anonymous donors. This followed $17.1 million for Kavanaugh and $10 million for Gorsuch. Leo personally architected all three Trump appointments, selecting the nominees, managing the confirmation campaigns, and directing the dark money infrastructure. The total cost of constructing the 6-3 supermajority: approximately $50 million in anonymous dark money through JCN alone, with additional millions through affiliated entities.
 
 ---
 
@@ -34,7 +34,7 @@ On September 18, 2020, Justice Ruth Bader Ginsburg died, 46 days before the pres
 31 Republican senators who voted to block Garland voted to confirm Barrett, reversing their own stated principle that election-year Supreme Court vacancies should be decided by voters.
 
 > [!contradiction]
-> The reversal reveals the institutional capture at its most naked. The "principle" McConnell articulated in 2016 was not a principle — it was a tactic. When blocking a nomination served the donor class (preventing an Obama justice), the norm was invoked. When speed-confirming a nomination served the donor class (installing a Leo-selected justice before a potential Biden presidency), the norm was discarded. 31 senators demonstrated that their prior positions had no binding force. The only constant: Leo's network determined which justices sat on the Court, and McConnell provided the procedural mechanism.
+> The reversal reveals the institutional capture at its most naked. The "principle" McConnell articulated in 2016 was not a principle, it was a tactic. When blocking a nomination served the donor class (preventing an Obama justice), the norm was invoked. When speed-confirming a nomination served the donor class (installing a Leo-selected justice before a potential Biden presidency), the norm was discarded. 31 senators demonstrated that their prior positions had no binding force. The only constant: Leo's network determined which justices sat on the Court, and McConnell provided the procedural mechanism.
 
 ---
 

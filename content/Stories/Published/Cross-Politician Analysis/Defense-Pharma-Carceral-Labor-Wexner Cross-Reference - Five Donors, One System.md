@@ -27,7 +27,7 @@ known-gaps:
 ### Opening Thesis: The Full Spectrum of American Political Spending
 
 > [!money]
-> Five political spending entities — three corporate (RTX, PhRMA, GEO Group), one labor (UAW), one individual mega-donor (Wexner) — reveal the structural asymmetry of American campaign finance. Corporate donors buy access across both parties simultaneously, surviving electoral shifts unharmed. Labor is locked into one party and collapses when that party loses power. The result: donors control politicians, not the other way around. Capital achieves 228:1 to 9,200:1 returns on its political investment. Labor achieves losses. The system is designed to produce this outcome.
+> Five political spending entities, three corporate (RTX, PhRMA, GEO Group), one labor (UAW), one individual mega-donor (Wexner), reveal the structural asymmetry of American campaign finance. Corporate donors buy access across both parties simultaneously, surviving electoral shifts unharmed. Labor is locked into one party and collapses when that party loses power. The result: donors control politicians, not the other way around. Capital achieves 228:1 to 9,200:1 returns on its political investment. Labor achieves losses. The system is designed to produce this outcome.
 
 ---
 
@@ -165,7 +165,7 @@ GEO does not operate in isolation. The private prison industry intersects with a
 - Q1 2025 alone: $350,000 in federal lobbying disclosures
 
 > [!money]
-> **The ROI is extraordinary.** GEO Group invested approximately **$4–5 million** in 2024 political contributions and received the One Big Beautiful Bill's **$45 billion ICE allocation** — plus $1 billion+ in contracts already awarded. That is a 9,200x return on appropriations basis. When stock appreciation is included, GEO shareholders achieved explosive gains from a modest political investment. This is the clearest donor-control pipeline in American politics.
+> **The ROI is extraordinary.** GEO Group invested approximately **$4–5 million** in 2024 political contributions and received the One Big Beautiful Bill's **$45 billion ICE allocation**, plus $1 billion+ in contracts already awarded. That is a 9,200x return on appropriations basis. When stock appreciation is included, GEO shareholders achieved explosive gains from a modest political investment. This is the clearest donor-control pipeline in American politics.
 
 ---
 
@@ -339,7 +339,7 @@ Wexner's $5.3M over 35 years generates returns through civic influence rather th
 > [!money]
 > **GEO Group achieves by far the highest measurable ROI** because it operates in a discrete, quantifiable policy domain (immigration detention appropriations) with direct and documented causality from contributions to contracts.
 >
-> **PhRMA's ROI is the most alarming** — a $35M investment producing $8B in foregone government savings. This ratio is only possible because pharmaceutical pricing involves trillion-dollar revenue streams, where small regulatory changes produce enormous financial consequences.
+> **PhRMA's ROI is the most alarming**, a $35M investment producing $8B in foregone government savings. This ratio is only possible because pharmaceutical pricing involves trillion-dollar revenue streams, where small regulatory changes produce enormous financial consequences.
 >
 > **RTX's ROI is the most structurally embedded.** Its bipartisan giving pattern and revolving-door lobbyist army make it essentially immune to electoral outcomes. Defense budgets have increased under every administration.
 >
@@ -350,7 +350,7 @@ Wexner's $5.3M over 35 years generates returns through civic influence rather th
 ### The Both-Sides Illusion at Industry Scale
 
 > [!contradiction]
-> The "both-sides illusion" does not operate at the politician level alone — it operates at the industry level. RTX gives 54% R / 46% D. PhRMA gives direct contributions to Democrats and dark money exclusively to Republicans. Both industries achieve policy wins under every administration. GEO Group and UAW are locked into single parties, and both pay a price when "their" party loses power.
+> The "both-sides illusion" does not operate at the politician level alone, it operates at the industry level. RTX gives 54% R / 46% D. PhRMA gives direct contributions to Democrats and dark money exclusively to Republicans. Both industries achieve policy wins under every administration. GEO Group and UAW are locked into single parties, and both pay a price when "their" party loses power.
 >
 > **The entities with the highest ROI are the ones that buy access regardless of who wins.** This is not bipartisanship in the rhetorical sense. It is the structural recognition that politicians serve donors, not the other way around. The system rewards capital that buys access across both parties and punishes labor that is locked into one.
 

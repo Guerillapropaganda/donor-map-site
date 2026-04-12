@@ -32,7 +32,7 @@ The UDP spent approximately $350,000 directly in the race, with additional six-f
 The near-miss had structural value beyond the result: it forced Omar to divert campaign resources from governance to primary defense, demonstrated to other members that her seat was vulnerable, and established Samuels as a credible vehicle for future challenges.
 
 > [!money]
-> The 2022 AIPAC/UDP spending against Omar illustrates the discipline mechanism's two-stage function. Stage 1: demonstrate vulnerability — a 2.15-point margin in a safe district signals that sustained spending can flip the seat. Stage 2: force ongoing resource allocation to defense — Omar must maintain a permanent campaign infrastructure to repel future challenges. The $350,000 UDP direct spend understates total pro-Israel investment in the race; it also excludes the deterrent effect on other members watching the primary.
+> The 2022 AIPAC/UDP spending against Omar illustrates the discipline mechanism's two-stage function. Stage 1: demonstrate vulnerability, a 2.15-point margin in a safe district signals that sustained spending can flip the seat. Stage 2: force ongoing resource allocation to defense. Omar must maintain a permanent campaign infrastructure to repel future challenges. The $350,000 UDP direct spend understates total pro-Israel investment in the race; it also excludes the deterrent effect on other members watching the primary.
 
 ---
 
@@ -71,7 +71,7 @@ The AIPAC/UDP strategy's primary product is not the defeat of individual members
 The implicit message: criticize Israeli government policy or oppose military aid packages and face a well-funded, professionally managed primary challenge with national media coverage and Republican money backing your opponent. The financial and political cost of dissent is made explicit through each high-profile challenge.
 
 > [!contradiction]
-> Omar was removed from Foreign Affairs for comments about AIPAC's influence — then AIPAC's super PAC immediately demonstrated that influence by spending heavily in her primary. The sequence validates her original observation: the punishment for naming the mechanism is the mechanism's deployment. The removal did not silence her — Omar has continued her Palestine advocacy from outside the committee — but it stripped her of the institutional leverage that comes with committee jurisdiction.
+> Omar was removed from Foreign Affairs for comments about AIPAC's influence, then AIPAC's super PAC immediately demonstrated that influence by spending heavily in her primary. The sequence validates her original observation: the punishment for naming the mechanism is the mechanism's deployment. The removal did not silence her. Omar has continued her Palestine advocacy from outside the committee, but it stripped her of the institutional leverage that comes with committee jurisdiction.
 
 ---
 

@@ -152,7 +152,7 @@ Sacks' political objectives map directly to his Craft Ventures portfolio:
 **Chip export advocacy:** Sacks advocated lifting Biden-era chip export restrictions. Negotiated deal for 500K U.S. AI chips (primarily Nvidia) to UAE (potential $200B revenue). Had close relationship with Nvidia CEO Jensen Huang; echoed Huang's views in White House meetings. Advocated lifting U.S. ban on Nvidia chip sales to China. His 449 AI portfolio companies benefit from cheaper, more accessible chips.
 
 > [!money] The Portfolio-as-Policy Pipeline
-> David Sacks converted a $12M bundled fundraiser into a government position overseeing 469+ companies in his own investment portfolio. The GENIUS Act he championed became law, and a portfolio company immediately filed for IPO. The AI Action Plan he authored directed Pentagon procurement toward companies his firm invested in. Blanket ethics waivers meant he never had to choose between portfolio and policy — the two were identical. This is not the revolving door; this is the door removed from its hinges. Sacks maintained his Craft Ventures position while exercising government authority over the industries in which Craft invests. Estimated portfolio benefit: hundreds of millions in increased valuations across 469 portfolio companies operating under the regulatory framework their investor wrote.
+> David Sacks converted a $12M bundled fundraiser into a government position overseeing 469+ companies in his own investment portfolio. The GENIUS Act he championed became law, and a portfolio company immediately filed for IPO. The AI Action Plan he authored directed Pentagon procurement toward companies his firm invested in. Blanket ethics waivers meant he never had to choose between portfolio and policy, the two were identical. This is not the revolving door; this is the door removed from its hinges. Sacks maintained his Craft Ventures position while exercising government authority over the industries in which Craft invests. Estimated portfolio benefit: hundreds of millions in increased valuations across 469 portfolio companies operating under the regulatory framework their investor wrote.
 
 ---
 
@@ -321,7 +321,7 @@ Sacks and Craft Ventures divested $200M+ in digital assets ($85M+ personal):
 >
 > **SF as democratic failure:** Used San Francisco as symbol of Democratic failure in RNC speech ("cesspool of crime, homeless encampments, open drug use") while being SF billionaire who benefited from decades of SF tech prosperity. Funded SF recall while hosting $12M fundraiser in SF Pacific Heights mansion.
 >
-> **"Innovation" vs. "Regulatory capture":** Frames policy as enabling innovation and free markets; actual function is writing rules his portfolio companies operate under. GENIUS Act isn't deregulation — it's Sacks writing stablecoin regulations. AI preemption isn't innovation policy — it's blocking state-level accountability. Procurement policy isn't competitiveness — it's government contracts toward companies Sacks invested in.
+> **"Innovation" vs. "Regulatory capture":** Frames policy as enabling innovation and free markets; actual function is writing rules his portfolio companies operate under. GENIUS Act isn't deregulation, it's Sacks writing stablecoin regulations. AI preemption isn't innovation policy, it's blocking state-level accountability. Procurement policy isn't competitiveness, it's government contracts toward companies Sacks invested in.
 
 ---
 
@@ -360,7 +360,7 @@ By March 2026, $500M+ in personal portfolio wealth appreciation from policies Sa
 **Bipartisan manipulation:** Sacks' trajectory. Republican → Democrat → California progressive recall funder → Trump MAGA, suggests opportunistic ideological positioning rather than principled political identity, optimized around protecting and growing financial interests and policy influence. Every pivot preserved or advanced his portfolio interests. Every policy championed benefits Craft Ventures. The ideology is window dressing; the business model is the message.
 
 > [!money] The ROI of Political Capture
-> Sacks' $1M super PAC donation (Vance 2022) placed Vance in position to select Sacks for government role. That role created $500M+ portfolio returns within 12 months. This is not contribution-to-policy; it is contribution-to-personal-wealth-extraction via government capture. The class function: venture capital openly merges with government power, eliminating fiction that regulatory agencies constrain private profit. Sacks proves that in Trump 2.0, wealthiest tech entrepreneurs don't need to lobby government — they *become* government, keep their companies, and use public power to enrich themselves.
+> Sacks' $1M super PAC donation (Vance 2022) placed Vance in position to select Sacks for government role. That role created $500M+ portfolio returns within 12 months. This is not contribution-to-policy; it is contribution-to-personal-wealth-extraction via government capture. The class function: venture capital openly merges with government power, eliminating fiction that regulatory agencies constrain private profit. Sacks proves that in Trump 2.0, wealthiest tech entrepreneurs don't need to lobby government, they *become* government, keep their companies, and use public power to enrich themselves.
 
 ---
 

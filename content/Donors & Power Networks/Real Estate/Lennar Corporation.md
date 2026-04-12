@@ -115,7 +115,7 @@ Miller admitted to the FEC that he used Tread Standard "to prevent disclosure of
 Lennar contributed $50,000 to the Republican Party of Florida ahead of Governor [[_Ron DeSantis Master Profile|Ron DeSantis]]'s inauguration, at a time the party was offering donors "close access and tickets" to exclusive events. Lennar also funded the political committee of its own Florida lobbying firm prior to the 2023 legislative session, creating a direct pipeline: Lennar money → lobbying firm political committee → legislative access → Lennar-authored legislation.
 
 > [!money] Follow the Money
-> Stuart Miller's Tread Standard LLC is a textbook case of dark money operating through shell companies. The shell was created specifically to hide Miller's identity as a donor — and the FEC's April 2025 dismissal without penalty signals that this tactic carries no meaningful legal risk. Miller's bipartisan giving (2/3 Democratic, 1/3 Republican) with anonymous Republican Super PAC contributions through a shell company reveals the two-audience strategy: public Democratic contributions maintain access to the party that controls housing policy committees, while dark money Republican contributions purchase influence without alienating the Democratic donor relationship.
+> Stuart Miller's Tread Standard LLC is a textbook case of dark money operating through shell companies. The shell was created specifically to hide Miller's identity as a donor, and the FEC's April 2025 dismissal without penalty signals that this tactic carries no meaningful legal risk. Miller's bipartisan giving (2/3 Democratic, 1/3 Republican) with anonymous Republican Super PAC contributions through a shell company reveals the two-audience strategy: public Democratic contributions maintain access to the party that controls housing policy committees, while dark money Republican contributions purchase influence without alienating the Democratic donor relationship.
 
 ---
 
@@ -138,7 +138,7 @@ Lennar's political investment has delivered concrete returns across federal, sta
 | 2023–2024 | Florida Legislature (amenity fees) | Lobbying spend | Legislation to overturn Avatar v. Gundel ruling legalizing perpetual developer fees | 6–12 months |
 
 > [!money]
-> The 2009 tax rebate campaign is the most dramatic ROI in Lennar's political history: $1.1 million in political spending preceded $1.5 billion in federal tax rebates — a 1,364:1 return ratio. At the state level, the pattern is even more direct: Lennar lobbyists literally wrote Florida legislation (SB 812), funded the political committees that secured the legislative relationships, and then watched their client's bill get filed under a legislator's name. The investment in anonymous Super PAC contributions through Tread Standard is harder to trace to specific returns — which is exactly the point.
+> The 2009 tax rebate campaign is the most dramatic ROI in Lennar's political history: $1.1 million in political spending preceded $1.5 billion in federal tax rebates, a 1,364:1 return ratio. At the state level, the pattern is even more direct: Lennar lobbyists literally wrote Florida legislation (SB 812), funded the political committees that secured the legislative relationships, and then watched their client's bill get filed under a legislator's name. The investment in anonymous Super PAC contributions through Tread Standard is harder to trace to specific returns, which is exactly the point.
 
 ---
 

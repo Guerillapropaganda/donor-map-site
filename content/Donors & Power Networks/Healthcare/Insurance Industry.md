@@ -71,7 +71,7 @@ The insurance industry's political operation serves one overriding objective: th
 - **Regulatory capture:** Place former industry executives in CMS, HHS, and state insurance commissioner positions to shape enforcement from within
 
 > [!money]
-> The insurance industry's $175-200M annual lobbying expenditure protects a $1.3 trillion annual revenue stream. The math is simple: every dollar spent on lobbying protects roughly $6,500 in revenue. No other industry achieves this return on political investment. The ACA was designed to preserve private insurance. The public option was killed by industry lobbying. Medicare for All never received a congressional vote. Every healthcare "reform" that reaches the floor has been pre-vetted by insurance lobbyists — any proposal that threatens the private intermediary model is killed before it reaches a vote.
+> The insurance industry's $175-200M annual lobbying expenditure protects a $1.3 trillion annual revenue stream. The math is simple: every dollar spent on lobbying protects roughly $6,500 in revenue. No other industry achieves this return on political investment. The ACA was designed to preserve private insurance. The public option was killed by industry lobbying. Medicare for All never received a congressional vote. Every healthcare "reform" that reaches the floor has been pre-vetted by insurance lobbyists, any proposal that threatens the private intermediary model is killed before it reaches a vote.
 
 ### Who They Fund
 
@@ -88,7 +88,7 @@ The insurance industry's contribution strategy is explicitly bipartisan and comm
 **Strategic giving pattern:** The industry simultaneously funds politicians who publicly support and oppose healthcare reform. During the ACA debate, insurance PACs gave to both ACA supporters and opponents, the goal was not to pick a side but to ensure the final bill preserved private insurance's role regardless of outcome. The same pattern repeated during the 2017-2018 ACA repeal fight and the 2019-2020 Medicare for All debate.
 
 > [!contradiction]
-> The insurance industry funds both parties' healthcare committee leaders simultaneously. During the ACA debate, the industry gave to both Max Baucus (D-MT, Finance Chair, who wrote the ACA to preserve private insurance) and Chuck Grassley (R-IA, Finance Ranking Member, who opposed the ACA entirely). The industry won either way: if the ACA passed, private insurance was preserved as the delivery mechanism; if it failed, the status quo (private insurance) continued. This is the Both-Sides Illusion operating at industry scale — the appearance of partisan conflict masks a structural consensus that private insurance must be preserved.
+> The insurance industry funds both parties' healthcare committee leaders simultaneously. During the ACA debate, the industry gave to both Max Baucus (D-MT, Finance Chair, who wrote the ACA to preserve private insurance) and Chuck Grassley (R-IA, Finance Ranking Member, who opposed the ACA entirely). The industry won either way: if the ACA passed, private insurance was preserved as the delivery mechanism; if it failed, the status quo (private insurance) continued. This is the Both-Sides Illusion operating at industry scale, the appearance of partisan conflict masks a structural consensus that private insurance must be preserved.
 
 ### What They've Gotten
 
@@ -108,7 +108,7 @@ The insurance industry's political investment has delivered the most consequenti
 | 2024-2025 | UnitedHealth record lobbying | $7.5M (2024 lobbying) + 50 lobbyists | Beat back congressional Medicare Advantage spending reduction efforts | Immediate |
 
 > [!money]
-> The insurance industry's signature achievement is the ACA itself. The law that was supposed to reform healthcare actually *entrenched* private insurance: the individual mandate required Americans to purchase private insurance, the exchanges created a government-subsidized marketplace for private plans, and the public option — the only structural threat to the private model — was killed by industry lobbying through Joe Lieberman. Insurers initially opposed the ACA, then realized it would deliver millions of new subsidized customers. Post-ACA, the five largest health insurers saw their stock prices increase 300-800% over the following decade. The "reform" was the investment.
+> The insurance industry's signature achievement is the ACA itself. The law that was supposed to reform healthcare actually *entrenched* private insurance: the individual mandate required Americans to purchase private insurance, the exchanges created a government-subsidized marketplace for private plans, and the public option, the only structural threat to the private model, was killed by industry lobbying through Joe Lieberman. Insurers initially opposed the ACA, then realized it would deliver millions of new subsidized customers. Post-ACA, the five largest health insurers saw their stock prices increase 300-800% over the following decade. The "reform" was the investment.
 
 ### The Medicare Advantage Extraction Machine
 
@@ -148,7 +148,7 @@ The bipartisan funding strategy is not hedging; it is the strategy. By funding b
 The Medicare Advantage program represents the endpoint of this strategy: a government program redesigned to funnel public money through private insurers at a 20% markup, with enforcement mechanisms systematically dismantled by industry lobbying. The industry is not gaming the system, the system was built to the industry's specifications.
 
 > [!contradiction]
-> The insurance industry publicly supports "affordable, accessible healthcare for all Americans" while spending $175-200M annually to block every structural reform that would make healthcare affordable and accessible. AHIP's own mission statement emphasizes "coverage and care" while its political operation is dedicated to ensuring that coverage must be purchased from its members. The gap between the industry's public messaging and its lobbying record is not hypocrisy — it is the Two-Audience Problem at trade association scale: one message for the public ("we support reform"), one operation for Congress ("kill anything that threatens our revenue model").
+> The insurance industry publicly supports "affordable, accessible healthcare for all Americans" while spending $175-200M annually to block every structural reform that would make healthcare affordable and accessible. AHIP's own mission statement emphasizes "coverage and care" while its political operation is dedicated to ensuring that coverage must be purchased from its members. The gap between the industry's public messaging and its lobbying record is not hypocrisy, it is the Two-Audience Problem at trade association scale: one message for the public ("we support reform"), one operation for Congress ("kill anything that threatens our revenue model").
 
 ### Enemies / Opposition
 

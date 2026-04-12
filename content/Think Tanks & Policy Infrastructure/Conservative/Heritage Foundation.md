@@ -44,7 +44,7 @@ Heritage operates as a three-entity political machine: the Foundation (501(c)(3)
 The organization's Mandate for Leadership, first published in 1981, is the authoritative right-wing policy blueprint for Republican administrations. Reagan adopted roughly 60% of its recommendations in his first year. The 2025 edition, produced as the centerpiece of Project 2025, is 920 pages and was authored by 400+ contributors, 54% of whom previously worked in Trump's first administration.
 
 > [!money]
-> Heritage doesn't produce independent research. It produces pre-assembled policy for donors who need intellectual cover. The Mandate for Leadership is not written and then adopted — it is adopted and then written. The donors who fund Heritage have consistent, documented policy preferences. Heritage produces research that recommends those exact policies. Politicians cite that research as "independent analysis." The laundering is the function. The Center for Data Analysis has never produced an analysis finding that a tax cut is harmful and has never been subjected to peer review.
+> Heritage doesn't produce independent research. It produces pre-assembled policy for donors who need intellectual cover. The Mandate for Leadership is not written and then adopted, it is adopted and then written. The donors who fund Heritage have consistent, documented policy preferences. Heritage produces research that recommends those exact policies. Politicians cite that research as "independent analysis." The laundering is the function. The Center for Data Analysis has never produced an analysis finding that a tax cut is harmful and has never been subjected to peer review.
 
 ---
 
@@ -72,10 +72,10 @@ The 2023 IRS 990 shows Heritage's own grant-making directed 58% of its $1.67 mil
 Dark money conduits. DonorsTrust and Donors Capital Fund, are specifically used to obscure the original donor identity. A billionaire can donate to DonorsTrust and direct funds to Heritage without any public trace of that relationship. This is the structural purpose of the dark money conduit system. DonorsTrust's board includes John Von Kannon, Vice President of the Heritage Foundation, creating a direct governance interlocking directorate.
 
 > [!money]
-> Total documented funding from just four donor networks (Scaife, Bradley, Koch, DonorsTrust): $60M+ over 25 years to Heritage directly, plus $50M+ through Bradley Impact Fund to the broader Project 2025 network. Heritage's revenue jumped 26% in 2022-2023, the precise period when Project 2025 launched its staffing database and Mandate for Leadership drafting. The fundraising surge was not coincidental — the donors who benefit from Project 2025 policy paid for Project 2025 policy to be written.
+> Total documented funding from just four donor networks (Scaife, Bradley, Koch, DonorsTrust): $60M+ over 25 years to Heritage directly, plus $50M+ through Bradley Impact Fund to the broader Project 2025 network. Heritage's revenue jumped 26% in 2022-2023, the precise period when Project 2025 launched its staffing database and Mandate for Leadership drafting. The fundraising surge was not coincidental, the donors who benefit from Project 2025 policy paid for Project 2025 policy to be written.
 
 > [!contradiction]
-> Heritage Foundation claims 501(c)(3) status as a nonpartisan research organization. In 2024, Heritage donated $1 million directly to the Republican National Convention — a nakedly partisan expenditure. The Sentinel Action Fund (Heritage's own Super PAC) spent $13 million in the 2022 midterms on explicitly partisan electoral campaigns. Heritage Action's congressional scorecard exists to enforce party-line voting, not to promote nonpartisan research. The "nonpartisan" designation is a tax-status fiction that saves Heritage's donors tens of millions in taxes annually.
+> Heritage Foundation claims 501(c)(3) status as a nonpartisan research organization. In 2024, Heritage donated $1 million directly to the Republican National Convention, a nakedly partisan expenditure. The Sentinel Action Fund (Heritage's own Super PAC) spent $13 million in the 2022 midterms on explicitly partisan electoral campaigns. Heritage Action's congressional scorecard exists to enforce party-line voting, not to promote nonpartisan research. The "nonpartisan" designation is a tax-status fiction that saves Heritage's donors tens of millions in taxes annually.
 
 #### Koch Network
 
@@ -329,7 +329,7 @@ Koch's Freedom Partners Chamber of Commerce gave $500,000 to Heritage Action in 
 | 2025 | SNAP policy transformation | Robert Rector decades of advocacy | "One Big Beautiful Bill" implements expanded work requirements matching Heritage proposals exactly | 40+ year policy pipeline |
 
 > [!money]
-> The ROI calculation for Heritage's major donors is not ambiguous. The Koch network invested approximately $5.7 million in Heritage over 25 years. The Tax Cuts and Jobs Act alone — a Heritage-architected policy — saves Koch Industries an estimated $1–1.4 billion annually. That's a 170-to-1 return in the first year of implementation. The Scaife Foundation invested $30 million in Heritage over 51 years. The deregulatory outcomes across two Trump administrations — EPA rollbacks, Chevron elimination, NLRB gutting — represent economic returns to Scaife-affiliated industries that dwarf the investment by orders of magnitude. Heritage is not a charity. It is the highest-ROI political investment in the conservative donor class's portfolio.
+> The ROI calculation for Heritage's major donors is not ambiguous. The Koch network invested approximately $5.7 million in Heritage over 25 years. The Tax Cuts and Jobs Act alone, a Heritage-architected policy, saves Koch Industries an estimated $1–1.4 billion annually. That's a 170-to-1 return in the first year of implementation. The Scaife Foundation invested $30 million in Heritage over 51 years. The deregulatory outcomes across two Trump administrations. EPA rollbacks, Chevron elimination, NLRB gutting, represent economic returns to Scaife-affiliated industries that dwarf the investment by orders of magnitude. Heritage is not a charity. It is the highest-ROI political investment in the conservative donor class's portfolio.
 
 ---
 
@@ -415,7 +415,7 @@ The measurable policy outcomes attributable to Heritage's policy pipeline, cross
 - F-22 Raptor program: Heritage published "flurry of reports" supporting program after Pentagon recommended cutting it; ~$13B program saved through Heritage advocacy coordinated with monthly executive meetings
 
 > [!money]
-> The combined policy return to Heritage's major donors across two Trump administrations exceeds $1 trillion in regulatory relief, tax savings, and weakened enforcement capacity — against a total investment in Heritage of approximately $50–75 million over 25+ years. Scaife alone invested $30M over 51 years and received returns in the hundreds of billions through deregulation, tax cuts, and prevented labor/environmental protections. This is the foundational argument for why wealthy donors fund think tanks: the leverage ratio between investment and political return is unmatched by direct lobbying or campaign contributions.
+> The combined policy return to Heritage's major donors across two Trump administrations exceeds $1 trillion in regulatory relief, tax savings, and weakened enforcement capacity, against a total investment in Heritage of approximately $50–75 million over 25+ years. Scaife alone invested $30M over 51 years and received returns in the hundreds of billions through deregulation, tax cuts, and prevented labor/environmental protections. This is the foundational argument for why wealthy donors fund think tanks: the leverage ratio between investment and political return is unmatched by direct lobbying or campaign contributions.
 
 ---
 

@@ -147,10 +147,10 @@ For the donor class, ALEC solves the scaling problem of traditional lobbying. In
 > **The Money Trail:** ALEC dues ($25K corporate membership) translate into 600+ laws passed per decade. Cost per law: ~$42. The donor class's ROI on legislative authorship is incalculable.
 
 [!contradiction]
-> **The Legislator's Double Bind:** A legislator who campaigns as a working-class representative can introduce an ALEC Right to Work bill verbatim while claiming to fight for workers. The model bill system makes this contradiction structurally inevitable — the donor class owns the legislation before the legislator's name goes on it.
+> **The Legislator's Double Bind:** A legislator who campaigns as a working-class representative can introduce an ALEC Right to Work bill verbatim while claiming to fight for workers. The model bill system makes this contradiction structurally inevitable, the donor class owns the legislation before the legislator's name goes on it.
 
 [!quote]
-> "Of the 131 introduced Stand Your Ground bills in the collection, about a quarter lifted at least 30 percent of the state bill directly from ALEC's model bill. The vast majority of the bills shared over 400 exact words and phrases in common with the model legislation. In one striking example, West Virginia's 2734 House Bill overlapped the model legislation by 849 words—which made the bill ~80 percent identical to the ALEC model." — ProPublica analysis, ALEC Exposed
+> "Of the 131 introduced Stand Your Ground bills in the collection, about a quarter lifted at least 30 percent of the state bill directly from ALEC's model bill. The vast majority of the bills shared over 400 exact words and phrases in common with the model legislation. In one striking example, West Virginia's 2734 House Bill overlapped the model legislation by 849 words, which made the bill ~80 percent identical to the ALEC model.". ProPublica analysis, ALEC Exposed
 
 ---
 

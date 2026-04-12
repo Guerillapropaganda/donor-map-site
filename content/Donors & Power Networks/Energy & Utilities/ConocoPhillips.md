@@ -250,16 +250,16 @@ The Willow Project ($8 billion investment, 180,000 barrels per day at peak, 600 
 
 **Notable filings:**
 
-- 2026-03-31 — **4**: [4](https://www.sec.gov/Archives/edgar/data/1163165/000119312526134713/0001193125-26-134713-index.htm)
-- 2026-03-31 — **144**: [144](https://www.sec.gov/Archives/edgar/data/1163165/000195824426000183/0001958244-26-000183-index.htm)
-- 2026-03-31 — **4**: [4](https://www.sec.gov/Archives/edgar/data/1163165/000119312526134453/0001193125-26-134453-index.htm)
-- 2026-03-30 — **ARS**: [ARS](https://www.sec.gov/Archives/edgar/data/1163165/000110465926036395/0001104659-26-036395-index.htm)
-- 2026-03-30 — **DEFA14A**: [DEFA14A](https://www.sec.gov/Archives/edgar/data/1163165/000110465926036377/0001104659-26-036377-index.htm)
+- 2026-03-31 - **4**: [4](https://www.sec.gov/Archives/edgar/data/1163165/000119312526134713/0001193125-26-134713-index.htm)
+- 2026-03-31 - **144**: [144](https://www.sec.gov/Archives/edgar/data/1163165/000195824426000183/0001958244-26-000183-index.htm)
+- 2026-03-31 - **4**: [4](https://www.sec.gov/Archives/edgar/data/1163165/000119312526134453/0001193125-26-134453-index.htm)
+- 2026-03-30 - **ARS**: [ARS](https://www.sec.gov/Archives/edgar/data/1163165/000110465926036395/0001104659-26-036395-index.htm)
+- 2026-03-30 - **DEFA14A**: [DEFA14A](https://www.sec.gov/Archives/edgar/data/1163165/000110465926036377/0001104659-26-036377-index.htm)
 
 - [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22ConocoPhillips%22) (Tier 1)
 <!-- auto:sec-edgar end -->
 
-### Financial Overview (990 Filing — 2023)
+### Financial Overview (990 Filing - 2023)
 <!-- auto:propublica-990 start -->
 | Metric | Amount |
 |--------|--------|
@@ -268,7 +268,7 @@ The Willow Project ($8 billion investment, 180,000 barrels per day at peak, 600 
 | Total Expenses | $464K |
 | Net Assets | $5.8M |
 
-- [Source: ProPublica Nonprofit Explorer — EIN 202555951](https://projects.propublica.org/nonprofits/organizations/202555951) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer - EIN 202555951](https://projects.propublica.org/nonprofits/organizations/202555951) (Tier 1)
 <!-- auto:propublica-990 end -->
 
 ### Vehicle Safety (NHTSA)
@@ -313,12 +313,12 @@ The Willow Project ($8 billion investment, 180,000 barrels per day at peak, 600 
 | Case Types | 190 Contract: Other, 360 P.I.: Other, 440 Civil Rights: Other, 893 Environmental Matters, 899 Administrative Procedure Act/Review or Appeal of Agency Decision |
 
 **Notable cases:**
-- MIDWEST RENEWABLE ENERGY ASSOCIATION v. VELETA (2026) — District Court, S.D. Indiana
-- NUIQSUT TRILATERAL, INC. v. BURGUM (2026) — District Court, D. Alaska
-- GRANDMOTHERS GROWING GOODNESS v. BURGUM (2026) — District Court, D. Alaska
-- Atmus Filtration, Inc. v. United States (2026) — United States Court of International Trade
-- Stephenson v. East Binger Unit (2026) — District Court, W.D. Oklahoma
-- American Public Health Association v. EPA (2026) — Court of Appeals for the D.C. Circuit
+- MIDWEST RENEWABLE ENERGY ASSOCIATION v. VELETA (2026) - District Court, S.D. Indiana
+- NUIQSUT TRILATERAL, INC. v. BURGUM (2026) - District Court, D. Alaska
+- GRANDMOTHERS GROWING GOODNESS v. BURGUM (2026) - District Court, D. Alaska
+- Atmus Filtration, Inc. v. United States (2026) - United States Court of International Trade
+- Stephenson v. East Binger Unit (2026) - District Court, W.D. Oklahoma
+- American Public Health Association v. EPA (2026) - Court of Appeals for the D.C. Circuit
 
 - [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22ConocoPhillips%22&type=r) (Tier 1)
 <!-- auto:courtlistener-cases end -->
@@ -356,17 +356,17 @@ The Willow Project ($8 billion investment, 180,000 barrels per day at peak, 600 
 
 **Funded politicians:**
 
-- [[Lisa Murkowski]] — lobbying: $17.9M
-- [[Dan Sullivan]] — lobbying: $17.9M
-- [[Dan Crenshaw]] — lobbying: $17.9M
-- [[John Kennedy]] (Judiciary, Banking) — lobbying: $17.9M
+- [[Lisa Murkowski]] - lobbying: $17.9M
+- [[Dan Sullivan]] - lobbying: $17.9M
+- [[Dan Crenshaw]] - lobbying: $17.9M
+- [[John Kennedy]] (Judiciary, Banking) - lobbying: $17.9M
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-09.*
 <!-- auto:influence-cross-ref end -->
 
 <!-- auto:influence-cross-ref pending-merge 2026-04-12 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+> [!attention] Fresh API data available - needs manual merge
+> Bot detected your edits to this section. New data below - fold in what's useful, then delete this block.
 
 | Metric | Value |
 |--------|-------|
@@ -382,10 +382,10 @@ The Willow Project ($8 billion investment, 180,000 barrels per day at peak, 600 
 
 **Funded politicians:**
 
-- [[Lisa Murkowski]] — lobbying: $17.9M
-- [[Dan Sullivan]] — lobbying: $17.9M
-- [[Dan Crenshaw]] (House Committee on Energy and Commerce, House Permanent Select Committee on Intelligence) — lobbying: $17.9M
-- [[John Kennedy]] (Judiciary, Banking) — lobbying: $17.9M
+- [[Lisa Murkowski]] - lobbying: $17.9M
+- [[Dan Sullivan]] - lobbying: $17.9M
+- [[Dan Crenshaw]] (House Committee on Energy and Commerce, House Permanent Select Committee on Intelligence) - lobbying: $17.9M
+- [[John Kennedy]] (Judiciary, Banking) - lobbying: $17.9M
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-12.*
 

@@ -65,14 +65,14 @@ audit-a-plus-passed: "2026-04-11"
 
 ### The Political Operation
 
-> [!money] Follow the Money — UNITE HERE Political Spending
+> [!money] Follow the Money. UNITE HERE Political Spending
 > **PAC raised (2024 cycle):** $1.85 million
 > **Contributions to federal candidates:** $162,500
 > **Outside spending:** $9.3 million
 > **Total organizational contributions (2024):** $20.6 million
 > **Federal lobbying:** $150,000
 >
-> The numbers look small compared to [[SEIU - Service Employees International Union|SEIU]] or the [[Teamsters - International Brotherhood of Teamsters|Teamsters]]. But UNITE HERE's political power isn't measured in PAC dollars — it's measured in doors knocked. The Las Vegas Culinary Union's canvassing operation is the most effective labor-led voter mobilization machine in the country. In 2022 midterms: 450 canvassers, 1 million+ doors, 175,000+ voter conversations. They delivered Nevada for Democrats. In 2024: the largest political effort in Nevada history.
+> The numbers look small compared to [[SEIU - Service Employees International Union|SEIU]] or the [[Teamsters - International Brotherhood of Teamsters|Teamsters]]. But UNITE HERE's political power isn't measured in PAC dollars, it's measured in doors knocked. The Las Vegas Culinary Union's canvassing operation is the most effective labor-led voter mobilization machine in the country. In 2022 midterms: 450 canvassers, 1 million+ doors, 175,000+ voter conversations. They delivered Nevada for Democrats. In 2024: the largest political effort in Nevada history.
 >
 > UNITE HERE's model inverts the vault's usual equation: instead of spending money to buy political access, they organize workers to deliver votes. The money goes to mobilization, not donations. It's the only union in the vault whose political power exceeds its financial spending.
 

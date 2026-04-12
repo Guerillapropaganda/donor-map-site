@@ -22,17 +22,17 @@ tags: #analysis #story
 ### The Public Attack
 
 >[!quote]
->**Charles Koch:** "The greatest threat facing us is the Soros-backed open borders progressive movement." — Cited across Koch network communications, 2024
+>**Charles Koch:** "The greatest threat facing us is the Soros-backed open borders progressive movement.". Cited across Koch network communications, 2024
 
 >[!quote]
->**[[George Soros]]**: "Citizens United opened the floodgates to unlimited money in politics. The Koch network epitomizes the corrupting force of dark money." — Foundation statements and interviews, recurring theme
+>**[[George Soros]]**: "Citizens United opened the floodgates to unlimited money in politics. The Koch network epitomizes the corrupting force of dark money.". Foundation statements and interviews, recurring theme
 
 The rhetorical opposition is total and unambiguous. Koch condemns Soros-backed operations as corrupting foreign-influenced globalism. Soros networks condemn the Koch operation as the archetype of dark money corruption. Democratic politicians funded by Soros/Arabella condemn Koch dark money. Republican politicians funded by Koch condemn Soros dark money.
 
 This opposition is performative. Beneath the ideology, the infrastructure is identical.
 
 >[!contradiction]
->**The Contradiction**: Both networks use the exact same legal structures, funding mechanisms, donor anonymity tactics, and strategic approaches — while framing each other as uniquely corrupt. The structural identity proves neither network genuinely opposes dark money; both oppose the other's *control* of dark money.
+>**The Contradiction**: Both networks use the exact same legal structures, funding mechanisms, donor anonymity tactics, and strategic approaches, while framing each other as uniquely corrupt. The structural identity proves neither network genuinely opposes dark money; both oppose the other's *control* of dark money.
 
 ---
 
@@ -104,7 +104,7 @@ Key vehicles:
 >**Kevin McLaughlin** (Senate Republican Campaign Director, 2020): "Democrats have built an elaborate, multibillion-dollar dark-money network while simultaneously railing against the scourge of dark money."
 
 >[!quote]
->**Democratic Justification**: "We aren't going to unilaterally disarm against [[_Donald Trump Master Profile|Donald Trump]] and right-wing conservatives." — Standard Democratic response when pressed on the contradiction, 2020–2024
+>**Democratic Justification**: "We aren't going to unilaterally disarm against [[_Donald Trump Master Profile|Donald Trump]] and right-wing conservatives.". Standard Democratic response when pressed on the contradiction, 2020–2024
 
 This is not hypocrisy requiring explanation. It is hypocrisy requiring acknowledgment: Democrats use identical dark money structures to those they publicly condemn, because dark money is not a partisan tool. It is a class tool. Both donor classes discovered it works.
 

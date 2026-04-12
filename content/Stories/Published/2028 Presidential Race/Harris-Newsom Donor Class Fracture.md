@@ -64,7 +64,7 @@ Harris, by contrast, maintains control of 2024 campaign infrastructure and ongoi
 The Harris-Newsom split creates potential tactical opening for progressive candidates ([[_Josh Shapiro Master Profile|Josh Shapiro]] paradoxically benefits most from this analysis, he is ideologically centrist but presents as "alternative" to both). However, [[_Alexandria Ocasio-Cortez Master Profile|Alexandria Ocasio-Cortez]] maintains her 12-15% baseline polling support independent of the establishment fracture.
 
 > [!money]
-> AOC's fundraising model: Small-dollar online fundraising (~$10M+ in 2028 campaign cycle) operates entirely outside the Bloomberg/Soros/entertainment-donor apparatus. Her insurgency is financially insulated from the Harris-Newsom donor split. This is her structural advantage — she cannot be starved of funding by establishment gatekeepers.
+> AOC's fundraising model: Small-dollar online fundraising (~$10M+ in 2028 campaign cycle) operates entirely outside the Bloomberg/Soros/entertainment-donor apparatus. Her insurgency is financially insulated from the Harris-Newsom donor split. This is her structural advantage, she cannot be starved of funding by establishment gatekeepers.
 
 The fracture does not create space for [[_Bernie Sanders Master Profile|Bernie Sanders]] (anti-donor model limits his fundraising ceiling to ~$250M) or [[_Gretchen Whitmer Master Profile|Gretchen Whitmer]] (lacks megadonor cultivation). It creates space for Shapiro specifically because he occupies the ideological center with the added benefit of being a "new face" without the Harris/Newsom baggage.
 

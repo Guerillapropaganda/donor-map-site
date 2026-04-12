@@ -43,11 +43,11 @@ Harris's 2024 presidential campaign was the most expensive losing campaign in Am
 #### Tier 1, $50M+ Donors
 
 > [!money] The Three Gates
-> **[[George Soros|George Soros]]** (via Fund for Policy Reform): **$60 million** routed to Future Forward and pro-Harris super PACs. Soros's nonprofit vehicle adds a layer of opacity — the money flows through a 501(c)(4) that doesn't fully disclose its donors.
+> **[[George Soros|George Soros]]** (via Fund for Policy Reform): **$60 million** routed to Future Forward and pro-Harris super PACs. Soros's nonprofit vehicle adds a layer of opacity, the money flows through a 501(c)(4) that doesn't fully disclose its donors.
 >
-> **[[Michael Bloomberg|Michael Bloomberg]]:** **$50 million+** direct personal donation. Second-largest individual donor. See [[Michael Bloomberg]] — the same donor who spent $936M on his own 2020 presidential campaign and $115M on Democratic causes in 2024. Bloomberg's giving pattern: gun control and climate (doesn't threaten wealth), not unions or redistribution.
+> **[[Michael Bloomberg|Michael Bloomberg]]:** **$50 million+** direct personal donation. Second-largest individual donor. See [[Michael Bloomberg]], the same donor who spent $936M on his own 2020 presidential campaign and $115M on Democratic causes in 2024. Bloomberg's giving pattern: gun control and climate (doesn't threaten wealth), not unions or redistribution.
 >
-> **Bill Gates:** **$50 million** to Future Forward. Kept anonymous through a nonprofit vehicle. Gates had no public involvement in the campaign — the money was infrastructure, not advocacy.
+> **Bill Gates:** **$50 million** to Future Forward. Kept anonymous through a nonprofit vehicle. Gates had no public involvement in the campaign, the money was infrastructure, not advocacy.
 
 #### Tier 2, $10M+ Donors
 
@@ -82,9 +82,9 @@ Harris's 2024 presidential campaign was the most expensive losing campaign in Am
 ### Future Forward. The Dark Money Architecture
 
 > [!money] The Largest Super PAC in History
-> **Future Forward USA PAC** raised $700 million+ and spent **$517.1 million** — the single largest super PAC expenditure in any election cycle ever.
+> **Future Forward USA PAC** raised $700 million+ and spent **$517.1 million**, the single largest super PAC expenditure in any election cycle ever.
 >
-> **[[Future Forward USA Action|Future Forward USA Action]]** — the affiliated 501(c)(4) nonprofit — distributed **$136 million+** to the super PAC. This is the dark money layer: 501(c)(4)s are not required to disclose donors. The money flows: billionaire donor → nonprofit (no disclosure) → super PAC (disclosed as "[[Future Forward USA Action|Future Forward USA Action]]") → campaign spending.
+> **[[Future Forward USA Action|Future Forward USA Action]]**, the affiliated 501(c)(4) nonprofit, distributed **$136 million+** to the super PAC. This is the dark money layer: 501(c)(4)s are not required to disclose donors. The money flows: billionaire donor → nonprofit (no disclosure) → super PAC (disclosed as "[[Future Forward USA Action|Future Forward USA Action]]") → campaign spending.
 >
 > **Top known donors to Future Forward:**
 > - Future Forward USA Action (nonprofit): $136M+
@@ -96,14 +96,14 @@ Harris's 2024 presidential campaign was the most expensive losing campaign in Am
 > - Pacific Environmental Coalition: $3M
 > - Reed Hastings: $1M
 >
-> None of the nonprofit's original donors are required to be disclosed. Future Forward operated as the donor class's primary spending vehicle — more money than any PAC in history, with built-in opacity.
+> None of the nonprofit's original donors are required to be disclosed. Future Forward operated as the donor class's primary spending vehicle, more money than any PAC in history, with built-in opacity.
 
 ---
 
 ### The Bundler Black Box
 
 > [!contradiction] Breaking the Disclosure Norm
-> Harris became **the first Democratic presidential nominee in modern history not to disclose bundler names** — breaking a Democratic tradition maintained since 2000 (Gore, Kerry, Obama, Clinton, Biden all disclosed).
+> Harris became **the first Democratic presidential nominee in modern history not to disclose bundler names**, breaking a Democratic tradition maintained since 2000 (Gore, Kerry, Obama, Clinton, Biden all disclosed).
 >
 > **What we know:**
 > - Harris Victory Fund set a "Presidential Partner" tier for bundlers raising $2.5 million+
@@ -111,7 +111,7 @@ Harris's 2024 presidential campaign was the most expensive losing campaign in Am
 > - Bundler tiers: $100K, $250K, $2.5M+
 > - Key named bundlers/fundraisers: Katzenberg, Wasserman, Ellison, [[Laurene Powell Jobs|Laurene Powell Jobs]]
 >
-> **Why this matters for the vault:** Bundlers are the mechanism through which donor-class power operates. They don't just give — they aggregate. A bundler collecting 100 donations of $3,300 delivers $330,000 in political access that individual donors cannot. Bundler networks are the connective tissue between capital and candidates. Harris's refusal to name them is analytically significant — it's the donor class operating with less transparency than any Democratic nominee in 24 years.
+> **Why this matters for the vault:** Bundlers are the mechanism through which donor-class power operates. They don't just give, they aggregate. A bundler collecting 100 donations of $3,300 delivers $330,000 in political access that individual donors cannot. Bundler networks are the connective tissue between capital and candidates. Harris's refusal to name them is analytically significant, it's the donor class operating with less transparency than any Democratic nominee in 24 years.
 
 ---
 

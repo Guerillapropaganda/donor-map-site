@@ -53,7 +53,7 @@ Youngkin joined Carlyle in August 1995 as a member of the US buyout team. He spe
 His tenure at co-CEO coincided with some mixed investment performance. Bloomberg reported in August 2021 that Youngkin had overseen "troubled forays into hedge funds and energy investments" and infrastructure projects that had "dogged him." The Virginia Democrats used the Bloomberg reporting to argue Youngkin had "flamed out" as CEO. The framing is contested. Youngkin's defenders note Carlyle's overall performance during his tenure, but the reporting established that his co-CEO record was not uniformly successful.
 
 > [!money]
-> The net worth numbers tell the story that executive performance metrics obscure. Whether Youngkin's specific investment decisions outperformed or underperformed, his ~2% stake in a $369B+ AUM firm was worth approximately $370M at exit. Private equity co-CEOs generate wealth through the fee structure and carry interest of the firm, not solely through investment returns. Youngkin's $400-470M net worth reflects 25 years of accumulating carry interest in Carlyle's funds — profits extracted from portfolio companies across dozens of industries.
+> The net worth numbers tell the story that executive performance metrics obscure. Whether Youngkin's specific investment decisions outperformed or underperformed, his ~2% stake in a $369B+ AUM firm was worth approximately $370M at exit. Private equity co-CEOs generate wealth through the fee structure and carry interest of the firm, not solely through investment returns. Youngkin's $400-470M net worth reflects 25 years of accumulating carry interest in Carlyle's funds, profits extracted from portfolio companies across dozens of industries.
 
 ---
 
@@ -74,7 +74,7 @@ Carlyle has significant energy infrastructure investments. Virginia's energy pol
 Carlyle's Accelerate Learning acquisition positions the firm in the K-12 education technology market. Youngkin's education reform agenda, expanding school choice, restructuring public school curricula, creating new assessment frameworks, shapes the market conditions for education technology vendors.
 
 > [!contradiction]
-> The standard framework for managing conflicts of interest in government requires divestiture or recusal: the official either sells the conflicting asset or steps aside from relevant decisions. Youngkin disclosed his Carlyle stake (6.7 million shares) in Virginia financial disclosure filings. But disclosure is not divestiture. Owning 6.7 million shares of Carlyle while making regulatory decisions affecting Carlyle's portfolio companies means the asset and the authority coexist — managed by disclosure rather than eliminated by divestiture.
+> The standard framework for managing conflicts of interest in government requires divestiture or recusal: the official either sells the conflicting asset or steps aside from relevant decisions. Youngkin disclosed his Carlyle stake (6.7 million shares) in Virginia financial disclosure filings. But disclosure is not divestiture. Owning 6.7 million shares of Carlyle while making regulatory decisions affecting Carlyle's portfolio companies means the asset and the authority coexist, managed by disclosure rather than eliminated by divestiture.
 
 ---
 

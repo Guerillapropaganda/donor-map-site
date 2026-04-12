@@ -102,7 +102,7 @@ BPC's funding model mixes corporate sponsorship, foundations, and individual don
 | Geisha Williams | Director (until 6/2024) | Former CEO, PG&E Corporation |
 
 > [!money]
-> BPC's funding model creates a structural incentive to produce "bipartisan" research that corporate funders find useful. When Google funds an AI project for legislators, the research frames AI policy as a bipartisan opportunity rather than a corporate regulation question. When Nvidia funds a data center report, the output predictably supports data center expansion. The "bipartisan" brand is the product — it transforms corporate policy preferences into something that looks like consensus rather than lobbying. The Harvard ethics finding that BPC "advanced the interests of its funders" is the academic confirmation of what the funding structure makes obvious.
+> BPC's funding model creates a structural incentive to produce "bipartisan" research that corporate funders find useful. When Google funds an AI project for legislators, the research frames AI policy as a bipartisan opportunity rather than a corporate regulation question. When Nvidia funds a data center report, the output predictably supports data center expansion. The "bipartisan" brand is the product, it transforms corporate policy preferences into something that looks like consensus rather than lobbying. The Harvard ethics finding that BPC "advanced the interests of its funders" is the academic confirmation of what the funding structure makes obvious.
 
 ---
 
@@ -151,7 +151,7 @@ BPC's policy pipeline operates through the "bipartisan commission" model: assemb
 | FY2024 | Housing/real estate interests → Terwilliger Center | Ongoing | Housing policy shaped by former Trump HUD deputy secretary, named after industry figure | Ongoing |
 
 > [!money]
-> BPC's 2021 revenue spike to $44.9 million — nearly double normal — coincides with the post-pandemic, pre-Build Back Better legislative window when corporate interests needed bipartisan vehicles to shape infrastructure, health, and energy legislation. When the legislative stakes are highest, BPC's revenue rises because its "bipartisan consensus" product becomes most valuable to funders seeking policy influence that doesn't look like lobbying.
+> BPC's 2021 revenue spike to $44.9 million, nearly double normal, coincides with the post-pandemic, pre-Build Back Better legislative window when corporate interests needed bipartisan vehicles to shape infrastructure, health, and energy legislation. When the legislative stakes are highest, BPC's revenue rises because its "bipartisan consensus" product becomes most valuable to funders seeking policy influence that doesn't look like lobbying.
 
 ---
 
@@ -178,7 +178,7 @@ BPC's revolving door is its core design feature. The institution exists as a cre
 **The pattern:** BPC collects former Cabinet secretaries, senators, and senior officials from both parties. The "bipartisan" credential is manufactured by having a Democrat and a Republican co-chair every commission. The revolving door operates in every direction: government officials land at BPC after service, BPC alumni move into new administrations, and (as the Grumet → American Clean Power case shows) BPC leaders rotate into industry positions. The notable feature is the two-HUD-secretaries-plus-a-deputy pattern: Cisneros (Clinton), Castro (Obama), Shea (Trump), Patenaude (Trump) all flowing into BPC's housing program, ensuring that housing policy is shaped by former officials from the agency that regulates housing.
 
 > [!contradiction]
-> BPC's "bipartisan" branding suggests it transcends political conflict to find common ground. But the revolving door reveals who gets to define "common ground": former officials whose careers were spent in the bipartisan establishment. The boundaries of acceptable policy are set by the same people who governed within those boundaries. "Bipartisan consensus" at BPC means consensus among former officials of both parties — not consensus between the political establishment and the public. The housing program is the purest example: three HUD secretaries and a deputy secretary from both parties agree that housing policy should favor the same real estate and homebuilder interests that funded them all.
+> BPC's "bipartisan" branding suggests it transcends political conflict to find common ground. But the revolving door reveals who gets to define "common ground": former officials whose careers were spent in the bipartisan establishment. The boundaries of acceptable policy are set by the same people who governed within those boundaries. "Bipartisan consensus" at BPC means consensus among former officials of both parties, not consensus between the political establishment and the public. The housing program is the purest example: three HUD secretaries and a deputy secretary from both parties agree that housing policy should favor the same real estate and homebuilder interests that funded them all.
 
 ---
 
@@ -224,7 +224,7 @@ The Bipartisan Policy Center is the most structurally revealing think tank in th
 **4. The revolving door as design, not flaw.** Unlike most think tanks where the revolving door is a side effect, at BPC it's the business model. Former officials create BPC's credibility, BPC creates the "bipartisan consensus" product, the consensus product is sold (through research, events, congressional briefings) to corporate funders, and the cycle continues. The Harvard ethics finding, that BPC "advanced the interests of its funders", is not a bug. It's what the funders pay for: their interests repackaged as bipartisan agreement.
 
 > [!money]
-> BPC spent $3.3 million on executive compensation in FY2024 — 9.3% of total expenses — to maintain a stable of former officials whose primary value is their titles. The organization's $37.8 million budget buys something no amount of lobbying can: the appearance that corporate policy preferences represent the consensus view of America's most experienced political leaders. This is idea laundering at its most efficient: corporate money in, "bipartisan consensus" out, and the former officials get paid for the name rental. The Harvard ethics report said the quiet part aloud in 2013, and nothing changed — because the business model works exactly as designed.
+> BPC spent $3.3 million on executive compensation in FY2024, 9.3% of total expenses, to maintain a stable of former officials whose primary value is their titles. The organization's $37.8 million budget buys something no amount of lobbying can: the appearance that corporate policy preferences represent the consensus view of America's most experienced political leaders. This is idea laundering at its most efficient: corporate money in, "bipartisan consensus" out, and the former officials get paid for the name rental. The Harvard ethics report said the quiet part aloud in 2013, and nothing changed, because the business model works exactly as designed.
 
 ---
 

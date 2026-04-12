@@ -24,9 +24,9 @@ The donors paid millions. They got back billions. Everything else is detail.
 
 ### The Numbers
 
-> [!money] Follow the Money — The $1.5 Trillion Receipt
+> [!money] Follow the Money. The $1.5 Trillion Receipt
 > **Corporate tax rate:** 35% → 21% (permanent)
-> **Top individual rate:** 39.6% → 37% (temporary — expires 2025)
+> **Top individual rate:** 39.6% → 37% (temporary, expires 2025)
 > **Pass-through deduction:** 20% deduction for pass-through business income (benefits real estate, hedge funds, private equity)
 > **Estate tax:** Doubled the exemption to $11.2M per individual ($22.4M per couple)
 > **Revenue cost:** $1.5 trillion over 10 years (Joint Committee on Taxation)
@@ -91,7 +91,7 @@ The 2025 extension debate is the next chapter. The same donor networks that fund
 ### Class Analysis. The Clearest Transaction
 
 > [!contradiction] The Populist Tax Cut
-> Trump sold the TCJA as a middle-class tax cut at rallies. The bill's internal architecture was designed by and for the donor class — the corporate rate cut (permanent), the pass-through deduction (benefits real estate and finance), the estate tax doubling (benefits inherited wealth), and the international provisions (benefits multinational profit-shifting). The middle-class provisions were the packaging. The corporate provisions were the product.
+> Trump sold the TCJA as a middle-class tax cut at rallies. The bill's internal architecture was designed by and for the donor class, the corporate rate cut (permanent), the pass-through deduction (benefits real estate and finance), the estate tax doubling (benefits inherited wealth), and the international provisions (benefits multinational profit-shifting). The middle-class provisions were the packaging. The corporate provisions were the product.
 >
 > The proof is in the expiration dates: if the middle class were the priority, their cuts would be permanent and the corporate cuts would expire. The opposite is true. The donor class got permanence. The working class got a countdown clock.
 
@@ -164,6 +164,6 @@ The temporary individual provisions (set to expire 2025, then extended to 2028 u
 **The Medicare trigger:** OBBBA's deficit increase triggered **automatic Medicare cuts of $45 billion in 2026**, growing to $76 billion/year by 2034, **$536 billion over 2026–2034**.
 
 > [!contradiction] The Permanent-Temporary Architecture, Part II
-> The TCJA countdown clock ran out and the donor class won: everything permanent is now made more permanent. The "middle-class benefits" — tips deduction, overtime deduction — expire in 2028, exactly when Trump's term ends. The corporate rate, pass-through deduction, and estate tax relief: permanent. Workers get expiring benefits. Donors get permanent ones.
+> The TCJA countdown clock ran out and the donor class won: everything permanent is now made more permanent. The "middle-class benefits", tips deduction, overtime deduction, expire in 2028, exactly when Trump's term ends. The corporate rate, pass-through deduction, and estate tax relief: permanent. Workers get expiring benefits. Donors get permanent ones.
 >
 > The funding mechanism: Medicaid and Medicare cuts. The working class is paying for the donor class's tax permanence through healthcare program reductions. The $536B in Medicare cuts over 10 years exceeds the $193,380 average tax cut the top 0.1% received under TCJA annually.

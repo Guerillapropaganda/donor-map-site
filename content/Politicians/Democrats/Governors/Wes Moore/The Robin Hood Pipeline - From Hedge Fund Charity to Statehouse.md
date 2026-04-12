@@ -16,7 +16,7 @@ donors: Paul Tudor Jones, [[George Soros]], Glenn Dubin, Stanley Druckenmiller
 ### The Robin Hood Pipeline. From Hedge Fund Charity to Statehouse
 
 > [!money]
-> The Robin Hood Foundation — founded by hedge fund billionaire Paul Tudor Jones in 1988 — placed [[_Wes Moore Master Profile|Wes Moore]] as CEO in 2017. During his four-year tenure, Moore raised $650 million from a board where 12 of 19 leadership positions were held by hedge fund managers (Paul Tudor Jones, Glenn Dubin, [[George Soros|George Soros]], Stanley Druckenmiller, [[Goldman Sachs|Goldman Sachs]] CEO, JPMorgan Chase CEO). The foundation invested its assets in hedge funds managed by board members, paying $14 million in fees to affiliated funds. Moore leveraged this network to build the political brand, fundraising infrastructure, and donor relationships that produced his 2022 gubernatorial campaign. The anti-poverty charity functioned as a pre-campaign organization — funded by, governed by, and ultimately serving the political interests of the hedge fund donor class.
+> The Robin Hood Foundation, founded by hedge fund billionaire Paul Tudor Jones in 1988, placed [[_Wes Moore Master Profile|Wes Moore]] as CEO in 2017. During his four-year tenure, Moore raised $650 million from a board where 12 of 19 leadership positions were held by hedge fund managers (Paul Tudor Jones, Glenn Dubin, [[George Soros|George Soros]], Stanley Druckenmiller, [[Goldman Sachs|Goldman Sachs]] CEO, JPMorgan Chase CEO). The foundation invested its assets in hedge funds managed by board members, paying $14 million in fees to affiliated funds. Moore leveraged this network to build the political brand, fundraising infrastructure, and donor relationships that produced his 2022 gubernatorial campaign. The anti-poverty charity functioned as a pre-campaign organization, funded by, governed by, and ultimately serving the political interests of the hedge fund donor class.
 
 ---
 
@@ -51,7 +51,7 @@ Robin Hood invested its charitable assets in hedge funds managed by its own boar
 | Governor's race | 2022 | $16M+ raised, $2.3M from out-of-state (NYC-concentrated) |
 
 > [!money]
-> Moore's 2022 campaign raised $16M+ — a Maryland record at the time. $2.3M came from out of state, concentrated in New York City. The geographic concentration maps directly to the Robin Hood Foundation's board and donor network: hedge fund managers and Wall Street executives who live in Manhattan, donated to Robin Hood, and then donated to Moore's campaign. The charity didn't just fight poverty. It built a political candidate. The $650M in charitable fundraising was also $650M in donor cultivation.
+> Moore's 2022 campaign raised $16M+, a Maryland record at the time. $2.3M came from out of state, concentrated in New York City. The geographic concentration maps directly to the Robin Hood Foundation's board and donor network: hedge fund managers and Wall Street executives who live in Manhattan, donated to Robin Hood, and then donated to Moore's campaign. The charity didn't just fight poverty. It built a political candidate. The $650M in charitable fundraising was also $650M in donor cultivation.
 
 ---
 

@@ -39,7 +39,7 @@ Scarborough has no significant independent media platform, no Substack, no major
 No FEC individual contributions found. The FEC API returns 0 results for both "SCARBOROUGH, JOE" and "SCARBOROUGH, JOSEPH." Despite earning ~$8M/year and being a former Republican congressman with direct political fundraising experience, Scarborough has made zero federal campaign contributions as a media figure.
 
 > [!money]
-> A former four-term congressman who once raised millions in campaign funds now earns $8M/year telling 1 million viewers daily who to support — and gives $0 personally. The influence flows entirely through the platform, never through personal contributions. This is the purest case in the vault of political-class-to-media-class conversion: Scarborough traded the power to vote on legislation for the power to shape who gets elected, and the corporate salary is vastly more lucrative than a congressional one ever was.
+> A former four-term congressman who once raised millions in campaign funds now earns $8M/year telling 1 million viewers daily who to support, and gives $0 personally. The influence flows entirely through the platform, never through personal contributions. This is the purest case in the vault of political-class-to-media-class conversion: Scarborough traded the power to vote on legislation for the power to shape who gets elected, and the corporate salary is vastly more lucrative than a congressional one ever was.
 
 - [FEC: Joe Scarborough individual contributions (0 results)](https://www.fec.gov/data/receipts/?contributor_name=SCARBOROUGH%2C+JOE) (Tier 1)
 - [FEC: Joseph Scarborough individual contributions (0 results)](https://www.fec.gov/data/receipts/?contributor_name=SCARBOROUGH%2C+JOSEPH) (Tier 1)
@@ -88,7 +88,7 @@ The Trump relationship demonstrates the capture mechanism perfectly: Scarborough
 | Mar 2026 | Contract renewed through 2029 | Scarborough, Brzezinski, MS NOW | ~$8M/yr | Locked in through Versant era, institutional dependency confirmed |
 
 > [!money]
-> The timeline maps a complete political-class-to-media-class conversion. Scarborough traded a congressional salary (~$174K) for a media salary (~$8M) — a 46x increase — by performing the same function (shaping political outcomes) through a different mechanism (audience influence vs. legislative votes). The 2029 contract renewal means he will have been in cable news longer (2003-2029: 26 years) than he was in any other career, including politics. The institution owns the man.
+> The timeline maps a complete political-class-to-media-class conversion. Scarborough traded a congressional salary (~$174K) for a media salary (~$8M), a 46x increase, by performing the same function (shaping political outcomes) through a different mechanism (audience influence vs. legislative votes). The 2029 contract renewal means he will have been in cable news longer (2003-2029: 26 years) than he was in any other career, including politics. The institution owns the man.
 
 ### Class Analysis
 
@@ -99,7 +99,7 @@ The class function is **establishment validation**. Morning Joe exists to make c
 The Biden relationship reveals the structural function most clearly: the President of the United States was calling a cable news host to get advice on messaging and governance. This isn't journalism, it's a governance feedback loop where media and political power merge. The donor class that funds both Democratic campaigns and MS NOW advertising gets a morning show that shapes Democratic governance from the inside.
 
 > [!contradiction]
-> Scarborough built his career on the Contract with America's anti-government platform, then spent 20 years as the face of a show that functions as an extension of the Democratic governing establishment. The "independent" label is technically accurate — he left the GOP in 2017 — but the funding model ($8M/yr from a single corporate parent) makes his "independence" a function of corporate employment, not editorial autonomy. The March 2026 contract renewal through 2029 means Scarborough will be institutionally dependent on one employer for longer than many Americans have careers.
+> Scarborough built his career on the Contract with America's anti-government platform, then spent 20 years as the face of a show that functions as an extension of the Democratic governing establishment. The "independent" label is technically accurate, he left the GOP in 2017, but the funding model ($8M/yr from a single corporate parent) makes his "independence" a function of corporate employment, not editorial autonomy. The March 2026 contract renewal through 2029 means Scarborough will be institutionally dependent on one employer for longer than many Americans have careers.
 
 ### Capture Architecture
 

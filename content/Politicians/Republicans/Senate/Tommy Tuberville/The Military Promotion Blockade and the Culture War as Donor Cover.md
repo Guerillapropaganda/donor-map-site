@@ -44,7 +44,7 @@ For 10 months, the United States operated major combatant commands without Senat
 | Space Command | ~10 months | Military satellite and GPS systems |
 
 > [!money]
-> A weakened, leaderless Pentagon command structure benefits specific interests: adversary states (China, Russia) whose strategic calculations depend on accurate assessments of U.S. readiness; and the private defense contractors who position themselves as the reliable constant when government bureaucracy is dysfunctional. Tuberville degraded the government capacity that contractors are always ready to supplement — at cost.
+> A weakened, leaderless Pentagon command structure benefits specific interests: adversary states (China, Russia) whose strategic calculations depend on accurate assessments of U.S. readiness; and the private defense contractors who position themselves as the reliable constant when government bureaucracy is dysfunctional. Tuberville degraded the government capacity that contractors are always ready to supplement, at cost.
 
 ---
 
@@ -57,7 +57,7 @@ Six of the world's largest defense contractors. BAE Systems, Kratos Defense & Se
 The pattern: Tuberville holds military promotions → Pentagon capacity is degraded → defense contractors benefit from any environment that creates pressure for more private-sector military support → contractors donate to Tuberville → Tuberville maintains his Armed Services Committee seat.
 
 > [!contradiction]
-> If the blockade were genuinely about abortion policy, the most logical tactic would be to propose legislation, attach an amendment, or use the Judiciary Committee to address the underlying policy. Instead, Tuberville used the one lever uniquely available to Armed Services Committee members: the confirmation pipeline for senior military officers. The abortion framing was the available culture war cover. The tool he chose was the one his committee assignment gave him. The people who donated during the blockade were not evangelical churches — they were weapons manufacturers.
+> If the blockade were genuinely about abortion policy, the most logical tactic would be to propose legislation, attach an amendment, or use the Judiciary Committee to address the underlying policy. Instead, Tuberville used the one lever uniquely available to Armed Services Committee members: the confirmation pipeline for senior military officers. The abortion framing was the available culture war cover. The tool he chose was the one his committee assignment gave him. The people who donated during the blockade were not evangelical churches, they were weapons manufacturers.
 
 ---
 

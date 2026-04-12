@@ -16,7 +16,7 @@ donors: [[Koch Network - Charles Koch]], [[Leonard Leo]]
 ### Citizens United and the Architecture of Unlimited Political Money
 
 > [!money]
-> On January 21, 2010, the Supreme Court ruled 5-4 in Citizens United v. FEC that the First Amendment prohibits the government from restricting independent political expenditures by corporations, labor unions, and other associations. [[_John Roberts Master Profile|John Roberts]] joined the majority. The ruling didn't just change campaign finance law — it created the infrastructure for the donor class to purchase American democracy. Since the ruling: $4.3 billion+ in dark money has flowed into federal elections through undisclosed channels. Dark money spending hit $1.9 billion in the 2024 cycle alone — a record. The decision was premised on transparency that never materialized: approximately $3 of every $10 in outside spending now comes from undisclosed donors.
+> On January 21, 2010, the Supreme Court ruled 5-4 in Citizens United v. FEC that the First Amendment prohibits the government from restricting independent political expenditures by corporations, labor unions, and other associations. [[_John Roberts Master Profile|John Roberts]] joined the majority. The ruling didn't just change campaign finance law, it created the infrastructure for the donor class to purchase American democracy. Since the ruling: $4.3 billion+ in dark money has flowed into federal elections through undisclosed channels. Dark money spending hit $1.9 billion in the 2024 cycle alone, a record. The decision was premised on transparency that never materialized: approximately $3 of every $10 in outside spending now comes from undisclosed donors.
 
 ---
 
@@ -49,7 +49,7 @@ The ruling created a new class of political entity, the super PAC, which can rai
 ### Who Benefits
 
 > [!money]
-> Citizens United is the donor class's foundational ruling. It enables the system that funds everything else: the Judicial Crisis Network's $10M Gorsuch confirmation campaign, [[Leonard Leo|Leonard Leo]]'s $250M+ dark money network, the Koch brothers' political infrastructure, and the anonymous donors who fund voter suppression efforts after Shelby County. Without Citizens United, the dark money architecture that controls American politics could not exist at its current scale. The ruling didn't create money in politics — it removed the guardrails that limited how much money could flow and how invisible it could be.
+> Citizens United is the donor class's foundational ruling. It enables the system that funds everything else: the Judicial Crisis Network's $10M Gorsuch confirmation campaign, [[Leonard Leo|Leonard Leo]]'s $250M+ dark money network, the Koch brothers' political infrastructure, and the anonymous donors who fund voter suppression efforts after Shelby County. Without Citizens United, the dark money architecture that controls American politics could not exist at its current scale. The ruling didn't create money in politics, it removed the guardrails that limited how much money could flow and how invisible it could be.
 
 The primary beneficiaries are wealthy individuals and corporations who can now spend unlimited amounts on elections without public disclosure. The 2024 cycle demonstrated the endpoint: $1.3 billion flowed from shell companies and 501(c) nonprofits to super PACs, more than the prior two cycles combined. The donor class can now purchase electoral outcomes while remaining anonymous.
 
@@ -62,7 +62,7 @@ The Citizens United majority opinion assumed transparency would prevent corrupti
 Approximately 30% of all outside spending comes from undisclosed donors. 501(c)(4) organizations are not required to disclose donors to the FEC. Shell companies and LLCs can donate to super PACs, hiding the ultimate source of funds. Congress has repeatedly failed to pass the DISCLOSE Act, which would have required disclosure of large political donations. The transparency premise that justified the ruling has never been realized, and the Court has done nothing to address this failure.
 
 > [!contradiction]
-> The Citizens United majority relied on transparency to justify unlimited spending — then the conservative majority, including Roberts, has done nothing as that transparency failed to materialize. Roberts authored Shelby County (2013) gutting voting rights oversight and Loper Bright (2024) gutting regulatory deference, but has never authored or joined an opinion requiring the campaign finance transparency that Citizens United's logic depends on. The transparency was never the point. The unlimited spending was.
+> The Citizens United majority relied on transparency to justify unlimited spending, then the conservative majority, including Roberts, has done nothing as that transparency failed to materialize. Roberts authored Shelby County (2013) gutting voting rights oversight and Loper Bright (2024) gutting regulatory deference, but has never authored or joined an opinion requiring the campaign finance transparency that Citizens United's logic depends on. The transparency was never the point. The unlimited spending was.
 
 ---
 

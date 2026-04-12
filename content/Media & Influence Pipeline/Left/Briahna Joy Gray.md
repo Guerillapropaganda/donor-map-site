@@ -43,7 +43,7 @@ Gray's career arc traces a movement from corporate law → progressive journalis
 **Phase 5. Independent Media (2024-present):** Bad Faith podcast. Revenue from Patreon subscribers + YouTube ads + podcast sponsorships. Specific revenue figures not publicly disclosed.
 
 > [!money]
-> Gray's career funding arc is the inverse of most media profiles in this vault. She moved FROM corporate money TOWARD independence — from BigLaw salary → Omidyar-funded outlet → small-dollar campaign → Nexstar corporate show → independent podcast. The Rising firing was the structural break: corporate media could tolerate progressive economics but not progressive foreign policy on Israel/Palestine. The firing revealed the editorial red line.
+> Gray's career funding arc is the inverse of most media profiles in this vault. She moved FROM corporate money TOWARD independence, from BigLaw salary → Omidyar-funded outlet → small-dollar campaign → Nexstar corporate show → independent podcast. The Rising firing was the structural break: corporate media could tolerate progressive economics but not progressive foreign policy on Israel/Palestine. The firing revealed the editorial red line.
 
 ### FEC Record
 
@@ -58,7 +58,7 @@ Gray's career arc traces a movement from corporate law → progressive journalis
 | 2016 | ActBlue | $65 | DEM | DPK Law |
 
 > [!money]
-> Total political giving under $500 across a decade of career shifts — corporate law to progressive journalism to campaign politics to corporate media to independent media. All via ActBlue small-dollar platform. Zero corporate PAC, zero bundling, zero mega-donor alignment. This is genuinely one of the smallest FEC footprints of any media figure in this vault. The pattern reflects Gray's trajectory: she moved FROM corporate money TOWARD independence. Her donations follow her career arc: corporate law employer gives way to campaign employment gives way to self-employment. The FEC record is the purest documentation of a media figure who never participated in the donor-class fundraising infrastructure.
+> Total political giving under $500 across a decade of career shifts, corporate law to progressive journalism to campaign politics to corporate media to independent media. All via ActBlue small-dollar platform. Zero corporate PAC, zero bundling, zero mega-donor alignment. This is genuinely one of the smallest FEC footprints of any media figure in this vault. The pattern reflects Gray's trajectory: she moved FROM corporate money TOWARD independence. Her donations follow her career arc: corporate law employer gives way to campaign employment gives way to self-employment. The FEC record is the purest documentation of a media figure who never participated in the donor-class fundraising infrastructure.
 
 - [FEC: Briahna Joy Gray individual contributions (22 results, $447)](https://www.fec.gov/data/receipts/?contributor_name=briahna+gray) (Tier 1)
 
@@ -77,7 +77,7 @@ Unlike right-wing and centrist media figures in this vault, Gray has no identifi
 **Patreon / Audience-Funded:** Bad Faith podcast is audience-funded via Patreon subscriptions and YouTube. This is the least captured funding model in media, but also the least resourced. No corporate safety net, no Spotify mega-deal, no foundation backing.
 
 > [!contradiction]
-> **The Rising Contradiction:** Gray's most visible platform (Rising, reaching millions) was funded by Nexstar Media Group — a company whose business model depends on the local TV advertising ecosystem that serves corporate interests. Gray delivered class analysis on a platform owned by a $4.7B media conglomerate whose CEO earned $23.5M. The firing over Israel/Palestine exposed the boundaries: corporate media tolerates progressive rhetoric on economics but not on foreign policy that threatens donor-class consensus.
+> **The Rising Contradiction:** Gray's most visible platform (Rising, reaching millions) was funded by Nexstar Media Group, a company whose business model depends on the local TV advertising ecosystem that serves corporate interests. Gray delivered class analysis on a platform owned by a $4.7B media conglomerate whose CEO earned $23.5M. The firing over Israel/Palestine exposed the boundaries: corporate media tolerates progressive rhetoric on economics but not on foreign policy that threatens donor-class consensus.
 
 ---
 
@@ -129,7 +129,7 @@ This break reveals a structural pattern:
 4. **Independence became the brand.** Bad Faith podcast, Rising co-hosting, and her current independent media career all flow from this originating break. The independence is real, but it was forced, not chosen.
 
 > [!money]
-> **The price of independence:** Gray's FEC record tells the story in dollar amounts. At The Intercept (2018): $54.70. During Sanders campaign (2019-2020): $75. Unemployed (late 2020): $52. Self-employed (2022): $200. The declining institutional affiliations mirror her increasing independence — and her decreasing access to institutional resources. Independence is cheap in both senses.
+> **The price of independence:** Gray's FEC record tells the story in dollar amounts. At The Intercept (2018): $54.70. During Sanders campaign (2019-2020): $75. Unemployed (late 2020): $52. Self-employed (2022): $200. The declining institutional affiliations mirror her increasing independence, and her decreasing access to institutional resources. Independence is cheap in both senses.
 
 ---
 
@@ -146,7 +146,7 @@ This break reveals a structural pattern:
 | 2024-present | Bad Faith podcast independent operation (575+ episodes) | Gray | FEC total: $447 (smallest in vault) | Independence trap: full editorial freedom at cost of reach; system contains rather than censors |
 
 > [!money]
-> Gray's timeline maps the structural containment of progressive media voices. Each institutional phase — Omidyar's Intercept, Sanders' campaign, Nexstar's Rising — offered reach at the cost of editorial boundaries. The firing over Israel/Palestine was the clearest demonstration: two years of aggressive progressive economic commentary triggered zero consequences, but one Israel/Palestine interview ended her corporate media career. The timeline reveals that the donor-class veto in media isn't about left vs. right economics — it's about foreign policy consensus, specifically the Israel lobby's editorial red line documented across this vault.
+> Gray's timeline maps the structural containment of progressive media voices. Each institutional phase. Omidyar's Intercept, Sanders' campaign, Nexstar's Rising, offered reach at the cost of editorial boundaries. The firing over Israel/Palestine was the clearest demonstration: two years of aggressive progressive economic commentary triggered zero consequences, but one Israel/Palestine interview ended her corporate media career. The timeline reveals that the donor-class veto in media isn't about left vs. right economics, it's about foreign policy consensus, specifically the Israel lobby's editorial red line documented across this vault.
 
 ---
 

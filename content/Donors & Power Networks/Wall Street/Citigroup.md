@@ -101,7 +101,7 @@ Bipartisan distribution weighted toward committee jurisdiction. Citigroup PAC pr
 **The Citigroup Provision (2014):** In a demonstration of raw lobbying power, Citigroup lobbyists literally wrote a provision inserted into the 2014 government spending bill that repealed a key Dodd-Frank restriction on derivatives trading. The provision. Section 630 of the Consolidated and Further Continuing Appropriations Act, was drafted by Citigroup's lobbying team with 70 of its 85 lines written by the bank. It allowed banks to keep swaps trading desks within FDIC-insured units, preserving taxpayer backstop for risky derivatives.
 
 > [!money]
-> Citigroup lobbyists wrote the legislative text that rolled back derivatives regulation — and Congress passed it. The provision preserved Citigroup's ability to trade derivatives with taxpayer-insured capital. This is not influence; it is authorship. The bank didn't lobby for the law. The bank wrote the law.
+> Citigroup lobbyists wrote the legislative text that rolled back derivatives regulation, and Congress passed it. The provision preserved Citigroup's ability to trade derivatives with taxpayer-insured capital. This is not influence; it is authorship. The bank didn't lobby for the law. The bank wrote the law.
 
 **Tax Cuts (2017):** Corporate rate reduction generated approximately $1.5 billion in annual tax savings for Citigroup.
 
@@ -154,17 +154,17 @@ Citigroup represents the purest form of Wall Street regulatory capture. The bank
 
 **Funded politicians:**
 
-- [[Chuck Schumer]] — lobbying: $11.6M
-- [[French Hill]] (Banking) — lobbying: $11.6M
-- [[Wes Moore]] — lobbying: $11.6M
-- [[Joe Biden]] — lobbying: $11.6M
+- [[Chuck Schumer]] - lobbying: $11.6M
+- [[French Hill]] (Banking) - lobbying: $11.6M
+- [[Wes Moore]] - lobbying: $11.6M
+- [[Joe Biden]] - lobbying: $11.6M
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-09.*
 <!-- auto:influence-cross-ref end -->
 
 <!-- auto:influence-cross-ref pending-merge 2026-04-12 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+> [!attention] Fresh API data available - needs manual merge
+> Bot detected your edits to this section. New data below - fold in what's useful, then delete this block.
 
 | Metric | Value |
 |--------|-------|
@@ -180,16 +180,16 @@ Citigroup represents the purest form of Wall Street regulatory capture. The bank
 
 **Funded politicians:**
 
-- [[Chuck Schumer]] (Senate Committee on Rules and Administration, Senate Select Committee on Intelligence) — lobbying: $11.6M
-- [[French Hill]] (Banking) — lobbying: $11.6M
-- [[Wes Moore]] — lobbying: $11.6M
-- [[Joe Biden]] — lobbying: $11.6M
+- [[Chuck Schumer]] (Senate Committee on Rules and Administration, Senate Select Committee on Intelligence) - lobbying: $11.6M
+- [[French Hill]] (Banking) - lobbying: $11.6M
+- [[Wes Moore]] - lobbying: $11.6M
+- [[Joe Biden]] - lobbying: $11.6M
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-12.*
 
 <!-- auto:influence-cross-ref pending-merge end -->
 
-### Financial Overview (990 Filing — 2023)
+### Financial Overview (990 Filing - 2023)
 <!-- auto:propublica-990 start -->
 | Metric | Amount |
 |--------|--------|
@@ -198,7 +198,7 @@ Citigroup represents the purest form of Wall Street regulatory capture. The bank
 | Total Expenses | $191K |
 | Net Assets | $2.7M |
 
-- [Source: ProPublica Nonprofit Explorer — EIN 806098935](https://projects.propublica.org/nonprofits/organizations/806098935) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer - EIN 806098935](https://projects.propublica.org/nonprofits/organizations/806098935) (Tier 1)
 - [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F806098935_202312_990PF_2025010222976934.pdf) (Tier 1)
 <!-- auto:propublica-990 end -->
 
@@ -328,11 +328,11 @@ Citigroup represents the purest form of Wall Street regulatory capture. The bank
 
 **Notable filings:**
 
-- 2026-04-08 — **424B2**: [PRELIMINARY PRICING SUPPLEMENT](https://www.sec.gov/Archives/edgar/data/831001/000191870426009619/0001918704-26-009619-index.htm)
-- 2026-04-08 — **424B2**: [PRELIMINARY PRICING SUPPLEMENT](https://www.sec.gov/Archives/edgar/data/831001/000191870426009617/0001918704-26-009617-index.htm)
-- 2026-04-08 — **424B2**: [PRELIMINARY PRICING SUPPLEMENT](https://www.sec.gov/Archives/edgar/data/831001/000191870426009616/0001918704-26-009616-index.htm)
-- 2026-04-08 — **424B2**: [PRICING SUPPLEMENT](https://www.sec.gov/Archives/edgar/data/831001/000095010326005518/0000950103-26-005518-index.htm)
-- 2026-04-08 — **424B2**: [PRICING SUPPLEMENT](https://www.sec.gov/Archives/edgar/data/831001/000095010326005507/0000950103-26-005507-index.htm)
+- 2026-04-08 - **424B2**: [PRELIMINARY PRICING SUPPLEMENT](https://www.sec.gov/Archives/edgar/data/831001/000191870426009619/0001918704-26-009619-index.htm)
+- 2026-04-08 - **424B2**: [PRELIMINARY PRICING SUPPLEMENT](https://www.sec.gov/Archives/edgar/data/831001/000191870426009617/0001918704-26-009617-index.htm)
+- 2026-04-08 - **424B2**: [PRELIMINARY PRICING SUPPLEMENT](https://www.sec.gov/Archives/edgar/data/831001/000191870426009616/0001918704-26-009616-index.htm)
+- 2026-04-08 - **424B2**: [PRICING SUPPLEMENT](https://www.sec.gov/Archives/edgar/data/831001/000095010326005518/0000950103-26-005518-index.htm)
+- 2026-04-08 - **424B2**: [PRICING SUPPLEMENT](https://www.sec.gov/Archives/edgar/data/831001/000095010326005507/0000950103-26-005507-index.htm)
 
 - [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Citigroup%22) (Tier 1)
 <!-- auto:sec-edgar end -->

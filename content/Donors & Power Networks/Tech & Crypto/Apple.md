@@ -137,7 +137,7 @@ Apple PAC distributes bipartisan contributions with slight Democratic lean, targ
 **Right-to-Repair Resistance:** Apple lobbied against right-to-repair legislation in 25+ states before strategically reversing course in 2022, offering a self-service repair program that provided parts at prices that made independent repair economically unviable, a "Genuine Win + Structural Limit" pattern.
 
 > [!money]
-> Apple saved approximately $47 billion through the TCJA repatriation provision while spending $7 million lobbying in 2017. The lobbying ROI exceeds 670,000%. Apple then spent the repatriated cash on stock buybacks rather than domestic investment — the stated purpose of the provision. Congress gave Apple a $47 billion discount; Apple gave the money to shareholders.
+> Apple saved approximately $47 billion through the TCJA repatriation provision while spending $7 million lobbying in 2017. The lobbying ROI exceeds 670,000%. Apple then spent the repatriated cash on stock buybacks rather than domestic investment, the stated purpose of the provision. Congress gave Apple a $47 billion discount; Apple gave the money to shareholders.
 
 ---
 
@@ -190,7 +190,7 @@ Apple occupies a unique position: a corporation that extracts value through cons
 - [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=Apple) (Tier 1)
 <!-- auto:lda-lobbying end -->
 
-### Financial Overview (990 Filing — 2023)
+### Financial Overview (990 Filing - 2023)
 <!-- auto:propublica-990 start -->
 | Metric | Amount |
 |--------|--------|
@@ -200,7 +200,7 @@ Apple occupies a unique position: a corporation that extracts value through cons
 | Total Expenses | $693 |
 | Net Assets | $61.9M |
 
-- [Source: ProPublica Nonprofit Explorer — EIN 870911755](https://projects.propublica.org/nonprofits/organizations/870911755) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer - EIN 870911755](https://projects.propublica.org/nonprofits/organizations/870911755) (Tier 1)
 <!-- auto:propublica-990 end -->
 
 ### Influence Network (Cross-Reference)
@@ -223,16 +223,16 @@ Apple occupies a unique position: a corporation that extracts value through cons
 
 **Funded politicians:**
 
-- [[Ro Khanna]] (Antitrust (Judiciary)) — lobbying: $29.2M
-- [[Barack Obama]] — lobbying: $29.2M
-- [[Amy Klobuchar]] (Antitrust (Judiciary), Judiciary, Agriculture) — lobbying: $29.2M
+- [[Ro Khanna]] (Antitrust (Judiciary)) - lobbying: $29.2M
+- [[Barack Obama]] - lobbying: $29.2M
+- [[Amy Klobuchar]] (Antitrust (Judiciary), Judiciary, Agriculture) - lobbying: $29.2M
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-09.*
 <!-- auto:influence-cross-ref end -->
 
 <!-- auto:influence-cross-ref pending-merge 2026-04-12 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+> [!attention] Fresh API data available - needs manual merge
+> Bot detected your edits to this section. New data below - fold in what's useful, then delete this block.
 
 | Metric | Value |
 |--------|-------|
@@ -250,8 +250,8 @@ Apple occupies a unique position: a corporation that extracts value through cons
 
 **Funded politicians:**
 
-- [[Barack Obama]] — lobbying: $29.2M
-- [[Amy Klobuchar]] (Antitrust (Judiciary), Judiciary, Agriculture) — lobbying: $29.2M
+- [[Barack Obama]] - lobbying: $29.2M
+- [[Amy Klobuchar]] (Antitrust (Judiciary), Judiciary, Agriculture) - lobbying: $29.2M
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-12.*
 
@@ -323,12 +323,12 @@ Apple occupies a unique position: a corporation that extracts value through cons
 | Case Types | 820 Copyright, 830 Patent |
 
 **Notable cases:**
-- Golden v. Apple, Inc. (2026) — District Court, W.D. Texas
-- CIPM, LLC (2026) — District Court, C.D. California
-- United States v. Black Apple iPhone Seizure No. 2026250400098301-0004 (Target Device 2) (2026) — District Court, S.D. California
-- United States v. Black Apple iPhone Seizure No. 2026250400098301-0003 (Target Device 1) (2026) — District Court, S.D. California
-- Poole v. Maxine Productions, LLC (2026) — District Court, S.D. New York
-- United States v. Application For Order Commanding Apple Inc. Not To Notify Any Person Of The Existence Of Subpoena (2026) — District Court, S.D. Florida
+- Golden v. Apple, Inc. (2026) - District Court, W.D. Texas
+- CIPM, LLC (2026) - District Court, C.D. California
+- United States v. Black Apple iPhone Seizure No. 2026250400098301-0004 (Target Device 2) (2026) - District Court, S.D. California
+- United States v. Black Apple iPhone Seizure No. 2026250400098301-0003 (Target Device 1) (2026) - District Court, S.D. California
+- Poole v. Maxine Productions, LLC (2026) - District Court, S.D. New York
+- United States v. Application For Order Commanding Apple Inc. Not To Notify Any Person Of The Existence Of Subpoena (2026) - District Court, S.D. Florida
 
 - [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Apple%22&type=r) (Tier 1)
 <!-- auto:courtlistener-cases end -->
@@ -344,12 +344,12 @@ Apple occupies a unique position: a corporation that extracts value through cons
 | Agencies | Agriculture Department, Animal and Plant Health Inspection Service, Antitrust Division, Commerce Department, Energy Department, Environmental Protection Agency, Federal Communications Commission, Federal Energy Regulatory Commission +7 more |
 
 **Recent regulatory activity:**
-- [Notice of Intended Repatriation: California State University, Fullerton, Fullerton, CA](https://www.federalregister.gov/documents/2026/04/02/2026-06356/notice-of-intended-repatriation-california-state-university-fullerton-fullerton-ca) (2026-04-02) — Interior Department
-- [Supplemental Guidance for Examination of Design Patent Applications Related to Computer-Generated Interfaces and Icons](https://www.federalregister.gov/documents/2026/03/13/2026-04987/supplemental-guidance-for-examination-of-design-patent-applications-related-to-computer-generated) (2026-03-13) — Commerce Department
-- [Agency Information Collection Activities; Notice and Request for Comment; Distraction: Personal Electronic Devices](https://www.federalregister.gov/documents/2026/03/06/2026-04440/agency-information-collection-activities-notice-and-request-for-comment-distraction-personal) (2026-03-06) — Transportation Department
-- [Unlicensed Use of the 6 GHz Band; Expanding Flexible Use in Mid-Band Spectrum Between 3.7 and 24 GHz](https://www.federalregister.gov/documents/2026/02/25/2026-03744/unlicensed-use-of-the-6-ghz-band-expanding-flexible-use-in-mid-band-spectrum-between-37-and-24-ghz) (2026-02-25) — Federal Communications Commission
-- [Marine Mammals; File No. 28985](https://www.federalregister.gov/documents/2026/02/23/2026-03474/marine-mammals-file-no-28985) (2026-02-23) — Commerce Department
-- [Pesticide Tolerances; Implementing Registration Review Decisions for Certain Pesticides; Diphenylamine, et al.](https://www.federalregister.gov/documents/2026/02/20/2026-03371/pesticide-tolerances-implementing-registration-review-decisions-for-certain-pesticides-diphenylamine) (2026-02-20) — Environmental Protection Agency
+- [Notice of Intended Repatriation: California State University, Fullerton, Fullerton, CA](https://www.federalregister.gov/documents/2026/04/02/2026-06356/notice-of-intended-repatriation-california-state-university-fullerton-fullerton-ca) (2026-04-02) - Interior Department
+- [Supplemental Guidance for Examination of Design Patent Applications Related to Computer-Generated Interfaces and Icons](https://www.federalregister.gov/documents/2026/03/13/2026-04987/supplemental-guidance-for-examination-of-design-patent-applications-related-to-computer-generated) (2026-03-13) - Commerce Department
+- [Agency Information Collection Activities; Notice and Request for Comment; Distraction: Personal Electronic Devices](https://www.federalregister.gov/documents/2026/03/06/2026-04440/agency-information-collection-activities-notice-and-request-for-comment-distraction-personal) (2026-03-06) - Transportation Department
+- [Unlicensed Use of the 6 GHz Band; Expanding Flexible Use in Mid-Band Spectrum Between 3.7 and 24 GHz](https://www.federalregister.gov/documents/2026/02/25/2026-03744/unlicensed-use-of-the-6-ghz-band-expanding-flexible-use-in-mid-band-spectrum-between-37-and-24-ghz) (2026-02-25) - Federal Communications Commission
+- [Marine Mammals; File No. 28985](https://www.federalregister.gov/documents/2026/02/23/2026-03474/marine-mammals-file-no-28985) (2026-02-23) - Commerce Department
+- [Pesticide Tolerances; Implementing Registration Review Decisions for Certain Pesticides; Diphenylamine, et al.](https://www.federalregister.gov/documents/2026/02/20/2026-03371/pesticide-tolerances-implementing-registration-review-decisions-for-certain-pesticides-diphenylamine) (2026-02-20) - Environmental Protection Agency
 - ... and 3,366 more
 
 - [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Apple%22) (Tier 1)
@@ -398,11 +398,11 @@ Apple occupies a unique position: a corporation that extracts value through cons
 
 **Notable filings:**
 
-- 2026-04-03 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/320193/000114036126013192/0001140361-26-013192-index.htm)
-- 2026-04-03 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/320193/000114036126013191/0001140361-26-013191-index.htm)
-- 2026-04-03 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/320193/000114036126013190/0001140361-26-013190-index.htm)
-- 2026-04-02 — **144**: [144](https://www.sec.gov/Archives/edgar/data/320193/000196922326000420/0001969223-26-000420-index.htm)
-- 2026-04-02 — **144**: [144](https://www.sec.gov/Archives/edgar/data/320193/000195917326002757/0001959173-26-002757-index.htm)
+- 2026-04-03 - **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/320193/000114036126013192/0001140361-26-013192-index.htm)
+- 2026-04-03 - **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/320193/000114036126013191/0001140361-26-013191-index.htm)
+- 2026-04-03 - **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/320193/000114036126013190/0001140361-26-013190-index.htm)
+- 2026-04-02 - **144**: [144](https://www.sec.gov/Archives/edgar/data/320193/000196922326000420/0001969223-26-000420-index.htm)
+- 2026-04-02 - **144**: [144](https://www.sec.gov/Archives/edgar/data/320193/000195917326002757/0001959173-26-002757-index.htm)
 
 - [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Apple%22) (Tier 1)
 <!-- auto:sec-edgar end -->

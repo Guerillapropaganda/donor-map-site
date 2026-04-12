@@ -21,13 +21,13 @@ The fossil fuel industry spent at least $219 million to elect the 2024 U.S. gove
 
 ### The Money In
 
-> [!money] Follow the Money — Fossil Fuel to Federal Policy
+> [!money] Follow the Money. Fossil Fuel to Federal Policy
 > **2024 election cycle:** $219M+ in total fossil fuel political spending (Yale Climate Connections)
 > **Trump inaugural fund:** [[Chevron|Chevron]] ($2M), [[ExxonMobil|ExxonMobil]] ($1M), Occidental Petroleum ($1M)
 > **Career pattern:** Oil and gas has been a top-5 donor sector for Trump across both presidential campaigns
 >
 > **Key individual donors with fossil fuel interests:**
-> - [[Timothy Mellon|Timothy Mellon]] ($125–197M to [[MAGA Inc|MAGA Inc]].) — inherited wealth, but family fortune includes industrial/energy holdings
+> - [[Timothy Mellon|Timothy Mellon]] ($125–197M to [[MAGA Inc|MAGA Inc]].), inherited wealth, but family fortune includes industrial/energy holdings
 > - [[Harold Hamm|Harold Hamm]] (Continental Resources): major Trump donor across both cycles, informal energy advisor
 > - [[Kelcy Warren|Kelcy Warren]] (Energy Transfer Partners): $1M to Abbott post-grid-failure, Trump donor through PAC network
 > - Koch network ($578M total 2024 spending): Koch Industries derives $140B in revenue substantially from fossil fuel operations (Flint Hills Resources refining, pipelines, petrochemicals)
@@ -83,7 +83,7 @@ The endangerment finding was upheld by the D.C. Circuit Court of Appeals in 2012
 > - Solar and wind energy employed more Americans than coal, oil, and gas extraction combined by 2023
 > - The IRA (Inflation Reduction Act) created an estimated 300,000+ clean energy jobs in its first two years
 > - Trump's executive orders targeted IRA clean energy tax credits for review/repeal
-> - The fossil fuel industry is capital-intensive, not labor-intensive — drilling creates fewer jobs per dollar invested than renewable installation
+> - The fossil fuel industry is capital-intensive, not labor-intensive, drilling creates fewer jobs per dollar invested than renewable installation
 >
 > The donors want deregulation because it increases their margins. The "jobs" framing is the political packaging. The actual employment numbers favor the clean energy transition the fossil fuel donors are paying to prevent.
 

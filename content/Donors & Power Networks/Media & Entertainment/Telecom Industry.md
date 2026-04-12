@@ -47,7 +47,7 @@ The Telecom Industry. The collective political operation of America's telecommun
 The industry's political priorities: spectrum allocation (the FCC auctions that determine wireless frequency access), net neutrality (opposing common carrier regulation), broadband subsidy access ($42B BEAD program), municipal broadband preemption (blocking cities from building their own networks), and merger approval (consolidation that reduces competition). The telecom industry's political operation is bipartisan by design. FCC commissioners are appointed by presidents of both parties, and the industry funds whoever controls the regulatory apparatus.
 
 > [!money]
-> The telecom industry's $100-150M annual political investment protects the most valuable government-granted asset in American business: spectrum licenses. The electromagnetic spectrum is public property; telecom companies lease it from the government through FCC auctions. Every dollar spent on lobbying, PAC contributions, and revolving-door hiring protects spectrum allocations worth hundreds of billions. The industry's net neutrality fight is similarly about protecting monopoly revenue: without common carrier regulation, telecom companies can charge content providers for priority access — a toll booth on the internet that generates billions in revenue from a public resource. The political investment doesn't just buy favorable regulation — it protects the government-granted monopoly structure that makes the industry's business model possible.
+> The telecom industry's $100-150M annual political investment protects the most valuable government-granted asset in American business: spectrum licenses. The electromagnetic spectrum is public property; telecom companies lease it from the government through FCC auctions. Every dollar spent on lobbying, PAC contributions, and revolving-door hiring protects spectrum allocations worth hundreds of billions. The industry's net neutrality fight is similarly about protecting monopoly revenue: without common carrier regulation, telecom companies can charge content providers for priority access, a toll booth on the internet that generates billions in revenue from a public resource. The political investment doesn't just buy favorable regulation, it protects the government-granted monopoly structure that makes the industry's business model possible.
 
 ---
 
@@ -80,12 +80,12 @@ The industry's political priorities: spectrum allocation (the FCC auctions that 
 | Case Types | 360 Torts/Pers Inj: Other Personal Injury, 410 Anti-Trust, 440 Civil Rights: Other, 830 Patent, 840 Trademark |
 
 **Notable cases:**
-- In Re: Nexstar-TEGNA Merger Litigation (2026) — District Court, E.D. California
-- Netwk Comm Intl v. FCC (2025) — Court of Appeals for the Fifth Circuit
-- USTelecom - The Broadband Association v. Reynolds (2025) — District Court, N.D. California
-- HEADWATER RESEARCH LLC v. Google LLC (2025) — District Court, W.D. Texas
-- Broadband Telecom, Inc. (2025) — United States Bankruptcy Court, E.D. New York
-- Lumen21, Inc. v. CenturyLink Communications, LLC (2025) — District Court, C.D. California
+- In Re: Nexstar-TEGNA Merger Litigation (2026) - District Court, E.D. California
+- Netwk Comm Intl v. FCC (2025) - Court of Appeals for the Fifth Circuit
+- USTelecom - The Broadband Association v. Reynolds (2025) - District Court, N.D. California
+- HEADWATER RESEARCH LLC v. Google LLC (2025) - District Court, W.D. Texas
+- Broadband Telecom, Inc. (2025) - United States Bankruptcy Court, E.D. New York
+- Lumen21, Inc. v. CenturyLink Communications, LLC (2025) - District Court, C.D. California
 
 - [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Telecom%20Industry%22&type=r) (Tier 1)
 <!-- auto:courtlistener-cases end -->
@@ -123,14 +123,14 @@ The industry's political priorities: spectrum allocation (the FCC auctions that 
 
 **Funded politicians:**
 
-- [[Mark Warner]] (Intelligence) — lobbying: $9.0M
+- [[Mark Warner]] (Intelligence) - lobbying: $9.0M
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-09.*
 <!-- auto:influence-cross-ref end -->
 
 <!-- auto:influence-cross-ref pending-merge 2026-04-12 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+> [!attention] Fresh API data available - needs manual merge
+> Bot detected your edits to this section. New data below - fold in what's useful, then delete this block.
 
 | Metric | Value |
 |--------|-------|
@@ -144,7 +144,7 @@ The industry's political priorities: spectrum allocation (the FCC auctions that 
 
 **Funded politicians:**
 
-- [[Mark Warner]] (Intelligence) — lobbying: $9.0M
+- [[Mark Warner]] (Intelligence) - lobbying: $9.0M
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-12.*
 
@@ -161,16 +161,16 @@ The industry's political priorities: spectrum allocation (the FCC auctions that 
 
 | Recipient | Amount | Party |
 |-----------|--------|-------|
-| NRCCC - NON FED ACT | $39,166 | — |
-| DSCC NON-FEDERAL CORPORATE | $35,000 | — |
+| NRCCC - NON FED ACT | $39,166 | - |
+| DSCC NON-FEDERAL CORPORATE | $35,000 | - |
 | NATIONAL REPUBLICAN CONGRESSIONAL COMMITTEE | $25,000 | REP |
-| NRSC - NONFEDERAL | $25,000 | — |
-| NRCCC - NONFEDERAL ACCOUNT | $24,500 | — |
-| DNC-NONFEDERAL-CORPORATE | $15,000 | — |
+| NRSC - NONFEDERAL | $25,000 | - |
+| NRCCC - NONFEDERAL ACCOUNT | $24,500 | - |
+| DNC-NONFEDERAL-CORPORATE | $15,000 | - |
 | CONGRESSMAN JOE BARTON COMMITTEE, THE | $10,500 | REP |
-| NRCCC - NON FEDERAL #1 | $10,450 | — |
-| DCCCC NON-FEDERAL ACCOUNT #3 | $10,000 | — |
-| DCCC BUILDING FUND ACCOUNT #1 | $7,000 | — |
+| NRCCC - NON FEDERAL #1 | $10,450 | - |
+| DCCCC NON-FEDERAL ACCOUNT #3 | $10,000 | - |
+| DCCC BUILDING FUND ACCOUNT #1 | $7,000 | - |
 
 - [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Telecom%20Industry) (Tier 1)
 <!-- auto:fec-donor end -->
@@ -201,12 +201,12 @@ The industry's political priorities: spectrum allocation (the FCC auctions that 
 | Agencies | Agriculture Department, Defense Department, Federal Communications Commission, Federal Deposit Insurance Corporation, Federal Reserve System, Rural Utilities Service, Securities and Exchange Commission |
 
 **Recent regulatory activity:**
-- [Cybersecurity Maturity Model Certification (CMMC) Program](https://www.federalregister.gov/documents/2023/12/26/2023-27280/cybersecurity-maturity-model-certification-cmmc-program) (2023-12-26) — Defense Department
-- [Unified Agenda of Federal Regulatory and Deregulatory Actions-Spring 2017](https://www.federalregister.gov/documents/2017/08/24/2017-16981/unified-agenda-of-federal-regulatory-and-deregulatory-actions-spring-2017) (2017-08-24) — Federal Communications Commission
-- [Unified Agenda of Federal Regulatory and Deregulatory Actions-Fall 2016](https://www.federalregister.gov/documents/2016/12/23/2016-29927/unified-agenda-of-federal-regulatory-and-deregulatory-actions-fall-2016) (2016-12-23) — Federal Communications Commission
-- [Unified Agenda of Federal Regulatory and Deregulatory Actions-Spring 2016](https://www.federalregister.gov/documents/2016/06/09/2016-12933/unified-agenda-of-federal-regulatory-and-deregulatory-actions-spring-2016) (2016-06-09) — Federal Communications Commission
-- [Unified Agenda of Federal Regulatory and Deregulatory Actions-Fall 2015](https://www.federalregister.gov/documents/2015/12/15/2015-30673/unified-agenda-of-federal-regulatory-and-deregulatory-actions-fall-2015) (2015-12-15) — Federal Communications Commission
-- [Unified Agenda of Federal Regulatory and Deregulatory Actions-Spring 2015](https://www.federalregister.gov/documents/2015/06/18/2015-14375/unified-agenda-of-federal-regulatory-and-deregulatory-actions-spring-2015) (2015-06-18) — Federal Communications Commission
+- [Cybersecurity Maturity Model Certification (CMMC) Program](https://www.federalregister.gov/documents/2023/12/26/2023-27280/cybersecurity-maturity-model-certification-cmmc-program) (2023-12-26) - Defense Department
+- [Unified Agenda of Federal Regulatory and Deregulatory Actions-Spring 2017](https://www.federalregister.gov/documents/2017/08/24/2017-16981/unified-agenda-of-federal-regulatory-and-deregulatory-actions-spring-2017) (2017-08-24) - Federal Communications Commission
+- [Unified Agenda of Federal Regulatory and Deregulatory Actions-Fall 2016](https://www.federalregister.gov/documents/2016/12/23/2016-29927/unified-agenda-of-federal-regulatory-and-deregulatory-actions-fall-2016) (2016-12-23) - Federal Communications Commission
+- [Unified Agenda of Federal Regulatory and Deregulatory Actions-Spring 2016](https://www.federalregister.gov/documents/2016/06/09/2016-12933/unified-agenda-of-federal-regulatory-and-deregulatory-actions-spring-2016) (2016-06-09) - Federal Communications Commission
+- [Unified Agenda of Federal Regulatory and Deregulatory Actions-Fall 2015](https://www.federalregister.gov/documents/2015/12/15/2015-30673/unified-agenda-of-federal-regulatory-and-deregulatory-actions-fall-2015) (2015-12-15) - Federal Communications Commission
+- [Unified Agenda of Federal Regulatory and Deregulatory Actions-Spring 2015](https://www.federalregister.gov/documents/2015/06/18/2015-14375/unified-agenda-of-federal-regulatory-and-deregulatory-actions-spring-2015) (2015-06-18) - Federal Communications Commission
 - ... and 7 more
 
 - [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Telecom%20Industry%22) (Tier 1)

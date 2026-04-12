@@ -45,14 +45,14 @@ Kasparian's funding model is the most structurally revealing in the pipeline bec
 | 2020-01-21 | ActBlue | $50.00 | DEM | The Young Turks |
 
 > [!money]
-> All three contributions fall in 2019-2020 while Kasparian was firmly embedded at TYT, and the largest ($1,000) went directly to her boss Cenk Uygur's Rebellion PAC. Zero contributions after 2020 — perfectly tracking her "unaligned" declaration. The FEC record captures Kasparian at the moment of her institutional commitment to progressive politics, before the 2022 assault and subsequent dual-capture phase. The silence after 2020 indicates that the Valuetainment pivot removed her from political giving entirely — consistent with the "unaligned" brand positioning that benefits from political neutrality even while drawing paychecks from both progressive and conservative infrastructure.
+> All three contributions fall in 2019-2020 while Kasparian was firmly embedded at TYT, and the largest ($1,000) went directly to her boss Cenk Uygur's Rebellion PAC. Zero contributions after 2020, perfectly tracking her "unaligned" declaration. The FEC record captures Kasparian at the moment of her institutional commitment to progressive politics, before the 2022 assault and subsequent dual-capture phase. The silence after 2020 indicates that the Valuetainment pivot removed her from political giving entirely, consistent with the "unaligned" brand positioning that benefits from political neutrality even while drawing paychecks from both progressive and conservative infrastructure.
 
 - [FEC: Ana Kasparian individual contributions (3 results, $1,150)](https://www.fec.gov/data/receipts/?contributor_name=kasparian%2C+ana) (Tier 1)
 
 > **Note on API results:** The FEC API search for "kasparian, ana" returns 3 results ($1,150 total), all from The Young Turks employer (2019-2020), California address. All verified as belonging to the Breaking Points co-host. No disambiguation needed.
 
 > [!money]
-> Kasparian's dual employment is the cleanest documentation of real-time media realignment economics in the pipeline. TYT pays her ~$600K/year from Katzenberg-adjacent progressive media infrastructure. Valuetainment pays her from conservative media infrastructure. She calls this "unaligned." The funding model calls it "both-sides capture" — she's simultaneously dependent on two competing donor class ecosystems, and the content has shifted toward the one offering growth.
+> Kasparian's dual employment is the cleanest documentation of real-time media realignment economics in the pipeline. TYT pays her ~$600K/year from Katzenberg-adjacent progressive media infrastructure. Valuetainment pays her from conservative media infrastructure. She calls this "unaligned." The funding model calls it "both-sides capture", she's simultaneously dependent on two competing donor class ecosystems, and the content has shifted toward the one offering growth.
 
 ### Who Funds Them
 
@@ -105,7 +105,7 @@ Kasparian represents a different audience capture variant than Dore or Greenwald
 | Sep 2025 | Michaels walks off Her Take over Israel/Kirk debate | Kasparian, Michaels | N/A | Internal fractures in "unaligned" coalition |
 
 > [!money]
-> In 2019, Kasparian's largest political contribution ($1,000) went to her boss Cenk Uygur's Rebellion PAC. By 2025, she's drawing a paycheck from both TYT (Katzenberg's $20M) and Valuetainment (conservative media production). The money trail documents the realignment in real time — not as ideology, but as dual-employer economics. "Unaligned" is the brand. Dual capture is the business model.
+> In 2019, Kasparian's largest political contribution ($1,000) went to her boss Cenk Uygur's Rebellion PAC. By 2025, she's drawing a paycheck from both TYT (Katzenberg's $20M) and Valuetainment (conservative media production). The money trail documents the realignment in real time, not as ideology, but as dual-employer economics. "Unaligned" is the brand. Dual capture is the business model.
 
 ### Capture Architecture
 
@@ -122,7 +122,7 @@ Ana Kasparian's profile is the most human story in the pipeline. A genuine sexua
 **The "unaligned" economics:** Kasparian's "unaligned" brand is the most economically efficient position possible during a media realignment. It allows her to: (1) keep TYT salary during transition, (2) access Valuetainment's conservative audience and production resources, (3) maintain plausible deniability about political direction, and (4) generate maximum engagement from both sides commenting on where she'll end up. "Unaligned" isn't a destination. It's a transition strategy with dual income streams.
 
 > [!contradiction]
-> The executive producer who built TYT's membership business with Katzenberg's $20M investment is now simultaneously appearing on a show produced by a conservative media company, discussing how the left failed her — while continuing to draw her TYT salary. The assault was real. The progressive backlash was real. The dual-capture economics that followed are also real, and they explain the trajectory better than ideology does.
+> The executive producer who built TYT's membership business with Katzenberg's $20M investment is now simultaneously appearing on a show produced by a conservative media company, discussing how the left failed her, while continuing to draw her TYT salary. The assault was real. The progressive backlash was real. The dual-capture economics that followed are also real, and they explain the trajectory better than ideology does.
 
 ### Sources
 

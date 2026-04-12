@@ -26,7 +26,7 @@ In July 2025, [[_Juliana Stratton Master Profile|Juliana Stratton]] made a publi
 On the surface, the pledge worked. It delivered political cover for Stratton to claim alignment with anti-money-in-politics sentiment without having to reject the billionaire money flooding her outside PAC. The distinction is careful: corporate PACs (bad) versus personal contributions from billionaires (acceptable). This allows a politician to claim anti-corruption credentials while remaining entirely dependent on wealth concentration.
 
 > [!contradiction]
-> Stratton pledged in July 2025 to reject corporate PACs, earning End Citizens United's November 2025 endorsement as an anti-corruption candidate. Simultaneously, her outside PAC was raised entirely by the Pritzker family ($6.1 million of $6.3 million in 2025 fundraising—82%). The pledge addresses a narrow category (corporate PACs) while accepting the largest permissible donations from a single family. It is a rhetorical gesture that preserves billionaire access.
+> Stratton pledged in July 2025 to reject corporate PACs, earning End Citizens United's November 2025 endorsement as an anti-corruption candidate. Simultaneously, her outside PAC was raised entirely by the Pritzker family ($6.1 million of $6.3 million in 2025 fundraising, 82%). The pledge addresses a narrow category (corporate PACs) while accepting the largest permissible donations from a single family. It is a rhetorical gesture that preserves billionaire access.
 
 ### The Loophole: Personal Money Versus Corporate Money
 
@@ -83,7 +83,7 @@ Stratton's campaign repeatedly invoked the rhetoric of "grassroots" energy and "
 The gap between "grassroots" rhetoric and billionaire funding is not incidental. It is central to how modern money-in-politics works: politicians funded by wealth concentration adopt the language of grassroots movements. They claim to represent ordinary people while depending on billionaires for electoral viability. The corporate PAC pledge helps manage this contradiction by offering a token anti-corruption commitment that preserves billionaire access.
 
 > [!quote]
-> "Strattmentum" — Stratton's campaign messaging about organic grassroots momentum. Yet 82% of her outside PAC funding came from one family. The contrast between claimed grassroots energy and actual billionaire dependency reveals the function of such rhetoric: to manage the cognitive dissonance between populist framing and wealth-concentrated fundraising.
+> "Strattmentum". Stratton's campaign messaging about organic grassroots momentum. Yet 82% of her outside PAC funding came from one family. The contrast between claimed grassroots energy and actual billionaire dependency reveals the function of such rhetoric: to manage the cognitive dissonance between populist framing and wealth-concentrated fundraising.
 
 ### The Limit: What the Pledge Actually Prevents
 

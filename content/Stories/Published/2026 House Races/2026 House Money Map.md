@@ -65,7 +65,7 @@ In Illinois 2026 House primaries, Think Big spent $1.4 million for Jesse Jackson
 ### The Illinois Model. Shell PACs and Disguised Spending
 
 > [!contradiction]
-> AIPAC's shell PAC strategy is designed to defeat the purpose of disclosure. When voters see an ad from "Elect Chicago Women," they have no way to know it is actually funded by AIPAC's $78 million super PAC. The names are deliberately anodyne — chosen to obscure the source.
+> AIPAC's shell PAC strategy is designed to defeat the purpose of disclosure. When voters see an ad from "Elect Chicago Women," they have no way to know it is actually funded by AIPAC's $78 million super PAC. The names are deliberately anodyne, chosen to obscure the source.
 
 In the March 2026 Illinois Democratic House primaries, AIPAC funneled money through at least three shell PACs:
 
@@ -101,7 +101,7 @@ Lawler is the only New Yorker on the Democratic Congressional Campaign Committee
 ### The Donor Class Question
 
 > [!contradiction]
-> What does the House spending map tell us about whose interests are actually being represented? When AIPAC can spend $14 million in a single state's primaries through shell PACs, when Fairshake can deploy $191 million to reshape crypto policy, when AI firms back candidates through Think Big PAC — whose voices are heard in Congress?
+> What does the House spending map tell us about whose interests are actually being represented? When AIPAC can spend $14 million in a single state's primaries through shell PACs, when Fairshake can deploy $191 million to reshape crypto policy, when AI firms back candidates through Think Big PAC, whose voices are heard in Congress?
 
 The 2026 House races are not primarily determined by voter preferences or legislative merit. They are determined by which donors can mobilize the largest war chests, which PACs can operate most effectively behind shell company facades, and which industries can most credibly threaten policy consequences for non-compliance.
 

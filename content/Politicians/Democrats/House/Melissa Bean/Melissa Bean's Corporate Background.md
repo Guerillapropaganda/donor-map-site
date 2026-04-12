@@ -22,7 +22,7 @@ Melissa Bean's career trajectory is the revolving door made explicit: Congress (
 Her 2005–2011 congressional tenure placed her on the House Financial Services Committee, where she served on the Subcommittees on Capital Markets, Insurance and Government Sponsored Enterprises, and Financial Institutions and Consumer Credit, the precise regulatory apparatus governing the industry she would later join at the executive level. Her committee work functioned as on-the-job training for a post-Congressional career in finance, and her finance career functioned as a long-term pre-qualification for donor support upon her return.
 
 > [!money]
-> **The full revolving door pipeline:** Financial Services Committee member (2005–2011) → JPMorgan Chase Vice Chairman of the Midwest → Mesirow Wealth Advisors CEO ($29.7B AUM) → Illinois 8th Congressional District representative (2026+). Bean spent 6 years (2019–2025) managing $29.7 billion in assets for wealthy clients before returning to Congress. Her financial sector funders (JPMorgan ecosystem, corporate donors aligned with New Democrat Coalition) are not buying a politician — they are reactivating a former colleague.
+> **The full revolving door pipeline:** Financial Services Committee member (2005–2011) → JPMorgan Chase Vice Chairman of the Midwest → Mesirow Wealth Advisors CEO ($29.7B AUM) → Illinois 8th Congressional District representative (2026+). Bean spent 6 years (2019–2025) managing $29.7 billion in assets for wealthy clients before returning to Congress. Her financial sector funders (JPMorgan ecosystem, corporate donors aligned with New Democrat Coalition) are not buying a politician, they are reactivating a former colleague.
 
 ---
 
@@ -64,7 +64,7 @@ This technology background is significant for two reasons: (1) it explains her c
 - Technology bills: championed personal data protection legislation aligned with her telecom industry background.
 
 > [!contradiction]
-> **The "Financial Reformer" Contradiction:** Bean served on the Financial Services Committee through the 2008 financial crisis and participated in Dodd-Frank reform negotiations. Yet the American Prospect noted that "objections to financial reform from bank lobbyists would inevitably show up in her talking points." Her 2005 vote on capital gains tax cuts — breaking with almost all House Democrats — revealed her actual ideological positioning: she served on the regulatory committee overseeing an industry she would later join, and her reform instincts reliably stopped at the threshold of meaningful donor impact. JPMorgan Chase did not hire a critic; they hired a colleague.
+> **The "Financial Reformer" Contradiction:** Bean served on the Financial Services Committee through the 2008 financial crisis and participated in Dodd-Frank reform negotiations. Yet the American Prospect noted that "objections to financial reform from bank lobbyists would inevitably show up in her talking points." Her 2005 vote on capital gains tax cuts, breaking with almost all House Democrats, revealed her actual ideological positioning: she served on the regulatory committee overseeing an industry she would later join, and her reform instincts reliably stopped at the threshold of meaningful donor impact. JPMorgan Chase did not hire a critic; they hired a colleague.
 
 ---
 
@@ -83,7 +83,7 @@ This technology background is significant for two reasons: (1) it explains her c
 | 2026-03-17 | Wins Democratic primary with $7M in outside support from AI, AIPAC, and crypto donor blocs | Bean, ECW/AIPAC, Think Big AI PAC, Protect Progress, New Democrat Majority | $7M+ outside | The Wall Street and finance network she built (2011–2025) provides the credibility signal for the AI/AIPAC/crypto donor coalition that funded her return |
 
 > [!money]
-> **The revolving door ROI:** Bean's 15-year absence from elected office was not a gap — it was a construction project. Each institutional role (Executives' Club, JPMorgan, Mesirow) added a layer to her donor class embeddedness. By 2026, she did not need to fundraise her way back into politics — she needed only to signal availability to donors who already knew her. The $7M super PAC coalition that funded her primary was not a surprise to them. It was a coordinated activation of relationships she had spent 15 years building.
+> **The revolving door ROI:** Bean's 15-year absence from elected office was not a gap, it was a construction project. Each institutional role (Executives' Club, JPMorgan, Mesirow) added a layer to her donor class embeddedness. By 2026, she did not need to fundraise her way back into politics, she needed only to signal availability to donors who already knew her. The $7M super PAC coalition that funded her primary was not a surprise to them. It was a coordinated activation of relationships she had spent 15 years building.
 
 ---
 

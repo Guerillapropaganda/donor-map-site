@@ -24,7 +24,7 @@ donors: [[Fossil Fuel Bloc]], [[Koch Network - Charles Koch]]
 ### The Manchin-Sinema Donor-Class Veto: How Two Senators Killed a Majority
 
 > [!money]
-> The 50-50 Senate of 2021–2023 was the donor class's ideal formation. Democrats held the majority on paper — Vice President Harris broke ties. But two senators, [[_Joe Manchin Master Profile|Joe Manchin]] (WV) and [[_Kyrsten Sinema Master Profile|Kyrsten Sinema]] (AZ), operated as a synchronized veto bloc that ensured no legislation threatening core donor-class interests could pass. Manchin handled fossil fuels: he killed $186 billion in BBB climate provisions while his own coal company paid him $500,000/year. Sinema handled finance: she preserved the carried interest loophole worth $6.5–14 billion per decade to private equity while collecting $3.5 million from the securities industry. Together, they blocked filibuster reform, gutted drug pricing, and ensured the Inflation Reduction Act's "climate bill" structurally guaranteed continued fossil fuel extraction. The donor class didn't need 50 senators. It needed two.
+> The 50-50 Senate of 2021–2023 was the donor class's ideal formation. Democrats held the majority on paper. Vice President Harris broke ties. But two senators, [[_Joe Manchin Master Profile|Joe Manchin]] (WV) and [[_Kyrsten Sinema Master Profile|Kyrsten Sinema]] (AZ), operated as a synchronized veto bloc that ensured no legislation threatening core donor-class interests could pass. Manchin handled fossil fuels: he killed $186 billion in BBB climate provisions while his own coal company paid him $500,000/year. Sinema handled finance: she preserved the carried interest loophole worth $6.5–14 billion per decade to private equity while collecting $3.5 million from the securities industry. Together, they blocked filibuster reform, gutted drug pricing, and ensured the Inflation Reduction Act's "climate bill" structurally guaranteed continued fossil fuel extraction. The donor class didn't need 50 senators. It needed two.
 
 ---
 
@@ -35,7 +35,7 @@ The 50-50 Senate created the narrowest possible majority, any single defection k
 Manchin and Sinema weren't random defectors. They represented complementary sectors of the donor class: Manchin covered energy and extractive industries; Sinema covered Wall Street, private equity, and pharmaceuticals. Their combined coverage meant that every major donor-class interest, fossil fuels, finance, pharma, had a designated protector in the Democratic caucus.
 
 > [!contradiction]
-> Both senators claimed independence as a virtue. Manchin: "I just want to find common ground." Sinema: "independence from the broken partisan system." But their "independence" was directional — it always moved toward the donor class's position, never away from it. Manchin never broke with fossil fuel interests to support climate action. Sinema never broke with Wall Street to support progressive taxation. The independence was real, but it was independence from their voters, not from their donors.
+> Both senators claimed independence as a virtue. Manchin: "I just want to find common ground." Sinema: "independence from the broken partisan system." But their "independence" was directional, it always moved toward the donor class's position, never away from it. Manchin never broke with fossil fuel interests to support climate action. Sinema never broke with Wall Street to support progressive taxation. The independence was real, but it was independence from their voters, not from their donors.
 
 ---
 
@@ -104,7 +104,7 @@ Both senators left office in January 2025. Neither sought reelection. Their depa
 **Sinema:** Joined Hogan Lovells (lobbying firm) as Senior Advisor in March 2025, focusing on AI, crypto, and regulatory navigation. Joined Coinbase's Global Advisory Council in January 2025. Chairs an AI industry association. The industries she protected as a senator now pay her directly. The revolving door completed in under 90 days.
 
 > [!contradiction]
-> Manchin's exit preserved the status quo: he continues earning coal income as a private citizen. Sinema's exit completed the transaction: the industries she served in the Senate now employ her. Both outcomes were predictable from the donor maps. The question was never whether they would serve the donor class — it was whether the service would be compensated before, during, or after office. The answer: all three.
+> Manchin's exit preserved the status quo: he continues earning coal income as a private citizen. Sinema's exit completed the transaction: the industries she served in the Senate now employ her. Both outcomes were predictable from the donor maps. The question was never whether they would serve the donor class, it was whether the service would be compensated before, during, or after office. The answer: all three.
 
 ---
 

@@ -44,7 +44,7 @@ The meme coin is not a financial product in any traditional sense. It is a loyal
 
 ### The Industry's Investment
 
-> [!money] Follow the Money — The Crypto-to-Policy Pipeline
+> [!money] Follow the Money. The Crypto-to-Policy Pipeline
 > **Inaugural fund:** $13.5M+ from crypto firms alone
 > - Coinbase: $1M
 > - Kraken: $1M
@@ -53,9 +53,9 @@ The meme coin is not a financial product in any traditional sense. It is a loyal
 > - Paradigm: $1M
 > - Ripple: $5M
 >
-> **Campaign cycle (2024):** [[Fairshake PAC|Fairshake PAC]] and affiliates spent $195M+ in the 2024 cycle — 44% of all corporate election money. The crypto industry became the single largest corporate political spending bloc in American politics.
+> **Campaign cycle (2024):** [[Fairshake PAC|Fairshake PAC]] and affiliates spent $195M+ in the 2024 cycle, 44% of all corporate election money. The crypto industry became the single largest corporate political spending bloc in American politics.
 >
-> **What they got:** Complete regulatory capture. The SEC reversed enforcement actions. The CFTC backed off. Stablecoin legislation advanced. The president himself launched crypto products. The industry didn't just buy favorable regulation — they bought a president who is personally invested in the asset class rising in value.
+> **What they got:** Complete regulatory capture. The SEC reversed enforcement actions. The CFTC backed off. Stablecoin legislation advanced. The president himself launched crypto products. The industry didn't just buy favorable regulation, they bought a president who is personally invested in the asset class rising in value.
 
 ---
 
@@ -64,7 +64,7 @@ The meme coin is not a financial product in any traditional sense. It is a loyal
 > [!contradiction] Regulator-in-Chief, Profiteer-in-Chief
 > The president holds 800 million $TRUMP tokens. His family earned $460M+ from WLFI in six months. His executive orders deregulated the crypto industry. His appointed "crypto czar" ([[_David Sacks Master Profile|David Sacks]]) holds crypto investments. His SEC reversed crypto enforcement.
 >
-> In any other regulatory context — an FDA commissioner holding pharmaceutical stock, an EPA administrator owning oil company shares — this would be a disqualifying conflict of interest. In the Trump crypto structure, the conflict IS the product. The president's financial interest in crypto rising is the guarantee that crypto regulation won't happen. The donors aren't buying access to a regulator. They're buying a co-investor.
+> In any other regulatory context, an FDA commissioner holding pharmaceutical stock, an EPA administrator owning oil company shares, this would be a disqualifying conflict of interest. In the Trump crypto structure, the conflict IS the product. The president's financial interest in crypto rising is the guarantee that crypto regulation won't happen. The donors aren't buying access to a regulator. They're buying a co-investor.
 
 The traditional corruption model: donors give money, politicians give policy. The Trump crypto model: the president IS a crypto market participant. His policy decisions move markets he's invested in. His supporters buy tokens that enrich him directly. The extraction is vertical, from the regulatory framework down to the individual retail investor.
 

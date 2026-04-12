@@ -63,7 +63,7 @@ Three interconnected policy objectives, all demanding regulatory retreat:
 
 **3. Energy Independence Rhetoric**. Frames fracking as American sovereignty. Positions oil as national security. This rhetorical move justifies unlimited extraction while channeling political capital toward maintaining all three goals above. Energy independence becomes the intellectual framework protecting fossil fuel deregulation.
 
-> [!money] The Infrastructure of Donor-Class Power: Hamm's Domestic Energy Producers Alliance is a strategic vehicle — not a grassroots movement but an organized corporate lobbying front. It coordinates multi-company pressure, aggregates industry messaging, and makes Hamm the public face of fossil fuel policy demands. This is the structure: the donor creates the political infrastructure that the donor then claims represents the market.
+> [!money] The Infrastructure of Donor-Class Power: Hamm's Domestic Energy Producers Alliance is a strategic vehicle, not a grassroots movement but an organized corporate lobbying front. It coordinates multi-company pressure, aggregates industry messaging, and makes Hamm the public face of fossil fuel policy demands. This is the structure: the donor creates the political infrastructure that the donor then claims represents the market.
 
 ---
 

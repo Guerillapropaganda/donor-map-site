@@ -68,7 +68,7 @@ MasTec and the Mas family maintain political relationships across the Florida Re
 | CANF political network | Historical | Founded by Jorge Mas Canosa; institutional donor infrastructure |
 
 > [!money] Follow the Money
-> The Mas Canosa family's political spending serves a dual function: maintaining the Cuba embargo (which prevents competitors from accessing Cuban infrastructure contracts) while positioning MasTec as the inevitable contractor when the embargo eventually lifts on terms favorable to exile capital. The blockade is the business development strategy — maximum pressure today creates maximum opportunity tomorrow.
+> The Mas Canosa family's political spending serves a dual function: maintaining the Cuba embargo (which prevents competitors from accessing Cuban infrastructure contracts) while positioning MasTec as the inevitable contractor when the embargo eventually lifts on terms favorable to exile capital. The blockade is the business development strategy, maximum pressure today creates maximum opportunity tomorrow.
 
 (API DATA PENDING. Chrome required for full FEC individual contribution breakdown for Mas family members)
 
@@ -182,16 +182,16 @@ The Mas Canosa family represents the structural intersection of exile politics a
 
 **Funded politicians:**
 
-- [[Marco Rubio]] — lobbying: $180K
-- [[Mario Diaz-Balart]] (Appropriations) — lobbying: $180K
-- [[Carlos Gimenez]] (Transportation & Infrastructure) — lobbying: $180K
+- [[Marco Rubio]] - lobbying: $180K
+- [[Mario Diaz-Balart]] (Appropriations) - lobbying: $180K
+- [[Carlos Gimenez]] (Transportation & Infrastructure) - lobbying: $180K
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-09.*
 <!-- auto:influence-cross-ref end -->
 
 <!-- auto:influence-cross-ref pending-merge 2026-04-12 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+> [!attention] Fresh API data available - needs manual merge
+> Bot detected your edits to this section. New data below - fold in what's useful, then delete this block.
 
 | Metric | Value |
 |--------|-------|
@@ -205,9 +205,9 @@ The Mas Canosa family represents the structural intersection of exile politics a
 
 **Funded politicians:**
 
-- [[Marco Rubio]] — lobbying: $180K
-- [[Mario Diaz-Balart]] (Appropriations) — lobbying: $180K
-- [[Carlos Gimenez]] (Transportation & Infrastructure) — lobbying: $180K
+- [[Marco Rubio]] - lobbying: $180K
+- [[Mario Diaz-Balart]] (Appropriations) - lobbying: $180K
+- [[Carlos Gimenez]] (Transportation & Infrastructure) - lobbying: $180K
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-12.*
 

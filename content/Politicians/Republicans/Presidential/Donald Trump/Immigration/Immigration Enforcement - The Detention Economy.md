@@ -21,13 +21,13 @@ Trump's immigration enforcement apparatus is the vault's clearest example of a p
 
 ### The Numbers. Second Term
 
-> [!money] Follow the Money — The Detention Economy Expands
-> **Deportations (FY2025):** ~340,000 — a 25% increase over the previous fiscal year
+> [!money] Follow the Money. The Detention Economy Expands
+> **Deportations (FY2025):** ~340,000, a 25% increase over the previous fiscal year
 > **ICE budget:** Tripled to approximately $28–29 billion/year
 > **ICE detention beds:** Expanded to 46,000+ (up from ~34,000 under Biden)
 >
 > **Private prison profits:**
-> - [[GEO Group|GEO Group]]: profit increase of approximately 700% ($254M) — stock price surged on enforcement expansion
+> - [[GEO Group|GEO Group]]: profit increase of approximately 700% ($254M), stock price surged on enforcement expansion
 > - [[CoreCivic|CoreCivic]]: profit increase of approximately 70%
 > - Both companies donated $500K each to Trump's inaugural fund
 > - Both companies hold federal detention contracts worth billions annually
@@ -55,7 +55,7 @@ Trump triples ICE's budget. Abbott deploys 10,000+ troops to the border. Bianco 
 > [!contradiction] The Bipartisan Detention Machine
 > The private detention industry doesn't care which party holds the White House. GEO Group and CoreCivic have donated to both parties across multiple cycles. Under Obama, ICE maintained 34,000 beds. Under Trump I, it expanded. Under Biden, beds dropped slightly but the companies maintained profitability through per-diem guarantees. Under Trump II, the expansion is massive.
 >
-> The same companies connected to the Newsom vault (AB 32 — California's private prison "ban" that included delayed implementation and carve-outs for federal facilities) are profiting from Trump's detention expansion. Newsom signed the ban. Trump fills the beds. The companies operate across administrations. The money flows to both parties.
+> The same companies connected to the Newsom vault (AB 32. California's private prison "ban" that included delayed implementation and carve-outs for federal facilities) are profiting from Trump's detention expansion. Newsom signed the ban. Trump fills the beds. The companies operate across administrations. The money flows to both parties.
 
 ---
 
@@ -169,11 +169,11 @@ Trump's expansion of detention from 46,000 to 66,000 beds during 2025 served as 
 - CoreCivic: **$116.5M profit in 2025**, 70% increase; projects $147.5M–$157.5M in 2026
 - Both companies lobbied banks (including through Congress) to continue providing loans after some banks cut ties with the detention industry
 
-> [!contradiction] The Consolidation Threat — A Potential Disruption to the Private Prison Pipeline
-> Bloomberg (February 19, 2026): ICE is considering **consolidating its 200+ detention facility network to just 34 government-owned warehouse facilities** — cutting GEO Group and CoreCivic out of the primary detention infrastructure in favor of DHS-owned industrial sites.
+> [!contradiction] The Consolidation Threat. A Potential Disruption to the Private Prison Pipeline
+> Bloomberg (February 19, 2026): ICE is considering **consolidating its 200+ detention facility network to just 34 government-owned warehouse facilities**, cutting GEO Group and CoreCivic out of the primary detention infrastructure in favor of DHS-owned industrial sites.
 >
 > This is an intra-donor-class conflict: the detention privatization model vs. the government-ownership-and-expansion model. If implemented, it would dramatically reduce GEO Group and CoreCivic's federal contract revenue even as enforcement escalates. The private prison companies that funded Trump's inauguration ($500K each) may find their investment returns disrupted by the same administration's operational preferences.
 >
-> The flag for this vault: GEO Group and CoreCivic are not guaranteed long-term beneficiaries of detention expansion. The detention economy may be restructuring away from private contractors toward direct federal operation — which serves enforcement scale goals without the profit extraction.
+> The flag for this vault: GEO Group and CoreCivic are not guaranteed long-term beneficiaries of detention expansion. The detention economy may be restructuring away from private contractors toward direct federal operation, which serves enforcement scale goals without the profit extraction.
 
 **NLRB and labor suppression update:** Sixth Circuit (March 6, 2026) blocked the NLRB's Cemex bargaining-order framework, limiting unions' ability to win recognition after employer unfair labor practices. Combined with NLRB staff cuts under DOGE, the labor suppression infrastructure that makes immigrant-labor-intensive industries profitable is operating at maximum effectiveness.

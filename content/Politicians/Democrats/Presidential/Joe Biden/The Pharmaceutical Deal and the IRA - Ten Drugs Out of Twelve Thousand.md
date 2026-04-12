@@ -16,7 +16,7 @@ donors: [[Pharmaceutical Industry]], [[Pfizer]], [[Moderna]], [[UnitedHealth Gro
 ### The Pharmaceutical Deal and the IRA. Ten Drugs Out of Twelve Thousand
 
 > [!money]
-> 2020 cycle: Pharmaceutical industry gave Biden $5.9 million — 99% of his lifetime pharma donations arrived in a single election year. August 2022: Biden signs Inflation Reduction Act with $35 insulin cap (genuine win: 3.3M Medicare beneficiaries). Structural limit: only 10 drugs eligible for negotiation out of 12,000+ available; 390+ drugs remain untouched. Pharma industry profits reduced ~30–40% on negotiated drugs, preserved entirely on others. The industry accepted the deal because the losses were calculated and contained.
+> 2020 cycle: Pharmaceutical industry gave Biden $5.9 million, 99% of his lifetime pharma donations arrived in a single election year. August 2022: Biden signs Inflation Reduction Act with $35 insulin cap (genuine win: 3.3M Medicare beneficiaries). Structural limit: only 10 drugs eligible for negotiation out of 12,000+ available; 390+ drugs remain untouched. Pharma industry profits reduced ~30–40% on negotiated drugs, preserved entirely on others. The industry accepted the deal because the losses were calculated and contained.
 
 ---
 
@@ -121,7 +121,7 @@ Biden's response: Accepted the constraint. The IRA's drug negotiation authority 
 This is the structural choice point: Biden could have pushed back against Sinema, mobilized Democrats, pressured her through party channels. Instead, Biden accepted the pharmaceutical industry's preferred outcome, limited negotiation, packaged as a victory.
 
 > [!quote]
-> Biden campaign 2020: "We will empower Medicare to negotiate drug prices." IRA 2022: "We have empowered Medicare to negotiate prices for 10 drugs, expandable to 60 by 2030." The framing shift is strategic — both can be called "empowering Medicare," but the substance differs by 99%.
+> Biden campaign 2020: "We will empower Medicare to negotiate drug prices." IRA 2022: "We have empowered Medicare to negotiate prices for 10 drugs, expandable to 60 by 2030." The framing shift is strategic, both can be called "empowering Medicare," but the substance differs by 99%.
 
 ---
 

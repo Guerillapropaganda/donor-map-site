@@ -35,7 +35,7 @@ Donor-advised funds like Bradley Impact Fund function as dark money intermediari
 The Bradley Impact Fund is part of a broader conservative DAF network that includes DonorsTrust, Donors Capital Fund, and the National Philanthropic Trust, collectively managing billions in assets and distributing hundreds of millions annually to conservative organizations.
 
 > [!money]
-> Bradley Impact Fund demonstrates how donor-advised funds convert charitable tax deductions into political influence: donors receive tax benefits for contributions that fund conservative advocacy organizations, and the DAF structure ensures their identities remain hidden from public disclosure. The tax subsidy for charitable giving — designed to encourage philanthropy — is repurposed to fund political infrastructure. The American taxpayer subsidizes the conservative movement through the charitable deduction, while the DAF structure ensures they never know which specific donors are being subsidized.
+> Bradley Impact Fund demonstrates how donor-advised funds convert charitable tax deductions into political influence: donors receive tax benefits for contributions that fund conservative advocacy organizations, and the DAF structure ensures their identities remain hidden from public disclosure. The tax subsidy for charitable giving, designed to encourage philanthropy, is repurposed to fund political infrastructure. The American taxpayer subsidizes the conservative movement through the charitable deduction, while the DAF structure ensures they never know which specific donors are being subsidized.
 
 ---
 

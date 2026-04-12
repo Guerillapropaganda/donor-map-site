@@ -69,13 +69,13 @@ The lawsuit failed legally but succeeded politically. It positioned Bianco as a 
 
 ### The Two-Audience Problem
 > [!contradiction]
-> **Audience 1 — Riverside County (52% Latino):**
+> **Audience 1. Riverside County (52% Latino):**
 > "Your deputies have not, are not and will not engage in any type of immigration enforcement. That is the sole responsibility of the federal government." Reports of raids at schools, businesses, and churches "are simply not true."
 >
-> **Audience 2 — Republican gubernatorial primary voters:**
+> **Audience 2. Republican gubernatorial primary voters:**
 > He would "welcome the National Guard" for deportation operations. He will "work around" SB 54 to deport immigrants. He appeared at a press conference promoting SB 554 (the bill to weaken sanctuary law). He joined the America First Legal lawsuit.
 >
-> Both statements are from February 2025 — the same month. The positions are not reconcilable. But they don't need to be, because the audiences don't overlap. The local message is delivered through county press releases and community meetings. The national message is delivered through Fox News, conservative media, and gubernatorial campaign events.
+> Both statements are from February 2025, the same month. The positions are not reconcilable. But they don't need to be, because the audiences don't overlap. The local message is delivered through county press releases and community meetings. The national message is delivered through Fox News, conservative media, and gubernatorial campaign events.
 
 This is the same two-audience pattern documented in the Newsom notes, one message for the base, another for the donors. The difference is directional: Newsom tells his progressive base one thing and his corporate donors another. Bianco tells his Latino constituents one thing and his conservative base another. The structural function is identical.
 

@@ -41,7 +41,7 @@ The DOJ alleges $8.7 million flowed to three primary commentators' production co
 Any YouTube ad revenue, sponsorships, or organic income was dwarfed by the RT pipeline. Tenet was not a viable commercial enterprise, it was an influence operation with a media company wrapper.
 
 > [!money]
-> The economics are staggering: $9.7 million over approximately 10 months to produce 2,000 videos with 16 million views. That's roughly $0.60 per view — an order of magnitude more expensive than legitimate advertising ($0.01-0.05/view). The ROI calculation makes sense only as an intelligence operation, not a media business. Russia purchased the authentic credibility of established American conservative commentators at a cost that would be trivial for a state intelligence budget but transformative for individual content creators accustomed to earning a fraction of that from YouTube ads and sponsorships.
+> The economics are staggering: $9.7 million over approximately 10 months to produce 2,000 videos with 16 million views. That's roughly $0.60 per view, an order of magnitude more expensive than legitimate advertising ($0.01-0.05/view). The ROI calculation makes sense only as an intelligence operation, not a media business. Russia purchased the authentic credibility of established American conservative commentators at a cost that would be trivial for a state intelligence budget but transformative for individual content creators accustomed to earning a fraction of that from YouTube ads and sponsorships.
 
 ---
 
@@ -69,7 +69,7 @@ The DOJ alleged that Chen ("Founder-1") and Donovan ("Founder-2") knew the fundi
 Chen's career arc maps the complete revolving door between Russian state media and the American conservative ecosystem. She launched the "Roaming Millennial" YouTube persona in 2016, building 400K+ subscribers. In 2021, she began contributing directly to RT, the DOJ alleges she was compensated by RT to create and publish over 200 videos on her personal YouTube channel without disclosing the funding source. In January 2022 she co-founded Tenet Media, which then received $9.7M from RT through the shell company pipeline. The trajectory: RT contributor (paid, undisclosed) → independent creator brand → RT-funded media company founder → talent scout recruiting established American commentators into the same pipeline. Each stage added a layer of deniability while maintaining the same funding source.
 
 > [!money]
-> The Chen/Donovan return is the post-indictment coda that completes the structural picture: the founders of a documented Russian influence operation — named in a federal indictment, their visas revoked by one administration — were readmitted by the next administration with explicit acknowledgment that it required new leadership across four federal agencies. The pipeline from RT funding to Trump administration facilitation maps a complete circle.
+> The Chen/Donovan return is the post-indictment coda that completes the structural picture: the founders of a documented Russian influence operation, named in a federal indictment, their visas revoked by one administration, were readmitted by the next administration with explicit acknowledgment that it required new leadership across four federal agencies. The pipeline from RT funding to Trump administration facilitation maps a complete circle.
 
 ---
 
@@ -88,7 +88,7 @@ Tenet's content was designed to inject Kremlin-aligned narratives into the Ameri
 **Republican figure platforming:** Tenet content featured appearances from Republican figures including Lara Trump and Kash Patel, extending the network's reach into institutional GOP circles.
 
 > [!contradiction]
-> The commentators' defense — that they were producing content they would have made anyway — is simultaneously true and the entire point. RT didn't need to change what Pool, Rubin, or Johnson said. It needed to fund the scale and distribution of content that already aligned with Russian interests. The operation's genius was paying for amplification of existing beliefs, not creation of new ones. The commentators were not puppets; they were megaphones pointed in a direction they were already facing.
+> The commentators' defense, that they were producing content they would have made anyway, is simultaneously true and the entire point. RT didn't need to change what Pool, Rubin, or Johnson said. It needed to fund the scale and distribution of content that already aligned with Russian interests. The operation's genius was paying for amplification of existing beliefs, not creation of new ones. The commentators were not puppets; they were megaphones pointed in a direction they were already facing.
 
 ---
 
@@ -128,7 +128,7 @@ Tenet's audience capture operated through a parasitic model, it didn't build its
 - Post-indictment: enhanced notoriety and, for some, closer ties to the Trump administration (Pool received White House press credentials in early 2025)
 
 > [!money]
-> The cost-per-view calculation ($9.7M ÷ 16M views ≈ $0.60/view) is wildly expensive compared to legitimate advertising ($0.01-0.05/view). But the comparison misses the point. Russia wasn't buying views — it was buying the credibility of American voices saying things Russia wanted said. The premium over advertising rates is the price of authenticity laundering. And at $9.7M over 10 months, it was cheaper than a single fighter jet.
+> The cost-per-view calculation ($9.7M ÷ 16M views ≈ $0.60/view) is wildly expensive compared to legitimate advertising ($0.01-0.05/view). But the comparison misses the point. Russia wasn't buying views, it was buying the credibility of American voices saying things Russia wanted said. The premium over advertising rates is the price of authenticity laundering. And at $9.7M over 10 months, it was cheaper than a single fighter jet.
 
 ---
 

@@ -21,7 +21,7 @@ The Republican Party performs a visible civil war between "MAGA" and "Establishm
 
 This is the Republican version of the Democratic donor-first control thesis. But the mechanism is inverted: instead of a donor class that needs to manage internal party conflict (like Democrats with [[AIPAC - American Israel Public Affairs Committee|AIPAC]] vs Gaza, or pharma vs drug pricing), the Republican donor class deliberately cultivates and funds the civil war, because it gives them optionality. They fund both sides. The winners of Republican internal fights don't threaten them; they've already bought the winner regardless of which faction prevails. The contradiction runs deeper: the donors who most aggressively opposed Trump's 2016 rise and 2020 incumbency are now writing Trump's policy agenda ([[Koch Network - Charles Koch|Koch Network]], [[Club for Growth|Club for Growth]], Heritage Foundation), and the tech-finance donors who funded Trump's 2016 insurgency are now funding both Trump and his establishment opponents simultaneously.
 
-> [!contradiction] **The fundamental intra-Republican contradiction: MAGA and Establishment Republicans perform opposition to each other at the rhetorical level and strategy level. They share donors. The donors' interests survive whichever faction wins party control. The conflict is real on messaging and base mobilization. The consensus is absolute on class interests — tax cuts, deregulation, billionaire protection.**
+> [!contradiction] **The fundamental intra-Republican contradiction: MAGA and Establishment Republicans perform opposition to each other at the rhetorical level and strategy level. They share donors. The donors' interests survive whichever faction wins party control. The conflict is real on messaging and base mobilization. The consensus is absolute on class interests, tax cuts, deregulation, billionaire protection.**
 
 ---
 #analysis
@@ -62,7 +62,7 @@ Griffin was a prominent DeSantis backer in 2022-2023. When DeSantis collapsed in
 ### Pattern:
 $100M doesn't represent conviction; it represents infrastructure betting. Griffin is functionally neutral between factions. His 2024 giving pattern shows: $30M to [[Senate Leadership Fund|Senate Leadership Fund]] (establishment Republican leadership committee), $70M+ to pro-Trump PACs. The split preserves his relationships with whoever controls the Republican Party post-2024. By 2025, he's diversified into Trump's inaugural fund, securing access regardless of outcome.
 
-> [!money] **[[Kenneth Griffin|Kenneth Griffin]]: $100M+ 2024 election cycle. Transitioned from DeSantis backer (2022-2023) to Trump mega-donor (2024+). Pattern shows optionality over conviction — he funds power, not principle.**
+> [!money] **[[Kenneth Griffin|Kenneth Griffin]]: $100M+ 2024 election cycle. Transitioned from DeSantis backer (2022-2023) to Trump mega-donor (2024+). Pattern shows optionality over conviction, he funds power, not principle.**
 
 ---
 
@@ -83,7 +83,7 @@ Project 2025 represents a Koch victory that doesn't require Trump to lose a gene
 ### 2024 Post-Primary Pivot:
 [[Americans for Prosperity|Americans for Prosperity]] Action raised $157M+ 2024 cycle, with only $10M spent opposing Trump (residual primary spending). $62M+ went to electing Republican congressional candidates. Once Trump won the primary, AFP pivoted to supporting Republican infrastructure while maintaining Project 2025 influence.
 
-> [!money] **Koch Network: $50.6M against Trump in primary + $55M+ to Project 2025 policy infrastructure. Not opposition — negotiation. Won Trump policy alignment without requiring Trump electoral defeat.**
+> [!money] **Koch Network: $50.6M against Trump in primary + $55M+ to Project 2025 policy infrastructure. Not opposition, negotiation. Won Trump policy alignment without requiring Trump electoral defeat.**
 
 ---
 

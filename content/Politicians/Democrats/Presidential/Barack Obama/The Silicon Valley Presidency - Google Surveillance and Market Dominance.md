@@ -94,7 +94,7 @@ The EU, during the same period, initiated multiple antitrust investigations into
 
 This is not a mystery. The 427 Google meetings, the patent protections, the PRISM partnership, these represent structural alignment between the Obama administration and Silicon Valley. Antitrust action would have threatened that alignment.
 
-> [!contradiction] **The Privacy President Who Built the Surveillance State.** Obama promised transparency and privacy protections. His NSA director ran the largest domestic surveillance program in history — 3B+ phone records daily — in direct partnership with the same tech companies whose executives met with White House staff 427+ times. When Snowden revealed the program, Obama defended it. The candidate who ran against government overreach had built the infrastructure for government-scale data collection that his successor inherited and expanded.
+> [!contradiction] **The Privacy President Who Built the Surveillance State.** Obama promised transparency and privacy protections. His NSA director ran the largest domestic surveillance program in history, 3B+ phone records daily, in direct partnership with the same tech companies whose executives met with White House staff 427+ times. When Snowden revealed the program, Obama defended it. The candidate who ran against government overreach had built the infrastructure for government-scale data collection that his successor inherited and expanded.
 
 ---
 

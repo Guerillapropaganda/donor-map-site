@@ -98,7 +98,7 @@ The speeches were not primarily investigative. Obama did not deliver critiques o
 
 A 60-minute speech earning $400,000 is not compensated for public speaking ability; it is compensated for access. The audience is paying for the possibility of 1-on-1 conversation with a former president who shaped regulatory policy that affected their interests for eight years.
 
-> [!contradiction] **The Hope-to-Wealth Pipeline.** Obama ran as the anti-establishment candidate who would challenge Wall Street's grip on American politics. Eight years later, [[Goldman Sachs|Goldman Sachs]], JPMorgan, and Bank of America paid him $400K per speech. The candidate who told voters "I'm fighting for you" now entertains the same bankers he promised to hold accountable — at their private conferences, on their yachts, in their Hamptons estates. The net worth trajectory ($1-2M → $40-50M in two years) is the donor class's receipt for services rendered.
+> [!contradiction] **The Hope-to-Wealth Pipeline.** Obama ran as the anti-establishment candidate who would challenge Wall Street's grip on American politics. Eight years later, [[Goldman Sachs|Goldman Sachs]], JPMorgan, and Bank of America paid him $400K per speech. The candidate who told voters "I'm fighting for you" now entertains the same bankers he promised to hold accountable, at their private conferences, on their yachts, in their Hamptons estates. The net worth trajectory ($1-2M → $40-50M in two years) is the donor class's receipt for services rendered.
 
 ---
 

@@ -20,16 +20,16 @@ tags: #analysis #story
 The 2024 Republican primary showcased a stunning display of intra-party conflict: Trump and DeSantis tearing each other apart publicly, Trump and McConnell exchanging insults, DeSantis and Trump feuding on every available platform. The performance looked genuine because the candidates had irreconcilable differences, real ego conflicts, and genuine policy disagreements.
 
 > [!quote]
-> Trump on DeSantis: "Ron DeSanctimonious" — Trump's repeated derogatory nickname weaponizing DeSantis's stated values and persona, broadcast across Truth Social and at rallies throughout the primary cycle [Tier 2 — NBC News, The Hill, Fox News]
+> Trump on DeSantis: "Ron DeSanctimonious". Trump's repeated derogatory nickname weaponizing DeSantis's stated values and persona, broadcast across Truth Social and at rallies throughout the primary cycle [Tier 2. NBC News, The Hill, Fox News]
 
 > [!quote]
-> DeSantis on Trump: "I just wish, if he was the one that turned Florida red, that he wouldn't have turned Georgia and Arizona blue, because that's not been good for us at all." — Direct counterattack claiming Trump's regional failures [Tier 2 — NBC News]
+> DeSantis on Trump: "I just wish, if he was the one that turned Florida red, that he wouldn't have turned Georgia and Arizona blue, because that's not been good for us at all.". Direct counterattack claiming Trump's regional failures [Tier 2. NBC News]
 
 > [!quote]
-> Trump on McConnell: "the Old Crow's a piece of s—" — Trump's contempt barely filtered, escalating beyond 2021's "old broken down crow" nickname [Tier 2 — Bloomberg, Washington Times, The Wrap]
+> Trump on McConnell: "the Old Crow's a piece of s, ". Trump's contempt barely filtered, escalating beyond 2021's "old broken down crow" nickname [Tier 2. Bloomberg, Washington Times, The Wrap]
 
 > [!quote]
-> McConnell (private, post-2020): "He put a gun to his head and pulled the trigger. Couldn't have happened at a better time." — McConnell's genuine relief at Trump's 2020 loss [Tier 2 — PBS News]
+> McConnell (private, post-2020): "He put a gun to his head and pulled the trigger. Couldn't have happened at a better time.". McConnell's genuine relief at Trump's 2020 loss [Tier 2. PBS News]
 
 This is theater in a specific sense: the conflicts are real, the personalities are incompatible, but the funding structure underneath reveals the actual strategy. Griffin does not choose sides in this war. He funds the war itself.
 
@@ -74,14 +74,14 @@ Sources:
 What threatens this? Taxation. Regulation. Carried interest reductions. Capital gains rate increases.
 
 > [!contradiction]
-> Griffin opposes tariffs (Trump's 2025 tariff policy), criticizes trade war escalation as "crony capitalism," but calls financial deregulation under Trump "a godsend." The contradiction dissolves when class position is centered: tariffs hurt his trading operations. Deregulation protects his wealth structure. [Tier 2 — Fortune, Pensions & Investments]
+> Griffin opposes tariffs (Trump's 2025 tariff policy), criticizes trade war escalation as "crony capitalism," but calls financial deregulation under Trump "a godsend." The contradiction dissolves when class position is centered: tariffs hurt his trading operations. Deregulation protects his wealth structure. [Tier 2. Fortune, Pensions & Investments]
 
 The carried interest tax break allows hedge fund managers like Griffin to treat their compensation (their share of fund profits) as capital gains, taxed at 20% long-term rate rather than ordinary income rates (37% top). A typical plumber or nurse pays ordinary income tax on wages. Griffin pays capital gains on billions. The tax gap is structural.
 
 Griffin spent $54 million fighting an Illinois graduated income tax increase (successful), then moved to Florida (zero state income tax). The class position is explicit: tax avoidance is not a side agenda. It is the agenda.
 
 > [!quote]
-> Griffin on capital gains: Doing away with the low rate for long-term capital gains would "injure America itself." He prefers capital gains taxed lower, with corporations paying at corporate rate. [Tier 2 — 2020 reporting on Griffin's statements]
+> Griffin on capital gains: Doing away with the low rate for long-term capital gains would "injure America itself." He prefers capital gains taxed lower, with corporations paying at corporate rate. [Tier 2, 2020 reporting on Griffin's statements]
 
 But here is the critical point: **None of the 2024 Republican candidates threatened capital gains rates or carried interest** once Trump consolidated the field. DeSantis opposed Trump, but neither proposed tax increases on hedge fund wealth. McConnell's Senate Leadership Fund protects the Republican Senate majority that would kill any such proposal. The policy interest survives the personality conflict.
 

@@ -23,14 +23,14 @@ On February 28, 2026, the Trump administration and Israel launched coordinated m
 
 > [!money] Defense Industry Windfall from Iran War
 > **War start:** February 28, 2026
-> **Hegseth supplemental request:** $200 billion (March 19, 2026) — 4x the initial $50 billion estimate
+> **Hegseth supplemental request:** $200 billion (March 19, 2026), 4x the initial $50 billion estimate
 > **Stock performance (Feb 28–Mar 20):**
 > - RTX Corporation (Raytheon Technologies): $200.06 → $198.16 (minor pullback after initial 4.4% surge)
 > - [[Lockheed Martin|Lockheed Martin]]: +3–6.9% surge early March; $627.43 as of 3/20
 > - Northrop Grumman: +5.8% premarket surge early March
 > - General Dynamics: +57% long-term (March 2023–2026); positioned for ongoing contracts
 >
-> **Munition demand surge:** Hegseth stated the supplemental was needed to "refill" munition stockpiles that had been drawn down, and ensure supplies are "not just refilled, but above and beyond" — a direct demand signal for production increases from Raytheon, Lockheed, and General Dynamics.
+> **Munition demand surge:** Hegseth stated the supplemental was needed to "refill" munition stockpiles that had been drawn down, and ensure supplies are "not just refilled, but above and beyond", a direct demand signal for production increases from Raytheon, Lockheed, and General Dynamics.
 >
 > **Defense sector donations to Trump/Republicans (2024):**
 > - Top 40 defense companies gave $6M+ to the "Sedition Caucus" (the 147 Republicans who objected to 2020 certification)
@@ -52,7 +52,7 @@ The $200 billion supplemental request represents pure profit extraction. The con
 > - Air Force cuts: $2.3 billion
 > - Defense-wide cuts: $1.9 billion
 >
-> **The structural impact:** December 2025 — A contracting memo revealed that DOGE cuts "unexpectedly and significantly impacted" the Pentagon's IT office — the unit that maintains secure channels connecting the Pentagon to military assets globally, including nuclear command-and-control infrastructure.
+> **The structural impact:** December 2025. A contracting memo revealed that DOGE cuts "unexpectedly and significantly impacted" the Pentagon's IT office, the unit that maintains secure channels connecting the Pentagon to military assets globally, including nuclear command-and-control infrastructure.
 >
 > **Current readiness status (as of March 2026):**
 > - Pentagon officials acknowledge they are "maybe able to put 50% of our attention on" readiness and preparedness, compared to 100% before DOGE cuts
@@ -60,7 +60,7 @@ The $200 billion supplemental request represents pure profit extraction. The con
 > - Civilian logistics workforce reduced, creating supply chain fragility
 > - Ammunition stockpiles depleted to the point that emergency supplemental funding is now critical for combat operations
 >
-> **The contradiction resolved:** Musk's efficiency cuts targeted Pentagon civilian workforce, logistics, and maintenance — the infrastructure that supports military readiness. The cuts didn't reduce force projection in theory. They eliminated the actual machinery of readiness. Hegseth's $200 billion request is compensation for that damage — and the money goes not to rebuild the workforce (those civilian jobs are still gone) but to procurement contracts with defense contractors.
+> **The contradiction resolved:** Musk's efficiency cuts targeted Pentagon civilian workforce, logistics, and maintenance, the infrastructure that supports military readiness. The cuts didn't reduce force projection in theory. They eliminated the actual machinery of readiness. Hegseth's $200 billion request is compensation for that damage, and the money goes not to rebuild the workforce (those civilian jobs are still gone) but to procurement contracts with defense contractors.
 
 The sequence is critical: DOGE deliberately weakened military logistics infrastructure. Once the US entered combat operations, the lack of logistics capacity forced emergency procurement. The emergency spending bypasses normal budget constraints and competitive bidding. The same companies that benefit from DOGE's rules (less government oversight, faster procurement, fewer compliance requirements) also profit from the emergency spending. The working-class soldiers lose logistics support. The contractors gain contracts.
 

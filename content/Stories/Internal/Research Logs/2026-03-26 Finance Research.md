@@ -95,7 +95,7 @@ GEO Group (the largest private prison company, market cap ~$4B) deployed a compr
 > **The ROI calculation is staggering.** GEO spent $3.7M in campaign contributions + $1.38M lobbying = $5.08M total 2024 political investment. In return: Day 1 executive order reversing Biden-era restrictions, $45B in new federal contract solicitations, and an ICE expansion that could double GEO's revenue within 2 years. If GEO fills its 18,000 empty beds at projected rates, the return on $5M political investment could reach $400M+ annually. This is the highest documented ROI in the vault after the defense contractor sector.
 
 > [!contradiction]
-> **The "law enforcement" framing obscures a financial interest.** GEO Group markets itself as a public safety company. Its financial model requires maximum detention capacity — meaning it has a structural incentive to maximize the number of people detained, not to minimize crime or maximize public safety. Every policy that expands immigration detention is, from GEO's perspective, a revenue event.
+> **The "law enforcement" framing obscures a financial interest.** GEO Group markets itself as a public safety company. Its financial model requires maximum detention capacity, meaning it has a structural incentive to maximize the number of people detained, not to minimize crime or maximize public safety. Every policy that expands immigration detention is, from GEO's perspective, a revenue event.
 
 **Vault profiles to update:** [[GEO Group - Private Prisons]], [[Pam Bondi]], [[_Donald Trump Master Profile]]
 
@@ -133,7 +133,7 @@ PhRMA (Pharmaceutical Research and Manufacturers of America) is the industry's p
 > **PhRMA's lobbying model is the textbook access-buying playbook at industry scale.** $31.7M in 2024 + $37.9M in 2025 = $69.6M over two years. The orphan drug exemption expansion in the "One Big Beautiful Bill" represents policy capture: a provision that protects hundreds of billions in future pharmaceutical revenue, inserted into a budget reconciliation package. The policy return dwarfs the lobbying investment by multiple orders of magnitude.
 
 > [!contradiction]
-> **Both-sides giving is PhRMA's structural defense against drug pricing reform.** By funding key Democrats (Kaine, Schumer's leadership PAC) alongside Republicans, PhRMA ensures any meaningful price negotiation bill faces bipartisan resistance. The industry spent 2 years defeating the drug pricing provisions in Build Back Better before accepting a weakened IRA version — then lobbied to gut that version via reconciliation.
+> **Both-sides giving is PhRMA's structural defense against drug pricing reform.** By funding key Democrats (Kaine, Schumer's leadership PAC) alongside Republicans, PhRMA ensures any meaningful price negotiation bill faces bipartisan resistance. The industry spent 2 years defeating the drug pricing provisions in Build Back Better before accepting a weakened IRA version, then lobbied to gut that version via reconciliation.
 
 **Vault profiles to update:** [[PhRMA - Pharmaceutical Research and Manufacturers of America]]
 
@@ -167,7 +167,7 @@ RTX Corp (formerly Raytheon Technologies, the merged entity of Raytheon, Pratt &
 **Analytical pattern:** RTX is a textbook Both-Sides Illusion donor. It gives to both party presidential nominees, both congressional campaign committees, and both party committee structures simultaneously. The goal is not electoral victory, it's access to whoever controls the defense appropriations process.
 
 > [!money]
-> **RTX's bipartisan giving reflects the defense contractor's structural position.** Defense contractors don't pick sides because they don't need to — both parties support defense spending increases. The 71% revolving door rate among RTX's lobbyists means the company's government relations operation is staffed almost entirely by former government officials with personal relationships in the agencies that award contracts. This is the revolving door as competitive advantage: inside knowledge + personal relationships = preferred contractor status.
+> **RTX's bipartisan giving reflects the defense contractor's structural position.** Defense contractors don't pick sides because they don't need to, both parties support defense spending increases. The 71% revolving door rate among RTX's lobbyists means the company's government relations operation is staffed almost entirely by former government officials with personal relationships in the agencies that award contracts. This is the revolving door as competitive advantage: inside knowledge + personal relationships = preferred contractor status.
 
 **Vault profiles to update:** [[Raytheon Technologies]]
 
@@ -208,7 +208,7 @@ The UAW under Shawn Fain deployed its political operation almost entirely throug
 > **The UAW's political model is qualitatively different from corporate donors.** Where GEO Group gives directly to super PACs supporting Republicans, the UAW routes its money through party infrastructure (DSCC, DCCC) and outside groups (Senate Majority PAC, Workers Vote). The absence of revolving door lobbyists (0 of 3) vs. GEO Group (10 of 13) reflects the structural reality: corporate donors buy access through former government officials; unions buy access through electoral infrastructure. Both are access-buying, but the mechanisms differ.
 
 > [!contradiction]
-> **The UAW gave $1.7M to Senate Majority PAC while Senate Democrats voted to pass the IRA with its EV provisions that UAW subsequently fought.** The IRA's EV tax credits contained domestic content requirements that benefited union automakers — but also accelerated the transition to EVs, where battery manufacturing is being built non-union in the South. The UAW's $40M organizing drive is a direct response to the structural contradiction of endorsing the legislative agenda of politicians whose industrial policies are eliminating union jobs.
+> **The UAW gave $1.7M to Senate Majority PAC while Senate Democrats voted to pass the IRA with its EV provisions that UAW subsequently fought.** The IRA's EV tax credits contained domestic content requirements that benefited union automakers, but also accelerated the transition to EVs, where battery manufacturing is being built non-union in the South. The UAW's $40M organizing drive is a direct response to the structural contradiction of endorsing the legislative agenda of politicians whose industrial policies are eliminating union jobs.
 
 **Vault profiles to update:** [[United Auto Workers]]
 

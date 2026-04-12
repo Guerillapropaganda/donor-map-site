@@ -21,7 +21,7 @@ Net neutrality was not killed by ideology. It was killed by money flowing to bot
 The industry deliberately hedges its bets. AT&T gave 64.9% to Republicans in 2014 but 70.2% to Democrats in 2020. Comcast's PAC tilted Republican until 2022, when it flipped to 52.4% Democratic. In the 2016 cycle, Comcast gave to 360 House members (83%) and 52 senators; AT&T gave to 381 House members (88%) and all 91 senators who ran. At least 31 members of Congress owned Comcast shares and 50 owned Verizon shares in 2015. [OpenSecrets: AT&T Profile](https://www.opensecrets.org/orgs/at-t-inc/totals?id=d000000076) (Tier 1)
 
 > [!money]
-> Total telecom industry lobbying hit $94.8 million in 2018 — the year net neutrality was repealed — and rose to $117.6 million in 2023. [FEC Receipts: Telecom Industry Lobbying](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1)
+> Total telecom industry lobbying hit $94.8 million in 2018, the year net neutrality was repealed, and rose to $117.6 million in 2023. [FEC Receipts: Telecom Industry Lobbying](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1)
 
 ---
 
@@ -75,7 +75,7 @@ The holdouts included four representatives from Comcast's home state of Pennsylv
 Sinema was the only Senate Democrat not to co-sponsor the Save the Internet Act in 2019. Direct telecom donations to Sinema included AT&T PAC ($2,000), Verizon PAC ($1,000), Cox PAC ($2,500), plus $15,000 through her leadership PAC from NCTA, Charter, and Comcast PACs. A Comcast-lobbyist-run dark money super PAC (Center Forward Committee) spent $100,000 on ads supporting Sinema after she directed $150,000 to its coffers. [The American Prospect/Sludge: Kyrsten Sinema Anti-Net-Neutrality Super PAC Comcast Lobbyist](https://prospect.org/2019/11/08/kyrsten-sinema-anti-net-neutrality-super-pac-comcast-lobbyist/) (Tier 2)
 
 > [!contradiction]
-> Sinema partnered with [[_Roger Wicker Master Profile|Roger Wicker]] (R-MS, $93,700 from telecom in 2024) in a "working group" that never produced legislation — a bipartisan delay tactic funded by the same industry donors.
+> Sinema partnered with [[_Roger Wicker Master Profile|Roger Wicker]] (R-MS, $93,700 from telecom in 2024) in a "working group" that never produced legislation, a bipartisan delay tactic funded by the same industry donors.
 
 ### Biden-Era Complicity
 
@@ -158,7 +158,7 @@ The net neutrality story is not a simple Republican-kills/Democrat-defends narra
 Republicans killed net neutrality outright through the FCC vote, Senate blockade, and court challenges. Democrats enabled its killing through delay, defection, and inaction: 18 House Democrats refused to sign the discharge petition, Sinema was the sole Senate holdout, Biden's team failed to seat an FCC commissioner for 29 months, and the Democrats who controlled the confirmation calendar, [[_Chuck Schumer Master Profile|Schumer]] and [[_Maria Cantwell Master Profile|Cantwell]], were collecting the industry's largest checks.
 
 > [!contradiction]
-> The Democrats who publicly championed net neutrality — Schumer ($302,540), Cantwell ($221,642), Markey — received hundreds of thousands of dollars from the industry they claimed to be protecting consumers against. The industry gave to both sides because it needed both sides. The donor always wins. The public always loses.
+> The Democrats who publicly championed net neutrality. Schumer ($302,540), Cantwell ($221,642), Markey, received hundreds of thousands of dollars from the industry they claimed to be protecting consumers against. The industry gave to both sides because it needed both sides. The donor always wins. The public always loses.
 
 The telecom industry does not need Republicans to kill regulation and Democrats to fail at restoring it. It needs both to happen simultaneously. That requires funding both outcomes. $924 million in all-time lobbying and $145 million in contributions bought exactly that.
 

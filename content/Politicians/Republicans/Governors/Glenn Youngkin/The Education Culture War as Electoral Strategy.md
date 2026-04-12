@@ -37,7 +37,7 @@ None of this mattered electorally, because the campaign was not actually about C
 4. **School board accountability**, genuine frustration with school board governance that had become visible during COVID
 
 > [!money]
-> The critical insight is that the CRT controversy didn't require the premise to be true to be effective. When Youngkin's framing was presented — should schools teach white children they are "oppressors" and minority children they are "victims"? — 58% of Virginia likely voters said no. The question described something no Virginia school was doing. The polling response revealed the anxiety the question was designed to activate, not the policy reality it claimed to describe.
+> The critical insight is that the CRT controversy didn't require the premise to be true to be effective. When Youngkin's framing was presented, should schools teach white children they are "oppressors" and minority children they are "victims"?, 58% of Virginia likely voters said no. The question described something no Virginia school was doing. The polling response revealed the anxiety the question was designed to activate, not the policy reality it claimed to describe.
 
 ---
 
@@ -58,7 +58,7 @@ Youngkin's campaign built its education strategy on three tactical elements:
 Youngkin's personal campaign branding was inseparable from the education strategy. The fleece vest, worn to almost every public appearance, communicated "suburban dad" rather than "private equity co-CEO." The visual was a studied choice: it signaled that Youngkin shared the cultural environment of the suburban parents he was trying to win, rather than the boardrooms where he had actually spent his career.
 
 > [!contradiction]
-> Youngkin's education culture war positioned him as a defender of parents against a distant, unaccountable educational establishment. He is a Carlyle Group co-CEO worth $400-470M whose children attended private schools. His personal educational experience bears no resemblance to the public school parents he was mobilizing. The fleece vest was the costume that made the identification possible — a piece of clothing doing the ideological work of connecting a private equity billionaire to the anxieties of middle-class suburban parents.
+> Youngkin's education culture war positioned him as a defender of parents against a distant, unaccountable educational establishment. He is a Carlyle Group co-CEO worth $400-470M whose children attended private schools. His personal educational experience bears no resemblance to the public school parents he was mobilizing. The fleece vest was the costume that made the identification possible, a piece of clothing doing the ideological work of connecting a private equity billionaire to the anxieties of middle-class suburban parents.
 
 ---
 

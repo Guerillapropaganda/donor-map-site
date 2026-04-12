@@ -35,7 +35,7 @@ Illinois Future PAC emerged as the dominant force in the primary, spending $10-1
 What did Pritzker get in return? Political succession. [Stratton is positioned as the natural heir to Pritzker's Illinois political apparatus.](https://www.nbcnews.com/politics/2026-election/illinois-gov-jb-pritzker-spends-5-million-boost-pick-senate-state-rcna257067) Pritzker's 2028 presidential ambitions require a successor in the governor's mansion who will maintain his political network and power base. Stratton's Senate nomination, and likely election, eliminates her as a primary challenger to his preferred gubernatorial successor while elevating her as a nationally prominent Democrat (and future presidential prospect) within his orbit. The investment of $5 million is cheap patronage to secure a $50 billion governor's political legacy.
 
 > [!contradiction]
-> Illinois Future PAC framed itself as supporting "grassroots" anti-establishment momentum ("Strattmentum"), yet the PAC was almost entirely Pritzker family wealth—not grassroots at all. The rhetoric of grassroots insurgency masked billionaire patronage disguised as populism.
+> Illinois Future PAC framed itself as supporting "grassroots" anti-establishment momentum ("Strattmentum"), yet the PAC was almost entirely Pritzker family wealth, not grassroots at all. The rhetoric of grassroots insurgency masked billionaire patronage disguised as populism.
 
 ### Fairshake's Crypto Gamble: The Industry PAC Counter-Bet
 

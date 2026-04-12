@@ -74,7 +74,7 @@ National Nurses United represents class analysis embedded within labor organizin
 | Total Expenses | $13.5M |
 | Net Assets | $52.0M |
 
-- [Source: ProPublica Nonprofit Explorer — EIN 271450491](https://projects.propublica.org/nonprofits/organizations/271450491) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer - EIN 271450491](https://projects.propublica.org/nonprofits/organizations/271450491) (Tier 1)
 
 <!-- auto:propublica-990 end -->
 
@@ -112,16 +112,16 @@ National Nurses United represents class analysis embedded within labor organizin
 
 | Recipient | Amount | Party |
 |-----------|--------|-------|
-| NATIONAL NURSES UNITED FOR PATIENT PROTECTION | $19,823,405 | — |
-| PROGRESSIVE KICK INDEPENDENT EXPENDITURES | $2,113,000 | — |
-| SENATE MAJORITY PAC | $1,000,000 | — |
+| NATIONAL NURSES UNITED FOR PATIENT PROTECTION | $19,823,405 | - |
+| PROGRESSIVE KICK INDEPENDENT EXPENDITURES | $2,113,000 | - |
+| SENATE MAJORITY PAC | $1,000,000 | - |
 | DEVELOPMENT NOW FOR CHICAGO | $550,000 | DEM |
-| VOTE NURSES VALUES POLITICAL ACTION COMMITTEE: CALIFORNIA NURSES ASSOCIATION | $500,000 | — |
-| BATTLEGROUND NEW YORK | $250,000 | — |
-| FAIR FIGHT | $100,000 | — |
-| A PROGRESSIVE CALIFORNIA | $25,000 | — |
-| COLOROFCHANGE PAC | $25,000 | — |
-| WORKING FAMILIES PARTY INDEPENDENT EXPENDITURE COMMITTEE | $25,000 | — |
+| VOTE NURSES VALUES POLITICAL ACTION COMMITTEE: CALIFORNIA NURSES ASSOCIATION | $500,000 | - |
+| BATTLEGROUND NEW YORK | $250,000 | - |
+| FAIR FIGHT | $100,000 | - |
+| A PROGRESSIVE CALIFORNIA | $25,000 | - |
+| COLOROFCHANGE PAC | $25,000 | - |
+| WORKING FAMILIES PARTY INDEPENDENT EXPENDITURE COMMITTEE | $25,000 | - |
 
 - [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=National%20Nurses%20United) (Tier 1)
 <!-- auto:fec-donor end -->
@@ -137,12 +137,12 @@ National Nurses United represents class analysis embedded within labor organizin
 | Agencies | Antitrust Division, Consumer Financial Protection Bureau, Justice Department, Labor Department, National Labor Relations Board, Occupational Safety and Health Administration, Regulatory Information Service Center |
 
 **Recent regulatory activity:**
-- [United States, et al. v. UnitedHealth Group Incorporated, et al.; Response of Plaintiff United States to Public Comments on the Proposed Final Judgment](https://www.federalregister.gov/documents/2025/11/19/2025-20311/united-states-et-al-v-unitedhealth-group-incorporated-et-al-response-of-plaintiff-united-states-to) (2025-11-19) — Justice Department
-- [Semiannual Agenda of Regulations](https://www.federalregister.gov/documents/2025/09/22/2025-18336/semiannual-agenda-of-regulations) (2025-09-22) — Labor Department
-- [Occupational Exposure to COVID-19 in Healthcare Settings](https://www.federalregister.gov/documents/2025/01/15/2025-00632/occupational-exposure-to-covid-19-in-healthcare-settings) (2025-01-15) — Labor Department
-- [Debt Collection Practices (Regulation F); Deceptive and Unfair Collection of Medical Debt](https://www.federalregister.gov/documents/2024/10/04/2024-22962/debt-collection-practices-regulation-f-deceptive-and-unfair-collection-of-medical-debt) (2024-10-04) — Consumer Financial Protection Bureau
-- [Semiannual Agenda of Regulations](https://www.federalregister.gov/documents/2024/08/16/2024-16455/semiannual-agenda-of-regulations) (2024-08-16) — Labor Department
-- [Representation-Case Procedures: Election Bars; Proof of Majority Support in Construction Industry Collective-Bargaining Relationships](https://www.federalregister.gov/documents/2024/08/01/2024-16535/representation-case-procedures-election-bars-proof-of-majority-support-in-construction-industry) (2024-08-01) — National Labor Relations Board ★
+- [United States, et al. v. UnitedHealth Group Incorporated, et al.; Response of Plaintiff United States to Public Comments on the Proposed Final Judgment](https://www.federalregister.gov/documents/2025/11/19/2025-20311/united-states-et-al-v-unitedhealth-group-incorporated-et-al-response-of-plaintiff-united-states-to) (2025-11-19) - Justice Department
+- [Semiannual Agenda of Regulations](https://www.federalregister.gov/documents/2025/09/22/2025-18336/semiannual-agenda-of-regulations) (2025-09-22) - Labor Department
+- [Occupational Exposure to COVID-19 in Healthcare Settings](https://www.federalregister.gov/documents/2025/01/15/2025-00632/occupational-exposure-to-covid-19-in-healthcare-settings) (2025-01-15) - Labor Department
+- [Debt Collection Practices (Regulation F); Deceptive and Unfair Collection of Medical Debt](https://www.federalregister.gov/documents/2024/10/04/2024-22962/debt-collection-practices-regulation-f-deceptive-and-unfair-collection-of-medical-debt) (2024-10-04) - Consumer Financial Protection Bureau
+- [Semiannual Agenda of Regulations](https://www.federalregister.gov/documents/2024/08/16/2024-16455/semiannual-agenda-of-regulations) (2024-08-16) - Labor Department
+- [Representation-Case Procedures: Election Bars; Proof of Majority Support in Construction Industry Collective-Bargaining Relationships](https://www.federalregister.gov/documents/2024/08/01/2024-16535/representation-case-procedures-election-bars-proof-of-majority-support-in-construction-industry) (2024-08-01) - National Labor Relations Board ★
 - ... and 22 more
 
 - [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22National%20Nurses%20United%22) (Tier 1)
@@ -181,19 +181,19 @@ National Nurses United represents class analysis embedded within labor organizin
 
 **Funded politicians:**
 
-- [[Bernie Sanders]] — lobbying: $3.1M
-- [[Sarah Huckabee Sanders]] — lobbying: $3.1M
-- [[Mark Takano]] (Veterans' Affairs) — lobbying: $3.1M
-- [[Raul Grijalva]] (Environment & Public Works) — lobbying: $3.1M
-- [[Tammy Baldwin]] — lobbying: $3.1M
-- [[Jim McGovern]] — lobbying: $3.1M
+- [[Bernie Sanders]] - lobbying: $3.1M
+- [[Sarah Huckabee Sanders]] - lobbying: $3.1M
+- [[Mark Takano]] (Veterans' Affairs) - lobbying: $3.1M
+- [[Raul Grijalva]] (Environment & Public Works) - lobbying: $3.1M
+- [[Tammy Baldwin]] - lobbying: $3.1M
+- [[Jim McGovern]] - lobbying: $3.1M
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-07.*
 <!-- auto:influence-cross-ref end -->
 
 <!-- auto:influence-cross-ref pending-merge 2026-04-12 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+> [!attention] Fresh API data available - needs manual merge
+> Bot detected your edits to this section. New data below - fold in what's useful, then delete this block.
 
 | Metric | Value |
 |--------|-------|
@@ -209,12 +209,12 @@ National Nurses United represents class analysis embedded within labor organizin
 
 **Funded politicians:**
 
-- [[Bernie Sanders]] (Health, Education, Labor & Pensions (Ranking Member, 119th Congress)) — lobbying: $3.1M
-- [[Sarah Huckabee Sanders]] — lobbying: $3.1M
-- [[Mark Takano]] (Veterans' Affairs) — lobbying: $3.1M
-- [[Raul Grijalva]] (Environment & Public Works) — lobbying: $3.1M
-- [[Tammy Baldwin]] — lobbying: $3.1M
-- [[Jim McGovern]] — lobbying: $3.1M
+- [[Bernie Sanders]] (Health, Education, Labor & Pensions (Ranking Member, 119th Congress)) - lobbying: $3.1M
+- [[Sarah Huckabee Sanders]] - lobbying: $3.1M
+- [[Mark Takano]] (Veterans' Affairs) - lobbying: $3.1M
+- [[Raul Grijalva]] (Environment & Public Works) - lobbying: $3.1M
+- [[Tammy Baldwin]] - lobbying: $3.1M
+- [[Jim McGovern]] - lobbying: $3.1M
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-12.*
 

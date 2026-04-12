@@ -23,7 +23,7 @@ California under Newsom has produced genuine, measurable clean energy progress. 
 **2045 Carbon Neutrality Goal**. California's official target. Progress is real but the trajectory does not currently meet the goal without significant additional action.
 
 > [!money]
-> **The Structural Limit Built In:** While Newsom's ZEV mandate is real, California's renewable electricity target (100% by 2045) creates a structural constraint. If 100% of electricity is not clean by 2035, all-electric vehicles cannot operate cleanly. California's progress toward 2045 is currently insufficient to meet the 2035 EV target's implied demand. This is a timing gap that Newsom has not addressed — the mandate commits to vehicle electrification before the grid is clean. This allows both policies to claim success while operating in tension.
+> **The Structural Limit Built In:** While Newsom's ZEV mandate is real, California's renewable electricity target (100% by 2045) creates a structural constraint. If 100% of electricity is not clean by 2035, all-electric vehicles cannot operate cleanly. California's progress toward 2045 is currently insufficient to meet the 2035 EV target's implied demand. This is a timing gap that Newsom has not addressed, the mandate commits to vehicle electrification before the grid is clean. This allows both policies to claim success while operating in tension.
 
 ---
 
@@ -61,7 +61,7 @@ BUT: Between January 2019 and early 2025:
 The fracking ban is real. The broader shift away from new oil permitting is real. But the first three years of his tenure saw massive permitting: the 18,500+ permits issued between 2019-2024 represent decades of future extraction. When Newsom signed the EV mandate in 2020, he was simultaneously approving hundreds of new oil wells per month. Both are rational within different constituencies, the clean energy mandate for climate voters, the oil permitting for energy security hawks and oil industry donors.
 
 > [!contradiction]
-> **The Simultaneous Expansion and Contraction:** Newsom's administration issued its highest permit counts (2,366 in 2019, ~2,000 annually through 2021) during the exact years he was negotiating and signing his most aggressive clean energy commitments. The contradiction is not hypocrisy but system design — a Democrat can issue EV mandates that respond to climate constituencies while issuing oil permits that respond to energy security and business constituencies, and both moves are framed as pragmatic and necessary.
+> **The Simultaneous Expansion and Contraction:** Newsom's administration issued its highest permit counts (2,366 in 2019, ~2,000 annually through 2021) during the exact years he was negotiating and signing his most aggressive clean energy commitments. The contradiction is not hypocrisy but system design, a Democrat can issue EV mandates that respond to climate constituencies while issuing oil permits that respond to energy security and business constituencies, and both moves are framed as pragmatic and necessary.
 
 ---
 

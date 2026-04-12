@@ -55,7 +55,7 @@ The 1995 Sacks-Thiel co-authored book argued that multiculturalism was a form of
 The arc: Stanford culture war polemics (1995) → PayPal exits (2002) → venture capital empire (2010s) → political donations to reshape the Republican Party (2020s) → government positions to implement the deregulatory agenda (2025). The ideology and the capital moved together.
 
 > [!quote]
-> "We've got to let the private sector cook." — [[_David Sacks Master Profile|David Sacks]], articulating his AI regulation philosophy as White House AI Czar, 2025
+> "We've got to let the private sector cook.", [[_David Sacks Master Profile|David Sacks]], articulating his AI regulation philosophy as White House AI Czar, 2025
 
 ---
 

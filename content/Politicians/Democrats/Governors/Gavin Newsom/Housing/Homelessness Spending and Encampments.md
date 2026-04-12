@@ -49,7 +49,7 @@ Total state homelessness spending under Newsom: estimates range from $15–24 bi
 
 ### The California State Auditor Finding (2021):
 > [!contradiction]
-> The state cannot demonstrate outcomes for most of its homelessness spending. The auditor found that HHAP grant recipients frequently could not document how funds were spent or what results were achieved. California was disbursing billions with minimal tracking infrastructure. This is not a small finding — it is the auditor of the state's own government saying the program has no accountability mechanism.
+> The state cannot demonstrate outcomes for most of its homelessness spending. The auditor found that HHAP grant recipients frequently could not document how funds were spent or what results were achieved. California was disbursing billions with minimal tracking infrastructure. This is not a small finding, it is the auditor of the state's own government saying the program has no accountability mechanism.
 
 ---
 
@@ -115,7 +115,7 @@ Track these specific Newsom framing moves on homelessness:
 > [!money]
 > **Genuine win:** Homekey is real policy. 14,000–15,000 permanent housing units at $200,000–$300,000 per unit (vs. $500,000+ for new construction) is cost-effective and produces actual permanent housing. It works. It should be credited.
 >
-> **Structural limit:** One housing unit for every 12 unhoused people in California. Homekey is a genuine win that cannot be mistaken for a solution. The broader homelessness strategy — $15–24 billion in spending with no accountability mechanism (per the State Auditor), followed by aggressive encampment clearing without housing alternative — reveals the underlying priorities. The money goes to services, enforcement, and property value protection, not to addressing the housing affordability crisis that produces homelessness. Newsom spends on homelessness while refusing to address the structural housing costs that produce it.
+> **Structural limit:** One housing unit for every 12 unhoused people in California. Homekey is a genuine win that cannot be mistaken for a solution. The broader homelessness strategy, $15–24 billion in spending with no accountability mechanism (per the State Auditor), followed by aggressive encampment clearing without housing alternative, reveals the underlying priorities. The money goes to services, enforcement, and property value protection, not to addressing the housing affordability crisis that produces homelessness. Newsom spends on homelessness while refusing to address the structural housing costs that produce it.
 
 ### 2. The Villain Framing
 Homelessness is framed as a mental health crisis, a behavioral problem, or an individual failing. The villain is addiction, untreated mental illness, or personal dysfunction. The structural issue, that working-class people cannot afford California housing and become unhoused when they lose employment or face medical emergency, is missing from the official narrative. The framing allows massive spending on behavioral health services and law enforcement clearing while the housing affordability mechanism itself remains untouched. The real villain in the class analysis is the housing market design that makes shelter unaffordable for working-class people; that never becomes part of the story.
@@ -126,7 +126,7 @@ Homelessness is framed as a mental health crisis, a behavioral problem, or an in
 >
 > Newsom's position to real estate interests and property owner constituencies: "We're clearing the visible encampments. We're moving people. We're restoring order."
 >
-> The resolution: One message for advocates emphasizes spending and compassion. One message for property owners emphasizes clearing and order. The encampment clearing language — "defecating in the streets," "open-air drug markets," "the madness" — is coded property protection, not policy. The population remains unhoused; it is simply dispersed. Newsom can tell both audiences he won.
+> The resolution: One message for advocates emphasizes spending and compassion. One message for property owners emphasizes clearing and order. The encampment clearing language, "defecating in the streets," "open-air drug markets," "the madness", is coded property protection, not policy. The population remains unhoused; it is simply dispersed. Newsom can tell both audiences he won.
 
 ### 4. The Pilot Program
 Homekey is genuinely designed and implemented as a program. But it is presented as the strategy while remaining insufficient in scale. The other 12 unhoused people per unit produced continue to be managed through encampment clearing, services, and behavioral health frameworks. Each program (Homekey, CARE Court, encampment resolution) can be described as an initiative while the broader homelessness strategy remains fragmented and accountability-free. The State Auditor found no outcome tracking on $3B+ in HHAP grants, meaning the programs themselves cannot demonstrate whether they work. The pilot framing allows Newsom to claim action and innovation while outcome data remains absent.

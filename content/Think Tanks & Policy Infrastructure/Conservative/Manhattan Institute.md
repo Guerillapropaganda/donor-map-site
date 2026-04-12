@@ -146,7 +146,7 @@ May 2025: Rufo appears on PBS NewsHour defending Trump's campaign to "end wokeis
 | 2025 | Dept. of Education | MI "Manhattan Statement" | Education Secretary Linda McMahon endorses MI's higher education reform framework | <1 yr |
 
 > [!money]
-> The Rufo pipeline is the cleanest idea-laundering operation in current conservative policy. An MI-funded fellow produces briefing books and model legislation → state legislators introduce the bills verbatim → 20+ states pass anti-DEI laws → the federal executive order arrives using the same framing. The research "launders" what is functionally a political strategy into something that can be cited as independent scholarship. The donors — hedge fund managers and finance capital figures whose industries are never the target of DEI policy — fund the operation. The working class and public-sector employees bear the cost when DEI programs protecting them are abolished. ROI for the donor class: measurable. Cost to workers: also measurable. Connection between them: never stated in the research.
+> The Rufo pipeline is the cleanest idea-laundering operation in current conservative policy. An MI-funded fellow produces briefing books and model legislation → state legislators introduce the bills verbatim → 20+ states pass anti-DEI laws → the federal executive order arrives using the same framing. The research "launders" what is functionally a political strategy into something that can be cited as independent scholarship. The donors, hedge fund managers and finance capital figures whose industries are never the target of DEI policy, fund the operation. The working class and public-sector employees bear the cost when DEI programs protecting them are abolished. ROI for the donor class: measurable. Cost to workers: also measurable. Connection between them: never stated in the research.
 
 ---
 
@@ -167,7 +167,7 @@ MI functions as a Republican policy staffing pipeline as much as a research inst
 - **Betsy DeVos**. MI Trustee → Trump Secretary of Education (2017–2021). DeVos promoted school choice and charter school expansion, core MI policy positions.
 
 > [!contradiction]
-> The Manhattan Institute presents itself as an independent research institution that rigorously tests policy ideas. In practice, its board members become cabinet secretaries, its fellows write legislation that gets passed verbatim in dozens of states, and its chairman funds the president who implements its agenda. The "independent" label is operational — it allows politicians to cite "research" rather than donor interests. When William Barr sits on the board of the think tank whose policing research he later uses to justify federal responses to protest, "independence" is not the right word.
+> The Manhattan Institute presents itself as an independent research institution that rigorously tests policy ideas. In practice, its board members become cabinet secretaries, its fellows write legislation that gets passed verbatim in dozens of states, and its chairman funds the president who implements its agenda. The "independent" label is operational, it allows politicians to cite "research" rather than donor interests. When William Barr sits on the board of the think tank whose policing research he later uses to justify federal responses to protest, "independence" is not the right word.
 
 ---
 

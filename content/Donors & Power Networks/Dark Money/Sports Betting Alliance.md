@@ -57,7 +57,7 @@ The Sports Betting Alliance distributed an estimated $100M+ across 2020-2024 cyc
 
 The Sports Betting Alliance has secured: legalization of sports betting in 40+ states (up from 0 in 2018), minimal taxation of betting operations (typically 8-15% effective rates despite 20%+ potential), minimal age verification and responsible gambling requirements, unlimited advertising rights, and regulatory approval for expanding betting products. The industry's rapid expansion from $0 to $40B+ annual revenue demonstrates successful lobbying against taxation and regulation.
 
-> [!money] The Sports Betting Alliance's $100M+ spending has prevented states from capturing meaningful tax revenue from sports betting legalization. The industry's $40B+ annual revenue base pays minimal taxes to states that legalized gambling—the most successful case study in 2020s regulatory capture, where industry funding prevented tax collection from profitable gambling operations.
+> [!money] The Sports Betting Alliance's $100M+ spending has prevented states from capturing meaningful tax revenue from sports betting legalization. The industry's $40B+ annual revenue base pays minimal taxes to states that legalized gambling, the most successful case study in 2020s regulatory capture, where industry funding prevented tax collection from profitable gambling operations.
 
 ### Class Analysis
 

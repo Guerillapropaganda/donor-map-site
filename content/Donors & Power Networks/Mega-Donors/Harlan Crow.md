@@ -67,7 +67,7 @@ Crow's business interests have appeared in or been connected to at least four Su
 - **2005 architecture firm case**, firm sought $25M+ from Trammell Crow Residential
 
 > [!money]
-> The $4.75M in gifts is not philanthropy — it's the cost of maintaining access to a Supreme Court justice whose votes affect billions in real estate value. Crow's real estate empire benefits from every decision weakening regulatory authority, reducing government oversight, and expanding property rights. Thomas has been the Court's most reliable vote for all three. The gifts purchased not a single favorable ruling but a 30-year pattern of favorable jurisprudence — a lifetime subscription to a justice who delivers the donor class's preferred outcomes on every significant property and regulatory case.
+> The $4.75M in gifts is not philanthropy, it's the cost of maintaining access to a Supreme Court justice whose votes affect billions in real estate value. Crow's real estate empire benefits from every decision weakening regulatory authority, reducing government oversight, and expanding property rights. Thomas has been the Court's most reliable vote for all three. The gifts purchased not a single favorable ruling but a 30-year pattern of favorable jurisprudence, a lifetime subscription to a justice who delivers the donor class's preferred outcomes on every significant property and regulatory case.
 
 ---
 
@@ -109,7 +109,7 @@ The Cornel West donation is the tell. Crow funded a third-party candidate who wo
 | 2024-12 | Senate Judiciary Committee report: gifts "no comparison in modern history" |, | Committee votes to subpoena Crow and Leo |, | Crow does not comply with subpoena |
 
 > [!money] The 400% Ramp
-> OpenSecrets documented that Crow's political spending increased 400%+ after meeting Clarence Thomas in 1996. Before Thomas, Crow was a minor Republican donor. After Thomas, Crow became a mega-donor funding the NRSC ($1.1M), SLF ($725K), DonorsTrust (undisclosed), Koch network events, and Liberty Central ($500K). The relationship with Thomas didn't just give Crow access to one justice — it connected him to the entire conservative dark money ecosystem (Leo, Koch, Federalist Society) that Thomas is embedded in. The $4.75M in gifts to Thomas was the entry fee to a network worth billions in favorable jurisprudence.
+> OpenSecrets documented that Crow's political spending increased 400%+ after meeting Clarence Thomas in 1996. Before Thomas, Crow was a minor Republican donor. After Thomas, Crow became a mega-donor funding the NRSC ($1.1M), SLF ($725K), DonorsTrust (undisclosed), Koch network events, and Liberty Central ($500K). The relationship with Thomas didn't just give Crow access to one justice, it connected him to the entire conservative dark money ecosystem (Leo, Koch, Federalist Society) that Thomas is embedded in. The $4.75M in gifts to Thomas was the entry fee to a network worth billions in favorable jurisprudence.
 
 ---
 

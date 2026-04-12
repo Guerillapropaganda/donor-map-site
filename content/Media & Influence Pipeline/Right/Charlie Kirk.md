@@ -39,7 +39,7 @@ Kirk operated three interlocking revenue streams that made him simultaneously a 
 **Additional revenue:** Speaking fees reported at $10,000+ per appearance. TPUSA also operated *Turning Point Faith* (religious outreach) and *Turning Point Academy* (K-12 expansion), each functioning as additional funding funnels.
 
 > [!money]
-> Kirk's compensation structure reveals the dependency chain: he was not a media entrepreneur who built an independent audience and sold advertising. He was a nonprofit executive whose platform was funded by mega-donors and whose salary was paid by those donors' foundations. When the Bradley Impact Fund gives $23.6 million to TPUSA, Kirk gets paid. When Wayne Duddlesten gives $13.1 million, Kirk gets paid. The Salem deal added a corporate media layer on top — but the infrastructure that made him a credible radio personality was bought by the donor class first. Independence is the branding. The receipts say otherwise.
+> Kirk's compensation structure reveals the dependency chain: he was not a media entrepreneur who built an independent audience and sold advertising. He was a nonprofit executive whose platform was funded by mega-donors and whose salary was paid by those donors' foundations. When the Bradley Impact Fund gives $23.6 million to TPUSA, Kirk gets paid. When Wayne Duddlesten gives $13.1 million, Kirk gets paid. The Salem deal added a corporate media layer on top, but the infrastructure that made him a credible radio personality was bought by the donor class first. Independence is the branding. The receipts say otherwise.
 
 ---
 
@@ -70,7 +70,7 @@ Multiple Koch-adjacent funding vehicles (including Stand Together and its affili
 Publix supermarket heiress. Gave $1.25 million to Kirk's organizations specifically to fund transportation to the January 6, 2021 Stop the Steal rally.
 
 > [!money]
-> TPUSA's $82–85 million annual revenue (2022–2024) is one of the largest budgets for any conservative youth organization in American history. It dwarfs comparable left-wing campus organizing networks by a factor of 5–10x. This is not organic. The Lynde and Harry Bradley Foundation didn't give $23.6 million to a college student's 501(c)(3) because they believed in student-led activism. They gave it because Kirk's platform reliably delivered the donor class's culture-war agenda — anti-union, anti-regulation, anti-DEI, climate-skeptic — packaged in youth-friendly content and embedded in 2,000 campus chapters nationally.
+> TPUSA's $82–85 million annual revenue (2022–2024) is one of the largest budgets for any conservative youth organization in American history. It dwarfs comparable left-wing campus organizing networks by a factor of 5–10x. This is not organic. The Lynde and Harry Bradley Foundation didn't give $23.6 million to a college student's 501(c)(3) because they believed in student-led activism. They gave it because Kirk's platform reliably delivered the donor class's culture-war agenda, anti-union, anti-regulation, anti-DEI, climate-skeptic, packaged in youth-friendly content and embedded in 2,000 campus chapters nationally.
 
 ### FEC Record
 
@@ -104,7 +104,7 @@ Kirk's content mapped almost precisely to the policy priorities of his donor cla
 **K-12 Expansion.** By 2025, TPUSA had over 1,000 high school chapters, a pipeline designed to capture conservative identity formation before voters reach college age.
 
 > [!contradiction]
-> Kirk positioned himself as a grassroots champion of "free speech on campus" and an anti-establishment rebel against elite institutions. But TPUSA's entire operational budget flows from the wealthiest segment of the American establishment — Home Depot billionaires, Texas real estate dynasties, Milwaukee foundation executives, and Koch-network intermediaries. The "anti-elite" rebellion was funded by the elite, top-down, from the beginning.
+> Kirk positioned himself as a grassroots champion of "free speech on campus" and an anti-establishment rebel against elite institutions. But TPUSA's entire operational budget flows from the wealthiest segment of the American establishment. Home Depot billionaires, Texas real estate dynasties, Milwaukee foundation executives, and Koch-network intermediaries. The "anti-elite" rebellion was funded by the elite, top-down, from the beginning.
 
 ---
 
@@ -138,7 +138,7 @@ Kirk's audience capture operated through a dual mechanism: institutional infrast
 | Sep 18, 2025 | Erika Kirk named TPUSA CEO | Board, Erika Kirk | N/A | Donor class infrastructure survives founder's death, proving it was never about Kirk personally |
 
 > [!money]
-> The timeline's most analytically significant data point is the final row: Erika Kirk — Kirk's widow, with no prior organizational leadership experience — was installed as CEO within nine days. The donor class didn't skip a beat. This is how infrastructure works: the brand is replaceable, the money flows and chapters continue. Kirk was always the face of an apparatus built and owned by someone else.
+> The timeline's most analytically significant data point is the final row: Erika Kirk. Kirk's widow, with no prior organizational leadership experience, was installed as CEO within nine days. The donor class didn't skip a beat. This is how infrastructure works: the brand is replaceable, the money flows and chapters continue. Kirk was always the face of an apparatus built and owned by someone else.
 
 ---
 

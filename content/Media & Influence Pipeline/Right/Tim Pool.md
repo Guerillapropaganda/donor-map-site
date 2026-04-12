@@ -25,7 +25,7 @@ By 2017–2018, that trajectory had reversed. Pool repositioned as a "disaffecte
 The Occupy livestreamer became the pipeline for Russian state media content. The arc is the story.
 
 > [!money]
-> Pool's audience capture is not incidental — it's the product. The funding model (sponsorships, Super Chats, Tenet Media contracts) rewards content that keeps audiences engaged and radicalized. Russian state media didn't need to force Pool to produce useful content. They paid for the infrastructure that was already producing it.
+> Pool's audience capture is not incidental, it's the product. The funding model (sponsorships, Super Chats, Tenet Media contracts) rewards content that keeps audiences engaged and radicalized. Russian state media didn't need to force Pool to produce useful content. They paid for the infrastructure that was already producing it.
 
 ### FEC Record
 
@@ -36,7 +36,7 @@ The FEC API returns 1,231 results for "pool, tim", a demographic bottleneck. Fil
 
 - [FEC: Tim Pool individual contributions (1,231 results, requires disambiguation)](https://www.fec.gov/data/receipts/?contributor_name=pool%2C+tim) (Tier 1)
 
-> **Disambiguation note:** The FEC API search for "pool, tim" returns 1,231 results — "Tim" and "Pool" are both extremely common names. Filtering by Texas (known state of residence during podcast era) and self-employed/media occupation yields no confirmed matches to the Timcast media personality. The volume of results (1,231) indicates the name is too common for definitive API matching without biographical data in the FEC records themselves. Best available evidence: $0 personal contributions from the media figure, though disambiguation cannot be conclusively established via API alone.
+> **Disambiguation note:** The FEC API search for "pool, tim" returns 1,231 results, "Tim" and "Pool" are both extremely common names. Filtering by Texas (known state of residence during podcast era) and self-employed/media occupation yields no confirmed matches to the Timcast media personality. The volume of results (1,231) indicates the name is too common for definitive API matching without biographical data in the FEC records themselves. Best available evidence: $0 personal contributions from the media figure, though disambiguation cannot be conclusively established via API alone.
 
 ---
 
@@ -57,7 +57,7 @@ Pool's revenue runs through multiple streams that collectively produce an estima
 **Tenet Media payments (2023–2024):** Per DOJ indictment, Pool received approximately **$100,000 per episode** for a weekly show produced for Tenet Media, money that originated with RT (Russia Today) and was routed through shell companies in Turkey, the UAE, and Mauritius. (See Tenet Media section below.)
 
 > [!money]
-> The Tenet Media payment structure — $100,000/week for a weekly show — represents roughly **$4–5 million annualized** from a single opaque contract. That figure dwarfs Pool's entire other revenue combined. The question the "unwitting victim" framing doesn't answer: what editorial value did RT get for that rate, and did the content deliver it?
+> The Tenet Media payment structure, $100,000/week for a weekly show, represents roughly **$4–5 million annualized** from a single opaque contract. That figure dwarfs Pool's entire other revenue combined. The question the "unwitting victim" framing doesn't answer: what editorial value did RT get for that rate, and did the content deliver it?
 
 ---
 
@@ -91,7 +91,7 @@ Pool's content evolved in lockstep with his funding model's shift rightward:
 **Russia-aligned narratives (Tenet period):** Per the DOJ indictment, the content Pool produced for Tenet, on immigration, inflation, and U.S. foreign policy, aligned with Russian messaging priorities. The indictment describes the operation's goal as amplifying "domestic divisions in the United States."
 
 > [!contradiction]
-> Pool's entire brand rests on being the independent everyman skeptic of corporate power and elite capture — the beanie-wearing dropout who just asks questions. His funding model during 2023–2024 consisted of a $400K/month payment from Russian state media laundered through shell companies. The contradiction isn't subtle: the anti-establishment commentator was, by DOJ account, the establishment's most valuable content asset.
+> Pool's entire brand rests on being the independent everyman skeptic of corporate power and elite capture, the beanie-wearing dropout who just asks questions. His funding model during 2023–2024 consisted of a $400K/month payment from Russian state media laundered through shell companies. The contradiction isn't subtle: the anti-establishment commentator was, by DOJ account, the establishment's most valuable content asset.
 
 ---
 
@@ -142,7 +142,7 @@ Pool's platform operates on a closed feedback loop that has no natural correctio
 | Early 2025 | Trump administration grants Timcast White House press pool credentials | Trump White House, Tim Pool |, | Russian-money recipient becomes official White House correspondent; institutional capture complete |
 
 > [!money]
-> The Tenet timeline makes the ROI calculation explicit: RT spent $9.7M over ~10 months to produce 2,000 videos with 16M views on U.S. platforms — at cost-per-view rates that would be competitive with legitimate advertising, but with the added value of complete deniability and authentic American creator credibility. Pool's "victim" status, even if legally accurate, doesn't change what was purchased.
+> The Tenet timeline makes the ROI calculation explicit: RT spent $9.7M over ~10 months to produce 2,000 videos with 16M views on U.S. platforms, at cost-per-view rates that would be competitive with legitimate advertising, but with the added value of complete deniability and authentic American creator credibility. Pool's "victim" status, even if legally accurate, doesn't change what was purchased.
 
 ---
 

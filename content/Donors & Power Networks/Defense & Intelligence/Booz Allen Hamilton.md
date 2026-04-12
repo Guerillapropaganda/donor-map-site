@@ -97,7 +97,7 @@ Sustained and increased federal IT spending, expanded cybersecurity contracts, f
 **Intelligence Community Integration:** Booz Allen personnel hold TS/SCI clearances and work alongside government employees in intelligence agencies. The integration is so deep that the line between government function and contractor function is functionally erased. The Snowden case demonstrated that contractors perform core intelligence functions, including access to the most classified surveillance programs, with less oversight than government employees.
 
 > [!money]
-> Booz Allen's $11 billion in revenue — 97% from government contracts — makes the company entirely dependent on federal spending. The company's $3-5 million annual political investment protects a revenue stream that flows from taxpayers through federal agencies to contractor shareholders. Booz Allen's $1-2 million PAC contributions to members of Congress who appropriate defense and intelligence spending is the cost of maintaining the contractor-dependent government model that generates the company's entire revenue.
+> Booz Allen's $11 billion in revenue, 97% from government contracts, makes the company entirely dependent on federal spending. The company's $3-5 million annual political investment protects a revenue stream that flows from taxpayers through federal agencies to contractor shareholders. Booz Allen's $1-2 million PAC contributions to members of Congress who appropriate defense and intelligence spending is the cost of maintaining the contractor-dependent government model that generates the company's entire revenue.
 
 ---
 

@@ -57,7 +57,7 @@ AIPAC is not a grassroots organization. It is a donor-class political weapon. It
 The class function: AIPAC converts billionaire money into congressional compliance on Israel policy. The mechanism is the primary election. AIPAC doesn't need every member of Congress to love Israel. It needs every member of Congress to fear the cost of criticizing Israel. That cost is a $10-20 million independent expenditure campaign against you in your own primary.
 
 > [!money]
-> In 2024, the Israel lobby donated $44.6 million directly to House and Senate candidates — more than double the $17.2 million in 2021-22 and triple the $12.7 million in 2019-20. Democrats received $23.16 million (214 candidates). Republicans received $13.58 million (179 candidates). This is bipartisan — the money goes to whoever serves the interest. [Source: OpenSecrets — Tier 1]
+> In 2024, the Israel lobby donated $44.6 million directly to House and Senate candidates, more than double the $17.2 million in 2021-22 and triple the $12.7 million in 2019-20. Democrats received $23.16 million (214 candidates). Republicans received $13.58 million (179 candidates). This is bipartisan, the money goes to whoever serves the interest. [Source: OpenSecrets. Tier 1]
 
 ---
 
@@ -113,11 +113,11 @@ In 2024, the remaining pro-Israel sector lobbying was distributed across J Stree
 , Most spending targeted Democratic primaries, punishing Israel critics
 
 > [!money]
-> **The Primary Weapon — How AIPAC Disciplines Congress:**
-> — $9.9 million opposing Rep. Jamaal Bowman (NY-16) — the most expensive House primary in American history. Bowman, a vocal critic of Israeli military operations in Gaza, lost his primary to George Latimer, whom AIPAC supported with $4.8 million.
-> — Supported Wesley Bell's primary challenge to Rep. Cori Bush (MO-1) — Bush, a member of "The Squad" who called for a ceasefire, lost her primary.
-> — The message to every other member of Congress: criticize Israel, and $10 million appears in your primary.
-> [Source: OpenSecrets / FactCheck.org — Tier 1/2]
+> **The Primary Weapon. How AIPAC Disciplines Congress:**
+>, $9.9 million opposing Rep. Jamaal Bowman (NY-16), the most expensive House primary in American history. Bowman, a vocal critic of Israeli military operations in Gaza, lost his primary to George Latimer, whom AIPAC supported with $4.8 million.
+>. Supported Wesley Bell's primary challenge to Rep. Cori Bush (MO-1). Bush, a member of "The Squad" who called for a ceasefire, lost her primary.
+>. The message to every other member of Congress: criticize Israel, and $10 million appears in your primary.
+> [Source: OpenSecrets / FactCheck.org. Tier 1/2]
 
 ### Bipartisan spending profile:
 Pro-Israel PACs gave to 356 House members ($24 million) and 40 senators ($7.6 million) in 2024. The coverage is near-universal, this is not about electing specific allies but about maintaining a floor of compliance across the entire institution.
@@ -129,7 +129,7 @@ A critical structural feature of AIPAC's bundling operation is cross-party donor
 This reveals AIPAC's true function: not partisan alignment, but donor-class discipline. AIPAC channels wealthy Republican donors into Democratic primaries to punish Israel critics. In the Bowman-Latimer race, approximately 40% of Latimer's AIPAC-channeled donors had previously given to Republicans. This mechanism ensures that primary defeat of an Israel critic is funded not just by Democratic donors but by Republican donors passing capital through AIPAC's bundling operation.
 
 > [!money]
-> This cross-party donor pipeline explains why AIPAC spending in Democratic primaries appears "bipartisan" — it literally is. Republican hedge fund managers and venture capitalists fund attacks on progressive Democrats through AIPAC's bundling conduit, creating a class alliance that cuts across party lines on Israel policy.
+> This cross-party donor pipeline explains why AIPAC spending in Democratic primaries appears "bipartisan", it literally is. Republican hedge fund managers and venture capitalists fund attacks on progressive Democrats through AIPAC's bundling conduit, creating a class alliance that cuts across party lines on Israel policy.
 
 ### United Democracy Project Top Donors (2023-2024):
 | Date | Event | Amount | Source |
@@ -174,7 +174,7 @@ Beyond direct electoral spending, AIPAC's charitable affiliate, the American Isr
 , **In 2025 alone, House members and staff accepted 156 invitations to Israel in the first nine months**, exceeding the 117 trips of the entire previous year ([Mondoweiss. UNVERIFIED](https://mondoweiss.net/2025/12/inside-the-israel-lobbys-lesser-known-tool-for-influencing-congress-free-travel/))
 
 > [!contradiction]
-> AIPAC frames AIEF trips as "educational" and "cultural exchange," yet the program functions as a direct lobbying tool — funded and controlled by AIPAC, targeting members of Congress, with explicit policy outcomes. The 2007 loophole that AIPAC itself lobbied for turns luxury travel into a legal lobbying mechanism disguised as philanthropy.
+> AIPAC frames AIEF trips as "educational" and "cultural exchange," yet the program functions as a direct lobbying tool, funded and controlled by AIPAC, targeting members of Congress, with explicit policy outcomes. The 2007 loophole that AIPAC itself lobbied for turns luxury travel into a legal lobbying mechanism disguised as philanthropy.
 
 ---
 
@@ -330,7 +330,7 @@ AIPAC-backed candidates won **2 of 4** targeted Chicago-area House races, a mixe
 **March 21 FEC filings reveal:** UDP contributed **$5.3 million** of the **$14.1 million** raised by AIPAC's anonymous shell groups (Affordable Chicago Now, Elect Chicago Women). These filings confirm AIPAC's super PAC directly seeded the supposedly independent shell PACs, connecting the entire funding chain: UDP → shell PACs → candidate support.
 
 > [!money]
-> AIPAC's 2026 cumulative direct contributions: **$28 million** delivered to congressional campaigns in the 2025-2026 cycle (Sludge/FEC analysis, March 2026). Through H1 2025 alone, AIPAC PAC reported $12.75M in contributions — more than **3x the next-largest PAC** (National Association of Realtors). Total 2026 cycle outside spending across all vehicles is on pace to exceed $200M.
+> AIPAC's 2026 cumulative direct contributions: **$28 million** delivered to congressional campaigns in the 2025-2026 cycle (Sludge/FEC analysis, March 2026). Through H1 2025 alone, AIPAC PAC reported $12.75M in contributions, more than **3x the next-largest PAC** (National Association of Realtors). Total 2026 cycle outside spending across all vehicles is on pace to exceed $200M.
 
 - [NBC News: AIPAC super PAC funded big-spending Illinois groups](https://www.nbcnews.com/politics/2026-election/aipac-super-pac-funded-illinois-groups-democratic-primaries-israel-rcna264379) (Tier 2)
 - [Axios: AIPAC notches first real 2026 Democratic primary wins](https://www.axios.com/2026/03/18/aipac-illinois-primary-biss-abughazaleh-bean) (Tier 2)
@@ -393,7 +393,7 @@ The "bipartisan" framing masks the actual function: ensuring every member of Con
 - **IL-5 (LOSS):** La Shawn Ford won despite AIPAC opposition.
 
 > [!money]
-> The stealth model deepens: AIPAC now operates through layers of newly formed PACs that obscure the money trail. "Affordable Chicago Now" — a name that suggests housing advocacy — was an AIPAC cutout spending $4.5M on Israel-related primary intervention. This obfuscation model represents a significant evolution from 2024's more transparent UDP spending.
+> The stealth model deepens: AIPAC now operates through layers of newly formed PACs that obscure the money trail. "Affordable Chicago Now", a name that suggests housing advocacy, was an AIPAC cutout spending $4.5M on Israel-related primary intervention. This obfuscation model represents a significant evolution from 2024's more transparent UDP spending.
 
 **New opposition:** A new super PAC launched specifically to counter AIPAC spending in Democratic primaries, the first significant organized financial opposition to AIPAC's primary strategy.
 
@@ -403,7 +403,7 @@ The "bipartisan" framing masks the actual function: ensuring every member of Con
 - [WBEZ: $13.7M into Chicago-area primaries](https://www.wbez.org/politics/2026/02/27/aipac-pro-israel-groups-chicago-area-democratic-congressional-primaries-miller-conyears-ervin-bean-fine) (Tier 2)
 
 > [!contradiction]
-> **The diminishing returns question:** AIPAC spent $21M+ in Illinois and won 2 of 4 House races (50%). In the Senate race, Stratton won comfortably despite $10M in opposition. Combined with Fairshake crypto PAC's first-ever primary losses, the $92M total outside spending across five races produced a mediocre return. The American Prospect: "Special-Interest Super PACs Underperform." In These Times: "AIPAC and Corporate Interests Flop." Is Illinois an outlier — or evidence that the unlimited-spending-as-discipline model faces structural limits when voters become aware of the spending source?
+> **The diminishing returns question:** AIPAC spent $21M+ in Illinois and won 2 of 4 House races (50%). In the Senate race, Stratton won comfortably despite $10M in opposition. Combined with Fairshake crypto PAC's first-ever primary losses, the $92M total outside spending across five races produced a mediocre return. The American Prospect: "Special-Interest Super PACs Underperform." In These Times: "AIPAC and Corporate Interests Flop." Is Illinois an outlier, or evidence that the unlimited-spending-as-discipline model faces structural limits when voters become aware of the spending source?
 
 - [American Prospect: Super PACs Underperform, March 18, 2026](https://prospect.org/2026/03/18/special-interest-super-pacs-underperform-illinois-democratic-primary-stratton-biss-miller-bean-ford/) (Tier 2)
 - [In These Times: AIPAC Flop, March 2026](https://inthesetimes.com/article/illinois-primary-biss-aipac-abughazaleh) (Tier 2)
@@ -415,7 +415,7 @@ The Chicago Tribune confirmed on March 23 that AIPAC's United Democracy Project 
 **The Pritzker Defection. Board Member Turns Critic:** Illinois Governor [[_JB Pritzker Master Profile|JB Pritzker]], a billionaire who once sat on AIPAC’s national board and donated to the organization, publicly condemned AIPAC’s $22 million shell PAC spending in his state’s primaries. The Jewish Telegraphic Agency reported Pritzker walked away from AIPAC “more than a decade ago” when the organization created a super PAC. This is not progressive opposition, it’s a billionaire donor-class member criticizing the donor class’s own lobby, signaling a fracture within the Democratic establishment.
 
 > [!contradiction]
-> Pritzker spent his own money influencing the same Illinois races he condemned AIPAC for spending in. He’s not opposed to big money in Democratic primaries — he’s opposed to AIPAC’s money in Democratic primaries. The class analysis: this is about which faction of the donor class controls Democratic primaries, not whether donor-class control itself is the problem. Pritzker’s AIPAC break is 2028 presidential positioning with progressive primary voters while maintaining broader donor-class credentials.
+> Pritzker spent his own money influencing the same Illinois races he condemned AIPAC for spending in. He’s not opposed to big money in Democratic primaries, he’s opposed to AIPAC’s money in Democratic primaries. The class analysis: this is about which faction of the donor class controls Democratic primaries, not whether donor-class control itself is the problem. Pritzker’s AIPAC break is 2028 presidential positioning with progressive primary voters while maintaining broader donor-class credentials.
 
 **2028 presidential implications:** Pritzker is actively distancing himself from AIPAC, dodging questions about past donations as he positions for a 2028 run. This signals AIPAC is becoming a political liability among the Democratic primary electorate, even as it remains the largest PAC in the 2026 cycle at $28M delivered to congressional campaigns.
 
@@ -439,7 +439,7 @@ The Chicago Tribune confirmed on March 23 that AIPAC's United Democracy Project 
 **Stealth model evolution:** Article One PAC represents the next iteration of AIPAC's shell PAC strategy documented in the Illinois primaries. The pattern: a single mega-donor with known AIPAC ties funds a newly created PAC with a generic name that obscures the Israel connection, spending six figures in a Democratic primary to protect a candidate aligned with AIPAC's interests. The name "Article One", referencing congressional power, gives no indication of its actual purpose: enforcing pro-Israel positioning in Democratic primaries.
 
 > [!contradiction]
-> AIPAC's public messaging emphasizes broad bipartisan support for Israel among American voters. Yet the organization's operatives keep creating new shell PACs with names designed to hide the Israel connection — "Affordable Chicago Now" in Illinois, "Article One PAC" in North Carolina. If the position is as popular as AIPAC claims, why does the money need to be hidden?
+> AIPAC's public messaging emphasizes broad bipartisan support for Israel among American voters. Yet the organization's operatives keep creating new shell PACs with names designed to hide the Israel connection, "Affordable Chicago Now" in Illinois, "Article One PAC" in North Carolina. If the position is as popular as AIPAC claims, why does the money need to be hidden?
 
 - [Read Sludge: AIPAC donor-tied group drops six figures for Foushee](https://readsludge.com/2026/02/26/aipac-donor-tied-group-drops-six-figures-for-foushee-2/) (Tier 2)
 - [Duke Chronicle: PAC funded by AIPAC donor backs Foushee in NC-04 primary](https://dukechronicle.com/article/duke-university-north-carolina-congressional-race-district-4-valerie-foushee-aipac-funds-nida-allam-20260227) (Tier 2)

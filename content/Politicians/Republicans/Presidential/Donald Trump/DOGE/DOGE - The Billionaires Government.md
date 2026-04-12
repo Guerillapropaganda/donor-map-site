@@ -29,7 +29,7 @@ DOGE was disbanded in November 2025. Musk departed in May 2025. In its brief exi
 
 ### The Conflict of Interest
 
-> [!money] Follow the Money — The $40 Billion Question
+> [!money] Follow the Money. The $40 Billion Question
 > [[Elon Musk|Elon Musk]]'s companies hold over $38 billion in federal contracts, loans, subsidies, and tax credits accumulated over two decades. In 2024 alone, Tesla, SpaceX, and related entities received $6.3 billion from federal and local governments.
 >
 > **Musk's federal entanglements:**
@@ -39,7 +39,7 @@ DOGE was disbanded in November 2025. Musk departed in May 2025. In its brief exi
 > - Boring Company: federal and state infrastructure contracts
 > - Neuralink: FDA regulatory pathway dependent on federal approval
 >
-> Musk was then given authority over the agencies that regulate, fund, and oversee these same companies. He used that authority to cut the agencies. The SEC, EPA, FAA, FTC, and CFPB — all regulators with oversight of Musk's operations — faced staff reductions, enforcement freezes, or outright dismantlement under DOGE.
+> Musk was then given authority over the agencies that regulate, fund, and oversee these same companies. He used that authority to cut the agencies. The SEC, EPA, FAA, FTC, and CFPB, all regulators with oversight of Musk's operations, faced staff reductions, enforcement freezes, or outright dismantlement under DOGE.
 
 The scale of the conflict: a single individual with $40B+ in government financial entanglements was given unilateral power to restructure the government agencies that manage those entanglements. No conflict-of-interest waiver in American history comes close.
 

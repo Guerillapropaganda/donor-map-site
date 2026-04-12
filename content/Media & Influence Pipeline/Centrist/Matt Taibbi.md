@@ -51,11 +51,11 @@ Taibbi's funding model represents the purest Substack independence case in the p
 | 2020-10-08 | WinRed | $7.68 | REP | (Retired) |
 
 > [!money]
-> The FEC record maps Taibbi's political arc perfectly: Dean/Kerry/Obama via Rolling Stone payroll (2003-2008) represents $7,071.47 of unwavering Democratic commitment while at a corporate outlet. Then an 11-year silence (2008-2019) tracks his disillusionment as the party shifted from anti-Wall Street to Wall Street-aligned. Then $17.68 split bipartisan (ActBlue + WinRed, 2019-2020) as he crystallized an independent identity. The data documents the transition from institutional Democrat to anti-establishment voice — not as ideological drift but as the political arc of a class analyst who watched his former party capture dissolve.
+> The FEC record maps Taibbi's political arc perfectly: Dean/Kerry/Obama via Rolling Stone payroll (2003-2008) represents $7,071.47 of unwavering Democratic commitment while at a corporate outlet. Then an 11-year silence (2008-2019) tracks his disillusionment as the party shifted from anti-Wall Street to Wall Street-aligned. Then $17.68 split bipartisan (ActBlue + WinRed, 2019-2020) as he crystallized an independent identity. The data documents the transition from institutional Democrat to anti-establishment voice, not as ideological drift but as the political arc of a class analyst who watched his former party capture dissolve.
 
 - [FEC: Matt Taibbi individual contributions (7 results, $7,089.15)](https://www.fec.gov/data/receipts/?contributor_name=taibbi%2C+matt) (Tier 1)
 
-> **Note on API results:** The FEC API search for "taibbi, matt" returns 7 results ($7,089.15 total). Employers include Rolling Stone (2003-2008 payroll deductions), and self-employed (2019-2020). All verified as belonging to the journalist/author. No disambiguation needed — contributions trace his political arc from institutional Democrat to independent.
+> **Note on API results:** The FEC API search for "taibbi, matt" returns 7 results ($7,089.15 total). Employers include Rolling Stone (2003-2008 payroll deductions), and self-employed (2019-2020). All verified as belonging to the journalist/author. No disambiguation needed, contributions trace his political arc from institutional Democrat to independent.
 
 ---
 
@@ -68,7 +68,7 @@ Taibbi's funding model represents the purest Substack independence case in the p
 This is the structural story. [[Marc Andreessen and a16z|Andreessen Horowitz (a16z)]] invested $65 million in Substack's Series B (March 2021) AND committed $400 million to Elon Musk's Twitter acquisition (October 2022). The same venture capital firm that funds the platform where Taibbi publishes also funded the Twitter acquisition that produced the Twitter Files story that made Taibbi the most prominent Substack journalist.
 
 > [!money]
-> a16z didn't pay Taibbi directly. They did something more sophisticated: they funded the platform (Substack, $65M) and the story source (Twitter/Musk, $400M) simultaneously. Taibbi's independence is real at the individual level — no one tells him what to write. But the infrastructure that makes his independence economically viable was built by the same venture capital that bought Twitter. The journalist is independent. The ecosystem is not.
+> a16z didn't pay Taibbi directly. They did something more sophisticated: they funded the platform (Substack, $65M) and the story source (Twitter/Musk, $400M) simultaneously. Taibbi's independence is real at the individual level, no one tells him what to write. But the infrastructure that makes his independence economically viable was built by the same venture capital that bought Twitter. The journalist is independent. The ecosystem is not.
 
 ### Elon Musk, access as currency:
 
@@ -142,13 +142,13 @@ But the class analysis doesn't require bad faith to function. The structural que
 **The independence paradox:** Taibbi is more financially independent than almost any journalist in America. No corporate employer, no dark money, no PAC funding, $7,089.15 in lifetime political contributions, $7,071.47 to Democrats (Dean 2003, Kerry 2004, Obama 2008), then $17.68 bipartisan post-transition. But independence from institutional control doesn't mean independence from audience economics. The Substack model makes the subscriber base the editorial board, and when the subscriber base shifts, the content follows the money even without anyone writing a check.
 
 > [!contradiction]
-> The journalist who coined "vampire squid" to describe Goldman Sachs now publishes on a platform funded by Andreessen Horowitz — a firm whose partners have collectively donated millions to Republican candidates and whose portfolio includes the companies most threatened by the government-tech regulation Taibbi's journalism opposes. The squid changed species. The tentacles are the same.
+> The journalist who coined "vampire squid" to describe Goldman Sachs now publishes on a platform funded by Andreessen Horowitz, a firm whose partners have collectively donated millions to Republican candidates and whose portfolio includes the companies most threatened by the government-tech regulation Taibbi's journalism opposes. The squid changed species. The tentacles are the same.
 
 ### Sources
 
 - [FEC: Matt Taibbi individual contributions (7 results, $7,089.15 total)](https://www.fec.gov/data/receipts/?contributor_name=taibbi%2C+matt) (Tier 1)
 
-> **Note on API results:** The FEC API search for "taibbi, matt" returns 7 results ($7,089.15 total). Employers include Rolling Stone (2003-2008 payroll deductions), and self-employed (2019-2020). All verified as belonging to the journalist/author. No disambiguation needed — contributions trace his political arc from institutional Democrat to independent.
+> **Note on API results:** The FEC API search for "taibbi, matt" returns 7 results ($7,089.15 total). Employers include Rolling Stone (2003-2008 payroll deductions), and self-employed (2019-2020). All verified as belonging to the journalist/author. No disambiguation needed, contributions trace his political arc from institutional Democrat to independent.
 
 > **Technical note:** This link returns raw JSON from the FEC government database. The FEC API uses fuzzy name matching, which aggregates records filed under "TAIBBI, MATT", "TAIBBI, MATTHEW", and payroll deductions filed under employer names. The FEC.gov web interface ([fec.gov/data/receipts/individual-contributions](https://www.fec.gov/data/receipts/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026individual-contributions/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?contributor_name=TAIBBI%2C+MATT&contributor_name=TAIBBI%2C+MATTHEW&two_year_transaction_period=2004&two_year_transaction_period=2008&two_year_transaction_period=2020&two_year_transaction_period=2026)) only shows 2 of 7 results because it requires exact name matches and does not aggregate across filing name variations. The API link above is the complete, verifiable record. If the link returns a rate limit error, wait a few minutes and try again (DEMO_KEY allows 40 requests/hour per IP).
 - [Congress.gov: Hearing on the Weaponization of the Federal Government, Mar 9, 2023 (118th Congress, House Event 115442)](https://www.congress.gov/event/118th-congress/house-event/115442/text) (Tier 1)

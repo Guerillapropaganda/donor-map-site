@@ -94,7 +94,7 @@ The three-way extraction, from supporters below, from capital horizontally, from
 This is not merely conflict of interest. It is the complete subsumption of political office to personal enrichment. The presidency becomes the business model.
 
 > [!quote]
-> "Trump likely benefited from $13.6 million in payments from foreign governments during his presidency. During his second term, his family profited $1 billion from crypto ventures before inauguration." — CREW and blockchain analysis sources
+> "Trump likely benefited from $13.6 million in payments from foreign governments during his presidency. During his second term, his family profited $1 billion from crypto ventures before inauguration.". CREW and blockchain analysis sources
 
 ### The Regulatory Capture Mechanism
 

@@ -64,7 +64,7 @@ The Koch network is not monolithic. Its donors and activists range from libertar
 The Haley endorsement revealed the fault lines:
 
 > [!contradiction]
-> AFP was built on grassroots conservative organizing, decentralized and volunteer-driven. Endorsing a presidential candidate — and one running explicitly against the frontrunner whom AFP's base largely supported — imposed a top-down mandate that conflicted with the organization's self-described grassroots identity. The terminated director of grassroots operations is the signal: when the organizational leadership prioritized donor-class strategy over activist preference, the activists pushed back. The Koch network learned what DeSantis's super PAC learned: you cannot separate organizational energy from authentic enthusiasm.
+> AFP was built on grassroots conservative organizing, decentralized and volunteer-driven. Endorsing a presidential candidate, and one running explicitly against the frontrunner whom AFP's base largely supported, imposed a top-down mandate that conflicted with the organization's self-described grassroots identity. The terminated director of grassroots operations is the signal: when the organizational leadership prioritized donor-class strategy over activist preference, the activists pushed back. The Koch network learned what DeSantis's super PAC learned: you cannot separate organizational energy from authentic enthusiasm.
 
 ---
 
@@ -75,7 +75,7 @@ The Koch network's policy priorities are consistent across decades: free trade, 
 Koch's backing of Haley was not primarily about Haley. It was about finding any Republican who could win the nomination while maintaining Koch-friendly economic positions. Haley's record offered this: as South Carolina governor, she had recruited [[Boeing|Boeing]] and other manufacturers with corporate incentive packages, opposed union organizing, maintained a business-friendly regulatory environment, and never deviated from conventional Republican free-market economics.
 
 > [!money]
-> AFP Action's $31M+ investment in Haley was, in the Koch network's framework, a rational hedge: if Haley won, the corporate Republican restoration project succeeded. If she lost (the more likely outcome), AFP demonstrated to future candidates that it could deploy serious resources — and that the price of those resources was alignment with Koch economic priorities. The investment was as much about future influence as 2024 outcomes.
+> AFP Action's $31M+ investment in Haley was, in the Koch network's framework, a rational hedge: if Haley won, the corporate Republican restoration project succeeded. If she lost (the more likely outcome), AFP demonstrated to future candidates that it could deploy serious resources, and that the price of those resources was alignment with Koch economic priorities. The investment was as much about future influence as 2024 outcomes.
 
 ---
 

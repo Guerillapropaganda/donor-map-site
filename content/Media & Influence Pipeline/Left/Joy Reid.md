@@ -39,7 +39,7 @@ The $3M salary, while substantial, reveals institutional racial pay disparity: R
 No FEC individual contributions found. The FEC API returns 0 results for both "REID, JOY" and "REID, JOY-ANN."
 
 > [!money]
-> Reid earned $3M/year as MSNBC's most prominent Black progressive voice, covered campaign finance and political money nightly, and gave $0 in personal federal contributions. This mirrors the vault-wide pattern: cable news hosts influence elections through platform power, not personal donations. The $0 is especially notable given Reid's active role in the 2008 Obama campaign — she transitioned from direct political work to media commentary and stopped personal political giving entirely.
+> Reid earned $3M/year as MSNBC's most prominent Black progressive voice, covered campaign finance and political money nightly, and gave $0 in personal federal contributions. This mirrors the vault-wide pattern: cable news hosts influence elections through platform power, not personal donations. The $0 is especially notable given Reid's active role in the 2008 Obama campaign, she transitioned from direct political work to media commentary and stopped personal political giving entirely.
 
 - [FEC: Joy Reid individual contributions (0 results)](https://www.fec.gov/data/receipts/?contributor_name=REID%2C+JOY) (Tier 1)
 - [FEC: Joy-Ann Reid individual contributions (0 results)](https://www.fec.gov/data/receipts/?contributor_name=REID%2C+JOY-ANN) (Tier 1)
@@ -85,7 +85,7 @@ The blog controversy (2018) demonstrated institutional protection as a form of c
 | Aug 2025 | Publicly discloses earning "a tenth" of white colleagues' salaries | Reid | $3M/yr vs. ~$30M | Racial pay disparity revelation, names the institutional exploitation |
 
 > [!money]
-> The timeline reveals institutional media's race-class extraction model in miniature. MSNBC hired Reid from Obama's political operation, gave her progressively larger platforms as her audience grew, paid her one-tenth of comparable white hosts, used her to validate the network's diversity credentials, then fired her when ratings dipped — after 14 years of institutional service. The $3M vs. $30M pay gap is the receipt: the network valued Black progressive representation enough to feature it in primetime, but not enough to pay market rate for it.
+> The timeline reveals institutional media's race-class extraction model in miniature. MSNBC hired Reid from Obama's political operation, gave her progressively larger platforms as her audience grew, paid her one-tenth of comparable white hosts, used her to validate the network's diversity credentials, then fired her when ratings dipped, after 14 years of institutional service. The $3M vs. $30M pay gap is the receipt: the network valued Black progressive representation enough to feature it in primetime, but not enough to pay market rate for it.
 
 ### Class Analysis
 
@@ -94,7 +94,7 @@ Reid's case exposes the **racial dimension of media institutional capture** that
 The $3M salary, while objectively high, becomes a tool of class analysis when compared to the $30M paid to white colleagues. MSNBC extracted the diversity credential that Reid's presence provided, paid a fraction of market rate for it, and discarded her when the cost-benefit equation shifted. This is the same donor-class logic the vault documents in politicians: extract value from progressive representation while ensuring the economic structure remains untouched.
 
 > [!contradiction]
-> Reid spent 14 years on a platform owned by Comcast — one of the most aggressive corporate lobbying operations in America — analyzing how corporate money corrupts politics. Comcast spent $15.9M on federal lobbying in 2023 alone and has donated to politicians across the spectrum, including many Reid criticized on air. Her progressive commentary existed within and was funded by the exact corporate-political infrastructure she described as corrupt. The contradiction is structural, not personal — and it's the same contradiction that defines every institutional media figure in this vault.
+> Reid spent 14 years on a platform owned by Comcast, one of the most aggressive corporate lobbying operations in America, analyzing how corporate money corrupts politics. Comcast spent $15.9M on federal lobbying in 2023 alone and has donated to politicians across the spectrum, including many Reid criticized on air. Her progressive commentary existed within and was funded by the exact corporate-political infrastructure she described as corrupt. The contradiction is structural, not personal, and it's the same contradiction that defines every institutional media figure in this vault.
 
 ### Capture Architecture
 

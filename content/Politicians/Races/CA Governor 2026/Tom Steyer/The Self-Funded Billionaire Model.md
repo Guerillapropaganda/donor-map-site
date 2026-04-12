@@ -16,7 +16,7 @@ donors: (Self-funded from hedge fund fortune)
 ### The Self-Funded Billionaire Model
 
 > [!money]
-> [[_Tom Steyer Master Profile|Tom Steyer]] has invested $66.7 million in his 2026 governor campaign. He accounts for 85% of all advertising spending in the race. He outspends all other candidates combined 2-to-1. He spent $200 million on a 2020 presidential campaign and won zero delegates. The question is not whether money can buy elections — it's whether the self-funded billionaire model is a democratic alternative to donor-class politics or just the purest expression of it.
+> [[_Tom Steyer Master Profile|Tom Steyer]] has invested $66.7 million in his 2026 governor campaign. He accounts for 85% of all advertising spending in the race. He outspends all other candidates combined 2-to-1. He spent $200 million on a 2020 presidential campaign and won zero delegates. The question is not whether money can buy elections, it's whether the self-funded billionaire model is a democratic alternative to donor-class politics or just the purest expression of it.
 
 ---
 
@@ -68,9 +68,9 @@ The combined lesson of Steyer 2020 and Bloomberg 2020: two billionaires spent $1
 ### The Democratic Contradiction
 
 > [!contradiction]
-> Steyer's campaign platform includes "ban corporate PAC money." He doesn't take corporate PAC money — because he doesn't need it. His $66.7 million personal investment makes him independent of the corporate donor class. But independence from corporate donors is not independence from the billionaire class — it IS the billionaire class exercising power directly rather than through intermediaries.
+> Steyer's campaign platform includes "ban corporate PAC money." He doesn't take corporate PAC money, because he doesn't need it. His $66.7 million personal investment makes him independent of the corporate donor class. But independence from corporate donors is not independence from the billionaire class, it IS the billionaire class exercising power directly rather than through intermediaries.
 >
-> The [[CNA - California Nurses Association|California Nurses Association]] endorsed Steyer specifically because his self-funding means he "won't be beholden to corporate/anti-union donors." The logic: a billionaire's personal fortune is more trustworthy than a system of corporate donations. This reasoning accepts the premise that political power should flow from wealth — it just prefers concentrated wealth (one progressive billionaire) over distributed wealth (many corporate donors). The structural problem — that elections are purchased rather than won — remains.
+> The [[CNA - California Nurses Association|California Nurses Association]] endorsed Steyer specifically because his self-funding means he "won't be beholden to corporate/anti-union donors." The logic: a billionaire's personal fortune is more trustworthy than a system of corporate donations. This reasoning accepts the premise that political power should flow from wealth, it just prefers concentrated wealth (one progressive billionaire) over distributed wealth (many corporate donors). The structural problem, that elections are purchased rather than won, remains.
 
 ---
 

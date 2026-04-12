@@ -53,7 +53,7 @@ Elliott's political interests are inseparable from its business model:
 
 ### Who They Fund
 
-> [!money] Follow the Money — $89M+ Since 2015
+> [!money] Follow the Money, $89M+ Since 2015
 > **2024 cycle (Paul Singer personal giving):**
 > - $25 million → [[Senate Leadership Fund]] (largest single donation)
 > - $12 million → [[Congressional Leadership Fund]]
@@ -86,9 +86,9 @@ Singer met with Trump in July 2024 about donating to his campaign, despite havin
 ### Judicial access. The Alito Connection:
 
 > [!contradiction] The Supreme Court Justice and the Billionaire Donor
-> In 2008, Paul Singer arranged a luxury fishing trip to an exclusive Alaska lodge for Supreme Court Justice Samuel Alito. Singer flew Alito on a private jet — a flight worth over $100,000 each way if chartered commercially. Alito did not disclose the trip on his financial disclosure form, as required by federal law.
+> In 2008, Paul Singer arranged a luxury fishing trip to an exclusive Alaska lodge for Supreme Court Justice Samuel Alito. Singer flew Alito on a private jet, a flight worth over $100,000 each way if chartered commercially. Alito did not disclose the trip on his financial disclosure form, as required by federal law.
 >
-> In the years following, Singer's hedge fund came before the Supreme Court at least 10 times. Alito never recused himself from any of them. In 2014, Alito voted with the 7-1 majority in a key ruling favoring Singer's decade-long battle against Argentina over sovereign debt — a case directly enriching Elliott Management.
+> In the years following, Singer's hedge fund came before the Supreme Court at least 10 times. Alito never recused himself from any of them. In 2014, Alito voted with the 7-1 majority in a key ruling favoring Singer's decade-long battle against Argentina over sovereign debt, a case directly enriching Elliott Management.
 >
 > Alito claimed he was "unaware" of Singer's connection to the cases. He recalled speaking to Singer on "no more than a handful of occasions."
 
@@ -108,10 +108,10 @@ This is the most consequential Singer-Alito intersection to date.
 ### The recusal reversal:
 
 > [!contradiction] Alito Reverses His Own Recusal Standard
-> - **January 2025:** Alito recused himself from the parallel Honolulu climate case — same legal question, same oil company defendants, same petition for Supreme Court review.
+> - **January 2025:** Alito recused himself from the parallel Honolulu climate case, same legal question, same oil company defendants, same petition for Supreme Court review.
 > - **February 2026:** Alito participated in granting Suncor and Exxon's petition in the Boulder case. No recusal. No explanation.
 >
-> The man who recused from the identical legal question 13 months earlier un-recused when the stakes rose to $3 billion for his undisclosed fishing companion. Alito also owns personal stock in ConocoPhillips ($15,000) and Phillips 66 ($15,000-$50,000) — defendants in parallel climate suits whose fate depends on the Boulder ruling.
+> The man who recused from the identical legal question 13 months earlier un-recused when the stakes rose to $3 billion for his undisclosed fishing companion. Alito also owns personal stock in ConocoPhillips ($15,000) and Phillips 66 ($15,000-$50,000), defendants in parallel climate suits whose fate depends on the Boulder ruling.
 
 If the Supreme Court rules in Suncor's favor, the value of Elliott's $3 billion stake is protected. If state courts can hold oil companies liable for climate damages, that $3 billion position faces material risk. The justice who received an undisclosed luxury trip from the man with $3 billion riding on the outcome chose to participate in deciding that outcome.
 
@@ -138,7 +138,7 @@ If the Supreme Court rules in Suncor's favor, the value of Elliott's $3 billion 
 | 2026-02 | Alito participates in granting Suncor petition |, | Reverses own recusal; $3B Singer position gets favorable hearing | 13 months after recusing from identical question |
 
 > [!money] The $3 Billion Judicial Pipeline
-> Paul Singer spent $42M+ on 2024 Republican politics and $89M+ since 2015. His hedge fund holds a $3 billion stake in Suncor Energy — a company now before the Supreme Court in a climate case that could determine the entire fossil fuel industry's liability exposure. The justice deciding the case received an undisclosed luxury trip from Singer, never recused from any of Singer's 10+ prior cases, and reversed his own recusal from the identical legal question when Singer's $3 billion position was at stake. ROI on the Alaska fishing trip: potentially 30,000-to-1 if measured against the protected value of the Suncor position alone.
+> Paul Singer spent $42M+ on 2024 Republican politics and $89M+ since 2015. His hedge fund holds a $3 billion stake in Suncor Energy, a company now before the Supreme Court in a climate case that could determine the entire fossil fuel industry's liability exposure. The justice deciding the case received an undisclosed luxury trip from Singer, never recused from any of Singer's 10+ prior cases, and reversed his own recusal from the identical legal question when Singer's $3 billion position was at stake. ROI on the Alaska fishing trip: potentially 30,000-to-1 if measured against the protected value of the Suncor position alone.
 
 ---
 

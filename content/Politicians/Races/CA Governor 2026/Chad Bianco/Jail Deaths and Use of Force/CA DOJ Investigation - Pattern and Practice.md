@@ -58,9 +58,9 @@ The likely outcome if the Riverside investigation finds a pattern or practice: a
 Bianco's statements on the investigation are a case study in the constitutional sheriff playbook:
 
 > [!contradiction]
-> — Called the investigation "a political stunt" based on "false and misleading statements and straight out lies from activists."
-> — Claimed: "My department has absolutely nothing to hide, and will be more than cooperative and accommodating with this investigation."
-> — Framed the AG as politically motivated rather than responding to documented deaths.
+>. Called the investigation "a political stunt" based on "false and misleading statements and straight out lies from activists."
+>. Claimed: "My department has absolutely nothing to hide, and will be more than cooperative and accommodating with this investigation."
+>. Framed the AG as politically motivated rather than responding to documented deaths.
 
 The simultaneous posture of "nothing to hide" and "political stunt" is the tell. If the department has nothing to hide, the investigation would be welcome, it would exonerate the department. Calling it a stunt signals that the investigation is a threat, which means there is something to find.
 

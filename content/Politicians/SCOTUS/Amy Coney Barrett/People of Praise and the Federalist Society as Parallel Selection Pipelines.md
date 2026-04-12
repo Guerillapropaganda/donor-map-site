@@ -16,7 +16,7 @@ donors: [[Leonard Leo]]
 ### People of Praise and the Federalist Society as Parallel Selection Pipelines
 
 > [!contradiction]
-> [[_Amy Coney Barrett Master Profile|Amy Coney Barrett]] belongs to two institutions that share a structural function: selecting, cultivating, and advancing members through hierarchical networks that operate outside democratic accountability. People of Praise — a charismatic Christian covenant community — governs members' personal lives through submission to community leaders. The Federalist Society — a conservative legal network — governs judicial careers through submission to the pipeline Leo constructed. Both institutions claim to serve higher principles (faith, originalism). Both institutions function as selection mechanisms for power. Barrett's career is the product of both pipelines converging on a single appointment.
+> [[_Amy Coney Barrett Master Profile|Amy Coney Barrett]] belongs to two institutions that share a structural function: selecting, cultivating, and advancing members through hierarchical networks that operate outside democratic accountability. People of Praise, a charismatic Christian covenant community, governs members' personal lives through submission to community leaders. The Federalist Society, a conservative legal network, governs judicial careers through submission to the pipeline Leo constructed. Both institutions claim to serve higher principles (faith, originalism). Both institutions function as selection mechanisms for power. Barrett's career is the product of both pipelines converging on a single appointment.
 
 ---
 
@@ -48,7 +48,7 @@ Barrett joined the Federalist Society at Notre Dame Law School. The career arc t
 Barrett's 2013 law review article on stare decisis argued that precedent should carry less weight when it conflicts with the original meaning of the Constitution, a direct signal on willingness to overturn Roe v. Wade. Her Seventh Circuit dissent in Kanter v. Barr (2019) argued a nonviolent felon retained Second Amendment rights, signaling the expansive gun rights position she would join in Bruen.
 
 > [!money]
-> The Federalist Society pipeline functions as a 20-year audition: law school membership identifies prospects, clerkships with conservative judges signal reliability, academic publications demonstrate ideological commitment, circuit court opinions prove willingness to rule as the network requires. By the time Barrett reached the SCOTUS shortlist, her voting pattern was as predictable as any investment return. Leo's donors knew exactly what they were purchasing. The $22 million confirmation campaign was not a gamble — it was a guaranteed transaction.
+> The Federalist Society pipeline functions as a 20-year audition: law school membership identifies prospects, clerkships with conservative judges signal reliability, academic publications demonstrate ideological commitment, circuit court opinions prove willingness to rule as the network requires. By the time Barrett reached the SCOTUS shortlist, her voting pattern was as predictable as any investment return. Leo's donors knew exactly what they were purchasing. The $22 million confirmation campaign was not a gamble, it was a guaranteed transaction.
 
 ---
 

@@ -39,7 +39,7 @@ Trump's military and veterans agenda is financed by three overlapping donor clas
 **CVS/Aetna:** Administers Medicare Advantage plans covering veterans. Exploits dual enrollment: veterans simultaneously covered by VA ($46 billion) and Medicare Advantage ($44 billion) 2018-2021. CMS overpaid Aetna $1.32 billion in 2020 alone for VA enrollees using zero Medicare services. CVS acquired Aetna for integrated healthcare-pharmacy monopoly. Expanding into VA community care networks as Trump accelerates privatization. - [Medicare Advocacy: VA MA payment loophole](https://medicareadvocacy.org/wp-content/uploads/2025/08/CMA-Issue-Brief-VA-MA-Payment-Loophole.pdf) (Tier 2)
 
 > [!money]
-> **VA Community Care Spending Spike:** Costs rose from $14.8 billion (FY 2018) to $28.5 billion (FY 2023) — 92% increase in five years. Trump administration budget proposes $14.4 billion MORE in community care (67% jump), meaning nearly 75% of all new VA medical funding goes to private providers, not to VA system. This is not funding growth for veterans. This is privatization disguised as expansion.
+> **VA Community Care Spending Spike:** Costs rose from $14.8 billion (FY 2018) to $28.5 billion (FY 2023), 92% increase in five years. Trump administration budget proposes $14.4 billion MORE in community care (67% jump), meaning nearly 75% of all new VA medical funding goes to private providers, not to VA system. This is not funding growth for veterans. This is privatization disguised as expansion.
 
 ### The VA MISSION Act (2018): What Privatization Infrastructure Looks Like
 
