@@ -1,429 +1,370 @@
 "use client"
 
 import { useState, useEffect, useRef, useCallback } from "react"
+import {
+  forceSimulation, forceManyBody, forceCenter, forceLink, forceCollide, forceX, forceY,
+  select, zoom as d3Zoom, drag as d3Drag,
+  type Simulation, type SimulationNodeDatum, type SimulationLinkDatum,
+} from "d3"
 
-interface FlowNode {
-  id: string
-  label: string
-  type: "donor" | "politician" | "committee" | "bill" | "lobbying-firm" | "pac"
-  party?: string
-  amount?: string
-  meta?: Record<string, string>
-  x?: number
-  y?: number
-  vx?: number
-  vy?: number
-  fx?: number | null
-  fy?: number | null
+interface MoneyNode extends SimulationNodeDatum {
+  id: string; name: string; type: string; party?: string; sector?: string
+  degree: number; bothSides: boolean
 }
 
-interface FlowEdge {
-  source: string
-  target: string
-  label?: string
-  amount?: string
-  type: "funds" | "serves-on" | "sponsors" | "lobbies" | "contracts"
+interface MoneyEdge extends SimulationLinkDatum<MoneyNode> {
+  confidence: number
 }
 
-const NODE_COLORS: Record<string, string> = {
-  donor: "#f59e0b",
-  politician: "#5b8dce",
-  committee: "#22c55e",
-  bill: "#a855f7",
-  "lobbying-firm": "#ef4444",
-  pac: "#f97316",
+const TYPE_COLORS: Record<string, string> = {
+  politician: "#5b8dce", donor: "#22c55e", corporation: "#22c55e",
+  "think-tank": "#a855f7", "lobbying-firm": "#f59e0b", "media-profile": "#ef4444",
+  story: "#ec4899", pac: "#f59e0b", unknown: "#7a7a86",
 }
 
-const EDGE_COLORS: Record<string, string> = {
-  funds: "#f59e0b",
-  "serves-on": "#22c55e",
-  sponsors: "#a855f7",
-  lobbies: "#ef4444",
-  contracts: "#f97316",
+const SECTOR_COLORS: Record<string, string> = {
+  "Defense & Intelligence": "#6b7280", "Wall Street": "#eab308", "Tech & Crypto": "#06b6d4",
+  "Energy & Utilities": "#f97316", "Pharma & Healthcare": "#10b981", "Real Estate": "#8b5cf6",
+  "Dark Money": "#ef4444", "Mega-Donors": "#f59e0b", "Labor Unions": "#3b82f6",
+  "Super PACs": "#dc2626", "Healthcare": "#14b8a6", "Education": "#8b5cf6",
+  "Foreign": "#7c3aed", "Gig Economy": "#06b6d4", "Carceral State": "#6b7280",
+  "Agriculture": "#22c55e", "Corporate": "#94a3b8", "Law Enforcement": "#475569",
+}
+
+function getNodeColor(n: MoneyNode, colorMode: string): string {
+  if (n.type === "politician") {
+    return n.party === "Democrat" ? "#3b82f6" : n.party === "Republican" ? "#ef4444" : "#888"
+  }
+  if (colorMode === "sector" && n.sector) {
+    return SECTOR_COLORS[n.sector] || "#7a7a86"
+  }
+  if (n.bothSides) return "#f59e0b"
+  return TYPE_COLORS[n.type] || "#7a7a86"
+}
+
+function getNodeSize(degree: number): number {
+  return 4 + Math.min(Math.sqrt(degree) * 2.5, 18)
 }
 
 export default function MoneyTrailPage() {
-  const [nodes, setNodes] = useState<FlowNode[]>([])
-  const [edges, setEdges] = useState<FlowEdge[]>([])
+  const svgRef = useRef<SVGSVGElement>(null)
+  const simRef = useRef<Simulation<MoneyNode, MoneyEdge> | null>(null)
   const [loading, setLoading] = useState(true)
-  const [search, setSearch] = useState("")
-  const [profileName, setProfileName] = useState("")
-  const [suggestions, setSuggestions] = useState<string[]>([])
-  const [allProfiles, setAllProfiles] = useState<string[]>([])
+  const [stats, setStats] = useState<Record<string, unknown>>({})
   const [hovered, setHovered] = useState<string | null>(null)
-  const [dragging, setDragging] = useState<string | null>(null)
-  const canvasRef = useRef<HTMLCanvasElement>(null)
-  const nodesRef = useRef<FlowNode[]>([])
-  const edgesRef = useRef<FlowEdge[]>([])
-  const animRef = useRef<number>(0)
-  const offsetRef = useRef({ x: 0, y: 0 })
-  const scaleRef = useRef(1)
+  const [maxNodes, setMaxNodes] = useState(200)
+  const [filter, setFilter] = useState<"all" | "Democrat" | "Republican" | "donors" | "both-sides">("all")
+  const [colorMode, setColorMode] = useState<"type" | "sector">("type")
+  const [showFlow, setShowFlow] = useState(true)
+  const allDataRef = useRef<{ nodes: MoneyNode[]; edges: MoneyEdge[] }>({ nodes: [], edges: [] })
 
-  // Load profile list for search
-  useEffect(() => {
-    fetch("/api/vault")
-      .then((r) => r.json())
-      .then((data) => {
-        const names = (data.profiles || [])
-          .filter((p: { type: string }) => ["politician", "donor", "corporation"].includes(p.type))
-          .map((p: { title: string }) => p.title.replace(/^_/, "").replace(/ Master Profile$/, ""))
-          .sort()
-        setAllProfiles(names)
+  const buildGraph = useCallback(() => {
+    if (!svgRef.current) return
+    const svgEl = svgRef.current
+    const svg = select(svgEl)
+    svg.selectAll("*").remove()
+    if (simRef.current) simRef.current.stop()
+
+    const width = svgEl.clientWidth || 1200
+    const height = svgEl.clientHeight || 700
+    const { nodes: allNodes, edges: allEdges } = allDataRef.current
+
+    // Filter nodes
+    let filtered = [...allNodes]
+    if (filter === "Democrat" || filter === "Republican") {
+      const partyPols = new Set(filtered.filter(n => n.type === "politician" && n.party === filter).map(n => n.id))
+      const connected = new Set<string>()
+      for (const e of allEdges) {
+        const src = typeof e.source === "string" ? e.source : (e.source as MoneyNode).id
+        const tgt = typeof e.target === "string" ? e.target : (e.target as MoneyNode).id
+        if (partyPols.has(src)) connected.add(tgt)
+        if (partyPols.has(tgt)) connected.add(src)
+      }
+      filtered = filtered.filter(n => partyPols.has(n.id) || connected.has(n.id))
+    } else if (filter === "donors") {
+      const donors = new Set(filtered.filter(n => n.type !== "politician").map(n => n.id))
+      const connected = new Set<string>()
+      for (const e of allEdges) {
+        const src = typeof e.source === "string" ? e.source : (e.source as MoneyNode).id
+        const tgt = typeof e.target === "string" ? e.target : (e.target as MoneyNode).id
+        if (donors.has(src)) connected.add(tgt)
+        if (donors.has(tgt)) connected.add(src)
+      }
+      filtered = filtered.filter(n => donors.has(n.id) || connected.has(n.id))
+    } else if (filter === "both-sides") {
+      const bs = new Set(filtered.filter(n => n.bothSides).map(n => n.id))
+      const connected = new Set<string>()
+      for (const e of allEdges) {
+        const src = typeof e.source === "string" ? e.source : (e.source as MoneyNode).id
+        const tgt = typeof e.target === "string" ? e.target : (e.target as MoneyNode).id
+        if (bs.has(src)) connected.add(tgt)
+        if (bs.has(tgt)) connected.add(src)
+      }
+      filtered = filtered.filter(n => bs.has(n.id) || connected.has(n.id))
+    }
+
+    // Top N by degree
+    filtered.sort((a, b) => b.degree - a.degree)
+    filtered = filtered.slice(0, maxNodes)
+    const nodeIds = new Set(filtered.map(n => n.id))
+
+    // Deep copy nodes for D3 mutation
+    const simNodes: MoneyNode[] = filtered.map(n => ({ ...n }))
+    const nodeMap = new Map(simNodes.map(n => [n.id, n]))
+
+    // Filter edges to visible nodes
+    const simEdges: MoneyEdge[] = allEdges
+      .filter(e => {
+        const src = typeof e.source === "string" ? e.source : (e.source as MoneyNode).id
+        const tgt = typeof e.target === "string" ? e.target : (e.target as MoneyNode).id
+        return nodeIds.has(src) && nodeIds.has(tgt)
       })
-      .catch(() => {})
-  }, [])
+      .map(e => ({
+        source: nodeMap.get(typeof e.source === "string" ? e.source : (e.source as MoneyNode).id)!,
+        target: nodeMap.get(typeof e.target === "string" ? e.target : (e.target as MoneyNode).id)!,
+        confidence: e.confidence,
+      }))
+      .filter(e => e.source && e.target)
 
-  const loadData = useCallback((name?: string) => {
-    setLoading(true)
-    const url = name ? `/api/money-trail?profile=${encodeURIComponent(name)}` : "/api/money-trail"
-    fetch(url)
-      .then((r) => r.json())
-      .then((data) => {
-        if (data.error) { setLoading(false); return }
-        // Layout: position nodes by type in columns
-        const byType: Record<string, FlowNode[]> = {}
-        for (const n of data.nodes || []) {
-          const t = n.type
-          if (!byType[t]) byType[t] = []
-          byType[t].push(n)
-        }
-        const colOrder = ["donor", "pac", "politician", "committee", "bill", "lobbying-firm"]
-        const canvas = canvasRef.current
-        const w = canvas?.width || 1200
-        const h = canvas?.height || 700
-        let col = 0
-        const totalCols = colOrder.filter((c) => byType[c]?.length).length || 1
+    // Force simulation
+    const sim = forceSimulation<MoneyNode>(simNodes)
+      .force("charge", forceManyBody().strength(-80))
+      .force("center", forceCenter(width / 2, height / 2).strength(0.03))
+      .force("link", forceLink<MoneyNode, MoneyEdge>(simEdges).distance(50).strength(0.2))
+      .force("collide", forceCollide<MoneyNode>(n => getNodeSize(n.degree) + 2).iterations(2))
+      .force("x", forceX(width / 2).strength(0.02))
+      .force("y", forceY(height / 2).strength(0.02))
+      .alphaDecay(0.015)
 
-        for (const type of colOrder) {
-          const group = byType[type]
-          if (!group || group.length === 0) continue
-          const cx = (w * (col + 0.5)) / totalCols
-          for (let i = 0; i < group.length; i++) {
-            group[i].x = cx + (Math.random() - 0.5) * 80
-            group[i].y = (h * (i + 1)) / (group.length + 1) + (Math.random() - 0.5) * 30
-            group[i].vx = 0
-            group[i].vy = 0
-          }
-          col++
-        }
+    simRef.current = sim
 
-        const allNodes = data.nodes || []
-        setNodes(allNodes)
-        setEdges(data.edges || [])
-        nodesRef.current = allNodes
-        edgesRef.current = data.edges || []
+    // SVG structure
+    const g = svg.append("g").attr("class", "money-root")
+
+    // Arrow marker defs
+    const defs = svg.append("defs")
+    defs.append("marker")
+      .attr("id", "money-arrow")
+      .attr("viewBox", "0 -5 10 10")
+      .attr("refX", 15).attr("refY", 0)
+      .attr("markerWidth", 6).attr("markerHeight", 6)
+      .attr("orient", "auto")
+      .append("path")
+      .attr("d", "M0,-4L10,0L0,4")
+      .attr("fill", "#f59e0b")
+      .attr("opacity", 0.6)
+
+    // Zoom
+    const zoomBehavior = d3Zoom<SVGSVGElement, unknown>()
+      .scaleExtent([0.1, 5])
+      .on("zoom", (event) => g.attr("transform", event.transform))
+    svg.call(zoomBehavior)
+
+    // Edges
+    const edgeGroup = g.append("g").attr("class", "money-edges")
+    const edgeEls = edgeGroup.selectAll("line")
+      .data(simEdges)
+      .join("line")
+      .attr("stroke", "#f59e0b")
+      .attr("stroke-width", d => 0.5 + d.confidence)
+      .attr("stroke-opacity", 0.15)
+      .attr("marker-end", "url(#money-arrow)")
+
+    // Animated flow dots (pulsing dots moving along edges)
+    let flowGroup: ReturnType<typeof g.append> | null = null
+    if (showFlow) {
+      flowGroup = g.append("g").attr("class", "money-flow")
+      // Create flow particles — one per edge, staggered
+      const flowDots = flowGroup.selectAll("circle")
+        .data(simEdges)
+        .join("circle")
+        .attr("r", 2)
+        .attr("fill", "#f59e0b")
+        .attr("opacity", 0.7)
+
+      // Animate flow dots along edges
+      function animateFlow() {
+        const t = Date.now() * 0.001
+        flowDots.each(function (d: any, i: number) {
+          const phase = (t * 0.3 + i * 0.17) % 1 // staggered, looping 0→1
+          const sx = d.source.x ?? 0, sy = d.source.y ?? 0
+          const tx = d.target.x ?? 0, ty = d.target.y ?? 0
+          select(this)
+            .attr("cx", sx + (tx - sx) * phase)
+            .attr("cy", sy + (ty - sy) * phase)
+        })
+        requestAnimationFrame(animateFlow)
+      }
+      requestAnimationFrame(animateFlow)
+    }
+
+    // Nodes
+    const nodeGroup = g.append("g").attr("class", "money-nodes")
+    const nodeEls = nodeGroup.selectAll<SVGGElement, MoneyNode>("g")
+      .data(simNodes)
+      .join("g")
+      .attr("cursor", "pointer")
+
+    // Node circles
+    nodeEls.append("circle")
+      .attr("r", d => getNodeSize(d.degree))
+      .attr("fill", d => getNodeColor(d, colorMode) + "40")
+      .attr("stroke", d => getNodeColor(d, colorMode))
+      .attr("stroke-width", d => d.bothSides ? 2.5 : 1.5)
+
+    // Both-sides glow
+    nodeEls.filter(d => d.bothSides)
+      .append("circle")
+      .attr("r", d => getNodeSize(d.degree) + 4)
+      .attr("fill", "none")
+      .attr("stroke", "#f59e0b")
+      .attr("stroke-width", 1)
+      .attr("stroke-opacity", 0.4)
+      .attr("stroke-dasharray", "3 2")
+
+    // Labels — faint, always visible
+    const labelEls = nodeEls.append("text")
+      .attr("text-anchor", "middle")
+      .attr("y", d => getNodeSize(d.degree) + 10)
+      .attr("fill", d => getNodeColor(d, colorMode))
+      .attr("font-size", d => d.degree > 10 ? "8px" : "6px")
+      .attr("font-family", "ui-monospace, monospace")
+      .attr("opacity", 0.3)
+      .text(d => d.name.length > 22 ? d.name.slice(0, 20) + ".." : d.name)
+
+    // Hover
+    nodeEls
+      .on("mouseenter", function (event, d) {
+        select(this).select("circle").attr("r", getNodeSize(d.degree) + 3)
+        select(this).select("text").attr("opacity", 1).attr("font-size", "10px").attr("font-weight", "bold")
+        edgeEls.attr("stroke-opacity", (e: any) =>
+          e.source.id === d.id || e.target.id === d.id ? 0.8 : 0.05
+        )
+        setHovered(d.name)
+      })
+      .on("mouseleave", function (event, d) {
+        select(this).select("circle").attr("r", getNodeSize(d.degree))
+        select(this).select("text").attr("opacity", 0.3).attr("font-size", d.degree > 10 ? "8px" : "6px").attr("font-weight", "normal")
+        edgeEls.attr("stroke-opacity", 0.15)
+        setHovered(null)
+      })
+
+    // Click to open in editor
+    nodeEls.on("click", (event, d) => {
+      window.open(`/editor?search=${encodeURIComponent(d.name)}`, "_blank")
+    })
+
+    // Drag
+    const dragBehavior = d3Drag<SVGGElement, MoneyNode>()
+      .on("start", (event, d) => {
+        if (!event.active) sim.alphaTarget(0.3).restart()
+        d.fx = d.x; d.fy = d.y
+      })
+      .on("drag", (event, d) => { d.fx = event.x; d.fy = event.y })
+      .on("end", (event, d) => {
+        if (!event.active) sim.alphaTarget(0)
+        d.fx = null; d.fy = null
+      })
+    nodeEls.call(dragBehavior as any)
+
+    // Tick
+    sim.on("tick", () => {
+      edgeEls
+        .attr("x1", (d: any) => d.source.x)
+        .attr("y1", (d: any) => d.source.y)
+        .attr("x2", (d: any) => d.target.x)
+        .attr("y2", (d: any) => d.target.y)
+      nodeEls.attr("transform", d => `translate(${d.x},${d.y})`)
+    })
+  }, [maxNodes, filter, colorMode, showFlow])
+
+  // Load data
+  useEffect(() => {
+    fetch("/api/money-trail")
+      .then(r => r.json())
+      .then(data => {
+        allDataRef.current = { nodes: data.nodes || [], edges: data.edges || [] }
+        setStats(data.stats || {})
         setLoading(false)
       })
       .catch(() => setLoading(false))
   }, [])
 
-  useEffect(() => { loadData() }, [loadData])
-
-  // Force simulation
+  // Rebuild graph when data loads or controls change
   useEffect(() => {
-    const simulate = () => {
-      const ns = nodesRef.current
-      const es = edgesRef.current
-      if (ns.length === 0) { animRef.current = requestAnimationFrame(simulate); return }
-
-      const canvas = canvasRef.current
-      if (!canvas) { animRef.current = requestAnimationFrame(simulate); return }
-      const ctx = canvas.getContext("2d")
-      if (!ctx) return
-
-      // Force: repulsion between nodes
-      for (let i = 0; i < ns.length; i++) {
-        for (let j = i + 1; j < ns.length; j++) {
-          const dx = (ns[j].x || 0) - (ns[i].x || 0)
-          const dy = (ns[j].y || 0) - (ns[i].y || 0)
-          const dist = Math.sqrt(dx * dx + dy * dy) || 1
-          const force = 800 / (dist * dist)
-          const fx = (dx / dist) * force
-          const fy = (dy / dist) * force
-          if (!ns[i].fx) { ns[i].vx = (ns[i].vx || 0) - fx; ns[i].vy = (ns[i].vy || 0) - fy }
-          if (!ns[j].fx) { ns[j].vx = (ns[j].vx || 0) + fx; ns[j].vy = (ns[j].vy || 0) + fy }
-        }
-      }
-
-      // Force: attraction along edges
-      const nodeMap = new Map(ns.map((n) => [n.id, n]))
-      for (const e of es) {
-        const s = nodeMap.get(e.source)
-        const t = nodeMap.get(e.target)
-        if (!s || !t) continue
-        const dx = (t.x || 0) - (s.x || 0)
-        const dy = (t.y || 0) - (s.y || 0)
-        const dist = Math.sqrt(dx * dx + dy * dy) || 1
-        const force = (dist - 150) * 0.005
-        const fx = (dx / dist) * force
-        const fy = (dy / dist) * force
-        if (!s.fx) { s.vx = (s.vx || 0) + fx; s.vy = (s.vy || 0) + fy }
-        if (!t.fx) { t.vx = (t.vx || 0) - fx; t.vy = (t.vy || 0) - fy }
-      }
-
-      // Apply velocity with damping
-      for (const n of ns) {
-        if (n.fx != null) { n.x = n.fx; n.y = n.fy || 0; continue }
-        n.vx = (n.vx || 0) * 0.85
-        n.vy = (n.vy || 0) * 0.85
-        n.x = (n.x || 0) + (n.vx || 0)
-        n.y = (n.y || 0) + (n.vy || 0)
-        // Boundary
-        n.x = Math.max(40, Math.min(canvas.width - 40, n.x || 0))
-        n.y = Math.max(40, Math.min(canvas.height - 40, n.y || 0))
-      }
-
-      // Draw
-      const scale = scaleRef.current
-      const ox = offsetRef.current.x
-      const oy = offsetRef.current.y
-      ctx.clearRect(0, 0, canvas.width, canvas.height)
-      ctx.save()
-      ctx.translate(ox, oy)
-      ctx.scale(scale, scale)
-
-      // Edges
-      for (const e of es) {
-        const s = nodeMap.get(e.source)
-        const t = nodeMap.get(e.target)
-        if (!s || !t) continue
-        const isHovered = hovered === e.source || hovered === e.target
-        ctx.beginPath()
-        ctx.moveTo(s.x || 0, s.y || 0)
-        ctx.lineTo(t.x || 0, t.y || 0)
-        ctx.strokeStyle = isHovered ? (EDGE_COLORS[e.type] || "#444") : "#333"
-        ctx.lineWidth = isHovered ? 2 : 1
-        ctx.globalAlpha = isHovered ? 1 : 0.4
-        ctx.stroke()
-        ctx.globalAlpha = 1
-
-        // Arrow
-        const angle = Math.atan2((t.y || 0) - (s.y || 0), (t.x || 0) - (s.x || 0))
-        const arrowX = (t.x || 0) - Math.cos(angle) * 18
-        const arrowY = (t.y || 0) - Math.sin(angle) * 18
-        ctx.beginPath()
-        ctx.moveTo(arrowX, arrowY)
-        ctx.lineTo(arrowX - Math.cos(angle - 0.3) * 8, arrowY - Math.sin(angle - 0.3) * 8)
-        ctx.lineTo(arrowX - Math.cos(angle + 0.3) * 8, arrowY - Math.sin(angle + 0.3) * 8)
-        ctx.closePath()
-        ctx.fillStyle = isHovered ? (EDGE_COLORS[e.type] || "#444") : "#444"
-        ctx.globalAlpha = isHovered ? 1 : 0.4
-        ctx.fill()
-        ctx.globalAlpha = 1
-      }
-
-      // Nodes
-      for (const n of ns) {
-        const isHovered = hovered === n.id
-        const r = isHovered ? 16 : 12
-        let color = NODE_COLORS[n.type] || "#888"
-        if (n.type === "politician") {
-          color = n.party === "Democrat" ? "#3b82f6" : n.party === "Republican" ? "#ef4444" : "#888"
-        }
-
-        // Glow
-        if (isHovered) {
-          ctx.beginPath()
-          ctx.arc(n.x || 0, n.y || 0, r + 4, 0, Math.PI * 2)
-          ctx.fillStyle = color + "33"
-          ctx.fill()
-        }
-
-        ctx.beginPath()
-        ctx.arc(n.x || 0, n.y || 0, r, 0, Math.PI * 2)
-        ctx.fillStyle = color
-        ctx.fill()
-        ctx.strokeStyle = "#0c0c0f"
-        ctx.lineWidth = 2
-        ctx.stroke()
-
-        // Label
-        ctx.fillStyle = "#e0e0e0"
-        ctx.font = isHovered ? "bold 11px Space Mono, monospace" : "10px Space Mono, monospace"
-        ctx.textAlign = "center"
-        ctx.fillText(n.label.length > 25 ? n.label.slice(0, 22) + "..." : n.label, n.x || 0, (n.y || 0) + r + 14)
-
-        // Amount
-        if (n.amount && isHovered) {
-          ctx.fillStyle = "#f59e0b"
-          ctx.font = "9px Space Mono, monospace"
-          ctx.fillText(String(n.amount), n.x || 0, (n.y || 0) + r + 26)
-        }
-      }
-
-      ctx.restore()
-      animRef.current = requestAnimationFrame(simulate)
+    if (!loading && allDataRef.current.nodes.length > 0) {
+      // Small delay for SVG to mount
+      const t = setTimeout(buildGraph, 100)
+      return () => clearTimeout(t)
     }
-
-    animRef.current = requestAnimationFrame(simulate)
-    return () => cancelAnimationFrame(animRef.current)
-  }, [hovered])
-
-  // Mouse interaction
-  const handleMouseMove = useCallback((e: React.MouseEvent<HTMLCanvasElement>) => {
-    const canvas = canvasRef.current
-    if (!canvas) return
-    const rect = canvas.getBoundingClientRect()
-    const scale = scaleRef.current
-    const ox = offsetRef.current.x
-    const oy = offsetRef.current.y
-    const mx = (e.clientX - rect.left - ox) / scale
-    const my = (e.clientY - rect.top - oy) / scale
-
-    if (dragging) {
-      const n = nodesRef.current.find((n) => n.id === dragging)
-      if (n) { n.fx = mx; n.fy = my; n.x = mx; n.y = my }
-      return
-    }
-
-    let found: string | null = null
-    for (const n of nodesRef.current) {
-      const dx = (n.x || 0) - mx
-      const dy = (n.y || 0) - my
-      if (dx * dx + dy * dy < 256) { found = n.id; break }
-    }
-    setHovered(found)
-    canvas.style.cursor = found ? "pointer" : "default"
-  }, [dragging])
-
-  const handleMouseDown = useCallback((e: React.MouseEvent<HTMLCanvasElement>) => {
-    const canvas = canvasRef.current
-    if (!canvas) return
-    const rect = canvas.getBoundingClientRect()
-    const scale = scaleRef.current
-    const ox = offsetRef.current.x
-    const oy = offsetRef.current.y
-    const mx = (e.clientX - rect.left - ox) / scale
-    const my = (e.clientY - rect.top - oy) / scale
-
-    for (const n of nodesRef.current) {
-      const dx = (n.x || 0) - mx
-      const dy = (n.y || 0) - my
-      if (dx * dx + dy * dy < 256) {
-        setDragging(n.id)
-        n.fx = mx
-        n.fy = my
-        return
-      }
-    }
-  }, [])
-
-  const handleMouseUp = useCallback(() => {
-    if (dragging) {
-      const n = nodesRef.current.find((n) => n.id === dragging)
-      if (n) { n.fx = null; n.fy = null }
-      setDragging(null)
-    }
-  }, [dragging])
-
-  const handleWheel = useCallback((e: React.WheelEvent<HTMLCanvasElement>) => {
-    e.preventDefault()
-    const delta = e.deltaY > 0 ? 0.9 : 1.1
-    scaleRef.current = Math.max(0.3, Math.min(3, scaleRef.current * delta))
-  }, [])
-
-  const handleSearch = (q: string) => {
-    setSearch(q)
-    if (q.length > 1) {
-      const lower = q.toLowerCase()
-      setSuggestions(allProfiles.filter((p) => p.toLowerCase().includes(lower)).slice(0, 10))
-    } else {
-      setSuggestions([])
-    }
-  }
-
-  const selectProfile = (name: string) => {
-    setProfileName(name)
-    setSearch(name)
-    setSuggestions([])
-    loadData(name)
-  }
-
-  // Resize canvas
-  useEffect(() => {
-    const resize = () => {
-      const canvas = canvasRef.current
-      if (!canvas) return
-      const parent = canvas.parentElement
-      if (!parent) return
-      canvas.width = parent.clientWidth
-      canvas.height = parent.clientHeight
-    }
-    resize()
-    window.addEventListener("resize", resize)
-    return () => window.removeEventListener("resize", resize)
-  }, [])
+  }, [loading, buildGraph])
 
   return (
     <div className="h-full flex flex-col">
       {/* Header */}
-      <div className="flex items-center gap-3 p-4 border-b border-[var(--color-border)]">
-        <h1 className="text-sm font-bold tracking-wider text-[var(--color-steel)]">MONEY TRAIL</h1>
-        <span className="text-[9px] text-[var(--color-text-dim)]">Follow the money: donor → politician → committee → bill</span>
-        <div className="ml-auto relative">
-          <input
-            type="text"
-            placeholder="Search profile..."
-            value={search}
-            onChange={(e) => handleSearch(e.target.value)}
-            className="bg-[var(--color-bg)] border border-[var(--color-border)] rounded px-3 py-1.5 text-[10px] text-[var(--color-text)] placeholder:text-[var(--color-text-dim)] focus:outline-none focus:border-[var(--color-steel)] w-64"
-          />
-          {suggestions.length > 0 && (
-            <div className="absolute top-full left-0 right-0 mt-1 bg-[var(--color-bg-card)] border border-[var(--color-border)] rounded shadow-lg z-50 max-h-60 overflow-y-auto">
-              {suggestions.map((s) => (
-                <button
-                  key={s}
-                  onClick={() => selectProfile(s)}
-                  className="w-full text-left px-3 py-1.5 text-[10px] text-[var(--color-text)] hover:bg-[var(--color-bg-hover)] truncate"
-                >
-                  {s}
-                </button>
-              ))}
-            </div>
-          )}
-        </div>
-        {profileName && (
-          <button
-            onClick={() => { setProfileName(""); setSearch(""); loadData() }}
-            className="text-[9px] px-2 py-1 rounded border border-[var(--color-border)] text-[var(--color-text-dim)] hover:text-[var(--color-text)] hover:border-[var(--color-steel)]"
-          >
-            Show All
-          </button>
+      <div className="flex items-center gap-3 p-4 border-b border-[var(--color-border)] flex-wrap">
+        <h1 className="text-sm font-bold tracking-wider text-[#f59e0b]">MONEY TRAIL</h1>
+        <span className="text-[9px] text-[var(--color-text-dim)]">
+          {(stats as any).totalEdges || 0} monetary edges | {(stats as any).totalDonors || 0} donors | {(stats as any).totalPoliticians || 0} politicians | {(stats as any).bothSidesCount || 0} both-sides
+        </span>
+        {hovered && (
+          <span className="text-[10px] text-[var(--color-text)] ml-2 font-mono">| {hovered}</span>
         )}
       </div>
 
-      {/* Legend */}
-      <div className="flex items-center gap-4 px-4 py-2 border-b border-[var(--color-border)] bg-[var(--color-bg-card)]">
-        {[
-          { label: "Donor", color: NODE_COLORS.donor },
-          { label: "Democrat", color: "#3b82f6" },
-          { label: "Republican", color: "#ef4444" },
-          { label: "Committee", color: NODE_COLORS.committee },
-          { label: "Bills", color: NODE_COLORS.bill },
-          { label: "Lobbying", color: NODE_COLORS["lobbying-firm"] },
-          { label: "Contracts", color: NODE_COLORS.pac },
-        ].map(({ label, color }) => (
-          <div key={label} className="flex items-center gap-1.5">
-            <span className="w-3 h-3 rounded-full flex-shrink-0" style={{ backgroundColor: color }} />
-            <span className="text-[9px] text-[var(--color-text-dim)]">{label}</span>
-          </div>
+      {/* Controls */}
+      <div className="flex items-center gap-2 px-4 py-2 border-b border-[var(--color-border)] bg-[var(--color-bg-card)] flex-wrap">
+        {/* Party filter */}
+        {(["all", "Democrat", "Republican", "donors", "both-sides"] as const).map(f => (
+          <button key={f} onClick={() => setFilter(f)}
+            className={`text-[8px] px-2 py-1 rounded border transition-all ${filter === f ? "border-[#f59e0b] bg-[#f59e0b]/15 text-[#f59e0b]" : "border-[var(--color-border)] text-[var(--color-text-dim)]"}`}>
+            {f === "all" ? "All" : f === "both-sides" ? "Both Sides" : f === "donors" ? "Donors Only" : f}
+          </button>
         ))}
-        <span className="ml-auto text-[8px] text-[var(--color-text-dim)]">
-          {nodes.length} nodes · {edges.length} edges {loading && "· Loading..."}
-        </span>
+
+        <span className="w-px h-4 bg-[var(--color-border)]" />
+
+        {/* Color mode */}
+        <button onClick={() => setColorMode(colorMode === "type" ? "sector" : "type")}
+          className="text-[8px] px-2 py-1 rounded border border-[var(--color-border)] text-[var(--color-text-dim)] hover:text-[var(--color-text)]">
+          Color: {colorMode === "type" ? "Entity Type" : "Sector"}
+        </button>
+
+        {/* Flow toggle */}
+        <button onClick={() => setShowFlow(!showFlow)}
+          className={`text-[8px] px-2 py-1 rounded border transition-all ${showFlow ? "border-[#f59e0b] bg-[#f59e0b]/15 text-[#f59e0b]" : "border-[var(--color-border)] text-[var(--color-text-dim)]"}`}>
+          Flow: {showFlow ? "ON" : "OFF"}
+        </button>
+
+        <span className="w-px h-4 bg-[var(--color-border)]" />
+
+        {/* Node count */}
+        <span className="text-[8px] text-[var(--color-text-dim)]">Nodes:</span>
+        <input type="range" min={50} max={500} value={maxNodes} onChange={e => setMaxNodes(parseInt(e.target.value))}
+          className="w-24 h-1 accent-[#f59e0b]" />
+        <span className="text-[8px] text-[var(--color-text-dim)] w-8">{maxNodes}</span>
       </div>
 
-      {/* Canvas */}
+      {/* Legend */}
+      <div className="flex items-center gap-3 px-4 py-1.5 border-b border-[var(--color-border)] flex-wrap">
+        <span className="text-[7px] text-[var(--color-text-dim)] uppercase tracking-wider">Nodes:</span>
+        <span className="flex items-center gap-1 text-[7px] text-[#3b82f6]"><span className="w-2 h-2 rounded-full bg-[#3b82f6]" /> Democrat</span>
+        <span className="flex items-center gap-1 text-[7px] text-[#ef4444]"><span className="w-2 h-2 rounded-full bg-[#ef4444]" /> Republican</span>
+        <span className="flex items-center gap-1 text-[7px] text-[#22c55e]"><span className="w-2 h-2 rounded-full bg-[#22c55e]" /> Donor/Corp</span>
+        <span className="flex items-center gap-1 text-[7px] text-[#f59e0b]"><span className="w-2.5 h-2.5 rounded-full border border-dashed border-[#f59e0b]" style={{ backgroundColor: "#f59e0b30" }} /> Both-sides</span>
+        <span className="w-px h-3 bg-[var(--color-border)]" />
+        <span className="text-[7px] text-[var(--color-text-dim)]">Arrows show money flow direction | Size = connection count | Scroll zoom | Drag nodes | Click to edit</span>
+      </div>
+
+      {/* Graph */}
       <div className="flex-1 relative bg-[#0c0c0f]">
-        <canvas
-          ref={canvasRef}
-          onMouseMove={handleMouseMove}
-          onMouseDown={handleMouseDown}
-          onMouseUp={handleMouseUp}
-          onMouseLeave={handleMouseUp}
-          onWheel={handleWheel}
-          className="w-full h-full"
-        />
+        {loading ? (
+          <div className="absolute inset-0 flex items-center justify-center text-[var(--color-text-dim)] text-sm animate-pulse">
+            Loading {(stats as any).totalEdges || "..."} monetary edges...
+          </div>
+        ) : (
+          <svg ref={svgRef} width="100%" height="100%" style={{ display: "block" }} />
+        )}
       </div>
     </div>
   )
