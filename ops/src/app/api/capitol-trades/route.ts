@@ -5,6 +5,7 @@ import * as path from "path"
 const ROOT = path.join(process.cwd(), "..")
 const CURRENT_FILE = path.join(ROOT, "data", "financial-disclosures.json")
 const HISTORICAL_FILE = path.join(ROOT, "data", "financial-disclosures-historical.json")
+const SENATE_FILE = path.join(ROOT, "data", "senate-disclosures-historical.json")
 
 // ─── Crypto Tier System ───────────────────────────────────────
 // Tier 1: Direct crypto holdings (Bitcoin, Ethereum, etc.)
@@ -213,6 +214,46 @@ function loadHistoricalTrades(): Trade[] {
   }
 }
 
+function loadSenateTrades(): Trade[] {
+  if (!fs.existsSync(SENATE_FILE)) return []
+  try {
+    const raw = JSON.parse(fs.readFileSync(SENATE_FILE, "utf-8"))
+    const trades: Trade[] = []
+    for (const [yearStr, yearData] of Object.entries(raw.years || {})) {
+      const yd = yearData as any
+      for (const filing of yd.filings || []) {
+        for (const tx of filing.transactions || []) {
+          trades.push(enrichTrade({
+            politician: `${filing.filer?.firstName || ''} ${filing.filer?.lastName || ''}`.trim() || "Unknown",
+            chamber: "Senate",
+            state: filing.filer?.state || "",
+            district: "",
+            ticker: tx.ticker || null,
+            asset: tx.assetDescription?.slice(0, 120) || "",
+            assetType: tx.assetType || "Stock",
+            type: tx.transactionType || "Unknown",
+            amount: tx.amount || { min: 0, max: 0, text: "Unknown" },
+            owner: tx.owner || "Self",
+            transactionDate: tx.transactionDate || "",
+            filingDate: filing.filing?.date || "",
+            year: parseInt(yearStr) || 2020,
+            sourceUrl: filing.filing?.sourceUrl || "",
+            isCrypto: tx.isCrypto || false,
+            isOptions: tx.isOptions || false,
+            optionType: tx.optionType || null,
+            isWhaleTrade: tx.isWhaleTrade || (tx.amount?.max >= 500000) || false,
+            filingDelayDays: tx.filingDelayDays,
+            isLateDisclosure: tx.isLateDisclosure || false,
+          }))
+        }
+      }
+    }
+    return trades
+  } catch {
+    return []
+  }
+}
+
 export async function GET(request: Request) {
   const { searchParams } = new URL(request.url)
   const source = searchParams.get("source") || "all" // "current", "historical", "all"
@@ -224,6 +265,7 @@ export async function GET(request: Request) {
   }
   if (source === "historical" || source === "all") {
     trades = trades.concat(loadHistoricalTrades())
+    trades = trades.concat(loadSenateTrades())
   }
 
   // Deduplicate by politician + ticker + date + type
