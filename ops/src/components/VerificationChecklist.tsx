@@ -33,7 +33,7 @@ import { getRequiredPipelinesForCommittees } from "@/lib/committee-pipeline-map"
  * - "core"   — Pre-tier legacy items (enriched-90d, connections, sign-off).
  *              These still render but aren't grouped under any Tier.
  */
-export type ChecklistGroup = "core" | "tier-a" | "tier-b" | "tier-c" | "tier-d" | "s-tier"
+export type ChecklistGroup = "core" | "tier-a" | "tier-b" | "tier-c" | "tier-d" | "structural" | "s-tier"
 
 /** Which tier this item blocks promotion to. "ready" = blocks B→A+. */
 export type ChecklistBlockingFor = "ready" | "verified" | "s-tier"
@@ -149,6 +149,32 @@ function getPoliticianChecklist(chamber?: string): ChecklistItem[] {
       check: (p) => !!p.auditSTierPassed },
     { id: "editorial-signoff-narrative", label: "David's narrative sign-off", group: "s-tier", blockingFor: "s-tier",
       check: (p) => !!p.editorialSignoffNarrative },
+
+    // ─── Structural Quality (blocks ready promotion) ──────────────────
+    { id: "party-field", label: "party: field in frontmatter", group: "structural", blockingFor: "ready",
+      check: (p) => !!p.party },
+    { id: "chamber-field", label: "chamber: field in frontmatter", group: "structural", blockingFor: "ready",
+      check: (p) => !!p.chamber },
+    { id: "bioguide-field", label: "bioguide-id: for House/Senate members", group: "structural", blockingFor: "ready", naAllowed: true,
+      check: (p) => {
+        const ch = (p.chamber || "").toLowerCase()
+        if (ch !== "house" && ch !== "senate") return true // N/A for non-Congress
+        return !!(p as Record<string, unknown>)["bioguideId"] || !!(p as Record<string, unknown>)["bioguide-id"]
+      }
+    },
+    { id: "heading-levels", label: "Major sections use ## headings (not ###)", group: "structural", blockingFor: "ready",
+      check: (_, raw) => {
+        const badHeadings = /^### (Who (They|He|She|It) (Are|Is|Was)|The Central Thesis|Central Thesis|The Core Contradiction|Core Contradiction|Donor Class Map|Class Analysis|Donation-to-Policy Timeline)/m
+        return !badHeadings.test(raw)
+      }
+    },
+    { id: "callout-syntax", label: "Callouts use > [!type] syntax", group: "structural", blockingFor: "ready",
+      check: (_, raw) => {
+        // Check for callouts missing the > prefix
+        const broken = /^[^>]\s*\[!(money|contradiction|warning|info)\]/m
+        return !broken.test(raw)
+      }
+    },
 
     // ─── Core tail (legacy items that don't fit a specific tier) ─────
     { id: "source-diversity", label: "2+ Tier 1 source types (ready floor)", group: "core", blockingFor: "ready",
@@ -298,17 +324,18 @@ export function VerificationChecklist({ profile, raw, onSaveNa, onRunPipeline }:
 
   // Group items by tier for the new grouped rendering (plan Step 4).
   // Items without a group default to "core" (legacy flat items).
-  const groupOrder: ChecklistGroup[] = ["core", "tier-a", "tier-b", "tier-c", "tier-d", "s-tier"]
+  const groupOrder: ChecklistGroup[] = ["core", "structural", "tier-a", "tier-b", "tier-c", "tier-d", "s-tier"]
   const groupLabels: Record<ChecklistGroup, string> = {
     "core": "CORE",
-    "tier-a": "TIER A — Data Breadth",
-    "tier-b": "TIER B — Investigation Depth",
-    "tier-c": "TIER C — Narrative Quality",
-    "tier-d": "TIER D — Uniqueness (automated)",
-    "s-tier": "S-TIER (above A+ — original findings)",
+    "structural": "STRUCTURAL QUALITY (blocks ready)",
+    "tier-a": "TIER A - Data Breadth",
+    "tier-b": "TIER B - Investigation Depth",
+    "tier-c": "TIER C - Narrative Quality",
+    "tier-d": "TIER D - Uniqueness (automated)",
+    "s-tier": "S-TIER (above A+ - original findings)",
   }
   const itemsByGroup: Record<ChecklistGroup, ChecklistItem[]> = {
-    "core": [], "tier-a": [], "tier-b": [], "tier-c": [], "tier-d": [], "s-tier": [],
+    "core": [], "structural": [], "tier-a": [], "tier-b": [], "tier-c": [], "tier-d": [], "s-tier": [],
   }
   for (const item of items) {
     itemsByGroup[item.group || "core"].push(item)
