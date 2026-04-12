@@ -1,6 +1,18 @@
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
 import { simplifySlug } from "../util/path"
 import { classNames } from "../util/lang"
+// Phase 3 Part 4b: canonical per-profile relationship data from the JSONL edge store.
+// Replaces frontmatter wikilink parsing for relationship fields (related, donors,
+// opposes, stories, politicians-funded). Falls back to frontmatter when a profile
+// isn't in the JSON yet.
+import relationshipData from "../../data/relationships-per-profile.json"
+
+type RelEntry = { related: string[]; donors: string[]; "politicians-funded": string[]; opposes: string[]; stories: string[] }
+
+function getRels(title: string): RelEntry | null {
+  const normalized = title.replace(/^_/, "").replace(/\s*Master Profile.*/i, "").trim()
+  return (relationshipData as Record<string, RelEntry>)[normalized] ?? null
+}
 
 const ProfileWidget: QuartzComponent = ({
   fileData,
@@ -27,25 +39,22 @@ const ProfileWidget: QuartzComponent = ({
   const isPolitician = fmType === "politician"
   const isDonorType = fmType === "donor" || fmType === "corporation" || fmType === "pac"
 
-  // Extract wikilink targets from our own related/donors/opposes/stories fields
-  const ourRelated = String(fm.related ?? "")
-  const ourDonorsField = String(fm.donors ?? "")
-  const ourOpposesField = String(fm.opposes ?? "")
-  const ourStoriesField = String(fm.stories ?? "")
-  const ourAllLinks = ourRelated + " " + ourDonorsField + " " + ourStoriesField
-  const ourLinkTargets = new Set<string>()
-  const ourOpposesTargets = new Set<string>()
-  {
+  // Phase 3 Part 4b: read relationship data from the canonical per-profile JSON
+  // instead of parsing wikilinks from frontmatter strings. Falls back to
+  // frontmatter regex parsing for profiles not yet in the JSON.
+  const rels = getRels(currentTitle)
+  const ourLinkTargets = new Set<string>(rels ? [...rels.related, ...rels.donors, ...rels.stories] : [])
+  const ourOpposesTargets = new Set<string>(rels?.opposes ?? [])
+  if (!rels) {
+    // Fallback: parse frontmatter wikilinks (pre-Phase-3 path)
+    const ourAllLinks = String(fm.related ?? "") + " " + String(fm.donors ?? "") + " " + String(fm.stories ?? "")
     const lr = /\[\[([^\]|]+)/g
     let m: RegExpExecArray | null
     while ((m = lr.exec(ourAllLinks)) !== null) {
       ourLinkTargets.add(m[1].replace(/^_/, "").replace(/\s*Master Profile.*/, "").trim())
     }
-  }
-  {
-    const lr = /\[\[([^\]|]+)/g
-    let m: RegExpExecArray | null
-    while ((m = lr.exec(ourOpposesField)) !== null) {
+    const lr2 = /\[\[([^\]|]+)/g
+    while ((m = lr2.exec(String(fm.opposes ?? ""))) !== null) {
       ourOpposesTargets.add(m[1].replace(/^_/, "").replace(/\s*Master Profile.*/, "").trim())
     }
   }
@@ -55,8 +64,10 @@ const ProfileWidget: QuartzComponent = ({
   const polInfo = new Map<string, { party: string; slug: string; chamber: string }>()
   // Extended network: think tanks, K Street, media, politicians, donors connected to this profile
   const networkInfo = new Map<string, { type: string; slug: string; category?: string; via?: string; edgeType?: string }>()
-  // For donor profiles: track politicians they fund
-  const politiciansFunded = isDonorType ? (Array.isArray(fm["politicians-funded"]) ? fm["politicians-funded"] as string[] : []) : []
+  // For donor profiles: track politicians they fund (prefer canonical JSON)
+  const politiciansFunded = isDonorType
+    ? (getRels(currentTitle)?.["politicians-funded"] ?? (Array.isArray(fm["politicians-funded"]) ? fm["politicians-funded"] as string[] : []))
+    : []
 
   for (const f of allFiles) {
     const fFm = f.frontmatter
@@ -66,7 +77,7 @@ const ProfileWidget: QuartzComponent = ({
 
     if (fSlug.startsWith("donors--and--power-networks/")) {
       const sector = String(fFm.sector ?? "")
-      const pf = Array.isArray(fFm["politicians-funded"]) ? fFm["politicians-funded"] as string[] : []
+      const pf = getRels(fTitle)?.["politicians-funded"] ?? (Array.isArray(fFm["politicians-funded"]) ? fFm["politicians-funded"] as string[] : [])
       donorInfo.set(fTitle, {
         sector,
         slug: `${basePath}/${simplifySlug(f.slug!)}`,
@@ -94,23 +105,27 @@ const ProfileWidget: QuartzComponent = ({
       const fType = isThinkTank ? "think-tank" : isKStreet ? "lobbying" : "media"
       const category = String(fFm.category ?? "")
 
-      // Check mutual references
-      const theirRelated = String(fFm.related ?? "")
-      const theirOpposes = String(fFm.opposes ?? "")
-      const theyReferenceUs = theirRelated.toLowerCase().includes(currentTitle.toLowerCase())
+      // Check mutual references (prefer canonical JSON)
+      const fRels = getRels(fTitle)
+      const theyReferenceUs = fRels?.related?.includes(currentTitle) ?? String(fFm.related ?? "").toLowerCase().includes(currentTitle.toLowerCase())
       const weReferenceThem = topDonors.includes(fTitle) || ourLinkTargets.has(fTitle)
       // Check opposition references (either direction)
-      const theyOpposeUs = theirOpposes.toLowerCase().includes(currentTitle.toLowerCase())
+      const theyOpposeUs = fRels?.opposes?.includes(currentTitle) ?? String(fFm.opposes ?? "").toLowerCase().includes(currentTitle.toLowerCase())
       const weOpposeThem = ourOpposesTargets.has(fTitle)
 
-      // Shared-donor bridge (for politician profiles)
-      const theirDonors = String(fFm.donors ?? "")
-      const theirAllLinks = theirRelated + " " + theirDonors
-      const linkTargets = new Set<string>()
-      const linkRegex = /\[\[([^\]|]+)/g
-      let lm: RegExpExecArray | null
-      while ((lm = linkRegex.exec(theirAllLinks)) !== null) {
-        linkTargets.add(lm[1].replace(/^_/, "").replace(/\s*Master Profile.*/, "").trim().toLowerCase())
+      // Shared-donor bridge (for politician profiles) — prefer canonical JSON.
+      // Values are lowercased to match the downstream topDonors comparison.
+      const fRelsList = fRels?.related ?? []
+      const fDonorsList = fRels?.donors ?? []
+      const linkTargets = new Set<string>([...fRelsList, ...fDonorsList].map(t => t.toLowerCase()))
+      if (linkTargets.size === 0 && !fRels) {
+        // Fallback: parse frontmatter wikilinks if no canonical data
+        const theirAllLinks = String(fFm.related ?? "") + " " + String(fFm.donors ?? "")
+        const linkRegex = /\[\[([^\]|]+)/g
+        let lm: RegExpExecArray | null
+        while ((lm = linkRegex.exec(theirAllLinks)) !== null) {
+          linkTargets.add(lm[1].replace(/^_/, "").replace(/\s*Master Profile.*/, "").trim().toLowerCase())
+        }
       }
       let sharedDonor = ""
       if (!theyReferenceUs && !weReferenceThem && topDonors.length > 0) {
