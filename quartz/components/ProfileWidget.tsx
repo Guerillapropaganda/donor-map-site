@@ -249,10 +249,20 @@ const ProfileWidget: QuartzComponent = ({
   // ── FLOW TAB: Top donors with sector ──
   const flowData = topDonors.map((donorName) => {
     const info = donorInfo.get(donorName)
+    // Determine relationship type from canonical data
+    let relType: "donor" | "related" | "opposes" | "story" = "donor"
+    if (rels) {
+      if (rels.opposes.includes(donorName)) relType = "opposes"
+      else if (rels.stories.includes(donorName)) relType = "story"
+      else if (rels.related.includes(donorName)) relType = "related"
+    } else if (ourOpposesTargets.has(donorName)) {
+      relType = "opposes"
+    }
     return {
       donor: donorName,
       sector: info?.sector ?? "",
       slug: info?.slug ?? "",
+      relType,
     }
   })
 
@@ -398,7 +408,7 @@ const ProfileWidget: QuartzComponent = ({
               : `Key connections tracked for ${currentTitle}.`}
           </div>
           {flowData.map((d) => (
-            <a href={d.slug || "#"} class={`pw-flow-row ${d.slug ? "internal" : ""}`}>
+            <a href={d.slug || "#"} class={`pw-flow-row pw-rel-${d.relType} ${d.slug ? "internal" : ""}`}>
               <div class="pw-flow-info">
                 <span class="pw-flow-donor">{d.donor}</span>
                 {d.sector && d.sector !== "undefined" && (
@@ -616,6 +626,12 @@ a.pw-flow-row {
 a.pw-flow-row:hover {
   background: rgba(91, 141, 206, 0.06);
 }
+
+/* Relationship type color indicators */
+a.pw-rel-donor { border-left: 3px solid #16a34a; }
+a.pw-rel-related { border-left: 3px solid #5b8dce; }
+a.pw-rel-opposes { border-left: 3px solid #e63946; }
+a.pw-rel-story { border-left: 3px solid #a855f7; }
 
 .pw-flow-info {
   display: flex;
