@@ -11,8 +11,8 @@ type: reference
 | Politicians | 252 |
 | Donors / Corporations | 393 |
 | Stories | 105 |
-| Events | 239 |
-| All .md files scanned | 1791 |
+| Events | 258 |
+| All .md files scanned | 1871 |
 
 ## Readiness Breakdown
 
@@ -22,7 +22,7 @@ type: reference
 | Draft (C) | 904 |
 | Ready (B) | 563 |
 | Verified (A+) | 0 |
-| Unknown / Not Set | 285 |
+| Unknown / Not Set | 365 |
 
 ## Verification Status
 
@@ -45,16 +45,16 @@ Last 10 profiles updated (by `last-updated` frontmatter):
 
 | Profile | Type | Last Updated |
 |---------|------|--------------|
-| Pipeline Janitor Report | admin-note | '2026-04-11' |
-| Sprint Schedule | admin-note | '2026-04-11' |
-| Agribusiness Donor Bloc | donor | 2026-04-11 |
-| Agricultural Labor Vulnerability Donors | donor | 2026-04-11 |
-| California Farm Bureau Federation | donor | 2026-04-11 |
-| Cargill | corporation | 2026-04-11 |
-| John Deere | corporation | 2026-04-11 |
-| National Cattlemen's Beef Association | donor | 2026-04-11 |
-| Tyson Foods | corporation | 2026-04-11 |
-| Western Growers Association | donor | 2026-04-11 |
+| Relationship Bidirectional Report | admin-note | '2026-04-12' |
+| Sprint Schedule | admin-note | '2026-04-12' |
+| Agribusiness Donor Bloc | donor | 2026-04-12 |
+| Agricultural Labor Vulnerability Donors | donor | 2026-04-12 |
+| California Farm Bureau Federation | donor | 2026-04-12 |
+| Cargill | corporation | 2026-04-12 |
+| John Deere | corporation | 2026-04-12 |
+| National Cattlemen's Beef Association | donor | 2026-04-12 |
+| Tyson Foods | corporation | 2026-04-12 |
+| Western Growers Association | donor | 2026-04-12 |
 
 ## Stale Profiles
 
@@ -62,4 +62,4 @@ Profiles where `last-updated` is 90+ days ago: **0**
 
 ---
 
-*Generated: 2026-04-11 07:55:34 UTC*
+*Generated: 2026-04-12 08:08:52 UTC*
