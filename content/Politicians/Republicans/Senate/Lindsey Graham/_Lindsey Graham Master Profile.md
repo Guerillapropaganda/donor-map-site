@@ -140,6 +140,18 @@ The class analysis: Graham didn't change his beliefs during the hearing. He iden
 
 ---
 
+## Class Analysis
+
+Lindsey Graham is a pure product of the donor class with no independent wealth base. Net worth $3-5M means every aspect of his political survival depends on external funding. He is not captured by one donor, he is captured by the donor market itself, adjusting his political identity to whichever network offers the highest return.
+
+The class structure: Graham services three permanent donor constituencies (defense contractors $1.2M+, FIRE sector $13.4M, pro-Israel groups $1.0M+) and one variable constituency (the MAGA small-dollar pipeline, $28M in a single quarter). The permanent constituencies buy policy outputs: defense spending increases, financial deregulation, unconditional Israel military aid. The variable constituency buys the political performance that keeps the seat, which keeps the committee assignments, which keeps the policy flowing. South Carolina voters provide the seat at a 10-point margin. National donors provide the money at a 90% out-of-state rate.
+
+The class mechanism is not corruption in the traditional sense. Graham does not take a bribe and change a vote. The mechanism is identity markets: he performs whichever political identity the ascendant donor network rewards, and the policy outputs follow from the identity, not from explicit quid pro quo. When the McCain network was ascendant, Graham performed bipartisan institutionalism. When the Trump network replaced it, Graham performed MAGA loyalty. The defense and finance money kept flowing through both identities because those sectors are indifferent to political costume, they care about committee votes.
+
+The Kavanaugh hearing is the clearest class-analysis data point: one afternoon of performed rage simultaneously served the judicial pipeline donors (Leonard Leo's network), the MAGA base (who opened the small-dollar pipeline), and the defense-finance permanent donors (who needed the seat retained). Every class interest aligned in a single performance. That is the Graham model: find the performance that serves every donor class simultaneously, then execute it.
+
+---
+
 ### The 90% Problem — Out-of-State Money and Representation
 
 Graham's 2020 race crystallized the disconnect between donor constituency and voter constituency. Both Graham and challenger Jaime Harrison raised approximately 90% of their funds from out of state. Graham raised $70M+; Harrison raised $130M+ (including a record $57M single quarter). Graham spent $73 per vote; Harrison spent $118 per vote. The total spend made it the most expensive Senate race in history at the time.
