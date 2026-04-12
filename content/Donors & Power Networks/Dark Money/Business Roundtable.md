@@ -8,7 +8,8 @@ parent: null
 sector: "Dark Money"
 entity-type: "Individual Donor"
 politicians-funded:
-  - "Donald Trump"
+  - "Linda T. Sanchez"
+  - "J. Luis Correa"
 issues:
   - "Labor & Workers"
 lobbying-spend: 4861010
@@ -17,7 +18,7 @@ ein: 237236607
 annual-revenue: "$64.5M"
 net-assets: "$47.8M"
 tax-year: "2023"
-last-enriched: "2026-04-11"
+last-enriched: "2026-04-12"
 needs-reenrichment: true
 reenrich-reason: "run fec pipeline"
 federal-register-mentions: 172
@@ -53,6 +54,7 @@ total-assets: 50178043
 wikidata-id: "Q5001792"
 wikipedia-url: "https://en.wikipedia.org/wiki/Business_Roundtable"
 wikipedia-extract: "The Business Roundtable (BRT) is a nonprofit lobbyist association based in Washington, D.C. whose members are chief executive officers of major U.S. companies."
+total-political-spend: "$110,825"
 ---
 #business-roundtable #corporate #lobbying #ceo #tax-policy #deregulation #tcja #stakeholder-capitalism #class-analysis #follow-the-money #pro-act #labor
 
@@ -309,3 +311,27 @@ The Business Roundtable (BRT) is a nonprofit lobbyist association based in Washi
 - [Source: Wikipedia](https://en.wikipedia.org/wiki/Business_Roundtable) (Tier 3)
 - [Source: Wikidata](https://www.wikidata.org/wiki/Q5001792) (Tier 2)
 <!-- auto:wikipedia end -->
+
+### Campaign Finance (FEC)
+<!-- auto:fec-donor start -->
+| Metric | Value |
+|--------|-------|
+| Total Political Spend | $110,825 |
+| Contributions | 11 |
+
+**Top recipients:**
+
+| Recipient | Amount | Party |
+|-----------|--------|-------|
+| CLEVELAND 2016 HOST COMMITTEE INC | $100,000 | REP |
+| TONY CARDENAS FOR CONGRESS | $3,000 | DEM |
+| LORETTA SANCHEZ FOR SENATE | $2,700 | DEM |
+| BY THE PEOPLE ACTION PROJECT | $1,750 | — |
+| LUCILLE ROYBAL-ALLARD FOR CONGRESS | $1,000 | DEM |
+| LOU CORREA FOR CONGRESS | $1,000 | DEM |
+| TARKANIAN FOR CONGRESS | $500 | REP |
+| FRIENDS OF JOE BACA 2016 | $500 | REP |
+| RICH POLITICAL ACTION COMMITTEE | $375 | — |
+
+- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Business%20Roundtable) (Tier 1)
+<!-- auto:fec-donor end -->

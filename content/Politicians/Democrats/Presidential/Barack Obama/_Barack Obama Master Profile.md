@@ -382,3 +382,10 @@ Compare this to [[_Bernie Sanders Master Profile|Bernie Sanders]], who left offi
 
 - [Source: Federal Register — Presidential Documents](https://www.federalregister.gov/presidential-documents/executive-orders/barack-obama) (Tier 1)
 <!-- auto:executive-orders end -->
+
+### Voting Record
+<!-- auto:voting-record start -->
+**Sources**
+
+- [Congress.gov: Barack Obama](https://www.congress.gov/member/c001091) (Tier 1)
+<!-- auto:voting-record end -->

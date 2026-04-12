@@ -14,7 +14,7 @@ annual-revenue: "$3.8M"
 net-assets: "$3.5M"
 tax-year: "2023"
 court-cases: 21
-last-enriched: "2026-04-11"
+last-enriched: "2026-04-12"
 needs-reenrichment: true
 reenrich-reason: "run fec pipeline"
 court-jurisdictions:
@@ -43,6 +43,7 @@ The needs-reenrichment flag has been set. The next scheduled pipeline run will p
 wikidata-id: "Q1137011"
 wikipedia-url: "https://en.wikipedia.org/wiki/Council_for_National_Policy"
 wikipedia-extract: "The Council for National Policy (CNP) is an umbrella organization and networking group that advocates for conservative and Republican Party initiatives in the United States."
+total-political-spend: "$2,688"
 ---
 #cnp #dark-money #conservative #christian-right #networking #secretive #strategy
 
@@ -171,3 +172,21 @@ The Council for National Policy (CNP) is an umbrella organization and networking
 - [Source: Wikipedia](https://en.wikipedia.org/wiki/Council_for_National_Policy) (Tier 3)
 - [Source: Wikidata](https://www.wikidata.org/wiki/Q1137011) (Tier 2)
 <!-- auto:wikipedia end -->
+
+### Campaign Finance (FEC)
+<!-- auto:fec-donor start -->
+| Metric | Value |
+|--------|-------|
+| Total Political Spend | $2,688 |
+| Contributions | 3 |
+
+**Top recipients:**
+
+| Recipient | Amount | Party |
+|-----------|--------|-------|
+| BOWERS FOR SENATE | $1,300 | REP |
+| FREEDOM'S DEFENSE FUND | $825 | — |
+| FRIENDS OF HEIDI ST. JOHN | $563 | REP |
+
+- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Council%20for%20National%20Policy) (Tier 1)
+<!-- auto:fec-donor end -->

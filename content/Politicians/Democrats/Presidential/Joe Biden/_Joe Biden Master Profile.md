@@ -323,3 +323,10 @@ Biden's career trajectory confirms the class reading. MBNA senator (1989-2005). 
 
 - [Source: Federal Register — Presidential Documents](https://www.federalregister.gov/presidential-documents/executive-orders/joe-biden) (Tier 1)
 <!-- auto:executive-orders end -->
+
+### Voting Record
+<!-- auto:voting-record start -->
+**Sources**
+
+- [Congress.gov: Joe Biden](https://www.congress.gov/member/c001091) (Tier 1)
+<!-- auto:voting-record end -->

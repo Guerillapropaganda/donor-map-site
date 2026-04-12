@@ -2,7 +2,7 @@
 title: "Jamie Raskin"
 type: politician
 content-readiness: draft
-last-updated: 2026-04-11
+last-updated: 2026-04-12
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -24,7 +24,7 @@ phone: "202-225-5341"
 donors: "[[UNITE HERE]] · [[Demand Justice]]"
 opposes: "[[_Donald Trump Master Profile]]"
 related: "[[The Oversight Chair and the Investigation Theater]] · [[_Donald Trump Master Profile|Trump]] · [[Federalist Society]] · [[Demand Justice]]"
-last-enriched: "2026-04-11"
+last-enriched: "2026-04-12"
 needs-reenrichment: true
 reenrich-reason: "re-run fec pipeline; re-run congress pipeline"
 bioguide-id: "R000606"

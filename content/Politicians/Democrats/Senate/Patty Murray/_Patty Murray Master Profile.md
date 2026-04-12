@@ -12,8 +12,14 @@ state-abbr: "WA"
 committees:
   - "Appropriations"
 issues:
-  - "Defense & Military"
-  - "Healthcare"
+  - "Armed Forces and National Security"
+  - "Finance and Financial Sector"
+  - "Foreign Trade and International Finance"
+  - "Government Operations and Politics"
+  - "Health"
+  - "Labor and Employment"
+  - "Native Americans"
+  - "Social Welfare"
 top-donors:
   - "Boeing"
   - "Defense Industry Bloc"
@@ -42,6 +48,8 @@ internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.
   • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it.
   • No last-enriched date is set. The pipelines have never touched this file.
 The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+last-enriched: "2026-04-12"
+bioguide-id: "M001111"
 ---
 #master-profile #democrat #senate #washington #defense #boeing #pharma #appropriations #follow-the-money #class-analysis
 tags: #democrat
@@ -148,6 +156,33 @@ This is why Murray rarely appears in national media: she operates in the less vi
 - [GovTrack: Patty Murray voting record and key votes](https://www.govtrack.us/congress/members/patty_murray/300076) (Tier 1)
 
 ### Legislative Activity (Congress.gov)
+<!-- auto:congress-legislation start -->
+| Metric | Value |
+|--------|-------|
+| Scope | Career Total |
+| Party | Democratic |
+| State | Washington |
+| Chamber | Senate |
+| Bills Sponsored | 1173 |
+| Bills Cosponsored | 6339 |
+
+**Policy areas:** Armed Forces and National Security, Finance and Financial Sector, Foreign Trade and International Finance, Government Operations and Politics, Health, Labor and Employment, Native Americans, Social Welfare
+
+**Recent sponsored legislation:**
+
+| Bill | Title | Status |
+|------|-------|--------|
+| 4261 | Preventing Youth Homelessness Demonstration Act of 2026 | Read twice and referred to the Committee on Health, Education, Labor, and Pensions. |
+| 148 | A joint resolution providing for congressional disapproval under chapter 8 of ti… | Read twice and referred to the Committee on Banking, Housing, and Urban Affairs. |
+| — |  | — |
+| — |  | — |
+| — |  | — |
+| — |  | — |
+| 4081 | Fair Wages for Home Care Workers Act | Read twice and referred to the Committee on Health, Education, Labor, and Pensions. |
+| — |  | — |
+
+- [Source: Congress.gov](https://www.congress.gov/member/M001111) (Tier 1)
+<!-- auto:congress-legislation end -->
 
 ## Influence Network (Cross-Reference)
 <!-- auto:influence-cross-ref start -->

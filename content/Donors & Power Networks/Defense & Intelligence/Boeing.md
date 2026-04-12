@@ -2,7 +2,7 @@
 title: "Boeing"
 type: corporation
 content-readiness: draft
-last-updated: 2026-04-11
+last-updated: 2026-04-12
 source-tier: 1
 parent: null
 sector: "Defense & Intelligence"
@@ -29,7 +29,7 @@ court-jurisdictions:
   - "United States Bankruptcy Court, C.D. California"
 lei: "254900R0UACRM2XT9692"
 lei-jurisdiction: "US-NC"
-ein: "916056255"
+ein: 916056255
 annual-revenue: "$914K"
 net-assets: "$468K"
 tax-year: "2023"

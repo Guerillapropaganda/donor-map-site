@@ -28,7 +28,7 @@ bills-sponsored: 35
 bills-cosponsored: 248
 website: "https://www.warner.senate.gov"
 phone: "202-224-2023"
-last-enriched: "2026-04-08"
+last-enriched: "2026-04-12"
 needs-reenrichment: true
 reenrich-reason: "run congress pipeline"
 donors: "[[Tech Industry]] · [[Insurance Industry]] · [[Goldman Sachs]]"
@@ -36,6 +36,16 @@ related: "[[Private Equity Buys Regulatory Immunity Across the Aisle]] · [[Eric
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
   • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it.
 The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+bioguide-id: "W000805"
+issues:
+  - "Congress"
+  - "Finance and Financial Sector"
+  - "Foreign Trade and International Finance"
+  - "Government Operations and Politics"
+  - "Health"
+  - "Native Americans"
+  - "Science, Technology, Communications"
+  - "Taxation"
 ---
 #mark-warner #senate #virginia #intelligence #telecom #venture-capital #personal-wealth #class-analysis #democrat
 tags: #democrat
@@ -292,3 +302,32 @@ Warner announced 2026 reelection bid (fourth term), positioning himself for cont
 - [Congress.gov: Mark Warner](https://www.congress.gov/member/c001091) (Tier 1)
 - [GovTrack: Mark Warner](https://www.govtrack.us/congress/members/412321) (Tier 1)
 <!-- auto:voting-record end -->
+
+### Legislative Activity (Congress.gov)
+<!-- auto:congress-legislation start -->
+| Metric | Value |
+|--------|-------|
+| Scope | Career Total |
+| Party | Democratic |
+| State | Virginia |
+| Chamber | Senate |
+| Bills Sponsored | 723 |
+| Bills Cosponsored | 2475 |
+
+**Policy areas:** Congress, Finance and Financial Sector, Foreign Trade and International Finance, Government Operations and Politics, Health, Native Americans, Science, Technology, Communications, Taxation
+
+**Recent sponsored legislation:**
+
+| Bill | Title | Status |
+|------|-------|--------|
+| 4233 | Save Struggling Hospitals Act | Read twice and referred to the Committee on Finance. |
+| 135 | A joint resolution providing for congressional disapproval under chapter 8 of ti… | Read twice and referred to the Committee on Banking, Housing, and Urban Affairs. |
+| — |  | — |
+| 4118 | Hospice CARE Act of 2026 | Read twice and referred to the Committee on Finance. |
+| 4046 | Economy of the Future Commission Act of 2026 | Read twice and referred to the Committee on Commerce, Science, and Transportation. |
+| — |  | — |
+| — |  | — |
+| — |  | — |
+
+- [Source: Congress.gov](https://www.congress.gov/member/W000805) (Tier 1)
+<!-- auto:congress-legislation end -->

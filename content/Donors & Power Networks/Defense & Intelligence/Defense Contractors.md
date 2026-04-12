@@ -2,12 +2,12 @@
 title: "Defense Contractors"
 type: donor
 content-readiness: draft
-last-updated: 2026-04-11
+last-updated: 2026-04-12
 source-tier: 1
 parent: null
 sector: "Defense & Intelligence"
 entity-type: "Individual Donor"
-ein: "20654518"
+ein: 20654518
 annual-revenue: "$1.3M"
 net-assets: "$2.2M"
 tax-year: "2023"

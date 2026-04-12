@@ -23,7 +23,7 @@ bills-cosponsored: 625
 website: "https://www.blumenthal.senate.gov"
 phone: "202-224-2823"
 stock-trades: 50
-last-enriched: "2026-04-07"
+last-enriched: "2026-04-12"
 needs-reenrichment: true
 reenrich-reason: "run congress pipeline"
 donors: "[[Google - Alphabet]]"
@@ -31,6 +31,18 @@ related: "[[Private Equity Buys Regulatory Immunity Across the Aisle]] · [[_Jer
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
   • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it.
 The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+bioguide-id: "B001277"
+issues:
+  - "Agriculture and Food"
+  - "Armed Forces and National Security"
+  - "Commerce"
+  - "Crime and Law Enforcement"
+  - "Environmental Protection"
+  - "Finance and Financial Sector"
+  - "Health"
+  - "International Affairs"
+  - "Native Americans"
+  - "Taxation"
 ---
 #richard-blumenthal #democrat #connecticut #senate #ranking-member #veterans-affairs #judiciary #armed-services #gun-control #children-online-safety #attorney-general #vietnam-controversy #empire-state-building #malkin #wealthy #phase-6-gavel-power
 
@@ -258,3 +270,32 @@ The analytical interest is the personal wealth dimension. Blumenthal is a $100M+
 
 - [GovTrack: Richard Blumenthal](https://www.govtrack.us/congress/members/412490) (Tier 1)
 <!-- auto:voting-record end -->
+
+### Legislative Activity (Congress.gov)
+<!-- auto:congress-legislation start -->
+| Metric | Value |
+|--------|-------|
+| Scope | Career Total |
+| Party | Democratic |
+| State | Connecticut |
+| Chamber | Senate |
+| Bills Sponsored | 1067 |
+| Bills Cosponsored | 6110 |
+
+**Policy areas:** Agriculture and Food, Armed Forces and National Security, Commerce, Crime and Law Enforcement, Environmental Protection, Finance and Financial Sector, Health, International Affairs, Native Americans, Taxation, Transportation and Public Works
+
+**Recent sponsored legislation:**
+
+| Bill | Title | Status |
+|------|-------|--------|
+| 150 | A joint resolution providing for congressional disapproval under chapter 8 of ti… | Read twice and referred to the Committee on Banking, Housing, and Urban Affairs. |
+| 4237 | A bill to amend title 38, United States Code, to modify the eligibility requirem… | Read twice and referred to the Committee on Veterans' Affairs. |
+| 4269 | A bill to repeal certain student loan provisions, and for other purposes. | Read twice and referred to the Committee on Finance. |
+| — |  | — |
+| 4149 | Social Determinants for Moms Act | Read twice and referred to the Committee on Health, Education, Labor, and Pensions. |
+| 4140 | Carlton H. Ingram Veterans’ Benefits Protection Act | Read twice and referred to the Committee on Veterans' Affairs. |
+| — |  | — |
+| 4060 | Prediction Markets Security and Integrity Act of 2026 | Read twice and referred to the Committee on the Judiciary. |
+
+- [Source: Congress.gov](https://www.congress.gov/member/B001277) (Tier 1)
+<!-- auto:congress-legislation end -->

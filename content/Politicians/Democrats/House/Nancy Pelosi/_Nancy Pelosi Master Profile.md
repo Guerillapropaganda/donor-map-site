@@ -2,7 +2,7 @@
 title: "Nancy Pelosi Master Profile"
 type: politician
 content-readiness: draft
-last-updated: 2026-04-11
+last-updated: 2026-04-12
 source-tier: 1
 career-total: "$1.6B"
 parent: null
@@ -57,7 +57,7 @@ top-donors:
 total-received: "$2,408,010"
 fec-candidate-id: "H8CA05035"
 bioguide-id: "P000197"
-last-enriched: "2026-04-11"
+last-enriched: "2026-04-12"
 source-types:
   - DOJ
   - FEC
