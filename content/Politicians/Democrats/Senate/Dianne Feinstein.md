@@ -101,11 +101,17 @@ This real estate wealth also intersected with her policy positions: Feinstein op
 
 ---
 
+### Revolving Door and Family Network
+
+The Feinstein-Blum relationship is the vault's most documented case of spousal employment creating a direct conflict of interest with committee jurisdiction. Spouse Richard Blum employed a network of defense contractors (URS Corporation, Perini Corporation, Tutor Perini) through Blum Capital Partners while Feinstein chaired the Military Construction Appropriations subcommittee overseeing $1.5B+ in federal contracts flowing to those same firms. Blum Capital also employed former government officials in advisory roles, and Blum's firms hired former military procurement officers. CB Richard Ellis (CBRE), in which Blum held significant stakes, won FDIC contracts to sell foreclosed properties during the 2008 financial crisis while Feinstein sat on the relevant oversight committees.
+
+---
+
 ### Intelligence Committee Chaos
 
 In March 2014, Feinstein publicly accused the CIA of secretly accessing Senate Intelligence Committee computer files, removing documents, and attempting to intimidate committee investigators while the committee investigated CIA detention/torture programs.
 
-The irony: the committee chair (Feinstein) claimed the intelligence agency (CIA) was undermining oversight, but Feinstein simultaneously protected the CIA from major accountability. She investigated torture but allowed the CIA to avoid criminal prosecution. She exposed the overreach but worked with the intelligence community for eventual cooperation rather than confrontation.
+The irony: the committee chair (Feinstein) claimed the intelligence agency (CIA) was undermining oversight, but Feinstein simultaneously protected the CIA from major accountability. She investigated torture but allowed the CIA to avoid prosecution. She exposed the overreach but worked with the intelligence community for eventual cooperation rather than confrontation.
 
 This dynamic likely reflected Feinstein's structural position: her wealth depended partially on the intelligence community and defense establishment. Aggressive oversight that threatened the CIA's institutional power would have threatened the defense contractor ecosystem that partially funded her wealth.
 
@@ -147,7 +153,7 @@ The final-years cognitive decline exposes the class infrastructure beneath the i
 
 ## Analytical Patterns
 
-**The Genuine Win + Structural Limit**: Feinstein's investigation into CIA torture (detention and interrogation programs) was genuine oversight that exposed institutional abuse and generated public accountability. The structural limit: the investigation never resulted in criminal prosecutions of CIA operatives; the agency's core institutional power was preserved; her surveillance advocacy (NSA expansion, FISA reauthorization) protected the intelligence infrastructure that enables abuse.
+**The Genuine Win + Structural Limit**: Feinstein's investigation into CIA torture (detention and interrogation programs) was genuine oversight that exposed institutional abuse and generated public accountability. The structural limit: the investigation never resulted in prosecutions of CIA operatives; the agency's core institutional power was preserved; her surveillance advocacy (NSA expansion, FISA reauthorization) protected the intelligence infrastructure that enables abuse.
 
 > [!contradiction]
 > **The Surveillance Hawk with Defense Contractor Wealth**: Feinstein's advocacy for expanded surveillance powers directly benefited her husband's defense contractor investments. Expanded CIA authority increased federal surveillance budgets, which expanded Defense Department contracts, which increased profits for URS, Perini, and related contractors. Whether she would have advocated for these positions without financial interest is unknowable; the convenient alignment between her policy advocacy and personal wealth accumulation was too perfect to be coincidental.
