@@ -95,8 +95,9 @@ export default function CapitolTradesPage() {
   const [committeeConflicts, setCommitteeConflicts] = useState<any>(null)
   const [unusualActivity, setUnusualActivity] = useState<any>(null)
   const [enhancedStats, setEnhancedStats] = useState<any>(null)
+  const [tradeStories, setTradeStories] = useState<any>(null)
   const [loading, setLoading] = useState(true)
-  const [tab, setTab] = useState<"table" | "flow" | "trail" | "tickers" | "traders" | "unusual" | "conflicts" | "crypto">("table")
+  const [tab, setTab] = useState<"table" | "flow" | "trail" | "tickers" | "traders" | "stories" | "unusual" | "conflicts" | "crypto">("table")
   // Crypto tier filters — tiers 1-3 on by default, adjacent (tier 4) opt-in
   const [activeTiers, setActiveTiers] = useState<Set<CryptoTier>>(new Set(['direct', 'etf', 'company']))
   const trailRef = useRef<SVGSVGElement>(null)
@@ -139,6 +140,10 @@ export default function CapitolTradesPage() {
     fetch("/api/unusual-activity")
       .then(r => r.json())
       .then(data => setUnusualActivity(data))
+      .catch(() => {})
+    fetch("/api/trade-stories")
+      .then(r => r.json())
+      .then(data => setTradeStories(data))
       .catch(() => {})
   }, [])
 
@@ -320,12 +325,12 @@ export default function CapitolTradesPage() {
 
       {/* Tabs */}
       <div className="flex border-b border-[var(--color-border)] mb-4">
-        {(["table", "flow", "trail", "tickers", "traders", "unusual", "conflicts", "crypto"] as const).map(t => (
+        {(["table", "flow", "trail", "tickers", "traders", "stories", "unusual", "conflicts", "crypto"] as const).map(t => (
           <button key={t} onClick={() => setTab(t)}
             className={`px-4 py-2 font-mono text-[10px] font-bold uppercase tracking-wider border-b-2 -mb-px ${
               tab === t ? "text-[var(--color-text)] border-[var(--color-steel)]" : "text-[var(--color-text-dim)] border-transparent hover:text-[var(--color-text)]"
-            } ${t === "crypto" ? "ml-2 !text-[#f59e0b] " + (tab === t ? "!border-[#f59e0b]" : "") : ""} ${t === "conflicts" ? "!text-[#ef4444] " + (tab === t ? "!border-[#ef4444]" : "") : ""} ${t === "unusual" ? "!text-[#8b5cf6] " + (tab === t ? "!border-[#8b5cf6]" : "") : ""}`}>
-            {t === "table" ? "TRADES" : t === "flow" ? "STOCK FLOW" : t === "trail" ? "MONEY TRAIL" : t === "tickers" ? "TOP TICKERS" : t === "traders" ? "TOP TRADERS" : t === "unusual" ? "UNUSUAL" : t === "conflicts" ? "CONFLICTS" : "CRYPTO"}
+            } ${t === "crypto" ? "ml-2 !text-[#f59e0b] " + (tab === t ? "!border-[#f59e0b]" : "") : ""} ${t === "conflicts" ? "!text-[#ef4444] " + (tab === t ? "!border-[#ef4444]" : "") : ""} ${t === "unusual" ? "!text-[#8b5cf6] " + (tab === t ? "!border-[#8b5cf6]" : "") : ""} ${t === "stories" ? "!text-[#22c55e] " + (tab === t ? "!border-[#22c55e]" : "") : ""}`}>
+            {t === "table" ? "TRADES" : t === "flow" ? "STOCK FLOW" : t === "trail" ? "MONEY TRAIL" : t === "tickers" ? "TOP TICKERS" : t === "traders" ? "TOP TRADERS" : t === "stories" ? "STORIES" : t === "unusual" ? "UNUSUAL" : t === "conflicts" ? "CONFLICTS" : "CRYPTO"}
           </button>
         ))}
         <div className="ml-auto text-[10px] text-[var(--color-text-dim)] font-mono self-center">
@@ -569,6 +574,89 @@ export default function CapitolTradesPage() {
               <div className="font-mono text-xs font-bold text-[var(--color-text)] w-12 text-right">{tr.total}</div>
             </div>
           ))}
+        </div>
+      )}
+
+      {/* ── Stories ── */}
+      {tab === "stories" && (
+        <div>
+          <div className="flex items-center gap-3 mb-4">
+            <div>
+              <div className="font-mono text-sm font-bold text-[#22c55e]">Trade Stories</div>
+              <div className="font-mono text-[10px] text-[var(--color-text-dim)]">
+                Plain-English narratives generated from the data. What a normie needs to see.
+              </div>
+            </div>
+          </div>
+
+          {!tradeStories && (
+            <div className="text-center py-16 text-[var(--color-text-dim)] font-mono text-sm">Loading stories...</div>
+          )}
+
+          {tradeStories && tradeStories.stats && (
+            <>
+              <div className="flex gap-4 mb-6 font-mono text-[10px]">
+                <span className="text-[#ef4444] font-bold">{tradeStories.stats.critical} CRITICAL</span>
+                <span className="text-[#f59e0b] font-bold">{tradeStories.stats.high} HIGH</span>
+                <span className="text-[var(--color-text-dim)]">{tradeStories.stats.medium} MEDIUM</span>
+                <span className="text-[var(--color-text-dim)]">·</span>
+                {Object.entries(tradeStories.stats.byCategory as Record<string, number>).filter(([,v]: any) => v > 0).map(([k, v]: [string, any]) => (
+                  <span key={k} className="text-[var(--color-text-dim)]">{k}: {v}</span>
+                ))}
+              </div>
+
+              <div className="space-y-4">
+                {(tradeStories.stories || []).map((s: any, i: number) => {
+                  const borderColor = s.severity === 'critical' ? '#ef4444' : s.severity === 'high' ? '#f59e0b' : '#6b7280'
+                  const categoryColors: Record<string, string> = {
+                    whale: '#f59e0b', late: '#ef4444', options: '#8b5cf6', 'crypto-vote': '#f59e0b', committee: '#ef4444', cluster: '#8b5cf6'
+                  }
+                  const catColor = categoryColors[s.category] || '#6b7280'
+
+                  return (
+                    <div key={i} className="border p-4" style={{ borderColor, borderLeftWidth: 4, backgroundColor: borderColor + '08' }}>
+                      {/* Category + Severity badges */}
+                      <div className="flex items-center gap-2 mb-2">
+                        <span className="px-2 py-0.5 font-mono text-[8px] font-bold uppercase tracking-wider"
+                          style={{ color: catColor, backgroundColor: catColor + '22' }}>
+                          {s.category}
+                        </span>
+                        <span className="px-2 py-0.5 font-mono text-[8px] font-bold uppercase tracking-wider"
+                          style={{ color: borderColor, backgroundColor: borderColor + '22' }}>
+                          {s.severity}
+                        </span>
+                        {s.date && <span className="font-mono text-[9px] text-[var(--color-text-dim)] ml-auto">{s.date}</span>}
+                      </div>
+
+                      {/* Headline */}
+                      <div className="text-base font-bold text-[var(--color-text)] mb-2 leading-tight">
+                        {s.headline}
+                      </div>
+
+                      {/* Body */}
+                      <div className="text-[12px] text-[var(--color-text-dim)] leading-relaxed">
+                        {s.body}
+                      </div>
+
+                      {/* Footer */}
+                      <div className="flex items-center gap-3 mt-3 pt-2 border-t border-[var(--color-border)]">
+                        <button className="font-mono text-[9px] text-[var(--color-steel)] hover:underline"
+                          onClick={() => { setSearch(s.politician); setTab("table"); setPage(0) }}>
+                          View all trades by {s.politician}
+                        </button>
+                        {s.ticker && (
+                          <button className="font-mono text-[9px] text-[var(--color-steel)] hover:underline"
+                            onClick={() => { setFlowTicker(s.ticker); setTab("flow") }}>
+                            View {s.ticker} flow
+                          </button>
+                        )}
+                      </div>
+                    </div>
+                  )
+                })}
+              </div>
+            </>
+          )}
         </div>
       )}
 
