@@ -97,7 +97,8 @@ export default function CapitolTradesPage() {
   const [enhancedStats, setEnhancedStats] = useState<any>(null)
   const [tradeStories, setTradeStories] = useState<any>(null)
   const [loading, setLoading] = useState(true)
-  const [tab, setTab] = useState<"table" | "flow" | "trail" | "tickers" | "traders" | "stories" | "unusual" | "conflicts" | "crypto">("table")
+  const [tab, setTab] = useState<"table" | "flow" | "trail" | "tickers" | "traders" | "stories" | "unusual" | "conflicts" | "lobby" | "crypto">("table")
+  const [lobbyData, setLobbyData] = useState<any>(null)
   // Crypto tier filters — tiers 1-3 on by default, adjacent (tier 4) opt-in
   const [activeTiers, setActiveTiers] = useState<Set<CryptoTier>>(new Set(['direct', 'etf', 'company']))
   const trailRef = useRef<SVGSVGElement>(null)
@@ -144,6 +145,10 @@ export default function CapitolTradesPage() {
     fetch("/api/trade-stories")
       .then(r => r.json())
       .then(data => setTradeStories(data))
+      .catch(() => {})
+    fetch("/api/lobby-trades")
+      .then(r => r.json())
+      .then(data => setLobbyData(data))
       .catch(() => {})
   }, [])
 
@@ -325,12 +330,12 @@ export default function CapitolTradesPage() {
 
       {/* Tabs */}
       <div className="flex border-b border-[var(--color-border)] mb-4">
-        {(["table", "flow", "trail", "tickers", "traders", "stories", "unusual", "conflicts", "crypto"] as const).map(t => (
+        {(["table", "flow", "trail", "tickers", "traders", "stories", "unusual", "conflicts", "lobby", "crypto"] as const).map(t => (
           <button key={t} onClick={() => setTab(t)}
             className={`px-4 py-2 font-mono text-[10px] font-bold uppercase tracking-wider border-b-2 -mb-px ${
               tab === t ? "text-[var(--color-text)] border-[var(--color-steel)]" : "text-[var(--color-text-dim)] border-transparent hover:text-[var(--color-text)]"
-            } ${t === "crypto" ? "ml-2 !text-[#f59e0b] " + (tab === t ? "!border-[#f59e0b]" : "") : ""} ${t === "conflicts" ? "!text-[#ef4444] " + (tab === t ? "!border-[#ef4444]" : "") : ""} ${t === "unusual" ? "!text-[#8b5cf6] " + (tab === t ? "!border-[#8b5cf6]" : "") : ""} ${t === "stories" ? "!text-[#22c55e] " + (tab === t ? "!border-[#22c55e]" : "") : ""}`}>
-            {t === "table" ? "TRADES" : t === "flow" ? "STOCK FLOW" : t === "trail" ? "MONEY TRAIL" : t === "tickers" ? "TOP TICKERS" : t === "traders" ? "TOP TRADERS" : t === "stories" ? "STORIES" : t === "unusual" ? "UNUSUAL" : t === "conflicts" ? "CONFLICTS" : "CRYPTO"}
+            } ${t === "crypto" ? "ml-2 !text-[#f59e0b] " + (tab === t ? "!border-[#f59e0b]" : "") : ""} ${t === "conflicts" ? "!text-[#ef4444] " + (tab === t ? "!border-[#ef4444]" : "") : ""} ${t === "unusual" ? "!text-[#8b5cf6] " + (tab === t ? "!border-[#8b5cf6]" : "") : ""} ${t === "stories" ? "!text-[#22c55e] " + (tab === t ? "!border-[#22c55e]" : "") : ""} ${t === "lobby" ? "!text-[#06b6d4] " + (tab === t ? "!border-[#06b6d4]" : "") : ""}`}>
+            {t === "table" ? "TRADES" : t === "flow" ? "STOCK FLOW" : t === "trail" ? "MONEY TRAIL" : t === "tickers" ? "TOP TICKERS" : t === "traders" ? "TOP TRADERS" : t === "stories" ? "STORIES" : t === "unusual" ? "UNUSUAL" : t === "conflicts" ? "CONFLICTS" : t === "lobby" ? "LOBBY" : "CRYPTO"}
           </button>
         ))}
         <div className="ml-auto text-[10px] text-[var(--color-text-dim)] font-mono self-center">
@@ -983,6 +988,136 @@ export default function CapitolTradesPage() {
                     ))}
                   </tbody>
                 </table>
+              </div>
+            </>
+          )}
+        </div>
+      )}
+
+      {/* ── Lobby-Trade Cross-Reference ── */}
+      {tab === "lobby" && (
+        <div>
+          <div className="flex items-center gap-3 mb-4">
+            <span className="text-2xl">💰</span>
+            <div>
+              <div className="font-mono text-sm font-bold text-[#06b6d4]">Lobby-Trade Cross-Reference</div>
+              <div className="font-mono text-[10px] text-[var(--color-text-dim)]">
+                Companies that spend millions lobbying Congress whose stock is traded by sitting members
+              </div>
+            </div>
+          </div>
+
+          {!lobbyData && <div className="text-center py-16 text-[var(--color-text-dim)] font-mono text-sm">Loading...</div>}
+
+          {lobbyData && lobbyData.stats && (
+            <>
+              <div className="grid grid-cols-4 gap-3 mb-6">
+                <div className="bg-[var(--color-bg-card)] border border-[#06b6d433] p-3">
+                  <div className="text-[9px] text-[var(--color-text-dim)] font-mono uppercase tracking-wider">Lobby-Trade Matches</div>
+                  <div className="text-xl font-bold text-[#06b6d4] font-mono">{lobbyData.stats.totalMatches.toLocaleString()}</div>
+                </div>
+                <div className="bg-[var(--color-bg-card)] border border-[#06b6d433] p-3">
+                  <div className="text-[9px] text-[var(--color-text-dim)] font-mono uppercase tracking-wider">Lobbying Entities</div>
+                  <div className="text-xl font-bold text-[var(--color-text)] font-mono">{lobbyData.stats.entitiesWithTickers}</div>
+                  <div className="text-[9px] text-[var(--color-text-dim)] font-mono">of {lobbyData.stats.entitiesTotal} mapped</div>
+                </div>
+                <div className="bg-[var(--color-bg-card)] border border-[#06b6d433] p-3">
+                  <div className="text-[9px] text-[var(--color-text-dim)] font-mono uppercase tracking-wider">Politicians Trading</div>
+                  <div className="text-xl font-bold text-[var(--color-text)] font-mono">{lobbyData.stats.uniquePoliticians}</div>
+                </div>
+                <div className="bg-[var(--color-bg-card)] border border-[#06b6d433] p-3">
+                  <div className="text-[9px] text-[var(--color-text-dim)] font-mono uppercase tracking-wider">Funded AND Traded</div>
+                  <div className="text-xl font-bold text-[#ef4444] font-mono">{lobbyData.stats.fundedAndTradedCount}</div>
+                  <div className="text-[9px] text-[var(--color-text-dim)] font-mono">Triple conflict</div>
+                </div>
+              </div>
+
+              {/* Funded AND Traded - the triple conflicts */}
+              {(lobbyData.fundedAndTraded || []).length > 0 && (
+                <div className="mb-6">
+                  <div className="font-mono text-[10px] font-bold uppercase tracking-wider text-[#ef4444] mb-2">
+                    Triple Conflict: Funded by Lobby Entity + Trades Their Stock
+                  </div>
+                  <div className="text-[10px] text-[var(--color-text-dim)] font-mono mb-3">
+                    These politicians receive money from an entity that lobbies Congress, and also trade that entity's stock.
+                  </div>
+                  <div className="space-y-2">
+                    {(lobbyData.fundedAndTraded || []).map((f: any, i: number) => (
+                      <div key={i} className="bg-[var(--color-bg-card)] border border-[#ef4444] p-3" style={{ borderLeftWidth: 4 }}>
+                        <div className="flex items-center justify-between">
+                          <div>
+                            <span className="text-sm font-bold text-[var(--color-text)]">{f.politician}</span>
+                            <span className="font-mono text-[10px] text-[#06b6d4] ml-2">← funded by →</span>
+                            <span className="text-sm font-bold text-[var(--color-text)] ml-2">{f.entity}</span>
+                          </div>
+                          <div className="text-right">
+                            <div className="font-mono text-[10px] text-[var(--color-text-dim)]">{f.ticker} · {f.tradeCount} trades · {fmtK(f.tradeVolume)}</div>
+                            <div className="font-mono text-[10px] text-[#06b6d4]">Entity lobby spend: {fmtK(f.lobbySpend)}</div>
+                          </div>
+                        </div>
+                      </div>
+                    ))}
+                  </div>
+                </div>
+              )}
+
+              <div className="grid grid-cols-2 gap-6">
+                {/* Top Lobbying Entities Traded */}
+                <div>
+                  <div className="font-mono text-[10px] font-bold uppercase tracking-wider text-[#06b6d4] mb-3">
+                    Top Lobbying Entities Whose Stock Is Traded
+                  </div>
+                  <div className="space-y-2">
+                    {(lobbyData.topEntities || []).map((e: any, i: number) => {
+                      const maxSpend = lobbyData.topEntities[0]?.spend || 1
+                      return (
+                        <div key={i} className="bg-[var(--color-bg-card)] border border-[var(--color-border)] p-3">
+                          <div className="flex items-center justify-between mb-1">
+                            <div>
+                              <span className="text-sm font-medium text-[var(--color-text)]">{e.entity}</span>
+                              <span className="font-mono text-[10px] text-[var(--color-text-dim)] ml-2">{e.tickers.join(', ')}</span>
+                            </div>
+                            <span className="font-mono text-[10px] text-[#06b6d4]">{fmtK(e.spend)} lobbying</span>
+                          </div>
+                          <div className="h-2 bg-[var(--color-border)] mb-1">
+                            <div className="h-full bg-[#06b6d4]" style={{ width: `${(e.spend / maxSpend) * 100}%` }} />
+                          </div>
+                          <div className="flex justify-between font-mono text-[9px] text-[var(--color-text-dim)]">
+                            <span>{e.politicianCount} politicians trading</span>
+                            <span>{e.trades} trades · {fmtK(e.tradeVolume)} volume</span>
+                          </div>
+                        </div>
+                      )
+                    })}
+                  </div>
+                </div>
+
+                {/* Politicians Most Exposed to Lobbying Entities */}
+                <div>
+                  <div className="font-mono text-[10px] font-bold uppercase tracking-wider text-[#06b6d4] mb-3">
+                    Politicians Most Exposed to Lobbying Entities
+                  </div>
+                  <div className="space-y-2">
+                    {(lobbyData.topPoliticians || []).map((p: any, i: number) => (
+                      <div key={i} className="bg-[var(--color-bg-card)] border border-[var(--color-border)] p-3 cursor-pointer hover:bg-[var(--color-bg-hover)]"
+                        onClick={() => { setSearch(p.politician); setTab("table"); setPage(0) }}>
+                        <div className="flex items-center justify-between mb-1">
+                          <span className="text-sm font-medium text-[var(--color-text)]">{p.politician}</span>
+                          <span className="font-mono text-[10px] text-[#06b6d4]">{fmtK(p.totalLobbyExposure)} exposure</span>
+                        </div>
+                        <div className="font-mono text-[9px] text-[var(--color-text-dim)]">
+                          {p.trades} trades in {p.entityCount} lobbying entities · {fmtK(p.tradeVolume)} volume
+                        </div>
+                        <div className="flex flex-wrap gap-1 mt-1">
+                          {p.entities.slice(0, 5).map((e: string, ei: number) => (
+                            <span key={ei} className="px-1.5 py-0.5 bg-[#06b6d422] text-[#06b6d4] font-mono text-[8px] font-bold">{e}</span>
+                          ))}
+                          {p.entities.length > 5 && <span className="font-mono text-[8px] text-[var(--color-text-dim)]">+{p.entities.length - 5}</span>}
+                        </div>
+                      </div>
+                    ))}
+                  </div>
+                </div>
               </div>
             </>
           )}
