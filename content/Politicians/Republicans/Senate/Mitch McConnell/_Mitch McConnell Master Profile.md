@@ -108,6 +108,20 @@ NBC News reported that Koch and Leo networks together poured $55M+ into organiza
 
 ---
 
+## Class Analysis
+
+Mitch McConnell is not a member of the donor class who entered politics. He is the architect of the system through which the donor class governs. His three structural achievements, killing campaign finance limits (McConnell v. FEC laid the groundwork for Citizens United), building the dark money infrastructure ($800M+ through SLF/One Nation), and capturing the federal judiciary (234 judges, 3 Supreme Court justices), did not serve the donor class. They built the machine that ensures the donor class controls the machinery of government permanently, regardless of who holds office.
+
+The class analysis must operate at the infrastructure level, not the transaction level. McConnell's personal campaign raised $76K in Q3 2024, irrelevant. SLF raised $211M in the same cycle. The personal fundraising number is a distraction. McConnell's value is not that he takes donor money and produces votes. His value is that he built a system where $3B+ in political spending flows through organizations run by his former chief of staff (Steven Law), aligned with Koch's political operation ($578M), and coordinated with Leonard Leo's judicial network ($1.6B). No other American politician has built comparable infrastructure.
+
+The Kentucky contradiction is the class tell. McConnell represents the 46th-poorest state by median household income. His donor base is the wealthiest corporate class in America: Koch Industries, Big Tobacco ($650K), Big Pharma (Pfizer $1M to KY GOP HQ), defense contractors, Wall Street. Kentucky's poverty rate, its opioid crisis, its coal-dependent economy, none of this appears in McConnell's legislative priorities because Kentucky provides the seat and the donor class provides the power. The seat is the input. The power is the output. Kentucky's interests are structurally irrelevant to the exchange.
+
+The Chao marriage is the personal-level class structure. McConnell's net worth jumped from $3M to $12.7M through inheritance from his wife's family shipping empire (Foremost Group, 33 ships, $1.2B valuation, Chinese state-bank financing). His household wealth comes from international shipping, his political power comes from domestic dark money networks. The marriage merges two class functions: political infrastructure and global capital.
+
+McConnell's retirement in 2026 does not end the system. SLF, One Nation, the Federalist Society pipeline, the Koch alignment, the 234 judges, these are permanent infrastructure. The class analysis of McConnell is not about one senator's career. It is about the construction of a system that ensures donor-class control survives any individual politician's departure.
+
+---
+
 ## Analytical Patterns
 
 **The Genuine Win + Structural Limit** — McConnell has secured genuine policy victories: Citizens United (campaign finance liberation), 234 Trump judges (constitutional capture), tax cuts for wealthy (capital preferencing), deregulation framework. These are real, substantial wins that reshape American politics and law for decades. However, they stop short of threatening the fundamental wealth concentration architecture: tax cuts still preserve some nominally progressive structure; deregulation still maintains regulatory agencies; judicial capture still operates within constitutional constraints. The victories are systemic but remain within the boundaries that preserve donor class dominance while appearing to operate within democratic institutions.

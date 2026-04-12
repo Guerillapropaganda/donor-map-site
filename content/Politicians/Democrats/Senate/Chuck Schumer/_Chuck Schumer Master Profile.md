@@ -108,6 +108,20 @@ Schumer's evolution on cryptocurrency regulation tracks the industry's political
 
 ---
 
+## Class Analysis
+
+Chuck Schumer is the Democratic donor class's floor manager. His function is structurally identical to McConnell's on the Republican side: control the Senate floor to protect donor interests while performing opposition. Different party, same job description.
+
+The class mechanism operates through three channels. First, Wall Street protection: $10.4M career from securities and investment, with Goldman Sachs ($543K), Citigroup ($484K), and JPMorgan ($365K) as top contributors. Schumer killed the tech antitrust bill by never scheduling a floor vote, despite bipartisan support. He protected the carried interest loophole, worth $18B per decade to hedge fund managers, through every legislative opportunity to close it. The donor class does not need Schumer to vote no. It needs him to ensure votes never happen. Floor control is the weapon.
+
+Second, family integration: Schumer's son-in-law works at Blackstone. His daughter worked at Amazon and Meta. The senator does not receive instructions from Wall Street because his family lives inside it. The class boundary between regulator and regulated does not exist at the household level. When Schumer decides which amendments reach the floor on banking regulation, securities oversight, or tech antitrust, his family's economic interests are directly at stake.
+
+Third, dark money mirroring: Majority Forward ($74M in 2020 from anonymous donors) and Senate Majority PAC ($230M+ in 2022) are structurally identical to McConnell's SLF and One Nation. Schumer publicly calls for overturning Citizens United while operating the largest Democratic dark money apparatus in America. The public position and the private infrastructure contradict each other completely. Both are rational: the public position serves the voter base, the private infrastructure serves the donor base. Two audiences, two messages, one system.
+
+The crypto pivot completes the picture. Schumer went from Warren-aligned skeptic to industry collaborator within one election cycle, directly tracking the crypto industry's $170M+ in 2024 political spending. The speed of the reversal, from regulatory skeptic to stablecoin legislation supporter, measures exactly how fast donor money converts to legislative positioning in the Senate.
+
+---
+
 ## Donation-to-Policy Timeline
 
 #### Wall Street / Finance

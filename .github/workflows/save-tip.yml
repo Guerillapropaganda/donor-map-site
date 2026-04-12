@@ -2,6 +2,25 @@ name: Save Tip to Vault
 on:
   repository_dispatch:
     types: [new-tip]
+  workflow_dispatch:
+    inputs:
+      profile:
+        description: 'Profile name'
+        required: true
+      profile_url:
+        description: 'Profile URL path'
+        required: false
+        default: ''
+      email:
+        description: 'Submitter email'
+        required: true
+      category:
+        description: 'Tip category'
+        required: false
+        default: 'other'
+      message:
+        description: 'Tip message'
+        required: true
 
 permissions:
   contents: write
@@ -22,7 +41,12 @@ jobs:
             const fs = require('fs');
             const path = require('path');
 
-            const payload = context.payload.client_payload || {};
+            // Support both repository_dispatch and workflow_dispatch
+            const isDispatch = context.eventName === 'repository_dispatch';
+            const payload = isDispatch
+              ? (context.payload.client_payload || {})
+              : (context.payload.inputs || {});
+
             const profile = payload.profile || 'Unknown Profile';
             const category = payload.category || 'other';
             const message = payload.message || 'No message provided';
@@ -50,23 +74,25 @@ jobs:
               fs.mkdirSync(tipsDir, { recursive: true });
             }
 
-            const content = `---
-title: "Tip: ${profile}"
-type: tip
-tip-category: "${categoryLabels[category] || category}"
-profile: "${profile}"
-profile-url: "${profileUrl}"
-submitter-email: "${email}"
-status: new
-date: ${timestamp}
----
-
-${message}
-`;
+            const lines = [
+              '---',
+              'title: "Tip: ' + profile + '"',
+              'type: tip',
+              'tip-category: "' + (categoryLabels[category] || category) + '"',
+              'profile: "' + profile + '"',
+              'profile-url: "' + profileUrl + '"',
+              'submitter-email: "' + email + '"',
+              'status: new',
+              'date: ' + timestamp,
+              '---',
+              '',
+              message,
+              ''
+            ].join('\n');
 
             const filePath = path.join(tipsDir, filename);
-            fs.writeFileSync(filePath, content, 'utf-8');
-            core.info(`Tip file written: ${filePath}`);
+            fs.writeFileSync(filePath, lines, 'utf-8');
+            core.info('Tip file written: ' + filePath);
 
       - name: Commit and push
         run: |

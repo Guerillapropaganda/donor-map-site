@@ -984,6 +984,14 @@ phase_1_tasks:
       commit: "b38bd5de"
       notes: "Forward-path dedup in connections API prevents double-counting when both A→B and B→A edges exist. Trump showed 19 opposes with duplicates; now 14 unique."
 
+    - id: cc_79
+      task: "Public tip submission system (form + Cloudflare Worker + GitHub Action + Ops Tips page)"
+      status: done
+      completed_date: 2026-04-12
+      added_adhoc: true
+      commits: ["58243cd8", "6bb00734", "9859edb2", "f7c7fcc1"]
+      notes: "Full tip pipeline: TipForm.tsx (Quartz component, Web3Forms), Cloudflare Worker relay at tiprelay.guerillapropaganda.workers.dev, save-tip.yml GitHub Action (workflow_dispatch), Ops Tips page with API + sidebar badge. End-to-end verified with vault file creation."
+
     - id: cc_60
       task: "Phase 3 Part 3: /api/connections GET reads JSONL edge store"
       status: done
@@ -1326,7 +1334,7 @@ parser_guidance:
 
 ---
 
-**Schedule last updated: 2026-04-12 (marathon session — cc_72-78 added: entity type colors, scripts Run buttons, Money Trail graph, List View freeze fix, dual-layer nodes, 271 opposition edges, connection dedup fix.)**
+**Schedule last updated: 2026-04-12 (afternoon session — cc_79 added: public tip submission system with Web3Forms, Cloudflare Worker, GitHub Action, Ops Tips page.)**
 **Current phase: phase_1 (Day 2 of 7)**
 **Next checkpoint: Phase 1 exit, 2026-04-16**
 **New data sources added 2026-04-11: FDA (pharma/device/food enforcement), OCC (national bank enforcement), FTC (mergers + historical enforcement). All three live in CI + Ops app.**
