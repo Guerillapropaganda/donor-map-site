@@ -102,7 +102,7 @@ Blackstone's political spending flows through three channels: the Blackstone Gro
 | Senate Majority PAC | $1,551,940 | Outside Group (Liberal) |
 
 > [!money] Follow the Money
-> 82% of Blackstone's political spending went to outside groups — overwhelmingly conservative. The top 8 recipients are all conservative outside groups totaling $34.88M. The DNC ($1.7M) and Senate Majority PAC ($1.6M) represent hedging, not bipartisanship. Blackstone's money tracks whoever controls tax policy. When Democrats hold the Senate (and the Finance Committee), some money flows left. When Republicans hold the House (and Ways and Means), the bulk flows right. The constant is carried interest — whoever protects it gets funded.
+> 82% of Blackstone's political spending went to outside groups, overwhelmingly conservative. The top 8 recipients are all conservative outside groups totaling $34.88M. The DNC ($1.7M) and Senate Majority PAC ($1.6M) represent hedging, not bipartisanship. Blackstone's money tracks whoever controls tax policy. When Democrats hold the Senate (and the Finance Committee), some money flows left. When Republicans hold the House (and Ways and Means), the bulk flows right. The constant is carried interest, whoever protects it gets funded.
 
 ### Schwarzman Personal Giving
 
@@ -136,7 +136,7 @@ Blackstone PAC maintains a roughly 55/45 Republican-Democrat split, ensuring acc
 | 2022 | $14,000,000 | Peak year, carried interest most threatened |, |
 
 > [!money]
-> 83-84% of Blackstone's lobbyists are former government employees — the highest revolving door percentage of any major financial institution. These are former Treasury officials, congressional tax staffers, and SEC regulators who now lobby their former colleagues on behalf of the firm they regulate. The revolving door isn't a side effect of Blackstone's business — it's a core competitive advantage.
+> 83-84% of Blackstone's lobbyists are former government employees, the highest revolving door percentage of any major financial institution. These are former Treasury officials, congressional tax staffers, and SEC regulators who now lobby their former colleagues on behalf of the firm they regulate. The revolving door isn't a side effect of Blackstone's business, it's a core competitive advantage.
 
 - [OpenSecrets: Blackstone Group summary, 2024 cycle](https://www.opensecrets.org/orgs/blackstone-group/summary?id=D000021873) (Tier 1)
 - [Senate LDA Filings: Blackstone Group lobbying profile](https://lda.gov/filings/public/filing/search/) (Tier 1)
@@ -170,13 +170,13 @@ The return on Blackstone's political investment is best measured in a single num
 | 2025 | Blackstone spends $48.6M on 2024 cycle | $48.6M | Private equity regulation remains minimal; SEC enforcement reduced | Ongoing |
 
 > [!money]
-> The carried interest math: Schwarzman earns ~$700M/year, mostly as carried interest taxed at ~20% instead of ~37%. The difference is ~$119M/year in tax savings. Blackstone's total 2024 political spending ($48.6M) is less than half of Schwarzman's annual personal tax savings from the single loophole that spending protects. The ROI is infinite — the political spending pays for itself many times over in the first year.
+> The carried interest math: Schwarzman earns ~$700M/year, mostly as carried interest taxed at ~20% instead of ~37%. The difference is ~$119M/year in tax savings. Blackstone's total 2024 political spending ($48.6M) is less than half of Schwarzman's annual personal tax savings from the single loophole that spending protects. The ROI is infinite, the political spending pays for itself many times over in the first year.
 
 > [!contradiction]
-> Trump promised to close the carried interest loophole in both 2016 and 2024. Both times, the loophole survived. Schwarzman donated millions to Trump both times. The pattern is the vault's cleanest example of the donor-class override: a policy that polls at 70%+ public support, that the president himself promises, still cannot pass because the donor who benefits most from the loophole is also one of the president's largest funders. The carried interest loophole is not a policy failure — it's a policy success, for the donor class.
+> Trump promised to close the carried interest loophole in both 2016 and 2024. Both times, the loophole survived. Schwarzman donated millions to Trump both times. The pattern is the vault's cleanest example of the donor-class override: a policy that polls at 70%+ public support, that the president himself promises, still cannot pass because the donor who benefits most from the loophole is also one of the president's largest funders. The carried interest loophole is not a policy failure, it's a policy success, for the donor class.
 
 > [!money]
-> Blackstone spent $14 million lobbying in 2022 — the year the carried interest loophole was most threatened. The industry spent $26 million total. When Kyrsten Sinema — who received $500,000+ from private equity donors — demanded the provision be stripped from the Inflation Reduction Act as her price for voting yes, the loophole survived. For every dollar the PE industry spent lobbying, it preserved approximately $692 in tax benefits.
+> Blackstone spent $14 million lobbying in 2022, the year the carried interest loophole was most threatened. The industry spent $26 million total. When Kyrsten Sinema, who received $500,000+ from private equity donors, demanded the provision be stripped from the Inflation Reduction Act as her price for voting yes, the loophole survived. For every dollar the PE industry spent lobbying, it preserved approximately $692 in tax benefits.
 
 ### Opportunity Zones. Tax Shelter Disguised as Community Development
 
@@ -198,7 +198,7 @@ The TCJA's Opportunity Zone provision was marketed as community investment in lo
 | 2023 | FTC settlement over Invitation Homes practices | $48M | FTC |
 
 > [!contradiction]
-> Blackstone bought tens of thousands of single-family homes at fire-sale prices during the foreclosure crisis that Wall Street created, converted them to rentals, raised rents 30-40% during the pandemic housing crisis, and then lobbied against every policy proposal — rent control, tenant protections, corporate homebuying limits — that would constrain its ability to extract value from the housing shortage it helped create. The UN Special Rapporteur on housing called Blackstone's practices "devastating" for tenant communities. The FTC extracted a $48 million settlement. Blackstone's real estate portfolio generates billions annually. The $48 million was a licensing fee.
+> Blackstone bought tens of thousands of single-family homes at fire-sale prices during the foreclosure crisis that Wall Street created, converted them to rentals, raised rents 30-40% during the pandemic housing crisis, and then lobbied against every policy proposal, rent control, tenant protections, corporate homebuying limits, that would constrain its ability to extract value from the housing shortage it helped create. The UN Special Rapporteur on housing called Blackstone's practices "devastating" for tenant communities. The FTC extracted a $48 million settlement. Blackstone's real estate portfolio generates billions annually. The $48 million was a licensing fee.
 
 ### Tax Engineering. The Negative Tax Rate
 
@@ -209,7 +209,7 @@ Blackstone's corporate structure, organized as a partnership until 2019, then co
 | 2019 | -1.3% (negative) | Tax benefits exceeded tax liability | SEC filings |
 
 > [!money]
-> In 2019, Blackstone's effective federal tax rate was negative 1.3% — the company received more in tax benefits than it paid in taxes, even as it managed hundreds of billions in assets and generated billions in revenue. A teacher in Schwarzman's home state of New York paid a higher effective tax rate than the world's largest alternative asset manager.
+> In 2019, Blackstone's effective federal tax rate was negative 1.3%, the company received more in tax benefits than it paid in taxes, even as it managed hundreds of billions in assets and generated billions in revenue. A teacher in Schwarzman's home state of New York paid a higher effective tax rate than the world's largest alternative asset manager.
 
 ### Sovereign Wealth Fund Relationships
 
@@ -355,17 +355,17 @@ Blackstone is the vault's purest case study of how financial capital converts po
 
 **Funded politicians:**
 
-- [[Donald Trump]] — lobbying: $4.5M — contracts: $623K
-- [[Chuck Schumer]] — lobbying: $4.5M — contracts: $623K
-- [[Susan Collins]] — lobbying: $4.5M — contracts: $623K
-- [[Mike Lee]] (Antitrust (Judiciary)) — lobbying: $4.5M — contracts: $623K
+- [[Donald Trump]] - lobbying: $4.5M - contracts: $623K
+- [[Chuck Schumer]] - lobbying: $4.5M - contracts: $623K
+- [[Susan Collins]] - lobbying: $4.5M - contracts: $623K
+- [[Mike Lee]] (Antitrust (Judiciary)) - lobbying: $4.5M - contracts: $623K
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-09.*
 <!-- auto:influence-cross-ref end -->
 
 <!-- auto:influence-cross-ref pending-merge 2026-04-12 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+> [!attention] Fresh API data available - needs manual merge
+> Bot detected your edits to this section. New data below - fold in what's useful, then delete this block.
 
 | Metric | Value |
 |--------|-------|
@@ -380,10 +380,10 @@ Blackstone is the vault's purest case study of how financial capital converts po
 
 **Funded politicians:**
 
-- [[Donald Trump]] — lobbying: $4.5M — contracts: $623K
-- [[Chuck Schumer]] (Senate Committee on Rules and Administration, Senate Select Committee on Intelligence) — lobbying: $4.5M — contracts: $623K
-- [[Susan Collins]] — lobbying: $4.5M — contracts: $623K
-- [[Mike Lee]] (Antitrust (Judiciary)) — lobbying: $4.5M — contracts: $623K
+- [[Donald Trump]] - lobbying: $4.5M - contracts: $623K
+- [[Chuck Schumer]] (Senate Committee on Rules and Administration, Senate Select Committee on Intelligence) - lobbying: $4.5M - contracts: $623K
+- [[Susan Collins]] - lobbying: $4.5M - contracts: $623K
+- [[Mike Lee]] (Antitrust (Judiciary)) - lobbying: $4.5M - contracts: $623K
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-12.*
 
@@ -440,12 +440,12 @@ Blackstone is the vault's purest case study of how financial capital converts po
 | Case Types | 440 Civil Rights: Other, 443 Civil Rights: Accommodations, 448 Civil Rights: Education, 470 Racketeer/Corrupt Organization, 550 Prisoner: Civil Rights |
 
 **Notable cases:**
-- Demos v. The Blackstone Group (2026) — District Court, W.D. Washington
-- Three Court Master, L.P. v. UBS, AG Stamford Branch (2025) — District Court, S.D. New York
-- Getty Images (US), Inc. v. Stability AI, Ltd. (2025) — District Court, N.D. California
-- Boardwell, LLC v. Monexaba.vip (2025) — District Court, W.D. Texas
-- Parr v. BitPay (2025) — District Court, E.D. Texas
-- Chavous v. Housing Visions Unlimited Inc. (2025) — District Court, N.D. New York
+- Demos v. The Blackstone Group (2026) - District Court, W.D. Washington
+- Three Court Master, L.P. v. UBS, AG Stamford Branch (2025) - District Court, S.D. New York
+- Getty Images (US), Inc. v. Stability AI, Ltd. (2025) - District Court, N.D. California
+- Boardwell, LLC v. Monexaba.vip (2025) - District Court, W.D. Texas
+- Parr v. BitPay (2025) - District Court, E.D. Texas
+- Chavous v. Housing Visions Unlimited Inc. (2025) - District Court, N.D. New York
 
 - [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Blackstone%20Group%22&type=r) (Tier 1)
 <!-- auto:courtlistener-cases end -->
@@ -467,7 +467,7 @@ Blackstone is the vault's purest case study of how financial capital converts po
 
 **Recent enforcement history:**
 
-- [AA-EC-89-134: Civil Money Penalty (CMP)](https://www.occ.gov/static/enforcement-actions/ea86.pdf) (05/25/1990) — $11,000
+- [AA-EC-89-134: Civil Money Penalty (CMP)](https://www.occ.gov/static/enforcement-actions/ea86.pdf) (05/25/1990) - $11,000
 
 - [Source: OCC Enforcement Action Search](https://apps.occ.gov/EASearch/Search/Table?q=Blackstone%20Group&srt=1&pg=1&pgsz=25&isAdv=false) (Tier 1)
 <!-- auto:occ-enforcement end -->
@@ -481,11 +481,11 @@ Blackstone is the vault's purest case study of how financial capital converts po
 
 **Notable filings:**
 
-- 2008-04-21 — **EX-99.3**: EX-99.3
-- 2015-06-26 — **3**: 3
-- 2020-05-01 — **SC 13D/A**: AMENDMENT NO. 2 TO SCHEDULE 13D
-- 2020-01-22 — **4**: FORM 4 SUBMISSION
-- 2018-03-19 — **4**: FORM 4 SUBMISSION
+- 2008-04-21 - **EX-99.3**: EX-99.3
+- 2015-06-26 - **3**: 3
+- 2020-05-01 - **SC 13D/A**: AMENDMENT NO. 2 TO SCHEDULE 13D
+- 2020-01-22 - **4**: FORM 4 SUBMISSION
+- 2018-03-19 - **4**: FORM 4 SUBMISSION
 
 - [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Blackstone%20Group%22) (Tier 1)
 <!-- auto:sec-edgar end -->

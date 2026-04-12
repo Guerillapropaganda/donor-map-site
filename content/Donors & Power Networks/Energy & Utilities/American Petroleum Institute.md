@@ -407,8 +407,8 @@ In April 1998, just months after Kyoto Protocol was signed, API's Joe Walker cir
 
 #### The Stated Victory Condition
 
-> [!contradiction] "Victory Will Be Achieved When—"
-> The memo explicitly stated: "Victory Will Be Achieved When—Average citizens 'understand' (recognize) uncertainties in climate science; recognition of uncertainties becomes part of the 'conventional wisdom'."
+> [!contradiction] "Victory Will Be Achieved When, "
+> The memo explicitly stated: "Victory Will Be Achieved When, Average citizens 'understand' (recognize) uncertainties in climate science; recognition of uncertainties becomes part of the 'conventional wisdom'."
 >
 > This was API's public goal: not to prevent climate change, but to manufacture doubt about climate science. Meanwhile, API's own 1979 internal briefing acknowledged that 5°C warming would produce "globally catastrophic effects."
 

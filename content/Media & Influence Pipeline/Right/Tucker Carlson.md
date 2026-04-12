@@ -46,7 +46,7 @@ TCN launched in December 2023 at $9/month for ad-free content. By November 2024,
 Additional revenue: In November 2024, Carlson launched ALP nicotine pouches through a 50/50 joint venture with Turning Point Brands (a publicly traded tobacco accessories company). ALP boosted Turning Point's nicotine division sales 63% to $70 million in summer 2025.
 
 > [!money]
-> Carlson's funding trajectory reveals the full Independence Theater pattern: Fox advertiser exodus → ideologically aligned replacements → $25M severance forfeiture to escape non-compete → megadonor VC seed round → subscription model → product brand launch → investor buyout. At each stage, he narrated himself as "breaking free" from corporate control while his content remained structurally aligned with donor-class interests. The buyout completes the theater: he is now genuinely owner-controlled, but the question the vault asks is not "who owns the company?" — it's "whose interests does the content serve?"
+> Carlson's funding trajectory reveals the full Independence Theater pattern: Fox advertiser exodus → ideologically aligned replacements → $25M severance forfeiture to escape non-compete → megadonor VC seed round → subscription model → product brand launch → investor buyout. At each stage, he narrated himself as "breaking free" from corporate control while his content remained structurally aligned with donor-class interests. The buyout completes the theater: he is now genuinely owner-controlled, but the question the vault asks is not "who owns the company?", it's "whose interests does the content serve?"
 
 ---
 
@@ -65,7 +65,7 @@ Additional revenue: In November 2024, Carlson launched ALP nicotine pouches thro
 | 1995-03-22 | Alexander for President Inc | $1,000 | REP | THE HERITAGE FOUNDATION |
 
 > [!money]
-> Carlson's FEC record maps his 30-year political evolution: Heritage Foundation staffer (1995) → Fox News personality (2021) → independent media mogul backing MTG (2025). The 2025 contribution burst — four separate checks to MTG entities totaling $15K on a single day — represents Carlson's only significant personal political investment of his entire career. The arc is revealing: Carlson's support for Marjorie Taylor Greene (the only politician he's backed substantially) coincides with his post-Fox independence and his deepest ideological alignment with the "American First" wing of the Republican party. His earlier contributions (Heritage Foundation 1995, Greene 2021) are minimal. The $15K to MTG in August 2025 is the clearest indicator of Carlson's current political commitment.
+> Carlson's FEC record maps his 30-year political evolution: Heritage Foundation staffer (1995) → Fox News personality (2021) → independent media mogul backing MTG (2025). The 2025 contribution burst, four separate checks to MTG entities totaling $15K on a single day, represents Carlson's only significant personal political investment of his entire career. The arc is revealing: Carlson's support for Marjorie Taylor Greene (the only politician he's backed substantially) coincides with his post-Fox independence and his deepest ideological alignment with the "American First" wing of the Republican party. His earlier contributions (Heritage Foundation 1995, Greene 2021) are minimal. The $15K to MTG in August 2025 is the clearest indicator of Carlson's current political commitment.
 
 - [FEC: Tucker Carlson individual contributions (6 results, $16,250)](https://www.fec.gov/data/receipts/?contributor_name=carlson%2C+tucker) (Tier 1)
 
@@ -96,7 +96,7 @@ During the Fox advertiser exodus, Lindell's MyPillow spent nearly half of its ~$
 Publicly traded tobacco accessories company. The ALP deal converts Carlson's audience into a direct consumer base, eliminating the advertiser intermediary entirely. His audience IS the product pipeline.
 
 > [!money]
-> The funder list maps onto three distinct mechanisms: (1) ideological VC (Mercer/1789 Capital) providing startup capital with political alignment baked into the investment thesis; (2) platform dependency (Musk/X) providing distribution without direct payment but with structural incentives to produce high-engagement, controversial content; (3) audience capture monetization (ALP, subscription) converting audience loyalty into direct revenue. Each mechanism rewards content that maximizes audience devotion — which means content that radicalizes rather than informs.
+> The funder list maps onto three distinct mechanisms: (1) ideological VC (Mercer/1789 Capital) providing startup capital with political alignment baked into the investment thesis; (2) platform dependency (Musk/X) providing distribution without direct payment but with structural incentives to produce high-engagement, controversial content; (3) audience capture monetization (ALP, subscription) converting audience loyalty into direct revenue. Each mechanism rewards content that maximizes audience devotion, which means content that radicalizes rather than informs.
 
 ---
 
@@ -115,7 +115,7 @@ Carlson's content agenda maps almost perfectly onto the interests of his funder 
 **Election denial:** The Dominion lawsuit materials showed Carlson privately calling election fraud claims "ludicrous" and "totally off the rails" while amplifying them on air. "Sidney Powell is lying," he texted a producer, then never told his 4 million nightly viewers.
 
 > [!contradiction]
-> The Dominion lawsuit destroyed Carlson's claim to be a truth-teller operating outside the mainstream. His texts revealed he knew the claims he broadcast were false. "I hate [Trump] passionately," he wrote in January 2021 — four days before January 6. His show spent years telling viewers Trump was their champion. The populist who hates the ruling class privately despises his own audience's hero while cashing a $20M check to perform outrage on their behalf. This is the Two-Audience Problem at its most complete: one message for millions of viewers, a completely different reality in private.
+> The Dominion lawsuit destroyed Carlson's claim to be a truth-teller operating outside the mainstream. His texts revealed he knew the claims he broadcast were false. "I hate [Trump] passionately," he wrote in January 2021, four days before January 6. His show spent years telling viewers Trump was their champion. The populist who hates the ruling class privately despises his own audience's hero while cashing a $20M check to perform outrage on their behalf. This is the Two-Audience Problem at its most complete: one message for millions of viewers, a completely different reality in private.
 
 ---
 
@@ -147,7 +147,7 @@ Carlson's audience capture mechanism is among the most sophisticated in American
 | Jun 2025 | Investor buyout | Carlson, Patel | Undisclosed | Full owner control; removes last visible donor-class stake; Independence Theater complete |
 
 > [!money]
-> What the donor class got from Tucker Carlson: 7 years of the most-watched prime-time content in cable news history systematically redirecting working-class white grievance away from capital and toward immigrants, Democrats, and racial minorities. The Great Replacement Theory — a white supremacist recruiting document — reached 4 million households per night on Fox. Post-Fox, the Putin interview reached 200 million people globally. The ROI on Mercer/Thiel's $15M seed round is not measured in financial return — it's measured in the Overton window shift that made a former Fox host the most influential American to interview the Russian president.
+> What the donor class got from Tucker Carlson: 7 years of the most-watched prime-time content in cable news history systematically redirecting working-class white grievance away from capital and toward immigrants, Democrats, and racial minorities. The Great Replacement Theory, a white supremacist recruiting document, reached 4 million households per night on Fox. Post-Fox, the Putin interview reached 200 million people globally. The ROI on Mercer/Thiel's $15M seed round is not measured in financial return, it's measured in the Overton window shift that made a former Fox host the most influential American to interview the Russian president.
 
 ---
 

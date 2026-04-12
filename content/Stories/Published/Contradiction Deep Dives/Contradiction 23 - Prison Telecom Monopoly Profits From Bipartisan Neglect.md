@@ -40,7 +40,7 @@ National average commissions: 42–47.79%. Extreme cases reach 60–90%. Illinoi
 Total commission payments: $460 million annually estimated by FCC in 2024. The price consequence is stark: Georgia with high commissions charges $17.30 for a 15-minute call; Massachusetts with lower commissions charges $2.36 for the same call from the same company. (Tier 1)
 
 > [!contradiction]
-> State Departments of Corrections, county sheriffs, and even the National Sheriffs' Association benefit from this system. Private prison operators (GEO Group, CoreCivic) also receive kickbacks. The entire corrections apparatus has a financial incentive to maintain expensive phone rates—making reform a battle against government itself.
+> State Departments of Corrections, county sheriffs, and even the National Sheriffs' Association benefit from this system. Private prison operators (GEO Group, CoreCivic) also receive kickbacks. The entire corrections apparatus has a financial incentive to maintain expensive phone rates, making reform a battle against government itself.
 
 ---
 
@@ -87,7 +87,7 @@ Democrats champion "criminal justice reform" and claim to support incarcerated p
 **ViaPath donations:** In 2024, ViaPath employees donated $825 total: $420 to Kamala Harris, $50 to Democratic Party of Pennsylvania. Small amounts, but directionally toward Democrats who publicly "support" criminal justice reform. (Tier 1)
 
 > [!money]
-> States with Democratic governors maintained expensive rates for years: California under Gavin Newsom; New York under Democratic mayors. New York City's JPay contracts bypassed state procurement rules—a practice flagged by then-Public Advocate Letitia James (D) in 2016. (Tier 2)
+> States with Democratic governors maintained expensive rates for years: California under Gavin Newsom; New York under Democratic mayors. New York City's JPay contracts bypassed state procurement rules, a practice flagged by then-Public Advocate Letitia James (D) in 2016. (Tier 2)
 
 ---
 

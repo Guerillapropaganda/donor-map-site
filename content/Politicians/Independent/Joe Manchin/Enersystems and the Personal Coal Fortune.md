@@ -16,7 +16,7 @@ donors: [[Fossil Fuel Bloc]]
 ### Enersystems and the Personal Coal Fortune
 
 > [!money]
-> [[_Joe Manchin Master Profile|Joe Manchin]] doesn't just receive donations from the coal industry — he IS the coal industry. Enersystems Inc., the coal brokerage firm Manchin founded in 1988, paid him $5.2 million in dividends between 2011 and 2020 — approximately $500,000 per year while he served in the U.S. Senate. His son, [[_Joe Manchin Master Profile|Joe Manchin]] IV, now runs the company. Manchin is the only senator who personally profits from the fossil fuel industry he votes to protect. The conflict of interest is not hidden — it's on his financial disclosure forms.
+> [[_Joe Manchin Master Profile|Joe Manchin]] doesn't just receive donations from the coal industry, he IS the coal industry. Enersystems Inc., the coal brokerage firm Manchin founded in 1988, paid him $5.2 million in dividends between 2011 and 2020, approximately $500,000 per year while he served in the U.S. Senate. His son, [[_Joe Manchin Master Profile|Joe Manchin]] IV, now runs the company. Manchin is the only senator who personally profits from the fossil fuel industry he votes to protect. The conflict of interest is not hidden, it's on his financial disclosure forms.
 
 ---
 
@@ -64,7 +64,7 @@ Manchin killed the CEPP entirely. His stated reason: "I can't vote for a bill th
 - Weakened methane fee provisions
 
 > [!money]
-> Manchin killed $186 billion in climate spending that would have accelerated coal's decline — and then, as the price of his IRA vote, extracted the Mountain Valley Pipeline and mandatory fossil fuel lease sales. Every concession extended the fossil fuel economy that pays him $500,000 per year. The senator didn't negotiate for West Virginia's future. He negotiated for his personal balance sheet.
+> Manchin killed $186 billion in climate spending that would have accelerated coal's decline, and then, as the price of his IRA vote, extracted the Mountain Valley Pipeline and mandatory fossil fuel lease sales. Every concession extended the fossil fuel economy that pays him $500,000 per year. The senator didn't negotiate for West Virginia's future. He negotiated for his personal balance sheet.
 
 ---
 

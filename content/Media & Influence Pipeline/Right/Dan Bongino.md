@@ -41,7 +41,7 @@ Bongino's funding model is the most vertically integrated in the right-wing medi
 **CRTV / BlazeTV (2017-2019):** Bongino was an early CRTV host, the Conservative Review TV network that merged with Glenn Beck's TheBlaze to form BlazeTV in December 2018. Employer listed as "CRTV" on his 2017 FEC filing. CRTV was co-founded by Cary Katz, the same billionaire casino magnate who appears in the Steven Crowder profile as the financial backer of the CRTV-to-BlazeTV pipeline.
 
 > [!money]
-> **The equity-content flywheel:** Bongino's Rumble stake creates a financial incentive structure that no other media personality in this vault possesses (except possibly Tucker Carlson's rumored Rumble equity). Every viewer Bongino drives to Rumble increases the platform's user metrics, which increases the stock price, which increases the value of his 15.9M shares. Content creation and equity appreciation are the same activity. This means Bongino's editorial choices — which stories to cover, which platforms to attack, which culture war battles to fight — directly impact his net worth through a mechanism that is invisible to his audience. When Bongino tells his audience to leave YouTube for Rumble, he is making a personal investment decision disguised as a political statement.
+> **The equity-content flywheel:** Bongino's Rumble stake creates a financial incentive structure that no other media personality in this vault possesses (except possibly Tucker Carlson's rumored Rumble equity). Every viewer Bongino drives to Rumble increases the platform's user metrics, which increases the stock price, which increases the value of his 15.9M shares. Content creation and equity appreciation are the same activity. This means Bongino's editorial choices, which stories to cover, which platforms to attack, which culture war battles to fight, directly impact his net worth through a mechanism that is invisible to his audience. When Bongino tells his audience to leave YouTube for Rumble, he is making a personal investment decision disguised as a political statement.
 
 ---
 
@@ -61,11 +61,11 @@ Bongino's funding model is the most vertically integrated in the right-wing medi
 | (additional smaller contributions, 2017-2024) | Multiple Republican candidates and committees | ~$8,200 | REP | Various |
 
 > [!money]
-> Bongino's FEC record is 100% Trump-aligned across a 7-year period. The $50,000 Trump 47 Committee contribution (April 2024) precedes his FBI appointment by exactly 11 months — a clear donation-to-appointment arc. The $39,300 RNC contribution from the same date suggests coordinated giving. His total personal political investment ($106K) is entirely within the Wilks-Thiel MAGA ecosystem documented in his professional funding: Rumble equity, Trump appointment, Trump loyalty. The pattern is consistent: Bongino's FEC money flows to the same institutions that his media platform advances.
+> Bongino's FEC record is 100% Trump-aligned across a 7-year period. The $50,000 Trump 47 Committee contribution (April 2024) precedes his FBI appointment by exactly 11 months, a clear donation-to-appointment arc. The $39,300 RNC contribution from the same date suggests coordinated giving. His total personal political investment ($106K) is entirely within the Wilks-Thiel MAGA ecosystem documented in his professional funding: Rumble equity, Trump appointment, Trump loyalty. The pattern is consistent: Bongino's FEC money flows to the same institutions that his media platform advances.
 
 - [FEC: Dan Bongino individual contributions (22 results, $106,000)](https://www.fec.gov/data/receipts/?contributor_name=bongino%2C+dan) (Tier 1)
 
-> **Note on API results:** The FEC API search for "bongino, dan" returns 22 results totaling $106,000 across 2017-2024. All verified results confirm the Rumble/media personality Dan Bongino. The contribution pattern is consistent across filings with clear employer and occupation data matching the media figure. No disambiguation required — all 22 results belong to the subject.
+> **Note on API results:** The FEC API search for "bongino, dan" returns 22 results totaling $106,000 across 2017-2024. All verified results confirm the Rumble/media personality Dan Bongino. The contribution pattern is consistent across filings with clear employer and occupation data matching the media figure. No disambiguation required, all 22 results belong to the subject.
 
 ---
 
@@ -102,7 +102,7 @@ Bongino's funding model is the most vertically integrated in the right-wing medi
 **Capture mechanism. The Limbaugh Inheritance:** Bongino's audience capture is unique because a significant portion of his audience was inherited, not built. The Rush Limbaugh time slot came with a pre-existing audience of millions who were habituated to turning on the radio at that time. Bongino's content serves this inherited audience, his style is talk radio bombast, not internet-native content creation. The Rumble component is a digital extension of the radio base, not an independent audience.
 
 > [!contradiction]
-> **The FBI Contradiction.** Bongino spent years building a media career attacking the FBI as a corrupt deep state institution. Then he accepted the #2 job at the FBI. Then he resigned after 10 months and returned to media, where he resumed attacking the FBI — now with the credibility of having been inside it. The contradiction is the feature: Bongino's brief FBI tenure functions as an authentication upgrade for his existing narrative. He didn't go to the FBI to reform it — he went to the FBI to come back and say he tried to reform it but the system was too corrupt. The 10-month tenure was a media strategy, not a government career.
+> **The FBI Contradiction.** Bongino spent years building a media career attacking the FBI as a corrupt deep state institution. Then he accepted the #2 job at the FBI. Then he resigned after 10 months and returned to media, where he resumed attacking the FBI, now with the credibility of having been inside it. The contradiction is the feature: Bongino's brief FBI tenure functions as an authentication upgrade for his existing narrative. He didn't go to the FBI to reform it, he went to the FBI to come back and say he tried to reform it but the system was too corrupt. The 10-month tenure was a media strategy, not a government career.
 
 ---
 
@@ -153,7 +153,7 @@ Dan Bongino represents **the media-to-government revolving door as content strat
 | Feb 2, 2026 | Relaunches Dan Bongino Show on Rumble (exclusive video) | Bongino, Rumble, Westwood One |, | Media → government → media cycle complete; every segment now carries "former FBI Deputy Director" credential |
 
 > [!money]
-> **The 9-Day Revolving Door.** Dan Bongino left the FBI on January 3, 2026. Nine days later, on January 12, Rumble announced the exclusive video distribution deal. Nine days after that isn't a career transition — it's a content relaunch. The FBI tenure was a 10-month credential-acquisition operation that converted government service into permanent media authentication. Trump confirmed it himself: Bongino left because he "wants to go back to his show." The $50,000 Trump 47 Committee contribution (Apr 2024) → FBI appointment (Mar 2025) → Rumble relaunch (Feb 2026) sequence maps a complete donation-to-appointment-to-monetization pipeline — but with the media figure as both donor and beneficiary.
+> **The 9-Day Revolving Door.** Dan Bongino left the FBI on January 3, 2026. Nine days later, on January 12, Rumble announced the exclusive video distribution deal. Nine days after that isn't a career transition, it's a content relaunch. The FBI tenure was a 10-month credential-acquisition operation that converted government service into permanent media authentication. Trump confirmed it himself: Bongino left because he "wants to go back to his show." The $50,000 Trump 47 Committee contribution (Apr 2024) → FBI appointment (Mar 2025) → Rumble relaunch (Feb 2026) sequence maps a complete donation-to-appointment-to-monetization pipeline, but with the media figure as both donor and beneficiary.
 
 ---
 

@@ -60,11 +60,11 @@ In California, AFSCME operates through AFSCME California and multiple regional c
 
 ### The Political Operation
 
-> [!money] Follow the Money — AFSCME Political Spending
+> [!money] Follow the Money. AFSCME Political Spending
 > **AFSCME PEOPLE PAC (2024 cycle):** $21.8 million raised, $19.2 million spent
 > **Outside spending:** $11.4 million (2024)
 > **Federal lobbying:** $5.8 million (2024)
-> **Lifetime giving since 1990:** $145.7 million — 98.6% to Democrats
+> **Lifetime giving since 1990:** $145.7 million, 98.6% to Democrats
 >
 > **Historically:** AFSCME was the single largest organizational donor in American politics for multiple cycles before being overtaken by SEIU, [[ActBlue|ActBlue]], and billionaire spending.
 >

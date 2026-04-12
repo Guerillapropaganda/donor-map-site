@@ -28,7 +28,7 @@ No FEC individual contributions found for either "TAPPER, JAKE" or "TAPPER, JACO
 
 - [FEC: Jake Tapper individual contributions (0 results, $0.00)](https://www.fec.gov/data/receipts/?contributor_name=TAPPER%2C+JAKE) (Tier 1)
 
-> **Note on API results:** Searched both "TAPPER, JAKE" and "TAPPER, JACOB" (legal name Jacob Paul Tapper). Both return zero results. The FEC silence is the price of the anchor desk — CNN's institutional product cannot have traceable partisan commitments.
+> **Note on API results:** Searched both "TAPPER, JAKE" and "TAPPER, JACOB" (legal name Jacob Paul Tapper). Both return zero results. The FEC silence is the price of the anchor desk. CNN's institutional product cannot have traceable partisan commitments.
 
 ---
 
@@ -98,7 +98,7 @@ Tapper's audience capture operates through institutional prestige rather than pl
 | Feb 2026 | Paramount/Skydance acquires WBD (including CNN) | Ellison, Paramount | $111B deal | Third ownership transition; Bari Weiss editorial oversight risk |
 
 > [!money]
-> Tapper's financial architecture reveals the central paradox of institutional "centrist" media: $7M/year in compensation with zero leverage. Three ownership transitions in four years, flat contract renewals, no independent platform, creative output routed through corporate parent. The "serious journalist" brand is entirely institutional property — CNN could replace Tapper and retain the time slot's value, but Tapper cannot replicate his reach without CNN. This is the purest corporate dependency model in the centrist pipeline: prestige without power.
+> Tapper's financial architecture reveals the central paradox of institutional "centrist" media: $7M/year in compensation with zero leverage. Three ownership transitions in four years, flat contract renewals, no independent platform, creative output routed through corporate parent. The "serious journalist" brand is entirely institutional property. CNN could replace Tapper and retain the time slot's value, but Tapper cannot replicate his reach without CNN. This is the purest corporate dependency model in the centrist pipeline: prestige without power.
 
 ### Class Analysis
 

@@ -48,7 +48,7 @@ After leaving the UN Ambassador role in January 2019, Haley joined Boeing's boar
 The most revealing moment in the Boeing-Haley relationship came in 2020, when Boeing faced a shareholder proposal requiring the company to more comprehensively disclose its political spending, including donations to trade associations and dark money 501(c)(4) organizations that don't publicly report their funders.
 
 > [!money]
-> Haley, as a Boeing board member, voted against the disclosure initiative. The Lever's investigation found that Boeing had donated approximately $10 million to trade associations and politically active nonprofits in recent years — spending that the disclosure proposal would have made public. Haley's vote helped kill transparency into corporate political influence — including, potentially, Boeing's contributions to the very political networks that had supported her career.
+> Haley, as a Boeing board member, voted against the disclosure initiative. The Lever's investigation found that Boeing had donated approximately $10 million to trade associations and politically active nonprofits in recent years, spending that the disclosure proposal would have made public. Haley's vote helped kill transparency into corporate political influence, including, potentially, Boeing's contributions to the very political networks that had supported her career.
 
 The circularity of the relationship is the point: Haley built Boeing's South Carolina presence with state subsidies; Boeing compensated her with board membership; she used her board position to protect Boeing's ability to influence politics without disclosure; Boeing's political spending helped maintain the political environment that benefited Haley.
 
@@ -72,7 +72,7 @@ Her UN Ambassador role, hawkish on Iran, North Korea, and Russia, was simultaneo
 > [!contradiction]
 > Haley's political brand emphasizes fiscal responsibility, limited government, and opposition to government "handouts." Her actual record as governor: $900M+ in Boeing corporate welfare, $120M in Boeing expansion subsidies, active suppression of labor organizing to maintain Boeing's low-wage South Carolina model, and years of board membership in a company whose entire South Carolina presence was subsidized by the government she led.
 >
-> The "fiscal responsibility" brand applies to social spending — Medicaid, food assistance, education funding — not to corporate incentive packages for defense and aerospace manufacturers. The class function is clear: limit redistribution downward (social programs), facilitate redistribution upward (corporate subsidies, union suppression, board compensation).
+> The "fiscal responsibility" brand applies to social spending. Medicaid, food assistance, education funding, not to corporate incentive packages for defense and aerospace manufacturers. The class function is clear: limit redistribution downward (social programs), facilitate redistribution upward (corporate subsidies, union suppression, board compensation).
 
 Haley's career trajectory, state legislator supporting corporate incentives → governor signing corporate welfare packages → UN Ambassador credentialing defense hawks → Boeing board member → presidential candidate with defense industry donors, is not accidental. It is the pipeline. South Carolina's military economy created the political class that serves it, and Haley is the most successful product of that pipeline.
 

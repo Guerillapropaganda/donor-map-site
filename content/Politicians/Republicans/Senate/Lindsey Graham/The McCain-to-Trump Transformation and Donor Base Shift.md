@@ -16,7 +16,7 @@ donors: [[_Donald Trump Master Profile]] · MAGA small-dollar networks · Trump-
 ### The McCain-to-Trump Transformation and Donor Base Shift
 
 > [!money]
-> In 2015, [[_Lindsey Graham Master Profile|Lindsey Graham]] called [[_Donald Trump Master Profile|Donald Trump]] a "race-baiting, xenophobic, religious bigot" and wrote in Evan McMullin rather than vote for him. By 2020, Graham was Trump's closest Senate ally and golf partner, raising $109.1 million for the 2020 cycle — outraising every incumbent senator in US history. In Q3 2019 alone, he raised $3.3 million in one quarter (the biggest quarterly haul of any candidate in South Carolina history at that time). The transformation wasn't ideological. It was financial. Graham's explanation: "I want to be relevant." Translation: relevance means access to the Trump donor pipeline, and access means survival in a MAGA-dominated party.
+> In 2015, [[_Lindsey Graham Master Profile|Lindsey Graham]] called [[_Donald Trump Master Profile|Donald Trump]] a "race-baiting, xenophobic, religious bigot" and wrote in Evan McMullin rather than vote for him. By 2020, Graham was Trump's closest Senate ally and golf partner, raising $109.1 million for the 2020 cycle, outraising every incumbent senator in US history. In Q3 2019 alone, he raised $3.3 million in one quarter (the biggest quarterly haul of any candidate in South Carolina history at that time). The transformation wasn't ideological. It was financial. Graham's explanation: "I want to be relevant." Translation: relevance means access to the Trump donor pipeline, and access means survival in a MAGA-dominated party.
 
 ---
 
@@ -82,7 +82,7 @@ Among all Senate candidates running in 2020, Graham received the largest percent
 > [!contradiction]
 > Graham's transformation from Trump's fiercest critic to Trump's closest Senate ally is the clearest example of donor-driven political identity change in the modern Senate. In 2015, he said Trump was a "race-baiting, xenophobic, religious bigot." In 2016, he refused to vote for Trump. By 2018, after the Kavanaugh hearing performed for national conservative donors, he was Trump's most consistent defender. By 2020, he was Trump's closest ally and daily golf partner.
 >
-> Graham has explained the transformation as a change of mind — that he came to see Trump as effective or necessary. But the timeline shows a different causality: political alignment followed fundraising opportunity. Nothing about Trump's behavior changed between 2015 and 2018; Trump was the same candidate. What changed was the donor math. McCain's death in 2018 removed the moderate Republican donor anchor. Trump's base demanded loyalty and rewarded it with money. Graham calculated that the MAGA donor pipeline ($109M by 2020) generated vastly more money than the moderate pipeline ever could.
+> Graham has explained the transformation as a change of mind, that he came to see Trump as effective or necessary. But the timeline shows a different causality: political alignment followed fundraising opportunity. Nothing about Trump's behavior changed between 2015 and 2018; Trump was the same candidate. What changed was the donor math. McCain's death in 2018 removed the moderate Republican donor anchor. Trump's base demanded loyalty and rewarded it with money. Graham calculated that the MAGA donor pipeline ($109M by 2020) generated vastly more money than the moderate pipeline ever could.
 >
 > The beliefs followed the money.
 

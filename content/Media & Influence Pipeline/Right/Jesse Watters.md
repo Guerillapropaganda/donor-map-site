@@ -40,7 +40,7 @@ Watters is a pure Fox Corp institutional product. Unlike digital-native media fi
 **Advertising revenue model:** Fox News generates approximately $1.5-2 billion/year in advertising revenue. Pharmaceutical companies are the network's single largest advertising category, with pharma ads representing a disproportionate share of Fox News primetime ad inventory. This creates a structural editorial constraint: Fox News hosts cannot meaningfully challenge pharmaceutical industry interests without threatening the network's primary revenue stream. Watters' primetime slot is the most valuable advertising real estate on the network.
 
 > [!money]
-> **The institutional product.** Watters' funding model is the simplest in this vault: one employer, one revenue stream, one family's control. Fox Corp pays his salary. The Murdoch family controls Fox Corp. Pharmaceutical companies fund Fox Corp through advertising. Watters delivers content that serves all three interests simultaneously — conservative culture war programming that maintains the audience that pharma advertisers pay to reach, within editorial boundaries that never threaten Fox Corp's advertising relationships or the Murdoch family's political interests. He is not an independent media figure who was captured by institutional money. He was manufactured by institutional money from day one.
+> **The institutional product.** Watters' funding model is the simplest in this vault: one employer, one revenue stream, one family's control. Fox Corp pays his salary. The Murdoch family controls Fox Corp. Pharmaceutical companies fund Fox Corp through advertising. Watters delivers content that serves all three interests simultaneously, conservative culture war programming that maintains the audience that pharma advertisers pay to reach, within editorial boundaries that never threaten Fox Corp's advertising relationships or the Murdoch family's political interests. He is not an independent media figure who was captured by institutional money. He was manufactured by institutional money from day one.
 
 ---
 
@@ -105,7 +105,7 @@ Watters is a pure Fox Corp institutional product. Unlike digital-native media fi
 Each promotion required more provocative content than the last. The institution rewards escalation because escalation drives ratings because ratings drive advertising revenue. Watters didn't capture his audience. Fox News captured him, molded him, and installed him in the slot that generates maximum revenue.
 
 > [!contradiction]
-> **The Obama donor in Trump's chair.** FEC records show a "WATTERS, JESSE" at News Corp in Huntington, NY donating $1,000 to Obama's 2012 campaign. If confirmed as the Fox News host, this represents the clearest possible illustration of institutional capture: a man who personally supported Barack Obama now occupies Fox News' most powerful platform delivering content that serves the opposite political alignment — not because his beliefs changed, but because the institutional incentives changed. The primetime chair pays $5M/year. The Obama donation cost $1,000. The institution purchased the persona.
+> **The Obama donor in Trump's chair.** FEC records show a "WATTERS, JESSE" at News Corp in Huntington, NY donating $1,000 to Obama's 2012 campaign. If confirmed as the Fox News host, this represents the clearest possible illustration of institutional capture: a man who personally supported Barack Obama now occupies Fox News' most powerful platform delivering content that serves the opposite political alignment, not because his beliefs changed, but because the institutional incentives changed. The primetime chair pays $5M/year. The Obama donation cost $1,000. The institution purchased the persona.
 
 ---
 
@@ -137,7 +137,7 @@ Each promotion required more provocative content than the last. The institution 
 | Oct 2024 | On *The Five*: says wife secretly voting for Kamala would be "same as having an affair" | Watters (live on Fox) |, | Performs marital fidelity as moral value, while second marriage founded on affair; hypocrisy as content |
 
 > [!money]
-> **The replacement math.** Fox News paid $787.5 million to settle the Dominion lawsuit — a crisis partly created by hosts (including Carlson) amplifying election fraud claims. Then they fired Carlson and replaced him with Watters at ~$5M/year. The business calculation: replace a host with independent leverage ($20M+ salary, independent audience, willingness to go rogue) with one who has no leverage ($5M salary, no independent audience, career entirely dependent on Fox). Watters is cheaper, safer, and more controllable. The Dominion settlement didn't change Fox's content — it changed Fox's risk management.
+> **The replacement math.** Fox News paid $787.5 million to settle the Dominion lawsuit, a crisis partly created by hosts (including Carlson) amplifying election fraud claims. Then they fired Carlson and replaced him with Watters at ~$5M/year. The business calculation: replace a host with independent leverage ($20M+ salary, independent audience, willingness to go rogue) with one who has no leverage ($5M salary, no independent audience, career entirely dependent on Fox). Watters is cheaper, safer, and more controllable. The Dominion settlement didn't change Fox's content, it changed Fox's risk management.
 
 ---
 

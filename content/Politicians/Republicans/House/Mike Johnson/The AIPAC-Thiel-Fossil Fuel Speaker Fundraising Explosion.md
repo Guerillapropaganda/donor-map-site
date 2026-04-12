@@ -16,7 +16,7 @@ donors: [[AIPAC - American Israel Public Affairs Committee]], [[Peter Thiel]], [
 ### The [[AIPAC - American Israel Public Affairs Committee|AIPAC]]-Thiel-Fossil Fuel Speaker Fundraising Explosion
 
 > [!money]
-> [[_Mike Johnson Master Profile|Mike Johnson]] raised $71 million in his first three quarters as Speaker (Q1: $20M, Q2: $23.5M, Q3: $27.5M — a record). The transformation: an obscure LA-4 congressman raising modest amounts became the GOP's top fundraiser overnight. AIPAC: from ~$25,000 pre-Speaker to $104,000 in 2023, with $95,000 arriving in November 2023 alone — the same month Johnson pushed the $14 billion Israel aid package through the House. [[Peter Thiel|Peter Thiel]]: $852,200 to Grow the Majority joint fundraising committee (February 2024). [[Tim Dunn|Tim Dunn]] ($2.2B fracking billionaire): $1.1 million (March 2025). Rex Sinquefeld (retired investor): $1.1 million (March 2025). The Grow the Majority committee accepts contributions over $1 million, distributed across 70+ Republican entities. Total aligned outside spending ([[Congressional Leadership Fund|Congressional Leadership Fund]] + American Action Network): $60 million. The Speaker's chair is a fundraising machine — the donors don't fund the man, they fund the position.
+> [[_Mike Johnson Master Profile|Mike Johnson]] raised $71 million in his first three quarters as Speaker (Q1: $20M, Q2: $23.5M, Q3: $27.5M, a record). The transformation: an obscure LA-4 congressman raising modest amounts became the GOP's top fundraiser overnight. AIPAC: from ~$25,000 pre-Speaker to $104,000 in 2023, with $95,000 arriving in November 2023 alone, the same month Johnson pushed the $14 billion Israel aid package through the House. [[Peter Thiel|Peter Thiel]]: $852,200 to Grow the Majority joint fundraising committee (February 2024). [[Tim Dunn|Tim Dunn]] ($2.2B fracking billionaire): $1.1 million (March 2025). Rex Sinquefeld (retired investor): $1.1 million (March 2025). The Grow the Majority committee accepts contributions over $1 million, distributed across 70+ Republican entities. Total aligned outside spending ([[Congressional Leadership Fund|Congressional Leadership Fund]] + American Action Network): $60 million. The Speaker's chair is a fundraising machine, the donors don't fund the man, they fund the position.
 
 ---
 
@@ -61,7 +61,7 @@ Johnson has positioned himself as the crypto industry's congressional champion:
 - Ripple CEO Brad Garlinghouse praised him as leading "most pro-crypto Congress in history"
 
 > [!money]
-> The crypto alliance represents the newest donor-class acquisition: tech billionaires and crypto PACs funding a Southern Baptist covenant-marriage Speaker. The ideological distance between ADF-style social conservatism and libertarian crypto deregulation is vast. The financial distance is zero — both donor classes fund the same Speaker. The religious brand provides the base votes; the corporate donors provide the campaign funding. Johnson bridges them because the speakership demands it.
+> The crypto alliance represents the newest donor-class acquisition: tech billionaires and crypto PACs funding a Southern Baptist covenant-marriage Speaker. The ideological distance between ADF-style social conservatism and libertarian crypto deregulation is vast. The financial distance is zero, both donor classes fund the same Speaker. The religious brand provides the base votes; the corporate donors provide the campaign funding. Johnson bridges them because the speakership demands it.
 
 ---
 

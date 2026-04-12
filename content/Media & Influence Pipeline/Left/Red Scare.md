@@ -53,7 +53,7 @@ Red Scare at peak generated roughly 25% of Chapo's Patreon revenue ($44K vs ~$20
 No FEC individual contributions found. The FEC API returns 0 results for "NEKRASOVA, DASHA", no records to disambiguate.
 
 > [!money]
-> Dasha Nekrasova endorsed Trump in 2024 and hosted white nationalist Nick Fuentes in November 2025 — yet has never cut a single federal campaign check. This is consistent with the Red Scare political aesthetic: anti-institutional nihilism that doesn't translate into material electoral engagement. The Trump support is aesthetic and cultural; the financial non-participation is structural.
+> Dasha Nekrasova endorsed Trump in 2024 and hosted white nationalist Nick Fuentes in November 2025, yet has never cut a single federal campaign check. This is consistent with the Red Scare political aesthetic: anti-institutional nihilism that doesn't translate into material electoral engagement. The Trump support is aesthetic and cultural; the financial non-participation is structural.
 
 - [FEC: Dasha Nekrasova individual contributions (0 results)](https://www.fec.gov/data/receipts/?contributor_name=NEKRASOVA%2C+DASHA) (Tier 1)
 
@@ -64,7 +64,7 @@ No FEC individual contributions found. The FEC API returns 0 results for "NEKRAS
 No FEC individual contributions found. The FEC API returns 0 results for "KHACHIYAN, ANNA", no records to disambiguate.
 
 > [!money]
-> Anna Khachiyan has said Red Scare has "always loved [Trump], even when we had to be down-low brothers about it" and met with Peter Thiel in 2022 — yet has never donated to a federal campaign. The $0 FEC record maps onto the Red Scare political identity: audience-facing sympathy with the right-wing project combined with zero institutional electoral participation. The political positioning is personal and aesthetic, not financially committed.
+> Anna Khachiyan has said Red Scare has "always loved [Trump], even when we had to be down-low brothers about it" and met with Peter Thiel in 2022, yet has never donated to a federal campaign. The $0 FEC record maps onto the Red Scare political identity: audience-facing sympathy with the right-wing project combined with zero institutional electoral participation. The political positioning is personal and aesthetic, not financially committed.
 
 - [FEC: Anna Khachiyan individual contributions (0 results)](https://www.fec.gov/data/receipts/?contributor_name=KHACHIYAN%2C+ANNA) (Tier 1)
 
@@ -152,7 +152,7 @@ Red Scare's audience capture model is the inverse of Chapo Trap House, and is th
 | March 2026 | Current status: 8,652 paid subscribers, $24K-$61K/month, #38 Patreon podcast | Nekrasova, Khachiyan | ~$44K/month est. | Modest post-controversy decline in paid membership; podcast survives institutional backlash (no Patreon deplatforming) as subscriber base self-sorts toward remaining audience |
 
 > [!money]
-> Red Scare's Patreon trajectory tells the audience swap story. At peak (~2020), the show had 12,500+ paid subscribers generating $50K+/month. By March 2026, after the full rightward arc, paid membership has declined to 8,652 while monthly revenue ($44K) remains relatively stable — suggesting the remaining subscribers pay more per person, and that the right-skewed subscriber base is more financially committed than the left-origin one was. The Fuentes controversy did not kill the show; it completed the audience replacement. The left subscribers who remain are either irrelevant to the editorial direction or are themselves post-left converts. The right subscribers who joined — some portion of whom may be funded by or affiliated with the Thiel/Dimes Square network — are the new audience-funder class.
+> Red Scare's Patreon trajectory tells the audience swap story. At peak (~2020), the show had 12,500+ paid subscribers generating $50K+/month. By March 2026, after the full rightward arc, paid membership has declined to 8,652 while monthly revenue ($44K) remains relatively stable, suggesting the remaining subscribers pay more per person, and that the right-skewed subscriber base is more financially committed than the left-origin one was. The Fuentes controversy did not kill the show; it completed the audience replacement. The left subscribers who remain are either irrelevant to the editorial direction or are themselves post-left converts. The right subscribers who joined, some portion of whom may be funded by or affiliated with the Thiel/Dimes Square network, are the new audience-funder class.
 
 ### Class Analysis
 

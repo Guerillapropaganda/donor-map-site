@@ -23,7 +23,7 @@ NAR spent $86.4 million on federal lobbying in 2024, more than any other organiz
 NAR deliberately splits PAC money ~50/50 between parties: 43.7% Democrat / 56.3% Republican in 2024; 50.7% Democrat / 49.3% Republican in 2022. RPAC raised $45.8 million in 2024. NAR gave $2 million to Senate Majority PAC (Democratic) and $1 million to Senate Leadership Fund (Republican), buying both sides simultaneously. [OpenSecrets: NAR Totals](https://www.opensecrets.org/orgs/national-assn-of-realtors/totals?id=D000000062) (Tier 1)
 
 > [!money]
-> NAR is the #1 lobbying spender in America. It splits money 50/50 between parties. It gave $2M to the Democratic Senate super PAC and $1M to the Republican Senate super PAC in the same cycle. This is not hedging — it is purchasing bipartisan protection for the housing market status quo.
+> NAR is the #1 lobbying spender in America. It splits money 50/50 between parties. It gave $2M to the Democratic Senate super PAC and $1M to the Republican Senate super PAC in the same cycle. This is not hedging, it is purchasing bipartisan protection for the housing market status quo.
 
 ---
 
@@ -90,7 +90,7 @@ Trump's FY2020 budget proposed cutting $9.6 billion from HUD, eliminating HOME e
 All provisions survived or were expanded in the 2025 OBBBA. Ways and Means Chairman [[_Jason Smith Master Profile|Jason Smith]] ($132,700 from NAR) and member Terri Sewell ($128,350) serve as gatekeepers.
 
 > [!money]
-> NAR's top legislative priority — making the QBI deduction permanent — costs ~$75 billion/year in total. The $86.4 million NAR spent on lobbying in 2024 buys access to tax provisions worth orders of magnitude more. The return on investment is incalculable.
+> NAR's top legislative priority, making the QBI deduction permanent, costs ~$75 billion/year in total. The $86.4 million NAR spent on lobbying in 2024 buys access to tax provisions worth orders of magnitude more. The return on investment is incalculable.
 
 ---
 
@@ -105,7 +105,7 @@ Democrats receive real estate money to block zoning reform (SB 50), kill rent co
 The result: housing costs rise, homeownership rates stagnate for working-class Americans, and the tax code transfers tens of billions annually to property investors. Both parties call themselves pro-housing. Both parties protect the lobby that funds the crisis.
 
 > [!contradiction]
-> NAR spent $86.4 million lobbying in 2024 — #1 in America. It splits money 50/50. Democrats block zoning reform and rent control. Republicans cut HUD and public housing. Both protect tax provisions worth $100B+/year for property investors. The housing crisis is bipartisan by design.
+> NAR spent $86.4 million lobbying in 2024, #1 in America. It splits money 50/50. Democrats block zoning reform and rent control. Republicans cut HUD and public housing. Both protect tax provisions worth $100B+/year for property investors. The housing crisis is bipartisan by design.
 
 ---
 

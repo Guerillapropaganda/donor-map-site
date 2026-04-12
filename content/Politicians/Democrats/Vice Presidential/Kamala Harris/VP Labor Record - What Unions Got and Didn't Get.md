@@ -85,7 +85,7 @@ The Abruzzo confirmation was the single largest labor power shift Harris persona
 - Southern deployment generated IBEW jobs in traditionally non-union regions
 
 > [!contradiction] The Prevailing Wage Gap
-> The IRA's prevailing wage bonus incentivizes union wages — it doesn't mandate them. Projects that pay the lower base credit (30% instead of 150%) save money by hiring non-union. IBEW capacity constraints meant not all qualifying projects could hire union labor even when they wanted to. Some employers used the lower credit rather than raise wages. The bonus creates a two-tier system: unionized projects get 5x credits, non-union projects accept lower credits and lower labor costs. The incentive is real but the mandate is absent.
+> The IRA's prevailing wage bonus incentivizes union wages, it doesn't mandate them. Projects that pay the lower base credit (30% instead of 150%) save money by hiring non-union. IBEW capacity constraints meant not all qualifying projects could hire union labor even when they wanted to. Some employers used the lower credit rather than raise wages. The bonus creates a two-tier system: unionized projects get 5x credits, non-union projects accept lower credits and lower labor costs. The incentive is real but the mandate is absent.
 
 ---
 
@@ -119,7 +119,7 @@ First comprehensive update to prevailing wage rules since 1982, a 40-year gap. D
 >
 > **The filibuster obstacle:** Manchin and Sinema (moderate Democrats funded by the same donor class documented in this vault) opposed eliminating or modifying the filibuster. Without filibuster reform, structural labor legislation was mathematically impossible. Harris's tie-breaking power works on budget reconciliation (simple majority). It doesn't work on labor bills when Republicans unanimously oppose and Democrats are divided on filibuster reform.
 >
-> **The Koch connection:** The Koch network spent $548M in the 2024 cycle alone. Koch-funded organizations (National Right to Work Legal Defense Foundation, AFP state chapters) have systematically fought every labor rights expansion for 50 years. The same network funded the plaintiff in *Janus v. [[AFSCME - American Federation of State County and Municipal Employees|AFSCME]]*. The PRO Act's death in the Senate is not a failure of Democratic willpower — it's the structural result of donor-class money on both sides of the aisle ensuring labor reform never passes.
+> **The Koch connection:** The Koch network spent $548M in the 2024 cycle alone. Koch-funded organizations (National Right to Work Legal Defense Foundation, AFP state chapters) have systematically fought every labor rights expansion for 50 years. The same network funded the plaintiff in *Janus v. [[AFSCME - American Federation of State County and Municipal Employees|AFSCME]]*. The PRO Act's death in the Senate is not a failure of Democratic willpower, it's the structural result of donor-class money on both sides of the aisle ensuring labor reform never passes.
 
 **Janus reversal:** After *Janus v. [[AFSCME - American Federation of State County and Municipal Employees|AFSCME]]* (2018), funded by Koch-backed organizations, gutted public-sector union dues, no serious reversal attempt was made. Would have required Supreme Court action or constitutional amendment. Politically impossible under any conceivable scenario.
 

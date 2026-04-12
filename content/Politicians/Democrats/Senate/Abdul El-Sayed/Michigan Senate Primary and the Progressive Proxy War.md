@@ -71,7 +71,7 @@ The Sanders and Warren endorsements represent more than personality preferences.
 | Largest Individual Donors | Not disclosed | Includes $4K from Ron Klain (Biden's former CoS), tech sector donors |
 
 > [!money]
-> McMorrow's $5M+ vs. El-Sayed's $1.8M disparity is the primary argument in concrete form. McMorrow can afford digital ads, ground organization, polling, and consultants at 3x El-Sayed's capacity. This advantage is not ideological — it's a function of access to capital. McMorrow has built a national donor network through her 2022 viral moment, which translates to structural primary advantage. El-Sayed's small-dollar model is philosophically coherent but materially disadvantaged. In the vault's analytical frame, this disparity proves the primary system's structural dependence on capital concentration.
+> McMorrow's $5M+ vs. El-Sayed's $1.8M disparity is the primary argument in concrete form. McMorrow can afford digital ads, ground organization, polling, and consultants at 3x El-Sayed's capacity. This advantage is not ideological, it's a function of access to capital. McMorrow has built a national donor network through her 2022 viral moment, which translates to structural primary advantage. El-Sayed's small-dollar model is philosophically coherent but materially disadvantaged. In the vault's analytical frame, this disparity proves the primary system's structural dependence on capital concentration.
 
 ---
 

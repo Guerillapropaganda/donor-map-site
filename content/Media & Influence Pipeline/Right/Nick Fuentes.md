@@ -21,7 +21,7 @@ In November 2022, Fuentes attended a private dinner at Mar-a-Lago with Donald Tr
 ### The Funding Model
 
 > [!money]
-> Fuentes operates outside the traditional donor class funding infrastructure—a structural anomaly in the right-wing media ecosystem. His funding model is uniquely decentralized and precarious: cryptocurrency, small-dollar livestream donations, merchandise sales, and a single documented corporate payment from the Ye 2024 campaign.
+> Fuentes operates outside the traditional donor class funding infrastructure, a structural anomaly in the right-wing media ecosystem. His funding model is uniquely decentralized and precarious: cryptocurrency, small-dollar livestream donations, merchandise sales, and a single documented corporate payment from the Ye 2024 campaign.
 
 **America First Foundation (501(c)(4))**. The primary institutional vehicle:
 - FY2021: $4,821 in contributions
@@ -46,7 +46,7 @@ In November 2022, Fuentes attended a private dinner at Mar-a-Lago with Donald Tr
 ### Who Funds Them
 
 > [!contradiction]
-> Fuentes is the critical outlier in the right-wing media ecosystem: he receives **no funding from DonorsTrust, Bradley Foundation, Koch networks, or other establishment conservative infrastructure.** This is not an oversight or exclusion—it is structural evidence that Fuentes operates as a controlled liability rather than a funded asset.
+> Fuentes is the critical outlier in the right-wing media ecosystem: he receives **no funding from DonorsTrust, Bradley Foundation, Koch networks, or other establishment conservative infrastructure.** This is not an oversight or exclusion, it is structural evidence that Fuentes operates as a controlled liability rather than a funded asset.
 
 The Bitcoin donation from Laurent Bachelier was part of a larger distribution to far-right figures, suggesting external funding coordinated by actors sympathetic to the movement but not integrated into American donor class networks. The Ye campaign payments were transactional (campaign staffing) rather than political support.
 

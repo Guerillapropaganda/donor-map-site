@@ -85,7 +85,7 @@ Preservation of the $2.13/hour tipped minimum wage, opposition to federal minimu
 **State-Level Victories:** The NRA has successfully blocked minimum wage increases and paid leave mandates in dozens of state legislatures, particularly in Republican-controlled states where the association's lobbying operation combines with Chamber of Commerce and ALEC model legislation.
 
 > [!money]
-> The $2.13/hour tipped minimum wage — unchanged for 35 years — is the longest-running wage suppression in American labor law. The National Restaurant Association's $5-8 million annual lobbying investment protects an industry labor model where 2.7 million tipped workers are paid $2.13/hour by their employers, with the remainder of their income dependent on customer generosity. The cost of the NRA's lobbying: $5-8 million/year. The savings to restaurant owners from the wage freeze: estimated $20+ billion annually in reduced labor costs.
+> The $2.13/hour tipped minimum wage, unchanged for 35 years, is the longest-running wage suppression in American labor law. The National Restaurant Association's $5-8 million annual lobbying investment protects an industry labor model where 2.7 million tipped workers are paid $2.13/hour by their employers, with the remainder of their income dependent on customer generosity. The cost of the NRA's lobbying: $5-8 million/year. The savings to restaurant owners from the wage freeze: estimated $20+ billion annually in reduced labor costs.
 
 ---
 
@@ -121,12 +121,12 @@ Preservation of the $2.13/hour tipped minimum wage, opposition to federal minimu
 | Agencies | Agriculture Department, Federal Trade Commission, Food and Nutrition Service, Labor Department, National Labor Relations Board, Securities and Exchange Commission, Wage and Hour Division |
 
 **Recent regulatory activity:**
-- [Trade Regulation Rule on Unfair or Deceptive Fees](https://www.federalregister.gov/documents/2025/01/10/2024-30293/trade-regulation-rule-on-unfair-or-deceptive-fees) (2025-01-10) — Federal Trade Commission
-- [Defining and Delimiting the Exemptions for Executive, Administrative, Professional, Outside Sales, and Computer Employees](https://www.federalregister.gov/documents/2024/04/26/2024-08038/defining-and-delimiting-the-exemptions-for-executive-administrative-professional-outside-sales-and) (2024-04-26) — Labor Department
-- [Child Nutrition Programs: Meal Patterns Consistent With the 2020-2025 Dietary Guidelines for Americans](https://www.federalregister.gov/documents/2024/04/25/2024-08098/child-nutrition-programs-meal-patterns-consistent-with-the-2020-2025-dietary-guidelines-for) (2024-04-25) — Agriculture Department
-- [The Enhancement and Standardization of Climate-Related Disclosures for Investors](https://www.federalregister.gov/documents/2024/03/28/2024-05137/the-enhancement-and-standardization-of-climate-related-disclosures-for-investors) (2024-03-28) — Securities and Exchange Commission
-- [Employee or Independent Contractor Classification Under the Fair Labor Standards Act](https://www.federalregister.gov/documents/2024/01/10/2024-00067/employee-or-independent-contractor-classification-under-the-fair-labor-standards-act) (2024-01-10) — Labor Department
-- [Trade Regulation Rule on Unfair or Deceptive Fees](https://www.federalregister.gov/documents/2023/11/09/2023-24234/trade-regulation-rule-on-unfair-or-deceptive-fees) (2023-11-09) — Federal Trade Commission
+- [Trade Regulation Rule on Unfair or Deceptive Fees](https://www.federalregister.gov/documents/2025/01/10/2024-30293/trade-regulation-rule-on-unfair-or-deceptive-fees) (2025-01-10) - Federal Trade Commission
+- [Defining and Delimiting the Exemptions for Executive, Administrative, Professional, Outside Sales, and Computer Employees](https://www.federalregister.gov/documents/2024/04/26/2024-08038/defining-and-delimiting-the-exemptions-for-executive-administrative-professional-outside-sales-and) (2024-04-26) - Labor Department
+- [Child Nutrition Programs: Meal Patterns Consistent With the 2020-2025 Dietary Guidelines for Americans](https://www.federalregister.gov/documents/2024/04/25/2024-08098/child-nutrition-programs-meal-patterns-consistent-with-the-2020-2025-dietary-guidelines-for) (2024-04-25) - Agriculture Department
+- [The Enhancement and Standardization of Climate-Related Disclosures for Investors](https://www.federalregister.gov/documents/2024/03/28/2024-05137/the-enhancement-and-standardization-of-climate-related-disclosures-for-investors) (2024-03-28) - Securities and Exchange Commission
+- [Employee or Independent Contractor Classification Under the Fair Labor Standards Act](https://www.federalregister.gov/documents/2024/01/10/2024-00067/employee-or-independent-contractor-classification-under-the-fair-labor-standards-act) (2024-01-10) - Labor Department
+- [Trade Regulation Rule on Unfair or Deceptive Fees](https://www.federalregister.gov/documents/2023/11/09/2023-24234/trade-regulation-rule-on-unfair-or-deceptive-fees) (2023-11-09) - Federal Trade Commission
 - ... and 53 more
 
 - [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22National%20Restaurant%20Association%22) (Tier 1)
@@ -143,16 +143,16 @@ Preservation of the $2.13/hour tipped minimum wage, opposition to federal minimu
 
 **Notable filings:**
 
-- 2026-04-02 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/109380/000170684326000001/0001706843-26-000001-index.htm)
-- 2026-04-02 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/109380/000201763326000001/0002017633-26-000001-index.htm)
-- 2026-04-01 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/109380/000162582426000002/0001625824-26-000002-index.htm)
-- 2026-04-01 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/109380/000181702526000001/0001817025-26-000001-index.htm)
-- 2026-04-01 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/109380/000173846026000002/0001738460-26-000002-index.htm)
+- 2026-04-02 - **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/109380/000170684326000001/0001706843-26-000001-index.htm)
+- 2026-04-02 - **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/109380/000201763326000001/0002017633-26-000001-index.htm)
+- 2026-04-01 - **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/109380/000162582426000002/0001625824-26-000002-index.htm)
+- 2026-04-01 - **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/109380/000181702526000001/0001817025-26-000001-index.htm)
+- 2026-04-01 - **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/109380/000173846026000002/0001738460-26-000002-index.htm)
 
 - [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22National%20Restaurant%20Association%22) (Tier 1)
 <!-- auto:sec-edgar end -->
 
-### Financial Overview (990 Filing — 2023)
+### Financial Overview (990 Filing - 2023)
 <!-- auto:propublica-990 start -->
 | Metric | Amount |
 |--------|--------|
@@ -164,7 +164,7 @@ Preservation of the $2.13/hour tipped minimum wage, opposition to federal minimu
 | Net Assets | $206.9M |
 | Officer Compensation | $12.6M |
 
-- [Source: ProPublica Nonprofit Explorer — EIN 361525480](https://projects.propublica.org/nonprofits/organizations/361525480) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer - EIN 361525480](https://projects.propublica.org/nonprofits/organizations/361525480) (Tier 1)
 <!-- auto:propublica-990 end -->
 
 ### Lobbying Activity
@@ -203,12 +203,12 @@ Preservation of the $2.13/hour tipped minimum wage, opposition to federal minimu
 | NRSC | $120,000 | REP |
 | DSCC | $120,000 | DEM |
 | NRCC | $82,500 | REP |
-| SCALISE LEADERSHIP FUND | $60,000 | — |
-| JOHNSON LEADERSHIP FUND | $60,000 | — |
+| SCALISE LEADERSHIP FUND | $60,000 | - |
+| JOHNSON LEADERSHIP FUND | $60,000 | - |
 | DCCC | $45,000 | DEM |
-| MCCARTHY VICTORY FUND | $30,000 | — |
-| SMITH VICTORY | $25,000 | — |
-| ELECTING MAJORITY MAKING EFFECTIVE REPUBLICANS PAC | $20,000 | — |
+| MCCARTHY VICTORY FUND | $30,000 | - |
+| SMITH VICTORY | $25,000 | - |
+| ELECTING MAJORITY MAKING EFFECTIVE REPUBLICANS PAC | $20,000 | - |
 | SCALISE FOR CONGRESS | $20,000 | REP |
 
 - [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=National%20Restaurant%20Association) (Tier 1)
@@ -228,20 +228,20 @@ Preservation of the $2.13/hour tipped minimum wage, opposition to federal minimu
 
 **Funded politicians:**
 
-- [[Steve Scalise]] — lobbying: $3.1M
-- [[Mike Johnson]] — lobbying: $3.1M
-- [[Ron Johnson]] — lobbying: $3.1M
-- [[Kevin McCarthy]] — lobbying: $3.1M
-- [[Adam Smith]] (Armed Services) — lobbying: $3.1M
-- [[Jason Smith]] (Ways & Means) — lobbying: $3.1M
-- [[Bryan Steil]] — lobbying: $3.1M
+- [[Steve Scalise]] - lobbying: $3.1M
+- [[Mike Johnson]] - lobbying: $3.1M
+- [[Ron Johnson]] - lobbying: $3.1M
+- [[Kevin McCarthy]] - lobbying: $3.1M
+- [[Adam Smith]] (Armed Services) - lobbying: $3.1M
+- [[Jason Smith]] (Ways & Means) - lobbying: $3.1M
+- [[Bryan Steil]] - lobbying: $3.1M
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-11.*
 <!-- auto:influence-cross-ref end -->
 
 <!-- auto:influence-cross-ref pending-merge 2026-04-12 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+> [!attention] Fresh API data available - needs manual merge
+> Bot detected your edits to this section. New data below - fold in what's useful, then delete this block.
 
 | Metric | Value |
 |--------|-------|
@@ -255,13 +255,13 @@ Preservation of the $2.13/hour tipped minimum wage, opposition to federal minimu
 
 **Funded politicians:**
 
-- [[Steve Scalise]] — lobbying: $3.1M
-- [[Mike Johnson]] — lobbying: $3.1M
-- [[Ron Johnson]] — lobbying: $3.1M
-- [[Kevin McCarthy]] — lobbying: $3.1M
-- [[Adam Smith]] (House Committee on Armed Services) — lobbying: $3.1M
-- [[Jason Smith]] (Ways & Means) — lobbying: $3.1M
-- [[Bryan Steil]] — lobbying: $3.1M
+- [[Steve Scalise]] - lobbying: $3.1M
+- [[Mike Johnson]] - lobbying: $3.1M
+- [[Ron Johnson]] - lobbying: $3.1M
+- [[Kevin McCarthy]] - lobbying: $3.1M
+- [[Adam Smith]] (House Committee on Armed Services) - lobbying: $3.1M
+- [[Jason Smith]] (Ways & Means) - lobbying: $3.1M
+- [[Bryan Steil]] - lobbying: $3.1M
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-12.*
 

@@ -112,7 +112,7 @@ Coydog Foundation · Peter G. Peterson Foundation · Present Progressive Fund ·
 Amalgamated Transit Union · American Income Life · Communications Workers of America · International Association of Machinists · International Brotherhood of Boilermakers · International Brotherhood of Electrical Workers · National Association of Letter Carriers · Rockefeller Philanthropy Advisors · UNITE HERE · Oxfam · Steel Dynamics Inc.
 
 > [!money]
-> EPI's founding was itself a union investment: eight labor unions made a five-year funding pledge at inception — AFSCME, UAW, United Steelworkers, United Mine Workers, IAM, Communications Workers of America, SEIU, and UFCW. The organization was built from day one as labor's research arm. By 2021, AFL-CIO president Elizabeth Shuler chaired the board, UAW and SEIU remained top funders at $100K+, and every union federation with significant political clout had money in EPI. The "independent research" brand is accurate in that EPI researchers write what they believe — but the institutional structure ensures they believe what their funders need them to believe.
+> EPI's founding was itself a union investment: eight labor unions made a five-year funding pledge at inception. AFSCME, UAW, United Steelworkers, United Mine Workers, IAM, Communications Workers of America, SEIU, and UFCW. The organization was built from day one as labor's research arm. By 2021, AFL-CIO president Elizabeth Shuler chaired the board, UAW and SEIU remained top funders at $100K+, and every union federation with significant political clout had money in EPI. The "independent research" brand is accurate in that EPI researchers write what they believe, but the institutional structure ensures they believe what their funders need them to believe.
 
 ### Notable anomalies:
 - **Peter G. Peterson Foundation ($50K–$99K):** Peterson was a deficit hawk whose foundation spent billions arguing that Social Security and Medicare spending must be cut. EPI's own research consistently opposes entitlement cuts. This funder relationship has not been publicly explained.
@@ -148,7 +148,7 @@ Key publications and ongoing trackers:
 - **Federal Policy Watch**. Real-time tracking tool monitoring Trump administration policy changes to worker protections, updated weekly by EPI economists.
 
 > [!contradiction]
-> EPI's core policy victories — Biden NLRB reforms, overtime expansion, minimum wage modeling — are being systematically reversed in Trump's second term. The NLRB that EPI's research helped rebuild is now being structurally dismantled. This pattern exposes the structural limit of the liberal think tank model: policy gains achieved through regulatory action can be reversed by executive action faster than research can counter them. EPI can document the destruction; it cannot prevent it.
+> EPI's core policy victories. Biden NLRB reforms, overtime expansion, minimum wage modeling, are being systematically reversed in Trump's second term. The NLRB that EPI's research helped rebuild is now being structurally dismantled. This pattern exposes the structural limit of the liberal think tank model: policy gains achieved through regulatory action can be reversed by executive action faster than research can counter them. EPI can document the destruction; it cannot prevent it.
 
 ---
 
@@ -190,7 +190,7 @@ EPI's staff movement between the think tank and Democratic administrations is th
 **AFL-CIO governance lock:** AFL-CIO President Richard Trumka chaired EPI's board from at least 2013 until his death in August 2021. Current AFL-CIO President Elizabeth Shuler assumed the chair position. This means the head of the largest union federation in the United States directly governs EPI, not as a funder, but as the board's top officer.
 
 > [!contradiction]
-> EPI presents itself as an independent research organization whose conclusions follow from data. But the board chair is the AFL-CIO president, the top funders are AFL-CIO affiliated unions, the president is a former Obama DOL official, and the immediate past president went directly to a Biden DOL position. This is not independence — it is the labor movement's in-house economics department operating under an academic branding. That does not make the research wrong, but it means the "independent" framing should be understood as a legitimacy strategy, not a description of the institution's actual position.
+> EPI presents itself as an independent research organization whose conclusions follow from data. But the board chair is the AFL-CIO president, the top funders are AFL-CIO affiliated unions, the president is a former Obama DOL official, and the immediate past president went directly to a Biden DOL position. This is not independence, it is the labor movement's in-house economics department operating under an academic branding. That does not make the research wrong, but it means the "independent" framing should be understood as a legitimacy strategy, not a description of the institution's actual position.
 
 ---
 
@@ -210,7 +210,7 @@ EPI's staff movement between the think tank and Democratic administrations is th
 | 2025 | Trump EOs strip 1M+ federal workers' union rights | $0 (counter-research) | EPI "Biggest union-buster" report documents 9 agencies canceling union contracts; Federal Policy Watch tracks rollbacks in real time | Simultaneous, documentation without policy leverage |
 
 > [!money]
-> The AFL-CIO's structural position at EPI is not a donation relationship — it is a governance relationship. The federation president chairs the board that hires the president, sets institutional direction, and approves major research priorities. The $100K+ annual donation is almost beside the point: the AFL-CIO doesn't just fund EPI's research, it governs the institution that produces the research it will then cite in legislative fights. The return on that investment is a legitimized, peer-reviewed empirical foundation for labor's policy agenda — research that Democratic politicians can cite as "independent economic analysis" rather than union lobbying.
+> The AFL-CIO's structural position at EPI is not a donation relationship, it is a governance relationship. The federation president chairs the board that hires the president, sets institutional direction, and approves major research priorities. The $100K+ annual donation is almost beside the point: the AFL-CIO doesn't just fund EPI's research, it governs the institution that produces the research it will then cite in legislative fights. The return on that investment is a legitimized, peer-reviewed empirical foundation for labor's policy agenda, research that Democratic politicians can cite as "independent economic analysis" rather than union lobbying.
 
 ---
 

@@ -63,7 +63,7 @@ Born in Pretoria during apartheid. Father Errol Musk: partial owner of an emeral
 
 ### The Political Spending
 
-> [!money] Follow the Money — $340+ Million and Counting
+> [!money] Follow the Money, $340+ Million and Counting
 > **2024 cycle:** $288–292 million (America PAC: $238–239M, 91% of total)
 > **2025 spending:**
 > - $48 million to America PAC
@@ -124,7 +124,7 @@ Then Musk was given control of DOGE, the agency cutting spending on everyone exc
 ### DOGE. The Aftermath
 
 > [!contradiction] Cut the Workforce, Increased the Spending
-> **Federal workforce:** Decreased from 3.015M (January 2025) to 2.744M (November 2025) — largest peacetime workforce reduction on record, 270,000+ positions eliminated
+> **Federal workforce:** Decreased from 3.015M (January 2025) to 2.744M (November 2025), largest peacetime workforce reduction on record, 270,000+ positions eliminated
 >
 > **Federal spending:** Actually increased. Brookings Institution: outlays rose from $7.135T to $7.558T (5.8% increase) by December 2025. Cato Institute conclusion: "DOGE had no noticeable effect on the trajectory of spending."
 >
@@ -135,7 +135,7 @@ Then Musk was given control of DOGE, the agency cutting spending on everyone exc
 > - A 10% workforce cut saves ~$40B annually because federal employees account for only ~8% of total spending
 > - March 2026 deposition: DOGE staffer testified the agency was unable to lower the federal deficit
 >
-> **Timeline:** Musk departed May 2025. DOGE formally ceased to exist November 2025 — ahead of schedule.
+> **Timeline:** Musk departed May 2025. DOGE formally ceased to exist November 2025, ahead of schedule.
 
 **Legal challenges:** District court blocked DOGE data access (early 2025, later vacated on appeal August 2025). 14 states sued. Unions sued Treasury over DOGE access to sensitive financial data. Protect Democracy Project sued over OMB apportionment database removal. Campaign Legal Center sued for "lawless, unconstitutional power grab." None stopped the workforce cuts, but the spending didn't decrease either.
 
@@ -146,13 +146,13 @@ For [[IBEW - International Brotherhood of Electrical Workers|IBEW]]: DOGE target
 ### The Labor Record
 
 > [!contradiction] The Anti-Union Oligarch
-> **Tesla:** Only major U.S. automaker without union representation. 24 open NLRB investigations across Musk companies (January 2025). Buffalo facility: NLRB accused Tesla of suppressing unionization. Sweden: IF Metall mechanics strike ongoing since October 2023 — Tesla refuses collective agreement. Germany: third works council election March 2026; "Giga United" won most seats.
+> **Tesla:** Only major U.S. automaker without union representation. 24 open NLRB investigations across Musk companies (January 2025). Buffalo facility: NLRB accused Tesla of suppressing unionization. Sweden: IF Metall mechanics strike ongoing since October 2023. Tesla refuses collective agreement. Germany: third works council election March 2026; "Giga United" won most seats.
 >
 > **SpaceX:** Fired employees who signed open letter criticizing Musk.
 >
 > **X/Twitter:** ~75% of workforce laid off after acquisition. No collective bargaining.
 >
-> **2025 deliveries declined 8.6%** — steepest annual decline in company history. Second consecutive year of delivery declines. BYD overtook Tesla as world EV leader. China sales hit three-year low October 2025. The stock hit $489.88 (December 2025 all-time high) despite declining sales — valuation driven by robotaxi speculation and political positioning, not vehicle performance.
+> **2025 deliveries declined 8.6%**, steepest annual decline in company history. Second consecutive year of delivery declines. BYD overtook Tesla as world EV leader. China sales hit three-year low October 2025. The stock hit $489.88 (December 2025 all-time high) despite declining sales, valuation driven by robotaxi speculation and political positioning, not vehicle performance.
 
 ---
 
@@ -196,7 +196,7 @@ Current status: "distrustful alliance of convenience." Both understand mutual da
 ### Foreign Election Interference
 
 > [!contradiction] The American Oligarch Goes Global
-> **Germany — AfD:**
+> **Germany. AfD:**
 > - December 2024: "Only the AfD can save Germany"
 > - Die Welt op-ed arguing "traditional parties have failed" (staff resigned in protest)
 > - January 2025: Hosted X Spaces with AfD leader Alice Weidel
@@ -260,7 +260,7 @@ For IBEW: Tesla and SpaceX are non-union competitors in IBEW-adjacent work (EV e
 | 2026-03 | Terafab chip facility announced ($20B Austin) | $20B planned investment | Private chip manufacturing for AI, vehicles, space |, | Supply chain capture: government-dependent contractor building strategic infrastructure |
 
 > [!money] The $292M → $38B Pipeline
-> Musk spent $292 million electing Trump in 2024. His companies hold $38 billion+ in cumulative government contracts and support. He was given authority over the agencies that regulate those companies. SpaceX received $5.9 billion in new contracts while Musk was cutting other agencies' budgets. The $292 million political investment purchased direct access to the regulatory and procurement apparatus. ROI: approximately 130-to-1 measured in government contract value alone — and that's before counting the regulatory relief (NLRB gutting, Davis-Bacon enforcement reduction, SEC settlement positioning) that protects his commercial operations.
+> Musk spent $292 million electing Trump in 2024. His companies hold $38 billion+ in cumulative government contracts and support. He was given authority over the agencies that regulate those companies. SpaceX received $5.9 billion in new contracts while Musk was cutting other agencies' budgets. The $292 million political investment purchased direct access to the regulatory and procurement apparatus. ROI: approximately 130-to-1 measured in government contract value alone, and that's before counting the regulatory relief (NLRB gutting, Davis-Bacon enforcement reduction, SEC settlement positioning) that protects his commercial operations.
 
 [Source: [OpenSecrets. Elon Musk 2024 donor profile](https://www.fec.gov/data/independent-expenditures/?q=Elon%20Musk) (Tier 1); [Fox Business: Musk government funding](https://www.foxbusiness.com/politics/how-much-have-musks-tesla-spacex-benefited-from-government-funds) (Tier 2)]
 
@@ -388,7 +388,7 @@ Six individuals accounted for over $900 million in 2024 election spending. That'
 **TSA salary offer (March 21, 2026):** With the DHS shutdown in its fifth week and 50,000+ TSA officers working without pay, Musk publicly offered to personally cover TSA salaries. Legal experts note federal law generally prohibits government employees from receiving outside compensation tied to official duties.
 
 > [!contradiction]
-> The architect of DOGE — which eliminated hundreds of thousands of federal jobs — now offers to personally pay the salaries of federal workers affected by a government shutdown that DOGE's dysfunction helped create. This is the billionaire-as-government model made literal.
+> The architect of DOGE, which eliminated hundreds of thousands of federal jobs, now offers to personally pay the salaries of federal workers affected by a government shutdown that DOGE's dysfunction helped create. This is the billionaire-as-government model made literal.
 
 - [Fortune: DOGE staffer deposition on deficit failure](https://fortune.com/2026/03/16/doge-employee-deposition-lawsuit-federal-deficit-elon-musk-spending/) (Tier 2)
 - [Fortune: DOGE cancelled HVAC grant via ChatGPT DEI flagging](https://fortune.com/2026/03/19/doge-cancelled-350000-hvac-grant-dei-lawsuit-elon-musk/) (Tier 2)
@@ -402,7 +402,7 @@ Six individuals accounted for over $900 million in 2024 election spending. That'
 **Terafab announced (March 22, 2026):** Musk announced "Terafab," a **$20 billion** private chip manufacturing facility in Austin, Texas, a joint venture between Tesla, SpaceX, and xAI to produce AI chips for vehicles, humanoid robots, and space applications. Target: a terawatt of annual AI computing power. This is the most significant move yet toward Musk vertically integrating his entire industrial empire: from raw chip fab to rockets, cars, AI, and communications.
 
 > [!money] The privatization of strategic manufacturing
-> Musk is building a government-scale chip fab with companies that hold billions in federal contracts (SpaceX alone: $15B+ in NASA/DoD contracts). A private actor with extraordinary government access is now building the infrastructure the government depends on — while simultaneously advising the government on technology policy (Trump AI executive order, March 20). The regulatory capture is now being joined by supply chain capture.
+> Musk is building a government-scale chip fab with companies that hold billions in federal contracts (SpaceX alone: $15B+ in NASA/DoD contracts). A private actor with extraordinary government access is now building the infrastructure the government depends on, while simultaneously advising the government on technology policy (Trump AI executive order, March 20). The regulatory capture is now being joined by supply chain capture.
 
 **Tesla market cap recovery (March 2026):** Tesla's market cap recovered **$158 billion** after Musk stepped back from his official DOGE role. The market had priced Musk's government service as a liability to his commercial enterprises. The recovery signals investor belief that DOGE damaged Tesla's brand globally.
 
@@ -448,16 +448,16 @@ Six individuals accounted for over $900 million in 2024 election spending. That'
 
 | Recipient | Amount | Party |
 |-----------|--------|-------|
-| AMERICA PAC | $297,973,879 | — |
-| RBG PAC | $20,500,000 | — |
-| SLF PAC | $10,000,000 | — |
-| CONGRESSIONAL LEADERSHIP FUND | $10,000,000 | — |
-| SENATE LEADERSHIP FUND | $10,000,000 | — |
-| MAHA ALLIANCE | $6,000,000 | — |
-| MAGA INC. | $5,000,000 | — |
-| THE SENTINEL ACTION FUND | $2,339,600 | — |
-| EARLY VOTE ACTION PAC | $1,000,000 | — |
-| TRUMP 47 COMMITTEE, INC. | $924,600 | — |
+| AMERICA PAC | $297,973,879 | - |
+| RBG PAC | $20,500,000 | - |
+| SLF PAC | $10,000,000 | - |
+| CONGRESSIONAL LEADERSHIP FUND | $10,000,000 | - |
+| SENATE LEADERSHIP FUND | $10,000,000 | - |
+| MAHA ALLIANCE | $6,000,000 | - |
+| MAGA INC. | $5,000,000 | - |
+| THE SENTINEL ACTION FUND | $2,339,600 | - |
+| EARLY VOTE ACTION PAC | $1,000,000 | - |
+| TRUMP 47 COMMITTEE, INC. | $924,600 | - |
 
 - [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Elon%20Musk) (Tier 1)
 <!-- auto:fec-donor end -->
@@ -474,18 +474,18 @@ Six individuals accounted for over $900 million in 2024 election spending. That'
 
 **Notable filings:**
 
-- 2022-06-22 — **EX1A-13 TST WTRS**: TESTING THE WATERS MATERIALS RELATING TO SERIES #ELON1
-- 2018-05-09 — **PX14A6G**: PX14A6G
-- 2023-04-24 — **PX14A6N**: PX14A6N
-- 2016-11-02 — **425**: 425
-- 2024-05-21 — **PX14A6G**: PX14A6G
+- 2022-06-22 - **EX1A-13 TST WTRS**: TESTING THE WATERS MATERIALS RELATING TO SERIES #ELON1
+- 2018-05-09 - **PX14A6G**: PX14A6G
+- 2023-04-24 - **PX14A6N**: PX14A6N
+- 2016-11-02 - **425**: 425
+- 2024-05-21 - **PX14A6G**: PX14A6G
 
 - [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Elon%20Musk%22) (Tier 1)
 <!-- auto:sec-edgar end -->
 
 <!-- auto:sec-edgar pending-merge 2026-04-10 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+> [!attention] Fresh API data available - needs manual merge
+> Bot detected your edits to this section. New data below - fold in what's useful, then delete this block.
 
 | Metric | Value |
 |--------|-------|
@@ -494,11 +494,11 @@ Six individuals accounted for over $900 million in 2024 election spending. That'
 
 **Notable filings:**
 
-- 2022-06-22 — **EX1A-13 TST WTRS**: TESTING THE WATERS MATERIALS RELATING TO SERIES #ELON1
-- 2018-05-09 — **PX14A6G**: PX14A6G
-- 2023-04-24 — **PX14A6N**: PX14A6N
-- 2016-11-02 — **425**: 425
-- 2024-05-21 — **PX14A6G**: PX14A6G
+- 2022-06-22 - **EX1A-13 TST WTRS**: TESTING THE WATERS MATERIALS RELATING TO SERIES #ELON1
+- 2018-05-09 - **PX14A6G**: PX14A6G
+- 2023-04-24 - **PX14A6N**: PX14A6N
+- 2016-11-02 - **425**: 425
+- 2024-05-21 - **PX14A6G**: PX14A6G
 
 - [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Elon%20Musk%22) (Tier 1)
 

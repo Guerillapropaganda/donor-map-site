@@ -16,7 +16,7 @@ donors: N/A (serves as policy analysis of her removal, not a funded position)
 ### The COVID Tenure and the Political Fallout
 
 > [!money]
-> Amy Acton's resignation in June 2020 was not a principled retreat from public health but a forced removal by Republican legislative leadership operating a $60 million bribery scheme. The man who pressured her to violate her Hippocratic Oath—Ohio House Speaker Larry Householder—was simultaneously taking bribes from FirstEnergy for a nuclear bailout. The "COVID overreach" narrative that forced her out was manufactured by legislators on the take from a utility company. This is the mechanism by which corporate interests remove public health authority when it conflicts with profit timelines.
+> Amy Acton's resignation in June 2020 was not a principled retreat from public health but a forced removal by Republican legislative leadership operating a $60 million bribery scheme. The man who pressured her to violate her Hippocratic Oath, Ohio House Speaker Larry Householder, was simultaneously taking bribes from FirstEnergy for a nuclear bailout. The "COVID overreach" narrative that forced her out was manufactured by legislators on the take from a utility company. This is the mechanism by which corporate interests remove public health authority when it conflicts with profit timelines.
 
 ---
 
@@ -40,7 +40,7 @@ donors: N/A (serves as policy analysis of her removal, not a funded position)
 ### The Householder Pressure Campaign (May–June 2020)
 
 > [!contradiction]
-> Acton stated publicly that Ohio House Republicans pressured her to sign orders that violated her medical ethics—specifically, to reopen county fairs against epidemiological data. At the time, this was portrayed by Republican media as "overreach" on Acton's part. The contradiction: the same Republican leadership that attacked her for "health authoritarianism" was simultaneously operating a $60 million bribery scheme with FirstEnergy. The people demanding she prioritize economic reopening were being paid dark money by a utility company to pass legislation. The "freedom vs. lockdown" narrative was not principled politics; it was a corrupt legislature protecting a corrupt donor.
+> Acton stated publicly that Ohio House Republicans pressured her to sign orders that violated her medical ethics, specifically, to reopen county fairs against epidemiological data. At the time, this was portrayed by Republican media as "overreach" on Acton's part. The contradiction: the same Republican leadership that attacked her for "health authoritarianism" was simultaneously operating a $60 million bribery scheme with FirstEnergy. The people demanding she prioritize economic reopening were being paid dark money by a utility company to pass legislation. The "freedom vs. lockdown" narrative was not principled politics; it was a corrupt legislature protecting a corrupt donor.
 
 The class analysis: Acton's removal exposes the mechanism by which corporate interests override public health authority. When a pandemic threatens to delay economic activity (and corporate profits), the corporate-aligned legislature manufactures a "freedom" narrative, removes the health director, and installs a compliant replacement. The $60 million bribery scheme that forced her out existed independent of Acton's COVID response, it was FirstEnergy's corruption of the legislative process itself. Acton's "overreach" was her refusal to serve the utility company's timeline.
 

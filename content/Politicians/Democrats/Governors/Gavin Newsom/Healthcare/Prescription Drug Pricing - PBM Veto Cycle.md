@@ -36,7 +36,7 @@ A bill requiring private equity and hedge funds buying stakes in California heal
 By October 2025, Newsom was in his final year as governor and explicitly positioning for 2028 presidential or national political office, suggesting the reversal was driven by electoral positioning rather than policy evolution.
 
 > [!contradiction]
-> Newsom vetoed PBM regulation in September 2024 claiming he needed "more granular information," then eight months later — with no new information provided — reversed course calling the same issue an urgent crisis. The facts about PBM pricing practices did not change. The electoral calendar did. This is the clearest documented example of policy timing driven by donor interests and electoral positioning: veto in 2024 when insurers needed protection, reverse in 2025 when Trump's anti-PBM stance gave Newsom political cover without threatening his donor base. The final SB 41 bill was substantially weaker than what he vetoed, preserving the core profit mechanisms while claiming victory.
+> Newsom vetoed PBM regulation in September 2024 claiming he needed "more granular information," then eight months later, with no new information provided, reversed course calling the same issue an urgent crisis. The facts about PBM pricing practices did not change. The electoral calendar did. This is the clearest documented example of policy timing driven by donor interests and electoral positioning: veto in 2024 when insurers needed protection, reverse in 2025 when Trump's anti-PBM stance gave Newsom political cover without threatening his donor base. The final SB 41 bill was substantially weaker than what he vetoed, preserving the core profit mechanisms while claiming victory.
 
 ### The Donor Connection
 

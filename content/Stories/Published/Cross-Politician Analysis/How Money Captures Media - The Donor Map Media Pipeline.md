@@ -53,7 +53,7 @@ Centrist media figures are captured not by direct donor investment but by corpor
 **Venture Capital** captured [[Bari Weiss]], whose "independent" Free Press raised a $15M Series A (at $100M valuation) from Marc Andreessen, David Sacks, Howard Schultz, and Bobby Kotick, then was acquired by Paramount/Skydance for ~$150M in October 2025, making Weiss the CBS News editor-in-chief. The trajectory from NYT resignation letter to CBS News editor-in-chief via VC funding is the purest case of Independence Theater in the vault.
 
 > [!contradiction]
-> **The "centrist" funding structure is the most expensive in the vault.** Rogan's $450M, Maddow's $25-30M/yr, Maher's $10M/yr, Oliver's $30M/yr, Kelly's $69M NBC deal, Weiss's $150M acquisition — centrist media figures command the highest individual compensation. The "centrist" position is not the absence of ideology. It is the most expensive ideology to maintain because it requires performing independence while being entirely dependent on corporate capital. The funding tells you who "centrist" actually serves: the corporate class that benefits from political inaction.
+> **The "centrist" funding structure is the most expensive in the vault.** Rogan's $450M, Maddow's $25-30M/yr, Maher's $10M/yr, Oliver's $30M/yr, Kelly's $69M NBC deal, Weiss's $150M acquisition, centrist media figures command the highest individual compensation. The "centrist" position is not the absence of ideology. It is the most expensive ideology to maintain because it requires performing independence while being entirely dependent on corporate capital. The funding tells you who "centrist" actually serves: the corporate class that benefits from political inaction.
 
 #### Ecosystem 3: Audience-Funded Independence + Dark Money (Left)
 
@@ -84,7 +84,7 @@ The most revealing finding across 30 profiles is not the differences between lef
 | Bongino: media → FBI → media (9-day revolving door) | Pod Save America: Obama staff → Crooked Media → Democratic establishment pipeline | Government ↔ media revolving door |
 
 > [!money]
-> **The Both-Sides Illusion, media edition.** The same pattern documented in the politician vault — [[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]] — operates identically in media. Left and right media personalities perform opposition while their funding structures are mirror images. DonorsTrust ($389M right-wing dark money) and Arabella Advisors ($389M left-wing dark money) fund structurally identical operations at structurally identical dollar amounts. The performance is opposition. The infrastructure is symmetry.
+> **The Both-Sides Illusion, media edition.** The same pattern documented in the politician vault, [[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]], operates identically in media. Left and right media personalities perform opposition while their funding structures are mirror images. DonorsTrust ($389M right-wing dark money) and Arabella Advisors ($389M left-wing dark money) fund structurally identical operations at structurally identical dollar amounts. The performance is opposition. The infrastructure is symmetry.
 
 ---
 

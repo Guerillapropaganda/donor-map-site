@@ -155,7 +155,7 @@ NORPAC's strategic innovation is the intimate donor dinner model:
 | 2026 | Mission to Washington (ongoing) | ~$1.8M YTD | 32nd annual Mission; advocacy for continued Israel security assistance under Trump admin | Active |
 
 > [!money] The Bundling Premium
-> NORPAC's direct PAC contributions in 2024 totaled only $79,039 — a fraction of the $3.4M raised. The difference reveals the mechanism: NORPAC's real power is bundling individual donor contributions with earmarked memo lines specifying the recipient. When a politician receives a bundled check from NORPAC, they know the money came "because of a specific issue — a strong U.S.-Israel relationship," as Dr. Chouake explained. The PAC contribution is the label; the bundled individual donations are the payload. This model means NORPAC's influence is dramatically understated by PAC-only contribution databases — its real financial footprint is 40–50× its direct PAC spending.
+> NORPAC's direct PAC contributions in 2024 totaled only $79,039, a fraction of the $3.4M raised. The difference reveals the mechanism: NORPAC's real power is bundling individual donor contributions with earmarked memo lines specifying the recipient. When a politician receives a bundled check from NORPAC, they know the money came "because of a specific issue, a strong U.S.-Israel relationship," as Dr. Chouake explained. The PAC contribution is the label; the bundled individual donations are the payload. This model means NORPAC's influence is dramatically understated by PAC-only contribution databases, its real financial footprint is 40–50× its direct PAC spending.
 
 ---
 

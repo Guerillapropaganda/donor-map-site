@@ -64,7 +64,7 @@ The Brennan Center relies almost entirely on contributions, 88.4% of FY2024 reve
 **Donor base:** 40,000+ individual and family donors, plus foundations, law firms, and corporate supporters. Major NYC law firms including Arnold & Porter and WilmerHale provide pro bono legal work.
 
 > [!money]
-> The Brennan Center's explosive growth from $26M to $110M in revenue during 2019-2023 maps directly onto the Trump administration's attacks on voting rights. Donor class foundations — Soros, Carnegie, MacArthur — poured money into the institution positioned as the premier legal defender of democratic norms. The question is what kind of democracy these funders are purchasing: one that expands voting access (good) but leaves the structural power of wealth in politics untouched (by design).
+> The Brennan Center's explosive growth from $26M to $110M in revenue during 2019-2023 maps directly onto the Trump administration's attacks on voting rights. Donor class foundations. Soros, Carnegie, MacArthur, poured money into the institution positioned as the premier legal defender of democratic norms. The question is what kind of democracy these funders are purchasing: one that expands voting access (good) but leaves the structural power of wealth in politics untouched (by design).
 
 ---
 
@@ -128,7 +128,7 @@ The Brennan Center operates one of the most effective think-tank-to-legislation 
 | 2025-2026 | Federal election infrastructure | N/A | DOJ voting section purged; Brennan Center becomes primary institutional check on federal election interference, tracks all actions via real-time litigation dashboard | Ongoing |
 
 > [!money]
-> The AVR pipeline is the Brennan Center's clearest idea-laundering success — though in this case the "laundering" serves voter access rather than donor profit. The structural question: does expanding who votes threaten the donor class that funds the Brennan Center? Not if the expanded electorate still chooses between two parties funded by the same donors. AVR is a genuine democratic reform that operates within — and does not challenge — the donor-funded political system.
+> The AVR pipeline is the Brennan Center's clearest idea-laundering success, though in this case the "laundering" serves voter access rather than donor profit. The structural question: does expanding who votes threaten the donor class that funds the Brennan Center? Not if the expanded electorate still chooses between two parties funded by the same donors. AVR is a genuine democratic reform that operates within, and does not challenge, the donor-funded political system.
 
 ---
 
@@ -150,7 +150,7 @@ The Brennan Center's revolving door runs primarily between the organization, the
 - **Michael Waldman**. Clinton speechwriter/Director of Speechwriting (1995-1999) → Brennan Center President (2005-present). 20+ year tenure making him the defining figure of the institution.
 
 > [!contradiction]
-> The Brennan Center advocates for democratic access while its leadership pipeline runs exclusively through elite institutional channels — Clinton White House, Soros foundations, NYU Law, federal judiciary. The revolving door connects progressive donors to Democratic administrations through a legal infrastructure that expands voting rights but never challenges the structural role of wealth in determining who runs and what policies are viable.
+> The Brennan Center advocates for democratic access while its leadership pipeline runs exclusively through elite institutional channels. Clinton White House, Soros foundations, NYU Law, federal judiciary. The revolving door connects progressive donors to Democratic administrations through a legal infrastructure that expands voting rights but never challenges the structural role of wealth in determining who runs and what policies are viable.
 
 ---
 

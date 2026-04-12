@@ -26,7 +26,7 @@ Ernst's donor profile reflects this: agricultural interests (Farm Bureau, Nation
 Ernst champions the Renewable Fuel Standard (RFS), which mandates ethanol blending in gasoline, a direct subsidy to Iowa corn producers. She simultaneously receives significant contributions from the [[Koch Network - Charles Koch|Koch Network]], which has spent decades trying to eliminate the RFS because it competes with petroleum refining. Ernst navigates this contradiction by supporting ethanol loudly (constituency service) while voting with Koch priorities on virtually every other energy and environmental issue (donor service).
 
 > [!contradiction]
-> Ernst's largest donors include both the corn ethanol industry (which depends on the RFS mandate) and the Koch Network (which wants to eliminate the RFS mandate). She resolves this by supporting ethanol while opposing all other renewable energy subsidies, climate regulation, and EPA enforcement — giving each donor base what they need most while accepting the friction on the single issue where their interests diverge.
+> Ernst's largest donors include both the corn ethanol industry (which depends on the RFS mandate) and the Koch Network (which wants to eliminate the RFS mandate). She resolves this by supporting ethanol while opposing all other renewable energy subsidies, climate regulation, and EPA enforcement, giving each donor base what they need most while accepting the friction on the single issue where their interests diverge.
 
 ---
 

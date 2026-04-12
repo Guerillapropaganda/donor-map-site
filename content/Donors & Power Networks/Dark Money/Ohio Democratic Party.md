@@ -85,7 +85,7 @@ The 2024 Ohio Senate race is the definitive evidence of structural Democratic fa
 The verdict: money does not fix structural donor-class misalignment. Brown ran a working-class economic populist campaign and outfunded his opponent by 4:1 in direct spending. He still lost by 3.5 points, in a state Trump won by 11.
 
 > [!money]
-> **$100.4M raised and $113.9M in outside spending opposing him — Sherrod Brown's 2024 defeat proved that money cannot substitute for structural political alignment.** The Ohio Democratic Party's national donor dependency generated unprecedented fundraising ($28.5M for the state party in 2024) but failed to reconnect the party with the working-class white voters who abandoned it in 2016-2024. Outside groups spent 4x more opposing Brown than supporting him. The result: the last major Ohio Democrat lost, completing the state's realignment.
+> **$100.4M raised and $113.9M in outside spending opposing him. Sherrod Brown's 2024 defeat proved that money cannot substitute for structural political alignment.** The Ohio Democratic Party's national donor dependency generated unprecedented fundraising ($28.5M for the state party in 2024) but failed to reconnect the party with the working-class white voters who abandoned it in 2016-2024. Outside groups spent 4x more opposing Brown than supporting him. The result: the last major Ohio Democrat lost, completing the state's realignment.
 
 ### The structural collapse timeline:
 
@@ -110,7 +110,7 @@ The verdict: money does not fix structural donor-class misalignment. Brown ran a
 Sherrod Brown's post-election diagnosis is the vault's most direct quote from an active politician on the donor-class analysis:
 
 > [!quote]
-> "Workers have drifted away from the Democratic Party." — Sherrod Brown, November 2024 (CNN)
+> "Workers have drifted away from the Democratic Party.". Sherrod Brown, November 2024 (CNN)
 
 Brown went further in a separate NBC News interview: he talked explicitly about rescuing a "corporate" Democratic Party, using the vault's exact analytical framework. Brown named the mechanism: the national Democratic donor class (Wall Street, tech, professional class) reshaped the party's policy agenda to serve corporate interests, and Ohio working-class voters recognized the shift and responded by leaving.
 

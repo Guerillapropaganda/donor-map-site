@@ -61,16 +61,16 @@ Newsom is termed out and leaving office at the end of 2026. Every Democrat now r
 
 ### Key Quotes
 > [!quote]
-> "I'm tired of politicians saying they support single-payer but that it's too soon, too expensive, or someone else's problem." — Newsom, 2017 campaign trail.
+> "I'm tired of politicians saying they support single-payer but that it's too soon, too expensive, or someone else's problem.". Newsom, 2017 campaign trail.
 
 > [!money]
-> [[Blue Shield of California|Blue Shield of California]] — at least $99,000 to Newsom's campaigns since 2010; $2.7 million to the California Democratic Party since 2006, including a $1 million contribution to the state party during Newsom's 2021 recall fight. Blue Shield also received a no-bid contract worth up to $15 million to lead California's COVID vaccine distribution in February 2021 — after being appointed by Newsom to co-lead the testing task force in April 2020.
+> [[Blue Shield of California|Blue Shield of California]], at least $99,000 to Newsom's campaigns since 2010; $2.7 million to the California Democratic Party since 2006, including a $1 million contribution to the state party during Newsom's 2021 recall fight. Blue Shield also received a no-bid contract worth up to $15 million to lead California's COVID vaccine distribution in February 2021, after being appointed by Newsom to co-lead the testing task force in April 2020.
 
 > [!money]
-> UnitedHealth Group — $100,000 to Newsom's inaugural fund in 2019. During the pandemic, received a no-bid contract worth up to $177 million for COVID testing and data tracking, followed by another $315 million through expedited bidding. Then contributed $31,000 to Newsom's reelection and $100,000 to his ballot measure committee.
+> UnitedHealth Group, $100,000 to Newsom's inaugural fund in 2019. During the pandemic, received a no-bid contract worth up to $177 million for COVID testing and data tracking, followed by another $315 million through expedited bidding. Then contributed $31,000 to Newsom's reelection and $100,000 to his ballot measure committee.
 
 > [!contradiction]
-> Newsom ran for governor in 2018 explicitly on a single-payer platform. Once elected, he did virtually nothing to advance it. When Assemblymember Ash Kalra introduced AB 1400 (CalCare) in 2021 — the most serious single-payer bill California had seen in years — Newsom claimed he hadn't been briefed on it and sat out the failed fight entirely. After the bill died, he declared victory anyway, calling a Medi-Cal expansion "the first state in the country to achieve universal health care coverage" — conflating universal access with single-payer, which are not the same thing.
+> Newsom ran for governor in 2018 explicitly on a single-payer platform. Once elected, he did virtually nothing to advance it. When Assemblymember Ash Kalra introduced AB 1400 (CalCare) in 2021, the most serious single-payer bill California had seen in years. Newsom claimed he hadn't been briefed on it and sat out the failed fight entirely. After the bill died, he declared victory anyway, calling a Medi-Cal expansion "the first state in the country to achieve universal health care coverage", conflating universal access with single-payer, which are not the same thing.
 
 "I have not had the opportunity to review that plan, and no one has presented it to me.". Newsom, January 2022 press conference, on AB 1400.
 

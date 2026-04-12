@@ -67,12 +67,12 @@ audit-a-plus-passed: "2026-04-11"
 ### Who They Fund
 
 > [!money]
-> **[[_Gavin Newsom Master Profile|Gavin Newsom]] — at least $299,000 documented:**
-> — $99,000+ in direct contributions to Newsom campaigns since 2010
-> — $100,000 to his 2019 inaugural fund
-> — $300,000 to Newsom's foundation
+> **[[_Gavin Newsom Master Profile|Gavin Newsom]], at least $299,000 documented:**
+>, $99,000+ in direct contributions to Newsom campaigns since 2010
+>, $100,000 to his 2019 inaugural fund
+>, $300,000 to Newsom's foundation
 >
-> **California Democratic Party — $2.7 million since 2006**, including a **$1 million** contribution during Newsom's 2021 recall fight. Additional documented: $50,000 to California Democratic Party; $20,000 to LGBTQ+ Caucus Leadership Fund. Funding the party infrastructure that protects the governor is functionally equivalent to funding the governor. [Source: National Institute on Money in Politics / CapRadio, 2021 — Tier 1/2]
+> **California Democratic Party, $2.7 million since 2006**, including a **$1 million** contribution during Newsom's 2021 recall fight. Additional documented: $50,000 to California Democratic Party; $20,000 to LGBTQ+ Caucus Leadership Fund. Funding the party infrastructure that protects the governor is functionally equivalent to funding the governor. [Source: National Institute on Money in Politics / CapRadio, 2021. Tier 1/2]
 
 ### Behested payments:
 , **Project Homekey (2020):** $45 million requested from Blue Shield and [[Kaiser Permanente|Kaiser Permanente]] combined for homelessness housing initiative, one of the largest documented behested payment requests in Newsom's $226 million 2020 behested payment year. [Source: KTLA / FPPC Form 803. Tier 1/2]
@@ -137,7 +137,7 @@ Healthcare. Single-payer, COVID contracts, PBM regulation
 
 | Recipient | Amount | Party |
 |-----------|--------|-------|
-| BLUEPAC - BLUE CROSS BLUE SHIELD ASSOCIATION PAC | $180,000 | — |
+| BLUEPAC - BLUE CROSS BLUE SHIELD ASSOCIATION PAC | $180,000 | - |
 | DSCC | $68,500 | DEM |
 | DCCC | $45,000 | DEM |
 | JIMMY PANETTA FOR CONGRESS | $37,500 | DEM |
@@ -151,7 +151,7 @@ Healthcare. Single-payer, COVID contracts, PBM regulation
 - [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Blue%20Shield%20of%20California) (Tier 1)
 <!-- auto:fec-donor end -->
 
-### Financial Overview (990 Filing — 2023)
+### Financial Overview (990 Filing - 2023)
 <!-- auto:propublica-990 start -->
 | Metric | Amount |
 |--------|--------|
@@ -160,7 +160,7 @@ Healthcare. Single-payer, COVID contracts, PBM regulation
 | Total Expenses | $23.7M |
 | Net Assets | $77.4M |
 
-- [Source: ProPublica Nonprofit Explorer — EIN 942822302](https://projects.propublica.org/nonprofits/organizations/942822302) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer - EIN 942822302](https://projects.propublica.org/nonprofits/organizations/942822302) (Tier 1)
 <!-- auto:propublica-990 end -->
 
 ### Federal Register Activity
@@ -172,10 +172,10 @@ Healthcare. Single-payer, COVID contracts, PBM regulation
 | Agencies | Antitrust Division, Employment and Training Administration, Federal Trade Commission, Health Care Finance Administration, Health and Human Services Department, Justice Department, Labor Department |
 
 **Recent regulatory activity:**
-- [Notice of Determinations Regarding Eligibility To Apply for Trade Adjustment Assistance](https://www.federalregister.gov/documents/2020/10/26/2020-23622/notice-of-determinations-regarding-eligibility-to-apply-for-trade-adjustment-assistance) (2020-10-26) — Labor Department
-- [United States v. UnitedHealth Group Incorporated & PacifiCare Health Systems, Inc.; Propoosed Final Judgment and Competitive Impact Statement](https://www.federalregister.gov/documents/2006/03/20/06-2591/united-states-v-unitedhealth-group-incorporated-and-pacificare-health-systems-inc-propoosed-final) (2006-03-20) — Justice Department
-- [North Lake Tahoe Medical Group, Inc.; Analysis To Aid Public Comment](https://www.federalregister.gov/documents/1999/03/26/99-7404/north-lake-tahoe-medical-group-inc-analysis-to-aid-public-comment) (1999-03-26) — Federal Trade Commission
-- [Medicare Program; Schedule of Limits on Home Health Agency Costs Per Visit](https://www.federalregister.gov/documents/1995/02/14/95-3526/medicare-program-schedule-of-limits-on-home-health-agency-costs-per-visit) (1995-02-14) — Health and Human Services Department ★
+- [Notice of Determinations Regarding Eligibility To Apply for Trade Adjustment Assistance](https://www.federalregister.gov/documents/2020/10/26/2020-23622/notice-of-determinations-regarding-eligibility-to-apply-for-trade-adjustment-assistance) (2020-10-26) - Labor Department
+- [United States v. UnitedHealth Group Incorporated & PacifiCare Health Systems, Inc.; Propoosed Final Judgment and Competitive Impact Statement](https://www.federalregister.gov/documents/2006/03/20/06-2591/united-states-v-unitedhealth-group-incorporated-and-pacificare-health-systems-inc-propoosed-final) (2006-03-20) - Justice Department
+- [North Lake Tahoe Medical Group, Inc.; Analysis To Aid Public Comment](https://www.federalregister.gov/documents/1999/03/26/99-7404/north-lake-tahoe-medical-group-inc-analysis-to-aid-public-comment) (1999-03-26) - Federal Trade Commission
+- [Medicare Program; Schedule of Limits on Home Health Agency Costs Per Visit](https://www.federalregister.gov/documents/1995/02/14/95-3526/medicare-program-schedule-of-limits-on-home-health-agency-costs-per-visit) (1995-02-14) - Health and Human Services Department ★
 
 - [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Blue%20Shield%20of%20California%22) (Tier 1)
 <!-- auto:federal-register end -->
@@ -217,23 +217,23 @@ Healthcare. Single-payer, COVID contracts, PBM regulation
 
 **Funded politicians:**
 
-- [[Nancy Pelosi]] — lobbying: $3.8M
-- [[Bobby Scott]] (Education & Labor) — lobbying: $3.8M
-- [[Rick Scott]] — lobbying: $3.8M
-- [[Tim Scott]] — lobbying: $3.8M
-- [[Gary Peters]] (Homeland Security) — lobbying: $3.8M
-- [[Bennie Thompson]] (Homeland Security) — lobbying: $3.8M
-- [[Glenn Thompson]] (Agriculture) — lobbying: $3.8M
-- [[Pete Aguilar]] (Appropriations) — lobbying: $3.8M
-- [[Gavin Newsom]] — lobbying: $3.8M
-- [[Kamala Harris]] — lobbying: $3.8M
+- [[Nancy Pelosi]] - lobbying: $3.8M
+- [[Bobby Scott]] (Education & Labor) - lobbying: $3.8M
+- [[Rick Scott]] - lobbying: $3.8M
+- [[Tim Scott]] - lobbying: $3.8M
+- [[Gary Peters]] (Homeland Security) - lobbying: $3.8M
+- [[Bennie Thompson]] (Homeland Security) - lobbying: $3.8M
+- [[Glenn Thompson]] (Agriculture) - lobbying: $3.8M
+- [[Pete Aguilar]] (Appropriations) - lobbying: $3.8M
+- [[Gavin Newsom]] - lobbying: $3.8M
+- [[Kamala Harris]] - lobbying: $3.8M
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-09.*
 <!-- auto:influence-cross-ref end -->
 
 <!-- auto:influence-cross-ref pending-merge 2026-04-12 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+> [!attention] Fresh API data available - needs manual merge
+> Bot detected your edits to this section. New data below - fold in what's useful, then delete this block.
 
 | Metric | Value |
 |--------|-------|
@@ -255,16 +255,16 @@ Healthcare. Single-payer, COVID contracts, PBM regulation
 
 **Funded politicians:**
 
-- [[Nancy Pelosi]] — lobbying: $3.8M
-- [[Bobby Scott]] (Education & Labor) — lobbying: $3.8M
-- [[Rick Scott]] (Senate Committee on Armed Services, Senate Committee on Foreign Relations, Senate Committee on Homeland Security and Governmental Affairs) — lobbying: $3.8M
-- [[Tim Scott]] — lobbying: $3.8M
-- [[Gary Peters]] (Homeland Security) — lobbying: $3.8M
-- [[Bennie Thompson]] (Homeland Security) — lobbying: $3.8M
-- [[Glenn Thompson]] (Agriculture) — lobbying: $3.8M
-- [[Pete Aguilar]] (Appropriations) — lobbying: $3.8M
-- [[Gavin Newsom]] — lobbying: $3.8M
-- [[Kamala Harris]] — lobbying: $3.8M
+- [[Nancy Pelosi]] - lobbying: $3.8M
+- [[Bobby Scott]] (Education & Labor) - lobbying: $3.8M
+- [[Rick Scott]] (Senate Committee on Armed Services, Senate Committee on Foreign Relations, Senate Committee on Homeland Security and Governmental Affairs) - lobbying: $3.8M
+- [[Tim Scott]] - lobbying: $3.8M
+- [[Gary Peters]] (Homeland Security) - lobbying: $3.8M
+- [[Bennie Thompson]] (Homeland Security) - lobbying: $3.8M
+- [[Glenn Thompson]] (Agriculture) - lobbying: $3.8M
+- [[Pete Aguilar]] (Appropriations) - lobbying: $3.8M
+- [[Gavin Newsom]] - lobbying: $3.8M
+- [[Kamala Harris]] - lobbying: $3.8M
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-12.*
 
@@ -279,12 +279,12 @@ Healthcare. Single-payer, COVID contracts, PBM regulation
 | Case Types | 410 Anti-Trust |
 
 **Notable cases:**
-- Texas Medical Association v. MultiPlan Inc (2026) — District Court, N.D. Illinois
-- Pico-Union Housing Corporation (2026) — United States Bankruptcy Court, C.D. California
-- Carolina Neurosurgery and Orthopedics, Inc. v. Multiplan, Inc. (2026) — District Court, N.D. Illinois
-- Florida Spine and Orthopedics, Inc. v. Multiplan, Inc. (2026) — District Court, N.D. Illinois
-- Allstate Lending Group, Inc. (2026) — United States Bankruptcy Court, C.D. California
-- Anderson v. Blue Shield of California (2026) — District Court, S.D. California
+- Texas Medical Association v. MultiPlan Inc (2026) - District Court, N.D. Illinois
+- Pico-Union Housing Corporation (2026) - United States Bankruptcy Court, C.D. California
+- Carolina Neurosurgery and Orthopedics, Inc. v. Multiplan, Inc. (2026) - District Court, N.D. Illinois
+- Florida Spine and Orthopedics, Inc. v. Multiplan, Inc. (2026) - District Court, N.D. Illinois
+- Allstate Lending Group, Inc. (2026) - United States Bankruptcy Court, C.D. California
+- Anderson v. Blue Shield of California (2026) - District Court, S.D. California
 
 - [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Blue%20Shield%20of%20California%22&type=r) (Tier 1)
 <!-- auto:courtlistener-cases end -->

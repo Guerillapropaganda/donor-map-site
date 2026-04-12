@@ -36,7 +36,7 @@ The most commercially successful government-to-media pipeline of the Obama era i
 Crooked Media's "Pod Save America" launched on January 10, 2017, ten days before Trump's inauguration. Today, their 25+ podcasts generate over 30 million monthly downloads. In February 2026, Crooked Media signed a deal with MS NOW (formerly MSNBC) to air a weekly compilation program. The company's estimated annual revenue is approximately $31.6 million.
 
 > [!money]
-> Pod Save America and the broader Crooked Media ecosystem represent the Democratic revolving door at scale: former government communications officials packaging Democratic messaging for the donor base, without the traditional distinction of journalism. Sponsors include consumer brands (ZipRecruiter, BetterHelp, SimpliSafe) seeking to reach high-income progressive audiences — the exact demographic that drives political fundraising.
+> Pod Save America and the broader Crooked Media ecosystem represent the Democratic revolving door at scale: former government communications officials packaging Democratic messaging for the donor base, without the traditional distinction of journalism. Sponsors include consumer brands (ZipRecruiter, BetterHelp, SimpliSafe) seeking to reach high-income progressive audiences, the exact demographic that drives political fundraising.
 
 ### Jen Psaki: Press Secretary to $12M/Year Cable Contract
 
@@ -229,7 +229,7 @@ Wallace served as Bush's communications director, moved into media, cycled back 
 | Jay Carney | ~$172,200/year | Undisclosed Amazon SVP | Major increase |
 
 > [!contradiction]
-> The compensation gap reveals a structural inversion of incentives. Government-to-media produces enormous pay increases. The expectation is that a former press secretary can command cable news contracts because they have access, credibility, and audience. Media-to-government under Trump produces massive pay cuts. Yet the media personalities still make the jump — because in Trump 2.0, proximity to power is the commodity. The presidency is the brand. Fox News is the recruiting office.
+> The compensation gap reveals a structural inversion of incentives. Government-to-media produces enormous pay increases. The expectation is that a former press secretary can command cable news contracts because they have access, credibility, and audience. Media-to-government under Trump produces massive pay cuts. Yet the media personalities still make the jump, because in Trump 2.0, proximity to power is the commodity. The presidency is the brand. Fox News is the recruiting office.
 
 ---
 
@@ -270,7 +270,7 @@ RT America, the U.S. arm of Russian government-funded RT, ceased operations on M
 **[[Lee Camp]]** hosted "Redacted Tonight" for 8 years and 375 episodes. He stated: "It's the only network in essentially all of American media where you can tackle anti-war, anti-imperialist, anti-capitalist issues."
 
 > [!contradiction]
-> The RT America story exposes the functional boundary of acceptable dissent in American media. Mainstream outlets will hire government officials without cooling-off periods. They will hire think tank fellows without disclosing funding sources. But commentators who question U.S. imperialism or corporate capitalism? Those are "too controversial" for mainstream employment. RT became the safety valve — the employer of last resort for Americans whose politics didn't fit cable news orthodoxy. When RT shut down, those commentators' entire digital archives were deleted. Not just archived — deleted. The structural suppression was formalized.
+> The RT America story exposes the functional boundary of acceptable dissent in American media. Mainstream outlets will hire government officials without cooling-off periods. They will hire think tank fellows without disclosing funding sources. But commentators who question U.S. imperialism or corporate capitalism? Those are "too controversial" for mainstream employment. RT became the safety valve, the employer of last resort for Americans whose politics didn't fit cable news orthodoxy. When RT shut down, those commentators' entire digital archives were deleted. Not just archived, deleted. The structural suppression was formalized.
 
 ---
 

@@ -76,12 +76,12 @@ This is the two-audience problem in real time: one statement for progressive pri
 
 ### Key Quotes
 > [!quote]
-> "Crystal clear in my love for Israel." — Newsom, Ben Shapiro podcast, January 2026.
+> "Crystal clear in my love for Israel.". Newsom, Ben Shapiro podcast, January 2026.
 
 > [!contradiction]
-> "There was no genocide." — Newsom, Ben Shapiro podcast, January 2026.
+> "There was no genocide.". Newsom, Ben Shapiro podcast, January 2026.
 >
-> "Sort of an apartheid state." — Newsom, progressive podcast, March 2026. [Staff immediately convened Zoom damage control with Jewish community leaders afterward, reassuring them his position hadn't changed.]
+> "Sort of an apartheid state.". Newsom, progressive podcast, March 2026. [Staff immediately convened Zoom damage control with Jewish community leaders afterward, reassuring them his position hadn't changed.]
 
 "He doesn't want to offend the donor class. And that explains his position on giving Netanyahu a blank check right after October 7.". Rep. [[Ro Khanna]], Times of Israel.
 

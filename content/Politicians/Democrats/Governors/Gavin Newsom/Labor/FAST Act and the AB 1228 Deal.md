@@ -33,9 +33,9 @@ If the referendum qualified and passed, the FAST Act would have been repealed en
 In September 2023, before the referendum went to voters, a negotiated deal was struck. The industry agreed to drop the referendum. In exchange:
 
 > [!contradiction]
-> — The minimum wage target was reduced from $22/hr to $20/hr.
-> — The joint liability provision was removed entirely. Franchisors would no longer be held responsible for labor violations at individual franchise locations.
-> — The Fast Food Council was preserved and the $20/hr minimum wage took effect April 1, 2024.
+>. The minimum wage target was reduced from $22/hr to $20/hr.
+>. The joint liability provision was removed entirely. Franchisors would no longer be held responsible for labor violations at individual franchise locations.
+>. The Fast Food Council was preserved and the $20/hr minimum wage took effect April 1, 2024.
 >
 > Newsom signed AB 1228, which replaced AB 257, in September 2023.
 
@@ -86,7 +86,7 @@ This is a genuine win for fast food workers that should be credited. The debate 
 | 2024–2025 | Fast food employment and wage data emerges |, | No mass job loss; some price increases, some hour reductions; industry profitability maintained |, |
 
 > [!money]
-> Fast food industry donors forced compromise: they had enough market power to qualify a $5M+ referendum campaign, then traded the referendum threat for the removal of the joint liability provision — the one tool that would have made the wage floor enforceable. Workers got the wage increase (which industry could absorb) and lost the accountability mechanism (which they couldn't).
+> Fast food industry donors forced compromise: they had enough market power to qualify a $5M+ referendum campaign, then traded the referendum threat for the removal of the joint liability provision, the one tool that would have made the wage floor enforceable. Workers got the wage increase (which industry could absorb) and lost the accountability mechanism (which they couldn't).
 
 ### Analytical Patterns
 

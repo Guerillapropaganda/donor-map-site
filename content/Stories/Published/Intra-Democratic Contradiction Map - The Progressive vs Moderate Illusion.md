@@ -257,7 +257,7 @@ Key Democrats with public climate rhetoric but fossil fuel funding:
 - But remaining 12% to Democrats went to specific individuals in fossil fuel states (CO, TX, WA, VA)
 - South Texas oil country Democratic representatives received **~$395K from oil/gas**, roughly half to two specific Democrats
 
-> [!contradiction] **Bennet signed "No Fossil Fuel Money" pledge and still accepted fossil fuel donations. Warner's Intelligence Committee seat gives him portfolio conflicts on energy regulation. Murray's Boeing dependency makes climate votes structurally impossible. These are not individual failures — they're structural incompatibilities between climate rhetoric and defense/energy infrastructure.**
+> [!contradiction] **Bennet signed "No Fossil Fuel Money" pledge and still accepted fossil fuel donations. Warner's Intelligence Committee seat gives him portfolio conflicts on energy regulation. Murray's Boeing dependency makes climate votes structurally impossible. These are not individual failures, they're structural incompatibilities between climate rhetoric and defense/energy infrastructure.**
 
 ### Sources:
 - [The Hill: Overnight Energy: Warren wants Dems to hold climate-focused debate; Klobuchar joins candidates rejecting fossil fuel money; 2020 contender Bennet offers climate plan](https://thehill.com/policy/energy-environment/overnights/444665-overnight-energy-warren-wants-dems-to-hold-climate-focused-debate/) (Tier 2)
@@ -278,7 +278,7 @@ Key Democrats with public climate rhetoric but fossil fuel funding:
 
 **Finding 5: The real Democratic divide is between donor classes, not ideology.** Progressive small-dollar donors vs established bundler networks. Pharma vs working class health interests. Energy utilities vs renewable energy investors. Israel lobby vs Palestinian solidarity donors. These are real material conflicts. They're not performing conflict. But the public partisan framing (progressive vs moderate) obscures the underlying donor-class division. Voters experience it as ideology. It's actually about who pays.
 
-> [!contradiction] **The fundamental intra-Democratic contradiction: Progressives and moderates genuinely disagree on strategy, positioning, and cultural framing. They genuinely agree on structural economics — finance, pharma, defense spending, energy infrastructure — because both sides depend on donors from those sectors. The party's internal war is real. The party's consensus on material redistribution is absolute.**
+> [!contradiction] **The fundamental intra-Democratic contradiction: Progressives and moderates genuinely disagree on strategy, positioning, and cultural framing. They genuinely agree on structural economics, finance, pharma, defense spending, energy infrastructure, because both sides depend on donors from those sectors. The party's internal war is real. The party's consensus on material redistribution is absolute.**
 
 ---
 

@@ -47,16 +47,16 @@ Current International President: **April Verrett** (elected May 2024). First Bla
 
 ### The Political Operation
 
-> [!money] Follow the Money — SEIU Political Spending
+> [!money] Follow the Money. SEIU Political Spending
 > **SEIU COPE (federal):** $74.5 million raised, $78 million spent (2023–2024 cycle)
 > **Outside spending:** $12.6 million (2024)
 > **Lobbying:** $940,000 federal + $3.4 million California state (2024)
 > **2024 presidential commitment:** $200 million (largest in SEIU history)
-> **Lifetime federal giving since 1990:** $232.7 million — 99% to Democrats
+> **Lifetime federal giving since 1990:** $232.7 million, 99% to Democrats
 >
 > **Top 2024 independent expenditure:** $1.5 million+ supporting [[_Kamala Harris Master Profile|Kamala Harris]]
 >
-> **Anti-recall money:** $6.6 million to Newsom's 2021 recall defense — government unions collectively donated $25.7 million, over one-third of total recall campaign funds
+> **Anti-recall money:** $6.6 million to Newsom's 2021 recall defense, government unions collectively donated $25.7 million, over one-third of total recall campaign funds
 >
 > That $232.7 million lifetime makes SEIU one of the largest political donors in American history. And 99% went to one party. The question the vault keeps asking: what did that $232.7 million buy?
 
@@ -143,7 +143,7 @@ For [[IBEW - International Brotherhood of Electrical Workers|IBEW]] members: SEI
 | 2025-12 | Newsom signs gig worker union legislation | SEIU lobbying | 800,000+ rideshare workers gain right to organize | Multi-year campaign | First major gig economy organizing rights; ARV fight emerges as next front |
 
 > [!money] The $232.7 Million Question
-> SEIU has spent $232.7 million on federal politics since 1990 — 99% to Democrats. The concrete wins: Fight for $15 ($150B in raises for 26M workers), AB 1228 ($20/hr fast-food floor), pandemic-era protections. The structural losses: single-payer died, Janus gutted public-sector revenues, the $15 federal contractor minimum was reversed by executive order. SEIU's political spending buys incremental victories and defensive survival. It does not buy structural transformation. The healthcare donor class spent a fraction of $232.7M and got single-payer killed. Koch spent less on Janus litigation and gutted SEIU Local 1000's revenue by 49%. The asymmetry is the story: labor's political dollar buys access; capital's political dollar buys outcomes.
+> SEIU has spent $232.7 million on federal politics since 1990, 99% to Democrats. The concrete wins: Fight for $15 ($150B in raises for 26M workers), AB 1228 ($20/hr fast-food floor), pandemic-era protections. The structural losses: single-payer died, Janus gutted public-sector revenues, the $15 federal contractor minimum was reversed by executive order. SEIU's political spending buys incremental victories and defensive survival. It does not buy structural transformation. The healthcare donor class spent a fraction of $232.7M and got single-payer killed. Koch spent less on Janus litigation and gutted SEIU Local 1000's revenue by 49%. The asymmetry is the story: labor's political dollar buys access; capital's political dollar buys outcomes.
 
 - [OpenSecrets: SEIU lifetime giving](https://www.opensecrets.org/orgs/service-employees-international-union/totals?id=D000000077) (Tier 1)
 - [California Governor's Office: AB 1228 Fast Food Worker Wage](https://www.gov.ca.gov/2023/09/28/california-increases-minimum-wage-protections-for-fast-food-workers/) (Tier 1)
@@ -163,7 +163,7 @@ For [[IBEW - International Brotherhood of Electrical Workers|IBEW]] members: SEI
 | Net Assets | $8.2M |
 | Officer Compensation | $917K |
 
-- [Source: ProPublica Nonprofit Explorer — EIN 361760052](https://projects.propublica.org/nonprofits/organizations/361760052) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer - EIN 361760052](https://projects.propublica.org/nonprofits/organizations/361760052) (Tier 1)
 
 <!-- auto:propublica-990 end -->
 
@@ -175,11 +175,11 @@ For [[IBEW - International Brotherhood of Electrical Workers|IBEW]] members: SEI
 
 ---
 
-### March 2026 Update — Autonomous Vehicles and Contract Negotiations
+### March 2026 Update - Autonomous Vehicles and Contract Negotiations
 
-**March 2, 2026 — San Francisco ARV protest:** [[Uber]] and [[Lyft]] drivers organized through the California Gig Workers Union joined SEIU 721, SEIU 1021, San Francisco Firefighters, and [[Teamsters - International Brotherhood of Teamsters|Teamsters]] freight/delivery workers at **San Francisco City Hall** to demand autonomous rideshare vehicles (ARVs) be removed from city streets. The rally preceded a Board of Supervisors hearing examining Waymo's December 2025 system-wide shutdown, when robotaxis stalled across intersections during storms. Workers demanded oversight, transparent safety data, emergency response protocols, and worker involvement before more ARVs come online. Currently, local governments lack authority to order ARVs off roads during emergencies; Waymo claims safety data is confidential.
+**March 2, 2026 - San Francisco ARV protest:** [[Uber]] and [[Lyft]] drivers organized through the California Gig Workers Union joined SEIU 721, SEIU 1021, San Francisco Firefighters, and [[Teamsters - International Brotherhood of Teamsters|Teamsters]] freight/delivery workers at **San Francisco City Hall** to demand autonomous rideshare vehicles (ARVs) be removed from city streets. The rally preceded a Board of Supervisors hearing examining Waymo's December 2025 system-wide shutdown, when robotaxis stalled across intersections during storms. Workers demanded oversight, transparent safety data, emergency response protocols, and worker involvement before more ARVs come online. Currently, local governments lack authority to order ARVs off roads during emergencies; Waymo claims safety data is confidential.
 
-**Context:** California's 800,000+ gig rideshare workers gained the right to form a union after Newsom signed legislation in late 2025. The ARV fight is the first major test of that organizing power. The gig economy interests ([[Uber|Uber]]/[[Lyft|Lyft]]/[[DoorDash]]) invested heavily to defeat AB5 and pass Prop 22 — autonomous vehicles represent the next phase: eliminating drivers entirely.
+**Context:** California's 800,000+ gig rideshare workers gained the right to form a union after Newsom signed legislation in late 2025. The ARV fight is the first major test of that organizing power. The gig economy interests ([[Uber|Uber]]/[[Lyft|Lyft]]/[[DoorDash]]) invested heavily to defeat AB5 and pass Prop 22 - autonomous vehicles represent the next phase: eliminating drivers entirely.
 
 **32BJ SEIU contract talks:** In New York, 32BJ SEIU entered contract negotiations with the Realty Advisory Board (RAB) representing residential building owners. More than **34,000 building service workers** covered by a contract expiring April 20, 2026.
 
@@ -197,16 +197,16 @@ For [[IBEW - International Brotherhood of Electrical Workers|IBEW]] members: SEI
 
 | Recipient | Amount | Party |
 |-----------|--------|-------|
-| FOR OUR FUTURE | $3,556,490 | — |
-| FF PAC | $3,500,000 | — |
-| UNITED WE CAN | $2,700,751 | — |
-| IN UNION USA | $750,000 | — |
-| CARE IN ACTION PAC | $750,000 | — |
-| FOR OUR FREEDOM | $600,000 | — |
-| COMMUNITY CHANGE VOTERS | $300,000 | — |
-| COLOROFCHANGE PAC | $300,000 | — |
-| UNIDOSUS ACTION PAC | $250,000 | — |
-| VOTAR ES PODER PAC | $235,000 | — |
+| FOR OUR FUTURE | $3,556,490 | - |
+| FF PAC | $3,500,000 | - |
+| UNITED WE CAN | $2,700,751 | - |
+| IN UNION USA | $750,000 | - |
+| CARE IN ACTION PAC | $750,000 | - |
+| FOR OUR FREEDOM | $600,000 | - |
+| COMMUNITY CHANGE VOTERS | $300,000 | - |
+| COLOROFCHANGE PAC | $300,000 | - |
+| UNIDOSUS ACTION PAC | $250,000 | - |
+| VOTAR ES PODER PAC | $235,000 | - |
 
 - [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=SEIU%20-%20Service%20Employees%20International%20Union) (Tier 1)
 <!-- auto:fec-donor end -->

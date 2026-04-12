@@ -43,7 +43,7 @@ Wallace is notable for moderating three presidential general election debates, t
 No FEC individual contributions found. The FEC API returns 0 results for "WALLACE, CHRIS" and 0 results for "WALLACE, CHRISTOPHER", confirming no contributions for either name variation. Wallace has spent his career at institutions. Fox News, NBC, ABC, CNN, where his political influence derives from access and airtime rather than personal political spending. For a journalist who moderated three major presidential debates, zero personal political donations is the institutional capture pattern in its purest form.
 
 > [!money]
-> Zero personal political donations over a 55-year career at the most influential political news organizations in the country. Wallace influenced more presidential debates than almost any journalist in history — and spent nothing. His political capital is entirely institutional, not personal. When the institutions stopped paying, the capital evaporated.
+> Zero personal political donations over a 55-year career at the most influential political news organizations in the country. Wallace influenced more presidential debates than almost any journalist in history, and spent nothing. His political capital is entirely institutional, not personal. When the institutions stopped paying, the capital evaporated.
 
 - [FEC: Chris Wallace individual contributions (0 results)](https://www.fec.gov/data/receipts/?contributor_name=WALLACE%2C+CHRIS) (Tier 1)
 - [FEC: Christopher Wallace individual contributions (0 results)](https://www.fec.gov/data/receipts/?contributor_name=WALLACE%2C+CHRISTOPHER) (Tier 1)
@@ -137,7 +137,7 @@ The CNN+ miscalculation revealed something important: Wallace's brand had high i
 | 2025 | Wallace pursues independent streaming/podcast | Wallace |, | Tests whether "serious journalist" brand has franchise value without institutional backing |
 
 > [!money]
-> The CNN+ deal was the inflection point. Fox News paid Wallace $7M/yr for 18 years = ~$126M for a journalism credential. CNN paid $8.5M/yr for the same credential applied to a streaming platform that lasted 30 days. Wallace's market value was entirely contingent on the institutions paying him — not on audience who would follow him independently. When the institutions miscalculated (CNN+) or ended the relationship (CNN 2024), the brand had no independent floor.
+> The CNN+ deal was the inflection point. Fox News paid Wallace $7M/yr for 18 years = ~$126M for a journalism credential. CNN paid $8.5M/yr for the same credential applied to a streaming platform that lasted 30 days. Wallace's market value was entirely contingent on the institutions paying him, not on audience who would follow him independently. When the institutions miscalculated (CNN+) or ended the relationship (CNN 2024), the brand had no independent floor.
 
 ---
 

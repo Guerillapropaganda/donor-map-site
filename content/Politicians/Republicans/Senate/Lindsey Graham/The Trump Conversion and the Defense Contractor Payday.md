@@ -38,7 +38,7 @@ John McCain died in August 2018. McCain's death removed the anchor of Graham's o
 The Kavanaugh hearing in September 2018, one month after McCain's death, was the pivot. Graham's viral outrage performance generated a reported fundraising spike. Conservative donors who had never contributed to Graham suddenly opened their checkbooks. The Trump donor pipeline. MAGA small-dollar, conservative super PACs, nationalist mega-donors, became available to Graham the moment he performed loyalty to the Trump agenda.
 
 > [!money]
-> Graham raised $28 million in a single quarter (Q3 2020), during the most expensive Senate race in history at that time, against Democrat Jaime Harrison. That quarter shattered Senate fundraising records. Where did the money come from? Overwhelmingly from out-of-state donors — 86% of Graham's donations came from outside South Carolina. The Trump donor network, activated by Graham's Kavanaugh performance and sustained by his consistent Trump loyalty, funded a South Carolina Senate seat with national MAGA money. Graham didn't change his principles. He changed his patron. The patron changed his money.
+> Graham raised $28 million in a single quarter (Q3 2020), during the most expensive Senate race in history at that time, against Democrat Jaime Harrison. That quarter shattered Senate fundraising records. Where did the money come from? Overwhelmingly from out-of-state donors, 86% of Graham's donations came from outside South Carolina. The Trump donor network, activated by Graham's Kavanaugh performance and sustained by his consistent Trump loyalty, funded a South Carolina Senate seat with national MAGA money. Graham didn't change his principles. He changed his patron. The patron changed his money.
 
 ---
 
@@ -51,10 +51,10 @@ Since 2018, Graham's campaigns have collected at least $2.1 million directly fro
 The economic logic is transparent: South Carolina's military bases generate approximately $30 billion annually in economic activity and support roughly 165,000 jobs. Defense contractors who operate on those bases have a direct financial stake in maintaining a South Carolina senator who will fight for base funding and defense appropriations. Graham is that senator. The donations are retainer fees.
 
 > [!quote]
-> "If we nominate Trump, we will get destroyed... and we will deserve it." — Graham, February 2016, on why Trump was unfit for the presidency.
+> "If we nominate Trump, we will get destroyed... and we will deserve it.". Graham, February 2016, on why Trump was unfit for the presidency.
 
 > [!quote]
-> "I'm trying to be a constructive force. I'm not going to be a disruptive force. I want to help [[_Donald Trump Master Profile|Donald Trump]] be the best president he can be." — Graham, 2019, after completing his transformation.
+> "I'm trying to be a constructive force. I'm not going to be a disruptive force. I want to help [[_Donald Trump Master Profile|Donald Trump]] be the best president he can be.". Graham, 2019, after completing his transformation.
 
 ---
 

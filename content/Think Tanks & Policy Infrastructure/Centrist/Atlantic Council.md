@@ -130,7 +130,7 @@ The Atlantic Council's pipeline operates through a distinctive mechanism: **it p
 | Ongoing | Congressional testimony | Aggregate defense/foreign funding | Atlantic Council staff testify before Congress on defense, foreign policy, and tech regulation, while receiving millions from the industries and governments their testimony concerns | Continuous |
 
 > [!money]
-> The Atlantic Council's business model is selling the appearance of independent security analysis while being funded by the defense contractors, foreign governments, and tech companies that benefit from the analysis. The $10.2M from Pentagon contractors purchases policy recommendations that recommend more Pentagon spending. The $21M from foreign governments purchases favorable regional analysis. The $15.3M from the U.S. government creates the feedback loop: the government funds the think tank that tells the government what the defense contractors want to hear. The Defense Innovation Commission is the model in miniature — companies pay $810K-$1.6M to write the recommendations that will benefit them, co-chaired by their own former lobbyist.
+> The Atlantic Council's business model is selling the appearance of independent security analysis while being funded by the defense contractors, foreign governments, and tech companies that benefit from the analysis. The $10.2M from Pentagon contractors purchases policy recommendations that recommend more Pentagon spending. The $21M from foreign governments purchases favorable regional analysis. The $15.3M from the U.S. government creates the feedback loop: the government funds the think tank that tells the government what the defense contractors want to hear. The Defense Innovation Commission is the model in miniature, companies pay $810K-$1.6M to write the recommendations that will benefit them, co-chaired by their own former lobbyist.
 
 ---
 
@@ -180,7 +180,7 @@ The Atlantic Council's revolving door operates at the highest level of the U.S. 
 - *Media → think tank leadership. Kempe's media background provides the cultural credibility that makes defense contractor-funded analysis look like independent journalism.*
 
 > [!contradiction]
-> The Atlantic Council claims to produce "nonpartisan" analysis, yet its board and commission leadership consists almost entirely of former Republican and Democratic national security officials who implemented the very policies the Council now analyzes — and who maintain financial relationships with the defense contractors that fund the Council. The Defense Innovation Commission is co-chaired by a former Raytheon lobbyist and a former SAIC executive, writing procurement recommendations funded by their former (and possibly future) employers. The revolving door isn't a bug — it's the product being sold.
+> The Atlantic Council claims to produce "nonpartisan" analysis, yet its board and commission leadership consists almost entirely of former Republican and Democratic national security officials who implemented the very policies the Council now analyzes, and who maintain financial relationships with the defense contractors that fund the Council. The Defense Innovation Commission is co-chaired by a former Raytheon lobbyist and a former SAIC executive, writing procurement recommendations funded by their former (and possibly future) employers. The revolving door isn't a bug, it's the product being sold.
 
 ---
 

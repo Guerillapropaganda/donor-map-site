@@ -82,7 +82,7 @@ Reduced NLRB enforcement power, opposition to the PRO Act (which would strengthe
 **NLRB Enforcement Weakness:** Starbucks' anti-union campaign has demonstrated the structural weakness of the NLRB: the agency can rule that Starbucks violated labor law (it has, repeatedly), but the remedies, reinstatement of fired workers, back pay, cease-and-desist orders, are implemented months or years after the violations, long after the anti-union campaign has achieved its goal of chilling organizing.
 
 > [!contradiction]
-> Starbucks markets itself as a progressive employer — healthcare benefits, college tuition assistance, diversity commitments — while conducting illegal anti-union activities documented in dozens of NLRB complaints. The progressive brand is not separate from the anti-union campaign; it is the anti-union campaign's alibi. The company offers individual benefits (chosen and controlled by management) to prevent collective power (chosen and controlled by workers). The message: "We already treat you well, so you don't need a union." The structural function: progressive benefits as a substitute for worker power.
+> Starbucks markets itself as a progressive employer, healthcare benefits, college tuition assistance, diversity commitments, while conducting illegal anti-union activities documented in dozens of NLRB complaints. The progressive brand is not separate from the anti-union campaign; it is the anti-union campaign's alibi. The company offers individual benefits (chosen and controlled by management) to prevent collective power (chosen and controlled by workers). The message: "We already treat you well, so you don't need a union." The structural function: progressive benefits as a substitute for worker power.
 
 ---
 

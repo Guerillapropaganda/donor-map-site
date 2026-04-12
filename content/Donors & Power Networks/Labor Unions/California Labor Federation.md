@@ -49,12 +49,12 @@ The Federation's primary function is converting union membership into political 
 
 **2024 positions:** Endorsed Newsom for governor. Supported Prop 5 (housing bonds), Prop 34, Prop 35 (MCO tax), upholding AB 257 (fast-food worker standards).
 
-> [!money] Follow the Money — Federation Political Operation
+> [!money] Follow the Money. Federation Political Operation
 > **AFL-CIO COPE (national, California share):** $152,410 raised, $122,330 spent (2023–2024)
 >
 > The small direct spending understates the Federation's influence. The real power is coordination: when the Federation endorses, 1,300+ locals and 2.3 million represented workers receive the signal. The endorsement shapes volunteer mobilization, PAC spending across individual unions, and the political landscape for every California race.
 >
-> The combined spending power of Federation-affiliated unions in California ([[SEIU - Service Employees International Union|SEIU]] $78M, [[Teamsters - International Brotherhood of Teamsters|Teamsters]] $15.4M, [[UFCW - United Food and Commercial Workers|UFCW]] $12.2M, [[IBEW - International Brotherhood of Electrical Workers|IBEW]] $20.77M, CNA $15.3M, [[UNITE HERE|UNITE HERE]] $20.6M, plus dozens of others) runs into the hundreds of millions per cycle. The Federation doesn't spend that money — it coordinates the unions that do.
+> The combined spending power of Federation-affiliated unions in California ([[SEIU - Service Employees International Union|SEIU]] $78M, [[Teamsters - International Brotherhood of Teamsters|Teamsters]] $15.4M, [[UFCW - United Food and Commercial Workers|UFCW]] $12.2M, [[IBEW - International Brotherhood of Electrical Workers|IBEW]] $20.77M, CNA $15.3M, [[UNITE HERE|UNITE HERE]] $20.6M, plus dozens of others) runs into the hundreds of millions per cycle. The Federation doesn't spend that money, it coordinates the unions that do.
 
 ---
 
@@ -86,11 +86,11 @@ The California Labor Federation is the most important institutional node in the 
 **What it doesn't get:** Structural change. The Federation endorsed every version of Newsom. Newsom vetoed PLAs, killed single-payer, cut state worker pay during COVID, and governs in the interest of the healthcare/tech/real estate donor class on every issue where labor and capital interests conflict. The Federation endorses him again.
 
 > [!contradiction] The Endorsement Paradox
-> The Federation's endorsement power is real — a Federation endorsement shapes races across California. But that power is never used as leverage. The Federation never credibly threatens to withhold endorsement from a Democrat who governs against labor. The 2/3 vote requirement makes withholding nearly impossible — some affiliated union will always have a reason to maintain the relationship.
+> The Federation's endorsement power is real, a Federation endorsement shapes races across California. But that power is never used as leverage. The Federation never credibly threatens to withhold endorsement from a Democrat who governs against labor. The 2/3 vote requirement makes withholding nearly impossible, some affiliated union will always have a reason to maintain the relationship.
 >
 > The result: the endorsement is a gift, not a transaction. Labor gives the endorsement. The Democrat takes the endorsement. The donor class keeps the policy. The Federation endorses again.
 >
-> Compare this to the Las Vegas Culinary Union ([[UNITE HERE|UNITE HERE]] Local 226), which controls Nevada politics through voter mobilization rather than endorsements. The Culinary Union's power is structural — they deliver elections. The Federation's power is institutional — they deliver endorsements. Structural power can't be ignored. Institutional power can.
+> Compare this to the Las Vegas Culinary Union ([[UNITE HERE|UNITE HERE]] Local 226), which controls Nevada politics through voter mobilization rather than endorsements. The Culinary Union's power is structural, they deliver elections. The Federation's power is institutional, they deliver endorsements. Structural power can't be ignored. Institutional power can.
 
 **The containment thesis:** The Federation's structural function in the vault's framework is channeling labor's political power into the Democratic Party without threatening the donor class's control of economic policy. It's not that the Federation is corrupt or captured, it's that the consensus-based, two-party-dependent model produces this outcome structurally. No individual decision is wrong. The system produces the result.
 

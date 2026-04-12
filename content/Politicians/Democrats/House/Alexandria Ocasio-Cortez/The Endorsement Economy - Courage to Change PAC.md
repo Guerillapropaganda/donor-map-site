@@ -21,7 +21,7 @@ related: "[[The Small-Dollar Model and the Anti-Donor Experiment]] · [[_Jamaal 
 
 Courage to Change PAC (FEC ID: C00692202), registered November 29, 2018, functions as Ocasio-Cortez's leadership super PAC. Registered well before the 2018 midterms that swept her into office, the PAC operates as an alternative to traditional DCCC dues structures, channeling resources toward candidates aligned with her progressive coalition.
 
-> [!money] The PAC's total spending, while meaningful, is modest by leadership PAC standards. Ocasio-Cortez's own campaign committee raised $15.16M in 2024—dwarfing her PAC's direct contributions, which suggests her real endorsement power lies not in check-writing but in audience mobilization and donor network activation.
+> [!money] The PAC's total spending, while meaningful, is modest by leadership PAC standards. Ocasio-Cortez's own campaign committee raised $15.16M in 2024, dwarfing her PAC's direct contributions, which suggests her real endorsement power lies not in check-writing but in audience mobilization and donor network activation.
 
 ## Financial Performance by Cycle
 

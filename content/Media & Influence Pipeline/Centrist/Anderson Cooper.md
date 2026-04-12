@@ -50,7 +50,7 @@ Based on institutional pattern analysis: Cooper's peers at CNN with similar prof
 - [FEC: Anderson Cooper individual contributions](https://www.fec.gov/data/receipts/?contributor_name=cooper%2C+anderson) (Tier 1) (NEEDS REVIEW) (UNVERIFIED. Chrome unavailable)
 
 > [!money]
-> Cooper is a $200M net worth individual who earns $18M/year from institutional media — his financial footprint is enormous, but he channels political influence exclusively through editorial platform access, not personal donations. This is the CNN anchor pattern: leverage flows from airtime, not checkbooks.
+> Cooper is a $200M net worth individual who earns $18M/year from institutional media, his financial footprint is enormous, but he channels political influence exclusively through editorial platform access, not personal donations. This is the CNN anchor pattern: leverage flows from airtime, not checkbooks.
 
 ---
 
@@ -156,7 +156,7 @@ Anderson Cooper is the perfect centrist institutional media specimen: born into 
 | Feb 2026 | WBD board accepts Paramount's $110.9B acquisition offer | David Ellison, Larry Ellison, WBD board | $110.9B | CNN now transitioning to Trump-allied billionaire family ownership; same Ellison family Cooper left 60 Minutes over |
 
 > [!money]
-> Cooper renewed at $18M/year in December 2025 — two months before the Paramount/Ellison acquisition was announced. He locked himself in to institutional dependency right as his editorial environment was about to undergo its most significant ownership change in the CNN era. The exit valve (60 Minutes) closed in February 2026. His only remaining leverage is the contract he just signed.
+> Cooper renewed at $18M/year in December 2025, two months before the Paramount/Ellison acquisition was announced. He locked himself in to institutional dependency right as his editorial environment was about to undergo its most significant ownership change in the CNN era. The exit valve (60 Minutes) closed in February 2026. His only remaining leverage is the contract he just signed.
 
 ---
 

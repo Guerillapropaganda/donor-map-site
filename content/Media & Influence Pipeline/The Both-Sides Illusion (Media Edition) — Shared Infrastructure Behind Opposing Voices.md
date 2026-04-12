@@ -17,7 +17,7 @@ related: "[[_Media Pipeline Framework|Media Pipeline Framework]] · [[The Shared
 The "both sides" media debate is structurally bounded by shared ownership, shared investors, shared advertising infrastructure, and shared editorial blind spots. The infrastructure producing left-right disagreement is controlled by a small financial class whose core economic interests are never threatened by the debate it funds. Media outlets perform vigorous opposition while operating under identical business models, audience monetization rules, advertiser vetoes, and algorithmic constraints.
 
 > [!contradiction]
-> The "debate within a corporate family" is not a debate at all — it's content distribution optimized for audience segmentation, advertiser targeting, and investor returns. The conflict is real. The stakes that matter to the owner class are not.
+> The "debate within a corporate family" is not a debate at all, it's content distribution optimized for audience segmentation, advertiser targeting, and investor returns. The conflict is real. The stakes that matter to the owner class are not.
 
 ---
 
@@ -54,7 +54,7 @@ Silicon Valley's elite investors back media on both sides, the same people fundi
 | **Wilks Brothers (Farris & Dan)** | Daily Wire $4.7M seed (conservative) | $5M Cruz super PAC, $200K Club for Growth, donations to Greene/Gaetz/Hawley/Paul | Fracking fortune funding exclusively conservative media + candidates. No cross-spectrum hedging. | $4.9M+ conservative only |
 
 > [!money]
-> The investor class funding "the debate" is remarkably small and interconnected, even when individual members take opposing political positions. Sacks gave $33,400 to Clinton, then raised $12M for Trump. Patricof's office has Clinton photos on the wall while his fund backs outlets spanning the spectrum. Andreessen calls it "non-partisan" — it's capital allocation optimized for influence regardless of who wins. The shared class interest: favorable tech regulation, capital gains tax treatment, crypto-friendly policy.
+> The investor class funding "the debate" is remarkably small and interconnected, even when individual members take opposing political positions. Sacks gave $33,400 to Clinton, then raised $12M for Trump. Patricof's office has Clinton photos on the wall while his fund backs outlets spanning the spectrum. Andreessen calls it "non-partisan", it's capital allocation optimized for influence regardless of who wins. The shared class interest: favorable tech regulation, capital gains tax treatment, crypto-friendly policy.
 
 **Key Insight:** Paramount Skydance acquired The Free Press for ~$150M. The Free Press investor list. Andreessen, Sacks, Schultz, Kotick, Herbert Allen Jr. reads like a bipartisan capital deployment ledger. These are not ideological bets. They are infrastructure investments by a financial class that profits from media polarization regardless of which side "wins."
 
@@ -75,7 +75,7 @@ The World Federation of Advertisers (WFA) controls 90% of global advertising spe
 | **House Judiciary findings** | FTC investigation into GARM coordination | Documented Facebook, Spotify, YouTube bias against conservative creators; GARM dissolved within hours of X lawsuit (March 2024) |
 
 > [!contradiction]
-> GARM was ostensibly "brand safety." In practice, it was a coordinated exclusion mechanism that made right-wing media less profitable than left-wing media **before any audience measurement**. When X sued under antitrust (Musk v. WFA), the coalition dissolved within 24 hours — proving it was legally vulnerable coordination, not market forces. The mechanism is now distributed: YouTube, TikTok, and Spotify have identical advertiser-safety policies, achieving the same effect.
+> GARM was ostensibly "brand safety." In practice, it was a coordinated exclusion mechanism that made right-wing media less profitable than left-wing media **before any audience measurement**. When X sued under antitrust (Musk v. WFA), the coalition dissolved within 24 hours, proving it was legally vulnerable coordination, not market forces. The mechanism is now distributed: YouTube, TikTok, and Spotify have identical advertiser-safety policies, achieving the same effect.
 
 ### NewsGuard bias documentation:
 - Top 10 "least risky" outlets: all left-leaning (NPR, BBC, AP News, Reuters, Reuters, Reuters)
@@ -129,7 +129,7 @@ Despite vigorous opposition on social issues and political style, left and right
 | **"Healthcare = market + regulation"** | (Implicit) | "Market, minimal regulation" | Both defend pharma pricing (PhRMA funds both sides 50/50) |
 
 > [!money]
-> The "both sides" debate occurs inside a bounded frame: capitalism, shareholder returns, and donor-class immunity from policy scrutiny. Outside the frame: nationalization, wealth taxes, universal healthcare, defense industry competition, housing decommodification. These positions are categorized as "too radical" by both left and right mainstream media — not because they're unpopular, but because they threaten the ownership class.
+> The "both sides" debate occurs inside a bounded frame: capitalism, shareholder returns, and donor-class immunity from policy scrutiny. Outside the frame: nationalization, wealth taxes, universal healthcare, defense industry competition, housing decommodification. These positions are categorized as "too radical" by both left and right mainstream media, not because they're unpopular, but because they threaten the ownership class.
 
 ---
 

@@ -57,11 +57,11 @@ Access to the Supreme Court and foreign policy that serves his investment strate
 ### Who He Funds
 
 > [!money]
-> **[[_Tom Cotton Master Profile|Tom Cotton]]:** #2 donor to 2014 Senate campaign ($165,400+). $250,000 to Arkansas Horizon super PAC. Cotton authored the Iran letter 60 days into office — undermining the nuclear deal Singer's pro-Israel donor network opposed.
+> **[[_Tom Cotton Master Profile|Tom Cotton]]:** #2 donor to 2014 Senate campaign ($165,400+). $250,000 to Arkansas Horizon super PAC. Cotton authored the Iran letter 60 days into office, undermining the nuclear deal Singer's pro-Israel donor network opposed.
 >
 > **[[_Marco Rubio Master Profile|Marco Rubio]]:** $3.1 million+ to outside groups (2016). Hosted "hard money" fundraiser. Backed Rubio's Iran deal opposition and Israel support.
 >
-> **American Unity PAC:** Founded 2012 with $1 million donation. $1,815,316 total. Pro-gay-marriage Republican PAC — Singer's social liberalism coexists with economic predation.
+> **American Unity PAC:** Founded 2012 with $1 million donation. $1,815,316 total. Pro-gay-marriage Republican PAC. Singer's social liberalism coexists with economic predation.
 >
 > **Pro-Israel organizations:** [[AIPAC - American Israel Public Affairs Committee|AIPAC]] ($2-2.5M). AIEF ($1.25M, 2019). [[United Democracy Project - UDP|United Democracy Project]] ($1M, 2022; **second-largest UDP contributor in 2025-2026 cycle** behind AIPAC's $30M direct transfer). Birthright Israel Foundation ($3.3M+). Foundation for Defense of Democracies (major donor). RJC board member.
 >
@@ -98,7 +98,7 @@ The $2.4 billion payout was part of a $4.65 billion settlement with four hedge f
 ### The Class Analysis
 
 > [!contradiction]
-> [[Paul Singer]] is a "principled conservative" who supports gay marriage equality ($1.8M to American Unity PAC) while his core business model extracts billions from developing nations' economic collapses. He donates $2-2.5 million to AIPAC and funds pro-Israel think tanks while his candidates' foreign policy positions (Iran hawkishness, geopolitical instability) create the conditions for distressed debt opportunities. He gave $100,000 in private jet travel to a Supreme Court justice who never recused from his cases — then won a $2.4 billion judgment. The "social liberal, fiscal conservative" framing masks the economic predation: the vulture fund investor who takes developing nations to court, the donor who takes Supreme Court justices on fishing trips, the Republican who funds foreign policy that serves his investment portfolio. The social liberalism is real; the economic brutality is also real. Both serve his interests.
+> [[Paul Singer]] is a "principled conservative" who supports gay marriage equality ($1.8M to American Unity PAC) while his core business model extracts billions from developing nations' economic collapses. He donates $2-2.5 million to AIPAC and funds pro-Israel think tanks while his candidates' foreign policy positions (Iran hawkishness, geopolitical instability) create the conditions for distressed debt opportunities. He gave $100,000 in private jet travel to a Supreme Court justice who never recused from his cases, then won a $2.4 billion judgment. The "social liberal, fiscal conservative" framing masks the economic predation: the vulture fund investor who takes developing nations to court, the donor who takes Supreme Court justices on fishing trips, the Republican who funds foreign policy that serves his investment portfolio. The social liberalism is real; the economic brutality is also real. Both serve his interests.
 
 ---
 
@@ -159,7 +159,7 @@ The $2.4 billion payout was part of a $4.65 billion settlement with four hedge f
 | Total Expenses | $135.4M |
 | Net Assets | $276.4M |
 
-- [Source: ProPublica Nonprofit Explorer — EIN 272009342](https://projects.propublica.org/nonprofits/organizations/272009342) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer - EIN 272009342](https://projects.propublica.org/nonprofits/organizations/272009342) (Tier 1)
 <!-- auto:propublica-990 end -->
 
 ### Tax Filings (IRS 990)
@@ -196,12 +196,12 @@ The $2.4 billion payout was part of a $4.65 billion settlement with four hedge f
 | Case Types | 3470 RICO, 365 Personal Inj. Prod. Liability, 440 Civil Rights: Other, 899 Other Statutes: Administrative Procedures Act/Review or Appeal of Agency Decision, Civil Rights: Other |
 
 **Notable cases:**
-- In re: Charles Johnson (2025) — Court of Appeals for the Fifth Circuit
-- Star Island Vacation Ownership Association, Inc. (2025) — United States Bankruptcy Court, M.D. Florida
-- Adams-Young v. 3M Company (2025) — District Court, D. South Carolina
-- Point Bridge Capital v. Johnson (2025) — Court of Appeals for the Fifth Circuit
-- Singer v. Waters Esq (2025) — District Court, E.D. California
-- Paul Singer (2025) — United States Bankruptcy Court, W.D. Pennsylvania
+- In re: Charles Johnson (2025) - Court of Appeals for the Fifth Circuit
+- Star Island Vacation Ownership Association, Inc. (2025) - United States Bankruptcy Court, M.D. Florida
+- Adams-Young v. 3M Company (2025) - District Court, D. South Carolina
+- Point Bridge Capital v. Johnson (2025) - Court of Appeals for the Fifth Circuit
+- Singer v. Waters Esq (2025) - District Court, E.D. California
+- Paul Singer (2025) - United States Bankruptcy Court, W.D. Pennsylvania
 
 - [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Paul%20Singer%22&type=r) (Tier 1)
 <!-- auto:courtlistener-cases end -->
@@ -239,17 +239,17 @@ The $2.4 billion payout was part of a $4.65 billion settlement with four hedge f
 
 **Funded politicians:**
 
-- [[Mike Rogers]] (Armed Services) — lobbying: $1.3M
-- [[Michael Whatley]] — lobbying: $1.3M
-- [[Tom Cotton]] — lobbying: $1.3M
-- [[Samuel Alito]] — lobbying: $1.3M
+- [[Mike Rogers]] (Armed Services) - lobbying: $1.3M
+- [[Michael Whatley]] - lobbying: $1.3M
+- [[Tom Cotton]] - lobbying: $1.3M
+- [[Samuel Alito]] - lobbying: $1.3M
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-09.*
 <!-- auto:influence-cross-ref end -->
 
 <!-- auto:influence-cross-ref pending-merge 2026-04-12 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+> [!attention] Fresh API data available - needs manual merge
+> Bot detected your edits to this section. New data below - fold in what's useful, then delete this block.
 
 | Metric | Value |
 |--------|-------|
@@ -263,10 +263,10 @@ The $2.4 billion payout was part of a $4.65 billion settlement with four hedge f
 
 **Funded politicians:**
 
-- [[Mike Rogers]] (Armed Services) — lobbying: $1.3M
-- [[Michael Whatley]] — lobbying: $1.3M
-- [[Tom Cotton]] — lobbying: $1.3M
-- [[Samuel Alito]] — lobbying: $1.3M
+- [[Mike Rogers]] (Armed Services) - lobbying: $1.3M
+- [[Michael Whatley]] - lobbying: $1.3M
+- [[Tom Cotton]] - lobbying: $1.3M
+- [[Samuel Alito]] - lobbying: $1.3M
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-12.*
 
@@ -283,16 +283,16 @@ The $2.4 billion payout was part of a $4.65 billion settlement with four hedge f
 
 | Recipient | Amount | Party |
 |-----------|--------|-------|
-| SLF PAC | $4,000,000 | — |
-| CONGRESSIONAL LEADERSHIP FUND | $3,000,000 | — |
-| UNITED DEMOCRACY PROJECT ('UDP') | $2,500,000 | — |
-| PINE TREE RESULTS PAC | $1,000,000 | — |
-| AMERICA 21 PAC | $1,000,000 | — |
-| MAGA KY | $1,000,000 | — |
-| THE SENTINEL ACTION FUND | $750,000 | — |
-| CONSERVATIVES FOR AMERICAN EXCELLENCE INC. | $750,000 | — |
-| GLCF, INC. | $500,000 | — |
-| SECURITY IS STRENGTH PAC | $500,000 | — |
+| SLF PAC | $4,000,000 | - |
+| CONGRESSIONAL LEADERSHIP FUND | $3,000,000 | - |
+| UNITED DEMOCRACY PROJECT ('UDP') | $2,500,000 | - |
+| PINE TREE RESULTS PAC | $1,000,000 | - |
+| AMERICA 21 PAC | $1,000,000 | - |
+| MAGA KY | $1,000,000 | - |
+| THE SENTINEL ACTION FUND | $750,000 | - |
+| CONSERVATIVES FOR AMERICAN EXCELLENCE INC. | $750,000 | - |
+| GLCF, INC. | $500,000 | - |
+| SECURITY IS STRENGTH PAC | $500,000 | - |
 
 - [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Paul%20Singer) (Tier 1)
 <!-- auto:fec-donor end -->
@@ -306,11 +306,11 @@ The $2.4 billion payout was part of a $4.65 billion settlement with four hedge f
 
 **Notable filings:**
 
-- 2010-03-17 — **D/A**: D/A
-- 2011-03-17 — **D/A**: D/A
-- 2011-03-17 — **D/A**: D/A
-- 2003-11-26 — **EX-10.3**: EXHIBIT 10.3
-- 2010-03-17 — **D/A**: D/A
+- 2010-03-17 - **D/A**: D/A
+- 2011-03-17 - **D/A**: D/A
+- 2011-03-17 - **D/A**: D/A
+- 2003-11-26 - **EX-10.3**: EXHIBIT 10.3
+- 2010-03-17 - **D/A**: D/A
 
 - [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Paul%20Singer%22) (Tier 1)
 <!-- auto:sec-edgar end -->
@@ -324,7 +324,7 @@ The $2.4 billion payout was part of a $4.65 billion settlement with four hedge f
 | Agencies | Health Resources and Services Administration, Health and Human Services Department |
 
 **Recent regulatory activity:**
-- [National Vaccine Injury Compensation Program; List of Petitions Received](https://www.federalregister.gov/documents/2003/08/05/03-19798/national-vaccine-injury-compensation-program-list-of-petitions-received) (2003-08-05) — Health and Human Services Department
+- [National Vaccine Injury Compensation Program; List of Petitions Received](https://www.federalregister.gov/documents/2003/08/05/03-19798/national-vaccine-injury-compensation-program-list-of-petitions-received) (2003-08-05) - Health and Human Services Department
 
 - [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Paul%20Singer%22) (Tier 1)
 <!-- auto:federal-register end -->

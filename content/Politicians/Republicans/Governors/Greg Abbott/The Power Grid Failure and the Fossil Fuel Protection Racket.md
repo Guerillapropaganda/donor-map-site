@@ -59,7 +59,7 @@ Households with generators and financial means to relocate survived. Households 
 Three months after the grid failure that killed 246+ Texans and generated billions in energy company profits, [[Kelcy Warren|Kelcy Warren]] donated $1 million to [[_Greg Abbott Master Profile|Greg Abbott]]'s political campaign.
 
 > [!money]
-> The timing is the argument. Warren's company profited from the crisis. Warren donated to the governor whose policies created the deregulated conditions that allowed the crisis. The donation was not causation — it was recognition of services rendered. Abbott's deregulation benefited Energy Transfer Partners. The donation was payoff.
+> The timing is the argument. Warren's company profited from the crisis. Warren donated to the governor whose policies created the deregulated conditions that allowed the crisis. The donation was not causation, it was recognition of services rendered. Abbott's deregulation benefited Energy Transfer Partners. The donation was payoff.
 
 ### Other Oil/Gas Interests
 The broader oil and gas sector benefited from continued deregulation post-crisis. Abbott signed bills that protected energy sector interests, prevented mandatory winterization costs, and resisted renewable energy expansion. The policy direction post-crisis, which would have been the moment for grid reform, instead reaffirmed the deregulation model.

@@ -54,14 +54,14 @@ Greenwald's career traces one of the most dramatic funding arcs in political med
 | 2025-11-16 | Thomas Massie for Congress | $250.00 | REP | Self-Employed |
 
 > [!money]
-> The most ideologically specific FEC record in the media section of this vault. Two contributions to the single Republican most aggressively targeted by AIPAC-aligned super PACs (Massie has voted against Israel military aid multiple times). Greenwald's only political donations are to an anti-interventionist libertarian Republican who shares his civil-libertarian and anti-Israel-lobby positions. This FEC footprint maps his trajectory from left-civil-libertarian (Snowden reporting) to anti-establishment alignment that crosses party lines — not rightward political conversion but principled anti-interventionism and anti-surveillance positioning that found no Democratic home. The donations reveal that Greenwald's analysis — anti-war, anti-surveillance state, anti-Israel lobby — is ideologically Republican-adjacent even though it originated on the left.
+> The most ideologically specific FEC record in the media section of this vault. Two contributions to the single Republican most aggressively targeted by AIPAC-aligned super PACs (Massie has voted against Israel military aid multiple times). Greenwald's only political donations are to an anti-interventionist libertarian Republican who shares his civil-libertarian and anti-Israel-lobby positions. This FEC footprint maps his trajectory from left-civil-libertarian (Snowden reporting) to anti-establishment alignment that crosses party lines, not rightward political conversion but principled anti-interventionism and anti-surveillance positioning that found no Democratic home. The donations reveal that Greenwald's analysis, anti-war, anti-surveillance state, anti-Israel lobby, is ideologically Republican-adjacent even though it originated on the left.
 
 - [FEC: Glenn Greenwald individual contributions (2 results, $500)](https://www.fec.gov/data/receipts/?contributor_name=glenn+greenwald) (Tier 1)
 
-> **Note on API results:** The FEC API search for "glenn greenwald" returns 2 results ($500 total), both to Thomas Massie for Congress (2025), self-employed. All verified as belonging to the journalist. No disambiguation needed — employer and recipient confirm both results are the media figure.
+> **Note on API results:** The FEC API search for "glenn greenwald" returns 2 results ($500 total), both to Thomas Massie for Congress (2025), self-employed. All verified as belonging to the journalist. No disambiguation needed, employer and recipient confirm both results are the media figure.
 
 > [!money]
-> Greenwald's funding arc mirrors Gray's in one respect — movement toward independence — but with a critical difference in scale. Gray went from corporate media to Patreon-funded podcast (small audience, full independence). Greenwald went from billionaire-funded outlet to Thiel-backed platform to audience-funded Substack (large audience, contested independence). The Rumble phase is the analytical crux: Greenwald chose a platform whose primary investor (Peter Thiel) and whose user base (right-of-center) shaped the editorial environment even if they didn't dictate content. The return to Substack in 2026 suggests the Rumble arrangement had structural limits.
+> Greenwald's funding arc mirrors Gray's in one respect, movement toward independence, but with a critical difference in scale. Gray went from corporate media to Patreon-funded podcast (small audience, full independence). Greenwald went from billionaire-funded outlet to Thiel-backed platform to audience-funded Substack (large audience, contested independence). The Rumble phase is the analytical crux: Greenwald chose a platform whose primary investor (Peter Thiel) and whose user base (right-of-center) shaped the editorial environment even if they didn't dictate content. The return to Substack in 2026 suggests the Rumble arrangement had structural limits.
 
 ---
 
@@ -74,7 +74,7 @@ Greenwald's career traces one of the most dramatic funding arcs in political med
 **Audience-funded / Substack (2020-2023, 2026-present):** Substack subscription revenue is the least captured funding model, but Greenwald's audience shifted rightward during the Rumble years. The audience that pays $5/month for Greenwald's Substack in 2026 is not the same audience that followed him from The Guardian in 2013. Audience capture operates through funding: the people who pay determine which content succeeds, and the audience that migrated with Greenwald to Rumble selected for anti-establishment right-libertarian analysis.
 
 > [!contradiction]
-> **The Omidyar Paradox:** Greenwald built The Intercept on Omidyar's $250M to create an independent journalism platform free from corporate influence. He then left that platform over editorial censorship — only to join Rumble, a platform backed by Peter Thiel and the MAGA-adjacent investment class. The structural critique Greenwald made of Omidyar-funded journalism (billionaire dependency creates editorial constraints) applies equally to Thiel-funded platforms. The difference is that Greenwald acknowledged the first dependency publicly while framing the second as "free speech infrastructure."
+> **The Omidyar Paradox:** Greenwald built The Intercept on Omidyar's $250M to create an independent journalism platform free from corporate influence. He then left that platform over editorial censorship, only to join Rumble, a platform backed by Peter Thiel and the MAGA-adjacent investment class. The structural critique Greenwald made of Omidyar-funded journalism (billionaire dependency creates editorial constraints) applies equally to Thiel-funded platforms. The difference is that Greenwald acknowledged the first dependency publicly while framing the second as "free speech infrastructure."
 
 ---
 
@@ -106,7 +106,7 @@ Greenwald pushes a consistent civil-libertarian, anti-establishment framework th
 4. **The funding followed the audience.** Substack subscribers shifted rightward. Rumble's payment structure rewarded content that performed with Rumble's user base. Editorial independence is real, but the market incentive is structurally right-coded.
 
 > [!contradiction]
-> **The Independence Paradox:** Greenwald's brand is editorial independence — the journalist who defied the NSA, defied his own editors, defied the Democratic establishment. But independence from one power structure doesn't mean independence from all. His current editorial independence from corporate media came at the cost of dependency on a right-coded audience and platform ecosystem. The audience that pays his Substack doesn't censor him — but it does reward him for specific content. That's not capture by a patron. It's capture by a market.
+> **The Independence Paradox:** Greenwald's brand is editorial independence, the journalist who defied the NSA, defied his own editors, defied the Democratic establishment. But independence from one power structure doesn't mean independence from all. His current editorial independence from corporate media came at the cost of dependency on a right-coded audience and platform ecosystem. The audience that pays his Substack doesn't censor him, but it does reward him for specific content. That's not capture by a patron. It's capture by a market.
 
 ---
 
@@ -132,7 +132,7 @@ This break reveals the structural pattern:
 4. **The audience swap followed.** The content that drove Substack subscriptions and Rumble viewership was anti-Democratic-establishment commentary. The audience that replaced his Intercept readership was structurally different, right-libertarian rather than left-libertarian.
 
 > [!money]
-> **The price of independence — inverted from Gray:** Gray's independence cost her reach and revenue. Greenwald's independence increased both. The difference is structural: there is massive right-of-center market demand for credentialed left-origin critics of the Democratic establishment. A Pulitzer-winning journalist who left his own outlet over Biden censorship is the ideal product for that market. The independence is real — the market that rewards it is not neutral.
+> **The price of independence, inverted from Gray:** Gray's independence cost her reach and revenue. Greenwald's independence increased both. The difference is structural: there is massive right-of-center market demand for credentialed left-origin critics of the Democratic establishment. A Pulitzer-winning journalist who left his own outlet over Biden censorship is the ideal product for that market. The independence is real, the market that rewards it is not neutral.
 
 ---
 

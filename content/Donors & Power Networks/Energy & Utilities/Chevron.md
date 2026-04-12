@@ -125,7 +125,7 @@ The two largest spending years (2008 and 2010, ~$13M each) coincided with Chevro
 | Donald Trump | $59,020 | Presidential (R) |
 
 > [!money]
-> Combined with [[ConocoPhillips]] and [[Marathon Petroleum]], the three companies collectively spent an estimated $280–290 million on federal lobbying between 2000 and 2024 — now outspending [[ExxonMobil]] 2.2–2.9x annually (2022–2024) while maintaining lower public profiles. In recent years, the three-company group outspends ExxonMobil 2.2–2.9x on federal lobbying alone.
+> Combined with [[ConocoPhillips]] and [[Marathon Petroleum]], the three companies collectively spent an estimated $280–290 million on federal lobbying between 2000 and 2024, now outspending [[ExxonMobil]] 2.2–2.9x annually (2022–2024) while maintaining lower public profiles. In recent years, the three-company group outspends ExxonMobil 2.2–2.9x on federal lobbying alone.
 
 ### California State PAC:
 

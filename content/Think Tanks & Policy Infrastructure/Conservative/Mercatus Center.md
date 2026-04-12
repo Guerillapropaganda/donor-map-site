@@ -298,7 +298,7 @@ Total: $718M+ in documented environmental fines. Key Koch operations include Fli
 | 2025 | DOGE / Elon Musk | N/A | Mercatus launches mercatus.org/doge; Cicero Institute cites Mercatus research; de Rugy criticizes DOGE execution but Koch model threatened by Silicon Valley disruptionism | Immediate |
 
 > [!money]
-> The Koch investment in Mercatus generated extraordinary policy ROI. $30M+ in total Koch funding to GMU/Mercatus produced: an executive order framework adopted by two presidential administrations, at least 4 staff placed directly in federal regulatory positions, and the intellectual architecture for the most aggressive deregulatory agenda since Reagan. For Koch Industries — with billions in annual revenue from petrochemicals, refining, and manufacturing subject to environmental regulation — the deregulatory returns dwarf the investment. Environmental fines alone ($718M+) represent the scope of liability Mercatus research helps reduce.
+> The Koch investment in Mercatus generated extraordinary policy ROI. $30M+ in total Koch funding to GMU/Mercatus produced: an executive order framework adopted by two presidential administrations, at least 4 staff placed directly in federal regulatory positions, and the intellectual architecture for the most aggressive deregulatory agenda since Reagan. For Koch Industries, with billions in annual revenue from petrochemicals, refining, and manufacturing subject to environmental regulation, the deregulatory returns dwarf the investment. Environmental fines alone ($718M+) represent the scope of liability Mercatus research helps reduce.
 
 ---
 
@@ -320,7 +320,7 @@ Mercatus operates one of the tightest revolving doors between a university-affil
 - **Brian Hooks**. Mercatus COO → CEO of Koch's Stand Together network → Mercatus board Director. Direct pipeline between Mercatus operations and Koch's political infrastructure.
 
 > [!contradiction]
-> Mercatus claims to produce independent academic research while its founder, funder, and board members all come from the same Koch political operation. The "university-affiliated" branding launders what is functionally a Koch Industries policy division through George Mason University's academic credibility. The 2018 FOIA revelations — Koch donors on faculty selection committees — showed this isn't incidental. It's structural. The existence of a "pressure clause" (funds returned if can't agree on candidate) demonstrates that Koch's influence was enforced financially.
+> Mercatus claims to produce independent academic research while its founder, funder, and board members all come from the same Koch political operation. The "university-affiliated" branding launders what is functionally a Koch Industries policy division through George Mason University's academic credibility. The 2018 FOIA revelations. Koch donors on faculty selection committees, showed this isn't incidental. It's structural. The existence of a "pressure clause" (funds returned if can't agree on candidate) demonstrates that Koch's influence was enforced financially.
 
 ---
 

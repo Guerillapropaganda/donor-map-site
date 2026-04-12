@@ -22,10 +22,10 @@ The Senate advanced two votes on March 22: a cloture motion on the nomination of
 The SAVE Act would require documentary proof of U.S. citizenship to register to vote in federal elections. The bill passed the House and faces a 60-vote filibuster threshold in the Senate. Sen. John Kennedy (R-LA) is pushing to reframe it as budget reconciliation legislation to pass with 51 votes, a strategy most procedural experts say won't survive the Byrd Rule.
 
 > [!money] Voter restriction = donor protection
-> Proof-of-citizenship requirements primarily affect low-income voters — renters, the mobile, the young — who disproportionately lack documentary proof and lean Democratic. Connecting this to [[MAGA Inc]] mega-donor interests: restricting the electorate is a structural return on investment for donor class electoral spending. Cross-reference with GOP candidates funded by [[Stand Together]] and [[ActBlue]] opponents.
+> Proof-of-citizenship requirements primarily affect low-income voters, renters, the mobile, the young, who disproportionately lack documentary proof and lean Democratic. Connecting this to [[MAGA Inc]] mega-donor interests: restricting the electorate is a structural return on investment for donor class electoral spending. Cross-reference with GOP candidates funded by [[Stand Together]] and [[ActBlue]] opponents.
 
 > [!contradiction] Mullin confirmation contradiction
-> Mullin voted against certifying the 2020 election and has no law enforcement background. His confirmation to lead DHS — the agency currently in a 5-week shutdown over Democratic refusal to fund immigration enforcement — cements the hardliner posture. But Musk's concurrent offer to personally pay TSA salaries (see yesterday's scan) reveals the private-sector-as-government dynamic at the core of DOGE governance.
+> Mullin voted against certifying the 2020 election and has no law enforcement background. His confirmation to lead DHS, the agency currently in a 5-week shutdown over Democratic refusal to fund immigration enforcement, cements the hardliner posture. But Musk's concurrent offer to personally pay TSA salaries (see yesterday's scan) reveals the private-sector-as-government dynamic at the core of DOGE governance.
 
 - [Congress.gov: H.R.7296 SAVE America Act](https://www.congress.gov/bill/119th-congress/house-bill/7296) (Tier 1)
 - [Senate Roll Call Vote 62, 119th Congress 2nd Session](https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00062.htm) (Tier 1)
@@ -44,7 +44,7 @@ Hegseth confirmed March 19 that the $200B figure "could move", i.e. the actual a
 > Each Lockheed F-35 sortie runs $36,000/flight hour. The 7,000+ strikes represent contract volume not seen since Iraq/Afghanistan peak years. Vault-tracked donors [[Lockheed Martin]] and [[Boeing]] are the primary beneficiaries of any supplemental funding. Armed Services Committee and Appropriations Committee members who support the supplemental warrant immediate donor cross-reference. Track: [[_Pete Hegseth Master Profile]] role in directing this contractor spend with no end-state defined.
 
 > [!contradiction] Oil price / fossil fuel donor split
-> Closed Strait of Hormuz drives oil prices up — which benefits upstream fossil fuel producers like [[ExxonMobil]] and [[Chevron]] whose profits expand with price. But downstream industrial users (airlines, plastics, fertilizer) absorb costs. This creates a split within the fossil fuel donor bloc that is not reflected in most coverage.
+> Closed Strait of Hormuz drives oil prices up, which benefits upstream fossil fuel producers like [[ExxonMobil]] and [[Chevron]] whose profits expand with price. But downstream industrial users (airlines, plastics, fertilizer) absorb costs. This creates a split within the fossil fuel donor bloc that is not reflected in most coverage.
 
 - [Al Jazeera: Hegseth says no timeframe, Pentagon asks $200bn](https://www.aljazeera.com/news/2026/3/19/hegseth-says-no-timeframe-for-war-on-iran-as-pentagon-asks-for-200bn) (Tier 2)
 - [Time: Lawmakers Voice Concern Over Pentagon's $200B Request](https://time.com/article/2026/03/20/republican-democrat-lawmakers-condemn-pentagon-iran-war-funding-request/) (Tier 2)
@@ -61,7 +61,7 @@ The EPA finalized its rescission of the 2009 Greenhouse Gas Endangerment Finding
 Health policy experts estimate the combined rollbacks will cost ~200,000 lives in coming decades. The EPA is also targeting stormwater, wetlands, and water-related permitting as part of Trump's Housing EO (see below).
 
 > [!money] Endangerment Finding rescission = ExxonMobil's 40-year prize
-> The 2009 Endangerment Finding was the legal foundation for all EPA climate regulation. Fossil fuel industry — including vault-tracked [[ExxonMobil]], [[Chevron]], [[American Petroleum Institute]], and [[Western States Petroleum Association]] — spent decades and hundreds of millions lobbying to overturn it. Energy Transfer CEO [[Kelcy Warren]] donated $25M to MAGA Inc (per yesterday's Finance Research). This is the direct policy return.
+> The 2009 Endangerment Finding was the legal foundation for all EPA climate regulation. Fossil fuel industry, including vault-tracked [[ExxonMobil]], [[Chevron]], [[American Petroleum Institute]], and [[Western States Petroleum Association]], spent decades and hundreds of millions lobbying to overturn it. Energy Transfer CEO [[Kelcy Warren]] donated $25M to MAGA Inc (per yesterday's Finance Research). This is the direct policy return.
 
 - [EPA: Final Rule Rescission of GHG Endangerment Finding](https://www.epa.gov/regulations-emissions-vehicles-and-engines/final-rule-rescission-greenhouse-gas-endangerment) (Tier 1)
 - [Federal Register: Removing Regulatory Barriers to Affordable Home Construction](https://www.federalregister.gov/documents/2026/03/18/2026-05388/removing-regulatory-barriers-to-affordable-home-construction) (Tier 1)
@@ -84,7 +84,7 @@ The order notably sets no deadlines and requires no White House reporting from a
 > Developers who want to build on or near federally protected wetlands are the primary beneficiaries. The National Association of Home Builders (NAHB) immediately praised the order. Cross-reference NAR PAC Texas spending (from Finance Research). The manufactured homes carve-out benefits Clayton Homes (Berkshire Hathaway). Energy standard rollbacks benefit fossil fuel utilities over solar/efficiency installers.
 
 > [!contradiction] "Affordable housing" framing vs. developer subsidy
-> The EO is framed as affordability relief for families, but the primary mechanism is reducing environmental and energy protections on builders. No provision requires developers to pass cost savings to buyers. Historical deregulation of housing standards has not produced lower prices in high-demand markets — it has produced higher margins for developers.
+> The EO is framed as affordability relief for families, but the primary mechanism is reducing environmental and energy protections on builders. No provision requires developers to pass cost savings to buyers. Historical deregulation of housing standards has not produced lower prices in high-demand markets, it has produced higher margins for developers.
 
 - [White House: Fact Sheet. Removing Regulatory Barriers to Affordable Home Construction](https://www.whitehouse.gov/fact-sheets/2026/03/fact-sheet-president-donald-j-trump-removes-regulatory-barriers-to-affordable-home-construction/) (Tier 1)
 - [Federal Register: EO on Housing Construction](https://www.federalregister.gov/documents/2026/03/18/2026-05388/removing-regulatory-barriers-to-affordable-home-construction) (Tier 1)
@@ -121,7 +121,7 @@ On **March 20, 2026**, the White House released a legislative blueprint for a na
 The EO/blueprint itself lacks preemptive legal force, preemption would require congressional action. Roll Call and TechCrunch reported on this March 20.
 
 > [!money] Tech mega-donor policy return
-> Yesterday's Finance Research documented that OpenAI co-founder Greg Brockman donated $25M to MAGA Inc with zero prior political history, and Crypto.com parent Foris Dax donated $30M. The AI preemption framework — eliminating the California AI regulation regime and other state-level constraints — is the direct policy return on this investment. California has the most aggressive AI regulatory framework of any state. Connect to California Governor 2026 race where candidates' positions on AI regulation will matter.
+> Yesterday's Finance Research documented that OpenAI co-founder Greg Brockman donated $25M to MAGA Inc with zero prior political history, and Crypto.com parent Foris Dax donated $30M. The AI preemption framework, eliminating the California AI regulation regime and other state-level constraints, is the direct policy return on this investment. California has the most aggressive AI regulatory framework of any state. Connect to California Governor 2026 race where candidates' positions on AI regulation will matter.
 
 - [White House: National Policy Framework on AI (Sullivan & Cromwell)](https://www.sullcrom.com/insights/memo/2026/March/White-House-Releases-National-Policy-Framework-AI) (Tier 2)
 - [Roll Call: White House AI framework calls for preemption of state laws](https://rollcall.com/2026/03/20/white-house-ai-framework-calls-for-preemption-of-state-laws/) (Tier 2)
@@ -139,7 +139,7 @@ The EO/blueprint itself lacks preemptive legal force, preemption would require c
 **Olivier v. City of Brandon** (March 20, 2026): Procedural ruling on standing, prospective injunctive relief can proceed despite prior criminal conviction for violating the ordinance at issue.
 
 > [!money] Tariff ruling and donor class implications
-> The IEEPA tariff ruling is a major structural constraint on Trump's trade policy. Corporate donors — especially retail, manufacturing, and tech supply chain interests — stand to benefit from limiting tariff authority. However, fossil fuel interests and domestic steel/aluminum producers that benefited from protective tariffs lose leverage. Track how this ruling affects donor positioning in 2026 Senate races.
+> The IEEPA tariff ruling is a major structural constraint on Trump's trade policy. Corporate donors, especially retail, manufacturing, and tech supply chain interests, stand to benefit from limiting tariff authority. However, fossil fuel interests and domestic steel/aluminum producers that benefited from protective tariffs lose leverage. Track how this ruling affects donor positioning in 2026 Senate races.
 
 - [SCOTUSblog: Remaining questions after tariffs ruling](https://www.scotusblog.com/2026/03/the-remaining-questions-after-the-supreme-courts-tariffs-ruling/) (Tier 2)
 - [Justia: Learning Resources Inc. v. Trump](https://supreme.justia.com/cases/federal/us/607/24-1287/) (Tier 1)
@@ -155,10 +155,10 @@ As of March 20, 2026, ICE has signed **1,547 Memorandums of Agreement for 287(g)
 ICE detention is at a record 73,000+ people as of January 2026, up 75% year over year. NPR reporting from March 4 documented ICE's expanded surveillance infrastructure including mobile tracking systems.
 
 > [!money] Carceral state donor payoff
-> The private prison industry — GEO Group, CoreCivic — directly profits from detention expansion. 73,000 ICE detainees at private facility rates (~$100-150/person/day) represents ~$3-4B in annual contract revenue. Cross-reference with Carceral State donor network. The 287(g) expansion also has labor implications: local law enforcement capacity diverted to immigration enforcement means reduced resources for other public safety functions.
+> The private prison industry. GEO Group, CoreCivic, directly profits from detention expansion. 73,000 ICE detainees at private facility rates (~$100-150/person/day) represents ~$3-4B in annual contract revenue. Cross-reference with Carceral State donor network. The 287(g) expansion also has labor implications: local law enforcement capacity diverted to immigration enforcement means reduced resources for other public safety functions.
 
 > [!contradiction] Using Medicaid to deport Medicaid recipients
-> ICE using Medicaid records to locate deportation targets hits the same population that would lose coverage under reconciliation Medicaid cuts. Federal agencies sharing data across programs to remove people from the US, while simultaneously proposing to cut their healthcare — a compounding policy attack on the same low-income immigrant communities. Connect to [[UnitedHealth Group - Optum]] Medicaid managed care exposure.
+> ICE using Medicaid records to locate deportation targets hits the same population that would lose coverage under reconciliation Medicaid cuts. Federal agencies sharing data across programs to remove people from the US, while simultaneously proposing to cut their healthcare, a compounding policy attack on the same low-income immigrant communities. Connect to [[UnitedHealth Group - Optum]] Medicaid managed care exposure.
 
 - [NPR: ICE surveillance web](https://www.npr.org/2026/03/04/nx-s1-5717031/ice-dhs-immigrants-surveillance-confrontation-deportation-mobile-fortify) (Tier 2)
 - [ICE: 287(g) Program Data](https://www.ice.gov/identify-and-arrest/287g) (Tier 1)
@@ -174,7 +174,7 @@ CalMatters reported this week that single-payer healthcare has re-emerged as a c
 A separate California lawmaker introduced legislation to restore Medi-Cal to undocumented immigrants after the program was cut in earlier budget negotiations.
 
 > [!money] Single-payer and healthcare donor positioning
-> Vault-tracked healthcare industry donors [[UnitedHealth Group - Optum]], [[Anthem - Elevance Health]], [[Kaiser Permanente]], and [[Blue Shield of California]] are existentially threatened by single-payer. A Porter or progressive governor win in California would trigger massive industry spending against single-payer legislation. Track which CA governor candidates receive healthcare industry PAC money — this is the donor litmus test for 2026 CA race.
+> Vault-tracked healthcare industry donors [[UnitedHealth Group - Optum]], [[Anthem - Elevance Health]], [[Kaiser Permanente]], and [[Blue Shield of California]] are existentially threatened by single-payer. A Porter or progressive governor win in California would trigger massive industry spending against single-payer legislation. Track which CA governor candidates receive healthcare industry PAC money, this is the donor litmus test for 2026 CA race.
 
 - [CalMatters: Single-payer health care returns to California governor's race](https://calmatters.org/category/politics/2026/03/california-governor-single-payer-health-care/) (Tier 2)
 - [Times of San Diego: California cut health care for undocumented immigrants](https://timesofsandiego.com/health/2026/03/11/california-cut-health-care-undocumented-immigrants-lawmaker-wants-back/) (Tier 2)

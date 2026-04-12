@@ -24,7 +24,7 @@ Trump publicly distanced himself from Project 2025 during the campaign: "I know 
 
 ### Who Built It
 
-> [!money] Follow the Money — The Think Tank Pipeline
+> [!money] Follow the Money. The Think Tank Pipeline
 > **Heritage Foundation:** $4.8 million from Koch-affiliated donors (documented in [[Koch Network - Charles Koch|Koch Network]] node). Lead organizer and publisher.
 >
 > **Contributing organizations include:**
@@ -33,13 +33,13 @@ Trump publicly distanced himself from Project 2025 during the campaign: "I know 
 > - Hillsdale College
 > - America First Policy Institute (Trump's unofficial policy shop)
 > - Conservative Partnership Institute (Mark Meadows)
-> - Center for Renewing America (Russ Vought — later OMB Director)
+> - Center for Renewing America (Russ Vought, later OMB Director)
 > - Pacific Research Institute ($2.08M Koch funding, documented in Koch node)
 > - [[Federalist Society]] (judicial pipeline)
 > - Family Research Council
 > - National Right to Work Legal Defense Foundation (Koch-funded, brought Janus plaintiff)
 >
-> The organizational map IS the Koch network's "Kochtopus" documented elsewhere in the vault. Project 2025 is the policy document where five decades of Koch infrastructure — think tanks, legal organizations, media outlets, state policy networks — converge into a single operational plan.
+> The organizational map IS the Koch network's "Kochtopus" documented elsewhere in the vault. Project 2025 is the policy document where five decades of Koch infrastructure, think tanks, legal organizations, media outlets, state policy networks, converge into a single operational plan.
 
 ---
 

@@ -64,7 +64,7 @@ The critical structural point: **Bet-David's media company is funded by an MLM.*
 | 10/31/2012 | Bachmann for Congress (Michele Bachmann) | $500 | REP | PHP Agency |
 
 > [!money]
-> Bet-David's FEC record tells a clear political trajectory: Tea Party (Bachmann 2012) → Trump maxed-out (2020) → anti-establishment right (RFK Jr. 2023). The RFK Jr. donation is the most revealing — made while PBD was already publicly pro-Trump, it signals alignment with the populist-skeptic lane rather than traditional Republican politics. The employer field tracks his business evolution: PHP Agency (2012, 2020) → Valuetainment (2023). Unlike most right-wing media figures in this vault who show $0 personal FEC activity, PBD puts his money where his platform is — but $15K from a $100M+ fortune is symbolic, not sacrificial.
+> Bet-David's FEC record tells a clear political trajectory: Tea Party (Bachmann 2012) → Trump maxed-out (2020) → anti-establishment right (RFK Jr. 2023). The RFK Jr. donation is the most revealing, made while PBD was already publicly pro-Trump, it signals alignment with the populist-skeptic lane rather than traditional Republican politics. The employer field tracks his business evolution: PHP Agency (2012, 2020) → Valuetainment (2023). Unlike most right-wing media figures in this vault who show $0 personal FEC activity, PBD puts his money where his platform is, but $15K from a $100M+ fortune is symbolic, not sacrificial.
 
 - [FEC: Patrick Bet-David individual contributions (6 results)](https://www.fec.gov/data/receipts/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026individual-contributions/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?contributor_name=bet-david+patrick) (Tier 1)
 

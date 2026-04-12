@@ -16,7 +16,7 @@ donors: [[PhRMA]] · (Mylan, internal family firm)
 ### The Bresch-EpiPen Scandal and Family Enrichment
 
 > [!money]
-> Heather Bresch — [[_Joe Manchin Master Profile|Joe Manchin]]'s daughter — served as CEO of Mylan Pharmaceuticals. Under her leadership, Mylan raised the price of the EpiPen from $57 (2007) to $609 (2016) — a 391% increase for a life-saving medication with no significant competitor. Bresch's compensation reached $18.9 million annually. Manchin's response when questioned about the pricing: "I'm very proud of her." The senator represents one of the poorest states in America while his daughter extracted $18.9 million per year by pricing a life-saving drug beyond the reach of families like the ones he represents.
+> Heather Bresch, [[_Joe Manchin Master Profile|Joe Manchin]]'s daughter, served as CEO of Mylan Pharmaceuticals. Under her leadership, Mylan raised the price of the EpiPen from $57 (2007) to $609 (2016), a 391% increase for a life-saving medication with no significant competitor. Bresch's compensation reached $18.9 million annually. Manchin's response when questioned about the pricing: "I'm very proud of her." The senator represents one of the poorest states in America while his daughter extracted $18.9 million per year by pricing a life-saving drug beyond the reach of families like the ones he represents.
 
 ---
 
@@ -40,7 +40,7 @@ donors: [[PhRMA]] · (Mylan, internal family firm)
 **The MBA scandal:** In 2007, it was revealed that West Virginia University had retroactively awarded Heather Bresch an MBA she had not completed. Bresch had earned only 22 of 48 required credits. WVU's provost resigned over the scandal. The degree was rescinded. At the time, [[_Joe Manchin Master Profile|Joe Manchin]] was Governor of West Virginia, the state that funds WVU. The university's accreditation was briefly threatened.
 
 > [!contradiction]
-> West Virginia's governor's daughter received a degree she didn't earn from the state's flagship university — while her father controlled the state's budget. Years later, she became CEO of a pharmaceutical company that priced a life-saving medication beyond the reach of West Virginia families — the poorest in America. The Manchin family's enrichment operates through institutional capture at every level: state government, state university, pharmaceutical industry, and federal Senate.
+> West Virginia's governor's daughter received a degree she didn't earn from the state's flagship university, while her father controlled the state's budget. Years later, she became CEO of a pharmaceutical company that priced a life-saving medication beyond the reach of West Virginia families, the poorest in America. The Manchin family's enrichment operates through institutional capture at every level: state government, state university, pharmaceutical industry, and federal Senate.
 
 ---
 
@@ -54,7 +54,7 @@ Despite his daughter's pharmaceutical career, Manchin has never recused himself 
 - Career pharmaceutical industry contributions: included in broader healthcare donor totals
 
 > [!money]
-> The EpiPen scandal is the Manchin family's core contradiction in miniature: a senator from the poorest state, whose daughter became a multimillionaire by making a life-saving medication unaffordable for families in states like his own. Manchin's "pride" in Bresch's career is the tell — he sees pharmaceutical extraction not as a systemic failure but as a family achievement. The donor-class perspective is the family perspective.
+> The EpiPen scandal is the Manchin family's core contradiction in miniature: a senator from the poorest state, whose daughter became a multimillionaire by making a life-saving medication unaffordable for families in states like his own. Manchin's "pride" in Bresch's career is the tell, he sees pharmaceutical extraction not as a systemic failure but as a family achievement. The donor-class perspective is the family perspective.
 
 ---
 

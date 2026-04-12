@@ -31,7 +31,7 @@ American Water Works is the largest private water utility in the United States. 
 **Federal lobbying totals:** $100,000 (2025 Q1); $1.6 million annually (federal and state combined, 2022). (Tier 2)
 
 > [!money]
-> American Water spent $2.4 million in Monterey, California (2014) opposing a local ballot measure requiring public water ownership — outspending opponents 24-to-1. Voters rejected privatization regardless. (Tier 2)
+> American Water spent $2.4 million in Monterey, California (2014) opposing a local ballot measure requiring public water ownership, outspending opponents 24-to-1. Voters rejected privatization regardless. (Tier 2)
 
 ### The Chemical Industry's $114 Million Block
 
@@ -48,7 +48,7 @@ From 2019 to 2022, manufacturers of PFOA/PFOS ("forever chemicals") and their tr
 (Tier 2)
 
 > [!contradiction]
-> The PFAS Action Act passed the House twice (2019, 2021) with bipartisan support — then died in the Senate Environment and Public Works Committee. The 17 EPW Republicans received $400,000 from PFAS manufacturers and industry groups. The 10 EPW Democrats received $70,000. Neither amount is coincidental. (Tier 2)
+> The PFAS Action Act passed the House twice (2019, 2021) with bipartisan support, then died in the Senate Environment and Public Works Committee. The 17 EPW Republicans received $400,000 from PFAS manufacturers and industry groups. The 10 EPW Democrats received $70,000. Neither amount is coincidental. (Tier 2)
 
 **Shelley Moore Capito, the ranking Republican on EPW, received $85,900 from chemical companies. AND $5,000 from American Water Works in 2024.** She is simultaneously the single most industry-funded legislator on the committee with jurisdiction over both water privatization and PFAS regulation. (Tier 1)
 

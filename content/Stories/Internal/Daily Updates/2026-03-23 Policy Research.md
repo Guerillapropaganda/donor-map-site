@@ -24,10 +24,10 @@ The most consequential policy event of the day: Trump's 48-hour ultimatum for Ir
 **Reconciliation 2.0 hook:** House Armed Services Chair Mike D. Rogers and Senate Armed Services Chair Roger Wicker are pushing $450B for national security in a second reconciliation package. The Pentagon's $200B Iran supplemental request is being used to energize this stalled process. However, Ways and Means Chair Jason Smith told Axios there is no conference consensus to include defense spending in reconciliation, creating a real factional split.
 
 > [!money] Oil price windfall = fossil fuel donor payday
-> With Brent above $113 and WTI near $100, upstream producers [[ExxonMobil]], [[Chevron]], and donors like [[Kelcy Warren]] (Energy Transfer) are earning windfall profits directly attributable to the Hormuz closure. The war that [[Miriam Adelson]]'s $100M+ investment helped produce is now generating returns for the entire fossil fuel donor bloc. Meanwhile, downstream costs hit consumers — gas prices, heating, plastics, food production. The donor class profits while the working class pays.
+> With Brent above $113 and WTI near $100, upstream producers [[ExxonMobil]], [[Chevron]], and donors like [[Kelcy Warren]] (Energy Transfer) are earning windfall profits directly attributable to the Hormuz closure. The war that [[Miriam Adelson]]'s $100M+ investment helped produce is now generating returns for the entire fossil fuel donor bloc. Meanwhile, downstream costs hit consumers, gas prices, heating, plastics, food production. The donor class profits while the working class pays.
 
 > [!contradiction] Defense hawks vs. fiscal hawks
-> The $200B supplemental + $450B reconciliation 2.0 defense ask totals $650B in new military spending. This directly contradicts DOGE's stated mission of cutting federal spending. [[Lockheed Martin]], [[Boeing]], and defense PAC donors win either way — the war creates its own funding mechanism regardless of fiscal conservative objections.
+> The $200B supplemental + $450B reconciliation 2.0 defense ask totals $650B in new military spending. This directly contradicts DOGE's stated mission of cutting federal spending. [[Lockheed Martin]], [[Boeing]], and defense PAC donors win either way, the war creates its own funding mechanism regardless of fiscal conservative objections.
 
 - [Al Jazeera: Day 24 of US-Israel attacks on Iran](https://www.aljazeera.com/economy/2026/3/23/iran-war-whats-happening-on-day-24-of-us-israel-attacks) (Tier 2)
 - [CNBC: Oil prices rise as Trump's Hormuz ultimatum keeps markets on edge](https://www.cnbc.com/2026/03/23/oil-prices-trump-iran-strait-of-hormuz-wti-crude-middle-east-lng-gas.html) (Tier 2)
@@ -51,7 +51,7 @@ On March 17, SEC Chair Paul Atkins announced "Regulation Crypto Assets", a sweep
 > [[Fairshake PAC|Fairshake]] spent $170M+ in the 2024 cycle targeting crypto-skeptical candidates in both parties. [[a16z - Andreessen Horowitz|a16z]] (Andreessen Horowitz) was the largest single funder. The SEC safe harbor is the direct policy return: reduced regulation, favorable classification, and a startup exemption that protects the exact business model a16z's portfolio companies use. Cross-reference with [[Contradiction 06 - Crypto Industry Buys Both Parties in One Cycle]] and [[Contradiction 09 - Tech Billionaires Switch Parties on Regulatory Self-Interest]].
 
 > [!contradiction] "Innovation" framing hides investor protection rollback
-> The safe harbor allows crypto projects to raise capital with "principles-based disclosures" instead of standard SEC registration. This is precisely the deregulation that enabled previous crypto collapses (FTX, Terra/Luna). The SEC is now officially prioritizing issuer convenience over investor protection — at the direction of donors who profit from that arrangement.
+> The safe harbor allows crypto projects to raise capital with "principles-based disclosures" instead of standard SEC registration. This is precisely the deregulation that enabled previous crypto collapses (FTX, Terra/Luna). The SEC is now officially prioritizing issuer convenience over investor protection, at the direction of donors who profit from that arrangement.
 
 - [SEC: Regulation Crypto Assets. A Token Safe Harbor (Atkins remarks)](https://www.sec.gov/newsroom/speeches-statements/atkins-remarks-regulation-crypto-assets-031726) (Tier 1)
 - [SEC: Press Release. SEC Clarifies Application of Federal Securities Laws to Crypto Assets](https://www.sec.gov/newsroom/press-releases/2026-30-sec-clarifies-application-federal-securities-laws-crypto-assets) (Tier 1)
@@ -93,7 +93,7 @@ The "One Big Beautiful Bill Act" (H.R.1), signed July 4, 2025, is entering its i
 CBO estimates: 11.8 million people will lose Medicaid directly + 3.1 million more lose marketplace coverage. Urban safety-net hospitals face devastating cuts to disproportionate share hospital (DSH) payments.
 
 > [!money] Who profits from Medicaid cuts
-> Private insurers like [[UnitedHealth Group - Optum]], [[Anthem - Elevance Health]], and the [[PBM Industry Bloc - OptumRx, CVS Caremark, Express Scripts]] benefit from pushing people off public coverage into private plans (or no coverage). The work requirements will generate a massive administrative apparatus — eligibility verification contracts are a revenue source for private contractors. Meanwhile, the $1T in Medicaid savings funds the tax cuts that flow primarily to the donor class: the richest 1% receive $121B in 2026 tax cuts vs. $56B for the entire middle 20%.
+> Private insurers like [[UnitedHealth Group - Optum]], [[Anthem - Elevance Health]], and the [[PBM Industry Bloc - OptumRx, CVS Caremark, Express Scripts]] benefit from pushing people off public coverage into private plans (or no coverage). The work requirements will generate a massive administrative apparatus, eligibility verification contracts are a revenue source for private contractors. Meanwhile, the $1T in Medicaid savings funds the tax cuts that flow primarily to the donor class: the richest 1% receive $121B in 2026 tax cuts vs. $56B for the entire middle 20%.
 
 - [Georgetown CCF: Medicaid and CHIP Cuts Explained](https://ccf.georgetown.edu/2025/05/27/medicaid-and-chip-cuts-in-the-house-passed-reconciliation-bill-explained/) (Tier 2)
 - [AMA: Changes to Medicaid, ACA in One Big Beautiful Bill Act](https://www.ama-assn.org/health-care-advocacy/federal-advocacy/changes-medicaid-aca-and-other-key-provisions-one-big) (Tier 2)
@@ -145,7 +145,7 @@ The NLRB published its Fair Choice–Employee Voice Final Rule, restoring three 
 However, the rule's practical impact is questionable given DOGE workforce reductions at the NLRB itself. The agency has faced staff cuts and case processing delays that undermine enforcement regardless of what rules are on the books.
 
 > [!contradiction] Rules without enforcement
-> The NLRB can write pro-worker rules, but without staff to investigate unfair labor practice charges and prosecute violations, the rules are decorative. This is the DOGE playbook: don't repeal the law, just defund the enforcer. The practical beneficiary is every employer fighting unionization — including vault-tracked gig economy donors [[Uber]], [[Lyft]], [[DoorDash]] and the [[Flex Association]].
+> The NLRB can write pro-worker rules, but without staff to investigate unfair labor practice charges and prosecute violations, the rules are decorative. This is the DOGE playbook: don't repeal the law, just defund the enforcer. The practical beneficiary is every employer fighting unionization, including vault-tracked gig economy donors [[Uber]], [[Lyft]], [[DoorDash]] and the [[Flex Association]].
 
 - [NLRB: Fair Choice–Employee Voice Final Rule](https://www.nlrb.gov/news-outreach/news-story/nlrb-issues-fair-choice-employee-voice-final-rule) (Tier 1)
 - [National Law Review: Top 3 Labor Law Developments to Watch in 2026](https://natlawreview.com/article/top-3-labor-law-developments-watch-2026) (Tier 2)

@@ -54,7 +54,7 @@ Medicare for All was central to her brand.
 > - Savings from eliminating administrative waste
 > - Total estimated cost: $20.5 trillion over 10 years
 >
-> The plan was her answer to the moderate critique that Medicare for All was unaffordable. She had costed it out. She had a mechanism to pay for it. This was the "I have a plan for that" version of Medicare for All — no longer a Sanders-style demand, but a Warren-style specification.
+> The plan was her answer to the moderate critique that Medicare for All was unaffordable. She had costed it out. She had a mechanism to pay for it. This was the "I have a plan for that" version of Medicare for All, no longer a Sanders-style demand, but a Warren-style specification.
 
 ---
 
@@ -78,9 +78,9 @@ Medicare for All went from her immediate policy goal to something she would purs
 - The commitment became conditional: "by her third year", a escape clause if political conditions changed
 
 > [!contradiction]
-> **The Timing of the Retreat:** Warren announced the retreat mid-November 2019, exactly when her campaign faced the most critical decision point: could she maintain progressive primary support while remaining acceptable to Democratic establishment donors and the donor-class consolidation already forming around Biden? Super Tuesday would occur March 3, 2020 — roughly 3.5 months later. Between mid-November 2019 and Super Tuesday, the consolidation dynamics would crystallize.
+> **The Timing of the Retreat:** Warren announced the retreat mid-November 2019, exactly when her campaign faced the most critical decision point: could she maintain progressive primary support while remaining acceptable to Democratic establishment donors and the donor-class consolidation already forming around Biden? Super Tuesday would occur March 3, 2020, roughly 3.5 months later. Between mid-November 2019 and Super Tuesday, the consolidation dynamics would crystallize.
 >
-> The retreat wasn't from the left — progressive activists and Sanders campaign criticized it immediately. The retreat was toward the Democratic establishment middle. It signaled to Obama network operatives, Wall Street-aligned party officials, and institutional Democratic infrastructure: "I am not a threat to the healthcare industry. I can be managed."
+> The retreat wasn't from the left, progressive activists and Sanders campaign criticized it immediately. The retreat was toward the Democratic establishment middle. It signaled to Obama network operatives, Wall Street-aligned party officials, and institutional Democratic infrastructure: "I am not a threat to the healthcare industry. I can be managed."
 
 ---
 

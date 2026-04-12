@@ -94,7 +94,7 @@ Democrats need to flip 4 seats. The clearest flip opportunities are:
 3. **Open seats:** Any open Republican seat in a Democratic-trending district is a pickup opportunity.
 
 > [!contradiction]
-> The DCCC's "Red to Blue" focus on 12 candidates contradicts the actual electoral math. Democrats need 4 flips. Yet the DCCC is funding candidates in 12 districts — many of which (MT-1, TN-5, AZ-2) are in Republican-coded seats where Democratic flips are long shots. This suggests the DCCC's strategy is aspirational rather than probabilistic. They are positioning to capitalize if a major wave emerges (e.g., Trump approval collapses). But absent that wave, Democrats will likely fall short of the 4-seat threshold.
+> The DCCC's "Red to Blue" focus on 12 candidates contradicts the actual electoral math. Democrats need 4 flips. Yet the DCCC is funding candidates in 12 districts, many of which (MT-1, TN-5, AZ-2) are in Republican-coded seats where Democratic flips are long shots. This suggests the DCCC's strategy is aspirational rather than probabilistic. They are positioning to capitalize if a major wave emerges (e.g., Trump approval collapses). But absent that wave, Democrats will likely fall short of the 4-seat threshold.
 
 ### House Majority PAC's Spending Strategy
 

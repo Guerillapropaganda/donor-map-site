@@ -58,7 +58,7 @@ Phillip's income derives entirely from institutional corporate media employment:
 No FEC individual contributions found. The FEC API returns 0 results for both "PHILIP, ABBY" and "PHILLIP, ABBY." This confirms $0 personal political giving, consistent with other corporate centrist CNN anchors (Chris Cuomo: $0, Ezra Klein: $0). For a journalist who has covered campaign finance at Politico, moderated a national primary debate, and written a book about Black political power, $0 in personal political contributions is analytically significant: CNN anchors do not make donations precisely because they are institutional products, not independent political actors.
 
 > [!money]
-> Abby Phillip covered campaign finance for Politico. She anchors a primetime show analyzing political money every night. She wrote a book about a candidate who ran on small-dollar grassroots funding. Her own FEC record: $0. This is not coincidence — it's institutional identity. CNN anchors are not permitted to have visible political preferences because their value to the network depends on the appearance of neutrality. The corporate sponsor (Warner Bros. Discovery / Paramount incoming) requires this performance of objectivity. $0 is the price of the anchor desk.
+> Abby Phillip covered campaign finance for Politico. She anchors a primetime show analyzing political money every night. She wrote a book about a candidate who ran on small-dollar grassroots funding. Her own FEC record: $0. This is not coincidence, it's institutional identity. CNN anchors are not permitted to have visible political preferences because their value to the network depends on the appearance of neutrality. The corporate sponsor (Warner Bros. Discovery / Paramount incoming) requires this performance of objectivity. $0 is the price of the anchor desk.
 
 - [FEC: Abby Phillip individual contributions (0 results)](https://www.fec.gov/data/receipts/?contributor_name=PHILLIP%2C+ABBY) (Tier 1)
 
@@ -169,7 +169,7 @@ The Paramount acquisition is the denouement. Under WBD, CNN moderated. Under Par
 | Oct 2025 | *A Dream Deferred* published | Phillip + Flatiron Books | Advance undisclosed | Book celebrates left-populist Jackson campaign; anchored simultaneously in network that suppressed left-populism in 2020 debate |
 
 > [!money]
-> The most important dollar figure in Abby Phillip's story is not her salary — it's AT&T's $85B purchase of Time Warner in 2018, followed by the $43B sale to Discovery in 2022. That $42B swing restructured CNN around corporate advertiser needs, fired Don Lemon, and produced the "neutrality" mandate that shapes every editorial decision Phillip makes on air. The money that changed CNN's character wasn't ad revenue or anchor salaries — it was telecom M&A. Phillip's career plays out inside a media institution whose editorial values were set by telecom bankers, not journalists.
+> The most important dollar figure in Abby Phillip's story is not her salary, it's AT&T's $85B purchase of Time Warner in 2018, followed by the $43B sale to Discovery in 2022. That $42B swing restructured CNN around corporate advertiser needs, fired Don Lemon, and produced the "neutrality" mandate that shapes every editorial decision Phillip makes on air. The money that changed CNN's character wasn't ad revenue or anchor salaries, it was telecom M&A. Phillip's career plays out inside a media institution whose editorial values were set by telecom bankers, not journalists.
 
 ---
 

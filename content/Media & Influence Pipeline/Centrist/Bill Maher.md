@@ -64,7 +64,7 @@ FEC API returns 156 raw results for "Bill Maher" (OpenSecrets ID: D000071834, Bi
 
 - [FEC: Bill Maher Productions individual contributions (156 results, $1,119,058.48 raw)](https://www.fec.gov/data/receipts/?contributor_name=maher%2C+bill) (Tier 1)
 
-> **Note on API results:** The FEC API search for "bill maher" or "maher, bill" returns 156 raw results (~$1.1M aggregate). All results match Bill Maher Productions employer (OpenSecrets ID: D000071834). Contributions span 2004-2024, all verified as belonging to the HBO host. No disambiguation needed — employer identification confirms all results are the media figure.
+> **Note on API results:** The FEC API search for "bill maher" or "maher, bill" returns 156 raw results (~$1.1M aggregate). All results match Bill Maher Productions employer (OpenSecrets ID: D000071834). Contributions span 2004-2024, all verified as belonging to the HBO host. No disambiguation needed, employer identification confirms all results are the media figure.
 
 ---
 
@@ -127,7 +127,7 @@ Maher's audience capture runs through two interlocking mechanisms:
 Maher's audience self-selects for people who want to feel liberal while being validated in their frustration with the left. Fox News regularly clips his attacks on progressive positions. AEI praises him. Right-wing media amplifies his "woke" critiques and ignores his pro-choice or Trump-critical segments. This creates a brand loop: the more Maher attacks the left, the more right-wing amplification he gets, the more he's framed as a "brave truth-teller," the more his brand is validated. The donor class benefits from this loop without funding him directly.
 
 > [!money]
-> Maher earns $10M/year from WBD for content that: (1) attacks the left's cultural politics, (2) validates "both sides" centrism, (3) serves as the liberal establishment's self-critique channel. He does not need to be paid by Koch or the Chamber of Commerce. His income structure already produces the content the donor class needs — all while wearing a "liberal" label that makes it far more effective than the same content from a right-wing source.
+> Maher earns $10M/year from WBD for content that: (1) attacks the left's cultural politics, (2) validates "both sides" centrism, (3) serves as the liberal establishment's self-critique channel. He does not need to be paid by Koch or the Chamber of Commerce. His income structure already produces the content the donor class needs, all while wearing a "liberal" label that makes it far more effective than the same content from a right-wing source.
 
 ---
 
@@ -148,7 +148,7 @@ Maher's audience self-selects for people who want to feel liberal while being va
 | May 2025 | Club Random Studios shuts down | Maher, Studio71 |, | "Uncancellable" network cancelled in under 2 years; heterodox brand insufficient to sustain commercial podcast business |
 
 > [!money]
-> Maher's two $1M political donations (2012 Obama PAC, 2018 Senate PAC) total $2M in documented Democratic giving — less than 1.5% of his estimated $140M net worth accumulated during the same period. His "liberal donor" identity costs him almost nothing while purchasing significant political brand credibility. The real financial relationship runs in reverse: the Democratic establishment and its donor class created the HBO liberal-entertainment environment in which Maher's $10M/year salary is possible.
+> Maher's two $1M political donations (2012 Obama PAC, 2018 Senate PAC) total $2M in documented Democratic giving, less than 1.5% of his estimated $140M net worth accumulated during the same period. His "liberal donor" identity costs him almost nothing while purchasing significant political brand credibility. The real financial relationship runs in reverse: the Democratic establishment and its donor class created the HBO liberal-entertainment environment in which Maher's $10M/year salary is possible.
 
 ---
 
@@ -168,7 +168,7 @@ Maher's audience self-selects for people who want to feel liberal while being va
 - A liberal audience that has been trained to regard anti-Muslim bias as secularism rather than foreign policy alignment
 
 > [!contradiction]
-> Maher positioned Club Random Studios as "uncancellable" — a platform specifically designed to exist outside the constraints of corporate media that he claims have muzzled other voices. It was funded through Studio71, a subsidiary of a German media conglomerate (ProSiebenSat.1), and shut down in under 2 years. The "independent media" brand was corporate media with better PR.
+> Maher positioned Club Random Studios as "uncancellable", a platform specifically designed to exist outside the constraints of corporate media that he claims have muzzled other voices. It was funded through Studio71, a subsidiary of a German media conglomerate (ProSiebenSat.1), and shut down in under 2 years. The "independent media" brand was corporate media with better PR.
 
 ---
 

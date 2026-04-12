@@ -32,7 +32,7 @@ On September 10, 2025, Husted voted against a bipartisan Senate amendment that w
 The amendment was bipartisan, meaning it crossed party lines, making Husted's vote against it particularly noteworthy. His opposition placed protecting a donor's interests above transparency and potential victim protection. [Source: The New Republic](https://newrepublic.com/post/206564/maga-senator-donation-epstein-conspirator-vote-block-files) (Tier 2).
 
 > [!contradiction]
-> Husted received $3,500 from Les Wexner on July 3, 2025. Two months later, on September 10, 2025, he voted to block the release of Epstein investigation documents. In November 2025, after Senate Majority Leader Schumer requested unanimous consent to release the Epstein files, Husted did not object—meaning he signed off by default. This shows two-faced positioning: when donor pressure is direct (July → September), Husted blocks transparency; when party leadership moves and public attention is unavoidable (November), he allows the files to be released without putting his name on it.
+> Husted received $3,500 from Les Wexner on July 3, 2025. Two months later, on September 10, 2025, he voted to block the release of Epstein investigation documents. In November 2025, after Senate Majority Leader Schumer requested unanimous consent to release the Epstein files, Husted did not object, meaning he signed off by default. This shows two-faced positioning: when donor pressure is direct (July → September), Husted blocks transparency; when party leadership moves and public attention is unavoidable (November), he allows the files to be released without putting his name on it.
 
 ### Wexner's Status in the Epstein Investigation
 
@@ -47,7 +47,7 @@ After the controversy erupted in early 2026, Husted's campaign responded with a 
 This response exemplifies the donor-accountability contradiction: the donation was "problematic," so it gets laundered through a charitable organization with mission-alignment to trafficking survivors. But the structural problem remains, Husted accepted the money in the first place and voted accordingly. The charitable donation is damage control, not accountability.
 
 > [!quote]
-> "Husted's campaign told 10TV that he had donated $34,300 in combined contributions from Les and Abigail Wexner—including the $3,500 from last July—to Freedom a la Cart Cafe." — WKYC reporting on Husted's response to the controversy. This converts a donor liability into a narrative of moral conscience, without addressing the vote itself or why the donation was accepted in July.
+> "Husted's campaign told 10TV that he had donated $34,300 in combined contributions from Les and Abigail Wexner, including the $3,500 from last July, to Freedom a la Cart Cafe.". WKYC reporting on Husted's response to the controversy. This converts a donor liability into a narrative of moral conscience, without addressing the vote itself or why the donation was accepted in July.
 
 ### Class Analysis: What This Relationship Reveals
 

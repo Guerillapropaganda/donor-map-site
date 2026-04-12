@@ -45,7 +45,7 @@ This cycle repeats with each controversy. The controversies are not incidental t
 - Controversy spikes are clearly visible in her quarterly fundraising data
 
 > [!money]
-> Greene's fundraising numbers are simultaneously impressive and misleading. ProPublica reported that her email marketing vendor took as much as 80 cents on the dollar — meaning of the $12.5M raised in 2022, potentially $10M went to the email vendor rather than the campaign. The "fundraising machine" is partly a vendor enrichment operation: the more controversy-triggered donations, the more the vendor charges for managing the email list. The headline numbers suggest enormous grassroots support; the net numbers, after vendor fees, are substantially smaller. This doesn't change the political significance (she controls the list and the media presence), but it complicates the "small-dollar power" narrative.
+> Greene's fundraising numbers are simultaneously impressive and misleading. ProPublica reported that her email marketing vendor took as much as 80 cents on the dollar, meaning of the $12.5M raised in 2022, potentially $10M went to the email vendor rather than the campaign. The "fundraising machine" is partly a vendor enrichment operation: the more controversy-triggered donations, the more the vendor charges for managing the email list. The headline numbers suggest enormous grassroots support; the net numbers, after vendor fees, are substantially smaller. This doesn't change the political significance (she controls the list and the media presence), but it complicates the "small-dollar power" narrative.
 
 ---
 

@@ -76,7 +76,7 @@ CNA's political operation spends $10-20M per cycle on California and federal cam
 | Net Assets | $464.3M |
 | Officer Compensation | $6.1M |
 
-- [Source: ProPublica Nonprofit Explorer — EIN 940362060](https://projects.propublica.org/nonprofits/organizations/940362060) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer - EIN 940362060](https://projects.propublica.org/nonprofits/organizations/940362060) (Tier 1)
 - [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F940362060_202306_990O_2024061822539914.pdf) (Tier 1)
 
 <!-- auto:propublica-990 end -->
@@ -131,14 +131,14 @@ CNA's political operation spends $10-20M per cycle on California and federal cam
 
 | Recipient | Amount | Party |
 |-----------|--------|-------|
-| VOTE NURSES VALUES POLITICAL ACTION COMMITTEE: CALIFORNIA NURSES ASSOCIATION | $13,870,000 | — |
-| BE A HERO PAC | $5,202,500 | — |
-| TEXAS ORGANIZING PROJECT POLITICAL ACTION COMMITTEE | $250,000 | — |
-| NEWSOM FOR CALIFORNIA GOVERNOR 2022 | $129,600 | — |
-| PROGRESSIVE KICK INDEPENDENT EXPENDITURES | $125,000 | — |
-| POPULAR DEMOCRACY PAC | $100,000 | — |
-| GRASSROOTS ORGANIZING WINS (GROWPAC) | $100,000 | — |
-| CHANGE CALIFORNIA NOW | $25,000 | — |
+| VOTE NURSES VALUES POLITICAL ACTION COMMITTEE: CALIFORNIA NURSES ASSOCIATION | $13,870,000 | - |
+| BE A HERO PAC | $5,202,500 | - |
+| TEXAS ORGANIZING PROJECT POLITICAL ACTION COMMITTEE | $250,000 | - |
+| NEWSOM FOR CALIFORNIA GOVERNOR 2022 | $129,600 | - |
+| PROGRESSIVE KICK INDEPENDENT EXPENDITURES | $125,000 | - |
+| POPULAR DEMOCRACY PAC | $100,000 | - |
+| GRASSROOTS ORGANIZING WINS (GROWPAC) | $100,000 | - |
+| CHANGE CALIFORNIA NOW | $25,000 | - |
 | CALIFORNIA DEMOCRATIC PARTY | $10,130 | DEM |
 | JEFF MERKLEY FOR OREGON | $7,500 | DEM |
 
@@ -161,20 +161,20 @@ CNA's political operation spends $10-20M per cycle on California and federal cam
 
 **Funded politicians:**
 
-- [[Gavin Newsom]] — lobbying: $10.4M
-- [[Jeff Merkley]] (Budget, Environment & Public Works) — lobbying: $10.4M
-- [[Sherrod Brown]] — lobbying: $10.4M
-- [[Barbara Lee]] — lobbying: $10.4M
-- [[Mike Lee]] (Antitrust (Judiciary)) — lobbying: $10.4M
-- [[Maxine Waters]] — lobbying: $10.4M
-- [[Eric Swalwell]] — lobbying: $10.4M
+- [[Gavin Newsom]] - lobbying: $10.4M
+- [[Jeff Merkley]] (Budget, Environment & Public Works) - lobbying: $10.4M
+- [[Sherrod Brown]] - lobbying: $10.4M
+- [[Barbara Lee]] - lobbying: $10.4M
+- [[Mike Lee]] (Antitrust (Judiciary)) - lobbying: $10.4M
+- [[Maxine Waters]] - lobbying: $10.4M
+- [[Eric Swalwell]] - lobbying: $10.4M
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-09.*
 <!-- auto:influence-cross-ref end -->
 
 <!-- auto:influence-cross-ref pending-merge 2026-04-12 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+> [!attention] Fresh API data available - needs manual merge
+> Bot detected your edits to this section. New data below - fold in what's useful, then delete this block.
 
 | Metric | Value |
 |--------|-------|
@@ -190,13 +190,13 @@ CNA's political operation spends $10-20M per cycle on California and federal cam
 
 **Funded politicians:**
 
-- [[Gavin Newsom]] — lobbying: $10.4M
-- [[Jeff Merkley]] (Budget, Environment & Public Works) — lobbying: $10.4M
-- [[Sherrod Brown]] — lobbying: $10.4M
-- [[Barbara Lee]] — lobbying: $10.4M
-- [[Mike Lee]] (Antitrust (Judiciary)) — lobbying: $10.4M
-- [[Maxine Waters]] — lobbying: $10.4M
-- [[Eric Swalwell]] — lobbying: $10.4M
+- [[Gavin Newsom]] - lobbying: $10.4M
+- [[Jeff Merkley]] (Budget, Environment & Public Works) - lobbying: $10.4M
+- [[Sherrod Brown]] - lobbying: $10.4M
+- [[Barbara Lee]] - lobbying: $10.4M
+- [[Mike Lee]] (Antitrust (Judiciary)) - lobbying: $10.4M
+- [[Maxine Waters]] - lobbying: $10.4M
+- [[Eric Swalwell]] - lobbying: $10.4M
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-12.*
 
@@ -212,8 +212,8 @@ CNA's political operation spends $10-20M per cycle on California and federal cam
 | Agencies | National Labor Relations Board |
 
 **Recent regulatory activity:**
-- [Representation-Case Procedures: Voter List Contact Information; Absentee Ballots for Employees on Military Leave](https://www.federalregister.gov/documents/2020/07/29/2020-15596/representation-case-procedures-voter-list-contact-information-absentee-ballots-for-employees-on) (2020-07-29) — National Labor Relations Board ★
-- [Representation-Case Procedures](https://www.federalregister.gov/documents/2014/12/15/2014-28777/representation-case-procedures) (2014-12-15) — National Labor Relations Board ★
+- [Representation-Case Procedures: Voter List Contact Information; Absentee Ballots for Employees on Military Leave](https://www.federalregister.gov/documents/2020/07/29/2020-15596/representation-case-procedures-voter-list-contact-information-absentee-ballots-for-employees-on) (2020-07-29) - National Labor Relations Board ★
+- [Representation-Case Procedures](https://www.federalregister.gov/documents/2014/12/15/2014-28777/representation-case-procedures) (2014-12-15) - National Labor Relations Board ★
 
 - [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22California%20Nurses%20Association%22) (Tier 1)
 <!-- auto:federal-register end -->
@@ -227,11 +227,11 @@ CNA's political operation spends $10-20M per cycle on California and federal cam
 
 **Notable filings:**
 
-- 2011-05-03 — **XML**: IDEA: Claims and Lawsuits
-- 2011-08-02 — **10-Q**: FORM 10-Q
-- 2011-04-12 — **EX-99.1**: EX-99.1
-- 2004-06-14 — **EX-99.1**: EXHIBIT 99.1
-- 2004-09-02 — **EX-99.1**: EXHIBIT 99.1
+- 2011-05-03 - **XML**: IDEA: Claims and Lawsuits
+- 2011-08-02 - **10-Q**: FORM 10-Q
+- 2011-04-12 - **EX-99.1**: EX-99.1
+- 2004-06-14 - **EX-99.1**: EXHIBIT 99.1
+- 2004-09-02 - **EX-99.1**: EXHIBIT 99.1
 
 - [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22California%20Nurses%20Association%22) (Tier 1)
 <!-- auto:sec-edgar end -->

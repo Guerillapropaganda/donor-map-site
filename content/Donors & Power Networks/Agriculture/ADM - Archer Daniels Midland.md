@@ -53,7 +53,7 @@ Preservation and expansion of the Renewable Fuel Standard (ethanol mandate), fav
 **Price-Fixing Legacy:** ADM was convicted of lysine and citric acid price-fixing in 1996, paying $100 million in fines, the largest criminal antitrust fine at the time. Three ADM executives were imprisoned. The scandal (documented in the film "The Informant!") revealed the commodity industry's structural tendency toward price manipulation, a tendency that the ABCD group's market concentration enables.
 
 > [!money]
-> The ethanol mandate diverts 40% of the US corn crop — approximately 5 billion bushels annually — to fuel production. This diversion increases corn prices (benefiting ADM's grain trading), creates guaranteed demand for ethanol (benefiting ADM's processing), and raises food costs for consumers (who pay more for corn-fed meat, corn syrup, and corn-based products). ADM's $3-5 million annual lobbying investment in preserving the ethanol mandate generates billions in guaranteed revenue. The mandate survives because Iowa — the largest corn state — holds the first presidential caucus, making ethanol opposition political suicide for presidential candidates.
+> The ethanol mandate diverts 40% of the US corn crop, approximately 5 billion bushels annually, to fuel production. This diversion increases corn prices (benefiting ADM's grain trading), creates guaranteed demand for ethanol (benefiting ADM's processing), and raises food costs for consumers (who pay more for corn-fed meat, corn syrup, and corn-based products). ADM's $3-5 million annual lobbying investment in preserving the ethanol mandate generates billions in guaranteed revenue. The mandate survives because Iowa, the largest corn state, holds the first presidential caucus, making ethanol opposition political suicide for presidential candidates.
 
 ---
 
@@ -80,7 +80,7 @@ Preservation and expansion of the Renewable Fuel Standard (ethanol mandate), fav
 
 **Agencies contacted:** Centers For Medicare and Medicaid Services (CMS), Commerce, Dept of (DOC), Consumer Financial Protection Bureau (CFPB), Education, Dept of, Executive Office of the President (EOP), Federal Communications Commission (FCC), Food & Drug Administration (FDA), HOUSE OF REPRESENTATIVES, Health & Human Services, Dept of (HHS), Housing & Urban Development, Dept of (HUD) +7 more
 
-- ~~[Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=ADM%20-%20Archer%20Daniels%20Midland)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=ADM%20-%20Archer%20Daniels%20Midland)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
 <!-- auto:lda-lobbying end -->
 
 ### Influence Network (Cross-Reference)
@@ -97,14 +97,14 @@ Preservation and expansion of the Renewable Fuel Standard (ethanol mandate), fav
 
 **Funded politicians:**
 
-- [[Dick Durbin]] (Judiciary) — lobbying: $2.1M
+- [[Dick Durbin]] (Judiciary) - lobbying: $2.1M
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-09.*
 <!-- auto:influence-cross-ref end -->
 
 <!-- auto:influence-cross-ref pending-merge 2026-04-12 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+> [!attention] Fresh API data available - needs manual merge
+> Bot detected your edits to this section. New data below - fold in what's useful, then delete this block.
 
 | Metric | Value |
 |--------|-------|
@@ -118,7 +118,7 @@ Preservation and expansion of the Renewable Fuel Standard (ethanol mandate), fav
 
 **Funded politicians:**
 
-- [[Dick Durbin]] (Judiciary) — lobbying: $2.1M
+- [[Dick Durbin]] (Judiciary) - lobbying: $2.1M
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-12.*
 
@@ -144,7 +144,7 @@ Preservation and expansion of the Renewable Fuel Standard (ethanol mandate), fav
 - Ultimate Parent: [ARCHER-DANIELS-MIDLAND COMPANY](https://search.gleif.org/#/record/549300LO13MQ9HYSTR83) (VERIFIED) (US-DE)
 - Công ty TNHH Archer Daniels Midland VN (this entity)
 
-- ~~[Source: GLEIF](https://www.gleif.org/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[Source: GLEIF](https://www.gleif.org/)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
 <!-- auto:gleif-lei end -->
 
 ### Federal Register Activity
@@ -156,12 +156,12 @@ Preservation and expansion of the Renewable Fuel Standard (ethanol mandate), fav
 | Agencies | Securities and Exchange Commission |
 
 **Recent regulatory activity:**
-- [Self-Regulatory Organizations; NYSE Amex LLC; Notice of Filing and Immediate Effectiveness of Proposed Rule Change Adding 75 Options Classes to the Penny Pilot Program](https://www.federalregister.gov/documents/2010/08/10/2010-19604/self-regulatory-organizations-nyse-amex-llc-notice-of-filing-and-immediate-effectiveness-of-proposed) (VERIFIED) (2010-08-10) — Securities and Exchange Commission
-- [Self-Regulatory Organizations; NYSE Arca, Inc.; Notice of Filing and Immediate Effectiveness of Proposed Rule Change Adding 75 Options Classes to the Penny Pilot Program](https://www.federalregister.gov/documents/2010/08/10/2010-19603/self-regulatory-organizations-nyse-arca-inc-notice-of-filing-and-immediate-effectiveness-of-proposed) (VERIFIED) (2010-08-10) — Securities and Exchange Commission
-- [Self-Regulatory Organizations; NASDAQ OMX BX, Inc.; Notice of Filing and Immediate Effectiveness of a Proposed Rule Change To Add 75 Classes to the Penny Pilot Program](https://www.federalregister.gov/documents/2010/08/09/2010-19519/self-regulatory-organizations-nasdaq-omx-bx-inc-notice-of-filing-and-immediate-effectiveness-of-a) (VERIFIED) (2010-08-09) — Securities and Exchange Commission
-- [Self-Regulatory Organizations; NASDAQ OMX PHLX, Inc.; Notice of Filing and Immediate Effectiveness of Proposed Rule Change To Add Seventy-Five Options Classes to the Penny Pilot Program](https://www.federalregister.gov/documents/2010/08/06/2010-19371/self-regulatory-organizations-nasdaq-omx-phlx-inc-notice-of-filing-and-immediate-effectiveness-of) (VERIFIED) (2010-08-06) — Securities and Exchange Commission
-- [Self-Regulatory Organizations; The NASDAQ Stock Market LLC; Notice of Filing and Immediate Effectiveness of a Proposed Rule Change To Add Seventy-Five Options Classes to the Penny Pilot Program](https://www.federalregister.gov/documents/2010/08/06/2010-19334/self-regulatory-organizations-the-nasdaq-stock-market-llc-notice-of-filing-and-immediate) (VERIFIED) (2010-08-06) — Securities and Exchange Commission
-- ~~[Self-Regulatory Organizations; Chicago Board Options Exchange, Incorporated; Notice of Filing and Immediate Effectiveness of Proposed Rule Change Relating to the Penny Pilot Program](https://www.federalregister.gov/documents/2010/08/04/2010-19222/self-regulatory-organizations-chicago-board-options-exchange-incorporated-notice-of-filing-and)~~ (URL broken, archived by Ops) (2010-08-04) — Securities and Exchange Commission
+- [Self-Regulatory Organizations; NYSE Amex LLC; Notice of Filing and Immediate Effectiveness of Proposed Rule Change Adding 75 Options Classes to the Penny Pilot Program](https://www.federalregister.gov/documents/2010/08/10/2010-19604/self-regulatory-organizations-nyse-amex-llc-notice-of-filing-and-immediate-effectiveness-of-proposed) (VERIFIED) (2010-08-10) - Securities and Exchange Commission
+- [Self-Regulatory Organizations; NYSE Arca, Inc.; Notice of Filing and Immediate Effectiveness of Proposed Rule Change Adding 75 Options Classes to the Penny Pilot Program](https://www.federalregister.gov/documents/2010/08/10/2010-19603/self-regulatory-organizations-nyse-arca-inc-notice-of-filing-and-immediate-effectiveness-of-proposed) (VERIFIED) (2010-08-10) - Securities and Exchange Commission
+- [Self-Regulatory Organizations; NASDAQ OMX BX, Inc.; Notice of Filing and Immediate Effectiveness of a Proposed Rule Change To Add 75 Classes to the Penny Pilot Program](https://www.federalregister.gov/documents/2010/08/09/2010-19519/self-regulatory-organizations-nasdaq-omx-bx-inc-notice-of-filing-and-immediate-effectiveness-of-a) (VERIFIED) (2010-08-09) - Securities and Exchange Commission
+- [Self-Regulatory Organizations; NASDAQ OMX PHLX, Inc.; Notice of Filing and Immediate Effectiveness of Proposed Rule Change To Add Seventy-Five Options Classes to the Penny Pilot Program](https://www.federalregister.gov/documents/2010/08/06/2010-19371/self-regulatory-organizations-nasdaq-omx-phlx-inc-notice-of-filing-and-immediate-effectiveness-of) (VERIFIED) (2010-08-06) - Securities and Exchange Commission
+- [Self-Regulatory Organizations; The NASDAQ Stock Market LLC; Notice of Filing and Immediate Effectiveness of a Proposed Rule Change To Add Seventy-Five Options Classes to the Penny Pilot Program](https://www.federalregister.gov/documents/2010/08/06/2010-19334/self-regulatory-organizations-the-nasdaq-stock-market-llc-notice-of-filing-and-immediate) (VERIFIED) (2010-08-06) - Securities and Exchange Commission
+- ~~[Self-Regulatory Organizations; Chicago Board Options Exchange, Incorporated; Notice of Filing and Immediate Effectiveness of Proposed Rule Change Relating to the Penny Pilot Program](https://www.federalregister.gov/documents/2010/08/04/2010-19222/self-regulatory-organizations-chicago-board-options-exchange-incorporated-notice-of-filing-and)~~ (URL broken, archived by Ops) (2010-08-04) - Securities and Exchange Commission
 - ... and 2 more
 
 - [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22ADM%20-%20Archer%20Daniels%20Midland%22) (Tier 1) (VERIFIED)
@@ -182,5 +182,5 @@ Preservation and expansion of the Renewable Fuel Standard (ethanol mandate), fav
 - DP26001: All wheel drive allegation (2026-03-06)
 - DP26002: Redundant wheel fastener locking mechanism (2026-03-04)
 
-- ~~[Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=ADM%20-%20Archer%20Daniels%20Midland)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=ADM%20-%20Archer%20Daniels%20Midland)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
 <!-- auto:nhtsa-recalls end -->

@@ -62,7 +62,7 @@ The BCA distributed an estimated $15-20M in direct campaign contributions, lobby
 
 The BCA has secured virtually total control of Alabama's legislative economic agenda. The organization has successfully blocked workers' compensation reforms, maintained low corporate tax rates, secured tax incentives for major corporations, and maintained regulatory environments favoring utility industry and coal producers. The BCA's influence is so comprehensive that Alabama's minimum wage remains $7.25 (federal minimum) while real wages have declined for decades. The organization has prevented environmental regulation affecting major donors (Drummond coal, Alabama Power).
 
-> [!contradiction] The BCA claims to represent "Alabama business" while operating primarily for utility industry and coal producer benefit. Large manufacturers have diversified away from Alabama, revealing that BCA policies don't actually generate economic development—instead, the organization protects incumbent incumbent industries against modernization and transition.
+> [!contradiction] The BCA claims to represent "Alabama business" while operating primarily for utility industry and coal producer benefit. Large manufacturers have diversified away from Alabama, revealing that BCA policies don't actually generate economic development, instead, the organization protects incumbent incumbent industries against modernization and transition.
 
 ### Class Analysis
 

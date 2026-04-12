@@ -79,7 +79,7 @@ Medicare Advantage expansion and favorable reimbursement: Humana's entire busine
 **Upcoding Protection:** Despite CMS identifying $15+ billion in annual overpayments to MA plans due to diagnostic upcoding, enforcement has been slow and partial. Humana and other MA insurers have lobbied to limit CMS audit authority and reduce claw-back amounts.
 
 > [!money]
-> Medicare Advantage plans receive 4-6% more per beneficiary than traditional Medicare costs for equivalent patients. Applied to Humana's 5.5 million MA members, this premium generates approximately $4-6 billion annually in excess payments — funded by taxpayers. Humana's lobbying operation exists to protect this premium.
+> Medicare Advantage plans receive 4-6% more per beneficiary than traditional Medicare costs for equivalent patients. Applied to Humana's 5.5 million MA members, this premium generates approximately $4-6 billion annually in excess payments, funded by taxpayers. Humana's lobbying operation exists to protect this premium.
 
 ---
 

@@ -30,7 +30,7 @@ This concession gave Gaetz the procedural weapon he would use nine months later.
 **Historic significance:** First Speaker removed by a motion to vacate in American history.
 
 > [!money]
-> Democrats voted to remove McCarthy because they calculated — correctly — that the chaos that would follow would be worse for Republicans than for the country. They were partially right and partially wrong. The House was paralyzed for three weeks. The successor ([[_Mike Johnson Master Profile|Mike Johnson]]) has been more damaging to governance than McCarthy, but more aligned with MAGA maximalism. The donor class interests (deregulation through dysfunction) were served by the outcome. Democratic donors who benefit from Republican dysfunction also had interests served — though they were secondary beneficiaries of Gaetz's personal grievance operation.
+> Democrats voted to remove McCarthy because they calculated, correctly, that the chaos that would follow would be worse for Republicans than for the country. They were partially right and partially wrong. The House was paralyzed for three weeks. The successor ([[_Mike Johnson Master Profile|Mike Johnson]]) has been more damaging to governance than McCarthy, but more aligned with MAGA maximalism. The donor class interests (deregulation through dysfunction) were served by the outcome. Democratic donors who benefit from Republican dysfunction also had interests served, though they were secondary beneficiaries of Gaetz's personal grievance operation.
 
 ---
 
@@ -45,7 +45,7 @@ After McCarthy's removal:
 **[[_Mike Johnson Master Profile|Mike Johnson]] (October 25):** Elected on the fourth attempt. An obscure Louisiana Republican who had served as the leading House architect of the effort to overturn the 2020 presidential election.
 
 > [!contradiction]
-> The McCarthy ouster is presented by Gaetz as principled opposition to a corrupt establishment. The outcome — installing [[_Mike Johnson Master Profile|Mike Johnson]] — produced a speaker with less institutional experience, more ideological extremism, and a documented history of attempting to overturn a democratic election. The "principled" chaos produced an outcome worse by every governance measure than the institution Gaetz claimed to oppose. This is the chaos-agent function in its purest form: the stated justification (principled opposition) and the actual outcome (deeper institutional capture by MAGA maximalism) diverge completely, but the outcome serves the interests of those who benefit from government dysfunction.
+> The McCarthy ouster is presented by Gaetz as principled opposition to a corrupt establishment. The outcome, installing [[_Mike Johnson Master Profile|Mike Johnson]], produced a speaker with less institutional experience, more ideological extremism, and a documented history of attempting to overturn a democratic election. The "principled" chaos produced an outcome worse by every governance measure than the institution Gaetz claimed to oppose. This is the chaos-agent function in its purest form: the stated justification (principled opposition) and the actual outcome (deeper institutional capture by MAGA maximalism) diverge completely, but the outcome serves the interests of those who benefit from government dysfunction.
 
 ---
 
@@ -76,7 +76,7 @@ Gaetz withdrew on November 21, 2024, after Republican senators made clear he lac
 The Ethics Committee released its report weeks later. The report found "substantial evidence" he violated statutory rape law, paid for sex, used illegal drugs, accepted improper gifts, and obstructed the investigation. No member of Congress voted to expel him. No charges were filed.
 
 > [!money]
-> The AG nomination attempted to use the disruption strategy at the executive level: nominate someone unconfirmable to generate chaos that consumes political oxygen, extract concessions from the Senate, and demonstrate the MAGA movement's willingness to transgress norms. It failed at the confirmation stage but succeeded as a signal: Trump would nominate anyone, regardless of conduct, as a demonstration of loyalty and institutional contempt. The practical result — [[_Pam Bondi Master Profile|Pam Bondi]] as AG — may have been Trump's preferred outcome anyway, with Gaetz serving as the extreme anchor in the negotiation.
+> The AG nomination attempted to use the disruption strategy at the executive level: nominate someone unconfirmable to generate chaos that consumes political oxygen, extract concessions from the Senate, and demonstrate the MAGA movement's willingness to transgress norms. It failed at the confirmation stage but succeeded as a signal: Trump would nominate anyone, regardless of conduct, as a demonstration of loyalty and institutional contempt. The practical result, [[_Pam Bondi Master Profile|Pam Bondi]] as AG, may have been Trump's preferred outcome anyway, with Gaetz serving as the extreme anchor in the negotiation.
 
 ---
 

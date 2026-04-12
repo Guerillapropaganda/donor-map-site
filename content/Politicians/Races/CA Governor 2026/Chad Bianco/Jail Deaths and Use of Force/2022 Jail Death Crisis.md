@@ -82,7 +82,7 @@ The coroner's office in Riverside County operates under the Sheriff's Department
 Bianco has been consistently defensive:
 
 > [!quote]
-> — "Every single one of these inmate deaths was out of anyone's control."
+>, "Every single one of these inmate deaths was out of anyone's control."
 
 , Called the California Attorney General's investigation "a political stunt" based on activists' "false and misleading statements and lies."
 , Claimed: "My department has absolutely nothing to hide."

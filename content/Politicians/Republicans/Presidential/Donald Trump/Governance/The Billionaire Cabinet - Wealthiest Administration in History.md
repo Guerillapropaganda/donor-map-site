@@ -22,7 +22,7 @@ The Trump second-term cabinet is the wealthiest in American history, surpassing 
 
 ### The Wealth Map
 
-> [!money] Follow the Money — Who Governs
+> [!money] Follow the Money. Who Governs
 > **[[Elon Musk|Elon Musk]]** (DOGE): ~$800 billion net worth. $38B+ in federal contracts. Led the agency cutting government spending while his companies received government contracts. (See: [[Elon Musk]] · [[DOGE - The Billionaires Government]])
 >
 > **[[_David Sacks Master Profile|David Sacks]]** (AI/Crypto Czar): Craft Ventures $3.3B AUM, 449 AI companies. $200M+ in crypto divestments before taking the role. Setting policy for the asset class he invested in. (See: [[_David Sacks Master Profile|David Sacks]])
@@ -75,7 +75,7 @@ The traditional model: business executives enter government, sell their holdings
 >
 > Trump's cabinet: the corrupt elite, governing directly.
 >
-> Every previous administration maintained at least the pretense of separation between the donor class and the governing class. Political appointees were drawn from the donor class, but they were lawyers, consultants, and policy professionals — intermediaries between capital and the state. Trump's second term eliminated the intermediaries. The donors ARE the government. The billionaires ARE the cabinet. The oligarchy dropped the mask.
+> Every previous administration maintained at least the pretense of separation between the donor class and the governing class. Political appointees were drawn from the donor class, but they were lawyers, consultants, and policy professionals, intermediaries between capital and the state. Trump's second term eliminated the intermediaries. The donors ARE the government. The billionaires ARE the cabinet. The oligarchy dropped the mask.
 
 The vault's thesis is that donors control politicians. Trump's cabinet suggests an update: when the donors become the politicians, there is no "control" relationship to analyze. There is only ownership. The government is a subsidiary of the donor class, managed by its members, for its benefit, with the working class as customers who receive the branding (culture war, populist rhetoric) and bear the costs (deregulation, labor discipline, service cuts).
 

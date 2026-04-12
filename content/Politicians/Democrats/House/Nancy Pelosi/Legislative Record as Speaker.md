@@ -70,7 +70,7 @@ Pelosi was a key negotiator on the CHIPS and Science Act, $52 billion in semicon
 - Immigration reform provisions
 
 > [!contradiction] The House vs. Senate
-> Pelosi passed the most ambitious social spending bill since the Great Society through the House. The Senate — where the donor class exercises its most direct structural control through the filibuster and through Manchin/Sinema's donor relationships — killed 90% of it. Pelosi's legislative skill is real. The structural constraints imposed by the donor class's Senate apparatus are also real. The IRA's $369 billion in clean energy investment is a genuine win for IBEW (prevailing wage, solar, EV). The $3.1 trillion in social spending that died is what the donor class prevented.
+> Pelosi passed the most ambitious social spending bill since the Great Society through the House. The Senate, where the donor class exercises its most direct structural control through the filibuster and through Manchin/Sinema's donor relationships, killed 90% of it. Pelosi's legislative skill is real. The structural constraints imposed by the donor class's Senate apparatus are also real. The IRA's $369 billion in clean energy investment is a genuine win for IBEW (prevailing wage, solar, EV). The $3.1 trillion in social spending that died is what the donor class prevented.
 
 ---
 

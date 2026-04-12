@@ -29,7 +29,7 @@ In his 2020 reelection cycle alone, Tillis received more commercial bank money (
 OpenSecrets named Tillis a "Wall Street ally" when he was appointed to Senate Republican leadership in 2023, documenting his consistent policy service to financial industry donors as the core rationale for his promotion.
 
 > [!money]
-> $4.3M+ from the finance sector over a Senate career. That's not charitable giving from grateful Charlotte civic leaders — it's the systematic purchase of Banking Committee votes, deregulatory advocacy, and CFPB obstruction. Tillis didn't join the Banking Committee because he had a passion for monetary policy; he joined it because it's where banking industry money flows, and the sector funded his career to be there.
+> $4.3M+ from the finance sector over a Senate career. That's not charitable giving from grateful Charlotte civic leaders, it's the systematic purchase of Banking Committee votes, deregulatory advocacy, and CFPB obstruction. Tillis didn't join the Banking Committee because he had a passion for monetary policy; he joined it because it's where banking industry money flows, and the sector funded his career to be there.
 
 ---
 
@@ -56,7 +56,7 @@ Tillis's Judiciary Committee work focuses heavily on intellectual property, part
 **Legislative status:** The Senate Judiciary Committee approved PREVAIL 11–10 in November 2024, after the bill was abruptly pulled from a September 2024 markup amid opposition. The narrow partisan vote confirmed the bill's pharmaceutical industry character. It did not pass the full Senate before the 118th Congress ended.
 
 > [!money]
-> Tillis received $262,126+ from pharmaceutical PACs over his Senate career — more than any other Congress member in 2019 alone ($156,000+). PREVAIL is what that money purchased: a bill that makes it harder to challenge pharmaceutical patents, harder to bring generics to market, and harder to lower drug prices. The academic language ("modernizing PTAB," "fostering innovation") is the standard camouflage. Strip it out and what remains is a legislative vehicle to extend pharmaceutical monopoly pricing at the expense of every American who needs prescription drugs.
+> Tillis received $262,126+ from pharmaceutical PACs over his Senate career, more than any other Congress member in 2019 alone ($156,000+). PREVAIL is what that money purchased: a bill that makes it harder to challenge pharmaceutical patents, harder to bring generics to market, and harder to lower drug prices. The academic language ("modernizing PTAB," "fostering innovation") is the standard camouflage. Strip it out and what remains is a legislative vehicle to extend pharmaceutical monopoly pricing at the expense of every American who needs prescription drugs.
 
 ---
 
@@ -75,7 +75,7 @@ Tillis's Judiciary Committee work focuses heavily on intellectual property, part
 | 2025-06 | Does not seek third term (retirement announced June 2025) | Tillis, NC political landscape |, | Exits before 2026 vulnerability; banking and pharma investments preserved without reelection risk |
 
 > [!money]
-> The timeline reveals a two-track donor service operation running simultaneously. Track 1 (banking): Tillis delivers S.2155 deregulation → CARES Act capital relief → CFPB defunding advocacy → ABA spends $500K to keep him in office. Track 2 (pharma/IP): Tillis receives more pharma PAC money than any Congress member → sponsors industry-preferred drug pricing alternative → introduces PREVAIL to fortify patent thickets → Judiciary Committee narrowly approves it. These aren't separate policy commitments — they're two revenue streams from two donor sectors, both served reliably through Banking and Judiciary committee seats.
+> The timeline reveals a two-track donor service operation running simultaneously. Track 1 (banking): Tillis delivers S.2155 deregulation → CARES Act capital relief → CFPB defunding advocacy → ABA spends $500K to keep him in office. Track 2 (pharma/IP): Tillis receives more pharma PAC money than any Congress member → sponsors industry-preferred drug pricing alternative → introduces PREVAIL to fortify patent thickets → Judiciary Committee narrowly approves it. These aren't separate policy commitments, they're two revenue streams from two donor sectors, both served reliably through Banking and Judiciary committee seats.
 
 ---
 
@@ -90,7 +90,7 @@ Judiciary Committee jurisdictional leverage over: patent law, pharmaceutical pat
 The $4.3M+ career finance sector haul and $262K+ career pharma haul are the financial documentation of what committee assignments are actually for in the U.S. Senate: they're fundraising infrastructure that extracts donations from industries in exchange for favorable policy jurisdiction. The policy output (deregulation, PREVAIL) is the return on investment. The committee seat is the mechanism.
 
 > [!contradiction]
-> Tillis positioned himself as a free-market champion opposing government overreach in healthcare — arguing that pharmaceutical price controls would "stifle innovation." He simultaneously sponsored the PREVAIL Act to fortify the government-created patent monopoly system that allows pharmaceutical companies to charge Americans 3-10x what other countries pay for identical drugs. There is no free market in pharmaceutical pricing — patents are government monopoly grants. Tillis's "free market" framing is the rhetorical cover for protecting government-created monopolies that benefit his donors.
+> Tillis positioned himself as a free-market champion opposing government overreach in healthcare, arguing that pharmaceutical price controls would "stifle innovation." He simultaneously sponsored the PREVAIL Act to fortify the government-created patent monopoly system that allows pharmaceutical companies to charge Americans 3-10x what other countries pay for identical drugs. There is no free market in pharmaceutical pricing, patents are government monopoly grants. Tillis's "free market" framing is the rhetorical cover for protecting government-created monopolies that benefit his donors.
 
 ---
 

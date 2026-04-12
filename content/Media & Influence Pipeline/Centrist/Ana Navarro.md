@@ -47,7 +47,7 @@ Net worth: approximately $5 million.
 No FEC individual contributions found. The FEC API returns 0 results for "NAVARRO, ANA", confirming no federal campaign contributions. Navarro built her political career as a GOP operative (Jeb Bush, McCain, Huntsman) and now operates as a Democratic-aligned television commentator. In both phases, her political influence is institutional and media-based rather than financially transactional through direct campaign giving. The $0 matches the pattern of establishment commentators across the vault whose income comes from networks for performing political identity, not from aligning personal donations with stated positions.
 
 > [!money]
-> Zero personal political donations despite 15+ years as a "Republican strategist" and vocal political commentator. The political identity is the product being sold to networks — not a set of positions backed by personal investment. Navarro is paid to be a Republican, not to give like one. When she departed the Republican Party functionally in 2016 and hosted a Democratic National Convention in 2024, the FEC record didn't change because it was never the point.
+> Zero personal political donations despite 15+ years as a "Republican strategist" and vocal political commentator. The political identity is the product being sold to networks, not a set of positions backed by personal investment. Navarro is paid to be a Republican, not to give like one. When she departed the Republican Party functionally in 2016 and hosted a Democratic National Convention in 2024, the FEC record didn't change because it was never the point.
 
 - [FEC: Ana Navarro individual contributions (0 results)](https://www.fec.gov/data/receipts/?contributor_name=NAVARRO%2C+ANA) (Tier 1)
 
@@ -144,7 +144,7 @@ Ana Navarro's media career serves two structural functions for the donor class:
 > The household income tells the real story. Navarro earns ~$250K/yr from The View + CNN speaking and contributor fees performing Democratic-aligned anti-Trump content. Al Cárdenas earns from Republican corporate lobbying clients. The combined household income is bipartisan in the only way that matters to the donor class: money flows in from both sides, and neither network nor lobbying firm loses access regardless of electoral outcomes. This is the Both-Sides Illusion in its purest domestic form.
 
 > [!contradiction]
-> Navarro's immigration advocacy — her signature issue — is built on a biography that includes lobbying for Arnoldo Alemán's Nicaraguan government in 1997 and El Salvadoran President Tony Saca's government, both of which were later convicted of massive corruption and sentenced to prison. The refugee who advocates for immigrants built her career working for the corrupt governments that helped produce Central American refugee conditions. CNN employs her as a bipartisan immigrant voice; the FARA record goes undiscussed.
+> Navarro's immigration advocacy, her signature issue, is built on a biography that includes lobbying for Arnoldo Alemán's Nicaraguan government in 1997 and El Salvadoran President Tony Saca's government, both of which were later convicted of massive corruption and sentenced to prison. The refugee who advocates for immigrants built her career working for the corrupt governments that helped produce Central American refugee conditions. CNN employs her as a bipartisan immigrant voice; the FARA record goes undiscussed.
 
 ---
 

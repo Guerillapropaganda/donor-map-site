@@ -52,7 +52,7 @@ This is [[Michael Bloomberg|Michael Bloomberg]]'s gun control operation. Bloombe
 
 ### The Political Spending
 
-> [!money] Follow the Money — Bloomberg's Gun Control Machine
+> [!money] Follow the Money. Bloomberg's Gun Control Machine
 > **Bloomberg lifetime investment:** $270 million+
 > **2024 cycle spending:** Everytown Victory Fund spent $45 million+ in 2024 elections
 > **Organizational reach:** 10 million supporters (claimed), chapters in all 50 states
@@ -129,16 +129,16 @@ For [[IBEW - International Brotherhood of Electrical Workers|IBEW]] members: Gun
 
 | Recipient | Amount | Party |
 |-----------|--------|-------|
-| EVERYTOWN FOR GUN SAFETY VICTORY FUND (EVERYTOWN VICTORY FUND) | $35,270,598 | — |
-| SMP | $1,729,500 | — |
+| EVERYTOWN FOR GUN SAFETY VICTORY FUND (EVERYTOWN VICTORY FUND) | $35,270,598 | - |
+| SMP | $1,729,500 | - |
 | DEVELOPMENT NOW FOR CHICAGO | $250,000 | DEM |
 | THE GOOD LAND COMMITTEE, INC. | $250,000 | DEM |
-| DLGA PAC | $200,000 | — |
-| ROLLING SEA ACTION FUND | $131,000 | — |
-| HMP | $125,000 | — |
-| BOLD AMERICA | $104,000 | — |
-| HOUSE MAJORITY PAC | $102,250 | — |
-| WITH HONOR FUND II, INC. | $100,000 | — |
+| DLGA PAC | $200,000 | - |
+| ROLLING SEA ACTION FUND | $131,000 | - |
+| HMP | $125,000 | - |
+| BOLD AMERICA | $104,000 | - |
+| HOUSE MAJORITY PAC | $102,250 | - |
+| WITH HONOR FUND II, INC. | $100,000 | - |
 
 - [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Everytown%20for%20Gun%20Safety) (Tier 1)
 <!-- auto:fec-donor end -->
@@ -153,10 +153,10 @@ For [[IBEW - International Brotherhood of Electrical Workers|IBEW]] members: Gun
 | Agencies | Alcohol, Tobacco, Firearms, and Explosives Bureau, Justice Department, Personnel Management Office |
 
 **Recent regulatory activity:**
-- [Improving Performance, Accountability and Responsiveness in the Civil Service](https://www.federalregister.gov/documents/2026/02/06/2026-02375/improving-performance-accountability-and-responsiveness-in-the-civil-service) (2026-02-06) — Personnel Management Office ★
-- [Definition of “Engaged in the Business” as a Dealer in Firearms](https://www.federalregister.gov/documents/2024/04/19/2024-07838/definition-of-engaged-in-the-business-as-a-dealer-in-firearms) (2024-04-19) — Justice Department ★
-- [Definition of “Frame or Receiver” and Identification of Firearms](https://www.federalregister.gov/documents/2022/04/26/2022-08026/definition-of-frame-or-receiver-and-identification-of-firearms) (2022-04-26) — Justice Department ★
-- [Definition of “Frame or Receiver” and Identification of Firearms](https://www.federalregister.gov/documents/2021/05/21/2021-10058/definition-of-frame-or-receiver-and-identification-of-firearms) (2021-05-21) — Justice Department ★
+- [Improving Performance, Accountability and Responsiveness in the Civil Service](https://www.federalregister.gov/documents/2026/02/06/2026-02375/improving-performance-accountability-and-responsiveness-in-the-civil-service) (2026-02-06) - Personnel Management Office ★
+- [Definition of “Engaged in the Business” as a Dealer in Firearms](https://www.federalregister.gov/documents/2024/04/19/2024-07838/definition-of-engaged-in-the-business-as-a-dealer-in-firearms) (2024-04-19) - Justice Department ★
+- [Definition of “Frame or Receiver” and Identification of Firearms](https://www.federalregister.gov/documents/2022/04/26/2022-08026/definition-of-frame-or-receiver-and-identification-of-firearms) (2022-04-26) - Justice Department ★
+- [Definition of “Frame or Receiver” and Identification of Firearms](https://www.federalregister.gov/documents/2021/05/21/2021-10058/definition-of-frame-or-receiver-and-identification-of-firearms) (2021-05-21) - Justice Department ★
 
 - [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Everytown%20for%20Gun%20Safety%22) (Tier 1)
 <!-- auto:federal-register end -->
@@ -170,17 +170,17 @@ For [[IBEW - International Brotherhood of Electrical Workers|IBEW]] members: Gun
 | Case Types | 2895 Freedom of Information Act of 1974, 3440 Other Civil Rights, 440 Civil Rights: Other, 440 Civil Rights: Other Civil Rights, 442 Civil Rights: Jobs |
 
 **Notable cases:**
-- Ctrlpew LLC v. Chiu (2026) — District Court, M.D. Florida
-- NATIONAL RIFLE ASSOCIATION OF AMERICA v. NRA FOUNDATION (2026) — District Court, District of Columbia
-- Johnson v. Everytown for Gun Safety Action Fund, Inc. (2025) — District Court, E.D. North Carolina
-- Larosiere v. Wilson (2025) — District Court, M.D. Florida
-- United States v. Arnold (2025) — District Court, N.D. Texas
-- Jensen v. Bureau Of Alcohol, Tobacco, Firearms And Explosives (2025) — District Court, N.D. Texas
+- Ctrlpew LLC v. Chiu (2026) - District Court, M.D. Florida
+- NATIONAL RIFLE ASSOCIATION OF AMERICA v. NRA FOUNDATION (2026) - District Court, District of Columbia
+- Johnson v. Everytown for Gun Safety Action Fund, Inc. (2025) - District Court, E.D. North Carolina
+- Larosiere v. Wilson (2025) - District Court, M.D. Florida
+- United States v. Arnold (2025) - District Court, N.D. Texas
+- Jensen v. Bureau Of Alcohol, Tobacco, Firearms And Explosives (2025) - District Court, N.D. Texas
 
 - [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Everytown%20for%20Gun%20Safety%22&type=r) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
-### Financial Overview (990 Filing — 2023)
+### Financial Overview (990 Filing - 2023)
 <!-- auto:propublica-990 start -->
 | Metric | Amount |
 |--------|--------|
@@ -192,7 +192,7 @@ For [[IBEW - International Brotherhood of Electrical Workers|IBEW]] members: Gun
 | Net Assets | $23.2M |
 | Officer Compensation | $262K |
 
-- [Source: ProPublica Nonprofit Explorer — EIN 208802884](https://projects.propublica.org/nonprofits/organizations/208802884) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer - EIN 208802884](https://projects.propublica.org/nonprofits/organizations/208802884) (Tier 1)
 <!-- auto:propublica-990 end -->
 
 ### Lobbying Activity
@@ -228,15 +228,15 @@ For [[IBEW - International Brotherhood of Electrical Workers|IBEW]] members: Gun
 
 **Funded politicians:**
 
-- [[Hakeem Jeffries]] — lobbying: $5.2M
-- [[Chris Murphy]] (Foreign Relations, Appropriations) — lobbying: $5.2M
+- [[Hakeem Jeffries]] - lobbying: $5.2M
+- [[Chris Murphy]] (Foreign Relations, Appropriations) - lobbying: $5.2M
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-09.*
 <!-- auto:influence-cross-ref end -->
 
 <!-- auto:influence-cross-ref pending-merge 2026-04-12 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+> [!attention] Fresh API data available - needs manual merge
+> Bot detected your edits to this section. New data below - fold in what's useful, then delete this block.
 
 | Metric | Value |
 |--------|-------|
@@ -250,8 +250,8 @@ For [[IBEW - International Brotherhood of Electrical Workers|IBEW]] members: Gun
 
 **Funded politicians:**
 
-- [[Hakeem Jeffries]] — lobbying: $5.2M
-- [[Chris Murphy]] (Foreign Relations, Appropriations) — lobbying: $5.2M
+- [[Hakeem Jeffries]] - lobbying: $5.2M
+- [[Chris Murphy]] (Foreign Relations, Appropriations) - lobbying: $5.2M
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-12.*
 
@@ -266,11 +266,11 @@ For [[IBEW - International Brotherhood of Electrical Workers|IBEW]] members: Gun
 
 **Notable filings:**
 
-- 2018-04-24 — **PX14A6G**: NOTICE OF EXEMPT SOLICITATION
-- 2022-08-16 — **PX14A6G**: PX14A6G
-- 2019-02-08 — **EX-99.1**: EX-99.1
-- 2023-04-28 — **DEF 14A**: DEF 14A
-- 2024-04-09 — **PRE 14A**: PRE 14A
+- 2018-04-24 - **PX14A6G**: NOTICE OF EXEMPT SOLICITATION
+- 2022-08-16 - **PX14A6G**: PX14A6G
+- 2019-02-08 - **EX-99.1**: EX-99.1
+- 2023-04-28 - **DEF 14A**: DEF 14A
+- 2024-04-09 - **PRE 14A**: PRE 14A
 
 - [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Everytown%20for%20Gun%20Safety%22) (Tier 1)
 <!-- auto:sec-edgar end -->

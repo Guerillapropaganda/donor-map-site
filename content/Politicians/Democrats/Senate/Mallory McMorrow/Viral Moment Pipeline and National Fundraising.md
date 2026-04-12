@@ -33,7 +33,7 @@ donors: Tech Sector Donors · Online Progressive Community · MSNBC/CNN Amplific
 - Went viral on social media within hours
 
 > [!quote]
-> "Your family's safety does not depend on you being able to question the sexuality of a teacher or a coach. Kids do not care what the politics are in the locker room. Your family's safety does not depend on taking away someone's right to exist like that — and frankly, you should be ashamed."
+> "Your family's safety does not depend on you being able to question the sexuality of a teacher or a coach. Kids do not care what the politics are in the locker room. Your family's safety does not depend on taking away someone's right to exist like that, and frankly, you should be ashamed."
 
 ---
 

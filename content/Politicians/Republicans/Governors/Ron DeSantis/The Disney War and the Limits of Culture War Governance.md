@@ -28,7 +28,7 @@ Walt Disney World has operated under the Reedy Creek Improvement District since 
 On April 19, 2022, DeSantis signed legislation dissolving Reedy Creek, replacing it with the Central Florida Tourism Oversight District (CFTOD) with a governor-appointed board. The message was explicit: oppose DeSantis's social policy agenda and face direct economic retaliation through state regulatory power.
 
 > [!quote]
-> DeSantis framed the retaliation as anti-corporate populism: Disney had "crossed the line" by opposing a bill DeSantis positioned as parental rights protection. The culture war narrative was essential — it transformed what was actually an exercise of state regulatory power against a corporation into a populist "standing up to woke corporations" moment.
+> DeSantis framed the retaliation as anti-corporate populism: Disney had "crossed the line" by opposing a bill DeSantis positioned as parental rights protection. The culture war narrative was essential, it transformed what was actually an exercise of state regulatory power against a corporation into a populist "standing up to woke corporations" moment.
 
 ---
 
@@ -51,7 +51,7 @@ DeSantis's response was to sue Disney, claiming the agreements were improper. Di
 > - Disney paused its federal First Amendment retaliation lawsuit pending negotiations
 > - Disney retained its operational autonomy over day-to-day park operations
 >
-> The settlement preserved Disney's essential corporate structure. The CFTOD board DeSantis appointed did not gain the development authority it was established to exercise. The Reedy Creek dissolution produced significant legal costs and political controversy — but did not transfer meaningful power from Disney to the state.
+> The settlement preserved Disney's essential corporate structure. The CFTOD board DeSantis appointed did not gain the development authority it was established to exercise. The Reedy Creek dissolution produced significant legal costs and political controversy, but did not transfer meaningful power from Disney to the state.
 
 A December 2024 state investigation found that the original Reedy Creek Improvement District had violated no laws prior to DeSantis's takeover.
 
@@ -68,7 +68,7 @@ The Disney war is the vault's clearest example of culture war as electoral produ
 **The donor class reaction:** Ken Griffin publicly stated in September 2023 that he "didn't understand the Disney strategy" and sat out DeSantis's presidential campaign. The Disney fight was supposed to generate populist credibility. For the donor class, it raised questions about whether DeSantis would use state regulatory power against any corporation that crossed him politically, including, eventually, theirs.
 
 > [!contradiction]
-> DeSantis's donor base includes the hedge funds, utilities, and real estate developers who benefit from Florida's favorable regulatory environment. The same state power DeSantis wielded against Disney — stripping a special district, punishing a corporation for its political speech — could theoretically be wielded against any of them. Griffin's withdrawal from the DeSantis campaign wasn't just about electability. It was a rational reading of what kind of governor DeSantis was revealing himself to be: one willing to use state power against corporations for political reasons. The donor class funds politicians to protect the regulatory environment, not destabilize it.
+> DeSantis's donor base includes the hedge funds, utilities, and real estate developers who benefit from Florida's favorable regulatory environment. The same state power DeSantis wielded against Disney, stripping a special district, punishing a corporation for its political speech, could theoretically be wielded against any of them. Griffin's withdrawal from the DeSantis campaign wasn't just about electability. It was a rational reading of what kind of governor DeSantis was revealing himself to be: one willing to use state power against corporations for political reasons. The donor class funds politicians to protect the regulatory environment, not destabilize it.
 
 ---
 

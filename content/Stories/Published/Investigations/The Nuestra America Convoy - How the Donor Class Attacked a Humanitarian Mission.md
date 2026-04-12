@@ -27,7 +27,7 @@ The convoy operated within legal boundaries. No vessels were intercepted by the 
 
 Participants included political streamer Hasan Piker, journalist Ryan Grim (Drop Site News), Code Pink co-founder Medea Benjamin, former UK Labour leader Jeremy Corbyn, Amazon labor organizer Christian Smalls, NYC Mayor Zohran Mamdani, climate activist Greta Thunberg, and members of the European Parliament.
 
-> [!money] Follow the Money — The Crisis the Convoy Responded To
+> [!money] Follow the Money. The Crisis the Convoy Responded To
 > The humanitarian crisis was not an accident. It was a policy outcome engineered by the same donor-class infrastructure documented throughout this vault. See [[Operation Southern Spear and the Cuba Fuel Blockade]] for the full kinetic timeline: 47 lethal strikes, 156-157 deaths, total grid failure affecting 10 million people. The [[Fanjul Family - Florida Crystals|Fanjul family]] benefits from blockade policy by keeping Cuban sugar permanently off the American market. [[MasTec - Mas Canosa Family|MasTec]] and the [[LARA Fund - Mauricio Claver-Carone|LARA Fund]] are positioned to acquire Cuban infrastructure at "distressed" valuations once the blockade produces regime concessions. The convoy delivered cancer drugs and baby formula. The donor class delivers airstrikes and fuel starvation.
 
 ---
@@ -50,7 +50,7 @@ The attack focused exclusively on optics, hotels, clothing, social media content
 | March 30 | CNN (Jake Tapper) | 8-minute segment labeling Piker "anti-semite", timed to Cuba coverage cycle |
 
 > [!contradiction]
-> The "five-star hotel" attack was the most viral — and the most dishonest. Under U.S. law (OFAC Cuban Assets Control Regulations, 31 CFR Part 515), Americans are prohibited from staying at approximately 400 Cuban government-linked accommodations. The handful of legal hotels in Havana with capacity for 170 people are, by default, upscale international chains. Code Pink co-founder Medea Benjamin told PolitiFact: "There are only five or so hotels in Havana that are not on the U.S.' list of prohibited hotels, and those are all four- or five-star hotels." The embargo forces Americans into expensive hotels, then the embargo's defenders attack them for staying there.
+> The "five-star hotel" attack was the most viral, and the most dishonest. Under U.S. law (OFAC Cuban Assets Control Regulations, 31 CFR Part 515), Americans are prohibited from staying at approximately 400 Cuban government-linked accommodations. The handful of legal hotels in Havana with capacity for 170 people are, by default, upscale international chains. Code Pink co-founder Medea Benjamin told PolitiFact: "There are only five or so hotels in Havana that are not on the U.S.' list of prohibited hotels, and those are all four- or five-star hotels." The embargo forces Americans into expensive hotels, then the embargo's defenders attack them for staying there.
 
 ---
 
@@ -60,8 +60,8 @@ Rep. [[_Maria Elvira Salazar Master Profile|Maria Elvira Salazar]] (R-FL27) stat
 
 PolitiFact investigated and found no credible evidence. The Hermanos Ameijeiras Hospital publicly refuted that any ventilator patients died from the outage. Salazar did not provide evidence for her claim.
 
-> [!money] Follow the Money — Who Pays Salazar
-> Salazar received $3,300 from the US-Cuba Democracy PAC in the 2024 cycle. Her broader donor base is the Miami Cuban-American exile network — the same constituency that the embargo's financial infrastructure was built to capture. The vault's [[_Maria Elvira Salazar Master Profile|Salazar master profile]] documents her core contradiction: she campaigns as an anti-communist crusader but accepted $750 from Manuel Rocha — a convicted Cuban intelligence agent — and $5,700 from a lawyer who represented Maduro's frontman. The politician spreading disinformation about the convoy's humanitarian impact was funded by the same PAC infrastructure that maintains the embargo causing the humanitarian crisis.
+> [!money] Follow the Money. Who Pays Salazar
+> Salazar received $3,300 from the US-Cuba Democracy PAC in the 2024 cycle. Her broader donor base is the Miami Cuban-American exile network, the same constituency that the embargo's financial infrastructure was built to capture. The vault's [[_Maria Elvira Salazar Master Profile|Salazar master profile]] documents her core contradiction: she campaigns as an anti-communist crusader but accepted $750 from Manuel Rocha, a convicted Cuban intelligence agent, and $5,700 from a lawyer who represented Maduro's frontman. The politician spreading disinformation about the convoy's humanitarian impact was funded by the same PAC infrastructure that maintains the embargo causing the humanitarian crisis.
 
 ---
 
@@ -112,8 +112,8 @@ The pipeline is circular:
 | 6 | Media infrastructure | Fox News, WaPo, CNN attack convoy within 72 hours |
 | 7 | Donor class benefits | Embargo preserved; Cuban sugar stays off U.S. market; "distressed" assets available for acquisition |
 
-> [!money] Follow the Money — The ROI Calculation
-> The [[Fanjul Family - Florida Crystals|Fanjul family]] has spent approximately $24 million in political contributions since 1977 and $20 million in lobbying since 1999. The U.S. sugar program delivers approximately $65 million per year to their operations — a return of $65M annually on ~$44M in cumulative political investment. That is a 148% annual ROI on total political spending, sustained for decades. Maintaining the Cuba embargo is not a side objective — it is the structural foundation that prevents a Cuban sugar industry from threatening the Fanjul monopoly position.
+> [!money] Follow the Money. The ROI Calculation
+> The [[Fanjul Family - Florida Crystals|Fanjul family]] has spent approximately $24 million in political contributions since 1977 and $20 million in lobbying since 1999. The U.S. sugar program delivers approximately $65 million per year to their operations, a return of $65M annually on ~$44M in cumulative political investment. That is a 148% annual ROI on total political spending, sustained for decades. Maintaining the Cuba embargo is not a side objective, it is the structural foundation that prevents a Cuban sugar industry from threatening the Fanjul monopoly position.
 
 ---
 

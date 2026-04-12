@@ -16,7 +16,7 @@ donors: [[Lockheed Martin]], [[Raytheon]], [[Northrop Grumman]], [[Boeing]]
 ### The Defense Budget Pipeline. Record Peacetime Spending and Contractor Profits
 
 > [!money]
-> FY2024: Biden signs $886.4 billion defense budget — highest peacetime spending in U.S. history. Ukraine aid pipeline: $113+ billion to date (2021–2024). Defense sector campaign contributions to Biden allies: $83 million in 2022 cycle. Voting correlation: House Democrats who voted YES on defense budgets received 7x more defense contractor money than Democrats who voted NO. Raytheon, [[Lockheed Martin|Lockheed Martin]], Northrop Grumman all reported record profits 2021–2024. Simultaneously, Biden rejected "fiscally irresponsible" spending on working-class social programs (childcare, Medicare expansion, paid leave).
+> FY2024: Biden signs $886.4 billion defense budget, highest peacetime spending in U.S. history. Ukraine aid pipeline: $113+ billion to date (2021–2024). Defense sector campaign contributions to Biden allies: $83 million in 2022 cycle. Voting correlation: House Democrats who voted YES on defense budgets received 7x more defense contractor money than Democrats who voted NO. Raytheon, [[Lockheed Martin|Lockheed Martin]], Northrop Grumman all reported record profits 2021–2024. Simultaneously, Biden rejected "fiscally irresponsible" spending on working-class social programs (childcare, Medicare expansion, paid leave).
 
 ---
 

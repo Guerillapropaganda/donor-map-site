@@ -68,7 +68,7 @@ Long-term institutional control over the conservative movement's infrastructure.
 **The Project 2025 Pipeline:** Mercer Foundation funding to Heritage ($1.6M to Project 2025 entities, 2021-2022) plus Rebekah's Heritage board position created a direct line from donor to policy blueprint. Project 2025's 920-page "Mandate for Leadership" became the operational template for Trump's second term. [[Rebekah Mercer]] funded the blueprint, governed the institution that wrote it, and had transition-team experience to ensure it was implemented.
 
 > [!money]
-> [[Rebekah Mercer]]'s evolution represents the donor class learning from 2016. Direct candidate funding is volatile — candidates lose, scandals erupt, Bannon gets fired. Institutional capture is permanent. Heritage Foundation will outlast every candidate it supports. DonorsTrust anonymizes the money. Project 2025 pre-writes the policies. The board seats ensure the institutions serve the donors. [[Rebekah Mercer]] isn't donating to politics. She's governing through institutions she controls — without ever appearing on a ballot.
+> [[Rebekah Mercer]]'s evolution represents the donor class learning from 2016. Direct candidate funding is volatile, candidates lose, scandals erupt, Bannon gets fired. Institutional capture is permanent. Heritage Foundation will outlast every candidate it supports. DonorsTrust anonymizes the money. Project 2025 pre-writes the policies. The board seats ensure the institutions serve the donors. [[Rebekah Mercer]] isn't donating to politics. She's governing through institutions she controls, without ever appearing on a ballot.
 
 ---
 

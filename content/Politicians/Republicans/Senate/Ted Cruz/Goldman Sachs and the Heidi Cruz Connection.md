@@ -16,7 +16,7 @@ donors: [[Goldman Sachs]]
 ### [[Goldman Sachs|Goldman Sachs]] and the Heidi Cruz Connection
 
 > [!money]
-> Heidi Cruz is a Managing Director at [[Goldman Sachs|Goldman Sachs]] — one of the most powerful positions at the most powerful investment bank in the world. Goldman provided [[_Ted Cruz Master Profile|Ted Cruz]] with undisclosed loans totaling $1.43 million for his 2012 Senate campaign. Cruz failed to report these loans on his FEC filings as required by law. The populist outsider who rails against "the Washington cartel" launched his career with secret Goldman Sachs money, channeled through a spouse who remains on Goldman's payroll.
+> Heidi Cruz is a Managing Director at [[Goldman Sachs|Goldman Sachs]], one of the most powerful positions at the most powerful investment bank in the world. Goldman provided [[_Ted Cruz Master Profile|Ted Cruz]] with undisclosed loans totaling $1.43 million for his 2012 Senate campaign. Cruz failed to report these loans on his FEC filings as required by law. The populist outsider who rails against "the Washington cartel" launched his career with secret Goldman Sachs money, channeled through a spouse who remains on Goldman's payroll.
 
 ---
 
@@ -31,7 +31,7 @@ donors: [[Goldman Sachs]]
 The loans were discovered by the New York Times in 2016 during Cruz's presidential campaign. Cruz described the omission as a "paperwork error." The FEC found that Cruz had failed to properly disclose the loans and imposed a $35,000 fine, a fraction of the undisclosed amount.
 
 > [!contradiction]
-> Cruz ran for Senate in 2012 as a Tea Party insurgent — the outsider who would fight the establishment. His campaign was secretly financed by Goldman Sachs, the institution that most symbolizes the financial establishment. The "paperwork error" defense asks voters to believe that a Harvard Law-educated Supreme Court litigator accidentally forgot to report over a million dollars in loans from his wife's employer. The error wasn't accidental — it was structural. Disclosing Goldman loans would have destroyed the Tea Party brand that Cruz was selling.
+> Cruz ran for Senate in 2012 as a Tea Party insurgent, the outsider who would fight the establishment. His campaign was secretly financed by Goldman Sachs, the institution that most symbolizes the financial establishment. The "paperwork error" defense asks voters to believe that a Harvard Law-educated Supreme Court litigator accidentally forgot to report over a million dollars in loans from his wife's employer. The error wasn't accidental, it was structural. Disclosing Goldman loans would have destroyed the Tea Party brand that Cruz was selling.
 
 ---
 
@@ -46,7 +46,7 @@ The loans were discovered by the New York Times in 2016 during Cruz's presidenti
 **Cruz's financial disclosure:** Lists Heidi's Goldman income only in broad ranges, as Senate rules require. The household's financial interests are structurally aligned with Goldman's policy preferences on every issue where the bank has a legislative stake.
 
 > [!money]
-> The Goldman connection is not just a donor relationship — it is a household income stream. Cruz doesn't merely receive campaign contributions from Goldman; his family's personal wealth depends on Goldman's profitability. Every vote Cruz takes on banking regulation, tax policy, and financial oversight is a vote that affects his own household income. The conflict of interest is total and permanent.
+> The Goldman connection is not just a donor relationship, it is a household income stream. Cruz doesn't merely receive campaign contributions from Goldman; his family's personal wealth depends on Goldman's profitability. Every vote Cruz takes on banking regulation, tax policy, and financial oversight is a vote that affects his own household income. The conflict of interest is total and permanent.
 
 ---
 

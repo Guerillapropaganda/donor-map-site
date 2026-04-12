@@ -17,17 +17,17 @@ donors: [[Uber]] | [[Lyft]] | [[DoorDash]]
 In November 2020, California voters passed Proposition 22 with roughly 58% of the vote. The measure exempted app-based gig companies from AB5, the worker classification law Newsom had signed just 13 months earlier and called a landmark.
 
 > [!money]
-> [[Uber|Uber]], [[Lyft|Lyft]], [[DoorDash|DoorDash]], Instacart, and Postmates spent $205.5 million on the Yes on 22 campaign — the most expensive ballot measure campaign in California history.
+> [[Uber|Uber]], [[Lyft|Lyft]], [[DoorDash|DoorDash]], Instacart, and Postmates spent $205.5 million on the Yes on 22 campaign, the most expensive ballot measure campaign in California history.
 >
 > **Company-by-company breakdown:**
-> — [[Uber|Uber]]: $59.5 million
-> — [[DoorDash|DoorDash]]: $52.1 million
-> — [[Lyft|Lyft]]: $49.0 million
-> — Instacart: $31.6 million
-> — Postmates: $13.3 million
+>, [[Uber|Uber]]: $59.5 million
+>, [[DoorDash|DoorDash]]: $52.1 million
+>, [[Lyft|Lyft]]: $49.0 million
+>. Instacart: $31.6 million
+>. Postmates: $13.3 million
 >
 > The No on 22 campaign raised approximately $18.9 million. Major opposition contributors: International Brotherhood of [[Teamsters - International Brotherhood of Teamsters|Teamsters]] (~$5-5.5M), [[UFCW - United Food and Commercial Workers|UFCW]] Local 770 ($1M), [[SEIU - Service Employees International Union|SEIU]]-UHW West ($1M+), [[SEIU - Service Employees International Union|SEIU]] Local 721, SEIU Local 1021, [[California Labor Federation|California Labor Federation]]. The spending ratio was approximately 11 to 1.
-> [Source: Ballotpedia / Cal-Access — Tier 1; CalMatters — Tier 2]
+> [Source: Ballotpedia / Cal-Access. Tier 1; CalMatters. Tier 2]
 
 ---
 

@@ -5,7 +5,9 @@ import { usePathname } from "next/navigation"
 
 const PAGE_LABELS: Record<string, string> = {
   "": "Dashboard",
+  attention: "Attention Queue",
   pipelines: "Pipelines",
+  "signoff-queue": "Sign-off Queue",
   notes: "Notes & Queues",
   urls: "URL Manager",
   "source-hunter": "Source Hunter",
@@ -14,9 +16,13 @@ const PAGE_LABELS: Record<string, string> = {
   publisher: "Publisher",
   profile: "Profile View",
   "money-trail": "Money Trail",
+  "capitol-trades": "Capitol Trades",
+  calendar: "Calendar",
   alerts: "Alerts",
   distribution: "Distribution",
-  rules: "Rules",
+  rules: "Rulebook",
+  docs: "System Docs",
+  scripts: "Scripts",
 }
 
 interface BreadcrumbsProps {

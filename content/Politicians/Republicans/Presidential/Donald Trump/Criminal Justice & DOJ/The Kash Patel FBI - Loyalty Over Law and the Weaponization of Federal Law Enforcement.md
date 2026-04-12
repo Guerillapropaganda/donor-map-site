@@ -22,7 +22,7 @@ Kash Patel entered Trump's second term as FBI Director after ascending through a
 Before his FBI appointment, Patel published "Government Gangsters: The Deep State, the Truth, and the Battle for Our Democracy" (2024). The book functions as a loyalty scoreboard and enemies list. Subjects targeted: FBI leadership under Trump investigations, DOJ officials involved in January 6th prosecution, CIA officials, intelligence community officers who found Russian interference in 2016. The book became a Trump-endorsed roadmap for purges. Patel promised readers "a comprehensive list of names and titles of members of the Executive Branch Deep State." Not policy analysis. Naming and targeting. [Amazon: Government Gangsters](https://www.amazon.com/Government-Gangsters-State-Battle-Democracy/dp/1637588240) (Tier 3)
 
 > [!quote]
-> "A brilliant roadmap highlighting every corrupt actor, to ultimately return our agencies and departments to work for the American People." — Donald J. Trump endorsement on the book jacket
+> "A brilliant roadmap highlighting every corrupt actor, to ultimately return our agencies and departments to work for the American People.". Donald J. Trump endorsement on the book jacket
 
 ### Confirmation Battle and the 51-49 Loyalty Test
 

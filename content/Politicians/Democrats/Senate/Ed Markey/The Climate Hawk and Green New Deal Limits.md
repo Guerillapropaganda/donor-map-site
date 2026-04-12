@@ -26,7 +26,7 @@ Markey's climate credentials are genuine and sustained over decades. His advocac
 The Green New Deal resolution was non-binding, a messaging document, not legislation. Markey has not advanced binding comprehensive climate legislation since Waxman-Markey's defeat in 2010. The IRA's climate provisions (2022) were significant but represented a fraction of what the Green New Deal proposed. The gap between Markey's climate ambition and his legislative output reflects the structural power of the fossil fuel lobby: the policy is proposed; the donations prevent passage; the resolution survives as messaging.
 
 > [!contradiction]
-> Markey has been the Senate's climate champion for 30+ years. In those 30 years, no comprehensive climate legislation has become law. The IRA passed with climate provisions Markey supported, but it also included fossil fuel leasing mandates that Markey opposed. The longest-serving climate hawk in Congress has presided over three decades of climate policy failure — not because of his effort, but because the fossil fuel donor class has more structural power than the climate movement.
+> Markey has been the Senate's climate champion for 30+ years. In those 30 years, no comprehensive climate legislation has become law. The IRA passed with climate provisions Markey supported, but it also included fossil fuel leasing mandates that Markey opposed. The longest-serving climate hawk in Congress has presided over three decades of climate policy failure, not because of his effort, but because the fossil fuel donor class has more structural power than the climate movement.
 
 ---
 

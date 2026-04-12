@@ -18,7 +18,7 @@ related: "[[Prison Telecom Monopoly Profits From Bipartisan Neglect]] · [[_Joe 
 Both parties claim to fight for student borrowers. The receipts show a $1.7 trillion debt complex that purchased protection across party lines for decades. Navient/Sallie Mae spent tens of millions on lobbying and contributions to both parties simultaneously. For-profit colleges deployed $40M+ in lobbying from 2007–2012. Democrats received hundreds of thousands from financial services and then voted to kill Biden's forgiveness plan. The 2005 Bankruptcy Act stripped private student loans of discharge protection with bipartisan support, including then-Sen. Biden's key role as the bill's most prominent Democratic champion. The CFPB spent seven years fighting Navient before extracting a $120M settlement, while legislators who took the industry's money simultaneously sought to gut the agency.
 
 > [!money]
-> The student loan industry gave Biden's 2020 campaign more money than any other candidate. Biden was the #1 recipient of student loan company contributions in the 2020 cycle. He then waited 18 months to act on forgiveness — during which Democrats held both chambers — before announcing a modest $10K/$20K plan via executive action. [OpenSecrets](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1)
+> The student loan industry gave Biden's 2020 campaign more money than any other candidate. Biden was the #1 recipient of student loan company contributions in the 2020 cycle. He then waited 18 months to act on forgiveness, during which Democrats held both chambers, before announcing a modest $10K/$20K plan via executive action. [OpenSecrets](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1)
 
 ---
 
@@ -55,7 +55,7 @@ The for-profit education industry spent $13.5 million lobbying in 2024, with Apo
 Top career recipients of for-profit college money include Rep. John Kline (R-MN, Education Committee Chair) at $693,258, Rep. Virginia Foxx (R-NC) at $215,348, and Rep. Alcee Hastings (D-FL) at $148,000, demonstrating cross-party purchasing. [OpenSecrets](https://www.opensecrets.org/news/issues/for-profit-education) (Tier 1)
 
 > [!contradiction]
-> Betsy DeVos, Trump's Education Secretary, completely abolished the Obama-era gainful employment rule in August 2018 — the regulation requiring for-profit programs to demonstrate graduates could repay their loans. Her own department estimated the repeal would cost taxpayers $5.3 billion over a decade in loans and Pell Grants flowing to poorly performing programs. DeVos installed executives and lobbyists from the for-profit sector to oversee investigations of for-profit schools. [Brookings](https://www.brookings.edu/articles/betsy-devos-for-profit-colleges-education-america/) (Tier 2)
+> Betsy DeVos, Trump's Education Secretary, completely abolished the Obama-era gainful employment rule in August 2018, the regulation requiring for-profit programs to demonstrate graduates could repay their loans. Her own department estimated the repeal would cost taxpayers $5.3 billion over a decade in loans and Pell Grants flowing to poorly performing programs. DeVos installed executives and lobbyists from the for-profit sector to oversee investigations of for-profit schools. [Brookings](https://www.brookings.edu/articles/betsy-devos-for-profit-colleges-education-america/) (Tier 2)
 
 The gainful employment cycle has repeated three times: Obama implements, Trump repeals, Biden reinstates, Trump 2.0 suspends. Each cycle generates lobbying revenue for the industry while the rule's protection alternately exists and vanishes based on which party holds the White House, the regulatory carousel serving nobody except the lobbyists billing both sides.
 
@@ -131,7 +131,7 @@ The enforcement timeline:
 Navient made no admission of wrongdoing. [CFPB](https://www.consumerfinance.gov/about-us/newsroom/cfpb-bans-navient-from-federal-student-loan-servicing-and-orders-the-company-to-pay-120-million-for-wide-ranging-student-lending-failures/) (Tier 1)
 
 > [!money]
-> Republicans voted to slash CFPB funding by ~46% in the 2025 "One Big Beautiful Bill." Sen. Tim Scott (R-SC) attempted to zero out the agency's funding entirely. Sen. John Cornyn (R-TX) routed more than 800 constituent complaints to the CFPB — the most of any current lawmaker — while voting to gut it. Consumer Reports estimated dropped enforcement cases "had the potential to return more than $3 billion in refunds and restitution to consumers." [ProPublica](https://www.propublica.org/article/cfpb-budget-cuts-gop-darrell-issa-john-cornyn) (Tier 2)
+> Republicans voted to slash CFPB funding by ~46% in the 2025 "One Big Beautiful Bill." Sen. Tim Scott (R-SC) attempted to zero out the agency's funding entirely. Sen. John Cornyn (R-TX) routed more than 800 constituent complaints to the CFPB, the most of any current lawmaker, while voting to gut it. Consumer Reports estimated dropped enforcement cases "had the potential to return more than $3 billion in refunds and restitution to consumers." [ProPublica](https://www.propublica.org/article/cfpb-budget-cuts-gop-darrell-issa-john-cornyn) (Tier 2)
 
 56.1% of student loan company lobbyists in 2024 were "revolvers", former government officials. [OpenSecrets](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1)
 
@@ -146,7 +146,7 @@ The student loan complex operates as a bipartisan creditor-class protection rack
 The for-profit college lobby purchased a three-cycle regulatory carousel: implement under Democrats, repeal under Republicans, repeat. Each cycle generates billions in lobbying fees while students cycle between protection and exposure. The SLABS market created a financial instrument class whose value depends on borrowers remaining indebted, giving Wall Street a concrete financial interest in opposing forgiveness that is separate from and additional to the loan servicers' interest.
 
 > [!contradiction]
-> The student loan industry gave both Biden (#1 recipient, 2020) and Trump (#2 recipient, 2020) more money than any other candidates. The industry doesn't bet on a side — it bets on debt. The $1.7 trillion student loan balance is not a policy failure. It is a revenue stream, serviced by companies that lobby both parties, securitized into instruments held by pension funds, and protected by bankruptcy laws championed by the president who promised to reduce it.
+> The student loan industry gave both Biden (#1 recipient, 2020) and Trump (#2 recipient, 2020) more money than any other candidates. The industry doesn't bet on a side, it bets on debt. The $1.7 trillion student loan balance is not a policy failure. It is a revenue stream, serviced by companies that lobby both parties, securitized into instruments held by pension funds, and protected by bankruptcy laws championed by the president who promised to reduce it.
 
 ---
 

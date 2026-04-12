@@ -40,7 +40,7 @@ He served on the Oath Keepers board of directors from the group's founding in 20
 ### The ideological roots:
 
 > [!contradiction]
-> The "constitutional sheriff" concept descends directly from the posse comitatus movement — a 1970s–80s far-right movement that claimed the county was the highest legitimate unit of government and that the sheriff was its only legitimate law enforcement officer. Posse comitatus was explicitly tied to white supremacy and antisemitism (its founder, William Potter Gale, was a Christian Identity minister who believed Jews were the offspring of Satan). The sovereign citizen movement inherited and broadened the same framework. CSPOA is the latest iteration, scrubbed of the explicit racial language but carrying the same structural claim: federal authority is illegitimate, and local power supersedes it.
+> The "constitutional sheriff" concept descends directly from the posse comitatus movement, a 1970s–80s far-right movement that claimed the county was the highest legitimate unit of government and that the sheriff was its only legitimate law enforcement officer. Posse comitatus was explicitly tied to white supremacy and antisemitism (its founder, William Potter Gale, was a Christian Identity minister who believed Jews were the offspring of Satan). The sovereign citizen movement inherited and broadened the same framework. CSPOA is the latest iteration, scrubbed of the explicit racial language but carrying the same structural claim: federal authority is illegitimate, and local power supersedes it.
 
 The laundering works because CSPOA targets law enforcement audiences, people who already have a professional identity built around authority and autonomy. The doctrine tells them they have more authority than they actually do. It flatters them. That's the recruitment mechanism.
 
@@ -64,10 +64,10 @@ The number matters less than the pattern: constitutional sheriff ideology is con
 ### Bianco's CSPOA Affiliation. What We Know
 
 > [!contradiction]
-> — Bianco confirmed he was affiliated with CSPOA approximately 2014–2015.
-> — He stated he learned about the Oath Keepers through CSPOA — confirming CSPOA as the entry point in the radicalization pipeline.
-> — Richard Mack has disputed Bianco's CSPOA membership — a strange claim given Bianco's own admission. This may reflect internal movement politics or an attempt by Mack to distance CSPOA from Bianco's Oath Keepers exposure.
-> — Bianco's governance as sheriff has been textbook constitutional sheriff doctrine: refusing state-mandated COVID enforcement, challenging sanctuary state law, asserting county authority over state directives.
+>. Bianco confirmed he was affiliated with CSPOA approximately 2014–2015.
+>. He stated he learned about the Oath Keepers through CSPOA, confirming CSPOA as the entry point in the radicalization pipeline.
+>. Richard Mack has disputed Bianco's CSPOA membership, a strange claim given Bianco's own admission. This may reflect internal movement politics or an attempt by Mack to distance CSPOA from Bianco's Oath Keepers exposure.
+>. Bianco's governance as sheriff has been textbook constitutional sheriff doctrine: refusing state-mandated COVID enforcement, challenging sanctuary state law, asserting county authority over state directives.
 
 The question is not whether Bianco is a "member" in a formal, dues-paying sense. The question is whether the constitutional sheriff ideology is his operating framework. His record since 2019 answers that definitively.
 

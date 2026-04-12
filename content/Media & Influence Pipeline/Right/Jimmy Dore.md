@@ -39,7 +39,7 @@ Dore operates a multi-platform, audience-funded model with no single corporate d
 **Foreign money, the Serena Shim Award:** Bellingcat reported in September 2019 that Dore received $2,500 from The Association for Investment in Popular Action Committees (AIPAC, not to be confused with the Israel lobby group of the same acronym) in 2017. The Association is identified by Bellingcat as a pro-Assad lobby group that administers the Serena Shim Award, given to media figures who advance narratives favorable to the Syrian government. Dore promoted the Khan Sheikhun chemical attack "false flag" theory in 2017, the same year he received the award.
 
 > [!money]
-> $2,500 from a pro-Assad lobby group is trivial compared to Dore's overall revenue. But the Serena Shim Award is a documented case of foreign interest money flowing to an American media personality who then promoted exactly the narrative that money was intended to advance. The amount is small. The pattern — pay, then parrot — is the same one that operates at scale in the Tim Pool/Tenet Media model.
+> $2,500 from a pro-Assad lobby group is trivial compared to Dore's overall revenue. But the Serena Shim Award is a documented case of foreign interest money flowing to an American media personality who then promoted exactly the narrative that money was intended to advance. The amount is small. The pattern, pay, then parrot, is the same one that operates at scale in the Tim Pool/Tenet Media model.
 
 ### Who Funds Them
 
@@ -54,11 +54,11 @@ Dore operates a multi-platform, audience-funded model with no single corporate d
 | 2017-06 | Pete for Iowa | $500 | DEM | Self-Employed |
 
 > [!money]
-> One $500 contribution to Pete Buttigieg's 2020 campaign, made in June 2017 before Buttigieg was a national political figure. Notable because Dore later became one of Buttigieg's most vocal left-wing critics during the 2020 primary, attacking him as a corporate-backed empty suit. The donation predates the feud — making it the only documented FEC evidence that Dore ever supported a Democratic politician who would later become the target of his fiercest criticism. The pattern is analytically revealing: give $500 to a candidate, then spend thousands of hours on YouTube attacking that candidate. The monetary commitment to electoral politics was transient; the media platform commitment to attacking electoral politics was sustained.
+> One $500 contribution to Pete Buttigieg's 2020 campaign, made in June 2017 before Buttigieg was a national political figure. Notable because Dore later became one of Buttigieg's most vocal left-wing critics during the 2020 primary, attacking him as a corporate-backed empty suit. The donation predates the feud, making it the only documented FEC evidence that Dore ever supported a Democratic politician who would later become the target of his fiercest criticism. The pattern is analytically revealing: give $500 to a candidate, then spend thousands of hours on YouTube attacking that candidate. The monetary commitment to electoral politics was transient; the media platform commitment to attacking electoral politics was sustained.
 
 - [FEC: Jimmy Dore individual contributions (1 result, $500)](https://www.fec.gov/data/receipts/?contributor_name=dore%2C+jimmy) (Tier 1)
 
-> **Note on API results:** The FEC API search for "dore, jimmy" returns 1 result: $500 to Pete Buttigieg 2020 campaign, self-employed. Matches the comedian profile. No disambiguation required — single confirmed result is the media personality.
+> **Note on API results:** The FEC API search for "dore, jimmy" returns 1 result: $500 to Pete Buttigieg 2020 campaign, self-employed. Matches the comedian profile. No disambiguation required, single confirmed result is the media personality.
 
 ### What They Push
 
@@ -110,7 +110,7 @@ Dore represents a distinct variant of audience capture: the left-to-right pipeli
 | 2021-2022 | COVID/vaccine skepticism content escalates | Dore | Ad revenue shift | Right-populist audience becomes dominant |
 
 > [!money]
-> The pro-Assad lobby paid $2,500 for narrative penetration into the American left. YouTube's algorithm paid orders of magnitude more for the same political function — rewarding Dore's anti-Democrat content with right-wing engagement that optimized his revenue while completing his audience swap. The foreign money is the documented scandal. The algorithm is the structural mechanism that achieved the same outcome at scale without anyone writing a check.
+> The pro-Assad lobby paid $2,500 for narrative penetration into the American left. YouTube's algorithm paid orders of magnitude more for the same political function, rewarding Dore's anti-Democrat content with right-wing engagement that optimized his revenue while completing his audience swap. The foreign money is the documented scandal. The algorithm is the structural mechanism that achieved the same outcome at scale without anyone writing a check.
 
 ### Capture Architecture
 

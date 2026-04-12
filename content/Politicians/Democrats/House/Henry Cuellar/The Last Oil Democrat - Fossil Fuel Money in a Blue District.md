@@ -28,7 +28,7 @@ In May 2024, Cuellar and his wife were indicted on federal charges of bribery an
 The indictment revealed the extreme endpoint of the donor-to-policy pipeline: not campaign contributions but direct personal payments from a foreign state oil company to a sitting congressman who influenced energy policy. The fossil fuel donor class typically operates through legal channels (PAC contributions, bundling, dark money). The Azerbaijan payments were the same function, purchasing policy outcomes, through illegal means.
 
 > [!money]
-> Cuellar allegedly received $600,000 from Azerbaijan's state oil company while advocating for Azerbaijan's energy interests in Congress. The payments were routed through his wife's consulting firm — the same structure used by dozens of congressional spouses to receive payments from industries their partners regulate. The difference between legal and illegal congressional corruption is the routing mechanism, not the function.
+> Cuellar allegedly received $600,000 from Azerbaijan's state oil company while advocating for Azerbaijan's energy interests in Congress. The payments were routed through his wife's consulting firm, the same structure used by dozens of congressional spouses to receive payments from industries their partners regulate. The difference between legal and illegal congressional corruption is the routing mechanism, not the function.
 
 ---
 

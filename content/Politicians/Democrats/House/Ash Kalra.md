@@ -34,7 +34,7 @@ Authored by State Senators Ricardo Lara and Toni Atkins. Passed the California S
 Rendon's justification: the bill was "woefully incomplete" on financing, delivery, and cost controls. CNA and the single-payer coalition erupted. Rendon had killed a bill that had already passed the Senate without allowing the Assembly to vote.
 
 > [!money] Who Funded Rendon
-> **$101,000+** from pharmaceutical companies. **$50,000+** from health insurers. During this period, the healthcare industry donated more than **$2.2 million** to the California Democratic Party. Rendon didn't kill SB 562 because it was "incomplete." He killed it because the healthcare donor class — Blue Shield, Kaiser, UnitedHealth, the health plans — needed it dead, and the Assembly Speaker had the procedural power to make that happen without forcing Democrats to cast a recorded vote.
+> **$101,000+** from pharmaceutical companies. **$50,000+** from health insurers. During this period, the healthcare industry donated more than **$2.2 million** to the California Democratic Party. Rendon didn't kill SB 562 because it was "incomplete." He killed it because the healthcare donor class. Blue Shield, Kaiser, UnitedHealth, the health plans, needed it dead, and the Assembly Speaker had the procedural power to make that happen without forcing Democrats to cast a recorded vote.
 
 #### AB 1400 (2021–2022). Kalra's First CalCare Bill
 
@@ -60,7 +60,7 @@ AB 2200 was a policy bill, it established the single-payer framework without inc
 **Coalition supporting AB 2200:** 250 organizations, including CTA ([[CTA - California Teachers Association|California Teachers Association]]), UAW Region 6, CSEA, [[UNITE HERE|UNITE HERE]] Local 11, CFT, CFA, and [[California Labor Federation|California Labor Federation]].
 
 > [!money] Who Funded Buffy Wicks
-> **Govern for California PAC:** Largest single backer — **$500,000+** supporting Wicks through PAC and individual contributions. Founded by David Crane. Includes charter school and anti-tax activists. Warren Spieker (Republican mega-donor) donated to both the PAC and Wicks directly. Fisher Family (GAP fortune) donated to both.
+> **Govern for California PAC:** Largest single backer, **$500,000+** supporting Wicks through PAC and individual contributions. Founded by David Crane. Includes charter school and anti-tax activists. Warren Spieker (Republican mega-donor) donated to both the PAC and Wicks directly. Fisher Family (GAP fortune) donated to both.
 >
 > **Healthcare industry:** California Medical Association PAC and California Dental Association PAC funded Wicks through a special PAC called "Coalition for East Bay Health Care Access, Affordable Housing and Quality Public Schools."
 >
@@ -132,8 +132,8 @@ For [[IBEW - International Brotherhood of Electrical Workers|IBEW]]: single-paye
 
 ### Politician Placeholders Surfaced
 
-> **[[Anthony Rendon]]** — Assembly Speaker who killed SB 562. $101K+ pharma, $50K+ insurance. Now California State Senate.
-> **[[Buffy Wicks]]** — Appropriations chair who killed AB 2200. $500K+ from Govern for California PAC (charter school/anti-tax money), healthcare PAC funding.
+> **[[Anthony Rendon]]**. Assembly Speaker who killed SB 562. $101K+ pharma, $50K+ insurance. Now California State Senate.
+> **[[Buffy Wicks]]**. Appropriations chair who killed AB 2200. $500K+ from Govern for California PAC (charter school/anti-tax money), healthcare PAC funding.
 
 ---
 

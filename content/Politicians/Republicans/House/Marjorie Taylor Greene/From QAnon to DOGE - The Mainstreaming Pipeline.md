@@ -28,7 +28,7 @@ Greene's documented pre-election positions (drawn from her social media posts be
 - Suggested the Parkland school shooting was staged
 
 > [!contradiction]
-> CrossFit publicly disavowed Greene in February 2021, stating it would not allow its brand to be associated with her "loathsome and dangerous lies." She had used CrossFit affiliateship as a credential — "small business owner, CrossFit coach" — to build her initial political profile. The same company whose brand she exploited for her political launch refused to be associated with her after her beliefs became nationally known. The disavowal did not damage her politically; her base interpreted it as further evidence that corporations ("the establishment") were attacking her.
+> CrossFit publicly disavowed Greene in February 2021, stating it would not allow its brand to be associated with her "loathsome and dangerous lies." She had used CrossFit affiliateship as a credential, "small business owner, CrossFit coach", to build her initial political profile. The same company whose brand she exploited for her political launch refused to be associated with her after her beliefs became nationally known. The disavowal did not damage her politically; her base interpreted it as further evidence that corporations ("the establishment") were attacking her.
 
 ---
 
@@ -76,7 +76,7 @@ The underlying belief structure is identical (corrupt officials running the gove
 - Acceptable to corporate interests (environmental, financial, labor regulators are "deep state")
 
 > [!money]
-> DOGE's practical effect — whatever Musk's stated intentions — is the dismantling of regulatory agencies. The EPA, OSHA, CFPB, NLRB, FDA, and dozens of other agencies that constrain corporate behavior are staffed by the civil servants DOGE is targeting. The "waste, fraud, and abuse" framing makes the gutting of regulatory capacity sound like fiscal responsibility rather than class warfare. Greene's QAnon origins make her a perfect advocate: she genuinely believes the government is corrupt and must be destroyed. Her belief happens to align perfectly with the donor class's interest in regulatory incapacity.
+> DOGE's practical effect, whatever Musk's stated intentions, is the dismantling of regulatory agencies. The EPA, OSHA, CFPB, NLRB, FDA, and dozens of other agencies that constrain corporate behavior are staffed by the civil servants DOGE is targeting. The "waste, fraud, and abuse" framing makes the gutting of regulatory capacity sound like fiscal responsibility rather than class warfare. Greene's QAnon origins make her a perfect advocate: she genuinely believes the government is corrupt and must be destroyed. Her belief happens to align perfectly with the donor class's interest in regulatory incapacity.
 
 ---
 

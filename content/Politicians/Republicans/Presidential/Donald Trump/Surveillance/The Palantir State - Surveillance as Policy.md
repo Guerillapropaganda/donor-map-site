@@ -23,19 +23,19 @@ Palantir is not a traditional defense contractor. It is a surveillance platform,
 
 ### The Thiel-to-Trump Pipeline
 
-> [!money] Follow the Money — The Palantir Investment Strategy
+> [!money] Follow the Money. The Palantir Investment Strategy
 > [[Peter Thiel|Peter Thiel]]'s political investment was not direct campaign donations. It was structural:
 >
-> **The Vance investment:** Thiel gave $15M to [[_JD Vance Master Profile|JD Vance]]'s 2022 Senate campaign — the largest individual donation to any Senate candidate that cycle. Vance became Trump's VP nominee. Thiel co-founded Palantir. Vance's Senate office promoted policies favorable to Thiel's companies. The VP selection put a Thiel protégé one heartbeat from the presidency.
+> **The Vance investment:** Thiel gave $15M to [[_JD Vance Master Profile|JD Vance]]'s 2022 Senate campaign, the largest individual donation to any Senate candidate that cycle. Vance became Trump's VP nominee. Thiel co-founded Palantir. Vance's Senate office promoted policies favorable to Thiel's companies. The VP selection put a Thiel protégé one heartbeat from the presidency.
 >
-> **2024 notable absence:** Thiel gave $0 directly to Trump's 2024 campaign. He didn't need to. The institutional infrastructure was already in place — Vance in the VP slot, Palantir contracts expanding, tech-friendly deregulation proceeding. The investment had already been made. The returns were flowing.
+> **2024 notable absence:** Thiel gave $0 directly to Trump's 2024 campaign. He didn't need to. The institutional infrastructure was already in place. Vance in the VP slot, Palantir contracts expanding, tech-friendly deregulation proceeding. The investment had already been made. The returns were flowing.
 >
 > **Palantir federal contracts (cumulative):**
 > - 2009: $4.4M
 > - 2020: ~$200M annually
 > - 2024: $541M
 > - 2025: $970.5M
-> - 10-year Army contract: $10B (Project Nexus — AI-powered military intelligence)
+> - 10-year Army contract: $10B (Project Nexus. AI-powered military intelligence)
 > - DoD Project Maven: $1.3B (AI targeting and analysis)
 > - ICE contracts: multiple, ongoing (ImmigrationOS platform)
 
@@ -59,9 +59,9 @@ $10 billion, 10-year contract. AI-powered intelligence integration across Army s
 ### The Surveillance-Industrial Complex
 
 > [!contradiction] The Libertarian Surveillance State
-> [[Peter Thiel|Peter Thiel]] publicly identifies as a libertarian. He co-founded the Cato Institute's tech policy program. He funds organizations that advocate for limited government. He also co-founded a company that builds the most comprehensive government surveillance systems in history — systems used to track, target, and deport immigrants, monitor military adversaries, and analyze law enforcement data at scale.
+> [[Peter Thiel|Peter Thiel]] publicly identifies as a libertarian. He co-founded the Cato Institute's tech policy program. He funds organizations that advocate for limited government. He also co-founded a company that builds the most comprehensive government surveillance systems in history, systems used to track, target, and deport immigrants, monitor military adversaries, and analyze law enforcement data at scale.
 >
-> The contradiction dissolves when you understand Thiel's actual political philosophy: not limited government, but captured government. A state that is weak in regulating corporations (SEC, EPA, FTC — all targeted by DOGE) but strong in surveilling and disciplining the population (ICE, DoD, law enforcement). The libertarianism applies to capital. The authoritarianism applies to people.
+> The contradiction dissolves when you understand Thiel's actual political philosophy: not limited government, but captured government. A state that is weak in regulating corporations (SEC, EPA, FTC, all targeted by DOGE) but strong in surveilling and disciplining the population (ICE, DoD, law enforcement). The libertarianism applies to capital. The authoritarianism applies to people.
 
 The surveillance-industrial complex under Trump follows the same class logic as every other policy domain in the vault:
 - **Who builds it:** Tech companies (Palantir, Clearview AI, Amazon/Ring) funded by venture capital

@@ -16,7 +16,7 @@ donors: [[Goldman Sachs]]
 ### The Wall Street–Schumer Funding Axis
 
 > [!money]
-> $10.4 million from the securities and investment industry — making it Schumer's largest career donor sector by a wide margin. [[Goldman Sachs|Goldman Sachs]] alone: $543,000. Citigroup: $484,000. JPMorgan Chase: $365,000. Blackstone: significant bundling and executive donations. This is not campaign support — it is a retainer. Schumer represents New York, where Wall Street is headquartered. The senator and the industry share a zip code, a donor base, and a legislative agenda.
+> $10.4 million from the securities and investment industry, making it Schumer's largest career donor sector by a wide margin. [[Goldman Sachs|Goldman Sachs]] alone: $543,000. Citigroup: $484,000. JPMorgan Chase: $365,000. Blackstone: significant bundling and executive donations. This is not campaign support, it is a retainer. Schumer represents New York, where Wall Street is headquartered. The senator and the industry share a zip code, a donor base, and a legislative agenda.
 
 ---
 
@@ -44,7 +44,7 @@ The Schumer household's Wall Street entanglement extends beyond campaign donatio
 - **Daughter Alison Schumer:** Marketing executive with corporate clients.
 
 > [!money]
-> The family connections don't prove corruption — they reveal class position. Schumer's children married into and work for the institutions that fund his campaigns. The senator doesn't need to be told what Wall Street wants. His family lives inside the donor class. The interests are ambient, not transactional.
+> The family connections don't prove corruption, they reveal class position. Schumer's children married into and work for the institutions that fund his campaigns. The senator doesn't need to be told what Wall Street wants. His family lives inside the donor class. The interests are ambient, not transactional.
 
 ---
 
@@ -59,7 +59,7 @@ The Schumer household's Wall Street entanglement extends beyond campaign donatio
 **Crypto Pivot (2024–2025):** As crypto industry spending exploded ($170M+ in 2024 cycle), Schumer shifted from skepticism to accommodation, working with crypto-friendly Democrats on stablecoin legislation and signaling openness to industry-drafted regulatory frameworks.
 
 > [!contradiction]
-> Schumer's public identity is "fighting for the middle class." His legislative identity is protecting Wall Street's most lucrative arrangements — carried interest, light derivatives regulation, no antitrust enforcement against tech-finance conglomerates. The contradiction resolves through the donor math: $10.4 million from securities/investment buys a senator who talks populist and legislates for capital.
+> Schumer's public identity is "fighting for the middle class." His legislative identity is protecting Wall Street's most lucrative arrangements, carried interest, light derivatives regulation, no antitrust enforcement against tech-finance conglomerates. The contradiction resolves through the donor math: $10.4 million from securities/investment buys a senator who talks populist and legislates for capital.
 
 ---
 

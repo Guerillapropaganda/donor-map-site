@@ -30,7 +30,7 @@ Republicans claim to oppose government spending. Democrats claim to fight for wo
 During Trump's trade-war bailout (MFP, 2018–2019), the top 1% averaged $524,298 per farm while the bottom 80% averaged $9,109. Tyler Farms (Arkansas) collected $38 million by splitting into 66 separate corporations to game payment limits. 50 Forbes 400 billionaires received $11.3 million in farm subsidies (1995–2012), including Paul Allen, Charles Schwab, and David Rockefeller. 15 Fortune 500 companies including Chevron received subsidies at up to 58× the median payment. [EWG/Green Fiscal Policy Network: Under Trump Farm Subsidies Soared](https://greenfiscalpolicy.org/under-trump-farm-subsidies-soared-and-the-rich-got-richer/) (Tier 2), [CNBC/EWG: Billionaires Received US Farm Subsidies](https://www.cnbc.com/2013/11/07/billionaires-received-us-farm-subsidies-report-finds.html) (Tier 2)
 
 > [!money]
-> Agribusiness PACs gave $30.7 million to federal candidates in the 2023–2024 cycle: 66.7% to Republicans, 32.8% to Democrats. Agribusiness lobbying hit $180.1 million in 2023 (record) — more than oil & gas or defense. Farm bill lobbying alone exceeded $523 million over the 2019–2023 cycle. [OpenSecrets: Agribusiness PACs 2024](https://www.opensecrets.org/political-action-committees-pacs/industry-detail/A/2024) (Tier 1), [Senate LDA Filings: Agribusiness Lobbying](https://lda.gov/filings/public/filing/search/) (Tier 1)
+> Agribusiness PACs gave $30.7 million to federal candidates in the 2023–2024 cycle: 66.7% to Republicans, 32.8% to Democrats. Agribusiness lobbying hit $180.1 million in 2023 (record), more than oil & gas or defense. Farm bill lobbying alone exceeded $523 million over the 2019–2023 cycle. [OpenSecrets: Agribusiness PACs 2024](https://www.opensecrets.org/political-action-committees-pacs/industry-detail/A/2024) (Tier 1), [Senate LDA Filings: Agribusiness Lobbying](https://lda.gov/filings/public/filing/search/) (Tier 1)
 
 ---
 
@@ -59,7 +59,7 @@ Senate Agriculture Committee Chair [[_John Boozman Master Profile|John Boozman]]
 89 House Democrats and 44 Senate Democrats voted for the 2014 Farm Bill, despite the Congressional Progressive Caucus urging all 76 members to vote no, $8–9 billion in SNAP cuts, and an unchanged corporate-favoring commodity structure. If 43 more Democrats had voted no, the bill would have failed. [Rep. Gwen Moore: Farm Bill Analysis](https://gwenmoore.house.gov/news/documentsingle.aspx?DocumentID=1907) (Tier 1)
 
 > [!contradiction]
-> Democrats claim the Farm Bill is a "nutrition bill" because it includes SNAP. In practice, they trade SNAP cuts for corporate ag subsidies — accepting billions in cuts to food assistance to protect a system where the top 10% of recipients collect the majority of payments and 60% of farmers get nothing.
+> Democrats claim the Farm Bill is a "nutrition bill" because it includes SNAP. In practice, they trade SNAP cuts for corporate ag subsidies, accepting billions in cuts to food assistance to protect a system where the top 10% of recipients collect the majority of payments and 60% of farmers get nothing.
 
 ---
 
@@ -84,7 +84,7 @@ A Democratic report identified 14 Republican lawmakers who collectively received
 The federal crop insurance program cost taxpayers $16.66 billion in FY2023. Private insurance companies pocket $5.1 billion/year ($2.4B admin + $2.7B profit), earning a guaranteed 16.8% annual return vs. 10.2% market rate. Companies and agents have received $58.8 billion over 22 years (2001–2022). 7 of 10 publicly traded crop insurance companies are foreign-owned. One single nursery received $7.7 million in premium subsidies in 2022. There are no income limits on crop insurance subsidies. [GAO: Cap Crop Insurers Profits](https://www.dtnpf.com/agriculture/web/ag/news/article/2023/12/04/gao-cap-crop-insurers-profits-large) (Tier 1), [EWG: One-Third of Crop Insurance Subsidies Flow to Insurance Corps](https://www.bleedingheartland.com/2023/07/21/1-3-of-crop-insurance-subsidies-flow-to-insurance-corps-agents-not-farmers/) (Tier 2)
 
 > [!money]
-> The crop insurance program is a bipartisan cash machine. Both parties protect it because both parties receive agribusiness money. Taxpayers guarantee private companies a 16.8% return — with no income limits on who receives premium subsidies. The subsidy goes to the insurance corporation, not the farmer.
+> The crop insurance program is a bipartisan cash machine. Both parties protect it because both parties receive agribusiness money. Taxpayers guarantee private companies a 16.8% return, with no income limits on who receives premium subsidies. The subsidy goes to the insurance corporation, not the farmer.
 
 ---
 

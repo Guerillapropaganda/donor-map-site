@@ -36,7 +36,7 @@ What distinguishes Newsmax from other conservative media is the explicit structu
 **Stock price trajectory:** Listed at $10 on March 31, 2025. By April 1, 2025, peaked at $234 per share (+2,230% in one trading day), briefly valuing the company above $28 billion, larger than Fox Corporation on an annual revenue basis despite Newsmax earning $171 million vs. Fox's $14 billion. As of March 31, 2026, trades at ~$5.23/share with a market cap of ~$672 million, down 77% from peak.
 
 > [!money]
-> The meme-stock surge reveals market dysfunction: Newsmax's peak valuation of $28 billion represented a price-to-revenue multiple of 163x, compared to Fox Corporation's 5.5x multiple. The collapse from $234 to $5.23 per share — a 98% decline — left the company at the center of a classic speculative bubble. More structurally, Newsmax used its own editorial platform (NewsmaxInvest.com) to promote the IPO to its audience, mixing financial journalism with direct investment solicitation — a practice that obscures the line between editorial content and corporate promotion.
+> The meme-stock surge reveals market dysfunction: Newsmax's peak valuation of $28 billion represented a price-to-revenue multiple of 163x, compared to Fox Corporation's 5.5x multiple. The collapse from $234 to $5.23 per share, a 98% decline, left the company at the center of a classic speculative bubble. More structurally, Newsmax used its own editorial platform (NewsmaxInvest.com) to promote the IPO to its audience, mixing financial journalism with direct investment solicitation, a practice that obscures the line between editorial content and corporate promotion.
 
 #### Revenue Model
 
@@ -117,7 +117,7 @@ This is the most politically significant foreign investment in Newsmax's history
 - **Cayman Islands timing:** Preparations for the transfer began November 10, 2020, one week after Trump lost the 2020 election. Heritage says this timing was coincidental
 
 > [!contradiction]
-> The Newsmax leadership has repeatedly denied that the Qatar investment influenced editorial decisions, yet the ICIJ investigation documented explicit top-down directives to "soften coverage" of Qatar. This is the contradiction between official denial and employee testimony — when multiple Newsmax staffers independently confirm they received instructions to avoid Qatar criticism, the claim of editorial independence becomes factually unsustainable.
+> The Newsmax leadership has repeatedly denied that the Qatar investment influenced editorial decisions, yet the ICIJ investigation documented explicit top-down directives to "soften coverage" of Qatar. This is the contradiction between official denial and employee testimony, when multiple Newsmax staffers independently confirm they received instructions to avoid Qatar criticism, the claim of editorial independence becomes factually unsustainable.
 
 #### Vadim Shulman. Ukrainian Oligarch (~4% stake, ~$62M at current prices)
 

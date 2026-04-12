@@ -27,7 +27,7 @@ The Costa-Hawkins Rental Housing Act (1995) is the structural barrier. It prohib
 Prop 10 would have repealed Costa-Hawkins entirely, allowing local governments to expand rent control to any residential property. Newsom opposed it.
 
 > [!money]
-> The no campaign raised approximately $72 million — funded primarily by the [[California Apartment Association|California Apartment Association]], Blackstone Group, Essex Property Trust, AvalonBay Communities, and other large institutional landlords. The yes campaign raised approximately $25 million. Prop 10 failed 61–39%.
+> The no campaign raised approximately $72 million, funded primarily by the [[California Apartment Association|California Apartment Association]], Blackstone Group, Essex Property Trust, AvalonBay Communities, and other large institutional landlords. The yes campaign raised approximately $25 million. Prop 10 failed 61–39%.
 
 **Newsom's position:** Opposed. He argued it would reduce housing production by disincentivizing developers. This is the standard real estate industry argument. Its empirical basis is contested, the evidence that rent control reduces supply is mixed, and the evidence that rent control keeps existing tenants housed is strong. Newsom adopted the developer-class framing on this question.
 
@@ -50,7 +50,7 @@ Prop 33, the Justice for Renters Act, returned to the Costa-Hawkins repeal frame
 Newsom actively opposed Prop 33. He called it "deeply flawed" and argued it would worsen housing production.
 
 > [!money]
-> The no campaign raised over $100 million — the most expensive opposition to a rent control measure in American history. Funding sources: Blackstone, Equity Residential, Essex Property Trust, the California Apartment Association, and other institutional investors. This is capital openly purchasing a ballot outcome.
+> The no campaign raised over $100 million, the most expensive opposition to a rent control measure in American history. Funding sources: Blackstone, Equity Residential, Essex Property Trust, the California Apartment Association, and other institutional investors. This is capital openly purchasing a ballot outcome.
 
 Prop 33 failed 62–38%, a wider margin than either of its predecessors despite worsening housing conditions. The opposition's financial advantage was decisive.
 
@@ -68,7 +68,7 @@ The working-class tenants who need rent stabilization, who have no ability to co
 ---
 
 > [!contradiction]
-> **Fighting for Renters While Opposing Rent Stabilization**: Newsom campaigns as a pro-tenant housing reformer — expanding Medi-Cal, funding homelessness programs, championing zoning reform. Yet he actively opposed all three statewide rent control measures (Props 10, 21, 33), the most direct tools government has to keep working-class renters housed. He frames himself as a housing advocate while taking donations from the landlord class opposing rent stabilization. The contradiction: genuine housing reform requires either more supply (which eight years of zoning reform has not produced) or limiting landlord income (which Newsom explicitly opposes). His compromise — supply-side promises — has failed working-class renters while protecting donor interests.
+> **Fighting for Renters While Opposing Rent Stabilization**: Newsom campaigns as a pro-tenant housing reformer, expanding Medi-Cal, funding homelessness programs, championing zoning reform. Yet he actively opposed all three statewide rent control measures (Props 10, 21, 33), the most direct tools government has to keep working-class renters housed. He frames himself as a housing advocate while taking donations from the landlord class opposing rent stabilization. The contradiction: genuine housing reform requires either more supply (which eight years of zoning reform has not produced) or limiting landlord income (which Newsom explicitly opposes). His compromise, supply-side promises, has failed working-class renters while protecting donor interests.
 
 ### The Supply Argument and Its Limits
 Newsom's argument against rent control is consistent: it reduces housing supply by disincentivizing construction. This argument has two problems.

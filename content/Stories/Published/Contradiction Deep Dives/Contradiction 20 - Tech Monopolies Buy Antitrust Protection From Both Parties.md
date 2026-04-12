@@ -20,7 +20,7 @@ related: "[[Prison Telecom Monopoly Profits From Bipartisan Neglect]] · [[_Chuc
 Both parties claim to want to rein in Big Tech. Republicans hold censorship hearings. Democrats champion antitrust reform. Neither delivers structural change, because both are paid not to. In 2022, with bipartisan antitrust bills that passed committee 16–6, public support at 76–80%, White House endorsement, and sufficient floor votes by co-sponsors' own count, neither bill received a floor vote. The industry spent $277 million lobbying against them. The bills' sponsor, Amy Klobuchar, received essentially nothing from Big Tech. The person who killed the bills. Senate Majority Leader [[_Chuck Schumer Master Profile|Schumer]], had daughters employed by Amazon and Meta, the two largest targets of the legislation.
 
 > [!money]
-> In 2025, top tech and AI companies spent more than $100 million on federal lobbying for the first time. Meta alone deployed 65 lobbyists — one for every eight members of Congress. Meta and ByteDance alone spent $240,000 per day Congress was in session. [Issue One](https://issueone.org/articles/big-tech-spent-record-sums-on-lobbying-last-year/) (Tier 2), [Bloomberg/DeepLearning.AI](https://charonhub.deeplearning.ai/meta-amazon-microsoft-google-and-nvidia-pour-millions-into-government-influence/) (Tier 2)
+> In 2025, top tech and AI companies spent more than $100 million on federal lobbying for the first time. Meta alone deployed 65 lobbyists, one for every eight members of Congress. Meta and ByteDance alone spent $240,000 per day Congress was in session. [Issue One](https://issueone.org/articles/big-tech-spent-record-sums-on-lobbying-last-year/) (Tier 2), [Bloomberg/DeepLearning.AI](https://charonhub.deeplearning.ai/meta-amazon-microsoft-google-and-nvidia-pour-millions-into-government-influence/) (Tier 2)
 
 ---
 
@@ -65,7 +65,7 @@ The American Innovation and Choice Online Act (AICOA, S. 2992), sponsored by Sen
 **January 2023:** Both bills die. Neither ever received a floor vote.
 
 > [!contradiction]
-> Entities opposed to AICOA spent $277 million in lobbying over 2021–2022, versus $45 million by supporters — a 6-to-1 advantage. Lobbyists opposing AICOA made $2.3 million in direct contributions to members of Congress; supporters' lobbyists gave $734,000. Klobuchar received essentially nothing from Big Tech. Schumer received $116,000+ from Microsoft executives in a single month (July 2021) while AICOA was being drafted. [OpenSecrets](https://www.opensecrets.org/news/2022/12/big-tech-lobbying-push-helped-block-bipartisan-bills-that-aimed-to-curb-alleged-anti-competitive-behavior/) (Tier 2)
+> Entities opposed to AICOA spent $277 million in lobbying over 2021–2022, versus $45 million by supporters, a 6-to-1 advantage. Lobbyists opposing AICOA made $2.3 million in direct contributions to members of Congress; supporters' lobbyists gave $734,000. Klobuchar received essentially nothing from Big Tech. Schumer received $116,000+ from Microsoft executives in a single month (July 2021) while AICOA was being drafted. [OpenSecrets](https://www.opensecrets.org/news/2022/12/big-tech-lobbying-push-helped-block-bipartisan-bills-that-aimed-to-curb-alleged-anti-competitive-behavior/) (Tier 2)
 
 ---
 
@@ -125,7 +125,7 @@ Big Tech antitrust is the clearest case in the vault of purchased legislative pa
 The PAC splits tell the story: Google PAC 48.5% Democratic/50.5% Republican. Amazon PAC 50.6%/49.4%. Microsoft PAC 45.2%/53.4%. These are not partisan donations. They are insurance premiums paid to both parties to guarantee that no political majority can deliver sustained antitrust enforcement. The $277 million in anti-AICOA lobbying versus $45 million in support, a 6-to-1 ratio, produced exactly the outcome the money purchased: no vote.
 
 > [!contradiction]
-> Google's search monopoly, Meta's acquisitions, Amazon's marketplace practices, and Apple's App Store — each of which a court has found to violate or credibly threatens antitrust law — were protected by years of purchased legislative inaction from both parties, while representatives collected donations, their families collected salaries, and their former staffers collected lobbying fees. The $277 million in lobbying didn't buy votes. It bought the absence of a vote.
+> Google's search monopoly, Meta's acquisitions, Amazon's marketplace practices, and Apple's App Store, each of which a court has found to violate or credibly threatens antitrust law, were protected by years of purchased legislative inaction from both parties, while representatives collected donations, their families collected salaries, and their former staffers collected lobbying fees. The $277 million in lobbying didn't buy votes. It bought the absence of a vote.
 
 ---
 

@@ -71,7 +71,7 @@ The Ohio AFL-CIO distributed an estimated $15-20M in direct support, voter conta
 
 The Ohio AFL-CIO has secured policy victories including: prevailing wage protections in public contracting, opposition to right-to-work legislation (though national tide has moved against unions), and labor-friendly environmental policies in some municipalities. However, major structural defeats have occurred: Ohio's manufacturing base has contracted dramatically through deindustrialization, union density has fallen from 30% to 12%, and Democratic politicians have often pursued trade and privatization policies contrary to union interests. The federation's spending on Democratic candidates has not translated to labor power growth.
 
-> [!contradiction] The Ohio AFL-CIO funds Democratic politicians who simultaneously pursue policies undermining union strength: trade deals moving manufacturing abroad, privatization of public sector jobs, automation without worker transition support. Democratic politicians accept labor union spending and volunteer support while implementing policies that weaken unions—a classic two-audience problem where unions are treated as essential campaign infrastructure but ignored on policy.
+> [!contradiction] The Ohio AFL-CIO funds Democratic politicians who simultaneously pursue policies undermining union strength: trade deals moving manufacturing abroad, privatization of public sector jobs, automation without worker transition support. Democratic politicians accept labor union spending and volunteer support while implementing policies that weaken unions, a classic two-audience problem where unions are treated as essential campaign infrastructure but ignored on policy.
 
 ### Class Analysis
 

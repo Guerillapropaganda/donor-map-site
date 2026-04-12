@@ -16,7 +16,7 @@ donors: [[Koch Network - Charles Koch]] · [[Leonard Leo]] · [[Crypto Industry 
 ### The McConnell Dark Money Empire. SLF and One Nation
 
 > [!money]
-> The [[Senate Leadership Fund|Senate Leadership Fund]] and One Nation together represent the largest Republican dark money operation in America. Combined spending: $291M (2022), $211M (2024). Run by Steven Law — McConnell's former chief of staff (1991–1997). The machine operates independently of McConnell's personal fundraising, which means it survives his retirement. The dark money empire is the lasting infrastructure, not the man.
+> The [[Senate Leadership Fund|Senate Leadership Fund]] and One Nation together represent the largest Republican dark money operation in America. Combined spending: $291M (2022), $211M (2024). Run by Steven Law. McConnell's former chief of staff (1991–1997). The machine operates independently of McConnell's personal fundraising, which means it survives his retirement. The dark money empire is the lasting infrastructure, not the man.
 
 ---
 
@@ -68,7 +68,7 @@ Same office, leadership, and staff as SLF. President: Steven Law (same person).
 | 2025-01-01 | Altria donates to Kentucky GOP Building Fund (exact date pending) | $150,000 | Corporate donation records |
 
 > [!money]
-> The FTX connection is the dark money system's failure mode made visible. Sam Bankman-Fried gave $10 million to One Nation in August 2022 — money stolen from FTX customers. Ryan Salame gave $5.5 million more. The dark money system accepted $15.5 million in fraudulent cryptocurrency money because the system is designed not to ask where money comes from. SBF reportedly got a private dinner with McConnell. The money bought access; the access was built on theft.
+> The FTX connection is the dark money system's failure mode made visible. Sam Bankman-Fried gave $10 million to One Nation in August 2022, money stolen from FTX customers. Ryan Salame gave $5.5 million more. The dark money system accepted $15.5 million in fraudulent cryptocurrency money because the system is designed not to ask where money comes from. SBF reportedly got a private dinner with McConnell. The money bought access; the access was built on theft.
 
 ---
 

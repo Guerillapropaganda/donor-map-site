@@ -102,7 +102,7 @@ The 2024 election produced a rare demographic: Republican representatives in dis
 These three seats are the Democratic party's most high-probability flip targets in 2026. If Democrats flip all three, they reach the 4-seat threshold for House control.
 
 > [!contradiction]
-> [[_Mike Lawler Master Profile|Mike Lawler]] in NY-17 represents the ultimate contradiction: Harris won his district with 63% of the vote, yet he, a Republican, held his seat. This was a stunning personal political achievement — it revealed Lawler's political skill and local credibility. But it also revealed the brittleness of his position. Any erosion of his personal brand combined with Democratic spending could flip the seat.
+> [[_Mike Lawler Master Profile|Mike Lawler]] in NY-17 represents the ultimate contradiction: Harris won his district with 63% of the vote, yet he, a Republican, held his seat. This was a stunning personal political achievement, it revealed Lawler's political skill and local credibility. But it also revealed the brittleness of his position. Any erosion of his personal brand combined with Democratic spending could flip the seat.
 
 ### NRCC Offensive: Targeting Vulnerable Democrats
 

@@ -344,7 +344,7 @@ In October 2024, Raytheon Company entered into two separate deferred prosecution
 **Compliance & Debarment:** Three-year deferred prosecution agreements require Raytheon to retain an independent compliance monitor, enhance its ethics program, and cooperate with ongoing investigations. The DOJ explicitly referred Raytheon's "factual admissions" to DOD officials to initiate suspension and debarment proceedings. As of early 2026, debarment proceedings had not resulted in any contract exclusions.
 
 > [!money]
-> The temporal mapping is explicit. February 2026: RTX secures multi-year production agreements to increase Tomahawk output to 1,000+ annually and AMRAAM to 1,900+. Late February: US launches strikes on Iran using Tomahawk missiles. March 2: RTX stock hits all-time high of $214.50. March 3: RTX market cap surges $200 billion alongside Pentagon request for $200 billion supplemental for munitions replenishment. Each Tomahawk fired in the Iran campaign costs $1.5-2 million to replace — and RTX just locked in the replacement contract. The production agreement was signed before the strikes began.
+> The temporal mapping is explicit. February 2026: RTX secures multi-year production agreements to increase Tomahawk output to 1,000+ annually and AMRAAM to 1,900+. Late February: US launches strikes on Iran using Tomahawk missiles. March 2: RTX stock hits all-time high of $214.50. March 3: RTX market cap surges $200 billion alongside Pentagon request for $200 billion supplemental for munitions replenishment. Each Tomahawk fired in the Iran campaign costs $1.5-2 million to replace, and RTX just locked in the replacement contract. The production agreement was signed before the strikes began.
 
 ---
 
@@ -435,34 +435,34 @@ RTX represents the defense sector's structural capture of the American state. Th
 
 **Funded politicians:**
 
-- [[Donald Trump]] — lobbying: $2.2M
-- [[Lloyd Austin]] — lobbying: $2.2M
-- [[Mark Esper]] — lobbying: $2.2M
-- [[Mike Rogers]] (Armed Services) — lobbying: $2.2M
-- [[Rob Wittman]] — lobbying: $2.2M
-- [[Adam Smith]] (Armed Services) — lobbying: $2.2M
-- [[Salud Carbajal]] — lobbying: $2.2M
-- [[Seth Moulton]] — lobbying: $2.2M
-- [[Rosa DeLauro]] (Appropriations) — lobbying: $2.2M
-- [[Hal Rogers]] — lobbying: $2.2M
-- [[Mike Simpson]] — lobbying: $2.2M
-- [[Mike Johnson]] — lobbying: $2.2M
-- [[Steve Scalise]] — lobbying: $2.2M
-- [[Hakeem Jeffries]] — lobbying: $2.2M
-- [[Katherine Clark]] — lobbying: $2.2M
-- [[Rick Scott]] — lobbying: $2.2M
-- [[Martin Heinrich]] (Intelligence) — lobbying: $2.2M
-- [[Roger Wicker]] (Armed Services) — lobbying: $2.2M
-- [[John Barrasso]] — lobbying: $2.2M
-- [[Mark Meadows]] — lobbying: $2.2M
-- [[Greg Gianforte]] — lobbying: $2.2M
+- [[Donald Trump]] - lobbying: $2.2M
+- [[Lloyd Austin]] - lobbying: $2.2M
+- [[Mark Esper]] - lobbying: $2.2M
+- [[Mike Rogers]] (Armed Services) - lobbying: $2.2M
+- [[Rob Wittman]] - lobbying: $2.2M
+- [[Adam Smith]] (Armed Services) - lobbying: $2.2M
+- [[Salud Carbajal]] - lobbying: $2.2M
+- [[Seth Moulton]] - lobbying: $2.2M
+- [[Rosa DeLauro]] (Appropriations) - lobbying: $2.2M
+- [[Hal Rogers]] - lobbying: $2.2M
+- [[Mike Simpson]] - lobbying: $2.2M
+- [[Mike Johnson]] - lobbying: $2.2M
+- [[Steve Scalise]] - lobbying: $2.2M
+- [[Hakeem Jeffries]] - lobbying: $2.2M
+- [[Katherine Clark]] - lobbying: $2.2M
+- [[Rick Scott]] - lobbying: $2.2M
+- [[Martin Heinrich]] (Intelligence) - lobbying: $2.2M
+- [[Roger Wicker]] (Armed Services) - lobbying: $2.2M
+- [[John Barrasso]] - lobbying: $2.2M
+- [[Mark Meadows]] - lobbying: $2.2M
+- [[Greg Gianforte]] - lobbying: $2.2M
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-09.*
 <!-- auto:influence-cross-ref end -->
 
 <!-- auto:influence-cross-ref pending-merge 2026-04-12 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+> [!attention] Fresh API data available - needs manual merge
+> Bot detected your edits to this section. New data below - fold in what's useful, then delete this block.
 
 | Metric | Value |
 |--------|-------|
@@ -488,27 +488,27 @@ RTX represents the defense sector's structural capture of the American state. Th
 
 **Funded politicians:**
 
-- [[Donald Trump]] — lobbying: $2.2M
-- [[Lloyd Austin]] — lobbying: $2.2M
-- [[Mark Esper]] — lobbying: $2.2M
-- [[Mike Rogers]] (Armed Services) — lobbying: $2.2M
-- [[Rob Wittman]] — lobbying: $2.2M
-- [[Adam Smith]] (House Committee on Armed Services) — lobbying: $2.2M
-- [[Salud Carbajal]] — lobbying: $2.2M
-- [[Seth Moulton]] — lobbying: $2.2M
-- [[Rosa DeLauro]] (House Committee on Appropriations) — lobbying: $2.2M
-- [[Hal Rogers]] — lobbying: $2.2M
-- [[Mike Simpson]] — lobbying: $2.2M
-- [[Mike Johnson]] — lobbying: $2.2M
-- [[Steve Scalise]] — lobbying: $2.2M
-- [[Hakeem Jeffries]] — lobbying: $2.2M
-- [[Katherine Clark]] — lobbying: $2.2M
-- [[Rick Scott]] (Senate Committee on Armed Services, Senate Committee on Foreign Relations, Senate Committee on Homeland Security and Governmental Affairs) — lobbying: $2.2M
-- [[Martin Heinrich]] (Intelligence) — lobbying: $2.2M
-- [[Roger Wicker]] (Armed Services) — lobbying: $2.2M
-- [[John Barrasso]] — lobbying: $2.2M
-- [[Mark Meadows]] — lobbying: $2.2M
-- [[Greg Gianforte]] — lobbying: $2.2M
+- [[Donald Trump]] - lobbying: $2.2M
+- [[Lloyd Austin]] - lobbying: $2.2M
+- [[Mark Esper]] - lobbying: $2.2M
+- [[Mike Rogers]] (Armed Services) - lobbying: $2.2M
+- [[Rob Wittman]] - lobbying: $2.2M
+- [[Adam Smith]] (House Committee on Armed Services) - lobbying: $2.2M
+- [[Salud Carbajal]] - lobbying: $2.2M
+- [[Seth Moulton]] - lobbying: $2.2M
+- [[Rosa DeLauro]] (House Committee on Appropriations) - lobbying: $2.2M
+- [[Hal Rogers]] - lobbying: $2.2M
+- [[Mike Simpson]] - lobbying: $2.2M
+- [[Mike Johnson]] - lobbying: $2.2M
+- [[Steve Scalise]] - lobbying: $2.2M
+- [[Hakeem Jeffries]] - lobbying: $2.2M
+- [[Katherine Clark]] - lobbying: $2.2M
+- [[Rick Scott]] (Senate Committee on Armed Services, Senate Committee on Foreign Relations, Senate Committee on Homeland Security and Governmental Affairs) - lobbying: $2.2M
+- [[Martin Heinrich]] (Intelligence) - lobbying: $2.2M
+- [[Roger Wicker]] (Armed Services) - lobbying: $2.2M
+- [[John Barrasso]] - lobbying: $2.2M
+- [[Mark Meadows]] - lobbying: $2.2M
+- [[Greg Gianforte]] - lobbying: $2.2M
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-12.*
 

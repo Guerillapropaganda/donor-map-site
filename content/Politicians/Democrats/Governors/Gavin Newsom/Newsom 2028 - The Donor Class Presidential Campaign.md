@@ -25,10 +25,10 @@ The question was never whether he's running. The question is: whose money is he 
 
 **Formation:** Built from remaining funds of 2022 California gubernatorial campaign. Nominally focused on challenging state-level Republicans in red states. Widely understood as 2028 infrastructure.
 
-> [!money] Follow the Money — The PAC
+> [!money] Follow the Money. The PAC
 > **Total raised:** $24 million by July 2024
 > **2025 activity:** Raised $3.9 million; started year with $6.1M, ended with $7.7M cash on hand
-> **Strategy:** Conserving resources — raised considerably more than it spent in 2025
+> **Strategy:** Conserving resources, raised considerably more than it spent in 2025
 > **Notable donors:** [[George Soros|George Soros]], [[Reid Hoffman|Reid Hoffman]], [[Michael Bloomberg|Michael Bloomberg]], Jennifer Duda
 > **Recent donors:** LSN Partners ($50K, September 2025), Alexander Heckler ($50K, September 2025)
 > **2024 cycle:** 885 large contributions ($200+) received
@@ -73,7 +73,7 @@ Newsom has constructed the most aggressive state-vs-federal litigation strategy 
 - **Special legislative session:** Called immediately after Trump's 2024 victory, seeking funding for expected litigation. The first governor to pre-fund the resistance.
 
 > [!contradiction] Litigation as Campaign Infrastructure
-> The lawsuits are genuine — real legal victories protecting real Californians. They're also campaign ads. Every filing generates national media. Every victory is a Newsom headline. Every Trump counterattack proves Newsom is "the Democrat Trump fears most." The litigation portfolio is a 2028 campaign that costs the California taxpayer instead of the campaign fund.
+> The lawsuits are genuine, real legal victories protecting real Californians. They're also campaign ads. Every filing generates national media. Every victory is a Newsom headline. Every Trump counterattack proves Newsom is "the Democrat Trump fears most." The litigation portfolio is a 2028 campaign that costs the California taxpayer instead of the campaign fund.
 
 **Media strategy:** Launched podcast featuring [[_Steve Bannon Master Profile|Steve Bannon]] and Ben Shapiro (drew party criticism). Social media adopts Trump-style tactics. CAPS text messages, mock slogans including "Make America GAVIN Again." NPR described him as "punching a bully back." Bloomberg profiled him as "California's [[_Gavin Newsom Master Profile|Gavin Newsom]] Pits His Future on Battling Trump."
 
@@ -178,7 +178,7 @@ The consolidation question: can Newsom force Harris out of the race early (the B
 > - Killing single-payer (CNA's defining cause)
 > - Pandemic furloughs (SEIU Local 1000 members)
 > - Prop 22 silence ([[Teamsters - International Brotherhood of Teamsters|Teamsters]] and [[UFCW - United Food and Commercial Workers|UFCW]] spent millions opposing while Newsom went quiet)
-> - Vetoing SB 7 (AI regulation — California Federation of Labor's 2025 priority)
+> - Vetoing SB 7 (AI regulation. California Federation of Labor's 2025 priority)
 
 **The new condition (February 2026):** Union leaders conveyed that "their support for any 2028 presidential run will depend on how he handles artificial intelligence." Hoodline: "Unions To Newsom: Get Tough On AI Or Forget 2028 Backing." CalMatters: labor says he must regulate AI "if he wants the presidency."
 

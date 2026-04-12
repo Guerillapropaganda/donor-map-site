@@ -16,7 +16,7 @@ donors: [[Leonard Leo]], [[Fossil Fuel Bloc]], [[Robert Mercer]], [[Rebekah Merc
 ### The Supermajority Rulings and the Donor-Class Returns
 
 > [!money]
-> The 6-3 supermajority Leo spent two decades constructing has delivered a series of rulings that systematically dismantle the regulatory state, expand corporate and religious exemptions, and eliminate rights that constrain the donor class's agenda. Barrett provides the decisive sixth vote — the vote that transforms 5-4 uncertainty into 6-3 inevitability. Every major ruling since her confirmation has served the coalition that funded the $50 million+ campaign to construct the supermajority. The returns dwarf the investment.
+> The 6-3 supermajority Leo spent two decades constructing has delivered a series of rulings that systematically dismantle the regulatory state, expand corporate and religious exemptions, and eliminate rights that constrain the donor class's agenda. Barrett provides the decisive sixth vote, the vote that transforms 5-4 uncertainty into 6-3 inevitability. Every major ruling since her confirmation has served the coalition that funded the $50 million+ campaign to construct the supermajority. The returns dwarf the investment.
 
 ---
 
@@ -35,7 +35,7 @@ donors: [[Leonard Leo]], [[Fossil Fuel Bloc]], [[Robert Mercer]], [[Rebekah Merc
 **Loper Bright Enterprises v. Raimondo (2024):** Barrett joined the 6-3 majority overturning [[Chevron|Chevron]] deference, the 40-year doctrine requiring courts to defer to agency expertise in interpreting ambiguous statutes. Effect: shifted interpretive power from regulatory agencies to federal judges (many of whom were selected through Leo's pipeline). Beneficiaries: every regulated industry. This is the regulatory state's structural collapse, agencies can no longer rely on their expertise to fill statutory gaps. The donor class that funded the supermajority's construction now benefits from a judiciary that overrides the agencies that constrained them.
 
 > [!contradiction]
-> Barrett's originalism claims the Constitution's text governs. But the "major questions doctrine" (West Virginia v. EPA) appears nowhere in the Constitution's text — it was invented by the Court to constrain agencies. The historical test for gun regulations (Bruen) requires founding-era analogues that often don't exist for modern weapons. The colorblindness principle (Students for Fair Admissions) contradicts the Reconstruction Amendments' race-conscious purpose. The "originalism" is selective — applied when it serves the donor class, abandoned when it doesn't. The methodology is the mask; the outcomes are the product.
+> Barrett's originalism claims the Constitution's text governs. But the "major questions doctrine" (West Virginia v. EPA) appears nowhere in the Constitution's text, it was invented by the Court to constrain agencies. The historical test for gun regulations (Bruen) requires founding-era analogues that often don't exist for modern weapons. The colorblindness principle (Students for Fair Admissions) contradicts the Reconstruction Amendments' race-conscious purpose. The "originalism" is selective, applied when it serves the donor class, abandoned when it doesn't. The methodology is the mask; the outcomes are the product.
 
 ---
 

@@ -69,7 +69,7 @@ CNAS discloses its donors publicly, but not individual amounts. The Center for I
 - **Douglas Beck**, board Director (Apple VP, previously)
 
 > [!money]
-> CNAS received $6.67M from Pentagon contractors while simultaneously serving as the primary personnel pipeline for Democratic national security appointments. The same institution that takes Northrop Grumman money produces the officials who oversee Northrop Grumman's contracts. The 2018 B-21 bomber case makes this explicit: CNAS recommended the Air Force purchase 50-75 additional B-21 jets — built by Northrop Grumman, one of their largest donors — without disclosing the conflict. Estimated ROI on Northrop Grumman's $2.36M in donations: 1,390,000%.
+> CNAS received $6.67M from Pentagon contractors while simultaneously serving as the primary personnel pipeline for Democratic national security appointments. The same institution that takes Northrop Grumman money produces the officials who oversee Northrop Grumman's contracts. The 2018 B-21 bomber case makes this explicit: CNAS recommended the Air Force purchase 50-75 additional B-21 jets, built by Northrop Grumman, one of their largest donors, without disclosing the conflict. Estimated ROI on Northrop Grumman's $2.36M in donations: 1,390,000%.
 
 ---
 
@@ -161,7 +161,7 @@ CNAS operates the most aggressive revolving door between a think tank and a pres
 - **Jon Huntsman Jr.**. Republican Governor, Ambassador to China/Russia → CNAS board
 
 > [!contradiction]
-> CNAS brands itself as "bipartisan" and "independent" while functioning as the Democratic Party's national security personnel holding company. The bipartisan framing — Huntsman, Lieberman, Armitage on the board — provides cover for what is primarily a Democratic revolving door. Of the 30+ documented government placements, the overwhelming majority went to Democratic administrations. The "bipartisan" label serves the same function as "centrist" at Brookings: it launders partisan policy through an independence brand.
+> CNAS brands itself as "bipartisan" and "independent" while functioning as the Democratic Party's national security personnel holding company. The bipartisan framing. Huntsman, Lieberman, Armitage on the board, provides cover for what is primarily a Democratic revolving door. Of the 30+ documented government placements, the overwhelming majority went to Democratic administrations. The "bipartisan" label serves the same function as "centrist" at Brookings: it launders partisan policy through an independence brand.
 
 ---
 

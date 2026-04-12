@@ -48,12 +48,12 @@ No FEC individual contributions found. FEC API returns zero results for "Megyn K
 
 - [FEC: Megyn Kelly individual contributions (0 results)](https://www.fec.gov/data/receipts/?contributor_name=kelly%2C+megyn) (Tier 1)
 
-> **Note on API results:** The FEC API search for "kelly, megyn" returns zero results across multiple state variations and employer filters. No API matches for the media figure despite $15-20M annual salary at Fox and NBC. No results to disambiguate — zero contributions on record.
+> **Note on API results:** The FEC API search for "kelly, megyn" returns zero results across multiple state variations and employer filters. No API matches for the media figure despite $15-20M annual salary at Fox and NBC. No results to disambiguate, zero contributions on record.
 
 > **Analytical note:** Kelly's zero FEC contributions alongside her 2024 Trump endorsement and her corporate media rehabilitation ($30M settlement from NBC, continued SiriusXM contracts, Fox Corp acquisition of her ad sales infrastructure) exemplifies the mechanics of late-stage political capture: the largest media audience share and the most visible endorsements operate outside the FEC system entirely. Kelly's "independence" from corporate control is false. Her structural alignment with Republican politics requires no campaign finance participation because it operates through salary, distribution, and platform ownership.
 
 > [!money]
-> Kelly's independence is editorial, not financial. The revenue model — SiriusXM contracts, ad sales managed through Fox Corp's Red Seat Ventures, YouTube platform monetization — routes money through the same corporate apparatus she publicly departed in 2017. The "independent" label is accurate at the level of content ownership. It is a brand positioning that obscures continued structural dependence on corporate media infrastructure.
+> Kelly's independence is editorial, not financial. The revenue model. SiriusXM contracts, ad sales managed through Fox Corp's Red Seat Ventures, YouTube platform monetization, routes money through the same corporate apparatus she publicly departed in 2017. The "independent" label is accurate at the level of content ownership. It is a brand positioning that obscures continued structural dependence on corporate media infrastructure.
 
 ---
 
@@ -98,7 +98,7 @@ Post-NBC, Kelly rebuilt for her original audience rather than attempting another
 The result is a textbook Audience Capture dynamic: Kelly's content is calibrated to what her right-wing audience rewards (trans opposition, immigration restriction, anti-woke grievance) which is also what her advertiser base (right-leaning direct-response brands) rewards, which is also what Fox Corp's ad-sales infrastructure is optimized to monetize.
 
 > [!money]
-> Kelly's YouTube channel attracted 116 million views in July 2023 alone — more than NBC News (78M) or CBS News (83M) in the same period. By 2025, annual views exceed 1.4 billion. These metrics make her one of the most consumed news voices in the country. Her SiriusXM channel, her MK Media podcast network, and her YouTube presence collectively constitute a conservative media infrastructure that operates without Fox News branding while serving the same political function and routing revenue through Fox Corp's acquired ad-sales subsidiary.
+> Kelly's YouTube channel attracted 116 million views in July 2023 alone, more than NBC News (78M) or CBS News (83M) in the same period. By 2025, annual views exceed 1.4 billion. These metrics make her one of the most consumed news voices in the country. Her SiriusXM channel, her MK Media podcast network, and her YouTube presence collectively constitute a conservative media infrastructure that operates without Fox News branding while serving the same political function and routing revenue through Fox Corp's acquired ad-sales subsidiary.
 
 ---
 
@@ -113,7 +113,7 @@ The result is a textbook Audience Capture dynamic: Kelly's content is calibrated
 **Mark Halperin:** MK Media co-founding represents a career rehabilitation. Halperin's return to political media through Kelly's network provides him with a platform he could not rebuild through traditional institutional channels post-#MeToo.
 
 > [!contradiction]
-> **The Feminist Brand vs. The Funding Reality.** Kelly spent her NBC period constructing a feminist-adjacent brand — she was the woman who stood up to Trump, who exposed Roger Ailes, who left Fox rather than tolerate the culture. By 2025, her COO is Hope Hicks (Trump's comms director), her podcast network co-founder is Mark Halperin (#MeToo'd off NBC), her ad sales flow through Fox Corp, and she endorsed Trump at a rally citing his role as a "protector of women." The feminist independence narrative was a repositioning tool for the NBC deal. The actual content and operational choices reflect the Fox-formed instincts she never departed from.
+> **The Feminist Brand vs. The Funding Reality.** Kelly spent her NBC period constructing a feminist-adjacent brand, she was the woman who stood up to Trump, who exposed Roger Ailes, who left Fox rather than tolerate the culture. By 2025, her COO is Hope Hicks (Trump's comms director), her podcast network co-founder is Mark Halperin (#MeToo'd off NBC), her ad sales flow through Fox Corp, and she endorsed Trump at a rally citing his role as a "protector of women." The feminist independence narrative was a repositioning tool for the NBC deal. The actual content and operational choices reflect the Fox-formed instincts she never departed from.
 
 ---
 

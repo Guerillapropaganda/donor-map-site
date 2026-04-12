@@ -43,7 +43,7 @@ Hila Klein founded Teddy Fresh in 2017 as a streetwear clothing brand. She serve
 H3H3 partnered with BBTV (Broadband TV), a Vancouver-based creator network, in 2017. In April 2023, Klein publicly accused BBTV of taking an unauthorized 30% cut of YouTube channel membership revenue, an amount he claimed totaled at least $620,000. BBTV's position was that memberships fell under "Other Net Revenue," entitling them to their standard split. After Klein went public on-stream, BBTV CEO Shahrzad Rafati agreed to repay the full $620,000. The episode exposed the MCN (multi-channel network) dependency model: creator networks extract revenue shares from creators who signed contracts without full understanding of their terms.
 
 > [!money]
-> The BBTV dispute reveals a structural feature of the YouTube creator economy: even the most successful independent creators operate within layered extraction systems. Klein earns ~$500K/month but a significant slice flows to Google (ad revenue split), to BBTV (30% of memberships), to sponsors (who set content floor), and to Teddy Fresh operations. "Independent" media on YouTube is independent only from editorial control — not from platform dependency, network extraction, or sponsor constraints.
+> The BBTV dispute reveals a structural feature of the YouTube creator economy: even the most successful independent creators operate within layered extraction systems. Klein earns ~$500K/month but a significant slice flows to Google (ad revenue split), to BBTV (30% of memberships), to sponsors (who set content floor), and to Teddy Fresh operations. "Independent" media on YouTube is independent only from editorial control, not from platform dependency, network extraction, or sponsor constraints.
 
 ---
 
@@ -67,11 +67,11 @@ H3H3 partnered with BBTV (Broadband TV), a Vancouver-based creator network, in 2
 | 2020-10 | Biden for President | $500 | DEM | Entertainer (Encino, CA) |
 
 > [!money]
-> Klein gave to both Sanders and Biden in the 2020 cycle — the full arc of Democratic primary-to-general-election donor behavior. His $1,000 Sanders contribution in February 2020 (before Super Tuesday) places him in the progressive-donor lane; his $500 Biden contribution in October 2020 shows consolidation around the eventual nominee. The "NASA TOILET CLEANER" employer listing on the Sanders contribution is a joke occupation consistent with Klein's irreverent style — but it appears in the FEC database as a real filing. Total documented federal political giving: $1,500. No PAC or dark money connections identified. Klein's political funding is unremarkable — what matters structurally is who funds *him*, not who he funds.
+> Klein gave to both Sanders and Biden in the 2020 cycle, the full arc of Democratic primary-to-general-election donor behavior. His $1,000 Sanders contribution in February 2020 (before Super Tuesday) places him in the progressive-donor lane; his $500 Biden contribution in October 2020 shows consolidation around the eventual nominee. The "NASA TOILET CLEANER" employer listing on the Sanders contribution is a joke occupation consistent with Klein's irreverent style, but it appears in the FEC database as a real filing. Total documented federal political giving: $1,500. No PAC or dark money connections identified. Klein's political funding is unremarkable, what matters structurally is who funds *him*, not who he funds.
 
 - [FEC: Ethan Klein individual contributions (2 results, $1,500)](https://www.fec.gov/data/receipts/?contributor_name=ethan+klein) (Tier 1)
 
-> **Note on API results:** The FEC API search for "ethan klein" returns 2 results ($1,500 total), both confirming the media personality. The "NASA (TOILET CLEANER)" employer on the Bernie 2020 contribution is a joke filing consistent with Klein's comedic style but appears in FEC records as submitted. Both contributions verified as matching the YouTube personality (Encino, CA address on Biden 2020 filing). No disambiguation required — both results are the H3 Podcast host.
+> **Note on API results:** The FEC API search for "ethan klein" returns 2 results ($1,500 total), both confirming the media personality. The "NASA (TOILET CLEANER)" employer on the Bernie 2020 contribution is a joke filing consistent with Klein's comedic style but appears in FEC records as submitted. Both contributions verified as matching the YouTube personality (Encino, CA address on Biden 2020 filing). No disambiguation required, both results are the H3 Podcast host.
 
 ---
 
@@ -88,7 +88,7 @@ Klein's content follows audience incentives rather than a coherent ideological p
 **Copyright enforcement as political targeting.** In June 2025, Klein sued three streamers. Denims, Frogan, and Kaceytron, for reacting to his Content Nuke video. Klein publicly described this as a deliberate "trap," predicting these creators would react without sufficient commentary. The lawsuit functions as chilling-effect litigation: using copyright law to suppress critical reaction content rather than to protect genuine IP interests.
 
 > [!contradiction]
-> Klein spent years defending fair use — his own h3h3Productions channel became the subject of a landmark 2017 fair use ruling (Equals Three LLC v. Jukin Media) that established reaction commentary as transformative. He now sues streamers for allegedly the same fair use violations he once championed. The shift tracks his financial interest, not any principled position on copyright.
+> Klein spent years defending fair use, his own h3h3Productions channel became the subject of a landmark 2017 fair use ruling (Equals Three LLC v. Jukin Media) that established reaction commentary as transformative. He now sues streamers for allegedly the same fair use violations he once championed. The shift tracks his financial interest, not any principled position on copyright.
 
 ---
 
@@ -105,7 +105,7 @@ Klein's content trajectory is a textbook Audience Capture case, with platform de
 **The DGG Sponsorship Loop.** The Content Nuke (January 2025) followed by Redact sponsorship (June 2025) is the most transparent example of Klein's audience-capture loop: content that attacks the left builds an audience of right-liberals and Destiny-aligned viewers, which in turn attracts sponsors from that ecosystem. Klein's show is not shaping political opinion so much as following the money trail from his most-engaged audience segment.
 
 > [!money]
-> Audience capture on YouTube is financial capture. When the most-engaged segment of an audience skews in a particular political direction, the algorithm amplifies that content, sponsors aligned with that audience appear, and the creator faces increasing economic pressure to keep producing content for that segment. Klein's shift from Leftovers co-host to Content Nuke producer is not ideological drift — it's revenue optimization following a platform rupture triggered by October 7.
+> Audience capture on YouTube is financial capture. When the most-engaged segment of an audience skews in a particular political direction, the algorithm amplifies that content, sponsors aligned with that audience appear, and the creator faces increasing economic pressure to keep producing content for that segment. Klein's shift from Leftovers co-host to Content Nuke producer is not ideological drift, it's revenue optimization following a platform rupture triggered by October 7.
 
 ---
 
@@ -164,7 +164,7 @@ Klein's model also illustrates the limits of "independence" in creator economy m
 | Jun 2025 | Klein sues Denims, Frogan, Kaceytron for fair use | Klein |, | Copyright enforcement as anti-left political targeting |
 
 > [!money]
-> The timeline reads as a platform-capture sequence: Klein builds an audience through controversy (2011–2018), converts to a sponsor-dependent podcast (2018–2022), gets politically radicalized by platform suspensions and the October 7 fracture (2022–2023), and ends up monetizing an anti-left media war through DGG-adjacent sponsorship (2025). No single donor class actor controls this trajectory — Google's algorithm and the economics of audience capture do.
+> The timeline reads as a platform-capture sequence: Klein builds an audience through controversy (2011–2018), converts to a sponsor-dependent podcast (2018–2022), gets politically radicalized by platform suspensions and the October 7 fracture (2022–2023), and ends up monetizing an anti-left media war through DGG-adjacent sponsorship (2025). No single donor class actor controls this trajectory. Google's algorithm and the economics of audience capture do.
 
 ---
 

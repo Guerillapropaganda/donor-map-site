@@ -16,7 +16,7 @@ donors: [[Robert Mercer]] · [[Crypto Industry Bloc]]
 ### The 2024 Race. Most Expensive Senate Campaign in History
 
 > [!money]
-> $192 million total spending — making Cruz vs. Allred the most expensive Senate race in American history. Cruz raised $100M+ himself. Outside groups poured in another $90M+. The race was not a democratic contest; it was a donor-class bidding war. Cruz's survival required unprecedented spending because his personal unpopularity (lowest favorable ratings of any Senate Republican) had to be overcome with sheer financial force.
+> $192 million total spending, making Cruz vs. Allred the most expensive Senate race in American history. Cruz raised $100M+ himself. Outside groups poured in another $90M+. The race was not a democratic contest; it was a donor-class bidding war. Cruz's survival required unprecedented spending because his personal unpopularity (lowest favorable ratings of any Senate Republican) had to be overcome with sheer financial force.
 
 ---
 
@@ -45,7 +45,7 @@ donors: [[Robert Mercer]] · [[Crypto Industry Bloc]]
 **What Mercer wants:** Deregulation of the financial industry (Renaissance Technologies runs the most profitable hedge fund in history, the Medallion Fund, using quantitative trading strategies that benefit from light regulation), tax reduction for high-income earners, and dismantling of the administrative state.
 
 > [!money]
-> A single billionaire — Robert Mercer — has invested $31 million in [[_Ted Cruz Master Profile|Ted Cruz]]'s career. That investment buys a senator who fights financial regulation, opposes tax increases on hedge fund income, and champions the deregulatory agenda that protects Mercer's Medallion Fund. The $31 million is not a donation — it is a cost of doing business, and the return on investment is measured in billions of avoided regulation and taxation.
+> A single billionaire. Robert Mercer, has invested $31 million in [[_Ted Cruz Master Profile|Ted Cruz]]'s career. That investment buys a senator who fights financial regulation, opposes tax increases on hedge fund income, and champions the deregulatory agenda that protects Mercer's Medallion Fund. The $31 million is not a donation, it is a cost of doing business, and the return on investment is measured in billions of avoided regulation and taxation.
 
 ---
 
@@ -59,7 +59,7 @@ Cruz has become one of the Senate's most aggressive crypto advocates:
 - **2024 crypto spending:** Crypto industry PACs (Fairshake and affiliates) spent $170M+ in the 2024 cycle, with significant flows to Texas Republican races
 
 > [!money]
-> Cruz's crypto pivot combines personal financial interest (his own Bitcoin investments) with donor-class service (the crypto industry's $170M+ political spending). He is simultaneously a beneficiary and an advocate — mining Bitcoin personally while legislating against the regulations that would constrain the industry. The conflict of interest is open and unapologetic.
+> Cruz's crypto pivot combines personal financial interest (his own Bitcoin investments) with donor-class service (the crypto industry's $170M+ political spending). He is simultaneously a beneficiary and an advocate, mining Bitcoin personally while legislating against the regulations that would constrain the industry. The conflict of interest is open and unapologetic.
 
 ---
 

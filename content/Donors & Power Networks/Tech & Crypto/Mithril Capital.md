@@ -77,7 +77,7 @@ Mithril's explicitly stated thesis combines three layers: dual-use technologies 
 - Helion: Advanced nuclear positioning as defense-critical infrastructure company if/when Thiel-connected policymakers move to expand DoD nuclear footprint.
 
 > [!contradiction]
-> **The Public / Private Split:** Mithril publicly markets itself as sector-agnostic venture capital investing in "lasting businesses." Portfolio composition reveals explicit defense and federal procurement focus. Fund structures obscure the ideological alignment—that Thiel uses Mithril to channel venture capital toward companies aligned with his foreign policy and national security preferences, then positions those companies for government contracts.
+> **The Public / Private Split:** Mithril publicly markets itself as sector-agnostic venture capital investing in "lasting businesses." Portfolio composition reveals explicit defense and federal procurement focus. Fund structures obscure the ideological alignment, that Thiel uses Mithril to channel venture capital toward companies aligned with his foreign policy and national security preferences, then positions those companies for government contracts.
 
 ---
 

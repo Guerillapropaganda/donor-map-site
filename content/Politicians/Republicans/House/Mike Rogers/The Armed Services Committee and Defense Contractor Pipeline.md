@@ -28,7 +28,7 @@ The Armed Services Committee authorizes the National Defense Authorization Act (
 The contribution cycle is predictable: defense PACs contribute to Rogers' campaign, Rogers authorizes their programs in the NDAA, the programs generate contract revenue, and a portion of that revenue flows back through PAC contributions for the next cycle. The feedback loop is self-sustaining and has operated continuously since Rogers joined the committee.
 
 > [!money]
-> Rogers' committee authorizes $886 billion in annual defense spending. His top donors are the contractors who receive that spending. The authorization decisions are made by the chairman whose campaigns are funded by the companies seeking authorization. The conflict of interest is not a bug in the system — it IS the system. The Armed Services Committee exists to authorize spending; the spending generates the contributions that determine who controls the committee.
+> Rogers' committee authorizes $886 billion in annual defense spending. His top donors are the contractors who receive that spending. The authorization decisions are made by the chairman whose campaigns are funded by the companies seeking authorization. The conflict of interest is not a bug in the system, it IS the system. The Armed Services Committee exists to authorize spending; the spending generates the contributions that determine who controls the committee.
 
 ---
 

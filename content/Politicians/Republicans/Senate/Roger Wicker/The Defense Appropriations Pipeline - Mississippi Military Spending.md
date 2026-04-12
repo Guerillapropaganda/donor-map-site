@@ -26,7 +26,7 @@ Defense contractor PACs are Wicker's top donor category in every cycle. [[Northr
 Wicker has been the Senate's most vocal advocate for expanding the Navy to 355+ ships, a target that would require tens of billions in additional shipbuilding contracts. His advocacy directly benefits Ingalls Shipbuilding, which would receive a significant share of any shipbuilding expansion. Wicker frames the expansion as a national security imperative to counter China's growing naval fleet; the material beneficiary is the shipyard in his state funded by his largest donor.
 
 > [!money]
-> Wicker's 355-ship Navy campaign would generate approximately $30-50 billion in additional shipbuilding contracts over a decade. Ingalls Shipbuilding (Northrop Grumman) would capture a major share. Northrop Grumman PAC contributes to Wicker's campaigns. Wicker chairs the committee that authorizes the contracts. The national security argument is real; the contractor alignment is also real. Both can be true simultaneously, and that is precisely how the defense donor pipeline operates — genuine security concerns provide cover for contractor enrichment.
+> Wicker's 355-ship Navy campaign would generate approximately $30-50 billion in additional shipbuilding contracts over a decade. Ingalls Shipbuilding (Northrop Grumman) would capture a major share. Northrop Grumman PAC contributes to Wicker's campaigns. Wicker chairs the committee that authorizes the contracts. The national security argument is real; the contractor alignment is also real. Both can be true simultaneously, and that is precisely how the defense donor pipeline operates, genuine security concerns provide cover for contractor enrichment.
 
 ---
 

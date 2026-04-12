@@ -35,7 +35,7 @@ CNA/NNU is the most ideologically progressive major union in the vault. They don
 
 ### The Political Operation
 
-> [!money] Follow the Money — CNA/NNU Political Spending
+> [!money] Follow the Money. CNA/NNU Political Spending
 > **NNU total contributions (2024 cycle):** $5.9 million
 > **Super PAC outside spending:** $9.4 million
 > **Federal lobbying:** $390,000
@@ -47,7 +47,7 @@ CNA/NNU is the most ideologically progressive major union in the vault. They don
 >
 > **2024 Congressional endorsements include:** Pramila Jayapal (WA-07), Delia Ramirez (IL-03), Mark Takano (CA-39), Ro Khanna (CA-17), [[_Katie Porter Master Profile|Katie Porter]] (CA-47)
 >
-> The pattern: CNA endorses progressive candidates who support Medicare for All / single-payer. The two Sanders endorsements are the ideological tell — CNA backed the candidate who threatened the healthcare donor class, not the candidate the party establishment preferred. The 2024 Harris endorsement represents pragmatic alignment, not ideological convergence.
+> The pattern: CNA endorses progressive candidates who support Medicare for All / single-payer. The two Sanders endorsements are the ideological tell. CNA backed the candidate who threatened the healthcare donor class, not the candidate the party establishment preferred. The 2024 Harris endorsement represents pragmatic alignment, not ideological convergence.
 
 ---
 
@@ -70,9 +70,9 @@ Newsom signed SB 770 in 2023. CNA called it "a complete betrayal of nurses' figh
 > [!contradiction] The Newsom Promise and the Newsom Record
 > **2017 campaign:** Newsom said "I'm tired of politicians saying they support single payer but that it's too soon, too expensive or someone else's problem." Pledged to "lead the effort." CNA decorated a campaign bus: "Nurses Trust Newsom. He shares our values and fights for our patients."
 >
-> **Post-election reality:** Newsom backed away from single-payer. Goal became "universal coverage" — not single-payer. Declined to support any CNA single-payer legislation. Signed SB 770, which CNA called a betrayal.
+> **Post-election reality:** Newsom backed away from single-payer. Goal became "universal coverage", not single-payer. Declined to support any CNA single-payer legislation. Signed SB 770, which CNA called a betrayal.
 >
-> **The math:** Newsom's healthcare donors — Blue Shield ($299K+), Kaiser ($35.5M behested), UnitedHealth ($231K+), Anthem — profit from the market-based system. CNA's members see the human cost of that profit model daily. Newsom chose the donors.
+> **The math:** Newsom's healthcare donors. Blue Shield ($299K+), Kaiser ($35.5M behested), UnitedHealth ($231K+), Anthem, profit from the market-based system. CNA's members see the human cost of that profit model daily. Newsom chose the donors.
 
 ---
 

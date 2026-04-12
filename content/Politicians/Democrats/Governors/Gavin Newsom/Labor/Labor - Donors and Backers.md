@@ -24,16 +24,16 @@ This note maps the donor and institutional interests that intersect with Newsom'
 The most documented donor-to-outcome story in his labor record. Confirmed spending breakdown for the Prop 22 campaign (2020):
 
 > [!money]
-> **Yes on Prop 22 — $205.5 million total:**
-> — [[Uber|Uber]]: $59.5 million
-> — [[DoorDash|DoorDash]]: $52.1 million
-> — [[Lyft|Lyft]]: $49.0 million
-> — Instacart: $31.6 million
-> — Postmates: $13.3 million
-> [Source: Ballotpedia / Cal-Access — Tier 1]
+> **Yes on Prop 22, $205.5 million total:**
+>, [[Uber|Uber]]: $59.5 million
+>, [[DoorDash|DoorDash]]: $52.1 million
+>, [[Lyft|Lyft]]: $49.0 million
+>. Instacart: $31.6 million
+>. Postmates: $13.3 million
+> [Source: Ballotpedia / Cal-Access. Tier 1]
 
 > [!contradiction]
-> **Newsom signed AB5 (gig worker classification) in 2019, then went silent as $205.5 million in Prop 22 spending (2020) overturned it — and the same companies that benefited from his silence gave $500K to save his job in the 2021 recall.** This is not ambivalence. This is structural alignment: AB5 was a genuine win when it had no organized opposition. Prop 22 was a structural limit imposed by gig capital with resources to mount a $200M+ countercampaign. Newsom's silence on Prop 22 was not neutrality — it was choosing not to spend political capital defending a policy his donors opposed. The recall donations from [[DoorDash|DoorDash]] executives ($500K) were not gratitude for future favors. They were confirmation that Newsom's silence had been received and appreciated.
+> **Newsom signed AB5 (gig worker classification) in 2019, then went silent as $205.5 million in Prop 22 spending (2020) overturned it, and the same companies that benefited from his silence gave $500K to save his job in the 2021 recall.** This is not ambivalence. This is structural alignment: AB5 was a genuine win when it had no organized opposition. Prop 22 was a structural limit imposed by gig capital with resources to mount a $200M+ countercampaign. Newsom's silence on Prop 22 was not neutrality, it was choosing not to spend political capital defending a policy his donors opposed. The recall donations from [[DoorDash|DoorDash]] executives ($500K) were not gratitude for future favors. They were confirmation that Newsom's silence had been received and appreciated.
 
 **[[Uber|Uber]]**. No large direct contributions to Newsom campaigns identified. The influence operates through structural channels: the Uber Innovation PAC committed $30 million for the 2024 California cycle, spent $7 million on independent expenditures in legislative races (7% of all outside money, supporting/opposing 26 candidates). CEO Dara Khosrowshahi donated $1M personal + $1M corporate to Trump's 2025 inauguration, signaling bipartisan access strategy. California lobbying: ~$900K combined Uber/[[Lyft|Lyft]] during AB5 debates (2019). [Source: Mercury News / Transparency USA / Yahoo Finance. Tier 2]
 

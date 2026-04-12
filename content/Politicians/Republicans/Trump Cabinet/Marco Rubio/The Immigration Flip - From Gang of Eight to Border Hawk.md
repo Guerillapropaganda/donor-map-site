@@ -60,7 +60,7 @@ The bill's failure in the House created a political problem for Rubio: he had ch
 - February 2016: **The definitive statement**. Rubio tells NBC that the Gang of Eight bill "was never intended to become law." His co-authored, Senate-passed legislation was always, he claimed, just a gambit.
 
 > [!quote]
-> "The Senate bill was not headed toward becoming law." — [[_Marco Rubio Master Profile|Marco Rubio]], NBC News, February 2016
+> "The Senate bill was not headed toward becoming law.", [[_Marco Rubio Master Profile|Marco Rubio]], NBC News, February 2016
 
 The claim that the bill was never meant to pass is verifiably false: Rubio gave hundreds of media interviews defending it, went on Spanish-language TV to advocate for it, and voted for its passage. The claim only makes sense as a political maneuver to escape the consequences of having supported something the base now hated.
 

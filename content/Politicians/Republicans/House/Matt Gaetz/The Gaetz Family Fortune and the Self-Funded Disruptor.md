@@ -24,7 +24,7 @@ Don Gaetz is the former Florida State Senate President and co-founder of VITAS H
 **Step 3. The Exit:** VITAS Healthcare was sold to Cincinnati company Roto-Rooter (later renamed Chemed Corporation) for $406 million in 2004.
 
 > [!money]
-> The Gaetz fortune was built by lobbying Congress to create a Medicare reimbursement program, then personally profiting from that program through a converted for-profit company. This is the core mechanism of donor-class wealth creation: use political access to create public funding for an industry, then capture the industry's profits. Don Gaetz did this at the state and federal level simultaneously — serving in Florida politics while building VITAS, which billed Medicare at rates his lobbying had helped establish.
+> The Gaetz fortune was built by lobbying Congress to create a Medicare reimbursement program, then personally profiting from that program through a converted for-profit company. This is the core mechanism of donor-class wealth creation: use political access to create public funding for an industry, then capture the industry's profits. Don Gaetz did this at the state and federal level simultaneously, serving in Florida politics while building VITAS, which billed Medicare at rates his lobbying had helped establish.
 
 ---
 
@@ -56,7 +56,7 @@ The political significance of the Gaetz family fortune is not that Matt directly
 Don Gaetz's fortune came from the hospice industry, a sector that has faced significant scrutiny for billing fraud, enrollment of patients who don't meet Medicare hospice eligibility criteria, and quality-of-care problems. Chemed/VITAS has faced federal lawsuits over hospice fraud. The family fortune's origin in healthcare industry lobbying and Medicare billing creates a context for [[_Matt Gaetz Master Profile|Matt Gaetz]]'s consistent opposition to healthcare regulation.
 
 > [!contradiction]
-> Matt Gaetz has consistently opposed Medicare expansion, healthcare regulation, and any legislation that would constrain the for-profit healthcare industry's ability to bill government programs. His family fortune was created by lobbying for government reimbursement of a healthcare service and then profiting from that reimbursement through a for-profit entity. His political opposition to healthcare regulation protects the conditions that made his family wealthy — not through any specific transaction, but through the structural alignment of his family's interests and his policy positions.
+> Matt Gaetz has consistently opposed Medicare expansion, healthcare regulation, and any legislation that would constrain the for-profit healthcare industry's ability to bill government programs. His family fortune was created by lobbying for government reimbursement of a healthcare service and then profiting from that reimbursement through a for-profit entity. His political opposition to healthcare regulation protects the conditions that made his family wealthy, not through any specific transaction, but through the structural alignment of his family's interests and his policy positions.
 
 ---
 

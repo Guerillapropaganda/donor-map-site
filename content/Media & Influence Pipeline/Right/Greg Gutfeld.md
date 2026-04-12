@@ -41,7 +41,7 @@ Fox News advertising revenue is heavily dependent on pharmaceutical companies. A
 No FEC individual contributions found. The FEC API returns 0 results for both "GUTFELD, GREG" and "GUTFELD, GREGORY." At ~$7M/yr income, zero personal political giving, consistent with the right-wing media pattern where influence flows through platform access, not personal donations.
 
 > [!money]
-> Zero FEC at $7M/yr income is the Fox News institutional pattern. Gutfeld, like Hannity ($45M/yr, $0 FEC), Ingraham ($15M/yr, $0 FEC), and Shapiro ($0 FEC), exercises political influence through airtime, not donations. The donation IS the platform access — Fox Corp's advertising revenue structure IS the political economy.
+> Zero FEC at $7M/yr income is the Fox News institutional pattern. Gutfeld, like Hannity ($45M/yr, $0 FEC), Ingraham ($15M/yr, $0 FEC), and Shapiro ($0 FEC), exercises political influence through airtime, not donations. The donation IS the platform access. Fox Corp's advertising revenue structure IS the political economy.
 
 - [FEC: Greg Gutfeld individual contributions (0 results)](https://www.fec.gov/data/receipts/?contributor_name=GUTFELD%2C+GREG) (Tier 1)
 
@@ -87,7 +87,7 @@ His structural function for the donor class: **make right-wing politics entertai
 The zero-FEC pattern is revealing: Gutfeld's political influence is entirely channeled through his employer's platform. He doesn't need to donate to politicians because he IS the donation, his airtime is worth more than any individual contribution. Fox Corp's lobbying expenditures and political spending operate at the corporate level; individual hosts are delivery mechanisms, not independent political actors.
 
 > [!contradiction]
-> Gutfeld brands himself as anti-establishment comedy — "the punk rock of late night" — while operating as a salaried employee of the largest cable news corporation in America, owned by a billionaire family, funded by pharmaceutical advertisers. The "rebellion" is the product. The corporation is the stage.
+> Gutfeld brands himself as anti-establishment comedy, "the punk rock of late night", while operating as a salaried employee of the largest cable news corporation in America, owned by a billionaire family, funded by pharmaceutical advertisers. The "rebellion" is the product. The corporation is the stage.
 
 ### Capture Architecture
 
@@ -112,7 +112,7 @@ The zero-FEC pattern is revealing: Gutfeld's political influence is entirely cha
 | 2026 | No independent platform exists after 19 years at Fox News | Gutfeld | N/A | At age 61, with zero external platform, zero podcast, zero YouTube presence: total institutional dependency |
 
 > [!money]
-> The timeline reveals a 17-year institutional escalation: overnight → weekend → ensemble → weeknight primetime. At no point did Gutfeld build anything independent of Fox. Each promotion deepened the dependency. The April 2024 contract extension — signed one year after the $787.5M Dominion settlement — demonstrates that defamation liability is a cost of doing business, not a content constraint. The hosts keep hosting; the corporation keeps paying settlements.
+> The timeline reveals a 17-year institutional escalation: overnight → weekend → ensemble → weeknight primetime. At no point did Gutfeld build anything independent of Fox. Each promotion deepened the dependency. The April 2024 contract extension, signed one year after the $787.5M Dominion settlement, demonstrates that defamation liability is a cost of doing business, not a content constraint. The hosts keep hosting; the corporation keeps paying settlements.
 
 ### Sources
 

@@ -155,15 +155,15 @@ Microsoft represents the corporate capture of government technology infrastructu
 
 **Funded politicians:**
 
-- [[Ro Khanna]] (Antitrust (Judiciary)) — lobbying: $20.7M
-- [[Patty Murray]] (Appropriations) — lobbying: $20.7M
+- [[Ro Khanna]] (Antitrust (Judiciary)) - lobbying: $20.7M
+- [[Patty Murray]] (Appropriations) - lobbying: $20.7M
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-09.*
 <!-- auto:influence-cross-ref end -->
 
 <!-- auto:influence-cross-ref pending-merge 2026-04-12 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+> [!attention] Fresh API data available - needs manual merge
+> Bot detected your edits to this section. New data below - fold in what's useful, then delete this block.
 
 | Metric | Value |
 |--------|-------|
@@ -179,13 +179,13 @@ Microsoft represents the corporate capture of government technology infrastructu
 
 **Funded politicians:**
 
-- [[Patty Murray]] (Appropriations) — lobbying: $20.7M
+- [[Patty Murray]] (Appropriations) - lobbying: $20.7M
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-12.*
 
 <!-- auto:influence-cross-ref pending-merge end -->
 
-### Financial Overview (990 Filing — 2022)
+### Financial Overview (990 Filing - 2022)
 <!-- auto:propublica-990 start -->
 | Metric | Amount |
 |--------|--------|
@@ -194,7 +194,7 @@ Microsoft represents the corporate capture of government technology infrastructu
 | Total Expenses | $40K |
 | Net Assets | $2.8M |
 
-- [Source: ProPublica Nonprofit Explorer — EIN 916374992](https://projects.propublica.org/nonprofits/organizations/916374992) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer - EIN 916374992](https://projects.propublica.org/nonprofits/organizations/916374992) (Tier 1)
 - [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F916374992_202206_990PF_2023030921056171.pdf) (Tier 1)
 <!-- auto:propublica-990 end -->
 
@@ -207,12 +207,12 @@ Microsoft represents the corporate capture of government technology infrastructu
 | Case Types | 190 Contract: Other, 2899 Other Statutes, 360 P.I.: Other, 820 Copyright, 830 Patent |
 
 **Notable cases:**
-- ADAPTIVE CLASSIFICATION TECHNOLOGIES LLC v. Open Text Inc. (2026) — District Court, W.D. Texas
-- GLOBUS MEDICAL, INC. v. POWELL (2026) — District Court, E.D. Pennsylvania
-- Quantion LLC v. Warner Bros. Entertainment, Inc. (2026) — District Court, D. Delaware
-- CheckWizard LLC v. CartonCloud Pty Ltd (2026) — District Court, E.D. Texas
-- Southeast Kansas Eye Care Associates, P.A. v. UnitedHealth Group Incorporated (2026) — District Court, D. Kansas
-- Shaw v. Kennedy (2026) — Court of Appeals for the First Circuit
+- ADAPTIVE CLASSIFICATION TECHNOLOGIES LLC v. Open Text Inc. (2026) - District Court, W.D. Texas
+- GLOBUS MEDICAL, INC. v. POWELL (2026) - District Court, E.D. Pennsylvania
+- Quantion LLC v. Warner Bros. Entertainment, Inc. (2026) - District Court, D. Delaware
+- CheckWizard LLC v. CartonCloud Pty Ltd (2026) - District Court, E.D. Texas
+- Southeast Kansas Eye Care Associates, P.A. v. UnitedHealth Group Incorporated (2026) - District Court, D. Kansas
+- Shaw v. Kennedy (2026) - Court of Appeals for the First Circuit
 
 - [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Microsoft%22&type=r) (Tier 1)
 <!-- auto:courtlistener-cases end -->
@@ -227,7 +227,7 @@ Microsoft represents the corporate capture of government technology infrastructu
 
 **Recent recalls:**
 
-- [Microsoft Recalls AC Power Cords for Surface Pro Devices Due to Fire, Shock Hazards](https://www.cpsc.gov/Recalls/16089) (2016-02-02) — The power cords can overheat, posing fire or shock hazards.
+- [Microsoft Recalls AC Power Cords for Surface Pro Devices Due to Fire, Shock Hazards](https://www.cpsc.gov/Recalls/16089) (2016-02-02) - The power cords can overheat, posing fire or shock hazards.
 
 - [Source: CPSC SaferProducts](https://www.saferproducts.gov/PublicSearch?query=Microsoft) (Tier 1)
 <!-- auto:cpsc-recalls end -->
@@ -315,12 +315,12 @@ Microsoft represents the corporate capture of government technology infrastructu
 | Agencies | Agriculture Department, Commerce Department, Defense Department, Education Department, Energy Department, Federal Communications Commission, Federal Energy Regulatory Commission, Food and Nutrition Service +4 more |
 
 **Recent regulatory activity:**
-- [Southern Star Central Gas Pipeline, Inc.; Notice of Application and Establishing Intervention Deadline](https://www.federalregister.gov/documents/2026/04/07/2026-06704/southern-star-central-gas-pipeline-inc-notice-of-application-and-establishing-intervention-deadline) (2026-04-07) — Energy Department
-- [Department of Defense Wage Committee (DoD Wage Committee); Notice of Federal Advisory Committee Meetings](https://www.federalregister.gov/documents/2026/04/06/2026-06645/department-of-defense-wage-committee-dod-wage-committee-notice-of-federal-advisory-committee) (2026-04-06) — Defense Department
-- [Privacy Act of 1974; System of Records](https://www.federalregister.gov/documents/2026/04/06/2026-06609/privacy-act-of-1974-system-of-records) (2026-04-06) — Housing and Urban Development Department
-- [Privacy Act of 1974; System of Records](https://www.federalregister.gov/documents/2026/04/06/2026-06606/privacy-act-of-1974-system-of-records) (2026-04-06) — Housing and Urban Development Department
-- [Village of Morrisville, Vermont; Notice of Meeting To Discuss Settlement Agreement](https://www.federalregister.gov/documents/2026/04/02/2026-06431/village-of-morrisville-vermont-notice-of-meeting-to-discuss-settlement-agreement) (2026-04-02) — Energy Department
-- [Proposed Collection; Comment Request](https://www.federalregister.gov/documents/2026/03/31/2026-06219/proposed-collection-comment-request) (2026-03-31) — Defense Department
+- [Southern Star Central Gas Pipeline, Inc.; Notice of Application and Establishing Intervention Deadline](https://www.federalregister.gov/documents/2026/04/07/2026-06704/southern-star-central-gas-pipeline-inc-notice-of-application-and-establishing-intervention-deadline) (2026-04-07) - Energy Department
+- [Department of Defense Wage Committee (DoD Wage Committee); Notice of Federal Advisory Committee Meetings](https://www.federalregister.gov/documents/2026/04/06/2026-06645/department-of-defense-wage-committee-dod-wage-committee-notice-of-federal-advisory-committee) (2026-04-06) - Defense Department
+- [Privacy Act of 1974; System of Records](https://www.federalregister.gov/documents/2026/04/06/2026-06609/privacy-act-of-1974-system-of-records) (2026-04-06) - Housing and Urban Development Department
+- [Privacy Act of 1974; System of Records](https://www.federalregister.gov/documents/2026/04/06/2026-06606/privacy-act-of-1974-system-of-records) (2026-04-06) - Housing and Urban Development Department
+- [Village of Morrisville, Vermont; Notice of Meeting To Discuss Settlement Agreement](https://www.federalregister.gov/documents/2026/04/02/2026-06431/village-of-morrisville-vermont-notice-of-meeting-to-discuss-settlement-agreement) (2026-04-02) - Energy Department
+- [Proposed Collection; Comment Request](https://www.federalregister.gov/documents/2026/03/31/2026-06219/proposed-collection-comment-request) (2026-03-31) - Defense Department
 - ... and 9,994 more
 
 - [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Microsoft%22) (Tier 1)

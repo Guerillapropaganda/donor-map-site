@@ -79,7 +79,7 @@ Patent protection for genetically modified seeds (preventing farmers from saving
 **The "Monsanto Protection Act":** Section 735 of the 2013 Consolidated and Further Continuing Appropriations Act, nicknamed the "Monsanto Protection Act", stripped federal courts of the authority to halt the planting of GMO crops even if they were later found to pose health or environmental risks. The provision was written by Monsanto's lobbyists and inserted into a must-pass spending bill.
 
 > [!money]
-> Monsanto's seed patent model converted a 10,000-year-old agricultural practice — saving seeds — into intellectual property violation. Farmers who previously saved and replanted seeds were forced into annual seed purchases, transferring billions in value from farmers to Monsanto. The political operation that enabled this extraction — patent law, EPA glyphosate classification, the "Monsanto Protection Act" — cost the company $10-15 million per year. The seed monopoly generated $10+ billion annually. The Bayer acquisition at $63 billion valued this political-regulatory architecture at a premium.
+> Monsanto's seed patent model converted a 10,000-year-old agricultural practice, saving seeds, into intellectual property violation. Farmers who previously saved and replanted seeds were forced into annual seed purchases, transferring billions in value from farmers to Monsanto. The political operation that enabled this extraction, patent law, EPA glyphosate classification, the "Monsanto Protection Act", cost the company $10-15 million per year. The seed monopoly generated $10+ billion annually. The Bayer acquisition at $63 billion valued this political-regulatory architecture at a premium.
 
 ---
 

@@ -56,7 +56,7 @@ Infrastructure investment with prevailing wage and project labor agreement requi
 
 ### Who They Fund
 
-> [!money] Follow the Money — IBEW Political Operation
+> [!money] Follow the Money. IBEW Political Operation
 > **IBEW PAC (Federal, C00027342):** $13.45 million raised (2024 cycle)
 > **Total contributions + outside spending:** $20.77 million (2024 cycle)
 > **Independent expenditures:** $461,180 (2024)

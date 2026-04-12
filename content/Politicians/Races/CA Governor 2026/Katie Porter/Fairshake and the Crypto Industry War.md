@@ -71,7 +71,7 @@ A Governor Porter would represent the consumer protection framework applied to t
 ### The Class Analysis
 
 > [!money]
-> The Fairshake-Porter war is the clearest example in this vault of the donor class using money to eliminate political opposition. Porter's crime is not any specific policy position — it's that she represents a model of politics that doesn't require donor permission. The crypto industry doesn't just oppose her regulation; it opposes the precedent that a politician can acquire power through small-dollar donations and consumer protection credibility rather than through donor relationships. If Porter's model works for a governor's race, it threatens the donor class's veto power over all future candidates.
+> The Fairshake-Porter war is the clearest example in this vault of the donor class using money to eliminate political opposition. Porter's crime is not any specific policy position, it's that she represents a model of politics that doesn't require donor permission. The crypto industry doesn't just oppose her regulation; it opposes the precedent that a politician can acquire power through small-dollar donations and consumer protection credibility rather than through donor relationships. If Porter's model works for a governor's race, it threatens the donor class's veto power over all future candidates.
 
 The $116 million war chest is not proportional to any specific regulatory threat. California could raise crypto compliance costs by millions; the industry spends hundreds of millions to prevent it. The spending is disciplinary, it exists to demonstrate to every future candidate that opposing the crypto donor class carries a career-ending price.
 

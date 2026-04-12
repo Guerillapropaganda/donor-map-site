@@ -45,7 +45,7 @@ No declassified evidence has established that Gabbard was a Russian intelligence
 The correlation between Gabbard's positions and Russian propaganda messaging is real. Whether that correlation reflects coordination, coincidence, or parallel independent conclusion-reaching is not established by the available evidence.
 
 > [!contradiction]
-> As DNI, Gabbard now oversees the intelligence community's counterintelligence operations — the same operations that monitor Russian influence operations in the United States. The congresswoman whose positions were amplified by Russian state media, who was publicly accused of being cultivated as a Russian asset, now directs the agencies responsible for detecting and countering Russian intelligence operations. The confirmation vote (52-48, with [[_Mitch McConnell Master Profile|Mitch McConnell]] as the only Republican no) reflected the Senate's unresolved concerns about this configuration.
+> As DNI, Gabbard now oversees the intelligence community's counterintelligence operations, the same operations that monitor Russian influence operations in the United States. The congresswoman whose positions were amplified by Russian state media, who was publicly accused of being cultivated as a Russian asset, now directs the agencies responsible for detecting and countering Russian intelligence operations. The confirmation vote (52-48, with [[_Mitch McConnell Master Profile|Mitch McConnell]] as the only Republican no) reflected the Senate's unresolved concerns about this configuration.
 
 ---
 
@@ -70,7 +70,7 @@ The Hindu nationalist donor base represents a foreign-ideology-aligned domestic 
 This donor angle is less rigorously documented than others in the vault. The evidence for specific RSS-connected organizational donations to Gabbard's campaigns requires further primary source research (FEC filings, organizational 990s). What is documented: Gabbard has appeared at events organized by these organizations and has received donor support from individuals associated with them.
 
 > [!money]
-> The Hindu nationalist political network in the United States operates through a web of organizations (VHPA, HSS, Hindu American Foundation) with varying degrees of connection to the RSS parent organization in India. Campaign finance is difficult to trace because individual donors don't identify their organizational affiliations on FEC filings. The primary evidence trail runs through event appearances and endorsements, not direct contribution records. This angle requires dedicated FEC/OpenSecrets research to fully document — flagged as a priority for a future research session.
+> The Hindu nationalist political network in the United States operates through a web of organizations (VHPA, HSS, Hindu American Foundation) with varying degrees of connection to the RSS parent organization in India. Campaign finance is difficult to trace because individual donors don't identify their organizational affiliations on FEC filings. The primary evidence trail runs through event appearances and endorsements, not direct contribution records. This angle requires dedicated FEC/OpenSecrets research to fully document, flagged as a priority for a future research session.
 
 ---
 

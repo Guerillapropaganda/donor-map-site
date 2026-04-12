@@ -86,7 +86,7 @@ Continued US defense spending on armored vehicles (Bradley replacement program, 
 **New Hampshire Political Alignment:** BAE's Electronic Systems division in Nashua employs 7,000+ workers, making BAE the largest private employer in New Hampshire. Both New Hampshire senators ([[_Jeanne Shaheen Master Profile|Shaheen]] and Maggie Hassan) sit on committees with defense jurisdiction, and BAE's New Hampshire employment ensures bipartisan defense spending support from the state.
 
 > [!money]
-> BAE Systems' US political operation illustrates how foreign defense companies capture American defense spending through domestic subsidiaries, local employment, and strategic facility placement. BAE's 7,000 employees in New Hampshire, 5,000+ in Pennsylvania, and thousands more across the US create constituency pressure for defense spending that benefits a UK-headquartered corporation. The political spending ($7-11 million/year) and job placement ensure that reducing BAE's contracts would cost American jobs in politically important states — making the foreign company's interests indistinguishable from local economic interests.
+> BAE Systems' US political operation illustrates how foreign defense companies capture American defense spending through domestic subsidiaries, local employment, and strategic facility placement. BAE's 7,000 employees in New Hampshire, 5,000+ in Pennsylvania, and thousands more across the US create constituency pressure for defense spending that benefits a UK-headquartered corporation. The political spending ($7-11 million/year) and job placement ensure that reducing BAE's contracts would cost American jobs in politically important states, making the foreign company's interests indistinguishable from local economic interests.
 
 ---
 
@@ -123,7 +123,7 @@ Continued US defense spending on armored vehicles (Bradley replacement program, 
 | Net Assets | $54.6M |
 | Officer Compensation | $6K |
 
-- [Source: ProPublica Nonprofit Explorer — EIN 742624710](https://projects.propublica.org/nonprofits/organizations/742624710) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer - EIN 742624710](https://projects.propublica.org/nonprofits/organizations/742624710) (Tier 1)
 - [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=download990pdf_12_2023_prefixes_72-74%2F742624710_202212_990O_2023120722085244.pdf) (Tier 1)
 <!-- auto:propublica-990 end -->
 
@@ -144,14 +144,14 @@ Continued US defense spending on armored vehicles (Bradley replacement program, 
 
 **Funded politicians:**
 
-- [[Jeanne Shaheen]] (Foreign Relations, Armed Services) — lobbying: $10.6M — contracts: $816K
+- [[Jeanne Shaheen]] (Foreign Relations, Armed Services) - lobbying: $10.6M - contracts: $816K
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-09.*
 <!-- auto:influence-cross-ref end -->
 
 <!-- auto:influence-cross-ref pending-merge 2026-04-12 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+> [!attention] Fresh API data available - needs manual merge
+> Bot detected your edits to this section. New data below - fold in what's useful, then delete this block.
 
 | Metric | Value |
 |--------|-------|
@@ -168,7 +168,7 @@ Continued US defense spending on armored vehicles (Bradley replacement program, 
 
 **Funded politicians:**
 
-- [[Jeanne Shaheen]] (Foreign Relations, Armed Services) — lobbying: $10.6M — contracts: $816K
+- [[Jeanne Shaheen]] (Foreign Relations, Armed Services) - lobbying: $10.6M - contracts: $816K
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-12.*
 
@@ -183,12 +183,12 @@ Continued US defense spending on armored vehicles (Bradley replacement program, 
 | Case Types | 442 Civil Rights: Jobs, 470 Racketeer/Corrupt Organization, 830 Patent |
 
 **Notable cases:**
-- Collision Communications, Inc. v. Apple Inc. (2026) — District Court, W.D. Texas
-- Gibney v. BAE Systems Technology Solutions & Services, Inc. (2026) — District Court, D. Maryland
-- Hot Systems, LLC v. San Diego Association of Governments (2026) — District Court, S.D. California
-- Nance v. United States Department of Defense (DoD) (2026) — District Court, M.D. Louisiana
-- Quirino Rocha v. BAE Systems, Inc. (2025) — District Court, S.D. California
-- McManus v. Lettera (2025) — District Court, S.D. New York
+- Collision Communications, Inc. v. Apple Inc. (2026) - District Court, W.D. Texas
+- Gibney v. BAE Systems Technology Solutions & Services, Inc. (2026) - District Court, D. Maryland
+- Hot Systems, LLC v. San Diego Association of Governments (2026) - District Court, S.D. California
+- Nance v. United States Department of Defense (DoD) (2026) - District Court, M.D. Louisiana
+- Quirino Rocha v. BAE Systems, Inc. (2025) - District Court, S.D. California
+- McManus v. Lettera (2025) - District Court, S.D. New York
 
 - [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22BAE%20Systems%22&type=r) (Tier 1)
 <!-- auto:courtlistener-cases end -->
@@ -396,12 +396,12 @@ Continued US defense spending on armored vehicles (Bradley replacement program, 
 | Agencies | Antitrust Division, Defense Department, Federal Aviation Administration, Justice Department, Pipeline and Hazardous Materials Safety Administration, Transportation Department |
 
 **Recent regulatory activity:**
-- [Notice Pursuant to the National Cooperative Research and Production Act of 1993-The National Advanced Mobility Consortium, Inc. (Formerly Known as the Robotics Technology Consortium)](https://www.federalregister.gov/documents/2026/03/26/2026-05925/notice-pursuant-to-the-national-cooperative-research-and-production-act-of-1993-the-national) (2026-03-26) — Justice Department
-- [Hazardous Materials: Notice of Actions on Special Permits](https://www.federalregister.gov/documents/2026/03/18/2026-05279/hazardous-materials-notice-of-actions-on-special-permits) (2026-03-18) — Transportation Department
-- [Arms Sales Notification](https://www.federalregister.gov/documents/2026/03/06/2026-04423/arms-sales-notification) (2026-03-06) — Defense Department
-- [Arms Sales Notification](https://www.federalregister.gov/documents/2026/03/06/2026-04422/arms-sales-notification) (2026-03-06) — Defense Department
-- [Hazardous Materials: Notice of Applications for New Special Permits](https://www.federalregister.gov/documents/2026/02/02/2026-02087/hazardous-materials-notice-of-applications-for-new-special-permits) (2026-02-02) — Transportation Department
-- [Arms Sales Notification](https://www.federalregister.gov/documents/2026/02/02/2026-02055/arms-sales-notification) (2026-02-02) — Defense Department
+- [Notice Pursuant to the National Cooperative Research and Production Act of 1993-The National Advanced Mobility Consortium, Inc. (Formerly Known as the Robotics Technology Consortium)](https://www.federalregister.gov/documents/2026/03/26/2026-05925/notice-pursuant-to-the-national-cooperative-research-and-production-act-of-1993-the-national) (2026-03-26) - Justice Department
+- [Hazardous Materials: Notice of Actions on Special Permits](https://www.federalregister.gov/documents/2026/03/18/2026-05279/hazardous-materials-notice-of-actions-on-special-permits) (2026-03-18) - Transportation Department
+- [Arms Sales Notification](https://www.federalregister.gov/documents/2026/03/06/2026-04423/arms-sales-notification) (2026-03-06) - Defense Department
+- [Arms Sales Notification](https://www.federalregister.gov/documents/2026/03/06/2026-04422/arms-sales-notification) (2026-03-06) - Defense Department
+- [Hazardous Materials: Notice of Applications for New Special Permits](https://www.federalregister.gov/documents/2026/02/02/2026-02087/hazardous-materials-notice-of-applications-for-new-special-permits) (2026-02-02) - Transportation Department
+- [Arms Sales Notification](https://www.federalregister.gov/documents/2026/02/02/2026-02055/arms-sales-notification) (2026-02-02) - Defense Department
 - ... and 645 more
 
 - [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22BAE%20Systems%22) (Tier 1)

@@ -53,8 +53,8 @@ WLFI's planned expansion into tokenized commodities and debit cards requires reg
 
 ### Who Funds Them. The Abu Dhabi Pipeline
 
-> [!money] Follow the Money — The $500 Million UAE Deal
-> **January 16, 2025** — four days before Trump's second inauguration — Eric Trump signed an agreement selling a 49% stake in World Liberty Financial to Aryam Investment 1, a vehicle linked to Abu Dhabi royal Sheikh Tahnoon bin Zayed Al Nahyan. Tahnoon also serves as the UAE's national security adviser.
+> [!money] Follow the Money. The $500 Million UAE Deal
+> **January 16, 2025**, four days before Trump's second inauguration. Eric Trump signed an agreement selling a 49% stake in World Liberty Financial to Aryam Investment 1, a vehicle linked to Abu Dhabi royal Sheikh Tahnoon bin Zayed Al Nahyan. Tahnoon also serves as the UAE's national security adviser.
 >
 > **Payment structure:**
 > - Initial payment at signing: $250 million
@@ -124,7 +124,7 @@ The regulatory environment that benefits WLFI was not purchased through donation
 | 2026-02 | WSJ reveals secret UAE deal details |, | House investigation launched | 13 months post-deal |
 
 > [!money] The Emoluments Pipeline: $500M → Policy → Billions
-> Sheikh Tahnoon paid $500 million for 49% of WLFI. Within months, the Trump administration reversed the prior administration's chip export ban, approving 500,000 advanced AI chips annually for the UAE — including to Tahnoon's own company G42. The UAE then used WLFI's USD1 stablecoin to facilitate a $2 billion Binance investment, legitimizing both the stablecoin and the exchange in a single transaction. The man who negotiated the deal (Witkoff) received $31 million and was simultaneously named U.S. envoy to the region. No Emoluments Clause enforcement. No congressional consent. No disclosure until journalists uncovered it 13 months later.
+> Sheikh Tahnoon paid $500 million for 49% of WLFI. Within months, the Trump administration reversed the prior administration's chip export ban, approving 500,000 advanced AI chips annually for the UAE, including to Tahnoon's own company G42. The UAE then used WLFI's USD1 stablecoin to facilitate a $2 billion Binance investment, legitimizing both the stablecoin and the exchange in a single transaction. The man who negotiated the deal (Witkoff) received $31 million and was simultaneously named U.S. envoy to the region. No Emoluments Clause enforcement. No congressional consent. No disclosure until journalists uncovered it 13 months later.
 
 ---
 

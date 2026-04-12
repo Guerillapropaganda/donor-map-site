@@ -22,7 +22,7 @@ Think Big PAC is the Democratic-facing super PAC arm of **Leading the Future** (
 The Think Big/Leading the Future operation represents the AI industry's first major foray into federal electoral politics at scale, directly modeled on the cryptocurrency industry's successful Fairshake super PAC operation in 2024. Its core policy objective is to pre-emptively defeat legislators who support meaningful AI oversight before such oversight becomes politically viable.
 
 > [!money]
-> Think Big invested $1.1M in Bean's IL-8 primary, and $1.4M supporting Jesse Jackson Jr. in IL-2 (who lost to Cook County Commissioner Donna Miller). Total IL-8 Think Big spending: $1.1M. Leading the Future network reserves at year-end 2025: $39M. Total LTF pledged: $100M+. Key donors: Greg Brockman (OpenAI President) + Anna Brockman: $25M; a16z (Marc Andreessen + Ben Horowitz): $25M; Ron Conway (SV Angel founder): $500K; Joe Lonsdale (Palantir co-founder): undisclosed. Think Big's $1.1M in Bean's race returned a victory — the only IL-2026 Think Big-backed race to succeed.
+> Think Big invested $1.1M in Bean's IL-8 primary, and $1.4M supporting Jesse Jackson Jr. in IL-2 (who lost to Cook County Commissioner Donna Miller). Total IL-8 Think Big spending: $1.1M. Leading the Future network reserves at year-end 2025: $39M. Total LTF pledged: $100M+. Key donors: Greg Brockman (OpenAI President) + Anna Brockman: $25M; a16z (Marc Andreessen + Ben Horowitz): $25M; Ron Conway (SV Angel founder): $500K; Joe Lonsdale (Palantir co-founder): undisclosed. Think Big's $1.1M in Bean's race returned a victory, the only IL-2026 Think Big-backed race to succeed.
 
 ---
 
@@ -113,7 +113,7 @@ The intra-industry conflict confirms the deregulation/regulation split: Think Bi
 Bean's IL-8 win without a Jobs and Democracy counter-investment reflects either the race's lower visibility on the AI safety radar, or the calculation that Bean's positions were acceptable to both AI industry factions.
 
 > [!contradiction]
-> **The "AI-Friendly Democrat" Frame:** Think Big's investment in Bean is framed publicly as supporting pro-AI innovation candidates. But there is no evidence Bean has any specific AI policy positions — she has been out of office for 15 years and has made no public statements about AI regulation. The "pro-AI" label means, operationally, that she has no anti-AI regulatory record and is expected to be manageable. Think Big is not buying a champion; it is buying an absence of resistance. The "AI policy alignment" is not a policy position — it is a donor relationship that precedes any actual votes.
+> **The "AI-Friendly Democrat" Frame:** Think Big's investment in Bean is framed publicly as supporting pro-AI innovation candidates. But there is no evidence Bean has any specific AI policy positions, she has been out of office for 15 years and has made no public statements about AI regulation. The "pro-AI" label means, operationally, that she has no anti-AI regulatory record and is expected to be manageable. Think Big is not buying a champion; it is buying an absence of resistance. The "AI policy alignment" is not a policy position, it is a donor relationship that precedes any actual votes.
 
 ---
 

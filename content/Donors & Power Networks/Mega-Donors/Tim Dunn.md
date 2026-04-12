@@ -114,7 +114,7 @@ Dunn's policy agenda reflects his business interests as an oil and gas operator 
 | Conservative PACs/Think Tanks | $10M+ | National | Ideological infrastructure building |
 
 > [!money]
-> Tim Dunn deployed approximately $100M+ in political giving across 2022-2026, making him one of the most prolific Republican megadonors. His strategy is dual: (1) reshape Texas politics at state level toward Christian Nationalist positions and energy-friendly deregulation; (2) deploy capital nationally to Trump-aligned candidates in key races. His funding of [[_Mike Rogers Master Profile|Mike Rogers]] in Michigan represents expansion of this model outside Texas — buying access for oil/energy interests to Senate intelligence and defense committees.
+> Tim Dunn deployed approximately $100M+ in political giving across 2022-2026, making him one of the most prolific Republican megadonors. His strategy is dual: (1) reshape Texas politics at state level toward Christian Nationalist positions and energy-friendly deregulation; (2) deploy capital nationally to Trump-aligned candidates in key races. His funding of [[_Mike Rogers Master Profile|Mike Rogers]] in Michigan represents expansion of this model outside Texas, buying access for oil/energy interests to Senate intelligence and defense committees.
 
 ---
 

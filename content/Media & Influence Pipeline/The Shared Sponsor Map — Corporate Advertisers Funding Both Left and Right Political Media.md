@@ -49,7 +49,7 @@ Fox News reported seven consecutive quarters of advertising revenue growth as of
 | MSNBC | $31.5M | 15% |
 
 > [!money]
-> Fox News's structural dominance makes it unavoidable for any brand seeking scale in cable news. In April 2025, Fox News commanded 2.59 million primetime viewers versus MSNBC's 1.21 million and CNN's 519,000. For companies targeting the 55+ demographic — the heaviest prescription drug users, largest insurance purchasers, and highest-net-worth viewers — Fox News is not a choice. It's a requirement.
+> Fox News's structural dominance makes it unavoidable for any brand seeking scale in cable news. In April 2025, Fox News commanded 2.59 million primetime viewers versus MSNBC's 1.21 million and CNN's 519,000. For companies targeting the 55+ demographic, the heaviest prescription drug users, largest insurance purchasers, and highest-net-worth viewers. Fox News is not a choice. It's a requirement.
 
 ---
 
@@ -83,7 +83,7 @@ Advertising researcher T.S. Kelly at Alphonso explained: "While most assume bran
 More recent iSpot.tv data shows pharma impressions surging across all networks simultaneously in February 2025 versus prior year: Fox News +63%, CNN +46.8%, MSNBC +32.3%. The Rachel Maddow Show saw pharma impressions increase elevenfold when Maddow returned to weeknights in early 2025.
 
 > [!contradiction]
-> RFK Jr. and Tucker Carlson have claimed pharma's omnipresence functions as implicit financial pressure on editorial coverage — Carlson describing it as pharma "buying off the news." The 25% of evening news minutes occupied by pharma ads is high enough that the claim carries structural plausibility. Yet pharma's indifference to which network carries its message suggests the buying power works identically on all networks. Editorial independence exists in inverse proportion to advertising dependence — and that dependence is bipartisan.
+> RFK Jr. and Tucker Carlson have claimed pharma's omnipresence functions as implicit financial pressure on editorial coverage. Carlson describing it as pharma "buying off the news." The 25% of evening news minutes occupied by pharma ads is high enough that the claim carries structural plausibility. Yet pharma's indifference to which network carries its message suggests the buying power works identically on all networks. Editorial independence exists in inverse proportion to advertising dependence, and that dependence is bipartisan.
 
 ---
 
@@ -155,7 +155,7 @@ The most concrete manifestation is DC Metro station advertising. A 2023 survey d
 For television, defense contractors run bipartisan national ad campaigns by necessity: news programming on both Fox News and CNN reaches policymakers and staffs. A contractor advertising on only one network would implicitly signal political alignment in a town where such signals carry real consequences.
 
 > [!contradiction]
-> The more significant form of defense contractor influence on news media is not advertising but the practice of hiring retired military officers as paid television analysts — who simultaneously hold lucrative positions at defense contractors, without disclosing those ties on air.
+> The more significant form of defense contractor influence on news media is not advertising but the practice of hiring retired military officers as paid television analysts, who simultaneously hold lucrative positions at defense contractors, without disclosing those ties on air.
 
 David Barstow's Pulitzer Prize–winning 2008 New York Times investigation obtained 8,000 pages of Pentagon documents showing the Pentagon cultivated more than 75 retired military officers as TV "military analysts" appearing on Fox News, CNN, NBC, CBS, and ABC as part of a coordinated campaign to generate favorable Iraq War coverage. These analysts collectively represented more than 150 military contractors as lobbyists, executives, board members, or consultants. Pentagon officials internally called them "message force multipliers" and "surrogates."
 
@@ -229,7 +229,7 @@ Corporations don't choose sides in the political media war, they fund both sides
 **Third: Political risk calculation follows electoral outcome.** Companies retreated from Fox News between 2018 and 2023 under boycott pressure and progressive social media campaigns. After November 2024, that calculation inverted: companies visible avoiding Fox News risked being seen as politically hostile to the political coalition controlling the White House, Congress, and regulatory agencies. The result was seven consecutive quarters of record Fox News advertising revenue driven primarily by blue-chip brands returning. Political risk flows from actual power, not ideology.
 
 > [!money]
-> The "buying silence" model works at scale. Pharmaceutical companies spend $7 billion annually on television. Insurance companies spend $10+ billion combined. Banks, tech, defense contractors add billions more. No news network can maintain editorial independence from advertising revenue at this magnitude. The political media war on television is funded identically on both sides — making the war itself the product, not the outcome.
+> The "buying silence" model works at scale. Pharmaceutical companies spend $7 billion annually on television. Insurance companies spend $10+ billion combined. Banks, tech, defense contractors add billions more. No news network can maintain editorial independence from advertising revenue at this magnitude. The political media war on television is funded identically on both sides, making the war itself the product, not the outcome.
 
 ---
 

@@ -37,11 +37,11 @@ Result: Progressives lost decisively. In Georgia 2026, the pattern is repeating 
 
 > [!money] The Sectoral Interests Behind Collins Support
 >
-> **Crypto (Fairshake):** Ossoff is not crypto-hostile. He voted for Sanders conditioning resolution but that was one vote on foreign policy. The real issue: Ossoff is a moderate who doesn't take industry money in visible amounts and doesn't prioritize crypto deregulation in his messaging. Fairshake's strategy is to remove all moderates and replace with ideological allies. Collins is self-described crypto trader — this signals investor alignment with industry interests. Fairshake is using Georgia as enforcement mechanism: demonstrate cost of not being pre-positioned as crypto ally.
+> **Crypto (Fairshake):** Ossoff is not crypto-hostile. He voted for Sanders conditioning resolution but that was one vote on foreign policy. The real issue: Ossoff is a moderate who doesn't take industry money in visible amounts and doesn't prioritize crypto deregulation in his messaging. Fairshake's strategy is to remove all moderates and replace with ideological allies. Collins is self-described crypto trader, this signals investor alignment with industry interests. Fairshake is using Georgia as enforcement mechanism: demonstrate cost of not being pre-positioned as crypto ally.
 >
-> **AI (Think Big):** Similar to crypto — AI industry is newer and still building political infrastructure. Georgia race provides opportunity to test spending. Collins has no AI background, but he is pro-Trump and deregulation-aligned. Think Big's goal is federal AI regulatory framework that defers to industry self-regulation and H1-B visa expansion (labor supply for tech companies). Any Trump-aligned senator serves that agenda.
+> **AI (Think Big):** Similar to crypto. AI industry is newer and still building political infrastructure. Georgia race provides opportunity to test spending. Collins has no AI background, but he is pro-Trump and deregulation-aligned. Think Big's goal is federal AI regulatory framework that defers to industry self-regulation and H1-B visa expansion (labor supply for tech companies). Any Trump-aligned senator serves that agenda.
 >
-> **Pro-Israel (AIPAC):** Ossoff voted for [[_Bernie Sanders Master Profile|Bernie Sanders]] resolution requiring conditions on military aid to Israel (S.J.Res.61, August 2023). AIPAC's structural mission is to ensure no conditions on Israel aid. The Georgia race is AIPAC signaling: voting for aid conditions has electoral consequences. AIPAC is expanding from Democratic primary focus to Republican support for candidates willing to sign unconditional Israel aid pledges. Collins, as Trump ally, is automatically pro-Israel — no policy demands needed.
+> **Pro-Israel (AIPAC):** Ossoff voted for [[_Bernie Sanders Master Profile|Bernie Sanders]] resolution requiring conditions on military aid to Israel (S.J.Res.61, August 2023). AIPAC's structural mission is to ensure no conditions on Israel aid. The Georgia race is AIPAC signaling: voting for aid conditions has electoral consequences. AIPAC is expanding from Democratic primary focus to Republican support for candidates willing to sign unconditional Israel aid pledges. Collins, as Trump ally, is automatically pro-Israel, no policy demands needed.
 
 ---
 
@@ -89,7 +89,7 @@ None of these industries formally coordinates. They align through:
 4. **Implicit coordination:** News of one industry's spending encourages others
 
 > [!contradiction]
-> **Industry money vs. authentic politics:** Collins' campaign messaging focuses on trucking, jobs, inflation, border security — authentic working-class concerns. His funding comes from crypto billionaires, AI industry, and foreign policy-aligned AIPAC, who care nothing about trucking or inflation. Collins is authentic about his trucking background, but that authenticity is being used as cover for serving oligarchic donor interests. He's not lying about being a trucker. He's being honest about nothing else.
+> **Industry money vs. authentic politics:** Collins' campaign messaging focuses on trucking, jobs, inflation, border security, authentic working-class concerns. His funding comes from crypto billionaires, AI industry, and foreign policy-aligned AIPAC, who care nothing about trucking or inflation. Collins is authentic about his trucking background, but that authenticity is being used as cover for serving oligarchic donor interests. He's not lying about being a trucker. He's being honest about nothing else.
 
 ---
 
@@ -152,9 +152,9 @@ Fairshake's 2024 spending pattern is notable: they spent big against Democrats, 
 Neither was proposing crypto regulation. Both simply represented political model (small-dollar fundraising, consumer-protection framing) that threatened donor class veto power.
 
 > [!quote]
-> "The industry's willingness to spend $10M+ purely for deterrence effect — to demonstrate to other candidates that opposing deregulation carries career-ending price — is structural political innovation. It's not about [[_Katie Porter Master Profile|Katie Porter]]'s specific policy position. It's about making the example of her removal so public and expensive that other candidates internalize the threat."
+> "The industry's willingness to spend $10M+ purely for deterrence effect, to demonstrate to other candidates that opposing deregulation carries career-ending price, is structural political innovation. It's not about [[_Katie Porter Master Profile|Katie Porter]]'s specific policy position. It's about making the example of her removal so public and expensive that other candidates internalize the threat."
 >
-> — Session 12a analysis, [[Fairshake PAC|Fairshake PAC]] profile
+>. Session 12a analysis, [[Fairshake PAC|Fairshake PAC]] profile
 
 ---
 

@@ -68,7 +68,7 @@ JCN operates within Leonard Leo's interconnected network of dark money organizat
 - **[[Federalist Society]]**. The talent pipeline. JCN provides the money; the Federalist Society provides the judicial candidates.
 
 > [!money]
-> The network architecture is the product. By routing money through multiple 501(c)(3) and 501(c)(4) entities, Leo's operation achieves three things simultaneously: donor anonymity (no public disclosure), tax optimization (Barre Seid avoided ~$400 million in capital gains taxes by donating Tripp Lite stock rather than cash), and political deniability (no single entity appears to control the full operation). The $1.6 billion Seid donation — the largest known political donation in American history — arrived as a stock transfer of 100% of Tripp Lite shares before the company sold for $1.65 billion to an Irish conglomerate. Leo's network received the proceeds tax-free.
+> The network architecture is the product. By routing money through multiple 501(c)(3) and 501(c)(4) entities, Leo's operation achieves three things simultaneously: donor anonymity (no public disclosure), tax optimization (Barre Seid avoided ~$400 million in capital gains taxes by donating Tripp Lite stock rather than cash), and political deniability (no single entity appears to control the full operation). The $1.6 billion Seid donation, the largest known political donation in American history, arrived as a stock transfer of 100% of Tripp Lite shares before the company sold for $1.65 billion to an Irish conglomerate. Leo's network received the proceeds tax-free.
 
 ---
 
@@ -103,7 +103,7 @@ JCN operates within Leonard Leo's interconnected network of dark money organizat
 | 2024 | Truth & Courage PAC, CLF, Pole Position PAC | $4.04M | Electoral support for congressional candidates aligned with judicial agenda | Current cycle |
 
 > [!money]
-> JCN spent $44 million on three Supreme Court confirmations. The justices it helped confirm have delivered rulings worth hundreds of billions to the donor class: overturning Chevron deference (eliminating regulatory authority over industries), gutting the EPA's power to regulate emissions, ending affirmative action, expanding gun rights, overturning Roe v. Wade. The $44 million was not a donation. It was a capital investment with compounding returns every Supreme Court term. And the $1.6 billion Seid donation ensures the operation is funded for decades — the largest known investment in judicial capture in American history.
+> JCN spent $44 million on three Supreme Court confirmations. The justices it helped confirm have delivered rulings worth hundreds of billions to the donor class: overturning Chevron deference (eliminating regulatory authority over industries), gutting the EPA's power to regulate emissions, ending affirmative action, expanding gun rights, overturning Roe v. Wade. The $44 million was not a donation. It was a capital investment with compounding returns every Supreme Court term. And the $1.6 billion Seid donation ensures the operation is funded for decades, the largest known investment in judicial capture in American history.
 
 ---
 
@@ -122,7 +122,7 @@ JCN operates within Leonard Leo's interconnected network of dark money organizat
 **Compensation structure (FY2024):** Ann Corkery (Counsel) $310K, Frank Scaturro (Counsel) $268K, Carrie Severino (Counsel) $171K. Gary Marx (President/Secretary/Treasurer/Director) $0. The $0 compensation for the organization's president signals compensation through affiliated entities, a standard dark money practice.
 
 > [!contradiction]
-> The Concord Fund reports $0 in executive compensation while paying three "counsels" a combined $749K. The president draws $0. This structure exists because Leo's network compensates leadership through consulting fees at CRC Advisors ($6M from Concord Fund alone in one year) rather than direct salaries — making total compensation harder to track across the interlocking entities.
+> The Concord Fund reports $0 in executive compensation while paying three "counsels" a combined $749K. The president draws $0. This structure exists because Leo's network compensates leadership through consulting fees at CRC Advisors ($6M from Concord Fund alone in one year) rather than direct salaries, making total compensation harder to track across the interlocking entities.
 
 ---
 
@@ -211,18 +211,18 @@ The $1.6 billion Seid donation transformed the operation from campaign-cycle dep
 
 **Funded politicians:**
 
-- [[Neil Gorsuch]] — lobbying: $248K
-- [[Amy Coney Barrett]] — lobbying: $248K
-- [[Brett Kavanaugh]] — lobbying: $248K
-- [[Sheldon Whitehouse]] (Environment & Public Works (Ranking Member, 119th Congress), Judiciary, Finance) — lobbying: $248K
-- [[Clarence Thomas]] — lobbying: $248K
+- [[Neil Gorsuch]] - lobbying: $248K
+- [[Amy Coney Barrett]] - lobbying: $248K
+- [[Brett Kavanaugh]] - lobbying: $248K
+- [[Sheldon Whitehouse]] (Environment & Public Works (Ranking Member, 119th Congress), Judiciary, Finance) - lobbying: $248K
+- [[Clarence Thomas]] - lobbying: $248K
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-10.*
 <!-- auto:influence-cross-ref end -->
 
 <!-- auto:influence-cross-ref pending-merge 2026-04-12 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+> [!attention] Fresh API data available - needs manual merge
+> Bot detected your edits to this section. New data below - fold in what's useful, then delete this block.
 
 | Metric | Value |
 |--------|-------|
@@ -232,11 +232,11 @@ The $1.6 billion Seid donation transformed the operation from campaign-cycle dep
 
 **Funded politicians:**
 
-- [[Neil Gorsuch]] — lobbying: $248K
-- [[Amy Coney Barrett]] — lobbying: $248K
-- [[Brett Kavanaugh]] — lobbying: $248K
-- [[Sheldon Whitehouse]] (Environment & Public Works (Ranking Member, 119th Congress), Judiciary, Finance) — lobbying: $248K
-- [[Clarence Thomas]] — lobbying: $248K
+- [[Neil Gorsuch]] - lobbying: $248K
+- [[Amy Coney Barrett]] - lobbying: $248K
+- [[Brett Kavanaugh]] - lobbying: $248K
+- [[Sheldon Whitehouse]] (Environment & Public Works (Ranking Member, 119th Congress), Judiciary, Finance) - lobbying: $248K
+- [[Clarence Thomas]] - lobbying: $248K
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-12.*
 
@@ -251,12 +251,12 @@ The $1.6 billion Seid donation transformed the operation from campaign-cycle dep
 | Case Types | 440 Civil Rights: Other, 441 Civil Rights: Voting, 890 Other Statutory Actions, 895 Freedom of Information Act, 899 Other Statutes: Administrative Procedures Act/Review or Appeal of Agency Decision |
 
 **Notable cases:**
-- Younger v. Trump (2025) — District Court, D. Massachusetts
-- John Doe v. U.S Department of Justice (2022) — District Court, C.D. California
-- Arkansas State Conference NAACP v. Arkansas Board of Apportionment (2021) — District Court, E.D. Arkansas
-- United States v. Kelsey (2021) — District Court, M.D. Tennessee
-- AMERICAN OVERSIGHT v. U.S. CENSUS BUREAU (2020) — District Court, District of Columbia
-- AMERICAN OVERSIGHT v. U.S. DEPARTMENT OF EDUCATION (2019) — District Court, District of Columbia
+- Younger v. Trump (2025) - District Court, D. Massachusetts
+- John Doe v. U.S Department of Justice (2022) - District Court, C.D. California
+- Arkansas State Conference NAACP v. Arkansas Board of Apportionment (2021) - District Court, E.D. Arkansas
+- United States v. Kelsey (2021) - District Court, M.D. Tennessee
+- AMERICAN OVERSIGHT v. U.S. CENSUS BUREAU (2020) - District Court, District of Columbia
+- AMERICAN OVERSIGHT v. U.S. DEPARTMENT OF EDUCATION (2019) - District Court, District of Columbia
 
 - [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Judicial%20Crisis%20Network%22&type=r) (Tier 1)
 <!-- auto:courtlistener-cases end -->
@@ -272,7 +272,7 @@ The $1.6 billion Seid donation transformed the operation from campaign-cycle dep
 
 | Recipient | Amount | Party |
 |-----------|--------|-------|
-| LIBERTY 2.0 | $75,000 | — |
+| LIBERTY 2.0 | $75,000 | - |
 
 - [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Judicial%20Crisis%20Network) (Tier 1)
 <!-- auto:fec-donor end -->

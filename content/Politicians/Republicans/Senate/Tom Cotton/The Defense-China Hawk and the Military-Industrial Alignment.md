@@ -16,7 +16,7 @@ donors: [[Lockheed Martin]] · [[Boeing]] · (Defense contractors, no specific n
 ### The Defense-China Hawk and the Military-Industrial Alignment
 
 > [!money]
-> [[_Tom Cotton Master Profile|Tom Cotton]] sits on the Armed Services Committee (Airland, Cybersecurity, Strategic Forces subcommittees) — the committee that oversees defense contractor budgets. His policy positions align perfectly with the industry that funds the committee: FORCE Act ($43 billion for Indo-Pacific military infrastructure, submarines, jet fighters for Taiwan), opposition to the Fiscal Responsibility Act (argued defense spending limits posed "mortal risk to national security"), and consistent China-hawk legislation (Countering Chinese Political Warfare Act, C-FOOD Act, Restoring Trade Fairness Act). The defense contractors who donate to Armed Services Committee members get a senator who advocates for their budget lines. The neoconservative donors who funded his campaign get a senator who advocates for their foreign policy. Both get the same votes.
+> [[_Tom Cotton Master Profile|Tom Cotton]] sits on the Armed Services Committee (Airland, Cybersecurity, Strategic Forces subcommittees), the committee that oversees defense contractor budgets. His policy positions align perfectly with the industry that funds the committee: FORCE Act ($43 billion for Indo-Pacific military infrastructure, submarines, jet fighters for Taiwan), opposition to the Fiscal Responsibility Act (argued defense spending limits posed "mortal risk to national security"), and consistent China-hawk legislation (Countering Chinese Political Warfare Act, C-FOOD Act, Restoring Trade Fairness Act). The defense contractors who donate to Armed Services Committee members get a senator who advocates for their budget lines. The neoconservative donors who funded his campaign get a senator who advocates for their foreign policy. Both get the same votes.
 
 ---
 
@@ -32,7 +32,7 @@ The consequences:
 - Cotton stood by the piece, calling the backlash proof of liberal media bias
 
 > [!contradiction]
-> The op-ed reveals Cotton's positioning: the military veteran who advocates deploying the military against American citizens. The "constitutional conservative" who supports using the Insurrection Act — one of the most expansive executive powers — to suppress domestic protest. The Harvard Law graduate whose legal argument (Insurrection Act authority) was constitutionally defensible but politically extreme. The op-ed served the same function as the Iran letter: position Cotton as the most aggressive voice in the room, earning media attention and donor approval simultaneously.
+> The op-ed reveals Cotton's positioning: the military veteran who advocates deploying the military against American citizens. The "constitutional conservative" who supports using the Insurrection Act, one of the most expansive executive powers, to suppress domestic protest. The Harvard Law graduate whose legal argument (Insurrection Act authority) was constitutionally defensible but politically extreme. The op-ed served the same function as the Iran letter: position Cotton as the most aggressive voice in the room, earning media attention and donor approval simultaneously.
 
 ---
 
