@@ -18,7 +18,9 @@ const TYPE_LABELS: Record<string, string> = {
 export function TypeBreakdown({ stats }: { stats: VaultStats | null }) {
   if (!stats) return null
 
-  const sorted = Object.entries(stats.byType).sort((a, b) => b[1] - a[1])
+  const sorted = Object.entries(stats.byType)
+    .filter(([type]) => TYPE_LABELS[type]) // only show labeled types, skip sub-note/daily-update/reference/etc
+    .sort((a, b) => b[1] - a[1])
   const total = stats.totalProfiles
 
   return (

@@ -123,10 +123,14 @@ export function hasDarkMoneyTrace(raw: string): boolean {
 export function hasRevolvingDoor(raw: string): boolean {
   const terms = [
     /\brevolving door\b/i,
-    /\bspouse\b[^.\n]{0,80}\b(employ|board|lobby|consult)/i,
-    /\bchief of staff\b[^.\n]{0,120}\b(joined|became|hired)/i,
-    /\bformer\s+(staff|aide|chief of staff)/i,
+    /\bspouse\b[^.\n]{0,80}\b(employ|board|lobby|consult|company|firm|corp|capital|partner)/i,
+    /\b(husband|wife)\b[^.\n]{0,80}\b(employ|board|lobby|consult|company|firm|corp|capital|partner|manag|direct)/i,
+    /\bmarried?\b[^.\n]{0,80}\b(billionaire|financier|executive|CEO|founder|partner)/i,
+    /\bchief of staff\b[^.\n]{0,120}\b(joined|became|hired|left|went)/i,
+    /\bformer\s+(staff|aide|chief of staff|director|secretary|administrator)/i,
     /\bwent to work for\b/i,
+    /\bhired\s+\d+\s+government officials\b/i,
+    /\bformer\s+(pentagon|faa|epa|sec|fcc|doj|fda)\b/i,
   ]
   return terms.some(r => r.test(raw))
 }

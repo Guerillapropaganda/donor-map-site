@@ -102,7 +102,7 @@ export function StatsBar({ stats, loading }: StatsBarProps) {
           <div className="flex items-center justify-between p-2 rounded bg-[var(--color-bg)]">
             <span className="text-[10px] text-[var(--color-text-dim)]">Ready for A+ review</span>
             <span className="text-[11px] font-bold text-[#fbbf24]">
-              {verified > 0 ? `${verified} verified` : "Run reclassify first"}
+              {verified > 0 ? `${verified} verified` : "0 verified — awaiting editorial sign-off"}
             </span>
           </div>
         </div>
