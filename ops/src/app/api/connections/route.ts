@@ -262,12 +262,15 @@ export async function GET() {
         profile.connectionCount++
       }
 
-      // For story-links, also add to the TARGET profile's stories bucket
-      // so that "Donald Trump" shows stories that reference him
-      if (legacyType === "stories") {
+      // Bidirectional edges: if A→B exists, B should also see A.
+      // - stories: target profile shows story that references it
+      // - opposes: if Trump opposes Newsom, Newsom also opposes Trump
+      // - related: symmetric by definition
+      // - donors: NOT symmetric (monetary direction matters, handled by flipForLegacy)
+      if (legacyType === "stories" || legacyType === "opposes" || legacyType === "related") {
         const targetProfile = profileMap.get(target)
-        if (targetProfile && !targetProfile.stories.includes(source)) {
-          targetProfile.stories.push(source)
+        if (targetProfile && !targetProfile[legacyType].includes(source)) {
+          targetProfile[legacyType].push(source)
           targetProfile.connectionCount++
         }
       }

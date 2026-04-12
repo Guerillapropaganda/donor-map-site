@@ -71,7 +71,7 @@ export async function GET() {
     } catch { /* skip */ }
 
     return NextResponse.json({
-      alerts: { critical: Math.min(alertsCritical, 99), warning: alertsWarning },
+      alerts: { critical: alertsCritical, warning: alertsWarning },
       notes: { open: notesOpen },
       suggestions: { highPending: suggestionsHigh },
       pipeline: { status: pipelineStatus, lastRun: pipelineLastRun },
