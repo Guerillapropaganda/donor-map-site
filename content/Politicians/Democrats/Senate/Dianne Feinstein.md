@@ -90,6 +90,20 @@ In Feinstein's final years, her cognitive decline raised questions about who act
 
 The class analysis: when a wealthy senator becomes incapacitated, do the institutional relationships and donor networks simply transfer to the successor staff? Feinstein's case suggests yes — her Senate power continued operating through institutional inertia and staffing continuity, not through her personal agency.
 
+## Class Analysis
+
+Dianne Feinstein is the vault's clearest case of wealth-through-marriage converting into policy power that compounds the wealth. Net worth at death: $110M. Source of wealth: marriage to Richard Blum (1980), whose Blum Capital Partners managed $1.5-4.5B+ in assets including controlling stakes in URS Corporation and Perini Corporation, both defense contractors dependent on federal contracts.
+
+The class mechanism operates at two levels. First, direct portfolio conflict: Feinstein chaired the Military Construction Appropriations subcommittee (2001-2007) while Blum held controlling interests in companies receiving $2B+ in federal contracts. She supervised the appropriations that funded her husband's portfolio companies. The Blum divestment from URS/Perini in 2005, timed precisely as Feinstein moved to the Intelligence Committee, was officially "portfolio rebalancing." The timing speaks for itself.
+
+Second, structural alignment: Feinstein's identity as a surveillance hawk and intelligence community defender served the defense contractor ecosystem that generated her household wealth. Every vote to expand NSA authority, reauthorize FISA, increase intelligence budgets, and protect CIA from accountability flowed through the same defense-industrial pipeline that enriched Blum Capital. Whether she would have held these positions without the financial stake is unknowable. The alignment is too complete to be coincidental.
+
+The San Francisco real estate portfolio ($37.5M Carlton Hotel Properties, $16.5M+ Pacific Heights mansion, additional holdings) adds a second class dimension. Feinstein opposed affordable housing requirements and favored developer-friendly policy while her portfolio appreciated through the same restrictive zoning and development incentives she protected. The senator from California's most unaffordable city personally profited from the unaffordability.
+
+The final-years cognitive decline exposes the class infrastructure beneath the individual. When Feinstein became incapacitated, her Senate power continued operating through staff, institutional inertia, and donor network continuity. The seat functioned without the senator. This reveals the class truth: the donor relationships and policy outputs were never about Feinstein's personal agency. They were about the institutional position and the wealth networks attached to it.
+
+---
+
 ### Rhetorical Signature Moves
 
 **1. "National Security Expert"**: Invoked decades on Intelligence Committee to claim deep expertise on surveillance, counterterrorism, and foreign threats. This expertise framing masked the conflict-of-interest between her positions and her portfolio.
