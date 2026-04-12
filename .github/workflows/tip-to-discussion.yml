@@ -1,4 +1,5 @@
 name: Save Tip to Vault
+# Re-registered workflow for repository_dispatch
 on:
   repository_dispatch:
     types: [new-tip]
