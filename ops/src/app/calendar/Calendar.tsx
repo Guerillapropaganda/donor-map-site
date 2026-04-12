@@ -285,7 +285,9 @@ export function Calendar({ schedule, initialState, serverDate, serverTime, liveC
                 const displayDate = liveTimestamp
                   ? liveTimestamp.slice(0, 10)
                   : task.completed_date
-                const displayTime = liveTimestamp ? liveTimestamp.slice(11, 16) : null
+                const displayTime = liveTimestamp
+                  ? new Date(liveTimestamp).toLocaleTimeString("en-US", { hour: "2-digit", minute: "2-digit", hour12: false })
+                  : null
                 return (
                   <div key={task.id} className="px-5 py-2 flex items-start gap-3 text-[10px] font-mono">
                     <span style={{ color: isDone ? "#22c55e" : "#7a7a86" }}>{isDone ? "☒" : "☐"}</span>

@@ -1,5 +1,26 @@
 import matter from "gray-matter"
 
+// Lightweight type resolver for enrichment-applicability checks.
+// Can't import the full profile-type-rulebook.ts here because vault.ts
+// is bundled for the client (VaultGrid.tsx "use client"), and the
+// rulebook module uses Node's `fs` to read the JSON file. So we inline
+// the common sub-category → top-level mappings that affect enrichment.
+// Unknown types default to their raw value (treated as enrichable).
+function resolveTypeForStats(flatType: string): string {
+  if (WEIGHTS_BY_TYPE[flatType]) return flatType
+  const PARENTS: Record<string, string> = {
+    corporation: "entity", pac: "entity", "lobbying-firm": "entity",
+    "think-tank": "entity", union: "entity", foundation: "entity",
+    "media-profile": "media", journalist: "media", podcaster: "media",
+    "story-seed": "story", investigation: "story", explainer: "story",
+    "profile-deep-dive": "story", "network-map": "story",
+    "admin-note": "meta", "sub-note": "meta", "daily-update": "meta",
+    digest: "meta", index: "meta", reference: "meta", system: "meta",
+    methodology: "meta", page: "meta",
+  }
+  return PARENTS[flatType] || flatType
+}
+
 export interface Profile {
   path: string
   title: string
@@ -455,32 +476,56 @@ export function computeStats(profiles: Profile[]): VaultStats {
   const VERIFIED_DECAY_DAYS = 90
   const READY_DECAY_DAYS = 180
 
+  // Types where enrichment doesn't apply (enrichment weight = 0 in
+  // WEIGHTS_BY_TYPE from Phase 1d). These profiles should NOT count as
+  // "not enriched" — they never need pipeline enrichment.
+  const ENRICHMENT_NOT_APPLICABLE = new Set(
+    Object.entries(WEIGHTS_BY_TYPE)
+      .filter(([, w]) => w.enrichment === 0)
+      .map(([t]) => t)
+  )
+
   for (const p of profiles) {
     byType[p.type] = (byType[p.type] || 0) + 1
     byReadiness[p.contentReadiness] = (byReadiness[p.contentReadiness] || 0) + 1
+
+    // Resolve the flat vault type to its top-level rulebook type for
+    // the enrichment-applicability check. "corporation" → "entity"
+    // (applicable), "story-seed" → "story" (not applicable), etc.
+    const topLevel = resolveTypeForStats(p.type)
+    const needsEnrichment = !ENRICHMENT_NOT_APPLICABLE.has(topLevel)
+
     if (p.lastEnriched) {
       enriched++
       const daysSince = (now - new Date(p.lastEnriched).getTime()) / (24 * 60 * 60 * 1000)
       if (daysSince > 30) staleCount++
       if (p.contentReadiness === "verified" && daysSince > VERIFIED_DECAY_DAYS) verifiedToReady++
       if (p.contentReadiness === "ready" && daysSince > READY_DECAY_DAYS) readyToDraft++
-    } else {
+    } else if (needsEnrichment) {
       neverEnriched++
-      // Ready profiles with no enrichment and no recent update are decay candidates
       if (p.contentReadiness === "ready") {
         const lastUpdate = p.lastUpdated ? new Date(p.lastUpdated).getTime() : 0
         if ((now - lastUpdate) / (24 * 60 * 60 * 1000) > READY_DECAY_DAYS) readyToDraft++
       }
     }
+    // Types with enrichment weight = 0 (story, event, meta) are skipped
+    // entirely from the enrichment counters — they never run through
+    // FEC/LDA/SEC pipelines by design.
     if (p.sourceTier === 1) withTier1++
   }
+
+  // notEnriched = profiles that SHOULD have enrichment but don't
+  const enrichmentApplicable = profiles.filter((p) => {
+    const tl = resolveTypeForStats(p.type)
+    return !ENRICHMENT_NOT_APPLICABLE.has(tl)
+  }).length
 
   return {
     totalProfiles: profiles.length,
     byType,
     byReadiness,
     enriched,
-    notEnriched: profiles.length - enriched,
+    notEnriched: enrichmentApplicable - enriched,
     withTier1,
     staleCount,
     neverEnriched,
