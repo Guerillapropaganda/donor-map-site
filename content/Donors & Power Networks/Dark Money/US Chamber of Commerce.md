@@ -2,7 +2,7 @@
 title: "US Chamber of Commerce"
 type: donor
 content-readiness: draft
-last-updated: 2026-04-11
+last-updated: 2026-04-12
 source-tier: 1
 parent: null
 sector: "Dark Money"
@@ -48,7 +48,7 @@ sec-form-types:
   - "EX-99.2"
   - "PX14A6G"
   - "PX14A6N"
-ein: "141883061"
+ein: 461561597
 annual-revenue: "$37.8M"
 net-assets: "$61.1M"
 tax-year: "2023"

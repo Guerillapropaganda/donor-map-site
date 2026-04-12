@@ -2,7 +2,7 @@
 title: "Joseph Morelle Master Profile"
 type: politician
 content-readiness: draft
-last-updated: 2026-04-11
+last-updated: 2026-04-12
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -36,7 +36,7 @@ known-gaps:
   - "No legislative record from Congress.gov"
   - "No mapped relationships"
 related: "[[_Chuck Schumer Master Profile|Chuck Schumer]]"
-last-enriched: "2026-04-11"
+last-enriched: "2026-04-12"
 committees:
   - "House Committee on Appropriations"
   - "House Committee on House Administration"

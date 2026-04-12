@@ -2,14 +2,14 @@
 title: "The 85 Fund"
 type: donor
 content-readiness: draft
-last-updated: 2026-04-11
+last-updated: 2026-04-12
 source-tier: 1
 parent: null
 sector: "Dark Money"
 entity-type: "Individual Donor"
 issues:
   - "Dark Money & Campaign Finance"
-ein: "202466871"
+ein: 202466871
 annual-revenue: "$143.1M"
 net-assets: "$3.9M"
 tax-year: "2023"

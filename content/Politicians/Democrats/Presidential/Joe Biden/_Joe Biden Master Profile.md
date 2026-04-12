@@ -311,3 +311,10 @@ Notably, Biden did not use the defense industry's record profits as a fulcrum to
 
 - [Source: Federal Register — Presidential Documents](https://www.federalregister.gov/presidential-documents/executive-orders/joe-biden) (Tier 1)
 <!-- auto:executive-orders end -->
+
+### Voting Record
+<!-- auto:voting-record start -->
+**Sources**
+
+- [Congress.gov: Joe Biden](https://www.congress.gov/member/c001091) (Tier 1)
+<!-- auto:voting-record end -->

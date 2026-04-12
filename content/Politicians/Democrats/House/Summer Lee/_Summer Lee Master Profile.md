@@ -211,3 +211,10 @@ The darker implication: her safety is not a product of principle or popularity. 
 
 - [Source: Congress.gov](https://www.congress.gov/member/L000299) (Tier 1)
 <!-- auto:congress-legislation end -->
+
+### Voting Record
+<!-- auto:voting-record start -->
+**Sources**
+
+- [Congress.gov: Summer Lee](https://www.congress.gov/member/c001091) (Tier 1)
+<!-- auto:voting-record end -->

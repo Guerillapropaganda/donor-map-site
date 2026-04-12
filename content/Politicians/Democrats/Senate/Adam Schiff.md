@@ -129,3 +129,10 @@ AIPAC's $5M+ independent spending on Schiff's behalf during 2023–2024 reflecte
 
 - [Source: FEC.gov](https://www.fec.gov/data/candidate/H0CA27085/) (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
+
+### Voting Record
+<!-- auto:voting-record start -->
+**Sources**
+
+- [Congress.gov: Adam Schiff](https://www.congress.gov/member/c001091) (Tier 1)
+<!-- auto:voting-record end -->

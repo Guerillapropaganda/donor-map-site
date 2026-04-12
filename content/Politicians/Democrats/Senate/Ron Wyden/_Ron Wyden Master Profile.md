@@ -14,18 +14,28 @@ committees:
 leadership-roles:
   - "Ranking Member"
 issues:
-  - "Technology"
+  - "Agriculture and Food"
+  - "Armed Forces and National Security"
+  - "Civil Rights and Liberties, Minority Issues"
+  - "Education"
+  - "Energy"
+  - "Finance and Financial Sector"
+  - "Foreign Trade and International Finance"
+  - "Government Operations and Politics"
+  - "Health"
+  - "International Affairs"
 total-received: "$133,281"
 fec-candidate-id: "S6OR00110"
 stock-trades: 10
 related: "[[Private Equity Buys Regulatory Immunity Across the Aisle]] · [[_Mike Crapo Master Profile|Mike Crapo]] · [[_Donald Trump Master Profile|Trump]] · [[Koch Network - Charles Koch]]"
-last-enriched: "2026-04-09"
+last-enriched: "2026-04-12"
 needs-reenrichment: true
 reenrich-reason: "run voting pipeline; run congress pipeline"
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
   • VOTING data is missing entirely. This profile was promoted to ready without ever having voting enrichment run on it.
   • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it.
 The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+bioguide-id: "W000779"
 ---
 #ron-wyden #democrat #oregon #senate #ranking-member #phase-6-gavel-power #finance #tax-policy #privacy #tech #class-analysis #follow-the-money
 
@@ -209,3 +219,32 @@ On tax policy, he frames himself as the counterweight to Crapo — the progressi
 
 ### DOJ Press Releases
 <!-- auto:doj-press removed 2026-04-10 by Research Claude: was showing >10K DOJ mentions from the API index-size false-positive bug. Main engine fix d1ceb91 (2026-04-10) caps at 10K + validates 60% name match. Will repopulate correctly on next pipeline run. -->
+
+### Legislative Activity (Congress.gov)
+<!-- auto:congress-legislation start -->
+| Metric | Value |
+|--------|-------|
+| Scope | Career Total |
+| Party | Democratic |
+| State | Oregon |
+| Chamber | House of Representatives |
+| Bills Sponsored | 1984 |
+| Bills Cosponsored | 8506 |
+
+**Policy areas:** Agriculture and Food, Armed Forces and National Security, Civil Rights and Liberties, Minority Issues, Education, Energy, Finance and Financial Sector, Foreign Trade and International Finance, Government Operations and Politics, Health, International Affairs, Labor and Employment, Native Americans, Taxation, Transportation and Public Works
+
+**Recent sponsored legislation:**
+
+| Bill | Title | Status |
+|------|-------|--------|
+| 4268 | A bill to amend the Privacy Protection Act of 1980 to update and strengthen prot… | Read twice and referred to the Committee on the Judiciary. |
+| 4254 | Health Workforce Innovation Act | Read twice and referred to the Committee on Health, Education, Labor, and Pensions. |
+| 4193 | Wildfire and Grid Reliability Act | Read twice and referred to the Committee on Energy and Natural Resources. |
+| 145 | A joint resolution providing for congressional disapproval under chapter 8 of ti… | Read twice and referred to the Committee on Banking, Housing, and Urban Affairs. |
+| — |  | — |
+| 4175 | A bill to amend the Internal Revenue Code of 1986 to extend the clean electricit… | Read twice and referred to the Committee on Finance. |
+| — |  | — |
+| — |  | — |
+
+- [Source: Congress.gov](https://www.congress.gov/member/W000779) (Tier 1)
+<!-- auto:congress-legislation end -->
