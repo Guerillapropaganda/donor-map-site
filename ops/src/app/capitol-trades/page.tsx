@@ -91,6 +91,7 @@ export default function CapitolTradesPage() {
   const [topTickers, setTopTickers] = useState<TopTicker[]>([])
   const [topTraders, setTopTraders] = useState<TopTrader[]>([])
   const [cryptoStats, setCryptoStats] = useState<CryptoStats | null>(null)
+  const [cryptoConflicts, setCryptoConflicts] = useState<any>(null)
   const [loading, setLoading] = useState(true)
   const [tab, setTab] = useState<"table" | "flow" | "trail" | "tickers" | "traders" | "crypto">("table")
   // Crypto tier filters — tiers 1-3 on by default, adjacent (tier 4) opt-in
@@ -122,6 +123,11 @@ export default function CapitolTradesPage() {
         setLoading(false)
       })
       .catch(() => setLoading(false))
+    // Load crypto conflict data
+    fetch("/api/crypto-conflicts")
+      .then(r => r.json())
+      .then(data => setCryptoConflicts(data))
+      .catch(() => {})
   }, [])
 
   const filtered = useMemo(() => {
@@ -588,6 +594,100 @@ export default function CapitolTradesPage() {
               <div className="text-xl font-bold text-[var(--color-text)] font-mono">{filteredCryptoTraders.length}</div>
             </div>
           </div>
+
+          {/* ── Conflict Timeline ── */}
+          {cryptoConflicts && cryptoConflicts.conflicts && cryptoConflicts.conflicts.length > 0 && (
+            <div className="mb-6">
+              <div className="flex items-center justify-between mb-3">
+                <div className="flex items-center gap-2">
+                  <span className="text-base">⚠</span>
+                  <span className="font-mono text-[10px] font-bold uppercase tracking-wider text-[#ef4444]">
+                    Trade-Vote Conflicts
+                  </span>
+                </div>
+                <div className="font-mono text-[9px] text-[var(--color-text-dim)]">
+                  {cryptoConflicts.stats.highSuspicion} high · {cryptoConflicts.stats.mediumSuspicion} medium · {cryptoConflicts.stats.totalConflicts} total
+                </div>
+              </div>
+              <div className="text-[10px] text-[var(--color-text-dim)] font-mono mb-3">
+                Politicians who traded crypto within 60 days of voting on crypto legislation.
+                <span className="text-[#ef4444] font-bold ml-1">RED</span> = traded 1-7 days before vote (highest suspicion).
+                <span className="text-[#f59e0b] font-bold ml-1">AMBER</span> = 8-30 days before or 1-14 days after.
+              </div>
+
+              {/* Conflict cards — show top 20 highest suspicion */}
+              <div className="space-y-2 max-h-[500px] overflow-y-auto">
+                {cryptoConflicts.conflicts.slice(0, 30).map((c: any, i: number) => {
+                  const borderColor = c.suspicionLevel === "high" ? "#ef4444" : c.suspicionLevel === "medium" ? "#f59e0b" : "#6b7280"
+                  const bgColor = c.suspicionLevel === "high" ? "#ef444408" : c.suspicionLevel === "medium" ? "#f59e0b08" : "transparent"
+                  const daysText = c.direction === "before"
+                    ? `${Math.abs(c.daysBetween)} days BEFORE vote`
+                    : `${Math.abs(c.daysBetween)} days AFTER vote`
+
+                  return (
+                    <div key={i} className="border p-3 font-mono"
+                      style={{ borderColor, backgroundColor: bgColor, borderLeftWidth: 4 }}>
+                      <div className="flex items-start justify-between mb-2">
+                        <div>
+                          <span className="text-sm font-bold text-[var(--color-text)]">{c.politician}</span>
+                          <span className="ml-2 px-1.5 py-0.5 text-[8px] font-bold uppercase"
+                            style={{ color: borderColor, backgroundColor: borderColor + '22' }}>
+                            {c.suspicionLevel}
+                          </span>
+                        </div>
+                        <span className="text-[10px] font-bold" style={{ color: borderColor }}>
+                          {daysText}
+                        </span>
+                      </div>
+
+                      {/* Two-column: trade vs vote */}
+                      <div className="grid grid-cols-2 gap-4">
+                        {/* Trade side */}
+                        <div className="border-r border-[var(--color-border)] pr-4">
+                          <div className="text-[8px] uppercase tracking-wider text-[var(--color-text-dim)] mb-1">Trade</div>
+                          <div className="flex items-center gap-2">
+                            <span className={`px-1.5 py-0.5 text-[9px] font-bold ${
+                              c.trade.type === "Purchase" ? "bg-[rgba(34,197,94,0.15)] text-[#22c55e]" : "bg-[rgba(239,68,68,0.15)] text-[#ef4444]"
+                            }`}>
+                              {c.trade.type === "Purchase" ? "BUY" : "SELL"}
+                            </span>
+                            <span className="text-[11px] font-bold text-[#f59e0b]">{c.trade.ticker}</span>
+                            <span className="text-[10px] text-[var(--color-text)]">{fmtK(c.trade.amount?.max || c.trade.amount?.min || 0)}</span>
+                          </div>
+                          <div className="text-[9px] text-[var(--color-text-dim)] mt-1">{c.trade.transactionDate}</div>
+                        </div>
+
+                        {/* Vote side */}
+                        <div>
+                          <div className="text-[8px] uppercase tracking-wider text-[var(--color-text-dim)] mb-1">Vote</div>
+                          <div className="flex items-center gap-2">
+                            <span className={`px-1.5 py-0.5 text-[9px] font-bold ${
+                              c.vote.memberVote === "+" ? "bg-[rgba(34,197,94,0.15)] text-[#22c55e]" :
+                              c.vote.memberVote === "-" ? "bg-[rgba(239,68,68,0.15)] text-[#ef4444]" :
+                              "bg-[rgba(255,255,255,0.05)] text-[var(--color-text-dim)]"
+                            }`}>
+                              {c.vote.memberVoteLabel}
+                            </span>
+                            <span className="text-[10px] text-[var(--color-text)]">{c.vote.billDisplay}</span>
+                          </div>
+                          <div className="text-[9px] text-[var(--color-text-dim)] mt-1 truncate" title={c.vote.billName}>
+                            {c.vote.billName}
+                          </div>
+                          <div className="text-[9px] text-[var(--color-text-dim)]">{c.vote.voteDate?.split("T")[0]}</div>
+                        </div>
+                      </div>
+                    </div>
+                  )
+                })}
+              </div>
+
+              {cryptoConflicts.conflicts.length > 30 && (
+                <div className="text-center mt-2 font-mono text-[9px] text-[var(--color-text-dim)]">
+                  Showing top 30 of {cryptoConflicts.conflicts.length} conflicts
+                </div>
+              )}
+            </div>
+          )}
 
           {filteredCryptoTrades.length === 0 && (
             <div className="text-center py-16 border border-[var(--color-border)] bg-[var(--color-bg-card)]">
