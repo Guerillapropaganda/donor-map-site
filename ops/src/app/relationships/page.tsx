@@ -333,10 +333,15 @@ export default function RelationshipsPage() {
     const opposesNorm = new Set(selected.opposes.map(norm))
     const fundsNorm = new Set([...selected.donors, ...selected.related].map(norm))
 
+    // Build entity type lookup from profiles + topConnected
+    const entityTypeMap = new Map<string, string>()
+    for (const p of profiles) entityTypeMap.set(norm(p.title), p.type || "unknown")
+    for (const p of topConnected) entityTypeMap.set(norm(p.title), p.type || "unknown")
+
     // Build nodes from filtered types
     interface ForceNode extends SimulationNodeDatum {
       id: string; name: string; relType: "related" | "donors" | "opposes" | "stories"
-      bothSides: boolean; hasNote: boolean
+      entityType: string; bothSides: boolean; hasNote: boolean
     }
     const nodes: ForceNode[] = []
     const types = ["donors", "related", "opposes", "stories"] as const
@@ -346,12 +351,13 @@ export default function RelationshipsPage() {
         if (nodes.find(n => norm(n.name) === norm(name))) continue
         const bs = opposesNorm.has(norm(name)) && fundsNorm.has(norm(name))
         const noteKey = `${selected.title}::${name}`
-        nodes.push({ id: name, name, relType: t, bothSides: bs, hasNote: !!relationNotes[noteKey]?.note })
+        const et = entityTypeMap.get(norm(name)) || "unknown"
+        nodes.push({ id: name, name, relType: t, entityType: et, bothSides: bs, hasNote: !!relationNotes[noteKey]?.note })
       }
     }
 
     // Center node
-    const centerNode: ForceNode = { id: "__center__", name: selected.title, relType: "related", bothSides: false, hasNote: false }
+    const centerNode: ForceNode = { id: "__center__", name: selected.title, relType: "related", entityType: selected.type, bothSides: false, hasNote: false }
     nodes.unshift(centerNode)
 
     // Links: every node connects to center
@@ -400,19 +406,17 @@ export default function RelationshipsPage() {
       .join("g")
       .attr("cursor", "pointer")
 
-    // Node circles
+    // Node circles — colored by entity type (politician, donor, think-tank, etc.)
+    // Edge lines use relationship type colors; node circles use entity type colors
+    const nodeColor = (d: ForceNode) => {
+      if (d.id === "__center__") return TYPE_COLORS[selected.type] || "#7a7a86"
+      if (d.bothSides) return "#ef4444"
+      return TYPE_COLORS[d.entityType] || "#7a7a86"
+    }
     nodeEls.append("circle")
       .attr("r", d => d.id === "__center__" ? 24 : 7)
-      .attr("fill", d => {
-        if (d.id === "__center__") return `${TYPE_COLORS[selected.type]}40`
-        if (d.bothSides) return "rgba(239, 68, 68, 0.3)"
-        return `${REL_COLORS[d.relType]}30`
-      })
-      .attr("stroke", d => {
-        if (d.id === "__center__") return TYPE_COLORS[selected.type]
-        if (d.bothSides) return "#ef4444"
-        return REL_COLORS[d.relType]
-      })
+      .attr("fill", d => `${nodeColor(d)}${d.id === "__center__" ? "40" : "30"}`)
+      .attr("stroke", d => nodeColor(d))
       .attr("stroke-width", d => d.id === "__center__" ? 2.5 : d.bothSides ? 2 : 1.5)
 
     // Both-sides glow ring
@@ -449,11 +453,11 @@ export default function RelationshipsPage() {
       .attr("pointer-events", "none")
       .attr("opacity", 0.35)
 
-    // Label text — always shown
+    // Label text — always shown, colored by entity type
     labelEls.append("text")
       .attr("text-anchor", "middle")
       .attr("y", 16)
-      .attr("fill", d => d.bothSides ? "#ef4444" : REL_COLORS[d.relType])
+      .attr("fill", d => nodeColor(d))
       .attr("font-size", "7px")
       .attr("font-family", "ui-monospace, monospace")
       .text(d => d.name.length > 20 ? d.name.slice(0, 18) + ".." : d.name)
@@ -1476,14 +1480,26 @@ export default function RelationshipsPage() {
                 <svg ref={d3SvgRef} width="100%" height="100%" style={{ display: "block" }} />
               </div>
 
-              {/* Legend */}
-              <div className="flex items-center justify-center gap-4 mt-2 flex-wrap">
-                <span className="flex items-center gap-1 text-[8px] text-[#5b8dce]"><span className="w-3 h-3 rounded-full border border-[#5b8dce]" style={{ backgroundColor: "#5b8dce30" }} /> Related</span>
-                <span className="flex items-center gap-1 text-[8px] text-[#22c55e]"><span className="w-3 h-3 rounded-full border border-[#22c55e]" style={{ backgroundColor: "#22c55e30" }} /> Donors</span>
-                <span className="flex items-center gap-1 text-[8px] text-[#ef4444]"><span className="w-3 h-3 rounded-full border border-dashed border-[#ef4444]" style={{ backgroundColor: "#ef444430" }} /> Opposes</span>
-                <span className="flex items-center gap-1 text-[8px] text-[#ec4899]"><span className="w-3 h-3 rounded-full border border-dotted border-[#ec4899]" style={{ backgroundColor: "#ec489930" }} /> Stories</span>
-                <span className="flex items-center gap-1 text-[8px] text-[#ef4444] font-bold" title="Entity appears in BOTH donors/related AND opposes"><span className="w-3 h-3 rounded-full border-2 border-[#ef4444]" style={{ backgroundColor: "#ef444420", boxShadow: "0 0 0 2px rgba(239,68,68,0.25)" }} /> Both-sides</span>
-                <span className="text-[7px] text-[var(--color-text-dim)] ml-2">Scroll to zoom | Drag nodes | Hover for names | Right-click to edit</span>
+              {/* Legend — edges (relationship type) */}
+              <div className="flex items-center justify-center gap-3 mt-2 flex-wrap">
+                <span className="text-[7px] text-[var(--color-text-dim)] uppercase tracking-wider">Edges:</span>
+                <span className="flex items-center gap-1 text-[8px] text-[#22c55e]"><span className="w-4 h-0 border-t border-[#22c55e]" /> Donors</span>
+                <span className="flex items-center gap-1 text-[8px] text-[#5b8dce]"><span className="w-4 h-0 border-t border-[#5b8dce]" /> Related</span>
+                <span className="flex items-center gap-1 text-[8px] text-[#ef4444]"><span className="w-4 h-0 border-t border-dashed border-[#ef4444]" /> Opposes</span>
+                <span className="flex items-center gap-1 text-[8px] text-[#ec4899]"><span className="w-4 h-0 border-t border-dotted border-[#ec4899]" /> Stories</span>
+                <span className="flex items-center gap-1 text-[8px] text-[#ef4444] font-bold"><span className="w-4 h-0 border-t-2 border-dashed border-[#ef4444]" /> Both-sides</span>
+              </div>
+              {/* Legend — nodes (entity type) */}
+              <div className="flex items-center justify-center gap-3 mt-1 flex-wrap">
+                <span className="text-[7px] text-[var(--color-text-dim)] uppercase tracking-wider">Nodes:</span>
+                <span className="flex items-center gap-1 text-[8px] text-[#5b8dce]"><span className="w-2.5 h-2.5 rounded-full" style={{ backgroundColor: "#5b8dce" }} /> Politician</span>
+                <span className="flex items-center gap-1 text-[8px] text-[#22c55e]"><span className="w-2.5 h-2.5 rounded-full" style={{ backgroundColor: "#22c55e" }} /> Donor/Corp</span>
+                <span className="flex items-center gap-1 text-[8px] text-[#a855f7]"><span className="w-2.5 h-2.5 rounded-full" style={{ backgroundColor: "#a855f7" }} /> Think Tank</span>
+                <span className="flex items-center gap-1 text-[8px] text-[#f59e0b]"><span className="w-2.5 h-2.5 rounded-full" style={{ backgroundColor: "#f59e0b" }} /> K Street</span>
+                <span className="flex items-center gap-1 text-[8px] text-[#ef4444]"><span className="w-2.5 h-2.5 rounded-full" style={{ backgroundColor: "#ef4444" }} /> Media</span>
+                <span className="flex items-center gap-1 text-[8px] text-[#ec4899]"><span className="w-2.5 h-2.5 rounded-full" style={{ backgroundColor: "#ec4899" }} /> Story</span>
+                <span className="flex items-center gap-1 text-[8px] text-[#7a7a86]"><span className="w-2.5 h-2.5 rounded-full" style={{ backgroundColor: "#7a7a86" }} /> Unknown</span>
+                <span className="text-[7px] text-[var(--color-text-dim)] ml-1">Scroll to zoom | Drag nodes | Right-click to edit</span>
               </div>
 
               {/* Relationship notes summary — collapsible */}

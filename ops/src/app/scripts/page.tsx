@@ -1,4 +1,7 @@
+"use client"
+
 import Link from "next/link"
+import { useState } from "react"
 
 /**
  * Scripts documentation page — plain-English explanations of every
@@ -371,7 +374,53 @@ const DANGER_LABELS: Record<string, string> = {
   destructive: "DESTRUCTIVE — irreversible",
 }
 
+// Map script names to their API IDs for the Run button
+const SCRIPT_ID_MAP: Record<string, string> = {
+  "Morning Briefing": "morning-briefing",
+  "S-Tier Candidate Scanner": "s-tier-candidate-scanner",
+  "Sign-Off Reminder": "sign-off-reminder",
+  "Voice Drift Detector": "voice-drift-detector",
+  "Hallucination Catcher": "hallucination-catcher",
+  "Promotion Candidate Queue": "promotion-candidate-queue",
+  "Contradiction Miner": "contradiction-miner",
+  "Missing Profile Detector": "missing-profile-detector",
+  "Connection Suggester": "connection-suggester",
+  "Relationship Bidirectional Check": "relationship-bidirectional",
+  "URL Staleness Checker": "url-staleness",
+  "FEC Candidate ID Verifier": "verify-fec-candidate-ids",
+  "Pipeline Janitor": "pipeline-janitor",
+  "Duplicate Bioguide Sentinel": "duplicate-bioguide-sentinel",
+  "Self-Review Mirror": "self-review-mirror",
+  "YAML Sanity Scan": "yaml-sanity-scan",
+  "Strip Inline Dataview": "strip-inline-dataview",
+  "Normalize Bidirectionality": "normalize-related-bidirectionality",
+  "Build Relationships Per Profile": "build-relationships-per-profile",
+}
+
 export default function ScriptsPage() {
+  const [running, setRunning] = useState<string | null>(null)
+  const [result, setResult] = useState<{ scriptId: string; success: boolean; output: string } | null>(null)
+
+  const runScript = async (name: string) => {
+    const scriptId = SCRIPT_ID_MAP[name]
+    if (!scriptId) return
+    setRunning(name)
+    setResult(null)
+    try {
+      const res = await fetch("/api/scripts", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ scriptId }),
+      })
+      const data = await res.json()
+      setResult({ scriptId: name, success: data.success, output: data.output || data.error || "No output" })
+    } catch (err) {
+      setResult({ scriptId: name, success: false, output: String(err) })
+    } finally {
+      setRunning(null)
+    }
+  }
+
   const byCategory = SCRIPTS.reduce((acc, s) => {
     acc[s.category] = acc[s.category] || []
     acc[s.category].push(s)
@@ -489,6 +538,42 @@ export default function ScriptsPage() {
                         <span className="text-[var(--color-text-dim)]">{WHEN_LABELS[s.when]}</span>
                       </div>
                     </div>
+
+                    {/* Run button */}
+                    {SCRIPT_ID_MAP[s.name] && (
+                      <div className="mt-3 flex items-center gap-3">
+                        <button
+                          onClick={() => runScript(s.name)}
+                          disabled={running !== null}
+                          className={`text-[9px] font-bold uppercase tracking-wider px-3 py-1.5 rounded border transition-all ${
+                            running === s.name
+                              ? "opacity-50 cursor-wait"
+                              : s.danger === "writes-profiles"
+                              ? "border-[var(--color-amber)] text-[var(--color-amber)] hover:bg-[var(--color-amber)]/10"
+                              : "border-[var(--color-green)] text-[var(--color-green)] hover:bg-[var(--color-green)]/10"
+                          }`}
+                        >
+                          {running === s.name ? "Running..." : "Run"}
+                        </button>
+                        {result?.scriptId === s.name && (
+                          <span className={`text-[9px] ${result.success ? "text-[var(--color-green)]" : "text-[var(--color-red)]"}`}>
+                            {result.success ? "Completed" : "Failed"}
+                          </span>
+                        )}
+                      </div>
+                    )}
+
+                    {/* Script output */}
+                    {result?.scriptId === s.name && result.output && (
+                      <details className="mt-2">
+                        <summary className="text-[9px] text-[var(--color-text-dim)] cursor-pointer hover:text-[var(--color-text)]">
+                          Output ({result.success ? "success" : "error"})
+                        </summary>
+                        <pre className="mt-1 text-[8px] font-mono bg-[var(--color-bg)] border border-[var(--color-border)] rounded p-3 max-h-48 overflow-y-auto whitespace-pre-wrap text-[var(--color-text-dim)]">
+                          {result.output}
+                        </pre>
+                      </details>
+                    )}
                   </div>
                 ))}
               </div>
