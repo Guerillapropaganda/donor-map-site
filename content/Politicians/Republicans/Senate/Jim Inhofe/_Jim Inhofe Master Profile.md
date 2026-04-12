@@ -27,7 +27,7 @@ related: "[[Koch Network - Charles Koch|Koch Network]] · [[ExxonMobil]] · [[Fo
 
 ---
 
-### Who He Was
+## Who He Was
 
 James Mountain Inhofe (November 17, 1934 – July 9, 2024). Republican U.S. Senator from Oklahoma, 1994–2023. The longest-serving U.S. senator in Oklahoma history. Chairman of the Senate Environment and Public Works Committee (2003–2007, 2015–2017) and Chairman of the Senate Armed Services Committee (2018–2021). Resigned January 3, 2023; died July 9, 2024, at age 89.
 

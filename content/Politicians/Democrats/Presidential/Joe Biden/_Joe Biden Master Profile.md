@@ -143,8 +143,7 @@ Biden was not alone — many Democrats voted for the bill, and Republicans pushe
 The outcome is measurable. The 2005 bankruptcy law made filing for bankruptcy significantly harder. Means-testing increased. Filing fees increased. More people had to hire lawyers, spending money they didn't have. Debt collection became easier. Wages were garnished. Credit card companies' profits increased.
 
 Biden's 2020 campaign website said: "We must provide relief for working families drowning in debt." This is not false — Biden did push for student loan forgiveness as president. But it ignores the 2005 bankruptcy bill. Biden had protected credit card companies' ability to collect on consumer debt while running as a champion of debt relief.
-
-[!money] **The Temporal Chain**
+> [!money] **The Temporal Chain**
 ### MBNA contributions (1989–2005, $208,175) → Hunter Biden consulting payments → Biden votes for bankruptcy bill (four times) → 2005 bill passes → credit card industry protected; consumer bankruptcy filings drop 50% over next decade → Biden's presidential campaign (2020) as "worker champion" with Wall Street bundlers.
 The contradiction is not accidental. It is structural. The Democratic Party and Biden's advisors calculated that winning the presidency required Wall Street money. Wall Street would not bankroll a candidate who threatened financial sector profits. So Biden's prior service to those interests becomes — from Biden's perspective — a resume item, not a contradiction.
 
@@ -163,8 +162,7 @@ The donor map is visible. Pharmaceutical companies gave Biden $5.9 million in 20
 Compare this to [[_Bernie Sanders Master Profile|Bernie Sanders]]'s Medicare for All plan, which would have negotiated all drug prices and capped them at international levels. Sanders's plan would have cost pharmaceutical companies an estimated $100+ billion in lost profits over a decade. No pharmaceutical company would have donated to Sanders's campaign. Biden's plan costs them far less — estimates suggest $30–50 billion in total lost profit over 10 years — and they could accept it while still controlling the structure.
 
 The IRA also includes $60 billion for semiconductor manufacturing and $30 billion for R&D tax credits — massively profitable to Intel, TSMC, Samsung, and the tech sector. This is Biden's logic: pick a sector (semiconductor, solar, wind), protect its profitability, and claim clean energy victory. The winners are the corporations that manufacture the technology. Working-class people get cheaper electricity in some cases. The structure of who owns capital remains intact.
-
-[!contradiction] **The IRA Pattern**
+> [!contradiction] **The IRA Pattern**
 ### Insulin cap at $35/month (real) → only 10 drugs eligible for negotiation (structural limit) → 390+ drugs still protected by patent and pricing power → pharmaceutical industry profits reduced by ~30–40% on negotiated drugs, protected entirely on others → Biden claims victory for both sides.
 ---
 
@@ -189,8 +187,7 @@ Biden's economic team in 2021 was structured to reassure capital that the Biden 
 The $886 billion defense budget in 2024 (highest peacetime defense spending in history) reveals Biden's structural alignment with the military-industrial complex. This is not new with Biden — the defense budget has grown under every president. But Biden's commitment to Ukraine, while genuinely supporting a victim of invasion, also meant guaranteed revenue for Raytheon, Lockheed Martin, and Northrop Grumman. Record profits for these contractors under Biden are not coincidental; they are the intended outcome of the policy.
 
 Notably, Biden did not use the defense industry's record profits as a fulcrum to demand higher taxes on military contractors or wealth redistribution. When Sanders proposed that taxes on corporations and billionaires should fund social spending instead of deficits, Biden's team did not adopt this framing. Instead, deficits were accepted — and working-class social spending (Medicare expansion, public option) was cut as "unaffordable," while the defense budget continued to grow.
-
-[!money] **The Defense Sector Alignment**
+> [!money] **The Defense Sector Alignment**
 ### 2021–2024: $886B defense budgets + $113B Ukraine aid = direct transfer to military contractors → record profits. Simultaneously, working-class spending proposals (child tax credits, ACA expansion, childcare) killed as "fiscally irresponsible." Deficit spending accepted for war; deficit spending rejected for social policy.
 ---
 

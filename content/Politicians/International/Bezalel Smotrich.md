@@ -18,23 +18,22 @@ donors: (American pro-settlement/evangelical donors — underdeveloped, needs re
 
 ---
 
-### Who They Are
+## Who They Are
 
 Bezalel Smotrich is the leader of the Religious Zionism party and Israel's Minister of Finance (with dual authority over West Bank civil administration). He holds 7 Knesset seats. Living in the settlement of Kedumim, he is both political advocate and direct beneficiary of settlement expansion. Smotrich controls the fiscal machinery of settlement growth — he allocates billions to West Bank infrastructure, approves construction permits through his West Bank administrative authority, and controls the budget channels that subsidize settler living costs and development projects. He is more structurally dangerous than Ben-Gvir because he doesn't just demand settlement expansion; he controls the financial and bureaucratic machinery that makes it happen.
 
-### Central Thesis — Finance Minister as Settlement Capital's Fiscal Engine
+## Central Thesis — Finance Minister as Settlement Capital's Fiscal Engine
 
 Settlement expansion in the West Bank is government-subsidized real estate development. Smotrich is both the political architect and the fiscal gatekeeper of that program. As Finance Minister, he allocated 2.7 billion shekels ($843 million) over five years to expand illegal settlements — formalized as "de facto annexation." As West Bank civil administrator, he approves building permits. As settler resident himself, he is the direct beneficiary of the policies he enacts. This is not corruption in the traditional sense — it's structural alignment. The developer class that benefits from settlement expansion has captured the fiscal state apparatus. Smotrich is that capture incarnate. Every budget dollar allocated to settlement infrastructure is state subsidy to settler real estate capital.
 
 The mechanism is the dual appointment: Smotrich holds two positions with complementary functions. As Finance Minister, he controls the budget allocation mechanism that funds settlement infrastructure. As West Bank administrator, he approves the building permits that justify the infrastructure spending. This arrangement creates a closed loop: (1) decide settlement expansion is policy objective, (2) approve building permits in occupied territory, (3) allocate budget to infrastructure serving those permits, (4) repeat. The cycle is unimpeded by any adversarial accountability because Smotrich controls both lever and lock. His $843M settlement allocation over five years is not negotiated appropriations subject to parliamentary scrutiny — it's fiscal authority exercised by a single operator. His $2B road construction plan (far exceeding infrastructure spending in Israel proper) is not transportation policy — it's territorial infrastructure designed to bind settlements tighter to Israeli state systems and prepare for annexation. Every decision enriches settler capital while appearing technical rather than territorial.
+> [!money] **$843M over five years for West Bank settlement expansion. $2B for West Bank road construction (far exceeding intercity roads in Israel proper). These are massive public investments in developer-controlled territories.** Smotrich controls the allocation. Settler developers capture the benefit.
 
-[!money] **$843M over five years for West Bank settlement expansion. $2B for West Bank road construction (far exceeding intercity roads in Israel proper). These are massive public investments in developer-controlled territories.** Smotrich controls the allocation. Settler developers capture the benefit.
-
-### Core Contradiction — Settler Capital and Democratic Legitimacy
+## Core Contradiction — Settler Capital and Democratic Legitimacy
 
 Smotrich positions himself as a religious ideologist — "Jewish Power," territorial destiny, right-wing extremism. These positions are genuine. They also function to obscure and legitimize straightforward capital accumulation and real estate speculation. Settlement expansion sounds ideological; it is also investment opportunity. Smotrich's dual role — Finance Minister and West Bank administrator — reveals the contradiction: ideological framing covers material interest. He can claim to be defending Jewish settlement rights while simultaneously allocating billions to developer projects that benefit his constituency (settler real estate investors and construction firms). The ideology provides political cover; the capital accumulation is the actual function.
 
-### Donor Class Map
+## Donor Class Map
 
 | Date | Event/Contribution | Amount | Policy Action/Outcome | Time Gap |
 |------|-------------------|--------|----------------------|----------|
@@ -47,8 +46,7 @@ Smotrich positions himself as a religious ideologist — "Jewish Power," territo
 ### West Bank as Finance Ministry Fiefdom
 
 Smotrich's authority over West Bank civil administration is not ceremonial. He controls the budget, the building permits, the infrastructure investment, the settlement security funding. This is the modern form of settler colonialism: occupation presented as administration, real estate development presented as security policy, territorial expansion presented as fiscal necessity. Smotrich allocates public money to private (settler) development projects in occupied territory, legitimized by administrative authority over that territory. The developer class captures the benefit. State resources flow to settler real estate capital. The process is formalized, legal, and comprehensively corrupt in class terms.
-
-[!contradiction] **Smotrich frames settlement expansion as ideological — Jewish rights, religious destiny, security necessity. Simultaneously, the budgets, the beneficiaries, and the mechanisms are straightforwardly economic: state subsidy to settler real estate capital.** Both things are true. The ideology is genuine. The capital function is determining.
+> [!contradiction] **Smotrich frames settlement expansion as ideological — Jewish rights, religious destiny, security necessity. Simultaneously, the budgets, the beneficiaries, and the mechanisms are straightforwardly economic: state subsidy to settler real estate capital.** Both things are true. The ideology is genuine. The capital function is determining.
 
 ### Budget Reallocation as Territorial Expansion Strategy
 
@@ -58,7 +56,7 @@ Smotrich boasts of allocating 7 billion Israeli shekels (approximately $2 billio
 
 Religious Zionism receives funding through American pro-settlement organizations, including evangelical Christian groups that view settlement expansion through apocalyptic religious frameworks. One Israel Fund alone received $7 million in 2023, up significantly from prior years. This American capital stabilizes the coalition by providing supplementary resources to settler constituencies, reducing pressure on Israeli state budgets to provide direct settlement subsidies. Smotrich's budget allocations are therefore only part of the picture — American private capital provides parallel funding. The total settler capital flow (Israeli state + American evangelical) subsidizes the real estate development that Smotrich facilitates through fiscal authority.
 
-### Analytical Patterns
+## Analytical Patterns
 
 **The Genuine Win + Structural Limit:** Smotrich has secured $843 million in settlement expansion funding and $2 billion in West Bank infrastructure — genuine victories for settler constituencies and construction capital. He controls the fiscal machinery making settlement growth possible. However, the structural limit is visible: the scale of permanent occupation requires indefinite state budget allocation, creating fiscal pressure that can only be resolved through formal annexation or reduced expansion. The expansion he facilitates today requires escalating commitments tomorrow.
 
@@ -66,7 +64,7 @@ Religious Zionism receives funding through American pro-settlement organizations
 
 **The Capture of State Fiscal Machinery:** Smotrich's dual role as Finance Minister and West Bank administrator represents the most direct form of capital-state fusion visible in this vault. He doesn't just represent settler interests; he controls the fiscal state apparatus that subsidizes them. This is settler colonialism made institutional: occupation presented as administration, conquest presented as budgeting, capital accumulation presented as security policy.
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 **"Fiscal Necessity" — Smotrich presents settlement infrastructure spending as budgetary requirement, hiding territorial expansion within technical finance language.** The roads, the building permits, the budget allocations are presented as administrative fact rather than ideological choice.
 

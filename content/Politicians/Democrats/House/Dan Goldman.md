@@ -1,6 +1,8 @@
 ---
 title: "Dan Goldman"
 type: politician
+chamber: "House"
+party: "Democrat"
 content-readiness: draft
 last-updated: 2026-04-10
 source-tier: 1
@@ -29,22 +31,22 @@ donors: [[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[Securiti
 
 ---
 
-### Who They Are
+## Who They Are
 
 Dan Goldman. U.S. Representative, New York's 10th Congressional District (2023–present). Levi Strauss heir — net worth $64–253M (estimated range; among top 20 wealthiest in Congress). Great-grandson of Walter A. Haas, founder of Levi Strauss & Co. Former federal prosecutor; lead majority counsel in Trump's first impeachment (2019); lead counsel to House managers in impeachment trial. Campaign self-funded with $4M personal contribution in 2022 primary (crowded field). [[AIPAC - American Israel Public Affairs Committee|AIPAC]]-aligned (met wife at AIPAC young leadership event 2012). The heir who purchased credibility through impeachment prosecution and uses it for Israel advocacy.
 
-### Central Thesis — The Inherited Wealth Politician Buying Democratic Credentials
+## Central Thesis — The Inherited Wealth Politician Buying Democratic Credentials
 
 Goldman demonstrates how dynastic wealth purchases political power in the 21st century Democratic Party. His campaign did not build grassroots support; he self-funded $4M in primary spending in a crowded field. His Trump impeachment credentials were purchased through legal services (prestigious law firm, visible role). His current House position is leveraged for Israel advocacy aligned with AIPAC agenda. This is wealth translated directly into political capital: inherited money → impeachment position → House seat → legislative power for donor interests. Goldman's presence in Congress normalizes this process. He is not an outlier; he represents the endpoint of Democratic realignment toward professional-class wealth and away from working-class power. His voting record shows clear alignment with his donors: pro-Israel positions, securities industry protection, and corporate-friendly economic positions.
 
-### Core Contradiction — Democracy Defender Who Uses Inherited Wealth for Political Dominance
+## Core Contradiction — Democracy Defender Who Uses Inherited Wealth for Political Dominance
 
 Goldman built his primary campaign narrative around defending democracy against Trump. His impeachment work was presented as service to democratic institutions. His campaign messaging attacked Trump and Republican authoritarianism. Yet simultaneously, Goldman used inherited wealth ($250M+) to dominate a crowded primary field, purchasing his political position through self-funding ($4M in personal campaign funds in a field of 12+ candidates). He defended democratic norms with money that the candidate himself did not earn. His Levi Strauss fortune came through intergenerational wealth transfer, not meritocratic achievement. He inherited vast capital, deployed it to eliminate grassroots-backed opponents (Maloney), and then leveraged his purchased position to advance Israel lobby priorities. The contradiction resolves through class analysis: Goldman's defense of democracy means defense of a system in which inherited wealth buys political power. His presence in Congress proves the system works perfectly — wealthy heirs can convert family fortunes into legislative positions by referencing Democratic values. The $4M self-funding eliminated 11 other candidates. Goldman's victory was not democratic; it was plutocratic. His campaign messaging inverted reality: the constitutional defender was actually a dynastic heir exercising inherited wealth power to purchase a legislative seat.
 
 > [!contradiction]
 > **The constitutional defender who purchased his House seat with inherited fortune.** Goldman campaigned as Trump's constitutional accuser while self-funding $4M to dominate the NY-10 primary and defeat grassroots-backed Carolyn Maloney. His impeachment credentials and AIPAC connections provided legitimacy; his $250M+ Levi Strauss wealth provided power. The contradiction: defending democracy through inherited-wealth political domination, demonstrating that dynastic capital can convert to legislative power simply by referencing Democratic values.
 
-### Donor Class Map
+## Donor Class Map
 
 | Date | Event/Contribution | Amount | Policy Action/Outcome | Time Gap |
 |------|-------------------|--------|----------------------|----------|
@@ -72,7 +74,7 @@ Goldman's AIPAC connection is personal and political. He met his wife at an AIPA
 
 Goldman's House votes align precisely with inherited wealth interests and AIPAC agenda. He has voted against environmental regulations that would constrain financial interests. He opposed antitrust action against corporations. His voting record on securities industry protection shows consistent alignment with financial capital interests. On Israel-Palestine votes, his record is unambiguous: he voted against the Gaza humanitarian aid amendments, defended Israel in every post-October 7 floor vote, and co-sponsored legislation escalating sanctions against Palestinian leadership. He has not voted for a single pro-labor, anti-corporate, or Palestinian-rights measure. His voting record reads as a perfect hedge fund protection scorecard combined with AIPAC alignment template. This voting record was the return on the $4M primary victory investment plus the AIPAC relationship.
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 **The Democracy Prosecutor:** Goldman constantly references his role in impeaching Trump. He speaks as a defender of democratic institutions and rule of law. This generates legitimacy — he sacrificed time and career for democracy. His current congressional work is framed as continuing that prosecution of Trumpism and authoritarianism. The appearance of institutional virtue obscures that his career has been built through inherited wealth and political purchases.
 
@@ -80,7 +82,7 @@ Goldman's House votes align precisely with inherited wealth interests and AIPAC 
 
 **The Generational Wealth Hidden — Levi Strauss Legacy Minimized:** Goldman rarely emphasizes that his wealth comes from Levi Strauss. His narrative centers his legal career and impeachment work, suggesting self-made achievement. The inherited wealth is backgrounded. He presents himself as a professional with credentials, not as an heir receiving unearned wealth. This obscures the fundamental class analysis: his power derives from inherited capital, not meritocratic achievement or grassroots support.
 
-### Analytical Patterns
+## Analytical Patterns
 
 **The Genuine Win + Structural Limit** — Goldman's role in Trump's second impeachment (February 2021) was substantively serious constitutional legal work. His 57-43 vote fell short of the two-thirds conviction threshold, but the constitutional argument was real. However, the structural limit was immediate: Goldman's constitutional victory in the courtroom of public opinion did not translate into institutional accountability. Trump faced no conviction, ran again, and won. Goldman's inherited wealth allowed him to prosecute the constitutional case, but constitutional law (without structural power) cannot defeat billionaire political revival. The Levi Strauss heir demonstrated that even dynastic capital cannot translate constitutional authority into political outcome when the opponent has enough capital to survive conviction and mount another campaign. This became the lesson for future impeachments: constitutional performance is insufficient without willingness to implement actual consequences (which requires power beyond prosecutorial rhetoric).
 
