@@ -255,9 +255,9 @@ export async function GET() {
         relationshipType: legacyType,
       })
 
-      // Aggregate into the source profile's bucket
+      // Aggregate into the source profile's bucket (dedup to prevent double-counting bidirectional edges)
       const profile = profileMap.get(source)
-      if (profile) {
+      if (profile && !profile[legacyType].includes(target)) {
         profile[legacyType].push(target)
         profile.connectionCount++
       }
