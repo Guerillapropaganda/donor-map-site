@@ -9,8 +9,10 @@
     "start": "next start -p 3333"
   },
   "dependencies": {
+    "@types/d3": "^7.4.3",
     "@types/js-yaml": "^4.0.9",
     "autoprefixer": "^10.4.27",
+    "d3": "^7.9.0",
     "gray-matter": "^4.0.3",
     "js-yaml": "^4.1.1",
     "next": "^15.3.0",
