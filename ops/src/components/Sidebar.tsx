@@ -23,6 +23,7 @@ const NAV_ITEMS = [
   { href: "/alerts", label: "Alerts", icon: "bell" },
   { href: "/distribution", label: "Distribution", icon: "share" },
   { href: "/rules", label: "Rulebook", icon: "target" },
+  { href: "/operations", label: "Operations", icon: "shield" },
   { href: "/docs", label: "System Docs", icon: "book" },
   { href: "/scripts", label: "Scripts", icon: "terminal" },
 ]
@@ -46,6 +47,7 @@ const ICONS: Record<string, string> = {
   terminal: "M8 9l3 3-3 3m5 0h3M5 20h14a2 2 0 002-2V6a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z",
   target: "M15 12a3 3 0 11-6 0 3 3 0 016 0zM12 4a8 8 0 108 8 8 8 0 00-8-8zm0-2v2m0 16v2m10-10h-2M4 12H2",
   trending: "M13 7h8m0 0v8m0-8l-8 8-4-4-6 6",
+  shield: "M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z",
   mail: "M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z",
 }
 
