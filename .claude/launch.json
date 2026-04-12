@@ -28,8 +28,9 @@
     {
       "name": "ops-dashboard",
       "runtimeExecutable": "cmd",
-      "runtimeArgs": ["/c", "cd ops && npx next dev -p 3333"],
-      "port": 3333
+      "runtimeArgs": ["/c", "cd ops && npx next dev -p %PORT%"],
+      "port": 3333,
+      "autoPort": true
     }
   ]
 }
