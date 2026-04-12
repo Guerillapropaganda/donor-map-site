@@ -535,7 +535,16 @@ export function computeStats(profiles: Profile[]): VaultStats {
 
 // Determine what a profile needs next
 export function profileNeeds(profile: Profile): string {
-  if (profile.contentReadiness === "raw") return "Needs basic metadata and content"
+  // Types that don't go through enrichment pipelines
+  const topLevel = resolveTypeForStats(profile.type)
+  const enrichmentApplicable = !new Set(
+    Object.entries(WEIGHTS_BY_TYPE).filter(([, w]) => w.enrichment === 0).map(([t]) => t)
+  ).has(topLevel)
+
+  if (profile.contentReadiness === "raw") {
+    if (!enrichmentApplicable) return "Needs basic metadata and content"
+    return "Needs basic metadata and content"
+  }
 
   // S-tier: requires both auto audit and manual narrative sign-off
   if (profile.contentReadiness === "s-tier") {
@@ -566,7 +575,7 @@ export function profileNeeds(profile: Profile): string {
     const missing: string[] = []
     // Prefer the janitor's stamped audit field if present
     if (!profile.auditAPlusPassed) {
-      if (!profile.lastEnriched) missing.push("pipeline enrichment")
+      if (!profile.lastEnriched && enrichmentApplicable) missing.push("pipeline enrichment")
       const sourceCount = (profile.sourceTypes || []).length
       if (sourceCount < 3) missing.push(`${3 - sourceCount} more Tier 1 source type${3 - sourceCount === 1 ? "" : "s"}`)
       if (!profile.centralThesis) missing.push("central-thesis")
@@ -582,7 +591,7 @@ export function profileNeeds(profile: Profile): string {
   }
 
   if (profile.contentReadiness === "draft") {
-    if (!profile.lastEnriched) return "Never enriched — run pipeline"
+    if (!profile.lastEnriched && enrichmentApplicable) return "Never enriched — run pipeline"
     if (!profile.sourceTier || profile.sourceTier > 2) return "Needs Tier 1 sources"
     // Surface janitor flags if present
     if (profile.bothSidesFlag) return "Both-sides flag — same entity in donors+opposes"
