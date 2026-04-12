@@ -94,6 +94,7 @@ export default function CapitolTradesPage() {
   const [cryptoConflicts, setCryptoConflicts] = useState<any>(null)
   const [committeeConflicts, setCommitteeConflicts] = useState<any>(null)
   const [unusualActivity, setUnusualActivity] = useState<any>(null)
+  const [enhancedStats, setEnhancedStats] = useState<any>(null)
   const [loading, setLoading] = useState(true)
   const [tab, setTab] = useState<"table" | "flow" | "trail" | "tickers" | "traders" | "unusual" | "conflicts" | "crypto">("table")
   // Crypto tier filters — tiers 1-3 on by default, adjacent (tier 4) opt-in
@@ -122,6 +123,7 @@ export default function CapitolTradesPage() {
         setTopTickers(data.topTickers || [])
         setTopTraders(data.topTraders || [])
         setCryptoStats(data.crypto || null)
+        setEnhancedStats(data.enhanced || null)
         setLoading(false)
       })
       .catch(() => setLoading(false))
@@ -252,6 +254,39 @@ export default function CapitolTradesPage() {
         </div>
       )}
 
+      {/* Enhanced stats row */}
+      {enhancedStats && (
+        <div className="grid grid-cols-5 gap-3 mb-6">
+          <div className="bg-[var(--color-bg-card)] border border-[#8b5cf633] p-3 cursor-pointer hover:bg-[var(--color-bg-hover)]"
+            onClick={() => setTab("unusual")}>
+            <div className="text-[9px] text-[var(--color-text-dim)] font-mono uppercase tracking-wider">Options</div>
+            <div className="text-xl font-bold text-[#8b5cf6] font-mono">{enhancedStats.optionsCount || 0}</div>
+          </div>
+          <div className="bg-[var(--color-bg-card)] border border-[#f59e0b33] p-3">
+            <div className="text-[9px] text-[var(--color-text-dim)] font-mono uppercase tracking-wider">Whale ($500K+)</div>
+            <div className="text-xl font-bold text-[#f59e0b] font-mono">{enhancedStats.whaleCount || 0}</div>
+          </div>
+          <div className="bg-[var(--color-bg-card)] border border-[#ef444433] p-3">
+            <div className="text-[9px] text-[var(--color-text-dim)] font-mono uppercase tracking-wider">Late Disclosures</div>
+            <div className="text-xl font-bold text-[#ef4444] font-mono">{enhancedStats.lateDisclosureCount || 0}</div>
+            <div className="text-[9px] text-[var(--color-text-dim)] font-mono">{">"} 45 day STOCK Act</div>
+          </div>
+          {enhancedStats.assetTypes && (
+            <div className="bg-[var(--color-bg-card)] border border-[var(--color-border)] p-3 col-span-2">
+              <div className="text-[9px] text-[var(--color-text-dim)] font-mono uppercase tracking-wider mb-1">Asset Types</div>
+              <div className="flex flex-wrap gap-2">
+                {Object.entries(enhancedStats.assetTypes as Record<string, number>).sort((a: any, b: any) => b[1] - a[1]).map(([type, count]: [string, any]) => (
+                  <span key={type} className="font-mono text-[10px]">
+                    <span className="text-[var(--color-text)]">{type}</span>
+                    <span className="text-[var(--color-text-dim)] ml-1">{count}</span>
+                  </span>
+                ))}
+              </div>
+            </div>
+          )}
+        </div>
+      )}
+
       {/* Filters */}
       <div className="flex gap-2 mb-4">
         <input
@@ -322,8 +357,14 @@ export default function CapitolTradesPage() {
               </tr>
             </thead>
             <tbody>
-              {paged.map((t, i) => (
-                <tr key={i} className="border-b border-[var(--color-border)] hover:bg-[var(--color-bg-hover)]">
+              {paged.map((t: any, i) => {
+                const isWhale = t.isWhaleTrade || (t.amount?.max >= 500000)
+                const isLate = t.isLateDisclosure
+                const isOpt = t.isOptions
+                const isCryp = t.isCrypto
+                return (
+                <tr key={i} className="border-b border-[var(--color-border)] hover:bg-[var(--color-bg-hover)]"
+                  style={isWhale ? { borderLeftWidth: 3, borderLeftColor: '#f59e0b' } : isLate ? { borderLeftWidth: 3, borderLeftColor: '#ef4444' } : {}}>
                   <td className="py-2 px-2">
                     <div className="text-[var(--color-text)] font-medium">{t.politician}</div>
                     <div className="text-[9px] text-[var(--color-text-dim)]">
@@ -333,8 +374,17 @@ export default function CapitolTradesPage() {
                       {t.state}{t.district ? `-${t.district}` : ""}
                     </div>
                   </td>
-                  <td className="py-2 px-2 font-mono font-bold text-[var(--color-text)]">
-                    {t.ticker || <span className="text-[var(--color-text-dim)]">N/A</span>}
+                  <td className="py-2 px-2">
+                    <span className={`font-mono font-bold ${isCryp ? 'text-[#f59e0b]' : 'text-[var(--color-text)]'}`}>
+                      {t.ticker || <span className="text-[var(--color-text-dim)]">N/A</span>}
+                    </span>
+                    {/* Flags */}
+                    <div className="flex gap-1 mt-0.5">
+                      {isOpt && <span className="px-1 py-0 text-[7px] font-bold font-mono bg-[#8b5cf622] text-[#8b5cf6]">{t.optionType === 'call' ? 'CALL' : t.optionType === 'put' ? 'PUT' : 'OPT'}</span>}
+                      {isCryp && <span className="px-1 py-0 text-[7px] font-bold font-mono bg-[#f59e0b22] text-[#f59e0b]">CRYPTO</span>}
+                      {isWhale && <span className="px-1 py-0 text-[7px] font-bold font-mono bg-[#f59e0b22] text-[#f59e0b]">WHALE</span>}
+                      {isLate && <span className="px-1 py-0 text-[7px] font-bold font-mono bg-[#ef444422] text-[#ef4444]">LATE {t.filingDelayDays}d</span>}
+                    </div>
                   </td>
                   <td className="py-2 px-2">
                     <span className={`px-2 py-0.5 font-mono text-[9px] font-bold ${
@@ -355,7 +405,8 @@ export default function CapitolTradesPage() {
                     )}
                   </td>
                 </tr>
-              ))}
+                )
+              })}
             </tbody>
           </table>
 
