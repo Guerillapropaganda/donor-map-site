@@ -2313,7 +2313,9 @@
       "Great Lakes Conservatives Fund"
     ],
     "politicians-funded": [],
-    "opposes": [],
+    "opposes": [
+      "Donald Trump"
+    ],
     "stories": []
   },
   "About The Donor Map": {
@@ -2454,7 +2456,9 @@
       "Tech Industry"
     ],
     "politicians-funded": [],
-    "opposes": [],
+    "opposes": [
+      "Donald Trump"
+    ],
     "stories": []
   },
   "Adelson 250M Republican Kingmaker Pledge": {
@@ -2700,7 +2704,9 @@
     ],
     "donors": [],
     "politicians-funded": [],
-    "opposes": [],
+    "opposes": [
+      "Donald Trump"
+    ],
     "stories": []
   },
   "Alexander Acosta": {
@@ -3345,7 +3351,9 @@
       "Ohio Federation of Teachers"
     ],
     "politicians-funded": [],
-    "opposes": [],
+    "opposes": [
+      "Donald Trump"
+    ],
     "stories": []
   },
   "Amy Coney Barrett": {
@@ -3424,7 +3432,9 @@
       "Meta - Facebook"
     ],
     "politicians-funded": [],
-    "opposes": [],
+    "opposes": [
+      "Donald Trump"
+    ],
     "stories": []
   },
   "Ana Kasparian": {
@@ -3539,7 +3549,9 @@
     ],
     "donors": [],
     "politicians-funded": [],
-    "opposes": [],
+    "opposes": [
+      "Donald Trump"
+    ],
     "stories": []
   },
   "Andrew Klavan": {
@@ -3624,7 +3636,9 @@
     ],
     "donors": [],
     "politicians-funded": [],
-    "opposes": [],
+    "opposes": [
+      "Donald Trump"
+    ],
     "stories": []
   },
   "Angie Craig": {
@@ -3635,7 +3649,9 @@
       "Republican Jewish Coalition"
     ],
     "politicians-funded": [],
-    "opposes": [],
+    "opposes": [
+      "Donald Trump"
+    ],
     "stories": []
   },
   "Anthem - Elevance Health": {
@@ -3779,7 +3795,9 @@
       "California Building and Construction Trades Council"
     ],
     "politicians-funded": [],
-    "opposes": [],
+    "opposes": [
+      "Donald Trump"
+    ],
     "stories": []
   },
   "Apollo Global Management": {
@@ -4052,7 +4070,9 @@
     ],
     "donors": [],
     "politicians-funded": [],
-    "opposes": [],
+    "opposes": [
+      "Donald Trump"
+    ],
     "stories": []
   },
   "BAE Systems": {
@@ -4533,7 +4553,9 @@
       "IBEW - International Brotherhood of Electrical Workers"
     ],
     "politicians-funded": [],
-    "opposes": [],
+    "opposes": [
+      "Donald Trump"
+    ],
     "stories": []
   },
   "Bernard Marcus": {
@@ -4720,7 +4742,9 @@
       "CalPERS"
     ],
     "politicians-funded": [],
-    "opposes": [],
+    "opposes": [
+      "Donald Trump"
+    ],
     "stories": []
   },
   "Bezalel Smotrich": {
@@ -4817,7 +4841,9 @@
       "Media Matters"
     ],
     "politicians-funded": [],
-    "opposes": [],
+    "opposes": [
+      "Donald Trump"
+    ],
     "stories": []
   },
   "Bill Gates": {
@@ -5183,7 +5209,9 @@
       "Brady Campaign"
     ],
     "politicians-funded": [],
-    "opposes": [],
+    "opposes": [
+      "Donald Trump"
+    ],
     "stories": []
   },
   "Bobby Scott": {
@@ -5213,7 +5241,9 @@
       "Student Loan Servicer Industry"
     ],
     "politicians-funded": [],
-    "opposes": [],
+    "opposes": [
+      "Donald Trump"
+    ],
     "stories": []
   },
   "Boeing": {
@@ -5623,7 +5653,9 @@
       "UNITE HERE"
     ],
     "politicians-funded": [],
-    "opposes": [],
+    "opposes": [
+      "Donald Trump"
+    ],
     "stories": []
   },
   "Brennan Center for Justice": {
@@ -5856,7 +5888,9 @@
       "Real Estate Industry"
     ],
     "politicians-funded": [],
-    "opposes": [],
+    "opposes": [
+      "Donald Trump"
+    ],
     "stories": []
   },
   "Brookings Institution": {
@@ -7479,7 +7513,9 @@
     ],
     "donors": [],
     "politicians-funded": [],
-    "opposes": [],
+    "opposes": [
+      "Donald Trump"
+    ],
     "stories": []
   },
   "Chris Cuomo": {
@@ -7585,7 +7621,9 @@
       "Silicon Valley Democratic Donor Network"
     ],
     "politicians-funded": [],
-    "opposes": [],
+    "opposes": [
+      "Donald Trump"
+    ],
     "stories": []
   },
   "Chris Wallace": {
@@ -8585,6 +8623,7 @@
     "donors": [],
     "politicians-funded": [],
     "opposes": [
+      "Donald Trump",
       "Fairshake PAC",
       "Wesley Bell"
     ],
@@ -8701,7 +8740,9 @@
       "Silicon Valley Democratic Donor Network"
     ],
     "politicians-funded": [],
-    "opposes": [],
+    "opposes": [
+      "Donald Trump"
+    ],
     "stories": []
   },
   "Council for National Policy": {
@@ -10285,7 +10326,9 @@
       "UAW - United Auto Workers"
     ],
     "politicians-funded": [],
-    "opposes": [],
+    "opposes": [
+      "Donald Trump"
+    ],
     "stories": []
   },
   "Debbie Wasserman Schultz": {
@@ -10322,7 +10365,9 @@
       "UNITE HERE"
     ],
     "politicians-funded": [],
-    "opposes": [],
+    "opposes": [
+      "Donald Trump"
+    ],
     "stories": []
   },
   "Defense Contractor 450000 Percent ROI": {
@@ -10951,7 +10996,9 @@
       "Pharmaceutical Industry"
     ],
     "politicians-funded": [],
-    "opposes": [],
+    "opposes": [
+      "Donald Trump"
+    ],
     "stories": []
   },
   "Diff Log": {
@@ -11389,20 +11436,111 @@
     ],
     "politicians-funded": [],
     "opposes": [
+      "Abdul El-Sayed",
       "Adam Schiff",
+      "Adam Smith",
+      "Alex Padilla",
       "Alexandria Ocasio-Cortez",
+      "Amy Acton",
+      "Amy Klobuchar",
+      "Andrew Cuomo",
+      "Andy Beshear",
+      "Angie Craig",
+      "Antonio Villaraigosa",
+      "Ayanna Pressley",
       "Barack Obama",
+      "Bennie Thompson",
+      "Betty Yee",
+      "Bill Clinton",
+      "Bob Menendez",
+      "Bobby Scott",
+      "Brendan Boyle",
+      "Brian Schatz",
+      "Chris Coons",
+      "Chris Murphy",
       "Chuck Schumer",
+      "Cori Bush",
+      "Cory Booker",
+      "Debbie Stabenow",
+      "Debbie Wasserman Schultz",
+      "Dick Durbin",
+      "Ed Markey",
       "Elizabeth Warren",
+      "Eric Swalwell",
+      "Frank Pallone",
+      "Gary Peters",
       "Gavin Newsom",
+      "George Latimer",
+      "Gerry Connolly",
+      "Graham Platner",
+      "Greg Casar",
+      "Gregory Meeks",
+      "Gretchen Whitmer",
+      "Hakeem Jeffries",
+      "Harry Reid",
+      "Henry Cuellar",
       "Hillary Clinton",
       "Ilhan Omar",
+      "JB Pritzker",
+      "Jack Reed",
+      "Jamaal Bowman",
       "Jamie Raskin",
+      "Janet Mills",
+      "Jeanne Shaheen",
+      "Jeff Merkley",
+      "Jerry Nadler",
+      "Jim Himes",
+      "Jim McGovern",
       "Joe Biden",
+      "John Fetterman",
+      "John Hickenlooper",
+      "Jon Ossoff",
+      "Joseph Morelle",
+      "Josh Gottheimer",
+      "Josh Green",
+      "Josh Shapiro",
       "Kamala Harris",
+      "Katie Porter",
+      "Mallory McMorrow",
+      "Maria Cantwell",
+      "Mark Takano",
+      "Mark Warner",
+      "Martin Heinrich",
+      "Matt Mahan",
       "Maxine Waters",
+      "Melissa Bean",
       "Nancy Pelosi",
-      "Rashida Tlaib"
+      "Nina Turner",
+      "Nydia Velazquez",
+      "Patty Murray",
+      "Pete Aguilar",
+      "Pete Buttigieg",
+      "Pramila Jayapal",
+      "Raja Krishnamoorthi",
+      "Raphael Warnock",
+      "Rashida Tlaib",
+      "Raul Grijalva",
+      "Richard Blumenthal",
+      "Richard Neal",
+      "Rick Larsen",
+      "Ro Khanna",
+      "Ron Wyden",
+      "Rosa DeLauro",
+      "Saikat Chakrabarti",
+      "Scott Wiener",
+      "Sheldon Whitehouse",
+      "Sherrod Brown",
+      "Shontel Brown",
+      "Summer Lee",
+      "Tammy Baldwin",
+      "Tammy Duckworth",
+      "Tim Walz",
+      "Tom Steyer",
+      "Tony Thurmond",
+      "Wes Moore",
+      "Wesley Bell",
+      "Xavier Becerra",
+      "Zoe Lofgren"
     ],
     "stories": []
   },
@@ -12008,7 +12146,9 @@
     ],
     "donors": [],
     "politicians-funded": [],
-    "opposes": [],
+    "opposes": [
+      "Donald Trump"
+    ],
     "stories": []
   },
   "Education - Donors and Backers": {
@@ -12557,7 +12697,9 @@
       "SEIU - Service Employees International Union"
     ],
     "politicians-funded": [],
-    "opposes": [],
+    "opposes": [
+      "Donald Trump"
+    ],
     "stories": []
   },
   "Ernst Campaign Finance Research - Verified Dates and Amounts": {
@@ -13821,7 +13963,9 @@
       "UAW - United Auto Workers"
     ],
     "politicians-funded": [],
-    "opposes": [],
+    "opposes": [
+      "Donald Trump"
+    ],
     "stories": []
   },
   "Fraternal Order of Police": {
@@ -14271,7 +14415,9 @@
       "UAW - United Auto Workers"
     ],
     "politicians-funded": [],
-    "opposes": [],
+    "opposes": [
+      "Donald Trump"
+    ],
     "stories": []
   },
   "Gas prices concern Americans most amid Iran war Pew survey": {
@@ -14499,7 +14645,9 @@
       "Western States Petroleum Association"
     ],
     "politicians-funded": [],
-    "opposes": [],
+    "opposes": [
+      "Donald Trump"
+    ],
     "stories": []
   },
   "Gavin Newsom’s political magic Will America fall for his tricks": {
@@ -14678,7 +14826,9 @@
       "United Democracy Project - UDP"
     ],
     "politicians-funded": [],
-    "opposes": [],
+    "opposes": [
+      "Donald Trump"
+    ],
     "stories": []
   },
   "George Soros": {
@@ -14803,7 +14953,9 @@
       "Tech Industry"
     ],
     "politicians-funded": [],
-    "opposes": [],
+    "opposes": [
+      "Donald Trump"
+    ],
     "stories": []
   },
   "Gilead Sciences": {
@@ -15250,7 +15402,9 @@
     ],
     "donors": [],
     "politicians-funded": [],
-    "opposes": [],
+    "opposes": [
+      "Donald Trump"
+    ],
     "stories": []
   },
   "Graham Platner’s political outsider vibe gains steam in Maine among Democrats": {
@@ -15395,7 +15549,9 @@
     ],
     "donors": [],
     "politicians-funded": [],
-    "opposes": [],
+    "opposes": [
+      "Donald Trump"
+    ],
     "stories": []
   },
   "Greg Gutfeld": {
@@ -15502,7 +15658,9 @@
       "NORPAC"
     ],
     "politicians-funded": [],
-    "opposes": [],
+    "opposes": [
+      "Donald Trump"
+    ],
     "stories": []
   },
   "Gretchen Whitmer": {
@@ -15524,7 +15682,9 @@
     ],
     "donors": [],
     "politicians-funded": [],
-    "opposes": [],
+    "opposes": [
+      "Donald Trump"
+    ],
     "stories": []
   },
   "Gulf State Money - Saudi Arabia, UAE, Qatar": {
@@ -15746,7 +15906,9 @@
       "Tech Industry"
     ],
     "politicians-funded": [],
-    "opposes": [],
+    "opposes": [
+      "Donald Trump"
+    ],
     "stories": []
   },
   "Hakeem Jeffries Master Profile: labor vs. corporate contradiction": {
@@ -15900,7 +16062,9 @@
     ],
     "donors": [],
     "politicians-funded": [],
-    "opposes": [],
+    "opposes": [
+      "Donald Trump"
+    ],
     "stories": []
   },
   "Hasan Piker": {
@@ -16144,7 +16308,9 @@
       "Western Growers Association"
     ],
     "politicians-funded": [],
-    "opposes": [],
+    "opposes": [
+      "Donald Trump"
+    ],
     "stories": []
   },
   "Heritage Foundation": {
@@ -16217,6 +16383,7 @@
     "politicians-funded": [],
     "opposes": [
       "CONSERVATIVE LEADERSHIP POLITICAL ACTION COMMITTEE",
+      "Donald Trump",
       "KENTUCKIANS FOR STRONG LEADERSHIP",
       "STOP UNION POLITICAL ABUSE (SUPA)"
     ],
@@ -16846,7 +17013,9 @@
       "National Nurses United"
     ],
     "politicians-funded": [],
-    "opposes": [],
+    "opposes": [
+      "Donald Trump"
+    ],
     "stories": []
   },
   "Illinois 2026 Senate Race": {
@@ -17612,7 +17781,9 @@
       "Cory Booker",
       "Jon Ossoff"
     ],
-    "opposes": [],
+    "opposes": [
+      "Donald Trump"
+    ],
     "stories": []
   },
   "JCRC Bay Area": {
@@ -17853,7 +18024,9 @@
       "NORPAC"
     ],
     "politicians-funded": [],
-    "opposes": [],
+    "opposes": [
+      "Donald Trump"
+    ],
     "stories": []
   },
   "Jake Tapper": {
@@ -17916,6 +18089,7 @@
     "politicians-funded": [],
     "opposes": [
       "DMFI - Democratic Majority for Israel",
+      "Donald Trump",
       "FAIRSHAKE",
       "UNITED DEMOCRACY PROJECT ('UDP')"
     ],
@@ -18063,7 +18237,9 @@
       "Democratic Senatorial Campaign Committee"
     ],
     "politicians-funded": [],
-    "opposes": [],
+    "opposes": [
+      "Donald Trump"
+    ],
     "stories": []
   },
   "January 6 Communications and the Weaponization Subcommittee Hypocrisy": {
@@ -18204,7 +18380,9 @@
       "Northrop Grumman"
     ],
     "politicians-funded": [],
-    "opposes": [],
+    "opposes": [
+      "Donald Trump"
+    ],
     "stories": []
   },
   "Jeff Bezos": {
@@ -18240,7 +18418,9 @@
       "Labor Unions"
     ],
     "politicians-funded": [],
-    "opposes": [],
+    "opposes": [
+      "Donald Trump"
+    ],
     "stories": []
   },
   "Jeff Yass (Redirect)": {
@@ -18496,7 +18676,9 @@
       "J Street"
     ],
     "politicians-funded": [],
-    "opposes": [],
+    "opposes": [
+      "Donald Trump"
+    ],
     "stories": []
   },
   "Jesse Watters": {
@@ -18618,7 +18800,9 @@
       "Goldman Sachs"
     ],
     "politicians-funded": [],
-    "opposes": [],
+    "opposes": [
+      "Donald Trump"
+    ],
     "stories": []
   },
   "Jim Inhofe": {
@@ -18700,7 +18884,9 @@
       "National Nurses United"
     ],
     "politicians-funded": [],
-    "opposes": [],
+    "opposes": [
+      "Donald Trump"
+    ],
     "stories": []
   },
   "Jim Risch": {
@@ -19248,6 +19434,7 @@
     "politicians-funded": [],
     "opposes": [
       "AMERICAN CROSSROADS",
+      "Donald Trump",
       "MAKE AMERICA GREAT AGAIN INC.",
       "NRSC",
       "SENATE LEADERSHIP FUND"
@@ -19285,7 +19472,9 @@
       "NORPAC"
     ],
     "politicians-funded": [],
-    "opposes": [],
+    "opposes": [
+      "Donald Trump"
+    ],
     "stories": []
   },
   "John Hoeven": {
@@ -19618,7 +19807,9 @@
       "Tech and Media Donors"
     ],
     "politicians-funded": [],
-    "opposes": [],
+    "opposes": [
+      "Donald Trump"
+    ],
     "stories": []
   },
   "Joni Ernst": {
@@ -19734,7 +19925,9 @@
       "Labor Unions"
     ],
     "politicians-funded": [],
-    "opposes": [],
+    "opposes": [
+      "Donald Trump"
+    ],
     "stories": []
   },
   "Josh Gottheimer": {
@@ -19749,7 +19942,9 @@
       "Wall Street Finance PACs"
     ],
     "politicians-funded": [],
-    "opposes": [],
+    "opposes": [
+      "Donald Trump"
+    ],
     "stories": []
   },
   "Josh Green": {
@@ -19763,7 +19958,9 @@
       "Fraternal Order of Police"
     ],
     "politicians-funded": [],
-    "opposes": [],
+    "opposes": [
+      "Donald Trump"
+    ],
     "stories": []
   },
   "Josh Hawley": {
@@ -19850,7 +20047,9 @@
       "Michael Bloomberg"
     ],
     "politicians-funded": [],
-    "opposes": [],
+    "opposes": [
+      "Donald Trump"
+    ],
     "stories": []
   },
   "Joy Reid": {
@@ -20293,6 +20492,7 @@
     "politicians-funded": [],
     "opposes": [
       "Coinbase",
+      "Donald Trump",
       "Fairshake PAC"
     ],
     "stories": []
@@ -22222,7 +22422,9 @@
       "National Progressive Donor Networks"
     ],
     "politicians-funded": [],
-    "opposes": [],
+    "opposes": [
+      "Donald Trump"
+    ],
     "stories": []
   },
   "Manhattan Institute for Policy Research": {
@@ -22471,7 +22673,9 @@
       "Jeff Bezos"
     ],
     "politicians-funded": [],
-    "opposes": [],
+    "opposes": [
+      "Donald Trump"
+    ],
     "stories": []
   },
   "Maria Elvira Salazar": {
@@ -22759,7 +22963,9 @@
       "UAW - United Auto Workers"
     ],
     "politicians-funded": [],
-    "opposes": [],
+    "opposes": [
+      "Donald Trump"
+    ],
     "stories": []
   },
   "Mark Warner": {
@@ -22806,7 +23012,9 @@
       "Telecom Industry"
     ],
     "politicians-funded": [],
-    "opposes": [],
+    "opposes": [
+      "Donald Trump"
+    ],
     "stories": []
   },
   "Mark Zuckerberg": {
@@ -22895,7 +23103,9 @@
       "Tech Industry"
     ],
     "politicians-funded": [],
-    "opposes": [],
+    "opposes": [
+      "Donald Trump"
+    ],
     "stories": []
   },
   "MasTec - Mas Canosa Family": {
@@ -23011,7 +23221,9 @@
       "Peter Thiel"
     ],
     "politicians-funded": [],
-    "opposes": [],
+    "opposes": [
+      "Donald Trump"
+    ],
     "stories": []
   },
   "Matt Taibbi": {
@@ -23166,7 +23378,9 @@
       "Goldman Sachs"
     ],
     "politicians-funded": [],
-    "opposes": [],
+    "opposes": [
+      "Donald Trump"
+    ],
     "stories": []
   },
   "McCarthy ‘Right now, Trump has more power than Reagan’": {
@@ -23463,7 +23677,9 @@
       "United Democracy Project - UDP"
     ],
     "politicians-funded": [],
-    "opposes": [],
+    "opposes": [
+      "Donald Trump"
+    ],
     "stories": []
   },
   "Melissa Bean's Corporate Background": {
@@ -25680,6 +25896,7 @@
     "donors": [],
     "politicians-funded": [],
     "opposes": [
+      "Donald Trump",
       "Shontel Brown"
     ],
     "stories": []
@@ -25831,6 +26048,15 @@
     "donors": [],
     "politicians-funded": [],
     "opposes": [],
+    "stories": []
+  },
+  "Nydia Velazquez": {
+    "related": [],
+    "donors": [],
+    "politicians-funded": [],
+    "opposes": [
+      "Donald Trump"
+    ],
     "stories": []
   },
   "Oath Keepers Membership and the Constitutional Sheriff Movement": {
@@ -26739,7 +26965,9 @@
       "Pharmaceutical Industry Bloc"
     ],
     "politicians-funded": [],
-    "opposes": [],
+    "opposes": [
+      "Donald Trump"
+    ],
     "stories": []
   },
   "Paul Atkins": {
@@ -27014,7 +27242,9 @@
       "UAW - United Auto Workers"
     ],
     "politicians-funded": [],
-    "opposes": [],
+    "opposes": [
+      "Donald Trump"
+    ],
     "stories": []
   },
   "Pete Buttigieg": {
@@ -27038,7 +27268,9 @@
       "Finance and Tech Bundler Network"
     ],
     "politicians-funded": [],
-    "opposes": [],
+    "opposes": [
+      "Donald Trump"
+    ],
     "stories": []
   },
   "Pete Hegseth": {
@@ -27641,7 +27873,9 @@
     ],
     "donors": [],
     "politicians-funded": [],
-    "opposes": [],
+    "opposes": [
+      "Donald Trump"
+    ],
     "stories": []
   },
   "Prescription Drug Pricing - PBM Veto Cycle": {
@@ -28202,7 +28436,9 @@
     ],
     "donors": [],
     "politicians-funded": [],
-    "opposes": [],
+    "opposes": [
+      "Donald Trump"
+    ],
     "stories": []
   },
   "Rand Paul": {
@@ -28272,6 +28508,7 @@
     "politicians-funded": [],
     "opposes": [
       "AMERICAN CROSSROADS",
+      "Donald Trump",
       "NRSC",
       "PEACHTREE PAC",
       "SENATE LEADERSHIP FUND"
@@ -28301,6 +28538,7 @@
     "donors": [],
     "politicians-funded": [],
     "opposes": [
+      "Donald Trump",
       "Marathon Petroleum"
     ],
     "stories": []
@@ -28341,7 +28579,8 @@
     ],
     "politicians-funded": [],
     "opposes": [
-      "AMERICANS FOR TAX REFORM"
+      "AMERICANS FOR TAX REFORM",
+      "Donald Trump"
     ],
     "stories": []
   },
@@ -28810,7 +29049,9 @@
       "Google - Alphabet"
     ],
     "politicians-funded": [],
-    "opposes": [],
+    "opposes": [
+      "Donald Trump"
+    ],
     "stories": []
   },
   "Richard Neal": {
@@ -28833,7 +29074,9 @@
       "PhRMA - Pharmaceutical Research and Manufacturers of America"
     ],
     "politicians-funded": [],
-    "opposes": [],
+    "opposes": [
+      "Donald Trump"
+    ],
     "stories": []
   },
   "Richard and Elizabeth Uihlein": {
@@ -28886,7 +29129,9 @@
       "IBEW - International Brotherhood of Electrical Workers"
     ],
     "politicians-funded": [],
-    "opposes": [],
+    "opposes": [
+      "Donald Trump"
+    ],
     "stories": []
   },
   "Rick Scott": {
@@ -28993,7 +29238,9 @@
       "Google - Alphabet"
     ],
     "politicians-funded": [],
-    "opposes": [],
+    "opposes": [
+      "Donald Trump"
+    ],
     "stories": []
   },
   "Robert Mercer": {
@@ -29193,7 +29440,9 @@
     ],
     "donors": [],
     "politicians-funded": [],
-    "opposes": [],
+    "opposes": [
+      "Donald Trump"
+    ],
     "stories": []
   },
   "Roosevelt Institute": {
@@ -29250,7 +29499,9 @@
       "Raytheon (RTX Corporation)"
     ],
     "politicians-funded": [],
-    "opposes": [],
+    "opposes": [
+      "Donald Trump"
+    ],
     "stories": []
   },
   "Ross Stevens": {
@@ -29628,7 +29879,9 @@
     ],
     "donors": [],
     "politicians-funded": [],
-    "opposes": [],
+    "opposes": [
+      "Donald Trump"
+    ],
     "stories": []
   },
   "Sam Altman’s ‘New Deal’ for superintelligence": {
@@ -30066,7 +30319,9 @@
     ],
     "donors": [],
     "politicians-funded": [],
-    "opposes": [],
+    "opposes": [
+      "Donald Trump"
+    ],
     "stories": []
   },
   "Sea power in the modern age — why Trump is taking over maritime trade routes": {
@@ -30893,6 +31148,7 @@
     ],
     "politicians-funded": [],
     "opposes": [
+      "Donald Trump",
       "DonorsTrust",
       "Judicial Crisis Network",
       "Leonard Leo",
@@ -30975,7 +31231,9 @@
       "UAW - United Auto Workers"
     ],
     "politicians-funded": [],
-    "opposes": [],
+    "opposes": [
+      "Donald Trump"
+    ],
     "stories": []
   },
   "Shontel Brown": {
@@ -30990,7 +31248,9 @@
       "Republican Jewish Coalition"
     ],
     "politicians-funded": [],
-    "opposes": [],
+    "opposes": [
+      "Donald Trump"
+    ],
     "stories": []
   },
   "Signalgate - The Yemen Strike Chat and the Security Theater": {
@@ -31717,7 +31977,9 @@
     ],
     "donors": [],
     "politicians-funded": [],
-    "opposes": [],
+    "opposes": [
+      "Donald Trump"
+    ],
     "stories": []
   },
   "Sunday shows preview Trump ups threats on Iran after saying war ‘near completion": {
@@ -31985,7 +32247,9 @@
       "UAW - United Auto Workers"
     ],
     "politicians-funded": [],
-    "opposes": [],
+    "opposes": [
+      "Donald Trump"
+    ],
     "stories": []
   },
   "Tammy Duckworth": {
@@ -32025,7 +32289,9 @@
       "Lockheed Martin"
     ],
     "politicians-funded": [],
-    "opposes": [],
+    "opposes": [
+      "Donald Trump"
+    ],
     "stories": []
   },
   "Tariff Wars - The Working Class Tax Disguised as Trade Policy": {
@@ -37985,7 +38251,9 @@
       "Democracy Alliance"
     ],
     "politicians-funded": [],
-    "opposes": [],
+    "opposes": [
+      "Donald Trump"
+    ],
     "stories": []
   },
   "Timothy Mellon": {
@@ -38153,7 +38421,9 @@
       "National Progressive Donor Networks"
     ],
     "politicians-funded": [],
-    "opposes": [],
+    "opposes": [
+      "Donald Trump"
+    ],
     "stories": []
   },
   "Tommy Tuberville": {
@@ -38187,7 +38457,9 @@
       "CTA - California Teachers Association"
     ],
     "politicians-funded": [],
-    "opposes": [],
+    "opposes": [
+      "Donald Trump"
+    ],
     "stories": []
   },
   "Top 10 Most Expensive House Races 2026": {
@@ -40088,7 +40360,9 @@
       "Insurance Industry"
     ],
     "politicians-funded": [],
-    "opposes": [],
+    "opposes": [
+      "Donald Trump"
+    ],
     "stories": []
   },
   "Wesley Bell": {
@@ -40104,7 +40378,9 @@
       "DMFI - Democratic Majority for Israel"
     ],
     "politicians-funded": [],
-    "opposes": [],
+    "opposes": [
+      "Donald Trump"
+    ],
     "stories": []
   },
   "West Bank Annexation and Settlement Expansion": {
@@ -40459,7 +40735,9 @@
     ],
     "donors": [],
     "politicians-funded": [],
-    "opposes": [],
+    "opposes": [
+      "Donald Trump"
+    ],
     "stories": []
   },
   "Youngkin on political future ‘I have more to give’": {
@@ -40520,7 +40798,9 @@
       "Tech Industry"
     ],
     "politicians-funded": [],
-    "opposes": [],
+    "opposes": [
+      "Donald Trump"
+    ],
     "stories": []
   },
   "a16z - Andreessen Horowitz": {
