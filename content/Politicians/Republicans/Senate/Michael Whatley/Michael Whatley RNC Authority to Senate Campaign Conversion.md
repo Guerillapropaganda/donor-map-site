@@ -2,10 +2,10 @@
 title: "Michael Whatley RNC Authority to Senate Campaign Conversion"
 type: sub-note
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-12
 source-tier: 2
 parent: [[_Michael Whatley Master Profile]]
-related: "[[_Michael Whatley Master Profile|Michael Whatley]] · [[Michael Whatley Oil and Gas Lobbying History]] · [[Trump Donor Network - The Full Map|Trump Donor Network]]"
+related: "[[_Michael Whatley Master Profile|Michael Whatley]] · [[Michael Whatley Oil and Gas Lobbying History]] · [[Trump Donor Network - The Full Map|Trump Donor Network]] · [[Susan B. Anthony Pro-Life America PAC]]"
 ---
 #politician #republican #rnc #conflict-of-interest #senate #donor-machine #2026-candidate
 tags: #republican

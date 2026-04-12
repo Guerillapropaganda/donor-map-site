@@ -2,7 +2,7 @@
 title: "Mercury Public Affairs"
 type: lobbying-firm
 content-readiness: draft
-last-updated: 2026-04-10
+last-updated: 2026-04-12
 source-tier: 1
 parent: null
 annual-revenue: "$25.4M (2025)"
@@ -22,7 +22,7 @@ court-jurisdictions:
   - "United States Bankruptcy Court, C.D. California"
   - "United States Bankruptcy Court, D. Delaware"
   - "United States Bankruptcy Court, S.D. Texas"
-related: "[[Tech & Crypto]] · [[Foreign]] · [[Energy & Utilities]] · [[Wall Street]]"
+related: "[[Tech & Crypto]] · [[Foreign]] · [[Energy & Utilities]] · [[Wall Street]] · [[Donald Trump Master Profile]]"
 ein: "680461871"
 nonprofit-status: "501(c)(5)"
 lei: "2138005I3XSPI3QH7536"

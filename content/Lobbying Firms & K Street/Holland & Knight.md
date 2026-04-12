@@ -2,7 +2,7 @@
 title: "Holland & Knight"
 type: lobbying-firm
 content-readiness: draft
-last-updated: 2026-04-09
+last-updated: 2026-04-12
 source-tier: 1
 parent: null
 annual-revenue: "$54.9M (2025)"
@@ -19,7 +19,7 @@ fara-countries:
   - "JAPAN"
   - "KOREA SOUTH"
   - "QATAR"
-related: "[[Google - Alphabet|Alphabet/Google]] · [[Occidental Petroleum]] · [[Fossil Fuel Bloc]]"
+related: "[[Google - Alphabet|Alphabet/Google]] · [[Occidental Petroleum]] · [[Fossil Fuel Bloc]] · [[Donald Trump Master Profile]]"
 ein: "311472972"
 nonprofit-status: "501(c)(3)"
 last-enriched: "2026-04-09"

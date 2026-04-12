@@ -2,10 +2,10 @@
 title: "Opioid Litigation and Pharmaceutical Industry Accountability"
 type: sub-note
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-12
 source-tier: 1
 parent: [[_Janet Mills Master Profile]]
-related: "[[_Janet Mills Master Profile|Janet Mills]]"
+related: "[[_Janet Mills Master Profile|Janet Mills]] · [[Democratic Senatorial Campaign Committee]]"
 ---
 #politician #janet-mills #opioid-litigation #pharmaceutical-industry #maine-ag
 

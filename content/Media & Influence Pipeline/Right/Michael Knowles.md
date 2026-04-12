@@ -2,12 +2,12 @@
 title: "Michael Knowles"
 type: media-profile
 content-readiness: ready
-last-updated: 2026-04-11
+last-updated: 2026-04-12
 source-tier: 2
 parent: null
 category: right
 platform: multi-platform
-related: "[[Wilks Brothers]] · [[The Daily Wire]] · [[Jeremy Boreing]] · [[Andrew Klavan]] · [[Jordan Peterson]] · [[The Platform Dependency Spectrum — Revenue Vulnerability Across Political Media]] · [[Tucker Carlson]] · [[Tim Pool]] · [[Tenet Media]] · [[Steven Crowder]] · [[Sean Hannity]] · [[Rumble]] · [[Patrick Bet-David]] · [[Matt Walsh]] · [[Mark Levin]] · [[Laura Ingraham]] · [[Jimmy Dore]]"
+related: "[[Wilks Brothers]] · [[The Daily Wire]] · [[Jeremy Boreing]] · [[Andrew Klavan]] · [[Jordan Peterson]] · [[The Platform Dependency Spectrum — Revenue Vulnerability Across Political Media]] · [[Tucker Carlson]] · [[Tim Pool]] · [[Tenet Media]] · [[Steven Crowder]] · [[Sean Hannity]] · [[Rumble]] · [[Patrick Bet-David]] · [[Matt Walsh]] · [[Mark Levin]] · [[Laura Ingraham]] · [[Jimmy Dore]] · [[Jesse Watters]]"
 ---
 
 #media-pipeline #right #culture-war #daily-wire #evangelical-capitalism

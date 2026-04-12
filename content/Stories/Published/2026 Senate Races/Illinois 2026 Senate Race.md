@@ -2,10 +2,10 @@
 title: "Illinois 2026 Senate Race"
 type: story
 content-readiness: draft
-last-updated: 2026-04-11
+last-updated: 2026-04-12
 source-tier: 2
 parent: null
-related: "[[Georgia 2026 Senate Race]] · [[_Juliana Stratton Master Profile|Juliana Stratton Master Profile]] · [[Fairshake PAC]] · [[Illinois Future PAC]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]] · [[Intra-Democratic Contradiction Map - The Progressive vs Moderate Illusion]] · [[Intra-Republican Contradiction Map]] · [[Geographic Donor Clustering - Where the Money Actually Comes From]] · [[Trump-Newsom Donor Class Mirror - Same Money, Different Rhetoric]]"
+related: "[[Georgia 2026 Senate Race]] · [[_Juliana Stratton Master Profile|Juliana Stratton Master Profile]] · [[Fairshake PAC]] · [[Illinois Future PAC]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]] · [[Intra-Democratic Contradiction Map - The Progressive vs Moderate Illusion]] · [[Intra-Republican Contradiction Map]] · [[Geographic Donor Clustering - Where the Money Actually Comes From]] · [[Trump-Newsom Donor Class Mirror - Same Money, Different Rhetoric]] · [[Schumer-McConnell Senate Leadership Mirror - Same Money, Different Caucuses]]"
 ---
 #2026-election #senate #illinois #race-frame
 

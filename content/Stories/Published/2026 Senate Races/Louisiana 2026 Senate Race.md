@@ -2,7 +2,7 @@
 title: "Louisiana 2026 Senate Race"
 type: story
 content-readiness: raw
-last-updated: 2026-04-01
+last-updated: 2026-04-12
 source-tier: 1
 parent: null
 source-types:
@@ -10,6 +10,7 @@ source-types:
 known-gaps:
   - "No mapped relationships"
 
+related: "[[Susan B. Anthony Pro-Life America PAC]]"
 ---
 
 #2026-election #senate #louisiana #race-frame

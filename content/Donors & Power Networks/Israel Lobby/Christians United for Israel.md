@@ -2,7 +2,7 @@
 title: "Christians United for Israel"
 type: donor
 content-readiness: draft
-last-updated: 2026-04-11
+last-updated: 2026-04-12
 source-tier: 1
 parent: null
 sector: "Israel Lobby"
@@ -20,7 +20,7 @@ sec-form-types:
   - "EX-99.1"
   - "FWP"
   - "PRE 14A"
-related: "[[Israel - Government Lobbying Operation]] · [[AIPAC - American Israel Public Affairs Committee]] · [[DMFI - Democratic Majority for Israel]] · [[Haim Saban]] · [[JCRC Bay Area]] · [[JPAC - Jewish Public Affairs Committee of California]] · [[J Street]] · [[American Friends of the Likud]]"
+related: "[[Israel - Government Lobbying Operation]] · [[AIPAC - American Israel Public Affairs Committee]] · [[DMFI - Democratic Majority for Israel]] · [[Haim Saban]] · [[JCRC Bay Area]] · [[JPAC - Jewish Public Affairs Committee of California]] · [[J Street]] · [[American Friends of the Likud]] · [[Blue Shield of California]]"
 cross-vault-triangulation-count: 5
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
   • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.

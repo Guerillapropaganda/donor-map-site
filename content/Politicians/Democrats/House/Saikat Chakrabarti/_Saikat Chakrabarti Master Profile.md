@@ -2,7 +2,7 @@
 title: "Saikat Chakrabarti Master Profile"
 type: politician
 content-readiness: draft
-last-updated: '2026-04-09'
+last-updated: 2026-04-12
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -35,7 +35,7 @@ known-gaps:
 editorial-review-date: "2026-04-09"
 editorial-reviewer: "Research Claude"
 editorial-result: pass
-related: "[[_Alexandria Ocasio-Cortez Master Profile]] · [[_Nancy Pelosi Master Profile]] · [[_Bernie Sanders Master Profile]] · [[_Scott Wiener Master Profile]]"
+related: "[[_Alexandria Ocasio-Cortez Master Profile]] · [[_Nancy Pelosi Master Profile]] · [[_Bernie Sanders Master Profile]] · [[_Scott Wiener Master Profile]] · [[Small Dollar Donors - ActBlue]]"
 needs-reenrichment: true
 reenrich-reason: "run congress pipeline; run pipelines"
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:

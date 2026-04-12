@@ -2,10 +2,10 @@
 title: "Michael Whatley Oil and Gas Lobbying History"
 type: sub-note
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-12
 source-tier: 2
 parent: [[_Michael Whatley Master Profile]]
-related: "[[Michael Whatley RNC Authority to Senate Campaign Conversion]] · [[_Michael Whatley Master Profile|Michael Whatley]] · [[HBW Resources]]"
+related: "[[Michael Whatley RNC Authority to Senate Campaign Conversion]] · [[_Michael Whatley Master Profile|Michael Whatley]] · [[HBW Resources]] · [[Consumer Energy Alliance]]"
 ---
 #politician #republican #energy-policy #oil-gas #lobbying #revolving-door #north-carolina
 tags: #republican
