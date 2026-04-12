@@ -893,6 +893,17 @@ phase_1_tasks:
       notes: |
         scripts/attention-dispatcher.cjs: 2 new producers (total 8). bidirectional-normalizer at "23 3 * * 0" (Sundays 3:23am), per-profile-artifact at "25 3 * * 0" (Sundays 3:25am, 2 min stagger). Both use default 60s timeout (each runs in <1 second). Normalizer creates mirror edges for new one-way related links that Research Claude may introduce; artifact builder refreshes the JSON that Quartz components import so the next site build reflects the latest normalized state.
 
+    - id: cc_68
+      task: "Fix 4 dashboard bugs: graph overflow, enrichment count, calendar timestamps, vault health donut"
+      status: done
+      completed_date: 2026-04-12
+      completed_at: "2026-04-11T22:30:00-07:00"
+      added_adhoc: true
+      commit: "a53bf573"
+      merge: "54315fd7"
+      notes: |
+        Bug A: relationships/page.tsx graph container capped at 700px max + overflow:hidden + mx-auto (was connectionCount*20 = 3000px+). Bug B: vault.ts computeStats() now skips enrichment tracking for types with enrichment weight = 0 (story, event, meta); NOT ENRICHED 1,223→296, NEVER ENRICHED dropped to 306. Used inline resolveTypeForStats() to avoid importing fs-dependent profile-type-rulebook.ts into client bundle. Bug C: Calendar.tsx + DayModal.tsx task timestamps replaced .slice(11,16) UTC extraction with toLocaleTimeString() local time. Bug D: page.tsx vault health donut used kebab-case p["content-readiness"] on camelCase profile objects (always undefined → 0%). Switched to p.contentReadiness + added s-tier to verified bucket. Result: 0%→74%. All 4 verified in preview with zero console errors.
+
     - id: cc_60
       task: "Phase 3 Part 3: /api/connections GET reads JSONL edge store"
       status: done
@@ -1235,7 +1246,7 @@ parser_guidance:
 
 ---
 
-**Schedule last updated: 2026-04-12 (early morning — cc_65, cc_66, cc_67 added: Phase 3 Part 4b Quartz component migration (last architectural piece), orphan detector JSONL retarget, normalizer + artifact builder wired into dispatcher. Phase 3 is architecturally complete. Next session should shift to content work.)**
+**Schedule last updated: 2026-04-12 (morning — cc_68 added: 4 dashboard bug fixes from David's wrinkles list. Graph overflow capped, enrichment count honest, calendar timestamps local, vault health donut 0%→74%. Phase 3 remains architecturally complete. Feature requests from David's list roadmapped for future sessions.)**
 **Current phase: phase_1 (Day 2 of 7)**
 **Next checkpoint: Phase 1 exit, 2026-04-16**
 **New data sources added 2026-04-11: FDA (pharma/device/food enforcement), OCC (national bank enforcement), FTC (mergers + historical enforcement). All three live in CI + Ops app.**
