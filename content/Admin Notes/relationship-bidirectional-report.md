@@ -4,19 +4,19 @@ type: admin-note
 note-type: data
 priority: normal
 status: open
-last-updated: '2026-04-11'
+last-updated: '2026-04-12'
 generated-by: scripts/relationship-bidirectional.cjs
 ---
 
 # Orphan Relationship Report
 
-Generated: 2026-04-11T22:31:47.075Z
-Mode: DRY RUN (report only)
+Generated: 2026-04-12T04:05:18.810Z
+Mode: frontmatter (report only)
 
-Scanned 1850 profiles.
+Scanned 1850 profiles from content/.
 Orphan pairs: **4643**.
 
-An orphan is a connection where A lists B in its `related:` but B does NOT reference A in any relationship field (related, donors, opposes, politicians-funded). Usually a data-quality bug — one side of the edit dropped.
+An orphan is a connection where A lists B in its `related:` frontmatter but B does NOT reference A in any relationship field. Usually a data-quality bug. Pass without --frontmatter to use the JSONL-based detection (canonical store).
 
 ## Orphans
 

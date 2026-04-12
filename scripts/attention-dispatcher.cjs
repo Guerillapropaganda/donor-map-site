@@ -79,6 +79,24 @@ const PRODUCERS = [
     args: ['--write-edges'],
     timeout_ms: 180_000,
   },
+  // Phase 3 Part 4b: bidirectional normalizer + per-profile artifact rebuild.
+  // Runs weekly on Sundays at :23 (low frequency — new asymmetries only
+  // appear when Research Claude adds one-way related: links). Chains two
+  // scripts: first the normalizer creates mirror edges, then the
+  // per-profile artifact is rebuilt so the Quartz build picks up the
+  // latest state.
+  {
+    name: 'bidirectional-normalizer',
+    schedule: '23 3 * * 0',
+    script: 'scripts/normalize-related-bidirectionality.cjs',
+    timeout_ms: 60_000,
+  },
+  {
+    name: 'per-profile-artifact',
+    schedule: '25 3 * * 0',
+    script: 'scripts/build-relationships-per-profile.cjs',
+    timeout_ms: 60_000,
+  },
 ];
 
 // Serialize execution — never run two producers at once

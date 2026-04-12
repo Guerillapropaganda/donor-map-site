@@ -24,9 +24,11 @@
 const fs = require('fs');
 const path = require('path');
 const { walkDir, parseFrontmatter } = require('./lib/shared.cjs');
+const { loadEdges, clearEdgesCache } = require('./lib/relationships-store.cjs');
 
 const CONTENT_DIR = process.env.CONTENT_DIR || path.join(__dirname, '..', 'content');
 const WRITE = process.argv.includes('--write');
+const USE_JSONL = !process.argv.includes('--frontmatter');
 const REPORT_PATH = path.join(CONTENT_DIR, 'Admin Notes', 'relationship-bidirectional-report.md');
 
 function normalizeTitle(s) {
@@ -62,21 +64,61 @@ function loadAllProfiles() {
   return { profiles, byTitle };
 }
 
-function main() {
+// ─── JSONL-based orphan detection (Phase 3 Part 4b retarget) ──────
+
+function findOrphansFromJsonl() {
+  clearEdgesCache();
+  const edges = loadEdges().filter(e => e.status === 'active' && e.type === 'related');
+  const pairs = new Set();
+  for (const e of edges) {
+    if (!e.from || !e.to || e.from === e.to) continue;
+    pairs.add(`${e.from}||${e.to}`);
+  }
+
+  const orphans = [];
+  for (const e of edges) {
+    if (!e.from || !e.to || e.from === e.to) continue;
+    const reverseKey = `${e.to}||${e.from}`;
+    if (!pairs.has(reverseKey)) {
+      orphans.push({
+        source: e.from,
+        sourcePath: '',
+        target: e.to,
+        targetPath: '',
+        via: 'related',
+        sourceType: e.from_type || 'unknown',
+        targetType: e.to_type || 'unknown',
+      });
+    }
+  }
+
+  // Deduplicate
+  const seen = new Set();
+  const unique = [];
+  for (const o of orphans) {
+    const key = [o.source, o.target].sort().join('|');
+    if (seen.has(key)) continue;
+    seen.add(key);
+    unique.push(o);
+  }
+
+  return { unique, edgeCount: edges.length };
+}
+
+// ─── Frontmatter-based orphan detection (legacy, --frontmatter flag) ──
+
+function findOrphansFromFrontmatter() {
   const { profiles, byTitle } = loadAllProfiles();
   const orphans = [];
 
   for (const source of profiles) {
     const relatedLinks = parseWikilinks(source.data.related);
-    const donorLinks = parseWikilinks(source.data.donors);
 
-    // Check each related: wikilink for a bidirectional counterpart
     for (const link of relatedLinks) {
       const targetNorm = normalizeTitle(link);
       const target = byTitle.get(targetNorm);
-      if (!target) continue; // target not in vault, can't fix
+      if (!target) continue;
 
-      // Is source in target's related or donors or politicians-funded or opposes?
       const targetRelated = parseWikilinks(target.data.related);
       const targetDonors = parseWikilinks(target.data.donors);
       const targetOpposes = parseWikilinks(target.data.opposes);
@@ -100,7 +142,6 @@ function main() {
     }
   }
 
-  // Deduplicate — A→B and B→A both flag the same orphan pair
   const seen = new Set();
   const unique = [];
   for (const o of orphans) {
@@ -108,6 +149,26 @@ function main() {
     if (seen.has(key)) continue;
     seen.add(key);
     unique.push(o);
+  }
+
+  return { unique, profileCount: profiles.length };
+}
+
+function main() {
+  const mode = USE_JSONL ? 'JSONL' : 'frontmatter';
+  console.log(`Bidirectional check mode: ${mode}`);
+
+  let unique;
+  let scannedDesc;
+
+  if (USE_JSONL) {
+    const result = findOrphansFromJsonl();
+    unique = result.unique;
+    scannedDesc = `${result.edgeCount} active related edges from data/relationships.jsonl`;
+  } else {
+    const result = findOrphansFromFrontmatter();
+    unique = result.unique;
+    scannedDesc = `${result.profileCount} profiles from content/`;
   }
 
   // Report
@@ -125,12 +186,14 @@ function main() {
   lines.push('# Orphan Relationship Report');
   lines.push('');
   lines.push(`Generated: ${new Date().toISOString()}`);
-  lines.push(`Mode: ${WRITE ? 'WRITE (would add reverse links)' : 'DRY RUN (report only)'}`);
+  lines.push(`Mode: ${mode}${WRITE ? ' + WRITE' : ' (report only)'}`);
   lines.push('');
-  lines.push(`Scanned ${profiles.length} profiles.`);
+  lines.push(`Scanned ${scannedDesc}.`);
   lines.push(`Orphan pairs: **${unique.length}**.`);
   lines.push('');
-  lines.push('An orphan is a connection where A lists B in its `related:` but B does NOT reference A in any relationship field (related, donors, opposes, politicians-funded). Usually a data-quality bug — one side of the edit dropped.');
+  lines.push(USE_JSONL
+    ? 'An orphan is a `related` edge A→B in data/relationships.jsonl where no B→A edge exists. The bidirectional-normalizer (scripts/normalize-related-bidirectionality.cjs) can auto-fix these. Pass --frontmatter to use the legacy frontmatter-based detection instead.'
+    : 'An orphan is a connection where A lists B in its `related:` frontmatter but B does NOT reference A in any relationship field. Usually a data-quality bug. Pass without --frontmatter to use the JSONL-based detection (canonical store).');
   lines.push('');
   lines.push('## Orphans');
   lines.push('');
@@ -138,7 +201,10 @@ function main() {
     lines.push('_No orphans detected. All bidirectional._');
   } else {
     unique.slice(0, 200).forEach(o => {
-      lines.push(`- **${o.source}** (${o.sourceType}) → **${o.target}** (${o.targetType}) — \`${path.relative(CONTENT_DIR, o.sourcePath).split(path.sep).join('/')}\``);
+      const pathInfo = o.sourcePath
+        ? ` — \`${path.relative(CONTENT_DIR, o.sourcePath).split(path.sep).join('/')}\``
+        : '';
+      lines.push(`- **${o.source}** (${o.sourceType}) → **${o.target}** (${o.targetType})${pathInfo}`);
     });
     if (unique.length > 200) lines.push(`- _...and ${unique.length - 200} more_`);
   }
@@ -147,12 +213,6 @@ function main() {
   fs.writeFileSync(REPORT_PATH, lines.join('\n'), 'utf-8');
   console.log(`Report written: ${path.relative(process.cwd(), REPORT_PATH)}`);
   console.log(`Orphan pairs: ${unique.length}`);
-
-  if (WRITE) {
-    console.log('\n  Auto-fix disabled in this version — review the report manually.');
-    console.log('  Reason: reverse-link direction ambiguous (related vs donors vs opposes).');
-    console.log('  Research Claude should add the reverse link to the appropriate field.');
-  }
 }
 
 main();
