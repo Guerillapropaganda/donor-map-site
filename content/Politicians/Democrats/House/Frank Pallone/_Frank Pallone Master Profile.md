@@ -168,6 +168,8 @@ Energy and Commerce jurisdiction covers virtually every major regulated industry
 | Individual Contributions | $404,090 |
 | PAC Contributions | $878,107 |
 | Cash on Hand | 3125718.74 |
+| IE Support (Super PAC) | $15,898 |
+| IE Opposition (Super PAC) | $190,330 |
 
 **Fundraising by cycle:**
 
@@ -178,6 +180,16 @@ Energy and Commerce jurisdiction covers virtually every major regulated industry
 | 2022 | $3,144,740 | $1,097,827 | $2,020,455 |
 | 2020 | $3,240,051 | $1,002,268 | $2,215,700 |
 | 2018 | $2,810,635 | $893,771 | $1,885,555 |
+
+**Top outside spenders:**
+
+| Committee | Support | Oppose |
+|-----------|---------|--------|
+| FREEDOM'S DEFENSE FUND | $0 | $119,500 |
+| FAMILY RESEARCH COUNCIL ACTION POLITICAL ACTION COMMITTEE | $0 | $54,500 |
+| AMERICAN COLLEGE OF RADIOLOGY ASSOCIATION PAC | $11,590 | $0 |
+| NEW JERSEY FAMILY FIRST INC | $0 | $7,681 |
+| FOCUS ON THE FAMILY ACTION | $0 | $7,681 |
 
 - [Source: FEC.gov](https://www.fec.gov/data/candidate/H8NJ03073/) (Tier 1)
 <!-- auto:fec-politician end -->
