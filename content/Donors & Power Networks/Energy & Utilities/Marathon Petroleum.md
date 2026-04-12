@@ -234,6 +234,18 @@ When confronted by E&E News about the covert campaign, Marathon spokesman Chuck 
 
 ---
 
+## Class Analysis
+
+Marathon Petroleum is the fossil fuel industry's most aggressive political operation, and the most documented case of covert anti-clean-energy dark money in the vault. $34.2M in federal lobbying (2012-2024). $18.7M in campaign contributions (91-98% Republican). $1M in illegal campaign contributions (fined $85K, a 91.5% discount). And the most extensively investigated covert anti-EV campaign in recent history, documented by the New York Times, HuffPost, and The Intercept.
+
+The class mechanism operates through manufactured consent. Marathon drafted congressional letters opposing fuel economy standards and circulated them to 19 lawmakers who submitted them verbatim as their own correspondence. Marathon coordinated with ALEC to write model legislation blocking state EV incentives, then deployed through 1,500+ state legislators. A dark money Facebook campaign generated 25% of all public comments on DOT fuel standards, manufacturing the appearance of grassroots opposition from a single corporate-funded astroturf operation. Marathon CEO Gary Heminger had direct repeated access to EPA Administrator Scott Pruitt, a recipient of Marathon's Oklahoma campaign donations. The entire architecture, from congressional ghostwriting to fake public comment campaigns to direct regulator access, is visible and documented.
+
+The environmental class dimension is geographic. Marathon's 13 refineries with 3 million barrels per day capacity are concentrated in communities of color. The Detroit refinery sits adjacent to the 48217 zip code, the most polluted in Michigan. Louisiana facilities operate in Cancer Alley. The people who breathe Marathon's emissions are not the people who receive Marathon's dividends. The shareholders live in one zip code. The pollution lands in another. Marathon's political spending, $34.2M to block emissions regulations, EPA enforcement, and environmental justice lawsuits, is the mechanism that keeps the geographic class transfer permanent.
+
+The 2025 policy return completes the circuit. Marathon spent years and tens of millions opposing EV tax credits through ALEC, dark money, congressional letters, and direct lobbying. The One Big Beautiful Bill Act of 2025 eliminated EV tax credits entirely and incorporated Marathon's "car ban" framing into legislative language. The anti-EV campaign that began as covert dark money in 2018 became federal law in 2025. The investment timeline: 7 years, $50M+ estimated industry spend, permanent fossil fuel protection.
+
+---
+
 ### Sources
 
 - [OpenSecrets: Marathon Petroleum PAC contributions by cycle](https://www.opensecrets.org/orgs/marathon-petroleum/totals?id=D000023121) (Tier 1)

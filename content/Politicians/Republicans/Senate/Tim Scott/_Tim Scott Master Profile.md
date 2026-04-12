@@ -131,6 +131,20 @@ Scott's presidential bid raised $45.8M combined: $12.5M campaign committee, $22M
 
 ---
 
+## Class Analysis
+
+Tim Scott is the donor class's most efficient political product: a Black conservative whose personal biography ("grew up in poverty, single-parent household") provides the moral authority to advance policies that concentrate wealth upward while making class critique structurally impossible within his party's frame.
+
+The class architecture is explicit. $13M career from the FIRE sector, the single largest donor bloc. He now chairs the committee with jurisdiction over every industry that funds him: securities regulation (Goldman Sachs, $175K career), banking oversight (Bank of America, commercial banks $882K), real estate (developers, $3.7M career), insurance ($2.2M). The regulatory body that oversees his donors reports to his committee. This is not access. This is the gavel.
+
+The Opportunity Zones legislation is the clearest class-analysis case in the vault. Scott authored the policy. His real estate donors ($3.7M) are the primary beneficiaries. The policy was marketed as poverty alleviation for distressed Black communities. The actual capital flows went to Upper East Side Manhattan, Miami Beach, and Menlo Park. The gap between the rhetoric and the money is not a failure of implementation. The implementation IS the design. QOFs have no requirement to hire locally, build affordable housing, or serve existing residents. The legislation created a $1.6T tax shelter and attached a racial justice narrative to make it politically viable. Only a Black senator could do this without triggering the class critique.
+
+Scott's 2024 presidential campaign is the secondary data point: $45.8M from billionaires (Yass $600K, Druckenmiller $150K, Peltz, Ellison, Griffin) produced under 5% voter support. The donors were not buying a president. They were investing in a political asset. The return: Banking Committee chairmanship, which delivers more value than a VP slot. The donor class optimized for the committee gavel, not the White House.
+
+The class function Scott performs is unique and cannot be replicated by a white senator: he makes the donor class's economic agenda racially unchallengeable. "America is not a racist country" from the only Black Republican senator means that capital gains tax breaks flowing to wealthy gentrifying neighborhoods cannot be analyzed as a racial transfer. The personal narrative replaces structural analysis. The biography becomes the policy argument.
+
+---
+
 ## Rhetorical Signature Moves
 
 **"America is not a racist country"** — Scott's most famous public statement (2021 State of the Union response). Functions as permission structure for the Republican donor class: if the only Black Republican senator says systemic racism doesn't exist, then policies that concentrate wealth upward cannot be racist by definition. The statement makes class analysis impossible within the Republican frame.

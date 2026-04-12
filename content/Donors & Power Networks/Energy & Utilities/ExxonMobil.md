@@ -369,6 +369,20 @@ ExxonMobil operates within a structural contradiction that defines fossil fuel p
 - [Supran & Oreskes: Assessing ExxonMobil's Climate Change Communications (1977–2014)](https://cssn.org/wp-content/uploads/2020/12/Assessing-ExxonMobils-climate-change-communications-1977%E2%80%932014-Geoffrey-Supran-.pdf) (Tier 1 academic) (UNVERIFIED)
 - [Wikipedia: ExxonMobil Climate Change Denial](https://en.wikipedia.org/wiki/ExxonMobil_climate_change_denial) (Tier 3)
 
+## Class Analysis
+
+ExxonMobil is the donor class operating at industrial scale. $293M in federal lobbying over 24 years. $28.5M in campaign contributions. 6,535 federal court cases. 563 Federal Register mentions. 25 federal contracts with the Department of Defense as top agency. The numbers describe an entity that does not lobby government. It IS a parallel government, operating regulatory infrastructure, judicial infrastructure, and legislative infrastructure simultaneously.
+
+The class mechanism is bipartisan purchase. From 2000-2014, Exxon gave 85-91% Republican. After 2016, when state attorneys general began climate fraud investigations, the split shifted to 57/43 R/D by 2024. This is not ideological evolution. It is risk management. Democratic regulatory agencies (especially California) created financial exposure. The bipartisan hedge is insurance, not principle. Both parties receive money. Both parties protect the core business model.
+
+The carbon tax contradiction is the cleanest class-analysis data point. Exxon publicly supports a carbon tax since 2009. Leaked undercover footage of lobbyist Keith McCoy (2021) revealed this was an "advocacy tool" and "great talking point" that "will never actually happen." Exxon opposed state carbon tax bills while maintaining the national talking point. The public position blocks alternative regulations (cap-and-trade, binding carbon pricing) while never threatening actual profits. McCoy admitted "every week" contact with Joe Manchin's office to kill Build Back Better's climate provisions.
+
+The Rex Tillerson pipeline is the revolving door at CEO level. Tillerson ran ExxonMobil (2006-2016), then served as Secretary of State (2017-2018), then returned to the private sector. The State Department under Tillerson aligned with Exxon's global interests: Russia sanctions (Exxon had a $500B Arctic drilling partnership with Rosneft), Middle East energy policy, and climate diplomacy positions. The corporation did not capture a regulator. It installed its CEO as the chief diplomat.
+
+The Pioneer acquisition ($59.5B, May 2024) reveals the class strategy for the energy transition: rather than transition, consolidate. ExxonMobil doubled its Permian Basin footprint to 1.4M net acres with 16B barrels of oil equivalent. The company is betting that fossil fuels remain the core business through 2050+ and is positioning to be the last and largest operator standing. Carbon capture and direct air capture investments leverage IRA subsidies (Section 45Q) while preserving the extraction business model. The "transition" is subsidized by taxpayers. The profits remain private.
+
+---
+
 ### Climate Denial Funding — Tier 2:
 - [DeSmog: ExxonMobil Funding Climate Science Denial](https://www.desmog.com/exxonmobil-funding-climate-science-denial/) (Tier 2)
 - [Union of Concerned Scientists: ExxonMobil Climate Denial Funding 1998–2014 (PDF)](https://www.ucs.org/sites/default/files/attach/2015/07/ExxonMobil-Climate-Denial-Funding-1998-2014.pdf) (Tier 2)

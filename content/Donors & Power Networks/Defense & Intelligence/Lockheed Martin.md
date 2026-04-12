@@ -204,6 +204,18 @@ Lockheed Martin executives sitting on Pentagon advisory boards while board membe
 
 ---
 
+### Class Analysis
+
+Lockheed Martin does not buy politicians. It buys geography. The F-35 fighter jet has parts manufactured across 45 states and territories, touching the districts of 90 senators and hundreds of House members. That distribution is not manufacturing efficiency. Consolidated production in 3 to 5 facilities would be cheaper. The 45-state supply chain exists for one reason: to make the program un-cancellable. No senator can vote against F-35 appropriations when thousands of constituent jobs depend on continuation. Lockheed Martin spent $5.5 million per cycle on PAC and employee donations and reached 300+ members of Congress. The donations are not the leverage. The jobs are the leverage. The donations are the access fee that ensures the jobs keep flowing.
+
+The numbers prove the system works. From FY2021 through FY2024, Congress funded 60 additional F-35 aircraft above what the Pentagon requested, $15.1 billion in unbudgeted purchases. The Pentagon did not want these planes. The Pentagon requested fewer. Congress overrode the military's own assessment because district-level economics demanded it. Kay Granger (R-TX), who chaired House Defense Appropriations, received $634,000+ in career contributions from Lockheed Martin and consistently voted to fund 15 to 16 additional F-35s per year beyond the Pentagon request. The temporal mapping is explicit: Lockheed Martin donates to appropriators, appropriators fund jets the military did not ask for, Lockheed Martin revenue materializes. The F-35's $2.3 trillion lifetime cost (FY2024 estimate) and $200 billion+ in cumulative cost overruns have never once interrupted production.
+
+The revolving door seals the system shut. General Joseph Dunford served as Chairman of the Joint Chiefs of Staff, the highest military position in America, from 2015 to 2019. Five months after retirement, he joined Lockheed Martin's board at $250,000 to $300,000+ annually. In 2024, 25%+ of Lockheed Martin's board seats were held by retired senior Pentagon officers. The financial incentive is transparent: a military pension pays $120,000 to $200,000 per year, and the Lockheed Martin board seat adds another $250,000 to $500,000 on top. Lockheed Martin executives simultaneously serve on Pentagon advisory boards (Defense Policy Board, Defense Innovation Board) while employed by the company, giving them input on procurement strategy without leaving the contractor payroll. The company's interests and the military's procurement decisions become structurally indistinguishable.
+
+Lockheed Martin's PAC splits roughly 55% Republican, 45% Democrat. This is not a political preference. It is a mathematical consequence of the fact that appropriators exist in both parties and both parties' districts house subcontractors. Connecticut gets $8 billion+ annually from Pratt and Whitney jet engines. Texas gets $6 billion+ from Fort Worth assembly. California gets $2.5 billion+ from General Atomics radar. Forty additional states each receive $100 million to $500 million. The geographic lock-in converts a weapons program into a permanent jobs program, and the jobs program converts into a permanent appropriations stream that no politician in either party can oppose without threatening their own constituents.
+
+---
+
 ### Sources
 
 - [Lockheed Martin Official Summary • OpenSecrets](https://www.opensecrets.org/orgs/lockheed-martin/summary?id=D000000104) (Tier 1)

@@ -3,7 +3,7 @@ title: Session State
 type: system
 last-updated: 2026-04-12
 ---
-<!-- last session: Marathon: D3 graphs, money trail, 271 opposition edges, filter fixes, enrichment reporting, scripts Run buttons -->
+<!-- last session: Public tip submission system — Web3Forms + Cloudflare Worker + GitHub Action + Ops Tips page -->
 
 
 # Session State
@@ -14,60 +14,62 @@ Both Code Claude and Research Claude update this at the end of every session. Re
 
 ## Last Session
 Claude: Code
-Date: 2026-04-12 afternoon/evening
+Date: 2026-04-12 afternoon
 
 ### Theme
-Vault expansion + system health session. Added 476 politician profiles (complete Congress + 3 cabinets + SCOTUS), stripped 16,805 em dashes vault-wide, cleaned 122 legacy inline dataview fields, built Pipeline Health dashboard for ops app, and resolved multiple stale admin notes.
+Built a complete public tip submission pipeline. Site visitors can now submit tips on any profile page, which flow through Web3Forms (email notification) → Cloudflare Worker relay → GitHub Action (workflow_dispatch) → vault file in `content/Admin Notes/Tips/`. Ops app gets a dedicated Tips page to review, action, or dismiss submissions.
 
-### Done - Vault Expansion
-- **476 new politician profiles** via `scripts/bulk-create-politicians.cjs` (new). Data source: unitedstates/congress-legislators YAML (free, no rate limits). 180 D-House, 187 R-House, 16 D-Senate, 18 R-Senate, 1 I-Senate. All include bioguide-id, govtrack-id, birthday, wikidata-id, website, phone. Commits `65f4dd46`, `faa831bc`.
-- **71 cabinet profiles** via `scripts/create-cabinet-profiles.cjs` (new). 21 Biden Cabinet, 32 Obama Cabinet, 17 Trump Cabinet additions (first-term officials missing). Commit `65f4dd46`.
-- **3 SCOTUS justices**: Sotomayor, Kagan, Jackson. Commit `65f4dd46`.
-- **8 missing high-leverage stubs**: Amgen, Scaife Foundations, Donors Trust, American Federation of Teachers, American Energy Alliance, American Homes 4 Rent, YouTube, Robert F. Kennedy Jr. Commit `faa831bc`.
-- **Total politician profiles: 252 to 713**
+### Done — Public Tip Form (`quartz/components/TipForm.tsx`)
+- New Quartz component rendering on all profile pages (politician/donor/corporation)
+- Fields: email (required), category dropdown (5 options), tip text (20-2000 chars), profile name (auto-populated readonly)
+- Spam protection: honeypot field, 3-second time gate, 60-second localStorage rate limit
+- Posts to Web3Forms API (access key `651faf1b...` configured)
+- Brutalist dark card design matching Design System: `#0a0a0a` bg, `#fbbf24` yellow submit button, Space Mono labels, no rounded corners
+- Registered in `quartz/components/index.ts` and `quartz.layout.ts` (afterBody, after MobileProfile)
+- Commit `58243cd8`
 
-### Done - Voice-Drift / Em Dash Cleanup
-- **Pass 1**: 14,630 em dashes stripped from 536 ready/verified profiles (body text). Commit `b1c62b5c`.
-- **Pass 2**: 1,590 em dashes in blockquotes across 415 profiles. Commit `49450474`.
-- **Pass 3**: 585 em dashes in list-item separators (`[[Name]] - lobbying:`) across 24 profiles. Commit `49450474`.
-- **Voice-drift detector: 25 hard fails to 1** (remaining 1 is banned AI vocabulary, Research Claude lane).
+### Done — Cloudflare Worker relay (`scripts/tip-relay/worker.js`)
+- Deployed at `tiprelay.guerillapropaganda.workers.dev`
+- Receives Web3Forms webhook POST, reshapes payload, forwards to GitHub Actions `workflow_dispatch` API with auth
+- `GITHUB_PAT` stored as encrypted Cloudflare secret
+- David's Cloudflare account: `guerillapropaganda@proton.me`
 
-### Done - Data Integrity Cleanup
-- **122 legacy inline dataview fields** removed from 107 profiles (82 research-status::, 36 donors::, 4 related::). Script: `scripts/clean-inline-fields.cjs`. Commit `be665f1c`.
-- **Readiness conflicts admin note** marked resolved (0 inline content-readiness:: remaining).
-- **Bioguide contamination admin note** marked resolved (all 19 profiles already fixed in prior session).
+### Done — GitHub Action (`/.github/workflows/save-tip.yml`)
+- Triggers on `workflow_dispatch` (and `repository_dispatch` as fallback)
+- Writes tip as markdown file to `content/Admin Notes/Tips/` with frontmatter: type, tip-category, profile, submitter-email, status
+- Auto-commits and pushes to v4
+- End-to-end test confirmed: vault file `tip-2026-04-12-pipeline-test-mnw8umel.md` created successfully
 
-### Done - Ops App: Pipeline Health Dashboard
-- **New API**: `ops/src/app/api/pipeline-health/route.ts`. Parses enrichment bot git commits, tracks per-pipeline activity over 7d/30d windows, 5-min cache.
-- **New component**: `ops/src/components/PipelineHealth.tsx`. Donut chart + colored segment bar + expandable per-pipeline detail. Shows 23/34 active, 687 runs this week.
-- **Dashboard integration**: side-by-side with Vault Health donut in 2-col grid. Commit `62a98df1`.
+### Done — Ops Tips page (`ops/src/app/tips/page.tsx`)
+- New page at `/tips` in Ops app with sidebar entry "Public Tips" (mail icon)
+- Filter tabs: All / New / Reviewed / Actioned / Dismissed
+- Expandable tip cards with full message, submitter email, profile link, timestamps
+- Action buttons: Mark Reviewed, Mark Actioned, Dismiss, Delete
+- API: `ops/src/app/api/tips/route.ts` (GET/PUT/DELETE)
+- Status API wired for sidebar badge showing new tip count (`ops/src/app/api/status/route.ts`)
 
-### Done - Ops App Improvements
-- **Parallel fetching**: Dashboard `Promise.all` instead of sequential waterfall.
-- **Error states**: Activity feed and status API show error messages instead of silent failures.
-- **Aria-labels**: Hamburger menu, search, back/forward buttons.
-- **Global breadcrumbs**: `LayoutBreadcrumbs.tsx` in layout.tsx, all 19 page labels.
-- **D3 type safety**: `money-trail/page.tsx` stats typed interface (removes 3 `as any`), D3 drag/zoom casts documented.
+### Done — Infrastructure
+- Web3Forms Starter plan ($49/year) — David upgraded during session
+- Cloudflare Workers free account created
+- GitHub fine-grained PAT "TIPRELAY" with Contents + Actions write permissions
+- `repository_dispatch` doesn't work on this repo (GitHub silently drops events). Switched to `workflow_dispatch` which works reliably.
 
 ### Known issues / still outstanding
-- **1 voice-drift hard fail** remaining (banned AI vocabulary, not em dashes). Research Claude lane.
-- **4,643 orphan relationships** (one-directional edges). Needs editorial review.
-- **124 profiles waiting David's A+ sign-off** at `/signoff-queue`.
-- **New 476 politician profiles are all `raw`** - need pipeline enrichment to populate FEC/Congress/GovTrack data.
+- **Web3Forms webhook not yet configured** — David needs to set webhook URL to `tiprelay.guerillapropaganda.workers.dev` in Web3Forms dashboard → Integrations → Webhooks
+- **Profile pages 404 on live site** — separate issue, tip form verified working on local preview
+- **save-tip.yml "No jobs run" spam on push events** — cosmetic, these are harmless skips not real failures
 
 ### Next session priorities
-1. **Research Claude depth** - David wants to shift to Research Claude aspects
-2. **Pipeline enrichment** on 476 new raw politician profiles (run FEC + Congress + GovTrack)
-3. **Draft-to-ready promotions** - editorial depth passes
-4. **Republican opposition edges** - mirror the Democrat treatment
-5. **Money trail enhancements** - search, sector filter
+1. **Configure Web3Forms webhook** — last step to complete the tip pipeline end-to-end from the live site
+2. **Alerts endpoint investigation** — debug `/api/alerts` counts, verify alert accuracy
+3. **Both-sides contradiction investigation** — profiles appearing in both opposes AND donors/related
+4. **Republican opposition edges** — mirror the Democrat treatment
+5. **Money trail enhancements** — search, sector filter, minimum connections filter
 
 ### Session end state
-- **10 deploys, all successful, ~1,530 files changed**
-- **Politician profiles: 252 to 713**
-- **Voice-drift hard fails: 25 to 1**
-- **Em dashes removed: 16,805 across 3 passes**
-- **Latest deploy**: `ec46d715`
+- **Pipeline fully tested**: form → Web3Forms → Cloudflare Worker → GitHub Action → vault file → Ops Tips page
+- **Commits**: `58243cd8`, `6bb00734`, `d66430f3`, `8b59fc1d`, `9859edb2`, `f7c7fcc1`
+- **Deploy**: `f8df5b1c` (run 24316157046, success)
 
 ---
 

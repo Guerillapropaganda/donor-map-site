@@ -232,6 +232,18 @@ Obama's $65 million book deal and $50 million Netflix deal are the financial rec
 
 ---
 
+## Class Analysis
+
+Barack Obama is the donor class's most successful investment in the Democratic Party. The return on capital is measurable: Goldman Sachs was his top contributor in 2008. No Goldman executive was prosecuted after the financial crisis. Insurance stocks rose during the ACA fight. Obama left office and became worth an estimated $70M+ through book deals, Netflix contracts, and speaking fees to the financial institutions he regulated. The class trajectory is complete: community organizer to Wall Street protector to post-presidency monetization.
+
+The mechanism is the Two-Audience Problem, and Obama perfected it. Tell the progressive base "I'm fighting Wall Street." Tell the bankers "I'm the only thing between you and the pitchforks." Both statements were true simultaneously, and both served the donor class. The base got rhetoric. The donors got policy. Zero banker prosecutions. The HAMP foreclosure prevention program restructured to "foam the runway" for banks (Tim Geithner's phrase) while 9 million homes were lost. The public option killed in private negotiations with the insurance industry before the Senate fight began. Every major policy area follows the same pattern: progressive branding on the front, donor-class accommodation on the back.
+
+The cabinet was the class structure made visible. Tim Geithner (New York Fed, later Warburg Pincus). Larry Summers (D.E. Shaw, later returned to hedge funds). Gene Sperling (Goldman Sachs consulting). This was not a progressive administration that happened to hire financial experts. It was a financial industry administration that happened to use progressive rhetoric. The Google/Apple executive meetings (427+ White House visits) produced tech policy that preserved monopoly power. The NSA surveillance partnerships with Silicon Valley served both the security state and the tech companies whose data collection models depended on government cooperation.
+
+The post-presidency confirms the class analysis. Obama's speaking fees to Wall Street firms, his Netflix deal, his Martha's Vineyard compound, his foundation's corporate donors, these are not rewards for good governance. They are deferred compensation for services rendered. The donor class pays after you leave office because paying while you're in office looks like corruption. The net worth trajectory ($1.3M in 2007 to $70M+ by 2023) is the receipt. The hope was real for the voters. The change was real for the donors. Two audiences, two outcomes, one system.
+
+---
+
 ## Analytical Patterns
 
 **The Genuine Win + Structural Limit** — Obama's Affordable Care Act expanded insurance coverage (20M people gained insurance) and the ACA generated real material gains for people who previously lacked coverage. His financial crisis response prevented total economic collapse (TARP prevented banking system failure). His judicial confirmations matched Trump's pace, installing 200+ judges. These are genuine achievements. The structural limit: the ACA preserved insurance company profit structures; no banker prosecutions occurred; the judicial pipeline operated identically under both parties with different donor-class priorities but same structural capture.

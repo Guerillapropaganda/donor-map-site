@@ -16,6 +16,20 @@ interface Trade {
   filingDate: string
   year: number
   sourceUrl: string
+  isCrypto?: boolean
+  cryptoCategory?: string
+}
+
+interface CryptoStats {
+  totalTrades: number
+  buys: number
+  sells: number
+  buyVolume: number
+  sellVolume: number
+  uniqueTickers: number
+  uniqueTraders: number
+  topTickers: { ticker: string; buys: number; sells: number; buyAmt: number; sellAmt: number; total: number; volume: number; category: string }[]
+  topTraders: { name: string; buys: number; sells: number; buyAmt: number; sellAmt: number; total: number; tickers: string[] }[]
 }
 
 interface Stats {
@@ -63,8 +77,9 @@ export default function CapitolTradesPage() {
   const [stats, setStats] = useState<Stats | null>(null)
   const [topTickers, setTopTickers] = useState<TopTicker[]>([])
   const [topTraders, setTopTraders] = useState<TopTrader[]>([])
+  const [cryptoStats, setCryptoStats] = useState<CryptoStats | null>(null)
   const [loading, setLoading] = useState(true)
-  const [tab, setTab] = useState<"table" | "flow" | "trail" | "tickers" | "traders">("table")
+  const [tab, setTab] = useState<"table" | "flow" | "trail" | "tickers" | "traders" | "crypto">("table")
   const trailRef = useRef<SVGSVGElement>(null)
 
   // Filters
@@ -88,6 +103,7 @@ export default function CapitolTradesPage() {
         setStats(data.stats || null)
         setTopTickers(data.topTickers || [])
         setTopTraders(data.topTraders || [])
+        setCryptoStats(data.crypto || null)
         setLoading(false)
       })
       .catch(() => setLoading(false))
@@ -238,12 +254,12 @@ export default function CapitolTradesPage() {
 
       {/* Tabs */}
       <div className="flex border-b border-[var(--color-border)] mb-4">
-        {(["table", "flow", "trail", "tickers", "traders"] as const).map(t => (
+        {(["table", "flow", "trail", "tickers", "traders", "crypto"] as const).map(t => (
           <button key={t} onClick={() => setTab(t)}
             className={`px-4 py-2 font-mono text-[10px] font-bold uppercase tracking-wider border-b-2 -mb-px ${
               tab === t ? "text-[var(--color-text)] border-[var(--color-steel)]" : "text-[var(--color-text-dim)] border-transparent hover:text-[var(--color-text)]"
-            }`}>
-            {t === "table" ? "TRADES" : t === "flow" ? "STOCK FLOW" : t === "trail" ? "MONEY TRAIL" : t === "tickers" ? "TOP TICKERS" : "TOP TRADERS"}
+            } ${t === "crypto" ? "ml-2 !text-[#f59e0b] " + (tab === t ? "!border-[#f59e0b]" : "") : ""}`}>
+            {t === "table" ? "TRADES" : t === "flow" ? "STOCK FLOW" : t === "trail" ? "MONEY TRAIL" : t === "tickers" ? "TOP TICKERS" : t === "traders" ? "TOP TRADERS" : "CRYPTO"}
           </button>
         ))}
         <div className="ml-auto text-[10px] text-[var(--color-text-dim)] font-mono self-center">
@@ -471,6 +487,204 @@ export default function CapitolTradesPage() {
               <div className="font-mono text-xs font-bold text-[var(--color-text)] w-12 text-right">{tr.total}</div>
             </div>
           ))}
+        </div>
+      )}
+
+      {/* ── Crypto ── */}
+      {tab === "crypto" && cryptoStats && (
+        <div>
+          {/* Crypto header */}
+          <div className="flex items-center gap-3 mb-4">
+            <span className="text-2xl">₿</span>
+            <div>
+              <div className="font-mono text-sm font-bold text-[#f59e0b]">Congressional Crypto Trades</div>
+              <div className="font-mono text-[10px] text-[var(--color-text-dim)]">
+                STOCK Act disclosures involving cryptocurrency, crypto ETFs, and crypto-related companies
+              </div>
+            </div>
+          </div>
+
+          {/* Crypto stats cards */}
+          <div className="grid grid-cols-5 gap-3 mb-6">
+            <div className="bg-[var(--color-bg-card)] border border-[#f59e0b33] p-3">
+              <div className="text-[9px] text-[var(--color-text-dim)] font-mono uppercase tracking-wider">Crypto Trades</div>
+              <div className="text-xl font-bold text-[#f59e0b] font-mono">{cryptoStats.totalTrades.toLocaleString()}</div>
+            </div>
+            <div className="bg-[var(--color-bg-card)] border border-[#f59e0b33] p-3">
+              <div className="text-[9px] text-[var(--color-text-dim)] font-mono uppercase tracking-wider">Buy Volume</div>
+              <div className="text-xl font-bold text-[#22c55e] font-mono">{fmtK(cryptoStats.buyVolume)}</div>
+            </div>
+            <div className="bg-[var(--color-bg-card)] border border-[#f59e0b33] p-3">
+              <div className="text-[9px] text-[var(--color-text-dim)] font-mono uppercase tracking-wider">Sell Volume</div>
+              <div className="text-xl font-bold text-[#ef4444] font-mono">{fmtK(cryptoStats.sellVolume)}</div>
+            </div>
+            <div className="bg-[var(--color-bg-card)] border border-[#f59e0b33] p-3">
+              <div className="text-[9px] text-[var(--color-text-dim)] font-mono uppercase tracking-wider">Crypto Assets</div>
+              <div className="text-xl font-bold text-[#f59e0b] font-mono">{cryptoStats.uniqueTickers}</div>
+            </div>
+            <div className="bg-[var(--color-bg-card)] border border-[#f59e0b33] p-3">
+              <div className="text-[9px] text-[var(--color-text-dim)] font-mono uppercase tracking-wider">Politicians</div>
+              <div className="text-xl font-bold text-[var(--color-text)] font-mono">{cryptoStats.uniqueTraders}</div>
+            </div>
+          </div>
+
+          {cryptoStats.totalTrades === 0 && (
+            <div className="text-center py-16 border border-[var(--color-border)] bg-[var(--color-bg-card)]">
+              <div className="text-4xl mb-3">₿</div>
+              <div className="font-mono text-sm text-[var(--color-text-dim)]">No crypto trades found in current data</div>
+              <div className="font-mono text-[10px] text-[var(--color-text-dim)] mt-1">
+                Run the backfill with crypto detection to populate this tab
+              </div>
+            </div>
+          )}
+
+          {cryptoStats.totalTrades > 0 && (
+            <div className="grid grid-cols-2 gap-6">
+              {/* Top Crypto Assets */}
+              <div>
+                <div className="font-mono text-[10px] font-bold uppercase tracking-wider text-[#f59e0b] mb-3">
+                  Top Crypto Assets
+                </div>
+                <div className="space-y-2">
+                  {cryptoStats.topTickers.map((tk, i) => {
+                    const maxVol = cryptoStats.topTickers[0]?.volume || 1
+                    return (
+                      <div key={i} className="bg-[var(--color-bg-card)] border border-[var(--color-border)] p-3 hover:border-[#f59e0b55] cursor-pointer"
+                        onClick={() => { setFlowTicker(tk.ticker); setTab("flow") }}>
+                        <div className="flex items-center justify-between mb-1">
+                          <div>
+                            <span className="font-mono text-sm font-bold text-[#f59e0b]">{tk.ticker}</span>
+                            <span className="font-mono text-[10px] text-[var(--color-text-dim)] ml-2">{tk.category}</span>
+                          </div>
+                          <span className="font-mono text-[10px] text-[var(--color-text-dim)]">{fmtK(tk.volume)}</span>
+                        </div>
+                        <div className="flex gap-1 h-3">
+                          {tk.buyAmt > 0 && (
+                            <div className="bg-[#22c55e] h-full" style={{ width: `${tk.buyAmt / maxVol * 100}%` }} />
+                          )}
+                          {tk.sellAmt > 0 && (
+                            <div className="bg-[#ef4444] h-full" style={{ width: `${tk.sellAmt / maxVol * 100}%` }} />
+                          )}
+                        </div>
+                        <div className="flex justify-between mt-1 font-mono text-[9px]">
+                          <span className="text-[#22c55e]">{tk.buys} buys ({fmtK(tk.buyAmt)})</span>
+                          <span className="text-[#ef4444]">{tk.sells} sells ({fmtK(tk.sellAmt)})</span>
+                        </div>
+                      </div>
+                    )
+                  })}
+                </div>
+              </div>
+
+              {/* Top Crypto Politicians */}
+              <div>
+                <div className="font-mono text-[10px] font-bold uppercase tracking-wider text-[#f59e0b] mb-3">
+                  Top Crypto Politicians
+                </div>
+                <div className="space-y-2">
+                  {cryptoStats.topTraders.map((tr, i) => {
+                    const maxVol = cryptoStats.topTraders[0] ? (cryptoStats.topTraders[0].buyAmt + cryptoStats.topTraders[0].sellAmt) : 1
+                    const vol = tr.buyAmt + tr.sellAmt
+                    return (
+                      <div key={i} className="bg-[var(--color-bg-card)] border border-[var(--color-border)] p-3 hover:border-[#f59e0b55] cursor-pointer"
+                        onClick={() => { setSearch(tr.name); setTab("table"); setPage(0) }}>
+                        <div className="flex items-center justify-between mb-1">
+                          <span className="text-sm font-medium text-[var(--color-text)]">{tr.name}</span>
+                          <span className="font-mono text-[10px] text-[var(--color-text-dim)]">{fmtK(vol)}</span>
+                        </div>
+                        <div className="flex gap-1 h-3">
+                          {tr.buyAmt > 0 && (
+                            <div className="bg-[#22c55e] h-full" style={{ width: `${tr.buyAmt / maxVol * 100}%` }} />
+                          )}
+                          {tr.sellAmt > 0 && (
+                            <div className="bg-[#ef4444] h-full" style={{ width: `${tr.sellAmt / maxVol * 100}%` }} />
+                          )}
+                        </div>
+                        <div className="flex justify-between mt-1">
+                          <span className="font-mono text-[9px] text-[#22c55e]">{tr.buys} buys</span>
+                          <span className="font-mono text-[9px] text-[#ef4444]">{tr.sells} sells</span>
+                        </div>
+                        <div className="flex flex-wrap gap-1 mt-2">
+                          {tr.tickers.map(tk => (
+                            <span key={tk} className="px-1.5 py-0.5 bg-[#f59e0b22] text-[#f59e0b] font-mono text-[8px] font-bold">
+                              {tk}
+                            </span>
+                          ))}
+                        </div>
+                      </div>
+                    )
+                  })}
+                </div>
+              </div>
+            </div>
+          )}
+
+          {/* Crypto trades table */}
+          {cryptoStats.totalTrades > 0 && (
+            <div className="mt-6">
+              <div className="font-mono text-[10px] font-bold uppercase tracking-wider text-[#f59e0b] mb-3">
+                All Crypto Trades
+              </div>
+              <table className="w-full text-xs">
+                <thead>
+                  <tr className="border-b border-[var(--color-border)]">
+                    <th className="py-2 px-2 text-left font-mono text-[9px] font-bold uppercase tracking-wider text-[var(--color-text-dim)]">Politician</th>
+                    <th className="py-2 px-2 text-left font-mono text-[9px] font-bold uppercase tracking-wider text-[var(--color-text-dim)]">Asset</th>
+                    <th className="py-2 px-2 text-left font-mono text-[9px] font-bold uppercase tracking-wider text-[var(--color-text-dim)]">Type</th>
+                    <th className="py-2 px-2 text-left font-mono text-[9px] font-bold uppercase tracking-wider text-[var(--color-text-dim)]">Date</th>
+                    <th className="py-2 px-2 text-left font-mono text-[9px] font-bold uppercase tracking-wider text-[var(--color-text-dim)]">Amount</th>
+                    <th className="py-2 px-2 text-left font-mono text-[9px] font-bold uppercase tracking-wider text-[var(--color-text-dim)]">Source</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  {trades.filter(t => t.isCrypto).sort((a, b) => {
+                    const da = new Date(a.transactionDate).getTime() || 0
+                    const db = new Date(b.transactionDate).getTime() || 0
+                    return db - da
+                  }).map((t, i) => (
+                    <tr key={i} className="border-b border-[var(--color-border)] hover:bg-[var(--color-bg-hover)]">
+                      <td className="py-2 px-2">
+                        <div className="text-[var(--color-text)] font-medium">{t.politician}</div>
+                        <div className="text-[9px] text-[var(--color-text-dim)]">
+                          <span className={`inline-block px-1 font-bold text-[8px] mr-1 ${t.chamber === "Senate" ? "bg-[var(--color-text)] text-[var(--color-bg)]" : "bg-[#3b82f6] text-white"}`}>
+                            {t.chamber === "Senate" ? "SEN" : "HSE"}
+                          </span>
+                          {t.state}
+                        </div>
+                      </td>
+                      <td className="py-2 px-2">
+                        <span className="font-mono font-bold text-[#f59e0b]">{t.ticker}</span>
+                        {t.cryptoCategory && <span className="font-mono text-[9px] text-[var(--color-text-dim)] ml-1">{t.cryptoCategory}</span>}
+                      </td>
+                      <td className="py-2 px-2">
+                        <span className={`px-2 py-0.5 font-mono text-[9px] font-bold ${
+                          t.type === "Purchase" ? "bg-[rgba(34,197,94,0.15)] text-[#22c55e]" :
+                          t.type === "Sale" ? "bg-[rgba(239,68,68,0.15)] text-[#ef4444]" :
+                          "bg-[rgba(255,255,255,0.05)] text-[var(--color-text-dim)]"
+                        }`}>
+                          {t.type === "Purchase" ? "BUY" : t.type === "Sale" ? "SELL" : t.type}
+                        </span>
+                      </td>
+                      <td className="py-2 px-2 text-[var(--color-text-dim)] font-mono whitespace-nowrap">{fmtDate(t.transactionDate)}</td>
+                      <td className="py-2 px-2 font-mono font-bold text-[var(--color-text)]">{fmtK(t.amount.max || t.amount.min || 0)}</td>
+                      <td className="py-2 px-2">
+                        {t.sourceUrl && (
+                          <a href={t.sourceUrl} target="_blank" rel="noopener noreferrer"
+                            className="text-[var(--color-steel)] text-[9px] font-mono hover:underline">PDF</a>
+                        )}
+                      </td>
+                    </tr>
+                  ))}
+                </tbody>
+              </table>
+            </div>
+          )}
+        </div>
+      )}
+
+      {tab === "crypto" && !cryptoStats && (
+        <div className="text-center py-16 text-[var(--color-text-dim)] font-mono text-sm">
+          No crypto data available
         </div>
       )}
     </div>

@@ -165,6 +165,16 @@ Tlaib's floor defense: she was calling for a ceasefire, not violence against Isr
 
 ---
 
+## Class Analysis
+
+Rashida Tlaib occupies the structural position where the donor class's two primary enforcement mechanisms, AIPAC primary spending and corporate PAC dependency, both fail. Her Detroit-Dearborn district is majority Arab-American and working-class, making AIPAC spending counterproductive (it generates backlash, not votes). Her small-dollar funding model ($31 average donation, 98%+ under $200) eliminates corporate leverage. The donor class cannot defund her and cannot defeat her. The remaining tool is marginalization within the institution.
+
+The class geography of Tlaib's district is the analysis. MI-12 contains the Marathon Petroleum refinery that leaked chemicals into Southwest Detroit. It contains communities affected by water contamination. It contains zip codes with the highest pollution exposure in Michigan. These are working-class, predominantly Arab-American and Black communities with material stakes in environmental justice, healthcare access, and U.S. foreign policy in the Middle East. Tlaib's Oversight Committee investigations into corporate pollution directly serve these constituents. But her Palestine advocacy, which also directly serves a constituency with family ties to the occupied territories, is the position the donor class and media infrastructure punish her for.
+
+The structural trap is visible: Tlaib's small-dollar model proves the alternative is viable. But the Democratic caucus allocates power based on fundraising for the party apparatus. Tlaib refuses to participate in that system. The result is a legislator who cannot be defeated, cannot be defunded, and cannot be promoted. Her existence demonstrates that corporate PAC money is not required to serve in Congress. Her marginalization demonstrates that rejecting corporate PAC money forecloses institutional advancement. Both facts are true simultaneously, and both serve the donor class: the first as a contained exception, the second as a warning to anyone who might replicate it.
+
+---
+
 ## Rhetorical Signature Moves
 
 **The Personal Narrative:** Tlaib grounds political arguments in her Palestinian-American identity and working-class Detroit upbringing. This is not performative — it's her actual constituency. Unlike moderate Democrats who invoke identity for donor-class credibility, Tlaib's identity is the reason she's targeted.
