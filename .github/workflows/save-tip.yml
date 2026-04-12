@@ -74,23 +74,25 @@ jobs:
               fs.mkdirSync(tipsDir, { recursive: true });
             }
 
-            const content = `---
-title: "Tip: ${profile}"
-type: tip
-tip-category: "${categoryLabels[category] || category}"
-profile: "${profile}"
-profile-url: "${profileUrl}"
-submitter-email: "${email}"
-status: new
-date: ${timestamp}
----
-
-${message}
-`;
+            const lines = [
+              '---',
+              'title: "Tip: ' + profile + '"',
+              'type: tip',
+              'tip-category: "' + (categoryLabels[category] || category) + '"',
+              'profile: "' + profile + '"',
+              'profile-url: "' + profileUrl + '"',
+              'submitter-email: "' + email + '"',
+              'status: new',
+              'date: ' + timestamp,
+              '---',
+              '',
+              message,
+              ''
+            ].join('\n');
 
             const filePath = path.join(tipsDir, filename);
-            fs.writeFileSync(filePath, content, 'utf-8');
-            core.info(`Tip file written: ${filePath}`);
+            fs.writeFileSync(filePath, lines, 'utf-8');
+            core.info('Tip file written: ' + filePath);
 
       - name: Commit and push
         run: |
