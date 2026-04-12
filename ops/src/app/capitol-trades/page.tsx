@@ -93,8 +93,9 @@ export default function CapitolTradesPage() {
   const [cryptoStats, setCryptoStats] = useState<CryptoStats | null>(null)
   const [cryptoConflicts, setCryptoConflicts] = useState<any>(null)
   const [committeeConflicts, setCommitteeConflicts] = useState<any>(null)
+  const [unusualActivity, setUnusualActivity] = useState<any>(null)
   const [loading, setLoading] = useState(true)
-  const [tab, setTab] = useState<"table" | "flow" | "trail" | "tickers" | "traders" | "crypto" | "conflicts">("table")
+  const [tab, setTab] = useState<"table" | "flow" | "trail" | "tickers" | "traders" | "unusual" | "conflicts" | "crypto">("table")
   // Crypto tier filters — tiers 1-3 on by default, adjacent (tier 4) opt-in
   const [activeTiers, setActiveTiers] = useState<Set<CryptoTier>>(new Set(['direct', 'etf', 'company']))
   const trailRef = useRef<SVGSVGElement>(null)
@@ -132,6 +133,10 @@ export default function CapitolTradesPage() {
     fetch("/api/committee-conflicts")
       .then(r => r.json())
       .then(data => setCommitteeConflicts(data))
+      .catch(() => {})
+    fetch("/api/unusual-activity")
+      .then(r => r.json())
+      .then(data => setUnusualActivity(data))
       .catch(() => {})
   }, [])
 
@@ -280,12 +285,12 @@ export default function CapitolTradesPage() {
 
       {/* Tabs */}
       <div className="flex border-b border-[var(--color-border)] mb-4">
-        {(["table", "flow", "trail", "tickers", "traders", "conflicts", "crypto"] as const).map(t => (
+        {(["table", "flow", "trail", "tickers", "traders", "unusual", "conflicts", "crypto"] as const).map(t => (
           <button key={t} onClick={() => setTab(t)}
             className={`px-4 py-2 font-mono text-[10px] font-bold uppercase tracking-wider border-b-2 -mb-px ${
               tab === t ? "text-[var(--color-text)] border-[var(--color-steel)]" : "text-[var(--color-text-dim)] border-transparent hover:text-[var(--color-text)]"
-            } ${t === "crypto" ? "ml-2 !text-[#f59e0b] " + (tab === t ? "!border-[#f59e0b]" : "") : ""} ${t === "conflicts" ? "!text-[#ef4444] " + (tab === t ? "!border-[#ef4444]" : "") : ""}`}>
-            {t === "table" ? "TRADES" : t === "flow" ? "STOCK FLOW" : t === "trail" ? "MONEY TRAIL" : t === "tickers" ? "TOP TICKERS" : t === "traders" ? "TOP TRADERS" : t === "conflicts" ? "CONFLICTS" : "CRYPTO"}
+            } ${t === "crypto" ? "ml-2 !text-[#f59e0b] " + (tab === t ? "!border-[#f59e0b]" : "") : ""} ${t === "conflicts" ? "!text-[#ef4444] " + (tab === t ? "!border-[#ef4444]" : "") : ""} ${t === "unusual" ? "!text-[#8b5cf6] " + (tab === t ? "!border-[#8b5cf6]" : "") : ""}`}>
+            {t === "table" ? "TRADES" : t === "flow" ? "STOCK FLOW" : t === "trail" ? "MONEY TRAIL" : t === "tickers" ? "TOP TICKERS" : t === "traders" ? "TOP TRADERS" : t === "unusual" ? "UNUSUAL" : t === "conflicts" ? "CONFLICTS" : "CRYPTO"}
           </button>
         ))}
         <div className="ml-auto text-[10px] text-[var(--color-text-dim)] font-mono self-center">
@@ -513,6 +518,165 @@ export default function CapitolTradesPage() {
               <div className="font-mono text-xs font-bold text-[var(--color-text)] w-12 text-right">{tr.total}</div>
             </div>
           ))}
+        </div>
+      )}
+
+      {/* ── Unusual Activity ── */}
+      {tab === "unusual" && (
+        <div>
+          <div className="flex items-center gap-3 mb-4">
+            <span className="text-2xl">🔍</span>
+            <div>
+              <div className="font-mono text-sm font-bold text-[#8b5cf6]">Unusual Activity Detection</div>
+              <div className="font-mono text-[10px] text-[var(--color-text-dim)]">
+                Coordinated trades: 3+ politicians buying or selling the same stock within 7 days
+              </div>
+            </div>
+          </div>
+
+          {!unusualActivity && (
+            <div className="text-center py-16 text-[var(--color-text-dim)] font-mono text-sm">Loading...</div>
+          )}
+
+          {unusualActivity && unusualActivity.stats && (
+            <>
+              {/* Stats */}
+              <div className="grid grid-cols-4 gap-3 mb-6">
+                <div className="bg-[var(--color-bg-card)] border border-[#8b5cf633] p-3">
+                  <div className="text-[9px] text-[var(--color-text-dim)] font-mono uppercase tracking-wider">Clusters Found</div>
+                  <div className="text-xl font-bold text-[#8b5cf6] font-mono">{unusualActivity.stats.totalClusters}</div>
+                </div>
+                <div className="bg-[var(--color-bg-card)] border border-[#8b5cf633] p-3">
+                  <div className="text-[9px] text-[var(--color-text-dim)] font-mono uppercase tracking-wider">Volume Surges</div>
+                  <div className="text-xl font-bold text-[#8b5cf6] font-mono">{unusualActivity.stats.totalSurges}</div>
+                </div>
+                <div className="bg-[var(--color-bg-card)] border border-[#8b5cf633] p-3">
+                  <div className="text-[9px] text-[var(--color-text-dim)] font-mono uppercase tracking-wider">Window</div>
+                  <div className="text-xl font-bold text-[var(--color-text)] font-mono">{unusualActivity.stats.clusterWindow} days</div>
+                </div>
+                <div className="bg-[var(--color-bg-card)] border border-[#8b5cf633] p-3">
+                  <div className="text-[9px] text-[var(--color-text-dim)] font-mono uppercase tracking-wider">Total Trades</div>
+                  <div className="text-xl font-bold text-[var(--color-text)] font-mono">{unusualActivity.stats.totalTrades.toLocaleString()}</div>
+                </div>
+              </div>
+
+              {/* Two columns: Most Clustered Tickers + Most Frequent Participants */}
+              <div className="grid grid-cols-2 gap-6 mb-6">
+                <div>
+                  <div className="font-mono text-[10px] font-bold uppercase tracking-wider text-[#8b5cf6] mb-3">
+                    Most Clustered Tickers
+                  </div>
+                  <div className="space-y-1">
+                    {(unusualActivity.stats.topClusteredTickers || []).map((t: any, i: number) => (
+                      <div key={i} className="flex items-center justify-between bg-[var(--color-bg-card)] border border-[var(--color-border)] p-2 hover:bg-[var(--color-bg-hover)] cursor-pointer"
+                        onClick={() => { setFlowTicker(t.ticker); setTab("flow") }}>
+                        <span className="font-mono text-sm font-bold text-[var(--color-text)]">{t.ticker}</span>
+                        <span className="font-mono text-[10px] text-[#8b5cf6]">{t.clusters} clusters</span>
+                      </div>
+                    ))}
+                  </div>
+                </div>
+                <div>
+                  <div className="font-mono text-[10px] font-bold uppercase tracking-wider text-[#8b5cf6] mb-3">
+                    Most Frequent Participants
+                  </div>
+                  <div className="space-y-1">
+                    {(unusualActivity.stats.topClusterPols || []).map((p: any, i: number) => (
+                      <div key={i} className="flex items-center justify-between bg-[var(--color-bg-card)] border border-[var(--color-border)] p-2 hover:bg-[var(--color-bg-hover)] cursor-pointer"
+                        onClick={() => { setSearch(p.name); setTab("table"); setPage(0) }}>
+                        <span className="text-sm font-medium text-[var(--color-text)]">{p.name}</span>
+                        <span className="font-mono text-[10px] text-[#8b5cf6]">in {p.clusters} clusters</span>
+                      </div>
+                    ))}
+                  </div>
+                </div>
+              </div>
+
+              {/* Cluster Cards */}
+              <div className="font-mono text-[10px] font-bold uppercase tracking-wider text-[#8b5cf6] mb-3">
+                Coordinated Trading Clusters
+              </div>
+              <div className="space-y-3">
+                {(unusualActivity.clusters || []).slice(0, 30).map((c: any, i: number) => {
+                  const dirColor = c.direction === "BUY" ? "#22c55e" : c.direction === "SELL" ? "#ef4444" : "#8b5cf6"
+                  return (
+                    <div key={i} className="bg-[var(--color-bg-card)] border border-[var(--color-border)] p-4"
+                      style={{ borderLeftWidth: 4, borderLeftColor: dirColor }}>
+                      <div className="flex items-center justify-between mb-2">
+                        <div className="flex items-center gap-3">
+                          <span className="font-mono text-lg font-bold text-[var(--color-text)]">{c.ticker}</span>
+                          <span className="px-2 py-0.5 font-mono text-[9px] font-bold" style={{ color: dirColor, backgroundColor: dirColor + '22' }}>
+                            {c.direction}
+                          </span>
+                          <span className="font-mono text-[10px] text-[var(--color-text-dim)]">
+                            {c.politicians.length} politicians · {c.trades.length} trades · {c.windowDays} day{c.windowDays !== 1 ? 's' : ''}
+                          </span>
+                        </div>
+                        <div className="text-right">
+                          <div className="font-mono text-sm font-bold text-[var(--color-text)]">{fmtK(c.totalVolume)}</div>
+                          <div className="font-mono text-[9px] text-[var(--color-text-dim)]">
+                            {c.startDate} — {c.endDate}
+                          </div>
+                        </div>
+                      </div>
+
+                      {/* Politicians involved */}
+                      <div className="flex flex-wrap gap-1 mb-2">
+                        {c.politicians.map((p: string, pi: number) => (
+                          <span key={pi} className="px-2 py-0.5 bg-[var(--color-bg)] border border-[var(--color-border)] font-mono text-[9px] text-[var(--color-text)] cursor-pointer hover:border-[var(--color-steel)]"
+                            onClick={() => { setSearch(p); setTab("table"); setPage(0) }}>
+                            {p}
+                          </span>
+                        ))}
+                      </div>
+
+                      {/* Individual trades */}
+                      <div className="space-y-1">
+                        {c.trades.map((t: any, ti: number) => (
+                          <div key={ti} className="flex items-center gap-3 text-[10px] font-mono">
+                            <span className="text-[var(--color-text-dim)] w-20">{fmtDate(t.transactionDate)}</span>
+                            <span className={`px-1.5 py-0.5 text-[8px] font-bold ${
+                              t.type === "Purchase" ? "bg-[rgba(34,197,94,0.15)] text-[#22c55e]" : "bg-[rgba(239,68,68,0.15)] text-[#ef4444]"
+                            }`}>
+                              {t.type === "Purchase" ? "BUY" : "SELL"}
+                            </span>
+                            <span className="text-[var(--color-text)] flex-1 truncate">{t.politician}</span>
+                            <span className="text-[var(--color-text)] font-bold">{fmtK(t.amount)}</span>
+                          </div>
+                        ))}
+                      </div>
+                    </div>
+                  )
+                })}
+              </div>
+
+              {/* Volume Surges */}
+              {(unusualActivity.surges || []).length > 0 && (
+                <div className="mt-6">
+                  <div className="font-mono text-[10px] font-bold uppercase tracking-wider text-[#8b5cf6] mb-3">
+                    Volume Surges — Politicians Trading 3x+ Their Historical Average
+                  </div>
+                  <div className="space-y-2">
+                    {(unusualActivity.surges || []).slice(0, 20).map((s: any, i: number) => (
+                      <div key={i} className="flex items-center gap-4 bg-[var(--color-bg-card)] border border-[var(--color-border)] p-3 hover:bg-[var(--color-bg-hover)] cursor-pointer"
+                        onClick={() => { setSearch(s.politician); setTab("table"); setPage(0) }}>
+                        <div className="flex-1">
+                          <div className="text-sm font-medium text-[var(--color-text)]">{s.politician}</div>
+                          <div className="font-mono text-[10px] text-[var(--color-text-dim)]">{s.ticker} · {s.period}</div>
+                        </div>
+                        <div className="text-right">
+                          <div className="font-mono text-lg font-bold text-[#8b5cf6]">{s.surgeMultiple}x</div>
+                          <div className="font-mono text-[9px] text-[var(--color-text-dim)]">
+                            {fmtK(s.recentVolume)} vs avg {fmtK(s.historicalAvgVolume)}
+                          </div>
+                        </div>
+                      </div>
+                    ))}
+                  </div>
+                </div>
+              )}
+            </>
+          )}
         </div>
       )}
 
