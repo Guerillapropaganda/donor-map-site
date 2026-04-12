@@ -384,7 +384,7 @@ export default function RelationshipsPage() {
       .force("charge", forceManyBody().strength(-120))
       .force("center", forceCenter(width / 2, height / 2).strength(0.05))
       .force("link", forceLink<ForceNode, ForceLink>(links).distance(80).strength(0.3))
-      .force("collide", forceCollide<ForceNode>(d => d.id === "__center__" ? 30 : 12).iterations(2))
+      .force("collide", forceCollide<ForceNode>(d => d.id === "__center__" ? 30 : 14).iterations(2))
       .force("x", forceX(width / 2).strength(0.03))
       .force("y", forceY(height / 2).strength(0.03))
       .alphaDecay(0.02)
@@ -422,18 +422,31 @@ export default function RelationshipsPage() {
       .join("g")
       .attr("cursor", "pointer")
 
-    // Node circles — colored by entity type (politician, donor, think-tank, etc.)
-    // Edge lines use relationship type colors; node circles use entity type colors
+    // Dual-layer nodes:
+    //   Inner fill + stroke = entity type (what it IS: politician, donor, think-tank)
+    //   Outer ring = relationship type (how it's CONNECTED: funded, related, opposes, stories)
     const nodeColor = (d: ForceNode) => {
       if (d.id === "__center__") return TYPE_COLORS[selected.type] || "#7a7a86"
       if (d.bothSides) return "#ef4444"
       return TYPE_COLORS[d.entityType] || "#7a7a86"
     }
+
+    // Outer ring — relationship type color
+    nodeEls.filter(d => d.id !== "__center__")
+      .append("circle")
+      .attr("r", d => 10)
+      .attr("fill", "none")
+      .attr("stroke", d => d.bothSides ? "#ef4444" : REL_COLORS[d.relType])
+      .attr("stroke-width", d => d.bothSides ? 2 : 1.5)
+      .attr("stroke-opacity", 0.6)
+      .attr("stroke-dasharray", d => d.relType === "opposes" ? "3 2" : d.relType === "stories" ? "2 1" : "none")
+
+    // Inner circle — entity type color
     nodeEls.append("circle")
-      .attr("r", d => d.id === "__center__" ? 24 : 7)
-      .attr("fill", d => `${nodeColor(d)}${d.id === "__center__" ? "40" : "30"}`)
+      .attr("r", d => d.id === "__center__" ? 24 : 6)
+      .attr("fill", d => `${nodeColor(d)}${d.id === "__center__" ? "40" : "40"}`)
       .attr("stroke", d => nodeColor(d))
-      .attr("stroke-width", d => d.id === "__center__" ? 2.5 : d.bothSides ? 2 : 1.5)
+      .attr("stroke-width", d => d.id === "__center__" ? 2.5 : 1.5)
 
     // Both-sides glow ring
     nodeEls.filter(d => d.bothSides)
@@ -511,14 +524,19 @@ export default function RelationshipsPage() {
       .on("mouseenter", function (event, d) {
         select(this).select(".node-label").attr("opacity", 1)
         select(this).select(".hover-tooltip").attr("display", null)
-        select(this).select("circle").attr("r", 10)
+        // Grow both rings on hover
+        const circles = select(this).selectAll("circle")
+        circles.filter((_, i) => i === 0).attr("r", 13) // outer ring
+        circles.filter((_, i) => i === 1).attr("r", 9)  // inner circle
         linkEls.attr("stroke-opacity", (l: any) => l.target.id === d.id ? 0.8 : 0.08)
         setHoveredNode(d.name)
       })
       .on("mouseleave", function () {
         select(this).select(".node-label").attr("opacity", 0.35)
         select(this).select(".hover-tooltip").attr("display", "none")
-        select(this).select("circle").attr("r", 7)
+        const circles = select(this).selectAll("circle")
+        circles.filter((_, i) => i === 0).attr("r", 10) // outer ring
+        circles.filter((_, i) => i === 1).attr("r", 6)  // inner circle
         linkEls.attr("stroke-opacity", (d: any) => d.target.bothSides ? 0.8 : 0.2)
         setHoveredNode(null)
       })
@@ -1508,14 +1526,13 @@ export default function RelationshipsPage() {
                     )
                   })}
                   <span className="w-px h-4 bg-[var(--color-border)] mx-1" />
-                  {/* Entity type filter toggles */}
+                  {/* Entity type filter toggles — distinct palette from relationship row */}
                   {([
-                    { key: "politician", label: "Politicians", color: "#5b8dce" },
-                    { key: "donor", label: "Donors", color: "#22c55e" },
-                    { key: "think-tank", label: "Think Tanks", color: "#a855f7" },
-                    { key: "lobbying-firm", label: "K Street", color: "#f59e0b" },
-                    { key: "media-profile", label: "Media", color: "#ef4444" },
-                    { key: "story", label: "Stories", color: "#ec4899" },
+                    { key: "politician", label: "Politicians", color: "#6366f1" },
+                    { key: "donor", label: "Donors", color: "#14b8a6" },
+                    { key: "think-tank", label: "Think Tanks", color: "#d946ef" },
+                    { key: "lobbying-firm", label: "K Street", color: "#f97316" },
+                    { key: "media-profile", label: "Media", color: "#facc15" },
                   ] as const).map(({ key, label, color }) => {
                     const active = graphEntityFilters.has(key)
                     return (
@@ -1550,17 +1567,18 @@ export default function RelationshipsPage() {
                 <span className="flex items-center gap-1 text-[8px] text-[#ec4899]"><span className="w-4 h-0 border-t border-dotted border-[#ec4899]" /> Stories</span>
                 <span className="flex items-center gap-1 text-[8px] text-[#ef4444] font-bold"><span className="w-4 h-0 border-t-2 border-dashed border-[#ef4444]" /> Both-sides</span>
               </div>
-              {/* Legend — nodes (entity type) */}
+              {/* Legend — nodes (inner = entity type, outer ring = relationship type) */}
               <div className="flex items-center justify-center gap-3 mt-1 flex-wrap">
-                <span className="text-[7px] text-[var(--color-text-dim)] uppercase tracking-wider">Nodes:</span>
-                <span className="flex items-center gap-1 text-[8px] text-[#5b8dce]"><span className="w-2.5 h-2.5 rounded-full" style={{ backgroundColor: "#5b8dce" }} /> Politician</span>
-                <span className="flex items-center gap-1 text-[8px] text-[#22c55e]"><span className="w-2.5 h-2.5 rounded-full" style={{ backgroundColor: "#22c55e" }} /> Donor/Corp</span>
-                <span className="flex items-center gap-1 text-[8px] text-[#a855f7]"><span className="w-2.5 h-2.5 rounded-full" style={{ backgroundColor: "#a855f7" }} /> Think Tank</span>
-                <span className="flex items-center gap-1 text-[8px] text-[#f59e0b]"><span className="w-2.5 h-2.5 rounded-full" style={{ backgroundColor: "#f59e0b" }} /> K Street</span>
-                <span className="flex items-center gap-1 text-[8px] text-[#ef4444]"><span className="w-2.5 h-2.5 rounded-full" style={{ backgroundColor: "#ef4444" }} /> Media</span>
-                <span className="flex items-center gap-1 text-[8px] text-[#ec4899]"><span className="w-2.5 h-2.5 rounded-full" style={{ backgroundColor: "#ec4899" }} /> Story</span>
-                <span className="flex items-center gap-1 text-[8px] text-[#7a7a86]"><span className="w-2.5 h-2.5 rounded-full" style={{ backgroundColor: "#7a7a86" }} /> Unknown</span>
-                <span className="text-[7px] text-[var(--color-text-dim)] ml-1">Scroll to zoom | Drag nodes | Right-click to edit</span>
+                <span className="text-[7px] text-[var(--color-text-dim)] uppercase tracking-wider">Inner:</span>
+                <span className="flex items-center gap-1 text-[8px] text-[#5b8dce]"><span className="w-2 h-2 rounded-full" style={{ backgroundColor: "#5b8dce" }} /> Politician</span>
+                <span className="flex items-center gap-1 text-[8px] text-[#22c55e]"><span className="w-2 h-2 rounded-full" style={{ backgroundColor: "#22c55e" }} /> Donor</span>
+                <span className="flex items-center gap-1 text-[8px] text-[#a855f7]"><span className="w-2 h-2 rounded-full" style={{ backgroundColor: "#a855f7" }} /> Think Tank</span>
+                <span className="flex items-center gap-1 text-[8px] text-[#f59e0b]"><span className="w-2 h-2 rounded-full" style={{ backgroundColor: "#f59e0b" }} /> K Street</span>
+                <span className="flex items-center gap-1 text-[8px] text-[#ef4444]"><span className="w-2 h-2 rounded-full" style={{ backgroundColor: "#ef4444" }} /> Media</span>
+                <span className="w-px h-3 bg-[var(--color-border)]" />
+                <span className="text-[7px] text-[var(--color-text-dim)] uppercase tracking-wider">Ring:</span>
+                <span className="text-[7px] text-[var(--color-text-dim)]">matches edge color (relationship type)</span>
+                <span className="text-[7px] text-[var(--color-text-dim)] ml-1">| Scroll zoom | Drag nodes | Right-click edit</span>
               </div>
 
               {/* Relationship notes summary — collapsible */}
