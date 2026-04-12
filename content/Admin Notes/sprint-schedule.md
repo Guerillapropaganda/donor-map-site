@@ -928,6 +928,62 @@ phase_1_tasks:
       commit: "11a1a357"
       notes: "New /api/enrichment-log endpoint parses Auto-Enrichment Log.md into structured per-pipeline, per-profile results with conflict flags. Groups into 15-min batches. New EnrichmentLog.tsx component shows who was enriched by each pipeline, what was found, and conflicts. Filterable by pipeline type."
 
+    - id: cc_72
+      task: "Entity type colors in graph nodes + entity type filter buttons"
+      status: done
+      completed_date: 2026-04-12
+      added_adhoc: true
+      commit: "69a13c03"
+      notes: "Graph nodes colored by entity type (politician blue, donor green, think-tank purple, K Street amber, media red). New entity type filter toggle row with distinct palette. TYPE_COLORS lookup from profiles + topConnected."
+
+    - id: cc_73
+      task: "Scripts page Run buttons with server-side execution"
+      status: done
+      completed_date: 2026-04-12
+      added_adhoc: true
+      commit: "cf826d28"
+      notes: "New /api/scripts POST endpoint with allowlist of safe scripts. 2-min timeout, stdout/stderr capture. Scripts page converted to client component with Run buttons, loading state, success/failure badge, expandable output panel."
+
+    - id: cc_74
+      task: "Money Trail: full monetary network graph with visual storytelling"
+      status: done
+      completed_date: 2026-04-12
+      added_adhoc: true
+      commit: "3155462a"
+      notes: "New /money-trail page showing all 928 monetary edges as D3 force graph. Animated flow dots, both-sides donor glow, sector coloring toggle, party/both-sides/donors filters, node count slider, directed arrows, click to edit. API rewired to JSONL store."
+
+    - id: cc_75
+      task: "Fix List View freeze + graph filter dedup + duplicate React keys"
+      status: done
+      completed_date: 2026-04-12
+      added_adhoc: true
+      commits: ["9a6f000b", "b0607ae7", "5b86f802"]
+      notes: "List View: O(n^2) getSharedConnections replaced with useMemo pre-computed maps. Filter dedup: two-pass node building prevents wrong type assignment. Zoom reset on filter toggle via zoomIdentity. React key fix: key={rt::name}."
+
+    - id: cc_76
+      task: "Dual-layer nodes: inner=entity type, outer ring=relationship type"
+      status: done
+      completed_date: 2026-04-12
+      added_adhoc: true
+      commit: "1af145da"
+      notes: "Each node has inner circle (entity type color) and outer ring (relationship type color matching edge). Distinct palettes prevent confusion. Removed duplicate Stories from entity filter row."
+
+    - id: cc_77
+      task: "Enrich opposition + K Street data: 271 new political-opposition edges"
+      status: done
+      completed_date: 2026-04-12
+      added_adhoc: true
+      commits: ["12d84206", "f9546195"]
+      notes: "Research Claude work. 84 edges from frontmatter migration across 43 profiles. 187 edges from systematic party-opposition inference (all 104 Democrats bidirectional with Trump). 8 K Street firms connected to Trump. Total opposition: 47 → 318."
+
+    - id: cc_78
+      task: "Fix connection API dedup for bidirectional edges"
+      status: done
+      completed_date: 2026-04-12
+      added_adhoc: true
+      commit: "b38bd5de"
+      notes: "Forward-path dedup in connections API prevents double-counting when both A→B and B→A edges exist. Trump showed 19 opposes with duplicates; now 14 unique."
+
     - id: cc_60
       task: "Phase 3 Part 3: /api/connections GET reads JSONL edge store"
       status: done
@@ -1270,7 +1326,7 @@ parser_guidance:
 
 ---
 
-**Schedule last updated: 2026-04-12 (late night — cc_69/70/71 added: D3 force graph replacing orbit layout, bidirectional opposes/related connections, per-profile enrichment detail view, live site type colors, alerts cap fix.)**
+**Schedule last updated: 2026-04-12 (marathon session — cc_72-78 added: entity type colors, scripts Run buttons, Money Trail graph, List View freeze fix, dual-layer nodes, 271 opposition edges, connection dedup fix.)**
 **Current phase: phase_1 (Day 2 of 7)**
 **Next checkpoint: Phase 1 exit, 2026-04-16**
 **New data sources added 2026-04-11: FDA (pharma/device/food enforcement), OCC (national bank enforcement), FTC (mergers + historical enforcement). All three live in CI + Ops app.**
