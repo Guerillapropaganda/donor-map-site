@@ -25,9 +25,10 @@ top-donors:
   - "Defense Contractors (URS, Perini, Tutor Perini)"
   - "AIPAC"
   - "San Francisco Real Estate Industry"
+bills-sponsored: 2211
+bills-cosponsored: 6727
 known-gaps:
-  - "Committee assignments data missing"
-  - "Bills sponsored count needs re-enrichment"
+  - "Committee data shows empty (deceased member, no longer on active roster)"
 last-enriched: "2026-04-12"
 related: "[[_Nancy Pelosi Master Profile]] · [[AIPAC - American Israel Public Affairs Committee]]"
 needs-reenrichment: true

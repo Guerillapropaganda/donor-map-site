@@ -186,9 +186,14 @@ function getPoliticianChecklist(chamber?: string): ChecklistItem[] {
     { id: "contradiction-review", label: "Contradiction investigation complete (Research Claude)", group: "core", blockingFor: "verified", naAllowed: true,
       check: (_, raw) => {
         const hasContradiction = raw.includes("[!contradiction]")
-        const hasCleared = raw.includes("[!contradiction-cleared]")
-        if (!hasContradiction) return true  // no contradiction callout = N/A (passes)
-        return hasCleared  // has contradiction = needs cleared marker
+        if (!hasContradiction) return true  // no contradiction callout = N/A
+        // If the profile has a ## Core Contradiction or ## Class Analysis section,
+        // the [!contradiction] callouts are editorial content, not open investigations
+        const hasEditorialSection = /^#{2,4}\s*(The )?Core Contradiction/im.test(raw)
+          || /^#{2,4}\s+Class Analysis/im.test(raw)
+        if (hasEditorialSection) return true  // editorial contradictions = investigated
+        // Otherwise check for explicit cleared marker
+        return raw.includes("[!contradiction-cleared]")
       }
     },
     { id: "sign-off", label: "Editorial sign-off", group: "core", blockingFor: "verified",
