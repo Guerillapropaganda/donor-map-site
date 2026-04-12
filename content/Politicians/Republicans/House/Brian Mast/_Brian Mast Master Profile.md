@@ -1,6 +1,7 @@
 ---
 title: "Brian Mast"
 type: politician
+bioguide-id: "M001199"
 content-readiness: draft
 central-thesis: "Brian Mast is AIPAC's man in the chairman's seat — the House Foreign Affairs Committee chair who has received nearly $700,000 from the pro-Israel lobby, volunteered with the Israeli military, wore an IDF uniform in Congress, compared Palestinian c..."
 last-updated: 2026-04-10

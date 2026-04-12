@@ -1,6 +1,7 @@
 ---
 title: "Katie Britt"
 type: politician
+bioguide-id: "B001319"
 chamber: "Senate"
 party: "Republican"
 content-readiness: draft

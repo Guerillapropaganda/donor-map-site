@@ -17,6 +17,7 @@ issues:
 top-donors:
   - "Lockheed Martin"
   - "Northrop Grumman"
+bioguide-id: "W000437"
 govtrack-id: 400432
 bills-sponsored: 39
 bills-cosponsored: 237

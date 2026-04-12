@@ -1,6 +1,7 @@
 ---
 title: "Angie Craig Master Profile"
 type: politician
+bioguide-id: "C001119"
 content-readiness: draft
 central-thesis: "Craig is the medical device industry's graduate in Congress — a former St. Jude Medical vice president and PAC director who entered politics in the district where the industry is headquartered, then used swing-district survival skills to climb to ..."
 last-updated: 2026-04-08

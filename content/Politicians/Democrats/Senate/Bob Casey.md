@@ -1,6 +1,7 @@
 ---
 title: "Bob Casey"
 type: politician
+bioguide-id: "C001070"
 chamber: "Senate"
 party: "Democrat"
 content-readiness: draft

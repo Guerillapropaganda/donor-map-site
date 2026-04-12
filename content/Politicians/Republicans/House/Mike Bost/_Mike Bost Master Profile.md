@@ -1,6 +1,7 @@
 ---
 title: "Mike Bost"
 type: politician
+bioguide-id: "B001295"
 content-readiness: draft
 central-thesis: "Mike Bost championed the PACT Act — the landmark legislation expanding VA healthcare for veterans exposed to burn pits and toxic substances. It was his signature achievement, a genuinely important law that extended care to millions of post-9/11 ve..."
 last-updated: 2026-04-08

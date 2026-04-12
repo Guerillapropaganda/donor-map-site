@@ -19,6 +19,7 @@ top-donors:
   - "AIPAC - American Israel Public Affairs Committee"
   - "Peter Thiel"
   - "Fossil Fuel Bloc"
+bioguide-id: "J000299"
 govtrack-id: 412706
 bills-sponsored: 6
 bills-cosponsored: 3

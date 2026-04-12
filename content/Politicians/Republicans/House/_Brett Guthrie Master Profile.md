@@ -1,6 +1,7 @@
 ---
 title: "Brett Guthrie Master Profile"
 type: politician
+bioguide-id: "G000558"
 content-readiness: draft
 last-updated: 2026-04-07
 source-tier: 1

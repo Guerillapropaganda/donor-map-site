@@ -1,6 +1,7 @@
 ---
 title: "Kevin McCarthy Master Profile"
 type: politician
+bioguide-id: "M001165"
 content-readiness: draft
 central-thesis: "Kevin McCarthy is the fossil fuel industry's Speaker. His entire 16-year House career was funded by oil and gas money — $2.1 million lifetime, concentrated heavily after he became Leadership. As Speaker, he embedded $430 million in fossil fuel giv..."
 last-updated: 2026-04-08

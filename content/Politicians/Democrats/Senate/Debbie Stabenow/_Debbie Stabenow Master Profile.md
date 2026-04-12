@@ -18,6 +18,7 @@ issues:
 top-donors:
   - "UAW - United Auto Workers"
   - "Blue Cross Blue Shield"
+bioguide-id: "S000770"
 govtrack-id: 300093
 bills-sponsored: 0
 bills-cosponsored: 0

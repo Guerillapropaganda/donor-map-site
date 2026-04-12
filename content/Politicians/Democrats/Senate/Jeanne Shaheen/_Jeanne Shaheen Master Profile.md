@@ -22,6 +22,7 @@ top-donors:
 stock-trades: 3
 total-received: "$2,658,242"
 fec-candidate-id: "S0NH00219"
+bioguide-id: "S001181"
 govtrack-id: 412323
 bills-sponsored: 77
 bills-cosponsored: 409

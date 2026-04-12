@@ -20,6 +20,7 @@ top-donors:
   - "UAW - United Auto Workers"
   - "Real Estate Industry"
 fec-candidate-id: "S4MI00355"
+bioguide-id: "P000595"
 govtrack-id: 412305
 bills-sponsored: 70
 bills-cosponsored: 228

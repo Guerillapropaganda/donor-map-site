@@ -28,6 +28,7 @@ top-donors:
   - "Boeing"
 total-received: "$896,096"
 fec-candidate-id: "S8WA00194"
+bioguide-id: "C000127"
 govtrack-id: 300018
 bills-sponsored: 21
 bills-cosponsored: 188

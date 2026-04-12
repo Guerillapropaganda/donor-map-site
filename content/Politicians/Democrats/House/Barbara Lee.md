@@ -14,6 +14,7 @@ last-enriched: "2026-04-12"
 needs-reenrichment: true
 reenrich-reason: "run congress pipeline"
 donors: "[[Tim Dunn]] · [[California Nurses Association]] · [[AFSCME - American Federation of State County and Municipal Employees]] · [[Rebekah Mercer]]"
+bioguide-id: "L000551"
 govtrack-id: 400237
 bills-sponsored: 604
 bills-cosponsored: 10572

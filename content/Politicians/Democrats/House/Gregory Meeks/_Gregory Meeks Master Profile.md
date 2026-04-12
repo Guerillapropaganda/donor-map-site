@@ -23,6 +23,7 @@ top-donors:
   - "Goldman Sachs"
 total-received: "$1,032,781"
 fec-candidate-id: "H8NY06048"
+bioguide-id: "M001137"
 govtrack-id: 400271
 bills-sponsored: 36
 bills-cosponsored: 193

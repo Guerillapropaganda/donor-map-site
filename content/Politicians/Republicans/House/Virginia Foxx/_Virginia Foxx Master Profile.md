@@ -1,6 +1,7 @@
 ---
 title: "Virginia Foxx"
 type: politician
+bioguide-id: "F000450"
 content-readiness: draft
 central-thesis: "Virginia Foxx is the for-profit college industry's legislative shield. Her committee controls higher education policy — student loan rules, accreditation standards, Title IV funding eligibility, and regulatory oversight of colleges. Every major le..."
 last-updated: 2026-04-08

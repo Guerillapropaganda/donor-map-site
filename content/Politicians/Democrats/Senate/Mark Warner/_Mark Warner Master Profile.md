@@ -24,6 +24,7 @@ stock-trade-tickers:
   - "HALO"
   - "XON"
   - "ZIOP"
+bioguide-id: "W000805"
 govtrack-id: 412321
 bills-sponsored: 35
 bills-cosponsored: 248

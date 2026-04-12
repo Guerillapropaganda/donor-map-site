@@ -13,6 +13,7 @@ state-abbr: "GA"
 top-donors:
   - "Tech and Media Donors"
   - "Entertainment and Hollywood Donors"
+bioguide-id: "O000174"
 govtrack-id: 456857
 bills-sponsored: 16
 bills-cosponsored: 182

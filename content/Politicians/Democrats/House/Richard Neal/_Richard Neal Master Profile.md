@@ -21,6 +21,7 @@ top-donors:
   - "Blue Cross Blue Shield"
 total-received: "$1,411,406"
 fec-candidate-id: "H8MA02041"
+bioguide-id: "N000015"
 govtrack-id: 400291
 bills-sponsored: 3
 bills-cosponsored: 108

@@ -29,6 +29,7 @@ known-gaps:
 donors: "[[Mark Zuckerberg]] · [[Koch network]] · [[Christopher Ruddy]] · [[California Farm Bureau Federation]]"
 related: "[[JPMorgan Chase]] · [[Koch network]] · [[Koch Network - Charles Koch|Koch Network]] · [[Paul Ryan]] · [[Donald Trump]] · [[Tobacco Industry]] · [[Cannabis Legalization Movement]] · [[Reynolds American]] · [[Altria]]"
 last-enriched: "2026-04-10"
+bioguide-id: "B000589"
 govtrack-id: 400036
 bills-sponsored: 130
 bills-cosponsored: 1725

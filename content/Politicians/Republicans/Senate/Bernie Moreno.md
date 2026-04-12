@@ -8,6 +8,7 @@ central-thesis: "Moreno's 2024 victory represents the most concentrated single-i
 last-updated: 2026-04-10
 source-tier: 1
 parent: null
+bioguide-id: "M001242"
 govtrack-id: 456967
 bills-sponsored: 23
 bills-cosponsored: 159

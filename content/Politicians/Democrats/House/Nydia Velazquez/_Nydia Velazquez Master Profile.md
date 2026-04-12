@@ -1,6 +1,7 @@
 ---
 title: "Nydia Velazquez"
 type: politician
+bioguide-id: "V000081"
 content-readiness: draft
 central-thesis: "Nydia Velazquez is the Small Business Committee's institutional memory — 30+ years focused on SBA lending, minority business access, and federal contracting for small firms. Her donor profile is modest by congressional standards and dominated by r..."
 last-updated: "2026-04-05"

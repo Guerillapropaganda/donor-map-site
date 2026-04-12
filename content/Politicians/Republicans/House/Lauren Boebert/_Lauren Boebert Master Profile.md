@@ -1,6 +1,7 @@
 ---
 title: "Lauren Boebert"
 type: politician
+bioguide-id: "B000825"
 content-readiness: draft
 central-thesis: "Boebert is the culture war economy personified: she converts media attention into campaign donations without producing legislation or serving donor-class interests in the traditional sense. Her fundraising operates outside the committee-jurisdicti..."
 last-updated: 2026-04-08
