@@ -904,6 +904,30 @@ phase_1_tasks:
       notes: |
         Bug A: relationships/page.tsx graph container capped at 700px max + overflow:hidden + mx-auto (was connectionCount*20 = 3000px+). Bug B: vault.ts computeStats() now skips enrichment tracking for types with enrichment weight = 0 (story, event, meta); NOT ENRICHED 1,223→296, NEVER ENRICHED dropped to 306. Used inline resolveTypeForStats() to avoid importing fs-dependent profile-type-rulebook.ts into client bundle. Bug C: Calendar.tsx + DayModal.tsx task timestamps replaced .slice(11,16) UTC extraction with toLocaleTimeString() local time. Bug D: page.tsx vault health donut used kebab-case p["content-readiness"] on camelCase profile objects (always undefined → 0%). Switched to p.contentReadiness + added s-tier to verified bucket. Result: 0%→74%. All 4 verified in preview with zero console errors.
 
+    - id: cc_69
+      task: "Replace orbit graph with D3 force-directed graph + type filters"
+      status: done
+      completed_date: 2026-04-12
+      added_adhoc: true
+      commits: ["fe451199", "62c64b26"]
+      notes: "ops/src/app/relationships/page.tsx: replaced manual orbit layout with D3 forceSimulation. Physics repulsion keeps nodes apart. Small colored circles (r=7), always-visible faint labels (opacity 0.35) brightening on hover. Per-type filter toggles. Also fixed stories bug (story-link edges only populated source, not target) and installed d3+@types/d3 in ops."
+
+    - id: cc_70
+      task: "Bidirectional opposes/related in connections API + alerts cap fix + live site type colors"
+      status: done
+      completed_date: 2026-04-12
+      added_adhoc: true
+      commit: "395bc71b"
+      notes: "connections/route.ts: opposes and related edges now populate both source AND target profiles (was one-directional). Newsom now shows Trump in opposes. status/route.ts: removed Math.min(99) cap on critical alerts. ProfileWidget.tsx: flow rows get colored left-border by relationship type (pw-rel-donor/related/opposes/story CSS classes)."
+
+    - id: cc_71
+      task: "Per-profile enrichment detail view on pipeline page"
+      status: done
+      completed_date: 2026-04-12
+      added_adhoc: true
+      commit: "11a1a357"
+      notes: "New /api/enrichment-log endpoint parses Auto-Enrichment Log.md into structured per-pipeline, per-profile results with conflict flags. Groups into 15-min batches. New EnrichmentLog.tsx component shows who was enriched by each pipeline, what was found, and conflicts. Filterable by pipeline type."
+
     - id: cc_60
       task: "Phase 3 Part 3: /api/connections GET reads JSONL edge store"
       status: done
@@ -1246,7 +1270,7 @@ parser_guidance:
 
 ---
 
-**Schedule last updated: 2026-04-12 (morning — cc_68 added: 4 dashboard bug fixes from David's wrinkles list. Graph overflow capped, enrichment count honest, calendar timestamps local, vault health donut 0%→74%. Phase 3 remains architecturally complete. Feature requests from David's list roadmapped for future sessions.)**
+**Schedule last updated: 2026-04-12 (late night — cc_69/70/71 added: D3 force graph replacing orbit layout, bidirectional opposes/related connections, per-profile enrichment detail view, live site type colors, alerts cap fix.)**
 **Current phase: phase_1 (Day 2 of 7)**
 **Next checkpoint: Phase 1 exit, 2026-04-16**
 **New data sources added 2026-04-11: FDA (pharma/device/food enforcement), OCC (national bank enforcement), FTC (mergers + historical enforcement). All three live in CI + Ops app.**
