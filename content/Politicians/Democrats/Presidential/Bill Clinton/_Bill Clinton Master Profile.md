@@ -2,6 +2,7 @@
 title: "Bill Clinton"
 type: politician
 content-readiness: draft
+central-thesis: "Clinton is the pivot point in American political history where the Democratic Party became structurally indistinguishable from Republican finance capitalism on economic policy. He did not accidentally drift toward Wall Street — he was cultivated b..."
 last-updated: 2026-04-10
 source-tier: 1
 parent: null

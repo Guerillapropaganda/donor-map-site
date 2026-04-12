@@ -2,6 +2,7 @@
 title: Michael Waltz
 type: politician
 content-readiness: draft
+central-thesis: "Waltz is a military-industrial revolving door figure who built personal wealth through defense contracting (Metis Solutions, $92M sale), then used that wealth and military credentials to enter Congress, then leveraged political loyalty to Trump in..."
 last-updated: '2026-04-09'
 source-tier: 1
 parent: null

@@ -2,6 +2,7 @@
 title: "Rick Larsen"
 type: politician
 content-readiness: draft
+central-thesis: "Rick Larsen is Boeing's Democratic guardian — the ranking member on Transportation who ensures the aviation giant has bipartisan protection in the House. His district hosts Boeing's largest factory. Boeing is his top donor. He chaired the Aviation..."
 last-updated: 2026-04-11
 source-tier: 1
 parent: null

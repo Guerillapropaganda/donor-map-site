@@ -2,6 +2,7 @@
 title: "Tulsi Gabbard Master Profile"
 type: politician
 content-readiness: draft
+central-thesis: "Gabbard's journey from progressive Democrat (endorsed Bernie 2016) to Trump's DNI nominee is the most ideologically incoherent appointment in the Cabinet — unless understood through the lens of useful contrarianism. Her anti-establishment brand (l..."
 last-updated: 2026-04-07
 source-tier: 1
 parent: null

@@ -2,6 +2,7 @@
 title: "Marco Rubio Master Profile"
 type: politician
 content-readiness: draft
+central-thesis: "Rubio went from 'Little Marco' to Secretary of State by becoming useful — his hawkish foreign policy (anti-China, anti-Cuba, pro-Israel) serves defense contractor donors and his conversion from Trump critic to loyalist mirrors the entire Republica..."
 last-updated: "2026-04-05"
 source-tier: 1
 parent: null

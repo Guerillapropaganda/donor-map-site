@@ -2,6 +2,7 @@
 title: "Bob Menendez"
 type: politician
 content-readiness: draft
+central-thesis: "Menendez is the vault's most extreme case of the foreign policy-to-corruption pipeline. His SFRC chairmanship gave him unilateral power to block nominations, hold hearings, and shape every diplomatic relationship. He used that power to serve three..."
 last-updated: 2026-04-11
 source-tier: 1
 parent: null

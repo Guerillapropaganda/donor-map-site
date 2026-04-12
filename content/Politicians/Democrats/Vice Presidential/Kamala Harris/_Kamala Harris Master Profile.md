@@ -2,6 +2,7 @@
 title: "Kamala Harris Master Profile"
 type: politician
 content-readiness: draft
+central-thesis: "Harris is the California donor-class Democrat at the national level. Newsom is the state version; Harris is the federal expression of the same model. Raised $2.3 billion in the most expensive losing campaign in history, backed by Soros ($60M), Blo..."
 last-updated: 2026-04-09
 source-tier: 1
 parent: null

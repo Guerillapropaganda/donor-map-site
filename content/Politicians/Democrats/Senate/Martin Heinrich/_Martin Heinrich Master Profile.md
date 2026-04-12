@@ -2,6 +2,7 @@
 title: "Martin Heinrich Master Profile"
 type: politician
 content-readiness: draft
+central-thesis: "Heinrich is the nuclear weapons complex's senator — an engineer who started his career inside the weapons labs, built his committee portfolio around the agencies that fund them, and has doubled their budgets. New Mexico's economy is structurally d..."
 last-updated: 2026-04-08
 source-tier: 1
 parent: null

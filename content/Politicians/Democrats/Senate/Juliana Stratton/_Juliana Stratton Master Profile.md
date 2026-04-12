@@ -4,6 +4,7 @@ type: state-politician
 current-office: "Lieutenant Governor of Illinois (2019–present)"
 candidate-for: "US Senate 2026 (IL, Democratic primary)"
 content-readiness: ready
+central-thesis: "Stratton's political identity is built on dual narratives of grassroots progressivism and executive proximity to the Pritzker billionaire network. She positions herself as a criminal justice reformer opposed to corporate influence in politics, yet..."
 last-updated: '2026-04-11'
 source-tier: 1
 parent: null

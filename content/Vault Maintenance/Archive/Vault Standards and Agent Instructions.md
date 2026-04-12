@@ -2,6 +2,7 @@
 title: "Vault Standards and Agent Instructions"
 type: reference
 content-readiness: draft
+central-thesis: "[1-2 paragraphs: the core argument about this politician's relationship to donors. What donor class do they serve? What structural function do they perform?]"
 last-updated: 2026-04-08
 source-tier: 1
 parent: null

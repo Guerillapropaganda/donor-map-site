@@ -2,6 +2,7 @@
 title: "Howard Lutnick Master Profile"
 type: politician
 content-readiness: draft
+central-thesis: "Howard Lutnick is the Trump cabinet's most direct case of financial self-dealing. As Commerce Secretary, he controls trade enforcement, tariff implementation, and digital asset policy — every area where his family has direct financial exposure. Ca..."
 last-updated: 2026-03-24
 source-tier: 1
 parent: null

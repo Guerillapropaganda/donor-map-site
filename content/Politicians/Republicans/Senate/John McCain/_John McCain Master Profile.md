@@ -2,6 +2,7 @@
 title: "John McCain"
 type: politician
 content-readiness: draft
+central-thesis: "McCain positioned himself as a reformer fighting corruption and excess campaign spending, while simultaneously serving as one of the Senate's most reliable advocates for defense spending increases and weapons contractor interests. His 'maverick' b..."
 last-updated: 2026-04-10
 source-tier: 1
 parent: null

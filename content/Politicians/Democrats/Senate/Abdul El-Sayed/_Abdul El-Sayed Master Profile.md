@@ -2,6 +2,7 @@
 title: "Abdul El-Sayed Master Profile"
 type: politician
 content-readiness: draft
+central-thesis: "Abdul El-Sayed represents the 2026 Sanders wing's bet that a genuine progressive — small-dollar funded, corporate PAC-free, Medicare for All advocate with actual public health credentials — can win a Democratic primary against the establishment's ..."
 last-updated: 2026-04-07
 source-tier: 1
 parent: null

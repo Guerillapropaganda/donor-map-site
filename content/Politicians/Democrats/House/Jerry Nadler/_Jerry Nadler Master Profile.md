@@ -2,6 +2,7 @@
 title: "Jerry Nadler"
 type: politician
 content-readiness: draft
+central-thesis: "Nadler's donor-class function is more complex than most profiles in this vault because he genuinely served as a check on executive power (two Trump impeachments) and pursued progressive policy outcomes (marijuana legalization, LGBTQ+ rights, 9/11 ..."
 last-updated: 2026-04-11
 source-tier: 1
 parent: null

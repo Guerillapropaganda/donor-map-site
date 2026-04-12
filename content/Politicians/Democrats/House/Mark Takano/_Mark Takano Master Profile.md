@@ -2,7 +2,8 @@
 title: "Mark Takano"
 type: politician
 content-readiness: draft
-last-updated: 2026-04-12
+central-thesis: "Mark Takano is the PACT Act's Democratic architect — the chairman who shepherded the largest VA healthcare expansion in decades through committee and into law. His donor profile is modest: labor unions, teachers' unions, LGBTQ advocacy groups, and..."
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -23,7 +24,6 @@ reenrich-reason: "re-run fec pipeline"
 internal-notes: "[JANITOR 2026-04-10] Demoted ready→draft by pipeline-janitor.cjs because:
   • FEC-CANDIDATE data was stripped from this profile but the frontmatter still says it was enriched. The pipeline thinks it's already done and won't refresh it. Needs a re-run.
 The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
-last-enriched: "2026-04-12"
 ---
 #mark-takano #democrat #california #house #ranking-member #veterans-affairs #pact-act #lgbtq #teacher #doge #va-workforce #toxic-exposure #phase-6-gavel-power
 
@@ -150,38 +150,3 @@ The analytical interest is the PACT Act's fate after Takano lost the chairmanshi
 
 - [Congress.gov: Mark Takano](https://www.congress.gov/member/c001091) (Tier 1)
 <!-- auto:voting-record end -->
-
-### Campaign Finance (FEC)
-<!-- auto:fec-politician start -->
-| Metric | Value |
-|--------|-------|
-| Election Cycle | 2026 |
-| Total Raised | $524,547 |
-| Individual Contributions | $230,172 |
-| PAC Contributions | $222,250 |
-| Cash on Hand | 176497.76 |
-| IE Support (Super PAC) | $519,517 |
-| IE Opposition (Super PAC) | $440,000 |
-
-**Fundraising by cycle:**
-
-| Cycle | Total Raised | Individual | PAC |
-|-------|-------------|------------|-----|
-| 2026 | $524,547 | $230,172 | $222,250 |
-| 2024 | $1,289,818 | $569,298 | $537,500 |
-| 2022 | $1,254,504 | $713,601 | $393,944 |
-| 2020 | $1,033,950 | $612,350 | $347,364 |
-| 2018 | $1,076,805 | $639,232 | $341,100 |
-
-**Top outside spenders:**
-
-| Committee | Support | Oppose |
-|-----------|---------|--------|
-| US CHAMBER OF COMMERCE | $0 | $440,000 |
-| EQUALITY PROJECT PAC | $282,249 | $0 |
-| CALIFORNIANS FOR SACRED SITES PROTECTION | $144,114 | $0 |
-| NATIONAL NURSES UNITED FOR PATIENT PROTECTION | $70,135 | $0 |
-| PLANNED PARENTHOOD ACTION FUND OF THE PACIFIC SOUTHWEST PAC | $11,245 | $0 |
-
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H2CA43245/) (Tier 1)
-<!-- auto:fec-politician end -->

@@ -3,6 +3,7 @@ title: "Buffy Wicks"
 type: state-politician
 current-office: "California State Assembly Member, District 14 (2018–present)"
 content-readiness: draft
+central-thesis: "Wicks killed AB 2200 (CalCare, the follow-up single-payer bill) on May 16, 2024 by holding it in Appropriations Committee. Her stated justification: California's budget deficit. Her actual justification: the bill had no fiscal impact — it was a po..."
 last-updated: 2026-04-11
 source-tier: 1
 parent: null

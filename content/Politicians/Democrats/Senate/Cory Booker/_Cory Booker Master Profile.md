@@ -2,6 +2,7 @@
 title: "Cory Booker"
 type: politician
 content-readiness: draft
+central-thesis: "Cory Booker is the Two-Audience Problem incarnate — and the pharma vote is the receipt. His progressive brand (criminal justice reform, racial equity, environmental justice, veganism) plays to the national Democratic base. His donor profile (Wall ..."
 last-updated: 2026-04-12
 source-tier: 1
 parent: null

@@ -2,6 +2,7 @@
 title: Thom Tillis Master Profile
 type: politician
 content-readiness: draft
+central-thesis: "Thom Tillis is the pharmaceutical industry's most documented senator in the vault's research. His opposition to drug pricing reform, his intellectual property hawkishness, and his consistent legislative service to pharmaceutical and biotech intere..."
 last-updated: 2026-04-10
 source-tier: 1
 parent: null

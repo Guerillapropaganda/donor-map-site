@@ -4,7 +4,8 @@ type: state-politician
 current-office: "Former Governor of North Carolina (2017–2025)"
 candidate-for: "US Senate 2026 (NC, Democratic primary)"
 content-readiness: draft
-last-updated: 2026-04-12
+central-thesis: "Roy Cooper's political career reflects the core tension of donor-first Democratic politics: he delivers genuine working-class policy wins—Medicaid expansion covering 650,000 people, clean energy legislation, teacher pay raises—while simultaneously..."
+last-updated: '2026-04-11'
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -28,7 +29,7 @@ known-gaps:
   - "Federal campaign finance data needs FEC pipeline pass (candidate ID S6NC00407 filed for US Senate 2026)"
   - "NC Governor-era record (2017–2025) needs direct sourcing from nc.gov and state legislature records"
   - "Top-donor industry breakdown needs NC state campaign finance DB cross-reference"
-related: "[[North Carolina 2026 Senate Race]] · [[Roy Cooper Health Insurance Industry Funding]] · [[Anthem PAC]]"
+related: "[[North Carolina 2026 Senate Race]] · [[Roy Cooper Health Insurance Industry Funding]]"
 internal-notes: "[JANITOR 2026-04-11] Bioguide contamination cleared by fix-bioguide-contamination.cjs. This profile had bioguide-id set to 'C001091' (Joaquin Castro's ID), almost certainly from a past bulk-set script that fell through to candidates[0]?.bioguideId when a name search failed. 19 unrelated profiles all had the same wrong ID — same class of bug as the A000383 Alan Armstrong incident documented in the Pipeline Guide. The wrong ID has been removed. A correct bioguide must be added manually (verify at bioguide.congress.gov/search) before the Congress.gov pipeline can enrich this profile. Pipeline will skip this profile until a bioguide is provided."
 ---
 #politician #democrat #senate #north-carolina #2026-candidate

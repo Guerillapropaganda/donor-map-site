@@ -2,6 +2,7 @@
 title: "Xavier Becerra Master Profile"
 type: politician
 content-readiness: draft
+central-thesis: "Xavier Becerra is the institutional Democratic Party candidate — his entire career has been built within Democratic power structures (Congress for 24 years, AG appointed by a Democratic governor, Cabinet secretary under a Democratic president). Hi..."
 last-updated: 2026-04-09
 source-tier: 1
 parent: null

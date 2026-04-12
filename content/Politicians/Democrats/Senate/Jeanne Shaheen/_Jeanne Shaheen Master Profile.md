@@ -2,6 +2,7 @@
 title: "Jeanne Shaheen Master Profile"
 type: politician
 content-readiness: draft
+central-thesis: "Shaheen is the defense industry's ideal Democratic senator — a three-committee portfolio covering every stage of the defense spending pipeline, from the foreign policy that creates demand for weapons systems to the budget authorization that approv..."
 last-updated: 2026-04-09
 source-tier: 1
 parent: null

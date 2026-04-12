@@ -2,6 +2,7 @@
 title: "Steve Scalise"
 type: politician
 content-readiness: draft
+central-thesis: "Scalise's donor-class function is to serve as the fossil fuel industry's highest-ranking legislative operator in the House. Representing Louisiana — a state whose economy is built on oil, gas, petrochemicals, and offshore drilling — Scalise transl..."
 last-updated: 2026-04-10
 source-tier: 1
 parent: null

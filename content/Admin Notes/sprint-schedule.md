@@ -992,6 +992,55 @@ phase_1_tasks:
       commits: ["58243cd8", "6bb00734", "9859edb2", "f7c7fcc1"]
       notes: "Full tip pipeline: TipForm.tsx (Quartz component, Web3Forms), Cloudflare Worker relay at tiprelay.guerillapropaganda.workers.dev, save-tip.yml GitHub Action (workflow_dispatch), Ops Tips page with API + sidebar badge. End-to-end verified with vault file creation."
 
+    - id: cc_80
+      task: "Bulk create 476 politician profiles + 8 missing profile stubs"
+      status: done
+      completed_date: 2026-04-12
+      added_adhoc: true
+      notes: "scripts/bulk-create-politicians.cjs + scripts/create-cabinet-profiles.cjs. 402 Congress + 71 cabinet + 3 SCOTUS + 8 high-leverage stubs. Total politicians 252 to 713."
+
+    - id: cc_81
+      task: "Strip 16,805 em dashes + remove 122 legacy inline fields"
+      status: done
+      completed_date: 2026-04-12
+      added_adhoc: true
+      notes: "3 passes via scripts/strip-em-dashes.cjs (536+415+24 files). scripts/clean-inline-fields.cjs removed 82 research-status:: + 36 donors:: + 4 related::. Voice-drift 25 to 1."
+
+    - id: cc_82
+      task: "Pipeline Health dashboard + ops improvements"
+      status: done
+      completed_date: 2026-04-12
+      added_adhoc: true
+      notes: "ops/src/app/api/pipeline-health/route.ts + ops/src/components/PipelineHealth.tsx. Parallel fetch, error states, aria-labels, global breadcrumbs, D3 type safety."
+
+    - id: cc_83
+      task: "Write 38 Class Analysis sections (22 politicians + 16 donors/corps)"
+      status: done
+      completed_date: 2026-04-12
+      added_adhoc: true
+      notes: "Editorial depth passes. Key profiles: Trump, Obama, Biden, McConnell, Schumer, Cruz, Graham, AOC, Omar, Tlaib, ExxonMobil, Koch, ALEC, Boeing, Marathon Petroleum, Goldman Sachs, JPMorgan, AIPAC, Lockheed Martin."
+
+    - id: cc_84
+      task: "Fix 6 checklist detection bugs + add 5 structural quality checks"
+      status: done
+      completed_date: 2026-04-12
+      added_adhoc: true
+      notes: "VerificationChecklist.tsx: committee marker mismatch, source diversity overcount, heading depth H2-H4, contradiction logic, bills fallback. New STRUCTURAL QUALITY group: party, chamber, bioguide-id, heading levels, callout syntax."
+
+    - id: cc_85
+      task: "Feinstein profile rewrite + vault-wide structural fix on 25 profiles"
+      status: done
+      completed_date: 2026-04-12
+      added_adhoc: true
+      notes: "Feinstein: 8 missing frontmatter fields added, all headings/callouts fixed. scripts/fix-profile-structure.cjs applied to 25 profiles: 14 party, 13 chamber, 116 heading fixes, 27 callout fixes."
+
+    - id: cc_86
+      task: "Fix donor-map-engine: fetchJson redirect protection + committee pipeline bioguide fallback"
+      status: done
+      completed_date: 2026-04-12
+      added_adhoc: true
+      notes: "donor-map-engine commit 9bff77d. shared.cjs manual redirect handling with maxRedirects. committee-pipeline.cjs reads frontmatter bioguide-id first, bypasses broken Congress.gov query API."
+
     - id: cc_60
       task: "Phase 3 Part 3: /api/connections GET reads JSONL edge store"
       status: done
@@ -1334,7 +1383,7 @@ parser_guidance:
 
 ---
 
-**Schedule last updated: 2026-04-12 (afternoon session — cc_79 added: public tip submission system with Web3Forms, Cloudflare Worker, GitHub Action, Ops Tips page.)**
+**Schedule last updated: 2026-04-12 evening (cc_80-86 added: 476 profiles, 38 Class Analysis, 16K em dashes, Pipeline Health dashboard, 6 checklist bugs fixed, 5 structural checks added, Feinstein rewrite, 25 profiles structural fix, engine pipeline fixes.)**
 **Current phase: phase_1 (Day 2 of 7)**
 **Next checkpoint: Phase 1 exit, 2026-04-16**
 **New data sources added 2026-04-11: FDA (pharma/device/food enforcement), OCC (national bank enforcement), FTC (mergers + historical enforcement). All three live in CI + Ops app.**

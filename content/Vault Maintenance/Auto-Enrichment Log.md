@@ -57,9 +57,10 @@ Bot-written. Research Claude reads this to see what fresh API data landed in the
 
 
 
-## 2026-04-12 21:55 UTC — 18 profiles
 
-**FEC — 18 profiles:**
+## 2026-04-12 21:27 UTC — 29 profiles
+
+**FEC — 29 profiles:**
 - Sherrod Brown — 2026 raised $14,356,451
 - Tim Walz — 2018 raised $113,151
 - Adam Smith — 2026 raised $786,535
@@ -74,15 +75,26 @@ Bot-written. Research Claude reads this to see what fresh API data landed in the
 - Frank Pallone — 2026 raised $1,311,209
 - Hakeem Jeffries — 2026 raised $10,327,241
 - Ilhan Omar — 2026 raised $3,125,783
+- Jamaal Bowman — 2024 raised $6,052,176
+- Jamie Raskin — 2026 raised $4,396,225
+- Jim Himes — 2026 raised $803,939
+- Joseph Morelle — 2026 raised $1,130,491
+- Mark Takano — 2026 raised $524,547
+- Maxine Waters — 2026 raised $431,662
+- Melissa Bean — 2010 raised $2,292,879
+- Nancy Pelosi — 2026 raised $2,408,010
+- Pete Aguilar — 2026 raised $3,026,029
 - California Farm Bureau Federation — total political spend $891,442
 - Western Growers Association — total political spend $481,034
 - ActBlue — total political spend $1,765,636
 - Brady Campaign — total political spend $511,461
+- Business Roundtable — total political spend $110,825
+- Council for National Policy — total political spend $2,688
 
 ---
-## 2026-04-12 21:54 UTC — 13 profiles
+## 2026-04-12 21:27 UTC — 21 profiles
 
-**ProPublica — 13 profiles:**
+**ProPublica — 21 profiles:**
 - California Farm Bureau Federation — $12.9M revenue, 2023 990 ⚠️ CONFLICT
 - Cargill — $2.5M revenue, 2023 990 ⚠️ CONFLICT
 - John Deere — $17.7M revenue, 2023 990 ⚠️ CONFLICT
@@ -96,11 +108,19 @@ Bot-written. Research Claude reads this to see what fresh API data landed in the
 - Donors Capital Fund — $696K revenue, 2023 990
 - Environmental Law & Policy Center — $10.9M revenue, 2023 990
 - Gun Owners of America — $9.6M revenue, 2023 990
+- New Venture Fund — $669.1M revenue, 2023 990
+- Ocean Conservancy — $48.6M revenue, 2023 990
+- Organizing for Action — $4.7M revenue, 2018 990
+- The 85 Fund — $143.1M revenue, 2023 990
+- US Chamber of Commerce — $37.8M revenue, 2023 990
+- Boeing — $914K revenue, 2023 990
+- Defense Contractors — $1.3M revenue, 2023 990
+- Defense Industry — $82K revenue, 2023 990
 
 **Conflicts detected: 5** (see `pending-merge` blocks in the listed profiles)
 
 ---
-## 2026-04-12 21:51 UTC — 22 profiles
+## 2026-04-12 21:21 UTC — 22 profiles
 
 **ofac-sdn — 22 profiles:**
 - Democratic Party Infrastructure — fuzzy match, 1 records, programs: BALKANS
@@ -127,7 +147,19 @@ Bot-written. Research Claude reads this to see what fresh API data landed in the
 - Maria Elvira Salazar — fuzzy match, 1 records, programs: SDNTK
 
 ---
-## 2026-04-12 21:51 UTC — 19 profiles
+## 2026-04-12 21:21 UTC — 7 profiles
+
+**Congress.gov — 7 profiles:**
+- Dick Durbin — 15 policy areas, bioguide D000563
+- Maria Cantwell — 9 policy areas, bioguide C000127
+- Mark Warner — 8 policy areas, bioguide W000805
+- Patty Murray — 8 policy areas, bioguide M001111
+- Richard Blumenthal — 11 policy areas, bioguide B001277
+- Ron Wyden — 14 policy areas, bioguide W000779
+- Tammy Duckworth — 11 policy areas, bioguide D000622
+
+---
+## 2026-04-12 21:21 UTC — 19 profiles
 
 **stock-watcher — 19 profiles:**
 - Chris Coons — 24 trades (2 buys, 21 sells), top: NFLX, AAPL, MSFT
@@ -153,7 +185,7 @@ Bot-written. Research Claude reads this to see what fresh API data landed in the
 **Conflicts detected: 1** (see `pending-merge` blocks in the listed profiles)
 
 ---
-## 2026-04-12 21:51 UTC — 200 profiles
+## 2026-04-12 21:21 UTC — 200 profiles
 
 **influence-xref — 200 profiles:**
 - Agribusiness Donor Bloc — 1 connections, 1 committee overlaps ⚠️ CONFLICT
@@ -164,7 +196,7 @@ Bot-written. Research Claude reads this to see what fresh API data landed in the
 - CCPOA - California Correctional Peace Officers Association — 2 connections, 0 committee overlaps
 - CoreCivic — 3 connections, 0 committee overlaps
 - Brady Campaign — 17 connections, 0 committee overlaps ⚠️ CONFLICT
-- Business Roundtable — 2 connections, 0 committee overlaps
+- Business Roundtable — 1 connections, 0 committee overlaps
 - Entertainment and Hollywood Donors — 4 connections, 0 committee overlaps ⚠️ CONFLICT
 - Finance and Tech Bundler Network — 1 connections, 0 committee overlaps
 - House Freedom Caucus — 4 connections, 2 committee overlaps
@@ -245,117 +277,117 @@ Bot-written. Research Claude reads this to see what fresh API data landed in the
 - Ted Cruz — 1 connections, 2 committee overlaps
 - Tim Scott — 1 connections, 0 committee overlaps
 - Tommy Tuberville — 1 connections, 3 committee overlaps
-- Bacardi - Bacardi USA — 5 connections, 3 committee overlaps
-- Amy Acton — 3 connections, 0 committee overlaps ⚠️ CONFLICT
-- Jon Husted — 1 connections, 0 committee overlaps
-- Clarence Thomas — 2 connections, 0 committee overlaps
-- BAE Systems — 1 connections, 3 committee overlaps ⚠️ CONFLICT
-- Pete Buttigieg — 1 connections, 0 committee overlaps
-- Chris Murphy — 2 connections, 3 committee overlaps ⚠️ CONFLICT
-- Betty Yee — 1 connections, 0 committee overlaps
 - David Sacks — 2 connections, 0 committee overlaps ⚠️ CONFLICT
-- Eric Swalwell — 1 connections, 0 committee overlaps
-- National Nurses United — 6 connections, 3 committee overlaps ⚠️ CONFLICT
-- Marco Rubio — 2 connections, 0 committee overlaps
-- Matt Mahan — 1 connections, 0 committee overlaps
-- Mitch McConnell — 2 connections, 0 committee overlaps
-- Oracle — 1 connections, 0 committee overlaps
-- Chevron — 5 connections, 0 committee overlaps
-- Ron DeSantis — 1 connections, 0 committee overlaps
-- Gavin Newsom — 3 connections, 0 committee overlaps
-- Thom Tillis — 2 connections, 0 committee overlaps
-- Jodey Arrington — 1 connections, 2 committee overlaps
-- Ohio Democratic Party — 3 connections, 0 committee overlaps
-- John Thune — 1 connections, 0 committee overlaps
-- CTA - California Teachers Association — 2 connections, 0 committee overlaps
-- Bill Cassidy — 2 connections, 0 committee overlaps
-- Jon Ossoff — 2 connections, 0 committee overlaps
-- National Progressive Donor Networks — 2 connections, 0 committee overlaps
-- Judicial Crisis Network — 5 connections, 0 committee overlaps ⚠️ CONFLICT
-- Antonio Villaraigosa — 2 connections, 0 committee overlaps
-- Microsoft — 1 connections, 3 committee overlaps ⚠️ CONFLICT
-- World Liberty Financial — 4 connections, 0 committee overlaps
-- Jeanne Shaheen — 2 connections, 4 committee overlaps ⚠️ CONFLICT
-- Tony Thurmond — 1 connections, 0 committee overlaps
-- PhRMA - Pharmaceutical Research and Manufacturers of America — 6 connections, 8 committee overlaps ⚠️ CONFLICT
-- Amy Coney Barrett — 1 connections, 0 committee overlaps
-- Greg Abbott — 2 connections, 0 committee overlaps
-- Mallory McMorrow — 1 connections, 0 committee overlaps
-- Mike Pompeo — 1 connections, 0 committee overlaps
-- ConocoPhillips — 4 connections, 3 committee overlaps ⚠️ CONFLICT
-- Samuel Alito — 2 connections, 0 committee overlaps
-- Booz Allen Hamilton — 1 connections, 0 committee overlaps
-- Stand Together — 1 connections, 0 committee overlaps
-- Gary Peters — 1 connections, 3 committee overlaps ⚠️ CONFLICT
-- Bradley Foundation — 1 connections, 0 committee overlaps
-- John Boehner — 1 connections, 3 committee overlaps
-- Joni Ernst — 3 connections, 3 committee overlaps ⚠️ CONFLICT
-- Valero Energy — 1 connections, 0 committee overlaps
-- Tom Cotton — 1 connections, 0 committee overlaps
-- Amazon — 2 connections, 5 committee overlaps ⚠️ CONFLICT
-- John Ratcliffe — 2 connections, 0 committee overlaps
-- Heritage Foundation — 4 connections, 3 committee overlaps
-- CalPERS — 2 connections, 0 committee overlaps
-- Harold Hamm — 2 connections, 0 committee overlaps
-- General Motors — 2 connections, 0 committee overlaps
-- Lee Zeldin — 1 connections, 0 committee overlaps
-- Demand Justice — 1 connections, 0 committee overlaps
-- Apple — 2 connections, 5 committee overlaps ⚠️ CONFLICT
-- Chris Wright — 1 connections, 0 committee overlaps
-- Mithril Capital — 1 connections, 0 committee overlaps
-- Lawrence Summers — 5 connections, 0 committee overlaps
-- American Farm Bureau Federation — 2 connections, 2 committee overlaps ⚠️ CONFLICT
-- MasTec - Mas Canosa Family — 3 connections, 1 committee overlaps ⚠️ CONFLICT
-- Cambridge Analytica and the Data Weaponization of Elections — 3 connections, 1 committee overlaps
-- Centene Corporation — 2 connections, 0 committee overlaps
-- Condoleezza Rice — 1 connections, 0 committee overlaps
-- Nikki Haley — 1 connections, 0 committee overlaps
-- California Apartment Association — 2 connections, 0 committee overlaps
-- Blackstone Group — 4 connections, 1 committee overlaps ⚠️ CONFLICT
-- Media Matters — 2 connections, 0 committee overlaps
+- Amy Acton — 3 connections, 0 committee overlaps ⚠️ CONFLICT
 - Paul Singer — 4 connections, 1 committee overlaps ⚠️ CONFLICT
-- Brian Schatz — 1 connections, 2 committee overlaps
-- Benjamin Netanyahu — 1 connections, 0 committee overlaps
 - Patrick McHenry — 1 connections, 0 committee overlaps
-- Harlan Crow — 2 connections, 1 committee overlaps
-- Jim Jordan — 1 connections, 1 committee overlaps
-- Raytheon (RTX Corporation) — 21 connections, 13 committee overlaps ⚠️ CONFLICT
-- Frank Lucas — 1 connections, 1 committee overlaps ⚠️ CONFLICT
-- Jared Kushner — 1 connections, 0 committee overlaps
-- Chad Bianco — 1 connections, 0 committee overlaps
-- Neil Gorsuch — 2 connections, 0 committee overlaps
-- Lyft — 1 connections, 0 committee overlaps
-- California Nurses Association — 7 connections, 3 committee overlaps ⚠️ CONFLICT
-- Insurance Industry — 11 connections, 8 committee overlaps
-- Brett Kavanaugh — 1 connections, 0 committee overlaps
-- GEO Group - Private Prison Industrial Complex — 5 connections, 0 committee overlaps ⚠️ CONFLICT
-- Blue Shield of California — 10 connections, 9 committee overlaps ⚠️ CONFLICT
-- Telecom Industry — 1 connections, 1 committee overlaps ⚠️ CONFLICT
-- JB Pritzker — 3 connections, 0 committee overlaps
-- Craft Ventures — 1 connections, 0 committee overlaps
-- Rand Paul — 2 connections, 0 committee overlaps
-- Citigroup — 4 connections, 3 committee overlaps ⚠️ CONFLICT
-- Patrick Soon-Shiong — 6 connections, 0 committee overlaps
 - Josh Hawley — 1 connections, 0 committee overlaps
-- Mike Johnson — 1 connections, 0 committee overlaps
-- John Roberts — 1 connections, 0 committee overlaps
-- Uber — 2 connections, 0 committee overlaps
-- Wes Moore — 2 connections, 0 committee overlaps
-- Ohio AFL-CIO — 1 connections, 0 committee overlaps
-- Fraternal Order of Police — 8 connections, 3 committee overlaps
-- American Federation for Children — 1 connections, 0 committee overlaps
-- Everytown for Gun Safety — 2 connections, 1 committee overlaps ⚠️ CONFLICT
-- UnitedHealth Group - Optum — 4 connections, 0 committee overlaps
-- American Petroleum Institute — 1 connections, 1 committee overlaps
-- Real Estate Industry — 3 connections, 5 committee overlaps
-- ADM - Archer Daniels Midland — 1 connections, 1 committee overlaps ⚠️ CONFLICT
 - Kenneth Griffin — 1 connections, 1 committee overlaps
-- Goldman Sachs — 5 connections, 5 committee overlaps ⚠️ CONFLICT
-- JPMorgan Chase — 5 connections, 6 committee overlaps ⚠️ CONFLICT
-- National Restaurant Association — 7 connections, 1 committee overlaps ⚠️ CONFLICT
-- Doug Burgum — 2 connections, 0 committee overlaps
+- American Federation for Children — 1 connections, 0 committee overlaps
+- Lawrence Summers — 5 connections, 0 committee overlaps
+- Joni Ernst — 3 connections, 3 committee overlaps ⚠️ CONFLICT
+- UnitedHealth Group - Optum — 4 connections, 0 committee overlaps
+- California Apartment Association — 2 connections, 0 committee overlaps
+- Lee Zeldin — 1 connections, 0 committee overlaps
+- Valero Energy — 1 connections, 0 committee overlaps
+- Antonio Villaraigosa — 2 connections, 0 committee overlaps
+- Benjamin Netanyahu — 1 connections, 0 committee overlaps
+- Nikki Haley — 1 connections, 0 committee overlaps
+- Heritage Foundation — 4 connections, 3 committee overlaps
+- California Nurses Association — 7 connections, 3 committee overlaps ⚠️ CONFLICT
+- Mithril Capital — 1 connections, 0 committee overlaps
+- Jeanne Shaheen — 2 connections, 4 committee overlaps ⚠️ CONFLICT
+- CalPERS — 2 connections, 0 committee overlaps
+- Judicial Crisis Network — 5 connections, 0 committee overlaps ⚠️ CONFLICT
+- ConocoPhillips — 4 connections, 3 committee overlaps ⚠️ CONFLICT
+- Marco Rubio — 2 connections, 0 committee overlaps
+- Samuel Alito — 2 connections, 0 committee overlaps
+- Clarence Thomas — 2 connections, 0 committee overlaps
+- Uber — 2 connections, 0 committee overlaps
+- Blue Shield of California — 10 connections, 9 committee overlaps ⚠️ CONFLICT
+- Bacardi - Bacardi USA — 5 connections, 3 committee overlaps
+- Harold Hamm — 2 connections, 0 committee overlaps
+- Centene Corporation — 2 connections, 0 committee overlaps
+- Cambridge Analytica and the Data Weaponization of Elections — 3 connections, 1 committee overlaps
+- Jon Husted — 1 connections, 0 committee overlaps
+- Mitch McConnell — 2 connections, 0 committee overlaps
+- Gary Peters — 1 connections, 3 committee overlaps ⚠️ CONFLICT
+- Citigroup — 4 connections, 3 committee overlaps ⚠️ CONFLICT
+- Condoleezza Rice — 1 connections, 0 committee overlaps
+- John Ratcliffe — 2 connections, 0 committee overlaps
+- CTA - California Teachers Association — 2 connections, 0 committee overlaps
+- Booz Allen Hamilton — 1 connections, 0 committee overlaps
+- BAE Systems — 1 connections, 3 committee overlaps ⚠️ CONFLICT
+- Raytheon (RTX Corporation) — 21 connections, 13 committee overlaps ⚠️ CONFLICT
+- Jodey Arrington — 1 connections, 2 committee overlaps
+- Jared Kushner — 1 connections, 0 committee overlaps
+- MasTec - Mas Canosa Family — 3 connections, 1 committee overlaps ⚠️ CONFLICT
+- Fraternal Order of Police — 8 connections, 3 committee overlaps
+- American Farm Bureau Federation — 2 connections, 2 committee overlaps ⚠️ CONFLICT
+- Blackstone Group — 4 connections, 1 committee overlaps ⚠️ CONFLICT
+- ADM - Archer Daniels Midland — 1 connections, 1 committee overlaps ⚠️ CONFLICT
+- General Motors — 2 connections, 0 committee overlaps
+- Stand Together — 1 connections, 0 committee overlaps
+- John Roberts — 1 connections, 0 committee overlaps
+- National Progressive Donor Networks — 2 connections, 0 committee overlaps
+- Bill Cassidy — 2 connections, 0 committee overlaps
+- Mike Pompeo — 1 connections, 0 committee overlaps
+- Ohio Democratic Party — 3 connections, 0 committee overlaps
+- Thom Tillis — 2 connections, 0 committee overlaps
+- Chevron — 5 connections, 0 committee overlaps
 - Devon Energy — 3 connections, 0 committee overlaps ⚠️ CONFLICT
+- Goldman Sachs — 5 connections, 5 committee overlaps ⚠️ CONFLICT
+- Ohio AFL-CIO — 1 connections, 0 committee overlaps
+- Pete Buttigieg — 1 connections, 0 committee overlaps
+- Neil Gorsuch — 2 connections, 0 committee overlaps
+- Chris Murphy — 2 connections, 3 committee overlaps ⚠️ CONFLICT
+- Amazon — 2 connections, 5 committee overlaps ⚠️ CONFLICT
+- Matt Mahan — 1 connections, 0 committee overlaps
+- Demand Justice — 1 connections, 0 committee overlaps
+- Chris Wright — 1 connections, 0 committee overlaps
 - California Restaurant Association — 1 connections, 0 committee overlaps
+- John Thune — 1 connections, 0 committee overlaps
+- Eric Swalwell — 1 connections, 0 committee overlaps
+- Mike Johnson — 1 connections, 0 committee overlaps
+- National Restaurant Association — 7 connections, 1 committee overlaps ⚠️ CONFLICT
+- Oracle — 1 connections, 0 committee overlaps
+- JPMorgan Chase — 5 connections, 6 committee overlaps ⚠️ CONFLICT
+- Telecom Industry — 1 connections, 1 committee overlaps ⚠️ CONFLICT
+- Chad Bianco — 1 connections, 0 committee overlaps
+- Gavin Newsom — 3 connections, 0 committee overlaps
+- GEO Group - Private Prison Industrial Complex — 5 connections, 0 committee overlaps ⚠️ CONFLICT
+- Real Estate Industry — 3 connections, 5 committee overlaps
+- JB Pritzker — 3 connections, 0 committee overlaps
+- American Petroleum Institute — 1 connections, 1 committee overlaps
+- Microsoft — 1 connections, 3 committee overlaps ⚠️ CONFLICT
+- Rand Paul — 2 connections, 0 committee overlaps
+- Doug Burgum — 2 connections, 0 committee overlaps
+- Jon Ossoff — 2 connections, 0 committee overlaps
+- Patrick Soon-Shiong — 6 connections, 0 committee overlaps
+- Tony Thurmond — 1 connections, 0 committee overlaps
+- Apple — 2 connections, 5 committee overlaps ⚠️ CONFLICT
+- PhRMA - Pharmaceutical Research and Manufacturers of America — 6 connections, 8 committee overlaps ⚠️ CONFLICT
+- John Boehner — 1 connections, 3 committee overlaps
+- World Liberty Financial — 4 connections, 0 committee overlaps
+- Frank Lucas — 1 connections, 1 committee overlaps ⚠️ CONFLICT
+- National Nurses United — 6 connections, 3 committee overlaps ⚠️ CONFLICT
+- Craft Ventures — 1 connections, 0 committee overlaps
+- Brett Kavanaugh — 1 connections, 0 committee overlaps
+- Jim Jordan — 1 connections, 1 committee overlaps
+- Harlan Crow — 2 connections, 1 committee overlaps
+- Insurance Industry — 11 connections, 8 committee overlaps
+- Brian Schatz — 1 connections, 2 committee overlaps
+- Betty Yee — 1 connections, 0 committee overlaps
+- Ron DeSantis — 1 connections, 0 committee overlaps
+- Amy Coney Barrett — 1 connections, 0 committee overlaps
+- Bradley Foundation — 1 connections, 0 committee overlaps
+- Greg Abbott — 2 connections, 0 committee overlaps
+- Wes Moore — 2 connections, 0 committee overlaps
+- Everytown for Gun Safety — 2 connections, 1 committee overlaps ⚠️ CONFLICT
+- Media Matters — 2 connections, 0 committee overlaps
+- Tom Cotton — 1 connections, 0 committee overlaps
+- Lyft — 1 connections, 0 committee overlaps
+- Mallory McMorrow — 1 connections, 0 committee overlaps
 
 **Conflicts detected: 54** (see `pending-merge` blocks in the listed profiles)
 

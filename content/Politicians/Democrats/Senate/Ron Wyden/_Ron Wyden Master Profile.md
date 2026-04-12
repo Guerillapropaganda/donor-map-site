@@ -2,6 +2,7 @@
 title: "Ron Wyden"
 type: politician
 content-readiness: draft
+central-thesis: "Wyden is the reform Democrat whose reforms never pass. His brand is powerful: privacy crusader, billionaire tax champion, surveillance opponent, tech-accountability advocate. He has introduced the Billionaires Income Tax at least four times (2021,..."
 last-updated: 2026-04-12
 source-tier: 1
 parent: null

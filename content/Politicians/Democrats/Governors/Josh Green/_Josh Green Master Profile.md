@@ -2,6 +2,7 @@
 title: "Josh Green Master Profile"
 type: politician
 content-readiness: draft
+central-thesis: "Josh Green represents a different political archetype than Abbott or Sanders: he is not a donor-captured politician in the traditional sense. Instead, Green embodies the donor-embedded expert — a politician whose professional expertise (medicine) ..."
 last-updated: 2026-04-09
 source-tier: 1
 parent: null

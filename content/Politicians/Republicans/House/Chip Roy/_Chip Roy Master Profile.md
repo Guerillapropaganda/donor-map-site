@@ -2,6 +2,7 @@
 title: "Chip Roy Master Profile"
 type: politician
 content-readiness: draft
+central-thesis: "Roy is the House Republican who most consistently applies fiscal conservatism against his own party's spending — but the consistency stops at revenue. He opposes government spending programs, bipartisan omnibus bills, and even Trump-backed reconci..."
 last-updated: 2026-04-10
 source-tier: 1
 parent: null

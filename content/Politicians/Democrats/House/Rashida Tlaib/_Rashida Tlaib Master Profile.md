@@ -2,6 +2,7 @@
 title: "Rashida Tlaib"
 type: politician
 content-readiness: draft
+central-thesis: "Tlaib represents the intersection of Palestinian-American identity politics and working-class Detroit economics — a combination that makes her impossible for AIPAC to defeat in her district but perpetually marginalized within the Democratic caucus..."
 last-updated: 2026-04-11
 source-tier: 1
 parent: null

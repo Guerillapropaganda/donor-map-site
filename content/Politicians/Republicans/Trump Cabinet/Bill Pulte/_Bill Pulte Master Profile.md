@@ -2,6 +2,7 @@
 title: "Bill Pulte"
 type: politician
 content-readiness: draft
+central-thesis: "Pulte is a trust fund heir who leveraged inherited wealth into a political brand (Twitter philanthropy, Trump loyalty) and then into a regulatory position (FHFA Director) where he controls Fannie Mae and Freddie Mac — the entities that backstop th..."
 last-updated: 2026-04-02
 source-tier: 1
 parent: null

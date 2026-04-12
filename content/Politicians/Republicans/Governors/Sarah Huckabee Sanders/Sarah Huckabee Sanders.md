@@ -2,6 +2,7 @@
 title: "Sarah Huckabee Sanders"
 type: sub-note
 content-readiness: ready
+central-thesis: "Sanders converted Trump White House proximity into political capital, then deployed that capital to win Arkansas governorship with content-readiness: ready3M fundraising (record for state). Her donor base splits between national Trump networks (small-dollar MAGA base) ..."
 last-updated: 2026-04-08
 source-tier: 1
 parent: [[_Sarah Huckabee Sanders Master Profile]]

@@ -2,6 +2,7 @@
 title: "Tammy Baldwin Master Profile"
 type: politician
 content-readiness: draft
+central-thesis: "### Baldwin is the rare progressive who wins in a swing state by anchoring her progressive economic agenda to specific Wisconsin industries — dairy, manufacturing, healthcare — rather than abstract ideology. Her donor architecture reveals the stru..."
 last-updated: 2026-04-10
 source-tier: 1
 parent: null

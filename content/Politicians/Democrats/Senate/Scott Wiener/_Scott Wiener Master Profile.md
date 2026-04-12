@@ -2,6 +2,7 @@
 title: "Scott Wiener"
 type: politician
 content-readiness: draft
+central-thesis: "Wiener is the YIMBY movement's legislative champion — a pro-housing Democrat whose landmark bills (SB 35, SB 50, SB 827) have reshaped California development policy. But his funding reveals the core tension: over $500K from real estate interests a..."
 last-updated: 2026-04-07
 source-tier: 1
 parent: null

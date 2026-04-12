@@ -2,6 +2,7 @@
 title: "Colin Powell"
 type: politician
 content-readiness: draft
+central-thesis: "Colin Powell's career demonstrates how credibility operates as political currency for the donor class. His military authority, his status as 'the most trusted man in America,' and his African American identity made him uniquely valuable to the Bus..."
 last-updated: 2026-04-07
 source-tier: 1
 parent: null

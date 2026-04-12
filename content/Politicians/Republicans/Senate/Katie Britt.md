@@ -1,7 +1,10 @@
 ---
 title: "Katie Britt"
 type: politician
+chamber: "Senate"
+party: "Republican"
 content-readiness: draft
+central-thesis: "Katie Britt is the Republican donor class's manufactured rising star. She did not build a political movement, cultivate grassroots support, or develop an independent power base. She was built from component parts by the Alabama business lobby. She..."
 last-updated: 2026-04-06
 source-tier: 1
 parent: null
@@ -23,21 +26,21 @@ donors: [[Business Council of Alabama]] · [[Alabama Power]] · [[Drummond Co|Dr
 
 ---
 
-### Who They Are
+## Who They Are
 
 Katie Britt. U.S. Senator from Alabama (2023–present). Age 42. Youngest Republican woman ever elected to the Senate (2022, age 40). Former chief of staff to Richard Shelby (Appropriations Committee Chair, 2016-2018). Former president and CEO of the Business Council of Alabama (2019-2021). Master's degree in business administration. Career arc: staff → corporate lobby → Senate seat. Her entire political ascent was engineered by Alabama's business establishment and transferred directly from Shelby's donor network to her own.
 
-### The Central Thesis
+## The Central Thesis
 
 Katie Britt is the Republican donor class's manufactured rising star. She did not build a political movement, cultivate grassroots support, or develop an independent power base. She was built from component parts by the Alabama business lobby. Shelby's appropriations power translated to donor access; the Business Council of Alabama gave her credibility with corporate interests; McConnell's Super PAC and donor network provided the muscle; and Shelby's network did the fundraising. Britt is the clearest possible case study of how the Republican Party donor class manufactures senate-ready candidates to ensure legislative loyalty. She was not elected because she had ideas or a vision — she was elected because she had a functioning transfer pipeline from corporate boardrooms to legislative power.
 
-### The Core Contradiction
+## The Core Contradiction
 
 Britt claims to represent Alabama workers and small business interests. Her messaging: fight for working families, reduce government burden on business, support local Alabama companies. Yet her donors are Alabama's largest corporations (Alabama Power, Drummond coal), and her policy alignment is with corporate interests, not small business. Her husband works as a lobbyist. She came directly from running a corporate lobby. Her primary base is not grassroots; it is donor money flowing through McConnell's infrastructure and Shelby's network.
 
 The contradiction surfaces most clearly in the 2024 SOTU response — a moment meant to showcase her as a political voice for working families. The response was widely mocked for its melodramatic delivery (telling an implausible story about working multiple jobs while malnourished). The moment exposed the mismatch: Britt was not a naturally credible working-class voice because her actual career was running a corporate lobby. She was performing the role while her actual function was corporate representation.
 
-### Donor Class Map
+## Donor Class Map
 
 | Date | Event/Contribution | Amount | Policy Action/Outcome | Time Gap |
 |------|------|------|------|------|
@@ -55,7 +58,7 @@ The contradiction surfaces most clearly in the 2024 SOTU response — a moment m
 > [!money]
 > **Richard Shelby's donor network ($1M+ 2022) transferred Britt directly from corporate lobby CEO to Senate seat; McConnell [[Senate Leadership Fund|Senate Leadership Fund]] added $2M+ and energy industry donors $200K+.** Britt's entire political ascent was engineered by Alabama's business establishment: Shelby's chief of staff (2016-2018) → Business Council of Alabama CEO representing Alabama Power and Drummond coal (2019-2021) → Senate seat funded by that same donor base (2022). She was not elected because she had a constituency; she was transferred because her donor network lined up. Her voting record (oil & gas, defense spending, anti-labor) mirrors the Business Council of Alabama agenda. She is the clearest possible case of donor-class manufacturing of senate-ready candidates.
 
-### Analytical Patterns
+## Analytical Patterns
 
 **The Genuine Win + Structural Limit** — Britt has secured genuine policy victories on defense spending, energy sector interests, and corporate deregulation that benefit her donors (Alabama Power, Drummond coal, defense contractors). These wins are real and material. However, they stop short of threatening the wealth concentration architecture itself: spending flows to established defense contractors rather than challenging military-industrial market concentration, energy policy protects fossil fuel extraction rights rather than challenging energy oligopoly structure.
 
@@ -105,7 +108,7 @@ When Britt moved from BCA to the Senate, she carried that donor list and alignme
 - **Taxes:** Supports corporate tax cuts and opposes tax increases on wealthy
 - **Environmental:** Opposes climate-related regulations that would affect energy industry
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 1. **The Business Credibility Claim:** Britt constantly invokes her CEO background as evidence of competence and practical understanding of business needs. The claim obscures that she was a corporate lobby CEO, not a job creator or builder.
 

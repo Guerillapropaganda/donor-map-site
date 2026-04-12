@@ -2,6 +2,7 @@
 title: "Alexander Acosta Master Profile"
 type: politician
 content-readiness: draft
+central-thesis: "Acosta is the vault's clearest example of the Federalist Society pipeline producing consequences that extend beyond judicial philosophy. His appointment as Labor Secretary was a product of the same network — Federalist Society membership, Republic..."
 last-updated: 2026-04-08
 source-tier: 1
 parent: null

@@ -2,6 +2,7 @@
 title: "Brendan Boyle"
 type: politician
 content-readiness: draft
+central-thesis: "Brendan Boyle is the Budget Committee's working-class Democrat — funded by labor unions, trial lawyers, and the Philadelphia Democratic machine rather than Wall Street or corporate PACs. His donor profile reflects Philadelphia ward politics more t..."
 last-updated: 2026-04-12
 source-tier: 1
 parent: null

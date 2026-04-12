@@ -2,6 +2,7 @@
 title: "Sherrod Brown"
 type: politician
 content-readiness: draft
+central-thesis: "Brown represents the structural ceiling of labor-backed politics in post-2020 America. Despite being the Senate's most pro-labor voting record, highest AFL-CIO rating, strongest defense of trade protections for manufacturing workers, and deepest r..."
 last-updated: 2026-04-12
 source-tier: 1
 parent: null
@@ -77,19 +78,19 @@ donors: [[Teamsters - International Brotherhood of Teamsters]]
 
 ---
 
-### Who They Are
+## Who They Are
 
 Sherrod Brown. U.S. Senator from Ohio (2007–2025). Former U.S. Representative (1993–2007). The last statewide Democrat to win in Ohio. Labor populist — trade skeptic, union ally, opponent of corporate consolidation, critic of China trade policies. His defeat in 2024 to crypto-backed Republican Bernie Moreno ended the era of Democratic viability in Ohio and exemplifies how donor-class capital can outspend labor movements 4-to-1 and win.
 
-### Central Thesis — The Labor Populist Outspent by Crypto Capital
+## Central Thesis — The Labor Populist Outspent by Crypto Capital
 
 Brown represents the structural ceiling of labor-backed politics in post-2020 America. Despite being the Senate's most pro-labor voting record, highest AFL-CIO rating, strongest defense of trade protections for manufacturing workers, and deepest relationships with Ohio's union base, he was demolished by a coordinated crypto industry campaign that treated his seat as an industry test case. His loss proves: labor money cannot survive when billionaire industries decide a politician is an enemy. Brown's 18-year Senate tenure built a genuine working-class legislative record. His 2024 defeat — despite vastly outraising his opponent early in the cycle — reveals that campaign cash advantage means nothing when an entire industry sector decides to target you.
 
-### Core Contradiction — Labor Champion Who Couldn't Win Elections
+## Core Contradiction — Labor Champion Who Couldn't Win Elections
 
 Brown achieved genuine legislative wins for workers: USMCA labor enforcement provisions (Brown-Wyden amendment), opposition to corporate trade deals, Senate Banking Committee work on manufacturing. Yet every win was constrained by institutional limits he couldn't transcend. While championing trade protections, he couldn't prevent deindustrialization. While defending union rights, he operated inside a Senate that served corporate interests. His 2024 loss reveals the real contradiction: labor movements cannot own politicians the way donors own them. Unions endorsed him. Crypto industries bought his opponent's campaign. Crypto won.
 
-### Donor Class Map
+## Donor Class Map
 
 | Date | Event/Contribution | Amount | Policy Action/Outcome | Time Gap |
 |------|-------------------|--------|----------------------|----------|
@@ -112,7 +113,7 @@ Fairshake, a super PAC backed by Coinbase, jump Capital, and other crypto intere
 
 Brown's response was muted. He had no equivalent funding mechanism. Labor unions can produce volunteers, ground game, and messaging, but they cannot match billionaire-class capital deployment. By mid-October, the crypto campaign had saturated Ohio with advertising in the final six weeks of the race.
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 **The Manufacturing Defender (2007–2024):** Brown built his brand on defending Ohio manufacturing jobs against corporate trade deals and China competition. This was genuine—his voting record matched his rhetoric. He voted against every major trade agreement until USMCA, which he supported because of labor enforcement provisions he secured.
 
@@ -123,7 +124,7 @@ Brown's response was muted. He had no equivalent funding mechanism. Labor unions
 > [!contradiction]
 > **The labor champion defeated by billionaire industry capital despite genuine pro-worker voting record.** Brown had 19 consecutive AFL-CIO 100% ratings, defended manufacturing jobs, opposed corporate trade deals—a genuine legislative record for workers. Yet when crypto industry decided he was a threat to deregulation, they deployed $40M+ (Fairshake $25M+) specifically targeting him—more than 4x spending against any other 2024 Senate target. His labor base could not match billionaire industry capital. The contradiction: even genuine labor champions face structural ceilings when donor-class industries decide they're enemies. Labor movements can fund activism, but they cannot survive billionaire industries willing to invest $40M to eliminate them.
 
-### Analytical Patterns
+## Analytical Patterns
 
 **The Genuine Win + Structural Limit** — Brown's legislative record on labor (19 consecutive AFL-CIO 100% ratings) represents genuine working-class policy victories: trade skepticism, manufacturing defense, union advocacy. These are real, structural positions that distinguished him from centrist Democrats. However, the structural limit is visible in his 2024 defeat: despite genuine labor credentials and years of pro-worker voting, he could not survive when a billionaire industry (crypto) decided he was an enemy and invested $40M to remove him. The limit: labor movements can fund activism and grassroots, but they cannot match billionaire-class capital deployment in electoral contests.
 

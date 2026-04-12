@@ -2,6 +2,7 @@
 title: "Andy Beshear Master Profile"
 type: politician
 content-readiness: draft
+central-thesis: "Andy Beshear's success as a Democrat in deep-red Kentucky is real — and the donor-first analysis explains how. He wins by suppressing ideological contrast: off-year elections that reduce Trump turnout, crisis governance (COVID, tornadoes) that ope..."
 last-updated: 2026-03-24
 source-tier: 1
 parent: null

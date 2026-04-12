@@ -4,6 +4,7 @@ type: state-politician
 current-office: "Iowa State Senator (2019–present)"
 candidate-for: "US Senate 2026 (IA, Democratic primary)"
 content-readiness: draft
+central-thesis: "Iowa is a long-shot Democratic pickup, but Zach Wahls represents the Democratic Party's *bet* that a Warren-endorsed, small-dollar funded, LGBTQ+ and progressive candidate can compete in a deep-red state that voted for Obama twice, then Trump twic..."
 last-updated: '2026-04-11'
 source-tier: 1
 parent: null

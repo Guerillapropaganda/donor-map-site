@@ -2,6 +2,7 @@
 title: "Mike Collins Master Profile"
 type: politician
 content-readiness: draft
+central-thesis: "Mike Collins is a cargo-cult populist being bankrolled by two mega-donor blocs (crypto and pro-Israel) who have nothing to do with his trucking company base or Trump movement roots. He is running as an 'America First trucker,' but his campaign is ..."
 last-updated: 2026-04-07
 source-tier: 1
 parent: null

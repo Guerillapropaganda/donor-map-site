@@ -2,6 +2,7 @@
 title: "Brian Babin"
 type: politician
 content-readiness: draft
+central-thesis: "Brian Babin is a dentist from the most petrochemical-dense congressional district in America who now chairs the committee that oversees federal climate science. His first year as chairman has been dedicated to dismantling climate research infrastr..."
 last-updated: "2026-04-05"
 source-tier: 1
 parent: null

@@ -2,6 +2,7 @@
 title: "Cori Bush"
 type: politician
 content-readiness: draft
+central-thesis: "Bush's political trajectory is a case study in how the donor class neutralizes progressive insurgents through a multi-pressure vector strategy. The triggering event is legible in the Congressional record: on October 25, 2023, Bush introduced H.Res..."
 last-updated: 2026-04-12
 source-tier: 1
 parent: null
