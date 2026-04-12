@@ -3,10 +3,11 @@ title: "Juliana Stratton"
 type: sub-note
 content-readiness: ready
 central-thesis: "Stratton's Senate victory reveals the mechanics of gubernatorial power in state politics: billionaire governors can effectively 'anoint' Senate successors through Super PAC money. Her campaign embodies the donor-first model of American politics, s..."
-last-updated: 2026-04-08
+last-updated: 2026-04-12
 source-tier: 1
 parent: [[_Juliana Stratton Master Profile]]
-related: "[[The Pritzker Machine and Illinois Democratic Power]] · [[Illinois Senate Primary Money War]] · [[Crypto vs. Institutional Democrats in Illinois]] · [[Corporate PAC Pledge and Its Limits]] · [[Dick Durbin]] · [[_JB Pritzker Master Profile|JB Pritzker]] · [[_Raja Krishnamoorthi Master Profile|Raja Krishnamoorthi]]"
+related: "[[The Pritzker Machine and Illinois Democratic Power]] · [[Illinois Senate Primary Money War]] · [[Crypto vs. Institutional Democrats in Illinois]] · [[Corporate PAC Pledge and Its Limits]] · [[Dick Durbin]] · [[_JB Pritzker Master Profile|JB Pritzker]] · [[_Raja Krishnamoorthi Master Profile|Raja Krishnamoorthi]] · [[Fairshake PAC]]"
+donors: "[[Illinois Future PAC]]"
 ---
 #politician #democrat #senate #illinois #2026-candidate #black-woman-senator
 tags: #democrat

@@ -5,7 +5,7 @@ content-readiness: ready
 last-updated: 2026-04-12
 source-tier: 1
 parent: [[_Alexander Acosta Master Profile]]
-related: "[[Timothy Mellon Funds Trump and RFK Jr Simultaneously]] · [[_Donald Trump Master Profile]] · [[Koch Network - Charles Koch]] · [[_Greg Abbott Master Profile|Greg Abbott]] · [[IBEW - International Brotherhood of Electrical Workers]] · [[The Iran War - Defense Donors and the DOGE Readiness Gap]] · [[The Iran War Money Trail - From Adelson to Airstrikes]] · [[Project 2025 - The Blueprint They Followed]] · [[Environment - Donors and Backers]] · [[Elliott Management]] · [[Harold Hamm]]"
+related: "[[Timothy Mellon Funds Trump and RFK Jr Simultaneously]] · [[_Donald Trump Master Profile]] · [[Koch Network - Charles Koch]] · [[_Greg Abbott Master Profile|Greg Abbott]] · [[IBEW - International Brotherhood of Electrical Workers]] · [[The Iran War - Defense Donors and the DOGE Readiness Gap]] · [[The Iran War Money Trail - From Adelson to Airstrikes]] · [[Project 2025 - The Blueprint They Followed]] · [[Environment - Donors and Backers]] · [[Elliott Management]] · [[Harold Hamm]] · [[Elon Musk]]"
 ---
 #trump #fossil-fuel #deregulation #climate #class-analysis #follow-the-money #EPA #drilling #emissions #energy-emergency
 

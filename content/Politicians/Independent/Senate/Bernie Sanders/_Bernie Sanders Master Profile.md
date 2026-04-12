@@ -3,7 +3,7 @@ title: "Bernie Sanders Master Profile"
 type: politician
 content-readiness: draft
 central-thesis: "Sanders is the vault's exception — the politician who built a funding model independent of the donor class and ran it at presidential scale. Twice. The exception proves the rule: the institutional Democratic Party mobilized every available mechani..."
-last-updated: 2026-04-11
+last-updated: 2026-04-12
 source-tier: 1
 parent: null
 party: "Independent"
@@ -44,7 +44,7 @@ known-gaps:
   - "GovTrack voting record not yet populated (awaits pipeline run)"
   - "FEC auto-block shows cycle 2006 with $4,189 raised — stale data; 2016 presidential ($237M) and 2020 presidential ($250M+) cycles not yet surfaced in auto-block"
   - "Sub-notes (Anti-Donor Model, Medicare for All, AIPAC Progressive Purge, Senate Labor Record) referenced in body but not yet linked as sub-profiles"
-related: "[[_Elizabeth Warren Master Profile|Elizabeth Warren]] · [[_Alexandria Ocasio-Cortez Master Profile|AOC]] · [[_Rashida Tlaib Master Profile|Tlaib]] · [[_Ilhan Omar Master Profile|Omar]] · [[_Cori Bush Master Profile|Cori Bush]] · [[_Jamaal Bowman Master Profile|Jamaal Bowman]] · [[_Summer Lee Master Profile|Summer Lee]] · [[Justice Democrats and Brand New Congress - The Infrastructure He Built|Justice Democrats]] · [[CNA - California Nurses Association]] · [[SEIU - Service Employees International Union]] · [[Teamsters - International Brotherhood of Teamsters]] · [[IBEW - International Brotherhood of Electrical Workers]] · [[AIPAC - American Israel Public Affairs Committee]] · [[DMFI - Democratic Majority for Israel]] · [[Koch Network - Charles Koch]] · [[Michael Bloomberg]] · [[ActBlue]] · [[UnitedHealth Group - Optum]] · [[Kaiser Permanente]]"
+related: "[[_Elizabeth Warren Master Profile|Elizabeth Warren]] · [[_Alexandria Ocasio-Cortez Master Profile|AOC]] · [[_Rashida Tlaib Master Profile|Tlaib]] · [[_Ilhan Omar Master Profile|Omar]] · [[_Cori Bush Master Profile|Cori Bush]] · [[_Jamaal Bowman Master Profile|Jamaal Bowman]] · [[_Summer Lee Master Profile|Summer Lee]] · [[Justice Democrats and Brand New Congress - The Infrastructure He Built|Justice Democrats]] · [[CNA - California Nurses Association]] · [[SEIU - Service Employees International Union]] · [[Teamsters - International Brotherhood of Teamsters]] · [[IBEW - International Brotherhood of Electrical Workers]] · [[AIPAC - American Israel Public Affairs Committee]] · [[DMFI - Democratic Majority for Israel]] · [[Koch Network - Charles Koch]] · [[Michael Bloomberg]] · [[ActBlue]] · [[UnitedHealth Group - Optum]] · [[Kaiser Permanente]] · [[Blue Shield of California]]"
 opposes:
   - "AIPAC (Israel lobby spending, progressive primary purges)"
   - "Corporate PACs (refuses all corporate PAC money)"

@@ -10,7 +10,7 @@ source-types:
 known-gaps:
   - "No mapped relationships"
 
-related: "[[ExxonMobil]]"
+related: "[[ExxonMobil]] · [[ConocoPhillips]]"
 ---
 
 #2026-election #senate #alaska #race-frame

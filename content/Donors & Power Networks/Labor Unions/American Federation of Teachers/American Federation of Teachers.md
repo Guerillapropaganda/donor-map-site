@@ -11,7 +11,7 @@ known-gaps:
   - "No lobbying data"
   - "No mapped relationships"
 source-types: []
-related: "[[Economic Policy Institute]]"
+related: "[[Economic Policy Institute]] · [[Ohio Federation of Teachers]]"
 ---
 
 # American Federation of Teachers

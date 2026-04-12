@@ -35,7 +35,7 @@ nhtsa-recalls: 0
 nhtsa-complaints: 0
 lei: "8SVCSVKSGDWMW2QHOH83"
 lei-jurisdiction: "GB"
-related: "[[Raytheon (RTX Corporation)]] · [[The Foreign Relations Committee and Defense-Diplomacy Axis]] · [[Lockheed Martin]] · [[General Dynamics]] · [[Raytheon (RTX)|Raytheon]] · [[_Jeanne Shaheen Master Profile|Shaheen]] · [[Raytheon Technologies]] · [[Palantir Technologies]] · [[Palantir Technologies Political Operation]] · [[Northrop Grumman]] · [[Valero Energy]] · [[Occidental Petroleum]]"
+related: "[[Raytheon (RTX Corporation)]] · [[The Foreign Relations Committee and Defense-Diplomacy Axis]] · [[Lockheed Martin]] · [[General Dynamics]] · [[Raytheon (RTX)|Raytheon]] · [[_Jeanne Shaheen Master Profile|Shaheen]] · [[Raytheon Technologies]] · [[Palantir Technologies]] · [[Palantir Technologies Political Operation]] · [[Northrop Grumman]] · [[Valero Energy]] · [[Occidental Petroleum]] · [[WSPA - Western States Petroleum Association]]"
 nonprofit-status: "501(c)(9)"
 total-revenue: 534243661
 total-assets: 33156493

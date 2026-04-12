@@ -85,7 +85,7 @@ regulatory-agencies:
   - "Interior Department"
   - "Pipeline and Hazardous Materials Safety Administration"
   - "Transportation Department"
-related: "[[Agricultural Labor Vulnerability Donors]] · [[_Gavin Newsom Master Profile]] · [[Farmworker Union Rights - AB 2183 Veto and Reversal]] · [[H-2A Guest Worker Pipeline and Farmworker Vulnerability]] · [[Immigration - Donors and Backers]] · [[Labor - Donors and Backers]] · [[California Farm Bureau Federation]] · [[Haim Saban]] · [[JPAC - Jewish Public Affairs Committee of California]] · [[JCRC Bay Area]] · [[J Street]] · [[Christians United for Israel]] · [[American Friends of the Likud]]"
+related: "[[Agricultural Labor Vulnerability Donors]] · [[_Gavin Newsom Master Profile]] · [[Farmworker Union Rights - AB 2183 Veto and Reversal]] · [[H-2A Guest Worker Pipeline and Farmworker Vulnerability]] · [[Immigration - Donors and Backers]] · [[Labor - Donors and Backers]] · [[California Farm Bureau Federation]] · [[Haim Saban]] · [[JPAC - Jewish Public Affairs Committee of California]] · [[JCRC Bay Area]] · [[J Street]] · [[Christians United for Israel]] · [[American Friends of the Likud]] · [[AIPAC - American Israel Public Affairs Committee]]"
 cross-vault-triangulation-count: 10
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
   • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.

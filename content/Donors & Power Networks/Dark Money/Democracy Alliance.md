@@ -14,7 +14,7 @@ politicians-funded:
 issues:
   - "Dark Money & Campaign Finance"
 total-political-spend: "$116,675"
-related: "[[New Venture Fund]] · [[Tammy Duckworth]] · [[The Post-Presidency Capitalization - From Hope and Change to Martha's Vineyard]] · [[Center on Budget and Policy Priorities]] · [[Third Way]] · [[Tim Walz]] · [[Barack Obama Master Profile]] · [[Organizing for Action]] · [[George Soros]] · [[_Tom Steyer Master Profile|Tom Steyer]] · [[Arabella Advisors]] · [[Sixteen Thirty Fund]] · [[Media Matters]] · [[Center for American Progress]] · [[America Votes]] · [[Open Society Foundations]] · [[Ocean Conservancy]] · [[National Progressive Donor Networks]] · [[Trial Lawyers Fund]]"
+related: "[[New Venture Fund]] · [[Tammy Duckworth]] · [[The Post-Presidency Capitalization - From Hope and Change to Martha's Vineyard]] · [[Center on Budget and Policy Priorities]] · [[Third Way]] · [[Tim Walz]] · [[Barack Obama Master Profile]] · [[Organizing for Action]] · [[George Soros]] · [[_Tom Steyer Master Profile|Tom Steyer]] · [[Arabella Advisors]] · [[Sixteen Thirty Fund]] · [[Media Matters]] · [[Center for American Progress]] · [[America Votes]] · [[Open Society Foundations]] · [[Ocean Conservancy]] · [[National Progressive Donor Networks]] · [[Trial Lawyers Fund]] · [[Legal Sector Donors]]"
 ein: "204366413"
 nonprofit-status: "501(c)(4)"
 last-enriched: "2026-04-09"

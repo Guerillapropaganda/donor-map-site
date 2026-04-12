@@ -28,7 +28,7 @@ top-donors:
 known-gaps:
   - "Committee assignments data missing"
   - "Bills sponsored count needs re-enrichment"
-last-enriched: "2026-04-09"
+last-enriched: "2026-04-12"
 related: "[[_Nancy Pelosi Master Profile]] · [[AIPAC - American Israel Public Affairs Committee]]"
 needs-reenrichment: true
 reenrich-reason: "run committee pipeline; re-run congress pipeline for bills count"
@@ -270,6 +270,11 @@ The final-years cognitive decline exposes the class infrastructure beneath the i
 <!-- auto:voting-record end -->
 
 ### Committee Assignments (Congress.gov)
+<!-- auto:committee-assignments start -->
+_No committee data found._
+
+- [Source: Congress.gov](https://www.congress.gov/member/F000062) (Tier 1)
+<!-- auto:committee-assignments end -->
 <!-- Committee data pending pipeline re-enrichment. bioguide-id F000062 added 2026-04-12. -->
 
 ### DOJ Press Releases

@@ -6,7 +6,7 @@ last-updated: 2026-04-12
 source-tier: 2
 parent: null
 category: centrist
-related: "[[Joe Rogan]] · [[Bill Maher]] · [[Megyn Kelly]] · [[_Media Pipeline Framework]] · [[Tucker Carlson]] · [[Tim Pool]] · [[Steven Crowder]] · [[Rumble]] · [[The Platform Dependency Spectrum — Revenue Vulnerability Across Political Media]] · [[Tenet Media]] · [[Matt Walsh]] · [[Jordan Peterson]] · [[Sean Hannity]] · [[Patrick Bet-David]] · [[Mark Levin]] · [[Laura Ingraham]] · [[Jesse Watters]] · [[James O'Keefe]] · [[Greg Gutfeld]] · [[Dave Rubin]] · [[Dan Bongino]] · [[Michael Knowles]] · [[Jeremy Boreing]] · [[The Daily Wire]] · [[Christopher Rufo]] · [[Charlie Kirk]] · [[Jimmy Dore]] · [[Candace Owens]] · [[Ben Shapiro]] · [[Andrew Klavan]] · [[TYT Network - The Young Turks]] · [[Sam Seder]] · [[Rachel Maddow]]"
+related: "[[Joe Rogan]] · [[Bill Maher]] · [[Megyn Kelly]] · [[_Media Pipeline Framework]] · [[Tucker Carlson]] · [[Tim Pool]] · [[Steven Crowder]] · [[Rumble]] · [[The Platform Dependency Spectrum — Revenue Vulnerability Across Political Media]] · [[Tenet Media]] · [[Matt Walsh]] · [[Jordan Peterson]] · [[Sean Hannity]] · [[Patrick Bet-David]] · [[Mark Levin]] · [[Laura Ingraham]] · [[Jesse Watters]] · [[James O'Keefe]] · [[Greg Gutfeld]] · [[Dave Rubin]] · [[Dan Bongino]] · [[Michael Knowles]] · [[Jeremy Boreing]] · [[The Daily Wire]] · [[Christopher Rufo]] · [[Charlie Kirk]] · [[Jimmy Dore]] · [[Candace Owens]] · [[Ben Shapiro]] · [[Andrew Klavan]] · [[TYT Network - The Young Turks]] · [[Sam Seder]] · [[Rachel Maddow]] · [[Pod Save America]]"
 donors: "[[Marc Andreessen and a16z]] · [[Peter Thiel]] · [[Koch Network - Charles Koch]]"
 ---
 

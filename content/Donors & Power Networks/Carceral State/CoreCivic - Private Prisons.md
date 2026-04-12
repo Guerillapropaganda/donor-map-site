@@ -14,7 +14,7 @@ needs-reenrichment: true
 reenrich-reason: "run lda pipeline"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
-related: "[[Immigration Enforcement - The Detention Economy]] · [[Immigration - Donors and Backers]] · [[GEO Group - Private Prisons]] · [[Criminal Justice - Donors and Backers]] · [[GEO Group]] · [[Prison Policy Initiative]] · [[Fraternal Order of Police]] · [[CoreCivic]] · [[ViaPath Technologies - GTL]] · [[Securus Technologies - Aventiv]] · [[GEO Group - Private Prison Industrial Complex]] · [[Uber]] · [[CCPOA - California Correctional Peace Officers Association]]"
+related: "[[Immigration Enforcement - The Detention Economy]] · [[Immigration - Donors and Backers]] · [[GEO Group - Private Prisons]] · [[Criminal Justice - Donors and Backers]] · [[GEO Group]] · [[Prison Policy Initiative]] · [[Fraternal Order of Police]] · [[CoreCivic]] · [[ViaPath Technologies - GTL]] · [[Securus Technologies - Aventiv]] · [[GEO Group - Private Prison Industrial Complex]] · [[Uber]] · [[CCPOA - California Correctional Peace Officers Association]] · [[Aramark]]"
 cross-vault-triangulation-count: 9
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
   • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.

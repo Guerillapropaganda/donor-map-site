@@ -3,7 +3,7 @@ title: Barack Obama Master Profile
 type: politician
 content-readiness: draft
 central-thesis: "Obama is the master of the Two-Audience Problem: one message for progressive voters, one private reassurance for donors. His 2008 campaign promised 'hope and change' and ran against the financial sector's power. His private reassurance to bankers ..."
-last-updated: '2026-04-11'
+last-updated: 2026-04-12
 source-tier: 1
 parent: null
 party: Democrat
@@ -70,12 +70,7 @@ proclamations: 1230
 last-enriched: '2026-04-08'
 needs-reenrichment: true
 reenrich-reason: run voting pipeline; run congress pipeline
-related: >-
-  [[_Joe Biden Master Profile]] · [[_Kamala Harris Master Profile]] · [[_Nancy
-  Pelosi Master Profile]] · [[_Bernie Sanders Master Profile]] · [[_Gavin Newsom
-  Master Profile]] · [[Apple]] · [[Tim Geithner]] · [[Larry Summers]] ·
-  [[Insurance Industry Bloc]] · [[Pharmaceutical Industry]] · [[UnitedHealth
-  Group - Optum]] · [[Democracy Alliance]]
+related: ">- · [[UnitedHealth Group - Optum]]"
 ---
 #obama #master-profile #president #illinois #senate #class-analysis #follow-the-money #wall-street #silicon-valley #healthcare-donor-capture #two-audience-problem
 
