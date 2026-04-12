@@ -3,7 +3,7 @@ title: Session State
 type: system
 last-updated: 2026-04-12
 ---
-<!-- last session: Marathon: D3 graphs, money trail, 271 opposition edges, filter fixes, enrichment reporting, scripts Run buttons -->
+<!-- last session: Public tip submission system — Web3Forms + Cloudflare Worker + GitHub Action + Ops Tips page -->
 
 
 # Session State
@@ -13,6 +13,67 @@ Both Code Claude and Research Claude update this at the end of every session. Re
 ---
 
 ## Last Session
+Claude: Code
+Date: 2026-04-12 afternoon
+
+### Theme
+Built a complete public tip submission pipeline. Site visitors can now submit tips on any profile page, which flow through Web3Forms (email notification) → Cloudflare Worker relay → GitHub Action (workflow_dispatch) → vault file in `content/Admin Notes/Tips/`. Ops app gets a dedicated Tips page to review, action, or dismiss submissions.
+
+### Done — Public Tip Form (`quartz/components/TipForm.tsx`)
+- New Quartz component rendering on all profile pages (politician/donor/corporation)
+- Fields: email (required), category dropdown (5 options), tip text (20-2000 chars), profile name (auto-populated readonly)
+- Spam protection: honeypot field, 3-second time gate, 60-second localStorage rate limit
+- Posts to Web3Forms API (access key `651faf1b...` configured)
+- Brutalist dark card design matching Design System: `#0a0a0a` bg, `#fbbf24` yellow submit button, Space Mono labels, no rounded corners
+- Registered in `quartz/components/index.ts` and `quartz.layout.ts` (afterBody, after MobileProfile)
+- Commit `58243cd8`
+
+### Done — Cloudflare Worker relay (`scripts/tip-relay/worker.js`)
+- Deployed at `tiprelay.guerillapropaganda.workers.dev`
+- Receives Web3Forms webhook POST, reshapes payload, forwards to GitHub Actions `workflow_dispatch` API with auth
+- `GITHUB_PAT` stored as encrypted Cloudflare secret
+- David's Cloudflare account: `guerillapropaganda@proton.me`
+
+### Done — GitHub Action (`/.github/workflows/save-tip.yml`)
+- Triggers on `workflow_dispatch` (and `repository_dispatch` as fallback)
+- Writes tip as markdown file to `content/Admin Notes/Tips/` with frontmatter: type, tip-category, profile, submitter-email, status
+- Auto-commits and pushes to v4
+- End-to-end test confirmed: vault file `tip-2026-04-12-pipeline-test-mnw8umel.md` created successfully
+
+### Done — Ops Tips page (`ops/src/app/tips/page.tsx`)
+- New page at `/tips` in Ops app with sidebar entry "Public Tips" (mail icon)
+- Filter tabs: All / New / Reviewed / Actioned / Dismissed
+- Expandable tip cards with full message, submitter email, profile link, timestamps
+- Action buttons: Mark Reviewed, Mark Actioned, Dismiss, Delete
+- API: `ops/src/app/api/tips/route.ts` (GET/PUT/DELETE)
+- Status API wired for sidebar badge showing new tip count (`ops/src/app/api/status/route.ts`)
+
+### Done — Infrastructure
+- Web3Forms Starter plan ($49/year) — David upgraded during session
+- Cloudflare Workers free account created
+- GitHub fine-grained PAT "TIPRELAY" with Contents + Actions write permissions
+- `repository_dispatch` doesn't work on this repo (GitHub silently drops events). Switched to `workflow_dispatch` which works reliably.
+
+### Known issues / still outstanding
+- **Web3Forms webhook not yet configured** — David needs to set webhook URL to `tiprelay.guerillapropaganda.workers.dev` in Web3Forms dashboard → Integrations → Webhooks
+- **Profile pages 404 on live site** — separate issue, tip form verified working on local preview
+- **save-tip.yml "No jobs run" spam on push events** — cosmetic, these are harmless skips not real failures
+
+### Next session priorities
+1. **Configure Web3Forms webhook** — last step to complete the tip pipeline end-to-end from the live site
+2. **Alerts endpoint investigation** — debug `/api/alerts` counts, verify alert accuracy
+3. **Both-sides contradiction investigation** — profiles appearing in both opposes AND donors/related
+4. **Republican opposition edges** — mirror the Democrat treatment
+5. **Money trail enhancements** — search, sector filter, minimum connections filter
+
+### Session end state
+- **Pipeline fully tested**: form → Web3Forms → Cloudflare Worker → GitHub Action → vault file → Ops Tips page
+- **Commits**: `58243cd8`, `6bb00734`, `d66430f3`, `8b59fc1d`, `9859edb2`, `f7c7fcc1`
+- **Deploy**: `f8df5b1c` (run 24316157046, success)
+
+---
+
+## Previous Session
 Claude: Code + Research
 Date: 2026-04-12 (all day marathon session)
 
