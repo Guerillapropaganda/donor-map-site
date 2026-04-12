@@ -1,6 +1,15 @@
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
 import { simplifySlug } from "../util/path"
 import { classNames } from "../util/lang"
+// Phase 3 Part 4b: canonical per-profile relationship data from the JSONL edge store.
+import relationshipData from "../../data/relationships-per-profile.json"
+
+type RelEntry = { related: string[]; donors: string[]; "politicians-funded": string[]; opposes: string[]; stories: string[] }
+
+function getRels(title: string): RelEntry | null {
+  const normalized = title.replace(/^_/, "").replace(/\s*Master Profile.*/i, "").trim()
+  return (relationshipData as Record<string, RelEntry>)[normalized] ?? null
+}
 
 interface ProfileLink {
   name: string
@@ -44,7 +53,7 @@ const DiscoveryPanel: QuartzComponent = ({
     if (!fTitle) continue
 
     if (fSlug.startsWith("donors--and--power-networks/")) {
-      const pols = Array.isArray(fFm["politicians-funded"]) ? fFm["politicians-funded"] as string[] : []
+      const pols = getRels(fTitle)?.["politicians-funded"] ?? (Array.isArray(fFm["politicians-funded"]) ? fFm["politicians-funded"] as string[] : [])
       donorSlugs.set(fTitle, `${basePath}/${simplifySlug(f.slug!)}`)
       if (pols.length > 0) {
         donorToPols.set(fTitle, pols.map(p => ({
