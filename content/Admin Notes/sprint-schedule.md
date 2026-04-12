@@ -4,7 +4,7 @@ type: admin-note
 note-type: data
 priority: normal
 status: active
-last-updated: '2026-04-11'
+last-updated: '2026-04-12'
 sprint-id: "2026-04-sprint"
 sprint-start: '2026-04-10'
 sprint-end: '2026-04-30'
@@ -860,6 +860,39 @@ phase_1_tasks:
       notes: |
         New scripts/normalize-related-bidirectionality.cjs: scans the canonical JSONL, finds every active `related` edge A→B where no reverse B→A exists, upserts mirror edges with source "bidirectional-normalizer" (new enum value added to SOURCES in relationship-edge-validator.cjs). Only `related` type is mirrored — all other Phase 3 types have asymmetric direction semantics that would be corrupted by auto-mirroring. Aggregator exclusion filter: skips mirrors whose target would be a meta/story/event type (inbound-only surfaces). Run stats on 16,933 related edges: 8,580 already symmetric (50.7%), 3,869 aggregator skipped (22.8%), 4,484 mirrors created (26.5%), 0 self-loops. Store grew 19,849 → 24,333 edges all valid. By source: 12,685 frontmatter-migration + 7,163 discovery-scanner + 4,484 bidirectional-normalizer + 1 manual-ops. data/relationships-per-profile.json rebuilt from post-normalization JSONL: 1,746 profile entries (3 previously-isolated profiles now have inbound mirrors). Old frontmatter-based orphan detector still reports 4,643 — it reads frontmatter, not JSONL; canonical store IS symmetric now, frontmatter metric is stale until Part 4b lands.
 
+    - id: cc_65
+      task: "Phase 3 Part 4b: Quartz components read canonical relationship JSON"
+      status: done
+      completed_date: 2026-04-12
+      completed_at: "2026-04-11T21:00:00-07:00"
+      added_adhoc: true
+      commit: "8b707e38"
+      merge: "39de2c7a"
+      notes: |
+        quartz/components/ProfileWidget.tsx + DiscoveryPanel.tsx now import data/relationships-per-profile.json directly (following Footer.tsx precedent of importing package.json). New getRels(title) helper does O(1) JSON lookup, replacing wikilink regex parsing for ourLinkTargets/ourOpposesTargets/politiciansFunded + allFiles scan reads. Fallback to frontmatter for profiles not in JSON. fm["top-donors"] and profile metadata stay from frontmatter. RelatedProfiles.tsx NOT modified (uses fileData.links). Quartz build green: 1746 → 7142 files emitted, exit 0. Live site now shows ~21,418 related connections (was ~11,745), ~1,940 story links (was ~17), ~50 unconnected profiles (was ~600). Last architectural piece of Phase 3.
+
+    - id: cc_66
+      task: "Retarget orphan detector (relationship-bidirectional.cjs) to JSONL mode"
+      status: done
+      completed_date: 2026-04-12
+      completed_at: "2026-04-11T21:10:00-07:00"
+      added_adhoc: true
+      commit: "a889b7ae"
+      merge: "3d7fb810"
+      notes: |
+        scripts/relationship-bidirectional.cjs now defaults to JSONL mode via loadEdges(). Reports 3,869 orphan pairs (all aggregator targets the normalizer correctly skipped). Pass --frontmatter for legacy mode (4,643). The 774-pair difference = non-aggregator orphans already fixed by the bidirectional normalizer. Two new findOrphansFromJsonl / findOrphansFromFrontmatter functions with clean separation.
+
+    - id: cc_67
+      task: "Wire bidirectional-normalizer + per-profile artifact into attention-dispatcher"
+      status: done
+      completed_date: 2026-04-12
+      completed_at: "2026-04-11T21:15:00-07:00"
+      added_adhoc: true
+      commit: "a889b7ae"
+      merge: "3d7fb810"
+      notes: |
+        scripts/attention-dispatcher.cjs: 2 new producers (total 8). bidirectional-normalizer at "23 3 * * 0" (Sundays 3:23am), per-profile-artifact at "25 3 * * 0" (Sundays 3:25am, 2 min stagger). Both use default 60s timeout (each runs in <1 second). Normalizer creates mirror edges for new one-way related links that Research Claude may introduce; artifact builder refreshes the JSON that Quartz components import so the next site build reflects the latest normalized state.
+
     - id: cc_60
       task: "Phase 3 Part 3: /api/connections GET reads JSONL edge store"
       status: done
@@ -1202,7 +1235,7 @@ parser_guidance:
 
 ---
 
-**Schedule last updated: 2026-04-11 (night continuation #3 — cc_61, cc_62, cc_63, cc_64 added: Phase 3 Part 3b POST/DELETE upsert JSONL, Part 4a per-profile artifact, story editorial round 2 (6 more vouched), orphan cleanup 4,484 mirrors. Canonical store is now end-to-end: reads + writes + automation + normalization all flow through data/relationships.jsonl. Quartz consumer migration (Part 4b) is the last architectural piece.)**
+**Schedule last updated: 2026-04-12 (early morning — cc_65, cc_66, cc_67 added: Phase 3 Part 4b Quartz component migration (last architectural piece), orphan detector JSONL retarget, normalizer + artifact builder wired into dispatcher. Phase 3 is architecturally complete. Next session should shift to content work.)**
 **Current phase: phase_1 (Day 2 of 7)**
 **Next checkpoint: Phase 1 exit, 2026-04-16**
 **New data sources added 2026-04-11: FDA (pharma/device/food enforcement), OCC (national bank enforcement), FTC (mergers + historical enforcement). All three live in CI + Ops app.**
