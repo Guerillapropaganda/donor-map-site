@@ -5,6 +5,7 @@ import { EnrichmentPanel } from "@/components/EnrichmentPanel"
 import { PipelineRunHistory } from "@/components/PipelineRunHistory"
 import { ProfileEnrich } from "@/components/ProfileEnrich"
 import { EnrichmentHistory } from "@/components/EnrichmentHistory"
+import { EnrichmentLog } from "@/components/EnrichmentLog"
 
 export default function PipelinesPage() {
   const [triggering, setTriggering] = useState(false)
@@ -116,7 +117,12 @@ export default function PipelinesPage() {
         </div>
       </div>
 
-      {/* Enrichment Results — what came in */}
+      {/* Enrichment Log — detailed per-profile results */}
+      <div className="mt-8">
+        <EnrichmentLog />
+      </div>
+
+      {/* Enrichment Git History — what files changed */}
       <div className="mt-8">
         <EnrichmentHistory />
       </div>
