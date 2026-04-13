@@ -2,7 +2,7 @@
 title: "Joe Biden Master Profile"
 type: politician
 content-readiness: ready
-central-thesis: "Biden is the structural Democrat. He genuinely believes he fights for working people — and he has done some real things (the ACA expansion, the IRA's clean energy investment, the content-readiness: draft5 minimum wage push, the union tiebreaker votes). But his politica..."
+central-thesis: "Biden is the structural Democrat. He genuinely believes he fights for working people — and he has done some real things (the ACA expansion, the IRA's clean energy investment, the content-readiness: ready5 minimum wage push, the union tiebreaker votes). But his politica..."
 last-updated: 2026-04-13
 source-tier: 1
 parent: null

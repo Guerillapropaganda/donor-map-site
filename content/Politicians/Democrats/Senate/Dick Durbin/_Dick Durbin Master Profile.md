@@ -1,9 +1,9 @@
 ---
 title: "Dick Durbin"
 type: politician
-content-readiness: draft
+content-readiness: ready
 central-thesis: "Durbin's 44-year career demonstrates how managed opposition functions as institutional power. His donor base — lawyers ($7.1M career), securities/investment ($2.4M), health professionals (content-readiness: draft.6M), pro-Israel (content-readiness: draft.1M), insurance ($831K) — maps precis..."
-last-updated: 2026-04-10
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -171,6 +171,16 @@ Durbin's retirement confirms the managed opposition model's sustainability: 44 y
 **The Institutional Operator:** Behind closed doors, Durbin negotiates with procedural mastery few senators match. When he needs a bill stalled, he engineers procedural holds. When Biden needs judges confirmed, he manages the calendar. This makes him indispensable to leadership. The public doesn't see this work, but donors do — and they reward predictability. His value is legislative control: the ability to advance certain outcomes (judges) and block others (consumer protection) based on institutional need.
 
 **The Repeated Failure as Feature:** The Credit Card Competition Act has been reintroduced so many times that failure is structural, not accidental. It signals to progressives that Durbin fights corporate power; it signals to financial services that their interests are protected by procedural control. The same bill functioning simultaneously as threat and reassurance, depending on audience. The 2010 Durbin Amendment proves he *can* win — the subsequent 14-year failure proves the system learned to prevent it.
+
+---
+
+## Class Analysis
+
+Dick Durbin raised $39.2 million across a 44-year congressional career. His top sector is lawyers and lobbyists at $8.5 million. His top individual contributor is Simmons Hanly Conroy, an Illinois asbestos litigation firm, at $346,793. Seven of his top 20 career contributors are Illinois law firms. These firms have a direct material interest in which judges sit on federal benches. As Judiciary Committee chair from 2021 to 2025, Durbin controlled the confirmation pipeline for all federal judges. He shepherded 235 Biden judicial confirmations. The trial bar's investment in Durbin is the most rational donor-to-policy calculation in the vault: fund the gatekeeper, shape the judiciary that determines which class actions proceed, which corporate liability claims survive, which regulatory enforcement actions hold.
+
+The consumer protection brand is the performance layer. Durbin's Credit Card Competition Act would break the Visa/Mastercard duopoly that controls 85% of the credit card market. He introduced it first in 2022 and has reintroduced it every Congress since. It has never passed. His drug pricing hearings document pharmaceutical abuse in granular detail. None produced legislation. His Finance, Insurance, and Real Estate sector donors gave $5.9 million across his career. The financial services lobby spends $51 million per cycle to defeat his own bill. The 2010 Durbin Amendment, which capped debit card interchange fees and saves merchants $9.4 billion annually, proves Durbin can win when the political math works. The 14-year failure of the credit card version proves the financial services industry learned from that loss and invested to prevent a repeat.
+
+Durbin's retirement in 2027 confirms the model's sustainability. Forty-four years. $39.2 million raised. Zero major consumer-protection laws passed in their credit card or pharmaceutical forms. 235 judges confirmed. The legacy is judicial gatekeeping for the trial bar that funded him, not consumer protection for the public that elected him. The class function is managed opposition: perform corporate accountability with genuine rhetorical skill while ensuring legislative failure through procedural mastery. Durbin's donors do not need to stop him from introducing bills. They need to ensure those bills never pass. His mastery of Senate procedure made him the ideal vehicle for both outcomes simultaneously.
 
 ---
 
