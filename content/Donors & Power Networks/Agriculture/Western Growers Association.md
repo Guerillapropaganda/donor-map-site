@@ -11,30 +11,30 @@ politicians-funded:
   - "John Hoeven"
   - "Gina McCarthy"
   - "Kevin McCarthy"
+  - "Henry Cuellar"
   - "Jonathan L. Jackson"
   - "Lisa Jackson"
   - "Ronny Jackson"
   - "Ketanji Brown Jackson"
   - "Brad Finstad"
-  - "August Pfluger"
   - "Nathaniel Moran"
   - "Jerry Moran"
-  - "Tom Emmer"
   - "Roger Marshall"
+  - "August Pfluger"
+  - "Tom Emmer"
   - "Tracey Mann"
   - "Henry C. Hank Johnson"
   - "Julie Johnson"
   - "Jeh Johnson"
   - "Dusty Johnson"
   - "Mike Johnson"
-  - "Ron Johnson"
 issues:
   - "Immigration"
 ein: "751972150"
 annual-revenue: "$236K"
 net-assets: "$849K"
 tax-year: "2023"
-total-political-spend: "$248,400"
+total-political-spend: "$481,034"
 court-cases: 44
 last-enriched: "2026-04-13"
 needs-reenrichment: true
@@ -392,6 +392,34 @@ Immigration — H-2A program, undocumented workforce, sanctuary policy
 
 - [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Western%20Growers%20Association) (Tier 1)
 <!-- auto:fec-donor end -->
+
+<!-- auto:fec-donor pending-merge 2026-04-13 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+| Metric | Value |
+|--------|-------|
+| Total Political Spend | $481,034 |
+| Contributions | 323 |
+
+**Top recipients:**
+
+| Recipient | Amount | Party |
+|-----------|--------|-------|
+| AMERICAN FUTURE FUND POLITICAL ACTION | $120,000 | — |
+| HOEVEN FOR SENATE | $17,500 | REP |
+| RNC REPUBLICAN NATIONAL STATE ELECTION COMMITTEE | $15,863 | — |
+| MCCARTHY VICTORY FUND | $15,000 | — |
+| KEVIN MCCARTHY FOR CONGRESS | $12,500 | REP |
+| FRIENDS OF DENNIS CARDOZA | $10,000 | DEM |
+| TEXANS FOR HENRY CUELLAR CONGRESSIONAL CAMPAIGN | $9,000 | DEM |
+| YVETTE4CONGRESS | $8,800 | NNE |
+| TEXANS FOR RONNY JACKSON | $8,500 | REP |
+| FINSTAD FOR CONGRESS | $8,500 | REP |
+
+- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Western%20Growers%20Association) (Tier 1)
+
+<!-- auto:fec-donor pending-merge end -->
 
 ### Wikipedia
 <!-- auto:wikipedia start -->

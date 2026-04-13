@@ -4,7 +4,7 @@ type: politician
 
 
 content-readiness: ready
-last-updated: 2026-04-12
+last-updated: 2026-04-13
 
 source-tier: 1
 party: "Democrat"
