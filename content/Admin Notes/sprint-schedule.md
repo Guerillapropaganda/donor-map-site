@@ -1097,6 +1097,20 @@ phase_1_tasks:
       added_adhoc: true
       notes: "Think tank edges 0->960, K Street edges 0->449. Bidirectional normalizer added 2,900 mirror edges. Total: 27,504. Per-profile artifact rebuilt."
 
+    - id: cc_95
+      task: "Write ~320 Class Analysis sections across 15 agent batches (A-O)"
+      status: done
+      completed_date: 2026-04-13
+      added_adhoc: true
+      notes: "Systematic Class Analysis coverage: 59 politicians in first wave, then batches of 10 via parallel background agents. Key profiles: Trump, Obama, Biden, McConnell, Schumer, AOC, Graham, Cruz, Feinstein, Jim Jordan, Alito, Sinema, Manchin, DeSantis, Fetterman, Tuberville, plus ~100 donors/corps including ExxonMobil, Koch, Boeing, AIPAC, Goldman Sachs, Leonard Leo, and 250+ more."
+
+    - id: cc_96
+      task: "Promote ~460 profiles (draft->ready + raw->draft) via quality gates"
+      status: done
+      completed_date: 2026-04-13
+      added_adhoc: true
+      notes: "Systematic promotion via automated quality gates: Class Analysis present, 2+ source types, enriched, no defamation words. Four defamation-word fix passes cleaned ~340 files. Ready: 560 -> 932 (+66%). Vault at 47% ready (was 28%)."
+
     - id: cc_60
       task: "Phase 3 Part 3: /api/connections GET reads JSONL edge store"
       status: done
@@ -1439,7 +1453,7 @@ parser_guidance:
 
 ---
 
-**Schedule last updated: 2026-04-13 (cc_92-94 added: 97 Class Analysis sections, ~275 promotions, relationship engine audit+fix.)**
+**Schedule last updated: 2026-04-13 final (cc_95-96 added: 320 Class Analysis sections across 15 batches, ~460 promotions, ready 560->932.)**
 **Current phase: phase_1 (Day 2 of 7)**
 **Next checkpoint: Phase 1 exit, 2026-04-16**
 **New data sources added 2026-04-11: FDA (pharma/device/food enforcement), OCC (national bank enforcement), FTC (mergers + historical enforcement). All three live in CI + Ops app.**
