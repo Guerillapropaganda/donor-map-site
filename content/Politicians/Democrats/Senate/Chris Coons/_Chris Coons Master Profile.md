@@ -1,7 +1,7 @@
 ---
 title: "Chris Coons Master Profile"
 type: politician
-content-readiness: draft
+content-readiness: ready
 central-thesis: "Coons is Big Pharma's man in the Senate — Jacobin's phrase, but the evidence is structural. Delaware is home to DuPont, AstraZeneca, and the corporate incorporation industry that shelters more than 1.8 million business entities. Coons's committee ..."
 last-updated: 2026-04-13
 source-tier: 1
@@ -115,6 +115,16 @@ Coons is Big Pharma's man in the Senate — Jacobin's phrase, but the evidence i
 
 > [!money] The Patent Pipeline
 > Coons's patent maximalism is the clearest donor-to-policy pipeline in the profile. PhRMA and BIO back his Patent Reform Act (2011). He introduces STRONG Patents Act to weaken the PTAB — the single most effective mechanism for challenging bad pharmaceutical patents. He fights to keep IP maximalists running the Patent Office. He opposes sharing vaccine patents during COVID. Every position extends pharmaceutical monopolies, every monopoly extends drug prices, every price extension benefits the companies that provide $124K+ per cycle. His family's medical device business depends on the same patent system he strengthens through legislation.
+
+---
+
+## Class Analysis
+
+Chris Coons occupies Joe Biden's old Senate seat, and he serves the same class Biden served for 36 years. Delaware is home to DuPont, AstraZeneca, and the corporate incorporation industry that shelters more than 1.8 million business entities. Coons's committee portfolio maps directly onto these industries: Judiciary for patent law, Foreign Relations for vaccine intellectual property, Appropriations for research funding. The pharmaceutical industry made him their third-highest Senate recipient in 2020 at $124,000 or more that cycle. His career donor map reads like a Delaware Chamber of Commerce directory: lawyers and law firms (top sector, feeding the Chancery Court and corporate incorporation machine), securities and investment, pharmaceuticals, and real estate.
+
+The patent maximalism is the clearest pipeline. Coons cosponsored the Patent Reform Act of 2011, backed by PhRMA and the Biotechnology Innovation Organization. He introduced the STRONG Patents Act to weaken the Patent Trial and Appeal Board, the single most effective tool for challenging bad pharmaceutical patents. He slipped a provision into the 2019 NDAA eliminating federal funding limits for a pharma-partnered biomanufacturing institute. He demanded that no one who has "ever criticized intellectual property" be allowed to head the Patent and Trademark Office. Every position extends pharmaceutical monopolies, every monopoly extends drug prices, and every price extension benefits the companies providing $124,000-plus per cycle. His family's medical device business depends on the same patent system he strengthens through legislation.
+
+During the global COVID vaccine crisis, Coons invoked Red Scare rhetoric and the Capitol riot at a CSIS event to argue against sharing vaccine patents with the developing world. Millions died waiting for access while Coons defended pharmaceutical IP profits using national security framing. This is the most extreme version of villain framing in the vault: connecting patent sharing with Chinese geopolitical ambitions to make pharmaceutical monopoly protection sound like patriotism. His Yale Divinity ethics degree and W.L. Gore ethics training background provide the moral credentials. The pharmaceutical donor base provides the policy direction. The ethics language defends the pharmaceutical industry's right to maintain monopoly pricing. Pro-Israel groups contributed $258,166-plus across his career, and Coons co-authored the Coons-Rubio bill authorizing $3.3 billion per year in minimum security assistance to Israel. The Delaware seat serves its industries. The occupant changed. The function did not.
 
 ---
 

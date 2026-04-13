@@ -124,6 +124,14 @@ Removal of the Federal Reserve asset cap (which limits Wells Fargo's growth), re
 
 ---
 
+## Class Analysis
+
+Wells Fargo is the clearest demonstration in the vault that "too big to fail" means "too big to punish." The bank created 3.5 million unauthorized customer accounts, the largest consumer fraud scandal in American banking history, and the consequences were: a $3 billion fine (23% of one year's profit), an asset cap (inconvenient but not existential), and zero criminal prosecutions for senior executives. The executives who designed and enforced the sales quotas that produced mass fraud walked away with their compensation intact. John Stumpf was fired as CEO but kept $130M+ in stock and retirement benefits. The class logic is straightforward: when fraud is committed by millions of low-wage branch employees following corporate directives, the employees are fired. The executives who created the directives are not prosecuted.
+
+Wells Fargo's $5-8 million annual lobbying spend is the cost of maintaining this arrangement. The bank's primary lobbying targets are CFPB weakening, reduced capital requirements, and asset cap removal. The CFPB was the federal agency best positioned to detect and prevent the fake accounts scandal. Weakening the CFPB reduces the likelihood of similar enforcement actions in the future. This is not abstract regulatory policy. It is a specific investment by a specific bank to reduce the cost of future misconduct. Every dollar Wells Fargo spends on lobbying to weaken consumer protection is a dollar spent ensuring that the next fraud scandal produces the same result: fines paid from profits, no executives prosecuted, business continues.
+
+The bipartisan political spending ($2-3M per cycle in PAC contributions) ensures that neither party has incentive to pursue structural accountability. Wells Fargo funds Democrats who sit on the Senate Banking Committee and Republicans who sit on the House Financial Services Committee. Both parties accepted Wells Fargo money before the scandal, during the scandal, and after the scandal. The bank's political rehabilitation is proceeding on schedule. The asset cap is expected to be lifted. The CFPB has been weakened. Consumer protection enforcement has declined. Wells Fargo invested in regulatory capture, and the investment is paying off.
+
 ### Sources
 
 - [OpenSecrets: Wells Fargo organizational profile](https://www.opensecrets.org/orgs/wells-fargo/summary?id=D000019743) (Tier 1)
