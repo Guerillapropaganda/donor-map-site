@@ -494,85 +494,85 @@ Both GEO and [[CoreCivic]] are members of the **Day 1 Alliance**, a trade associ
 | $0 | DEPT OF DEFENSE | 2008-08-01 |
 | $0 | DEPT OF DEFENSE | 2008-07-10 |
 
-- [Source: SAM.gov Contract Awards](https://sam.gov/search/?q=GEO%20Group%20-%20Private%20Prison%20Industrial%20Complex&page=1&index=opp) (Tier 1)
+- [Source: SAM.gov Contract Awards](https://sam.gov/search/?q=GEO%20Group%20-%20Private%20Prison%20Industrial%20Complex&page=1&index=opp) (Tier 1) (VERIFIED)
 
 <!-- auto:sam-contracts end -->
 
 ### Sources
 
 #### Financial & Corporate:
-- [GEO Group Q4 and Full Year 2025 Results](https://investors.geogroup.com/news-releases/news-release-details/geo-group-reports-fourth-quarter-and-full-year-2025-results) (Tier 1)
-- [GEO Group 2025 Political Activity and Lobbying Report](https://www.geogroup.com/geo-2025-political-activity-and-lobbying-report/) (Tier 1)
-- [GEO Group 2024 Political Activity and Lobbying Report](https://www.geogroup.com/media/tufn44mo/geo-political-activity-and-lobbying-report-_2024_.pdf) (Tier 1)
-- [Fortune: election night stock surge](https://fortune.com/2024/11/07/president-donald-trump-election-immigration-border-detention-ice-geo-group-corecivic/) (Tier 2)
-- [Marshall Project: stock price and private prison profits](https://www.themarshallproject.org/2026/01/06/trump-arrest-immigrants-private-prisons) (Tier 2)
-- [Common Dreams: GEO $254M record profit](https://www.commondreams.org/news/geo-group-ice-profits) (Tier 3)
-- [American Prospect: 2025 profitability](https://prospect.org/2026/02/12/ice-immigration-prison-geo-group-trump/) (Tier 2)
+- [GEO Group Q4 and Full Year 2025 Results](https://investors.geogroup.com/news-releases/news-release-details/geo-group-reports-fourth-quarter-and-full-year-2025-results) (Tier 1) (VERIFIED)
+- [GEO Group 2025 Political Activity and Lobbying Report](https://www.geogroup.com/geo-2025-political-activity-and-lobbying-report/) (Tier 1) (VERIFIED)
+- [GEO Group 2024 Political Activity and Lobbying Report](https://www.geogroup.com/media/tufn44mo/geo-political-activity-and-lobbying-report-_2024_.pdf) (Tier 1) (VERIFIED)
+- [Fortune: election night stock surge](https://fortune.com/2024/11/07/president-donald-trump-election-immigration-border-detention-ice-geo-group-corecivic/) (Tier 2) (VERIFIED)
+- [Marshall Project: stock price and private prison profits](https://www.themarshallproject.org/2026/01/06/trump-arrest-immigrants-private-prisons) (Tier 2) (VERIFIED)
+- [Common Dreams: GEO $254M record profit](https://www.commondreams.org/news/geo-group-ice-profits) (Tier 3) (VERIFIED)
+- [American Prospect: 2025 profitability](https://prospect.org/2026/02/12/ice-immigration-prison-geo-group-trump/) (Tier 2) (VERIFIED)
 
 #### Political Spending & PAC:
-- [OpenSecrets: GEO Group PAC Profile 2024](https://www.opensecrets.org/political-action-committees-pacs/C00382150/summary/2024) (Tier 1)
-- [OpenSecrets: GEO Group Donation Recipients](https://www.opensecrets.org/orgs/geo-group/recipients?id=D000022003) (Tier 1)
-- [OpenSecrets: GEO Group Totals by Cycle](https://www.opensecrets.org/orgs/geo-group/totals?id=D000022003) (Tier 1)
-- [FEC Receipts: For-Profit Prison Industry All-Time Recipients](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1)
-- [OpenSecrets: private prison political spending 2025](https://www.opensecrets.org/news/2025/04/private-prison-companies-positioned-to-benefit-from-increased-deportations/) (Tier 1)
-- [CREW: Private prison companies first to max out to Trump](https://www.citizensforethics.org/reports-investigations/crew-investigations/private-prison-behemoth-is-first-corporation-to-max-out-to-trump/) (Tier 2)
-- [Sludge: GEO inaugural donation](https://readsludge.com/2025/01/29/prison-company-banking-on-ice-raids-donated-to-trump-inauguration/) (Tier 2)
-- [The Appeal: GEO and CoreCivic donations to Sedition Caucus](https://theappeal.org/ice-cold-cash-private-prison-congress-donations/) (Tier 2)
-- [Center for American Progress: GEO political spending](https://www.americanprogress.org/article/trumps-executive-order-rewards-private-prison-campaign-donors/) (Tier 2)
+- [OpenSecrets: GEO Group PAC Profile 2024](https://www.opensecrets.org/political-action-committees-pacs/C00382150/summary/2024) (Tier 1) (VERIFIED)
+- [OpenSecrets: GEO Group Donation Recipients](https://www.opensecrets.org/orgs/geo-group/recipients?id=D000022003) (Tier 1) (VERIFIED)
+- [OpenSecrets: GEO Group Totals by Cycle](https://www.opensecrets.org/orgs/geo-group/totals?id=D000022003) (Tier 1) (VERIFIED)
+- [FEC Receipts: For-Profit Prison Industry All-Time Recipients](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1) (VERIFIED)
+- [OpenSecrets: private prison political spending 2025](https://www.opensecrets.org/news/2025/04/private-prison-companies-positioned-to-benefit-from-increased-deportations/) (Tier 1) (VERIFIED)
+- [CREW: Private prison companies first to max out to Trump](https://www.citizensforethics.org/reports-investigations/crew-investigations/private-prison-behemoth-is-first-corporation-to-max-out-to-trump/) (Tier 2) (VERIFIED)
+- [Sludge: GEO inaugural donation](https://readsludge.com/2025/01/29/prison-company-banking-on-ice-raids-donated-to-trump-inauguration/) (Tier 2) (VERIFIED)
+- [The Appeal: GEO and CoreCivic donations to Sedition Caucus](https://theappeal.org/ice-cold-cash-private-prison-congress-donations/) (Tier 2) (VERIFIED)
+- [Center for American Progress: GEO political spending](https://www.americanprogress.org/article/trumps-executive-order-rewards-private-prison-campaign-donors/) (Tier 2) (VERIFIED)
 
 #### Lobbying & Revolving Door:
-- [OpenSecrets: GEO Group Lobbying](https://www.opensecrets.org/orgs/geo-group/lobbying?id=D000022003) (Tier 1)
-- [Senate LDA Filings: Federal Lobbying Summary](https://lda.gov/filings/public/filing/search/) (Tier 1)
-- [Project on Government Oversight (POGO): Private Prison Giant Hired ICE Detention Chief](https://www.pogo.org/investigates/private-prison-giant-hired-ice-detention-chief) (Tier 2)
-- [POGO: Locking In Profits - Top ICE Officials to GEO](https://www.pogo.org/investigates/locking-in-profits-top-ice-officials-leave-agency-to-serve-its-top-contractor) (Tier 2)
-- [Public Citizen: Pam Bondi Conflict of Interest](https://www.citizen.org/article/conflicted-justice/) (Tier 2)
-- [New York Times: Pam Bondi as AG](https://www.nytimes.com/2025/01/08/us/politics/pam-bondi-trump-attorney-general-lobbyist.html) (Tier 2)
-- [Politico: Pam Bondi DOJ ethics](https://www.politico.com/news/2024/12/07/pam-bondi-doj-ethics-00192890) (Tier 2)
-- [U.S. Senate Judiciary Democrats: Pam Bondi lobbying record](https://www.judiciary.senate.gov/press/dem/releases/pam-bondis-extensive-lobbying-for-wealthy-special-interests-and-foreign-government-poses-serious-conflict-of-interest) (Tier 2)
+- [OpenSecrets: GEO Group Lobbying](https://www.opensecrets.org/orgs/geo-group/lobbying?id=D000022003) (Tier 1) (VERIFIED)
+- [Senate LDA Filings: Federal Lobbying Summary](https://lda.gov/filings/public/filing/search/) (Tier 1) (VERIFIED)
+- ~~[Project on Government Oversight (POGO): Private Prison Giant Hired ICE Detention Chief](https://www.pogo.org/investigates/private-prison-giant-hired-ice-detention-chief)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[POGO: Locking In Profits - Top ICE Officials to GEO](https://www.pogo.org/investigates/locking-in-profits-top-ice-officials-leave-agency-to-serve-its-top-contractor)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [Public Citizen: Pam Bondi Conflict of Interest](https://www.citizen.org/article/conflicted-justice/) (Tier 2) (VERIFIED)
+- ~~[New York Times: Pam Bondi as AG](https://www.nytimes.com/2025/01/08/us/politics/pam-bondi-trump-attorney-general-lobbyist.html)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[Politico: Pam Bondi DOJ ethics](https://www.politico.com/news/2024/12/07/pam-bondi-doj-ethics-00192890)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [U.S. Senate Judiciary Democrats: Pam Bondi lobbying record](https://www.judiciary.senate.gov/press/dem/releases/pam-bondis-extensive-lobbying-for-wealthy-special-interests-and-foreign-government-poses-serious-conflict-of-interest) (Tier 2) (VERIFIED)
 
 #### ICE Detention Expansion:
-- [Brennan Center: How ICE's Budget Boom Is Changing Immigration Detention](https://www.brennancenter.org/our-work/research-reports/how-ices-budget-boom-changing-immigration-detention) (Tier 2)
-- [Brennan Center: Trump reverses Biden private prison order](https://www.brennancenter.org/our-work/analysis-opinion/trump-reverses-biden-order-eliminated-doj-contracts-private-prisons) (Tier 2)
-- [Brennan Center: Private prison windfall and eliminated oversight](https://www.brennancenter.org/our-work/analysis-opinion/private-prison-companies-enormous-windfall-who-stands-gain-ice-expands) (Tier 2)
-- [Brennan Center: Breaking down Biden's 2021 EO](https://www.brennancenter.org/our-work/research-reports/breaking-down-bidens-order-eliminate-doj-private-prison-contracts) (Tier 2)
-- [CREW: Trump budget benefits private detention companies](https://www.citizensforethics.org/reports-investigations/crew-investigations/trumps-budget-bill-benefits-private-immigration-detention-companies-that-donated-to-trump/) (Tier 2)
-- [NOTUS: private prison lobbying and contracts](https://www.notus.org/money/private-prisons-lobbying-corecivic-geo-group-immigration-detention) (Tier 2)
-- [TIME: ICE's Largest Prison Contractors Post Record Revenue](https://time.com/7378284/ice-immigration-detention-contractors-record-revenue/revenue/) (Tier 2)
-- [Center for American Progress: One Big Beautiful Bill Act](https://www.americanprogress.org/article/congressional-republicans-one-big-beautiful-bill-act-creates-an-unaccountable-slush-fund-for-the-trump-administrations-deportation-force/) (Tier 2)
+- [Brennan Center: How ICE's Budget Boom Is Changing Immigration Detention](https://www.brennancenter.org/our-work/research-reports/how-ices-budget-boom-changing-immigration-detention) (Tier 2) (VERIFIED)
+- [Brennan Center: Trump reverses Biden private prison order](https://www.brennancenter.org/our-work/analysis-opinion/trump-reverses-biden-order-eliminated-doj-contracts-private-prisons) (Tier 2) (VERIFIED)
+- [Brennan Center: Private prison windfall and eliminated oversight](https://www.brennancenter.org/our-work/analysis-opinion/private-prison-companies-enormous-windfall-who-stands-gain-ice-expands) (Tier 2) (VERIFIED)
+- [Brennan Center: Breaking down Biden's 2021 EO](https://www.brennancenter.org/our-work/research-reports/breaking-down-bidens-order-eliminate-doj-private-prison-contracts) (Tier 2) (VERIFIED)
+- [CREW: Trump budget benefits private detention companies](https://www.citizensforethics.org/reports-investigations/crew-investigations/trumps-budget-bill-benefits-private-immigration-detention-companies-that-donated-to-trump/) (Tier 2) (VERIFIED)
+- [NOTUS: private prison lobbying and contracts](https://www.notus.org/money/private-prisons-lobbying-corecivic-geo-group-immigration-detention) (Tier 2) (VERIFIED)
+- ~~[TIME: ICE's Largest Prison Contractors Post Record Revenue](https://time.com/7378284/ice-immigration-detention-contractors-record-revenue/revenue/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [Center for American Progress: One Big Beautiful Bill Act](https://www.americanprogress.org/article/congressional-republicans-one-big-beautiful-bill-act-creates-an-unaccountable-slush-fund-for-the-trump-administrations-deportation-force/) (Tier 2) (VERIFIED)
 
 #### Conditions & Deaths:
-- [ProPublica: GEO Group Is Fighting to Pay ICE Detainees as Little as $1 a Day to Work](https://www.propublica.org/article/geo-group-ice-detainees-wage) (Tier 2)
-- [The Intercept: Trump immigration plan and private prison investors](https://theintercept.com/2017/02/22/geo-group-trump/) (Tier 2)
-- [The Intercept: Trump budget and private prisons](https://theintercept.com/2025/07/10/corecivic-trump-big-beautiful-bill/) (Tier 2)
+- [ProPublica: GEO Group Is Fighting to Pay ICE Detainees as Little as $1 a Day to Work](https://www.propublica.org/article/geo-group-ice-detainees-wage) (Tier 2) (VERIFIED)
+- [The Intercept: Trump immigration plan and private prison investors](https://theintercept.com/2017/02/22/geo-group-trump/) (Tier 2) (VERIFIED)
+- [The Intercept: Trump budget and private prisons](https://theintercept.com/2025/07/10/corecivic-trump-big-beautiful-bill/) (Tier 2) (VERIFIED)
 
 #### California / AB 32:
-- [CalMatters: Gov. Newsom can protect Californians by closing private prisons](https://calmatters.org/commentary/2019/09/gov-newsom-can-protect-californians-by-closing-private-prisons/) (Tier 2)
-- [KQED: AB 32 federal override](https://www.kqed.org/news/11792302/ice-poised-to-sign-new-for-profit-detention-contracts-before-californias-ban-begins) (Tier 2)
-- [California Governor's Office: AB 32 Press Release](https://www.gov.ca.gov/2019/10/11/governor-newsom-signs-ab-32-to-halt-private-for-profit-prisons-and-immigration-detention-facilities-in-california/) (Tier 1)
-- [Reuters: GEO Group wins legal challenge to AB 32](https://www.reuters.com/legal/geo-group-wins-legal-challenge-california-private-immigrant-prisons-2022-09-26/) (Tier 2)
+- [CalMatters: Gov. Newsom can protect Californians by closing private prisons](https://calmatters.org/commentary/2019/09/gov-newsom-can-protect-californians-by-closing-private-prisons/) (Tier 2) (VERIFIED)
+- [KQED: AB 32 federal override](https://www.kqed.org/news/11792302/ice-poised-to-sign-new-for-profit-detention-contracts-before-californias-ban-begins) (Tier 2) (VERIFIED)
+- [California Governor's Office: AB 32 Press Release](https://www.gov.ca.gov/2019/10/11/governor-newsom-signs-ab-32-to-halt-private-for-profit-prisons-and-immigration-detention-facilities-in-california/) (Tier 1) (VERIFIED)
+- ~~[Reuters: GEO Group wins legal challenge to AB 32](https://www.reuters.com/legal/geo-group-wins-legal-challenge-california-private-immigrant-prisons-2022-09-26/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 
 #### Biden Executive Order & ICE Impact:
-- [OpenSecrets: Biden phases out private prisons](https://www.opensecrets.org/news/2021/02/biden-phases-out-private-prisons/) (Tier 1)
-- [ACLU: Unchecked growth - private prison corporations and ICE under Biden](https://www.aclu.org/news/immigrants-rights/unchecked-growth-private-prison-corporations-and-immigration-detention-three-years-into-the-biden-administration) (Tier 2)
-- [Marshall Project: What Will Trump's Executive Order on Private Prisons Really Do?](https://www.themarshallproject.org/2025/01/22/trump-private-prisons-executive-order) (Tier 2)
+- [OpenSecrets: Biden phases out private prisons](https://www.opensecrets.org/news/2021/02/biden-phases-out-private-prisons/) (Tier 1) (VERIFIED)
+- [ACLU: Unchecked growth - private prison corporations and ICE under Biden](https://www.aclu.org/news/immigrants-rights/unchecked-growth-private-prison-corporations-and-immigration-detention-three-years-into-the-biden-administration) (Tier 2) (VERIFIED)
+- [Marshall Project: What Will Trump's Executive Order on Private Prisons Really Do?](https://www.themarshallproject.org/2025/01/22/trump-private-prisons-executive-order) (Tier 2) (VERIFIED)
 
 #### Class Analysis & Racial Dimensions:
-- [AFSC Investigate: GEO Group overview](https://investigate.afsc.org/company/geo-group) (Tier 3)
-- [Cicero Institute: Aligning profit with outcomes in private prison procurement](https://ciceroinstitute.org/research/aligning-profit-with-outcomes-in-private-prison-procurement/) (Tier 3)
-- [Prison Legal News: Color of corporate corrections](https://www.prisonlegalnews.org/news/2013/mar/15/the-color-of-corporate-corrections-overrepresentation-of-people-of-color-in-the-private-prison-industry/) (Tier 3)
-- [Prison Legal News: Private prison lobbying influence](https://www.prisonlegalnews.org/news/2012/nov/15/private-prison-companies-use-political-influence-to-increase-incarceration/) (Tier 3)
-- [NPR: Why for-profit prisons house more inmates of color](https://www.npr.org/sections/codeswitch/2014/03/13/289000532/why-for-profit-prisons-house-more-inmates-of-color) (Tier 2)
-- [Sentencing Project: Racial disparity in imprisonment](https://www.sentencingproject.org/reports/one-in-five-racial-disparity-in-imprisonment-causes-and-remedies/) (Tier 2)
-- [Transnational Institute: Stop corporations from profiting from incarceration](https://www.tni.org/en/article/the-first-step-to-stop-corporations-from-profiting-from-incarceration-in-the-united-states) (Tier 3)
+- [AFSC Investigate: GEO Group overview](https://investigate.afsc.org/company/geo-group) (Tier 3) (VERIFIED)
+- [Cicero Institute: Aligning profit with outcomes in private prison procurement](https://ciceroinstitute.org/research/aligning-profit-with-outcomes-in-private-prison-procurement/) (Tier 3) (VERIFIED)
+- [Prison Legal News: Color of corporate corrections](https://www.prisonlegalnews.org/news/2013/mar/15/the-color-of-corporate-corrections-overrepresentation-of-people-of-color-in-the-private-prison-industry/) (Tier 3) (VERIFIED)
+- [Prison Legal News: Private prison lobbying influence](https://www.prisonlegalnews.org/news/2012/nov/15/private-prison-companies-use-political-influence-to-increase-incarceration/) (Tier 3) (VERIFIED)
+- [NPR: Why for-profit prisons house more inmates of color](https://www.npr.org/sections/codeswitch/2014/03/13/289000532/why-for-profit-prisons-house-more-inmates-of-color) (Tier 2) (VERIFIED)
+- [Sentencing Project: Racial disparity in imprisonment](https://www.sentencingproject.org/reports/one-in-five-racial-disparity-in-imprisonment-causes-and-remedies/) (Tier 2) (VERIFIED)
+- ~~[Transnational Institute: Stop corporations from profiting from incarceration](https://www.tni.org/en/article/the-first-step-to-stop-corporations-from-profiting-from-incarceration-in-the-united-states)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3)
 
 #### BI Incorporated & Electronic Monitoring:
-- [Boulder Reporting Lab: BI Inc faces protests as ICE monitoring expands](https://boulderreportinglab.org/2026/02/24/boulders-bi-inc-faces-renewed-protests-as-its-ice-monitoring-role-expands/) (Tier 3)
-- [GovCon Wire: BI awarded ISAP V contract](https://www.govconwire.com/articles/bi-ice-isap-v-idiq-contract-award) (Tier 3)
-- [GEO Group: BI awarded skip tracing contract](https://investors.geogroup.com/news-releases/news-release-details/geo-group-awarded-contract-us-immigration-and-customs-1) (Tier 1)
+- [Boulder Reporting Lab: BI Inc faces protests as ICE monitoring expands](https://boulderreportinglab.org/2026/02/24/boulders-bi-inc-faces-renewed-protests-as-its-ice-monitoring-role-expands/) (Tier 3) (VERIFIED)
+- [GovCon Wire: BI awarded ISAP V contract](https://www.govconwire.com/articles/bi-ice-isap-v-idiq-contract-award) (Tier 3) (VERIFIED)
+- [GEO Group: BI awarded skip tracing contract](https://investors.geogroup.com/news-releases/news-release-details/geo-group-awarded-contract-us-immigration-and-customs-1) (Tier 1) (VERIFIED)
 
 #### Federal Contract Data:
-- [USASpending.gov DHS/ICE Contract Records](https://www.usaspending.gov/) (Tier 1)
-- [HigherGov: GEO Group Federal Contract Record](https://www.highergov.com/awardee/the-geo-group-inc-10000076/) (Tier 1)
+- [USASpending.gov DHS/ICE Contract Records](https://www.usaspending.gov/) (Tier 1) (VERIFIED)
+- [HigherGov: GEO Group Federal Contract Record](https://www.highergov.com/awardee/the-geo-group-inc-10000076/) (Tier 1) (VERIFIED)
 
 ---
 
@@ -641,7 +641,7 @@ Both GEO and [[CoreCivic]] are members of the **Day 1 Alliance**, a trade associ
 - LIMITED LIABILITY COMPANY TRADE INDUSTRIAL COMPLEX RZM (-0-) [RUSSIA-EO14024]
   - Remarks: Secondary sanctions risk: See Section 11 of Executive Order 14024.; Tax ID No. 5038106044 (Russia); Registration Number 1145038003142 (Russia).
 
-- [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1)
+- [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1) (VERIFIED)
 <!-- auto:ofac-sdn end -->
 
 ### Federal Subawards & Spending Breakdown
@@ -670,7 +670,7 @@ Both GEO and [[CoreCivic]] are members of the **Day 1 Alliance**, a trade associ
 |------------------|--------|--------|
 | Unknown | $1009778941.6B | 50 |
 
-- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search/?hash=subaward-GEO%20Group%20-%20Private%20Prison%20Industrial%20Complex) (Tier 1)
+- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search/?hash=subaward-GEO%20Group%20-%20Private%20Prison%20Industrial%20Complex) (Tier 1) (VERIFIED)
 <!-- auto:usaspending-subawards end -->
 
 ### Vehicle Safety (NHTSA)
@@ -688,7 +688,7 @@ Both GEO and [[CoreCivic]] are members of the **Day 1 Alliance**, a trade associ
 - DP26001: All wheel drive allegation (2026-03-06)
 - DP26002: Redundant wheel fastener locking mechanism (2026-03-04)
 
-- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=GEO%20Group%20-%20Private%20Prison%20Industrial%20Complex) (Tier 1)
+- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=GEO%20Group%20-%20Private%20Prison%20Industrial%20Complex) (Tier 1) (VERIFIED)
 <!-- auto:nhtsa-recalls end -->
 
 ### Lobbying Activity
@@ -707,5 +707,5 @@ Both GEO and [[CoreCivic]] are members of the **Day 1 Alliance**, a trade associ
 
 **Agencies contacted:** Air Force, Dept of, Army, Dept of (Corps of Engineers), Army, Dept of (Other), Centers For Medicare and Medicaid Services (CMS), Commerce, Dept of (DOC), Defense, Dept of (DOD), Energy, Dept of, Federal Aviation Administration (FAA), Federal Emergency Management Agency (FEMA), HOUSE OF REPRESENTATIVES +13 more
 
-- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=GEO%20Group%20-%20Private%20Prison%20Industrial%20Complex) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=GEO%20Group%20-%20Private%20Prison%20Industrial%20Complex) (Tier 1) (VERIFIED)
 <!-- auto:lda-lobbying end -->
