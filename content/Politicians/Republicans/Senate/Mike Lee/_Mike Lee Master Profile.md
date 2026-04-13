@@ -2,9 +2,9 @@
 title: "Mike Lee"
 type: politician
 bioguide-id: "L000577"
-content-readiness: draft
+content-readiness: ready
 central-thesis: "Lee's donor base is the Federalist Society network, Club for Growth ($554K career, top contributor), Koch-aligned libertarians, and Wall Street firms seeking judicial capture and statutory rollback of corporate accountability. His constitutional l..."
-last-updated: 2026-04-10
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 party: "Republican"
@@ -144,6 +144,16 @@ The January 6 episode reveals the structural limit of Lee's constitutional liber
 **Tech-Industry Populism:** Claims to oppose "Big Tech censorship" while serving tech industry's antitrust immunity. Aligns with MAGA base anger at tech companies while protecting their market power. The base receives content moderation rhetoric; donors receive monopoly protection.
 
 **Constitutional Property Rights:** Frames public lands transfer as returning land to "the people of Utah" while the actual beneficiaries are extractive industries and real estate developers. The constitutional framing (federal overreach) obscures the economic function (land privatization for donor benefit).
+
+## Class Analysis
+
+Mike Lee's $16.5 million career fundraising maps to a tripartite donor architecture that treats constitutional libertarianism as an investment thesis. Wall Street and the FIRE sector contributed $3.56 million. Ideological infrastructure (Club for Growth at $554,000, Senate Conservatives Fund at $354,000) contributed $3.2 million. Energy and natural resources delivered $1.09 million. Each sector receives specific policy returns. Wall Street gets deregulation and blocked consumer protection. Oil and gas gets public lands sell-offs and monument reductions. The Federalist Society network gets judicial nominations that strip regulatory authority across all sectors simultaneously. The ideology justifies the deregulation. The deregulation serves the donors. The appearance of principled conviction obscures the class service.
+
+The antitrust pivot is the clearest evidence of donor capture overriding ideology. In 2011, Lee grilled Google executives on monopoly grounds. By 2019, after accumulating $1.24 million in career Communications and Electronics sector funding (Microsoft $111,000, Comcast $63,000, Oracle $52,000, Charter Communications $60,000), Lee repositioned antitrust enforcement as regulatory overreach. He proposed the TEAM Act as a blocking mechanism: weak enough to protect tech monopolies while giving him antitrust credibility. He blocked the bipartisan American Innovation and Choice Online Act in 2022. His constitutional framework "remained unchanged." The application reversed. The funding explains the pivot.
+
+The January 6 texts to Mark Meadows reveal where the ideology actually breaks. CNN obtained approximately 100 text messages showing Lee actively seeking legal mechanisms to overturn Biden's victory, requesting alternate slates of electors, and coordinating with Sidney Powell. When constitutional principle (certify the election) and donor-class power (Trump's executive seizure) conflicted, Lee chose power. His subsequent pivot to voting for certification after the Capitol breach was the Two-Audience Problem in real time: perform constitutional fidelity after the crisis while having attempted to subvert constitutional process when it mattered. The liberty is post hoc. The donor service is determining. Club for Growth, Blackstone ($60,000), Apollo Global ($61,000), and the Oil and Gas sector ($723,000) do not fund Mike Lee for his constitutional scholarship. They fund him for his votes.
+
+---
 
 ## Analytical Patterns
 

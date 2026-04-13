@@ -1,9 +1,9 @@
 ---
 title: "Chris Murphy Master Profile"
 type: politician
-content-readiness: draft
+content-readiness: ready
 central-thesis: "Murphy is the Democratic Party's gun control specialist — and the geographic constraint of representing Connecticut's insurance-and-finance economy defines the limits of his progressivism on every other issue. His Sandy Hook connection provides mo..."
-last-updated: 2026-04-11
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 party: "Democrat"
