@@ -1,9 +1,9 @@
 ---
 title: Pete Buttigieg Master Profile
 type: politician
-content-readiness: draft
+content-readiness: ready
 central-thesis: "Buttigieg is the McKinsey candidate — a donor-class product designed in a lab. His 2020 campaign was funded by bundlers from finance, tech, and consulting; his Transportation tenure delivered bipartisan infrastructure money that flowed disproporti..."
-last-updated: '2026-04-11'
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 party: Democrat
@@ -59,6 +59,16 @@ Pete Buttigieg. Former U.S. Secretary of Transportation (2021–2025). Former Ma
 - [[The Transportation Record - Infrastructure Money and Industry Relationships]] — bipartisan infrastructure law implementation ($570B+); airline regulation record (real consumer protections vs. structural industry deference); East Palestine derailment response (10 days to speak, 20 days to visit); where the infrastructure money went; donor industry overlap; the [[Boeing|Boeing]] safety failures during his tenure.
 
 ---
+
+## Class Analysis
+
+Pete Buttigieg is the donor class's ideal product: a candidate manufactured at the intersection of McKinsey consulting, Ivy League credentials, and Wall Street bundling networks. His 2020 campaign attracted 39 billionaires, $935,000 from the securities and investment industry (leading all Democratic candidates), and 113 bundlers from Goldman Sachs, Bain Capital, and the consulting world. The $900-a-bottle wine cave fundraiser in Napa Valley was not a gaffe. It was a business meeting between a candidate and his investors.
+
+The class function becomes visible in the gap between Buttigieg's rhetoric and his governance. As Mayor of South Bend, his flagship "1,000 Houses in 1,000 Days" program demolished 569 homes in predominantly Black and Latino neighborhoods while repairing 427. The program measured success by demolition rate, not community economic recovery. Downtown revitalized; the west side stayed poor. As Transportation Secretary, Buttigieg oversaw $570 billion in infrastructure distribution that flowed to the same construction, engineering, and transportation industries represented in his bundler network. East Palestine, Ohio burned toxic chemicals while Buttigieg took 10 days to respond and 20 days to visit.
+
+The McKinsey operating system explains the pattern. Identify the problem. Recommend the solution that preserves existing power arrangements. Present it as the only rational option. In consulting, the client is the corporation. In politics, the client is the donor class. Buttigieg delivered genuine consumer wins on airline refund rules while leaving the airline industry's structural market concentration entirely unchallenged. He spoke about equity and transportation justice while distributing hundreds of billions to donor-connected industries. The complexity pivot ("this is a complicated problem requiring nuanced solutions") is the McKinsey move applied to governance: every structural challenge becomes too complicated for blunt intervention, which conveniently protects the donors who funded the career.
+
+Buttigieg is not cynical. He genuinely believes the technocratic framework. That is what makes him so useful to the donor class. A true believer in McKinsey rationalism will find sophisticated reasons to avoid structural change every time, without ever needing to be told.
 
 ## Analytical Patterns
 

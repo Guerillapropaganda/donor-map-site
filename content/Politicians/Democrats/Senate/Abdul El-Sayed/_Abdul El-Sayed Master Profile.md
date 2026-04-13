@@ -1,9 +1,9 @@
 ---
 title: "Abdul El-Sayed Master Profile"
 type: politician
-content-readiness: draft
+content-readiness: ready
 central-thesis: "Abdul El-Sayed represents the 2026 Sanders wing's bet that a genuine progressive — small-dollar funded, corporate PAC-free, Medicare for All advocate with actual public health credentials — can win a Democratic primary against the establishment's ..."
-last-updated: 2026-04-07
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -150,6 +150,14 @@ El-Sayed's 2018 campaign is instructive for understanding his 2026 strategy and 
 > Source: [Bridge Michigan](https://bridgemi.com/michigan-government/abdul-el-sayed-us-senate-run-if-you-want-fighter-ive-got-receipts/) (Tier 2) (VERIFIED)
 
 ---
+
+## Class Analysis
+
+Abdul El-Sayed is the test case for whether a politician can survive without donor class funding. His 2026 Michigan Senate campaign runs on 100% small-dollar donations, no corporate PACs, averaging $24,000 per day from individual contributors. Against him, Mallory McMorrow has raised $5 million or more from national donor networks, larger contributors, and the institutional infrastructure that follows an Elizabeth Warren endorsement. The funding gap is 3-to-1. This is the vault's thesis in its purest form: candidates who refuse donor class money face structural disadvantages regardless of policy merit.
+
+El-Sayed's credentials are real. He rebuilt Detroit's Health Department after the 2008 bankruptcy privatization. He ran Wayne County's health services for 1.8 million residents. His 2018 gubernatorial campaign won 340,000 votes on a Medicare for All platform with a Bernie Sanders endorsement. He lost to the establishment-backed Gretchen Whitmer, whose fundraising infrastructure dwarfed his. Eight years later, the same structural dynamic repeats: genuine progressive credentials versus institutional money.
+
+The Michigan primary is a proxy war between two factions of the Democratic donor ecosystem. Sanders endorses El-Sayed (working-class economic populism, small-dollar funded). Warren endorses McMorrow (educated-professional cultural progressivism, hybrid-funded). The donor class prefers McMorrow because her fundraising model signals policy compatibility with capital. El-Sayed's no-PAC pledge signals the opposite. If El-Sayed wins, it proves small-dollar mobilization can beat institutional money at the Senate level. If he loses, it confirms that the primary system remains structurally hostile to candidates who refuse to take the donor class's call, no matter how strong their credentials or endorsements.
 
 ## Analytical Patterns
 

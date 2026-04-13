@@ -105,6 +105,14 @@ Cuomo uses "executive competence" framing — the experienced manager who "gets 
 
 ---
 
+## Class Analysis
+
+Andrew Cuomo is the real estate donor class's preferred Democrat. The Fix the City super PAC raised $25 million for his 2025 mayoral comeback, with over $6 million from real estate donors and $8.3 million from Michael Bloomberg alone. DoorDash added $1 million. Bill Ackman contributed $500,000. The real estate industry bet millions on rehabilitating a politician who resigned in disgrace amid sexual harassment allegations from 11 women because he is the kind of Democrat they can do business with. Policy reliability matters more than personal conduct.
+
+Cuomo's career pattern tracks a single donor class relationship: the Real Estate Board of New York (REBNY) and its members funded his campaigns, and Cuomo delivered development-friendly regulation, opposition to rent control, and property tax limits as governor. His progressive achievements (same-sex marriage in 2011, the SAFE Act, a $15 minimum wage, a fracking ban) were genuine wins, but they share a common feature: none of them threatened real estate profits. The progressive brand maintained electability in New York while the governing agenda served the developer class that funded it.
+
+The 2025 mayoral race made the class dynamics explicit. Cuomo received endorsements from both Donald Trump and Michael Bloomberg, proving that the donor class transcends party when a politician reliably serves their economic interests. His independent "Fight and Deliver" party name distilled the brand: executive competence, practical governance, ideological flexibility. Translation: the policies are negotiable. His $4.71 million income from Innovation Strategies consulting in 2024 shows what post-government life looks like for a politician who served the donor class faithfully. The real estate industry lost the 2025 bet (Cuomo lost to Zohran Mamdani), but the investment logic was sound: when you need a Democrat who will protect development interests, Cuomo is the first call.
+
 ## Analytical Patterns
 
 - **Both-Sides Illusion** — Cuomo received endorsements from both Trump and Bloomberg, signaling that the donor class transcends party when a politician reliably serves their interests.
