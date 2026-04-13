@@ -2,7 +2,7 @@
 title: "Tom Cole"
 type: politician
 content-readiness: ready
-central-thesis: "Tom Cole is the man who writes the checks. As Appropriations Chairman, he controls the allocation of approximately content-readiness: draft.7 trillion in annual federal discretionary spending across 12 appropriations bills — half of which goes to defense. His district ..."
+central-thesis: "Tom Cole is the man who writes the checks. As Appropriations Chairman, he controls the allocation of approximately content-readiness: ready.7 trillion in annual federal discretionary spending across 12 appropriations bills — half of which goes to defense. His district ..."
 last-updated: 2026-04-13
 source-tier: 1
 parent: null
