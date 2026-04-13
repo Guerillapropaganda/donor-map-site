@@ -1,9 +1,9 @@
 ---
 title: Thom Tillis Master Profile
 type: politician
-content-readiness: draft
+content-readiness: ready
 central-thesis: "Thom Tillis is the pharmaceutical industry's most documented senator in the vault's research. His opposition to drug pricing reform, his intellectual property hawkishness, and his consistent legislative service to pharmaceutical and biotech intere..."
-last-updated: 2026-04-10
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 party: Republican
@@ -125,6 +125,16 @@ Thom Tillis is the pharmaceutical industry's most documented senator in the vaul
 
 > [!money] The Documented Pattern
 > Tillis's relationship with the pharmaceutical industry is the vault's clearest example of pharmaceutical PAC donation-to-legislation timing. He received more pharma PAC money than any other Congress member in 2019 ($156,000+) and co-sponsored the industry-preferred alternative to Grassley's drug pricing proposal within weeks of peak donation accumulation. The timing is not coincidental. The industry was purchasing legislative sponsorship.
+
+---
+
+## Class Analysis
+
+Thom Tillis is a case study in single-industry capture. The pharmaceutical sector delivered $262,126 or more across his Senate career, with $156,000 in PAC money during 2019 alone, making him the largest pharma PAC recipient in Congress that year. Genentech gave $22,500, Biogen $20,000, Pfizer $20,000, Amgen $19,500. These are not abstract campaign contributions. They purchased legislative sponsorship of the "Lower Costs, More Cures Act" in December 2019, a bill explicitly designed to kill Senator Chuck Grassley's competing proposal to cap drug prices at inflation rates. Tillis received $20,000 in pharma donations within one week of co-sponsoring the industry's preferred alternative.
+
+The North Carolina Research Triangle provides geographic cover for what is fundamentally a purchased relationship. Novo Nordisk, GlaxoSmithKline, and Biogen all operate in the Research Triangle Park adjacent to Tillis's Wake County base. This lets the pharmaceutical investment masquerade as "local business support." But the policy output went far beyond North Carolina interests. Tillis fought drug price negotiation, defended patent monopolies, and opposed every measure that would have reduced pharmaceutical pricing power nationally. His constituents paying $300 for insulin were not the beneficiaries. His donors manufacturing that insulin were.
+
+The class function is clear when you compare Tillis's pharmaceutical positioning to his immigration record. On immigration, Tillis built a bipartisan border bill, called it "extraordinary tools," then abandoned it the moment Donald Trump opposed it, calling the killing "immoral" but deferring anyway. The immigration brand was disposable theater. The pharmaceutical positioning never wavered, never collapsed, never bent to populist pressure. That is the difference between a policy position held for show and one held because it is paid for. Tillis retired in 2025 with the pharmaceutical industry's investment fully intact and zero risk of policy reversion.
 
 ---
 

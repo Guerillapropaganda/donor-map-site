@@ -1,9 +1,9 @@
 ---
 title: "Patrick McHenry Master Profile"
 type: politician
-content-readiness: draft
+content-readiness: ready
 central-thesis: "Patrick McHenry's congressional career is the perfected architecture of Wall Street legislative capture: a Congressman who spent 20 years writing financial regulation that explicitly benefited his donors, then cashed out to those same donors' firm..."
-last-updated: 2026-04-10
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 party: "Republican"
@@ -162,6 +162,14 @@ The simultaneity is the point: McHenry was not hired by these firms because he p
 > **9 months:** FIT21 passes House (May 2024) → McHenry takes 5 simultaneous fintech/crypto positions (February-April 2025). Andreessen Horowitz — which donated $20M to the PAC that funded McHenry — hired him as Senior Advisor. The legislative infrastructure was built; then it was monetized.
 
 ---
+
+## Class Analysis
+
+Patrick McHenry's career is the revolving door operating at maximum efficiency. Over 20 years, the securities and investment industry paid him $2.6 million in campaign contributions. In return, McHenry used his Financial Services Committee chairmanship to write regulation that systematically dismantled consumer protections and preempted state-level oversight, exactly what his donors needed. The culmination was FIT21, a crypto deregulation bill drafted with direct industry input that preempted California and New York regulators, weakened stablecoin reserve requirements, and restricted state attorneys general from enforcing consumer protection in digital finance. Within six weeks of leaving Congress, McHenry was hired by Robinhood, Citadel (whose founder Kenneth Griffin donated $37,600 in the 2024 cycle alone), Apollo Global Management, Capital One, Sallie Mae, and the Cryptocurrency Industry Alliance. Six jobs in six weeks, estimated at $3M+ annually.
+
+The class function is explicit: McHenry translated Wall Street's regulatory preferences into legislative language while maintaining the rhetorical cover of "free market principles" and "financial innovation." The FIT21 case strips away all ambiguity. The crypto industry wanted federal preemption of state regulation, reduced disclosure requirements, and DeFi exemptions. McHenry's committee delivered every item on the list. The companies that wrote the bill then hired the congressman who passed it. This is not influence or access. This is a service contract with deferred compensation.
+
+McHenry's 20-year arc from junior congressman ($800K in securities money, 2005-2010) to committee chair ($1.1 million during peak contributions, 2016-2022) to industry employee ($3M+ annually starting January 2025) demonstrates that congressional service in the financial sector is, functionally, an apprenticeship. The legislative output served the donor class at every stage. The "retirement" was not a career change. It was a promotion.
 
 ## Analytical Patterns
 
