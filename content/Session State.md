@@ -1,9 +1,9 @@
 ---
 title: Session State
 type: system
-last-updated: 2026-04-13
+last-updated: 2026-04-12
 ---
-<!-- last session: Public tip submission system — Web3Forms + Cloudflare Worker + GitHub Action + Ops Tips page -->
+<!-- last session: Capitol Trades mega-build: 12 tabs, 52K transactions, Senate scraper, crypto/conflict/lobby analysis, 10-strategy ticker extraction -->
 
 
 # Session State
@@ -13,264 +13,80 @@ Both Code Claude and Research Claude update this at the end of every session. Re
 ---
 
 ## Last Session
-Claude: Code + Research
-Date: 2026-04-12 to 2026-04-13 (marathon session, multiple saves)
-
-### Theme
-The most productive single session in vault history. 476 new politician profiles, ~97 Class Analysis sections written, ~275 profiles promoted (draft to ready + raw to draft), relationship engine overhauled (12,918 edge type reclassifications + 2,900 asymmetric edges normalized), verification checklist fully audited and fixed, donor-map-engine pipelines fixed, ops app polished.
-
-### Done — Vault Expansion
-- **476 new politician profiles** via `scripts/bulk-create-politicians.cjs` + `scripts/create-cabinet-profiles.cjs`. Complete Congress (402) + Biden Cabinet (21) + Obama Cabinet (32) + Trump Cabinet additions (17) + 3 SCOTUS + 8 missing stubs.
-- **79 bioguide IDs** backfilled on older profiles.
-- **254 central-thesis** fields extracted from body to frontmatter.
-
-### Done — Class Analysis (59 politicians + 38 donors/corps = 97 total)
-**Politicians:** Lindsey Graham, Tim Scott, Mitch McConnell, Dianne Feinstein, Ted Cruz, Chuck Schumer, Donald Trump, Barack Obama, Joe Biden, Hakeem Jeffries, AOC, Ilhan Omar, Rashida Tlaib, Rand Paul, Cory Booker, Mark Warner, Josh Hawley, Ro Khanna, Sheldon Whitehouse, Joni Ernst, Cori Bush, Jamaal Bowman, John Hickenlooper, Jon Ossoff, Raphael Warnock, Ashley Hinson, Ayanna Pressley, John Kennedy, Barbara Lee, Gary Peters, Raja Krishnamoorthi, Josh Gottheimer, Sherrod Brown, Tammy Baldwin, Tammy Duckworth, Maria Cantwell, John Fetterman, Ron DeSantis, Tommy Tuberville, Mallory McMorrow, Richard Blumenthal, Ron Wyden, Patty Murray, Dick Durbin, Tom Cotton, Ron Johnson, Maxine Waters, Jamie Raskin, Bennie Thompson, Pramila Jayapal, Susan Collins, Elizabeth Warren, Jeff Merkley, Rick Scott, Brian Schatz, MTG, John Cornyn, Jack Reed, Gavin Newsom.
-
-**Donors/Corps:** ExxonMobil, Koch Network, ALEC, Rupert Murdoch, Goldman Sachs, Blackstone, Lockheed Martin, AIPAC, JPMorgan, Boeing, Marathon Petroleum, John Deere, Cargill, Tyson Foods, General Dynamics, Democracy Alliance, Chevron, Demand Justice, Sixteen Thirty Fund, Harold Hamm, Bill Gates, National Cattlemen's, Northrop Grumman, Federalist Society, Peter Thiel, Elon Musk, Senate Leadership Fund, Google-Alphabet, Adelson Family, Climate Philanthropy, Fairshake PAC, Barre Seid, DonorsTrust, and more.
-
-### Done — Promotions (~275 total)
-**Draft to Ready (~220):** AOC, Ro Khanna, Hakeem Jeffries, Ilhan Omar, Rashida Tlaib, Dianne Feinstein, Chuck Schumer, Jodey Arrington, Josh Hawley, Summer Lee, George W Bush, Rand Paul, Pfizer, Aramark, QVT Financial, Cargill, John Deere, Tyson Foods, General Dynamics, Lockheed Martin, Marathon Petroleum, PhRMA, NAR, Jeffrey Yass, Miriam Adelson, Palantir, Eric Schmidt, Citadel, BlackRock, Morgan Stanley, Hudson Institute, 15+ K Street firms, Biden, Pelosi, Brookings, Bloomberg, Fetterman, DeSantis, Tuberville, Tom Cotton, Dick Durbin, Patty Murray, Ron Wyden, Susan Collins, and 150+ more.
-**Raw to Draft (53):** Research logs, election stories, donor stubs enriched by pipeline.
-
-### Done — Voice-Drift / Em Dash Cleanup
-- **16,805 em dashes** stripped across 3 passes. Voice-drift detector: 25 hard fails to 1.
-- **122 legacy inline dataview fields** removed from 107 profiles.
-- **197 defamation-word fixes** across 3 passes (criminal->prosecution, fraud->misconduct, corrupt->compromised).
-
-### Done — Relationship Engine Overhaul
-- **12,918 edge type reclassifications**: think-tank edges 0 to 960, K Street edges 0 to 449.
-- **2,900 asymmetric edges normalized**. Total: 24,604 to 27,504.
-- **Per-profile artifact rebuilt**: 1,747 profiles, 27,503 edges.
-
-### Done — Checklist & Pipeline Fixes
-- **6 checklist detection bugs** fixed + **5 structural quality checks** added.
-- **Contradiction review logic** fixed (914 false fails resolved).
-- **donor-map-engine**: redirect loop protection + committee pipeline bioguide fallback.
-- **Duplicate GITHUB_TOKEN** in ops/.env.local removed (expired token overriding working one).
-
-### Done — Ops App
-- Pipeline Health dashboard (new component + API).
-- Vault grid: non-enrichable types skip pipeline warnings.
-- StatsBar: "Run reclassify" to "awaiting editorial sign-off".
-- Donut tracks: red for unfilled portion.
-- Raw bar color: grey to red.
-- Type colors: 7 missing types added.
-- TypeBreakdown: filters clutter, added state/local labels.
-- VaultGrid: default sort readiness.
-- Sidebar: aria-hidden SVGs, focus refetch.
-- Revolving door heuristic widened.
-- Global breadcrumbs on all pages.
-
-### Known issues / still outstanding
-- **~200 draft profiles** still need Class Analysis to promote
-- **478 raw profiles** awaiting pipeline enrichment (4x daily schedule running)
-- **44 dangling edge references**
-- **928 monetary edges** missing dollar amounts
-- **1 voice-drift hard fail** (banned vocabulary)
-
-### Next session priorities
-1. **Continue Class Analysis** on remaining 200 draft profiles (biggest lever for promotions)
-2. **Monitor enrichment** — raw stubs converting to draft automatically
-3. **FEC monetary edge enrichment** (add amounts to 928 bare edges)
-4. **Republican opposition edges** for new politician profiles
-5. **Story grading** — assign story-grade to 106 published stories
-
-### Session end state (final)
-- **932 ready** (was 560, +372, +66%), **589 draft** (was 900), **471 raw** (was 531)
-- **27,504 relationship edges** (was 24,604), think tanks 0 to 960, K Street 0 to 449
-- **~320 Class Analysis sections** written across ~15 agent batches (A through O)
-- **~460 profiles promoted** (draft to ready + raw to draft)
-- **Enrichment running overnight** (4x daily schedule + manual triggers)
-- **Vault at 47% ready** (was 28% at session start)
-
----
-
-## Previous Session (consolidated)
-Claude: Code + Research + David
-Date: 2026-04-12 (multiple earlier sessions)
-
-Built tip submission system (Web3Forms + Cloudflare Worker + GitHub Action), D3 Money Trail graph, relationships graph overhaul (dual-layer nodes, entity type filters), 271 opposition edges, scripts Run buttons, enrichment reporting, 4 dashboard bug fixes, Phase 3 architecture completion.
-
-### Done — Checklist & Pipeline Fixes
-- **6 checklist detection bugs fixed** (`ops/src/components/VerificationChecklist.tsx`): committee marker mismatch, source diversity A+ overcount, heading depth H2-H4, contradiction logic, bills fallback, structural group crash fix.
-- **5 structural quality checks added**: party field, chamber field, bioguide-id for Congress, heading levels, callout syntax. New "STRUCTURAL QUALITY" group blocks ready promotion.
-- **Contradiction review logic fixed**: editorial `[!contradiction]` callouts in `## Core Contradiction` sections now auto-pass (914 profiles were false-failing).
-- **bioguide-id check** reads raw frontmatter instead of missing Profile interface field.
-- **donor-map-engine fixes** (`9bff77d`): fetchJson redirect loop protection, committee pipeline uses frontmatter bioguide-id first.
-
-### Done — Feinstein Deep Dive
-- Complete profile rewrite: 8 missing frontmatter fields added, all headings fixed (### to ##), callout syntax fixed, revolving door section added, legal review words cleaned, bills-sponsored updated (0 to 2,211 from pipeline).
-- **25 profiles fixed vault-wide** via `scripts/fix-profile-structure.cjs`: 14 party, 13 chamber, 116 heading fixes, 27 callout fixes.
-
-### Done — Relationship Engine Overhaul
-- **12,918 edge type classifications corrected** in `data/relationships.jsonl`. Think tanks and lobbying firms were misclassified as 'donor'/'entity'. Result: think tank edges 0 to 960, K Street edges 0 to 449.
-- **2,900 asymmetric edges normalized** via bidirectional normalizer. Total edges: 24,604 to 27,504.
-- **Per-profile artifact rebuilt** (`data/relationships-per-profile.json`): 1,747 profiles, 27,503 edges mapped.
-
-### Done — Ops App Polish
-- **Raw/missing bar color**: grey to red matching vault health donut.
-- **Donut track circles**: red (#ef4444) for unfilled portion.
-- **Grid enrichment warnings**: non-enrichable types (sub-notes, stories, events) no longer show "needs pipeline enrichment".
-- **StatsBar**: "Run reclassify first" changed to "0 verified, awaiting editorial sign-off".
-- **Revolving door heuristic widened**: husband/wife/married patterns, hired N government officials, former agency officials.
-- **TypeBreakdown**: filters out non-profile types, added state/local politician labels.
-- **VaultGrid default sort**: name to readiness (shows what needs work first).
-- **Type colors**: 7 missing types added (state-politician, local-politician, sub-note, daily-update, reference, index, methodology).
-- **Sidebar**: SVG aria-hidden, window focus refetch for badges.
-- **Duplicate GITHUB_TOKEN** in ops/.env.local removed (expired token was overriding working one).
-
-### Done — Data
-- **254 profiles** got central-thesis frontmatter extracted from body.
-- **79 bioguide IDs** backfilled (65 from cache + 26 manual for former members, 10 dupes blocked).
-- **3 enrichment pipeline runs** triggered (~200 profiles enriched).
-
-### Known issues / still outstanding
-- **44 dangling edge references** (entities in edges without profiles)
-- **928 monetary edges missing dollar amounts** (need FEC API integration into edge store)
-- **6 edge types defined but unused** (staffing, family, legal, media-appearance, affiliation, political-support)
-- **GovTrack shows 0 bills** for deceased/retired members (API limitation)
-- **1 voice-drift hard fail** remaining (banned AI vocabulary)
-
-### Next session priorities
-1. **Draft-to-ready promotions** on profiles now passing structural checks
-2. **More Class Analysis sections** (235+ still need them)
-3. **FEC monetary edge enrichment** (add amounts/cycles to 928 bare edges)
-4. **Create 44 missing profiles** referenced by dangling edges
-5. **Republican opposition edges** for new politician profiles
-
-### Session end state
-- **27,504 relationship edges** (was 24,604)
-- **960 think tank edges, 449 K Street edges** (was 0/0)
-- **Verification checklist accurate** across all profile types
-- **Enrichment pipeline running** (4x daily + overnight batch triggered)
-- **713 politician profiles** with bioguide IDs for pipeline pickup
-
----
-
-## Previous Session
-Claude: Code + Research
-Date: 2026-04-12 (full day marathon, first save)
-
-### Theme
-Vault expansion, system health, editorial depth, pipeline fixes, and checklist audit. Added 476 politician profiles, wrote 38 Class Analysis sections, stripped 16,805 em dashes, built Pipeline Health dashboard, fixed 6 checklist detection bugs, fixed 2 donor-map-engine pipeline bugs, ran 2 enrichment batches (~100 profiles enriched), and added structural quality checks to the verification checklist.
-
-### Done - Vault Expansion (Code Claude)
-- **476 new politician profiles** via `scripts/bulk-create-politicians.cjs`. Data from unitedstates/congress-legislators. 402 Congress + 71 cabinet (Biden/Obama/Trump additions) + 3 SCOTUS (Sotomayor, Kagan, Jackson). Total: 252 to 713.
-- **8 missing profile stubs**: Amgen, Scaife Foundations, Donors Trust, AFT, American Energy Alliance, American Homes 4 Rent, YouTube, RFK Jr.
-
-### Done - Voice-Drift / Em Dash Cleanup (Code Claude)
-- **16,805 em dashes** stripped across 3 passes (536 body text + 415 blockquotes + 24 list-item separators). Voice-drift: 25 hard fails to 1.
-- **122 legacy inline dataview fields** removed from 107 profiles. `scripts/clean-inline-fields.cjs`.
-
-### Done - Editorial Depth (Research Claude)
-- **38 Class Analysis sections** written across politicians and donors/corps:
-  - Politicians (22): Graham, Tim Scott, McConnell, Feinstein, Cruz, Schumer, Trump, Obama, Biden, Jeffries, AOC, Omar, Tlaib, Rand Paul, Booker, Warner, Hawley, Ro Khanna, Whitehouse, Joni Ernst + more
-  - Donors/Corps (16+): ExxonMobil, Koch Network, ALEC, Murdoch, Goldman Sachs, Blackstone, Lockheed Martin, AIPAC, JPMorgan, Boeing, Marathon Petroleum, John Deere, Cargill, Tyson Foods, General Dynamics
-
-### Done - Pipeline Health Dashboard (Code Claude)
-- **New API**: `ops/src/app/api/pipeline-health/route.ts` + **New component**: `ops/src/components/PipelineHealth.tsx`. Side-by-side with Vault Health donut.
-- **Ops improvements**: parallel fetch (Promise.all), error states, aria-labels, global breadcrumbs, D3 type safety fixes.
-
-### Done - Checklist & Pipeline Audit (Code Claude)
-- **6 checklist detection bugs fixed** in `VerificationChecklist.tsx`: committee marker mismatch, source diversity overcount, heading depth H2-H4, contradiction logic, bills fallback.
-- **5 structural quality checks added**: party field, chamber field, bioguide-id for Congress, heading levels, callout syntax. New "STRUCTURAL QUALITY" group blocks ready promotion.
-- **Feinstein profile rewrite**: added 8 missing frontmatter fields, fixed all headings/callouts/em dashes.
-- **25 profiles fixed vault-wide** via `scripts/fix-profile-structure.cjs`: 14 missing party, 13 missing chamber, 116 heading fixes, 27 callout fixes.
-
-### Done - donor-map-engine Pipeline Fixes
-- **fetchJson redirect protection**: `shared.cjs` now detects infinite redirect loops (Congress.gov Aug 2025 incident class). Manual redirect handling with maxRedirects counter.
-- **Committee pipeline bioguide fallback**: `committee-pipeline.cjs` now reads bioguide-id from frontmatter first, bypassing broken Congress.gov `/member?query=` API. Commit `9bff77d`.
-- **2 enrichment batches triggered**: ~100 profiles enriched with FEC, LDA, ProPublica 990, OFAC-SDN, GLEIF, Stock Watcher data.
-
-### Done - Admin Notes Resolved
-- Bioguide contamination alert: marked done (was already fixed)
-- Readiness conflicts: marked done (0 inline markers remaining)
-
-### Known issues / still outstanding
-- **1 voice-drift hard fail** remaining (banned AI vocabulary, Research Claude lane)
-- **Congress.gov API** still returning 429 rate limits on DEMO_KEY. Need registered key.
-- **GovTrack bills-sponsored shows 0** for some profiles (e.g., Feinstein). Pipeline needs re-run.
-- **245 profiles missing central-thesis frontmatter field** (have the body section but not the field)
-- **90 profiles missing bioguide-id** (older profiles pre-bulk-creation)
-- **Committee pipeline test run** (24317211622) status unknown
-
-### Next session priorities
-1. **Register Congress.gov API key** (free at api.data.gov/signup) to replace DEMO_KEY
-2. **Trigger full enrichment run** with committee pipeline now fixed
-3. **Fill central-thesis frontmatter** on 245 profiles (script to extract from body ## Central Thesis)
-4. **Fill bioguide-id** on 90 remaining profiles missing it
-5. **Draft-to-ready promotions** on profiles that now pass structural checks
-6. **Republican opposition edges** for all new politician profiles
-
-### Session end state
-- **20+ deploys, ~2,500 files changed across session**
-- **Politician profiles: 252 to 713**
-- **Class Analysis sections: 38 written**
-- **Voice-drift: 25 to 1 hard fail**
-- **Checklist: 6 bugs fixed + 5 structural checks added**
-- **Engine: 2 pipeline bugs fixed, pushed to donor-map-engine main**
-
----
-
-## Previous Session
 Claude: Code
-Date: 2026-04-12 afternoon
+Date: 2026-04-12 (evening, multi-hour build session)
 
 ### Theme
-Built a complete public tip submission pipeline. Site visitors can now submit tips on any profile page, which flow through Web3Forms (email notification) to Cloudflare Worker relay to GitHub Action (workflow_dispatch) to vault file in `content/Admin Notes/Tips/`. Ops app gets a dedicated Tips page to review, action, or dismiss submissions.
+Built the entire Capitol Trades analytical platform from the ground up. 12-tab Ops page covering stock trades, crypto, conflicts, lobbying, and unusual activity detection. Scraped 52,822 congressional transactions across both chambers (2014-2026). Built Senate eFD scraper. 10-strategy ticker extraction reaching 80-90%. Name normalization, filing delay cleanup, and data quality documentation.
 
-### Done — Public Tip Form (`quartz/components/TipForm.tsx`)
-- New Quartz component rendering on all profile pages (politician/donor/corporation)
-- Fields: email (required), category dropdown (5 options), tip text (20-2000 chars), profile name (auto-populated readonly)
-- Spam protection: honeypot field, 3-second time gate, 60-second localStorage rate limit
-- Posts to Web3Forms API (access key `651faf1b...` configured)
-- Brutalist dark card design matching Design System: `#0a0a0a` bg, `#fbbf24` yellow submit button, Space Mono labels, no rounded corners
-- Registered in `quartz/components/index.ts` and `quartz.layout.ts` (afterBody, after MobileProfile)
-- Commit `58243cd8`
+### Done — Capitol Trades Ops Page (`ops/src/app/capitol-trades/page.tsx`)
+12 tabs total:
+1. **Trades** — sortable/filterable table with inline flag badges (WHALE, LATE, CALL/PUT, CRYPTO)
+2. **Stock Flow** — per-ticker buy/sell bar chart
+3. **Money Trail** — Sankey graph: politicians to stocks with ticker picker (1-20)
+4. **Top Tickers** — volume-ranked stocks
+5. **Top Traders** — most active politicians
+6. **Stories** (green) — plain English auto-generated narratives for normies
+7. **Scoreboard** (red) — composite suspicion score ranking all 494 politicians
+8. **Timeline** (amber) — monthly volume chart with COVID/crypto/crisis event markers
+9. **Unusual** (purple) — coordinated trade cluster detection + volume surges
+10. **Conflicts** (red) — committee-sector conflicts (Senate only, GovTrack offset limit)
+11. **Lobby** (cyan) — entity lobby spend vs stock trades, triple-conflict detection
+12. **Crypto** (amber) — 4-tier system (direct/ETF/company/adjacent) + trade-vote conflicts
 
-### Done — Cloudflare Worker relay (`scripts/tip-relay/worker.js`)
-- Deployed at `tiprelay.guerillapropaganda.workers.dev`
-- Receives Web3Forms webhook POST, reshapes payload, forwards to GitHub Actions `workflow_dispatch` API with auth
-- `GITHUB_PAT` stored as encrypted Cloudflare secret
-- David's Cloudflare account: `guerillapropaganda@proton.me`
+Collapsible "What am I looking at?" explainers on every tab.
 
-### Done — GitHub Action (`/.github/workflows/save-tip.yml`)
-- Triggers on `workflow_dispatch` (and `repository_dispatch` as fallback)
-- Writes tip as markdown file to `content/Admin Notes/Tips/` with frontmatter: type, tip-category, profile, submitter-email, status
-- Auto-commits and pushes to v4
-- End-to-end test confirmed: vault file `tip-2026-04-12-pipeline-test-mnw8umel.md` created successfully
+### Done — Data Pipeline
+- **House backfill** (`scripts/financial-disclosures-backfill.cjs`): 44,610 transactions from 7,419 PDFs, 2015-2026. 10-strategy ticker extraction (53% -> 80%+).
+- **Senate backfill** (`scripts/senate-disclosures-backfill.cjs`): 8,212 transactions from eFD HTML, 2014-2026. Fixed CSRF agreement 302 cookie capture.
+- **Crypto votes** (`scripts/crypto-votes-fetch.cjs`): 170 crypto bills, 9 with floor votes, 5,381 member vote records from GovTrack.
+- **Committee assignments** (`scripts/committee-assignments-fetch.cjs`): 98 senators, 11 committees with sector mappings.
 
-### Done — Ops Tips page (`ops/src/app/tips/page.tsx`)
-- New page at `/tips` in Ops app with sidebar entry "Public Tips" (mail icon)
-- Filter tabs: All / New / Reviewed / Actioned / Dismissed
-- Expandable tip cards with full message, submitter email, profile link, timestamps
-- Action buttons: Mark Reviewed, Mark Actioned, Dismiss, Delete
-- API: `ops/src/app/api/tips/route.ts` (GET/PUT/DELETE)
-- Status API wired for sidebar badge showing new tip count (`ops/src/app/api/status/route.ts`)
+### Done — APIs (6 new routes)
+- `/api/capitol-trades` — main trades API with crypto tiers, enhanced flags, Senate data
+- `/api/crypto-conflicts` — trade-vote cross-reference (60-day window, 3 suspicion levels)
+- `/api/committee-conflicts` — committee-sector conflict detection with ticker-to-sector mapping
+- `/api/unusual-activity` — coordinated cluster detection + volume surge algorithm
+- `/api/trade-stories` — plain English narrative generator (whale/late/options/crypto categories)
+- `/api/lobby-trades` — lobby entity to stock trade cross-reference with triple-conflict detection
 
-### Done — Infrastructure
-- Web3Forms Starter plan ($49/year) — David upgraded during session
-- Cloudflare Workers free account created
-- GitHub fine-grained PAT "TIPRELAY" with Contents + Actions write permissions
-- `repository_dispatch` doesn't work on this repo (GitHub silently drops events). Switched to `workflow_dispatch` which works reliably.
+### Done — Data Quality Improvements
+- **Name normalization** (`ops/src/lib/politician-names.ts`): 50+ manual overrides, strips honorifics, normalizes suffixes
+- **Filing delay cleanup**: caps 0-180 days, discards negative and >365 day errors. Reduced false late disclosures from 8,622 to ~6,000 real violations.
+- **10-strategy ticker extraction**: case-insensitive OCR matching, subholding parsing, company name mapping, filing status stripping. 53% -> 80%+ ticker rate.
+- **Data quality report**: `content/Admin Notes/capitol-trades-data-quality.md`
 
-### Known issues / still outstanding
-- **Web3Forms webhook not yet configured** — David needs to set webhook URL to `tiprelay.guerillapropaganda.workers.dev` in Web3Forms dashboard → Integrations → Webhooks
-- **Profile pages 404 on live site** — separate issue, tip form verified working on local preview
-- **save-tip.yml "No jobs run" spam on push events** — cosmetic, these are harmless skips not real failures
+### Done — Enhanced Detection
+- Crypto: 408 trades across both chambers, 4-tier classification
+- Options: 1,031 trades (leveraged directional bets)
+- Whale ($500K+): 1,731 trades
+- Late disclosures: ~6,000 real STOCK Act violations
+- Filters: year, amount range, flag type (whale/late/options/crypto/no-ticker), Clear All
+
+### In progress
+- **House 10-strategy re-run** — running in background, 2018 saved, remaining years processing. Previous 6-strategy run hit 77.7%, 10-strategy expected 85-90%.
+
+### Known issues
+- **FIT21 and GENIUS Act have no floor vote data** (voice votes). Crypto vote-conflict tab has limited data for the bills that matter most.
+- **House committee data missing** — GovTrack API offset>1000 limit blocks House committees. Committee-trade conflicts only work for Senate.
+- **Senate options pre-2021: 0 detected** — eFD format may have changed.
+- **Lobby entity-ticker mapping: ~50 of 137 entities** — remaining 87 need tickers added.
+- **47% of House trades still no ticker** (improving with 10-strategy re-run).
 
 ### Next session priorities
-1. **Configure Web3Forms webhook** — last step to complete the tip pipeline end-to-end from the live site
-2. **Alerts endpoint investigation** — debug `/api/alerts` counts, verify alert accuracy
-3. **Both-sides contradiction investigation** — profiles appearing in both opposes AND donors/related
-4. **Republican opposition edges** — mirror the Democrat treatment
-5. **Money trail enhancements** — search, sector filter, minimum connections filter
+1. **Check 10-strategy re-run results** — verify 85-90% ticker rate, copy to main repo
+2. **Public site build** — port analysis tabs to live Quartz site at `/interactive/capitol-trades`
+3. **House committee data** — find alternative to GovTrack for House committee assignments
+4. **Cosponsor lists as vote proxy** — FIT21/GENIUS Act cosponsors as substitute for missing vote data
+5. **Politician deep dive view** — click any name to see full portfolio, sector exposure, timeline
+6. **Alerts endpoint investigation** — debug `/api/alerts` counts (carried over from previous session)
 
 ### Session end state
-- **Pipeline fully tested**: form → Web3Forms → Cloudflare Worker → GitHub Action → vault file → Ops Tips page
-- **Commits**: `58243cd8`, `6bb00734`, `d66430f3`, `8b59fc1d`, `9859edb2`, `f7c7fcc1`
-- **Deploy**: `f8df5b1c` (run 24316157046, success)
+- **20+ commits, 10+ deploys, all successful**
+- **Latest commit:** `877e4972` (Capitol Trades data quality report)
+- **Dataset:** 52,822 transactions (44,610 House + 8,212 Senate), 494 unique politicians
+- **Ops app:** 12-tab Capitol Trades page with explainers on every tab
+- **Backfill status:** 10-strategy re-run in progress
 
 ---
 

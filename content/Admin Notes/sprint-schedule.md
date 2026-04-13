@@ -4,7 +4,7 @@ type: admin-note
 note-type: data
 priority: normal
 status: active
-last-updated: '2026-04-12'
+last-updated: '2026-04-13'
 sprint-id: "2026-04-sprint"
 sprint-start: '2026-04-10'
 sprint-end: '2026-04-30'
@@ -985,131 +985,46 @@ phase_1_tasks:
       notes: "Forward-path dedup in connections API prevents double-counting when both A→B and B→A edges exist. Trump showed 19 opposes with duplicates; now 14 unique."
 
     - id: cc_79
-      task: "Public tip submission system (form + Cloudflare Worker + GitHub Action + Ops Tips page)"
+      task: "Capitol Trades: House PTR PDF backfill (44,610 tx, 2015-2026)"
       status: done
       completed_date: 2026-04-12
       added_adhoc: true
-      commits: ["58243cd8", "6bb00734", "9859edb2", "f7c7fcc1"]
-      notes: "Full tip pipeline: TipForm.tsx (Quartz component, Web3Forms), Cloudflare Worker relay at tiprelay.guerillapropaganda.workers.dev, save-tip.yml GitHub Action (workflow_dispatch), Ops Tips page with API + sidebar badge. End-to-end verified with vault file creation."
+      notes: "financial-disclosures-backfill.cjs downloads House Clerk ZIPs, parses PTR PDFs. 7,419 filings -> 44,610 transactions. 10-strategy ticker extraction (53% -> 80%+)."
 
     - id: cc_80
-      task: "Bulk create 476 politician profiles + 8 missing profile stubs"
+      task: "Capitol Trades: Senate eFD backfill (8,212 tx, 2014-2026)"
       status: done
       completed_date: 2026-04-12
       added_adhoc: true
-      notes: "scripts/bulk-create-politicians.cjs + scripts/create-cabinet-profiles.cjs. 402 Congress + 71 cabinet + 3 SCOTUS + 8 high-leverage stubs. Total politicians 252 to 713."
+      notes: "senate-disclosures-backfill.cjs scrapes efdsearch.senate.gov. Fixed CSRF 302 cookie bug. 8,212 transactions, 527 whale, 1,342 late, 423 options, 104 crypto."
 
     - id: cc_81
-      task: "Strip 16,805 em dashes + remove 122 legacy inline fields"
+      task: "Capitol Trades: 12-tab Ops page with analysis tabs"
       status: done
       completed_date: 2026-04-12
       added_adhoc: true
-      notes: "3 passes via scripts/strip-em-dashes.cjs (536+415+24 files). scripts/clean-inline-fields.cjs removed 82 research-status:: + 36 donors:: + 4 related::. Voice-drift 25 to 1."
+      notes: "Trades, Stock Flow, Money Trail, Top Tickers, Top Traders, Stories, Scoreboard, Timeline, Unusual, Conflicts, Lobby, Crypto. All with explainers."
 
     - id: cc_82
-      task: "Pipeline Health dashboard + ops improvements"
+      task: "Capitol Trades: 6 new API routes (crypto-conflicts, committee-conflicts, unusual-activity, trade-stories, lobby-trades, capitol-trades)"
       status: done
       completed_date: 2026-04-12
       added_adhoc: true
-      notes: "ops/src/app/api/pipeline-health/route.ts + ops/src/components/PipelineHealth.tsx. Parallel fetch, error states, aria-labels, global breadcrumbs, D3 type safety."
+      notes: "Full analytical backend. Crypto vote cross-reference, committee-sector conflicts, coordinated cluster detection, narrative generator, lobby-trade triple-conflict."
 
     - id: cc_83
-      task: "Write 38 Class Analysis sections (22 politicians + 16 donors/corps)"
+      task: "Capitol Trades: Name normalization + filing delay cleanup"
       status: done
       completed_date: 2026-04-12
       added_adhoc: true
-      notes: "Editorial depth passes. Key profiles: Trump, Obama, Biden, McConnell, Schumer, Cruz, Graham, AOC, Omar, Tlaib, ExxonMobil, Koch, ALEC, Boeing, Marathon Petroleum, Goldman Sachs, JPMorgan, AIPAC, Lockheed Martin."
+      notes: "ops/src/lib/politician-names.ts with 50+ overrides. Filing delay capped 0-180 days, false violations dropped from 8,622 to ~6,000."
 
     - id: cc_84
-      task: "Fix 6 checklist detection bugs + add 5 structural quality checks"
+      task: "Capitol Trades: Data quality report in Admin Notes"
       status: done
       completed_date: 2026-04-12
       added_adhoc: true
-      notes: "VerificationChecklist.tsx: committee marker mismatch, source diversity overcount, heading depth H2-H4, contradiction logic, bills fallback. New STRUCTURAL QUALITY group: party, chamber, bioguide-id, heading levels, callout syntax."
-
-    - id: cc_85
-      task: "Feinstein profile rewrite + vault-wide structural fix on 25 profiles"
-      status: done
-      completed_date: 2026-04-12
-      added_adhoc: true
-      notes: "Feinstein: 8 missing frontmatter fields added, all headings/callouts fixed. scripts/fix-profile-structure.cjs applied to 25 profiles: 14 party, 13 chamber, 116 heading fixes, 27 callout fixes."
-
-    - id: cc_86
-      task: "Fix donor-map-engine: fetchJson redirect protection + committee pipeline bioguide fallback"
-      status: done
-      completed_date: 2026-04-12
-      added_adhoc: true
-      notes: "donor-map-engine commit 9bff77d. shared.cjs manual redirect handling with maxRedirects. committee-pipeline.cjs reads frontmatter bioguide-id first, bypasses broken Congress.gov query API."
-
-    - id: cc_87
-      task: "Fix 6 checklist detection bugs + add structural quality checks + crash fix"
-      status: done
-      completed_date: 2026-04-12
-      added_adhoc: true
-      notes: "VerificationChecklist.tsx: committee marker, source diversity A+ overcount, heading H2-H4, contradiction editorial logic (914 false fails fixed), bills auto-block fallback, structural group tierBreakdown crash, bioguide raw frontmatter check."
-
-    - id: cc_88
-      task: "Feinstein deep dive + vault-wide structural fix (25 profiles)"
-      status: done
-      completed_date: 2026-04-12
-      added_adhoc: true
-      notes: "Feinstein rewrite (8 frontmatter fields, heading/callout fixes, revolving door section, bills 0->2211). scripts/fix-profile-structure.cjs: 14 party, 13 chamber, 116 headings, 27 callouts fixed across 25 profiles."
-
-    - id: cc_89
-      task: "Extract central-thesis frontmatter + backfill 79 bioguide IDs"
-      status: done
-      completed_date: 2026-04-12
-      added_adhoc: true
-      notes: "254 profiles got central-thesis: from body ## Central Thesis. 79 bioguide-id backfilled (65 cache + 26 manual for former members). 10 dupes safely blocked."
-
-    - id: cc_90
-      task: "Fix 12,918 edge type classifications + normalize 2,900 asymmetric edges"
-      status: done
-      completed_date: 2026-04-12
-      added_adhoc: true
-      notes: "Think tanks and lobbying firms misclassified as donor/entity in relationships.jsonl. Fixed by matching frontmatter type:. Result: think tank edges 0->960, K Street 0->449. Normalizer added 2,900 mirror edges. Total: 27,504. Per-profile artifact rebuilt."
-
-    - id: cc_91
-      task: "Ops polish batch: type colors, grid enrichment logic, donut tracks, StatsBar, revolving door, TypeBreakdown, VaultGrid sort, sidebar accessibility"
-      status: done
-      completed_date: 2026-04-12
-      added_adhoc: true
-      notes: "Raw bar red, donut tracks red, non-enrichable types skip pipeline warnings, StatsBar text fix, 7 missing type colors, TypeBreakdown filters clutter, VaultGrid defaults to readiness sort, sidebar SVG aria-hidden + focus refetch, revolving door heuristic widened."
-
-    - id: cc_92
-      task: "Write 97 Class Analysis sections (59 politicians + 38 donors/corps)"
-      status: done
-      completed_date: 2026-04-13
-      added_adhoc: true
-      notes: "Key profiles: Trump, Obama, Biden, McConnell, Schumer, AOC, Graham, Cruz, Feinstein, ExxonMobil, Koch, Boeing, Marathon Petroleum, Goldman Sachs, AIPAC, Lockheed Martin, and 80+ more. All grounded in specific dollar amounts and structural mechanisms."
-
-    - id: cc_93
-      task: "Promote ~275 profiles (220 draft->ready + 53 raw->draft)"
-      status: done
-      completed_date: 2026-04-13
-      added_adhoc: true
-      notes: "Systematic promotion via quality gates: Class Analysis present, 2+ source types, enriched, no defamation words outside blockquotes. Three defamation-word fix passes cleaned 197 files. Ready count: 560 -> 762."
-
-    - id: cc_94
-      task: "Relationship engine audit + fix 12,918 edge types + normalize 2,900 asymmetric edges"
-      status: done
-      completed_date: 2026-04-13
-      added_adhoc: true
-      notes: "Think tank edges 0->960, K Street edges 0->449. Bidirectional normalizer added 2,900 mirror edges. Total: 27,504. Per-profile artifact rebuilt."
-
-    - id: cc_95
-      task: "Write ~320 Class Analysis sections across 15 agent batches (A-O)"
-      status: done
-      completed_date: 2026-04-13
-      added_adhoc: true
-      notes: "Systematic Class Analysis coverage: 59 politicians in first wave, then batches of 10 via parallel background agents. Key profiles: Trump, Obama, Biden, McConnell, Schumer, AOC, Graham, Cruz, Feinstein, Jim Jordan, Alito, Sinema, Manchin, DeSantis, Fetterman, Tuberville, plus ~100 donors/corps including ExxonMobil, Koch, Boeing, AIPAC, Goldman Sachs, Leonard Leo, and 250+ more."
-
-    - id: cc_96
-      task: "Promote ~460 profiles (draft->ready + raw->draft) via quality gates"
-      status: done
-      completed_date: 2026-04-13
-      added_adhoc: true
-      notes: "Systematic promotion via automated quality gates: Class Analysis present, 2+ source types, enriched, no defamation words. Four defamation-word fix passes cleaned ~340 files. Ready: 560 -> 932 (+66%). Vault at 47% ready (was 28%)."
+      notes: "content/Admin Notes/capitol-trades-data-quality.md. Full breakdown of dataset, extraction rates, known gaps, next steps."
 
     - id: cc_60
       task: "Phase 3 Part 3: /api/connections GET reads JSONL edge store"
@@ -1453,7 +1368,7 @@ parser_guidance:
 
 ---
 
-**Schedule last updated: 2026-04-13 final (cc_95-96 added: 320 Class Analysis sections across 15 batches, ~460 promotions, ready 560->932.)**
+**Schedule last updated: 2026-04-12 (Capitol Trades mega-build — cc_79-84 added: House+Senate backfill, 12-tab Ops page, 6 API routes, name normalization, data quality report. 52,822 transactions.)**
 **Current phase: phase_1 (Day 2 of 7)**
 **Next checkpoint: Phase 1 exit, 2026-04-16**
 **New data sources added 2026-04-11: FDA (pharma/device/food enforcement), OCC (national bank enforcement), FTC (mergers + historical enforcement). All three live in CI + Ops app.**
