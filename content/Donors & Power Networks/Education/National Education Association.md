@@ -24,7 +24,7 @@ sec-form-types:
   - "EX-99.3G"
 lei: "549300HK4YWG61O0MF87"
 lei-jurisdiction: "US-DC"
-related: "[[Economic Policy Institute]] · [[CalSTRS - California State Teachers' Retirement System]] · [[CTA - California Teachers Association]] · [[AFL-CIO]] · [[American Federation for Children]] · [[DeVos Family]] · [[US Chamber of Commerce]] · [[Stand Together]] · [[Insurance Industry]] · [[Walton Family Foundation]] · [[The 85 Fund]] · [[Defense Contractors Bloc]] · [[Defense Industry]] · [[Defense Industry Bloc]] · [[American Petroleum Institute]] · [[Western States Petroleum Association]]"
+related: "[[Economic Policy Institute]] · [[CalSTRS - California State Teachers' Retirement System]] · [[CTA - California Teachers Association]] · [[AFL-CIO]] · [[American Federation for Children]] · [[DeVos Family]] · [[US Chamber of Commerce]] · [[Stand Together]] · [[Insurance Industry]] · [[Walton Family Foundation]] · [[The 85 Fund]] · [[Defense Contractors Bloc]] · [[Defense Industry]] · [[Defense Industry Bloc]] · [[American Petroleum Institute]] · [[Western States Petroleum Association]] · [[Petrochemical Industry Bloc]]"
 federal-register-mentions: 57
 last-enriched: "2026-04-08"
 regulatory-agencies:

@@ -16,7 +16,7 @@ fara-records: 2
 fara-countries:
   - "QATAR"
 opposes: "[[Abby Martin]]"
-related: "[[Christians United for Israel]] · [[AIPAC - American Israel Public Affairs Committee]] · [[DMFI - Democratic Majority for Israel]] · [[United Democracy Project - UDP]] · [[AIPAC Super PAC Spending Map]] · [[Haim Saban]] · [[JCRC Bay Area]] · [[JPAC - Jewish Public Affairs Committee of California]] · [[J Street]] · [[American Friends of the Likud]] · [[Blue Shield of California]] · [[Anthem - Elevance Health]] · [[American Gaming Association]] · [[United Arab Emirates - Influence Operation]] · [[Turkey - Erdogan Lobbying Operation]]"
+related: "[[Christians United for Israel]] · [[AIPAC - American Israel Public Affairs Committee]] · [[DMFI - Democratic Majority for Israel]] · [[United Democracy Project - UDP]] · [[AIPAC Super PAC Spending Map]] · [[Haim Saban]] · [[JCRC Bay Area]] · [[JPAC - Jewish Public Affairs Committee of California]] · [[J Street]] · [[American Friends of the Likud]] · [[Blue Shield of California]] · [[Anthem - Elevance Health]] · [[American Gaming Association]] · [[United Arab Emirates - Influence Operation]] · [[Turkey - Erdogan Lobbying Operation]] · [[Saudi Arabia - Kingdom Investment]]"
 cross-vault-triangulation-count: 7
 needs-reenrichment: true
 reenrich-reason: "run fec pipeline; run pipelines"

@@ -17,7 +17,7 @@ net-assets: "$34.1M"
 tax-year: "2023"
 lobbying-spend: 10479974
 lobbying-filings: 106
-related: "[[Buffy Wicks]] · [[_Gavin Newsom Master Profile]] · [[Education - Donors and Backers]] · [[Charter Schools and the Billionaire Reform Movement]] · [[Eli Broad Foundation]] · [[Walton Family Foundation]] · [[Blue Shield of California]] · [[Haim Saban]] · [[JPAC - Jewish Public Affairs Committee of California]] · [[JCRC Bay Area]] · [[J Street]] · [[Christians United for Israel]] · [[American Friends of the Likud]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Anthem - Elevance Health]] · [[American Gaming Association]]"
+related: "[[Buffy Wicks]] · [[_Gavin Newsom Master Profile]] · [[Education - Donors and Backers]] · [[Charter Schools and the Billionaire Reform Movement]] · [[Eli Broad Foundation]] · [[Walton Family Foundation]] · [[Blue Shield of California]] · [[Haim Saban]] · [[JPAC - Jewish Public Affairs Committee of California]] · [[JCRC Bay Area]] · [[J Street]] · [[Christians United for Israel]] · [[American Friends of the Likud]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Anthem - Elevance Health]] · [[American Gaming Association]] · [[United Arab Emirates - Influence Operation]]"
 cross-vault-triangulation-count: 9
 needs-reenrichment: true
 reenrich-reason: "run fec pipeline; run pipelines"

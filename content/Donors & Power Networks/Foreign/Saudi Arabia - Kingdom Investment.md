@@ -13,7 +13,7 @@ needs-reenrichment: true
 reenrich-reason: "run fec pipeline"
 ofac-programs:
   - "SDGT"
-related: "[[The National Security and Foreign Policy Realist]] · [[Gulf State Money - Saudi Arabia, UAE, Qatar]] · [[Mohammed bin Salman]] · [[Halliburton]] · [[United Arab Emirates - Influence Operation]] · [[Turkey - Erdogan Lobbying Operation]] · [[Haim Saban]] · [[JCRC Bay Area]] · [[J Street]] · [[Christians United for Israel]]"
+related: "[[The National Security and Foreign Policy Realist]] · [[Gulf State Money - Saudi Arabia, UAE, Qatar]] · [[Mohammed bin Salman]] · [[Halliburton]] · [[United Arab Emirates - Influence Operation]] · [[Turkey - Erdogan Lobbying Operation]] · [[Haim Saban]] · [[JCRC Bay Area]] · [[J Street]] · [[Christians United for Israel]] · [[American Friends of the Likud]]"
 lei: "558600VNAD657YBT9892"
 lei-jurisdiction: "SA"
 cross-vault-triangulation-count: 3
