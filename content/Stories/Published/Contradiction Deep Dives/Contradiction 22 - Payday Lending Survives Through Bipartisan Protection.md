@@ -1,7 +1,7 @@
 ---
 title: "Payday Lending Survives Through Bipartisan Protection"
 type: story
-content-readiness: raw
+content-readiness: draft
 last-updated: 2026-04-10
 source-tier: 2
 parent: null

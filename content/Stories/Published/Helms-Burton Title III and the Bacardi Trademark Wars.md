@@ -1,7 +1,7 @@
 ---
 title: "Helms-Burton Title III and the Bacardi Trademark Wars: How Corporate Lobbying Rewrote U.S.-Cuba Policy"
 type: sub-note
-content-readiness: raw
+content-readiness: draft
 last-updated: 2026-04-02
 source-tier: 1
 parent: null

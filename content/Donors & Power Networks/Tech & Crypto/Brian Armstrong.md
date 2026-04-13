@@ -1,7 +1,7 @@
 ---
 title: "Brian Armstrong"
 type: donor
-content-readiness: raw
+content-readiness: draft
 last-updated: 2026-04-11
 source-tier: null
 parent: null

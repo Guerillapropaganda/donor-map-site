@@ -1,7 +1,7 @@
 ---
 title: "American Energy Alliance"
 type: corporation
-content-readiness: raw
+content-readiness: draft
 last-updated: 2026-04-12
 source-tier: 3
 sector: "Energy & Utilities"

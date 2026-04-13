@@ -1,7 +1,7 @@
 ---
 title: "Follow the Money - Guided Tour"
 type: story
-content-readiness: raw
+content-readiness: draft
 last-updated: 2026-03-31
 source-tier: null
 parent: null
