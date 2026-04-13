@@ -162,7 +162,45 @@ async function parseHousePdf(pdfBuffer) {
         if (tickerMatch2) ticker = tickerMatch2[1];
       }
 
-      // Strategy 3: Ticker in parens anywhere — broadest match
+      // Strategy 2b: CASE-INSENSITIVE ticker in parens followed by S/P/E
+      // Catches OCR garbling: (CoP)S, (gIlD)P, (CoST)S, (BRK.B)P
+      if (!ticker) {
+        const tickerMatch2b = chunk.match(/\(([A-Za-z][A-Za-z0-9.]{0,5})\)\s*[SPE]\s*\d{2}\//);
+        if (tickerMatch2b) {
+          const candidate = tickerMatch2b[1].toUpperCase();
+          const excluded = ['SP', 'JT', 'DC', 'II', 'IV', 'VI', 'OF', 'OR', 'AN', 'IN', 'TO', 'AT', 'NO', 'NEW', 'INC', 'LLC', 'LTD', 'THE', 'FOR', 'AND'];
+          if (!excluded.includes(candidate) && candidate.length >= 1) ticker = candidate;
+        }
+      }
+
+      // Strategy 2c: CASE-INSENSITIVE ticker in parens anywhere (broadest mixed-case catch)
+      // Catches: "Facebook, Inc. - Class A (FB)P07/21/2015"
+      if (!ticker) {
+        const tickerMatch2c = chunk.match(/\(([A-Za-z][A-Za-z0-9.]{0,5})\)/g);
+        if (tickerMatch2c) {
+          for (const m of tickerMatch2c) {
+            const candidate = m.slice(1, -1).toUpperCase();
+            const excluded = ['SP', 'JT', 'DC', 'II', 'IV', 'VI', 'OF', 'OR', 'AN', 'IN', 'TO', 'AT', 'NO', 'NEW', 'INC', 'LLC', 'LTD', 'THE', 'FOR', 'AND', 'COM', 'NET', 'USA', 'EST', 'SEE', 'DUE', 'ALL', 'TAX', 'PER'];
+            if (!excluded.includes(candidate) && candidate.length >= 2 && candidate.match(/^[A-Z]/)) {
+              ticker = candidate;
+              break;
+            }
+          }
+        }
+      }
+
+      // Strategy 2d: Strip "FIlINg sTaTus:" OCR noise prefix then re-try ticker extraction
+      if (!ticker && /filing\s*s?t[aA]t/i.test(chunk)) {
+        const cleaned = chunk.replace(/.*?filing\s*s?t[aA]t[uU]s:\s*(New|Amended)\s*\d*\s*/i, '');
+        const retryMatch = cleaned.match(/\(([A-Za-z][A-Za-z0-9.]{0,5})\)/);
+        if (retryMatch) {
+          const candidate = retryMatch[1].toUpperCase();
+          const excluded = ['SP', 'JT', 'DC', 'II', 'IV', 'VI', 'OF', 'OR', 'AN', 'IN', 'TO', 'AT', 'NO', 'NEW', 'INC', 'LLC'];
+          if (!excluded.includes(candidate)) ticker = candidate;
+        }
+      }
+
+      // Strategy 3: Ticker in parens anywhere (UPPERCASE only) — broadest strict match
       if (!ticker) {
         const tickerMatch3 = chunk.match(/\(([A-Z][A-Z0-9.]{0,5})\)/);
         // Validate it looks like a real ticker (not SP, JT, DC which are owner codes)
@@ -176,10 +214,10 @@ async function parseHousePdf(pdfBuffer) {
         const subMatch = chunk.match(/(?:SUB\s*H[Oo]LDING|SubHOlDINg|SUBHOLDING)\s+(?:OF|oF):\s*(.{10,200})/i);
         if (subMatch) {
           const subText = subMatch[1];
-          // Look for ticker in the subholding text
-          const subTicker = subText.match(/\(([A-Z][A-Z0-9.]{0,5})\)/);
-          if (subTicker && !['SP', 'JT', 'DC', 'II', 'IV'].includes(subTicker[1])) {
-            ticker = subTicker[1];
+          // Look for ticker in the subholding text (case-insensitive)
+          const subTicker = subText.match(/\(([A-Za-z][A-Za-z0-9.]{0,5})\)/);
+          if (subTicker && !['SP', 'JT', 'DC', 'II', 'IV'].includes(subTicker[1].toUpperCase())) {
+            ticker = subTicker[1].toUpperCase();
           }
           // Extract company name for description
           const companyMatch = subText.match(/(?:SP|JT|DC)\s*(.{5,80}?)(?:\(|$|\d{2}\/)/);
