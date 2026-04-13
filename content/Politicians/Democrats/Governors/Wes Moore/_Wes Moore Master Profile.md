@@ -1,9 +1,9 @@
 ---
 title: "Wes Moore Master Profile"
 type: politician
-content-readiness: draft
+content-readiness: ready
 central-thesis: "Wes Moore is the Democratic donor class's ideal product: a candidate manufactured at the intersection of Wall Street (Citigroup, Deutsche Bank), hedge fund philanthropy (Robin Hood Foundation), military service (82nd Airborne), and nonprofit leade..."
-last-updated: 2026-03-26
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -111,6 +111,16 @@ Moore publicly ruled out a 2028 presidential run on NBC's Meet the Press: "I'm n
 
 > [!money] The Robin Hood Pipeline — Follow the Money
 > Robin Hood Foundation's board (12 of 19 leadership positions held by hedge fund managers) is closely connected to the Managed Fund Association, the hedge fund industry's primary lobbying arm. MFA Chairman John Torell is CFO and managing director at founder Paul Tudor Jones's hedge fund. The Hedge Clippers estimated a $44-to-$1 return ratio: for every dollar donated to Robin Hood, board members received $44 in tax avoidance and favorable policy advocacy. Robin Hood invested its own assets in board members' hedge funds, paying $14M in fees. GiveWell rated Robin Hood as having "essentially no transparency, and essentially no accountability." Moore's four years running this organization gave him the donor network, the national brand, and the fundraising infrastructure for a gubernatorial campaign — and now a probable presidential run. The $650M wasn't charity. It was a political investment with a decades-long return horizon.
+
+---
+
+## Class Analysis
+
+Wes Moore's donor class is the hedge fund billionaire network that runs the Robin Hood Foundation. The board that funded his four years as CEO (2017-2021) held 12 of 19 leadership positions filled by hedge fund managers: Paul Tudor Jones (Tudor Investment Corporation), Glenn Dubin (Highbridge Capital), George Soros (largest single gift $50 million in 2009), Stanley Druckenmiller (Duquesne Family Office), plus the CEOs of Goldman Sachs and JPMorgan Chase. Moore raised $650 million from this board. He then used those relationships to raise $16.6 million for his 2022 gubernatorial campaign, with $2.3 million from out-of-state donors concentrated in New York, where the board members live. Moore raised $1 million from New York alone.
+
+The Robin Hood Foundation is the political incubator. The Hedge Clippers estimated that for every $1 donated to Robin Hood, board members received the equivalent of $44 in tax avoidance and support for favorable policy advocacy. Robin Hood previously invested its assets in hedge funds managed by board members and donors, paying $14 million in management fees to affiliated funds before ending the practice in 2007 after criticism. GiveWell rated Robin Hood as having "essentially no transparency, and essentially no accountability." The anti-poverty organization functioned as a political launch pad for a candidate whose entire career was financed by the wealth that poverty generates.
+
+Moore's FY2026 budget ($67.3 billion) includes corporate tax rate cuts, $100 million in targeted business tax breaks, and Enterprise Zone tax incentives freeing approximately 300 acres of state land for housing development. He closed a $3.3 billion budget deficit with $2.5 billion in spending cuts and $1 billion in new taxes. The real estate and corporate class benefits. The spending cuts affect services. Moore has $8 million banked for 2026, record off-year Maryland fundraising. He denied a 2028 presidential run on Meet the Press while scheduling commencement addresses in battleground states, hiring Whitmer's campaign operative, and building the national donor infrastructure that the Robin Hood board network provides ready-made. The $650 million was not charity. It was a political investment with a decades-long return horizon.
 
 ---
 

@@ -1,9 +1,9 @@
 ---
 title: "Deb Fischer"
 type: politician
-content-readiness: draft
+content-readiness: ready
 central-thesis: "Deb Fischer chairs the subcommittee that oversees the content-readiness: draft41 billion Sentinel ICBM replacement program — built by Northrop Grumman — while STRATCOM headquarters sits in her state. She secured over $4 billion in Sentinel funding in the FY2026 NDAA al..."
-last-updated: 2026-04-10
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 party: "Republican"
@@ -126,6 +126,16 @@ Meanwhile, on Agriculture, Fischer has received over $1.5 million career from me
 | 2012-2024 | DONATION | $205,000+ career from pharmaceutical industry | Pharma | $205K+ | — |
 | 2022-2024 | ← POLICY | Opposes Biden drug price reform (Inflation Reduction Act Medicare negotiation provisions) | — | — | Ongoing |
 | 2024 | ← NOTE | Accepts $205K from pharma while opposing lower drug prices for Nebraskans | — | — | — |
+
+---
+
+## Class Analysis
+
+Deb Fischer's donor class splits into two pipelines that both betray her stated constituency. The meatpacking industry, JBS, Tyson, and Cargill, has given her $1.5 million over her career. These are the same companies that independent Nebraska ranchers say are suppressing cattle prices through oligopolistic market power. When cattle pricing reform legislation reached her Agriculture Committee in 2021, Fischer intervened to weaken the bill at the behest of those meatpacking donors. The compromise she brokered never passed. Independent ranchers are still waiting for relief. The rancher-senator sided with the companies that squeeze her fellow ranchers because the meatpackers pay and the ranchers do not.
+
+The defense pipeline runs through Fischer's Strategic Forces Subcommittee chairmanship. She oversees the $141 billion Sentinel ICBM replacement program built by Northrop Grumman while STRATCOM headquarters sits at Offutt Air Force Base in her state. Fischer secured over $4 billion in Sentinel funding in the FY2026 NDAA alone. Defense contractors have donated $1.2 million to members of the Senate ICBM Coalition, and Fischer sits at the center of that coalition. The Sentinel program has blown past its budget by 37%, from $96 billion to $141 billion. Fischer's response is to fund it faster, not question the cost overruns.
+
+The pharmaceutical industry adds a third extraction point: $205,000 in career contributions while Fischer opposes drug price reform provisions in the Inflation Reduction Act that would lower costs for Nebraskans. Fischer's own ranch operation on approximately 11,000 acres of federal grazing land at below-market rates (less than $5,000 per year) completes the class picture. The "independent rancher" is subsidized by taxpayers, funded by the meatpacking oligopoly that exploits other ranchers, funded by defense contractors whose programs she oversees, and funded by pharmaceutical companies whose prices she protects. Dan Osborn nearly unseated her in 2024 running on a simple message: she takes money from big meatpackers to do their bidding. He was right. He just did not win.
 
 ---
 

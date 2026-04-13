@@ -1,9 +1,9 @@
 ---
 title: Raul Grijalva
 type: politician
-content-readiness: draft
+content-readiness: ready
 central-thesis: "Raul Grijalva was the extractive industry's adversary on the Natural Resources Committee — funded by environmental organizations, labor unions, and small donors rather than the mining, oil, and timber companies his committee regulates. He spent tw..."
-last-updated: 2026-04-11
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 party: Democrat
@@ -124,6 +124,16 @@ The analytical significance is the contrast with his counterpart, Bruce Westerma
 | 2003-2024 | ← POLICY | Consistent advocacy for tribal water rights, sacred site protection, and self-determination | — | — | Ongoing |
 | 2021-2023 | ← POLICY | As chair, advances tribal consultation requirements for public land decisions | — | — | — |
 | 2025 | ← NOTE | Oak Flat is the defining case: an Apache sacred site that a Rio Tinto subsidiary wants to mine for copper. Grijalva fought it. Westerman's committee would let it happen. | — | — | — |
+
+---
+
+## Class Analysis
+
+Raul Grijalva's donor class was the environmental and labor coalition, not the extractive industries his committee regulated. His top donors were the League of Conservation Voters, Sierra Club PAC, AFSCME, SEIU, and building trades unions. Trial lawyers and small individual donors filled out the rest. The notable absence is the story: no mining money, no oil and gas money, no timber industry money. The industries the Natural Resources Committee regulates did not fund the committee's ranking member.
+
+This is the anti-pattern that proves the pattern. Bruce Westerman, Grijalva's Republican counterpart, bought oil and mining stocks (BP, Shell, Chevron, Freeport-McMoRan, BHP, Rio Tinto) while chairing the same committee that opens public lands to extraction. Grijalva took zero extractive industry money and used the same committee to block extraction. Same committee, opposite donors, opposite policy outcomes. When Grijalva held the gavel (2019-2023), public lands protections expanded. When Westerman holds the gavel, public lands open to mining. The money determines the policy.
+
+Grijalva spent two decades fighting battles with no corporate lobby behind them. He blocked uranium mining near the Grand Canyon for 20 years, fought to protect Oak Flat (an Apache sacred site) from Resolution Copper (a Rio Tinto subsidiary), and authored the National Landscape Conservation System legislation protecting 30 million acres. Americans for Tax Reform spent $460,368 opposing him. MoveOn spent $291,211 supporting him. SEIU spent $121,000 supporting him. The outside spending pattern confirms the class alignment: anti-tax groups funded by extractive wealth opposed him, progressive organizations funded by small donors and unions supported him. His structural problem was not donor capture but powerlessness. The minority ranking member on a committee whose majority is funded by extractive industries is designed to lose.
 
 ---
 

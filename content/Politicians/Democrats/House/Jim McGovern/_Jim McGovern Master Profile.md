@@ -1,9 +1,9 @@
 ---
 title: "Jim McGovern"
 type: politician
-content-readiness: draft
+content-readiness: ready
 central-thesis: "Jim McGovern is the rare committee leader whose donor profile is genuinely modest and whose policy work centers on issues with no major corporate lobby: hunger, human rights, and procedural reform. His top donors are labor unions, lawyers, and hea..."
-last-updated: 2026-04-10
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -121,6 +121,16 @@ The analytical interest isn't donor capture — it's structural powerlessness. T
 | 2018-2023 | ← POLICY | Fights Farm Bill SNAP cuts from Rules Committee chairmanship | — | — | Recurring |
 | 2023-present | ← POLICY | Opposes Republican SNAP work requirement expansions from RM position (limited power) | — | — | — |
 | 2024 | ← NOTE | No major agribusiness lobby funds McGovern's hunger work. SNAP advocacy is structurally opposed by the industries (agribusiness, food manufacturing) that shape Farm Bill politics. | — | — | — |
+
+---
+
+## Class Analysis
+
+Jim McGovern's donor class is the standard Massachusetts Democratic coalition: labor unions, lawyers, healthcare professionals, and education workers. No single industry dominates. No corporate sector with business before his committee funds him significantly. The Rules Committee does not regulate industries. It controls procedure. This means McGovern's donors are buying access to a Democrat they ideologically agree with, not jurisdiction over their regulatory environment.
+
+The absence is the story. McGovern's human rights work (Tibet, El Salvador, Saudi arms sales opposition), his hunger advocacy (SNAP expansion, McGovern-Dole school meals program), and his procedural reform agenda have no significant corporate lobbying constituency. No defense contractor funds his opposition to Saudi arms sales. No agribusiness lobby funds his SNAP advocacy. No Chinese dissident PAC funds his Tibet work. China sanctioned McGovern in 2024 for his Tibet advocacy, which is evidence of effectiveness, not corruption. His career spent fighting for issues that generate no campaign revenue is the structural opposite of profiles where committee jurisdiction creates a donor pipeline.
+
+McGovern is the anti-pattern that proves the pattern across the vault. When a politician's policy work is not funded by interested industries, the agenda looks fundamentally different: twenty years of human rights advocacy, food security legislation, and procedural transparency rather than donor-class service. His top outside spenders confirm the alignment: Americans for Tax Reform spent $460,368 opposing him while MoveOn spent $291,211 supporting him. SEIU spent $121,000 in support. The structural limit is that McGovern's agenda depends entirely on majority control. The Rules Committee Ranking Member has almost no power to shape legislation. The most progressive Democrat on the most powerful procedural committee can do almost nothing from the minority. The money did not capture McGovern. The institution neutralized him instead.
 
 ---
 

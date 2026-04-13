@@ -147,6 +147,16 @@ The Porter donor landscape is structurally different from every other profile in
 
 ---
 
+## Class Analysis
+
+Katie Porter is the donor class's mirror image. Her fundraising model runs on rejecting the donor class itself. In her 2018 House race, 66,000+ individual donors gave an average of $68 each, raising $7.9 million with no corporate PAC money. By 2022, she was a top House Democratic fundraiser at $22 million+, still with no corporate PACs. The whiteboard, the consumer protection hearings, the refusal of corporate money: these function as a fundraising engine precisely because they oppose the system every other candidate operates within.
+
+The opposition spending tells the story more clearly than the fundraising does. Fairshake PAC, funded by Coinbase ($75 million), Andreessen Horowitz ($60 million+), and Ripple ($50 million), spent $10 million+ against Porter in the 2024 Senate primary. She finished third. The PAC holds $116 million for 2026. If Porter reaches the general election for California governor, the crypto industry will likely spend more against one consumer protection advocate than Porter can raise in a full election cycle. The donor class does not spend $116 million against politicians who do not threaten them. The spending itself is the proof of Porter's disruptive value.
+
+The "clean cash" narrative contains documented gaps. Porter refuses corporate PAC money and donations from Big Oil, Big Pharma, and Wall Street bank executives. But the definitions are narrow enough to permit billionaire investor Seth Klarman ($13,900 across campaigns) and former Goldman Sachs executive Donald Mullen ($8,000+), who spearheaded Goldman's subprime mortgage profiteering. Her 2026 cash on hand stands at $3.2 million, trailing Xavier Becerra ($3.8 million) and Antonio Villaraigosa ($3.4 million). Her labor coalition (Teamsters California, UAW Region 6, NUHW, IBEW Local 441) represents industrial working-class unions, not government labor. The anti-corporate brand is real in its political function. It is not the absolute purity her campaign claims.
+
+---
+
 ## Analytical Patterns
 
 **The Genuine Win + Structural Limit** — Porter's consumer protection work (whiteboard hearings on credit card fees, pharma pricing) achieves real policy wins (corporate executives on record, SEC enforcement actions, public awareness of predatory practices). These are genuine. But they stop short of structural change: the companies continue operating, the fees continue, the pricing continues. Her work documents and embarrasses corporate behavior but does not threaten the underlying business model. The structural limit: her anti-corporate brand provides political cover for the system's continuance while appearing to challenge it.

@@ -1,7 +1,7 @@
 ---
 title: "Western Growers Association"
 type: donor
-content-readiness: draft
+content-readiness: ready
 last-updated: 2026-04-13
 source-tier: 1
 parent: null
@@ -161,6 +161,16 @@ Contributions to both California Democratic and Republican politicians, with foc
 
 Labor — farmworker rights, AB 2183, H-2A
 Immigration — H-2A program, undocumented workforce, sanctuary policy
+
+---
+
+## Class Analysis
+
+The Western Growers Association is the clearest example of the dual-opposition pattern in the vault. The organization simultaneously lobbies against immigration enforcement (which would destroy its workforce) and against farmworker protections and unionization (which would empower that workforce). This position is not contradictory. It is perfectly coherent from the employer-class standpoint: they want workers present, working, and without leverage. Deportation and unionization are equally threatening from opposite directions. Sanctuary policy without regularization is the sweet spot.
+
+The PAC spending is modest ($248,400 total political spend) because Western Growers' real power operates through structural dependency, not campaign contributions. California's Central Valley economy depends on agricultural output from member companies. No governor can afford sustained confrontation with the growers because the agricultural economy's centrality makes it politically suicidal. Gavin Newsom's initial veto of AB 2183 (farmworker union expansion) confirmed this structural power, even though it was later reversed under pressure. The veto happened first. That is the tell.
+
+The PAGA reform spending ($9.5 million coalition) reveals the second dimension. Western Growers wants the Private Attorneys General Act weakened because PAGA is one of the few enforcement mechanisms that holds agricultural employers accountable for wage theft and labor violations at scale. The combination of opposing unionization, opposing enforcement mechanisms, and relying on a workforce that cannot access legal protections without risking deportation is the complete picture of employer-class labor strategy in California agriculture.
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Democratic Party Infrastructure"
 type: donor
-content-readiness: draft
+content-readiness: ready
 last-updated: 2026-04-13
 source-tier: 1
 parent: null
@@ -37,6 +37,16 @@ The Democratic Party infrastructure's structural challenge: the party raises mor
 
 > [!money]
 > Democratic Party infrastructure is a $3-4B per cycle industry — and the consulting class that operates it captures a disproportionate share. Campaign consultants, pollsters, media buyers, and data vendors earn hundreds of millions per cycle from Democratic campaigns, creating a professional class whose income depends on the continuation of the current campaign model. This creates a structural resistance to innovation: consultants who profit from TV ad spending resist digital-first strategies; pollsters who profit from traditional surveys resist cheaper online methods; the professional class that serves the party has a financial interest in maintaining the party's existing operational framework, even when that framework underperforms.
+
+---
+
+## Class Analysis
+
+The Democratic Party infrastructure is a $3 to $4 billion per cycle industry, and the consulting class that operates it is the key to understanding its class function. Campaign consultants, pollsters, media buyers, and data vendors capture 15 to 20 percent of all campaign spending through commissions, polling fees, and media buying margins. This professional class has a financial interest in maintaining the current campaign model, which creates structural resistance to innovation. Consultants who profit from TV ad spending resist digital-first strategies. Pollsters who profit from traditional surveys resist cheaper online methods. The infrastructure serves the people who run it as much as it serves the candidates it elects.
+
+The tension between national party infrastructure and grassroots energy is the permanent internal conflict. The DNC, DCCC, and DSCC favor establishment candidates who maintain relationships with institutional donors. ActBlue's small-dollar platform ($10 billion cumulative) empowers progressive insurgents who threaten those relationships. The party manages this conflict by absorbing grassroots energy into institutional channels: progressive candidates who win primaries are directed toward the same consulting class, the same media buyers, and the same data vendors. The infrastructure domesticates insurgent campaigns into the existing operational framework.
+
+The Democratic Party raises more total money than Republicans but deploys it less efficiently, and this inefficiency is not accidental. The consulting class captures a disproportionate share of every dollar raised. The data operation is fragmented across competing vendors (Catalist, Civis Analytics) rather than unified. The party's voter file management is inferior to Republican counterparts. Each of these inefficiencies generates revenue for someone inside the infrastructure. The class function of the Democratic Party apparatus is to convert donor and small-dollar money into campaign activity while ensuring that the professional class that manages the conversion captures enough margin to sustain itself regardless of electoral outcomes.
 
 ---
 

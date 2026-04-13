@@ -1,7 +1,7 @@
 ---
 title: "California Farm Bureau Federation"
 type: donor
-content-readiness: draft
+content-readiness: ready
 last-updated: 2026-04-13
 source-tier: 1
 parent: null
@@ -148,6 +148,16 @@ The Farm Bureau's membership includes genuine small family farmers whose interes
 
 Labor — farmworker rights, AB 2183
 Immigration — H-2A program, undocumented workforce
+
+---
+
+## Class Analysis
+
+The California Farm Bureau Federation is a membership organization that claims to represent 30,000 farm families but whose political positions consistently serve corporate agricultural employers. The $10.7 million lobbying operation and $891,442 in political spending flow to the same structural goal: abundant, cheap, controllable labor with no organizing power. The Farm Bureau opposes both mass deportation (which would destroy the workforce) and farmworker unionization (which would empower it). This dual opposition is the clearest marker of employer-class interest in the agricultural sector.
+
+The FarmPAC operation reveals the real constituency. The top recipient is the NRCC ($100,400), followed by Republican leadership funds and individual Republican members on agricultural committees. The bipartisan veneer exists only in Central Valley districts where agriculture dominates local economies. Federal lobbying targets 10+ agencies across food safety, immigration, labor, and environmental regulation. Every regulatory contact point is oriented toward reducing costs for large growers, not protecting small family farms.
+
+The Farm Bureau's most revealing feature is what it does not do. It does not advocate for small farmer access to credit, crop insurance reform that favors family operations, or antitrust enforcement against agricultural consolidators. Its "family farm" branding masks an institutional agenda that tracks identically with the Western Growers Association and other large-grower lobbies. The 30,000 member families provide democratic legitimacy for a political operation that serves the corporate operations dominating California's Central Valley.
 
 ---
 
