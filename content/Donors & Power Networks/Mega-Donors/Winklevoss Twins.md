@@ -66,7 +66,7 @@ Crypto-friendly regulation (regulatory clarity without restrictive oversight), o
 |--------|-------|
 | Federal Court Cases | 46 |
 | Courts | Court of Appeals for the Federal Circuit, Court of Appeals for the Fifth Circuit, District Court, D. Delaware, District Court, N.D. California, District Court, N.D. Georgia, District Court, S.D. New York, United States Bankruptcy Court, D. Delaware |
-| Case Types | 320 Assault Libel & Slander, 370 Other Fraud, 820 Copyright, 830 Patent Infringement (Fed. Qst.), 850 Securities/Commodities |
+| Case Types | 320 Assault Libel & Slander, 370 Other misconduct, 820 Copyright, 830 Patent Infringement (Fed. Qst.), 850 Securities/Commodities |
 
 **Notable cases:**
 - In re: Charles Johnson (2025) — Court of Appeals for the Fifth Circuit

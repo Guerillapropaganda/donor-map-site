@@ -131,7 +131,7 @@ When progressive members of Congress proposed redirecting small portions of the 
 - March Air Reserve Base (major military installation, primary district employer outside agriculture)
 - Multiple defense contractor operations in district (L3Harris, NG, RTX)
 - Previous occupation: realtor, businessman
-- One ethical incident early career (1993 resignation demanded over affair with lobbyist, not criminal), resolved without legal consequences
+- One ethical incident early career (1993 resignation demanded over affair with lobbyist, not unlawful), resolved without legal consequences
 - Clean record since 1994 (ethical issues don't disqualify from appropriations leadership)
 
 ## Sources

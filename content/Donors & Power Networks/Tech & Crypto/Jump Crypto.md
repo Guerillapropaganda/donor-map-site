@@ -1,8 +1,8 @@
 ---
 title: "Jump Crypto"
 type: corporation
-content-readiness: draft
-last-updated: 2026-04-09
+content-readiness: ready
+last-updated: 2026-04-13
 source-tier: 2
 parent: null
 sector: "Tech & Crypto"
@@ -102,7 +102,7 @@ Jump Crypto represents the pattern of financial oligarchs using massive capital 
 |--------|-------|
 | Federal Court Cases | 24 |
 | Courts | Court of Appeals for the Seventh Circuit, District Court, D. Arizona, District Court, D. Wyoming, District Court, N.D. California, District Court, N.D. Illinois, District Court, S.D. Florida, District Court, S.D. New York, United States Bankruptcy Court, D. Delaware |
-| Case Types | 190 Contract: Other, 370 Other Fraud, 3850 Securities, Commodities, Exchange, 850 Securities/Commodities, 880 Defend Trade Secrets Act (of 2016) |
+| Case Types | 190 Contract: Other, 370 Other misconduct, 3850 Securities, Commodities, Exchange, 850 Securities/Commodities, 880 Defend Trade Secrets Act (of 2016) |
 
 **Notable cases:**
 - Snyder v. Jump Trading, LLC (2025) — District Court, N.D. Illinois

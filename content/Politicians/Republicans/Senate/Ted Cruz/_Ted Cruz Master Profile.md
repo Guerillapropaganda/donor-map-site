@@ -1,9 +1,9 @@
 ---
 title: "Ted Cruz Master Profile"
 type: politician
-content-readiness: draft
+content-readiness: ready
 central-thesis: "Ted Cruz is the perfect case study in donor-class override of personal unpopularity. He is consistently rated the least-liked senator among his own colleagues. His favorability ratings are among the lowest of any incumbent senator. He fled to Canc..."
-last-updated: 2026-04-11
+last-updated: 2026-04-13
 source-tier: 1
 career-total: "$100M"
 parent: null
@@ -165,7 +165,7 @@ The leaked 2026 recordings are the class analysis in audio form. Cruz privately 
 
 1. **The constitutional originalist:** Princeton debate champion turned Supreme Court litigator. Deploys elaborate constitutional arguments to justify positions that happen to align perfectly with donor interests. The intellectual packaging makes the donor service look principled.
 2. **The culture warrior:** Cancún Ted pivots to culture war attacks (CRT, trans athletes, "woke" corporations) when donor-class issues require distraction. The culture war is the cover for the donor-class agenda.
-3. **The populist fraud:** Attacks "coastal elites" while his wife manages money at Goldman Sachs. The Tea Party brand survives only because the voters who believe it don't see the FEC filings.
+3. **The populist misconduct:** Attacks "coastal elites" while his wife manages money at Goldman Sachs. The Tea Party brand survives only because the voters who believe it don't see the FEC filings.
 4. **The podcast senator:** Launched "Verdict with Ted Cruz" — building a media brand that monetizes the attention his controversies generate. The personal brand and the donor service reinforce each other: the brand draws viewers, the viewers validate the "fighter" image, and the image justifies the donor investment.
 
 ---

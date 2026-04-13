@@ -72,7 +72,7 @@ Start with the right: [[Koch Network - Charles Koch|Koch Network]] → [[America
 
 Then mirror it on the left: [[Arabella Advisors]] → [[Sixteen Thirty Fund]] → [[Demand Justice]] → [[Democracy Alliance]]. Different names, same structure — dark money flowing through 501(c)(4) nonprofits that don't disclose donors.
 
-Read [[_Sheldon Whitehouse Master Profile|Sheldon Whitehouse]] — the Democrat who documented the right-wing dark money pipeline in his "scheme" speeches. Then notice: he hasn't introduced legislation to shut down the left-wing version.
+Read [[_Sheldon Whitehouse Master Profile|Sheldon Whitehouse]] — the Democrat who documented the right-wing dark money pipeline in his "operation" speeches. Then notice: he hasn't introduced legislation to shut down the left-wing version.
 
 **The investigation:** [[Contradiction 08 - Koch vs Soros Mirror Image Dark Money Machines|Koch vs. Soros — Mirror Image Dark Money Machines]] — the structural symmetry neither party acknowledges.
 

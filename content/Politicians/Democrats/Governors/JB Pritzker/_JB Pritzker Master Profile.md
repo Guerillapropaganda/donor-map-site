@@ -116,7 +116,7 @@ JB Pritzker. Governor of Illinois (2019–present). Heir to the Pritzker family 
 - [Illinois Policy: Pritzker campaign spending $323M analysis](https://www.illinoispolicy.org/pritzker-calls-for-campaign-finance-reform-after-spending-323m-on-campaigns/) (Tier 2)
 - NPR: Pritzker breaks campaign finance record (Tier 2)
 - Chicago Tribune: Pritzker offshore Bahamas trusts (Tier 2)
-- NPR: Toilet removal property tax scheme (Tier 2)
+- NPR: Toilet removal property tax operation (Tier 2)
 - NBC Chicago: Pritzker repays $330K in property taxes (Tier 2)
 - In These Times: Hyatt workers stage national actions against Pritzkers (Tier 2)
 - NBC News: Pritzker gave DGA $24M (Tier 2)

@@ -1,7 +1,7 @@
 ---
 title: "Frank Pallone"
 type: politician
-content-readiness: draft
+content-readiness: ready
 central-thesis: "Pallone is the textbook example of the committee-jurisdiction donor pipeline: the longer he has held the gavel (or ranking member position) on Energy and Commerce, the more money has flowed from every industry his committee regulates. Pharmaceutic..."
 last-updated: 2026-04-13
 source-tier: 1
@@ -124,6 +124,14 @@ Energy and Commerce jurisdiction covers virtually every major regulated industry
 | Feb 2025 | RFK Jr. accuses Pallone of $2M+ pharma donations at hearing | ~$2.2M career | C-SPAN / The Hill |
 
 ---
+
+## Class Analysis
+
+Frank Pallone serves the pharmaceutical and energy donor class from the single most powerful regulatory perch in the House. His Energy and Commerce Committee jurisdiction covers healthcare, energy, telecom, and consumer protection. Every industry his committee regulates shows up in his donor rolls: $2.2 million career from pharma, $594,926 from energy since becoming ranking member, and a tenfold increase in energy PAC money ($31,088 in 2014 to $298,000 in 2024) that tracks precisely with his rise to the committee gavel. The money does not follow the man. It follows the jurisdiction.
+
+Pallone delivers real reforms that stay inside lines the donor class draws. His H.R. 3, the blueprint for the Inflation Reduction Act's drug pricing provisions, lets Medicare negotiate prices on fewer than 20 drugs. Pharma stock prices barely moved. The industry keeps writing checks ($294,700 in the 2024 cycle alone, 4th highest in the House) because the reform is manageable. It is not price controls, not international reference pricing, not single-payer. His CLEAN Future Act promised 100% clean energy by 2050, but independent analysis found its carbon intensity target was nearly twice as dirty as the national average. Fracked gas and even coal could qualify as "clean" under the bill's math. The ambition is rhetorical. The math serves the gas industry.
+
+The class function is clear: Pallone is the progressive validator for industries that need regulation to look credible without becoming constraining. Pharma gets a drug pricing "reform" that covers a handful of drugs and preserves the broader pricing structure. Energy companies get a "clean energy" bill whose metrics protect fossil fuel operations. FirstEnergy, the company at the center of the Ohio nuclear bribery scandal ($60 million funneled through Generation Now, Speaker Householder convicted of racketeering), is one of Pallone's top energy donors. The committee IS the fundraising vehicle, and the fundraising vehicle determines the boundaries of reform.
 
 ## Analytical Patterns
 

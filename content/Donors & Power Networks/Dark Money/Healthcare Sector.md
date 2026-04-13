@@ -1,8 +1,8 @@
 ---
 title: "Healthcare Sector"
 type: donor
-content-readiness: draft
-last-updated: 2026-04-12
+content-readiness: ready
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 sector: "Dark Money"
@@ -161,7 +161,7 @@ The PMC study (1999-2018) documented that $4.7 billion in pharmaceutical lobbyin
 |--------|-------|
 | Federal Court Cases | 1,439 |
 | Courts | District Court, C.D. California, District Court, D. Delaware, District Court, D. Kansas, District Court, E.D. Michigan, District Court, M.D. Florida, District Court, M.D. Tennessee, District Court, S.D. Florida, District Court, S.D. Iowa +1 more |
-| Case Types | 190 Contract: Other, 360 P.I.: Other, 370 Other Fraud, 380 Personal Property: Other |
+| Case Types | 190 Contract: Other, 360 P.I.: Other, 370 Other misconduct, 380 Personal Property: Other |
 
 **Notable cases:**
 - Southeast Kansas Eye Care Associates, P.A., on behalf of itself and all others similarly situated v. UnitedHealth Group Incorporated (2026) — District Court, D. Kansas

@@ -135,7 +135,7 @@ The DOJ investigated beginning in 2021 and declined to bring charges. Gaetz resi
 
 | Date | Donor | Amount | Given | Policy Outcome |
 |------|-------|--------|-------|----------------|
-| 2021-2024 | Family wealth ($29.6M) functioning as legal shield | Protection value: criminal non-prosecution | Lifetime family backstop | FBI/DOJ sex trafficking investigation → no charges; family wealth and political connections provide protection unavailable to ordinary Americans |
+| 2021-2024 | Family wealth ($29.6M) functioning as legal shield | Protection value: unlawful non-prosecution | Lifetime family backstop | FBI/DOJ sex trafficking investigation → no charges; family wealth and political connections provide protection unavailable to ordinary Americans |
 | 2024-11 | Trump loyalty investment → AG nomination (reward for chaos-agent performance) | Nomination value | 2017-2024 (7 years of loyalty) | Trump nominates Gaetz as Attorney General; Senate Republicans signal no confirmation; Gaetz withdraws; Ethics report released after resignation — "substantial evidence" of statutory rape, drug use, improper gifts |
 
 > [!money] The Damning Sequences

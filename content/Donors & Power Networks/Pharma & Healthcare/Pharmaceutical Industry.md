@@ -1,8 +1,8 @@
 ---
 title: "Pharmaceutical Industry"
 type: donor
-content-readiness: draft
-last-updated: 2026-04-09
+content-readiness: ready
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 sector: "Pharma & Healthcare"
@@ -203,7 +203,7 @@ The pharmaceutical industry's political operation reveals the most complete exam
 - **Medicare for All advocates** — [[_Bernie Sanders Master Profile|Sanders]], progressive wing — threaten single-payer pricing power
 - **Drug importation advocates** — Threaten pricing arbitrage by allowing reimportation from lower-cost countries
 - **Generic/biosimilar manufacturers** — Compete on price; lobby for faster FDA approval pathways
-- **State attorneys general** — Price-gouging lawsuits, insulin price caps, Medicaid fraud investigations
+- **State attorneys general** — Price-gouging lawsuits, insulin price caps, Medicaid misconduct investigations
 - **International reference pricing advocates** — Threaten to benchmark US prices to lower international rates
 - **PBM reform advocates** — Pharmacy Benefit Manager transparency threatens the pricing opacity that enables high list prices
 

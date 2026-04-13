@@ -1,9 +1,9 @@
 ---
 title: "Steve Scalise"
 type: politician
-content-readiness: draft
+content-readiness: ready
 central-thesis: "Scalise's donor-class function is to serve as the fossil fuel industry's highest-ranking legislative operator in the House. Representing Louisiana — a state whose economy is built on oil, gas, petrochemicals, and offshore drilling — Scalise transl..."
-last-updated: 2026-04-10
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 party: "Republican"
@@ -118,6 +118,14 @@ Scalise's donor-class function is to serve as the fossil fuel industry's highest
 - Withdrew Speaker candidacy after failing to secure sufficient votes
 
 ---
+
+## Class Analysis
+
+Steve Scalise is the fossil fuel industry's highest-ranking legislative operator in the House. As Majority Leader with a seat on Energy and Commerce, he translates the oil and gas sector's policy agenda directly into legislation from the second-most powerful position in Republican leadership. Four of his five largest PAC donors come from oil and gas. Koch Industries and Valero Energy are among his top PAC contributors. He ranks fourth among all House members in oil and gas contributions for the 2023-24 cycle. Career campaign fundraising exceeds $85.2 million, with his leadership PAC adding $11.3 million.
+
+The policy output matches the money precisely. Scalise introduced H.R. 1, the Lower Energy Costs Act, which repeals methane emissions fees, eliminates the "green bank" for low-carbon projects, guts EPA regulatory authority, and fast-tracks fossil fuel permitting. He co-sponsored legislation to strip EPA authority over greenhouse gases under the Clean Air Act. He attacked the EPA's CO2 endangerment finding as based on "Climate Gate's compromised science." Every position serves the extraction industry's bottom line, framed as lowering costs for families.
+
+The class contradiction hits hardest in Louisiana's Cancer Alley. Scalise's district includes some of the most petrochemical-saturated communities in America, disproportionately poor and disproportionately Black. These communities suffer documented health impacts from industrial pollution. Scalise's legislative record ensures those facilities face less regulation, not more. The congressman who survived a cancer diagnosis champions the interests of industries whose pollution causes cancer in his own constituents. AT&T ($48,818 in 2024, top Team Scalise donor) and the broader telecom sector add another jurisdictional revenue stream through his Energy and Commerce seat. The committee is the fundraising vehicle. The fundraising vehicle sets the policy.
 
 ## Rhetorical Signature Moves
 

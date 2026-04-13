@@ -73,7 +73,7 @@ A smaller conservative donor network contributed $7,350.
 Project Veritas operated as opposition research disguised as journalism. The organization's output was timed to election cycles and designed to create maximum political damage to progressive organizations and Democratic candidates.
 
 ### Signature targets:
-- **ACORN (2009):** A series of hidden-camera sting videos alleging fraud in voter registration and poverty programs. The videos were selectively edited and the claims disputed by investigators, but led directly to ACORN's defunding and dissolution. The campaign destroyed an organization that had registered 1.7M voters, many in low-income communities.
+- **ACORN (2009):** A series of hidden-camera sting videos alleging misconduct in voter registration and poverty programs. The videos were selectively edited and the claims disputed by investigators, but led directly to ACORN's defunding and dissolution. The campaign destroyed an organization that had registered 1.7M voters, many in low-income communities.
 - **Planned Parenthood (2015):** Undercover videos alleging illegal sales of fetal tissue, later discredited. Nevertheless, the videos provided political ammunition for Republican defunding efforts.
 - **CNN and Washington Post (2017-2018):** Undercover operations against media outlets; designed to discredit mainstream journalism as biased.
 - **State election officials (2020):** Videos released weeks before the 2020 election alleging election irregularities vulnerabilities, amplifying Trump's eventual claims.

@@ -61,7 +61,7 @@ The needs-reenrichment flag has been set. The next scheduled pipeline run will p
 
 Hawaiian Electric Company (HECO). Hawaii's dominant electric utility, serving 95% of the state's electricity customers across Oahu, Maui, and Hawaii Island. HECO is a regulated monopoly — the only option for electricity in its service territory. The company's political significance exploded after the August 2023 Lahaina wildfire that killed 100+ people and destroyed the historic town, with investigations and lawsuits pointing to HECO's failure to maintain infrastructure, de-energize power lines during high-wind conditions, and invest in wildfire mitigation.
 
-HECO's political operation before the fire focused on rate-setting (lobbying the Hawaii Public Utilities Commission for favorable electricity rates), renewable energy mandates (Hawaii's 100% renewable target by 2045), and infrastructure investment recovery. Post-fire, the company faces $5.5+ billion in settlement liabilities, potential criminal investigations, and the fundamental question of whether a regulated monopoly that prioritized shareholder returns over infrastructure safety should continue operating.
+HECO's political operation before the fire focused on rate-setting (lobbying the Hawaii Public Utilities Commission for favorable electricity rates), renewable energy mandates (Hawaii's 100% renewable target by 2045), and infrastructure investment recovery. Post-fire, the company faces $5.5+ billion in settlement liabilities, potential unlawful investigations, and the fundamental question of whether a regulated monopoly that prioritized shareholder returns over infrastructure safety should continue operating.
 
 ---
 

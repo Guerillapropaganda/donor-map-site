@@ -120,7 +120,7 @@ Saudi Arabia relationship → Koch Industries has business relationships with Sa
 
 **October 2023:** Joined board of Cyabra, an Israeli counter-disinformation company.
 
-**October 2023:** Became "of counsel" at Oberheiden P.C., a Texas-based federal criminal defense law firm (alongside Trey Gowdy and [[_John Ratcliffe Master Profile|John Ratcliffe]]).
+**October 2023:** Became "of counsel" at Oberheiden P.C., a Texas-based federal defense law firm (alongside Trey Gowdy and [[_John Ratcliffe Master Profile|John Ratcliffe]]).
 
 **February 2025:** Hired as Distinguished Fellow at Columbia University's Institute of Global Politics, teaching a course on diplomacy and decision-making.
 

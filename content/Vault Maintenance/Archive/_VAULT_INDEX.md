@@ -963,7 +963,7 @@ known-gaps:
 | Politicians/Republicans/Presidential/Donald Trump/Veterans & Military/The VA Privatization Pipeline - Who Profits From Veteran Healthcare.md | sub-note | ready |
 | Politicians/Republicans/Presidential/Donald Trump/Veterans & Military/Veterans and Military - Donors and Backers.md | sub-note | ready |
 | Politicians/Republicans/Presidential/Donald Trump/_Donald Trump Master Profile.md | politician | ready |
-| Politicians/Republicans/Presidential/JD Vance/Hillbilly Elegy and the Class Fraud.md | sub-note | ready |
+| Politicians/Republicans/Presidential/JD Vance/Hillbilly Elegy and the Class misconduct.md | sub-note | ready |
 | Politicians/Republicans/Presidential/JD Vance/Narya Capital and the Venture Capital Pipeline.md | sub-note | ready |
 | Politicians/Republicans/Presidential/JD Vance/The 2024 Tech Billionaire Network.md | sub-note | ready |
 | Politicians/Republicans/Presidential/JD Vance/The Thiel Pipeline - From Yale to VP.md | sub-note | ready |
@@ -1042,9 +1042,9 @@ known-gaps:
 | Politicians/Republicans/Senate/Rand Paul/The Libertarian Brand and the Koch Network Reality.md | sub-note | ready |
 | Politicians/Republicans/Senate/Rand Paul/Ukraine Aid Obstruction and the Isolationist Donor Network.md | sub-note | ready |
 | Politicians/Republicans/Senate/Rand Paul/_Rand Paul Master Profile.md | politician | ready |
-| Politicians/Republicans/Senate/Rick Scott/Columbia-HCA and the Largest Medicare Fraud in History.md | sub-note | ready |
+| Politicians/Republicans/Senate/Rick Scott/Columbia-HCA and the Largest Medicare misconduct in History.md | sub-note | ready |
 | Politicians/Republicans/Senate/Rick Scott/NRSC Chair and the McConnell Spending War.md | sub-note | ready |
-| Politicians/Republicans/Senate/Rick Scott/The Medicare Fraud Governor and Senate Campaign.md | sub-note | ready |
+| Politicians/Republicans/Senate/Rick Scott/The Medicare misconduct Governor and Senate Campaign.md | sub-note | ready |
 | Politicians/Republicans/Senate/Rick Scott/The Self-Funded Billionaire Model and Florida Inc.md | sub-note | ready |
 | Politicians/Republicans/Senate/Rick Scott/_Rick Scott Master Profile.md | politician | ready |
 | Politicians/Republicans/Senate/Roger Marshall/_Roger Marshall Master Profile.md | politician | ready |
@@ -1148,7 +1148,7 @@ known-gaps:
 | Politicians/Republicans/Trump Cabinet/Stephen Miller/America First Legal and the Dark Money Architecture.md | sub-note | ready |
 | Politicians/Republicans/Trump Cabinet/Stephen Miller/The Immigration Policy Architecture from Sessions to Mass Deportation.md | sub-note | ready |
 | Politicians/Republicans/Trump Cabinet/Stephen Miller/_Stephen Miller Master Profile.md | politician | ready |
-| Politicians/Republicans/Trump Cabinet/Steve Bannon/The Goldman-to-Fraud Pipeline and the Conviction Record.md | sub-note | ready |
+| Politicians/Republicans/Trump Cabinet/Steve Bannon/The Goldman-to-misconduct Pipeline and the Conviction Record.md | sub-note | ready |
 | Politicians/Republicans/Trump Cabinet/Steve Bannon/The Mercer Investment and the Construction of Populist Infrastructure.md | sub-note | ready |
 | Politicians/Republicans/Trump Cabinet/Steve Bannon/_Steve Bannon Master Profile.md | politician | ready |
 | Politicians/Republicans/Trump Cabinet/Tulsi Gabbard/The Anti-Establishment Brand and the Foreign Influence Questions.md | sub-note | ready |

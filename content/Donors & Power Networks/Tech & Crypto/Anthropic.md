@@ -126,7 +126,7 @@ AI safety regulation that establishes testing and evaluation requirements for fr
 |--------|-------|
 | Federal Court Cases | 303 |
 | Courts | Court of Appeals for the D.C. Circuit, Court of Appeals for the Ninth Circuit, District Court, C.D. California, District Court, E.D. Texas, District Court, N.D. California, District Court, S.D. New York, District Court, W.D. Texas |
-| Case Types | 190 Contract: Other, 360 P.I.: Other, 370 Other Fraud, 791 Labor: E.R.I.S.A., 820 Copyright |
+| Case Types | 190 Contract: Other, 360 P.I.: Other, 370 Other misconduct, 791 Labor: E.R.I.S.A., 820 Copyright |
 
 **Notable cases:**
 - Anthropic, PBC v. United States Department of War, et al. (2026) — Court of Appeals for the Ninth Circuit

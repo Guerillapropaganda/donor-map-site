@@ -43,6 +43,14 @@ No net tax increases (the pledge), reduced government spending (to justify tax c
 
 ---
 
+## Class Analysis
+
+Americans for Tax Reform is the most efficient mechanism for converting donor-class interests into binding political constraint in American politics. The Taxpayer Protection Pledge costs almost nothing to administer. It is a piece of paper. But 95% of Republican members of Congress and over 1,000 state legislators have signed it, creating a permanent obligation to oppose any net tax increase. The Bush tax cuts (2001, 2003) and the Trump tax cuts (2017) both operated within the pledge's constraints. The cumulative cost to federal revenue runs into trillions of dollars. The cost to ATR: office space, a weekly meeting, and Grover Norquist's salary.
+
+The enforcement mechanism is the key. Republican members who break the pledge face primary challenges funded by ATR allies, including the Club for Growth, the Koch network through Stand Together, and the Heritage Foundation. These primary challenges cost far more than ATR itself spends. Norquist built a system where other organizations bear the enforcement costs while ATR maintains the constraint. The Wednesday Meeting, held weekly for decades, coordinates conservative political strategy across the Heritage Foundation, the NRA, the Federalist Society, Club for Growth, and dozens of other organizations. This is movement infrastructure that the progressive side lacks: a regular coordination mechanism that aligns messaging, timing, and political targeting across the entire conservative donor ecosystem.
+
+The class function is straightforward. The pledge prevents tax increases on the donor class. Corporate tax reduction, capital gains tax reduction, estate tax elimination: every item on ATR's policy agenda directly benefits the people who fund conservative politics. Norquist converted this into a binary commitment that eliminates nuance. There is no conversation about which taxes should increase or which should decrease. There is only the pledge, and the pledge says no. The 501(c)(4) structure means ATR never discloses who funds it, but the policy output tells you everything: forty years of tax policy constrained to serve the interests of the people wealthy enough to fund the organizations that enforce the constraint.
+
 ### Sources
 
 - [OpenSecrets: Americans for Tax Reform](https://www.opensecrets.org/orgs/americans-for-tax-reform/summary?id=D000029588) (Tier 1)

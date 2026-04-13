@@ -148,7 +148,7 @@ The model was effective: Jones maintained an estimated 2-4 million regular liste
 
 ### Class Analysis
 
-Alex Jones's audience serves a structural function for capital: it distrusts every institution capable of imposing accountability on capital accumulation. An audience convinced that courts are rigged, media is controlled, and government is a tyranny will not believe evidence of corporate fraud, wage theft, environmental destruction, or oligarchic capture. It will interpret regulatory enforcement as persecution and accountability mechanisms as totalitarianism.
+Alex Jones's audience serves a structural function for capital: it distrusts every institution capable of imposing accountability on capital accumulation. An audience convinced that courts are rigged, media is controlled, and government is a tyranny will not believe evidence of corporate misconduct, wage theft, environmental destruction, or oligarchic capture. It will interpret regulatory enforcement as persecution and accountability mechanisms as totalitarianism.
 
 The business model (selling supplements to an apocalypse-obsessed audience) is efficient because it aligns audience psychology with business incentive. Jones needs listeners to believe civilization is collapsing; listeners need Jones to validate their pre-existing apocalyptic anxiety. The loop is self-perpetuating and profitable.
 

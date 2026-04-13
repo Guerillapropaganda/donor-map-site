@@ -78,7 +78,7 @@ Breakdown by cycle:
 
 **California governors across both parties** — CCPOA's strategy is access, not ideology. They have funded Republican and Democratic governors alike. The common denominator is that governors control CDCR and CCPOA contracts.
 
-**Historical spending peak:** $9.97 million in 2005-06, fighting Proposition 66 (a criminal sentencing initiative). Spending declined through the 2010s, then increased again under Newsom starting 2019.
+**Historical spending peak:** $9.97 million in 2005-06, fighting Proposition 66 (a sentencing initiative). Spending declined through the 2010s, then increased again under Newsom starting 2019.
 
 ### Historical CCPOA political spending (partial):
 - 1999-2000: $2.33M
@@ -117,7 +117,7 @@ Breakdown by cycle:
 
 **No systemic parole or early release expansion** that would significantly reduce population or headcount.
 
-**No criminal accountability** for CDCR officials after the San Quentin COVID disaster — 28 prisoners died after a transfer decision made by CDCR leadership. [See: [[San Quentin - COVID Disaster and Rehabilitation Theater]]]
+**No unlawful accountability** for CDCR officials after the San Quentin COVID disaster — 28 prisoners died after a transfer decision made by CDCR leadership. [See: [[San Quentin - COVID Disaster and Rehabilitation Theater]]]
 
 **CDCR secretary appointments** that have maintained the existing contract framework.
 

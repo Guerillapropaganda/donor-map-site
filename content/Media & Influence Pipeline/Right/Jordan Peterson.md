@@ -125,7 +125,7 @@ Each level seems like a natural progression from the previous one. The audience 
 | Jun 2022 | Signs multi-year Daily Wire+ deal | Peterson, Shapiro, Boreing, Wilks Brothers (indirect) | $600K-$1M/year est. | Enters Wilks Brothers funding orbit; academic credentialing meets petroleum money |
 | Jun 2023 | Co-founds ARC with Paul Marshall | Peterson, Marshall (£1M), Stroud, Legatum | £1M+ founding capital | Political organization layer; converts media audience into institutional power |
 | Nov 2023 | ARC inaugural London conference | 100+ speakers, 1,000-1,500 delegates | Undisclosed | Climate denial programming; oil exec attendance documented |
-| 2025 | ARC accepts $500K from QOL Medical CEO | Peterson/ARC, Derick Cooper | $500,000 | Pharma fraud money → conservative political org; same pattern as Fox News pharma advertising |
+| 2025 | ARC accepts $500K from QOL Medical CEO | Peterson/ARC, Derick Cooper | $500,000 | Pharma misconduct money → conservative political org; same pattern as Fox News pharma advertising |
 
 > [!money]
 > **The pipeline in numbers:** $175K academic salary (public institution, taxpayer-funded) → $960K/year Patreon (audience-funded) → $10-15M book royalties (market-funded) → $600K-$1M/year Daily Wire (Wilks Brothers petroleum-funded) → £1M+ ARC founding capital (Marshall hedge fund–funded) + $500K pharma money (Cooper/QOL Medical). Each transition moved Peterson further from public accountability and closer to private donor-class dependency. The direction is always the same: away from institutions accountable to the public and toward institutions accountable to capital.

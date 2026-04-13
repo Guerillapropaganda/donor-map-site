@@ -242,7 +242,7 @@ Opposition to strict fiduciary standards (which would require brokers to act in 
 
 - Prohibition/Removal Orders: 1
 
-**Subject areas (2012+):** Breach of Fiduciary Duty; Fraud/Forgery; Insider Issues; Theft / Misappropriation of Funds; Violation Cited (Criminal Statute)
+**Subject areas (2012+):** Breach of Fiduciary Duty; misconduct/Forgery; Insider Issues; Theft / Misappropriation of Funds; Violation Cited (statute)
 
 **Still-active enforcement actions:**
 

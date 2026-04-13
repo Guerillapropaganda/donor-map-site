@@ -50,7 +50,7 @@ In April 2023, Fox News agreed to pay Dominion Voting Systems $787.5 million to 
 
 The lawsuit alleged that Fox News and its on-air personalities broadcast false claims that Dominion's voting machines were part of a conspiracy to steal votes from Trump in the 2020 election. The claims were demonstrably false. Post-election audits found no such conspiracy. Trump's own attorney general declared the election secure. Trump's own appointed judges threw out the misconduct allegations.
 
-Fox News continued to air the claims anyway. The network's on-air personalities (Lou Dobbs, Maria Bartiromo, Jeanine Pirro, Rudy Giuliani) repeated the allegations despite internal network knowledge that the claims were false. Court documents revealed that network executives and on-air personalities privately expressed doubt about the fraud narrative while publicly promoting it.
+Fox News continued to air the claims anyway. The network's on-air personalities (Lou Dobbs, Maria Bartiromo, Jeanine Pirro, Rudy Giuliani) repeated the allegations despite internal network knowledge that the claims were false. Court documents revealed that network executives and on-air personalities privately expressed doubt about the misconduct narrative while publicly promoting it.
 
 The settlement required Fox News to pay $787.5 million. The settlement did not require the network to apologize to its audience. The settlement did not require the network to cease the practices that led to the lawsuit. The settlement did not remove the individuals who broadcast false claims from their positions. The network paid. The structure remained intact.
 

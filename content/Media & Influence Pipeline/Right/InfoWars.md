@@ -130,7 +130,7 @@ Since InfoWars had no institutional backers, the question reframes to: **what di
 
 ### For the Trump campaign (2016):
 - Direct access to millions of engaged voters via Roger Stone's InfoWars platform
-- Content that echoed and amplified Trump's campaign messaging (immigration, government misconduct, electoral fraud)
+- Content that echoed and amplified Trump's campaign messaging (immigration, government misconduct, electoral misconduct)
 - Plausible deniability — Trump could promote InfoWars narratives while claiming independence from them
 
 ### For Roger Stone:
@@ -159,7 +159,7 @@ The class analysis reveals the function: **InfoWars pacified political anger by 
 
 **Asset-hiding schemes** documented in bankruptcy proceedings reveal the second structural layer: when facing $1.5 billion in judgments, Jones transferred assets to family members ($5 million between June 2024 and June 2025), sold property to his father for $10 (back-dated), and redirected his audience to his father's new supplement company (Dr. Jones Naturals). These were not sophisticated financial maneuvers — they were transparent attempts to hide assets from court-ordered liquidation, suggesting structural weakness once the profitable propaganda model faced legal accountability.
 
-Patterns present: **Audience Capture** (fear creates purchasing behavior), **Platform Dependency** (deplatforming destroyed 50% of traffic), **Dark Money Laundering** (PQPR scheme extracting supplement revenue upstream to avoid judgment collection), **Revolving Door** (Roger Stone converting InfoWars platform into political operative access).
+Patterns present: **Audience Capture** (fear creates purchasing behavior), **Platform Dependency** (deplatforming destroyed 50% of traffic), **Dark Money Laundering** (PQPR operation extracting supplement revenue upstream to avoid judgment collection), **Revolving Door** (Roger Stone converting InfoWars platform into political operative access).
 
 ---
 
@@ -185,13 +185,13 @@ Patterns present: **Audience Capture** (fear creates purchasing behavior), **Pla
 | Aug 6, 2018 | Coordinated deplatforming | Apple, Facebook, YouTube, Spotify, Alex Jones | N/A | Platforms ban InfoWars within 12 hours; cited hate speech, glorification of violence, child endangerment; traffic drops 50% to ~715K daily visits |
 | 2018 | Roger Stone settlement with Guo Wengui | Roger Stone, Guo Wengui, InfoWars | Undisclosed | Stone admits under settlement that he used InfoWars to spread false statements, failed to research claims before broadcasting |
 | 2021 | Alex Jones personal withdrawals | Alex Jones | $62M | Court-documented cash extraction by Jones in year of default judgments |
-| July 29, 2022 | Free Speech Systems Chapter 11 bankruptcy | Free Speech Systems LLC, Alex Jones, Sandy Hook families | $50M–$100M liabilities | Parent company files; claims $54M debt to PQPR (supplement markup scheme); families begin asset recovery process |
+| July 29, 2022 | Free Speech Systems Chapter 11 bankruptcy | Free Speech Systems LLC, Alex Jones, Sandy Hook families | $50M–$100M liabilities | Parent company files; claims $54M debt to PQPR (supplement markup operation); families begin asset recovery process |
 | Aug 5, 2022 | Texas jury verdict (Heslin/Lewis v. Jones) | Neil Heslin, Scarlett Lewis, Alex Jones | $49.3M ($4.1M compensatory, $45.2M punitive) | Parents of Jesse Lewis (age 6) awarded largest Sandy Hook judgment to date |
 | Oct 12, 2022 | Connecticut jury verdict (Lafferty et al. v. Jones) | Connecticut families, Alex Jones | $965M compensatory | Largest jury award in Connecticut history; defamation judgment for Sandy Hook "hoax" claims |
 | Nov 10, 2022 | Connecticut judge adds punitive damages | Connecticut court | $473M attorney fees | Judge-awarded punitive damages; later partially overturned on appeal (reduced to $1.288B total) |
 | Dec 2, 2022 | Alex Jones files personal Chapter 7 bankruptcy | Alex Jones, trustee | N/A | Personal asset liquidation; begins asset-hiding schemes |
 | May 5, 2024 | Genesis Communications Network announces shutdown | Genesis Communications Network | N/A | GCN announces closure effective May 5, 2024; cites financial losses after Jones deplatforming |
-| June 17, 2024 | Dr. Jones Naturals diversion begins | Alex Jones, David Jones (father) | N/A | Jones on-air directs audience to father's new supplement company; families' attorney calls it "obvious fraud on the bankruptcy court" |
+| June 17, 2024 | Dr. Jones Naturals diversion begins | Alex Jones, David Jones (father) | N/A | Jones on-air directs audience to father's new supplement company; families' attorney calls it "obvious misconduct on the bankruptcy court" |
 | June 23–24, 2024 | Trustee files motion to liquidate/sell InfoWars | Christopher Murray (trustee), Free Speech Systems | N/A | Bankruptcy trustee announces wind-down of InfoWars operations |
 | Nov 13, 2024 | The Onion wins bankruptcy auction (later rejected) | The Onion, Global Tetrahedron, Free Speech Systems, Alex Jones | $1.75M cash + $750K credit bid | Auction result; judge later rejects sale citing transparency concerns; Jones-affiliated First United American bid $3.5M cash and lost |
 | Aug 13, 2025 | Texas state receiver appointed | Travis County Judge Maya Guerra Gamble, Gregory Milligan (HMP Advisory) | N/A | Judge orders assets turned over to state receiver; authorizes lock changes, law enforcement assistance; appeal proceedings begin |

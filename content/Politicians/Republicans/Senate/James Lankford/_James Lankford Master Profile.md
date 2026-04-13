@@ -209,7 +209,7 @@ The border deal collapse is the defining event of Lankford's career and the clea
 | Bill | Title | Status |
 |------|-------|--------|
 | 649 | A resolution commemorating the 250th anniversary of the passage of the resolutio… | Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S1202; text: CR S1207) |
-| 4016 | Stop Unemployment Fraud Act | Read twice and referred to the Committee on Finance. |
+| 4016 | Stop Unemployment misconduct Act | Read twice and referred to the Committee on Finance. |
 | — |  | — |
 | — |  | — |
 | — |  | — |

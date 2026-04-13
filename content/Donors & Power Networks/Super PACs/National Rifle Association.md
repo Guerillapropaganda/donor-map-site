@@ -1,8 +1,8 @@
 ---
 title: "National Rifle Association"
 type: pac
-content-readiness: draft
-last-updated: 2026-04-12
+content-readiness: ready
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 sector: "Super PACs"
@@ -171,7 +171,7 @@ All three cases decided by SCOTUS justices who received NRA electoral support. B
 
 #### Legislative Victories
 
-**Protection of Lawful Commerce in Arms Act (2005):** Shields gun manufacturers and dealers from civil liability for criminal use of their products. No other American industry has comparable legal immunity. This single law protects the entire gun industry revenue stream from litigation risk.
+**Protection of Lawful Commerce in Arms Act (2005):** Shields gun manufacturers and dealers from civil liability for unlawful use of their products. No other American industry has comparable legal immunity. This single law protects the entire gun industry revenue stream from litigation risk.
 
 **Assault weapons ban expiration (2004) and every renewal block since:** The original 1994 ban expired in 2004. Every renewal attempt has failed. Post-Bruen, multiple federal courts are now considering whether assault weapons bans violate the Second Amendment under the new historical-analogue test.
 

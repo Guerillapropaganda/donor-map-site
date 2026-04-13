@@ -1,8 +1,8 @@
 ---
 title: "National Multifamily Housing Council"
 type: corporation
-content-readiness: draft
-last-updated: 2026-04-09
+content-readiness: ready
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 sector: "Real Estate"
@@ -165,7 +165,7 @@ NMHC represents the apartment industry's ownership class — the developers, REI
 |--------|-------|
 | Federal Court Cases | 144 |
 | Courts | Court of Appeals for the Eighth Circuit, Court of Appeals for the Fifth Circuit, Court of Appeals for the Ninth Circuit, Court of Appeals for the Second Circuit, District Court, C.D. California, District Court, D. Colorado, District Court, D. Nevada, District Court, D. North Dakota +6 more |
-| Case Types | 190 Contract: Other, 360 Torts/Pers Inj: Other Personal Injury, 443 Civil Rights: Accommodations, 890 Other Statutory Actions, Fraud |
+| Case Types | 190 Contract: Other, 360 Torts/Pers Inj: Other Personal Injury, 443 Civil Rights: Accommodations, 890 Other Statutory Actions, misconduct |
 
 **Notable cases:**
 - Cosey v. Russell Road TIC I LLC (2025) — District Court, D. Nevada

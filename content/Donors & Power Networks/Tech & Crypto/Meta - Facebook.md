@@ -1,8 +1,8 @@
 ---
 title: "Meta - Facebook"
 type: corporation
-content-readiness: draft
-last-updated: 2026-04-11
+content-readiness: ready
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 sector: "Tech & Crypto"
@@ -205,7 +205,7 @@ Meta's 82-85% revolving door rate is among the highest in corporate America. The
 | Jun 2021 | Court dismisses FTC complaint for insufficient evidence of monopoly | Temporary reprieve |
 | Aug 2021 | FTC refiles amended complaint under Chair Lina Khan | Case continues |
 | Jul 2019 | FTC $5 billion fine (3-2 party-line vote) + 20-year compliance order | Largest FTC fine ever; Zuckerberg quarterly certifications required; did NOT force divestiture; stock rose 22% in following year |
-| 2022 | Cambridge Analytica class action: $725M settlement | Largest data privacy class action ever; $100M SEC settlement for investor fraud |
+| 2022 | Cambridge Analytica class action: $725M settlement | Largest data privacy class action ever; $100M SEC settlement for investor misconduct |
 | 2022-2024 | Discovery, depositions, pre-trial motions | Every year of delay = another year of integrated platform revenue |
 | Nov 2025 | FTC antitrust trial concludes; Judge Boasberg rules in Meta's favor | FTC failed to prove Meta currently holds monopoly; TikTok and YouTube counted as competitive substitutes; Instagram and WhatsApp acquisitions preserved |
 

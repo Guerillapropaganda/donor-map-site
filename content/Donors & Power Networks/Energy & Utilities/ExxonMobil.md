@@ -1,8 +1,8 @@
 ---
 title: "ExxonMobil"
 type: corporation
-content-readiness: draft
-last-updated: 2026-04-12
+content-readiness: ready
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 sector: "Energy & Utilities"
@@ -120,7 +120,7 @@ In May 2024, ExxonMobil completed its $59.5 billion all-stock acquisition of Pio
 | 2002  | $1,208,318          | $730,200   | 9.1%     | 90.9%        |
 | 2000  | $1,451,555          | $729,100   | 10.1%    | 89.9%        |
 
-**The 2016 Inflection Point:** From 2000–2014, ExxonMobil gave 85–91% of its contributions to Republicans. After 2016—the year of the first major state attorney general climate fraud investigations and growing [[Environmental, Social, and Governance|ESG]] investor pressure—that split shifted dramatically. By 2024, Democrats received 43% of total contributions. The PAC-only 2024 D/R split was 29.4% D / 70.6% R, indicating the shift toward Democrats is more pronounced in employee individual giving than in direct PAC strategy.
+**The 2016 Inflection Point:** From 2000–2014, ExxonMobil gave 85–91% of its contributions to Republicans. After 2016—the year of the first major state attorney general climate misconduct investigations and growing [[Environmental, Social, and Governance|ESG]] investor pressure—that split shifted dramatically. By 2024, Democrats received 43% of total contributions. The PAC-only 2024 D/R split was 29.4% D / 70.6% R, indicating the shift toward Democrats is more pronounced in employee individual giving than in direct PAC strategy.
 
 **2012 Peak:** The 2012 cycle saw the highest PAC-only spending ($1,679,000), coinciding with active debates over clean energy regulation and a political environment favorable to oil industry positions.
 
@@ -162,7 +162,7 @@ In May 2024, ExxonMobil completed its $59.5 billion all-stock acquisition of Pio
 | 2023 | $6,920,000 | IRA implementation; SEC climate disclosure rules |
 | 2024 | $6,820,000 | EPA methane rules finalized; election year |
 
-**Key Pattern:** Lobbying expenditures spike precisely when carbon pricing or climate regulation is legislatively viable. The cap-and-trade surge (2006–2009) tripled from $7.3M (2005) to $29M (2008), directly correlating with Congressional debate over carbon pricing. After the Senate killed cap-and-trade in 2010, Exxon settled into an $11–13M annual plateau. Post-2020, the drop to $6.8–8M reflects lower legislative risk (IRA passed; climate legislation largely settled) and strategic shift toward litigation defense as state AGs pursued climate fraud investigations.
+**Key Pattern:** Lobbying expenditures spike precisely when carbon pricing or climate regulation is legislatively viable. The cap-and-trade surge (2006–2009) tripled from $7.3M (2005) to $29M (2008), directly correlating with Congressional debate over carbon pricing. After the Senate killed cap-and-trade in 2010, Exxon settled into an $11–13M annual plateau. Post-2020, the drop to $6.8–8M reflects lower legislative risk (IRA passed; climate legislation largely settled) and strategic shift toward litigation defense as state AGs pursued climate misconduct investigations.
 
 > [!money] **Indirect Multiplier Effect:**
 > Reported federal lobbying alone ($293M over 25 years) understates Exxon's effective influence footprint. [[InfluenceMap|InfluenceMap]]'s 2018 analysis estimated that when indirect lobbying through [[American Petroleum Institute|API]], the U.S. Chamber of Commerce, [[ALEC - American Legislative Exchange Council|ALEC]], and other trade groups is included, ExxonMobil's effective annual climate lobbying footprint exceeded $27 million even in "quiet" years. This structural arrangement allows Exxon to maintain public positions (e.g., "we support the Paris Agreement") while funding proxy organizations that actively oppose the same policies.
@@ -373,7 +373,7 @@ ExxonMobil operates within a structural contradiction that defines fossil fuel p
 
 ExxonMobil is the donor class operating at industrial scale. $293M in federal lobbying over 24 years. $28.5M in campaign contributions. 6,535 federal court cases. 563 Federal Register mentions. 25 federal contracts with the Department of Defense as top agency. The numbers describe an entity that does not lobby government. It IS a parallel government, operating regulatory infrastructure, judicial infrastructure, and legislative infrastructure simultaneously.
 
-The class mechanism is bipartisan purchase. From 2000-2014, Exxon gave 85-91% Republican. After 2016, when state attorneys general began climate fraud investigations, the split shifted to 57/43 R/D by 2024. This is not ideological evolution. It is risk management. Democratic regulatory agencies (especially California) created financial exposure. The bipartisan hedge is insurance, not principle. Both parties receive money. Both parties protect the core business model.
+The class mechanism is bipartisan purchase. From 2000-2014, Exxon gave 85-91% Republican. After 2016, when state attorneys general began climate misconduct investigations, the split shifted to 57/43 R/D by 2024. This is not ideological evolution. It is risk management. Democratic regulatory agencies (especially California) created financial exposure. The bipartisan hedge is insurance, not principle. Both parties receive money. Both parties protect the core business model.
 
 The carbon tax contradiction is the cleanest class-analysis data point. Exxon publicly supports a carbon tax since 2009. Leaked undercover footage of lobbyist Keith McCoy (2021) revealed this was an "advocacy tool" and "great talking point" that "will never actually happen." Exxon opposed state carbon tax bills while maintaining the national talking point. The public position blocks alternative regulations (cap-and-trade, binding carbon pricing) while never threatening actual profits. McCoy admitted "every week" contact with Joe Manchin's office to kill Build Back Better's climate provisions.
 

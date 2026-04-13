@@ -1,7 +1,7 @@
 ---
 title: "Elizabeth Warren Master Profile"
 type: politician
-content-readiness: draft
+content-readiness: ready
 last-updated: 2026-04-13
 source-tier: 1
 parent: null
@@ -126,7 +126,7 @@ The financial crisis of 2008 created a political window when financial regulatio
 
 1. **Post-2008 political moment:** Public anger at Wall Street made some financial regulation politically necessary. The CFPB was the compromise — regulating consumer-facing predatory practices while leaving the structural architecture of finance (derivatives, proprietary trading, leverage ratios) untouched.
 
-2. **Predatory lending is not core financial capital:** The $21 billion returned to consumers came from fraud at the margins of the system. Constraining payday lenders and mortgage scammers doesn't threaten Wall Street banks' core wealth-generation mechanisms. Mortgages, credit cards, and loans remain profitable. Banks simply cannot commit the most egregious fraud.
+2. **Predatory lending is not core financial capital:** The $21 billion returned to consumers came from misconduct at the margins of the system. Constraining payday lenders and mortgage scammers doesn't threaten Wall Street banks' core wealth-generation mechanisms. Mortgages, credit cards, and loans remain profitable. Banks simply cannot commit the most egregious misconduct.
 
 3. **Constraining predatory lending advantages large institutions:** Payday lenders and predatory mortgage operators are small competitors. Constraining them through CFPB enforcement actually forces them out, benefiting large financial institutions that can comply with CFPB rules. The regulations protect the big banks from smaller competitors.
 

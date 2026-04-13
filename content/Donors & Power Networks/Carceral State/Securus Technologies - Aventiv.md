@@ -1,7 +1,7 @@
 ---
 title: "Securus Technologies - Aventiv"
 type: corporation
-content-readiness: draft
+content-readiness: ready
 last-updated: 2026-04-13
 source-tier: 1
 parent: null
@@ -63,7 +63,7 @@ Maximum per-minute call rates and per-session video visitation fees. Resistance 
 
 **Historical profit margins:** 51% gross profit margin documented in 2014 — exceeding Apple's margins. $114.6 million profit on revenues. The margin has since compressed due to rate regulation and debt service, but the underlying business model remains: charge captive consumers monopoly prices for a basic human need (communication with family).
 
-**Video visitation scheme:** Securus was the only major prison telecom company that explicitly required facilities to eliminate in-person visits as a condition of implementing video visitation. Charged up to $20 for a 20-minute video call. Offered facilities a 20% commission for banning in-person visits. 74% of jails that implemented Securus video systems banned in-person visits. Securus announced a policy revision in 2015 after lawsuits in Texas and Louisiana, but the damage was already done — many facilities never restored in-person visits.
+**Video visitation operation:** Securus was the only major prison telecom company that explicitly required facilities to eliminate in-person visits as a condition of implementing video visitation. Charged up to $20 for a 20-minute video call. Offered facilities a 20% commission for banning in-person visits. 74% of jails that implemented Securus video systems banned in-person visits. Securus announced a policy revision in 2015 after lawsuits in Texas and Louisiana, but the damage was already done — many facilities never restored in-person visits.
 
 ---
 

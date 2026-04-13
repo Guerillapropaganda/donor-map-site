@@ -80,7 +80,7 @@ The entertainment industry's disproportionate funding of Schiff (vs. Porter or B
 
 **"I have read the Mueller report so you don't have to"** — Positions Schiff as classified-information guardian. Authority derived from Intelligence Committee access; brand built on exclusive institutional knowledge inaccessible to voters or other politicians.
 
-**"Considerable evidence of collusion"** — Made during Trump-Russia investigations (later termed "obstruction" when Mueller findings proved weaker than investigations suggested). Converts classified access into narrative control; obscures gap between "evidence" and "criminal proof"; allows Schiff to prosecute Trump in public opinion while independent investigations reach weaker conclusions.
+**"Considerable evidence of collusion"** — Made during Trump-Russia investigations (later termed "obstruction" when Mueller findings proved weaker than investigations suggested). Converts classified access into narrative control; obscures gap between "evidence" and "unlawful proof"; allows Schiff to prosecute Trump in public opinion while independent investigations reach weaker conclusions.
 
 **"This is the most dangerous president in history"** — Apocalyptic framing justifies national security spending on his campaign. Implicitly validates defense/surveillance contractor interest in his political protection — the logic being that his election serves "democracy" itself.
 

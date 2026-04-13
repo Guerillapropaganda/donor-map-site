@@ -27,7 +27,7 @@ donors: [[GEO Group]] · [[Ballard Partners]]
 | Target | Charge/Action | Political Context |
 |--------|--------------|-------------------|
 | James Comey | Indicted | Former FBI Director; investigated Trump-Russia |
-| Letitia James | Indicted | NY AG; won $454M fraud judgment against Trump |
+| Letitia James | Indicted | NY AG; won $454M misconduct judgment against Trump |
 | Eric Adams | Corruption charges dismissed | Adams cooperated on immigration enforcement |
 
 The pattern: Trump's political opponents are indicted. Trump's political allies receive favorable treatment. The DOJ's prosecutorial discretion — theoretically independent of political influence — operates as an extension of the White House's political strategy.

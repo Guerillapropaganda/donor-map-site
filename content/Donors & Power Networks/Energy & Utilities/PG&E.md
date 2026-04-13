@@ -47,7 +47,7 @@ In 2020, PG&E pleaded guilty to 84 counts of involuntary manslaughter for deaths
 — Rate increases approved by CPUC to fund infrastructure, wildfire mitigation, and profit margin
 — Liability caps and socialized wildfire costs (not borne by shareholders)
 — CPUC appointments favorable to utility interests
-— No criminal accountability for executives
+— No unlawful accountability for executives
 — Protection of utility revenue from distributed generation (rooftop solar, battery storage)
 
 ---
@@ -79,7 +79,7 @@ In 2020, PG&E pleaded guilty to 84 counts of involuntary manslaughter for deaths
 
 — AB 1054 (2019): Wildfire liability fund — socializes wildfire costs onto ratepayers, caps shareholder exposure. Signed by Newsom.
 — State takeover blocked (2019): Newsom opposed public ownership during bankruptcy, supported private reorganization.
-— No executive criminal accountability: 84 people killed, company pleaded guilty, no individual executives charged.
+— No executive unlawful accountability: 84 people killed, company pleaded guilty, no individual executives charged.
 — NEM 3.0 (2023): Newsom's CPUC cut rooftop solar credits dramatically, protecting PG&E's revenue from distributed generation competition.
 — Diablo Canyon extension (2022): Newsom reversed planned closure, extending PG&E's nuclear revenue stream.
 — Consistent rate increases approved through CPUC throughout Newsom's tenure — California now among highest residential electricity rates in the continental US.

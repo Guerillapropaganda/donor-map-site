@@ -29,7 +29,7 @@ donors: [[Miriam Adelson]]
 
 ### Case 1000 — The Gift Transaction
 
-**The charges:** Bribery, fraud, breach of trust. Netanyahu allegedly received valuable gifts from Hollywood producer Arnon Milchan and Australian billionaire James Packer. The quid pro quo: Netanyahu advanced Milchan's U.S. visa interests and favorable tax exemption legislation in return.
+**The charges:** Bribery, misconduct, breach of trust. Netanyahu allegedly received valuable gifts from Hollywood producer Arnon Milchan and Australian billionaire James Packer. The quid pro quo: Netanyahu advanced Milchan's U.S. visa interests and favorable tax exemption legislation in return.
 
 **The class analysis:** This is not a one-off scandal. This documents how state power becomes a commodity traded for personal enrichment. Netanyahu held the regulatory authority to grant visa exemptions and tax benefits. He traded this authority for gifts from billionaires. The transaction is the governance model.
 
@@ -74,7 +74,7 @@ This is a pure protection racket. Media owner faces competition from Adelson's I
 
 **The pardon request:** December 2024. Netanyahu submitted a pardon request to President Isaac Herzog while the trial was still ongoing. Herzog rejected it as "extremely problematic" — citing that Netanyahu had made no admission of guilt and sought to avoid trial verdict.
 
-**The significance:** This is extraordinary. Netanyahu did not resign. He did not face the verdict. He requested presidential immunity while maintaining his position as Prime Minister. The request reveals the core truth: Netanyahu believes that the presidential pardon power should protect him from democratic accountability. Herzog's refusal (and Herzog is a Netanyahu ally) indicates even the Israeli political establishment recognized the danger of allowing a Prime Minister to pardon himself out of criminal trials.
+**The significance:** This is extraordinary. Netanyahu did not resign. He did not face the verdict. He requested presidential immunity while maintaining his position as Prime Minister. The request reveals the core truth: Netanyahu believes that the presidential pardon power should protect him from democratic accountability. Herzog's refusal (and Herzog is a Netanyahu ally) indicates even the Israeli political establishment recognized the danger of allowing a Prime Minister to pardon himself out of unlawful trials.
 
 ---
 

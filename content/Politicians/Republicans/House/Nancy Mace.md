@@ -3,9 +3,9 @@ title: "Nancy Mace"
 type: politician
 chamber: "House"
 party: "Republican"
-content-readiness: draft
+content-readiness: ready
 central-thesis: "Nancy Mace is the donor-class weather vane. Her positions do not reflect a stable ideology or principle — they shift when the donor incentive structure changes. Her post-January 6 criticism of Trump was genuine, but only lasted as long as moderate..."
-last-updated: 2026-04-07
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 total-received: "$452,863"
@@ -143,6 +143,14 @@ Mace's flip on transgender rights is the clearest possible case study of donor-d
 - Increased opposition to Biden administration priorities
 - Anti-immigration hardline positions
 - Shift away from bipartisan votes to partisan alignment
+
+## Class Analysis
+
+Nancy Mace is the clearest proof that ideology is a fundraising position, not a belief system. Her class function is to serve whichever donor faction is currently capable of protecting her seat. When moderate corporate donors and Chamber of Commerce networks funded her in 2021-2022 ($2M+), she was a principled Trump critic who called January 6 "indefensible" and described herself as "pro-transgender rights." When MAGA-aligned donors and conservative PACs shifted $3M+ toward her 2023-2024 cycle and backed primary challenger Catherine Templeton, Mace performed a complete ideological inversion. Pro-trans became anti-trans. Trump critic became Trump-endorsed. The timeline is mechanical: donor base flips, positions flip.
+
+The transgender rights reversal is the specimen case. In July 2023, Mace publicly supported children exploring gender identities. By November 2024, she introduced legislation banning transgender women from Capitol bathrooms and federal buildings. Between those two dates, the only thing that changed was who was writing checks. The hundreds of inflammatory anti-trans tweets that followed were not just repositioning but escalation, proof that once the donor incentive locked in, Mace internalized the position and amplified it beyond what her funders strictly required. The weather vane became a true believer, or at least performed one convincingly enough that the distinction ceased to matter.
+
+The class structure is straightforward. Mace's $8M+ career fundraising has tracked through two distinct phases, each with its own ideology attached. The swing-district moderate phase served defense contractors near Charleston's military installations and corporate donors who wanted Republican votes without MAGA extremism. The MAGA realignment phase serves Trump-aligned small-dollar donors and conservative PACs who demand culture-war performance. In neither phase did Mace's positions originate from constituent need or personal conviction. They originated from the donor class composition of the moment. She is not a moderating force or a MAGA warrior. She is a price signal, and her ideology is set by whoever bids highest.
 
 ## Analytical Patterns
 

@@ -113,7 +113,7 @@ Boebert's move from CO-3 to CO-4 is a case study in the culture-war economy's li
 
 Multiple FEC complaints document a pattern of financial mismanagement:
 
-**Mileage reimbursement fraud (MUR 7876):** Boebert reimbursed herself $22,259 for campaign mileage — claiming 38,712 miles driven (implausible for her geography). Campaign later reclassified $3,053 to "hotels" and $867 to "Uber." FEC commissioners deadlocked 3-3 (Republican commissioners blocked investigation). No enforcement.
+**Mileage reimbursement misconduct (MUR 7876):** Boebert reimbursed herself $22,259 for campaign mileage — claiming 38,712 miles driven (implausible for her geography). Campaign later reclassified $3,053 to "hotels" and $867 to "Uber." FEC commissioners deadlocked 3-3 (Republican commissioners blocked investigation). No enforcement.
 
 **Personal expenses charged to campaign:** Rent and utilities improperly charged to campaign account. Funds reimbursed after inquiry. Four Venmo payments totaling $6K+ labeled "personal expense of Lauren Boebert billed to campaign account in error."
 

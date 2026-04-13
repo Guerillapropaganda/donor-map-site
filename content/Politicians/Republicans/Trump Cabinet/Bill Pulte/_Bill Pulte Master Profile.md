@@ -18,7 +18,7 @@ related: "[[National Rental Home Council]] · [[National Multifamily Housing Cou
 
 ### Sub-Notes
 
-None yet. Potential sub-notes: GAO probe, politically motivated mortgage fraud referrals, FHFA weaponization, Twitter philanthropy.
+None yet. Potential sub-notes: GAO probe, politically motivated mortgage misconduct referrals, FHFA weaponization, Twitter philanthropy.
 
 ---
 
@@ -30,7 +30,7 @@ Bill Pulte (born May 28, 1988, Michigan/Washington, D.C.) is the grandson of Pul
 
 ## The Central Thesis
 
-Pulte is a trust fund heir who leveraged inherited wealth into a political brand (Twitter philanthropy, Trump loyalty) and then into a regulatory position (FHFA Director) where he controls Fannie Mae and Freddie Mac — the entities that backstop the entire U.S. housing market. His tenure has been marked by the weaponization of regulatory authority: using FHFA's power to refer Trump critics to the DOJ for mortgage fraud investigations. He represents the donor-class capture of a regulatory agency — not through industry lobbying, but through direct installation of a political loyalist.
+Pulte is a trust fund heir who leveraged inherited wealth into a political brand (Twitter philanthropy, Trump loyalty) and then into a regulatory position (FHFA Director) where he controls Fannie Mae and Freddie Mac — the entities that backstop the entire U.S. housing market. His tenure has been marked by the weaponization of regulatory authority: using FHFA's power to refer Trump critics to the DOJ for mortgage misconduct investigations. He represents the donor-class capture of a regulatory agency — not through industry lobbying, but through direct installation of a political loyalist.
 
 ---
 
@@ -69,7 +69,7 @@ Pulte is a trust fund heir who leveraged inherited wealth into a political brand
 | 2021 | LLC contribution to pro-Trump PAC | $500K | Trump loyalty demonstrated | Ongoing |
 | Jan 2025 | Political loyalty | N/A | Nominated as FHFA Director | ~4 years |
 | Mar 2025 | Confirmed FHFA Director | N/A | Controls Fannie Mae and Freddie Mac | Direct |
-| Apr 2025 | FHFA power | N/A | Referred NY AG Letitia James to DOJ for mortgage fraud | ~1 month |
+| Apr 2025 | FHFA power | N/A | Referred NY AG Letitia James to DOJ for mortgage misconduct | ~1 month |
 | Jul 2025 | FHFA power | N/A | Referred Rep. Adam Schiff to DOJ | ~4 months |
 | Aug 2025 | FHFA power | N/A | Referred Fed Governor Lisa Cook to DOJ | ~5 months |
 | Nov 2025 | FHFA power | N/A | Referred Rep. Eric Swalwell to DOJ; pushed ouster of U.S. Attorney Erik Siebert | ~8 months |
@@ -90,15 +90,15 @@ No sub-notes built yet. Key policy areas:
 
 ## Rhetorical Signature Moves
 
-Pulte uses populist framing — "fighting fraud," "protecting taxpayers" — to justify politically motivated actions. The mortgage fraud referrals are framed as regulatory enforcement rather than political retaliation. His Twitter persona (generous, direct, man-of-the-people) provides cover for wielding institutional power on behalf of a political faction.
+Pulte uses populist framing — "fighting misconduct," "protecting taxpayers" — to justify politically motivated actions. The mortgage misconduct referrals are framed as regulatory enforcement rather than political retaliation. His Twitter persona (generous, direct, man-of-the-people) provides cover for wielding institutional power on behalf of a political faction.
 
 ---
 
 ## Analytical Patterns
 
-- **Donor-Class Override** — Pulte uses FHFA regulatory authority to serve Trump's political interests rather than housing market stability. The DOJ referrals target Trump critics, not actual fraud patterns.
+- **Donor-Class Override** — Pulte uses FHFA regulatory authority to serve Trump's political interests rather than housing market stability. The DOJ referrals target Trump critics, not actual misconduct patterns.
 - **Self-Funding as Independence** — His $100M+ net worth from family wealth and private equity provides financial independence, but his policy actions serve Trump's political loyalty test rather than independent judgment.
-- **Villain Framing** — Trump critics referred to DOJ are framed as "mortgage fraudsters," converting political opposition into criminal allegations.
+- **Villain Framing** — Trump critics referred to DOJ are framed as "mortgage fraudsters," converting political opposition into unlawful allegations.
 
 ---
 

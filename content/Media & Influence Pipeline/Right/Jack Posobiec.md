@@ -85,7 +85,7 @@ Posobiec's messaging focuses on delegitimizing democratic norms through narrativ
 
 ### Stop the Steal (originated hashtag—September 2020):
 - Tweeted "#StopTheSteal 2020 is coming..." on September 7, 2020
-- Five months before the 2020 election, before any votes were cast, before any fraud could be alleged
+- Five months before the 2020 election, before any votes were cast, before any misconduct could be alleged
 - Timeline is critical: the narrative was pre-manufactured, not responsive to evidence
 - This originated the organizing hashtag used to coordinate January 6 mobilization
 - All Stop the Steal tweets were deleted after legal exposure became clear

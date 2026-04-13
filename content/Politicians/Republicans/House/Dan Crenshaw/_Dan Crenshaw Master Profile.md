@@ -1,9 +1,9 @@
 ---
 title: "Dan Crenshaw Master Profile"
 type: politician
-content-readiness: draft
+content-readiness: ready
 central-thesis: "Crenshaw is the case study in how the modern Republican media-brand model serves the donor class while appearing independent — until the base turns on the brand. His Navy SEAL credentials and media presence generated a national following that made..."
-last-updated: 2026-04-10
+last-updated: 2026-04-13
 needs-reenrichment: true
 reenrich-reason: "Bioguide recovered 2026-04-11 (was contaminated, now verified): C001120. Next pipeline run should populate Congress.gov + GovTrack auto-blocks with correct data."
 known-gaps:
@@ -168,6 +168,14 @@ AIPAC was Crenshaw's single largest organizational contributor in the 2024 cycle
 Crenshaw was the only House Republican on the Texas ballot without a Trump endorsement. His $4M war chest ($1.3M more than Toth) proved that in the post-Trump GOP, money cannot overcome brand misalignment with the base. The donor class he served — energy companies, AIPAC, Wall Street — could fund his campaign but could not vote in his primary. The voters who could were listening to Trump and Cruz.
 
 ---
+
+## Class Analysis
+
+Dan Crenshaw served the Houston energy donor class while building a national media brand that made it look like independence. His career fundraising hit $24.9 million, with Oil and Gas at $1.23 million (top industry), Energy and Natural Resources at $1.53 million total, and Finance/Insurance/Real Estate adding $3.76 million. His Energy and Commerce Committee seat gave him direct regulatory authority over the industry that defined his district. Every legislative position, from opposing EPA methane regulation to defending fossil fuel tax preferences, matched the Houston energy wish list dollar for dollar.
+
+The media brand was the cover story. Crenshaw's "thinking person's Republican" identity, built through podcast debates and social media engagement, generated $1.2 million in sub-$200 small-dollar donations in 2024 alone. This grassroots fundraising created the appearance of independence from institutional money. In reality, 21% of his 2024 funding came from PACs, and his top sectors were energy, real estate, and securities. The two fundraising tracks operated in parallel: institutional money for influence, grassroots money for branding. AIPAC was his single largest organizational contributor at $54,118 in the 2024 cycle, with career pro-Israel contributions totaling $233,395.
+
+Crenshaw's 2026 primary loss is the rare case where the donor class lost. Energy PACs, AIPAC, and Wall Street backed him with $4 million in 2024 funding. He outpaced Steve Toth by $1.3 million. He still lost by 15 points. The class lesson is structural: institutional money can capture governance through committee seats and legislative votes, but it cannot always capture nominations. The Houston energy companies, AIPAC, and Wall Street firms could fund Crenshaw's campaigns but could not vote in his primary. The voters who could were listening to Donald Trump and Ted Cruz, not to donor-class media brands.
 
 ## Rhetorical Signature Moves
 

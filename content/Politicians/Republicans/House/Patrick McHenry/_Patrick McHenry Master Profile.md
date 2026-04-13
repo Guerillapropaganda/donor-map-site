@@ -178,10 +178,10 @@ The simultaneity is the point: McHenry was not hired by these firms because he p
 ## Rhetorical Signature Moves
 
 ### The "Innovation vs. Regulation" False Choice
-McHenry's primary rhetorical move was framing all financial sector regulation as "anti-innovation." Consumer protection = stifling innovation. State oversight = anti-competitive federalism. CFPB enforcement = government overreach. The rhetorical structure requires forgetting that the 2008 financial crisis killed innovation — it killed people's homes, savings, and livelihoods. FIT21 was framed as "clearing regulatory uncertainty" when it actually created legal space for fraud.
+McHenry's primary rhetorical move was framing all financial sector regulation as "anti-innovation." Consumer protection = stifling innovation. State oversight = anti-competitive federalism. CFPB enforcement = government overreach. The rhetorical structure requires forgetting that the 2008 financial crisis killed innovation — it killed people's homes, savings, and livelihoods. FIT21 was framed as "clearing regulatory uncertainty" when it actually created legal space for misconduct.
 
 ### The "Free Market Solutions" Deflection
-When questioned about consumer harm or fraud risk, McHenry invoked "free market solutions." If crypto protocols fail or tokens collapse, investors will learn. If stablecoins lose their reserves, markets will correct. The faith in markets is sincere among libertarian conservatives. The cynicism is in ignoring that his own constituents lack the capital to absorb losses that sophisticated investors are insulated from.
+When questioned about consumer harm or misconduct risk, McHenry invoked "free market solutions." If crypto protocols fail or tokens collapse, investors will learn. If stablecoins lose their reserves, markets will correct. The faith in markets is sincere among libertarian conservatives. The cynicism is in ignoring that his own constituents lack the capital to absorb losses that sophisticated investors are insulated from.
 
 ---
 

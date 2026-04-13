@@ -42,7 +42,7 @@ Trump Victory is a joint fundraising committee (JFC) established May 25, 2016, s
 
 The JFC structure serves a specific legal purpose: it allows donors to write a single large check — up to $449,400-$817,800 depending on participating entities — that is split among multiple recipients according to a predetermined formula. The formula is the mechanism. By listing the Trump campaign, the RNC, and dozens of state parties as beneficiaries, Trump Victory creates the appearance of distributed funding while concentrating control in the Trump operation.
 
-The defining feature of Trump Victory's operation — documented by OpenSecrets in a 2021 investigation — is the state party pass-through scheme. In the 2020 cycle, Trump Victory distributed $13.3 million to 21 state parties, and all 21 state parties transferred the exact amounts back to the RNC the same day, down to the penny. State parties received approximately $72 million through this mechanism and passed it all through to the RNC. The state parties were not beneficiaries. They were conduits — legal fictions used to circumvent individual contribution limits to the RNC.
+The defining feature of Trump Victory's operation — documented by OpenSecrets in a 2021 investigation — is the state party pass-through operation. In the 2020 cycle, Trump Victory distributed $13.3 million to 21 state parties, and all 21 state parties transferred the exact amounts back to the RNC the same day, down to the penny. State parties received approximately $72 million through this mechanism and passed it all through to the RNC. The state parties were not beneficiaries. They were conduits — legal fictions used to circumvent individual contribution limits to the RNC.
 
 ---
 
@@ -52,7 +52,7 @@ The defining feature of Trump Victory's operation — documented by OpenSecrets 
 
 **Circumvent contribution limits through state party pass-throughs:** The documented pattern of same-day transfers from state parties to the RNC turns the JFC's state party allocation into a contribution-limit circumvention device. Donors effectively contribute to the RNC at multiples of the legal limit by routing money through state parties that function as pass-throughs.
 
-**Prioritize legal defense over party building (2024):** The Trump 47 Committee — Trump Victory's 2024 successor — restructured the allocation formula to direct money to Save America PAC (Trump's legal defense fund) before the RNC. This meant donor money paid for Trump's criminal defense attorneys before a single dollar reached the Republican Party's general operations.
+**Prioritize legal defense over party building (2024):** The Trump 47 Committee — Trump Victory's 2024 successor — restructured the allocation formula to direct money to Save America PAC (Trump's legal defense fund) before the RNC. This meant donor money paid for Trump's defense attorneys before a single dollar reached the Republican Party's general operations.
 
 **Control the RNC apparatus:** In March 2024, Trump installed Lara Trump (his daughter-in-law) as RNC co-chair and Michael Whatley as chair, completing a takeover of the party's fundraising machinery. The JFC structure gives Trump personal control over the flow of hundreds of millions of dollars through the Republican Party.
 
@@ -112,7 +112,7 @@ For 2024, the Trump 47 Committee restructured the JFC allocation to prioritize T
 3. Next $413,000 → RNC
 4. Remainder → State parties
 
-The critical innovation: Save America PAC — which spent $50+ million on Trump's criminal defense attorneys in 2023 — receives donor money before the Republican National Committee. A donor writing a $424,600 check to support Republican candidates is actually funding Trump's lawyers before supporting the party.
+The critical innovation: Save America PAC — which spent $50+ million on Trump's defense attorneys in 2023 — receives donor money before the Republican National Committee. A donor writing a $424,600 check to support Republican candidates is actually funding Trump's lawyers before supporting the party.
 
 > [!contradiction]
 > Trump's campaign publicly stated: "We will not use RNC funds to pay any of President Trump's legal bills." The Trump 47 Committee's allocation formula directs donor money to Save America PAC — which pays Trump's legal bills — before a single dollar reaches the RNC. The statement is technically true and functionally false. RNC funds don't pay legal bills. The money is intercepted before it becomes RNC funds.
@@ -148,7 +148,7 @@ Trump's March 2024 installation of Lara Trump and Michael Whatley at the RNC com
 
 #### Legal Defense Subsidy
 
-The Trump 47 Committee's allocation formula channeled donor money to Save America PAC before the RNC, subsidizing Trump's criminal defense from contributions ostensibly raised for Republican candidates and party operations. Save America has spent $72.5+ million on Trump's legal fees since January 2021.
+The Trump 47 Committee's allocation formula channeled donor money to Save America PAC before the RNC, subsidizing Trump's defense from contributions ostensibly raised for Republican candidates and party operations. Save America has spent $72.5+ million on Trump's legal fees since January 2021.
 
 #### Trump Property Revenue
 
@@ -165,7 +165,7 @@ Trump Victory is the structural mechanism through which Trump converted the Repu
 
 **The JFC as contribution-limit circumvention.** Federal law limits individual contributions to $6,600 per candidate and $41,300 per national party committee. The JFC structure allows a single check of $449,400+ by listing dozens of state parties as nominal beneficiaries. But the 2020 same-day, to-the-penny state-to-RNC transfers documented by OpenSecrets reveal that state parties exercise no actual control over these funds. The JFC's legal compliance depends on the fiction that state parties are independent recipients. The financial reality is that they're pass-throughs.
 
-**The allocation formula as power.** By restructuring the 2024 JFC to direct money to Save America PAC before the RNC, Trump established that his personal legal defense takes priority over party operations. This isn't metaphorical — it's the literal allocation formula. Donors who think they're supporting Republican candidates are funding criminal defense attorneys first. The formula is the confession.
+**The allocation formula as power.** By restructuring the 2024 JFC to direct money to Save America PAC before the RNC, Trump established that his personal legal defense takes priority over party operations. This isn't metaphorical — it's the literal allocation formula. Donors who think they're supporting Republican candidates are funding defense attorneys first. The formula is the confession.
 
 **The refund rate as exploitation metric.** A 10.7% refund rate — 58% higher than the opposing campaign — is a quantitative measure of donor exploitation. Pre-checked recurring donation boxes extracted money from donors who didn't intend to give it. The $135 million in refunds represents only the donors who noticed and successfully reversed the charges. The unreversed recurring charges — from donors who never checked their credit card statements — represent the profit from the operation.
 

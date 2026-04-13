@@ -30,7 +30,7 @@ The needs-reenrichment flag has been set. The next scheduled pipeline run will p
 
 Save America is Donald Trump's leadership PAC, established November 9, 2020 — two days after the election he lost. FEC ID: C00762591. Treasurer: Bradley T. Crate. Legal structure: leadership PAC (not a super PAC), meaning it faces contribution limits but has broad spending discretion. Registered as a Quarterly PAC, Qualified Leadership PAC.
 
-The defining characteristic: Save America raised $250+ million on the claim that donations would fund an "Official Election Defense Fund" to fight the 2020 results. That fund did not exist. The January 6 Committee documented that Trump and his campaign knew the fraud claims were false while continuing to fundraise on them — sending 25+ fundraising emails per day during the post-election period. The money went to Save America's general account, where it was spent primarily on Trump's personal legal defense, staff, events, and transfers to other Trump entities.
+The defining characteristic: Save America raised $250+ million on the claim that donations would fund an "Official Election Defense Fund" to fight the 2020 results. That fund did not exist. The January 6 Committee documented that Trump and his campaign knew the misconduct claims were false while continuing to fundraise on them — sending 25+ fundraising emails per day during the post-election period. The money went to Save America's general account, where it was spent primarily on Trump's personal legal defense, staff, events, and transfers to other Trump entities.
 
 Save America is not a political action committee in any meaningful sense. It is a personal financial instrument for Donald Trump, structured as a PAC for legal and tax purposes, funded by small-dollar donors who believed they were defending democracy, and spent overwhelmingly on the legal costs of the man who attacked it.
 
@@ -46,7 +46,7 @@ Save America is not a political action committee in any meaningful sense. It is 
 
 ### What They Want
 
-**Legal defense funding.** Save America's primary function since 2022 has been paying Donald Trump's personal legal bills — criminal defense in four indictments (two federal, two state), civil fraud trials, defamation cases, and related litigation. The PAC spent $50+ million on legal fees in 2023 alone, consuming the vast majority of its receipts.
+**Legal defense funding.** Save America's primary function since 2022 has been paying Donald Trump's personal legal bills — defense in four indictments (two federal, two state), civil misconduct trials, defamation cases, and related litigation. The PAC spent $50+ million on legal fees in 2023 alone, consuming the vast majority of its receipts.
 
 **Pardon-economy infrastructure.** Save America and its affiliated PACs (particularly MAGA Inc.) serve as the financial gateway to presidential clemency. Donors who give to Trump-affiliated PACs and later receive pardons create a documented pattern of pay-for-clemency — one that operates in a legal gray zone because leadership PAC contributions are not technically quid pro quo.
 
@@ -102,7 +102,7 @@ Save America is not a political action committee in any meaningful sense. It is 
 - Alina Habba: $2.3 million
 - Monthly legal burn rate (2023–2024): $3–5.6 million per month
 
-**Cash position:** End of March 2024: approximately $4–5.1 million on hand — severely depleted during the height of Trump's criminal trials.
+**Cash position:** End of March 2024: approximately $4–5.1 million on hand — severely depleted during the height of Trump's unlawful trials.
 
 [Source: [CBS News: Trump PAC Pays His Legal Bills](https://www.cbsnews.com/news/trump-pac-pays-his-legal-bills-save-america/) (Tier 2); [ABC News: $50M on Legal Bills in 2023](https://abcnews.com/US/trump-spent-50m-pac-super-pac-money-legal/story?id=106843612?id=106843612) (Tier 2); [CNN: Legal Expenses Outstrip Fundraising](https://www.cnn.com/2024/03/20/politics/legal-bills-trump/index.html) (Tier 2); [The Hill: Trump PAC Monthly Legal Spending](https://thehill.com/homenews/campaign/4547289-trump-pac-legal-expenses-fec/) (Tier 2)]
 
@@ -116,12 +116,12 @@ The intersection of Save America donations and presidential clemency creates the
 | Donor/Relative | Amount | Entity | Pardon Recipient | Charges | Year |
 |----------------|--------|--------|-----------------|---------|------|
 | Daughter of Julio Herrera Velutini | $3.5M | MAGA Inc. | Julio Herrera Velutini (Venezuelan billionaire) | Bribery | Jan 2026 |
-| Mother of Paul Walczak | $1M | MAGA Inc. | Paul Walczak (convicted fraudster) | Fraud | April 2025 |
+| Mother of Paul Walczak | $1M | MAGA Inc. | Paul Walczak (convicted fraudster) | misconduct | April 2025 |
 
 ### First-term pardons (Trump allies):
 - Roger Stone (December 23, 2020) — convicted of obstruction, witness tampering, lying to Congress
 - Paul Manafort (December 23, 2020) — convicted of conspiracy, money laundering, tax evasion
-- Steve Bannon (January 2021) — indicted for fraud in "We Build the Wall" scheme
+- Steve Bannon (January 2021) — indicted for misconduct in "We Build the Wall" operation
 - Charles Kushner (December 2020) — convicted of tax evasion, witness tampering
 
 > [!money] The Pardon Premium
@@ -133,12 +133,12 @@ The intersection of Save America donations and presidential clemency creates the
 
 ### Jack Smith investigation:
 - Issued 197 subpoenas to Republican individuals and entities
-- Save America PAC targeted by grand jury investigating January 6 and fundraising fraud
+- Save America PAC targeted by grand jury investigating January 6 and fundraising misconduct
 - Subpoenas sought records on PAC fundraising and disbursements
 - Vendors subpoenaed to determine if they delivered services or concealed actual payees
 - **October 2023:** Jack Smith withdrew the Save America PAC subpoena — reason unknown
 - **2025:** Jack Smith resigned from all Trump prosecutions after Trump's election and inauguration
-- **No charges** filed against Save America or Trump related to fundraising fraud
+- **No charges** filed against Save America or Trump related to fundraising misconduct
 
 ### FEC complaints:
 - **November 2022:** Campaign Legal Center filed complaint alleging violation of soft money ban
@@ -162,7 +162,7 @@ The intersection of Save America donations and presidential clemency creates the
 | 2021-01-06 | January 6 rally | $5M+ to Event Strategies Inc. | Capitol breach; Trump impeached (acquitted) | Same day |
 | 2022 cycle | Full-cycle fundraising | $108.7M raised | $210K to candidates (0.19%); rest to legal/operations | Concurrent |
 | 2022-09 | MAGA Inc. created; $20M transferred from Save America | $20M → $60M clawback | FEC complaint filed; Trump gains super PAC capability | 0-2 months |
-| 2023 | Peak legal spending year | $50M+ legal fees | Criminal defense in 4 indictments; civil fraud defense | Concurrent |
+| 2023 | Peak legal spending year | $50M+ legal fees | defense in 4 indictments; civil misconduct defense | Concurrent |
 | 2023-10 | Jack Smith withdraws Save America subpoena | — | Fundraising misconduct investigation appears abandoned | — |
 | 2024 | Trump 47 Committee established for campaign | Save America overflow vehicle | PAC depleted to $4-5M cash on hand during trials | Concurrent |
 | 2025-01 | Trump inaugurated; pardons begin | Save America/MAGA Inc. donors | Stone, Manafort, Bannon previously pardoned; new clemency wave | 0-4 years |
@@ -185,7 +185,7 @@ Save America represents a structural innovation in American political corruption
 
 **Pattern: Two-Audience Problem.** Save America's fundraising appeals target small-dollar donors with messages about defending democracy and fighting election irregularities. Its spending benefits a single individual's legal defense. The audience for the rhetoric (grassroots supporters) and the beneficiary of the money (Donald Trump's attorneys) have no overlap in interest.
 
-**Pattern: Donor-Class Override.** The pardon economy inverts the normal donor-to-policy pipeline: instead of donors funding politicians who enact favorable policy, donors fund the president who grants them personal clemency. The policy outcome is individualized — not regulatory capture but personal liberation from criminal accountability, purchased through PAC contributions.
+**Pattern: Donor-Class Override.** The pardon economy inverts the normal donor-to-policy pipeline: instead of donors funding politicians who enact favorable policy, donors fund the president who grants them personal clemency. The policy outcome is individualized — not regulatory capture but personal liberation from unlawful accountability, purchased through PAC contributions.
 
 ---
 

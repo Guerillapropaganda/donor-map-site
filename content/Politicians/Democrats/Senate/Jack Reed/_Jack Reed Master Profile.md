@@ -1,7 +1,7 @@
 ---
 title: "Jack Reed"
 type: politician
-content-readiness: draft
+content-readiness: ready
 central-thesis: "Jack Reed is the military-industrial complex's most credentialed Democrat. West Point, Army Ranger, 82nd Airborne, Harvard Kennedy School, Harvard Law — the CV is impeccable. He parlayed it into the Senate's most important defense position, where ..."
 last-updated: 2026-04-13
 source-tier: 1
@@ -151,7 +151,7 @@ Reed's net worth is among the lowest in the Senate, reported between negative $5
 
 ## Analytical Patterns
 
-**Genuine Win + Structural Limit:** Reed has pushed for genuine military reforms — better oversight of contractor fraud, improved veteran healthcare, accountability for Pentagon procurement failures. These wins are real but bounded. They improve how the money is spent without ever questioning how much money is spent. The structural limit: the defense budget itself is never on the table.
+**Genuine Win + Structural Limit:** Reed has pushed for genuine military reforms — better oversight of contractor misconduct, improved veteran healthcare, accountability for Pentagon procurement failures. These wins are real but bounded. They improve how the money is spent without ever questioning how much money is spent. The structural limit: the defense budget itself is never on the table.
 
 **Both-Sides Illusion:** Reed (Democrat) and Wicker (Republican, Armed Services Chair) publicly disagree on social policy, foreign policy nuance, and partisan issues. They agree on the defense budget. Every year. The Armed Services Committee is the most bipartisan committee in the Senate because both parties' members are funded by the same defense contractors. The partisan fight stops at the Pentagon's door.
 
