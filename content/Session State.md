@@ -1,7 +1,7 @@
 ---
 title: Session State
 type: system
-last-updated: 2026-04-12
+last-updated: 2026-04-13
 ---
 <!-- last session: Public tip submission system — Web3Forms + Cloudflare Worker + GitHub Action + Ops Tips page -->
 
@@ -76,12 +76,13 @@ The most productive single session in vault history. 476 new politician profiles
 4. **Republican opposition edges** for new politician profiles
 5. **Story grading** — assign story-grade to 106 published stories
 
-### Session end state
-- **762 ready** (was 560), **766 draft** (was 900), **478 raw** (was 531)
-- **27,504 relationship edges** (was 24,604)
-- **97 Class Analysis sections** written
-- **~275 profiles promoted**
-- **Enrichment running overnight**
+### Session end state (final)
+- **932 ready** (was 560, +372, +66%), **589 draft** (was 900), **471 raw** (was 531)
+- **27,504 relationship edges** (was 24,604), think tanks 0 to 960, K Street 0 to 449
+- **~320 Class Analysis sections** written across ~15 agent batches (A through O)
+- **~460 profiles promoted** (draft to ready + raw to draft)
+- **Enrichment running overnight** (4x daily schedule + manual triggers)
+- **Vault at 47% ready** (was 28% at session start)
 
 ---
 
