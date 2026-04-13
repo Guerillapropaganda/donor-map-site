@@ -167,6 +167,16 @@ AIPAC's spending against Bush was not proportional to her Israel critique — it
 
 ---
 
+## Class Analysis
+
+Cori Bush's political destruction is the donor class's most transparent disciplinary action of the 2024 cycle. The mechanism is straightforward: Bush introduced H.Res. 786 calling for a Gaza ceasefire in October 2023, and within months AIPAC's United Democracy Project allocated $9.96 million to remove her. Fairshake PAC added $2.79 million. The combined $13.97 million in opposition spending against a candidate who raised $4.17 million produced a 3.3-to-1 ratio that no grassroots operation can overcome in a low-turnout House primary. The spending was not proportional to Bush's influence. It was proportional to the message AIPAC wanted to send to every other progressive considering a ceasefire vote.
+
+The class function of this spending is enforcement, not persuasion. AIPAC did not need to convince MO-1 voters that Bush was wrong on Israel. They needed to demonstrate to every sitting member of Congress that a ceasefire position triggers eight-figure opposition. The $9.96 million spent against Cori Bush bought something far more valuable than one House seat: it bought the silence of dozens of other progressives who watched what happened and adjusted their positions accordingly. Justice Democrats PAC countered with $2.76 million in support, but the 5-to-1 spending gap between AIPAC and Bush's allied outside groups made the outcome structurally inevitable.
+
+Bush's fundraising arc tells the story of a grassroots insurgency that the donor class tolerated until it crossed a red line. From $177K in 2018 to $4.17M in 2024, Bush built exactly the kind of small-dollar, individual-contribution model that progressive theory says should insulate a politician from corporate pressure. It did not. The fundraising model was irrelevant once AIPAC decided to spend. Her 2026 comeback bid, running with zero PAC contributions, is a deliberate repositioning. But the structural lesson of 2024 remains: the donor class can overwhelm any grassroots fundraising model in a House primary. The ceiling on progressive electoral power is not money raised. It is money deployed against you.
+
+The DOJ indictment over $102,500 in security payments to Bush's husband compounds the structural picture. Whether the indictment reflects genuine misconduct or politically motivated prosecution, its sequencing is the analytical point: ceasefire resolution, AIPAC targeting, primary loss, federal investigation, indictment. Multiple pressure vectors converging simultaneously on a progressive who broke with donor class consensus. The donor class does not rely on a single mechanism. It layers financial, electoral, and legal pressure until the target is neutralized.
+
 ## Rhetorical Signature Moves
 
 1. **The Lived Experience Frame.** Bush leads with personal testimony. Ferguson protester who was tear-gassed. Nurse who treated the uninsured. Eviction survivor who slept in her car with her children. Every policy position is anchored to a biographical moment. This makes her positions feel grounded in community rather than ideology, and makes attacks on her positions feel like attacks on her lived experience.

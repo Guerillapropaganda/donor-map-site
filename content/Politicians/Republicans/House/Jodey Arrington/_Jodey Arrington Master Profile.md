@@ -1,9 +1,9 @@
 ---
 title: "Jodey Arrington"
 type: politician
-content-readiness: draft
+content-readiness: ready
 central-thesis: "Jodey Arrington's structural function is to translate corporate tax and energy priorities into the federal budget. As Budget Committee chair, he controls the reconciliation process — the procedural vehicle that bypasses the Senate filibuster and s..."
-last-updated: 2026-04-10
+last-updated: 2026-04-12
 source-tier: 1
 parent: null
 party: "Republican"

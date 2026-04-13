@@ -188,6 +188,14 @@ This is not corruption in a legal sense. It's structural: the campaign finance r
 
 ---
 
+## Class Analysis
+
+Jon Ossoff is the proof of concept for how the donor class manufactures "outsider" politicians. His documentary filmmaker career was real. His investigative journalism credentials were genuine. But the electoral deployment of those credentials reveals the mechanism: authentic pre-political identity, converted into brand differentiation, funded by elite networks that the "outsider" brand obscures. Ossoff raised $30.2 million for a House seat in 2017, with 91% coming from outside Georgia. He lost. He raised $106.8 million for a Senate seat in 2020. He won. The donor class does not abandon investments that fail on the first attempt. It quadruples the budget and tries again.
+
+The geographic distribution of Ossoff's money exposes the structural reality. California alone contributed $14.7 million to his 2020 campaign. Tech sector employees from Google, Amazon, Facebook, and Twitter accounted for $1.3 million. Hollywood donors included Leonardo DiCaprio, Jennifer Aniston, Tom Hanks, and Pedro Pascal. This is not a Georgia politician funded by Georgia. This is a national Democratic donor operation that selected Georgia as a winnable Senate seat and deployed a candidate with the right brand attributes to capture it. Ossoff's function is to hold a Senate seat for the donor class's preferred coalition: tech, entertainment, and finance. His investigative journalist brand provides the authenticity cover that makes this arrangement invisible to voters who think they are electing a truth-teller.
+
+The sectors that fund Jon Ossoff, tech and entertainment and finance, have specific policy needs: no wealth tax, limited tech regulation, no aggressive antitrust enforcement, no meaningful labor organizing pressure. Ossoff's Senate record delivers. He votes with Democratic leadership, accepts corporate donor dominance, and has conducted zero investigations of the sectors that fund him. The investigative journalist who documented corruption in East Africa and ISIS war crimes has nothing to say about the concentration of power in Silicon Valley or the financial extraction mechanisms of Wall Street. The documentary filmmaker brand was the price of entry. The donor class bought a seat. The brand was the packaging.
+
 ## Rhetorical Signature Moves
 
 1. **The "outsider" brand despite elite backing:** Ossoff positions himself as anti-establishment despite $106M in establishment donor backing. The documentary filmmaker career provides authenticity cover.

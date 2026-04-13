@@ -1,9 +1,9 @@
 ---
 title: "Rand Paul Master Profile"
 type: politician
-content-readiness: draft
+content-readiness: ready
 central-thesis: "Rand Paul sells libertarianism as principle but delivers it as policy that benefits the donor class — specifically: deregulation for finance and tech, tax cuts for the wealthy, and obstruction of social spending that the working class depends on. ..."
-last-updated: 2026-04-10
+last-updated: 2026-04-12
 source-tier: 1
 parent: null
 party: "Republican"
@@ -112,7 +112,7 @@ The self-certification board is the class analysis at personal scale. When a pro
 
 **The Villain Framing** — Paul frames federal spending and social programs as "government overreach" and "lack of liberty" rather than engaging with class analysis of who benefits from federal spending reduction. He blames government bureaucrats for healthcare problems rather than examining how Medicaid cuts would devastate rural Kentucky hospitals. He positions federal transfer payments as violations of freedom rather than as the mechanism that keeps his economically dependent state solvent. This reframing allows him to advocate policies that harm his constituents while claiming principled libertarian consistency.
 
-**The Genuine Win + Structural Limit** — Paul has secured genuine policy victories on criminal justice reform (First Step Act support, sentencing reform advocacy) and restraint rhetoric on foreign intervention (Ukraine aid obstruction). These victories demonstrate real legislative capacity on issues that align with both his libertarian base and his crypto/isolationist donors. However, the victories are narrowly constructed: criminal justice reform doesn't challenge wealth-based bail systems or private detention profiting structures; foreign policy restraint doesn't challenge military aid to Israel or defense contractor spending. The wins serve specific donor interests while avoiding broader structural challenges to the wealth and power architecture he claims to oppose.
+**The Genuine Win + Structural Limit** — Paul has secured genuine policy victories on justice system reform (First Step Act support, sentencing reform advocacy) and restraint rhetoric on foreign intervention (Ukraine aid obstruction). These victories demonstrate real legislative capacity on issues that align with both his libertarian base and his crypto/isolationist donors. However, the victories are narrowly constructed: justice system reform doesn't challenge wealth-based bail systems or private detention profiting structures; foreign policy restraint doesn't challenge military aid to Israel or defense contractor spending. The wins serve specific donor interests while avoiding broader structural challenges to the wealth and power architecture he claims to oppose.
 
 ---
 
