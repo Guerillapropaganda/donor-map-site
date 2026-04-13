@@ -7,36 +7,36 @@ type: reference
 
 | Category | Count |
 |----------|-------|
-| **Total Profiles** (politicians + donors) | 645 |
-| Politicians | 252 |
-| Donors / Corporations | 393 |
+| **Total Profiles** (politicians + donors) | 1129 |
+| Politicians | 729 |
+| Donors / Corporations | 400 |
 | Stories | 105 |
-| Events | 258 |
-| All .md files scanned | 1871 |
+| Events | 274 |
+| All .md files scanned | 2375 |
 
 ## Readiness Breakdown
 
 | Level | Count |
 |-------|-------|
-| Raw (D-F) | 39 |
-| Draft (C) | 904 |
-| Ready (B) | 563 |
+| Raw (D-F) | 470 |
+| Draft (C) | 593 |
+| Ready (B) | 927 |
 | Verified (A+) | 0 |
-| Unknown / Not Set | 365 |
+| Unknown / Not Set | 385 |
 
 ## Verification Status
 
 | Tag | Files |
 |-----|-------|
-| Files with (UNVERIFIED) | 58 |
+| Files with (UNVERIFIED) | 57 |
 | Files with (URL NEEDED) | 29 |
 
 ## Coverage
 
 | Metric | Count |
 |--------|-------|
-| Politicians with top-donors populated | 157 |
-| Politicians missing top-donors | 95 |
+| Politicians with top-donors populated | 158 |
+| Politicians missing top-donors | 571 |
 | Donors with politicians-funded populated | 222 |
 
 ## Recent Activity
@@ -45,16 +45,16 @@ Last 10 profiles updated (by `last-updated` frontmatter):
 
 | Profile | Type | Last Updated |
 |---------|------|--------------|
-| Relationship Bidirectional Report | admin-note | '2026-04-12' |
-| Sprint Schedule | admin-note | '2026-04-12' |
-| Agribusiness Donor Bloc | donor | 2026-04-12 |
-| Agricultural Labor Vulnerability Donors | donor | 2026-04-12 |
-| California Farm Bureau Federation | donor | 2026-04-12 |
-| Cargill | corporation | 2026-04-12 |
-| John Deere | corporation | 2026-04-12 |
-| National Cattlemen's Beef Association | donor | 2026-04-12 |
-| Tyson Foods | corporation | 2026-04-12 |
-| Western Growers Association | donor | 2026-04-12 |
+| ADM - Archer Daniels Midland | corporation | 2026-04-13 |
+| Agribusiness Donor Bloc | donor | 2026-04-13 |
+| Agricultural Labor Vulnerability Donors | donor | 2026-04-13 |
+| American Farm Bureau Federation | donor | 2026-04-13 |
+| CA Farm Bureau Federation | donor | 2026-04-13 |
+| California Farm Bureau Federation | donor | 2026-04-13 |
+| Cargill | corporation | 2026-04-13 |
+| Fanjul Family - Florida Crystals | donor | 2026-04-13 |
+| John Deere | corporation | 2026-04-13 |
+| National Cattlemen's Beef Association | donor | 2026-04-13 |
 
 ## Stale Profiles
 
@@ -62,4 +62,4 @@ Profiles where `last-updated` is 90+ days ago: **0**
 
 ---
 
-*Generated: 2026-04-12 08:08:52 UTC*
+*Generated: 2026-04-13 10:58:33 UTC*
