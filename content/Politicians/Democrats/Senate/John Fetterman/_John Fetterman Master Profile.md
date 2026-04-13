@@ -1,9 +1,9 @@
 ---
 title: John Fetterman Master Profile
 type: politician
-content-readiness: draft
+content-readiness: ready
 central-thesis: "John Fetterman's post-election transformation raises a fundamental question about authenticity in working-class populism: was the 2022 small-dollar, hoodie-wearing, anti-establishment brand genuine or electoral packaging designed to win a swing st..."
-last-updated: '2026-04-09'
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 party: Democrat

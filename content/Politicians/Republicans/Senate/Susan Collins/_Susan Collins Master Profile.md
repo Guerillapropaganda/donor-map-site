@@ -2,9 +2,9 @@
 title: "Susan Collins Master Profile"
 type: politician
 bioguide-id: "C001035"
-content-readiness: draft
+content-readiness: ready
 central-thesis: "Susan Collins has perfected the most profitable brand in the Senate: the reluctant moderate. Her 'careful deliberation' on every major vote generates maximum fundraising pressure from both sides — and she reliably delivers for the donor class ever..."
-last-updated: 2026-04-08
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 party: "Republican"

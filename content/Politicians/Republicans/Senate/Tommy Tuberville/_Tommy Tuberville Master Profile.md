@@ -1,9 +1,9 @@
 ---
 title: "Tommy Tuberville Master Profile"
 type: politician
-content-readiness: draft
+content-readiness: ready
 central-thesis: "Tommy Tuberville demonstrates that the donor class doesn't need competent politicians — it needs compliant ones. His ignorance of basic governance (named the three branches of government as 'the House, the Senate, and the executive'; described D-D..."
-last-updated: 2026-04-10
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 party: "Republican"

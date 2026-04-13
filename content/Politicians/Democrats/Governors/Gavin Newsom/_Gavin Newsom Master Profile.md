@@ -1,9 +1,9 @@
 ---
 title: Gavin Newsom Master Profile
 type: politician
-content-readiness: draft
+content-readiness: ready
 central-thesis: "Newsom is the perfect specimen of the donor-class Democrat: genuinely progressive on social and cultural issues (immigration, LGBTQ rights, abortion, gun control), reliably capital-aligned on economic structure (taxes on wealth, corporate subsidie..."
-last-updated: '2026-04-08'
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 party: Democrat
