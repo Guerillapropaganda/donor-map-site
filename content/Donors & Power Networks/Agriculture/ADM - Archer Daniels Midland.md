@@ -47,7 +47,7 @@ sec-form-types:
   - "N-PX"
   - "N-PX/A"
   - "SCHEDULE 13G/A"
-internal-notes: "[CODE @ 2026-04-13] Pipeline: usaspending FAILED for ADM - Archer Daniels Midland. Run: https://github.com/Guerillapropaganda/donor-map-engine/actions/runs/24359636746"
+internal-notes: "[CODE @ 2026-04-13] Pipeline: epa-echo FAILED for ADM - Archer Daniels Midland. Run: https://github.com/Guerillapropaganda/donor-map-engine/actions/runs/24359636746"
 ---
 #adm #agriculture #commodities #ethanol #grain #biofuel #illinois
 
