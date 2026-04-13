@@ -1,8 +1,8 @@
 ---
 title: "Reid Hoffman"
 type: donor
-content-readiness: draft
-last-updated: 2026-04-10
+content-readiness: ready
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 sector: "Mega-Donors"
@@ -152,6 +152,18 @@ The Texas race was also notable for its progressive vs. establishment dynamics: 
 - [Texas Tribune: Dark money floods Texas Senate primary races](https://www.texastribune.org/2026/02/20/texas-senate-dark-money-superpacs-talarico-hunt-crockett-paxton-cornyn/) (Tier 2)
 - [19th News: Crockett loses, Talarico wins Texas Senate primary](https://19thnews.org/2026/03/texas-us-senate-primary-election-results-2026/) (Tier 2)
 - [Legis1: Follow the Money — Talarico vs Crockett](https://legis1.com/news/follow-the-money-whos-fueling-the-talarico-vs-crockett-texas-senate-democratic-primary/) (Tier 2)
+
+---
+
+## Class Analysis
+
+Reid Hoffman represents the Democratic donor class at its most structurally honest and its most contradictory. His $15.4 million to the Wisconsin Democratic Party (2019-2025) is the largest identified mega-donor contribution to a single state party apparatus in the vault. Add $8.2 million to Minnesota DFL, $6.1 million to Arizona Democrats, $5.7 million to Pennsylvania Democrats, and the pattern is clear: Hoffman is not buying individual politicians. He is purchasing Democratic Party infrastructure in swing states. The $100 million pledge to defeat Trump (actual spending approximately $60-70 million) was not a transaction with a candidate. It was a structural investment in the institutional capacity of one political party.
+
+The wealth source matters. Hoffman co-founded LinkedIn, which Microsoft acquired for $26.2 billion in 2016. His approximately $2.5 billion net worth derives from a professional networking platform whose business model monetizes the labor market itself. LinkedIn profits from the gap between workers seeking employment and employers seeking labor. Hoffman's venture capital portfolio through Greylock Partners ($50 billion-plus in portfolio companies including Airbnb, Stripe, and others) extends this into the broader platform economy. The Democratic Party infrastructure he funds with tech wealth serves to stabilize the political system that permits the platform economy to operate without significant regulation. The democracy defense framing is genuine. The class interest it also serves is real.
+
+The Epstein crisis exposed the structural protection the Democratic donor class receives. Hoffman visited Jeffrey Epstein's private island in November 2014, years after Epstein's 2008 conviction. His name appears 2,658 times in the released DOJ documents. Bloomberg reported on how Epstein used Hoffman to court Silicon Valley's elite. When Republicans demanded Democratic politicians return Hoffman's donations, party officials largely defended him, stating his past behavior does not invalidate current political support. The double standard is structural: a $15 million donor to state party infrastructure cannot be expelled from the coalition without collapsing the infrastructure itself. The donor class is protected by the party's dependence on donor-class money. Hoffman's Epstein association would end a politician's career. For a mega-donor, it produces awkward press cycles and continued fundraising access.
+
+The 2026 Texas Senate primary completed the picture. Hoffman donated $500,000 to Lone Star Rising PAC supporting James Talarico, which sat alongside $3.75 million in anonymous Sixteen Thirty Fund money routed through Government that Works PAC. The defender of democracy funds identifiable contributions that provide legitimacy while anonymous dark money provides scale. Hoffman's name on a filing makes the spending look transparent. The Sixteen Thirty Fund money behind it is not. This is the Democratic donor-class playbook: named institutional donors for credibility, anonymous dark money for volume.
 
 ---
 

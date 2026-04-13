@@ -1,9 +1,9 @@
 ---
 title: "Amy Acton Master Profile"
 type: politician
-content-readiness: draft
+content-readiness: ready
 central-thesis: "Amy Acton represents a structurally different Democratic funding model: a genuinely grassroots-financed campaign ($5.3 million raised, 96% of contributions under content-readiness: draft00, $28 average donation, 52,000 individual donors) backed by institutional labor u..."
-last-updated: 2026-04-07
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -137,6 +137,18 @@ The broadest labor coalition in Ohio Democratic governor's race history: 1.2 mil
 | December 2025 | T. Roosevelt Action | Ramaswamy 45%, Acton 43% | Confirms statistical tie |
 | February 2026 | EMC Research | Acton 53%, Ramaswamy 43% | Acton leads by 10; Democratic consolidation + independent persuasion |
 | February 2026 | Internals | Acton 82% Dem support; 51% independents | Party unity + independent persuasion through COVID credibility |
+
+---
+
+## Class Analysis
+
+Amy Acton is the vault's cleanest test case for whether funding source determines governance outcome. She raised $5.3 million with 96% of contributions under $100, an average donation of $28, and 52,000 individual donors across all 88 Ohio counties. Seventy percent of her money came from Ohio residents. Zero documented donors from insurance or pharmaceutical industries. No corporate PAC money. No Wall Street bundlers. Her largest single donor is the Ohio Democratic Party at $125,000. Compare this to her opponent Vivek Ramaswamy, who raised $19.8 million with an $18.6 million super PAC dominated by two out-of-state billionaires (Jeff Yass at $10 million from Pennsylvania, Ross Stevens at $5 million from New York, comprising 83% of the super PAC). The class geography is stark: Acton's money comes from Ohio working families. Ramaswamy's comes from a TikTok investor and a Bitcoin fund manager.
+
+The labor coalition amplifies the class distinction. Ohio AFL-CIO, UAW, AFGE, Ohio Federation of Teachers, steelworkers, AFSCME, United Mine Workers, CWA: 1.2 million workers with an estimated $1.7 million in-kind field operations support. AFGE endorsed specifically because Ramaswamy co-led DOGE proposing 75% federal workforce cuts threatening 10,000-plus Ohio federal employees at the VA, SSA, EPA, and IRS. This is not abstract solidarity. These workers are protecting their own jobs. The union infrastructure delivers phone banking, canvassing, voter targeting, and GOTV coordination that money alone cannot replicate.
+
+Acton's biography is not brand performance. She grew up in poverty in Youngstown, experienced abuse, hunger, and homelessness, the daughter of steel mill workers in Rust Belt devastation. She put herself through college and medical school working as a waitress and newspaper deliverer. This is structurally different from Democrats who perform working-class authenticity for brand purposes. But the structural constraint is governance, not campaigning. Ohio's legislature is Republican-controlled. Healthcare interests hold significant political power. The $125,000 from Ohio Democratic Party and the EMILY's List endorsement (which brings establishment fundraising infrastructure) create institutional obligations. Union leadership that delivers $1.7 million in field support expects governance returns beyond messaging.
+
+The central class question is whether small-dollar funding survives contact with the Ohio statehouse. The Sanders comparison is instructive: Sanders maintained his small-dollar model through two presidential campaigns but governed Vermont through compromise. If Acton wins, she becomes the first female governor of Ohio with the most grassroots-funded campaign in the state's history, governing a legislature controlled by the interests her donors oppose. The funding model tests the thesis. The statehouse will test the model.
 
 ---
 

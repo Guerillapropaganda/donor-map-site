@@ -1,9 +1,9 @@
 ---
 title: "John Hoeven"
 type: politician
-content-readiness: draft
+content-readiness: ready
 central-thesis: "Hoeven's donor-class function is to serve as the intersection point where North Dakota's extraction economy meets federal appropriations power. A banker-turned-governor-turned-senator who personally invests in Bakken oil wells while writing federa..."
-last-updated: 2026-04-11
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 party: "Republican"
@@ -122,6 +122,18 @@ Hoeven's donor-class function is to serve as the intersection point where North 
 - Former president of Bank of North Dakota (only state-owned bank in the U.S.)
 - Personal wealth of $22-97M derived primarily from banking (Westbrand Inc.)
 - Banking background provides understanding of credit markets critical to oil and agriculture industries
+
+---
+
+## Class Analysis
+
+John Hoeven is not a senator who serves the extraction class. He is the extraction class. With personal investments in 68 oil-producing wells through Mainstream Investors LLC and 33 more Bakken wells through Whiting Petroleum, Hoeven writes federal energy policy that directly increases the value of his own portfolio. The banker-turned-governor-turned-senator holds up to $55 million in Westbrand Inc., a private bank holding company, while sitting on the Appropriations Committee that controls federal dollars flowing to North Dakota's two dominant industries: oil and agriculture.
+
+The Standing Rock conflict exposes the class structure with perfect clarity. Hoeven sat on the Indian Affairs Committee while championing the Dakota Access Pipeline over the Standing Rock Sioux Tribe's sovereign objections. Fourteen of his Whiting Petroleum wells are named "Wahpeton," after the Sisseton Wahpeton Oyate Tribe, and sit within 18 miles of the Dakota Access terminal. The senator chose extraction profits over tribal sovereignty because the extraction profits were literally his own.
+
+Hoeven's fundraising confirms the alignment. PAC contributions account for 43.56% of his 2019-2024 cycle, with oil and gas, agriculture, and banking dominating the contributor list. Only 3.63% came from small donors. His Appropriations Committee perch, specifically the Agriculture subcommittee chair, gives him control over federal spending in the exact sectors where his personal wealth is concentrated. The constituency elects him. The donor class funds him. He is the donor class.
+
+The "energy independence" framing is the rhetorical mechanism that makes all of this invisible. Every pipeline and drilling expansion becomes a national security imperative. The question of who profits never gets asked because the answer is sitting in the Senate chamber voting on his own financial interests.
 
 ---
 

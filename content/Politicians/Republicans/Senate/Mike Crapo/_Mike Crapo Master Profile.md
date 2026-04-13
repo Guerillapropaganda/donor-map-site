@@ -1,9 +1,9 @@
 ---
 title: "Mike Crapo"
 type: politician
-content-readiness: draft
+content-readiness: ready
 central-thesis: "Crapo is Wall Street's tax chairman. His Finance Committee gavel gives him authorship over the entire federal tax code, and the financial services industry that benefits most from that code is his dominant donor class. Over 50% of his campaign fun..."
-last-updated: 2026-04-10
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 party: "Republican"
@@ -111,6 +111,16 @@ Crapo is Wall Street's tax chairman. His Finance Committee gavel gives him autho
 **Genuine Win + Structural Limit:** Crapo has delivered genuine Idaho wins — nuclear energy legislation (NEICA, NEIMA, ADVANCE Act), farm bill commodity provisions, telehealth expansion for rural communities. These are real. But they exist within a legislative portfolio whose primary beneficiaries are not Idaho farmers but financial services firms, private equity, and high-net-worth investors.
 
 **Koch Network Integration:** The AFP relationship is the vault's clearest example of coordinated donor-to-legislator action at scale. AFP spent $20 million supporting the bill Crapo authored. Crapo publicly credited AFP as his primary ally. This isn't influence — it's partnership. The Koch network and the Finance Committee Chair operated as a joint enterprise to deliver permanent tax cuts worth hundreds of billions to the wealthy.
+
+---
+
+## Class Analysis
+
+Mike Crapo is Wall Street's tax chairman. The Senate Finance Committee controls approximately 50% of the federal budget, with jurisdiction over every line of the federal tax code, Social Security, Medicare, and international trade. Over 50% of Crapo's campaign funding comes from PACs, and 84% of his individual donations come from outside Idaho, primarily from the financial services sector. The Stephens Inc. pipeline is the cleanest illustration: 19 top executives of a single Arkansas investment bank donated to his campaign because, as their spokesman said plainly, Crapo sits on the committees that write their tax code and regulate their industry.
+
+The One Big Beautiful Bill is the return on investment. Crapo shepherded the legislation through his committee in 2025, making the Tax Cuts and Jobs Act permanent and delivering what he called "$600 billion in additional tax relief to everyday Americans." Americans for Prosperity spent $20 million supporting the bill. At a private AFP breakfast afterward, Crapo credited the Koch network as "the biggest ally we had in getting the One Big Beautiful Bill across the finish line." The Koch network bought the bill. Crapo delivered it. Idaho's median household income is $63,000. The structural beneficiaries of TCJA permanence are not Idaho potato farmers. They are the Manhattan hedge fund managers, private equity partners, and investment bankers who write checks to Crapo's campaign.
+
+Crapo's top contributors tell the story in raw numbers: JPMorgan Chase, Carlyle Group, Blackstone Group, American Bankers Association. Securities firms, insurance companies, commercial banks, and private equity dominate every cycle. His nuclear energy advocacy for Idaho National Laboratory is the genuine constituent win that anchors his credibility. Everything else serves the financial class that funds him. The Finance Committee chair writes the tax code for the people who pay for his campaigns. The system is working exactly as designed.
 
 ---
 

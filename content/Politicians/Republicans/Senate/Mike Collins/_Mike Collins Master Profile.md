@@ -1,9 +1,9 @@
 ---
 title: "Mike Collins Master Profile"
 type: politician
-content-readiness: draft
+content-readiness: ready
 central-thesis: "Mike Collins is a cargo-cult populist being bankrolled by two mega-donor blocs (crypto and pro-Israel) who have nothing to do with his trucking company base or Trump movement roots. He is running as an 'America First trucker,' but his campaign is ..."
-last-updated: 2026-04-07
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 party: "Republican"
@@ -114,6 +114,16 @@ Mike Collins is a cargo-cult populist being bankrolled by two mega-donor blocs (
 > **Fairshake $8.6M spending in 2024 → Collins 2026 support:** Fairshake deployed $8.6M in Illinois 2024 primary as disciplinary spending against candidates perceived as crypto-hostile. In 2026, Fairshake is positioned to deploy similar sums in Georgia. The fact that they're backing Collins (who is self-described crypto trader) rather than primary-challenging him suggests: (a) Collins is pre-approved by the industry, and (b) Ossoff has been flagged for removal despite not being crypto-hostile (he simply doesn't prioritize crypto deregulation). This is macro-industry strategy: remove moderates and replace with ideological allies.
 >
 > **AIPAC $21M Illinois 2024 → Georgia 2026 strategy:** AIPAC deployed $21M in Illinois 2024 primary alongside crypto and AI money as part of three-industry alliance. In Georgia 2026, same pattern: AIPAC $20K+ to Collins, coordinated with Fairshake support. The target (Ossoff) is not AIPAC-hostile — he took AIPAC money in his 2020 Senate race. The targeting is *defensive*: Ossoff voted for [[_Bernie Sanders Master Profile|Bernie Sanders]] resolution conditioning military aid to Israel. AIPAC is using Georgia race to signal cost of voting against Israel aid conditions.
+
+---
+
+## Class Analysis
+
+Mike Collins is a trucking company owner running as a populist while being bankrolled by two donor blocs that have zero interest in trucking. The Winklevoss twins ($14,000 combined), Elon Musk ($6,600), and Fairshake PAC ($193 million war chest) represent Silicon Valley crypto capital. AIPAC and its affiliated donors ($20,000+) represent the pro-Israel lobby's electoral enforcement arm. Neither bloc cares about Georgia's working-class voters. Both expect policy service: crypto deregulation and unconditional Israel support.
+
+Collins' personal crypto portfolio is the tell. Up to $745,000 in cryptocurrency trades since entering Congress makes him investor-aligned with his donors before they ever wrote a check. This reverses the standard corruption sequence. Typically, money comes first and position follows. Collins was already financially embedded in the crypto industry when Fairshake and the Winklevoss twins started funding his Senate campaign. His decision to accept cryptocurrency donations in Bitcoin, Ethereum, Litecoin, Dogecoin, Solana, and USDT is not a fundraising tactic. It is a loyalty signal to the industry that his personal wealth depends on their regulatory environment.
+
+The class function is clear: Collins provides a Trump-aligned, working-class face for two out-of-state mega-donor blocs to channel money into Georgia's Senate race. The target is Jon Ossoff, who voted for the Bernie Sanders resolution conditioning military aid to Israel. AIPAC is using Collins to punish Ossoff. Fairshake is using Collins to install a crypto-friendly senator. Collins' trucking company background gives both blocs plausible populist cover. The "America First trucker" is a vehicle for billionaire crypto traders and the pro-Israel lobby to buy a Georgia Senate seat.
 
 ---
 
