@@ -215,13 +215,16 @@ function MetaItem({ label, value }: { label: string; value: string }) {
   )
 }
 
-function ConnectionRow({ label, value, color }: { label: string; value: string; color: string }) {
+function ConnectionRow({ label, value, color }: { label: string; value: string | string[] | undefined; color: string }) {
+  // Normalize value to string
+  const str = Array.isArray(value) ? value.join(" · ") : String(value || "")
+  if (!str) return null
   // Parse wikilinks: [[Name|Alias]] or [[Name]]
-  const links = value.match(/\[\[([^\]]+)\]\]/g)?.map((l) => {
+  const links = str.match(/\[\[([^\]]+)\]\]/g)?.map((l) => {
     const inner = l.replace("[[", "").replace("]]", "")
     const parts = inner.split("|")
     return parts[parts.length - 1] // Use alias if available
-  }) || [value]
+  }) || [str]
 
   return (
     <div className="flex items-start gap-2 mb-1.5">
