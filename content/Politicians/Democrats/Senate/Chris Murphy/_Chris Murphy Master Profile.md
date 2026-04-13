@@ -250,7 +250,7 @@ However, the foreign policy portfolio receives far less attention than gun contr
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-09.*
 <!-- auto:influence-cross-ref end -->
 
-<!-- auto:influence-cross-ref pending-merge 2026-04-12 -->
+<!-- auto:influence-cross-ref pending-merge 2026-04-13 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 
@@ -270,7 +270,7 @@ However, the foreign policy portfolio receives far less attention than gun contr
 - [[Everytown for Gun Safety]] — $5.2M lobbying spend (Budget/Appropriations, Firearms/Guns/Ammunition, Health Issues)
 - [[Silicon Valley Democratic Donor Network]] — $1.3M lobbying spend (Banking, Budget/Appropriations, Chemicals/Chemical Industry)
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-12.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-13.*
 
 <!-- auto:influence-cross-ref pending-merge end -->
 

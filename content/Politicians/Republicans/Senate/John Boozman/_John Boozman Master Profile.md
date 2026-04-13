@@ -4,7 +4,7 @@ type: politician
 bioguide-id: "B001236"
 content-readiness: draft
 central-thesis: "John Boozman chairs the Senate Agriculture Committee while representing the state that houses Tyson Foods' headquarters. Tyson employees have donated over content-readiness: draft20,000 to his campaigns — his third-largest career donor source. His committee staff has m..."
-last-updated: 2026-04-12
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 party: "Republican"

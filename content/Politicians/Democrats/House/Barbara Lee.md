@@ -5,12 +5,12 @@ chamber: "House"
 party: "Democrat"
 content-readiness: draft
 central-thesis: "Barbara Lee's 2001 AUMF vote is the most celebrated anti-war vote in modern U.S. history. She voted alone against indefinite military authorization. Yet in 2024, when Lee ran for the Senate from California, she was systematically outspent and elim..."
-last-updated: 2026-04-12
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 total-received: "$375,046"
 fec-candidate-id: "H8CA09060"
-last-enriched: "2026-04-12"
+last-enriched: "2026-04-13"
 needs-reenrichment: true
 reenrich-reason: "run congress pipeline"
 donors: "[[Tim Dunn]] · [[California Nurses Association]] · [[AFSCME - American Federation of State County and Municipal Employees]] · [[Rebekah Mercer]]"

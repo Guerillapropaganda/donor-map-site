@@ -2,7 +2,7 @@
 title: "CoreCivic"
 type: corporation
 content-readiness: draft
-last-updated: 2026-04-12
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 sector: "Carceral State"
@@ -256,7 +256,7 @@ SCOTUS — Al Otro Lado asylum arrival doctrine
 - [Source: ProPublica Nonprofit Explorer — EIN 823851866](https://projects.propublica.org/nonprofits/organizations/823851866) (Tier 1) (VERIFIED)
 <!-- auto:propublica-990 end -->
 
-<!-- auto:propublica-990 pending-merge 2026-04-12 -->
+<!-- auto:propublica-990 pending-merge 2026-04-13 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 
@@ -309,7 +309,7 @@ SCOTUS — Al Otro Lado asylum arrival doctrine
 - [[Donald Trump]] — contracts: $608
 - [[Chad Bianco]] — contracts: $608
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-12.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-13.*
 <!-- auto:influence-cross-ref end -->
 
 ### Federal Subawards & Spending Breakdown

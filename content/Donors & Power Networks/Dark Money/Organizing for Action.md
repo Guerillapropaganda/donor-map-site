@@ -2,7 +2,7 @@
 title: "Organizing for Action"
 type: donor
 content-readiness: draft
-last-updated: 2026-04-12
+last-updated: 2026-04-13
 source-tier: 2
 parent: null
 sector: "Dark Money"

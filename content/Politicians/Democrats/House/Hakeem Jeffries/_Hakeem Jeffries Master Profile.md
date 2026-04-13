@@ -3,7 +3,7 @@ title: "Hakeem Jeffries Master Profile"
 type: politician
 content-readiness: draft
 central-thesis: "Jeffries is the Democratic establishment's chosen successor to Pelosi — a corporate-friendly leader who performs progressivism while maintaining the party's Wall Street and real estate donor relationships. His Brooklyn base is gentrifying; his don..."
-last-updated: 2026-04-12
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -66,7 +66,7 @@ reenrich-reason: "re-run congress pipeline"
 internal-notes: "[JANITOR 2026-04-10] Demoted ready→draft by pipeline-janitor.cjs because:
   • BIOGUIDE data was stripped from this profile but the frontmatter still says it was enriched. The pipeline thinks it's already done and won't refresh it. Needs a re-run.
 The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
-last-enriched: "2026-04-12"
+last-enriched: "2026-04-13"
 total-raised: "$10,327,241"
 total-spent: "$9,417,063"
 cash-on-hand: "5864742.02"
@@ -410,7 +410,7 @@ _No committee data found._
 - [Congress.gov: Hakeem Jeffries](https://www.congress.gov/member/c001091) (Tier 1)
 <!-- auto:voting-record end -->
 
-<!-- auto:voting-record pending-merge 2026-04-12 -->
+<!-- auto:voting-record pending-merge 2026-04-13 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 

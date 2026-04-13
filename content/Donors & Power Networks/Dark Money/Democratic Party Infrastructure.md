@@ -2,7 +2,7 @@
 title: "Democratic Party Infrastructure"
 type: donor
 content-readiness: draft
-last-updated: 2026-04-12
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 sector: "Dark Money"
@@ -10,7 +10,7 @@ entity-type: "Individual Donor"
 issues:
   - "Infrastructure"
 ofac-sdn-match: "true"
-last-enriched: "2026-04-12"
+last-enriched: "2026-04-13"
 needs-reenrichment: true
 reenrich-reason: "run fec pipeline"
 ofac-programs:

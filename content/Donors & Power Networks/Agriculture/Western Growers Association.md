@@ -2,7 +2,7 @@
 title: "Western Growers Association"
 type: donor
 content-readiness: draft
-last-updated: 2026-04-12
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 sector: "Agriculture"
@@ -36,7 +36,7 @@ net-assets: "$849K"
 tax-year: "2023"
 total-political-spend: "$481,034"
 court-cases: 44
-last-enriched: "2026-04-12"
+last-enriched: "2026-04-13"
 needs-reenrichment: true
 reenrich-reason: "run fec pipeline"
 court-jurisdictions:

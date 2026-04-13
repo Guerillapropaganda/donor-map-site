@@ -2,7 +2,7 @@
 title: "John Deere"
 type: corporation
 content-readiness: draft
-last-updated: 2026-04-12
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 sector: "Agriculture"
@@ -185,7 +185,7 @@ The political math is straightforward. John Deere's PAC contributes $1-2 million
 - [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F366051024_202310_990PF_2024110422794422.pdf) (Tier 1) (VERIFIED)
 <!-- auto:propublica-990 end -->
 
-<!-- auto:propublica-990 pending-merge 2026-04-12 -->
+<!-- auto:propublica-990 pending-merge 2026-04-13 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 

@@ -220,7 +220,7 @@ The analytical interest isn't donor capture — it's structural powerlessness. T
 - [GovTrack: Jim McGovern](https://www.govtrack.us/congress/members/400263) (Tier 1)
 <!-- auto:voting-record end -->
 
-<!-- auto:voting-record pending-merge 2026-04-12 -->
+<!-- auto:voting-record pending-merge 2026-04-13 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 

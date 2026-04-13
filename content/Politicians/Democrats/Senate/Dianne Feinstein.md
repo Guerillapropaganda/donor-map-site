@@ -2,7 +2,7 @@
 title: "Dianne Feinstein"
 type: politician
 content-readiness: draft
-last-updated: 2026-04-12
+last-updated: 2026-04-13
 source-tier: 1
 party: "Democrat"
 chamber: "Senate"
@@ -201,7 +201,7 @@ The final-years cognitive decline exposes the class infrastructure beneath the i
 - ~~[Source: Senate Stock Watcher](https://senatestockwatcher.com/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:stock-trades end -->
 
-<!-- auto:stock-trades pending-merge 2026-04-12 -->
+<!-- auto:stock-trades pending-merge 2026-04-13 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 
@@ -301,7 +301,7 @@ The final-years cognitive decline exposes the class infrastructure beneath the i
 - [GovTrack: Dianne Feinstein](https://www.govtrack.us/congress/members/300043) (Tier 1)
 <!-- auto:voting-record end -->
 
-<!-- auto:voting-record pending-merge 2026-04-12 -->
+<!-- auto:voting-record pending-merge 2026-04-13 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 

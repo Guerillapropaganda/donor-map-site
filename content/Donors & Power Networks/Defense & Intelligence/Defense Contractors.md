@@ -2,7 +2,7 @@
 title: "Defense Contractors"
 type: donor
 content-readiness: draft
-last-updated: 2026-04-12
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 sector: "Defense & Intelligence"

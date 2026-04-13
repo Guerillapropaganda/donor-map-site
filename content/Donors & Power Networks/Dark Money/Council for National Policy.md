@@ -2,7 +2,7 @@
 title: "Council for National Policy"
 type: donor
 content-readiness: draft
-last-updated: 2026-04-12
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 sector: "Dark Money"
@@ -14,7 +14,7 @@ annual-revenue: "$3.8M"
 net-assets: "$3.5M"
 tax-year: "2023"
 court-cases: 21
-last-enriched: "2026-04-12"
+last-enriched: "2026-04-13"
 needs-reenrichment: true
 reenrich-reason: "run fec pipeline"
 court-jurisdictions:

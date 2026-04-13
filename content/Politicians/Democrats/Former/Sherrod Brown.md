@@ -3,7 +3,7 @@ title: "Sherrod Brown"
 type: politician
 content-readiness: draft
 central-thesis: "Brown represents the structural ceiling of labor-backed politics in post-2020 America. Despite being the Senate's most pro-labor voting record, highest AFL-CIO rating, strongest defense of trade protections for manufacturing workers, and deepest r..."
-last-updated: 2026-04-12
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 fec-candidate-id: "S6OH00163"
@@ -52,7 +52,7 @@ total-raised: "$14,356,451"
 total-spent: "$4,456,809"
 cash-on-hand: "9899641.92"
 fec-cycle: 2026
-last-enriched: "2026-04-12"
+last-enriched: "2026-04-13"
 bioguide-id: "B001313"
 issues:
   - "Agriculture and Food"
@@ -177,7 +177,7 @@ Brown's response was muted. He had no equivalent funding mechanism. Labor unions
 - [Source: FEC.gov](https://www.fec.gov/data/candidate/H2OH13033/) (Tier 1)
 <!-- auto:fec-politician end -->
 
-<!-- auto:fec-politician pending-merge 2026-04-12 -->
+<!-- auto:fec-politician pending-merge 2026-04-13 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 

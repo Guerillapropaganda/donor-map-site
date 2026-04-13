@@ -429,7 +429,7 @@ The 2025 policy return completes the circuit. Marathon spent years and tens of m
 - [[Cathy McMorris Rodgers]] (Energy & Commerce) — contracts: $51K
 - [[Kevin McCarthy]] — contracts: $51K
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-12.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-13.*
 <!-- auto:influence-cross-ref end -->
 
 ### Federal Court Records (CourtListener)

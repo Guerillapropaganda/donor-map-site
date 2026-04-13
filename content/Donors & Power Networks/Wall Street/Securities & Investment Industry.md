@@ -2,7 +2,7 @@
 title: "Securities & Investment Industry"
 type: donor
 content-readiness: draft
-last-updated: 2026-04-12
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 sector: "Wall Street"
@@ -10,7 +10,7 @@ entity-type: "Individual Donor"
 issues:
   - "Wall Street & Finance"
 ofac-sdn-match: "true"
-last-enriched: "2026-04-12"
+last-enriched: "2026-04-13"
 needs-reenrichment: true
 reenrich-reason: "run fec pipeline"
 ofac-programs:
@@ -126,5 +126,5 @@ The industry's political priorities are bipartisan by design: carried interest t
 
 - [[Patrick McHenry]]
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-12.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-13.*
 <!-- auto:influence-cross-ref end -->

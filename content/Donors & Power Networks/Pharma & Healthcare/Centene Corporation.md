@@ -214,7 +214,7 @@ Centene's structural function in American healthcare is converting public health
 - [[Joe Manchin]] — lobbying: $10.6M
 - [[Jon Husted]] — lobbying: $10.6M
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-12.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-13.*
 <!-- auto:influence-cross-ref end -->
 
 ### Financial Overview (990 Filing — 2023)

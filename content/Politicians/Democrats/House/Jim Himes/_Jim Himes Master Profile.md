@@ -3,7 +3,7 @@ title: "Jim Himes"
 type: politician
 content-readiness: draft
 central-thesis: "Jim Himes is the Goldman Sachs pipeline made flesh. He moved from the trading floor to Congress, represented the hedge fund corridor, sat on the committee that regulates his former industry, and consistently voted to weaken the regulations his par..."
-last-updated: 2026-04-12
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -26,7 +26,7 @@ bills-sponsored: 3
 bills-cosponsored: 157
 website: "https://himes.house.gov"
 phone: "202-225-5541"
-last-enriched: "2026-04-12"
+last-enriched: "2026-04-13"
 needs-reenrichment: true
 reenrich-reason: "re-run fec pipeline"
 related: "[[Chris Murphy Master Profile]] · [[_Nancy Pelosi Master Profile|Pelosi]] · [[_Chuck Schumer Master Profile|Schumer]] · [[Goldman Sachs - Wall Street Titan|Goldman Sachs]] · [[The Wall Street-Schumer Funding Axis]]"
@@ -205,7 +205,7 @@ The district-donor-committee triangle is nearly perfect. CT-04 is the hedge fund
 - [GovTrack: Jim Himes](https://www.govtrack.us/congress/members/412282) (Tier 1)
 <!-- auto:voting-record end -->
 
-<!-- auto:voting-record pending-merge 2026-04-12 -->
+<!-- auto:voting-record pending-merge 2026-04-13 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 

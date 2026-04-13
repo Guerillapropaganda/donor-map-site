@@ -3,7 +3,7 @@ title: "Nancy Pelosi Master Profile"
 type: politician
 content-readiness: draft
 central-thesis: "Pelosi is the Democratic Party's financial gatekeeper. No single politician in American history has raised more money for their party's congressional apparatus — content-readiness: draft.6 billion since 2002. Her fundraising power is the structural basis of her politic..."
-last-updated: 2026-04-12
+last-updated: 2026-04-13
 source-tier: 1
 career-total: "$1.6B"
 parent: null
@@ -58,7 +58,7 @@ top-donors:
 total-received: "$2,408,010"
 fec-candidate-id: "H8CA05035"
 bioguide-id: "P000197"
-last-enriched: "2026-04-12"
+last-enriched: "2026-04-13"
 source-types:
   - DOJ
   - FEC
@@ -242,7 +242,7 @@ Detailed sourcing is in each sub-note. Key sources for the master profile:
 - [[UnitedHealth Group - Optum]] — $25.1M lobbying spend (Banking, Budget/Appropriations, Defense)
 - [[Blue Shield of California]] — $3.8M lobbying spend (Aerospace, Agriculture, Alcohol and Drug Abuse)
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-12.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-13.*
 <!-- auto:influence-cross-ref end -->
 
 ### Campaign Finance (FEC)
