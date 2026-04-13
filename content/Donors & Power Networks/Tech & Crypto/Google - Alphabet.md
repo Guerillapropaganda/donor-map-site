@@ -373,7 +373,7 @@ In 2017, New America fired a researcher who praised the EU's antitrust action ag
 
 ---
 
-### Class Analysis
+## Class Analysis
 
 Google represents the most advanced form of monopoly power in the vault — one that extracts value not through traditional pricing power but through data collection, advertising dominance, and control of information access. The company's political operation is structured to preserve this extraction model across every dimension of government regulation.
 

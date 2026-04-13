@@ -73,7 +73,7 @@ On February 28, 1996 — Presidents' Day — Bill Clinton was in the Oval Office
 
 #### The Trump Fundraiser
 
-On May 30, 2024 — the day of Trump's criminal conviction in the New York hush money case — Pepe Fanjul hosted a fundraiser that raised $50 million for Trump's campaign. The family has given $7+ million to Trump-affiliated PACs since 2016. In 2024, approximately 99% of Fanjul Corp donations went to Republicans: $1 million to MAGA PAC, $413,000 to the RNC.
+On May 30, 2024 — the day of Trump's conviction in the New York hush money case — Pepe Fanjul hosted a fundraiser that raised $50 million for Trump's campaign. The family has given $7+ million to Trump-affiliated PACs since 2016. In 2024, approximately 99% of Fanjul Corp donations went to Republicans: $1 million to MAGA PAC, $413,000 to the RNC.
 
 #### Congressional Funding
 

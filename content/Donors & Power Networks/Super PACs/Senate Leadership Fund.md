@@ -178,7 +178,7 @@ McConnell built SLF as his personal power machine from 2015 to 2024. The organiz
 
 ---
 
-### Class Analysis
+## Class Analysis
 
 > [!money]
 > SLF is the mechanism through which the hedge fund class purchases Republican Senate votes. The $299M raised in 2024 — 95% from large-dollar donors — is the going rate for a compliant Senate majority. Ken Griffin's $30M (25.8% of the total) makes the structural function explicit: when a single hedge fund billionaire provides one-quarter of the Senate's leadership spending, the Senate serves that billionaire's interests. The interests are not subtle: financial deregulation, tax policy protecting hedge fund carried interest and capital gains, and judicial nominees who will rule against regulatory enforcement.

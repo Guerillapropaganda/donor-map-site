@@ -1,8 +1,8 @@
 ---
 title: Peter Thiel
 type: donor
-content-readiness: draft
-last-updated: 2026-04-12
+content-readiness: ready
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 sector: Mega-Donors
@@ -73,7 +73,7 @@ He means it. His political project is not to reform democracy but to render it i
 
 ---
 
-### The Class Analysis
+## Class Analysis
 
 Thiel represents a class position that doesn't map onto the traditional donor categories. He is not buying tax cuts (Mellon), foreign policy (Adelson), or regulatory capture for his own companies (Musk — though Palantir benefits enormously). He is building infrastructure for a post-democratic oligarchy.
 

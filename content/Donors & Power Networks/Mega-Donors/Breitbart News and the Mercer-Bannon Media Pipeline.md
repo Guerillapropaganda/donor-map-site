@@ -73,7 +73,7 @@ Bannon entered the West Wing as Chief Strategist. The pipeline from Mercer's wal
 - Revenue gutted
 
 ### Bannon legal troubles:
-- Arrested August 2020: fraud charges related to "We Build the Wall" fundraising scheme
+- Arrested August 2020: misconduct charges related to "We Build the Wall" fundraising scheme
 - Pardoned by Trump (January 2021)
 - Convicted of contempt of Congress (July 2022) for refusing January 6 committee subpoena
 - Served 4 months in federal prison (October 2024 – January 2025, commuted by Trump)

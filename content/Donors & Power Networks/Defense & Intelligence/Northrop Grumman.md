@@ -229,7 +229,7 @@ Space is Northrop's growth vector. As traditional defense spending faces eventua
 
 ---
 
-### Class Analysis
+## Class Analysis
 
 Northrop Grumman represents the defense sector's most refined form of structural capture: monopoly contracts so large they cannot be cancelled, cost overruns so extreme they become leverage, and a revolving door so normalized it functions as a hiring pipeline.
 

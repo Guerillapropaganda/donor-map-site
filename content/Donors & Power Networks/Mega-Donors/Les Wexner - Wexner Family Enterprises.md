@@ -345,7 +345,7 @@ A Wexner spokesperson told OpenSecrets that "Epstein's house was not on land own
 
 Wexner's public statements about when he severed ties with Epstein shifted repeatedly over time:
 
-- In the 2019 letter to his Foundation, he stated he "severed ties" after learning of Epstein's criminal conduct
+- In the 2019 letter to his Foundation, he stated he "severed ties" after learning of Epstein's misconduct
 - In various statements he cited "a decade ago" (from 2019) as the end of the relationship — suggesting approximately 2007–2009
 - His 2026 congressional statement said the split occurred "in 2007 when the Wexners learned he had been embezzling funds from them," and that Wexner "severed all connections"
 - However, documents show Wexner emailed Epstein in 2008, after Epstein's 2007 initial investigation had begun

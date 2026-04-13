@@ -102,7 +102,7 @@ Between 2008 and 2018 — the decade when opioid overdose deaths surged from 36,
 
 ### The 2020 Federal Plea — $8.3 Billion in Uncollectable Fines
 
-On November 24, 2020, Purdue Pharma pleaded guilty to three federal felonies: one count of conspiracy to defraud the United States and violate the Food, Drug, and Cosmetic Act, and two counts of conspiracy to violate the Federal Anti-Kickback Statute. The settlement totaled $8.3 billion — $3.544 billion in criminal fines, $2 billion in criminal forfeiture, and $2.8 billion in civil liability.
+On November 24, 2020, Purdue Pharma pleaded guilty to three federal felonies: one count of conspiracy to deceive the United States and violate the Food, Drug, and Cosmetic Act, and two counts of conspiracy to violate the Federal Anti-Kickback Statute. The settlement totaled $8.3 billion — $3.544 billion in criminal fines, $2 billion in criminal forfeiture, and $2.8 billion in civil liability.
 
 Purdue admitted it conspired to impede the DEA by misrepresenting its anti-diversion program while continuing to market opioids to 100+ healthcare providers it had reason to believe were diverting drugs. The company also admitted to paying kickbacks to electronic health records company Practice Fusion to generate OxyContin prescriptions.
 

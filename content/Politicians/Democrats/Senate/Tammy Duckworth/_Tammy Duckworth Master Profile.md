@@ -1,7 +1,7 @@
 ---
 title: "Tammy Duckworth"
 type: politician
-content-readiness: draft
+content-readiness: ready
 central-thesis: "Duckworth's military sacrifice provides moral authority that converts directly into policy authority on defense spending — the most donor-lucrative jurisdiction in Congress. Her Armed Services Committee seat and combat veteran status make her the ..."
 last-updated: 2026-04-13
 source-tier: 1
@@ -163,6 +163,18 @@ This is the Genuine Win track. The veteran care outcomes are real and meaningful
 **Bipartisan Defense Consensus:** Duckworth works across the aisle on defense policy more easily than on any other issue. Her Rock Island Arsenal coalition includes Durbin (D-IL), Grassley (R-IA), Ernst (R-IA), and Bustos (D-IL). The bipartisanship reflects the structural reality: defense spending is the one policy area where both parties' donor classes have identical interests.
 
 **Jobs-Based Framing:** Defense spending is framed as Illinois jobs and manufacturing, not as contractor profitability. The 8,713 defense contractors across 102 Illinois counties make this framing structurally accurate — defense spending and constituency employment are the same thing.
+
+---
+
+## Class Analysis
+
+Tammy Duckworth's class position is defined by the inseparability of biography, constituency, and donor interest. Her Purple Heart, her lost legs, her Black Hawk combat experience create a biographical shield that makes questioning her defense spending positions politically impossible. Illinois hosts 8,713 defense contractors across 102 counties holding $116.1 billion in government contracts. Boeing is headquartered in Chicago. Rock Island Arsenal is the state's anchor defense installation. Duckworth's Armed Services subcommittee chair position gives her direct jurisdiction over the spending that flows to these employers. The combat veteran brand, the constituency economy, and the committee jurisdiction all point in the same direction. The question is not whether Duckworth is sincere. She is. The question is whether sincerity and structural function are distinguishable when they produce identical outcomes.
+
+The donor class map is the defense industry in miniature. Lockheed Martin PAC ($6,000+), Boeing, Raytheon, General Dynamics: PAC contributions plus Illinois facility employment. Labor unions (AFSCME, SEIU, Building Trades) provide significant PAC support. The defense contractors want NDAA authorization, weapons program funding, and Illinois facility investment. They get all three. Duckworth voted for every NDAA from her first election through FY 2025, authorizing hundreds of billions annually to the same contractors whose PACs contribute to her campaigns. Her single dissent, the FY 2026 vote, was not about spending levels. It was about Trump deploying troops into American cities. The defense spending consensus remained intact.
+
+The Rock Island Arsenal earmark pipeline is the clearest illustration of how defense spending and constituency service operate as a single function. Duckworth secured $120 million in FY 2026 for Rock Island, $100 million for Defense Community Infrastructure Program projects near the Arsenal, $50 million for a new Child Development Center, and $5 million in planning and design funds. She also inserted provisions limiting the Army's ability to restructure commands housed at the Arsenal. Every dollar authorized for Rock Island flows simultaneously to Illinois jobs and defense industry revenue. There is no separating the two.
+
+Duckworth's veteran advocacy, the billions in caregiver funding, the suicide prevention work, the healthcare access legislation, produces real outcomes that matter. But veteran care operates downstream of the defense spending pipeline, not upstream of it. Supporting the troops after they serve does not challenge the spending decisions that deploy them. The genuine wins and the structural function coexist without tension because they operate at different levels of the same system. The class function is Democratic validator for bipartisan defense spending consensus, and the combat wounds make that function unquestionable.
 
 ---
 

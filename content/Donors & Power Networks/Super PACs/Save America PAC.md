@@ -95,7 +95,7 @@ Save America is not a political action committee in any meaningful sense. It is 
 > In the 2022 cycle, Save America raised $108.7 million and contributed $210,000 to 42 political candidates — 0.19% of total receipts. The other 99.8% went to legal fees, staff, events, and Trump's personal operation. This is not a political action committee. It is a legal defense fund structured as a PAC to exploit donor willingness to give to "Trump's political operation" while spending their money on Trump's personal legal exposure.
 
 ### Key legal expenditures (partial list):
-- Trump civil fraud case defense: $11 million (H2 2023)
+- Trump civil misconduct case defense: $11 million (H2 2023)
 - Clifford Robert (Eric Trump, Donald Trump Jr. representation): $3.9 million
 - Chris Kise & Associates: $2.3 million
 - Continental PLLC: $2.6 million
@@ -163,7 +163,7 @@ The intersection of Save America donations and presidential clemency creates the
 | 2022 cycle | Full-cycle fundraising | $108.7M raised | $210K to candidates (0.19%); rest to legal/operations | Concurrent |
 | 2022-09 | MAGA Inc. created; $20M transferred from Save America | $20M → $60M clawback | FEC complaint filed; Trump gains super PAC capability | 0-2 months |
 | 2023 | Peak legal spending year | $50M+ legal fees | Criminal defense in 4 indictments; civil fraud defense | Concurrent |
-| 2023-10 | Jack Smith withdraws Save America subpoena | — | Fundraising fraud investigation appears abandoned | — |
+| 2023-10 | Jack Smith withdraws Save America subpoena | — | Fundraising misconduct investigation appears abandoned | — |
 | 2024 | Trump 47 Committee established for campaign | Save America overflow vehicle | PAC depleted to $4-5M cash on hand during trials | Concurrent |
 | 2025-01 | Trump inaugurated; pardons begin | Save America/MAGA Inc. donors | Stone, Manafort, Bannon previously pardoned; new clemency wave | 0-4 years |
 | 2025-04 | Paul Walczak pardoned | $1M from mother to MAGA Inc. | Convicted fraudster receives clemency | Months |

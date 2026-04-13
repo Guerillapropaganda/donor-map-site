@@ -1,9 +1,9 @@
 ---
 title: "Raja Krishnamoorthi"
 type: politician
-content-readiness: draft
+content-readiness: ready
 central-thesis: "Krishnamoorthi is the bipartisan national security technocrat — a Democrat who provides liberal cover for the anti-China consensus that serves both defense industry donors and tech competitors seeking to eliminate Chinese competition from the Amer..."
-last-updated: 2026-04-11
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -133,6 +133,18 @@ Krishnamoorthi's $29 million Senate campaign — the most expensive in the Illin
 | Outcome | Lost primary | Won primary |
 
 The Stratton victory showed that institutional Democratic support (governor's backing, labor unions, party apparatus) still outweighs raw fundraising in a Democratic primary — a structural lesson about the limits of the donor-class model when it faces organized institutional opposition.
+
+---
+
+## Class Analysis
+
+Raja Krishnamoorthi's donor base reveals a politician whose bipartisan national security brand serves as a capital-collection mechanism that transcends party lines. His $19 million Senate war chest came primarily from health professionals ($1.1 million), corporate law firms like Kirkland and Ellis ($334,000), and the Indian-American professional class in the $1,000 to $2,000 donation range. This is retail fundraising from affluent professionals, not working-class grassroots money. The donor class is the suburban professional class that wants regulatory stability, anti-China positioning, and protection of the corporate legal frameworks they work within.
+
+The TikTok legislation is the class analysis in miniature. Framed as national security and children's privacy, the Protecting Americans from Foreign Adversary Controlled Applications Act eliminates a Chinese competitor from the American social media market while leaving American surveillance platforms (Meta, Google) untouched. The structural beneficiaries are American tech companies that compete directly with TikTok for advertising revenue. Krishnamoorthi's role was essential: a Democrat co-sponsoring the bill ensured it could not be dismissed as xenophobia. His Indian heritage and national security credentials provided bipartisan cover the legislation needed. The class function is clear. Krishnamoorthi makes anti-China economic policy palatable to Democrats, ensuring it serves American corporate interests without appearing partisan.
+
+The MAGA donor connections expose the limits of the bipartisan technocrat model. Krishnamoorthi accepted over $90,000 from Trump-aligned donors including Palantir CTO Shyam Sankar (whose company holds a $30 million ICE contract for tracking self-deportation), venture capitalist Marc Andreessen, and Heritage Foundation adviser Michael Pillsbury. A Democrat campaigning against Trump's immigration enforcement while funded by the company that builds the surveillance tools for that enforcement. The donor class does not care about party labels. It funds politicians who advance its interests, and Krishnamoorthi's anti-China, pro-defense, corporate-law-aligned positioning attracted capital from both sides.
+
+Krishnamoorthi's $29 million Senate campaign, the most expensive in the Illinois primary, still lost to Juliana Stratton. The class lesson matches Barbara Lee's: raw fundraising from the professional donor class cannot overcome institutional party machinery when the two collide. Pritzker's backing and organized labor beat retail professional-class donations. The donor-class fundraising model has a ceiling, and Krishnamoorthi hit it.
 
 ---
 

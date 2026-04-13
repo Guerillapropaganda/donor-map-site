@@ -48,7 +48,7 @@ ProPublica and the New York Times investigation labeled Kushner a "tier one pred
 >
 > **May 2025:** Senate confirmed Charles Kushner as U.S. Ambassador to France (51–45). A man convicted of hiring a prostitute to blackmail his own family member now represents the United States in Paris.
 
-The pardon-to-ambassadorship pipeline is the most transparent exercise of family privilege in the Trump orbit. It required no donor class, no policy justification, no structural analysis — just a father-in-law's power to erase a criminal record and install the family patriarch in a prestige posting.
+The pardon-to-ambassadorship pipeline is the most transparent exercise of family privilege in the Trump orbit. It required no donor class, no policy justification, no structural analysis — just a father-in-law's power to erase a legal record and install the family patriarch in a prestige posting.
 
 ---
 
@@ -60,7 +60,7 @@ The Kushner family extracts from every class position simultaneously:
 
 **From governments:** $157 million in management fees from Saudi Arabia, Qatar, UAE. $1.2 billion Brookfield bailout with Qatar Investment Authority money. Government contracts and policy shaped during White House tenure. Wealth flows from sovereign wealth funds to the family fund.
 
-**From the justice system:** Criminal conviction → presidential pardon → ambassadorship. The legal system that punishes ordinary people is reversed for the Kushner family. Wealth and political connection transform a prison sentence into a Paris posting.
+**From the justice system:** conviction → presidential pardon → ambassadorship. The legal system that punishes ordinary people is reversed for the Kushner family. Wealth and political connection transform a prison sentence into a Paris posting.
 
 The Kushner operation doesn't choose one extraction method — it runs all of them simultaneously. Tenants fund the real estate empire. The real estate empire funds the political positioning. The political positioning creates government access. The government access creates sovereign wealth fund relationships. The sovereign wealth fund relationships generate management fees. Every level feeds the next.
 

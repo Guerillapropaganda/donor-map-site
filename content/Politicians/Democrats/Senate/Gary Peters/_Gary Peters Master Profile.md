@@ -1,9 +1,9 @@
 ---
 title: "Gary Peters Master Profile"
 type: politician
-content-readiness: draft
+content-readiness: ready
 central-thesis: "Peters is the Democratic Party's quiet operator — a former Wall Street investment advisor who became the party's Senate fundraising chief while chairing the committee that oversees the homeland security and cybersecurity industries. His 22-year ca..."
-last-updated: 2026-04-06
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -110,6 +110,18 @@ Peters is the Democratic Party's quiet operator — a former Wall Street investm
 
 > [!money] The Wall Street-to-Gatekeeper Pipeline
 > Peters's career arc is the profile's central money story. Twenty-two years at Merrill Lynch and UBS built finance-class relationships. Those relationships made him an effective fundraiser. Effective fundraising made him Schumer's choice for DSCC chair — twice. The DSCC chairmanship made him the Democratic Party's Senate fundraising gatekeeper, the person who decides which candidates get institutional support. Meanwhile, his committee portfolio (Homeland Security, Armed Services, Commerce, Appropriations) covers every major federal contracting sector. The cybersecurity legislation he champions creates new compliance mandates that generate revenue for the cybersecurity industry. The defense budgets he votes for benefit the contractor whose stock he holds. The investment advisor became the party's money man, and the party's money man chairs the committees that regulate the industries that fund the party.
+
+---
+
+## Class Analysis
+
+Gary Peters is the finance class operating inside the Democratic Party's institutional machinery. His 22 years at Merrill Lynch and UBS/Paine Webber built the Wall Street relationships that made him Schumer's choice to run the Democratic Senatorial Campaign Committee for two consecutive cycles. The DSCC chair is the party's Senate fundraising gatekeeper, the person who decides which candidates get institutional money and which candidates get frozen out. Peters ran the machine twice, delivering a 51-seat majority in 2022 (best midterm result since 1934) while controlling the capital allocation that determines which Democrats survive and which don't.
+
+The committee portfolio completes the loop. Peters holds four committee seats: Homeland Security (Ranking Member), Armed Services, Commerce, and Appropriations. This is jurisdiction over every major federal contracting industry: cybersecurity, defense, telecommunications, and spending authorization. The "most productive congressional term for cybersecurity in history" that Peters led created new mandatory compliance requirements for critical infrastructure. Every compliance mandate generates spending that flows to the cybersecurity contractor industry. The senator who creates the mandates sits on the committee that oversees the contractors.
+
+Peters holds Raytheon/RTX stock ($1,001 to $15,000 disclosed) while sitting on the Armed Services Committee that authorizes the defense budget. He voted for the record $886.3 billion NDAA. The personal financial stake in the defense industry is small in dollar terms but structurally revealing: the investment advisor became the party's money man, and the party's money man chairs the committees that regulate the industries that fund the party.
+
+The class function is pipeline operator. Peters does not generate progressive policy or populist messaging. He generates institutional fundraising infrastructure, committee jurisdiction over donor-class industries, and the gatekeeper authority to determine which Democratic candidates receive capital backing. Michigan voters hear "auto industry champion, Navy veteran, cybersecurity protector." The defense, finance, and tech donor class hears "former Wall Street VP, DSCC fundraising chief, Armed Services member, Homeland Security chair." Two audiences, one legislative record, and the finance class built the architecture.
 
 ---
 

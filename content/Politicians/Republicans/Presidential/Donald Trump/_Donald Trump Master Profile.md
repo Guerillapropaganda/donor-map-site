@@ -144,7 +144,7 @@ Trump's social world before politics was the New York billionaire circuit of the
 — Trump reportedly barred Epstein from Mar-a-Lago at some point — the timeline and reason are disputed.
 — After Epstein's arrest and Ghislaine Maxwell's arrest, Trump said of Maxwell: "I wish her well." [Tier 1 — on-camera statement, July 2020]
 
-This note does not allege specific criminal conduct. It locates Trump within a social class — the billionaire circuit where Epstein operated — and documents the public record. The class analysis point: Trump came from and belongs to the world where men like Epstein were not anomalies but fixtures. That world is the same world that funds his campaigns and fills his cabinet.
+This note does not allege specific misconduct. It locates Trump within a social class — the billionaire circuit where Epstein operated — and documents the public record. The class analysis point: Trump came from and belongs to the world where men like Epstein were not anomalies but fixtures. That world is the same world that funds his campaigns and fills his cabinet.
 
 ---
 

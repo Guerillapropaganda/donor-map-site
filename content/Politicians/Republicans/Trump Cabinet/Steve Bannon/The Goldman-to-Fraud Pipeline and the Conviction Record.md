@@ -56,7 +56,7 @@ Bannon's most profitable investment was a Goldman-era deal: he accepted a stake 
 | Federal charges | Wire fraud, money laundering conspiracy |
 | Trump pardon | January 19, 2021 (final hours, federal only) |
 | NY state charges | Indicted September 2022 (pardon doesn't cover state) |
-| NY guilty plea | February 11, 2025 — Scheme to Defraud in the First Degree (Class E felony) |
+| NY guilty plea | February 11, 2025 — scheme to deceive in the First Degree (Class E felony) |
 | NY sentence | 3-year conditional discharge (no prison) |
 | NY restrictions | Cannot serve as officer/director of NY charities |
 

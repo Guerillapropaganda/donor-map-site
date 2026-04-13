@@ -103,7 +103,7 @@ Save America PAC (Trump's leadership PAC) was repurposed from a political vehicl
 
 Save America spent more than $100 million on legal fees stemming from Trump's criminal indictments and civil cases — approximately $50M in 2023 alone, averaging $4M per month. The spending depleted the PAC's reserves, requiring the creation of the Trump 47 Committee joint fundraising arrangement that prioritized funneling money to Save America over the RNC.
 
-The FEC, deadlocked 3-3 on partisan lines, has never ruled on whether leadership PACs can be used for personal legal defense — allowing Trump to divert donor money from political purposes to criminal defense without regulatory consequence. Small-dollar donors who gave to "Save America" believing they were funding political campaigns had their money spent on lawyers defending Trump against fraud charges, election interference indictments, and the E. Jean Carroll defamation case.
+The FEC, deadlocked 3-3 on partisan lines, has never ruled on whether leadership PACs can be used for personal legal defense — allowing Trump to divert donor money from political purposes to criminal defense without regulatory consequence. Small-dollar donors who gave to "Save America" believing they were funding political campaigns had their money spent on lawyers defending Trump against misconduct charges, election interference indictments, and the E. Jean Carroll defamation case.
 
 ---
 

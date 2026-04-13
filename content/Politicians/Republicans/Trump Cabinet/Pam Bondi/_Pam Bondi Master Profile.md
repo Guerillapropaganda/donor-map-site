@@ -47,7 +47,7 @@ Pam Bondi. Attorney General of the United States (2025–present). Former Florid
 ## Donor Class Map
 
 ### The Trump University $25K and the Pay-to-Play Model:
-- [[The Trump University 25K and the Pay-to-Play Model]] — 2013: Bondi personally solicited $25K from Trump Foundation while reviewing whether to join NY AG's Trump University fraud case. Donation received 4 days after review announcement. Investigation dropped. Trump Foundation: $2,500 IRS fine. Florida students: no restitution. LPS foreclosure: fired investigating attorneys, never subpoenaed again. $20.2M directed from investigated businesses to charities. The AG office as a fundraising instrument.
+- [[The Trump University 25K and the Pay-to-Play Model]] — 2013: Bondi personally solicited $25K from Trump Foundation while reviewing whether to join NY AG's Trump University misconduct case. Donation received 4 days after review announcement. Investigation dropped. Trump Foundation: $2,500 IRS fine. Florida students: no restitution. LPS foreclosure: fired investigating attorneys, never subpoenaed again. $20.2M directed from investigated businesses to charities. The AG office as a fundraising instrument.
 
 ## Qatar Lobbying and the Revolving Door to DOJ:
 - [[Qatar Lobbying and the Revolving Door to DOJ]] — Ballard Partners: $1M+/year for 30+ clients. Qatar: $115K/month FARA-registered (July 2019–2024). [[Amazon]], [[Uber|Uber]], GM, GEO Group. Impeachment defense (November 2019). One-year ethics agreement. GEO Group profits from her immigration enforcement. Ballard Partners lobbies the DOJ she runs. The ethics agreement expires; the conflicts don't.
@@ -59,7 +59,7 @@ Pam Bondi. Attorney General of the United States (2025–present). Former Florid
 
 ## Donation-to-Policy Timeline
 
-*Note: Bondi is the revolving door as operating model — $25K Trump Foundation donation killed a fraud investigation; $5M+ in lobbying fees funded the career transition to AG; the one-year ethics agreement is a countdown timer on the appearance of propriety.*
+*Note: Bondi is the revolving door as operating model — $25K Trump Foundation donation killed a misconduct investigation; $5M+ in lobbying fees funded the career transition to AG; the one-year ethics agreement is a countdown timer on the appearance of propriety.*
 
 #### Trump Foundation / The Pay-to-Play Model
 
