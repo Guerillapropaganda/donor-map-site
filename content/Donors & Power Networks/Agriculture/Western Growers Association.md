@@ -11,30 +11,30 @@ politicians-funded:
   - "John Hoeven"
   - "Gina McCarthy"
   - "Kevin McCarthy"
-  - "Henry Cuellar"
   - "Jonathan L. Jackson"
   - "Lisa Jackson"
   - "Ronny Jackson"
   - "Ketanji Brown Jackson"
   - "Brad Finstad"
+  - "August Pfluger"
   - "Nathaniel Moran"
   - "Jerry Moran"
-  - "Roger Marshall"
-  - "August Pfluger"
   - "Tom Emmer"
+  - "Roger Marshall"
   - "Tracey Mann"
   - "Henry C. Hank Johnson"
   - "Julie Johnson"
   - "Jeh Johnson"
   - "Dusty Johnson"
   - "Mike Johnson"
+  - "Ron Johnson"
 issues:
   - "Immigration"
 ein: "751972150"
 annual-revenue: "$236K"
 net-assets: "$849K"
 tax-year: "2023"
-total-political-spend: "$481,034"
+total-political-spend: "$248,400"
 court-cases: 44
 last-enriched: "2026-04-13"
 needs-reenrichment: true
@@ -372,23 +372,23 @@ Immigration — H-2A program, undocumented workforce, sanctuary policy
 <!-- auto:fec-donor start -->
 | Metric | Value |
 |--------|-------|
-| Total Political Spend | $481,034 |
-| Contributions | 323 |
+| Total Political Spend | $248,400 |
+| Contributions | 200 |
 
 **Top recipients:**
 
 | Recipient | Amount | Party |
 |-----------|--------|-------|
-| AMERICAN FUTURE FUND POLITICAL ACTION | $120,000 | — |
-| HOEVEN FOR SENATE | $17,500 | REP |
-| RNC REPUBLICAN NATIONAL STATE ELECTION COMMITTEE | $15,863 | — |
+| HOEVEN FOR SENATE | $16,000 | REP |
 | MCCARTHY VICTORY FUND | $15,000 | — |
 | KEVIN MCCARTHY FOR CONGRESS | $12,500 | REP |
-| FRIENDS OF DENNIS CARDOZA | $10,000 | DEM |
-| TEXANS FOR HENRY CUELLAR CONGRESSIONAL CAMPAIGN | $9,000 | DEM |
 | YVETTE4CONGRESS | $8,800 | NNE |
 | TEXANS FOR RONNY JACKSON | $8,500 | REP |
 | FINSTAD FOR CONGRESS | $8,500 | REP |
+| AUGUST PFLUGER FOR CONGRESS | $7,700 | REP |
+| MORAN VICTORY COMMITTEE | $7,000 | — |
+| MONICA FOR CONGRESS | $6,500 | REP |
+| EMMER FOR CONGRESS | $6,500 | REP |
 
 - [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Western%20Growers%20Association) (Tier 1)
 <!-- auto:fec-donor end -->
