@@ -1,8 +1,11 @@
 "use client"
 
-import { useState, useEffect } from "react"
+import { useState, useEffect, useRef, useCallback } from "react"
 import type { Profile } from "@/lib/vault"
 import { typeColor } from "@/lib/vault"
+import { CardReceipt } from "@/components/CardReceipt"
+import { CardDossier } from "@/components/CardDossier"
+import { CardLeak } from "@/components/CardLeak"
 
 interface ShareTemplate {
   id: string
@@ -76,6 +79,41 @@ export default function DistributionPage() {
   const [activeTemplate, setActiveTemplate] = useState<string>("twitter")
   const [copied, setCopied] = useState(false)
   const [customText, setCustomText] = useState("")
+  const [mode, setMode] = useState<"text" | "visual">("text")
+  const [cardTemplate, setCardTemplate] = useState<"receipt" | "dossier" | "leak">("receipt")
+  const [cardSize, setCardSize] = useState<"twitter" | "instagram" | "linkedin">("twitter")
+  const [cardHeadline, setCardHeadline] = useState("")
+  const [cardSubtext, setCardSubtext] = useState("")
+  const [downloading, setDownloading] = useState(false)
+  const cardRef = useRef<HTMLDivElement>(null)
+
+  const CARD_SIZES = {
+    twitter: { w: 1200, h: 630, label: "Twitter/X (1200x630)" },
+    instagram: { w: 1080, h: 1080, label: "Instagram (1080x1080)" },
+    linkedin: { w: 1200, h: 627, label: "LinkedIn (1200x627)" },
+  }
+
+  const downloadCard = useCallback(async () => {
+    if (!cardRef.current) return
+    setDownloading(true)
+    try {
+      const html2canvas = (await import("html2canvas")).default
+      const canvas = await html2canvas(cardRef.current, {
+        scale: 2,
+        useCORS: true,
+        backgroundColor: null,
+        logging: false,
+      })
+      const link = document.createElement("a")
+      const name = selected?.title.replace(/ Master Profile$/, "").replace(/[^a-zA-Z0-9]/g, "-").toLowerCase() || "card"
+      link.download = `donormap-${name}-${cardTemplate}-${cardSize}.png`
+      link.href = canvas.toDataURL("image/png")
+      link.click()
+    } catch (e) {
+      console.error("Card download failed:", e)
+    }
+    setDownloading(false)
+  }, [selected, cardTemplate, cardSize])
 
   useEffect(() => {
     fetch("/api/vault")
@@ -115,6 +153,30 @@ export default function DistributionPage() {
         </p>
       </div>
 
+      {/* Mode toggle */}
+      <div className="flex gap-2 mb-4">
+        <button
+          onClick={() => setMode("text")}
+          className={`px-4 py-2 rounded-lg text-xs font-bold transition-all ${
+            mode === "text"
+              ? "bg-[var(--color-steel)]/15 text-[var(--color-steel)] border border-[var(--color-steel)]/30"
+              : "bg-[var(--color-bg-card)] border border-[var(--color-border)] text-[var(--color-text-dim)] hover:text-[var(--color-text)]"
+          }`}
+        >
+          Text Posts
+        </button>
+        <button
+          onClick={() => setMode("visual")}
+          className={`px-4 py-2 rounded-lg text-xs font-bold transition-all ${
+            mode === "visual"
+              ? "bg-[var(--color-amber)]/15 text-[var(--color-amber)] border border-[var(--color-amber)]/30"
+              : "bg-[var(--color-bg-card)] border border-[var(--color-border)] text-[var(--color-text-dim)] hover:text-[var(--color-text)]"
+          }`}
+        >
+          Visual Cards
+        </button>
+      </div>
+
       {/* Search */}
       <div className="relative mb-6">
         <input
@@ -143,7 +205,141 @@ export default function DistributionPage() {
         )}
       </div>
 
-      {selected ? (
+      {selected && mode === "visual" ? (
+        <div>
+          {/* Card template + size pickers */}
+          <div className="flex flex-wrap gap-4 mb-4">
+            <div className="flex gap-1.5">
+              {(["receipt", "dossier", "leak"] as const).map((t) => (
+                <button
+                  key={t}
+                  onClick={() => setCardTemplate(t)}
+                  className={`px-3 py-2 rounded-lg text-xs font-bold transition-all ${
+                    cardTemplate === t
+                      ? "bg-[var(--color-amber)]/15 text-[var(--color-amber)] border border-[var(--color-amber)]/30"
+                      : "bg-[var(--color-bg-card)] border border-[var(--color-border)] text-[var(--color-text-dim)] hover:text-[var(--color-text)]"
+                  }`}
+                >
+                  {t === "receipt" ? "The Receipt" : t === "dossier" ? "The Dossier" : "The Leak"}
+                </button>
+              ))}
+            </div>
+            <div className="flex gap-1.5">
+              {(["twitter", "instagram", "linkedin"] as const).map((s) => (
+                <button
+                  key={s}
+                  onClick={() => setCardSize(s)}
+                  className={`px-3 py-2 rounded-lg text-[10px] transition-all ${
+                    cardSize === s
+                      ? "bg-[var(--color-steel)]/15 text-[var(--color-steel)] border border-[var(--color-steel)]/30"
+                      : "bg-[var(--color-bg-card)] border border-[var(--color-border)] text-[var(--color-text-dim)] hover:text-[var(--color-text)]"
+                  }`}
+                >
+                  {CARD_SIZES[s].label}
+                </button>
+              ))}
+            </div>
+          </div>
+
+          {/* Edit fields */}
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-3 mb-4">
+            <div>
+              <label className="text-[9px] uppercase tracking-wider text-[var(--color-text-dim)] mb-1 block">Headline (override)</label>
+              <input
+                type="text"
+                value={cardHeadline}
+                onChange={(e) => setCardHeadline(e.target.value)}
+                placeholder="Auto-populated from profile..."
+                className="w-full bg-[var(--color-bg-card)] border border-[var(--color-border)] rounded-lg px-3 py-2 text-xs text-[var(--color-text)] placeholder:text-[var(--color-text-dim)] focus:outline-none focus:border-[var(--color-steel)]"
+              />
+            </div>
+            <div>
+              <label className="text-[9px] uppercase tracking-wider text-[var(--color-text-dim)] mb-1 block">Subtext (override)</label>
+              <input
+                type="text"
+                value={cardSubtext}
+                onChange={(e) => setCardSubtext(e.target.value)}
+                placeholder="Auto-populated from profile..."
+                className="w-full bg-[var(--color-bg-card)] border border-[var(--color-border)] rounded-lg px-3 py-2 text-xs text-[var(--color-text)] placeholder:text-[var(--color-text-dim)] focus:outline-none focus:border-[var(--color-steel)]"
+              />
+            </div>
+          </div>
+
+          {/* Live preview */}
+          <div className="bg-[var(--color-bg-card)] border border-[var(--color-border)] rounded-lg p-6 mb-4">
+            <div className="text-[9px] uppercase tracking-wider text-[var(--color-text-dim)] mb-3">Live Preview</div>
+            <div
+              style={{
+                width: "100%",
+                maxWidth: 600,
+                margin: "0 auto",
+                aspectRatio: `${CARD_SIZES[cardSize].w} / ${CARD_SIZES[cardSize].h}`,
+                overflow: "hidden",
+              }}
+            >
+              <div
+                ref={cardRef}
+                style={{
+                  width: CARD_SIZES[cardSize].w,
+                  height: CARD_SIZES[cardSize].h,
+                  transform: `scale(${Math.min(600 / CARD_SIZES[cardSize].w, 1)})`,
+                  transformOrigin: "top left",
+                }}
+              >
+                {cardTemplate === "receipt" && (
+                  <CardReceipt
+                    profile={selected}
+                    headline={cardHeadline || undefined}
+                    subtext={cardSubtext || undefined}
+                    width={CARD_SIZES[cardSize].w}
+                    height={CARD_SIZES[cardSize].h}
+                  />
+                )}
+                {cardTemplate === "dossier" && (
+                  <CardDossier
+                    profile={selected}
+                    headline={cardHeadline || undefined}
+                    subtext={cardSubtext || undefined}
+                    width={CARD_SIZES[cardSize].w}
+                    height={CARD_SIZES[cardSize].h}
+                    imageUrl={
+                      (selected as Record<string, unknown>)["bioguideId"] || (selected as Record<string, unknown>)["bioguide-id"]
+                        ? `https://www.congress.gov/img/member/${(selected as Record<string, unknown>)["bioguideId"] || (selected as Record<string, unknown>)["bioguide-id"]}_200.jpg`
+                        : undefined
+                    }
+                  />
+                )}
+                {cardTemplate === "leak" && (
+                  <CardLeak
+                    profile={selected}
+                    headline={cardHeadline || undefined}
+                    subtext={cardSubtext || undefined}
+                    width={CARD_SIZES[cardSize].w}
+                    height={CARD_SIZES[cardSize].h}
+                  />
+                )}
+              </div>
+            </div>
+          </div>
+
+          {/* Download button */}
+          <div className="flex gap-3">
+            <button
+              onClick={downloadCard}
+              disabled={downloading}
+              className="flex items-center gap-2 bg-[var(--color-amber)]/15 text-[var(--color-amber)] border border-[var(--color-amber)]/30 rounded-lg px-6 py-3 text-xs font-bold hover:bg-[var(--color-amber)]/25 transition-colors disabled:opacity-50"
+            >
+              {downloading ? "Generating..." : "Download PNG"}
+            </button>
+            <button
+              onClick={() => { setCardHeadline(""); setCardSubtext("") }}
+              className="text-[10px] text-[var(--color-text-dim)] hover:text-[var(--color-text)] px-3"
+            >
+              Reset to defaults
+            </button>
+          </div>
+        </div>
+      ) : selected ? (
         <div className="grid grid-cols-1 xl:grid-cols-3 gap-6">
           {/* Left: Platform picker + preview */}
           <div className="xl:col-span-2">
