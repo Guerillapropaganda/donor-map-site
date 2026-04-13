@@ -13,7 +13,7 @@ interface Props {
 /** THE PIPELINE — Vertical flow showing money path: Donor → Lobbyist → Think Tank → Politician → Policy */
 export function CardPipeline({ profile, headline, subtext, width, height }: Props) {
   const raw = profile as Record<string, unknown>
-  const name = profile.title.replace(/ Master Profile$/, "")
+  const name = profile.title.replace(/ Master Profile$/, "").replace(/^_/, "")
   const amount = String(raw.careerTotal || raw.totalRaised || raw.totalReceived || "")
   const topDonors = Array.isArray(raw.topDonors) ? raw.topDonors.map(String).slice(0, 3) : []
 

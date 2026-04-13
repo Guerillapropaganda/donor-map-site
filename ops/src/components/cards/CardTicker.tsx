@@ -13,7 +13,7 @@ interface Props {
 /** THE TICKER — Stock market ticker style, capitol trades aesthetic */
 export function CardTicker({ profile, headline, subtext, width, height }: Props) {
   const raw = profile as Record<string, unknown>
-  const name = profile.title.replace(/ Master Profile$/, "")
+  const name = profile.title.replace(/ Master Profile$/, "").replace(/^_/, "")
   const amount = String(raw.careerTotal || raw.totalRaised || "")
   const stockTrades = raw.stockTrades || raw["stock-trades"]
 

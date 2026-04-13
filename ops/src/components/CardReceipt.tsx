@@ -13,7 +13,7 @@ interface CardReceiptProps {
 export function CardReceipt({ profile, headline, subtext, width, height }: CardReceiptProps) {
   const raw = profile as Record<string, unknown>
   const amount = String(raw.careerTotal || raw.totalRaised || raw.totalReceived || raw.lobbyingSpend || profile.centralThesis?.match(/\$[\d,.]+[BMK]?/)?.[0] || "FOLLOW THE MONEY")
-  const name = profile.title.replace(/ Master Profile$/, "")
+  const name = profile.title.replace(/ Master Profile$/, "").replace(/^_/, "")
   const topDonors = raw.topDonors || raw["top-donors"]
   const topDonor = Array.isArray(topDonors) ? String(topDonors[0] || "") : ""
   const state = String(raw.state || raw["state-abbr"] || "")

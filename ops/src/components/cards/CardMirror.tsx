@@ -12,7 +12,7 @@ interface Props {
 
 /** THE MIRROR — Side-by-side comparison showing "opposing" politicians funded by same donors */
 export function CardMirror({ profile, headline, subtext, width, height }: Props) {
-  const name = profile.title.replace(/ Master Profile$/, "")
+  const name = profile.title.replace(/ Master Profile$/, "").replace(/^_/, "")
   const h = headline || "SAME MONEY"
   const s = subtext || "Different party. Same donors. Same policy."
   const scale = Math.min(width / 1200, height / 630)

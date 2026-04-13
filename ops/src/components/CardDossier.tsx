@@ -13,7 +13,7 @@ interface CardDossierProps {
 
 export function CardDossier({ profile, headline, subtext, width, height, imageUrl }: CardDossierProps) {
   const raw = profile as Record<string, unknown>
-  const name = profile.title.replace(/ Master Profile$/, "")
+  const name = profile.title.replace(/ Master Profile$/, "").replace(/^_/, "")
   const party = profile.party === "Democrat" ? "D" : profile.party === "Republican" ? "R" : "I"
   const state = String(raw.state || raw["state-abbr"] || raw.stateAbbr || "")
   const amount = String(raw.careerTotal || raw.totalRaised || raw.totalReceived || raw.lobbyingSpend || "")

@@ -114,35 +114,53 @@ export default function DistributionPage() {
     try {
       const html2canvas = (await import("html2canvas")).default
       const el = cardRef.current
-      // html2canvas needs the element to be visible and full-size
-      const origTransform = el.style.transform
-      const origTransformOrigin = el.style.transformOrigin
-      el.style.transform = "none"
-      el.style.transformOrigin = "top left"
+      const size = CARD_SIZES[cardSize]
 
-      const canvas = await html2canvas(el, {
+      // Clone the card element into a hidden full-size container for clean capture
+      const offscreen = document.createElement("div")
+      offscreen.style.position = "fixed"
+      offscreen.style.left = "-9999px"
+      offscreen.style.top = "0"
+      offscreen.style.width = size.w + "px"
+      offscreen.style.height = size.h + "px"
+      offscreen.style.overflow = "hidden"
+      offscreen.style.zIndex = "-1"
+
+      const clone = el.cloneNode(true) as HTMLElement
+      clone.style.transform = "none"
+      clone.style.transformOrigin = "top left"
+      clone.style.width = size.w + "px"
+      clone.style.height = size.h + "px"
+      offscreen.appendChild(clone)
+      document.body.appendChild(offscreen)
+
+      // Wait for fonts/images to settle
+      await new Promise(r => setTimeout(r, 200))
+
+      const canvas = await html2canvas(clone, {
         scale: 2,
         useCORS: true,
         backgroundColor: null,
         logging: false,
-        width: CARD_SIZES[cardSize].w,
-        height: CARD_SIZES[cardSize].h,
+        width: size.w,
+        height: size.h,
+        windowWidth: size.w,
+        windowHeight: size.h,
       })
 
-      // Restore preview scaling
-      el.style.transform = origTransform
-      el.style.transformOrigin = origTransformOrigin
+      document.body.removeChild(offscreen)
 
       const link = document.createElement("a")
       const profileName = selected?.title.replace(/ Master Profile$/, "").replace(/[^a-zA-Z0-9]/g, "-").toLowerCase() || "card"
       link.download = `donormap-${profileName}-${cardTemplate}-${cardSize}.png`
       link.href = canvas.toDataURL("image/png")
+      link.style.display = "none"
       document.body.appendChild(link)
       link.click()
-      document.body.removeChild(link)
+      setTimeout(() => document.body.removeChild(link), 100)
     } catch (e) {
       console.error("Card download failed:", e)
-      alert("Download failed. Try refreshing the page.")
+      alert("Download failed: " + (e as Error).message)
     }
     setDownloading(false)
   }, [selected, cardTemplate, cardSize])
