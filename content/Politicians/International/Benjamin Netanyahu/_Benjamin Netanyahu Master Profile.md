@@ -32,7 +32,7 @@ donors: [[Miriam Adelson]], [[Haim Saban]], [[AIPAC - American Israel Public Aff
 
 ## Who He Is
 
-Benjamin Netanyahu. Prime Minister of Israel (1996–1999, 2009–2021, 2022–present). Leader of Likud Party. Currently on trial for bribery, fraud, and breach of trust in three separate corruption cases. Political survival depends on a triangular power structure: American mega-donor money ($106M from [[Miriam Adelson|Miriam Adelson]] to Trump alone), Israeli media monopoly (Israel Hayom at 27.4% readership), and U.S. government protection (military aid, UN vetoes, diplomatic immunity). The architect of a governance model where state regulatory power becomes a commodity traded for media coverage and donor enrichment.
+Benjamin Netanyahu. Prime Minister of Israel (1996–1999, 2009–2021, 2022–present). Leader of Likud Party. Currently on trial for bribery, fraud, and breach of trust in three separate misconduct cases. Political survival depends on a triangular power structure: American mega-donor money ($106M from [[Miriam Adelson|Miriam Adelson]] to Trump alone), Israeli media monopoly (Israel Hayom at 27.4% readership), and U.S. government protection (military aid, UN vetoes, diplomatic immunity). The architect of a governance model where state regulatory power becomes a commodity traded for media coverage and donor enrichment.
 
 ---
 

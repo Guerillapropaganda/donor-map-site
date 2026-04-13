@@ -171,6 +171,16 @@ Republicans frame judicial appointments as "restoring constitutional integrity."
 3. State-level judicial expansion ballot initiatives (Democratic-controlled states)
 4. Preparing judge vetting infrastructure for potential 2028 Democratic administration
 
+### Class Analysis
+
+Demand Justice exists to solve a structural problem for the Democratic donor class: how to control policy outcomes when you cannot reliably win legislative majorities. The answer is judicial capture. By spending $50 million or more through dark money channels to influence who sits on federal courts, the organization ensures that donor-class priorities survive electoral losses. Brian Fallon did not build a grassroots movement. He built a professional warfare operation funded by anonymous wealth, staffed by party insiders, and designed to make judicial appointments function as a substitute for democratic legislation.
+
+The class function is clearest in what Demand Justice does not fight for. The organization spends aggressively on abortion access, voting rights, and court legitimacy messaging. These are cultural flashpoints that mobilize Democratic voters without threatening the wealth concentration that funds the operation. Demand Justice has never mounted a comparable campaign for labor rights, wealth taxation, antitrust enforcement, or any policy that would directly reduce the power of its own donor base. The progressive framing is real. The class boundaries around that framing are equally real.
+
+The Federalist Society comparison reveals the deeper truth. Both organizations claim to defend judicial independence while spending unlimited dark money to ensure partisan outcomes. Both were built by party operatives with direct access to presidential administrations. Both maintain databases of ideologically vetted judicial candidates. The mechanisms are identical. The ideological directions are opposite. The class function is the same on both sides: billionaire-funded infrastructure that converts wealth into judicial power, bypassing the electorate entirely.
+
+Demand Justice's 2021 spin-off from the Sixteen Thirty Fund illustrates how dark money matures. The organization gained its own 501(c)(4) status and separate tax filings, creating the public appearance of independence while maintaining functional integration with the Arabella network. Same donors, same strategy, better optics. This is the institutional lifecycle of donor-class power: build inside an existing vehicle, establish brand recognition, then separate into a nominally independent entity that still serves the original funders. The Democratic Party did not reform dark money. It professionalized it.
+
 ### Sources
 
 - [Demand Justice - InfluenceWatch](https://www.influencewatch.org/organization/demand-justice/) (Tier 3)

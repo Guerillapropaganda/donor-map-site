@@ -1076,6 +1076,27 @@ phase_1_tasks:
       added_adhoc: true
       notes: "Raw bar red, donut tracks red, non-enrichable types skip pipeline warnings, StatsBar text fix, 7 missing type colors, TypeBreakdown filters clutter, VaultGrid defaults to readiness sort, sidebar SVG aria-hidden + focus refetch, revolving door heuristic widened."
 
+    - id: cc_92
+      task: "Write 97 Class Analysis sections (59 politicians + 38 donors/corps)"
+      status: done
+      completed_date: 2026-04-13
+      added_adhoc: true
+      notes: "Key profiles: Trump, Obama, Biden, McConnell, Schumer, AOC, Graham, Cruz, Feinstein, ExxonMobil, Koch, Boeing, Marathon Petroleum, Goldman Sachs, AIPAC, Lockheed Martin, and 80+ more. All grounded in specific dollar amounts and structural mechanisms."
+
+    - id: cc_93
+      task: "Promote ~275 profiles (220 draft->ready + 53 raw->draft)"
+      status: done
+      completed_date: 2026-04-13
+      added_adhoc: true
+      notes: "Systematic promotion via quality gates: Class Analysis present, 2+ source types, enriched, no defamation words outside blockquotes. Three defamation-word fix passes cleaned 197 files. Ready count: 560 -> 762."
+
+    - id: cc_94
+      task: "Relationship engine audit + fix 12,918 edge types + normalize 2,900 asymmetric edges"
+      status: done
+      completed_date: 2026-04-13
+      added_adhoc: true
+      notes: "Think tank edges 0->960, K Street edges 0->449. Bidirectional normalizer added 2,900 mirror edges. Total: 27,504. Per-profile artifact rebuilt."
+
     - id: cc_60
       task: "Phase 3 Part 3: /api/connections GET reads JSONL edge store"
       status: done
@@ -1418,7 +1439,7 @@ parser_guidance:
 
 ---
 
-**Schedule last updated: 2026-04-12 late night (cc_87-91 added: checklist audit+fixes, Feinstein deep dive, central-thesis+bioguide backfill, 12,918 edge type reclassification, 2,900 asymmetric edges normalized, ops polish batch.)**
+**Schedule last updated: 2026-04-13 (cc_92-94 added: 97 Class Analysis sections, ~275 promotions, relationship engine audit+fix.)**
 **Current phase: phase_1 (Day 2 of 7)**
 **Next checkpoint: Phase 1 exit, 2026-04-16**
 **New data sources added 2026-04-11: FDA (pharma/device/food enforcement), OCC (national bank enforcement), FTC (mergers + historical enforcement). All three live in CI + Ops app.**

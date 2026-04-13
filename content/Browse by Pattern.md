@@ -92,7 +92,7 @@ Billionaire candidates framed as uncorruptible because they fund themselves.
 
 - [[_JB Pritzker Master Profile|JB Pritzker]] — Self-funded billionaire governor whose wealth is the structural interest, not the defense against it
 - [[_Tom Steyer Master Profile|Tom Steyer]] — Billionaire "outsider" running on climate who made his fortune in fossil fuel investments
-- [[_Rick Scott Master Profile|Rick Scott]] — Self-funded Senate campaigns from Medicare fraud settlement fortune
+- [[_Rick Scott Master Profile|Rick Scott]] — Self-funded Senate campaigns from Medicare misconduct settlement fortune
 
 ---
 

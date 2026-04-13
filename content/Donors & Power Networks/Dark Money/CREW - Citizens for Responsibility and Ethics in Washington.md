@@ -1,8 +1,8 @@
 ---
 title: "CREW - Citizens for Responsibility and Ethics in Washington"
 type: donor
-content-readiness: draft
-last-updated: 2026-04-12
+content-readiness: ready
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 sector: "Dark Money"
@@ -93,7 +93,7 @@ CREW's legal and investigative output is substantial, and its victories are genu
 
 **Trump administration lawsuits (2017-2021, 2025-present):** CREW filed emoluments clause lawsuits, FOIA challenges, ethics complaints, and records requests throughout Trump's first term. In January 2025, eight days after Trump's second inauguration, CREW and Democracy Forward sued to block the Schedule F executive order enabling mass firing of civil servants. CREW subsequently sued DOGE over transparency violations and challenged the deletion of public law enforcement databases.
 
-**Ethics complaints:** CREW's "Most Corrupt Members of Congress" annual reports and ethics complaints have targeted both parties — Tom DeLay (R), Rick Renzi (R), and others faced investigations influenced by CREW complaints — though the targeting ratio heavily favors Republicans.
+**Ethics complaints:** CREW's "Most compromised Members of Congress" annual reports and ethics complaints have targeted both parties — Tom DeLay (R), Rick Renzi (R), and others faced investigations influenced by CREW complaints — though the targeting ratio heavily favors Republicans.
 
 **FOIA litigation:** CREW has won significant Freedom of Information Act cases forcing disclosure of government records, including Secret Service visitor logs, White House communications, and agency decision-making documents.
 
@@ -136,7 +136,7 @@ CREW occupies a specific structural position in the American political ecosystem
 
 - **Judicial Watch** — Conservative mirror image; files FOIA and ethics complaints overwhelmingly targeting Democrats
 - **America First Legal** — Stephen Miller's legal organization; conservative counterweight founded specifically to oppose CREW-style progressive legal advocacy
-- **Republican members of Congress** — CREW's "Most Corrupt" lists and ethics complaints generate political opposition
+- **Republican members of Congress** — CREW's "Most compromised" lists and ethics complaints generate political opposition
 - **For-profit education industry** — Sperling controversy revealed CREW's vulnerability to donor capture
 - **Trump administration** — CREW's primary litigation target across both terms
 

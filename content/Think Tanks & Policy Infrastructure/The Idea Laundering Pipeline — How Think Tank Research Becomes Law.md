@@ -251,7 +251,7 @@ The documented pipelines above reveal a structural asymmetry between conservativ
 
 The model legislation pipeline reveals the core mechanism of American policy formation: **law is the product of privately funded research, produced by institutions whose funders directly benefit from the policy, implemented by personnel who cycle between the funder's think tanks and the government that enacts the policy.**
 
-This is not corruption in the criminal sense. There are no bribes, no quid pro quos, no illegal exchanges. The system is explicitly designed to be legal — the 501(c)(3) tax exemption, the revolving door norms, the think tank "independence" framing are all structural features that allow private capital to produce public policy while maintaining legal and social legitimacy.
+This is not misconduct in the criminal sense. There are no bribes, no quid pro quos, no illegal exchanges. The system is explicitly designed to be legal — the 501(c)(3) tax exemption, the revolving door norms, the think tank "independence" framing are all structural features that allow private capital to produce public policy while maintaining legal and social legitimacy.
 
 The "independence" of think tanks is the load-bearing fiction. Remove it and Heritage is a policy division of Koch Industries, the Federalist Society is a judicial placement agency for conservative donors, Mercatus is George Mason University's Koch Industries policy shop, and the Hamilton Project is Goldman Sachs's economic policy advisory team. With it, they are "independent research organizations" whose conclusions happen — in every documented case — to match their funders' preferences.
 

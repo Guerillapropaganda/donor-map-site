@@ -1,8 +1,8 @@
 ---
 title: "Gates Foundation"
 type: donor
-content-readiness: draft
-last-updated: 2026-04-09
+content-readiness: ready
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 sector: "Mega-Donors"
@@ -272,7 +272,7 @@ The tax-exempt structure is the foundation of the foundation: every dollar Gates
 |--------|-------|
 | Federal Court Cases | 603 |
 | Courts | Court of Appeals for the D.C. Circuit, Court of Appeals for the Ninth Circuit, District Court, D. Arizona, District Court, D. Delaware, District Court, District of Columbia, District Court, E.D. New York, District Court, N.D. Alabama, District Court, N.D. California +7 more |
-| Case Types | 320 Personal Injury: Assault Libel & Slander, 440 Civil Rights: Other, 442 Civil Rights: Jobs, 470 Racketeer/Corrupt Organization, 890 Other Statutory Actions |
+| Case Types | 320 Personal Injury: Assault Libel & Slander, 440 Civil Rights: Other, 442 Civil Rights: Jobs, 470 Racketeer/compromised Organization, 890 Other Statutory Actions |
 
 **Notable cases:**
 - McCullough v. The Gates Foundation (2026) — District Court, W.D. Washington

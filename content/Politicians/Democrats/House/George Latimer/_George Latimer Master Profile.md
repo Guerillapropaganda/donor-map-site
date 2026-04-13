@@ -2,7 +2,7 @@
 title: "George Latimer Master Profile"
 type: politician
 bioguide-id: "L000606"
-content-readiness: raw
+content-readiness: draft
 last-updated: 2026-04-10
 source-tier: null
 parent: null

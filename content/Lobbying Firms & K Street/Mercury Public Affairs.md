@@ -1,8 +1,8 @@
 ---
 title: "Mercury Public Affairs"
 type: lobbying-firm
-content-readiness: draft
-last-updated: 2026-04-12
+content-readiness: ready
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 annual-revenue: "$25.4M (2025)"
@@ -244,7 +244,7 @@ The Peter Kucik hire is the purest expression of this logic. OFAC sanctions crea
 |--------|-------|
 | Federal Court Cases | 145 |
 | Courts | Court of Appeals for the Second Circuit, District Court, D. Massachusetts, District Court, D. Nevada, District Court, N.D. California, District Court, S.D. New York, District Court, W.D. Virginia, United States Bankruptcy Court, C.D. California, United States Bankruptcy Court, D. Delaware +1 more |
-| Case Types | 470 Racketeer/Corrupt Organization, 890 Other Statutory Actions, Contract: Recovery/Enforcement |
+| Case Types | 470 Racketeer/compromised Organization, 890 Other Statutory Actions, Contract: Recovery/Enforcement |
 
 **Notable cases:**
 - ModivCare Inc. and VRI Intermediate Holdings, LLC (2025) — United States Bankruptcy Court, S.D. Texas

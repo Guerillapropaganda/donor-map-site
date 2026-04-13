@@ -1,8 +1,8 @@
 ---
 title: "Northrop Grumman"
 type: corporation
-content-readiness: draft
-last-updated: 2026-04-12
+content-readiness: ready
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 sector: "Defense & Intelligence"
@@ -235,7 +235,7 @@ Northrop Grumman represents the defense sector's most refined form of structural
 
 **Monopoly as business strategy.** The B-21 and Sentinel are both sole-source contracts — not because Northrop outcompeted rivals, but because rivals withdrew. Boeing exited the Sentinel competition in 2019, leaving Northrop as the only bidder. Once awarded, these contracts become self-perpetuating: no alternative supplier exists, the programs are designated essential to national security, and cost overruns are absorbed rather than penalized. Sentinel's 81% overrun — from $78 billion to $140.9 billion — didn't end the program. It made Northrop more essential, because switching contractors mid-program would cost even more.
 
-**The revolving door is the contract pipeline.** When the Air Force Chief of Staff joins the board of the company that received the largest bomber contract under his watch, the message to current officers is structural: your post-retirement career depends on maintaining these programs. Eighty-five percent of Northrop's lobbyists are former government employees. The company doesn't need to corrupt individuals — the career incentive structure ensures that decision-makers understand who their future employers are.
+**The revolving door is the contract pipeline.** When the Air Force Chief of Staff joins the board of the company that received the largest bomber contract under his watch, the message to current officers is structural: your post-retirement career depends on maintaining these programs. Eighty-five percent of Northrop's lobbyists are former government employees. The company doesn't need to compromised individuals — the career incentive structure ensures that decision-makers understand who their future employers are.
 
 **Bipartisan funding as monopoly insurance.** Northrop's 50/50 partisan split isn't ideological — it's structural insurance for programs that must survive party transitions. The B-21 and Sentinel will span multiple presidencies. Golden Dome will span decades. By funding both parties equally, Northrop ensures that neither party's leadership has incentive to question programs that benefit their donors. The January 6 "pause" — three months of performative restraint followed by resumed contributions to election-denying Republicans — demonstrates the limits of corporate principle when $95.7 billion in backlog is at stake.
 

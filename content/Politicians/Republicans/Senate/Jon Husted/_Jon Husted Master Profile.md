@@ -69,7 +69,7 @@ Husted frames himself as a defender of Ohio jobs and workers while accepting sub
 
 | Date | Donor | Amount | Given | Policy Outcome |
 |------|-------|--------|-------|----------------|
-| 2025-Q3 | [[Centene Corporation]] executives — company paid Ohio $88.3M to settle Medicaid fraud allegations; then donated to senator overseeing Medicaid | $29,000+ from Centene executives | 2025-Q3 | Husted serves on Health, Education, Labor, and Pensions Committee — jurisdiction over Medicaid oversight, the same program Centene defrauded; $88M fraud settlement → $29K investment in oversight committee member |
+| 2025-Q3 | [[Centene Corporation]] executives — company paid Ohio $88.3M to settle Medicaid misconduct allegations; then donated to senator overseeing Medicaid | $29,000+ from Centene executives | 2025-Q3 | Husted serves on Health, Education, Labor, and Pensions Committee — jurisdiction over Medicaid oversight, the same program Centene defrauded; $88M misconduct settlement → $29K investment in oversight committee member |
 | 2025-Q4 | Corporate PACs (~$2M), real estate/development (~$800K), financial services (~$600K) | $4.6M+ from corporate/PAC sources | 2025 ongoing | Business-friendly healthcare, labor, and regulatory policies; deregulation support; reliable corporate vote purchased by aggregate PAC funding |
 
 #### Republican Leadership / Party Infrastructure
@@ -94,7 +94,7 @@ Husted frames himself as a defender of Ohio jobs and workers while accepting sub
 
 **The Genuine Win + Structural Limit** — Husted has secured genuine policy victories on business regulatory relief and tax framework issues that serve his corporate PAC donors. However, these wins are narrowly constructed: relief flows to established corporations (Centene, real estate interests, financial services) while avoiding threats to the wealth extraction mechanisms themselves. His votes on healthcare and labor policy protect corporate donor interests without challenging the structural imbalances his committee jurisdiction oversees.
 
-**The Two-Audience Problem** — Husted frames himself as a "defender of Ohio jobs and workers" while his voting record and donor base are overwhelmingly corporate and regulatory-capture oriented. His donation from Centene (after that company paid $88.3M to settle Medicaid fraud allegations) followed by his committee appointment to oversee Medicaid creates the appearance of quid pro quo service. His public claim about charitable donation of Wexner funds was damage control after his September vote to block Epstein documents revealed the timing problem.
+**The Two-Audience Problem** — Husted frames himself as a "defender of Ohio jobs and workers" while his voting record and donor base are overwhelmingly corporate and regulatory-capture oriented. His donation from Centene (after that company paid $88.3M to settle Medicaid misconduct allegations) followed by his committee appointment to oversee Medicaid creates the appearance of quid pro quo service. His public claim about charitable donation of Wexner funds was damage control after his September vote to block Epstein documents revealed the timing problem.
 
 ---
 

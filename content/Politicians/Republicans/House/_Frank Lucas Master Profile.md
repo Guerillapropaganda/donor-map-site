@@ -186,7 +186,7 @@ Beginning in 2019, Lucas chaired two committees simultaneously:
 - Same donors who funded Lucas's campaigns benefit from his committee votes
 - The money cycles: donor → campaign contribution → committee vote → funding to donor-connected projects
 
-This is not accidental. Lucas was given the Science Committee specifically because his agriculture/energy district needed him to protect energy research funding. The arrangement is clean in form (a congressman chairing a committee related to his industry) and corrupt in substance (using the committee to advance donor interests).
+This is not accidental. Lucas was given the Science Committee specifically because his agriculture/energy district needed him to protect energy research funding. The arrangement is clean in form (a congressman chairing a committee related to his industry) and compromised in substance (using the committee to advance donor interests).
 
 ---
 

@@ -152,7 +152,7 @@ His liabilities: the 2024 election cycle revealed that Republican primary voters
 
 **The Two-Audience Problem** — Youngkin performs as the "citizen governor, not politician" populist anti-establishment outsider to his base, while privately maintaining $370M+ in Carlyle Group stock whose portfolio companies depend directly on Virginia's regulatory environment he controls. The investment portfolio isn't mentioned in electoral messaging; the populist brand is.
 
-**The Villain Framing** — Youngkin consistently blames the "education establishment," "woke bureaucrats," and "leftist schools" as the corrupt external forces destroying education. This deflects from examining his actual material position as a private equity billionaire who benefited from the same system he now claims to oppose. The villain is bureaucratic overreach; the beneficiary (himself and his portfolio companies) remains structurally invisible.
+**The Villain Framing** — Youngkin consistently blames the "education establishment," "woke bureaucrats," and "leftist schools" as the compromised external forces destroying education. This deflects from examining his actual material position as a private equity billionaire who benefited from the same system he now claims to oppose. The villain is bureaucratic overreach; the beneficiary (himself and his portfolio companies) remains structurally invisible.
 
 ---
 

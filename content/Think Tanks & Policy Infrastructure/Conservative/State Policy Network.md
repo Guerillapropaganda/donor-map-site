@@ -1,8 +1,8 @@
 ---
 title: "State Policy Network"
 type: corporation
-content-readiness: draft
-last-updated: 2026-04-10
+content-readiness: ready
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 ein: "570952531"
@@ -233,7 +233,7 @@ SPN is the state-level arm of the conservative donor class's policy apparatus. T
 |--------|-------|
 | Federal Court Cases | 23 |
 | Courts | Court of Appeals for the Fifth Circuit, Court of Appeals for the Sixth Circuit, District Court, D. Puerto Rico, District Court, N.D. California, District Court, S.D. New York, District Court, W.D. Texas |
-| Case Types | 2890 Other Statutory Actions, 2899 Other Statutes, 470 Racketeer/Corrupt Organization, 820 Copyright, 890 Other Statutory Actions |
+| Case Types | 2890 Other Statutory Actions, 2899 Other Statutes, 470 Racketeer/compromised Organization, 820 Copyright, 890 Other Statutory Actions |
 
 **Notable cases:**
 - Sierra Club v. Office of Management and Budget (2025) — District Court, N.D. California

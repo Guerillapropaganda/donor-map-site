@@ -2,9 +2,9 @@
 title: "Susan Collins Master Profile"
 type: politician
 bioguide-id: "C001035"
-content-readiness: draft
+content-readiness: ready
 central-thesis: "Susan Collins has perfected the most profitable brand in the Senate: the reluctant moderate. Her 'careful deliberation' on every major vote generates maximum fundraising pressure from both sides — and she reliably delivers for the donor class ever..."
-last-updated: 2026-04-08
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 party: "Republican"
@@ -123,6 +123,16 @@ $200 million total spending — the most expensive in Maine history:
 > **Dodd-Frank rollback (2018-03-14):** $2M+ from finance sector → voted to raise bank stress-test threshold. The bill passed 67-31 because enough Democrats joined Republicans — Collins's vote was part of a bipartisan donor-class coalition.
 >
 > **Career pharma total:** $440K+ from pharmaceutical industry → opposed Medicare drug pricing negotiation throughout career. The IRA vote in 2022 continues a pattern stretching back to Medicare Part D (2003), when Collins helped ensure the drug pricing prohibition was maintained.
+
+---
+
+## Class Analysis
+
+Susan Collins is a product the donor class purchases at premium. Her "moderate" brand converts reliable corporate service into the appearance of principled independence, and that conversion commands higher prices than any openly partisan vote. Career fundraising: $36.4 million. Corporate PACs: $5.7 million, more than any senator in Maine history. Insurance industry: $1.17 million. Pharmaceutical industry: $440,000. Securities and investment: over $1 million. Private equity: $500,000+ in 2020 alone, more than any senator that cycle. 95% of her 2020 money came from outside Maine.
+
+The Schwarzman sequence is the clearest donor-to-policy pipeline in Collins's record. Stephen Schwarzman gave $2 million to a Collins-aligned super PAC on June 27, 2017. Collins voted for the tax bill on June 28. The carried interest amendment that would have closed the private equity tax loophole was dropped. That is a 24-hour turnaround from donation to policy outcome. The Kavanaugh confirmation followed the same logic at larger scale: Collins delivered the deciding vote, then collected $1.8 million in Q4 2018 from national conservatives. Only $19,000 of the $900,000 in individual donations came from Maine.
+
+Collins does not represent Maine voters. She represents the national corporate donor network that pays a premium for a vote that looks like deliberation. Maine provides the seat. Wall Street provides the money. The policy serves Wall Street. The "moderate" brand is the packaging that makes this arrangement sustainable. Every time Collins says "I'm concerned," both sides increase their bids. She has never once sustained that concern through a vote that cost the donor class money.
 
 ---
 

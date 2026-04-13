@@ -83,7 +83,7 @@ Scalise's donor-class function is to serve as the fossil fuel industry's highest
 | Date | Event/Contribution | Amount | Policy Action | Time Gap |
 |------|-------------------|--------|---------------|----------|
 | 2008-2014 | Oil and gas PAC contributions as Energy Committee member | Ongoing | Sponsored legislation to strip EPA authority to regulate greenhouse gases under Clean Air Act | Concurrent |
-| 2009-12 | EPA endangerment finding on CO2 | — | Scalise attacked finding as based on "Climate Gate's corrupt science," pushed to overturn | 0 months |
+| 2009-12 | EPA endangerment finding on CO2 | — | Scalise attacked finding as based on "Climate Gate's compromised science," pushed to overturn | 0 months |
 | 2012 | Energy industry support | Ongoing | Led passage of RESTORE Act (BP oil spill fines to coastal restoration — rare bipartisan win that also protected energy industry's social license to operate in Gulf) | Concurrent |
 | 2014-2019 | Elevated to House Majority Whip | — | Used whip position to block climate legislation, ensure energy votes held in line | Concurrent |
 | 2019-2023 | Continued oil/gas PAC support as Minority Whip | Ongoing | Blocked Democratic climate provisions, opposed Clean Power Plan implementation | Concurrent |
@@ -98,14 +98,14 @@ Scalise's donor-class function is to serve as the fossil fuel industry's highest
 ### Energy & Fossil Fuels (Core Function):
 - Introduced H.R. 1, the Lower Energy Costs Act — repeals methane emissions fee, eliminates "green bank" for low-carbon projects, guts EPA regulatory authority, fast-tracks fossil fuel permitting
 - Co-sponsored legislation to strip EPA authority to regulate greenhouse gases under the Clean Air Act
-- Attacked EPA's CO2 endangerment finding as based on "corrupt science"
+- Attacked EPA's CO2 endangerment finding as based on "compromised science"
 - Championed offshore oil and gas leasing expansion
 - Led passage of RESTORE Act (2012) — directed BP oil spill fines to coastal restoration, a bipartisan win that also served to maintain industry's social license in the Gulf
 - Introduced GAS Act to lower gas prices through expanded domestic production
 - Frames all climate policy as "radical anti-American energy agenda"
 
 ### Climate Denial & Obstruction:
-- Called EPA's CO2 endangerment finding based on "Climate Gate's corrupt science"
+- Called EPA's CO2 endangerment finding based on "Climate Gate's compromised science"
 - Accused Democrats of "climate hypocrisy" while representing one of America's most polluted industrial corridors
 - Argued Biden's climate agenda lacks "real science" — promoting "political science" instead
 - Consistently voted against renewable energy incentives and emissions reduction measures

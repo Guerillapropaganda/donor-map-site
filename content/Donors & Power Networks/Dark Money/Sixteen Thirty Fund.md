@@ -166,6 +166,16 @@ Republicans have launched formal investigations (James Comer Oversight Committee
 - **Senate competitive races** (pop-up state groups dissolving post-election)
 - **Democratic Party establishment coordination** ([[Democracy Alliance|Democracy Alliance]], DCCC, DNC messaging alignment)
 
+### Class Analysis
+
+The Sixteen Thirty Fund is the clearest example of how the Democratic donor class solved its dark money problem: not by abolishing it, but by building the most sophisticated anonymous spending apparatus in American politics. With $311 million deployed in 2024 alone and zero donor disclosure requirements, the Fund allows wealthy Democrats to shape elections, judicial appointments, and ballot measures while remaining permanently invisible. This is not a bug in the system. It is the system, designed by Arabella Advisors and operated as integrated party infrastructure.
+
+The fiscal sponsorship model reveals the class architecture. When a billionaire writes a $100 million check to Sixteen Thirty, Arabella creates temporary organizations in competitive states, routes funds through multiple layers, runs ads for a single election cycle, then dissolves the entities before any accountability mechanism can attach. The pop-up groups, Piedmont Rising, Advancing Arizona, Maine Momentum, exist for months and spend millions. The voter who sees the ads has no mechanism to trace the money back to its source. This is not accidental opacity. It is engineered anonymity serving the donor class.
+
+The 2026 Texas Senate primary exposed the contradiction at the heart of the operation. James Talarico ran as the working-class candidate against corporate Democrats while his campaign was built on $4 million in anonymous Sixteen Thirty money routed through two layers of PACs. Populist rhetoric funded by plutocratic infrastructure. This is the structural pattern: the Fund bankrolls candidates who campaign against the very system that finances them. The donors remain hidden. The rhetoric remains progressive. The class interests remain untouched.
+
+What makes Sixteen Thirty distinctive is not the scale of spending but the permanence of the infrastructure. Unlike single-candidate campaign committees that dissolve between cycles, the Arabella network operates continuously. Staff stays. Relationships persist. Only the temporary front groups rotate. The Democratic Party did not just adopt dark money tactics it once condemned. It built a permanent institution to deploy them, one that now exceeds the spending capacity of its Republican counterpart at DonorsTrust. The party that campaigned to overturn Citizens United now operates the most effective Citizens United-enabled spending machine in politics.
+
 ### Sources
 
 - [OpenSecrets: Sixteen Thirty Fund Profile](https://www.opensecrets.org/orgs/sixteen-thirty-fund/summary?id=D000070975) (Tier 1)

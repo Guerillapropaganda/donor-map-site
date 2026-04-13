@@ -109,7 +109,7 @@ The Center for Public Integrity documented that Graham collects among the highes
 | Date | Money In | Amount | Policy Out | Time Gap |
 |------|----------|--------|------------|----------|
 | 2018-09 | MAGA small-dollar donors (viral Kavanaugh rage performance) | $1M+ post-hearing surge; SC approval 51% → 72% | Voted to confirm Kavanaugh; completed McCain-to-Trump pivot; became Trump's chief Senate defender | 3 days (hearing to fundraising spike) |
-| 2020-Q3 | National conservative donors (Fox News plea, MAGA pipeline) | $28M single quarter (GOP Senate record) | Complete Trump loyalty: impeachment defense, election fraud enablement, judicial pipeline support | Ongoing — loyalty maintained by funding |
+| 2020-Q3 | National conservative donors (Fox News plea, MAGA pipeline) | $28M single quarter (GOP Senate record) | Complete Trump loyalty: impeachment defense, election irregularities enablement, judicial pipeline support | Ongoing — loyalty maintained by funding |
 | 2020 | Out-of-state donors (90% of total) | $70M+ total raised | Most expensive SC Senate race in history; Graham spent $73/vote; Harrison $118/vote. Seat retained. | Same cycle |
 
 #### Finance / Wall Street

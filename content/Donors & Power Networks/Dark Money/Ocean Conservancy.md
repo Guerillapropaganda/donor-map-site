@@ -1,7 +1,7 @@
 ---
 title: "Ocean Conservancy"
 type: donor
-content-readiness: draft
+content-readiness: ready
 last-updated: 2026-04-13
 source-tier: 2
 parent: null

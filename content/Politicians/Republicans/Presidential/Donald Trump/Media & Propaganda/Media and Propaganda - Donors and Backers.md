@@ -36,7 +36,7 @@ Fox News coverage of Trump in 2024 was substantial, with 10.3 million viewers on
 
 Murdoch's $2 million to the Senate Leadership Fund (October 2024) was his only major federal political contribution of the cycle. This reflects his preferred mode of political influence: media control rather than direct campaign donations. Media ownership is the larger asset. Control of the outlet is more powerful than donations to candidates within it.
 
-The 2023 Dominion defamation settlement required Fox to pay $787.5 million for broadcasting false election fraud claims. Yet the settlement imposed no requirement that Fox apologize or change its editorial practices. The network paid. The people responsible faced no consequences. The coverage continued. The structure remained intact.
+The 2023 Dominion defamation settlement required Fox to pay $787.5 million for broadcasting false election irregularities claims. Yet the settlement imposed no requirement that Fox apologize or change its editorial practices. The network paid. The people responsible faced no consequences. The coverage continued. The structure remained intact.
 
 Sources:
 - [NBC News: Fox News settles Dominion defamation lawsuit](https://www.nbcnews.com/media/fox-news-settles-dominion-defamation-lawsuit-rcna80285) (Tier 2)

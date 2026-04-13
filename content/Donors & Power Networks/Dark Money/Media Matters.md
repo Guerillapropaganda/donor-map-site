@@ -1,8 +1,8 @@
 ---
 title: "Media Matters"
 type: donor
-content-readiness: draft
-last-updated: 2026-04-12
+content-readiness: ready
+last-updated: 2026-04-13
 source-tier: 2
 parent: null
 sector: "Dark Money"
@@ -103,7 +103,7 @@ Media Matters runs repeated advertiser-pressure campaigns against Fox News comme
 
 ### 2020-2024 Impact:
 During Trump's presidency (2017-2021) and subsequent 2020-2024 period, Media Matters documented:
-- Coordinated false statements from Fox News about election fraud, COVID-19, and Trump investigations
+- Coordinated false statements from Fox News about election irregularities, COVID-19, and Trump investigations
 - Pre-coordination between Trump campaign and Fox News on talking points
 - Circulation of QAnon and other fringe conspiracy theories through Fox News to mainstream audiences
 

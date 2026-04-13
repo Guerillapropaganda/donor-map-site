@@ -1,8 +1,8 @@
 ---
 title: "BGR Group"
 type: lobbying-firm
-content-readiness: draft
-last-updated: 2026-04-12
+content-readiness: ready
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 annual-revenue: "$71.5M"
@@ -293,7 +293,7 @@ BGR's 58% revenue surge in Trump's first year of his second term is the monetary
 |--------|-------|
 | Federal Court Cases | 20 |
 | Courts | District Court, D. Maryland, District Court, D. Nevada, District Court, District of Columbia, District Court, E.D. Texas, District Court, E.D. Virginia, District Court, N.D. California, District Court, N.D. Texas, District Court, S.D. Mississippi +3 more |
-| Case Types | 12 Recovery of money/property - 547 preference; 13 Recovery of money/property - 548 fraudulent transfer; 14 Recovery of money/property - other, 190 Contract: Other, 320 Assault Libel & Slander, 470 Racketeer/Corrupt Organization, 895 Freedom of Information Act |
+| Case Types | 12 Recovery of money/property - 547 preference; 13 Recovery of money/property - 548 deceptive transfer; 14 Recovery of money/property - other, 190 Contract: Other, 320 Assault Libel & Slander, 470 Racketeer/compromised Organization, 895 Freedom of Information Act |
 
 **Notable cases:**
 - Yellow Corporation (2023) — United States Bankruptcy Court, D. Delaware

@@ -151,7 +151,7 @@ Galloway's consistent positions across all platforms and political periods:
 ### Editorial red lines (Press TV/RT phases):
 - Cannot criticize Iranian foreign policy (Hezbollah, Hamas, axis of resistance) with the analytical lens applied to Western powers
 - Cannot criticize Russian foreign policy, Kremlin, or military actions with the same framework applied to NATO
-- Cannot challenge the framing that Western corporate media is uniquely corrupt while RT/Press TV are "independent"
+- Cannot challenge the framing that Western corporate media is uniquely compromised while RT/Press TV are "independent"
 - Cannot cover Skripal, Crimea, or Ukrainian sovereignty without reproducing Russian state narrative alignment
 
 **The Independence Theater pattern (foreign state variant):** Galloway's media positioning — "independent" from corporate advertisers, funded by foreign states — is the British version of Lee Camp's U.S. case. The independence from corporate media is real. The dependency on state actors with documented information warfare programs is also real. The two facts coexist: Galloway delivered genuine class analysis on behalf of infrastructure whose interest in that analysis was the anti-institutional disruption it created in Western audiences.

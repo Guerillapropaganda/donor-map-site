@@ -125,7 +125,7 @@ Specific contract awards, amounts, and dates are not publicly disclosed. The com
 
 The class function of Valinor is legible from its structure alone.
 
-The Thiel network builds defense companies. The Thiel network funds politicians who become defense policymakers. The defense policymakers' investment funds invest in the defense companies. The defense companies secure government contracts from the agencies the policymakers oversee. Each transaction is legal. Each relationship is disclosed somewhere. The system works because no single transaction looks corrupt. The corruption is the system.
+The Thiel network builds defense companies. The Thiel network funds politicians who become defense policymakers. The defense policymakers' investment funds invest in the defense companies. The defense companies secure government contracts from the agencies the policymakers oversee. Each transaction is legal. Each relationship is disclosed somewhere. The system works because no single transaction looks compromised. The misconduct is the system.
 
 > [!note] Genuine Win + Structural Limit
 > Valinor's products may genuinely serve national security needs. The modular medical systems, the unmanned aerial systems, the secure data tools. These may be good products. The structural question is not whether the products work. The structural question is whether the VP's venture fund should be investing in defense contractors while the VP shapes defense policy. The genuine utility of the products is the cover for the structural conflict.

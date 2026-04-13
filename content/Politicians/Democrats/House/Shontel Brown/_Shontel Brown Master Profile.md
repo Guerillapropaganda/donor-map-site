@@ -1,7 +1,7 @@
 ---
 title: "Shontel Brown Master Profile"
 type: politician
-content-readiness: raw
+content-readiness: draft
 last-updated: 2026-04-10
 source-tier: null
 parent: null

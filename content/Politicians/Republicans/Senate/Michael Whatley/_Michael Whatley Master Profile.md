@@ -92,7 +92,7 @@ Whatley employs Trump-aligned populist anti-establishment rhetoric combined with
 
 ## Analytical Patterns
 
-**The Villain Framing** — Whatley frames "election integrity" and voter restriction as fighting a corrupt system rather than as mechanisms to reduce Democratic turnout. He attributes voting access problems to "fraud" and "chaos" rather than engaging with evidence that voter ID requirements and mail-in ballot restrictions reduce turnout in Democratic-leaning communities. This reframing allows him to pursue voter suppression while claiming to defend fairness—a classic villain framing that externalizes the actual harm his policies create.
+**The Villain Framing** — Whatley frames "election integrity" and voter restriction as fighting a compromised system rather than as mechanisms to reduce Democratic turnout. He attributes voting access problems to "fraud" and "chaos" rather than engaging with evidence that voter ID requirements and mail-in ballot restrictions reduce turnout in Democratic-leaning communities. This reframing allows him to pursue voter suppression while claiming to defend fairness—a classic villain framing that externalizes the actual harm his policies create.
 
 **The Two-Audience Problem** — Whatley campaigns as a Trump-aligned "America First" energy independence candidate while his decades-long career was spent advocating for offshore drilling expansion and deregulation benefiting foreign oil companies (BP, Shell, Exxon). He uses populist anti-establishment language while being the definition of revolving-door establishment—the human mechanism for converting fossil fuel industry money into Republican Party policy.
 

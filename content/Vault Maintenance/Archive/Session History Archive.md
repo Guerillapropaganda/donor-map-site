@@ -2767,7 +2767,7 @@ Top donor quid pro quo timelines:
  - Identified only 3 profiles that genuinely lacked temporal mapping tables
 
 - **New temporal mapping tables added (3 profiles):**
- 1. **[[_Jon Husted Master Profile|Jon Husted]]** — 8 entries. Key sequences: Wexner $116K lifetime → Epstein file blocking vote (July-September 2025); Centene $29K after $88.3M Medicaid fraud settlement → HELP Committee oversight of Medicaid. Sources: Snopes, Ohio Capital Journal, Heartland Signal.
+ 1. **[[_Jon Husted Master Profile|Jon Husted]]** — 8 entries. Key sequences: Wexner $116K lifetime → Epstein file blocking vote (July-September 2025); Centene $29K after $88.3M Medicaid misconduct settlement → HELP Committee oversight of Medicaid. Sources: Snopes, Ohio Capital Journal, Heartland Signal.
  2. **[[_Abdul El-Sayed Master Profile|Abdul El-Sayed]]** — 8 entries. Key sequences: Sanders endorsement → $24K/day small-dollar fundraising; no-PAC pledge creating 3:1 structural funding disadvantage vs. McMorrow ($1.8M vs. $5M+); 2018 gubernatorial 340K votes as proof-of-concept for anti-donor-class politics. Sources: Newsweek, Common Dreams, FEC.
  3. **Graham Platner** — 8 entries. Key sequences: Sanders endorsement → $1M in 9 days; $4.6M Q4 from 80K donors averaging $33 vs. Mills' $2.7M from DSCC/leadership PACs; small-dollar model outperforming institutional machinery (polling 48% vs. 36%). Sources: Axios, Maine Public, Common Dreams, Maine Morning Star.
 
@@ -3828,7 +3828,7 @@ Built complete investigation file at `/topics/Stories/Contradiction Deep Dives/C
 - **File created: Contradiction 08 - Koch vs Soros Mirror Image Dark Money Machines.md**
  - Location: `/topics/Stories/Contradiction Deep Dives/Contradiction 08 - Koch vs Soros Mirror Image Dark Money Machines.md`
  - Structure: 7 main sections (The Performed Opposition, The Receipts, The Mirror Structure, The Democrats' Dark Money Hypocrisy, The Pop-Up Group Model, The Class Analysis) + Sources + Footer
- - **The Performed Opposition** — Koch condemns Soros-backed operations; Soros networks condemn Koch dark money; Democratic politicians funded by Soros condemn Koch; Republican politicians funded by Koch condemn Soros; contradiction identification: both use identical structures while framing each other as uniquely corrupt
+ - **The Performed Opposition** — Koch condemns Soros-backed operations; Soros networks condemn Koch dark money; Democratic politicians funded by Soros condemn Koch; Republican politicians funded by Koch condemn Soros; contradiction identification: both use identical structures while framing each other as uniquely compromised
  - **The Receipts** — 10-row comparison table (501c4 vehicles, annual spending, donor disclosure required, stated position on dark money, actual practice, pop-up organization count); side-by-side Koch vs. Soros/Arabella specifics
  - **The Mirror Structure** — Four-step hierarchy analysis: (1) Funding Vehicle (both 501c4s with zero donor disclosure, 49.9% political activity allowance), (2) Pass-Through Mechanism (Koch: AFP → AFP Action; Soros: S30 → state/local groups; both launder donor identity), (3) LLC/Consultancy Opacity Layer (Koch uses 1888 Feeder LLC; Soros uses Arabella Advisors for-profit management), (4) Branded Surface (Koch: permanent branded entities; Soros: temporary pop-ups)
  - **The Democrats' Dark Money Hypocrisy** — Public 2010–2015 record: Democrats opposed Citizens United, condemned dark money; actual 2016–2024 practice: $1.5B+ dark money spending, outspent Republicans; "unilateral disarmament" justification documented; Kevin McLaughlin quote; failure to legislate any restriction despite Democratic control 2021–2025
@@ -16765,7 +16765,7 @@ Raw donor node backlog: 91 → 18 raw donor nodes remaining (73 raw politician p
 
 ### Gregory Meeks (Foreign Affairs Ranking Member):
 - $523,000+ career from AIPAC and pro-Israel groups; 75.37% PAC funding; 1.16% small donors
-- CREW "Most Corrupt" (2011): undisclosed $40K gift, $170K+ below-market home, Azerbaijan SOCAR travel
+- CREW "Most compromised" (2011): undisclosed $40K gift, $170K+ below-market home, Azerbaijan SOCAR travel
 - KKR pop-up PAC: defend PE at hearing → collect $111,400 → dissolve PAC
 - Pattern: Two-Audience Problem (Israel); Donor-Class Override (private equity); ethics pipeline
 

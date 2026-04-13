@@ -144,6 +144,16 @@ Raskin is the constitutional scholar who became the Democratic Party's anti-corr
 
 ---
 
+## Class Analysis
+
+Jamie Raskin is a Harvard-educated constitutional law professor from Montgomery County, Maryland, one of the wealthiest counties in America. His district is the professional-class suburban corridor outside Washington, D.C. His donor base reflects this precisely: 46% of his funding comes from large individual contributions, concentrated among lawyers, professors, doctors, and consultants. His PAC dependency is genuinely low at 9.87%, and his 36% small-donor rate shows real grassroots support. But the dominant funding source is the credentialed professional class whose interests align structurally with the institutional protections, regulatory frameworks, and constitutional norms Raskin champions.
+
+This is not corporate capture. It is class alignment. The professional class needs stable institutions, enforceable property rights, functional courts, and regulatory frameworks that protect credentialed expertise. Raskin delivers all of this. His constitutional advocacy is genuine. The impeachment leadership was real, conducted weeks after his son Tommy's death. The January 6th investigation produced real evidence and real referrals. His campaign finance reform bills are sincerely held positions. But those reform bills have no realistic path to passage, which means Raskin maintains the anti-dark-money brand without threatening the professional-class fundraising structure that sustains a $5.9 million war chest. He critiques the system while winning within it at a high level of sophistication.
+
+The Sarah Bloom Raskin entanglement sharpens the analysis. Raskin's wife served as Federal Reserve Deputy Secretary and Maryland Commissioner of Financial Regulation. After leaving government, she took a position with Reserve Trust, a Colorado fintech company, receiving a $1.5 million stock payout. Jamie Raskin delayed disclosing this compensation by eight months, triggering an ethics complaint. As Judiciary Ranking Member, Raskin has jurisdiction over fintech regulation. His wife profited directly from the sector he oversees. When Sarah Bloom Raskin was nominated for Federal Reserve Vice Chair for Supervision in 2022, the nomination was withdrawn after bipartisan scrutiny. The revolving door operates through family rather than staff: regulatory expertise developed in government, monetized in the private sector, with legislative oversight in the same household. No evidence his positions were compromised. But the structural conflict is the exact pattern this vault documents across both parties.
+
+---
+
 ## Analytical Patterns
 
 **Two-Audience Problem:** Raskin's public brand is the anti-corruption constitutional scholar fighting dark money and corporate power. His fundraising reality is a $5.9M war chest funded primarily by large individual contributions from professional-class donors. He preaches campaign finance reform while maximizing individual fundraising within legal limits. His leadership PAC operates within the same system he publicly critiques.

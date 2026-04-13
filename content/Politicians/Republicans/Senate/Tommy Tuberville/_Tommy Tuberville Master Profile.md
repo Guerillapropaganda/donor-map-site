@@ -1,9 +1,9 @@
 ---
 title: "Tommy Tuberville Master Profile"
 type: politician
-content-readiness: draft
+content-readiness: ready
 central-thesis: "Tommy Tuberville demonstrates that the donor class doesn't need competent politicians — it needs compliant ones. His ignorance of basic governance (named the three branches of government as 'the House, the Senate, and the executive'; described D-D..."
-last-updated: 2026-04-10
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 party: "Republican"
@@ -105,6 +105,16 @@ Tuberville's political career is the purest expression of celebrity candidacy in
 
 > [!quote]
 > "My dad fought in World War II... he helped liberate Paris from socialism and communism." — Tuberville, November 2020. The Allies liberated France from Nazi fascism, not socialism.
+
+---
+
+## Class Analysis
+
+Tommy Tuberville is the donor class's proof of concept that ignorance is not a disqualification for office. It is a qualification. A senator who named the three branches of government as "the House, the Senate, and the executive" cannot audit what his committee votes produce. A senator who described D-Day as liberating France from "socialism and communism" will not question the policy frameworks his donors draft. The ignorance is the feature. It ensures compliance without the friction of understanding.
+
+The class mechanism is committee-seat extraction. Tuberville sits on Armed Services and Agriculture, two of the most lucrative regulatory positions in the Senate. From Armed Services, he traded defense stocks (130+ STOCK Act violations, up to $3.56M in undisclosed trades, zero enforcement) while receiving donations from the defense contractors whose personnel promotions he was blocking. The military promotion blockade, framed as a pro-life stand, left Pacific Fleet, Pacific Air Forces, and Cyber Command without confirmed leaders for 10 months. The blockade created leverage. The defense contractors paid for the leverage. The pro-life framing provided cover for what was structurally a hostage-taking of the senior military leadership.
+
+Alabama is the fifth-poorest state in America. 46th in healthcare, 48th in education. Tuberville opposes the social safety net programs that keep his constituents solvent while collecting defense contractor donations and trading their stocks from a position of regulatory authority. The voters delivered the seat. The donors collect the rent. The gap between Alabama's poverty and Tuberville's portfolio is the class transfer in its most transparent form: a state too poor to hold its senator accountable elects a man too ignorant to hold his donors accountable, and the donors extract value from both.
 
 ---
 

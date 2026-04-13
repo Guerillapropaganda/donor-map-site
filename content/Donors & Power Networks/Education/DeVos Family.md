@@ -248,7 +248,7 @@ The DeVos family represents the clearest case in the vault of a donor openly ack
 |--------|-------|
 | Federal Court Cases | 24 |
 | Courts | Court of Appeals for the Ninth Circuit, District Court, D. Montana, District Court, N.D. California, District Court, N.D. Florida, District Court, S.D. New York, District Court, W.D. Texas |
-| Case Types | 440 Civil Rights: Other, 441 Civil Rights: Voting, 470 Racketeer/Corrupt Organization, 820 Copyright |
+| Case Types | 440 Civil Rights: Other, 441 Civil Rights: Voting, 470 Racketeer/compromised Organization, 820 Copyright |
 
 **Notable cases:**
 - The Center for Investigative Reporting, Inc. v. OpenAI, Inc. (2024) — District Court, S.D. New York

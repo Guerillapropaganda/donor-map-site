@@ -265,7 +265,7 @@ AbbVie filed 132 patents on Humira — covering the drug itself, the delivery de
 |--------|-------|
 | Federal Court Cases | 12,951 |
 | Courts | District Court, C.D. California, District Court, D. New Jersey, District Court, D. Oregon, District Court, D. Puerto Rico, District Court, D. Rhode Island, District Court, District of Columbia, District Court, N.D. Illinois, District Court, S.D. Florida +2 more |
-| Case Types | 446 Civil Rights: Americans with Disabilities - Other, 470 Racketeer/Corrupt Organization, 890 Other Statutory Actions, 899 Administrative Procedure Act/Review or Appeal of Agency Decision, 950 Constitutional - State Statute |
+| Case Types | 446 Civil Rights: Americans with Disabilities - Other, 470 Racketeer/compromised Organization, 890 Other Statutory Actions, 899 Administrative Procedure Act/Review or Appeal of Agency Decision, 950 Constitutional - State Statute |
 
 **Notable cases:**
 - ABBVIE INC. v. KENNEDY (2026) — District Court, District of Columbia

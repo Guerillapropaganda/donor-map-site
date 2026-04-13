@@ -37,6 +37,18 @@ Climate philanthropy contains a class contradiction: billionaires whose fortunes
 
 ---
 
+## Class Analysis
+
+Climate philanthropy is the donor class solving its own problem on its own terms. Tom Steyer built a $1.6 billion fortune at Farallon Capital, a hedge fund that invested heavily in coal mines, private prisons, and fossil fuel extraction across three continents. His $300M+ in political spending since 2014 buys him the title of environmental champion while the fortune that funds it was extracted from the same carbon economy he now opposes. Michael Bloomberg's $750M+ in climate philanthropy flows from a $106 billion fortune built on financial data terminals that serve the banks, hedge funds, and commodity traders financing fossil fuel companies globally. The green billionaires did not earn their money fighting climate change. They earned it participating in the system that caused it.
+
+The policy preferences reveal the class interest. Steyer, Bloomberg, and the Hewlett Foundation ($600M+ in climate grants through ClimateWorks) consistently back market-based solutions: cap-and-trade, carbon markets, EV subsidies, renewable energy tax credits. These mechanisms create new investment opportunities for the same capital class that profited from fossil fuels. A carbon market is a financial instrument. EV subsidies are corporate transfers. Renewable energy tax credits are investor incentives. None of these tools redistribute wealth, regulate corporate behavior, or impose costs on the donor class itself. The green billionaires fund the climate solutions that preserve the economic structures generating their fortunes.
+
+The $200-500M per election cycle flowing through intermediaries like the New Venture Fund, Sixteen Thirty Fund, and League of Conservation Voters performs the same anonymizing function as conservative dark money networks. Billionaire climate donors route funds through 501(c)(4) organizations that aggregate and distribute contributions without disclosing original sources. The League of Conservation Voters' political spending is functionally indistinguishable from Koch network spending in its structural opacity. Both sides of the donor class use identical dark money infrastructure while each accuses the other of corruption.
+
+The structural contradiction is permanent: the billionaire class cannot fund the dismantling of the economic system that made them billionaires. Climate philanthropy ensures that climate policy remains compatible with concentrated wealth. Cap-and-trade instead of regulation. Subsidies instead of bans. Voluntary commitments instead of mandates. The green billionaires are not trying to save the planet from capitalism. They are trying to save capitalism from the planet, and they are spending $200-500M per cycle to make sure the rescue happens on their terms.
+
+---
+
 ### Sources
 
 - [FEC Receipts: Environmental group spending](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1)

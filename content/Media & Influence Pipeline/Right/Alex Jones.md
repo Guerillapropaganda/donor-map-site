@@ -94,7 +94,7 @@ A PBS Frontline investigation documented that Trump campaign messaging directly 
 Jones's platform served as a promotional medium for militia groups. He hosted Oath Keepers leaders (including Stewart Rhodes), Proud Boys leaders (Enrique Tarrio), and presented armed militia presence as a necessary response to government tyranny. This content functioned as recruitment messaging for paramilitary organizations.
 
 ### Institutional distrust amplification (ongoing):
-Jones's core content function was to undermine trust in every institutional category: mainstream media, government agencies, scientific consensus, courts, electoral systems. This messaging served the donor-class interest (whoever funds Jones) by making institutional accountability mechanisms appear illegitimate and corrupt.
+Jones's core content function was to undermine trust in every institutional category: mainstream media, government agencies, scientific consensus, courts, electoral systems. This messaging served the donor-class interest (whoever funds Jones) by making institutional accountability mechanisms appear illegitimate and compromised.
 
 ### Sandy Hook denial (2012-2018):
 Jones promoted conspiracy theories claiming the Sandy Hook Elementary School shooting was a "false flag" and that victims' families were "crisis actors." This was the basis for $1.4 billion in defamation judgments against Jones.

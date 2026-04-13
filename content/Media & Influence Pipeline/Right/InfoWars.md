@@ -130,7 +130,7 @@ Since InfoWars had no institutional backers, the question reframes to: **what di
 
 ### For the Trump campaign (2016):
 - Direct access to millions of engaged voters via Roger Stone's InfoWars platform
-- Content that echoed and amplified Trump's campaign messaging (immigration, government corruption, electoral fraud)
+- Content that echoed and amplified Trump's campaign messaging (immigration, government misconduct, electoral fraud)
 - Plausible deniability — Trump could promote InfoWars narratives while claiming independence from them
 
 ### For Roger Stone:

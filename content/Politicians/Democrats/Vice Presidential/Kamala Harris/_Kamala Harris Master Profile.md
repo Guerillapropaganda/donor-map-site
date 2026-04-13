@@ -53,7 +53,7 @@ The California pipeline: DA → AG → Senator → VP → presidential nominee. 
 
 Harris is the California donor-class Democrat at the national level. Newsom is the state version; Harris is the federal expression of the same model. Raised $2.3 billion in the most expensive losing campaign in history, backed by Soros ($60M), Bloomberg ($50M), Gates ($50M), Hoffman ($16.6M), and 28+ billionaires — yet lost because the working class that every union institution endorsed her to represent voted for Trump (Teamster rank-and-file: 60% Trump, 34% Harris).
 
-Her career arc — prosecutor who declined to charge bank fraud, Senator who co-sponsored then abandoned Medicare for All, VP who delivered infrastructure wins but no structural labor reform — demonstrates the donor-class Democrat's operating model: genuine wins where they don't threaten capital, reliable accommodation where they do.
+Her career arc — prosecutor who declined to charge bank misconduct, Senator who co-sponsored then abandoned Medicare for All, VP who delivered infrastructure wins but no structural labor reform — demonstrates the donor-class Democrat's operating model: genuine wins where they don't threaten capital, reliable accommodation where they do.
 
 ---
 

@@ -1,8 +1,8 @@
 ---
 title: "Timothy Mellon"
 type: donor
-content-readiness: draft
-last-updated: 2026-04-12
+content-readiness: ready
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 sector: "Mega-Donors"
@@ -301,7 +301,7 @@ Sources: [NOTUS: Mellon-RFK-Trump donor](https://www.notus.org/2024-election/tim
 |--------|-------|
 | Federal Court Cases | 16 |
 | Courts | District Court, C.D. California, District Court, D. Connecticut, District Court, D. Delaware, District Court, D. Maine, District Court, D. Wyoming, District Court, District of Columbia, District Court, S.D. New York, District Court, W.D. North Carolina +5 more |
-| Case Types | (91 (Declaratory judgment)),(81 (Subordination of claim or interest)),(21 (Validity, priority or extent of lien or other interest in property)),(72 (Injunctive relief - other))(STILLEY, THOMAS) (Entered: 08/01/2014), 470 Racketeer/Corrupt Organization, 820 Copyright, 840 Trademark, 890 Other Statutory Actions |
+| Case Types | (91 (Declaratory judgment)),(81 (Subordination of claim or interest)),(21 (Validity, priority or extent of lien or other interest in property)),(72 (Injunctive relief - other))(STILLEY, THOMAS) (Entered: 08/01/2014), 470 Racketeer/compromised Organization, 820 Copyright, 840 Trademark, 890 Other Statutory Actions |
 
 **Notable cases:**
 - Jackson v. Musk (2025) — District Court, W.D. Texas

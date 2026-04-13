@@ -1,7 +1,7 @@
 ---
 title: "Brad Garlinghouse"
 type: donor
-content-readiness: raw
+content-readiness: draft
 last-updated: 2026-04-10
 source-tier: null
 parent: null
@@ -84,7 +84,7 @@ Source: [[Fairshake PAC]] vault entry.
 |--------|-------|
 | Federal Court Cases | 32 |
 | Courts | Court of Appeals for the Second Circuit, District Court, D. Oregon, District Court, D. South Carolina, District Court, E.D. New York, District Court, N.D. California, District Court, S.D. Florida, District Court, S.D. New York, District Court, W.D. Oklahoma |
-| Case Types | 190 Contract: Other, 470 Racketeer/Corrupt Organization, 820 Copyright, 850 Securities/Commodities, 899 Other Statutes: Administrative Procedures Act/Review or Appeal of Agency Decision |
+| Case Types | 190 Contract: Other, 470 Racketeer/compromised Organization, 820 Copyright, 850 Securities/Commodities, 899 Other Statutes: Administrative Procedures Act/Review or Appeal of Agency Decision |
 
 **Notable cases:**
 - Patrzalek v. Finance Cartel The (2025) — District Court, W.D. Oklahoma

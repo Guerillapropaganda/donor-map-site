@@ -151,7 +151,7 @@ The DOJ investigated beginning in 2021 and declined to bring charges. Gaetz resi
 
 **The Genuine Win + Structural Limit** — Gaetz's McCarthy ouster is a real institutional victory producing three weeks of House paralysis, which benefits the deregulatory donor class by preventing new regulation and slowing congressional function. But this victory stops short of threatening his family's for-profit healthcare industry base (VITAS Healthcare), and he maintains Republican control of the House.
 
-**The Villain Framing** — Gaetz frames McCarthy and institutional leadership as the corrupt external enemies requiring removal and replacement. This deflects from examining his actual material position: his political career depends entirely on family wealth ($29.6M) derived from his father's strategy of lobbying Congress to pass hospice Medicare reimbursement, then profiting from that reimbursement through VITAS. The villain is leadership incompetence; the beneficiary (donor class deregulation interests) remains hidden.
+**The Villain Framing** — Gaetz frames McCarthy and institutional leadership as the compromised external enemies requiring removal and replacement. This deflects from examining his actual material position: his political career depends entirely on family wealth ($29.6M) derived from his father's strategy of lobbying Congress to pass hospice Medicare reimbursement, then profiting from that reimbursement through VITAS. The villain is leadership incompetence; the beneficiary (donor class deregulation interests) remains hidden.
 
 **The Two-Audience Problem** — Gaetz performs as the anti-establishment chaos agent fighting corruption to his MAGA base, while privately serving the deregulatory interests that benefit from House dysfunction. His family wealth and healthcare industry background contradict the populist outsider image.
 
@@ -161,7 +161,7 @@ The DOJ investigated beginning in 2021 and declined to bring charges. Gaetz resi
 
 ## Rhetorical Signature Moves
 
-1. **The outsider brand:** Gaetz performed hostility to the institutional norms of Congress — calling colleagues corrupt, attacking leadership, threatening procedural chaos — as a fundraising and media strategy. The "chaos" is the product.
+1. **The outsider brand:** Gaetz performed hostility to the institutional norms of Congress — calling colleagues compromised, attacking leadership, threatening procedural chaos — as a fundraising and media strategy. The "chaos" is the product.
 2. **The MAGA maximalism:** Gaetz consistently positioned himself as the most pure Trump loyalist in the House. This served multiple functions: it differentiated him within the caucus, generated small-dollar donations from the MAGA base, and provided political protection — attacking Gaetz meant attacking Trump.
 3. **The media fluency:** Gaetz is a more sophisticated media performer than most Congress members. Fox News appearances, podcast appearances, Substack-era media — he understood that congressional power in the MAGA era comes from media attention as much as committee assignments.
 4. **The personal grievance as policy:** The McCarthy ouster was, at its core, a personal conflict elevated to constitutional procedure. Gaetz's ability to use institutional mechanisms for personal ends is the clearest expression of the chaos-agent function.

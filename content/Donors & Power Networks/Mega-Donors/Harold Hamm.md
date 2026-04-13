@@ -170,6 +170,16 @@ Hamm's wealth and power illustrate how extraction industries structure themselve
 
 ---
 
+### Class Analysis
+
+Harold Hamm represents the fossil fuel donor class in its purest form: a billionaire whose entire fortune depends on a single regulatory environment, who then spends millions to ensure that regulatory environment never changes. His 68% ownership stake in Continental Resources means every EPA rollback, every weakened methane rule, every shortened environmental review directly increases his personal wealth. The $1.6 million he gave to Donald Trump's 2024 campaign is not a political donation. It is a business expense with a documented return on investment measured in billions.
+
+The export ban victory of 2015 is the textbook case. Hamm spent $985,000 on political contributions, built the Domestic Energy Producers Alliance as a lobbying vehicle, made three dozen Capitol Hill trips, and testified at nine congressional hearings. The result: Congress lifted a 40-year-old ban on crude oil exports, unlocking an estimated $10 to $15 billion in additional value for Continental shareholders over five years. That is a return of roughly 10,000 to 1 on the political investment. Every other fossil fuel mega-donor watched and learned the lesson: federal environmental regulation is negotiable if you spend enough and connect to the right politician.
+
+The class injury falls on people who never appear in campaign finance filings. Bakken and Anadarko operations sit on or near the lands of the Mandan, Hidatsa, Arikara, and Osage nations. Fracking generates methane leaks, groundwater contamination risks, and induced seismicity. The environmental costs are borne by indigenous communities and rural populations. The profits flow to Hamm and Continental shareholders in Oklahoma City. His donations to Trump are partially purchasing the political power to override tribal consultation requirements under NEPA and the Endangered Species Act, effectively pricing out indigenous environmental resistance.
+
+Hamm refused the Energy Secretary position in 2016 because accepting it would have required divesting from Continental. Instead, he maintained his 68% ownership stake while advising the administration that sets the energy policy directly benefiting his company. This is the donor class protecting its structural position: stay private, stay in control, advise from outside, and avoid the transparency requirements of public office. The advisory relationship, no formal title, no disclosure obligations, no Senate confirmation, is Hamm's most valuable political asset. It converts wealth into policy without any democratic intermediary.
+
 ### Sources
 
 ### Net Worth & Company Profile:

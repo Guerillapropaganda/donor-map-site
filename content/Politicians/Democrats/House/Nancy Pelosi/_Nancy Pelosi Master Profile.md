@@ -1,8 +1,8 @@
 ---
 title: "Nancy Pelosi Master Profile"
 type: politician
-content-readiness: draft
-central-thesis: "Pelosi is the Democratic Party's financial gatekeeper. No single politician in American history has raised more money for their party's congressional apparatus — content-readiness: draft.6 billion since 2002. Her fundraising power is the structural basis of her politic..."
+content-readiness: ready
+central-thesis: "Pelosi is the Democratic Party's financial gatekeeper. No single politician in American history has raised more money for their party's congressional apparatus — content-readiness: ready.6 billion since 2002. Her fundraising power is the structural basis of her politic..."
 last-updated: 2026-04-13
 source-tier: 1
 career-total: "$1.6B"
@@ -102,7 +102,7 @@ The daughter of Baltimore machine politics (father Thomas D'Alesandro Jr. was ma
 
 Pelosi is the Democratic Party's financial gatekeeper. No single politician in American history has raised more money for their party's congressional apparatus — $1.6 billion since 2002. Her fundraising power is the structural basis of her political power: she controls who gets resources, which means she controls who wins. The DCCC dues system, the consultant blacklist, the committee assignment leverage — these aren't personal management decisions. They're the structural mechanisms that ensure only donor-compatible Democrats advance.
 
-Her legislative record is simultaneously genuine — the ACA, CHIPS, IIJA, IRA all passed through her chamber — and donor-class-compatible. The ACA preserved private insurance. CHIPS subsidized corporations. The IRA survived at 10% of Build Back Better's ambition because the Senate (where donor-class structural control is most direct) killed the rest. Pelosi delivers what the donor class allows and blocks what it doesn't — not because she's corrupt, but because she built and operates the system that makes donor-class compatibility the prerequisite for Democratic advancement.
+Her legislative record is simultaneously genuine — the ACA, CHIPS, IIJA, IRA all passed through her chamber — and donor-class-compatible. The ACA preserved private insurance. CHIPS subsidized corporations. The IRA survived at 10% of Build Back Better's ambition because the Senate (where donor-class structural control is most direct) killed the rest. Pelosi delivers what the donor class allows and blocks what it doesn't — not because she's compromised, but because she built and operates the system that makes donor-class compatibility the prerequisite for Democratic advancement.
 
 ---
 

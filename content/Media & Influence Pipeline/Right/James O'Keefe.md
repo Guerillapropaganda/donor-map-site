@@ -76,10 +76,10 @@ Project Veritas operated as opposition research disguised as journalism. The org
 - **ACORN (2009):** A series of hidden-camera sting videos alleging fraud in voter registration and poverty programs. The videos were selectively edited and the claims disputed by investigators, but led directly to ACORN's defunding and dissolution. The campaign destroyed an organization that had registered 1.7M voters, many in low-income communities.
 - **Planned Parenthood (2015):** Undercover videos alleging illegal sales of fetal tissue, later discredited. Nevertheless, the videos provided political ammunition for Republican defunding efforts.
 - **CNN and Washington Post (2017-2018):** Undercover operations against media outlets; designed to discredit mainstream journalism as biased.
-- **State election officials (2020):** Videos released weeks before the 2020 election alleging election fraud vulnerabilities, amplifying Trump's eventual claims.
+- **State election officials (2020):** Videos released weeks before the 2020 election alleging election irregularities vulnerabilities, amplifying Trump's eventual claims.
 - **Union organizers and Democratic operatives:** Continuous sting operations targeting union recruitment, protest organization, and campaign coordination.
 
-**Content timing strategy:** Videos were strategically released during campaign cycles to maximize political damage. The 2020 Minnesota voter fraud video was pre-released to Donald Trump Jr. to give the campaign advance warning and time to amplify.
+**Content timing strategy:** Videos were strategically released during campaign cycles to maximize political damage. The 2020 Minnesota voter irregularities video was pre-released to Donald Trump Jr. to give the campaign advance warning and time to amplify.
 
 ---
 
@@ -104,7 +104,7 @@ The [[DonorsTrust]], [[Bradley Foundation]], and [[Koch Network - Charles Koch|M
 
 **Campaign ammunition on demand:** Weeks before each election cycle, Project Veritas would release new sting videos targeting Democratic operatives, union organizers, or election officials. This on-demand opposition research provided direct campaign value to Republican candidates and the Trump organization.
 
-**Political cover for voter suppression narratives:** Project Veritas videos alleging election fraud and vulnerability gave credibility-laundering for Republican voter suppression efforts. Even when fact-checked and debunked, the videos created a narrative ecosystem in which election security concerns appeared legitimate.
+**Political cover for voter suppression narratives:** Project Veritas videos alleging election irregularities and vulnerability gave credibility-laundering for Republican voter suppression efforts. Even when fact-checked and debunked, the videos created a narrative ecosystem in which election security concerns appeared legitimate.
 
 **Intelligence-trained domestic operations:** The Erik Prince connection (detailed below) provided intelligence-trained operatives conducting covert operations against Democratic organizations. This represented a militarization of opposition research.
 
@@ -124,7 +124,7 @@ The class function of Project Veritas was to provide opposition research infrast
 
 **Funder dependency:** 100% donor-funded, zero advertising or subscription revenue. 2015 revenue split: [[DonorsTrust]]/[[Donors Capital Fund]] = 40%, [[Bradley Foundation]] = 20%, other donors = 40%. By 2021-2022, [[Bradley Impact Fund]] became the primary source (60%+ of annual revenue).
 
-**Editorial constraints:** Content is constrained by funder satisfaction. Donors get what they fund: opposition research on Democratic targets, election fraud narratives, institutional attacks on progressive organizations. When the output failed to satisfy donors (O'Keefe's spending, weak ROI, reputational damage), the board (appointed by major donors) executed a coup.
+**Editorial constraints:** Content is constrained by funder satisfaction. Donors get what they fund: opposition research on Democratic targets, election irregularities narratives, institutional attacks on progressive organizations. When the output failed to satisfy donors (O'Keefe's spending, weak ROI, reputational damage), the board (appointed by major donors) executed a coup.
 
 **Legal infrastructure:** The Erik Prince connection provided intelligence-trained operatives and covert operations capacity. This represents a transition from guerrilla opposition research to institutionalized, professionally-conducted domestic intelligence operations. Project Veritas became a proxy for high-end opposition research that traditional firms couldn't conduct without reputational damage.
 
@@ -147,13 +147,13 @@ The class function of Project Veritas was to provide opposition research infrast
 | 2016-2018 | Erik Prince recruits ex-MI6 operatives to train Project Veritas staff | Erik Prince, James O'Keefe | N/A | Intelligence infrastructure integration; shifts from guerrilla to professional covert operations |
 | 2017 | Trump Tower meeting; Trump promises additional financial support | Donald Trump, James O'Keefe | N/A | Direct political alliance; Trump considers expanding Project Veritas funding and scope |
 | 2020 | Project Veritas peak revenue: $22M; peak O'Keefe compensation: $1.48M | Donors (DonorsTrust, Bradley), James O'Keefe | $22M | Revenue apex; largest single-year donor investment; establishes Project Veritas as major dark money recipient |
-| 2020 | Minnesota voter fraud video pre-released to Trump Jr. | James O'Keefe, Donald Trump Jr. | N/A | Weeks before 2020 election; video timed for maximum campaign impact; election fraud narrative amplification |
+| 2020 | Minnesota voter irregularities video pre-released to Trump Jr. | James O'Keefe, Donald Trump Jr. | N/A | Weeks before 2020 election; video timed for maximum campaign impact; election irregularities narrative amplification |
 | 2021 | [[Bradley Impact Fund]] provides $2.1M | [[Bradley Foundation]], Project Veritas | $2.1M | Largest single-year source; indicates Bradley Foundation strategic pivot toward media/opposition research funding |
 | Feb 2023 | Project Veritas board votes to oust O'Keefe; 11-page staff memo alleges improper spending | Board members (appointed by major donors), James O'Keefe | N/A | $208K in black car expenses, $12K helicopter rides cited as justification; board takeover reveals donor dissatisfaction with ROI and personal conduct |
 | Feb 17, 2023 | O'Keefe Media Group incorporated (day after board ultimatum) | James O'Keefe | N/A | For-profit relaunch; strips nonprofit status and tax-deduction incentive; reveals nonprofit structure was instrumental to funding model |
 | Dec 2023 | Hannah Giles resigns from Project Veritas; cites "past illegality and financial improprieties" | Hannah Giles, Project Veritas | N/A | Co-founder departure; internal accusations of systematic impropriety |
 | 2022 | Democracy Partners defamation verdict against Project Veritas | Democracy Partners, Project Veritas | $120K | Legal liability for false allegations; mounting legal costs accelerate collapse |
-| 2024 | Pennsylvania voter fraud defamation settlement and public apology | Project Veritas, Pennsylvania election officials | N/A | Public retraction of election fraud claims; reputational damage and legal exposure |
+| 2024 | Pennsylvania voter irregularities defamation settlement and public apology | Project Veritas, Pennsylvania election officials | N/A | Public retraction of election irregularities claims; reputational damage and legal exposure |
 
 ---
 

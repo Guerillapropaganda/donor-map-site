@@ -1,8 +1,8 @@
 ---
 title: "Williams Companies"
 type: corporation
-content-readiness: draft
-last-updated: 2026-04-10
+content-readiness: ready
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 sector: "Energy & Utilities"
@@ -265,7 +265,7 @@ Williams Companies represents the "moderate face" of fossil fuel political spend
 |--------|-------|
 | Federal Court Cases | 768 |
 | Courts | Court of Appeals for the D.C. Circuit, Court of Appeals for the Ninth Circuit, District Court, D. Arizona, District Court, D. Colorado, District Court, D. Kansas, District Court, D. Minnesota, District Court, District of Columbia, District Court, E.D. Louisiana +7 more |
-| Case Types | 190 Contract: Other, 410 Anti-Trust, 410 Other Statutes: Anti-Trust, 470 Racketeer/Corrupt Organization, 850 Securities/Commodities |
+| Case Types | 190 Contract: Other, 410 Anti-Trust, 410 Other Statutes: Anti-Trust, 470 Racketeer/compromised Organization, 850 Securities/Commodities |
 
 **Notable cases:**
 - Sirkis v. Williams Companies, Inc., The (2026) — District Court, N.D. Oklahoma

@@ -66,7 +66,7 @@ Reed's net worth is among the lowest in the Senate — reported between negative
 
 Jack Reed is the military-industrial complex's most credentialed Democrat. West Point, Army Ranger, 82nd Airborne, Harvard Kennedy School, Harvard Law — the CV is impeccable. He parlayed it into the Senate's most important defense position, where he oversees the authorization of $800+ billion in annual Pentagon spending. His top career donor is General Dynamics Electric Boat — the submarine manufacturer headquartered in his state that builds the most expensive weapons systems in the Navy's fleet.
 
-Reed is not corrupt in the transactional sense. He doesn't take money and deliver specific policy favors on a timeline. He is something more structural: the Democrat who ensures the defense budget never faces serious challenge from the left. His military credentials make him unimpeachable on defense. His party affiliation makes Pentagon spending bipartisan. His state's defense economy makes cutting the budget an economic threat to his own constituents. The alignment is total — personal biography, state economy, committee jurisdiction, and donor base all point the same direction. Reed doesn't need to be bought. He was built for this.
+Reed is not compromised in the transactional sense. He doesn't take money and deliver specific policy favors on a timeline. He is something more structural: the Democrat who ensures the defense budget never faces serious challenge from the left. His military credentials make him unimpeachable on defense. His party affiliation makes Pentagon spending bipartisan. His state's defense economy makes cutting the budget an economic threat to his own constituents. The alignment is total — personal biography, state economy, committee jurisdiction, and donor base all point the same direction. Reed doesn't need to be bought. He was built for this.
 
 ---
 
@@ -134,6 +134,18 @@ Reed is not corrupt in the transactional sense. He doesn't take money and delive
 | 1997-2024 | DONATION | Career contributions from top 4 Saudi arms suppliers | GD, Raytheon, LMT, BAE | $362K+ | — |
 | Various | ← POLICY | Does not oppose Saudi arms sales despite humanitarian concerns | — | — | Ongoing |
 | Various | ← NOTE | The 4 contractors supplying 90%+ of Saudi arms account for significant share of Reed's defense donations | — | — | — |
+
+---
+
+## Class Analysis
+
+Jack Reed is what structural capture looks like when it does not require corruption. His career defense donations total roughly $1 million, modest by Senate standards. General Dynamics Electric Boat, the submarine manufacturer headquartered in Rhode Island, is his top career donor at $154,000. The top four defense contractors (General Dynamics, Raytheon, Lockheed Martin, BAE Systems) have contributed $362,000 combined. These numbers are not mega-donor territory. They do not need to be.
+
+Rhode Island's defense economy is worth $7.6 billion. Approximately 34,000 jobs depend on military contracts. Defense spending accounts for 8% of the state's GDP. General Dynamics Electric Boat builds Columbia-class nuclear submarines at $9.4 billion per boat and Virginia-class submarines at $4.3 billion per year. Reed does not need a bribe to support the submarine program. He needs to keep his state employed. The defense economy IS the constituency interest. Reed's personal biography (West Point, Army Ranger, 82nd Airborne), his state economy (defense-dependent), his committee jurisdiction (Armed Services, which authorizes every Pentagon dollar), and his donor base (defense contractors) all point the same direction. The alignment was total before a single check was written.
+
+The result: Reed has never voted to cut the defense budget. Not once in 29 years in the Senate. He is the Democrat the Pentagon points to when accused of partisanship. He ensures the defense budget passes with overwhelming bipartisan majorities every year, insulating $800+ billion in annual spending from the budget fights that affect every other federal program. His military credentials make it impossible to challenge defense spending from the left without appearing to challenge a combat veteran's judgment.
+
+Reed's net worth is among the lowest in the Senate, reported between negative $506,000 and $235,000. He is genuinely not wealthy. This is sometimes framed as independence from money interests. But personal poverty does not equal structural independence when your state's economic survival depends on the industry you oversee. Rhode Island has real poverty outside the defense sector. Reed's constituents would benefit from domestic spending on healthcare, education, and infrastructure. But the Armed Services Committee's jurisdiction ensures that Rhode Island's federal funding flows primarily through the Pentagon, not through domestic programs. The defense economy crowds out the alternative.
 
 ---
 

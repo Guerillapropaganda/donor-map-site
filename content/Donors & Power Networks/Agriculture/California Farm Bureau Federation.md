@@ -244,7 +244,7 @@ Immigration — H-2A program, undocumented workforce
 |--------|-------|
 | Federal Court Cases | 111 |
 | Courts | Court of Appeals for the Federal Circuit, Court of Appeals for the Ninth Circuit, District Court, C.D. California, District Court, E.D. California, District Court, W.D. Washington, United States Bankruptcy Court, D. Delaware |
-| Case Types | 896 Other Statutes: Arbitration, 899 Other Statutes: Administrative Procedures Act/Review or Appeal of Agency Decision, Environmental Matters, Other Statutes: Administrative Procedures Act/Review or Appeal of Agency Decision, Racketeer/Corrupt Organization |
+| Case Types | 896 Other Statutes: Arbitration, 899 Other Statutes: Administrative Procedures Act/Review or Appeal of Agency Decision, Environmental Matters, Other Statutes: Administrative Procedures Act/Review or Appeal of Agency Decision, Racketeer/compromised Organization |
 
 **Notable cases:**
 - United Farm Workers v. United States Department of Labor (2025) — District Court, E.D. California
@@ -265,7 +265,7 @@ Immigration — H-2A program, undocumented workforce
 |--------|-------|
 | Federal Court Cases | 111 |
 | Courts | Court of Appeals for the Federal Circuit, Court of Appeals for the Ninth Circuit, District Court, C.D. California, District Court, E.D. California, District Court, W.D. Washington, United States Bankruptcy Court, D. Delaware |
-| Case Types | 896 Other Statutes: Arbitration, 899 Other Statutes: Administrative Procedures Act/Review or Appeal of Agency Decision, Environmental Matters, Other Statutes: Administrative Procedures Act/Review or Appeal of Agency Decision, Racketeer/Corrupt Organization |
+| Case Types | 896 Other Statutes: Arbitration, 899 Other Statutes: Administrative Procedures Act/Review or Appeal of Agency Decision, Environmental Matters, Other Statutes: Administrative Procedures Act/Review or Appeal of Agency Decision, Racketeer/compromised Organization |
 
 **Notable cases:**
 - United Farm Workers v. United States Department of Labor (2025) — District Court, E.D. California

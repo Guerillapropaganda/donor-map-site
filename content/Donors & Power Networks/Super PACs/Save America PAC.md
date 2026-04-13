@@ -120,7 +120,7 @@ The intersection of Save America donations and presidential clemency creates the
 
 ### First-term pardons (Trump allies):
 - Roger Stone (December 23, 2020) — convicted of obstruction, witness tampering, lying to Congress
-- Paul Manafort (December 23, 2020) — convicted of conspiracy, money laundering, tax fraud
+- Paul Manafort (December 23, 2020) — convicted of conspiracy, money laundering, tax evasion
 - Steve Bannon (January 2021) — indicted for fraud in "We Build the Wall" scheme
 - Charles Kushner (December 2020) — convicted of tax evasion, witness tampering
 
@@ -183,7 +183,7 @@ Save America represents a structural innovation in American political corruption
 
 **The enforcement vacuum.** Despite documented deception of donors, a grand jury investigation, FEC complaints, and congressional findings, no charges were filed. Jack Smith withdrew the subpoena. The FEC — structurally deadlocked with an even number of commissioners — has not acted on the Campaign Legal Center complaints. The special counsel resigned after Trump's election. Save America continues to operate and raise money. The lesson for future political operatives is clear: leadership PACs can deceive donors, spend money on personal legal defense, and facilitate pay-for-clemency without facing legal consequences — as long as the PAC holder wins the presidency.
 
-**Pattern: Two-Audience Problem.** Save America's fundraising appeals target small-dollar donors with messages about defending democracy and fighting election fraud. Its spending benefits a single individual's legal defense. The audience for the rhetoric (grassroots supporters) and the beneficiary of the money (Donald Trump's attorneys) have no overlap in interest.
+**Pattern: Two-Audience Problem.** Save America's fundraising appeals target small-dollar donors with messages about defending democracy and fighting election irregularities. Its spending benefits a single individual's legal defense. The audience for the rhetoric (grassroots supporters) and the beneficiary of the money (Donald Trump's attorneys) have no overlap in interest.
 
 **Pattern: Donor-Class Override.** The pardon economy inverts the normal donor-to-policy pipeline: instead of donors funding politicians who enact favorable policy, donors fund the president who grants them personal clemency. The policy outcome is individualized — not regulatory capture but personal liberation from criminal accountability, purchased through PAC contributions.
 

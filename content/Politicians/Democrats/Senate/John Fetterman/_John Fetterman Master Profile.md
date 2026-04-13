@@ -1,9 +1,9 @@
 ---
 title: John Fetterman Master Profile
 type: politician
-content-readiness: draft
+content-readiness: ready
 central-thesis: "John Fetterman's post-election transformation raises a fundamental question about authenticity in working-class populism: was the 2022 small-dollar, hoodie-wearing, anti-establishment brand genuine or electoral packaging designed to win a swing st..."
-last-updated: '2026-04-09'
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 party: Democrat
@@ -111,6 +111,18 @@ John Fetterman's post-election transformation raises a fundamental question abou
 > **⚠️ 12-month flag:** $25.5M from 140,251 small-dollar progressive donors (2021-2022) → unconditional Israel support, "not a progressive" declaration, Republican donor recruitment (2023-2024). The 140,251 individuals who funded his populist campaign received a senator who declared himself "not a progressive" within two years. The donor base swap is complete: progressive small-dollar donors funded the 2022 campaign; AIPAC and Republican donors fund the 2026 reelection positioning.
 >
 > **The donor base swap:** The hoodie stayed the same. The donor class changed. Small-dollar grassroots donors ($27 average) built the brand; AIPAC-aligned donors ($250K+) and Republican donors now fund the positioning. Fetterman proves that populist aesthetics can temporarily distance a politician from the donor class, only to deliver them to a different — and more ideologically rigid — donor constituency.
+
+---
+
+## Class Analysis
+
+John Fetterman is the vault's clearest case study in how working-class aesthetics function as donor-class camouflage. The 2022 campaign raised $48.5M with 53% from small-dollar donors averaging $27. The post-election reality: AIPAC alignment ($250K+ from pro-Israel donors), Republican donor recruitment, and a public declaration that he is "not a progressive." The hoodie was the brand. The AIPAC hosting in his DC office is the product.
+
+The class mechanism is bait-and-switch at the electoral level. Fetterman's small-dollar base in 2022 funded a candidate who explicitly positioned himself against the donor class, against political conventions, against the establishment. Within months of taking office, he hardened into a pro-Israel hardliner offering unconditional military aid without conditions, attracted Republican donors specifically because of his Israel positioning, and shifted rightward on immigration and enforcement. The 140,251 individual donors who funded his campaign at $27 average were purchasing a working-class populist. What they got was an AIPAC-aligned senator in a Carhartt hoodie.
+
+The Fetterman model is structurally important because it demonstrates that small-dollar funding does not guarantee policy independence. AOC and Omar prove that rejecting corporate PAC money correlates with independent policy positions. Fetterman proves that small-dollar funding can be used as launch fuel for a candidacy that pivots to establishment alignment after election. The difference: AOC and Omar reject AIPAC money permanently. Fetterman accepted AIPAC support after winning on a populist brand. The small-dollar base funded the election. The establishment donors fund the governance. Two audiences, two products, same seat.
+
+The Pennsylvania context matters: a $500K net-worth senator in a swing state is structurally dependent on donor networks for reelection. The working-class aesthetic reduces the political cost of donor alignment because voters see the hoodie and assume the policy matches. The aesthetic IS the class function. It provides permission for establishment governance under a populist brand.
 
 ---
 

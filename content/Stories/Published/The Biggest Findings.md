@@ -1,7 +1,7 @@
 ---
 title: "The Biggest Findings"
 type: sub-note
-content-readiness: raw
+content-readiness: draft
 last-updated: 2026-04-02
 source-tier: 1
 known-gaps:

@@ -20,7 +20,7 @@ known-gaps:
 
 The revolving door is not a corruption problem. It is an infrastructure problem.
 
-Individual corruption requires illegal acts — bribes, fraud, undisclosed conflicts. The revolving door is entirely legal, fully disclosed, and structurally built into every major American think tank. The system works as designed: think tanks hire the people who run government agencies, those people return to the same think tanks when administrations change, the think tanks produce research while the officials wait, and when the allied party returns to power, the officials implement the research they wrote during their time in opposition.
+Individual misconduct requires illegal acts — bribes, fraud, undisclosed conflicts. The revolving door is entirely legal, fully disclosed, and structurally built into every major American think tank. The system works as designed: think tanks hire the people who run government agencies, those people return to the same think tanks when administrations change, the think tanks produce research while the officials wait, and when the allied party returns to power, the officials implement the research they wrote during their time in opposition.
 
 This document maps the personnel circuit across all 25 think tanks in this vault. The goal is to show that the "revolving door" is not a series of individual career choices but a **single coordinated infrastructure** connecting donor money, institutional research, government implementation, and private sector return — across every major think tank, every administration, and every ideological label.
 

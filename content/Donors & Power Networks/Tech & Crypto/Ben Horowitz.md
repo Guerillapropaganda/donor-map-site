@@ -1,7 +1,7 @@
 ---
 title: "Ben Horowitz"
 type: donor
-content-readiness: raw
+content-readiness: draft
 last-updated: 2026-04-10
 source-tier: null
 parent: null
@@ -84,7 +84,7 @@ Source: [[Fairshake PAC]], [[Marc Andreessen & Horowitz]] vault entries.
 |--------|-------|
 | Federal Court Cases | 46 |
 | Courts | District Court, D. Connecticut, District Court, D. Delaware, District Court, D. Minnesota, District Court, E.D. California, District Court, N.D. California, District Court, S.D. New York |
-| Case Types | 160 Stockholders Suits, 370 Fraud, 448 Civil Rights: Education, 470 Racketeer/Corrupt Organization, 820 Copyright |
+| Case Types | 160 Stockholders Suits, 370 Fraud, 448 Civil Rights: Education, 470 Racketeer/compromised Organization, 820 Copyright |
 
 **Notable cases:**
 - McCown v. Navan, Inc. (2026) — District Court, N.D. California

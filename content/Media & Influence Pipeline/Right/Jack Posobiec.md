@@ -207,7 +207,7 @@ Any editorial decision that contradicts these dependencies creates instant press
 | Feb 2017 | Security clearance suspended | Posobiec, DoD | — | Alleged classified information sharing on Twitter |
 | Mar 2017 | Resigned from Naval Intelligence Center | Posobiec | — | Formal end of intelligence career |
 | May 2021 | Senior editor appointment, Human Events | Posobiec, Human Events/Jeff Webb | — | Institutional media platform |
-| Sept 7, 2020 | "#StopTheSteal 2020 is coming..." tweet | Posobiec | — | Originated hashtag for election fraud narrative, 5 months before election |
+| Sept 7, 2020 | "#StopTheSteal 2020 is coming..." tweet | Posobiec | — | Originated hashtag for election irregularities narrative, 5 months before election |
 | Jan 5, 2021 | Listed as possible Freedom Plaza rally speaker | Posobiec, Stop the Steal organizers | — | Direct connection to January 6 mobilization |
 | Feb 2024 | CPAC comments on January 6 | Posobiec, CPAC attendees | — | "We didn't get all the way there on Jan. 6"—indicates unfinished political agenda |
 | Sept 2024 | RNC poll watcher training, Michigan/Wisconsin | Posobiec, RNC, election officials | — | Deployed in battleground states for voter intimidation infrastructure |

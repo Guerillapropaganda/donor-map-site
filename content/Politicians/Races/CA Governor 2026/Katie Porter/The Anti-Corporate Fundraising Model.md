@@ -79,7 +79,7 @@ Porter's model is smaller-scale than Sanders but higher average contribution —
 
 Porter's fundraising runs through [[ActBlue|ActBlue]] — the same platform that channels billions to Democratic candidates. Her Truth to Power Leadership PAC uses joint fundraising appeals that split contributions between the PAC and allied campaigns.
 
-The structural dependency: ActBlue takes a 3.95% processing fee on every donation. Porter's anti-corporate model runs on infrastructure owned by a for-profit payment processor. The platform itself is not corrupt — but it means the "grassroots" model is mediated by the same financial infrastructure that serves the Democratic establishment.
+The structural dependency: ActBlue takes a 3.95% processing fee on every donation. Porter's anti-corporate model runs on infrastructure owned by a for-profit payment processor. The platform itself is not compromised — but it means the "grassroots" model is mediated by the same financial infrastructure that serves the Democratic establishment.
 
 ---
 

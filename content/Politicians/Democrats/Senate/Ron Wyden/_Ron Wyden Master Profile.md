@@ -2,7 +2,7 @@
 title: "Ron Wyden"
 type: politician
 bioguide-id: "W000779"
-content-readiness: draft
+content-readiness: ready
 central-thesis: "Wyden is the reform Democrat whose reforms never pass. His brand is powerful: privacy crusader, billionaire tax champion, surveillance opponent, tech-accountability advocate. He has introduced the Billionaires Income Tax at least four times (2021,..."
 last-updated: 2026-04-13
 source-tier: 1
@@ -118,6 +118,16 @@ Wyden is the reform Democrat whose reforms never pass. His brand is powerful: pr
 | 2024 | Nike donations to Wyden | $79,992 | OpenSecrets |
 | 2025 | Reintroduced Billionaires Income Tax (#3) | — (never passed) | Finance Committee |
 | 2026 | Government Surveillance Reform Act introduced | — (pending) | Wyden.senate.gov |
+
+---
+
+## Class Analysis
+
+Ron Wyden writes the tax code. His wife Nancy Bass Wyden holds $500,000 to $1 million each in Apple, Microsoft, and Amazon stock, plus $500,000 in Google. Their combined net worth ranges from $7.2 million to $22.6 million. The senator who introduces the Billionaires Income Tax every Congress to close the "buy, borrow, die" loophole is married to a multimillionaire whose wealth grows under the tax code he controls. Five ethics experts told Rolling Stone this poses a conflict of interest. No law was broken.
+
+The class function is the reform treadmill. Wyden introduces the Billionaires Income Tax knowing it will fail. Each reintroduction generates progressive media coverage that sustains his brand without threatening the underlying tax structure. Meanwhile, the policies he successfully advances serve his donor class directly. The CHIPS Act delivered $36 billion in investment to Intel's Oregon operations. Nike, his top campaign donor at $79,992 in a single cycle, benefits from the trade promotion authority he co-authored with Orrin Hatch. His crypto tax-reporting rules adopted "innovation-first" framing that satisfied the tech sector. The Revolving Door Project documented that Wyden championed what it called Big Tech's anti-regulatory framework in international trade negotiations, preventing states from enacting privacy laws that would constrain the companies his wife is invested in. The reform bills that fail threaten capital. The policies that pass serve it.
+
+Wyden represents Oregon, home to Intel, Nike, HP, and the Silicon Forest tech corridor. His Finance Committee controls all federal tax legislation, Social Security, Medicare, Medicaid, and trade. The structural alignment is total: Oregon's tech economy benefits from Wyden's committee position, Wyden benefits from tech-sector campaign contributions, and Nancy Bass Wyden's portfolio benefits from the regulatory environment her husband shapes. She purchased $115,000 to $200,000 in additional Amazon stock after Wyden publicly characterized Amazon as a threat to her Strand Book Store business. The billionaire-tax champion's household buys more stock in the companies the billionaire tax would theoretically constrain. The reform brand is real as aspiration. The structural function is to propose legislation that fails while advancing donor-friendly policy that succeeds.
 
 ---
 

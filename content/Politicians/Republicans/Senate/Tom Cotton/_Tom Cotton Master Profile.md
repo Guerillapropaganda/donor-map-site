@@ -1,9 +1,9 @@
 ---
 title: "Tom Cotton Master Profile"
 type: politician
-content-readiness: draft
-central-thesis: "Tom Cotton is the neoconservative donor class's most successful product. His 2014 Senate campaign was funded by Bill Kristol's Emergency Committee for Israel ($960K), Paul Singer's Elliott Management (#2 donor, content-readiness: draft65K+), Sheldon Adelson (content-readiness: draft00K+ fun..."
-last-updated: 2026-04-10
+content-readiness: ready
+central-thesis: "Tom Cotton is the neoconservative donor class's most successful product. His 2014 Senate campaign was funded by Bill Kristol's Emergency Committee for Israel ($960K), Paul Singer's Elliott Management (#2 donor, content-readiness: ready65K+), Sheldon Adelson (content-readiness: draft00K+ fun..."
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 party: "Republican"
@@ -105,6 +105,16 @@ Tom Cotton. Republican senator from Arkansas (2015–present). The neoconservati
 > **The out-of-state donor problem:** Cotton represents Arkansas — ranked 48th in median household income — but receives the largest proportion of out-of-state donations in the Senate. His Harvard/McKinsey/neocon donor base has no connection to Arkansas. He is a senator for a national donor class that has targeted Arkansas as a safe seat for their investment.
 >
 > **FORCE Act → defense contractors:** $43B Indo-Pacific military buildup bill written by a senator with $500K+ per cycle from defense aerospace. The policy is the donation receipt.
+
+---
+
+## Class Analysis
+
+Tom Cotton represents Arkansas, ranked 48th in median household income. His credentials are Harvard College (three-year accelerated), Harvard Law, McKinsey and Company, and a federal judicial clerkship on the 5th Circuit. He is the most elite-credentialed senator in the chamber, running as a small-state populist. His donors are Bill Kristol's Emergency Committee for Israel ($960,000), Paul Singer's Elliott Management (his second-largest donor at $165,000+), Sheldon Adelson ($100,000+ in fundraising), and AIPAC-aligned networks spending $2 to $4.5 million on his behalf. The money comes from New York and Washington. The votes come from Arkansas.
+
+The class function is neoconservative product development. Cotton is manufactured by and for the East Coast neoconservative donor class, then deployed to a safe Republican seat where the populist brand (immigration restriction, tough on crime, military veteran) wins elections without the donors ever needing to appear. Bill Kristol's son was hired as Cotton's legislative director. The donor relationship is not just financial, it is familial. The Iran letter, Cotton's signature act as a freshman senator, was not freelancing. Forty-seven Republican senators signed an open letter to Iran's leadership undermining Obama's nuclear negotiations. The neoconservative donor network that funded Cotton's campaign had a direct interest in killing the deal. The letter was the investment's first dividend.
+
+Cotton's Armed Services Committee position completes the donor-to-policy circuit. His FORCE Act proposes $43 billion for Indo-Pacific military infrastructure. Defense aerospace PACs gave $191,500 in the 2023-2024 cycle alone, with total defense sector contributions exceeding $500,000 per cycle. Cotton opposed the Fiscal Responsibility Act's defense spending caps, calling them a "mortal risk." Every hawkish position serves two masters simultaneously: the neoconservative donors who want aggressive foreign policy and the defense contractors who profit from it. Arkansas voters get nationalist rhetoric about immigration and crime. The donor class gets consistent foreign policy and defense spending service worth billions. The Harvard-McKinsey pipeline packaged as Arkansas values is the most efficient class laundering operation in the Senate.
 
 ---
 

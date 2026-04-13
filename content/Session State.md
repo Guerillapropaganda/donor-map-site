@@ -14,10 +14,82 @@ Both Code Claude and Research Claude update this at the end of every session. Re
 
 ## Last Session
 Claude: Code + Research
-Date: 2026-04-12 (full day marathon, continued late session)
+Date: 2026-04-12 to 2026-04-13 (marathon session, multiple saves)
 
-### Theme — Late Session (after earlier save)
-Checklist audit, pipeline fixes, Feinstein deep dive, relationship engine overhaul, ops polish. Fixed the verification checklist to accurately report profile status, fixed the donor-map-engine pipelines, rewrote 12,918 edge type classifications to reveal think tank and K Street connections, and polished the ops app.
+### Theme
+The most productive single session in vault history. 476 new politician profiles, ~97 Class Analysis sections written, ~275 profiles promoted (draft to ready + raw to draft), relationship engine overhauled (12,918 edge type reclassifications + 2,900 asymmetric edges normalized), verification checklist fully audited and fixed, donor-map-engine pipelines fixed, ops app polished.
+
+### Done — Vault Expansion
+- **476 new politician profiles** via `scripts/bulk-create-politicians.cjs` + `scripts/create-cabinet-profiles.cjs`. Complete Congress (402) + Biden Cabinet (21) + Obama Cabinet (32) + Trump Cabinet additions (17) + 3 SCOTUS + 8 missing stubs.
+- **79 bioguide IDs** backfilled on older profiles.
+- **254 central-thesis** fields extracted from body to frontmatter.
+
+### Done — Class Analysis (59 politicians + 38 donors/corps = 97 total)
+**Politicians:** Lindsey Graham, Tim Scott, Mitch McConnell, Dianne Feinstein, Ted Cruz, Chuck Schumer, Donald Trump, Barack Obama, Joe Biden, Hakeem Jeffries, AOC, Ilhan Omar, Rashida Tlaib, Rand Paul, Cory Booker, Mark Warner, Josh Hawley, Ro Khanna, Sheldon Whitehouse, Joni Ernst, Cori Bush, Jamaal Bowman, John Hickenlooper, Jon Ossoff, Raphael Warnock, Ashley Hinson, Ayanna Pressley, John Kennedy, Barbara Lee, Gary Peters, Raja Krishnamoorthi, Josh Gottheimer, Sherrod Brown, Tammy Baldwin, Tammy Duckworth, Maria Cantwell, John Fetterman, Ron DeSantis, Tommy Tuberville, Mallory McMorrow, Richard Blumenthal, Ron Wyden, Patty Murray, Dick Durbin, Tom Cotton, Ron Johnson, Maxine Waters, Jamie Raskin, Bennie Thompson, Pramila Jayapal, Susan Collins, Elizabeth Warren, Jeff Merkley, Rick Scott, Brian Schatz, MTG, John Cornyn, Jack Reed, Gavin Newsom.
+
+**Donors/Corps:** ExxonMobil, Koch Network, ALEC, Rupert Murdoch, Goldman Sachs, Blackstone, Lockheed Martin, AIPAC, JPMorgan, Boeing, Marathon Petroleum, John Deere, Cargill, Tyson Foods, General Dynamics, Democracy Alliance, Chevron, Demand Justice, Sixteen Thirty Fund, Harold Hamm, Bill Gates, National Cattlemen's, Northrop Grumman, Federalist Society, Peter Thiel, Elon Musk, Senate Leadership Fund, Google-Alphabet, Adelson Family, Climate Philanthropy, Fairshake PAC, Barre Seid, DonorsTrust, and more.
+
+### Done — Promotions (~275 total)
+**Draft to Ready (~220):** AOC, Ro Khanna, Hakeem Jeffries, Ilhan Omar, Rashida Tlaib, Dianne Feinstein, Chuck Schumer, Jodey Arrington, Josh Hawley, Summer Lee, George W Bush, Rand Paul, Pfizer, Aramark, QVT Financial, Cargill, John Deere, Tyson Foods, General Dynamics, Lockheed Martin, Marathon Petroleum, PhRMA, NAR, Jeffrey Yass, Miriam Adelson, Palantir, Eric Schmidt, Citadel, BlackRock, Morgan Stanley, Hudson Institute, 15+ K Street firms, Biden, Pelosi, Brookings, Bloomberg, Fetterman, DeSantis, Tuberville, Tom Cotton, Dick Durbin, Patty Murray, Ron Wyden, Susan Collins, and 150+ more.
+**Raw to Draft (53):** Research logs, election stories, donor stubs enriched by pipeline.
+
+### Done — Voice-Drift / Em Dash Cleanup
+- **16,805 em dashes** stripped across 3 passes. Voice-drift detector: 25 hard fails to 1.
+- **122 legacy inline dataview fields** removed from 107 profiles.
+- **197 defamation-word fixes** across 3 passes (criminal->prosecution, fraud->misconduct, corrupt->compromised).
+
+### Done — Relationship Engine Overhaul
+- **12,918 edge type reclassifications**: think-tank edges 0 to 960, K Street edges 0 to 449.
+- **2,900 asymmetric edges normalized**. Total: 24,604 to 27,504.
+- **Per-profile artifact rebuilt**: 1,747 profiles, 27,503 edges.
+
+### Done — Checklist & Pipeline Fixes
+- **6 checklist detection bugs** fixed + **5 structural quality checks** added.
+- **Contradiction review logic** fixed (914 false fails resolved).
+- **donor-map-engine**: redirect loop protection + committee pipeline bioguide fallback.
+- **Duplicate GITHUB_TOKEN** in ops/.env.local removed (expired token overriding working one).
+
+### Done — Ops App
+- Pipeline Health dashboard (new component + API).
+- Vault grid: non-enrichable types skip pipeline warnings.
+- StatsBar: "Run reclassify" to "awaiting editorial sign-off".
+- Donut tracks: red for unfilled portion.
+- Raw bar color: grey to red.
+- Type colors: 7 missing types added.
+- TypeBreakdown: filters clutter, added state/local labels.
+- VaultGrid: default sort readiness.
+- Sidebar: aria-hidden SVGs, focus refetch.
+- Revolving door heuristic widened.
+- Global breadcrumbs on all pages.
+
+### Known issues / still outstanding
+- **~200 draft profiles** still need Class Analysis to promote
+- **478 raw profiles** awaiting pipeline enrichment (4x daily schedule running)
+- **44 dangling edge references**
+- **928 monetary edges** missing dollar amounts
+- **1 voice-drift hard fail** (banned vocabulary)
+
+### Next session priorities
+1. **Continue Class Analysis** on remaining 200 draft profiles (biggest lever for promotions)
+2. **Monitor enrichment** — raw stubs converting to draft automatically
+3. **FEC monetary edge enrichment** (add amounts to 928 bare edges)
+4. **Republican opposition edges** for new politician profiles
+5. **Story grading** — assign story-grade to 106 published stories
+
+### Session end state
+- **762 ready** (was 560), **766 draft** (was 900), **478 raw** (was 531)
+- **27,504 relationship edges** (was 24,604)
+- **97 Class Analysis sections** written
+- **~275 profiles promoted**
+- **Enrichment running overnight**
+
+---
+
+## Previous Session (consolidated)
+Claude: Code + Research + David
+Date: 2026-04-12 (multiple earlier sessions)
+
+Built tip submission system (Web3Forms + Cloudflare Worker + GitHub Action), D3 Money Trail graph, relationships graph overhaul (dual-layer nodes, entity type filters), 271 opposition edges, scripts Run buttons, enrichment reporting, 4 dashboard bug fixes, Phase 3 architecture completion.
 
 ### Done — Checklist & Pipeline Fixes
 - **6 checklist detection bugs fixed** (`ops/src/components/VerificationChecklist.tsx`): committee marker mismatch, source diversity A+ overcount, heading depth H2-H4, contradiction logic, bills fallback, structural group crash fix.

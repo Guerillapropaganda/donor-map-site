@@ -131,7 +131,7 @@ Scott's legislative record on healthcare is the most direct conflict of interest
 | Date | Donor | Amount | Given | Policy Outcome |
 |------|-------|--------|-------|----------------|
 | 2022-08-07 | Cigna PAC (top contributor 2022) + healthcare/insurance sector | $10K+ Cigna alone; $2M+ healthcare sector cycle | 2022-Q2 | Scott votes against Inflation Reduction Act — opposes Medicare drug pricing negotiation provision; the policy outcome cost pharmaceutical and insurance donors nothing |
-| 2024-2025 | Healthcare and financial sector PACs (continued) | Part of ongoing sector funding | 2024 | Scott continues opposing Medicare negotiation; supports Medicaid work requirements; advocates healthcare privatization — 27+ years from fraud settlement, same agenda |
+| 2024-2025 | Healthcare and financial sector PACs (continued) | Part of ongoing sector funding | 2024 | Scott continues opposing Medicare negotiation; supports Medicaid work requirements; advocates healthcare privatization — 27+ years from misconduct settlement, same agenda |
 
 #### NRSC / McConnell Spending War
 
@@ -145,6 +145,16 @@ Scott's legislative record on healthcare is the most direct conflict of interest
 > **$1.7B fraud → $75M self-funding → oppose Medicare negotiation:** The causal chain is unusually clean. Scott's fortune is healthcare industry money. His political career opposes any policy that would reduce healthcare industry profits. He is the donor and the politician simultaneously.
 >
 > **2022-08-07:** Cigna PAC documented as top contributor in 2022 cycle → Scott votes against IRA drug pricing negotiation on August 7, 2022. The policy outcome cost pharmaceutical and insurance donors nothing.
+
+---
+
+## Class Analysis
+
+Rick Scott does not represent the donor class's capture of politics. He represents the donor class's direct occupation of politics. Most senators receive money from industries they regulate. Scott IS the industry. He was CEO of Columbia/HCA when the company committed the largest Medicare fraud in U.S. history: $1.7 billion in settlements, 14 felony convictions. Scott invoked the Fifth Amendment 75 times in deposition. He was never personally charged. His departure package: over $370 million in stock, severance, and consulting fees. That fortune funded every subsequent campaign.
+
+The causal chain is unusually clean. Scott self-funded $152 million across his political campaigns, $63.6 million in 2018 alone (75% of his total). The money that bought the governorship and the Senate seat came directly from the company that stole $1.7 billion from Medicare. He now votes on Medicare policy. He proposed sunsetting all federal legislation, including Medicare and Social Security, in his "Plan to Rescue America." He votes against ACA subsidies in a state with 4.7 million marketplace consumers, more than any state in the country. The fraud funded the fortune. The fortune funded the campaigns. The campaigns purchased the votes. The votes threaten the programs he already stole from.
+
+Scott's wife Ann holds a portfolio of 550+ investment items, including Cayman Islands hedge funds and major tech holdings. His "blind trust" was blind in name only, according to the New York Times. He violated the STOCK Act with a $450,000 unreported sale. He is the wealthiest member of Congress with no meaningful conflict-of-interest protections. Every vote he casts on healthcare, taxation, or financial regulation directly affects his personal holdings. Scott does not need to be bought by the donor class because he already is the donor class. The fraud was not the prelude to his political career. The fraud was the business model. Politics is the continuation.
 
 ---
 

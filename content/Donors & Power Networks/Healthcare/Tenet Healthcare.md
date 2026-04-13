@@ -139,7 +139,7 @@ Tenet's PAC contributions are bipartisan by design — the company funds whoever
 | Date | Recipient/Target | Amount | Policy Return | Time Gap |
 |------|-----------------|--------|---------------|----------|
 | 2006 | DOJ settlement — Medicare outlier fraud | $900M settlement | Tenet continued operating; no debarment from federal programs despite systematic Medicare fraud | N/A — penalty |
-| 2016 | DOJ settlement — Clinica de la Mama kickback scheme | $513M ($368M civil + $145M criminal) | Two subsidiaries pled guilty; Georgia recovered $100M+; Tenet continued operating and receiving federal funds | N/A — penalty |
+| 2016 | DOJ settlement — Clinica de la Mama kickback arrangement | $513M ($368M civil + $145M criminal) | Two subsidiaries pled guilty; Georgia recovered $100M+; Tenet continued operating and receiving federal funds | N/A — penalty |
 | 2018–2019 | Partnership for America's Health Care Future | ~$630,000 | Coalition ran national ad campaign opposing Medicare for All; no single-payer legislation advanced past committee | 6–12 months |
 | 2022 | Federal lobbying (Congress, CMS) | $2.33M lobbying spend | Medicaid DSH cuts delayed again; site-neutral payment reforms did not advance in 117th Congress | 0–12 months |
 | 2023 | Federal lobbying — H.R.972/S.312, S.2840 | $2.36M lobbying spend | Outpatient Surgery Quality and Access Act did not pass; favorable status quo maintained for hospital outpatient reimbursement rates | Ongoing |

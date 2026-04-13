@@ -48,7 +48,7 @@ Sources:
 ### THE DOMINION SETTLEMENT. PAYMENT WITHOUT ACCOUNTABILITY
 In April 2023, Fox News agreed to pay Dominion Voting Systems $787.5 million to settle a defamation lawsuit. The settlement represented the largest media defamation payout in American history.
 
-The lawsuit alleged that Fox News and its on-air personalities broadcast false claims that Dominion's voting machines were part of a conspiracy to steal votes from Trump in the 2020 election. The claims were demonstrably false. Post-election audits found no such conspiracy. Trump's own attorney general declared the election secure. Trump's own appointed judges threw out the fraud allegations.
+The lawsuit alleged that Fox News and its on-air personalities broadcast false claims that Dominion's voting machines were part of a conspiracy to steal votes from Trump in the 2020 election. The claims were demonstrably false. Post-election audits found no such conspiracy. Trump's own attorney general declared the election secure. Trump's own appointed judges threw out the misconduct allegations.
 
 Fox News continued to air the claims anyway. The network's on-air personalities (Lou Dobbs, Maria Bartiromo, Jeanine Pirro, Rudy Giuliani) repeated the allegations despite internal network knowledge that the claims were false. Court documents revealed that network executives and on-air personalities privately expressed doubt about the fraud narrative while publicly promoting it.
 
@@ -56,7 +56,7 @@ The settlement required Fox News to pay $787.5 million. The settlement did not r
 
 The coverage patterns persisted post-settlement. Fox News continued to provide favorable Trump coverage, continued to house Trump-aligned personalities, continued to function as the primary conservative media outlet. The financial cost was extracted from the network's shareholders. The beneficiaries of the coverage (Trump, Republican candidates, conservative causes) paid nothing.
 
-The dynamic is critical. The legal consequence of knowingly broadcasting false election fraud claims was a fine paid to the party defamed. The structural incentive for the network was not altered. The outlet remained profitable. The audience remained loyal. The coverage continued.
+The dynamic is critical. The legal consequence of knowingly broadcasting false election irregularities claims was a fine paid to the party defamed. The structural incentive for the network was not altered. The outlet remained profitable. The audience remained loyal. The coverage continued.
 
 This represents media capture through market dynamics rather than direct ownership. Fox News is not owned by Trump. It is controlled by Trump through his political power and audience demand. The network must serve its MAGA audience or lose them to competing outlets (Newsmax, OAN). That competition incentivizes extremism and alignment.
 
@@ -72,7 +72,7 @@ Fox News coverage of Trump from 2017 forward has been analyzed in multiple studi
 
 In the 2020 election, Fox was slower than other networks to call Arizona for Biden, a decision that cost Trump-favoring media outlets access to early results that could have coordinated messaging. In 2024, Fox called the election accurately but maintained pro-Trump framing of the results. The coverage is not neutral. It is editorially favorable.
 
-The network's on-air personalities were revealed in court documents to privately doubt the election fraud claims they publicly promoted. They continued broadcasting the claims because the audience demanded them. The network's business model depends on holding the MAGA audience. Doubting the audience's preferred narrative would cost viewers, advertising revenue, and ultimately profit.
+The network's on-air personalities were revealed in court documents to privately doubt the election irregularities claims they publicly promoted. They continued broadcasting the claims because the audience demanded them. The network's business model depends on holding the MAGA audience. Doubting the audience's preferred narrative would cost viewers, advertising revenue, and ultimately profit.
 
 This is media captured by its own audience. The network is not uniquely powerful. It is uniquely aligned with its viewers' preferences. That alignment makes it useful to Trump without requiring direct control.
 

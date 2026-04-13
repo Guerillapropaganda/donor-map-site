@@ -1,8 +1,8 @@
 ---
 title: "Cayre Family"
 type: donor
-content-readiness: draft
-last-updated: 2026-04-08
+content-readiness: ready
+last-updated: 2026-04-13
 source-tier: 2
 parent: null
 sector: "Real Estate"
@@ -66,7 +66,7 @@ The Cayre family exemplifies how New York real estate wealth translates directly
 |--------|-------|
 | Federal Court Cases | 7 |
 | Courts | District Court, D. Maryland, District Court, E.D. New York, District Court, S.D. New York, United States Bankruptcy Court, S.D. New York |
-| Case Types | 13 Recovery of money/property - 548 fraudulent transfer; 81 Subordination of claim or interest, 190 Contract: Other, 470 Racketeer/Corrupt Organization, 710 Labor: Fair Standards |
+| Case Types | 13 Recovery of money/property - 548 deceptive transfer; 81 Subordination of claim or interest, 190 Contract: Other, 470 Racketeer/compromised Organization, 710 Labor: Fair Standards |
 
 **Notable cases:**
 - Ninety-Five Madison Company, LP (2021) — United States Bankruptcy Court, S.D. New York
