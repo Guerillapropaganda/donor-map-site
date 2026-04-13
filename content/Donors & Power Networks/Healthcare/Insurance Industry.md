@@ -290,7 +290,7 @@ The Medicare Advantage program represents the endpoint of this strategy: a gover
 - [[Barack Obama]] — lobbying: $25.6M — contracts: $11K
 - [[John Thune]] — lobbying: $25.6M — contracts: $11K
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-12.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-13.*
 <!-- auto:influence-cross-ref end -->
 
 ### Campaign Finance (FEC)

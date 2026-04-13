@@ -3,7 +3,7 @@ title: "John Barrasso"
 type: politician
 content-readiness: draft
 central-thesis: "Barrasso's donor-class function is to serve as the fossil fuel industry's highest-ranking champion in the Senate leadership. From the Environment and Public Works Committee to Energy and Natural Resources to the Majority Whip position, his career ..."
-last-updated: 2026-04-12
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 party: "Republican"

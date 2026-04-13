@@ -163,5 +163,5 @@ The pattern: every policy creates regulatory certainty for tech industry investm
 
 - [[Peter Thiel]] — $1.7M lobbying spend
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-12.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-13.*
 <!-- auto:influence-cross-ref end -->

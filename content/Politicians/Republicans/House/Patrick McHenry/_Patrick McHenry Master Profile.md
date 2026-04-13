@@ -350,5 +350,5 @@ When questioned about consumer harm or fraud risk, McHenry invoked "free market 
 | Donors Who Also Lobby | 0 of 1 |
 | Committee Overlap Detected | None |
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-12.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-13.*
 <!-- auto:influence-cross-ref end -->

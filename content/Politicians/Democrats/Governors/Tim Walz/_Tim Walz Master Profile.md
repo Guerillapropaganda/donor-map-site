@@ -3,7 +3,7 @@ title: "Tim Walz"
 type: politician
 content-readiness: draft
 central-thesis: "Walz's authenticity is genuine: he taught school, coached football, served in the National Guard, and built Minnesota Democratic politics through labor union relationships rather than Wall Street finance. The question is whether this authenticity ..."
-last-updated: 2026-04-12
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -14,7 +14,7 @@ total-received: "$113,151"
 fec-candidate-id: "H6MN01174"
 donors: "[[Democracy Alliance]]"
 wikidata-id: "Q2434360"
-last-enriched: "2026-04-12"
+last-enriched: "2026-04-13"
 needs-reenrichment: true
 reenrich-reason: "run voting pipeline; run congress pipeline"
 wikipedia-url: "https://en.wikipedia.org/wiki/Tim_Walz"
@@ -126,7 +126,7 @@ He is not corrupt in the transactional sense. He believes in progressive values 
 - [Source: FEC.gov](https://www.fec.gov/data/candidate/H6MN01174/) (Tier 1)
 <!-- auto:fec-politician end -->
 
-<!-- auto:fec-politician pending-merge 2026-04-12 -->
+<!-- auto:fec-politician pending-merge 2026-04-13 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 

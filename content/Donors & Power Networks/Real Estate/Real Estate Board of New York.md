@@ -2,13 +2,13 @@
 title: "Real Estate Board of New York"
 type: donor
 content-readiness: draft
-last-updated: 2026-04-12
+last-updated: 2026-04-13
 source-tier: 2
 parent: null
 sector: "Real Estate"
 entity-type: "Individual Donor"
 ofac-sdn-match: "true"
-last-enriched: "2026-04-12"
+last-enriched: "2026-04-13"
 needs-reenrichment: true
 reenrich-reason: "run fec pipeline"
 ofac-programs:

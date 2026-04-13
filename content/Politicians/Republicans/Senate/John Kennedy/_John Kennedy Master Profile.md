@@ -3,7 +3,7 @@ title: "John Kennedy Master Profile"
 type: politician
 content-readiness: draft
 central-thesis: "Kennedy's folksy populist brand disguises a conventional Louisiana energy-state voting record and a Banking Committee position that serves Wall Street's deregulatory agenda. His committee hearing performances — sharp questioning, memorable soundbi..."
-last-updated: 2026-04-12
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 party: "Republican"
@@ -243,7 +243,7 @@ See sub-note: [[The Folksy Populist Brand and Petrochemical Reality]]
 
 - [[ConocoPhillips]] — $17.9M lobbying spend (Clean Air and Water (quality), Energy/Nuclear, Environment/Superfund)
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-12.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-13.*
 <!-- auto:influence-cross-ref end -->
 
 ## Voting Record

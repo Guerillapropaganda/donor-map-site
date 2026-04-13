@@ -165,5 +165,5 @@ Moore publicly ruled out a 2028 presidential run on NBC's Meet the Press: "I'm n
 - [[Citigroup]] — $11.6M lobbying spend (Banking, Financial Institutions/Investments/Securities, Foreign Relations)
 - [[George Soros]] — $1.5M lobbying spend (Agriculture, Aviation/Airlines/Airports, Budget/Appropriations)
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-12.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-13.*
 <!-- auto:influence-cross-ref end -->

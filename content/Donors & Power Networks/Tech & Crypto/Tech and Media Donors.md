@@ -72,5 +72,5 @@ The tech-media convergence creates shared political priorities: Section 230 prot
 
 - [[Jon Ossoff]] — lobbying: $9.1M
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-12.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-13.*
 <!-- auto:influence-cross-ref end -->

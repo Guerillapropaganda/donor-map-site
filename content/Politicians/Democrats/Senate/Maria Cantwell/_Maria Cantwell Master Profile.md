@@ -3,7 +3,7 @@ title: "Maria Cantwell"
 type: politician
 content-readiness: draft
 central-thesis: "Maria Cantwell is the tech-aerospace industry's Senate anchor — a former tech executive who chairs the committee with jurisdiction over the industries that dominate her state's economy. She receives more campaign donations from the airline and tel..."
-last-updated: 2026-04-12
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 party: "Democrat"

@@ -205,7 +205,7 @@ The district-donor-committee triangle is nearly perfect. CT-04 is the hedge fund
 - [GovTrack: Jim Himes](https://www.govtrack.us/congress/members/412282) (Tier 1)
 <!-- auto:voting-record end -->
 
-<!-- auto:voting-record pending-merge 2026-04-12 -->
+<!-- auto:voting-record pending-merge 2026-04-13 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 

@@ -2,7 +2,7 @@
 title: "National Cattlemen's Beef Association"
 type: donor
 content-readiness: draft
-last-updated: 2026-04-12
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 sector: "Agriculture"
@@ -198,7 +198,7 @@ Ranchers pay $1/head (mandatory checkoff) → funds flow to NCBA ($45.6M in 2020
 
 <!-- auto:propublica-990 end -->
 
-<!-- auto:propublica-990 pending-merge 2026-04-12 -->
+<!-- auto:propublica-990 pending-merge 2026-04-13 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 
@@ -238,20 +238,45 @@ Ranchers pay $1/head (mandatory checkoff) → funds flow to NCBA ($45.6M in 2020
 <!-- auto:influence-cross-ref start -->
 | Metric | Value |
 |--------|-------|
-| Politicians Funded | 2 |
+| Politicians Funded | 20 |
 | Active Lobbyist | Yes |
-| Committee Overlap Detected | 1 politician |
+| Committee Overlap Detected | 5 politicians |
 
 **Lobby → Donate → Committee chains:**
 
+- Lobbies on **Government Issues** → Funds **Bennie Thompson** → Sits on **Homeland Security**
+- Lobbies on **Homeland Security** → Funds **Bennie Thompson** → Sits on **Homeland Security**
+- Lobbies on **Immigration** → Funds **Bennie Thompson** → Sits on **Homeland Security**
+- Lobbies on **Agriculture** → Funds **Glenn Thompson** → Sits on **Agriculture**
+- Lobbies on **Agriculture** → Funds **Jerry Moran** → Sits on **Agriculture**
+- Lobbies on **Veterans** → Funds **Jerry Moran** → Sits on **Veterans' Affairs**
+- Lobbies on **Defense** → Funds **Mike Rogers** → Sits on **Armed Services**
 - Lobbies on **Agriculture** → Funds **Frank Lucas** → Sits on **Agriculture**
 
 **Funded politicians:**
 
-- [[Donald Trump]] — lobbying: $3.1M
+- [[Julia Letlow]] — lobbying: $3.1M
+- [[David G. Valadao]] — lobbying: $3.1M
+- [[Jimmy Panetta]] — lobbying: $3.1M
+- [[Leon Panetta]] — lobbying: $3.1M
+- [[Tracey Mann]] — lobbying: $3.1M
+- [[August Pfluger]] — lobbying: $3.1M
+- [[Richard Hudson]] — lobbying: $3.1M
+- [[Bennie Thompson]] (Homeland Security) — lobbying: $3.1M
+- [[Mike Thompson]] — lobbying: $3.1M
+- [[Glenn Thompson]] (Agriculture) — lobbying: $3.1M
+- [[Bruce Westerman]] — lobbying: $3.1M
+- [[Brad Finstad]] — lobbying: $3.1M
+- [[Nathaniel Moran]] — lobbying: $3.1M
+- [[Jerry Moran]] (Veterans' Affairs, Agriculture) — lobbying: $3.1M
+- [[Harold Rogers]] — lobbying: $3.1M
+- [[Mike Rogers]] (Armed Services) — lobbying: $3.1M
+- [[Vince Fong]] — lobbying: $3.1M
+- [[Jim Costa]] — lobbying: $3.1M
+- [[Mike Carey]] — lobbying: $3.1M
 - [[Frank Lucas]] (Agriculture) — lobbying: $3.1M
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-12.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-13.*
 <!-- auto:influence-cross-ref end -->
 
 ### Federal Court Records (CourtListener)
@@ -314,7 +339,7 @@ Ranchers pay $1/head (mandatory checkoff) → funds flow to NCBA ($45.6M in 2020
 - ~~[Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=National%20Cattlemen's%20Beef%20Association)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:lda-lobbying end -->
 
-<!-- auto:lda-lobbying pending-merge 2026-04-12 -->
+<!-- auto:lda-lobbying pending-merge 2026-04-13 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 
