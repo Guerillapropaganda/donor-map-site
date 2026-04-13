@@ -1,7 +1,7 @@
 ---
 title: "Real Estate Board of New York"
 type: donor
-content-readiness: draft
+content-readiness: ready
 last-updated: 2026-04-12
 source-tier: 2
 parent: null

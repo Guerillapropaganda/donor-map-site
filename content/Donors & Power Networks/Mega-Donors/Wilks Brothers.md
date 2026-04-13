@@ -1,8 +1,8 @@
 ---
 title: "Wilks Brothers — Dan and Farris Wilks"
 type: donor
-content-readiness: draft
-last-updated: 2026-04-09
+content-readiness: ready
+last-updated: 2026-04-12
 source-tier: 1
 parent: null
 sector: "Mega-Donors"

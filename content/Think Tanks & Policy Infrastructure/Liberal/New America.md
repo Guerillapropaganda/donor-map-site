@@ -1,7 +1,7 @@
 ---
 title: "New America"
 type: think-tank
-content-readiness: draft
+content-readiness: ready
 last-updated: 2026-04-12
 source-tier: 1
 parent: null
