@@ -218,11 +218,11 @@ Preservation and expansion of the Renewable Fuel Standard (ethanol mandate), fav
 
 **Notable filings:**
 
-- 2026-04-02 — **4**: [4](https://www.sec.gov/Archives/edgar/data/7084/000122520826004230/0001225208-26-004230-index.htm)
-- 2026-04-02 — **4**: [4](https://www.sec.gov/Archives/edgar/data/7084/000122520826004229/0001225208-26-004229-index.htm)
-- 2026-04-02 — **4**: [4](https://www.sec.gov/Archives/edgar/data/7084/000122520826004228/0001225208-26-004228-index.htm)
-- 2026-04-02 — **4**: [4](https://www.sec.gov/Archives/edgar/data/7084/000122520826004227/0001225208-26-004227-index.htm)
-- 2026-04-02 — **4**: [4](https://www.sec.gov/Archives/edgar/data/7084/000122520826004226/0001225208-26-004226-index.htm)
+- 2026-04-02 — **4**: [4](https://www.sec.gov/Archives/edgar/data/7084/000122520826004230/0001225208-26-004230-index.htm) (VERIFIED)
+- 2026-04-02 — **4**: [4](https://www.sec.gov/Archives/edgar/data/7084/000122520826004229/0001225208-26-004229-index.htm) (VERIFIED)
+- 2026-04-02 — **4**: [4](https://www.sec.gov/Archives/edgar/data/7084/000122520826004228/0001225208-26-004228-index.htm) (VERIFIED)
+- 2026-04-02 — **4**: [4](https://www.sec.gov/Archives/edgar/data/7084/000122520826004227/0001225208-26-004227-index.htm) (VERIFIED)
+- 2026-04-02 — **4**: [4](https://www.sec.gov/Archives/edgar/data/7084/000122520826004226/0001225208-26-004226-index.htm) (VERIFIED)
 
-- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22ADM%20-%20Archer%20Daniels%20Midland%22) (Tier 1)
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22ADM%20-%20Archer%20Daniels%20Midland%22) (Tier 1) (NEEDS REVIEW: Lots of code page)
 <!-- auto:sec-edgar end -->
