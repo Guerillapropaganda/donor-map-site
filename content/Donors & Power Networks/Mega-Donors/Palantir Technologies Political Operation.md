@@ -17,7 +17,7 @@ nhtsa-complaints: 0
 last-enriched: "2026-04-07"
 needs-reenrichment: true
 reenrich-reason: "run lda pipeline"
-related: "[[Palantir Technologies]] · [[Raytheon (RTX Corporation)]] · [[Northrop Grumman]] · [[Leidos]] · [[L3Harris Technologies]] · [[Boeing Defense]] · [[General Dynamics]] · [[Raytheon Technologies]] · [[Booz Allen Hamilton]] · [[Peter Thiel]] · [[Founders Fund]] · [[_Donald Trump Master Profile|Trump]] · [[Defense Industry Bloc]] · [[Koch Network - Charles Koch|Koch Network]] · [[Lockheed Martin]] · [[BAE Systems]] · [[Anduril Industries]] · [[Valero Energy]] · [[Occidental Petroleum]] · [[WSPA - Western States Petroleum Association]] · [[Southern Company]] · [[Instacart]] · [[Flex Association]] · [[Airbnb]] · [[Lyft]]"
+related: "[[Palantir Technologies]] · [[Raytheon (RTX Corporation)]] · [[Northrop Grumman]] · [[Leidos]] · [[L3Harris Technologies]] · [[Boeing Defense]] · [[General Dynamics]] · [[Raytheon Technologies]] · [[Booz Allen Hamilton]] · [[Peter Thiel]] · [[Founders Fund]] · [[_Donald Trump Master Profile|Trump]] · [[Defense Industry Bloc]] · [[Koch Network - Charles Koch|Koch Network]] · [[Lockheed Martin]] · [[BAE Systems]] · [[Anduril Industries]] · [[Valero Energy]] · [[Occidental Petroleum]] · [[WSPA - Western States Petroleum Association]] · [[Southern Company]] · [[Instacart]] · [[Flex Association]] · [[Airbnb]] · [[Lyft]] · [[Uber]]"
 cross-vault-triangulation-count: 17
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
   • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.

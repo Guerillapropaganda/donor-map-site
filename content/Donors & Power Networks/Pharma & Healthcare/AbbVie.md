@@ -29,7 +29,7 @@ total-assets: 217738010
 federal-awards-total: 378082
 federal-contracts-count: 20
 federal-grants-count: 0
-related: "[[Moderna]] · [[PhRMA Kills Drug Negotiation From Both Sides]] · [[Brett Guthrie Master Profile]] · [[Merck]] · [[Eli Lilly]] · [[The HELP Committee and Prescription Drug Pricing]] · [[Cornerstone Government Affairs]] · [[PhRMA]] · [[Pfizer]] · [[Johnson & Johnson]] · [[Purdue Pharma - Sackler Family]] · [[PhRMA - Pharmaceutical Research and Manufacturers of America]] · [[Novo Nordisk]] · [[Gilead Sciences]] · [[Centene Corporation]] · [[Palantir Technologies]] · [[PBM Industry Bloc - OptumRx, CVS Caremark, Express Scripts]] · [[UnitedHealth Group - Optum]] · [[Tenet Healthcare]] · [[Kaiser Permanente]] · [[Humana]]"
+related: "[[Moderna]] · [[PhRMA Kills Drug Negotiation From Both Sides]] · [[Brett Guthrie Master Profile]] · [[Merck]] · [[Eli Lilly]] · [[The HELP Committee and Prescription Drug Pricing]] · [[Cornerstone Government Affairs]] · [[PhRMA]] · [[Pfizer]] · [[Johnson & Johnson]] · [[Purdue Pharma - Sackler Family]] · [[PhRMA - Pharmaceutical Research and Manufacturers of America]] · [[Novo Nordisk]] · [[Gilead Sciences]] · [[Centene Corporation]] · [[Palantir Technologies]] · [[PBM Industry Bloc - OptumRx, CVS Caremark, Express Scripts]] · [[UnitedHealth Group - Optum]] · [[Tenet Healthcare]] · [[Kaiser Permanente]] · [[Humana]] · [[Hospital Corporation of America - HCA]]"
 federal-register-mentions: 121
 regulatory-agencies:
   - "Centers for Medicare & Medicaid Services"

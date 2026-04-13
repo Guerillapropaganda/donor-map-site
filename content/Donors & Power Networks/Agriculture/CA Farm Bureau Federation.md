@@ -13,7 +13,29 @@ known-gaps:
   - "No lobbying disclosure data"
 ein: "912158769"
 nonprofit-status: "501(c)(5)"
-last-enriched: "2026-04-09"
+last-enriched: "2026-04-13"
+total-political-spend: "$216,324"
+politicians-funded:
+  - "Bennie Thompson"
+  - "Mike Thompson"
+  - "Glenn Thompson"
+  - "Russell Fry"
+  - "Jonathan L. Jackson"
+  - "Lisa Jackson"
+  - "Ronny Jackson"
+  - "Ketanji Brown Jackson"
+  - "Danny K. Davis"
+  - "Donald G. Davis"
+  - "Chris Murphy"
+  - "Gregory F. Murphy"
+  - "Robin L. Kelly"
+  - "Mark Kelly"
+  - "John Kelly"
+  - "Mike Kelly"
+  - "Trent Kelly"
+  - "Brad Knott"
+  - "Lindsey Graham"
+  - "Cindy Hyde-Smith"
 ---
 
 #agricultural-lobby #california-politics #farm-interests #worker-opposition #environmental-regulation
@@ -66,3 +88,28 @@ The California Farm Bureau exemplifies how agricultural wealth translates to pol
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/912158769) (Tier 1) (NEEDS REVIEW: Hawaii Farm Bureau Federation not listed)
 <!-- auto:nonprofit-990 end -->
+
+### Campaign Finance (FEC)
+<!-- auto:fec-donor start -->
+| Metric | Value |
+|--------|-------|
+| Total Political Spend | $216,324 |
+| Contributions | 100 |
+
+**Top recipients:**
+
+| Recipient | Amount | Party |
+|-----------|--------|-------|
+| AMERICAN PROPERTY CASUALTY INSURANCE ASSOCIATION POLITICAL ACTION COMMITTEE (INSURING AMERICA PAC) | $15,000 | — |
+| FRIENDS OF GLENN THOMPSON | $11,500 | REP |
+| JOHN DUARTE FOR CONGRESS | $9,501 | REP |
+| TEAM RONNY | $7,500 | — |
+| FRY FOR CONGRESS | $7,500 | REP |
+| TEXANS FOR RONNY JACKSON | $7,500 | REP |
+| DON DAVIS FOR NC | $7,500 | DEM |
+| FRIENDS TO ELECT DR. GREG MURPHY TO CONGRESS | $7,500 | REP |
+| KELLY FOR CONGRESS | $6,000 | REP |
+| BRAD KNOTT FOR CONGRESS | $6,000 | REP |
+
+- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=CA%20Farm%20Bureau%20Federation) (Tier 1)
+<!-- auto:fec-donor end -->

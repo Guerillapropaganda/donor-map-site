@@ -17,7 +17,7 @@ needs-reenrichment: true
 reenrich-reason: "run fec pipeline"
 total-revenue: 150007
 total-assets: 254525
-related: "[[Sheldon Whitehouse]] · [[Ocean Conservancy]] · [[Trial Lawyers Fund]] · [[National Progressive Donor Networks]] · [[Sixteen Thirty Fund]] · [[Open Society Foundations]] · [[New Venture Fund]] · [[Media Matters]] · [[Legal Sector Donors]] · [[Finance and Tech Bundler Network]] · [[Democratic Small Dollar Networks]] · [[Small Dollar Donors - ActBlue]]"
+related: "[[Sheldon Whitehouse]] · [[Ocean Conservancy]] · [[Trial Lawyers Fund]] · [[National Progressive Donor Networks]] · [[Sixteen Thirty Fund]] · [[Open Society Foundations]] · [[New Venture Fund]] · [[Media Matters]] · [[Legal Sector Donors]] · [[Finance and Tech Bundler Network]] · [[Democratic Small Dollar Networks]] · [[Small Dollar Donors - ActBlue]] · [[Ohio Federation of Teachers]]"
 fara-status: "registrant"
 fara-records: 3
 fara-countries:
