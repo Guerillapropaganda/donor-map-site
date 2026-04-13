@@ -1,9 +1,9 @@
 ---
 title: "Ed Markey"
 type: politician
-content-readiness: draft
+content-readiness: ready
 central-thesis: "Ed Markey is the telecom law architect who became the Green New Deal's Senate champion — a 50-year career arc from writing the laws that built the internet economy to proposing the framework to decarbonize it. His donor profile reflects the tensio..."
-last-updated: 2026-04-09
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -118,6 +118,16 @@ The Small Business Committee RM position is secondary to Markey's real portfolio
 | 2025 | ROLE | Named Senate Small Business Committee Ranking Member | — | — | — |
 | 2025-2026 | ← POLICY | Continues COPPA 2.0 (passed Senate unanimously), children's online safety, net neutrality | — | — | — |
 | 2026 | ← NOTE | Markey's career arc: wrote the laws that built the internet economy (1996), then proposed the framework to decarbonize it (2019). The donor base shifted from telecom industry to progressive grassroots. The policy shifted from deregulation to re-regulation. Rare genuine evolution. | — | — | — |
+
+---
+
+## Class Analysis
+
+Ed Markey is a rare case in the vault: a politician whose class position actually shifted over a 50-year career. Early Markey was a telecom industry creature. He chaired the House Telecommunications Subcommittee for 20 years, wrote the 1996 Telecommunications Act that deregulated American communications, and funded his campaigns with telecom industry PAC money. The donors and the jurisdiction were perfectly aligned. Markey wrote the rules; the companies that benefited from those rules funded him. That is textbook regulatory capture, regardless of whether the policy outcomes were good or bad.
+
+Late Markey broke the pattern. The Green New Deal co-authorship with Alexandria Ocasio-Cortez (2019) mobilized a new donor class: young progressive small-dollar contributors who displaced the old telecom industry base. His 2020 primary victory over Joe Kennedy III was funded by this new class of donors, not by the institutional money that had sustained him for decades. The Kennedy dynasty brand lost to a 74-year-old incumbent running on climate policy. That outcome only makes sense through class analysis: Markey's new donor base (progressive grassroots) had more intensity than Kennedy's inherited donor base (establishment Democratic networks).
+
+The structural question is whether Markey's evolution is replicable or anomalous. Most politicians in the vault show static donor-to-policy alignment: the money stays the same, the votes stay the same, the rhetoric adjusts. Markey shows the rare case where a generational issue (climate) created a new donor class (young progressives) that actually displaced an old one (telecom industry). The telecom money did not disappear entirely, but it no longer drives Markey's political identity. If donor capture is structural, Markey's career suggests the escape route: find an issue big enough to create a new funding base that makes the old one unnecessary. The problem is that this route requires a 50-year career and a once-in-a-generation mobilization event. It is not a model. It is an exception that proves the rule.
 
 ---
 
