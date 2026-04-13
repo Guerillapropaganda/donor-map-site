@@ -88,6 +88,14 @@ Steve Bannon. Former White House Chief Strategist (January–August 2017, 7.5 mo
 
 ---
 
+## Class Analysis
+
+Steve Bannon's entire political career was purchased by a single family. Robert Mercer invested $10 million in Breitbart, $15-20 million in Cambridge Analytica, and $3.7 million in the Government Accountability Institute. Bannon met the Mercers at a 2011 Club for Growth event, drew up the Breitbart business plan that secured the $10 million investment, co-founded Cambridge Analytica on Mercer's yacht, and directed the Mercer family's $13.5 million from Ted Cruz to Donald Trump in 2016. The "populist revolution" was a hedge fund billionaire's investment portfolio, managed by a Goldman Sachs banker who earned $450,000 per year on Wall Street, collected an estimated $25-50 million in Seinfeld syndication residuals, and drew a $750,000 annual salary from Breitbart. The anti-elite warrior is the most elite-credentialed figure in the Trump orbit.
+
+The class function is straightforward: Bannon converted Mercer money into political infrastructure that produced deregulation benefiting Renaissance Technologies and the broader donor class. His "deconstruction of the administrative state" was not a populist project. It was a hedge fund project. The regulatory apparatus being dismantled was the same apparatus that constrained Mercer's trading operations. Bannon's placement on the NSC Principals Committee (unprecedented for a political adviser, January-April 2017) gave a hedge fund billionaire's operative direct access to national security policy. Working-class voters got the rhetoric about draining the swamp. Renaissance Technologies got reduced regulatory oversight.
+
+When Bannon's usefulness expired, the Mercers cut him off. The January 2018 "Fire and Fury" fallout and Roy Moore endorsement made Bannon a liability, and the $30 million+ patronage evaporated. Without his billionaire patron, the populist warrior became a podcast host and a convicted fraudster. The "We Build the Wall" operation raised $25 million from small donors who believed Bannon's populist brand. Bannon took $1 million for himself. Federal charges were pardoned by Trump in the final hours of his first term. New York state produced a guilty plea in February 2025. The Goldman Sachs banker who built a career claiming to serve ordinary people ended up stealing from them. The fraud conviction is the biography in miniature.
+
 ## Rhetorical Signature Moves
 
 1. **The "Leninist" disruptor:** Told the Daily Beast he's a "Leninist" who wants to "destroy the state." The function: frame deregulation as revolution. The reality: the "state" being "deconstructed" is the regulatory apparatus that constrains Mercer's hedge fund and the donor class's corporate interests. Bannon destroyed the regulations; the billionaires kept the profits.
