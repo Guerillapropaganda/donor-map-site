@@ -14,7 +14,7 @@ known-gaps:
 ein: "912158769"
 nonprofit-status: "501(c)(5)"
 last-enriched: "2026-04-09"
-internal-notes: "[CODE @ 2026-04-13] Pipeline: lda completed for CA Farm Bureau Federation. Run: https://github.com/Guerillapropaganda/donor-map-engine/actions/runs/24360089891"
+internal-notes: "[CODE @ 2026-04-13] Pipeline: fec completed for CA Farm Bureau Federation. Run: https://github.com/Guerillapropaganda/donor-map-engine/actions/runs/24360089891"
 ---
 
 #agricultural-lobby #california-politics #farm-interests #worker-opposition #environmental-regulation
