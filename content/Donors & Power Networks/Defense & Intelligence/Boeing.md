@@ -205,7 +205,7 @@ Boeing hired 85 government officials in 2022 alone—more than any other defense
 
 ## Class Analysis
 
-Boeing is a corporation that killed 346 people through cost-cutting, spent $43.4 billion on stock buybacks instead of a $7 billion safety redesign, settled criminal fraud charges without any executive facing prosecution, and received $12.8 billion in new contracts the following year. The class analysis is in those four numbers. The penalty for killing 346 people was a $2.5B deferred prosecution agreement. The reward for lobbying $206M over 15 years was $20B+ annually in defense contracts. The ratio is the system.
+Boeing is a corporation that killed 346 people through cost-cutting, spent $43.4 billion on stock buybacks instead of a $7 billion safety redesign, settled criminal misconduct charges without any executive facing prosecution, and received $12.8 billion in new contracts the following year. The class analysis is in those four numbers. The penalty for killing 346 people was a $2.5B deferred prosecution agreement. The reward for lobbying $206M over 15 years was $20B+ annually in defense contracts. The ratio is the system.
 
 The political mechanism is geographic lock-in plus revolving door. Boeing operations span 45+ states, making every senator and most representatives a Boeing constituent. Armed Services Committee members receive targeted donations ($40K+ per cycle to key members). 85 government officials were hired by Boeing in 2022 alone, more than any other defense contractor. Pentagon arms sales directors become Boeing global sales executives. Boeing executives become Deputy Secretaries of Defense. The door does not revolve. It is permanently open.
 

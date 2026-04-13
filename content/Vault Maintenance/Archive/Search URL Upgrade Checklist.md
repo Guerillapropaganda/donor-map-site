@@ -1804,7 +1804,7 @@ Generated 2026-03-25. Every search/query URL in the vault that should be upgrade
   - Label: CNN: Comer subpoenas Bondi for Epstein deposition
   - URL: `https://www.cnn.com/search?q=DOJ%20as%20Political%20Weapon%20and%20Donor%20Shield`
 - [ ] **Politicians/Republicans/Trump Cabinet/Pam Bondi/The Trump University 25K and the Pay-to-Play Model.md** (line 70)
-  - Label: CNN: Bondi sought donation before nixing Trump University fraud case
+  - Label: CNN: Bondi sought donation before nixing Trump University misconduct case
   - URL: `https://www.cnn.com/search?q=Trump%20University%2025K%20and%20the%20Pay-to-Play%20Model`
 - [ ] **Politicians/Republicans/Trump Cabinet/Pete Hegseth/The Koch Network and Concerned Veterans for America.md** (line 75)
   - Label: CNN: VA privatization push

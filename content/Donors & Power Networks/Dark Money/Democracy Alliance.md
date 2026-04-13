@@ -156,6 +156,16 @@ Democracy Alliance serves as unofficial policy coordinator between wealthy donor
 
 The result: Democratic Party doesn't set its own strategy. Wealthy donor consensus (expressed through Democracy Alliance quarterly voting) sets strategy. Elected officials execute strategy and claim popular mandate for it.
 
+## Class Analysis
+
+The Democracy Alliance is the Democratic Party's donor-class coordination mechanism. It exists because 110 ultra-wealthy individuals decided that their preferred policies were not winning fast enough through democratic politics alone. The $200,000 annual membership fee is the price of admission to a room where billionaires vote on which organizations receive funding, which policy priorities advance, and which Democratic candidates get infrastructure support. The quarterly meetings function as a shadow party convention where wealth, not votes, determines strategy.
+
+The structural function is plain. Center for American Progress writes Democratic policy platforms. Media Matters coordinates messaging. America Votes runs state-level voter mobilization. These are not independent organizations that happen to agree with the Democratic Party. They are billionaire-funded infrastructure that shapes what the Democratic Party becomes. When George Soros channels $125 million annually through Alliance-coordinated strategies, and Tom Steyer deploys $30 million more, the policy positions that emerge from CAP are not grassroots demands. They are the preferences of the donor class, laundered through institutional legitimacy. The 2005-2026 trajectory tells the story: $1.2 to $1.5 billion deployed across two decades, building a permanent infrastructure that outlasts any single election.
+
+The class contradiction at the center of the Democracy Alliance is identical to the Koch Network's contradiction, just pointed in the opposite direction. Both claim to represent popular interests. Both are governed by the ultra-wealthy. Both operate in secrecy. Both have converted party infrastructure into donor infrastructure. The Koch Network spends $548 million annually to shrink government. The Democracy Alliance spends $115 to $150 million annually to direct government toward progressive ends. The mechanism is the same: concentrated wealth purchasing political outcomes that voters did not specifically request. Rob McKay inherited $500 million. Pat Stryker inherited a medical device fortune. These are not working-class activists who built grassroots power. These are heirs deploying inherited capital to shape the political system.
+
+The tell is the secrecy. If the Democracy Alliance's work were genuinely aligned with the Democratic base, there would be no reason to restrict member names, hide internal deliberations, and operate through a 501(c)(6) trade association structure. The secrecy exists because the donor class knows that the appearance of billionaire control undermines the populist messaging their funded organizations produce. The Democracy Alliance is not dark money in the legal sense. It is dark strategy: the deliberate construction of political infrastructure by people whose wealth insulates them from the consequences of the policies they fund.
+
 ### Sources
 
 - [InfluenceWatch: Democracy Alliance](https://www.influencewatch.org/organization/democracy-alliance-conferences/) (Tier 3)

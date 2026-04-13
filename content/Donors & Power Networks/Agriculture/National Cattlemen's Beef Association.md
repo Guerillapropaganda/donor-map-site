@@ -140,7 +140,7 @@ NCBA declared the repeal a "significant victory for America's cattle producers."
 
 ---
 
-### Class Analysis — The Rancher Shakedown
+## Class Analysis — The Rancher Shakedown
 
 > [!contradiction]
 > NCBA claims to represent America's cattle producers. But less than 3% of U.S. ranchers are members. The Big Four meatpackers — who control 85% of beef processing — sit on NCBA's governing board. And 70%+ of NCBA's budget comes from a mandatory checkoff tax that ranchers must pay regardless of whether they support NCBA's positions. The organization that claims to speak for ranchers is funded by ranchers, governed by packers, and lobbies against rancher interests.

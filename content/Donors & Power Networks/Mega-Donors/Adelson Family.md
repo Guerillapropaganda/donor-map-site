@@ -171,7 +171,7 @@ Trump withdrew from the JCPOA on May 8, 2018, 11 months after receiving Adelson'
 
 ---
 
-### Class Analysis. The Most Transparent Pay-to-Play in American Politics
+## Class Analysis. The Most Transparent Pay-to-Play in American Politics
 
 The Adelson family represents the vault's clearest donor-to-policy pipeline. Unlike Koch (who operates across every policy domain through institutional infrastructure) or Musk (who merges business with government), the Adelsons spend $557M+ on a single primary issue. Israel, and receive specific, named policy outcomes traceable directly to the money.
 

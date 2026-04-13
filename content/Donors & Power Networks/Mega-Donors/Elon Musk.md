@@ -231,7 +231,7 @@ His personal pay exceeds the entire political spending budget of the American la
 
 ---
 
-### Class Analysis. The New Model Oligarch
+## Class Analysis. The New Model Oligarch
 
 **Old model (Koch):** Build wealth → fund think tanks and PACs → shape policy through institutions → maintain separation between business and politics.
 

@@ -1,9 +1,9 @@
 ---
 title: "John Kennedy Master Profile"
 type: politician
-content-readiness: draft
+content-readiness: ready
 central-thesis: "Kennedy's folksy populist brand disguises a conventional Louisiana energy-state voting record and a Banking Committee position that serves Wall Street's deregulatory agenda. His committee hearing performances — sharp questioning, memorable soundbi..."
-last-updated: 2026-04-12
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 party: "Republican"

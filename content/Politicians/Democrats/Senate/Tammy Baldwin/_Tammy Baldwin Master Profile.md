@@ -1,9 +1,9 @@
 ---
 title: "Tammy Baldwin Master Profile"
 type: politician
-content-readiness: draft
+content-readiness: ready
 central-thesis: "### Baldwin is the rare progressive who wins in a swing state by anchoring her progressive economic agenda to specific Wisconsin industries — dairy, manufacturing, healthcare — rather than abstract ideology. Her donor architecture reveals the stru..."
-last-updated: 2026-04-10
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -141,6 +141,18 @@ The key electoral mechanism: Baldwin didn't run as a national progressive — sh
 **Prescription Drug Pricing** — See sub-note: [[The HELP Committee and Prescription Drug Pricing]]. Baldwin co-authored the Insulin Price Reduction Act and supported the Inflation Reduction Act's Medicare drug price negotiation provisions. Drug pricing is the healthcare position that maximizes populist credibility while minimizing donor-class friction — targeting PhRMA while leaving the insurer/hospital donor base untouched.
 
 **LGBTQ Rights** — As the first openly gay U.S. senator, Baldwin carries institutional weight on LGBTQ rights legislation. She supported the Respect for Marriage Act (2022), which codified same-sex and interracial marriage protections federally. Her LGBTQ positioning appeals to EMILY's List ($199K career) and women's issues donors ($4.2M career) who represent the professional progressive donor class that funds her campaigns.
+
+---
+
+## Class Analysis
+
+Tammy Baldwin is the rare progressive who wins in a swing state, and her donor architecture reveals exactly how the trick works. Career fundraising of $82 million+ breaks down into the professional class: lawyers and law firms ($4.8 million), education ($4.2 million), women's issues ($4.2 million), health professionals ($3.1 million), securities and investment ($2.7 million). Labor unions, the constituency her populism ostensibly serves, rank far lower at $2.3 million career, and that money is almost entirely PAC-driven ($2.16 million of $2.27 million). The people who fund Baldwin's campaigns are overwhelmingly professionals, not workers.
+
+The HELP Committee jurisdiction is the structural mechanism that makes the donor architecture work. The health sector has contributed $5 million+ over Baldwin's career, from the same insurance and pharmaceutical companies she chairs hearings on. Baldwin's drug pricing populism, the Insulin Price Reduction Act, the Inflation Reduction Act Medicare drug price negotiation, targets pharmaceutical companies but not insurers. The insurer and hospital donor base remains untouched while Baldwin generates populist credibility against PhRMA. This is selective populism as donor management: pick the corporate villain your donors can afford to lose, and leave the ones who fund your committee members alone.
+
+Baldwin's 2024 reelection crystallized the class dynamics. She raised $58.5 million in a state Trump carried by three points, winning by roughly one point. The $32.2 million in large individual contributions came from lawyers ($2.3 million cycle), securities and investment ($1.6 million cycle), and education ($2.5 million cycle). The low PAC percentage (5.4%) is the progressive brand. The professional-class fundraising base is the financial reality. Baldwin survived a Trump state not through ideology but through localization: dairy farmers, Buy American provisions, pharmaceutical price caps. Her ideology was expressed through Wisconsin-specific economic stories, and the professional class funded the infrastructure to tell those stories statewide.
+
+The class position is swing-state progressive funded by professionals, serving workers through selective policy, managing donors through issue selection. Baldwin's Buy American provisions serve Wisconsin manufacturers (donor interest), protect union jobs (constituency interest), and generate populist messaging (electoral interest). When all three align, genuine policy happens. When they conflict, as with insurance regulation that could alienate the Blue Cross donor base, the donor interest wins through omission. Baldwin does not attack the insurance industry. She simply never mentions it.
 
 ---
 

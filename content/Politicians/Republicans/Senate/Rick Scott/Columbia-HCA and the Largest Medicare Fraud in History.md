@@ -32,7 +32,7 @@ donors: (Columbia/HCA — source of fortune, not donor to politics)
 | 1990-1997 | Columbia/HCA commits systematic Medicare fraud: false billing, unnecessary tests, fake diagnosis codes (exact dates pending) | $1,700,000,000 in fraudulent claims | DOJ records |
 | 1997-07-01 | FBI raids Columbia/HCA Nashville headquarters and 30+ hospitals (exact date pending) | — | FBI records |
 | 1997-07-01 | Rick Scott resigns as CEO days after FBI raids (exact date pending) | — | Corporate records |
-| 2000-06-01 | Columbia/HCA settles fraud charges with federal government for record amount (exact date pending) | $1,700,000,000 | DOJ settlement |
+| 2000-06-01 | Columbia/HCA settles misconduct charges with federal government for record amount (exact date pending) | $1,700,000,000 | DOJ settlement |
 | 2000-01-01 | Columbia/HCA receives 14 felony convictions (exact date pending) | — | Federal court records |
 | 1997-07-01 | Scott receives separation settlement and severance upon departure (exact date pending) | $14,980,000 | Corporate records |
 | 1997-07-01 | Scott receives five-year consulting contract at $950K per year (exact date pending) | $4,750,000 | Corporate records |
@@ -67,6 +67,6 @@ When questioned about the fraud, Scott invoked the Fifth Amendment — the right
 
 ### Sources
 
-- [PolitiFact: Rick Scott and the fraud case of Columbia/HCA](https://www.politifact.com/article/2010/jun/11/rick-scott-and-fraud-case-columbiahca/) (Tier 2)
+- [PolitiFact: Rick Scott and the misconduct case of Columbia/HCA](https://www.politifact.com/article/2010/jun/11/rick-scott-and-fraud-case-columbiahca/) (Tier 2)
 - [NPR: Once Scrutinized By The Government, Rick Scott Soon Will Govern](https://www.npr.org/sections/health-shots/2010/11/03/131044677/florida-governor-rick-scott-columbia-hca-fraud-justice-department) (Tier 2)
-- [DOJ: Largest Health Care Fraud Case in U.S. History Settled - HCA Investigation Nets Record Total of $1.7 Billion](https://www.justice.gov/archive/opa/pr/2003/June/03_civ_386.htm) (Tier 1)
+- [DOJ: Largest Health Care misconduct case in U.S. History Settled - HCA Investigation Nets Record Total of $1.7 Billion](https://www.justice.gov/archive/opa/pr/2003/June/03_civ_386.htm) (Tier 1)

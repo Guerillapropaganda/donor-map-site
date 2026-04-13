@@ -175,7 +175,7 @@ The Students for Fair Admissions case that ended affirmative action was funded d
 
 ---
 
-### Class Analysis
+## Class Analysis
 
 The Federalist Society is the most successful institutional investment in American political history. For roughly $22 million per year in direct funding — plus Leo's broader dark money network — the donor class has achieved permanent structural control of the federal judiciary.
 

@@ -190,6 +190,16 @@ Chevron is part of the [[American Petroleum Institute|API]]-coordinated oppositi
 
 ---
 
+## Class Analysis
+
+Chevron's political operation is built on a simple formula: spend enough to make regulation more expensive than compliance. The company deployed $155 to $165 million in federal lobbying over 24 years, plus $37 million in California state contributions and $24 million in California lobbying. The return on that investment is the continued operation of a business model that generates $200 billion in annual revenue while externalizing pollution costs onto communities that have no seat at the table. Richmond, California is the proof of concept. A refinery fire sent 15,000 residents to the hospital. Chevron paid $90 million in settlements, then spent $3 million on the next city council election to ensure the council stayed friendly.
+
+The bipartisan spending structure reveals the strategy. Chevron gives 73 to 85 percent Republican at the federal level because Republicans control energy committee chairs and block climate legislation. But Chevron also gives to Democrats, especially in California, because California Democrats control the permitting and regulatory apparatus that determines whether Chevron's two refineries keep operating. The $4.5 million to the Senate Leadership Fund and $2.75 million to the Congressional Leadership Fund in 2024 purchased Senate and House leadership loyalty. The $12.9 million in California lobbying in 2025 purchased continued access to a Democratic governor. Chevron does not care which party governs. Chevron cares that whoever governs does not shut down the refineries.
+
+The international dimension exposes the class function most clearly. Chevron lobbied against Myanmar sanctions to protect a gas field partnership with a military junta. Chevron spent a decade killing the Cardin-Lugar anti-corruption rule that would have required disclosure of payments to foreign governments. Chevron's 2025 lobbying disclosures list energy issues in Angola, Kazakhstan, Nigeria, Myanmar, Iraq, Venezuela, and Argentina. The pattern: American political spending protects extraction operations in countries where communities have even less power to resist than Richmond residents do. The workers in those countries generate the wealth. The shareholders in San Ramon capture it. The lobbyists in Washington ensure no law requires transparency about how the money flows.
+
+The cap-and-trade story captures the full mechanism. Chevron fought AB 378 by incentivizing the United Steelworkers to withdraw support, trading a five-year refinery upgrade contract for labor opposition to environmental regulation. Workers who breathe refinery emissions were enlisted to lobby against the regulation that would reduce those emissions, because Chevron made their jobs contingent on the pollution continuing. That is the class analysis in a single transaction: capital converting labor's economic vulnerability into political support for capital's interests.
+
 ### Enemies / Opposition
 
 , Communities for a Better Environment (CBE). Richmond chapter

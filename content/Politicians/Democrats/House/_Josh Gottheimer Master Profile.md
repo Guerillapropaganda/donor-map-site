@@ -1,9 +1,9 @@
 ---
 title: "Josh Gottheimer Master Profile"
 type: politician
-content-readiness: draft
+content-readiness: ready
 central-thesis: "The centrist Democrat as corporate insurance policy. Gottheimer's structural role is to prevent the Democratic majority from enacting legislation that threatens donor class interests while maintaining the appearance of pragmatism and bipartisanshi..."
-last-updated: 2026-04-11
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -115,6 +115,18 @@ The centrist Democrat as corporate insurance policy. Gottheimer's structural rol
 - Microsoft PAC: $16K+
 - Meta PAC: $14K+
 - Combined big tech: $72K+
+
+## Class Analysis
+
+Josh Gottheimer is capital's insurance policy inside the Democratic caucus. His structural role is not to vote against progressive legislation. It is to ensure progressive legislation never arrives in a form that threatens donor-class interests. The Problem Solvers Caucus functions as a pre-negotiation chamber where progressive proposals enter and corporate-friendly compromises exit. Wealth taxes get negotiated down. Drug price negotiation gets carved with loopholes. Antitrust bills get drafted with escape hatches. The progressive proposal enters committee. The Problem Solvers version exits. There is no losing vote, no public accountability, just a "pragmatic compromise" that preserves capital's interests.
+
+The donor class map is a roster of the industries Gottheimer protects. Goldman Sachs PAC ($28,000+), JPMorgan Chase ($26,000+), Bank of America ($22,000+), Citigroup ($20,000+), Morgan Stanley ($18,000+): $114,000+ from the top five banks alone. PhRMA ($32,000+), Pfizer ($18,000+), Merck ($14,000+): $76,000+ in pharma PAC money, among the highest for any House Democrat. Google ($24,000+), Amazon ($18,000+), Microsoft ($16,000+), Meta ($14,000+): $72,000+ from Big Tech. Apollo Global ($16,000+), KKR ($14,000+), Blackstone ($12,000+): $42,000+ from private equity and hedge funds. Every major sector of American capital has a line item in Gottheimer's donor ledger.
+
+The Palantir exception is the most revealing marker. When most House Democrats returned or refused Palantir money due to ICE surveillance contracts, Gottheimer kept taking it. The $13,600+ in Palantir executive donations reveal that Gottheimer's "pragmatism" means corporate alignment, full stop. The choice to accept surveillance-capitalism money while others refused is not centrism. It is a class position that values corporate relationships over human rights concerns that most of his caucus considered disqualifying.
+
+Gottheimer's class function is to make capital-friendly outcomes look like reasonable compromise rather than clear donor preference. He talks left and votes center. He endorses progressive priorities while working to weaken them. Each audience, progressives seeking compromise and donors seeking protection, believes Gottheimer is really on their side. The donor class knows better. They fund him precisely for the moderating function, not in spite of it.
+
+---
 
 ## Donation-to-Policy Timeline
 
