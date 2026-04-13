@@ -2,9 +2,9 @@
 title: "Bill Cassidy Master Profile"
 type: politician
 bioguide-id: "C001075"
-content-readiness: draft
+content-readiness: ready
 central-thesis: "Bill Cassidy is the vault's case study in how petrochemical and fossil fuel industry dominance in Louisiana's economy functions as a structural replacement for standard donor-class influence. Cassidy represents a state where the donor class and th..."
-last-updated: 2026-03-24
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 party: "Republican"
@@ -114,6 +114,14 @@ The Louisiana petrochemical industry tolerated his Trump vote because it served 
 > Cassidy's impeachment vote should have been career-ending in Louisiana. Instead, he survived and became the lead author on a $1.2 trillion infrastructure bill that funneled federal money directly to his state's dominant industry. The pattern: his vote to convict Trump was permitted (even lionized by national media) because it didn't threaten Louisiana petrochemical interests — it actually preserved his capacity to deliver on energy infrastructure legislation that those interests needed. The censure was meaningless; the primary challenge from Letlow is real only because Trump demanded it, but Louisiana's oil/gas industry remains his structural base.
 
 ---
+
+## Class Analysis
+
+Bill Cassidy's class position is defined by Louisiana's petrochemical economy, which is not a donor relationship in the conventional sense but a total structural alignment. Oil, gas, and petrochemical production account for 15% of Louisiana's GDP and 80% of its industrial manufacturing jobs. Cassidy's career-long fossil fuel funding is not a bribe. It is the economic identity of the state expressed through campaign finance. His physician credentials give him unique credibility on the one issue where the petrochemical industry is most vulnerable: health. When Biden referred to Louisiana's industrial corridor as "Cancer Alley," Cassidy rebuked him for "slamming upon our state" and attributed higher cancer rates to lifestyle factors like smoking and overeating rather than industrial pollution. A physician defending polluters against epidemiological evidence is the donor class's most valuable asset.
+
+The bipartisan infrastructure bill ($1.2 trillion) reveals the class mechanics precisely. Cassidy co-authored a bill that included $8 billion for hydrogen hubs and $6 billion for carbon capture pipeline infrastructure. Carbon capture requires pipelines owned by petrochemical companies. Blue hydrogen, made from natural gas with carbon sequestration, is fossil fuel infrastructure rebranded as climate policy. Louisiana received billions in these allocations, flowing directly to the petrochemical companies that dominate the state's industrial base. The bipartisan label made it possible. A Republican-only bill would have been attacked as an industry handout. A bipartisan bill authored by the "constitutional Republican who voted to convict Trump" became infrastructure investment.
+
+That impeachment vote is the key to understanding Cassidy's class function. He should have been destroyed by it in deep-red Louisiana. Instead, the petrochemical industry tolerated it because his dealmaking capacity was more valuable than his Trump loyalty. A senator who could negotiate with Democrats and the Biden White House could deliver the infrastructure billions that Louisiana's oil economy needed. The Louisiana GOP censured him. The donor class protected him. His political survival was purchased by the same industry that faces environmental justice claims from the communities his physician authority helps discredit.
 
 ## Analytical Patterns
 

@@ -36,7 +36,7 @@ The whiteboard technique started in Porter's Harvard Law classroom. She used it 
 
 **Amgen CEO:** Porter itemized Amgen's spending — stock buybacks, executive compensation, dividends to shareholders — versus R&D investment. The whiteboard made the allocation visible: shareholder returns exceeded research spending. The clip framed pharmaceutical pricing as a distribution problem, not a cost problem.
 
-**Wells Fargo CEO:** Account fraud scandal oversight. Porter used the whiteboard to walk through specific consumer harm — unauthorized accounts, fees charged to victims, timeline of corporate knowledge. The cross-examination technique: never ask a question you don't already know the answer to.
+**Wells Fargo CEO:** Account misconduct scandal oversight. Porter used the whiteboard to walk through specific consumer harm — unauthorized accounts, fees charged to victims, timeline of corporate knowledge. The cross-examination technique: never ask a question you don't already know the answer to.
 
 ---
 

@@ -69,7 +69,7 @@ SKDK's corporate client list is harder to reconstruct precisely because the firm
 - **Starbucks** — Corporate reputation management (SKDK and Starbucks parted ways in 2022 amid the Starbucks Workers United unionization campaign)
 - **TikTok/ByteDance** — Hired in 2023 to manage the Biden-adjacent influence campaign against the proposed TikTok ban, exploiting SKDK's direct relationship with the Biden White House
 - **General Mills, Kellogg, Pepsi** — In 2010, SKDK mobilized to help processed food companies defeat guidelines designed by First Lady Michelle Obama to discourage marketing unhealthy foods to children
-- **For-profit colleges** — In 2010, SKDK helped for-profit colleges and universities defeat Obama administration regulations designed to address fraud in the industry
+- **For-profit colleges** — In 2010, SKDK helped for-profit colleges and universities defeat Obama administration regulations designed to address misconduct in the industry
 
 #### Environmental Organizations
 
@@ -130,7 +130,7 @@ SKDK doesn't deliver specific legislative provisions the way registered lobbying
 
 1. **Food industry vs. Michelle Obama (2010):** SKDK helped General Mills, Kellogg, and Pepsi defeat proposed guidelines to limit marketing unhealthy foods to children — developed by the Obama administration that SKDK's own principals had helped elect.
 
-2. **For-profit college protection (2010):** SKDK helped the for-profit education industry defeat Obama-era regulations targeting fraud — again, regulations from the administration SKDK's people had helped install.
+2. **For-profit college protection (2010):** SKDK helped the for-profit education industry defeat Obama-era regulations targeting misconduct — again, regulations from the administration SKDK's people had helped install.
 
 3. **TikTok/ByteDance (2023):** The American Prospect reported that SKDK was hired by TikTok to manage influence operations against the proposed ban, exploiting the firm's relationship with the Biden White House. Anita Dunn was inside the White House while SKDK worked for TikTok outside it.
 
@@ -189,7 +189,7 @@ The FEC-visible revenue alone makes SKDK one of the largest political consulting
 |------|-----------------|--------|---------------|----------|
 | 2009 | Obama White House | Dunn salary | Anita Dunn becomes WH Comms Director — firm's access to executive branch established | Immediate |
 | 2010 | Food industry coalition | Undisclosed | SKDK defeats Michelle Obama's child food marketing guidelines on behalf of General Mills, Kellogg, Pepsi | <12 months after Dunn leaves WH |
-| 2010 | For-profit education industry | Undisclosed | SKDK defeats Obama admin regulations targeting for-profit college fraud | <12 months after Dunn leaves WH |
+| 2010 | For-profit education industry | Undisclosed | SKDK defeats Obama admin regulations targeting for-profit college misconduct | <12 months after Dunn leaves WH |
 | 2015 | Stagwell Group / Mark Penn | $75M acquisition | Penn acquires SKDK — merging Clinton pollster network with Obama consulting machine | N/A |
 | 2020 | Biden campaign | $2M+ | SKDK handles Biden campaign media — Dunn returns to WH as senior adviser Jan 2021 | <3 months |
 | 2021–2024 | Biden White House | Dunn salary | Dunn inside WH while SKDK's corporate clients (Pfizer, TikTok, AT&T) benefit from perceived access | Concurrent |

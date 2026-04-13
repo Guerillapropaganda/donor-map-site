@@ -1,9 +1,9 @@
 ---
 title: "Frank Lucas Master Profile"
 type: politician
-content-readiness: draft
+content-readiness: ready
 central-thesis: "Frank Lucas is the man who votes on his own subsidy checks. He sits on the committee that writes the Farm Bill, directly benefiting from the legislation he authors. This is not accidental. It is structural corruption protected by both parties and ..."
-last-updated: 2026-04-11
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 party: "Republican"
@@ -215,6 +215,16 @@ This is not accidental. Lucas was given the Science Committee specifically becau
 > **Same legislation:** 2014 Farm Bill created Livestock Gross Margin Insurance — a new program subsidizing insurance specifically for ranchers like Lucas — while simultaneously cutting $3B from SNAP (food assistance for the poor). The man who wrote the bill benefited from the program it created.
 >
 > **Dual committee leverage (2019-present):** Oil & gas donors give $50K+ annually → Lucas chairs Science Committee that allocates federal energy research funding → funding flows to fossil fuel research in oil-producing states → same donors fund next cycle. The money cycles continuously through two committee chairs.
+
+---
+
+## Class Analysis
+
+Frank Lucas is a third-generation rancher who collects USDA subsidy checks while chairing the committee that writes those checks. This is not a metaphor. Lucas has received $100,000+ in direct farm subsidy payments over his congressional career while co-authoring every Farm Bill since 1996. Each bill expanded the commodity subsidy system. Each expansion increased payments to operations like his own. The 2014 Farm Bill created Livestock Gross Margin Insurance, a new program that subsidized insurance specifically for ranchers, while simultaneously cutting $3 billion from SNAP food assistance. The man who wrote the bill profited from the program it created.
+
+The donor class that funds Frank Lucas is the same class that receives the subsidies he authorizes. The American Farm Bureau Federation and the National Cattlemen's Beef Association give him campaign money. He chairs the committee that writes the legislation governing their industries. His 2022 cycle raised $472,295 with $393,400 from PACs, more than 83% of total fundraising coming from organized interests. The National Cattlemen's Beef Association spends $3.1 million on lobbying and sits on the Agriculture Committee Lucas chairs. The money moves in a circle: donors fund Lucas, Lucas writes the Farm Bill, the Farm Bill sends federal money to the donors.
+
+Lucas's dual committee chairmanship (Agriculture and Science) doubles the pipeline. Oil and gas producers in Oklahoma give $50,000+ annually to Lucas. Lucas chairs the Science Committee that allocates federal energy research funding. Funding flows to fossil fuel research in oil-producing states. The same donors who funded his campaigns benefit from his committee votes. The commodity subsidy system costs taxpayers $150 billion per decade, and the man who built it also collects from it. "Small government conservative" is the label. $150 billion in federal subsidies to his own class is the record.
 
 ---
 

@@ -102,11 +102,11 @@ Between 2008 and 2018 — the decade when opioid overdose deaths surged from 36,
 
 ### The 2020 Federal Plea — $8.3 Billion in Uncollectable Fines
 
-On November 24, 2020, Purdue Pharma pleaded guilty to three federal felonies: one count of conspiracy to deceive the United States and violate the Food, Drug, and Cosmetic Act, and two counts of conspiracy to violate the Federal Anti-Kickback Statute. The settlement totaled $8.3 billion — $3.544 billion in criminal fines, $2 billion in criminal forfeiture, and $2.8 billion in civil liability.
+On November 24, 2020, Purdue Pharma pleaded guilty to three federal felonies: one count of conspiracy to deceive the United States and violate the Food, Drug, and Cosmetic Act, and two counts of conspiracy to violate the Federal Anti-payoff Statute. The settlement totaled $8.3 billion — $3.544 billion in unlawful fines, $2 billion in unlawful forfeiture, and $2.8 billion in civil liability.
 
 Purdue admitted it conspired to impede the DEA by misrepresenting its anti-diversion program while continuing to market opioids to 100+ healthcare providers it had reason to believe were diverting drugs. The company also admitted to paying kickbacks to electronic health records company Practice Fusion to generate OxyContin prescriptions.
 
-The critical limitation: the $8.3 billion in fines were largely uncollectable from a bankrupt company. The Sackler family members did not admit criminal wrongdoing. No individual Sackler was charged.
+The critical limitation: the $8.3 billion in fines were largely uncollectable from a bankrupt company. The Sackler family members did not admit unlawful wrongdoing. No individual Sackler was charged.
 
 ### The Supreme Court and the Immunity Question (2024-2025)
 
@@ -139,7 +139,7 @@ State attorneys general (particularly Maura Healey of Massachusetts, who was fir
 
 ### Connected Policy Areas
 
-Drug pricing and FDA regulation, opioid prescribing guidelines, prescription drug monitoring programs, bankruptcy reform (the SACKLER Act would prohibit non-debtor releases in bankruptcy), pharmaceutical marketing regulation, Medicaid and Medicare opioid spending, state-level tort reform, and corporate criminal accountability.
+Drug pricing and FDA regulation, opioid prescribing guidelines, prescription drug monitoring programs, bankruptcy reform (the SACKLER Act would prohibit non-debtor releases in bankruptcy), pharmaceutical marketing regulation, Medicaid and Medicare opioid spending, state-level tort reform, and corporate unlawful accountability.
 
 ---
 

@@ -1,9 +1,9 @@
 ---
 title: Shelley Moore Capito
 type: politician
-content-readiness: draft
+content-readiness: ready
 central-thesis: "Shelley Moore Capito chairs the committee that regulates the fossil fuel industry — and the fossil fuel industry is her largest donor class, her state's economic backbone, and her family's employer. The EPW Committee oversees the EPA, the Clean Ai..."
-last-updated: '2026-04-09'
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 party: Republican
@@ -136,6 +136,18 @@ The dynastic element deepens the story. Her father — a governor convicted of e
 | 2011 | SON | Arch Moore Capito hired by natural gas company (ECA) | — | — | 21 years |
 | 2025 | DAUGHTER | Capito chairs EPW — the committee regulating fossil fuels | — | — | 35 years |
 | 2025 | ← NOTE | Three generations: father convicted for coal corruption; daughter chairs fossil fuel regulatory committee; son employed by natural gas company that donates to daughter | — | — | — |
+
+---
+
+## Class Analysis
+
+Shelley Moore Capito's donor class is the fossil fuel industry. Oil and gas is her top donor sector across a 24-year congressional career. Coal mining, electric utilities, and chemical manufacturing round out the top five. The Koch network contributes through PAC and individual channels. Energy Corporation of America employees have given approximately $60,000 to Capito's campaigns while her son Arch Moore Capito works as in-house counsel at ECA. The donor class and the family employment are the same network.
+
+The class structure is generational. Capito's father, Governor Arch Moore Jr., was convicted of extorting $573,000 from a coal company. Her son works for a natural gas company. Capito chairs the Environment and Public Works Committee, which oversees the EPA, the Clean Air Act, and every regulation that touches coal and natural gas. Three generations of the Moore-Capito family have occupied the intersection of West Virginia politics and fossil fuel money. The father's version was illegal. The daughter's version is institutional.
+
+West Virginia ranks 49th or 50th in median household income. The state needs economic diversification, healthcare investment, and infrastructure beyond extraction. Capito's EPW chairmanship delivers the opposite: systematic dismantling of environmental protections that her fossil fuel donors oppose. The D.C. Coal Club gave her a lifetime achievement award. The Gas and Oil Association of West Virginia endorsed her for 2026. The constituency that needs clean water, clean air, and Superfund cleanup gets an EPW chair whose stated goal is to "unshackle" the industries responsible for the pollution.
+
+The U.S. Chamber of Commerce spent $400,000 supporting Capito. TAKE ME HOME WV ACTION spent $460,720. The Senate Majority PAC spent $468,063 opposing her. The fossil fuel industry's investment in Capito's EPW chairmanship is the clearest case of regulatory capture in the vault: the regulated industry funds the regulator, and the regulator's agenda is to neutralize the regulation.
 
 ---
 

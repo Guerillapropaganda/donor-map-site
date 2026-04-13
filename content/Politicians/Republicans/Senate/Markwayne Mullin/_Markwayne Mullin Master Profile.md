@@ -1,9 +1,9 @@
 ---
 title: Markwayne Mullin
 type: politician
-content-readiness: draft
+content-readiness: ready
 central-thesis: "Mullin is the energy industry's blue-collar brand — a senator whose working-class narrative provides populist cover for fossil fuel donor priorities. His structural function: replace Jim Inhofe (the Senate's most famous climate denier) with a youn..."
-last-updated: 2026-04-10
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 party: Republican
@@ -132,6 +132,16 @@ Mullin inherits a DHS in turmoil, replacing Kristi Noem, who was fired after a $
 The 15.57% self-financing rate and low small-dollar percentage undercut the "blue-collar plumber" brand — Mullin's campaign is funded by his own accumulated wealth and industry PACs, not by small donors from his Oklahoma constituency.
 
 ---
+
+## Class Analysis
+
+Markwayne Mullin's class position is the entire story. A man who entered Congress claiming to be a working plumber saw his net worth explode from roughly $2.8-9 million to between $29 million and $97 million during his time in office. That wealth accumulation happened while oil and gas companies poured $1.3 million into his campaigns, while he executed 500+ stock trades worth $24 million (including defense contractor stocks he oversaw on Armed Services), and while his family businesses collected $1.45 million in PPP loans. The plumber brand is not incidental to the donor relationship. It is the donor relationship's most valuable product.
+
+The class function Mullin serves is specific: he replaced Jim Inhofe as Oklahoma's oil and gas senator, maintaining perfect policy continuity while upgrading the packaging from elderly climate denier to young, telegenic populist. Devon Energy alone contributed $104,950. The oil industry did not need to buy Mullin's loyalty because his personal economic identity and their legislative priorities were already identical. What they bought was the brand, the blue-collar story that makes fossil fuel deregulation sound like common sense rather than what it is: the organized transfer of environmental costs onto working communities.
+
+The Cherokee Nation relationship reveals the class dynamics most clearly. Mullin is one of few Indigenous senators, and his tribal citizenship is central to his biography. But the material record shows federal stimulus funds flowing to his plumbing company through Cherokee and Muscogee Nations ($370,000), and his family selling a restaurant to the Cherokee Nation for $700,000 above assessed value. His 2025 legislation requiring Cherokee Nation approval for new trust land acquisitions served Cherokee Nation institutional interests over smaller tribal nations. Indigenous identity provides credibility. The policy outcomes serve the same donor class interests as every other dimension of Mullin's career.
+
+The DHS nomination is the capstone. Mullin signed an ethics agreement pledging to divest from Amazon, Alphabet, Microsoft, L3Harris, RTX, and Nvidia, all companies with massive government contracts. The divestment pledge was an implicit admission that the conflicts were real all along. The plumber who became a senator who became a multimillionaire who became a Cabinet secretary. At every stage, the working-class brand appreciated in value while the working class itself got nothing.
 
 ## Rhetorical Signature Moves
 

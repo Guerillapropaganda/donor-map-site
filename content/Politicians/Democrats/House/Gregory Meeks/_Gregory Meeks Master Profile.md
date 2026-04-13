@@ -129,7 +129,7 @@ The seller, Robert Gaskin, was a contractor who benefited from Meeks' taxpayer-f
 Ethics Committee found lawmakers "had no way of knowing" the trip was improperly funded — but the foreign government money still flowed.
 
 ### 4. Allen Stanford / Venezuela
-Ponzi schemer Allen Stanford asked Meeks to meet with Hugo Chávez on his behalf to request a criminal probe into Venezuelan banker Gonzalo Tirado. Tirado was charged with tax evasion and theft one year after the Meeks-Chávez meeting. Meeks claimed the trip was to thank Chávez for Citgo heating oil assistance to poor Americans. CREW assessment: "It's a whole new level to reach out to dictators on behalf of any donor."
+Ponzi schemer Allen Stanford asked Meeks to meet with Hugo Chávez on his behalf to request a unlawful probe into Venezuelan banker Gonzalo Tirado. Tirado was charged with tax evasion and theft one year after the Meeks-Chávez meeting. Meeks claimed the trip was to thank Chávez for Citgo heating oil assistance to poor Americans. CREW assessment: "It's a whole new level to reach out to dictators on behalf of any donor."
 
 ---
 

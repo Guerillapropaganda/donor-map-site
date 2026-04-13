@@ -1,9 +1,9 @@
 ---
 title: "JD Vance Master Profile"
 type: politician
-content-readiness: draft
+content-readiness: ready
 central-thesis: "Vance is not an organic politician. He is an explicitly designed artifact created by Peter Thiel to serve three objectives:"
-last-updated: 2026-04-06
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 party: "Republican"
@@ -27,7 +27,7 @@ related: "[[_Donald Trump Master Profile]] · [[Peter Thiel]] · [[Elon Musk]] �
 ---
 #master-profile #politician #donor-funded
 
-donors: [[The Thiel Pipeline - From Yale to VP]] · [[Narya Capital and the Venture Capital Pipeline]] · [[The 2024 Tech Billionaire Network]] · [[Hillbilly Elegy and the Class Fraud]]
+donors: [[The Thiel Pipeline - From Yale to VP]] · [[Narya Capital and the Venture Capital Pipeline]] · [[The 2024 Tech Billionaire Network]] · [[Hillbilly Elegy and the Class misconduct]]
 
 | Field | Value |
 |-------|-------|

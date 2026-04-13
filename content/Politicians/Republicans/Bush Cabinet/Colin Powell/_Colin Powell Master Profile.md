@@ -105,7 +105,7 @@ The pattern: military authority → government deployment of credibility for def
 
 ## Analytical Patterns
 
-**Credibility as Weapon:** Powell's primary asset was not military rank or policy expertise — it was the fact that Americans trusted him. The Bush administration deployed that trust to legitimate fraud. This is credibility weaponization: converting personal reputation into political capability.
+**Credibility as Weapon:** Powell's primary asset was not military rank or policy expertise — it was the fact that Americans trusted him. The Bush administration deployed that trust to legitimate misconduct. This is credibility weaponization: converting personal reputation into political capability.
 
 **Revolving Door (Military → Government → Defense Contractors):** Powell's career path exemplifies the military-industrial nexus. His military authority led to government position; his government position deployed that authority to benefit defense contractors; defense contractors then rewarded him with board seats and compensation.
 

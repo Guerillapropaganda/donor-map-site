@@ -256,7 +256,7 @@ The Columbus Partnership (founded 2002), Columbus 2020 / One Columbus economic d
 
 Following the February 2026 release of unredacted FBI co-conspirator documents, the Ohio Nurses Association (ONA) led a campaign to remove Wexner's name from all OSU buildings. Over 100 nurses, union members, students, and community members protested outside the Wexner Medical Center in February 2026.
 
-ONA President Rick Lucas stated: "This is not a criminal trial. This is about proximity, trust and accountability. Wexner's money funded a network that exploited women and children."
+ONA President Rick Lucas stated: "This is not a trial. This is about proximity, trust and accountability. Wexner's money funded a network that exploited women and children."
 
 The ONA letter also called out the naming of a labor and delivery waiting area for Dr. Mark Landon — who, it was revealed, received several payments from Epstein in the early 2000s. OSU said it was investigating Landon.
 

@@ -1,9 +1,9 @@
 ---
 title: "Rosa DeLauro"
 type: politician
-content-readiness: draft
+content-readiness: ready
 central-thesis: "DeLauro is the working-class progressive who controls the spending. Her Appropriations gavel gives her direct authority over federal spending allocations — and the industries that depend on those allocations fund her campaign. The contradiction is..."
-last-updated: 2026-04-11
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -121,6 +121,16 @@ DeLauro is the working-class progressive who controls the spending. Her Appropri
 | Multiple cycles | Secured Army Black Hawk contract for Sikorsky | $2.3B contract | DeLauro press releases |
 | 2021-2022 | Health professional contributions | $121,423 | OpenSecrets |
 | 2021 | Instrumental in expanded Child Tax Credit passage | — | Congressional Record |
+
+---
+
+## Class Analysis
+
+Rosa DeLauro is the Appropriations Committee's progressive face on a defense contractor pipeline. Her district includes Stratford, Connecticut, home to Lockheed Martin's Sikorsky Aircraft division. DeLauro has secured $185.7 million for CH-53K Heavy Lift Aircraft, $507 million for Black Hawk production, and a $2.3 billion Army contract for 120 Black Hawk helicopters, all flowing directly to her district. Lockheed Martin has given her $130,000+ over her career. She told reporters: "I'll be damned if they're not going to be made in Stratford, Connecticut, at Sikorsky." The Appropriations member who directs federal spending toward a contractor also receives that contractor's campaign contributions.
+
+The progressive brand is real but bounded. DeLauro's child tax credit work reduced child poverty to historic lows. Her SNAP defense and food safety advocacy are genuine. But these wins coexist with $172,000+ from the Israel lobby (AIPAC and affiliates), $121,423 from health professionals in the 2021-22 cycle alone, and a husband (Stanley Greenberg) whose political consulting firm has had business ties to Monsanto. Her 2026 cycle shows $689,298 raised with $317,000 from PACs, 46% of total fundraising from organized interests. She supports Medicare for America, which preserves private insurers, rather than single-payer Medicare for All. The progressive wins stop precisely at the line where they would threaten the donor industries that fund her committee position.
+
+DeLauro's Appropriations Committee jurisdiction covers virtually all federal discretionary spending. Her Labor-HHS subcommittee controls FDA budget, NIH funding, education spending, and labor enforcement. This makes her relevant to healthcare, pharma, education, and labor donors simultaneously. The American Hospital Association PAC spent $100,000 supporting her. The Working Families Party spent $155,000. The committee gavel is the product. The child nutrition fight gets the headlines. The defense appropriations, Israel lobby funding, and healthcare industry access get the returns.
 
 ---
 

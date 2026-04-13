@@ -43,7 +43,7 @@ ActBlue's institutional interests are straightforward: platform survival, Democr
 
 However, ActBlue's structural position creates implicit priorities. The platform benefits from high-emotion, high-engagement political moments that drive donation surges — contested primaries, crisis moments, viral candidate launches. ActBlue's recommendation algorithms and email integration tools shape which campaigns receive the largest small-dollar surges, even without explicit endorsement. The platform's design rewards candidates who generate online engagement over those who rely on traditional fundraising networks.
 
-ActBlue also has a strong institutional interest in resisting Republican legislative and investigative efforts to restrict its operations. Since 2024, Republican attorneys general in Texas, Virginia, and other states have launched investigations into ActBlue alleging donor fraud and insufficient identity verification. The House Administration Committee demanded information on potential foreign influence in campaign funding processed through ActBlue. ActBlue has characterized these investigations as partisan attacks.
+ActBlue also has a strong institutional interest in resisting Republican legislative and investigative efforts to restrict its operations. Since 2024, Republican attorneys general in Texas, Virginia, and other states have launched investigations into ActBlue alleging donor misconduct and insufficient identity verification. The House Administration Committee demanded information on potential foreign influence in campaign funding processed through ActBlue. ActBlue has characterized these investigations as partisan attacks.
 
 ---
 
@@ -76,7 +76,7 @@ ActBlue does not fund candidates directly. It is a conduit that processes indivi
 | 2020 | Record cycle processing | Democratic ecosystem | $4.7B total raised | ActBlue processed more money than any single political organization in history |
 | 2024 Jul | Harris launch surge | Kamala Harris | $81M in 24 hours | Largest single-day fundraising event in ActBlue history; 1.1M donors in first weekend |
 | 2024 | Full cycle processing | Democratic ecosystem | $3.82B raised | More than double WinRed's $1.8B Republican equivalent |
-| 2024-2025 | Republican investigations | TX AG Paxton, VA AG Miyares, House Admin Committee | N/A | Multiple state and federal investigations into donor verification, alleged fraud; ActBlue required CVV verification for all new credit card donations |
+| 2024-2025 | Republican investigations | TX AG Paxton, VA AG Miyares, House Admin Committee | N/A | Multiple state and federal investigations into donor verification, alleged misconduct; ActBlue required CVV verification for all new credit card donations |
 | 2025-2026 | Current cycle (through Feb 2026) | Democratic ecosystem | $1.37B raised | On pace for another multi-billion-dollar cycle; $64.4M retained for operations |
 
 > [!money]
@@ -91,7 +91,7 @@ ActBlue's core brand promise — that small-dollar donors represent a democratic
 > [!contradiction]
 > ActBlue markets itself as democratizing fundraising, empowering ordinary people to compete with billionaire donors. But the platform's actual structural effect is to create a new form of centralized infrastructure power. ActBlue is a private organization that controls 95%+ of one major party's online fundraising capacity, charges a 3.95% fee on every transaction, and makes design decisions (recommendation algorithms, email tools, bundling features) that shape which campaigns receive money — all without any democratic accountability to the donors whose money it processes. The "democratization" of fundraising produced a new private monopoly. Small-dollar donors replaced bundlers as the primary funding mechanism, but ActBlue replaced the bundlers as the intermediary — and intermediaries always accumulate power.
 
-The fraud investigations add another layer. In 2024, Republican investigators alleged that ActBlue had loosened internal fraud-detection measures after complaints that too many donations were being flagged. The House Administration Committee's investigation found evidence that ActBlue policy changes in 2024 resulted in more deceptive donations on the platform. ActBlue implemented CVV verification for all new credit card donations in response, but the episode reveals the tension between maximizing donation volume (ActBlue's financial interest) and ensuring donor verification (democratic integrity).
+The misconduct investigations add another layer. In 2024, Republican investigators alleged that ActBlue had loosened internal misconduct-detection measures after complaints that too many donations were being flagged. The House Administration Committee's investigation found evidence that ActBlue policy changes in 2024 resulted in more deceptive donations on the platform. ActBlue implemented CVV verification for all new credit card donations in response, but the episode reveals the tension between maximizing donation volume (ActBlue's financial interest) and ensuring donor verification (democratic integrity).
 
 ---
 

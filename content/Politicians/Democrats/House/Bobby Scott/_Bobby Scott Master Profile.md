@@ -1,7 +1,7 @@
 ---
 title: "Bobby Scott"
 type: politician
-content-readiness: draft
+content-readiness: ready
 central-thesis: "Bobby Scott is the labor movement's legislative architect — the committee chair who writes the bills that unions need but that the donor class ensures never become law. His career is a case study in the structural limits of inside-game progressivi..."
 last-updated: 2026-04-13
 source-tier: 1
@@ -137,6 +137,14 @@ Education & Workforce Committee jurisdiction maps directly to union donor base: 
 | 2021 | ← NOTE | Pension rescue = largest labor policy win in decades; passed because it was buried in must-pass COVID relief | — | — | — |
 
 ---
+
+## Class Analysis
+
+Bobby Scott is the inverse of most profiles in this vault. His top donors are unions: the National Education Association, American Federation of Teachers, SEIU, AFSCME, and AFL-CIO. These are organizations representing workers, not capital. His voting record, his legislation, and his donor base all point the same direction. Near-perfect scores from every major labor organization. Thirty-plus years of consistent alignment. The donor-legislator relationship here is genuine, not captured.
+
+The class analysis is not about Scott's corruption. It is about his structural impotence. Three decades of genuine commitment to workers' rights, positioned at the exact committee where labor legislation originates (Education and Workforce, where he serves as Ranking Member), has produced one major win and a graveyard of dead bills. The Raise the Wage Act has been introduced four or more times. The PRO Act passed the House and died in the Senate. The $90 billion multiemployer pension rescue passed only because it was buried inside the American Rescue Plan, a must-pass COVID relief bill where blocking it carried too high a political cost. When labor's bills stand alone, they hit the donor-class veto point in the Senate every time.
+
+Scott proves that alignment with workers is possible and insufficient. The labor movement's best-positioned legislator, with 30-plus years of seniority and the committee gavel, cannot pass a minimum wage increase. His committee proposes; the Senate disposes. The Senate answers to a different donor class entirely. The Every Student Succeeds Act passed because it served bipartisan interests: the NEA got reduced testing mandates, and conservative reformers got reduced federal oversight. Bipartisan wins happen when interests converge. When labor's interests collide with corporate power, three decades of seniority and a Harvard degree change nothing. The blockage is the feature, not the bug.
 
 ## Analytical Patterns
 

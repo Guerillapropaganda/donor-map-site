@@ -1,8 +1,8 @@
 ---
 title: "Invariant"
 type: lobbying-firm
-content-readiness: draft
-last-updated: 2026-04-12
+content-readiness: ready
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 annual-revenue: "$47.2M (2025) / $42.3M (2024)"
@@ -233,7 +233,7 @@ Invariant's rebrand from "Heather Podesta + Partners" to "Invariant" is a microc
 
 What actually changed: nothing. Podesta still runs the firm. The Democratic bundling operation still operates. The clients are largely the same. What changed is the **presentation of the firm's political alignment** — and that presentation is worth tens of millions of dollars in fees from clients who want to be seen as neither partisan nor corrupting, simply "working within the system."
 
-The deeper structural function: Invariant is not just a lobbying firm. It is a **financial conduit between the donor class and the Democratic Party leadership**. By bundling millions to the DCCC and DSCC, Invariant's lobbyists create financial obligations in Democratic politicians who then cannot credibly oppose their clients. This is not quid pro quo misconduct — it is institutionalized dependency. The politicians don't vote for Palantir's ICE contracts because they were bribed; they simply never prioritize challenging them, because the people funding their campaigns are the same people who lobby for those contracts.
+The deeper structural function: Invariant is not just a lobbying firm. It is a **financial conduit between the donor class and the Democratic Party leadership**. By bundling millions to the DCCC and DSCC, Invariant's lobbyists create financial obligations in Democratic politicians who then cannot credibly oppose their clients. This is not quid pro quo misconduct — it is institutionalized dependency. The politicians don't vote for Palantir's ICE contracts because they were paid off; they simply never prioritize challenging them, because the people funding their campaigns are the same people who lobby for those contracts.
 
 Invariant's Palantir portfolio crystallizes this. As progressive constituents demanded that Democratic leaders take a stand against ICE surveillance technology, those same leaders were being hosted at Invariant fundraisers and accepting bundled checks from Heather Podesta's lobbyists. The firms' bipartisanship doesn't mean it serves both parties equally — it means the donor class has successfully installed a political infrastructure that services its interests regardless of which party wins.
 

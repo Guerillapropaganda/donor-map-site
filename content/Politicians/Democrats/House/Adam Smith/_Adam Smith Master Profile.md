@@ -1,7 +1,7 @@
 ---
 title: "Adam Smith"
 type: politician
-content-readiness: draft
+content-readiness: ready
 central-thesis: "Adam Smith is the Democratic face of the military-industrial complex. His district contains Boeing's Renton operations, Washington State hosts six active-duty military installations, and his top three career donors — Boeing, Northrop Grumman, and ..."
 last-updated: 2026-04-13
 source-tier: 1
@@ -117,6 +117,14 @@ Washington State's 9th District is defense contractor country: Boeing (Renton), 
 | 2025-2026 | Votes NO on FY2026 NDAA (cites partisan amendments) | — | House Armed Services |
 
 ---
+
+## Class Analysis
+
+Adam Smith is the Democratic face of the military-industrial complex, and his donor map makes no effort to hide it. Sixty percent of his campaign donations come from PACs, with defense contractors dominating the pipeline. His top three career donors are Boeing ($163,450), Northrop Grumman ($150,250), and Raytheon ($117,000), totaling $430,700 from just three weapons manufacturers. His leadership PAC is literally named ADAM (American Defense and Military) PAC, and it raised $51,000 almost entirely from defense contractors and lobbyists. In the 2019-2020 cycle alone, he took $235,750 from defense industry PACs.
+
+The Northrop Grumman problem exposes the class function most clearly. Northrop Grumman is Virginia-based with zero facilities in the Pacific Northwest. This is not constituent service. It is jurisdictional tribute. Northrop funds Smith because he controls the Armed Services Committee that authorizes their contracts. Boeing, by contrast, operates in his district (Renton, Kent, Tukwila), making that relationship simultaneously constituent service and donor service. The overlap is what makes the capture structurally invisible: defending Boeing's contracts can always be framed as defending local jobs.
+
+Smith publicly supports campaign finance reform, states "corporations are not people," and calls for overturning Citizens United. He then cashes $235,750 from defense PACs in a single cycle. When progressives proposed a 10% Pentagon budget cut in July 2020, Smith voted against it. When colleagues proposed 20%, he called them "extremists." The Democratic chairman of the Armed Services Committee called his own party's peace caucus extremists while defense contractors funded his campaigns. His ADA score of 70% in 2012 ran below the 80% House Democrat average, and the gap is almost entirely explained by defense industry alignment. On domestic issues, he is a standard Democrat. On the single largest discretionary spending item in the federal budget, he aligns with contractors over progressives every time.
 
 ## Analytical Patterns
 

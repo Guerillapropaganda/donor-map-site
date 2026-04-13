@@ -33,7 +33,7 @@ donors: [[AIPAC - American Israel Public Affairs Committee|AIPAC]]
 
 ## Who He Is
 
-Robert "Bob" Menendez. Former U.S. Senator from New Jersey (D). Resigned August 2024 after conviction on 16 federal counts including bribery, extortion, acting as an unregistered foreign agent (Egypt and Qatar), conspiracy, and honest services fraud. Began serving an 11-year prison sentence in June 2025. Previously served as Chairman of the Senate Foreign Relations Committee — the most powerful committee position for shaping U.S. foreign policy, including Cuba policy.
+Robert "Bob" Menendez. Former U.S. Senator from New Jersey (D). Resigned August 2024 after conviction on 16 federal counts including bribery, extortion, acting as an unregistered foreign agent (Egypt and Qatar), conspiracy, and honest services misconduct. Began serving an 11-year prison sentence in June 2025. Previously served as Chairman of the Senate Foreign Relations Committee — the most powerful committee position for shaping U.S. foreign policy, including Cuba policy.
 
 OpenSecrets CID: N00000699.
 
@@ -96,13 +96,21 @@ He opposed Obama-Castro normalization (2014), calling it "a reward that a totali
 | 2006-2024 | NorPAC, AIPAC, pro-Israel PACs | $90,550+ NorPAC alone | SFRC used to oppose JCPOA, protect Israel aid, block Palestine-related nominations | Continuous |
 | 2014 | Cuba exile community + AIPAC network | Career investment | Menendez publicly opposes Obama-Cuba normalization; uses SFRC to obstruct engagement | Immediate |
 | 2018-2022 | Egyptian government/businessmen | Cash + gold bars + Mercedes | Senate influence on Grand Ethiopian Renaissance Dam; Egyptian military aid protection | Concurrent |
-| 2013-2017 | Salomon Melgen | $750K+ contributions + luxury gifts | Senate intervention in Melgen's Medicare billing ($8.9M fraud), DR port contract, visa for girlfriends | Ongoing |
+| 2013-2017 | Salomon Melgen | $750K+ contributions + luxury gifts | Senate intervention in Melgen's Medicare billing ($8.9M misconduct), DR port contract, visa for girlfriends | Ongoing |
 | 2021-2024 | Qatar (unregistered agent) | Undisclosed | Senate influence on Qatar-favorable positions | Concurrent with SFRC chairmanship |
 
 > [!money] The Corruption Premium
 > Menendez's legal donor map — NorPAC, law firms, real estate — produced a career as a reliable Cuba hawk and Israel ally. His illegal donor map — Egypt, Qatar, Melgen — produced direct policy interventions worth millions to the payers. The career demonstrates that the campaign finance system is not the ceiling of donor influence — it is the floor. When institutional controls fail, the same power that donors rent through PAC contributions can be purchased outright through gold bars.
 
 ---
+
+## Class Analysis
+
+Bob Menendez operated on two donor class levels simultaneously: the legal campaign finance layer and the illegal bribery layer. The legal layer, anchored by NorPAC ($90,550 top donor), Lowenstein Sandler LLP ($86,797), Greenberg Traurig ($72,500), and Prudential Financial ($65,750), funded a career as a reliable Cuba hawk and Israel ally. The illegal layer, which produced his conviction on 16 federal counts, was the career's product: the direct monetization of Senate Foreign Relations Committee power.
+
+The SFRC chairmanship was the asset. Menendez could unilaterally block nominations, hold or withhold hearings, and shape every U.S. diplomatic relationship. He sold that power to multiple buyers at once. Egyptian government officials paid cash and gold bars for favorable positions on the Grand Ethiopian Renaissance Dam and military aid. Qatar's interests were served through unregistered foreign agency. Salomon Melgen contributed $750,000 in campaign donations plus private jets, Caribbean villa vacations, and a $40,000 legal defense fund in exchange for Senate intervention in his $8.9 million Medicare billing disputes and Dominican Republic port contracts. Menendez used $5.6 million of his $7.9 million campaign funds for legal defense.
+
+The class analysis is straightforward: Menendez proves that the campaign finance system is the floor of donor influence, not the ceiling. The same committee power that donors rent through PAC contributions can be purchased outright when institutional controls fail. The Cuba hawk who demanded maximum pressure on authoritarianism was accepting bribes from Egypt's military government. The "anti-corruption" champion was the most corrupt member of the Senate. His 11-year prison sentence, which began in June 2025, is the system's belated acknowledgment that the donor class model scaled past legal campaign finance into outright bribery.
 
 ## Analytical Patterns
 

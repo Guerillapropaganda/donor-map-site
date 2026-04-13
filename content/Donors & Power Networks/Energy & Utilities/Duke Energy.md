@@ -1,8 +1,8 @@
 ---
 title: "Duke Energy"
 type: corporation
-content-readiness: draft
-last-updated: 2026-04-12
+content-readiness: ready
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 sector: "Energy & Utilities"
@@ -94,6 +94,14 @@ Favorable rate increases from state utility commissions, coal ash cleanup cost r
 > Duke Energy's coal ash cost recovery is the regulatory capture model in practice: the company generated billions in profit from coal-fired power plants, created 150+ million tons of coal ash contaminated with arsenic, mercury, and lead, then successfully lobbied to charge customers for half the cleanup cost. Duke's ratepayers paid $546 million to clean up Duke's pollution — a transfer of cleanup liability from shareholders (who profited from coal generation) to customers (who had no choice of electricity provider). The regulated monopoly structure ensures customers cannot leave; the captured regulatory process ensures costs are passed through.
 
 ---
+
+## Class Analysis
+
+Duke Energy is the regulated utility monopoly as political machine. The company serves 8.4 million customers across six states who cannot choose a different electricity provider. That captive customer base generates $29 billion in annual revenue. A portion of that revenue funds a PAC contributing $2-3 million per cycle and lobbying operations spending $5-8 million annually. The customers who fund those political operations through their electricity bills have no say in how that political spending is directed.
+
+The coal ash crisis is the model in miniature. Duke Energy operated coal-fired power plants for decades, generating profits for shareholders and 150 million tons of coal ash contaminated with arsenic, mercury, and lead. When the 2014 Dan River spill forced a $1.1 billion cleanup, Duke successfully lobbied the North Carolina Utilities Commission to recover $546 million from ratepayers. The people who had no choice but to buy Duke's electricity paid to clean up Duke's pollution while the shareholders who profited from decades of coal generation kept their returns. This is cost socialization through regulatory capture: the company creates the liability, the regulator transfers it to captive customers.
+
+North Carolina's political system runs through Duke Energy's influence network. The company's contributions flow to state legislators who confirm utility commissioners who approve rate increases that fund the contributions. Former CEO Jim Rogers was one of the most politically active utility executives in American history. The revolving door between Duke management and state regulatory bodies ensures that the people approving Duke's rate requests understand where their next career opportunity lies. Duke wants slow renewable transition timelines to fully depreciate existing fossil fuel plants, opposition to competitive electricity markets that would end the monopoly, and favorable natural gas pipeline permitting. It gets all three, paid for by the customers who have no alternative.
 
 ### Sources
 

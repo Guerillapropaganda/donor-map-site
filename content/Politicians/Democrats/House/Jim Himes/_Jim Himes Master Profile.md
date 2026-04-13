@@ -1,7 +1,7 @@
 ---
 title: "Jim Himes"
 type: politician
-content-readiness: draft
+content-readiness: ready
 central-thesis: "Jim Himes is the Goldman Sachs pipeline made flesh. He moved from the trading floor to Congress, represented the hedge fund corridor, sat on the committee that regulates his former industry, and consistently voted to weaken the regulations his par..."
 last-updated: 2026-04-13
 source-tier: 1
@@ -111,6 +111,16 @@ The district-donor-committee triangle is nearly perfect. CT-04 is the hedge fund
 | 2013-2014 | ROLE | Serves as DCCC fundraising chair | — | — | — |
 | 2013-2014 | ← FUNCTION | Channels Wall Street money to Democratic House campaigns | Financial sector | Millions | — |
 | 2024 | ROLE | Discussed as future Democratic leadership candidate | — | — | — |
+
+---
+
+## Class Analysis
+
+Jim Himes did not need to be captured by Wall Street. He is Wall Street. Twelve years at Goldman Sachs, rising to Vice President in Latin American finance, then elected to Congress in 2008, the year Goldman's industry detonated the global economy. His district, Connecticut's 4th, is the hedge fund corridor between New York and Boston. Bridgewater Associates ($150 billion-plus in assets under management), AQR Capital Management, Point72 Asset Management, and dozens of smaller funds are headquartered or operate there. District median household income: $117,000. Himes's personal net worth: approximately $9.3 million. Securities and investment is his top donor sector at $274,000 in the 2024 cycle alone. Goldman Sachs employees and PAC, Blackstone Group, Elliott Management, and Bridgewater all contribute.
+
+The legislative record maps directly to the donor base. Himes co-introduced H.R. 992, the Swaps Regulatory Improvement Act, a bill literally drafted by Citigroup lobbyists to roll back Dodd-Frank derivatives protections. He voted to raise the bank regulatory threshold from $50 billion to $250 billion in assets. Five years later, Silicon Valley Bank collapsed under that higher threshold. Each vote was framed as "smart regulation" or "modernization." Each vote delivered exactly what the financial industry wanted: weaker oversight of the firms that fund his campaigns, employ his constituents, and populate his former career.
+
+The district-donor-committee triangle is nearly perfect. Fairfield County is the money. The Financial Services Committee (where Himes served before moving to Intelligence) has direct jurisdiction over hedge fund regulation, derivatives rules, bank capital requirements, and SEC oversight. Himes's donors are the regulated entities his committee oversaw. He served as DCCC fundraising chair, channeling Wall Street money to Democratic House campaigns across the country. The Democratic Party does not need Republicans to deregulate finance. It has Jim Himes: a Goldman alumnus who achieves the same outcomes with softer language, frames every Wall Street-friendly vote as pragmatic centrism, and provides the party with a credentialed moderate who "understands markets." The fox does not guard the henhouse. The fox chairs the henhouse security committee.
 
 ---
 

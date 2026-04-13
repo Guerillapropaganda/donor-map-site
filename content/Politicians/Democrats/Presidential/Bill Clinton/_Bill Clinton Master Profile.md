@@ -52,7 +52,7 @@ Clinton's presidency executed every major item on the corporate donor class's ag
 
 **Committees:** Clinton For President Inc (C00253690), Clinton/Gore '92 Committee (C00272161), Clinton/Gore '92 General Election Compliance Fund (C00268722), Clinton/Gore '96 Primary Committee Inc (C00302265), Clinton/Gore '96 General Committee (C00321414), Clinton/Gore '96 Gen Election Legal & Accounting Compliance (C00305938).
 
-Clinton relied heavily on presidential public funds ($75.2M — 61% of total receipts). Individual contributions totaled $35.3M across both cycles. The 1996 reelection campaign would become the subject of a major campaign finance investigation involving $2.8M in returned illegal contributions and 22 criminal convictions.
+Clinton relied heavily on presidential public funds ($75.2M — 61% of total receipts). Individual contributions totaled $35.3M across both cycles. The 1996 reelection campaign would become the subject of a major campaign finance investigation involving $2.8M in returned illegal contributions and 22 unlawful convictions.
 
 - [FEC: Clinton, William Jefferson — candidate overview](https://www.fec.gov/data/candidate/P20000642/) (Tier 1)
 
@@ -161,7 +161,7 @@ Result: caseloads dropped 60% within four years (4.7 million families removed fr
 
 ### The 1996 Campaign Finance Scandal
 
-Clinton's 1996 reelection campaign was the subject of the largest campaign finance investigation of the 1990s. A DOJ task force investigated allegations of illegal foreign contributions to the DNC and Clinton/Gore campaign, ultimately securing 22 criminal convictions. The DNC returned $2.8 million in illegal contributions.
+Clinton's 1996 reelection campaign was the subject of the largest campaign finance investigation of the 1990s. A DOJ task force investigated allegations of illegal foreign contributions to the DNC and Clinton/Gore campaign, ultimately securing 22 unlawful convictions. The DNC returned $2.8 million in illegal contributions.
 
 Key elements: Johnny Chung received $300,000 from Ji Shengde (head of Chinese military intelligence) and passed funds to the DNC. Macao hotelier Ng Lap Seng funneled $1.4 million through Charlie Trie, a longtime Clinton friend. Maria Hsia facilitated $100,000 in illegal contributions through the Hsi Lai Buddhist Temple and was convicted in 2000. The House Government Reform Committee issued a 10,000-page investigative report documenting systematic illegal foreign fundraising.
 
@@ -178,7 +178,7 @@ The Clinton administration's revolving door with Wall Street was the most extens
 
 | Name | Government Position | Pre/Post-Government | Significance |
 |------|-------------------|-------------------|-------------|
-| Robert Rubin | Treasury Secretary (1995–1999) | Co-chairman Goldman Sachs → Citigroup chairman ($126M) | Architected Glass-Steagall repeal; FCIC recommended criminal probe |
+| Robert Rubin | Treasury Secretary (1995–1999) | Co-chairman Goldman Sachs → Citigroup chairman ($126M) | Architected Glass-Steagall repeal; FCIC recommended unlawful probe |
 | Larry Summers | Treasury Secretary (1999–2001) | Harvard → D.E. Shaw ($5.2M for 1 day/week) → Obama NEC Director | Blocked Brooksley Born's derivatives regulation |
 | Gene Sperling | NEC Director (1997–2001) | → Goldman Sachs ($887K consulting) → Obama NEC Director | Coordinated economic policy with Wall Street input |
 | Erskine Bowles | White House Chief of Staff (1997–1998) | Investment banker → Morgan Stanley board | Negotiated balanced budget deal favoring finance |

@@ -133,7 +133,7 @@ Three automated tasks were created during the first session. All currently disab
 - Class analysis lens on everything — who benefits, who pays
 - Placeholder convention established for politicians surfaced by donor research
 - Source tier system (1–4) adopted for all citations
-- Newsom framed as donor-class Democrat, Bianco as police-class authoritarian, Trump as billionaire populist fraud / transactional grifter
+- Newsom framed as donor-class Democrat, Bianco as police-class authoritarian, Trump as billionaire populist misconduct / transactional grifter
 - Each master profile includes "Rhetorical Signature Moves" section — documenting how the politician manages contradictions between brand and record
 - Cross-linking between donor nodes and policy notes is mandatory — every policy note names the donors, every donor node names the policies
 
@@ -234,7 +234,7 @@ Three automated tasks were created during the first session. All currently disab
 
 - **Placeholder buildouts (eighth deliverable):**
  - **[[_David Sacks Master Profile|David Sacks]]** — upgraded from bare placeholder to full profile. PayPal Mafia power structure (Musk/DOGE, Thiel/Vance, Sacks/AI-Crypto), Craft Ventures $3.3B AUM with 449 AI companies, political evolution from "Trump is disqualified" (Jan 2021) to AI/Crypto Czar (Dec 2024), $200M crypto divestments, Biden AI EO rescission, DOJ AI Litigation Task Force. 8 sources.
- - **[[_JD Vance Master Profile|JD Vance]]** — upgraded from bare placeholder to full profile. Thiel pipeline documented (2011–2025), $15M Senate SuperPAC (largest single Republican Senate donation on record), Narya Capital ($93–120M, Thiel/Andreessen/Schmidt investors), Hillbilly Elegy class fraud analysis, Ohio Senate record (57 bills, 0 passed), 2028 frontrunner positioning (46% Emerson poll). 7 sources.
+ - **[[_JD Vance Master Profile|JD Vance]]** — upgraded from bare placeholder to full profile. Thiel pipeline documented (2011–2025), $15M Senate SuperPAC (largest single Republican Senate donation on record), Narya Capital ($93–120M, Thiel/Andreessen/Schmidt investors), Hillbilly Elegy class misconduct analysis, Ohio Senate record (57 bills, 0 passed), 2028 frontrunner positioning (46% Emerson poll). 7 sources.
  - **[[_Benjamin Netanyahu Master Profile|Benjamin Netanyahu]]** — upgraded from bare placeholder to full profile. 90%+ campaign funding from U.S. donors, three American families documented (Falic, Schottenstein, Book), Israel Hayom (27.4% readership, $50M+ Adelson), corruption Cases 1000/2000/4000, Trump relationship (both terms), post-October 7 policy, West Bank annexation, five-category class analysis. 7 sources.
  - **[[_Jared Kushner Master Profile|Jared Kushner]]** — upgraded from bare placeholder to full profile. Affinity Partners timeline (Jan 20 leaves WH → Jan 21 incorporates fund → $2B PIF by Dec 2021), $157M in management fees, $4.8B AUM, 666 Fifth Avenue $1.8B near-bankruptcy and Qatar/Brookfield bailout, Abraham Accords monetization ($23B weapons sales → pitch materials), MBS/Khashoggi, White House monetization map (table format), slumlord record, dual-role second term. 8 sources.
  - All four profiles: `profile-status:: developed`
@@ -762,7 +762,7 @@ Built 4 deep Senate master profiles per editorial standards — each with master
 
 **[[_Mitch McConnell Master Profile|Mitch McConnell]]** (Republicans/Senate/[[_Mitch McConnell Master Profile|Mitch McConnell]]/) — 4 files:
 - Master Profile: architect of the donor-class system itself (Citizens United + dark money infrastructure + judicial capture). Represents poorest state, serves wealthiest donors. Chao shipping fortune. 2025–2026 exit.
-- The McConnell Dark Money Empire — SLF and One Nation: SLF $211M (2024), $291M (2022). One Nation c4 $172M (2020). Steven Law operational heir. FTX $15.5M fraud money accepted.
+- The McConnell Dark Money Empire — SLF and One Nation: SLF $211M (2024), $291M (2022). One Nation c4 $172M (2020). Steven Law operational heir. FTX $15.5M misconduct money accepted.
 - The McConnell-Leo Judicial Pipeline: 234 judges, 3 SCOTUS, 90% Federalist Society. Garland-Barrett hypocrisy. $250M+ dark money judicial advocacy. Decisions mapped to donor interests.
 - Kentucky Inc — Coal, Tobacco, Bourbon, and Pharma: Tobacco $650K+ ("special friend" documents), coal (top recipient 2008), bourbon (Brown-Forman $145K), pharma (Pfizer $1M 2025). Kentucky poverty vs. donor wealth tables.
 
@@ -850,8 +850,8 @@ Built 4 more Senate master profiles (16 files total). Deleted 4 old placeholders
 - The Anti-Corporate Brand and the Donor Contradiction: Top donor: Smead Capital ($2B hedge fund). Book royalties $467K (2021). Wife Erin at ADF. Corporate PAC pledge loophole. Reform bill exempts wealthy individual PACs. Every populist credential funded by donor class.
 
 **[[_Rick Scott Master Profile|Rick Scott]]** (Republicans/Senate/Rick Scott/) — 4 files:
-- Master Profile: the donor class occupying politics directly. Columbia/HCA $1.7B Medicare fraud → $370M+ golden parachute → $152M self-funded campaigns. Wealthiest member of Congress ($200-300M). "Blind trust" blind in name only. STOCK Act violation. Sunset clause for Medicare proposed by the man who stole from Medicare.
-- Columbia/HCA and the Largest Medicare Fraud in History: $1.7B settlement, 14 felonies. Scott: $9.88M settlement, $5.1M severance, $4.75M consulting, $350M+ stock. Fifth Amendment 75 times. Never personally charged.
+- Master Profile: the donor class occupying politics directly. Columbia/HCA $1.7B Medicare misconduct → $370M+ golden parachute → $152M self-funded campaigns. Wealthiest member of Congress ($200-300M). "Blind trust" blind in name only. STOCK Act violation. Sunset clause for Medicare proposed by the man who stole from Medicare.
+- Columbia/HCA and the Largest Medicare misconduct in History: $1.7B settlement, 14 felonies. Scott: $9.88M settlement, $5.1M severance, $4.75M consulting, $350M+ stock. Fifth Amendment 75 times. Never personally charged.
 - The Self-Funded Billionaire Model and Florida Inc.: $152M+ self-funded. Big Sugar: Fanjul $39.3K, $1M+ PAC. 550+ investment items in Ann Scott portfolio. Cayman Islands hedge funds. STOCK Act violation ($450K unreported).
 - NRSC Chair and the McConnell Spending War: Raised $181.5M, spent 95% early. McConnell bypassed NRSC for SLF. 2022 Senate losses blamed on cash shortage. Challenged McConnell for leadership — lost. Institutional donor class beat populist class.
 
@@ -918,8 +918,8 @@ Built 4 more Trump Cabinet master profiles (16 files total). Deleted 4 old devel
 - The $445M Oil Investment and Wright's Buy-In: $445M industry spending total ($96M Trump direct). $528K Wright personal. LNG reversed, renewables gutted. Brennan Center: "major returns."
 
 **[[_Pam Bondi Master Profile|Pam Bondi]]** (Trump Cabinet/Pam Bondi/) — 4 files:
-- Master Profile: Attorney General. Florida AG 2011-2019. Trump University $25K pay-to-play. Lobbied for Qatar ($115K/month), GEO Group (private prisons), Amazon, Uber, GM. Impeachment defense. Confirmed 54-46 after Gaetz withdrew. Fired LPS foreclosure investigators. $20.2M charity scheme. 1-year ethics agreement.
-- The Trump University $25K and the Pay-to-Play Model: $25K donation 4 days after review announcement. Investigation dropped. LPS: fired investigating attorneys. $20.2M charity scheme. Pattern: donor pays, investigation stops.
+- Master Profile: Attorney General. Florida AG 2011-2019. Trump University $25K pay-to-play. Lobbied for Qatar ($115K/month), GEO Group (private prisons), Amazon, Uber, GM. Impeachment defense. Confirmed 54-46 after Gaetz withdrew. Fired LPS foreclosure investigators. $20.2M charity operation. 1-year ethics agreement.
+- The Trump University $25K and the Pay-to-Play Model: $25K donation 4 days after review announcement. Investigation dropped. LPS: fired investigating attorneys. $20.2M charity operation. Pattern: donor pays, investigation stops.
 - Qatar Lobbying and the Revolving Door to DOJ: $115K/month FARA-registered. 30+ Ballard Partners clients. GEO Group→ICE enforcement pipeline. Ethics agreement expires Feb 2026.
 - The DOJ as Political Weapon and Donor Shield: Comey/Letitia James indictments. Adams dismissal. "Zealous advocacy" directive. Watergate-level prosecutor exodus. GEO Group benefits from enforcement expansion. Epstein investigation subpoena (Comer, March 2026).
 
@@ -942,7 +942,7 @@ Built comprehensive Mercer donor network: 1 upgraded node, 4 new files (5 total)
 - $15-20M Mercer investment (90% ownership). Bannon VP. 87M Facebook users harvested. Psychographic OCEAN profiling. Cruz primary → Trump general pivot. FEC coordination violations. Dissolved May 2018. Emerdata successor (Mercer board).
 
 **[[Breitbart News and the Mercer-Bannon Media Pipeline|Breitbart News]] and the Mercer-Bannon Media Pipeline** (new file):
-- $10M Mercer investment. Bannon Executive Chairman. "Platform for the alt-right." Trump messaging testing ground. GAI/Clinton Cash ($2M seed, $376K/year Bannon salary). Pipeline: Breitbart→Campaign→White House. 72% traffic decline post-2017. Bannon legal troubles (fraud, contempt, prison).
+- $10M Mercer investment. Bannon Executive Chairman. "Platform for the alt-right." Trump messaging testing ground. GAI/Clinton Cash ($2M seed, $376K/year Bannon salary). Pipeline: Breitbart→Campaign→White House. 72% traffic decline post-2017. Bannon legal troubles (misconduct, contempt, prison).
 
 **Renaissance Technologies and the $7B Tax Settlement** (new file):
 - Medallion Fund: 62% annualized, $66B+ profits. Basket options: short-term trades taxed as long-term gains. $6.8B avoided (Senate estimate). 2021: $7B settlement. Political spending ($34.9M) = insurance against tax liability ($7B). 200:1 potential ROI on political infrastructure.
@@ -961,7 +961,7 @@ Built the Democratic 2028 presidential field: 4 new master profiles, 13 sub-note
 - _JB Pritzker Master Profile: Illinois Governor. $3.6B net worth. $323M self-funded campaigns ($171M 2018 + $152M 2022). $24-27M DGA. Bahamas trusts $47M. Hyatt fortune labor contradiction.
 - The 323 Million Dollar Self-Funded Governor: Self-funding as donor capture immunity. DGA $19M primary manipulation. Can't be bought because he is the donor class.
 - The Hyatt Fortune and the Labor Contradiction: 10.8% Hyatt voting power. 2x industry injury rate. Boston firings. SeaDog anti-union. Pro-labor governor funded by anti-labor fortune.
-- Offshore Trusts Toilet Schemes and the Tax Avoidance Architecture: 11 Bahamas trusts. $30M offshore hedge fund. $330K toilet scheme. Progressive tax champion who avoids taxes.
+- Offshore Trusts Toilet Schemes and the Tax Avoidance Architecture: 11 Bahamas trusts. $30M offshore hedge fund. $330K toilet operation. Progressive tax champion who avoids taxes.
 
 **Wes Moore** (Politicians/Democrats/Presidential/Wes Moore/) — 3 files:
 - _Wes Moore Master Profile: Maryland Governor. Robin Hood Foundation CEO ($650M raised). Citigroup/Deutsche Bank. Bronze Star controversy. $16M+ 2022 race. Hedge fund charity as pre-campaign organization.
@@ -1054,9 +1054,9 @@ Built 5 more master profiles with sub-notes: Senate Majority Leader, House Speak
 - The Immigration Policy Architecture from Sessions to Mass Deportation: Sessions staffer 2009-2016. First term: Muslim ban, family separation, zero tolerance, Remain in Mexico, public charge. Second term: 3,000 ICE quota, birthright EO, Alien Enemies Act, denaturalization. 15 consecutive years as single immigration policy author.
 
 **[[_Steve Bannon Master Profile|Steve Bannon]]** (Politicians/Republicans/Trump Cabinet/Steve Bannon/) — 3 files:
-- _[[_Steve Bannon Master Profile|Steve Bannon]] Master Profile: Former Chief Strategist (7.5 months). [[Goldman Sachs|Goldman Sachs]] VP ($450K/yr). Seinfeld residuals ($25-50M estimated). Breitbart ($750K/yr, Mercer $10M). Cambridge Analytica VP (Mercer $15-20M). We Build the Wall fraud ($1M personal, federal pardon, NY guilty plea). Contempt: 4 months prison. Mercer estrangement 2018. War Room podcast.
+- _[[_Steve Bannon Master Profile|Steve Bannon]] Master Profile: Former Chief Strategist (7.5 months). [[Goldman Sachs|Goldman Sachs]] VP ($450K/yr). Seinfeld residuals ($25-50M estimated). Breitbart ($750K/yr, Mercer $10M). Cambridge Analytica VP (Mercer $15-20M). We Build the Wall misconduct ($1M personal, federal pardon, NY guilty plea). Contempt: 4 months prison. Mercer estrangement 2018. War Room podcast.
 - The Mercer Investment and the Construction of Populist Infrastructure: Met Mercers 2011 [[Club for Growth|Club for Growth]]. Total Mercer investment $30M+. Cruz → Trump pivot ($13.5M redirected). Three pillars: Breitbart (media), Cambridge Analytica (data), GAI (oppo research). Estrangement January 2018 after Fire and Fury + Roy Moore.
-- The Goldman-to-Fraud Pipeline and the Conviction Record: Goldman VP 1985-1990. WBTW: $25M raised, $1M to Bannon, co-defendants got 3-5+ years, Bannon pardoned (federal) + guilty plea (NY state). Contempt: 4 months. War Room as post-conviction influence operation.
+- The Goldman-to-misconduct Pipeline and the Conviction Record: Goldman VP 1985-1990. WBTW: $25M raised, $1M to Bannon, co-defendants got 3-5+ years, Bannon pardoned (federal) + guilty plea (NY state). Contempt: 4 months. War Room as post-conviction influence operation.
 
 **Cleanup:** Deleted 5 old placeholder files. Updated 3 wikilinks in [[_Kash Patel Master Profile|Kash Patel]] files (Stephen Miller, Steve Bannon).
 
@@ -1761,7 +1761,7 @@ Temporal mapping tables added to all 15 target profiles. Each table includes 8-1
 - `Republicans/Senate/[[_Josh Hawley Master Profile|Josh Hawley]]/_Josh Hawley Master Profile.md` — 10 sequences; Koch/Leo infrastructure → Senate seat; anti-corporate PAC repositioning; Jan 6 fist pump → fundraising surge; Leonard Leo judicial vote pattern documented as the real donor relationship
 - `Republicans/Senate/Tom Cotton/_Tom Cotton Master Profile.md` — 10 sequences; neocon donors → Iran Letter (2015-03-09); FORCE Act $43B traced to defense aerospace donations; largest out-of-state donor proportion in Senate documented
 - `Republicans/Senate/Susan Collins/_Susan Collins Master Profile.md` — 10 sequences; $2M finance sector → S.2155 Dodd-Frank rollback (2018-03-14); Kavanaugh speech → vote sequence; $440K+ pharma career → IRA drug pricing opposed; "the concern is the product" thesis embedded in callout
-- `Republicans/Senate/Rick Scott/_Rick Scott Master Profile.md` — 10 sequences; HCA Medicare fraud ($1.7B) → self-funded political career → oppose Medicare negotiation; Cigna top donor 2022 → IRA no vote (2022-08-07); the donor-politician identity problem
+- `Republicans/Senate/Rick Scott/_Rick Scott Master Profile.md` — 10 sequences; HCA Medicare misconduct ($1.7B) → self-funded political career → oppose Medicare negotiation; Cigna top donor 2022 → IRA no vote (2022-08-07); the donor-politician identity problem
 - `Republicans/Senate/John Thune/_John Thune Master Profile.md` — 10 sequences; $900K from ISPs 2015-2018 → Commerce Committee net neutrality opposition → CRA no vote; telecom chairmanship as regulatory capture mechanism; insurance industry career total
 
 *Democrats:*
@@ -1808,7 +1808,7 @@ Temporal mapping tables added to 16 master profiles from the priority list. Each
 ### Files updated (16 total):
 *Trump Cabinet (14):*
 - `Republicans/Trump Cabinet/Stephen Miller/_Stephen Miller Master Profile.md` — 11 sequences; Bradley Impact Fund $27M (2022) → AFL lawsuits; DonorsTrust $21.3M (2024) + $567K compensation → White House return; Alien Enemies Act (2025) is the dividend on $44M dark money investment
-- `Republicans/Trump Cabinet/Steve Bannon/_Steve Bannon Master Profile.md` — 14 sequences; Mercer $10M Breitbart investment (2011) → Mercer $15-20M Cambridge Analytica → $13.5M Cruz-to-Trump redirect (Aug 2016) → White House NSC (Jan 2017) → We Build the Wall fraud $1M (2019) → federal pardon (Jan 19, 2021) → state guilty plea (Feb 2025)
+- `Republicans/Trump Cabinet/Steve Bannon/_Steve Bannon Master Profile.md` — 14 sequences; Mercer $10M Breitbart investment (2011) → Mercer $15-20M Cambridge Analytica → $13.5M Cruz-to-Trump redirect (Aug 2016) → White House NSC (Jan 2017) → We Build the Wall misconduct $1M (2019) → federal pardon (Jan 19, 2021) → state guilty plea (Feb 2025)
 - `Republicans/Trump Cabinet/Kash Patel/_Kash Patel Master Profile.md` — 12 sequences; Nunes Memo loyalty (Feb 2018) → NSC → Pentagon COS → $3M+/year ecosystem income (PACs, media, foundations) → FBI Director (Feb 2025) → Mar-a-Lago search agents fired; Qatar client → Qatar security deal as FBI Director
 - `Republicans/Trump Cabinet/Russell Vought/_Russell Vought Master Profile.md` — 11 sequences; CRA founded Jan 2021 (CPI $1.93M seed) → Klingenstein/Bradley donor support → Project 2025 published (Apr 2023) → OMB confirmed (Feb 2025) → $18B NYC infrastructure frozen → USAID cut 83% → 200,000+ civil servants removed
 - `Republicans/Trump Cabinet/Pete Hegseth/_Pete Hegseth Master Profile.md` — 12 sequences; Koch CVA $49M (2011-2016) → Fox News $6M+ (2014-2024) → war crimes pardon advocacy → Trump pardons (Nov 2019) → Pentagon nomination (Nov 2024) → confirmed 51-50 (Feb 2025) → personal stock sales during contract review (Mar 2026)
@@ -1834,7 +1834,7 @@ Temporal mapping tables added to 16 master profiles from the priority list. Each
 - Porter inverted as explicit counter-model: documents opposition spending (not capture), consistent with vault's AOC/Sanders counter-model framework
 - Manchin documented with both personal financial interest (Enersystems) AND external fossil fuel donations — argues that personal interest makes external donations redundant; the 6-week donation→CEPP kill sequence is the vault's tightest documented temporal link
 - Cabinet members (Hegseth, Wright, McMahon, Burgum, Lutnick, Bessent) use "financial interest → appointment → policy" format rather than traditional "donation → vote" format, per task guidelines
-- Bannon timeline is the only entry in the vault documenting conviction as an outcome (the fraud story completes the arc: claimed to serve working class → defrauded working-class donors)
+- Bannon timeline is the only entry in the vault documenting conviction as an outcome (the misconduct story completes the arc: claimed to serve working class → defrauded working-class donors)
 
 ### Updated vault metrics:
 - Master profiles with temporal mapping tables: 46 (was 30 at Session 11i batch 1)
@@ -1869,7 +1869,7 @@ Temporal mapping tables added to 15 master profiles. Each table includes 8-12 ve
 - `SCOTUS/John Roberts/_John Roberts Master Profile.md` — 11 sequences; Leo launches JCN for Roberts ads (2005) → confirmed 78-22 (2005) → Jane Roberts $10.3M law firm commissions (2007–2014) → Citizens United (2010-01) → Shelby County VRA gutted (2013-06) → Rucho gerrymandering (2019) → WV v. EPA (2022) → Dobbs concurrence (2022) → Senate testimony refused (2023) → Trump immunity authored (2024)
 
 *Trump Cabinet (3):*
-- `Republicans/Trump Cabinet/Pam Bondi/_Pam Bondi Master Profile.md` — 12 sequences; $25K Trump Foundation donation (2013-09) → drops Trump University fraud review same week (⚠️ 4-day flag); LPS foreclosure donor → fires investigating attorneys; Qatar $115K/month FARA lobbying (2019–2024); AG confirmed (2025-02); GEO Group benefits from ICE expansion; ⚠️ 4-day donation→policy flag documented as one of the vault's tightest sequences
+- `Republicans/Trump Cabinet/Pam Bondi/_Pam Bondi Master Profile.md` — 12 sequences; $25K Trump Foundation donation (2013-09) → drops Trump University misconduct review same week (⚠️ 4-day flag); LPS foreclosure donor → fires investigating attorneys; Qatar $115K/month FARA lobbying (2019–2024); AG confirmed (2025-02); GEO Group benefits from ICE expansion; ⚠️ 4-day donation→policy flag documented as one of the vault's tightest sequences
 - `Republicans/Trump Cabinet/Tulsi Gabbard/_Tulsi Gabbard Master Profile.md` — 11 sequences; DNC resignation/Sanders endorsement (2016) → Harris debate damage (2019-06) → Section 702 repeal bill (2020) → Fox News regular (2022) → Trump endorsement (2024-10) → DNI nomination (2024-11) → Section 702 reversal at confirmation hearing (2025-01); "useful defector" cross-party patronage circuit documented
 - `Republicans/Trump Cabinet/John Ratcliffe/_John Ratcliffe Master Profile.md` — 9 sequences; defense donor career $175K+ → loyalty performance at impeachment → DNI confirmed (2020-05) → declassifies Clinton memo against Haspel's objections ⚠️ 5-month flag → Blackstone $1.3M (2021–2024) → CIA Director (2025-01) → Signal chat exposes undercover CIA officer (2025-03)
 - `Republicans/Trump Cabinet/Lee Zeldin/_Lee Zeldin Master Profile.md` — 8 sequences; oil/gas career donations $410K+ → Koch $60K+ → CRC Advisors/Chevron op-ed money $3K+ → CGCN Group $98K paid op-eds → [[Tim Dunn|Tim Dunn]] AFPI board → EPA confirmed (2025-01-29) → 31 deregulatory rollbacks (2025-03) → 200,000 projected premature deaths/100M asthma attacks documented as externalized cost
@@ -2775,7 +2775,7 @@ Top donor quid pro quo timelines:
 
 ### Key editorial decisions:
 - El-Sayed and Platner tables framed as "anti-donor-class test cases" — both are Sanders-backed candidates running explicitly against PAC/corporate money, making their temporal mapping tables document the opposite pattern: grassroots funding vs. institutional opposition
-- Husted table highlights Wexner-Epstein and Centene-Medicaid fraud sequences as strongest examples of donation-to-protective-vote timing in current vault
+- Husted table highlights Wexner-Epstein and Centene-Medicaid misconduct sequences as strongest examples of donation-to-protective-vote timing in current vault
 
 **Files modified:** 3 ([[_Jon Husted Master Profile|Jon Husted]], [[_Abdul El-Sayed Master Profile|Abdul El-Sayed]], Graham Platner master profiles)
 **Files created:** 0
@@ -3052,7 +3052,7 @@ Top donor quid pro quo timelines:
 ### What was done:
 - **3 politician master profiles upgraded from placeholder to full profiles (primary deliverable):**
 
- 1. **Sheldon Whitehouse** (`Democrats/Senate/`) — 155 lines, 12 sources. Central thesis: The Senate's dark money watchdog who is himself embedded in the donor infrastructure he critiques. His 80+ "Scheme" floor speeches document Leonard Leo's $580M judicial capture pipeline with precision. But his own donor base (trial lawyers $2M+, environmental groups $1M+, progressive judicial reform) benefits directly from the reforms he advocates. Wife Sandra works for Ocean Conservancy; Whitehouse voted for bills directing $6.9M in federal grants to Ocean Conservancy (Sept-Dec 2024) — ethics watchdog FACT filed complaint, dismissed by Senate Ethics Committee. Dual standard applied: rigorous scrutiny of Federalist Society dark money, silence on AIPAC's $126.9M 2024 spending. Profile documents trial lawyer PAC dominance, Ocean Conservancy financial flows, "Scheme" speech series documentation, Senate Budget Committee chair tenure (2023-2025), contradiction between anti-dark-money positioning and environmental donor alignment.
+ 1. **Sheldon Whitehouse** (`Democrats/Senate/`) — 155 lines, 12 sources. Central thesis: The Senate's dark money watchdog who is himself embedded in the donor infrastructure he critiques. His 80+ "operation" floor speeches document Leonard Leo's $580M judicial capture pipeline with precision. But his own donor base (trial lawyers $2M+, environmental groups $1M+, progressive judicial reform) benefits directly from the reforms he advocates. Wife Sandra works for Ocean Conservancy; Whitehouse voted for bills directing $6.9M in federal grants to Ocean Conservancy (Sept-Dec 2024) — ethics watchdog FACT filed complaint, dismissed by Senate Ethics Committee. Dual standard applied: rigorous scrutiny of Federalist Society dark money, silence on AIPAC's $126.9M 2024 spending. Profile documents trial lawyer PAC dominance, Ocean Conservancy financial flows, "operation" speech series documentation, Senate Budget Committee chair tenure (2023-2025), contradiction between anti-dark-money positioning and environmental donor alignment.
 
  2. **Jamie Raskin** (`Democrats/House/`) — 138 lines, 10 sources. Central thesis: Democratic Party's constitutional lawyer leading Trump accountability efforts (second impeachment manager, January 6 Committee). Brand is constitutional defense, rule of law, institutional integrity. But constitutional framework doesn't require structural economic critique — authoritarianism is the enemy, not donor power. Fundraising $2.5M H1 2025, $5.9M cash on hand, 90%+ small-dollar ($33.75 average contribution), yet operates within DSCC/progressive PAC infrastructure. Legal profession donors ($400K+ career) are simultaneously the donor class he critiques and the donors who fund him (2025 pressure on major law firms coincides with their donations to Raskin). Personal tragedy (son Tommy's Dec 2020 suicide) woven into political identity. Constitutional scholarly frame obscures donor-class dynamics. Profile documents legal profession funding, small-dollar base breakdown, House Judiciary Ranking Member tenure, January 6 Committee work, impeachment trial details, rhetorical signature moves (constitutional scholar frame, grief-to-accountability bridge, institutional defense frame).
 
@@ -3065,7 +3065,7 @@ Top donor quid pro quo timelines:
  - Specialized sources (Tier 2-3): Alliance for Consumers (trial lawyer PAC study), Jewish Currents (Torres pro-Israel politics analysis), Times of Israel (Torres Gaza positions)
 
 - **Temporal mapping tables created for all 3:**
- - Whitehouse: trial lawyer donations (2010-2024) → civil litigation advocacy; Ocean Conservancy payments (2010-2024) → climate legislation; federal grants (Sept-Dec 2024) → Whitehouse voting support; "Scheme" speeches (2016-2025) → ethics investigations
+ - Whitehouse: trial lawyer donations (2010-2024) → civil litigation advocacy; Ocean Conservancy payments (2010-2024) → climate legislation; federal grants (Sept-Dec 2024) → Whitehouse voting support; "operation" speeches (2016-2025) → ethics investigations
  - Raskin: legal profession donations (career) → constitutional accountability framing; January 6 Committee (2021-2022) → national profile boost; law firm pressure (2025) → simultaneous law firm donations; second impeachment (Feb 2021) → political prominence
  - Torres: AIPAC funding (2021-2026) → pro-Israel voting alignment; crypto donations (2023-2025) → deregulation voting; defense contractor purchases (Sept 2024) → military spending support; left Progressive Caucus (Jan 2024) → donor alignment signal
 
@@ -3134,7 +3134,7 @@ Top donor quid pro quo timelines:
 - **PhRMA** → 213 lines. $500M+/year political machine. 1,500 lobbyists (3 per congressmember). Richard Neal's $750K+ to kill drug pricing from Ways & Means chair. New `Pharma & Healthcare/` subfolder created.
 
 ### Wave 4 — Placeholder politician upgrades (3 files):
-- **Sheldon Whitehouse** → 155 lines. Dark money watchdog funded by dark money's mirror image. 80+ "Scheme" floor speeches vs. trial lawyer donor base.
+- **Sheldon Whitehouse** → 155 lines. Dark money watchdog funded by dark money's mirror image. 80+ "operation" floor speeches vs. trial lawyer donor base.
 - **Jamie Raskin** → 138 lines. Constitutional lawyer, 2nd impeachment lead, 2026 MD Senate race. $50M+ raised, small-dollar heavy but institutional infrastructure.
 - **Ritchie Torres** → 144 lines. AIPAC's model progressive capture. Poorest district in America ($28K median) served by Israel lobby + crypto industry money.
 
@@ -4832,7 +4832,7 @@ Juliana Stratton, Michael Whatley, and Roy Cooper all have existing master profi
  - Clarified permit data research gaps
 
 5. **PG&E - The Utility Donor and the Wildfire Cover** (97→138 lines, ready→developed)
- - Added Donation-to-Policy Timeline (6 rows): 2018 Camp Fire baseline, 2019 takeover threat/bankruptcy filing, 2019 AB 1054 (liability cap), 2019 private reorganization, 2020 criminal plea (no executive charges), 2020-2026 rate increases
+ - Added Donation-to-Policy Timeline (6 rows): 2018 Camp Fire baseline, 2019 takeover threat/bankruptcy filing, 2019 AB 1054 (liability cap), 2019 private reorganization, 2020 unlawful plea (no executive charges), 2020-2026 rate increases
  - Added Analytical Patterns section (4 patterns): Genuine Win (infrastructure investment, grid hardening required) + Structural Limit (private utility preserved, liability capped, shareholder value protected); Villain Framing (corporate negligence vs. structural utility model); Two-Audience Problem (takeover rhetoric vs. shareholder protection); Pilot Program (infrastructure investment vs. ownership transformation)
  - Timeline table already present; patterns enhance interpretation
 
@@ -6793,7 +6793,7 @@ Reiterating Run 1's recommendation. The profile-builder mission is complete — 
 #### Key findings
 
 ### 1 DIAMOND story:
-1. **The Pardon Industry: $5.2M Clemency Lobbying Market and the Donor-to-Freedom Pipeline** — Campaign Legal Center documented that lobbying firms reported $5.2M in clemency payments in 2025 (8x Biden levels). Trevor Milton gave $2M to Trump PACs before fraud pardon; Velutini channeled $3.5M into Trump's super PAC before bribery pardon. Success fees up to $6M offered to lobbyists. Trump pardons wiped $2B in victim restitution. The DOJ Pardon Office has been "totally decimated" and sidelined. Nobody is mapping the full donor-to-lobbyist-to-pardon pipeline as a systematic ROI operation. Pattern: Donor-Class Override + Revolving Door.
+1. **The Pardon Industry: $5.2M Clemency Lobbying Market and the Donor-to-Freedom Pipeline** — Campaign Legal Center documented that lobbying firms reported $5.2M in clemency payments in 2025 (8x Biden levels). Trevor Milton gave $2M to Trump PACs before misconduct pardon; Velutini channeled $3.5M into Trump's super PAC before bribery pardon. Success fees up to $6M offered to lobbyists. Trump pardons wiped $2B in victim restitution. The DOJ Pardon Office has been "totally decimated" and sidelined. Nobody is mapping the full donor-to-lobbyist-to-pardon pipeline as a systematic ROI operation. Pattern: Donor-Class Override + Revolving Door.
 
 ### 3 GOLD stories:
 2. **The DHS Grift Machine: $220M Taxpayer Ad Campaign Funneled to GOP Operatives** — ProPublica documented Noem's $220M DHS ad campaign flowing through shell companies: Safe America Media ($15.2M, formed days before contract), People Who Think ($7.7M, Trump 2016 operative), and The Strategy Group (hidden from public documents, led by spouse of Noem's DHS spokesperson). Five senators called for investigation. Trump fired Noem but the grift template remains. Pattern: Revolving Door + Donor-Class Override.
@@ -7265,7 +7265,7 @@ Scanned all files in `topics/Donors & Power Networks/` across every subdirectory
 
 ### Trump Victory:
 - $842.9M total through JFC vehicles (Trump Victory 2016-2020 + Trump 47 Committee 2024)
-- State party pass-through scheme: $72M transferred to state parties → all transferred back to RNC same day, to the penny
+- State party pass-through operation: $72M transferred to state parties → all transferred back to RNC same day, to the penny
 - 2024 restructure: Save America PAC (legal fees) receives money before RNC in allocation formula
 - $135M in refunds from pre-checked recurring donation boxes (10.7% refund rate vs. Biden's 6.8%)
 - Trump properties received $17M+ from campaign/RNC spending since 2016
@@ -7313,7 +7313,7 @@ Scanned all files in `topics/Donors & Power Networks/` across every subdirectory
 - Less than 1/3 of Missouri Farm Bureau members are farmers — the rest are suburbanites with car insurance
 - Trade war bailout: top 10% of producers received 2/3 of payments; JBS USA got $67M
 - Livestock methane reporting block since 2010 — while factory farm methane grew 44% (hogs) and 122% (dairy)
-- Pattern: Institutional identity fraud — insurance conglomerate presenting as farm organization
+- Pattern: Institutional identity misconduct — insurance conglomerate presenting as farm organization
 
 ### Fanjul Family - Florida Crystals:
 - Both-Sides Illusion: Alfy (Democrat) + Pepe (Republican) = sugar program survives every administration
@@ -7396,10 +7396,10 @@ Scanned all files in `topics/Donors & Power Networks/` across every subdirectory
 - COOL repeal (2015): NCBA's signature win — killed country-of-origin labeling, benefiting importers and packers at rancher expense
 - Rancher share of retail beef dollar: below 30 cents (historic low) while packer revenues surged
 - R-CALF USA exists as NCBA's adversary specifically because NCBA serves packers, not ranchers
-- Pattern: Institutional identity fraud — mandatory-funded trade group captured by the industry it supposedly regulates
+- Pattern: Institutional identity misconduct — mandatory-funded trade group captured by the industry it supposedly regulates
 
 ### FTX / Sam Bankman-Fried:
-- $80M+ in political spending in a single cycle — all funded by stolen customer deposits ($8B fraud)
+- $80M+ in political spending in a single cycle — all funded by stolen customer deposits ($8B misconduct)
 - Both-Sides Illusion: ~$40M public Democratic donations + ~$37M hidden Republican dark money
 - Ryan Salame ($24M Republican), Nishad Singh ($8.3M straw donor) — coordinated three-person operation
 - 1 in 3 Congress members received FTX money
@@ -7407,7 +7407,7 @@ Scanned all files in `topics/Donors & Power Networks/` across every subdirectory
 - DCCPA ("SBF Bill") written to FTX specifications, introduced by Stabenow/Boozman ($23,200 each)
 - Effective altruism ideology as load-bearing cover — "pandemic prevention" framing for self-dealing
 - Trump explicitly excluded SBF from 2025 crypto pardon wave despite pardoning CZ, Ulbricht, Hayes
-- Pattern: Fraud as political infrastructure — stolen funds deployed for regulatory capture
+- Pattern: misconduct as political infrastructure — stolen funds deployed for regulatory capture
 
 ### American Iron and Steel Institute:
 - Founded 1855 — the steel lobby's 170-year-old political operation
@@ -10217,7 +10217,7 @@ Expanded **Tenet Healthcare** (`Donors & Power Networks/Healthcare/Tenet Healthc
 
 **Work completed:**
 
-1. **Tenet Healthcare** (33→160+ lines, 3→10 sources) — Full donor node anatomy build. Added: What They Want (site-neutral payment opposition, Medicaid DSH funding, 340B drug pricing, Medicare for All opposition via $630K to Partnership for America's Health Care Future), Who They Fund (2024 cycle PAC recipients — bipartisan pattern, top recipients Harris $59K, Trump $28K, Allred $18K, Cruz $11K), Donation-to-Policy Timeline (Format 2, 6 rows covering 2006-2024 including $900M and $513M DOJ fraud settlements), What They've Gotten (DSH cuts delayed, site-neutral reform stalled, M4A blocked, $3B hospital divestitures completed), Class Analysis (three-level analysis: revenue extraction, fraud as business strategy, portfolio optimization as political arbitrage). Three `[!money]` and two `[!contradiction]` callouts added.
+1. **Tenet Healthcare** (33→160+ lines, 3→10 sources) — Full donor node anatomy build. Added: What They Want (site-neutral payment opposition, Medicaid DSH funding, 340B drug pricing, Medicare for All opposition via $630K to Partnership for America's Health Care Future), Who They Fund (2024 cycle PAC recipients — bipartisan pattern, top recipients Harris $59K, Trump $28K, Allred $18K, Cruz $11K), Donation-to-Policy Timeline (Format 2, 6 rows covering 2006-2024 including $900M and $513M DOJ misconduct settlements), What They've Gotten (DSH cuts delayed, site-neutral reform stalled, M4A blocked, $3B hospital divestitures completed), Class Analysis (three-level analysis: revenue extraction, misconduct as business strategy, portfolio optimization as political arbitrage). Three `[!money]` and two `[!contradiction]` callouts added.
 
 **Source URL corrections:**
 - **BROKEN:** Old OpenSecrets ID `D000000547` pointed to Gap Inc, not Tenet Healthcare — replaced with correct ID `D000000751`
@@ -10230,7 +10230,7 @@ Expanded **Tenet Healthcare** (`Donors & Power Networks/Healthcare/Tenet Healthc
 | `Vault Maintenance/Source URL Audit Log.md` | 10 VALID + 2 BROKEN URLs logged |
 
 **Key findings:**
-- Tenet has paid $1.4B+ in fraud settlements while spending $2-3M/year lobbying for the same payment structures it exploited
+- Tenet has paid $1.4B+ in misconduct settlements while spending $2-3M/year lobbying for the same payment structures it exploited
 - 50% revolving door rate among Tenet's 12 registered lobbyists (2024)
 - Company simultaneously lobbies to protect hospital payment structures while divesting hospitals — political arbitrage protecting asset sale prices
 - Bipartisan PAC contributions (Harris + Trump, Cruz + Allred) confirm regulatory capture strategy over ideological investment
@@ -10365,7 +10365,7 @@ Scanned for unreported donor-to-policy stories. Cross-referenced findings agains
 
 2. **GOLD: ICE Contractor Donor-to-Billions Pipeline** — OpenSecrets March 2026 investigation. CSI Aviation CEO Allen Weh donated $20,700 to Trump → received $1.5B potential contract value (72,463x ROI). GEO Group $23,200 → $1B+. Both lobbying on OBBBA to triple ICE budget. Updates existing [[GEO Group]] nodes.
 
-3. **GOLD: Rep. Cherfilus-McCormick Straw Donor Scheme** — House Ethics hearing today (March 27). 27 violations found including straw donor scheme. Rare bipartisan Democratic ethics case.
+3. **GOLD: Rep. Cherfilus-McCormick Straw Donor operation** — House Ethics hearing today (March 27). 27 violations found including straw donor operation. Rare bipartisan Democratic ethics case.
 
 4. **SILVER: Meta/Google California Political Machine** — CalMatters published today. Meta $1.245M in behested payments to officials at Newsom's request. Meta+Google $10M to "California Leads" committee. Meta $20M anti-regulation PAC. Directly updates [[_Gavin Newsom Master Profile]].
 
@@ -12763,7 +12763,7 @@ Expanded **2 thin donor nodes** from 33-line stubs marked "ready" to fully devel
 - **Before:** 33 lines, 3 sources, missing What They Want, Who They Fund detail, timeline, contradiction, Class Analysis
 - **After:** 110 lines, 7 Chrome-verified sources (3 Tier 1, 2 Tier 2, 2 Tier 3)
 - **Status change:** ready → developed (downgraded — thin "ready" file was non-compliant; now has substantive content)
-- **Key findings:** ActBlue processed $3.82B in 2024 cycle (more than double WinRed's $1.8B). Platform makes $0 in direct PAC contributions — pure conduit. 3.95% fee on $3.82B = ~$151M in platform revenue. Harris launch generated $81M in 24 hours (July 2024). Republican investigations from TX AG Paxton, VA AG Miyares, and House Admin Committee alleging donor fraud. ActBlue implemented CVV verification in response.
+- **Key findings:** ActBlue processed $3.82B in 2024 cycle (more than double WinRed's $1.8B). Platform makes $0 in direct PAC contributions — pure conduit. 3.95% fee on $3.82B = ~$151M in platform revenue. Harris launch generated $81M in 24 hours (July 2024). Republican investigations from TX AG Paxton, VA AG Miyares, and House Admin Committee alleging donor misconduct. ActBlue implemented CVV verification in response.
 - **Analytical patterns:** Genuine Win + Structural Limit (small-dollar democratization is real but the platform itself is a private monopoly), Both-Sides Illusion (ActBlue vs WinRed creates appearance of grassroots competition but both platforms centralize control)
 
 #### Files modified
@@ -13409,7 +13409,7 @@ Expanded `_Sheldon Whitehouse Master Profile.md` from 86 lines (ready — thin m
 **Key research findings:**
 - **Career fundraising total:** $21.2M+ across 5 election cycles (2006–2024); most recent cycle $6,714,499
 - **Top career industry:** Lawyers/Law Firms $3,339,069 — trial lawyer backbone
-- **#2 career sector:** Finance/Insurance/Real Estate $4,099,763 (19.3% of career funding) — Wall Street & PE donors (Bain Capital $72K, Technology Crossover Ventures $110K) receive zero "scheme" scrutiny
+- **#2 career sector:** Finance/Insurance/Real Estate $4,099,763 (19.3% of career funding) — Wall Street & PE donors (Bain Capital $72K, Technology Crossover Ventures $110K) receive zero "operation" scrutiny
 - **Pro-Israel career total:** $616,721 — AIPAC was his #1 single contributor in 2024 cycle ($147,208)
 - **Environment career total:** $619,487 direct + wife's $2,686,800 from Ocean Conservancy
 - **Ocean Conservancy conflict:** $14.2M total government funding during Sandra Whitehouse's tenure; $6.9M in grants Sept–Dec 2024 after Whitehouse voted for enabling legislation
@@ -13620,7 +13620,7 @@ Expanded `Trump 2024 Campaign.md` from 31 lines (ready — thin stub with 1 Ball
 - Top industry: Securities & Investment at $246.3M — largest single sector
 - Campaign committee split: 69.4% large contributions, only 28.8% small-dollar
 - America PAC ($263.5M) outsourced ground game operations — functionally replaced traditional campaign canvassing
-- Save America ($99.7M) diverted tens of millions to Trump criminal defense legal fees
+- Save America ($99.7M) diverted tens of millions to Trump defense legal fees
 - Donor-to-policy pipeline: Musk → DOGE (3 months), Sacks → AI/Crypto Czar (3 months), Gensler removal (4 months)
 - Billionaires contributed nearly 20% of all 2024 federal election cycle donations
 
@@ -14901,7 +14901,7 @@ Goldman Sachs - Wall Street Titan selected: first in queue. Pre-expansion audit 
 - **The Government Sachs alumni pattern spans every administration 1993–2021.** Robert Rubin (Clinton Treasury Secretary), Hank Paulson (Bush Treasury Secretary), Mark Patterson (Obama Treasury CoS), Steve Mnuchin (Trump Treasury Secretary), Gary Cohn (Trump NEC Director), Dina Powell (Trump Deputy NSA), Steve Bannon (Trump chief strategist). The Both-Sides Illusion operates at the apex of state power: Goldman placed alumni at Treasury under both parties simultaneously across 30 years.
 - **The Paulson-TARP connection is the vault's clearest documented regulatory capture case.** Goldman's CEO-turned-Treasury-Secretary administered a $700B bailout from which Goldman received $10B in TARP funds and $12.9B from the AIG rescue — while holding approximately 24 calls with Goldman's sitting CEO Blankfein around the AIG announcement. The conflict was documented; no action was taken.
 - **The Gary Cohn–tax cut pipeline is documented.** Goldman's ex-COO runs the NEC, leads the 2017 tax bill process, cuts the corporate rate from 35% to 21%, and Goldman's corporate tax savings in year one were estimated at $1B+. Cohn resigned after the bill passed. The policy return on his two-year government placement was material and immediate.
-- **The $5.06B DOJ settlement (2016) and $550M SEC ABACUS settlement (2010) represent the cost of doing business, not a deterrent.** Goldman's profits from the mortgage securities and CDO products these settlements covered exceeded settlement amounts by orders of magnitude. Neither settlement required Goldman to admit criminal wrongdoing (ABACUS) or produced individual prosecutions (DOJ). The political operation that protected Goldman's regulatory environment enabled the fraud and minimized the consequences.
+- **The $5.06B DOJ settlement (2016) and $550M SEC ABACUS settlement (2010) represent the cost of doing business, not a deterrent.** Goldman's profits from the mortgage securities and CDO products these settlements covered exceeded settlement amounts by orders of magnitude. Neither settlement required Goldman to admit unlawful wrongdoing (ABACUS) or produced individual prosecutions (DOJ). The political operation that protected Goldman's regulatory environment enabled the misconduct and minimized the consequences.
 - **Ballotpedia source was a fabricated URL.** The existing stub cited `ballotpedia.org/Goldman_Sachs_-_Wall_Street_Titan` — confirmed BROKEN on Chrome load test. Title shows: "The page you're looking for does not exist." The URL was constructed from the vault note's own title rather than a real Ballotpedia article. Removed from profile; logged in Source URL Audit Log as BROKEN.
 
 #### URL verification
@@ -15439,7 +15439,7 @@ Created `topics/Media & Influence Pipeline/Right/Tucker Carlson.md` — full med
 
 - **Independence Theater at maximum scale.** Carlson's post-Fox narrative is that he escaped corporate control to become a truth-teller. The receipts show: 1789 Capital seed round funded by Rebekah Mercer (Breitbart/Parler investor) and Omeed Malik (Trump donor) → same donor-class infrastructure, different letterhead. The investor buyout (June 2025) completes the theater — he now genuinely owns TCN, but the content has always served the interests of that donor class regardless of the org chart.
 
-- **The Dominion discovery is the vault's most complete Two-Audience Problem documentation in media.** Carlson texted "Sidney Powell is lying," "I hate [Trump] passionately," called fraud claims "ludicrous" — while broadcasting all of it to 4 million nightly viewers. The gap between his private reality and his on-air performance is not incidental: it's the structural function of an audience-capture model where the host cannot moderate without losing the subscription base.
+- **The Dominion discovery is the vault's most complete Two-Audience Problem documentation in media.** Carlson texted "Sidney Powell is lying," "I hate [Trump] passionately," called misconduct claims "ludicrous" — while broadcasting all of it to 4 million nightly viewers. The gap between his private reality and his on-air performance is not incidental: it's the structural function of an audience-capture model where the host cannot moderate without losing the subscription base.
 
 - **ALP nicotine pouches as audience-to-consumer pipeline.** The 50/50 joint venture with publicly traded Turning Point Brands converts Carlson's radicalized subscriber base into a consumer base for a nicotine product. This eliminates the advertiser intermediary entirely. When mainstream advertisers fled (2018-2020), ideologically aligned advertisers replaced them. Now the audience IS the product pipeline, and Carlson earns on both ends — subscription ($9/mo) and brand revenue (ALP boosted Turning Point's nicotine division 63% to $70M in summer 2025).
 
@@ -15586,7 +15586,7 @@ All 15 items in the thin-profile-expansion queue have been processed across Runs
 
 #### Verified URLs (19 total — 16 VALID, 3 BROKEN replaced — all logged to Source URL Audit Log)
 
-**JCN (11):** OpenSecrets org summary (D000026924), ProPublica Nonprofit Explorer (Concord Fund 990s), Senate Judiciary Committee subpoena authorization, Sen. Whitehouse Scheme Speech 6, ProPublica "We Don't Talk About Leonard", ProPublica Barre Seid $1.6B, CNN dark money donation, CREW $200M war chest, CREW Leo firm millions, EXPOSEDbyCMD Concord Fund RAGA funder, InfluenceWatch Concord Fund.
+**JCN (11):** OpenSecrets org summary (D000026924), ProPublica Nonprofit Explorer (Concord Fund 990s), Senate Judiciary Committee subpoena authorization, Sen. Whitehouse operation Speech 6, ProPublica "We Don't Talk About Leonard", ProPublica Barre Seid $1.6B, CNN dark money donation, CREW $200M war chest, CREW Leo firm millions, EXPOSEDbyCMD Concord Fund RAGA funder, InfluenceWatch Concord Fund.
 
 **Comcast (8):** OpenSecrets lobbying profile, FEC PAC committee (C00248716), Roll Call net neutrality, Revolving Door Project FCC-telecom, Techdirt Pai CTIA, Techdirt 16-state municipal broadband ban, Ballotpedia Comcast. Plus 2 broken URLs documented (FCC page disabled, WaPo 404).
 
@@ -16127,7 +16127,7 @@ Brennan Center fossil fuel donors ×2, Ballotpedia EPA endangerment, Rolling Sto
 
 #### Key findings
 
-- **Purdue Pharma RAGA investment is the vault's clearest case of prosecutorial capture:** $625,000+ to the Republican Attorneys General Association — the organization that elects the officials who decide whether to prosecute pharmaceutical marketing fraud. Multiple Republican AGs initially declined to join opioid lawsuits. The Sackler family's $10.4B wealth extraction (2008-2018) coincided precisely with the decade when opioid deaths nearly doubled (36,450 → 67,367 annually). 87.5% of Purdue's lobbyists in 2023 were government alumni.
+- **Purdue Pharma RAGA investment is the vault's clearest case of prosecutorial capture:** $625,000+ to the Republican Attorneys General Association — the organization that elects the officials who decide whether to prosecute pharmaceutical marketing misconduct. Multiple Republican AGs initially declined to join opioid lawsuits. The Sackler family's $10.4B wealth extraction (2008-2018) coincided precisely with the decade when opioid deaths nearly doubled (36,450 → 67,367 annually). 87.5% of Purdue's lobbyists in 2023 were government alumni.
 
 - **CoreCivic's political ROI is the vault's most extreme return-on-investment calculation:** ~$2.5M in 2024 political spending (contributions + lobbying + inaugural) protecting a $1.9B revenue operation that generated $300M+ in annualized new ICE revenue under Trump 2.0. That's roughly 120:1. Biden's EO 14006 was a textbook Genuine Win + Structural Limit — it applied only to DOJ contracts (2% of CoreCivic revenue) while leaving ICE contracts (30% of revenue) untouched.
 
@@ -16259,7 +16259,7 @@ Wikipedia Amy Acton, NPR COVID resignations, DOJ SDOH Householder sentencing, Oh
 
 - **Basel III Endgame rollback is the vault's cleanest recent donor-class override:** Dimon reportedly circumvented the Fed's Vice Chair for Supervision to directly pressure Fed Chair Powell — who met with bank CEOs 12+ times during deliberations. The final rule was scaled back ~50% from the original proposal. Capital requirements — the primary regulatory tool for preventing bank failures — were weakened through executive relationship pressure, not congressional lobbying.
 
-- **The "too big to prosecute" pattern predates Trump:** The 2013 $13 billion settlement gave JPMorgan broad civil immunity for mortgage fraud that contributed to the 2008 crisis. No charges were filed against individuals. Dimon remained CEO. The settlement was negotiated in secret. This is the Obama DOJ's record — the same pattern critics attribute only to Trump-era deregulation predates it by a decade.
+- **The "too big to prosecute" pattern predates Trump:** The 2013 $13 billion settlement gave JPMorgan broad civil immunity for mortgage misconduct that contributed to the 2008 crisis. No charges were filed against individuals. Dimon remained CEO. The settlement was negotiated in secret. This is the Obama DOJ's record — the same pattern critics attribute only to Trump-era deregulation predates it by a decade.
 
 #### Files modified
 - `topics/Donors & Power Networks/Wall Street/JPMorgan.md` (40 → 147 lines, 1 → 11 sources, ready → developed)
@@ -16385,7 +16385,7 @@ Verified all 77 unique Intercept URLs found in the vault via Chrome browser load
 
 - **Tlaib AIPAC immunity quantified:** AIPAC offered $20M to recruit primary challengers — both targets refused. November 2023 censure (234-188, 22 Democrats voting for) triggered $3.7M grassroots fundraising surge in Q4 2023 alone (22,700 first-time donors, $75 average). Vault's strongest case study for small-dollar model as genuine alternative to corporate PAC dependency. Her district demographics (largest Arab-American population in U.S., majority-Black Detroit) make her functionally immune to the strategy that defeated Bowman in NY-16. No corporate PAC money; $6.7M+ raised in 2024 cycle entirely grassroots.
 
-- **Boebert energy-proxy structure documented:** Husband Jayson Boebert earned $938,987 from Terra Energy Partners (2019-2020) while Lauren introduced Colorado Energy Prosperity Act protecting 1.6M acres for oil/gas development. Failed to disclose husband's income until August 2021. Seeded into Congress by Club for Growth ($20M to far-right candidates) and Ted Cruz PAC ($136,250 direct transfer). 2024 fundraising collapsed 81% after moving from competitive CO-3 (546-vote margin) to safe CO-4 (R+26) — proving culture-war fundraising model fails when electoral urgency disappears. Multiple FEC complaints (mileage fraud, personal expense charges, disclosure failures) — all blocked by partisan FEC deadlock.
+- **Boebert energy-proxy structure documented:** Husband Jayson Boebert earned $938,987 from Terra Energy Partners (2019-2020) while Lauren introduced Colorado Energy Prosperity Act protecting 1.6M acres for oil/gas development. Failed to disclose husband's income until August 2021. Seeded into Congress by Club for Growth ($20M to far-right candidates) and Ted Cruz PAC ($136,250 direct transfer). 2024 fundraising collapsed 81% after moving from competitive CO-3 (546-vote margin) to safe CO-4 (R+26) — proving culture-war fundraising model fails when electoral urgency disappears. Multiple FEC complaints (mileage misconduct, personal expense charges, disclosure failures) — all blocked by partisan FEC deadlock.
 
 #### Build methodology note
 
@@ -16706,7 +16706,7 @@ Raw donor node backlog: 91 → 18 raw donor nodes remaining (73 raw politician p
 - **$250 million "Big Rip-Off":** January 6 Committee documented that Trump raised $250M on claims of an "Official Election Defense Fund" that did not exist. Campaign sent 25+ fundraising emails per day with deceptive tactics (fake forwarded messages, misleading sender lines).
 - **Legal fee machine:** $50M+ spent on Trump's legal fees in 2023 alone (86% of H1 2023 spending). Only $210K to 42 candidates in 2022 cycle — 0.19% of total raised.
 - **Pardon economy documented:** Daughter of Venezuelan billionaire Velutini donated $3.5M to MAGA Inc; Velutini received pardon (January 2026). Mother of convicted fraudster Walczak donated $1M; Walczak pardoned (April 2025).
-- **Zero enforcement:** Despite January 6 Committee findings, Jack Smith investigation, and FEC complaints — no charges filed for fundraising fraud. Smith withdrew subpoena October 2023. Leadership PAC structure creates enforcement vacuum.
+- **Zero enforcement:** Despite January 6 Committee findings, Jack Smith investigation, and FEC complaints — no charges filed for fundraising misconduct. Smith withdrew subpoena October 2023. Leadership PAC structure creates enforcement vacuum.
 - **Analytical patterns flagged:** Two-Audience Problem (fundraising appeals vs. actual spending), Donor-Class Override (pardon economy inverts normal donor-to-policy pipeline)
 
 #### Remaining raw donor nodes: 9
@@ -16808,7 +16808,7 @@ Full builds from raw skeleton to ready status. Each profile researched via web s
 ### 3. Mike Crapo (Finance Chair)
 - `Politicians/Republicans/Senate/Mike Crapo/_Mike Crapo Master Profile.md`
 - raw → ready. 13 sources (6 Tier 1, 4 Tier 2, 1 Tier 3).
-- Wall Street's tax chairman. 50%+ PAC funded, 84% of individual donations from out-of-state (financial services). Stephens Inc. pipeline: 19+ executives from one Arkansas investment bank. Shepherded One Big Beautiful Bill through Finance Committee. AFP spent $20M supporting bill; Crapo publicly credited Koch network as "biggest ally" at private breakfast. DUI arrest (2012), wife's PAC income non-disclosure ethics complaint, $45K unreported in-kind contributions, $250K campaign get-rich-quick scheme.
+- Wall Street's tax chairman. 50%+ PAC funded, 84% of individual donations from out-of-state (financial services). Stephens Inc. pipeline: 19+ executives from one Arkansas investment bank. Shepherded One Big Beautiful Bill through Finance Committee. AFP spent $20M supporting bill; Crapo publicly credited Koch network as "biggest ally" at private breakfast. DUI arrest (2012), wife's PAC income non-disclosure ethics complaint, $45K unreported in-kind contributions, $250K campaign get-rich-quick operation.
 
 ### 4. James Comer (Oversight Chair)
 - `Politicians/Republicans/House/James Comer/_James Comer Master Profile.md`
@@ -17541,7 +17541,7 @@ Created 63 new files across multiple sectors:
 **Foreign (4):** Saudi Arabia, UAE, Turkey-Erdogan, Israel-Government Lobbying
 **Pharma (2):** Gilead Sciences, Purdue Pharma-Sackler Family
 **Politicians — new master profiles (3):** Katie Porter, Pete Aguilar, Elise Stefanik
-**Sub-notes for existing profiles (18):** Klobuchar (Telecom), Booker (justice system), Murphy (Foreign Policy), Grassley (Agriculture), Cassidy (Healthcare), Durbin (Immigration), Rubio (China), Whitehouse (Dark Money), Cotton (Defense), Scott (Medicare Fraud), Wyden (Finance/Tech), Ernst (Veterans), Tillis (IP/Banking), Markey (Green New Deal), Merkley (Housing), Rand Paul (Libertarian), Ted Cruz (Goldman), Cantwell (Boeing)
+**Sub-notes for existing profiles (18):** Klobuchar (Telecom), Booker (justice system), Murphy (Foreign Policy), Grassley (Agriculture), Cassidy (Healthcare), Durbin (Immigration), Rubio (China), Whitehouse (Dark Money), Cotton (Defense), Scott (Medicare misconduct), Wyden (Finance/Tech), Ernst (Veterans), Tillis (IP/Banking), Markey (Green New Deal), Merkley (Housing), Rand Paul (Libertarian), Ted Cruz (Goldman), Cantwell (Boeing)
 **Sub-notes for zero-sub-note profiles (4):** Jayapal (Progressive Caucus), Ro Khanna (Silicon Valley), Acosta (Epstein), Bianco (Sheriff Pipeline)
 **Story/Analysis notes (8):** Carried Interest Loophole, Defense Spending Consensus, Committee Fundraising, Revolving Door, Both-Sides Dark Money, Insurance Industry Public Option Kill, Farm Bill, SCOTUS Capture
 **Additional donor nodes (9):** CoreCivic, NEA, Anthem-Elevance, Starbucks, McDonald's, Airbnb, Americans for Tax Reform, Council for National Policy, Tenet Healthcare
@@ -18250,7 +18250,7 @@ Regenerated _VAULT_INDEX.md from filesystem — reflects all Session 47-49 chang
 | acosta+steps+down+labor | npr.org/2019/07/12/739881163/... | 2 |
 | oath+keepers+bianco | npr.org/2021/10/06/1043651361/... | 2 |
 | kentucky+elections | npr.org/2023/11/07/1209090515/... | 2 |
-| jan+6+criminal+referrals+raskin | npr.org/2022/12/20/1144311577/... | 2 |
+| jan+6+unlawful+referrals+raskin | npr.org/2022/12/20/1144311577/... | 2 |
 | israel+strikes+tehran | npr.org/2026/03/20/nx-s1-5754550/... | 2 |
 **NPR total: 35 articles found, ~83 references fixed**
 
@@ -18958,7 +18958,7 @@ Also at `developed`: Blackstone.md (134 lines), Palantir.md (140 lines) — dono
 | Profile | Before | After | Status Change | Key Additions |
 |---------|--------|-------|---------------|---------------|
 | [[CalPERS]] | 31 lines (stub) | 155 lines | ready → developed | Full Buenrostro corruption scandal (DOJ/SEC primary sources: $250K bribes, $3B Apollo allocation, $14M placement fees, 54-month prison sentence), PE fee transparency fight (NBC News retiree investigation, $92B PE portfolio at 6-7% estimated fees = $5.5-6.4B annual fee stream), 2025 board election ($660K union IE spending, CalPERS institutional messaging during voting), clean energy losses ($331M of $468M, 71% loss), union-CalPERS-Wall Street structural triangle, temporal mapping table (8 entries), 3 callout blocks, 14 sources (5 Tier 1, 7 Tier 2, 2 Tier 3) |
-| [[Business Roundtable]] | 65 lines (stub) | 133 lines | ready → developed | 2025 lobbying surge ($33.5M, +43% YoY — largest increase among top spenders), Q1 2025 detail ($6.86M single quarter, 35% above quarterly average), TCJA permanent extension success, lobbying spend history table (2019-2025), 68 tax lobbyists deployed in 2024 cycle, stakeholder capitalism fraud documented (Harvard Law/Roosevelt Institute: "mostly for show"), TCJA ROI calculation ($82M coalition → $320B+/year, 3,900:1 ratio), 2025 board leadership (Robbins chair), PRO Act defeat, temporal mapping table (8 entries), 3 callout blocks, 12 sources (4 Tier 1, 7 Tier 2, 1 Tier 3) |
+| [[Business Roundtable]] | 65 lines (stub) | 133 lines | ready → developed | 2025 lobbying surge ($33.5M, +43% YoY — largest increase among top spenders), Q1 2025 detail ($6.86M single quarter, 35% above quarterly average), TCJA permanent extension success, lobbying spend history table (2019-2025), 68 tax lobbyists deployed in 2024 cycle, stakeholder capitalism misconduct documented (Harvard Law/Roosevelt Institute: "mostly for show"), TCJA ROI calculation ($82M coalition → $320B+/year, 3,900:1 ratio), 2025 board leadership (Robbins chair), PRO Act defeat, temporal mapping table (8 entries), 3 callout blocks, 12 sources (4 Tier 1, 7 Tier 2, 1 Tier 3) |
 | [[Koch Industries]] | 68 lines (stub) | 166 lines | ready → developed | 2024 political spending breakdown ($49.1M tracked, $400M+ estimated: PAC $1.69M + lobbying $11.2M + AFP Action transfers $25M + Stand Together dark money $25M → AFP $138.5M outside spending), environmental violation record ($800M+ federal penalties, 150 state settlements, benzene guilty plea, record oil spill fine), West Virginia v. EPA SCOTUS campaign, California emission waiver fight ($4.1M lobbying), Koch staff-to-AFP pipeline (Seidel, Holden), temporal mapping table (11 entries), 4 callout blocks, 17 sources (10 Tier 1, 5 Tier 2, 1 Tier 3) |
 
 #### Key findings
@@ -19847,7 +19847,7 @@ Continued Phase 2 Format 1 table retrofit. Completed Batch 3 (8 profiles from pr
 - `_Andy Beshear Master Profile.md` — Non-standard columns merged into Format 1 (3 sectors: Gambling/Horse Racing, Trial Lawyers, Real Estate/2028 Positioning)
 - `_Clarence Thomas Master Profile.md` — SCOTUS patronage framing (4 sectors: Harlan Crow $4.75M+, Koch Network, Religious Right, Undisclosed Financial Benefits)
 - `_Brett Kavanaugh Master Profile.md` — SCOTUS dark money framing (3 sectors: Leo/Dark Money $17.1M, Deregulatory/Fossil Fuel, Religious Right)
-- `_Rick Scott Master Profile.md` — Self-funded/fraud fortune framing (3 sectors: HCA Fraud Fortune, Healthcare/Pharma, NRSC/McConnell War)
+- `_Rick Scott Master Profile.md` — Self-funded/misconduct fortune framing (3 sectors: HCA misconduct Fortune, Healthcare/Pharma, NRSC/McConnell War)
 - `_Rand Paul Master Profile.md` — Libertarian donor model (3 sectors: Koch Network, Club for Growth/Small-Dollar, Ukraine Obstruction/$0 defense)
 - `_Marjorie Taylor Greene Master Profile.md` — Performance-fundraising model (3 sectors: MAGA Small-Dollar/Outrage, Trump Endorsement Machine, Thiel Network)
 
@@ -20095,7 +20095,7 @@ Created `topics/Stories/Cross-Politician Analysis/Schumer-McConnell Senate Leade
 
 | Sector | Schumer | McConnell | Overlap Finding |
 |--------|---------|-----------|-----------------|
-| Dark Money | Majority Forward ($74M, 2020) + SMP ($230M+, 2022) | SLF ($291M, 2022) + One Nation ($172M, 2020) | Mirror-image 501(c)(4)+super PAC architecture; $521M combined in 2022 alone; FTX fraud money in both |
+| Dark Money | Majority Forward ($74M, 2020) + SMP ($230M+, 2022) | SLF ($291M, 2022) + One Nation ($172M, 2020) | Mirror-image 501(c)(4)+super PAC architecture; $521M combined in 2022 alone; FTX misconduct money in both |
 | Wall Street | $10.4M career (Goldman $543K, Citi $484K, JPMorgan $365K); Glass-Steagall support; tech antitrust killed | S.2155 Dodd-Frank rollback same quarter as $3M+ finance donations; TCJA | Goldman Sachs $39M since 1989 at ~50/50 partisan split; revolving door (26/30 lobbyists ex-government) |
 | AIPAC / Israel | $1.73M career; "shomer" self-designation; March 2024 Netanyahu speech with zero policy consequence | ~$2M career; co-headlined 2024 AIPAC summit alongside Schumer | Both appeared as co-headliners at March 2024 AIPAC Congressional Leadership Summit; both named for NDAA pro-Israel provisions |
 | Pharma | IRA drug pricing limited to 10 drugs via Manchin negotiation; $200B+ pharma revenues preserved | Declared HR3 "dead on arrival" Sept 2019 same week as $195K+ pharma donations | PhRMA pricing power preserved on 99%+ of market; US prices 2.78x international |
@@ -25821,7 +25821,7 @@ Completed the PBS NewsHour broken URL backlog: all 22 remaining broken PBS URLs 
 | `world/military-says-3-u-s-troops-killed-in-drone-attack-in-jordan` | `world/biden-says-3-u-s-troops-killed-many-injured-in-drone-attack-by-iran-backed-militia-in-jordan` | The Iran War Money Trail.md |
 | `nation/how-a-catholic-sex-abuse-report-in-illinois-compares-to-other-states` | `nation/how-a-catholic-sex-abuse-report-in-pennsylvania-echoed-around-the-u-s` | School Choice and the Catholic Church Prosecution.md |
 | `nation/kushner-linked-firm-targets-richer-areas-for-opportunity-zone-investments` | `politics/kushner-linked-firm-targets-richer-areas-in-program-for-poor` | Tim Scott.md |
-| `former-fbi-informant-to-plead-guilty-to-lying-about-bidens-in-unraveling-of-gop-impeachment-case` | `former-fbi-informant-to-plead-guilty-to-lying-about-fake-bribery-scheme-involving-the-bidens` | James Comer Master Profile.md |
+| `former-fbi-informant-to-plead-guilty-to-lying-about-bidens-in-unraveling-of-gop-impeachment-case` | `former-fbi-informant-to-plead-guilty-to-lying-about-fake-bribery-operation-involving-the-bidens` | James Comer Master Profile.md |
 | `oath-keepers-founder-sentenced-to-18-years-in-prison-in-jan-6-seditious-conspiracy-case` | `oath-keepers-founder-sentenced-to-18-years-for-seditious-conspiracy-in-jan-6-capitol-attack` | Oath Keepers Membership.md |
 | `once-a-crypto-skeptic-trump-is-now-promoting-his-own-digital-currency` | `once-a-crypto-skeptic-trump-is-now-a-big-fan-of-the-industry` | 2026-03-18 News Scan.md |
 | `these-federal-employees-were-purged-by-doge-heres-what-they-did` | `these-federal-employees-were-purged-by-doge-months-later-the-trump-administration-is-asking-if-they-want-to-return` | 2026-03-22 News Scan.md |
@@ -27304,7 +27304,7 @@ Key confirmation: All 5 PBS NewsHour slug corrections made via WebSearch in url-
 |-----|--------|
 | `pbs.org/newshour/politics/jury-finds-trump-ally-tom-barrack-not-guilty-of-foreign-agent-charges` | VALID ✓ |
 | `pbs.org/newshour/politics/new-book-reveals-what-mcconnell-called-trump-behind-his-back-after-the-2020-election` | VALID ✓ |
-| `pbs.org/newshour/politics/former-fbi-informant-to-plead-guilty-to-lying-about-fake-bribery-scheme-involving-the-bidens` | VALID ✓ |
+| `pbs.org/newshour/politics/former-fbi-informant-to-plead-guilty-to-lying-about-fake-bribery-operation-involving-the-bidens` | VALID ✓ |
 | `pbs.org/newshour/politics/patels-roster-of-foreign-clients-draws-scrutiny-over-conflicting-interests-with-the-fbi` | VALID ✓ |
 | `pbs.org/newshour/politics/these-federal-employees-were-purged-by-doge-months-later-the-trump-administration-is-asking-if-they-want-to-return` | VALID ✓ |
 | `washingtonpost.com/technology/interactive/2025/elon-musk-business-government-contracts-funding/` | VALID ✓ |

@@ -1,8 +1,8 @@
 ---
 title: "DeVos Family"
 type: donor
-content-readiness: draft
-last-updated: 2026-04-12
+content-readiness: ready
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 sector: "Education"
@@ -60,7 +60,7 @@ They got it.
 
 **For-profit charter expansion without oversight:** Michigan under DeVos influence expanded from ~100 charter schools (1989) to 300+ — with approximately 80% operated by for-profit management companies, the highest percentage in the nation. A federal audit found potential conflicts of interest in six of seven examined Michigan charter schools. The US Department of Education denied Michigan a $45 million Charter Schools Program grant in 2015 due to inadequate oversight. Senator Gary Peters documented over $500 million in taxpayer money wasted on failed Michigan charter schools.
 
-**Regulatory forbearance for Amway:** The FTC ruled in 1979 that Amway was not a pyramid scheme but ordered it to cease misrepresenting distributor earnings. Subsequent violations led to a $100,000 penalty (1986) and a $150 million consumer restitution settlement (2019). During Betsy DeVos's tenure as Education Secretary (2017-2021), Amway faced no significant new FTC enforcement action.
+**Regulatory forbearance for Amway:** The FTC ruled in 1979 that Amway was not a pyramid operation but ordered it to cease misrepresenting distributor earnings. Subsequent violations led to a $100,000 penalty (1986) and a $150 million consumer restitution settlement (2019). During Betsy DeVos's tenure as Education Secretary (2017-2021), Amway faced no significant new FTC enforcement action.
 
 **Christian conservative infrastructure:** The family has funded Focus on the Family ($6.69 million, 1998-2013), the Heritage Foundation ($6+ million, 2009-2011, plus creating the "DeVos Center for Religion and Society"), the Federalist Society, the Council for National Policy, American Enterprise Institute, and the Mackinac Center for Public Policy. The school choice agenda is inseparable from the religious school funding agenda.
 

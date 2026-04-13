@@ -119,7 +119,7 @@ Acton centers Medicaid expansion, marketplace subsidies, hospital access, and pr
 ### COVID Tenure and Political Fallout
 See: [[The COVID Tenure and the Political Fallout]]
 
-Acton's 18 months as Ohio Health Director (January 2019 – June 2020) created both her political brand and her primary vulnerability. Her resignation was forced by House Speaker Larry Householder — who was simultaneously taking $60 million in bribes from FirstEnergy for a nuclear bailout. The "COVID overreach" narrative that forced her out was manufactured by a legislator on the take from a utility company. For the 2026 campaign, Acton flips the narrative: Republicans who attack her "overreach" must explain why they were pressuring her to override medical judgment while running a misconduct scheme. Householder's conviction (20 years federal prison) retroactively validates her concerns.
+Acton's 18 months as Ohio Health Director (January 2019 – June 2020) created both her political brand and her primary vulnerability. Her resignation was forced by House Speaker Larry Householder — who was simultaneously taking $60 million in bribes from FirstEnergy for a nuclear bailout. The "COVID overreach" narrative that forced her out was manufactured by a legislator on the take from a utility company. For the 2026 campaign, Acton flips the narrative: Republicans who attack her "overreach" must explain why they were pressuring her to override medical judgment while running a misconduct operation. Householder's conviction (20 years federal prison) retroactively validates her concerns.
 
 ### Labor Coalition
 See: [[The Labor Coalition and What Unions Expect]]

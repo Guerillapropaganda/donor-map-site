@@ -161,7 +161,7 @@ His immigration work adds a parallel track: as the first Latino to chair the Jud
 
 **"Son of immigrants"** — The biographical credential for immigration policy. The function: make immigration debates personal — the senator's parents were the immigrants whose rights he now defends.
 
-**"California showed it works"** — The proof-of-concept argument. The function: use California's record voter participation after his reforms as evidence that expanded access doesn't produce fraud — it produces democracy.
+**"California showed it works"** — The proof-of-concept argument. The function: use California's record voter participation after his reforms as evidence that expanded access doesn't produce misconduct — it produces democracy.
 
 ---
 

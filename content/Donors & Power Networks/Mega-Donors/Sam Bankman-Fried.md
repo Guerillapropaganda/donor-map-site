@@ -46,7 +46,7 @@ related: "[[FTX - Sam Bankman-Fried]] · [[Coinbase]] · [[Fairshake PAC]] · [[
 
 ### Who They Are
 
-Sam Bankman-Fried (SBF). Former CEO of FTX cryptocurrency exchange and Alameda Research trading firm. Once valued at $26 billion, SBF was convicted of fraud, money laundering, and campaign finance violations in November 2023 and sentenced to 25 years in federal prison in March 2024.
+Sam Bankman-Fried (SBF). Former CEO of FTX cryptocurrency exchange and Alameda Research trading firm. Once valued at $26 billion, SBF was convicted of misconduct, money laundering, and campaign finance violations in November 2023 and sentenced to 25 years in federal prison in March 2024.
 
 SBF was the second-largest individual donor to the Democratic Party in the 2022 cycle ($40 million), and secretly funneled additional millions to Republican candidates through straw donors — making his total political spending bipartisan and far exceeding publicly disclosed amounts. His donations purchased access to key committee members who controlled crypto regulation, and he actively lobbied for regulatory frameworks that would have legitimized FTX while leaving its fraudulent operations undetected.
 
@@ -62,12 +62,20 @@ Favorable crypto regulation (specifically, regulation that would have required o
 
 **Regulatory Access:** SBF's $40+ million in Democratic donations purchased direct access to congressional leaders and committee chairs. He met repeatedly with CFTC and SEC officials, testified before Congress, and was treated as a credible industry voice — all while operating a fraudulent enterprise that was commingling customer funds and fabricating financial records.
 
-**The Fraud Collapse:** FTX's collapse in November 2022 revealed that SBF had stolen approximately $8 billion in customer funds, used Alameda Research to trade with customer deposits, and fabricated audit reports. His political donations — made with stolen customer money — became evidence in his prosecution.
+**The misconduct Collapse:** FTX's collapse in November 2022 revealed that SBF had stolen approximately $8 billion in customer funds, used Alameda Research to trade with customer deposits, and fabricated audit reports. His political donations — made with stolen customer money — became evidence in his prosecution.
 
 > [!money]
 > SBF's case is the campaign finance system's reductio ad absurdum: a fraudster used stolen customer money to become one of the largest political donors in America, purchased access to the regulators who should have detected his fraud, and lobbied for regulatory frameworks designed to legitimize his criminal enterprise. The system failed at every level: politicians accepted the money without scrutiny, regulators engaged with him as a legitimate industry leader, and the media celebrated him as a visionary. The $40+ million in political donations — all stolen — purchased a regulatory environment that enabled an $8 billion theft.
 
 ---
+
+## Class Analysis
+
+Sam Bankman-Fried is the campaign finance system's reductio ad absurdum, but the class lesson extends far beyond one fraudster. SBF donated $40M+ to Democratic campaigns and secretly funneled additional millions to Republicans through straw donors, purchasing regulatory access with stolen customer funds. The system did not fail because of SBF. It failed because the system is designed to convert wealth into political access without asking where the wealth came from. Every politician who took SBF's money treated him as a legitimate industry leader. Every regulator who met with him accepted his credibility at face value. The vetting mechanism for mega-donors is the size of the check, not the source of the funds.
+
+The "effective altruism" packaging was the class innovation. SBF wrapped crypto industry self-interest in the language of philosophical do-gooding, and Washington's donor class accepted it because the framing matched their own: wealthy people deploying capital for the public good. This is the same rhetorical structure used by Soros ("defending democracy"), the Koch network ("economic freedom"), and every billionaire donor who presents class interest as public interest. SBF's version collapsed because the underlying enterprise was criminal. The other versions persist because the underlying enterprises are legal. The difference is not moral. It is structural.
+
+The bipartisan dimension matters. SBF publicly gave to Democrats while secretly funding Republicans, ensuring regulatory capture regardless of which party held power. This is the donor class operating at its most efficient: hedging political bets so that no election outcome threatens the donor's core interests. SBF wanted CFTC oversight instead of SEC oversight for crypto exchanges because the CFTC framework would have legitimized FTX while leaving its fraud undetected. He purchased access to the committee members who controlled that decision. The $40M+ investment was small relative to the $8 billion in customer funds at stake. The return on political investment, had FTX survived, would have been extraordinary.
 
 ### Sources
 

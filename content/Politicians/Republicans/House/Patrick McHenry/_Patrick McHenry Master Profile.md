@@ -1,9 +1,9 @@
 ---
 title: "Patrick McHenry Master Profile"
 type: politician
-content-readiness: draft
+content-readiness: ready
 central-thesis: "Patrick McHenry's congressional career is the perfected architecture of Wall Street legislative capture: a Congressman who spent 20 years writing financial regulation that explicitly benefited his donors, then cashed out to those same donors' firm..."
-last-updated: 2026-04-10
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 party: "Republican"
@@ -163,6 +163,14 @@ The simultaneity is the point: McHenry was not hired by these firms because he p
 
 ---
 
+## Class Analysis
+
+Patrick McHenry's career is the revolving door operating at maximum efficiency. Over 20 years, the securities and investment industry paid him $2.6 million in campaign contributions. In return, McHenry used his Financial Services Committee chairmanship to write regulation that systematically dismantled consumer protections and preempted state-level oversight, exactly what his donors needed. The culmination was FIT21, a crypto deregulation bill drafted with direct industry input that preempted California and New York regulators, weakened stablecoin reserve requirements, and restricted state attorneys general from enforcing consumer protection in digital finance. Within six weeks of leaving Congress, McHenry was hired by Robinhood, Citadel (whose founder Kenneth Griffin donated $37,600 in the 2024 cycle alone), Apollo Global Management, Capital One, Sallie Mae, and the Cryptocurrency Industry Alliance. Six jobs in six weeks, estimated at $3M+ annually.
+
+The class function is explicit: McHenry translated Wall Street's regulatory preferences into legislative language while maintaining the rhetorical cover of "free market principles" and "financial innovation." The FIT21 case strips away all ambiguity. The crypto industry wanted federal preemption of state regulation, reduced disclosure requirements, and DeFi exemptions. McHenry's committee delivered every item on the list. The companies that wrote the bill then hired the congressman who passed it. This is not influence or access. This is a service contract with deferred compensation.
+
+McHenry's 20-year arc from junior congressman ($800K in securities money, 2005-2010) to committee chair ($1.1 million during peak contributions, 2016-2022) to industry employee ($3M+ annually starting January 2025) demonstrates that congressional service in the financial sector is, functionally, an apprenticeship. The legislative output served the donor class at every stage. The "retirement" was not a career change. It was a promotion.
+
 ## Analytical Patterns
 
 **The Genuine Win + Structural Limit** — McHenry's FIT21 passage is a real legislative victory for crypto industry donors, preempting state regulation and creating federal jurisdiction controlled by industry-aligned regulators. But the victory stops short of fully deregulating crypto; federal framework still exists, just written in industry-friendly language rather than consumer-protective language.
@@ -178,10 +186,10 @@ The simultaneity is the point: McHenry was not hired by these firms because he p
 ## Rhetorical Signature Moves
 
 ### The "Innovation vs. Regulation" False Choice
-McHenry's primary rhetorical move was framing all financial sector regulation as "anti-innovation." Consumer protection = stifling innovation. State oversight = anti-competitive federalism. CFPB enforcement = government overreach. The rhetorical structure requires forgetting that the 2008 financial crisis killed innovation — it killed people's homes, savings, and livelihoods. FIT21 was framed as "clearing regulatory uncertainty" when it actually created legal space for fraud.
+McHenry's primary rhetorical move was framing all financial sector regulation as "anti-innovation." Consumer protection = stifling innovation. State oversight = anti-competitive federalism. CFPB enforcement = government overreach. The rhetorical structure requires forgetting that the 2008 financial crisis killed innovation — it killed people's homes, savings, and livelihoods. FIT21 was framed as "clearing regulatory uncertainty" when it actually created legal space for misconduct.
 
 ### The "Free Market Solutions" Deflection
-When questioned about consumer harm or fraud risk, McHenry invoked "free market solutions." If crypto protocols fail or tokens collapse, investors will learn. If stablecoins lose their reserves, markets will correct. The faith in markets is sincere among libertarian conservatives. The cynicism is in ignoring that his own constituents lack the capital to absorb losses that sophisticated investors are insulated from.
+When questioned about consumer harm or misconduct risk, McHenry invoked "free market solutions." If crypto protocols fail or tokens collapse, investors will learn. If stablecoins lose their reserves, markets will correct. The faith in markets is sincere among libertarian conservatives. The cynicism is in ignoring that his own constituents lack the capital to absorb losses that sophisticated investors are insulated from.
 
 ---
 

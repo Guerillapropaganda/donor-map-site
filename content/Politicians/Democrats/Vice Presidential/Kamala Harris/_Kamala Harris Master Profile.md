@@ -122,7 +122,7 @@ For labor: immigration enforcement in agriculture and construction depresses wag
 
 | Date | Donor | Amount | Given | Policy Outcome |
 |------|-------|--------|-------|----------------|
-| 2013-02 | OneWest Bank (Steve Mnuchin) | Bank lobbying against prosecution | 2011-2013 | Harris declines to prosecute OneWest for foreclosure fraud — overriding her own DOJ team's recommendation; Mnuchin later becomes Trump's Treasury Secretary |
+| 2013-02 | OneWest Bank (Steve Mnuchin) | Bank lobbying against prosecution | 2011-2013 | Harris declines to prosecute OneWest for foreclosure misconduct — overriding her own DOJ team's recommendation; Mnuchin later becomes Trump's Treasury Secretary |
 | 2019-Q2 | Silicon Valley tech executives (Google, Apple, Facebook employees and PACs) | $5M+ from Silicon Valley | 2019-Q1 | Harris drops Medicare for All support, shifts to "Medicare for All who want it" — walks back single-payer within months of major Silicon Valley fundraising |
 
 #### Healthcare / Insurance

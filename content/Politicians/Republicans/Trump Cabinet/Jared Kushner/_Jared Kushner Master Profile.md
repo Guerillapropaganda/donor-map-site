@@ -1,9 +1,9 @@
 ---
 title: "Jared Kushner Master Profile"
 type: politician
-content-readiness: draft
+content-readiness: ready
 central-thesis: "Kushner is not a politician who later monetized his connections. He is a business vehicle that briefly held a government position. The January 20 → January 21 timeline — leaves White House one day, incorporates private equity fund the next — is th..."
-last-updated: 2026-03-23
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 party: "Republican"
@@ -124,7 +124,7 @@ The monetization concentrated exclusively on Middle East policy — the one area
 
 3. **The "I'm Not a Politician" Frame:** Kushner has never held elected office. He's a businessman who served in government. The framing deflects conflict-of-interest scrutiny by treating government as a temporary assignment rather than a public trust.
 
-4. **The Family Shield:** Criticism of Kushner is criticism of the president's family. The personal relationship provides institutional protection that no other adviser would receive. Charles Kushner's pardon and ambassadorship demonstrate that the shield extends to the family's criminal history.
+4. **The Family Shield:** Criticism of Kushner is criticism of the president's family. The personal relationship provides institutional protection that no other adviser would receive. Charles Kushner's pardon and ambassadorship demonstrate that the shield extends to the family's unlawful history.
 
 5. **The Pledge and Break:** Promised in December 2024 not to fundraise during Trump's second term. Actively seeking $5 billion+ from foreign governments. The pledge was a news cycle; the fundraising is the business model.
 

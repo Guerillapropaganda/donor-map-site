@@ -1,7 +1,7 @@
 ---
 title: "National Cattlemen's Beef Association"
 type: donor
-content-readiness: draft
+content-readiness: ready
 last-updated: 2026-04-13
 source-tier: 1
 parent: null
@@ -175,7 +175,7 @@ Ranchers pay $1/head (mandatory checkoff) → funds flow to NCBA ($45.6M in 2020
 - **Independent ranchers:** Receive less than 30 cents of every retail beef dollar — a historic low. Forced to fund the lobbying apparatus that weakens their market position. The rancher-to-packer wealth transfer is NCBA's structural function.
 - **Consumers:** Lost country-of-origin information after COOL repeal. No way to distinguish domestic from imported beef. Higher prices during supply disruptions (COVID revealed 85% concentration → price spikes while rancher payments fell).
 
-**R-CALF USA — the rancher counterweight:** The Ranchers-Cattlemen Action Legal Fund represents independent ranchers only (no packer members). R-CALF directly opposes NCBA on COOL, consolidation, imports, and checkoff reform. R-CALF sued the Big Four for antitrust violations in 2019 and has challenged the checkoff program's constitutionality in court. The existence of R-CALF as NCBA's adversary reveals the core fraud: if NCBA represented ranchers, R-CALF wouldn't need to exist.
+**R-CALF USA — the rancher counterweight:** The Ranchers-Cattlemen Action Legal Fund represents independent ranchers only (no packer members). R-CALF directly opposes NCBA on COOL, consolidation, imports, and checkoff reform. R-CALF sued the Big Four for antitrust violations in 2019 and has challenged the checkoff program's constitutionality in court. The existence of R-CALF as NCBA's adversary reveals the core misconduct: if NCBA represented ranchers, R-CALF wouldn't need to exist.
 
 **The circular trap:** Ranchers must pay the checkoff → checkoff funds NCBA → NCBA lobbies for packer interests → packers squeeze rancher margins → ranchers can't afford to organize alternatives → cycle continues. The mandatory funding mechanism transforms rancher labor into packer political capital.
 

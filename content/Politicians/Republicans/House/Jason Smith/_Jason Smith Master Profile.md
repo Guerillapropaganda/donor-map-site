@@ -1,9 +1,9 @@
 ---
 title: "Jason Smith"
 type: politician
-content-readiness: draft
+content-readiness: ready
 central-thesis: "Smith is the rural poor kid who writes tax policy for the rich. His Ways & Means gavel gives him authorship over every major tax provision in America — and the industries that benefit from those provisions fund his campaign at rates that exploded ..."
-last-updated: 2026-04-12
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 party: "Republican"
@@ -118,6 +118,16 @@ Smith is the rural poor kid who writes tax policy for the rich. His Ways & Means
 
 ---
 
+## Class Analysis
+
+Jason Smith's donor class bought the Ways and Means gavel. His PAC donations went from $16,000 in Q1 2021 to $618,000 in Q1 2023, a 38x increase that maps precisely to his ascension to chair of the most powerful tax-writing body in Congress. Finance, insurance, real estate, pharmaceutical, energy, and defense PACs all surged simultaneously. Every industry under Ways and Means jurisdiction started paying the moment Smith picked up the gavel. The donors are not funding Jason Smith the rural Missouri farmer. They are funding access to the man who writes the tax code.
+
+Smith's signature achievement, making the Section 199A pass-through deduction permanent in the One Big Beautiful Bill, costs $730 billion over ten years. ProPublica's analysis of secret IRS files found nearly 60% of the deduction's benefits flow to the top 1% of earners. Smith frames this as relief for "26 million small businesses." The word "small" does the populist work while the policy delivers for pass-through entities with $1 million or more in annual income. His SALT cap increase from $10,000 to $40,000 primarily benefits high-income property owners in expensive-housing states. Carried interest was preserved for hedge fund managers. 1031 exchanges were preserved for real estate investors, a category that includes Smith himself, a former real estate agent.
+
+Smith's district is the poorest in Missouri: median household income approximately $56,000, poverty rate 15.5%, 86.9% rural, two-hour stretches without a hospital. The constituency that elected him to the Ways and Means chairmanship is among the least likely to benefit from the tax provisions he writes. His health insurance PAC contributions alone exceed $30,000 from seven health insurance PACs while Medicare and ACA policy flow through his committee. The man from the trailer writes tax law for the penthouse. The $730 billion cost is the price tag on the gap between his biography and his beneficiaries.
+
+---
+
 ## Analytical Patterns
 
 **Two-Audience Problem:** One message for rural Missouri ("tax relief for waitresses, mechanics, nurses, and farmers"), another for the PACs that fund him (Section 199A permanence, carried interest preservation, 1031 exchange defense). The biography does the work: Smith's poverty backstory makes corporate tax policy sound like populism. He claimed the OBBB delivered a "21% tax cut for families earning $15,000-$30,000" while the flagship provision sends 60% of its benefits to the top 1%.
@@ -182,7 +192,7 @@ On trade, he adopts Trump's protectionist language — "treating countries how t
 - H.R. 6500: AGOA Extension Act — *Provisions of this bill were incorporated into other bills which were enacted, so there will not likely be further activity on this bill.*
 - H.R. 6599: Leasing and Infrastructure Act of 2025 — *This bill is in the first stage of the legislative process. It was introduced into Congress on December 10, 2025. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
 - H.Res. 212: Returning Senate Joint Resolution 3 to the Senate. — *This simple resolution was agreed to on March 11, 2025. That is the end of the legislative process for a simple resolution.*
-- H.R. 1156: Pandemic Unemployment Fraud Enforcement Act — *This bill passed in the House on March 11, 2025 and goes to the Senate next for consideration.*
+- H.R. 1156: Pandemic Unemployment misconduct Enforcement Act — *This bill passed in the House on March 11, 2025 and goes to the Senate next for consideration.*
 - H.Res. 109: Providing amounts for the expenses of the Committee on Ways and Means in the One Hundred Nineteenth Congress. — *This resolution is in the first stage of the legislative process. It was introduced into Congress on February 5, 2025. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
 
 **Recent votes:**
@@ -277,7 +287,7 @@ On trade, he adopts Trump's protectionist language — "treating countries how t
 | 6599 | Leasing and Infrastructure Act of 2025 | Committee Hearings Held |
 | 6500 | AGOA Extension Act | Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 320. |
 | 212 | Returning Senate Joint Resolution 3 to the Senate. | Motion to reconsider laid on the table Agreed to without objection. |
-| 1156 | Pandemic Unemployment Fraud Enforcement Act | Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 29. |
+| 1156 | Pandemic Unemployment misconduct Enforcement Act | Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 29. |
 | 109 | Providing amounts for the expenses of the Committee on Ways and Means in the One… | Referred to the House Committee on House Administration. |
 | 591 | Defending American Jobs and Investment Act | Referred to the Committee on Ways and Means, and in addition to the Committee on Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned. |
 | 33 | To amend the Internal Revenue Code of 1986 to provide special rules for the taxa… | Received in the Senate and Read twice and referred to the Committee on Finance. |

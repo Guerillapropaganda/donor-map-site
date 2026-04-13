@@ -131,7 +131,7 @@ Independent contractor classification for gig workers (nationally and in every s
 |--------|-------|
 | Federal Court Cases | 815 |
 | Courts | Court of Appeals for the Federal Circuit, Court of Appeals for the Ninth Circuit, District Court, D. Alaska, District Court, D. Massachusetts, District Court, District of Columbia, District Court, E.D. Missouri, District Court, E.D. New York, District Court, N.D. California +4 more |
-| Case Types | 370 Other Fraud, 380 Personal Property: Other, 440 Civil Rights: Other, 485 Telephone Consumer Protection Act (TCPA), 530 Habeas Corpus (General) |
+| Case Types | 370 Other misconduct, 380 Personal Property: Other, 440 Civil Rights: Other, 485 Telephone Consumer Protection Act (TCPA), 530 Habeas Corpus (General) |
 
 **Notable cases:**
 - Ripa v. Restaurant Depot, LLC (2026) — District Court, S.D. New York

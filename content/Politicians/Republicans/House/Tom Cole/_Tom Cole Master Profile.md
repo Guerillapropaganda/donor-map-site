@@ -1,9 +1,9 @@
 ---
 title: "Tom Cole"
 type: politician
-content-readiness: draft
-central-thesis: "Tom Cole is the man who writes the checks. As Appropriations Chairman, he controls the allocation of approximately content-readiness: draft.7 trillion in annual federal discretionary spending across 12 appropriations bills — half of which goes to defense. His district ..."
-last-updated: 2026-04-10
+content-readiness: ready
+central-thesis: "Tom Cole is the man who writes the checks. As Appropriations Chairman, he controls the allocation of approximately content-readiness: ready.7 trillion in annual federal discretionary spending across 12 appropriations bills — half of which goes to defense. His district ..."
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 party: "Republican"
@@ -122,6 +122,16 @@ Tom Cole is the man who writes the checks. As Appropriations Chairman, he contro
 | 2025 | Votes YES on FY2026 Energy and Water Appropriations | — | cole.house.gov |
 | 2025 | Votes YES on FY2026 Interior/Environment Appropriations | — | cole.house.gov |
 | 2024 | Personal net worth reaches $9.4M (up from $3.2M in 2008) | +$6.2M | Oklahoma Watch |
+
+---
+
+## Class Analysis
+
+Tom Cole controls the checkbook. As House Appropriations Chairman, he allocates approximately $1.7 trillion in annual federal discretionary spending across 12 appropriations bills. Half goes to defense. His district contains Fort Sill and sits adjacent to Tinker Air Force Base. His top donor industries are defense and aerospace (Boeing, Lockheed Martin, Raytheon, Northrop Grumman PACs all contribute), oil and gas (Oklahoma's dominant industry), and healthcare/pharma. His fundraising structure tells the story: 44.81% PAC contributions, 49.42% large individual donors, and 4.09% small donors. A congressman who controls $1.7 trillion raises virtually nothing from ordinary people.
+
+The Appropriations gavel is the most direct pipeline between campaign contributions and federal spending decisions in Congress. Every defense contractor, every energy company, every healthcare system that depends on federal appropriations must pass through Cole's committee. Boeing has operations at Tinker Air Force Base. Lockheed Martin, Raytheon, and Northrop Grumman depend on the Defense Appropriations Subcommittee for contract funding. Cole has never voted against a defense appropriations bill. The "fiscal conservative" who controls the federal checkbook has never closed it for his donors. He closes it for domestic programs. The fiscal conservatism is selective, and the selection maps to who is paying.
+
+Cole's personal net worth grew from $3.2 million in 2008 to $9.4 million in 2024, nearly tripling while in Congress. He holds oil and energy stocks while directing energy appropriations through his committee. He co-owns Cole, Hargrave, Snodgrass and Associates, a political consulting firm that generates ongoing income. His Chickasaw Nation heritage and genuine tribal sovereignty record (24 tribal bills sponsored, 200-plus cosponsored) provide differentiation from standard Oklahoma Republicans, but the tribal identity does not extend to challenging the defense and energy industries that dominate his donor base. Cole brands himself an institutionalist who works across the aisle. The bipartisanship is real but structurally limited to zones where donor interests align: both parties agree on topline defense spending numbers. The disagreements are performative. The checks always clear.
 
 ---
 

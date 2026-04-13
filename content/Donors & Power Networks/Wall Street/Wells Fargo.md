@@ -101,7 +101,7 @@ The needs-reenrichment flag has been set. The next scheduled pipeline run will p
 
 Wells Fargo & Company. The fourth-largest US bank by assets ($1.9 trillion, 2024), headquartered in San Francisco with major operations in Charlotte, North Carolina. Wells Fargo operates primarily in consumer banking, mortgage lending, and wealth management, serving 70+ million customers. PAC contributions: $2-3 million per cycle. Lobbying spending: $5-8 million annually.
 
-Wells Fargo's political significance was permanently altered by the 2016 fake accounts scandal: the bank created 3.5 million unauthorized customer accounts to meet aggressive sales targets, resulting in a $3 billion DOJ/SEC settlement, Congressional hearings, the firing of CEO John Stumpf, and an unprecedented Federal Reserve asset cap ($1.95 trillion) that remains in place. The scandal is the vault's clearest example of a systemically important bank whose internal incentive structure produced mass consumer fraud.
+Wells Fargo's political significance was permanently altered by the 2016 fake accounts scandal: the bank created 3.5 million unauthorized customer accounts to meet aggressive sales targets, resulting in a $3 billion DOJ/SEC settlement, Congressional hearings, the firing of CEO John Stumpf, and an unprecedented Federal Reserve asset cap ($1.95 trillion) that remains in place. The scandal is the vault's clearest example of a systemically important bank whose internal incentive structure produced mass consumer misconduct.
 
 - [OpenSecrets: Wells Fargo organizational profile](https://www.opensecrets.org/orgs/wells-fargo/summary?id=D000019743) (Tier 1)
 
@@ -115,7 +115,7 @@ Removal of the Federal Reserve asset cap (which limits Wells Fargo's growth), re
 
 ### What They've Gotten
 
-**Regulatory Survival:** Despite creating 3.5 million fake accounts, Wells Fargo survived as a going concern. No senior executive faced prosecution for the fraud. The $3 billion settlement was significant but not existential for a bank earning $13+ billion annually. The asset cap — the most consequential punishment — has been maintained but is widely expected to be lifted as the bank demonstrates compliance with remediation requirements.
+**Regulatory Survival:** Despite creating 3.5 million fake accounts, Wells Fargo survived as a going concern. No senior executive faced prosecution for the misconduct. The $3 billion settlement was significant but not existential for a bank earning $13+ billion annually. The asset cap — the most consequential punishment — has been maintained but is widely expected to be lifted as the bank demonstrates compliance with remediation requirements.
 
 **CFPB Weakening:** The broader banking industry's successful campaign to weaken the CFPB — through Trump-era leadership changes, court challenges, and congressional funding attacks — benefits Wells Fargo disproportionately. The CFPB was the primary federal agency that could have detected and prevented the fake accounts scandal earlier; weakening the CFPB reduces the likelihood of similar enforcement actions in the future.
 
@@ -123,6 +123,14 @@ Removal of the Federal Reserve asset cap (which limits Wells Fargo's growth), re
 > Wells Fargo created 3.5 million fake accounts — the largest consumer fraud scandal in American banking history — and the punishment was: a $3 billion fine (23% of one year's profit), an asset cap (inconvenient but not existential), and zero criminal prosecutions for senior executives. The bank's $5-8 million annual lobbying investment in reducing CFPB authority is the cost of preventing future accountability for future fraud. The lesson of Wells Fargo: banks that are "too big to fail" are also too big to punish.
 
 ---
+
+## Class Analysis
+
+Wells Fargo is the clearest demonstration in the vault that "too big to fail" means "too big to punish." The bank created 3.5 million unauthorized customer accounts, the largest consumer fraud scandal in American banking history, and the consequences were: a $3 billion fine (23% of one year's profit), an asset cap (inconvenient but not existential), and zero criminal prosecutions for senior executives. The executives who designed and enforced the sales quotas that produced mass fraud walked away with their compensation intact. John Stumpf was fired as CEO but kept $130M+ in stock and retirement benefits. The class logic is straightforward: when fraud is committed by millions of low-wage branch employees following corporate directives, the employees are fired. The executives who created the directives are not prosecuted.
+
+Wells Fargo's $5-8 million annual lobbying spend is the cost of maintaining this arrangement. The bank's primary lobbying targets are CFPB weakening, reduced capital requirements, and asset cap removal. The CFPB was the federal agency best positioned to detect and prevent the fake accounts scandal. Weakening the CFPB reduces the likelihood of similar enforcement actions in the future. This is not abstract regulatory policy. It is a specific investment by a specific bank to reduce the cost of future misconduct. Every dollar Wells Fargo spends on lobbying to weaken consumer protection is a dollar spent ensuring that the next fraud scandal produces the same result: fines paid from profits, no executives prosecuted, business continues.
+
+The bipartisan political spending ($2-3M per cycle in PAC contributions) ensures that neither party has incentive to pursue structural accountability. Wells Fargo funds Democrats who sit on the Senate Banking Committee and Republicans who sit on the House Financial Services Committee. Both parties accepted Wells Fargo money before the scandal, during the scandal, and after the scandal. The bank's political rehabilitation is proceeding on schedule. The asset cap is expected to be lifted. The CFPB has been weakened. Consumer protection enforcement has declined. Wells Fargo invested in regulatory capture, and the investment is paying off.
 
 ### Sources
 
@@ -324,7 +332,7 @@ Removal of the Federal Reserve asset cap (which limits Wells Fargo's growth), re
 - Notice of Charges: 1
 - GLBA Agreement: 1
 
-**Subject areas (2012+):** Fraud/Forgery; Insider Issues; Theft / Misappropriation of Funds; Violation Cited (Criminal Statute); BSA Internal Controls; BSA Pillar Violation / 12 CFR 21.21(d); BSA Risk Assessment; BSA Training; BSA Violation Cited; BSA/AML; Customer/Enhanced Due Diligence (CDD/EDD); Sales Practices
+**Subject areas (2012+):** misconduct/Forgery; Insider Issues; Theft / Misappropriation of Funds; Violation Cited (statute); BSA Internal Controls; BSA Pillar Violation / 12 CFR 21.21(d); BSA Risk Assessment; BSA Training; BSA Violation Cited; BSA/AML; Customer/Enhanced Due Diligence (CDD/EDD); Sales Practices
 
 **Still-active enforcement actions:**
 

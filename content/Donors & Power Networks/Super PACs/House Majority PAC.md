@@ -1,8 +1,8 @@
 ---
 title: "House Majority PAC"
 type: pac
-content-readiness: draft
-last-updated: 2026-04-12
+content-readiness: ready
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 sector: "Super PACs"
@@ -159,6 +159,16 @@ This is the structural problem of Democratic House politics: labor provides cons
 | 2022 Nov | Jeffries becomes House Democratic Leader | HMP becomes central House Democratic spending vehicle under new leadership |
 | 2024 cycle | $200M+ raised; $186M TV ad reservations | HMP spending concentrated in 58 competitive markets; Republicans maintain House control |
 | 2025-2026 | $200M+ budgeted | Early spending protecting vulnerable Democrats, targeting 29 competitive districts |
+
+## Class Analysis
+
+House Majority PAC is the institutional mechanism through which the Democratic donor class converts wealth into House legislative outcomes while maintaining the appearance of populist governance. The PAC's $200M+ budget is funded by tech executives, trial lawyers, healthcare corporations, and pharmaceutical interests. These donors do not fund HMP because they want Medicare for All, labor rights, or antitrust enforcement. They fund HMP because it produces a Democratic House majority that blocks Republican deregulation while simultaneously blocking progressive legislation that would threaten donor portfolios.
+
+The structural contradiction is visible in the numbers. Labor unions contribute $15M+ annually to HMP, providing the ground-level electoral infrastructure (canvassing, phone banking, turnout operations) that wins close races. But HMP's largest funders are tech PACs ($12M+), healthcare PACs ($8M+), and trial lawyer PACs ($10M+), all of which oppose the labor legislation that union members actually want. The PRO Act stalled under Democratic House control. Amazon union-busting continued despite NLRB rhetoric. HMP took labor's money and labor's volunteer hours, then delivered legislative outcomes for the donor class that opposes labor's core interests.
+
+Hakeem Jeffries's dependence on HMP deepens this dynamic. Nancy Pelosi could raise $1.6B+ through personal fundraising networks, giving her leverage over the donor class. Jeffries cannot. He inherited HMP as his primary spending vehicle, which means the donor class has more structural leverage over House Democratic leadership than at any point in the past two decades. The donors do not serve the leader. The leader serves the donors. HMP is the mechanism that makes this arrangement permanent.
+
+The fragmentation of Democratic House spending (DCCC, HMP, progressive super PACs, union spending) is sometimes framed as a weakness compared to Republican consolidation through CLF. From a class perspective, fragmentation is the only thing preventing total donor-class capture of Democratic House operations. When unions and progressive groups can fund candidates independently of HMP, they create space for legislators who might actually challenge healthcare, tech, and pharmaceutical interests. HMP's long-term goal is consolidation. The Democratic base's long-term interest is fragmentation.
 
 ### Sources
 

@@ -1,9 +1,9 @@
 ---
 title: Raul Grijalva
 type: politician
-content-readiness: draft
+content-readiness: ready
 central-thesis: "Raul Grijalva was the extractive industry's adversary on the Natural Resources Committee — funded by environmental organizations, labor unions, and small donors rather than the mining, oil, and timber companies his committee regulates. He spent tw..."
-last-updated: 2026-04-11
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 party: Democrat
@@ -127,6 +127,16 @@ The analytical significance is the contrast with his counterpart, Bruce Westerma
 
 ---
 
+## Class Analysis
+
+Raul Grijalva's donor class was the environmental and labor coalition, not the extractive industries his committee regulated. His top donors were the League of Conservation Voters, Sierra Club PAC, AFSCME, SEIU, and building trades unions. Trial lawyers and small individual donors filled out the rest. The notable absence is the story: no mining money, no oil and gas money, no timber industry money. The industries the Natural Resources Committee regulates did not fund the committee's ranking member.
+
+This is the anti-pattern that proves the pattern. Bruce Westerman, Grijalva's Republican counterpart, bought oil and mining stocks (BP, Shell, Chevron, Freeport-McMoRan, BHP, Rio Tinto) while chairing the same committee that opens public lands to extraction. Grijalva took zero extractive industry money and used the same committee to block extraction. Same committee, opposite donors, opposite policy outcomes. When Grijalva held the gavel (2019-2023), public lands protections expanded. When Westerman holds the gavel, public lands open to mining. The money determines the policy.
+
+Grijalva spent two decades fighting battles with no corporate lobby behind them. He blocked uranium mining near the Grand Canyon for 20 years, fought to protect Oak Flat (an Apache sacred site) from Resolution Copper (a Rio Tinto subsidiary), and authored the National Landscape Conservation System legislation protecting 30 million acres. Americans for Tax Reform spent $460,368 opposing him. MoveOn spent $291,211 supporting him. SEIU spent $121,000 supporting him. The outside spending pattern confirms the class alignment: anti-tax groups funded by extractive wealth opposed him, progressive organizations funded by small donors and unions supported him. His structural problem was not donor capture but powerlessness. The minority ranking member on a committee whose majority is funded by extractive industries is designed to lose.
+
+---
+
 ## Analytical Patterns
 
 **Anti-Pattern (mirror image of extractive capture):** Grijalva is the structural opposite of Westerman, Murkowski, and Capito. Same committee jurisdiction (natural resources, public lands, mining), opposite donor base (environmental groups vs. extractive industry), opposite policy outcomes (protection vs. extraction). The anti-pattern proves the pattern: when the committee leader is funded by the environmental movement rather than the extractive industry, the policy agenda centers conservation rather than extraction. The money determines the agenda.
@@ -233,7 +243,7 @@ The analytical significance is the contrast with his counterpart, Bruce Westerma
 **Recent bills sponsored:**
 
 - H.R. 2053: Stop Giving Big Oil Free Money Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 11, 2025. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-- H.R. 1865: Mining Waste, Fraud, and Abuse Prevention Act of 2025 — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 5, 2025. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- H.R. 1865: Mining Waste, misconduct, and Abuse Prevention Act of 2025 — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 5, 2025. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
 
 **Recent votes:**
 
@@ -242,7 +252,7 @@ The analytical significance is the contrast with his counterpart, Bruce Westerma
 | 2025-03-11 | H.J.Res. 25: Providing for congressional disapproval under chapter 8 of title 5,… | Not Voting | Passed |
 | 2025-03-11 | H.R. 1968: Full-Year Continuing Appropriations and Extensions Act, 2025 | Not Voting | Passed |
 | 2025-03-11 | On Motion to Recommit: H.R. 1968: Full-Year Continuing Appropriations and Extens… | Not Voting | Failed |
-| 2025-03-11 | H.R. 1156: Pandemic Unemployment Fraud Enforcement Act | Not Voting | Passed |
+| 2025-03-11 | H.R. 1156: Pandemic Unemployment misconduct Enforcement Act | Not Voting | Passed |
 | 2025-03-11 | H.Res. 211: Providing for consideration of the joint resolution (H.J. Res. 25) p… | Not Voting | Passed |
 | 2025-03-11 | On Ordering the Previous Question: H.Res. 211: Providing for consideration of th… | Not Voting | Passed |
 | 2025-03-10 | H.R. 993: Emerging Innovative Border Technologies Act | Not Voting | Passed |
@@ -259,7 +269,7 @@ The analytical significance is the contrast with his counterpart, Bruce Westerma
 |------|------|----------|--------|
 | 2025-03-11 | H.J.Res. 25: Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitt | **Not Voting** | Passed |
 | 2025-03-11 | H.R. 1968: Full-Year Continuing Appropriations and Extensions Act, 2025 | **Not Voting** | Passed |
-| 2025-03-11 | H.R. 1156: Pandemic Unemployment Fraud Enforcement Act | **Not Voting** | Passed |
+| 2025-03-11 | H.R. 1156: Pandemic Unemployment misconduct Enforcement Act | **Not Voting** | Passed |
 | 2025-03-11 | H.Res. 211: Providing for consideration of the joint resolution (H.J. Res. 25) providing for congressional disapproval u | **Not Voting** | Passed |
 | 2025-03-10 | H.R. 993: Emerging Innovative Border Technologies Act | **Not Voting** | Passed |
 | 2025-03-10 | H.R. 901: Research Security and Accountability in DHS Act | **Not Voting** | Passed |
@@ -286,7 +296,7 @@ The analytical significance is the contrast with his counterpart, Bruce Westerma
 
 | 2025-03-11 | H.J.Res. 25: Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitt | **Not Voting** | Passed |
 | 2025-03-11 | H.R. 1968: Full-Year Continuing Appropriations and Extensions Act, 2025 | **Not Voting** | Passed |
-| 2025-03-11 | H.R. 1156: Pandemic Unemployment Fraud Enforcement Act | **Not Voting** | Passed |
+| 2025-03-11 | H.R. 1156: Pandemic Unemployment misconduct Enforcement Act | **Not Voting** | Passed |
 | 2025-03-11 | H.Res. 211: Providing for consideration of the joint resolution (H.J. Res. 25) providing for congressional disapproval u | **Not Voting** | Passed |
 | 2025-03-10 | H.R. 993: Emerging Innovative Border Technologies Act | **Not Voting** | Passed |
 | 2025-03-10 | H.R. 901: Research Security and Accountability in DHS Act | **Not Voting** | Passed |

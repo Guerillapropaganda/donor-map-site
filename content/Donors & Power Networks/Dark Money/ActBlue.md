@@ -67,7 +67,7 @@ ActBlue is the Democratic Party's primary financial infrastructure — a nonprof
 
 ActBlue processes approximately 10.7 million individual contributions quarterly during peak election cycles. In Q1 2024 alone, ActBlue processed $460 million. During the 2024 election cycle, ActBlue generated $3.8 billion in processed donations, more than double WinRed's (Republican equivalent) $1.8 billion. The organization's scale makes it functionally equivalent to a central bank for Democratic politics — no Democratic money moves without flowing through ActBlue's infrastructure.
 
-The company employs 200+ staff, operates data infrastructure holding behavioral records on 200 million+ Americans, and has become the subject of federal investigation over fraud vulnerabilities and the treatment of unallocated ("earmarked") donations.
+The company employs 200+ staff, operates data infrastructure holding behavioral records on 200 million+ Americans, and has become the subject of federal investigation over misconduct vulnerabilities and the treatment of unallocated ("earmarked") donations.
 
 ---
 
@@ -88,7 +88,7 @@ Unspoken but material goal: maintain market dominance in Democratic fundraising.
 | 2024 | Harris presidential campaign (processed donations) | $2.1B+ (estimated of $3.8B total) | Harris received overwhelming small-dollar support; ActBlue processed peak volume | Presidential outcome |
 | 2024 | Progressive House candidates (PAC-adjacent spending) | $1.2B+ (estimated) | House Democratic fundraising dependent on ActBlue infrastructure | Election outcome |
 | 2024 | State ballot initiatives (environmental, labor, reproductive rights) | $400M+ (estimated) | Prop 32 (minimum wage CA), abortion rights initiatives; ActBlue processing made quorum possible | State outcomes |
-| 2024 | Trump-adjacent fraud cases (processing security failure) | $450M+ (estimated exposure) | Weak fraud detection allowed repeat donors with stolen card information to donate; GOP House investigation launched | Ongoing damage |
+| 2024 | Trump-adjacent misconduct cases (processing security failure) | $450M+ (estimated exposure) | Weak misconduct detection allowed repeat donors with stolen card information to donate; GOP House investigation launched | Ongoing damage |
 | 2024 | Unallocated earmarked donations (data opaque) | $200M+ (estimated, unconfirmed) | Funds retained by ActBlue under terms of service; donor intent not honored; money diverted to ActBlue operations or Democratic infrastructure | Structural issue |
 
 ---
@@ -99,7 +99,7 @@ ActBlue's return on political investment is structural dominance. Since 2004, Ac
 
 Specific policy outcomes tied to ActBlue funding: Georgia Senate flips (2020) enabled by ActBlue small-dollar dominance reversed Republican Senate control. 2024 Harris campaign processed $2.1B through ActBlue, overwhelming Biden's 2020 total and establishing presidential-level reliance on the platform. Progressive ballot initiatives in states like California — Prop 32 (minimum wage), abortion rights measures — were funded through ActBlue coordination, allowing grassroots donors to aggregate capital rapidly.
 
-The organization has positioned itself as a technical innovator, claiming superior fraud detection and user experience compared to Republicans' WinRed. However, this claim collapsed in 2024 when investigations revealed ActBlue weakened anti-fraud safeguards and allowed systematic reuse of stolen credit card information — creating a scam that donors attributed to fraud rates, not platform vulnerability.
+The organization has positioned itself as a technical innovator, claiming superior misconduct detection and user experience compared to Republicans' WinRed. However, this claim collapsed in 2024 when investigations revealed ActBlue weakened anti-misconduct safeguards and allowed systematic reuse of stolen credit card information — creating a scam that donors attributed to misconduct rates, not platform vulnerability.
 
 ---
 
@@ -131,9 +131,9 @@ Where did the money go? FEC filings do not clearly separate earmarked reversion 
 | Processing Fee | 3.95% | 3.94% |
 | 2024 Volume Processed | $3.8B | $1.8B |
 | 2024 Fee Revenue (est.) | $150M+ | $71M+ |
-| Fraud Safeguards (pre-2024) | Claimed superior | Comparable |
-| Fraud Safeguards (2024) | Weakened; FTC investigation launched | Maintained |
-| Refund Policy on Fraud | Limited; ActBlue retains fee | Keeps fee even on refunds |
+| misconduct Safeguards (pre-2024) | Claimed superior | Comparable |
+| misconduct Safeguards (2024) | Weakened; FTC investigation launched | Maintained |
+| Refund Policy on misconduct | Limited; ActBlue retains fee | Keeps fee even on refunds |
 | Donor Data Ownership | ActBlue holds; sharing terms opaque | Similar opacity |
 | Small-Dollar Dominance | 85% of ActBlue revenue from <$200 donations | 80% of WinRed revenue from <$200 donations |
 | Corporate Structure Transparency | Opaque; nonprofit status claims but fee revenue undisclosed | Transparent (for-profit); profit motive explicit |
@@ -215,7 +215,7 @@ The structural difference is minor. Both are payment processors with embedded po
 |--------|-------|
 | Federal Court Cases | 140 |
 | Courts | District Court, C.D. California, District Court, D. New Mexico, District Court, District of Columbia, District Court, E.D. Michigan, District Court, E.D. Virginia, District Court, N.D. California, District Court, N.D. Illinois, United States Bankruptcy Court, D. Massachusetts |
-| Case Types | 370 Other Fraud, 840 Trademark, 895 Freedom of Information Act, Civil Rights: Other |
+| Case Types | 370 Other misconduct, 840 Trademark, 895 Freedom of Information Act, Civil Rights: Other |
 
 **Notable cases:**
 - COMMITTEE TO ELECT YAIDA FORD v. ACTBLUE LLC. (2026) — District Court, District of Columbia
@@ -236,7 +236,7 @@ The structural difference is minor. Both are payment processors with embedded po
 |--------|-------|
 | Federal Court Cases | 141 |
 | Courts | District Court, C.D. California, District Court, D. New Mexico, District Court, District of Columbia, District Court, E.D. Michigan, District Court, E.D. Virginia, District Court, N.D. California, District Court, N.D. Illinois, United States Bankruptcy Court, D. Massachusetts |
-| Case Types | 370 Other Fraud, 840 Trademark, 895 Freedom of Information Act, Civil Rights: Other |
+| Case Types | 370 Other misconduct, 840 Trademark, 895 Freedom of Information Act, Civil Rights: Other |
 
 **Notable cases:**
 - COMMITTEE TO ELECT YAIDA FORD v. ACTBLUE LLC. (2026) — District Court, District of Columbia

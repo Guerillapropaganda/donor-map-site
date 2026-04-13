@@ -40,7 +40,7 @@ The mentorship is not sentimental. Warren created an institutional model: use ac
 
 ### The Mortgage Settlement Monitor
 
-In 2012, AG [[_Kamala Harris Master Profile|Kamala Harris]] appointed Porter as the independent monitor of the $25 billion national mortgage settlement — the deal that resolved allegations of mortgage servicing fraud by five major banks after the 2008 financial crisis.
+In 2012, AG [[_Kamala Harris Master Profile|Kamala Harris]] appointed Porter as the independent monitor of the $25 billion national mortgage settlement — the deal that resolved allegations of mortgage servicing misconduct by five major banks after the 2008 financial crisis.
 
 **Porter's role:** Oversee $9.5 billion in settlement reforms for California homeowners. The position required her to scrutinize bank compliance — exactly the kind of accountability work that built her brand.
 
@@ -55,7 +55,7 @@ Porter served on the House Financial Services Committee from 2019 to 2025. Key m
 
 - **Grilled JPMorgan CEO Jamie Dimon** on bank teller wages vs. executive compensation (viral clip, millions of views)
 - **Confronted Amgen CEO** on drug R&D vs. stock buybacks and executive pay
-- **Questioned Wells Fargo CEO** on account fraud scandal
+- **Questioned Wells Fargo CEO** on account misconduct scandal
 - **STOCK Act 2.0:** Co-introduced with Sen. Kirsten Gillibrand to ban congressional stock trading
 - **FAIR Act support:** Voted to eliminate forced arbitration clauses
 - **CFPB advocacy:** Consistently defended Consumer Financial Protection Bureau against Republican defunding attempts

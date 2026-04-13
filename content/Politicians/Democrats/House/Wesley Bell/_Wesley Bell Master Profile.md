@@ -54,7 +54,7 @@ Per vault documentation, AIPAC's United Democracy Project spent approximately $8
 
 *Stub — needs full development.*
 
-Bell's primary victory over Bush completed AIPAC's 2024 one-two punch against the Squad's most vocal Gaza ceasefire advocates. Unlike Latimer (a long-serving county executive with institutional credibility), Bell's primary appeal was his criminal justice reform record as St. Louis County's first Black prosecuting attorney — credentials that complicated the standard progressive-vs-moderate framing. The donor class chose him specifically because his biography made the anti-Bush attack ads harder to dismiss as establishment versus grassroots.
+Bell's primary victory over Bush completed AIPAC's 2024 one-two punch against the Squad's most vocal Gaza ceasefire advocates. Unlike Latimer (a long-serving county executive with institutional credibility), Bell's primary appeal was his justice system reform record as St. Louis County's first Black prosecuting attorney — credentials that complicated the standard progressive-vs-moderate framing. The donor class chose him specifically because his biography made the anti-Bush attack ads harder to dismiss as establishment versus grassroots.
 
 ---
 
@@ -83,7 +83,7 @@ Source: [[_Cori Bush Master Profile]], [[DMFI - Democratic Majority for Israel]]
 
 ---
 
-**Status:** Stub created 2026-04-09 to preserve vault connections. Needs full research build-out including his criminal justice reform record as St. Louis County Prosecuting Attorney (relevant to Ferguson-era prosecutorial politics), 2024 primary campaign documentation, and House voting record.
+**Status:** Stub created 2026-04-09 to preserve vault connections. Needs full research build-out including his justice system reform record as St. Louis County Prosecuting Attorney (relevant to Ferguson-era prosecutorial politics), 2024 primary campaign documentation, and House voting record.
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->

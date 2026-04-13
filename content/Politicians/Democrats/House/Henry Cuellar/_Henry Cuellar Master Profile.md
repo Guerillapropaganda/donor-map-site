@@ -1,9 +1,9 @@
 ---
 title: "Henry Cuellar Master Profile"
 type: politician
-content-readiness: draft
+content-readiness: ready
 central-thesis: "Henry Cuéllar is the most explicit donor-to-policy case in this vault: foreign bribes converted directly into legislative action. Azerbaijan's state oil company paid $300,000+ to Cuéllar through intermediaries 2014-2021. The payments were document..."
-last-updated: 2026-04-10
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -128,6 +128,14 @@ The Mexico banking money was more sophisticated than Azerbaijan's: it came throu
 > **1-24 months:** Banco Azteca payments activated (December 2015, $15K/month) → banking deregulation votes and anti-money laundering opposition (2016-2018). No actual consulting services were ever performed — confirmed by intermediary's guilty plea.
 
 ---
+
+## Class Analysis
+
+Henry Cuellar is the most explicit corruption case in the vault and the clearest demonstration of what the Blue Dog brand actually enables. Azerbaijan's state oil company SOCAR paid $360,000 through a sham consulting contract ($20,000/month through IRC Business Solutions, backdated to appear legitimate). Banco Azteca paid $236,000 through intermediaries to Cuellar's wife Imelda, with no actual consulting services ever performed. These were not campaign contributions filtered through legal channels. They were direct cash payments to a congressman's bank accounts from a foreign petrostate and a Mexican banking conglomerate.
+
+The class function Cuellar served was specific. For SOCAR, he delivered floor speeches supporting Azerbaijan's geopolitical position and legislative language advancing Azerbaijani interests. The FBI intercepted a White House letter Cuellar wrote in April 2016 accusing Armenia of being a Russian "proxy," which his staffer emailed to an Azerbaijani diplomat the next day. The payment-to-policy gap was two months. For the Eagle Ford Shale oil and gas bloc, Cuellar received $200,000+ in campaign contributions and PAC support while voting against EPA air quality regulations, opposing methane emissions rules, and maintaining silence on water contamination complaints from his own constituents. He was the top Democratic recipient of fossil fuel money nationally while delivering a perfect anti-environment voting record.
+
+The Blue Dog model is the structural explanation. Cuellar's "conservative Democrat" positioning in a 99% Hispanic border district created political space that no progressive could occupy and no Republican needed to. That space made him available for arrangements that would have destroyed a progressive Democrat under media and activist scrutiny. Trump's pardon in December 2025 erased the conviction and sent the final message: foreign bribery is only a crime if you are an enemy of the incoming administration. The Blue Dog brand was the vulnerability. The pardon was the insurance policy.
 
 ## Analytical Patterns
 

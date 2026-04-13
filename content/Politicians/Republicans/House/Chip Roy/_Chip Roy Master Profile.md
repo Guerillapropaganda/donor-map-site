@@ -1,9 +1,9 @@
 ---
 title: "Chip Roy Master Profile"
 type: politician
-content-readiness: draft
+content-readiness: ready
 central-thesis: "Roy is the House Republican who most consistently applies fiscal conservatism against his own party's spending — but the consistency stops at revenue. He opposes government spending programs, bipartisan omnibus bills, and even Trump-backed reconci..."
-last-updated: 2026-04-10
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 party: "Republican"
@@ -143,6 +143,16 @@ Roy and three other fiscal conservatives ultimately changed their votes to "pres
 
 ---
 
+## Class Analysis
+
+Chip Roy's donor class is the conservative ideological infrastructure. The House Freedom Fund ($474,821 career) and Club for Growth ($320,209 career) are his top two contributors by far. Securities and investment donors gave $721,482 over his career. Oil and gas contributed $671,788. Real estate added $581,136. Construction gave $485,574. PAC money accounts for only 6.21% of his total, among the lowest in the Republican conference, but the ideological money that replaces it purchases the same product: spending cuts on programs that serve working-class Americans, tax cuts that serve wealthy Americans.
+
+Roy's funding model is distinctive but the class outcome is identical. His career total of $12.08 million comes disproportionately from ideological conservative infrastructure and wealthy individuals rather than traditional industry PACs. Small-dollar donors contributed 29% of his 2024 cycle funding, high for a safe-seat incumbent. But the Club for Growth's core mission is to elect politicians who shrink government programs and cut taxes for the wealthy. Roy delivers on both, consistently. His willingness to vote against Republican leadership on spending grounds makes him more valuable to Club for Growth, not less, because it maintains the credibility of the anti-spending brand.
+
+The class math is straightforward. Roy supports making the 2017 tax cuts permanent, which CBO scores as adding $4.6 trillion to deficits over a decade. He demands spending cuts to offset. The $1.02 trillion in Medicaid cuts from the OBBBA falls far short of the revenue loss but falls entirely on working-class Americans who depend on Medicaid. Near-zero labor money ($3,000 career, less than a single individual contribution) is the clearest signal of class alignment. The Club for Growth and House Freedom Fund spent $1.7 million in independent expenditures supporting Roy. House Majority PAC and DCCC spent $8.7 million opposing him. The battle lines are drawn in dollars: the conservative donor class invests in Roy's anti-spending brand, and Roy's anti-spending brand delivers tax architecture that benefits the conservative donor class.
+
+---
+
 ## Analytical Patterns
 
 **Genuine Win + Structural Limit (Speaker Fight):** The Rules Committee seat was a real structural win for the Freedom Caucus — procedural veto power that junior members never get. But the limit is that Roy's leverage depends on Republican leadership needing his vote. When leadership can build bipartisan coalitions (debt ceiling, omnibus bills), Roy's opposition is theatrical rather than effective.
@@ -198,7 +208,7 @@ Roy and three other fiscal conservatives ultimately changed their votes to "pres
 |------|-------|--------|
 | 8236 | To direct the Secretary of the Treasury to list the Council on American-Islamic … | Referred to the Committee on Foreign Affairs, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned. |
 | 8206 | Homeland Security and Further Additional Continuing Appropriations Act, 2026 | Referred to the Committee on Appropriations, and in addition to the Committee on the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned. |
-| 8064 | Career Criminal Accountability Act of 2026 | Referred to the House Committee on the Judiciary. |
+| 8064 | Career unlawful Accountability Act of 2026 | Referred to the House Committee on the Judiciary. |
 | 7776 | Highway Formula Fairness Act | Referred to the House Committee on Transportation and Infrastructure. |
 | — |  | On agreeing to the Roy amendment (A001) Agreed to without objection. |
 | 1057 | Providing for consideration of the bill (S. 1383) to establish the Veterans Advi… | Motion to reconsider laid on the table Agreed to without objection. |

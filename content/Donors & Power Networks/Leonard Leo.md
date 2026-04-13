@@ -121,7 +121,7 @@ In May 2025, Trump publicly called Leonard Leo a "sleazebag who controls judges,
 - **Leo's interest:** Preserve and expand conservative judicial dominance through institutional means
 - **Trump's interest:** Maximize personal political power, control over institutions, and ability to escape legal consequences
 
-When Leo-appointed judges ruled against Trump (e.g., financial fraud cases, 2020 election cases), Trump blamed Leo directly. Trump sees judges as instruments of his power, not as autonomous actors serving constitutional principles. Leo sees the judiciary as a political power base semi-independent of any individual politician.
+When Leo-appointed judges ruled against Trump (e.g., financial misconduct cases, 2020 election cases), Trump blamed Leo directly. Trump sees judges as instruments of his power, not as autonomous actors serving constitutional principles. Leo sees the judiciary as a political power base semi-independent of any individual politician.
 
 This tension is significant: if Trump moves against Leo, or if Leo's judges continue constraining Trump, the federal conservative coalition could fracture. For now, both need each other. But the relationship is transactional, not ideological.
 

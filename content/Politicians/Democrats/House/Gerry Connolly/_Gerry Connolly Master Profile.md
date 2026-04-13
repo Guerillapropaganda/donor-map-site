@@ -2,9 +2,9 @@
 title: "Gerry Connolly"
 type: politician
 bioguide-id: "C001078"
-content-readiness: draft
+content-readiness: ready
 central-thesis: "Gerry Connolly was the government contractor economy's congressman — funded by the industries that depend on federal spending, representing the district where those companies are headquartered, and using his Oversight Committee position to champio..."
-last-updated: 2026-04-08
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -106,6 +106,16 @@ The analytical interest is what this alignment obscures: Connolly was the Democr
 | 2025-01 | ← POLICY | Elected Oversight RM; immediately targets DOGE for investigation | — | — | — |
 | 2025-02 | ← POLICY | Urges inspectors general to investigate DOGE operations | — | — | — |
 | 2025-05 | ← DEATH | Connolly dies from esophageal cancer; 80,000 federal workers in his district lose their congressional champion | — | — | — |
+
+---
+
+## Class Analysis
+
+Gerry Connolly represented the tightest donor-constituency-committee alignment in the vault, and that alignment reveals the class he actually served. Virginia's 11th District is home to 80,000 federal workers and the headquarters of Booz Allen Hamilton ($9.4 billion annual revenue), Leidos, SAIC, CACI, and ManTech. Connolly's top donor sector was government services and IT contractors. His Oversight Committee position gave him jurisdiction over federal procurement. His signature legislation, FITARA, reformed how the government buys technology, directing billions toward IT modernization purchased from the same Northern Virginia contractor ecosystem that funded his campaigns.
+
+The self-reinforcing loop is visible: FITARA directs agencies to modernize IT, modernization means buying from contractors, contractors are headquartered in Connolly's district, contractors donate to Connolly's campaign, and Connolly uses his committee position to push more modernization. Every participant benefits. But the question the alignment obscures is whose class interests are actually served. Connolly championed the FAIR Act for federal employee pay raises, fought against DOGE and Trump-era workforce cuts, and investigated government shutdowns. That advocacy was genuine. He delivered real protections for the GS-13 analyst making $85,000 a year in Fairfax County. But "protect federal workers" and "protect the government contractor revenue stream" are the same policy position in Northern Virginia. The $90 billion annual federal IT budget flows through the same pipeline regardless of which framing you use.
+
+Before Congress, Connolly worked at SRI International (a government contractor) and the Senate Foreign Relations Committee. His career arc, from government to contractor to local government to Congress to the Oversight Committee, is the Northern Virginia revolving door completed before he ever arrived on Capitol Hill. He did not need to be captured by the contractor class. He was the contractor class. His death in May 2025 left 80,000 federal workers without their congressional champion, but it also left the contractor ecosystem without its most effective legislative advocate. The obituaries emphasized the first point. The contractor stocks priced in the second.
 
 ---
 

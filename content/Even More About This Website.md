@@ -61,7 +61,7 @@ The core analytical tool of this database is the donation-to-policy timeline: ma
 
 **What the timeline does not establish.** Causation. A donation-to-policy timeline shows that money flowed and policy followed. It does not prove the money caused the policy. Politicians have multiple motivations: constituency pressure, ideology, party leadership, staff recommendations, personal conviction. The database does not claim to read minds.
 
-**Language conventions.** Timelines use specific language to stay within evidentiary bounds: "donated, then voted" (sequence), "funding aligns with" (structural relationship), "top recipient among those who voted for" (correlation), "the policy outcome matched the donor's documented interest" (alignment). The database never uses "bought," "bribed," or "paid for" unless quoting a legal finding.
+**Language conventions.** Timelines use specific language to stay within evidentiary bounds: "donated, then voted" (sequence), "funding aligns with" (structural relationship), "top recipient among those who voted for" (correlation), "the policy outcome matched the donor's documented interest" (alignment). The database never uses "bought," "paid off," or "paid for" unless quoting a legal finding.
 
 **ROI calculations.** The ROI figures that appear in profiles and interactive tools are illustrative, not causal. When the database shows "$200K donated → $2.4B in contracts," this documents the scale asymmetry between political investment and policy return. It does not claim the donation was the sole or primary cause of the contract. The ROI framework makes visible what the system is designed to hide: the ratio between political spending and policy benefit.
 

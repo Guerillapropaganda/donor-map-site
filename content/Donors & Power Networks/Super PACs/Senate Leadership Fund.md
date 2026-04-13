@@ -1,8 +1,8 @@
 ---
 title: "Senate Leadership Fund"
 type: pac
-content-readiness: draft
-last-updated: 2026-04-12
+content-readiness: ready
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 sector: "Super PACs"
@@ -220,7 +220,7 @@ McConnell built SLF as his personal power machine from 2015 to 2024. The organiz
 |--------|-------|
 | Federal Court Cases | 31 |
 | Courts | District Court, D. Maine, District Court, S.D. Florida, District Court, S.D. New York, District Court, W.D. Texas, United States Bankruptcy Court, D. Delaware |
-| Case Types | 11 Recovery of money/property - 542 turnover of property, 13 Recovery of money/property - 548 deceptive transfer; 14 Recovery of money/property - other, 13 Recovery of money/property - 548 deceptive transfer; 14 Recovery of money/property - other; 02 Other (e.g. other actions that would have been brought in state court if unrelated to bankruptcy), 160 Stockholders Suits, 370 Other Fraud |
+| Case Types | 11 Recovery of money/property - 542 turnover of property, 13 Recovery of money/property - 548 deceptive transfer; 14 Recovery of money/property - other, 13 Recovery of money/property - 548 deceptive transfer; 14 Recovery of money/property - other; 02 Other (e.g. other actions that would have been brought in state court if unrelated to bankruptcy), 160 Stockholders Suits, 370 Other misconduct |
 
 **Notable cases:**
 - Yates v. [[NextEra Energy]], Inc. (2026) — District Court, S.D. Florida

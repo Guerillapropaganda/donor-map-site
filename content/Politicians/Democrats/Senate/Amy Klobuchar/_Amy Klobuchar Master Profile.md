@@ -1,9 +1,9 @@
 ---
 title: "Amy Klobuchar"
 type: politician
-content-readiness: draft
+content-readiness: ready
 central-thesis: "Amy Klobuchar is the Senate's antitrust brand — and the brand is the product. Her antitrust subcommittee chairmanship gives her jurisdiction over the largest corporations in America. Her legislative proposals would meaningfully constrain Big Tech'..."
-last-updated: 2026-04-11
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -135,6 +135,14 @@ Klobuchar's office has 18 documented revolving door staff movements since 2000 �
 **The Persistent Legislator:** Reintroducing the same antitrust bills each Congress demonstrates commitment to the cause. The reintroduction itself becomes the proof of effort — the fact that the bills never pass is attributed to lobbying power, not to any failure of the legislator who keeps proposing them.
 
 ---
+
+## Class Analysis
+
+Amy Klobuchar chairs the Senate's antitrust subcommittee and has authored the most comprehensive antitrust reform legislation in decades. None of her major antitrust bills have received floor votes. The companies her legislation targets (Google, Amazon, Apple, Meta) collectively spent $95 million lobbying against the American Innovation and Choice Online Act alone, plus $36 million on TV and digital ads. Supporters of the bill spent $193,000. The math explains the outcome.
+
+The donor map reveals why the brand is sustainable without results. Klobuchar's top industry donors are lawyers, securities firms (Goldman Sachs $29,500, Wells Fargo $31,048, JPMorgan $26,979), healthcare companies (Medtronic at roughly $45,000, UnitedHealth executives), and agribusiness (Cargill, General Mills, Land O'Lakes). These are not the targets of her antitrust work. Her antitrust brand targets Big Tech while her donor base is corporate-professional Minnesota. She can be the antitrust champion against Silicon Valley without threatening the industries that fund her. AIPAC adds $127,150 for foreign policy alignment. Her 2020 presidential campaign attracted 21 billionaire donors, including LinkedIn's Reid Hoffman ($2,800) and former Goldman Sachs partner Bruce Heyman, who raised $100,000 or more at a single Chicago fundraiser.
+
+The legislative record is the class proof. The Merger Filing Fee Modernization Act (2022) passed because it updated administrative fees. The State Antitrust Enforcement Act (2022) passed unanimously because it reformed procedural venue rules. Both were genuine accomplishments. Neither threatened monopoly power. The American Innovation and Choice Online Act passed committee 16-6 with bipartisan support and never reached the floor. The Competition and Antitrust Law Enforcement Reform Act has been introduced twice and never advanced. Every bill that would structurally constrain corporate monopoly power stalls. Every bill that modernizes administrative process passes. Klobuchar proposes reform, the targets of reform prevent it, and Klobuchar gets the brand credit for proposing reform that never becomes law. The cycle repeats each Congress.
 
 ## Analytical Patterns
 

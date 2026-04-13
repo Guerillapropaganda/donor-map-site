@@ -1,8 +1,8 @@
 ---
 title: "Koch Industries"
 type: corporation
-content-readiness: draft
-last-updated: 2026-04-12
+content-readiness: ready
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 sector: "Energy & Utilities"
@@ -303,7 +303,7 @@ Koch Industries' lobbying against environmental regulation exists alongside one 
 
 **$30 million oil spill settlement (2000):** Koch paid the largest civil fine ever imposed under any federal environmental law for more than 300 oil spills from its pipelines and facilities in six states, plus $5 million for environmental remediation projects.
 
-**$20 million benzene prosecution (2001):** Koch pleaded guilty to covering up environmental violations at its Corpus Christi, Texas refinery. A whistleblower revealed that Koch's West Plant had 91 metric tons of uncontrolled benzene in its liquid waste — 15 times the 6-metric-ton legal limit. Koch paid $20 million in criminal fines plus $10 million for environmental projects in Corpus Christi. This was a record amount for an environmental prosecution at the time.
+**$20 million benzene prosecution (2001):** Koch pleaded guilty to covering up environmental violations at its Corpus Christi, Texas refinery. A whistleblower revealed that Koch's West Plant had 91 metric tons of uncontrolled benzene in its liquid waste — 15 times the 6-metric-ton legal limit. Koch paid $20 million in unlawful fines plus $10 million for environmental projects in Corpus Christi. This was a record amount for an environmental prosecution at the time.
 
 **$80 million refinery cleanup (2001):** Koch spent an estimated $80 million installing pollution-control equipment at refineries in Corpus Christi, Texas and near St. Paul, Minnesota, plus a $4.5 million penalty for Clean Air Act violations.
 
@@ -328,7 +328,7 @@ Koch Industries' lobbying against environmental regulation exists alongside one 
 | Date | Event/Spending | Amount | Policy Outcome | Time Gap |
 |------|---------------|--------|----------------|----------|
 | 2000 | Koch pays record environmental fine | $30M penalty | 300+ oil spills settled; Koch begins funding anti-regulation infrastructure | — |
-| 2001 | Koch pleads guilty to benzene cover-up | $20M criminal + $10M remediation | Record environmental prosecution; Koch accelerates deregulation advocacy | — |
+| 2001 | Koch pleads guilty to benzene cover-up | $20M unlawful + $10M remediation | Record environmental prosecution; Koch accelerates deregulation advocacy | — |
 | 2009 | Koch Network opposes Waxman-Markey cap-and-trade | $400M+ cycle spending | Bill passes House, dies in Senate; no carbon pricing enacted | Immediate |
 | 2010 | Citizens United decided; Koch Network spending explodes | — | Unlimited dark money spending enabled; AFP outside spending begins | — |
 | 2017 | Koch Network invests $20M in TCJA campaign | $20M (Koch's own estimate) | Corporate rate 35%→21%; pass-through deduction benefits Koch's private structure | Immediate |

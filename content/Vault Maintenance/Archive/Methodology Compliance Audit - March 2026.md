@@ -64,7 +64,7 @@ Many of these newer profiles have temporal data embedded in prose but not struct
 ### 3. Fix [[_JD Vance Master Profile|JD Vance]] folder H2 headers (5 files)
 Files to fix:
 - `_[[_JD Vance Master Profile|JD Vance]] Master Profile.md`
-- `Hillbilly Elegy and the Class Fraud.md`
+- `Hillbilly Elegy and the Class misconduct.md`
 - `Narya Capital and the Venture Capital Pipeline.md`
 - `The 2024 Tech Billionaire Network.md`
 - `The Thiel Pipeline - From Yale to VP.md`

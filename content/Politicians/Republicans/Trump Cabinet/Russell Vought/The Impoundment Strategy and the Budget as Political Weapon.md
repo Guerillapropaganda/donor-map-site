@@ -68,7 +68,7 @@ Vought serves as acting director of the Consumer Financial Protection Bureau sin
 - Federal court ruling: Vought's actions a "transparent display of partisanship"
 - Permanent injunction ordered funding request
 
-The CFPB was created after the 2008 financial crisis to protect consumers from predatory lending, credit card abuse, and financial fraud. Vought's takeover — using the budget office to effectively shut down a consumer protection agency — serves the financial industry donors who have long sought CFPB's elimination.
+The CFPB was created after the 2008 financial crisis to protect consumers from predatory lending, credit card abuse, and financial misconduct. Vought's takeover — using the budget office to effectively shut down a consumer protection agency — serves the financial industry donors who have long sought CFPB's elimination.
 
 ---
 

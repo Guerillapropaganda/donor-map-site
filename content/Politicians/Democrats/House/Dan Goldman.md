@@ -3,9 +3,9 @@ title: "Dan Goldman"
 type: politician
 chamber: "House"
 party: "Democrat"
-content-readiness: draft
+content-readiness: ready
 central-thesis: "Goldman demonstrates how dynastic wealth purchases political power in the 21st century Democratic Party. His campaign did not build grassroots support; he self-funded $4M in primary spending in a crowded field. His Trump impeachment credentials we..."
-last-updated: 2026-04-10
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 govtrack-id: 456923
@@ -74,6 +74,16 @@ Goldman's AIPAC connection is personal and political. He met his wife at an AIPA
 ### Congressional Voting Pattern — Israel Hawk, Corporate Defender
 
 Goldman's House votes align precisely with inherited wealth interests and AIPAC agenda. He has voted against environmental regulations that would constrain financial interests. He opposed antitrust action against corporations. His voting record on securities industry protection shows consistent alignment with financial capital interests. On Israel-Palestine votes, his record is unambiguous: he voted against the Gaza humanitarian aid amendments, defended Israel in every post-October 7 floor vote, and co-sponsored legislation escalating sanctions against Palestinian leadership. He has not voted for a single pro-labor, anti-corporate, or Palestinian-rights measure. His voting record reads as a perfect hedge fund protection scorecard combined with AIPAC alignment template. This voting record was the return on the $4M primary victory investment plus the AIPAC relationship.
+
+## Class Analysis
+
+Dan Goldman's donor class is himself. His $4 million self-funded primary campaign in 2022 purchased a House seat in a field of 12 candidates. His Levi Strauss fortune, estimated at $64 to $253 million, made the candidacy possible. His total 2022 campaign spending exceeded $7.1 million, with $2 million from individual contributions and $97,005 from PACs. The rest was Goldman's own money. Carolyn Maloney and other grassroots-backed candidates could not compete with a self-funded heir. The primary was not won through organizing. It was won through capital deployment.
+
+AIPAC is Goldman's institutional donor class after his own wealth. His career AIPAC contributions total $722,698, with $620,903 in the 2024 cycle alone, making him one of the top AIPAC recipients among new House members. The relationship is personal (Goldman met his wife at an AIPAC young leadership event in 2012) and financial (ongoing campaign support). His voting record correlates directly with AIPAC's legislative agenda: he voted to censure Rashida Tlaib, opposed BDS, co-signed a letter expressing "disgust" at South Africa's genocide case against Israel at the ICJ, and supported the $14.3 billion Israel Security Supplemental. Pro-Israel sector total in 2024 was $678,468. Protect Progress spent $301,706 supporting Goldman. Mainstream Democrats PAC spent $203,398.
+
+Goldman's class function in Congress is to normalize inherited wealth purchasing Democratic political power. His impeachment credentials provide the moral cover. His AIPAC alignment provides the institutional support. His Levi Strauss fortune provides the structural advantage. The combination is a pilot program: future wealthy Democrats now understand that a $4 million self-funded primary campaign can defeat grassroots-backed incumbents if framed as constitutional defense. Goldman proved the model works. The $7.1 million total spend in 2022 bought a seat. The $678,468 in pro-Israel money in 2024 bought the voting record. The democracy defender who purchased his way into Congress is the contradiction the Democratic Party has chosen not to resolve.
+
+---
 
 ## Rhetorical Signature Moves
 

@@ -52,7 +52,7 @@ Born into wealth — not self-made, despite the mythology. Fred Trump's real est
 
 ## The Central Thesis
 
-Trump is not a donor-class Democrat (like Newsom) or a police-class authoritarian (like Bianco). He is something the existing political categories struggle to contain: a billionaire populist fraud who scams in every direction simultaneously — extracting from the working class through false promises and culture war distraction, extracting from the billionaire class through access-selling and institutional capture, and extracting from the state itself through contracts, deregulation, and direct personal enrichment schemes.
+Trump is not a donor-class Democrat (like Newsom) or a police-class authoritarian (like Bianco). He is something the existing political categories struggle to contain: a billionaire populist misconduct who scams in every direction simultaneously — extracting from the working class through false promises and culture war distraction, extracting from the billionaire class through access-selling and institutional capture, and extracting from the state itself through contracts, deregulation, and direct personal enrichment schemes.
 
 The standard left framing is "Trump serves capital." That's true but incomplete. Trump serves Trump. Capital gets what it wants (tax cuts, deregulation, labor discipline) because capital is willing to pay, and Trump is willing to sell. But Trump is also running side hustles — crypto coins, branded Bibles, NFTs, a media company valued at billions despite generating almost no revenue — that extract directly from his own supporters. He is not an ideological servant of capital. He is a transactional grifter whose interests happen to align with capital's when the price is right.
 
@@ -341,7 +341,7 @@ The structural innovation Trump represents is the merger of state power and pers
 - **National AI Policy Framework** (March 20): Preempts state AI regulation. Direct benefit to tech donor bloc.
 - **Removing Regulatory Barriers to Affordable Home Construction** (March 13): Deregulatory push benefiting real estate donors.
 - **Promoting Access to Mortgage Credit** (March 13): Expands mortgage access — financial industry benefit.
-- **Task Force to Eliminate Fraud** (March 16)
+- **Task Force to Eliminate misconduct** (March 16)
 - **Made in America Advertising** (March 13)
 
 **DHS shutdown — week 5:** The partial DHS shutdown (since Feb 14) continues. 50,000+ TSA officers working without pay. Musk offered to personally cover TSA salaries. Trump threatened to deploy ICE agents to airports if shutdown doesn't end.

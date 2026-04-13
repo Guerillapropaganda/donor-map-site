@@ -34,7 +34,7 @@ FTX was a cryptocurrency derivatives exchange founded in May 2019 by Sam Bankman
 
 At its peak, SBF was worth ~$26 billion and positioned as the "responsible face" of crypto regulation, testifying before Congress, meeting CFTC Chairman Rostin Behnam 10+ times, and deploying effective altruism ideology to frame his political spending as philanthropic rather than self-interested. One in three members of Congress received money from FTX executives.
 
-**The fraud:** SBF diverted approximately $8 billion in FTX customer funds to Alameda Research for trading, real estate, political donations, and personal use. On November 2, 2022, CoinDesk revealed Alameda's balance sheet was built on FTX's own FTT token. Customer withdrawals surged. By November 11, FTX and 130+ related entities filed for bankruptcy. SBF was convicted on all seven criminal counts in October 2023 and sentenced to 25 years in federal prison.
+**The misconduct:** SBF diverted approximately $8 billion in FTX customer funds to Alameda Research for trading, real estate, political donations, and personal use. On November 2, 2022, CoinDesk revealed Alameda's balance sheet was built on FTX's own FTT token. Customer withdrawals surged. By November 11, FTX and 130+ related entities filed for bankruptcy. SBF was convicted on all seven unlawful counts in October 2023 and sentenced to 25 years in federal prison.
 
 ---
 
@@ -86,7 +86,7 @@ SBF's own explanation for hiding Republican donations: reporters would "freak th
 | Nov 2, 2022 | CoinDesk exposes Alameda balance sheet | CoinDesk |
 | Nov 11, 2022 | FTX files bankruptcy — DCCPA collapses | Multiple |
 | Dec 12, 2022 | SBF indicted on 8 counts including campaign finance violations | DOJ |
-| Oct 30, 2023 | Convicted on all 7 counts: wire misconduct, money laundering, securities violations, commodities fraud | DOJ |
+| Oct 30, 2023 | Convicted on all 7 counts: wire misconduct, money laundering, securities violations, commodities misconduct | DOJ |
 | Mar 28, 2024 | Sentenced to 25 years; ordered to forfeit $11 billion | DOJ |
 
 > [!contradiction]
@@ -96,7 +96,7 @@ SBF's own explanation for hiding Republican donations: reporters would "freak th
 - Bankruptcy estate sent confidential letters to all political recipients demanding return of $93 million in donations
 - DCCPA branded the "SBF Bill" — politically radioactive, though still being revived as of 2026
 - Ryan Salame sentenced to 7.5 years for conspiracy to make unlawful political contributions
-- Nishad Singh cooperated with prosecutors, testified about straw donor scheme
+- Nishad Singh cooperated with prosecutors, testified about straw donor operation
 - Trump explicitly ruled out pardoning SBF despite broad crypto clemency wave in 2025 (Changpeng Zhao, Ross Ulbricht pardoned)
 
 ---
@@ -105,11 +105,11 @@ SBF's own explanation for hiding Republican donations: reporters would "freak th
 
 SBF represents the purest case study in the vault of money-as-political-infrastructure: every dollar of political influence was stolen, the regulatory outcome was pre-designed to enable continued theft, and the ideological cover (effective altruism) was purpose-built to deflect scrutiny.
 
-**The EA shield:** SBF embraced "earning to give" — the effective altruist doctrine that accumulating wealth through finance is morally superior to direct nonprofit work if the wealth is deployed for maximum impact. This framing converted self-dealing into philanthropy. Political donations became "pandemic prevention." Regulatory capture became "responsible crypto governance." The ideology was load-bearing: without EA branding, SBF's political spending looks like what it was — a fraud operator buying the regulatory environment that enabled his fraud.
+**The EA shield:** SBF embraced "earning to give" — the effective altruist doctrine that accumulating wealth through finance is morally superior to direct nonprofit work if the wealth is deployed for maximum impact. This framing converted self-dealing into philanthropy. Political donations became "pandemic prevention." Regulatory capture became "responsible crypto governance." The ideology was load-bearing: without EA branding, SBF's political spending looks like what it was — a misconduct operator buying the regulatory environment that enabled his misconduct.
 
 ### Who benefited:
 - **SBF (temporarily):** $26 billion peak net worth, political access, congressional testimony platform — all built on customer deposits
-- **Crypto industry:** FTX's lobbying advanced industry-wide regulatory preferences (CFTC jurisdiction, lighter oversight). GMI PAC's 19 winning candidates shifted Congress toward crypto-friendly positions. The spending outlived the fraud.
+- **Crypto industry:** FTX's lobbying advanced industry-wide regulatory preferences (CFTC jurisdiction, lighter oversight). GMI PAC's 19 winning candidates shifted Congress toward crypto-friendly positions. The spending outlived the misconduct.
 - **Both parties:** Democrats got a "responsible billionaire" donor; Republicans got dark money. Both got cover for crypto-friendly positions.
 
 ### Who paid:
@@ -117,7 +117,7 @@ SBF represents the purest case study in the vault of money-as-political-infrastr
 - **Democratic credibility:** Party's association with SBF damaged progressive crypto-skeptic positions. Recipients scrambled to return donations — many kept them.
 - **Pandemic preparedness:** Protect Our Future PAC dissolved. Genuine pandemic prevention advocacy lost its largest funder and gained a fraudulent association.
 
-**Structural lesson:** Without real-time transaction transparency and beneficial ownership disclosure, a single fraud operator deployed $80M+ in stolen funds across both parties, shaped pending legislation, accessed the top regulator 10+ times, and testified before Congress as an expert — all while running an $8 billion theft. The system's vulnerability isn't SBF. It's that the system can't distinguish between legitimate political spending and fraud-funded regulatory capture until after the fraud collapses.
+**Structural lesson:** Without real-time transaction transparency and beneficial ownership disclosure, a single misconduct operator deployed $80M+ in stolen funds across both parties, shaped pending legislation, accessed the top regulator 10+ times, and testified before Congress as an expert — all while running an $8 billion theft. The system's vulnerability isn't SBF. It's that the system can't distinguish between legitimate political spending and misconduct-funded regulatory capture until after the misconduct collapses.
 
 ---
 

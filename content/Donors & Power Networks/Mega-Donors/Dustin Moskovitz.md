@@ -1,8 +1,8 @@
 ---
 title: "Dustin Moskovitz"
 type: donor
-content-readiness: draft
-last-updated: 2026-04-10
+content-readiness: ready
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 sector: "Mega-Donors"
@@ -100,7 +100,7 @@ The absence of major legislative victories directly traceable to Moskovitz spend
 
 Moskovitz has publicly criticized dark money in American politics — including statements that Citizens United created "corrosive" dynamics in campaigning. Simultaneously, he funnels $51 million through [[Future Forward USA Action|Future Forward USA Action]], a dark money 501c4 that operates identically to Republican dark money vehicles. The justification offered by Moskovitz and his advisors is tactical: *if Republicans use dark money, Democrats cannot unilaterally disarm.* This argument accepts the political logic it claims to oppose.
 
-The deeper contradiction is ideological. Effective altruism promises data-driven rationality and "earning to give" — the premise that billionaires are inherently better allocators of capital than democratic processes. The movement's 2022-2024 evolution included intimate connections to Sam Bankman-Fried (FTX collapse, November 2022), who positioned himself as the movement's most generous donor. Moskovitz's public distancing from the FTX scandal was swift; effective altruism's institutional response was slower. The episode exposed the movement's vulnerability to fraud: billionaire-centric funding flows lack accountability mechanisms that democratic processes provide.
+The deeper contradiction is ideological. Effective altruism promises data-driven rationality and "earning to give" — the premise that billionaires are inherently better allocators of capital than democratic processes. The movement's 2022-2024 evolution included intimate connections to Sam Bankman-Fried (FTX collapse, November 2022), who positioned himself as the movement's most generous donor. Moskovitz's public distancing from the FTX scandal was swift; effective altruism's institutional response was slower. The episode exposed the movement's vulnerability to misconduct: billionaire-centric funding flows lack accountability mechanisms that democratic processes provide.
 
 ---
 
@@ -116,6 +116,16 @@ The deeper contradiction is ideological. Effective altruism promises data-driven
 | 2022 | FTX collapse exposes effective altruism's internal contradictions; Moskovitz distance himself | Reputational damage contained | Movement regroups; major structural critique deferred |
 | 2024 | Future Forward funds Harris campaign infrastructure; $51M+ committed to dark money spending | $51M+ invested | Harris campaign receives unprecedented digital/data infrastructure; $29M spent on field operations |
 | 2024 Q4 | Democratic losses despite record spending; Moskovitz-funded infrastructure did not overcome Trump advantage in swing states | $51M spent, outcome: Trump victory | Questions about mega-donor spending effectiveness emerge |
+
+---
+
+## Class Analysis
+
+Dustin Moskovitz is the Democratic mega-donor who most clearly illustrates the contradiction between progressive rhetoric and donor-class behavior. He has publicly criticized dark money as "corrosive" to democracy while funneling $51 million through Future Forward USA Action, a 501(c)(4) dark money vehicle that operates with zero donor disclosure. The justification, that Democrats cannot unilaterally disarm against Republican dark money, accepts the political logic it claims to oppose. The result is identical to Republican dark money operations: anonymous billionaire spending shaping electoral outcomes.
+
+The effective altruism framework provides intellectual cover for what is structurally a capital allocation operation. Moskovitz frames his political spending as data-driven optimization for long-term outcomes (AI safety, pandemic preparedness, institutional competence). In practice, this means supporting Democratic candidates who will not threaten the wealth structures that generate his $19 billion fortune. The philosophy that billionaires are inherently better allocators of capital than democratic processes is not a progressive position. It is the donor-class position dressed in utilitarian language.
+
+The FTX connection exposed the movement's structural vulnerability. Sam Bankman-Fried positioned himself as effective altruism's most generous practitioner before his operation collapsed in a multibillion-dollar loss. Moskovitz distanced himself quickly, but the episode revealed the core problem: billionaire-centric funding flows concentrated in a small network of aligned donors lack the accountability mechanisms that democratic processes provide. Moskovitz's $135 million in lifetime FEC contributions, with $100 million flowing to a single PAC (FF PAC), represent the most concentrated individual political spending operation on the Democratic side.
 
 ---
 

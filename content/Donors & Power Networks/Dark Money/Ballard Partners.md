@@ -1,8 +1,8 @@
 ---
 title: "Ballard Partners"
 type: corporation
-content-readiness: draft
-last-updated: 2026-04-08
+content-readiness: ready
+last-updated: 2026-04-13
 source-tier: 2
 parent: null
 sector: "Dark Money"
@@ -34,7 +34,7 @@ known-gaps:
 
 ### Who They Are
 
-Ballard Partners is the third-largest federal lobbying firm in the United States, founded and led by Brian Ballard, a veteran Republican lobbyist with deep ties to Donald Trump and the Republican establishment. The firm specializes in foreign and domestic lobbying, with a particularly lucrative practice area in criminal clemency petitions and corporate legal work. As of 2023-2024, Ballard Partners reported over $88 million in foreign lobbying revenue alone, making it one of the most successful foreign agent firms operating in Washington.
+Ballard Partners is the third-largest federal lobbying firm in the United States, founded and led by Brian Ballard, a veteran Republican lobbyist with deep ties to Donald Trump and the Republican establishment. The firm specializes in foreign and domestic lobbying, with a particularly lucrative practice area in unlawful clemency petitions and corporate legal work. As of 2023-2024, Ballard Partners reported over $88 million in foreign lobbying revenue alone, making it one of the most successful foreign agent firms operating in Washington.
 
 ### What They Want
 

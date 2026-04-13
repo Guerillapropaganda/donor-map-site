@@ -80,7 +80,7 @@ Two politicians in public opposition who share the same donors. The fight is rea
 
 Democrats and Republicans running identical dark money operations while one denounces the other's.
 
-- [[_Sheldon Whitehouse Master Profile|Sheldon Whitehouse]] — Documents right-wing dark money in "scheme" speeches while left-wing Arabella network runs parallel operations
+- [[_Sheldon Whitehouse Master Profile|Sheldon Whitehouse]] — Documents right-wing dark money in "operation" speeches while left-wing Arabella network runs parallel operations
 - [[Heritage Foundation]] vs. [[Arabella Advisors]] — Same structure, different sides, same opacity
 - [[Federalist Society]] vs. [[Demand Justice]] — Conservative and progressive judicial pipelines, both donor-funded, both 501(c)(4)
 

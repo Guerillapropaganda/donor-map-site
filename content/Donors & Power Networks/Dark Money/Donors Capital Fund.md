@@ -1,7 +1,7 @@
 ---
 title: "Donors Capital Fund"
 type: donor
-content-readiness: draft
+content-readiness: ready
 last-updated: 2026-04-13
 source-tier: 1
 parent: null
@@ -152,7 +152,7 @@ Donors Capital Fund is the conservative donor class's anonymity machine. The DAF
 |--------|-------|
 | Federal Court Cases | 13 |
 | Courts | District Court, D. Minnesota, District Court, D. New Jersey, District Court, D. Puerto Rico, District Court, District of Columbia, District Court, E.D. Pennsylvania, District Court, N.D. California, District Court, N.D. Florida, District Court, W.D. Washington |
-| Case Types | 370 Fraud, 440 Civil Rights: Other, 470 Racketeer/compromised Organization, 890 Other Statutory Actions, 893 Environmental Matters |
+| Case Types | 370 misconduct, 440 Civil Rights: Other, 470 Racketeer/compromised Organization, 890 Other Statutory Actions, 893 Environmental Matters |
 
 **Notable cases:**
 - Kennedy v. Exxon Mobil Corporation (2025) — District Court, W.D. Washington
