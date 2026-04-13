@@ -1,8 +1,8 @@
 ---
 title: "CCPOA - California Correctional Peace Officers Association"
 type: corporation
-content-readiness: draft
-last-updated: 2026-04-12
+content-readiness: ready
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 sector: "Carceral State"
@@ -177,6 +177,16 @@ The closures are the one area where Newsom's actions have genuinely threatened C
 
 justice system — prison budget, parole, accountability, San Quentin, policing reform ceiling
 Ballot measures — Prop 36 (supported, $300K), Prop 1 (supported via Newsom, $1M)
+
+---
+
+## Class Analysis
+
+The California Correctional Peace Officers Association is the most structurally complex donor in the carceral sector because it is genuinely a working-class union that functions as an instrument of class control. CCPOA members have dangerous jobs, real grievances, and hard-won protections. But the union's institutional interest requires maintaining and growing the prison population, which means opposing parole reform, early release, and any policy that reduces the number of people in cages. A union that fights to keep other working-class people incarcerated to protect its own headcount is a labor organization operating as capital's enforcement arm.
+
+The spending pattern confirms the institutional logic. CCPOA gave Gavin Newsom $2.9 million (31% of all political spending since 2001) while simultaneously spending $300,000 to support Proposition 36, a tough-on-crime measure Newsom publicly opposed. This is not a contradiction. CCPOA buys access to whoever holds power AND funds the policies that serve its headcount interest regardless of that person's position. The governor gets the campaign money. The ballot box gets the policy money. Both serve the union.
+
+The return on $2.9 million in Newsom contributions is $1.6 billion in contracts over two years (2023 and 2025 combined), plus $600 million annually in overtime spending that the union has no incentive to reduce. CCPOA was the first union to cut a deal after Newsom announced the budget deficit. The prison closures that have reduced membership by 6% are the one area where the governor has acted against CCPOA's interest, but the contract terms can be read as the price of managing that threat without a political fight: close the prisons, but make the remaining guards richer.
 
 ---
 

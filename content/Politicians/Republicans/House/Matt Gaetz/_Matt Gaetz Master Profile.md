@@ -1,9 +1,9 @@
 ---
 title: "Matt Gaetz Master Profile"
 type: politician
-content-readiness: draft
+content-readiness: ready
 central-thesis: "Gaetz is the donor class's chaos agent — his function is not to pass legislation but to make government dysfunctional enough that regulation becomes impossible. His father's $30M+ fortune from the healthcare industry means he doesn't need the dono..."
-last-updated: 2026-04-11
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 party: "Republican"
@@ -144,6 +144,16 @@ The DOJ investigated beginning in 2021 and declined to bring charges. Gaetz resi
 > **The McCarthy ouster → Mike Johnson sequence (3 weeks):** Gaetz removes McCarthy (October 3, 2023) → House paralyzed 3 weeks → Mike Johnson elected on fourth attempt (October 25, 2023). Johnson had coordinated election certification opposition after January 6. The chaos Gaetz generated produced a speaker more aligned with the deregulatory MAGA agenda than McCarthy had been.
 >
 > **The wealth-as-immunity pattern:** Family wealth ($29.6M) → no consequences from DOJ investigation (2021–2024) → Ethics Committee report "substantial evidence" of statutory rape (December 2024) → no prosecution → AG nomination (November 2024). The sequence demonstrates that the $29.6M in family wealth functions as a legal shield that would not be available to an ordinary American facing the same allegations.
+
+---
+
+## Class Analysis
+
+Matt Gaetz is the son of a $29.6 million fortune built on legislative capture. His father, Don Gaetz, co-founded VITAS Healthcare after successfully lobbying Congress to pass the Hospice Care Reimbursement Act of 1982, which made hospice costs reimbursable by Medicare. Don then converted a nonprofit hospice into a for-profit company that sold for $406 million in 2004. The family fortune is the product of a politician using legislative access to create a market and then profiting from that market. Matt Gaetz's entire political career exists because of this wealth. His personal net worth is roughly $700,000 to $1 million, almost entirely from his congressional salary. He is functionally dependent on his father's fortune for his political position.
+
+This wealth makes Gaetz useful in a way that donor-dependent politicians cannot be. His 2024 cycle raised $6.7 million with only $12,240 from PACs. He does not need Chevron, Goldman Sachs, or Lockheed Martin. His independence from the normal donor leverage mechanism is what makes him valuable as a chaos agent. The McCarthy ouster on October 3, 2023, paralyzed the House for three weeks and produced a Speaker (Mike Johnson) more aligned with MAGA maximalism. Whether Gaetz calculated the deregulatory benefit of a dysfunctional House or simply acted on personal grievance, the outcome was the same: a Congress that cannot function cannot regulate. The donor class's deregulation interests were served without requiring a single corporate donation to Gaetz.
+
+The House Ethics Committee found "substantial evidence" that Gaetz engaged in sexual misconduct with a 17-year-old, paid women for sex, used illegal drugs, accepted improper gifts, and obstructed the investigation. The DOJ investigated from 2021 and declined to bring charges. Gaetz resigned before the Ethics report was released, then was nominated by Trump for Attorney General. He withdrew when Senate Republicans signaled they would not confirm him. Ordinary Americans accused of paying for sex with a 17-year-old do not typically avoid charges through prosecutorial discretion. The $29.6 million family fortune functions as a legal shield as reliably as it functions as a political launch pad.
 
 ---
 

@@ -1,9 +1,9 @@
 ---
 title: "Chip Roy Master Profile"
 type: politician
-content-readiness: draft
+content-readiness: ready
 central-thesis: "Roy is the House Republican who most consistently applies fiscal conservatism against his own party's spending — but the consistency stops at revenue. He opposes government spending programs, bipartisan omnibus bills, and even Trump-backed reconci..."
-last-updated: 2026-04-10
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 party: "Republican"
@@ -140,6 +140,16 @@ The debt ceiling fight was a preview of the McCarthy ouster in October 2023. The
 Roy initially voted against the One Big Beautiful Bill Act in the House Budget Committee, joining all Democrats in a 21-16 defeat of the bill. His objection was consistent with his brand: the reconciliation package extended and expanded Trump tax cuts while adding to the deficit, without sufficient spending offsets. Roy demanded deeper Medicaid cuts and earlier implementation of work requirements.
 
 Roy and three other fiscal conservatives ultimately changed their votes to "present" (allowing the bill to advance) after leadership agreed to accelerate Medicaid work requirements from 2029 to an earlier date and reduce clean energy subsidies. The concession illustrated Roy's actual leverage: he could extract spending cuts at the margins, but couldn't block the overall architecture of tax cuts financed by deficit spending. The OBBBA ultimately added $5 trillion to the debt ceiling while cutting Medicaid by an estimated $1.02 trillion — a net deficit increase that contradicted Roy's stated fiscal principles.
+
+---
+
+## Class Analysis
+
+Chip Roy's donor class is the conservative ideological infrastructure. The House Freedom Fund ($474,821 career) and Club for Growth ($320,209 career) are his top two contributors by far. Securities and investment donors gave $721,482 over his career. Oil and gas contributed $671,788. Real estate added $581,136. Construction gave $485,574. PAC money accounts for only 6.21% of his total, among the lowest in the Republican conference, but the ideological money that replaces it purchases the same product: spending cuts on programs that serve working-class Americans, tax cuts that serve wealthy Americans.
+
+Roy's funding model is distinctive but the class outcome is identical. His career total of $12.08 million comes disproportionately from ideological conservative infrastructure and wealthy individuals rather than traditional industry PACs. Small-dollar donors contributed 29% of his 2024 cycle funding, high for a safe-seat incumbent. But the Club for Growth's core mission is to elect politicians who shrink government programs and cut taxes for the wealthy. Roy delivers on both, consistently. His willingness to vote against Republican leadership on spending grounds makes him more valuable to Club for Growth, not less, because it maintains the credibility of the anti-spending brand.
+
+The class math is straightforward. Roy supports making the 2017 tax cuts permanent, which CBO scores as adding $4.6 trillion to deficits over a decade. He demands spending cuts to offset. The $1.02 trillion in Medicaid cuts from the OBBBA falls far short of the revenue loss but falls entirely on working-class Americans who depend on Medicaid. Near-zero labor money ($3,000 career, less than a single individual contribution) is the clearest signal of class alignment. The Club for Growth and House Freedom Fund spent $1.7 million in independent expenditures supporting Roy. House Majority PAC and DCCC spent $8.7 million opposing him. The battle lines are drawn in dollars: the conservative donor class invests in Roy's anti-spending brand, and Roy's anti-spending brand delivers tax architecture that benefits the conservative donor class.
 
 ---
 

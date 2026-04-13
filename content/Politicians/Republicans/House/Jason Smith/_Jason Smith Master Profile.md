@@ -1,9 +1,9 @@
 ---
 title: "Jason Smith"
 type: politician
-content-readiness: draft
+content-readiness: ready
 central-thesis: "Smith is the rural poor kid who writes tax policy for the rich. His Ways & Means gavel gives him authorship over every major tax provision in America — and the industries that benefit from those provisions fund his campaign at rates that exploded ..."
-last-updated: 2026-04-12
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 party: "Republican"
@@ -115,6 +115,16 @@ Smith is the rural poor kid who writes tax policy for the rich. His Ways & Means
 | July 2025 | 1031 exchanges preserved | $6B/year revenue cost | — |
 | July 2025 | Bonus depreciation made permanent | Benefits capital-intensive corporations | Tax Foundation |
 | July 2025 | Opportunity Zones made permanent with rural enhancements | 50% of prior benefits to 1% of zones | ProPublica |
+
+---
+
+## Class Analysis
+
+Jason Smith's donor class bought the Ways and Means gavel. His PAC donations went from $16,000 in Q1 2021 to $618,000 in Q1 2023, a 38x increase that maps precisely to his ascension to chair of the most powerful tax-writing body in Congress. Finance, insurance, real estate, pharmaceutical, energy, and defense PACs all surged simultaneously. Every industry under Ways and Means jurisdiction started paying the moment Smith picked up the gavel. The donors are not funding Jason Smith the rural Missouri farmer. They are funding access to the man who writes the tax code.
+
+Smith's signature achievement, making the Section 199A pass-through deduction permanent in the One Big Beautiful Bill, costs $730 billion over ten years. ProPublica's analysis of secret IRS files found nearly 60% of the deduction's benefits flow to the top 1% of earners. Smith frames this as relief for "26 million small businesses." The word "small" does the populist work while the policy delivers for pass-through entities with $1 million or more in annual income. His SALT cap increase from $10,000 to $40,000 primarily benefits high-income property owners in expensive-housing states. Carried interest was preserved for hedge fund managers. 1031 exchanges were preserved for real estate investors, a category that includes Smith himself, a former real estate agent.
+
+Smith's district is the poorest in Missouri: median household income approximately $56,000, poverty rate 15.5%, 86.9% rural, two-hour stretches without a hospital. The constituency that elected him to the Ways and Means chairmanship is among the least likely to benefit from the tax provisions he writes. His health insurance PAC contributions alone exceed $30,000 from seven health insurance PACs while Medicare and ACA policy flow through his committee. The man from the trailer writes tax law for the penthouse. The $730 billion cost is the price tag on the gap between his biography and his beneficiaries.
 
 ---
 

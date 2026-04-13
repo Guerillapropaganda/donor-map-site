@@ -2,9 +2,9 @@
 title: "Kevin McCarthy Master Profile"
 type: politician
 bioguide-id: "M001165"
-content-readiness: draft
+content-readiness: ready
 central-thesis: "Kevin McCarthy is the fossil fuel industry's Speaker. His entire 16-year House career was funded by oil and gas money — $2.1 million lifetime, concentrated heavily after he became Leadership. As Speaker, he embedded $430 million in fossil fuel giv..."
-last-updated: 2026-04-08
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 party: "Republican"
@@ -158,6 +158,16 @@ McCarthy introduced H.R. 4127 in July 2023 as a standalone bill to comprehensive
 > **Same session:** Lower Energy Costs Act (July 2023) — near-verbatim matches between bill language and API model legislation. McCarthy didn't pretend to author it. He was the conduit.
 >
 > **Career arc:** $2.1M lifetime from oil & gas → every major policy action as Speaker served fossil fuel interests → ousted when donor service couldn't satisfy populist base → immediately becomes energy sector lobbyist. The function never changed; only the title did.
+
+---
+
+## Class Analysis
+
+Kevin McCarthy received $2.1 million from oil and gas donors over his career, the highest single recipient in the entire House of Representatives. In 2022 alone, he took $616,000 from the energy sector, more than any other House member that cycle. His Bakersfield district is oil country: Kern County produces 75% of California's crude oil. Chevron, Occidental Petroleum, and Marathon Petroleum all operate in his district and all funded his campaigns. The relationship between McCarthy and the fossil fuel industry was not subtle. It was the defining fact of his political career.
+
+As Speaker, McCarthy converted that relationship into policy with maximum efficiency. The May 2023 debt ceiling deal embedded $430 million in fossil fuel giveaways: LNG export expansion ($150 million+ value), the Mountain Valley Pipeline approval ($75 million+), revised federal land leasing for oil and gas ($100 million+), and constrained EPA authority to deny fossil fuel permits ($75 million+). Oil industry representatives participated directly in the debt ceiling negotiations. His standalone Lower Energy Costs Act (H.R. 4127) was a near-verbatim match with American Petroleum Institute model legislation. McCarthy did not pretend to author it. He was the conduit through which it moved.
+
+McCarthy also raised $350 million+ through the Congressional Leadership Fund and other leadership PACs, distributing corporate money to Republican candidates nationwide. He was the donor class's favorite fundraiser. But when the MAGA populist base and the corporate donor class diverged, McCarthy could not serve both. Matt Gaetz filed the motion to vacate on October 3, 2023. McCarthy was ousted after 269 days as Speaker. He resigned from Congress shortly after and became an energy sector lobbyist, his natural role. The career arc is clean: $2.1 million from oil and gas, $430 million in fossil fuel giveaways as Speaker, ousted when he could no longer control the populist base the donors needed managed, and then straight to lobbying for the same industry that funded his entire career.
 
 ---
 

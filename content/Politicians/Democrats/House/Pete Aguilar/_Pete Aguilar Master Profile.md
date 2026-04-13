@@ -1,7 +1,7 @@
 ---
 title: "Pete Aguilar"
 type: politician
-content-readiness: draft
+content-readiness: ready
 central-thesis: "Pete Aguilar represents the Democratic Party's leadership pipeline: moderate enough for donors, diverse enough for the base, loyal enough for leadership. His rise from a Southern California inland district to the third-ranking House Democrat illus..."
 last-updated: 2026-04-13
 source-tier: 1
@@ -123,6 +123,16 @@ His previous subcommittee assignments — Defense, Transportation/HUD, and Homel
 Aguilar's role on the January 6th Select Committee served a dual function: it established him as a "defender of democracy" brand within the party's national messaging, and it dramatically elevated his fundraising profile. The committee's 800-page report and nationally televised hearings transformed Aguilar from a relatively obscure California moderate into a national Democratic figure.
 
 The January 6th work created no donor conflicts because defending democracy against Trump is the one position that unites every wing of the Democratic donor class — from grassroots progressives to Wall Street moderates. It was the perfect leadership audition: high visibility, zero donor risk, maximum fundraising upside.
+
+---
+
+## Class Analysis
+
+Pete Aguilar's donor class is AIPAC. His career AIPAC contributions total $722,698, with $620,903 in the 2024 cycle alone, making the Israel lobby his single largest funding source by a wide margin. Pro-Israel sector total in the 2024 cycle was $678,468, his largest industry category. His YES vote on H.R.8034, the $14.3 billion Israel Security Supplemental Appropriations Act, is the direct policy return. As Caucus Chair, Aguilar's pro-Israel floor vote also functioned as party discipline: his institutional position and his donor base pointed in the same direction. Zero co-sponsorships of Israel accountability legislation over a six-term career. No vote against any AIPAC-backed measure.
+
+The defense contractor pipeline follows the same logic. General Atomics, manufacturer of the MQ-1 Predator and MQ-9 Reaper drone platforms, gave $81,605 career and $44,600 in the 2024 cycle. Gentex Corporation added $79,303 career. The Appropriations Committee seat generates the relationship, the relationship generates the donations, and the donations confirm the relationship. Wells Fargo gave $51,300 in 2024. Real estate sector contributed $385,091. Credit Union National Association is his top outside spender at $346,842 in independent expenditures. Aguilar is the designated number one House recipient of credit union industry contributions in the 2024 cycle.
+
+Aguilar's district is ground zero for the logistics economy's human cost. San Bernardino County has median household income of approximately $65,000, well below the California average. An estimated 86% of logistics workers in Riverside and San Bernardino counties earn below a living wage. The Inland Empire contains over 4,000 warehouses generating 600,000 daily truck trips. Aguilar's federal housing earmarks ($24 million Redlands affordable housing, $17 million community projects FY2024) are genuine investments. But $678,000 in pro-Israel money, $443,000 in securities and investment, and $385,000 in real estate, with zero structural reforms in any area where those donors have a material interest, is the class equation. The Caucus Chair position requires $30 million in DCCC fundraising across 200 national campaign events. That fundraising requirement is the structural mechanism that ensures Aguilar's moderation is not a personal choice but a job requirement.
 
 ---
 

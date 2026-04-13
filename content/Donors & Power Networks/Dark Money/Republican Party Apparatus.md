@@ -31,6 +31,16 @@ The Trump era transformed the Republican Party apparatus from an institution tha
 
 ---
 
+## Class Analysis
+
+The Republican Party apparatus is the most complete case of institutional capture by a single political figure in modern American politics. The RNC, NRSC, NRCC, and allied organizations collectively raise $2 to $3 billion per cycle. Under Trump-allied leadership, that fundraising capacity was redirected from party-building to Trump-specific operations: legal defense funding, loyalty-tested staffing, and small-dollar fundraising that flows through Trump-controlled channels. The party apparatus did not collapse. It was repurposed from a coalition-serving institution into a single-patron organization.
+
+The donor-class displacement is the structural story. The traditional Republican donor coalition (Koch network, Chamber of Commerce, Wall Street) controlled the party through the RNC for decades. Trump's small-dollar fundraising base and allied mega-donors (Miriam Adelson, Elon Musk, Stephen Schwarzman) partially displaced that old guard. The result is a party apparatus where the institutional infrastructure serves one person's political and legal needs rather than the broader Republican coalition's electoral interests. State parties and down-ballot candidates report that RNC resources are redirected toward Trump priorities at the expense of local races.
+
+The class function of the Republican Party apparatus under Trump is to convert populist energy into policy outcomes that serve capital. The small-dollar donors who fund Trump's operation through $20 and $50 contributions believe they are funding an anti-establishment movement. The policy outputs, including the 2017 corporate tax cut from 35% to 21%, financial deregulation, and labor board appointments hostile to organizing, serve the mega-donors and corporate interests that the populist base claims to oppose. The party apparatus is the mechanism that converts populist fundraising into donor-class governance.
+
+---
+
 ### Sources
 
 - [OpenSecrets: Republican Party fundraising](https://www.opensecrets.org/parties/) (Tier 1)

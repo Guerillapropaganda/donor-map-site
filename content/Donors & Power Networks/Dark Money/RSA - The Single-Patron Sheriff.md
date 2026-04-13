@@ -26,6 +26,16 @@ The single-patron sheriff pattern appears across multiple vault profiles: Chad B
 
 ---
 
+## Class Analysis
+
+The single-patron sheriff model is the most cost-effective form of political capture in America, and that efficiency is the class analysis. A sheriff's race in a medium-sized county costs $100,000 to $500,000 to win. That price tag installs a law enforcement official with direct operational authority over policing, immigration enforcement (287(g) agreements), jail conditions, eviction enforcement, and cooperation with federal agencies. No federal campaign contribution produces comparable return on investment because sheriffs do not just vote on policy. They implement it through daily enforcement decisions affecting millions of residents.
+
+The pattern recurs across the vault. Chad Bianco in Riverside County was funded by anti-vaccine and militia-adjacent donors. George Soros funded progressive district attorney campaigns in multiple cities. Law enforcement union PACs fund incumbent sheriffs who protect overtime structures and oppose accountability measures. The common thread is not ideology but structure: local elections receive minimal media scrutiny, minimal voter turnout, and minimal donor competition. A single patron with $200,000 can dominate a race that receives less public attention than a city council contest.
+
+The single-patron model reveals the inverse relationship between political cost and political power in American democracy. Federal races attract billions in spending because they are visible. Local law enforcement races attract thousands because they are invisible. But the sheriff who controls a county jail, decides which warrants to serve, and chooses whether to cooperate with ICE exercises more direct power over residents' daily lives than any single member of Congress. The cheapest elections produce the most consequential officials, and that is exactly why single-patron funding works.
+
+---
+
 ### Sources
 
 - [FPPC: California sheriff campaign finance](https://cal-access.sos.ca.gov/Campaign/Committees/list.aspx?page=1) (Tier 1)

@@ -1,9 +1,9 @@
 ---
 title: "Martin Heinrich Master Profile"
 type: politician
-content-readiness: draft
+content-readiness: ready
 central-thesis: "Heinrich is the nuclear weapons complex's senator — an engineer who started his career inside the weapons labs, built his committee portfolio around the agencies that fund them, and has doubled their budgets. New Mexico's economy is structurally d..."
-last-updated: 2026-04-08
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -99,6 +99,16 @@ Heinrich is the nuclear weapons complex's senator — an engineer who started hi
 
 > [!money] The Lab Economy Pipeline
 > The national labs are to New Mexico what the auto industry is to Michigan or defense contractors are to New Hampshire — the economic foundation that makes constituency service and donor service structurally identical. Los Alamos and Sandia together employ tens of thousands of New Mexicans and generate billions in economic activity. Heinrich's legislative achievement — doubling their budgets — is simultaneously progressive constituent service (good jobs in a low-income state) and donor-class service (expanding revenue for Lockheed/Triad and Honeywell/NTESS, the corporate operators who manage the labs under federal contract). Every dollar Heinrich appropriates for the labs flows through these operators. The constituency interest and the contractor interest are the same interest, and the senator who funds both started his career inside the system he now oversees.
+
+---
+
+## Class Analysis
+
+Martin Heinrich started his career inside the nuclear weapons complex, working as a contractor on directed energy weapons at Phillips Laboratory (now Air Force Research Laboratory) at Kirtland Air Force Base. He then built a political career that led to the Senate committees that fund the weapons labs he used to work in. His Energy and Natural Resources Committee oversees DOE nuclear programs. His Armed Services seat authorizes the NDAA that funds the National Nuclear Security Administration at $26 billion. His Intelligence Committee seat covers classified weapons programs. Every committee assignment touches the national laboratories that dominate New Mexico's economy.
+
+The numbers tell the story. Los Alamos National Laboratory operates on a $4.2 billion annual budget with 17,000+ employees. Sandia National Laboratories runs on $4.6 billion, operated by Honeywell subsidiary NTESS. Heinrich has doubled the total budgets for both labs during his time in Congress. The FY2026 NDAA alone authorized $1.7 billion for Los Alamos R&D, $40 million for Sandia's MESA photolithography facility, and $52.2 million for survivability testing. Every dollar Heinrich appropriates for the labs flows through the corporate operators: Lockheed Martin's Triad National Security LLC runs Los Alamos, and Honeywell's NTESS runs Sandia. Employees of these contractors contribute to Heinrich's campaigns. The constituency interest and the contractor interest are structurally identical.
+
+Heinrich's clean energy and AI work provide the progressive credential. He co-founded the Senate AI Caucus, advocates for solar and renewable energy, and pushed NSA surveillance reform. But the clean energy portfolio never competes with the $26 billion NNSA budget that dominates his legislative record. The renewable energy programs he champions are dwarfed by the nuclear weapons spending he secures. Progressive voters hear clean energy and civil liberties. The weapons complex hears doubled budgets and $1.7 billion in annual R&D. Both audiences are served by the same senator, and only one of them accounts for the bulk of the money.
 
 ---
 

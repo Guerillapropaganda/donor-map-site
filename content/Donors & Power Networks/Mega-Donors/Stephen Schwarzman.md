@@ -1,8 +1,8 @@
 ---
 title: "Stephen Schwarzman"
 type: donor
-content-readiness: draft
-last-updated: 2026-04-11
+content-readiness: ready
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 sector: "Mega-Donors"
@@ -185,6 +185,16 @@ The deeper pattern: Schwarzman positions himself as a statesman (Yale scholar, m
 | 2022 | Fed rate hikes begin; Schwarzman opposes Trump; Schwarzman opposes Trump; private equity fundraising challenged | Political distance taken | Markets shift; Schwarzman positions as "reasonable" Republican |
 | 2024 | Trump returns to frontrunner status; Schwarzman reverses, commits $40M+ to Trump causes | $40M+ invested | Trump wins; Schwarzman positioned for regulatory favor in second term |
 | 2025 | [[MAGA Inc]] contributions ($5M documented); regulatory environment shifts toward private equity consolidation | $5M + expected regulatory wins | Deregulation begins; SEC private equity disclosure rule abandoned; Bill Pulte appointed FHFA Director (PE insider) |
+
+---
+
+## Class Analysis
+
+Stephen Schwarzman is the purest case of transactional mega-donor politics in the vault. His $187 million in lifetime Republican donations and $40 million 2024 cycle spending protect a single policy outcome: the carried interest tax loophole, worth an estimated $15 billion annually to the private equity industry. Schwarzman personally earns $600+ million per year through carried interest distributions taxed at 20% instead of the 37% ordinary income rate. His political investment is a direct purchase of tax policy.
+
+The "Reagan Republican" branding is a fiction exposed by the 2022-2024 reversal. Schwarzman publicly broke with Donald Trump after January 6, calling for "new leadership." When Trump's 2024 nomination became certain, Schwarzman reversed completely with no public explanation and became a top donor. The pattern is algorithmic: donate to whoever controls the presidency and will protect Blackstone's regulatory environment. Ideology is the wrapper. Capital protection is the product.
+
+The philanthropic positioning is the second layer of the operation. The Schwarzman Scholars program ($388 million), MIT computing college ($350 million), and Metropolitan Museum donations ($500+ million) build the "statesman" brand that provides social cover for political behavior that reduces to wealth extraction. Blackstone's 84.85% revolving-door lobbyist rate and its $14.1 million anti-rent-control spending in California reveal what the philanthropy obscures: Schwarzman's political operation exists to protect leveraged buyout economics, block financial regulation, and prevent tenant protections that would reduce Blackstone's real estate returns.
 
 ---
 

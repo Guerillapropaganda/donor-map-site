@@ -1,9 +1,9 @@
 ---
 title: Kyrsten Sinema Master Profile
 type: politician
-content-readiness: draft
+content-readiness: ready
 central-thesis: "Kyrsten Sinema is the defining illustration of donor-class capture functioning at maximum efficiency. The carried interest kill alone — her decision to block a tax provision that would have cost the private equity industry $6.5–14 billion per deca..."
-last-updated: 2026-04-11
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 party: Independent
@@ -133,6 +133,16 @@ Sinema and [[_Joe Manchin Master Profile|Joe Manchin]] operated as a two-person 
 > **⚠️ 6-month flag:** Private equity donations surge (2022) → $35B corporate minimum tax exemption for PE sector (August 2022). Two separate policy wins in the same bill, both serving the same donor cohort, within 6 months of peak donations from that cohort.
 >
 > **The 90-day revolving door:** Left Senate (January 3, 2025) → Coinbase advisory council (January 29, 2025, 26 days later) → Hogan Lovells Senior Advisor (March 2025, ~90 days later). The industries Sinema protected in the Senate hired her within 90 days of her departure. The revolving door isn't metaphorical — it's a documented 90-day sequence with timestamps.
+
+---
+
+## Class Analysis
+
+Kyrsten Sinema ran for Senate in 2018 as a bisexual social worker from Arizona, funded by small-dollar donors and grassroots enthusiasm. By 2022, nearly $1 million of her fundraising came from the securities and investment industry in a single year. Blackstone gave $287,000+. Carlyle gave $196,000+. Apollo gave $145,000+. In August 2022, Sinema forced the removal of the carried interest loophole closure from the Inflation Reduction Act, preserving a $6.5 to $14 billion per decade tax advantage for private equity executives. The ratio of investment to return, approximately 6,500:1 to 14,000:1, makes this the most efficiently documented donor capture in modern Senate history.
+
+The class trajectory is total. Sinema's career total from securities and investment donors exceeded $3.5 million. She received roughly $2 million in corporate PAC money during 2021-2022. She voted against the $15 minimum wage with a theatrical thumbs-down on the Senate floor. She blocked the Freedom to Vote Act and the John Lewis Voting Rights Act by refusing filibuster reform. She left the Democratic Party in December 2022, registering as Independent. The Arizona Democratic Party censured her in January 2022. Every position shift moved her closer to the donor class that was funding her and further from the voters who elected her.
+
+The revolving door completed the exchange. Sinema left the Senate on January 3, 2025. Twenty-six days later, she joined the Coinbase Global Advisory Council. By March 2025, she was Senior Advisor at Hogan Lovells, working on AI, crypto, and regulatory affairs. She founded the AI Infrastructure Coalition backed by Microsoft, Meta, ExxonMobil, and NextEra. The industries Sinema protected in the Senate hired her within 90 days of her departure. The $10.6 million war chest she left behind was irrelevant. She did not need to run again. The donor class had already purchased what it needed.
 
 ---
 
