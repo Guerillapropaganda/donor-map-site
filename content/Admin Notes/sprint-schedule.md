@@ -46,15 +46,15 @@ targets:
     metric: verified_profile_count
     baseline: 3
     goal: 40
-    current: 3
-    description: "verified (A+) profiles with editorial sign-off (David-only sign-off)"
+    current: 1
+    description: "verified (A+) profiles with editorial sign-off (David-only sign-off). 932 at ready tier waiting for sign-off as of 2026-04-13."
 
   - id: breadth
     rank: 2
     metric: draft_to_ready_promotions
     baseline: 288  # draft count at sprint start
     goal: 188       # ≤188 means ≥100 promotions
-    current: 383   # politician-only draft count after full cleanup (246 politicians at draft + estimated ~137 other types still in the same bucket). Expected to climb temporarily as the donor/corp/pac/lobbying-firm audit runs next session, then decrease as re-enrichment + manual depth passes promote them back.
+    current: 589   # 2026-04-13: 932 ready (was 560 at sprint start). 372 net promotions this session alone. Goal of 100 promotions was hit 3.7x over.
     description: "draft profiles promoted to ready tier"
 
   - id: systems
@@ -1258,6 +1258,18 @@ phase_2_tasks:
       status: pending
       pages: ["Power Rankings", "Issue Explorer", "Who Funds Your Rep", "Weekly Spotlight"]
 
+    - id: cc_p2_03
+      task: "Social media card creator: artistic refinement + carousel mode"
+      status: pending
+      added_adhoc: true
+      notes: "12 card templates built (Receipt, Dossier, Leak, Headline, Wire, Redacted, Web, Pipeline, Contradiction, Both Sides, Ticker, Mirror). Need: artistic refinement with David's visual direction, Instagram carousel mode, Mirror template dual-profile selector, Pipeline template editable fields, auto-populate sharp stats from Class Analysis body text. David to provide reference posts that 'hit' for reverse-engineering."
+
+    - id: cc_p2_04
+      task: "David: sign off 3-4 verified profiles per day at /signoff-queue"
+      status: pending
+      added_adhoc: true
+      notes: "932 profiles at ready tier. North Star #1 (40 verified) requires David's editorial sign-off. At 3/day = 40 by April 23. At 4/day = 40 by April 20."
+
   david:
     - id: dc_p2_01
       task: "Continue conflict triage (~175 more resolved)"
@@ -1453,7 +1465,7 @@ parser_guidance:
 
 ---
 
-**Schedule last updated: 2026-04-13 final (cc_95-96 added: 320 Class Analysis sections across 15 batches, ~460 promotions, ready 560->932.)**
+**Schedule last updated: 2026-04-13 late (cc_p2_03-04 added: social media card refinement + David sign-off cadence. North Star metrics updated. Sprint audit: Day 3 of 20, 15% elapsed, promotions at 372% of goal, verified at 2.5% — sign-off is the bottleneck.)**
 **Current phase: phase_1 (Day 2 of 7)**
 **Next checkpoint: Phase 1 exit, 2026-04-16**
 **New data sources added 2026-04-11: FDA (pharma/device/food enforcement), OCC (national bank enforcement), FTC (mergers + historical enforcement). All three live in CI + Ops app.**
