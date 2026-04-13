@@ -345,12 +345,31 @@ async function processYear(year, session) {
 
     await rateLimiter.wait();
     try {
-      const reportRes = await httpRequest(reportUrl, {
-        headers: {
-          'Cookie': session.cookies,
-          'Referer': 'https://efdsearch.senate.gov/search/',
-        },
+      // Fetch report page - must NOT follow redirects (302 = session issue)
+      const reportRes = await new Promise((resolve, reject) => {
+        const parsed = new URL(reportUrl);
+        https.get({
+          hostname: parsed.hostname, path: parsed.pathname + parsed.search,
+          headers: {
+            'User-Agent': 'TheDonorMap/1.0 (open-source political research; thedonormap.org)',
+            'Cookie': session.cookies,
+            'Referer': 'https://efdsearch.senate.gov/search/',
+          },
+        }, (res) => {
+          if (res.statusCode === 302) {
+            res.resume();
+            return resolve({ data: '', status: 302 });
+          }
+          const chunks = [];
+          res.on('data', c => chunks.push(c));
+          res.on('end', () => resolve({ data: Buffer.concat(chunks).toString('utf-8'), status: res.statusCode }));
+        }).on('error', reject);
       });
+
+      if (reportRes.status === 302) {
+        failed++;
+        continue;
+      }
 
       const transactions = parseSenateReportHtml(reportRes.data);
 
