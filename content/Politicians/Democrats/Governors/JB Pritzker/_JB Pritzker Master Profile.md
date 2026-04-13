@@ -61,6 +61,16 @@ JB Pritzker. Governor of Illinois (2019–present). Heir to the Pritzker family 
 
 ---
 
+## Class Analysis
+
+JB Pritzker inverts the standard donor model. He is not a politician funded by the donor class. He is the donor class running for office directly. The $323 million he spent on two governor's races ($171M in 2018, $152M in 2022) eliminates the intermediary between wealth and political power. No bundlers, no super PAC negotiations, no industry favors owed. The billionaire writes himself the check. The result is a politician who answers to no donor except himself, which sounds like independence until you realize the donor is a $3.6 billion fortune built on the Hyatt Hotels empire.
+
+The labor contradiction is the class analysis in miniature. Pritzker calls himself "the most pro-labor, pro-worker governor in the nation" and signed legislation banning anti-union captive audience meetings. His family's Hyatt Hotels classifies housekeepers under conditions that produce twice the injury rate of the lowest-injury hotel company. Hyatt fired approximately 100 Boston housekeepers in 2009 and replaced them with minimum-wage subcontractors. His own entertainment cruise company warned employees against unionizing. The governor signs the labor laws. The family fights the unions those laws protect. Both positions are held by the same person, and the $3.6 billion fortune makes the contradiction sustainable indefinitely.
+
+The tax avoidance architecture completes the picture. Pritzker championed progressive taxation as his signature policy, spending $56 million of personal funds to pass a graduated income tax amendment. It failed. Meanwhile, Pritzker held 11 Bahamas trust accounts (2008-2011), a $30 million offshore hedge fund flagged in the Paradise Papers, and an estimated $47 million in avoided taxes. He removed five toilets from a $3.7 million Chicago mansion to have it declared uninhabitable, saving $330K in property taxes. The New York Times reported the Pritzker family as "pioneers in using tax loopholes." The billionaire who campaigns on taxing the wealthy personally avoids taxation at industrial scale. The progressive record is real. The fortune that funds it is sheltered from the policies it produces. That is the operating model of liberal billionaire politics.
+
+---
+
 ## Analytical Patterns
 
 **The Genuine Win + Structural Limit** — Pritzker's progressive legislative record (assault weapons ban, $15 minimum wage, abortion protections, cannabis legalization, SAFE-T Act bail reform) represents genuine wins that serve working-class constituencies and progressive base. These are not donor-class compatible policies that stop short — they are structural wins that threaten specific donor interests (gun manufacturers, cannabis competitors, real estate interests in justice system reform). Pritzker was willing to enact them. However, the structural limit is his personal wealth: $323M self-funded campaigns purchase freedom from specific donor relationships, but they create a different problem: a $3.6B fortune governs without donor accountability or democratic accountability. The money is the boss. The Bahamas trusts and the toilet removal demonstrate that the billionaire who signs progressive laws personally avoids the taxation those laws impose.
