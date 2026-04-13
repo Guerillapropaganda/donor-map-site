@@ -54,7 +54,7 @@ export function CardLeak({ profile, headline, subtext, width, height }: CardLeak
         opacity: 0.3,
       }} />
 
-      {/* Classification stamp */}
+      {/* Corner stamp */}
       <div style={{
         position: "absolute",
         top: 20 * scale,
@@ -68,7 +68,7 @@ export function CardLeak({ profile, headline, subtext, width, height }: CardLeak
         transform: "rotate(3deg)",
         opacity: 0.8,
       }}>
-        DECLASSIFIED
+        PUBLIC RECORD
       </div>
 
       {/* Header */}
