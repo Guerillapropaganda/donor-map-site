@@ -1,8 +1,8 @@
 ---
 title: "George Soros"
 type: donor
-content-readiness: draft
-last-updated: 2026-04-12
+content-readiness: ready
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 sector: "Mega-Donors"
@@ -135,6 +135,14 @@ A secondary contradiction emerged sharply during the 2022-2024 period: Soros's [
 | 2025 | Son Alex Soros assumes leadership role in political operations; generational wealth transfer begins | Institutional transition | Establishes continuity beyond [[George Soros]]'s lifetime |
 
 ---
+
+## Class Analysis
+
+George Soros is the liberal billionaire class's most visible member, and the contradictions of his position define the limits of billionaire-funded progressivism. Soros built his fortune through currency speculation, most famously profiting $1 billion in a single day by shorting the British pound. He then spent decades deploying that speculative wealth to fund a "liberal democracy" infrastructure that is structurally dependent on the very financial system that created his fortune. The Open Society Foundations fund organizations criticizing billionaire influence in politics. Soros simultaneously deploys $15M+ annually through Senate Majority PAC and House Majority PAC, 501(c)(4) dark money vehicles that refuse to disclose donors. The institutional cognitive dissonance is not a bug. It is the operating model.
+
+The class function of Soros's spending is defensive, not transformative. His $127M+ in lifetime Democratic giving has not produced Medicare for All, a wealth tax, Wall Street structural reform, or abolition of the carried interest loophole. It has produced a Democratic Party infrastructure that is nominally progressive while materially dependent on billionaire funding. Soros-backed prosecutors implemented bail reform and reduced incarceration in specific jurisdictions, but the model stops precisely where class redistribution begins. Soros funds justice system reform. He does not fund the wealth redistribution that would address the structural poverty driving mass incarceration. The boundary is not accidental. It marks the line where philanthropy would become self-taxation.
+
+The 2025 strategy shift from federal politics to state judicial elections reveals the logic clearly. Soros is partially abandoning federal spending (acknowledging donor saturation and diminishing returns) to focus on capturing state courts in swing states. This is billionaire institutional capture repackaged as democracy defense. When conservatives use identical mechanisms to reshape state courts, Democrats call it judicial extremism. When Soros does it, it is called defending democratic values. The mechanism is the same. The framing changes based on who writes the check. Alex Soros's assumption of leadership ensures continuity beyond George Soros's lifetime, transforming one man's political spending into a permanent class institution.
 
 ### Sources
 

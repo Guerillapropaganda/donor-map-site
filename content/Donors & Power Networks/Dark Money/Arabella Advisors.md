@@ -1,8 +1,8 @@
 ---
 title: "Arabella Advisors"
 type: donor
-content-readiness: draft
-last-updated: 2026-04-12
+content-readiness: ready
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 sector: "Dark Money"
@@ -166,6 +166,14 @@ The point: some funder identities have leaked through investigative journalism, 
 - **Party coordination** — Sixteen Thirty's grants align with DNC/DCCC messaging in ways that blur independence
 
 > [!money] The core contradiction: Democrats built their political identity on Citizens United opposition, then institutionalized Citizens United as party infrastructure. Arabella Advisors is what that institutionalization looks like operationally.
+
+## Class Analysis
+
+Arabella Advisors is the operational proof that the Democratic donor class does not oppose dark money. It is dark money. The firm manages seven interconnected 501(c)(4) nonprofits that deployed $1.7B+ while maintaining permanent donor anonymity for wealthy Democrats who want political power without public accountability. Eric Kessler built the architecture. George Soros ($125M+), Hansjoerg Wyss ($100M+), and hundreds of anonymous mega-donors fund it. The Democratic Party's official platform calls for overturning Citizens United. Arabella Advisors is what institutionalized Citizens United looks like when Democrats do it.
+
+The for-profit structure is the class tell. Leonard Leo operates through nonprofits. Kessler operates through a for-profit consulting firm that extracted $220M+ in management fees from a nonprofit ecosystem he designed. This is private capital accumulation through political infrastructure management. Kessler takes a cut of every dollar that flows through Arabella's network, which means he has a financial incentive to expand dark money operations, not reduce them. The architect of Democratic dark money profits personally from the system he built. His low public profile is deliberate. There are no TED talks, no op-eds. Visibility would make the class arrangement legible.
+
+The pop-up organization model reveals the deeper function. Arabella creates temporary advocacy groups with grassroots-sounding names (Piedmont Rising, Advancing Arizona, Rocky Mountain Values), deploys them for a single election cycle, then dissolves them. Voters see what appears to be organic local activism. What they are actually seeing is a billionaire-funded operation managed by a Washington consulting firm, routed through anonymous 501(c)(4) structures, and designed to disappear before anyone can trace the money. The Chorus influencer scandal confirmed the pattern: Sixteen Thirty Fund paid social media creators to promote Democratic messaging under contracts that prohibited disclosing payment. When Congress investigated, the program was shuttered and a new entity called Creator Collective appeared. The mechanism survives. The name changes. This is the Arabella model applied to every layer of Democratic political spending.
 
 ### Sources
 

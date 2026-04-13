@@ -1,8 +1,8 @@
 ---
 title: "Future Forward USA Action"
 type: pac
-content-readiness: draft
-last-updated: 2026-04-12
+content-readiness: ready
+last-updated: 2026-04-13
 source-tier: null
 parent: null
 sector: "Super PACs"
@@ -91,6 +91,14 @@ The [[Sixteen Thirty Fund]] network ([[Arabella Advisors|Arabella Advisors]]) op
 This isn't whataboutism. It's the donor-first thesis applied consistently: both parties' donor classes use identical dark money structures to convert wealth into political power without accountability. The Republican donor class does it through [[DonorsTrust|DonorsTrust]], [[Marble Freedom Trust|Marble Freedom Trust]], and AFP. The Democratic donor class does it through Future Forward's (c)(4), [[Sixteen Thirty Fund]], and [[Arabella Advisors|Arabella Advisors]]. The voters on both sides are told the other party is the problem.
 
 [[Dustin Moskovitz]]'s role is particularly illustrative. A Facebook co-founder worth $18 billion, Moskovitz channels $51M+ through Future Forward while also funding "effective altruism" organizations that advocate for AI governance frameworks — frameworks that would entrench the competitive advantages of existing AI companies in which his Asana and Open Philanthropy have stakes. The philanthropy and the political spending serve the same class interest.
+
+## Class Analysis
+
+Future Forward USA Action is the Silicon Valley donor class's primary vehicle for converting tech wealth into federal political power. Dustin Moskovitz ($51M+), Michael Bloomberg ($20M+), and Reid Hoffman ($15M+) do not fund Future Forward because they want campaign finance reform. They fund it because it produces a governing coalition that protects Big Tech from antitrust enforcement, preserves the H-1B visa pipeline, and shapes AI regulation to entrench incumbent firms. The PAC's disclosed super PAC arm is large. The undisclosed 501(c)(4) arm, which spent $146M in the 2020 cycle alone with zero donor transparency, is where the real class power operates.
+
+The structural hypocrisy is total. The Democratic Party's official platform calls for overturning Citizens United and eliminating dark money. Future Forward's 501(c)(4) is one of the largest dark money operations in American politics. Democratic voters who believe their party opposes anonymous political spending are funding a party infrastructure that depends on it. Moskovitz channels $51M+ through Future Forward while simultaneously funding "effective altruism" organizations that advocate for AI governance frameworks designed to protect companies in which his Asana and Open Philanthropy hold stakes. The philanthropy and the political spending serve identical class interests.
+
+The tech donor class that funds Future Forward received concrete returns during the Biden administration: no antitrust breakup of Big Tech despite FTC rhetoric, CHIPS Act subsidies flowing to donor-connected companies, H-1B expansion, and AI regulation that favored incumbents over smaller competitors. Future Forward's spending is not charitable. It is an investment with measurable returns, structured through a dark money vehicle that the donors' own party claims to oppose. The Democratic donor class and the Republican donor class use identical mechanisms. The voters on both sides are told the other party is the problem.
 
 ### Sources
 

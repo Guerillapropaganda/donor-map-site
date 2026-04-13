@@ -69,6 +69,14 @@ Favorable crypto regulation (specifically, regulation that would have required o
 
 ---
 
+## Class Analysis
+
+Sam Bankman-Fried is the campaign finance system's reductio ad absurdum, but the class lesson extends far beyond one fraudster. SBF donated $40M+ to Democratic campaigns and secretly funneled additional millions to Republicans through straw donors, purchasing regulatory access with stolen customer funds. The system did not fail because of SBF. It failed because the system is designed to convert wealth into political access without asking where the wealth came from. Every politician who took SBF's money treated him as a legitimate industry leader. Every regulator who met with him accepted his credibility at face value. The vetting mechanism for mega-donors is the size of the check, not the source of the funds.
+
+The "effective altruism" packaging was the class innovation. SBF wrapped crypto industry self-interest in the language of philosophical do-gooding, and Washington's donor class accepted it because the framing matched their own: wealthy people deploying capital for the public good. This is the same rhetorical structure used by Soros ("defending democracy"), the Koch network ("economic freedom"), and every billionaire donor who presents class interest as public interest. SBF's version collapsed because the underlying enterprise was criminal. The other versions persist because the underlying enterprises are legal. The difference is not moral. It is structural.
+
+The bipartisan dimension matters. SBF publicly gave to Democrats while secretly funding Republicans, ensuring regulatory capture regardless of which party held power. This is the donor class operating at its most efficient: hedging political bets so that no election outcome threatens the donor's core interests. SBF wanted CFTC oversight instead of SEC oversight for crypto exchanges because the CFTC framework would have legitimized FTX while leaving its fraud undetected. He purchased access to the committee members who controlled that decision. The $40M+ investment was small relative to the $8 billion in customer funds at stake. The return on political investment, had FTX survived, would have been extraordinary.
+
 ### Sources
 
 - [DOJ: United States v. Sam Bankman-Fried indictment](https://www.justice.gov/usao-sdny/united-states-v-samuel-bankman-fried-aka-sbf-22-cr-673-lak) (Tier 1)

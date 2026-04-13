@@ -144,6 +144,16 @@ Comer's stated reasoning: "There have been so many investigations of President T
 
 ---
 
+## Class Analysis
+
+James Comer's class function is not legislation. It is protection through selective investigation. As Oversight Committee chairman with unilateral subpoena power, Comer controls what gets investigated and what does not. His agricultural donor base (Kentucky Corn Growers, Kentucky Pork Producers, Kentucky Farm Bureau, POET PAC for ethanol) benefits not from any bill Comer passes but from the investigations he refuses to open. A chairman who spends 18 months and the committee's entire investigative bandwidth on Biden family bank records is a chairman who is not investigating agricultural industry practices, USDA procurement, commodity market manipulation, or the ethanol subsidy pipeline. The absence of investigation is the product his donor class purchases.
+
+Comer is personally a multimillionaire farmer with approximately 1,600 acres of Kentucky farmland, a shell company called Farm Team Properties that grew from $50,000-$100,000 in 2016 to $500,001-$1,000,000 by 2022, and a $200,000 loan to his brother that mirrors the exact family financial structures he spent 18 months investigating in the Biden family. He purchased 6 acres from campaign donor Darren Cleary for $128,000. His brother bought property for $100,000, and James repurchased it five months later for $218,000, an unexplained $18,000 premium. The man who subpoenaed Biden family bank records to trace financial flows has his own financial flows running through identical structures.
+
+The investigation-as-content model serves the donor class indirectly but powerfully. High-profile Biden hearings generated Fox News coverage that sustained Republican base engagement and small-dollar fundraising across the party. The investigation's central informant, Alexander Smirnov, was charged with felony lying. Comer's own star witness, Devon Archer, testified that President Biden had no involvement in his son's business deals. The investigation produced zero charges, zero articles of impeachment, zero policy outcomes. It produced 18 months of content. For the agricultural and energy donors funding Comer's safe R+24 seat, that content is the point: a committee chairman producing spectacle is a committee chairman not producing oversight of their industries.
+
+---
+
 ## Analytical Patterns
 
 **Investigation-as-Spectacle:** The Biden probe is the vault's purest example of oversight power deployed for content production rather than accountability. The investigation generated 18 months of hearings, press conferences, and media coverage — sustaining GOP base engagement and fundraising — without producing evidence, charges, or policy outcomes. The subpoena power was the product; the investigation was the marketing.
