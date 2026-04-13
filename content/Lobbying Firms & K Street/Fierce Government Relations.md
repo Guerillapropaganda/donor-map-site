@@ -8,7 +8,7 @@ parent: null
 annual-revenue: "$4.7M (2025)"
 lobbyist-count: 9
 revolving-door-pct: "77.8%"
-related: "[[Google - Alphabet]] · [[Meta - Facebook]] · [[Apollo Global Management]] · [[Subject Matter (now Avoq)]] · [[Mehlman Consulting]] · [[Cornerstone Government Affairs]] · [[Forbes Tate Partners]] · [[Thorn Run Partners]] · [[Capitol Counsel]] · [[Brownstein Hyatt Farber Schreck]] · [[Peck Madigan Jones (now Tiber Creek Group)]] · [[Prime Policy Group]] · [[K&L Gates]] · [[Crossroads Strategies]] · [[Cassidy & Associates]] · [[Ballard Partners]] · [[BGR Group]] · [[Alpine Group]] · [[Akin Gump Strauss Hauer & Feld]] · [[Squire Patton Boggs]]"
+related: "[[Google - Alphabet]] · [[Meta - Facebook]] · [[Apollo Global Management]] · [[Subject Matter (now Avoq)]] · [[Mehlman Consulting]] · [[Cornerstone Government Affairs]] · [[Forbes Tate Partners]] · [[Thorn Run Partners]] · [[Capitol Counsel]] · [[Brownstein Hyatt Farber Schreck]] · [[Peck Madigan Jones (now Tiber Creek Group)]] · [[Prime Policy Group]] · [[K&L Gates]] · [[Crossroads Strategies]] · [[Cassidy & Associates]] · [[Ballard Partners]] · [[BGR Group]] · [[Alpine Group]] · [[Akin Gump Strauss Hauer & Feld]] · [[Squire Patton Boggs]] · [[Invariant]]"
 ein: "520852291"
 nonprofit-status: "501(c)(6)"
 last-enriched: "2026-04-08"

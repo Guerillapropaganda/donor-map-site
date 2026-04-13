@@ -15,7 +15,7 @@ needs-reenrichment: true
 reenrich-reason: "run lda pipeline"
 total-revenue: 316336
 total-assets: 148627
-related: "[[Palantir Technologies]] · [[Blackstone Group]] · [[Ford Motor Company]] · [[Amazon]] · [[_Lobbying Firms Framework]] · [[Forbes Tate Partners]] · [[Thorn Run Partners]] · [[Capitol Counsel]] · [[Cornerstone Government Affairs]] · [[Subject Matter (now Avoq)]] · [[Mehlman Consulting]] · [[Fierce Government Relations]] · [[Brownstein Hyatt Farber Schreck]] · [[Peck Madigan Jones (now Tiber Creek Group)]] · [[Prime Policy Group]] · [[K&L Gates]] · [[Crossroads Strategies]] · [[Cassidy & Associates]] · [[Ballard Partners]] · [[BGR Group]] · [[Akin Gump Strauss Hauer & Feld]] · [[Squire Patton Boggs]] · [[Invariant]]"
+related: "[[Palantir Technologies]] · [[Blackstone Group]] · [[Ford Motor Company]] · [[Amazon]] · [[_Lobbying Firms Framework]] · [[Forbes Tate Partners]] · [[Thorn Run Partners]] · [[Capitol Counsel]] · [[Cornerstone Government Affairs]] · [[Subject Matter (now Avoq)]] · [[Mehlman Consulting]] · [[Fierce Government Relations]] · [[Brownstein Hyatt Farber Schreck]] · [[Peck Madigan Jones (now Tiber Creek Group)]] · [[Prime Policy Group]] · [[K&L Gates]] · [[Crossroads Strategies]] · [[Cassidy & Associates]] · [[Ballard Partners]] · [[BGR Group]] · [[Akin Gump Strauss Hauer & Feld]] · [[Squire Patton Boggs]] · [[Invariant]] · [[Holland & Knight]]"
 sec-filings: 1293
 sec-form-types:
   - "10-K"

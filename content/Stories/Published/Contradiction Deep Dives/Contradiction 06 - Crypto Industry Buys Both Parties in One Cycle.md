@@ -8,7 +8,7 @@ source-tier: 1
 parent: null
 issues:
   - "Technology"
-related: "[[Tech Billionaires Switch Parties on Regulatory Self-Interest]] · [[Crypto Industry Bloc]] · [[_Donald Trump Master Profile|Donald Trump]] · [[_Kamala Harris Master Profile|Kamala Harris]] · [[_Bernie Sanders Master Profile|Bernie Sanders]] · [[Sherrod Brown]] · [[_Katie Porter Master Profile|Katie Porter]] · [[Crypto vs Labor - The Structural Funding Gap]] · [[Intra-Democratic Contradiction Map - The Progressive vs Moderate Illusion]]"
+related: "[[Tech Billionaires Switch Parties on Regulatory Self-Interest]] · [[Crypto Industry Bloc]] · [[_Donald Trump Master Profile|Donald Trump]] · [[_Kamala Harris Master Profile|Kamala Harris]] · [[_Bernie Sanders Master Profile|Bernie Sanders]] · [[Sherrod Brown]] · [[_Katie Porter Master Profile|Katie Porter]] · [[Crypto vs Labor - The Structural Funding Gap]] · [[Intra-Democratic Contradiction Map - The Progressive vs Moderate Illusion]] · [[Intra-Republican Contradiction Map]]"
 ---
 #investigation #contradiction #crypto #fairshake #both-sides #bipartisan-capture #class-analysis
 tags: #analysis #story

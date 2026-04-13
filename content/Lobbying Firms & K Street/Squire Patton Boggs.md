@@ -16,7 +16,7 @@ fara-countries:
   - "KAZAKHSTAN"
   - "KOREA SOUTH"
   - "PALESTINE"
-related: "[[Boeing]] · [[_Lobbying Firms Framework]] · [[Goldman Sachs — The Government Sachs Alumni Network]] · [[Donald Trump Master Profile]] · [[Ballard Partners]] · [[Thorn Run Partners]] · [[Subject Matter (now Avoq)]]"
+related: "[[Boeing]] · [[_Lobbying Firms Framework]] · [[Goldman Sachs — The Government Sachs Alumni Network]] · [[Donald Trump Master Profile]] · [[Ballard Partners]] · [[Thorn Run Partners]] · [[Subject Matter (now Avoq)]] · [[Prime Policy Group]]"
 lei: "259400PVBJ4RB4LUZ721"
 lei-jurisdiction: "PL"
 last-enriched: "2026-04-08"

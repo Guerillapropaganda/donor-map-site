@@ -25,7 +25,7 @@ court-jurisdictions:
   - "United States Bankruptcy Court, N.D. Illinois"
 ein: "394827006"
 nonprofit-status: "501(c)(3)"
-related: "[[Instacart]] · [[Uber]] · [[Lyft]] · [[DoorDash]] · [[Prop 22 - The $200M Corporate Rollback]] · [[Airbnb]] · [[Fossil Fuel Bloc]] · [[UnitedHealth Group - Optum]] · [[PG&E]] · [[ExxonMobil]] · [[WSPA - Western States Petroleum Association]] · [[Valero Energy]] · [[Raytheon Technologies]] · [[Palantir Technologies Political Operation]]"
+related: "[[Instacart]] · [[Uber]] · [[Lyft]] · [[DoorDash]] · [[Prop 22 - The $200M Corporate Rollback]] · [[Airbnb]] · [[Fossil Fuel Bloc]] · [[UnitedHealth Group - Optum]] · [[PG&E]] · [[ExxonMobil]] · [[WSPA - Western States Petroleum Association]] · [[Valero Energy]] · [[Raytheon Technologies]] · [[Palantir Technologies Political Operation]] · [[Southern Company]]"
 cross-vault-triangulation-count: 8
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
   • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.

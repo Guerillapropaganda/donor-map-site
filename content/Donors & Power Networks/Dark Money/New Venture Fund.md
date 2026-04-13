@@ -56,7 +56,7 @@ sec-form-types:
   - "S-1/A"
   - "S-4"
   - "S-4/A"
-related: "[[National Progressive Donor Networks]] · [[Center for American Progress]] · [[Demand Justice]] · [[Arabella Advisors]] · [[Sixteen Thirty Fund]] · [[Democracy Alliance]] · [[Media Matters]] · [[Democratic Party Infrastructure]] · [[Open Society Foundations]] · [[Trial Lawyers Fund]] · [[Ocean Conservancy]] · [[Legal Sector Donors]] · [[Finance and Tech Bundler Network]] · [[Environmental Law & Policy Center]] · [[Democratic Small Dollar Networks]]"
+related: "[[National Progressive Donor Networks]] · [[Center for American Progress]] · [[Demand Justice]] · [[Arabella Advisors]] · [[Sixteen Thirty Fund]] · [[Democracy Alliance]] · [[Media Matters]] · [[Democratic Party Infrastructure]] · [[Open Society Foundations]] · [[Trial Lawyers Fund]] · [[Ocean Conservancy]] · [[Legal Sector Donors]] · [[Finance and Tech Bundler Network]] · [[Environmental Law & Policy Center]] · [[Democratic Small Dollar Networks]] · [[Small Dollar Donors - ActBlue]]"
 nonprofit-status: "501(c)(3)"
 total-revenue: 664320202
 total-assets: 624857462

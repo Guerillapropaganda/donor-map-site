@@ -20,7 +20,7 @@ sec-form-types:
   - "EX-99.1"
   - "FWP"
   - "PRE 14A"
-related: "[[Israel - Government Lobbying Operation]] · [[AIPAC - American Israel Public Affairs Committee]] · [[DMFI - Democratic Majority for Israel]] · [[Haim Saban]] · [[JCRC Bay Area]] · [[JPAC - Jewish Public Affairs Committee of California]] · [[J Street]] · [[American Friends of the Likud]] · [[Blue Shield of California]] · [[Anthem - Elevance Health]] · [[American Gaming Association]] · [[United Arab Emirates - Influence Operation]]"
+related: "[[Israel - Government Lobbying Operation]] · [[AIPAC - American Israel Public Affairs Committee]] · [[DMFI - Democratic Majority for Israel]] · [[Haim Saban]] · [[JCRC Bay Area]] · [[JPAC - Jewish Public Affairs Committee of California]] · [[J Street]] · [[American Friends of the Likud]] · [[Blue Shield of California]] · [[Anthem - Elevance Health]] · [[American Gaming Association]] · [[United Arab Emirates - Influence Operation]] · [[Turkey - Erdogan Lobbying Operation]]"
 cross-vault-triangulation-count: 5
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
   • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.

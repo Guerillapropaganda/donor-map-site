@@ -9,7 +9,7 @@ sector: "Healthcare"
 entity-type: "Corporation"
 issues:
   - "Healthcare"
-related: "[[Johnson & Johnson]] · [[Kaiser Permanente]] · [[Humana]] · [[UnitedHealth Group - Optum]] · [[Blue Shield of California]] · [[Anthem - Elevance Health]] · [[PhRMA]] · [[Purdue Pharma - Sackler Family]] · [[PhRMA - Pharmaceutical Research and Manufacturers of America]] · [[Novo Nordisk]] · [[Moderna]] · [[Merck]] · [[Gilead Sciences]] · [[Eli Lilly]] · [[Centene Corporation]] · [[AbbVie]]"
+related: "[[Johnson & Johnson]] · [[Kaiser Permanente]] · [[Humana]] · [[UnitedHealth Group - Optum]] · [[Blue Shield of California]] · [[Anthem - Elevance Health]] · [[PhRMA]] · [[Purdue Pharma - Sackler Family]] · [[PhRMA - Pharmaceutical Research and Manufacturers of America]] · [[Novo Nordisk]] · [[Moderna]] · [[Merck]] · [[Gilead Sciences]] · [[Eli Lilly]] · [[Centene Corporation]] · [[AbbVie]] · [[Palantir Technologies]]"
 known-gaps:
   - "No SEC corporate filings"
   - "No FEC contribution data"
