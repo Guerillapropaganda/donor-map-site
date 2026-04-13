@@ -9,7 +9,7 @@ sector: "Foreign Influence"
 entity-type: "Individual Donor"
 issues:
   - "Technology"
-related: "[[Turkey - Erdogan Lobbying Operation]] · [[Gulf State Money - Saudi Arabia, UAE, Qatar]] · [[Saudi Arabia - Kingdom Investment]] · [[Mohammed bin Salman]] · [[Haim Saban]] · [[JCRC Bay Area]] · [[J Street]]"
+related: "[[Turkey - Erdogan Lobbying Operation]] · [[Gulf State Money - Saudi Arabia, UAE, Qatar]] · [[Saudi Arabia - Kingdom Investment]] · [[Mohammed bin Salman]] · [[Haim Saban]] · [[JCRC Bay Area]] · [[J Street]] · [[Christians United for Israel]] · [[American Friends of the Likud]]"
 known-gaps:
   - "No FEC contribution data"
   - "No lobbying disclosure data"

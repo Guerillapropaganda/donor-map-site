@@ -64,7 +64,7 @@ sec-form-types:
   - "S-3ASR"
   - "S-3D"
   - "SCHEDULE 13G/A"
-related: "[[Valero Energy]] · [[John Thune Master Profile]] · [[The McConnell Succession and the Majority Leader Fundraising Machine]] · [[ExxonMobil]] · [[Koch Industries]] · [[Fossil Fuel Bloc]] · [[WSPA - Western States Petroleum Association]] · [[Southern Company]] · [[PG&E - Pacific Gas and Electric]] · [[Occidental Petroleum]] · [[Marathon Petroleum]] · [[Palantir Technologies Political Operation]] · [[Raytheon Technologies]] · [[Instacart]] · [[Uber]]"
+related: "[[Valero Energy]] · [[John Thune Master Profile]] · [[The McConnell Succession and the Majority Leader Fundraising Machine]] · [[ExxonMobil]] · [[Koch Industries]] · [[Fossil Fuel Bloc]] · [[WSPA - Western States Petroleum Association]] · [[Southern Company]] · [[PG&E - Pacific Gas and Electric]] · [[Occidental Petroleum]] · [[Marathon Petroleum]] · [[Palantir Technologies Political Operation]] · [[Raytheon Technologies]] · [[Instacart]] · [[Uber]] · [[Lyft]] · [[UnitedHealth Group - Optum]]"
 top-federal-agency: "Department of Defense"
 top-naics-code: "221112"
 cross-vault-triangulation-count: 8

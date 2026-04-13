@@ -299,7 +299,7 @@ _No committee data found._
 <!-- auto:voting-record start -->
 **Sources**
 
-- [Congress.gov: Melissa Bean](https://www.congress.gov/member/c001091) (Tier 1)
+- [Congress.gov: Melissa Bean](https://www.congress.gov/member/e000179) (Tier 1)
 <!-- auto:voting-record end -->
 
 ### Wikipedia

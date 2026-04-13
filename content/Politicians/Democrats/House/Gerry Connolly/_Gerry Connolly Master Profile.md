@@ -158,6 +158,6 @@ Before Congress, Connolly worked at SRI International (a government contractor) 
 <!-- auto:voting-record start -->
 **Sources**
 
-- [Congress.gov: Gerry Connolly](https://www.congress.gov/member/c001091) (Tier 1)
+- [Congress.gov: Gerry Connolly](https://www.congress.gov/member/e000179) (Tier 1)
 <!-- auto:voting-record end -->
 

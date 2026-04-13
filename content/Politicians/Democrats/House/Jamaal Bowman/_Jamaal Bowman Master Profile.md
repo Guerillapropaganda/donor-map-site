@@ -453,7 +453,7 @@ _No committee data found._
 
 **Sources**
 
-- [Congress.gov: Jamaal Bowman](https://www.congress.gov/member/c001091) (Tier 1)
+- [Congress.gov: Jamaal Bowman](https://www.congress.gov/member/e000179) (Tier 1)
 - [GovTrack: Jamaal Bowman](https://www.govtrack.us/congress/members/456839) (Tier 1)
 <!-- auto:voting-record end -->
 

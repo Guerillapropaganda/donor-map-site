@@ -24,7 +24,7 @@ court-cases: 5
 court-jurisdictions:
   - "District Court, District of Columbia"
   - "District Court, N.D. Illinois"
-related: "[[DeVos Family]] · [[Koch Network - Charles Koch]] · [[_Pete Hegseth Master Profile|Hegseth]] · [[Doug Collins]] · [[_Donald Trump Master Profile|Trump]] · [[Veterans and Military - Donors and Backers]] · [[The VA Privatization Pipeline - Who Profits From Veteran Healthcare]] · [[American Federation for Children]] · [[National Education Association]] · [[Walton Family Foundation]] · [[Defense Contractors Bloc]] · [[Insurance Industry]] · [[American Iron and Steel Institute]] · [[Defense Industry]] · [[American Petroleum Institute]] · [[Petrochemical Industry Bloc]]"
+related: "[[DeVos Family]] · [[Koch Network - Charles Koch]] · [[_Pete Hegseth Master Profile|Hegseth]] · [[Doug Collins]] · [[_Donald Trump Master Profile|Trump]] · [[Veterans and Military - Donors and Backers]] · [[The VA Privatization Pipeline - Who Profits From Veteran Healthcare]] · [[American Federation for Children]] · [[National Education Association]] · [[Walton Family Foundation]] · [[Defense Contractors Bloc]] · [[Insurance Industry]] · [[American Iron and Steel Institute]] · [[Defense Industry]] · [[American Petroleum Institute]] · [[Petrochemical Industry Bloc]] · [[Western States Petroleum Association]] · [[Defense Industry Bloc]]"
 cross-vault-triangulation-count: 10
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
   • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.

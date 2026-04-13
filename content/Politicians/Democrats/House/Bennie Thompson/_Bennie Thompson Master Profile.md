@@ -258,6 +258,6 @@ The January 6th investigation was Thompson's highest-profile moment and his clea
 
 **Sources**
 
-- [Congress.gov: Bennie Thompson](https://www.congress.gov/member/c001091) (Tier 1)
+- [Congress.gov: Bennie Thompson](https://www.congress.gov/member/e000179) (Tier 1)
 - [GovTrack: Bennie Thompson](https://www.govtrack.us/congress/members/400402) (Tier 1)
 <!-- auto:voting-record end -->

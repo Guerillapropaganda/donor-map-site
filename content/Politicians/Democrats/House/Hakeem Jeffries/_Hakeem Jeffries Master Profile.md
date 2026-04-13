@@ -434,7 +434,7 @@ _No committee data found._
 
 **Sources**
 
-- [Congress.gov: Hakeem Jeffries](https://www.congress.gov/member/c001091) (Tier 1)
+- [Congress.gov: Hakeem Jeffries](https://www.congress.gov/member/e000179) (Tier 1)
 - [GovTrack: Hakeem Jeffries](https://www.govtrack.us/congress/members/412561) (Tier 1)
 
 <!-- auto:voting-record pending-merge end -->

@@ -12,7 +12,7 @@ issues:
   - "Energy & Climate"
 subawards-issued-amount: 1009778941592127500
 subawards-received-amount: 1009778941592127500
-related: "[[DeVos Family]] · [[2026-03-25 Finance Research]] · [[Freedom Partners Chamber of Commerce]] · [[Koch Industries]] · [[Koch Network - Charles Koch]] · [[Americans for Prosperity]] · [[Stand Together]] · [[DonorsTrust]] · [[US Chamber of Commerce]] · [[National Association of Manufacturers]] · [[Heritage Foundation]] · [[Federalist Society]] · [[GEO Group]] · [[ExxonMobil]] · [[PhRMA]] · [[State Policy Network]] · [[American Federation for Children]] · [[Insurance Industry]] · [[Walton Family Foundation]] · [[National Education Association]] · [[American Petroleum Institute]] · [[Petrochemical Industry Bloc]] · [[Western States Petroleum Association]] · [[Defense Industry]] · [[Defense Industry Bloc]]"
+related: "[[DeVos Family]] · [[2026-03-25 Finance Research]] · [[Freedom Partners Chamber of Commerce]] · [[Koch Industries]] · [[Koch Network - Charles Koch]] · [[Americans for Prosperity]] · [[Stand Together]] · [[DonorsTrust]] · [[US Chamber of Commerce]] · [[National Association of Manufacturers]] · [[Heritage Foundation]] · [[Federalist Society]] · [[GEO Group]] · [[ExxonMobil]] · [[PhRMA]] · [[State Policy Network]] · [[American Federation for Children]] · [[Insurance Industry]] · [[Walton Family Foundation]] · [[National Education Association]] · [[American Petroleum Institute]] · [[Petrochemical Industry Bloc]] · [[Western States Petroleum Association]] · [[Defense Industry]] · [[Defense Industry Bloc]] · [[Defense Contractors]] · [[Defense Contractors Bloc]]"
 known-gaps:
   - "No FEC contribution data"
   - "No lobbying disclosure data"

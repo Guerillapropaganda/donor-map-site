@@ -16,7 +16,7 @@ nonprofit-status: "501(c)(4)"
 last-enriched: "2026-04-09"
 needs-reenrichment: true
 reenrich-reason: "run fec pipeline"
-related: "[[DSCC - Democratic Senatorial Campaign Committee]] · [[Senate Majority PAC]] · [[_Chuck Schumer Master Profile|Schumer]] · [[New Venture Fund]] · [[Sixteen Thirty Fund]] · [[Advocacy Fund]] · [[Democratic Senatorial Campaign Committee]] · [[Priorities USA Action]] · [[Emilys List]] · [[Dark Money Networks - The Shadow System]] · [[Winning for Women PAC]] · [[Senate Leadership Fund]] · [[One Nation]] · [[National Republican Senatorial Committee]] · [[WinRed]] · [[Fairshake PAC]]"
+related: "[[DSCC - Democratic Senatorial Campaign Committee]] · [[Senate Majority PAC]] · [[_Chuck Schumer Master Profile|Schumer]] · [[New Venture Fund]] · [[Sixteen Thirty Fund]] · [[Advocacy Fund]] · [[Democratic Senatorial Campaign Committee]] · [[Priorities USA Action]] · [[Emilys List]] · [[Dark Money Networks - The Shadow System]] · [[Winning for Women PAC]] · [[Senate Leadership Fund]] · [[One Nation]] · [[National Republican Senatorial Committee]] · [[WinRed]] · [[Fairshake PAC]] · [[Trump Victory]] · [[Save America PAC]]"
 court-cases: 36
 court-jurisdictions:
   - "Court of Appeals for the Fourth Circuit"

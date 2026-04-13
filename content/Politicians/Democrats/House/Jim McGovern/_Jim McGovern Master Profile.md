@@ -254,7 +254,7 @@ McGovern is the anti-pattern that proves the pattern across the vault. When a po
 
 **Sources**
 
-- [Congress.gov: Jim McGovern](https://www.congress.gov/member/c001091) (Tier 1)
+- [Congress.gov: Jim McGovern](https://www.congress.gov/member/e000179) (Tier 1)
 - [GovTrack: Jim McGovern](https://www.govtrack.us/congress/members/400263) (Tier 1)
 
 <!-- auto:voting-record pending-merge end -->

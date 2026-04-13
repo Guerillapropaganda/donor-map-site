@@ -225,7 +225,7 @@ The class function is clear: Pallone is the progressive validator for industries
 
 **Sources**
 
-- [Congress.gov: Frank Pallone](https://www.congress.gov/member/c001091) (Tier 1)
+- [Congress.gov: Frank Pallone](https://www.congress.gov/member/e000179) (Tier 1)
 - [GovTrack: Frank Pallone](https://www.govtrack.us/congress/members/400308) (Tier 1)
 <!-- auto:voting-record end -->
 

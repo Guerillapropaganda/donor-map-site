@@ -360,6 +360,6 @@ Smith publicly supports campaign finance reform, states "corporations are not pe
 
 **Sources**
 
-- [Congress.gov: Adam Smith](https://www.congress.gov/member/c001091) (Tier 1)
+- [Congress.gov: Adam Smith](https://www.congress.gov/member/e000179) (Tier 1)
 - [GovTrack: Adam Smith](https://www.govtrack.us/congress/members/400379) (Tier 1)
 <!-- auto:voting-record end -->

@@ -71,8 +71,8 @@ nonprofit-status: "501(c)(3)"
 total-revenue: 132817572
 total-assets: 220477766
 wikidata-id: "Q98642757"
-lobbying-spend: 1714623
-lobbying-filings: 130
+lobbying-spend: 1824623
+lobbying-filings: 133
 ---
 #deere #agriculture #manufacturing #right-to-repair #trade #tariffs #iowa
 
@@ -519,17 +519,17 @@ The political math is straightforward. John Deere's PAC contributes $1-2 million
 <!-- auto:lda-lobbying start -->
 | Metric | Value |
 |--------|-------|
-| Total Lobbying Spend | $1.7M |
-| Quarterly Filings | 130 |
+| Total Lobbying Spend | $1.8M |
+| Quarterly Filings | 133 |
 | Year Range | 2024-2026 |
-| Lobbying Firms | 47 |
+| Lobbying Firms | 48 |
 | Individual Lobbyists | 0 |
 
 **Issues lobbied:** Aerospace, Agriculture, Automotive Industry, Aviation/Airlines/Airports, Banking, Budget/Appropriations, Civil Rights/Civil Liberties, Constitution, Consumer Issues/Safety/Products, Copyright/Patent/Trademark, Defense, Economics/Economic Development, Education, Energy/Nuclear, Environment/Superfund, Financial Institutions/Investments/Securities, Food Industry (safety, labeling, etc.), Foreign Relations, Fuel/Gas/Oil, Health Issues, Housing, Insurance, Manufacturing, Medical/Disease Research/Clinical Labs, Medicare/Medicaid, Natural Resources, Retirement, Science/Technology, Small Business, Tariff (miscellaneous tariff bills), Taxation/Internal Revenue Code, Torts, Trade (domestic/foreign), Transportation, Trucking/Shipping, Veterans
 
-**Lobbying firms:** ABI ASSOCIATES, BECKER & POLIAKOFF, P.A., BRICK STREET STRATEGY, BROWNSTEIN HYATT FARBER SCHRECK, LLP, CASSIDY & ASSOCIATES, INC., CAVAROCCHI RUSCIO DENNIS ASSOCIATES, L.L.C., CORNERSTONE GOVERNMENT AFFAIRS, INC., COVINGTON & BURLING LLP, DAUGHERTY STRATEGIES LLC, DOWNS GOVERNMENT AFFAIRS, DYKEMA GOSSETT PLLC, ERVIN GRAVES STRATEGY GROUP, LLC, FLYWHEEL GOVERNMENT SOLUTIONS, FOLEY & LARDNER LLP, HALL, RENDER, KILLIAN, HEATH & LYMAN, P.C., HANCE SCARBOROUGH, HB STRATEGIES, HOLLAND & KNIGHT LLP, INVARIANT LLC, JOHN BIRCH SOCIETY, JOHN DUNCAN AND ASSOCIATES, LLC, JOHN W. CONRAD III DBA JOHN W. CONRAD III AND COMPANY, JOHNSON MATTHEY INC., JOHNSTON GROUP, LLC, KEYS GROUP, LLC, LAW OFFICE OF JOHN J. FASO, P.C, LOBBYIT.COM, MALONEY GOVERNMENT RELATIONS, LLC, MAYFORTH GROUP, LLC., MEAD JOHNSON & COMPANY, LLC, MINDSET ADVOCACY, LLC, MR. JOHN HOWES, NATURAL RESOURCE RESULTS LLC, O'DONNELL & ASSOCIATES LLC, OCULUS STRATEGIES, LLC, POBLETE TAMARGO, LLP, PROSPERING SOLUTIONS, LLC FKA JOHN C. SNYDER III, RICHARD BURNESS, RICHARD MCGIVERN, S.C. JOHNSON & SON, INC., TELEGRAPH AVENUE ADVISORS, THE COMPLETE AGENCY, THE FERGUSON GROUP, THE WASHINGTON TAX & PUBLIC POLICY GROUP, TIBER CREEK GROUP, WILLIAM CASTLE, WINNING STRATEGIES WASHINGTON
+**Lobbying firms:** ABI ASSOCIATES, BECKER & POLIAKOFF, P.A., BRICK STREET STRATEGY, BROWNSTEIN HYATT FARBER SCHRECK, LLP, CASSIDY & ASSOCIATES, INC., CAVAROCCHI RUSCIO DENNIS ASSOCIATES, L.L.C., CORNERSTONE GOVERNMENT AFFAIRS, INC., COVINGTON & BURLING LLP, DAUGHERTY STRATEGIES LLC, DOWNS GOVERNMENT AFFAIRS, DYKEMA GOSSETT PLLC, ERVIN GRAVES STRATEGY GROUP, LLC, FGS GLOBAL (US) LLC (FKA FGH HOLDINGS LLC), FLYWHEEL GOVERNMENT SOLUTIONS, FOLEY & LARDNER LLP, HALL, RENDER, KILLIAN, HEATH & LYMAN, P.C., HANCE SCARBOROUGH, HB STRATEGIES, HOLLAND & KNIGHT LLP, INVARIANT LLC, JOHN BIRCH SOCIETY, JOHN DUNCAN AND ASSOCIATES, LLC, JOHN W. CONRAD III DBA JOHN W. CONRAD III AND COMPANY, JOHNSON MATTHEY INC., JOHNSTON GROUP, LLC, KEYS GROUP, LLC, LAW OFFICE OF JOHN J. FASO, P.C, LOBBYIT.COM, MALONEY GOVERNMENT RELATIONS, LLC, MAYFORTH GROUP, LLC., MEAD JOHNSON & COMPANY, LLC, MINDSET ADVOCACY, LLC, MR. JOHN HOWES, NATURAL RESOURCE RESULTS LLC, O'DONNELL & ASSOCIATES LLC, OCULUS STRATEGIES, LLC, POBLETE TAMARGO, LLP, PROSPERING SOLUTIONS, LLC FKA JOHN C. SNYDER III, RICHARD BURNESS, RICHARD MCGIVERN, S.C. JOHNSON & SON, INC., TELEGRAPH AVENUE ADVISORS, THE COMPLETE AGENCY, THE FERGUSON GROUP, THE WASHINGTON TAX & PUBLIC POLICY GROUP, TIBER CREEK GROUP, WILLIAM CASTLE, WINNING STRATEGIES WASHINGTON
 
-**Agencies contacted:** Agriculture, Dept of (USDA), Air Force, Dept of, Defense, Dept of (DOD), Energy, Dept of, Federal Aviation Administration (FAA), HOUSE OF REPRESENTATIVES, Natl Park Service (NPS), Natl Security Council (NSC), Office of Management & Budget (OMB), SENATE +6 more
+**Agencies contacted:** Agriculture, Dept of (USDA), Air Force, Dept of, Defense, Dept of (DOD), Energy, Dept of, Federal Aviation Administration (FAA), HOUSE OF REPRESENTATIVES, Interior, Dept of (DOI), Natl Park Service (NPS), Natl Security Council (NSC), Office of Management & Budget (OMB) +7 more
 
 - [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=John%20Deere) (Tier 1)
 <!-- auto:lda-lobbying end -->

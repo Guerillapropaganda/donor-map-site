@@ -311,7 +311,7 @@ Pressley's real power base is Labor ($278,750 career PAC) and Ideological donors
 
 **Sources**
 
-- [Congress.gov: Ayanna Pressley](https://www.congress.gov/member/c001091) (Tier 1)
+- [Congress.gov: Ayanna Pressley](https://www.congress.gov/member/e000179) (Tier 1)
 - [GovTrack: Ayanna Pressley](https://www.govtrack.us/congress/members/412782) (Tier 1)
 
 <!-- auto:voting-record pending-merge end -->
