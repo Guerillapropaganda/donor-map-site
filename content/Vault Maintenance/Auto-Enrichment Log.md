@@ -102,6 +102,13 @@ Bot-written. Research Claude reads this to see what fresh API data landed in the
 
 
 
+
+## 2026-04-13 18:28 UTC — 1 profile
+
+**LDA (Senate Lobbying) — 1 profile:**
+- American Farm Bureau Federation — 3.1M spend, 146 filings
+
+---
 ## 2026-04-13 17:47 UTC — 17 profiles
 
 **FEC — 17 profiles:**
