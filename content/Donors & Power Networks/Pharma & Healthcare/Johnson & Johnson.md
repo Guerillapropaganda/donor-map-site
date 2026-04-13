@@ -1,7 +1,7 @@
 ---
 title: "Johnson & Johnson"
 type: corporation
-content-readiness: draft
+content-readiness: ready
 last-updated: 2026-04-13
 source-tier: 1
 parent: null
@@ -78,6 +78,16 @@ Bipartisan distribution targeting Finance Committee (Medicare drug pricing), Jud
 
 > [!money]
 > J&J's single drug Stelara generated $21.4 billion in revenue in 2023. Medicare negotiation could reduce prices on drugs like Stelara by 25-60%. J&J's $10 million annual lobbying spend protects billions in drug revenue. The lobbying ROI is measured in thousands of percent.
+
+---
+
+## Class Analysis
+
+Johnson and Johnson is a $85 billion annual revenue pharmaceutical giant that spends $8-10 million per year on lobbying to protect pricing power worth hundreds of billions. The math is simple: J&J's single drug Stelara generated $21.4 billion in revenue in 2023. Medicare negotiation could reduce prices on drugs like Stelara by 25-60%. The $10 million annual lobbying spend protects revenue measured in tens of billions. The return on investment is measured in thousands of percent. This is not corporate influence. This is corporate mathematics.
+
+The bipartisan funding distribution is strategic, not neutral. J&J PAC contributes $1.5-2 million per cycle, targeting Finance Committee members (who control Medicare drug pricing), Judiciary Committee members (who control patent law and bankruptcy reform), and HELP Committee members (who control FDA regulation). The donations go to both parties because both parties' committee chairs control different pieces of the regulatory framework that protects J&J's pricing power. For decades, J&J and the broader PhRMA lobby successfully prevented Medicare from negotiating drug prices at all. The Inflation Reduction Act's 2022 negotiation authority covers only 10 drugs initially, preserving the vast majority of the industry's pricing power. That partial reform was the structural limit the pharmaceutical lobby allowed after decades of total blockade.
+
+The liability strategy reveals the corporate class position with equal clarity. J&J faces $8.9 billion in proposed settlements for talc and asbestos cancer cases affecting 60,000+ plaintiffs. The company's legal response was the "Texas Two-Step" bankruptcy maneuver: creating a subsidiary, assigning the liability to it, then declaring that subsidiary bankrupt to cap payouts. Federal courts rejected this strategy, but the attempt itself demonstrates the class logic. A corporation with $85 billion in annual revenue attempted to use bankruptcy law designed for insolvent entities to limit payments to cancer victims. The talc litigation, the opioid settlement ($26 billion national), and the 110 FDA recalls (including 2 Class I life-threatening recalls for benzene-contaminated sunscreen) are not aberrations. They are the cost of doing business at a scale where litigation payouts are smaller than quarterly profits.
 
 ---
 
