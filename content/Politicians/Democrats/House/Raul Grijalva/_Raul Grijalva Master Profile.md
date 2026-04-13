@@ -296,7 +296,7 @@ Grijalva spent two decades fighting battles with no corporate lobby behind them.
 
 | 2025-03-11 | H.J.Res. 25: Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitt | **Not Voting** | Passed |
 | 2025-03-11 | H.R. 1968: Full-Year Continuing Appropriations and Extensions Act, 2025 | **Not Voting** | Passed |
-| 2025-03-11 | H.R. 1156: Pandemic Unemployment misconduct Enforcement Act | **Not Voting** | Passed |
+| 2025-03-11 | H.R. 1156: Pandemic Unemployment Fraud Enforcement Act | **Not Voting** | Passed |
 | 2025-03-11 | H.Res. 211: Providing for consideration of the joint resolution (H.J. Res. 25) providing for congressional disapproval u | **Not Voting** | Passed |
 | 2025-03-10 | H.R. 993: Emerging Innovative Border Technologies Act | **Not Voting** | Passed |
 | 2025-03-10 | H.R. 901: Research Security and Accountability in DHS Act | **Not Voting** | Passed |
