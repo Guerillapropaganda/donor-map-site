@@ -87,6 +87,16 @@ Kavanaugh hearings (viral moments, no legislation) · FOSTA-SESTA (anti-traffick
 
 ---
 
+## Class Analysis
+
+Kamala Harris raised $2.3 billion for the most expensive losing campaign in American history. George Soros contributed $60 million. Michael Bloomberg gave $50 million+. Bill Gates gave $50 million. Dustin Moskovitz gave $15 million+. Reid Hoffman gave $16.6 million. Future Forward, the largest super PAC in history, spent $517 million on her behalf. Twenty-eight billionaires backed her campaign. She outspent Donald Trump 2.8x in campaign committee fundraising. She had the endorsement of every institutional union in the country. She lost.
+
+The Teamsters rank-and-file poll is the vault's defining data point: 59.6% Trump, 34.0% Harris (July to September 2024). Every institutional union endorsed Harris. The one that asked its actual members did not. Only about 20 of 650 Teamster locals endorsed her anyway. Sean O'Brien became the first union president to address the Republican National Convention in 121 years. The institutional endorsement machine and the working class it claims to represent pointed in opposite directions. The donor class controlled who ran. It could not control who won.
+
+Harris's career follows the California donor-class pipeline: DA to AG to Senator to VP to presidential nominee. Willie Brown's patronage appointments launched her career in 1994. Silicon Valley, Hollywood, and Wall Street funded every step. As AG, her own prosecutors recommended charging OneWest Bank (Steve Mnuchin's operation) for widespread foreclosure fraud targeting 35,000 California homeowners. Harris declined to prosecute. As senator, she co-sponsored Bernie Sanders's Medicare for All bill in 2017, then abandoned it within months of launching her 2019 presidential campaign and beginning major Silicon Valley fundraising. As VP, she delivered genuine labor wins through the Infrastructure Investment and Jobs Act ($1.2 trillion with prevailing wage) and the Inflation Reduction Act ($369 billion, Harris tiebreak). But the PRO Act never reached a floor vote. Medicare for All was dead. The genuine wins were infrastructure spending that does not threaten capital's structural position. The structural reforms that would have never materialized.
+
+---
+
 ## Analytical Patterns
 
 **The Genuine Win + Structural Limit** — Harris's VP record produced genuine labor wins: IIJA prevailing wage, IRA with 5x prevailing wage bonus (400K+ union jobs created), Davis-Bacon modernization, Abruzzo NLRB confirmation (Harris tiebreak). These wins serve union members and working-class constituencies directly. However, the structural limit is total: the PRO Act (union organizing expansion) never reached a floor vote with momentum during a period when Harris could have pushed for it. The genuine wins are infrastructure spending (doesn't threaten capital's structural position) and regulatory appointments (don't require Senate filibuster workarounds). The structural reforms (labor organizing rights, Medicare for All, wealth redistribution) never materialized.

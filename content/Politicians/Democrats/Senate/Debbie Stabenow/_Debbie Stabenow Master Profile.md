@@ -1,9 +1,9 @@
 ---
 title: "Debbie Stabenow Master Profile"
 type: politician
-content-readiness: draft
+content-readiness: ready
 central-thesis: "Stabenow is the Farm Bill senator — the Democrat who controlled more agribusiness spending than any other member of her caucus for over a decade. Her Agriculture Committee chairmanship gave her jurisdiction over crop insurance subsidies (the large..."
-last-updated: 2026-04-08
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -99,6 +99,16 @@ Stabenow is the Farm Bill senator — the Democrat who controlled more agribusin
 
 > [!money] The Crop Insurance Pipeline
 > The donation-to-policy loop on crop insurance is the cleanest in the profile. Stabenow becomes Agriculture Chair (2011). Agribusiness contributions surge ($428K+ in 2012 cycle). She writes the 2014 Farm Bill expanding crop insurance subsidies. She regains the chair. Agribusiness makes her their top Senate investment ($677K+ in 2018). She co-writes the 2018 Farm Bill with further crop insurance expansion. The federal crop insurance program costs taxpayers roughly $9 billion annually in premium subsidies, and the private insurance companies that deliver it earn guaranteed returns on every policy. Every expansion Stabenow championed increased the subsidy pool. Every subsidy increase benefited the donors who funded the expansions. The SNAP defense — real and important — happened inside the same bills and provided the progressive framing that made the crop insurance giveaway politically invisible.
+
+---
+
+## Class Analysis
+
+Debbie Stabenow was the top Senate recipient of agribusiness contributions during the 2018 Farm Bill cycle: $677,000+ from the industry in a single election. Her career agribusiness total exceeded $1 million. She received $10,000 from the American Association of Crop Insurers PAC. She chaired the Agriculture Committee for eight of her last fourteen years in office, writing the 2014 Farm Bill and co-authoring the 2018 Farm Bill (passed 87-13). The committee controls roughly $1 trillion in spending per decade. Every major agribusiness lobby, crop insurance company, and food industry corporation had business before the committee Stabenow chaired.
+
+The crop insurance pipeline is the cleanest donation-to-policy loop in the profile. Stabenow became Agriculture Chair in 2011. Agribusiness contributions surged to $428,000+ in the 2012 cycle. She wrote the 2014 Farm Bill expanding crop insurance subsidies. She regained the chair. Agribusiness made her their top Senate investment at $677,000+ in 2018. She co-wrote the 2018 Farm Bill with further crop insurance expansion. The federal crop insurance program costs taxpayers roughly $9 billion annually in premium subsidies. The federal government pays approximately 60% of premiums. Private insurance companies that deliver the program earn guaranteed returns on every policy. Every expansion Stabenow championed increased the subsidy pool. Every subsidy increase benefited the donors who funded the expansions.
+
+The SNAP defense provided the progressive cover. Stabenow declared SNAP funding a "red line" during farm bill negotiations and held that line, protecting nutrition benefits for 42 million Americans against Republican cuts. The auto bailout was another genuine win for Michigan's signature industry. But the same farm bills that protected SNAP massively expanded crop insurance subsidies that the Environmental Working Group called a system where Wall Street companies earn billions in near risk-free profit. The benefits flow disproportionately to the largest farming operations and the private insurance companies that deliver the program. Stabenow's progressive voters saw the SNAP fight. Her agribusiness donors got the crop insurance expansion. Both were in the same bill. Only one got the headlines.
 
 ---
 

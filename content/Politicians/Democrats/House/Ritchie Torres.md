@@ -4,9 +4,9 @@ type: politician
 bioguide-id: "T000486"
 chamber: "House"
 party: "Democrat"
-content-readiness: draft
+content-readiness: ready
 central-thesis: "Ritchie Torres represents the optimal donor-capture model for a Democrat with marginalized identity: recruit early, fund generously, shift positions gradually, claim the critic ('I didn't leave the progressive movement; it left me') rather than ac..."
-last-updated: 2026-04-12
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 total-received: "$5,052,480"
@@ -91,6 +91,16 @@ Example 4: District Abandonment. Torres's stated priority is addressing Bronx ho
 
 > [!contradiction]
 > **The marginalized identity politician serving donor interests against his district.** Torres campaigns in America's poorest congressional district with rhetoric rooted in LGBTQ+ rights, racial justice, and working-class power. Yet since 2021, he's voted with AIPAC ($683K+ funding), the crypto industry ($232K+ 2025), and defense contractors (owning Lockheed/Northrop/L3Harris shares). His legislative focus is Israel, crypto deregulation, and defense spending—not the South Bronx. His marginalized identity provides the brand cover that enables donor service while maintaining base credibility. The gap between his identity-based brand and his voting record proves: marginalized politicians can be captured and deployed against their own constituencies when donors provide the capital.
+
+## Class Analysis
+
+Ritchie Torres represents New York's 15th Congressional District, the poorest in America: median household income $45,635, poverty rate 30%, 59.4% Hispanic, 30.8% Black. His two largest donor forces are AIPAC ($683,000+ direct donations, $1.5 million+ total Israel lobby) and the crypto industry (Fairshake $173,000 independent expenditure in 2023-24, $232,000+ additional in 2025). The class contradiction is total. The representative of the poorest district in Congress serves two of the wealthiest lobbying forces in America.
+
+The donor capture followed a documented sequence. Torres entered Congress in 2021 from the New York City Council, where his record was genuinely progressive: housing advocacy, police accountability, LGBTQ+ senior centers. AIPAC and the crypto industry saw a charismatic young Democrat with no donor infrastructure, meaning low acquisition cost and high political value. AIPAC funded him; his Israel positions hardened. In January 2024, Torres left the Congressional Progressive Caucus explicitly over Israel policy. In March 2025, he co-founded the Congressional Crypto Caucus with Republican Tom Emmer, framing it as a "unified nonpartisan voting block ready to mobilize to support and defend open, permissionless, and private innovation," which is crypto industry language word-for-word. In September 2024, Torres purchased shares in Lockheed Martin, Northrop Grumman, and L3Harris Technologies, the three largest defense contractors supplying weapons to Israel. He votes for military aid to Israel and profits from the companies that deliver that aid.
+
+The 2026 cycle reveals the scale. Torres has raised $5,052,480 with $1,616,453 from individuals and $368,000 from PACs. His cash on hand is $14.9 million. Equality Project PAC spent $454,268 supporting him. Protect Progress spent $220,295. Fairshake spent $126,168. His district, where 30% of residents live in poverty, gets rhetoric about housing and LGBTQ+ rights. His donors get votes on Israel funding, crypto deregulation, and defense spending. His marginalized identity provides the political cover for serving concentrated wealth. Primary challenger Michael Blake is running on the argument that Torres has abandoned the Bronx. The voting record supports that argument.
+
+---
 
 ## Analytical Patterns
 

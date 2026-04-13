@@ -1,9 +1,9 @@
 ---
 title: "Katie Porter Master Profile"
 type: politician
-content-readiness: draft
+content-readiness: ready
 central-thesis: "Katie Porter is the donor class's mirror image: a politician whose fundraising model is built on rejecting the donor class itself. Her brand — the whiteboard, the consumer protection hearings, the refusal of corporate PAC money — functions as a fu..."
-last-updated: 2026-04-11
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 party: "Democrat"
