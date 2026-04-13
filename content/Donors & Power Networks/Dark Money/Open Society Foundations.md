@@ -2,7 +2,7 @@
 title: "Open Society Foundations"
 type: donor
 content-readiness: draft
-last-updated: 2026-04-12
+last-updated: 2026-04-13
 source-tier: 2
 parent: null
 sector: "Dark Money"
@@ -20,7 +20,7 @@ nonprofit-status: "501(c)(3)"
 last-enriched: "2026-04-09"
 needs-reenrichment: true
 reenrich-reason: "run fec pipeline"
-related: "[[Center on Budget and Policy Priorities]] · [[Ryan Grim]] · [[Jeremy Scahill]] · [[Drop Site News]] · [[Crooked Media]] · [[George Soros]] · [[_Gavin Newsom Master Profile]] · [[Democracy Alliance]] · [[Sixteen Thirty Fund]] · [[New Venture Fund]] · [[Ocean Conservancy]] · [[Trial Lawyers Fund]] · [[National Progressive Donor Networks]] · [[Media Matters]] · [[Legal Sector Donors]]"
+related: "[[Center on Budget and Policy Priorities]] · [[Ryan Grim]] · [[Jeremy Scahill]] · [[Drop Site News]] · [[Crooked Media]] · [[George Soros]] · [[_Gavin Newsom Master Profile]] · [[Democracy Alliance]] · [[Sixteen Thirty Fund]] · [[New Venture Fund]] · [[Ocean Conservancy]] · [[Trial Lawyers Fund]] · [[National Progressive Donor Networks]] · [[Media Matters]] · [[Legal Sector Donors]] · [[Finance and Tech Bundler Network]]"
 court-cases: 138
 court-jurisdictions:
   - "Court of Appeals for the D.C. Circuit"

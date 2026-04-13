@@ -2,7 +2,7 @@
 title: "Fairshake PAC"
 type: pac
 content-readiness: draft
-last-updated: 2026-04-12
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 sector: "Tech & Crypto"
@@ -26,7 +26,7 @@ issues:
   - "Dark Money & Campaign Finance"
   - "Financial Deregulation"
   - "Technology"
-related: "[[Trump 2024 Campaign]] · [[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]] · [[Crypto vs Labor - The Structural Funding Gap]] · [[New York House Races 2026]] · [[Illinois House Primaries 2026 - The PAC Laboratory]] · [[Think Big AI PAC]] · [[Mike Collins Master Profile]] · [[Crypto and AIPAC's Georgia Strategy]] · [[Crypto and Tech - Donors and Backers]] · [[The Financial Services Legacy and Crypto Deregulation]] · [[The FIT21 Act and Crypto Industry Capture]] · [[Juliana Stratton]] · [[Crypto vs. Institutional Democrats in Illinois]] · [[2026-03-25 Finance Research]] · [[Mike Lawler Master Profile]] · [[Elizabeth Warren Master Profile]] · [[The 2020 Campaign and the Donor Class Consolidation]] · [[Sam Bankman-Fried]] · [[French Hill]] · [[_Jamaal Bowman Master Profile]] · [[_Katie Porter Master Profile]] · [[Crypto Industry Bloc]] · [[Cryptocurrency Industry]] · [[Marc Andreessen & Horowitz]] · [[_Donald Trump Master Profile|Trump]] · [[United Democracy Project - UDP]] · [[Illinois Future PAC]] · [[WinRed]] · [[Trump Victory]] · [[Save America PAC]] · [[Preserve America]] · [[Senate Leadership Fund]] · [[Winning for Women PAC]]"
+related: "[[Trump 2024 Campaign]] · [[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]] · [[Crypto vs Labor - The Structural Funding Gap]] · [[New York House Races 2026]] · [[Illinois House Primaries 2026 - The PAC Laboratory]] · [[Think Big AI PAC]] · [[Mike Collins Master Profile]] · [[Crypto and AIPAC's Georgia Strategy]] · [[Crypto and Tech - Donors and Backers]] · [[The Financial Services Legacy and Crypto Deregulation]] · [[The FIT21 Act and Crypto Industry Capture]] · [[Juliana Stratton]] · [[Crypto vs. Institutional Democrats in Illinois]] · [[2026-03-25 Finance Research]] · [[Mike Lawler Master Profile]] · [[Elizabeth Warren Master Profile]] · [[The 2020 Campaign and the Donor Class Consolidation]] · [[Sam Bankman-Fried]] · [[French Hill]] · [[_Jamaal Bowman Master Profile]] · [[_Katie Porter Master Profile]] · [[Crypto Industry Bloc]] · [[Cryptocurrency Industry]] · [[Marc Andreessen & Horowitz]] · [[_Donald Trump Master Profile|Trump]] · [[United Democracy Project - UDP]] · [[Illinois Future PAC]] · [[WinRed]] · [[Trump Victory]] · [[Save America PAC]] · [[Preserve America]] · [[Senate Leadership Fund]] · [[Winning for Women PAC]] · [[Senate Majority PAC]]"
 source-types:
   - FEC
 known-gaps:

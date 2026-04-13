@@ -2,14 +2,14 @@
 title: "United Arab Emirates - Influence Operation"
 type: donor
 content-readiness: draft
-last-updated: 2026-04-12
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 sector: "Foreign Influence"
 entity-type: "Individual Donor"
 issues:
   - "Technology"
-related: "[[Turkey - Erdogan Lobbying Operation]] · [[Gulf State Money - Saudi Arabia, UAE, Qatar]] · [[Saudi Arabia - Kingdom Investment]] · [[Mohammed bin Salman]] · [[Haim Saban]] · [[JCRC Bay Area]]"
+related: "[[Turkey - Erdogan Lobbying Operation]] · [[Gulf State Money - Saudi Arabia, UAE, Qatar]] · [[Saudi Arabia - Kingdom Investment]] · [[Mohammed bin Salman]] · [[Haim Saban]] · [[JCRC Bay Area]] · [[J Street]]"
 known-gaps:
   - "No FEC contribution data"
   - "No lobbying disclosure data"

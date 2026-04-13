@@ -2,7 +2,7 @@
 title: "Novo Nordisk"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-12
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 sector: "Pharma & Healthcare"
@@ -32,7 +32,7 @@ court-cases: 9469
 court-jurisdictions:
   - "District Court, D. New Jersey"
   - "District Court, E.D. Pennsylvania"
-related: "[[Merck]] · [[Gilead Sciences]] · [[Eli Lilly]] · [[PhRMA]] · [[AbbVie]] · [[Purdue Pharma - Sackler Family]] · [[PhRMA - Pharmaceutical Research and Manufacturers of America]] · [[Moderna]] · [[Johnson & Johnson]] · [[Centene Corporation]] · [[Palantir Technologies]] · [[PBM Industry Bloc - OptumRx, CVS Caremark, Express Scripts]] · [[UnitedHealth Group - Optum]]"
+related: "[[Merck]] · [[Gilead Sciences]] · [[Eli Lilly]] · [[PhRMA]] · [[AbbVie]] · [[Purdue Pharma - Sackler Family]] · [[PhRMA - Pharmaceutical Research and Manufacturers of America]] · [[Moderna]] · [[Johnson & Johnson]] · [[Centene Corporation]] · [[Palantir Technologies]] · [[PBM Industry Bloc - OptumRx, CVS Caremark, Express Scripts]] · [[UnitedHealth Group - Optum]] · [[Tenet Healthcare]]"
 lei: "529900UTAHSVRYZL0380"
 lei-jurisdiction: "DK"
 sec-filings: 10000
