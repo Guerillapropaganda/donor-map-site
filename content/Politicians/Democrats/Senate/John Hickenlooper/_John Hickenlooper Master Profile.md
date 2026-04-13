@@ -1,9 +1,9 @@
 ---
 title: "John Hickenlooper"
 type: politician
-content-readiness: draft
+content-readiness: ready
 central-thesis: "Hickenlooper is the fossil fuel industry's preferred kind of Democrat — one who speaks the language of environmental concern while protecting the industry's operating space. As Colorado governor, he was the state's top recipient of oil and gas cam..."
-last-updated: 2026-04-11
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 party: "Democrat"

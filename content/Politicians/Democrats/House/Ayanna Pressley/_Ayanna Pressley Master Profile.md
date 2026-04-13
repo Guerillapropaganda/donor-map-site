@@ -1,7 +1,7 @@
 ---
 title: "Ayanna Pressley Master Profile"
 type: politician
-content-readiness: draft
+content-readiness: ready
 central-thesis: "Pressley is the Squad member who chose institutional integration over institutional confrontation — building power within committee structures rather than through media insurgency. Her Financial Services Committee seat gives her formal jurisdictio..."
 last-updated: 2026-04-13
 source-tier: 1

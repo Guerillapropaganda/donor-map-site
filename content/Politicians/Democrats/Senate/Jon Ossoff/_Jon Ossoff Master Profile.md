@@ -1,9 +1,9 @@
 ---
 title: "Jon Ossoff Master Profile"
 type: politician
-content-readiness: draft
+content-readiness: ready
 central-thesis: "Jon Ossoff is the template for next-generation corporate Democrats: young, visually polished, media-savvy, positioned as anti-establishment 'outsider' despite strong establishment backing. His documentary filmmaker brand provided authenticity cove..."
-last-updated: 2026-04-08
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 party: "Democrat"
