@@ -1,8 +1,8 @@
 ---
 title: "Leonard Leo"
 type: donor
-content-readiness: draft
-last-updated: 2026-04-12
+content-readiness: ready
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 sector: "Leonard Leo.md"
@@ -200,6 +200,16 @@ Leo also co-created Liberty Central with Ginni Thomas, seeded with $500,000 from
 | Bradley Foundation | $3M+/year to Federalist Society + $250K Bradley Prize to Leo (2010) |
 | Sarah Scaife Foundation | Multi-million dollar network funding |
 | [[DonorsTrust|DonorsTrust]] | $284M distributed 2024 (primary anonymous conduit) |
+
+---
+
+## Class Analysis
+
+Leonard Leo is the most consequential political operative most Americans have never heard of. He has personally architected the capture of the U.S. Supreme Court, converting $1.6 billion in dark money into a 6-3 conservative supermajority that will shape American law for decades. The scale is unprecedented. Barre Seid's single $1.6 billion donation to Marble Freedom Trust in December 2021 was larger than the total contributions of the next 50 dark money donors combined. The donation was structured as a 501(c)(4) transfer with no disclosure requirements, generating a massive tax deduction that reduced Seid's effective cost to $400-500 million. The federal government lost $1.1 billion in tax revenue. Leo received operational control of the funds.
+
+The personal enrichment circuit makes the class analysis concrete. Leo's consulting firm CRC Advisors receives fees from the nonprofits Leo himself controls. From 2016 through 2023, CRC Advisors collected $100 million+ in revenue, with 80% coming from Leo-affiliated organizations. The money flows in a circle: donors give to Leo's nonprofits, nonprofits hire Leo's consulting firm, Leo's firm charges millions, Leo personally profits while controlling the disbursement of billions. He built himself a toll booth at the center of the judicial capture system. The $80,000+ in payments directed to Ginni Thomas through Kellyanne Conway's firm, with Leo's instruction that there be "no mention of Ginni, of course," reveals how the network operates: money moves through layers of entities to obscure the connection between Supreme Court justices' families and the operative selecting their colleagues.
+
+The Trump-Leo tension exposed in May 2025, when Trump called Leo a "sleazebag who controls judges," reveals the internal class dynamics of conservative power. Leo wants a judiciary that reliably serves conservative donor-class interests through institutional means. Trump wants a judiciary that serves Trump personally. When Leo-appointed judges rule against Trump, the alliance fractures. For now, both need each other. But the relationship is transactional, not ideological. Leo's judges are not Trump's judges. They are the donor class's judges, installed through Leo's pipeline, funded by Seid's billions, and positioned to protect capital accumulation, corporate deregulation, and conservative social policy regardless of which Republican occupies the White House.
 
 ---
 

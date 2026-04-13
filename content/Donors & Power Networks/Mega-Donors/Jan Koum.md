@@ -1,8 +1,8 @@
 ---
 title: "Jan Koum"
 type: donor
-content-readiness: draft
-last-updated: 2026-04-10
+content-readiness: ready
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 sector: "Mega-Donors"
@@ -163,6 +163,16 @@ This is the key analytical section for Koum. His pattern exemplifies how tech fo
 ---
 
 ### Federal Contracts
+
+## Class Analysis
+
+Jan Koum is the vault's clearest example of the libertarian-to-Republican pipeline among tech billionaires. For 12 years after selling WhatsApp to Facebook for $19 billion, Koum kept his money out of politics entirely. His public identity was the privacy advocate: end-to-end encryption, no ads, no data harvesting. The conviction was genuine, rooted in his childhood in Soviet Ukraine where his family avoided the telephone for fear of state surveillance. Then in 2022, Koum began deploying his fortune into Republican politics. The shift was abrupt: zero documented political donations before 2022, $31.5 million in total political spending by 2026. The largest recipients: SFA Fund ($10 million, Nikki Haley's Super PAC), MAGA Inc. ($5 million, Trump's Super PAC), United Democracy Project ($5 million, AIPAC's election arm), and the Republican Jewish Coalition Victory Fund ($3.8 million).
+
+The privacy contradiction is the analytical key. Koum built his fortune on protecting user privacy from corporate and state surveillance. He is now funding Republicans who support mass surveillance infrastructure, ICE detention databases, and the Palantir surveillance ecosystem installed through the Trump-Peter Thiel pipeline. The resolution is class-based: "privacy" for billionaires means something different than "privacy" for workers. For Koum, privacy means his own communications, his own wealth structures, and his own business practices are protected from government intrusion. For the undocumented workers targeted by the deportation infrastructure his donations indirectly fund, privacy is irrelevant. Koum's libertarianism was never universalist. It was the class-specific demand of a billionaire who wants to be left alone.
+
+The pro-Israel spending is the other major vector. Koum donated $2 million to AIPAC in 2022 (a record individual contribution at the time), $5 million to United Democracy Project in 2024, and $140 million to approximately 70 Jewish organizations in 2019-2020 alone. His Koum Family Foundation holds a $1.4 billion endowment. The K18n Foundation received $1.6 billion in 2022. This positions Koum alongside Miriam Adelson and Haim Saban as one of the largest individual funders of pro-Israel political infrastructure in the United States. Unlike Musk or Bloomberg, who publicize their political spending, Koum operates the "quiet megadonor" model: maximum financial leverage, minimum public visibility, zero accountability for the contradiction between privacy advocacy and funding surveillance-state politics.
+
+---
 
 ### Sources
 

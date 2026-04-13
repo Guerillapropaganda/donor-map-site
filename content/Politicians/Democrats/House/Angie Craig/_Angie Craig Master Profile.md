@@ -2,9 +2,9 @@
 title: "Angie Craig Master Profile"
 type: politician
 bioguide-id: "C001119"
-content-readiness: draft
+content-readiness: ready
 central-thesis: "Craig is the medical device industry's graduate in Congress — a former St. Jude Medical vice president and PAC director who entered politics in the district where the industry is headquartered, then used swing-district survival skills to climb to ..."
-last-updated: 2026-04-08
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -100,6 +100,16 @@ Craig is the medical device industry's graduate in Congress — a former St. Jud
 **Two-Audience Problem:** Progressive voters and health care advocates hear: took on Big Pharma, capped insulin at $35, first LGBTQ+ Agriculture Ranking Member. Medical device donors hear: former industry VP who directed our PAC, top recipient of our contributions, never legislated against our industry. Agribusiness hears: new Agriculture Ranking Member with farm bill jurisdiction in a farm state. Three audiences, three messages, one career.
 
 **Revolving Door (Origin Variant):** Like Heinrich, Craig's revolving door spun before her political career. She spent a decade inside the medical device industry, directed its PAC, managed its political communications, then used those relationships and skills to run for office. The industry experience that made her an effective candidate also made her the industry's preferred candidate.
+
+---
+
+## Class Analysis
+
+Angie Craig's class position is unusually transparent. She spent a decade inside the medical device industry as a vice president at St. Jude Medical, directing the company's political action committee. She managed corporate political spending professionally before becoming a politician herself. St. Jude employees and PAC gave her $125,000 for her first Congressional campaign. She became the top recipient from the Medical Devices and Supplies industry in the 2021-2022 cycle. The revolving door did not spin after her political career. It spun before it, making her the industry's chosen candidate from day one.
+
+The class logic of her legislative record is precise. Craig's signature achievement, the $35 insulin copay cap, targeted pharmaceutical manufacturers like Eli Lilly, Novo Nordisk, and Sanofi. It did not touch the medical device industry that launched her career and funded her campaigns. Her progressive health care credential was built by attacking a different sector of the health care industry than the one that pays her. Medical device donors got a Congresswoman with a "took on Big Pharma" brand who never legislated against their interests. The insulin cap is a genuine reform that helped millions of Medicare recipients. It is also a class document: the donor class that funded Craig was never at risk.
+
+Craig's 2026 Senate campaign adds a second donor pipeline through her Agriculture Committee Ranking Member position. The committee gives her jurisdiction over farm bill spending, nutrition programs, and rural development, opening agribusiness as a new donor class alongside the medical device base. Each career move, from industry executive to PAC director to Congress to Agriculture gavel to Senate candidate, opens a new funding stream while preserving the existing ones. The class trajectory is accumulative. Craig does not trade one donor class for another. She stacks them.
 
 ---
 

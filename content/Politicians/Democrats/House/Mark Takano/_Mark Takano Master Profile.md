@@ -2,7 +2,7 @@
 title: "Mark Takano"
 type: politician
 bioguide-id: "T000472"
-content-readiness: draft
+content-readiness: ready
 central-thesis: "Mark Takano is the PACT Act's Democratic architect — the chairman who shepherded the largest VA healthcare expansion in decades through committee and into law. His donor profile is modest: labor unions, teachers' unions, LGBTQ advocacy groups, and..."
 last-updated: 2026-04-13
 source-tier: 1
@@ -118,6 +118,16 @@ The analytical interest is the PACT Act's fate after Takano lost the chairmanshi
 **Anti-Pattern (Takano vs. Bost/Moran):** Takano is the anti-pattern to both Bost and Moran. Same committee (Veterans' Affairs), opposite donor bases (unions/progressives vs. Koch/healthcare industry), opposite policy orientations (defend public VA vs. privatize through community care). The comparison proves the vault's thesis: the money determines the policy. When veterans' committee leaders are funded by the Koch network and healthcare industry, VA privatization advances. When they're funded by unions and progressive organizations, public VA healthcare is defended.
 
 **Both-Sides Illusion (Veterans' Affairs):** Both parties claim to "support the troops" and "honor our veterans." Both parties' VA Committee members voted for the PACT Act. But the bipartisan consensus masks the fundamental disagreement: public VA healthcare (Takano's position) vs. private community care expansion (Bost/Moran's position). The PACT Act was bipartisan. DOGE gutting VA workforce was not.
+
+---
+
+## Class Analysis
+
+Mark Takano's donor profile is the clean counterpart to the Koch-funded VA privatization agenda on the Republican side. His campaign funding comes from teachers' unions (reflecting his 24-year teaching career), public sector unions, LGBTQ advocacy organizations, and small individual donors. No private healthcare industry money drives his Veterans' Affairs Committee work. No defense contractor money shapes his oversight agenda. When the U.S. Chamber of Commerce spent $440,000 opposing him, it confirmed the class alignment: corporate America views Takano's defense of public VA healthcare as a threat to the privatization model they prefer.
+
+The class dynamics of the PACT Act tell the structural story. Takano, funded by labor and progressive organizations, built the largest VA healthcare expansion in decades, covering 3.5 million toxic-exposed veterans. His Republican counterparts, funded by the Koch network and healthcare industry, now oversee the implementation. Mike Bost, the Republican chair who inherited the committee, acquiesced to DOGE cutting 83,000 VA workers, including staff hired specifically to implement Takano's law. Same committee, opposite donor classes, opposite outcomes. The money determines whether the Veterans' Affairs Committee defends public VA healthcare or dismantles the workforce that delivers it.
+
+Takano's class position as a former teacher is not incidental. He spent 24 years in a public-sector union job before entering Congress. His policy instincts, defending public institutions, expanding government services, protecting workers, flow directly from that professional experience. The 32-Hour Workweek Act (four-day work week legislation) is the clearest expression: a former teacher proposing to restructure American labor in favor of workers rather than employers. National Nurses United spent $70,000 supporting him. The Equality Project PAC spent $282,000. These are not corporate donors hedging bets. These are organizations whose members directly benefit from Takano's legislative agenda.
 
 ---
 

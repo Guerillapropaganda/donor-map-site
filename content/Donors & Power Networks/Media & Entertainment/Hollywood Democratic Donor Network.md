@@ -1,8 +1,8 @@
 ---
 title: "Hollywood Democratic Donor Network"
 type: corporation
-content-readiness: draft
-last-updated: 2026-04-08
+content-readiness: ready
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 sector: "Media & Entertainment"
@@ -138,6 +138,16 @@ The underrecognized power dynamic: Hollywood donors don't just fund Democratic c
 ### Documentary Strategy and Media Control
 
 Netflix has produced sympathetic biographical documentaries on Democratic politicians (Obama, Clinton, Harris) that function as extended campaign advertisements. No equivalent critical documentaries on Democratic politicians have been greenlighted. This is not accidental: Hastings and Netflix management maintain public relationships with Democratic leadership that make critical documentary projects politically disadvantageous.
+
+---
+
+## Class Analysis
+
+The Hollywood Democratic Donor Network is unique in the database because it combines two forms of power that other donor blocs keep separate: financial influence and cultural production. Jeffrey Katzenberg, David Geffen, Haim Saban, Reed Hastings, and Casey Wasserman do not just write checks to Democratic candidates. They control the studios, streaming platforms, and production companies that shape what 230 million American subscribers watch, think about, and consider politically possible. Netflix alone reaches 40% of American households. Disney owns ABC News and ESPN. Warner Bros. Discovery controls HBO and CNN. The donors who fund the Democratic Party also control the narrative infrastructure that determines what Americans understand as political reality.
+
+The labor contradiction is the analytical core. Hollywood donors publicly fund Democratic politicians who pledge to protect workers' rights, unionization, and labor organizing. These same donors operate entertainment companies that engage in systematic labor suppression. During the 2023 Writers Guild strike, studios coordinated legal strategy to resist AI protections and fair compensation for writers. Reed Hastings publicly stated Netflix's position against unionization, calling unions "bad for worker motivation," while simultaneously donating $7 million to the Harris campaign framed as defending democracy and workers' rights. Across Netflix, Disney+, and Amazon Studios, approximately 150,000 workers face precarious gig-model employment, low benefits, mandatory arbitration clauses, and aggressive retaliation against whistleblowers. The companies producing pro-labor narratives on screen suppress labor organizing off screen.
+
+The material policy agenda reveals what the progressive brand actually purchases. Hollywood donors' most concrete self-interested objective is copyright enforcement expansion: DMCA digital rights management, anti-piracy legislation, streaming industry protection from antitrust scrutiny, and international trade agreements securing American content markets. California's budget includes $100 million or more annually in film and television tax credits that overwhelmingly benefit major studios and streaming platforms. The Biden administration appointed a career entertainment industry attorney as Copyright Office director. No major Democratic antitrust proposal has targeted Netflix or Disney+ market power. The progressive brand buys regulatory capture while the base is told they are funding democracy.
 
 ---
 

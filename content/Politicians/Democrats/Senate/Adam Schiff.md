@@ -4,7 +4,7 @@ type: politician
 bioguide-id: "S001150"
 chamber: "Senate"
 party: "Democrat"
-content-readiness: draft
+content-readiness: ready
 central-thesis: "Adam Schiff exemplifies the Democratic Party's security establishment player: an intelligence operative who performs progressive values while serving the national security state. His 2019–2023 role as House Intelligence Committee chair gave him ac..."
 last-updated: 2026-04-13
 source-tier: 1
@@ -75,6 +75,14 @@ The contradiction is visible in the timing loop: Trump investigations amplified 
 Schiff raised $10M+ from entertainment industry, including Holland Taylor (Screen Actors Guild president), Barbra Streisand ($1,500), Bette Midler ($3,300), and a broader ecosystem of studio executives and producer-donors. This cohort funded Schiff's race at 50+ times the rate they funded [[_Katie Porter Master Profile|Katie Porter]] ($192,573 from entertainment industry through September 2024), despite Porter's strong progressive credentials and anti-corporate brand.
 > [!money]
 The entertainment industry's disproportionate funding of Schiff (vs. Porter or Barbara Lee) reveals the donor logic: Schiff's resistance brand — appearing on MSNBC as Trump's prosecutor, weaponizing classified information for impeachment, positioning himself as national security guardian — performed progressive values while never threatening wealth or capital structure. Porter threatened the entertainment industry's tax position, labor relationships, and profit margins through her actual policy agenda. The money chose Schiff's brand of resistance theater over Porter's substantive economic challenge.
+
+## Class Analysis
+
+Adam Schiff is the Democratic establishment's version of donor-class service: a national security operative who performs progressive resistance while ensuring that the donor class's structural interests in surveillance, defense spending, and Middle East military alignment remain untouched. His 2019-2023 tenure as House Intelligence Committee chair gave him classified access to NSA/CIA relationships and defense contractor networks. He weaponized that access into a Trump-investigation profile, converted the profile into a $32.8 million Senate war chest, and won California's most expensive Senate race in history by outspending Katie Porter 10-to-1 in advertising. The money chose Schiff over Porter for a reason: Schiff's resistance brand threatened Trump, not wealth.
+
+The donor base tells the story. Hollywood entertainment industry: $10 million+. AIPAC and pro-Israel lobby: $5 million+ in super PAC spending. Tech sector: $5 million+. Trial lawyers: $3 million+. Senate Majority PAC: $2 million+. Katie Porter raised $192,573 from entertainment industry donors. Schiff raised $10 million+ from the same sector. The gap is not about name recognition. Porter's actual policy agenda (anti-corporate accountability, wealth taxation, consumer protection) threatened the entertainment industry's tax position and labor relationships. Schiff's resistance theater never threatened anyone's bottom line. The entertainment industry funded the brand of opposition that protected their class interests.
+
+The AIPAC alignment is the most revealing. AIPAC spent $5 million+ to back Schiff and defeat Porter and Barbara Lee, both of whom were more skeptical of Israeli military spending. Schiff's consistent pro-Israel votes on military aid and West Bank settlement policy served AIPAC's interests directly. His Intelligence Committee position gave him structural access to defense and surveillance policy that AIPAC-aligned donors wanted protected. The impeachment hero, the democracy defender, the resistance icon all function as the marketing department for a voting record that protects national security donor interests regardless of which party holds the White House. Progressive voters get the performance. Defense contractors, AIPAC, and Hollywood get the policy.
 
 ## Rhetorical Signature Moves
 

@@ -90,6 +90,14 @@ Husted frames himself as a defender of Ohio jobs and workers while accepting sub
 
 ---
 
+## Class Analysis
+
+Jon Husted is the Ohio Republican establishment's safe pair of hands for corporate donors. Appointed to fill JD Vance's Senate seat by Governor Mike DeWine, Husted arrived in Washington without ever winning a competitive Senate election, carrying 20+ years of state-level donor relationships built through the Ohio House, Secretary of State's office, and lieutenant governor's mansion. His donor base is corporate PACs ($2 million+), real estate developers ($800,000+), and financial services firms ($600,000+). These are not working-class Ohio donors. These are businesses with regulatory exposure seeking a reliable vote on the Health, Education, Labor, and Pensions Committee.
+
+The Wexner sequence is the starkest in the vault. Les Wexner, the L Brands founder later identified as an Epstein co-conspirator, donated $116,892 to Husted across 24 years. On July 3, 2025, Wexner donated $3,500 to Husted's Senate campaign. Sixty-nine days later, Husted voted to block the release of Epstein investigation documents. He reversed course only in November under public pressure, then donated $34,300 in Wexner money to a sex trafficking survivors' nonprofit in February 2026. The charitable donation was damage control. The September vote had already served its purpose: protecting the donor who needed protection when he needed it most.
+
+The Centene pipeline follows the same pattern. Centene Corporation paid Ohio $88.3 million to settle allegations of defrauding the state's Medicaid program. After the settlement, Centene executives donated $29,000+ to the senator who now sits on the committee overseeing Medicaid policy. The company that defrauded Ohio taxpayers invested in the senator who oversees the program they defrauded. Husted's 0% absence rate (0 of 709 votes missed) is the tell: he shows up for every vote because his donors expect reliable service, not because Ohio's working class demands perfect attendance.
+
 ## Analytical Patterns
 
 **The Genuine Win + Structural Limit** — Husted has secured genuine policy victories on business regulatory relief and tax framework issues that serve his corporate PAC donors. However, these wins are narrowly constructed: relief flows to established corporations (Centene, real estate interests, financial services) while avoiding threats to the wealth extraction mechanisms themselves. His votes on healthcare and labor policy protect corporate donor interests without challenging the structural imbalances his committee jurisdiction oversees.

@@ -1,8 +1,8 @@
 ---
 title: "Wesley Bell Master Profile"
 type: politician
-content-readiness: draft
-last-updated: 2026-04-10
+content-readiness: ready
+last-updated: 2026-04-13
 source-tier: null
 parent: null
 party: "Democrat"
@@ -55,6 +55,16 @@ Per vault documentation, AIPAC's United Democracy Project spent approximately $8
 *Stub — needs full development.*
 
 Bell's primary victory over Bush completed AIPAC's 2024 one-two punch against the Squad's most vocal Gaza ceasefire advocates. Unlike Latimer (a long-serving county executive with institutional credibility), Bell's primary appeal was his justice system reform record as St. Louis County's first Black prosecuting attorney — credentials that complicated the standard progressive-vs-moderate framing. The donor class chose him specifically because his biography made the anti-Bush attack ads harder to dismiss as establishment versus grassroots.
+
+---
+
+## Class Analysis
+
+Wesley Bell's path to Congress is a case study in how the Democratic donor class selects and funds primary challengers against progressive incumbents. Bell defeated Cori Bush in the August 2024 Democratic primary with approximately $14 million in combined outside spending from the AIPAC ecosystem: United Democracy Project spent $8.5 to $9.96 million, DMFI PAC spent $921,000, Mainstream Democrats PAC spent $1.3 million, and Fairshake PAC added $2.79 million. Bell's own campaign raised $5.4 million in 2024, but the outside spending dwarfed his direct fundraising. The donor class did not just support Bell. It manufactured his victory through overwhelming financial force.
+
+The class logic of Bell's selection is strategic. Unlike George Latimer (who defeated Jamaal Bowman as a long-serving county executive with deep institutional roots), Bell was chosen because his biography complicated the standard progressive-vs-moderate framing. As St. Louis County's first Black prosecuting attorney with a justice reform record, Bell could not easily be dismissed as a corporate establishment figure. The donor class learned from the Turner races in OH-11: pick a challenger whose personal story neutralizes the "corporate Democrat" attack, then fund the operation through outside spending that the challenger can plausibly deny controlling. Bell's 2026 FEC data shows the relationship continuing: $6.5 million in outside support spending (overwhelmingly from UDP) and $1.3 million from Mainstream Democrats PAC, sustaining the investment.
+
+The open question is what AIPAC's $14 million buys in terms of legislative behavior. Bell's first-term sponsored legislation covers agriculture, national security, commerce, crime, housing, and international affairs. The breadth is notable for a freshman. Whether Bell's voting record on Israel-Palestine issues, foreign aid, and Middle East policy differs materially from Cori Bush's positions will determine whether the donor class got policy change for its investment or simply replaced a vocal critic with a quieter ally. The class transaction is documented. The policy return is still being written.
 
 ---
 

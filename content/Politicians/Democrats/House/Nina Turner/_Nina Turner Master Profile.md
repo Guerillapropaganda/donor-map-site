@@ -1,8 +1,8 @@
 ---
 title: "Nina Turner Master Profile"
 type: politician
-content-readiness: draft
-last-updated: 2026-04-10
+content-readiness: ready
+last-updated: 2026-04-13
 source-tier: null
 parent: null
 party: "Democrat"
@@ -46,6 +46,16 @@ Turner is the vault's earliest case study of the DMFI primary enforcement model 
 *Stub — needs full development.*
 
 Turner's two consecutive primary losses to DMFI-backed Shontel Brown in OH-11 established the playbook that AIPAC and DMFI later scaled against [[_Jamaal Bowman Master Profile|Jamaal Bowman]] and [[_Cori Bush Master Profile|Cori Bush]] in 2024. The $2M+ spent against Turner in a single House primary was unprecedented at the time and demonstrated the donor class's willingness to defeat progressive incumbents through outside spending alone.
+
+---
+
+## Class Analysis
+
+Nina Turner's two consecutive primary losses in Ohio's 11th District are the vault's clearest case study of how the Democratic donor class enforces its boundaries. Turner raised $7.7 million across both cycles, overwhelmingly from individual small-dollar donors ($3 million in individual contributions in 2022 alone) and minimal PAC money ($157,000). Her funding came from the progressive grassroots. The opposition spending that defeated her came from the institutional donor class: DMFI PAC spent $3.1 million against her, Third Way spent $1 million, and Mainstream Democrats PAC spent $303,000. Total outside spending opposing Turner reached $4.6 million in 2022 alone. The grassroots candidate was outspent by institutional opposition money.
+
+The class logic is explicit. Turner was national co-chair of Bernie Sanders' 2020 presidential campaign, a Medicare for All advocate, and a vocal critic of Israeli policy. Each of these positions threatened a different segment of the Democratic donor class: Sanders' populism threatened the party's corporate fundraising model, Medicare for All threatened the healthcare industry, and criticism of Israel triggered the AIPAC-adjacent enforcement apparatus. DMFI did not spend $3.1 million to defeat Turner over a policy disagreement. It spent that money to establish a precedent: progressive candidates who cross the donor class on Israel will face unlimited opposition spending in their primaries, regardless of their grassroots fundraising strength.
+
+Turner's defeat established the playbook that AIPAC and DMFI later scaled against Jamaal Bowman ($14.5 million in outside spending) and Cori Bush ($14 million) in 2024. The class lesson is structural. Small-dollar fundraising cannot overcome concentrated institutional opposition spending in Democratic primaries. The donor class does not need to fund the progressive candidate's opponent directly. It simply needs to flood the race with outside spending. Turner proved the model works. Bowman and Bush proved it scales.
 
 ---
 

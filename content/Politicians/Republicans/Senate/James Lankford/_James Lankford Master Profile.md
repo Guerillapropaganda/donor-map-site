@@ -3,7 +3,7 @@ title: "James Lankford"
 type: politician
 bioguide-id: "L000575"
 content-readiness: ready
-central-thesis: "James Lankford is the pastor-senator from oil country — a Baptist minister who chairs the Ethics Committee while his largest career donor sector (content-readiness: draft.5 million+) is the oil and gas industry that dominates his state's economy. On the Finance Committ..."
+central-thesis: "James Lankford is the pastor-senator from oil country — a Baptist minister who chairs the Ethics Committee while his largest career donor sector (content-readiness: ready.5 million+) is the oil and gas industry that dominates his state's economy. On the Finance Committ..."
 last-updated: 2026-04-13
 source-tier: 1
 parent: null

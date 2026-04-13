@@ -1,9 +1,9 @@
 ---
 title: "Samuel Alito Master Profile"
 type: politician
-content-readiness: draft
+content-readiness: ready
 central-thesis: "Samuel Alito is the quieter version of the Thomas model — fewer gifts, the same structural capture. His 2008 Alaska fishing trip with Paul Singer was arranged by Leonard Leo, the same architect who secured Alito's nomination after engineering Harr..."
-last-updated: 2026-04-10
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 chamber: "SCOTUS"
@@ -101,6 +101,14 @@ Samuel Alito. Associate Justice, U.S. Supreme Court (2006–present). Nominated 
 > **The fossil fuel portfolio paradox:** Alito holds fossil fuel stocks requiring his most recusals — yet participates without recusal in cases where his holdings don't require it. The disclosed conflicts reveal a portfolio whose undisclosed conflicts he manages through participation, not abstention.
 
 ---
+
+## Class Analysis
+
+Samuel Alito is the second proof of concept for donor capture on the Supreme Court, operating through a quieter mechanism than Clarence Thomas but producing the same structural outcomes. Leonard Leo engineered Alito's path to the bench by orchestrating Harriet Miers's withdrawal and funding a dark money confirmation campaign through the Judicial Crisis Network. The same man who secured the nomination then arranged Alito's social access to the donor class. In 2008, Leo organized an Alaska fishing trip for Alito with hedge fund billionaire Paul Singer, including private jet travel worth $100,000+ and luxury lodge accommodations from Robin Arkley II. Alito never disclosed the trip. Singer's NML Capital subsequently had 10+ cases before the Court. Alito never recused. In Republic of Argentina v. NML Capital (2014), the Court ruled 7-1 in Singer's favor, producing a $2.4 billion settlement outcome for Singer's fund.
+
+The fossil fuel portfolio reveals the conflicts Alito normally manages through participation rather than abstention. He holds $60,000 to $245,000 across seven fossil fuel companies, including ConocoPhillips. This portfolio triggered more recusals than any other sitting justice: 53 over three terms, 10 in the most recent term alone. He recused from a Louisiana wetlands case involving a ConocoPhillips subsidiary only after the Court tightened its internal checks. But he joined the majority in West Virginia v. EPA, gutting the agency's authority over greenhouse gas emissions while holding stocks in the companies that benefit from weakened environmental regulation. The recusals he makes are the window into the conflicts he routinely ignores.
+
+The donor class gets exactly what it paid for. Leo's network invested decades in positioning the Court to produce Dobbs v. Jackson (overturning Roe v. Wade) and Burwell v. Hobby Lobby (granting corporations religious exemptions from the ACA). Alito authored both opinions. Singer's hedge fund got a $2.4 billion outcome after a fishing trip. The fossil fuel industry got weakened EPA authority from a justice who owns their stock. When Rob Schenck alleged that wealthy donors used "Operation Higher Court" to gain dinner access and potentially received advance notice of the Hobby Lobby ruling, Alito called the allegations "completely false." There is no enforcement mechanism to test that denial. The capture operates through social access and ideological alignment, and the absence of accountability is the feature, not the bug.
 
 ## Analytical Patterns
 
