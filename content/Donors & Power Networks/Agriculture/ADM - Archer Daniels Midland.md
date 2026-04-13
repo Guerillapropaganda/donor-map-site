@@ -2,7 +2,7 @@
 title: "ADM - Archer Daniels Midland"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-10
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 sector: "Agriculture"
@@ -25,6 +25,28 @@ nhtsa-recalls: 0
 nhtsa-complaints: 0
 cross-vault-triangulation-count: 11
 audit-a-plus-passed: "2026-04-11"
+sec-filings: 1170
+sec-form-types:
+  - "13F-HR"
+  - "4"
+  - "424B2"
+  - "487"
+  - "497"
+  - "ARS"
+  - "DEF 14A"
+  - "DEFA14A"
+  - "DFAN14A"
+  - "EX-10.1"
+  - "EX-10.15"
+  - "EX-10.2"
+  - "EX-99.1"
+  - "EX-99.2"
+  - "EX-99.A1"
+  - "FWP"
+  - "INFORMATION TABLE"
+  - "N-PX"
+  - "N-PX/A"
+  - "SCHEDULE 13G/A"
 ---
 #adm #agriculture #commodities #ethanol #grain #biofuel #illinois
 
@@ -184,3 +206,23 @@ Preservation and expansion of the Renewable Fuel Standard (ethanol mandate), fav
 
 - ~~[Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=ADM%20-%20Archer%20Daniels%20Midland)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
 <!-- auto:nhtsa-recalls end -->
+
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
+| Metric | Value |
+|--------|-------|
+| Total Filings | 1,170 |
+| Form Types | 13F-HR, 4, 424B2, 487, 497, ARS, DEF 14A, DEFA14A +12 more |
+| CIK | 7084 |
+| Ticker | ADM |
+
+**Notable filings:**
+
+- 2026-04-02 — **4**: [4](https://www.sec.gov/Archives/edgar/data/7084/000122520826004230/0001225208-26-004230-index.htm)
+- 2026-04-02 — **4**: [4](https://www.sec.gov/Archives/edgar/data/7084/000122520826004229/0001225208-26-004229-index.htm)
+- 2026-04-02 — **4**: [4](https://www.sec.gov/Archives/edgar/data/7084/000122520826004228/0001225208-26-004228-index.htm)
+- 2026-04-02 — **4**: [4](https://www.sec.gov/Archives/edgar/data/7084/000122520826004227/0001225208-26-004227-index.htm)
+- 2026-04-02 — **4**: [4](https://www.sec.gov/Archives/edgar/data/7084/000122520826004226/0001225208-26-004226-index.htm)
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22ADM%20-%20Archer%20Daniels%20Midland%22) (Tier 1)
+<!-- auto:sec-edgar end -->
