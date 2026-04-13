@@ -1,8 +1,8 @@
 ---
 title: "Las Vegas Sands"
 type: corporation
-content-readiness: draft
-last-updated: 2026-04-10
+content-readiness: ready
+last-updated: 2026-04-12
 source-tier: 2
 parent: null
 sector: "Real Estate"

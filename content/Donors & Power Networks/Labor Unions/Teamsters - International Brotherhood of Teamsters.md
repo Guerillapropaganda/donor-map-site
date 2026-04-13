@@ -1,8 +1,8 @@
 ---
 title: "Teamsters - International Brotherhood of Teamsters"
 type: donor
-content-readiness: draft
-last-updated: 2026-04-10
+content-readiness: ready
+last-updated: 2026-04-12
 source-tier: 1
 parent: null
 sector: "Labor Unions"

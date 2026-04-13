@@ -180,6 +180,14 @@ This is the corporate-democrat template: use moral authority language ("everyone
 
 ---
 
+## Class Analysis
+
+Raphael Warnock's $170 million combined fundraising across two cycles reveals the structural function of moral authority in Democratic politics. In 2022, 95.2% of his campaign money came from outside Georgia. California contributed $13.4 million. New York contributed $6.9 million. Georgia contributed $8.7 million. The senator from Georgia is funded by the national Democratic donor class, not by Georgians. Martin Luther King Jr.'s pulpit provides the moral legitimacy. The money comes from tech, entertainment, and finance sectors in coastal states that need a Democratic Senate majority to protect their regulatory environment.
+
+The evolution from 2020 to 2022 shows the transition from grassroots insurgency to establishment capture. In 2020, Warnock's median donor was "unemployed," the lowest net-worth donor group, and his top 10 donors made up only 1% of total fundraising. By 2022, high-net-worth donors dominated the donor profile, small-dollar contributions dropped to 48%, and the out-of-state share climbed to 95%. This is the standard trajectory: grassroots energy wins the first race, and then the establishment donor class absorbs the winner into its funding infrastructure. Warnock's moral authority brand, the pastor from MLK's church fighting for justice, survives the transition intact because the brand is about identity, not policy. The policy shifts to accommodate the donors. The brand stays the same.
+
+The healthcare positioning makes the mechanism visible. Warnock pastors a church defined by King's legacy of radical economic demands, the Poor People's Campaign, opposition to militarism, structural critique of poverty. Yet Warnock accepts healthcare corporate donors, has not committed to single-payer despite California Nurses Association pressure, and advocates incremental expansion of existing systems rather than structural change. His healthcare messaging says "everyone deserves healthcare." His donor relationships prevent the structural reform that would deliver it. The moral authority is real. The policy constraint is real. The gap between them is where the donor class lives. Warnock provides progressive cover for a fundamentally corporate-aligned Democratic Party. That is his class function, and the $170 million in national donor money is the price the donor class pays for it.
+
 ## Rhetorical Signature Moves
 
 1. **The pulpit-to-Senate bridge:** Warnock moves seamlessly between church language (justice, care for the poor, moral obligation) and Senate language (bipartisan healthcare expansion, market mechanisms). The moral authority transfers between settings.
