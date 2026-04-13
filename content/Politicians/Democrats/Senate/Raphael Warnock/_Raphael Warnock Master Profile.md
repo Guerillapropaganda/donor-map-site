@@ -1,9 +1,9 @@
 ---
 title: Raphael Warnock Master Profile
 type: politician
-content-readiness: draft
+content-readiness: ready
 central-thesis: "Raphael Warnock represents the moral authority brand in Democratic politics: a pastor from MLK's pulpit brings authenticity and historic weight to political messaging, particularly on racial justice and inequality. Yet Warnock's donor base and pol..."
-last-updated: 2026-04-11
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 party: Democrat
