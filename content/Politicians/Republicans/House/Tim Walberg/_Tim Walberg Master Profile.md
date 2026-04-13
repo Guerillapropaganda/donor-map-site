@@ -2,9 +2,9 @@
 title: "Tim Walberg"
 type: politician
 bioguide-id: "W000798"
-content-readiness: draft
+content-readiness: ready
 central-thesis: "Tim Walberg is the anti-labor pastor who chairs the labor committee — funded by billionaires who want to dismantle public education and weaken unions. His top donors include the DeVos family ($76,700+ since 2007), Marc Rowan (Apollo Global Managem..."
-last-updated: 2026-04-09
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 party: "Republican"
@@ -119,6 +119,16 @@ Walberg was "delighted" by Trump's executive order closing the Department of Edu
 | 2025 | ← POLICY | Introduces legislation to restructure NLRB (equal R/D members — dilutes pro-worker function) | — | — | — |
 | 2025 | ← POLICY | Supports right-to-work laws and efforts to "rein in" federal labor watchdog | — | — | — |
 | 2025 | ← NOTE | The union organizer's son now chairs the committee dismantling the organizing infrastructure his father built | — | — | — |
+
+---
+
+## Class Analysis
+
+Tim Walberg is the union organizer's son who chairs the committee dismantling organized labor. His father was a machinist and union organizer. Walberg worked at U.S. Steel South Works on Chicago's south side after high school. He now chairs the House Education and Workforce Committee, where he has introduced legislation to restructure the NLRB, opposes the PRO Act, and supports right-to-work laws that gut the collective bargaining infrastructure his father spent his career building.
+
+The donor class that purchased this transformation is identifiable by name. The DeVos family has given Walberg $76,700 or more since 2007, funding the school choice and education privatization agenda that Betsy DeVos spent decades building. Marc Rowan, the Apollo Global Management CEO, gave $21,000 in a single contribution in March 2025, months after Walberg became chair. Apollo owns Apollo Education Group, a for-profit college operator. The Apollo Education Group PAC followed up with $7,500 more. The private equity billionaire who profits from for-profit education gave $28,500 to the new chair of the committee that regulates for-profit education. That is a textbook gavel premium purchase.
+
+Walberg was "delighted" by Trump's executive order closing the Department of Education. The committee chair celebrated the potential elimination of the department his committee oversees. This tells you the function of the chairmanship: it exists not to strengthen education and worker protections but to systematically dismantle them from the inside. The DeVos family gets school vouchers that defund public schools. Marc Rowan gets a friendly regulator for for-profit colleges. Michigan workers get weaker organizing rights. The pastor from the Moody Bible Institute delivers the sermon. The billionaire donor class collects the offering.
 
 ---
 

@@ -2,9 +2,9 @@
 title: "Sam Graves"
 type: politician
 bioguide-id: "G000546"
-content-readiness: draft
+content-readiness: ready
 central-thesis: "Sam Graves chairs the largest committee in Congress — and every industry it regulates funds his campaigns. OpenSecrets data shows Graves as the #1 recipient of contributions from airlines, trucking, railroads, and air transport in the 2022 cycle, ..."
-last-updated: 2026-04-06
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 party: "Republican"
@@ -115,6 +115,16 @@ The T&I Committee jurisdiction-to-donor overlap is near-total. Aviation donors �
 | 2009 | ← NOTE | Failed to disclose financial link between wife and witness | — | — | — |
 | 2009 | ← ETHICS | OCE finds "substantial reason to believe appearance of conflict of interest was created" | — | — | — |
 | 2009 | ← CLEARED | House Ethics Committee ends investigation; finds no violation | — | — | — |
+
+---
+
+## Class Analysis
+
+Sam Graves is the toll collector on every road, rail line, and runway in America. As chair of the House Transportation and Infrastructure Committee, he oversees trillions in infrastructure spending across aviation, highways, transit, rail, pipelines, maritime transport, and the Army Corps of Engineers. OpenSecrets data shows Graves as the number one recipient of contributions from airlines, trucking, railroads, and air transport in the 2022 cycle, with top-three rankings in sea transport and construction services. Every transportation sector that his committee regulates funds his campaigns.
+
+The jurisdiction-to-donor overlap is near-total. Aviation PACs fund the chair who oversees FAA reauthorization. Trucking PACs fund the chair who oversees FMCSA regulation. Railroad PACs fund the chair who oversees FRA authorization. Construction firms fund the chair who controls highway and infrastructure procurement. There is no daylight between who funds Sam Graves and what his committee controls. PAC contributions made up $985,925 of his $1.4 million raised in the 2026 cycle, with individual contributions at just $315,311. The transportation industry is buying the committee, not the congressman.
+
+Graves brands himself as a Missouri farmer and small-government conservative. He chairs the committee that authorized the largest infrastructure spending in American history, $1.2 trillion under the Bipartisan Infrastructure Law. He is also a general aviation pilot who owns and restores vintage aircraft, chairing the committee that regulates FAA and general aviation while personally subject to that regulation. The "small government" framing applies to every budget item except the one his donors pay for. Infrastructure spending is always good for Missouri. It is only "big government" when it flows to someone else's district.
 
 ---
 

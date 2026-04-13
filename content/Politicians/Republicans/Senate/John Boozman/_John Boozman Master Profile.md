@@ -2,7 +2,7 @@
 title: "John Boozman"
 type: politician
 bioguide-id: "B001236"
-content-readiness: draft
+content-readiness: ready
 central-thesis: "John Boozman chairs the Senate Agriculture Committee while representing the state that houses Tyson Foods' headquarters. Tyson employees have donated over content-readiness: draft20,000 to his campaigns — his third-largest career donor source. His committee staff has m..."
 last-updated: 2026-04-13
 source-tier: 1
@@ -113,6 +113,14 @@ This is the Arkansas agricultural-industrial complex made senator. Boozman doesn
 | 2025-2026 | ← NOTE | AR has one of highest SNAP participation rates; Boozman's donor class (agribusiness) wants subsidy expansion; his constituents need SNAP protection | — | — | — |
 
 ---
+
+## Class Analysis
+
+John Boozman is the meatpacking industry's committee chair. He represents the state that houses Tyson Foods' headquarters. Tyson employees have donated over $120,000 to his campaigns, making them his third-largest career donor source. His policy director previously worked for the National Pork Producers Council. When fellow Republicans pushed to rein in meatpacking monopoly power, Boozman blocked it. The senator, the donors, the staff, and the policy all point in the same direction: protect the companies that dominate Arkansas's agricultural economy from federal regulation, especially the regulation his own committee is supposed to write.
+
+The Farm Bill is the mechanism. Boozman chairs the Senate Agriculture, Nutrition, and Forestry Committee, which writes the legislation governing American food policy. The Farm Bill is a $400-500 billion package, and roughly 80% of its spending goes to SNAP (food stamps), which feeds 42 million Americans. Arkansas has one of the highest SNAP participation rates in the country: one in seven Arkansans receives food assistance. Boozman's committee negotiations consistently prioritize farm subsidy expansion for his agribusiness donors over SNAP protection for his constituents. The senator representing one of the hungriest states in America writes the food policy that feeds them, and his donors are the corporations that profit from the food system. The subsidy architecture sends billions to large operations like Tyson and Riceland Foods. The SNAP cuts land on the families who work in Tyson's processing plants.
+
+The northwest Arkansas connection locks the donor map into place. Boozman's former House district contains both Tyson's headquarters in Springdale and Walmart's headquarters in Bentonville. These are the two largest private employers in Arkansas. Walmart employees and Tyson employees both appear in his donor rolls. The revolving door runs at the staff level: committee staff with meat industry lobbying backgrounds write the legislative language that governs their former employers' industry. This is not a senator captured by outside forces. This is a senator who emerged from the same economic ecosystem as his donors, staffed his committee with their former employees, and writes rules that serve the corporate agriculture complex that defines his state's economy. The optometrist from Rogers became the gatekeeper of American food policy, and the companies headquartered in his backyard got the committee chair they needed.
 
 ## Analytical Patterns
 

@@ -1,9 +1,9 @@
 ---
 title: "Bryan Steil"
 type: politician
-content-readiness: draft
+content-readiness: ready
 central-thesis: "Bryan Steil chairs the committee that writes federal election law — and his top donor sector is securities and investment ($721,840 in 2023-2024 alone), with Blackstone Group as a top individual donor ($56,500). Wall Street banks (Wells Fargo, Mor..."
-last-updated: 2026-04-10
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 party: "Republican"
@@ -120,6 +120,16 @@ Steil's election reform agenda — the "Make Elections Great Again" (MEGA) Act �
 | 2023 | ROLE | Steil named House Administration Chair — institutional power over election law | — | — | 5 years |
 | 2025-2026 | ← POLICY | Uses chairmanship to write election rules that advantage Republican candidates | — | — | — |
 | 2026 | ← NOTE | Ryan's protégé now controls the committee that writes the rules of American democracy. The succession wasn't just a seat — it was an institutional pipeline from Speaker's office to election-law gavel. | — | — | — |
+
+---
+
+## Class Analysis
+
+Bryan Steil chairs the committee that writes the rules of American democracy, and Wall Street pays for the privilege. Securities and investment firms gave Steil $721,840 in the 2023-2024 cycle alone, making it his top donor sector. Blackstone Group is his largest individual donor at $56,500. Wells Fargo, Morgan Stanley, Citigroup, BMO, Koch Industries, and Comcast all gave maximum PAC contributions. These are not donations to influence banking legislation. That is the Financial Services Committee's job. These are donations to the man who writes campaign finance law, ensuring the system that allows Wall Street to fund politicians remains intact.
+
+The meta-corruption is the profile's defining feature. Steil's House Administration Committee oversees FEC enforcement, campaign finance regulation, and election law. His committee launched an investigation into ActBlue, the Democratic donation platform, for alleged verification failures. His own campaign accepts maximum PAC donations from the same Wall Street institutions the campaign finance system was designed to regulate. The campaign finance cop is on the financial industry's payroll. The investigation targets how Democrats raise money while leaving the identical Republican fundraising infrastructure untouched.
+
+Steil is Paul Ryan's protege and successor. He worked as Ryan's aide in 2003, spent a decade as a corporate attorney for Wisconsin manufacturers, then won Ryan's seat when Ryan retired as Speaker in 2018. The succession was not just a congressional seat. It was an institutional pipeline from the Speaker's office to the election-law gavel. Steil's MEGA Act would require photo ID to vote, ban ranked choice voting, ban ballot harvesting, and ban universal mail-in voting. Every provision disproportionately restricts voting access for demographics that lean Democratic. Wall Street funds the chair who writes election rules. The rules make it harder for people who might vote against Wall Street's preferred candidates.
 
 ---
 

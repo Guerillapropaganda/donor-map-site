@@ -1,9 +1,9 @@
 ---
 title: "Carlos Gimenez"
 type: politician
-content-readiness: draft
+content-readiness: ready
 central-thesis: "Gimenez is the Miami infrastructure nexus — the politician whose donor base reveals the connection between South Florida real estate capital, defense contractors, and Cuba embargo enforcement. His documented donors include MasTec (content-readiness: draft1,200), Lennar..."
-last-updated: 2026-04-08
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 party: "Republican"
@@ -167,6 +167,16 @@ Gimenez's donor base is positioned for a specific future contingency: the end of
 3. **Maritime / logistics (Crowley):** Already operating through Mariel under Cuban military oversight. Embargo lift converts Crowley's existing Cuba presence into dominant market share.
 
 The public posture is maximalist anti-Castroism. The donor positioning is post-embargo accommodation. Both can be true simultaneously because the donors profit from the transition, not the status quo.
+
+---
+
+## Class Analysis
+
+Carlos Gimenez is the Miami infrastructure nexus, the politician whose Transportation Subcommittee chairmanship converts donor relationships into regulatory access. Lennar Corporation gave $28,000. NV2A gave $22,400. MasTec, the Mas Canosa family's infrastructure empire, gave $11,200. Combined, just three donor entities put $61,600 into the campaigns of the man who chairs oversight of federal highway funding, port security, maritime contracts, transit grants, and infrastructure permitting. These are the exact policy arenas his top donors operate in.
+
+The three-sector donor architecture maps perfectly to Gimenez's committee power. Florida real estate and construction money buys Transportation Subcommittee access. Sugar PACs from the American Sugar Cane League ($2,000) and Florida Sugar Cane League ($1,000) buy continued U.S. price supports for the Fanjul bloc. The Cuban-American exile donor base buys public embargo militance. All three sectors converge on a single structural outcome: Gimenez's oversight protects the donor class positioned to profit from both current Miami construction and post-embargo Cuban reconstruction contracts.
+
+The Crowley Maritime contradiction is the sharpest class signal. Crowley is a major DoD contractor with $2.3 billion in Defense Freight Transportation Services contracts and $343 million in Maritime Prepositioning Force contracts. Crowley has simultaneously operated cargo shipping through Cuba's Mariel Port under Cuban military oversight since 2001. Gimenez's 2023 Security Act targets Chinese operations in Caribbean ports but makes no mention of Crowley's Cuba operations. The anti-communist crusader wrote legislation that names the villain the exile base wants named while carving out the U.S. defense contractor already operating under the regime he publicly opposes. Public rhetoric to the exile base is maximalist embargo enforcement. Private donor positioning prepares for post-embargo reconstruction. The same career serves both audiences.
 
 ---
 

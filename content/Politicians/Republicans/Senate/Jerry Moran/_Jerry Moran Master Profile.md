@@ -1,9 +1,9 @@
 ---
 title: "Jerry Moran"
 type: politician
-content-readiness: draft
+content-readiness: ready
 central-thesis: "Jerry Moran chairs the Veterans' Affairs Committee while Koch Industries — headquartered in his state — is his second-largest career donor. The Koch network funds Concerned Veterans for America (CVA), the organization that has led the campaign to ..."
-last-updated: 2026-04-11
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 party: "Republican"
@@ -122,6 +122,14 @@ The aviation side completes the Kansas picture: Moran chairs the Commerce Subcom
 | 2025 | ← NOTE | Wichita produces more general aviation aircraft than anywhere on earth. Moran chairs the Aviation Subcommittee. His donors build the planes. His subcommittee regulates the industry. | — | — | — |
 
 ---
+
+## Class Analysis
+
+Jerry Moran is the Koch Network's man on veterans' healthcare. Koch Industries, headquartered in Wichita, is his second-largest career donor. The Koch network funds Concerned Veterans for America, the organization leading the campaign to privatize VA healthcare. Moran chairs the Veterans' Affairs Committee. The pipeline is three nodes: Koch funds CVA, Koch funds Moran, Moran chairs the committee. The policy output is "community care," which routes veterans out of the government-run VA system and into private healthcare providers. Every time Moran holds a hearing demanding the VA stop restricting community care referrals, he is implementing the Koch network's ideological project: prove government healthcare does not work, then replace it with private alternatives that generate profit.
+
+The framing is the key to the operation. "Veterans deserve choice" sounds like patient empowerment. In practice, it means defunding the VA system by redirecting billions to private providers. Kansas veterans who live hours from the nearest VA facility genuinely benefit from community care access. That genuine benefit is the cover for the structural goal: dismantling public veterans' healthcare as a functioning system. The Koch network does not care about individual veterans' appointments. It cares about establishing the precedent that government healthcare fails and private healthcare succeeds. Moran delivers that precedent from the committee chair, and the genuine access improvements for rural veterans make the privatization politically impossible to oppose.
+
+The aviation side completes the Kansas donor map. Moran chairs the Commerce Subcommittee on Aviation while representing the state that produces more general aviation aircraft than anywhere else in the world. Spirit AeroSystems, Textron Aviation, and Bombardier's Learjet division are all in Wichita. Sixty-five thousand aerospace jobs and $7 billion in annual economic output flow through Moran's subcommittee jurisdiction. Two committee chairs, two Kansas industries, one donor class. The Koch network gets VA privatization. The aviation industry gets regulatory protection. Kansas workers get the jobs that make both advocacy campaigns politically untouchable. Moran's entire committee portfolio is structured to serve the corporate interests headquartered in his state, and his donors are the corporations themselves.
 
 ## Analytical Patterns
 

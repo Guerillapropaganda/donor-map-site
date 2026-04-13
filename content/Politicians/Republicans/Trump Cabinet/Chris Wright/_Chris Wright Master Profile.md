@@ -1,9 +1,9 @@
 ---
 title: "Chris Wright Master Profile"
 type: politician
-content-readiness: draft
+content-readiness: ready
 central-thesis: "Chris Wright is regulatory capture without the middleman. Previous Energy Secretaries were politicians who served fossil fuel interests from a distance — Rick Perry, Ernest Moniz, Jennifer Granholm all maintained the fiction of separation between ..."
-last-updated: 2026-04-07
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 party: "Republican"
@@ -94,6 +94,16 @@ Chris Wright. Secretary of Energy (2025–present). Founder and CEO of Liberty E
 1. **The "climate realist":** Wright doesn't deny warming — he minimizes urgency. "Energy sobriety" reframes climate science as hysteria. The rhetorical function: create intellectual permission for inaction.
 2. **The humanitarian capitalist:** "Bettering Human Lives" — Liberty Energy's manifesto argues fossil fuels lifted billions from poverty. The framing: criticizing oil is criticizing human progress. The function: moral cover for regulatory capture.
 3. **The energy patriot:** "Golden era of American energy dominance." Energy independence as national security. The framing makes climate regulation look unpatriotic. The function: justify export acceleration that serves producer margins, not consumer prices.
+
+---
+
+## Class Analysis
+
+Chris Wright is regulatory capture without the middleman. Previous Energy Secretaries maintained the fiction of separation between industry and regulator. Rick Perry was a former governor who served oil interests. Ernest Moniz was a physicist who consulted for energy companies. Chris Wright was running a $4.3 billion fracking company the day before he was confirmed to regulate fracking. The fiction is gone. Liberty Energy fracs approximately 20% of all U.S. onshore wells. The Energy Secretary's policy agenda and Liberty Energy's business plan are the same document.
+
+The money trail is unusually direct. Wright personally contributed $528K to Trump ($228K to the Trump 47 Committee, $175K co-hosting a fundraiser, $100K to Koch's Americans for Prosperity Action). He wrote publicly that he and his wife "proudly stand with the Kochs." The oil and gas industry collectively invested $445 million in the 2024 election cycle ($96M direct to Trump, $80M in advertising, $243M in lobbying). Wright's $528K was the admission fee. In return, he got the Energy Department itself. Within weeks of confirmation, he reversed the LNG export pause his industry opposed, proposed cutting renewable energy research by 70% (removing the competition), and shifted national lab priorities toward nuclear and fossil fuels. Every decision benefits Liberty Energy, where Wright still held 2.6 to 3 million shares worth $40 to $53 million, with a 90-day divestiture window that allowed him to set policy before selling.
+
+The climate denial is the intellectual infrastructure for the financial interest. Wright told LinkedIn in January 2023 that "there is no climate crisis." Liberty Energy published a 180-page manifesto called "Bettering Human Lives" arguing fossil fuels lifted billions from poverty. The Union of Concerned Scientists responded that Wright "deliberately misrepresents climate data and research." The reframing of climate denial as "energy sobriety" and "climate realism" provides moral and intellectual cover for what is, at bottom, a fossil fuel CEO writing energy policy from inside the Energy Department. The $445 million industry investment bought exactly this: the regulator is the industry.
 
 ---
 
