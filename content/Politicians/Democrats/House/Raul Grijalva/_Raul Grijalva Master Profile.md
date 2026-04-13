@@ -233,7 +233,7 @@ The analytical significance is the contrast with his counterpart, Bruce Westerma
 **Recent bills sponsored:**
 
 - H.R. 2053: Stop Giving Big Oil Free Money Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 11, 2025. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-- H.R. 1865: Mining Waste, Fraud, and Abuse Prevention Act of 2025 — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 5, 2025. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- H.R. 1865: Mining Waste, misconduct, and Abuse Prevention Act of 2025 — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 5, 2025. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
 
 **Recent votes:**
 
@@ -242,7 +242,7 @@ The analytical significance is the contrast with his counterpart, Bruce Westerma
 | 2025-03-11 | H.J.Res. 25: Providing for congressional disapproval under chapter 8 of title 5,… | Not Voting | Passed |
 | 2025-03-11 | H.R. 1968: Full-Year Continuing Appropriations and Extensions Act, 2025 | Not Voting | Passed |
 | 2025-03-11 | On Motion to Recommit: H.R. 1968: Full-Year Continuing Appropriations and Extens… | Not Voting | Failed |
-| 2025-03-11 | H.R. 1156: Pandemic Unemployment Fraud Enforcement Act | Not Voting | Passed |
+| 2025-03-11 | H.R. 1156: Pandemic Unemployment misconduct Enforcement Act | Not Voting | Passed |
 | 2025-03-11 | H.Res. 211: Providing for consideration of the joint resolution (H.J. Res. 25) p… | Not Voting | Passed |
 | 2025-03-11 | On Ordering the Previous Question: H.Res. 211: Providing for consideration of th… | Not Voting | Passed |
 | 2025-03-10 | H.R. 993: Emerging Innovative Border Technologies Act | Not Voting | Passed |
@@ -259,7 +259,7 @@ The analytical significance is the contrast with his counterpart, Bruce Westerma
 |------|------|----------|--------|
 | 2025-03-11 | H.J.Res. 25: Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitt | **Not Voting** | Passed |
 | 2025-03-11 | H.R. 1968: Full-Year Continuing Appropriations and Extensions Act, 2025 | **Not Voting** | Passed |
-| 2025-03-11 | H.R. 1156: Pandemic Unemployment Fraud Enforcement Act | **Not Voting** | Passed |
+| 2025-03-11 | H.R. 1156: Pandemic Unemployment misconduct Enforcement Act | **Not Voting** | Passed |
 | 2025-03-11 | H.Res. 211: Providing for consideration of the joint resolution (H.J. Res. 25) providing for congressional disapproval u | **Not Voting** | Passed |
 | 2025-03-10 | H.R. 993: Emerging Innovative Border Technologies Act | **Not Voting** | Passed |
 | 2025-03-10 | H.R. 901: Research Security and Accountability in DHS Act | **Not Voting** | Passed |
@@ -286,7 +286,7 @@ The analytical significance is the contrast with his counterpart, Bruce Westerma
 
 | 2025-03-11 | H.J.Res. 25: Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitt | **Not Voting** | Passed |
 | 2025-03-11 | H.R. 1968: Full-Year Continuing Appropriations and Extensions Act, 2025 | **Not Voting** | Passed |
-| 2025-03-11 | H.R. 1156: Pandemic Unemployment Fraud Enforcement Act | **Not Voting** | Passed |
+| 2025-03-11 | H.R. 1156: Pandemic Unemployment misconduct Enforcement Act | **Not Voting** | Passed |
 | 2025-03-11 | H.Res. 211: Providing for consideration of the joint resolution (H.J. Res. 25) providing for congressional disapproval u | **Not Voting** | Passed |
 | 2025-03-10 | H.R. 993: Emerging Innovative Border Technologies Act | **Not Voting** | Passed |
 | 2025-03-10 | H.R. 901: Research Security and Accountability in DHS Act | **Not Voting** | Passed |

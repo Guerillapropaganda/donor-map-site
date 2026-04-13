@@ -52,7 +52,7 @@ Grassley brands himself as the Iowa farmer who still lives on the family farm. H
 
 Chuck Grassley is the gatekeeper of the federal judiciary and the pharmaceutical industry's most useful contradiction. He holds the single most powerful position in American judicial politics — Judiciary Committee chair — and has used it to reshape the federal bench for a generation. He blocked Merrick Garland's Supreme Court nomination for 293 days (the longest blockade in modern history), creating the vacancy that gave Trump his first Supreme Court pick. He shepherded Brett Kavanaugh through the most contested confirmation in decades.
 
-But Grassley is also a genuine whistleblower champion who has spent decades protecting government employees who expose fraud — often against the pharmaceutical and insurance industries that fund him. This isn't a contradiction that resolves neatly. Grassley really does fight for whistleblowers. He also really does take nearly $1 million from insurance and $1.4 million+ from pharma over his career while chairing the committee that confirms the judges who rule on their cases. The whistleblower work is real. The money is also real. Both coexist without canceling each other out.
+But Grassley is also a genuine whistleblower champion who has spent decades protecting government employees who expose misconduct — often against the pharmaceutical and insurance industries that fund him. This isn't a contradiction that resolves neatly. Grassley really does fight for whistleblowers. He also really does take nearly $1 million from insurance and $1.4 million+ from pharma over his career while chairing the committee that confirms the judges who rule on their cases. The whistleblower work is real. The money is also real. Both coexist without canceling each other out.
 
 ---
 
@@ -127,7 +127,7 @@ Grassley's son Robin has received over $1.4 million in USDA farm subsidies. Gras
 
 ## Analytical Patterns
 
-**Genuine Win + Structural Limit:** Grassley's whistleblower protection work is the genuine win — decades of real legislation protecting government employees who expose fraud. The structural limit: the judges he confirms through Judiciary undermine whistleblower protections through narrow rulings on standing, qualified immunity, and retaliation claims. Grassley builds the legislative framework and the judicial framework simultaneously, and the judicial framework wins in the long run.
+**Genuine Win + Structural Limit:** Grassley's whistleblower protection work is the genuine win — decades of real legislation protecting government employees who expose misconduct. The structural limit: the judges he confirms through Judiciary undermine whistleblower protections through narrow rulings on standing, qualified immunity, and retaliation claims. Grassley builds the legislative framework and the judicial framework simultaneously, and the judicial framework wins in the long run.
 
 **Donor-Class Override:** The Wyden-Grassley drug pricing bill is the clearest example. Grassley wrote a bipartisan bill to lower drug prices — a bill his Iowa constituents overwhelmingly support. McConnell, representing the same donor class that funds Grassley, killed it. The donor class overrode Grassley's own legislation through party leadership. Grassley got credit for trying. The donors got the outcome they paid for.
 

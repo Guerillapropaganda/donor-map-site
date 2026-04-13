@@ -132,7 +132,7 @@ His nuclear energy advocacy is the most authentic throughline — it directly se
 
 **Campaign Finance Violations (2016):** FEC investigated failure to report nearly $45,000 in in-kind contributions from a fundraiser. Paid $12,600 civil penalty. Also filed amended reports after complaint about free use of a lobbyist's Washington D.C. condo for 81 campaign events.
 
-**Campaign Investment Scheme:** Crapo staffer told FBI the senator gave permission for a $250,000 campaign investment into a get-rich-quick scheme.
+**Campaign Investment operation:** Crapo staffer told FBI the senator gave permission for a $250,000 campaign investment into a get-rich-quick operation.
 
 ---
 

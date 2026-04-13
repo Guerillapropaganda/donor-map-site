@@ -1,8 +1,8 @@
 ---
 title: "Coinbase"
 type: corporation
-content-readiness: draft
-last-updated: 2026-04-11
+content-readiness: ready
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 sector: "Tech & Crypto"
@@ -93,13 +93,13 @@ Coinbase's political spending flows through three channels: Coinbase PAC (direct
 
 ### The FTX Shadow
 
-Coinbase's political operation intensified after the collapse of FTX and the conviction of Sam Bankman-Fried — who had been the crypto industry's largest political donor before his fraud was exposed. Coinbase positioned itself as the "responsible" alternative: a publicly traded, regulated company that could be trusted with the industry's political advocacy. But Coinbase's policy agenda is identical to FTX's — the same deregulatory framework, the same CFTC preference, the same resistance to SEC oversight. The messenger changed; the message did not.
+Coinbase's political operation intensified after the collapse of FTX and the conviction of Sam Bankman-Fried — who had been the crypto industry's largest political donor before his misconduct was exposed. Coinbase positioned itself as the "responsible" alternative: a publicly traded, regulated company that could be trusted with the industry's political advocacy. But Coinbase's policy agenda is identical to FTX's — the same deregulatory framework, the same CFTC preference, the same resistance to SEC oversight. The messenger changed; the message did not.
 
 ---
 
 ### Class Analysis
 
-Coinbase is the crypto industry's political infrastructure. The company's $45 million Fairshake investment is not a donation — it is the purchase of a regulatory environment. The crypto industry's business model depends on operating outside the securities regulatory framework that governs traditional finance. Coinbase's political operation buys that exemption by funding candidates who will write it into law. The rhetoric frames this as "innovation" and "financial inclusion"; the material function is creating a parallel financial system where crypto companies can operate without the disclosure, consumer protection, and anti-fraud requirements that apply to banks and brokerages. The retail investors who use Coinbase bear the risks; the company and its venture capital backers capture the fees.
+Coinbase is the crypto industry's political infrastructure. The company's $45 million Fairshake investment is not a donation — it is the purchase of a regulatory environment. The crypto industry's business model depends on operating outside the securities regulatory framework that governs traditional finance. Coinbase's political operation buys that exemption by funding candidates who will write it into law. The rhetoric frames this as "innovation" and "financial inclusion"; the material function is creating a parallel financial system where crypto companies can operate without the disclosure, consumer protection, and anti-misconduct requirements that apply to banks and brokerages. The retail investors who use Coinbase bear the risks; the company and its venture capital backers capture the fees.
 
 ---
 
@@ -133,7 +133,7 @@ Coinbase is the crypto industry's political infrastructure. The company's $45 mi
 |--------|-------|
 | Federal Court Cases | 3,698 |
 | Courts | District Court, D. Nevada, District Court, D. New Jersey, District Court, D. South Carolina, District Court, E.D. Michigan, District Court, E.D. New York, District Court, E.D. Tennessee, District Court, E.D. Virginia, District Court, M.D. Alabama +6 more |
-| Case Types | 370 Other Fraud, 380 Personal Property: Other, 690 Forfeit/Penalty: Other, 840 Trademark, Racketeer/compromised Organization |
+| Case Types | 370 Other misconduct, 380 Personal Property: Other, 690 Forfeit/Penalty: Other, 840 Trademark, Racketeer/compromised Organization |
 
 **Notable cases:**
 - United States v. 6.03910214 BTC From Coinbase Account xxxxxxxxxxxxxxxxxxx5668e In The Name Of Linda Winder (2026) — District Court, E.D. Tennessee

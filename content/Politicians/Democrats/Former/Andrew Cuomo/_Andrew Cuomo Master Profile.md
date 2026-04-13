@@ -34,7 +34,7 @@ None yet. Potential sub-notes: Real estate donor network, COVID nursing home dea
 
 ## Who They Are
 
-Andrew Cuomo (born December 6, 1957, New York) served as the 56th Governor of New York (2011–2021), NY Attorney General (2007–2010), and HUD Secretary under Clinton (1997–2001). He resigned as governor in August 2021 amid sexual harassment allegations from 11 women. He attempted a political comeback in 2025 with a NYC mayoral campaign — lost the Democratic primary to Zohran Mamdani, then lost the general election running on his independent "Fight and Deliver" party line (Mamdani ~47–50%, Cuomo 25–31%). Estimated net worth: $10–14M. A DOJ criminal probe into his COVID-era nursing home testimony opened in May 2025.
+Andrew Cuomo (born December 6, 1957, New York) served as the 56th Governor of New York (2011–2021), NY Attorney General (2007–2010), and HUD Secretary under Clinton (1997–2001). He resigned as governor in August 2021 amid sexual harassment allegations from 11 women. He attempted a political comeback in 2025 with a NYC mayoral campaign — lost the Democratic primary to Zohran Mamdani, then lost the general election running on his independent "Fight and Deliver" party line (Mamdani ~47–50%, Cuomo 25–31%). Estimated net worth: $10–14M. A DOJ unlawful probe into his COVID-era nursing home testimony opened in May 2025.
 
 ---
 

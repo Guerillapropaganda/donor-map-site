@@ -65,7 +65,7 @@ In 2022, Koch's network won a Supreme Court victory (overturning Chevron deferen
 
 ### THE DONOR FUNCTION: EACH AGENCY, THE SPECIFIC CONSTRAINT BEING REMOVED
 
-The IRS enforcement collapse is the clearest example. The Trump administration pulled roughly 25 percent of IRS staff between January and May 2025. The Global High Wealth office tasked with auditing billionaires lost 38 percent of its staff within weeks. referrals against the ultrawealthy and big corporations dropped 63 percent. By mid 2026, the Large Business and International division was referring zero cases of ultrawealthy tax cheating to criminal investigators. Wealthy tax cheats benefit directly. The constraint being removed is the capacity to audit them. Schedule F provides the personnel mechanism.
+The IRS enforcement collapse is the clearest example. The Trump administration pulled roughly 25 percent of IRS staff between January and May 2025. The Global High Wealth office tasked with auditing billionaires lost 38 percent of its staff within weeks. referrals against the ultrawealthy and big corporations dropped 63 percent. By mid 2026, the Large Business and International division was referring zero cases of ultrawealthy tax cheating to unlawful investigators. Wealthy tax cheats benefit directly. The constraint being removed is the capacity to audit them. Schedule F provides the personnel mechanism.
 
 The EPA has been running on skeleton crews with career people instructed to step back from environmental enforcement. The reclassification accelerates this. CFPB enforcement has been dismantled (the agency transferred all active litigation to the Department of Justice by December 2025). The NLRB had its budget slashed after Trump took office. The SEC had enforcement actions drop by 50 percent in the first months of the administration.
 
@@ -92,7 +92,7 @@ Schedule F provides the mechanism to place the people who will execute the plan.
 
 ### THE CLASS ANALYSIS: THE "DEEP STATE" AS CODE FOR REGULATIONS ON CAPITAL
 
-The political narrative calls career civil servants the "deep state" or the "administrative state." This is the villain frame. It disguises what the servant class actually does: they enforce regulations that constrain capital. Environmental rules constrain resource extraction. Labor rules constrain wage suppression. Tax enforcement constrains wealth accumulation. Consumer financial rules constrain predatory lending. Securities rules constrain fraud.
+The political narrative calls career civil servants the "deep state" or the "administrative state." This is the villain frame. It disguises what the servant class actually does: they enforce regulations that constrain capital. Environmental rules constrain resource extraction. Labor rules constrain wage suppression. Tax enforcement constrains wealth accumulation. Consumer financial rules constrain predatory lending. Securities rules constrain misconduct.
 
 These are not shadowy bureaucrats protecting themselves. They are people hired to enforce laws that the donor class has long opposed. The solution in a normal democracy is to change the laws through legislation. The solution under Schedule F is to staff the agencies with people who will ignore the laws. The constraint dissolves. The law remains. Enforcement stops.
 

@@ -26,7 +26,7 @@ donors: [[_Donald Trump Master Profile]]
 
 | Date | Event |
 |------|-------|
-| 2013 | NY AG files fraud lawsuit against Trump University |
+| 2013 | NY AG files misconduct lawsuit against Trump University |
 | March 2013 | Bondi's office announces review of whether to join NY AG lawsuit |
 | March 2013 | $25,000 Trump Foundation → "And Justice for All" (Bondi PAC), 4 days after announcement |
 | 2013 | Bondi declines to pursue investigation |
@@ -43,7 +43,7 @@ The students Trump University defrauded in Florida never received the restitutio
 
 The Trump University case wasn't an anomaly. It was the model:
 
-**Lender Processing Services (LPS):** Bondi received thousands in donations from LPS and affiliates while her office was investigating the company for robo-signing foreclosure fraud. In 2013, she fired two attorneys — Clarkson and Edwards — who had presented evidence that LPS employees were falsifying documents for JPMorgan Chase.
+**Lender Processing Services (LPS):** Bondi received thousands in donations from LPS and affiliates while her office was investigating the company for robo-signing foreclosure misconduct. In 2013, she fired two attorneys — Clarkson and Edwards — who had presented evidence that LPS employees were falsifying documents for JPMorgan Chase.
 
 After firing the investigators: "The Florida attorney general's office never issued another subpoena to any foreclosure mill or associated target."
 

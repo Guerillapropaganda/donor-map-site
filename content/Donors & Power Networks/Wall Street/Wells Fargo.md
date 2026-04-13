@@ -101,7 +101,7 @@ The needs-reenrichment flag has been set. The next scheduled pipeline run will p
 
 Wells Fargo & Company. The fourth-largest US bank by assets ($1.9 trillion, 2024), headquartered in San Francisco with major operations in Charlotte, North Carolina. Wells Fargo operates primarily in consumer banking, mortgage lending, and wealth management, serving 70+ million customers. PAC contributions: $2-3 million per cycle. Lobbying spending: $5-8 million annually.
 
-Wells Fargo's political significance was permanently altered by the 2016 fake accounts scandal: the bank created 3.5 million unauthorized customer accounts to meet aggressive sales targets, resulting in a $3 billion DOJ/SEC settlement, Congressional hearings, the firing of CEO John Stumpf, and an unprecedented Federal Reserve asset cap ($1.95 trillion) that remains in place. The scandal is the vault's clearest example of a systemically important bank whose internal incentive structure produced mass consumer fraud.
+Wells Fargo's political significance was permanently altered by the 2016 fake accounts scandal: the bank created 3.5 million unauthorized customer accounts to meet aggressive sales targets, resulting in a $3 billion DOJ/SEC settlement, Congressional hearings, the firing of CEO John Stumpf, and an unprecedented Federal Reserve asset cap ($1.95 trillion) that remains in place. The scandal is the vault's clearest example of a systemically important bank whose internal incentive structure produced mass consumer misconduct.
 
 - [OpenSecrets: Wells Fargo organizational profile](https://www.opensecrets.org/orgs/wells-fargo/summary?id=D000019743) (Tier 1)
 
@@ -115,7 +115,7 @@ Removal of the Federal Reserve asset cap (which limits Wells Fargo's growth), re
 
 ### What They've Gotten
 
-**Regulatory Survival:** Despite creating 3.5 million fake accounts, Wells Fargo survived as a going concern. No senior executive faced prosecution for the fraud. The $3 billion settlement was significant but not existential for a bank earning $13+ billion annually. The asset cap — the most consequential punishment — has been maintained but is widely expected to be lifted as the bank demonstrates compliance with remediation requirements.
+**Regulatory Survival:** Despite creating 3.5 million fake accounts, Wells Fargo survived as a going concern. No senior executive faced prosecution for the misconduct. The $3 billion settlement was significant but not existential for a bank earning $13+ billion annually. The asset cap — the most consequential punishment — has been maintained but is widely expected to be lifted as the bank demonstrates compliance with remediation requirements.
 
 **CFPB Weakening:** The broader banking industry's successful campaign to weaken the CFPB — through Trump-era leadership changes, court challenges, and congressional funding attacks — benefits Wells Fargo disproportionately. The CFPB was the primary federal agency that could have detected and prevented the fake accounts scandal earlier; weakening the CFPB reduces the likelihood of similar enforcement actions in the future.
 
@@ -324,7 +324,7 @@ Removal of the Federal Reserve asset cap (which limits Wells Fargo's growth), re
 - Notice of Charges: 1
 - GLBA Agreement: 1
 
-**Subject areas (2012+):** Fraud/Forgery; Insider Issues; Theft / Misappropriation of Funds; Violation Cited (Criminal Statute); BSA Internal Controls; BSA Pillar Violation / 12 CFR 21.21(d); BSA Risk Assessment; BSA Training; BSA Violation Cited; BSA/AML; Customer/Enhanced Due Diligence (CDD/EDD); Sales Practices
+**Subject areas (2012+):** misconduct/Forgery; Insider Issues; Theft / Misappropriation of Funds; Violation Cited (statute); BSA Internal Controls; BSA Pillar Violation / 12 CFR 21.21(d); BSA Risk Assessment; BSA Training; BSA Violation Cited; BSA/AML; Customer/Enhanced Due Diligence (CDD/EDD); Sales Practices
 
 **Still-active enforcement actions:**
 

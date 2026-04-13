@@ -138,8 +138,8 @@ Tenet's PAC contributions are bipartisan by design — the company funds whoever
 
 | Date | Recipient/Target | Amount | Policy Return | Time Gap |
 |------|-----------------|--------|---------------|----------|
-| 2006 | DOJ settlement — Medicare outlier fraud | $900M settlement | Tenet continued operating; no debarment from federal programs despite systematic Medicare fraud | N/A — penalty |
-| 2016 | DOJ settlement — Clinica de la Mama kickback arrangement | $513M ($368M civil + $145M criminal) | Two subsidiaries pled guilty; Georgia recovered $100M+; Tenet continued operating and receiving federal funds | N/A — penalty |
+| 2006 | DOJ settlement — Medicare outlier misconduct | $900M settlement | Tenet continued operating; no debarment from federal programs despite systematic Medicare misconduct | N/A — penalty |
+| 2016 | DOJ settlement — Clinica de la Mama payoff arrangement | $513M ($368M civil + $145M unlawful) | Two subsidiaries pled guilty; Georgia recovered $100M+; Tenet continued operating and receiving federal funds | N/A — penalty |
 | 2018–2019 | Partnership for America's Health Care Future | ~$630,000 | Coalition ran national ad campaign opposing Medicare for All; no single-payer legislation advanced past committee | 6–12 months |
 | 2022 | Federal lobbying (Congress, CMS) | $2.33M lobbying spend | Medicaid DSH cuts delayed again; site-neutral payment reforms did not advance in 117th Congress | 0–12 months |
 | 2023 | Federal lobbying — H.R.972/S.312, S.2840 | $2.36M lobbying spend | Outpatient Surgery Quality and Access Act did not pass; favorable status quo maintained for hospital outpatient reimbursement rates | Ongoing |
@@ -162,12 +162,12 @@ Tenet's PAC contributions are bipartisan by design — the company funds whoever
 - Tenet completed its pivot to ambulatory surgery centers: USPI now operates 535+ facilities generating higher margins than inpatient hospitals
 - Divested nine hospitals in 2024 for $3 billion in after-tax proceeds while lobbying to maintain the payment structures those hospitals depended on
 - Stock price increased from ~$20 (2020) to over $150 (2024) as the ASC pivot generated returns
-- Despite $1.4 billion+ in cumulative fraud settlements, Tenet was never debarred from Medicare or Medicaid — the company continued receiving billions in federal healthcare payments
+- Despite $1.4 billion+ in cumulative misconduct settlements, Tenet was never debarred from Medicare or Medicaid — the company continued receiving billions in federal healthcare payments
 
 ### What didn't happen:
-- No debarment from federal programs despite serial fraud — the DOJ settlements included criminal guilty pleas by subsidiaries but no systemic consequences for the parent company's federal program participation
+- No debarment from federal programs despite serial misconduct — the DOJ settlements included unlawful guilty pleas by subsidiaries but no systemic consequences for the parent company's federal program participation
 - No comprehensive site-neutral payment reform — the CBO-estimated $157 billion in Medicare savings remains unrealized
-- No structural reform to the for-profit hospital billing model that Tenet's fraud history demonstrates is prone to systematic exploitation
+- No structural reform to the for-profit hospital billing model that Tenet's misconduct history demonstrates is prone to systematic exploitation
 
 ---
 
@@ -179,7 +179,7 @@ The structural function operates on three levels:
 
 **Level 1 — Revenue extraction:** Tenet's business model depends on the gap between the cost of delivering care and the price the government and private insurers pay. Every lobbying dollar protects this gap: opposing site-neutral payments maintains the higher hospital outpatient rates; defending 340B preserves the pharmacy pricing spread; blocking DSH cuts maintains supplemental Medicaid payments. The $2-3 million annual lobbying investment protects $20+ billion in annual revenue.
 
-**Level 2 — Fraud as business strategy:** Tenet's $1.4 billion+ in fraud settlements are not aberrations — they are the predictable result of a business model that incentivizes maximizing reimbursement from government programs. The 2006 Medicare outlier scheme ($900M), the 2016 Clinica de la Mama kickback operation ($513M), and the 2015 unnecessary cardiac monitor implants ($1.41M) all exploited the same payment systems Tenet lobbies to maintain. The settlements function as a cost of doing business: Tenet pays a fraction of what it extracted, continues operating, and returns to lobbying for the same payment structures.
+**Level 2 — misconduct as business strategy:** Tenet's $1.4 billion+ in misconduct settlements are not aberrations — they are the predictable result of a business model that incentivizes maximizing reimbursement from government programs. The 2006 Medicare outlier operation ($900M), the 2016 Clinica de la Mama payoff operation ($513M), and the 2015 unnecessary cardiac monitor implants ($1.41M) all exploited the same payment systems Tenet lobbies to maintain. The settlements function as a cost of doing business: Tenet pays a fraction of what it extracted, continues operating, and returns to lobbying for the same payment structures.
 
 **Level 3 — Portfolio optimization as political arbitrage:** Tenet's simultaneous strategy of lobbying to protect hospital payment structures while divesting hospitals and pivoting to ASCs represents political arbitrage. The company lobbies to maintain the reimbursement environment that maximizes the sale price of its hospital assets, then reinvests the proceeds in ambulatory surgery centers where margins are higher and regulatory exposure is lower. The political operation protects the value of assets Tenet is selling — the buyers inherit the lobbying dependency.
 

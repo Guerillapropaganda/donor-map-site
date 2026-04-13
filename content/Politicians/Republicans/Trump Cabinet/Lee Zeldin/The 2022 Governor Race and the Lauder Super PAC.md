@@ -57,7 +57,7 @@ The real estate donor base reflects Zeldin's Long Island district (NY-1) and his
 
 ### The Crime Messaging Strategy
 
-Zeldin's near-upset was driven by public safety messaging: near-daily press conferences outside NYC subway stations on violent crime, promise to declare a "crime emergency" on day one, suspension of "pro-criminal" laws. The strategy closed an 18.4-point Hochul lead to a 6.4-point final margin.
+Zeldin's near-upset was driven by public safety messaging: near-daily press conferences outside NYC subway stations on violent crime, promise to declare a "crime emergency" on day one, suspension of "pro-unlawful" laws. The strategy closed an 18.4-point Hochul lead to a 6.4-point final margin.
 
 > [!contradiction]
 > The crime messaging was effective but disconnected from the donor base's interests. The real estate donors who funded Zeldin benefit from stable property values, which depend on both public safety and environmental quality. Now as EPA Administrator, Zeldin dismantles the environmental protections that affect property values, air quality, and water safety in the same New York metro area where his donors hold real estate. The 2022 donor base funded a crime candidate; they got an anti-environment EPA administrator. The donors' short-term political investment (beating Hochul) failed; their long-term class interest (deregulation) succeeded through the EPA appointment.

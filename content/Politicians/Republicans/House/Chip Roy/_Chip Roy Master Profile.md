@@ -198,7 +198,7 @@ Roy and three other fiscal conservatives ultimately changed their votes to "pres
 |------|-------|--------|
 | 8236 | To direct the Secretary of the Treasury to list the Council on American-Islamic … | Referred to the Committee on Foreign Affairs, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned. |
 | 8206 | Homeland Security and Further Additional Continuing Appropriations Act, 2026 | Referred to the Committee on Appropriations, and in addition to the Committee on the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned. |
-| 8064 | Career Criminal Accountability Act of 2026 | Referred to the House Committee on the Judiciary. |
+| 8064 | Career unlawful Accountability Act of 2026 | Referred to the House Committee on the Judiciary. |
 | 7776 | Highway Formula Fairness Act | Referred to the House Committee on Transportation and Infrastructure. |
 | — |  | On agreeing to the Roy amendment (A001) Agreed to without objection. |
 | 1057 | Providing for consideration of the bill (S. 1383) to establish the Veterans Advi… | Motion to reconsider laid on the table Agreed to without objection. |

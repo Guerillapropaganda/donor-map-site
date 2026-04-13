@@ -1,9 +1,9 @@
 ---
 title: "French Hill"
 type: politician
-content-readiness: draft
+content-readiness: ready
 central-thesis: "French Hill exists to translate Wall Street's regulatory wish list into committee action. His entire professional biography — commercial banking analyst, Senate Banking Committee staffer, Treasury Department official, community bank founder and CE..."
-last-updated: 2026-04-10
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 party: "Republican"
@@ -151,7 +151,7 @@ Hill's committee passed a 30-bill deregulatory package (26–16) focused on redu
 
 **Revolving Door (EXTREME):** Hill's entire identity is the revolving door. He did not move between sectors — he is the sector. A career banker now chairs the committee that regulates banking. This is the most structurally complete revolving door case in the vault.
 
-**Genuine Win + Structural Limit:** FIT21 delivers real regulatory clarity for crypto — a genuine policy win. But it stops short of robust consumer protection, anti-fraud enforcement, or anti-money-laundering mechanisms that would constrain industry profitability. The win is real; the limit protects donor margins.
+**Genuine Win + Structural Limit:** FIT21 delivers real regulatory clarity for crypto — a genuine policy win. But it stops short of robust consumer protection, anti-misconduct enforcement, or anti-money-laundering mechanisms that would constrain industry profitability. The win is real; the limit protects donor margins.
 
 **Villain Framing:** Hill consistently frames the CFPB as an "unaccountable agency" and Dodd-Frank as failed regulation — external villains blamed for problems created by the financial industry itself. The structural reality: his donors benefit from deregulation, and he delivers it while pointing at regulators.
 

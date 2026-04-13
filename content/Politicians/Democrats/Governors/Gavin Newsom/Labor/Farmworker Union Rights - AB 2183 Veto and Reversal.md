@@ -21,7 +21,7 @@ California's farmworkers are among the most economically vulnerable workers in t
 ### AB 2183 — The Bill
 AB 2183 would have allowed farmworkers to vote in union elections by mail rather than only at the worksite. The intent was to remove employer surveillance from the voting process and make it safer for workers to exercise their legal right to organize.
 
-The UFW, [[SEIU - Service Employees International Union|SEIU]], and the [[California Labor Federation|California Labor Federation]] all supported it. Agricultural employers — particularly large growers — opposed it, arguing mail ballots created fraud risks.
+The UFW, [[SEIU - Service Employees International Union|SEIU]], and the [[California Labor Federation|California Labor Federation]] all supported it. Agricultural employers — particularly large growers — opposed it, arguing mail ballots created misconduct risks.
 
 The bill passed the legislature with strong support.
 
@@ -95,11 +95,11 @@ The modified AB 2183 is a genuine win — farmworkers get safer union voting con
 
 #### The Villain Framing
 
-The villain in the ag industry frame is "fraud risk" — the claim that mail ballots create election integrity problems. This is the reframe that allowed the veto: it's not "I'm protecting ag growers," it's "I have legitimate procedural concerns." After public pressure, Newsom adds safeguards (state certification) and signs a modified version. The villain has been reframed from "ag industry" to "procedural gaps," allowing a solution that both sides can accept.
+The villain in the ag industry frame is "misconduct risk" — the claim that mail ballots create election integrity problems. This is the reframe that allowed the veto: it's not "I'm protecting ag growers," it's "I have legitimate procedural concerns." After public pressure, Newsom adds safeguards (state certification) and signs a modified version. The villain has been reframed from "ag industry" to "procedural gaps," allowing a solution that both sides can accept.
 
 #### The Two-Audience Problem
 
-To farmworkers and labor advocates, Newsom can claim he fought for mail-ballot rights (true, eventually). To agricultural employers, he can claim he insisted on certification procedures that protect against fraud (framing that redefines the issue). The modification allows both readings: the bill passed (labor win) but with safeguards (employer concern addressed).
+To farmworkers and labor advocates, Newsom can claim he fought for mail-ballot rights (true, eventually). To agricultural employers, he can claim he insisted on certification procedures that protect against misconduct (framing that redefines the issue). The modification allows both readings: the bill passed (labor win) but with safeguards (employer concern addressed).
 
 #### The Veto-and-Reversal as Political Pressure Response
 

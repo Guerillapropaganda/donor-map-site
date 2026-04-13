@@ -1,9 +1,9 @@
 ---
 title: "Alexander Acosta Master Profile"
 type: politician
-content-readiness: draft
+content-readiness: ready
 central-thesis: "Acosta is the vault's clearest example of the Federalist Society pipeline producing consequences that extend beyond judicial philosophy. His appointment as Labor Secretary was a product of the same network — Federalist Society membership, Republic..."
-last-updated: 2026-04-08
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 party: "Republican"
@@ -107,7 +107,7 @@ The defense lawyers who negotiated the plea deal represent the intersection of l
 | Jay Lefkowitz | Former Bush domestic policy advisor | Lead negotiator with Acosta's office |
 | Kenneth Starr | Former Solicitor General; led Clinton impeachment investigation | Joined Epstein defense team |
 | Alan Dershowitz | Harvard Law professor; O.J. Simpson defense team | Epstein defense; later accused by Epstein victims (denied) |
-| Gerald Lefcourt | Criminal defense attorney | Signed letter seeking leniency for Epstein |
+| Gerald Lefcourt | defense attorney | Signed letter seeking leniency for Epstein |
 | Roy Black | High-profile Miami defense attorney | Joined defense team |
 
 The legal firepower assembled for Epstein's defense was extraordinary and reflected his wealth and connections. A federal prosecutor's office facing this team would face significant institutional pressure — but the resulting deal exceeded what even experienced defense attorneys might have expected.

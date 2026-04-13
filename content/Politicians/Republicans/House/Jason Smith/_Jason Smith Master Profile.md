@@ -182,7 +182,7 @@ On trade, he adopts Trump's protectionist language — "treating countries how t
 - H.R. 6500: AGOA Extension Act — *Provisions of this bill were incorporated into other bills which were enacted, so there will not likely be further activity on this bill.*
 - H.R. 6599: Leasing and Infrastructure Act of 2025 — *This bill is in the first stage of the legislative process. It was introduced into Congress on December 10, 2025. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
 - H.Res. 212: Returning Senate Joint Resolution 3 to the Senate. — *This simple resolution was agreed to on March 11, 2025. That is the end of the legislative process for a simple resolution.*
-- H.R. 1156: Pandemic Unemployment Fraud Enforcement Act — *This bill passed in the House on March 11, 2025 and goes to the Senate next for consideration.*
+- H.R. 1156: Pandemic Unemployment misconduct Enforcement Act — *This bill passed in the House on March 11, 2025 and goes to the Senate next for consideration.*
 - H.Res. 109: Providing amounts for the expenses of the Committee on Ways and Means in the One Hundred Nineteenth Congress. — *This resolution is in the first stage of the legislative process. It was introduced into Congress on February 5, 2025. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
 
 **Recent votes:**
@@ -277,7 +277,7 @@ On trade, he adopts Trump's protectionist language — "treating countries how t
 | 6599 | Leasing and Infrastructure Act of 2025 | Committee Hearings Held |
 | 6500 | AGOA Extension Act | Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 320. |
 | 212 | Returning Senate Joint Resolution 3 to the Senate. | Motion to reconsider laid on the table Agreed to without objection. |
-| 1156 | Pandemic Unemployment Fraud Enforcement Act | Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 29. |
+| 1156 | Pandemic Unemployment misconduct Enforcement Act | Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 29. |
 | 109 | Providing amounts for the expenses of the Committee on Ways and Means in the One… | Referred to the House Committee on House Administration. |
 | 591 | Defending American Jobs and Investment Act | Referred to the Committee on Ways and Means, and in addition to the Committee on Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned. |
 | 33 | To amend the Internal Revenue Code of 1986 to provide special rules for the taxa… | Received in the Senate and Read twice and referred to the Committee on Finance. |

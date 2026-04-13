@@ -33,7 +33,7 @@ donors: [[AIPAC - American Israel Public Affairs Committee|AIPAC]]
 
 ## Who He Is
 
-Robert "Bob" Menendez. Former U.S. Senator from New Jersey (D). Resigned August 2024 after conviction on 16 federal counts including bribery, extortion, acting as an unregistered foreign agent (Egypt and Qatar), conspiracy, and honest services fraud. Began serving an 11-year prison sentence in June 2025. Previously served as Chairman of the Senate Foreign Relations Committee — the most powerful committee position for shaping U.S. foreign policy, including Cuba policy.
+Robert "Bob" Menendez. Former U.S. Senator from New Jersey (D). Resigned August 2024 after conviction on 16 federal counts including bribery, extortion, acting as an unregistered foreign agent (Egypt and Qatar), conspiracy, and honest services misconduct. Began serving an 11-year prison sentence in June 2025. Previously served as Chairman of the Senate Foreign Relations Committee — the most powerful committee position for shaping U.S. foreign policy, including Cuba policy.
 
 OpenSecrets CID: N00000699.
 
@@ -96,7 +96,7 @@ He opposed Obama-Castro normalization (2014), calling it "a reward that a totali
 | 2006-2024 | NorPAC, AIPAC, pro-Israel PACs | $90,550+ NorPAC alone | SFRC used to oppose JCPOA, protect Israel aid, block Palestine-related nominations | Continuous |
 | 2014 | Cuba exile community + AIPAC network | Career investment | Menendez publicly opposes Obama-Cuba normalization; uses SFRC to obstruct engagement | Immediate |
 | 2018-2022 | Egyptian government/businessmen | Cash + gold bars + Mercedes | Senate influence on Grand Ethiopian Renaissance Dam; Egyptian military aid protection | Concurrent |
-| 2013-2017 | Salomon Melgen | $750K+ contributions + luxury gifts | Senate intervention in Melgen's Medicare billing ($8.9M fraud), DR port contract, visa for girlfriends | Ongoing |
+| 2013-2017 | Salomon Melgen | $750K+ contributions + luxury gifts | Senate intervention in Melgen's Medicare billing ($8.9M misconduct), DR port contract, visa for girlfriends | Ongoing |
 | 2021-2024 | Qatar (unregistered agent) | Undisclosed | Senate influence on Qatar-favorable positions | Concurrent with SFRC chairmanship |
 
 > [!money] The Corruption Premium

@@ -164,6 +164,16 @@ OSF operates within a broader ecosystem of Democratic mega-donor funding:
 - **Working Families Party** — OSF-influenced independent political organization
 - **[[Democracy Alliance|Democracy Alliance]]** — Donor coordination club for major Democratic funders
 
+## Class Analysis
+
+Open Society Foundations represents the clearest example of billionaire-directed progressive politics in America. George Soros built a $32 billion endowment that funds progressive prosecutors, voting rights organizations, and judicial selection infrastructure. The spending is real: $50 million on district attorney races alone, $60 million through Democracy PAC in the 2024 cycle, and $40 million annually on voting rights. None of this is small money. But all of it operates within a framework that Soros himself defines.
+
+The structural problem is not that Open Society Foundations funds "radical" causes, as the right claims. The structural problem is that one billionaire's philanthropic apparatus sets the terms of progressive justice policy nationally. When OSF funds Larry Krasner or Kim Foxx, it creates a professional class of progressive prosecutors, nonprofit diversion program operators, and reform-oriented lawyers. These are real jobs with real budgets. They are also jobs that exist at the pleasure of a single donor's endowment, not democratic mandate. When Chesa Boudin was recalled in San Francisco, the OSF infrastructure kept running. Policy direction is set by donor capacity, not by the communities affected.
+
+OSF is the mirror of Stand Together. Koch money funds deregulation through the language of freedom. Soros money funds professional progressivism through the language of justice. Both leave capital concentration untouched. The $32 billion endowment generates returns that fund the apparatus that defines what "reform" means. That definition never includes structural redistribution of the wealth that created the endowment in the first place. The progressive prosecutors reduce incarceration rates slightly. The voting rights organizations expand ballot access. But the economic system that produces the poverty, the crime, and the disenfranchisement remains outside the scope of what Open Society Foundations will fund.
+
+The donor class needs its progressive wing. OSF provides it, professionally managed, generously staffed, and carefully bounded to ensure the billionaire class that funds it is never the target of the reform it sponsors.
+
 ### Sources
 
 - [Open Society Foundations — Wikipedia](https://en.wikipedia.org/wiki/Open_Society_Foundations) (Tier 2)

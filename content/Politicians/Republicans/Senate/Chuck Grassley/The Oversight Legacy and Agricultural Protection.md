@@ -21,7 +21,7 @@ donors: [[ADM - Archer Daniels Midland]] [[Cargill]] [[John Deere]]
 
 Chuck Grassley has built a 40+ year Senate career on two brands: agricultural protector and government oversight hawk. As former Judiciary Committee chair and current president pro tempore, Grassley has championed whistleblower protection legislation, inspector general independence, and congressional oversight of the executive branch. His oversight work has genuine substance — the Grassley-Wyden whistleblower protections have shielded thousands of government and corporate whistleblowers.
 
-The selective application: Grassley's oversight enthusiasm applies robustly to government waste, fraud in social programs, and executive branch overreach. It applies weakly or not at all to agricultural industry practices, ethanol subsidies, crop insurance fraud, and the concentrated power of agribusiness corporations that dominate Iowa's economy.
+The selective application: Grassley's oversight enthusiasm applies robustly to government waste, misconduct in social programs, and executive branch overreach. It applies weakly or not at all to agricultural industry practices, ethanol subsidies, crop insurance misconduct, and the concentrated power of agribusiness corporations that dominate Iowa's economy.
 
 ---
 

@@ -210,11 +210,11 @@ This is the key analytical section for Koum. His pattern exemplifies how tech fo
 |--------|-------|
 | Federal Court Cases | 50 |
 | Courts | District Court, D. Delaware, District Court, N.D. California, District Court, N.D. Georgia, District Court, S.D. Florida, District Court, S.D. New York, District Court, W.D. Texas |
-| Case Types | 320 Assault Libel & Slander, 360 P.I.: Other, 370 Other Fraud, 440 Civil Rights: Other, 442 Civil Rights: Jobs |
+| Case Types | 320 Assault Libel & Slander, 360 P.I.: Other, 370 Other misconduct, 440 Civil Rights: Other, 442 Civil Rights: Jobs |
 
 **Notable cases:**
 - Dawson v. Meta Platforms, Inc. (2026) — District Court, N.D. California
-- In Re: JAN KOUM Application of JAN KOUM for an Order Pursuant to 28 U.S.C. 1782 to Conduct Discovery for Use in a Foreign Criminal Proceeding Against Remi Tessier and Dernier Etage SARL. (2025) — District Court, S.D. New York
+- In Re: JAN KOUM Application of JAN KOUM for an Order Pursuant to 28 U.S.C. 1782 to Conduct Discovery for Use in a Foreign unlawful Proceeding Against Remi Tessier and Dernier Etage SARL. (2025) — District Court, S.D. New York
 - Baig v. Meta Platforms, Inc. (2025) — District Court, N.D. California
 - Sun v. Bloomberg, L.P. (2025) — District Court, D. Delaware
 - AbouYabis v. Emory University (2025) — District Court, N.D. Georgia

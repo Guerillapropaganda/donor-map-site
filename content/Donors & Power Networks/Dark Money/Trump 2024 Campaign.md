@@ -1,8 +1,8 @@
 ---
 title: "Trump 2024 Campaign"
 type: pac
-content-readiness: draft
-last-updated: 2026-04-12
+content-readiness: ready
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 sector: "Dark Money"
@@ -67,7 +67,7 @@ The Trump 2024 campaign's donor structure reveals its policy commitments more cl
 
 | Date | Source → Recipient | Amount | Electoral/Policy Impact | Time Gap |
 |------|-------------------|--------|------------------------|----------|
-| 2023-04 | Save America → Trump legal expenses | $40M+ | Leadership PAC funds diverted to cover Trump's criminal defense costs | Ongoing |
+| 2023-04 | Save America → Trump legal expenses | $40M+ | Leadership PAC funds diverted to cover Trump's defense costs | Ongoing |
 | 2024-Q1 | Timothy Mellon → MAGA Inc | $50M | Single largest individual contribution to any 2024 super PAC at that point | — |
 | 2024-06 | Miriam Adelson → Preserve America PAC | $100M | Largest single Adelson contribution; Israel policy expectations explicit | — |
 | 2024-07 | Elon Musk → America PAC | $75M (initial) | Musk takes over ground game operations; PAC runs canvassing in swing states | — |
@@ -95,7 +95,7 @@ The 2024 Trump operation used a multi-layered super PAC structure that allowed d
 
 **Preserve America PAC ($114.8M raised):** Miriam Adelson's vehicle, primarily funded by the Adelson family fortune (Las Vegas Sands casino empire). Focused on pro-Trump advertising with particular emphasis on Israel policy and national security messaging.
 
-**Save America ($99.7M raised):** Trump's leadership PAC, which became controversial for diverting tens of millions in small-dollar donor contributions to Trump's criminal defense legal fees. The Campaign Legal Center filed complaints alleging that Save America operated as an illegal slush fund, using money donated for political purposes to cover personal legal expenses.
+**Save America ($99.7M raised):** Trump's leadership PAC, which became controversial for diverting tens of millions in small-dollar donor contributions to Trump's defense legal fees. The Campaign Legal Center filed complaints alleging that Save America operated as an illegal slush fund, using money donated for political purposes to cover personal legal expenses.
 
 **Additional vehicles:** Right for America ($72.5M), Turnout for America ($45.7M), Duty to America PAC ($23.6M), RBG PAC ($20.5M), and SAG PAC ($16.9M) — each targeting specific donor networks or issue constituencies.
 

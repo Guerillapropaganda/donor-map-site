@@ -31,7 +31,7 @@ Thune has been described as "one of the telecom industry's policy protagonists" 
 - Opposed Obama-era FCC net neutrality rules (2015)
 - Voted against Congressional Review Act resolution to restore net neutrality
 - Led 40+ colleagues opposing Biden FCC's reinstatement of net neutrality rules (2024)
-- Criticized "heavy-handed net neutrality scheme"
+- Criticized "heavy-handed net neutrality operation"
 - Proposed "bipartisan legislative approach" instead of FCC regulation — a framing that delays action indefinitely while ISPs operate without rules
 
 The $928,000+ in ISP donations purchased a senator who frames deregulation as moderation. The "bipartisan" alternative he proposes has never materialized in 10 years of promises — because the absence of regulation IS the policy his donors want.

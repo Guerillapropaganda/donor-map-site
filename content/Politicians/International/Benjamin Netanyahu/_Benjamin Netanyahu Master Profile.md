@@ -1,9 +1,9 @@
 ---
 title: "Benjamin Netanyahu Master Profile"
 type: politician
-content-readiness: draft
+content-readiness: ready
 central-thesis: "Netanyahu's political life reveals what donor-first class analysis predicts: politicians are not puppets but agents serving a donor class that controls the material conditions of their political survival. American mega-donor money is not periphera..."
-last-updated: 2026-04-07
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 chamber: "International"
@@ -32,7 +32,7 @@ donors: [[Miriam Adelson]], [[Haim Saban]], [[AIPAC - American Israel Public Aff
 
 ## Who He Is
 
-Benjamin Netanyahu. Prime Minister of Israel (1996–1999, 2009–2021, 2022–present). Leader of Likud Party. Currently on trial for bribery, fraud, and breach of trust in three separate misconduct cases. Political survival depends on a triangular power structure: American mega-donor money ($106M from [[Miriam Adelson|Miriam Adelson]] to Trump alone), Israeli media monopoly (Israel Hayom at 27.4% readership), and U.S. government protection (military aid, UN vetoes, diplomatic immunity). The architect of a governance model where state regulatory power becomes a commodity traded for media coverage and donor enrichment.
+Benjamin Netanyahu. Prime Minister of Israel (1996–1999, 2009–2021, 2022–present). Leader of Likud Party. Currently on trial for bribery, misconduct, and breach of trust in three separate misconduct cases. Political survival depends on a triangular power structure: American mega-donor money ($106M from [[Miriam Adelson|Miriam Adelson]] to Trump alone), Israeli media monopoly (Israel Hayom at 27.4% readership), and U.S. government protection (military aid, UN vetoes, diplomatic immunity). The architect of a governance model where state regulatory power becomes a commodity traded for media coverage and donor enrichment.
 
 ---
 

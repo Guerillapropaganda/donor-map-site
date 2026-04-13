@@ -137,7 +137,7 @@ Steil's election reform agenda — the "Make Elections Great Again" (MEGA) Act �
 
 ## Rhetorical Signature Moves
 
-**"Election integrity"** — The framing that makes voting restrictions sound like fraud prevention. The function: position restrictions on who can vote as protection of the vote's value rather than suppression of eligible voters.
+**"Election integrity"** — The framing that makes voting restrictions sound like misconduct prevention. The function: position restrictions on who can vote as protection of the vote's value rather than suppression of eligible voters.
 
 **"Make Elections Great Again"** — The Trump-branded election law package. The function: align election law changes with the MAGA movement's narrative that elections are rigged, justifying restrictions as corrections.
 

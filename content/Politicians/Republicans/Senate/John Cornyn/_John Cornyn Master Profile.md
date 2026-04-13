@@ -2,7 +2,7 @@
 title: "John Cornyn"
 type: politician
 bioguide-id: "C001056"
-content-readiness: draft
+content-readiness: ready
 central-thesis: "John Cornyn is the Texas corporate establishment's Senate operator — a reliable legislative mechanic for oil and gas deregulation, defense spending, financial services preferences, and judicial confirmations who functions as the institutional coun..."
 last-updated: 2026-04-13
 source-tier: 1
@@ -332,7 +332,7 @@ The gun bill is the exception that proves the rule. The Bipartisan Safer Communi
 | — |  | Amendment SA 4707 agreed to in Senate by Unanimous Consent. |
 | 4123 | End Special Treatment for Congress at Airports Act of 2026 | Held at the desk. |
 | 4117 | Federal Law Enforcement Officer Service Weapon Purchase Act of 2026 | Read twice and referred to the Committee on the Judiciary. |
-| 4078 | Stop Somali CASH Fraud Act | Read twice and referred to the Committee on Banking, Housing, and Urban Affairs. |
+| 4078 | Stop Somali CASH misconduct Act | Read twice and referred to the Committee on Banking, Housing, and Urban Affairs. |
 | — |  | Amendment SA 5115 agreed to in Senate by Unanimous Consent. |
 
 - [Source: Congress.gov](https://www.congress.gov/member/C001056) (Tier 1)

@@ -870,7 +870,7 @@ Generated 2026-03-25. Every search/query URL in the vault that should be upgrade
 - [ ] **Politicians/Republicans/Trump Cabinet/Stephen Miller/_Stephen Miller Master Profile.md** (line 189)
   - Label: NBC News: Cabinet officials voted on family separation
   - URL: `https://www.nbcnews.com/politics/immigration/trump-cabinet-officials-voted-2018-white-house-meeting-separate-migrant-n1237416`
-- [ ] **Politicians/Republicans/Trump Cabinet/Steve Bannon/The Goldman-to-Fraud Pipeline and the Conviction Record.md** (line 100)
+- [ ] **Politicians/Republicans/Trump Cabinet/Steve Bannon/The Goldman-to-misconduct Pipeline and the Conviction Record.md** (line 100)
   - Label: NBC News: NY guilty plea
   - URL: `https://www.nbcnews.com/search?q=Goldman-to-Fraud%20Pipeline%20and%20the%20Conviction%20Record`
 - [ ] **Politicians/Republicans/Trump Cabinet/Steve Bannon/_Steve Bannon Master Profile.md** (line 97)
@@ -1758,7 +1758,7 @@ Generated 2026-03-25. Every search/query URL in the vault that should be upgrade
 - [ ] **Politicians/Republicans/Trump Cabinet/Scott Bessent/The Trump Fundraiser Pipeline and Wall Street Nomination Battle.md** (line 85)
   - Label: NPR: Bessent nomination
   - URL: `https://www.npr.org/search?q=Trump%20Fundraiser%20Pipeline%20and%20Wall%20Street%20Nomination%20Battle`
-- [ ] **Politicians/Republicans/Trump Cabinet/Steve Bannon/The Goldman-to-Fraud Pipeline and the Conviction Record.md** (line 101)
+- [ ] **Politicians/Republicans/Trump Cabinet/Steve Bannon/The Goldman-to-misconduct Pipeline and the Conviction Record.md** (line 101)
   - Label: NPR: We Build the Wall sentencing
   - URL: `https://www.npr.org/search?q=Goldman-to-Fraud%20Pipeline%20and%20the%20Conviction%20Record`
 - [ ] **Politicians/Republicans/Trump Cabinet/Steve Bannon/The Mercer Investment and the Construction of Populist Infrastructure.md** (line 80)
@@ -1842,7 +1842,7 @@ Generated 2026-03-25. Every search/query URL in the vault that should be upgrade
 - [ ] **Politicians/Republicans/Trump Cabinet/Stephen Miller/The Immigration Policy Architecture from Sessions to Mass Deportation.md** (line 74)
   - Label: Washington Post: Miller's influence on immigration policy
   - URL: `https://www.washingtonpost.com/search?q=Immigration%20Policy%20Architecture%20from%20Sessions%20to%20Mass%20Deportation`
-- [ ] **Politicians/Republicans/Trump Cabinet/Steve Bannon/The Goldman-to-Fraud Pipeline and the Conviction Record.md** (line 98)
+- [ ] **Politicians/Republicans/Trump Cabinet/Steve Bannon/The Goldman-to-misconduct Pipeline and the Conviction Record.md** (line 98)
   - Label: Washington Post: Deconstruction of administrative state
   - URL: `https://www.washingtonpost.com/search?q=Goldman-to-Fraud%20Pipeline%20and%20the%20Conviction%20Record`
 - [ ] **Politicians/Republicans/Trump Cabinet/Steve Bannon/The Mercer Investment and the Construction of Populist Infrastructure.md** (line 78)
@@ -2046,7 +2046,7 @@ Generated 2026-03-25. Every search/query URL in the vault that should be upgrade
 - [ ] **Politicians/Republicans/Trump Cabinet/Doug Burgum/The 20 Dollar Gift Card Campaign and the Self-Funding Architecture.md** (line 75)
   - Label: Axios: Burgum VP consideration
   - URL: `https://www.axios.com/results?q=20%20Dollar%20Gift%20Card%20Campaign%20and%20the%20Self-Funding%20Architecture`
-- [ ] **Politicians/Republicans/Trump Cabinet/Steve Bannon/The Goldman-to-Fraud Pipeline and the Conviction Record.md** (line 102)
+- [ ] **Politicians/Republicans/Trump Cabinet/Steve Bannon/The Goldman-to-misconduct Pipeline and the Conviction Record.md** (line 102)
   - Label: Axios: $750K Breitbart salary
   - URL: `https://www.axios.com/results?q=Goldman-to-Fraud%20Pipeline%20and%20the%20Conviction%20Record`
 - [ ] **Politicians/Republicans/Trump Cabinet/Vivek Ramaswamy/The 32-Day DOGE Tenure and the Musk Divorce.md** (line 117)
@@ -2424,7 +2424,7 @@ Generated 2026-03-25. Every search/query URL in the vault that should be upgrade
 - [ ] **Politicians/Republicans/Trump Cabinet/Scott Bessent/The Trump Fundraiser Pipeline and Wall Street Nomination Battle.md** (line 86)
   - Label: TIME: CEOs cheering Bessent pick
   - URL: `https://time.com/?q=Trump%20Fundraiser%20Pipeline%20and%20Wall%20Street%20Nomination%20Battle`
-- [ ] **Politicians/Republicans/Trump Cabinet/Steve Bannon/The Goldman-to-Fraud Pipeline and the Conviction Record.md** (line 103)
+- [ ] **Politicians/Republicans/Trump Cabinet/Steve Bannon/The Goldman-to-misconduct Pipeline and the Conviction Record.md** (line 103)
   - Label: TIME: Seinfeld earnings estimates
   - URL: `https://time.com/?q=Goldman-to-Fraud%20Pipeline%20and%20the%20Conviction%20Record`
 - [ ] **Politicians/Republicans/Trump Cabinet/Vivek Ramaswamy/The 32-Day DOGE Tenure and the Musk Divorce.md** (line 112)
@@ -2697,7 +2697,7 @@ Generated 2026-03-25. Every search/query URL in the vault that should be upgrade
 
 ## thielfellowship.org (3 URLs)
 
-- [ ] **Politicians/Republicans/Presidential/JD Vance/Hillbilly Elegy and the Class Fraud.md** (line 164)
+- [ ] **Politicians/Republicans/Presidential/JD Vance/Hillbilly Elegy and the Class misconduct.md** (line 164)
   - Label: Thiel Fellowship: Official program materials
   - URL: `https://thielfellowship.org/?q=Hillbilly%20Elegy%20and%20the%20Class%20Fraud`
 - [ ] **Politicians/Republicans/Presidential/JD Vance/The Thiel Pipeline - From Yale to VP.md** (line 145)
@@ -3958,7 +3958,7 @@ Generated 2026-03-25. Every search/query URL in the vault that should be upgrade
 ## www.criminallegalnews.org (1 URLs)
 
 - [ ] **Donors & Power Networks/Law Enforcement/PORAC - Peace Officers Research Association of California.md** (line 92)
-  - Label: Criminal Legal News: PORAC LDF analysis
+  - Label: unlawful Legal News: PORAC LDF analysis
   - URL: `https://www.criminallegalnews.org/?q=PORAC`
 
 ## followthemoney.org (1 URLs)

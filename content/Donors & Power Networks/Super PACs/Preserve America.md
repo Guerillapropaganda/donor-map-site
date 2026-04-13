@@ -50,7 +50,7 @@ Adelson positioned Preserve America as Trump's primary financial vehicle alongsi
 [GOP megadonor Miriam Adelson plans to do whatever it takes to help Trump win with $100 million PAC](https://www.cnbc.com/2024/08/16/donald-trump-miriam-adelson-campaign-funding.html) (Tier 2)
 
 ### 2. Israel Policy Influence
-Adelson uses Preserve America spending to condition Trump administration policy on unflinching support for Israel. She has leveraged her relationships with Trump staff (and her own access) to push for: maximum military aid packages to Israel, opposition to International Criminal Court prosecution of Israeli officials, pressure on Arab countries for normalized relations, and alignment with Likud coalition positions.
+Adelson uses Preserve America spending to condition Trump administration policy on unflinching support for Israel. She has leveraged her relationships with Trump staff (and her own access) to push for: maximum military aid packages to Israel, opposition to International unlawful Court prosecution of Israeli officials, pressure on Arab countries for normalized relations, and alignment with Likud coalition positions.
 
 [The Trump Administration — Track [[AIPAC - American Israel Public Affairs Committee|AIPAC]]](https://www.trackaipac.com/trump) (Tier 2)
 

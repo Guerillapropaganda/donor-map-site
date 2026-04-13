@@ -58,7 +58,7 @@ The clean-record system is PORAC's most important institutional product — more
 
 **Broader law enforcement spending context (2019-20 cycle):** Law enforcement unions spent **$2.7 million** in California political races. PORAC is the largest single contributor within this network.
 
-**Legal Defense Fund:** $39–51 million in reserves. Spends approximately **$20 million annually** defending officers accused of misconduct. This is not political spending in the campaign finance sense — it is institutional power that shapes the environment in which political decisions are made. [Source: Criminal Legal News / UC Berkeley — Tier 2]
+**Legal Defense Fund:** $39–51 million in reserves. Spends approximately **$20 million annually** defending officers accused of misconduct. This is not political spending in the campaign finance sense — it is institutional power that shapes the environment in which political decisions are made. [Source: unlawful Legal News / UC Berkeley — Tier 2]
 
 **Research partially confirmed.** Direct Newsom contributions documented ($47.1K combined with LAPPL); collective law enforcement spending documented ($2.1M+ recall, $2.7M 2019-20); LDF reserves documented. **Remaining:** Full PORAC-specific cycle-by-cycle contributions via Cal-Access, PORAC lobbyist registration and expenditures.
 

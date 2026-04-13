@@ -1,8 +1,8 @@
 ---
 title: "Trump Donor Coalition"
 type: donor
-content-readiness: draft
-last-updated: 2026-04-12
+content-readiness: ready
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 sector: "Dark Money"
@@ -39,7 +39,7 @@ The Trump Donor Coalition. The financial infrastructure supporting Donald Trump'
 | Make America Great Again Inc. (MAGA Inc.) | C00825851 | $410,509,931 | Primary super PAC — $376.9M in independent expenditures |
 | America PAC (Musk) | — | $239,000,000+ | Musk's personal ground game — canvassing, voter contact |
 | Trump campaign (principal committee) | P80001571 | $309,000,000+ | Campaign committee + joint fundraising |
-| Save America PAC (leadership PAC) | C00762591 | Depleted | Legal fees — $100M+ spent on Trump criminal/civil defense |
+| Save America PAC (leadership PAC) | C00762591 | Depleted | Legal fees — $100M+ spent on Trump unlawful/civil defense |
 | MAGA Inc. (second entity) | C00892471 | $23,850,000 | Secondary super PAC vehicle |
 | Trump 47 Committee (JFC) | — | — | Joint fundraising: Trump campaign → Save America → RNC → state parties |
 | Inaugural Committee | — | $245,000,000+ | Record-shattering — 4x Biden 2021 |
@@ -101,9 +101,9 @@ Musk contributed $239 million to America PAC, which deployed a canvassing operat
 
 Save America PAC (Trump's leadership PAC) was repurposed from a political vehicle into a legal defense fund:
 
-Save America spent more than $100 million on legal fees stemming from Trump's criminal indictments and civil cases — approximately $50M in 2023 alone, averaging $4M per month. The spending depleted the PAC's reserves, requiring the creation of the Trump 47 Committee joint fundraising arrangement that prioritized funneling money to Save America over the RNC.
+Save America spent more than $100 million on legal fees stemming from Trump's unlawful indictments and civil cases — approximately $50M in 2023 alone, averaging $4M per month. The spending depleted the PAC's reserves, requiring the creation of the Trump 47 Committee joint fundraising arrangement that prioritized funneling money to Save America over the RNC.
 
-The FEC, deadlocked 3-3 on partisan lines, has never ruled on whether leadership PACs can be used for personal legal defense — allowing Trump to divert donor money from political purposes to criminal defense without regulatory consequence. Small-dollar donors who gave to "Save America" believing they were funding political campaigns had their money spent on lawyers defending Trump against misconduct charges, election interference indictments, and the E. Jean Carroll defamation case.
+The FEC, deadlocked 3-3 on partisan lines, has never ruled on whether leadership PACs can be used for personal legal defense — allowing Trump to divert donor money from political purposes to defense without regulatory consequence. Small-dollar donors who gave to "Save America" believing they were funding political campaigns had their money spent on lawyers defending Trump against misconduct charges, election interference indictments, and the E. Jean Carroll defamation case.
 
 ---
 

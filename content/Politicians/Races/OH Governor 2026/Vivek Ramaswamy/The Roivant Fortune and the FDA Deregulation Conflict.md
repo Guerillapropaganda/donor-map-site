@@ -69,8 +69,8 @@ Before founding Roivant, Ramaswamy was a partner at QVT Financial (2007–2014),
 Ramaswamy's position on Shkreli:
 - Called Shkreli "brilliant" in public interviews
 - Called him a "pathological liar" in other contexts (no explanation for the contradiction)
-- Criticized the DOJ for prosecuting Shkreli, characterizing his fraud as "victimless"
-- The fraud in question: Retrophin accounting manipulation that artificially inflated asset values
+- Criticized the DOJ for prosecuting Shkreli, characterizing his misconduct as "victimless"
+- The misconduct in question: Retrophin accounting manipulation that artificially inflated asset values
 
 The pipeline: hedge fund biotech speculation (QVT, 2007-2014) → biotech entrepreneurship (Roivant, 2014+) → pharmaceutical deregulation advocacy (Trump DOGE, 2024-25) → pharmaceutical deregulation politics (Ohio governor, FDA gutting platform). Each stage serves the same class interest — pharma industry profit maximization without regulatory constraint — while the political brand evolves from Wall Street insider to "anti-establishment populist."
 
@@ -152,7 +152,7 @@ Who benefits from capital gains tax elimination? Primarily people with capital g
 
 ## Analytical Patterns
 
-**The Founder-Investor Wealth Transfer:** Ramaswamy has repeatedly used the same pattern: identify failing pharma assets (Axovant, others), create entities to develop them, raise capital from investors, sell personal shares before results, let the company fail after he's extracted wealth. This is not fraud (legally) — it's the allowed structure of venture capital. But the economic function is wealth transfer from investors to founders.
+**The Founder-Investor Wealth Transfer:** Ramaswamy has repeatedly used the same pattern: identify failing pharma assets (Axovant, others), create entities to develop them, raise capital from investors, sell personal shares before results, let the company fail after he's extracted wealth. This is not misconduct (legally) — it's the allowed structure of venture capital. But the economic function is wealth transfer from investors to founders.
 
 **The Regulatory Capture Playbook:** Each stage of Ramaswamy's career has positioned him closer to regulatory power over his own industry. QVT (influence over biotech). Roivant (founder of biotech). Strive (investor activist opposing regulation). DOGE (government position with no execution). Ohio governor (state-level deregulation). Each position serves the same material interest.
 

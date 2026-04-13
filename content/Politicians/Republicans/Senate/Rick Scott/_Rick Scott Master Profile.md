@@ -63,7 +63,7 @@ donors: Healthcare Industry · [[Fanjul Family - Florida Crystals]]
 
 ## Who He Is
 
-Rick Scott. Senior Senator from Florida (2019–present). Former Governor of Florida (2011–2019). Former CEO of Columbia/HCA — the company that committed the largest Medicare fraud in U.S. history ($1.7 billion settlement, 14 felonies). Invoked the Fifth Amendment 75 times in deposition. Departure package: $370M+. Self-funded $152M+ across campaigns. Net worth: $200–300M (wealthiest member of Congress). NRSC chair 2022 (spent 95% of $181.5M before general election). Wife Ann Scott's portfolio: 550+ investment items, Cayman Islands hedge funds, tech giants.
+Rick Scott. Senior Senator from Florida (2019–present). Former Governor of Florida (2011–2019). Former CEO of Columbia/HCA — the company that committed the largest Medicare misconduct in U.S. history ($1.7 billion settlement, 14 felonies). Invoked the Fifth Amendment 75 times in deposition. Departure package: $370M+. Self-funded $152M+ across campaigns. Net worth: $200–300M (wealthiest member of Congress). NRSC chair 2022 (spent 95% of $181.5M before general election). Wife Ann Scott's portfolio: 550+ investment items, Cayman Islands hedge funds, tech giants.
 
 ---
 
@@ -83,7 +83,7 @@ Rick Scott. Senior Senator from Florida (2019–present). Former Governor of Flo
 ## Donor Class Map
 
 ### The Fraud Fortune:
-- [[Columbia-HCA and the Largest Medicare Fraud in History]] — $1.7B settlement, 14 felonies. Scott: $9.88M settlement, $5.1M severance, $4.75M consulting, $350M+ stock. Fifth Amendment 75 times. Never personally charged. The golden parachute funded every subsequent campaign. The fraud was the origin of the political career.
+- [[Columbia-HCA and the Largest Medicare misconduct in History]] — $1.7B settlement, 14 felonies. Scott: $9.88M settlement, $5.1M severance, $4.75M consulting, $350M+ stock. Fifth Amendment 75 times. Never personally charged. The golden parachute funded every subsequent campaign. The misconduct was the origin of the political career.
 
 ### The Self-Funded Purchase:
 - The Self-Funded Billionaire Model and Florida Inc. — $152M+ self-funded across campaigns. 2018: $63.6M (75% of total). Big Sugar: Fanjul $39.3K, "Let's Get to Work" PAC $1M+. "Blind trust" was blind in name only (NYT). 550+ investment items. Cayman Islands hedge funds. STOCK Act violation ($450K unreported sale). Wealthiest member of Congress with no meaningful conflict-of-interest protections.
@@ -108,7 +108,7 @@ Scott's legislative record on healthcare is the most direct conflict of interest
 - **Voted against ACA subsidies** (Florida has 4.7M marketplace consumers — most of any state)
 - **Proposed sunsetting Medicare** in "Plan to Rescue America" (disavowed by McConnell)
 - **Opposed Inflation Reduction Act** (drug pricing negotiation)
-- **"More Affordable Care Act"** — his alternative framework, drafted by the man who ran the company that committed $1.7B in Medicare fraud
+- **"More Affordable Care Act"** — his alternative framework, drafted by the man who ran the company that committed $1.7B in Medicare misconduct
 
 > [!money]
 > The man who stole $1.7 billion from Medicare now writes healthcare legislation. The irony isn't accidental — it's structural. Scott's healthcare positions (reduce ACA, sunset Medicare, oppose drug pricing negotiation) all serve the healthcare industry's revenue interests. The same industry that generated his $370M fortune through fraudulent billing benefits from the deregulatory agenda he pursues in the Senate. Scott didn't reform after the fraud — he entered politics to continue the same project at a legislative level.
@@ -117,14 +117,14 @@ Scott's legislative record on healthcare is the most direct conflict of interest
 
 ## Donation-to-Policy Timeline
 
-*Note: Scott is like Manchin — the senator IS the donor. His $370M+ fortune derived from Columbia/HCA, which committed the largest Medicare fraud in U.S. history ($1.7B settlement). The man who stole from Medicare now writes healthcare legislation.*
+*Note: Scott is like Manchin — the senator IS the donor. His $370M+ fortune derived from Columbia/HCA, which committed the largest Medicare misconduct in U.S. history ($1.7B settlement). The man who stole from Medicare now writes healthcare legislation.*
 
 #### Self-Funded Model (HCA Fraud Fortune)
 
 | Date | Donor | Amount | Given | Policy Outcome |
 |------|-------|--------|-------|----------------|
 | 2010-2018 | Scott self-funds with HCA-derived fortune — Columbia/HCA: 14 felonies, $1.7B settlement, Scott invoked Fifth Amendment 75 times | $75M self-funded (governor 2010) | 2009-2010 | Governor Scott expands Medicaid privatization, cuts public health spending, opposes Medicaid expansion under ACA — every healthcare vote serves the industry that generated his fortune |
-| 2018 | Scott self-funds Senate race; healthcare PACs supplement | $64M self-funded + $2M+ healthcare sector | 2018 | Enters Senate with healthcare industry alignment; the man convicted of Medicare fraud now regulates Medicare |
+| 2018 | Scott self-funds Senate race; healthcare PACs supplement | $64M self-funded + $2M+ healthcare sector | 2018 | Enters Senate with healthcare industry alignment; the man convicted of Medicare misconduct now regulates Medicare |
 
 #### Healthcare / Pharmaceutical Industry
 
@@ -150,20 +150,20 @@ Scott's legislative record on healthcare is the most direct conflict of interest
 
 ## Class Analysis
 
-Rick Scott does not represent the donor class's capture of politics. He represents the donor class's direct occupation of politics. Most senators receive money from industries they regulate. Scott IS the industry. He was CEO of Columbia/HCA when the company committed the largest Medicare fraud in U.S. history: $1.7 billion in settlements, 14 felony convictions. Scott invoked the Fifth Amendment 75 times in deposition. He was never personally charged. His departure package: over $370 million in stock, severance, and consulting fees. That fortune funded every subsequent campaign.
+Rick Scott does not represent the donor class's capture of politics. He represents the donor class's direct occupation of politics. Most senators receive money from industries they regulate. Scott IS the industry. He was CEO of Columbia/HCA when the company committed the largest Medicare misconduct in U.S. history: $1.7 billion in settlements, 14 felony convictions. Scott invoked the Fifth Amendment 75 times in deposition. He was never personally charged. His departure package: over $370 million in stock, severance, and consulting fees. That fortune funded every subsequent campaign.
 
-The causal chain is unusually clean. Scott self-funded $152 million across his political campaigns, $63.6 million in 2018 alone (75% of his total). The money that bought the governorship and the Senate seat came directly from the company that stole $1.7 billion from Medicare. He now votes on Medicare policy. He proposed sunsetting all federal legislation, including Medicare and Social Security, in his "Plan to Rescue America." He votes against ACA subsidies in a state with 4.7 million marketplace consumers, more than any state in the country. The fraud funded the fortune. The fortune funded the campaigns. The campaigns purchased the votes. The votes threaten the programs he already stole from.
+The causal chain is unusually clean. Scott self-funded $152 million across his political campaigns, $63.6 million in 2018 alone (75% of his total). The money that bought the governorship and the Senate seat came directly from the company that stole $1.7 billion from Medicare. He now votes on Medicare policy. He proposed sunsetting all federal legislation, including Medicare and Social Security, in his "Plan to Rescue America." He votes against ACA subsidies in a state with 4.7 million marketplace consumers, more than any state in the country. The misconduct funded the fortune. The fortune funded the campaigns. The campaigns purchased the votes. The votes threaten the programs he already stole from.
 
-Scott's wife Ann holds a portfolio of 550+ investment items, including Cayman Islands hedge funds and major tech holdings. His "blind trust" was blind in name only, according to the New York Times. He violated the STOCK Act with a $450,000 unreported sale. He is the wealthiest member of Congress with no meaningful conflict-of-interest protections. Every vote he casts on healthcare, taxation, or financial regulation directly affects his personal holdings. Scott does not need to be bought by the donor class because he already is the donor class. The fraud was not the prelude to his political career. The fraud was the business model. Politics is the continuation.
+Scott's wife Ann holds a portfolio of 550+ investment items, including Cayman Islands hedge funds and major tech holdings. His "blind trust" was blind in name only, according to the New York Times. He violated the STOCK Act with a $450,000 unreported sale. He is the wealthiest member of Congress with no meaningful conflict-of-interest protections. Every vote he casts on healthcare, taxation, or financial regulation directly affects his personal holdings. Scott does not need to be bought by the donor class because he already is the donor class. The misconduct was not the prelude to his political career. The misconduct was the business model. Politics is the continuation.
 
 ---
 
 ## Rhetorical Signature Moves
 
-1. **The businessman:** "I'm a businessman, not a politician." The business was healthcare fraud. The businessman became the politician with fraud proceeds. The frame erases the origin story.
+1. **The businessman:** "I'm a businessman, not a politician." The business was healthcare misconduct. The businessman became the politician with misconduct proceeds. The frame erases the origin story.
 2. **The tax cutter:** Scott's signature gubernatorial achievement was cutting taxes and regulations. Every tax cut benefited his own $200–300M portfolio. The "business-friendly" agenda is self-service.
 3. **The plan:** "11 Point Plan to Rescue America" (2022) — proposed sunsetting all federal legislation every five years. The plan was so extreme McConnell publicly disavowed it. But it served Scott's political brand: radical enough to generate national media coverage, populist enough to appeal to the MAGA base.
-4. **The comeback:** Scott has never been held accountable for the fraud. His entire political narrative is built on erasing the Columbia/HCA history. Every campaign ad emphasizes "job creator" and "businessman" — never "CEO of the company convicted of 14 felonies."
+4. **The comeback:** Scott has never been held accountable for the misconduct. His entire political narrative is built on erasing the Columbia/HCA history. Every campaign ad emphasizes "job creator" and "businessman" — never "CEO of the company convicted of 14 felonies."
 
 ---
 

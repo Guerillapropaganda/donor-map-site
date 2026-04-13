@@ -1,8 +1,8 @@
 ---
 title: "Carlyle Group"
 type: corporation
-content-readiness: draft
-last-updated: 2026-04-11
+content-readiness: ready
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 sector: "Wall Street"
@@ -305,7 +305,7 @@ The analytical pattern here is **Revolving Door** + **Both-Sides Illusion** + **
 |--------|-------|
 | Federal Court Cases | 847 |
 | Courts | Court of Appeals for the Eleventh Circuit, District Court, C.D. California, District Court, D. Arizona, District Court, D. Delaware, District Court, D. Minnesota, District Court, District of Columbia, District Court, E.D. New York, District Court, N.D. Illinois +4 more |
-| Case Types | 190 Contract: Other, 410 Anti-Trust, 850 Securities/Commodities, 890 Other Statutory Actions, Other Fraud |
+| Case Types | 190 Contract: Other, 410 Anti-Trust, 850 Securities/Commodities, 890 Other Statutory Actions, Other misconduct |
 
 **Notable cases:**
 - United States v. REDDY ICE LLC (2026) — District Court, District of Columbia

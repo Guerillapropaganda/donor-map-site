@@ -153,7 +153,7 @@ Reduced regulation of for-profit education (University of Phoenix), favorable pr
 |--------|-------|
 | Federal Court Cases | 738 |
 | Courts | Court of Appeals for the Eighth Circuit, Court of Appeals for the First Circuit, Court of Appeals for the Tenth Circuit, Court of Appeals for the Third Circuit, District Court, D. Colorado, District Court, D. Massachusetts, District Court, D. Nevada, District Court, E.D. New York +4 more |
-| Case Types | 370 Other Fraud, 410 Anti-Trust, 442 Civil Rights: Jobs, 820 Copyright, 830 Patent |
+| Case Types | 370 Other misconduct, 410 Anti-Trust, 442 Civil Rights: Jobs, 820 Copyright, 830 Patent |
 
 **Notable cases:**
 - Goloja v. Vail Resorts, Inc. (2026) — District Court, D. Colorado

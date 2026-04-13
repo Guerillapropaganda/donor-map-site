@@ -112,7 +112,7 @@ Bipartisan distribution with emphasis on banking committee members and the North
 
 **TARP Bailout (2008-2009):** Bank of America received $45 billion in TARP funds — tied with Citigroup for the largest allocation. The bank also received Federal Reserve emergency lending facilities during the Countrywide and Merrill Lynch acquisitions.
 
-**Mortgage Settlement (2014):** Bank of America paid $16.65 billion in the national mortgage settlement — the largest civil settlement in American history. The settlement resolved claims of systematic mortgage fraud inherited from Countrywide. Despite the headline figure, much of the "penalty" consisted of loan modifications the bank would have performed anyway, and the settlement included tax deductions that reduced the effective cost.
+**Mortgage Settlement (2014):** Bank of America paid $16.65 billion in the national mortgage settlement — the largest civil settlement in American history. The settlement resolved claims of systematic mortgage misconduct inherited from Countrywide. Despite the headline figure, much of the "penalty" consisted of loan modifications the bank would have performed anyway, and the settlement included tax deductions that reduced the effective cost.
 
 **CFPB Overdraft Fee Resistance:** Bank of America preemptively reduced its overdraft fees to $10 in 2022, positioning itself as a moderate actor while lobbying against CFPB authority to mandate reductions industry-wide. The strategic concession neutralized regulatory pressure while preserving the bank's ability to set its own terms.
 

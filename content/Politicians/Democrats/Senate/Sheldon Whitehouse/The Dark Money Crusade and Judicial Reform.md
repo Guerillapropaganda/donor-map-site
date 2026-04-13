@@ -21,7 +21,7 @@ related: "[[_Sheldon Whitehouse Master Profile]] · [[Leonard Leo]] · [[Federal
 
 Sheldon Whitehouse has delivered 300+ "Time to Wake Up" floor speeches on climate change and dark money — the longest sustained floor speech series in modern Senate history. His investigative work on the conservative dark money network — tracing the Koch network, Leonard Leo's judicial operation, and the Federalist Society pipeline — has produced the most detailed public mapping of conservative dark money infrastructure available.
 
-Whitehouse's "Scheme" series of Senate Judiciary hearings documented how Leonard Leo, the Federalist Society, DonorsTrust, and the Judicial Crisis Network operate as a coordinated network to select, fund, and confirm conservative federal judges. His work revealed the $580 million dark money operation behind the conservative judicial project — including the $1.6 billion Barre Seid donation to Leonard Leo's Marble Freedom Trust.
+Whitehouse's "operation" series of Senate Judiciary hearings documented how Leonard Leo, the Federalist Society, DonorsTrust, and the Judicial Crisis Network operate as a coordinated network to select, fund, and confirm conservative federal judges. His work revealed the $580 million dark money operation behind the conservative judicial project — including the $1.6 billion Barre Seid donation to Leonard Leo's Marble Freedom Trust.
 
 ---
 

@@ -1,8 +1,8 @@
 ---
 title: "Kelcy Warren - Energy Transfer Partners"
 type: donor
-content-readiness: draft
-last-updated: 2026-04-08
+content-readiness: ready
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 sector: "Mega-Donors"
@@ -117,7 +117,7 @@ The Dakota Access Pipeline protests (April 2016 – February 2017) at the Standi
 
 Warren's response was political, not legal: he funded Trump's campaign, and Trump's January 24, 2017 executive order directed the Army Corps of Engineers to expedite the pipeline's completion. DAPL was operational by June 2017. The lesson: pipeline permitting is a function of political investment, not environmental review.
 
-The post-Standing Rock legislative response — "critical infrastructure" laws criminalizing pipeline protests in 18+ states — was funded by the same fossil fuel donor network that funds Warren's political operation. The laws create felony penalties for trespassing on pipeline construction sites, effectively making organized pipeline opposition a criminal act.
+The post-Standing Rock legislative response — "critical infrastructure" laws criminalizing pipeline protests in 18+ states — was funded by the same fossil fuel donor network that funds Warren's political operation. The laws create felony penalties for trespassing on pipeline construction sites, effectively making organized pipeline opposition a unlawful act.
 
 > [!contradiction]
 > Warren described himself to the Dallas Morning News as an environmentalist because Energy Transfer operates natural gas pipelines, and natural gas produces fewer emissions than coal. This framing — fossil fuel executive as environmentalist — is the rhetorical signature move of the pipeline industry. The contradiction: Energy Transfer's pipeline network transports the fossil fuels whose combustion is the primary driver of climate change. The "cleaner than coal" framing positions the pipeline industry as part of the climate solution rather than the climate problem.
