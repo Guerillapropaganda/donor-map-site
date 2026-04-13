@@ -64,6 +64,16 @@ Congestion pricing was a revenue tool: $1 billion+ annually to fund MTA repair a
 
 **The Wall Street Translator.** Hochul uses development-friendly language coded for real estate interests: "economic growth," "job creation," "business-friendly government." These phrases signal to donors that zoning restrictions will be loosened, tax breaks will flow, and developer-friendly appointees will staff regulatory agencies. Progressive audiences hear "economic justice." Real estate audiences hear: unlimited development density, lower regulatory burden.
 
+### Class Analysis
+
+Kathy Hochul is a real estate instrument holding executive office. Her donor base is New York's development aristocracy: the Cayres (Midtown Equities), the Moiniers (Moinian Group), the Tisches (Loews Corporation). These families contributed $300,000+ to Hochul while opposing congestion pricing, the $1 billion annual transit revenue mechanism she publicly championed and then killed in June 2024. The class relationship is not subtle. Real estate donors fund the governor. The governor protects real estate wealth. When climate policy threatened developer interests, Hochul reversed it within weeks of implementation.
+
+The congestion pricing reversal is the defining act. Hochul campaigned as a climate and transit governor. She endorsed congestion pricing as "critical to the region's long-term economic health." Then she halted it indefinitely, just weeks before the July 1 start date. The reversal came after sustained pressure from real estate interests who opposed tolls on commercial vehicles near their properties, Long Island business groups, and House Democrats led by Hakeem Jeffries who feared losing swing districts. The MTA lost $1 billion in annual revenue. Developer access to Manhattan's streets was preserved. The trade was explicit: transit infrastructure funding exchanged for real estate protection.
+
+Hochul inherited office without seeking it, which gives her rhetorical cover that elected governors lack. She performs as a reluctant executor forced into difficult pragmatic choices. The actual pattern is consistent across housing, zoning, and transit: introduce progressive policy, accept months of donor pressure, reverse it with populist framing ("Long Island working families"). The class function is clear. Hochul provides executive cover for capital interests while maintaining progressive rhetoric. When the two collide, capital wins in weeks. Every time.
+
+---
+
 ### Analytical Patterns
 
 **The Genuine Win + Structural Limit** — Hochul's stated positions on climate and transit (MTA funding, congestion pricing) represent genuine climate governance rhetoric. But congestion pricing's reversal in June 2024 exposed the structural limit: when real estate donors opposed the revenue mechanism, Hochul reversed it. The contradiction resolved through material analysis: Hochul can champion climate messaging that activates progressive voters without threatening real estate wealth. Infrastructure "improvements" that threatened landlord interests were eliminated immediately. The genuine win was the political capital she accumulated from climate talk; the structural limit was the hard material constraint of her donor base's tolerance for revenue mechanisms that reduce developer convenience.

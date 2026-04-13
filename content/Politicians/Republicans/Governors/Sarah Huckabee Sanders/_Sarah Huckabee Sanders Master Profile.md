@@ -134,6 +134,16 @@ The scandal reveals the personal enrichment pattern: Sanders' office engages in 
 
 ---
 
+## Class Analysis
+
+Sarah Huckabee Sanders is a transmission belt. She converts Trump-brand cultural energy into Walton Family Foundation policy outcomes. The $12.8 million campaign (66% out-of-state) came from small-dollar Trump supporters who believed they were funding a culture warrior. What they funded was the LEARNS Act, a voucher program that funnels Arkansas public school money into private institutions built on the Walton Foundation's $407 million privatization infrastructure. The donors who think they bought a fighter got a delivery service for Walmart heirs.
+
+The child labor rollback is the tell. Sanders signed the Youth Hiring Act weeks after Packers Sanitation was caught employing 102 children in hazardous conditions. The law removed work permits, age verification, and parental consent requirements for under-16 employment. Arkansas has the 47th-worst median income in America. Sanders governs for the business class that needs cheap, unprotected labor in one of the poorest states in the country. The $19,000 custom lectern, purchased while her administration cut public school funding relative to inflation, makes the class relationship physical.
+
+The Huckabee dynasty is the mechanism. Mike Huckabee governed for the same Arkansas business interests; Sarah continues the arrangement with a Trump-branded upgrade. The class function is generational: provide cultural reassurance (Christian values, Trump loyalty, anti-woke positioning) to a working-class base while extracting value for the state's wealthiest family. The Waltons get education privatization. The business class gets deregulated child labor. The base gets rhetoric. Arkansas stays poor. The system works exactly as designed.
+
+---
+
 ## Rhetorical Signature Moves
 
 1. **The Trump Loyalty Brand:** Sanders' entire political identity is anchored to Trump proximity and loyalty. She frames policies through culture war language (education "freedom," anti-woke positioning) while implementing corporate policy. The Trump brand provides political cover for privatization and deregulation.

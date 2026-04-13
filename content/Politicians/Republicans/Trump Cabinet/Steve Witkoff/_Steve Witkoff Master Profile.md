@@ -1,9 +1,9 @@
 ---
 title: "Steve Witkoff"
 type: politician
-content-readiness: draft
+content-readiness: ready
 central-thesis: "Witkoff is the purest embodiment of the Trump administration's merger of personal profit and public diplomacy. As Middle East envoy, he negotiates with the same Gulf state leaders whose sovereign wealth funds invest in his business ventures and th..."
-last-updated: 2026-04-10
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 party: "Republican"
@@ -109,6 +109,14 @@ UAE sovereign wealth → World Liberty Financial → Trump family + Witkoff fami
 — **No Republican support for any investigation** — GOP members on relevant committees have blocked subpoenas and hearings
 
 ---
+
+## Class Analysis
+
+Steve Witkoff represents the complete merger of donor class wealth and government power. He donated $2 million or more to Trump PACs, which purchased a diplomatic appointment as Special Envoy to the Middle East. He has zero formal diplomatic experience. His qualification is money and personal loyalty to Donald Trump, dating to 1986. The appointment converts a Manhattan real estate billionaire into a U.S. diplomatic asset negotiating with the same Gulf state leaders whose sovereign wealth funds flow into his business ventures.
+
+The World Liberty Financial conflict makes the corruption structural, not incidental. Witkoff co-founded this crypto venture in September 2024 with Donald Trump, Donald Trump Jr., Eric Trump, and Barron Trump. Sheikh Tahnoon bin Zayed Al Nahyan's UAE investment firms poured $2 billion into the venture, weeks before the White House approved UAE access to advanced AI chips. The money chain is circular: UAE sovereign wealth flows into World Liberty Financial, which enriches the Trump and Witkoff families, while Witkoff continues negotiating with the UAE as America's diplomatic representative. Every diplomatic concession to the UAE potentially increases the value of the crypto venture. Every investment from Gulf states creates leverage over U.S. foreign policy.
+
+Witkoff claims divestment. He sold a $120 million stake in his real estate company. But as of August 2025, he still held World Liberty Financial crypto assets, shares in WC Digital Fi LLC (a Witkoff family affiliate), and portions of two other crypto businesses. The divestment was partial. The most politically toxic assets, the ones connecting him to Trump family profits and Gulf state money, remain. Senate Democrats have demanded answers. No Republican on any relevant committee has supported a single investigation. The donor class protects its own, across the aisle when necessary.
 
 ## Analytical Patterns
 
