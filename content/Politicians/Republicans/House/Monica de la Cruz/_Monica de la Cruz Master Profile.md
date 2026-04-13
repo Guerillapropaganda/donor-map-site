@@ -1,7 +1,7 @@
 ---
 title: "Monica de la Cruz Master Profile"
 type: politician
-content-readiness: raw
+content-readiness: draft
 last-updated: 2026-04-12
 source-tier: 1
 party: "Republican"

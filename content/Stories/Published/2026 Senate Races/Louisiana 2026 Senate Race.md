@@ -1,7 +1,7 @@
 ---
 title: "Louisiana 2026 Senate Race"
 type: story
-content-readiness: raw
+content-readiness: draft
 last-updated: 2026-04-12
 source-tier: 1
 parent: null

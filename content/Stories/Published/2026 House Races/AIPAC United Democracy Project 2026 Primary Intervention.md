@@ -1,7 +1,7 @@
 ---
 title: "AIPAC United Democracy Project 2026 Primary Intervention"
 type: story
-content-readiness: raw
+content-readiness: draft
 last-updated: 2026-04-08
 source-tier: 1
 parent: null

@@ -1,7 +1,7 @@
 ---
 title: "2026-03-27 Freshness Audit"
 type: daily-update
-content-readiness: raw
+content-readiness: draft
 last-updated: 2026-03-27
 source-tier: null
 parent: null

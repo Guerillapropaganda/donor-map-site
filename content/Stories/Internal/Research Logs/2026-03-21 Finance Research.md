@@ -1,7 +1,7 @@
 ---
 title: "2026-03-21 Finance Research"
 type: daily-update
-content-readiness: raw
+content-readiness: draft
 last-updated: 2026-03-23
 source-tier: 1
 parent: null

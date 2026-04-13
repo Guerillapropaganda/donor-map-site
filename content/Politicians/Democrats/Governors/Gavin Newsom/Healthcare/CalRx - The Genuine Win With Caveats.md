@@ -1,7 +1,7 @@
 ---
 title: "CalRx - The Genuine Win With Caveats"
 type: sub-note
-content-readiness: raw
+content-readiness: draft
 last-updated: 2026-04-12
 source-tier: 1
 parent: [[_Gavin Newsom Master Profile]]
