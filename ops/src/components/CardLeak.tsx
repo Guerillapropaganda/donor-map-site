@@ -11,7 +11,7 @@ interface CardLeakProps {
 }
 
 export function CardLeak({ profile, headline, subtext, width, height }: CardLeakProps) {
-  const name = profile.title.replace(/ Master Profile$/, "")
+  const name = profile.title.replace(/ Master Profile$/, "").replace(/^_/, "")
   const thesis = profile.centralThesis || ""
   const defaultHeadline = name
   const defaultSubtext = thesis.length > 160 ? thesis.slice(0, 157) + "..." : thesis

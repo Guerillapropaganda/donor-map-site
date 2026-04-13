@@ -12,7 +12,7 @@ interface Props {
 
 /** THE HEADLINE — Newspaper front page style, massive headline dominates */
 export function CardHeadline({ profile, headline, subtext, width, height }: Props) {
-  const name = profile.title.replace(/ Master Profile$/, "")
+  const name = profile.title.replace(/ Master Profile$/, "").replace(/^_/, "")
   const thesis = profile.centralThesis || ""
   const h = headline || thesis.split(".")[0] || name
   const s = subtext || name

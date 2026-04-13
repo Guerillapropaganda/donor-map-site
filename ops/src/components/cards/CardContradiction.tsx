@@ -12,7 +12,7 @@ interface Props {
 
 /** THE CONTRADICTION — Two opposing statements with red slash between */
 export function CardContradiction({ profile, headline, subtext, width, height }: Props) {
-  const name = profile.title.replace(/ Master Profile$/, "")
+  const name = profile.title.replace(/ Master Profile$/, "").replace(/^_/, "")
   const h = headline || name
   // Try to split subtext into two contradicting statements
   const s = subtext || profile.centralThesis || ""

@@ -12,7 +12,7 @@ interface Props {
 
 /** THE BOTH SIDES — Split card showing same entity funding both parties */
 export function CardBothSides({ profile, headline, subtext, width, height }: Props) {
-  const name = profile.title.replace(/ Master Profile$/, "")
+  const name = profile.title.replace(/ Master Profile$/, "").replace(/^_/, "")
   const h = headline || name
   const s = subtext || "Funds both sides. Same money. Different jerseys."
   const scale = Math.min(width / 1200, height / 630)

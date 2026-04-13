@@ -12,7 +12,7 @@ interface Props {
 
 /** THE REDACTED — Key words highlighted, rest blacked out like a FOIA document */
 export function CardRedacted({ profile, headline, subtext, width, height }: Props) {
-  const name = profile.title.replace(/ Master Profile$/, "")
+  const name = profile.title.replace(/ Master Profile$/, "").replace(/^_/, "")
   const raw = profile as Record<string, unknown>
   const amount = String(raw.careerTotal || raw.totalRaised || "")
   const topDonors = Array.isArray(raw.topDonors) ? raw.topDonors.map(String) : []

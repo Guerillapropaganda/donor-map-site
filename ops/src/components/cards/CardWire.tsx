@@ -13,7 +13,7 @@ interface Props {
 /** THE WIRE — Surveillance/wiretap aesthetic, green monospace on black, data stream */
 export function CardWire({ profile, headline, subtext, width, height }: Props) {
   const raw = profile as Record<string, unknown>
-  const name = profile.title.replace(/ Master Profile$/, "")
+  const name = profile.title.replace(/ Master Profile$/, "").replace(/^_/, "")
   const amount = String(raw.careerTotal || raw.totalRaised || "")
   const thesis = profile.centralThesis || ""
 
