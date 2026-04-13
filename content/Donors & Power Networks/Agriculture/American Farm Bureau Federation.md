@@ -85,8 +85,7 @@ regulatory-agencies:
   - "Interior Department"
 cross-vault-triangulation-count: 11
 audit-a-plus-passed: "2026-04-11"
-lobbying-spend: 3142538
-lobbying-filings: 146
+internal-notes: "[CODE @ 2026-04-13] Pipeline: lda completed for American Farm Bureau Federation. Run: https://github.com/Guerillapropaganda/donor-map-engine/actions/runs/24359872848"
 ---
 #donor #agriculture #lobbying #insurance #corporate-agriculture #epa #deregulation #farm-bill #trade #labor
 
@@ -376,7 +375,7 @@ The American Farm Bureau Federation is a case study in institutional identity fr
 - 2002-01-14 - **425**: FORM 425:  PRESS RELEASE
 - 2002-01-10 - **425**: 425
 
-- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22American%20Farm%20Bureau%20Federation%22) (Tier 1) (NEEDS REVIEW)
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22American%20Farm%20Bureau%20Federation%22) (Tier 1) (NEEDS REVIEW: code)
 <!-- auto:sec-edgar end -->
 
 ### Federal Court Records (CourtListener)
@@ -410,14 +409,14 @@ The American Farm Bureau Federation is a case study in institutional identity fr
 
 **Recent regulatory activity:**
 - [Endangered and Threatened Wildlife and Plants; Regulations Pertaining to Endangered and Threatened Wildlife and Plants](https://www.federalregister.gov/documents/2025/11/21/2025-20552/endangered-and-threatened-wildlife-and-plants-regulations-pertaining-to-endangered-and-threatened) (VERIFIED) (2025-11-21) - Interior Department ★
-- [Endangered and Threatened Wildlife and Plants; Listing Endangered and Threatened Species and Designating Critical Habitat](https://www.federalregister.gov/documents/2025/11/21/2025-20549/endangered-and-threatened-wildlife-and-plants-listing-endangered-and-threatened-species-and) (2025-11-21) - Interior Department ★
-- [Recission of Final Rule: Improving Protections for Workers in Temporary Agricultural Employment in the United States](https://www.federalregister.gov/documents/2025/07/02/2025-12315/recission-of-final-rule-improving-protections-for-workers-in-temporary-agricultural-employment-in) (2025-07-02) - Labor Department ★
-- [Distribution of Continued Dumping and Subsidy Offset to Affected Domestic Producers](https://www.federalregister.gov/documents/2025/05/30/2025-08516/distribution-of-continued-dumping-and-subsidy-offset-to-affected-domestic-producers) (2025-05-30) - Homeland Security Department
-- [Air Plan Approval; Pennsylvania; Redesignation Request and Associated Maintenance Plan for the Liberty-Clairton Area for the 1997 Annual and 2006 24-Hour Fine Particulate Matter Standard and Maintenance Plan for the Allegheny County Area for the 2012 Annual Fine Particulate Matter Standard](https://www.federalregister.gov/documents/2025/04/07/2025-05921/air-plan-approval-pennsylvania-redesignation-request-and-associated-maintenance-plan-for-the) (2025-04-07) - Environmental Protection Agency
-- [Review of the Secondary National Ambient Air Quality Standards for Oxides of Nitrogen, Oxides of Sulfur, and Particulate Matter](https://www.federalregister.gov/documents/2024/12/27/2024-29463/review-of-the-secondary-national-ambient-air-quality-standards-for-oxides-of-nitrogen-oxides-of) (2024-12-27) - Environmental Protection Agency ★
+- [Endangered and Threatened Wildlife and Plants; Listing Endangered and Threatened Species and Designating Critical Habitat](https://www.federalregister.gov/documents/2025/11/21/2025-20549/endangered-and-threatened-wildlife-and-plants-listing-endangered-and-threatened-species-and) (VERIFIED) (2025-11-21) - Interior Department ★
+- [Recission of Final Rule: Improving Protections for Workers in Temporary Agricultural Employment in the United States](https://www.federalregister.gov/documents/2025/07/02/2025-12315/recission-of-final-rule-improving-protections-for-workers-in-temporary-agricultural-employment-in) (VERIFIED) (2025-07-02) - Labor Department ★
+- [Distribution of Continued Dumping and Subsidy Offset to Affected Domestic Producers](https://www.federalregister.gov/documents/2025/05/30/2025-08516/distribution-of-continued-dumping-and-subsidy-offset-to-affected-domestic-producers) (VERIFIED) (2025-05-30) - Homeland Security Department
+- [Air Plan Approval; Pennsylvania; Redesignation Request and Associated Maintenance Plan for the Liberty-Clairton Area for the 1997 Annual and 2006 24-Hour Fine Particulate Matter Standard and Maintenance Plan for the Allegheny County Area for the 2012 Annual Fine Particulate Matter Standard](https://www.federalregister.gov/documents/2025/04/07/2025-05921/air-plan-approval-pennsylvania-redesignation-request-and-associated-maintenance-plan-for-the) (VERIFIED) (2025-04-07) - Environmental Protection Agency
+- [Review of the Secondary National Ambient Air Quality Standards for Oxides of Nitrogen, Oxides of Sulfur, and Particulate Matter](https://www.federalregister.gov/documents/2024/12/27/2024-29463/review-of-the-secondary-national-ambient-air-quality-standards-for-oxides-of-nitrogen-oxides-of) (VERIFIED) (2024-12-27) - Environmental Protection Agency ★
 - ... and 204 more
 
-- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22American%20Farm%20Bureau%20Federation%22) (Tier 1)
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22American%20Farm%20Bureau%20Federation%22) (Tier 1) (VERIFIED)
 <!-- auto:federal-register end -->
 
 ### Lobbying Activity
