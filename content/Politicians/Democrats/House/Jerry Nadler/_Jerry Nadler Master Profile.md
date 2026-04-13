@@ -40,7 +40,7 @@ Jerry Nadler. Democratic congressman from New York (Manhattan's West Side) since
 
 ## The Central Thesis
 
-Nadler's donor-class function is more complex than most profiles in this vault because he genuinely served as a check on executive power (two Trump impeachments) and pursued progressive policy outcomes (marijuana legalization, LGBTQ+ rights, 9/11 first responder aid). But his donor map reveals the limits of Manhattan liberalism: his top contributors are elite law firms and Manhattan real estate developers — the exact class interests that benefit from Nadler's Judiciary Committee work on antitrust (which targets tech monopolies that threaten media and real estate advertising models), intellectual property (which protects entertainment industry revenue), and immigration (which supplies labor to the construction and service industries that New York real estate depends on). Nadler's progressive brand is real within the cultural sphere (civil rights, reproductive access, criminal justice reform), but his economic donors are the Manhattan development and legal establishment whose class interests he never seriously threatens.
+Nadler's donor-class function is more complex than most profiles in this vault because he genuinely served as a check on executive power (two Trump impeachments) and pursued progressive policy outcomes (marijuana legalization, LGBTQ+ rights, 9/11 first responder aid). But his donor map reveals the limits of Manhattan liberalism: his top contributors are elite law firms and Manhattan real estate developers — the exact class interests that benefit from Nadler's Judiciary Committee work on antitrust (which targets tech monopolies that threaten media and real estate advertising models), intellectual property (which protects entertainment industry revenue), and immigration (which supplies labor to the construction and service industries that New York real estate depends on). Nadler's progressive brand is real within the cultural sphere (civil rights, reproductive access, justice system reform), but his economic donors are the Manhattan development and legal establishment whose class interests he never seriously threatens.
 
 ---
 
@@ -78,7 +78,7 @@ Nadler's donor-class function is more complex than most profiles in this vault b
 | 2007-2022 | Ross/Related Companies contributions | $60K+ | Nadler supported infrastructure and zoning policies enabling Hudson Yards megaproject in his district | Concurrent |
 | 2019-2021 | JStreetPAC top PAC donor | Ongoing | Maintained "progressive pro-Israel" position — supported two-state solution but did not condition aid | Concurrent |
 | 2019-2020 | Law firm contributions as Judiciary chairman | Top industry | Led first Trump impeachment (Ukraine); managed second impeachment (Jan. 6) | Concurrent |
-| 2019-2023 | PAC contributions at 40% of fundraising | Ongoing | Judiciary chairmanship: antitrust investigations of Big Tech, impeachment proceedings, criminal justice reform | Concurrent |
+| 2019-2023 | PAC contributions at 40% of fundraising | Ongoing | Judiciary chairmanship: antitrust investigations of Big Tech, impeachment proceedings, justice system reform | Concurrent |
 | 2022 | Real estate donor support during Maloney primary challenge | Ongoing | Won competitive redistricting primary against Carolyn Maloney — developer donors supported Nadler | 0 months |
 | 2025 | Announced retirement; no re-election fundraising needed | — | Called Israeli actions "mass murder and war crimes," endorsed withholding offensive military aid, supported anti-Israel candidate Zohran Mamdani | Post-donor constraint |
 
@@ -116,7 +116,7 @@ Nadler's donor-class function is more complex than most profiles in this vault b
 ## Rhetorical Signature Moves
 
 - **"Rule of law" constitutionalism:** Frames every Judiciary action in constitutional terms — impeachment as duty, oversight as democratic necessity. Effective and largely sincere, but deployed selectively (aggressive on Trump's authoritarian overreach, less aggressive on structural economic power of his donor class).
-- **"Progressive values" branding:** Positions himself as a values-driven progressive on cultural issues (LGBTQ+, reproductive rights, criminal justice) while his economic donor base is the Manhattan elite.
+- **"Progressive values" branding:** Positions himself as a values-driven progressive on cultural issues (LGBTQ+, reproductive rights, justice system) while his economic donor base is the Manhattan elite.
 - **"Bipartisan investigation" framing:** The Big Tech antitrust investigation was genuinely bipartisan — but the policy outcomes (structural breakups) never materialized, partly because the legal and entertainment industries that fund Nadler had complex, sometimes conflicting interests with Big Tech.
 
 ---

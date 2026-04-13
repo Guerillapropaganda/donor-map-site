@@ -47,7 +47,7 @@ ALEC is organized into 9 policy task forces where corporations and state legisla
 3. Energy, Environment & Agriculture
 4. Health & Human Services
 5. International Relations
-6. Criminal Justice
+6. justice system
 7. Tax and Fiscal Policy
 8. Telecommunications & Information Technology
 9. Public Safety & Elections (reformed post-2012 after Stand Your Ground backlash)
@@ -96,7 +96,7 @@ ALEC's model legislation serves its corporate members' interests across every po
 
 **For anti-union corporations:** Right-to-work laws, public sector union fee elimination, preemption of local labor ordinances.
 
-**For private prison companies:** Mandatory minimum sentencing, truth-in-sentencing laws, three-strikes laws. GEO Group's predecessor (Wackenhut) and CCA (now CoreCivic) sat on ALEC's Criminal Justice Task Force while it drafted sentencing legislation that increased incarceration rates — and private prison profits.
+**For private prison companies:** Mandatory minimum sentencing, truth-in-sentencing laws, three-strikes laws. GEO Group's predecessor (Wackenhut) and CCA (now CoreCivic) sat on ALEC's justice system Task Force while it drafted sentencing legislation that increased incarceration rates — and private prison profits.
 
 **For fossil fuel companies:** Opposition to carbon pricing, renewable energy mandates, and EPA regulation. Critical Infrastructure Protection Acts criminalizing pipeline protest. Grid "stability" bills that protect fossil fuel baseload generation over renewables. Anti-ESG legislation blocking pension fund divestment from oil and gas.
 
@@ -168,7 +168,7 @@ Most common states for ALEC bill introduction (2011–2012): West Virginia (10 b
 | Castle Doctrine / Stand Your Ground | 2005 | 30+ states (25 via ALEC) | 131 bills introduced 2011–12; removed from ALEC website April 2012 after Trayvon Martin; NRA co-drafted |
 | Voter ID Act | 2009 | 62+ bills 2011–12; 6–7 strict ID states by 2012 | 50%+ of 2011–12 voter ID bills proposed by ALEC members; task force disbanded April 2012 |
 | Right to Work Act | 1995 | 27 states total | Oklahoma passed word-for-word ALEC model (2001 constitutional amendment) |
-| Truth in Sentencing / Mandatory Minimums | 1995 | 25+ states | CCA executive sat on ALEC Criminal Justice Task Force; sentencing laws filled private prisons |
+| Truth in Sentencing / Mandatory Minimums | 1995 | 25+ states | CCA executive sat on ALEC justice system Task Force; sentencing laws filled private prisons |
 | Product Liability Act (Tort Reform) | 1995 | ~20 states | Shields manufacturers from class action liability; reapproved January 2012 |
 | Animal & Ecological Terrorism Act (Ag-Gag) | 2002–2004 | 9+ states adopted; 5+ struck down | Criminalizes undercover farm investigation; First Amendment challenges successful in multiple states |
 | Critical Infrastructure Protection Act | 2017 | 8+ states; 13+ introduced | Criminalizes pipeline protest; drafted post-Standing Rock; benefits ExxonMobil, Shell |

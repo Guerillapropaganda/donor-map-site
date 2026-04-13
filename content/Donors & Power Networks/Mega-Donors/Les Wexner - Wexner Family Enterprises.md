@@ -51,7 +51,7 @@ His political legacy is inseparable from his relationship with Jeffrey Epstein, 
 
 **Israel policy influence and soft power**: Training senior Israeli officials (Directors General of government ministries, IDF officers, judges, hospital directors) at Harvard Kennedy School through the Wexner Foundation creates long-term political relationships with Israeli government leadership and positions the Wexner Foundation as an intermediary between U.S. and Israeli policy networks.
 
-**Post-Epstein reputation rehabilitation and political re-entry**: Following the 2019 Epstein scandal and the February 2026 unredaction of Wexner's name in FBI co-conspirator documents, attempting to maintain political relationships, preserve institutional naming rights, avoid criminal liability, and restore his image as a civic benefactor rather than an enabler of trafficking.
+**Post-Epstein reputation rehabilitation and political re-entry**: Following the 2019 Epstein scandal and the February 2026 unredaction of Wexner's name in FBI co-conspirator documents, attempting to maintain political relationships, preserve institutional naming rights, avoid liability, and restore his image as a civic benefactor rather than an enabler of trafficking.
 
 ---
 
@@ -348,11 +348,11 @@ Wexner's public statements about when he severed ties with Epstein shifted repea
 - In the 2019 letter to his Foundation, he stated he "severed ties" after learning of Epstein's criminal conduct
 - In various statements he cited "a decade ago" (from 2019) as the end of the relationship — suggesting approximately 2007–2009
 - His 2026 congressional statement said the split occurred "in 2007 when the Wexners learned he had been embezzling funds from them," and that Wexner "severed all connections"
-- However, documents show Wexner emailed Epstein in 2008, after Epstein's 2007 initial criminal investigation had begun
+- However, documents show Wexner emailed Epstein in 2008, after Epstein's 2007 initial investigation had begun
 
 #### Legal Proceedings and the Co-Conspirator Designation
 
-**Virginia Giuffre allegations:** In a 2016 deposition unsealed in January 2024 in the Giuffre v. Maxwell civil lawsuit, Giuffre alleged that Wexner was among the men to whom Epstein trafficked her, stating she had sex with Wexner "multiple times" — "more than three and possibly more than five times." Giuffre said she was "directed to wear lingerie for Wexner by Ghislaine Maxwell." Wexner has denied ever meeting Giuffre. No criminal charges have been filed.
+**Virginia Giuffre allegations:** In a 2016 deposition unsealed in January 2024 in the Giuffre v. Maxwell civil lawsuit, Giuffre alleged that Wexner was among the men to whom Epstein trafficked her, stating she had sex with Wexner "multiple times" — "more than three and possibly more than five times." Giuffre said she was "directed to wear lingerie for Wexner by Ghislaine Maxwell." Wexner has denied ever meeting Giuffre. No charges have been filed.
 
 **FBI co-conspirator document:** An internal FBI document dated August 15, 2019 — compiled days after Epstein's death — identified Wexner as one of eight co-conspirators in the sex trafficking investigation. This document was redacted in the DOJ's initial 2025 Epstein file release but was unredacted in February 2026 following pressure from Reps. Ro Khanna (D-CA) and Thomas Massie (R-KY). A second FBI email from August 2019 noted "limited evidence regarding his involvement."
 
@@ -466,7 +466,7 @@ Whether Wexner was a victim, an enabler, or something more complicit remains a m
 | November 2018 | Miami Herald publishes Epstein exposé reigniting scrutiny of 2008 plea deal | Miami Herald, Epstein files | N/A | Public awareness of Epstein relationship increases dramatically |
 | July 2019 | Epstein arrested on federal sex trafficking charges; FBI raids 9 East 71st Street | Federal agents, Epstein | N/A | Nude photos allegedly found in mansion; Wexner relationship becomes public liability |
 | August 2019 | Wexner's letter to Foundation: Epstein "misappropriated vast sums"; FBI compiles internal document listing Wexner as co-conspirator | Wexner, FBI | N/A | Wexner claims victimhood; FBI identifies him as potential co-conspirator |
-| August 10, 2019 | Epstein dies in federal custody (apparent suicide) | Epstein | N/A | End of criminal investigation; questions remain unanswered |
+| August 10, 2019 | Epstein dies in federal custody (apparent suicide) | Epstein | N/A | End of investigation; questions remain unanswered |
 | February 2020 | Wexner steps down as L Brands CEO | Wexner, L Brands Board | N/A | Epstein scandal pressures departure; retains significant ownership |
 | 2021 | Wexner resigns as chair of Columbus Partnership | Wexner, Columbus Partnership | N/A | Reputation damage forces exit from civic leadership role |
 | January 2024 | Giuffre deposition unsealed: Wexner named in sex trafficking allegations | Virginia Giuffre, Wexner | N/A | Alleged victim claims sexual contact with Wexner multiple times |

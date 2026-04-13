@@ -62,7 +62,7 @@ donors:
 
 ## Who They Are
 
-Jamie Raskin. Democrat, Maryland's 8th District (Montgomery County, suburban Washington DC). First elected 2016. Ranking Member, House Judiciary Committee — the committee with jurisdiction over constitutional law, civil liberties, antitrust, immigration, criminal justice, and the federal courts. Previously served as Ranking Member of the House Oversight and Accountability Committee.
+Jamie Raskin. Democrat, Maryland's 8th District (Montgomery County, suburban Washington DC). First elected 2016. Ranking Member, House Judiciary Committee — the committee with jurisdiction over constitutional law, civil liberties, antitrust, immigration, justice system, and the federal courts. Previously served as Ranking Member of the House Oversight and Accountability Committee.
 
 Before Congress, Raskin was a constitutional law professor at American University Washington College of Law for 25+ years. Harvard College (magna cum laude, Phi Beta Kappa) and Harvard Law School (magna cum laude). Studied under Laurence Tribe. Founded the Marshall-Brennan Constitutional Literacy Project, which sends law students to teach constitutional law in high schools. Author of the Washington Post bestseller "Overruling Democracy."
 
@@ -176,7 +176,7 @@ On campaign finance reform, he leads with the structural argument — corporatio
 - [Raskin.house.gov: Raskin to lead Democrats on Judiciary](https://raskin.house.gov/2024/12/rep-jamie-raskin-to-lead-democrats-on-house-judiciary-committee) (Tier 1)
 - [NPR: Amid grief, Raskin leads Trump impeachment effort](https://www.npr.org/2021/01/27/960768286/amid-grief-rep-jamie-raskin-leads-trump-impeachment-effort-in-senate) (Tier 2)
 - [PBS: Raskin on what the Jan 6 committee accomplished](https://www.pbs.org/newshour/show/rep-raskin-on-what-the-jan-6-committee-accomplished-in-the-first-public-hearing) (Tier 2)
-- [NPR: Raskin discusses Jan 6 criminal referrals for Trump](https://www.npr.org/2022/12/20/1144311577/jan-6-trump-criminal-referrals-jamie-raskin) (Tier 2)
+- [NPR: Raskin discusses Jan 6 referrals for Trump](https://www.npr.org/2022/12/20/1144311577/jan-6-trump-criminal-referrals-jamie-raskin) (Tier 2)
 - [Fox Business: Top House Oversight Dem faces ethics complaint over wife's stock trades](https://www.foxbusiness.com/politics/top-house-dem-faces-renewed-ethics-complaint-wifes-1-5-million-stock-payday) (Tier 3)
 - [Clean Slate MoCo: Raskin's big-money individual donors in Montgomery County](https://www.cleanslatemoco.com/looking-into-congressman-jamie-raskins-big-money-individual-donors-based-in-montgomery-county-this-cycle/3092) (Tier 3)
 - [American University: Jamie Raskin faculty profile](https://www.american.edu/wcl/faculty/raskin.cfm) (Tier 3)

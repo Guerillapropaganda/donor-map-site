@@ -45,7 +45,7 @@ Pritzker's defense: trusts were set up by his grandfather, and "all money goes t
 | October 2015 | Removed 5 toilets to classify property as "uninhabitable" |
 | Result | Property assessment reduced to ~10% of market value |
 | Tax savings | ~$330,000 |
-| Investigation | Inspector General report; no criminal charges |
+| Investigation | Inspector General report; no charges |
 | Resolution | Pritzker repaid $330K after report made public |
 
 > [!contradiction]

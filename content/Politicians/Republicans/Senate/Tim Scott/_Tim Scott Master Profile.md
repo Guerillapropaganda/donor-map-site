@@ -1,9 +1,9 @@
 ---
 title: "Tim Scott"
 type: politician
-content-readiness: draft
+content-readiness: ready
 central-thesis: "Tim Scott is the Republican donor class's most structurally valuable senator: a Black conservative who provides racial cover for economic policies that harm Black communities, occupying the chairmanship of the committee that regulates the industri..."
-last-updated: 2026-04-10
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 party: "Republican"

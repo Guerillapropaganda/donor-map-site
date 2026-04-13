@@ -90,7 +90,7 @@ MBS does not donate to U.S. campaigns. He **invests in U.S. political operatives
 ### What They've Gotten
 
 **Khashoggi murder — zero accountability:** U.S. intelligence assessed with "high confidence" that MBS ordered Jamal Khashoggi's 2018 murder. The UN independent investigator concluded "individual criminal responsibility" rests with MBS. Yet:
-- No criminal charges filed in U.S.
+- No charges filed in U.S.
 - No sanctions imposed on MBS personally (only lower-level officials)
 - No arms sales suspended (Trump promised to punish Saudi Arabia; Biden authorized continued sales)
 - Khashoggi case is now treated as "closed" by U.S. State Department

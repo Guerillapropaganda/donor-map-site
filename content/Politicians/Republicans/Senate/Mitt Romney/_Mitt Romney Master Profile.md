@@ -1,9 +1,9 @@
 ---
 title: "Mitt Romney"
 type: politician
-content-readiness: draft
+content-readiness: ready
 central-thesis: "Romney represents the 'self-funding as independence' illusion: a billionaire candidate whose personal fortune (derived from leveraged buyouts and private equity) is presented as proof of independence from donors. But Bain Capital's business model—..."
-last-updated: 2026-04-10
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 party: "Republican"

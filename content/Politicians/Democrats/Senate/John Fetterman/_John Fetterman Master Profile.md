@@ -142,7 +142,7 @@ John Fetterman's post-election transformation raises a fundamental question abou
 
 ### Lieutenant Governor (2019–2023):
 - Ran with Gov. Tom Wolf (D)
-- Criminal Justice Reform agenda
+- justice system Reform agenda
 - COVID response criticism
 - Profile building for statewide office
 

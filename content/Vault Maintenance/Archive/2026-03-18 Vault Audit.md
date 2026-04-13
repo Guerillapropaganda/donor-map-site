@@ -89,7 +89,7 @@ These are either stubs or incomplete builds:
 
 1. **FPPC bulk pull — gig economy donors** — [[Uber|Uber]], [[Lyft|Lyft]], [[DoorDash|DoorDash]] all have `research needed` FPPC flags. These are interconnected through Prop 22 (the most-referenced policy note by incoming links at 10). A single FPPC session pulling their state PAC filings would upgrade three donor nodes and confirm the Prop 22 donor map simultaneously.
 
-2. **FPPC bulk pull — [[CCPOA - California Correctional Peace Officers Association|CCPOA]]** — Flagged in both the [[CCPOA - California Correctional Peace Officers Association|CCPOA]] donor node and `Criminal Justice - Donors and Backers.md`. The CCPOA note is one of the 10 most-linked files (10 incoming links). Current figures are marked unverified for the current cycle. This is the highest-value single donor to confirm given Newsom's ongoing criminal justice positioning.
+2. **FPPC bulk pull — [[CCPOA - California Correctional Peace Officers Association|CCPOA]]** — Flagged in both the [[CCPOA - California Correctional Peace Officers Association|CCPOA]] donor node and `justice system - Donors and Backers.md`. The CCPOA note is one of the 10 most-linked files (10 incoming links). Current figures are marked unverified for the current cycle. This is the highest-value single donor to confirm given Newsom's ongoing justice system positioning.
 
 3. **Pro-Israel donor network FPPC/behested payments** — `Pro-Israel Donor Network Deep Dive.md` (11 incoming links) has three separate `Research needed` blocks: direct [[JPAC - Jewish Public Affairs Committee of California|JPAC]] contributions, [[Haim Saban|Haim Saban]] filings, and tech-sector donors (Ellison, Hoffman). These feed directly into the Israel policy notes which are already `ready` status.
 
@@ -102,7 +102,7 @@ These are either stubs or incomplete builds:
 ## SINGLE HIGHEST-IMPACT NEXT ACTION
 
 ### Run a dedicated FPPC research session targeting CCPOA + gig economy ([[Uber|Uber]]/[[Lyft|Lyft]]/[[DoorDash|DoorDash]]) contribution data.
-These five donor nodes share a single primary source (fppc.ca.gov), are already partially built, and are cross-referenced across the vault's highest-traffic sections (Labor, Criminal Justice, Prop 22). Pulling their 2018–2026 contribution histories in one session would:
+These five donor nodes share a single primary source (fppc.ca.gov), are already partially built, and are cross-referenced across the vault's highest-traffic sections (Labor, justice system, Prop 22). Pulling their 2018–2026 contribution histories in one session would:
 — upgrade CCPOA donor node to `research-status:: documented`
 — upgrade Uber, Lyft, [[DoorDash|DoorDash]] to `research-status:: documented`
 — allow `Prop 22 - The $200M Corporate Rollback.md` and `Labor - Donors and Backers.md` to move from `developed` to `ready`

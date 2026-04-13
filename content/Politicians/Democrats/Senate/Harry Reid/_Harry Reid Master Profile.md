@@ -1,9 +1,9 @@
 ---
 title: "Harry Reid"
 type: politician
-content-readiness: draft
+content-readiness: ready
 central-thesis: "Reid was a powerful progressive on selected issues (labor alliance, some environmental stands, healthcare reform) while serving Nevada's gaming, real estate, and development donor base with absolute fidelity. He managed this by maintaining a progr..."
-last-updated: 2026-04-06
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 party: "Democrat"

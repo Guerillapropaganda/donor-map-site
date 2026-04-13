@@ -28,7 +28,7 @@ donors: [[Miriam Adelson]]
 
 ## Who He Is
 
-Jared Kushner. Trump's son-in-law. Senior White House adviser (2017–2021) managing Middle East policy, Saudi relationship, Abraham Accords, criminal justice reform, COVID response, and Mexico border wall. Left White House January 20, 2021. Incorporated Affinity Partners January 21, 2021. Received $2 billion from Saudi PIF by December 2021. Senate Finance Committee stated evidence that Kushner "acted as an unregistered foreign agent of the Kingdom of Saudi Arabia."
+Jared Kushner. Trump's son-in-law. Senior White House adviser (2017–2021) managing Middle East policy, Saudi relationship, Abraham Accords, justice system reform, COVID response, and Mexico border wall. Left White House January 20, 2021. Incorporated Affinity Partners January 21, 2021. Received $2 billion from Saudi PIF by December 2021. Senate Finance Committee stated evidence that Kushner "acted as an unregistered foreign agent of the Kingdom of Saudi Arabia."
 
 Net worth while in office: $140–181 million in disclosed assets; outside income $23.8–640 million (combined with Ivanka Trump, wide range reflects valuation discrepancies). Current net worth substantially higher given Affinity Partners fees ($157 million in three years).
 
@@ -77,7 +77,7 @@ UAE/Bahrain normalization · $23B in F-35/Reaper sales · Pitch materials explic
 | Policy Area | Government Role | Post-Office Monetization |
 |---|---|---|
 | Middle East / Abraham Accords | Lead negotiator | **$4.8B AUM** — Affinity's entire business model |
-| Criminal Justice (First Step Act) | Key driver | None identified — appears genuine |
+| justice system (First Step Act) | Key driver | None identified — appears genuine |
 | Mexico Border Wall | Appointed overseer | None identified |
 | COVID Response | "Shadow task force" | None identified |
 | Trade / USMCA | Led negotiations | None identified |
@@ -120,7 +120,7 @@ The monetization concentrated exclusively on Middle East policy — the one area
 
 1. **The Quiet Competence Claim:** Kushner's brand is the competent operator behind the chaos. The "adults in the room" narrative positions him as the reasonable one in Trump's orbit — obscuring that his competence is deployed in service of personal enrichment.
 
-2. **The Bipartisan Achievement:** First Step Act (criminal justice reform) is always cited first. It's genuine, cross-partisan, and unmonetized. It functions as reputation laundering — the one clean win that makes the Saudi pipeline harder to attack.
+2. **The Bipartisan Achievement:** First Step Act (justice system reform) is always cited first. It's genuine, cross-partisan, and unmonetized. It functions as reputation laundering — the one clean win that makes the Saudi pipeline harder to attack.
 
 3. **The "I'm Not a Politician" Frame:** Kushner has never held elected office. He's a businessman who served in government. The framing deflects conflict-of-interest scrutiny by treating government as a temporary assignment rather than a public trust.
 
@@ -132,9 +132,9 @@ The monetization concentrated exclusively on Middle East policy — the one area
 
 ## Analytical Patterns
 
-**The Genuine Win + Structural Limit** — Kushner drove criminal justice reform (First Step Act), a genuinely bipartisan policy achievement that appears unmonetized. This win limits itself to sentencing reform and good-time credits rather than addressing underlying incarceration infrastructure — it delivers real relief while allowing the carceral system to persist, functioning as reputation laundering for the family's extraction-based business model.
+**The Genuine Win + Structural Limit** — Kushner drove justice system reform (First Step Act), a genuinely bipartisan policy achievement that appears unmonetized. This win limits itself to sentencing reform and good-time credits rather than addressing underlying incarceration infrastructure — it delivers real relief while allowing the carceral system to persist, functioning as reputation laundering for the family's extraction-based business model.
 
-**The Two-Audience Problem** — To the Trump administration and public, Kushner is the "reasonable operator" and competent deal-maker who brought criminal justice reform and brokered historic Middle East peace. To Saudi Arabia and the UAE, he's the fund manager who monetizes those exact government relationships at $25 million/year regardless of performance. The Abraham Accords play both roles: authentic diplomatic achievement and private equity sales pitch.
+**The Two-Audience Problem** — To the Trump administration and public, Kushner is the "reasonable operator" and competent deal-maker who brought justice system reform and brokered historic Middle East peace. To Saudi Arabia and the UAE, he's the fund manager who monetizes those exact government relationships at $25 million/year regardless of performance. The Abraham Accords play both roles: authentic diplomatic achievement and private equity sales pitch.
 
 **The Villain Framing** — Kushner frames himself as above politics ("I'm not a politician, I'm a businessman") and above conflicts of interest (the First Step Act supposedly demonstrates his genuine motives), deflecting from the structural analysis: his government position was the capital that created $4.8 billion in AUM, and his management fee structure ensures permanent revenue from the governments whose policy he shaped.
 

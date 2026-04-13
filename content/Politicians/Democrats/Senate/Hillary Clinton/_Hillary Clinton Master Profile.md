@@ -1,9 +1,9 @@
 ---
 title: Hillary Clinton
 type: politician
-content-readiness: draft
+content-readiness: ready
 central-thesis: "Clinton embodies the 'progressive who delivers for Wall Street' archetype. Her fundraising model and donor base are indistinguishable from Republican establishment finance — Goldman Sachs, Citigroup, JPMorgan Chase — yet she maintained credibility..."
-last-updated: 2026-04-10
+last-updated: 2026-04-13
 needs-reenrichment: true
 reenrich-reason: "Bioguide recovered 2026-04-11 (was contaminated, now verified): C001041. Next pipeline run should populate Congress.gov + GovTrack auto-blocks with correct data."
 known-gaps:

@@ -142,7 +142,7 @@ CoreCivic funds both parties but overwhelmingly Republicans — 96% of 2024 cont
 
 Immigration — private detention, AB 32, Trump enforcement expansion, Bianco 287(g), DHS shutdown ICE funding split
 Federal budget — DHS appropriations, ICE funding levels, reconciliation ICE carve-out
-Criminal justice — federal Bureau of Prisons contracts
+justice system — federal Bureau of Prisons contracts
 SCOTUS — Al Otro Lado asylum arrival doctrine
 
 ---

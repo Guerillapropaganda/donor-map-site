@@ -1,9 +1,9 @@
 ---
 title: "Pete Hegseth Master Profile"
 type: politician
-content-readiness: draft
+content-readiness: ready
 central-thesis: "Hegseth's appointment represents the transformation of the Pentagon into an ideological arm of Trump's political project rather than an independent military institution. He was selected for media presence and political loyalty, not strategic exper..."
-last-updated: 2026-04-10
+last-updated: 2026-04-13
 source-tier: 2
 parent: null
 party: "Republican"

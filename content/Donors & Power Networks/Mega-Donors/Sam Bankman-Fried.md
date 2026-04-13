@@ -62,7 +62,7 @@ Favorable crypto regulation (specifically, regulation that would have required o
 
 **Regulatory Access:** SBF's $40+ million in Democratic donations purchased direct access to congressional leaders and committee chairs. He met repeatedly with CFTC and SEC officials, testified before Congress, and was treated as a credible industry voice — all while operating a fraudulent enterprise that was commingling customer funds and fabricating financial records.
 
-**The Fraud Collapse:** FTX's collapse in November 2022 revealed that SBF had stolen approximately $8 billion in customer funds, used Alameda Research to trade with customer deposits, and fabricated audit reports. His political donations — made with stolen customer money — became evidence in his criminal prosecution.
+**The Fraud Collapse:** FTX's collapse in November 2022 revealed that SBF had stolen approximately $8 billion in customer funds, used Alameda Research to trade with customer deposits, and fabricated audit reports. His political donations — made with stolen customer money — became evidence in his prosecution.
 
 > [!money]
 > SBF's case is the campaign finance system's reductio ad absurdum: a fraudster used stolen customer money to become one of the largest political donors in America, purchased access to the regulators who should have detected his fraud, and lobbied for regulatory frameworks designed to legitimize his criminal enterprise. The system failed at every level: politicians accepted the money without scrutiny, regulators engaged with him as a legitimate industry leader, and the media celebrated him as a visionary. The $40+ million in political donations — all stolen — purchased a regulatory environment that enabled an $8 billion theft.

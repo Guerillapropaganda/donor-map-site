@@ -121,7 +121,7 @@ Three automated tasks were created during the first session. All currently disab
 - Obsidian configuration: Minimal theme, gp-base.css, gp-callouts.css, icon-folder rules, dataview, banners, callout-manager, style-settings
 - **3 master profiles:** [[_Gavin Newsom Master Profile|Gavin Newsom]] (137 lines, framework complete), [[_Donald Trump Master Profile|Donald Trump]] (59+ lines, framework complete), [[_Chad Bianco Master Profile|Chad Bianco]] (127 lines, framework complete)
 - **33 donor nodes** covering healthcare (Blue Shield, UnitedHealth, [[Anthem - Elevance Health|Anthem]]), gig economy ([[Uber|Uber]], [[Lyft|Lyft]], [[DoorDash|DoorDash]]), housing (CA Apartment Association), Israel lobby ([[JPAC - Jewish Public Affairs Committee of California|JPAC]], JCRC), private detention ([[GEO Group|GEO Group]], [[CoreCivic|CoreCivic]]), agriculture (Western Growers, CA Farm Bureau), fossil fuel ([[Chevron|Chevron]], [[PG&E|PG&E]], WSPA, [[Fossil Fuel Bloc|Fossil Fuel Bloc]]), police unions ([[CCPOA - California Correctional Peace Officers Association|CCPOA]], [[Riverside Sheriffs Association|Riverside Sheriffs Association]]), education (CTA, CA Charter Schools, Eli Broad, Walton Family), crypto ([[Crypto Industry Bloc|Crypto Industry Bloc]]), and individual mega-donors (Musk, Thiel, Mellon, Adelson, Yass, Griffin, Uihlein, [[Gulf State Money - Saudi Arabia, UAE, Qatar|Gulf State Money]])
-- **~30 policy sub-notes** under Newsom covering healthcare, housing, labor, immigration, environment, criminal justice, education, economic policy, Israel
+- **~30 policy sub-notes** under Newsom covering healthcare, housing, labor, immigration, environment, justice system, education, economic policy, Israel
 - **9 policy sub-notes** under Bianco covering Oath Keepers, CSPOA, COVID, 287(g), jail deaths, DOJ investigation, deputy misconduct, gubernatorial race
 - **7 politician placeholders:** [[_Benjamin Netanyahu Master Profile|Benjamin Netanyahu]], [[_David Sacks Master Profile|David Sacks]], [[_Elizabeth Warren Master Profile|Elizabeth Warren]], [[_Greg Abbott Master Profile|Greg Abbott]], [[_JD Vance Master Profile|JD Vance]], [[_Jared Kushner Master Profile|Jared Kushner]], [[_Ron DeSantis Master Profile|Ron DeSantis]], [[_Susan Collins Master Profile|Susan Collins]]
 - **1 story draft:** Khamenei assassination / Trump inciting revolution
@@ -173,7 +173,7 @@ Three automated tasks were created during the first session. All currently disab
  - Historical CCPOA spending pattern documented (1999-2014)
  - $357.8M in budget carryover/overruns documented
  - Per-prisoner cost updated: $132,860 (2024-25), declining to $127,800 (2025-26)
-- **Files updated:** CCPOA donor node (full rewrite), CCPOA Reform Ceiling note (donations updated, Prop 36 added, prison closures added, sources expanded), Criminal Justice - Donors and Backers (CCPOA section upgraded, status moved from raw to developed)
+- **Files updated:** CCPOA donor node (full rewrite), CCPOA Reform Ceiling note (donations updated, Prop 36 added, prison closures added, sources expanded), justice system - Donors and Backers (CCPOA section upgraded, status moved from raw to developed)
 
 **Key finding (CCPOA):** The prison closures are the one area where Newsom genuinely threatened CCPOA's institutional base — 5 closures, $928M+ savings, 6% membership drop. But the $1.6 billion in contracts reads as the price of managing that threat without a political fight. CCPOA also funded Prop 36 ($300K) which Newsom opposed — confirming their strategy is access + independent policy spending simultaneously.
 
@@ -205,13 +205,13 @@ Three automated tasks were created during the first session. All currently disab
  - **Western Growers:** PAC spending by cycle confirmed ($49K-$80K); PAGA reform coalition ($9.5M); CA lobbying ~$700K
  - **Farm Bureau:** FarmPAC spending confirmed ($29K-$64K/cycle); AFBF federal lobbying ($1.3-1.5M/yr); anti-unionization radio campaigns noted
 
-- **Criminal justice donor research (seventh deliverable):**
+- **justice system donor research (seventh deliverable):**
  - Created **[[PORAC - Peace Officers Research Association of California|PORAC]] donor node** — 85K+ members, 950+ associations; $47.1K to Newsom 2022 (with LAPPL); LDF reserves $39-51M, $20M/yr defending officers; clean-record agreements hiding misconduct for 297+ officers across 163+ agencies
  - **Bail bond Prop 25:** Confirmed $8-9M No on 25 (Triton/Endeavour Capital $2.7M, ABC $6.5M); Yes on 25 $15.3M (Arnold $5M); defeated 56-44; *In re Humphrey* (2021) partial reform documented
- - Criminal Justice Donors and Backers note fully upgraded — [[PORAC - Peace Officers Research Association of California|PORAC]] section with spending + LDF + clean-record system; bail bond section with Prop 25 financials and post-Prop 25 legal landscape
+ - justice system Donors and Backers note fully upgraded — [[PORAC - Peace Officers Research Association of California|PORAC]] section with spending + LDF + clean-record system; bail bond section with Prop 25 financials and post-Prop 25 legal landscape
 
 - **Files created this continuation:** DMFI.md, PORAC.md
-- **Files updated this continuation:** Pro-Israel Donor Network Deep Dive, RSA, PG&E, UnitedHealth, Blue Shield, CRA, Western Growers, Farm Bureau, Criminal Justice - Donors and Backers, Session Timeline
+- **Files updated this continuation:** Pro-Israel Donor Network Deep Dive, RSA, PG&E, UnitedHealth, Blue Shield, CRA, Western Growers, Farm Bureau, justice system - Donors and Backers, Session Timeline
 
 ### Open priorities (updated — vault audit queue CLEARED):
 1. ~~FPPC bulk pull — gig economy donors~~ → **Done.**
@@ -315,7 +315,7 @@ Three automated tasks were created during the first session. All currently disab
 **Updated vault totals:** 54 donor/union files across 14 subcategories. Labor Unions now has 12 files (was 3). This is now the largest subcategory in the vault.
 
 - **National heavy hitter expansion (eleventh deliverable):**
- - **[[Koch Network - Charles Koch|Koch Network]] — Charles Koch** (Mega-Donors/) — the largest sustained political spending operation in American history. $578M raised / $548M spent (2024 cycle). AFP Action $160–178M in federal races. $140B Koch Industries revenue as economic base. 700+ donors at $100K+/year. Full "Kochtopus" mapped: AFP (37 state chapters, 4M+ advocates), Cato Institute ($30M+ early Koch funding), Mercatus Center ($48M to GMU), Reason Foundation, Heritage Foundation ($4.8M Koch vehicle), Pacific Research Institute ($2.08M Koch, Project 2025 board). Legal pipeline: Institute for Justice, National Right to Work Legal Defense Foundation (**funded Janus v. AFSCME plaintiff**), Liberty Justice Center. Dark money: [[DonorsTrust|DonorsTrust]] ($195.3M distributed 2024), Donors Capital Fund. Anti-labor war: Janus (SEIU Local 1000 dues collapsed 49%), right-to-work campaigns, AFP state chapters opposing prevailing wage. California: Pacific Research Institute, California Policy Center (SPN), Prop 23 ($1M Flint Hills), AFP CA House races. Criminal justice paradox: FIRST STEP Act (genuine) alongside $548M to destroy union power.
+ - **[[Koch Network - Charles Koch|Koch Network]] — Charles Koch** (Mega-Donors/) — the largest sustained political spending operation in American history. $578M raised / $548M spent (2024 cycle). AFP Action $160–178M in federal races. $140B Koch Industries revenue as economic base. 700+ donors at $100K+/year. Full "Kochtopus" mapped: AFP (37 state chapters, 4M+ advocates), Cato Institute ($30M+ early Koch funding), Mercatus Center ($48M to GMU), Reason Foundation, Heritage Foundation ($4.8M Koch vehicle), Pacific Research Institute ($2.08M Koch, Project 2025 board). Legal pipeline: Institute for Justice, National Right to Work Legal Defense Foundation (**funded Janus v. AFSCME plaintiff**), Liberty Justice Center. Dark money: [[DonorsTrust|DonorsTrust]] ($195.3M distributed 2024), Donors Capital Fund. Anti-labor war: Janus (SEIU Local 1000 dues collapsed 49%), right-to-work campaigns, AFP state chapters opposing prevailing wage. California: Pacific Research Institute, California Policy Center (SPN), Prop 23 ($1M Flint Hills), AFP CA House races. justice system paradox: FIRST STEP Act (genuine) alongside $548M to destroy union power.
  - **[[Michael Bloomberg|Michael Bloomberg]]** (Mega-Donors/) — $104–109B net worth, liberal counterpart to Koch. $936M 2020 presidential campaign. Independence USA PAC: $10M (2012) → $63.5M (2018) → $68M (2020). 2024: $115M to Democratic causes. [[Everytown for Gun Safety|Everytown for Gun Safety]]: $270M+ lifetime (outspent NRA by 2024). Beyond Carbon: $1B committed (372+ of 530 coal plants retiring). Charter schools: $750M over 5 years. 2018 House flip: $80–100M, 21/24 districts flipped. California: $9M in 2018 (Rouda CA-48 $4M, Hill CA-25 $5M). Class analysis: the "good billionaire" problem — spends on gun control and climate (doesn't threaten wealth), not on unions, single-payer, or redistribution. Charter spending actively undermines CTA.
  - **[[Crypto Industry Bloc|Crypto Industry Bloc]]** (Tech & Crypto/) — expanded from existing node. Added: lobbying infrastructure (Blockchain Association $1.97M, Stand With Crypto 2.6M advocates, 922% lobbying surge), individual actor profiles (Armstrong, Andreessen/Horowitz, SBF conviction, Winklevoss $32M+, Garlinghouse/Ripple), legislative victories (GENIUS Act signed July 2025, FIT21 House passage, SEC enforcement reversal), California connections (a16z Menlo Park, Coinbase returning to SF, $10M+ against [[_Katie Porter Master Profile|Katie Porter]] in CA Senate primary).
 
@@ -1203,7 +1203,7 @@ Republican House/Governor files (~13 files):
 - Master profiles: 47
 - Total files: ~377 (added Manchin-Sinema comparison note)
 - Source URL compliance: ~95%+ (up from ~85-90% at Session 10 mid-point)
-- Remaining URL gaps: ~40 Gavin Newsom policy sub-notes (Criminal Justice, Economic Policy, Education, Environment, Healthcare, Housing, Immigration, Israel, Labor folders), misc placeholders without Sources sections
+- Remaining URL gaps: ~40 Gavin Newsom policy sub-notes (justice system, Economic Policy, Education, Environment, Healthcare, Housing, Immigration, Israel, Labor folders), misc placeholders without Sources sections
 - Web-ready source format: all master profiles and virtually all developed sub-notes now have clickable URLs
 
 ---
@@ -1214,7 +1214,7 @@ Republican House/Governor files (~13 files):
 
 ### What was built:
 *Gavin Newsom format normalization (42 files):*
-- 41 policy sub-notes across 9 folders (Criminal Justice 5, Economic Policy 5, Education 5, Environment 4, Healthcare 5, Housing 4, Immigration 5, Israel 3, Labor 5) + 1 campaign note (Newsom 2028)
+- 41 policy sub-notes across 9 folders (justice system 5, Economic Policy 5, Education 5, Environment 4, Healthcare 5, Housing 4, Immigration 5, Israel 3, Labor 5) + 1 campaign note (Newsom 2028)
 - These files already had URLs but used a legacy source format: `— Source — Description: URL [Tier X — notes]` with `**Sources**` bold header
 - Converted all to vault standard: `- [Source: Description](URL) (Tier X)` with `### Sources` H3 header
 - Also fixed Newsom master profile: changed `**Sources**` to `### Sources`
@@ -2656,7 +2656,7 @@ Top donor quid pro quo timelines:
 - **4 mega-donor nodes created (primary deliverable):**
  - **[[Dustin Moskovitz|Dustin Moskovitz]]** (Mega-Donors/) — $19B net worth, Facebook co-founder. $51M+ Future Forward 2024 (dark money 501c4). Effective altruism ideology as political framework. $41B Open Philanthropy commitments. Contradiction: progressive billionaire using identical dark money mechanics as GOP. Temporal table: 2004 Facebook → 2012 IPO → 2015 EA movement formation → 2022 FTX collapse → 2024 $51M dark money spending → Trump victory despite infrastructure. 8 sources.
  - **[[Stephen Schwarzman|Stephen Schwarzman]]** (Mega-Donors/) — $48B net worth, Blackstone CEO. $50M+ 2024 cycle (reversed 2022 anti-Trump stance when nomination secured). Core interest: carried interest tax protection ($15B+ annual industry value). Transactional donor who supports whoever will win and protect wealth. Temporal table: 1985 Blackstone founding → 2017 Tax Cuts (core victory) → 2022 Trump distance → 2024 Trump reversal ($50M+) → 2025 MAGA Inc ($5M). 7 sources.
- - **[[George Soros|George Soros]]** (Mega-Donors/) — $6.7B net worth (down from $28B due to giving), currency speculator to Democratic infrastructure architect. $24.5M 2024 cycle, $127M+ lifetime federal. Strategic 2025 pivot to state-level judicial elections (Wisconsin $2M, Michigan, Pennsylvania). Criminal justice reform through DA elections (Gascon, Boudin, Krasner). Contradiction: "democracy defender" using dark money he publicly opposes. Temporal table: 1992 currency speculation → 1993 Open Society → 2008 financial crisis → 2020 [[Senate Majority PAC|Senate Majority PAC]] surge → 2024 federal decline → 2025-26 state court focus. 8 sources.
+ - **[[George Soros|George Soros]]** (Mega-Donors/) — $6.7B net worth (down from $28B due to giving), currency speculator to Democratic infrastructure architect. $24.5M 2024 cycle, $127M+ lifetime federal. Strategic 2025 pivot to state-level judicial elections (Wisconsin $2M, Michigan, Pennsylvania). justice system reform through DA elections (Gascon, Boudin, Krasner). Contradiction: "democracy defender" using dark money he publicly opposes. Temporal table: 1992 currency speculation → 1993 Open Society → 2008 financial crisis → 2020 [[Senate Majority PAC|Senate Majority PAC]] surge → 2024 federal decline → 2025-26 state court focus. 8 sources.
  - **[[Reid Hoffman|Reid Hoffman]]** (Mega-Donors/) — $2.5B net worth, LinkedIn co-founder. $15.4M to Wisconsin Democratic Party alone (2019-2025), $60-70M total "pledge to defeat Trump." State-level infrastructure focus (Wisconsin, Minnesota, Pennsylvania, Arizona). 2026 Epstein crisis: documented 2014-2015 contact revealed despite public claims of no relationship. GOP demanded donation returns; Democratic leadership defended Hoffman. Contradiction: "pro-democracy" donor revealed maintaining Epstein relationship. Temporal table: 2002 LinkedIn founding → 2016 Microsoft acquisition → 2020 $100M anti-Trump pledge → 2024 state party giving surge → 2026 Epstein revelations and crisis management. 7 sources.
 
 **All 4 files:** 90-120 lines each, complete temporal mapping tables (8-10 entries), substantive class analysis, contradiction sections, tier-labeled sources.
@@ -2674,7 +2674,7 @@ Top donor quid pro quo timelines:
 
 ### Next session priorities (updated):
 1. Remaining mega-donor profiles (Koch Charles, Bloomberg, Adelson, Musk, Griffin, Yass, Thiel, Uihlein, Mellon) — some already built, others need full buildouts
-2. Policy contradiction deep-dives: gig economy (Newsom vs. unions), criminal justice (Soros vs. CCPOA), tech regulation (Hoffman vs. big tech donors)
+2. Policy contradiction deep-dives: gig economy (Newsom vs. unions), justice system (Soros vs. CCPOA), tech regulation (Hoffman vs. big tech donors)
 3. Cross-referencing layer: map all politicians sharing donors but performing public opposition (both-sides illusion)
 4. California direct-donor pulls (Cal-Access FPPC database) for Moskovitz, Soros, Hoffman, Schwarzman connections to state-level politicians
 
@@ -4662,7 +4662,7 @@ Economic Policy (2 files):
 Housing (1 file):
 - `3.5 Million Units - Broken Promise.md` (67 → 129 lines)
 
-Criminal Justice (1 file):
+justice system (1 file):
 - `Death Penalty Moratorium - Genuine Win With Limits.md` (67 → 130 lines)
 
 All 12 files now have: donors: lines, [!money] callouts, [!contradiction] callouts, Analytical Patterns sections, Donation-to-Policy Timeline tables, and expanded Sources with Tier 1/2 citations. Total expansion: ~700 → ~1,379 lines (+679 lines, +97% expansion).
@@ -4810,7 +4810,7 @@ Juliana Stratton, Michael Whatley, and Roy Cooper all have existing master profi
 **Pickup context:** Continuation expansion of Newsom sub-notes. Batch 2 of 2 — upgrading 9 policy sub-notes from thin draft/developed to A+ quality with full analytical patterns, donation-to-policy timelines, and additional sources.
 
 ### What was built:
-### Criminal Justice sub-notes (3 files):
+### justice system sub-notes (3 files):
 1. **Policing Reform - George Floyd Era** (76→116 lines, developed)
  - Added Donation-to-Policy Timeline (5 rows): 2020 AB 1506 same-month signing, CCPOA contribution cycles, 2023 reparations task force rejection, 2024 Prop 36 divergence
  - Added Analytical Patterns section (4 patterns): Genuine Win (AB 1506 accountability) + Structural Limit (no qualified immunity, no officer prosecution); Villain Framing (technique-focused rather than system-focused); Two-Audience Problem (accountability language vs. police protection); Pilot Program (local implementation removes state accountability)
@@ -4872,9 +4872,9 @@ Juliana Stratton, Michael Whatley, and Roy Cooper all have existing master profi
 
 3. **Two-Audience Problem is the Central Mechanism:** In every policy area, Newsom delivers one message to progressives (reform, dignity, rights, protection) and maintains one structural outcome for donors (system preserved, labor supply stable, capital protected). The two-audience resolution is not hypocrisy — it's precise engineering. He's not lying to either audience; he's managing their contradictory interests simultaneously.
 
-4. **The Pilot Program as Scaling Limitation:** Across criminal justice, housing, immigration, and energy, the pilot framing prevents system-wide threat. One facility, one housing program, one setback law, one state's resistance — each can claim significance without requiring structural transformation. This is the mechanism that allows Newsom to claim reform credit while preserving the system.
+4. **The Pilot Program as Scaling Limitation:** Across justice system, housing, immigration, and energy, the pilot framing prevents system-wide threat. One facility, one housing program, one setback law, one state's resistance — each can claim significance without requiring structural transformation. This is the mechanism that allows Newsom to claim reform credit while preserving the system.
 
-**Files updated:** All 9 sub-notes (Criminal Justice: 3, Environment: 2, Housing: 1, Israel: 1, Immigration: 2)
+**Files updated:** All 9 sub-notes (justice system: 3, Environment: 2, Housing: 1, Israel: 1, Immigration: 2)
 **Format compliance:** All headers H3+, callouts formatted correctly, wikilinks active, Tier ratings on sources, content-readiness field updated
 
 **No new sources created.** All 9 files use existing verified sources plus analysis of donation records and policy timelines drawn from primary sources (CalMatters Tier 2, FPPC Tier 1, LA Times Tier 2, etc.).
@@ -4940,7 +4940,7 @@ Education (3 files):
 - `COVID School Closures - Learning Loss and Class Division.md` (87 → 129 lines)
 - `Ethnic Studies - Whose History Gets Taught.md` (77 → 121 lines)
 
-Criminal Justice (3 files):
+justice system (3 files):
 - `Policing Reform - George Floyd Era.md` (76 → 117 lines)
 - `San Quentin - COVID Disaster and Rehabilitation Theater.md` (83 → 111 lines)
 - `CCPOA - The Prison Guard Donor and the Reform Ceiling.md` (94 → 135 lines)
@@ -4979,7 +4979,7 @@ All 18 files now have: Analytical Patterns (all 4 patterns), Donation-to-Policy 
 - Newsom: 42 sub-notes + master = most extensive policy coverage (30 at A+/developed, 12 at good/developed from previous sessions)
 
 ### Next session priorities:
-1. Remaining Newsom "Donors and Backers" files need expansion (Education, Immigration, Economic Policy, Environment, Criminal Justice, Labor — 6 files at 74-122 lines)
+1. Remaining Newsom "Donors and Backers" files need expansion (Education, Immigration, Economic Policy, Environment, justice system, Labor — 6 files at 74-122 lines)
 2. Donor node expansion: PhRMA and Goldman Sachs need full temporal mapping (appear in 6+ profiles each)
 3. 2026 Senate race profiles: verify all competitive races have candidate master profiles with donor mapping
 4. Ohio 2026 follow-up: track national Democratic super PAC entry for Acton
@@ -5001,7 +5001,7 @@ All 18 files now have: Analytical Patterns (all 4 patterns), Donation-to-Policy 
 - `Environment/Environment - Donors and Backers.md` (90 → 125 lines) — Added [!money] (PG&E $700K+ total + $40M lobbying; fossil fuel 10:1 vs environmental justice), [!contradiction] (green brand + PG&E donor + record drilling permits), Timeline (AB 1054 → NEM 3.0 → SB 1137 → drilling permits), all 4 Analytical Patterns.
 
 2 files upgraded from "developed" to full A+ standard:
-- `Criminal Justice/Criminal Justice - Donors and Backers.md` (120 → 156 lines) — Added Donation-to-Policy Timeline (CCPOA $1.5M → $1.75M recall → $1B contract → $600M contract; PORAC → reform weakening; bail $8-9M → Prop 25 defeated), all 4 Analytical Patterns. Already had strong [!money] callouts. Now complete.
+- `justice system/justice system - Donors and Backers.md` (120 → 156 lines) — Added Donation-to-Policy Timeline (CCPOA $1.5M → $1.75M recall → $1B contract → $600M contract; PORAC → reform weakening; bail $8-9M → Prop 25 defeated), all 4 Analytical Patterns. Already had strong [!money] callouts. Now complete.
 - `Labor/Labor - Donors and Backers.md` (122 → 160 lines) — Added [!contradiction] (AB5 signed then Prop 22 silence; DoorDash $500K recall), Donation-to-Policy Timeline (AB5 → Prop 22 $205.5M → recall defense → FAST Act → AB 1228 → AB 2183 veto/reversal), all 4 Analytical Patterns. Most documented donor-to-outcome story in Newsom's record.
 
 ### SCOTUS — Duplicate source cleanup (4 files):
@@ -6808,7 +6808,7 @@ Reiterating Run 1's recommendation. The profile-builder mission is complete — 
 
 #### Cumulative pattern update
 
-Eight discovery runs now document a seven-tier influence architecture: (1) ethics infrastructure destroyed, (2) enforcement explicitly rolled back, (3) conflicts institutionalized, (4) favorable policy written, (5) safety net dismantled to pay for it, (6) electoral opposition eliminated through $800M+ combined spending, and now (7) **justice itself privatized** — the clemency power financialized into a $5.2M lobbying market where donor contributions buy freedom and $2B in court-ordered restitution vanishes. The pardon industry story completes the cycle: the same donor class that buys legislation and eliminates electoral opposition can now buy their way out of criminal liability.
+Eight discovery runs now document a seven-tier influence architecture: (1) ethics infrastructure destroyed, (2) enforcement explicitly rolled back, (3) conflicts institutionalized, (4) favorable policy written, (5) safety net dismantled to pay for it, (6) electoral opposition eliminated through $800M+ combined spending, and now (7) **justice itself privatized** — the clemency power financialized into a $5.2M lobbying market where donor contributions buy freedom and $2B in court-ordered restitution vanishes. The pardon industry story completes the cycle: the same donor class that buys legislation and eliminates electoral opposition can now buy their way out of liability.
 
 #### Vault integration suggestions
 
@@ -8186,7 +8186,7 @@ All files follow standard vault anatomy. Temporal mapping tables, analytical pat
 
 **The ACA Repeal That Never Came and the Pharma Donors Who Paid Either Way.** `topics/Politicians/Republicans/Presidential/Donald Trump/Healthcare/`. Skinny repeal failure 49 to 51 (July 28, 2017, 1:30 AM McCain thumbs down), individual mandate zeroed via tax bill, enrollment drop 9.2M, Operation Warp Speed $18B public/$90B private profit, RFK Jr. HHS ($3.2M wellness industry ties, 17 ACIP members fired, $500M mRNA contracts terminated), One Big Beautiful Bill Medicaid $326B cuts, 10M projected uninsured by 2034. Genuine Win + Structural Limit on Warp Speed. Contradiction callout on Warp Speed vs. mRNA contract cancellation. 8 sources.
 
-**The Pardon Machine. Who Got Clemency and Who Funded It.** `topics/Politicians/Republicans/Presidential/Donald Trump/Criminal Justice & DOJ/`. 1,644+ total clemency, ~1,500 January 6 pardons Day One, donor pardon pipeline (Kushner $100K+$1M, Milton $2M, Betancourt $3.5M), only 25 of 238 first term through DOJ review, 230+ DOJ employees fired, Jack Smith cases dropped, Kash Patel confirmed 51 to 49, retaliatory investigations (Schiff, Brennan, Comey). Two Audience Problem on pardon power as transaction. 8 sources including 3 Tier 1.
+**The Pardon Machine. Who Got Clemency and Who Funded It.** `topics/Politicians/Republicans/Presidential/Donald Trump/justice system & DOJ/`. 1,644+ total clemency, ~1,500 January 6 pardons Day One, donor pardon pipeline (Kushner $100K+$1M, Milton $2M, Betancourt $3.5M), only 25 of 238 first term through DOJ review, 230+ DOJ employees fired, Jack Smith cases dropped, Kash Patel confirmed 51 to 49, retaliatory investigations (Schiff, Brennan, Comey). Two Audience Problem on pardon power as transaction. 8 sources including 3 Tier 1.
 
 **The Adelson Pipeline. Embassy, Abraham Accords, and Iran.** `topics/Politicians/Republicans/Presidential/Donald Trump/Israel & Foreign Policy/`. Miriam Adelson $215M+ (2024), Sheldon $273M lifetime, Jerusalem embassy May 14 2018 (Adelson front row), Golan Heights March 25 2019, Abraham Accords (UAE/Bahrain/Sudan/Morocco with side deals documented), JCPOA withdrawal, Soleimani strike, Iran war 2026 ($12B spent, $200B requested), Kushner Affinity Partners $2B Saudi PIF, $110B Saudi arms deal, Khashoggi "maybe he did maybe he didn't", AIPAC $126.9M 2024 cycle. Two Audience Problem on evangelical/donor divergence. Contradiction callout on $273M to war pipeline. 9 sources including 4 Tier 1.
 
@@ -8217,7 +8217,7 @@ Read all 10 Substack ready Newsom sub-notes and identified cross-link opportunit
 ### Files created this session (9).
 1. `topics/Politicians/Republicans/Presidential/Donald Trump/Trade & Tariffs/Tariff Wars - The Working Class Tax Disguised as Trade Policy.md` (new)
 2. `topics/Politicians/Republicans/Presidential/Donald Trump/Healthcare/The ACA Repeal That Never Came and the Pharma Donors Who Paid Either Way.md` (new)
-3. `topics/Politicians/Republicans/Presidential/Donald Trump/Criminal Justice & DOJ/The Pardon Machine - Who Got Clemency and Who Funded It.md` (new)
+3. `topics/Politicians/Republicans/Presidential/Donald Trump/justice system & DOJ/The Pardon Machine - Who Got Clemency and Who Funded It.md` (new)
 4. `topics/Politicians/Republicans/Presidential/Donald Trump/Israel & Foreign Policy/The Adelson Pipeline - Embassy, Abraham Accords, and Iran.md` (new)
 5. `topics/Politicians/Republicans/Presidential/Donald Trump/Labor/The NLRB Gutting and the Biggest Union Bust in American History.md` (new)
 6. `topics/Politicians/Republicans/Presidential/Donald Trump/Education/The DeVos to McMahon Pipeline - Public Schools as Private Profit.md` (new)
@@ -8230,7 +8230,7 @@ Read all 10 Substack ready Newsom sub-notes and identified cross-link opportunit
 
 ### Key editorial decisions.
 - Trump now has 16 policy sub-notes plus 1 donor network map (17 total sub-notes). Up from 9. Newsom has 42 sub-notes plus master profile. Gap is closing.
-- New policy areas covered. Trade/Tariffs, Healthcare, Criminal Justice/DOJ, Israel/Foreign Policy, Labor, Education, Judicial. Combined with existing areas (Tax, DOGE, Crypto, Fossil Fuel, Palantir, Immigration, Project 2025, Billionaire Cabinet, Iran War) Trump is now documented across 16 policy domains.
+- New policy areas covered. Trade/Tariffs, Healthcare, justice system/DOJ, Israel/Foreign Policy, Labor, Education, Judicial. Combined with existing areas (Tax, DOGE, Crypto, Fossil Fuel, Palantir, Immigration, Project 2025, Billionaire Cabinet, Iran War) Trump is now documented across 16 policy domains.
 - Trump Donor Network note maps 9 sectors with documented spending totals. This is the connective tissue equivalent of Newsom's per-sector "Donors and Backers" notes but consolidated into one comprehensive map.
 - The Trump-Newsom mirror note is the strongest cross-politician analysis piece in the vault. 6 sectors of both-sides convergence. This should be a priority Substack piece.
 - All 9 new files use the same vault anatomy. Temporal mapping, analytical patterns, Tier 1/2 sources, donor wikilinks.
@@ -8267,7 +8267,7 @@ Read all 10 Substack ready Newsom sub-notes and identified cross-link opportunit
 
 **Healthcare. Donors and Backers.** `topics/Politicians/Republicans/Presidential/Donald Trump/Healthcare/`. PhRMA $30M+ lobbying, Pfizer $2.5M+ per cycle ($37B Comirnaty revenue), UnitedHealth $4.8M+, RFK wellness industry $3.2M, pharma to wellness donor class switch in second term.
 
-**Criminal Justice and DOJ. Donors and Backers.** `topics/Politicians/Republicans/Presidential/Donald Trump/Criminal Justice & DOJ/`. GEO Group $475K (stock +21% post inauguration), CoreCivic $250K inaugural, pardon donor pipeline table (Kushner $100K+$1M, Milton $2M, Betancourt $3.5M), FOP endorsement, Save America PAC $100M+.
+**justice system and DOJ. Donors and Backers.** `topics/Politicians/Republicans/Presidential/Donald Trump/justice system & DOJ/`. GEO Group $475K (stock +21% post inauguration), CoreCivic $250K inaugural, pardon donor pipeline table (Kushner $100K+$1M, Milton $2M, Betancourt $3.5M), FOP endorsement, Save America PAC $100M+.
 
 **Israel and Foreign Policy. Donors and Backers.** `topics/Politicians/Republicans/Presidential/Donald Trump/Israel & Foreign Policy/`. Adelson family ($273M Sheldon lifetime, $215M+ Miriam 2024), AIPAC/UDP $126.9M 2024 cycle, defense contractor table (Lockheed $4.5M+, Raytheon $3.8M+, Northrop $3.2M+, Boeing $4.2M+), Kushner $2B Saudi PIF, $110B Saudi arms deal, CUFI evangelical cover. Money callout on $110B deal. Contradiction callout on Kushner enrichment pipeline.
 
@@ -8298,7 +8298,7 @@ Read all 10 Substack ready Newsom sub-notes and identified cross-link opportunit
 ### Files created this session (12).
 1. `topics/Politicians/Republicans/Presidential/Donald Trump/Trade & Tariffs/Trade and Tariffs - Donors and Backers.md` (new)
 2. `topics/Politicians/Republicans/Presidential/Donald Trump/Healthcare/Healthcare - Donors and Backers.md` (new)
-3. `topics/Politicians/Republicans/Presidential/Donald Trump/Criminal Justice & DOJ/Criminal Justice and DOJ - Donors and Backers.md` (new)
+3. `topics/Politicians/Republicans/Presidential/Donald Trump/justice system & DOJ/justice system and DOJ - Donors and Backers.md` (new)
 4. `topics/Politicians/Republicans/Presidential/Donald Trump/Israel & Foreign Policy/Israel and Foreign Policy - Donors and Backers.md` (new)
 5. `topics/Politicians/Republicans/Presidential/Donald Trump/Labor/Labor - Donors and Backers.md` (new)
 6. `topics/Politicians/Republicans/Presidential/Donald Trump/Education/Education - Donors and Backers.md` (new)
@@ -8444,7 +8444,7 @@ Full editorial pass across all 44 Trump files. Read every file. Verified YAML fr
 - Trump total files. 44 (29 sub-notes + 12 Donors and Backers + 1 master profile + 1 donor network map + 1 Iran War)
 - Trump files at ready. 0 to 25
 - Trump files at developed. 44 to 19
-- Trump policy domains. 17 (DOGE, Immigration, Surveillance, Economic Policy, Trade/Tariffs, Agriculture, Crypto, Environment, Education, Guns, Healthcare, Housing, Israel/Foreign Policy, Judicial, Labor, Criminal Justice/DOJ, Governance)
+- Trump policy domains. 17 (DOGE, Immigration, Surveillance, Economic Policy, Trade/Tariffs, Agriculture, Crypto, Environment, Education, Guns, Healthcare, Housing, Israel/Foreign Policy, Judicial, Labor, justice system/DOJ, Governance)
 - DOGE sub-notes. 1 to 4
 - Immigration sub-notes. 1 to 4
 - Surveillance sub-notes. 1 to 3
@@ -8634,7 +8634,7 @@ New domain: **Media & Propaganda** (2 files):
 - [[Media and Propaganda - Donors and Backers]] — D&B node mapping Rupert Murdoch/Fox News ecosystem, Sinclair Broadcasting, Truth Social/DJT stock, Newsmax, OAN/AT&T funding, Elon Musk/X platform, billionaire newspaper owners (Soon-Shiong, Bezos). 23 source URLs. 188 lines.
 - [[The Fox News Pipeline - How Media Money Shaped the MAGA Machine]] — Deep analysis of Murdoch-Trump symbiotic relationship, Fox as in-kind contribution, Dominion $787.5M settlement, Sinclair must-run segments, coverage as editorial/financial decision. 7 source URLs. 190 lines.
 
-Expanded domain: **Criminal Justice & DOJ** (1 file):
+Expanded domain: **justice system & DOJ** (1 file):
 - [[The Kash Patel FBI - Loyalty Over Law and the Weaponization of Federal Law Enforcement]] — Patel pathway from Nunes aide to FBI Director, "Government Gangsters" enemies list, 52-48 confirmation, mass firings (counterintelligence agents including Iran unit during active war), loyalty tests replacing merit hiring. 9 source URLs. 195 lines.
 
 Expanded domain: **Healthcare** (1 file):
@@ -8661,7 +8661,7 @@ Expanded domain: **Governance** (1 file):
 - Topics/Politicians/Republicans/Presidential/Donald Trump/January 6th & Election Denial/The Insurrection Investment - Who Funded January 6th and What They Got.md
 - Topics/Politicians/Republicans/Presidential/Donald Trump/Media & Propaganda/Media and Propaganda - Donors and Backers.md
 - Topics/Politicians/Republicans/Presidential/Donald Trump/Media & Propaganda/The Fox News Pipeline - How Media Money Shaped the MAGA Machine.md
-- Topics/Politicians/Republicans/Presidential/Donald Trump/Criminal Justice & DOJ/The Kash Patel FBI - Loyalty Over Law and the Weaponization of Federal Law Enforcement.md
+- Topics/Politicians/Republicans/Presidential/Donald Trump/justice system & DOJ/The Kash Patel FBI - Loyalty Over Law and the Weaponization of Federal Law Enforcement.md
 - Topics/Politicians/Republicans/Presidential/Donald Trump/Healthcare/RFK Jr and the HHS Demolition - Make America Healthy Again Meets Pharma Deregulation.md
 - Topics/Politicians/Republicans/Presidential/Donald Trump/Governance/Schedule F and the Deep State Purge - Replacing Civil Servants with Loyalists.md
 
@@ -8891,7 +8891,7 @@ Expanded domain: **Governance** (1 file):
 - 2 new master profiles created (Hegseth, Miller)
 - 1 new donor node created (Murdoch)
 - 6 new Trump sub-domains created (January 6th, Media & Propaganda, Emoluments, Veterans & Military, Social Policy & Culture War)
-- 2 existing Trump sub-domains expanded (Criminal Justice, Healthcare, Governance, Israel)
+- 2 existing Trump sub-domains expanded (justice system, Healthcare, Governance, Israel)
 - All URLs verified across all Substack posts (3-7) and new files
 
 ### Vault statistics after Session 35:
@@ -9238,7 +9238,7 @@ All broken wikilinks in the 46 ready notes have been resolved. Every ready note 
 
 - **162 draft files batch-promoted to developed** (criteria: 50+ lines AND 3+ URLs or 3+ sections)
 
-- **11 mistagged developed files batch-downgraded to draft** (Trump D&B sub-notes with 0 URLs and 0 sections: Healthcare, Education, Criminal Justice, Trade/Tariffs, Housing, Labor, Guns, Environment, Agriculture, Judicial, Crypto/Tech)
+- **11 mistagged developed files batch-downgraded to draft** (Trump D&B sub-notes with 0 URLs and 0 sections: Healthcare, Education, justice system, Trade/Tariffs, Housing, Labor, Guns, Environment, Agriculture, Judicial, Crypto/Tech)
 
 - **144 bold headers converted to ### headers** across 21 ready notes (standardization for Obsidian Publish rendering)
 
@@ -12756,7 +12756,7 @@ Expanded **2 thin donor nodes** from 33-line stubs marked "ready" to fully devel
 - **Before:** 33 lines, 3 sources, missing Who They Fund, What They've Gotten, Revolving Door, Class Analysis
 - **After:** 134 lines, 13 Chrome-verified sources (5 Tier 1, 5 Tier 2, 1 Tier 3 + 2 existing)
 - **Status change:** ready → developed (downgraded — thin "ready" file was non-compliant; now has substantive content but needs editorial review)
-- **Key findings:** Boeing's PAC gives to 260+ House members in a single cycle (saturation strategy). 70% of Boeing's 114 lobbyists are former government officials. KC-46 tanker program has $9.55B in cost overruns on a $4.9B contract but continues. Boeing won $20B F-47 NGAD contract in March 2025 with cost-plus structure (government absorbs risk). 737 MAX criminal case dismissed Nov 2025 despite 346 deaths — ultimate too-big-to-fail protection.
+- **Key findings:** Boeing's PAC gives to 260+ House members in a single cycle (saturation strategy). 70% of Boeing's 114 lobbyists are former government officials. KC-46 tanker program has $9.55B in cost overruns on a $4.9B contract but continues. Boeing won $20B F-47 NGAD contract in March 2025 with cost-plus structure (government absorbs risk). 737 MAX case dismissed Nov 2025 despite 346 deaths — ultimate too-big-to-fail protection.
 - **Analytical patterns:** Donor-Class Override (defense contracts continue despite catastrophic failures), Revolving Door (Patrick Shanahan DOD-to-Boeing, Heidi Grant DSCA-to-Boeing, Nikki Haley board appointment), Both-Sides Illusion (62/37 R/D PAC split ensures bipartisan protection)
 
 **2. Small Dollar Donors - ActBlue** (`topics/Donors & Power Networks/Dark Money/Small Dollar Donors - ActBlue.md`)
@@ -16259,7 +16259,7 @@ Wikipedia Amy Acton, NPR COVID resignations, DOJ SDOH Householder sentencing, Oh
 
 - **Basel III Endgame rollback is the vault's cleanest recent donor-class override:** Dimon reportedly circumvented the Fed's Vice Chair for Supervision to directly pressure Fed Chair Powell — who met with bank CEOs 12+ times during deliberations. The final rule was scaled back ~50% from the original proposal. Capital requirements — the primary regulatory tool for preventing bank failures — were weakened through executive relationship pressure, not congressional lobbying.
 
-- **The "too big to prosecute" pattern predates Trump:** The 2013 $13 billion settlement gave JPMorgan broad civil immunity for mortgage fraud that contributed to the 2008 crisis. No criminal charges were filed against individuals. Dimon remained CEO. The settlement was negotiated in secret. This is the Obama DOJ's record — the same pattern critics attribute only to Trump-era deregulation predates it by a decade.
+- **The "too big to prosecute" pattern predates Trump:** The 2013 $13 billion settlement gave JPMorgan broad civil immunity for mortgage fraud that contributed to the 2008 crisis. No charges were filed against individuals. Dimon remained CEO. The settlement was negotiated in secret. This is the Obama DOJ's record — the same pattern critics attribute only to Trump-era deregulation predates it by a decade.
 
 #### Files modified
 - `topics/Donors & Power Networks/Wall Street/JPMorgan.md` (40 → 147 lines, 1 → 11 sources, ready → developed)
@@ -16452,7 +16452,7 @@ Continuing the thin-profile approach from Run 1: targeting master profiles under
 7. `Politicians/Democrats/Presidential/Kamala Harris/VP Labor Record - What Unions Got and Didn't Get.md` — Already had ### headers. YAML+footer update. 187 lines, 18 sources.
 
 ### Kash Patel / FBI (1):
-8. `Politicians/Republicans/Presidential/Donald Trump/Criminal Justice & DOJ/The Kash Patel FBI.md` — Bold→### conversion (11 headers), type fixed (politician→sub-note), parent added (Trump). 105 lines, 10 sources.
+8. `Politicians/Republicans/Presidential/Donald Trump/justice system & DOJ/The Kash Patel FBI.md` — Bold→### conversion (11 headers), type fixed (politician→sub-note), parent added (Trump). 105 lines, 10 sources.
 
 ### Bianco jail deaths (1):
 9. `Politicians/Republicans/Governors/Chad Bianco/Jail Deaths and Use of Force/2022 Jail Death Crisis.md` — Bold→### conversion (10 headers), type fixed (politician→sub-note), parent added (Bianco). 149 lines, 13 sources.
@@ -16706,7 +16706,7 @@ Raw donor node backlog: 91 → 18 raw donor nodes remaining (73 raw politician p
 - **$250 million "Big Rip-Off":** January 6 Committee documented that Trump raised $250M on claims of an "Official Election Defense Fund" that did not exist. Campaign sent 25+ fundraising emails per day with deceptive tactics (fake forwarded messages, misleading sender lines).
 - **Legal fee machine:** $50M+ spent on Trump's legal fees in 2023 alone (86% of H1 2023 spending). Only $210K to 42 candidates in 2022 cycle — 0.19% of total raised.
 - **Pardon economy documented:** Daughter of Venezuelan billionaire Velutini donated $3.5M to MAGA Inc; Velutini received pardon (January 2026). Mother of convicted fraudster Walczak donated $1M; Walczak pardoned (April 2025).
-- **Zero enforcement:** Despite January 6 Committee findings, Jack Smith investigation, and FEC complaints — no criminal charges filed for fundraising fraud. Smith withdrew subpoena October 2023. Leadership PAC structure creates enforcement vacuum.
+- **Zero enforcement:** Despite January 6 Committee findings, Jack Smith investigation, and FEC complaints — no charges filed for fundraising fraud. Smith withdrew subpoena October 2023. Leadership PAC structure creates enforcement vacuum.
 - **Analytical patterns flagged:** Two-Audience Problem (fundraising appeals vs. actual spending), Donor-Class Override (pardon economy inverts normal donor-to-policy pipeline)
 
 #### Remaining raw donor nodes: 9
@@ -17018,7 +17018,7 @@ Dead links render as dimmed gray text on Publish — cosmetic, not functional. N
 ### Bennie Thompson (raw → ready):
 - SNCC organizer → Homeland Security Committee chair; civil rights to surveillance state pipeline
 - 65% PAC-funded; 434 lobbying organizations contributing
-- January 6th Select Committee Chair (10 hearings, 1000+ witnesses, criminal referrals)
+- January 6th Select Committee Chair (10 hearings, 1000+ witnesses, referrals)
 - $1.5M net worth from Jackson rental properties; district is 26%+ poverty
 - Mobile biometric surveillance legislation from a former COINTELPRO target's congressman
 - 13 sources with tier ratings
@@ -17492,7 +17492,7 @@ Recommended setting graph depth to maximum (5-6) globally. Since homepage links 
 
 ### Trump sub-notes — all 19 promoted to ready
 
-All Trump policy sub-notes promoted with YAML corrections, ### header formatting, footer updates. Includes Veterans/Military (167 lines, 21 sources), Insurrection Investment (186 lines, 18 sources), Grift Machine (175 lines, 17 sources), plus 11 draft policy nodes (Trade, Labor, Judicial, Housing, Healthcare, Guns, Environment, Education, Crypto, Criminal Justice, Agriculture).
+All Trump policy sub-notes promoted with YAML corrections, ### header formatting, footer updates. Includes Veterans/Military (167 lines, 21 sources), Insurrection Investment (186 lines, 18 sources), Grift Machine (175 lines, 17 sources), plus 11 draft policy nodes (Trade, Labor, Judicial, Housing, Healthcare, Guns, Environment, Education, Crypto, justice system, Agriculture).
 
 ### Dataview block stripping (151 files)
 
@@ -17541,7 +17541,7 @@ Created 63 new files across multiple sectors:
 **Foreign (4):** Saudi Arabia, UAE, Turkey-Erdogan, Israel-Government Lobbying
 **Pharma (2):** Gilead Sciences, Purdue Pharma-Sackler Family
 **Politicians — new master profiles (3):** Katie Porter, Pete Aguilar, Elise Stefanik
-**Sub-notes for existing profiles (18):** Klobuchar (Telecom), Booker (Criminal Justice), Murphy (Foreign Policy), Grassley (Agriculture), Cassidy (Healthcare), Durbin (Immigration), Rubio (China), Whitehouse (Dark Money), Cotton (Defense), Scott (Medicare Fraud), Wyden (Finance/Tech), Ernst (Veterans), Tillis (IP/Banking), Markey (Green New Deal), Merkley (Housing), Rand Paul (Libertarian), Ted Cruz (Goldman), Cantwell (Boeing)
+**Sub-notes for existing profiles (18):** Klobuchar (Telecom), Booker (justice system), Murphy (Foreign Policy), Grassley (Agriculture), Cassidy (Healthcare), Durbin (Immigration), Rubio (China), Whitehouse (Dark Money), Cotton (Defense), Scott (Medicare Fraud), Wyden (Finance/Tech), Ernst (Veterans), Tillis (IP/Banking), Markey (Green New Deal), Merkley (Housing), Rand Paul (Libertarian), Ted Cruz (Goldman), Cantwell (Boeing)
 **Sub-notes for zero-sub-note profiles (4):** Jayapal (Progressive Caucus), Ro Khanna (Silicon Valley), Acosta (Epstein), Bianco (Sheriff Pipeline)
 **Story/Analysis notes (8):** Carried Interest Loophole, Defense Spending Consensus, Committee Fundraising, Revolving Door, Both-Sides Dark Money, Insurance Industry Public Option Kill, Farm Bill, SCOTUS Capture
 **Additional donor nodes (9):** CoreCivic, NEA, Anthem-Elevance, Starbucks, McDonald's, Airbnb, Americans for Tax Reform, Council for National Policy, Tenet Healthcare
@@ -19126,7 +19126,7 @@ All 31 had `content-readiness: ready` in YAML (correct). The inline footer had e
 - `Donors & Power Networks/Super PACs/Senate Majority PAC.md`
 - `Donors & Power Networks/Tech & Crypto/Eric Schmidt.md`
 - `Donors & Power Networks/Tech & Crypto/Silicon Valley Democratic Donor Network.md`
-- `Politicians/Democrats/Governors/Gavin Newsom/Criminal Justice/Criminal Justice - Donors and Backers.md`
+- `Politicians/Democrats/Governors/Gavin Newsom/justice system/justice system - Donors and Backers.md`
 - `Politicians/Democrats/Governors/Gavin Newsom/Education/` (3 sub-notes)
 - `Politicians/Democrats/Governors/Gavin Newsom/Healthcare/` (2 sub-notes)
 - `Politicians/Democrats/Governors/Gavin Newsom/Housing/` (2 sub-notes)
@@ -19572,7 +19572,7 @@ David explicitly directed: expand Jeff Yass, Club for Growth, CLF, SLF, Stand To
 | [[Club for Growth]] | 144 lines, wrong FEC ID (C00487363 = American Crossroads) | ~220 lines, 13 sources | ready → developed | FEC committee ID corrected to C00487470. Full FEC financial data ($88.6M raised, $74.4M outside spending, 97% large-donor). All entities combined: $163M, 32 wins, 77.3% win rate. Trump relationship timeline (2015 enemy → 2024 capitulation). 2026 plans: $175M war chest. Richard Uihlein $8.8M added as #2 donor. |
 | [[Congressional Leadership Fund]] | 143 lines, fabricated ProPublica URL | ~220 lines, 8 sources | ready → developed | Fabricated ProPublica URL removed. Full FEC data ($243.2M raised, $216.8M independent expenditures). Hybrid PAC/Carey committee structure documented. Spending growth trajectory (2012 $48M → 2024 $243M, 406% increase). Top donors: AAN $17.3M dark money pass-through, Yass $10M, Musk $5M+$5M, Griffin, Duchossois $9.5M. CLF-AAN dual structure analysis. Winkelman leadership update. |
 | [[Senate Leadership Fund]] | 125 lines, fabricated ProPublica URL, wrong total ($116.5M) | ~230 lines, 9 sources | ready → developed | MAJOR CORRECTION: Total raised was $298.9M, not $116.5M (old file used partial-year data). Fabricated ProPublica URL removed. Full FEC data ($299M raised, $211M independent expenditures, 95% from $200+ donors). Spending growth (2016 $71M → 2024 $299M). Griffin $30M = 25.8% of total. Thune transition documented ($180M off-year record). One Nation dark money pipeline. |
-| [[Stand Together]] | 136 lines, inline URLs (wrong format), broken Accountable.US URL | ~220 lines, 10 sources | ready → developed | Full Koch network architecture mapped (8 entities with amounts). 2024 cycle: $578M raised, $548M spent. AFP $397M ($215M record year). AFP Action $181M ($40M Koch Industries, $43M Stand Together CoC dark money). Project 2025 funding ($4.4M via Stand Together Trust). ACA subsidy campaign. $20M "Protect Prosperity" TCJA renewal push. Criminal justice "reform" as policy laundering analysis. |
+| [[Stand Together]] | 136 lines, inline URLs (wrong format), broken Accountable.US URL | ~220 lines, 10 sources | ready → developed | Full Koch network architecture mapped (8 entities with amounts). 2024 cycle: $578M raised, $548M spent. AFP $397M ($215M record year). AFP Action $181M ($40M Koch Industries, $43M Stand Together CoC dark money). Project 2025 funding ($4.4M via Stand Together Trust). ACA subsidy campaign. $20M "Protect Prosperity" TCJA renewal push. justice system "reform" as policy laundering analysis. |
 
 #### URL verification results
 
@@ -21343,7 +21343,7 @@ Full Chrome URL verification pass on all 10 source citations in the target file.
 ### Next Session Priorities (Think Tanks)
 
 1. **American Enterprise Institute** — neoconservative policy, defense contractor connections, next Conservative-category build
-2. **Manhattan Institute** — urban policy, criminal justice, housing deregulation
+2. **Manhattan Institute** — urban policy, justice system, housing deregulation
 3. **Economic Policy Institute** — union-funded counter-research (first remaining Liberal-category build)
 
 ---
@@ -21777,7 +21777,7 @@ Created `topics/Think Tanks & Policy Infrastructure/Conservative/American Enterp
 
 #### Next think-tank-builder priority
 
-Run 7: **Manhattan Institute** — conservative urban policy think tank; NYC-based; criminal justice reform rollback, housing deregulation, "broken windows" policing intellectual infrastructure; City Journal publication; Koch/Bradley/Scaife funding overlap with rest of conservative network.
+Run 7: **Manhattan Institute** — conservative urban policy think tank; NYC-based; justice system reform rollback, housing deregulation, "broken windows" policing intellectual infrastructure; City Journal publication; Koch/Bradley/Scaife funding overlap with rest of conservative network.
 
 ---
 
@@ -22117,7 +22117,7 @@ Promoted to `developed` (not `ready`):
 
 1. **The HELP Committee and Prescription Drug Pricing** (Tammy Baldwin) — 41 lines, pharma donor-policy tension well-documented in OpenSecrets data
 2. **The Green New Deal and Telecom Legacy** (Ed Markey) — 41 lines, telecom donor history rich; two Markey sub-notes exist alongside thin master profile (93 lines master profile, worth checking if master needs expansion)
-3. **Dick Durbin master profile** — 93 lines, 3 files total; Judiciary Committee + criminal justice reform limits well-suited to the vault's analytical frame
+3. **Dick Durbin master profile** — 93 lines, 3 files total; Judiciary Committee + justice system reform limits well-suited to the vault's analytical frame
 
 ---
 
@@ -22178,7 +22178,7 @@ Promoted to `developed` (not `ready`):
 ### Next thin-profile-expansion priorities
 
 1. **The Green New Deal and Telecom Legacy** (Ed Markey) — 41 lines, telecom donor history rich with OpenSecrets data; prior run identified this as #3 priority
-2. **Dick Durbin master profile** — 93 lines, Judiciary Committee + criminal justice reform limits; donor architecture analysis underdeveloped
+2. **Dick Durbin master profile** — 93 lines, Judiciary Committee + justice system reform limits; donor architecture analysis underdeveloped
 3. **Tammy Baldwin — campaign finance sub-note** — if one exists and is thin, worth checking alongside the HELP note expansion
 
 ---
@@ -26500,7 +26500,7 @@ Expanded from 63 lines → 148 lines. Promoted from `ready` → `developed` (fil
 - KBR/Halliburton Iraq contracts: $10.8B in Iraq (5 contracts); $31B+ total LOGCAP work ordered since 2001 LOGCAP award (verified via PolitiFact + Center for Public Integrity)
 - Energy Task Force: 40+ meetings with industry executives (ExxonMobil, Conoco, Shell, BP, Enron/Ken Lay confirmed via NBC News); 0 recorded meetings with environmentalists
 - Halliburton loophole: Energy Policy Act of 2005 exempted fracking from Safe Drinking Water Act
-- Torture: HRW identifies Cheney as "driving force" behind CIA enhanced interrogation; called for criminal investigation
+- Torture: HRW identifies Cheney as "driving force" behind CIA enhanced interrogation; called for investigation
 
 #### Files Created/Modified
 
@@ -27015,7 +27015,7 @@ All 25 think tank profiles and all 4 cross-comparison pieces confirmed at `ready
 - May 2025: Charles Koch (89) accepted the Milton Friedman Prize for Advancing Liberty at a Cato Institute gala in Washington D.C. — his first major public speech in years. Without naming Trump, Koch said: "With so much change, and chaos, and conflict, too many people and organizations are abandoning these principles and turning to power to solve problems." And: "You can see why we're in the mess we are today."
 - Cato president Peter Goettler said explicitly: "When the President disappears people without due process, or enacts extra-legal tariffs that threaten business and prosperity around the world, or targets individual law firms for retribution and calls into great danger to the rule of law, we'll stick to our principles, speak out, push back, and oppose it."
 - Context: Koch-linked groups spent $42 million blocking Trump's 2024 nomination; AFP spent nearly $160 million in 2024 advocacy without contributing a penny to Trump. Cato (March 2026): Trump tariffs are "a recipe for making Americans worse off."
-- Pattern flagged: **Donor-Class Fracture** — the libertarian policy infrastructure that enabled Trump 1.0 (tax cuts, criminal justice) is now in open opposition to Trump 2.0 (tariffs, due process, executive overreach). Koch's free-market globalism and Trump's economic nationalism are structurally incompatible. The contradiction reveals Cato's libertarianism was always conditional on its political vehicle not also bringing protectionism.
+- Pattern flagged: **Donor-Class Fracture** — the libertarian policy infrastructure that enabled Trump 1.0 (tax cuts, justice system) is now in open opposition to Trump 2.0 (tariffs, due process, executive overreach). Koch's free-market globalism and Trump's economic nationalism are structurally incompatible. The contradiction reveals Cato's libertarianism was always conditional on its political vehicle not also bringing protectionism.
 - New `[!contradiction]` callout added to Class Analysis documenting this fracture
 
 #### Files Created/Modified
@@ -27103,7 +27103,7 @@ Comprehensive grep verification confirmed all broken ProPublica and CalMatters U
 
 - **ProPublica verification:** Grepped all 92 broken ProPublica slugs against 133 content files (excluding audit log/maintenance files). Zero matches found — all cleared from content files by prior sessions (2026-03-25 scheduled task replaced 15, marked 5 URL NEEDED; remaining ~72 removed in sessions 14-25).
 - **New VALID ProPublica URL found:** `https://www.propublica.org/article/trump-spawned-a-new-group-of-mega-donors-who-now-hold-sway-over-gops-future` — verified VALID via Chrome (was broken as `...over-the-gops-future`, slug missing "the"). Added to audit log VALID section and replacement table.
-- **CalMatters verification:** Grepped all 45 broken CalMatters URLs against 92 content files. False positives found (Newsom criminal justice files match date patterns but have different, valid slugs) — verified `justice/2019/03/gavin-newsom-halts-executions-california/`, `justice/2020/11/what-the-failure-of-prop-25-means-for-racial-justice-in-california/`, and `justice/2023/03/san-quentin-prison-gavin-newsom/` all VALID via Chrome.
+- **CalMatters verification:** Grepped all 45 broken CalMatters URLs against 92 content files. False positives found (Newsom justice system files match date patterns but have different, valid slugs) — verified `justice/2019/03/gavin-newsom-halts-executions-california/`, `justice/2020/11/what-the-failure-of-prop-25-means-for-racial-justice-in-california/`, and `justice/2023/03/san-quentin-prison-gavin-newsom/` all VALID via Chrome.
 - **CalMatters confirmed 404s:** Spot-checked 8 broken CalMatters URLs via Chrome batch HEAD requests — all confirmed 404. No equivalent replacement URLs found for `economy/2022/09/newsom-signs-fast-food-bill/`, `justice/2019/10/california-private-prison-ban/`, `justice/2020/09/newsom-signs-police-accountability-bills/`, `justice/2021/03/california-prison-guard-union-political-power/`, etc. These appear to be content that was removed/restructured by CalMatters without redirects.
 - **Audit log updated:** ProPublica header updated to "92 BROKEN (0 remaining in vault content files)" — historical BROKEN section retained as record. CalMatters header updated similarly. Total VALID count updated to 47 (added trump-spawned URL).
 
@@ -27912,7 +27912,7 @@ Ran a full cross-section link audit across the vault's top 10 hub nodes (by refe
 #### What Was Built
 
 **New analysis (1):**
-- `topics/Stories/Published/Cross-Politician Analysis/Booker-Scott Donor Class Mirror - Two Black Senators, One Donor Class.md` — CREATED (draft, 12 UNVERIFIED sources). Cory Booker (D-NJ) vs Tim Scott (R-SC) cross-spectrum donor class mirror. 6 sectors analyzed: Wall Street (Goldman Sachs shared top contributor — Booker $158K, Scott $175K), Opportunity Zones (co-authored tax shelter, $75B investment flow to gentrifying areas), Pharma (Booker $411K pharma + drug importation vote, Scott insurance/deregulation), Israel lobby (Booker $871K+ career, Scott $378K+, combined $1.25M+), Criminal justice (First Step Act — Genuine Win + Structural Limit pattern), Police reform (2021 negotiation collapse protecting shared law enforcement donor base).
+- `topics/Stories/Published/Cross-Politician Analysis/Booker-Scott Donor Class Mirror - Two Black Senators, One Donor Class.md` — CREATED (draft, 12 UNVERIFIED sources). Cory Booker (D-NJ) vs Tim Scott (R-SC) cross-spectrum donor class mirror. 6 sectors analyzed: Wall Street (Goldman Sachs shared top contributor — Booker $158K, Scott $175K), Opportunity Zones (co-authored tax shelter, $75B investment flow to gentrifying areas), Pharma (Booker $411K pharma + drug importation vote, Scott insurance/deregulation), Israel lobby (Booker $871K+ career, Scott $378K+, combined $1.25M+), justice system (First Step Act — Genuine Win + Structural Limit pattern), Police reform (2021 negotiation collapse protecting shared law enforcement donor base).
 
 **Index updated (1):**
 - `topics/Stories/Published/Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts.md` — Added #16 Booker-Scott entry. Updated contradiction count 15→16. Updated last-updated date to 2026-03-31.

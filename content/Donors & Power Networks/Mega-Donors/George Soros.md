@@ -88,7 +88,7 @@ His effective altruism-adjacent framing positions political spending as defendin
 - Pennsylvania Supreme Court: $2.3M (2024) — successful defense against Republican takeover attempt
 - Nevada state judicial races: emerging focus for 2026
 
-### Criminal Justice Reform Through DA Elections
+### justice system Reform Through DA Elections
 - Los Angeles: $1M+ to support Gascon re-election (2022), despite significant public opposition from police unions
 - San Francisco: $500K+ to support Chesa Boudin election (2019-2021), prior to recall election (2022)
 - Philadelphia: $2.1M+ to support Larry Krasner election and re-election
@@ -102,8 +102,8 @@ His effective altruism-adjacent framing positions political spending as defendin
 ### Federal Level Victories (Limited)
 Soros's $127M+ in lifetime Democratic giving has not translated to major legislative victories directly attributable to his influence. Unlike Koch (carried interest protection, right-to-work expansion) or corporate donors (tax code preferences), Soros's spending does not produce specific policy outcomes. Instead, it produces a Democratic Party infrastructure that is nominally aligned with progressive rhetoric while materially dependent on billionaire funding. The dynamic creates a structural contradiction: Democratic politicians can claim alignment with Soros's stated values while maintaining donor-class economic positions.
 
-### Criminal Justice Reform (Partial Victory with Limits)
-Soros-backed prosecutors have implemented bail reform, reduced incarceration rates, and declined to prosecute certain drug offenses in their jurisdictions. However, they operate within constraints: Gascon's felony case dismissals faced fierce public backlash and police union opposition; Boudin was recalled in 2022; Krasner faces constant pressure from Philadelphia's business community. The pattern reveals limits to prosecutor-level reform: structural poverty, disinvestment, and gang violence remain independent of prosecutorial ideology. Soros's model shows that billionaire-funded "criminal justice reform" stops short of wealth redistribution that might address root causes.
+### justice system Reform (Partial Victory with Limits)
+Soros-backed prosecutors have implemented bail reform, reduced incarceration rates, and declined to prosecute certain drug offenses in their jurisdictions. However, they operate within constraints: Gascon's felony case dismissals faced fierce public backlash and police union opposition; Boudin was recalled in 2022; Krasner faces constant pressure from Philadelphia's business community. The pattern reveals limits to prosecutor-level reform: structural poverty, disinvestment, and gang violence remain independent of prosecutorial ideology. Soros's model shows that billionaire-funded "justice system reform" stops short of wealth redistribution that might address root causes.
 
 ### State Court Strategy (Emerging)
 Wisconsin's 2025 state court election (following Soros funding) represents a new frontier: using billionaire money to influence judicial selection in swing states. If successful, this could reshape abortion rights, voting access, and environmental regulation across multiple states. The strategy is distinctive: Soros is partially abandoning federal politics (acknowledging its donor-saturation and diminishing returns) to focus on state-level institutional capture.
@@ -141,7 +141,7 @@ A secondary contradiction emerged sharply during the 2022-2024 period: Soros's [
 - [FEC: George Soros individual contributions 2004-2024](https://www.fec.gov/data/receipts/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026individual-contributions/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?contributor_name=soros) (Tier 1)
 - [OpenSecrets: Senate Majority PAC spending 2024](https://www.opensecrets.org/groups/240364) (Tier 1)
 - [OpenSecrets: George Soros donor profile](https://www.opensecrets.org/donor/top/soros-george) (Tier 2)
-- [ProPublica: "George Soros's Quiet Influence on U.S. Criminal Justice"](https://www.propublica.org/article/police-politicians-undermined-reform-prosecutors-chicago-philadelphia) (Tier 2)
+- [ProPublica: "George Soros's Quiet Influence on U.S. justice system"](https://www.propublica.org/article/police-politicians-undermined-reform-prosecutors-chicago-philadelphia) (Tier 2)
 - [Wall Street Journal: "George Soros Is Done Trying to Change the World"](https://www.wsj.com/articles/george-soros-says-he-is-done-trying-to-change-the-world-11581961205) (Tier 2)
 - [New York Times: "George Soros Is Giving His Billions to Democrats. And They're Nervous."](https://www.nytimes.com/2023/10/17/us/politics/soros-donations-democrats.html) (Tier 2)
 - [Wisconsin State Journal: "Soros gives $2M to Wisconsin state court elections 2025"](https://madison.com/news/local/government-and-politics/elections) (Tier 3)
@@ -289,7 +289,7 @@ A secondary contradiction emerged sharply during the 2022-2024 period: Soros's [
 | Lobbying Firms | 20 |
 | Individual Lobbyists | 0 |
 
-**Issues lobbied:** Agriculture, Aviation/Airlines/Airports, Budget/Appropriations, Clean Air and Water (quality), Consumer Issues/Safety/Products, Disaster Planning/Emergencies, Economics/Economic Development, Education, Energy/Nuclear, Environment/Superfund, Financial Institutions/Investments/Securities, Foreign Relations, Fuel/Gas/Oil, Government Issues, Health Issues, Homeland Security, Housing, Immigration, Indian/Native American Affairs, Law Enforcement/Crime/Criminal Justice, Manufacturing, Medicare/Medicaid, Natural Resources, Science/Technology, Taxation/Internal Revenue Code, Trade (domestic/foreign), Transportation, Urban Development/Municipalities, Utilities, Veterans
+**Issues lobbied:** Agriculture, Aviation/Airlines/Airports, Budget/Appropriations, Clean Air and Water (quality), Consumer Issues/Safety/Products, Disaster Planning/Emergencies, Economics/Economic Development, Education, Energy/Nuclear, Environment/Superfund, Financial Institutions/Investments/Securities, Foreign Relations, Fuel/Gas/Oil, Government Issues, Health Issues, Homeland Security, Housing, Immigration, Indian/Native American Affairs, Law Enforcement/Crime/justice system, Manufacturing, Medicare/Medicaid, Natural Resources, Science/Technology, Taxation/Internal Revenue Code, Trade (domestic/foreign), Transportation, Urban Development/Municipalities, Utilities, Veterans
 
 **Lobbying firms:** AKIN GUMP STRAUSS HAUER & FELD, ARNOLD & PORTER KAYE SCHOLER LLP, BALLARD PARTNERS, BOSE PUBLIC AFFAIRS GROUP, CENTER ROAD SOLUTIONS, DLA PIPER LLP (US), G S PROCTOR AND ASSOCIATES, INC, GEORGE H. DENISON, GEORGE J. HOCHBRUECKNER & ASSOCIATES, INC., HEALTH AND MEDICINE COUNSEL, LLC, INVARIANT LLC, LAW OFFICES OF GEORGE HARRIS, LLC, MARCUS G. FAUST, PC, MR. GEORGE WATERS, PILLSBURY WINTHROP SHAW PITTMAN LLP, POBLETE TAMARGO, LLP, STEPTOE LLP, THE CORMAC GROUP, LLC, THORN RUN PARTNERS, VECTIS DC
 

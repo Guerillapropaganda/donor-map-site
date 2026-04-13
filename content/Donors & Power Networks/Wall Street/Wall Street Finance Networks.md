@@ -88,7 +88,7 @@ Wall Street funds both parties strategically, concentrating on candidates who si
 |---|---|---|---|---|
 | 1998–99 | Congress (both parties) | $67M (1998 cycle) | Glass-Steagall repeal (Gramm-Leach-Bliley Act) — removed Depression-era barriers between commercial banking, investment banking, and insurance | 1 year |
 | 2000–01 | Congress (both parties) | $137M (2000 cycle) | Commodity Futures Modernization Act — exempted derivatives from regulation; set stage for 2008 crisis | 1–2 years |
-| 2007–08 | Obama campaign (bundler networks) | $236M (2008 cycle, 55.8% D) | No criminal prosecutions of Wall Street executives post-crisis; Geithner/Summers appointed to manage bailout | Immediate |
+| 2007–08 | Obama campaign (bundler networks) | $236M (2008 cycle, 55.8% D) | No prosecutions of Wall Street executives post-crisis; Geithner/Summers appointed to manage bailout | Immediate |
 | 2008–09 | Congress + White House (both parties) | — | $700B TARP bailout + trillions in Fed emergency lending; banks rescued, bonuses preserved | Immediate |
 | 2009–10 | Senate Banking Committee members | — | Dodd-Frank weakened during drafting: Volcker Rule diluted, derivatives regulation limited, too-big-to-fail framework preserved | 1–2 years |
 | 2016–17 | Trump campaign + congressional R | $668M (2016 cycle, 50.1% R) | Gary Cohn (Goldman Sachs) appointed NEC Director; Dodd-Frank rollback via Economic Growth Act (2018) | 1–2 years |

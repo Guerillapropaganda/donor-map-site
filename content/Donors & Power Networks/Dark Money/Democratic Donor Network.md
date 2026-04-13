@@ -1,8 +1,8 @@
 ---
 title: "Democratic Donor Network"
 type: donor
-content-readiness: draft
-last-updated: 2026-04-12
+content-readiness: ready
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 sector: "Dark Money"
@@ -91,7 +91,7 @@ The Democratic Donor Network's agenda is fractured by sector:
 
 | Date | Recipient/Target | Amount | Policy Return | Time Gap |
 |------|-----------------|--------|---------------|----------|
-| 2008–2012 | Obama campaigns + DNC + Democratic super PACs | $300M+ (FIRE sector) | TARP completed, too-big-to-fail banks preserved; Dodd-Frank passed with carve-outs; zero criminal prosecutions for 2008 crash | 1–3 years |
+| 2008–2012 | Obama campaigns + DNC + Democratic super PACs | $300M+ (FIRE sector) | TARP completed, too-big-to-fail banks preserved; Dodd-Frank passed with carve-outs; zero prosecutions for 2008 crash | 1–3 years |
 | 2020 | Biden campaign + Future Forward USA + Senate Dems | $1.5B+ (network total) | No antitrust breakup of Big Tech; PRO Act never received Senate floor vote during Dem trifecta; carried interest loophole preserved | 1–2 years |
 | 2020 | Sixteen Thirty Fund + Democracy Alliance dark money | $61M+ (Sixteen Thirty alone) | Democrats institutionalized dark money apparatus while publicly denouncing Citizens United — DISCLOSE Act never passed | Ongoing |
 | 2021–2022 | SEIU + AFL-CIO + union PACs | $500M+ (cycle total) | PRO Act passed House 2021, died in Senate; CHIPS Act union wage provisions; IRA clean energy jobs — but no durable legislation | 6–18 months |
@@ -109,7 +109,7 @@ The Democratic Donor Network's agenda is fractured by sector:
 
 **Silicon Valley policy wins:** No federal AI regulation enacted (Biden executive order is advisory, no legislation). No antitrust breakup of Google, Meta, or Amazon under Biden despite DOJ lawsuit. Harris adopted crypto-friendly platform in 2024 following FairShake PAC spending. H-1B visa program preserved and expanded, benefiting tech labor model.
 
-**Wall Street policy wins:** No Glass-Steagall restoration. Carried interest loophole survived 2021–2023 Democratic trifecta despite repeated campaign pledges to close it. No criminal prosecutions for 2008 financial crisis under Obama or Biden. Dodd-Frank passed with carve-outs benefiting community banks and mid-size institutions that fund Democrats. CFPB operational but enforcement constrained by industry litigation.
+**Wall Street policy wins:** No Glass-Steagall restoration. Carried interest loophole survived 2021–2023 Democratic trifecta despite repeated campaign pledges to close it. No prosecutions for 2008 financial crisis under Obama or Biden. Dodd-Frank passed with carve-outs benefiting community banks and mid-size institutions that fund Democrats. CFPB operational but enforcement constrained by industry litigation.
 
 **Labor policy losses (despite donations):** PRO Act never passed Senate. Federal minimum wage frozen at $7.25 since 2009 — through Obama's two terms and Biden's term despite Democratic Senate majorities. Card-check organizing provisions never enacted. 2024 Teamsters national endorsed Trump for the first time since 1980, signaling labor's recognition that Democratic loyalty has not produced legislative returns.
 

@@ -714,10 +714,10 @@ Generated 2026-03-25. Every search/query URL in the vault that should be upgrade
 - [ ] **Politicians/Republicans/House/Rick Crawford/_Rick Crawford Master Profile.md** (line 129)
   - Label: NBC News: Mike Johnson picks Crawford to lead Intelligence after ousting Turner
   - URL: `https://www.nbcnews.com/politics/congress/speaker-johnson-rick-crawford-house-intelligence-committee-chair-rcna187950`
-- [ ] **Politicians/Republicans/Presidential/Donald Trump/Criminal Justice & DOJ/The Kash Patel FBI - Loyalty Over Law and the Weaponization of Federal Law Enforcement.md** (line 32)
+- [ ] **Politicians/Republicans/Presidential/Donald Trump/justice system & DOJ/The Kash Patel FBI - Loyalty Over Law and the Weaponization of Federal Law Enforcement.md** (line 32)
   - Label: NBC News: Patel Confirmation
   - URL: `https://www.nbcnews.com/politics/justice-department/senate-confirms-kash-patel-fbi-director-rcna192842`
-- [ ] **Politicians/Republicans/Presidential/Donald Trump/Criminal Justice & DOJ/The Kash Patel FBI - Loyalty Over Law and the Weaponization of Federal Law Enforcement.md** (line 93)
+- [ ] **Politicians/Republicans/Presidential/Donald Trump/justice system & DOJ/The Kash Patel FBI - Loyalty Over Law and the Weaponization of Federal Law Enforcement.md** (line 93)
   - Label: NBC News: Senate Confirms Kash Patel as FBI Director
   - URL: `https://www.nbcnews.com/politics/justice-department/senate-confirms-kash-patel-fbi-director-rcna192842`
 - [ ] **Politicians/Republicans/Presidential/Donald Trump/Crypto/Crypto and Tech - Donors and Backers.md** (line 111)
@@ -1305,7 +1305,7 @@ Generated 2026-03-25. Every search/query URL in the vault that should be upgrade
 - [ ] **Politicians/Democrats/House/Jamaal Bowman/_Jamaal Bowman Master Profile.md** (line 68)
   - Label: ProPublica: AIPAC's Record Spending Against Bowman
   - URL: `https://projects.propublica.org/nonprofits/search?utf8=%E2%9C%93&q=Jamaal%20Bowman`
-- [ ] **Politicians/Republicans/Presidential/Donald Trump/Criminal Justice & DOJ/The Pardon Machine - Who Got Clemency and Who Funded It.md** (line 105)
+- [ ] **Politicians/Republicans/Presidential/Donald Trump/justice system & DOJ/The Pardon Machine - Who Got Clemency and Who Funded It.md** (line 105)
   - Label: ProPublica. Trump's Pardons Exposed an Ad Hoc Clemency Process
   - URL: `https://projects.propublica.org/nonprofits/search?utf8=The%20Pardon%20Machine`
 - [ ] **Politicians/Republicans/Presidential/Donald Trump/Crypto/Crypto and Tech - Donors and Backers.md** (line 110)
@@ -2025,7 +2025,7 @@ Generated 2026-03-25. Every search/query URL in the vault that should be upgrade
 - [ ] **Politicians/Independent/Joe Manchin/_Joe Manchin Master Profile.md** (line 124)
   - Label: New York Times: Manchin coal income investigation, No Labels reporting
   - URL: `https://www.nytimes.com/search?q=Joe%20Manchin`
-- [ ] **Politicians/Republicans/Presidential/Donald Trump/Criminal Justice & DOJ/The Pardon Machine - Who Got Clemency and Who Funded It.md** (line 109)
+- [ ] **Politicians/Republicans/Presidential/Donald Trump/justice system & DOJ/The Pardon Machine - Who Got Clemency and Who Funded It.md** (line 109)
   - Label: New York Times. Kash Patel Confirmed as FBI Director 51 to 49 (February 2025)
   - URL: `https://www.nytimes.com/search?q=The%20Pardon%20Machine`
 - [ ] **Politicians/Republicans/Trump Cabinet/Jared Kushner/666 Fifth Avenue and Financial Desperation.md** (line 62)
@@ -2086,7 +2086,7 @@ Generated 2026-03-25. Every search/query URL in the vault that should be upgrade
   - Label: DOJ: Voter sweepstakes legal review
   - URL: `https://www.justice.gov/search?q=America%20PAC`
 - [ ] **Politicians/Democrats/Senate/Bob Menendez.md** (line 97)
-  - Label: Justice Department: United States v. Menendez - Criminal Case
+  - Label: Justice Department: United States v. Menendez - case
   - URL: `https://www.justice.gov/search?q=Bob%20Menendez`
 - [ ] **Stories/Ohio 2026 Governor Race - The Structural Landscape.md** (line 143)
   - Label: FBI: Larry Householder Corruption Case Court Documents
@@ -2121,7 +2121,7 @@ Generated 2026-03-25. Every search/query URL in the vault that should be upgrade
 - [ ] **Donors & Power Networks/Mega-Donors/Leonard Leo.md** (line 123)
   - Label: Senate Judiciary Committee: Ethical Crisis at the Supreme Court, December 2024
   - URL: `https://www.judiciary.senate.gov/search?q=Leonard%20Leo`
-- [ ] **Politicians/Republicans/Presidential/Donald Trump/Criminal Justice & DOJ/The Pardon Machine - Who Got Clemency and Who Funded It.md** (line 110)
+- [ ] **Politicians/Republicans/Presidential/Donald Trump/justice system & DOJ/The Pardon Machine - Who Got Clemency and Who Funded It.md** (line 110)
   - Label: Senate Judiciary Committee. DOJ Personnel Changes Oversight Hearing (2025)
   - URL: `https://www.judiciary.senate.gov/search?q=The%20Pardon%20Machine`
 - [ ] **Stories/The SCOTUS Capture - From Bork to Barrett.md** (line 66)
@@ -2331,10 +2331,10 @@ Generated 2026-03-25. Every search/query URL in the vault that should be upgrade
 - [ ] **Politicians/Democrats/Presidential/Josh Shapiro/The Corporate-Democratic Donor Coalition and AIPAC Connection.md** (line 67)
   - Label: Associated Press: VP vetting and AIPAC concerns
   - URL: `https://apnews.com/?q=Corporate-Democratic%20Donor%20Coalition%20and%20AIPAC%20Connection`
-- [ ] **Politicians/Republicans/Presidential/Donald Trump/Criminal Justice & DOJ/Criminal Justice and DOJ - Donors and Backers.md** (line 72)
+- [ ] **Politicians/Republicans/Presidential/Donald Trump/justice system & DOJ/justice system and DOJ - Donors and Backers.md** (line 72)
   - Label: AP: Pardon Donor Pipeline
   - URL: `https://apnews.com/?q=Criminal%20Justice%20and%20DOJ`
-- [ ] **Politicians/Republicans/Presidential/Donald Trump/Criminal Justice & DOJ/The Pardon Machine - Who Got Clemency and Who Funded It.md** (line 108)
+- [ ] **Politicians/Republicans/Presidential/Donald Trump/justice system & DOJ/The Pardon Machine - Who Got Clemency and Who Funded It.md** (line 108)
   - Label: Associated Press. Trevor Milton Pardoned After $2M in Trump Aligned Donations
   - URL: `https://apnews.com/?q=The%20Pardon%20Machine`
 - [ ] **Politicians/Republicans/Presidential/Donald Trump/Housing/Housing - Donors and Backers.md** (line 70)
@@ -2358,10 +2358,10 @@ Generated 2026-03-25. Every search/query URL in the vault that should be upgrade
 
 ## www.reuters.com (4 URLs)
 
-- [ ] **Politicians/Republicans/Presidential/Donald Trump/Criminal Justice & DOJ/Criminal Justice and DOJ - Donors and Backers.md** (line 73)
+- [ ] **Politicians/Republicans/Presidential/Donald Trump/justice system & DOJ/justice system and DOJ - Donors and Backers.md** (line 73)
   - Label: Reuters: Pardon-Donation Analysis
   - URL: `https://www.reuters.com/?q=Criminal%20Justice%20and%20DOJ`
-- [ ] **Politicians/Republicans/Presidential/Donald Trump/Criminal Justice & DOJ/The Pardon Machine - Who Got Clemency and Who Funded It.md** (line 107)
+- [ ] **Politicians/Republicans/Presidential/Donald Trump/justice system & DOJ/The Pardon Machine - Who Got Clemency and Who Funded It.md** (line 107)
   - Label: Reuters. Trump Pardons About 1,500 January 6 Defendants (January 20, 2025)
   - URL: `https://www.reuters.com/?q=The%20Pardon%20Machine`
 - [ ] **Politicians/Republicans/Presidential/Donald Trump/Israel & Foreign Policy/The Adelson Pipeline - Embassy, Abraham Accords, and Iran.md** (line 124)
@@ -3321,7 +3321,7 @@ Generated 2026-03-25. Every search/query URL in the vault that should be upgrade
 
 ## investigativereporting.org (2 URLs)
 
-- [ ] **Politicians/Republicans/Presidential/Donald Trump/Criminal Justice & DOJ/Criminal Justice and DOJ - Donors and Backers.md** (line 76)
+- [ ] **Politicians/Republicans/Presidential/Donald Trump/justice system & DOJ/justice system and DOJ - Donors and Backers.md** (line 76)
   - Label: Investigative Reporting on Private Prisons
   - URL: `https://investigativereporting.org/?q=Criminal%20Justice%20and%20DOJ`
 - [ ] **Politicians/Republicans/Presidential/Donald Trump/Healthcare/Healthcare - Donors and Backers.md** (line 63)
@@ -4791,7 +4791,7 @@ Generated 2026-03-25. Every search/query URL in the vault that should be upgrade
 
 ## bjs.ojp.gov (1 URLs)
 
-- [ ] **Politicians/Democrats/Senate/Cory Booker/The Criminal Justice Reform and Bipartisan Alliance.md** (line 44)
+- [ ] **Politicians/Democrats/Senate/Cory Booker/The justice system Reform and Bipartisan Alliance.md** (line 44)
   - Label: BJS: Federal prison population data
   - URL: `https://bjs.ojp.gov/?q=Criminal%20Justice%20Reform%20and%20Bipartisan%20Alliance`
 
@@ -4989,7 +4989,7 @@ Generated 2026-03-25. Every search/query URL in the vault that should be upgrade
 
 ## fop.net (1 URLs)
 
-- [ ] **Politicians/Republicans/Presidential/Donald Trump/Criminal Justice & DOJ/Criminal Justice and DOJ - Donors and Backers.md** (line 75)
+- [ ] **Politicians/Republicans/Presidential/Donald Trump/justice system & DOJ/justice system and DOJ - Donors and Backers.md** (line 75)
   - Label: FOP Press Releases
   - URL: `https://fop.net/?q=Criminal%20Justice%20and%20DOJ`
 

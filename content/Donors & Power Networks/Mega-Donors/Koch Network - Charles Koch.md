@@ -1,8 +1,8 @@
 ---
 title: "Koch Network - Charles Koch"
 type: donor
-content-readiness: draft
-last-updated: 2026-04-12
+content-readiness: ready
+last-updated: 2026-04-13
 aliases: ["Koch Network", "Koch Brothers", "Charles Koch", "Koch Industries", "Americans for Prosperity", "AFP"]
 source-tier: 1
 parent: null
@@ -128,9 +128,9 @@ Koch Industries has no major refining or pipeline operations in California (faci
 
 ---
 
-### The Criminal Justice Paradox
+### The justice system Paradox
 
-The Koch network's one genuinely bipartisan initiative: criminal justice reform. The **Coalition for Public Safety** (2015) brought Koch Industries together with the ACLU, Center for American Progress, Faith and Freedom Coalition, and Right on Crime. Initial funding: $5 million. Koch's Mark Holden (General Counsel) led the lobbying effort that helped pass the **FIRST STEP Act** (2018) — reducing some mandatory minimums, expanding rehabilitation programs, bipartisan 87–12 Senate vote.
+The Koch network's one genuinely bipartisan initiative: justice system reform. The **Coalition for Public Safety** (2015) brought Koch Industries together with the ACLU, Center for American Progress, Faith and Freedom Coalition, and Right on Crime. Initial funding: $5 million. Koch's Mark Holden (General Counsel) led the lobbying effort that helped pass the **FIRST STEP Act** (2018) — reducing some mandatory minimums, expanding rehabilitation programs, bipartisan 87–12 Senate vote.
 
 > [!contradiction] Criminal Justice Reform vs. Everything Else
 > The Koch network funded the litigation that gutted public-sector union revenues (Janus), funds the organizations that fight prevailing wage and PLAs (National Right to Work, AFP), poured $4.4M+ into Project 2025 organizations, and spent $548M in the 2024 cycle to elect Republican candidates. They also partnered with the ACLU to reduce prison sentences. Both things are true. The criminal justice work is genuine — Stand Together's Safe Streets program tracked 1,100 inmates in 4 states, $4M pilot phase with FSU researchers. But it exists alongside a political operation that has done more to destroy working-class organizational power than any other force in American politics.
@@ -149,7 +149,7 @@ The anti-labor campaign is the clearest expression of class warfare in the datab
 
 The $4.3 billion stock transfer to Believe in People (2021) is the endgame. Charles Koch moved $4.3 billion in Koch Industries stock into a nonprofit structure designed to fund political operations in perpetuity, beyond his own lifetime. The Koch network is no longer dependent on one billionaire's decisions. It is an institutional machine that will continue destroying labor protections, blocking climate action, and cutting taxes for the wealthy long after Charles Koch is dead. This is not a political movement. It is an oligarchic succession plan.
 
-The criminal justice reform work is real, and that is precisely the point. The Koch network partnered with the ACLU to pass the FIRST STEP Act because reducing prison populations costs Koch Industries nothing. Destroying public-sector unions, on the other hand, removes the largest organized opposition to Koch's economic agenda. The bipartisan criminal justice effort is the most efficient PR investment the network has ever made: genuine policy change that costs nothing, deployed to launder the reputation of a political machine that has done more to destroy working-class organizational power than any other force in American politics.
+The justice system reform work is real, and that is precisely the point. The Koch network partnered with the ACLU to pass the FIRST STEP Act because reducing prison populations costs Koch Industries nothing. Destroying public-sector unions, on the other hand, removes the largest organized opposition to Koch's economic agenda. The bipartisan justice system effort is the most efficient PR investment the network has ever made: genuine policy change that costs nothing, deployed to launder the reputation of a political machine that has done more to destroy working-class organizational power than any other force in American politics.
 
 ---
 
@@ -904,7 +904,7 @@ The Koch Network is not a single organization but a coordinated web of legal ent
 | **Americans for Prosperity (AFP)** | 501(c)(4) | $224M (2024) | State-level policy advocacy; 36 state chapters; 4M activists |
 | **AFP Action** | Super PAC | $181.5M raised (2023–2024 cycle); $138.5M independent expenditures | Electoral spending; supports Republican candidates; opposes Democratic candidates |
 | **Stand Together Trust** | 501(c)(3) | $157M (2023) | External policy grants to think tanks, legal organizations, ALEC, State Policy Network |
-| **Stand Together Foundation** | 501(c)(3) | $62M (2023) | Community grants; criminal justice reform pilots; the "charitable" face of the network |
+| **Stand Together Foundation** | 501(c)(3) | $62M (2023) | Community grants; justice system reform pilots; the "charitable" face of the network |
 | **DonorsTrust** | Donor-Advised Fund | $1.36B assets (2023) | Anonymizing pass-through; donors remain confidential; distributes $250M+ annually to conservative/libertarian groups |
 | **i360** | For-Profit Data Company | $20.5M in contracts (2024) | Voter profiling; microtargeting; proprietary algorithms; sells data access to Republican candidates |
 | **Koch Companies Public Sector, LLC** | Lobbying Entity | $11.2M federal lobbying expenditure (2023) | Corporate federal lobbying; direct representation of Koch Industries interests |
@@ -1021,7 +1021,7 @@ This architecture allows the Koch Network to:
 | Lobbying Firms | 16 |
 | Individual Lobbyists | 0 |
 
-**Issues lobbied:** Agriculture, Banking, Bankruptcy, Budget/Appropriations, Chemicals/Chemical Industry, Clean Air and Water (quality), Constitution, Defense, Energy/Nuclear, Environment/Superfund, Financial Institutions/Investments/Securities, Fuel/Gas/Oil, Government Issues, Health Issues, Homeland Security, Immigration, Law Enforcement/Crime/Criminal Justice, Taxation/Internal Revenue Code, Torts, Trade (domestic/foreign), Transportation, Utilities
+**Issues lobbied:** Agriculture, Banking, Bankruptcy, Budget/Appropriations, Chemicals/Chemical Industry, Clean Air and Water (quality), Constitution, Defense, Energy/Nuclear, Environment/Superfund, Financial Institutions/Investments/Securities, Fuel/Gas/Oil, Government Issues, Health Issues, Homeland Security, Immigration, Law Enforcement/Crime/justice system, Taxation/Internal Revenue Code, Torts, Trade (domestic/foreign), Transportation, Utilities
 
 **Lobbying firms:** AKIN GUMP STRAUSS HAUER & FELD, CAPITOL TAX PARTNERS, LLP, CROSSROADS STRATEGIES, LLC, HOLLAND & KNIGHT LLP, HUNTON ANDREWS KURTH LLP, KOCH GOVERNMENT AFFAIRS, LLC, LONGBOW PUBLIC POLICY GROUP, LLC, MERCURY PUBLIC AFFAIRS, LLC, MILLER STRATEGIES, LLC, MINDSET ADVOCACY, LLC, PHRONESISDC, LLC, RESEARCH SERVICE BUREAU, S-3 GROUP, TAFT STETTINIUS & HOLLISTER LLP DBA TAFT ADVISORS LLC FKA (TAFT, STETTINIUS & HOLLISTER,LLP), THE NICKLES GROUP, LLC, VALCOUR LLC
 

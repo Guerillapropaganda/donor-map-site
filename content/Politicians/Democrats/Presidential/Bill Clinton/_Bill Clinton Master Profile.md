@@ -230,7 +230,7 @@ The long-term class consequence: Clinton's realignment of the Democratic Party t
 - [ProPublica: How Citigroup Unraveled Under Geithner's Watch](https://www.propublica.org/article/how-citigroup-unraveled-under-geithners-watch) (Tier 2)
 - [OpenSecrets: The revolving door always spins for Goldman Sachs — by design](https://www.opensecrets.org/news/2017/03/revolving-door-goldman-sachs/) (Tier 2)
 - [Fortune: Robert Rubin Was Targeted for DOJ Investigation by FCIC](https://fortune.com/2016/03/13/robert-rubin-financial-crisis-commission-justice-department/) (Tier 2)
-- [Brennan Center: The 1994 Crime Bill and Beyond — How Federal Funding Shapes Criminal Justice](https://www.brennancenter.org/our-work/analysis-opinion/1994-crime-bill-and-beyond-how-federal-funding-shapes-criminal-justice) (Tier 2)
+- [Brennan Center: The 1994 Crime Bill and Beyond — How Federal Funding Shapes justice system](https://www.brennancenter.org/our-work/analysis-opinion/1994-crime-bill-and-beyond-how-federal-funding-shapes-criminal-justice) (Tier 2)
 - [Salon: Clintonism Screwed the Democrats — How the DLC Gutted Progressivism](https://www.salon.com/2016/04/30/clintonism_screwed_the_democrats_how_bill_hillary_and_the_democratic_leadership_council_gutted_progressivism/) (Tier 2)
 - [The American Prospect: How the DLC Does It](https://prospect.org/2001/12/19/dlc/) (Tier 2)
 - [Truthout: Bill Clinton's Treasury Secretary Recommended for Criminal Probe](https://truthout.org/articles/bill-clinton-s-treasury-secretary-had-been-recommended-for-2008-mortgage-meltdown-criminal-probe/) (Tier 2)

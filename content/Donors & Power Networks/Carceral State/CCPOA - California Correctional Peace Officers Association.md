@@ -91,7 +91,7 @@ Breakdown by cycle:
 - 2013-14: $1.98M
 [Source: Capitol Weekly — Tier 2]
 
-**Internal conflict note:** CCPOA reportedly asked for the return of a $2 million donation to a ballot measure committee trying to roll back criminal justice reforms — suggesting internal strategic disagreements during the 2018-2019 period. [Source: KQED — Tier 2]
+**Internal conflict note:** CCPOA reportedly asked for the return of a $2 million donation to a ballot measure committee trying to roll back justice system reforms — suggesting internal strategic disagreements during the 2018-2019 period. [Source: KQED — Tier 2]
 
 **California legislature** — Contributions to members of budget and public safety committees on both sides of the aisle. Specific 2022-2026 legislative spending not documented in available sources — requires Cal-Access database pull.
 
@@ -165,17 +165,17 @@ The closures are the one area where Newsom's actions have genuinely threatened C
 
 — Ella Baker Center for Human Rights
 — Anti-Recidivism Coalition
-— ACLU California — criminal justice
+— ACLU California — justice system
 — Californians United for a Responsible Budget (CURB)
 — Crime Survivors for Safety and Justice
-— Center on Juvenile and Criminal Justice (CJCJ)
+— Center on Juvenile and justice system (CJCJ)
 — Formerly incarcerated advocacy organizations
 
 ---
 
 ### Connected Policy Areas
 
-Criminal Justice — prison budget, parole, accountability, San Quentin, policing reform ceiling
+justice system — prison budget, parole, accountability, San Quentin, policing reform ceiling
 Ballot measures — Prop 36 (supported, $300K), Prop 1 (supported via Newsom, $1M)
 
 ---

@@ -21,17 +21,17 @@ donors: [[Stand Together]]
 
 ### The First Step Act and Koch Alliance
 
-Booker was a lead Senate sponsor of the First Step Act (2018) — the most significant federal criminal justice reform in a generation, signed by Trump. The law reduced mandatory minimum sentences, expanded good-time credit, and created new pathways for compassionate release. Booker's advocacy was genuine: he speaks powerfully about mass incarceration's impact on Black communities and his own constituents in Newark.
+Booker was a lead Senate sponsor of the First Step Act (2018) — the most significant federal justice system reform in a generation, signed by Trump. The law reduced mandatory minimum sentences, expanded good-time credit, and created new pathways for compassionate release. Booker's advocacy was genuine: he speaks powerfully about mass incarceration's impact on Black communities and his own constituents in Newark.
 
-The unusual alliance: the First Step Act was championed by the Koch political network through its Cut50 and Stand Together affiliates. The Koch brothers' criminal justice reform work — a rare area of Koch-progressive alignment — gave the legislation conservative credibility and Republican votes. Booker worked directly with Koch-funded organizations to build the bipartisan coalition.
+The unusual alliance: the First Step Act was championed by the Koch political network through its Cut50 and Stand Together affiliates. The Koch brothers' justice system reform work — a rare area of Koch-progressive alignment — gave the legislation conservative credibility and Republican votes. Booker worked directly with Koch-funded organizations to build the bipartisan coalition.
 
-The class analysis: criminal justice reform is the one issue where Koch interests and progressive interests genuinely overlap. The Koch network supports reform because mass incarceration is expensive ($182 billion annually), creates labor market inefficiencies (removing workers from the economy), and represents government overreach (libertarian objection to state power). Progressive support comes from racial justice and humanitarian grounds. The shared outcome serves both constituencies — but the Koch network's involvement ensures that reform stops short of addressing the economic structures that drive incarceration.
+The class analysis: justice system reform is the one issue where Koch interests and progressive interests genuinely overlap. The Koch network supports reform because mass incarceration is expensive ($182 billion annually), creates labor market inefficiencies (removing workers from the economy), and represents government overreach (libertarian objection to state power). Progressive support comes from racial justice and humanitarian grounds. The shared outcome serves both constituencies — but the Koch network's involvement ensures that reform stops short of addressing the economic structures that drive incarceration.
 
 ---
 
 ### The Limits of Bipartisan Reform
 
-The First Step Act was a genuine achievement — but its scope reveals the structural limits of bipartisan criminal justice reform:
+The First Step Act was a genuine achievement — but its scope reveals the structural limits of bipartisan justice system reform:
 
 What the First Step Act addressed: federal sentencing reform (affecting 10% of the incarcerated population), expanded rehabilitation programs, and reduced some mandatory minimums.
 

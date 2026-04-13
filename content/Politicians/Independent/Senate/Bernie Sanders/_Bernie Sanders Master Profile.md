@@ -1,9 +1,9 @@
 ---
 title: "Bernie Sanders Master Profile"
 type: politician
-content-readiness: draft
+content-readiness: ready
 central-thesis: "Sanders is the vault's exception — the politician who built a funding model independent of the donor class and ran it at presidential scale. Twice. The exception proves the rule: the institutional Democratic Party mobilized every available mechani..."
-last-updated: 2026-04-12
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 party: "Independent"

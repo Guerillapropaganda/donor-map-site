@@ -1,8 +1,8 @@
 ---
 title: "Business Roundtable"
 type: donor
-content-readiness: draft
-last-updated: 2026-04-12
+content-readiness: ready
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 sector: "Dark Money"
@@ -170,7 +170,7 @@ The TCJA is the BRT's signature achievement: $320+ billion annually in corporate
 | Lobbying Firms | 57 |
 | Individual Lobbyists | 0 |
 
-**Issues lobbied:** Aerospace, Agriculture, Animals, Automotive Industry, Aviation/Airlines/Airports, Banking, Budget/Appropriations, Civil Rights/Civil Liberties, Clean Air and Water (quality), Computer Industry, Consumer Issues/Safety/Products, Defense, Economics/Economic Development, Education, Energy/Nuclear, Environment/Superfund, Financial Institutions/Investments/Securities, Foreign Relations, Fuel/Gas/Oil, Government Issues, Health Issues, Homeland Security, Housing, Immigration, Indian/Native American Affairs, Insurance, Intelligence, Labor Issues/Antitrust/Workplace, Law Enforcement/Crime/Criminal Justice, Manufacturing, Marine/Maritime/Boating/Fisheries, Medicare/Medicaid, Natural Resources, Real Estate/Land Use/Conservation, Roads/Highway, Science/Technology, Small Business, Tariff (miscellaneous tariff bills), Taxation/Internal Revenue Code, Trade (domestic/foreign), Transportation, Trucking/Shipping, Unemployment, Utilities
+**Issues lobbied:** Aerospace, Agriculture, Animals, Automotive Industry, Aviation/Airlines/Airports, Banking, Budget/Appropriations, Civil Rights/Civil Liberties, Clean Air and Water (quality), Computer Industry, Consumer Issues/Safety/Products, Defense, Economics/Economic Development, Education, Energy/Nuclear, Environment/Superfund, Financial Institutions/Investments/Securities, Foreign Relations, Fuel/Gas/Oil, Government Issues, Health Issues, Homeland Security, Housing, Immigration, Indian/Native American Affairs, Insurance, Intelligence, Labor Issues/Antitrust/Workplace, Law Enforcement/Crime/justice system, Manufacturing, Marine/Maritime/Boating/Fisheries, Medicare/Medicaid, Natural Resources, Real Estate/Land Use/Conservation, Roads/Highway, Science/Technology, Small Business, Tariff (miscellaneous tariff bills), Taxation/Internal Revenue Code, Trade (domestic/foreign), Transportation, Trucking/Shipping, Unemployment, Utilities
 
 **Lobbying firms:** ACCELERATE STRATEGIES, ALAN PASETSKY, ATRIO CONSULTING GROUP, LLC, BALLARD PARTNERS, BARNES & THORNBURG, LLP, BURKE CONSULTING LLC, BUSINESS ALLIANCE FOR A SOUND ECONOMY, BUSINESS COUNCIL FOR SUSTAINABLE ENERGY, BUSINESS GOVERNMENT SOLUTIONS, CHW ADVISORS, CORNERSTONE GOVERNMENT AFFAIRS, INC., CORRIGAN & USSERY LLC, CRESTVIEW STRATEGY US LLC, CROSSROADS STRATEGIES, LLC, DAIRY BUSINESS ASSOCIATION, DENTONS US LLP, DUE SOUTH ADVOCACY, LLC, EAGLE POINT STRATEGIES LLC, FBB FEDERAL RELATIONS, FEDERAL BUSINESS GROUP, FORBES-TATE, GLOBAL BUSINESS ALLIANCE, GLOBAL BUSINESS POLICY-DC, HANCE SCARBOROUGH, HB STRATEGIES, HOGAN LOVELLS US LLP, HOLLAND & KNIGHT LLP, INVARIANT LLC, JERE GLOVER, JON THOMAS CONSULTING, JUCUNDUS BUSINESS SERVICES LLC, MCBRIDE CONSULTING & BUSINESS DEVELOPMENT GROUP, MCGUIREWOODS CONSULTING (A SUBSIDIARY OF MCGUIREWOODS LLP), MCKINNON GROUP, LLC, FORMERLY DOING BUSINESS AS RR&G, LLC, MEHLMAN CONSULTING, INC., MICHAEL BEST STRATEGIES LLC, MILLER STRATEGIES, LLC, NATIONAL BUSINESS AVIATION ASSOCIATION, INC., NELSON MULLINS RILEY & SCARBOROUGH, NFIB (NATIONAL FEDERATION OF INDEPENDENT BUSINESS), NIPPON KEIZAI DANTAI RENGOKAI (JAPAN BUSINESS FEDERATION), OMEGA STRATEGIES, LLC., PATEL PARTNERS LLC, RICH FEUER ANDERSON, RYBERG AND SMITH, L.L.C., SCHOENING STRATEGIES, SMALL BUSINESS INVESTOR ALLIANCE, SMALL BUSINESS MAJORITY FOUNDATION, INC., SQUIRE PATTON BOGGS, STEPTOE LLP, T A BUSINESS DEVELOPMENT, LLC, TEXAS ASSOCIATION OF BUSINESS, THE BUSINESS COUNCILS 90A, LLC, THE SOCCI LAW FIRM, PLLC (FKA INFLUENCE STRATEGIES), THE VOGEL GROUP, TIBER CREEK GROUP, VAN SCOYOC ASSOCIATES
 

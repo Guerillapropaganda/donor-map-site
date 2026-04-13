@@ -73,8 +73,8 @@ Major investigative outlets with editorial standards, fact-checking processes, a
 
 | Source | URL | What It Provides | Best For |
 |--------|-----|------------------|----------|
-| **ProPublica** | [propublica.org](https://projects.propublica.org/nonprofits) | Deep investigative reporting on government, finance, healthcare, criminal justice. | Long-form donor investigations, dark money tracking, institutional corruption. Dollars for Docs, Represent, Nonprofit Explorer. |
-| **The Intercept** | [theintercept.com](https://theintercept.com) | National security, surveillance, criminal justice, political influence reporting. | FISA/surveillance, intelligence community, defense contractor relationships, AIPAC/foreign lobbying. |
+| **ProPublica** | [propublica.org](https://projects.propublica.org/nonprofits) | Deep investigative reporting on government, finance, healthcare, justice system. | Long-form donor investigations, dark money tracking, institutional corruption. Dollars for Docs, Represent, Nonprofit Explorer. |
+| **The Intercept** | [theintercept.com](https://theintercept.com) | National security, surveillance, justice system, political influence reporting. | FISA/surveillance, intelligence community, defense contractor relationships, AIPAC/foreign lobbying. |
 | **Capital & Main** | [capitalandmain.com](https://capitalandmain.com/) | California-focused labor, economy, and political power reporting. | California politicians, labor unions, CA Governor 2026 race, real estate and development politics. |
 | **CalMatters** | [calmatters.org](https://calmatters.org/search) | Nonpartisan California policy journalism. | California state policy, budget, elections, legislative analysis. Note: frequently restructures URLs — verify before publication. |
 | **LA Times** | [latimes.com](https://www.latimes.com/) | California's paper of record. Investigations, politics, state government. | California political coverage, investigations, editorial context. (Paywalled — note when citing.) |
@@ -86,7 +86,7 @@ Major investigative outlets with editorial standards, fact-checking processes, a
 | **Politico** | [politico.com](https://www.politico.com/search) | Political news, policy analysis, influence industry coverage. | Lobbying dynamics, K Street analysis, political strategy reporting. |
 | **CREW** | [citizensforethics.org](https://www.citizensforethics.org/) | Government ethics investigations, corruption tracking. | Ethics violations, emoluments, conflicts of interest, financial disclosures. |
 | **Center for American Progress** | [americanprogress.org](https://www.americanprogress.org/) | Progressive policy research and analysis. | Climate policy, healthcare, economic policy analysis. Note: progressive orientation — cross-reference claims. |
-| **Brennan Center** | [brennancenter.org](https://www.brennancenter.org/) | Democracy, voting rights, criminal justice reform research. | Voter suppression, dark money, judicial selection, campaign finance analysis. |
+| **Brennan Center** | [brennancenter.org](https://www.brennancenter.org/) | Democracy, voting rights, justice system reform research. | Voter suppression, dark money, judicial selection, campaign finance analysis. |
 | **Documented** | [documented.net](https://documented.net/) | Corporate influence on politics investigation. | ALEC model legislation, corporate lobbying networks, industry influence campaigns. |
 
 ---

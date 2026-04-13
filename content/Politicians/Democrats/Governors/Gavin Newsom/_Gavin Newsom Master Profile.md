@@ -81,7 +81,7 @@ Key institutional donors and their policy returns — each links to a detailed p
 
 **Environment / Energy:** [[PG&E]] | [[Chevron]] | [[Western States Petroleum Association]] → fracking permits continued, [[PG&E|PG&E]] liability protection [See: [[PG&E - The Utility Donor and the Wildfire Cover]] | [[Fracking and Oil Permits - Green Branding vs. Record]]]
 
-**Criminal Justice:** [[CCPOA - California Correctional Peace Officers Association]] → prison budget intact, reform ceiling maintained [See: [[CCPOA - The Prison Guard Donor and the Reform Ceiling]]]
+**justice system:** [[CCPOA - California Correctional Peace Officers Association]] → prison budget intact, reform ceiling maintained [See: [[CCPOA - The Prison Guard Donor and the Reform Ceiling]]]
 
 **Education:** [[CTA - California Teachers Association]] | [[California Charter Schools Association]] | [[Eli Broad Foundation]] | [[Walton Family Foundation]] → managed tension between union and billionaire reform blocs [See: [[Charter Schools and the Billionaire Reform Movement]]]
 
@@ -107,8 +107,8 @@ Key institutional donors and their policy returns — each links to a detailed p
 ### Environment
 [[PG&E - The Utility Donor and the Wildfire Cover]] | [[Fracking and Oil Permits - Green Branding vs. Record]] | [[100% Clean Energy and the 2035 EV Mandate]] | [[Environment - Donors and Backers]]
 
-### Criminal Justice
-[[CCPOA - The Prison Guard Donor and the Reform Ceiling]] | [[Death Penalty Moratorium - Genuine Win With Limits]] | [[San Quentin - COVID Disaster and Rehabilitation Theater]] | [[Policing Reform - George Floyd Era]] | [[Criminal Justice - Donors and Backers]]
+### justice system
+[[CCPOA - The Prison Guard Donor and the Reform Ceiling]] | [[Death Penalty Moratorium - Genuine Win With Limits]] | [[San Quentin - COVID Disaster and Rehabilitation Theater]] | [[Policing Reform - George Floyd Era]] | [[justice system - Donors and Backers]]
 
 ### Education
 [[Charter Schools and the Billionaire Reform Movement]] | [[COVID School Closures - Learning Loss and Class Division]] | [[Universal Pre-K and Transitional Kindergarten]] | [[Ethnic Studies - Whose History Gets Taught]] | [[Education - Donors and Backers]]

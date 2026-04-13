@@ -80,7 +80,7 @@ Moskovitz's political ambitions are shaped by effective altruism ideology — th
 
 **Dark Money Primary Vehicle:** [[Future Forward USA Action|Future Forward USA Action]] (501c4 dark money organization) received $51 million+ from Moskovitz in the 2024 cycle, making him the single largest funder. Future Forward does not disclose its donors, operating as a vehicle for anonymous billionaire spending on Democratic infrastructure. The organization spent primary funds on: Harris campaign digital infrastructure, Democratic state party capacity building, and battlefield state voter contact operations.
 
-**Open Philanthropy (co-founded with Cari Tuna):** $41 billion in total commitments across global health ($5.7B), animal welfare ($4.3B), and AI safety research. California focus includes biodefense research, land conservation, and criminal justice reform pilot programs. Operates as 501c3 nonprofit, subject to disclosure requirements but functioning as a parallel funding apparatus to political spending.
+**Open Philanthropy (co-founded with Cari Tuna):** $41 billion in total commitments across global health ($5.7B), animal welfare ($4.3B), and AI safety research. California focus includes biodefense research, land conservation, and justice system reform pilot programs. Operates as 501c3 nonprofit, subject to disclosure requirements but functioning as a parallel funding apparatus to political spending.
 
 **Good Ventures Foundation (co-founded with Cari Tuna, also 501c3):** Serves as distribution vehicle for Moskovitz's personal wealth. $2.8B in assets, distributed $285M in 2023 alone. California grants: UC Berkeley AI safety research ($15M), California policy fellowships ($8M+), Silicon Valley Foundation collaboration on housing and education.
 

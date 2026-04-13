@@ -115,7 +115,7 @@ Removal of the Federal Reserve asset cap (which limits Wells Fargo's growth), re
 
 ### What They've Gotten
 
-**Regulatory Survival:** Despite creating 3.5 million fake accounts, Wells Fargo survived as a going concern. No senior executive faced criminal prosecution for the fraud. The $3 billion settlement was significant but not existential for a bank earning $13+ billion annually. The asset cap — the most consequential punishment — has been maintained but is widely expected to be lifted as the bank demonstrates compliance with remediation requirements.
+**Regulatory Survival:** Despite creating 3.5 million fake accounts, Wells Fargo survived as a going concern. No senior executive faced prosecution for the fraud. The $3 billion settlement was significant but not existential for a bank earning $13+ billion annually. The asset cap — the most consequential punishment — has been maintained but is widely expected to be lifted as the bank demonstrates compliance with remediation requirements.
 
 **CFPB Weakening:** The broader banking industry's successful campaign to weaken the CFPB — through Trump-era leadership changes, court challenges, and congressional funding attacks — benefits Wells Fargo disproportionately. The CFPB was the primary federal agency that could have detected and prevented the fake accounts scandal earlier; weakening the CFPB reduces the likelihood of similar enforcement actions in the future.
 

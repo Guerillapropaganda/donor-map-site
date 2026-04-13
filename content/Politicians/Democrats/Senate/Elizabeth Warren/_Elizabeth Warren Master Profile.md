@@ -383,7 +383,7 @@ party:: Democrat
 | 142 | A joint resolution providing for congressional disapproval under chapter 8 of ti… | Read twice and referred to the Committee on Banking, Housing, and Urban Affairs. |
 | 651 | A resolution honoring the USS Massachusetts (SSN-798) Virginia Class nuclear sub… | Referred to the Committee on Armed Services. (text: CR S1380-1381) |
 | 4050 | Failed Bank Executives Clawback Act | Read twice and referred to the Committee on Banking, Housing, and Urban Affairs. |
-| 4029 | A bill to reinforce the Foreign Corrupt Practices Act of 1977 by establishing a … | Read twice and referred to the Committee on the Judiciary. |
+| 4029 | A bill to reinforce the Foreign Bribery Prevention Act of 1977 by establishing a … | Read twice and referred to the Committee on the Judiciary. |
 | 4001 | Supplemental Security Income Restoration Act of 2026 | Read twice and referred to the Committee on Finance. |
 | 113 | A joint resolution providing congressional disapproval under chapter 8 of title … | Read twice and referred to the Committee on Banking, Housing, and Urban Affairs. |
 
