@@ -86,6 +86,13 @@ Bot-written. Research Claude reads this to see what fresh API data landed in the
 
 
 
+
+## 2026-04-13 05:57 UTC — 1 profile
+
+**sec-edgar — 1 profile:**
+- ADM - Archer Daniels Midland — 1170 filings, 20 form types
+
+---
 ## 2026-04-13 05:22 UTC — 17 profiles
 
 **FEC — 17 profiles:**
