@@ -1,9 +1,9 @@
 ---
 title: "John Ratcliffe Master Profile"
 type: politician
-content-readiness: draft
+content-readiness: ready
 central-thesis: "John Ratcliffe's career arc — small-town mayor → congressman → Trump impeachment defender → DNI → defense consultant ($2.2M+) → CIA Director — represents loyalty-as-qualification in its purest form. He has no intelligence community background, inf..."
-last-updated: 2026-04-07
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 party: "Republican"
@@ -95,6 +95,18 @@ John Ratcliffe. CIA Director (2025–present, confirmed 74-25). Previously Direc
 > **The revolving door circuit:** Congressional defense donor money (2015–2020) → DNI appointment (2020) → intelligence politicization → post-government consulting (Blackstone $1.3M, defense sector 2021–2024) → CIA Director appointment (2025) → controls defense intelligence budgets for the same firms. The money flows in both directions: donors invest in Ratcliffe pre-appointment; Ratcliffe cashes out post-appointment; new appointment reopens the cycle.
 >
 > **The Blackstone → CIA sequence (12 months):** Blackstone pays Ratcliffe $1.3M (2021–2024) → Ratcliffe confirmed CIA Director (January 2025). Blackstone manages $1T+ in assets and has interests in intelligence-adjacent sectors (cybersecurity, defense technology, infrastructure). The CIA Director who controls intelligence spending and priorities spent the prior 3 years on Blackstone's payroll.
+
+---
+
+## Class Analysis
+
+John Ratcliffe's career is the defense contractor revolving door running on a loyalty engine. He entered Congress with no intelligence background, took $270K+ from defense sector donors and Club for Growth, then converted aggressive Trump impeachment defense into an appointment as Director of National Intelligence. The DNI post was the first return on the loyalty investment. The consulting fees that followed were the second.
+
+Between government stints, Ratcliffe collected $1.3 million from Blackstone, $500K from US Trinity Energy Services, and stock options from Latent AI, a military AI contractor. Total post-government income: $2.2 million itemized, $3.3 million in 2024 alone. These are not speaking fees for a retired official. They are holding payments for a future regulator. Blackstone manages over $1 trillion in assets across cybersecurity, defense technology, and infrastructure. Ratcliffe now controls the CIA budget that touches all three sectors.
+
+The class function is straightforward. Defense donors invested $270K+ in a congressman with no relevant credentials. That congressman delivered loyalty performances (impeachment defense) that earned appointment to intelligence leadership. Intelligence leadership opened the consulting pipeline ($2.2M+). The consulting pipeline kept relationships warm until the next appointment. Now Ratcliffe runs the CIA, cutting 1,200 personnel and revoking 67 security clearances, building the lean, compliant intelligence apparatus his defense sector patrons need. The Signal chat incident, where he exposed an undercover CIA officer's name, is not an accident. It is the predictable result of placing an unqualified loyalist in an organization that depends on operational competence.
+
+The resume inflation tells the whole story. Ratcliffe claimed "dozens" of terrorism investigations and said he "put terrorists in prison." His office could not name a single terrorism suspect he sent to prison. In 2005, he admitted publicly that his background was not in law enforcement and that he had no specialized training. The man who inflated his way into intelligence leadership now manages the nation's human intelligence operations. The defense contractors who funded him do not need a competent CIA director. They need a compliant one.
 
 ---
 

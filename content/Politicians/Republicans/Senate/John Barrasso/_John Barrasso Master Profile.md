@@ -1,7 +1,7 @@
 ---
 title: "John Barrasso"
 type: politician
-content-readiness: draft
+content-readiness: ready
 central-thesis: "Barrasso's donor-class function is to serve as the fossil fuel industry's highest-ranking champion in the Senate leadership. From the Environment and Public Works Committee to Energy and Natural Resources to the Majority Whip position, his career ..."
 last-updated: 2026-04-13
 source-tier: 1
@@ -110,6 +110,14 @@ Barrasso's donor-class function is to serve as the fossil fuel industry's highes
 - **Economic populism for extraction:** Frames fossil fuel industry as working-class job creator, obscuring that the primary beneficiaries are multinational corporations.
 
 ---
+
+## Class Analysis
+
+John Barrasso is the fossil fuel industry's highest-ranking asset in the Senate. He holds the Majority Whip position, the second-most powerful Republican seat, and his career arc traces a direct line from industry money to institutional power. Career oil and gas contributions exceed $1.33M. He was the #1 Senate recipient from chemicals in 2017-2018. The #1 Senate recipient from electric utilities in the same cycle. The #2 Senate recipient from pharmaceutical manufacturing. Eighty-seven percent of his contributions come from business sources. Less than one percent comes from labor. The numbers tell you whose senator this is.
+
+The policy delivery matches the investment. Barrasso chaired the Environment and Public Works Committee, where he blocked EPA regulation of greenhouse gases. He led the effort to gut the Endangered Species Act, rebranding it as "modernization" to clear land for extraction. He co-authored the Energy Permitting Reform Act with Joe Manchin, providing bipartisan cover for fast-tracking fossil fuel infrastructure projects. He sponsored a motion requiring minimum 10 region-wide lease sales in the Gulf of Mexico and Alaska. He opposed the Clean Power Plan and Paris Climate Agreement implementation. Every major policy action in Barrasso's career serves the same constituency: the companies that extract fossil fuels from Wyoming's land and sell them on global markets.
+
+Wyoming is the class contradiction made geographic. The state produces more coal than any other state. It has the second-largest natural gas reserves and ranks eighth in crude oil. Barrasso represents this extraction economy, but the people most harmed by the extraction economy's externalities are also in Wyoming. Ranchers face drought worsened by climate change. Rural residents near extraction sites face air and water quality degradation. Indigenous communities deal with water contamination. The doctor who swore "first, do no harm" has spent two decades ensuring the industries harming his constituents face no federal regulation. He reframes every environmental protection as an economic attack on Wyoming workers, while his top donors are multinational energy corporations whose executives live in Houston and New York. The $1.33M in oil and gas money bought a senator who makes Wyoming's extraction economy untouchable from federal oversight, and the people who bear the costs of extraction have no comparable line item in Barrasso's donor list.
 
 ## Analytical Patterns
 

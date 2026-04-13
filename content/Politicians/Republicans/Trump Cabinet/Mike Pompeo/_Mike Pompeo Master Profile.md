@@ -1,9 +1,9 @@
 ---
 title: "Mike Pompeo Master Profile"
 type: politician
-content-readiness: draft
+content-readiness: ready
 central-thesis: "Pompeo is the Koch brothers' direct product — Koch Industries funded his Kansas congressional campaigns, he built his pre-political business career with Koch venture capital seed money, he served their interests at CIA and State, and his post-gove..."
-last-updated: 2026-04-07
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 party: "Republican"
@@ -125,6 +125,18 @@ Saudi Arabia relationship → Koch Industries has business relationships with Sa
 **February 2025:** Hired as Distinguished Fellow at Columbia University's Institute of Global Politics, teaching a course on diplomacy and decision-making.
 
 The pattern: think tank → PAC → speaking fees → board memberships → law firm counsel → academic fellowship. Each position monetizes the relationships and credibility built during government service. The revolving door spins both directions.
+
+---
+
+## Class Analysis
+
+Mike Pompeo is the Koch brothers' most successful political product. Koch Industries, headquartered in Wichita, Kansas, funded Pompeo's congressional campaigns with $400,500+, making him the #1 recipient of Koch money among all federal politicians. But the pipeline started before Congress. Pompeo built his pre-political aerospace businesses with Koch Venture Capital seed money. He became president of Sentry International, an oilfield equipment manufacturer partnered with Koch Industries. The geographic overlap (Kansas's 4th District = Wichita = Koch headquarters) and the financial overlap (Koch money in both his businesses and his campaigns) made Pompeo the Koch network's dedicated congressional representative. The nickname was accurate: "the Congressman from Koch."
+
+The Koch investment paid off at every level of Pompeo's career. In Congress, he voted against wind energy tax credits that would have benefited Kansas wind farmers in his own district, because Koch Industries' fossil fuel portfolio competes with wind. As Secretary of State, he was the primary internal advocate for withdrawing from the Iran nuclear deal (JCPOA). Iran is a major fossil fuel producer. Removing a petrostate competitor from the global oil market protects the pricing environment for Koch's petroleum interests. The JCPOA withdrawal is the single largest foreign policy gift to a combined donor network (Koch + AIPAC + neocon infrastructure) in modern diplomatic history. The $400K investment in a Kansas congressman produced a trillion-dollar foreign policy outcome.
+
+The Khashoggi cover-up completed the picture. Pompeo received the CIA's assessment that Saudi Crown Prince Mohammed bin Salman ordered the assassination of Washington Post journalist Jamal Khashoggi. He traveled to Riyadh, met with MBS, and returned to publicly downplay the findings. Koch Industries has business relationships with Saudi petroleum infrastructure. The Secretary of State who graduated first in his class at West Point, who invokes the Honor Code in his public persona, helped cover for a state assassination to protect a Saudi relationship his donor network depends on. The honor is decorative. The Koch and Saudi relationships are functional.
+
+The post-government revolving door confirmed the class function. Hudson Institute fellow, Cyabra board member (Israeli company), $150K Taiwan speaking fee, law firm counsel alongside John Ratcliffe, Columbia University fellowship. Each position monetizes the access and credibility that Koch's investment created. The Koch network chose not to fund Pompeo's 2024 presidential bid, and without that backing, the campaign never materialized. The product works when the manufacturer supports it. Without Koch money, Pompeo is a former official collecting speaking fees.
 
 ---
 

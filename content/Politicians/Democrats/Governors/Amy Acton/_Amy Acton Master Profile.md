@@ -2,7 +2,7 @@
 title: "Amy Acton Master Profile"
 type: politician
 content-readiness: ready
-central-thesis: "Amy Acton represents a structurally different Democratic funding model: a genuinely grassroots-financed campaign ($5.3 million raised, 96% of contributions under content-readiness: draft00, $28 average donation, 52,000 individual donors) backed by institutional labor u..."
+central-thesis: "Amy Acton represents a structurally different Democratic funding model: a genuinely grassroots-financed campaign ($5.3 million raised, 96% of contributions under content-readiness: ready00, $28 average donation, 52,000 individual donors) backed by institutional labor u..."
 last-updated: 2026-04-13
 source-tier: 1
 parent: null

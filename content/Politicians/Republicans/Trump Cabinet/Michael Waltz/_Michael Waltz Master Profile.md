@@ -104,6 +104,16 @@ Waltz uses military credentialing as his primary rhetorical frame — "Green Ber
 
 ---
 
+## Class Analysis
+
+Michael Waltz is the defense contractor revolving door in its cleanest form. He co-founded Metis Solutions, a defense consulting firm, then sold it to PAE for $92 million in 2020. The capital gains ($5 to $25 million personal) funded a congressional career on the Armed Services Committee, where he advocated for the defense spending that made his fortune possible. The sequence is circular: defense industry wealth funds political career, political career serves defense industry interests, defense industry benefits fund the next political position.
+
+The AIPAC connection ($102K) correlates directly with Waltz's hawkish Israel positions and support for military aid. Securities and investment firms contributed $292K. The donor base is defense-adjacent capital: firms that profit from the military spending Waltz champions and the geopolitical hawkishness he projects. His China hawkishness (boycott of the 2022 Olympics, anti-espionage legislation) and his skepticism of Ukraine aid both serve the same donor interest: directing U.S. military attention and spending toward theaters where defense contractors see the highest margins.
+
+The Signalgate incident stripped the credentialing bare. Waltz built his political brand on military competence: "Green Beret," "combat veteran," "national security expert." Then he accidentally added a journalist to a Signal chat where senior officials discussed active Yemen military strikes. The national security expert created one of the most embarrassing operational security failures in recent White House history. The consequence was not termination but lateral reassignment to UN Ambassador. In the loyalty economy, operational incompetence is survivable. Disloyalty is not. Waltz served in Bush administration policy roles under Rumsfeld, Gates, and Cheney before entering electoral politics. The pattern is consistent: defense industry insider uses military credentials as the entry point, converts political loyalty into appointments, and the defense sector benefits at every stop.
+
+---
+
 ## Analytical Patterns
 
 - **Revolving Door** — Defense consulting (Metis Solutions) → Congress (Armed Services Committee) → NSA → UN Ambassador. Each position serves the defense sector's interests from a different angle.

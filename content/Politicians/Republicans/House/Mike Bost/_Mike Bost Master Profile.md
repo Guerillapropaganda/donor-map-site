@@ -2,9 +2,9 @@
 title: "Mike Bost"
 type: politician
 bioguide-id: "B001295"
-content-readiness: draft
+content-readiness: ready
 central-thesis: "Mike Bost championed the PACT Act — the landmark legislation expanding VA healthcare for veterans exposed to burn pits and toxic substances. It was his signature achievement, a genuinely important law that extended care to millions of post-9/11 ve..."
-last-updated: 2026-04-08
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 party: "Republican"
@@ -108,6 +108,16 @@ This is the Veterans' Affairs Committee's structural trap: the chair needs Trump
 | 2025 | ← POLICY | Supports $1 trillion next-generation community care contract — routing veterans to private providers | — | — | — |
 | 2025 | ← RHETORIC | Contract "if done properly" gives VA "unprecedented flexibility" | — | — | — |
 | 2025 | ← NOTE | Community care expansion + workforce cuts = de facto privatization. Fewer VA employees + larger private contracts = veterans pushed out of public system. | — | — | — |
+
+---
+
+## Class Analysis
+
+Mike Bost's class analysis is unusual because the primary pressure on him is not donor money but institutional leverage. His 51% PAC-funded profile reflects the standard committee chair's relationship with lobbyists rather than single-industry capture. AIPAC gave $56,270 in 2023-2024. Healthcare and real estate PACs contribute at expected levels. No single donor sector dominates the way defense dominates Mike Rogers or Wall Street dominates Bryan Steil. The leash on Mike Bost is the gavel itself.
+
+Bost championed the PACT Act, the landmark legislation expanding VA healthcare for veterans exposed to burn pits and toxic substances. It was a genuinely important law that extended care to millions of post-9/11 veterans. Then DOGE and the Trump administration announced plans to cut 83,000 VA employees, including the staff hired specifically to implement the PACT Act. Bost initially asked for "clarity." Days later he fell in line: "I have full confidence in Secretary Collins and the Trump administration." The congressman who wrote the law to help veterans endorsed the cuts that prevent the law from being implemented.
+
+The class structure here is institutional, not financial. Bost's chairmanship depends on Trump's support and the Republican Steering Committee. To challenge the VA workforce cuts means challenging the administration, which means risking the gavel. So the Marine veteran who built the PACT Act watches it get hollowed out from the inside while publicly expressing "full confidence" in the people doing the hollowing. The $1 trillion next-generation community care contract he supports tells the rest of the story: fewer VA employees plus larger private contracts equals de facto privatization. Veterans get pushed out of the public system and into private provider networks. The PACT Act remains on the books. The staff to implement it disappears. The chair who wrote the law signs off on both.
 
 ---
 

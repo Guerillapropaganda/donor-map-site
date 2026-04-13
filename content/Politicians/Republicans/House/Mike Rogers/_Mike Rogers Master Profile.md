@@ -1,9 +1,9 @@
 ---
 title: "Mike Rogers"
 type: politician
-content-readiness: draft
+content-readiness: ready
 central-thesis: "Mike Rogers is the defense industry's highest-paid congressional employee. Over $2 million in career defense donations — more than any other House member in the current Congress — bought the most reliable advocate the military-industrial complex h..."
-last-updated: 2026-04-10
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 party: "Republican"
@@ -119,6 +119,16 @@ His #1 career donor is Lockheed Martin — the company competing for the Next Ge
 | 2021-2025 | ← POLICY | Champions relocation of Space Command HQ to Huntsville, Alabama (his state) | — | Billions in construction + jobs | Ongoing |
 | 2025 | ← POLICY | Space Command relocation to Redstone Arsenal confirmed | — | — | 6 years |
 | 2025 | ← NOTE | Rogers steered the command's headquarters — and its entire contractor ecosystem — to Alabama's defense corridor | — | — | — |
+
+---
+
+## Class Analysis
+
+Mike Rogers is the defense industry's highest-paid congressional employee. Over $2 million in career defense donations, more than any other House member in the current Congress, bought the most reliable advocate the military-industrial complex has in Washington. In the 2022 cycle alone, Rogers received $440,000 from defense interests. His top five career donors are the top five defense contractors: Lockheed Martin, Raytheon Technologies, Boeing, Northrop Grumman, and General Dynamics. These same five firms receive the majority of the Pentagon's procurement budget, which Rogers' committee authorizes. The investment is $2 million. The return is $886 billion in annual defense authorization. The ROI for defense contractors donating to the Armed Services Committee chair is approximately 443,000 to 1.
+
+Rogers does not just vote for defense budgets. He creates new markets for defense contractors. He was instrumental in establishing the Space Force as a separate military branch in 2019, creating an entirely new procurement pipeline worth tens of billions. He then championed relocating Space Command headquarters to Huntsville, Alabama, steering the command's contractor ecosystem directly into his state's defense corridor adjacent to Redstone Arsenal. The Space Command relocation is a genuine win for Alabama's economy, but it deepens the structural capture: Alabama becomes more dependent on Pentagon spending, which makes cutting the defense budget harder because it means cutting Alabama's economy.
+
+Rogers' number one career donor is Lockheed Martin, the company competing for the Next Generation Interceptor missile contract, which his committee authorizes. The committee chair's top donor is the contractor competing for the committee's largest single procurement. Rogers represents AL-03, a district with real poverty, healthcare access problems, and infrastructure needs. His committee's jurisdiction ensures that federal money flowing to Alabama comes primarily through defense procurement, not domestic programs. The district gets Anniston Army Depot jobs. Rural healthcare and education get whatever is left after the Pentagon is funded.
 
 ---
 

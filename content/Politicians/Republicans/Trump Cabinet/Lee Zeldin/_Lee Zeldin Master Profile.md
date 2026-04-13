@@ -1,9 +1,9 @@
 ---
 title: "Lee Zeldin Master Profile"
 type: politician
-content-readiness: draft
+content-readiness: ready
 central-thesis: "Lee Zeldin's EPA appointment is the donor-to-deregulation pipeline in its most transparent form. Congressional career: oil and gas industry donated $410K+, Koch Industries $60K+. Post-government: Leonard Leo's CRC Advisors paid him $3K+ for fossil..."
-last-updated: 2026-04-10
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 party: "Republican"
@@ -112,6 +112,14 @@ Lee Zeldin. EPA Administrator (2025–present, confirmed January 29, 2025). Prev
 3. **The Trump defender:** Spoke more than any other congressional Republican during first impeachment; voted against impeachment for January 6. The function: convert loyalty performance into appointment currency. Same mechanism as Ratcliffe.
 
 ---
+
+## Class Analysis
+
+Lee Zeldin is the donor-to-deregulation pipeline with the receipts visible at every stage. Oil and gas gave $410K over his congressional career. Koch Industries added $60K. After leaving Congress, Leonard Leo's CRC Advisors paid him $3K to write op-eds promoting Chevron's interests. CGCN Group paid $98K for published and unpublished op-eds in Newsweek, Washington Examiner, and Washington Times. He sat on the board of the America First Policy Institute, co-founded by Tim Dunn, a $2.2 billion fracking billionaire. The fossil fuel industry funded the congressman, funded the consultant, funded the op-ed writer, and then got the EPA Administrator. Each stage of Zeldin's career was a down payment on the next.
+
+The return on investment arrived 60 days after confirmation. March 2025: 31 deregulatory rollbacks that Zeldin called "the greatest and most consequential day of deregulation in U.S. history." Vehicle emissions standards eliminated. Power plant emissions rules rewritten. The Endangerment Finding targeted for repeal (Zeldin called it the "Holy Grail of the climate change religion"). EPA budget proposed for a 54.5% cut, or $4.2 billion. Fifty to seventy-five percent of EPA scientists considered for firing. The EPA's own analysis of just 12 of the 31 rollbacks projects approximately 200,000 premature deaths and 100 million additional asthma attacks through 2050. Zeldin guaranteed "absolutely" no adverse health effects. The guarantee is the product. The fossil fuel donors who funded every stage of Zeldin's career will not pay for the 200,000 deaths. Those costs are externalized to the public.
+
+The 2022 governor race reveals the donor network's full scope. Ronald Lauder, president of the World Jewish Congress, poured $11M into super PACs for Zeldin. Real estate donors contributed $400K. Kenneth Langone of Home Depot gave $70K. Total raised: $19.6M. Zeldin lost to Hochul but came closer than any Republican since 1994. The governor race was not wasted investment. It preserved the donor network and elevated the profile that secured the EPA appointment. In the donor class economy, a lost election is not a failure if it positions the candidate for the next appointment. The money always finds its way back.
 
 ## Analytical Patterns
 
