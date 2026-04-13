@@ -1,7 +1,7 @@
 ---
 title: "Roger Wicker"
 type: politician
-content-readiness: draft
+content-readiness: ready
 central-thesis: "Wicker is the defense-state senator who chairs the defense committee. The structural alignment is total: Mississippi's largest employer (Huntington Ingalls), Mississippi's military bases (Stennis, Keesler, Columbus, Camp Shelby), and the defense c..."
 last-updated: 2026-04-13
 source-tier: 1
@@ -118,6 +118,14 @@ Wicker is the defense-state senator who chairs the defense committee. The struct
 | FY 2026 | NDAA: $528.7M authorized for Mississippi defense sites | $528.7M | Wicker.senate.gov |
 
 ---
+
+## Class Analysis
+
+Roger Wicker is the defense-state senator who chairs the defense committee, and the structural alignment is total. He is the #1 Senate recipient of defense industry campaign contributions, collecting $343,065 in the 2024 cycle alone. His top donor industries are Misc. Defense (#2 ranked recipient among all senators) and Sea Transport (#2 ranked recipient). Huntington Ingalls Industries, whose Pascagoula shipyard employs 11,000 Mississippians, is his primary defense contributor. The senator who authorizes naval shipbuilding is the top recipient of money from the companies that build ships.
+
+The self-reinforcing cycle operates without friction. Defense contractors donate to Wicker. Wicker authorizes their contracts: $11.5 billion multi-ship amphibious assault to Ingalls, $5.1 billion DDG-51 destroyer procurement, $2.97 billion Lockheed Martin Aegis BMD contract. Those contracts are built in Mississippi. Mississippi's economy depends on continued defense spending (Stennis brings $950 million/year, Keesler $1 billion/year). Mississippi re-elects Wicker to continue the cycle. His "Peace Through Strength" proposal calls for $55 billion in additional annual defense spending, with specific line items for shipbuilding programs built at the Pascagoula yard in his state. There is no point in the cycle where Wicker faces a structural incentive to question contractor margins, reform procurement, or reduce spending.
+
+The class function is clear in the numbers. Wicker's funding breaks down as 48.32% large individual contributions, 32.32% PAC money, and just 5.85% small individual contributions. His FY2010 earmark record (164 earmarks totaling $381 million, third of 100 senators) included a $6 million earmark for a defense company whose executives donated to his campaign. The FY2026 NDAA authorized $528.7 million for Mississippi defense sites. Every dollar of defense authorization that flows through Wicker's committee returns to Mississippi as jobs and to Wicker as campaign contributions. The rhetoric is national security. The structure is a closed loop between the committee, the contractors, the state, and the campaign account.
 
 ## Analytical Patterns
 

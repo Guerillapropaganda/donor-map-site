@@ -149,6 +149,16 @@ However, the foreign policy portfolio receives far less attention than gun contr
 
 ---
 
+## Class Analysis
+
+Chris Murphy's donor architecture reveals a two-track politician operating on behalf of two distinct classes. The gun control track runs on small-dollar ideological money and trial lawyer donations ($3.82M career from lawyers and law firms, including $141,000 from Koskoff, Koskoff and Bieder, the firm that sued Remington on behalf of Sandy Hook families). This track produces genuine legislative wins. The Bipartisan Safer Communities Act of 2022 was the first federal gun legislation in 30 years. The Sandy Hook connection is real, the advocacy is sustained, and the policy output is measurable.
+
+The second track is Connecticut's professional class. The FIRE sector contributed $6.85M across Murphy's career, dwarfing labor's $1.24M by a ratio of 5.5 to 1. Securities and investment alone delivered $3.37M. Insurance delivered $1.01M, with Hartford Financial Services at $140,000 as his fifth-largest career contributor. This money comes overwhelmingly from individuals ($5.43M) rather than PACs ($1.42M), which means these are real relationships with hedge fund managers in Greenwich, insurance executives in Hartford, and real estate developers across Fairfield County. Murphy can be as progressive as he wants on guns because gun control does not threaten a single dollar of his donors' revenue. He cannot be structurally progressive on healthcare because it would destroy Connecticut's largest employment sector.
+
+The class tell is Medicare for All. When Bernie Sanders proposed it in 2019, Murphy retreated to "I favor putting the choice in the hands of the consumer," a framing that preserves the private insurance model Hartford depends on. Connecticut Democrats openly acknowledged the conflict: with thousands of insurance jobs at stake, single-payer was off the table. Murphy criticizes healthcare consolidation while defending the market structure that makes consolidation profitable. His labor funding ($1.24M career) is almost entirely PAC money ($1.21M PAC vs. $27,000 individual), which means union leadership buying access, not working-class organic support. The gun control brand is built on tragedy and conviction. Everything else is built on Connecticut's class structure.
+
+---
+
 ## Analytical Patterns
 
 **Genuine Win + Structural Limit (Bipartisan Safer Communities Act):** The first federal gun legislation in 30 years was a real policy win. But it stopped short of assault weapons bans, universal background checks, or federal red flag laws. The win was calibrated to what the firearms industry's allies would tolerate.
