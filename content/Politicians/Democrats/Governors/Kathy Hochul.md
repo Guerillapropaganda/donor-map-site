@@ -2,9 +2,9 @@
 title: "Kathy Hochul"
 type: state-politician
 current-office: "Governor of New York (2021–present)"
-content-readiness: draft
+content-readiness: ready
 central-thesis: "Hochul's donor base clusters in New York real estate and Wall Street. Top donors include families who control major development firms: the Cayres (Midtown Equities), Moiniers (Moinian Group real estate), and Tisches (Loews, which holds extensive r..."
-last-updated: 2026-04-06
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 source-types:

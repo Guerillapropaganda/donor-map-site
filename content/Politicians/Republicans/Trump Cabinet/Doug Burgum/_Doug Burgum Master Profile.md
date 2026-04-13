@@ -1,9 +1,9 @@
 ---
 title: "Doug Burgum Master Profile"
 type: politician
-content-readiness: draft
+content-readiness: ready
 central-thesis: "Doug Burgum's trajectory — software entrepreneur → tech millionaire → North Dakota governor → Interior Secretary → 'energy czar' — represents the conversion of tech wealth into fossil fuel policy power. His content-readiness: draft.1 billion Microsoft exit funded a pol..."
-last-updated: 2026-04-06
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 party: "Republican"
@@ -97,6 +97,14 @@ Doug Burgum. Secretary of the Interior (2025–present). Chair of the National E
 3. **The all-of-the-above governor (now retired):** As governor, championed wind energy, carbon neutrality, pragmatic energy policy. As Interior Secretary, blocks wind and solar. The rhetorical shift tracks the donor shift.
 
 ---
+
+## Class Analysis
+
+Doug Burgum is the tech millionaire who became the fossil fuel industry's Interior Secretary. He sold Great Plains Software to Microsoft for $1.1 billion in 2001, built a $400 million to $1.1 billion personal fortune, then converted that wealth into a political career that now controls federal public lands, drilling permits, and energy leasing for the entire country. The conversion path: software exit funds governor's race, governor's platform attracts fossil fuel donors, fossil fuel donors fund federal ambitions, federal appointment delivers policy control over the industry that funded the climb.
+
+The Harold Hamm relationship is the key document. Continental Resources, controlled by Harold Hamm ($18.5 billion net worth), leases 200 acres of Burgum's farmland for $15,000 to $51,000 per year. Neither Burgum's gubernatorial financial disclosures mentioned this lease. Hamm then donated $250,000 to Burgum's super PAC. Burgum became Interior Secretary and issued 5,742 drilling permits on public lands, a 55% increase. He opened all 1.56 million acres of the Arctic National Wildlife Refuge coastal plain to oil leasing. Continental Resources is a primary beneficiary. The land lease, the campaign donation, and the policy outcome form a single undisclosed chain.
+
+The Senate confirmed Burgum 79-18 because they voted for the moderate governor they watched for eight years: the "all-of-the-above" energy champion who set a carbon neutrality goal for 2030 and doubled North Dakota's wind generation. As Interior Secretary, Burgum requires personal approval for all wind and solar projects on federal land while fast-tracking oil and gas. His wife Kathryn holds $250,000 in fossil fuel company stock. The moderate persona secured bipartisan confirmation. The fossil-fuel-only policy serves Harold Hamm and the oil executives who organized a meeting where Trump promised deregulation in exchange for $1 billion in campaign donations. The oil and gas industry invested $445 million in the 2024 election and received Burgum at Interior, Chris Wright at Energy, and Lee Zeldin at EPA. Three agencies, three appointees, one donor class.
 
 ## Analytical Patterns
 

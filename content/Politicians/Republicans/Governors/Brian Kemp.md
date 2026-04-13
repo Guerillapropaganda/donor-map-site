@@ -64,6 +64,16 @@ Kemp's resistance to Trump was not democratic principle—it was institutional b
 ---
 #republican
 
+### Class Analysis
+
+Brian Kemp's 2020 election certification refusal was not democratic principle. It was donor-class maintenance. Georgia's corporate establishment, UPS, Georgia Power, hospital networks, the Chamber of Commerce, the Koch network, needed institutional legitimacy to protect long-term capital interests. Trump demanded illegal action (overturning certified results). Kemp's corporate donors required lawfulness. The refusal was institutional business alignment, not courage. When the immediate crisis passed, Kemp delivered the substantive outcome through legal channels: SB 202, signed in March 2021, imposed stricter voter ID requirements, reduced mail voting access, cut early voting days, and removed drop boxes. The corporate donor class got both their democratic credibility and their electoral advantage. Method changed. Goal remained identical.
+
+Kemp raised $74.9 million for his 2022 reelection ($81.5 million including the leadership PAC). UPS gave $25,000. CoreCivic gave $10,000. Hospital networks and the nursing home lobby contributed through his leadership committee ($7.5 million+ from major corporate donors). This money purchased a governor who refuses chaos but delivers suppression. As Secretary of State, Kemp implemented exact-match voter purges that removed 1.4 million voters, disproportionately Black, before the 2018 election he was running in. He oversaw his own election while purging the rolls. SB 202 was the continuation: framed as "election integrity," designed to suppress Democratic turnout and maintain Republican electoral advantage.
+
+The class function is precise. Kemp represents the institutional Republican response to the Trump populist threat. The corporate donor class needs rule-of-law credibility to maintain capital's long-term power. Trump populism is tactically useful but structurally destabilizing. Kemp serves the long-term class interest: institutional legitimacy plus substantive Republican advantage through legal voter suppression. He refused the most dangerous populist demand while executing the populist goal through legal mechanisms. This is elite Republican thinking made visible. The national "principled conservative" brand was built on refusing Trump's illegal request while implementing SB 202, which achieved equivalent outcomes. Kemp proved the model works.
+
+---
+
 ### Rhetorical Signature Moves
 
 **Rule of Law Solemnity:** Frames election certification and SB 202 signing as neutral adherence to law, obscuring how those laws were written and enforced to serve Republican advantage. Uses institutional language to legitimize partisan outcomes.

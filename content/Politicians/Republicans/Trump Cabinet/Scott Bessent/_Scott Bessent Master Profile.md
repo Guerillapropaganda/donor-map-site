@@ -107,6 +107,16 @@ Bessent holds $250K–$500K in iShares Bitcoin Trust ETF and has positioned Trea
 
 ---
 
+## Class Analysis
+
+Scott Bessent is the proof that the donor class has no party. He spent 13 years at Soros Fund Management, helped break the Bank of England for a $1 billion profit in 1992, served as Soros's Chief Investment Officer from 2011 to 2015, and launched Key Square Group with $2 billion of Soros's seed capital. Then he raised $60 million for Donald Trump and was rewarded with the Treasury. Trump's base views George Soros as the globalist puppet master destroying America. Trump appointed Soros's former CIO to run the country's finances. The contradiction dissolves under class analysis: the anti-Soros rhetoric is culture war for the base. The pro-Bessent appointment is economics for the donor class. Soros's financial world and Trump's donor world attend the same conferences, manage money in the same markets, and benefit from the same deregulatory agenda.
+
+The 68-29 bipartisan confirmation is the tell. Nineteen Democrats voted to confirm a Trump mega-donor because the financial sector needs regulatory access regardless of who holds the White House. Wall Street's influence does not have a party. It has interests. Bessent beat Howard Lutnick (Elon Musk's preferred pick) for Treasury because the Wall Street establishment, Jamie Dimon, Kyle Bass, Sam Altman, preferred stability to disruption. The nomination battle was not ideological. It was a contest between two billionaire factions for control of the regulatory apparatus.
+
+Bessent holds $521 million+ in personal assets affected by his own policy decisions. He committed to divest within 90 days. He did not sell a single asset by the deadline. His "3-3-3" plan, 3% deficit, 3% growth, 3 million barrels per day, is Wall Street's deregulatory wish list packaged as fiscal discipline: SLR overhaul (gives banks more leverage), CRA gutting (frees banks from community lending requirements), and crypto legitimization (appreciates his own $250,000-$500,000 Bitcoin ETF holdings). He also took over management of $180 billion in defaulted student loans, concentrating control of $1.7 trillion in student debt within a department run by a hedge fund manager who failed his own ethics compliance. The Treasury Secretary is not managing the American economy. He is managing the deregulatory environment his own wealth depends on.
+
+---
+
 ## Rhetorical Signature Moves
 
 1. **The macro sage:** Deploys hedge fund jargon ("macro trade," "risk-based approach," "forward-looking") to make deregulation sound sophisticated rather than self-serving.
