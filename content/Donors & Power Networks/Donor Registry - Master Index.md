@@ -6,7 +6,7 @@ last-updated: 2026-04-13
 source-tier: 1
 parent: null
 sector: "Donor Registry - Master Index.md"
-related: "[[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]] · [[Master Donor Database]] · [[Research Methodology and Data Sources]] · [[Session Timeline]] · [[Trump Donor Network - The Full Map]] · [[Senate Majority PAC]] · [[Senate Leadership Fund]] · [[MAGA Inc]] · [[House Majority PAC]] · [[Future Forward USA Action]] · [[Congressional Leadership Fund]] · [[Club for Growth]] · [[Americans for Prosperity]] · [[Eli Lilly]] · [[Palantir Technologies]]"
+related: "[[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]] · [[Master Donor Database]] · [[Research Methodology and Data Sources]] · [[Session Timeline]] · [[Trump Donor Network - The Full Map]] · [[Senate Majority PAC]] · [[Senate Leadership Fund]] · [[MAGA Inc]] · [[House Majority PAC]] · [[Future Forward USA Action]] · [[Congressional Leadership Fund]] · [[Club for Growth]] · [[Americans for Prosperity]] · [[Eli Lilly]] · [[Palantir Technologies]] · [[AFL-CIO]]"
 ---
 #donor-registry #master-index #vault-infrastructure #follow-the-money
 

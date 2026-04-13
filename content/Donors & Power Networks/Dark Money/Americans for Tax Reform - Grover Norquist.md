@@ -9,7 +9,7 @@ sector: "Dark Money"
 entity-type: "Individual Donor"
 issues:
   - "Dark Money & Campaign Finance"
-related: "[[US Chamber of Commerce]] · [[The Libertarian Brand and Donor Class Service]] · [[Stand Together]] · [[Club for Growth]] · [[Heritage Foundation]] · [[ALEC - American Legislative Exchange Council]] · [[Koch Industries]] · [[DeVos Family]] · [[National Education Association]] · [[Insurance Industry]] · [[Walton Family Foundation]] · [[American Federation for Children]] · [[Defense Contractors Bloc]] · [[Defense Industry]] · [[Defense Industry Bloc]] · [[Western States Petroleum Association]] · [[Petrochemical Industry Bloc]] · [[American Petroleum Institute]]"
+related: "[[US Chamber of Commerce]] · [[The Libertarian Brand and Donor Class Service]] · [[Stand Together]] · [[Club for Growth]] · [[Heritage Foundation]] · [[ALEC - American Legislative Exchange Council]] · [[Koch Industries]] · [[DeVos Family]] · [[National Education Association]] · [[Insurance Industry]] · [[Walton Family Foundation]] · [[American Federation for Children]] · [[Defense Contractors Bloc]] · [[Defense Industry]] · [[Defense Industry Bloc]] · [[Western States Petroleum Association]] · [[Petrochemical Industry Bloc]] · [[American Petroleum Institute]] · [[American Iron and Steel Institute]]"
 known-gaps:
   - "No FEC contribution data"
   - "No lobbying disclosure data"
