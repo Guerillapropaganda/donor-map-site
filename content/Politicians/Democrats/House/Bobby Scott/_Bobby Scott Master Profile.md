@@ -1,7 +1,7 @@
 ---
 title: "Bobby Scott"
 type: politician
-content-readiness: draft
+content-readiness: ready
 central-thesis: "Bobby Scott is the labor movement's legislative architect — the committee chair who writes the bills that unions need but that the donor class ensures never become law. His career is a case study in the structural limits of inside-game progressivi..."
 last-updated: 2026-04-13
 source-tier: 1

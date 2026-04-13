@@ -1,7 +1,7 @@
 ---
 title: "Melissa Bean Master Profile"
 type: politician
-content-readiness: draft
+content-readiness: ready
 central-thesis: "Melissa Bean represents a new prototype in the 2026 election cycle: the 'comeback candidate' funded by a coalition of emerging donor interests (AI tech, cryptocurrency, pro-Israel infrastructure). Her 2026 primary victory was almost entirely depen..."
 last-updated: 2026-04-13
 source-tier: 1
@@ -122,6 +122,14 @@ Bean's central contradiction is between her identity as a former congresswoman m
 > **JPMorgan to Congress pipeline:** Bean's career trajectory — Congress (2005-2010) → Executives Club CEO → JPMorgan Chase → Mesirow Wealth Advisors CEO → Congress (2026) — is the revolving door made explicit. She spent 15 years building corporate finance relationships, then returned to Congress backed by the industries she served. The donor class didn't need to capture her. She was already inside.
 
 ---
+
+## Class Analysis
+
+Melissa Bean is the blank-slate candidate perfected. After 15 years away from Congress, she returned in 2026 with no current legislative record and $7M+ in super PAC spending that dwarfed her own fundraising roughly 7-to-1. The donor coalition that purchased her primary tells you exactly whose interests she serves: Think Big AI PAC ($1.1 million for AI deregulation), AIPAC-affiliated Elect Chicago Women ($3.9 million for pro-Israel alignment), Protect Progress crypto PAC ($557,000 for financial deregulation), and New Democrat Majority ($935,000 for corporate-centrist positioning). Four donor blocs, one candidate, zero grassroots mandate.
+
+The class trajectory is the revolving door made biography. Bean served in Congress from 2005 to 2011, sitting on the Financial Services Committee. She then spent 15 years building corporate finance relationships: President of the Executives Club of Chicago, Midwest operations chair at JPMorgan Chase, CEO of Mesirow Wealth Advisors (managing $29.7 billion in assets). The donor class did not need to capture Melissa Bean. She was already inside it. Her campaign narrative emphasizes her working-class Serbian-American family and small-business consulting background. The material reality is a JPMorgan Chase executive whose primary was purchased by AI, crypto, and pro-Israel money that has no connection to working-class voters in Illinois' 8th District.
+
+Bean represents a new model of donor-class power projection. Rather than corrupting an existing officeholder, the coalition installed a pre-aligned candidate from scratch. The 15-year absence is not a liability but an asset: no recent votes to defend, no positions to contradict, a perfect vessel for donor priorities. If the model works in IL-8, it replicates nationally. The pilot program is the candidate herself.
 
 ## Analytical Patterns
 
