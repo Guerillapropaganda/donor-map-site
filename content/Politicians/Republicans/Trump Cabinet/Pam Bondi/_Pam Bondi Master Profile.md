@@ -91,6 +91,14 @@ Pam Bondi. Attorney General of the United States (2025–present). Former Florid
 
 ---
 
+## Class Analysis
+
+Pam Bondi's career is the revolving door in its purest form, and every rotation serves the same class. As Florida Attorney General, she personally solicited a $25,000 donation from Trump's Foundation while her office was reviewing whether to join the New York misconduct lawsuit against Trump University. The donation arrived. The investigation disappeared. Trump Foundation paid a $2,500 IRS fine. Florida students received no restitution. When attorneys in her office investigated LPS foreclosure misconduct (LPS was a donor), Bondi fired them. Her office never issued another subpoena to any foreclosure mill. The pattern: donor money enters, prosecutorial discretion shifts, and the people who paid the most get the least accountability.
+
+Post-AG, Bondi became a Ballard Partners lobbyist earning $1 million+ per year for 30+ clients including Amazon, Uber, GM, GEO Group (private prisons), and Qatar ($115,000 per month in FARA-registered foreign lobbying). She defended Trump in his first impeachment trial, converting lobby-era Trump loyalty into political capital. Then she was nominated for Attorney General after Matt Gaetz withdrew. Confirmed 54-46, she now runs the Department of Justice, the agency that prosecutes fraud, enforces lobbying law, and oversees national security. Her former client GEO Group profits from her immigration enforcement. Her former employer Ballard Partners lobbies the DOJ she controls. The one-year ethics agreement expired in February 2026. The conflicts it was designed to manage did not.
+
+The class function is straightforward: Bondi converts prosecutorial authority into donor protection. As Florida AG, she protected Trump from a misconduct investigation for $25,000. She protected LPS from foreclosure prosecution for campaign donations. She directed $20.2 million from businesses under investigation to charities connected to her office. Now she directs the DOJ to indict Trump's political opponents (Comey, Letitia James) while overseeing enforcement against her former lobbying clients. The system does not work despite Bondi. Bondi is exactly how the system is designed to work.
+
 ## Rhetorical Signature Moves
 
 1. **The law-and-order prosecutor:** Bondi's brand as Florida AG was tough prosecution — pill mills, sex trafficking, consumer protection. The brand obscures the pattern: aggressive enforcement against targets without donor protection, minimal enforcement against donors. The brand is the price of the exemptions.

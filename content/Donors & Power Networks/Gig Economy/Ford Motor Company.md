@@ -1,8 +1,8 @@
 ---
 title: "Ford Motor Company"
 type: corporation
-content-readiness: draft
-last-updated: 2026-04-10
+content-readiness: ready
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 sector: "Gig Economy"
@@ -73,6 +73,16 @@ Ford's refusal of TARP funds in 2009 gave the company a unique political asset: 
 
 > [!money]
 > Ford's "no bailout" brand is political marketing that obscures a corporation equally dependent on government largesse as GM. The difference is the mechanism: Ford received DOE loans ($9.2B for EV manufacturing), IRA tax credits ($7,500 per EV), infrastructure funding for supplier networks, and favorable trade policy — all government transfers that accomplish the same thing as a bailout without the political stigma. Ford's bipartisan PAC contributions ensure that both parties' auto policy preserves the company's subsidies regardless of which party is in power. The auto industry's political function is bipartisan by design: Michigan is a swing state, auto jobs are swing-state jobs, and both parties compete to deliver for automakers.
+
+---
+
+## Class Analysis
+
+Ford Motor Company is the auto industry's most effective political brand manager. The "no bailout" narrative, built on Ford's refusal of TARP funds in 2009, positions the company as the free-market automaker that stood on its own while General Motors took government money. The brand is marketing. Ford received $9.2 billion in Department of Energy loans for EV manufacturing, $7,500 per vehicle in IRA tax credits, DOE grants totaling $42 million in recent years, and $739 million in all-time federal awards including $1.8 billion through General Services Administration contracts for police SUVs and pickup trucks. The mechanism is different from a bailout. The dependency on government largesse is identical.
+
+Ford's PAC spending tells the bipartisan story. The company's top FEC recipient is the Trump Vance Inaugural Committee ($199,000), followed by equal $75,000 contributions to the DCCC and DSCC. This is not ideological giving. This is insurance. Michigan is a swing state, auto jobs are swing-state jobs, and both parties compete to deliver for automakers. Ford's political operation, one of the oldest corporate PACs in America, ensures that trade policy, emissions standards, labor regulations, and industrial subsidies remain favorable regardless of which party holds power. The company spent $8-12 million annually on lobbying targeting the same committees as GM, creating a unified auto industry front.
+
+The class function is straightforward: Ford converts public money into private returns while maintaining the "independent" brand. The 920 Federal Register mentions document the regulatory relationship. NHTSA investigations, DOE grants, GSA contracts, environmental consent decrees. Ford is embedded in the federal government as a contractor, a regulated entity, and a subsidy recipient simultaneously. The auto industry's political spending does not buy deregulation. It buys managed regulation: standards written with automaker input, enforcement timelines that accommodate production schedules, and subsidy structures that flow to incumbent manufacturers rather than competitors. Both parties deliver this because both parties need Michigan.
 
 ---
 

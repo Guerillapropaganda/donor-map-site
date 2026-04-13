@@ -1,8 +1,8 @@
 ---
 title: "Emilys List"
 type: pac
-content-readiness: draft
-last-updated: 2026-04-12
+content-readiness: ready
+last-updated: 2026-04-13
 source-tier: 2
 parent: null
 sector: "Super PACs"
@@ -180,6 +180,16 @@ EMILY's List operates within a broader ecosystem of women's-focused Democratic g
 - **Women Donors Network** — Philanthropic giving by wealthy women
 - **Black Women's Blueprint** — Independent infrastructure for Black women candidates
 - **NARAL Pro-Choice America** — Reproductive rights advocacy (overlapping donor base)
+
+## Class Analysis
+
+EMILY's List is the Democratic Party's most effective gatekeeping operation disguised as a feminist institution. Founded in 1985, the organization has raised approximately $850 million in its lifetime and spent over $40 million per electoral cycle. The stated mission is electing pro-choice Democratic women. The material function is filtering women candidates through a donor-class lens that determines which women get access to campaign funding and which do not. Without an EMILY's List endorsement, a Democratic woman candidate faces a massive fundraising disadvantage. With one, she gains access to the organization's direct-mail infrastructure, donor network, bundled contributions, and Women Vote! PAC spending. The endorsement decision is the leverage point.
+
+The donor base reveals the filter. EMILY's List is funded by wealthy professional women, entertainment industry donors, tech money, and Wall Street finance professionals. A single New York financier donated $500,000 to Women Vote! in 2024. AIPAC's United Democracy Project gave $200,000 to Women Vote!, indicating coordination between EMILY's List and the Israel lobby. The organization is led by wealthy professionals, funded by wealthy professionals, and therefore naturally backs candidates whose economic politics are acceptable to wealthy professionals. Progressive women candidates face a structural Catch-22: gain EMILY's List endorsement and moderate economic rhetoric, or maintain progressive economic politics and lose access to the fundraising infrastructure.
+
+The reproductive rights focus is strategically chosen because it mobilizes female voters with genuine grievance (especially post-Dobbs), energizes the Democratic base, and creates a clear gender-coded voting issue, all while posing zero threat to capital. EMILY's List-backed candidates vote consistently to protect abortion rights, which is a genuine policy win for pro-choice voters. But these same candidates are largely silent on wealth concentration, tax policy, worker organizing, and healthcare financing. The organization has not used its platform to push economic justice alongside reproductive justice because its donor base does not want economic justice. The feminist brand purchases donor-class control of women's political access while the base is told they are funding women's empowerment.
+
+---
 
 ### Sources
 
