@@ -1,8 +1,8 @@
 ---
 title: "National Progressive Donor Networks"
 type: donor
-content-readiness: draft
-last-updated: 2026-04-12
+content-readiness: ready
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 sector: "Dark Money"
@@ -33,6 +33,14 @@ The progressive donor network extends beyond DA to include: the Arabella Advisor
 > The national progressive donor network is the liberal donor class's answer to the Koch network — a coordinated funding operation that directs hundreds of millions annually to organizations that advance a progressive agenda defined by wealthy donors. The structural tension: progressive donors fund organizations that advocate for policies (climate action, healthcare reform, voting rights) while simultaneously constraining the scope of those policies to protect donor class interests. The Democracy Alliance's recommended organizations don't include those advocating for wealth taxes, Wall Street structural reform, or abolition of the carried interest loophole — because the donors funding the progressive movement would be the targets of those policies.
 
 ---
+
+## Class Analysis
+
+The national progressive donor network is the liberal donor class's infrastructure for defining what "progressive" means, and the definition consistently excludes policies that would cost the donors money. The Democracy Alliance coordinates 100+ wealthy donors who collectively commit $100M+ annually to progressive organizations. The organizations they fund advocate for climate action, healthcare reform, and voting rights. The organizations they do not fund advocate for wealth taxes, Wall Street structural reform, or abolition of the carried interest loophole. This is not a coincidence. It is the boundary where philanthropy becomes self-taxation, and the donor class will not cross it.
+
+The Arabella Advisors network ($3B+ in spending 2020-2022), climate philanthropy networks, and tech-progressive donors like Reid Hoffman and Dustin Moskovitz extend the same logic at larger scale. Progressive donors fund organizations that define the leftward boundary of acceptable Democratic politics. Medicare expansion but not Medicare for All. Climate investment but not fossil fuel abolition. Voting rights but not structural democratic reform that would reduce the political influence of concentrated wealth. The donor class funds the movements that make the Democratic Party appear progressive while ensuring those movements never produce outcomes that threaten donor portfolios.
+
+The structural parallel to the Koch network is exact. Conservative donors coordinate through DonorsTrust and the Koch network to define the rightward boundary of Republican politics. Progressive donors coordinate through the Democracy Alliance and Arabella Advisors to define the leftward boundary of Democratic politics. Both networks present their spending as ideological commitment. Both networks produce a political system where the range of acceptable policy outcomes is determined by the people who can write the largest checks. The progressive base gets the rhetoric. The progressive donor class gets the policy boundaries. The voters on both sides are told their party represents them.
 
 ### Sources
 
