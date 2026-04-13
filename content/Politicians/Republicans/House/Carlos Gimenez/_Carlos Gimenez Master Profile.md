@@ -2,7 +2,7 @@
 title: "Carlos Gimenez"
 type: politician
 content-readiness: ready
-central-thesis: "Gimenez is the Miami infrastructure nexus — the politician whose donor base reveals the connection between South Florida real estate capital, defense contractors, and Cuba embargo enforcement. His documented donors include MasTec (content-readiness: draft1,200), Lennar..."
+central-thesis: "Gimenez is the Miami infrastructure nexus — the politician whose donor base reveals the connection between South Florida real estate capital, defense contractors, and Cuba embargo enforcement. His documented donors include MasTec (content-readiness: ready1,200), Lennar..."
 last-updated: 2026-04-13
 source-tier: 1
 parent: null

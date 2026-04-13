@@ -56,6 +56,16 @@ Andy Beshear. Governor of Kentucky (2019–present). Son of Steve Beshear (61st 
 
 ---
 
+## Class Analysis
+
+Andy Beshear's donor base tells you what kind of Democrat wins in a Trump +30 state. It is not progressive movement money. It is not labor unions, environmental groups, or tech billionaires. It is Churchill Downs ($100K+), Red Mile ($100K), ECL Entertainment ($75K+), Morgan & Morgan trial lawyers ($56.6K from 28 attorneys, 34 of 54 documented donors living outside Kentucky), and real estate developer Schwartzberg ($475K). The donor profile looks more like a moderate Republican than a progressive Democrat. That is the point. The red state Democrat model works precisely because the money does not come from sources that trigger partisan alarm in a deep-red electorate.
+
+The gambling pipeline is the cleanest donor-to-policy sequence in the profile. Churchill Downs and gambling industry donors fund Beshear before the 2019 election. In March 2023, four months before his re-election campaign heats up, Beshear signs HB 551 legalizing sports betting, turning racetracks into licensed sportsbook facilities. Churchill Downs, Red Mile, and ECL Entertainment donate again for the re-election. After winning, Beshear launches "In This Together" super PAC for 2028 positioning, raising $4.3 million in 2025 with 50% of six-figure donors coming from gambling and horse racing industries. The donation, policy, donation cycle is continuous and transparent across three election cycles.
+
+The structural trick of Beshear's model is the off-year election. He wins in a state Trump carried by 26 points (2020) and 30+ points (2024) by running in years when Trump is not on the ballot and the Republican base turnout drops. His vetoes of abortion restrictions and gender-affirming care bans position him nationally as a progressive, but the GOP supermajority (80 of 100 House seats) overrides every veto, sometimes on the same day. The vetoes cost nothing in Kentucky and buy everything in a national Democratic primary. His gambling industry donors do not care about abortion. They care about the regulatory environment for sports betting. The brand and the money operate on completely separate tracks, and neither has been tested in a presidential-year electorate where progressive base mobilization is essential and Trump's voters actually show up.
+
+---
+
 ## Analytical Patterns
 
 **The Genuine Win + Structural Limit** — Beshear's crisis governance record (COVID pandemic response, tornado disaster management) represents genuine wins for Kentucky constituents affected by those crises. His communication style — talking to people "like a normal human being" — resonates authentically. However, the structural limit is ideological: his donor base (gambling, trial lawyers, real estate) and his policy record don't address working-class economic structural issues (union organizing, wage stagnation, healthcare access). His wins are tactical (immediate crisis response) but not structural (economic redistribution). The limit isn't his competence; it's the deliberate avoidance of policies that would threaten his donor base.
