@@ -1,9 +1,9 @@
 ---
 title: "Jim Jordan Master Profile"
 type: politician
-content-readiness: draft
+content-readiness: ready
 central-thesis: "Jim Jordan's career is the institutional architecture of performative aggression in service of donor-class protection. The Freedom Caucus exists to block legislation that threatens the Koch/Club for Growth deregulation agenda. The Judiciary Commit..."
-last-updated: 2026-04-09
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 party: "Republican"
@@ -100,6 +100,14 @@ Career funding: Koch Industries $60,000+. [[Club for Growth|Club for Growth]] li
 > **$1.9M NRA: zero gun votes.** 17 years, 100% correlation. Never voted for a single gun safety measure.
 >
 > **Weaponization protection racket:** MAGA megadonors fund committee → Jordan investigates the prosecutors investigating Trump's donor network. The committee's function is donor protection through the oversight mechanism.
+
+## Class Analysis
+
+Jim Jordan serves one class and one class only: the donor class that pays for deregulation. Koch Industries invested $60,000+ directly, Club for Growth gave him a 98% lifetime score, and Heritage Action scored him at 100%. In return, Jordan co-founded the Freedom Caucus, an institutional vehicle designed to block any legislation that threatens the Koch network's regulatory exemptions. He has authored zero significant legislation in 17 years. His job is not to build. His job is to destroy the regulatory capacity that constrains his funders.
+
+The Judiciary Committee chairmanship and the "Weaponization" subcommittee complete the picture. Jordan uses government oversight power to investigate the prosecutors investigating Trump and the donor network surrounding him. The subpoena is not an accountability tool in Jordan's hands. It is a donor-protection mechanism. MAGA megadonors fund Jordan's leadership PAC, and Jordan directs committee resources against the DOJ officials who pose legal risk to those donors. The $1.9 million career total from the NRA produced a 17-year record of zero gun safety votes. The correlation is 100%.
+
+The class function is explicit: Jordan converts congressional authority into a shield for the people who fund him. The Freedom Caucus blocks spending that might redirect public resources away from donor interests. The Judiciary Committee blocks investigations that might expose donor misconduct. The "Weaponization" subcommittee discredits the federal agencies that regulate and prosecute the donor class. Every hearing is content production for Fox News, every subpoena is theater, and every investigation protects the same people. The working-class voters in Ohio's 4th District get the performance. Koch Industries gets the policy.
 
 ## Analytical Patterns
 

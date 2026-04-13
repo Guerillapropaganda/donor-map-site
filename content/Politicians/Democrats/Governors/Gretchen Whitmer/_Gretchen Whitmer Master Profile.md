@@ -1,9 +1,9 @@
 ---
 title: "Gretchen Whitmer Master Profile"
 type: politician
-content-readiness: draft
+content-readiness: ready
 central-thesis: "Whitmer is the donor class's ideal 2028 vehicle — progressive branding (reproductive rights, infrastructure, 'Fix the Damn Roads') layered over a pro-business, auto industry-aligned governing record. Michigan's EV manufacturing subsidies are simul..."
-last-updated: 2026-04-08
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -55,6 +55,14 @@ Gretchen Whitmer. Governor of Michigan (2019–present). Former Michigan State S
 - [[The 2028 Positioning and the Donor-Class Audition]] — Federal PAC launched post-2022; DGA vice chair positioning; early 2028 donor cultivation; national fundraising networks; donor-class preferences for a center-left "electable" candidate; the Substack, the book, the strategic ambivalence.
 
 ---
+
+## Class Analysis
+
+Gretchen Whitmer is the donor class's prototype for 2028: a governor who delivers genuine progressive wins on reproductive rights and infrastructure while simultaneously distributing billions in taxpayer money to the auto executives who fund her campaigns. The SOAR fund is the mechanism. Created in 2022 with $2 billion and broad gubernatorial discretion, the fund gave Whitmer direct control over which corporations received public money. Ford Motor Company received $1.75 billion for a Marshall battery plant that produced approximately 200 jobs and was named the worst economic development deal of 2023 by the Center for Economic Accountability. GM received Orion Township subsidies, then sold its stake in the state-subsidized EV battery factory. The auto industry donors gave to Whitmer's campaign. Whitmer gave them taxpayer billions through a fund she controlled.
+
+The progressive wins are real and they matter. Proposal 3 enshrined reproductive rights in Michigan's constitution. "Fix the Damn Roads" delivered actual infrastructure spending. The kidnapping plot survival built a genuine toughness brand. None of this is fake. But the class analysis requires holding both realities at once: Whitmer can fight for abortion rights and hand $1.75 billion to Ford in the same month. The progressive victories function as the political permission structure for corporate welfare. A governor who only served donors would lose. A governor who serves donors while also delivering on reproductive rights and roads builds a coalition that never questions where the SOAR fund money goes.
+
+The 2028 positioning follows the same logic. DGA vice chair, federal PAC-building, Substack, strategic ambivalence about running. The donor class wants a center-left candidate who wins swing states and protects business interests. Whitmer's record proves she can do both. Michigan's working class gets the roads and the abortion rights. The auto industry gets the subsidies. The donor class gets their candidate. Everyone wins, except the taxpayers who funded a $1.75 billion battery plant that created 200 jobs.
 
 ## Analytical Patterns
 

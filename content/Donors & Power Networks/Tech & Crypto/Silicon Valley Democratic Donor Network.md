@@ -1,8 +1,8 @@
 ---
 title: "Silicon Valley Democratic Donor Network"
 type: donor
-content-readiness: draft
-last-updated: 2026-04-10
+content-readiness: ready
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 sector: "Tech & Crypto"
@@ -134,6 +134,16 @@ Specific examples:
 - Powell Jobs emphasizes immigration rights while structuring Emerson Collective to avoid disclosure and accountability
 
 The system works because Democratic politicians need tech billionaire money more than they need to implement tech billionaire's publicly stated policy opposition. Tech billionaires maintain political access and favorable regulatory treatment. Democratic politicians maintain donor funding and election viability.
+
+---
+
+## Class Analysis
+
+The Silicon Valley Democratic Donor Network is the vault's clearest case study in how billionaire progressivism works in practice. Dustin Moskovitz ($75 million cumulative 2016-2024), Reid Hoffman ($75 million), Reed Hastings ($20 million), and Laurene Powell Jobs ($15 million) collectively deployed $150 million or more per election cycle into Democratic infrastructure. Every member publicly supports wealth redistribution, environmental action, and labor rights. Every member simultaneously deploys capital to ensure Democratic politicians dependent on their donations will never implement meaningful policy on any of these fronts. Moskovitz advocates for a millionaire's tax while guaranteeing the politicians who receive his $50 million will not pass one. Hastings funds education reform while Netflix fights writers' union organizing. Marc Benioff donates to progressive causes while Salesforce engages in union-busting.
+
+The H-1B visa issue strips the progressive brand bare. The network's public immigration framing emphasizes DACA, undocumented immigrant rights, and pathways to citizenship. The actual policy priority is maximizing H-1B visa allocations to ensure cheap, controllable labor for tech companies. Tech companies require 50,000 or more new H-1B workers annually to suppress domestic tech worker wages and prevent organizing. Moskovitz and others funded sanctuary city ballot initiatives while simultaneously lobbying for expanded H-1B visas that undercut the same workers they claim to defend. Powell Jobs frames immigration reform as humanitarian while her Emerson Collective treats immigrants as entrepreneurship opportunities rather than rights-holders. The humanitarian brand purchases labor cost suppression.
+
+The 2024-2025 fracture exposed the network's contingent nature. The unified anti-Trump coalition held only as long as Trump remained an outsider threat. Once Trump won and revealed tech-friendly policy priorities (deregulation, reduced antitrust pressure, capital gains tax cuts), Benioff and Hastings adopted pragmatic accommodation while Hoffman and Moskovitz remained publicly anti-Trump. The fracture proves the analytical point: Silicon Valley Democratic alignment was never about progressive values. It was about regulatory environment. When Republican governance offered a better deal for tech capital than Democratic governance, parts of the network switched sides without changing a single stated principle. The class interest was always capital protection. The party label was always negotiable.
 
 ---
 

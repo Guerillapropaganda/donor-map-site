@@ -1,8 +1,8 @@
 ---
 title: "Senate Majority PAC"
 type: pac
-content-readiness: draft
-last-updated: 2026-04-12
+content-readiness: ready
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 sector: "Super PACs"
@@ -147,6 +147,16 @@ Yet Democratic voters are told they're choosing between parties based on values 
 The difference is not in the structure. The difference is that Republican voters are not told their party opposes dark money, so there is no contradiction. Democratic voters are told exactly that, making the SMP structure a lie embedded in party infrastructure.
 
 This is class analysis applied to Democratic power: SMP exists to serve the donor class while maintaining the fiction that Democrats represent working-class interests. Every Senate vote on healthcare, immigration, labor rights, and climate is filtered through the donor consensus first, Democratic base preferences second.
+
+## Class Analysis
+
+Senate Majority PAC is the Democratic Party's answer to Senate Leadership Fund, and the structural mirror image tells you everything. Chuck Schumer controls SMP the same way Mitch McConnell controls SLF: as a leadership super PAC that converts mega-donor preferences into Senate votes. Three donors alone, Dustin Moskovitz ($51 million), Michael Bloomberg ($50 million), and Reid Hoffman ($15 million), have given more than $100 million combined in the past four years. That money does not buy progressive policy. It buys the containment of progressive policy within donor-acceptable boundaries.
+
+The dark money contradiction is the sharpest edge. Every Democratic candidate since 2016 has run against Citizens United and "special interests." The party's base believes it opposes dark money. Yet Majority Forward, SMP's 501(c)(4) dark money arm, channeled $81 million in 2024 with zero donor disclosure. Combined with SMP's disclosed $286 million, the total Democratic Senate defense operation exceeded $367 million in a single cycle. The party that claims to oppose dark money runs one of the largest dark money operations in American politics.
+
+The class function is donor-first governance wrapped in progressive messaging. SMP's donor base includes pharma, insurance, and tech billionaires. Medicare for All never reached a Senate floor vote despite multiple co-sponsors because SMP's healthcare donors required containment. No major antitrust action targeted Big Tech because SMP's tech donors required protection. The CHIPS Act was written to benefit Intel and Taiwan Semiconductor, not their competitors. Democratic voters are told they are choosing between "democracy" and "oligarchy" when both parties' Senate control mechanisms operate through identical mega-donor capture and dark money structures. The difference is not in the structure. The difference is that Republican voters are not told their party opposes dark money, so there is no contradiction to manage.
+
+---
 
 ### Sources
 

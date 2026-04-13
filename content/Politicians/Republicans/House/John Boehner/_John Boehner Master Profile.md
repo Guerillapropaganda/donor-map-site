@@ -121,6 +121,14 @@ John Boehner. U.S. Representative (OH-8, 1991–2015). Speaker of the House (201
 
 ---
 
+## Class Analysis
+
+John Boehner is the donor class's floor manager, and the transaction was photographed. In 1995, Boehner walked the floor of the United States House of Representatives handing out tobacco industry checks to his colleagues. Not metaphorically. Physically. The photo exists. For 24 years in Congress, Boehner served as the legislative delivery mechanism for tobacco companies, the Koch network, and Wall Street financial institutions. Reynolds American and Altria funded his campaigns. Koch Industries PAC increased its giving after the 2010 Tea Party movement. Goldman Sachs and JPMorgan Chase were top donors. Boehner blocked tobacco regulation, killed climate legislation, and resisted Dodd-Frank financial reform. Every donor received a return on investment measured in billions of avoided regulatory costs.
+
+The "regular guy" brand was the tool that made this possible. Orange tan, golf outings, crying at press conferences. Boehner's public persona was constructed to be relatable, non-threatening, authentic. This persona made his actual function invisible: managing a congressional caucus on behalf of corporate donors whose interests contradicted those of his Ohio constituents. He blocked tobacco regulation while smoking killed Ohioans. He supported Koch network tax cuts while Ohio manufacturing workers lost jobs. He distributed tobacco checks on the House floor while performing as an everyman conservative. The authenticity was the disguise. The tears were real. The loyalty was to whoever was paying.
+
+The post-House career confirms the pattern. Boehner left Congress in 2015 and became a cannabis legalization advocate, joining cannabis company boards (Canopy Growth Corporation, estimated $200,000+ annually) and taking lobbying contracts. The man who spent two decades as the tobacco industry's legislative defender pivoted to representing the cannabis industry without any ideological reckoning. Tobacco, cannabis, whatever pays. The specific industry never mattered. The function was always the same: use an approachable persona to legitimize corporate priorities, manage dissent within the caucus, deliver the votes, then cash out. Boehner's career is the revolving door operating at full transparency, and nobody stopped it.
+
 ## Rhetorical Signature Moves
 
 1. **The Regular Guy Frame:** "I play golf, I cry, I'm authentic" (brand designed to obscure corporate delivery function)
