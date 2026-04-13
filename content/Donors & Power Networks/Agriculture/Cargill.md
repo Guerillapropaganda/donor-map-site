@@ -1,7 +1,7 @@
 ---
 title: "Cargill"
 type: corporation
-content-readiness: draft
+content-readiness: ready
 last-updated: 2026-04-13
 source-tier: 1
 parent: null
