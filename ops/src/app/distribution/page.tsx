@@ -6,6 +6,15 @@ import { typeColor } from "@/lib/vault"
 import { CardReceipt } from "@/components/CardReceipt"
 import { CardDossier } from "@/components/CardDossier"
 import { CardLeak } from "@/components/CardLeak"
+import { CardWeb } from "@/components/cards/CardWeb"
+import { CardBothSides } from "@/components/cards/CardBothSides"
+import { CardContradiction } from "@/components/cards/CardContradiction"
+import { CardPipeline } from "@/components/cards/CardPipeline"
+import { CardHeadline } from "@/components/cards/CardHeadline"
+import { CardWire } from "@/components/cards/CardWire"
+import { CardRedacted } from "@/components/cards/CardRedacted"
+import { CardTicker } from "@/components/cards/CardTicker"
+import { CardMirror } from "@/components/cards/CardMirror"
 
 interface ShareTemplate {
   id: string
@@ -80,7 +89,7 @@ export default function DistributionPage() {
   const [copied, setCopied] = useState(false)
   const [customText, setCustomText] = useState("")
   const [mode, setMode] = useState<"text" | "visual">("text")
-  const [cardTemplate, setCardTemplate] = useState<"receipt" | "dossier" | "leak">("receipt")
+  const [cardTemplate, setCardTemplate] = useState<string>("receipt")
   const [cardSize, setCardSize] = useState<"twitter" | "instagram" | "linkedin">("twitter")
   const [cardHeadline, setCardHeadline] = useState("")
   const [cardSubtext, setCardSubtext] = useState("")
@@ -209,18 +218,31 @@ export default function DistributionPage() {
         <div>
           {/* Card template + size pickers */}
           <div className="flex flex-wrap gap-4 mb-4">
-            <div className="flex gap-1.5">
-              {(["receipt", "dossier", "leak"] as const).map((t) => (
+            <div className="flex flex-wrap gap-1.5">
+              {([
+                { id: "receipt", label: "Receipt" },
+                { id: "dossier", label: "Dossier" },
+                { id: "leak", label: "Leak" },
+                { id: "headline", label: "Headline" },
+                { id: "wire", label: "Wire" },
+                { id: "redacted", label: "Redacted" },
+                { id: "web", label: "Web" },
+                { id: "pipeline", label: "Pipeline" },
+                { id: "contradiction", label: "Contradiction" },
+                { id: "bothsides", label: "Both Sides" },
+                { id: "ticker", label: "Ticker" },
+                { id: "mirror", label: "Mirror" },
+              ]).map((t) => (
                 <button
-                  key={t}
-                  onClick={() => setCardTemplate(t)}
-                  className={`px-3 py-2 rounded-lg text-xs font-bold transition-all ${
-                    cardTemplate === t
+                  key={t.id}
+                  onClick={() => setCardTemplate(t.id)}
+                  className={`px-3 py-2 rounded-lg text-[10px] font-bold transition-all ${
+                    cardTemplate === t.id
                       ? "bg-[var(--color-amber)]/15 text-[var(--color-amber)] border border-[var(--color-amber)]/30"
                       : "bg-[var(--color-bg-card)] border border-[var(--color-border)] text-[var(--color-text-dim)] hover:text-[var(--color-text)]"
                   }`}
                 >
-                  {t === "receipt" ? "The Receipt" : t === "dossier" ? "The Dossier" : "The Leak"}
+                  {t.label}
                 </button>
               ))}
             </div>
@@ -286,38 +308,30 @@ export default function DistributionPage() {
                   transformOrigin: "top left",
                 }}
               >
-                {cardTemplate === "receipt" && (
-                  <CardReceipt
-                    profile={selected}
-                    headline={cardHeadline || undefined}
-                    subtext={cardSubtext || undefined}
-                    width={CARD_SIZES[cardSize].w}
-                    height={CARD_SIZES[cardSize].h}
-                  />
-                )}
-                {cardTemplate === "dossier" && (
-                  <CardDossier
-                    profile={selected}
-                    headline={cardHeadline || undefined}
-                    subtext={cardSubtext || undefined}
-                    width={CARD_SIZES[cardSize].w}
-                    height={CARD_SIZES[cardSize].h}
-                    imageUrl={
-                      (selected as Record<string, unknown>)["bioguideId"] || (selected as Record<string, unknown>)["bioguide-id"]
-                        ? `https://www.congress.gov/img/member/${(selected as Record<string, unknown>)["bioguideId"] || (selected as Record<string, unknown>)["bioguide-id"]}_200.jpg`
-                        : undefined
-                    }
-                  />
-                )}
-                {cardTemplate === "leak" && (
-                  <CardLeak
-                    profile={selected}
-                    headline={cardHeadline || undefined}
-                    subtext={cardSubtext || undefined}
-                    width={CARD_SIZES[cardSize].w}
-                    height={CARD_SIZES[cardSize].h}
-                  />
-                )}
+                {(() => {
+                  const props = {
+                    profile: selected,
+                    headline: cardHeadline || undefined,
+                    subtext: cardSubtext || undefined,
+                    width: CARD_SIZES[cardSize].w,
+                    height: CARD_SIZES[cardSize].h,
+                  }
+                  switch (cardTemplate) {
+                    case "receipt": return <CardReceipt {...props} />
+                    case "dossier": return <CardDossier {...props} />
+                    case "leak": return <CardLeak {...props} />
+                    case "headline": return <CardHeadline {...props} />
+                    case "wire": return <CardWire {...props} />
+                    case "redacted": return <CardRedacted {...props} />
+                    case "web": return <CardWeb {...props} />
+                    case "pipeline": return <CardPipeline {...props} />
+                    case "contradiction": return <CardContradiction {...props} />
+                    case "bothsides": return <CardBothSides {...props} />
+                    case "ticker": return <CardTicker {...props} />
+                    case "mirror": return <CardMirror {...props} />
+                    default: return <CardReceipt {...props} />
+                  }
+                })()}
               </div>
             </div>
           </div>
