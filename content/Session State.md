@@ -76,13 +76,16 @@ The most productive single session in vault history. 476 new politician profiles
 4. **Republican opposition edges** for new politician profiles
 5. **Story grading** — assign story-grade to 106 published stories
 
-### Session end state (final)
+### Session end state (final — updated after continued work)
 - **932 ready** (was 560, +372, +66%), **589 draft** (was 900), **471 raw** (was 531)
 - **27,504 relationship edges** (was 24,604), think tanks 0 to 960, K Street 0 to 449
 - **~320 Class Analysis sections** written across ~15 agent batches (A through O)
 - **~460 profiles promoted** (draft to ready + raw to draft)
+- **12 social media card templates** built (Receipt, Dossier, Leak, Headline, Wire, Redacted, Web, Pipeline, Contradiction, Both Sides, Ticker, Mirror)
+- **Phase 3 launch checklist expanded**: legal page, SEO, analytics, URL health gate, backup, security, content calendar, YouTube, Substack teaser, social media setup
+- **Sprint audit completed**: Day 3/20, 103/136 tasks done, promotions 372% of goal, verified sign-off identified as bottleneck
+- **ConnectionRow crash fixed** (ProfileDetail.tsx array/undefined handling)
 - **Enrichment running overnight** (4x daily schedule + manual triggers)
-- **Vault at 47% ready** (was 28% at session start)
 
 ---
 
