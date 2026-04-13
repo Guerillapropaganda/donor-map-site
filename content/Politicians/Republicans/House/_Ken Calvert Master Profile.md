@@ -1,8 +1,8 @@
 ---
 title: "Ken Calvert Master Profile"
 type: politician
-content-readiness: draft
-last-updated: 2026-04-08
+content-readiness: ready
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 party: "Republican"
@@ -104,6 +104,18 @@ Defense Appropriations bills contain "earmarks" — explicit allocation of funds
 
 ### Block Attempts to Prioritize Other Pentagon Spending:
 When progressive members of Congress proposed redirecting small portions of the Pentagon budget toward non-weapons priorities (military housing quality, healthcare for service members, environmental remediation at bases), Calvert's subcommittee blocked these proposals or minimized funding. The argument: "We cannot afford to divert resources from readiness." The effect: contractor profit protection at the expense of service member welfare.
+
+## Class Analysis
+
+Ken Calvert is the military-industrial complex working exactly as designed. He chairs the Defense Appropriations Subcommittee, the body that literally writes the checks for the Pentagon budget. In the first half of 2025 alone, Calvert received $1.7 million from defense PACs, more than any other single member of Congress. Lockheed Martin ($89,000+), Raytheon ($76,000+), Northrop Grumman ($71,000+), Boeing ($64,000+), General Dynamics ($58,000+), and Huntington Ingalls ($42,000+) all fund the man who allocates their budgets. The money flows in. The appropriations flow out. The 2025 NDAA under Calvert's influence increased base defense spending by $146 billion over the prior year, the largest single-year increase in over a decade.
+
+Calvert did not become attractive to defense contractors when he became chair. He was made chair because decades of voting for defense budget expansion proved his alignment. The contractor-to-appropriator pipeline is the most mechanically direct in the vault. Lockheed Martin's F-35 program ($1.7 trillion lifetime cost) receives protected appropriations. Raytheon's missile programs (Standard Missile-6, AMRAAM, Tomahawk) get budget line item protection. Northrop Grumman's B-21 bomber ($200 billion+ lifetime) gets accelerated production timelines. Calvert votes to protect these programs. These companies fund Calvert's campaigns. The cycle repeats every budget year.
+
+The class function is wealth transfer. Federal tax revenue collected from working Americans flows through the Pentagon budget to defense contractor shareholders. Calvert manages the transfer point. His district (California's 42nd, Inland Empire) includes March Air Reserve Base and multiple contractor operations, which provides political cover. He frames contractor profit as "California jobs" and budget growth as "national security." Both framings contain truth. Neither acknowledges the structural reality: defense spending growth at the rate Calvert approves serves contractor margins, not military readiness. The same capabilities could be maintained at lower cost. The cost growth serves the donor class.
+
+When progressive members proposed redirecting small portions of the Pentagon budget toward military housing quality, healthcare for service members, or environmental remediation at bases, Calvert's subcommittee blocked them. "We cannot afford to divert resources from readiness." The actual service members whose housing is substandard are not the constituency being served. The contractors whose profit margins depend on weapons procurement volume are. Calvert campaigns as a fiscal conservative fighting government waste while chairing the subcommittee responsible for the single largest category of discretionary federal spending. The fiscal conservatism applies to food stamps, not to F-35s.
+
+---
 
 ## Analytical Patterns
 

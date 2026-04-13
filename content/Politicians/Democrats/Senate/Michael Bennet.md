@@ -4,7 +4,7 @@ type: politician
 bioguide-id: "B001267"
 chamber: "Senate"
 party: "Democrat"
-content-readiness: draft
+content-readiness: ready
 central-thesis: "Bennet's political career is underwritten by education reform donors. As DPS superintendent, he implemented charter school expansion (70+ new charters opened during his tenure, 48 schools closed). This positioned him as attractive to Eli Broad, Wa..."
 last-updated: 2026-04-13
 source-tier: 1
@@ -64,6 +64,16 @@ Bennet's Senate votes continue the education reform pattern established during h
 ### The Education Reform Pipeline — Charter School Expansion as Policy Success
 
 Bennet's superintendent legacy was the transformation of Denver into a charter-expansion model. Between 2005–2011, 70+ charter schools opened. The class function was explicit in the reform literature: charters were positioned as alternatives to "failing" (actually: integrated, costly-to-serve) public schools. The donors funding this transformation were the same billionaire reform networks backing public education defunding: Broad Foundation, Walton Foundation, Gates Foundation. Each funded research, advocacy, and charter networks that pressured traditional public schools to "compete." By 2024, Denver schools enrollment was concentrated in charters, per-pupil spending for public schools fell, and the revenue picture for traditional public schools became unsustainable. Bennet's Senate record shows continuity: he has never voted for a major public school funding increase, has supported education tax credits that benefit wealthy families, and has championed charter school legislation. The 2026 gubernatorial race funding confirms the donor relationship: "Brighter Future for Colorado" (a 501(c)(4) that does not disclose donors) is funding a super PAC supporting Bennet's governor campaign. This nonprofit was formed specifically for the cycle. The timing and funding suggest coordination with education reform networks that benefited from Bennet's superintendent work.
+
+## Class Analysis
+
+Michael Bennet's career is the education privatization pipeline operating at full scale. The Eli Broad Foundation, the Walton Family Foundation, and the Gates Foundation are the three largest education reform philanthropies in America. They identified Bennet as a superintendent willing to implement market-based education policy in Denver. Under his 2005-2011 tenure, 70+ charter schools opened while 48 traditional public schools closed. Per-pupil spending in traditional schools fell. Teacher salaries fell. Denver became one of the most charter-saturated districts in the country. The billionaire foundations that funded charter networks profited from the expansion. The superintendent who delivered it became a senator.
+
+The funding pipeline did not stop at the Senate door. Bennet's Senate campaigns ($20 million+ per cycle) receive contributions from the same education reform donor networks that benefited from his superintendent work. His voting record is consistent: protect charter expansion, block public education funding increases, oppose teacher union protections. He opposed PRO Act expansion for education workers. He supported legislation allowing schools to break union contracts more easily. He defended charter school labor deregulation. His 2026 gubernatorial campaign is now being funded by "Brighter Future for Colorado," a 501(c)(4) that does not disclose its donors but has contributed $300K+ through the Rocky Mountain Way super PAC. The nonprofit was formed specifically for this election cycle. The timing and funding pattern suggest coordination with the same charter-affiliated donors who benefited from Bennet's superintendent work.
+
+The class function is precise: billionaire education donors fund the politician who implements their privatization agenda. The politician uses "innovation" and "choice" language to make charter expansion sound like educational progress rather than resource extraction from public schools. Progressive voters hear "improving schools." Billionaire donors hear "privatization opening." Denver's 93,000 students lost 48 traditional public schools. The Broad, Walton, and Gates foundations gained a national model for Democratic-branded school privatization. Bennet proved that a Democrat can be elected by unions and progressive voters while serving billionaire education reform priorities, as long as the rhetoric stays on "innovation" and never touches "defunding." The $50 million+ from the Gates Foundation alone, the $300K+ in dark money for the gubernatorial race, the unbroken 20-year pipeline from superintendent to senator to governor candidate: this is the education reform donor class operating without interruption.
+
+---
 
 ## Rhetorical Signature Moves
 

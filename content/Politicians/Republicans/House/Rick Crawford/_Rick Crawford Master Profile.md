@@ -1,9 +1,9 @@
 ---
 title: "Rick Crawford"
 type: politician
-content-readiness: draft
+content-readiness: ready
 central-thesis: "Rick Crawford is the loyalty appointee who chairs America's intelligence oversight committee — a former EOD technician and Arkansas rice farmer who got the gavel not because of intelligence expertise but because his predecessor was too supportive ..."
-last-updated: 2026-04-11
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 party: "Republican"
@@ -125,6 +125,18 @@ Crawford's prior career was agriculture. His donor base is agribusiness, defense
 | 2014 | ← POLICY | Serves on Farm Bill Conference Committee — shapes commodity programs, crop insurance, SNAP | — | — | — |
 | 2018 | ← POLICY | Serves on Farm Bill Conference Committee again — second consecutive Farm Bill negotiation | — | — | — |
 | 2024 | ← NOTE | Crawford's agricultural work is genuine constituent service — Arkansas's 1st District is rice and poultry country. The agribusiness funding aligns with district economics. This is the conventional politician-donor relationship; the Intelligence Committee appointment is the unconventional one. | — | — | — |
+
+---
+
+## Class Analysis
+
+Rick Crawford represents a different currency of power than most profiles in the vault. His Intelligence Committee chairmanship was not purchased with donor money. It was purchased with political loyalty. Mike Turner was removed because he supported Ukraine aid, backed NATO, and questioned Russian influence. Crawford voted against the $60 billion Ukraine aid package. Speaker Mike Johnson installed Crawford the next day. The gavel cost nothing in campaign contributions. It cost everything in independence.
+
+Crawford's actual donor base is Arkansas agriculture: rice growers, poultry producers, farm commodity groups, and the Farm Bureau. No rice farmer has business before the CIA. No chicken producer needs classified oversight. The agribusiness money funded Crawford's Agriculture Committee career, which was his real legislative home for 14 years. The Intelligence Committee appointment came from a completely separate economy of exchange. This makes Crawford structurally unusual in the vault: most committee chairs serve the industries that fund them. Crawford chairs a committee whose work is classified and whose jurisdiction has no natural commercial lobby (except defense and intelligence contractors). His class function on the Intelligence Committee is not industry service. It is executive branch protection.
+
+The Intelligence Committee exists to provide congressional oversight of the most powerful and secretive agencies in the federal government: CIA, NSA, DIA, NRO, and all 18 intelligence community members. When the chair is a loyalty appointee, oversight becomes a shield. Crawford's first major action was supporting an 18-month FISA Section 702 extension that gives the Trump administration continued warrantless surveillance authority. The committee created to check executive power is now chaired by someone selected specifically for willingness not to check it. The class interest being served is not corporate. It is executive. Crawford protects the president's intelligence authorities in exchange for the institutional power of the chairmanship.
+
+The Arkansas farm boy turned intelligence chairman is the point, not the irony. Crawford's background as an EOD technician, rodeo cowboy, radio announcer, and rice country congressman made him unthreatening to executive authority. He had no intelligence policy positions, no foreign affairs commitments, no institutional base that would generate independence. The selection criteria were not expertise. They were pliability. The donor class that benefits is not the one writing checks to Crawford's campaign. It is the one that needs intelligence oversight to look away.
 
 ---
 

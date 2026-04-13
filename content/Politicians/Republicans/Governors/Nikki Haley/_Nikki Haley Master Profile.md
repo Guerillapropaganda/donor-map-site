@@ -1,9 +1,9 @@
 ---
 title: "Nikki Haley Master Profile"
 type: politician
-content-readiness: draft
+content-readiness: ready
 central-thesis: "Haley is the donor class's 'electability' candidate — the corporate-friendly, defense-hawk Republican who could theoretically win general elections by assembling the pre-Trump GOP coalition: suburban voters, defense establishment, Wall Street, and..."
-last-updated: 2026-04-09
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 party: "Republican"
@@ -130,6 +130,16 @@ The flag removal is the clearest example in Haley's record of a moment that was 
 > **[[Paul Singer]] $22M → $0 return:** Elliott Management's $22M investment in Haley's super PAC is the most spectacular donor loss in the 2024 cycle. Singer's investment thesis — that Haley could deny Trump the nomination — failed completely. Unlike Koch (which pivoted early from DeSantis to Haley), Singer held through South Carolina.
 >
 > **UN Ambassador as AIPAC delivery mechanism:** Haley's UN record (14 vetoes, Human Rights Council withdrawal, embassy move support) represents the Israel lobby's most complete capture of a UN Ambassador in history. The sequence runs: AIPAC donor access → UN Ambassador role → UN policy becomes AIPAC priority checklist.
+
+## Class Analysis
+
+Nikki Haley was the donor class's attempt to buy a post-Trump Republican Party. The Koch network made its first-ever presidential primary endorsement for her. AFP Action pledged tens of millions. Ken Griffin (Citadel) put in $5 million. Paul Singer (Elliott Management) put in $5 million. Jan Koum (WhatsApp) put in $5 million. Goldman Sachs executives hosted fundraisers. The allied super PAC raised $150 million+. Wall Street opened its wallets because Haley represented the pre-Trump GOP coalition they wanted back: suburban voters, defense establishment, free-market libertarians, internationally credentialed moderates. The bet failed completely. Haley lost her home state of South Carolina to Donald Trump by 20 points. The voters were not for sale. The donors were.
+
+The Boeing relationship reveals the deeper class structure. As a state legislator, Nikki Haley supported a $900 million+ corporate welfare package to lure Boeing to Charleston. As governor, she signed a $120 million incentive package for Boeing expansion and helped Boeing defeat a union drive at the North Charleston plant. After leaving the UN Ambassador role, she joined Boeing's board of directors. While on Boeing's board in 2020, she helped kill a shareholder initiative that would have required Boeing to disclose its political spending and lobbying expenditures. The woman who took $1 million+ from Boeing in political contributions, delivered $120 million+ in state subsidies (a 120x return), crushed a union drive on Boeing's behalf, joined the board, and then blocked transparency requirements, ran for president as a candidate who would "rein in corporate power." She is the corporate capture she claimed to oppose.
+
+The Trump endorsement completes the class analysis. Nikki Haley called Donald Trump "dangerous" and "unfit to serve" in February 2024. By July 2024, she was on the RNC stage pledging her "strong endorsement." This is not hypocrisy. It is the rational calculation of the donor class's interests. Wall Street and Koch backers need access to power. If Trump wins, the endorsement preserves access. If Trump loses, Haley positions for 2028. The endorsement is not a conviction. It is a hedge. Paul Singer's $22 million loss on Haley's super PAC is the most spectacular donor loss of the 2024 cycle. But the Koch network pivoted early, and the defense establishment relationships remain intact. The donor class lost a battle. They are already positioning for the next war.
+
+---
 
 ## Analytical Patterns
 

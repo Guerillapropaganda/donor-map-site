@@ -1,9 +1,9 @@
 ---
 title: "Rick Larsen"
 type: politician
-content-readiness: draft
+content-readiness: ready
 central-thesis: "Rick Larsen is Boeing's Democratic guardian — the ranking member on Transportation who ensures the aviation giant has bipartisan protection in the House. His district hosts Boeing's largest factory. Boeing is his top donor. He chaired the Aviation..."
-last-updated: 2026-04-11
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -123,6 +123,16 @@ This is the structural alignment pattern in its Democratic variant: like Cantwel
 | 2014 | ← NOTE | Cited economic benefits to region; union leaders fiercely opposed | — | — | — |
 | 2014 | ← CONSEQUENCE | Washington Machinists Council revokes Larsen endorsement | — | — | Immediate |
 | 2014 | ← NOTE | Pro-labor Democrat chose Boeing (top donor, district employer) over the union representing Boeing workers. The structural alignment with Boeing overrode party-base labor solidarity. | — | — | — |
+
+---
+
+## Class Analysis
+
+Rick Larsen is Boeing's man in the Democratic caucus. His district hosts Boeing's largest factory in Everett, Washington. Boeing is his top career donor. He chaired the Aviation Subcommittee that oversees FAA regulation of Boeing. He now serves as Ranking Member of the full Transportation and Infrastructure Committee. Career fundraising: $1.26 million from transportation PACs, $560,000 from defense PACs. Boeing sits at the intersection of both sectors, collecting from both pipelines simultaneously. The company that builds the planes his committee regulates also builds the tankers his defense connections fund. This is structural alignment, not corruption. Larsen does not need to be bought. The seat requires Boeing service as a condition of holding it.
+
+The Machinists revocation in 2014 exposed the class priority. Larsen is a pro-labor Democrat with SEIU, AFSCME, and AFL-CIO endorsements. But when the International Association of Machinists challenged Boeing's contract offer, Larsen urged the union to accept Boeing's terms. He sided with the company over the workers the company employs. The Machinists pulled their endorsement. Larsen kept winning elections. The lesson is structural: in a district where Boeing IS the economy, the corporation's political weight exceeds the union's. The pro-labor Democrat serves Boeing first and organized labor second, because Boeing employs the constituents whose votes he needs and funds the campaigns he runs. Labor endorsements are brand. Boeing alignment is structural.
+
+The bipartisan protection model makes the class function explicit. Larsen (Democrat, Ranking Member) and Sam Graves (Republican, Chair) both receive transportation industry money. Boeing funds both. Airlines fund both. The Transportation and Infrastructure Committee operates as a bipartisan service provider to the industries it regulates. The partisan fights are about details. The fundamental relationship between the committee and its donor industries is not contested by either party. Larsen's Democratic identity provides Boeing with cross-party cover: the company can point to its Democratic champion on the committee to deflect accusations of partisan capture. Larsen's class function is not Democratic governance. It is Boeing's bipartisan insurance policy.
 
 ---
 
