@@ -1,9 +1,9 @@
 ---
 title: Linda McMahon Master Profile
 type: politician
-content-readiness: draft
+content-readiness: ready
 central-thesis: "Linda McMahon is the purest donor-to-cabinet pipeline in the Trump administration. $50M+ in political contributions purchased: SBA Administrator (first term), transition co-chair, and Education Secretary (second term). AFPI — the think tank she fo..."
-last-updated: '2026-04-09'
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 party: Republican
@@ -92,6 +92,16 @@ Linda McMahon. Secretary of Education (2025–present). Co-founder of WWE (World
 
 > [!money]
 > The McMahon timeline is the clearest donor-to-cabinet pipeline: $7.2M (2016) → SBA Administrator; $87M+ raised (2020) → AFPI policy design; $20M+ (2024) → transition co-chair and Education Secretary. AFPI is the bridge between the investment and the return: McMahon designs the policies at AFPI → those policies become 86% of Trump's first 100 days → McMahon returns to government to implement her own policy designs. The $50M+ investment bought three things: two Cabinet positions, a policy infrastructure that persists between administrations, and the Education Department as an instrument for redirecting public school funding to the private sector that funds her politics.
+
+---
+
+## Class Analysis
+
+Linda McMahon spent $97 million trying to buy two Senate seats in Connecticut and lost both. She then spent $50 million+ on Donald Trump and received two cabinet positions without winning a single election. The democratic route failed. The donor route succeeded. The $7.2 million in 2016 purchased the SBA Administrator position. The $87 million+ raised in 2020 (as America First Action chair) purchased the policy infrastructure. The $21 million+ in 2024 (including $20 million to MAGA Inc.) purchased the Education Department. Each investment returned specific institutional authority. This is not campaign finance. This is a purchase order.
+
+The America First Policy Institute is the bridge between the investment and the return. McMahon founded AFPI, chaired it, built it to $27.3 million in annual revenue (nearly a third from a single anonymous donor), and used it to draft 86% of Trump's first 100 days policies. Seventy-three AFPI alumni were placed across the administration. McMahon designed the agenda at AFPI, left before implementation, then returned as cabinet secretary to execute her own policy designs. The think tank is not independent research. It is a shadow government funded by dark money that wrote the governing agenda its founder now implements from inside the actual government.
+
+The WWE fortune that funds all of this was built on the exact labor model the donor class wants to universalize. Every WWE wrestler is classified as an "independent contractor" despite working 300 days a year, performing scripted shows, signing exclusive contracts, and having no right to work elsewhere. No health insurance. No Social Security contributions. No workers' compensation. No pension. Wrestlers earn less than 10% of company revenue (NFL and NBA players earn roughly 50%). Chris Benoit, Test, Jimmy Snuka, all dead from CTE-related complications. The McMahon family fortune, $3.2 billion, was extracted from workers denied basic protections. Now Linda McMahon oversees the education of 50 million American children while championing voucher programs that redirect public school funding to private and religious institutions. The labor exploitation model and the education privatization model share a common principle: extract from the public, redirect to owners.
 
 ---
 
