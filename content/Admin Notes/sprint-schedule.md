@@ -1309,17 +1309,58 @@ phase_3_tasks:
 
   code_claude:
     - id: cc_p3_01
-      task: "Launch checklist: SEO meta, sitemap, analytics, 404 handling, RSS, social share cards"
+      task: "Launch checklist: SEO meta tags, Open Graph cards, sitemap, 404 handling"
       status: pending
+      notes: "Every profile page needs meta description + OG image so social shares show preview cards automatically. Free traffic."
 
     - id: cc_p3_02
-      task: "Feedback form + correction log UI"
+      task: "Legal protection page on live site"
       status: pending
-      notes: "Readers must be able to report errors"
+      notes: "Public disclaimer: all data from public records (FEC, Congress.gov, Senate LDA). Journalism, not legal advice. Sources linked. Must be visible before launch."
 
     - id: cc_p3_03
+      task: "Update About/Methodology pages with current tooling"
+      status: pending
+      notes: "David has existing about + methodology pages. Update with: 15 API pipelines, Tier 1 First mandate, 27K+ relationship edges, enrichment automation. Establish credibility in 30 seconds."
+
+    - id: cc_p3_04
+      task: "Privacy-respecting analytics (Plausible or similar)"
+      status: pending
+      notes: "No Google Analytics — contradicts brand. Need to know which profiles get traffic. Plausible is open-source, EU-compliant, lightweight."
+
+    - id: cc_p3_05
+      task: "URL health check gate — auto-block ready promotion if critical URLs dead"
+      status: pending
+      notes: "Wire URL Manager into readiness gate. Broken URLs should flag profiles and block promotion. David verifies URLs manually but system tracks freshness."
+
+    - id: cc_p3_06
+      task: "Backup/disaster recovery — mirror repo to GitLab or local"
+      status: pending
+      notes: "Political content can trigger automated GitHub flags. Mirror vault to second platform. Consider automated daily backup script."
+
+    - id: cc_p3_07
+      task: "RSS feed audit — verify stories appear, tune feed matching"
+      status: pending
+      notes: "David noticed stories in the news not appearing on profile pages. RSS pipeline may need new feeds or better matching logic."
+
+    - id: cc_p3_08
+      task: "Security hardening — CSP headers, rate limiting, input sanitization"
+      status: pending
+      notes: "Static site is inherently safe but tip form and any future interactive features need protection. Review GitHub Pages security headers."
+
+    - id: cc_p3_09
       task: "Final build + deploy pipeline verification"
       status: pending
+
+    - id: cc_p3_10
+      task: "Social media card artistic refinement (carry from cc_p2_03)"
+      status: pending
+      notes: "David provides reference posts. Reverse-engineer visual formula. Focus on Contradiction, Pipeline, Mirror templates. Carousel mode for Instagram."
+
+    - id: cc_p3_11
+      task: "95% ready target — continue Class Analysis + promotions until 95% of vault at ready"
+      status: in-progress
+      notes: "Currently at 47% ready (932/1993). Need ~1,893 at ready. Remaining blockers: ~150 need Class Analysis, ~400 need pipeline enrichment, ~50 need defamation fixes."
 
   david:
     - id: dc_p3_01
@@ -1329,17 +1370,42 @@ phase_3_tasks:
       criterion: "Would I be comfortable if the subject's lawyer reads this?"
 
     - id: dc_p3_02
-      task: "Finish remaining conflict triage (~178 → 0)"
-      target_end: 0
+      task: "Sign-off day — batch verify profiles at /signoff-queue"
       status: pending
+      notes: "932 profiles at ready. Target: sign off top profiles first — most contradictions, most relationships, stock traders, highest-profile politicians. These are the profiles visitors will land on first."
 
     - id: dc_p3_03
-      task: "Soft launch Apr 27 (Monday) — share with 2-3 trusted readers"
+      task: "Bug sweep — document all visible bugs for next Code Claude session"
+      status: pending
+      notes: "David goes through site marking everything wrong. Admin Notes or list format. Code Claude triages and fixes."
+
+    - id: dc_p3_04
+      task: "Content calendar — plan 7 days of launch week social posts"
+      status: pending
+      notes: "Day 1: sharpest contradiction. Day 2: both-sides card. Day 3: personal story (why I built this). Day 4: politician deep dive. Day 5: pipeline viz. Day 6: engagement. Day 7: CTA."
+
+    - id: dc_p3_05
+      task: "YouTube video — raw screen recording of Money Trail + contradictions"
+      status: pending
+      notes: "Unscripted, authentic. Show Goldman funding both parties. Show the pipeline. Say 'I built this.' 3-5 minutes."
+
+    - id: dc_p3_06
+      task: "Substack teaser — 'I built a database tracking every dollar. Here's what I found.'"
+      status: pending
+      notes: "Drop 3 sharpest stats. Link to nothing yet. Build waitlist before launch."
+
+    - id: dc_p3_07
+      task: "Social media accounts setup — verify all platforms are configured"
+      status: pending
+      notes: "Facebook, X, Instagram, Bluesky, Threads. Consistent branding, bio links to thedonormap.org, profile photos."
+
+    - id: dc_p3_08
+      task: "Soft launch Apr 27 (Sunday) — share with 2-3 trusted readers"
       scheduled: 2026-04-27
       status: pending
 
-    - id: dc_p3_04
-      task: "Public launch Apr 30 (Thursday) — announce"
+    - id: dc_p3_09
+      task: "Public launch Apr 30 (Wednesday) — announce everywhere"
       scheduled: 2026-04-30
       status: pending
 ```
@@ -1465,7 +1531,7 @@ parser_guidance:
 
 ---
 
-**Schedule last updated: 2026-04-13 late (cc_p2_03-04 added: social media card refinement + David sign-off cadence. North Star metrics updated. Sprint audit: Day 3 of 20, 15% elapsed, promotions at 372% of goal, verified at 2.5% — sign-off is the bottleneck.)**
+**Schedule last updated: 2026-04-13 final (Phase 3 expanded: legal page, SEO, analytics, URL health gate, backup, RSS audit, security, 95% ready target, social media setup, content calendar, YouTube, Substack teaser. Sprint audit: Day 3/20, 47% ready, 932 profiles at ready tier.)**
 **Current phase: phase_1 (Day 2 of 7)**
 **Next checkpoint: Phase 1 exit, 2026-04-16**
 **New data sources added 2026-04-11: FDA (pharma/device/food enforcement), OCC (national bank enforcement), FTC (mergers + historical enforcement). All three live in CI + Ops app.**
