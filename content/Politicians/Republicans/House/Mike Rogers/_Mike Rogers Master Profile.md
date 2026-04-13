@@ -18,7 +18,7 @@ issues:
 top-donors:
   - "Lockheed Martin"
   - "Boeing"
-donors: "[[Great Lakes Conservatives Fund]] · [[Paul Singer]] · [[Koch Network - Charles Koch]] · [[Raytheon (RTX Corporation)]] · [[Christopher Ruddy]]"
+donors: "[[Great Lakes Conservatives Fund]] · [[Paul Singer]] · [[Koch Network - Charles Koch]] · [[Raytheon (RTX Corporation)]] · [[Christopher Ruddy]] · [[National Cattlemen's Beef Association]]"
 related: "[[The Armed Services Committee and Progressive Defense Paradox]] · [[_Jack Reed Master Profile|Reed]] · [[Lockheed Martin]] · [[Boeing]] · [[_Donald Trump Master Profile|Trump]]"
 last-enriched: "2026-04-10"
 needs-reenrichment: true

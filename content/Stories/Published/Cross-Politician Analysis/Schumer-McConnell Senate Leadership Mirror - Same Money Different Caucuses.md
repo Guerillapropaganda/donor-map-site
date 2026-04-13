@@ -2,7 +2,7 @@
 title: "Schumer-McConnell Senate Leadership Mirror - Same Money, Different Caucuses"
 type: story
 content-readiness: ready
-last-updated: 2026-04-12
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 known-gaps: "Tier 1 source migration needed before editor-vouched. All 5 'Tier 1' entries in the Sources section are OpenSecrets URLs (Schumer career summary, McConnell career summary, Goldman Sachs PAC profile, Lockheed Martin PAC 2024 recipients, Senate Leadership Fund summary) — OpenSecrets is demoted per Vault Rules and no longer counts as Tier 1. Replace with: FEC candidate summary pages for Schumer (S0NY00028) and McConnell (S2KY00012), FEC committee page for Goldman Sachs Group PAC (C00043390), FEC committee page for Lockheed Martin PAC (C00303024), FEC committee page for Senate Leadership Fund (C00571703). All 5 have direct FEC equivalents. Editor-only work per the URL fixing scope boundary."
@@ -12,7 +12,7 @@ issues:
   - "Dark Money & Campaign Finance"
   - "Healthcare"
   - "Defense & Military"
-related: "[[Trump-Newsom Donor Class Mirror - Same Money, Different Rhetoric]] · [[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]] · [[_Chuck Schumer Master Profile]] · [[_Mitch McConnell Master Profile]] · [[Goldman Sachs]] · [[AIPAC - American Israel Public Affairs Committee]] · [[The McConnell Dark Money Empire - SLF and One Nation]] · [[Majority Forward and the Democratic Dark Money Operation]] · [[Intra-Democratic Contradiction Map - The Progressive vs Moderate Illusion]] · [[Intra-Republican Contradiction Map]] · [[Geographic Donor Clustering - Where the Money Actually Comes From]] · [[Pelosi-McCarthy House Leadership Mirror - Same Corporate Apparatus, Different Brand]] · [[How Money Captures Media — The Donor Map Media Pipeline]] · [[Booker-Scott Donor Class Mirror - Two Black Senators, One Donor Class]] · [[Tech Billionaires Switch Parties on Regulatory Self-Interest]] · [[Schwarzman and Singer Fund Every Republican Faction]] · [[ALEC Legislative Language Layer - Who Actually Writes the Laws]]"
+related: "[[Trump-Newsom Donor Class Mirror - Same Money, Different Rhetoric]] · [[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]] · [[_Chuck Schumer Master Profile]] · [[_Mitch McConnell Master Profile]] · [[Goldman Sachs]] · [[AIPAC - American Israel Public Affairs Committee]] · [[The McConnell Dark Money Empire - SLF and One Nation]] · [[Majority Forward and the Democratic Dark Money Operation]] · [[Intra-Democratic Contradiction Map - The Progressive vs Moderate Illusion]] · [[Intra-Republican Contradiction Map]] · [[Geographic Donor Clustering - Where the Money Actually Comes From]] · [[Pelosi-McCarthy House Leadership Mirror - Same Corporate Apparatus, Different Brand]] · [[How Money Captures Media — The Donor Map Media Pipeline]] · [[Booker-Scott Donor Class Mirror - Two Black Senators, One Donor Class]] · [[Tech Billionaires Switch Parties on Regulatory Self-Interest]] · [[Schwarzman and Singer Fund Every Republican Faction]] · [[ALEC Legislative Language Layer - Who Actually Writes the Laws]] · [[Harris-Newsom Donor Class Fracture]]"
 ---
 #schumer #mcconnell #both-sides #donor-class #wall-street #goldman-sachs #aipac #dark-money #pharma #defense #class-analysis #follow-the-money #senate-leadership
 

@@ -2,10 +2,10 @@
 title: "The Last Oil Democrat - Fossil Fuel Money in a Blue District"
 type: sub-note
 content-readiness: ready
-last-updated: 2026-04-12
+last-updated: 2026-04-13
 source-tier: 1
 parent: "[[_Henry Cuellar Master Profile]]"
-related: "[[Economic Policy - Donors and Backers]] · [[Fracking and Oil Permits - Green Branding vs. Record]] · [[Environment - Donors and Backers]] · [[Healthcare - Donors and Backers]] · [[Single-Payer Broken Promise]] · [[Legislative Record as Speaker]] · [[The Education Committee and Labor Alignment]] · [[Labor - Donors and Backers]] · [[Newsom 2028 - The Donor Class Presidential Campaign]] · [[Prescription Drug Pricing - PBM Veto Cycle]] · [[Mental Health CARE Court and Forced Treatment]] · [[COVID No-Bid Contracts - Blue Shield and UnitedHealth]] · [[_Henry Cuellar Master Profile]] · [[Fossil Fuel Bloc]] · [[Chevron]] · [[ExxonMobil]] · [[American Petroleum Institute]] · [[Prop 22 - The $200M Corporate Rollback]] · [[The Biden Exit and Harris Installation]] · [[The $1.6 Billion Fundraising Machine]] · [[The Corporate-Democratic Donor Coalition and AIPAC Connection]] · [[School Choice and the Catholic Church Prosecution as Brand Architecture]] · [[Farmworker Union Rights - AB 2183 Veto and Reversal]] · [[FAST Act and the AB 1228 Deal]] · [[AB5 - Gig Worker Classification]]"
+related: "[[Economic Policy - Donors and Backers]] · [[Fracking and Oil Permits - Green Branding vs. Record]] · [[Environment - Donors and Backers]] · [[Healthcare - Donors and Backers]] · [[Single-Payer Broken Promise]] · [[Legislative Record as Speaker]] · [[The Education Committee and Labor Alignment]] · [[Labor - Donors and Backers]] · [[Newsom 2028 - The Donor Class Presidential Campaign]] · [[Prescription Drug Pricing - PBM Veto Cycle]] · [[Mental Health CARE Court and Forced Treatment]] · [[COVID No-Bid Contracts - Blue Shield and UnitedHealth]] · [[_Henry Cuellar Master Profile]] · [[Fossil Fuel Bloc]] · [[Chevron]] · [[ExxonMobil]] · [[American Petroleum Institute]] · [[Prop 22 - The $200M Corporate Rollback]] · [[The Biden Exit and Harris Installation]] · [[The $1.6 Billion Fundraising Machine]] · [[The Corporate-Democratic Donor Coalition and AIPAC Connection]] · [[School Choice and the Catholic Church Prosecution as Brand Architecture]] · [[Farmworker Union Rights - AB 2183 Veto and Reversal]] · [[FAST Act and the AB 1228 Deal]] · [[AB5 - Gig Worker Classification]] · [[Pro-Israel Donor Network Deep Dive]]"
 ---
 #cuellar #oil-gas #fossil-fuel #texas #border #indictment #donor-class-override
 

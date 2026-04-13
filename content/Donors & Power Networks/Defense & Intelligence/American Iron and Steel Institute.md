@@ -2,7 +2,7 @@
 title: "American Iron and Steel Institute"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-12
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 sector: "Defense & Intelligence"
@@ -55,7 +55,7 @@ court-jurisdictions:
   - "District Court, S.D. Indiana"
   - "District Court, W.D. Pennsylvania"
   - "United States Court of International Trade"
-related: "[[Trade and Tariffs - Donors and Backers]] · [[Mike Bost]] · [[Ron Johnson]] · [[Paul Ryan]] · [[Bob Casey]] · [[Sherrod Brown]] · [[Tariff Wars - The Working Class Tax Disguised as Trade Policy]] · [[Nucor Corporation]] · [[_Donald Trump Master Profile|Trump]] · [[American Farm Bureau Federation]] · [[DeVos Family]] · [[Defense Contractors Bloc]] · [[National Association of Manufacturers]] · [[American Petroleum Institute]] · [[Defense Industry]] · [[Walton Family Foundation]] · [[Insurance Industry]]"
+related: "[[Trade and Tariffs - Donors and Backers]] · [[Mike Bost]] · [[Ron Johnson]] · [[Paul Ryan]] · [[Bob Casey]] · [[Sherrod Brown]] · [[Tariff Wars - The Working Class Tax Disguised as Trade Policy]] · [[Nucor Corporation]] · [[_Donald Trump Master Profile|Trump]] · [[American Farm Bureau Federation]] · [[DeVos Family]] · [[Defense Contractors Bloc]] · [[National Association of Manufacturers]] · [[American Petroleum Institute]] · [[Defense Industry]] · [[Walton Family Foundation]] · [[Insurance Industry]] · [[Petrochemical Industry Bloc]]"
 nonprofit-status: "501(c)(6)"
 total-revenue: 8044067
 total-assets: 10548735

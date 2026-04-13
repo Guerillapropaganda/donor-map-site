@@ -2,10 +2,10 @@
 title: "Corporate Subsidies and the Business Climate Argument"
 type: sub-note
 content-readiness: ready
-last-updated: 2026-04-12
+last-updated: 2026-04-13
 source-tier: 1
 parent: [[_Gavin Newsom Master Profile]]
-related: "[[Inequality and Poverty - The Numbers Under the Rhetoric]] · [[Budget Priorities - What California Actually Funds]] · [[Tax Policy - Who Pays and Who Doesnt]] · [[Economic Policy - Donors and Backers]] · [[_Gavin Newsom Master Profile]] · [[Newsom 2028 - The Donor Class Presidential Campaign]] · [[The $1.6 Billion Fundraising Machine]] · [[The Biden Exit and Harris Installation]] · [[Legislative Record as Speaker]] · [[The Last Oil Democrat - Fossil Fuel Money in a Blue District]] · [[The Education Committee and Labor Alignment]] · [[The Corporate-Democratic Donor Coalition and AIPAC Connection]] · [[School Choice and the Catholic Church Prosecution as Brand Architecture]]"
+related: "[[Inequality and Poverty - The Numbers Under the Rhetoric]] · [[Budget Priorities - What California Actually Funds]] · [[Tax Policy - Who Pays and Who Doesnt]] · [[Economic Policy - Donors and Backers]] · [[_Gavin Newsom Master Profile]] · [[Newsom 2028 - The Donor Class Presidential Campaign]] · [[The $1.6 Billion Fundraising Machine]] · [[The Biden Exit and Harris Installation]] · [[Legislative Record as Speaker]] · [[The Last Oil Democrat - Fossil Fuel Money in a Blue District]] · [[The Education Committee and Labor Alignment]] · [[The Corporate-Democratic Donor Coalition and AIPAC Connection]] · [[School Choice and the Catholic Church Prosecution as Brand Architecture]] · [[Prop 22 - The $200M Corporate Rollback]]"
 ---
 #newsom #economic-policy #corporate-subsidies #tax-breaks #film-tax-credit #business-climate #class-analysis #california #follow-the-money #corporate-welfare
 

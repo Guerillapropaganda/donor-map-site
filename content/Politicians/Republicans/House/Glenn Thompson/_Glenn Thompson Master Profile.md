@@ -4,7 +4,7 @@ type: politician
 bioguide-id: "T000467"
 content-readiness: draft
 central-thesis: "Glenn Thompson is the agribusiness industry's Farm Bill architect — the committee chair who writes the legislation that determines who gets fed and who gets subsidized, funded by the industries that benefit from the answer. Since becoming chair in..."
-last-updated: 2026-04-11
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 party: "Republican"
@@ -18,7 +18,7 @@ issues:
   - "Agriculture"
 total-received: "$1,227,441"
 fec-candidate-id: "H8PA05071"
-donors: "[[IBEW - International Brotherhood of Electrical Workers]] · [[Blue Shield of California]] · [[American Gaming Association]] · [[California Farm Bureau Federation]]"
+donors: "[[IBEW - International Brotherhood of Electrical Workers]] · [[Blue Shield of California]] · [[American Gaming Association]] · [[California Farm Bureau Federation]] · [[National Cattlemen's Beef Association]]"
 related: "[[John Boozman]] · [[_Donald Trump Master Profile|Trump]]"
 total-raised: "$1,227,441"
 total-spent: "$1,152,094"

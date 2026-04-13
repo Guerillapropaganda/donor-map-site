@@ -2,12 +2,12 @@
 title: "Anderson Cooper"
 type: media-profile
 content-readiness: ready
-last-updated: 2026-04-12
+last-updated: 2026-04-13
 source-tier: 2
 parent: null
 category: centrist
 platform: multi-platform
-related: "[[Fox News - Murdoch Media Empire]] · [[Bari Weiss]] · [[Jake Tapper]] · [[Nicolle Wallace]] · [[Chris Wallace]] · [[Crooked Media]] · [[The Platform Dependency Spectrum — Revenue Vulnerability Across Political Media]] · [[Sean Hannity]] · [[Tucker Carlson]] · [[Tim Pool]] · [[Tenet Media]] · [[Steven Crowder]] · [[Rumble]] · [[Patrick Bet-David]] · [[Michael Knowles]] · [[Matt Walsh]] · [[Mark Levin]] · [[Laura Ingraham]] · [[Jordan Peterson]] · [[Jimmy Dore]] · [[Jesse Watters]] · [[Jeremy Boreing]] · [[James O'Keefe]] · [[Greg Gutfeld]] · [[Dave Rubin]] · [[Dan Bongino]] · [[The Daily Wire]]"
+related: "[[Fox News - Murdoch Media Empire]] · [[Bari Weiss]] · [[Jake Tapper]] · [[Nicolle Wallace]] · [[Chris Wallace]] · [[Crooked Media]] · [[The Platform Dependency Spectrum — Revenue Vulnerability Across Political Media]] · [[Sean Hannity]] · [[Tucker Carlson]] · [[Tim Pool]] · [[Tenet Media]] · [[Steven Crowder]] · [[Rumble]] · [[Patrick Bet-David]] · [[Michael Knowles]] · [[Matt Walsh]] · [[Mark Levin]] · [[Laura Ingraham]] · [[Jordan Peterson]] · [[Jimmy Dore]] · [[Jesse Watters]] · [[Jeremy Boreing]] · [[James O'Keefe]] · [[Greg Gutfeld]] · [[Dave Rubin]] · [[Dan Bongino]] · [[The Daily Wire]] · [[Christopher Rufo]]"
 internal-notes: "[URL Check 2026-04-09] 13 checked: 12 ok, 1 broken, 0 slow. | BROKEN: FEC API: Anderson Cooper individual contributions"
 ---
 
