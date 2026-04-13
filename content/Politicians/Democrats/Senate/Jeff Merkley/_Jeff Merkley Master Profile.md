@@ -104,6 +104,18 @@ Merkley is the vault's control case — the senator who most consistently operat
 
 ---
 
+## Class Analysis
+
+Jeff Merkley is the vault's control case. He is the senator who most consistently breaks from the donor-class model that defines his colleagues, and his career demonstrates both what is possible when a politician rejects corporate money and what is impossible when one progressive senator operates inside a captured institution.
+
+Merkley stopped taking corporate PAC money. He was the only sitting senator to endorse Bernie Sanders in 2016. He co-authored the Volcker Rule, the strongest banking regulation to emerge from the 2008 financial crisis, banning proprietary trading by banks with federal deposit insurance. He introduced the End Hedge Fund Control of American Homes Act to block private equity from buying single-family homes. His funding base is small-dollar grassroots contributions, labor unions (Oregon AFL-CIO endorsed since 2008), and environmental organizations. This is the inverse of the typical vault profile: the donor base aligns with the legislative record rather than contradicting it.
+
+The structural story is what happens next. The Volcker Rule passed because it was attached to the must-pass Dodd-Frank package in the aftermath of the 2008 crisis. Then Wall Street alumni implemented it. Exemptions multiplied. The definition of "proprietary trading" narrowed. Under Trump, enforcement evaporated. Merkley's strongest legislative achievement was hollowed out by the institutions it was designed to regulate. The housing bill stalled because colleagues like Brian Schatz voted to protect private equity's ability to buy homes. One progressive senator can write the law. The donor class that funds the other 90 senators controls the institutions that implement it.
+
+Merkley's existence in the Senate also creates a useful illusion for the Democratic Party. The party points to Merkley, Warren, and Sanders as evidence that it contains genuine opposition to the donor class. This lets the institutional majority remain captured while the progressive wing provides the brand. Merkley is the exception that proves the rule, and the party benefits from the exception without changing the rule.
+
+---
+
 ## Analytical Patterns
 
 **Genuine Win + Structural Limit (Inverted):** In most vault profiles, the genuine win is a modest progressive achievement within a donor-serving framework. Merkley inverts the pattern: the genuine wins are substantial (Volcker Rule, corporate PAC rejection, housing legislation) and the structural limits come from outside — from the institution's capture by the donor class, not from Merkley's own donor relationships. The Volcker Rule was a genuine win against Wall Street. The structural limit was that the regulators and subsequent administrations hollowed it out. The housing bill was a genuine win. The structural limit was that colleagues like Schatz voted to protect private equity. The constraint is external, not internal.

@@ -110,6 +110,18 @@ Schatz is the Democratic Party's next power broker — Schumer's chosen successo
 
 ---
 
+## Class Analysis
+
+Brian Schatz is what the donor class looks for in the next generation of Democratic leadership: a senator who can maintain a progressive public brand while delivering capital-aligned votes when it counts. His colleagues have given this a name. A former top-level Hill staffer told The American Prospect that "to Schatz" something means undermining bills that take on corporate power while pretending to be motivated by progressive concerns. The verb exists because the pattern is that consistent.
+
+The March 2026 housing bill crystallized the thesis. The 21st Century ROAD to Housing Act passed 89 to 10 with bipartisan support. It included a provision blocking private equity firms from holding single-family homes. Schatz was the only Democrat to vote no. He called the provision a "drafting error." Elizabeth Warren called it a deliberate policy choice. Three weeks earlier, Schatz had hosted a private donor retreat attended by securities and investment industry figures. The sequence: donor retreat, sole Democratic no vote protecting private equity, leadership bid continues. The vote cost him nothing in Hawaii, a safe blue state. It bought him everything with the donor class he needs for the Schumer succession.
+
+Follow the money. Charter Communications is Schatz's top contributor at $48,900 through his leadership PAC. He formerly chaired the Communications subcommittee with jurisdiction over net neutrality and broadband regulation. Securities and investment firms are a major industry sector. Real estate donors are consistent contributors. He chairs the Appropriations THUD subcommittee that controls $98.7 billion in federal housing spending. His PAC contributions are 42.55% of his fundraising, while he simultaneously raises $5 million on social media with progressive messaging. The small-dollar fundraising creates the image. The PAC money provides the base.
+
+The genuine wins are real. Schatz secured $1.6 billion in Maui wildfire housing recovery. His THUD subcommittee funds $4.32 billion in homelessness grants. He chairs Indian Affairs with record Native housing funding. But the senator who funds homelessness grants is the same senator who voted to protect private equity's ability to buy up the housing supply that creates homelessness. The wins operate within a boundary that never threatens the investor class. That boundary is the product Schatz sells to the donors funding his path to Democratic leader.
+
+---
+
 ## Analytical Patterns
 
 **Genuine Win + Structural Limit:** The Maui wildfire recovery is the genuine win — $1.6B in federal housing funds for a devastated community, $2.1B total in disaster aid. The THUD subcommittee chairmanship produces real funding for homelessness ($4.32B), Native housing (record $1.3B+), and FAA safety ($22B). These are material goods. The structural limit: the senator who funds homelessness grants voted to protect private equity's ability to buy up the housing supply that creates homelessness. The genuine wins operate within a boundary that never threatens the investor class.

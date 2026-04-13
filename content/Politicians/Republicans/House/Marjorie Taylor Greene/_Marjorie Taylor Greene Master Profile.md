@@ -131,6 +131,18 @@ Greene aligned with the Department of Government Efficiency (DOGE) framework and
 >
 > **The McCarthy kill:** MAGA megadonors opposed to McCarthy's Ukraine/bipartisan deals → MTG files motion to vacate → McCarthy ousted. The first Speaker removal in House history executed by a member whose primary asset is small-donor base loyalty.
 
+## Class Analysis
+
+Marjorie Taylor Greene is a millionaire heiress who fundraises from working-class Americans by performing anti-establishment populism. Her personal wealth comes from Taylor Commercial, a construction company founded by her father that generates revenue partly through government contracts. She is not self-made. She inherited management of a family business that depends on the same government she rhetorically attacks. Her CrossFit gym provided the small-business-owner credential. The actual class position: wealthy inheritor of government-dependent enterprise.
+
+Greene's donor model inverts the normal vault pattern. Most politicians take money from corporations and deliver policy favors. Greene takes money from small-dollar donors and delivers cultural confrontation. She raised $12.5 million in the 2022 cycle, 72.7% from small-dollar contributors, the highest share of any federal lawmaker. Her committee removal in February 2021 generated six figures in donations within days. Every controversy triggers a fundraising spike. The email list is the core asset. The controversies are the content. The persecution narrative is the product.
+
+The class function of this model is precise. Greene's cultural confrontations (trans athletes, vaccine mandates, the "deep state") are maximally engaging to her MAGA base and maximally unthreatening to concentrated wealth. She does not threaten the carried interest loophole. She does not threaten pharmaceutical pricing. She does not threaten fossil fuel subsidies. Her supporters are disproportionately working-class white Americans whose material interests (universal healthcare, union rights, corporate accountability) she actively opposes through her voting record. The cultural anxieties she monetizes prevent those same constituents from recognizing the conflict between their economic interests and hers.
+
+Greene is the right-wing mirror of the progressive small-dollar fundraising model, but with a critical difference. When Alexandria Ocasio-Cortez generates controversy, it emerges from substantive challenges to donor-class power. When Greene generates controversy, it keeps the discourse on culture war instead of class war. The MAGA small-dollar base wants cultural confrontation. The corporate donor class wants deregulation. Greene provides the confrontation and votes for the deregulation. Both get what they want. That alignment is not a conspiracy. It is the product design.
+
+---
+
 ## Analytical Patterns
 
 **The Genuine Win + Structural Limit** — Greene's procedural obstruction (amendment bombs, motion to vacate) produces real institutional chaos that paralyzes House function, benefiting the deregulatory donor class by making new regulation impossible. But her obstruction stops short of threatening her own family's government-dependent construction business (Taylor Commercial).

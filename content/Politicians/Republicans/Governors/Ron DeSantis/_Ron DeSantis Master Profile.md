@@ -129,6 +129,18 @@ donors: [[Kenneth Griffin]] · [[Koch Network - Charles Koch]] · [[Fossil Fuel 
 >
 > **Mellon $10M → immigration theater:** Mellon's anti-immigration donations align precisely with migrant-transport stunts. The policy is the fundraising content.
 
+## Class Analysis
+
+Ron DeSantis is the donor class's most expensive failed experiment: $158.5M in combined campaign and super PAC spending that produced zero primary victories and a $2,263 cost per vote in Iowa. The class function he was designed to serve, delivering Trump's policy outcomes (deregulation, tax cuts, judicial appointments) without Trump's legal liability and chaos, was structurally sound. The failure was execution: donor-class money can build infrastructure but cannot manufacture the grassroots political connection that Trump commands organically.
+
+The Florida model is the product DeSantis was actually selling. No state income tax. No estate tax. Ken Griffin moved Citadel's headquarters from Chicago to Miami. Crypto firms relocated. Hedge funds followed. DeSantis built the regulatory and tax architecture that attracts billionaire capital, then marketed it through culture war branding (Don't Say Gay, Disney fight, anti-woke crusade). The culture war was the advertising campaign. Florida as a billionaire tax haven was the product. The Disney fight is the class tell: DeSantis attacked Disney as his signature "anti-corporate" moment, then settled in March 2024 on terms that preserved Disney's core autonomy and development rights. The fight was theater. The settlement was the deal.
+
+The donor class composition reveals the function. Ken Griffin ($5M+ to 2022 reelection), Koch network, Club for Growth, fossil fuel executives, hedge fund billionaires. 70% of DeSantis's contributions came from maxed-out donors. The Never Back Down super PAC raised $130M+ from a concentrated group of billionaire backers. This is not a populist movement funded by the people. It is a corporate product funded by its intended beneficiaries, marketed through cultural grievance.
+
+The 2024 collapse is the class analysis in real time. The donor class invested $158.5M in DeSantis as the Trump replacement. Trump's base rejected the replacement. The donors pivoted back to Trump (Griffin, Koch, and Club for Growth all eventually endorsed or accommodated Trump). The lesson: the donor class can fund candidates but cannot control which candidate the base selects. They can set the menu but not the order.
+
+---
+
 ## Analytical Patterns
 
 **The Genuine Win + Structural Limit** — DeSantis's education deregulation (charter school expansion, DEI elimination) is a real donor victory for the privatization network, but stops short of dismantling public education entirely. His wins advance private education interests without comprehensive school system restructuring.

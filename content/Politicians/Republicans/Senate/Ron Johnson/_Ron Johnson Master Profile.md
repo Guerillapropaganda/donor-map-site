@@ -117,6 +117,16 @@ Johnson's donor-class function is to serve as the billionaire manufacturing and 
 
 ---
 
+## Class Analysis
+
+Ron Johnson is a wealthy CEO who entered politics to protect the tax and regulatory structures that benefit people exactly like himself. Before the Senate, he ran PACUR LLC, a polyester and plastics manufacturing company in Oshkosh. He self-funded $9 million of his first campaign. His estimated net worth ranges from $18 million to $88 million. He received $10 million in deferred compensation from PACUR after winning his seat and reported $5 to $25 million from the company's sale in 2020. Johnson did not come to Washington to fight for working families. He came to protect the class interests of manufacturing owners, and he has done so with unusual transparency.
+
+The pass-through tax amendment is the clearest donor-to-policy transaction in the vault. In 2017, Johnson threatened to tank the Tax Cuts and Jobs Act unless the pass-through business deduction was increased from 17.4% to 23%. The provision passed. The Joint Committee on Taxation found that by 2024, 60% of the $60 billion in savings would flow to business owners earning over $500,000 per year. ProPublica estimated that the Uihlein family saved $43.5 million in 2018 from this single provision. Diane Hendricks saved $35.9 million. Johnson himself benefited through his PACUR holdings. The same donors then spent $22.7 million through the Wisconsin Truth super PAC to re-elect Johnson in 2022. Hendricks contributed $6.5 million. The Uihleins contributed $3 million. Joe Ricketts added $1 million. The cycle is explicit: Johnson delivers tax policy worth hundreds of millions to a handful of Wisconsin billionaires, and those billionaires fund his campaigns.
+
+Johnson supplements this core tax function with aggressive partisan investigations and COVID misinformation, both of which serve donor-class interests. His Homeland Security Committee investigations targeting Hunter Biden provided campaign-season opposition research. His Senate panels promoting ivermectin and hydroxychloroquine aligned with donor-class opposition to public health mandates that would constrain business operations. The FBI briefed Johnson in August 2020 that he was a target of Russian disinformation. He continued his investigations regardless. He traveled to Moscow on July 4, 2018, and returned saying Russian election interference had been "blown way out of proportion." The class interest is consistent throughout: protect billionaire tax structures, weaponize committee power for partisan benefit, oppose any regulation that constrains business. Wisconsin's working families get the populist framing. Hendricks and the Uihleins get the policy.
+
+---
+
 ## Analytical Patterns
 
 - **Donor-Class Override:** Johnson's pass-through tax amendment is the vault's clearest example of a senator delivering a specific policy provision worth tens of millions to identifiable individual donors. Wisconsin working families got marginal tax relief; Hendricks and the Uihleins got $79.4 million in combined savings in a single year.

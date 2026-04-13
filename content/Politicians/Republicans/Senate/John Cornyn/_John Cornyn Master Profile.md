@@ -147,6 +147,18 @@ In the 2026 Republican primary, Cornyn faces Ken Paxton (backed by Trump-aligned
 
 ---
 
+## Class Analysis
+
+John Cornyn is the Texas corporate establishment's mechanic. His committee assignments map perfectly to his donor profile, and his donor profile maps perfectly to Texas's economic structure. Finance, Insurance and Real Estate contributed $5.9 million in the 2019-2024 cycle, nearly 20% of his categorized fundraising. He sits on the Finance Committee that writes tax law affecting that entire sector. Securities and investment: $2.6 million. Real estate: $1.6 million. Oil and gas: $1.4 million. Insurance: $682,000. Defense: $207,000 in direct contributions, far more through the Texas military economy. Every committee seat produces returns for the donors who fund it.
+
+The Judiciary Committee seat is the capstone. Cornyn backed all 12 judicial nominees who contributed to his campaigns, totaling $44,000 in documented donations. All 12 became federal judges. This is not staff-to-industry revolving door. This is donor-to-bench. The people funding Cornyn's campaigns are being confirmed as lifetime federal judges through his committee. The Koch Network and Federalist Society donor network provided $3.5 million in the 2017-2020 cycle to fast-track Trump judicial nominees through the same committee.
+
+The Cornyn-Cruz dynamic reveals how the Texas donor class hedges its bets. Cornyn the institutionalist and Cruz the populist serve identical economic interests. Oil and gas, defense, real estate, and financial services fund both campaigns. The stylistic difference lets Texas corporate power maintain relationships with both wings of the Republican Party while voters believe they have a meaningful choice between pragmatism and ideology. Cornyn delivers legislation. Cruz delivers media coverage. Both deliver for the donors. The 2026 primary against Ken Paxton is the stress test: Blackstone's Stephen Schwarzman, New Balance owner Jim Davis, and Dallas oil billionaire Trevor Rees-Jones are all funding the pro-Cornyn super PAC to keep their operator in the Senate.
+
+The gun bill is the exception that proves the rule. The Bipartisan Safer Communities Act (2022) was the first significant federal gun legislation in 30 years, produced by 21 dead children in Uvalde. Even then, the bill stopped precisely where it would threaten firearms industry revenue: no assault weapons restrictions, no universal background checks, no red flag law mandates. It took a massacre of 19 children and two teachers in his own state for Cornyn to deviate from donor orthodoxy on a single issue, once.
+
+---
+
 ## Rhetorical Signature Moves
 
 **"Common-sense conservative"** — Cornyn's self-designation that frames corporate Republican orthodoxy as moderation. "Common sense" means: deregulation of oil and gas, defense spending increases, tax cuts for capital, and judicial appointments that protect corporate interests — presented as pragmatic centrism rather than donor service.

@@ -137,6 +137,18 @@ Reed is not compromised in the transactional sense. He doesn't take money and de
 
 ---
 
+## Class Analysis
+
+Jack Reed is what structural capture looks like when it does not require corruption. His career defense donations total roughly $1 million, modest by Senate standards. General Dynamics Electric Boat, the submarine manufacturer headquartered in Rhode Island, is his top career donor at $154,000. The top four defense contractors (General Dynamics, Raytheon, Lockheed Martin, BAE Systems) have contributed $362,000 combined. These numbers are not mega-donor territory. They do not need to be.
+
+Rhode Island's defense economy is worth $7.6 billion. Approximately 34,000 jobs depend on military contracts. Defense spending accounts for 8% of the state's GDP. General Dynamics Electric Boat builds Columbia-class nuclear submarines at $9.4 billion per boat and Virginia-class submarines at $4.3 billion per year. Reed does not need a bribe to support the submarine program. He needs to keep his state employed. The defense economy IS the constituency interest. Reed's personal biography (West Point, Army Ranger, 82nd Airborne), his state economy (defense-dependent), his committee jurisdiction (Armed Services, which authorizes every Pentagon dollar), and his donor base (defense contractors) all point the same direction. The alignment was total before a single check was written.
+
+The result: Reed has never voted to cut the defense budget. Not once in 29 years in the Senate. He is the Democrat the Pentagon points to when accused of partisanship. He ensures the defense budget passes with overwhelming bipartisan majorities every year, insulating $800+ billion in annual spending from the budget fights that affect every other federal program. His military credentials make it impossible to challenge defense spending from the left without appearing to challenge a combat veteran's judgment.
+
+Reed's net worth is among the lowest in the Senate, reported between negative $506,000 and $235,000. He is genuinely not wealthy. This is sometimes framed as independence from money interests. But personal poverty does not equal structural independence when your state's economic survival depends on the industry you oversee. Rhode Island has real poverty outside the defense sector. Reed's constituents would benefit from domestic spending on healthcare, education, and infrastructure. But the Armed Services Committee's jurisdiction ensures that Rhode Island's federal funding flows primarily through the Pentagon, not through domestic programs. The defense economy crowds out the alternative.
+
+---
+
 ## Analytical Patterns
 
 **Genuine Win + Structural Limit:** Reed has pushed for genuine military reforms — better oversight of contractor fraud, improved veteran healthcare, accountability for Pentagon procurement failures. These wins are real but bounded. They improve how the money is spent without ever questioning how much money is spent. The structural limit: the defense budget itself is never on the table.

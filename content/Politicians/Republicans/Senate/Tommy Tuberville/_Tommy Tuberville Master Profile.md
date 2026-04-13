@@ -108,6 +108,16 @@ Tuberville's political career is the purest expression of celebrity candidacy in
 
 ---
 
+## Class Analysis
+
+Tommy Tuberville is the donor class's proof of concept that ignorance is not a disqualification for office. It is a qualification. A senator who named the three branches of government as "the House, the Senate, and the executive" cannot audit what his committee votes produce. A senator who described D-Day as liberating France from "socialism and communism" will not question the policy frameworks his donors draft. The ignorance is the feature. It ensures compliance without the friction of understanding.
+
+The class mechanism is committee-seat extraction. Tuberville sits on Armed Services and Agriculture, two of the most lucrative regulatory positions in the Senate. From Armed Services, he traded defense stocks (130+ STOCK Act violations, up to $3.56M in undisclosed trades, zero enforcement) while receiving donations from the defense contractors whose personnel promotions he was blocking. The military promotion blockade, framed as a pro-life stand, left Pacific Fleet, Pacific Air Forces, and Cyber Command without confirmed leaders for 10 months. The blockade created leverage. The defense contractors paid for the leverage. The pro-life framing provided cover for what was structurally a hostage-taking of the senior military leadership.
+
+Alabama is the fifth-poorest state in America. 46th in healthcare, 48th in education. Tuberville opposes the social safety net programs that keep his constituents solvent while collecting defense contractor donations and trading their stocks from a position of regulatory authority. The voters delivered the seat. The donors collect the rent. The gap between Alabama's poverty and Tuberville's portfolio is the class transfer in its most transparent form: a state too poor to hold its senator accountable elects a man too ignorant to hold his donors accountable, and the donors extract value from both.
+
+---
+
 ## Analytical Patterns
 
 **The Manufactured Populist** — Tuberville's value to the donor class is his celebrity credibility (famous football coach) combined with his ignorance (doesn't understand basic governance structures). The ignorance is structural: a senator who doesn't understand what he's doing cannot audit what he's being used for. His committees (Armed Services, Agriculture) are among the most lucrative in Congress for defense contractors and agricultural corporations. The donor class gets legislative access without requiring a functionally competent legislator to understand the implications of what he's voting for.

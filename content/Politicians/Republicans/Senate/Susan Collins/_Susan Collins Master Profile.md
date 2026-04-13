@@ -126,6 +126,16 @@ $200 million total spending — the most expensive in Maine history:
 
 ---
 
+## Class Analysis
+
+Susan Collins is a product the donor class purchases at premium. Her "moderate" brand converts reliable corporate service into the appearance of principled independence, and that conversion commands higher prices than any openly partisan vote. Career fundraising: $36.4 million. Corporate PACs: $5.7 million, more than any senator in Maine history. Insurance industry: $1.17 million. Pharmaceutical industry: $440,000. Securities and investment: over $1 million. Private equity: $500,000+ in 2020 alone, more than any senator that cycle. 95% of her 2020 money came from outside Maine.
+
+The Schwarzman sequence is the clearest donor-to-policy pipeline in Collins's record. Stephen Schwarzman gave $2 million to a Collins-aligned super PAC on June 27, 2017. Collins voted for the tax bill on June 28. The carried interest amendment that would have closed the private equity tax loophole was dropped. That is a 24-hour turnaround from donation to policy outcome. The Kavanaugh confirmation followed the same logic at larger scale: Collins delivered the deciding vote, then collected $1.8 million in Q4 2018 from national conservatives. Only $19,000 of the $900,000 in individual donations came from Maine.
+
+Collins does not represent Maine voters. She represents the national corporate donor network that pays a premium for a vote that looks like deliberation. Maine provides the seat. Wall Street provides the money. The policy serves Wall Street. The "moderate" brand is the packaging that makes this arrangement sustainable. Every time Collins says "I'm concerned," both sides increase their bids. She has never once sustained that concern through a vote that cost the donor class money.
+
+---
+
 ## Rhetorical Signature Moves
 
 1. **"Concerned":** Collins expresses "concern" about every controversial nominee, bill, or policy — then votes for it. The concern is the product. It signals to donors that the vote is available for purchase through the appearance of deliberation.

@@ -190,6 +190,18 @@ The new fault line: AI. Labor unions publicly conditioned 2028 support on AI reg
 
 ---
 
+## Class Analysis
+
+Gavin Newsom was born into the California donor class. His father was a close associate of the Getty family. His first business, PlumpJack Group, was built with early capital connections to Gordon Getty. He is not a self-made politician who rose from the working class. He is a product of the California donor network that later came to fund his political career. Every dollar of his political operation traces back to that origin: the donor class did not capture Newsom. The donor class produced him.
+
+The donor map on Newsom is extensive. Blue Shield of California donated roughly $1 million to his 2018 campaign, then received a sole-source $15 million contract to administer COVID vaccine distribution with no competitive bidding. Uber, Lyft, and DoorDash contributed $3 million to Newsom campaigns and allied PACs, then spent $200 million to pass Prop 22, which stripped labor protections from over a million gig workers. Newsom refused to actively oppose it. The CCPOA (prison guard union) gave $1.5 million career, and Newsom delayed prison reform implementation. PG&E and allied energy interests contributed $500,000+, and Newsom pushed a $7.5 billion bailout for Diablo Canyon. The pattern is consistent across every sector: healthcare, gig economy, corrections, energy, real estate. The money flows in. The policy accommodation flows out.
+
+California under Newsom is simultaneously the world's fifth-largest economy and the state with the highest cost-of-living-adjusted poverty rate in the nation. He governs more billionaires than any other governor while presiding over approximately 30% of the nation's entire unhoused population. This is not a failure of governance. It is the intended product of structural choices: housing policy that protects existing asset holders, tax policy that undertaxes capital and wealth, corporate subsidies that transfer public resources to private shareholders. Newsom manages this contradiction rather than resolving it. That management is what his donors pay for.
+
+The genuine wins are real and should not be dismissed. Universal transitional kindergarten, Medi-Cal expansion, minimum wage progress, the death penalty moratorium. These are material gains for working-class Californians. But every win stops exactly where it would conflict with donor interests. Healthcare access expands, but single-payer dies. The death penalty is suspended, but no commutations, no parole expansion. Housing programs are funded, but rent control is defeated three times. The 2028 presidential campaign now forces the structural choice Newsom has spent his career avoiding: labor unions conditioned support on AI regulation, and Newsom vetoed SB 7 for his tech donors. For the first time, the donor-class Democrat may have to pick a side.
+
+---
+
 ## Analytical Patterns
 
 **The Genuine Win + Structural Limit** — Newsom's actual policy achievements (TK expansion, Medi-Cal coverage, death penalty moratorium, some wage progress) are real material gains for working-class Californians. However, these wins are calibrated to not threaten the donor-class economic structure: they expand social programs without raising taxes on wealth, provide healthcare access without single-payer, and moratorium death penalty without addressing systemic incarceration. The victories stop exactly where they would conflict with donor interests.
