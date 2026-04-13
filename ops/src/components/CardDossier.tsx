@@ -1,7 +1,6 @@
 "use client"
 
 import type { Profile } from "@/lib/vault"
-import { typeColor } from "@/lib/vault"
 
 interface CardDossierProps {
   profile: Profile
@@ -17,164 +16,175 @@ export function CardDossier({ profile, headline, subtext, width, height, imageUr
   const name = profile.title.replace(/ Master Profile$/, "")
   const party = profile.party === "Democrat" ? "D" : profile.party === "Republican" ? "R" : "I"
   const state = String(raw.state || raw["state-abbr"] || raw.stateAbbr || "")
-  const stateLabel = state ? `${party}-${state}` : profile.type
   const amount = String(raw.careerTotal || raw.totalRaised || raw.totalReceived || raw.lobbyingSpend || "")
   const topDonors = raw.topDonors || raw["top-donors"]
   const topDonor = Array.isArray(topDonors) ? String(topDonors[0] || "") : ""
   const thesis = profile.centralThesis || ""
 
   const defaultHeadline = name
-  const defaultSubtext = thesis.length > 120 ? thesis.slice(0, 117) + "..." : thesis
+  const defaultSubtext = thesis.length > 100 ? thesis.slice(0, 97) + "..." : thesis
 
   const h = headline || defaultHeadline
   const s = subtext || defaultSubtext
   const scale = Math.min(width / 1200, height / 630)
-  const color = typeColor(profile.type)
+
+  // Split name for massive type treatment
+  const nameParts = h.split(" ")
+  const firstName = nameParts[0] || ""
+  const restName = nameParts.slice(1).join(" ")
 
   return (
     <div
       style={{
         width, height,
-        backgroundColor: "#141419",
+        backgroundColor: "#0a0a0a",
         fontFamily: "'Space Mono', 'Courier New', monospace",
-        display: "flex",
-        flexDirection: "column",
         position: "relative",
         overflow: "hidden",
       }}
     >
-      {/* Red top bar */}
+      {/* Background: massive name bleeding off edges */}
       <div style={{
-        backgroundColor: "#ef4444",
-        padding: `${10 * scale}px ${40 * scale}px`,
-        display: "flex",
-        justifyContent: "space-between",
-        alignItems: "center",
+        position: "absolute",
+        top: -20 * scale,
+        left: -10 * scale,
+        right: -100 * scale,
+        color: "#1a1a1f",
+        fontSize: Math.min(180 * scale, width * 0.18),
+        fontWeight: 700,
+        lineHeight: 0.85,
+        textTransform: "uppercase" as const,
+        letterSpacing: "-0.04em",
+        whiteSpace: "nowrap" as const,
+        userSelect: "none" as const,
       }}>
-        <div style={{ color: "#fff", fontSize: 12 * scale, fontWeight: 700, letterSpacing: "0.2em" }}>
-          FOLLOW THE MONEY
-        </div>
-        <div style={{ color: "#fff", fontSize: 10 * scale, letterSpacing: "0.15em" }}>
-          THEDONORMAP.ORG
-        </div>
+        {firstName}<br/>{restName}
       </div>
 
-      {/* Main content */}
+      {/* Yellow accent bar — top left */}
       <div style={{
-        flex: 1,
+        position: "absolute",
+        top: 0,
+        left: 0,
+        width: 6,
+        height: height * 0.4,
+        backgroundColor: "#fbbf24",
+      }} />
+
+      {/* Content overlay */}
+      <div style={{
+        position: "relative",
+        zIndex: 1,
+        height: "100%",
         display: "flex",
-        padding: `${30 * scale}px ${40 * scale}px`,
-        gap: 30 * scale,
+        flexDirection: "column",
+        justifyContent: "space-between",
+        padding: `${35 * scale}px ${45 * scale}px`,
       }}>
-        {/* Left: Photo or initial */}
-        <div style={{
-          width: height * 0.5,
-          display: "flex",
-          flexDirection: "column",
-          alignItems: "center",
-          justifyContent: "center",
-          flexShrink: 0,
-        }}>
-          {imageUrl ? (
-            <img
-              src={imageUrl}
-              alt=""
-              style={{
-                width: "100%",
-                height: "auto",
-                filter: "grayscale(1) contrast(2) brightness(0.8)",
-                borderRadius: 0,
-              }}
-              crossOrigin="anonymous"
-            />
-          ) : (
-            <div style={{
-              width: height * 0.35,
-              height: height * 0.35,
-              backgroundColor: `${color}20`,
-              display: "flex",
-              alignItems: "center",
-              justifyContent: "center",
-              fontSize: height * 0.15,
-              fontWeight: 700,
-              color,
-            }}>
-              {name[0]}
-            </div>
-          )}
+        {/* Top: type label + tag */}
+        <div style={{ display: "flex", justifyContent: "space-between", alignItems: "flex-start" }}>
           <div style={{
-            color: "#7a7a86",
+            color: "#fbbf24",
             fontSize: 10 * scale,
-            marginTop: 8 * scale,
-            letterSpacing: "0.1em",
+            fontWeight: 700,
+            letterSpacing: "0.3em",
+            textTransform: "uppercase" as const,
           }}>
-            {stateLabel}
+            {profile.type === "politician" ? (state ? `${party}-${state}` : party) : profile.type}
+          </div>
+          <div style={{
+            color: "#ef4444",
+            fontSize: 9 * scale,
+            fontWeight: 700,
+            letterSpacing: "0.2em",
+            border: "1px solid #ef4444",
+            padding: `${3 * scale}px ${8 * scale}px`,
+          }}>
+            DONOR MAP
           </div>
         </div>
 
-        {/* Right: Stats */}
-        <div style={{ flex: 1, display: "flex", flexDirection: "column", justifyContent: "center" }}>
+        {/* Middle: name + amount as dominant type */}
+        <div>
           <div style={{
             color: "#fbbf24",
-            fontSize: Math.min(36 * scale, width * 0.04),
+            fontSize: Math.min(56 * scale, width * 0.06),
             fontWeight: 700,
-            lineHeight: 1.1,
-            marginBottom: 16 * scale,
+            lineHeight: 1,
+            letterSpacing: "-0.02em",
+            marginBottom: 8 * scale,
           }}>
             {h}
           </div>
 
           {amount && (
             <div style={{
-              display: "flex",
-              alignItems: "baseline",
-              gap: 8 * scale,
+              color: "#e4e4e7",
+              fontSize: Math.min(80 * scale, width * 0.085),
+              fontWeight: 700,
+              lineHeight: 1,
+              letterSpacing: "-0.03em",
               marginBottom: 12 * scale,
             }}>
-              <span style={{ color: "#22c55e", fontSize: 28 * scale, fontWeight: 700 }}>
-                {amount}
-              </span>
-              <span style={{ color: "#7a7a86", fontSize: 11 * scale }}>career total</span>
+              {amount}
             </div>
           )}
 
           {topDonor && (
-            <div style={{ marginBottom: 12 * scale }}>
-              <span style={{ color: "#7a7a86", fontSize: 10 * scale }}>TOP DONOR: </span>
-              <span style={{ color: "#e4e4e7", fontSize: 13 * scale, fontWeight: 700 }}>{topDonor}</span>
+            <div style={{ display: "flex", gap: 8 * scale, alignItems: "center", marginBottom: 8 * scale }}>
+              <div style={{
+                width: 20 * scale,
+                height: 1,
+                backgroundColor: "#fbbf24",
+              }} />
+              <span style={{ color: "#7a7a86", fontSize: 11 * scale, letterSpacing: "0.1em" }}>
+                TOP DONOR: <span style={{ color: "#e4e4e7", fontWeight: 700 }}>{topDonor}</span>
+              </span>
             </div>
           )}
 
           {s && (
             <div style={{
-              color: "#a0a0a8",
+              color: "#7a7a86",
               fontSize: 12 * scale,
-              lineHeight: 1.5,
-              borderLeft: `2px solid ${color}`,
-              paddingLeft: 12 * scale,
-              marginTop: 8 * scale,
+              lineHeight: 1.4,
+              maxWidth: "75%",
+              marginTop: 12 * scale,
             }}>
               {s}
             </div>
           )}
         </div>
+
+        {/* Bottom: branding */}
+        <div style={{
+          display: "flex",
+          justifyContent: "space-between",
+          alignItems: "flex-end",
+        }}>
+          <div style={{
+            color: "#fbbf24",
+            fontSize: 11 * scale,
+            fontWeight: 700,
+            letterSpacing: "0.15em",
+          }}>
+            FOLLOW THE MONEY
+          </div>
+          <div style={{ color: "#7a7a86", fontSize: 9 * scale }}>
+            thedonormap.org
+          </div>
+        </div>
       </div>
 
-      {/* Bottom bar */}
+      {/* Red accent bar — bottom right */}
       <div style={{
-        backgroundColor: "#0a0a0a",
-        padding: `${8 * scale}px ${40 * scale}px`,
-        display: "flex",
-        justifyContent: "space-between",
-        alignItems: "center",
-      }}>
-        <div style={{ color: "#7a7a86", fontSize: 9 * scale, letterSpacing: "0.1em" }}>
-          OPEN-SOURCE DONOR INTELLIGENCE
-        </div>
-        <div style={{ color: "#fbbf24", fontSize: 9 * scale, fontWeight: 700, letterSpacing: "0.15em" }}>
-          DONOR MAP
-        </div>
-      </div>
+        position: "absolute",
+        bottom: 0,
+        right: 0,
+        width: width * 0.3,
+        height: 4,
+        backgroundColor: "#ef4444",
+      }} />
     </div>
   )
 }
