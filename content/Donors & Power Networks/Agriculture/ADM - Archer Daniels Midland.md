@@ -47,6 +47,7 @@ sec-form-types:
   - "N-PX"
   - "N-PX/A"
   - "SCHEDULE 13G/A"
+internal-notes: "[CODE @ 2026-04-13] Pipeline: epa-echo FAILED for ADM - Archer Daniels Midland. Run: https://github.com/Guerillapropaganda/donor-map-engine/actions/runs/24359636746"
 ---
 #adm #agriculture #commodities #ethanol #grain #biofuel #illinois
 
@@ -82,7 +83,7 @@ Preservation and expansion of the Renewable Fuel Standard (ethanol mandate), fav
 ### Sources
 
 - [OpenSecrets: ADM organizational profile](https://www.opensecrets.org/orgs/archer-daniels-midland/summary?id=D000000132) (Tier 1)
-- [EPA: Renewable Fuel Standard program](https://www.epa.gov/renewable-fuel-standard) (NEEDS REVIEW) (Tier 1)
+- ~~[EPA: Renewable Fuel Standard program](https://www.epa.gov/renewable-fuel-standard)~~ (URL broken, archived by Ops) (NEEDS REVIEW) (Tier 1)
 - [DOJ: ADM price-fixing prosecution](https://www.justice.gov/archive/opa/pr/1996/Oct96/508at.htm) (Tier 1) (VERIFIED)
 - ~~[Ballotpedia: ADM](https://ballotpedia.org/Archer_Daniels_Midland)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
 

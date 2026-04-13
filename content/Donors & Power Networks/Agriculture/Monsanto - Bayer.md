@@ -120,7 +120,7 @@ Patent protection for genetically modified seeds (preventing farmers from saving
 - 2016-09-14 — **DEFA14A**: DEFA14A
 - 2016-09-21 — **DEFA14A**: DEFA14A
 
-- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Monsanto%20-%20Bayer%22) (Tier 1) (NEEDS REVIEW: bunch of code not sure of context)
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Monsanto%20-%20Bayer%22) (Tier 1) (NEEDS REVIEW: code)
 <!-- auto:sec-edgar end -->
 
 ### Lobbying Activity
