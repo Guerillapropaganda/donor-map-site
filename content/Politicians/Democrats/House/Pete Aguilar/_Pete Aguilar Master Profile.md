@@ -245,5 +245,5 @@ Estimated net worth: $218,000 (439th highest in Congress as of January 2026). Mi
 <!-- auto:voting-record start -->
 **Sources**
 
-- [Congress.gov: Pete Aguilar](https://www.congress.gov/member/c001091) (Tier 1)
+- [Congress.gov: Pete Aguilar](https://www.congress.gov/member/e000179) (Tier 1)
 <!-- auto:voting-record end -->

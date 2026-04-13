@@ -43,21 +43,21 @@ sec-form-types:
   - "EX-99.1"
   - "N-1A/A"
   - "U5S"
-total-political-spend: "$511,461"
+total-political-spend: "$499,761"
 politicians-funded:
+  - "Jerrold Nadler"
+  - "Jerry Nadler"
+  - "James E. Clyburn"
   - "Gina McCarthy"
   - "Kevin McCarthy"
+  - "Robert Menendez"
+  - "Bob Menendez"
   - "Wes Moore"
   - "Gwen Moore"
   - "Barry Moore"
   - "Blake D. Moore"
   - "Riley M. Moore"
   - "Tim Moore"
-  - "Jerrold Nadler"
-  - "Jerry Nadler"
-  - "James E. Clyburn"
-  - "Robert Menendez"
-  - "Bob Menendez"
   - "Melissa Bean"
   - "Aaron Bean"
   - "Linda McMahon"
@@ -280,23 +280,23 @@ Brady represents issue-based donor infrastructure serving Democratic electoral p
 <!-- auto:fec-donor start -->
 | Metric | Value |
 |--------|-------|
-| Total Political Spend | $511,461 |
-| Contributions | 108 |
+| Total Political Spend | $499,761 |
+| Contributions | 100 |
 
 **Top recipients:**
 
 | Recipient | Amount | Party |
 |-----------|--------|-------|
 | BRADY PAC | $429,429 | — |
-| FRIENDS OF CAROLYN MCCARTHY | $7,500 | DEM |
-| MOORE FOR CONGRESS | $7,000 | DEM |
 | PERLMUTTER FOR CONGRESS | $6,800 | DEM |
 | NADLER FOR CONGRESS | $6,000 | DEM |
 | FRIENDS OF JIM CLYBURN | $5,500 | DEM |
 | SCHRADER FOR CONGRESS | $5,000 | DEM |
+| FRIENDS OF CAROLYN MCCARTHY | $4,000 | DEM |
 | MENENDEZ FOR SENATE | $4,000 | DEM |
+| MOORE FOR CONGRESS | $3,000 | DEM |
 | DARCY BURNER FOR CONGRESS | $2,500 | DEM |
-| ALLYSON SCHWARTZ FOR CONGRESS | $2,500 | DEM |
+| DEMOCRATIC PARTY OF VIRGINIA | $2,000 | DEM |
 
 - [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Brady%20Campaign) (Tier 1)
 <!-- auto:fec-donor end -->

@@ -269,7 +269,7 @@ The bipartisan protection model makes the class function explicit. Larsen (Democ
 
 **Sources**
 
-- [Congress.gov: Rick Larsen](https://www.congress.gov/member/c001091) (Tier 1)
+- [Congress.gov: Rick Larsen](https://www.congress.gov/member/e000179) (Tier 1)
 - [GovTrack: Rick Larsen](https://www.govtrack.us/congress/members/400232) (Tier 1)
 <!-- auto:voting-record end -->
 

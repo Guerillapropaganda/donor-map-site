@@ -205,5 +205,5 @@ The Philadelphia machine connection carries its own class complication. IBEW Loc
 <!-- auto:voting-record start -->
 **Sources**
 
-- [Congress.gov: Brendan Boyle](https://www.congress.gov/member/c001091) (Tier 1)
+- [Congress.gov: Brendan Boyle](https://www.congress.gov/member/e000179) (Tier 1)
 <!-- auto:voting-record end -->

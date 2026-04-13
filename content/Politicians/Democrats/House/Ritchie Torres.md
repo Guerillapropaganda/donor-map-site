@@ -167,7 +167,7 @@ The 2026 cycle reveals the scale. Torres has raised $5,052,480 with $1,616,453 f
 <!-- auto:voting-record start -->
 **Sources**
 
-- [Congress.gov: Ritchie Torres](https://www.congress.gov/member/c001091) (Tier 1)
+- [Congress.gov: Ritchie Torres](https://www.congress.gov/member/e000179) (Tier 1)
 <!-- auto:voting-record end -->
 
 ### Legislative Activity (Congress.gov)

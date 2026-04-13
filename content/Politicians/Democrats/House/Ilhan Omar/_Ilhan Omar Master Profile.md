@@ -285,7 +285,7 @@ Omar's small-dollar model ($1.7M in Q1 2024, 56,022 contributions, $31.79 averag
 <!-- auto:voting-record start -->
 **Sources**
 
-- [Congress.gov: Ilhan Omar](https://www.congress.gov/member/c001091) (Tier 1)
+- [Congress.gov: Ilhan Omar](https://www.congress.gov/member/e000179) (Tier 1)
 <!-- auto:voting-record end -->
 
 
