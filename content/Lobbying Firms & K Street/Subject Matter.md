@@ -8,7 +8,7 @@ parent: null
 annual-revenue: "$18.7M"
 lobbyist-count: 18
 revolving-door-pct: "72.2%"
-related: "[[Google - Alphabet]] · [[Meta - Facebook]] · [[Apollo Global Management]] · [[Blackstone Group]] · [[Mehlman Consulting]] · [[Fierce Government Relations]] · [[Cornerstone Government Affairs]] · [[Forbes Tate Partners]] · [[Thorn Run Partners]] · [[Capitol Counsel]] · [[Brownstein Hyatt Farber Schreck]] · [[Peck Madigan Jones (now Tiber Creek Group)]] · [[Prime Policy Group]] · [[K&L Gates]] · [[Crossroads Strategies]] · [[Cassidy & Associates]] · [[Ballard Partners]] · [[BGR Group]] · [[Alpine Group]] · [[Akin Gump Strauss Hauer & Feld]] · [[Squire Patton Boggs]] · [[Invariant]]"
+related: "[[Google - Alphabet]] · [[Meta - Facebook]] · [[Apollo Global Management]] · [[Blackstone Group]] · [[Mehlman Consulting]] · [[Fierce Government Relations]] · [[Cornerstone Government Affairs]] · [[Forbes Tate Partners]] · [[Thorn Run Partners]] · [[Capitol Counsel]] · [[Brownstein Hyatt Farber Schreck]] · [[Peck Madigan Jones (now Tiber Creek Group)]] · [[Prime Policy Group]] · [[K&L Gates]] · [[Crossroads Strategies]] · [[Cassidy & Associates]] · [[Ballard Partners]] · [[BGR Group]] · [[Alpine Group]] · [[Akin Gump Strauss Hauer & Feld]] · [[Squire Patton Boggs]] · [[Invariant]] · [[Holland & Knight]]"
 cross-vault-triangulation-count: 20
 needs-reenrichment: true
 reenrich-reason: "run lda pipeline; run pipelines"
