@@ -115,7 +115,7 @@ export default function CapitolTradesPage() {
   const [enhancedStats, setEnhancedStats] = useState<any>(null)
   const [tradeStories, setTradeStories] = useState<any>(null)
   const [loading, setLoading] = useState(true)
-  const [tab, setTab] = useState<"table" | "flow" | "trail" | "tickers" | "traders" | "stories" | "scoreboard" | "unusual" | "conflicts" | "lobby" | "crypto">("table")
+  const [tab, setTab] = useState<"table" | "flow" | "trail" | "tickers" | "traders" | "stories" | "scoreboard" | "timeline" | "unusual" | "conflicts" | "lobby" | "crypto">("table")
   const [lobbyData, setLobbyData] = useState<any>(null)
   // Crypto tier filters — tiers 1-3 on by default, adjacent (tier 4) opt-in
   const [activeTiers, setActiveTiers] = useState<Set<CryptoTier>>(new Set(['direct', 'etf', 'company']))
@@ -394,12 +394,12 @@ export default function CapitolTradesPage() {
 
       {/* Tabs */}
       <div className="flex border-b border-[var(--color-border)] mb-4">
-        {(["table", "flow", "trail", "tickers", "traders", "stories", "scoreboard", "unusual", "conflicts", "lobby", "crypto"] as const).map(t => (
+        {(["table", "flow", "trail", "tickers", "traders", "stories", "scoreboard", "timeline", "unusual", "conflicts", "lobby", "crypto"] as const).map(t => (
           <button key={t} onClick={() => setTab(t)}
             className={`px-4 py-2 font-mono text-[10px] font-bold uppercase tracking-wider border-b-2 -mb-px ${
               tab === t ? "text-[var(--color-text)] border-[var(--color-steel)]" : "text-[var(--color-text-dim)] border-transparent hover:text-[var(--color-text)]"
-            } ${t === "crypto" ? "ml-2 !text-[#f59e0b] " + (tab === t ? "!border-[#f59e0b]" : "") : ""} ${t === "conflicts" ? "!text-[#ef4444] " + (tab === t ? "!border-[#ef4444]" : "") : ""} ${t === "unusual" ? "!text-[#8b5cf6] " + (tab === t ? "!border-[#8b5cf6]" : "") : ""} ${t === "stories" ? "!text-[#22c55e] " + (tab === t ? "!border-[#22c55e]" : "") : ""} ${t === "lobby" ? "!text-[#06b6d4] " + (tab === t ? "!border-[#06b6d4]" : "") : ""} ${t === "scoreboard" ? "!text-[#e63946] " + (tab === t ? "!border-[#e63946]" : "") : ""}`}>
-            {t === "table" ? "TRADES" : t === "flow" ? "STOCK FLOW" : t === "trail" ? "MONEY TRAIL" : t === "tickers" ? "TOP TICKERS" : t === "traders" ? "TOP TRADERS" : t === "stories" ? "STORIES" : t === "scoreboard" ? "SCOREBOARD" : t === "unusual" ? "UNUSUAL" : t === "conflicts" ? "CONFLICTS" : t === "lobby" ? "LOBBY" : "CRYPTO"}
+            } ${t === "crypto" ? "ml-2 !text-[#f59e0b] " + (tab === t ? "!border-[#f59e0b]" : "") : ""} ${t === "conflicts" ? "!text-[#ef4444] " + (tab === t ? "!border-[#ef4444]" : "") : ""} ${t === "unusual" ? "!text-[#8b5cf6] " + (tab === t ? "!border-[#8b5cf6]" : "") : ""} ${t === "stories" ? "!text-[#22c55e] " + (tab === t ? "!border-[#22c55e]" : "") : ""} ${t === "lobby" ? "!text-[#06b6d4] " + (tab === t ? "!border-[#06b6d4]" : "") : ""} ${t === "scoreboard" ? "!text-[#e63946] " + (tab === t ? "!border-[#e63946]" : "") : ""} ${t === "timeline" ? "!text-[#d97706] " + (tab === t ? "!border-[#d97706]" : "") : ""}`}>
+            {({table:"TRADES",flow:"STOCK FLOW",trail:"MONEY TRAIL",tickers:"TOP TICKERS",traders:"TOP TRADERS",stories:"STORIES",scoreboard:"SCOREBOARD",timeline:"TIMELINE",unusual:"UNUSUAL",conflicts:"CONFLICTS",lobby:"LOBBY",crypto:"CRYPTO"} as any)[t]}
           </button>
         ))}
         <div className="ml-auto text-[10px] text-[var(--color-text-dim)] font-mono self-center">
@@ -841,6 +841,162 @@ export default function CapitolTradesPage() {
                 </div>
               )
             })}
+          </div>
+        </div>
+        )
+      })()}
+
+      {/* ── Timeline ── */}
+      {tab === "timeline" && (() => {
+        // Build monthly trade volume
+        const monthly: Record<string, { month: string; trades: number; buys: number; sells: number; buyVol: number; sellVol: number; whales: number; lates: number; options: number; crypto: number }> = {}
+        for (const t of trades as any[]) {
+          const d = t.transactionDate
+          if (!d) continue
+          const parts = d.match(/(\d{1,2})\/\d{1,2}\/(\d{4})/)
+          if (!parts) continue
+          const key = `${parts[2]}-${parts[1].padStart(2, '0')}`
+          if (!monthly[key]) monthly[key] = { month: key, trades: 0, buys: 0, sells: 0, buyVol: 0, sellVol: 0, whales: 0, lates: 0, options: 0, crypto: 0 }
+          const m = monthly[key]
+          m.trades++
+          const amt = t.amount?.max || t.amount?.min || 0
+          if (t.type === 'Purchase') { m.buys++; m.buyVol += amt }
+          else if (t.type === 'Sale') { m.sells++; m.sellVol += amt }
+          if (t.isWhaleTrade || amt >= 500000) m.whales++
+          if (t.isLateDisclosure) m.lates++
+          if (t.isOptions) m.options++
+          if (t.isCrypto) m.crypto++
+        }
+        const months = Object.values(monthly).sort((a, b) => a.month.localeCompare(b.month))
+        const maxTrades = Math.max(...months.map(m => m.trades), 1)
+
+        // Key events
+        const events: Record<string, string> = {
+          '2020-01': 'COVID first cases',
+          '2020-03': 'COVID crash + insider trading scandal',
+          '2020-06': 'Market recovery rally',
+          '2021-01': 'GameStop / meme stocks',
+          '2021-06': 'Crypto summer peak',
+          '2021-11': 'Infrastructure bill signed',
+          '2022-01': 'Fed rate hike signals',
+          '2022-06': 'Crypto crash (Luna/FTX)',
+          '2022-11': 'FTX collapse',
+          '2023-03': 'SVB bank crisis',
+          '2024-01': 'Bitcoin ETFs approved',
+          '2024-05': 'FIT21 passes House',
+          '2025-02': 'GENIUS Act introduced',
+          '2025-07': 'GENIUS Act signed',
+        }
+
+        return (
+        <div>
+          <Explainer>
+            <p><strong>Congressional trading volume over time, month by month.</strong></p>
+            <p>The height of each bar shows how many trades Congress made that month. Green = buys, red = sells. The orange dots mark months with notable events. Look for spikes around market crashes, major legislation, and crises. When trading volume surges right before or after a major event, it raises the question: did they know something?</p>
+            <p>March 2020 is the most famous case. Multiple senators sold millions in stock weeks before the COVID crash, after receiving classified briefings. This chart shows you every month like that.</p>
+          </Explainer>
+
+          {/* Chart */}
+          <div className="overflow-x-auto border border-[var(--color-border)] bg-[var(--color-bg)] p-4 mb-4">
+            <div style={{ minWidth: months.length * 14 + 100 }} className="flex items-end gap-[2px] h-64">
+              {months.map((m, i) => {
+                const h = (m.trades / maxTrades) * 100
+                const buyPct = m.buys / Math.max(m.trades, 1)
+                const hasEvent = !!events[m.month]
+                const [yr, mo] = m.month.split('-')
+                const showLabel = mo === '01' || mo === '07'
+
+                return (
+                  <div key={i} className="flex flex-col items-center relative group" style={{ flex: '0 0 12px' }}>
+                    {/* Event dot */}
+                    {hasEvent && (
+                      <div className="absolute -top-6 w-3 h-3 rounded-full bg-[#d97706] z-10" title={events[m.month]} />
+                    )}
+                    {/* Bar */}
+                    <div className="w-full flex flex-col justify-end" style={{ height: `${h}%`, minHeight: m.trades > 0 ? 2 : 0 }}>
+                      <div className="w-full bg-[#22c55e]" style={{ height: `${buyPct * 100}%` }} />
+                      <div className="w-full bg-[#ef4444]" style={{ height: `${(1 - buyPct) * 100}%` }} />
+                    </div>
+                    {/* Label */}
+                    {showLabel && (
+                      <div className="absolute -bottom-5 font-mono text-[8px] text-[var(--color-text-dim)] whitespace-nowrap">
+                        {mo === '01' ? yr : ''}
+                      </div>
+                    )}
+                    {/* Tooltip */}
+                    <div className="absolute bottom-full mb-1 hidden group-hover:block bg-[var(--color-bg-card)] border border-[var(--color-border)] p-2 z-20 whitespace-nowrap text-[9px] font-mono">
+                      <div className="font-bold text-[var(--color-text)]">{m.month}</div>
+                      <div>{m.trades} trades ({m.buys}B / {m.sells}S)</div>
+                      {m.whales > 0 && <div className="text-[#f59e0b]">{m.whales} whale</div>}
+                      {m.options > 0 && <div className="text-[#8b5cf6]">{m.options} options</div>}
+                      {m.crypto > 0 && <div className="text-[#f59e0b]">{m.crypto} crypto</div>}
+                      {events[m.month] && <div className="text-[#d97706] font-bold mt-1">{events[m.month]}</div>}
+                    </div>
+                  </div>
+                )
+              })}
+            </div>
+          </div>
+
+          {/* Event legend */}
+          <div className="mb-4">
+            <div className="font-mono text-[10px] font-bold uppercase tracking-wider text-[#d97706] mb-2">Key Events</div>
+            <div className="grid grid-cols-3 gap-2">
+              {Object.entries(events).filter(([k]) => months.some(m => m.month === k)).map(([date, label]) => {
+                const m = monthly[date]
+                return (
+                  <div key={date} className="flex items-center gap-2 font-mono text-[10px]">
+                    <span className="w-2 h-2 rounded-full bg-[#d97706] flex-shrink-0" />
+                    <span className="text-[var(--color-text-dim)]">{date}</span>
+                    <span className="text-[var(--color-text)]">{label}</span>
+                    {m && <span className="text-[var(--color-text-dim)] ml-auto">{m.trades} trades</span>}
+                  </div>
+                )
+              })}
+            </div>
+          </div>
+
+          {/* Yearly summary table */}
+          <div>
+            <div className="font-mono text-[10px] font-bold uppercase tracking-wider text-[#d97706] mb-2">Yearly Breakdown</div>
+            <table className="w-full text-xs">
+              <thead>
+                <tr className="border-b border-[var(--color-border)]">
+                  <th className="py-2 px-2 text-left font-mono text-[9px] font-bold text-[var(--color-text-dim)]">Year</th>
+                  <th className="py-2 px-2 text-right font-mono text-[9px] font-bold text-[var(--color-text-dim)]">Trades</th>
+                  <th className="py-2 px-2 text-right font-mono text-[9px] font-bold text-[#22c55e]">Buys</th>
+                  <th className="py-2 px-2 text-right font-mono text-[9px] font-bold text-[#ef4444]">Sells</th>
+                  <th className="py-2 px-2 text-right font-mono text-[9px] font-bold text-[#f59e0b]">Whales</th>
+                  <th className="py-2 px-2 text-right font-mono text-[9px] font-bold text-[#8b5cf6]">Options</th>
+                  <th className="py-2 px-2 text-right font-mono text-[9px] font-bold text-[#ef4444]">Late</th>
+                  <th className="py-2 px-2 text-right font-mono text-[9px] font-bold text-[#f59e0b]">Crypto</th>
+                </tr>
+              </thead>
+              <tbody>
+                {(() => {
+                  const yearly: Record<string, any> = {}
+                  for (const m of months) {
+                    const yr = m.month.split('-')[0]
+                    if (!yearly[yr]) yearly[yr] = { trades: 0, buys: 0, sells: 0, whales: 0, options: 0, lates: 0, crypto: 0 }
+                    yearly[yr].trades += m.trades; yearly[yr].buys += m.buys; yearly[yr].sells += m.sells
+                    yearly[yr].whales += m.whales; yearly[yr].options += m.options; yearly[yr].lates += m.lates; yearly[yr].crypto += m.crypto
+                  }
+                  return Object.entries(yearly).sort((a, b) => a[0].localeCompare(b[0])).map(([yr, d]: [string, any]) => (
+                    <tr key={yr} className="border-b border-[var(--color-border)] hover:bg-[var(--color-bg-hover)] cursor-pointer"
+                      onClick={() => { setYearFilter(yr); setTab('table'); setPage(0) }}>
+                      <td className="py-2 px-2 font-mono font-bold text-[var(--color-text)]">{yr}</td>
+                      <td className="py-2 px-2 text-right font-mono text-[var(--color-text)]">{d.trades.toLocaleString()}</td>
+                      <td className="py-2 px-2 text-right font-mono text-[#22c55e]">{d.buys.toLocaleString()}</td>
+                      <td className="py-2 px-2 text-right font-mono text-[#ef4444]">{d.sells.toLocaleString()}</td>
+                      <td className="py-2 px-2 text-right font-mono text-[#f59e0b]">{d.whales}</td>
+                      <td className="py-2 px-2 text-right font-mono text-[#8b5cf6]">{d.options}</td>
+                      <td className="py-2 px-2 text-right font-mono text-[#ef4444]">{d.lates}</td>
+                      <td className="py-2 px-2 text-right font-mono text-[#f59e0b]">{d.crypto}</td>
+                    </tr>
+                  ))
+                })()}
+              </tbody>
+            </table>
           </div>
         </div>
         )
