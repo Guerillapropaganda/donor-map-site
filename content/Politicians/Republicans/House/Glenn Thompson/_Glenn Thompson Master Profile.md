@@ -18,7 +18,7 @@ issues:
   - "Agriculture"
 total-received: "$1,227,441"
 fec-candidate-id: "H8PA05071"
-donors: "[[IBEW - International Brotherhood of Electrical Workers]] · [[Blue Shield of California]] · [[American Gaming Association]] · [[California Farm Bureau Federation]] · [[National Cattlemen's Beef Association]]"
+donors: "[[IBEW - International Brotherhood of Electrical Workers]] · [[Blue Shield of California]] · [[American Gaming Association]] · [[California Farm Bureau Federation]] · [[National Cattlemen's Beef Association]] · [[CA Farm Bureau Federation]]"
 related: "[[John Boozman]] · [[_Donald Trump Master Profile|Trump]]"
 total-raised: "$1,227,441"
 total-spent: "$1,152,094"
