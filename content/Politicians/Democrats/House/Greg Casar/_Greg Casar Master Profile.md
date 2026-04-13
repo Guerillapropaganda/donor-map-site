@@ -50,6 +50,16 @@ Casar's 35th district stretches from Austin through San Antonio — a heavily La
 
 *Profile stub — needs full build. See editorial-notes for priority and angle.*
 
+## Class Analysis
+
+Greg Casar represents the Justice Democrats model at its purest: a labor organizer who entered electoral politics through municipal government, won a Congressional seat with grassroots and small-dollar funding, and now serves a heavily Latino working-class district stretching from Austin to San Antonio. His donor base is dominated by small-dollar contributions and labor organizations rather than corporate PACs or industry money. Endorsed by Alexandria Ocasio-Cortez, Bernie Sanders, and Justice Democrats, Casar's funding pipeline runs through the progressive infrastructure that Saikat Chakrabarti built, not through the traditional Democratic donor class.
+
+The class question for Casar is whether the Justice Democrats pipeline can sustain members long-term or whether institutional pressures force accommodation. His district (TX-35) is safe Democratic territory, which removes the swing-district fundraising pressure that pushes members like Angie Craig toward corporate donors. But safe-seat progressives face a different class dynamic: the Democratic leadership's committee assignment system rewards loyalty and fundraising for the caucus, not ideological purity. Casar sits on Oversight and Natural Resources, not the committees where labor policy is written. The labor organizer's committee assignments do not yet match his organizing background.
+
+Casar's thirst strike on the Capitol steps in February 2023, demanding federal heat protections for outdoor workers in Texas, captured his class positioning in a single image. He was willing to physically suffer to force attention on working-class labor conditions. Whether that confrontational posture survives the institutional pressures of a Congressional career, the committee system, and the fundraising demands of multiple reelection cycles is the open question. The Justice Democrats' track record suggests the model works for election but faces structural resistance once inside the institution.
+
+---
+
 ## Sources
 
 ### Verified

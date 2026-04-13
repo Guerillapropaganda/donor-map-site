@@ -121,6 +121,16 @@ During the pandemic, Velazquez led the Democratic response on PPP loans — and 
 
 ---
 
+## Class Analysis
+
+Nydia Velazquez has spent three decades on the Small Business Committee championing access to capital for minority-owned and small businesses. Her donor profile is modest by Congressional standards, dominated by New York real estate interests (district economics, not committee capture), lawyers, and financial services. No bank lobby dominates her funding despite her jurisdiction over the SBA lending system that generates billions in processing fees for financial intermediaries. The absence of industry capture is the analytical signal: Velazquez is one of the few committee leaders whose donor base does not dictate her policy agenda.
+
+The class contradiction in Velazquez's work is structural, not personal. The Small Business Committee oversees programs designed to help small businesses compete, but those programs route capital through banks and fintech lenders that capture the largest share of value. The PPP program exposed this at catastrophic scale: $800 billion flowed through financial intermediaries that prioritized their largest existing customers while small businesses in communities like Velazquez's Brooklyn district waited weeks for relief. Velazquez identified the problem, demanded investigations, and secured $60 billion in set-asides for community lenders and CDFIs. The banks still got the lion's share. The champion of small business operates within a system architecturally designed to benefit the financial intermediaries she tries to constrain.
+
+Velazquez's three decades of institutional knowledge now face a direct class threat. The Trump administration and DOGE are targeting SBA programs, minority-owned business set-asides, and contracting preferences that Velazquez built over her entire career, framing them as DEI programs to be eliminated. The class dimension is clear: the 8(a) contracting program, HUBZone preferences, and Women-Owned Small Business set-asides redistribute federal contracting dollars from large corporations to small and minority-owned firms. Eliminating these programs consolidates contracting dollars upward. Velazquez, as Ranking Member, can object but cannot stop it. The institutional memory of three decades of small business advocacy meets the structural powerlessness of the minority party.
+
+---
+
 ## Rhetorical Signature Moves
 
 **"The backbone of our economy"** — The small business dignity framing. The function: make SBA programs sound like economic patriotism rather than government intervention in markets.

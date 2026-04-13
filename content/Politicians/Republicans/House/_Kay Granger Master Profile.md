@@ -2,9 +2,9 @@
 title: "Kay Granger Master Profile"
 type: politician
 bioguide-id: "G000377"
-content-readiness: draft
+content-readiness: ready
 central-thesis: "Kay Granger was, effectively, Lockheed Martin's $634,000+ congressional employee — with a career total possibly exceeding $800,000 in direct contributions and revolving-door connections. Her Fort Worth district contains the F-35 production line. S..."
-last-updated: 2026-04-08
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 party: "Republican"
@@ -169,6 +169,18 @@ This is the ultimate expression of donor capture: not just funding a politician,
 - Representing Fort Worth gives her moral authority to claim "constituent benefit"
 - Can frame F-35 appropriations as "jobs for Fort Worth" rather than "contractor subsidy"
 - Creates cover for explicitly district-benefiting spending
+
+---
+
+## Class Analysis
+
+Kay Granger was Lockheed Martin's congressional employee. The relationship lasted 27 years. The total documented investment: $634,000 to $800,000+ in career contributions from Lockheed Martin PACs, executives, and employee bundling networks. The return: $9.4 billion appropriated for 93 F-35 aircraft in her final term as Appropriations Committee chair, when the Pentagon had requested only 77. That is 16 unrequested aircraft, representing over $16 billion in defense spending that the military itself did not ask for, directed to the production line in Granger's Fort Worth district.
+
+The geography makes the capture transparent. Lockheed Martin's F-35 production line sits in Fort Worth, Texas, in Granger's 12th Congressional District. Lockheed employs 3,000+ workers there. The F-35 program represents over 15% of Fort Worth's industrial base. Granger co-founded the Joint Strike Fighter Caucus in 2011, creating formal congressional infrastructure to defend the F-35 program against cost-overrun criticism. She did not just take defense contractor money and vote accordingly. She built institutional advocacy machinery to protect the program that funded her. The caucus provides cover: individual members claim "constituent benefit" rather than contractor capture. The function is identical. Lockheed gets organized congressional support. Members get Lockheed funding. The taxpayer funds both.
+
+The dementia revelation in 2024 exposed the terminal stage of donor capture. By mid-2024, Kay Granger was living in a senior care facility with significant cognitive decline. She was nominally chair of the House Appropriations Committee, the most powerful spending authority in the U.S. government. Her staff managed committee functions. She rarely appeared on the House floor. A Lockheed Martin-funded politician with dementia was the nominal author of the Pentagon's budget. Her staff, some with industry connections, made spending decisions under her authority. The defense contractor had a chair who could not exercise independent judgment, oversight, or informed consent. This is not metaphorical capture. This is a defense contractor operating a puppet chair of the Appropriations Committee.
+
+Granger's "fiscal conservative" brand makes the class analysis sharper. She opposed non-defense spending as wasteful government bloat. She voted against social programs, healthcare funding, and environmental regulation on grounds of fiscal responsibility. She then used the Appropriations Committee to funnel billions more than the Pentagon requested to a single defense contractor that funded her campaigns. The fiscal conservatism was never about reducing government spending. It was about redirecting government spending from public services to defense contractors. The ideology was the cover. The appropriation was the function.
 
 ---
 

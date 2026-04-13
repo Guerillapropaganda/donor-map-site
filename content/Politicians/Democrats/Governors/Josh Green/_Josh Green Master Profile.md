@@ -1,9 +1,9 @@
 ---
 title: "Josh Green Master Profile"
 type: politician
-content-readiness: draft
+content-readiness: ready
 central-thesis: "Josh Green represents a different political archetype than Abbott or Sanders: he is not a donor-captured politician in the traditional sense. Instead, Green embodies the donor-embedded expert — a politician whose professional expertise (medicine) ..."
-last-updated: 2026-04-09
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -177,6 +177,18 @@ Green's political identity is built around his physician background:
 The brand is politically valuable: it distinguishes him from career politicians, provides healthcare credibility, suggests compassion and expertise.
 
 The material question: does the brand translate to policy challenging healthcare industry interests? The evidence suggests no. Healthcare industry donors' interests are accommodated through tax relief, insurance company settlement negotiations, and FEMA contractor networks.
+
+---
+
+## Class Analysis
+
+Josh Green is the donor-embedded expert: a politician whose professional credentials provide ideological cover for industry accommodation. His physician background, 20+ years in emergency medicine, creates a political brand that implies he will challenge the healthcare system. The actual record shows the opposite. Green's signature healthcare achievement as governor is SB 1035, which exempted medical services from Hawaii's general excise tax. That exemption saves the healthcare industry $74 million per year. The physician-governor's biggest healthcare policy is a tax cut for healthcare providers. The same healthcare executives and physicians who donated $50,000+ to his 2021 campaign are the direct beneficiaries.
+
+The Maui wildfire response reveals the class dynamics with precision. Hawaiian Electric Company power lines were identified as the ignition source for the August 2023 fires that killed 101+ people and caused $5.5 billion in damages. HECO executives had donated $19,375 to Green between July 2022 and October 2023, including $4,000 from HECO President Shelee Kimura and $3,000+ from HEI CEO Scott Seu. Green negotiated a $4.037 billion settlement that capped HECO's liability at approximately $1.99 billion against $5.5 billion in actual damages. The utility company that started the fire avoided bankruptcy. The governor who received HECO executive donations negotiated the settlement that saved them.
+
+The tourism industry pipeline follows the same structure. Resort donors gave $12,000+ during 2020-2021: Jeff Stone of the Resort Group ($6,000), Kisan Jo of Prince Resorts ($3,000), Ben Rafter of Springboard ($2,000). The Maui Hotel and Lodging Association endorsed Green in 2022. After the wildfire, $6.3 million in state funding was released for tourism recovery campaigns while wildfire survivors awaited settlement payments. The tourism industry received state-funded recovery. The survivors waited.
+
+Hawaii's unique healthcare context makes the class analysis structural rather than personal. The employer mandate since 1974 means insurance companies are embedded deeper in Hawaii's economy than in any other state. UnitedHealth Group, Kaiser Permanente, and the Hawaii Health Systems Corporation are not just donors. They are the infrastructure. Green navigates these relationships through professional networks, not just political ones. His physician identity makes the accommodation invisible: of course a doctor supports the healthcare system. The question the brand prevents anyone from asking is whether "supporting the healthcare system" means challenging insurance company pricing or protecting it. Green's record answers clearly: he protects it.
 
 ---
 
