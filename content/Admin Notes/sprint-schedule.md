@@ -1041,6 +1041,41 @@ phase_1_tasks:
       added_adhoc: true
       notes: "donor-map-engine commit 9bff77d. shared.cjs manual redirect handling with maxRedirects. committee-pipeline.cjs reads frontmatter bioguide-id first, bypasses broken Congress.gov query API."
 
+    - id: cc_87
+      task: "Fix 6 checklist detection bugs + add structural quality checks + crash fix"
+      status: done
+      completed_date: 2026-04-12
+      added_adhoc: true
+      notes: "VerificationChecklist.tsx: committee marker, source diversity A+ overcount, heading H2-H4, contradiction editorial logic (914 false fails fixed), bills auto-block fallback, structural group tierBreakdown crash, bioguide raw frontmatter check."
+
+    - id: cc_88
+      task: "Feinstein deep dive + vault-wide structural fix (25 profiles)"
+      status: done
+      completed_date: 2026-04-12
+      added_adhoc: true
+      notes: "Feinstein rewrite (8 frontmatter fields, heading/callout fixes, revolving door section, bills 0->2211). scripts/fix-profile-structure.cjs: 14 party, 13 chamber, 116 headings, 27 callouts fixed across 25 profiles."
+
+    - id: cc_89
+      task: "Extract central-thesis frontmatter + backfill 79 bioguide IDs"
+      status: done
+      completed_date: 2026-04-12
+      added_adhoc: true
+      notes: "254 profiles got central-thesis: from body ## Central Thesis. 79 bioguide-id backfilled (65 cache + 26 manual for former members). 10 dupes safely blocked."
+
+    - id: cc_90
+      task: "Fix 12,918 edge type classifications + normalize 2,900 asymmetric edges"
+      status: done
+      completed_date: 2026-04-12
+      added_adhoc: true
+      notes: "Think tanks and lobbying firms misclassified as donor/entity in relationships.jsonl. Fixed by matching frontmatter type:. Result: think tank edges 0->960, K Street 0->449. Normalizer added 2,900 mirror edges. Total: 27,504. Per-profile artifact rebuilt."
+
+    - id: cc_91
+      task: "Ops polish batch: type colors, grid enrichment logic, donut tracks, StatsBar, revolving door, TypeBreakdown, VaultGrid sort, sidebar accessibility"
+      status: done
+      completed_date: 2026-04-12
+      added_adhoc: true
+      notes: "Raw bar red, donut tracks red, non-enrichable types skip pipeline warnings, StatsBar text fix, 7 missing type colors, TypeBreakdown filters clutter, VaultGrid defaults to readiness sort, sidebar SVG aria-hidden + focus refetch, revolving door heuristic widened."
+
     - id: cc_60
       task: "Phase 3 Part 3: /api/connections GET reads JSONL edge store"
       status: done
@@ -1383,7 +1418,7 @@ parser_guidance:
 
 ---
 
-**Schedule last updated: 2026-04-12 evening (cc_80-86 added: 476 profiles, 38 Class Analysis, 16K em dashes, Pipeline Health dashboard, 6 checklist bugs fixed, 5 structural checks added, Feinstein rewrite, 25 profiles structural fix, engine pipeline fixes.)**
+**Schedule last updated: 2026-04-12 late night (cc_87-91 added: checklist audit+fixes, Feinstein deep dive, central-thesis+bioguide backfill, 12,918 edge type reclassification, 2,900 asymmetric edges normalized, ops polish batch.)**
 **Current phase: phase_1 (Day 2 of 7)**
 **Next checkpoint: Phase 1 exit, 2026-04-16**
 **New data sources added 2026-04-11: FDA (pharma/device/food enforcement), OCC (national bank enforcement), FTC (mergers + historical enforcement). All three live in CI + Ops app.**
