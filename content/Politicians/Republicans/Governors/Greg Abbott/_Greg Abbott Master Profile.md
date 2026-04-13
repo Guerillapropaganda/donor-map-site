@@ -1,9 +1,9 @@
 ---
 title: "Greg Abbott Master Profile"
 type: politician
-content-readiness: draft
+content-readiness: ready
 central-thesis: "Abbott is the vault's clearest example of a fossil fuel governor — a politician whose donor base, policy agenda, and governing philosophy are dominated by a single industry. Of content-readiness: draft66 million raised across his career, approximately $30 million (18%)..."
-last-updated: 2026-03-24
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 party: "Republican"
@@ -96,6 +96,14 @@ The immigration enforcement apparatus (Operation Lone Star, border wall fund) is
 > The Abbott timeline shows fossil fuel donors funding deregulation, then profiting from the deregulation's catastrophic failure. Kelcy Warren's company made billions from energy price spikes during the 2021 blackout that killed 246+ Texans; Warren then donated $1M to Abbott. The donation was not corruption — it was payment for services rendered. Abbott's deregulated grid produced the crisis; the crisis produced the profit. The subsequent donation secured continuity.
 
 ---
+
+## Class Analysis
+
+Greg Abbott is the vault's clearest fossil fuel governor. Of $166 million raised across his career, approximately $30 million (18%) came directly from oil, gas, and energy interests. Four of his top ten individual donors are fossil fuel executives. His largest donor, Javaid Anwar, a Midland oilman, has given $2.4 million or more over his career, including $1.6 million in the latter half of 2025 alone. The donor base purchased deregulation of the Texas energy grid, and the deregulation delivered: in February 2021, ERCOT collapsed, 246 or more Texans died, and Kelcy Warren's Energy Transfer Partners made billions from the resulting energy price spikes. Warren then donated $1 million to Abbott. That donation was not a bribe. It was a receipt.
+
+The tort reform contradiction is the entry point. In 1984, a falling tree paralyzed Abbott during a jog. He sued and won a settlement paying $14,000 per month for life, over $6 million to date. As Attorney General, he championed tort reform that capped non-economic damages at $250,000 in medical malpractice cases, making it harder for ordinary Texans to win the kind of settlement that sustains his own lifestyle. The insurance companies and healthcare corporations that funded the tort reform agenda got reduced liability exposure. Abbott climbed the ladder and pulled it up behind him. This is the governing principle: transfer risk and cost downward while protecting upward capital flows.
+
+The immigration apparatus is the second donor pillar. Timothy Mellon's $53.1 million funded Operation Lone Star, an $11 billion-plus border militarization spending program with minimal documented impact on migration patterns. Busing migrants to Democratic cities is spectacle, not policy. The function is political: keep constituent attention on immigration so nobody asks why the Texas grid killed 246 people, or why the governor's fossil fuel donors profited from the failure. Two donor streams, fossil fuels and border militarization, produce the complete Abbott governing platform: deregulation of capital and militarization of the border.
 
 ## Analytical Patterns
 
