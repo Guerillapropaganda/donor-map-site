@@ -2,7 +2,7 @@
 title: "Valero Energy"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-12
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 sector: "Energy & Utilities"
@@ -35,7 +35,7 @@ federal-contracts-count: 25
 federal-grants-count: 0
 top-federal-agency: "Department of Defense"
 top-naics-code: "324110"
-related: "[[WSPA - Western States Petroleum Association]] · [[Occidental Petroleum]] · [[NextEra Energy]] · [[Marathon Petroleum]] · [[Halliburton]] · [[Devon Energy]] · [[PG&E - Pacific Gas and Electric]] · [[Koch Industries]] · [[ConocoPhillips]] · [[American Petroleum Institute]] · [[Chevron]] · [[ExxonMobil]] · [[Fossil Fuel Bloc]] · [[Western States Petroleum Association]] · [[_Steve Scalise Master Profile|Steve Scalise]] · [[Koch Network - Charles Koch|Koch Network]] · [[Southern Company]] · [[Duke Energy]] · [[Raytheon (RTX Corporation)]] · [[Palantir Technologies]] · [[Palantir Technologies Political Operation]] · [[Raytheon Technologies]] · [[Eli Lilly]] · [[Novo Nordisk]]"
+related: "[[WSPA - Western States Petroleum Association]] · [[Occidental Petroleum]] · [[NextEra Energy]] · [[Marathon Petroleum]] · [[Halliburton]] · [[Devon Energy]] · [[PG&E - Pacific Gas and Electric]] · [[Koch Industries]] · [[ConocoPhillips]] · [[American Petroleum Institute]] · [[Chevron]] · [[ExxonMobil]] · [[Fossil Fuel Bloc]] · [[Western States Petroleum Association]] · [[_Steve Scalise Master Profile|Steve Scalise]] · [[Koch Network - Charles Koch|Koch Network]] · [[Southern Company]] · [[Duke Energy]] · [[Raytheon (RTX Corporation)]] · [[Palantir Technologies]] · [[Palantir Technologies Political Operation]] · [[Raytheon Technologies]] · [[Eli Lilly]] · [[Novo Nordisk]] · [[Moderna]]"
 court-cases: 871
 court-jurisdictions:
   - "Court of Appeals for the D.C. Circuit"

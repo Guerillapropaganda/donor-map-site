@@ -2,7 +2,7 @@
 title: "K&L Gates"
 type: lobbying-firm
 content-readiness: ready
-last-updated: 2026-04-12
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 annual-revenue: "$20.8M (2025)"
@@ -22,7 +22,7 @@ fara-countries:
   - "JAPAN"
 lei: "984500BYEBE6DF7F5U39"
 lei-jurisdiction: "GB"
-related: "[[Fossil Fuel Bloc]] · [[_Lobbying Firms Framework]] · [[Ballard Partners]] · [[Prime Policy Group]] · [[Peck Madigan Jones (now Tiber Creek Group)]] · [[Crossroads Strategies]] · [[Forbes Tate Partners]] · [[Thorn Run Partners]] · [[Subject Matter (now Avoq)]] · [[Mehlman Consulting]] · [[Fierce Government Relations]] · [[Cornerstone Government Affairs]] · [[Cassidy & Associates]] · [[Capitol Counsel]] · [[Brownstein Hyatt Farber Schreck]] · [[BGR Group]] · [[Alpine Group]] · [[Akin Gump Strauss Hauer & Feld]] · [[Squire Patton Boggs]]"
+related: "[[Fossil Fuel Bloc]] · [[_Lobbying Firms Framework]] · [[Ballard Partners]] · [[Prime Policy Group]] · [[Peck Madigan Jones (now Tiber Creek Group)]] · [[Crossroads Strategies]] · [[Forbes Tate Partners]] · [[Thorn Run Partners]] · [[Subject Matter (now Avoq)]] · [[Mehlman Consulting]] · [[Fierce Government Relations]] · [[Cornerstone Government Affairs]] · [[Cassidy & Associates]] · [[Capitol Counsel]] · [[Brownstein Hyatt Farber Schreck]] · [[BGR Group]] · [[Alpine Group]] · [[Akin Gump Strauss Hauer & Feld]] · [[Squire Patton Boggs]] · [[Holland & Knight]]"
 sec-filings: 10000
 sec-form-types:
   - "8-K"

@@ -2,7 +2,7 @@
 title: "NextEra Energy"
 type: corporation
 content-readiness: draft
-last-updated: 2026-04-12
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 sector: "Energy & Utilities"
@@ -64,7 +64,7 @@ sec-form-types:
   - "S-3ASR"
   - "S-3D"
   - "SCHEDULE 13G/A"
-related: "[[Valero Energy]] · [[John Thune Master Profile]] · [[The McConnell Succession and the Majority Leader Fundraising Machine]] · [[ExxonMobil]] · [[Koch Industries]] · [[Fossil Fuel Bloc]] · [[WSPA - Western States Petroleum Association]] · [[Southern Company]] · [[PG&E - Pacific Gas and Electric]] · [[Occidental Petroleum]] · [[Marathon Petroleum]] · [[Palantir Technologies Political Operation]] · [[Raytheon Technologies]] · [[Instacart]]"
+related: "[[Valero Energy]] · [[John Thune Master Profile]] · [[The McConnell Succession and the Majority Leader Fundraising Machine]] · [[ExxonMobil]] · [[Koch Industries]] · [[Fossil Fuel Bloc]] · [[WSPA - Western States Petroleum Association]] · [[Southern Company]] · [[PG&E - Pacific Gas and Electric]] · [[Occidental Petroleum]] · [[Marathon Petroleum]] · [[Palantir Technologies Political Operation]] · [[Raytheon Technologies]] · [[Instacart]] · [[Uber]]"
 top-federal-agency: "Department of Defense"
 top-naics-code: "221112"
 cross-vault-triangulation-count: 8

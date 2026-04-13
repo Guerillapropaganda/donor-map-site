@@ -2,14 +2,14 @@
 title: "Americans for Tax Reform - Grover Norquist"
 type: donor
 content-readiness: draft
-last-updated: 2026-04-12
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 sector: "Dark Money"
 entity-type: "Individual Donor"
 issues:
   - "Dark Money & Campaign Finance"
-related: "[[US Chamber of Commerce]] · [[The Libertarian Brand and Donor Class Service]] · [[Stand Together]] · [[Club for Growth]] · [[Heritage Foundation]] · [[ALEC - American Legislative Exchange Council]] · [[Koch Industries]] · [[DeVos Family]] · [[National Education Association]] · [[Insurance Industry]] · [[Walton Family Foundation]] · [[American Federation for Children]] · [[Defense Contractors Bloc]] · [[Defense Industry]] · [[Defense Industry Bloc]]"
+related: "[[US Chamber of Commerce]] · [[The Libertarian Brand and Donor Class Service]] · [[Stand Together]] · [[Club for Growth]] · [[Heritage Foundation]] · [[ALEC - American Legislative Exchange Council]] · [[Koch Industries]] · [[DeVos Family]] · [[National Education Association]] · [[Insurance Industry]] · [[Walton Family Foundation]] · [[American Federation for Children]] · [[Defense Contractors Bloc]] · [[Defense Industry]] · [[Defense Industry Bloc]] · [[Western States Petroleum Association]]"
 known-gaps:
   - "No FEC contribution data"
   - "No lobbying disclosure data"
