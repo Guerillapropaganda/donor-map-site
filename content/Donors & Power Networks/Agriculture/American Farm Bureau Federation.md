@@ -319,16 +319,18 @@ The American Farm Bureau Federation is a case study in institutional identity fr
 
 | Metric | Value |
 |--------|-------|
-| Politicians Funded | 2 |
+| Politicians Funded | 3 |
 | Committee Overlap Detected | 2 politicians |
 
 **Lobby → Donate → Committee chains:**
 
 - Lobbies on **Agriculture** → Funds **Jodey Arrington** → Sits on **Agriculture**
+- Lobbies on **Budget/Appropriations** → Funds **Jodey Arrington** → Sits on **Budget**
 - Lobbies on **Agriculture** → Funds **Frank Lucas** → Sits on **Agriculture**
 
 **Funded politicians:**
 
+- [[Donald Trump]]
 - [[Jodey Arrington]] (Budget, Ways & Means, Agriculture)
 - [[Frank Lucas]] (Agriculture)
 

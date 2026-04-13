@@ -296,11 +296,13 @@ Arrington serves the oil and gas industry, corporate tax beneficiaries, and agri
 <!-- auto:influence-cross-ref start -->
 | Metric | Value |
 |--------|-------|
-| Donors Who Also Lobby | 1 of 1 |
-| Committee Overlap Detected | 1 donor |
+| Donors Who Also Lobby | 1 of 2 |
+| Committee Overlap Detected | 2 donors |
 
 **Donate → Lobby → Committee chains:**
 
+- **American Farm Bureau Federation** donates → Lobbies on **Agriculture** → This member sits on **Agriculture**
+- **American Farm Bureau Federation** donates → Lobbies on **Budget/Appropriations** → This member sits on **Budget**
 - **Heritage Foundation** donates → Lobbies on **Agriculture** → This member sits on **Agriculture**
 - **Heritage Foundation** donates → Lobbies on **Budget/Appropriations** → This member sits on **Budget**
 

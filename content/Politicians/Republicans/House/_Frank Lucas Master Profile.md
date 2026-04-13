@@ -378,11 +378,12 @@ Lucas is a third-generation rancher. His wealth is partially inherited, partiall
 
 | Metric | Value |
 |--------|-------|
-| Donors Who Also Lobby | 1 of 1 |
-| Committee Overlap Detected | 1 donor |
+| Donors Who Also Lobby | 1 of 2 |
+| Committee Overlap Detected | 2 donors |
 
 **Donate → Lobby → Committee chains:**
 
+- **American Farm Bureau Federation** donates → Lobbies on **Agriculture** → This member sits on **Agriculture**
 - **National Cattlemen's Beef Association** donates → Lobbies on **Agriculture** → This member sits on **Agriculture**
 
 **Donors who lobby (by spend):**

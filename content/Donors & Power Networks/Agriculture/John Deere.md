@@ -71,8 +71,8 @@ nonprofit-status: "501(c)(3)"
 total-revenue: 132817572
 total-assets: 220477766
 wikidata-id: "Q98642757"
-lobbying-spend: 1824623
-lobbying-filings: 133
+lobbying-spend: 1834623
+lobbying-filings: 134
 ---
 #deere #agriculture #manufacturing #right-to-repair #trade #tariffs #iowa
 
@@ -520,7 +520,7 @@ The political math is straightforward. John Deere's PAC contributes $1-2 million
 | Metric | Value |
 |--------|-------|
 | Total Lobbying Spend | $1.8M |
-| Quarterly Filings | 133 |
+| Quarterly Filings | 134 |
 | Year Range | 2024-2026 |
 | Lobbying Firms | 48 |
 | Individual Lobbyists | 0 |

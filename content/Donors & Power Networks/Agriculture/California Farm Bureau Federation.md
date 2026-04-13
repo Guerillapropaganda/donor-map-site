@@ -84,8 +84,8 @@ internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.
 The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 wikidata-id: "Q126731054"
 total-political-spend: "$891,442"
-lobbying-spend: 10689974
-lobbying-filings: 115
+lobbying-spend: 10762474
+lobbying-filings: 119
 ---
 #donor #agricultural-employer #farm-bureau #labor-opponent #immigration #H-2A #farmworkers #follow-the-money #california #lobbying #dual-opponent
 
@@ -419,8 +419,8 @@ The Farm Bureau's most revealing feature is what it does not do. It does not adv
 <!-- auto:lda-lobbying start -->
 | Metric | Value |
 |--------|-------|
-| Total Lobbying Spend | $10.7M |
-| Quarterly Filings | 115 |
+| Total Lobbying Spend | $10.8M |
+| Quarterly Filings | 119 |
 | Year Range | 2024-2026 |
 | Lobbying Firms | 54 |
 | Individual Lobbyists | 0 |
