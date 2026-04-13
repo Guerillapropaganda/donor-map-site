@@ -14,7 +14,70 @@ Both Code Claude and Research Claude update this at the end of every session. Re
 
 ## Last Session
 Claude: Code + Research
-Date: 2026-04-12 (full day marathon)
+Date: 2026-04-12 (full day marathon, continued late session)
+
+### Theme — Late Session (after earlier save)
+Checklist audit, pipeline fixes, Feinstein deep dive, relationship engine overhaul, ops polish. Fixed the verification checklist to accurately report profile status, fixed the donor-map-engine pipelines, rewrote 12,918 edge type classifications to reveal think tank and K Street connections, and polished the ops app.
+
+### Done — Checklist & Pipeline Fixes
+- **6 checklist detection bugs fixed** (`ops/src/components/VerificationChecklist.tsx`): committee marker mismatch, source diversity A+ overcount, heading depth H2-H4, contradiction logic, bills fallback, structural group crash fix.
+- **5 structural quality checks added**: party field, chamber field, bioguide-id for Congress, heading levels, callout syntax. New "STRUCTURAL QUALITY" group blocks ready promotion.
+- **Contradiction review logic fixed**: editorial `[!contradiction]` callouts in `## Core Contradiction` sections now auto-pass (914 profiles were false-failing).
+- **bioguide-id check** reads raw frontmatter instead of missing Profile interface field.
+- **donor-map-engine fixes** (`9bff77d`): fetchJson redirect loop protection, committee pipeline uses frontmatter bioguide-id first.
+
+### Done — Feinstein Deep Dive
+- Complete profile rewrite: 8 missing frontmatter fields added, all headings fixed (### to ##), callout syntax fixed, revolving door section added, legal review words cleaned, bills-sponsored updated (0 to 2,211 from pipeline).
+- **25 profiles fixed vault-wide** via `scripts/fix-profile-structure.cjs`: 14 party, 13 chamber, 116 heading fixes, 27 callout fixes.
+
+### Done — Relationship Engine Overhaul
+- **12,918 edge type classifications corrected** in `data/relationships.jsonl`. Think tanks and lobbying firms were misclassified as 'donor'/'entity'. Result: think tank edges 0 to 960, K Street edges 0 to 449.
+- **2,900 asymmetric edges normalized** via bidirectional normalizer. Total edges: 24,604 to 27,504.
+- **Per-profile artifact rebuilt** (`data/relationships-per-profile.json`): 1,747 profiles, 27,503 edges mapped.
+
+### Done — Ops App Polish
+- **Raw/missing bar color**: grey to red matching vault health donut.
+- **Donut track circles**: red (#ef4444) for unfilled portion.
+- **Grid enrichment warnings**: non-enrichable types (sub-notes, stories, events) no longer show "needs pipeline enrichment".
+- **StatsBar**: "Run reclassify first" changed to "0 verified, awaiting editorial sign-off".
+- **Revolving door heuristic widened**: husband/wife/married patterns, hired N government officials, former agency officials.
+- **TypeBreakdown**: filters out non-profile types, added state/local politician labels.
+- **VaultGrid default sort**: name to readiness (shows what needs work first).
+- **Type colors**: 7 missing types added (state-politician, local-politician, sub-note, daily-update, reference, index, methodology).
+- **Sidebar**: SVG aria-hidden, window focus refetch for badges.
+- **Duplicate GITHUB_TOKEN** in ops/.env.local removed (expired token was overriding working one).
+
+### Done — Data
+- **254 profiles** got central-thesis frontmatter extracted from body.
+- **79 bioguide IDs** backfilled (65 from cache + 26 manual for former members, 10 dupes blocked).
+- **3 enrichment pipeline runs** triggered (~200 profiles enriched).
+
+### Known issues / still outstanding
+- **44 dangling edge references** (entities in edges without profiles)
+- **928 monetary edges missing dollar amounts** (need FEC API integration into edge store)
+- **6 edge types defined but unused** (staffing, family, legal, media-appearance, affiliation, political-support)
+- **GovTrack shows 0 bills** for deceased/retired members (API limitation)
+- **1 voice-drift hard fail** remaining (banned AI vocabulary)
+
+### Next session priorities
+1. **Draft-to-ready promotions** on profiles now passing structural checks
+2. **More Class Analysis sections** (235+ still need them)
+3. **FEC monetary edge enrichment** (add amounts/cycles to 928 bare edges)
+4. **Create 44 missing profiles** referenced by dangling edges
+5. **Republican opposition edges** for new politician profiles
+
+### Session end state
+- **27,504 relationship edges** (was 24,604)
+- **960 think tank edges, 449 K Street edges** (was 0/0)
+- **Verification checklist accurate** across all profile types
+- **Enrichment pipeline running** (4x daily + overnight batch triggered)
+- **713 politician profiles** with bioguide IDs for pipeline pickup
+
+---
+
+## Previous Session
+Claude: Code + Research
+Date: 2026-04-12 (full day marathon, first save)
 
 ### Theme
 Vault expansion, system health, editorial depth, pipeline fixes, and checklist audit. Added 476 politician profiles, wrote 38 Class Analysis sections, stripped 16,805 em dashes, built Pipeline Health dashboard, fixed 6 checklist detection bugs, fixed 2 donor-map-engine pipeline bugs, ran 2 enrichment batches (~100 profiles enriched), and added structural quality checks to the verification checklist.
