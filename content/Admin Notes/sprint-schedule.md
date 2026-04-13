@@ -1362,6 +1362,26 @@ phase_3_tasks:
       status: in-progress
       notes: "Currently at 47% ready (932/1993). Need ~1,893 at ready. Remaining blockers: ~150 need Class Analysis, ~400 need pipeline enrichment, ~50 need defamation fixes."
 
+    - id: cc_p3_12
+      task: "Policy Battles page — searchable policy database tied to donor/politician vault"
+      status: pending
+      added_adhoc: true
+      notes: |
+        New content type: policy profiles. Each policy gets: plain-English explanation (non-partisan),
+        public support % vs political outcome gap, ranked culprits (donors/lobbyists blocking it with
+        dollar amounts), donation-to-vote timelines for politicians who took money and voted against,
+        zip code lookup connecting to Who Funds Your Rep. Cross-policy analysis showing same donors
+        appearing across multiple blocked policies. Money graph visualization per policy.
+        
+        MVP scope for sprint: 10-15 top policies (drug pricing, marijuana, minimum wage, climate,
+        antitrust, gun reform, housing, student debt, immigration reform, campaign finance reform).
+        Each as a markdown file with frontmatter in content/Policies/. Interactive page at
+        /interactive/policy-battles. Ties into existing vault profiles via wikilinks.
+        
+        Key insight: the policy page gives people a REASON to care about the donors. Nobody wakes up
+        angry about Koch Industries. But they wake up angry about insulin prices. The policy page
+        connects that anger to a name and a dollar amount. Creates the common enemy.
+
   david:
     - id: dc_p3_01
       task: "Legal sanity review — personally read top 20 verified profiles"
