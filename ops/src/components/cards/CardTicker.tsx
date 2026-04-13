@@ -54,8 +54,8 @@ export function CardTicker({ profile, headline, subtext, width, height }: Props)
             alignItems: "center",
             whiteSpace: "nowrap" as const,
           }}>
-            <span style={{ color: "#e4e4e7", fontSize: 10 * scale, fontWeight: 700 }}>{t.symbol}</span>
-            <span style={{ color: t.up ? "#22c55e" : "#ef4444", fontSize: 10 * scale }}>
+            <span style={{ color: "#e4e4e7", fontSize: 18 * scale, fontWeight: 700 }}>{t.symbol}</span>
+            <span style={{ color: t.up ? "#22c55e" : "#ef4444", fontSize: 18 * scale }}>
               {t.up ? "▲" : "▼"} {t.change}
             </span>
           </div>
@@ -72,7 +72,7 @@ export function CardTicker({ profile, headline, subtext, width, height }: Props)
       }}>
         <div style={{
           color: "#7a7a86",
-          fontSize: 10 * scale,
+          fontSize: 18 * scale,
           letterSpacing: "0.3em",
           marginBottom: 12 * scale,
         }}>
@@ -99,8 +99,8 @@ export function CardTicker({ profile, headline, subtext, width, height }: Props)
             <span style={{ color: "#22c55e", fontSize: Math.min(40 * scale, width * 0.045), fontWeight: 700 }}>
               {amount}
             </span>
-            <span style={{ color: "#22c55e", fontSize: 14 * scale }}>▲</span>
-            <span style={{ color: "#7a7a86", fontSize: 12 * scale }}>career total</span>
+            <span style={{ color: "#22c55e", fontSize: 18 * scale }}>▲</span>
+            <span style={{ color: "#7a7a86", fontSize: 20 * scale }}>career total</span>
           </div>
         )}
 
@@ -112,13 +112,13 @@ export function CardTicker({ profile, headline, subtext, width, height }: Props)
             padding: `${4 * scale}px ${12 * scale}px`,
             marginBottom: 12 * scale,
           }}>
-            <span style={{ color: "#ef4444", fontSize: 12 * scale, fontWeight: 700 }}>
+            <span style={{ color: "#ef4444", fontSize: 20 * scale, fontWeight: 700 }}>
               {String(stockTrades)} STOCK TRADES IN OFFICE
             </span>
           </div>
         )}
 
-        <div style={{ color: "#7a7a86", fontSize: 12 * scale, lineHeight: 1.4, maxWidth: "70%" }}>
+        <div style={{ color: "#7a7a86", fontSize: 20 * scale, lineHeight: 1.4, maxWidth: "70%" }}>
           {s}
         </div>
       </div>
@@ -135,10 +135,10 @@ export function CardTicker({ profile, headline, subtext, width, height }: Props)
         display: "flex",
         justifyContent: "space-between",
       }}>
-        <div style={{ color: "#fbbf24", fontSize: 9 * scale, fontWeight: 700, letterSpacing: "0.15em" }}>
+        <div style={{ color: "#fbbf24", fontSize: 13 * scale, fontWeight: 700, letterSpacing: "0.15em" }}>
           FOLLOW THE MONEY
         </div>
-        <div style={{ color: "#22c55e66", fontSize: 8 * scale }}>
+        <div style={{ color: "#22c55e66", fontSize: 20 * scale }}>
           DONOR MAP // thedonormap.org
         </div>
       </div>

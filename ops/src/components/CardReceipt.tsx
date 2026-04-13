@@ -78,12 +78,12 @@ export function CardReceipt({ profile, headline, subtext, width, height }: CardR
       }}>
         {/* Top */}
         <div style={{ display: "flex", justifyContent: "space-between", alignItems: "flex-start" }}>
-          <div style={{ color: "#22c55e", fontSize: 10 * scale, letterSpacing: "0.3em" }}>
+          <div style={{ color: "#22c55e", fontSize: 18 * scale, letterSpacing: "0.3em" }}>
             TRANSACTION RECORD
           </div>
           <div style={{
             color: "#22c55e",
-            fontSize: 9 * scale,
+            fontSize: 13 * scale,
             fontWeight: 700,
             letterSpacing: "0.15em",
             border: "1px solid #22c55e44",
@@ -118,7 +118,7 @@ export function CardReceipt({ profile, headline, subtext, width, height }: CardR
           {topDonor && (
             <div style={{ display: "flex", gap: 8 * scale, alignItems: "center" }}>
               <div style={{ width: 16 * scale, height: 1, backgroundColor: "#22c55e" }} />
-              <span style={{ color: "#7a7a86", fontSize: 11 * scale }}>
+              <span style={{ color: "#7a7a86", fontSize: 15 * scale }}>
                 {topDonor}
               </span>
             </div>
@@ -128,16 +128,16 @@ export function CardReceipt({ profile, headline, subtext, width, height }: CardR
         {/* Bottom */}
         <div style={{ display: "flex", justifyContent: "space-between", alignItems: "flex-end" }}>
           <div>
-            <div style={{ color: "#fbbf24", fontSize: 11 * scale, fontWeight: 700, letterSpacing: "0.15em" }}>
+            <div style={{ color: "#fbbf24", fontSize: 15 * scale, fontWeight: 700, letterSpacing: "0.15em" }}>
               FOLLOW THE MONEY
             </div>
-            <div style={{ color: "#7a7a86", fontSize: 9 * scale, marginTop: 3 * scale }}>
+            <div style={{ color: "#7a7a86", fontSize: 13 * scale, marginTop: 3 * scale }}>
               thedonormap.org
             </div>
           </div>
           <div style={{
             color: "#ef4444",
-            fontSize: 9 * scale,
+            fontSize: 13 * scale,
             fontWeight: 700,
             letterSpacing: "0.15em",
             border: "1px solid #ef444466",

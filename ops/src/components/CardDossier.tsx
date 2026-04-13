@@ -85,7 +85,7 @@ export function CardDossier({ profile, headline, subtext, width, height, imageUr
         <div style={{ display: "flex", justifyContent: "space-between", alignItems: "flex-start" }}>
           <div style={{
             color: "#fbbf24",
-            fontSize: 10 * scale,
+            fontSize: 18 * scale,
             fontWeight: 700,
             letterSpacing: "0.3em",
             textTransform: "uppercase" as const,
@@ -94,7 +94,7 @@ export function CardDossier({ profile, headline, subtext, width, height, imageUr
           </div>
           <div style={{
             color: "#ef4444",
-            fontSize: 9 * scale,
+            fontSize: 13 * scale,
             fontWeight: 700,
             letterSpacing: "0.2em",
             border: "1px solid #ef4444",
@@ -137,7 +137,7 @@ export function CardDossier({ profile, headline, subtext, width, height, imageUr
                 height: 1,
                 backgroundColor: "#fbbf24",
               }} />
-              <span style={{ color: "#7a7a86", fontSize: 11 * scale, letterSpacing: "0.1em" }}>
+              <span style={{ color: "#7a7a86", fontSize: 15 * scale, letterSpacing: "0.1em" }}>
                 TOP DONOR: <span style={{ color: "#e4e4e7", fontWeight: 700 }}>{topDonor}</span>
               </span>
             </div>
@@ -146,7 +146,7 @@ export function CardDossier({ profile, headline, subtext, width, height, imageUr
           {s && (
             <div style={{
               color: "#7a7a86",
-              fontSize: 12 * scale,
+              fontSize: 20 * scale,
               lineHeight: 1.4,
               maxWidth: "75%",
               marginTop: 12 * scale,
@@ -164,13 +164,13 @@ export function CardDossier({ profile, headline, subtext, width, height, imageUr
         }}>
           <div style={{
             color: "#fbbf24",
-            fontSize: 11 * scale,
+            fontSize: 15 * scale,
             fontWeight: 700,
             letterSpacing: "0.15em",
           }}>
             FOLLOW THE MONEY
           </div>
-          <div style={{ color: "#7a7a86", fontSize: 9 * scale }}>
+          <div style={{ color: "#7a7a86", fontSize: 13 * scale }}>
             thedonormap.org
           </div>
         </div>

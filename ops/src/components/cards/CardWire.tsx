@@ -53,7 +53,7 @@ export function CardWire({ profile, headline, subtext, width, height }: Props) {
         {dataLines.map((line, i) => (
           <div key={i} style={{
             color: "#22c55e",
-            fontSize: 9 * scale,
+            fontSize: 13 * scale,
             lineHeight: 2.2,
             letterSpacing: "0.05em",
           }}>
@@ -80,7 +80,7 @@ export function CardWire({ profile, headline, subtext, width, height }: Props) {
       }}>
         <div style={{
           color: "#22c55e",
-          fontSize: 10 * scale,
+          fontSize: 18 * scale,
           letterSpacing: "0.3em",
           marginBottom: 12 * scale,
         }}>
@@ -111,7 +111,7 @@ export function CardWire({ profile, headline, subtext, width, height }: Props) {
 
         <div style={{
           color: "#22c55e88",
-          fontSize: 12 * scale,
+          fontSize: 20 * scale,
           lineHeight: 1.5,
           maxWidth: "70%",
         }}>
@@ -132,10 +132,10 @@ export function CardWire({ profile, headline, subtext, width, height }: Props) {
         justifyContent: "space-between",
         zIndex: 2,
       }}>
-        <div style={{ color: "#22c55e", fontSize: 9 * scale, letterSpacing: "0.1em" }}>
+        <div style={{ color: "#22c55e", fontSize: 13 * scale, letterSpacing: "0.1em" }}>
           DONOR MAP // OPEN-SOURCE INTELLIGENCE
         </div>
-        <div style={{ color: "#22c55e66", fontSize: 8 * scale }}>
+        <div style={{ color: "#22c55e66", fontSize: 20 * scale }}>
           thedonormap.org
         </div>
       </div>

@@ -68,7 +68,7 @@ export function CardWeb({ profile, headline, subtext, width, height }: Props) {
             top: y,
             transform: `translate(${isRight ? 0 : -100}%, -50%)`,
             color: "#7a7a86",
-            fontSize: 9 * scale,
+            fontSize: 13 * scale,
             whiteSpace: "nowrap" as const,
             maxWidth: 150 * scale,
             overflow: "hidden",
@@ -91,7 +91,7 @@ export function CardWeb({ profile, headline, subtext, width, height }: Props) {
         justifyContent: "space-between",
         zIndex: 2,
       }}>
-        <div style={{ color: "#fbbf24", fontSize: 10 * scale, letterSpacing: "0.3em" }}>
+        <div style={{ color: "#fbbf24", fontSize: 18 * scale, letterSpacing: "0.3em" }}>
           CONNECTION MAP
         </div>
 
@@ -105,16 +105,16 @@ export function CardWeb({ profile, headline, subtext, width, height }: Props) {
           }}>
             {h}
           </div>
-          <div style={{ color: "#7a7a86", fontSize: 12 * scale, lineHeight: 1.4 }}>
+          <div style={{ color: "#7a7a86", fontSize: 20 * scale, lineHeight: 1.4 }}>
             {s}
           </div>
         </div>
 
         <div style={{ display: "flex", justifyContent: "space-between", alignItems: "flex-end" }}>
-          <div style={{ color: "#fbbf24", fontSize: 10 * scale, fontWeight: 700, letterSpacing: "0.15em" }}>
+          <div style={{ color: "#fbbf24", fontSize: 18 * scale, fontWeight: 700, letterSpacing: "0.15em" }}>
             FOLLOW THE MONEY
           </div>
-          <div style={{ color: "#7a7a86", fontSize: 8 * scale }}>thedonormap.org</div>
+          <div style={{ color: "#7a7a86", fontSize: 20 * scale }}>thedonormap.org</div>
         </div>
       </div>
     </div>

@@ -51,7 +51,7 @@ export function CardBothSides({ profile, headline, subtext, width, height }: Pro
         </div>
         <div style={{
           color: "#ffffff",
-          fontSize: 16 * scale,
+          fontSize: 20 * scale,
           fontWeight: 700,
           letterSpacing: "0.1em",
           textAlign: "right" as const,
@@ -88,7 +88,7 @@ export function CardBothSides({ profile, headline, subtext, width, height }: Pro
         </div>
         <div style={{
           color: "#ffffff",
-          fontSize: 16 * scale,
+          fontSize: 20 * scale,
           fontWeight: 700,
           letterSpacing: "0.1em",
           position: "relative",
@@ -113,7 +113,7 @@ export function CardBothSides({ profile, headline, subtext, width, height }: Pro
       }}>
         <div style={{
           color: "#fbbf24",
-          fontSize: 10 * scale,
+          fontSize: 18 * scale,
           letterSpacing: "0.3em",
           marginBottom: 8 * scale,
         }}>
@@ -130,7 +130,7 @@ export function CardBothSides({ profile, headline, subtext, width, height }: Pro
         </div>
         <div style={{
           color: "#a0a0a8",
-          fontSize: 12 * scale,
+          fontSize: 20 * scale,
           lineHeight: 1.4,
         }}>
           {s}
@@ -149,10 +149,10 @@ export function CardBothSides({ profile, headline, subtext, width, height }: Pro
         justifyContent: "space-between",
         zIndex: 3,
       }}>
-        <div style={{ color: "#fbbf24", fontSize: 9 * scale, fontWeight: 700, letterSpacing: "0.15em" }}>
+        <div style={{ color: "#fbbf24", fontSize: 13 * scale, fontWeight: 700, letterSpacing: "0.15em" }}>
           FOLLOW THE MONEY
         </div>
-        <div style={{ color: "#7a7a86", fontSize: 8 * scale }}>thedonormap.org</div>
+        <div style={{ color: "#7a7a86", fontSize: 20 * scale }}>thedonormap.org</div>
       </div>
     </div>
   )

@@ -71,7 +71,7 @@ export function CardPipeline({ profile, headline, subtext, width, height }: Prop
                 left: pipeX - 3,
                 top: 20 * scale,
                 color: "#fbbf2444",
-                fontSize: 14 * scale,
+                fontSize: 18 * scale,
               }}>
                 ▼
               </div>
@@ -80,7 +80,7 @@ export function CardPipeline({ profile, headline, subtext, width, height }: Prop
             <div style={{ marginLeft: pipeX + 30 * scale }}>
               <div style={{
                 color: stage.color,
-                fontSize: 9 * scale,
+                fontSize: 13 * scale,
                 letterSpacing: "0.3em",
                 marginBottom: 3 * scale,
               }}>
@@ -112,10 +112,10 @@ export function CardPipeline({ profile, headline, subtext, width, height }: Prop
         display: "flex",
         justifyContent: "space-between",
       }}>
-        <div style={{ color: "#fbbf24", fontSize: 10 * scale, fontWeight: 700, letterSpacing: "0.2em" }}>
+        <div style={{ color: "#fbbf24", fontSize: 18 * scale, fontWeight: 700, letterSpacing: "0.2em" }}>
           THE MONEY PIPELINE
         </div>
-        <div style={{ color: "#ef4444", fontSize: 9 * scale, fontWeight: 700, letterSpacing: "0.15em", border: "1px solid #ef444466", padding: `${2 * scale}px ${6 * scale}px` }}>
+        <div style={{ color: "#ef4444", fontSize: 13 * scale, fontWeight: 700, letterSpacing: "0.15em", border: "1px solid #ef444466", padding: `${2 * scale}px ${6 * scale}px` }}>
           DONOR MAP
         </div>
       </div>
@@ -130,10 +130,10 @@ export function CardPipeline({ profile, headline, subtext, width, height }: Prop
         display: "flex",
         justifyContent: "space-between",
       }}>
-        <div style={{ color: "#fbbf24", fontSize: 10 * scale, fontWeight: 700, letterSpacing: "0.15em" }}>
+        <div style={{ color: "#fbbf24", fontSize: 18 * scale, fontWeight: 700, letterSpacing: "0.15em" }}>
           FOLLOW THE MONEY
         </div>
-        <div style={{ color: "#7a7a86", fontSize: 8 * scale }}>thedonormap.org</div>
+        <div style={{ color: "#7a7a86", fontSize: 20 * scale }}>thedonormap.org</div>
       </div>
     </div>
   )
