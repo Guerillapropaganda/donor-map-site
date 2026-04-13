@@ -137,24 +137,44 @@ async function getSenateSession() {
   if (!csrfToken) throw new Error('No CSRF token found');
   log(`  CSRF: ${csrfToken.slice(0, 12)}...`);
 
-  // Accept agreement
+  // Accept agreement — returns 302 redirect but sets the session cookie we need.
+  // We must NOT follow the redirect (it loops to home). Just capture the cookie.
   await rateLimiter.wait();
   try {
-    await httpRequest('https://efdsearch.senate.gov/search/home/', {
-      method: 'POST',
-      headers: {
-        'Content-Type': 'application/x-www-form-urlencoded',
-        'Cookie': cookies,
-        'Referer': 'https://efdsearch.senate.gov/search/home/',
-        'X-CSRFToken': csrfToken,
-      },
-      body: `csrfmiddlewaretoken=${encodeURIComponent(csrfToken)}&prohibition_agreement=1`,
+    await new Promise((resolve, reject) => {
+      const parsed = new URL('https://efdsearch.senate.gov/search/home/');
+      const body = `csrfmiddlewaretoken=${encodeURIComponent(csrfToken)}&prohibition_agreement=1`;
+      const req = https.request({
+        hostname: parsed.hostname, path: parsed.pathname, method: 'POST',
+        headers: {
+          'Content-Type': 'application/x-www-form-urlencoded',
+          'Content-Length': Buffer.byteLength(body),
+          'Cookie': cookies,
+          'Referer': 'https://efdsearch.senate.gov/search/home/',
+          'X-CSRFToken': csrfToken,
+          'User-Agent': 'TheDonorMap/1.0 (open-source political research; thedonormap.org)',
+        },
+      }, (res) => {
+        // Capture any new cookies from the 302 response
+        const newCookies = res.headers['set-cookie'] || [];
+        for (const c of (Array.isArray(newCookies) ? newCookies : [newCookies])) {
+          const part = c.split(';')[0];
+          if (!cookies.includes(part.split('=')[0])) cookies += '; ' + part;
+        }
+        res.resume(); // drain the response
+        resolve();
+      });
+      req.on('error', reject);
+      req.setTimeout(30000, () => { req.destroy(); reject(new Error('Timeout')); });
+      req.write(body);
+      req.end();
     });
-    log('  Agreement accepted');
+    log('  Agreement accepted (session cookie set)');
   } catch (err) {
     log(`  Agreement POST failed (${err.message}) - continuing anyway`);
   }
 
+  log(`  Session cookies: ${cookies.slice(0, 60)}...`);
   return { csrfToken, cookies };
 }
 
