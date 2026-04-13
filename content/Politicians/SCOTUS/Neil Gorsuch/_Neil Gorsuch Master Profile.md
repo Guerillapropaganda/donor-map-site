@@ -96,6 +96,18 @@ Neil M. Gorsuch. Associate Justice, U.S. Supreme Court (2017–present). First T
 
 ---
 
+## Class Analysis
+
+Neil Gorsuch is the donor class's most expensive judicial investment, and the returns have been extraordinary. Mitch McConnell held Antonin Scalia's seat open for 293 days. Leonard Leo selected the replacement through the Federalist Society pipeline. The Judicial Crisis Network spent $10 million-plus in anonymous dark money on confirmation advertising, 75% of it traceable to a single $17 million anonymous donation. In 2022, Barre Seid donated $1.6 billion to Leo's Marble Freedom Trust, the largest known donation to a political advocacy group in American history. The investment thesis: capture the Supreme Court to dismantle the regulatory state and weaken collective worker power. Gorsuch has delivered on both.
+
+Epic Systems Corp. v. Lewis (2018): Gorsuch authored the 5-4 majority blocking workers from filing class action lawsuits against employers, forcing them into individual arbitration where corporations hold structural advantage. West Virginia v. EPA (2022): Gorsuch concurred grounding the "major questions doctrine" that limits regulatory agency authority. Loper Bright Enterprises v. Raimondo (2024): Gorsuch celebrated placing a "tombstone on Chevron," ending 40 years of judicial deference to expert agencies. The three rulings form a coherent class project. Strip workers of collective legal power. Limit the government's ability to regulate corporations. Remove the courts' deference to the agencies that enforce regulations. Each ruling serves the same constituency: the asset-owning class that funds Leo's network.
+
+The multi-generational dimension makes the class reproduction visible. Anne Gorsuch Burford, Neil Gorsuch's mother, served as Reagan's EPA administrator from 1981 to 1983. She cut the EPA budget 22%, slashed staff 20%, and became the first cabinet-level official held in contempt of Congress for refusing to turn over Superfund enforcement documents. Mother attacked regulation from inside the executive branch. Son dismantles regulatory authority from the judicial branch. The deregulation pipeline spans 40 years and two branches of government. This is not inherited ideology. It is class reproduction: the Gorsuch family occupies positions of power that serve the same donor-class interests across decades.
+
+Bostock v. Clayton County (2020) provides the libertarian cover. Gorsuch authored the 6-3 majority extending Title VII workplace protections to LGBTQ workers through literal textual reading. The ruling is genuinely significant. It also functions as brand insurance for an overwhelmingly pro-business, anti-worker, anti-regulatory record. The textualism is real. So is who it serves. Nine days after confirmation, Gorsuch sold Colorado property to the CEO of Greenberg Traurig, a law firm with regular Supreme Court practice. He then participated in 12 of their subsequent 22 cases, siding with their clients in 8. The Court's financial disclosure system is designed not to catch these conflicts. That is also the point.
+
+---
+
 ## Analytical Patterns
 
 **The Stolen Seat as Founding Illegitimacy:** Every Gorsuch ruling carries the structural weight of the Garland blockade. McConnell held the seat open for 293 days — an unprecedented exercise of raw political power — so that Leo's Federalist Society pipeline could fill it with a donor-class-aligned justice. Gorsuch's jurisprudence may be intellectually coherent, but it operates from a seat obtained through constitutional hardball that fundamentally altered the Court's composition. Every 5-4 ruling in which Gorsuch provides the fifth vote is a ruling that would have gone the other way with Garland.

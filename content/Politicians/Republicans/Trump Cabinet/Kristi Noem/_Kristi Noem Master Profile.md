@@ -1,9 +1,9 @@
 ---
 title: "Kristi Noem"
 type: politician
-content-readiness: draft
+content-readiness: ready
 central-thesis: "Noem's career traces the arc of a donor-class politician who confused personal brand-building with governance. Her COVID-era refusal to lock down was funded by libertarian donors and amplified by conservative media into a national brand. That bran..."
-last-updated: "2026-04-05"
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 party: "Republican"
@@ -91,6 +91,14 @@ Noem built a national profile on anti-government libertarianism — "South Dakot
 Congressional Democrats probed companies awarded the $220M ad contract for ties to both Noem and Corey Lewandowski, the former Trump campaign manager who served as an informal advisor to Noem. Reports of a personal relationship between Noem and Lewandowski added another layer to the scandal — the ad contracts benefited a network of political operatives connected through personal and professional relationships.
 
 ---
+
+## Class Analysis
+
+Kristi Noem's career is a case study in how the donor class builds and discards political brands. The construction phase was COVID. Libertarian donors and the Koch Network needed a governor willing to reject public health restrictions, and Noem volunteered South Dakota as the test case. No lockdowns, no mask mandates, businesses open. The donor class got their preferred pandemic policy. Noem got a national brand, invitations to donor retreats, and a path to the Cabinet. The cost was borne by South Dakotans: the state had one of the highest per-capita COVID death rates in America. The people who funded the "freedom" experiment did not live in the state where the experiment ran.
+
+The DHS appointment was the brand's dividend. But Noem treated a Cabinet position the way she treated the governorship: as a platform for personal promotion funded by other people's money. The $220 million taxpayer-funded advertising campaign featured Noem herself on horseback at Mount Rushmore. Hair and makeup cost $4,000. Horse rental cost $20,000. The contracts went through no-bid channels to firms connected to her political operation, including the Strategy Group run by Ben Yoho, husband of her former DHS press secretary. The dark money pattern from her governorship ($80,000 routed through a Delaware company from an undisclosed nonprofit) repeated at federal scale: the same instinct to convert public resources into personal brand equity, just with more zeros.
+
+The firing tells the class story most clearly. Trump did not fire Noem for the corruption. He fired her for testifying before the Senate that Trump had personally approved the ad campaign. The donor class tolerates graft. It does not tolerate public accountability directed upward. Noem broke the cardinal rule of patronage: she pointed at the patron. Markwayne Mullin replaced her within days. The brand was discarded, the machine continued, and the $220 million in taxpayer money was already spent.
 
 ## Analytical Patterns
 
