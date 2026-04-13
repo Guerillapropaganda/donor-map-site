@@ -112,7 +112,7 @@ Bianco is a direct foil to Newsom on several policy areas already documented:
 
 **COVID:** His COVID defiance played directly against Newsom's mandates — documented partially in [[COVID School Closures - Learning Loss and Class Division]]. The sheriffs who refused enforcement are part of the story of why mandates failed unevenly across California.
 
-**Criminal Justice:** Bianco's relationship with the jail system and law enforcement unions connects to the [[CCPOA - California Correctional Peace Officers Association|CCPOA]] dynamic documented in [[CCPOA - The Prison Guard Donor and the Reform Ceiling]]. Different union, same structural pattern: a law enforcement union purchasing political protection for its members against oversight.
+**justice system:** Bianco's relationship with the jail system and law enforcement unions connects to the [[CCPOA - California Correctional Peace Officers Association|CCPOA]] dynamic documented in [[CCPOA - The Prison Guard Donor and the Reform Ceiling]]. Different union, same structural pattern: a law enforcement union purchasing political protection for its members against oversight.
 
 ---
 

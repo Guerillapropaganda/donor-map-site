@@ -1,8 +1,8 @@
 ---
 title: "House Freedom Caucus"
 type: donor
-content-readiness: draft
-last-updated: 2026-04-12
+content-readiness: ready
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 sector: "Dark Money"
@@ -177,7 +177,7 @@ The counter-funding dynamic — where Chamber of Commerce, AIPAC, and Main Stree
 | Lobbying Firms | 37 |
 | Individual Lobbyists | 0 |
 
-**Issues lobbied:** Agriculture, Banking, Budget/Appropriations, Chemicals/Chemical Industry, Communications/Broadcasting/Radio/TV, Consumer Issues/Safety/Products, Copyright/Patent/Trademark, Defense, Economics/Economic Development, Environment/Superfund, Family issues/Abortion/Adoption, Foreign Relations, Government Issues, Health Issues, Housing, Law Enforcement/Crime/Criminal Justice, Manufacturing, Medicare/Medicaid, Natural Resources, Postal, Science/Technology, Taxation/Internal Revenue Code, Trade (domestic/foreign), Welfare
+**Issues lobbied:** Agriculture, Banking, Budget/Appropriations, Chemicals/Chemical Industry, Communications/Broadcasting/Radio/TV, Consumer Issues/Safety/Products, Copyright/Patent/Trademark, Defense, Economics/Economic Development, Environment/Superfund, Family issues/Abortion/Adoption, Foreign Relations, Government Issues, Health Issues, Housing, Law Enforcement/Crime/justice system, Manufacturing, Medicare/Medicaid, Natural Resources, Postal, Science/Technology, Taxation/Internal Revenue Code, Trade (domestic/foreign), Welfare
 
 **Lobbying firms:** AMELIORATE LLC, ARENTFOX SCHIFF LLP, BOSE PUBLIC AFFAIRS GROUP, BROWNSTEIN HYATT FARBER SCHRECK, LLP, CAPITOL PATH CONSULTING LLC FKA CULTON CONSULTING LLC, CATALYST GLOBAL STRATEGIES, LLC, CORNERSTONE GOVERNMENT AFFAIRS, INC., COVENANT HOUSE, CROSSROADS STRATEGIES, LLC, DUNHAM LAW & POLICY PLLC, FOLEY & LARDNER LLP, FORBES-TATE, HARPER & BAILEY GOVERNMENTAL SOLUTIONS LLC, HOLLAND & KNIGHT LLP, HOUSEHOLD & COMMERCIAL PRODUCTS ASSOCIATION, ICE MILLER LLP, ICE MILLER STRATEGIES LLC, INVARIANT LLC, KYLE HOUSE GROUP, LARKIN HOFFMAN, LNE GROUP, MARSHALL & POPP, LLC, MCGUIREWOODS CONSULTING (A SUBSIDIARY OF MCGUIREWOODS LLP), MONUMENT ADVOCACY, MORRISSEY STRATEGIC PARTNERS, LLC, NORTH STAR STRATEGIES, LLC, O'HARA FEDERAL STRATEGIES, LLC, PREST PUBLIC STRATEGIES, LLC, PRIME POLICY GROUP, PROVIDENCE HOUSE, SKYLINE CAPITOL LLC, SULLIVAN & CROMWELL LLP, THE BRIGHTUP GROUP LLC, THE VOGEL GROUP, UNCORKED ADVOCATES, WINNING STRATEGIES WASHINGTON, WOOLF STRATEGIC SOLUTIONS GROUP
 

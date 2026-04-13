@@ -15,7 +15,7 @@ donors: [[GEO Group - Private Prisons|GEO Group]] · [[CoreCivic - Private Priso
 
 ### Purpose of This Note
 
-Maps the donor interests that shape Trump's criminal justice and DOJ policy. Two distinct donor streams operate here. First, the private prison and detention industry that benefits from expanded incarceration and immigration enforcement. Second, the individual pardon seekers whose donations correlate with clemency grants. The first is structural. The second is transactional.
+Maps the donor interests that shape Trump's justice system and DOJ policy. Two distinct donor streams operate here. First, the private prison and detention industry that benefits from expanded incarceration and immigration enforcement. Second, the individual pardon seekers whose donations correlate with clemency grants. The first is structural. The second is transactional.
 
 ---
 

@@ -51,7 +51,7 @@ Thompson is 65% PAC-funded — one of the highest PAC-dependency ratios in the H
 
 ## The Central Thesis
 
-Bennie Thompson is the civil rights organizer who became the surveillance state's Democratic gatekeeper. His career arc — from SNCC activism to chairing the committee that oversees DHS, TSA, ICE, and CBP — is a map of how the Democratic Party absorbed civil rights energy into institutional management. Thompson doesn't dismantle the surveillance apparatus. He manages it. His committee approves the budgets, oversees the contracts, and shapes the legislation that determines how much power DHS has and who it targets. The January 6th investigation was his highest-profile moment — genuine accountability work that also demonstrated the limits of congressional investigation (criminal referrals but no structural reform of the agencies that failed).
+Bennie Thompson is the civil rights organizer who became the surveillance state's Democratic gatekeeper. His career arc — from SNCC activism to chairing the committee that oversees DHS, TSA, ICE, and CBP — is a map of how the Democratic Party absorbed civil rights energy into institutional management. Thompson doesn't dismantle the surveillance apparatus. He manages it. His committee approves the budgets, oversees the contracts, and shapes the legislation that determines how much power DHS has and who it targets. The January 6th investigation was his highest-profile moment — genuine accountability work that also demonstrated the limits of congressional investigation (referrals but no structural reform of the agencies that failed).
 
 ---
 
@@ -105,15 +105,15 @@ Homeland Security Committee jurisdiction includes DHS ($60B+ budget), TSA, FEMA,
 |------|------|-------|-------|--------|-----|
 | 2021 | ROLE | Appointed January 6th Select Committee Chair | — | — | — |
 | 2021-2022 | ← ACTION | 10 public hearings, 1,000+ witness interviews | — | — | — |
-| 2022 | ← ACTION | Committee refers Trump for criminal prosecution (4 charges) | — | — | — |
+| 2022 | ← ACTION | Committee refers Trump for prosecution (4 charges) | — | — | — |
 | 2023 | ← OUTCOME | Final report released; no structural DHS/Capitol Police reform passed | — | — | — |
-| 2023 | ← NOTE | Investigation produced accountability theater — criminal referrals but no institutional reform of the agencies that failed on January 6th | — | — | — |
+| 2023 | ← NOTE | Investigation produced accountability theater — referrals but no institutional reform of the agencies that failed on January 6th | — | — | — |
 
 ---
 
 ## Analytical Patterns
 
-**Genuine Win + Structural Limit:** The January 6th investigation was genuine — the hearings produced real evidence, real criminal referrals, and real public accountability. But the structural limit is that the investigation produced no reform of DHS, Capitol Police, or the intelligence failures that allowed the breach. The committee investigated the event without reforming the institutions. Thompson's other legislative work follows the same pattern: genuine oversight that stops short of structural change to the homeland security apparatus.
+**Genuine Win + Structural Limit:** The January 6th investigation was genuine — the hearings produced real evidence, real referrals, and real public accountability. But the structural limit is that the investigation produced no reform of DHS, Capitol Police, or the intelligence failures that allowed the breach. The committee investigated the event without reforming the institutions. Thompson's other legislative work follows the same pattern: genuine oversight that stops short of structural change to the homeland security apparatus.
 
 **Revolving Door (institutional version):** Thompson didn't personally revolve between government and industry. But his committee is the revolving door's busiest terminal. DHS officials cycle to homeland security contractors and back. Thompson's committee oversees this ecosystem and is funded by it. The 434 lobbying organizations are the revolving door's client list.
 

@@ -50,7 +50,7 @@ See [[Financial Services Donors]], [[Securities & Investment Industry]], and [[G
 | Lobbying Firms | 15 |
 | Individual Lobbyists | 0 |
 
-**Issues lobbied:** Aviation/Airlines/Airports, Budget/Appropriations, Defense, Education, Financial Institutions/Investments/Securities, Government Issues, Health Issues, Labor Issues/Antitrust/Workplace, Law Enforcement/Crime/Criminal Justice, Manufacturing, Natural Resources, Retirement, Taxation/Internal Revenue Code, Trade (domestic/foreign), Transportation
+**Issues lobbied:** Aviation/Airlines/Airports, Budget/Appropriations, Defense, Education, Financial Institutions/Investments/Securities, Government Issues, Health Issues, Labor Issues/Antitrust/Workplace, Law Enforcement/Crime/justice system, Manufacturing, Natural Resources, Retirement, Taxation/Internal Revenue Code, Trade (domestic/foreign), Transportation
 
 **Lobbying firms:** BALLARD SPAHR LLP, BARNES & THORNBURG, LLP, BROYDRICK & ASSOCIATES, CAPITOL PATH CONSULTING LLC FKA CULTON CONSULTING LLC, DESIMONE CONSULTING, LLC, HOLLAND & KNIGHT LLP, LONGBOW PUBLIC POLICY GROUP, LLC, LSN PARTNERS, LLC, MR. KEITH WALLINGTON, ROB WALLACE GROUP, LLC, STRATEGIC CAPITOL GROUP, LLC, SUMMIT STRATEGIES GOVERNMENT AFFAIRS LLC, TUSK STRATEGIES, LLC, WALLER CONSULTING LLC, WHEAT SHROYER GOVERNMENT RELATIONS LLC
 

@@ -25,7 +25,7 @@ The DREAM Act's failure is not Durbin's failure — it is the structural impossi
 
 ### Judiciary Committee Leadership
 
-As Judiciary Committee chair, Durbin oversees the most consequential jurisdiction in the Senate: federal judicial confirmations, immigration law, criminal justice, antitrust, and constitutional rights. The Biden administration confirmed 234 federal judges (2021-2024) through Durbin's committee — the most aggressive judicial confirmation campaign since Jimmy Carter. Durbin's management of the confirmation process prioritized diversity: 66% of Biden's confirmed judges were women, 53% were people of color.
+As Judiciary Committee chair, Durbin oversees the most consequential jurisdiction in the Senate: federal judicial confirmations, immigration law, justice system, antitrust, and constitutional rights. The Biden administration confirmed 234 federal judges (2021-2024) through Durbin's committee — the most aggressive judicial confirmation campaign since Jimmy Carter. Durbin's management of the confirmation process prioritized diversity: 66% of Biden's confirmed judges were women, 53% were people of color.
 
 The structural critique: Durbin's judicial confirmation success served the Democratic institutional interest (filling court seats) without addressing the Federalist Society's 40-year project that created the conservative judicial supermajority on the Supreme Court. Confirming diverse district court judges is valuable — but it does not address the structural imbalance on the appellate courts and Supreme Court that determines constitutional law.
 

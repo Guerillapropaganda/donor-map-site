@@ -40,7 +40,7 @@ donors: []
 | March 24, 2025 | Goldberg publishes first article in The Atlantic | Security breach becomes public |
 | March 26, 2025 | Full text of messages published | Goldberg and Shane Harris release complete chat contents |
 | 2025 | Pentagon IG investigates | Finds details from emails labeled "SECRET" shared on commercial app |
-| 2025 | IG report finds Hegseth's Signal use "could have endangered troops" | Administrative finding. No criminal referral |
+| 2025 | IG report finds Hegseth's Signal use "could have endangered troops" | Administrative finding. No referral |
 | 2025 | Second Hegseth Signal chat revealed | Hegseth shared Yemen strike details with his wife and brother on a separate personal chat |
 | May 1, 2025 | Waltz departure announced | 101 days as NSA. Second shortest tenure for non-acting NSA in history |
 | May 1, 2025 | Waltz nominated as UN Ambassador | Lateral move rather than termination |

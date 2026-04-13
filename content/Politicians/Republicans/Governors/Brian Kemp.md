@@ -51,7 +51,7 @@ Kemp famously told Trump supporters: "I am following the law." True—but the la
 
 ### The Business Republican vs. Trump Oligarch
 
-Kemp's resistance to Trump was not democratic principle—it was institutional business alignment. Trump wanted chaos; Georgia's corporate donors needed predictability. Kemp refused Trump while continuing to serve the same class interests through legal mechanisms (voter suppression, business deregulation, criminal justice capital-alignment). His break with Trump was about method, not goal. SB 202 proves this: having refused Trump's illegal reversal, Kemp implemented legal suppression achieving equivalent outcome. The corporate donor class got institutional legitimacy (rule of law) and substantive advantage (Republican electoral advantage maintained).
+Kemp's resistance to Trump was not democratic principle—it was institutional business alignment. Trump wanted chaos; Georgia's corporate donors needed predictability. Kemp refused Trump while continuing to serve the same class interests through legal mechanisms (voter suppression, business deregulation, justice system capital-alignment). His break with Trump was about method, not goal. SB 202 proves this: having refused Trump's illegal reversal, Kemp implemented legal suppression achieving equivalent outcome. The corporate donor class got institutional legitimacy (rule of law) and substantive advantage (Republican electoral advantage maintained).
 
 ### Analytical Patterns
 

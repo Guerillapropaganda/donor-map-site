@@ -116,7 +116,7 @@ issues:
 - **West Virginia HB 2734:** 80% identical to ALEC model (~849 of 1,050 words matching)
 - **Model removed from ALEC website post-Trayvon Martin (April 2012)** — public pressure forced ALEC to scrub the bill
 
-**Beneficiaries:** NRA, Walmart (Criminal Justice Task Force chair when SYG promoted)
+**Beneficiaries:** NRA, Walmart (justice system Task Force chair when SYG promoted)
 
 ### Voter ID Act
 
@@ -160,7 +160,7 @@ issues:
 - Truth in Sentencing: 25 states signed into law by 1995 alone
 - Three-strikes laws, mandatory minimums for drug offenses, and expanded retail theft penalties all pushed through ALEC
 - Private prison industry beneficiary: Corrections Corporation of America (CCA) was executive committee member of ALEC Public Safety & Elections Task Force
-- **Key Finding:** ALEC produced massive incarceration expansion legislation that directly increased private prison profits. After 2015, ALEC rebranded with "criminal justice reform" language while model bills remained punitive.
+- **Key Finding:** ALEC produced massive incarceration expansion legislation that directly increased private prison profits. After 2015, ALEC rebranded with "justice system reform" language while model bills remained punitive.
 
 **Recent Shift (2015+):** ALEC adopted "Justice Safety Valve Act" allowing judicial discretion for nonviolent offenders — positioned as "reform" while maintaining mandatory minimums for violent crimes.
 
@@ -183,7 +183,7 @@ issues:
 
 | Model Bill | Year Adopted | Year Approved by Board | First State Adoption | Current Adoptions | Status | Source |
 |---|---|---|---|---|---|
-| Animal & Ecological Terrorism Act (AETA) | Dec 14, 2002 (Criminal Justice Task Force) | Jan 2004 (Board) | 2010 (Iowa) | 9+ states; 5+ struck down | ALEC Exposed (Tier 2) |
+| Animal & Ecological Terrorism Act (AETA) | Dec 14, 2002 (justice system Task Force) | Jan 2004 (Board) | 2010 (Iowa) | 9+ states; 5+ struck down | ALEC Exposed (Tier 2) |
 
 ### Outcomes:
 - Model drafted to criminalize undercover investigation of factory farms
@@ -446,7 +446,7 @@ ALEC published "Essential Policy Solutions for 2025" including:
 ### Requested Remedy:
 - Immediate IRS investigation
 - Revocation of 501(c)(3) tax-exempt status
-- Civil and criminal penalties
+- Civil and penalties
 - Back taxes owed by ALEC and corporate members
 
 ### IRS Investigation Status
@@ -587,7 +587,7 @@ ALEC published "Essential Policy Solutions for 2025" including:
 
 **Cost Per Law:** ~$42 per state adoption (ALEC's annual budget ÷ legislative output)
 
-**ROI for Corporate Donors:** Incalculable. A $25K annual investment in ALEC membership generates custom legislation across 50 states simultaneously, protecting interests across labor, environment, consumer protection, criminal justice, and taxation.
+**ROI for Corporate Donors:** Incalculable. A $25K annual investment in ALEC membership generates custom legislation across 50 states simultaneously, protecting interests across labor, environment, consumer protection, justice system, and taxation.
 
 ### The Structural Function
 

@@ -34,7 +34,7 @@ In 2020, PG&E pleaded guilty to 84 counts of involuntary manslaughter for the Ca
 ---
 
 ### What Newsom Did
-**The criminal prosecution deal.** Butte County DA Mike Ramsey negotiated the criminal plea that resolved PG&E's liability for the Camp Fire. The deal avoided any individual criminal accountability for PG&E executives. Newsom's administration was involved in the broader settlement framework. No PG&E executive faced personal criminal charges for 84 deaths.
+**The prosecution deal.** Butte County DA Mike Ramsey negotiated the criminal plea that resolved PG&E's liability for the Camp Fire. The deal avoided any individual criminal accountability for PG&E executives. Newsom's administration was involved in the broader settlement framework. No PG&E executive faced personal charges for 84 deaths.
 
 **Blocked the state takeover.** During PG&E's 2019 bankruptcy, a genuine proposal emerged — including from some California lawmakers and the city of San Francisco — for the state or municipalities to take over PG&E and convert it to a public utility. Public ownership would have meant ratepayers controlling the utility rather than shareholders extracting profit from it. Newsom opposed it. He supported PG&E's reorganization plan that kept it as a private, shareholder-owned company. — CalMatters, 2019.
 
@@ -90,7 +90,7 @@ The clean energy branding Newsom runs nationally rests on a foundation that incl
 | 2019 (Jan) | Newsom inaugurated; PG&E files bankruptcy | $208,000 (career total to Newsom) | Newsom threatens "fundamental transformation" / state takeover | Rhetorical hardline |
 | 2019 (Jul) | AB 1054 wildfire fund signed | — | Fund structure caps PG&E liability, protects shareholders, shifts costs to ratepayers | Liability cap = shareholder protection |
 | 2019 | PG&E reorganization plan (private, shareholder-owned) | — | Newsom supports it; state takeover blocked; shareholders preserved | Policy reversal |
-| 2020 (Jun) | PG&E pleads guilty to 84 counts of involuntary manslaughter | — | No individual executive criminal charges; corp pleads guilty; operation continues | Criminal absolution |
+| 2020 (Jun) | PG&E pleads guilty to 84 counts of involuntary manslaughter | — | No individual executive charges; corp pleads guilty; operation continues | Criminal absolution |
 | 2020–2026 | PG&E rate increases approved by Newsom CPUC appointees | Multiple | Residential rates become among highest in continental US; low-income burden increases | Ongoing transfers |
 
 ---

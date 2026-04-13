@@ -40,7 +40,7 @@ Purdue's political operation was smaller than its industry peers in direct contr
 
 ### What They Want
 
-Historically: expanded OxyContin prescribing, FDA-approved labeling that minimized addiction risk, opposition to prescription drug monitoring programs (PDMPs), suppression of abuse data, and protection from criminal prosecution for the Sackler family personally. During and after bankruptcy: favorable settlement terms, Sackler family immunity from civil litigation, preservation of offshore wealth, and continuation of Purdue's international opioid business through Mundipharma (the Sackler-owned international affiliate that continued marketing opioids overseas while the U.S. operations faced litigation).
+Historically: expanded OxyContin prescribing, FDA-approved labeling that minimized addiction risk, opposition to prescription drug monitoring programs (PDMPs), suppression of abuse data, and protection from prosecution for the Sackler family personally. During and after bankruptcy: favorable settlement terms, Sackler family immunity from civil litigation, preservation of offshore wealth, and continuation of Purdue's international opioid business through Mundipharma (the Sackler-owned international affiliate that continued marketing opioids overseas while the U.S. operations faced litigation).
 
 ---
 
@@ -114,7 +114,7 @@ The Sacklers' bankruptcy strategy centered on obtaining permanent immunity from 
 
 On June 27, 2024, the Supreme Court ruled 5-4 in *Harrington v. Purdue Pharma L.P.* that bankruptcy law does not authorize releasing claims against non-debtors (the Sacklers) without affected claimants' consent. Justice Gorsuch's majority opinion noted the Sacklers sought what amounted to a bankruptcy discharge without actually filing for bankruptcy or placing their assets on the table.
 
-A revised settlement was reached in 2025: $7.4 billion total, with the Sackler family contributing up to $6.5 billion over 15 years. The settlement ends Sackler control of Purdue and their ability to sell opioids in the United States — but the family retains significant personal wealth and faces no criminal charges.
+A revised settlement was reached in 2025: $7.4 billion total, with the Sackler family contributing up to $6.5 billion over 15 years. The settlement ends Sackler control of Purdue and their ability to sell opioids in the United States — but the family retains significant personal wealth and faces no charges.
 
 ---
 
@@ -126,7 +126,7 @@ The Purdue Pharma-Sackler case is the vault's most extreme example of the **priv
 
 - **Revolving Door (extreme):** Curtis Wright's FDA-to-Purdue pipeline is the vault's most consequential single revolving door case — the regulator who approved the misleading label was hired by the company that used it to market a drug that killed hundreds of thousands. 87.5% of Purdue's 2023 lobbyists are government alumni.
 - **Donor-Class Override:** The $625,000+ in RAGA donations invested in the officials who decide whether to prosecute pharmaceutical companies. Multiple Republican AGs initially declined to join opioid litigation.
-- **Genuine Win + Structural Limit:** The $7.4B settlement is a real recovery for victims — but it represents roughly 50-65% of the family's extracted wealth, paid over 15 years, with no criminal charges against any Sackler. The family retains billions.
+- **Genuine Win + Structural Limit:** The $7.4B settlement is a real recovery for victims — but it represents roughly 50-65% of the family's extracted wealth, paid over 15 years, with no charges against any Sackler. The family retains billions.
 - **Two-Audience Problem:** The Sacklers presented themselves as philanthropists to cultural institutions while internally directing aggressive opioid marketing. Richard Sackler's sealed testimony revealed he embraced plans to conceal OxyContin's true strength from doctors.
 
 ---

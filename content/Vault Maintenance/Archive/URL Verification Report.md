@@ -1151,13 +1151,13 @@ known-gaps:
 |------|--------|-----|--------|
 | 196 | BROKEN | `https://uaw.org/news/uaw-endorses-amy-acton-ohio-governor-2026/` | Not Found |
 
-#### `Politicians\Democrats\Governors\Gavin Newsom\Criminal Justice\Policing Reform - George Floyd Era.md`
+#### `Politicians\Democrats\Governors\Gavin Newsom\justice system\Policing Reform - George Floyd Era.md`
 
 | Line | Status | URL | Reason |
 |------|--------|-----|--------|
 | 109 | BROKEN | `https://www.latimes.com/california/story/2020-09-30/newsom-police-reform-bills-c...` | Not Found |
 
-#### `Politicians\Democrats\Governors\Gavin Newsom\Criminal Justice\San Quentin - COVID Disaster and Rehabilitation Theater.md`
+#### `Politicians\Democrats\Governors\Gavin Newsom\justice system\San Quentin - COVID Disaster and Rehabilitation Theater.md`
 
 | Line | Status | URL | Reason |
 |------|--------|-----|--------|
@@ -1542,7 +1542,7 @@ known-gaps:
 |------|--------|-----|--------|
 | 90 | BROKEN | `https://ctmirror.org/2022/12/14/ct-chris-murphy-gun-reform/` | Not Found |
 
-#### `Politicians\Democrats\Senate\Dick Durbin\The Judiciary Committee and Criminal Justice Reform Limits.md`
+#### `Politicians\Democrats\Senate\Dick Durbin\The Judiciary Committee and justice system Reform Limits.md`
 
 | Line | Status | URL | Reason |
 |------|--------|-----|--------|
@@ -2894,7 +2894,7 @@ These sites block automated requests but the URLs are likely valid. Re-check man
 | `https://finance.yahoo.com/news/larry-ellison-makes-173-million-2019470...` | ERROR | 400, message='Got more than 8190 bytes when reading: b"connect-src \'self\' wss://*.finance.yahoo.com/ https://*.cdn.yim | Donors & Power Networks\Mega-Donors\Larry Ellison.md |
 | `https://finance.yahoo.com/news/larry-ellison-net-worth-update-from-top...` | ERROR | 400, message='Got more than 8190 bytes when reading: b"connect-src \'self\' wss://*.finance.yahoo.com/ https://*.cdn.yim | Donors & Power Networks\Mega-Donors\Larry Ellison.md |
 | `https://fossulfuelbloc.md/?q=Texas%202026%20Senate%20Race` | ERROR | Cannot connect to host fossulfuelbloc.md:443 ssl:False [getaddrinfo failed] | Stories\Published\2026 Senate Races\Texas 2026 Senate Race.md |
-| `https://www.notion.so/_Kash_Patel_Master_Profile` | ERROR | HTTP 401 | Politicians\Republicans\Presidential\Donald Trump\Criminal Justice & DOJ\The Kash Patel FBI - Loyalty Over Law and the Weaponization of Federal Law Enforcement.md |
+| `https://www.notion.so/_Kash_Patel_Master_Profile` | ERROR | HTTP 401 | Politicians\Republicans\Presidential\Donald Trump\justice system & DOJ\The Kash Patel FBI - Loyalty Over Law and the Weaponization of Federal Law Enforcement.md |
 | `https://money.cnn.com/2018/03/07/investing/gary-cohn-trump-goldman-sac...` | ERROR | HTTP 503 | Stories\Published\Contradiction Deep Dives\Contradiction 01 - Goldman Sachs Funds Both Sides of Financial Regulation.md |
 | `https://money.cnn.com/2017/01/04/news/mnuchin-onewest-california-memo/` | ERROR | HTTP 503 | Politicians\Democrats\Presidential\Kamala Harris\The Prosecutor Record - DA and AG.md |
 | `https://time.com/7213990/elon-musk-doge-opm/` | ERROR | HTTP 406 | Politicians\Republicans\Presidential\Donald Trump\DOGE\DOGE - The Billionaires Government.md |

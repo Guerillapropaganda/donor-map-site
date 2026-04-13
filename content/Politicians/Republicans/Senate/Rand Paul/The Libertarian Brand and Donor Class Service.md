@@ -29,7 +29,7 @@ The structural analysis: Paul's libertarian votes rarely affect outcomes. He vot
 
 ### Where Libertarianism Aligns with the Donor Class
 
-Paul's libertarianism is selective: his anti-government philosophy opposes regulation of business (serving Koch interests), opposes taxation (serving the donor class broadly), opposes government healthcare (serving insurance and pharma), and opposes environmental regulation (serving fossil fuel interests). His libertarianism does not extend to: marijuana legalization (Paul supports it rhetorically but has not made it a legislative priority), criminal justice reform beyond sentencing (the libertarian case for police reform is absent from Paul's agenda), or immigration (Paul supports restriction, contradicting libertarian free-movement principles).
+Paul's libertarianism is selective: his anti-government philosophy opposes regulation of business (serving Koch interests), opposes taxation (serving the donor class broadly), opposes government healthcare (serving insurance and pharma), and opposes environmental regulation (serving fossil fuel interests). His libertarianism does not extend to: marijuana legalization (Paul supports it rhetorically but has not made it a legislative priority), justice system reform beyond sentencing (the libertarian case for police reform is absent from Paul's agenda), or immigration (Paul supports restriction, contradicting libertarian free-movement principles).
 
 The pattern: Paul's libertarianism is deployed against government functions that constrain the donor class (regulation, taxation, healthcare) and withheld from issues where the donor class benefits from government action (defense contracts, intellectual property protection, trade enforcement).
 

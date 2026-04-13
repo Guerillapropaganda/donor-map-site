@@ -65,7 +65,7 @@ In 2022, Koch's network won a Supreme Court victory (overturning Chevron deferen
 
 ### THE DONOR FUNCTION: EACH AGENCY, THE SPECIFIC CONSTRAINT BEING REMOVED
 
-The IRS enforcement collapse is the clearest example. The Trump administration pulled roughly 25 percent of IRS staff between January and May 2025. The Global High Wealth office tasked with auditing billionaires lost 38 percent of its staff within weeks. Criminal referrals against the ultrawealthy and big corporations dropped 63 percent. By mid 2026, the Large Business and International division was referring zero cases of ultrawealthy tax cheating to criminal investigators. Wealthy tax cheats benefit directly. The constraint being removed is the capacity to audit them. Schedule F provides the personnel mechanism.
+The IRS enforcement collapse is the clearest example. The Trump administration pulled roughly 25 percent of IRS staff between January and May 2025. The Global High Wealth office tasked with auditing billionaires lost 38 percent of its staff within weeks. referrals against the ultrawealthy and big corporations dropped 63 percent. By mid 2026, the Large Business and International division was referring zero cases of ultrawealthy tax cheating to criminal investigators. Wealthy tax cheats benefit directly. The constraint being removed is the capacity to audit them. Schedule F provides the personnel mechanism.
 
 The EPA has been running on skeleton crews with career people instructed to step back from environmental enforcement. The reclassification accelerates this. CFPB enforcement has been dismantled (the agency transferred all active litigation to the Department of Justice by December 2025). The NLRB had its budget slashed after Trump took office. The SEC had enforcement actions drop by 50 percent in the first months of the administration.
 
@@ -123,7 +123,7 @@ No legislation required. No public debate. No voted-on compromise. Just executiv
 - [Washington Post: How Charles Koch's Network Won 40 Year War to Curb Regulation](https://www.washingtonpost.com/politics/2024/06/28/supreme-court-chevron-federal-agency-authority/) (Tier 2)
 - [The Intercept: How Charles Koch Purchased the Supreme Court's EPA Decision](https://theintercept.com/2022/06/30/supreme-court-epa-climate-charles-koch/) (Tier 2)
 - [Senator Whitehouse: Collapse in IRS Investigations of Wealthy Tax Cheats Under Trump](https://www.whitehouse.senate.gov/news/release/whitehouse-wyden-colleagues-probe-collapse-in-irs-investigations-of-wealthy-tax-cheats-under-trump/) (Tier 2)
-- [ICIJ: IRS Criminal Referrals Against Corporations and Ultrawealthy Plummeted](https://www.icij.org/news/2026/03/irs-criminal-referrals-against-big-corporations-and-ultrawealthy-plummeted-during-trumps-first-year/s-and-ultrawealthy-plummeted-during-trump-s-first-year/) (Tier 2)
+- [ICIJ: IRS referrals Against Corporations and Ultrawealthy Plummeted](https://www.icij.org/news/2026/03/irs-criminal-referrals-against-big-corporations-and-ultrawealthy-plummeted-during-trumps-first-year/s-and-ultrawealthy-plummeted-during-trump-s-first-year/) (Tier 2)
 - [Oxfam America: Trump's IRS Cuts Allow Ultra Rich Tax Cheats to Steal $30 Million Per Day](https://www.oxfamamerica.org/press/trump-and-musks-proposed-irs-cuts-would-allow-ultra-rich-tax-cheats-to-steal-30-million-per-day-through-unlawful-tax-evasion/) (Tier 2)
 
 ### OFAC Sanctions Screening

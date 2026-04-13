@@ -80,7 +80,7 @@ The clean-record system is PORAC's most important institutional product — more
 
 — ACLU of California — police accountability litigation
 — Anti-Police Terror Project — community organizing
-— Criminal justice reform coalitions pushing civilian oversight
+— justice system reform coalitions pushing civilian oversight
 — Families of people killed by police
 — UC Berkeley investigative journalism (clean-record agreements exposé)
 — Assembly members pushing stronger oversight bills
@@ -89,7 +89,7 @@ The clean-record system is PORAC's most important institutional product — more
 
 ### Connected Policy Areas
 
-Criminal Justice — police reform, use of force, qualified immunity, civilian oversight
+justice system — police reform, use of force, qualified immunity, civilian oversight
 2026 Governor Race — law enforcement union endorsements will shape the race; if Bianco (RSA-backed) runs, PORAC's statewide network becomes directly relevant
 Clean-Record Agreements — the most underreported mechanism of police union power in California
 

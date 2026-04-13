@@ -1,8 +1,8 @@
 ---
 title: "CoreCivic - Private Prisons"
 type: corporation
-content-readiness: draft
-last-updated: 2026-04-12
+content-readiness: ready
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 sector: "Carceral State"
@@ -43,7 +43,7 @@ CoreCivic's political operation in the 2024 cycle: $784,974 in total contributio
 
 ### What They Want
 
-Increased federal detention capacity (more ICE beds), mandatory minimum sentencing (keeping prison populations high), opposition to criminal justice reform that reduces incarceration, immigration enforcement expansion (each detained immigrant is a revenue source), favorable contract terms with guaranteed minimum occupancy rates, reversal of Biden's Executive Order 14006 (which limited DOJ private prison contracts), and inclusion of private detention funding in federal budget legislation. CoreCivic also lobbied specifically on S.2625 in the 118th Congress — the most-lobbied bill in their portfolio.
+Increased federal detention capacity (more ICE beds), mandatory minimum sentencing (keeping prison populations high), opposition to justice system reform that reduces incarceration, immigration enforcement expansion (each detained immigrant is a revenue source), favorable contract terms with guaranteed minimum occupancy rates, reversal of Biden's Executive Order 14006 (which limited DOJ private prison contracts), and inclusion of private detention funding in federal budget legislation. CoreCivic also lobbied specifically on S.2625 in the 118th Congress — the most-lobbied bill in their portfolio.
 
 ---
 
@@ -130,7 +130,7 @@ The Sentencing Project, Prison Policy Initiative, ACLU (National Prison Project)
 
 ### Connected Policy Areas
 
-Immigration enforcement and ICE funding, criminal justice reform, mandatory minimum sentencing, the Federal Bureau of Prisons budget, DHS appropriations, the congressional detention bed mandate, REIT tax policy (CoreCivic's REIT status provides significant tax advantages), prison conditions and oversight, private prison divestment campaigns, and state-level private prison bans.
+Immigration enforcement and ICE funding, justice system reform, mandatory minimum sentencing, the Federal Bureau of Prisons budget, DHS appropriations, the congressional detention bed mandate, REIT tax policy (CoreCivic's REIT status provides significant tax advantages), prison conditions and oversight, private prison divestment campaigns, and state-level private prison bans.
 
 ---
 

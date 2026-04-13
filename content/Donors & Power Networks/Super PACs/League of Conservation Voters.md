@@ -1,8 +1,8 @@
 ---
 title: "League of Conservation Voters"
 type: donor
-content-readiness: draft
-last-updated: 2026-04-08
+content-readiness: ready
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 sector: "Super PACs"
@@ -280,7 +280,7 @@ LCV occupies an unusual position in the donor-class framework: it's a mass-membe
 | Lobbying Firms | 43 |
 | Individual Lobbyists | 0 |
 
-**Issues lobbied:** Accounting, Agriculture, Arts/Entertainment, Aviation/Airlines/Airports, Banking, Bankruptcy, Budget/Appropriations, Civil Rights/Civil Liberties, Clean Air and Water (quality), Communications/Broadcasting/Radio/TV, Constitution, Consumer Issues/Safety/Products, Defense, Disaster Planning/Emergencies, District of Columbia, Economics/Economic Development, Education, Energy/Nuclear, Environment/Superfund, Family issues/Abortion/Adoption, Financial Institutions/Investments/Securities, Firearms/Guns/Ammunition, Foreign Relations, Gaming/Gambling/Casino, Government Issues, Health Issues, Homeland Security, Immigration, Labor Issues/Antitrust/Workplace, Law Enforcement/Crime/Criminal Justice, Marine/Maritime/Boating/Fisheries, Medicare/Medicaid, Natural Resources, Retirement, Science/Technology, Small Business, Sports/Athletics, Taxation/Internal Revenue Code, Torts, Trade (domestic/foreign), Transportation, Travel/Tourism, Unemployment
+**Issues lobbied:** Accounting, Agriculture, Arts/Entertainment, Aviation/Airlines/Airports, Banking, Bankruptcy, Budget/Appropriations, Civil Rights/Civil Liberties, Clean Air and Water (quality), Communications/Broadcasting/Radio/TV, Constitution, Consumer Issues/Safety/Products, Defense, Disaster Planning/Emergencies, District of Columbia, Economics/Economic Development, Education, Energy/Nuclear, Environment/Superfund, Family issues/Abortion/Adoption, Financial Institutions/Investments/Securities, Firearms/Guns/Ammunition, Foreign Relations, Gaming/Gambling/Casino, Government Issues, Health Issues, Homeland Security, Immigration, Labor Issues/Antitrust/Workplace, Law Enforcement/Crime/justice system, Marine/Maritime/Boating/Fisheries, Medicare/Medicaid, Natural Resources, Retirement, Science/Technology, Small Business, Sports/Athletics, Taxation/Internal Revenue Code, Torts, Trade (domestic/foreign), Transportation, Travel/Tourism, Unemployment
 
 **Lobbying firms:** ACG ADVOCACY, ACTIVE POLICY SOLUTIONS, LLC, ALASKA WILDERNESS LEAGUE ACTION, ALBANIAN AMERICAN CIVIC LEAGUE, AMERICAN SYMPHONY ORCHESTRA LEAGUE - DBA LEAGUE OF AMERICAN ORCHESTRAS, ANTI-DEFAMATION LEAGUE, BALLARD PARTNERS, BROWNSTEIN HYATT FARBER SCHRECK, LLP, CALIFORNIA AND NEVADA CREDIT UNION LEAGUES, CAPITOL CONSULTING GROUP LLC (DC), COLTON STREET GROUP, CONSTANTINOPLE & VALLONE CONSULTING LLC, CORNERSTONE GOVERNMENT AFFAIRS, INC., COVINGTON & BURLING LLP, DOWNS GOVERNMENT AFFAIRS, FEROX STRATEGIES, FGS GLOBAL (US) LLC (FKA FGH HOLDINGS LLC), FLORIDA SUGAR CANE LEAGUE, FORBES-TATE, HILLNORTH LLC, JGB & ASSOCIATES, LLC, JOHN MCKECHNIE LLC, KADESH & ASSOCIATES, LLC, LAW OFFICES OF PHILIP R. HOCHBERG, LEAGUE OF AMERICAN WHEELMEN, INC., LEAGUE OF CONSERVATION VOTERS, LEAGUE OF SOUTHEASTERN CREDIT UNIONS, LEAGUE OF WOMEN VOTERS OF THE U.S., MICHIGAN CREDIT UNION LEAGUE, NATIONAL FOOTBALL LEAGUE, NATIONAL HOCKEY LEAGUE, NAVY LEAGUE OF THE UNITED STATES, PETTUS CONSULTING, PHRONESISDC, LLC, PORTER GROUP, LLC, PRIME POLICY GROUP, S-3 GROUP, SCHRAMM, WILLIAMS & ASSOCIATES, INC., THE POLICY AGENCY, LLC, FORMERLY ANNE SMITH, THOLOS GOVERNMENT RELATIONS, TREA SENIOR CITIZENS LEAGUE, VIRGINIA CREDIT UNION LEAGUE, WAXMAN STRATEGIES
 

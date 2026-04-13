@@ -142,7 +142,7 @@ Coordinates with Laborers' International Union of North America Local 777 and de
 ### Connected Policy Areas
 
 Jail Deaths and Use of Force — 2022 death spike, DOJ investigation, deputy misconduct, whistleblower retaliation
-Criminal Justice — structural parallel to CCPOA as law enforcement union blocking reform
+justice system — structural parallel to CCPOA as law enforcement union blocking reform
 2026 Governor Race — if Bianco wins, the RSA's model of police-union-purchases-executive scales from county to state
 
 ---

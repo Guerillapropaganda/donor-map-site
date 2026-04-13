@@ -1,8 +1,8 @@
 ---
 title: "Entertainment and Hollywood Donors"
 type: donor
-content-readiness: draft
-last-updated: 2026-04-12
+content-readiness: ready
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 sector: "Dark Money"
@@ -96,7 +96,7 @@ During the Biden administration's Gaza policy debates, Saban emailed Democratic 
 
 ### What They've Gotten
 
-**Copyright protection wins** — The entertainment industry's most consistent and durable policy achievement is the repeated extension of copyright terms and the expansion of criminal penalties for infringement. The Sonny Bono Copyright Term Extension Act (1998) extended copyrights by 20 years, preserving Disney's Mickey Mouse monopoly and similar industry assets. Hollywood's lobbying and bundling network was central to its passage. The industry has consistently gotten Congress and the executive branch to treat copyright enforcement as a trade priority in international negotiations.
+**Copyright protection wins** — The entertainment industry's most consistent and durable policy achievement is the repeated extension of copyright terms and the expansion of penalties for infringement. The Sonny Bono Copyright Term Extension Act (1998) extended copyrights by 20 years, preserving Disney's Mickey Mouse monopoly and similar industry assets. Hollywood's lobbying and bundling network was central to its passage. The industry has consistently gotten Congress and the executive branch to treat copyright enforcement as a trade priority in international negotiations.
 
 **Streaming regulatory forbearance** — The MPA successfully lobbied to keep streaming platforms largely unregulated through the explosive growth period of 2013–2023 — no must-carry requirements, no content quotas, no significant privacy or data regulation that would constrain the platforms. Netflix, Amazon, and Disney+ expanded globally with minimal regulatory friction compared to traditional broadcasters.
 
@@ -241,7 +241,7 @@ The industry's structural function for the donor class: maintain Democratic cult
 | Lobbying Firms | 30 |
 | Individual Lobbyists | 0 |
 
-**Issues lobbied:** Arts/Entertainment, Aviation/Airlines/Airports, Civil Rights/Civil Liberties, Communications/Broadcasting/Radio/TV, Computer Industry, Consumer Issues/Safety/Products, Copyright/Patent/Trademark, Gaming/Gambling/Casino, Government Issues, Homeland Security, Indian/Native American Affairs, Insurance, Labor Issues/Antitrust/Workplace, Law Enforcement/Crime/Criminal Justice, Media (information/publishing), Science/Technology, Small Business, Tariff (miscellaneous tariff bills), Taxation/Internal Revenue Code, Telecommunications, Trade (domestic/foreign), Transportation
+**Issues lobbied:** Arts/Entertainment, Aviation/Airlines/Airports, Civil Rights/Civil Liberties, Communications/Broadcasting/Radio/TV, Computer Industry, Consumer Issues/Safety/Products, Copyright/Patent/Trademark, Gaming/Gambling/Casino, Government Issues, Homeland Security, Indian/Native American Affairs, Insurance, Labor Issues/Antitrust/Workplace, Law Enforcement/Crime/justice system, Media (information/publishing), Science/Technology, Small Business, Tariff (miscellaneous tariff bills), Taxation/Internal Revenue Code, Telecommunications, Trade (domestic/foreign), Transportation
 
 **Lobbying firms:** AKIN GUMP STRAUSS HAUER & FELD, ALPINE GROUP PARTNERS, LLC., AVOQ, LLC, BALLARD PARTNERS, BGR GOVERNMENT AFFAIRS, BLOOM STRATEGIC COUNSEL, BROWNSTEIN HYATT FARBER SCHRECK, LLP, CARMEN GROUP INCORPORATED, ELEVATE GOVERNMENT AFFAIRS, LLC, ENTERTAINMENT SOFTWARE ASSOCIATION, FARRAGUT PARTNERS LLP, FELD ENTERTAINMENT, FGS GLOBAL (US) LLC (FKA FGH HOLDINGS LLC), FORBES-TATE, HOGAN LOVELLS US LLP, I STREET ADVOCATES, LIVE NATION ENTERTAINMENT, INC., MARK BARNES & ASSOCIATES, MARSHALL & POPP, LLC, MAYER BROWN LLP, NORTH STAR STRATEGIES, LLC, OGR, PLATINUM ADVISORS DC, LLC, PUTALASTRATEGIES, SONY INTERACTIVE ENTERTAINMENT LLC, SONY MUSIC ENTERTAINMENT (FORMERLY KNOWN AS SONY BMG MUSIC ENTERTAINMENT), SONY PICTURES ENTERTAINMENT INC., STEWART STRATEGIES AND SOLUTIONS, LLC, THE FITHIAN GROUP LLC, THE SMITH-FREE GROUP, LLC
 

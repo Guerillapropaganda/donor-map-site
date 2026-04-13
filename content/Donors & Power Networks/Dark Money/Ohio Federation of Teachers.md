@@ -1,8 +1,8 @@
 ---
 title: "Ohio Federation of Teachers"
 type: donor
-content-readiness: draft
-last-updated: 2026-04-11
+content-readiness: ready
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 sector: "Dark Money"
@@ -171,7 +171,7 @@ The deeper pattern: OFT represents workers who serve the public. The donor class
 | Lobbying Firms | 27 |
 | Individual Lobbyists | 0 |
 
-**Issues lobbied:** Aerospace, Agriculture, Aviation/Airlines/Airports, Budget/Appropriations, Clean Air and Water (quality), Communications/Broadcasting/Radio/TV, Defense, Disaster Planning/Emergencies, Economics/Economic Development, Education, Energy/Nuclear, Environment/Superfund, Financial Institutions/Investments/Securities, Firearms/Guns/Ammunition, Government Issues, Health Issues, Housing, Immigration, Labor Issues/Antitrust/Workplace, Law Enforcement/Crime/Criminal Justice, Manufacturing, Medical/Disease Research/Clinical Labs, Medicare/Medicaid, Real Estate/Land Use/Conservation, Science/Technology, Sports/Athletics, Taxation/Internal Revenue Code, Trade (domestic/foreign), Transportation
+**Issues lobbied:** Aerospace, Agriculture, Aviation/Airlines/Airports, Budget/Appropriations, Clean Air and Water (quality), Communications/Broadcasting/Radio/TV, Defense, Disaster Planning/Emergencies, Economics/Economic Development, Education, Energy/Nuclear, Environment/Superfund, Financial Institutions/Investments/Securities, Firearms/Guns/Ammunition, Government Issues, Health Issues, Housing, Immigration, Labor Issues/Antitrust/Workplace, Law Enforcement/Crime/justice system, Manufacturing, Medical/Disease Research/Clinical Labs, Medicare/Medicaid, Real Estate/Land Use/Conservation, Science/Technology, Sports/Athletics, Taxation/Internal Revenue Code, Trade (domestic/foreign), Transportation
 
 **Lobbying firms:** ALIGNMENT GOVERNMENT STRATEGIES, BROWNSTEIN HYATT FARBER SCHRECK, LLP, CAPITOL67 STRATEGIES, CHW ADVISORS, FORBES-TATE, G2G CONSULTING, HOLLAND & KNIGHT LLP, JOHN MCKECHNIE LLC, KELLER PARTNERS & COMPANY, LNE GROUP, MARK BARNES & ASSOCIATES, MCCAULLEY&COMPANY, NORTHEAST OHIO REGIONAL SEWER DISTRICT, OHIO CHAMBER OF COMMERCE, OHIO FARM BUREAU FEDERATION, OHIO HOSPITAL ASSOCIATION, OHIO MUNICIPAL ELECTRIC ASSOCIATION, OHIO RIVER SOUTH, INC., ROETZEL & ANDRESS, LPA, SHUMAKER ADVISORS, LLC, SMITH GARSON, SQUIRE PATTON BOGGS, SUNDAY CREEK HORIZONS, LLC, TAFT STETTINIUS & HOLLISTER LLP DBA TAFT ADVISORS LLC FKA (TAFT, STETTINIUS & HOLLISTER,LLP), THE OHIO STATE UNIVERSITY, VAN SCOYOC ASSOCIATES, WILLIAMS AND JENSEN, PLLC
 

@@ -148,7 +148,7 @@ Boeing pursues four concrete policy objectives: (1) continuous increase in defen
 
 **Regulatory Capture — FAA Certification:** 737 MAX allowed to return to service (November 2020) despite 346 deaths from two crashes (March 2018, March 2019). Investigation later found Boeing's design review was inadequate and FAA's certification process was compromised. Boeing hired former FAA officials directly, creating structural incentive for lax oversight.
 
-**737 MAX Legal Shield:** Despite DOJ settlement for $2.5B (2021) acknowledging fraud in certification, criminal penalties against the corporation were waived through deferred prosecution agreement. No executives faced criminal charges.
+**737 MAX Legal Shield:** Despite DOJ settlement for $2.5B (2021) acknowledging fraud in certification, penalties against the corporation were waived through deferred prosecution agreement. No executives faced charges.
 
 **Starliner Program Rescue (Despite Failure):** After Starliner's crewed test flight failed in June 2024 (leaving two astronauts stranded, eventual return via SpaceX), NASA reduced Boeing's contract from 6 missions to 4 (March 2025) but continued funding. Boeing's $2B+ internal overruns were absorbed by NASA adjusting the contract rather than Boeing bearing loss.
 

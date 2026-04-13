@@ -80,7 +80,7 @@ Pam Bondi. Attorney General of the United States (2025–present). Former Florid
 
 | Date | Donor | Amount | Given | Policy Outcome |
 |------|-------|--------|-------|----------------|
-| 2025 | Trump political network — impeachment defense (2019) as audition; $25K Foundation donation (2013) as original transaction | Loyalty capital | 2013–2024 | Criminal referrals targeting Trump opponents (Comey, Letitia James); largest prosecutor resignation wave since Watergate; "zealous advocacy" directive; ICE detention expansion benefits former client GEO Group |
+| 2025 | Trump political network — impeachment defense (2019) as audition; $25K Foundation donation (2013) as original transaction | Loyalty capital | 2013–2024 | referrals targeting Trump opponents (Comey, Letitia James); largest prosecutor resignation wave since Watergate; "zealous advocacy" directive; ICE detention expansion benefits former client GEO Group |
 
 > [!money] The Damning Sequences
 > **⚠️ 4-day flag:** Trump Foundation $25K donation to Bondi's PAC (September 17, 2013) → Bondi's office formally drops Trump University fraud review (announced September 2013). The donation was received four days after a local consumer advocacy group asked Bondi to join New York's lawsuit. This is the most documented pay-to-play sequence in Bondi's career — and the one that defines the pattern.

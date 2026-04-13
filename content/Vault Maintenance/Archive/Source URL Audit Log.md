@@ -3336,9 +3336,9 @@ Verified via Chrome browser load test during automated story discovery scan.
 | Status | Source | URL | Notes |
 |--------|--------|-----|-------|
 | VALID | FEC | `https://www.fec.gov/data/candidate/H8MA07032/` | PRESSLEY, AYANNA - Candidate overview |
-| VALID | Congress.gov | `https://www.congress.gov/bill/116th-congress/house-resolution/702/all-info` | H.Res.702 — Criminal Justice Reform Resolution (116th Congress) |
+| VALID | Congress.gov | `https://www.congress.gov/bill/116th-congress/house-resolution/702/all-info` | H.Res.702 — justice system Reform Resolution (116th Congress) |
 | VALID | Pressley House.gov | `https://pressley.house.gov/2022/09/21/video-pressley-heralds-student-debt-cancellation-in-powerful-floor-speech/` | Student debt cancellation floor speech (2022) |
-| VALID | The Hill | `https://thehill.com/homenews/house/470791-ayanna-pressley-introduces-sweeping-criminal-justice-reform-resolution/` | Pressley introduces criminal justice reform resolution |
+| VALID | The Hill | `https://thehill.com/homenews/house/470791-ayanna-pressley-introduces-sweeping-criminal-justice-reform-resolution/` | Pressley introduces justice system reform resolution |
 | VALID | OpenSecrets | `https://www.opensecrets.org/members-of-congress/industries?cid=N00042581&cycle=CAREER` | Ayanna Pressley career industries breakdown |
 | BROKEN | Pressley House.gov | `https://pressley.house.gov/2019/11/14/ayanna-pressley-introduces-sweeping-criminal-justice-reform-resolution` | 2019 CJ reform press release — 404, removed from profile, replaced with Congress.gov H.Res.702 |
 
@@ -5396,7 +5396,7 @@ Remaining FEC broken URLs not yet addressed (from original 34):
 | `defensenews.com/industry/2024/01/09/cautionary-tale-how-boeing-won-a-us-air-force-program-and-lost-7b/` | VALID | 'Cautionary tale': How Boeing won a US Air Force program and lost $7B | Boeing Defense.md |
 | `defensenews.com/air/2025/03/21/boeing-wins-contract-for-ngad-fighter-jet-dubbed-f-47/` | VALID | Boeing wins contract for NGAD fighter jet, dubbed F-47 | Boeing Defense.md |
 | `npr.org/2024/05/14/1251477809/boeing-justice-department-charges` | VALID | Justice Department may prosecute Boeing for 737 Max crashes : NPR | Boeing Defense.md |
-| `cnbc.com/2025/11/06/boeing-criminal-case-737-max-crashes-doj.html` | VALID | Judge dismisses Boeing criminal case for 737 Max crashes | Boeing Defense.md |
+| `cnbc.com/2025/11/06/boeing-criminal-case-737-max-crashes-doj.html` | VALID | Judge dismisses Boeing case for 737 Max crashes | Boeing Defense.md |
 | `pogo.org/analyses/corrupted-oversight-the-faa-boeing-and-the-737-max` | VALID | Corrupted Oversight: The FAA, Boeing, and the 737 Max | POGO | Boeing Defense.md |
 | `pogo.org/reports/brass-parachutes` | VALID | Brass Parachutes: The Problem of the Pentagon Revolving Door | POGO | Boeing Defense.md |
 | `seattletimes.com/business/boeing-aerospace/congress-protests-revolving-door-to-boeing-while-rushing-through-it/` | VALID | Congress protests 'revolving door' to Boeing while rushing through it | Seattle Times | Boeing Defense.md |

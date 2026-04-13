@@ -131,7 +131,7 @@ This contradiction — the outsider brand hiding Wall Street integration — is 
 | Date | Donor | Amount | Given | Policy Outcome |
 |------|-------|--------|-------|----------------|
 | 2008-11 | [[Goldman Sachs]] (employees/PAC — second-largest donor) | $994,795 | 2007-2008 | Geithner (NY Fed/Wall Street insider) appointed Treasury within 20 days of election; Summers ($5.2M from D.E. Shaw hedge fund) as NEC; Sperling ($887K Goldman consultant) as advisor |
-| 2009-03 | Financial sector (aggregate — Goldman, JPMorgan, Citigroup) | $5M+ to 2008 campaign | 2007-2008 | TARP distributed under Geithner; zero criminal prosecutions for 2008 financial fraud despite $2.3T in damage — Wall Street bought protection and received it |
+| 2009-03 | Financial sector (aggregate — Goldman, JPMorgan, Citigroup) | $5M+ to 2008 campaign | 2007-2008 | TARP distributed under Geithner; zero prosecutions for 2008 financial fraud despite $2.3T in damage — Wall Street bought protection and received it |
 
 #### Healthcare / Insurance + Pharma
 

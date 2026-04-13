@@ -49,7 +49,7 @@ The needs-reenrichment flag has been set. The next scheduled pipeline run will p
 
 ### What He Wants
 
-Leo's agenda is singular and constitutional: transform the judiciary from an independent branch into a reliably conservative political instrument. He has largely succeeded at the federal level (Supreme Court is 6-3 conservative, federal appellate courts are 54% conservative). Now he is pivoting to state courts, which control 95% of actual litigation, 100% of family law, criminal justice, and regulatory enforcement. If Leo succeeds in state courts, the judiciary becomes a unified conservative force across all legal domains.
+Leo's agenda is singular and constitutional: transform the judiciary from an independent branch into a reliably conservative political instrument. He has largely succeeded at the federal level (Supreme Court is 6-3 conservative, federal appellate courts are 54% conservative). Now he is pivoting to state courts, which control 95% of actual litigation, 100% of family law, justice system, and regulatory enforcement. If Leo succeeds in state courts, the judiciary becomes a unified conservative force across all legal domains.
 
 ### The Dark Money Architecture
 

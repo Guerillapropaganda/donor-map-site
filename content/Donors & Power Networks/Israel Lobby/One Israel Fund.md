@@ -1,8 +1,8 @@
 ---
 title: "One Israel Fund"
 type: donor
-content-readiness: draft
-last-updated: 2026-04-08
+content-readiness: ready
+last-updated: 2026-04-13
 source-tier: 2
 parent: null
 sector: "Israel Lobby"
@@ -77,7 +77,7 @@ One Israel Fund exemplifies how U.S. tax law is weaponized to support foreign oc
 | Lobbying Firms | 47 |
 | Individual Lobbyists | 0 |
 
-**Issues lobbied:** Aerospace, Agriculture, Aviation/Airlines/Airports, Banking, Budget/Appropriations, Clean Air and Water (quality), Defense, Economics/Economic Development, Education, Energy/Nuclear, Environment/Superfund, Financial Institutions/Investments/Securities, Foreign Relations, Fuel/Gas/Oil, Government Issues, Health Issues, Homeland Security, Housing, Indian/Native American Affairs, Intelligence, Labor Issues/Antitrust/Workplace, Law Enforcement/Crime/Criminal Justice, Manufacturing, Medicare/Medicaid, Natural Resources, Pharmacy, Science/Technology, Sports/Athletics, Tariff (miscellaneous tariff bills), Taxation/Internal Revenue Code, Telecommunications, Trade (domestic/foreign), Transportation, Travel/Tourism, Urban Development/Municipalities, Utilities, Veterans
+**Issues lobbied:** Aerospace, Agriculture, Aviation/Airlines/Airports, Banking, Budget/Appropriations, Clean Air and Water (quality), Defense, Economics/Economic Development, Education, Energy/Nuclear, Environment/Superfund, Financial Institutions/Investments/Securities, Foreign Relations, Fuel/Gas/Oil, Government Issues, Health Issues, Homeland Security, Housing, Indian/Native American Affairs, Intelligence, Labor Issues/Antitrust/Workplace, Law Enforcement/Crime/justice system, Manufacturing, Medicare/Medicaid, Natural Resources, Pharmacy, Science/Technology, Sports/Athletics, Tariff (miscellaneous tariff bills), Taxation/Internal Revenue Code, Telecommunications, Trade (domestic/foreign), Transportation, Travel/Tourism, Urban Development/Municipalities, Utilities, Veterans
 
 **Lobbying firms:** 1607 STRATEGIES, LLC, ACTIVE POLICY SOLUTIONS, LLC, ADVANCED POLICY CONSULTING, LLC, AKIN GUMP STRAUSS HAUER & FELD, ARTICLE ONE GROUP, LLC, BRIDGE PUBLIC AFFAIRS, LLC, BROWNSTEIN HYATT FARBER SCHRECK, LLP, CAPITAL ONE FINANCIAL CORPORATION, CAPITOL COUNSEL LLC, CAPITOL HILL CONSULTING GROUP, CARPI & CLAY, INC, CATALYST STRATEGIES, LLC, CORNERSTONE GOVERNMENT AFFAIRS, INC., COVENANT GOVERNMENT AFFAIRS, LLC, CRESTWOOD STRATEGIES, CROSSROADS STRATEGIES, LLC, DS2 GROUP, LLC, FARRAGUT PARTNERS LLP, FEDERAL HALL POLICY ADVISORS, LLC, INVARIANT LLC, ISSUE ONE, JIM MASSIE & PARTNERS, LLC, KYLE HOUSE GROUP, LOBBYIT.COM, MEHLMAN CONSULTING, INC., MERCURY PUBLIC AFFAIRS, LLC, MG HOUSING STRATEGIES LLC, MONUMENT STRATEGY & SOLUTIONS, MORAN GLOBAL STRATEGIES, INC., MR. JOE MIKLOSI, ONE ACTION, ONEBRIEF, INC., ONEOK INC., PASSAGE CONSULTING GROUP LLC, POLSINELLI PC, R&R PARTNERS, INC., SQUIRE PATTON BOGGS, STATE STREET STRATEGIES DBA ONE+ STRATEGIES, STRATEGIC MARKETING INNOVATIONS, TEN ONE STRATEGIES LLC, THE ONEILL GROUP, LLC, THE PRENDA GROUP LLC, THORN RUN PARTNERS, TIBER CREEK GROUP, VENABLE LLP, VENTURE GOVERNMENT STRATEGIES, LLC (FKA HOBART HALLAWAY & QUAYLE VENTURES, LLC), ZERO ONE STRATEGIES
 

@@ -27,7 +27,7 @@ Thompson represents Mississippi's 2nd District — the poorest congressional dis
 
 ### The January 6th Committee Legacy
 
-Thompson's chairmanship of the January 6th Committee produced 11 public hearings, criminal referrals for Donald Trump, and a final report documenting the insurrection. The committee's work was substantive and historically significant. It was also structurally limited: congressional committees can investigate and refer, but they cannot prosecute. The DOJ's subsequent prosecution of Trump was separate from the committee's work.
+Thompson's chairmanship of the January 6th Committee produced 11 public hearings, referrals for Donald Trump, and a final report documenting the insurrection. The committee's work was substantive and historically significant. It was also structurally limited: congressional committees can investigate and refer, but they cannot prosecute. The DOJ's subsequent prosecution of Trump was separate from the committee's work.
 
 > [!money]
 > Thompson's Homeland Security chairmanship gave him jurisdiction over DHS's $60+ billion budget — covering border security, cybersecurity, FEMA, TSA, and immigration enforcement. Defense and security contractors contribute to committee members regardless of party. The structural irony: Thompson oversees one of the largest federal spending pipelines while representing the poorest district in America, where federal investment in basic infrastructure and healthcare remains far below what his constituents need.

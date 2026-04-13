@@ -508,12 +508,12 @@ known-gaps:
 | Politicians/Democrats/Governors/Amy Acton/The COVID Tenure and the Political Fallout.md | sub-note | ready |
 | Politicians/Democrats/Governors/Amy Acton/The Healthcare Platform and the Insurance Industry Question.md | sub-note | ready |
 | Politicians/Democrats/Governors/Amy Acton/The Labor Coalition and What Unions Expect.md | sub-note | ready |
-| Politicians/Democrats/Governors/Gavin Newsom/Criminal Justice/CCPOA - The Prison Guard Donor and the Reform Ceiling.md | sub-note | ready |
-| Politicians/Democrats/Governors/Gavin Newsom/Criminal Justice/Criminal Justice - Donors and Backers.md | sub-note | ready |
-| Politicians/Democrats/Governors/Gavin Newsom/Criminal Justice/Death Penalty Moratorium - Genuine Win With Limits.md | sub-note | ready |
-| Politicians/Democrats/Governors/Gavin Newsom/Criminal Justice/Gun and Public Safety - Donors and Backers.md | sub-note | ready |
-| Politicians/Democrats/Governors/Gavin Newsom/Criminal Justice/Policing Reform - George Floyd Era.md | sub-note | ready |
-| Politicians/Democrats/Governors/Gavin Newsom/Criminal Justice/San Quentin - COVID Disaster and Rehabilitation Theater.md | sub-note | ready |
+| Politicians/Democrats/Governors/Gavin Newsom/justice system/CCPOA - The Prison Guard Donor and the Reform Ceiling.md | sub-note | ready |
+| Politicians/Democrats/Governors/Gavin Newsom/justice system/justice system - Donors and Backers.md | sub-note | ready |
+| Politicians/Democrats/Governors/Gavin Newsom/justice system/Death Penalty Moratorium - Genuine Win With Limits.md | sub-note | ready |
+| Politicians/Democrats/Governors/Gavin Newsom/justice system/Gun and Public Safety - Donors and Backers.md | sub-note | ready |
+| Politicians/Democrats/Governors/Gavin Newsom/justice system/Policing Reform - George Floyd Era.md | sub-note | ready |
+| Politicians/Democrats/Governors/Gavin Newsom/justice system/San Quentin - COVID Disaster and Rehabilitation Theater.md | sub-note | ready |
 | Politicians/Democrats/Governors/Gavin Newsom/Economic Policy/Budget Priorities - What California Actually Funds.md | sub-note | ready |
 | Politicians/Democrats/Governors/Gavin Newsom/Economic Policy/Corporate Subsidies and the Business Climate Argument.md | sub-note | ready |
 | Politicians/Democrats/Governors/Gavin Newsom/Economic Policy/Economic Policy - Donors and Backers.md | sub-note | ready |
@@ -709,7 +709,7 @@ known-gaps:
 | Politicians/Democrats/Senate/Chuck Schumer/The Wall Street-Schumer Funding Axis.md | sub-note | ready |
 | Politicians/Democrats/Senate/Chuck Schumer/_Chuck Schumer Master Profile.md | politician | ready |
 | Politicians/Democrats/Senate/Cory Booker.md | politician | ready |
-| Politicians/Democrats/Senate/Cory Booker/The Criminal Justice Reform and Bipartisan Alliance.md | sub-note | ready |
+| Politicians/Democrats/Senate/Cory Booker/The justice system Reform and Bipartisan Alliance.md | sub-note | ready |
 | Politicians/Democrats/Senate/Cory Booker/The Pharma Money and Newark Poverty Paradox.md | sub-note | ready |
 | Politicians/Democrats/Senate/Cory Booker/_Cory Booker Master Profile.md | politician | ready |
 | Politicians/Democrats/Senate/Debbie Stabenow/The Agriculture Committee and Farm Bill Politics.md | sub-note | ready |
@@ -717,7 +717,7 @@ known-gaps:
 | Politicians/Democrats/Senate/Dianne Feinstein.md | politician | ready |
 | Politicians/Democrats/Senate/Dick Durbin.md | politician | ready |
 | Politicians/Democrats/Senate/Dick Durbin/The Immigration Reform Stall and Judiciary Leadership.md | sub-note | ready |
-| Politicians/Democrats/Senate/Dick Durbin/The Judiciary Committee and Criminal Justice Reform Limits.md | sub-note | ready |
+| Politicians/Democrats/Senate/Dick Durbin/The Judiciary Committee and justice system Reform Limits.md | sub-note | ready |
 | Politicians/Democrats/Senate/Dick Durbin/_Dick Durbin Master Profile.md | politician | ready |
 | Politicians/Democrats/Senate/Ed Markey/The Climate Hawk and Green New Deal Limits.md | sub-note | ready |
 | Politicians/Democrats/Senate/Ed Markey/The Green New Deal and Telecom Legacy.md | sub-note | ready |
@@ -906,9 +906,9 @@ known-gaps:
 | Politicians/Republicans/House/_Kevin McCarthy Master Profile.md | politician | ready |
 | Politicians/Republicans/Presidential/Donald Trump/Agriculture/Agriculture - Donors and Backers.md | sub-note | ready |
 | Politicians/Republicans/Presidential/Donald Trump/Agriculture/Farm Subsidies, SNAP Cuts, and the Tariff Bailout - Who Actually Got Paid.md | politician | ready |
-| Politicians/Republicans/Presidential/Donald Trump/Criminal Justice & DOJ/Criminal Justice and DOJ - Donors and Backers.md | sub-note | ready |
-| Politicians/Republicans/Presidential/Donald Trump/Criminal Justice & DOJ/The Kash Patel FBI - Loyalty Over Law and the Weaponization of Federal Law Enforcement.md | sub-note | ready |
-| Politicians/Republicans/Presidential/Donald Trump/Criminal Justice & DOJ/The Pardon Machine - Who Got Clemency and Who Funded It.md | politician | ready |
+| Politicians/Republicans/Presidential/Donald Trump/justice system & DOJ/justice system and DOJ - Donors and Backers.md | sub-note | ready |
+| Politicians/Republicans/Presidential/Donald Trump/justice system & DOJ/The Kash Patel FBI - Loyalty Over Law and the Weaponization of Federal Law Enforcement.md | sub-note | ready |
+| Politicians/Republicans/Presidential/Donald Trump/justice system & DOJ/The Pardon Machine - Who Got Clemency and Who Funded It.md | politician | ready |
 | Politicians/Republicans/Presidential/Donald Trump/Crypto/Crypto and Tech - Donors and Backers.md | sub-note | ready |
 | Politicians/Republicans/Presidential/Donald Trump/Crypto/Trump Crypto - The President as Personal Profiteer.md | politician | ready |
 | Politicians/Republicans/Presidential/Donald Trump/DOGE/DOGE - The Billionaires Government.md | politician | ready |

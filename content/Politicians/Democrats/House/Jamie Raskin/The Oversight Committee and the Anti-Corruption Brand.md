@@ -29,7 +29,7 @@ The brand is largely genuine. Raskin's impeachment prosecution was legally rigor
 
 ### The Structural Limit
 
-The limit is institutional, not personal. Raskin's anti-corruption work operates entirely within constitutional mechanisms — impeachment, committee investigations, referrals to DOJ — that have proven inadequate to the scale of the corruption they target. Trump was acquitted in both impeachments. The January 6th criminal referrals produced indictments but no convictions before Trump's return to power. The Oversight Committee investigations generate reports but not structural reform.
+The limit is institutional, not personal. Raskin's anti-corruption work operates entirely within constitutional mechanisms — impeachment, committee investigations, referrals to DOJ — that have proven inadequate to the scale of the corruption they target. Trump was acquitted in both impeachments. The January 6th referrals produced indictments but no convictions before Trump's return to power. The Oversight Committee investigations generate reports but not structural reform.
 
 Raskin's constitutional expertise becomes a trap: his faith in institutional mechanisms prevents him from acknowledging that those mechanisms have failed to constrain the corruption they were designed to address. The anti-corruption brand generates donor enthusiasm and media attention without producing anti-corruption outcomes.
 

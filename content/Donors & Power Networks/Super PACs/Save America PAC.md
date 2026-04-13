@@ -138,7 +138,7 @@ The intersection of Save America donations and presidential clemency creates the
 - Vendors subpoenaed to determine if they delivered services or concealed actual payees
 - **October 2023:** Jack Smith withdrew the Save America PAC subpoena — reason unknown
 - **2025:** Jack Smith resigned from all Trump prosecutions after Trump's election and inauguration
-- **No criminal charges** filed against Save America or Trump related to fundraising fraud
+- **No charges** filed against Save America or Trump related to fundraising fraud
 
 ### FEC complaints:
 - **November 2022:** Campaign Legal Center filed complaint alleging violation of soft money ban
@@ -181,7 +181,7 @@ Save America represents a structural innovation in American political corruption
 
 **The pardon economy.** Save America and MAGA Inc. together create the financial infrastructure for presidential clemency-for-hire. The pattern is documented: family members of pardon-seekers donate to Trump-affiliated PACs; pardon-seekers later receive clemency. No explicit quid pro quo is required because the system operates on mutual understanding. The structural innovation: by routing payments through PACs rather than direct payments, the transaction acquires the legal protection of political speech while serving the functional purpose of purchasing presidential power.
 
-**The enforcement vacuum.** Despite documented deception of donors, a grand jury investigation, FEC complaints, and congressional findings, no criminal charges were filed. Jack Smith withdrew the subpoena. The FEC — structurally deadlocked with an even number of commissioners — has not acted on the Campaign Legal Center complaints. The special counsel resigned after Trump's election. Save America continues to operate and raise money. The lesson for future political operatives is clear: leadership PACs can deceive donors, spend money on personal legal defense, and facilitate pay-for-clemency without facing legal consequences — as long as the PAC holder wins the presidency.
+**The enforcement vacuum.** Despite documented deception of donors, a grand jury investigation, FEC complaints, and congressional findings, no charges were filed. Jack Smith withdrew the subpoena. The FEC — structurally deadlocked with an even number of commissioners — has not acted on the Campaign Legal Center complaints. The special counsel resigned after Trump's election. Save America continues to operate and raise money. The lesson for future political operatives is clear: leadership PACs can deceive donors, spend money on personal legal defense, and facilitate pay-for-clemency without facing legal consequences — as long as the PAC holder wins the presidency.
 
 **Pattern: Two-Audience Problem.** Save America's fundraising appeals target small-dollar donors with messages about defending democracy and fighting election fraud. Its spending benefits a single individual's legal defense. The audience for the rhetoric (grassroots supporters) and the beneficiary of the money (Donald Trump's attorneys) have no overlap in interest.
 

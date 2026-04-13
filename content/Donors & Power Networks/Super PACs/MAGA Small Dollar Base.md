@@ -1,8 +1,8 @@
 ---
 title: "MAGA Small Dollar Base"
 type: donor
-content-readiness: draft
-last-updated: 2026-04-08
+content-readiness: ready
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 sector: "Super PACs"
@@ -84,7 +84,7 @@ The structural returns for the small-dollar base:
 
 **Genuine policy independence (partial).** Trump's tariff agenda, immigration enforcement expansion, and NATO skepticism all reflect small-dollar donor preferences over traditional Republican donor priorities. The base got trade protectionism, border wall construction, and anti-establishment rhetoric that previous Republican nominees (funded exclusively by corporate donors) would never have delivered.
 
-**Legal defense fund.** The base's most concrete expenditure has been funding Trump's legal defense. Save America PAC spent $50M+ on legal fees in 2023 — more than 70% of its second-half spending. Small-dollar donors effectively became Trump's legal defense fund, paying for lawyers in four criminal cases and multiple civil proceedings.
+**Legal defense fund.** The base's most concrete expenditure has been funding Trump's legal defense. Save America PAC spent $50M+ on legal fees in 2023 — more than 70% of its second-half spending. Small-dollar donors effectively became Trump's legal defense fund, paying for lawyers in four cases and multiple civil proceedings.
 
 **Predatory extraction.** What the base has also "gotten" is a fundraising apparatus designed to maximize extraction. WinRed's pre-checked recurring donation boxes generated $122M in refunds during 2020. CNN's investigation found that elderly donors with dementia were among the most heavily targeted — 52 identified families lost $6M+ combined. The FTC received 803 complaints about WinRed between January 2022 and June 2024, seven times the complaints filed against ActBlue. Four state attorneys general launched investigations; Minnesota's remains active.
 

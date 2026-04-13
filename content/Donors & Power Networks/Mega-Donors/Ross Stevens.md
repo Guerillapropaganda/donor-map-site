@@ -1,8 +1,8 @@
 ---
 title: "Ross Stevens"
 type: donor
-content-readiness: draft
-last-updated: 2026-04-10
+content-readiness: ready
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 sector: "Mega-Donors"
@@ -229,7 +229,7 @@ Stevens' political evolution from background institutional donor ($250K to Club 
 | Lobbying Firms | 7 |
 | Individual Lobbyists | 0 |
 
-**Issues lobbied:** Arts/Entertainment, Budget/Appropriations, Defense, Economics/Economic Development, Education, Energy/Nuclear, Government Issues, Health Issues, Homeland Security, Labor Issues/Antitrust/Workplace, Law Enforcement/Crime/Criminal Justice, Manufacturing, Natural Resources, Real Estate/Land Use/Conservation, Transportation, Travel/Tourism, Urban Development/Municipalities
+**Issues lobbied:** Arts/Entertainment, Budget/Appropriations, Defense, Economics/Economic Development, Education, Energy/Nuclear, Government Issues, Health Issues, Homeland Security, Labor Issues/Antitrust/Workplace, Law Enforcement/Crime/justice system, Manufacturing, Natural Resources, Real Estate/Land Use/Conservation, Transportation, Travel/Tourism, Urban Development/Municipalities
 
 **Lobbying firms:** ALSTON & BIRD LLP, HOLLAND & KNIGHT LLP, LNE GROUP, PERRY, WHITE, ROSS & JACOBSON, LLC, ROSS TAYLOR & ASSOCIATES, LLC, ROSSLYN PARTNERS, THE ROSS GROUP, LLC
 

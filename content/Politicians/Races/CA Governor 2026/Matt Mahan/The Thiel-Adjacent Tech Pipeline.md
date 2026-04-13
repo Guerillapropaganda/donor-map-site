@@ -29,7 +29,7 @@ donors: [[Peter Thiel]]
 Lonsdale is the Thiel network's California political operative. His connections:
 - **Palantir co-founder** with [[Peter Thiel|Peter Thiel]] and Alex Karp — the defense/surveillance tech company that anchors the Thiel ecosystem
 - **8VC:** Venture capital firm investing in defense tech, healthcare, housing tech — sectors that intersect directly with gubernatorial policy authority
-- **Cicero Institute:** Conservative policy think tank Lonsdale founded. Focuses on housing deregulation, criminal justice reform, government efficiency — exactly the policy agenda Mahan runs on
+- **Cicero Institute:** Conservative policy think tank Lonsdale founded. Focuses on housing deregulation, justice system reform, government efficiency — exactly the policy agenda Mahan runs on
 - **Republican donor history:** Lonsdale has funded Republican candidates nationally while supporting Mahan (a Democrat) in California. The ideology follows the money, not the party.
 
 > [!money]

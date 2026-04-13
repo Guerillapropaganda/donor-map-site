@@ -39,7 +39,7 @@ The Koch political network — operating through Americans for Prosperity, Stand
 
 ### What He Wants
 
-Reduced government regulation (across every sector), lower taxes (particularly corporate, capital gains, and estate taxes), elimination of climate regulation, opposition to unions, free trade, criminal justice reform (a rare area of Koch-progressive alignment), and reduced government spending on social programs.
+Reduced government regulation (across every sector), lower taxes (particularly corporate, capital gains, and estate taxes), elimination of climate regulation, opposition to unions, free trade, justice system reform (a rare area of Koch-progressive alignment), and reduced government spending on social programs.
 
 ---
 

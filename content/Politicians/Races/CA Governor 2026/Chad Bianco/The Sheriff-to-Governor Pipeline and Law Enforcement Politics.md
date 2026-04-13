@@ -19,7 +19,7 @@ donors: [[Riverside Sheriffs Association]] [[PORAC - Peace Officers Research Ass
 
 [[Chad Bianco]], Sheriff of Riverside County (population 2.4 million), has built a political brand as a "constitutional sheriff" — positioning law enforcement authority as a check on state and federal government. His 2026 gubernatorial campaign represents the most aggressive attempt to convert sheriff political authority into statewide executive power in modern California history.
 
-Bianco's political rise was accelerated by his public defiance of COVID-19 mask mandates and lockdown orders (2020-2021), his opposition to California's criminal justice reform laws (Propositions 47 and 57), and his vocal criticism of Governor Newsom's immigration and public safety policies. This brand of law enforcement populism — combining anti-government rhetoric with expanded police power — mirrors a national pattern of sheriffs seeking higher office.
+Bianco's political rise was accelerated by his public defiance of COVID-19 mask mandates and lockdown orders (2020-2021), his opposition to California's justice system reform laws (Propositions 47 and 57), and his vocal criticism of Governor Newsom's immigration and public safety policies. This brand of law enforcement populism — combining anti-government rhetoric with expanded police power — mirrors a national pattern of sheriffs seeking higher office.
 
 ---
 

@@ -134,7 +134,7 @@ Public Sector Unions ($584K), Transportation Unions ($510K), Building Trade Unio
 ## Policy Area Notes
 
 - [[The Immigration Reform Stall and Judiciary Leadership]] — Durbin's DREAM Act, introduced repeatedly since 2001, has never passed as standalone legislation. Immigration reform mirrors the credit card pattern: introduce, generate press, fail, reintroduce.
-- [[The Judiciary Committee and Criminal Justice Reform Limits]] — Criminal justice reform efforts contrasted with judicial gatekeeping role.
+- [[The Judiciary Committee and justice system Reform Limits]] — justice system reform efforts contrasted with judicial gatekeeping role.
 
 ---
 

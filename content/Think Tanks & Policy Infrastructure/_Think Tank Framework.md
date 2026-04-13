@@ -173,7 +173,7 @@ Same analytical approach as the media pipeline. "Centrist" think tanks will be t
 | 4 | Brookings Institution | Centrist | Wall Street-funded "independent" research, largest think tank by budget |
 | 5 | Cato Institute | Conservative | Koch-founded, libertarian policy factory |
 | 6 | American Enterprise Institute | Conservative | Neoconservative policy, defense contractor connections |
-| 7 | Manhattan Institute | Conservative | NYC-based, housing/criminal justice policy |
+| 7 | Manhattan Institute | Conservative | NYC-based, housing/justice system policy |
 | 8 | Economic Policy Institute | Liberal | Union-funded counter to corporate think tanks |
 | 9 | Council on Foreign Relations | Centrist | Foreign policy establishment, defense/energy donor overlap |
 | 10 | RAND Corporation | Centrist | Defense-funded policy research, government contract model |
