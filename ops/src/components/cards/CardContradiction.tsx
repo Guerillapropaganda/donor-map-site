@@ -52,7 +52,7 @@ export function CardContradiction({ profile, headline, subtext, width, height }:
       }}>
         <div style={{
           color: "#22c55e",
-          fontSize: 9 * scale,
+          fontSize: 13 * scale,
           letterSpacing: "0.3em",
           marginBottom: 8 * scale,
         }}>
@@ -60,7 +60,7 @@ export function CardContradiction({ profile, headline, subtext, width, height }:
         </div>
         <div style={{
           color: "#e4e4e7",
-          fontSize: 14 * scale,
+          fontSize: 18 * scale,
           lineHeight: 1.5,
           fontStyle: "italic",
         }}>
@@ -79,7 +79,7 @@ export function CardContradiction({ profile, headline, subtext, width, height }:
       }}>
         <div style={{
           color: "#ef4444",
-          fontSize: 9 * scale,
+          fontSize: 13 * scale,
           letterSpacing: "0.3em",
           marginBottom: 8 * scale,
         }}>
@@ -87,7 +87,7 @@ export function CardContradiction({ profile, headline, subtext, width, height }:
         </div>
         <div style={{
           color: "#e4e4e7",
-          fontSize: 14 * scale,
+          fontSize: 18 * scale,
           lineHeight: 1.5,
         }}>
           {statement2.slice(0, 120)}{statement2.length > 120 ? "..." : ""}
@@ -127,10 +127,10 @@ export function CardContradiction({ profile, headline, subtext, width, height }:
         justifyContent: "space-between",
         zIndex: 3,
       }}>
-        <div style={{ color: "#fbbf24", fontSize: 10 * scale, fontWeight: 700, letterSpacing: "0.15em" }}>
+        <div style={{ color: "#fbbf24", fontSize: 18 * scale, fontWeight: 700, letterSpacing: "0.15em" }}>
           THE CONTRADICTION
         </div>
-        <div style={{ color: "#7a7a86", fontSize: 8 * scale }}>thedonormap.org</div>
+        <div style={{ color: "#7a7a86", fontSize: 20 * scale }}>thedonormap.org</div>
       </div>
     </div>
   )

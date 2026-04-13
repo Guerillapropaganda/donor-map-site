@@ -90,16 +90,22 @@ export default function DistributionPage() {
   const [customText, setCustomText] = useState("")
   const [mode, setMode] = useState<"text" | "visual">("text")
   const [cardTemplate, setCardTemplate] = useState<string>("receipt")
-  const [cardSize, setCardSize] = useState<"twitter" | "instagram" | "linkedin">("twitter")
+  const [cardSize, setCardSize] = useState<string>("twitter")
   const [cardHeadline, setCardHeadline] = useState("")
   const [cardSubtext, setCardSubtext] = useState("")
   const [downloading, setDownloading] = useState(false)
   const cardRef = useRef<HTMLDivElement>(null)
 
-  const CARD_SIZES = {
-    twitter: { w: 1200, h: 630, label: "Twitter/X (1200x630)" },
-    instagram: { w: 1080, h: 1080, label: "Instagram (1080x1080)" },
-    linkedin: { w: 1200, h: 627, label: "LinkedIn (1200x627)" },
+  const CARD_SIZES: Record<string, { w: number; h: number; label: string }> = {
+    twitter: { w: 1200, h: 675, label: "X / Twitter" },
+    instagram: { w: 1080, h: 1080, label: "Instagram Post" },
+    instagramStory: { w: 1080, h: 1920, label: "IG/TikTok Story" },
+    facebook: { w: 1200, h: 630, label: "Facebook" },
+    threads: { w: 1080, h: 1080, label: "Threads" },
+    tiktok: { w: 1080, h: 1920, label: "TikTok" },
+    reddit: { w: 1200, h: 628, label: "Reddit" },
+    bluesky: { w: 1200, h: 675, label: "Bluesky" },
+    linkedin: { w: 1200, h: 627, label: "LinkedIn" },
   }
 
   const downloadCard = useCallback(async () => {
@@ -107,19 +113,36 @@ export default function DistributionPage() {
     setDownloading(true)
     try {
       const html2canvas = (await import("html2canvas")).default
-      const canvas = await html2canvas(cardRef.current, {
+      const el = cardRef.current
+      // html2canvas needs the element to be visible and full-size
+      const origTransform = el.style.transform
+      const origTransformOrigin = el.style.transformOrigin
+      el.style.transform = "none"
+      el.style.transformOrigin = "top left"
+
+      const canvas = await html2canvas(el, {
         scale: 2,
         useCORS: true,
         backgroundColor: null,
         logging: false,
+        width: CARD_SIZES[cardSize].w,
+        height: CARD_SIZES[cardSize].h,
       })
+
+      // Restore preview scaling
+      el.style.transform = origTransform
+      el.style.transformOrigin = origTransformOrigin
+
       const link = document.createElement("a")
-      const name = selected?.title.replace(/ Master Profile$/, "").replace(/[^a-zA-Z0-9]/g, "-").toLowerCase() || "card"
-      link.download = `donormap-${name}-${cardTemplate}-${cardSize}.png`
+      const profileName = selected?.title.replace(/ Master Profile$/, "").replace(/[^a-zA-Z0-9]/g, "-").toLowerCase() || "card"
+      link.download = `donormap-${profileName}-${cardTemplate}-${cardSize}.png`
       link.href = canvas.toDataURL("image/png")
+      document.body.appendChild(link)
       link.click()
+      document.body.removeChild(link)
     } catch (e) {
       console.error("Card download failed:", e)
+      alert("Download failed. Try refreshing the page.")
     }
     setDownloading(false)
   }, [selected, cardTemplate, cardSize])
@@ -246,18 +269,18 @@ export default function DistributionPage() {
                 </button>
               ))}
             </div>
-            <div className="flex gap-1.5">
-              {(["twitter", "instagram", "linkedin"] as const).map((s) => (
+            <div className="flex flex-wrap gap-1.5">
+              {Object.entries(CARD_SIZES).map(([key, size]) => (
                 <button
-                  key={s}
-                  onClick={() => setCardSize(s)}
-                  className={`px-3 py-2 rounded-lg text-[10px] transition-all ${
-                    cardSize === s
+                  key={key}
+                  onClick={() => setCardSize(key)}
+                  className={`px-3 py-1.5 rounded-lg text-[9px] transition-all ${
+                    cardSize === key
                       ? "bg-[var(--color-steel)]/15 text-[var(--color-steel)] border border-[var(--color-steel)]/30"
                       : "bg-[var(--color-bg-card)] border border-[var(--color-border)] text-[var(--color-text-dim)] hover:text-[var(--color-text)]"
                   }`}
                 >
-                  {CARD_SIZES[s].label}
+                  {size.label}
                 </button>
               ))}
             </div>
@@ -293,10 +316,11 @@ export default function DistributionPage() {
             <div
               style={{
                 width: "100%",
-                maxWidth: 600,
+                maxWidth: 700,
                 margin: "0 auto",
                 aspectRatio: `${CARD_SIZES[cardSize].w} / ${CARD_SIZES[cardSize].h}`,
                 overflow: "hidden",
+                border: "1px solid var(--color-border)",
               }}
             >
               <div
@@ -304,7 +328,7 @@ export default function DistributionPage() {
                 style={{
                   width: CARD_SIZES[cardSize].w,
                   height: CARD_SIZES[cardSize].h,
-                  transform: `scale(${Math.min(600 / CARD_SIZES[cardSize].w, 1)})`,
+                  transform: `scale(${Math.min(700 / CARD_SIZES[cardSize].w, 1)})`,
                   transformOrigin: "top left",
                 }}
               >

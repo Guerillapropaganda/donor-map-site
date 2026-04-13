@@ -36,13 +36,13 @@ export function CardHeadline({ profile, headline, subtext, width, height }: Prop
       }}>
         <div style={{
           color: "#1a1a1a",
-          fontSize: 14 * scale,
+          fontSize: 18 * scale,
           fontWeight: 700,
           letterSpacing: "0.2em",
         }}>
           THE DONOR MAP
         </div>
-        <div style={{ color: "#7a7a86", fontSize: 9 * scale }}>
+        <div style={{ color: "#7a7a86", fontSize: 13 * scale }}>
           OPEN-SOURCE DONOR INTELLIGENCE
         </div>
       </div>
@@ -79,7 +79,7 @@ export function CardHeadline({ profile, headline, subtext, width, height }: Prop
 
         <div style={{
           color: "#4a4a4a",
-          fontSize: 14 * scale,
+          fontSize: 18 * scale,
           lineHeight: 1.6,
           maxWidth: "80%",
         }}>
@@ -99,10 +99,10 @@ export function CardHeadline({ profile, headline, subtext, width, height }: Prop
         justifyContent: "space-between",
         backgroundColor: "#f5f0eb",
       }}>
-        <div style={{ color: "#ef4444", fontSize: 10 * scale, fontWeight: 700, letterSpacing: "0.15em" }}>
+        <div style={{ color: "#ef4444", fontSize: 18 * scale, fontWeight: 700, letterSpacing: "0.15em" }}>
           FOLLOW THE MONEY
         </div>
-        <div style={{ color: "#7a7a86", fontSize: 9 * scale }}>
+        <div style={{ color: "#7a7a86", fontSize: 13 * scale }}>
           thedonormap.org
         </div>
       </div>

@@ -60,7 +60,7 @@ export function CardLeak({ profile, headline, subtext, width, height }: CardLeak
         top: 20 * scale,
         right: 30 * scale,
         color: "#ef4444",
-        fontSize: 14 * scale,
+        fontSize: 18 * scale,
         fontWeight: 700,
         letterSpacing: "0.2em",
         border: "2px solid #ef4444",
@@ -75,7 +75,7 @@ export function CardLeak({ profile, headline, subtext, width, height }: CardLeak
       <div>
         <div style={{
           color: "#7a7a86",
-          fontSize: 10 * scale,
+          fontSize: 18 * scale,
           letterSpacing: "0.3em",
           textTransform: "uppercase" as const,
           marginBottom: 8 * scale,
@@ -112,7 +112,7 @@ export function CardLeak({ profile, headline, subtext, width, height }: CardLeak
 
         <div style={{
           color: "#4a4a4a",
-          fontSize: 16 * scale,
+          fontSize: 20 * scale,
           lineHeight: 1.6,
           maxWidth: "80%",
         }}>
@@ -136,16 +136,16 @@ export function CardLeak({ profile, headline, subtext, width, height }: CardLeak
         alignItems: "flex-end",
       }}>
         <div>
-          <div style={{ color: "#1a1a1a", fontSize: 11 * scale, fontWeight: 700, letterSpacing: "0.15em" }}>
+          <div style={{ color: "#1a1a1a", fontSize: 15 * scale, fontWeight: 700, letterSpacing: "0.15em" }}>
             SOURCE: THEDONORMAP.ORG
           </div>
-          <div style={{ color: "#7a7a86", fontSize: 9 * scale, marginTop: 4 * scale }}>
+          <div style={{ color: "#7a7a86", fontSize: 13 * scale, marginTop: 4 * scale }}>
             Open-source political donor intelligence
           </div>
         </div>
         <div style={{
           color: "#ef4444",
-          fontSize: 11 * scale,
+          fontSize: 15 * scale,
           fontWeight: 700,
           letterSpacing: "0.2em",
         }}>

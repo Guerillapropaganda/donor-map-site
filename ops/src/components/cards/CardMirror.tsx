@@ -48,7 +48,7 @@ export function CardMirror({ profile, headline, subtext, width, height }: Props)
         justifyContent: "center",
         padding: `${40 * scale}px`,
       }}>
-        <div style={{ color: "#5b8dce", fontSize: 10 * scale, letterSpacing: "0.3em", marginBottom: 8 * scale }}>
+        <div style={{ color: "#5b8dce", fontSize: 18 * scale, letterSpacing: "0.3em", marginBottom: 8 * scale }}>
           DEMOCRAT
         </div>
         <div style={{
@@ -59,7 +59,7 @@ export function CardMirror({ profile, headline, subtext, width, height }: Props)
         }}>
           [Senator A]
         </div>
-        <div style={{ color: "#7a7a86", fontSize: 10 * scale, lineHeight: 1.6 }}>
+        <div style={{ color: "#7a7a86", fontSize: 18 * scale, lineHeight: 1.6 }}>
           Top donors:<br/>Goldman Sachs<br/>JPMorgan<br/>Citigroup
         </div>
       </div>
@@ -78,7 +78,7 @@ export function CardMirror({ profile, headline, subtext, width, height }: Props)
         padding: `${40 * scale}px`,
         textAlign: "right" as const,
       }}>
-        <div style={{ color: "#ef4444", fontSize: 10 * scale, letterSpacing: "0.3em", marginBottom: 8 * scale }}>
+        <div style={{ color: "#ef4444", fontSize: 18 * scale, letterSpacing: "0.3em", marginBottom: 8 * scale }}>
           REPUBLICAN
         </div>
         <div style={{
@@ -89,7 +89,7 @@ export function CardMirror({ profile, headline, subtext, width, height }: Props)
         }}>
           [Senator B]
         </div>
-        <div style={{ color: "#7a7a86", fontSize: 10 * scale, lineHeight: 1.6 }}>
+        <div style={{ color: "#7a7a86", fontSize: 18 * scale, lineHeight: 1.6 }}>
           Top donors:<br/>Goldman Sachs<br/>JPMorgan<br/>Citigroup
         </div>
       </div>
@@ -116,7 +116,7 @@ export function CardMirror({ profile, headline, subtext, width, height }: Props)
         </div>
         <div style={{
           color: "#7a7a86",
-          fontSize: 10 * scale,
+          fontSize: 18 * scale,
           marginTop: 4 * scale,
         }}>
           {s}
@@ -134,10 +134,10 @@ export function CardMirror({ profile, headline, subtext, width, height }: Props)
         justifyContent: "space-between",
         zIndex: 3,
       }}>
-        <div style={{ color: "#fbbf24", fontSize: 10 * scale, fontWeight: 700, letterSpacing: "0.2em" }}>
+        <div style={{ color: "#fbbf24", fontSize: 18 * scale, fontWeight: 700, letterSpacing: "0.2em" }}>
           THE MIRROR
         </div>
-        <div style={{ color: "#ef4444", fontSize: 9 * scale, fontWeight: 700, letterSpacing: "0.15em", border: "1px solid #ef444466", padding: `${2 * scale}px ${6 * scale}px` }}>
+        <div style={{ color: "#ef4444", fontSize: 13 * scale, fontWeight: 700, letterSpacing: "0.15em", border: "1px solid #ef444466", padding: `${2 * scale}px ${6 * scale}px` }}>
           DONOR MAP
         </div>
       </div>
@@ -153,7 +153,7 @@ export function CardMirror({ profile, headline, subtext, width, height }: Props)
         justifyContent: "center",
         zIndex: 3,
       }}>
-        <div style={{ color: "#7a7a86", fontSize: 9 * scale }}>
+        <div style={{ color: "#7a7a86", fontSize: 13 * scale }}>
           thedonormap.org // FOLLOW THE MONEY
         </div>
       </div>
