@@ -86,6 +86,16 @@ Russell Vought. OMB Director (second term, confirmed February 2025, 53-47 party-
 
 ---
 
+## Class Analysis
+
+Russell Vought is the blueprint-to-implementation pipeline made human. The Conservative Partnership Institute seeded the Center for Renewing America with $1.93 million. The Klingenstein Fund added $125,000. The Bradley Impact Fund contributed $11,500. Vought founded CRA, co-authored the OMB and executive power chapters of Project 2025, then returned to government to implement his own policy designs. The Heritage Foundation ($101 million revenue) funded the 900-page Mandate for Leadership. A broader network of $171 million in donor-advised funds at Fidelity, Schwab, and Vanguard flowed to Project 2025-related groups since 2020. The donors who funded the blueprint purchased the federal budget process. Trump has implemented approximately 48% of Project 2025. Vought's function is to deliver the rest.
+
+The "small government" ideology is the cover story. In practice, Vought concentrates more executive power than any OMB director in history. He froze $18 billion in NYC infrastructure. He cut USAID funding 83% ($1.3 billion+ terminated). He proposed a 54% cut to the EPA. He attempted to defund the CFPB ($711.6 million balance). He removed 200,000+ career civil servants through Schedule F, replacing merit-based hiring with ideological loyalty screening. He redirected $15 million from USAID and $5 million from the CFPB to fund his own security detail. The budget office is not shrinking government. It is concentrating government power in the hands of one person who answers to the conservative donor network that funded his career.
+
+The Christian nationalist framework provides the moral architecture. Vought has written that the United States should be "recognized as a Christian nation" and that Muslims "stand condemned." The budget is not fiscal under Vought. It is theological. Programs defunded: abortion access, LGBTQ+ protections, DEI initiatives, "systemic racism" references. The ideological filter determines which programs survive and which are cut. The Heritage Foundation donors get their policy agenda. The Christian nationalist donors get their cultural agenda. The federal workforce gets purged. The mechanism is the impoundment strategy Vought tested in 2019 when he froze $214 million in Ukraine security aid, triggering Trump's first impeachment. That was the pilot. This is the full deployment.
+
+---
+
 ## Rhetorical Signature Moves
 
 1. **The anti-deep-state warrior:** "Taking down the deep state" while building a loyalty-based federal bureaucracy. The function: frame the destruction of civil service independence as democratic accountability.
