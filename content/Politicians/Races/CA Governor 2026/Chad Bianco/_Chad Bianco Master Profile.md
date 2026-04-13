@@ -196,7 +196,7 @@ Bianco's investigators claim citizen volunteers reviewing public records found 6
 | Donors With Federal Contracts | 1 |
 | Committee Overlap Detected | None |
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-12.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-13.*
 <!-- auto:influence-cross-ref end -->
 
 ### DOJ Press Releases

@@ -3,7 +3,7 @@ title: "Joseph Morelle Master Profile"
 type: politician
 content-readiness: draft
 central-thesis: "Morelle is the institutional Democrat — a career legislator who spent nearly three decades in the Albany Assembly before moving to Congress, where he now oversees the mechanics of federal elections from the House Administration Committee. His dono..."
-last-updated: 2026-04-12
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -37,7 +37,7 @@ known-gaps:
   - "No legislative record from Congress.gov"
   - "No mapped relationships"
 related: "[[_Chuck Schumer Master Profile|Chuck Schumer]]"
-last-enriched: "2026-04-12"
+last-enriched: "2026-04-13"
 committees:
   - "House Committee on Appropriations"
   - "House Committee on House Administration"

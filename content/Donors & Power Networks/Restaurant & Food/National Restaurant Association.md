@@ -239,7 +239,7 @@ Preservation of the $2.13/hour tipped minimum wage, opposition to federal minimu
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-11.*
 <!-- auto:influence-cross-ref end -->
 
-<!-- auto:influence-cross-ref pending-merge 2026-04-12 -->
+<!-- auto:influence-cross-ref pending-merge 2026-04-13 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 
@@ -263,6 +263,6 @@ Preservation of the $2.13/hour tipped minimum wage, opposition to federal minimu
 - [[Jason Smith]] (Ways & Means) — lobbying: $3.1M
 - [[Bryan Steil]] — lobbying: $3.1M
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-12.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-13.*
 
 <!-- auto:influence-cross-ref pending-merge end -->

@@ -6,7 +6,7 @@ chamber: "Senate"
 party: "Democrat"
 content-readiness: draft
 central-thesis: "Bob Casey was the Senate's largest recipient of pharmaceutical industry donations (content-readiness: draft.8 million since 2007, $520,776 in 2024 cycle alone) while publicly positioning himself as opposing corporate healthcare profiteering. This contradiction was surv..."
-last-updated: 2026-04-08
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 donors: "[[American Iron and Steel Institute]]"
@@ -19,6 +19,7 @@ internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.
   • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it.
   • No last-enriched date is set. The pipelines have never touched this file.
 The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+last-enriched: "2026-04-13"
 ---
 #bob-casey #senate #pennsylvania #labor #pharma #class-analysis #2024-defeat #democrat
 tags: #democrat
@@ -100,3 +101,29 @@ Yet Casey remained unfazed. His pharma donors were reliable, his labor base felt
 
 - [Congress.gov: Bob Casey](https://www.congress.gov/member/c001091) (Tier 1)
 <!-- auto:voting-record end -->
+
+### Legislative Activity (Congress.gov)
+<!-- auto:congress-legislation start -->
+| Metric | Value |
+|--------|-------|
+| Scope | Career Total |
+| Party | Democrat |
+| Chamber | Senate |
+| Bills Sponsored | 1263 |
+| Bills Cosponsored | 4166 |
+
+**Recent sponsored legislation:**
+
+| Bill | Title | Status |
+|------|-------|--------|
+| — |  | — |
+| — |  | — |
+| — |  | — |
+| — |  | — |
+| — |  | — |
+| — |  | — |
+| — |  | — |
+| — |  | Amendment SA 3837 agreed to in Senate by Unanimous Consent. |
+
+- [Source: Congress.gov](https://www.congress.gov/member/C001070) (Tier 1)
+<!-- auto:congress-legislation end -->

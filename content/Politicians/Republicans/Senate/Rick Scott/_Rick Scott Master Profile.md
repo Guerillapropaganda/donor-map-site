@@ -3,7 +3,7 @@ title: "Rick Scott Master Profile"
 type: politician
 content-readiness: draft
 central-thesis: "Rick Scott is the most literal example of the donor-class thesis: he IS the donor class. He doesn't receive money from healthcare fraudsters — he WAS the healthcare fraudster. He doesn't receive self-funding from a clean fortune — his content-readiness: draft52M+ in ca..."
-last-updated: 2026-04-12
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 party: "Republican"

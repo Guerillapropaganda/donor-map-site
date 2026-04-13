@@ -192,5 +192,5 @@ The deeper pattern: OFT represents workers who serve the public. The donor class
 
 - [[Amy Acton]] — lobbying: $2.9M
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-12.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-13.*
 <!-- auto:influence-cross-ref end -->

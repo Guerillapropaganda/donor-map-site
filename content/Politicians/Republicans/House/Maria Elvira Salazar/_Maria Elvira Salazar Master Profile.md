@@ -3,7 +3,7 @@ title: "Maria Elvira Salazar"
 type: politician
 content-readiness: draft
 central-thesis: "Salazar is the public face of Miami's Cuba hawks in the House — the communicator who translates the Fanjul/exile donor agenda into populist, identity-driven rhetoric for the Cuban-American base. While Diaz-Balart wields Appropriations power and Ru..."
-last-updated: 2026-04-12
+last-updated: 2026-04-13
 needs-reenrichment: true
 reenrich-reason: "Bioguide recovered 2026-04-11 (was contaminated, now verified): S000168. Next pipeline run should populate Congress.gov + GovTrack auto-blocks with correct data."
 known-gaps:
@@ -17,7 +17,7 @@ district: "27"
 top-donors:
   - "AIPAC"
 ofac-sdn-match: "true"
-last-enriched: "2026-04-12"
+last-enriched: "2026-04-13"
 ofac-programs:
   - "SDNTK"
 total-received: "$922,124"

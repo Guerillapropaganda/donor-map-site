@@ -188,7 +188,7 @@ The system works because Democratic politicians need tech billionaire money more
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-09.*
 <!-- auto:influence-cross-ref end -->
 
-<!-- auto:influence-cross-ref pending-merge 2026-04-12 -->
+<!-- auto:influence-cross-ref pending-merge 2026-04-13 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 
@@ -208,6 +208,6 @@ The system works because Democratic politicians need tech billionaire money more
 - [[Chris Murphy]] (Foreign Relations, Appropriations) — lobbying: $1.3M
 - [[Cory Booker]] — lobbying: $1.3M
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-12.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-13.*
 
 <!-- auto:influence-cross-ref pending-merge end -->

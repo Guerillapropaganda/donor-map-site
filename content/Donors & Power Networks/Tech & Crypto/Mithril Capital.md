@@ -159,7 +159,7 @@ Mithril sits within the broader Thiel venture ecosystem alongside [[Founders Fun
 
 - [[JD Vance]] — lobbying: $130K
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-12.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-13.*
 <!-- auto:influence-cross-ref end -->
 
 ### Federal Court Records (CourtListener)

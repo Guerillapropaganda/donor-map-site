@@ -3,7 +3,7 @@ title: "Maxine Waters"
 type: politician
 content-readiness: draft
 central-thesis: "Waters is the populist gatekeeper of Wall Street regulation. Her Financial Services Committee position makes her the person every bank, insurer, crypto exchange, and real estate lobby needs to engage with — whether she's in the majority or minorit..."
-last-updated: 2026-04-12
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -23,7 +23,7 @@ website: "https://waters.house.gov"
 phone: "202-225-2201"
 donors: "[[California Nurses Association]]"
 related: "[[The Wall Street Democrat - Goldman Sachs to Congress Pipeline]] · [[Gregory Meeks]] · [[_Donald Trump Master Profile|Trump]] · [[Goldman Sachs]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[SEIU - Service Employees International Union|SEIU]] · [[Frank Pallone]]"
-last-enriched: "2026-04-12"
+last-enriched: "2026-04-13"
 needs-reenrichment: true
 reenrich-reason: "run fec pipeline; run congress pipeline"
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
@@ -218,7 +218,7 @@ Her rhetoric consistently frames regulation as protection — protecting consume
 - [GovTrack: Maxine Waters](https://www.govtrack.us/congress/members/400422) (Tier 1)
 <!-- auto:voting-record end -->
 
-<!-- auto:voting-record pending-merge 2026-04-12 -->
+<!-- auto:voting-record pending-merge 2026-04-13 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 

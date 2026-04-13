@@ -170,7 +170,7 @@ John Boehner. U.S. Representative (OH-8, 1991–2015). Speaker of the House (201
 
 - [[JPMorgan Chase]] — $9.8M lobbying spend (Agriculture, Banking, Budget/Appropriations)
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-12.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-13.*
 <!-- auto:influence-cross-ref end -->
 
 ### Campaign Finance (FEC)

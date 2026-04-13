@@ -6,7 +6,7 @@ chamber: "Senate"
 party: "Democrat"
 content-readiness: draft
 central-thesis: "Adam Schiff exemplifies the Democratic Party's security establishment player: an intelligence operative who performs progressive values while serving the national security state. His 2019–2023 role as House Intelligence Committee chair gave him ac..."
-last-updated: 2026-04-08
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 fec-candidate-id: "H0CA27085"
@@ -21,6 +21,18 @@ The needs-reenrichment flag has been set. The next scheduled pipeline run will p
 [URL Check 2026-04-08] 8 checked: 6 ok, 2 broken, 0 slow. | BROKEN: CalMatters: Katie Porter, Adam Schiff and Barbara Lee swore off corporate PAC money. What does that mean? | BROKEN: Washington Post: Katie Porter appears outmatched by Adam Schiff's establishment support"
 needs-reenrichment: true
 reenrich-reason: "run voting pipeline; run congress pipeline; run pipelines"
+last-enriched: "2026-04-13"
+issues:
+  - "Agriculture and Food"
+  - "Armed Forces and National Security"
+  - "Civil Rights and Liberties, Minority Issues"
+  - "Emergency Management"
+  - "Finance and Financial Sector"
+  - "Foreign Trade and International Finance"
+  - "Government Operations and Politics"
+  - "Health"
+  - "Immigration"
+  - "International Affairs"
 ---
 #master-profile #democrat #senate #california #intelligence #hollywood #aipac #follow-the-money #class-analysis
 tags: #democrat
@@ -137,3 +149,31 @@ AIPAC's $5M+ independent spending on Schiff's behalf during 2023–2024 reflecte
 
 - [Congress.gov: Adam Schiff](https://www.congress.gov/member/c001091) (Tier 1)
 <!-- auto:voting-record end -->
+
+### Legislative Activity (Congress.gov)
+<!-- auto:congress-legislation start -->
+| Metric | Value |
+|--------|-------|
+| Scope | Career Total |
+| Party | Democrat |
+| Chamber | Senate |
+| Bills Sponsored | 494 |
+| Bills Cosponsored | 5809 |
+
+**Policy areas:** Agriculture and Food, Armed Forces and National Security, Civil Rights and Liberties, Minority Issues, Emergency Management, Finance and Financial Sector, Foreign Trade and International Finance, Government Operations and Politics, Health, Immigration, International Affairs, Native Americans, Sports and Recreation, Taxation, Transportation and Public Works
+
+**Recent sponsored legislation:**
+
+| Bill | Title | Status |
+|------|-------|--------|
+| 146 | A joint resolution providing for congressional disapproval under chapter 8 of ti… | Read twice and referred to the Committee on Banking, Housing, and Urban Affairs. |
+| 4160 | Prediction Markets Are Gambling Act | Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry. |
+| — |  | — |
+| — |  | — |
+| — |  | — |
+| — |  | — |
+| — |  | — |
+| — |  | — |
+
+- [Source: Congress.gov](https://www.congress.gov/member/S001150) (Tier 1)
+<!-- auto:congress-legislation end -->
