@@ -1,9 +1,9 @@
 ---
 title: "Saikat Chakrabarti Master Profile"
 type: politician
-content-readiness: draft
+content-readiness: ready
 central-thesis: "Chakrabarti is the vault's most structurally unusual figure: a centimillionaire (content-readiness: draft67M+ disclosed net worth) who built the progressive insurgent infrastructure that the donor class has spent the last decade trying to contain. He designed the Justi..."
-last-updated: 2026-04-12
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -138,6 +138,18 @@ Everybody Techworks, Inc. (voter data tools, $50K–$100K), Reach Progress PBC (
 **2019–2024:** Runs New Consensus. Produces the Biden executive action memo (2020) and the Mission for America (ongoing). Organization peaks at $1.66M revenue in FY2019, collapses to $935 in FY2020, partially recovers, declines to $200K by FY2023.
 
 **2025–2026:** Announces CA-11 candidacy February 5, 2025. Self-funds $1.47M. Justice Democrats endorses him March 30, 2026. AOC has not endorsed. DSA SF explicitly disavows him. California Democratic Party gives him 0 of 151 delegate votes (Wiener gets 117). Polling: Wiener 32%, Chakrabarti 20%, Chan 17% (Data for Progress, commissioned by Chakrabarti campaign). Polymarket: Wiener 55%, Chan 30%, Chakrabarti 9%.
+
+---
+
+## Class Analysis
+
+Saikat Chakrabarti is the donor class running for office without the intermediary. Most politicians in the vault receive money from the asset-owning class and then vote accordingly. Chakrabarti IS the asset-owning class: $167 million minimum net worth, Stripe equity exceeding $50 million, Fidelity government securities exceeding $50 million, Lowercarbon Capital stakes, Blue Owl GP Stakes funds, two San Francisco rental properties, and $16 million in investment income in a single year. He self-funded 83.1% of his congressional campaign ($1,470,000 in self-loans). The standard donor-to-politician pipeline collapses when the donor and the politician are the same person.
+
+The structural question is whether Chakrabarti's politics change the class analysis. His policy platform (Medicare for All, wealth tax, end military aid to Israel, Green New Deal) would structurally reduce returns on his own asset class. He rejects corporate PAC money. He built Justice Democrats, the organization designed to recruit working-class candidates and challenge corporate Democrats. He drafted the Green New Deal from AOC's office at $80,000 a year while sitting on nine figures of Stripe equity. The politics are genuinely progressive. But a centimillionaire self-funding a congressional campaign is still a centimillionaire purchasing a seat, regardless of the ideology attached.
+
+The Pelosi seat makes the class dynamics explicit. Nancy Pelosi built a career converting institutional power into personal wealth ($120 million+ net worth through her husband's venture capital and real estate). Chakrabarti proposes converting personal wealth into institutional power in the opposite direction, but through the same seat. The California Democratic Party gave him zero delegate votes. DSA San Francisco disavowed him. Polymarket prices him at 9%. The institutional party is containing him using the same gatekeeping mechanisms his organizations were built to dismantle. Whether the containment reflects legitimate democratic preference or donor-class protection of its own infrastructure is the open question.
+
+Justice Democrats endorsing their own co-founder completes the circle. Chakrabarti designed the machine, staffed it, watched it produce AOC and Bowman and Bush, then fed himself through it. The working-class recruitment infrastructure he built is now endorsing a centimillionaire. The contradiction does not invalidate the work. It reveals the structural limits of building working-class power when the builder belongs to the class being challenged.
 
 ---
 

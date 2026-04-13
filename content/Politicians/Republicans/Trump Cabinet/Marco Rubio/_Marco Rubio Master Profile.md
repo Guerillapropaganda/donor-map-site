@@ -1,9 +1,9 @@
 ---
 title: "Marco Rubio Master Profile"
 type: politician
-content-readiness: draft
+content-readiness: ready
 central-thesis: "Rubio went from 'Little Marco' to Secretary of State by becoming useful — his hawkish foreign policy (anti-China, anti-Cuba, pro-Israel) serves defense contractor donors and his conversion from Trump critic to loyalist mirrors the entire Republica..."
-last-updated: "2026-04-05"
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 party: "Republican"
@@ -116,6 +116,16 @@ In January 2026, Rubio's career-long Cuba hawkishness became operational policy.
 Three donor clusters extract returns simultaneously: the [[Fanjul Family - Florida Crystals|Fanjul family]] gets permanent protection from Cuban sugar competition; the [[LARA Fund - Mauricio Claver-Carone|LARA Fund]] (run by former Special Envoy Claver-Carone) positions $750M in capital to acquire "distressed" Latin American infrastructure; and [[_Mario Diaz-Balart Master Profile|Diaz-Balart]] provides the legislative shield through Appropriations. The [[MasTec - Mas Canosa Family|Mas Canosa family]] (MasTec, $12B+ revenue) sits ready for post-embargo infrastructure contracts.
 
 See: [[Operation Southern Spear and the Cuba Fuel Blockade]] for the full timeline, OFAC FAQ 1238 "wedge" analysis, and humanitarian cost documentation.
+
+---
+
+## Class Analysis
+
+Marco Rubio's career is the purest example of donor-driven position reversal in the vault. In 2013, he co-authored the most ambitious immigration reform legislation in a generation, the Gang of Eight bill. It passed the Senate 68-32 with bipartisan support. Rubio toured Spanish-language media defending a path to citizenship for 11 million undocumented immigrants. Then Donald Trump entered the 2016 primary. Under pressure from the MAGA base, Rubio said his own signature legislation "was never intended to become law." He claimed the bill he wrote, whipped votes for, and defended on national television was a performance piece. The funding base recalibrated around him: centrist donor credit for proposing reform, MAGA donor credit for killing it. Double dipping on a single bill.
+
+Three donor clusters drive Marco Rubio's foreign policy. The Fanjul family (Florida Crystals, Domino Sugar, combined net worth $8 billion) needs the Cuba embargo to protect their Florida sugar empire from Cuban competition. The Fanjul investment in Rubio ($500K+ career) returns federal sugar subsidies worth $1 billion+ annually. AIPAC and the Israel lobby ($1 million+ career) purchased Rubio's leadership of the Senate fight against the Iran nuclear deal, the most hawkish Iran voice in the chamber. The defense contractor network (Boeing, General Dynamics, Honeywell) funded the Intelligence and Foreign Relations Committee member who provided oversight of their contracts while attending their fundraisers. All three clusters extract returns from the same posture: sustained military tension with Iran, Cuba, Venezuela, and China. As Secretary of State (confirmed 99-0 in January 2025), Rubio now executes the foreign policy his donor base paid for over two decades.
+
+The Cuba blockade completed the transaction. Trump's January 2026 executive order declared a national emergency. Joint Task Force Southern Spear interdicted fuel shipments. Cuba's power grid collapsed. The Fanjul family gets permanent protection from Cuban sugar competition. The LARA Fund (run by former Special Envoy Mauricio Claver-Carone) positions $750 million in capital to acquire "distressed" Latin American infrastructure. The Mas Canosa family (MasTec, $12 billion+ revenue) stands ready for post-embargo infrastructure contracts. Norman Braman's $10 million presidential investment in 2016 yielded zero return when Rubio lost Florida by 19 points. But the sugar lobby's $500K career investment yielded $1 billion+ annually in federal price supports. In Marco Rubio's career, the ROI depends on which donor class you belong to.
 
 ---
 

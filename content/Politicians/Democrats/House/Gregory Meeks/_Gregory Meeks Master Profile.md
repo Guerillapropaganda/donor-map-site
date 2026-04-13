@@ -148,6 +148,16 @@ Ponzi schemer Allen Stanford asked Meeks to meet with Hugo Chávez on his behalf
 
 ---
 
+## Class Analysis
+
+Gregory Meeks represents one of New York's most working-class Black districts. Jamaica, Far Rockaway, Cambria Heights, Rosedale. His small-donor rate is 1.16%. His PAC funding rate is 75.37%. These two numbers tell the entire story of Gregory Meeks: a congressman whose political operation has nothing to do with the people of Southeast Queens and everything to do with AIPAC, Wall Street, and private equity.
+
+The Foreign Affairs Committee ranking membership is the asset. Gregory Meeks holds effective veto authority over U.S. foreign military sales to Israel. AIPAC has invested $523,000+ career in maintaining that authority. In the 2024 cycle alone, AIPAC contributed $292,777. The return on investment is total: Meeks publicly expresses "reservations" about Israeli arms sales, demands "assurances," and then approves every single transfer. He voted to censure Rashida Tlaib. He voted to declare "from the river to the sea" antisemitic. His district includes significant Palestinian American communities and a Black constituency that overwhelmingly supports Palestinian rights. The reservations are for the constituency. The approvals are for the donors.
+
+The KKR pop-up PAC is the most precisely documented pay-to-play sequence in the vault. In December 2019, Meeks defended private equity at a House Financial Services Committee hearing. Days later, he formed "Working Together," a joint fundraising committee. It raised $114,500. Nearly 90% came from KKR executives and employees. The committee was terminated shortly after. Defend the industry on the record. Open the fundraising vehicle. Collect the check. Shut it down. The ethics record (undisclosed $40,000 gifts, below-market home purchases from earmark recipients, foreign government-funded travel, the Allen Stanford/Chavez meeting) is not a series of isolated incidents. It is the operating model of a politician whose personal financial interests, donor relationships, and policy positions have merged into a single, undifferentiated operation serving the donor class from a majority-Black working-class district.
+
+---
+
 ## Analytical Patterns
 
 **Two-Audience Problem (Israel/Palestine):** Meeks represents a district with significant Palestinian American communities and a Black constituency that overwhelmingly supports Palestinian rights. His donors are [[AIPAC - American Israel Public Affairs Committee|AIPAC]] ($523,000+). He publicly pledges to "fight for Palestinian civilians," expresses "reservations" about arms sales, and criticizes Trump's emergency arms declarations — but has never voted to block an actual arms transfer to Israel. He voted to censure Tlaib and to declare "from the river to the sea" antisemitic. The rhetorical resistance and the policy compliance serve different audiences.

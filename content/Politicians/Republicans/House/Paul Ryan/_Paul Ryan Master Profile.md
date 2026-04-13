@@ -1,9 +1,9 @@
 ---
 title: "Paul Ryan"
 type: politician
-content-readiness: draft
+content-readiness: ready
 central-thesis: "Paul Ryan exemplifies the donor-class politician masked as principled conservative. His public brand is 'fiscal hawk' concerned about deficits and wasteful spending. But his legislative record contradicts this entirely: as Speaker, he authored the..."
-last-updated: 2026-04-09
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 party: "Republican"
@@ -105,6 +105,16 @@ Paul Ryan. U.S. Representative (WI-1, 1999–2019). Speaker of the House (2015�
 - **2011–2015:** House Budget Committee chairman; frames deficit reduction as priority
 - **2015–2019:** Speaker of the House; delivers $1.9 trillion tax cut; undermines own deficit reduction rhetoric
 - **2019–present:** Fox Corporation board member; provides ideological credibility for pro-corporate media platform
+
+---
+
+## Class Analysis
+
+Paul Ryan spent 18 years in Congress building a brand as a "serious fiscal conservative" concerned about deficits, debt, and government spending. He read Ayn Rand as a teenager. He waved budget spreadsheets at cameras. He positioned himself as the Republican Party's intellectual wing. Then he authored the 2017 Tax Cuts and Jobs Act, which increased the federal deficit by $1.9 trillion to deliver the largest upward wealth transfer in a generation: corporate tax rates cut from 35% to 21%, top individual rates reduced from 39.6% to 37%. Within 18 months of the Act's passage, Paul Ryan announced his retirement from Congress and joined the Fox Corporation board of directors.
+
+The sequence is the analysis. The Koch network and Wall Street (Goldman Sachs, JPMorgan Chase, Morgan Stanley, Bank of America) funded Ryan's entire congressional career. Americans for Prosperity provided grassroots infrastructure. The Heritage Foundation provided intellectual cover. Ryan's function was to make corporate tax cuts sound like fiscal policy rather than plutocratic redistribution. His "policy wonk" brand was marketing, not ideology. The deficit hawk who increased the deficit by $1.9 trillion was never a deficit hawk. He was a delivery mechanism for Koch network and Wall Street legislative priorities. The brand made the delivery possible.
+
+The post-Congress transition confirms the transaction. Ryan moved seamlessly from Speaker of the House to Fox Corporation board member, collecting an estimated $150,000 to $250,000 annually in board compensation plus speaking fees, book deals, and consulting contracts totaling $500,000+ per year. The revolving door did not rotate. It was always open. Ryan provided legislative delivery in Congress, then ideological credibility on Murdoch's media platform. Wisconsin's working-class voters in the 1st District received nothing from the corporate tax cuts their congressman authored. Goldman Sachs and Koch Industries received the $1.9 trillion. Ryan received the Fox board seat. The fiscal conservative was always a fiscal delivery service.
 
 ---
 

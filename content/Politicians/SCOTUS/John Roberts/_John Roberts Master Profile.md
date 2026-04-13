@@ -1,9 +1,9 @@
 ---
 title: "John Roberts Master Profile"
 type: politician
-content-readiness: draft
+content-readiness: ready
 central-thesis: "John Roberts is the donor class's long-game strategist on the Supreme Court. While Thomas and Alito deliver reliable conservative votes and accumulate ethics scandals, Roberts manages the Court's institutional legitimacy — strategically joining li..."
-last-updated: 2026-04-07
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 chamber: "SCOTUS"
@@ -98,6 +98,16 @@ John G. Roberts Jr. Chief Justice of the United States (2005–present). Nominat
 > **The Leo investment → Citizens United → Shelby County → Loper Bright pipeline:** [[Leonard Leo|Leonard Leo]] spends $15M of dark money to install Roberts (2005). Roberts delivers Citizens United — unlimited dark money in politics (2010). Roberts delivers Shelby County — gutted voting rights enabling voter suppression (2013). Roberts delivers Loper Bright — corporations can now challenge federal regulations in court without agencies receiving deference (2024). Each ruling builds on the last: unlimited money buys elections, voter suppression reduces opposition turnout, deregulation removes the rules the donor class doesn't want. The pipeline took 19 years. The return on Leo's $15M investment is incalculable.
 >
 > **The strategic defection pattern:** Roberts saves the ACA (2012), blocks the census question (2019), joins liberals on abortion restrictions (2020), then writes separately in Dobbs (2022). Between each defection: Citizens United, Shelby County, West Virginia v. EPA, Loper Bright, presidential immunity. The defections buy the credibility that makes the devastating rulings survivable.
+
+---
+
+## Class Analysis
+
+Leonard Leo spent $15 million in dark money to install John Roberts as Chief Justice in 2005. The investment has returned incalculable value across 19 years of structural rulings. Citizens United v. FEC (2010) legalized unlimited corporate political spending. Dark money in federal elections: $139 million in 2010, $313 million in 2012, $1.9 billion in 2024. Total since the ruling: $4.3 billion+. Shelby County v. Holder (2013) gutted the Voting Rights Act. Texas announced its strictest voter ID law the same day. Twenty-nine states passed 94 restrictive voting laws in the following decade. Loper Bright v. Raimondo (2024) overturned 40 years of Chevron deference, shifting power from regulatory agencies to courts stocked with Federalist Society judges. Each ruling builds on the last: unlimited money buys elections, voter suppression reduces opposition turnout, deregulation removes the rules the donor class does not want.
+
+The strategic defections are not breaks from this project. They are what makes the project sustainable. Roberts saved the Affordable Care Act in 2012 (but limited Medicaid expansion). He blocked the census citizenship question in 2019 (calling the rationale "contrived"). He joined liberals on abortion clinic restrictions in 2020 (invoking stare decisis he abandoned two years later). He wrote separately in Dobbs, voting to uphold Mississippi's ban but opposing the full reversal of Roe (wanting the conservative win without the institutional damage). Each defection purchases exactly enough institutional credibility that the public and political establishment accept the 5-4 and 6-3 rulings that reshape American governance. The umpire metaphor from his confirmation hearing ("judges don't make the rules, they apply them") is the single most effective rhetorical disguise in the vault. Citizens United, Shelby County, and Loper Bright did not apply rules. They rewrote them.
+
+The personal financial structure mirrors the institutional one. Roberts's estimated net worth is $17-27 million. His wife Jane Roberts runs a legal recruiting firm generating millions in annual income. Roberts earned $700K+ annually at Hogan and Hartson before the bench. The Chief Justice who manages the Court's legitimacy so it can keep delivering for the donor class is himself a product of the donor class: Harvard College, Harvard Law, Rehnquist clerk, corporate law partner, Federalist Society pipeline, $15 million Leo confirmation campaign. Thomas and Alito deliver reliable conservative votes and accumulate ethics scandals. Roberts delivers the architecture. The architecture is designed to last decades. It is working.
 
 ---
 

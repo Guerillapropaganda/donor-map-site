@@ -1,9 +1,9 @@
 ---
 title: "Roger Williams"
 type: politician
-content-readiness: draft
+content-readiness: ready
 central-thesis: "Roger Williams is the donor class serving itself directly — no middleman required. He doesn't take money from auto dealers and then do their bidding. He IS the auto dealer. He chairs the Small Business Committee while running a $50 million+ dealer..."
-last-updated: 2026-04-11
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 party: "Republican"
@@ -133,6 +133,16 @@ This is the Self-Funding as Independence pattern in its purest form, inverted: W
 |------|------|-------|-------|--------|-----|
 | 2019 | TRADE | Wife sells stocks in GE, Nvidia, Disney ($3K-$45K) | — | $3K-$45K | — |
 | 2021 | ← COMPLAINT | Campaign Legal Center files ethics complaint for STOCK Act violation — failure to disclose | — | — | 2 years |
+
+---
+
+## Class Analysis
+
+Roger Williams is not a politician captured by the donor class. Roger Williams is the donor class, seated in Congress. His $50 million dealership empire, his $27 million net worth, his active business operations running simultaneously with his committee chairmanship. This is not corruption in the traditional sense. There is no bribe, no quid pro quo, no smoking-gun donation-to-vote pipeline. The auto dealer industry did not need to buy Roger Williams. Roger Williams bought the chairmanship himself.
+
+The class function is structural. The House Small Business Committee exists to protect actual small businesses from the predatory practices of larger competitors. Roger Williams chairs that committee while operating a dealership empire that earned $63 million in revenue in a single year. His legislative energy flows toward exempting his own dealerships from safety recall requirements, promoting LIFO tax accounting that benefits auto dealer inventory management, and securing $1-2 million in forgivable PPP loans administered by programs his committee oversees. The committee designed to protect corner stores and independent contractors is chaired by a multimillionaire whose business model squeezes those exact operators out of markets.
+
+The ethics record confirms the structure. The Office of Congressional Ethics unanimously found "substantial reason to believe" Roger Williams used his official position to benefit his personal business interests. Williams refused to cooperate with the investigation. The House Ethics Committee ended the inquiry without action. His wife's STOCK Act violations (unreported trades in GE, Nvidia, Disney) add a second layer: the Williams household treats financial disclosure as optional. The 1.16% chance that any given Williams voter could name his top donor is irrelevant. Roger Williams does not need donors. He is the donor, the legislator, and the beneficiary, all in one person. The Small Business Committee gavel and the dealership keys are held by the same hand.
 
 ---
 

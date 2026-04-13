@@ -142,6 +142,16 @@ The structural difference is minor. Both are payment processors with embedded po
 
 ---
 
+## Class Analysis
+
+ActBlue processed $3.8 billion in the 2024 cycle alone, taking a 3.95% cut on every transaction. That is $150 million in annual fee revenue for a "nonprofit." The organization's structural position is identical to a financial toll booth: no Democratic candidate, PAC, or ballot initiative can raise money at scale without paying ActBlue's processing fee. This is not democratized fundraising. This is monopoly infrastructure extracting rents from every dollar that moves through the Democratic ecosystem.
+
+The small-dollar framing obscures who actually benefits. ActBlue claims 85% of its volume comes from donations under $200, positioning itself as the people's platform. But the platform's real power lies in its data infrastructure, behavioral records on 200+ million Americans, and its ability to determine which candidates receive donor list recommendations and visibility. ActBlue decides who gets funded before voters decide who gets elected. The earmark controversy compounds this: when donors give to a specific candidate and that candidate does not deposit the check within 60 days, ActBlue keeps the money. An estimated $200 million in earmarked donations may have been redirected under this clause during the chaotic 2024 cycle.
+
+The comparison to WinRed reveals the bipartisan nature of the grift. Both platforms charge nearly identical fees (3.95% vs 3.94%), both hold donor data in opaque arrangements, and both function as gatekeepers controlling candidate viability. ActBlue wraps its monopoly in nonprofit language while WinRed operates as an explicit for-profit corporation. The structural difference is cosmetic. The actual function, concentrating capital and controlling candidate access to donor networks, is identical on both sides of the aisle.
+
+---
+
 ### Sources
 
 - ~~[OpenSecrets: ActBlue organization profile](https://www.opensecrets.org/orgs/actblue/summary?id=D000021585)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)

@@ -1,8 +1,8 @@
 ---
 title: "AbbVie"
 type: corporation
-content-readiness: draft
-last-updated: 2026-04-12
+content-readiness: ready
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 sector: "Pharma & Healthcare"
@@ -83,6 +83,16 @@ AbbVie filed 132 patents on Humira — covering the drug itself, the delivery de
 
 > [!money]
 > AbbVie's 132-patent Humira strategy extracted an estimated $70 billion in excess revenue by delaying biosimilar competition for seven years. AbbVie's lobbying spend over that period was approximately $60 million. The return on lobbying investment: approximately 116,000%. This is the pharmaceutical industry's most successful patent monetization strategy in history.
+
+---
+
+## Class Analysis
+
+AbbVie built the most aggressive patent thicket in pharmaceutical history: 132 patents on Humira, a single drug. The core patent expired in 2016. Biosimilar competition did not arrive until 2023. That seven-year delay generated approximately $70 billion in excess revenue, money that came directly from patients, insurers, and taxpayers who paid monopoly prices for a drug that should have faced generic competition years earlier. AbbVie's lobbying spend over that period was roughly $60 million. The return on lobbying investment: 116,000%.
+
+The Humira strategy is now the template for the entire pharmaceutical industry. Merck is replicating it with Keytruda (160+ patents). Eli Lilly is building similar thickets around its GLP-1 drugs. AbbVie proved that filing dozens of overlapping patents on delivery devices, manufacturing processes, and treatment methods can extend monopoly pricing far beyond what Congress intended when it created patent exclusivity periods. The strategy is legal. It is also a direct transfer of wealth from sick people to pharmaceutical shareholders, with the patent system functioning as the enforcement mechanism.
+
+AbbVie's PAC distributes $1.5-2 million per cycle across both parties, with $30,000 each to the DSCC, NRSC, and NRCC in its FEC filings. This bipartisan spread is not ideological. It is insurance. AbbVie needs both parties to leave the patent system intact, and both parties have obliged. The Inflation Reduction Act's drug negotiation provision was the first meaningful threat to this arrangement in decades, and even that law exempted most drugs and phased in slowly enough to give companies time to file additional patents. AbbVie's 12,951 federal court cases tell the rest of the story: the company litigates relentlessly to defend every layer of its patent fortress.
 
 ---
 

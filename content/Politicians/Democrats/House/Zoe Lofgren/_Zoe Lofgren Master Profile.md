@@ -1,9 +1,9 @@
 ---
 title: "Zoe Lofgren"
 type: politician
-content-readiness: draft
+content-readiness: ready
 central-thesis: "Zoe Lofgren is Silicon Valley's member of Congress — funded by Apple, Google, Meta, Cisco, and the entire tech ecosystem, representing the district where those companies are headquartered. When Big Tech antitrust legislation came before the Judici..."
-last-updated: 2026-04-11
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -126,6 +126,16 @@ The H-1B visa issue completes the tech industry alignment: Lofgren's immigration
 | 2017 | ← POLICY | Introduces H-1B reform: prioritize companies paying highest wages (= largest tech firms) | — | — | — |
 | 2021 | ← POLICY | Introduces legislation to shorten path to citizenship for immigrant tech workers | — | — | — |
 | 2024 | ← NOTE | The immigration attorney-turned-congresswoman writes visa policy that serves the labor needs of her donors. H-1B reform that favors highest-paying employers = Apple, Google, Meta. | — | — | — |
+
+---
+
+## Class Analysis
+
+Zoe Lofgren's district IS Silicon Valley. Apple, Google, Meta, Cisco, Adobe, eBay, PayPal. She represents the zip codes where these companies are headquartered. Her top donors are the executives and employees of these companies. Her committee assignments (Judiciary, Science and Technology) give her jurisdiction over the legislation that regulates these companies. When the most significant antitrust legislation in a generation came before her Judiciary Committee, Zoe Lofgren was the critical Democratic holdout who sided with Republicans to kill every major bill targeting her donors' business models.
+
+The antitrust votes are the class analysis in action. The American Innovation and Choice Online Act would have imposed nondiscrimination standards on dominant platforms. The Open App Markets Act would have let developers bypass Apple's App Store. The Platform Competition and Opportunity Act would have prohibited acquisitions by dominant platforms. Zoe Lofgren opposed all of them. These bills would have benefited Silicon Valley workers (more competition, more startups, better labor bargaining power), Silicon Valley consumers (lower prices, more choices), and the broader tech ecosystem. They would have threatened the specific business models (platform dominance, data monopoly, acquisition-based growth) that Apple, Google, and Meta depend on. Lofgren chose the companies over the workers, the monopolists over the competitors, the donors over the constituents.
+
+The H-1B visa work completes the alignment. Lofgren, the former immigration attorney, writes visa reform bills that prioritize companies willing to pay the highest wages. Which companies pay the highest wages? Apple, Google, Meta. The immigration attorney-turned-congresswoman writes immigration policy for the industry that funds her campaigns. The January 6th Committee work makes the contradiction visible: Lofgren investigated a political threat to democracy (the Capitol attack) and co-authored the Presidential Election Reform Act. But when the most significant economic threat to democratic competition in the marketplace came before her committee, she protected the monopolists. Democracy in politics. Monopoly in business. Both positions serve the same donor class. The district, the donors, the committee jurisdiction, and the policy agenda all point to the same corporate ecosystem. The alignment is total.
 
 ---
 

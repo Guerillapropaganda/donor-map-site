@@ -133,6 +133,16 @@ Opposition to drug price negotiation expansion (particularly for GLP-1 drugs), f
 
 <!-- auto:lda-lobbying end -->
 
+## Class Analysis
+
+Novo Nordisk, Eli Lilly, and Sanofi control 90% of the global insulin market for a drug discovered in 1921 whose patent was sold for $1 because the inventors believed everyone should have access to it. A vial costs $2-4 to manufacture. Novo Nordisk charges $200-300 in the United States while the same vial costs $20-30 in most other countries. The pricing gap is not a function of manufacturing costs or innovation. It is a function of the US regulatory and patent framework that Novo Nordisk spends $17 million annually lobbying to preserve. The company extracts its share of approximately $30 billion per year from 8.4 million insulin-dependent Americans who will die without the product.
+
+The GLP-1 market is the next phase of the same playbook. Novo Nordisk successfully reframed obesity from a systemic condition driven by food industry practices, economic stress, and sedentary labor into a medical condition requiring lifetime pharmaceutical treatment. Ozempic and Wegovy have created a projected $100+ billion annual market by 2030. Novo Nordisk is now lobbying for Medicare and Medicaid coverage of obesity drugs, which would transfer the cost of this permanent pharmaceutical dependency directly to taxpayers. The company's $17.1 million lobbying operation targets CMS, the FDA, and congressional appropriations committees to ensure this coverage expansion proceeds on terms favorable to the manufacturer.
+
+Novo Nordisk's FEC contributions reveal the bipartisan insurance strategy common across pharma. The top recipient is the DLGA PAC ($122,500), followed by the New Democrat Coalition Action Fund ($88,500) and the NRSC ($35,000). The company funds centrist Democrats who will block aggressive price negotiation and Republicans who oppose government intervention in drug markets. Both investments serve the same goal: maintaining the pricing structure that allows a Danish corporation to charge Americans 10-15 times what the rest of the world pays for insulin. The 9,469 federal court cases, overwhelmingly personal injury product liability suits concentrated in the Eastern District of Pennsylvania, are the human cost measured in litigation.
+
+---
+
 ### Sources
 
 - [OpenSecrets: Novo Nordisk organizational profile](https://www.opensecrets.org/orgs/novo-nordisk/summary?id=D000042338) (Tier 1)

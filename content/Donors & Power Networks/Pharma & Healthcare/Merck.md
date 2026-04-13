@@ -1,8 +1,8 @@
 ---
 title: "Merck"
 type: corporation
-content-readiness: draft
-last-updated: 2026-04-12
+content-readiness: ready
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 sector: "Pharma & Healthcare"
@@ -115,6 +115,16 @@ Opposition to Medicare drug price negotiation expansion (particularly before Key
 - [Source: USASpending.gov](https://www.usaspending.gov/search/?hash=recipient-Merck) (Tier 1)
 
 <!-- auto:usaspending end -->
+
+## Class Analysis
+
+Merck spends $11-14 million per year on lobbying to protect Keytruda's $25 billion in annual revenue. That is a 1:1,250 investment-to-return ratio. The company filed 160+ patents on a single drug to build a patent thicket that prevents biosimilar competition years beyond the original exclusivity period. This is not innovation. This is legal engineering designed to maintain monopoly pricing on a cancer treatment that received significant NIH-funded research support. Taxpayers funded the science, then Merck patented the results and charged taxpayers again through Medicare.
+
+Merck was the first pharmaceutical company to sue the federal government over the Inflation Reduction Act's Medicare drug price negotiation provision. The lawsuit failed, but that was never the point. The litigation strategy succeeded in delaying implementation, buying additional quarters of unrestricted pricing. Every quarter of delay on a $25 billion drug is worth roughly $6 billion in preserved revenue. Merck's legal fees for the constitutional challenge were a rounding error compared to the revenue protected during the delay period.
+
+The Merck model reveals the pharmaceutical class strategy in its purest form: extract public research, privatize the results through patent thickets, spend a fraction of revenue on lobbying and litigation to maintain pricing power, and frame any government negotiation as unconstitutional theft of intellectual property. Merck's $2.2 billion Department of Defense contract for molnupiravir (COVID antiviral) shows the other side of the relationship. The company is happy to take government money as a customer while suing that same government for attempting to negotiate prices on other products. The contradiction is the business model.
+
+---
 
 ### Sources
 

@@ -3,9 +3,9 @@ title: Catherine Cortez Masto
 type: politician
 chamber: "Senate"
 party: "Democrat"
-content-readiness: draft
+content-readiness: ready
 central-thesis: "Nevada's economy is gaming. Cortez Masto's donor base is gaming. Top donors include Las Vegas Sands Corporation (controlled by Miriam Adelson), Caesars Entertainment, MGM Resorts, and their executives. Between 2017–2024, gaming industry donors con..."
-last-updated: '2026-04-09'
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 total-received: '$4,570,516'
@@ -61,6 +61,16 @@ Cortez Masto's most documented service to gaming donors is the sports betting de
 
 > [!contradiction]
 > **The labor senator funded by casino owners against her own labor constituency.** Cortez Masto receives strong union support from Culinary Workers Local 226 while her donor base is the casino operators those unions confront at bargaining tables. This is not accidental—it's her function. She votes for symbolic worker wins (COVID relief, unemployment benefits) while voting for sports betting tax breaks benefiting her casino donors. Culinary Workers gain rhetorical solidarity while their employer base gains federal tax advantages. The contradiction collapses in the mechanics: casino owners don't fear labor power because they control the senator the unions endorse. Cortez Masto simultaneously serves two classes that appear opposed but are actually coordinated through her political position.
+
+## Class Analysis
+
+Catherine Cortez Masto is the casino industry's senator performing as the labor movement's senator. The funding structure is explicit: gaming industry donors contributed $500K+ directly to Cortez Masto's campaigns, while bundled contributions through Las Vegas Sands, Caesars Entertainment, and MGM Resorts affiliates reached $28 million in the 2020 cycle alone. The Culinary Workers Union (60,000+ casino workers) endorsed her. The casino operators who exploit those workers funded her. Both believe she represents their interests. Only one of them is correct.
+
+The class function resolves the apparent contradiction. Cortez Masto's role is labor containment on behalf of casino ownership. She votes for temporary worker relief (COVID assistance, unemployment benefits, pandemic support) that prevents labor mobilization while protecting the structural conditions that keep casino workers subordinate. She has never voted for legislation that would fundamentally threaten gaming industry profitability: no wealth taxation, no union card-check, no antitrust action against gaming consolidation, no wage floors that would cut into casino margins. The sports betting tax reduction she co-sponsored with Republican Cindy Hyde-Smith is the clearest evidence. Cortez Masto delivered a bipartisan tax break for casino owners while framing it as "supporting Nevada's vital tourism economy." The workers in those casinos see no benefit from tax policy changes that enrich their employers.
+
+The 10:1 funding ratio tells the structural story. Gaming industry bundlers provided ten times what small-dollar labor networks could deliver. Cortez Masto's political survival depends on casino owner money, not union dues. The Culinary Workers think they have a champion in the Senate. They have a manager. Casino owners accept the union relationship because they control the senator the unions endorse. The sports betting legislation, the regulatory relief, the tax breaks: these flow to ownership. The pandemic relief, the unemployment benefits, the rhetorical solidarity: these flow to workers. One is permanent policy. The other is temporary containment. Cortez Masto's function is ensuring the workers never notice the difference.
+
+---
 
 ## Rhetorical Signature Moves
 
