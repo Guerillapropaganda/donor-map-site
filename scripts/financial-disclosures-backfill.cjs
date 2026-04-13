@@ -148,21 +148,93 @@ async function parseHousePdf(pdfBuffer) {
       const chunkStart = Math.max(prevEnd, amt.start - 600);
       const chunk = text.slice(chunkStart, amt.end);
 
-      const tickerMatch = chunk.match(/\(([A-Z][A-Z0-9.]{0,5})\)\s*\[/);
-      let ticker = tickerMatch ? tickerMatch[1] : null;
-
+      // ─── Ticker extraction (multi-strategy) ───
+      let ticker = null;
       let assetDesc = '';
-      if (tickerMatch) {
-        const beforeTicker = chunk.slice(0, chunk.lastIndexOf('(' + ticker + ')'));
-        const descLines = beforeTicker.split(/\n/).map(l => l.trim()).filter(l => l.length > 3);
-        assetDesc = descLines.slice(-2).join(' ').replace(/^.*?([\w])/, '$1').slice(0, 150);
+
+      // Strategy 1: Standard format (AAPL)[ — original regex
+      const tickerMatch1 = chunk.match(/\(([A-Z][A-Z0-9.]{0,5})\)\s*\[/);
+      if (tickerMatch1) ticker = tickerMatch1[1];
+
+      // Strategy 2: Ticker followed by ) then S/P/E (buy/sell/exchange) — covers OCR garbling
+      if (!ticker) {
+        const tickerMatch2 = chunk.match(/\(([A-Z][A-Z0-9.]{0,5})\)\s*[SPE]\s*\d{2}\//i);
+        if (tickerMatch2) ticker = tickerMatch2[1];
       }
 
-      // If no ticker found, check for crypto keywords in the chunk
+      // Strategy 3: Ticker in parens anywhere — broadest match
+      if (!ticker) {
+        const tickerMatch3 = chunk.match(/\(([A-Z][A-Z0-9.]{0,5})\)/);
+        // Validate it looks like a real ticker (not SP, JT, DC which are owner codes)
+        if (tickerMatch3 && !['SP', 'JT', 'DC', 'II', 'IV', 'VI', 'ID', 'OF', 'OR', 'AN', 'IN', 'TO', 'AT', 'NO'].includes(tickerMatch3[1])) {
+          ticker = tickerMatch3[1];
+        }
+      }
+
+      // Strategy 4: Subholding extraction — "SUBHOLDING OF: [trust] SP[Company (TICKER)]"
+      if (!ticker) {
+        const subMatch = chunk.match(/(?:SUB\s*H[Oo]LDING|SubHOlDINg|SUBHOLDING)\s+(?:OF|oF):\s*(.{10,200})/i);
+        if (subMatch) {
+          const subText = subMatch[1];
+          // Look for ticker in the subholding text
+          const subTicker = subText.match(/\(([A-Z][A-Z0-9.]{0,5})\)/);
+          if (subTicker && !['SP', 'JT', 'DC', 'II', 'IV'].includes(subTicker[1])) {
+            ticker = subTicker[1];
+          }
+          // Extract company name for description
+          const companyMatch = subText.match(/(?:SP|JT|DC)\s*(.{5,80}?)(?:\(|$|\d{2}\/)/);
+          if (companyMatch) assetDesc = companyMatch[1].trim().slice(0, 150);
+        }
+      }
+
+      // Strategy 5: Company name to ticker mapping for common names without parens
+      if (!ticker) {
+        const COMPANY_TICKERS = {
+          'apple': 'AAPL', 'microsoft': 'MSFT', 'amazon': 'AMZN', 'google': 'GOOGL',
+          'alphabet': 'GOOGL', 'facebook': 'META', 'meta platforms': 'META',
+          'tesla': 'TSLA', 'nvidia': 'NVDA', 'netflix': 'NFLX',
+          'berkshire hathaway': 'BRK.B', 'jpmorgan': 'JPM', 'johnson & johnson': 'JNJ',
+          'exxonmobil': 'XOM', 'exxon': 'XOM', 'chevron': 'CVX',
+          'lockheed martin': 'LMT', 'boeing': 'BA', 'raytheon': 'RTX',
+          'pfizer': 'PFE', 'unitedhealth': 'UNH', 'walmart': 'WMT',
+          'home depot': 'HD', 'procter & gamble': 'PG', 'coca-cola': 'KO',
+          'disney': 'DIS', 'verizon': 'VZ', 'at&t': 'T', 'comcast': 'CMCSA',
+          'general electric': 'GE', 'general motors': 'GM', 'ford motor': 'F',
+          'caterpillar': 'CAT', 'dow chemical': 'DOW', 'dupont': 'DD',
+          'conocophillips': 'COP', 'marathon petroleum': 'MPC', 'halliburton': 'HAL',
+          'bank of america': 'BAC', 'wells fargo': 'WFC', 'goldman sachs': 'GS',
+          'morgan stanley': 'MS', 'citigroup': 'C', 'charles schwab': 'SCHW',
+          'paypal': 'PYPL', 'visa': 'V', 'mastercard': 'MA', 'american express': 'AXP',
+          'abbvie': 'ABBV', 'eli lilly': 'LLY', 'merck': 'MRK', 'gilead': 'GILD',
+          'costco': 'COST', 'target': 'TGT', 'lowes': 'LOW',
+          'union pacific': 'UNP', 'norfolk southern': 'NSC',
+          'nextEra energy': 'NEE', 'duke energy': 'DUK', 'southern company': 'SO',
+          'palo alto networks': 'PANW', 'crowdstrike': 'CRWD', 'palantir': 'PLTR',
+          'salesforce': 'CRM', 'oracle': 'ORCL', 'adobe': 'ADBE',
+          'coinbase': 'COIN', 'riot platforms': 'RIOT', 'marathon digital': 'MARA',
+          'philip morris': 'PM', 'altria': 'MO',
+        };
+        const chunkLower = chunk.toLowerCase();
+        for (const [name, tk] of Object.entries(COMPANY_TICKERS)) {
+          if (chunkLower.includes(name)) { ticker = tk; break; }
+        }
+      }
+
+      // Build description from chunk text near the ticker
+      if (ticker && !assetDesc) {
+        // Try to find the ticker in the chunk and get text before it
+        const tickerIdx = chunk.indexOf('(' + ticker + ')');
+        if (tickerIdx > 0) {
+          const beforeTicker = chunk.slice(Math.max(0, tickerIdx - 200), tickerIdx);
+          const descLines = beforeTicker.split(/\n/).map(l => l.trim()).filter(l => l.length > 3);
+          assetDesc = descLines.slice(-2).join(' ').replace(/^.*?([\w])/, '$1').slice(0, 150);
+        }
+      }
+
+      // Strategy 6: Crypto keywords (unchanged)
       if (!ticker && CRYPTO_ASSET_KEYWORDS.test(chunk)) {
         const cryptoMatch = chunk.match(CRYPTO_ASSET_KEYWORDS);
         const keyword = cryptoMatch ? cryptoMatch[1].toLowerCase() : 'crypto';
-        // Map common crypto names to pseudo-tickers
         const cryptoMap = {
           'bitcoin': 'BTC', 'ethereum': 'ETH', 'solana': 'SOL',
           'cardano': 'ADA', 'dogecoin': 'DOGE', 'ripple': 'XRP',
@@ -171,10 +243,12 @@ async function parseHousePdf(pdfBuffer) {
           'bnb': 'BNB', 'algorand': 'ALGO',
         };
         ticker = cryptoMap[keyword] || 'CRYPTO';
-        if (!assetDesc) {
-          const descLines = chunk.split(/\n/).map(l => l.trim()).filter(l => l.length > 3 && !l.match(/^\d{2}\/\d{2}/));
-          assetDesc = descLines.slice(-2).join(' ').replace(/^.*?([\w])/, '$1').slice(0, 150);
-        }
+      }
+
+      // Fallback description
+      if (!assetDesc) {
+        const descLines = chunk.split(/\n/).map(l => l.trim()).filter(l => l.length > 3 && !l.match(/^\d{2}\/\d{2}/) && !l.match(/^\$/));
+        assetDesc = descLines.slice(-2).join(' ').replace(/^.*?([\w])/, '$1').slice(0, 150);
       }
 
       const dates = [];

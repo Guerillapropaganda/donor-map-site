@@ -115,7 +115,7 @@ export default function CapitolTradesPage() {
   const [enhancedStats, setEnhancedStats] = useState<any>(null)
   const [tradeStories, setTradeStories] = useState<any>(null)
   const [loading, setLoading] = useState(true)
-  const [tab, setTab] = useState<"table" | "flow" | "trail" | "tickers" | "traders" | "stories" | "unusual" | "conflicts" | "lobby" | "crypto">("table")
+  const [tab, setTab] = useState<"table" | "flow" | "trail" | "tickers" | "traders" | "stories" | "scoreboard" | "unusual" | "conflicts" | "lobby" | "crypto">("table")
   const [lobbyData, setLobbyData] = useState<any>(null)
   // Crypto tier filters — tiers 1-3 on by default, adjacent (tier 4) opt-in
   const [activeTiers, setActiveTiers] = useState<Set<CryptoTier>>(new Set(['direct', 'etf', 'company']))
@@ -127,6 +127,9 @@ export default function CapitolTradesPage() {
   const [tradeType, setTradeType] = useState("")
   const [owner, setOwner] = useState("")
   const [flowTicker, setFlowTicker] = useState("")
+  const [yearFilter, setYearFilter] = useState("")
+  const [amountFilter, setAmountFilter] = useState("")
+  const [flagFilter, setFlagFilter] = useState("")
 
   // Table state
   const [page, setPage] = useState(0)
@@ -171,7 +174,7 @@ export default function CapitolTradesPage() {
   }, [])
 
   const filtered = useMemo(() => {
-    let result = trades
+    let result = trades as any[]
     if (search) {
       const s = search.toLowerCase()
       result = result.filter(t =>
@@ -184,6 +187,19 @@ export default function CapitolTradesPage() {
     if (chamber) result = result.filter(t => t.chamber === chamber)
     if (tradeType) result = result.filter(t => t.type === tradeType)
     if (owner) result = result.filter(t => t.owner === owner)
+    if (yearFilter) result = result.filter(t => String(t.year) === yearFilter)
+    if (amountFilter) {
+      if (amountFilter === '500k+') result = result.filter(t => (t.amount?.max || 0) >= 500000)
+      else if (amountFilter === '100k+') result = result.filter(t => (t.amount?.max || 0) >= 100000)
+      else if (amountFilter === '50k+') result = result.filter(t => (t.amount?.max || 0) >= 50000)
+    }
+    if (flagFilter) {
+      if (flagFilter === 'whale') result = result.filter(t => t.isWhaleTrade || (t.amount?.max || 0) >= 500000)
+      else if (flagFilter === 'late') result = result.filter(t => t.isLateDisclosure)
+      else if (flagFilter === 'options') result = result.filter(t => t.isOptions)
+      else if (flagFilter === 'crypto') result = result.filter(t => t.isCrypto)
+      else if (flagFilter === 'no-ticker') result = result.filter(t => !t.ticker)
+    }
 
     result.sort((a, b) => {
       let va: any, vb: any
@@ -199,7 +215,7 @@ export default function CapitolTradesPage() {
       return sortDir * (va - vb)
     })
     return result
-  }, [trades, search, chamber, tradeType, owner, sortField, sortDir])
+  }, [trades, search, chamber, tradeType, owner, yearFilter, amountFilter, flagFilter, sortField, sortDir])
 
   const paged = useMemo(() => filtered.slice(page * PAGE_SIZE, (page + 1) * PAGE_SIZE), [filtered, page])
   const totalPages = Math.ceil(filtered.length / PAGE_SIZE)
@@ -315,13 +331,13 @@ export default function CapitolTradesPage() {
         </div>
       )}
 
-      {/* Filters */}
-      <div className="flex gap-2 mb-4">
+      {/* Filters — Row 1 */}
+      <div className="flex gap-2 mb-2">
         <input
           type="text"
           value={search}
           onChange={e => { setSearch(e.target.value); setPage(0) }}
-          placeholder="Search politician or ticker..."
+          placeholder="Search politician, ticker, or state..."
           className="flex-1 px-3 py-2 bg-[var(--color-bg-card)] border border-[var(--color-border)] text-[var(--color-text)] font-mono text-xs focus:border-[var(--color-steel)] focus:outline-none"
         />
         <select value={chamber} onChange={e => { setChamber(e.target.value); setPage(0) }}
@@ -345,15 +361,45 @@ export default function CapitolTradesPage() {
           <option value="Dependent Child">Child</option>
         </select>
       </div>
+      {/* Filters — Row 2 */}
+      <div className="flex gap-2 mb-4">
+        <select value={yearFilter} onChange={e => { setYearFilter(e.target.value); setPage(0) }}
+          className="px-3 py-2 bg-[var(--color-bg-card)] border border-[var(--color-border)] text-[var(--color-text)] font-mono text-xs">
+          <option value="">All Years</option>
+          {stats?.years?.map((y: number) => <option key={y} value={String(y)}>{y}</option>)}
+        </select>
+        <select value={amountFilter} onChange={e => { setAmountFilter(e.target.value); setPage(0) }}
+          className="px-3 py-2 bg-[var(--color-bg-card)] border border-[var(--color-border)] text-[var(--color-text)] font-mono text-xs">
+          <option value="">All Amounts</option>
+          <option value="500k+">$500K+ (Whale)</option>
+          <option value="100k+">$100K+</option>
+          <option value="50k+">$50K+</option>
+        </select>
+        <select value={flagFilter} onChange={e => { setFlagFilter(e.target.value); setPage(0) }}
+          className="px-3 py-2 bg-[var(--color-bg-card)] border border-[var(--color-border)] text-[var(--color-text)] font-mono text-xs">
+          <option value="">All Flags</option>
+          <option value="whale">Whale ($500K+)</option>
+          <option value="late">Late Disclosure</option>
+          <option value="options">Options</option>
+          <option value="crypto">Crypto</option>
+          <option value="no-ticker">Missing Ticker</option>
+        </select>
+        {(yearFilter || amountFilter || flagFilter || chamber || tradeType || owner || search) && (
+          <button onClick={() => { setSearch(''); setChamber(''); setTradeType(''); setOwner(''); setYearFilter(''); setAmountFilter(''); setFlagFilter(''); setPage(0) }}
+            className="px-3 py-2 border border-[var(--color-border)] text-[var(--color-text-dim)] font-mono text-xs hover:text-[var(--color-text)] hover:bg-[var(--color-bg-hover)]">
+            Clear All
+          </button>
+        )}
+      </div>
 
       {/* Tabs */}
       <div className="flex border-b border-[var(--color-border)] mb-4">
-        {(["table", "flow", "trail", "tickers", "traders", "stories", "unusual", "conflicts", "lobby", "crypto"] as const).map(t => (
+        {(["table", "flow", "trail", "tickers", "traders", "stories", "scoreboard", "unusual", "conflicts", "lobby", "crypto"] as const).map(t => (
           <button key={t} onClick={() => setTab(t)}
             className={`px-4 py-2 font-mono text-[10px] font-bold uppercase tracking-wider border-b-2 -mb-px ${
               tab === t ? "text-[var(--color-text)] border-[var(--color-steel)]" : "text-[var(--color-text-dim)] border-transparent hover:text-[var(--color-text)]"
-            } ${t === "crypto" ? "ml-2 !text-[#f59e0b] " + (tab === t ? "!border-[#f59e0b]" : "") : ""} ${t === "conflicts" ? "!text-[#ef4444] " + (tab === t ? "!border-[#ef4444]" : "") : ""} ${t === "unusual" ? "!text-[#8b5cf6] " + (tab === t ? "!border-[#8b5cf6]" : "") : ""} ${t === "stories" ? "!text-[#22c55e] " + (tab === t ? "!border-[#22c55e]" : "") : ""} ${t === "lobby" ? "!text-[#06b6d4] " + (tab === t ? "!border-[#06b6d4]" : "") : ""}`}>
-            {t === "table" ? "TRADES" : t === "flow" ? "STOCK FLOW" : t === "trail" ? "MONEY TRAIL" : t === "tickers" ? "TOP TICKERS" : t === "traders" ? "TOP TRADERS" : t === "stories" ? "STORIES" : t === "unusual" ? "UNUSUAL" : t === "conflicts" ? "CONFLICTS" : t === "lobby" ? "LOBBY" : "CRYPTO"}
+            } ${t === "crypto" ? "ml-2 !text-[#f59e0b] " + (tab === t ? "!border-[#f59e0b]" : "") : ""} ${t === "conflicts" ? "!text-[#ef4444] " + (tab === t ? "!border-[#ef4444]" : "") : ""} ${t === "unusual" ? "!text-[#8b5cf6] " + (tab === t ? "!border-[#8b5cf6]" : "") : ""} ${t === "stories" ? "!text-[#22c55e] " + (tab === t ? "!border-[#22c55e]" : "") : ""} ${t === "lobby" ? "!text-[#06b6d4] " + (tab === t ? "!border-[#06b6d4]" : "") : ""} ${t === "scoreboard" ? "!text-[#e63946] " + (tab === t ? "!border-[#e63946]" : "") : ""}`}>
+            {t === "table" ? "TRADES" : t === "flow" ? "STOCK FLOW" : t === "trail" ? "MONEY TRAIL" : t === "tickers" ? "TOP TICKERS" : t === "traders" ? "TOP TRADERS" : t === "stories" ? "STORIES" : t === "scoreboard" ? "SCOREBOARD" : t === "unusual" ? "UNUSUAL" : t === "conflicts" ? "CONFLICTS" : t === "lobby" ? "LOBBY" : "CRYPTO"}
           </button>
         ))}
         <div className="ml-auto text-[10px] text-[var(--color-text-dim)] font-mono self-center">
@@ -723,6 +769,82 @@ export default function CapitolTradesPage() {
           )}
         </div>
       )}
+
+      {/* ── Scoreboard ── */}
+      {tab === "scoreboard" && (() => {
+        // Compute composite suspicion score per politician from trade data
+        const polScores: Record<string, { name: string; chamber: string; state: string; trades: number; volume: number; whales: number; lates: number; options: number; crypto: number; maxTrade: number; score: number }> = {}
+        for (const t of trades as any[]) {
+          const key = t.politician
+          if (!polScores[key]) polScores[key] = { name: t.politician, chamber: t.chamber, state: t.state, trades: 0, volume: 0, whales: 0, lates: 0, options: 0, crypto: 0, maxTrade: 0, score: 0 }
+          const p = polScores[key]
+          p.trades++
+          const amt = t.amount?.max || t.amount?.min || 0
+          p.volume += amt
+          if (amt > p.maxTrade) p.maxTrade = amt
+          if (t.isWhaleTrade || amt >= 500000) p.whales++
+          if (t.isLateDisclosure) p.lates++
+          if (t.isOptions) p.options++
+          if (t.isCrypto) p.crypto++
+        }
+        // Score: weighted composite
+        for (const p of Object.values(polScores)) {
+          p.score = (p.whales * 25) + (p.lates * 10) + (p.options * 20) + (p.crypto * 5) + Math.log10(Math.max(p.volume, 1)) * 3 + (p.trades > 100 ? 15 : 0)
+        }
+        const ranked = Object.values(polScores).sort((a, b) => b.score - a.score)
+        const maxScore = ranked[0]?.score || 1
+
+        return (
+        <div>
+          <Explainer>
+            <p><strong>Every member of Congress, ranked by how suspicious their trading activity looks.</strong></p>
+            <p>The score is a composite of five factors: whale trades ($500K+) weighted heaviest, then options trades (leveraged bets), late disclosures (STOCK Act violations), crypto trades (conflict with pending legislation), total volume, and trade frequency. Higher score = more red flags. This is not proof of wrongdoing. It is a ranked list of who warrants the most scrutiny.</p>
+          </Explainer>
+
+          <div className="font-mono text-[10px] text-[var(--color-text-dim)] mb-4">
+            {ranked.length} politicians ranked · Score = (whales x25) + (options x20) + (lates x10) + (crypto x5) + volume + frequency
+          </div>
+
+          <div className="space-y-1">
+            {ranked.slice(0, 50).map((p, i) => {
+              const barWidth = (p.score / maxScore) * 100
+              const isTop10 = i < 10
+              return (
+                <div key={i} className="flex items-center gap-3 bg-[var(--color-bg-card)] border border-[var(--color-border)] p-3 hover:bg-[var(--color-bg-hover)] cursor-pointer"
+                  style={isTop10 ? { borderLeftWidth: 4, borderLeftColor: '#e63946' } : {}}
+                  onClick={() => { setSearch(p.name); setTab("table"); setPage(0) }}>
+                  <div className="font-mono text-sm font-bold text-[var(--color-text-dim)] w-8 text-right">#{i + 1}</div>
+                  <div className="w-48 min-w-[192px]">
+                    <div className="text-sm font-bold text-[var(--color-text)]">{p.name}</div>
+                    <div className="text-[9px] text-[var(--color-text-dim)] font-mono">
+                      <span className={`inline-block px-1 font-bold text-[8px] mr-1 ${p.chamber === "Senate" ? "bg-[var(--color-text)] text-[var(--color-bg)]" : "bg-[#3b82f6] text-white"}`}>
+                        {p.chamber === "Senate" ? "SEN" : "HSE"}
+                      </span>
+                      {p.state}
+                    </div>
+                  </div>
+                  <div className="flex-1">
+                    <div className="h-4 bg-[var(--color-border)]">
+                      <div className="h-full" style={{ width: `${barWidth}%`, backgroundColor: isTop10 ? '#e63946' : i < 25 ? '#f59e0b' : '#6b7280' }} />
+                    </div>
+                  </div>
+                  <div className="flex gap-3 font-mono text-[9px] min-w-[280px]">
+                    <span className="text-[var(--color-text)]">{p.trades} trades</span>
+                    {p.whales > 0 && <span className="text-[#f59e0b]">{p.whales} whale</span>}
+                    {p.options > 0 && <span className="text-[#8b5cf6]">{p.options} opts</span>}
+                    {p.lates > 0 && <span className="text-[#ef4444]">{p.lates} late</span>}
+                    {p.crypto > 0 && <span className="text-[#f59e0b]">{p.crypto} crypto</span>}
+                  </div>
+                  <div className="font-mono text-sm font-bold text-right w-16" style={{ color: isTop10 ? '#e63946' : i < 25 ? '#f59e0b' : 'var(--color-text-dim)' }}>
+                    {Math.round(p.score)}
+                  </div>
+                </div>
+              )
+            })}
+          </div>
+        </div>
+        )
+      })()}
 
       {/* ── Unusual Activity ── */}
       {tab === "unusual" && (
