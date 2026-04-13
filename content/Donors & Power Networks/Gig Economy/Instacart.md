@@ -2,7 +2,7 @@
 title: "Instacart"
 type: corporation
 content-readiness: draft
-last-updated: 2026-04-12
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 sector: "Gig Economy"
@@ -19,7 +19,7 @@ regulatory-agencies:
   - "Food and Nutrition Service"
   - "Labor Department"
   - "Wage and Hour Division"
-related: "[[Airbnb]] · [[Labor - Donors and Backers]] · [[Uber]] · [[DoorDash]] · [[Lyft]] · [[Flex Association]] · [[Fossil Fuel Bloc]] · [[UnitedHealth Group - Optum]] · [[PG&E]] · [[ExxonMobil]] · [[WSPA - Western States Petroleum Association]] · [[Valero Energy]] · [[Raytheon Technologies]]"
+related: "[[Airbnb]] · [[Labor - Donors and Backers]] · [[Uber]] · [[DoorDash]] · [[Lyft]] · [[Flex Association]] · [[Fossil Fuel Bloc]] · [[UnitedHealth Group - Optum]] · [[PG&E]] · [[ExxonMobil]] · [[WSPA - Western States Petroleum Association]] · [[Valero Energy]] · [[Raytheon Technologies]] · [[Palantir Technologies Political Operation]]"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
 court-cases: 815

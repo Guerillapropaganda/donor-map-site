@@ -2,12 +2,12 @@
 title: "Rumble"
 type: media-profile
 content-readiness: ready
-last-updated: 2026-04-12
+last-updated: 2026-04-13
 source-tier: 1
 category: right
 platform: multi-platform
 parent: null
-related: "[[Dan Bongino]] · [[Tucker Carlson]] · [[Steven Crowder]] · [[Tim Pool]] · [[Russell Brand]] · [[Trump Media & Technology Group]] · [[JD Vance]] · [[Peter Thiel]] · [[Howard Lutnick]] · [[Tether]] · [[RT - Russian State Media]] · [[Dave Rubin]] · [[Tenet Media]] · [[The Platform Dependency Spectrum — Revenue Vulnerability Across Political Media]] · [[Matt Walsh]] · [[Jordan Peterson]] · [[Jesse Watters]] · [[James O'Keefe]] · [[Laura Ingraham]] · [[The Daily Wire]] · [[Sean Hannity]] · [[Patrick Bet-David]] · [[Mark Levin]] · [[Greg Gutfeld]] · [[Christopher Rufo]] · [[Charlie Kirk]] · [[Candace Owens]] · [[Michael Knowles]] · [[Jeremy Boreing]] · [[Ben Shapiro]] · [[Andrew Klavan]] · [[TYT Network - The Young Turks]] · [[Jimmy Dore]] · [[Sam Seder]] · [[Rachel Maddow]] · [[Pod Save America]] · [[Kyle Kulinski]] · [[John Oliver]] · [[Hasan Piker]] · [[David Pakman]] · [[Crooked Media]] · [[Cenk Uygur]]"
+related: "[[Dan Bongino]] · [[Tucker Carlson]] · [[Steven Crowder]] · [[Tim Pool]] · [[Russell Brand]] · [[Trump Media & Technology Group]] · [[JD Vance]] · [[Peter Thiel]] · [[Howard Lutnick]] · [[Tether]] · [[RT - Russian State Media]] · [[Dave Rubin]] · [[Tenet Media]] · [[The Platform Dependency Spectrum — Revenue Vulnerability Across Political Media]] · [[Matt Walsh]] · [[Jordan Peterson]] · [[Jesse Watters]] · [[James O'Keefe]] · [[Laura Ingraham]] · [[The Daily Wire]] · [[Sean Hannity]] · [[Patrick Bet-David]] · [[Mark Levin]] · [[Greg Gutfeld]] · [[Christopher Rufo]] · [[Charlie Kirk]] · [[Candace Owens]] · [[Michael Knowles]] · [[Jeremy Boreing]] · [[Ben Shapiro]] · [[Andrew Klavan]] · [[TYT Network - The Young Turks]] · [[Jimmy Dore]] · [[Sam Seder]] · [[Rachel Maddow]] · [[Pod Save America]] · [[Kyle Kulinski]] · [[John Oliver]] · [[Hasan Piker]] · [[David Pakman]] · [[Crooked Media]] · [[Cenk Uygur]] · [[Briahna Joy Gray]]"
 ---
 
 #media-pipeline #right #video-platform #political-infrastructure #conservative-media #investor-capture #foreign-money #crypto #vertically-integrated

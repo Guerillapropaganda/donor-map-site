@@ -23,7 +23,7 @@ bills-sponsored: 14
 bills-cosponsored: 355
 website: "https://benniethompson.house.gov"
 phone: "202-225-5876"
-donors: "[[IBEW - International Brotherhood of Electrical Workers]] · [[Blue Shield of California]] · [[American Gaming Association]] · [[California Farm Bureau Federation]]"
+donors: "[[IBEW - International Brotherhood of Electrical Workers]] · [[Blue Shield of California]] · [[American Gaming Association]] · [[California Farm Bureau Federation]] · [[National Cattlemen's Beef Association]]"
 last-enriched: "2026-04-13"
 needs-reenrichment: true
 reenrich-reason: "run congress pipeline"

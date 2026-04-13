@@ -21,7 +21,7 @@ subawards-issued: 50
 subawards-issued-amount: 51876611853
 subawards-received: 50
 subawards-received-amount: 51876611853
-related: "[[Chad Bianco Master Profile]] · [[Budget Priorities - What California Actually Funds]] · [[Gun and Public Safety - Donors and Backers]] · [[Bail Bond Industry]] · [[Aramark]] · [[CoreCivic]] · [[_Gavin Newsom Master Profile]] · [[CCPOA - The Prison Guard Donor and the Reform Ceiling]] · [[San Quentin - COVID Disaster and Rehabilitation Theater]] · [[Policing Reform - George Floyd Era]] · [[Criminal Justice - Donors and Backers]] · [[Uber]] · [[UnitedHealth Group - Optum]] · [[Kaiser Permanente]] · [[PBM Industry Bloc - OptumRx, CVS Caremark, Express Scripts]] · [[Johnson & Johnson]] · [[Moderna]] · [[Novo Nordisk]] · [[Merck]]"
+related: "[[Chad Bianco Master Profile]] · [[Budget Priorities - What California Actually Funds]] · [[Gun and Public Safety - Donors and Backers]] · [[Bail Bond Industry]] · [[Aramark]] · [[CoreCivic]] · [[_Gavin Newsom Master Profile]] · [[CCPOA - The Prison Guard Donor and the Reform Ceiling]] · [[San Quentin - COVID Disaster and Rehabilitation Theater]] · [[Policing Reform - George Floyd Era]] · [[Criminal Justice - Donors and Backers]] · [[Uber]] · [[UnitedHealth Group - Optum]] · [[Kaiser Permanente]] · [[PBM Industry Bloc - OptumRx, CVS Caremark, Express Scripts]] · [[Johnson & Johnson]] · [[Moderna]] · [[Novo Nordisk]] · [[Merck]] · [[Gilead Sciences]]"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
 cross-vault-triangulation-count: 13

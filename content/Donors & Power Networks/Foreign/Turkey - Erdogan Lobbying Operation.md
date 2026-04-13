@@ -2,12 +2,12 @@
 title: "Turkey - Erdogan Lobbying Operation"
 type: donor
 content-readiness: draft
-last-updated: 2026-04-08
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 sector: "Foreign Influence"
 entity-type: "Individual Donor"
-related: "[[HBW Resources]] · [[Saudi Arabia - Kingdom Investment]] · [[United Arab Emirates - Influence Operation]]"
+related: "[[HBW Resources]] · [[Saudi Arabia - Kingdom Investment]] · [[United Arab Emirates - Influence Operation]] · [[Haim Saban]]"
 lobbying-spend: 1170000
 lobbying-filings: 32
 cross-vault-triangulation-count: 2

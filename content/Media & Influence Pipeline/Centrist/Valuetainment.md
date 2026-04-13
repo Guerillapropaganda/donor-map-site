@@ -2,12 +2,12 @@
 title: "Valuetainment"
 type: media-profile
 content-readiness: draft
-last-updated: 2026-04-12
+last-updated: 2026-04-13
 source-tier: null
 parent: null
 category: centrist
 platform: youtube
-related: "[[Patrick Bet-David]] · [[Ana Kasparian]] · [[Rachel Maddow]] · [[The Daily Wire]] · [[The Platform Dependency Spectrum — Revenue Vulnerability Across Political Media]] · [[Tucker Carlson]] · [[Tim Pool]] · [[Tenet Media]] · [[Steven Crowder]] · [[Sean Hannity]] · [[Rumble]] · [[Michael Knowles]] · [[Matt Walsh]]"
+related: "[[Patrick Bet-David]] · [[Ana Kasparian]] · [[Rachel Maddow]] · [[The Daily Wire]] · [[The Platform Dependency Spectrum — Revenue Vulnerability Across Political Media]] · [[Tucker Carlson]] · [[Tim Pool]] · [[Tenet Media]] · [[Steven Crowder]] · [[Sean Hannity]] · [[Rumble]] · [[Michael Knowles]] · [[Matt Walsh]] · [[Mark Levin]]"
 ---
 
 #media-pipeline #centrist #media-network #valuetainment #patrick-bet-david #business-media

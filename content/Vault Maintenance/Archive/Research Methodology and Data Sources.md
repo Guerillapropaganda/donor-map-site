@@ -2,10 +2,10 @@
 title: "Research Methodology and Data Sources"
 type: methodology
 content-readiness: draft
-last-updated: 2026-04-12
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
-related: "[[Vault Standards and Agent Instructions]] · [[API Pipeline — Data Collection Layer]] · [[Think Tank & Policy Infrastructure Framework]] · [[Voting Record Layer - When Donors Vote Through Their Politicians]] · [[Media & Influence Pipeline Framework]] · [[Lobbying Firms & K Street Framework]] · [[Session Timeline]] · [[Quality Standards]] · [[API Pipeline]] · [[Vault Integrity Audit - Methodology and Tracker]] · [[Methodology Compliance Audit - March 2026]] · [[Sources Master Node]] · [[Analytical Quality Audit - March 2026]] · [[Intra-Republican Contradiction Map]] · [[Intra-Democratic Contradiction Map - The Progressive vs Moderate Illusion]] · [[Geographic Donor Clustering - Where the Money Actually Comes From]] · [[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]]"
+related: "[[Vault Standards and Agent Instructions]] · [[API Pipeline — Data Collection Layer]] · [[Think Tank & Policy Infrastructure Framework]] · [[Voting Record Layer - When Donors Vote Through Their Politicians]] · [[Media & Influence Pipeline Framework]] · [[Lobbying Firms & K Street Framework]] · [[Session Timeline]] · [[Quality Standards]] · [[API Pipeline]] · [[Vault Integrity Audit - Methodology and Tracker]] · [[Methodology Compliance Audit - March 2026]] · [[Sources Master Node]] · [[Analytical Quality Audit - March 2026]] · [[Intra-Republican Contradiction Map]] · [[Intra-Democratic Contradiction Map - The Progressive vs Moderate Illusion]] · [[Geographic Donor Clustering - Where the Money Actually Comes From]] · [[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]] · [[How Money Captures Media — The Donor Map Media Pipeline]]"
 source-types:
   - LDA
 ---
