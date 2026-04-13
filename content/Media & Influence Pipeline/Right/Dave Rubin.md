@@ -2,12 +2,12 @@
 title: "Dave Rubin"
 type: media-profile
 content-readiness: ready
-last-updated: 2026-04-12
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 category: right
 platform: multi-platform
-related: "[[Tim Pool]] · [[Ben Shapiro]] · [[Charlie Kirk]] · [[Jordan Peterson]] · [[Steven Crowder]] · [[Glenn Greenwald]] · [[_Media Pipeline Framework]] · [[Rumble]] · [[The Platform Dependency Spectrum — Revenue Vulnerability Across Political Media]] · [[Tucker Carlson]] · [[Tenet Media]] · [[Matt Walsh]] · [[Jesse Watters]] · [[Laura Ingraham]] · [[James O'Keefe]] · [[Sean Hannity]] · [[Patrick Bet-David]] · [[Mark Levin]] · [[Greg Gutfeld]] · [[Dan Bongino]] · [[The Daily Wire]] · [[Christopher Rufo]] · [[Candace Owens]] · [[Michael Knowles]] · [[Jeremy Boreing]] · [[Andrew Klavan]] · [[TYT Network - The Young Turks]] · [[Sam Seder]] · [[Rachel Maddow]] · [[Jimmy Dore]] · [[Pod Save America]] · [[Kyle Kulinski]] · [[John Oliver]] · [[Hasan Piker]] · [[David Pakman]] · [[Crooked Media]] · [[Cenk Uygur]] · [[Briahna Joy Gray]]"
+related: "[[Tim Pool]] · [[Ben Shapiro]] · [[Charlie Kirk]] · [[Jordan Peterson]] · [[Steven Crowder]] · [[Glenn Greenwald]] · [[_Media Pipeline Framework]] · [[Rumble]] · [[The Platform Dependency Spectrum — Revenue Vulnerability Across Political Media]] · [[Tucker Carlson]] · [[Tenet Media]] · [[Matt Walsh]] · [[Jesse Watters]] · [[Laura Ingraham]] · [[James O'Keefe]] · [[Sean Hannity]] · [[Patrick Bet-David]] · [[Mark Levin]] · [[Greg Gutfeld]] · [[Dan Bongino]] · [[The Daily Wire]] · [[Christopher Rufo]] · [[Candace Owens]] · [[Michael Knowles]] · [[Jeremy Boreing]] · [[Andrew Klavan]] · [[TYT Network - The Young Turks]] · [[Sam Seder]] · [[Rachel Maddow]] · [[Jimmy Dore]] · [[Pod Save America]] · [[Kyle Kulinski]] · [[John Oliver]] · [[Hasan Piker]] · [[David Pakman]] · [[Crooked Media]] · [[Cenk Uygur]] · [[Briahna Joy Gray]] · [[Fox News - Murdoch Media Empire]]"
 donors: "[[Koch Network - Charles Koch]]"
 ---
 

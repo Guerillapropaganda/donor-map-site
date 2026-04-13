@@ -2,7 +2,7 @@
 title: "Marathon Petroleum"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-12
+last-updated: 2026-04-13
 source-tier: 2
 parent: null
 sector: "Energy & Utilities"
@@ -57,7 +57,7 @@ sec-form-types:
   - "SC TO-I"
   - "SC TO-I/A"
   - "SCHEDULE 13G/A"
-related: "[[Valero Energy]] · [[Kevin McCarthy Master Profile]] · [[Occidental Petroleum]] · [[Cathy McMorris Rodgers Master Profile]] · [[Rashida Tlaib]] · [[WSPA - Western States Petroleum Association]] · [[PG&E - Pacific Gas and Electric]] · [[ExxonMobil]] · [[Chevron]] · [[ConocoPhillips]] · [[Halliburton]] · [[Koch Industries]] · [[American Fuel and Petrochemical Manufacturers]] · [[ALEC - American Legislative Exchange Council|ALEC]] · [[_John Barrasso Master Profile|Barrasso]] · [[NextEra Energy]] · [[Southern Company]] · [[Duke Energy]] · [[Devon Energy]] · [[Raytheon (RTX Corporation)]] · [[Palantir Technologies]] · [[Eli Lilly]] · [[Novo Nordisk]]"
+related: "[[Valero Energy]] · [[Kevin McCarthy Master Profile]] · [[Occidental Petroleum]] · [[Cathy McMorris Rodgers Master Profile]] · [[Rashida Tlaib]] · [[WSPA - Western States Petroleum Association]] · [[PG&E - Pacific Gas and Electric]] · [[ExxonMobil]] · [[Chevron]] · [[ConocoPhillips]] · [[Halliburton]] · [[Koch Industries]] · [[American Fuel and Petrochemical Manufacturers]] · [[ALEC - American Legislative Exchange Council|ALEC]] · [[_John Barrasso Master Profile|Barrasso]] · [[NextEra Energy]] · [[Southern Company]] · [[Duke Energy]] · [[Devon Energy]] · [[Raytheon (RTX Corporation)]] · [[Palantir Technologies]] · [[Eli Lilly]] · [[Novo Nordisk]] · [[Moderna]]"
 ein: "464439930"
 annual-revenue: "$5.1M"
 net-assets: "$13.4M"

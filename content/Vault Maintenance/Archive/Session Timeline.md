@@ -2,10 +2,10 @@
 title: "Session Timeline"
 type: reference
 content-readiness: draft
-last-updated: 2026-04-12
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
-related: "[[Vault Standards and Agent Instructions]] · [[Publication Audit Report]] · [[Vault Integrity Audit - Methodology and Tracker]] · [[Sources Master Node]] · [[Analytical Quality Audit - March 2026]] · [[Research Methodology and Data Sources]] · [[Methodology Compliance Audit - March 2026]] · [[Intra-Republican Contradiction Map]] · [[Intra-Democratic Contradiction Map - The Progressive vs Moderate Illusion]] · [[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]]"
+related: "[[Vault Standards and Agent Instructions]] · [[Publication Audit Report]] · [[Vault Integrity Audit - Methodology and Tracker]] · [[Sources Master Node]] · [[Analytical Quality Audit - March 2026]] · [[Research Methodology and Data Sources]] · [[Methodology Compliance Audit - March 2026]] · [[Intra-Republican Contradiction Map]] · [[Intra-Democratic Contradiction Map - The Progressive vs Moderate Illusion]] · [[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]] · [[Donor Registry - Master Index]]"
 ---
 
 #session-log #vault-maintenance #handoff

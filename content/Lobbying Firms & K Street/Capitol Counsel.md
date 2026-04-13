@@ -2,13 +2,13 @@
 title: "Capitol Counsel"
 type: lobbying-firm
 content-readiness: ready
-last-updated: 2026-04-12
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 annual-revenue: "$25.4M"
 lobbyist-count: 38
 revolving-door-pct: "73.7%"
-related: "[[PhRMA - Pharmaceutical Research and Manufacturers of America|PhRMA]] · [[Lockheed Martin]] · [[ExxonMobil]] · [[AT&T - WarnerMedia|AT&T]] · [[Comcast - NBCUniversal|Comcast]] · [[Thorn Run Partners]] · [[Forbes Tate Partners]] · [[BGR Group]] · [[Cornerstone Government Affairs]] · [[Subject Matter (now Avoq)]] · [[Mehlman Consulting]] · [[Fierce Government Relations]] · [[Brownstein Hyatt Farber Schreck]] · [[Peck Madigan Jones (now Tiber Creek Group)]] · [[Prime Policy Group]] · [[K&L Gates]] · [[Crossroads Strategies]] · [[Cassidy & Associates]] · [[Ballard Partners]] · [[Alpine Group]] · [[Akin Gump Strauss Hauer & Feld]]"
+related: "[[PhRMA - Pharmaceutical Research and Manufacturers of America|PhRMA]] · [[Lockheed Martin]] · [[ExxonMobil]] · [[AT&T - WarnerMedia|AT&T]] · [[Comcast - NBCUniversal|Comcast]] · [[Thorn Run Partners]] · [[Forbes Tate Partners]] · [[BGR Group]] · [[Cornerstone Government Affairs]] · [[Subject Matter (now Avoq)]] · [[Mehlman Consulting]] · [[Fierce Government Relations]] · [[Brownstein Hyatt Farber Schreck]] · [[Peck Madigan Jones (now Tiber Creek Group)]] · [[Prime Policy Group]] · [[K&L Gates]] · [[Crossroads Strategies]] · [[Cassidy & Associates]] · [[Ballard Partners]] · [[Alpine Group]] · [[Akin Gump Strauss Hauer & Feld]] · [[Squire Patton Boggs]]"
 last-enriched: "2026-04-10"
 needs-reenrichment: true
 reenrich-reason: "run lda pipeline"
