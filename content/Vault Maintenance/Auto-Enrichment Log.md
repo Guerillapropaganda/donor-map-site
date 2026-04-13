@@ -103,6 +103,13 @@ Bot-written. Research Claude reads this to see what fresh API data landed in the
 
 
 
+
+## 2026-04-13 18:34 UTC — 1 profile
+
+**LDA (Senate Lobbying) — 1 profile:**
+- CA Farm Bureau Federation — 0.2M spend, 143 filings
+
+---
 ## 2026-04-13 18:28 UTC — 1 profile
 
 **LDA (Senate Lobbying) — 1 profile:**
