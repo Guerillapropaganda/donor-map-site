@@ -208,7 +208,7 @@ The structural limit: the alternative funding model cannot overcome the Democrat
 
 Sanders' stated position:
 - Revolution is necessary
-- The system is corrupt and must be overthrown
+- The system is rigged and must be overthrown
 - Vote for me OR vote for the Democratic nominee (after losing)
 
 Sanders' actual trajectory:

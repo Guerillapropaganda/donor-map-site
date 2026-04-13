@@ -1,9 +1,9 @@
 ---
 title: "Ro Khanna Master Profile"
 type: politician
-content-readiness: draft
+content-readiness: ready
 central-thesis: "Khanna is the test case for whether progressive politics and tech industry money can coexist — and the answer so far is: barely, and with visible structural compromises. His district is the tech industry. His individual donors are tech executives ..."
-last-updated: 2026-04-11
+last-updated: 2026-04-12
 source-tier: 1
 parent: null
 party: "Democrat"

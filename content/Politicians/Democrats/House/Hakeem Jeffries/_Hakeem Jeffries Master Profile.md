@@ -1,7 +1,7 @@
 ---
 title: "Hakeem Jeffries Master Profile"
 type: politician
-content-readiness: draft
+content-readiness: ready
 central-thesis: "Jeffries is the Democratic establishment's chosen successor to Pelosi — a corporate-friendly leader who performs progressivism while maintaining the party's Wall Street and real estate donor relationships. His Brooklyn base is gentrifying; his don..."
 last-updated: 2026-04-13
 source-tier: 1

@@ -1,9 +1,9 @@
 ---
 title: George W. Bush
 type: politician
-content-readiness: draft
+content-readiness: ready
 central-thesis: "Bush's presidency was the largest wealth transfer to the donor class in postwar U.S. history, achieved through tax cuts for the wealthy, deregulation of finance and energy sectors, and a $2 trillion Iraq War that enriched defense contractors. The ..."
-last-updated: 2026-04-10
+last-updated: 2026-04-12
 source-tier: 1
 parent: null
 party: Republican
