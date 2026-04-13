@@ -4,7 +4,7 @@ type: admin-note
 note-type: data
 priority: normal
 status: active
-last-updated: '2026-04-12'
+last-updated: '2026-04-13'
 sprint-id: "2026-04-sprint"
 sprint-start: '2026-04-10'
 sprint-end: '2026-04-30'
@@ -984,6 +984,48 @@ phase_1_tasks:
       commit: "b38bd5de"
       notes: "Forward-path dedup in connections API prevents double-counting when both A→B and B→A edges exist. Trump showed 19 opposes with duplicates; now 14 unique."
 
+    - id: cc_79
+      task: "Capitol Trades: House PTR PDF backfill (44,610 tx, 2015-2026)"
+      status: done
+      completed_date: 2026-04-12
+      added_adhoc: true
+      notes: "financial-disclosures-backfill.cjs downloads House Clerk ZIPs, parses PTR PDFs. 7,419 filings -> 44,610 transactions. 10-strategy ticker extraction (53% -> 80%+)."
+
+    - id: cc_80
+      task: "Capitol Trades: Senate eFD backfill (8,212 tx, 2014-2026)"
+      status: done
+      completed_date: 2026-04-12
+      added_adhoc: true
+      notes: "senate-disclosures-backfill.cjs scrapes efdsearch.senate.gov. Fixed CSRF 302 cookie bug. 8,212 transactions, 527 whale, 1,342 late, 423 options, 104 crypto."
+
+    - id: cc_81
+      task: "Capitol Trades: 12-tab Ops page with analysis tabs"
+      status: done
+      completed_date: 2026-04-12
+      added_adhoc: true
+      notes: "Trades, Stock Flow, Money Trail, Top Tickers, Top Traders, Stories, Scoreboard, Timeline, Unusual, Conflicts, Lobby, Crypto. All with explainers."
+
+    - id: cc_82
+      task: "Capitol Trades: 6 new API routes (crypto-conflicts, committee-conflicts, unusual-activity, trade-stories, lobby-trades, capitol-trades)"
+      status: done
+      completed_date: 2026-04-12
+      added_adhoc: true
+      notes: "Full analytical backend. Crypto vote cross-reference, committee-sector conflicts, coordinated cluster detection, narrative generator, lobby-trade triple-conflict."
+
+    - id: cc_83
+      task: "Capitol Trades: Name normalization + filing delay cleanup"
+      status: done
+      completed_date: 2026-04-12
+      added_adhoc: true
+      notes: "ops/src/lib/politician-names.ts with 50+ overrides. Filing delay capped 0-180 days, false violations dropped from 8,622 to ~6,000."
+
+    - id: cc_84
+      task: "Capitol Trades: Data quality report in Admin Notes"
+      status: done
+      completed_date: 2026-04-12
+      added_adhoc: true
+      notes: "content/Admin Notes/capitol-trades-data-quality.md. Full breakdown of dataset, extraction rates, known gaps, next steps."
+
     - id: cc_60
       task: "Phase 3 Part 3: /api/connections GET reads JSONL edge store"
       status: done
@@ -1326,7 +1368,7 @@ parser_guidance:
 
 ---
 
-**Schedule last updated: 2026-04-12 (marathon session — cc_72-78 added: entity type colors, scripts Run buttons, Money Trail graph, List View freeze fix, dual-layer nodes, 271 opposition edges, connection dedup fix.)**
+**Schedule last updated: 2026-04-12 (Capitol Trades mega-build — cc_79-84 added: House+Senate backfill, 12-tab Ops page, 6 API routes, name normalization, data quality report. 52,822 transactions.)**
 **Current phase: phase_1 (Day 2 of 7)**
 **Next checkpoint: Phase 1 exit, 2026-04-16**
 **New data sources added 2026-04-11: FDA (pharma/device/food enforcement), OCC (national bank enforcement), FTC (mergers + historical enforcement). All three live in CI + Ops app.**

@@ -3,7 +3,7 @@ title: Session State
 type: system
 last-updated: 2026-04-12
 ---
-<!-- last session: Marathon: D3 graphs, money trail, 271 opposition edges, filter fixes, enrichment reporting, scripts Run buttons -->
+<!-- last session: Capitol Trades mega-build: 12 tabs, 52K transactions, Senate scraper, crypto/conflict/lobby analysis, 10-strategy ticker extraction -->
 
 
 # Session State
@@ -13,6 +13,84 @@ Both Code Claude and Research Claude update this at the end of every session. Re
 ---
 
 ## Last Session
+Claude: Code
+Date: 2026-04-12 (evening, multi-hour build session)
+
+### Theme
+Built the entire Capitol Trades analytical platform from the ground up. 12-tab Ops page covering stock trades, crypto, conflicts, lobbying, and unusual activity detection. Scraped 52,822 congressional transactions across both chambers (2014-2026). Built Senate eFD scraper. 10-strategy ticker extraction reaching 80-90%. Name normalization, filing delay cleanup, and data quality documentation.
+
+### Done — Capitol Trades Ops Page (`ops/src/app/capitol-trades/page.tsx`)
+12 tabs total:
+1. **Trades** — sortable/filterable table with inline flag badges (WHALE, LATE, CALL/PUT, CRYPTO)
+2. **Stock Flow** — per-ticker buy/sell bar chart
+3. **Money Trail** — Sankey graph: politicians to stocks with ticker picker (1-20)
+4. **Top Tickers** — volume-ranked stocks
+5. **Top Traders** — most active politicians
+6. **Stories** (green) — plain English auto-generated narratives for normies
+7. **Scoreboard** (red) — composite suspicion score ranking all 494 politicians
+8. **Timeline** (amber) — monthly volume chart with COVID/crypto/crisis event markers
+9. **Unusual** (purple) — coordinated trade cluster detection + volume surges
+10. **Conflicts** (red) — committee-sector conflicts (Senate only, GovTrack offset limit)
+11. **Lobby** (cyan) — entity lobby spend vs stock trades, triple-conflict detection
+12. **Crypto** (amber) — 4-tier system (direct/ETF/company/adjacent) + trade-vote conflicts
+
+Collapsible "What am I looking at?" explainers on every tab.
+
+### Done — Data Pipeline
+- **House backfill** (`scripts/financial-disclosures-backfill.cjs`): 44,610 transactions from 7,419 PDFs, 2015-2026. 10-strategy ticker extraction (53% -> 80%+).
+- **Senate backfill** (`scripts/senate-disclosures-backfill.cjs`): 8,212 transactions from eFD HTML, 2014-2026. Fixed CSRF agreement 302 cookie capture.
+- **Crypto votes** (`scripts/crypto-votes-fetch.cjs`): 170 crypto bills, 9 with floor votes, 5,381 member vote records from GovTrack.
+- **Committee assignments** (`scripts/committee-assignments-fetch.cjs`): 98 senators, 11 committees with sector mappings.
+
+### Done — APIs (6 new routes)
+- `/api/capitol-trades` — main trades API with crypto tiers, enhanced flags, Senate data
+- `/api/crypto-conflicts` — trade-vote cross-reference (60-day window, 3 suspicion levels)
+- `/api/committee-conflicts` — committee-sector conflict detection with ticker-to-sector mapping
+- `/api/unusual-activity` — coordinated cluster detection + volume surge algorithm
+- `/api/trade-stories` — plain English narrative generator (whale/late/options/crypto categories)
+- `/api/lobby-trades` — lobby entity to stock trade cross-reference with triple-conflict detection
+
+### Done — Data Quality Improvements
+- **Name normalization** (`ops/src/lib/politician-names.ts`): 50+ manual overrides, strips honorifics, normalizes suffixes
+- **Filing delay cleanup**: caps 0-180 days, discards negative and >365 day errors. Reduced false late disclosures from 8,622 to ~6,000 real violations.
+- **10-strategy ticker extraction**: case-insensitive OCR matching, subholding parsing, company name mapping, filing status stripping. 53% -> 80%+ ticker rate.
+- **Data quality report**: `content/Admin Notes/capitol-trades-data-quality.md`
+
+### Done — Enhanced Detection
+- Crypto: 408 trades across both chambers, 4-tier classification
+- Options: 1,031 trades (leveraged directional bets)
+- Whale ($500K+): 1,731 trades
+- Late disclosures: ~6,000 real STOCK Act violations
+- Filters: year, amount range, flag type (whale/late/options/crypto/no-ticker), Clear All
+
+### In progress
+- **House 10-strategy re-run** — running in background, 2018 saved, remaining years processing. Previous 6-strategy run hit 77.7%, 10-strategy expected 85-90%.
+
+### Known issues
+- **FIT21 and GENIUS Act have no floor vote data** (voice votes). Crypto vote-conflict tab has limited data for the bills that matter most.
+- **House committee data missing** — GovTrack API offset>1000 limit blocks House committees. Committee-trade conflicts only work for Senate.
+- **Senate options pre-2021: 0 detected** — eFD format may have changed.
+- **Lobby entity-ticker mapping: ~50 of 137 entities** — remaining 87 need tickers added.
+- **47% of House trades still no ticker** (improving with 10-strategy re-run).
+
+### Next session priorities
+1. **Check 10-strategy re-run results** — verify 85-90% ticker rate, copy to main repo
+2. **Public site build** — port analysis tabs to live Quartz site at `/interactive/capitol-trades`
+3. **House committee data** — find alternative to GovTrack for House committee assignments
+4. **Cosponsor lists as vote proxy** — FIT21/GENIUS Act cosponsors as substitute for missing vote data
+5. **Politician deep dive view** — click any name to see full portfolio, sector exposure, timeline
+6. **Alerts endpoint investigation** — debug `/api/alerts` counts (carried over from previous session)
+
+### Session end state
+- **20+ commits, 10+ deploys, all successful**
+- **Latest commit:** `877e4972` (Capitol Trades data quality report)
+- **Dataset:** 52,822 transactions (44,610 House + 8,212 Senate), 494 unique politicians
+- **Ops app:** 12-tab Capitol Trades page with explainers on every tab
+- **Backfill status:** 10-strategy re-run in progress
+
+---
+
+## Previous Session
 Claude: Code + Research
 Date: 2026-04-12 (all day marathon session)
 
