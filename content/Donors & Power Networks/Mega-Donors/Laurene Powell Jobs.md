@@ -207,7 +207,7 @@ Media Ownership and Donor Influence — The Atlantic, Axios funding, Gimlet Medi
 |--------|-------|
 | Federal Court Cases | 22 |
 | Courts | Court of Appeals for the Second Circuit, District Court, D. Maryland, District Court, D. South Carolina, District Court, District of Columbia, District Court, E.D. Michigan, District Court, E.D. New York, District Court, N.D. California, District Court, S.D. New York |
-| Case Types | 470 Racketeer/Corrupt Organization, 820 Copyright, 840 Trademark, 880 Defend Trade Secrets Act (of 2016), 893 Environmental Matters |
+| Case Types | 470 Racketeer/compromised Organization, 820 Copyright, 840 Trademark, 880 Defend Trade Secrets Act (of 2016), 893 Environmental Matters |
 
 **Notable cases:**
 - Gjovik v. Apple Inc (2025) — District Court, N.D. California

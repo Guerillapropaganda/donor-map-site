@@ -1,8 +1,8 @@
 ---
 title: "Michael Bloomberg"
 type: donor
-content-readiness: draft
-last-updated: 2026-04-12
+content-readiness: ready
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 sector: "Mega-Donors"
@@ -224,7 +224,7 @@ For [[IBEW - International Brotherhood of Electrical Workers|IBEW]] members: Blo
 |--------|-------|
 | Federal Court Cases | 857 |
 | Courts | Court of Appeals for the Ninth Circuit, Court of Appeals for the Second Circuit, District Court, C.D. California, District Court, District of Columbia, District Court, E.D. New York, District Court, N.D. California, District Court, N.D. Illinois, District Court, S.D. New York +1 more |
-| Case Types | 440 Civil Rights: Other, 442 Civil Rights: Jobs, 470 Racketeer/Corrupt Organization, 820 Copyright, 840 Trademark |
+| Case Types | 440 Civil Rights: Other, 442 Civil Rights: Jobs, 470 Racketeer/compromised Organization, 820 Copyright, 840 Trademark |
 
 **Notable cases:**
 - Hudgens v. Bloomberg LP (2026) — District Court, S.D. New York

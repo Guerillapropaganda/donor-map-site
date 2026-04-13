@@ -122,7 +122,7 @@ Bonnell's format trains audiences to see political engagement as entertainment, 
 - **Centrist Super PACs/Dark Money Networks** — His audience (young, male, politically undecided) is precisely the demographic centrist organizations target; his "omniliberal" branding allows campaigns to recruit organizers without requiring transparency about corporate funding
 - **Democratic Campaign Infrastructure** — Bonnell's volunteer organizing in Georgia and Ohio provides grassroots credibility for campaigns funded by same corporate donors as Republican campaigns; audience unaware of donor alignment
 - **Tech Platforms** — His debate format optimizes for watch time, engagement, and algorithmic amplification; proves that "freedom of speech" platform (more accurately: algorithm-amplified speech) can monetize political controversy
-- **Anti-Institutional Positioning** — His "both sides are corrupt" framing within debate format inoculates audiences against left-wing institutional analysis while maintaining progressive aesthetic
+- **Anti-Institutional Positioning** — His "both sides are compromised" framing within debate format inoculates audiences against left-wing institutional analysis while maintaining progressive aesthetic
 - **Status-Quo Political Economy** — His refusal to analyze donor networks, policy capture, or structural power serves incumbent interests far more than his progressive social positions challenge them
 
 ### Capture Architecture

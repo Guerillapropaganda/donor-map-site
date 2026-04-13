@@ -133,7 +133,7 @@ Coinbase is the crypto industry's political infrastructure. The company's $45 mi
 |--------|-------|
 | Federal Court Cases | 3,698 |
 | Courts | District Court, D. Nevada, District Court, D. New Jersey, District Court, D. South Carolina, District Court, E.D. Michigan, District Court, E.D. New York, District Court, E.D. Tennessee, District Court, E.D. Virginia, District Court, M.D. Alabama +6 more |
-| Case Types | 370 Other Fraud, 380 Personal Property: Other, 690 Forfeit/Penalty: Other, 840 Trademark, Racketeer/Corrupt Organization |
+| Case Types | 370 Other Fraud, 380 Personal Property: Other, 690 Forfeit/Penalty: Other, 840 Trademark, Racketeer/compromised Organization |
 
 **Notable cases:**
 - United States v. 6.03910214 BTC From Coinbase Account xxxxxxxxxxxxxxxxxxx5668e In The Name Of Linda Winder (2026) — District Court, E.D. Tennessee

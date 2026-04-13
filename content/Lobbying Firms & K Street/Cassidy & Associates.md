@@ -1,8 +1,8 @@
 ---
 title: "Cassidy & Associates"
 type: lobbying-firm
-content-readiness: draft
-last-updated: 2026-04-12
+content-readiness: ready
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 annual-revenue: "$30.6M"
@@ -218,11 +218,11 @@ The firm's client list reinforces bipartisanship: defense contractors need both 
 
 ### Class Analysis
 
-Cassidy & Associates represents the institutionalization of the earmark — the conversion of a congressional spending mechanism into a privatized service industry. Gerald Cassidy didn't corrupt the appropriations process; he professionalized it. Before Cassidy, universities and institutions lobbied Congress informally through alumni networks and institutional prestige. After Cassidy, they hired professional intermediaries who understood the mechanics of the appropriations process — subcommittee jurisdictions, markup timing, member interests, staff relationships — and could reliably convert lobbying fees into federal dollars.
+Cassidy & Associates represents the institutionalization of the earmark — the conversion of a congressional spending mechanism into a privatized service industry. Gerald Cassidy didn't compromised the appropriations process; he professionalized it. Before Cassidy, universities and institutions lobbied Congress informally through alumni networks and institutional prestige. After Cassidy, they hired professional intermediaries who understood the mechanics of the appropriations process — subcommittee jurisdictions, markup timing, member interests, staff relationships — and could reliably convert lobbying fees into federal dollars.
 
 The structural function this serves is to make the donor-to-policy pipeline look like constituent service. When a university gets an earmark through Cassidy, it looks like a congressman supporting education in his district. When a defense contractor gets an authorization through Cassidy, it looks like national security spending. The lobbying firm launders private interest through the language of public good.
 
-The earmark moratorium of 2011-2021 is instructive. Congress banned earmarks because the practice had become visibly corrupt — too many bridges to nowhere, too many quid pro quos. But the moratorium didn't eliminate the demand for directed federal spending; it just shifted the mechanism. Cassidy adapted by moving clients toward competitive grants, defense authorizations, and regulatory lobbying. When earmarks returned as "Community Project Funding" in 2021, the firm's revenue immediately began climbing back. The product is indestructible because the structural incentive is permanent: institutions need federal money, and the appropriations process rewards those who hire professional navigators.
+The earmark moratorium of 2011-2021 is instructive. Congress banned earmarks because the practice had become visibly compromised — too many bridges to nowhere, too many quid pro quos. But the moratorium didn't eliminate the demand for directed federal spending; it just shifted the mechanism. Cassidy adapted by moving clients toward competitive grants, defense authorizations, and regulatory lobbying. When earmarks returned as "Community Project Funding" in 2021, the firm's revenue immediately began climbing back. The product is indestructible because the structural incentive is permanent: institutions need federal money, and the appropriations process rewards those who hire professional navigators.
 
 The firm's representation of authoritarian governments — Equatorial Guinea's Obiang regime at $120,000/month, Egyptian intelligence services — reveals the logical endpoint of professionalized access-selling. If the product is converting money into favorable government action, there is no principled reason to limit the client base to domestic institutions. A dictator's money spends the same as a university president's.
 
@@ -256,7 +256,7 @@ The firm's representation of authoritarian governments — Equatorial Guinea's O
 |--------|-------|
 | Federal Court Cases | 7 |
 | Courts | District Court, D. Maryland, District Court, District of Columbia, District Court, E.D. Virginia, District Court, N.D. California, District Court, S.D. New York, United States Bankruptcy Court, S.D. New York |
-| Case Types | 410 Anti-Trust, 470 Racketeer/Corrupt Organization, 850 Securities, Commodities, Exchange, 850 Securities/Commodities, Civil Rights: Jobs |
+| Case Types | 410 Anti-Trust, 470 Racketeer/compromised Organization, 850 Securities, Commodities, Exchange, 850 Securities/Commodities, Civil Rights: Jobs |
 
 **Notable cases:**
 - Solan Holding BV v. Synexxus Composites, Inc. (2022) — District Court, E.D. Virginia

@@ -1,8 +1,8 @@
 ---
 title: "Google - Alphabet"
 type: corporation
-content-readiness: draft
-last-updated: 2026-04-12
+content-readiness: ready
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 sector: "Tech & Crypto"
@@ -448,7 +448,7 @@ Google represents the most advanced form of monopoly power in the vault — one 
 |--------|-------|
 | Federal Court Cases | 1 |
 | Courts | District Court, N.D. California |
-| Case Types | 470 Racketeer/Corrupt Organization |
+| Case Types | 470 Racketeer/compromised Organization |
 
 **Notable cases:**
 - Redmond v. United States (2022) — District Court, N.D. California

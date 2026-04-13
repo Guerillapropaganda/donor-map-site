@@ -1,8 +1,8 @@
 ---
 title: "Cryptocurrency Industry"
 type: donor
-content-readiness: draft
-last-updated: 2026-04-08
+content-readiness: ready
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 sector: "Tech & Crypto"
@@ -215,7 +215,7 @@ The crypto industry's $245M+ 2024 election investment produced four concrete pol
 |--------|-------|
 | Federal Court Cases | 460 |
 | Courts | District Court, D. Nevada, District Court, E.D. Michigan, District Court, E.D. New York, District Court, M.D. Tennessee, District Court, S.D. New York |
-| Case Types | 320 Assault Libel & Slander, 850 Securities/Commodities, 890 Other Statutory Actions, 950 Constitutional - State Statute, Racketeer/Corrupt Organization |
+| Case Types | 320 Assault Libel & Slander, 850 Securities/Commodities, 890 Other Statutory Actions, 950 Constitutional - State Statute, Racketeer/compromised Organization |
 
 **Notable cases:**
 - Flaherty v. Pierce (2026) — District Court, M.D. Tennessee

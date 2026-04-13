@@ -1,8 +1,8 @@
 ---
 title: "Brookings Institution"
 type: think-tank
-content-readiness: draft
-last-updated: 2026-04-10
+content-readiness: ready
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 category: centrist
@@ -313,7 +313,7 @@ Brookings occupies a structurally critical position in the American policy appar
 
 The "centrist" label is analytically useful but politically misleading. Brookings is centrist in the sense that it serves the consensus positions of the Democratic Party establishment and the Republican national security establishment simultaneously, since both wings share the same institutional funders: Wall Street, defense contractors, and the foreign policy blob. The Goldman-funded Hamilton Project and the Northrop Grumman-funded defense research don't conflict — they're both products of the same donor class, just targeting different policy levers.
 
-The fundamental question is not whether any individual Brookings scholar is corrupt, but whether an institution funded by Wall Street, governed by Wall Street executives, and staffed by personnel who cycle between Wall Street and government can produce genuinely independent research on questions of financial regulation, corporate power, and wealth distribution.
+The fundamental question is not whether any individual Brookings scholar is compromised, but whether an institution funded by Wall Street, governed by Wall Street executives, and staffed by personnel who cycle between Wall Street and government can produce genuinely independent research on questions of financial regulation, corporate power, and wealth distribution.
 
 The Qatar scandal cut through the branding in the most clarifying possible way. The institution that markets itself as the gold standard of independent research had its president — a retired four-star general — using his Brookings account to lobby the Trump White House for the foreign government that was its largest foreign donor.
 

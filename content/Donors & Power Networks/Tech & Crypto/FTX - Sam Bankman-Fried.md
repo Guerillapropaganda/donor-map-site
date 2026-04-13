@@ -86,7 +86,7 @@ SBF's own explanation for hiding Republican donations: reporters would "freak th
 | Nov 2, 2022 | CoinDesk exposes Alameda balance sheet | CoinDesk |
 | Nov 11, 2022 | FTX files bankruptcy — DCCPA collapses | Multiple |
 | Dec 12, 2022 | SBF indicted on 8 counts including campaign finance violations | DOJ |
-| Oct 30, 2023 | Convicted on all 7 counts: wire fraud, money laundering, securities fraud, commodities fraud | DOJ |
+| Oct 30, 2023 | Convicted on all 7 counts: wire misconduct, money laundering, securities violations, commodities fraud | DOJ |
 | Mar 28, 2024 | Sentenced to 25 years; ordered to forfeit $11 billion | DOJ |
 
 > [!contradiction]

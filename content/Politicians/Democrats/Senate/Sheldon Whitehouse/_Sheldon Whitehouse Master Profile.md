@@ -206,7 +206,7 @@ Whitehouse has documented the Federalist Society/Leo network with stunning preci
 
 ## Rhetorical Signature Moves
 
-**1. The Investigator Frame.** Whitehouse positions himself as the sleuth uncovering hidden corruption. His 80+ "Scheme" speeches adopt the voice of a prosecutor building a case — naming names, tracing money flows, documenting the constitutional damage. This creates credibility and moral authority. The frame obscures that he operates within the same donor infrastructure he documents.
+**1. The Investigator Frame.** Whitehouse positions himself as the sleuth uncovering hidden misconduct. His 80+ "Scheme" speeches adopt the voice of a prosecutor building a case — naming names, tracing money flows, documenting the constitutional damage. This creates credibility and moral authority. The frame obscures that he operates within the same donor infrastructure he documents.
 
 **2. The Dual Standard.** Whitehouse applies rigorous scrutiny to right-wing dark money (naming Federalist Society donors by name, calling out the $580M total, documenting the timeline of donations-to-judicial-outcomes). He calls for transparency, disclosure, and investigation. But his silence on AIPAC's $127M 2024 spending — while AIPAC was his largest single contributor — reveals the selective application. Left-wing dark money receives different scrutiny than right-wing dark money, depending on whether it aligns with his interests.
 

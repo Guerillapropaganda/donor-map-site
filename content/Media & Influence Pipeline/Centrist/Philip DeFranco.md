@@ -65,7 +65,7 @@ DeFranco's funding model intentionally obscures who actually controls editorial 
 
 #### Key Narrative Function
 
-DeFranco serves as a "gateway to engagement" for younger audiences. His relentless neutrality-posturing teaches that parties are equivalent, elites are uniformly corrupt, and the correct stance is cynical distance. This inoculates viewers against class analysis while maintaining the appearance of skepticism.
+DeFranco serves as a "gateway to engagement" for younger audiences. His relentless neutrality-posturing teaches that parties are equivalent, elites are uniformly compromised, and the correct stance is cynical distance. This inoculates viewers against class analysis while maintaining the appearance of skepticism.
 
 ### The Audience Capture Model
 
@@ -78,7 +78,7 @@ DeFranco's audience retention depends on:
 
 #### Audience Effect
 
-DeFranco's centrist frame trains audiences to distrust left-wing institutional critique while accepting right-wing institutional critique as "just skepticism." His audience is disproportionately young, politically undecided, absorbing that both parties are equivalent corrupt machines—a position serving donor interests more than voter interests.
+DeFranco's centrist frame trains audiences to distrust left-wing institutional critique while accepting right-wing institutional critique as "just skepticism." His audience is disproportionately young, politically undecided, absorbing that both parties are equivalent compromised machines—a position serving donor interests more than voter interests.
 
 ### What Their Funders Got
 

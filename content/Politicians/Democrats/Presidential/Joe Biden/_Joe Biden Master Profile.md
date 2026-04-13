@@ -1,9 +1,9 @@
 ---
 title: "Joe Biden Master Profile"
 type: politician
-content-readiness: draft
+content-readiness: ready
 central-thesis: "Biden is the structural Democrat. He genuinely believes he fights for working people — and he has done some real things (the ACA expansion, the IRA's clean energy investment, the content-readiness: draft5 minimum wage push, the union tiebreaker votes). But his politica..."
-last-updated: 2026-04-08
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -65,7 +65,7 @@ The 2024 IRA insulin cap is the current-era version: Biden capped insulin at $35
 
 Biden's defense budget ($886 billion in 2024, record for peacetime) and his Ukraine aid pipeline ($113 billion-plus to date) operate on the same logic: massive transfers to military contractors (Raytheon, [[Lockheed Martin|Lockheed Martin]], Northrop Grumman all record profits), genuinely supporting Ukraine against Russian invasion, but protected the defense industry's structural prerogatives against Sanders-style audit attempts.
 
-He is not a corrupt politician selling to the highest bidder. He is a structural politician whose career has been shaped by institutional Democratic infrastructure that depends on financial sector donations. The mechanism is not a direct exchange (though sometimes it is — see Hunter Biden). The mechanism is that Biden's constituency IS the financial sector, because the financial sector bankrolls elections and Biden believed — perhaps still believes — that working with the financial sector is the only way to win elections and govern.
+He is not a compromised politician selling to the highest bidder. He is a structural politician whose career has been shaped by institutional Democratic infrastructure that depends on financial sector donations. The mechanism is not a direct exchange (though sometimes it is — see Hunter Biden). The mechanism is that Biden's constituency IS the financial sector, because the financial sector bankrolls elections and Biden believed — perhaps still believes — that working with the financial sector is the only way to win elections and govern.
 
 ---
 
@@ -135,7 +135,7 @@ The consistency across five decades is remarkable: real concessions to labor + p
 
 The 2005 bankruptcy bill is Biden's defining moment — not because it was unique but because it was so clear and documented. It is the proof text that Biden, when asked to choose between working-class constituents and major donors, chose donors.
 
-Delaware was MBNA's home state. MBNA was the largest employer in Delaware for years. Biden represented Delaware. MBNA gave Biden over $200,000 from its employees from 1989 to 2005. Hunter Biden, Biden's son, was paid by MBNA as a consultant at age 21 — earning an undisclosed amount for advice. This is not inherently corrupt; Hunter was working. But the timing and the dollar amounts create a clear picture: MBNA had bought access.
+Delaware was MBNA's home state. MBNA was the largest employer in Delaware for years. Biden represented Delaware. MBNA gave Biden over $200,000 from its employees from 1989 to 2005. Hunter Biden, Biden's son, was paid by MBNA as a consultant at age 21 — earning an undisclosed amount for advice. This is not inherently compromised; Hunter was working. But the timing and the dollar amounts create a clear picture: MBNA had bought access.
 
 The bankruptcy bill would make it harder for consumers to file Chapter 7 bankruptcy and easier for credit card companies to collect on debts. Consumer advocates called it a massive giveaway to the credit card and banking industry. Senator [[_Elizabeth Warren Master Profile|Elizabeth Warren]] (then Professor Warren) testified against it. Unions opposed it. Progressive groups mobilized against it. Biden voted for it.
 

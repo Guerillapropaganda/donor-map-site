@@ -74,9 +74,9 @@ Crowder has never operated as an independent media figure. Every phase of his ca
 
 Crowder's content consistently serves the policy interests of his funders — anti-labor, anti-regulation, culture-war distraction:
 
-**Anti-union advocacy:** Crowder was physically present at the 2012 Michigan right-to-work protests alongside Americans for Prosperity (Koch-funded). His content consistently frames unions as corrupt and worker protections as government overreach — positions that directly serve the fossil fuel billionaires (Wilks, Koch) who fund his career ecosystem.
+**Anti-union advocacy:** Crowder was physically present at the 2012 Michigan right-to-work protests alongside Americans for Prosperity (Koch-funded). His content consistently frames unions as compromised and worker protections as government overreach — positions that directly serve the fossil fuel billionaires (Wilks, Koch) who fund his career ecosystem.
 
-**Election denial and voter fraud claims:** Crowder produced videos claiming to show evidence of election fraud in the 2020 election, including footage he framed as proof of ballot harvesting in Georgia. Fact-checkers at PolitiFact found no evidence supporting his claims. This content drove engagement and subscriber growth while providing political cover for voter suppression efforts.
+**Election denial and voter irregularities claims:** Crowder produced videos claiming to show evidence of election irregularities in the 2020 election, including footage he framed as proof of ballot harvesting in Georgia. Fact-checkers at PolitiFact found no evidence supporting his claims. This content drove engagement and subscriber growth while providing political cover for voter suppression efforts.
 
 **Anti-trans content:** Crowder has produced extensive anti-transgender content, including infiltrating trans support groups and framing their activities as child indoctrination. This culture-war content serves as an engagement engine — it generates outrage clicks and subscription conversions while diverting audience attention from the economic interests of his funders.
 

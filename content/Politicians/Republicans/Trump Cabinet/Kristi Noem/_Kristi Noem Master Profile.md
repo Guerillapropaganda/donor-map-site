@@ -38,7 +38,7 @@ Fired by Trump in March 2026 after a $220 million taxpayer-funded DHS advertisin
 
 ## The Central Thesis
 
-Noem's career traces the arc of a donor-class politician who confused personal brand-building with governance. Her COVID-era refusal to lock down was funded by libertarian donors and amplified by conservative media into a national brand. That brand secured a Cabinet appointment. At DHS, she used taxpayer money to continue building the brand — a $220 million ad campaign featuring herself on horseback at Mount Rushmore. The scandal that ended her tenure wasn't that she was corrupt; it was that the corruption was so visually absurd (horse rentals, hair and makeup) that it became impossible to defend.
+Noem's career traces the arc of a donor-class politician who confused personal brand-building with governance. Her COVID-era refusal to lock down was funded by libertarian donors and amplified by conservative media into a national brand. That brand secured a Cabinet appointment. At DHS, she used taxpayer money to continue building the brand — a $220 million ad campaign featuring herself on horseback at Mount Rushmore. The scandal that ended her tenure wasn't that she was compromised; it was that the misconduct was so visually absurd (horse rentals, hair and makeup) that it became impossible to defend.
 
 ---
 

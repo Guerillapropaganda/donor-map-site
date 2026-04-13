@@ -1,9 +1,9 @@
 ---
 title: "Mallory McMorrow Master Profile"
 type: politician
-content-readiness: draft
+content-readiness: ready
 central-thesis: "Mallory McMorrow represents the establishment progressive model: a viral moment + exceptional fundraising charisma that translates to national donor networks, allowing a relatively junior state legislator to compete in a Senate primary against mor..."
-last-updated: 2026-04-09
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -215,6 +215,16 @@ There is an open question about where McMorrow's trajectory leads. Two possible 
 **Path 2 ([[_Kyrsten Sinema Master Profile|Kyrsten Sinema]] model):** McMorrow wins primary, goes to Senate, gradually shifts toward the economic positions of her larger donors. Maintains cultural progressivism (safe for progressives to follow her on social issues) while becoming capital-compatible on economic policy. Eventually faces primary challenge from genuine progressive in 2032.
 
 The Michigan primary cannot tell us which path McMorrow will follow. But it can tell us which faction of progressivism Democratic primary voters are more inclined to support right now. That answer matters.
+
+---
+
+## Class Analysis
+
+Mallory McMorrow's class position tells you everything her campaign website won't. She is a suburban professional from Oakland County, one of Michigan's wealthiest counties, running as a populist fighter for working families. Her viral moment was real. The $250,000 from 6,200 small-dollar donors in 24 hours was real. But three years later, the donor base has shifted. Ron Klain, Biden's former chief of staff and Airbnb's general counsel, gave $4,000. Duo Security founders Dug Song and Linh Song wrote multiple checks. The tech-wealth pipeline from California and Boston now funds a Michigan state senator whose constituents earn a fraction of what her donors do.
+
+The class function is Warren-model progressivism. McMorrow delivers cultural victories that cost capital nothing: LGBTQ+ rights, gun safety, reproductive freedom, Medicaid expansion. These are genuine gains for real people. But her economic policy positions are "substantially less developed" than her cultural ones. No Medicare for All stance. No wealth tax platform. No labor organizing record. The $15 minimum wage is her most aggressive economic position, and it passed at the state level where corporate lobbying is thinner. The pattern is structural: cultural progressivism attracts small-dollar donors who expect economic populism, while tech-wealth donors expect business-friendly governance. Both audiences get McMorrow's brand. Only one gets her policy.
+
+The Warren endorsement crystallizes the class alignment. Elizabeth Warren chose McMorrow over Abdul El-Sayed, the physician running on single-payer healthcare funded almost entirely by small donors. Warren's choice signals which model of progressivism the Democratic establishment prefers: the one compatible with professional-class donor networks. McMorrow's $5 million fundraising total, three times El-Sayed's, is the establishment's answer to the question of which progressivism wins. The one that doesn't threaten capital wins. The one funded by tech wealth and suburban professionals wins. The viral speech opened the door. The donor class walked through it.
 
 ---
 

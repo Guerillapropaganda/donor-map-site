@@ -41,7 +41,7 @@ The clearest transactional donor-to-policy connection in the Trump record. Indiv
 | 2016-01-01 | Elliott Broidy bundles donations to Trump aligned entities (exact dates pending) | $600,000 | FEC filings |
 | 2021-01-20 | Elliott Broidy pardoned (conspiracy to violate foreign lobbying laws) on Trump's last day in office | — | White House records |
 | 2016-01-01 | Trevor Milton donates to Trump aligned PACs (exact dates pending) | $2,000,000 | FEC filings |
-| 2021-01-20 | Trevor Milton pardoned (securities fraud, Nikola Corporation) on Trump's last day in office | — | White House records |
+| 2021-01-20 | Trevor Milton pardoned (securities violations, Nikola Corporation) on Trump's last day in office | — | White House records |
 | 2016-01-01 | Betancourt family donates to Trump interests (exact dates pending) | $3,500,000 | FEC filings |
 | 2021-01-20 | Maikel Moreno pardoned (money laundering) on Trump's last day in office (Betancourt family interest) | — | White House records |
 

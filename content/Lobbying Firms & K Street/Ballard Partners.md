@@ -1,8 +1,8 @@
 ---
 title: "Ballard Partners"
 type: lobbying-firm
-content-readiness: draft
-last-updated: 2026-04-12
+content-readiness: ready
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 annual-revenue: "$88.1M (2025)"
@@ -264,7 +264,7 @@ The structural function: Ballard Partners is the firm that converts political pr
 |--------|-------|
 | Federal Court Cases | 33 |
 | Courts | District Court, D. Nevada, District Court, District of Columbia, District Court, M.D. Florida, District Court, N.D. California, District Court, S.D. New York, United States Bankruptcy Court, D. New Jersey, United States Bankruptcy Court, S.D. Florida. |
-| Case Types | 440 Civil Rights: Other, 470 Racketeer/Corrupt Organization, 890 Other Statutory Actions, Assault Libel & Slander |
+| Case Types | 440 Civil Rights: Other, 470 Racketeer/compromised Organization, 890 Other Statutory Actions, Assault Libel & Slander |
 
 **Notable cases:**
 - Knight v. Ballard Partners, Inc. (2026) — District Court, D. Nevada

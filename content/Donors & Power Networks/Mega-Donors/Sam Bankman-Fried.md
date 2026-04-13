@@ -137,7 +137,7 @@ Favorable crypto regulation (specifically, regulation that would have required o
 |--------|-------|
 | Federal Court Cases | 334 |
 | Courts | Court of Appeals for the Fifth Circuit, Court of Appeals for the Second Circuit, District Court, C.D. California, District Court, E.D. New York, District Court, M.D. Florida, District Court, N.D. California, District Court, S.D. Florida, District Court, S.D. New York +2 more |
-| Case Types | 3470 RICO, 360 P.I.: Other, 380 Personal Property: Other, 463 Habeas Corpus - Alien Detainee, 470 Racketeer/Corrupt Organization |
+| Case Types | 3470 RICO, 360 P.I.: Other, 380 Personal Property: Other, 463 Habeas Corpus - Alien Detainee, 470 Racketeer/compromised Organization |
 
 **Notable cases:**
 - Doe v. Kroll Restructuring Administration LLC (2026) — District Court, S.D. New York

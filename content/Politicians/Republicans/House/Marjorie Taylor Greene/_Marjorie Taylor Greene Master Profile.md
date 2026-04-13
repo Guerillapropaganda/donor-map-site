@@ -93,7 +93,7 @@ The reinstatement-then-ouster-attempt cycle demonstrates the logic of the chaos 
 
 ### The DOGE Connection
 
-Greene aligned with the Department of Government Efficiency (DOGE) framework and Trump's deregulatory agenda. Her positioning as a DOGE supporter represents the QAnon-to-MAGA mainstreaming pipeline: the conspiracy theory framework (corrupt deep state controlling the government) is converted into policy language (bureaucratic waste and fraud) that accomplishes the same donor-class deregulatory goals through different optics.
+Greene aligned with the Department of Government Efficiency (DOGE) framework and Trump's deregulatory agenda. Her positioning as a DOGE supporter represents the QAnon-to-MAGA mainstreaming pipeline: the conspiracy theory framework (compromised deep state controlling the government) is converted into policy language (bureaucratic waste and fraud) that accomplishes the same donor-class deregulatory goals through different optics.
 
 - [[From QAnon to DOGE - The Mainstreaming Pipeline]] — the ideological evolution from conspiracy theory to deregulatory policy, and how the MAGA movement converted fringe beliefs into governing agenda
 

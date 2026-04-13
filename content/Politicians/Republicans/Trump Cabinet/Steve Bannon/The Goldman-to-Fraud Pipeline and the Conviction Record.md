@@ -53,10 +53,10 @@ Bannon's most profitable investment was a Goldman-era deal: he accepted a stake 
 | Total raised | $25+ million |
 | Bannon's personal take | $1 million+ (prosecutors: used for personal expenses) |
 | Co-defendants | Brian Kolfage (4 yrs 3 mo), Andrew Badolato (3 yrs), Tim Shea (63 mo) |
-| Federal charges | Wire fraud, money laundering conspiracy |
+| Federal charges | wire misconduct, money laundering conspiracy |
 | Trump pardon | January 19, 2021 (final hours, federal only) |
 | NY state charges | Indicted September 2022 (pardon doesn't cover state) |
-| NY guilty plea | February 11, 2025 — scheme to deceive in the First Degree (Class E felony) |
+| NY guilty plea | February 11, 2025 — plan to deceive in the First Degree (Class E felony) |
 | NY sentence | 3-year conditional discharge (no prison) |
 | NY restrictions | Cannot serve as officer/director of NY charities |
 

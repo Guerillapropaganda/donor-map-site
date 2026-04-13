@@ -1,7 +1,7 @@
 ---
 title: "Tim Walz"
 type: politician
-content-readiness: draft
+content-readiness: ready
 central-thesis: "Walz's authenticity is genuine: he taught school, coached football, served in the National Guard, and built Minnesota Democratic politics through labor union relationships rather than Wall Street finance. The question is whether this authenticity ..."
 last-updated: 2026-04-13
 source-tier: 1
@@ -89,7 +89,7 @@ Walz represents the labor-aligned lane of Democratic politics that has been near
 
 The question is whether this authenticity can translate to policy independence or whether Walz will become the translator between working-class voters and donor-class policy — the person who speaks workers' language while delivering capital's agenda. His Minnesota record suggests the latter. His VP role, which requires managing Harris's donor relationships, points in the same direction.
 
-He is not corrupt in the transactional sense. He believes in progressive values and labor solidarity. The trap is more sophisticated: he can deliver real wins on specific issues while the overall structure — the fact that corporations dominate policy outcomes — remains intact. That's the structural function of labor-aligned Democrats in a donor-class system: manage working-class politics safely while preserving capital's ultimate authority.
+He is not compromised in the transactional sense. He believes in progressive values and labor solidarity. The trap is more sophisticated: he can deliver real wins on specific issues while the overall structure — the fact that corporations dominate policy outcomes — remains intact. That's the structural function of labor-aligned Democrats in a donor-class system: manage working-class politics safely while preserving capital's ultimate authority.
 
 ## Sources
 

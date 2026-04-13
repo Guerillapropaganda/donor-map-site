@@ -48,7 +48,7 @@ donors: [[AIPAC - American Israel Public Affairs Committee|AIPAC]] [[DMFI - Demo
 
 ## Who They Are
 
-Gregory Meeks. Democrat, New York's 5th Congressional District (Southeast Queens — Jamaica, Laurelton, Rosedale, Cambria Heights, Far Rockaway, JFK Airport area). First elected 1998. Ranking Member, House Foreign Affairs Committee — one of only four House members with effective veto authority over U.S. foreign military sales. Senior Member, House Financial Services Committee. Former Dodd-Frank conferee. Member of the New Democrat Coalition (pro-business caucus — only five Black lawmakers in the coalition). Named one of the "Most Corrupt Members of Congress" by Citizens for Responsibility and Ethics in Washington (CREW) in 2011. Multiple ethics investigations involving undisclosed gifts, below-market home purchases, and foreign government-funded travel.
+Gregory Meeks. Democrat, New York's 5th Congressional District (Southeast Queens — Jamaica, Laurelton, Rosedale, Cambria Heights, Far Rockaway, JFK Airport area). First elected 1998. Ranking Member, House Foreign Affairs Committee — one of only four House members with effective veto authority over U.S. foreign military sales. Senior Member, House Financial Services Committee. Former Dodd-Frank conferee. Member of the New Democrat Coalition (pro-business caucus — only five Black lawmakers in the coalition). Named one of the "Most compromised Members of Congress" by Citizens for Responsibility and Ethics in Washington (CREW) in 2011. Multiple ethics investigations involving undisclosed gifts, below-market home purchases, and foreign government-funded travel.
 
 ### Funding Structure (2017-2018 cycle):
 - PAC contributions: **75.37%**

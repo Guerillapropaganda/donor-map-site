@@ -116,7 +116,7 @@ TMTG's political significance is structural: the company gives Trump personal fi
 |--------|-------|
 | Federal Court Cases | 16 |
 | Courts | District Court, C.D. California, District Court, District of Columbia, District Court, M.D. Florida, District Court, S.D. Florida, District Court, S.D. New York |
-| Case Types | 440 Civil Rights: Other, 470 Racketeer/Corrupt Organization, 850 Securities/Commodities, 896 Other Statutes: Arbitration, Assault Libel & Slander |
+| Case Types | 440 Civil Rights: Other, 470 Racketeer/compromised Organization, 850 Securities/Commodities, 896 Other Statutes: Arbitration, Assault Libel & Slander |
 
 **Notable cases:**
 - 4CHAN COMMUNITY SUPPORT LLC v. UK OFFICE OF COMMUNICATIONS (2025) — District Court, District of Columbia

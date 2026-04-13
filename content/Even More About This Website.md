@@ -75,7 +75,7 @@ This means:
 
 **Pattern identification.** Recurring patterns are named and tracked across the database: Revolving Door, Two-Audience Problem, Donor-Class Override, Dark Money Symmetry, Committee Jurisdiction as Fundraising Engine, and others documented on the [[Browse by Pattern]] page. These patterns are identified inductively from the data, not imposed on it.
 
-**Structural analysis over individual motive.** The database focuses on structural incentives rather than individual corruption. A politician who votes in alignment with their top donors may be acting from conviction, party pressure, or financial incentive, or all three. The database documents the structural relationship and lets the evidence speak. It does not require proof of corrupt intent to document the pipeline.
+**Structural analysis over individual motive.** The database focuses on structural incentives rather than individual misconduct. A politician who votes in alignment with their top donors may be acting from conviction, party pressure, or financial incentive, or all three. The database documents the structural relationship and lets the evidence speak. It does not require proof of compromised intent to document the pipeline.
 
 ## Limitations
 

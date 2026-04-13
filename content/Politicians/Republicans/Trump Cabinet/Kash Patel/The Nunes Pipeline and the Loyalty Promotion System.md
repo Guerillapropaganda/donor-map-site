@@ -42,7 +42,7 @@ donors: Trump political network
 
 The Nunes Memo (released February 2, 2018) alleged that the FBI improperly obtained FISA surveillance warrants on Carter Page using the Steele Dossier. Patel was the primary author.
 
-**What the memo did politically:** It gave Trump and Republicans a narrative framework — "the FBI is corrupt" — that justified every subsequent attack on FBI independence. The memo didn't need to be accurate (its conclusions were disputed by the FBI, the DOJ Inspector General, and Democratic committee members). It needed to be useful. It was.
+**What the memo did politically:** It gave Trump and Republicans a narrative framework — "the FBI is compromised" — that justified every subsequent attack on FBI independence. The memo didn't need to be accurate (its conclusions were disputed by the FBI, the DOJ Inspector General, and Democratic committee members). It needed to be useful. It was.
 
 **What it earned Patel:** Nunes personally told Trump that Patel "saved his presidency." Trump ordered his National Security Adviser to hire Patel immediately. John Bolton and Charles Kupperman initially resisted — but Trump insisted. The lesson: direct service to Trump's narrative = direct career advancement.
 

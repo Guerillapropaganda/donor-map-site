@@ -62,7 +62,7 @@ He also sits on the Financial Services Committee. He has served in Congress sinc
 
 Roger Williams is the donor class serving itself directly — no middleman required. He doesn't take money from auto dealers and then do their bidding. He IS the auto dealer. He chairs the Small Business Committee while running a $50 million+ dealership empire. He authored legislation that would have exempted dealerships like his from vehicle safety recall requirements. He promoted LIFO (Last-In-First-Out) tax accounting methods that specifically benefit car dealerships' inventory management. He received $1-2 million in PPP loans during COVID that were forgiven — loans administered by programs his committee oversees.
 
-This is the Self-Funding as Independence pattern in its purest form, inverted: Williams doesn't need donors to corrupt him because he brought his own conflicts of interest to Congress. The Small Business Committee chair isn't captured by the industry — the industry captured the chairmanship directly.
+This is the Self-Funding as Independence pattern in its purest form, inverted: Williams doesn't need donors to compromised him because he brought his own conflicts of interest to Congress. The Small Business Committee chair isn't captured by the industry — the industry captured the chairmanship directly.
 
 ---
 

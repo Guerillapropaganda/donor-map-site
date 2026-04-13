@@ -112,7 +112,7 @@ The deeper tension is between Boyle's working-class brand and the Budget Committ
 | 2014-2024 | DONATION | IBEW Local 98, building trades, Philadelphia machine support | Building trades | $595K+ via allied PAC | — |
 | 2015-2024 | ROLE | Philadelphia-based congressman with near-universal building trades endorsement | — | — | — |
 | 2023 | ← COMPLICATION | Johnny Doc Dougherty (IBEW Local 98 leader, Boyle's most powerful backer) convicted on 70 counts of embezzlement | — | — | — |
-| 2024 | ← NOTE | The Philadelphia machine that built Boyle's career had a criminal at its center. Boyle's personal integrity isn't in question — but the fundraising infrastructure that launched him was built by a convicted felon. The machine works even when its operators are corrupt. | — | — | — |
+| 2024 | ← NOTE | The Philadelphia machine that built Boyle's career had a criminal at its center. Boyle's personal integrity isn't in question — but the fundraising infrastructure that launched him was built by a convicted felon. The machine works even when its operators are compromised. | — | — | — |
 
 ---
 

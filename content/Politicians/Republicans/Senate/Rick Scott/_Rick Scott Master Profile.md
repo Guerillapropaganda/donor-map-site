@@ -131,7 +131,7 @@ Scott's legislative record on healthcare is the most direct conflict of interest
 | Date | Donor | Amount | Given | Policy Outcome |
 |------|-------|--------|-------|----------------|
 | 2022-08-07 | Cigna PAC (top contributor 2022) + healthcare/insurance sector | $10K+ Cigna alone; $2M+ healthcare sector cycle | 2022-Q2 | Scott votes against Inflation Reduction Act — opposes Medicare drug pricing negotiation provision; the policy outcome cost pharmaceutical and insurance donors nothing |
-| 2024-2025 | Healthcare and financial sector PACs (continued) | Part of ongoing sector funding | 2024 | Scott continues opposing Medicare negotiation; supports Medicaid work requirements; advocates healthcare privatization — 27+ years from fraud settlement, same agenda |
+| 2024-2025 | Healthcare and financial sector PACs (continued) | Part of ongoing sector funding | 2024 | Scott continues opposing Medicare negotiation; supports Medicaid work requirements; advocates healthcare privatization — 27+ years from misconduct settlement, same agenda |
 
 #### NRSC / McConnell Spending War
 

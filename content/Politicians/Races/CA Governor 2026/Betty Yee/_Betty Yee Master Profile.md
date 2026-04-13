@@ -78,7 +78,7 @@ This is remarkable for a statewide elected official. Controller is a significant
 
 ## Analytical Patterns
 
-**The Genuine Win + Structural Limit** — Yee's Controller role genuinely required auditing state spending and reporting on fiscal performance. She did conduct audits and released reports on state expenditures. But the structural limit is that auditing is not the same as preventing waste or challenging underlying policy. An audit can document a corrupt contract; it cannot force the state to stop awarding contracts to corrupt vendors. Yee's "watchdog" role stopped at documentation, not at structural reform.
+**The Genuine Win + Structural Limit** — Yee's Controller role genuinely required auditing state spending and reporting on fiscal performance. She did conduct audits and released reports on state expenditures. But the structural limit is that auditing is not the same as preventing waste or challenging underlying policy. An audit can document a compromised contract; it cannot force the state to stop awarding contracts to compromised vendors. Yee's "watchdog" role stopped at documentation, not at structural reform.
 
 **The Villain Framing** — Yee frames California's fiscal challenges as caused by external villainy (corruption, waste, mismanagement) rather than structural policy choices. The solution, in her framing, is better auditing and fiscal discipline — catching villains rather than changing the rules they operate within. This deflects class analysis (who benefits from spending, who is harmed by austerity) onto technical accountability.
 

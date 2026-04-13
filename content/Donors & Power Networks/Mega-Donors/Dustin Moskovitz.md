@@ -172,7 +172,7 @@ The deeper contradiction is ideological. Effective altruism promises data-driven
 |--------|-------|
 | Federal Court Cases | 47 |
 | Courts | District Court, C.D. California, District Court, D. Arizona, District Court, D. Massachusetts, District Court, D. Nebraska, District Court, N.D. California, District Court, S.D. New York, United States Bankruptcy Court, D. Delaware |
-| Case Types | 12 Recovery of money/property - 547 preference; 13 Recovery of money/property - 548 fraudulent transfer; 14 Recovery of money/property - other, 470 Racketeer/Corrupt Organization, 890 Other Statutes: Other Statutory Actions, 890 Other Statutory Actions, Civil Rights: Other |
+| Case Types | 12 Recovery of money/property - 547 preference; 13 Recovery of money/property - 548 deceptive transfer; 14 Recovery of money/property - other, 470 Racketeer/compromised Organization, 890 Other Statutes: Other Statutory Actions, 890 Other Statutory Actions, Civil Rights: Other |
 
 **Notable cases:**
 - Curry v. The RealReal, Inc. (2026) — District Court, N.D. California
