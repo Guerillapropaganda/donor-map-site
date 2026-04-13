@@ -1,9 +1,9 @@
 ---
 title: "Mike Johnson Master Profile"
 type: politician
-content-readiness: draft
+content-readiness: ready
 central-thesis: "Mike Johnson's speakership demonstrates how the donor class captures institutions through the least-expected candidates. A constitutional lawyer with 9 years at Alliance Defending Freedom (anti-LGBTQ litigation), a 0/100 Human Rights Campaign scor..."
-last-updated: 2026-04-07
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 party: "Republican"
@@ -107,6 +107,14 @@ Mike Johnson. Speaker of the House (October 2023–present). Representative for 
 > **AIPAC speaker preservation:** $2M+ Israel lobby donations → Johnson brings $95B aid package to floor with Democratic votes over Freedom Caucus objections. Johnson preserved his speakership by satisfying AIPAC at the expense of his own caucus — the clearest demonstration that donor priorities outweigh party discipline.
 >
 > **Project 2025 alignment:** Heritage Foundation/Koch network investment in Johnson's career → Speaker uses gavel to advance Heritage priority list. Johnson's speakership is the institutional delivery mechanism for the donor-class agenda compiled in Project 2025.
+
+## Class Analysis
+
+Mike Johnson became Speaker because he had no enemies, and the donor class captured him because he had no power base to resist. A 16-year backbencher with no leadership positions, no committee chairs, and a net worth possibly below zero became a $71 million fundraising machine in three quarters ($20 million Q1, $23.5 million Q2, $27.5 million Q3 of 2024). The speed of the donor-class pivot tells the story: AIPAC went from roughly $25,000 pre-Speaker to $104,000 in 2023, with $95,000 arriving in November alone after Johnson pushed a $14 billion Israel aid package. Peter Thiel wrote $852,000 to his joint fundraising committee. Fracking billionaire Tim Dunn contributed $1.1 million. Rex Sinquefeld added another $1.1 million.
+
+The religious brand provides the base; the donor class provides the power. Johnson spent nine years at Alliance Defending Freedom litigating against LGBTQ rights, endorsed briefs criminalizing consensual adult sexual activity, and holds a 0/100 Human Rights Campaign score. His top donors are AIPAC (a secular pro-Israel lobby), Peter Thiel (an openly gay tech billionaire), and fossil fuel interests ($338,000 or more career from oil and gas). The donors do not share his values. They share his utility. The Koch Network invested $800,000 or more across Johnson's career while he chaired the Republican Study Committee, whose budget proposals called for cutting Social Security, Medicare, and Medicaid. The RSC budget IS the Koch Network's legislative wish list converted to a House budget proposal.
+
+The AIPAC speaker preservation sequence is the clearest proof that donor priorities outweigh party discipline. Johnson brought a $95 billion Ukraine/Israel/Taiwan aid package to the floor over Freedom Caucus objections, preserving his speakership with Democratic votes. He opposed Ukraine aid for months until AIPAC and defense donors needed the Israel component passed. The reversal corresponds to $2 million or more in Israel lobby donations to Johnson's leadership PAC and allied candidates. The qualities that made Johnson invisible (no leadership positions, no enemies, no profile) are the qualities the donor class prefers: pliable, dependent, controllable.
 
 ## Analytical Patterns
 

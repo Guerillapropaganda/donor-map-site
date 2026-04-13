@@ -2,9 +2,9 @@
 title: "John Thune Master Profile"
 type: politician
 bioguide-id: "T000250"
-content-readiness: draft
+content-readiness: ready
 central-thesis: "John Thune's 20-year Senate career demonstrates the corporate capture model at its most institutionally successful. An agricultural-state senator from South Dakota — population 900,000, median household income $65K — is funded primarily by NextEra..."
-last-updated: 2026-04-07
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 party: "Republican"
@@ -96,6 +96,14 @@ John Thune. Senate Majority Leader (2025–present). Republican senator from Sou
 > **The insurance pattern:** Thune is consistently among the top Senate recipients of insurance industry money. His votes on ACA, Medicare, and the IRA follow the insurance industry's preferred outcomes without exception.
 
 ---
+
+## Class Analysis
+
+John Thune represents South Dakota (population 900,000, median household income $65,000) and is funded by telecom conglomerates, insurance PACs, pharmaceutical executives, and Wall Street. The mismatch between constituency and donor class is the profile. ISPs (AT&T, Verizon, Comcast) have given $928,000 or more across his career, making him the second-highest Senate recipient of telecom money in 2015-16. Insurance industry contributions total $361,000 ($233,500 from PACs, $127,600 from individuals). Pharmaceutical CEOs wrote $35,000 in a single month (Pfizer $5,800, Gilead $5,800, Eli Lilly $2,900, February 2022). NextEra Energy has contributed roughly $300,000 since 2016. Goldman Sachs, Citigroup, and Blackstone round out the donor architecture.
+
+Thune governs accordingly. As Commerce Committee chair, he led the fight against net neutrality, blocking every legislative path to restore FCC rules that would prevent his telecom donors from throttling the same rural broadband service he campaigns on. He voted against the Inflation Reduction Act, opposing Medicare drug price negotiation while pharmaceutical CEOs funded his campaigns. He voted for the Tax Cuts and Jobs Act including individual mandate repeal, the insurance industry's preferred outcome. Every vote on net neutrality, drug pricing, and financial regulation traces to these donors, not to South Dakota farmers.
+
+The Majority Leader position is the capstone of the donor-class capture model. Mitch McConnell chose Thune as his successor. Thune won 29-24 over John Cornyn on a secret ballot that protected establishment votes from MAGA backlash. He raised $20 million in the cycle, made a $4 million single transfer to the NRSC (the largest ever by a Senate Republican), and now blocks bipartisan tariff resolutions despite representing an agricultural state where tariffs hurt farmers most. The "South Dakota values" brand is the packaging. The telecom-insurance-pharma-Wall Street donor architecture is the product.
 
 ## Analytical Patterns
 

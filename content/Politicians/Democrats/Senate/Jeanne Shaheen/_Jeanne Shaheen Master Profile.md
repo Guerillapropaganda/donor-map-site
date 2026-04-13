@@ -1,9 +1,9 @@
 ---
 title: "Jeanne Shaheen Master Profile"
 type: politician
-content-readiness: draft
+content-readiness: ready
 central-thesis: "Shaheen is the defense industry's ideal Democratic senator — a three-committee portfolio covering every stage of the defense spending pipeline, from the foreign policy that creates demand for weapons systems to the budget authorization that approv..."
-last-updated: 2026-04-09
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -104,6 +104,14 @@ Shaheen is the defense industry's ideal Democratic senator — a three-committee
 > The donation-to-policy loop runs through all three committees simultaneously. BAE Systems is Shaheen's top defense donor and New Hampshire's largest industrial employer. Shaheen sits on Foreign Relations (where she advocates for policies that create demand for defense products — Ukraine aid, NATO spending, opposition to withdrawal from Afghanistan). She sits on Armed Services (where she authorizes the defense programs BAE builds). She sits on Appropriations (where she funds those programs — including $35.5M in CHIPS money directly to BAE's Nashua facility). The same company that funds her campaigns employs her constituents and receives the federal funding she appropriates. This isn't corruption in the legal sense. It's structural alignment — the defense economy of New Hampshire, the donor class of the defense industry, and the committee portfolio of the senator all point in the same direction. Every foreign policy position that increases defense spending benefits the donors who fund the senator who makes the policy.
 
 ---
+
+## Class Analysis
+
+Jeanne Shaheen holds the defense industry's ideal committee portfolio: Armed Services (where she authorizes weapons programs), Appropriations (where she funds them), and Foreign Relations (where she advocates the foreign policy that creates demand for them). Five defense contractors sit in her top 20 career donors: BAE Systems, Raytheon, Northrop Grumman, Sierra Nevada Corporation, and Honeywell. She was the #1 Senate recipient of BAE Systems donations and #2 for Sierra Nevada during the 2018-2020 cycle. Raytheon employees, including CEO Thomas Kennedy, contributed nearly $30,000. She ranks sixth among all 26 Armed Services senators in defense industry receipts, fifth of 30 on Appropriations, third of 24 on Foreign Relations. The defense donor class has complete coverage of her committee work.
+
+The structural alignment runs deeper than campaign contributions. BAE Systems is New Hampshire's largest industrial manufacturing employer, three times larger than the next company. Defense accounts for $3.1 billion of New Hampshire's GDP, 3.5% of the state economy. When Shaheen secured $35.5 million in CHIPS Act funding for BAE's Nashua microelectronics facility, it was simultaneously constituent service (jobs in Nashua) and donor service (federal money for her top contributor). These two functions are structurally inseparable in New Hampshire's economy, and that inseparability is exactly what makes the arrangement so durable. There is no moment where Shaheen must choose between her voters and her donors, because the defense economy employs both.
+
+Every foreign policy position Shaheen takes maps onto the economic interests of her donor class. Ukraine military aid means weapons contracts. NATO burden-sharing demands mean expanded procurement. Opposition to the Afghanistan withdrawal meant preserving a 20-year revenue stream for the five defense contractors in her top 20 donors. The national security work is substantive, and the Ukraine advocacy is genuine. But the question the donor map forces is whether those positions are shaped by threat assessment or by the $3.1 billion defense economy that her donors, her constituents, and her re-election all depend on.
 
 ## Analytical Patterns
 
