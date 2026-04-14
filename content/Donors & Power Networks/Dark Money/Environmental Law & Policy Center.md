@@ -91,6 +91,25 @@ ELPC represents NGO environmental infrastructure controlled by foundation fundin
 - ~~[Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F363866530_202306_990_2024061122523505.pdf)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:propublica-990 end -->
 
+<!-- auto:propublica-990 pending-merge 2026-04-14 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+| Metric | Amount |
+|--------|--------|
+| Total Revenue | $10.9M |
+| Total Contributions | $9.6M |
+| Program Service Revenue | $241K |
+| Investment Income | $544K |
+| Total Expenses | $8.2M |
+| Net Assets | $38.0M |
+| Officer Compensation | $914K |
+
+- [Source: ProPublica Nonprofit Explorer — EIN 363866530](https://projects.propublica.org/nonprofits/organizations/363866530) (Tier 1)
+- [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F363866530_202306_990_2024061122523505.pdf) (Tier 1)
+
+<!-- auto:propublica-990 pending-merge end -->
+
 ### Tax Filings (IRS 990)
 <!-- auto:nonprofit-990 start -->
 | Metric | Value |

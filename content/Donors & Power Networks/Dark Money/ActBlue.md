@@ -219,6 +219,24 @@ The comparison to WinRed reveals the bipartisan nature of the grift. Both platfo
 - ~~[Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F455097038_202312_990O_2025032023237934.pdf)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:propublica-990 end -->
 
+<!-- auto:propublica-990 pending-merge 2026-04-14 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+| Metric | Amount |
+|--------|--------|
+| Total Revenue | $2.0M |
+| Total Contributions | $1.8M |
+| Investment Income | $206K |
+| Total Expenses | $2.7M |
+| Net Assets | $8.5M |
+| Officer Compensation | $191K |
+
+- [Source: ProPublica Nonprofit Explorer — EIN 455097038](https://projects.propublica.org/nonprofits/organizations/455097038) (Tier 1)
+- [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F455097038_202312_990O_2025032023237934.pdf) (Tier 1)
+
+<!-- auto:propublica-990 pending-merge end -->
+
 ### Federal Court Records (CourtListener)
 <!-- auto:courtlistener-cases start -->
 | Metric | Value |

@@ -3,7 +3,7 @@ title: "Maria Cantwell"
 type: politician
 content-readiness: ready
 central-thesis: "Maria Cantwell is the tech-aerospace industry's Senate anchor , a former tech executive who chairs the committee with jurisdiction over the industries that dominate her state's economy. She receives more campaign donations from the airline and tel..."
-last-updated: 2026-04-13
+last-updated: 2026-04-14
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -256,6 +256,34 @@ Boeing is the most visible case. Cantwell's committee oversees FAA regulation of
 
 - ~~[Source: Senate Stock Watcher](https://senatestockwatcher.com/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:stock-trades end -->
+
+<!-- auto:stock-trades pending-merge 2026-04-14 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+| Metric | Value |
+|--------|-------|
+| Total Trades | 6 |
+| Purchases | 0 |
+| Sales | 5 |
+| Est. Value Range | $5,005 – $75,000 |
+
+**Top tickers traded:** RNWK
+
+**Recent notable trades:**
+
+| Date | Ticker | Type | Amount | Owner |
+|------|--------|------|--------|-------|
+| 06/06/2014 | RNWK | Sale | $1,001 - $15,000 | Self |
+| 06/06/2014 | RNWK | Sale | $1,001 - $15,000 | Self |
+| 06/06/2014 | RNWK | Sale | $1,001 - $15,000 | Self |
+| 06/06/2014 | RNWK | Sale | $1,001 - $15,000 | Self |
+| 04/28/2016 | RNWK | Sale | $1,001 - $15,000 | Self |
+| 01/16/2014 | N/A | other | Unknown | N/A |
+
+- [Source: Senate Stock Watcher](https://senatestockwatcher.com/) (Tier 1)
+
+<!-- auto:stock-trades pending-merge end -->
 
 ## Voting Record
 <!-- auto:voting-record start -->

@@ -3,7 +3,7 @@ title: "Tammy Duckworth"
 type: politician
 content-readiness: ready
 central-thesis: "Duckworth's military sacrifice provides moral authority that converts directly into policy authority on defense spending , the most donor-lucrative jurisdiction in Congress. Her Armed Services Committee seat and combat veteran status make her the ..."
-last-updated: 2026-04-13
+last-updated: 2026-04-14
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -229,6 +229,36 @@ Duckworth's veteran advocacy, the billions in caregiver funding, the suicide pre
 
 - ~~[Source: Senate Stock Watcher](https://senatestockwatcher.com/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:stock-trades end -->
+
+<!-- auto:stock-trades pending-merge 2026-04-14 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+| Metric | Value |
+|--------|-------|
+| Total Trades | 15 |
+| Purchases | 1 |
+| Sales | 14 |
+| Est. Value Range | $29,015 – $260,000 |
+
+**Top tickers traded:** CAT, BBL, GS, SOUHY, DWDP, ABT, JNJ, CC
+
+**Recent notable trades:**
+
+| Date | Ticker | Type | Amount | Owner |
+|------|--------|------|--------|-------|
+| 12/21/2017 | BBL | Purchase | $1,001 - $15,000 | Joint |
+| 11/30/2017 | GS | Sale | $1,001 - $15,000 | Joint |
+| 11/01/2017 | SOUHY | Sale | $1,001 - $15,000 | Joint |
+| 10/23/2017 | DWDP | Sale | $1,001 - $15,000 | Joint |
+| 10/18/2017 | ABT | Sale | $1,001 - $15,000 | Joint |
+| 10/17/2017 | JNJ | Sale | $1,001 - $15,000 | Joint |
+| 10/10/2017 | CC | Sale | $1,001 - $15,000 | Joint |
+| 09/15/2017 | INTC | Sale | $1,001 - $15,000 | Joint |
+
+- [Source: Senate Stock Watcher](https://senatestockwatcher.com/) (Tier 1)
+
+<!-- auto:stock-trades pending-merge end -->
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->

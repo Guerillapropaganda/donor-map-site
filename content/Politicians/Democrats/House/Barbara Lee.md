@@ -9,12 +9,12 @@ central-thesis: >-
   U.S. history. She voted alone against indefinite military authorization. Yet
   in 2024, when Lee ran for the Senate from California, she was systematically
   outspent and elim...
-last-updated: '2026-04-14'
+last-updated: 2026-04-14
 source-tier: 1
 parent: null
-total-received: '$375,046'
-fec-candidate-id: H8CA09060
-last-enriched: '2026-04-13'
+total-received: "$375,046"
+fec-candidate-id: "H8CA09060"
+last-enriched: "2026-04-14"
 needs-reenrichment: true
 reenrich-reason: run congress pipeline
 donors: >-
@@ -200,6 +200,43 @@ Barbara Lee represents the political powerlessness of moral clarity in capitalis
 - [Source: FEC.gov](https://www.fec.gov/data/candidate/H8CA09060/) (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
+<!-- auto:fec-politician pending-merge 2026-04-14 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2024 |
+| Total Raised | $375,046 |
+| Individual Contributions | $308,954 |
+| PAC Contributions | $11,800 |
+| Cash on Hand | 144.39 |
+| IE Support (Super PAC) | $21,066 |
+
+**Fundraising by cycle:**
+
+| Cycle | Total Raised | Individual | PAC |
+|-------|-------------|------------|-----|
+| 2024 | $375,046 | $308,954 | $11,800 |
+| 2022 | $2,183,373 | $1,281,697 | $474,500 |
+| 2020 | $1,888,202 | $957,363 | $481,349 |
+| 2018 | $1,875,867 | $1,042,536 | $439,817 |
+| 2016 | $1,328,822 | $821,484 | $330,440 |
+
+**Top outside spenders:**
+
+| Committee | Support | Oppose |
+|-----------|---------|--------|
+| CARE ACTION | $8,769 | $0 |
+| KUCINICH ACTION PAC | $5,523 | $0 |
+| COURAGE CALIFORNIA SUPER PAC | $2,188 | $0 |
+| SANDRE SWANSON FOR ASSEMBLY 2010 | $1,244 | $0 |
+| TOGETHER WE THRIVE | $750 | $0 |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H8CA09060/) (Tier 1)
+
+<!-- auto:fec-politician pending-merge end -->
+
 ### Committee Assignments (Congress.gov)
 <!-- auto:committee-assignments start -->
 _No committee data found._
@@ -321,3 +358,32 @@ _No committee data found._
 - ~~[Congress.gov: Barbara Lee](https://www.congress.gov/member/e000179)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - [GovTrack: Barbara Lee](https://www.govtrack.us/congress/members/400237) (Tier 1) (NEEDS REVIEW)
 <!-- auto:voting-record end -->
+
+<!-- auto:voting-record pending-merge 2026-04-14 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+**Key Votes**
+
+| 2024-12-20 | H.R. 10545 (118th): American Relief Act, 2025 | **Yea** | Passed |
+| 2024-12-19 | H.R. 10515 (118th): American Relief Act, 2025 | **Nay** | Failed |
+| 2024-12-18 | S. 759 (118th): Beagle Brigade Act of 2023 | **Yea** | Passed |
+| 2024-12-18 | H.R. 8663 (118th): DETECT Fentanyl and Xylazine Act of 2024 | **Yea** | Passed |
+| 2024-12-18 | S. 3857 (118th): Jamul Indian Village Land Transfer Act | **Yea** | Passed |
+| 2024-12-18 | S. 1351 (118th): Stop Institutional Child Abuse Act | **Yea** | Passed |
+| 2024-12-17 | H.R. 1101 (118th): Lumbee Fairness Act | **Yea** | Passed |
+| 2024-12-17 | S. 3448 (118th): Never Again Education Reauthorization Act of 2023 | **Yea** | Passed |
+| 2024-12-17 | H.R. 115 (118th): Midnight Rules Relief Act | **Nay** | Passed |
+| 2024-12-17 | H.Res. 1616 (118th): Providing for consideration of the bill (H.R. 115) to amend chapter 8 of title 5, United States Cod | **No** | Passed |
+| 2024-12-16 | S. 4077 (118th): A bill to designate the facility of the United States Postal Service located at 180 Steuart Street in S | **Yea** | Passed |
+| 2024-12-16 | S. 141 (118th): Senator Elizabeth Dole 21st Century Veterans Healthcare and Benefits Improvement Act | **Yea** | Passed |
+| 2024-12-16 | S. 3998 (118th): Federal Judiciary Stabilization Act of 2024 | **Yea** | Passed |
+| 2024-12-16 | H.R. 7213 (118th): Autism CARES Act of 2024 | **Yea** | Passed |
+| 2024-12-12 | S. 4199 (118th): JUDGES Act of 2024 | **Not Voting** | Passed |
+
+**Sources**
+
+- [Congress.gov: Barbara Lee](https://www.congress.gov/member/e000179) (Tier 1)
+- [GovTrack: Barbara Lee](https://www.govtrack.us/congress/members/400237) (Tier 1)
+
+<!-- auto:voting-record pending-merge end -->

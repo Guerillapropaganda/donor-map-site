@@ -85,7 +85,7 @@ The needs-reenrichment flag has been set. The next scheduled pipeline run will p
 wikidata-id: "Q126731054"
 total-political-spend: "$891,442"
 lobbying-spend: 10784974
-lobbying-filings: 120
+lobbying-filings: 122
 ---
 #donor #agricultural-employer #farm-bureau #labor-opponent #immigration #H-2A #farmworkers #follow-the-money #california #lobbying #dual-opponent
 
@@ -415,6 +415,34 @@ The Farm Bureau's most revealing feature is what it does not do. It does not adv
 - [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=California%20Farm%20Bureau%20Federation) (Tier 1) (VERIFIED)
 <!-- auto:fec-donor end -->
 
+<!-- auto:fec-donor pending-merge 2026-04-14 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+| Metric | Value |
+|--------|-------|
+| Total Political Spend | $891,442 |
+| Contributions | 243 |
+
+**Top recipients:**
+
+| Recipient | Amount | Party |
+|-----------|--------|-------|
+| NRCC | $100,400 | REP |
+| TAKE BACK THE HOUSE CALIFORNIA 2022 | $100,000 | — |
+| BOEHNER FOR SPEAKER | $50,000 | — |
+| MAJORITY COMMITTEE PAC--MC PAC | $32,500 | — |
+| MCCARTHY VICTORY FUND | $30,400 | — |
+| TAKE BACK THE HOUSE 2022 | $25,000 | — |
+| RYAN-MCCARTHY VICTORY | $25,000 | — |
+| FRIENDS OF GLENN THOMPSON | $16,000 | REP |
+| PETERSON FOR CONGRESS | $15,500 | DEM |
+| JIM COSTA FOR CONGRESS | $15,000 | DEM |
+
+- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=California%20Farm%20Bureau%20Federation) (Tier 1)
+
+<!-- auto:fec-donor pending-merge end -->
+
 ### Lobbying Activity
 <!-- auto:lda-lobbying start -->
 | Metric | Value |
@@ -441,14 +469,14 @@ The Farm Bureau's most revealing feature is what it does not do. It does not adv
 | Metric | Value |
 |--------|-------|
 | Total Lobbying Spend | $10.8M |
-| Quarterly Filings | 120 |
+| Quarterly Filings | 122 |
 | Year Range | 2024-2026 |
-| Lobbying Firms | 54 |
+| Lobbying Firms | 56 |
 | Individual Lobbyists | 0 |
 
 **Issues lobbied:** Accounting, Agriculture, Banking, Bankruptcy, Budget/Appropriations, Civil Rights/Civil Liberties, Clean Air and Water (quality), Communications/Broadcasting/Radio/TV, Copyright/Patent/Trademark, Defense, Disaster Planning/Emergencies, Economics/Economic Development, Education, Energy/Nuclear, Environment/Superfund, Financial Institutions/Investments/Securities, Food Industry (safety, labeling, etc.), Fuel/Gas/Oil, Gaming/Gambling/Casino, Government Issues, Health Issues, Homeland Security, Housing, Immigration, Indian/Native American Affairs, Insurance, Labor Issues/Antitrust/Workplace, Manufacturing, Marine/Maritime/Boating/Fisheries, Media (information/publishing), Medical/Disease Research/Clinical Labs, Medicare/Medicaid, Natural Resources, Pharmacy, Railroads, Retirement, Science/Technology, Small Business, Tariff (miscellaneous tariff bills), Taxation/Internal Revenue Code, Telecommunications, Torts, Trade (domestic/foreign), Transportation, Trucking/Shipping, Unemployment, Urban Development/Municipalities, Utilities, Veterans, Waste (hazardous/solid/interstate/nuclear), Welfare
 
-**Lobbying firms:** ACG ADVOCACY, ALSTON & BIRD LLP, ASSOCIATION OF CALIFORNIA WATER AGENCIES, BGR GOVERNMENT AFFAIRS, BLUE SHIELD OF CALIFORNIA, BRYANT CHRISTIE INC., CALIFORNIA AND NEVADA CREDIT UNION LEAGUES, CALIFORNIA ASSOCIATION OF REALTORS, CALIFORNIA CHILDREN'S HOSPITAL ASSOCIATION, CALIFORNIA FORESTRY ASSOCIATION, CALIFORNIA HOSPITAL ASSOCIATION, CALIFORNIA LIFE SCIENCES, CALIFORNIA MEDICAL ASSOCIATION INC., CALIFORNIA STATE UNIVERSITY, CAPITOL CORE GROUP, INC., CARPI & CLAY, INC, CONNECTOR INC., CORNERSTONE GOVERNMENT AFFAIRS, INC., COZEN O'CONNOR PUBLIC STRATEGIES, DENTONS US LLP, DOWNS GOVERNMENT AFFAIRS, DUTKO WORLDWIDE, LLC, EHRLICH & ASSOCIATES, ENS RESOURCES, INC., FONTENOT HEALTH POLICY LLC, FORBES-TATE, GOVERNMENT COUNSEL, LLC, HALEY & ASSOCIATES, HARO SOLUTIONS LLC, HOLLAND & KNIGHT LLP, IMPACT HEALTH POLICY PARTNERS, KANNER & ASSOCIATES, LLC, KING & SPALDING LLP, MARK VARGAS, MCALLISTER & QUINN, LLC, METROPOLITAN WATER DISTRICT OF SOUTHERN CALIFORNIA, MG HOUSING STRATEGIES LLC, MO STRATEGIES, INC., NATIONAL GROUP, LLP, NORTHERN CALIFORNIA POWER AGENCY, OLSSON, FRANK, WEEDA, TERMAN & MATZ, PC, ORSO GROUP, PACIFIC ATLANTIC PARTNERS, PAUL V. BEDDOE GOVERNMENT AFFAIRS, LLC, POTOMAC PARTNERS DC, POWERS PYLES SUTTER & VERVILLE, P.C., RBW GROUP, LLC, ROBERTSON, MONAGLE, & EASTAUGH LLC (FKA ROBERTSON, MONAGLE & EASTAUGH PC), SOUTHERN CALIFORNIA PUBLIC RADIO, TELEGRAPH AVENUE ADVISORS, TROUTMAN STATEGIES, TRUMAN KEITH JONES, UNIVERSITY OF CALIFORNIA, UNIVERSITY OF CALIFORNIA STUDENT ASSOCIATION
+**Lobbying firms:** ACG ADVOCACY, ALSTON & BIRD LLP, ASSOCIATION OF CALIFORNIA WATER AGENCIES, BGR GOVERNMENT AFFAIRS, BLUE SHIELD OF CALIFORNIA, BRYANT CHRISTIE INC., CALIFORNIA AND NEVADA CREDIT UNION LEAGUES, CALIFORNIA ASSOCIATION OF REALTORS, CALIFORNIA CHILDREN'S HOSPITAL ASSOCIATION, CALIFORNIA FORESTRY ASSOCIATION, CALIFORNIA HOSPITAL ASSOCIATION, CALIFORNIA LIFE SCIENCES, CALIFORNIA MEDICAL ASSOCIATION INC., CALIFORNIA STATE UNIVERSITY, CAPITOL CORE GROUP, INC., CARPI & CLAY, INC, CONNECTOR INC., CORNERSTONE GOVERNMENT AFFAIRS, INC., COZEN O'CONNOR PUBLIC STRATEGIES, DENTONS US LLP, DOWNS GOVERNMENT AFFAIRS, DUTKO WORLDWIDE, LLC, EHRLICH & ASSOCIATES, ENS RESOURCES, INC., FONTENOT HEALTH POLICY LLC, FORBES-TATE, GOVERNMENT COUNSEL, LLC, HALEY & ASSOCIATES, HARO SOLUTIONS LLC, HOLLAND & KNIGHT LLP, IMPACT HEALTH POLICY PARTNERS, KANNER & ASSOCIATES, LLC, KING & SPALDING LLP, MARK VARGAS, MCALLISTER & QUINN, LLC, MERCHANT MCINTYRE & ASSOCIATES, LLC, METROPOLITAN WATER DISTRICT OF SOUTHERN CALIFORNIA, MG HOUSING STRATEGIES LLC, MO STRATEGIES, INC., NATIONAL GROUP, LLP, NORTHERN CALIFORNIA POWER AGENCY, OLSSON, FRANK, WEEDA, TERMAN & MATZ, PC, ORSO GROUP, PACIFIC ATLANTIC PARTNERS, PAUL V. BEDDOE GOVERNMENT AFFAIRS, LLC, POTOMAC PARTNERS DC, POWERS PYLES SUTTER & VERVILLE, P.C., RBW GROUP, LLC, ROBERTSON, MONAGLE, & EASTAUGH LLC (FKA ROBERTSON, MONAGLE & EASTAUGH PC), SOUTHERN CALIFORNIA PUBLIC RADIO, TELEGRAPH AVENUE ADVISORS, THE MCKEON GROUP, INC., TROUTMAN STATEGIES, TRUMAN KEITH JONES, UNIVERSITY OF CALIFORNIA, UNIVERSITY OF CALIFORNIA STUDENT ASSOCIATION
 
 **Agencies contacted:** AMTRAK - Natl Railroad Passenger Corporation, Administration for Children & Families (ACF), Agriculture, Dept of (USDA), Army, Dept of (Corps of Engineers), Bureau of Reclamation, Centers For Disease Control & Prevention (CDC), Centers For Medicare and Medicaid Services (CMS), Commerce, Dept of (DOC), Consumer Financial Protection Bureau (CFPB), Council on Environmental Quality (CEQ) +49 more
 

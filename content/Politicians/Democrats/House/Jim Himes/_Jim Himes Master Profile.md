@@ -239,7 +239,7 @@ The district-donor-committee triangle is nearly perfect. Fairfield County is the
 
 **Sources**
 
-- ~~[Congress.gov: Jim Himes](https://www.congress.gov/member/e000179)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [Congress.gov: Jim Himes](https://www.congress.gov/member/e000179) (Tier 1)
 - [GovTrack: Jim Himes](https://www.govtrack.us/congress/members/412282) (Tier 1)
 
 <!-- auto:voting-record pending-merge end -->

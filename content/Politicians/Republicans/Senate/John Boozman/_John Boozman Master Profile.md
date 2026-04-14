@@ -4,7 +4,7 @@ type: politician
 bioguide-id: "B001236"
 content-readiness: ready
 central-thesis: "John Boozman chairs the Senate Agriculture Committee while representing the state that houses Tyson Foods' headquarters. Tyson employees have donated over content-readiness: ready20,000 to his campaigns , his third-largest career donor source. His committee staff has m..."
-last-updated: 2026-04-13
+last-updated: 2026-04-14
 source-tier: 1
 parent: null
 party: "Republican"
@@ -183,6 +183,34 @@ The northwest Arkansas connection locks the donor map into place. Boozman's form
 
 - ~~[Source: Senate Stock Watcher](https://senatestockwatcher.com/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:stock-trades end -->
+
+<!-- auto:stock-trades pending-merge 2026-04-14 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+| Metric | Value |
+|--------|-------|
+| Total Trades | 43 |
+| Purchases | 0 |
+| Sales | 0 |
+| Est. Value Range | $0 |
+
+**Recent notable trades:**
+
+| Date | Ticker | Type | Amount | Owner |
+|------|--------|------|--------|-------|
+| 12/20/2019 | N/A | other | Unknown | N/A |
+| 12/12/2018 | N/A | other | Unknown | N/A |
+| 12/12/2017 | N/A | other | Unknown | N/A |
+| 11/26/2018 | N/A | other | Unknown | N/A |
+| 11/17/2016 | N/A | other | Unknown | N/A |
+| 11/07/2017 | N/A | other | Unknown | N/A |
+| 10/28/2016 | N/A | other | Unknown | N/A |
+| 10/18/2017 | N/A | other | Unknown | N/A |
+
+- [Source: Senate Stock Watcher](https://senatestockwatcher.com/) (Tier 1)
+
+<!-- auto:stock-trades pending-merge end -->
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->

@@ -3,7 +3,7 @@ title: "Chris Coons"
 type: politician
 content-readiness: ready
 central-thesis: "Coons is Big Pharma's man in the Senate , Jacobin's phrase, but the evidence is structural. Delaware is home to DuPont, AstraZeneca, and the corporate incorporation industry that shelters more than 1.8 million business entities. Coons's committee ..."
-last-updated: 2026-04-13
+last-updated: 2026-04-14
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -203,6 +203,36 @@ party:: Democrat
 
 - ~~[Source: Senate Stock Watcher](https://senatestockwatcher.com/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:stock-trades end -->
+
+<!-- auto:stock-trades pending-merge 2026-04-14 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+| Metric | Value |
+|--------|-------|
+| Total Trades | 24 |
+| Purchases | 2 |
+| Sales | 21 |
+| Est. Value Range | $2,310,023 – $4,950,000 |
+
+**Top tickers traded:** NFLX, AAPL, MSFT
+
+**Recent notable trades:**
+
+| Date | Ticker | Type | Amount | Owner |
+|------|--------|------|--------|-------|
+| 12/27/2018 | -- | Sale | $100,001 - $250,000 | Spouse |
+| 12/27/2018 | -- | Sale | $100,001 - $250,000 | Spouse |
+| 11/05/2018 | AAPL | Sale | $1,001 - $15,000 | Child |
+| 10/24/2018 | NFLX | Sale | $1,001 - $15,000 | Child |
+| 10/24/2018 | AAPL | Purchase | $1,001 - $15,000 | Child |
+| 09/12/2017 | -- | Sale | $250,001 - $500,000 | Self |
+| 08/23/2018 | NFLX | Purchase | $1,001 - $15,000 | Child |
+| 07/31/2020 | -- | Sale | $50,001 - $100,000 | Child |
+
+- [Source: Senate Stock Watcher](https://senatestockwatcher.com/) (Tier 1)
+
+<!-- auto:stock-trades pending-merge end -->
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->

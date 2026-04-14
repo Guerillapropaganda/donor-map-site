@@ -147,6 +147,34 @@ Specific FPPC filings for Lennar contributions to California state politicians 2
 - [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1) (VERIFIED)
 <!-- auto:ofac-sdn end -->
 
+<!-- auto:ofac-sdn pending-merge 2026-04-14 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+| Metric | Value |
+|--------|-------|
+| SDN List Status | **Match found** |
+| Match Quality | Fuzzy match (token overlap) |
+| SDN Records Matched | 33 |
+| Sanctions Programs | PAARSSR-EO13894, SDGT, GLOMAG, TCO, IRAN] [IRAN-EO13876, SDNTK, UKRAINE-EO13662] [RUSSIA-EO14024, SDGT] [IFSR, IRAN, RUSSIA-EO14024, IRAN-EO13846, DPRK2, ILLICIT-DRUGS-EO14059 |
+| Entity Types | -0- |
+
+**Matched SDN entries:**
+- AL-AMER DEVELOPMENT AND REAL ESTATE INVESTMENT (-0-) [PAARSSR-EO13894]
+  - Remarks: Organization Established Date 19 Dec 2019; Organization Type: Real estate activities with own or leased property; Registration Number 19096 (Syria); a.k.a. 'AL-AMER DEVELOPMENT'; Linked To: KHITI, Ame...
+- AL ROWAD REAL ESTATE DEVELOPMENT (-0-) [SDGT]
+  - Remarks: Secondary sanctions risk: section 1(b) of Executive Order 13224, as amended by Executive Order 13886; Organization Established Date 2010; Organization Type: Construction of buildings; alt. Organizatio...
+- PYRAMAXIA REAL ESTATE DEVELOPMENT GMBH & CO. KG (-0-) [GLOMAG]
+  - Remarks: Organization Established Date 16 Sep 2020; Registration Number HRA 737095 (Stuttgart) (Germany); Linked To: RAHMANI, Ajmal.
+- RG REAL ESTATE DEVELOPMENT GMBH & CO. KG (-0-) [GLOMAG]
+  - Remarks: Organization Established Date 16 Sep 2020; Registration Number HRA 737089 (Stuttgart) (Germany); Linked To: RAHMANI, Ajmal.
+- OZEAN DEVELOPMENT REAL ESTATE GMBH & CO. KG (-0-) [GLOMAG]
+  - Remarks: Organization Established Date 23 Dec 2019; Registration Number HRA 736334 (Stuttgart) (Germany); Linked To: OCEAN PROPERTIES GMBH.
+
+- [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1)
+
+<!-- auto:ofac-sdn pending-merge end -->
+
 ### Vehicle Safety (NHTSA)
 <!-- auto:nhtsa-recalls start -->
 | Metric | Value |

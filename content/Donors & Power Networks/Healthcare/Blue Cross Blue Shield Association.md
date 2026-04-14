@@ -263,6 +263,34 @@ The public option was included in the original House ACA bill (2009) but strippe
 - [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1) (VERIFIED)
 <!-- auto:ofac-sdn end -->
 
+<!-- auto:ofac-sdn pending-merge 2026-04-14 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+| Metric | Value |
+|--------|-------|
+| SDN List Status | **Match found** |
+| Match Quality | Fuzzy match (token overlap) |
+| SDN Records Matched | 17 |
+| Sanctions Programs | SDNTK, IRAN, SDGT, SDGT] [IFSR, BELARUS-EO14038, GLOMAG, IRAN-EO13846, NPWMD] [IFSR, IRAN-EO13902, SDGT] [ILLICIT-DRUGS-EO14059 |
+| Entity Types | -0-, vessel |
+
+**Matched SDN entries:**
+- BLUE-STAR SECCION HOSTELERIA S.L. (-0-) [SDNTK]
+  - Remarks: C.I.F. B84214477 (Spain).
+- BLUE TANKER SHIPPING SA (-0-) [IRAN]
+  - Remarks: Additional Sanctions Information - Subject to Secondary Sanctions.
+- BLUE SKY AVIATION CO FZE (-0-) [SDGT]
+  - Remarks: Secondary sanctions risk: section 1(b) of Executive Order 13224, as amended by Executive Order 13886.
+- SKY BLUE BIRD AVIATION (-0-) [SDGT] [IFSR]
+  - Remarks: Additional Sanctions Information - Subject to Secondary Sanctions; Secondary sanctions risk: section 1(b) of Executive Order 13224, as amended by Executive Order 13886; Linked To: MAHAN AIR.
+- BLUE LAGOON GROUP LTD. (-0-) [SDGT]
+  - Remarks: Additional Sanctions Information - Subject to Secondary Sanctions Pursuant to the Hizballah Financial Sanctions Regulations; Secondary sanctions risk: section 1(b) of Executive Order 13224, as amended...
+
+- [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1)
+
+<!-- auto:ofac-sdn pending-merge end -->
+
 ### Vehicle Safety (NHTSA)
 <!-- auto:nhtsa-recalls start -->
 | Metric | Value |

@@ -480,6 +480,22 @@ _Variant firm names in FDA data: Tyson Foods Discovery Center; Tyson Foods, inc.
 - ~~[Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=10_2020_prefixes_47-52%2F476014039_201912_990PR_2020102017391100.pdf)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:propublica-990 end -->
 
+<!-- auto:propublica-990 pending-merge 2026-04-14 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+| Metric | Amount |
+|--------|--------|
+| Total Revenue | $1 |
+| Total Contributions | $0 |
+| Total Expenses | $0 |
+| Net Assets | $322K |
+
+- [Source: ProPublica Nonprofit Explorer — EIN 476014039](https://projects.propublica.org/nonprofits/organizations/476014039) (Tier 1)
+- [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=10_2020_prefixes_47-52%2F476014039_201912_990PR_2020102017391100.pdf) (Tier 1)
+
+<!-- auto:propublica-990 pending-merge end -->
+
 ### Wikipedia
 <!-- auto:wikipedia start -->
 Tyson Foods, Inc. is an American multinational corporation based in Springdale, Arkansas that operates in the food industry.
@@ -512,6 +528,24 @@ Tyson Foods, Inc. is an American multinational corporation based in Springdale, 
 - [Source: GLEIF](https://www.gleif.org/) (Tier 1) (NEEDS REVIEW)
 <!-- auto:gleif-lei end -->
 
+<!-- auto:gleif-lei pending-merge 2026-04-14 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+| Field | Value |
+|-------|-------|
+| LEI | [WD6L6041MNRW1JE49D58](https://search.gleif.org/#/record/WD6L6041MNRW1JE49D58) |
+| Legal Name | TYSON FOODS, INC. |
+| Jurisdiction | US-DE |
+| Entity Status | ACTIVE |
+| Category | GENERAL |
+| Registration | ISSUED |
+| Last Updated | 2025-10-06T11:59:32Z |
+
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+
+<!-- auto:gleif-lei pending-merge end -->
+
 ### Lobbying Activity
 <!-- auto:lda-lobbying start -->
 | Metric | Value |
@@ -530,3 +564,25 @@ Tyson Foods, Inc. is an American multinational corporation based in Springdale, 
 
 - [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Tyson%20Foods) (Tier 1) (VERIFIED)
 <!-- auto:lda-lobbying end -->
+
+<!-- auto:lda-lobbying pending-merge 2026-04-14 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+| Metric | Value |
+|--------|-------|
+| Total Lobbying Spend | $5.0M |
+| Quarterly Filings | 30 |
+| Year Range | 2024-2025 |
+| Lobbying Firms | 4 |
+| Individual Lobbyists | 0 |
+
+**Issues lobbied:** Agriculture, Animals, Budget/Appropriations, Energy/Nuclear, Environment/Superfund, Food Industry (safety, labeling, etc.), Foreign Relations, Government Issues, Health Issues, Homeland Security, Immigration, Labor Issues/Antitrust/Workplace, Tariff (miscellaneous tariff bills), Taxation/Internal Revenue Code, Torts, Trade (domestic/foreign), Transportation
+
+**Lobbying firms:** BROWNSTEIN HYATT FARBER SCHRECK, LLP, FORBES-TATE, MINDSET ADVOCACY, LLC, TYSON FOODS, INC
+
+**Agencies contacted:** Agriculture, Dept of (USDA), Commerce, Dept of (DOC), Environmental Protection Agency (EPA), Executive Office of the President (EOP), Federal Trade Commission (FTC), Food & Drug Administration (FDA), HOUSE OF REPRESENTATIVES, Health & Human Services, Dept of (HHS), Homeland Security, Dept of (DHS), Justice, Dept of (DOJ) +7 more
+
+- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Tyson%20Foods) (Tier 1)
+
+<!-- auto:lda-lobbying pending-merge end -->

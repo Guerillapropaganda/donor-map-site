@@ -3,7 +3,7 @@ title: "John Kennedy"
 type: politician
 content-readiness: ready
 central-thesis: "Kennedy's folksy populist brand disguises a conventional Louisiana energy-state voting record and a Banking Committee position that serves Wall Street's deregulatory agenda. His committee hearing performances , sharp questioning, memorable soundbi..."
-last-updated: 2026-04-13
+last-updated: 2026-04-14
 source-tier: 1
 parent: null
 party: "Republican"
@@ -230,6 +230,31 @@ Kennedy's class position is the populist brand as capital shield. The folksy per
 - ~~[Source: Senate Stock Watcher](https://senatestockwatcher.com/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:stock-trades end -->
 
+<!-- auto:stock-trades pending-merge 2026-04-14 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+| Metric | Value |
+|--------|-------|
+| Total Trades | 2 |
+| Purchases | 1 |
+| Sales | 0 |
+| Exchanges | 1 |
+| Est. Value Range | $2,002 – $30,000 |
+
+**Top tickers traded:** MTUM
+
+**Recent notable trades:**
+
+| Date | Ticker | Type | Amount | Owner |
+|------|--------|------|--------|-------|
+| 10/11/2018 | MTUM | Purchase | $1,001 - $15,000 | Self |
+| 10/09/2018 | -- | exchange | $1,001 - $15,000 | Self |
+
+- [Source: Senate Stock Watcher](https://senatestockwatcher.com/) (Tier 1)
+
+<!-- auto:stock-trades pending-merge end -->
+
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->
 | Metric | Value |
@@ -257,6 +282,27 @@ Kennedy's class position is the populist brand as capital shield. The folksy per
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-13.*
 <!-- auto:influence-cross-ref end -->
+
+<!-- auto:influence-cross-ref pending-merge 2026-04-14 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+| Metric | Value |
+|--------|-------|
+| Donors Who Also Lobby | 1 of 1 |
+| Committee Overlap Detected | 1 donor |
+
+**Donate → Lobby → Committee chains:**
+
+- **ConocoPhillips** donates → Lobbies on **Financial Institutions/Investments/Securities** → This member sits on **Banking**
+
+**Donors who lobby (by spend):**
+
+- [[ConocoPhillips]] — $17.9M lobbying spend (Clean Air and Water (quality), Energy/Nuclear, Environment/Superfund)
+
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-14.*
+
+<!-- auto:influence-cross-ref pending-merge end -->
 
 ## Voting Record
 <!-- auto:voting-record start -->

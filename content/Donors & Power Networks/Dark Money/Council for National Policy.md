@@ -91,6 +91,24 @@ Conservative judicial appointments (the Federalist Society pipeline feeds direct
 
 <!-- auto:propublica-990 end -->
 
+<!-- auto:propublica-990 pending-merge 2026-04-14 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+| Metric | Amount |
+|--------|--------|
+| Total Revenue | $3.8M |
+| Total Contributions | $2.5M |
+| Program Service Revenue | $1.2M |
+| Investment Income | $63K |
+| Total Expenses | $3.8M |
+| Net Assets | $3.5M |
+| Officer Compensation | $612K |
+
+- [Source: ProPublica Nonprofit Explorer — EIN 720921017](https://projects.propublica.org/nonprofits/organizations/720921017) (Tier 1)
+
+<!-- auto:propublica-990 pending-merge end -->
+
 ### Sources
 
 - ~~[IRS: CNP 990 filings](https://apps.irs.gov/app/eos/allSearch?searchChoice=ePostcard&ein=&names=Council%20for%20National%20Policy&city=&state=All+States&country=US)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)

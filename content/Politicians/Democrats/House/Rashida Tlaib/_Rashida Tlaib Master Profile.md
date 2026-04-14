@@ -317,7 +317,7 @@ The structural trap is visible: Tlaib's small-dollar model proves the alternativ
 
 **Sources**
 
-- ~~[Congress.gov: Rashida Tlaib](https://www.congress.gov/member/e000179)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [Congress.gov: Rashida Tlaib](https://www.congress.gov/member/e000179) (Tier 1)
 - [GovTrack: Rashida Tlaib](https://www.govtrack.us/congress/members/412787) (Tier 1)
 
 <!-- auto:voting-record pending-merge end -->

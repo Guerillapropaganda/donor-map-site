@@ -272,6 +272,36 @@ The pharmaceutical dimension completes the picture. Murray chaired the HELP Comm
 - ~~[Source: Senate Stock Watcher](https://senatestockwatcher.com/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:stock-trades end -->
 
+<!-- auto:stock-trades pending-merge 2026-04-14 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+| Metric | Value |
+|--------|-------|
+| Total Trades | 161 |
+| Purchases | 78 |
+| Sales | 83 |
+| Est. Value Range | $161,161 – $2,415,000 |
+
+**Top tickers traded:** WMB, WRK, WFC, WBA, WMT, VZ, UTX, UPS
+
+**Recent notable trades:**
+
+| Date | Ticker | Type | Amount | Owner |
+|------|--------|------|--------|-------|
+| 06/15/2017 | WMB | Sale | $1,001 - $15,000 | Spouse |
+| 06/15/2017 | WRK | Sale | $1,001 - $15,000 | Spouse |
+| 06/15/2017 | WFC | Sale | $1,001 - $15,000 | Spouse |
+| 06/15/2017 | WBA | Sale | $1,001 - $15,000 | Spouse |
+| 06/15/2017 | WMT | Sale | $1,001 - $15,000 | Spouse |
+| 06/15/2017 | VZ | Sale | $1,001 - $15,000 | Spouse |
+| 06/15/2017 | VTR | Sale | $1,001 - $15,000 | Spouse |
+| 06/15/2017 | UTX | Sale | $1,001 - $15,000 | Spouse |
+
+- [Source: Senate Stock Watcher](https://senatestockwatcher.com/) (Tier 1)
+
+<!-- auto:stock-trades pending-merge end -->
+
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->
 | Metric | Value |

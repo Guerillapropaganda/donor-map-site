@@ -8,7 +8,7 @@ central-thesis: >-
   funded by the same sugar PACs and Israel lobby money that funds the Republican
   Cuba hawks. Her presence in the sugar-defense-Israel coalition proves that the
   embargo , and ...
-last-updated: '2026-04-14'
+last-updated: 2026-04-14
 source-tier: 1
 parent: null
 party: Democrat
@@ -21,9 +21,9 @@ issues:
 top-donors:
   - Fanjul Family - Florida Crystals
   - AIPAC
-total-received: '$1,785,365'
-fec-candidate-id: H4FL20023
-last-enriched: '2026-04-13'
+total-received: "$1,785,365"
+fec-candidate-id: "H4FL20023"
+last-enriched: "2026-04-14"
 needs-reenrichment: true
 reenrich-reason: run voting pipeline; run congress pipeline
 donors: '[[UNITE HERE]] · [[Bacardi - Bacardi USA]]'
@@ -186,6 +186,44 @@ The DNC chairmanship (2011-2016) exposed the party-level version of the same don
 - [Source: FEC.gov](https://www.fec.gov/data/candidate/H4FL20023/) (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
+<!-- auto:fec-politician pending-merge 2026-04-14 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2026 |
+| Total Raised | $1,785,365 |
+| Individual Contributions | $1,322,746 |
+| PAC Contributions | $401,750 |
+| Cash on Hand | 1967326.77 |
+| IE Support (Super PAC) | $1,369,917 |
+| IE Opposition (Super PAC) | $250,658 |
+
+**Fundraising by cycle:**
+
+| Cycle | Total Raised | Individual | PAC |
+|-------|-------------|------------|-----|
+| 2026 | $1,785,365 | $1,322,746 | $401,750 |
+| 2024 | $2,896,300 | $1,938,134 | $795,500 |
+| 2022 | $2,087,129 | $1,220,446 | $672,050 |
+| 2020 | $2,204,638 | $1,273,036 | $656,648 |
+| 2018 | $2,233,842 | $1,192,955 | $579,781 |
+
+**Top outside spenders:**
+
+| Committee | Support | Oppose |
+|-----------|---------|--------|
+| PATRIOT MAJORITY PAC | $1,193,402 | $0 |
+| AMERICAN COLLEGE OF RADIOLOGY ASSOCIATION PAC | $145,772 | $0 |
+| AMERICA'S RENEWAL PAC, INC. | $0 | $133,000 |
+| CITIZENS AGAINST AIPAC CORRUPTION | $0 | $45,408 |
+| UNITED FOR COMMON SENSE | $0 | $44,250 |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H4FL20023/) (Tier 1)
+
+<!-- auto:fec-politician pending-merge end -->
+
 ### DOJ Press Releases
 <!-- auto:doj-press removed 2026-04-10 by Research Claude: was showing >10K DOJ mentions from the API index-size false-positive bug. Main engine fix d1ceb91 (2026-04-10) caps at 10K + validates 60% name match. Will repopulate correctly on next pipeline run. -->
 
@@ -195,3 +233,13 @@ The DNC chairmanship (2011-2016) exposed the party-level version of the same don
 
 - ~~[Congress.gov: Debbie Wasserman Schultz](https://www.congress.gov/member/e000179)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:voting-record end -->
+
+<!-- auto:voting-record pending-merge 2026-04-14 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+**Sources**
+
+- [Congress.gov: Debbie Wasserman Schultz](https://www.congress.gov/member/e000179) (Tier 1)
+
+<!-- auto:voting-record pending-merge end -->

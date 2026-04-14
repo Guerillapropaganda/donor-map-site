@@ -134,6 +134,36 @@ Bennet represents the education reform pipeline operating at scale. Billionaire 
 - ~~[Source: Senate Stock Watcher](https://senatestockwatcher.com/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:stock-trades end -->
 
+<!-- auto:stock-trades pending-merge 2026-04-14 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+| Metric | Value |
+|--------|-------|
+| Total Trades | 7 |
+| Purchases | 4 |
+| Sales | 2 |
+| Exchanges | 1 |
+| Est. Value Range | $1,501,007 – $3,115,000 |
+
+**Top tickers traded:** RGC, LVLT
+
+**Recent notable trades:**
+
+| Date | Ticker | Type | Amount | Owner |
+|------|--------|------|--------|-------|
+| 12/08/2017 | RGC | Sale | $500,001 - $1,000,000 | Self |
+| 11/01/2017 | LVLT | exchange | $50,001 - $100,000 | Self |
+| 08/27/2020 | -- | Purchase | $1,001 - $15,000 | Self |
+| 03/30/2020 | -- | Purchase | $100,001 - $250,000 | Self |
+| 03/28/2017 | RGC | Sale | $500,001 - $1,000,000 | Self |
+| 03/01/2019 | -- | Purchase | $100,001 - $250,000 | Self |
+| 01/25/2017 | -- | Purchase | $250,001 - $500,000 | Self |
+
+- [Source: Senate Stock Watcher](https://senatestockwatcher.com/) (Tier 1)
+
+<!-- auto:stock-trades pending-merge end -->
+
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->
 | Metric | Value |

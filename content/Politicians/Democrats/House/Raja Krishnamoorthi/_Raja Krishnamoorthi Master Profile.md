@@ -278,7 +278,7 @@ Krishnamoorthi's $29 million Senate campaign, the most expensive in the Illinois
 
 **Sources**
 
-- ~~[Congress.gov: Raja Krishnamoorthi](https://www.congress.gov/member/e000179)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [Congress.gov: Raja Krishnamoorthi](https://www.congress.gov/member/e000179) (Tier 1)
 - [GovTrack: Raja Krishnamoorthi](https://www.govtrack.us/congress/members/412701) (Tier 1)
 
 <!-- auto:voting-record pending-merge end -->

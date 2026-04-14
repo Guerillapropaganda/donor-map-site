@@ -184,6 +184,30 @@ The NRSC's recent history includes the most damaging internal party conflict of 
 - [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1) (VERIFIED)
 <!-- auto:ofac-sdn end -->
 
+<!-- auto:ofac-sdn pending-merge 2026-04-14 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+| Metric | Value |
+|--------|-------|
+| SDN List Status | **Match found** |
+| Match Quality | Fuzzy match (token overlap) |
+| SDN Records Matched | 3 |
+| Sanctions Programs | BALKANS, BELARUS, GLOMAG |
+| Entity Types | -0- |
+
+**Matched SDN entries:**
+- NATIONAL COMMITTEE FOR THE LIBERATION AND PROTECTION OF ALBANIAN LANDS (-0-) [BALKANS]
+  - Remarks: -0-
+- NATIONAL OLYMPIC COMMITTEE OF THE REPUBLIC OF BELARUS (-0-) [BELARUS]
+  - Remarks: Organization Established Date 01 Jul 1991; Registration Number 100265118 (Belarus).
+- HOUTHI NATIONAL COMMITTEE FOR PRISONERS AFFAIRS (-0-) [GLOMAG]
+  - Remarks: a.k.a. 'NCPA'.
+
+- [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1)
+
+<!-- auto:ofac-sdn pending-merge end -->
+
 ### Federal Court Records (CourtListener)
 <!-- auto:courtlistener-cases start -->
 | Metric | Value |

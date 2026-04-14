@@ -107,6 +107,26 @@ TMTG's political significance is structural: the company gives Trump personal fi
 - [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1) (VERIFIED)
 <!-- auto:ofac-sdn end -->
 
+<!-- auto:ofac-sdn pending-merge 2026-04-14 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+| Metric | Value |
+|--------|-------|
+| SDN List Status | **Match found** |
+| Match Quality | Fuzzy match (token overlap) |
+| SDN Records Matched | 1 |
+| Sanctions Programs | CAATSA - RUSSIA] [CYBER4 |
+| Entity Types | -0- |
+
+**Matched SDN entries:**
+- MEDIA LAND TECHNOLOGY LIMITED LIABILITY COMPANY (-0-) [CAATSA - RUSSIA] [CYBER4]
+  - Remarks: Secondary sanctions risk: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201; Organization Established Date 14 Sep 2022; Tax ID No. 4727007790 (Russia); Registration Number 1224700016089 (R...
+
+- [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1)
+
+<!-- auto:ofac-sdn pending-merge end -->
+
 ### DOJ Press Releases
 <!-- auto:doj-press removed 2026-04-10 by Research Claude: was showing >10K DOJ mentions from the API index-size false-positive bug. Main engine fix d1ceb91 (2026-04-10) caps at 10K + validates 60% name match. Will repopulate correctly on next pipeline run. -->
 

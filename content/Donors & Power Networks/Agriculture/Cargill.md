@@ -550,6 +550,24 @@ Cargill, Incorporated is an American multinational food corporation based in Min
 - [Source: GLEIF](https://www.gleif.org/) (Tier 1) (NEEDS REVIEW)
 <!-- auto:gleif-lei end -->
 
+<!-- auto:gleif-lei pending-merge 2026-04-14 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+| Field | Value |
+|-------|-------|
+| LEI | [549300B5ALGB4HZFWU97](https://search.gleif.org/#/record/549300B5ALGB4HZFWU97) |
+| Legal Name | CARGILL BIOINDUSTRIAL |
+| Jurisdiction | NL |
+| Entity Status | ACTIVE |
+| Category | GENERAL |
+| Registration | ISSUED |
+| Last Updated | 2025-04-15T15:17:13Z |
+
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+
+<!-- auto:gleif-lei pending-merge end -->
+
 ### Federal Register Activity
 <!-- auto:federal-register start -->
 | Metric | Value |
@@ -590,3 +608,25 @@ Cargill, Incorporated is an American multinational food corporation based in Min
 
 - [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Cargill) (Tier 1) (VERIFIED)
 <!-- auto:lda-lobbying end -->
+
+<!-- auto:lda-lobbying pending-merge 2026-04-14 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+| Metric | Value |
+|--------|-------|
+| Total Lobbying Spend | $4.9M |
+| Quarterly Filings | 50 |
+| Year Range | 2024-2026 |
+| Lobbying Firms | 7 |
+| Individual Lobbyists | 0 |
+
+**Issues lobbied:** Agriculture, Civil Rights/Civil Liberties, Economics/Economic Development, Energy/Nuclear, Environment/Superfund, Food Industry (safety, labeling, etc.), Foreign Relations, Government Issues, Health Issues, Immigration, Labor Issues/Antitrust/Workplace, Science/Technology, Taxation/Internal Revenue Code, Trade (domestic/foreign), Transportation, Utilities
+
+**Lobbying firms:** AKIN GUMP STRAUSS HAUER & FELD, CARGILL, INC., FEDERAL STREET STRATEGIES, LLC, FORETHOUGHT ADVISORS, LLC, GLOBAL BUSINESS POLICY-DC, HARBINGER STRATEGIES, LLC, THE RUSSELL GROUP, INC.
+
+**Agencies contacted:** Agriculture, Dept of (USDA), Centers For Disease Control & Prevention (CDC), Commerce, Dept of (DOC), Defense, Dept of (DOD), Energy, Dept of, Environmental Protection Agency (EPA), Food & Drug Administration (FDA), HOUSE OF REPRESENTATIVES, Natl Security Council (NSC), SENATE +8 more
+
+- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Cargill) (Tier 1)
+
+<!-- auto:lda-lobbying pending-merge end -->

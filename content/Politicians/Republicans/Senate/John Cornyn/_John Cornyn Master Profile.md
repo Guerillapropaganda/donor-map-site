@@ -4,7 +4,7 @@ type: politician
 bioguide-id: "C001056"
 content-readiness: ready
 central-thesis: "John Cornyn is the Texas corporate establishment's Senate operator , a reliable legislative mechanic for oil and gas deregulation, defense spending, financial services preferences, and judicial confirmations who functions as the institutional coun..."
-last-updated: 2026-04-13
+last-updated: 2026-04-14
 source-tier: 1
 parent: null
 party: "Republican"
@@ -255,7 +255,7 @@ The gun bill is the exception that proves the rule. The Bipartisan Safer Communi
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-09.*
 <!-- auto:influence-cross-ref end -->
 
-<!-- auto:influence-cross-ref pending-merge 2026-04-13 -->
+<!-- auto:influence-cross-ref pending-merge 2026-04-14 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 
@@ -281,7 +281,7 @@ The gun bill is the exception that proves the rule. The Bipartisan Safer Communi
 - [[Koch Network - Charles Koch]] — $21.3M lobbying spend (Agriculture, Banking, Bankruptcy)
 - [[US Chamber of Commerce]] — $790K lobbying spend (Aerospace, Agriculture, Alcohol and Drug Abuse)
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-13.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-14.*
 
 <!-- auto:influence-cross-ref pending-merge end -->
 
@@ -305,6 +305,30 @@ The gun bill is the exception that proves the rule. The Bipartisan Safer Communi
 
 - ~~[Source: Senate Stock Watcher](https://senatestockwatcher.com/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:stock-trades end -->
+
+<!-- auto:stock-trades pending-merge 2026-04-14 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+| Metric | Value |
+|--------|-------|
+| Total Trades | 2 |
+| Purchases | 1 |
+| Sales | 1 |
+| Est. Value Range | $30,002 – $100,000 |
+
+**Top tickers traded:** AAPL
+
+**Recent notable trades:**
+
+| Date | Ticker | Type | Amount | Owner |
+|------|--------|------|--------|-------|
+| 08/21/2015 | AAPL | Purchase | $15,001 - $50,000 | Self |
+| 02/01/2017 | AAPL | Sale | $15,001 - $50,000 | Self |
+
+- [Source: Senate Stock Watcher](https://senatestockwatcher.com/) (Tier 1)
+
+<!-- auto:stock-trades pending-merge end -->
 
 ### DOJ Press Releases
 <!-- auto:doj-press removed 2026-04-10 by Research Claude: was showing >10K DOJ mentions from the API index-size false-positive bug. Main engine fix d1ceb91 (2026-04-10) caps at 10K + validates 60% name match. Will repopulate correctly on next pipeline run. -->

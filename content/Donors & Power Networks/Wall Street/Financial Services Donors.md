@@ -69,6 +69,34 @@ The financial services industry is the ultimate bipartisan donor: both parties' 
 - [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1) (VERIFIED)
 <!-- auto:ofac-sdn end -->
 
+<!-- auto:ofac-sdn pending-merge 2026-04-14 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+| Metric | Value |
+|--------|-------|
+| SDN List Status | **Match found** |
+| Match Quality | Fuzzy match (token overlap) |
+| SDN Records Matched | 5 |
+| Sanctions Programs | UKRAINE-EO13662] [RUSSIA-EO14024, GLOMAG, SDGT] [IFSR, RUSSIA-EO14024 |
+| Entity Types | -0- |
+
+**Matched SDN entries:**
+- GPB FINANCIAL SERVICES LIMITED (-0-) [UKRAINE-EO13662] [RUSSIA-EO14024]
+  - Remarks: Website www.gpbfs.com.cy; Executive Order 13662 Directive Determination - Subject to Directive 1; Secondary sanctions risk: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209...
+- AFRICADA FINANCIAL SERVICES AND BUREAU DE CHANGE LTD (-0-) [GLOMAG]
+  - Remarks: Linked To: JAMMEH, Yahya.
+- DAY IRANIAN FINANCIAL AND ACCOUNTING SERVICES COMPANY (-0-) [SDGT] [IFSR]
+  - Remarks: Website http://fsday.ir; Additional Sanctions Information - Subject to Secondary Sanctions; Secondary sanctions risk: section 1(b) of Executive Order 13224, as amended by Executive Order 13886; Linked...
+- TADAWUL FINANCIAL SERVICES SAOC (-0-) [RUSSIA-EO14024]
+  - Remarks: Secondary sanctions risk: See Section 11 of Executive Order 14024.; Organization Established Date 11 Mar 2008; Registration Number 1041405 (Oman).
+- GPB FINANCIAL SERVICES HONG KONG LIMITED (-0-) [RUSSIA-EO14024]
+  - Remarks: Secondary sanctions risk: See Section 11 of Executive Order 14024.; Target Type Financial Institution; alt. Target Type State-Owned Enterprise; Company Number 2045244 (Hong Kong); Legal Entity Number ...
+
+- [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1)
+
+<!-- auto:ofac-sdn pending-merge end -->
+
 ### Lobbying Activity
 <!-- auto:lda-lobbying start -->
 | Metric | Value |

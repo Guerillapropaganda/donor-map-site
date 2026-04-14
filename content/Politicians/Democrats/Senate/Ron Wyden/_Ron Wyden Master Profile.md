@@ -228,6 +228,34 @@ On tax policy, he frames himself as the counterweight to Crapo, the progressive 
 - ~~[Source: Senate Stock Watcher](https://senatestockwatcher.com/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:stock-trades end -->
 
+<!-- auto:stock-trades pending-merge 2026-04-14 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+| Metric | Value |
+|--------|-------|
+| Total Trades | 10 |
+| Purchases | 10 |
+| Sales | 0 |
+| Est. Value Range | $375,010 – $900,000 |
+
+**Recent notable trades:**
+
+| Date | Ticker | Type | Amount | Owner |
+|------|--------|------|--------|-------|
+| 09/30/2013 | -- | Purchase | $15,001 - $50,000 | Spouse |
+| 09/30/2013 | -- | Purchase | $50,001 - $100,000 | Spouse |
+| 08/07/2013 | -- | Purchase | $100,001 - $250,000 | Spouse |
+| 01/03/2014 | -- | Purchase | $15,001 - $50,000 | Spouse |
+| 01/03/2014 | -- | Purchase | $50,001 - $100,000 | Spouse |
+| 01/03/2014 | -- | Purchase | $50,001 - $100,000 | Spouse |
+| 01/03/2014 | -- | Purchase | $50,001 - $100,000 | Spouse |
+| 01/03/2014 | -- | Purchase | $15,001 - $50,000 | Spouse |
+
+- [Source: Senate Stock Watcher](https://senatestockwatcher.com/) (Tier 1)
+
+<!-- auto:stock-trades pending-merge end -->
+
 ### DOJ Press Releases
 <!-- auto:doj-press removed 2026-04-10 by Research Claude: was showing >10K DOJ mentions from the API index-size false-positive bug. Main engine fix d1ceb91 (2026-04-10) caps at 10K + validates 60% name match. Will repopulate correctly on next pipeline run. -->
 

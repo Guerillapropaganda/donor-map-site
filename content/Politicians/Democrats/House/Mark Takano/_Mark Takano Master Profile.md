@@ -175,6 +175,16 @@ Takano's class position as a former teacher is not incidental. He spent 24 years
 - ~~[Congress.gov: Mark Takano](https://www.congress.gov/member/e000179)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:voting-record end -->
 
+<!-- auto:voting-record pending-merge 2026-04-14 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+**Sources**
+
+- [Congress.gov: Mark Takano](https://www.congress.gov/member/e000179) (Tier 1)
+
+<!-- auto:voting-record pending-merge end -->
+
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->
 | Metric | Value |

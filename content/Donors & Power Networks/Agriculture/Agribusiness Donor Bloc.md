@@ -117,3 +117,25 @@ The four pillars:
 
 - [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Agribusiness%20Donor%20Bloc) (Tier 1) (VERIFIED)
 <!-- auto:lda-lobbying end -->
+
+<!-- auto:lda-lobbying pending-merge 2026-04-14 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+| Metric | Value |
+|--------|-------|
+| Total Lobbying Spend | $480K |
+| Quarterly Filings | 17 |
+| Year Range | 2024-2025 |
+| Lobbying Firms | 2 |
+| Individual Lobbyists | 0 |
+
+**Issues lobbied:** Agriculture, Budget/Appropriations
+
+**Lobbying firms:** COMBEST, SELL & ASSOCIATES, LLC, THE PETERSON GROUP INC
+
+**Agencies contacted:** Agriculture, Dept of (USDA), HOUSE OF REPRESENTATIVES, SENATE
+
+- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Agribusiness%20Donor%20Bloc) (Tier 1)
+
+<!-- auto:lda-lobbying pending-merge end -->

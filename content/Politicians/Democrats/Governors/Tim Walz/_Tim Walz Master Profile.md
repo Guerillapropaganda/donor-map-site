@@ -188,6 +188,16 @@ Timothy James Walz is an American politician, former educator, and Army National
 - ~~[Congress.gov: Tim Walz](https://www.congress.gov/member/e000179)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:voting-record end -->
 
+<!-- auto:voting-record pending-merge 2026-04-14 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+**Sources**
+
+- [Congress.gov: Tim Walz](https://www.congress.gov/member/e000179) (Tier 1)
+
+<!-- auto:voting-record pending-merge end -->
+
 ### Campaign Finance Summary (FEC)
 <!-- auto:fec-summary start -->
 | Metric | Value |

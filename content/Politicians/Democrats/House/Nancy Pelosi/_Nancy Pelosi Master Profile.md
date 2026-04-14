@@ -369,3 +369,13 @@ Nancy Patricia Pelosi is an American politician who was the 52nd speaker of the 
 
 - ~~[Congress.gov: Nancy Pelosi](https://www.congress.gov/member/e000179)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:voting-record end -->
+
+<!-- auto:voting-record pending-merge 2026-04-14 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+**Sources**
+
+- [Congress.gov: Nancy Pelosi](https://www.congress.gov/member/e000179) (Tier 1)
+
+<!-- auto:voting-record pending-merge end -->

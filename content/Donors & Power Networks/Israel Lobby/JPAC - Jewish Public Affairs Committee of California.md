@@ -111,6 +111,32 @@ Israel, legislative advocacy, anti-protest legislation, ethnic studies, donor ne
 - [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1) (VERIFIED)
 <!-- auto:ofac-sdn end -->
 
+<!-- auto:ofac-sdn pending-merge 2026-04-14 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+| Metric | Value |
+|--------|-------|
+| SDN List Status | **Match found** |
+| Match Quality | Fuzzy match (token overlap) |
+| SDN Records Matched | 4 |
+| Sanctions Programs | BELARUS, GLOMAG |
+| Entity Types | -0- |
+
+**Matched SDN entries:**
+- MAIN INTERNAL AFFAIRS DIRECTORATE OF THE MINSK CITY EXECUTIVE COMMITTEE (-0-) [BELARUS]
+  - Remarks: Tax ID No. 100582346 (Belarus).
+- DIRECTORATE OF INTERNAL AFFAIRS OF THE BREST OBLAST EXECUTIVE COMMITTEE (-0-) [BELARUS]
+  - Remarks: Target Type Government Entity; Registration Number 200127206 (Belarus).
+- DEPARTMENT OF INTERNAL AFFAIRS OF THE GOMEL REGIONAL EXECUTIVE COMMITTEE (-0-) [BELARUS]
+  - Remarks: Target Type Government Entity.
+- HOUTHI NATIONAL COMMITTEE FOR PRISONERS AFFAIRS (-0-) [GLOMAG]
+  - Remarks: a.k.a. 'NCPA'.
+
+- [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1)
+
+<!-- auto:ofac-sdn pending-merge end -->
+
 ### Tax Filings (IRS 990)
 <!-- auto:nonprofit-990 start -->
 | Metric | Value |

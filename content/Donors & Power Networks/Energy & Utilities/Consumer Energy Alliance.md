@@ -117,6 +117,26 @@ The CEA reveals how fossil fuel industries use dark money astroturf organization
 - [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1) (VERIFIED)
 <!-- auto:ofac-sdn end -->
 
+<!-- auto:ofac-sdn pending-merge 2026-04-14 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+| Metric | Value |
+|--------|-------|
+| SDN List Status | **Match found** |
+| Match Quality | Fuzzy match (token overlap) |
+| SDN Records Matched | 1 |
+| Sanctions Programs | IRAN-EO13846 |
+| Entity Types | -0- |
+
+**Matched SDN entries:**
+- ALLIANCE ENERGY PVT. LIMITED (-0-) [IRAN-EO13846]
+  - Remarks: Website allianceenergy.pk/; Organization Established Date 19 Dec 2016; Registration Number 0104304 (Pakistan); a.k.a. 'ALLIANCE ENERGY CO.'; Linked To: PERSIAN GULF PETROCHEMICAL INDUSTRY COMMERCIAL C...
+
+- [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1)
+
+<!-- auto:ofac-sdn pending-merge end -->
+
 ### Federal Court Records (CourtListener)
 <!-- auto:courtlistener-cases start -->
 | Metric | Value |

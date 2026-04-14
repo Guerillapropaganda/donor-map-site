@@ -212,6 +212,36 @@ On foreign policy, Wicker positions as a reliable hawk, pro-Ukraine, pro-Taiwan,
 - ~~[Source: Senate Stock Watcher](https://senatestockwatcher.com/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:stock-trades end -->
 
+<!-- auto:stock-trades pending-merge 2026-04-14 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+| Metric | Value |
+|--------|-------|
+| Total Trades | 8 |
+| Purchases | 2 |
+| Sales | 6 |
+| Est. Value Range | $50,008 – $225,000 |
+
+**Top tickers traded:** GDV, BIF
+
+**Recent notable trades:**
+
+| Date | Ticker | Type | Amount | Owner |
+|------|--------|------|--------|-------|
+| 11/17/2014 | -- | Sale | $1,001 - $15,000 | Spouse |
+| 08/24/2018 | GDV | Sale | $1,001 - $15,000 | Spouse |
+| 05/17/2019 | BIF | Purchase | $1,001 - $15,000 | Spouse |
+| 05/17/2019 | GDV | Sale | $1,001 - $15,000 | Spouse |
+| 04/29/2014 | -- | Sale | $15,001 - $50,000 | Spouse |
+| 04/23/2018 | GDV | Purchase | $1,001 - $15,000 | Spouse |
+| 04/23/2018 | -- | Sale | $15,001 - $50,000 | Spouse |
+| 01/02/2014 | -- | Sale | $15,001 - $50,000 | Spouse |
+
+- [Source: Senate Stock Watcher](https://senatestockwatcher.com/) (Tier 1)
+
+<!-- auto:stock-trades pending-merge end -->
+
 ## Influence Network (Cross-Reference)
 <!-- auto:influence-cross-ref start -->
 | Metric | Value |

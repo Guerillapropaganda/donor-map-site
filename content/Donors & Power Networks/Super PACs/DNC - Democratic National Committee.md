@@ -11,6 +11,12 @@ aliases:
   - "DNC SERVICES CORPORATION/DEMOCRATIC NATIONAL COMMITTEE"
 known-gaps:
   - "Auto-created stub for relationship edge resolution. Full editorial content pending , needs Research Claude to fill in donors, politicians funded, ideology, and class analysis."
+ofac-sdn-match: "true"
+last-enriched: "2026-04-14"
+ofac-programs:
+  - "BALKANS"
+  - "BELARUS"
+  - "GLOMAG"
 ---
 
 ## Auto-Created Stub
@@ -28,3 +34,24 @@ pending from Research Claude.
 This profile absorbs the following FEC-format committee name(s):
 
 - `DNC SERVICES CORPORATION/DEMOCRATIC NATIONAL COMMITTEE`
+
+### OFAC Sanctions Screening
+<!-- auto:ofac-sdn start -->
+| Metric | Value |
+|--------|-------|
+| SDN List Status | **Match found** |
+| Match Quality | Fuzzy match (token overlap) |
+| SDN Records Matched | 3 |
+| Sanctions Programs | BALKANS, BELARUS, GLOMAG |
+| Entity Types | -0- |
+
+**Matched SDN entries:**
+- NATIONAL COMMITTEE FOR THE LIBERATION AND PROTECTION OF ALBANIAN LANDS (-0-) [BALKANS]
+  - Remarks: -0-
+- NATIONAL OLYMPIC COMMITTEE OF THE REPUBLIC OF BELARUS (-0-) [BELARUS]
+  - Remarks: Organization Established Date 01 Jul 1991; Registration Number 100265118 (Belarus).
+- HOUTHI NATIONAL COMMITTEE FOR PRISONERS AFFAIRS (-0-) [GLOMAG]
+  - Remarks: a.k.a. 'NCPA'.
+
+- [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1)
+<!-- auto:ofac-sdn end -->

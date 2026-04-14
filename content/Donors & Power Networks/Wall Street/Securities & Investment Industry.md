@@ -78,6 +78,32 @@ The industry's political priorities are bipartisan by design: carried interest t
 - [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1) (VERIFIED)
 <!-- auto:ofac-sdn end -->
 
+<!-- auto:ofac-sdn pending-merge 2026-04-14 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+| Metric | Value |
+|--------|-------|
+| SDN List Status | **Match found** |
+| Match Quality | Fuzzy match (token overlap) |
+| SDN Records Matched | 4 |
+| Sanctions Programs | IRAN, SDGT] [IFSR, SDGT |
+| Entity Types | -0- |
+
+**Matched SDN entries:**
+- OIL INDUSTRY INVESTMENT COMPANY (-0-) [IRAN]
+  - Remarks: Website http://www.oiic-ir.com; Additional Sanctions Information - Subject to Secondary Sanctions; a.k.a. 'O.I.I.C.'.
+- CEMENT INDUSTRY INVESTMENT AND DEVELOPMENT COMPANY (-0-) [SDGT] [IFSR]
+  - Remarks: Website www.cidco.ir; Additional Sanctions Information - Subject to Secondary Sanctions; Secondary sanctions risk: section 1(b) of Executive Order 13224, as amended by Executive Order 13886; Registrat...
+- GHADIR INVESTMENT AND INDUSTRY DEVELOPMENT (-0-) [IRAN]
+  - Remarks: Additional Sanctions Information - Subject to Secondary Sanctions; Linked To: GHADIR INVESTMENT COMPANY.
+- KAMARAN INDUSTRY AND INVESTMENT COMPANY (-0-) [SDGT]
+  - Remarks: Website www.kamaran.com; Secondary sanctions risk: section 1(b) of Executive Order 13224, as amended by Executive Order 13886; Organization Established Date 1963; Organization Type: Wholesale of food,...
+
+- [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1)
+
+<!-- auto:ofac-sdn pending-merge end -->
+
 ### SEC Filing Activity
 <!-- auto:sec-edgar start -->
 | Metric | Value |

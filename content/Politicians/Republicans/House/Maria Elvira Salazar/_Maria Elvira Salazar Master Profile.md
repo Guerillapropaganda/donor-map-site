@@ -3,7 +3,7 @@ title: "Maria Elvira Salazar"
 type: politician
 content-readiness: draft
 central-thesis: "Salazar is the public face of Miami's Cuba hawks in the House , the communicator who translates the Fanjul/exile donor agenda into populist, identity-driven rhetoric for the Cuban-American base. While Diaz-Balart wields Appropriations power and Ru..."
-last-updated: 2026-04-13
+last-updated: 2026-04-14
 needs-reenrichment: true
 reenrich-reason: "Bioguide recovered 2026-04-11 (was contaminated, now verified): S000168. Next pipeline run should populate Congress.gov + GovTrack auto-blocks with correct data."
 known-gaps:
@@ -17,7 +17,7 @@ district: "27"
 top-donors:
   - "AIPAC"
 ofac-sdn-match: "true"
-last-enriched: "2026-04-13"
+last-enriched: "2026-04-14"
 ofac-programs:
   - "SDNTK"
 total-received: "$922,124"
@@ -178,6 +178,26 @@ Her stated position: "Sanctions exist to deny economic support to the Cuban dict
 
 - [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1) (VERIFIED)
 <!-- auto:ofac-sdn end -->
+
+<!-- auto:ofac-sdn pending-merge 2026-04-14 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+| Metric | Value |
+|--------|-------|
+| SDN List Status | **Match found** |
+| Match Quality | Fuzzy match (token overlap) |
+| SDN Records Matched | 1 |
+| Sanctions Programs | SDNTK |
+| Entity Types | individual |
+
+**Matched SDN entries:**
+- SALAZAR HERNANDEZ, Maria Alejandrina (individual) [SDNTK]
+  - Remarks: DOB 17 Jul 1958; POB Culiacan, Sinaloa, Mexico; Passport 140302262 (Mexico); R.F.C. SAHA580717AP6 (Mexico); C.U.R.P. SAHA580717MSLLRL07 (Mexico).
+
+- [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1)
+
+<!-- auto:ofac-sdn pending-merge end -->
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->

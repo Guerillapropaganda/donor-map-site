@@ -475,6 +475,24 @@ SCOTUS. Al Otro Lado asylum arrival doctrine
 - [Source: GLEIF](https://www.gleif.org/) (Tier 1) (NEEDS REVIEW)
 <!-- auto:gleif-lei end -->
 
+<!-- auto:gleif-lei pending-merge 2026-04-14 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+| Field | Value |
+|-------|-------|
+| LEI | [529900JFA3K6PTLT8B15](https://search.gleif.org/#/record/529900JFA3K6PTLT8B15) |
+| Legal Name | CORECIVIC, INC. |
+| Jurisdiction | US-MD |
+| Entity Status | ACTIVE |
+| Category | GENERAL |
+| Registration | LAPSED |
+| Last Updated | 2021-07-16T05:04:45Z |
+
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+
+<!-- auto:gleif-lei pending-merge end -->
+
 ### SEC Filing Activity
 <!-- auto:sec-edgar start -->
 | Metric | Value |

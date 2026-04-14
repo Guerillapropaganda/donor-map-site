@@ -3,7 +3,7 @@ title: "Adam Smith"
 type: politician
 content-readiness: ready
 central-thesis: "Adam Smith is the Democratic face of the military-industrial complex. His district contains Boeing's Renton operations, Washington State hosts six active-duty military installations, and his top three career donors , Boeing, Northrop Grumman, and ..."
-last-updated: 2026-04-13
+last-updated: 2026-04-14
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -34,7 +34,7 @@ top-donors:
 fec-candidate-id: "H6WA09025"
 related: "[[Tom Cole]] · [[_Rosa DeLauro Master Profile|Rosa DeLauro]] · [[Boeing]] · [[Northrop Grumman]] · [[Raytheon (RTX)|Raytheon]] · [[Lockheed Martin]]"
 donors: "[[American Gaming Association]] · [[Raytheon (RTX Corporation)]] · [[National Association of Manufacturers]] · [[Tech Industry]] · [[National Restaurant Association]] · [[ActBlue]]"
-last-enriched: "2026-04-13"
+last-enriched: "2026-04-14"
 needs-reenrichment: true
 reenrich-reason: "run congress pipeline"
 govtrack-id: 400379
@@ -170,7 +170,7 @@ Smith publicly supports campaign finance reform, states "corporations are not pe
 - ~~[Source: FEC.gov](https://www.fec.gov/data/candidate/S0KS00216/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:fec-politician end -->
 
-<!-- auto:fec-politician pending-merge 2026-04-13 -->
+<!-- auto:fec-politician pending-merge 2026-04-14 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 
@@ -204,7 +204,7 @@ Smith publicly supports campaign finance reform, states "corporations are not pe
 | PUGET SOUND ENERGY INC PAC FOR GOOD GOVERNMENT | $6,577 | $0 |
 | THE 60 PLUS ASSOCIATION | $0 | $6,122 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H6WA09025/) (Tier 1) (VERIFIED)
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H6WA09025/) (Tier 1)
 
 <!-- auto:fec-politician pending-merge end -->
 
@@ -252,7 +252,7 @@ Smith publicly supports campaign finance reform, states "corporations are not pe
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-09.*
 <!-- auto:influence-cross-ref end -->
 
-<!-- auto:influence-cross-ref pending-merge 2026-04-13 -->
+<!-- auto:influence-cross-ref pending-merge 2026-04-14 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 
@@ -266,7 +266,7 @@ Smith publicly supports campaign finance reform, states "corporations are not pe
 
 - **Northrop Grumman** donates → Lobbies on **Defense & Military** → This member sits on **House Committee on Armed Services**
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-13.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-14.*
 
 <!-- auto:influence-cross-ref pending-merge end -->
 
@@ -363,3 +363,32 @@ Smith publicly supports campaign finance reform, states "corporations are not pe
 - ~~[Congress.gov: Adam Smith](https://www.congress.gov/member/e000179)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - [GovTrack: Adam Smith](https://www.govtrack.us/congress/members/400379) (Tier 1) (NEEDS REVIEW)
 <!-- auto:voting-record end -->
+
+<!-- auto:voting-record pending-merge 2026-04-14 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+**Key Votes**
+
+| 2026-03-27 | H.Res. 1142: Providing for disposition of the Senate amendment to the bill (H.R. 7147) making further consolidated appro | **No** | Passed |
+| 2026-03-27 | H.R. 7084: Defending American Property Abroad Act of 2026 | **Nay** | Passed |
+| 2026-03-26 | H.R. 8029: Pay Our Homeland Defenders Act | **Nay** | Passed |
+| 2026-03-26 | H.Res. 1128: Expressing the support of the House of Representatives for the Department of Homeland Security. | **Nay** | Passed |
+| 2026-03-25 | H.R. 5103: Make the District of Columbia Safe and Beautiful Act of 2025 | **Nay** | Passed |
+| 2026-03-25 | H.Res. 1131: Providing for consideration of the bill (H.R. 8029) making appropriations for the Department of Homeland Se | **No** | Passed |
+| 2026-03-24 | H.R. 6422: American Water Stewardship Act | **Yea** | Passed |
+| 2026-03-19 | H.R. 4638: Federal Working Animal Protection Act | **Nay** | Passed |
+| 2026-03-18 | H.J.Res. 139: Proposing an amendment to the Constitution of the United States requiring a balanced budget for the Federa | **Nay** | Failed |
+| 2026-03-18 | H.R. 1958: Deporting Fraudsters Act of 2026 | **Nay** | Passed |
+| 2026-03-18 | H.R. 556: Protecting Access for Hunters and Anglers Act | **No** | Passed |
+| 2026-03-17 | H.Res. 1115: Providing for consideration of the bill (H.R. 556) to prohibit the Secretary of the Interior and the Secret | **No** | Passed |
+| 2026-03-17 | S. 3971: Small Business Innovation and Economic Security Act | **Yea** | Passed |
+| 2026-03-17 | H.R. 4294: MAWS Act of 2026 | **Yea** | Passed |
+| 2026-03-05 | H.R. 7744: Department of Homeland Security Appropriations Act, 2026 | **Nay** | Passed |
+
+**Sources**
+
+- [Congress.gov: Adam Smith](https://www.congress.gov/member/e000179) (Tier 1)
+- [GovTrack: Adam Smith](https://www.govtrack.us/congress/members/400379) (Tier 1)
+
+<!-- auto:voting-record pending-merge end -->

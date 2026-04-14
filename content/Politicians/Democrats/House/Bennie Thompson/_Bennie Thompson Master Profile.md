@@ -3,7 +3,7 @@ title: "Bennie Thompson"
 type: politician
 content-readiness: ready
 central-thesis: "Bennie Thompson is the civil rights organizer who became the surveillance state's Democratic gatekeeper. His career arc , from SNCC activism to chairing the committee that oversees DHS, TSA, ICE, and CBP , is a map of how the Democratic Party abso..."
-last-updated: 2026-04-13
+last-updated: 2026-04-14
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -24,7 +24,7 @@ bills-cosponsored: 355
 website: "https://benniethompson.house.gov"
 phone: "202-225-5876"
 donors: "[[IBEW - International Brotherhood of Electrical Workers]] · [[Blue Shield of California]] · [[American Gaming Association]] · [[California Farm Bureau Federation]] · [[National Cattlemen's Beef Association]] · [[CA Farm Bureau Federation]]"
-last-enriched: "2026-04-13"
+last-enriched: "2026-04-14"
 needs-reenrichment: true
 reenrich-reason: "run congress pipeline"
 related: "[[_Donald Trump Master Profile|Trump]] · [[_Nancy Pelosi Master Profile|Pelosi]]"
@@ -201,6 +201,44 @@ The January 6th investigation was Thompson's highest-profile moment and his clea
 - [Source: FEC.gov](https://www.fec.gov/data/candidate/H4MS02068/) (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
+<!-- auto:fec-politician pending-merge 2026-04-14 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2026 |
+| Total Raised | $497,950 |
+| Individual Contributions | $119,332 |
+| PAC Contributions | $370,598 |
+| Cash on Hand | 1544559.15 |
+| IE Support (Super PAC) | $83,665 |
+| IE Opposition (Super PAC) | $184 |
+
+**Fundraising by cycle:**
+
+| Cycle | Total Raised | Individual | PAC |
+|-------|-------------|------------|-----|
+| 2026 | $497,950 | $119,332 | $370,598 |
+| 2024 | $1,245,201 | $410,855 | $809,372 |
+| 2022 | $1,515,666 | $580,777 | $900,903 |
+| 2020 | $1,379,892 | $366,160 | $998,263 |
+| 2018 | $1,020,602 | $194,947 | $814,474 |
+
+**Top outside spenders:**
+
+| Committee | Support | Oppose |
+|-----------|---------|--------|
+| UNITE HERE TIP CAMPAIGN COMMITTEE | $49,126 | $0 |
+| AMERICAN FEDERATION OF STATE COUNTY & MUNICIPAL EMPLOYEES - P E O P L E, QUALIFIED | $10,000 | $0 |
+| LABORERS' POLITICAL LEAGUE-LABORERS' INTERNATIONAL UNION OF N.A. | $10,000 | $0 |
+| DEMOCRATIC CONGRESSIONAL CAMPAIGN COMMITTEE | $9,514 | $0 |
+| NARAL PRO-CHOICE AMERICA | $3,380 | $0 |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H4MS02068/) (Tier 1)
+
+<!-- auto:fec-politician pending-merge end -->
+
 ### Legislative Activity (GovTrack)
 <!-- auto:govtrack start -->
 | Metric | Value |
@@ -261,3 +299,32 @@ The January 6th investigation was Thompson's highest-profile moment and his clea
 - ~~[Congress.gov: Bennie Thompson](https://www.congress.gov/member/e000179)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - ~~[GovTrack: Bennie Thompson](https://www.govtrack.us/congress/members/400402)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:voting-record end -->
+
+<!-- auto:voting-record pending-merge 2026-04-14 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+**Key Votes**
+
+| 2026-03-27 | H.Res. 1142: Providing for disposition of the Senate amendment to the bill (H.R. 7147) making further consolidated appro | **No** | Passed |
+| 2026-03-27 | H.R. 7084: Defending American Property Abroad Act of 2026 | **Nay** | Passed |
+| 2026-03-26 | H.R. 8029: Pay Our Homeland Defenders Act | **Nay** | Passed |
+| 2026-03-26 | H.Res. 1128: Expressing the support of the House of Representatives for the Department of Homeland Security. | **Nay** | Passed |
+| 2026-03-25 | H.R. 5103: Make the District of Columbia Safe and Beautiful Act of 2025 | **Nay** | Passed |
+| 2026-03-25 | H.Res. 1131: Providing for consideration of the bill (H.R. 8029) making appropriations for the Department of Homeland Se | **No** | Passed |
+| 2026-03-24 | H.R. 6422: American Water Stewardship Act | **Yea** | Passed |
+| 2026-03-19 | H.R. 4638: Federal Working Animal Protection Act | **Not Voting** | Passed |
+| 2026-03-18 | H.J.Res. 139: Proposing an amendment to the Constitution of the United States requiring a balanced budget for the Federa | **Nay** | Failed |
+| 2026-03-18 | H.R. 1958: Deporting Fraudsters Act of 2026 | **Nay** | Passed |
+| 2026-03-18 | H.R. 556: Protecting Access for Hunters and Anglers Act | **No** | Passed |
+| 2026-03-17 | H.Res. 1115: Providing for consideration of the bill (H.R. 556) to prohibit the Secretary of the Interior and the Secret | **No** | Passed |
+| 2026-03-17 | S. 3971: Small Business Innovation and Economic Security Act | **Yea** | Passed |
+| 2026-03-17 | H.R. 4294: MAWS Act of 2026 | **Yea** | Passed |
+| 2026-03-05 | H.R. 7744: Department of Homeland Security Appropriations Act, 2026 | **Nay** | Passed |
+
+**Sources**
+
+- [Congress.gov: Bennie Thompson](https://www.congress.gov/member/e000179) (Tier 1)
+- [GovTrack: Bennie Thompson](https://www.govtrack.us/congress/members/400402) (Tier 1)
+
+<!-- auto:voting-record pending-merge end -->

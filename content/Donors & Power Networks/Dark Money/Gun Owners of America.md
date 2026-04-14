@@ -245,6 +245,23 @@ The post-Bruen litigation strategy reveals how **judicial capture can override d
 - [Source: ProPublica Nonprofit Explorer — EIN 521256643](https://projects.propublica.org/nonprofits/organizations/521256643) (Tier 1) (VERIFIED)
 <!-- auto:propublica-990 end -->
 
+<!-- auto:propublica-990 pending-merge 2026-04-14 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+| Metric | Amount |
+|--------|--------|
+| Total Revenue | $9.6M |
+| Total Contributions | $9.6M |
+| Investment Income | $11K |
+| Total Expenses | $8.9M |
+| Net Assets | $6.9M |
+| Officer Compensation | $327K |
+
+- [Source: ProPublica Nonprofit Explorer — EIN 521256643](https://projects.propublica.org/nonprofits/organizations/521256643) (Tier 1)
+
+<!-- auto:propublica-990 pending-merge end -->
+
 ### Wikipedia
 <!-- auto:wikipedia start -->
 Gun Owners of America (GOA) is a gun rights organization in the United States. It makes efforts to differentiate itself from the larger National Rifle Association (NRA) and has publicly criticized the...

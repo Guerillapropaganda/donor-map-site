@@ -4,7 +4,7 @@ type: politician
 bioguide-id: "J000293"
 content-readiness: ready
 central-thesis: "Johnson's donor-class function is to serve as the billionaire manufacturing and pass-through business class's enforcer in the Senate , a wealthy CEO who entered politics to protect the tax and regulatory structures that benefit people exactly like..."
-last-updated: 2026-04-13
+last-updated: 2026-04-14
 source-tier: 1
 parent: null
 party: "Republican"
@@ -192,6 +192,28 @@ Johnson supplements this core tax function with aggressive partisan investigatio
 
 - ~~[Source: Senate Stock Watcher](https://senatestockwatcher.com/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:stock-trades end -->
+
+<!-- auto:stock-trades pending-merge 2026-04-14 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+| Metric | Value |
+|--------|-------|
+| Total Trades | 2 |
+| Purchases | 0 |
+| Sales | 2 |
+| Est. Value Range | $5,100,002 – $25,250,000 |
+
+**Recent notable trades:**
+
+| Date | Ticker | Type | Amount | Owner |
+|------|--------|------|--------|-------|
+| 12/20/2019 | -- | Sale | $100,001 - $250,000 | Self |
+| 03/02/2020 | -- | Sale | $5,000,001 - $25,000,000 | Self |
+
+- [Source: Senate Stock Watcher](https://senatestockwatcher.com/) (Tier 1)
+
+<!-- auto:stock-trades pending-merge end -->
 
 ### Voting Record
 <!-- auto:voting-record start -->

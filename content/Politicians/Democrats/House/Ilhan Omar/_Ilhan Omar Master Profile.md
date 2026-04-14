@@ -281,12 +281,60 @@ Omar's small-dollar model ($1.7M in Q1 2024, 56,022 contributions, $31.79 averag
 - [Source: FEC.gov](https://www.fec.gov/data/candidate/H8MN05239/) (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
+<!-- auto:fec-politician pending-merge 2026-04-14 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2026 |
+| Total Raised | $3,125,783 |
+| Individual Contributions | $1,052,716 |
+| PAC Contributions | $35,829 |
+| Cash on Hand | 1120804.52 |
+| IE Support (Super PAC) | $1,523,284 |
+| IE Opposition (Super PAC) | $5,386,791 |
+
+**Fundraising by cycle:**
+
+| Cycle | Total Raised | Individual | PAC |
+|-------|-------------|------------|-----|
+| 2026 | $3,125,783 | $1,052,716 | $35,829 |
+| 2024 | $8,335,875 | $4,038,893 | $232,667 |
+| 2022 | $3,111,918 | $1,526,058 | $198,407 |
+| 2020 | $5,810,874 | $2,153,641 | $200,743 |
+| 2018 | $1,084,183 | $575,041 | $189,943 |
+
+**Top outside spenders:**
+
+| Committee | Support | Oppose |
+|-----------|---------|--------|
+| AMERICANS FOR TOMORROW'S FUTURE | $0 | $4,967,397 |
+| MINNESOTA DEMOCRATIC-FARMER-LABOR PARTY | $646,963 | $0 |
+| TAKEACTION MN FEDERAL FUND | $375,609 | $0 |
+| WFP IE COMMITTEE | $161,100 | $0 |
+| NATIONAL NURSES UNITED FOR PATIENT PROTECTION | $155,229 | $0 |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H8MN05239/) (Tier 1)
+
+<!-- auto:fec-politician pending-merge end -->
+
 ### Voting Record
 <!-- auto:voting-record start -->
 **Sources**
 
 - ~~[Congress.gov: Ilhan Omar](https://www.congress.gov/member/e000179)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:voting-record end -->
+
+<!-- auto:voting-record pending-merge 2026-04-14 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+**Sources**
+
+- [Congress.gov: Ilhan Omar](https://www.congress.gov/member/e000179) (Tier 1)
+
+<!-- auto:voting-record pending-merge end -->
 
 
 ### Legislative Activity (Congress.gov)

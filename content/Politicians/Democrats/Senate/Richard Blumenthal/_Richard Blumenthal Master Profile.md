@@ -3,7 +3,7 @@ title: "Richard Blumenthal"
 type: politician
 content-readiness: ready
 central-thesis: "Richard Blumenthal is the attorney general-turned-senator who built a career on holding powerful institutions accountable , and then became the ranking member of the committee that oversees the institution responsible for veteran care. His donor p..."
-last-updated: 2026-04-13
+last-updated: 2026-04-14
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -253,6 +253,34 @@ The Vietnam service record controversy sharpens the class analysis. Blumenthal r
 
 - ~~[Source: Senate Stock Watcher](https://senatestockwatcher.com/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:stock-trades end -->
+
+<!-- auto:stock-trades pending-merge 2026-04-14 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+| Metric | Value |
+|--------|-------|
+| Total Trades | 50 |
+| Purchases | 0 |
+| Sales | 0 |
+| Est. Value Range | $0 |
+
+**Recent notable trades:**
+
+| Date | Ticker | Type | Amount | Owner |
+|------|--------|------|--------|-------|
+| 12/22/2015 | N/A | other | Unknown | N/A |
+| 12/18/2018 | N/A | other | Unknown | N/A |
+| 12/18/2017 | N/A | other | Unknown | N/A |
+| 12/16/2019 | N/A | other | Unknown | N/A |
+| 12/06/2016 | N/A | other | Unknown | N/A |
+| 12/04/2018 | N/A | other | Unknown | N/A |
+| 12/02/2020 | N/A | other | Unknown | N/A |
+| 11/28/2018 | N/A | other | Unknown | N/A |
+
+- [Source: Senate Stock Watcher](https://senatestockwatcher.com/) (Tier 1)
+
+<!-- auto:stock-trades pending-merge end -->
 
 ### DOJ Press Releases
 <!-- auto:doj-press removed 2026-04-10 by Research Claude: was showing >10K DOJ mentions from the API index-size false-positive bug. Main engine fix d1ceb91 (2026-04-10) caps at 10K + validates 60% name match. Will repopulate correctly on next pipeline run. -->

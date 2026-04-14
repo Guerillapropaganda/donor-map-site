@@ -284,6 +284,16 @@ party:: Democrat
 - ~~[Congress.gov: Joseph Morelle](https://www.congress.gov/member/e000179)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:voting-record end -->
 
+<!-- auto:voting-record pending-merge 2026-04-14 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+**Sources**
+
+- [Congress.gov: Joseph Morelle](https://www.congress.gov/member/e000179) (Tier 1)
+
+<!-- auto:voting-record pending-merge end -->
+
 ### Wikipedia
 <!-- auto:wikipedia start -->
 Joseph D. Morelle is an American politician serving as the U.S. representative for New York's 25th congressional district since 2018.

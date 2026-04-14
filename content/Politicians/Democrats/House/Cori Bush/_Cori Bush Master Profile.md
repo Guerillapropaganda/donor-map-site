@@ -3,7 +3,7 @@ title: "Cori Bush"
 type: politician
 content-readiness: ready
 central-thesis: "Bush's political trajectory is a case study in how the donor class neutralizes progressive insurgents through a multi-pressure vector strategy. The triggering event is legible in the Congressional record: on October 25, 2023, Bush introduced H.Res..."
-last-updated: 2026-04-13
+last-updated: 2026-04-14
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -64,7 +64,7 @@ checklist-na:
 known-gaps:
   - 2026 comeback campaign ongoing , state-level polling and endorsements not yet fully documented
   - Federal indictment (Aug 2025) outcome pending , court filings need citation once resolved
-last-enriched: "2026-04-13"
+last-enriched: "2026-04-14"
 needs-reenrichment: true
 reenrich-reason: "re-run congress pipeline"
 internal-notes: "[JANITOR 2026-04-10] Demoted ready→draft by pipeline-janitor.cjs because:
@@ -400,7 +400,7 @@ _N/A — Bush lost her 2024 Democratic primary to Wesley Bell and is no longer s
 - [GovTrack: Cori Bush](https://www.govtrack.us/congress/members/456829) (Tier 1)
 <!-- auto:voting-record end -->
 
-<!-- auto:voting-record pending-merge 2026-04-13 -->
+<!-- auto:voting-record pending-merge 2026-04-14 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 
@@ -424,7 +424,7 @@ _N/A — Bush lost her 2024 Democratic primary to Wesley Bell and is no longer s
 
 **Sources**
 
-- ~~[Congress.gov: Cori Bush](https://www.congress.gov/member/e000179)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [Congress.gov: Cori Bush](https://www.congress.gov/member/e000179) (Tier 1)
 - [GovTrack: Cori Bush](https://www.govtrack.us/congress/members/456829) (Tier 1)
 
 <!-- auto:voting-record pending-merge end -->

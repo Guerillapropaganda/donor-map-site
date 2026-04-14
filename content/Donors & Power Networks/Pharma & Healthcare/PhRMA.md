@@ -369,18 +369,11 @@ The Inflation Reduction Act represents the first breach in this structure. PhRMA
 |--------|-------|
 | Politicians Funded | 6 |
 | Active Lobbyist | Yes |
-| Committee Overlap Detected | 2 politicians |
+| Committee Overlap Detected | 1 politician |
 
 **Lobby → Donate → Committee chains:**
 
-- Lobbies on **Health Issues** → Funds **Frank Pallone** → Sits on **House Committee on Energy and Commerce**
-- Lobbies on **Medicare/Medicaid** → Funds **Frank Pallone** → Sits on **House Committee on Energy and Commerce**
-- Lobbies on **Pharmacy** → Funds **Frank Pallone** → Sits on **House Committee on Energy and Commerce**
 - Lobbies on **Healthcare** → Funds **Frank Pallone** → Sits on **House Committee on Energy and Commerce**
-- Lobbies on **Budget/Appropriations** → Funds **Chris Coons** → Sits on **Senate Committee on Appropriations**
-- Lobbies on **Copyright/Patent/Trademark** → Funds **Chris Coons** → Sits on **Senate Committee on the Judiciary**
-- Lobbies on **Defense** → Funds **Chris Coons** → Sits on **Senate Committee on Appropriations**
-- Lobbies on **Foreign Relations** → Funds **Chris Coons** → Sits on **Senate Committee on Foreign Relations**
 
 **Funded politicians:**
 

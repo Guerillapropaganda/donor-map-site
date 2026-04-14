@@ -178,6 +178,22 @@ Donors Capital Fund is the conservative donor class's anonymity machine. The DAF
 - [Source: ProPublica Nonprofit Explorer — EIN 541934032](https://projects.propublica.org/nonprofits/organizations/541934032) (Tier 1) (VERIFIED)
 <!-- auto:propublica-990 end -->
 
+<!-- auto:propublica-990 pending-merge 2026-04-14 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+| Metric | Amount |
+|--------|--------|
+| Total Revenue | $696K |
+| Total Contributions | $392K |
+| Investment Income | $336K |
+| Total Expenses | $505K |
+| Net Assets | $9.5M |
+
+- [Source: ProPublica Nonprofit Explorer — EIN 541934032](https://projects.propublica.org/nonprofits/organizations/541934032) (Tier 1)
+
+<!-- auto:propublica-990 pending-merge end -->
+
 ### Tax Filings (IRS 990)
 <!-- auto:nonprofit-990 start -->
 | Metric | Value |

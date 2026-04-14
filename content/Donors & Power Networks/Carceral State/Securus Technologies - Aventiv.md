@@ -172,3 +172,21 @@ The $315M California contract is the countervailing force. Even as rates are reg
 
 - [Source: GLEIF](https://www.gleif.org/) (Tier 1) (NEEDS REVIEW)
 <!-- auto:gleif-lei end -->
+
+<!-- auto:gleif-lei pending-merge 2026-04-14 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+| Field | Value |
+|-------|-------|
+| LEI | [549300EBCNNXVCJ2FW66](https://search.gleif.org/#/record/549300EBCNNXVCJ2FW66) |
+| Legal Name | Aventiv Technologies, LLC |
+| Jurisdiction | US-DE |
+| Entity Status | ACTIVE |
+| Category | GENERAL |
+| Registration | LAPSED |
+| Last Updated | 2023-12-22T13:30:05Z |
+
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+
+<!-- auto:gleif-lei pending-merge end -->

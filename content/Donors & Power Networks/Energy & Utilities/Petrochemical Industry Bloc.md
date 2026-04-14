@@ -102,3 +102,25 @@ The petrochemical industry's geographic concentration along the Mississippi Rive
 
 - [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1) (VERIFIED)
 <!-- auto:ofac-sdn end -->
+
+<!-- auto:ofac-sdn pending-merge 2026-04-14 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+| Metric | Value |
+|--------|-------|
+| SDN List Status | **Match found** |
+| Match Quality | Fuzzy match (token overlap) |
+| SDN Records Matched | 2 |
+| Sanctions Programs | NPWMD] [IFSR |
+| Entity Types | -0- |
+
+**Matched SDN entries:**
+- PERSIAN GULF PETROCHEMICAL INDUSTRY CO. (-0-) [NPWMD] [IFSR]
+  - Remarks: Website www.pgpic.ir; Additional Sanctions Information - Subject to Secondary Sanctions; Business Registration Number 89243 (Iran); Linked To: KHATAM OL ANBIA GHARARGAH SAZANDEGI NOOH.
+- PERSIAN GULF PETROCHEMICAL INDUSTRY COMMERCIAL CO. (-0-) [NPWMD] [IFSR]
+  - Remarks: Website www.pgpicc.com; Additional Sanctions Information - Subject to Secondary Sanctions; Registration Number 476760 (Iran); Linked To: PERSIAN GULF PETROCHEMICAL INDUSTRY CO.
+
+- [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1)
+
+<!-- auto:ofac-sdn pending-merge end -->

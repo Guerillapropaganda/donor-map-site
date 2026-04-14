@@ -213,6 +213,36 @@ Warner announced 2026 reelection bid (fourth term), positioning himself for cont
 - ~~[Source: Senate Stock Watcher](https://senatestockwatcher.com/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:stock-trades end -->
 
+<!-- auto:stock-trades pending-merge 2026-04-14 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+| Metric | Value |
+|--------|-------|
+| Total Trades | 88 |
+| Purchases | 12 |
+| Sales | 27 |
+| Est. Value Range | $8,991,039 – $30,365,000 |
+
+**Top tickers traded:** ZAYO, CHTR, HALO, XON, ZIOP
+
+**Recent notable trades:**
+
+| Date | Ticker | Type | Amount | Owner |
+|------|--------|------|--------|-------|
+| 12/24/2018 | -- | Sale | $1,001 - $15,000 | Spouse |
+| 12/24/2018 | -- | Sale | $1,001 - $15,000 | Self |
+| 12/19/2018 | -- | Sale | $250,001 - $500,000 | Self |
+| 12/15/2016 | N/A | other | Unknown | N/A |
+| 12/15/2015 | N/A | other | Unknown | N/A |
+| 12/13/2012 | N/A | other | Unknown | N/A |
+| 12/12/2014 | N/A | other | Unknown | N/A |
+| 12/07/2018 | -- | Purchase | $50,001 - $100,000 | Self |
+
+- [Source: Senate Stock Watcher](https://senatestockwatcher.com/) (Tier 1)
+
+<!-- auto:stock-trades pending-merge end -->
+
 ### Legislative Activity (GovTrack)
 <!-- auto:govtrack start -->
 | Metric | Value |

@@ -3,7 +3,7 @@ title: "Rick Scott"
 type: politician
 content-readiness: draft
 central-thesis: "Rick Scott is the most literal example of the donor-class thesis: he IS the donor class. He doesn't receive money from healthcare fraudsters , he WAS the healthcare fraudster. He doesn't receive self-funding from a clean fortune , his content-readiness: draft52M+ in ca..."
-last-updated: 2026-04-13
+last-updated: 2026-04-14
 source-tier: 1
 parent: null
 party: "Republican"
@@ -202,6 +202,35 @@ Scott's wife Ann holds a portfolio of 550+ investment items, including Cayman Is
 
 - ~~[Source: Senate Stock Watcher](https://senatestockwatcher.com/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:stock-trades end -->
+
+<!-- auto:stock-trades pending-merge 2026-04-14 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+| Metric | Value |
+|--------|-------|
+| Total Trades | 142 |
+| Purchases | 119 |
+| Sales | 19 |
+| Exchanges | 4 |
+| Est. Value Range | $55,002,142 – $141,530,000 |
+
+**Recent notable trades:**
+
+| Date | Ticker | Type | Amount | Owner |
+|------|--------|------|--------|-------|
+| 12/19/2019 | -- | Purchase | $100,001 - $250,000 | Self |
+| 12/19/2019 | -- | Purchase | $500,001 - $1,000,000 | Spouse |
+| 12/19/2019 | -- | Purchase | $500,001 - $1,000,000 | Spouse |
+| 12/19/2019 | -- | Purchase | $250,001 - $500,000 | Spouse |
+| 12/17/2019 | -- | Purchase | $100,001 - $250,000 | Self |
+| 12/17/2019 | -- | Purchase | $500,001 - $1,000,000 | Spouse |
+| 12/17/2019 | -- | Purchase | $500,001 - $1,000,000 | Spouse |
+| 12/17/2019 | -- | Purchase | $250,001 - $500,000 | Spouse |
+
+- [Source: Senate Stock Watcher](https://senatestockwatcher.com/) (Tier 1)
+
+<!-- auto:stock-trades pending-merge end -->
 
 ### Legislative Activity (GovTrack)
 <!-- auto:govtrack start -->

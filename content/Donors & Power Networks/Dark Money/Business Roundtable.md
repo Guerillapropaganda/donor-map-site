@@ -228,6 +228,24 @@ The TCJA is the BRT's signature achievement: $320+ billion annually in corporate
 - [Source: ProPublica Nonprofit Explorer — EIN 237236607](https://projects.propublica.org/nonprofits/organizations/237236607) (Tier 1) (VERIFIED)
 <!-- auto:propublica-990 end -->
 
+<!-- auto:propublica-990 pending-merge 2026-04-14 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+| Metric | Amount |
+|--------|--------|
+| Total Revenue | $64.5M |
+| Total Contributions | $0 |
+| Program Service Revenue | $63.4M |
+| Investment Income | $2.0M |
+| Total Expenses | $55.3M |
+| Net Assets | $47.8M |
+| Officer Compensation | $5.8M |
+
+- [Source: ProPublica Nonprofit Explorer — EIN 237236607](https://projects.propublica.org/nonprofits/organizations/237236607) (Tier 1)
+
+<!-- auto:propublica-990 pending-merge end -->
+
 ### DOJ Press Releases
 <!-- auto:doj-press removed 2026-04-10 by Research Claude: was showing >10K DOJ mentions from the API index-size false-positive bug. Main engine fix d1ceb91 (2026-04-10) caps at 10K + validates 60% name match. Will repopulate correctly on next pipeline run. -->
 

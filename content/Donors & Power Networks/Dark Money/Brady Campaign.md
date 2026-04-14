@@ -165,6 +165,23 @@ Brady represents issue-based donor infrastructure serving Democratic electoral p
 - [Source: ProPublica Nonprofit Explorer — EIN 237321017](https://projects.propublica.org/nonprofits/organizations/237321017) (Tier 1) (VERIFIED)
 <!-- auto:propublica-990 end -->
 
+<!-- auto:propublica-990 pending-merge 2026-04-14 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+| Metric | Amount |
+|--------|--------|
+| Total Revenue | $4.8M |
+| Total Contributions | $4.8M |
+| Investment Income | $584 |
+| Total Expenses | $5.1M |
+| Net Assets | $8.1M |
+| Officer Compensation | $30K |
+
+- [Source: ProPublica Nonprofit Explorer — EIN 237321017](https://projects.propublica.org/nonprofits/organizations/237321017) (Tier 1)
+
+<!-- auto:propublica-990 pending-merge end -->
+
 ### Lobbying Activity
 <!-- auto:lda-lobbying start -->
 | Metric | Value |
@@ -300,6 +317,34 @@ Brady represents issue-based donor infrastructure serving Democratic electoral p
 
 - [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Brady%20Campaign) (Tier 1) (VERIFIED)
 <!-- auto:fec-donor end -->
+
+<!-- auto:fec-donor pending-merge 2026-04-14 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+| Metric | Value |
+|--------|-------|
+| Total Political Spend | $511,461 |
+| Contributions | 108 |
+
+**Top recipients:**
+
+| Recipient | Amount | Party |
+|-----------|--------|-------|
+| BRADY PAC | $429,429 | — |
+| FRIENDS OF CAROLYN MCCARTHY | $7,500 | DEM |
+| MOORE FOR CONGRESS | $7,000 | DEM |
+| PERLMUTTER FOR CONGRESS | $6,800 | DEM |
+| NADLER FOR CONGRESS | $6,000 | DEM |
+| FRIENDS OF JIM CLYBURN | $5,500 | DEM |
+| SCHRADER FOR CONGRESS | $5,000 | DEM |
+| MENENDEZ FOR SENATE | $4,000 | DEM |
+| DARCY BURNER FOR CONGRESS | $2,500 | DEM |
+| ALLYSON SCHWARTZ FOR CONGRESS | $2,500 | DEM |
+
+- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Brady%20Campaign) (Tier 1)
+
+<!-- auto:fec-donor pending-merge end -->
 
 ### Wikipedia
 <!-- auto:wikipedia start -->

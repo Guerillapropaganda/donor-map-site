@@ -2,7 +2,7 @@
 title: "Healthcare Sector"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-13
+last-updated: 2026-04-14
 source-tier: 1
 parent: null
 sector: "Dark Money"
@@ -14,7 +14,7 @@ issues:
   - "Healthcare"
   - "Social Safety Net"
 court-cases: 1439
-last-enriched: "2026-04-06"
+last-enriched: "2026-04-14"
 needs-reenrichment: true
 reenrich-reason: "run fec pipeline"
 court-jurisdictions:
@@ -34,6 +34,7 @@ cross-vault-triangulation-count: 9
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
   • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
 The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+wikidata-id: "Q137593099"
 ---
 #healthcare #sector #lobbying #bipartisan #pharma #insurance #hospitals #aca #medicare #drug-pricing #class-analysis #follow-the-money
 
@@ -188,3 +189,12 @@ The PMC study (1999-2018) documented that $4.7 billion in pharmaceutical lobbyin
 
 - [Source: GLEIF](https://www.gleif.org/) (Tier 1) (NEEDS REVIEW)
 <!-- auto:gleif-lei end -->
+
+### Wikipedia
+<!-- auto:wikipedia start -->
+| Fact | Value |
+|------|-------|
+| Wikidata ID | [Q137593099](https://www.wikidata.org/wiki/Q137593099) |
+
+- [Source: Wikidata](https://www.wikidata.org/wiki/Q137593099) (Tier 2)
+<!-- auto:wikipedia end -->

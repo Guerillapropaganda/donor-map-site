@@ -345,6 +345,37 @@ Then there is the wife's employer. Sandra Whitehouse has received $2,686,800 fro
 - ~~[Source: Senate Stock Watcher](https://senatestockwatcher.com/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:stock-trades end -->
 
+<!-- auto:stock-trades pending-merge 2026-04-14 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+| Metric | Value |
+|--------|-------|
+| Total Trades | 687 |
+| Purchases | 384 |
+| Sales | 272 |
+| Exchanges | 13 |
+| Est. Value Range | $2,993,669 – $15,770,000 |
+
+**Top tickers traded:** GILD, FB, IBM, T, BIIB, NVDA, BMY, C
+
+**Recent notable trades:**
+
+| Date | Ticker | Type | Amount | Owner |
+|------|--------|------|--------|-------|
+| 12/28/2018 | AMZN | Purchase | $1,001 - $15,000 | Joint |
+| 12/28/2018 | F | Sale | $1,001 - $15,000 | Joint |
+| 12/28/2018 | NVDA | Purchase | $1,001 - $15,000 | Joint |
+| 12/28/2018 | T | Sale | $1,001 - $15,000 | Joint |
+| 12/28/2018 | TSLA | Purchase | $1,001 - $15,000 | Joint |
+| 12/28/2018 | BMY | Sale | $15,001 - $50,000 | Joint |
+| 12/28/2018 | ILMN | Purchase | $1,001 - $15,000 | Self |
+| 12/28/2018 | F | Sale | $1,001 - $15,000 | Self |
+
+- [Source: Senate Stock Watcher](https://senatestockwatcher.com/) (Tier 1)
+
+<!-- auto:stock-trades pending-merge end -->
+
 ### DOJ Press Releases
 <!-- auto:doj-press removed 2026-04-10 by Research Claude: was showing >10K DOJ mentions from the API index-size false-positive bug. Main engine fix d1ceb91 (2026-04-10) caps at 10K + validates 60% name match. Will repopulate correctly on next pipeline run. -->
 
