@@ -2,8 +2,12 @@
 title: Gavin Newsom Master Profile
 type: politician
 content-readiness: ready
-central-thesis: "Newsom is the perfect specimen of the donor-class Democrat: genuinely progressive on social and cultural issues (immigration, LGBTQ rights, abortion, gun control), reliably capital-aligned on economic structure (taxes on wealth, corporate subsidie..."
-last-updated: 2026-04-13
+central-thesis: >-
+  Newsom is the perfect specimen of the donor-class Democrat: genuinely
+  progressive on social and cultural issues (immigration, LGBTQ rights,
+  abortion, gun control), reliably capital-aligned on economic structure (taxes
+  on wealth, corporate subsidie...
+last-updated: '2026-04-14'
 source-tier: 1
 parent: null
 party: Democrat
@@ -25,13 +29,27 @@ top-donors:
   - Lennar Corporation
   - National Association of Realtors
 known-gaps:
-  - "No FEC contribution data"
-  - "No legislative record from Congress.gov"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No legislative record from Congress.gov
+  - No voting record data
+  - No mapped relationships
 executive-actions: 10
-last-enriched: "2026-04-09"
-related: "[[_Donald Trump Master Profile]] · [[_Chad Bianco Master Profile]] · [[_Kamala Harris Master Profile]] · [[_Nancy Pelosi Master Profile]] · [[_Bernie Sanders Master Profile]] · [[_Josh Shapiro Master Profile|Josh Shapiro]] · [[_Pete Buttigieg Master Profile|Pete Buttigieg]] · [[Gretchen Whitmer]] · [[_Alexandria Ocasio-Cortez Master Profile|Alexandria Ocasio-Cortez]] · [[PG&E]] · [[Blue Shield of California]] · [[UnitedHealth Group - Optum]] · [[Kaiser Permanente]] · [[CCPOA - California Correctional Peace Officers Association]] · [[California Restaurant Association]] · [[Uber]] · [[Lyft]] · [[DoorDash]] · [[Haim Saban]] · [[CTA - California Teachers Association]] · [[Chevron]] · [[IBEW Local 477 - San Bernardino|IBEW Local 477]] · [[SEIU - Service Employees International Union]] · [[CNA - California Nurses Association]] · [[California Labor Federation]] · [[California Building and Construction Trades Council]] · [[Elon Musk]] · [[Michael Bloomberg]] · [[Koch Network - Charles Koch]]"
+last-enriched: '2026-04-09'
+related: >-
+  [[_Donald Trump Master Profile]] · [[_Chad Bianco Master Profile]] · [[_Kamala
+  Harris Master Profile]] · [[_Nancy Pelosi Master Profile]] · [[_Bernie Sanders
+  Master Profile]] · [[_Josh Shapiro Master Profile|Josh Shapiro]] · [[_Pete
+  Buttigieg Master Profile|Pete Buttigieg]] · [[Gretchen Whitmer]] ·
+  [[_Alexandria Ocasio-Cortez Master Profile|Alexandria Ocasio-Cortez]] ·
+  [[PG&E]] · [[Blue Shield of California]] · [[UnitedHealth Group - Optum]] ·
+  [[Kaiser Permanente]] · [[CCPOA - California Correctional Peace Officers
+  Association]] · [[California Restaurant Association]] · [[Uber]] · [[Lyft]] ·
+  [[DoorDash]] · [[Haim Saban]] · [[CTA - California Teachers Association]] ·
+  [[Chevron]] · [[IBEW Local 477 - San Bernardino|IBEW Local 477]] · [[SEIU -
+  Service Employees International Union]] · [[CNA - California Nurses
+  Association]] · [[California Labor Federation]] · [[California Building and
+  Construction Trades Council]] · [[Elon Musk]] · [[Michael Bloomberg]] · [[Koch
+  Network - Charles Koch]] · [[Ron DeSantis Master Profile]]
 ---
 #newsom #master-profile #california #governor #2028 #class-analysis #follow-the-money #rhetoric-vs-record #donor-class #silicon-valley #progressive-branding
 
