@@ -14,7 +14,7 @@ district: "7"
 bioguide-id: "J000298"
 fec-candidate-id: "H6WA07458"
 committees:
-  - "Judiciary (Antitrust Subcommittee , former Chair)"
+  - "Judiciary (Antitrust Subcommittee — former Chair)"
   - "Budget"
 former-roles:
   - "Congressional Progressive Caucus Chair (2021–2024)"
@@ -28,7 +28,7 @@ issues:
   - "Climate & Environmental Protection"
   - "Healthcare Access"
 top-donors:
-  - "SEIU , Service Employees International Union"
+  - "SEIU — Service Employees International Union"
   - "CNA / National Nurses United"
   - "Small-dollar individual donors (ActBlue)"
   - "Education sector (teachers' unions)"
@@ -39,7 +39,7 @@ source-types:
 corroboration-count: 2
 known-gaps:
   - "GovTrack voting record not yet populated (awaits pipeline run)"
-  - "Build Back Better negotiation timeline (2021-2022) needs complete citation pass , the defining CPC leverage test"
+  - "Build Back Better negotiation timeline (2021-2022) needs complete citation pass — the defining CPC leverage test"
   - "Amazon antitrust work (District Staff Committee hearings, break-up proposals) needs direct Congress.gov link"
   - "CPC member roster during her chair years (2021-2024) needs attached sub-note"
 related: "[[_Bernie Sanders Master Profile|Bernie Sanders]] · [[_Alexandria Ocasio-Cortez Master Profile|AOC]] · [[_Rashida Tlaib Master Profile|Tlaib]] · [[_Ilhan Omar Master Profile|Omar]] · [[_Ayanna Pressley Master Profile|Pressley]] · [[_Cori Bush Master Profile|Cori Bush]] · [[_Jamaal Bowman Master Profile|Jamaal Bowman]] · [[_Summer Lee Master Profile|Summer Lee]] · [[_Nancy Pelosi Master Profile|Pelosi]] · [[Congressional Progressive Caucus|CPC]] · [[Justice Democrats and Brand New Congress - The Infrastructure He Built|Justice Democrats]] · [[SEIU - Service Employees International Union|SEIU]] · [[CNA - California Nurses Association|CNA]] · [[National Nurses United]] · [[Amazon]] · [[Microsoft]] · [[ActBlue]]"
@@ -51,8 +51,37 @@ last-enriched: "2026-04-10"
 editorial-review-date: '2026-04-10'
 editorial-reviewer: "Research Claude"
 editorial-result: ready-candidate
-editorial-notes: "Depth review 2026-04-10. Body NOT touched , central thesis ('CPC leverage is real in theory and paper-thin in practice') + Build Back Better case study + WA-7 Amazon contradiction are strong analytical frame. bioguide-id J000298 already set, Congress source-type present, FEC data present. FIXED (Research Claude): expanded committees to include Budget + flagged Antitrust Subcommittee former Chair role, added former-roles for CPC Chair 2021-2024, restructured issues to lead with Medicare for All (her signature) and immigration (her origin), expanded top-donors to acknowledge small-dollar / ActBlue pattern, added structured opposes (Amazon/Microsoft antitrust targets , the WA-7 contradiction the body describes), expanded related to include full Squad + CPC + relevant Big Tech targets, cleaned known-gaps (removed factually-wrong 'No mapped relationships' , 15+ wikilinks exist; removed 'No voting record data' in favor of specific 'GovTrack voting record not yet populated' phrasing so the janitor will catch it). REMOVED: body inline dataview 'donors: [[SEIU...]] [[CNA...]] [[ActBlue]]' per frontmatter-only rule. STAYS draft per tightened Vault Rules: GovTrack voting record missing, and BBB timeline + Amazon antitrust work need direct sourcing. Once GovTrack block lands and the BBB section is sourced, ready to promote to ready and flag verified-candidate. Not flagging needs-reenrichment since Congress data IS present , only GovTrack is missing, and the scheduled pipeline run will hit her on its normal rotation."
+editorial-notes: "Depth review 2026-04-10. Body NOT touched — central thesis ('CPC leverage is real in theory and paper-thin in practice') + Build Back Better case study + WA-7 Amazon contradiction are strong analytical frame. bioguide-id J000298 already set, Congress source-type present, FEC data present. FIXED (Research Claude): expanded committees to include Budget + flagged Antitrust Subcommittee former Chair role, added former-roles for CPC Chair 2021-2024, restructured issues to lead with Medicare for All (her signature) and immigration (her origin), expanded top-donors to acknowledge small-dollar / ActBlue pattern, added structured opposes (Amazon/Microsoft antitrust targets — the WA-7 contradiction the body describes), expanded related to include full Squad + CPC + relevant Big Tech targets, cleaned known-gaps (removed factually-wrong 'No mapped relationships' — 15+ wikilinks exist; removed 'No voting record data' in favor of specific 'GovTrack voting record not yet populated' phrasing so the janitor will catch it). REMOVED: body inline dataview 'donors: [[SEIU...]] [[CNA...]] [[ActBlue]]' per frontmatter-only rule. STAYS draft per tightened Vault Rules: GovTrack voting record missing, and BBB timeline + Amazon antitrust work need direct sourcing. Once GovTrack block lands and the BBB section is sourced, ready to promote to ready and flag verified-candidate. Not flagging needs-reenrichment since Congress data IS present — only GovTrack is missing, and the scheduled pipeline run will hit her on its normal rotation."
 ---
+
+<!-- auto:data-panel start -->
+<!-- Generated by scripts/build-profile-data-panels.cjs - do not edit by hand -->
+<!-- tier: paid -->
+
+### 📊 Live data panel
+
+**Party:** Democrat · **Chamber:** House · **State:** Washington
+**Bioguide ID:** `J000298`
+**FEC candidate ID:** `H6WA07458`
+
+**Total received:** $1,548,482
+**Tracked donors:** 0 edges in the canonical store
+
+#### Committees
+
+- Judiciary (Antitrust Subcommittee — former Chair)
+- Budget
+
+#### Top donors (from frontmatter)
+
+- SEIU — Service Employees International Union
+- CNA / National Nurses United
+- Small-dollar individual donors (ActBlue)
+- Education sector (teachers' unions)
+
+_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- auto:data-panel end -->
+
 #pramila-jayapal #democrat #washington #house #progressive-caucus #medicare-for-all #immigration #labor #tech #seattle #antitrust
 
 ---
@@ -68,9 +97,9 @@ SORT title ASC
 
 ## Who She Is
 
-Pramila Jayapal. Democrat, Washington's 7th District (Seattle and surrounding areas). Chair of the Congressional Progressive Caucus 2021–2024, the largest ideological caucus in the Democratic Party, with 100+ members. Before Congress, Jayapal was a community organizer and immigrant rights activist who founded OneAmerica, the largest immigrant advocacy organization in Washington State. Elected to Congress in 2016.
+Pramila Jayapal. Democrat, Washington's 7th District (Seattle and surrounding areas). Chair of the Congressional Progressive Caucus 2021–2024 — the largest ideological caucus in the Democratic Party, with 100+ members. Before Congress, Jayapal was a community organizer and immigrant rights activist who founded OneAmerica, the largest immigrant advocacy organization in Washington State. Elected to Congress in 2016.
 
-Jayapal's political identity is built on three pillars: immigrant rights, Medicare for All, and progressive economic policy. She is the lead House sponsor of the Medicare for All Act, which has achieved record cosponsor counts in each reintroduction cycle. She used her two terms as CPC chair to attempt, and ultimately fail, to leverage progressive caucus votes into structural policy wins during the Biden era.
+Jayapal's political identity is built on three pillars: immigrant rights, Medicare for All, and progressive economic policy. She is the lead House sponsor of the Medicare for All Act, which has achieved record cosponsor counts in each reintroduction cycle. She used her two terms as CPC chair to attempt — and ultimately fail — to leverage progressive caucus votes into structural policy wins during the Biden era.
 
 Her district presents a structural tension that defines her entire tenure: WA-7 is home to Amazon's global headquarters and Microsoft's Redmond campus. Jayapal has been one of Congress's most aggressive antitrust voices against Big Tech while representing the workers and communities where Big Tech's power is most concentrated.
 
@@ -78,7 +107,7 @@ Her district presents a structural tension that defines her entire tenure: WA-7 
 
 ## The Central Thesis
 
-**Jayapal represents the progressive wing's structural challenge: the CPC has enough numerical power to block any bill that Democratic leadership wants to pass, but has never successfully sustained that leverage when party leadership applies direct pressure.** The Build Back Better negotiations (2021) were the defining test: Jayapal explicitly threatened to block the bipartisan infrastructure bill until it was linked to the $3.5T social spending package. The caucus held for months. When Pelosi, Biden, and centrist senators applied maximum pressure, the CPC delinked the bills, infrastructure passed alone, and BBB was cut from $3.5T to $1.75T, with progressive priorities as the first casualties.
+**Jayapal represents the progressive wing's structural challenge: the CPC has enough numerical power to block any bill that Democratic leadership wants to pass, but has never successfully sustained that leverage when party leadership applies direct pressure.** The Build Back Better negotiations (2021) were the defining test: Jayapal explicitly threatened to block the bipartisan infrastructure bill until it was linked to the $3.5T social spending package. The caucus held for months. When Pelosi, Biden, and centrist senators applied maximum pressure, the CPC delinked the bills, infrastructure passed alone, and BBB was cut from $3.5T to $1.75T — with progressive priorities as the first casualties.
 
 The lesson: progressive caucus leverage is real in theory and paper-thin in practice. The caucus cannot sustain pressure against its own party's institutional priorities because its members ultimately depend on the same party apparatus for committee assignments, DCCC resources, and electoral infrastructure that leadership controls.
 
@@ -91,7 +120,7 @@ The lesson: progressive caucus leverage is real in theory and paper-thin in prac
 
 ---
 
-### The BBB Leverage Failure, 2021
+### The BBB Leverage Failure — 2021
 
 The Build Back Better negotiations documented the CPC leverage failure in real time:
 
@@ -99,10 +128,10 @@ The Build Back Better negotiations documented the CPC leverage failure in real t
 |------|-------|--------------|
 | June 2021 | Bipartisan infrastructure framework announced | $1.2T physical infrastructure, no social spending |
 | July 2021 | Jayapal leads CPC pledge: won't vote for infrastructure without BBB | First leverage declaration |
-| Aug 2021 | 96 House progressives sign letter linking the two bills | Leverage at peak, appears credible |
+| Aug 2021 | 96 House progressives sign letter linking the two bills | Leverage at peak — appears credible |
 | Sep 2021 | CPC holds firm through multiple Pelosi attempts to move infrastructure | Leverage holds |
 | Oct 2021 | Biden visits CPC members, applies direct pressure | Pressure begins |
-| Nov 5, 2021 | Infrastructure bill passes. CPC delinks, progressive votes provided | Leverage surrenders |
+| Nov 5, 2021 | Infrastructure bill passes — CPC delinks, progressive votes provided | Leverage surrenders |
 | Dec 2021 | BBB cut from $3.5T to $1.75T by Manchin/Sinema | Progressive priorities stripped |
 | 2022 | Inflation Reduction Act passes at $369B climate + $64B ACA | Structural climate investment, no healthcare expansion |
 
@@ -113,7 +142,7 @@ The Build Back Better negotiations documented the CPC leverage failure in real t
 
 ## Donor Class Map
 
-Jayapal's fundraising is genuinely distinct from most House Democrats, small-dollar donations constitute a larger share than PAC money, and her top organizational donors are labor unions:
+Jayapal's fundraising is genuinely distinct from most House Democrats — small-dollar donations constitute a larger share than PAC money, and her top organizational donors are labor unions:
 
 | Sector | Key Donors | What They Want | What They Get |
 |--------|-----------|---------------|---------------|
@@ -127,13 +156,13 @@ Jayapal's fundraising is genuinely distinct from most House Democrats, small-dol
 - Small individual contributions (under $200): 26.23%
 - PAC contributions: 14.95%
 
-The higher PAC share than Omar (10%) but lower than most committee members reflects her Progressive Caucus leadership role, she attracts labor PAC money without significant financial industry PAC dependence.
+The higher PAC share than Omar (10%) but lower than most committee members reflects her Progressive Caucus leadership role — she attracts labor PAC money without significant financial industry PAC dependence.
 
 **Controversy:** In 2024, Jayapal returned $40,000+ in donations from Neville Roy Singham (Thoughtworks founder) and his wife Jodie Evans (Code Pink co-founder) after reporting revealed Singham's ties to Chinese government propaganda operations. ($17,800 from Singham, $22,900 from Evans, dating back to 2016.) The episode illustrates the due diligence gap in even well-intentioned progressive campaigns.
 
 ---
 
-### Medicare for All. Legislative History
+### Medicare for All — Legislative History
 
 Jayapal's signature legislative project: lead House sponsor of the Medicare for All Act across multiple Congresses.
 
@@ -144,19 +173,19 @@ Jayapal's signature legislative project: lead House sponsor of the Medicare for 
 | 118th (2023) | H.R. 3421 | 100+ | Committee, no floor vote |
 | 119th (2025) | H.R. 3069 | 111 (52.1% of House Dems) | Committee, pending |
 
-The Medicare for All Act has never received a floor vote. Pharmaceutical industry, insurance industry, and hospital industry lobby expenditures against any single-payer proposal in each Congress have consistently exceeded $100M combined. 52.1% of House Democrats publicly supporting the bill is an organizational achievement that means nothing without a floor vote. Floor votes on single-payer require Ways and Means and Energy and Commerce committee advancement, both committees are donor-targeted by the healthcare industry.
+The Medicare for All Act has never received a floor vote. Pharmaceutical industry, insurance industry, and hospital industry lobby expenditures against any single-payer proposal in each Congress have consistently exceeded $100M combined. 52.1% of House Democrats publicly supporting the bill is an organizational achievement that means nothing without a floor vote. Floor votes on single-payer require Ways and Means and Energy and Commerce committee advancement — both committees are donor-targeted by the healthcare industry.
 
 ---
 
-### Amazon Antitrust. The District Contradiction
+### Amazon Antitrust — The District Contradiction
 
 Jayapal has been one of Congress's most aggressive antitrust voices on Big Tech:
 
 - Grilled Jeff Bezos directly in the 2020 House Judiciary antitrust hearing over Amazon's alleged use of third-party seller data to develop competing products.
-- Sponsored the Ending Platform Monopolies Act, would authorize the government to force the Big Four tech firms to divest lines of business deemed conflicts of interest.
+- Sponsored the Ending Platform Monopolies Act — would authorize the government to force the Big Four tech firms to divest lines of business deemed conflicts of interest.
 - Called on Bezos to testify after Amazon allegedly misled Congress about its seller surveillance practices.
 
-The contradiction: Amazon's Seattle headquarters employs tens of thousands of Jayapal's constituents. Microsoft's Redmond campus is in her district's orbit. Microsoft has donated over $169,000 to her career campaigns. She has not targeted Microsoft in her antitrust work, the Ending Platform Monopolies Act's initial framing focused on Amazon, Google, Apple, and Facebook, with Microsoft initially positioned as potentially exempt.
+The contradiction: Amazon's Seattle headquarters employs tens of thousands of Jayapal's constituents. Microsoft's Redmond campus is in her district's orbit. Microsoft has donated over $169,000 to her career campaigns. She has not targeted Microsoft in her antitrust work — the Ending Platform Monopolies Act's initial framing focused on Amazon, Google, Apple, and Facebook, with Microsoft initially positioned as potentially exempt.
 
 This is the clearest donor-class tension in her record: genuine antitrust aggression against Amazon paired with institutional accommodation of Microsoft, while both are geographically embedded in her constituency. The class analysis question: is her antitrust work structural reform or selective pressure that preserves the largest donor's position?
 
@@ -180,24 +209,24 @@ Jayapal proves that even a well-funded progressive operating on a labor-and-gras
 
 **Genuine Win + Structural Limit (BBB):** The CPC successfully forced progressive provisions into the BBB framework. When it was cut, those provisions were the first removed. The progressive caucus won the fight; the donor class won the cuts.
 
-**Selective Antitrust:** Jayapal's Big Tech antitrust aggression is real and documented. It is also strategically calibrated, aggressive toward platforms that compete with progressive constituent interests (Amazon's labor practices, Google's monopoly) while producing less institutional pressure on Microsoft (largest career donor, different business model, fewer direct labor conflicts with Seattle workers).
+**Selective Antitrust:** Jayapal's Big Tech antitrust aggression is real and documented. It is also strategically calibrated — aggressive toward platforms that compete with progressive constituent interests (Amazon's labor practices, Google's monopoly) while producing less institutional pressure on Microsoft (largest career donor, different business model, fewer direct labor conflicts with Seattle workers).
 
 ---
 
 ## Rhetorical Signature Moves
 
 - **"Medicare for All is not a fringe position":** Deploys cosponsor counts as legitimacy evidence while avoiding the structural question of why majority-supported policy never gets a floor vote.
-- **Immigrant Rights as Embodied Authority:** As the first South Asian woman elected to Congress and a naturalized citizen, Jayapal deploys biographical authority on immigration policy, making personal narrative a rhetorical shield against "special interest" framing.
-- **Progressive Caucus as Power Framing:** Consistently describes CPC as the "largest caucus in the Democratic Party", emphasizing size as leverage potential while the actual leverage record is one of consistent capitulation to party leadership.
+- **Immigrant Rights as Embodied Authority:** As the first South Asian woman elected to Congress and a naturalized citizen, Jayapal deploys biographical authority on immigration policy — making personal narrative a rhetorical shield against "special interest" framing.
+- **Progressive Caucus as Power Framing:** Consistently describes CPC as the "largest caucus in the Democratic Party" — emphasizing size as leverage potential while the actual leverage record is one of consistent capitulation to party leadership.
 
 ---
 
 ## Sources
 
-- [FEC Candidate: Pramila Jayapal campaign finance summary](https://www.fec.gov/data/candidate/H6WA07458/) (Tier 1) (VERIFIED)
+- {{src:src_005955}} (Tier 1) (VERIFIED)
 - [Congress.gov: Pramila Jayapal member profile](https://www.congress.gov/member/pramila-jayapal/J000298) (Tier 1) (VERIFIED)
-- ~~[Congress.gov: Medicare for All Act H.R. 3421 (118th)](https://www.congress.gov/bill/118th-congress/house-bill/3421)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
-- [FEC: Jayapal candidate overview](https://www.fec.gov/data/candidate/H6WA07458/) (Tier 1) (VERIFIED)
+- ~~[Congress.gov: Medicare for All Act H.R. 3421 (118th)](https://www.congress.gov/bill/118th-congress/house-bill/3421)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- {{src:src_005955}} (Tier 1) (VERIFIED)
 - [The Intercept: Jayapal Defends Breaking From Progressives' Two-Track Strategy on Build Back Better](https://theintercept.com/2021/12/20/build-back-better-manchin-democrats/) (Tier 2) (VERIFIED)
 - [Seattle Times: Jayapal takes on tech giants antitrust bill](https://www.seattletimes.com/seattle-news/politics/break-up-amazon-seattle-congresswoman-pramila-jayapal-sponsors-bill-taking-on-tech-giants/) (Tier 2) (VERIFIED)
 - [Seattle Times: Bezos grilled by Jayapal in antitrust panel](https://www.seattletimes.com/business/amazons-jeff-bezos-and-ceos-of-other-tech-giants-testifying-before-house-panel-come-under-fire-over-market-power/) (Tier 2) (VERIFIED)
@@ -237,7 +266,7 @@ Jayapal proves that even a well-funded progressive operating on a labor-and-gras
 | PLANNED PARENTHOOD VOTES NORTHWEST | $19,132 | $0 |
 | ONEAMERICA VOTES | $9,956 | $0 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H6WA07458/) (Tier 1) (VERIFIED)
+- {{src:src_005955}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ### Legislative Activity (Congress.gov)

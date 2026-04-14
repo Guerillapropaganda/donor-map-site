@@ -100,7 +100,7 @@ The political class that benefits from government dysfunction has found its perf
 
 ### Sources
 
-- [FEC Candidate: MTG campaign finance summary](https://www.fec.gov/data/candidate/H0GA06192/) (Tier 1) (VERIFIED)
+- {{src:src_004351}} (Tier 1) (VERIFIED)
 - [OpenSecrets: MTG controversy-fueled fundraising trail](https://www.opensecrets.org/news/2025/12/marjorie-taylor-greene-heads-for-the-exit-having-blazed-a-controversy-fueled-fundraising-trail/) (Tier 1) (VERIFIED)
 - [ProPublica: How MTG juiced her fundraising numbers](https://www.propublica.org/article/how-josh-hawley-and-marjorie-taylor-greene-juiced-their-fundraising-numbers) (Tier 2) (VERIFIED)
 - [NOTUS: MTG was bleeding cash, then went after Mike Johnson](https://www.notus.org/georgia/marjorie-taylor-greene-fundraising) (Tier 2) (VERIFIED)

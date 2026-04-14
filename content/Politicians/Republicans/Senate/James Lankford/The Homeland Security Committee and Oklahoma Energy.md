@@ -21,9 +21,9 @@ donors: [[Koch Industries]] [[ConocoPhillips]]
 
 ### The Border Deal Casualty
 
-James Lankford serves on Homeland Security, Finance, and Energy committees. His most significant legislative moment, and most revealing political episode, was the bipartisan border security deal he negotiated with Democrat Chris Murphy and independent Kyrsten Sinema in late 2023-early 2024.
+James Lankford serves on Homeland Security, Finance, and Energy committees. His most significant legislative moment — and most revealing political episode — was the bipartisan border security deal he negotiated with Democrat Chris Murphy and independent Kyrsten Sinema in late 2023-early 2024.
 
-Lankford spent months negotiating the most conservative border security package any Democratic president had endorsed: $20 billion in border funding, new authority to close the border during surges, faster asylum processing, and expedited deportation. The bill represented a genuine policy win for border hawks. Then Donald Trump killed it with a single social media post, demanding Republicans reject the deal to preserve immigration as a 2024 campaign issue. Lankford, a loyal conservative with a 90%+ Trump-alignment voting record, was publicly humiliated by his own party for doing exactly what they'd asked him to do.
+Lankford spent months negotiating the most conservative border security package any Democratic president had endorsed: $20 billion in border funding, new authority to close the border during surges, faster asylum processing, and expedited deportation. The bill represented a genuine policy win for border hawks. Then Donald Trump killed it with a single social media post, demanding Republicans reject the deal to preserve immigration as a 2024 campaign issue. Lankford — a loyal conservative with a 90%+ Trump-alignment voting record — was publicly humiliated by his own party for doing exactly what they'd asked him to do.
 
 ---
 
@@ -38,7 +38,7 @@ Oklahoma is an oil and gas state. ConocoPhillips, Devon Energy, and Continental 
 
 ### Sources
 
-- ~~[Congress.gov: James Lankford member profile](https://www.congress.gov/member/james-lankford/L000575)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
-- [FEC Candidate: James Lankford campaign finance summary](https://www.fec.gov/data/candidate/S4OK00232/) (Tier 1) (VERIFIED)
+- ~~[Congress.gov: James Lankford member profile](https://www.congress.gov/member/james-lankford/L000575)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- {{src:src_003602}} (Tier 1) (VERIFIED)
 - [Ballotpedia: James Lankford](https://ballotpedia.org/James_Lankford) (Tier 3) (VERIFIED)
 

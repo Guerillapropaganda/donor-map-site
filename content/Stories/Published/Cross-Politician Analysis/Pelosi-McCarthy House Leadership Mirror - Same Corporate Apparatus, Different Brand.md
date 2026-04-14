@@ -118,9 +118,9 @@ Pelosi did not save McCarthy when Gaetz moved to vacate. Democrats voted with Ga
 - [NPR: House Approves Defense Bill by Veto-Proof Margin, Despite President Trump's Threats](https://www.npr.org/2020/12/08/944263124/house-approves-defense-bill-by-veto-proof-margin-despite-president-trumps-threat) (Tier 2) (VERIFIED) (Chrome verified 2026-03-27)
 - [Benzinga: Congress Members Invest in Defense Stocks as Middle East Tensions Mount: How Pelosi, Gottheimer, Hern and Others Could Benefit](https://www.benzinga.com/general/politics/24/04/38254235/congress-members-invest-in-defense-stocks-as-middle-east-tensions-mount-how-pelosi-gottheimer-he) (Tier 3) (VERIFIED) (Chrome verified 2026-03-27)
 - [Read Sludge: Congressional Leaders Are Embracing Dark Money Like Never Before](https://readsludge.com/2023/03/01/congressional-leaders-are-embracing-dark-money-like-never-before/) (Tier 2) (VERIFIED) (Chrome verified 2026-03-27)
-- [FEC Candidate: Kevin McCarthy Campaign Finance Summary](https://www.fec.gov/data/candidate/H6CA22125/) (Tier 1) (VERIFIED) (Chrome verified 2026-03-27)
-- [FEC Candidate: Nancy Pelosi Campaign Finance Summary](https://www.fec.gov/data/candidate/H8CA05035/) (Tier 1) (VERIFIED) (Chrome verified 2026-03-27)
-- [FEC: Congressional Leadership Fund SuperPAC filings](https://www.fec.gov/data/committee/C00504530/) (Tier 1) (VERIFIED) (Chrome verified 2026-03-27, corrected committee ID from C00573519 to C00504530)
+- {{src:src_001500}} (Tier 1) (VERIFIED) (Chrome verified 2026-03-27)
+- {{src:src_001501}} (Tier 1) (VERIFIED) (Chrome verified 2026-03-27)
+- {{src:src_001502}} (Tier 1) (VERIFIED) (Chrome verified 2026-03-27, corrected committee ID from C00573519 to C00504530)
 - [Federal Times: Defense Contractors Donate Millions to Election Deniers](https://www.federaltimes.com/federal-oversight/congress/2022/11/02/defense-contractors-donate-millions-to-election-denying-lawmakers/) (Tier 2) (VERIFIED) (Chrome verified 2026-03-27)
 - ~~[The Hill: Lawmakers Furious at Democratic Leaders After Stock Trading Ban Stalls](https://thehill.com/blogs/blog-briefing-room/news/3669259-lawmakers-furious-at-pelosi-after-stock-trading-ban-stalls/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2) (Chrome verified 2026-03-27)
 

@@ -108,10 +108,10 @@ The class function Markey performs: legitimize achievable progressive policy (IR
 
 ### Sources
 
-- [FEC Candidate: Ed Markey donor profile summary](https://www.fec.gov/data/candidate/H6MA07101/) (Tier 1) (VERIFIED)
-- [FEC Candidate: Ed Markey top industries (career)](https://www.fec.gov/data/candidate/H6MA07101/) (Tier 1) (VERIFIED)
-- [FEC Candidate: Ed Markey top contributors (career)](https://www.fec.gov/data/candidate/H6MA07101/) (Tier 1) (VERIFIED)
-- ~~[Congress.gov: Green New Deal resolution (H.Res. 109, 116th Congress)](https://www.congress.gov/bill/116th-congress/house-resolution/109)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- {{src:src_005450}} (Tier 1) (VERIFIED)
+- {{src:src_005450}} (Tier 1) (VERIFIED)
+- {{src:src_005450}} (Tier 1) (VERIFIED)
+- ~~[Congress.gov: Green New Deal resolution (H.Res. 109, 116th Congress)](https://www.congress.gov/bill/116th-congress/house-resolution/109)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - [Senator Markey official: Telecommunications, the Internet & Privacy priorities](https://www.markey.senate.gov/priorities/telecommunications-the-internet-and-privacy) (Tier 1) (VERIFIED)
 - [WBUR: Markey's Top Legislative Accomplishment, Largely Unexamined In Senate Race, Yields Mixed Results](https://www.wbur.org/news/2013/06/24/markey-telecommunications-act) (Tier 2) (VERIFIED)
 - [The Call: How the Green New Deal Became the Inflation Reduction Act and Lost Its Soul](https://socialistcall.com/2022/08/17/green-new-deal-inflation-reduction-act/) (Tier 3) (VERIFIED)

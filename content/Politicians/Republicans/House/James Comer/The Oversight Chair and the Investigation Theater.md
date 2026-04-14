@@ -44,9 +44,9 @@ Comer's investigative approach is pure Villain Framing: identify an external thr
 
 ### Sources
 
-- ~~[Congress.gov: James Comer member profile](https://www.congress.gov/member/james-comer/C001108)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
-- [FEC Candidate: James Comer campaign finance summary](https://www.fec.gov/data/candidate/H6KY01110/) (Tier 1) (VERIFIED)
+- ~~[Congress.gov: James Comer member profile](https://www.congress.gov/member/james-comer/C001108)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- {{src:src_004442}} (Tier 1) (VERIFIED)
 - [Washington Post: Here's how dishonest James Comer's Biden allegations are](https://www.washingtonpost.com/politics/2023/12/14/biden-impeachment-inquiry-comer-evidence/) (Tier 2) (VERIFIED)
-- ~~[CNN: Comer investigation timeline and findings](https://web.archive.org/web/2024/https:/www.cnn.com/politics/comer-biden-investigation/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[CNN: Comer investigation timeline and findings](https://web.archive.org/web/2024/https:/www.cnn.com/politics/comer-biden-investigation/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 - [Ballotpedia: James Comer](https://ballotpedia.org/James_Comer_(Kentucky) (VERIFIED)) (Tier 3)
 

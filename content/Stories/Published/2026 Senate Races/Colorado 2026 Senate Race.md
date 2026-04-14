@@ -95,7 +95,7 @@ Hickenlooper's small-dollar base ($25 or less = ~80% of donations) is extraordin
 - [Colorado Politics: Hickenlooper raises $1.5M+ in Q2](https://www.coloradopolitics.com/2025/07/14/colorado-democrat-john-hickenloopers-us-senate-campaign-raises-over-1-5-million-in-latest-quarter-c3b279a9-f27f-4308-8ebd-dc6bb6b87523/) (Tier 2) (VERIFIED)
 - [Hickenlooper for U.S. Senate: Q3 fundraising report](https://hickenlooper.com/hickenlooper-reports-strongest-fundraising-quarter-of-2025-raises-1-7-million-in-q3/) (Tier 2) (VERIFIED)
 - [Hickenlooper for U.S. Senate: Q4 fundraising and year-end report](https://hickenlooper.com/hickenlooper-raises-1-1-million-in-q4-2025-finishes-year-with-3-8-million-on-hand/) (Tier 2) (VERIFIED)
-- [FEC: John Hickenlooper candidate page](https://www.fec.gov/data/candidate/S0CO00575/) (Tier 1) (VERIFIED)
+- {{src:src_001920}} (Tier 1) (VERIFIED)
 
 ---
 

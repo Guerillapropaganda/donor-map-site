@@ -4,8 +4,10 @@ You are **Code Claude** — you build, style, and deploy thedonormap.org. Editor
 
 ## First Steps Every Session
 1. Read `content/Session State.md` — what happened last, what's next
-2. Read `content/Vault Rules.md` if you need rules (source tiers, readiness, scope boundaries)
-3. Update Session State when you finish work
+2. Read `content/Build Phases.md` — identify the current build phase (query engine + source registry + class tags migration is in flight as of 2026-04-14, ADR-0003)
+3. Read `content/Phases/phase-{current}/handoff.md` — pick up exactly where the last session left off
+4. Read `content/Vault Rules.md` if you need rules (source tiers, readiness, scope boundaries)
+5. Update Session State + current phase handoff at end of session
 
 ## Shared Rules
 
@@ -49,6 +51,73 @@ The entries are re-ranked by `leverage ÷ cost_min`, with blocking-bucket items 
 `scripts/attention-dispatcher.cjs` runs all 5 producers on a schedule (30 min to 2 hr cadences). Serialized queue prevents vault contention. Top-level `uncaughtException` guards and a 60-sec per-producer timeout make it daemon-safe. Log rotates at 1MB. Set `HEALTHCHECKS_PING_URL` env var to get external "is it still running" monitoring.
 
 Full docs for every script above are in the ops app at `/scripts` (categories: **Intelligence / Attention Queue** and **Pre-Commit Gates**). That's the single source of truth for "what scripts exist and when do they run" — Claude should reference that page rather than guessing.
+
+## Query Engine & Source Registry (Build complete as of ADR-0008 — 2026-04-14)
+
+The Donor Map's 8-phase query engine build from ADR-0003 is **architecturally complete**. All phases shipped; Phase 6 hardening closed the build under ADR-0008 on 2026-04-14. Ongoing work is maintenance: triage of 267 deferred items, approval of 346 class tag proposals, Stripe activation, post-launch benchmarks.
+
+**"Architecturally complete" ≠ "publication ready."** Before any profile / policy page / story goes on a public URL, it passes `scripts/publication-readiness-check.cjs` and the `content/Checklists/pre-publication.md` gate. The default is under-construction gating; public exposure is an explicit opt-in per route.
+
+**Session start (in addition to preflight):**
+- Read `content/Build Phases.md` to identify current phase
+- Read `content/Phases/phase-{N}/handoff.md` for the exact next action
+- Read `content/Phases/phase-{N}/decisions.md` for mid-phase choices made by prior sessions
+- Read `content/Class Tag Vocabulary.md` if touching entity tagging
+- Read `content/Monetization Model.md` if touching any `/api/*` route (auth implications)
+
+**Core rules:**
+1. **Database is canonical. Profiles are renderings.** Structured data lives in `data/*.jsonl`. Profile bodies render on top of structured facts; they're not the source of truth for anything queryable.
+2. **AI translates facts, never generates them.** Every factual claim must trace to a source record. AI is allowed to explain, summarize, synthesize — never assert a new fact.
+3. **Class analysis is the editorial lens.** Vocabulary locked in ADR-0001. Changes require a new ADR + migration pass.
+4. **Phase discipline — no skipping.** Use the `phase-transition` skill to advance phases. Never skip from Phase N to Phase N+2.
+5. **Source registry is authoritative** for every citation. Pipelines write to `data/sources.jsonl` first via `scripts/lib/sources-store.cjs`, then reference by ID.
+6. **Every new `/api/*` route defaults to auth-gated** via the tier-check middleware (lands in Phase 2.5). Opting out requires an explicit `public = true` export with ADR justification.
+7. **Editorial narrative layer stays.** Homepage stories are the marketing funnel for the paid tier. "System not blog" describes the backend; the reader experience remains narrative.
+8. **Vault on GitHub stays open-source.** Paid value is freshness + tooling + ongoing maintenance labor, not the facts themselves.
+9. **Architecturally complete ≠ publication ready.** Building a feature into the codebase does not make its output publishable. Every public-facing profile, policy page, or story passes `scripts/publication-readiness-check.cjs` and the `content/Checklists/pre-publication.md` gate before it's exposed on a live URL. Under-construction gating is the default; explicit opt-in per route.
+10. **Canonical stores are the write path. Frontmatter fields are read-caches.** The 8 canonical JSONL stores (`sources`, `relationships`, `entities`, `events`, `policies`, `polling`, `users`, `claims/*`) are the single source of truth for structured data. Never hand-edit frontmatter `related`, `donors`, `top-donors`, `politicians-funded`, `opposes`, `stories` fields — they're rebuilt from `data/relationships.jsonl`. The `canonical-store-sentinel.cjs` pre-commit hook enforces this: any commit touching those fields must also touch `data/relationships.jsonl` or a rebuilder script.
+11. **Class tag approval gate.** A profile cannot be promoted to `content-readiness: verified` if any entity it cites has class tags in `status: proposed`. All cited entities must be `status: approved` by David first. The publication-readiness check enforces this automatically.
+12. **Claim-object vs prose decision rule.** When adding a new profile: if the subject is a politician or named donor being scrutinized factually, use the claim-object pattern (`data/claims/{slug}.jsonl` + synthesis.md). For thematic essays, policy explainers, or investigative narratives, use prose with `editor-vouched: true`. Never mix — a profile is one or the other. AOC at `content/Politicians/Democrat/House/AOC/Master Profile.md` + `data/claims/aoc.jsonl` is the claim-object reference implementation.
+13. **Perplexity-first research protocol.** Before building any new pipeline, proposing new class_tag categories, calibrating the story scorer, or investigating legal precedent patterns, check `content/Admin Notes/perplexity-prompt-library.md` for a matching template and route the research through David via Perplexity. Don't start blind. This already applies to pipelines (Pipeline Research Protocol); rule 13 extends it to class tags, story calibration, and legal patterns.
+
+### Source Registry Discipline (Phase 1 — live since 2026-04-14)
+
+- **Sources are records in `data/sources.jsonl`**, not markdown links in profile bodies. Profile source lines use `{{src:ID}}` refs that resolve at build time via `quartz/plugins/transformers/source-refs.ts`.
+- **Pipelines write through the registry first.** Import `scripts/lib/sources-store.cjs`, call `addOrFindSource({url, tier, source_type, entity_ref, ...})`, receive a source ID, then reference that ID in profile markdown or structured data. Never embed raw URLs from pipeline output directly into profile bodies.
+- **URL fixing remains Editor-only (David).** Both Claudes flag broken/suspicious sources to the Ops `/sources` review page — never auto-substitute a URL.
+- **Content hash fingerprinting catches orphan citations.** A 200 OK response doesn't mean the citation is valid. If a source has `status: generic_orphan`, treat it as broken until David triages it. Use `scripts/sources-fingerprint.cjs` to re-check.
+- **Status enum (locked):** `unverified`, `live`, `dead`, `redirected`, `generic_orphan`, `archived`, `needs_review`, `paywall`. Defined in `scripts/lib/sources-schema.cjs`.
+- **The Ops `/sources` review page** (`ops/src/app/sources/page.tsx`) is David's triage surface. API is at `/api/source-registry` (renamed from `/api/sources` to avoid collision with the pre-existing Source Hunter feature at `/api/sources`). The `/api/source-registry` route supports GET (query with filters) and PATCH (per-record status update).
+- **When migrating a raw-URL pipeline to the registry**, write an in-repo migration script (`scripts/migrate-X-citations-to-refs.cjs`) that walks the vault, registers each URL via sources-store, and rewrites citation lines to `{{src:ID}}` refs. The FEC pipeline migration (`scripts/migrate-fec-citations-to-refs.cjs`) is the reference implementation: 907 citations across 456 profiles, verified end-to-end via `npx quartz build`.
+
+### Decision Log (ADRs)
+
+Architecture decisions live in `content/Decisions/NNNN-slug.md` as ADRs. Sequential zero-padded numbering.
+
+**Write a new ADR when:**
+- New top-level folder or schema
+- Build phase structure changes
+- Monetization tier changes
+- Class tag vocabulary changes
+- Auth / rate limit architecture changes
+- Any decision that affects multiple files and multiple future sessions
+
+**ADR format:** context → options → decision → rationale → consequences → closes → opens. Never edit old ADRs to reverse their decisions; write a new ADR that supersedes them.
+
+**Active ADRs as of 2026-04-14:**
+- ADR-0001: Class Tag Vocabulary (locked 5-dimension schema)
+- ADR-0002: Monetization Model (facts free, tools paid)
+- ADR-0003: Phased Query Engine Build (8 phases) — **closed by ADR-0008**
+- ADR-0004: Phase 2.75 Policy Battles (first user-facing product)
+- ADR-0005: Phase 6 Bug Hunt / Hardening (scope for Phase 6)
+- ADR-0006: Phase 1 Shipped (transition log)
+- ADR-0007: Phase 4 Claim-Object Experiment
+- ADR-0008: Query Engine Build Complete (closes ADR-0003)
+
+**Active checklists** (load-bearing, skipping produces real incidents):
+- [Pre-Publication](content/Checklists/pre-publication.md) — before any public URL exposure
+- [New Data Store](content/Checklists/new-data-store.md) — before adding a canonical JSONL store
+- [New Pipeline](content/Checklists/new-pipeline.md) — before building a new external-API ingest pipeline
 
 ## Code Claude Autonomy Directive
 

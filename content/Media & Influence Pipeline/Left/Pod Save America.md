@@ -24,7 +24,7 @@ related: "[[George Soros]] · [[Hollywood Democratic Donor Network]] · [[Democr
 
 The podcast hosts (Favreau, Vietor, Lovett, Pfeiffer) do not individually file FEC contributions; their political fundraising operates through the Vote Save America PAC as the structural vehicle. This is analytically distinct from other media figures in this vault: their personal campaign finance is not reportable as individual contributions, it is mobilized collectively through the PAC, which raises money from listeners and distributes it directly to Democratic candidates.
 
-- [FEC: Vote Save America PAC (C00835587). Committee Overview](https://www.fec.gov/data/committee/C00835587/) (Tier 1) (VERIFIED)
+- {{src:src_001493}} (Tier 1) (VERIFIED)
 - [OpenSecrets: Vote Save America PAC Profile](https://www.opensecrets.org/political-action-committees-pacs/vote-save-america/C00835587/summary/2024) (Tier 1) (VERIFIED)
 
 > **Note on FEC structure:** Pod Save America is a media organization, not individual contributors. The hosts' political giving operates through their affiliated PAC (Vote Save America) rather than personal FEC filings. Individual host contributions are not separately reportable, they operate as a unified political entity through the PAC. No individual FEC records exist to disambiguate; the PAC itself is the organizational vehicle.
@@ -163,7 +163,7 @@ The union fight crystallizes the class analysis. A company that mobilizes millio
 - [WGA East: Members at Crooked Media walk out after more than a year of contract negotiations](https://www.wgaeast.org/26481-2/) (Tier 2) (VERIFIED)
 - [Hollywood Reporter: Crooked Media union members stage walkout over contract negotiations](https://www.hollywoodreporter.com/business/business-news/crooked-media-union-members-walkout-contract-negotiations-1235965973/) (Tier 2) (VERIFIED)
 - [OpenSecrets: PAC Profile. Vote Save America (C00835587)](https://www.opensecrets.org/political-action-committees-pacs/vote-save-america/C00835587/summary/2024) (Tier 1) (VERIFIED)
-- [FEC: VOTE SAVE AMERICA, committee overview (C00835587)](https://www.fec.gov/data/committee/C00835587/) (Tier 1) (VERIFIED)
+- {{src:src_001493}} (Tier 1) (VERIFIED)
 - [Wikipedia: Pod Save America](https://en.wikipedia.org/wiki/Pod_Save_America) (Tier 3) (VERIFIED)
 - [Wikipedia: Crooked Media](https://en.wikipedia.org/wiki/Crooked_Media) (Tier 3) (VERIFIED)
 - ~~[Wikipedia: Jon Favreau (speechwriter)](https://en.wikipedia.org/wiki/Jon_Favreau_(speechwriter)~~ (URL broken, archived by Ops)) (Tier 3)

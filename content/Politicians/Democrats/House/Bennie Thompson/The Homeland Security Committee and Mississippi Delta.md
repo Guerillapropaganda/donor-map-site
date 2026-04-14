@@ -19,9 +19,9 @@ donors: [[Lockheed Martin]] [[Northrop Grumman]]
 
 ### The Homeland Security Ranking Member
 
-Bennie Thompson served as chairman (2019-2023) and ranking member of the House Homeland Security Committee. His most prominent role was chairing the Select Committee to Investigate the January 6th Attack on the United States Capitol, the highest-profile congressional investigation since Watergate.
+Bennie Thompson served as chairman (2019-2023) and ranking member of the House Homeland Security Committee. His most prominent role was chairing the Select Committee to Investigate the January 6th Attack on the United States Capitol — the highest-profile congressional investigation since Watergate.
 
-Thompson represents Mississippi's 2nd District, the poorest congressional district in the country, encompassing the Mississippi Delta. The district is majority-Black, deeply impoverished, and structurally neglected by the state government. Thompson's Homeland Security jurisdiction creates an odd structural dynamic: he oversees a $60+ billion federal security apparatus while representing constituents whose primary security threats are poverty, healthcare deserts, and infrastructure collapse.
+Thompson represents Mississippi's 2nd District — the poorest congressional district in the country, encompassing the Mississippi Delta. The district is majority-Black, deeply impoverished, and structurally neglected by the state government. Thompson's Homeland Security jurisdiction creates an odd structural dynamic: he oversees a $60+ billion federal security apparatus while representing constituents whose primary security threats are poverty, healthcare deserts, and infrastructure collapse.
 
 ---
 
@@ -36,8 +36,8 @@ Thompson's chairmanship of the January 6th Committee produced 11 public hearings
 
 ### Sources
 
-- ~~[Congress.gov: Bennie Thompson member profile](https://www.congress.gov/member/bennie-thompson/T000193)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
-- [FEC Candidate: Bennie Thompson campaign finance summary](https://www.fec.gov/data/candidate/H4MS02068/) (Tier 1) (VERIFIED)
+- ~~[Congress.gov: Bennie Thompson member profile](https://www.congress.gov/member/bennie-thompson/T000193)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- {{src:src_006332}} (Tier 1) (VERIFIED)
 - [January 6th Committee: Final report](https://www.govinfo.gov/collection/january-6th-committee-final-report) (Tier 1) (VERIFIED)
 - [Ballotpedia: Bennie Thompson](https://ballotpedia.org/Bennie_Thompson) (Tier 3) (VERIFIED)
 

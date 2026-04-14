@@ -100,7 +100,7 @@ The contradiction: she claims to reject corporate influence while accepting bill
 ### Sources
 
 ### Tier 1: Primary & Government Sources
-- [FEC Candidate Profile: Juliana Stratton](https://www.fec.gov/data/candidate/S6IL00458/) (VERIFIED) (FEC.gov) (Tier 1)
+- {{src:src_005296}} (VERIFIED) (FEC.gov) (Tier 1)
 - Illinois Campaign Finance Tracker - State filings
 
 ### Tier 2: Major Journalism

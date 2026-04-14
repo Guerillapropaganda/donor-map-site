@@ -100,7 +100,7 @@ The DSCC is not a neutral fundraising channel. It's a filter that converts indep
 | Warnock out-of-state funding %age | 2021 | 73% | Dominance of national donor network | OpenSecrets (Tier 1) |
 
 ### Sources:
-- [FEC Candidate: Chuck Schumer contributor profile](https://www.fec.gov/data/candidate/H0NY16010/) (Tier 1) (VERIFIED)
+- {{src:src_001236}} (Tier 1) (VERIFIED)
 - [OpenSecrets: Goldman Sachs PAC recipients 2024](https://www.opensecrets.org/political-action-committees-pacs/goldman-sachs/C00350744/candidate-recipients/2024) (Tier 1) (VERIFIED)
 - [Center for Public Integrity: Schumer's road to the top greased by donations to colleagues](https://publicintegrity.org/politics/schumers-road-to-the-top-greased-by-donations-to-colleagues/) (Tier 2) (VERIFIED)
 
@@ -141,7 +141,7 @@ The 13 Democrats who voted NO:
 
 ### Sources:
 - [The Intercept: Cory Booker Joins Senate Republicans to Kill Drug Importation Measure](https://theintercept.com/2017/01/12/cory-booker-joins-senate-republicans-to-kill-measure-to-import-cheaper-medicine-from-canada/) (Tier 2) (VERIFIED)
-- [FEC Candidate: Cory Booker donor profile](https://www.fec.gov/data/candidate/P00009795/) (Tier 1) (VERIFIED)
+- {{src:src_001199}} (Tier 1) (VERIFIED)
 - [Senate Roll Call Vote 115-1-00020](https://www.senate.gov/legislative/LIS/roll_call_votes/vote1151/vote_115_1_00020.htm) (Tier 1) (VERIFIED)
 - [PolitiFact: Cory Booker and Drug Maker Campaign Cash](https://www.politifact.com/factchecks/2019/jul/02/donald-trump/cory-booker-and-drug-maker-campaign-cash-numbers/) (Tier 2) (VERIFIED)
 

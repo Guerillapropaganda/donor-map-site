@@ -216,8 +216,8 @@ The infrastructure was not a monolith. It thrived on tension between revolutiona
 ## Sources
 
 ### Verified
-- [FEC: Justice Democrats PAC committee page (C00630665)](https://www.fec.gov/data/committee/C00630665/) (Tier 1) (VERIFIED)
-- [FEC: Brand New Congress PAC committee page (C00613810)](https://www.fec.gov/data/committee/C00613810/) (Tier 1) (VERIFIED)
+- {{src:src_005834}} (Tier 1) (VERIFIED)
+- {{src:src_005835}} (Tier 1) (VERIFIED)
 - [FEC: Matter Under Review 7592 (Justice Democrats compliance)](https://www.fec.gov/legal-resources/enforcement/) (Tier 1) (VERIFIED)
 - ~~[ProPublica Nonprofit Explorer: Justice Democrats 527 (EIN 814909100)](https://projects.propublica.org/nonprofits/organizations/814909100)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - ~~[HuffPost: Cenk Uygur Steps Down from Justice Democrats (Dec 2017)](https://www.huffpost.com/entry/cenk-uygur-justice-democrats_n_5a3e4d40e4b0df0de8b064b3)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)

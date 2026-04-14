@@ -40,7 +40,7 @@ Cantwell's tech positions are industry-friendly: she supports immigration reform
 
 ### Sources
 
-- [FEC Candidate: Maria Cantwell donor profile](https://www.fec.gov/data/candidate/H2WA01054/) (Tier 1) (VERIFIED)
+- {{src:src_005258}} (Tier 1) (VERIFIED)
 - [Congress.gov: Maria Cantwell](https://www.congress.gov/member/maria-cantwell/C000127) (Tier 1) (VERIFIED)
 - [Ballotpedia: Maria Cantwell](https://ballotpedia.org/Maria_Cantwell) (Tier 3) (VERIFIED)
 

@@ -7,10 +7,10 @@ central-thesis: >-
   America. Despite being the Senate's most pro-labor voting record, highest
   AFL-CIO rating, strongest defense of trade protections for manufacturing
   workers, and deepest r...
-last-updated: 2026-04-14
+last-updated: '2026-04-14'
 source-tier: 1
 parent: null
-fec-candidate-id: "S6OH00163"
+fec-candidate-id: S6OH00163
 govtrack-id: 400050
 bills-sponsored: 897
 bills-cosponsored: 7312
@@ -36,11 +36,11 @@ editorial-review-date: '2026-04-08'
 editorial-reviewer: Research Claude
 editorial-result: block
 editorial-blockers:
-  - 'Bills 0/0 wrong , 18-year senator, needs re-enrichment with correct FEC ID'
+  - 'Bills 0/0 wrong — 18-year senator, needs re-enrichment with correct FEC ID'
   - No source-types computed
   - No last-enriched date
-  - No committee data , chaired Senate Banking Committee (needs enrichment)
-  - OpenSecrets URL present , must move to Archived per Vault Rules
+  - No committee data — chaired Senate Banking Committee (needs enrichment)
+  - OpenSecrets URL present — must move to Archived per Vault Rules
   - >-
     Body has duplicate related:/donors: fields outside frontmatter (cleanup
     needed)
@@ -72,7 +72,7 @@ total-raised: '$14,356,451'
 total-spent: '$4,456,809'
 cash-on-hand: '9899641.92'
 fec-cycle: 2026
-last-enriched: "2026-04-14"
+last-enriched: '2026-04-13'
 bioguide-id: B001313
 issues:
   - Agriculture and Food
@@ -85,7 +85,7 @@ issues:
   - Education
   - Finance and Financial Sector
   - Government Operations and Politics
-total-received: "$14,356,451"
+total-received: '$14,356,451'
 wikidata-id: Q381880
 wikipedia-url: 'https://en.wikipedia.org/wiki/Sherrod_Brown'
 wikipedia-extract: >-
@@ -103,13 +103,13 @@ donors: [[Teamsters - International Brotherhood of Teamsters]]
 
 ## Who They Are
 
-Sherrod Brown. U.S. Senator from Ohio (2007–2025). Former U.S. Representative (1993–2007). The last statewide Democrat to win in Ohio. Labor populist, trade skeptic, union ally, opponent of corporate consolidation, critic of China trade policies. His defeat in 2024 to crypto-backed Republican Bernie Moreno ended the era of Democratic viability in Ohio and exemplifies how donor-class capital can outspend labor movements 4-to-1 and win.
+Sherrod Brown. U.S. Senator from Ohio (2007–2025). Former U.S. Representative (1993–2007). The last statewide Democrat to win in Ohio. Labor populist — trade skeptic, union ally, opponent of corporate consolidation, critic of China trade policies. His defeat in 2024 to crypto-backed Republican Bernie Moreno ended the era of Democratic viability in Ohio and exemplifies how donor-class capital can outspend labor movements 4-to-1 and win.
 
-## Central Thesis. The Labor Populist Outspent by Crypto Capital
+## Central Thesis — The Labor Populist Outspent by Crypto Capital
 
-Brown represents the structural ceiling of labor-backed politics in post-2020 America. Despite being the Senate's most pro-labor voting record, highest AFL-CIO rating, strongest defense of trade protections for manufacturing workers, and deepest relationships with Ohio's union base, he was demolished by a coordinated crypto industry campaign that treated his seat as an industry test case. His loss proves: labor money cannot survive when billionaire industries decide a politician is an enemy. Brown's 18-year Senate tenure built a genuine working-class legislative record. His 2024 defeat, despite vastly outraising his opponent early in the cycle, reveals that campaign cash advantage means nothing when an entire industry sector decides to target you.
+Brown represents the structural ceiling of labor-backed politics in post-2020 America. Despite being the Senate's most pro-labor voting record, highest AFL-CIO rating, strongest defense of trade protections for manufacturing workers, and deepest relationships with Ohio's union base, he was demolished by a coordinated crypto industry campaign that treated his seat as an industry test case. His loss proves: labor money cannot survive when billionaire industries decide a politician is an enemy. Brown's 18-year Senate tenure built a genuine working-class legislative record. His 2024 defeat — despite vastly outraising his opponent early in the cycle — reveals that campaign cash advantage means nothing when an entire industry sector decides to target you.
 
-## Core Contradiction. Labor Champion Who Couldn't Win Elections
+## Core Contradiction — Labor Champion Who Couldn't Win Elections
 
 Brown achieved genuine legislative wins for workers: USMCA labor enforcement provisions (Brown-Wyden amendment), opposition to corporate trade deals, Senate Banking Committee work on manufacturing. Yet every win was constrained by institutional limits he couldn't transcend. While championing trade protections, he couldn't prevent deindustrialization. While defending union rights, he operated inside a Senate that served corporate interests. His 2024 loss reveals the real contradiction: labor movements cannot own politicians the way donors own them. Unions endorsed him. Crypto industries bought his opponent's campaign. Crypto won.
 
@@ -121,14 +121,14 @@ Brown achieved genuine legislative wins for workers: USMCA labor enforcement pro
 | Feb 2024 | Brown campaign fundraising advantage | $12M+ raised | Significant early cash advantage | Pre-defeat |
 | Aug–Nov 2024 | Crypto industry coordinated spending | $40M+ | Bernie Moreno campaign funded, attack ads in Ohio | 3 months → defeat |
 | Oct 2024 | Fairshake Super PAC anti-Brown spending | $25M+ (majority of crypto dollars) | Aggressive ad campaign against Brown's crypto-skeptical record | Final 4 weeks |
-| Nov 2024 | Election result |, | Brown loses by 3.5 points; Moreno (crypto-aligned) takes seat | 90 days |
+| Nov 2024 | Election result | — | Brown loses by 3.5 points; Moreno (crypto-aligned) takes seat | 90 days |
 
 > [!money]
 > **The disciplinary campaign:** Crypto industry's $40M against Sherrod Brown (vs. < $5M in most other 2024 Senate races) was an explicit demonstration project. Coinbase executives stated post-election: "We've shown that we can beat an incumbent senator." Brown's defeat wasn't about general 2024 Republican wave — it was donor-class targeting of a specific politician whose policy positions threatened a specific industry. This is what donor-class discipline looks like: identify threat, deploy capital, eliminate threat. Brown's labor credentials didn't protect him.
 
-### The Crypto Industry's Defeat. Disciplinary Campaign
+### The Crypto Industry's Defeat — Disciplinary Campaign
 
-Sherrod Brown became the nation's clearest case study in donor-class discipline over 2024–2025. His positions on crypto regulation were mainstream, supporting better oversight of digital assets, backing [[_Elizabeth Warren Master Profile|Elizabeth Warren]]'s calls for investigations into terror financing through crypto, voting against pro-crypto legislation. But mainstream opposition to crypto became unacceptable to an industry flush with venture capital and determined to reshape Congress.
+Sherrod Brown became the nation's clearest case study in donor-class discipline over 2024–2025. His positions on crypto regulation were mainstream—supporting better oversight of digital assets, backing [[_Elizabeth Warren Master Profile|Elizabeth Warren]]'s calls for investigations into terror financing through crypto, voting against pro-crypto legislation. But mainstream opposition to crypto became unacceptable to an industry flush with venture capital and determined to reshape Congress.
 
 Fairshake, a super PAC backed by Coinbase, jump Capital, and other crypto interests, deployed the largest crypto spending ever in a single race: $40 million against Sherrod Brown in Ohio. This represented more than four times crypto's spending in any other 2024 Senate race. The industry message was clear: oppose us, and we will end your political career, regardless of your labor record.
 
@@ -150,7 +150,7 @@ The class lesson Brown's defeat teaches is that labor movements cannot own polit
 
 ## Rhetorical Signature Moves
 
-**The Manufacturing Defender (2007–2024):** Brown built his brand on defending Ohio manufacturing jobs against corporate trade deals and China competition. This was genuine, his voting record matched his rhetoric. He voted against every major trade agreement until USMCA, which he supported because of labor enforcement provisions he secured.
+**The Manufacturing Defender (2007–2024):** Brown built his brand on defending Ohio manufacturing jobs against corporate trade deals and China competition. This was genuine—his voting record matched his rhetoric. He voted against every major trade agreement until USMCA, which he supported because of labor enforcement provisions he secured.
 
 **The Crypto Critic (2021–2024):** When crypto became a political force, Brown positioned himself as the Senate's crypto skeptic. He backed Warren's investigations, opposed pro-crypto legislation, called out digital assets' connections to terrorism financing. This position was consistent with his anti-corporate, pro-regulation voting record but made him a target.
 
@@ -161,9 +161,9 @@ The class lesson Brown's defeat teaches is that labor movements cannot own polit
 
 ## Analytical Patterns
 
-**The Genuine Win + Structural Limit**. Brown's legislative record on labor (19 consecutive AFL-CIO 100% ratings) represents genuine working-class policy victories: trade skepticism, manufacturing defense, union advocacy. These are real, structural positions that distinguished him from centrist Democrats. However, the structural limit is visible in his 2024 defeat: despite genuine labor credentials and years of pro-worker voting, he could not survive when a billionaire industry (crypto) decided he was an enemy and invested $40M to remove him. The limit: labor movements can fund activism and grassroots, but they cannot match billionaire-class capital deployment in electoral contests.
+**The Genuine Win + Structural Limit** — Brown's legislative record on labor (19 consecutive AFL-CIO 100% ratings) represents genuine working-class policy victories: trade skepticism, manufacturing defense, union advocacy. These are real, structural positions that distinguished him from centrist Democrats. However, the structural limit is visible in his 2024 defeat: despite genuine labor credentials and years of pro-worker voting, he could not survive when a billionaire industry (crypto) decided he was an enemy and invested $40M to remove him. The limit: labor movements can fund activism and grassroots, but they cannot match billionaire-class capital deployment in electoral contests.
 
-**The Villain Framing**. Crypto industry executives framed Brown's defeat as a victory demonstration after the election ("We've shown that we can beat an incumbent senator"), converting their 4-to-1 spending advantage into proof of concept for industry power. Brown and labor supporters framed the loss as unfair outside money overwhelming Ohio. Both narratives avoid structural analysis: Brown's defeat reveals that even genuine labor champions face ceilings when donor-class industries decide they're threats.
+**The Villain Framing** — Crypto industry executives framed Brown's defeat as a victory demonstration after the election ("We've shown that we can beat an incumbent senator"), converting their 4-to-1 spending advantage into proof of concept for industry power. Brown and labor supporters framed the loss as unfair outside money overwhelming Ohio. Both narratives avoid structural analysis: Brown's defeat reveals that even genuine labor champions face ceilings when donor-class industries decide they're threats.
 
 ---
 #democrat
@@ -171,14 +171,14 @@ The class lesson Brown's defeat teaches is that labor movements cannot own polit
 ### Sources
 
 #### Verified
-- [FEC Candidate: Sherrod Brown campaign finance summary](https://www.fec.gov/data/candidate/H2OH13033/) (Tier 1) (VERIFIED)
-- ~~[AFL-CIO Scorecard: Sherrod Brown labor voting record](https://aflcio.org/scorecard/legislators/sherrod-brown)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- {{src:src_001996}} (Tier 1) (VERIFIED)
+- ~~[AFL-CIO Scorecard: Sherrod Brown labor voting record](https://aflcio.org/scorecard/legislators/sherrod-brown)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - [WOSU Public Media: Crypto spent millions to defeat Sherrod Brown and elect allies](https://www.wosu.org/politics-government/2025-10-13/crypto-spent-millions-to-defeat-sherrod-brown-and-elect-allies-its-ready-for-a-repeat-in-2026) (Tier 2) (VERIFIED)
 - [CNBC: Bitcoiners celebrate as Bernie Moreno ousts Sherrod Brown](https://www.cnbc.com/2024/11/05/bitcoiners-celebrate-as-bernie-moreno-ousts-sherrod-brown-ohio-upset.html) (Tier 2) (VERIFIED)
 - [Common Dreams: Crypto Industry's $40 Million Defeat of Pro-Worker Sherrod Brown](https://www.commondreams.org/news/sherrod-brown-crypto) (Tier 3) (VERIFIED)
 
 #### Archived
-- ~~[OpenSecrets: Victory Now for Sherrod Brown donors 2024](https://www.opensecrets.org/joint-fundraising-committees-jfcs/victory-now-for-sherrod-brown/C00846196/2024/donors)~~ (was Tier 1. OpenSecrets demoted, data preserved in FEC section)
+- ~~[OpenSecrets: Victory Now for Sherrod Brown donors 2024](https://www.opensecrets.org/joint-fundraising-committees-jfcs/victory-now-for-sherrod-brown/C00846196/2024/donors)~~ (was Tier 1 — OpenSecrets demoted, data preserved in FEC section)
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->
@@ -209,10 +209,10 @@ The class lesson Brown's defeat teaches is that labor movements cannot own polit
 | GOOD JOBS AND STRONG COMMUNITIES PAC | $10,000 | $0 |
 | STARS AND STRIPES FOREVER PAC | $0 | $7,341 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H2OH13033/) (Tier 1) (VERIFIED)
+- {{src:src_001996}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
-<!-- auto:fec-politician pending-merge 2026-04-14 -->
+<!-- auto:fec-politician pending-merge 2026-04-13 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 
@@ -246,7 +246,7 @@ The class lesson Brown's defeat teaches is that labor movements cannot own polit
 | WINSENATE | $12,170,854 | $0 |
 | CROSSROADS GRASSROOTS POLICY STRATEGIES | $0 | $11,968,181 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/S6OH00163/) (Tier 1)
+- {{src:src_006846}} (Tier 1) (VERIFIED)
 
 <!-- auto:fec-politician pending-merge end -->
 
@@ -336,7 +336,7 @@ The class lesson Brown's defeat teaches is that labor movements cannot own polit
 | 2012 | $24,831,022 | $24,567,107 | 551089.00 |
 | 2006 | $8,937,005 | $10,752,667 | 287174.00 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/S6OH00163/) (Tier 1)
+- {{src:src_006846}} (Tier 1)
 <!-- auto:fec-summary end -->
 
 ### Committee Assignments (Congress.gov)
@@ -400,35 +400,6 @@ _No committee data found._
 - ~~[Congress.gov: Sherrod Brown](https://www.congress.gov/member/e000179)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - [GovTrack: Sherrod Brown](https://www.govtrack.us/congress/members/400050) (Tier 1) (NEEDS REVIEW)
 <!-- auto:voting-record end -->
-
-<!-- auto:voting-record pending-merge 2026-04-14 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-**Key Votes**
-
-| 2024-12-21 | H.R. 10545 (118th): American Relief Act, 2025 | **Yea** | Bill Passed |
-| 2024-12-21 | H.R. 82 (118th): Social Security Fairness Act of 2023 | **Yea** | Bill Passed |
-| 2024-12-20 | S.Amdt. 3331 (Crapo) to H.R. 82: To delay the repeal of the Government pension offset and windfall elimination provision | **Nay** | Amendment Rejected |
-| 2024-12-20 | S.Amdt. 3360 (Cruz) to H.R. 82: In the nature of a substitute. | **Nay** | Amendment Rejected |
-| 2024-12-20 | S.Amdt. 3352 (Paul) to H.R. 82: To provide for automatic continuing resolutions. | **Nay** | Amendment Rejected |
-| 2024-12-20 | S.Amdt. 3346 (Paul) to H.R. 82: To adjust the normal and early retirement ages for Social Security benefits and increase | **Nay** | Amendment Rejected |
-| 2024-12-20 | On the Nomination PN2245: Serena Raquel Murillo, of California, to be United States District Judge for the Central Distr | **Yea** | Nomination Confirmed |
-| 2024-12-20 | Motion to Invoke Cloture: Serena Raquel Murillo to be U.S. District Judge for the Central District of California: Serena | **Yea** | Cloture Motion Agreed to |
-| 2024-12-20 | On the Nomination PN2244: Benjamin J. Cheeks, of California, to be United States District Judge for the Southern Distric | **Yea** | Nomination Confirmed |
-| 2024-12-20 | Motion to Invoke Cloture: Benjamin J. Cheeks to be U.S. District Judge for the Southern District of California: Benjamin | **Yea** | Cloture Motion Agreed to |
-| 2024-12-18 | S. 4367 (118th): Thomas R. Carper Water Resources Development Act of 2024 | **Yea** | Motion Agreed to |
-| 2024-12-18 | Motion to Invoke Cloture: Motion to Proceed to H.R. 82 | **Yea** | Cloture on the Motion to Proceed Agreed to |
-| 2024-12-18 | H.R. 5009 (118th): To authorize appropriations for fiscal year 2025 for military activities of the Department of Defense | **Yea** | Motion Agreed to |
-| 2024-12-16 | Motion to Invoke Cloture: Motion to Concur in the House Amendment to the Senate Amendment to H.R. 5009 | **Yea** | Cloture Motion Agreed to |
-| 2024-12-12 | On the Nomination PN1980: Matthew James Marzano, of Illinois, to be a Member of the Nuclear Regulatory Commission for th | **Yea** | Nomination Confirmed |
-
-**Sources**
-
-- [Congress.gov: Sherrod Brown](https://www.congress.gov/member/e000179) (Tier 1)
-- [GovTrack: Sherrod Brown](https://www.govtrack.us/congress/members/400050) (Tier 1)
-
-<!-- auto:voting-record pending-merge end -->
 
 ### Wikipedia
 <!-- auto:wikipedia start -->

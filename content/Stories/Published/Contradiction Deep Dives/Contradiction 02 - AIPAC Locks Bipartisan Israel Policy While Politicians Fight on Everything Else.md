@@ -187,10 +187,10 @@ The Democratic base disagrees with Israel policy at significantly higher rates t
 
 ### Campaign Finance Data (Tier 1):
 - [OpenSecrets: AIPAC PAC profile and contributions](https://www.opensecrets.org/orgs/american-israel-public-affairs-cmte/summary?id=D000046963) (Tier 1) (VERIFIED)
-- [FEC Candidate: Chuck Schumer pro-Israel donations summary](https://www.fec.gov/data/candidate/H0NY16010/) (Tier 1) (VERIFIED)
-- [FEC Candidate: Ted Cruz pro-Israel donations summary](https://www.fec.gov/data/candidate/S2TX00312/) (Tier 1) (VERIFIED)
+- {{src:src_001236}} (Tier 1) (VERIFIED)
+- {{src:src_001216}} (Tier 1) (VERIFIED)
 - [United Democracy Project recipients and expenditures 2024](https://www.fec.gov/data/independent-expenditures/) (Tier 1) (NEEDS REVIEW)
-- [FEC: United Democracy Project committee overview](https://www.fec.gov/data/committee/C00799031/) (Tier 1) (VERIFIED)
+- {{src:src_001534}} (Tier 1) (VERIFIED)
 
 ### AIPAC 2024 Spending Analysis (Tier 2):
 - [Sludge: "Here Is All the Money AIPAC Spent on the 2024 Elections"](https://readsludge.com/2025/01/24/here-is-all-the-money-aipac-spent-on-the-2024-elections/) (Tier 2) (VERIFIED)

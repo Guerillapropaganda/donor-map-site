@@ -97,7 +97,7 @@ Q1 2025 "Fighting Oligarchy" tour fundraising with Sanders correlated with campa
 ## Sources
 
 ### Verified
-- [FEC: Courage to Change PAC committee page (C00692202)](https://www.fec.gov/data/committee/C00692202/) (Tier 1) (VERIFIED)
+- {{src:src_006370}} (Tier 1) (VERIFIED)
 - [FEC: Courage to Change independent expenditures](https://www.fec.gov/data/independent-expenditures/?committee_id=C00692202) (Tier 1) (VERIFIED)
 - ~~[Reuters: Moderate Democrats Return Donations (2021)](https://www.reuters.com/world/us/moderate-democrats-return-courage-change-pac-donations-2021/)~~ (URL broken, archived by Ops) (Tier 2. URL NEEDED)
 - [CNN: AOC Fundraising Juggernaut](https://www.cnn.com/) (VERIFIED) (Tier 2. URL NEEDED)

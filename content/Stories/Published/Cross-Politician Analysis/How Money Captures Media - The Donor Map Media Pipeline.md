@@ -137,9 +137,9 @@ This note synthesizes findings from all 30 profiles in the [[_Media Pipeline Ind
 
 - [DOJ SDNY: Two RT Employees Indicted For Covertly Funding And Directing U.S. Company (Tenet Media/Tim Pool indictment)](https://www.justice.gov/usao-sdny/pr/two-rt-employees-indicted-covertly-funding-and-directing-us-company-published) (Tier 1) (VERIFIED), via [[Tim Pool]]
 - [SEC: Schedule 13G. Daniel John Bongino, Rumble Inc. (Sep 16, 2022)](https://www.sec.gov/Archives/edgar/data/1830081/000121390022059250/ea166367-13gbongino_rumble.htm) (Tier 1) (VERIFIED), via [[Dan Bongino]]
-- [FEC: TURNING POINT PAC INC. committee overview](https://www.fec.gov/data/committee/C00814152/) (Tier 1) (VERIFIED), via [[Charlie Kirk]]
-- [FEC: VOTE SAVE AMERICA, committee overview (C00835587)](https://www.fec.gov/data/committee/C00835587/) (Tier 1) (VERIFIED), via [[Pod Save America]]
-- [FEC: UYGUR, CENK. Candidate overview (P40015752)](https://www.fec.gov/data/candidate/P40015752/) (Tier 1) (VERIFIED), via [[Cenk Uygur]]
+- {{src:src_001492}} (Tier 1) (VERIFIED), via [[Charlie Kirk]]
+- {{src:src_001493}} (Tier 1) (VERIFIED), via [[Pod Save America]]
+- {{src:src_001494}} (Tier 1) (VERIFIED), via [[Cenk Uygur]]
 
 ---
 

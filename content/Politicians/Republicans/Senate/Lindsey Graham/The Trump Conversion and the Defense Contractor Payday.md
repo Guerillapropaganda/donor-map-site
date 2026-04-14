@@ -93,7 +93,7 @@ The pattern is not ideological volatility. It is donor-responsive positioning. W
 ### Sources
 
 - [The Intercept: Lindsey Graham's pro-war super PAC bankrolled by defense contractors](https://theintercept.com/2015/07/30/senator-lindsey-grahams-pro-war-super-pac-bankrolled-defense-contractors/) (Tier 2) (VERIFIED)
-- [FEC Candidate: Graham industry donors and 2020 race](https://www.fec.gov/data/candidate/H4SC03087/) (Tier 1) (VERIFIED)
+- {{src:src_001211}} (Tier 1) (VERIFIED)
 - [Post and Courier: Graham requests $230M for SC military base projects](https://www.postandcourier.com/militarydigest/sen-lindsey-graham-asks-for-230m-in-federal-money-for-sc-military-base-projects/article_7548ebac-ebc1-11eb-af32-6b550f8a47a6.html) (Tier 2) (VERIFIED)
 - [NPR: Graham-Trump transformation](https://www.npr.org/2020/10/18/924466869/lindsey-graham-warmed-to-trump-and-some-republican-voters-feel-left-in-the-cold) (Tier 2) (VERIFIED)
 - [ABC News 4: Graham pledges $500,000 to Trump legal defense fund](https://abcnews4.com/news/local/lindsey-graham-says-hell-donate-500000-to-trumps-legal-defense-fund) (Tier 2) (VERIFIED)

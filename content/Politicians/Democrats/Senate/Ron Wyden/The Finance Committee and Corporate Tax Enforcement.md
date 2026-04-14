@@ -42,11 +42,11 @@ The paradox: Wyden's privacy agenda protects citizens from government surveillan
 
 ### Sources
 
-- ~~[Congress.gov: Ron Wyden member profile](https://www.congress.gov/member/ron-wyden/W000779)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
-- [FEC Candidate: Ron Wyden campaign finance summary](https://www.fec.gov/data/candidate/H0OR03026/) (Tier 1) (VERIFIED)
+- ~~[Congress.gov: Ron Wyden member profile](https://www.congress.gov/member/ron-wyden/W000779)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- {{src:src_001777}} (Tier 1) (VERIFIED)
 - [Senate Finance Committee: Wyden tax proposals](https://www.finance.senate.gov/chairmans-news) (Tier 1) (VERIFIED)
-- ~~[Joint Committee on Taxation: Billionaires Income Tax revenue estimate](https://www.jct.gov/publications/?search_term=The%20Finance%20Committee%20and%20Corporate%20Tax%20Enforcement)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- ~~[Joint Committee on Taxation: Billionaires Income Tax revenue estimate](https://www.jct.gov/publications/?search_term=The%20Finance%20Committee%20and%20Corporate%20Tax%20Enforcement)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - [Washington Post: Democrats move to finalize new billionaire tax proposal targeting 700 wealthiest Americans](https://www.washingtonpost.com/us-policy/2021/10/22/sinema-warren-billionaire-tax/) (Tier 2) (VERIFIED)
-- ~~[The Verge: Wyden's Section 230 defense and tech privacy](https://www.theverge.com/wyden-section-230/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[The Verge: Wyden's Section 230 defense and tech privacy](https://www.theverge.com/wyden-section-230/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 - [Ballotpedia: Ron Wyden](https://ballotpedia.org/Ron_Wyden) (Tier 3) (VERIFIED)
 

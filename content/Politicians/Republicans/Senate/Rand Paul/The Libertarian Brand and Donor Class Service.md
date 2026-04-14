@@ -23,7 +23,7 @@ donors: [[Charles Koch]] [[Stand Together]]
 
 Rand Paul has built the most visible libertarian brand in the Senate: opposing foreign interventionism, filibustering drone policy, auditing the Federal Reserve, and challenging government overreach. His 13-hour filibuster on drone policy (2013) and his questioning of Anthony Fauci during COVID became the signature moments of his brand. Paul votes against military spending bills, opposes surveillance programs, and criticizes both parties' spending habits.
 
-The structural analysis: Paul's libertarian votes rarely affect outcomes. He votes against defense spending bills that pass with 80+ votes. He opposes surveillance programs that are reauthorized by bipartisan supermajorities. His libertarian performance is precisely that, a performance that generates small-dollar fundraising and media attention without threatening the legislative outcomes that his donor class supports.
+The structural analysis: Paul's libertarian votes rarely affect outcomes. He votes against defense spending bills that pass with 80+ votes. He opposes surveillance programs that are reauthorized by bipartisan supermajorities. His libertarian performance is precisely that — a performance that generates small-dollar fundraising and media attention without threatening the legislative outcomes that his donor class supports.
 
 ---
 
@@ -40,8 +40,8 @@ The pattern: Paul's libertarianism is deployed against government functions that
 
 ### Sources
 
-- [FEC Candidate: Rand Paul donor profile](https://www.fec.gov/data/candidate/H4OH19044/) (Tier 1) (VERIFIED)
-- ~~[Congress.gov: Rand Paul voting record](https://www.congress.gov/member/rand-paul/P000603)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- {{src:src_003284}} (Tier 1) (VERIFIED)
+- ~~[Congress.gov: Rand Paul voting record](https://www.congress.gov/member/rand-paul/P000603)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - [Senate.gov: Paul filibuster records](https://www.senate.gov/senators/senators-contact.htm) (Tier 1) (VERIFIED)
 - [Ballotpedia: Rand Paul](https://ballotpedia.org/Rand_Paul) (Tier 3) (VERIFIED)
 

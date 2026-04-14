@@ -431,7 +431,7 @@ Every source must be a working URL. This vault is built for public web publicati
 Examples:
 ```
 - [FEC: Matt Taibbi individual contributions (7 results, $7,089.15 total)](https://www.fec.gov/data/receipts/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026individual-contributions/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?contributor_name=taibbi%2C+matt) (Tier 1)
-- [FEC Candidate: Elizabeth Warren donor summary](https://www.fec.gov/data/candidate/P00009621/) (Tier 1)
+- {{src:src_000346}} (Tier 1)
 - [ProPublica: How Koch Industries profits from California's water crisis]((URL NEEDED)) (Tier 2)
 ```
 

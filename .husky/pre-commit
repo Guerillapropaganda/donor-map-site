@@ -1,13 +1,18 @@
 #!/usr/bin/env sh
 # Pre-commit gate for the Donor Map vault.
 #
-# Runs four fast sentinels before every commit:
+# Runs six fast sentinels before every commit:
 #   1. self-review-mirror      — em dashes, banned AI vocab, defamation-prone words,
 #                                verified-profile regressions
 #   2. yaml-sanity-scan        — catches broken frontmatter before it lands
 #   3. duplicate-bioguide      — catches politician ID collisions
 #   4. relationship-edge       — validates data/relationships.jsonl if staged
 #                                (Phase 3 canonical edge store)
+#   5. canonical-store         — blocks hand-edits to frontmatter relationship
+#                                fields unless data/relationships.jsonl or a
+#                                rebuilder script is also touched (Phase 3 rule)
+#   6. regression-tests        — runs the Phase 6 node:test suite (20 tests,
+#                                ~75ms) covering every bug fixed in Phases 1-5
 #
 # If any fail, the commit is blocked. To bypass in an emergency:
 #   SKIP_HOOKS=1 git commit ...
@@ -54,6 +59,24 @@ node scripts/relationship-edge-sentinel.cjs
 if [ $? -ne 0 ]; then
   echo ""
   echo "[x] relationship-edge-sentinel rejected the staged JSONL."
+  exit 1
+fi
+
+# 5. Canonical-store sentinel (Phase 3 write path enforcement)
+echo "  -> canonical-store-sentinel"
+node scripts/canonical-store-sentinel.cjs
+if [ $? -ne 0 ]; then
+  echo ""
+  echo "[x] canonical-store-sentinel blocked the commit."
+  exit 1
+fi
+
+# 6. Phase 6 regression tests (20 tests, ~75ms, zero deps)
+echo "  -> phase-6-regression-tests"
+node --test scripts/phase-6-regression-tests.cjs >/dev/null 2>&1
+if [ $? -ne 0 ]; then
+  echo ""
+  echo "[x] regression tests failed — run 'node --test scripts/phase-6-regression-tests.cjs' to see details."
   exit 1
 fi
 

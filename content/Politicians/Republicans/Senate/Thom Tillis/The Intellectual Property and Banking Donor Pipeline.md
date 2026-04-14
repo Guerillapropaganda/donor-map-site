@@ -37,7 +37,7 @@ OpenSecrets named Tillis a "Wall Street ally" when he was appointed to Senate Re
 
 Tillis's Banking Committee service has translated directly into legislative wins for his financial sector donors. Three documented examples:
 
-**S.2155. Dodd-Frank Rollback (2018):** Tillis supported the Economic Growth, Regulatory Relief, and Consumer Protection Act, which raised the threshold for mandatory stress testing from $50 billion in assets to $250 billion, meaning only 12 banks (instead of 38) faced the most rigorous Federal Reserve oversight. When the bill passed, Tillis was explicit about his ambitions to go further: "We've not only got to get to the regulatory relief for the $250 billion threshold. I think we have to go beyond that." The banks that benefited most from this threshold increase, including mid-size regional banks like BB&T (which became Truist after its 2019 merger), were Tillis's donors.
+**S.2155. Dodd-Frank Rollback (2018):** Tillis supported the Economic Growth, Regulatory Relief, and Consumer Protection Act, which raised the threshold for mandatory stress testing from $50 billion in assets to $250 billion, meaning only 12 banks (instead of 38) faced the most rigorous Federal Reserve oversight. When the bill passed, Tillis was explicit about his ambitions to go further: "We've not only got to get to the regulatory relief for the $250 billion threshold.. I think we have to go beyond that." The banks that benefited most from this threshold increase, including mid-size regional banks like BB&T (which became Truist after its 2019 merger), were Tillis's donors.
 
 **CARES Act Capital Requirements (2020):** During the pandemic, Tillis and colleagues inserted a provision into the CARES Act reducing bank capital requirements, a deregulatory measure the American Bankers Association (ABA) had been pushing since before COVID-19 existed. Within months, the ABA spent $500,000 on a pro-Tillis campaign ad in North Carolina praising his "leadership" on the CARES Act. The ad aired during Tillis's competitive 2020 reelection fight against Democrat Cal Cunningham. The sequence: Tillis delivers regulatory relief → banking lobby invests $500K in keeping him in office.
 
@@ -96,15 +96,15 @@ The $4.3M+ career finance sector haul and $262K+ career pharma haul are the fina
 
 ### Sources
 
-- [FEC Candidate: Thom Tillis campaign finance summary](https://www.fec.gov/data/candidate/S4NC00162/) (Tier 1) (VERIFIED)
-- [FEC Candidate: Thom Tillis industry contributions, finance sector](https://www.fec.gov/data/candidate/S4NC00162/) (Tier 1) (VERIFIED)
+- {{src:src_003157}} (Tier 1) (VERIFIED)
+- {{src:src_003157}} (Tier 1) (VERIFIED)
 - [OpenSecrets News: Wall Street ally Sen. Thom Tillis tapped to join GOP leadership](https://www.opensecrets.org/news/2023/01/wall-street-ally-sen-thom-tillis-tapped-to-join-gop-leadership/) (Tier 1) (VERIFIED)
-- [FEC: Thom Tillis candidate overview](https://www.fec.gov/data/candidate/S4NC00162/) (Tier 1) (VERIFIED)
-- ~~[Congress.gov: S.2155. Economic Growth, Regulatory Relief, and Consumer Protection Act (115th Congress)](https://www.congress.gov/bill/115th-congress/senate-bill/2155)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
-- ~~[Congress.gov: PREVAIL Act. S.2220 (118th Congress)](https://www.congress.gov/bill/118th-congress/senate-bill/2220)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- {{src:src_003157}} (Tier 1) (VERIFIED)
+- ~~[Congress.gov: S.2155. Economic Growth, Regulatory Relief, and Consumer Protection Act (115th Congress)](https://www.congress.gov/bill/115th-congress/senate-bill/2155)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[Congress.gov: PREVAIL Act. S.2220 (118th Congress)](https://www.congress.gov/bill/118th-congress/senate-bill/2220)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - [Sludge: Bank Lobby's Pro-Tillis Ad Follows Legislative Favors from the Senator](https://readsludge.com/2020/09/19/bank-lobbys-pro-tillis-ad-follows-legislative-favors-from-the-senator/) (Tier 2) (VERIFIED)
-- ~~[Axios: Drug patent debate rekindled by Judiciary markup](https://www.axios.com/pro/health-care-policy/2024/09/18/senate-drug-patent-bills-markup)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2) (UNVERIFIED)
-- ~~[Axios: Senate Judiciary narrowly approves patent bill (PREVAIL Act, Nov. 2024)](https://www.axios.com/pro/health-care-policy/2024/11/21/senate-judiciary-approves-prevail-act)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2) (UNVERIFIED)
+- ~~[Axios: Drug patent debate rekindled by Judiciary markup](https://www.axios.com/pro/health-care-policy/2024/09/18/senate-drug-patent-bills-markup)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2) (UNVERIFIED)
+- ~~[Axios: Senate Judiciary narrowly approves patent bill (PREVAIL Act, Nov. 2024)](https://www.axios.com/pro/health-care-policy/2024/11/21/senate-judiciary-approves-prevail-act)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2) (UNVERIFIED)
 - [American Prospect: Senators' Latest Attempt to Enrich Big Pharma Must Not Prevail](https://prospect.org/2024/03/29/2024-03-29-senators-latest-attempt-enrich-big-pharma/) (Tier 2) (VERIFIED)
 - [IPWatchdog: PREVAIL Act Narrowly Moves Forward Despite Concerns About Drug Pricing Impact](https://ipwatchdog.com/2024/11/21/prevail-act-narrowly-moves-forward-despite-concerns-drug-pricing-impact/) (Tier 3) (VERIFIED)
 - [Ballotpedia: Thom Tillis](https://ballotpedia.org/Thom_Tillis) (Tier 3) (VERIFIED)

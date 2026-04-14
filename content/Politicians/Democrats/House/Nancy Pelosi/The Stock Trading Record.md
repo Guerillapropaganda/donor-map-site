@@ -19,7 +19,7 @@ donors: []
 
 ### The Stock Trading Record
 
-Pelosi's stock portfolio is the most visible expression of the structural conflict between legislators and the public. Every trade, whether informed by legislative knowledge or not, occurs in a context where Pelosi's chamber controls the regulatory environment affecting those stocks.
+Pelosi's stock portfolio is the most visible expression of the structural conflict between legislators and the public. Every trade — whether informed by legislative knowledge or not — occurs in a context where Pelosi's chamber controls the regulatory environment affecting those stocks.
 
 ---
 
@@ -38,7 +38,7 @@ Paul Pelosi manages the family's investment portfolio. [[_Nancy Pelosi Master Pr
 
 ### The Trades
 
-> [!money] Follow the Money. Legislative-Adjacent Trading
+> [!money] Follow the Money — Legislative-Adjacent Trading
 > **Visa IPO (2008):** Purchased 5,000 shares at $44/share during IPO allocation. Trading at $64/share within two days. Eventually sold for $1.8 million profit. At the time, Pelosi was Speaker and legislation affecting credit card companies was pending before her chamber.
 >
 > **Nvidia (2021–2022):** Exercised options for 20,000 shares (June 2022); held 5,000 from July 2021. Sold all 25,000 shares on July 26, 2022, at a ~$341,000 loss — two weeks before the House voted on the CHIPS Act, which directed $52 billion to semiconductor companies including Nvidia.
@@ -68,6 +68,6 @@ Paul Pelosi manages the family's investment portfolio. [[_Nancy Pelosi Master Pr
 
 ### Sources
 
-- ~~[The Hill: Pelosi endorses stock trading ban (PELOSI Act)](https://thehill.com/?s=The%20Stock%20Trading%20Record)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
-- [FEC Candidate: Pelosi personal financial disclosures](https://www.fec.gov/data/candidate/H8CA05035/) (Tier 1) (VERIFIED)
+- ~~[The Hill: Pelosi endorses stock trading ban (PELOSI Act)](https://thehill.com/?s=The%20Stock%20Trading%20Record)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- {{src:src_001501}} (Tier 1) (VERIFIED)
 

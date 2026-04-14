@@ -30,8 +30,8 @@ Fetterman's 2022 Senate campaign raised $48.5 million, a record-breaking amount 
 - Donations under $200: 53% of total ($25.5M of $48.5M) - [OpenSecrets: [[_John Fetterman Master Profile|John Fetterman]] Campaign Finance](https://www.fec.gov/data/candidate/S6PA00274/) (Tier 1)
 - Average donation: $27 - [Common Dreams: Bernie-esque Grassroots Fundraising](https://www.commondreams.org/news/2022/01/05/pennsylvanias-fetterman-brings-bernie-esque-grassroots-fundraising-haul-us-senate) (Tier 2) (VERIFIED)
 - Individual donors: 140,251 - [Pennsylvania Inquirer: Fetterman vs. Oz Fundraising](https://www.inquirer.com/politics/election/john-fetterman-mehmet-oz-campaign-fundraising-pennsylvania-senate-20221024.html) (Tier 2) (VERIFIED)
-- Large individual contributions ($200+): 41.20% - [FEC Candidate: Fetterman Industries](https://www.fec.gov/data/candidate/S6PA00274/) (Tier 1) (VERIFIED)
-- PAC contributions: 1.03% (minimal) - [OpenSecrets](https://www.fec.gov/data/candidate/S6PA00274/) (Tier 1) (VERIFIED)
+- Large individual contributions ($200+): 41.20% - {{src:src_005345}} (Tier 1) (VERIFIED)
+- PAC contributions: 1.03% (minimal) - {{src:src_005345}} (Tier 1) (VERIFIED)
 
 ### Merchandise & Direct Mail:
 - Online merchandise store: ~$400,000 (2021-2022)
@@ -116,8 +116,8 @@ Fetterman's trajectory reveals how working-class authenticity can function as co
 
 ### Sources
 
-- [FEC Candidate: John Fetterman Campaign Finance Summary](https://www.fec.gov/data/candidate/S6PA00274/) (Tier 1) (VERIFIED)
-- [FEC: John Fetterman Candidate Profile](https://www.fec.gov/data/candidate/S6PA00274/) (Tier 1) (VERIFIED)
+- {{src:src_005345}} (Tier 1) (VERIFIED)
+- {{src:src_005345}} (Tier 1) (VERIFIED)
 - [Pennsylvania Inquirer: Pa. Senate race - Fetterman, Oz campaign money sources](https://www.inquirer.com/politics/election/john-fetterman-mehmet-oz-campaign-fundraising-pennsylvania-senate-20221024.html) (Tier 2) (VERIFIED)
 - [Common Dreams: Fetterman Brings in Bernie-esque Grassroots Fundraising Haul](https://www.commondreams.org/news/2022/01/05/pennsylvanias-fetterman-brings-bernie-esque-grassroots-fundraising-haul-us-senate) (Tier 2) (VERIFIED)
 - [The Intercept: Since October, Sen. John Fetterman Has Been Building a Roster of Republican Donors](https://theintercept.com/2024/04/19/john-fetterman-israel-gop-donors/) (Tier 2) (VERIFIED)

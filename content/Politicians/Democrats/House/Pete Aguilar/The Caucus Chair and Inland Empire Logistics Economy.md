@@ -36,6 +36,6 @@ As Caucus Chair, Aguilar is responsible for helping the DCCC raise $200+ million
 
 ### Sources
 
-- [FEC Candidate: Pete Aguilar donor profile](https://www.fec.gov/data/candidate/H2CA31125/) (Tier 1) (VERIFIED)
+- {{src:src_005967}} (Tier 1) (VERIFIED)
 - [Ballotpedia: Pete Aguilar](https://ballotpedia.org/Pete_Aguilar) (Tier 3) (VERIFIED)
 

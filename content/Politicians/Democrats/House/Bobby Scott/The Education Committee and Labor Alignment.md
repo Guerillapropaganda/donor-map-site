@@ -19,15 +19,15 @@ donors: [[SEIU - Service Employees International Union|SEIU]] [[AFSCME - America
 
 ### The Education Committee Ranking Member
 
-Bobby Scott serves as ranking member of the House Education and Workforce Committee, the Democratic counterpart to [[_Virginia Foxx Master Profile|Virginia Foxx]]. Scott represents Virginia's 3rd District (Hampton Roads, Richmond) and has served in Congress since 1993. Scott chaired the committee (2019-2023) and is the longest-serving Democratic member.
+Bobby Scott serves as ranking member of the House Education and Workforce Committee — the Democratic counterpart to [[_Virginia Foxx Master Profile|Virginia Foxx]]. Scott represents Virginia's 3rd District (Hampton Roads, Richmond) and has served in Congress since 1993. Scott chaired the committee (2019-2023) and is the longest-serving Democratic member.
 
-Scott's donor profile contrasts sharply with Foxx's: where Foxx receives $81,800+ from for-profit colleges, Scott's top donors are labor unions (SEIU, AFSCME, NEA, AFT) and education employee organizations. The committee's bipartisan structure pits for-profit education donors (Republican side) against teacher union donors (Democratic side), with student interests caught between the two funding constituencies.
+Scott's donor profile contrasts sharply with Foxx's: where Foxx receives $81,800+ from for-profit colleges, Scott's top donors are labor unions (SEIU, AFSCME, NEA, AFT) and education employee organizations. The committee's bipartisan structure pits for-profit education donors (Republican side) against teacher union donors (Democratic side) — with student interests caught between the two funding constituencies.
 
 ---
 
 ### The Raise the Wage Act
 
-Scott's signature legislative effort, the Raise the Wage Act, proposing a $15/hour federal minimum wage, has been introduced in every Congress since 2017 and has never received a floor vote despite majority public support. The legislation exemplifies the structural power of the low-wage industry lobby: restaurant, retail, and hospitality PACs fund enough members of both parties to prevent floor consideration of minimum wage increases.
+Scott's signature legislative effort — the Raise the Wage Act, proposing a $15/hour federal minimum wage — has been introduced in every Congress since 2017 and has never received a floor vote despite majority public support. The legislation exemplifies the structural power of the low-wage industry lobby: restaurant, retail, and hospitality PACs fund enough members of both parties to prevent floor consideration of minimum wage increases.
 
 > [!money]
 > Scott's $15 minimum wage has 60%+ public support in every poll. It has never received a floor vote. The National Restaurant Association, US Chamber of Commerce, and International Franchise Association spend approximately $100 million annually on lobbying that includes minimum wage opposition. The gap between public support and legislative action is the lobbying spend.
@@ -36,7 +36,7 @@ Scott's signature legislative effort, the Raise the Wage Act, proposing a $15/ho
 
 ### Sources
 
-- ~~[Congress.gov: Bobby Scott member profile](https://www.congress.gov/member/robert-scott/S000185)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
-- [FEC Candidate: Bobby Scott campaign finance summary](https://www.fec.gov/data/candidate/H6GA02115/) (Tier 1) (VERIFIED)
+- ~~[Congress.gov: Bobby Scott member profile](https://www.congress.gov/member/robert-scott/S000185)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- {{src:src_006315}} (Tier 1) (VERIFIED)
 - [Ballotpedia: Bobby Scott](https://ballotpedia.org/Bobby_Scott) (Tier 3) (VERIFIED)
 

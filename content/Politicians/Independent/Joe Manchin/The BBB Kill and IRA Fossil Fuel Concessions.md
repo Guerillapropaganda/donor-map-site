@@ -144,7 +144,7 @@ The IRA passed August 2022 with $369 billion in climate and energy investments. 
 | [[Marathon Oil]] | Donated 2022 |, |
 | [[Ovintiv Inc]] | Donated 2022 |, |
 
-**Source:** [OpenSecrets Contributors 2022 Cycle](https://www.fec.gov/data/candidate/S0WV00090/) (Tier 1) (VERIFIED) (UNVERIFIED)
+**Source:** {{src:src_001301}} (Tier 1) (VERIFIED) (UNVERIFIED)
 
 #### Oil & Gas Executives. Q3 2021 Peak Donations (During BBB Negotiations)
 
@@ -191,7 +191,7 @@ All six of these PACs donated exactly $5,000 (legal maximum) in the same quarter
 
 **2022 status:** Manchin ranked **#2 Senate recipient of utility money** (behind Chuck Schumer) for 2022 cycle. All utilities opposed CEPP because it would have penalized them for slow decarbonization.
 
-**Source:** [OpenSecrets Contributors 2022](https://www.fec.gov/data/candidate/S0WV00090/) (Tier 1) (VERIFIED) (UNVERIFIED); [Gizmodo, October 2021: The Dirty Utilities Funding Manchin's Bullshit](https://gizmodo.com/the-dirty-utilities-funding-joe-manchin-s-bullshit-1847792988) (Tier 2) (VERIFIED)
+**Source:** {{src:src_001301}} (Tier 1) (VERIFIED) (UNVERIFIED); [Gizmodo, October 2021: The Dirty Utilities Funding Manchin's Bullshit](https://gizmodo.com/the-dirty-utilities-funding-joe-manchin-s-bullshit-1847792988) (Tier 2) (VERIFIED)
 
 #### Coal Company Historical Donors (2010–2012)
 
@@ -251,14 +251,14 @@ Manchin became a member of the Senate Energy and Natural Resources Committee whe
 
 ### Sources
 
-- ~~[Congressional Budget Office: Estimated Budgetary Effects of HR 5376, Inflation Reduction Act](https://www.cbo.gov/publication/58366)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
-- [FEC Candidate: Manchin industry and contributor data](https://www.fec.gov/data/candidate/S0WV00090/) (Tier 1) (VERIFIED) (UNVERIFIED)
+- ~~[Congressional Budget Office: Estimated Budgetary Effects of HR 5376, Inflation Reduction Act](https://www.cbo.gov/publication/58366)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- {{src:src_001301}} (Tier 1) (VERIFIED) (UNVERIFIED)
 - [E&E News: Manchin has raked in $400K in fossil fuel donations](https://www.eenews.net/articles/manchin-has-raked-in-400k-in-fossil-fuel-donations/) (Tier 2) (VERIFIED)
 - [E&E News: Manchin revives climate deal - what's in the $369B bill](https://www.eenews.net/articles/manchin-revives-climate-deal-whats-in-the-369b-bill/) (Tier 2) (VERIFIED)
 - [E&E News: Manchin pushes DOE to invest in coal that earned him millions](https://www.eenews.net/articles/manchin-pushes-doe-to-invest-in-coal-that-earned-him-millions/) (Tier 2) (VERIFIED)
 - [Washington Post: Manchin's opposition to BBB undercuts Biden's climate agenda](https://www.washingtonpost.com/climate-environment/2021/12/19/manchin-climate-build-back-better/) (Tier 2) (VERIFIED) (UNVERIFIED)
-- ~~[New York Times: Biden's clean energy plan faces a test](https://www.nytimes.com/2021/10/15/climate/biden-clean-energy-manchin.html)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2) (UNVERIFIED)
-- ~~[Politico: Manchin proposed $1.5T topline number to Schumer this summer](https://www.politico.com/news/2021/09/30/manchin-proposed-15t-topline-number-to-schumer-this-summer-514803)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2) (UNVERIFIED)
+- ~~[New York Times: Biden's clean energy plan faces a test](https://www.nytimes.com/2021/10/15/climate/biden-clean-energy-manchin.html)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2) (UNVERIFIED)
+- ~~[Politico: Manchin proposed $1.5T topline number to Schumer this summer](https://www.politico.com/news/2021/09/30/manchin-proposed-15t-topline-number-to-schumer-this-summer-514803)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2) (UNVERIFIED)
 - [NPR: Manchin says BBB climate measures are risky. That's not true.](https://www.npr.org/2021/12/19/1065665886/manchin-says-build-back-betters-climate-measures-are-risky-thats-not-true) (Tier 2) (VERIFIED)
 - [American Prospect: Permitting Reform Is a Decoy for Ramping Up Gas](https://prospect.org/2022/09/21/permitting-reform-decoy-ramping-up-natural-gas-manchin/) (Tier 2) (VERIFIED)
 - [Food & Water Watch: Manchin's Dirty Side Deal Sidelined](https://www.foodandwaterwatch.org/2022/09/27/manchin-side-deal-removed/) (Tier 2)

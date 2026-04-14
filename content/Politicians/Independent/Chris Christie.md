@@ -142,5 +142,5 @@ c
 | CONSERVATIVE SOLUTIONS PAC | $0 | $6,643,036 |
 | TELL IT LIKE IT IS PAC | $5,854,979 | $0 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/P60008521/) (Tier 1) (VERIFIED)
+- {{src:src_004945}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->

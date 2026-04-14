@@ -98,5 +98,5 @@ Sanders entered 2020 as the frontrunner by February. After winning Nevada on Feb
 ### Sources
 
 - [OpenSecrets: Sanders 2016 ($237M raised), 2020 ($250M+ raised) fundraising summaries](https://www.opensecrets.org/pres16/candidate?id=n00000528) (Tier 1) (VERIFIED)
-- [FEC: Sanders presidential campaign filings (2016, 2020)](https://www.fec.gov/data/candidate/P60007168/) (Tier 1) (VERIFIED)
+- {{src:src_004950}} (Tier 1) (VERIFIED)
 

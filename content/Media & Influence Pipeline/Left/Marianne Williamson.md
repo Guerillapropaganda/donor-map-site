@@ -7,7 +7,7 @@ source-tier: 2
 parent: null
 category: left
 platform: multi-platform
-related: "(no donor nodes , small-dollar self-funded campaigns; DNC gatekeeping structural analysis, not donor-class capture)"
+related: "(no donor nodes — small-dollar self-funded campaigns; DNC gatekeeping structural analysis, not donor-class capture)"
 ---
 
 #media-pipeline #left #self-help #spirituality #outsider-candidate #dnc-gatekeeping
@@ -173,7 +173,7 @@ Her campaigns expose Democratic Party gatekeeping: not through censorship (Willi
 
 - [Marianne Williamson. Wikipedia](https://en.wikipedia.org/wiki/Marianne_Williamson) (Tier 2) (VERIFIED) (Chrome verified 2026-03-27)
 - [Marianne Williamson 2024 presidential campaign. Ballotpedia](https://ballotpedia.org/Marianne_Williamson_presidential_campaign,_2024) (Tier 1) (VERIFIED) (Chrome verified 2026-03-27)
-- ~~[Marianne Williamson. FEC.gov candidate profile](https://www.fec.gov/data/candidate/P00009910/)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1) (Chrome verified 2026-03-27)
+- ~~{{src:src_007558}}~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1) (Chrome verified 2026-03-27)
 - [Marianne Williamson brought in $1.5 million in the second quarter. CNN Politics](https://edition.cnn.com/politics/live-news/2020-election-campaign-fundraising) (Tier 2) (VERIFIED) (Chrome verified 2026-03-27)
 - [2024 hopeful Marianne Williamson blasts Biden, DNC for not holding debates. Fox News](https://www.foxnews.com/media/2024-hopeful-marianne-williamson-blasts-biden-dnc-not-holding-debates-candidate-suppression) (Tier 2) (VERIFIED) (Chrome verified 2026-03-27)
 - [Marianne Williamson knocks DNC over lack of debates as Biden campaign launch nears. Washington Examiner](https://www.washingtonexaminer.com/news/campaigns/bidens-primary-foes-try-not-ignored) (Tier 2) (NEEDS REVIEW) (Chrome verified 2026-03-27)

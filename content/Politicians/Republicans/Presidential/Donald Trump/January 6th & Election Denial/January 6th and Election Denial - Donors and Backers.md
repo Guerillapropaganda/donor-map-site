@@ -114,17 +114,17 @@ The question of donor liability for funding the infrastructure that created Janu
 
 ### Sources
 
-- [FEC.gov Campaign Finance Filings: Save America PAC](https://www.fec.gov/data/committee/C00753251/) (Tier 1) (VERIFIED)
+- {{src:src_003854}} (Tier 1) (VERIFIED)
 - [ProPublica: Top Trump Fundraiser Boasted of Raising $3 Million for Jan 6 Rally](https://www.propublica.org/article/top-trump-fundraiser-boasted-of-raising-3-million-to-support-jan-6-save-america-rally) (Tier 2) (VERIFIED)
-- ~~[House Select Committee to Investigate the January 6th Attack. Final Report](https://january6thcommittee.house.gov/news/press-releases/read-house-select-committee-january-6-final-report)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- ~~[House Select Committee to Investigate the January 6th Attack. Final Report](https://january6thcommittee.house.gov/news/press-releases/read-house-select-committee-january-6-final-report)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - [OpenSecrets: 147 Republicans Who Voted to Overturn Certification](https://www.opensecrets.org/news/) (Tier 2) (VERIFIED)
 - [Washington Post: Inside the Rally That Preceded the Capitol Riot](https://www.washingtonpost.com/nation/interactive/2021/capitol-insurrection-visual-timeline/) (Tier 2) (VERIFIED)
 - [ProPublica: Senior Trump Aides Knew Jan 6 Rally Could Get Chaotic](https://www.propublica.org/article/new-details-suggest-senior-trump-aides-knew-jan-6-rally-could-get-chaotic) (Tier 2) (VERIFIED)
-- ~~[New York Times: Turning Point USA Buses to the Capitol](https://www.nytimes.com/2021/01/15/us/politics/turning-point-action-rally-buses.html)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
-- ~~[Federal Court Documents: January 6 Prosecutions. Bus Transportation Records](https://www.justice.gov/usao-dc/capitol-breach-cases)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- ~~[New York Times: Turning Point USA Buses to the Capitol](https://www.nytimes.com/2021/01/15/us/politics/turning-point-action-rally-buses.html)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[Federal Court Documents: January 6 Prosecutions. Bus Transportation Records](https://www.justice.gov/usao-dc/capitol-breach-cases)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - [OpenSecrets: Dark Money Election Denial Spending 2020-2021](https://www.opensecrets.org/news/2023/09/billionaire-megadonor-couple-funding-election-denial-with-extensive-influence-machine-dark-money-network-uihlein/) (Tier 2) (VERIFIED)
 - [Koch Network Data: Americans for Prosperity State Spending](https://americansforprosperity.org/transparency/) (Tier 2) (VERIFIED)
-- [FEC.gov: Turning Point Action PAC Filings](https://www.fec.gov/data/committee/C90019597/) (Tier 1) (VERIFIED)
-- ~~[Axios: Elon Musk's Political Evolution 2020-2025](https://www.axios.com/2024/11/elon-musk-trump-alliance)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
+- {{src:src_003862}} (Tier 1) (VERIFIED)
+- ~~[Axios: Elon Musk's Political Evolution 2020-2025](https://www.axios.com/2024/11/elon-musk-trump-alliance)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3)
 - [State Campaign Finance Databases: Arizona, Wisconsin, Georgia Audit Campaign Spending](https://www.followthemoney.org/show-me?s=CA&y=2024&c-r-ot=U&d-cci=January%206th%20and%20Election%20Denial%20-%20Donors%20and%20Backers#[%7B1%7Cgro=d-id) (Tier 1) (VERIFIED)
 

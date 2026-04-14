@@ -147,7 +147,7 @@ Baucus, with Fowler as his chief counsel, designed a bill that preserved insuran
 - [PBS Frontline: Obama's Deal](https://www.pbs.org/wgbh/frontline/documentary/obamasdeal/) (Tier 2) (VERIFIED)
 - ~~[Health Affairs Journal: The Origins And Demise Of The Public Option](https://www.healthaffairs.org/doi/10.1377/hlthaff.2010.0363)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Center for Public Integrity: Elimination of 'public option' threw consumers to the insurance wolves](https://publicintegrity.org/health/elimination-of-public-option-threw-consumers-to-the-insurance-wolves/) (Tier 2) (VERIFIED)
-- [FEC Candidate: Max Baucus donor profile](https://www.fec.gov/data/candidate/S8MT00010/) (Tier 1) (VERIFIED)
+- {{src:src_005682}} (Tier 1) (VERIFIED)
 - [ProPublica: Insurance Lobby That Fought Hillarycare and Obamacare Now Has Sturdy Bridges to Democrats](https://www.propublica.org/article/insurance-lobby-has-sturdy-bridges-to-democrats) (Tier 2) (VERIFIED)
 - ~~[Financial Times: Elizabeth Fowler and the architecture of Obamacare](https://www.ft.com/content/a0f98984-c1d3-11e0-8f16-00144feabdc0)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - ~~[Kaiser Family Foundation: Insurance Premium and Cost Trends Over the Obama Presidency](https://www.kff.org/report-section/health-insurance-coverage-of-the-nonelderly-state-level-estimates-of-coverage-estimates-by-age/)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 1)

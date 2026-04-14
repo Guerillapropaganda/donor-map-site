@@ -212,8 +212,8 @@ Full analysis: [[Booker-Scott Donor Class Mirror - Two Black Senators, One Donor
 **Time Gap Pattern:** 3–7 months from peak donations (Q1 2019) to policy-shaping committee action (September 2021) = Intentional donation-to-power pipeline.
 
 ### Sources:
-- [FEC: Richard Neal Campaign Finance Reports](https://www.fec.gov/data/candidate/H8MA02041/) (Tier 1) (VERIFIED)
-- [FEC Candidate: Richard Neal Donor Profile](https://www.fec.gov/data/candidate/H8MA02041/) (Tier 1) (VERIFIED)
+- {{src:src_001197}} (Tier 1) (VERIFIED)
+- {{src:src_001197}} (Tier 1) (VERIFIED)
 - [Read Sludge: Neal Took Big Bucks From Lobbyists While Killing Surprise Medical Bills Fix](https://readsludge.com/2020/05/05/neal-took-big-bucks-from-lobbyists-while-killing-a-surprise-medical-bills-fix/) (Tier 2) (VERIFIED)
 
 ---
@@ -238,7 +238,7 @@ Full analysis: [[Booker-Scott Donor Class Mirror - Two Black Senators, One Donor
 3. Booker later voted for 21st Century Cures Act, which actually weakened FDA approval standards (contradicting his safety argument)
 
 ### Sources:
-- [FEC Candidate: Cory Booker Donor Profile](https://www.fec.gov/data/candidate/P00009795/) (Tier 1) (VERIFIED)
+- {{src:src_001199}} (Tier 1) (VERIFIED)
 - [Senate Roll Call Vote 115-1-00020: Drug Importation Amendment](https://www.senate.gov/legislative/LIS/roll_call_votes/vote1151/vote_115_1_00020.htm) (Tier 1) (VERIFIED)
 - [The Intercept: Cory Booker Joins Senate Republicans to Kill Drug Importation Measure](https://theintercept.com/2017/01/12/cory-booker-joins-senate-republicans-to-kill-measure-to-import-cheaper-medicine-from-canada/) (Tier 2) (VERIFIED)
 - [PolitiFact: Cory Booker and Drug Maker Campaign Cash: By the Numbers](https://www.politifact.com/factchecks/2019/jul/02/donald-trump/cory-booker-and-drug-maker-campaign-cash-numbers/) (Tier 2) (VERIFIED)

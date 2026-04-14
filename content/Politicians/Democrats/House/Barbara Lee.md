@@ -197,7 +197,7 @@ Barbara Lee represents the political powerlessness of moral clarity in capitalis
 | SANDRE SWANSON FOR ASSEMBLY 2010 | $1,244 | $0 |
 | TOGETHER WE THRIVE | $750 | $0 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H8CA09060/) (Tier 1) (VERIFIED)
+- {{src:src_005776}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 <!-- auto:fec-politician pending-merge 2026-04-14 -->
@@ -330,7 +330,7 @@ _No committee data found._
 | 2014 | $1,139,240 | $1,100,730 | 83690.60 |
 | ... | 8 more cycles available | | |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H8CA09060/) (Tier 1)
+- {{src:src_005776}} (Tier 1)
 <!-- auto:fec-summary end -->
 
 ### Voting Record

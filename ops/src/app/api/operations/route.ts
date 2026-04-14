@@ -44,11 +44,15 @@ const COSTS_SEED = {
     { id: "cloudflare", service: "Cloudflare", category: "security", amount: 0, billingCycle: "monthly", startDate: "2026-04-12", notes: "Free tier. Workers + future DNS proxy", updatedAt: now() },
     { id: "domain", service: "Domain (thedonormap.org)", category: "domain", amount: 0, billingCycle: "yearly", startDate: "", notes: "TBD - confirm registrar and cost", updatedAt: now() },
     { id: "claude", service: "Claude Code", category: "ai", amount: 0, billingCycle: "usage-based", startDate: "2026-01-01", notes: "TBD - enter monthly spend manually", updatedAt: now() },
+    { id: "clerk", service: "Clerk", category: "tools", amount: 0, billingCycle: "monthly", startDate: "2026-04-14", notes: "Auth provider — login, signup, session management for the Ops app and any paid-tier gating. Free tier covers up to 10,000 monthly active users; no charge until we outgrow that.", updatedAt: now() },
+    { id: "stripe", service: "Stripe", category: "tools", amount: 0, billingCycle: "usage-based", startDate: "2026-04-14", notes: "Payment processor for Researcher/Newsroom/Patron subscriptions and student discount. Takes 2.9% + 30¢ per transaction — no monthly fee, cost scales with actual paid signups.", updatedAt: now() },
   ],
   services: [
     { id: "svc-cloudflare", name: "Cloudflare", accountEmail: "guerillapropaganda@proton.me", plan: "Free", signupDate: "2026-04-12", loginUrl: "https://dash.cloudflare.com", notes: "Worker relay deployed. DNS proxy pending.", updatedAt: now() },
     { id: "svc-github", name: "GitHub", accountEmail: "Guerillapropaganda", plan: "Free", signupDate: "", loginUrl: "https://github.com", notes: "Public repo, GitHub Pages hosting, Actions CI/CD", updatedAt: now() },
     { id: "svc-web3forms", name: "Web3Forms", accountEmail: "", plan: "Starter ($49/yr)", signupDate: "2026-04-12", loginUrl: "https://web3forms.com", notes: "Webhook config still needed", updatedAt: now() },
+    { id: "svc-clerk", name: "Clerk", accountEmail: "", plan: "Free (up to 10k MAU)", signupDate: "2026-04-14", loginUrl: "https://dashboard.clerk.com", notes: "WHY: authentication for the Ops app + subscriber tier gating (Phase 2.5). WHAT IT DOES: email/password + OAuth sign-in, session cookies, password reset, email verification. Our code integrates via @clerk/nextjs — see content/Admin Notes/phase-2.5-setup.md for the full setup walkthrough.", updatedAt: now() },
+    { id: "svc-stripe", name: "Stripe", accountEmail: "", plan: "Standard (2.9% + 30¢/txn)", signupDate: "2026-04-14", loginUrl: "https://dashboard.stripe.com", notes: "WHY: payment processing for Researcher ($20/mo), Newsroom ($150/mo), Patron ($500 one-time), and Researcher Student ($10/mo) tiers. WHAT IT DOES: Stripe Checkout handles the payment page, recurring billing, cancellation flow, receipts, chargebacks, tax. We never touch card numbers ourselves. Webhook at /api/stripe/webhook receives subscription state events and updates user tier in data/users.jsonl. Setup: content/Admin Notes/phase-2.5-setup.md.", updatedAt: now() },
   ],
 }
 

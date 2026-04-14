@@ -5,7 +5,7 @@ content-readiness: ready
 last-updated: 2026-04-08
 source-tier: 1
 parent: "[[_Jim Himes Master Profile]]"
-related: "[[The Financial Services Committee and Wall Street Oversight]] · [[The Foreign Affairs Committee and Wall Street-Queens Axis]] · [[Goldman Sachs , The Government Sachs Alumni Network]] · [[_Jim Himes Master Profile]] · [[Goldman Sachs]] · [[JPMorgan Chase]] · [[_French Hill Master Profile|French Hill]] · [[_Maxine Waters Master Profile|Maxine Waters]]"
+related: "[[The Financial Services Committee and Wall Street Oversight]] · [[The Foreign Affairs Committee and Wall Street-Queens Axis]] · [[Goldman Sachs — The Government Sachs Alumni Network]] · [[_Jim Himes Master Profile]] · [[Goldman Sachs]] · [[JPMorgan Chase]] · [[_French Hill Master Profile|French Hill]] · [[_Maxine Waters Master Profile|Maxine Waters]]"
 ---
 #himes #wall-street #goldman-sachs #financial-services #revolving-door #connecticut
 
@@ -40,9 +40,9 @@ Himes' district is the financial services industry. Greenwich, Stamford, and Wes
 
 ### Sources
 
-- ~~[Congress.gov: Jim Himes member profile](https://www.congress.gov/member/jim-himes/H001047)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
-- [FEC Candidate: Jim Himes campaign finance summary](https://www.fec.gov/data/candidate/H8CT04172/) (Tier 1) (VERIFIED)
-- [FEC Candidate: Jim Himes top industries](https://www.fec.gov/data/candidate/H8CT04172/) (Tier 1) (VERIFIED)
+- ~~[Congress.gov: Jim Himes member profile](https://www.congress.gov/member/jim-himes/H001047)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- {{src:src_006093}} (Tier 1) (VERIFIED)
+- {{src:src_006093}} (Tier 1) (VERIFIED)
 - [New York Times: Himes' Goldman Sachs background and congressional career](https://archive.nytimes.com/dealbook.nytimes.com/2011/09/26/wall-street-ties-bring-peril-for-democratic-lawmaker/) (Tier 2) (VERIFIED)
 - [ProPublica: The New Democrats. The Coalition Pharma and Wall Street Love](https://www.propublica.org/article/new-democrat-coalition) (Tier 2) (VERIFIED)
 - [Ballotpedia: Jim Himes](https://ballotpedia.org/Jim_Himes) (Tier 3) (VERIFIED)

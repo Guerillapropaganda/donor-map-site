@@ -148,7 +148,7 @@ AIPAC's $5M+ independent spending on Schiff's behalf during 2023–2024 reflecte
 | PLANNED PARENTHOOD LA ADVOCACY PROJECT | $0 | $10,023 |
 | ALHAMBRA DEMOCRATIC CLUB | $0 | $3,577 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H0CA27085/) (Tier 1) (VERIFIED)
+- {{src:src_000056}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ### Voting Record

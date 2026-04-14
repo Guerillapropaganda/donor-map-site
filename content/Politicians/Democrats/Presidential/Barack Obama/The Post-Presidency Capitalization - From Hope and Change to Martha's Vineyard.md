@@ -173,7 +173,7 @@ FEC data on Obama campaign finance is documented in [[Barack Obama Donor Network
 
 **FEC API reference:**
 - [FEC: Obama 2008 campaign receipts](https://www.fec.gov/data/receipts/?committee_id=C00431445) (Tier 1) (VERIFIED) (UNVERIFIED)
-- [FEC: Barack Obama candidate profile](https://www.fec.gov/data/candidate/P80003338/) (Tier 1) (VERIFIED) (UNVERIFIED)
+- {{src:src_005717}} (Tier 1) (VERIFIED) (UNVERIFIED)
 
 Post-presidency financial disclosures are not FEC-reportable (no candidate committee active). The wealth data in this note comes from investigative journalism and public real estate records (Tier 2).
 
@@ -195,5 +195,5 @@ Post-presidency financial disclosures are not FEC-reportable (no candidate commi
 - ~~[The Atlantic: Obama post-presidency wealth and the capital reward structure](https://www.theatlantic.com/politics/archive/2017/05/obamas-wall-street-speeches/525422/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2) (UNVERIFIED)
 - ~~[OpenSecrets: Cross-domain 2008 Obama campaign contributions summary](https://www.opensecrets.org/pres08/fundraising_summary)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1) (UNVERIFIED)
 - [OpenSecrets: Goldman Sachs contributions to Obama 2008](https://www.opensecrets.org/orgs/goldman-sachs/recipients?id=D000000085&cycle=2008&type=P) (Tier 1) (VERIFIED) (UNVERIFIED)
-- [FEC: Barack Obama candidate profile](https://www.fec.gov/data/candidate/P80003338/) (Tier 1) (UNVERIFIED)
+- {{src:src_005717}} (Tier 1) (UNVERIFIED)
 - Source: April 2026 Obama Policy Dossier cross-domain summary, lines 2101-2124 (internal research compilation, all primary sources cited within individual domain sections)

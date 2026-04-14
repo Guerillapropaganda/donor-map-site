@@ -202,10 +202,10 @@ Americans pay 3–4x what Germans, Canadians, Australians pay for identical drug
 
 ### Tier 1. Government Records & Official Data
 - [Senate LDA Filings: PhRMA Lobbying Profile, 2024](https://lda.gov/filings/public/filing/search/) (Tier 1) (VERIFIED)
-- [FEC Candidate: Cory Booker Donor Profile](https://www.fec.gov/data/candidate/P00009795/) (Tier 1) (VERIFIED)
-- [FEC Candidate: Richard Neal Donor Profile](https://www.fec.gov/data/candidate/H8MA02041/) (Tier 1) (VERIFIED)
-- [FEC Candidate: Brett Guthrie Donor Profile](https://www.fec.gov/data/candidate/H8KY02031/) (Tier 1) (VERIFIED)
-- ~~[RAND: U.S. Prescription Drug Prices 2.78x International Average](https://www.rand.org/news/press/2024/02/01.html)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- {{src:src_001199}} (Tier 1) (VERIFIED)
+- {{src:src_001197}} (Tier 1) (VERIFIED)
+- {{src:src_001563}} (Tier 1) (VERIFIED)
+- ~~[RAND: U.S. Prescription Drug Prices 2.78x International Average](https://www.rand.org/news/press/2024/02/01.html)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - [HHS ASPE: Comparing Prescription Drugs in U.S. and Other Countries](https://aspe.hhs.gov/reports/comparing-prescription-drugs) (Tier 1) (VERIFIED)
 - [Medicare Drug Price Negotiation Program • CMS.gov](https://www.cms.gov/priorities/medicare-prescription-drug-affordability/overview/medicare-drug-price-negotiation-program) (Tier 1) (VERIFIED)
 - [IRA Drug Negotiation Implementation • Congressional Research Service](https://sgp.fas.org/crs/health/IF12447.pdf) (Tier 1) (VERIFIED)
@@ -223,8 +223,8 @@ Americans pay 3–4x what Germans, Canadians, Australians pay for identical drug
 - [Fierce Pharma: Record Pharma Lobbying Q1 2024 at $92M](https://www.fiercepharma.com/pharma/peddling-influence-d-c-cost-pharma-industry-a-record-92m-first-quarter) (Tier 2) (VERIFIED)
 
 ### Tier 2. Healthcare Policy & Analysis
-- ~~[Kaiser Health News: Big Pharma Greets Hundreds of Ex-Federal Workers at Revolving Door](https://kffhealthnews.org/news/big-pharma-greets-hundreds-of-ex-federal-workers-at-the-revolving-door/at-the-revolving-door/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
-- ~~[The Hill: Booker Tries to Shake Doubts About Pharmaceutical Ties](https://thehill.com/homenews/campaign/424993-booker-tries-to-shake-doubts-about-pharmaceutical-ties-ahead-of-2020/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Kaiser Health News: Big Pharma Greets Hundreds of Ex-Federal Workers at Revolving Door](https://kffhealthnews.org/news/big-pharma-greets-hundreds-of-ex-federal-workers-at-the-revolving-door/at-the-revolving-door/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[The Hill: Booker Tries to Shake Doubts About Pharmaceutical Ties](https://thehill.com/homenews/campaign/424993-booker-tries-to-shake-doubts-about-pharmaceutical-ties-ahead-of-2020/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 - [ProPublica: Medicare Drug Planners Now Lobbyists, With Billions at Stake](https://www.propublica.org/article/medicare-drug-planners-now-lobbyists-with-billions-at-stake-1020) (Tier 2) (VERIFIED)
 
 ---

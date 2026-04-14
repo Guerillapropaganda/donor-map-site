@@ -184,7 +184,7 @@ The tech billionaire network is not investing in Trump anymore. Trump is aging, 
 
 ### Tier 1 (Primary/Government):
 - [FEC: 2024 election cycle filings and contributions](https://www.fec.gov/data/candidates/?search=2024%20Tech%20Billionaire%20Network) (Tier 1) (VERIFIED)
-- [OpenSecrets.org: Sen. J D Vance Financial Disclosures](https://www.fec.gov/data/candidate/S2OH00436/) (Tier 1) (VERIFIED)
+- {{src:src_002687}} (Tier 1) (VERIFIED)
 - [ProPublica: Peter Thiel Donor Lookup](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=peter%20thiel) (Tier 1) (VERIFIED)
 
 ### Tier 2 (Major Journalism):

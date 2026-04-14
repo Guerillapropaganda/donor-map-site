@@ -123,10 +123,10 @@ Booker sub-notes: [[The Pharma Money and Newark Poverty Paradox]] · [[The Crimi
 Scott sub-notes: [[The Wall Street Senator - Finance Industry Alignment]]
 
 Primary databases and reporting:
-- [FEC Candidate: Cory Booker campaign finance summary](https://www.fec.gov/data/candidate/P00009795/) (Tier 1) (VERIFIED) (UNVERIFIED)
-- [FEC Candidate: Cory Booker top industries](https://www.fec.gov/data/candidate/P00009795/) (Tier 1) (VERIFIED) (UNVERIFIED)
-- [FEC Candidate: Tim Scott campaign finance summary](https://www.fec.gov/data/candidate/P80008063/) (Tier 1) (VERIFIED) (UNVERIFIED)
-- [FEC Candidate: Tim Scott top industries](https://www.fec.gov/data/candidate/P80008063/) (Tier 1) (VERIFIED) (UNVERIFIED)
+- {{src:src_001199}} (Tier 1) (VERIFIED) (UNVERIFIED)
+- {{src:src_001199}} (Tier 1) (VERIFIED) (UNVERIFIED)
+- {{src:src_001219}} (Tier 1) (VERIFIED) (UNVERIFIED)
+- {{src:src_001219}} (Tier 1) (VERIFIED) (UNVERIFIED)
 - [Senate Roll Call Vote 115-1-00020: Drug Importation Amendment](https://www.senate.gov/legislative/LIS/roll_call_votes/vote1151/vote_115_1_00020.htm) (Tier 1) (VERIFIED) (UNVERIFIED)
 - [Congress.gov: First Step Act](https://www.congress.gov/bill/115th-congress/senate-bill/3649) (Tier 1) (VERIFIED) (UNVERIFIED)
 - [Read Sludge: While Some Democrats Ditch AIPAC, Cory Booker Cashes In](https://readsludge.com/2025/10/16/while-some-democrats-ditch-aipac-cory-booker-cashes-in/) (Tier 2) (VERIFIED)

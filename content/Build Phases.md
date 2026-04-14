@@ -1,9 +1,10 @@
 ---
 title: Build Phases
 type: system
-status: phase-1-in-progress
+status: query-engine-build-complete
 last-updated: 2026-04-14
 authority: ADR-0003
+closed-by: ADR-0008
 ---
 
 # Build Phases — Query Engine + Source Registry + Class Tags
@@ -17,28 +18,38 @@ Sequential phased build. No phase skipping. Each phase has exit criteria that mu
 - ✅ shipped
 
 ## Current phase
-**Phase 1** — Source Registry + Generic-Link Cleanup — 🔨 in-progress
+**ALL PHASES SHIPPED ✅** — query engine build complete. Closed by ADR-0008 on 2026-04-14. Ongoing work is maintenance (267 deferred items triage, 346 class tag approvals, Stripe activation, post-launch benchmarks). See `content/Phases/phase-6/retrospective.md` for the close-out summary.
+
+**Most recently shipped:** Phase 6 (Bug Hunt / Hardening) — 2026-04-14, retrospective at `content/Phases/phase-6/retrospective.md`, closing ADR at ADR-0008.
 
 ---
 
-## Phase 1 — Source Registry + Generic-Link Cleanup
+## Phase 1 — Source Registry + Generic-Link Cleanup ✅ SHIPPED 2026-04-14
 
 **Folder:** `content/Phases/phase-1/`
 **Goal:** Central source registry, orphan citation detection, pipeline integration.
-**Estimated duration:** 2–3 sessions
+**Actual duration:** 1 session (shipped faster than the 2–3 session estimate)
+**Retrospective:** `content/Phases/phase-1/retrospective.md`
+**Transition ADR:** ADR-0006
 
 ### Deliverables
 - [x] `data/sources.jsonl` schema defined and documented
 - [x] `scripts/lib/sources-store.cjs` writer library with validated schema
-- [ ] Content-hash fingerprinting for all new sources
-- [ ] Archive.org auto-archive integration for Tier 1 sources
-- [ ] Source extractor script: walks vault, populates registry from existing links
-- [ ] Generic-link cleanup pass script → `content/Admin Notes/orphan-citations-report.md`
-- [ ] Ops `/sources` review page (filter, re-fetch, mark, edit in place)
-- [ ] Quartz plugin: `{{src:ID}}` ref resolution at build time
-- [ ] Pipeline migration — at least one enrichment pipeline fully migrated
-- [ ] Documentation updates: CLAUDE.md, Vault Rules.md, Pipeline Guide.md
-- [ ] All new code covered by pre-commit sentinels where applicable
+- [x] Content-hash fingerprinting via `scripts/sources-fingerprint.cjs`
+- [ ] Archive.org auto-archive integration for Tier 1 sources — **deferred to Phase 6**
+- [x] Source extractor script: `scripts/extract-sources-from-vault.cjs` (14,681 unique sources)
+- [x] Generic-link cleanup pass: `scripts/sources-orphan-report.cjs` → 1,622 flagged sources
+- [x] Ops `/sources` review page (filter by status/tier/source_type/entity/host/search, per-row status dropdown)
+- [x] Quartz plugin: `{{src:ID}}` ref resolution at build time via `quartz/plugins/transformers/source-refs.ts`
+- [x] Pipeline migration — FEC pipeline migrated via `scripts/migrate-fec-citations-to-refs.cjs` (907 citations across 456 profiles, verified end-to-end)
+- [x] Documentation updates: CLAUDE.md, Vault Rules.md (Section 4b), Pipeline Guide.md (Section 0)
+- [x] All new code passed pre-commit sentinels (14 commits, all green)
+
+### Final state
+- **14,681 unique sources** in the registry, all classified
+- **9,555 live**, 3,317 archived, 1,041 needs_review, 539 dead, 135 paywall, 52 redirected, 42 generic_orphan, 0 unverified
+- **1,622 flagged** for David's triage (11% of registry)
+- **907 raw FEC citations** converted to `{{src:ID}}` refs across 456 profiles
 
 ### Exit criteria
 - All existing vault links extracted to `data/sources.jsonl` (deduped)
@@ -209,6 +220,7 @@ Plus `/who-blocks-us` cross-policy enemy list aggregate.
 **Goal:** Automated story candidate scoring and ranking in attention queue.
 **Estimated duration:** 2 sessions
 **Depends on:** Phase 4 shipped (needs structured data from all prior phases)
+**Followed by:** Phase 6 (Bug Hunt / Hardening) — the final gate before "query engine build complete"
 
 ### Deliverables
 - [ ] `data/hot-issues.jsonl` manual weekly update workflow
@@ -223,6 +235,51 @@ Plus `/who-blocks-us` cross-policy enemy list aggregate.
 - Formula top-5 matches David's top-5 on calibration set
 - First week of live scoring: David approves ≥3 of top-5 suggestions
 - Phase 5 retrospective written
+
+---
+
+## Phase 6 — Bug Hunt / Hardening
+
+**Folder:** `content/Phases/phase-6/`
+**Goal:** Hunt bugs in problem areas discovered during Phases 1–5, close deferred items, add regression coverage, audit data integrity / performance / security / defamation / documentation. No new features.
+**Estimated duration:** 2–4 sessions
+**Depends on:** Phase 5 shipped (hardening a moving target is waste)
+**Authority:** ADR-0005
+
+### Scope (8 audit categories)
+1. **Deferred-items closeout** — walk every prior phase's decisions/handoff/retrospective for TODOs and known issues, triage each
+2. **Problem-area hunts** — orphan detector re-run, bot-block spot-check, class tag coverage, query edge cases, OG card re-validation, auth middleware
+3. **Regression coverage** — test suite covering every bug fixed in Phases 1–5, CI-integrated
+4. **Data integrity** — validate every `data/*.jsonl` against its schema, dedupe checks, foreign-key resolution
+5. **Performance audit** — Quartz build time, `/api/query` p50/p95, policy page cold-cache load, profile data panel render
+6. **Security audit** — tier-check middleware, rate limits, auth tokens, secrets in git history
+7. **Defamation audit** — every policy page prose scan, source ID coverage, AIPAC page David review + optional lawyer review
+8. **Documentation sweep** — ADR closes/opens, CLAUDE.md/Vault Rules/Pipeline Guide cross-references, Phase 6 retrospective, final closing ADR
+
+### Deliverables
+- [ ] `scripts/phase-6-deferred-items-collector.cjs`
+- [ ] Regression test runner + CI integration
+- [ ] Test suites for source registry, fingerprint, query engine, policy pages, sentinels
+- [ ] Data integrity validators (re-usable, not one-off)
+- [ ] Performance benchmark documentation
+- [ ] Security audit report
+- [ ] Defamation audit report
+- [ ] Phase 6 retrospective
+- [ ] Final closing ADR ("Query Engine Build Complete")
+
+### Exit criteria
+- All deferred items triaged (fix / defer-with-ADR / accept)
+- Regression test suite green in CI
+- Every data file passes validator
+- Performance benchmarks documented
+- Security audit clean
+- AIPAC page approved by David
+- Documentation cross-references all resolve
+- Phase 6 retrospective written
+- Final closing ADR signed off
+
+### Discipline
+Phase 6 is hardening, not feature work. Anything that looks like a new feature becomes either a hotfix to the proper phase (if still in-progress), a new ADR for a post-query-engine phase, or explicitly deferred to post-launch. The phase ships when the system is audit-clean, not when every possible improvement is made.
 
 ---
 

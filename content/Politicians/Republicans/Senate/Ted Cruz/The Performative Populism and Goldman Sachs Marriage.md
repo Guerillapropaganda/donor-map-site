@@ -38,6 +38,6 @@ The 2021 Texas power grid crisis, which killed 246 people during a winter storm,
 
 ### Sources
 
-- [FEC Candidate: Ted Cruz donor profile](https://www.fec.gov/data/candidate/S2TX00312/) (Tier 1) (VERIFIED)
+- {{src:src_001216}} (Tier 1) (VERIFIED)
 - [Ballotpedia: Ted Cruz](https://ballotpedia.org/Ted_Cruz) (Tier 3) (VERIFIED)
 

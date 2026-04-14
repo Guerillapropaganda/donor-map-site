@@ -132,7 +132,7 @@ The result: AIPAC installs its preferred candidate in IL-8 without appearing on 
 
 ### Sources
 
-- [FEC: Elect Chicago Women (C00936724) committee overview](https://www.fec.gov/data/committee/C00936724/) (Tier 1) (VERIFIED)
+- {{src:src_006012}} (Tier 1) (VERIFIED)
 - [AIPAC super PAC funded big-spending Illinois groups, as Democratic fights over Israel spread. NBC News](https://www.nbcnews.com/politics/2026-election/aipac-super-pac-funded-illinois-groups-democratic-primaries-israel-rcna264379) (Tier 2) (VERIFIED)
 - [Pro-Israel group's donors and affiliates pour $13.7 million into Chicago-area primaries. WBEZ Chicago](https://www.wbez.org/politics/2026/02/27/aipac-pro-israel-groups-chicago-area-democratic-congressional-primaries-miller-conyears-ervin-bean-fine) (Tier 2) (VERIFIED)
 - [Super PAC scorecard, how outside spending groups fared in efforts to influence Illinois primary voters. WBEZ Chicago](https://www.wbez.org/government-politics/elections/2026/03/18/illinois-primary-super-pac-spending-aipac-cryptocurrency-ai-sports-betting) (Tier 2) (VERIFIED)

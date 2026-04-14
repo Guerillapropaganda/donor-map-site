@@ -90,7 +90,7 @@ The small-dollar model is not infinitely scalable or immune from pressure. Its l
 
 ### Sources
 
-- [FEC Candidate: AOC campaign finance summary](https://www.fec.gov/data/candidate/H8NY15148/) (Tier 1) (VERIFIED)
+- {{src:src_001221}} (Tier 1) (VERIFIED)
 - [OpenSecrets: AOC enters House with highest portion of small contributions](https://www.opensecrets.org/news/2018/12/ocasio-cortez-enters-the-house-as-most-popular-member-with-small-donors/) (Tier 1) (VERIFIED)
 - [OpenSecrets: AOC congressional profile](https://www.opensecrets.org/news/2025/10/congressional-profile-alexandria-ocasio-cortez/) (Tier 1) (VERIFIED)
 - [CNN: AOC built a Democratic fundraising juggernaut](https://www.cnn.com/2025/08/26/politics/aoc-ocasio-cortez-fundraising-democrats) (Tier 2) (VERIFIED)

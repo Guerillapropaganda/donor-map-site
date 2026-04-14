@@ -41,6 +41,6 @@ The structural irony: the man who built his fortune on Medicare misconduct propo
 ### Sources
 
 - [DOJ: Columbia/HCA settlement](https://www.justice.gov/archive/opa/pr/2003/June/03_civ_386.htm) (Tier 1) (VERIFIED)
-- [FEC Candidate: Rick Scott donor profile](https://www.fec.gov/data/candidate/S8FL00273/) (Tier 1) (VERIFIED)
+- {{src:src_003275}} (Tier 1) (VERIFIED)
 - [Ballotpedia: Rick Scott](https://ballotpedia.org/Rick_Scott) (Tier 3) (VERIFIED)
 

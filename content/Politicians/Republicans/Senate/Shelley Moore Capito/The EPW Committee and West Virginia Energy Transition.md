@@ -21,9 +21,9 @@ donors: [[Koch Industries]] [[US Chamber of Commerce]] [[ConocoPhillips]]
 
 ### The EPW Chair and Coal Country
 
-Shelley Moore Capito chairs the Environment and Public Works Committee, the committee with jurisdiction over EPA regulation, clean air and water standards, and infrastructure. For a West Virginia senator, this is the most strategically important committee assignment possible: EPW controls the regulatory framework that determines coal's economic viability.
+Shelley Moore Capito chairs the Environment and Public Works Committee — the committee with jurisdiction over EPA regulation, clean air and water standards, and infrastructure. For a West Virginia senator, this is the most strategically important committee assignment possible: EPW controls the regulatory framework that determines coal's economic viability.
 
-West Virginia's coal industry has been in structural decline for decades, from 130,000 mining jobs in the 1940s to roughly 11,000 today. But coal's political power in the state exceeds its economic footprint: coal companies, coal unions (historically), and coal-adjacent industries (railroads, equipment manufacturers) constitute the state's political identity. Capito's EPW chairmanship is West Virginia's last institutional defense against EPA regulation that would accelerate coal's decline.
+West Virginia's coal industry has been in structural decline for decades — from 130,000 mining jobs in the 1940s to roughly 11,000 today. But coal's political power in the state exceeds its economic footprint: coal companies, coal unions (historically), and coal-adjacent industries (railroads, equipment manufacturers) constitute the state's political identity. Capito's EPW chairmanship is West Virginia's last institutional defense against EPA regulation that would accelerate coal's decline.
 
 ---
 
@@ -38,7 +38,7 @@ Capito's most significant legislative engagement was the 2021 infrastructure neg
 
 ### Sources
 
-- ~~[Congress.gov: Shelley Moore Capito member profile](https://www.congress.gov/member/shelley-moore-capito/C001047)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
-- [FEC Candidate: Shelley Moore Capito campaign finance summary](https://www.fec.gov/data/candidate/S4WV00159/) (Tier 1) (VERIFIED)
+- ~~[Congress.gov: Shelley Moore Capito member profile](https://www.congress.gov/member/shelley-moore-capito/C001047)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- {{src:src_003213}} (Tier 1) (VERIFIED)
 - [Ballotpedia: Shelley Moore Capito](https://ballotpedia.org/Shelley_Moore_Capito) (Tier 3) (VERIFIED)
 

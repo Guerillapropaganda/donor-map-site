@@ -39,6 +39,6 @@ Steil's committee killed the For the People Act (HR 1), the Freedom to Vote Act,
 ### Sources
 
 - [Congress.gov: Bryan Steil member profile](https://www.congress.gov/member/bryan-steil/S001213) (Tier 1) (VERIFIED)
-- [FEC Candidate: Bryan Steil campaign finance summary](https://www.fec.gov/data/candidate/H8WI01156/) (Tier 1) (VERIFIED)
+- {{src:src_004520}} (Tier 1) (VERIFIED)
 - [Ballotpedia: Bryan Steil](https://ballotpedia.org/Bryan_Steil) (Tier 3) (VERIFIED)
 

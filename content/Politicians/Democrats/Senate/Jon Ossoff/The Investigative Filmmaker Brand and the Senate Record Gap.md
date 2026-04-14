@@ -245,4 +245,4 @@ This is not personal failure. It's structural: the campaign finance system makes
 - [IMDb: Jonathan Ossoff Producer Profile](https://www.imdb.com/name/nm7344702/) (Tier 1) (VERIFIED)
 - [NME: Jon Ossoff produced Stacey Dooley documentaries before Georgia Senate run](https://www.nme.com/news/tv/jon-ossoff-produced-stacey-dooley-documentaries-before-georgia-senate-run-2850342) (Tier 2) (VERIFIED)
 - [MovieMaker: Jon Ossoff Plays Down Film Career, Prefers to Be Called a Journalist](https://www.moviemaker.com/jon-ossoff-plays-down-film-career-prefers-to-be-called-investigative-journalist/) (Tier 2) (VERIFIED)
-- [FEC Candidate: Jon Ossoff Senate Committee Assignments](https://www.fec.gov/data/candidate/H8GA06195/) (Tier 1) (VERIFIED)
+- {{src:src_001215}} (Tier 1) (VERIFIED)

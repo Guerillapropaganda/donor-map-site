@@ -97,9 +97,9 @@ Hagerty's donor base is not Tennessee. His $13.8 million in total receipts flows
 
 ### Sources
 
-- [FEC Candidate: Bill Hagerty donor profile](https://www.fec.gov/data/candidate/S0TN00169/) (Tier 1) (VERIFIED)
-- [FEC Candidate: Hagerty 2024 industries](https://www.fec.gov/data/candidate/S0TN00169/) (Tier 1) (VERIFIED)
-- [FEC: Bill Hagerty candidate overview](https://www.fec.gov/data/candidate/S0TN00169/) (Tier 1) (VERIFIED)
+- {{src:src_003097}} (Tier 1) (VERIFIED)
+- {{src:src_003097}} (Tier 1) (VERIFIED)
+- {{src:src_003097}} (Tier 1) (VERIFIED)
 - [Tennessee Lookout: GOP Senate hopeful serves with donors on White House panel](https://tennesseelookout.com/2020/05/08/tenn-senate-campaign-lures-cash-from-gop-politicos-megadonors/) (Tier 2) (VERIFIED)
 - [Solana Compass: Senator Hagerty on Crypto Regulation](https://solanacompass.com/learn/Validated/the-2024-pro-crypto-election-w-senator-bill-hagerty-r-tn) (Tier 3) (VERIFIED)
 
@@ -155,7 +155,7 @@ Hagerty's donor base is not Tennessee. His $13.8 million in total receipts flows
 | SENATE CONSERVATIVES FUND | $156,791 | $0 |
 | WINNING RIGHT PAC | $130,000 | $0 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/S0TN00169/) (Tier 1) (VERIFIED)
+- {{src:src_003097}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ### Voting Record

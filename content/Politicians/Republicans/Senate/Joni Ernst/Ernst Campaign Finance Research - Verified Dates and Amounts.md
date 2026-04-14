@@ -99,7 +99,7 @@ donors: [[Koch Network - Charles Koch]], [[Agribusiness Donor Bloc]], [[Ethanol 
 - **Note:** This was substantially less than the Koch Network outside spending supporting her
 - **Comparison:** Koch outside spending ($12M+) roughly equaled Ernst's own campaign fundraising
 - **FEC Fine:** Ernst's 2014 campaign committee ("Joni for Iowa") was fined $14,500 by the FEC for campaign finance violations
-- **Sources:** [Federal Election Commission: Ernst candidate overview](https://www.fec.gov/data/candidate/S4IA00129/) (Tier 1) (VERIFIED); [Iowa Starting Line: FEC Fine Against Ernst's 2014 Campaign Largest For Iowa Politician](https://iowastartingline.com/2019/12/10/fec-fine-against-ernsts-2014-campaign-largest-for-iowa-politician/) (Tier 2) (VERIFIED)
+- **Sources:** {{src:src_003449}} (Tier 1) (VERIFIED); [Iowa Starting Line: FEC Fine Against Ernst's 2014 Campaign Largest For Iowa Politician](https://iowastartingline.com/2019/12/10/fec-fine-against-ernsts-2014-campaign-largest-for-iowa-politician/) (Tier 2) (VERIFIED)
 
 ---
 
@@ -178,7 +178,7 @@ donors: [[Koch Network - Charles Koch]], [[Agribusiness Donor Bloc]], [[Ethanol 
 **Total Agriculture PAC Donations:** $130,000 (2020 cycle)
 - **Ranking:** Agriculture was one of the two top PAC donor industries to Ernst
 - **Comparison:** Insurance PACs gave $145,000 (slightly higher)
-- **Sources:** [Senate Ernst OpenSecrets contributor profile, 2020 cycle data](https://www.fec.gov/data/candidate/S4IA00129/) (Tier 1) (VERIFIED)
+- **Sources:** {{src:src_003449}} (Tier 1) (VERIFIED)
 
 ### Overall PAC Funding Profile (Career)
 

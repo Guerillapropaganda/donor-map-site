@@ -19,9 +19,9 @@ donors: [[Boeing]] [[Lockheed Martin]] [[Northrop Grumman]] [[Raytheon (RTX)|Ray
 
 ### The Progressive Defense Democrat
 
-Adam Smith served as chairman of the House Armed Services Committee (2019-2023) and now serves as ranking member, the most senior Democrat overseeing the $886 billion defense authorization. Smith represents Washington's 9th District (south Seattle, Tacoma), home to Joint Base Lewis-McChord and adjacent to Boeing's manufacturing facilities.
+Adam Smith served as chairman of the House Armed Services Committee (2019-2023) and now serves as ranking member — the most senior Democrat overseeing the $886 billion defense authorization. Smith represents Washington's 9th District (south Seattle, Tacoma), home to Joint Base Lewis-McChord and adjacent to Boeing's manufacturing facilities.
 
-Smith is one of the most progressive Armed Services chairs in modern history, he publicly questioned whether the defense budget was too large, supported nuclear weapons modernization restraint, and advocated for shifting Pentagon spending toward diplomacy and development. These positions put him at odds with both his committee's institutional culture and his donor base.
+Smith is one of the most progressive Armed Services chairs in modern history — he publicly questioned whether the defense budget was too large, supported nuclear weapons modernization restraint, and advocated for shifting Pentagon spending toward diplomacy and development. These positions put him at odds with both his committee's institutional culture and his donor base.
 
 ---
 
@@ -36,14 +36,14 @@ Despite his progressive rhetoric, Smith's chairmanship produced NDAAs that incre
 
 ### The Boeing Factor
 
-Boeing's commercial and military operations in Washington State make the company Smith's most politically significant constituent. Boeing employees contribute to his campaigns; Boeing contracts flow through his committee. Smith's advocacy for Boeing programs is framed as protecting Washington jobs, which it is. It is also protecting Boeing revenue, which it equally is.
+Boeing's commercial and military operations in Washington State make the company Smith's most politically significant constituent. Boeing employees contribute to his campaigns; Boeing contracts flow through his committee. Smith's advocacy for Boeing programs is framed as protecting Washington jobs — which it is. It is also protecting Boeing revenue — which it equally is.
 
 ---
 
 ### Sources
 
-- ~~[Congress.gov: Adam Smith member profile](https://www.congress.gov/member/adam-smith/S000510)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
-- [FEC Candidate: Adam Smith campaign finance summary](https://www.fec.gov/data/candidate/S0KS00216/) (Tier 1) (VERIFIED)
+- ~~[Congress.gov: Adam Smith member profile](https://www.congress.gov/member/adam-smith/S000510)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- {{src:src_006407}} (Tier 1) (VERIFIED)
 - [House Armed Services Committee](https://armedservices.house.gov/) (Tier 1) (VERIFIED)
 - [Ballotpedia: Adam Smith (Washington)](https://ballotpedia.org/Adam_Smith_(Washington) (VERIFIED)) (Tier 3)
 

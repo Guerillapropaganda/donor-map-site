@@ -39,6 +39,6 @@ Boyle's donor profile reflects Philadelphia's union economy: building trades, pu
 ### Sources
 
 - [Congress.gov: Brendan Boyle member profile](https://www.congress.gov/member/brendan-boyle/B001296) (Tier 1) (VERIFIED)
-- [FEC Candidate: Brendan Boyle campaign finance summary](https://www.fec.gov/data/candidate/H4PA13199/) (Tier 1) (VERIFIED)
+- {{src:src_006302}} (Tier 1) (VERIFIED)
 - [Ballotpedia: Brendan Boyle](https://ballotpedia.org/Brendan_Boyle) (Tier 3) (VERIFIED)
 

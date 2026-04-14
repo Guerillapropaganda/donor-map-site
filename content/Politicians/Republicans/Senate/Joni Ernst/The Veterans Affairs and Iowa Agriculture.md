@@ -99,8 +99,8 @@ The PACT Act episode is the Donor-Class Override pattern with a twist: it wasn't
 
 ### Sources
 
-- [FEC Candidate: Joni Ernst campaign finance summary](https://www.fec.gov/data/candidate/S4IA00129/) (Tier 1) (VERIFIED)
-- [FEC Candidate: Joni Ernst career industry contributions](https://www.fec.gov/data/candidate/S4IA00129/) (Tier 1) (VERIFIED)
+- {{src:src_003449}} (Tier 1) (VERIFIED)
+- {{src:src_003449}} (Tier 1) (VERIFIED)
 - [Ballotpedia: Joni Ernst](https://ballotpedia.org/Joni_Ernst) (Tier 3) (VERIFIED)
 - [Iowa Capital Dispatch: 'These people don't care'. GOP stalls burn pit bill](https://iowacapitaldispatch.com/2022/07/28/these-people-dont-care-u-s-senate-gop-stalls-bill-for-veterans-exposed-to-burn-pits/) (Tier 2) (VERIFIED)
 - [NPR: PACT Act passes Senate, aiding veterans exposed to burn pits and other toxins](https://www.npr.org/2022/08/02/1115325176/pact-act-veterans-burn-pits-toxins-passes-senate) (Tier 2) (VERIFIED)

@@ -90,10 +90,10 @@ The Harvard degree is the original investment. The Harvard attack was the return
 ### Sources
 
 - [CNN: Stefanik's fierce questioning at Harvard antisemitism hearing](https://edition.cnn.com/2023/12/11/politics/elise-stefanik-antisemitism-hearing/index.html) (Tier 2) (VERIFIED)
-- [FEC Candidate: Stefanik campaign finance, pro-Israel donor surge](https://www.fec.gov/data/candidate/H4NY21079/) (Tier 1) (VERIFIED)
-- ~~[OpenSecrets: Trump administration profile. Stefanik](https://www.opensecrets.org/news/2025/01/trump-administration-profile-elise-stefanik/)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- {{src:src_002998}} (Tier 1) (VERIFIED)
+- ~~[OpenSecrets: Trump administration profile. Stefanik](https://www.opensecrets.org/news/2025/01/trump-administration-profile-elise-stefanik/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - [Harvard Crimson: Trump nominates Stefanik '06 as UN Ambassador](https://www.thecrimson.com/article/2024/11/11/trump-nominates-elise-stefanik-un-ambassador/) (Tier 2) (VERIFIED)
 - [Newsweek: Elise Stefanik. Trump's UN enforcer and gift to Netanyahu](https://www.newsweek.com/elise-stefanik-un-ambassador-israel-netanyahu-trump-1984103) (Tier 2) (VERIFIED)
 - [Times of Israel: Trump picks Stefanik as UN envoy](https://www.timesofisrael.com/trump-picks-elise-stefanik-leading-voice-against-campus-antisemitism-as-un-envoy/) (Tier 2) (VERIFIED)
-- ~~[Religion News Service: Jewish Americans should look harder at Stefanik's attacks on elites](https://religionnews.com/2024/11/14/elise-stefanik-jews-united-nations/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Religion News Service: Jewish Americans should look harder at Stefanik's attacks on elites](https://religionnews.com/2024/11/14/elise-stefanik-jews-united-nations/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 

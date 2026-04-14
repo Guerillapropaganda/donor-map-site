@@ -68,7 +68,7 @@ The pattern: support for reproductive rights (does not threaten financial intere
 
 ### Sources
 
-- [FEC Candidate: Jeffries campaign finance summary](https://www.fec.gov/data/candidate/H2NY10092/) (Tier 1) (VERIFIED)
+- {{src:src_006189}} (Tier 1) (VERIFIED)
 - [Senate LDA Filings: Jeffries lobbying contributions](https://lda.gov/filings/public/filing/search/) (Tier 1) (VERIFIED)
 - [Sludge: House Democrats' anti-progressive PAC funded by corporate lobbyists](https://readsludge.com/2022/02/01/house-democrats-new-anti-progressive-pac-is-funded-by-corporate-lobbyists-and-pacs/) (Tier 2) (VERIFIED)
 - [Sludge: Jeffries misleads on AIPAC PAC money](https://readsludge.com/2025/11/25/jeffries-misleads-on-aipac-pac-money/) (Tier 2) (VERIFIED)
