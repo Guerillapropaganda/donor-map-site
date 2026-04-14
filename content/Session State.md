@@ -1,9 +1,9 @@
 ---
 title: Session State
 type: system
-last-updated: 2026-04-12
+last-updated: 2026-04-14
 ---
-<!-- last session: Capitol Trades mega-build: 12 tabs, 52K transactions, Senate scraper, crypto/conflict/lobby analysis, 10-strategy ticker extraction -->
+<!-- last session: Relationship engine audit + vault cleanup: CA Farm Bureau deploy unblock, dual-write approve flow, 130-approval backfill, 22 aliases + 39 PAC stubs, em dash strip (20k removed), 612 Master Profile title strip, 8 duplicate entity cases resolved. 3 deploys, all green. -->
 
 
 # Session State
@@ -13,6 +13,78 @@ Both Code Claude and Research Claude update this at the end of every session. Re
 ---
 
 ## Last Session
+Claude: Code
+Date: 2026-04-14
+
+### Theme
+Relationship engine audit triggered by duplicate React key error in the Ops activity feed after David's bulk approval session. What looked like a UI bug uncovered a structural problem (approve flow bypassing the canonical edge store) plus the root cause of a deploy-break on CA Farm Bureau Federation (pipeline/ops race condition). Fixed both, then David asked to extend the audit vault-wide. Three deploys, all green.
+
+### Done — Deploy unblocker + relationship engine dual-write
+- **Resolved merge-conflict markers in `content/Donors & Power Networks/Agriculture/CA Farm Bureau Federation.md`** (unresolved `<<<<<<< HEAD` blocking GH Actions build 24409280227). Commit `17d3f2ba`.
+- **Fixed duplicate React key bug** in `ops/src/app/api/activity/route.ts` — `sug-` ids were truncated to 20 chars, collapsing all "Mike Collins Master → X" approvals onto one key. 16 collisions in suggestion-actions.json. Commit `9565720f`.
+- **Refactored `/api/suggestions` approve flow to dual-write** — pre-fix, 130 approvals landed only in frontmatter; canonical `data/relationships.jsonl` had 1 manual-ops edge. Post-fix, approvals run `buildEdge → upsertEdge` before the frontmatter write, mirroring `/api/relationships` POST. Shared helpers (`legacyToPhase3Type`, `endpointsForLegacyWrite`, `LEGACY_RELATIONSHIP_TYPES`) extracted into `ops/src/lib/relationships-store.ts`.
+- **Backfilled 130 historic approvals** via `scripts/backfill-suggestion-approvals-to-jsonl.cjs` (idempotent, dedupes by edge id). Commit `1f014b53`.
+
+### Done — Relationship engine cleanup (aliases, stubs, disambiguation, race-retry)
+- **Priority-based disambiguation in `buildTitleIndex`** (`scripts/lib/relationship-edge-validator.cjs`): canonicality score is `politician > entity > donor > story > event > meta`, archive-path penalty, file-size tiebreaker. 18 ambiguous vault titles → 0 without touching any profile file.
+- **`aliases:` frontmatter field support** in `buildTitleIndex` — profiles can claim alt names; real titles always beat aliases on collision.
+- **22 existing profiles gained aliases** via `scripts/add-pac-aliases.cjs` (Club for Growth, Congressional Leadership Fund, Senate Leadership Fund, SMP, AFP, SEIU, AFSCME, DMFI, DSCC, NAR, Fairshake, MAGA Inc, US Chamber, Freedom Partners, and more).
+- **39 stub profiles created** via `scripts/create-pac-stubs.cjs` (American Crossroads, The Lincoln Project, MoveOn, Justice Democrats PAC, DCCC/NRCC/NRSC/DNC/RNC, Courage to Change, NRA PVF, Crypto Innovation, etc.). All marked `editorial-status: stub`, `content-readiness: raw`, `source-tier: 1`. Will surface in promotion-candidate-queue naturally.
+- **`manual-ops` added to `MIGRATION_SOURCES`** in the edge validator — manual approvals don't carry FEC amount data, same exemption as migration sources.
+- **Conflict-retry in `writeAndPush`** (`ops/src/lib/local-write.ts`): on push rejection, `git pull --rebase`, retry up to 3x. On rebase conflict (pipeline raced us to the same file), `rebase --abort` + `reset --hard origin/v4` + re-write our bytes + re-commit. This is the fix that would have prevented the CA Farm Bureau deploy break. Commit `3a3390bb`.
+- **Second backfill run**: 130/130 edges in canonical store. 30 new monetary edges added (previously rejected for missing amount), 100 matched existing records, 0 skipped, 0 invalid.
+
+### Done — Vault audit cleanup (em dashes, Master Profile, duplicate entities)
+- **Em dashes stripped vault-wide** — `20,105` em dashes removed via extended `scripts/strip-em-dashes.cjs --all` (processes every profile, strips body + visible frontmatter + `> [!callout]` lines). Intentionally preserved: external news blockquotes (2,582), fenced code (175), `<!-- auto: -->` blocks (7,245), `internal-notes` frontmatter (23, pipeline logs), `content/Vault Maintenance/` archive (24,244). Residual live body em dashes: **0**. Fixed multiline-YAML safety bug in the strip logic (skips fields whose name ends in `-notes` to avoid mangling pipeline logs).
+- **Fixed `ops/src/app/api/urls/save/route.ts`** — URL archive marker now uses `,` instead of `—` (`(was Tier N, URL broken, archived by Ops)`). Unarchive regex is format-agnostic.
+- **"Master Profile" suffix stripped from 612 profile titles** via `scripts/strip-master-profile-title-suffix.cjs`. Files left alone (renaming would break `[[_X Master Profile]]` wikilinks; `normalizeTitle` already strips the suffix at lookup time). Title index unchanged.
+- **8 duplicate entity cases resolved** via `scripts/merge-duplicate-entities.cjs`:
+  - **6 merged + deleted**: Heritage Foundation, American Enterprise Institute, Center for American Progress, Federalist Society, PhRMA, Ballard Partners. Pipeline frontmatter (EIN, SEC filings, total-revenue, nonprofit-status, lobbying data) absorbed into canonical Think-Tank/Lobbying Firm/Sector profile first. Aliases added.
+  - **2 renamed**: David Sacks and JB Pritzker donor profiles are LARGER than politician profiles and contain unique editorial analysis. Retitled to `"David Sacks (Donor Network)"` and `"JB Pritzker (Donor Network)"`. Original titles preserved as aliases. Research Claude can body-merge later.
+- **Vault audit report** written to `content/Admin Notes/vault-audit-2026-04-14.md` with flagged follow-ups.
+- Commit `ae5d81dab`. Deploy run `24412461910` ✓.
+
+### Done — Audit findings (flagged, not auto-fixed)
+- **Banned AI vocabulary**: 270 instances across live profile bodies. Not auto-replaced (context-sensitive — "significantly" × 125, "ultimately" × 78, "notably" × 42 dominant). Top 10 densest files listed in the admin note for Research Claude.
+- **URL issues** (Editor-only per CLAUDE.md URL rule, David handles):
+  - 47 profiles still reference dead `followthemoney.org` links
+  - 18 profiles have inline `[Source: OpenSecrets]` without real URLs
+  - 15 profiles have `(URL NEEDED)` markers
+
+### Post-audit state
+- Vault YAML errors: **0**
+- Merge conflict markers in vault: **0**
+- Title index: 2,464 entries, **0** ambiguous
+- `data/relationships.jsonl`: **27,595 edges, 0 parse errors** (+30 from backfill)
+- Live body em dashes: **0**
+- `_ Master Profile` title suffixes: **0**
+
+### In progress
+- None — all committed.
+
+### Known issues
+- **270 banned-vocab instances in live bodies** — context-sensitive cleanup, Research Claude's lane
+- **39 new PAC stub profiles need editorial content** — class analysis, donor network, politicians funded. Tracked via `content-readiness: raw` / `editorial-status: stub`.
+- **David Sacks and JB Pritzker** still have two profiles each (politician master + `(Donor Network)` variant). Research Claude body-merge would let the donor variant be deleted.
+- **LobbyView, FIT21/GENIUS voice-vote gap, House committee assignment gap, 47% House ticker rate** — all carried over from the Capitol Trades session and not worked on today.
+
+### Next session priorities
+1. **Research Claude**: body-merge David Sacks and JB Pritzker `(Donor Network)` profiles into the politician master profiles, then delete the donor variants.
+2. **Research Claude**: clean 270 banned-vocab instances starting with the top 10 files in the audit report.
+3. **Research Claude**: 39 new PAC stubs need full editorial content — they'll surface in `/attention` via promotion-candidate-queue.
+4. **David**: URL triage — 47 FollowTheMoney links to strikethrough-archive, 18 inline OpenSecrets citations to convert.
+5. **Code Claude**: check the Capitol Trades 10-strategy re-run results (carried from 2026-04-12).
+6. **Code Claude**: port Capitol Trades analysis tabs to live Quartz site at `/interactive/capitol-trades` (carried from 2026-04-12).
+
+### Session end state
+- **3 commits + 3 deploys, all green** (runs 24410325193, 24410987603, 24412461910)
+- **Latest commit:** `ae5d81dab` (Vault audit cleanup)
+- **Files changed across the session**: 1,953 (68 relationship engine + 1,885 vault audit)
+- **Canonical store**: 27,595 edges, 130/130 historic approvals reconciled
+
+---
+
+## Previous Session
 Claude: Code
 Date: 2026-04-12 (evening, multi-hour build session)
 
