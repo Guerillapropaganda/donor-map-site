@@ -34,7 +34,7 @@ ein: "751972150"
 annual-revenue: "$236K"
 net-assets: "$849K"
 tax-year: "2023"
-total-political-spend: "$479,534"
+total-political-spend: "$481,034"
 court-cases: 44
 last-enriched: "2026-04-14"
 needs-reenrichment: true
@@ -409,15 +409,15 @@ The PAGA reform spending ($9.5 million coalition) reveals the second dimension. 
 
 | Metric | Value |
 |--------|-------|
-| Total Political Spend | $479,534 |
-| Contributions | 321 |
+| Total Political Spend | $481,034 |
+| Contributions | 323 |
 
 **Top recipients:**
 
 | Recipient | Amount | Party |
 |-----------|--------|-------|
 | AMERICAN FUTURE FUND POLITICAL ACTION | $120,000 | — |
-| HOEVEN FOR SENATE | $16,000 | REP |
+| HOEVEN FOR SENATE | $17,500 | REP |
 | RNC REPUBLICAN NATIONAL STATE ELECTION COMMITTEE | $15,863 | — |
 | MCCARTHY VICTORY FUND | $15,000 | — |
 | KEVIN MCCARTHY FOR CONGRESS | $12,500 | REP |
