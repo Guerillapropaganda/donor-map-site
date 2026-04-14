@@ -1,9 +1,9 @@
 ---
 title: Session State
 type: system
-last-updated: 2026-04-12
+last-updated: 2026-04-14
 ---
-<!-- last session: Capitol Trades mega-build: 12 tabs, 52K transactions, Senate scraper, crypto/conflict/lobby analysis, 10-strategy ticker extraction -->
+<!-- last session: Query Engine build plan (ADRs 0001-0004) + Phase 1 implementation: schema, store, extractor (14,681 sources), fingerprint pass complete, orphan report + Phase 2.75 Policy Battles locked -->
 
 
 # Session State
@@ -12,7 +12,80 @@ Both Code Claude and Research Claude update this at the end of every session. Re
 
 ---
 
+## Current Build Phase
+
+**Phase:** 1 — Source Registry + Generic-Link Cleanup
+**Status:** 🔨 in-progress (~55% complete)
+**Handoff doc:** `content/Phases/phase-1/handoff.md`
+**Next concrete action:** Write Quartz plugin for `{{src:ID}}` ref resolution (`quartz/plugins/transformers/source-refs.ts` + `quartz/util/sources-store.ts` TS mirror)
+**Blockers:** none
+**Authority:** ADR-0003 (Phased Query Engine Build)
+
+---
+
 ## Last Session
+Claude: Code
+Date: 2026-04-14 (long planning + implementation session)
+
+### Theme
+Two-part session. Morning: riffed the query engine architecture with David and produced the full institutional-memory planning package — ADRs 0001 through 0003 defining class tag vocabulary, monetization model, and phased build plan. Afternoon: shipped Phase 1 foundation code — source registry schema, store, extractor (14,681 unique sources registered from 18,587 raw links), fingerprint pass (completed all 14,681 with classification), orphan report generator. Mid-session riff added Phase 2.75 Policy Battles as a new build phase (ADR-0004).
+
+### Done — Planning / Institutional Memory (ADRs 0001-0004)
+- **ADR-0001 Class Tag Vocabulary** — locked 5-dimension schema (`capital_type`, `class_position`, `ideological_function`, `worker_relationship`, `policy_stakes`) with 16 capital types, 5 class positions, 20 ideological functions, 7 worker relationships. Mirror vocabulary for politicians. Full worked examples for Chevron, CoreCivic, Koch/Donors Trust, AFT, Amazon, AOC, Manchin, Ted Cruz.
+- **ADR-0002 Monetization Model** — "facts free, labor paid" tier structure. Free (anonymous) → Free-auth (5 queries/day) → Researcher $20/mo → Newsroom $150/mo → Patron $500 one-time. Clerk auth + Stripe. Non-negotiable free list locked.
+- **ADR-0003 Phased Query Engine Build** — 6 sequential phases with exit criteria per phase and phase-transition ceremony.
+- **ADR-0004 Phase 2.75 Policy Battles** (mid-session addition) — 5 policy pages + `/who-blocks-us` enemy list + OG card generation. AIPAC editorial firewall locked (banned words, facts-only prose, class tags carry opinion weight via structured metadata).
+- `content/Class Tag Vocabulary.md`, `content/Monetization Model.md`, `content/Build Phases.md` created as vault docs
+- `content/Phases/phase-1/` folder: handoff.md, exit-criteria.md, decisions.md
+- `content/Phases/phase-2.75/` folder: handoff.md, exit-criteria.md, decisions.md
+- `.claude/skills/phase-transition/SKILL.md` — ceremony for phase boundaries
+
+### Done — Phase 1 Code (7 of 11 deliverables, ~55% complete)
+- **`scripts/lib/sources-schema.cjs`** — schema, validator, URL normalization (dedupes `www`, trailing slash, utm params, case). 8 status enums, 14 source types, tier enum.
+- **`scripts/lib/sources-store.cjs`** — reader/writer API following `relationships-store.cjs` pattern. Lazy-loaded, in-memory URL + ID indexes, append-only JSONL. 10/10 smoke tests passed (add, dedupe-by-normalized-URL, get, update, query, count, disk reload, schema rejection).
+- **`scripts/extract-sources-from-vault.cjs`** — walks `content/**/*.md`, pulls markdown links with conservative regex, classifies by host (100+ rules across gov/news/aggregator/advocacy/academic/archive), registers via `addOrFindSource`. Full-vault run: 2,384 files scanned, 18,587 raw links found, 14,681 unique sources registered, 3,906 deduped (21% citation reuse), 0 malformed.
+- **`scripts/sources-fingerprint.cjs`** — fetches each URL with 15s timeout, captures final URL after redirects, extracts `<title>`, strips HTML/nav/header/footer/script/style, hashes main text (SHA-256), classifies as live/dead/redirected/generic_orphan/needs_review/paywall. Promise pool concurrency 8. Fixed mid-run after first pass misclassified Cloudflare-protected sites (Bloomberg, Forbes, Reuters) as dead — new `BOT_BLOCK_TITLE_RE` and `BOT_BLOCK_BODY_RE` catch "Just a moment...", "Are you a robot?", Cloudflare Ray IDs, `__cf_chl` markers. HTTP 403 reclassified as `needs_review`.
+- **`scripts/sources-orphan-report.cjs`** — reads registry, groups flagged sources by entity, writes sorted report to `content/Admin Notes/orphan-citations-report.md`.
+- **`data/sources.jsonl`** — 14,681 sources, all classified (zero unverified). 9,555 live / 3,317 archived / 1,041 needs_review / 539 dead / 135 paywall / 52 redirected / 42 generic_orphan.
+- **`content/Admin Notes/orphan-citations-report.md`** — 1,622 flagged sources across 784 entities (11.0% of registry), sorted by entity most-flagged first. Ready for David's triage.
+
+### Commits (7, all clean, all passed pre-commit gate)
+1. `e3626410a` — Phase 1 foundation (docs + schema + store + ADRs 0001-0003 + phase-transition skill)
+2. `778e2cf2d` — Source extractor + full-vault population (14,681 unique)
+3. `d6c6e64ce` — Fingerprint script v1
+4. `1881536ea` — Bot-block classifier fix + orphan report script
+5. `39e167d9a` — Phase 1 handoff mid-session update
+6. `9fac02d5e` — Phase 2.75 Policy Battles planning (ADR-0004)
+7. `6b715e530` — Fingerprint pass complete + orphan report generated
+
+### Known issues
+- **Main repo v4 is diverged** — 34 local vs 7 remote at session start. Another session is handling cleanup. Do NOT merge from this worktree to v4 until that's resolved.
+- **Windows illegal-char directories** — `content/Events/Drafts/` has trailing-space dirs. Extractor handles gracefully with try/catch.
+- **Transient file-lock warnings** — the background fingerprint race'd with git commits once; single source (src_002783 wbur.org, src_010098 lda.senate.gov) failed to persist but didn't crash. Negligible loss.
+- **29% "other" source_type** — 5,341 links don't match any host classification rule. Not a bug; David can reclassify in Ops `/sources` UI later. Fingerprinting doesn't depend on classification.
+- **1,041 needs_review** — largest flagged category. These are Cloudflare/Bloomberg/Forbes/Reuters bot-blocked pages that load fine for humans but our fetcher can't verify. Validates the bot-block fix (would have been false-dead before).
+
+### In progress
+Nothing. All session work is committed. Fingerprint pass is complete.
+
+### Next session priorities
+1. **Quartz `{{src:ID}}` plugin** — `quartz/plugins/transformers/source-refs.ts` + `quartz/util/sources-store.ts` TS mirror. Read-only at build time. Matches `{{src:src_000123}}` and replaces with `[title](canonical_url)` markdown.
+2. **Test profile conversion** — pick 3 profiles with known sources, replace markdown links with `{{src:ID}}` refs, verify Quartz build renders correctly.
+3. **Ops `/sources` review page** — Next.js page reading `sources.jsonl`, filter by status/tier/entity, one-click re-fetch, bulk status change.
+4. **Pipeline migration** — migrate one enrichment pipeline (FEC or Congress.gov) to write through `sources-store.cjs` instead of embedding raw URLs in profile bodies.
+5. **Documentation updates** — CLAUDE.md (Query Engine + Source Registry discipline sections), Vault Rules.md (Structured Data Layer section), Pipeline Guide.md (sources-store integration section).
+6. **Phase 1 retrospective** — write and run `phase-transition` skill to move to Phase 2.
+
+### Session end state
+- **7 commits, all clean**
+- **Latest commit:** `6b715e530` (fingerprint pass complete + orphan report)
+- **Registry:** 14,681 sources all classified, 1,622 flagged for triage
+- **Phase 1 progress:** ~55% (7 of 11 deliverables)
+- **Build plan state:** 7 phases locked in (Phase 1 → Phase 2 → Phase 2.75 → Phase 2.5 → Phase 3 → Phase 4 → Phase 5)
+
+---
+
+## Previous Session
 Claude: Code
 Date: 2026-04-12 (evening, multi-hour build session)
 
