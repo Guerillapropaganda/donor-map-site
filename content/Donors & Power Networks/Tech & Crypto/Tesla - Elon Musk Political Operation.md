@@ -24,7 +24,7 @@ The needs-reenrichment flag has been set. The next scheduled pipeline run will p
 
 ### Who They Are
 
-Tesla, Inc. ($96.8 billion revenue, 2024) and its political significance as a corporate extension of Elon Musk's political operation. Tesla does not operate a PAC — Musk's political spending flows through personal contributions ($277 million to the pro-Trump America PAC in 2024), X (formerly Twitter) platform manipulation, and the Department of Government Efficiency (DOGE) — the unofficial government cost-cutting operation Musk runs from within the Trump administration.
+Tesla, Inc. ($96.8 billion revenue, 2024) and its political significance as a corporate extension of Elon Musk's political operation. Tesla does not operate a PAC. Musk's political spending flows through personal contributions ($277 million to the pro-Trump America PAC in 2024), X (formerly Twitter) platform manipulation, and the Department of Government Efficiency (DOGE), the unofficial government cost-cutting operation Musk runs from within the Trump administration.
 
 Tesla's political significance extends beyond the company: Musk's $277 million 2024 election investment is the largest individual political expenditure in American history, purchasing direct access to the Trump administration through DOGE and creating a regulatory environment where Tesla's competitors (traditional automakers) face scrutiny while Tesla receives favorable treatment.
 
@@ -38,9 +38,9 @@ EV tax credit structures that favor Tesla's manufacturing model, reduced NHTSA e
 
 ### What They've Gotten
 
-**DOGE and Regulatory Capture:** Musk's DOGE operation — unprecedented access to federal agencies, government databases, and budget decisions — represents the most direct form of regulatory capture in American history. The person who runs multiple companies dependent on federal regulation (Tesla: NHTSA, EPA; SpaceX: FAA, NASA, DoD; Neuralink: FDA) is simultaneously operating within the government that regulates those companies. The conflict of interest is not hidden; it is the operating model.
+**DOGE and Regulatory Capture:** Musk's DOGE operation, unprecedented access to federal agencies, government databases, and budget decisions, represents the most direct form of regulatory capture in American history. The person who runs multiple companies dependent on federal regulation (Tesla: NHTSA, EPA; SpaceX: FAA, NASA, DoD; Neuralink: FDA) is simultaneously operating within the government that regulates those companies. The conflict of interest is not hidden; it is the operating model.
 
-**Emissions Credit Revenue:** Tesla has earned $9+ billion in cumulative revenue from selling EPA emissions credits to competitors who cannot meet federal fuel efficiency standards. This revenue stream — which requires no manufacturing, no capital investment, and no labor — exists entirely because of the regulatory framework. Tesla simultaneously benefits from EPA regulation (emissions credits) while Musk's DOGE operation seeks to reduce EPA staffing and enforcement capacity.
+**Emissions Credit Revenue:** Tesla has earned $9+ billion in cumulative revenue from selling EPA emissions credits to competitors who cannot meet federal fuel efficiency standards. This revenue stream, which requires no manufacturing, no capital investment, and no labor, exists entirely because of the regulatory framework. Tesla simultaneously benefits from EPA regulation (emissions credits) while Musk's DOGE operation seeks to reduce EPA staffing and enforcement capacity.
 
 > [!money]
 > Musk's $277 million political investment in 2024 is the largest individual campaign expenditure in American history. The return: direct access to federal government operations through DOGE, potential to shape regulations affecting Tesla ($96.8B revenue), SpaceX ($15B+ in federal contracts), and Neuralink (FDA-regulated). The ROI calculation is not complex: $277 million invested in political access to influence regulatory decisions affecting companies with combined revenue exceeding $120 billion. The investment-to-revenue ratio is approximately 1:435.

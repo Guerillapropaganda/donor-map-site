@@ -159,7 +159,7 @@ Pattern flags: **Donor-Class Override** (judicial recusal reversed to protect do
 ### Political Spending:
 - [OpenSecrets: Paul Singer donor lookup](https://www.opensecrets.org/donor-lookup/results?name=paul+singer&order=desc&sort=D) (Tier 1) (VERIFIED)
 - [OpenSecrets: Paul Singer 2024 outside spending](https://www.opensecrets.org/outside-spending/donor_detail/2024?id=U0000000066&name=Singer,+Paul&super_only=S&type=I) (Tier 1)
-- ~~[OpenSecrets: Elliott Management PAC contributions](https://www.opensecrets.org/political-action-committees-pacs/C00351658/summary)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[OpenSecrets: Elliott Management PAC contributions](https://www.opensecrets.org/political-action-committees-pacs/C00351658/summary)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 
 ### Alito Connection:
 - [ProPublica: Alito Took Unreported Luxury Trip With GOP Donor Paul Singer](https://www.propublica.org/article/samuel-alito-luxury-fishing-trip-paul-singer-scotus-supreme-court) (Tier 1)

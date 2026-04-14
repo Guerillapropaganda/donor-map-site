@@ -14,7 +14,7 @@ related: "[[_Media Pipeline Framework]] · [[Cross-Politician Contradiction Map 
 
 ### Purpose
 
-This section tracks **think tanks and policy organizations that convert donor money into intellectual cover for legislation** — the idea-laundering arm of the donor-to-policy pipeline.
+This section tracks **think tanks and policy organizations that convert donor money into intellectual cover for legislation**, the idea-laundering arm of the donor-to-policy pipeline.
 
 The Donor Map tracks: Donor → Politician → Policy.
 The Media Pipeline tracks: Donor → Media → Public Consent.
@@ -29,7 +29,7 @@ Politicians rarely invent policy. They cite research. That research is funded by
 
 ### Isolation Rules
 
-### Same architecture as the Media & Influence Pipeline — fully separate from the main Donor Map vault.
+### Same architecture as the Media & Influence Pipeline, fully separate from the main Donor Map vault.
 
 1. **One-way wikilinks only.** Think tank files link TO donor nodes in `Donors & Power Networks/`. Main vault files (politicians, donor nodes, stories) NEVER link back to think tank files. If this section is deleted, zero main vault files break.
 2. **Separate YAML type.** All think tank profiles use `type: think-tank`. Excluded from all existing dataview queries, vault audits, and content-readiness statistics.
@@ -65,7 +65,7 @@ Think Tanks & Policy Infrastructure/
     └── [TBD slots].md
 ```
 
-**Naming convention:** Plain institutional name. `Heritage Foundation.md`, not `_Heritage Foundation Master Profile.md`. These are not politician profiles — the naming distinction maintains structural separation.
+**Naming convention:** Plain institutional name. `Heritage Foundation.md`, not `_Heritage Foundation Master Profile.md`. These are not politician profiles, the naming distinction maintains structural separation.
 
 ---
 
@@ -85,23 +85,23 @@ tax-status: 501c3 | 501c4 | hybrid | for-profit
 ```
 
 Additional fields:
-- `category`: Political orientation. Same caveat as media pipeline — "centrist" is an analytical category to be tested against funding data, not an endorsement.
+- `category`: Political orientation. Same caveat as media pipeline, "centrist" is an analytical category to be tested against funding data, not an endorsement.
 - `tax-status`: IRS classification matters because it determines disclosure requirements. 501(c)(3) must disclose donors to the IRS (but not publicly). 501(c)(4) has minimal disclosure. This shapes how dark the money is.
 
 ---
 
 ### Profile Anatomy
 
-1. **Tags** — `#think-tank` required on all, plus `#conservative` / `#liberal` / `#centrist`, topic tags
-2. **`related:`** — Wikilinks to donor nodes in `Donors & Power Networks/` ONLY. Never link to politician profiles directly.
-3. **`### Who They Are`** — Founded when, by whom, stated mission, annual budget, staff size, physical location, tax status
-4. **`### Who Funds Them`** — Specific donors with dollar amounts. IRS 990 data, donor acknowledgment pages, investigative reporting. Wikilink to existing donor nodes. Flag anonymous/dark money funding.
-5. **`### What They Produce`** — Key policy papers, model legislation, judicial nominations lists, regulatory frameworks. Link specific outputs to specific policy outcomes.
-6. **`### The Policy Pipeline`** — How their research becomes law. Which politicians cite their work? Which staffers rotate between the think tank and government? Which legislative provisions mirror their recommendations word-for-word?
-7. **`### The Revolving Door`** — Staff movement between the think tank, government positions, and donor industries. Names, dates, positions.
-8. **`### What Their Funders Got`** — Measurable policy outcomes traceable to think tank research. ROI calculation where possible.
-9. **`### Class Analysis`** — What structural function does this institution serve? Who benefits from framing donor-serving policy as "independent research"?
-10. **`### Sources`** — Same format: `[Source: Description](URL) (Tier X)`
+1. **Tags**, `#think-tank` required on all, plus `#conservative` / `#liberal` / `#centrist`, topic tags
+2. **`related:`**. Wikilinks to donor nodes in `Donors & Power Networks/` ONLY. Never link to politician profiles directly.
+3. **`### Who They Are`**. Founded when, by whom, stated mission, annual budget, staff size, physical location, tax status
+4. **`### Who Funds Them`**. Specific donors with dollar amounts. IRS 990 data, donor acknowledgment pages, investigative reporting. Wikilink to existing donor nodes. Flag anonymous/dark money funding.
+5. **`### What They Produce`**. Key policy papers, model legislation, judicial nominations lists, regulatory frameworks. Link specific outputs to specific policy outcomes.
+6. **`### The Policy Pipeline`**. How their research becomes law. Which politicians cite their work? Which staffers rotate between the think tank and government? Which legislative provisions mirror their recommendations word-for-word?
+7. **`### The Revolving Door`**. Staff movement between the think tank, government positions, and donor industries. Names, dates, positions.
+8. **`### What Their Funders Got`**. Measurable policy outcomes traceable to think tank research. ROI calculation where possible.
+9. **`### Class Analysis`**. What structural function does this institution serve? Who benefits from framing donor-serving policy as "independent research"?
+10. **`### Sources`**. Same format: `[Source: Description](URL) (Tier X)`
 
 ---
 
@@ -113,10 +113,10 @@ Main vault patterns apply, plus think-tank-specific additions:
 |---------|-------------|
 | **Idea Laundering** | Donor funds research → research supports donor's preferred policy → politician cites "independent research" to justify vote |
 | **Model Legislation Pipeline** | Think tank drafts bill language → ALEC or similar distributes → state legislators introduce verbatim |
-| **Revolving Door (Policy)** | Staff moves between think tank, regulatory agency, and lobbying — carrying the same policy agenda across all three |
+| **Revolving Door (Policy)** | Staff moves between think tank, regulatory agency, and lobbying, carrying the same policy agenda across all three |
 | **Bipartisan Credibility Shield** | Think tank maintains token bipartisan advisory board to claim independence while funding comes overwhelmingly from one side |
 | **Academic Capture** | University-adjacent think tanks using academic branding to legitimize donor-funded research |
-| **Regulatory Capture Pipeline** | Think tank trains future regulators who then implement the think tank's (i.e., the donors') preferred regulatory framework |
+| **Regulatory Capture Pipeline** | Think tank trains future regulators who then implement the think tank's (i.e. the donors') preferred regulatory framework |
 
 ---
 
@@ -151,7 +151,7 @@ Same architecture as Media Pipeline:
 [Think Tank Profile] --wikilink--> [Donor Node] <--wikilink-- [Politician Profile]
 ```
 
-Example: `Heritage Foundation.md` links to `[[Koch Network - Charles Koch]]` and `[[Leonard Leo]]`. Those donor nodes already link to politician profiles. The graph view shows the think tank cluster connected to the same donor nodes as the political cluster — three clusters bridged by donors.
+Example: `Heritage Foundation.md` links to `[[Koch Network - Charles Koch]]` and `[[Leonard Leo]]`. Those donor nodes already link to politician profiles. The graph view shows the think tank cluster connected to the same donor nodes as the political cluster, three clusters bridged by donors.
 
 ---
 
@@ -163,7 +163,7 @@ Same analytical approach as the media pipeline. "Centrist" think tanks will be t
 
 ### Build Priority
 
-### Phase 1 — Initial 12-15 profiles:
+### Phase 1. Initial 12-15 profiles:
 
 | # | Name | Category | Why First |
 |---|------|----------|-----------|

@@ -42,15 +42,15 @@ The needs-reenrichment flag has been set. The next scheduled pipeline run will p
 
 ### Who He Is
 
-[[Timothy Mellon]]. Born 1942. Great-grandson of Thomas Mellon, founder of Mellon Bank. Grandson of Andrew W. Mellon — U.S. Treasury Secretary (1921–1932), one of the three wealthiest Americans of his era. Wyoming resident. 83 years old. Extremely reclusive — no public appearances, no interviews, no philanthropic profile. Many campaign recipients report never meeting him despite receiving millions.
+[[Timothy Mellon]]. Born 1942. Great-grandson of Thomas Mellon, founder of Mellon Bank. Grandson of Andrew W. Mellon. U.S. Treasury Secretary (1921–1932), one of the three wealthiest Americans of his era. Wyoming resident. 83 years old. Extremely reclusive, no public appearances, no interviews, no philanthropic profile. Many campaign recipients report never meeting him despite receiving millions.
 
-Net worth: $700 million (2014 deposition) to $4.2 billion (family relative's claim per Vanity Fair). Forbes/London Times estimates ~$1 billion. WealthX: $1.1B+. Part of the $14.1 billion Mellon family fortune. The disparity between his own claim ($700M) and a family member's ($4.2B) reflects the opacity that defines everything about him — the most consequential political donor most Americans have never heard of.
+Net worth: $700 million (2014 deposition) to $4.2 billion (family relative's claim per Vanity Fair). Forbes/London Times estimates ~$1 billion. WealthX: $1.1B+. Part of the $14.1 billion Mellon family fortune. The disparity between his own claim ($700M) and a family member's ($4.2B) reflects the opacity that defines everything about him, the most consequential political donor most Americans have never heard of.
 
 ---
 
 ### The Political Spending
 
-> [!money] Follow the Money — $504 Million and Counting
+> [!money] Follow the Money, $504 Million and Counting
 > **All-time political spending:** At least $504 million (Yahoo Finance)
 > **2024 cycle:** $165 million to outside spending groups (second-largest donor behind Musk)
 >
@@ -76,7 +76,7 @@ Net worth: $700 million (2014 deposition) to $4.2 billion (family relative's cla
 
 ---
 
-### The $130 Million Military Payment — Private Wealth Replacing Government
+### The $130 Million Military Payment. Private Wealth Replacing Government
 
 > [!money] The Most Revealing Act in the Vault
 > **October 2025:** During the government shutdown, Mellon donated $130 million to cover partial military payroll for active-duty service members.
@@ -93,23 +93,23 @@ Net worth: $700 million (2014 deposition) to $4.2 billion (family relative's cla
 
 ---
 
-### What He Wants — Immigration Restriction as Class Preservation
+### What He Wants. Immigration Restriction as Class Preservation
 
 ### The single cause. Every dollar traces back to it.
 - $53.1M to Abbott's border wall (98% of fund)
-- $1.5M to defend Arizona SB 1070 (2010) — "show me your papers" law
+- $1.5M to defend Arizona SB 1070 (2010), "show me your papers" law
 - $115M+ to [[MAGA Inc]]. (mass deportation candidate)
 - $25M to RFK Jr. (immigration restriction platform)
-- $4M to Heritage Action (Project 2025 architects — Chapter 5: immigration enforcement overhaul)
+- $4M to Heritage Action (Project 2025 architects. Chapter 5: immigration enforcement overhaul)
 
-### Race and class — his own words:
+### Race and class, his own words:
 Has written that Black Americans are "belligerent." Likens welfare to "slavery." Wants Republicans to "smash" the social safety net.
 
-**Other Mellon family members:** Reportedly shocked and appalled at Timothy's Trump support (Vanity Fair). Family suspicion: support driven by tax preferences. The Mellon Foundation (separate entity, not Timothy's) gave $15 million to humanities organizations in May 2025 to offset NEH cancellations caused by the administration Timothy funded. The family's wealth generates contradictory political expression — Timothy funds the destruction, the foundation repairs the damage.
+**Other Mellon family members:** Reportedly shocked and appalled at Timothy's Trump support (Vanity Fair). Family suspicion: support driven by tax preferences. The Mellon Foundation (separate entity, not Timothy's) gave $15 million to humanities organizations in May 2025 to offset NEH cancellations caused by the administration Timothy funded. The family's wealth generates contradictory political expression. Timothy funds the destruction, the foundation repairs the damage.
 
 ---
 
-### The Immigration-Detention Pipeline — What $504M Bought
+### The Immigration-Detention Pipeline. What $504M Bought
 
 ### What Trump delivered:
 - 675,000+ deportations (including 400,000+ charged/convicted)
@@ -119,7 +119,7 @@ Has written that Black Americans are "belligerent." Likens welfare to "slavery."
 - "One Big Beautiful Bill Act" (July 2025): $11+ billion obligated for border wall construction (of $46.5B total)
 - Additional wall miles under construction in El Paso and Rio Grande Valley
 
-### The Abbott border wall — the failure:
+### The Abbott border wall, the failure:
 > [!contradiction] $53.1 Million for 8% of a Wall
 > - August 2021: $53.1 million stock donation (98% of total private fund)
 > - **June 2025:** Project quietly defunded by GOP-controlled Texas legislature
@@ -128,7 +128,7 @@ Has written that Black Americans are "belligerent." Likens welfare to "slavery."
 > - The largest private border wall donation in history bought 65 miles and a political prop that the donor's own party defunded
 
 ### The structural pipeline remains intact regardless:
-Mellon $504M → Trump/Abbott → triples ICE budget + border enforcement → [[GEO Group|GEO Group]] profits +700% ($254M), [[CoreCivic|CoreCivic]] +70% → detention companies fund Republican campaigns → cycle repeats. Whether Mellon holds private prison stock is unknown. His interest appears ideological — immigration restriction as class preservation. The structural effect is identical: his money funds enforcement, enforcement fills beds, detention companies profit.
+Mellon $504M → Trump/Abbott → triples ICE budget + border enforcement → [[GEO Group|GEO Group]] profits +700% ($254M), [[CoreCivic|CoreCivic]] +70% → detention companies fund Republican campaigns → cycle repeats. Whether Mellon holds private prison stock is unknown. His interest appears ideological, immigration restriction as class preservation. The structural effect is identical: his money funds enforcement, enforcement fills beds, detention companies profit.
 
 ---
 
@@ -139,13 +139,13 @@ Mellon $504M → Trump/Abbott → triples ICE budget + border enforcement → [[
 - Acquired Boston & Maine Railroad, Maine Central Railroad, Delaware & Hudson
 - 1998: Purchased bankrupt Pan Am Airways brand ($28.5M)
 - 2006: Renamed Pan Am Railways
-- 2022: Sold to CSX Corporation for $600 million — ending 41-year reign over New England railroading
+- 2022: Sold to CSX Corporation for $600 million, ending 41-year reign over New England railroading
 
-The railroad fortune is modest. Mellon's political spending power comes from inherited wealth — the banking dynasty's assets compounding since the 1860s. The $600M railroad sale is supplementary. No new business developments since the CSX sale.
+The railroad fortune is modest. Mellon's political spending power comes from inherited wealth, the banking dynasty's assets compounding since the 1860s. The $600M railroad sale is supplementary. No new business developments since the CSX sale.
 
 ---
 
-### [[MAGA Inc]]. — The War Chest
+### [[MAGA Inc]]. The War Chest
 
 Mellon's primary vehicle. Current status (2025-2026):
 - Total receipts (January 2025–January 2026): $295.6 million
@@ -160,15 +160,15 @@ Mellon's primary vehicle. Current status (2025-2026):
 
 ### The Heritage / Project 2025 Connection
 
-$4 million to Sentinel Action Fund (Heritage Action's super PAC). Heritage Foundation leads Project 2025 — the 920-page Trump administration blueprint. Project 2025 Chapter 5 prescribes the immigration enforcement overhaul Mellon funded through Trump and Abbott. The alignment is structural: Mellon funds the candidates ([[MAGA Inc]]), the think tank that writes their playbook (Heritage), and the state-level enforcement (Abbott border wall). Every level of the pipeline.
+$4 million to Sentinel Action Fund (Heritage Action's super PAC). Heritage Foundation leads Project 2025, the 920-page Trump administration blueprint. Project 2025 Chapter 5 prescribes the immigration enforcement overhaul Mellon funded through Trump and Abbott. The alignment is structural: Mellon funds the candidates ([[MAGA Inc]]), the think tank that writes their playbook (Heritage), and the state-level enforcement (Abbott border wall). Every level of the pipeline.
 
 ---
 
-### Class Analysis — Old Money, Old Politics
+### Class Analysis. Old Money, Old Politics
 
 Mellon is the vault's purest expression of inherited wealth defending itself through politics. Other mega-donors have business interests that benefit from specific policies (Musk's $38B contracts, Adelson's casino regulation, Koch's deregulation). Mellon's spending produces a political environment that protects dynastic fortune.
 
-Andrew Mellon as Treasury Secretary (1921–1932): cut taxes on the rich, reduced government spending, concentrated wealth at the top. One hundred years later, his descendant funds the same agenda through Trump — tax cuts (TCJA), spending cuts (DOGE), welfare elimination, immigration restriction. When the government shut down in October 2025, [[Timothy Mellon]] didn't wait for Congress — he paid the military himself. The Mellon political project is a century old: a state so small that inherited wealth can substitute for it.
+Andrew Mellon as Treasury Secretary (1921–1932): cut taxes on the rich, reduced government spending, concentrated wealth at the top. One hundred years later, his descendant funds the same agenda through Trump, tax cuts (TCJA), spending cuts (DOGE), welfare elimination, immigration restriction. When the government shut down in October 2025, [[Timothy Mellon]] didn't wait for Congress, he paid the military himself. The Mellon political project is a century old: a state so small that inherited wealth can substitute for it.
 
 ### The $504M breakdown by function:
 - **Electoral control:** $165M+ (2024) to install preferred president
@@ -178,9 +178,9 @@ Andrew Mellon as Treasury Secretary (1921–1932): cut taxes on the rich, reduce
 - **Congressional maintenance:** $1M CLF + $2M [[MAGA Inc]] (2025, preserve majorities)
 - **Military dependency:** $130M to DoD (demonstrate private wealth can replace government)
 
-Total: $504M+ — every dollar serving a single ideological project: immigration restriction as class preservation, tax minimization as dynastic strategy, government shrinkage as inherited-wealth defense. The most money ever spent by one person on one idea in American politics.
+Total: $504M+, every dollar serving a single ideological project: immigration restriction as class preservation, tax minimization as dynastic strategy, government shrinkage as inherited-wealth defense. The most money ever spent by one person on one idea in American politics.
 
-For [[IBEW - International Brotherhood of Electrical Workers|IBEW]]: Mellon's immigration enforcement funding directly affects IBEW-adjacent construction markets. ICE raids in construction suppress wages for both undocumented and unionized workers — fear economy benefits non-union contractors who underbid union shops. The $53.1M border wall didn't use prevailing wage. The detention facilities his pipeline fills are built and staffed non-union. Every dollar Mellon spends on immigration enforcement weakens the labor market IBEW members work in.
+For [[IBEW - International Brotherhood of Electrical Workers|IBEW]]: Mellon's immigration enforcement funding directly affects IBEW-adjacent construction markets. ICE raids in construction suppress wages for both undocumented and unionized workers, fear economy benefits non-union contractors who underbid union shops. The $53.1M border wall didn't use prevailing wage. The detention facilities his pipeline fills are built and staffed non-union. Every dollar Mellon spends on immigration enforcement weakens the labor market IBEW members work in.
 
 ---
 

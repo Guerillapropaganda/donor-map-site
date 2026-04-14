@@ -1,5 +1,5 @@
 ---
-title: "Seth Magaziner Master Profile"
+title: "Seth Magaziner"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

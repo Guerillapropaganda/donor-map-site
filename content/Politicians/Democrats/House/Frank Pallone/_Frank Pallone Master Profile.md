@@ -1,58 +1,74 @@
 ---
-title: "Frank Pallone"
+title: Frank Pallone
 type: politician
 content-readiness: ready
-central-thesis: "Pallone is the textbook example of the committee-jurisdiction donor pipeline: the longer he has held the gavel (or ranking member position) on Energy and Commerce, the more money has flowed from every industry his committee regulates. Pharmaceutic..."
-last-updated: 2026-04-14
+central-thesis: >-
+  Pallone is the textbook example of the committee-jurisdiction donor pipeline:
+  the longer he has held the gavel (or ranking member position) on Energy and
+  Commerce, the more money has flowed from every industry his committee
+  regulates. Pharmaceutic...
+last-updated: '2026-04-14'
 source-tier: 1
 parent: null
-party: "Democrat"
-chamber: "House"
-state: "New Jersey"
-state-abbr: "NJ"
-district: "6"
+party: Democrat
+chamber: House
+state: New Jersey
+state-abbr: NJ
+district: '6'
 committees:
-  - "House Committee on Energy and Commerce"
+  - House Committee on Energy and Commerce
 leadership-roles:
-  - "Ranking Member"
+  - Ranking Member
 issues:
-  - "Agriculture and Food"
-  - "Armed Forces and National Security"
-  - "Arts, Culture, Religion"
-  - "Civil Rights and Liberties, Minority Issues"
-  - "Commerce"
-  - "Congress"
-  - "Economics and Public Finance"
-  - "Energy"
-  - "Environmental Protection"
-  - "Finance and Financial Sector"
+  - Agriculture and Food
+  - Armed Forces and National Security
+  - 'Arts, Culture, Religion'
+  - 'Civil Rights and Liberties, Minority Issues'
+  - Commerce
+  - Congress
+  - Economics and Public Finance
+  - Energy
+  - Environmental Protection
+  - Finance and Financial Sector
 top-donors:
-  - "Pfizer"
-  - "PhRMA"
-total-received: "$1,311,209"
-fec-candidate-id: "H8NJ03073"
-donors: "[[AFGE - American Federation of Government Employees]] · [[AIPAC - American Israel Public Affairs Committee]] · [[UAW - United Auto Workers]]"
-related: "[[Telecom Buys Net Neutrality's Death From Both Sides]] · [[_Rosa DeLauro Master Profile|Rosa DeLauro]] · [[_Maxine Waters Master Profile|Maxine Waters]] · [[Pfizer]] · [[PhRMA]]"
-last-enriched: "2026-04-14"
+  - Pfizer
+  - PhRMA
+total-received: '$1,311,209'
+fec-candidate-id: H8NJ03073
+donors: >-
+  [[AFGE - American Federation of Government Employees]] · [[AIPAC - American
+  Israel Public Affairs Committee]] · [[UAW - United Auto Workers]]
+related: >-
+  [[Telecom Buys Net Neutrality's Death From Both Sides]] · [[_Rosa DeLauro
+  Master Profile|Rosa DeLauro]] · [[_Maxine Waters Master Profile|Maxine
+  Waters]] · [[Pfizer]] · [[PhRMA]] · [[Mark Takano]] · [[Pete Aguilar]] ·
+  [[Debbie Stabenow Master Profile]] · [[Gary Peters Master Profile]]
+last-enriched: '2026-04-13'
 needs-reenrichment: true
-reenrich-reason: "re-run congress pipeline"
+reenrich-reason: re-run congress pipeline
 govtrack-id: 400308
 bills-sponsored: 534
 bills-cosponsored: 6690
-website: "https://pallone.house.gov"
-phone: "202-225-4671"
-bioguide-id: "P000034"
-total-raised: "$1,311,209"
-total-spent: "$1,257,401"
-cash-on-hand: "3125718.74"
+website: 'https://pallone.house.gov'
+phone: 202-225-4671
+bioguide-id: P000034
+total-raised: '$1,311,209'
+total-spent: '$1,257,401'
+cash-on-hand: '3125718.74'
 fec-cycle: 2026
-internal-notes: "[JANITOR 2026-04-10] Demoted ready→draft by pipeline-janitor.cjs because:
-  • BIOGUIDE data was stripped from this profile but the frontmatter still says it was enriched. The pipeline thinks it's already done and won't refresh it. Needs a re-run.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
-wikidata-id: "Q965289"
-wikipedia-url: "https://en.wikipedia.org/wiki/Frank_Pallone"
-wikipedia-extract: "Frank Joseph Pallone Jr. is an American lawyer and politician serving as the U.S. representative for New Jersey's 6th congressional district since 1988. He is a member of the Democratic Party."
-born: "1951-10-30"
+internal-notes: >-
+  [JANITOR 2026-04-10] Demoted ready→draft by pipeline-janitor.cjs because: •
+  BIOGUIDE data was stripped from this profile but the frontmatter still says it
+  was enriched. The pipeline thinks it's already done and won't refresh it.
+  Needs a re-run. The needs-reenrichment flag has been set. The next scheduled
+  pipeline run will pick it up automatically.
+wikidata-id: Q965289
+wikipedia-url: 'https://en.wikipedia.org/wiki/Frank_Pallone'
+wikipedia-extract: >-
+  Frank Joseph Pallone Jr. is an American lawyer and politician serving as the
+  U.S. representative for New Jersey's 6th congressional district since 1988. He
+  is a member of the Democratic Party.
+born: '1951-10-30'
 ---
 #frank-pallone #democrat #new-jersey #house #ranking-member #energy-commerce #pharma #telecom #environment #phase-6-gavel-power
 
@@ -63,13 +79,13 @@ donors: [[Pfizer]] [[PhRMA]]
 
 ## Who They Are
 
-Frank Pallone. Democrat, New Jersey's 6th Congressional District (Middlesex and Monmouth counties). First elected 1988. Ranking Member, House Energy and Commerce Committee — the single broadest jurisdiction committee in the House, covering healthcare, energy, environment, telecommunications, consumer protection, and food and drug safety. Served as chairman 2019-2023 before the Republican majority. Career total raised: $3.4M+ in the 2024 cycle alone, with $3M+ cash on hand. Fifth-largest corporate PAC haul of any House candidate in recent cycles.
+Frank Pallone. Democrat, New Jersey's 6th Congressional District (Middlesex and Monmouth counties). First elected 1988. Ranking Member, House Energy and Commerce Committee, the single broadest jurisdiction committee in the House, covering healthcare, energy, environment, telecommunications, consumer protection, and food and drug safety. Served as chairman 2019-2023 before the Republican majority. Career total raised: $3.4M+ in the 2024 cycle alone, with $3M+ cash on hand. Fifth-largest corporate PAC haul of any House candidate in recent cycles.
 
 ---
 
 ## The Central Thesis
 
-Pallone is the textbook example of the committee-jurisdiction donor pipeline: the longer he has held the gavel (or ranking member position) on Energy and Commerce, the more money has flowed from every industry his committee regulates. Pharmaceutical companies, energy utilities, telecom giants, and oil and gas interests all fund the man who writes the rules that govern them. His policy positions on drug pricing, climate, and net neutrality are real but structurally limited — they advance far enough to satisfy progressive voters while stopping short of the structural changes that would threaten the industries writing checks to his campaign.
+Pallone is the textbook example of the committee-jurisdiction donor pipeline: the longer he has held the gavel (or ranking member position) on Energy and Commerce, the more money has flowed from every industry his committee regulates. Pharmaceutical companies, energy utilities, telecom giants, and oil and gas interests all fund the man who writes the rules that govern them. His policy positions on drug pricing, climate, and net neutrality are real but structurally limited, they advance far enough to satisfy progressive voters while stopping short of the structural changes that would threaten the industries writing checks to his campaign.
 
 ---
 
@@ -90,20 +106,20 @@ Pallone is the textbook example of the committee-jurisdiction donor pipeline: th
 - Since 2007: $840,000+ from drugmaker PACs specifically
 
 ### Top Donor Industries:
-1. Pharmaceuticals/Health Products — ~$2.2M career
-2. Electric Utilities — $343,318 over three recent cycles
-3. Energy & Natural Resources (combined) — $594,926 since becoming ranking member (2014)
-4. Oil & Gas — doubled from $21,000 to $45,500 in recent cycles
-5. Telecom/Communications — significant but exact totals require direct OpenSecrets query
+1. Pharmaceuticals/Health Products, ~$2.2M career
+2. Electric Utilities, $343,318 over three recent cycles
+3. Energy & Natural Resources (combined), $594,926 since becoming ranking member (2014)
+4. Oil & Gas, doubled from $21,000 to $45,500 in recent cycles
+5. Telecom/Communications, significant but exact totals require direct OpenSecrets query
 
 > [!money]
 > **The Jurisdiction Premium:** Pallone's energy sector PAC donations tell the story of committee power as fundraising currency. Before becoming ranking member in 2014, his energy PAC take was modest. Since then: $31,088 (2014) → $31,088 (2016) → $92,219 (2018) → $173,619 (2020) → $298,000 (2024). That's a **~10x increase** tracking precisely with his rise to the committee gavel. The money doesn't follow the man — it follows the jurisdiction.
 
 ## Key Donor Connections:
-- [[Pfizer]] and [[PhRMA]] — among top pharmaceutical contributors; Pallone's committee has direct jurisdiction over FDA approval processes, drug pricing policy, and pharmaceutical regulation
-- FirstEnergy — one of his top energy donors; same company at the center of the Ohio nuclear bribery scandal ($60M funneled through Generation Now to secure HB 6, a $1.3B ratepayer bailout; Speaker Larry Householder convicted of racketeering, sentenced to 20 years)
-- PSE&G (New Jersey) — top utility donor, the dominant utility in his district
-- NRG Energy — significant energy donor
+- [[Pfizer]] and [[PhRMA]], among top pharmaceutical contributors; Pallone's committee has direct jurisdiction over FDA approval processes, drug pricing policy, and pharmaceutical regulation
+- FirstEnergy, one of his top energy donors; same company at the center of the Ohio nuclear bribery scandal ($60M funneled through Generation Now to secure HB 6, a $1.3B ratepayer bailout; Speaker Larry Householder convicted of racketeering, sentenced to 20 years)
+- PSE&G (New Jersey), top utility donor, the dominant utility in his district
+- NRG Energy, significant energy donor
 
 ### Industry Alignment:
 Energy and Commerce jurisdiction covers virtually every major regulated industry in the American economy. Every sector his committee oversees shows up in his donor rolls: pharma funds the health subcommittee chairman, telecom funds the communications subcommittee leader, utilities fund the energy regulator. The committee IS the fundraising vehicle.
@@ -115,12 +131,12 @@ Energy and Commerce jurisdiction covers virtually every major regulated industry
 | Date | Event | Amount | Source |
 |------|-------|--------|--------|
 | 2014-2024 | Energy PAC donations surge with ranking member/chair status | $594,926 total | OpenSecrets |
-| 2019 | Introduces H.R. 3 (Lower Drug Costs Now Act) | — | Congress.gov |
+| 2019 | Introduces H.R. 3 (Lower Drug Costs Now Act) |, | Congress.gov |
 | 2019 | Pharma industry donations continue despite H.R. 3 | $294,700 (2024 cycle) | Fierce Pharma |
-| 2020 | Introduces CLEAN Future Act (100% clean by 2050) | — | Congress.gov |
-| 2020 | Environmental groups call CLEAN Future Act "gift to Big Oil" | — | Common Dreams |
-| 2022 | IRA drug pricing provisions (based on H.R. 3) signed into law | — | Congress.gov |
-| Jan 2026 | First Medicare negotiated drug prices take effect | — | Pallone press release |
+| 2020 | Introduces CLEAN Future Act (100% clean by 2050) |, | Congress.gov |
+| 2020 | Environmental groups call CLEAN Future Act "gift to Big Oil" |, | Common Dreams |
+| 2022 | IRA drug pricing provisions (based on H.R. 3) signed into law |, | Congress.gov |
+| Jan 2026 | First Medicare negotiated drug prices take effect |, | Pallone press release |
 | Feb 2025 | RFK Jr. accuses Pallone of $2M+ pharma donations at hearing | ~$2.2M career | C-SPAN / The Hill |
 
 ---
@@ -135,38 +151,38 @@ The class function is clear: Pallone is the progressive validator for industries
 
 ## Analytical Patterns
 
-**Genuine Win + Structural Limit (Drug Pricing):** H.R. 3 and the IRA drug pricing provisions are genuine wins — Medicare can now negotiate prices on a limited set of drugs. But the reform covers fewer than 20 drugs initially, preserves the broader pharmaceutical pricing structure, and pharma's stock prices barely flinched. The industry keeps funding Pallone because the reform is manageable — it's not price controls, it's not international reference pricing, and it's not single-payer. The win is real. The limit is structural.
+**Genuine Win + Structural Limit (Drug Pricing):** H.R. 3 and the IRA drug pricing provisions are genuine wins. Medicare can now negotiate prices on a limited set of drugs. But the reform covers fewer than 20 drugs initially, preserves the broader pharmaceutical pricing structure, and pharma's stock prices barely flinched. The industry keeps funding Pallone because the reform is manageable, it's not price controls, it's not international reference pricing, and it's not single-payer. The win is real. The limit is structural.
 
-**Genuine Win + Structural Limit (Climate):** The CLEAN Future Act sounds ambitious — 100% clean economy by 2050. But independent analysis found the bill's carbon intensity target (1,807 CO2e lbs/MWh) was nearly twice as dirty as the then-current national average. Environmental groups called it "a recipe for another generation of fracking" because fracked gas and potentially even coal could qualify as "clean" under the bill's metrics. The ambition is rhetorical; the math serves the gas industry.
+**Genuine Win + Structural Limit (Climate):** The CLEAN Future Act sounds ambitious, 100% clean economy by 2050. But independent analysis found the bill's carbon intensity target (1,807 CO2e lbs/MWh) was nearly twice as dirty as the then-current national average. Environmental groups called it "a recipe for another generation of fracking" because fracked gas and potentially even coal could qualify as "clean" under the bill's metrics. The ambition is rhetorical; the math serves the gas industry.
 
-**Donor-Class Override (Energy PAC Growth):** The tenfold increase in energy PAC donations tracking with Pallone's committee ascent is the clearest example of the jurisdiction premium in the vault. Industries don't donate because they agree with the politician — they donate because the politician controls their regulatory environment. The money is access insurance.
+**Donor-Class Override (Energy PAC Growth):** The tenfold increase in energy PAC donations tracking with Pallone's committee ascent is the clearest example of the jurisdiction premium in the vault. Industries don't donate because they agree with the politician, they donate because the politician controls their regulatory environment. The money is access insurance.
 
 ---
 
 ## Rhetorical Signature Moves
 
-**The Pragmatic Progressive:** Pallone is described as "green to the bone" but a "pragmatic politician who counts votes." This framing positions every structural concession to industry as legislative realism rather than donor accommodation. When environmental groups criticized the CLEAN Future Act, the response was about vote-counting — not about whether the policy actually addresses the climate crisis.
+**The Pragmatic Progressive:** Pallone is described as "green to the bone" but a "pragmatic politician who counts votes." This framing positions every structural concession to industry as legislative realism rather than donor accommodation. When environmental groups criticized the CLEAN Future Act, the response was about vote-counting, not about whether the policy actually addresses the climate crisis.
 
-**The Committee Champion:** Pallone consistently frames his work through committee jurisdiction — "the FCC has rightfully reclaimed its authority" on net neutrality, "Medicare has negotiated" on drug pricing. This positions him as the institutional steward rather than as a politician making choices. The committee acts; Pallone merely chairs it.
+**The Committee Champion:** Pallone consistently frames his work through committee jurisdiction, "the FCC has rightfully reclaimed its authority" on net neutrality, "Medicare has negotiated" on drug pricing. This positions him as the institutional steward rather than as a politician making choices. The committee acts; Pallone merely chairs it.
 
-**The Kennedy Reversal:** When RFK Jr. accused Pallone of taking $2M from pharma during a 2025 hearing, Pallone's committee forced a retraction — not of the dollar figure (which was accurate) but of the claim that it influenced his committee work. The move reframed the conversation from "does pharma money influence you?" to "did you follow proper hearing decorum?" — a procedural deflection of a substantive question.
+**The Kennedy Reversal:** When RFK Jr. accused Pallone of taking $2M from pharma during a 2025 hearing, Pallone's committee forced a retraction, not of the dollar figure (which was accurate) but of the claim that it influenced his committee work. The move reframed the conversation from "does pharma money influence you?" to "did you follow proper hearing decorum?", a procedural deflection of a substantive question.
 
 ---
 
 ## Sources
 
-- [FEC Candidate: Frank Pallone campaign finance summary](https://www.fec.gov/data/candidate/H8NJ03073/) (Tier 1)
-- [FEC: Frank Pallone candidate filings](https://www.fec.gov/data/candidate/H8NJ03073/) (Tier 1)
-- [C-SPAN: RFK Jr. accuses Pallone of $2M pharma donations at E&C hearing](https://www.c-span.org/clip/house-committee/sec-kennedy-accuses-rep-pallone-of-receiving-2-million-of-contributions-from-pharmaceutical-companies/5166292) (Tier 1)
-- [Congress.gov: H.R. 3 — Elijah E. Cummings Lower Drug Costs Now Act](https://www.congress.gov/bill/116th-congress/house-bill/3) (Tier 1)
-- [League of Conservation Voters: Frank Pallone lifetime scorecard (96%)](https://www.lcv.org/moc/frank-j-pallone/) (Tier 1)
-- [The New Republic: What Are Frank Pallone's Corporate Donors Getting for Their Money?](https://newrepublic.com/article/161778/frank-pallone-corporate-donors-money) (Tier 2)
-- [Fierce Pharma: Top 3 House Democrat leaders have pocketed millions from pharma](https://www.fiercepharma.com/pharma/top-3-house-democrat-leaders-have-pocketed-millions-from-pharma) (Tier 2)
-- [Common Dreams: Scathing critique of CLEAN Future Act carbon intensity targets](https://www.commondreams.org/news/2020/01/27/extremely-disappointing-new-analysis-offers-scathing-critique-top-democrats-clean) (Tier 2)
-- [The Hill: Kennedy retracts claims about Pallone pharma donations](https://thehill.com/policy/healthcare/5366345-kennedy-retracts-claims-pallone/) (Tier 2)
-- [Pallone.house.gov: Statement on FCC net neutrality vote](https://pallone.house.gov/press-release/pallone-statement-fcc-vote-adopt-net-neutrality-protections) (Tier 1)
-- [Pallone.house.gov: Medicare drug price negotiation statement](https://pallone.house.gov/media/press-releases/pallone-highlights-medicare-drug-price-negotiations-highlights-legislation) (Tier 1)
-- [LegiList: Frank Pallone 2024 campaign finance](https://legilist.com/finance/P000034/2024) (Tier 3)
+- [FEC Candidate: Frank Pallone campaign finance summary](https://www.fec.gov/data/candidate/H8NJ03073/) (Tier 1) (VERIFIED)
+- [FEC: Frank Pallone candidate filings](https://www.fec.gov/data/candidate/H8NJ03073/) (Tier 1) (VERIFIED)
+- ~~[C-SPAN: RFK Jr. accuses Pallone of $2M pharma donations at E&C hearing](https://www.c-span.org/clip/house-committee/sec-kennedy-accuses-rep-pallone-of-receiving-2-million-of-contributions-from-pharmaceutical-companies/5166292)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- ~~[Congress.gov: H.R. 3. Elijah E. Cummings Lower Drug Costs Now Act](https://www.congress.gov/bill/116th-congress/house-bill/3)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- [League of Conservation Voters: Frank Pallone lifetime scorecard (96%)](https://www.lcv.org/moc/frank-j-pallone/) (Tier 1) (VERIFIED)
+- [The New Republic: What Are Frank Pallone's Corporate Donors Getting for Their Money?](https://newrepublic.com/article/161778/frank-pallone-corporate-donors-money) (Tier 2) (VERIFIED)
+- [Fierce Pharma: Top 3 House Democrat leaders have pocketed millions from pharma](https://www.fiercepharma.com/pharma/top-3-house-democrat-leaders-have-pocketed-millions-from-pharma) (Tier 2) (VERIFIED)
+- [Common Dreams: Scathing critique of CLEAN Future Act carbon intensity targets](https://www.commondreams.org/news/2020/01/27/extremely-disappointing-new-analysis-offers-scathing-critique-top-democrats-clean) (Tier 2) (VERIFIED)
+- ~~[The Hill: Kennedy retracts claims about Pallone pharma donations](https://thehill.com/policy/healthcare/5366345-kennedy-retracts-claims-pallone/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- [Pallone.house.gov: Statement on FCC net neutrality vote](https://pallone.house.gov/press-release/pallone-statement-fcc-vote-adopt-net-neutrality-protections) (Tier 1) (VERIFIED)
+- [Pallone.house.gov: Medicare drug price negotiation statement](https://pallone.house.gov/media/press-releases/pallone-highlights-medicare-drug-price-negotiations-highlights-legislation) (Tier 1) (VERIFIED)
+- ~~[LegiList: Frank Pallone 2024 campaign finance](https://legilist.com/finance/P000034/2024)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->
@@ -200,7 +216,7 @@ The class function is clear: Pallone is the progressive validator for industries
 | NEW JERSEY FAMILY FIRST INC | $0 | $7,681 |
 | FOCUS ON THE FAMILY ACTION | $0 | $7,681 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H8NJ03073/) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H8NJ03073/) (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ### Voting Record
@@ -225,8 +241,8 @@ The class function is clear: Pallone is the progressive validator for industries
 
 **Sources**
 
-- [Congress.gov: Frank Pallone](https://www.congress.gov/member/e000179) (Tier 1)
-- [GovTrack: Frank Pallone](https://www.govtrack.us/congress/members/400308) (Tier 1)
+- ~~[Congress.gov: Frank Pallone](https://www.congress.gov/member/e000179)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[GovTrack: Frank Pallone](https://www.govtrack.us/congress/members/400308)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:voting-record end -->
 
 
@@ -259,7 +275,7 @@ The class function is clear: Pallone is the progressive validator for industries
 | 2026-03-26 | H.Res. 1128: Expressing the support of the House of Representatives for the Depa… | Nay | Passed |
 | 2026-03-25 | H.R. 5103: Make the District of Columbia Safe and Beautiful Act of 2025 | Nay | Passed |
 
-- [Source: GovTrack.us](https://www.govtrack.us/congress/members/400308) (Tier 1)
+- ~~[Source: GovTrack.us](https://www.govtrack.us/congress/members/400308)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:govtrack end -->
 
 ### Legislative Activity (Congress.gov)
@@ -288,7 +304,7 @@ The class function is clear: Pallone is the progressive validator for industries
 | 5484 | National Flood Insurance Program Reauthorization and Reform Act of 2025 | Referred to the Subcommittee on Economic Development, Public Buildings, and Emergency Management. |
 | 648 | Celebrating 50 years of Bruce Springsteen's album, "Born to Run". | Referred to the House Committee on Education and Workforce. |
 
-- [Source: Congress.gov](https://www.congress.gov/member/P000034) (Tier 1)
+- ~~[Source: Congress.gov](https://www.congress.gov/member/P000034)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:congress-legislation end -->
 
 ### Campaign Finance Summary (FEC)
@@ -324,7 +340,7 @@ The class function is clear: Pallone is the progressive validator for industries
 
 - House Committee on Energy and Commerce
 
-- [Source: Congress.gov](https://www.congress.gov/member/C001091) (Tier 1)
+- ~~[Source: Congress.gov](https://www.congress.gov/member/C001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:committee-assignments end -->
 
 ### Wikipedia
@@ -333,13 +349,13 @@ Frank Joseph Pallone Jr. is an American lawyer and politician serving as the U.S
 
 | Fact | Value |
 |------|-------|
-| Wikidata ID | [Q965289](https://www.wikidata.org/wiki/Q965289) |
+| Wikidata ID | [Q965289](https://www.wikidata.org/wiki/Q965289) (VERIFIED) |
 | Description | American lawyer and politician (born 1951) |
 | Born | 1951-10-30 |
-| Website | [https://pallone.house.gov](https://pallone.house.gov) |
-| X/Twitter | [@FrankPallone](https://x.com/FrankPallone) |
-| Image | [Wikimedia Commons](https://commons.wikimedia.org/wiki/Special:FilePath/Frank_Pallone.jpg?width=300) |
+| Website | [https://pallone.house.gov](https://pallone.house.gov) (VERIFIED) |
+| X/Twitter | [@FrankPallone](https://x.com/FrankPallone) (VERIFIED) |
+| Image | [Wikimedia Commons](https://commons.wikimedia.org/wiki/Special:FilePath/Frank_Pallone.jpg?width=300) (NEEDS REVIEW) |
 
-- [Source: Wikipedia](https://en.wikipedia.org/wiki/Frank_Pallone) (Tier 3)
-- [Source: Wikidata](https://www.wikidata.org/wiki/Q965289) (Tier 2)
+- [Source: Wikipedia](https://en.wikipedia.org/wiki/Frank_Pallone) (Tier 3) (VERIFIED)
+- [Source: Wikidata](https://www.wikidata.org/wiki/Q965289) (Tier 2) (VERIFIED)
 <!-- auto:wikipedia end -->

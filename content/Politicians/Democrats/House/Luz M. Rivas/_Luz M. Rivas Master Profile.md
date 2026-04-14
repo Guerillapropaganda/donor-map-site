@@ -1,5 +1,5 @@
 ---
-title: "Luz M. Rivas Master Profile"
+title: "Luz M. Rivas"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

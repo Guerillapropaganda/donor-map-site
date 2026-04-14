@@ -17,7 +17,7 @@ related: "[[Federalist Society]] · [[Leonard Leo]] · [[Judicial Crisis Network
 
 ### The 40-Year Project
 
-The conservative capture of the Supreme Court was not an accident — it was a 40-year political project, organized by the Federalist Society, funded by conservative dark money networks, and executed through systematic judicial pipeline construction. The project's timeline:
+The conservative capture of the Supreme Court was not an accident, it was a 40-year political project, organized by the Federalist Society, funded by conservative dark money networks, and executed through systematic judicial pipeline construction. The project's timeline:
 
 | Year | Event | Investment |
 |------|-------|-----------|
@@ -37,11 +37,11 @@ The conservative capture of the Supreme Court was not an accident — it was a 4
 
 The judicial capture required three types of investment:
 
-**Personnel Pipeline:** The Federalist Society identifies, develops, and recommends conservative legal talent from law school through federal judicial appointment. The organization's network of 70,000+ lawyers and judges provides a vetted pool of candidates for every judicial vacancy. The pipeline ensures ideological reliability — judges are selected not just for legal competence but for demonstrated commitment to originalist methodology that produces conservative policy outcomes.
+**Personnel Pipeline:** The Federalist Society identifies, develops, and recommends conservative legal talent from law school through federal judicial appointment. The organization's network of 70,000+ lawyers and judges provides a vetted pool of candidates for every judicial vacancy. The pipeline ensures ideological reliability, judges are selected not just for legal competence but for demonstrated commitment to originalist methodology that produces conservative policy outcomes.
 
-**Confirmation Campaigns:** Leonard Leo's network — operating through the Judicial Crisis Network (now Concord Fund), DonorsTrust, and affiliated organizations — spent $100+ million on judicial confirmation campaigns from 2016-2020. These campaigns included television advertising, grassroots mobilization, opposition research on nominees' opponents, and direct lobbying of swing-vote senators.
+**Confirmation Campaigns:** Leonard Leo's network, operating through the Judicial Crisis Network (now Concord Fund), DonorsTrust, and affiliated organizations, spent $100+ million on judicial confirmation campaigns from 2016-2020. These campaigns included television advertising, grassroots mobilization, opposition research on nominees' opponents, and direct lobbying of swing-vote senators.
 
-**Dark Money Funding:** The funding for the judicial project is largely untraceable. The $1.6 billion Barre Seid donation to Leonard Leo's Marble Freedom Trust (2020) was the largest single political donation in American history — and it was disclosed only because of investigative journalism, not legal requirements. The total dark money investment in the conservative judicial project over 40 years is estimated at $500 million to $1 billion.
+**Dark Money Funding:** The funding for the judicial project is largely untraceable. The $1.6 billion Barre Seid donation to Leonard Leo's Marble Freedom Trust (2020) was the largest single political donation in American history, and it was disclosed only because of investigative journalism, not legal requirements. The total dark money investment in the conservative judicial project over 40 years is estimated at $500 million to $1 billion.
 
 ---
 

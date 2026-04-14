@@ -1,5 +1,5 @@
 ---
-title: "Kevin Kiley Master Profile"
+title: "Kevin Kiley"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

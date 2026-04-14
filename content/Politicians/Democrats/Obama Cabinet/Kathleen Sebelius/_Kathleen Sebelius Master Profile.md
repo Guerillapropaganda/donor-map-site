@@ -1,5 +1,5 @@
 ---
-title: "Kathleen Sebelius Master Profile"
+title: "Kathleen Sebelius"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

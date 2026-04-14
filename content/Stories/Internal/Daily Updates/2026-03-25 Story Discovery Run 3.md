@@ -84,7 +84,7 @@ The AI industry has built a three-stage influence pipeline: (1) ballroom donatio
 **Vault connections:** Needs new donor node for [[Leading the Future PAC]]. Updates [[_Donald Trump Master Profile]] AI policy section. Cross-references with existing [[Crypto Industry Bloc]] node, parallel industry capture playbook.
 
 - [PBS News: Trump reveals AI Action Plan shaped by tech lobbyists](https://www.pbs.org/newshour/politics/watch-live-trump-reveals-ai-action-plan-shaped-by-his-tech-supporters-after-revoking-biden-policy) (Tier 2) (VERIFIED)
-- ~~[Axios: White House releases Trump's national AI plan and framework](https://www.axios.com/2026/03/20/white-house-ai-plan-trump-framework)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[Axios: White House releases Trump's national AI plan and framework](https://www.axios.com/2026/03/20/white-house-ai-plan-trump-framework)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [OpenSecrets: Trump ballroom donors poised to benefit from AI plan they helped shape](https://www.opensecrets.org/news/2026/01/trump-ballroom-donors-poised-to-benefit-from-ai-plan-they-helped-shape/) (Tier 1)
 - [NBC News: White House irked by Leading the Future, new $100M pro-AI super PAC](https://www.nbcnews.com/politics/trump-administration/white-house-irked-leading-future-new-100m-ai-super-pac-rcna239392) (Tier 2) (VERIFIED)
 - [CNN: How Palantir and AI money is shaping the midterms](https://us.cnn.com/2026/02/11/politics/palantir-midterms-artificial-intelligence-ai) (Tier 2) (VERIFIED)

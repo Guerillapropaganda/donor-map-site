@@ -37,7 +37,7 @@ Reclaim America PAC is the leadership PAC of Senator Marco Rubio (R-FL), founded
 
 ### What They Want
 
-Leadership PACs serve as relationship-building tools for ambitious politicians. Rubio uses Reclaim America to distribute funds to Republican candidates, building loyalty and political capital within the party. The PAC exclusively supports Republican candidates — 100% Republican in 2023–2024.
+Leadership PACs serve as relationship-building tools for ambitious politicians. Rubio uses Reclaim America to distribute funds to Republican candidates, building loyalty and political capital within the party. The PAC exclusively supports Republican candidates, 100% Republican in 2023–2024.
 
 ---
 
@@ -79,7 +79,7 @@ Leadership PACs serve as relationship-building tools for ambitious politicians. 
 
 ### Class Analysis
 
-Reclaim America PAC is a standard leadership PAC that functions as Rubio's political influence tool within the Republican Party. The $105K to the Trump 47 Committee is the most analytically significant disbursement — it signaled Rubio's alignment with Trump and likely contributed to his positioning for a cabinet role. The donor list (Dana White, Schwarzman) reflects the Republican donor class that Rubio courts: billionaire entertainment and finance figures who expect access and policy alignment in return.
+Reclaim America PAC is a standard leadership PAC that functions as Rubio's political influence tool within the Republican Party. The $105K to the Trump 47 Committee is the most analytically significant disbursement, it signaled Rubio's alignment with Trump and likely contributed to his positioning for a cabinet role. The donor list (Dana White, Schwarzman) reflects the Republican donor class that Rubio courts: billionaire entertainment and finance figures who expect access and policy alignment in return.
 
 ---
 

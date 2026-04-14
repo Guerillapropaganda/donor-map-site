@@ -31,7 +31,7 @@ donors: [[Koch Network - Charles Koch]]
 | 2018-01-01 | NRA launches TV campaign against McCaskill in Missouri (exact dates pending) | Unknown (seven-figure) | The Trace/FEC |
 | 2018-01-01 | Senate Majority PAC (Democratic super PAC) begins spending against Hawley (exact dates pending) | $21,100,000 | OpenSecrets |
 | 2018-01-01 | Majority Forward/CSSA (Democratic dark money) begins spending against Hawley (exact dates pending) | $2,700,000 | OpenSecrets |
-| 2018-11-06 | Hawley defeats McCaskill with combined outside spending ($39.5M pro-Hawley, $31.6M anti-Hawley) | — | Missouri Secretary of State |
+| 2018-11-06 | Hawley defeats McCaskill with combined outside spending ($39.5M pro-Hawley, $31.6M anti-Hawley) |, | Missouri Secretary of State |
 | 2018-01-01 | Total outside spending in race (exact date pending) | $71,000,000+ | OpenSecrets |
 
 McCaskill attracted $31.6M in outside opposition spending; Hawley attracted $39.5M. The race was decided not by the candidates but by the dark money infrastructure each party deployed.

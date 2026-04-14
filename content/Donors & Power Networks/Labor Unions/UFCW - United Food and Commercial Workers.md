@@ -41,9 +41,9 @@ The needs-reenrichment flag has been set. The next scheduled pipeline run will p
 
 ### Who They Are
 
-United Food and Commercial Workers — 1.2 million members nationally (U.S. and Canada), approximately two-thirds in grocery stores. The union behind the checkout counter at Ralphs, Vons, Safeway, Albertsons, Food 4 Less, Stater Bros. The workers who kept the food supply running through COVID while being called "essential" and paid like they were disposable.
+United Food and Commercial Workers, 1.2 million members nationally (U.S. and Canada), approximately two-thirds in grocery stores. The union behind the checkout counter at Ralphs, Vons, Safeway, Albertsons, Food 4 Less, Stater Bros. The workers who kept the food supply running through COVID while being called "essential" and paid like they were disposable.
 
-Membership declining: down 106,000 members (8%) since 2014. The trajectory tells the structural story — Walmart's non-union model and Amazon's grocery expansion are eating unionized market share, and every percentage point of market share that shifts to non-union retailers is a percentage point of UFCW membership that disappears.
+Membership declining: down 106,000 members (8%) since 2014. The trajectory tells the structural story. Walmart's non-union model and Amazon's grocery expansion are eating unionized market share, and every percentage point of market share that shifts to non-union retailers is a percentage point of UFCW membership that disappears.
 
 ### California locals covering the Inland Empire:
 - **UFCW Local 1167:** [[IBEW Local 440 - Riverside|Riverside]] and [[IBEW Local 477 - San Bernardino|San Bernardino]] Counties, portions of LA County
@@ -55,7 +55,7 @@ Membership declining: down 106,000 members (8%) since 2014. The trajectory tells
 
 ### The Political Operation
 
-> [!money] Follow the Money — UFCW Political Spending
+> [!money] Follow the Money. UFCW Political Spending
 > **Total organizational contributions (2024):** $12.2 million
 > **Federal lobbying:** $900,000
 >
@@ -67,7 +67,7 @@ Membership declining: down 106,000 members (8%) since 2014. The trajectory tells
 
 ---
 
-### The 2003 Strike — The Wound That Never Healed
+### The 2003 Strike. The Wound That Never Healed
 
 October 11, 2003 – February 26, 2004. Nineteen weeks. 70,000 workers. The defining event of UFCW's California history and a case study in how unions lose.
 
@@ -75,13 +75,13 @@ October 11, 2003 – February 26, 2004. Nineteen weeks. 70,000 workers. The defi
 - October 11: 21,000 UFCW members struck Vons and Pavilions (Safeway subsidiary)
 - October 12: Ralphs (Kroger) and Albertsons locked out 38,000 additional workers
 - Total: 59,000 workers on strike or locked out. 70,000 directly involved.
-- Duration: 19 weeks — the longest major grocery action in American history
+- Duration: 19 weeks, the longest major grocery action in American history
 
 ### Why:
 Management demanded concessions on healthcare and benefits, citing competition from non-union Walmart (which had entered California's grocery market in 2002). The companies wanted to shift healthcare costs to workers and create a lower-wage tier for new hires.
 
 ### The outcome:
-Workers voted 86% to ratify — a devastating concession agreement.
+Workers voted 86% to ratify, a devastating concession agreement.
 - **Two-tier wage system imposed:** Previous contract wages ranged $9.80–$17.90/hour. New lower-tier: $8.90–$15.10/hour
 - Sunday pay: reduced from time-and-a-half to time plus $1
 - Healthcare: coverage maintained for 2 years, then substantial premium increases and coverage reductions
@@ -105,7 +105,7 @@ December 10, 2024: Federal judge blocks $24.6 billion Kroger-Albertsons merger w
 
 UFCW's role: represented 100,000+ grocery employees across 14 states plus D.C. who would have been directly affected. Projected store closures numbered in the hundreds. UFCW joined the FTC and 9 state AGs (including California) in the federal lawsuit.
 
-This was a rare union victory against corporate consolidation — achieved through regulatory and legal channels rather than strike power. The FTC and [[_Elizabeth Warren Master Profile|Elizabeth Warren]]'s consumer protection framework did the heavy lifting. UFCW provided the political coalition and the narrative (worker impact, food deserts, community harm). The win matters: if the merger had gone through, a single company would have controlled the majority of unionized grocery workers in the country, with overwhelming leverage in contract negotiations.
+This was a rare union victory against corporate consolidation, achieved through regulatory and legal channels rather than strike power. The FTC and [[_Elizabeth Warren Master Profile|Elizabeth Warren]]'s consumer protection framework did the heavy lifting. UFCW provided the political coalition and the narrative (worker impact, food deserts, community harm). The win matters: if the merger had gone through, a single company would have controlled the majority of unionized grocery workers in the country, with overwhelming leverage in contract negotiations.
 
 ---
 
@@ -115,7 +115,7 @@ The structural crisis driving UFCW's decline:
 
 **Walmart's entry (1988+):** Created a 30% wage/benefits cost differential versus unionized chains. Result: loss of 200,000+ union grocery jobs over 20 years. Unionized chains demanded concessions from workers, citing Walmart competition (the 2003 strike was fundamentally about this). UFCW has never successfully organized a single Walmart store.
 
-**Amazon's expansion:** Whole Foods acquisition (2017), Amazon Fresh, grocery delivery. Same playbook — non-union workforce, technology-driven efficiency, price competition that undermines the revenue base of unionized chains. The [[Teamsters - International Brotherhood of Teamsters|Teamsters]] are at least fighting Amazon directly. UFCW has no comparable campaign.
+**Amazon's expansion:** Whole Foods acquisition (2017), Amazon Fresh, grocery delivery. Same playbook, non-union workforce, technology-driven efficiency, price competition that undermines the revenue base of unionized chains. The [[Teamsters - International Brotherhood of Teamsters|Teamsters]] are at least fighting Amazon directly. UFCW has no comparable campaign.
 
 ### The wage data tells it:
 - Union grocery workers in California: approximately 16% covered by union contract (vs. 11% nationally)
@@ -133,29 +133,29 @@ UFCW is in the middle of the largest grocery contract cycle in years:
 
 ### 2025:
 - **45,000 Southern California workers** (Ralphs, Vons, Albertsons, Pavilions): 90% strike authorization vote, tentative agreement reached July 2025
-- **Stater Bros. (August 2025):** ~12,000 workers across 7 locals ratified — wages up to $3.45 over 3 years, top rate $27.00→$30.45 by 2027, supplemental pension, healthcare, staffing
+- **Stater Bros. (August 2025):** ~12,000 workers across 7 locals ratified, wages up to $3.45 over 3 years, top rate $27.00→$30.45 by 2027, supplemental pension, healthcare, staffing
 - **Colorado Safeway:** Unfair labor practice strike expanded to 38+ stores
-- **Food 4 Less (July 2024):** 7,000 workers ratified — wages up $1.65 over 3 years
+- **Food 4 Less (July 2024):** 7,000 workers ratified, wages up $1.65 over 3 years
 
 ### 2026:
-- **February:** 30,000 New England Stop & Shop workers — resolved March 2026, four-year deal through 2030
+- **February:** 30,000 New England Stop & Shop workers, resolved March 2026, four-year deal through 2030
 - **March:** ~20,000 Fry's (Kroger) workers across Arizona
 - **May:** 20,000 Ohio Kroger workers
 - Nearly 100,000 UFCW grocery members bargaining contracts in first half of 2026
 
-The contract cycle is where UFCW's power actually lives — not in PAC spending but in the ability to threaten disruption at the grocery chains where most working families shop.
+The contract cycle is where UFCW's power actually lives, not in PAC spending but in the ability to threaten disruption at the grocery chains where most working families shop.
 
 ---
 
-### Class Analysis — The Working Class's Grocery Store
+### Class Analysis. The Working Class's Grocery Store
 
-UFCW's structural position in the vault is unique: they represent the workers at the point of consumption — the grocery stores where working-class families buy food. This makes their fights immediately legible to the public in ways that construction trades or public-sector disputes are not. When grocery workers strike, everyone notices.
+UFCW's structural position in the vault is unique: they represent the workers at the point of consumption, the grocery stores where working-class families buy food. This makes their fights immediately legible to the public in ways that construction trades or public-sector disputes are not. When grocery workers strike, everyone notices.
 
 But that visibility cuts both ways. The 2003 strike showed that public sympathy doesn't translate to bargaining power when management can outlast the workers. Nineteen weeks on strike, $300 million in lost wages, and the workers ratified a concession contract. The companies lost $2 billion in revenue and got the two-tier system they wanted.
 
 The Walmart problem is the UFCW's existential crisis and a microcosm of the entire labor movement's crisis: capital can always find cheaper labor. When unionized chains face competition from non-union retailers with 30% lower labor costs, the union's choices are concede (2003) or die (store closures). The Kroger-Albertsons merger fight was about preventing the consolidation that would have made this dynamic even worse.
 
-For [[IBEW - International Brotherhood of Electrical Workers|IBEW]] members: UFCW Locals 1167 and 1428 cover the same Inland Empire territory as IBEW Locals 477 and 440. The grocery workers and the electricians are in the same communities, shopping at the same stores, sending their kids to the same schools. When grocery wages decline, it affects the entire working-class ecosystem of the IE. And the structural threat — non-union competition undercutting union standards — is identical across both industries. Walmart did to UFCW what non-union electrical contractors do to IBEW: compete on price by suppressing labor costs.
+For [[IBEW - International Brotherhood of Electrical Workers|IBEW]] members: UFCW Locals 1167 and 1428 cover the same Inland Empire territory as IBEW Locals 477 and 440. The grocery workers and the electricians are in the same communities, shopping at the same stores, sending their kids to the same schools. When grocery wages decline, it affects the entire working-class ecosystem of the IE. And the structural threat, non-union competition undercutting union standards, is identical across both industries. Walmart did to UFCW what non-union electrical contractors do to IBEW: compete on price by suppressing labor costs.
 
 ---
 

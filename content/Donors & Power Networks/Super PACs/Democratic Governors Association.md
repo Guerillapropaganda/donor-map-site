@@ -49,12 +49,12 @@ Democratic gubernatorial victories and state legislative majority control (since
 
 ### Direct Support (2022 Gubernatorial Cycle, $150M+):
 ### Gubernatorial Races (core focus):
-- Arizona (Katie Hobbs) — $8M+
-- Georgia (Stacey Abrams) — $12M+
-- Nevada (Steve Sisolak) — $6M+
-- Pennsylvania (Josh Shapiro) — $10M+
-- Wisconsin (Tony Evers) — $5M+
-- Michigan (Gretchen Whitmer) — $8M+
+- Arizona (Katie Hobbs), $8M+
+- Georgia (Stacey Abrams), $12M+
+- Nevada (Steve Sisolak), $6M+
+- Pennsylvania (Josh Shapiro), $10M+
+- Wisconsin (Tony Evers), $5M+
+- Michigan (Gretchen Whitmer), $8M+
 - And 30+ other races with smaller allocations
 
 ### Supporting Infrastructure:
@@ -123,8 +123,8 @@ The asymmetry between DGA's stated goal (elect Democratic governors) and its act
 
 ### Sources
 
-- ~~[OpenSecrets: Democratic Governors Association profile](https://www.opensecrets.org/orgs/democratic-governors-association/summary)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
-- [ProPublica 527 Explorer: Democratic Governors Association — $884M contributions, IRS Form 8872 filings](https://projects.propublica.org/527-explorer/orgs/521304889) (Tier 1) (VERIFIED)
+- ~~[OpenSecrets: Democratic Governors Association profile](https://www.opensecrets.org/orgs/democratic-governors-association/summary)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- [ProPublica 527 Explorer: Democratic Governors Association, $884M contributions, IRS Form 8872 filings](https://projects.propublica.org/527-explorer/orgs/521304889) (Tier 1) (VERIFIED)
 - [Center for Public Integrity: How Democrats use dark money and win elections](https://publicintegrity.org/politics/how-democrats-use-dark-money-and-win-elections/) (Tier 2) (VERIFIED)
 - [Center for Responsive Politics: State-level mega-donor spending](https://www.opensecrets.org/news/) (Tier 2) (VERIFIED)
 - [Ballotpedia: 2022 Gubernatorial Elections](https://ballotpedia.org/2022_United_States_gubernatorial_elections) (Tier 3) (VERIFIED)

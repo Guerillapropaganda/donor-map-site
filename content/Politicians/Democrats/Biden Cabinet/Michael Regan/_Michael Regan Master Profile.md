@@ -1,5 +1,5 @@
 ---
-title: "Michael Regan Master Profile"
+title: "Michael Regan"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

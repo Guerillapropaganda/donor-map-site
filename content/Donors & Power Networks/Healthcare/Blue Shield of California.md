@@ -108,9 +108,9 @@ Healthcare. Single-payer, COVID contracts, PBM regulation
 ### Sources
 
 - [CapRadio: Blue Shield / UnitedHealth no-bid contracts investigation](https://www.capradio.org/articles/2021/02/16/investigation-big-newsom-donors-including-blue-shield-received-no-bid-contracts-during-covid-19-response/) (Tier 2) (VERIFIED)
-- ~~[KTLA: $226M corporate donations 2020](https://ktla.com/news/california/corporate-giants-flooded-newsom-with-record-226-million-in-charity-donations-in-2020/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[KTLA: $226M corporate donations 2020](https://ktla.com/news/california/corporate-giants-flooded-newsom-with-record-226-million-in-charity-donations-in-2020/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [National Institute on Money in Politics: contribution data](https://www.followthemoney.org/show-me?s=CA&y=2024&c-r-ot=U&d-cci=Blue%20Shield%20of%20California#[%7B1%7Cgro=d-id) (Tier 1) (VERIFIED)
-- ~~[FPPC: behested payment database / Form 803](https://www.fppc.ca.gov/transparency/behested-payments.html)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[FPPC: behested payment database / Form 803](https://www.fppc.ca.gov/transparency/behested-payments.html)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 
 ---
 

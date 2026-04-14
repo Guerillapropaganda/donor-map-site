@@ -1,5 +1,5 @@
 ---
-title: "Sara Jacobs Master Profile"
+title: "Sara Jacobs"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

@@ -7,7 +7,7 @@ source-tier: null
 parent: null
 category: centrist
 platform: substack
-related: "[[Bari Weiss]] · [[The Platform Dependency Spectrum — Revenue Vulnerability Across Political Media]] · [[Chris Cuomo]] · [[Megyn Kelly]] · [[Lex Fridman]] · [[Jordan Peterson]] · [[Tucker Carlson]] · [[Tim Pool]] · [[Tenet Media]] · [[Steven Crowder]] · [[Sean Hannity]] · [[Rumble]] · [[Patrick Bet-David]] · [[Matt Walsh]] · [[Mark Levin]] · [[Laura Ingraham]] · [[Michael Knowles]] · [[Jesse Watters]] · [[Jeremy Boreing]] · [[James O'Keefe]] · [[Greg Gutfeld]] · [[Dave Rubin]] · [[Jimmy Dore]] · [[Dan Bongino]] · [[The Daily Wire]] · [[Christopher Rufo]] · [[Charlie Kirk]] · [[Candace Owens]] · [[Ben Shapiro]] · [[Andrew Klavan]] · [[TYT Network - The Young Turks]] · [[Sam Seder]] · [[Rachel Maddow]] · [[Pod Save America]]"
+related: "[[Bari Weiss]] · [[The Platform Dependency Spectrum , Revenue Vulnerability Across Political Media]] · [[Chris Cuomo]] · [[Megyn Kelly]] · [[Lex Fridman]] · [[Jordan Peterson]] · [[Tucker Carlson]] · [[Tim Pool]] · [[Tenet Media]] · [[Steven Crowder]] · [[Sean Hannity]] · [[Rumble]] · [[Patrick Bet-David]] · [[Matt Walsh]] · [[Mark Levin]] · [[Laura Ingraham]] · [[Michael Knowles]] · [[Jesse Watters]] · [[Jeremy Boreing]] · [[James O'Keefe]] · [[Greg Gutfeld]] · [[Dave Rubin]] · [[Jimmy Dore]] · [[Dan Bongino]] · [[The Daily Wire]] · [[Christopher Rufo]] · [[Charlie Kirk]] · [[Candace Owens]] · [[Ben Shapiro]] · [[Andrew Klavan]] · [[TYT Network - The Young Turks]] · [[Sam Seder]] · [[Rachel Maddow]] · [[Pod Save America]]"
 ---
 
 #media-pipeline #centrist #media-network #heterodox #bari-weiss #free-press #tech-money
@@ -30,7 +30,7 @@ Media company founded by Bari Weiss in 2021 (originally as a Substack newsletter
 
 ### FEC Record
 
-*Pending API query — run fecDonorLookup() for principals/founders.*
+*Pending API query, run fecDonorLookup() for principals/founders.*
 
 ### Who Funds Them
 
@@ -48,15 +48,15 @@ Anti-DEI, anti-campus orthodoxy, pro-Israel, skepticism of progressive instituti
 
 ### What Their Funders Got
 
-*To be researched — map funding inputs to editorial/policy outputs.*
+*To be researched, map funding inputs to editorial/policy outputs.*
 
 ### Class Analysis
 
-Is 'heterodox centrist' functioning as a branding strategy for tech billionaire class interests? The investor roster (Andreessen, Sacks, Kotick) represents a specific faction of capital. Does The Free Press's editorial line map to its investors' policy preferences the way a politician's votes map to their donors? The Paramount acquisition adds a corporate media layer — does this make 'independence' harder to claim?
+Is 'heterodox centrist' functioning as a branding strategy for tech billionaire class interests? The investor roster (Andreessen, Sacks, Kotick) represents a specific faction of capital. Does The Free Press's editorial line map to its investors' policy preferences the way a politician's votes map to their donors? The Paramount acquisition adds a corporate media layer, does this make 'independence' harder to claim?
 
 ### Capture Architecture
 
-*Pending — 3-5 line structural summary of platform funder, income dependency, and editorial red lines.*
+*Pending, 3-5 line structural summary of platform funder, income dependency, and editorial red lines.*
 
 ### Timeline
 
@@ -68,5 +68,5 @@ Is 'heterodox centrist' functioning as a branding strategy for tech billionaire 
 
 ### Sources
 
-*No sources yet — raw placeholder.*
+*No sources yet, raw placeholder.*
 

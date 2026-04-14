@@ -132,7 +132,7 @@ Griffin's 2024 giving is half the story. His career federal + state political sp
 | 2021–2022 | ~$110–120M | $50M on Richard Irvin (IL gubernatorial primary, lost); $60M federal |
 | 2023–2024 | ~$108M | $30M Senate Leadership Fund, $16M CLF, $12M Keep Florida Clean (anti-marijuana) |
 
-Sources: [InfluenceWatch: Ken Griffin](https://www.influencewatch.org/person/ken-griffin/) (Tier 3) (VERIFIED); ~~[Bloomberg: Griffin super PAC giving](https://www.bloomberg.com/news/features/2024-07-30/republican-donor-ken-griffin-billionaire-s-super-pac-giving-shapes-elections)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2); [FEC Independent Expenditures: Griffin donor detail 2024](https://www.fec.gov/data/independent-expenditures/?q=Kenneth%20C%20Griffin) (Tier 1) (VERIFIED).
+Sources: [InfluenceWatch: Ken Griffin](https://www.influencewatch.org/person/ken-griffin/) (Tier 3) (VERIFIED); ~~[Bloomberg: Griffin super PAC giving](https://www.bloomberg.com/news/features/2024-07-30/republican-donor-ken-griffin-billionaire-s-super-pac-giving-shapes-elections)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2); [FEC Independent Expenditures: Griffin donor detail 2024](https://www.fec.gov/data/independent-expenditures/?q=Kenneth%20C%20Griffin) (Tier 1) (VERIFIED).
 
 ### The Illinois Ballot Wars
 
@@ -168,7 +168,7 @@ Source: [SEC Press Release 2017-11: Citadel Securities](https://www.sec.gov/news
 
 October 2021: Griffin called cryptocurrency a "jihadist call against the dollar" and said Citadel wouldn't trade it "because of the regulatory uncertainty." March 2025: Citadel Securities announced plans to offer cryptocurrency trading services after Trump's SEC eased crypto constraints. The regulatory environment Griffin spent $248M helping to shape is the same environment that unlocked a new revenue stream for Citadel Securities. He argued crypto was dangerous under Gensler. He's launching crypto services under Atkins. The position wasn't about crypto. It was about who controls the regulatory apparatus.
 
-Sources: [Business Insider: Griffin "jihadist call" quote](https://markets.businessinsider.com/news/currencies/ken-griffin-crypto-jihadist-call-against-dollar-regulation-citadel-securities-2021-10) (Tier 2) (VERIFIED); ~~[Business Journals: Citadel crypto plans](https://www.bizjournals.com/southflorida/news/2025/03/03/ken-griffin-citadel-securities-crypto-trump.html)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2).
+Sources: [Business Insider: Griffin "jihadist call" quote](https://markets.businessinsider.com/news/currencies/ken-griffin-crypto-jihadist-call-against-dollar-regulation-citadel-securities-2021-10) (Tier 2) (VERIFIED); ~~[Business Journals: Citadel crypto plans](https://www.bizjournals.com/southflorida/news/2025/03/03/ken-griffin-citadel-securities-crypto-trump.html)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2).
 
 ### The ProPublica IRS Leak and Revenge
 

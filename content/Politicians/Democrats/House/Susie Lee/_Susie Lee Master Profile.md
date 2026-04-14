@@ -1,5 +1,5 @@
 ---
-title: "Susie Lee Master Profile"
+title: "Susie Lee"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

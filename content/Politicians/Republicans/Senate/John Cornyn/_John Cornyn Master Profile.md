@@ -3,8 +3,8 @@ title: "John Cornyn"
 type: politician
 bioguide-id: "C001056"
 content-readiness: ready
-central-thesis: "John Cornyn is the Texas corporate establishment's Senate operator — a reliable legislative mechanic for oil and gas deregulation, defense spending, financial services preferences, and judicial confirmations who functions as the institutional coun..."
-last-updated: 2026-04-14
+central-thesis: "John Cornyn is the Texas corporate establishment's Senate operator , a reliable legislative mechanic for oil and gas deregulation, defense spending, financial services preferences, and judicial confirmations who functions as the institutional coun..."
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 party: "Republican"
@@ -68,13 +68,13 @@ John Cornyn, U.S. Senator from Texas (2002–present). Senior senator. Former Se
 
 **Career arc:** Texas Supreme Court (1991–1997) → Texas Attorney General (1999–2002) → U.S. Senate (2002–present) → NRSC Chair (2009–2013) → Majority Whip (2015–2019) → Senate GOP leadership elder, 2026 primary defense against Ken Paxton.
 
-**Funding (2019–2024 cycle):** Top sector: Finance, Insurance & Real Estate ($5.9M, 19.4% of categorized contributions). Top industries: Securities & Investment ($2.6M), Real Estate ($1.6M), Oil & Gas ($1.4M), Lawyers ($1.1M), Health Professionals ($1M), Insurance ($682K). PAC breakdown: overwhelmingly business — Labor constitutes just $48K (0.16%).
+**Funding (2019–2024 cycle):** Top sector: Finance, Insurance & Real Estate ($5.9M, 19.4% of categorized contributions). Top industries: Securities & Investment ($2.6M), Real Estate ($1.6M), Oil & Gas ($1.4M), Lawyers ($1.1M), Health Professionals ($1M), Insurance ($682K). PAC breakdown: overwhelmingly business. Labor constitutes just $48K (0.16%).
 
 ---
 
 ## The Central Thesis
 
-John Cornyn is the Texas corporate establishment's Senate operator — a reliable legislative mechanic for oil and gas deregulation, defense spending, financial services preferences, and judicial confirmations who functions as the institutional counterweight to Ted Cruz's populist performance. Where Cruz generates media attention and base enthusiasm, Cornyn delivers outcomes for the Texas donor class: $5B+ in F-35 funding for Lockheed Martin's Fort Worth plant, consistent opposition to environmental regulation, and a Judiciary Committee seat that processes judicial nominees who received $44K+ in contributions from Cornyn's own campaign donors. His Finance Committee role gives him jurisdiction over tax and trade policy affecting Texas's energy economy. Cornyn is the quiet machine that produces results while Cruz is the loud machine that produces attention. Both serve the same donor class — the stylistic difference is the product, not a defect.
+John Cornyn is the Texas corporate establishment's Senate operator, a reliable legislative mechanic for oil and gas deregulation, defense spending, financial services preferences, and judicial confirmations who functions as the institutional counterweight to Ted Cruz's populist performance. Where Cruz generates media attention and base enthusiasm, Cornyn delivers outcomes for the Texas donor class: $5B+ in F-35 funding for Lockheed Martin's Fort Worth plant, consistent opposition to environmental regulation, and a Judiciary Committee seat that processes judicial nominees who received $44K+ in contributions from Cornyn's own campaign donors. His Finance Committee role gives him jurisdiction over tax and trade policy affecting Texas's energy economy. Cornyn is the quiet machine that produces results while Cruz is the loud machine that produces attention. Both serve the same donor class, the stylistic difference is the product, not a defect.
 
 ---
 
@@ -93,9 +93,9 @@ John Cornyn is the Texas corporate establishment's Senate operator — a reliabl
 
 | Date | Donor | Amount | Given | Policy Outcome |
 |------|-------|--------|-------|----------------|
-| 2002–2024 | Oil & Gas sector (aggregate) | $1.4M (2019–2024 cycle); career significantly higher | 2002–2024 | Cornyn opposes all climate regulation, blocks carbon pricing, supports "energy dominance" framework — Texas produces 43% of U.S. crude oil |
-| 2020 | ExxonMobil, Chevron, ConocoPhillips (PAC + executives) | Part of $1.4M cycle | 2019–2020 | Cornyn sponsors LEADING Act — carbon capture R&D tax credits (industry-friendly climate response that preserves fossil fuel production) |
-| 2024 | Oil & gas independents (Texas producers) | Part of Energy & Natural Resources sector ($1.86M cycle) | 2023–2024 | Cornyn leads Republican opposition to Biden's LNG export pause; frames as "energy security" — Texas LNG terminals are primary beneficiaries |
+| 2002–2024 | Oil & Gas sector (aggregate) | $1.4M (2019–2024 cycle); career significantly higher | 2002–2024 | Cornyn opposes all climate regulation, blocks carbon pricing, supports "energy dominance" framework. Texas produces 43% of U.S. crude oil |
+| 2020 | ExxonMobil, Chevron, ConocoPhillips (PAC + executives) | Part of $1.4M cycle | 2019–2020 | Cornyn sponsors LEADING Act, carbon capture R&D tax credits (industry-friendly climate response that preserves fossil fuel production) |
+| 2024 | Oil & gas independents (Texas producers) | Part of Energy & Natural Resources sector ($1.86M cycle) | 2023–2024 | Cornyn leads Republican opposition to Biden's LNG export pause; frames as "energy security". Texas LNG terminals are primary beneficiaries |
 
 #### Wall Street / Finance
 
@@ -110,7 +110,7 @@ John Cornyn is the Texas corporate establishment's Senate operator — a reliabl
 
 | Date | Donor | Amount | Given | Policy Outcome |
 |------|-------|--------|-------|----------------|
-| 2019–2024 | Defense sector (PACs + executives) | $207K (cycle — understates; significant indirect via Texas economy) | 2019–2024 | Cornyn secures $5B+ for F-35 program in NDAA; Lockheed Martin's Fort Worth facility is largest single-site employer in North Texas |
+| 2019–2024 | Defense sector (PACs + executives) | $207K (cycle, understates; significant indirect via Texas economy) | 2019–2024 | Cornyn secures $5B+ for F-35 program in NDAA; Lockheed Martin's Fort Worth facility is largest single-site employer in North Texas |
 | 2024 | Lockheed Martin, Raytheon, defense installation economy | Part of defense contributions | 2024 | Cornyn personally lobbies against DOGE proposed F-35 cuts; meets with Vivek Ramaswamy to protect program |
 | 2024 | Defense sector (aggregate through NDAA cycle) | Part of $207K direct | 2024 | FY2024 NDAA includes $230M for Texas military construction; Cornyn-backed provisions for Fort Bliss, Fort Cavazos |
 
@@ -130,18 +130,18 @@ John Cornyn is the Texas corporate establishment's Senate operator — a reliabl
 
 ### The Gun Bill Exception (Bipartisan Safer Communities Act, 2022)
 
-When 19 children and two teachers were killed at Robb Elementary School in Uvalde, Texas on May 24, 2022, Mitch McConnell tasked Cornyn as lead Republican negotiator on gun legislation. The resulting Bipartisan Safer Communities Act — negotiated with Chris Murphy (D-CT), Thom Tillis (R-NC), and Kyrsten Sinema (I-AZ) — passed the Senate 65-33 on June 23, 2022, with 15 Republicans voting yes.
+When 19 children and two teachers were killed at Robb Elementary School in Uvalde, Texas on May 24, 2022, Mitch McConnell tasked Cornyn as lead Republican negotiator on gun legislation. The resulting Bipartisan Safer Communities Act, negotiated with Chris Murphy (D-CT), Thom Tillis (R-NC), and Kyrsten Sinema (I-AZ), passed the Senate 65-33 on June 23, 2022, with 15 Republicans voting yes.
 
 The bill included: enhanced background checks for purchasers under 21, funding for state crisis intervention programs (including red flag laws), criminalization of straw purchases and arms trafficking, and partial closure of the boyfriend loophole. It did not include: assault weapons restrictions, universal background checks, federal red flag law mandates, or magazine capacity limits.
 
-The NRA opposed the final bill but was, in Cornyn's words, "somewhat restrained in their criticism." Cornyn was booed at the Republican Party of Texas convention for his role. The bill was signed by Biden on June 25, 2022 — the first major federal gun legislation in 30 years.
+The NRA opposed the final bill but was, in Cornyn's words, "somewhat restrained in their criticism." Cornyn was booed at the Republican Party of Texas convention for his role. The bill was signed by Biden on June 25, 2022, the first major federal gun legislation in 30 years.
 
 > [!money]
 > **The Uvalde bill is the vault's cleanest Genuine Win + Structural Limit case.** The win is real — the first federal gun legislation in decades, produced under conditions no politician could politically survive ignoring (21 dead in his own state). The structural limit is equally real: the bill stops precisely at the point where it would threaten firearms industry revenue. No assault weapons restrictions (the industry's highest-margin product category), no universal background checks (the gun show market), no federal red flag mandate (the state-level gun lobby's jurisdiction). Cornyn's A+ NRA rating was the price of entry to negotiate — and the bill's structural limits are the proof that the NRA's investment paid off even in the worst-case scenario.
 
 ### The Cornyn-Cruz Dynamic
 
-Texas's two senators present as opposites — Cornyn the institutionalist deal-maker, Cruz the populist bomb-thrower. Both serve the same donor class. Oil and gas, defense, real estate, and financial services fund both senators' campaigns. The stylistic difference allows Texas corporate interests to maintain relationships with both wings of the Republican Party while voters believe they have a meaningful choice between pragmatism and ideology. Cornyn delivers legislation; Cruz delivers media coverage. Both deliver for the donors.
+Texas's two senators present as opposites. Cornyn the institutionalist deal-maker, Cruz the populist bomb-thrower. Both serve the same donor class. Oil and gas, defense, real estate, and financial services fund both senators' campaigns. The stylistic difference allows Texas corporate interests to maintain relationships with both wings of the Republican Party while voters believe they have a meaningful choice between pragmatism and ideology. Cornyn delivers legislation; Cruz delivers media coverage. Both deliver for the donors.
 
 In the 2026 Republican primary, Cornyn faces Ken Paxton (backed by Trump-aligned populists) while defending his record as a "deal-maker." The donor class is rallying: Blackstone's Stephen Schwarzman, New Balance owner Jim Davis, and Dallas oil billionaire Trevor Rees-Jones have all contributed to the pro-Cornyn super PAC. The institutional Republican donor class is fighting to keep its operator in the Senate.
 
@@ -161,25 +161,25 @@ The gun bill is the exception that proves the rule. The Bipartisan Safer Communi
 
 ## Rhetorical Signature Moves
 
-**"Common-sense conservative"** — Cornyn's self-designation that frames corporate Republican orthodoxy as moderation. "Common sense" means: deregulation of oil and gas, defense spending increases, tax cuts for capital, and judicial appointments that protect corporate interests — presented as pragmatic centrism rather than donor service.
+**"Common-sense conservative"**. Cornyn's self-designation that frames corporate Republican orthodoxy as moderation. "Common sense" means: deregulation of oil and gas, defense spending increases, tax cuts for capital, and judicial appointments that protect corporate interests, presented as pragmatic centrism rather than donor service.
 
-**"Texas energy independence"** — Frames opposition to climate regulation as patriotism. Texas produces 43% of U.S. crude oil; "energy independence" means "no constraints on Texas oil producers." The $1.4M in oil & gas contributions (cycle) fund the rhetoric; the rhetoric justifies the policy; the policy delivers the returns.
+**"Texas energy independence"**. Frames opposition to climate regulation as patriotism. Texas produces 43% of U.S. crude oil; "energy independence" means "no constraints on Texas oil producers." The $1.4M in oil & gas contributions (cycle) fund the rhetoric; the rhetoric justifies the policy; the policy delivers the returns.
 
-**"Bipartisan when it matters"** — The gun bill is deployed as proof of dealmaking ability. One bipartisan achievement in 24 years of Senate service, produced by 21 dead children in his own state, is presented as evidence of a collaborative governing philosophy.
+**"Bipartisan when it matters"**. The gun bill is deployed as proof of dealmaking ability. One bipartisan achievement in 24 years of Senate service, produced by 21 dead children in his own state, is presented as evidence of a collaborative governing philosophy.
 
-**"Protecting Texas jobs"** — The F-35 is framed as employment, not defense spending. Lockheed Martin's Fort Worth plant employs thousands; Cornyn's $5B+ in secured funding is presented as constituent service rather than defense contractor subsidy.
+**"Protecting Texas jobs"**. The F-35 is framed as employment, not defense spending. Lockheed Martin's Fort Worth plant employs thousands; Cornyn's $5B+ in secured funding is presented as constituent service rather than defense contractor subsidy.
 
 ---
 
 ## Analytical Patterns
 
-**Both-Sides Illusion (Cornyn-Cruz):** Texas's two senators present as opposites — Cornyn the institutionalist, Cruz the populist. Both serve the same donor class. The stylistic difference allows Texas corporate interests to maintain relationships with both wings of the party while voters believe they have a choice between pragmatism and ideology. The 2026 primary (Cornyn vs. Paxton) is the stress test: when the institutional and populist wings of the donor class compete for the same seat.
+**Both-Sides Illusion (Cornyn-Cruz):** Texas's two senators present as opposites. Cornyn the institutionalist, Cruz the populist. Both serve the same donor class. The stylistic difference allows Texas corporate interests to maintain relationships with both wings of the party while voters believe they have a choice between pragmatism and ideology. The 2026 primary (Cornyn vs. Paxton) is the stress test: when the institutional and populist wings of the donor class compete for the same seat.
 
-**Genuine Win + Structural Limit (Gun Safety):** The Bipartisan Safer Communities Act (2022) was a genuine policy win — the first significant federal gun legislation in 30 years. But it stopped well short of assault weapons restrictions, universal background checks, or red flag law mandates that would threaten firearms industry revenue. The win was produced by the political emergency of Uvalde; the structural limit protects the NRA's market.
+**Genuine Win + Structural Limit (Gun Safety):** The Bipartisan Safer Communities Act (2022) was a genuine policy win, the first significant federal gun legislation in 30 years. But it stopped well short of assault weapons restrictions, universal background checks, or red flag law mandates that would threaten firearms industry revenue. The win was produced by the political emergency of Uvalde; the structural limit protects the NRA's market.
 
-**Revolving Door (Judicial Pipeline):** Cornyn's Judiciary Committee seat processes judicial nominees who contributed to his campaigns — $44K+ from 12 nominees, all of whom became federal judges under his support. The revolving door isn't staff-to-industry here; it's donor-to-bench. The people funding Cornyn's campaigns are being confirmed as lifetime federal judges through his committee.
+**Revolving Door (Judicial Pipeline):** Cornyn's Judiciary Committee seat processes judicial nominees who contributed to his campaigns, $44K+ from 12 nominees, all of whom became federal judges under his support. The revolving door isn't staff-to-industry here; it's donor-to-bench. The people funding Cornyn's campaigns are being confirmed as lifetime federal judges through his committee.
 
-**Donor-Class Override (Texas Energy):** Cornyn's opposition to all climate regulation serves his oil & gas donors ($1.4M cycle) while Texas faces increasing climate-related disasters (Winter Storm Uri, 2021; Hurricane Harvey, 2017). The donor interest in deregulation overrides the constituent interest in grid reliability and climate resilience. Texas has the nation's highest rate of uninsured residents and the most climate-vulnerable energy grid — Cornyn's donor-class alignment blocks the policy responses to both.
+**Donor-Class Override (Texas Energy):** Cornyn's opposition to all climate regulation serves his oil & gas donors ($1.4M cycle) while Texas faces increasing climate-related disasters (Winter Storm Uri, 2021; Hurricane Harvey, 2017). The donor interest in deregulation overrides the constituent interest in grid reliability and climate resilience. Texas has the nation's highest rate of uninsured residents and the most climate-vulnerable energy grid. Cornyn's donor-class alignment blocks the policy responses to both.
 
 ---
 
@@ -188,13 +188,13 @@ The gun bill is the exception that proves the rule. The Bipartisan Safer Communi
 - [FEC Candidate: John Cornyn campaign finance summary](https://www.fec.gov/data/candidate/S2TX00106/) (Tier 1) (VERIFIED)
 - [FEC Candidate: John Cornyn top industries (2019–2024)](https://www.fec.gov/data/candidate/S2TX00106/) (Tier 1) (VERIFIED)
 - [FEC: John Cornyn candidate filings](https://www.fec.gov/data/candidate/S2TX00106/) (Tier 1) (VERIFIED)
-- ~~[Congress.gov: John Cornyn member profile](https://www.congress.gov/member/john-cornyn/C001056)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
-- ~~[Congress.gov: Bipartisan Safer Communities Act (S.2938, 117th Congress)](https://www.congress.gov/bill/117th-congress/senate-bill/2938)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[Congress.gov: John Cornyn member profile](https://www.congress.gov/member/john-cornyn/C001056)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- ~~[Congress.gov: Bipartisan Safer Communities Act (S.2938, 117th Congress)](https://www.congress.gov/bill/117th-congress/senate-bill/2938)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [Texas Tribune: How John Cornyn got the bipartisan gun bill passed](https://www.texastribune.org/2022/06/27/john-cornyn-texas-gun-bill/) (Tier 2) (VERIFIED)
 - [Texas Tribune: John Cornyn received late help from national Republicans in reelection bid](https://www.texastribune.org/2020/12/03/john-cornyn-campaign-donors/) (Tier 2) (VERIFIED)
 - [E&E News/Politico: Oil money flows to Cornyn in Texas primary](https://www.eenews.net/articles/oil-money-flows-to-cornyn-in-texas-primary/) (Tier 2) (VERIFIED)
-- [Roll Call: Cashing in on justice — Cruz, Cornyn, Graham raked in contributions from nominees they backed](https://rollcall.com/2020/03/03/cashing-in-on-justice/) (Tier 2) (VERIFIED)
-- [KERA News: F-35 fight — support for Fort Worth-produced aircraft could derail government efficiency cut](https://www.keranews.org/business-economy/2024-12-06/an-f-35-fight-support-for-fort-worth-produced-aircraft-could-derail-government-efficiency-cut) (Tier 2) (VERIFIED)
+- [Roll Call: Cashing in on justice. Cruz, Cornyn, Graham raked in contributions from nominees they backed](https://rollcall.com/2020/03/03/cashing-in-on-justice/) (Tier 2) (VERIFIED)
+- [KERA News: F-35 fight, support for Fort Worth-produced aircraft could derail government efficiency cut](https://www.keranews.org/business-economy/2024-12-06/an-f-35-fight-support-for-fort-worth-produced-aircraft-could-derail-government-efficiency-cut) (Tier 2) (VERIFIED)
 - [Ballotpedia: John Cornyn](https://ballotpedia.org/John_Cornyn) (Tier 3) (VERIFIED)
 
 ### Campaign Finance (FEC)
@@ -255,7 +255,7 @@ The gun bill is the exception that proves the rule. The Bipartisan Safer Communi
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-09.*
 <!-- auto:influence-cross-ref end -->
 
-<!-- auto:influence-cross-ref pending-merge 2026-04-14 -->
+<!-- auto:influence-cross-ref pending-merge 2026-04-13 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 
@@ -281,7 +281,7 @@ The gun bill is the exception that proves the rule. The Bipartisan Safer Communi
 - [[Koch Network - Charles Koch]] — $21.3M lobbying spend (Agriculture, Banking, Bankruptcy)
 - [[US Chamber of Commerce]] — $790K lobbying spend (Aerospace, Agriculture, Alcohol and Drug Abuse)
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-14.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-13.*
 
 <!-- auto:influence-cross-ref pending-merge end -->
 

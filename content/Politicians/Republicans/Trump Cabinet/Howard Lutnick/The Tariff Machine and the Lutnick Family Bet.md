@@ -11,7 +11,7 @@ related: "[[_Howard Lutnick Master Profile]]"
 ---
 #howard-lutnick #tariffs #trade #commerce #family-profits #class-analysis #follow-the-money
 
-donors: (Cantor Fitzgerald — internal family firm)
+donors: (Cantor Fitzgerald, internal family firm)
 
 ---
 
@@ -38,7 +38,7 @@ Lutnick positioned himself as Trump's most aggressive tariff advocate: "Tariffs 
 
 ### The Son's Bet
 
-While Lutnick enforced tariffs from the Commerce Department, son Brandon — who received control of Cantor Fitzgerald's 60% stake — bet millions that the tariffs would be struck down. If the Supreme Court ruled tariffs illegal, Brandon's positions would profit.
+While Lutnick enforced tariffs from the Commerce Department, son Brandon, who received control of Cantor Fitzgerald's 60% stake, bet millions that the tariffs would be struck down. If the Supreme Court ruled tariffs illegal, Brandon's positions would profit.
 
 The structure: father creates market-moving policy → son trades on the outcome → profits flow to family trusts → the "divestiture" serves as the mechanism for the trade, not the prevention of it.
 

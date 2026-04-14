@@ -10,7 +10,7 @@ related: "[[2026-03-27 API Briefing]]"
 
 ### Donors & Power Networks Index
 
-**The money behind the politicians.** Every donor, PAC, corporation, dark money network, and industry bloc in the database — organized by sector. Start with a name. Follow the money.
+**The money behind the politicians.** Every donor, PAC, corporation, dark money network, and industry bloc in the database, organized by sector. Start with a name. Follow the money.
 
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Kevin Hern Master Profile"
+title: "Kevin Hern"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

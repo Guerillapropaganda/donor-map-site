@@ -1,5 +1,5 @@
 ---
-title: "Janice D. Schakowsky Master Profile"
+title: "Janice D. Schakowsky"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

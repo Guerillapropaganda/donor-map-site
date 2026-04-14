@@ -213,7 +213,7 @@ AFL-CIO President Shuler's framing: tariffs "can be an effective tool" but must 
 - [EPI: Unions raise wages, tariffs don't. Trump trade policy analysis](https://www.epi.org/publication/unions-raise-wages-tariffs-dont-why-trumps-trade-policy-wont-help-u-s-workers/) (Tier 2) (VERIFIED)
 - [Slate: America's labor unions are souring on Trump (May 2025)](https://slate.com/news-and-politics/2025/05/unions-donald-trump-2026-election-kilmar-abrego-garcia.html) (Tier 2) (VERIFIED)
 - [Newsweek: Teamsters back Trump's tariffs, labor movement split](https://www.newsweek.com/teamsters-labor-union-supports-tariffs-donald-trump-2057151) (Tier 2) (VERIFIED)
-- ~~[AFL-CIO: President Shuler on tariff announcement](https://aflcio.org/press/releases/afl-cio-president-tariff-announcement)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3)
+- ~~[AFL-CIO: President Shuler on tariff announcement](https://aflcio.org/press/releases/afl-cio-president-tariff-announcement)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
 - [Ballotpedia: AFL-CIO](https://ballotpedia.org/AFL-CIO) (Tier 3) (VERIFIED)
 
 ---

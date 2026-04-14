@@ -1,5 +1,5 @@
 ---
-title: "Hilda Solis Master Profile"
+title: "Hilda Solis"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

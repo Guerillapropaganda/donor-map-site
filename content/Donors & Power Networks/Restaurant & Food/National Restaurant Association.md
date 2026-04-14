@@ -93,7 +93,7 @@ Preservation of the $2.13/hour tipped minimum wage, opposition to federal minimu
 
 - [OpenSecrets: National Restaurant Association organizational profile](https://www.opensecrets.org/orgs/national-restaurant-assn/summary?id=D000000150) (Tier 1)
 - [Department of Labor: Minimum wage history](https://www.dol.gov/agencies/whd/minimum-wage/history) (Tier 1) (VERIFIED)
-- ~~[EPI: Tipped minimum wage analysis](https://www.epi.org/publication/waiting-for-change-tipped-minimum-wage/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[EPI: Tipped minimum wage analysis](https://www.epi.org/publication/waiting-for-change-tipped-minimum-wage/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Ballotpedia: National Restaurant Association](https://ballotpedia.org/National_Restaurant_Association) (Tier 3) (VERIFIED)
 
 ---

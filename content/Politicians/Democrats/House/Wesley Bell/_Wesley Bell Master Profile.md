@@ -1,5 +1,5 @@
 ---
-title: "Wesley Bell Master Profile"
+title: "Wesley Bell"
 type: politician
 content-readiness: ready
 last-updated: 2026-04-13
@@ -44,17 +44,17 @@ bioguide-id: "B001324"
 
 ## Who He Is
 
-Wesley Bell. U.S. Representative for Missouri's 1st Congressional District since January 2025. Former St. Louis County Prosecuting Attorney, first African-American to hold the position. Defeated incumbent [[_Cori Bush Master Profile|Cori Bush]] in the August 2024 Democratic primary — the second of AIPAC's two high-profile 2024 primary defeats of progressive Squad members, after [[_Jamaal Bowman Master Profile|Jamaal Bowman]] in NY-16 two months earlier.
+Wesley Bell. U.S. Representative for Missouri's 1st Congressional District since January 2025. Former St. Louis County Prosecuting Attorney, first African-American to hold the position. Defeated incumbent [[_Cori Bush Master Profile|Cori Bush]] in the August 2024 Democratic primary, the second of AIPAC's two high-profile 2024 primary defeats of progressive Squad members, after [[_Jamaal Bowman Master Profile|Jamaal Bowman]] in NY-16 two months earlier.
 
-Per vault documentation, AIPAC's United Democracy Project spent approximately $8.5M–$9.96M opposing Bush in MO-01, with additional spending from Fairshake PAC ($2.79M), DMFI PAC, and Mainstream Democrats PAC. The combined anti-Bush outside spending was approximately $14M — equivalent to the Bowman race in magnitude but in a district with very different demographics.
+Per vault documentation, AIPAC's United Democracy Project spent approximately $8.5M–$9.96M opposing Bush in MO-01, with additional spending from Fairshake PAC ($2.79M), DMFI PAC, and Mainstream Democrats PAC. The combined anti-Bush outside spending was approximately $14M, equivalent to the Bowman race in magnitude but in a district with very different demographics.
 
 ---
 
 ## The Central Thesis
 
-*Stub — needs full development.*
+*Stub, needs full development.*
 
-Bell's primary victory over Bush completed AIPAC's 2024 one-two punch against the Squad's most vocal Gaza ceasefire advocates. Unlike Latimer (a long-serving county executive with institutional credibility), Bell's primary appeal was his justice system reform record as St. Louis County's first Black prosecuting attorney — credentials that complicated the standard progressive-vs-moderate framing. The donor class chose him specifically because his biography made the anti-Bush attack ads harder to dismiss as establishment versus grassroots.
+Bell's primary victory over Bush completed AIPAC's 2024 one-two punch against the Squad's most vocal Gaza ceasefire advocates. Unlike Latimer (a long-serving county executive with institutional credibility), Bell's primary appeal was his justice system reform record as St. Louis County's first Black prosecuting attorney, credentials that complicated the standard progressive-vs-moderate framing. The donor class chose him specifically because his biography made the anti-Bush attack ads harder to dismiss as establishment versus grassroots.
 
 ---
 
@@ -74,7 +74,7 @@ The open question is what AIPAC's $14 million buys in terms of legislative behav
 |---|---|---|---|
 | United Democracy Project (AIPAC) | $8.5M–$9.96M | 2024 | IE opposing Bush |
 | DMFI PAC | ~$500K+ | 2024 | IE support |
-| AIPAC ecosystem total | ~$14M combined | 2024 | — |
+| AIPAC ecosystem total | ~$14M combined | 2024 |, |
 
 Source: [[_Cori Bush Master Profile]], [[DMFI - Democratic Majority for Israel]], [[AIPAC - American Israel Public Affairs Committee]] vault entries.
 

@@ -45,7 +45,7 @@ The needs-reenrichment flag has been set. The next scheduled pipeline run will p
 
 ### Who He Is
 
-[[Leonard Leo|Leonard Leo]] is the most powerful dark money operative in American politics. He is not a politician, not a public figure, and not a household name — but he has personally architected the capture of the U.S. Supreme Court and is now pivoting to state court dominance. Leo is the co-chair of the Federalist Society, runs CRC Advisors (a $33M/year consulting firm), and serves as the linchpin of a dark money network that has distributed $1.6 billion to political operations since 2016.
+[[Leonard Leo|Leonard Leo]] is the most powerful dark money operative in American politics. He is not a politician, not a public figure, and not a household name, but he has personally architected the capture of the U.S. Supreme Court and is now pivoting to state court dominance. Leo is the co-chair of the Federalist Society, runs CRC Advisors (a $33M/year consulting firm), and serves as the linchpin of a dark money network that has distributed $1.6 billion to political operations since 2016.
 
 ### What He Wants
 
@@ -56,19 +56,19 @@ Leo's agenda is singular and constitutional: transform the judiciary from an ind
 Leo's power derives from his control of multiple dark money vehicles that obscure the flow of political spending:
 
 ### Primary Dark Money Groups (all controlled or coordinated by Leo):
-- **[[Marble Freedom Trust|Marble Freedom Trust]]** — $1.6 BILLION single donation from Barre Seid (2021). Total lifetime: $2.2B distributed
-- **[[The 85 Fund]]** — Judicial election spending vehicle. $75M+ 2020-2024
-- **Concord Fund** — Policy implementation, $12M+ annual
-- **Lexington Fund** — Infrastructure for state court captures, $8M+ annual
-- **First Principles PACs (multiple entities)** — Federal election spending, $20M+ 2024
-- **CRC Advisors** — Consulting firm, $33M annual revenue (80% from Leo's own dark money groups)
+- **[[Marble Freedom Trust|Marble Freedom Trust]]**, $1.6 BILLION single donation from Barre Seid (2021). Total lifetime: $2.2B distributed
+- **[[The 85 Fund]]**. Judicial election spending vehicle. $75M+ 2020-2024
+- **Concord Fund**. Policy implementation, $12M+ annual
+- **Lexington Fund**. Infrastructure for state court captures, $8M+ annual
+- **First Principles PACs (multiple entities)**. Federal election spending, $20M+ 2024
+- **CRC Advisors**. Consulting firm, $33M annual revenue (80% from Leo's own dark money groups)
 
 ### The Network Effect:
 These entities are not independent. They share board members, coordinate spending, share research, and operate as a unified machine. From outside, they appear as separate organizations. From inside (donors + operatives), they function as an integrated system. This obscures the true scale of dark money concentration: $1.6 billion+ flowing through a single operative's network.
 
 ### The $1.6 Billion Play: Barre Seid Donation to [[Marble Freedom Trust|Marble Freedom Trust]]
 
-In December 2021, conservative donor Barre Seid gave $1.6 billion to Marble Freedom Trust, a dark money 501(c)(4) that immediately transferred the funds to Leonard Leo's network. This is the largest dark money donation in American history — larger than the total donations of the next 50 dark money donors combined.
+In December 2021, conservative donor Barre Seid gave $1.6 billion to Marble Freedom Trust, a dark money 501(c)(4) that immediately transferred the funds to Leonard Leo's network. This is the largest dark money donation in American history, larger than the total donations of the next 50 dark money donors combined.
 
 ### The Sequence:
 - Barre Seid made $18 billion fortune from electronics firm Tradewinds Climate Systems
@@ -121,7 +121,7 @@ In May 2025, Trump publicly called Leonard Leo a "sleazebag who controls judges,
 - **Leo's interest:** Preserve and expand conservative judicial dominance through institutional means
 - **Trump's interest:** Maximize personal political power, control over institutions, and ability to escape legal consequences
 
-When Leo-appointed judges ruled against Trump (e.g., financial misconduct cases, 2020 election cases), Trump blamed Leo directly. Trump sees judges as instruments of his power, not as autonomous actors serving constitutional principles. Leo sees the judiciary as a political power base semi-independent of any individual politician.
+When Leo-appointed judges ruled against Trump (e.g. financial misconduct cases, 2020 election cases), Trump blamed Leo directly. Trump sees judges as instruments of his power, not as autonomous actors serving constitutional principles. Leo sees the judiciary as a political power base semi-independent of any individual politician.
 
 This tension is significant: if Trump moves against Leo, or if Leo's judges continue constraining Trump, the federal conservative coalition could fracture. For now, both need each other. But the relationship is transactional, not ideological.
 
@@ -143,20 +143,20 @@ This tension is significant: if Trump moves against Leo, or if Leo's judges cont
 
 ---
 
-### 2026 Midterm Deployment — Lexington Fund and First Principles PACs (Updated March 22, 2026)
+### 2026 Midterm Deployment. Lexington Fund and First Principles PACs (Updated March 22, 2026)
 
 Leo's dark money network is now actively deploying into 2026 midterm races through new vehicles:
 
 ### Lexington Fund → First Principles PAC Pipeline:
 The Lexington Fund poured **$2 million** into First Principles PAC, a series of groups registered in Tennessee. These First Principles groups, led by a former top Leo deputy, have begun spending across key races:
 
-— **Wisconsin Supreme Court (April 2025):** First Principles Wisconsin spent **$600,000+** on ads and robocalls in what became the most expensive judicial race in U.S. history. Despite this spending (and [[Elon Musk|Elon Musk]]'s separate $20M contribution), the Democratic-endorsed **Susan Crawford won** decisively — a notable defeat for Leo's state court capture strategy.
-— **Federal midterm races (2026):** First Principles PACs are active in multiple competitive Senate and House races, with spending amounts still being disclosed through FEC filings.
+, **Wisconsin Supreme Court (April 2025):** First Principles Wisconsin spent **$600,000+** on ads and robocalls in what became the most expensive judicial race in U.S. history. Despite this spending (and [[Elon Musk|Elon Musk]]'s separate $20M contribution), the Democratic-endorsed **Susan Crawford won** decisively, a notable defeat for Leo's state court capture strategy.
+, **Federal midterm races (2026):** First Principles PACs are active in multiple competitive Senate and House races, with spending amounts still being disclosed through FEC filings.
 
 > [!money]
 > The Lexington Fund → First Principles pipeline represents Leo's latest dark money innovation: creating a new layer of entities between the $1.6B Marble Freedom Trust reservoir and actual campaign spending. Each new vehicle adds opacity. The Lexington Fund was formed in December 2023 in Virginia, with the Judicial Crisis Network Fund operating as a trade name within it. This means the JCN — Leo's flagship judicial confirmation vehicle — is now legally nested inside the Lexington Fund, consolidating control while multiplying the shell structures.
 
-### Wisconsin Result — The Limits of Dark Money:
+### Wisconsin Result. The Limits of Dark Money:
 The Wisconsin Supreme Court loss is significant. Despite Leo's network, Musk's $20M, and combined right-wing spending that made it the most expensive judicial race ever, the conservative candidate lost. This suggests a potential ceiling on dark money effectiveness in judicial races where voter awareness of outside spending is high.
 
 - [Rolling Stone: Leonard Leo is pumping money into the midterms](https://www.rollingstone.com/politics/politics-features/leonard-leo-pumping-money-midterms-1235414674/) (Tier 2) (VERIFIED)
@@ -170,7 +170,7 @@ Leo's CRC Advisors receives consulting and PR fees from the nonprofits he contro
 
 | Date | Event | Amount | Source |
 |------|-------|--------|--------|
-| 2016-01-01 | CRC Advisors starts receiving payments from Leo nonprofits | — | Senate Judiciary |
+| 2016-01-01 | CRC Advisors starts receiving payments from Leo nonprofits |, | Senate Judiciary |
 | 2016-12-31 | CRC Advisors total revenue from Leo-affiliated groups (through 2022): $76M of $89M | $89M | Senate Judiciary |
 | 2023-01-01 | CRC Advisors receives $33M total in 2023 ($26M from Leo-tied organizations = 80%) | $33M | Senate Judiciary |
 | 2013-2023 | CRC Advisors total revenue from Leo network over decade | $100M+ | Senate Judiciary |
@@ -181,9 +181,9 @@ The money flows in a circle: donors give to Leo's nonprofits → nonprofits hire
 
 ### The Ginni Thomas Payments
 
-Leo directed at least $80,000 in payments to Ginni Thomas's Liberty Consulting firm through Kellyanne Conway's Polling Company (2011–2012). Leo's email instruction regarding the arrangement: "No mention of Ginni, of course." An additional $25,000 was directed through the same channel. The payments were billed to the Judicial Education Project — Leo's own nonprofit.
+Leo directed at least $80,000 in payments to Ginni Thomas's Liberty Consulting firm through Kellyanne Conway's Polling Company (2011–2012). Leo's email instruction regarding the arrangement: "No mention of Ginni, of course." An additional $25,000 was directed through the same channel. The payments were billed to the Judicial Education Project. Leo's own nonprofit.
 
-Leo also co-created Liberty Central with Ginni Thomas, seeded with $500,000 from [[Harlan Crow|Harlan Crow]] — the billionaire providing $4.75M+ in gifts to [[_Clarence Thomas Master Profile|Clarence Thomas]].
+Leo also co-created Liberty Central with Ginni Thomas, seeded with $500,000 from [[Harlan Crow|Harlan Crow]], the billionaire providing $4.75M+ in gifts to [[_Clarence Thomas Master Profile|Clarence Thomas]].
 
 ---
 
@@ -217,12 +217,12 @@ The Trump-Leo tension exposed in May 2025, when Trump called Leo a "sleazebag wh
 
 - [ProPublica: Leonard Leo Gave Millions Trying to Influence Supreme Court on Elections, Discrimination](https://www.propublica.org/article/leonard-leo-scotus-elections-nonprofits-discrimination) (Tier 2) (VERIFIED)
 - [FEC Receipts: Leo's Dark Money Architecture](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=leonard%20leo) (Tier 1) (VERIFIED)
-- ~~[IRS Form 990: Marble Freedom Trust Filings](https://apps.irs.gov/app/eos/allSearch?searchChoice=ePostcard&ein=&names=Leonard%20Leo&city=&state=All+States&country=US)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[IRS Form 990: Marble Freedom Trust Filings](https://apps.irs.gov/app/eos/allSearch?searchChoice=ePostcard&ein=&names=Leonard%20Leo&city=&state=All+States&country=US)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [ProPublica: We Don't Talk About Leonard](https://www.propublica.org/article/we-dont-talk-about-leonard-leo-supreme-court-supermajority) (Tier 2) (VERIFIED)
 - [ProPublica: Barre Seid $1.6B donation to Marble Freedom Trust](https://www.propublica.org/article/dark-money-leonard-leo-barre-seid) (Tier 2) (VERIFIED)
 - [OpenSecrets: Kavanaugh confirmation spending](https://www.opensecrets.org/news/) (Tier 2) (VERIFIED)
 - [Center for American Progress: Federalist Society Judicial Dominance](https://www.americanprogress.org/article/pipelines-power-encouraging-professional-diversity-federal-appellate-bench/) (Tier 2) (VERIFIED)
-- ~~[Politico: Leonard Leo and Trump's Judicial Appointments](https://politico.com/leonard-leo-judges)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[Politico: Leonard Leo and Trump's Judicial Appointments](https://politico.com/leonard-leo-judges)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - ~~[The New York Times: Trump's Rift with Leo (May 2025)](https://www.nytimes.com/2025/05/30/us/politics/trump-judges-nominations.html)~~ (URL broken, archived by Ops) (Tier 2, paywalled) (Tier 2)
 
 ### SEC Filing Activity

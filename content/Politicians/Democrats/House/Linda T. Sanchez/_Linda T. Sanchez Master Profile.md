@@ -1,5 +1,5 @@
 ---
-title: "Linda T. Sanchez Master Profile"
+title: "Linda T. Sanchez"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

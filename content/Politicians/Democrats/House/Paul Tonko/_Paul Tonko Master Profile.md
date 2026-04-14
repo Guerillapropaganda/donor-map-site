@@ -1,5 +1,5 @@
 ---
-title: "Paul Tonko Master Profile"
+title: "Paul Tonko"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

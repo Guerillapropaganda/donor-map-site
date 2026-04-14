@@ -1,5 +1,5 @@
 ---
-title: "Veronica Escobar Master Profile"
+title: "Veronica Escobar"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

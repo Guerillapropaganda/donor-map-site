@@ -38,7 +38,7 @@ known-gaps:
 
 ### Who They Are
 
-Raytheon Technologies. A redirect node — the company is now RTX Corporation. See [[Raytheon (RTX)]] for the full profile.
+Raytheon Technologies. A redirect node, the company is now RTX Corporation. See [[Raytheon (RTX)]] for the full profile.
 
 ---
 

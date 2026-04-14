@@ -26,7 +26,7 @@ donors: [[Michael Bloomberg]]
 
 | Date | Event | Amount | Source |
 |------|-------|--------|--------|
-| 2013-01-01 | Tom Steyer founds NextGen Climate super PAC | — | OpenSecrets |
+| 2013-01-01 | Tom Steyer founds NextGen Climate super PAC |, | OpenSecrets |
 | 2014-01-01 | Tom Steyer's 2014 midterm spending (single biggest donor in cycle) | $74M | OpenSecrets |
 | 2014-01-01 | NextGen Climate spending (portion of $74M total) | $67M | OpenSecrets |
 | 2016-01-01 | Tom Steyer spending on climate ballot initiatives | Significant | OpenSecrets |
@@ -77,11 +77,11 @@ NextGen's infrastructure feeds directly into Steyer's 2026 governor campaign:
 
 ### 2018: Need to Impeach Campaign
 - Steyer committed $40 million to a campaign calling for Trump's impeachment
-- Super PAC raised $15.3 million (Steyer contributed $12.3M — 81% of total)
+- Super PAC raised $15.3 million (Steyer contributed $12.3M, 81% of total)
 - Spent $14.5 million: $7.2M on web ads/media, $5.6M on mailings
 - Built a petition with 5.5+ million signatures
 
-**The infrastructure function:** Need to Impeach wasn't really about impeachment — it was about building a national political email list and activist database. The 5.5 million petition signers became a contact list for Steyer's 2020 presidential campaign and beyond.
+**The infrastructure function:** Need to Impeach wasn't really about impeachment, it was about building a national political email list and activist database. The 5.5 million petition signers became a contact list for Steyer's 2020 presidential campaign and beyond.
 
 ---
 
@@ -91,14 +91,14 @@ Steyer and Bloomberg occupy the same structural position: progressive billionair
 
 | Date | Event | Amount | Source |
 |------|-------|--------|--------|
-| 2013-01-01 | Tom Steyer founds NextGen America PAC vehicle for climate political spending | — | OpenSecrets |
+| 2013-01-01 | Tom Steyer founds NextGen America PAC vehicle for climate political spending |, | OpenSecrets |
 | 2020-01-01 | Tom Steyer's 2020 presidential self-funded campaign | $200M | OpenSecrets |
 | 2026-01-01 | Tom Steyer's 2026 governor self-funded campaign | $66.7M | CalMatters |
 | 2021-01-01 | Michael Bloomberg launches presidential campaign (self-funded) | $1B+ | OpenSecrets |
-| 2000-01-01 | Michael Bloomberg serves 3 terms as NYC mayor (self-funded campaigns) | — | NYC Elections |
-| 2009-01-01 | Michael Bloomberg and Bill Gates co-found Breakthrough Energy Coalition | — | Breakthrough Energy |
+| 2000-01-01 | Michael Bloomberg serves 3 terms as NYC mayor (self-funded campaigns) |, | NYC Elections |
+| 2009-01-01 | Michael Bloomberg and Bill Gates co-found Breakthrough Energy Coalition |, | Breakthrough Energy |
 
-**The class analysis:** Both prove that the billionaire class produces its own opposition. The "progressive billionaire" is not an aberration — it's a structural feature of late capitalism. The system produces enough excess wealth that some fraction of wealth-holders can fund campaigns against the system that created them. This does not threaten the system; it legitimizes it by demonstrating that reform comes from within the wealthy class rather than from movements that challenge wealth concentration itself.
+**The class analysis:** Both prove that the billionaire class produces its own opposition. The "progressive billionaire" is not an aberration, it's a structural feature of late capitalism. The system produces enough excess wealth that some fraction of wealth-holders can fund campaigns against the system that created them. This does not threaten the system; it legitimizes it by demonstrating that reform comes from within the wealthy class rather than from movements that challenge wealth concentration itself.
 
 ---
 

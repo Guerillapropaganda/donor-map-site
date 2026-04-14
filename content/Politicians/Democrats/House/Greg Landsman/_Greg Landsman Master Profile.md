@@ -1,5 +1,5 @@
 ---
-title: "Greg Landsman Master Profile"
+title: "Greg Landsman"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

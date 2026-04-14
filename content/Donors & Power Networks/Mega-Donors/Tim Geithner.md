@@ -27,7 +27,7 @@ sec-form-types:
   - "N-CSR/A"
   - "N-CSRS"
 total-political-spend: "$469,350"
-related: "[[Joe Biden Master Profile]] · [[The Bank Bailout and the Prosecution That Never Came]] · [[Tim Geithner Political Operation]] · [[Goldman Sachs]] · [[_Barack Obama Master Profile|Obama]] · [[Carlyle Group]] · [[JPMorgan Chase]] · [[Citigroup]] · [[Goldman Sachs — The Government Sachs Alumni Network]]"
+related: "[[Joe Biden Master Profile]] · [[The Bank Bailout and the Prosecution That Never Came]] · [[Tim Geithner Political Operation]] · [[Goldman Sachs]] · [[_Barack Obama Master Profile|Obama]] · [[Carlyle Group]] · [[JPMorgan Chase]] · [[Citigroup]] · [[Goldman Sachs , The Government Sachs Alumni Network]]"
 court-cases: 46
 last-enriched: "2026-04-08"
 court-jurisdictions:
@@ -164,9 +164,9 @@ The analytical pattern: **Revolving Door** (complete cycle: regulator → crisis
 - [ProPublica: Bailout Tracker. Tracking Every Dollar and Every Recipient](https://projects.propublica.org/bailout/) (Tier 1) (VERIFIED), $634.8B outflows, $109B government profit
 - [Warburg Pincus: Timothy F. Geithner. Team page](https://warburgpincus.com/team/timothy-f-geithner/) (Tier 1) (VERIFIED). Chairman biography, $83B AUM
 - [Wikipedia: Timothy Geithner](https://en.wikipedia.org/wiki/Timothy_Geithner) (Tier 3) (VERIFIED). Biographical overview, career timeline, HAMP controversy
-- ~~[OpenSecrets: Tim Geithner. Revolving Door summary](https://www.opensecrets.org/revolving/rev_summary.php?id=78265)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1). Revolving door profile (site temporarily 502 at time of verification; URL format confirmed valid)
+- ~~[OpenSecrets: Tim Geithner. Revolving Door summary](https://www.opensecrets.org/revolving/rev_summary.php?id=78265)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1). Revolving door profile (site temporarily 502 at time of verification; URL format confirmed valid)
 - [U.S. Department of the Treasury](https://home.treasury.gov/) (Tier 1) (VERIFIED). Historical reference, Secretary list
-- ~~[Neil Barofsky: *Bailout* (2012)](https://www.simonandschuster.com/books/Bailout/Neil-Barofsky/9781451684933)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2). SIGTARP Inspector General memoir documenting Geithner's "foam the runway" statement and HAMP design as bank relief
+- ~~[Neil Barofsky: *Bailout* (2012)](https://www.simonandschuster.com/books/Bailout/Neil-Barofsky/9781451684933)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2). SIGTARP Inspector General memoir documenting Geithner's "foam the runway" statement and HAMP design as bank relief
 
 ---
 

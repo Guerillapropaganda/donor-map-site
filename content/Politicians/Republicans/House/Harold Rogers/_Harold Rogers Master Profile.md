@@ -1,5 +1,5 @@
 ---
-title: "Harold Rogers Master Profile"
+title: "Harold Rogers"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

@@ -59,7 +59,7 @@ CPI operates as a shadow personnel operation for the MAGA movement, performing t
 
 ### Sources
 
-- ~~[IRS: CPI 990 filings](https://apps.irs.gov/app/eos/allSearch?searchChoice=ePostcard&ein=&names=Conservative%20Partnership%20Institute&city=&state=All+States&country=US)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[IRS: CPI 990 filings](https://apps.irs.gov/app/eos/allSearch?searchChoice=ePostcard&ein=&names=Conservative%20Partnership%20Institute&city=&state=All+States&country=US)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [ProPublica: Nonprofit Explorer - Conservative Partnership Institute](https://projects.propublica.org/nonprofits/organizations/821470217) (Tier 2) (VERIFIED)
 - [Ballotpedia: Conservative Partnership Institute](https://ballotpedia.org/Conservative_Partnership_Institute) (Tier 3) (VERIFIED)
 

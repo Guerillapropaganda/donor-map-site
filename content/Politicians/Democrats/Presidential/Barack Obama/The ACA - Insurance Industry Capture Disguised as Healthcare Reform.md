@@ -145,11 +145,11 @@ Baucus, with Fowler as his chief counsel, designed a bill that preserved insuran
 
 - [Sunlight Foundation: The Legacy of Billy Tauzin: The White House-PhRMA Deal](https://sunlightfoundation.com/2010/02/12/the-legacy-of-billy-tauzin-the-white-house-phrma-deal/) (Tier 2) (VERIFIED)
 - [PBS Frontline: Obama's Deal](https://www.pbs.org/wgbh/frontline/documentary/obamasdeal/) (Tier 2) (VERIFIED)
-- ~~[Health Affairs Journal: The Origins And Demise Of The Public Option](https://www.healthaffairs.org/doi/10.1377/hlthaff.2010.0363)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[Health Affairs Journal: The Origins And Demise Of The Public Option](https://www.healthaffairs.org/doi/10.1377/hlthaff.2010.0363)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Center for Public Integrity: Elimination of 'public option' threw consumers to the insurance wolves](https://publicintegrity.org/health/elimination-of-public-option-threw-consumers-to-the-insurance-wolves/) (Tier 2) (VERIFIED)
 - [FEC Candidate: Max Baucus donor profile](https://www.fec.gov/data/candidate/S8MT00010/) (Tier 1) (VERIFIED)
 - [ProPublica: Insurance Lobby That Fought Hillarycare and Obamacare Now Has Sturdy Bridges to Democrats](https://www.propublica.org/article/insurance-lobby-has-sturdy-bridges-to-democrats) (Tier 2) (VERIFIED)
-- ~~[Financial Times: Elizabeth Fowler and the architecture of Obamacare](https://www.ft.com/content/a0f98984-c1d3-11e0-8f16-00144feabdc0)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[Financial Times: Elizabeth Fowler and the architecture of Obamacare](https://www.ft.com/content/a0f98984-c1d3-11e0-8f16-00144feabdc0)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - ~~[Kaiser Family Foundation: Insurance Premium and Cost Trends Over the Obama Presidency](https://www.kff.org/report-section/health-insurance-coverage-of-the-nonelderly-state-level-estimates-of-coverage-estimates-by-age/)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 1)
 
 ---
@@ -158,7 +158,7 @@ Baucus, with Fowler as his chief counsel, designed a bill that preserved insuran
 
 **URL verification needed (UNVERIFIED tags):** All new sources added in the 2026-04-05 refresh are marked (UNVERIFIED) because Chrome was unavailable for load testing during the automated refresh run. A url-fixer skill pass is required to confirm these before restoring `content-readiness: ready`. Priority targets: Sunlight Foundation (domain inactive since org wound down, archive.org copy may be needed), OpenSecrets URLs (documented 403 bot-blocking in url-check.md), PolitiFact URLs.
 
-**Sunlight Foundation primary source:** The key PhRMA deal source (sunlightfoundation.com/2010/02/12/the-legacy-of-billy-tauzin..) is referenced across multiple vault files. Verify archive.org has a working copy if the live URL is dead. Add to url-fixer skill queue.
+**Sunlight Foundation primary source:** The key PhRMA deal source (sunlightfoundation.com/2010/02/12/the-legacy-of-billy-tauzin.) is referenced across multiple vault files. Verify archive.org has a working copy if the live URL is dead. Add to url-fixer skill queue.
 
 **FEC data upgrade available:** Obama 2008 healthcare donations are currently cited via Raw Story/CRP (Tier 2). Direct FEC API query for 2008 healthcare sector totals would upgrade to Tier 1. Obama's FEC candidate ID: P80003338. Run `fecCandidateTotals('P80003338', 2008)` and filter by sector code `H`.
 

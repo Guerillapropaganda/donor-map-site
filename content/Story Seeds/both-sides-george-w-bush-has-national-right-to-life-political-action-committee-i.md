@@ -14,7 +14,7 @@ _Confidence: ★★★★★ · Surfaced by contradiction-miner on 2026-04-11_
 
 ## The angle
 
-NATIONAL RIGHT TO LIFE POLITICAL ACTION COMMITTEE appears as both a funder and an adversary of George W. Bush. Investigate whether this is a transactional both-sides play (LLC layering, PAC vs entity distinction, timing arbitrage) or a genuine contradiction. Either way it's a story — the vault has the connection, nobody else does.
+NATIONAL RIGHT TO LIFE POLITICAL ACTION COMMITTEE appears as both a funder and an adversary of George W. Bush. Investigate whether this is a transactional both-sides play (LLC layering, PAC vs entity distinction, timing arbitrage) or a genuine contradiction. Either way it's a story, the vault has the connection, nobody else does.
 
 ## Evidence from the vault
 

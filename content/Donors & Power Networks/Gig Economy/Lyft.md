@@ -149,10 +149,10 @@ Climate/EV. Prop 30 ($8M spent, Newsom opposed)
 ### Sources
 
 - [Ballotpedia: Prop 22 campaign finance](https://ballotpedia.org/California_Proposition_22,_App-Based_Drivers_as_Contractors_and_Labor_Policies_Initiative_%282020%29) (Tier 1) (VERIFIED)
-- ~~[LA Times: $205M spending total](https://www.latimes.com/business/story/2020-10-20/prop-22-gig-workers-uber-lyft-record-spending)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[LA Times: $205M spending total](https://www.latimes.com/business/story/2020-10-20/prop-22-gig-workers-uber-lyft-record-spending)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [OpenSecrets: Lyft federal PAC and lobbying](https://www.opensecrets.org/orgs/lyft-inc/summary?id=D000067782) (Tier 1) (VERIFIED)
 - [CalMatters: California Proposition 22 and gig worker ballot measures](https://calmatters.org/election-2020-guide/proposition-22-gig-workers-ab-5/) (Tier 2) (VERIFIED)
-- ~~[The Hill: Flex Association launch](https://thehill.com/business-a-lobbying/business-a-lobbying/597404-gig-companies-launch-lobbying-group-to-counter-pro/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[The Hill: Flex Association launch](https://thehill.com/business-a-lobbying/business-a-lobbying/597404-gig-companies-launch-lobbying-group-to-counter-pro/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [FPPC: Contribution filings](https://cal-access.sos.ca.gov/Campaign/Committees/list.aspx?page=1) (Tier 1) (VERIFIED)
 
 ---

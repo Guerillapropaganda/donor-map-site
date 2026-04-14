@@ -1,5 +1,5 @@
 ---
-title: "Marie Gluesenkamp Perez Master Profile"
+title: "Marie Gluesenkamp Perez"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

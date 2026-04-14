@@ -63,7 +63,7 @@ See [[Defense Industry Bloc]], [[Defense Contractors]], and [[Defense Contractor
 
 ---
 
-### Financial Overview (990 Filing — 2023)
+### Financial Overview (990 Filing, 2023)
 <!-- auto:propublica-990 start -->
 
 | Metric | Amount |

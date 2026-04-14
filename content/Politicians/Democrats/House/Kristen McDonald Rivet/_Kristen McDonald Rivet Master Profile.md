@@ -1,5 +1,5 @@
 ---
-title: "Kristen McDonald Rivet Master Profile"
+title: "Kristen McDonald Rivet"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

@@ -53,7 +53,7 @@ Devon Energy Corporation. One of the largest independent oil and gas producers i
 
 Devon PAC contributes $500,000-$1 million per cycle, with individual employee contributions and lobbying spending of $2-4 million annually. Devon's political significance is concentrated in Oklahoma, where the company is a major employer, taxpayer, and political donor, shaping the state's energy policy ecosystem.
 
-- ~~[OpenSecrets: Devon Energy organizational profile](https://www.opensecrets.org/orgs/devon-energy/summary?id=D000021818)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[OpenSecrets: Devon Energy organizational profile](https://www.opensecrets.org/orgs/devon-energy/summary?id=D000021818)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 
 ---
 

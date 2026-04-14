@@ -61,9 +61,9 @@ aliases:
 
 ### Who They Are
 
-[[Senate Majority PAC|Senate Majority PAC]] is the Democratic counterpart to [[Senate Leadership Fund|Senate Leadership Fund]] — the leadership-controlled super PAC designed to maintain Democratic Senate control and execute Majority Leader [[_Chuck Schumer Master Profile|Chuck Schumer]]'s priorities. Created in 2011 and operated in tandem with Majority Forward, its 501(c)(4) dark money arm, SMP raised $286 million in the 2024 cycle and $108 million in 2025, positioning it as the central vehicle for Democratic Senate power maintenance.
+[[Senate Majority PAC|Senate Majority PAC]] is the Democratic counterpart to [[Senate Leadership Fund|Senate Leadership Fund]], the leadership-controlled super PAC designed to maintain Democratic Senate control and execute Majority Leader [[_Chuck Schumer Master Profile|Chuck Schumer]]'s priorities. Created in 2011 and operated in tandem with Majority Forward, its 501(c)(4) dark money arm, SMP raised $286 million in the 2024 cycle and $108 million in 2025, positioning it as the central vehicle for Democratic Senate power maintenance.
 
-The crucial framing: SMP exists not to mobilize grassroots Democrats but to convert mega-donor preferences into Senate votes. Like its Republican counterpart, it is fundamentally about concentrated wealth determining chamber priorities. The difference is donor composition — not the underlying power structure.
+The crucial framing: SMP exists not to mobilize grassroots Democrats but to convert mega-donor preferences into Senate votes. Like its Republican counterpart, it is fundamentally about concentrated wealth determining chamber priorities. The difference is donor composition, not the underlying power structure.
 
 ### What They Want
 
@@ -71,11 +71,11 @@ Senate Majority PAC's stated mission is Senate Democratic control, but its actua
 
 - **Tech industry protection** (anti-antitrust, H-1B visa preservation, AI governance favorable to incumbents)
 - **Healthcare industry alignment** (pharma/insurance-friendly regulation, no single-payer, Medicaid expansion at margins only)
-- **Climate investment** (clean energy subsidies, EV adoption — investments that benefit portfolios of mega-donors)
+- **Climate investment** (clean energy subsidies, EV adoption, investments that benefit portfolios of mega-donors)
 - **Judicial appointments** (Federalist Society opposition, progressive judiciary alignment)
 - **Immigration managed liberalism** (asylum expansion, work authorization that doesn't threaten labor market protections)
 
-The operation is donor-first, with messaging created to align with Democratic base preferences while execution remains within donor constraints. This is the structure that kept [[_Bernie Sanders Master Profile|Bernie Sanders]]' Medicare for All off the Senate floor despite multiple co-sponsors — SMP's donor base (pharma, insurance, healthcare) required containment.
+The operation is donor-first, with messaging created to align with Democratic base preferences while execution remains within donor constraints. This is the structure that kept [[_Bernie Sanders Master Profile|Bernie Sanders]]' Medicare for All off the Senate floor despite multiple co-sponsors. SMP's donor base (pharma, insurance, healthcare) required containment.
 
 ### Who Funds Them
 
@@ -106,7 +106,7 @@ SMP concentrates on competitive Senate races in purple states and targets spendi
 - Majority Forward (c)(4): $81M+ undisclosed
 
 ### 2025-2026 Strategic Positioning:
-- $108M raised in 2025 (vs. SLF's $180M — GOP ahead by $72M)
+- $108M raised in 2025 (vs. SLF's $180M. GOP ahead by $72M)
 - Cash on hand: $75M (vs. GOP's $100M)
 - Problem: Democratic donors are more diffuse, less coordinated, and face pressure from progressive base to oppose dark money
 - Result: SMP spending advantage vs. 2024, but structural disadvantage vs. Republican counterpart
@@ -131,7 +131,7 @@ Democratic donors who fund SMP received tangible returns during the Biden admini
 
 The return on investment is measured not in legislation passed but in structural protection: mega-donors' wealth and position remain legally protected and politically defended.
 
-### The [[_Chuck Schumer Master Profile|Chuck Schumer]] Problem — Democratic Dark Money Leadership
+### The [[_Chuck Schumer Master Profile|Chuck Schumer]] Problem. Democratic Dark Money Leadership
 
 [[_Chuck Schumer Master Profile|Chuck Schumer]]'s relationship with SMP is identical to [[_Mitch McConnell Master Profile|Mitch McConnell]]'s relationship with SLF: both are using leadership-controlled super PACs to consolidate personal power within their respective chambers. Schumer uses SMP to enforce discipline on Senate Democrats, punishing those who deviate from donor-consensus priorities and rewarding those who defend it.
 
@@ -160,7 +160,7 @@ Result: Republican Senate spending advantage despite theoretical Democratic fund
 
 SMP represents the central contradiction of contemporary Democratic politics: the party opposes oligarchy while its power structure depends entirely on oligarchic funding. Three mega-donors (Moskovitz, Bloomberg, Gates) have given more than $100M combined to SMP in the past four years. That money buys control of Senate Democratic priorities.
 
-Yet Democratic voters are told they're choosing between parties based on values — one party for "democracy," one party for "oligarchy" — when both parties' Senate control mechanisms operate through identical dark money structures and mega-donor capture.
+Yet Democratic voters are told they're choosing between parties based on values, one party for "democracy," one party for "oligarchy", when both parties' Senate control mechanisms operate through identical dark money structures and mega-donor capture.
 
 The difference is not in the structure. The difference is that Republican voters are not told their party opposes dark money, so there is no contradiction. Democratic voters are told exactly that, making the SMP structure a lie embedded in party infrastructure.
 
@@ -178,8 +178,8 @@ The class function is donor-first governance wrapped in progressive messaging. S
 
 ### Sources
 
-- ~~[Axios: Schumer-Linked PAC Raises $119M in Q3 2024](https://www.axios.com/2024/10/15/schumer-pac-senate-fundraising)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
-- ~~[OpenSecrets: Senate Majority PAC Summary](https://www.opensecrets.org/orgs/senate-majority-pac/summary)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[Axios: Schumer-Linked PAC Raises $119M in Q3 2024](https://www.axios.com/2024/10/15/schumer-pac-senate-fundraising)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[OpenSecrets: Senate Majority PAC Summary](https://www.opensecrets.org/orgs/senate-majority-pac/summary)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [FEC: Senate Majority PAC Filings](https://www.fec.gov/data/committee/C00484642/) (Tier 1) (VERIFIED)
 - [Ballotpedia: Senate Majority PAC](https://ballotpedia.org/Senate_Majority_PAC) (Tier 2) (VERIFIED)
 - [Daily Caller: Schumer-Linked Super PAC Trails GOP Counterpart](https://dailycaller.com/2026/01/29/chuck-schumer-pac-republicans-democrats-senate-fundraising/) (Tier 3) (VERIFIED)

@@ -219,7 +219,7 @@ The Willow Project ($8 billion investment, 180,000 barrels per day at peak, 600 
 - [ConocoPhillips: Willow Project Record of Decision (March 2023)](https://www.conocophillips.com/news-media/story/conocophillips-welcomes-record-of-decision-on-the-willow-project/) (Tier 1) (VERIFIED)
 - [ConocoPhillips: Final Investment Decision (December 2023)](https://www.conocophillips.com/news-media/story/conocophillips-makes-final-investment-decision-to-develop-the-willow-project/) (Tier 1) (VERIFIED)
 - [PBS NewsHour: Biden administration Willow approval](https://www.pbs.org/newshour/politics/biden-administration-approves-controversial-willow-oil-drilling-project-in-alaska) (Tier 2) (VERIFIED)
-- ~~[New York Times: Biden Willow approval and Murkowski quote on bringing Biden "around"](https://www.nytimes.com/2023/03/13/climate/willow-biden-oil-climate.html)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[New York Times: Biden Willow approval and Murkowski quote on bringing Biden "around"](https://www.nytimes.com/2023/03/13/climate/willow-biden-oil-climate.html)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [ProPublica: ConocoPhillips Alaska revolving door (Andrew Lundquist)](https://www.propublica.org/article/conocophillips-lobbying-long-game-won-fight-drill-alaska-wilderness) (Tier 2) (VERIFIED)
 - [OpenSecrets: ConocoPhillips PAC SPIRIT PAC (C00112896) details](https://www.opensecrets.org/political-action-committees-pacs/conocophillips/C00112896/summary/2024) (Tier 1) (VERIFIED)
 - [E&E News: ConocoPhillips permitting reform lobbying (2026)](https://www.eenews.net/articles/conocophillips-hires-firm-to-lobby-on-permitting/) (Tier 2) (VERIFIED)

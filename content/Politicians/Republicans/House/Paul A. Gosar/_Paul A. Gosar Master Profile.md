@@ -1,5 +1,5 @@
 ---
-title: "Paul A. Gosar Master Profile"
+title: "Paul A. Gosar"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

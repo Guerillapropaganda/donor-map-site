@@ -1,11 +1,11 @@
 ---
-title: "The Shared Sponsor Map — Corporate Advertisers Funding Both Left and Right Political Media"
+title: "The Shared Sponsor Map , Corporate Advertisers Funding Both Left and Right Political Media"
 type: story
 content-readiness: ready
 last-updated: 2026-04-08
 source-tier: 2
 parent: null
-related: "[[Fox News - Murdoch Media Empire]] · [[Rachel Maddow]] · [[Tucker Carlson]] · [[Sean Hannity]] · [[Laura Ingraham]] · [[PhRMA]] · [[JPMorgan Chase]] · [[Raytheon (RTX)]] · [[Daily Wire]] · [[Joe Rogan]] · [[The Revolving Door (Media) — Government-to-Media Personnel Pipeline]]"
+related: "[[Fox News - Murdoch Media Empire]] · [[Rachel Maddow]] · [[Tucker Carlson]] · [[Sean Hannity]] · [[Laura Ingraham]] · [[PhRMA]] · [[JPMorgan Chase]] · [[Raytheon (RTX)]] · [[Daily Wire]] · [[Joe Rogan]] · [[The Revolving Door (Media) , Government-to-Media Personnel Pipeline]]"
 ---
 
 #media #advertising #cross-spectrum #pharma #insurance #defense #tech #boycotts #both-sides-illusion
@@ -243,7 +243,7 @@ Corporations don't choose sides in the political media war, they fund both sides
 - [S&P Global Market Intelligence: "Progressive's Advertising Expenditure Hits Record High in 2024"](https://www.spglobal.com/market-intelligence/en/news-insights/articles/2025/3/progressives-advertising-expenditure-hits-record-high-in-2024-88020488) (Tier 2) (VERIFIED)
 - [Mother Jones: "Same Advertisers Bankrolling Fox's Bad Climate Coverage Are There for COVID-19"](https://www.motherjones.com/media/2020/05/the-same-advertisers-that-bankroll-foxs-bad-climate-coverage-are-there-for-covid-19/) (Tier 2) (VERIFIED)
 - [TheDesk: "Fox News Media Record Ad Revenue Growth"](https://thedesk.net/2026/03/fox-news-media-record-ad-revenue-growth/) (Tier 2) (VERIFIED)
-- ~~[Forbes: "Fox News Reports Its Highest First Quarter Ad Revenue in History"](https://www.forbes.com/sites/markjoyella/2025/10/30/fox-news-reports-its-highest-first-quarter-ad-revenue-in-history/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[Forbes: "Fox News Reports Its Highest First Quarter Ad Revenue in History"](https://www.forbes.com/sites/markjoyella/2025/10/30/fox-news-reports-its-highest-first-quarter-ad-revenue-in-history/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Barrett Media: "Fox News, CNN, MSNBC Earn More Than $200 Million in September Ad Revenue"](https://barrettmedia.com/2025/10/16/fox-news-cnn-msnbc-earn-more-than-200-million-in-september-ad-revenue-new-data-shows/) (Tier 2) (VERIFIED)
 - [OpenSecrets: Google Inc PAC Contributions Data](https://www.opensecrets.org/political-action-committees-pacs/google-inc/C00428623/pac-to-pac/2024) (Tier 1) (VERIFIED)
 - [Meta Newsroom: "Bringing More Real-Time News and Content to Meta AI"](https://about.fb.com/news/2025/12/bringing-more-real-time-news-and-content-to-meta-ai/) (Tier 1) (VERIFIED)
@@ -251,7 +251,7 @@ Corporations don't choose sides in the political media war, they fund both sides
 - [Politico: "Meta Drops $65 Million Into Super PACs to Boost Tech-Friendly State Candidates"](https://www.politico.com/news/2026/02/02/meta-drops-65-million-into-super-pacs-to-boost-tech-friendly-state-candidates-00759567) (Tier 2) (VERIFIED)
 - [Business Insider: "Big Advertisers Embrace Conservative Media"](https://www.businessinsider.com/big-advertisers-embrace-conservative-media-fox-news-daily-wire-rumble-2025-3) (Tier 2) (VERIFIED)
 - [Mediaite: "Fox News Becomes Haven for Blue-Chip Advertisers Amid Post-Election Ratings Surge"](https://www.mediaite.com/media/news/fox-news-becomes-a-haven-for-blue-chip-advertisers-amid-post-election-ratings-surge/) (Tier 2) (VERIFIED)
-- ~~[New York Times: "Pentagon's Generals in the Green Room" (Pulitzer Prize investigation)](https://www.nytimes.com/2008/04/20/us/20generals.html)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[New York Times: "Pentagon's Generals in the Green Room" (Pulitzer Prize investigation)](https://www.nytimes.com/2008/04/20/us/20generals.html)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [Media Matters: "Fox Hides Frequent Military Spending Advocate Defense Contractor Director"](https://www.mediamatters.org/fox-news/fox-hides-frequent-military-spending-advocate-defense-contractor-director) (Tier 2) (VERIFIED)
 - [The Daily Beast: "Fox News Hasn't Disclosed That Its Go-To Afghanistan Expert Jack Keane Profits from War"](https://www.thedailybeast.com/fox-news-hasnt-disclosed-that-its-go-to-afghanistan-expert-jack-keane-profits-from-war/) (Tier 2) (VERIFIED)
 - [Truthout: "These Experts Cheer On Gaza Siege Without Disclosing Ties to War Profiteering"](https://truthout.org/articles/these-experts-cheer-on-gaza-siege-without-disclosing-ties-to-war-profiteering/) (Tier 2) (VERIFIED)
@@ -262,12 +262,12 @@ Corporations don't choose sides in the political media war, they fund both sides
 - [The Nation: "Government Contractors Dominate DC Advertising"](https://www.thenation.com/article/politics/dc-ads-defense/) (Tier 2) (VERIFIED)
 - [FinTech Weekly: "Fairshake Crypto Super PAC War Chest"](https://www.fintechweekly.com/news/clarity-act-senate-campaign-finance-fairshake-crypto-pac-fec-data-2026) (Tier 2) (VERIFIED)
 - [Wired: "Crypto Political Donations Super PACs Campaigns"](https://www.wired.com/story/crypto-political-donations-super-pacs-campaigns/) (Tier 2) (VERIFIED)
-- ~~[Reuters: "Glenn Beck and Fox News End Daily TV Show"](https://www.reuters.com/article/lifestyle/glenn-beck-and-fox-news-end-daily-tv-show-idUSTRE7357PL/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[Reuters: "Glenn Beck and Fox News End Daily TV Show"](https://www.reuters.com/article/lifestyle/glenn-beck-and-fox-news-end-daily-tv-show-idUSTRE7357PL/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [TIME: "Bill O'Reilly Advertisers Withdrawals"](https://time.com/4730099/bill-oreilly-advertisers-commercials-sexual-harassment/) (Tier 2) (VERIFIED)
 - [TheWrap: "Tucker Carlson and Laura Ingraham Boycotts Have Cost Millions"](https://www.thewrap.com/tucker-carlson-and-laura-ingraham-boycotts-have-cost-millions-in-ad-losses-data-shows-exclusive/) (Tier 2) (VERIFIED)
 - [Los Angeles Times: "Fox News Advertisers Exodus"](https://www.latimes.com/business/hollywood/la-fi-ct-fox-news-advertisers-carlson-20190313-story.html) (Tier 2) (VERIFIED)
 - [Variety: "Advertisers Return to Tucker Carlson's 8PM Fox News Slot After His Departure"](https://variety.com/2023/tv/news/tucker-carlson-fox-news-advertisers-return-1235606123/) (Tier 2) (VERIFIED)
-- ~~[New York Times: "X Advertisers Pause Over Elon Musk Antisemitic Post"](https://www.nytimes.com/2023/11/24/business/x-elon-musk-advertisers.html)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[New York Times: "X Advertisers Pause Over Elon Musk Antisemitic Post"](https://www.nytimes.com/2023/11/24/business/x-elon-musk-advertisers.html)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [Fortune: "X's UK Revenue Decline"](https://fortune.com/2026/01/27/x-uk-twitter-financial-filings-revenue-decline-58-percent/) (Tier 2) (VERIFIED)
 - [Deadline: "Fox News Advertisers Post-Election Return"](https://deadline.com/2025/02/donald-trump-fox-news-advertisers-1236301121/) (Tier 2) (VERIFIED)
 

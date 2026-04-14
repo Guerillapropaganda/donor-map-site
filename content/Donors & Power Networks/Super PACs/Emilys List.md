@@ -45,13 +45,13 @@ aliases:
 
 ### Who They Are
 
-EMILY's List (Early Money Is Like Yeast — a fundraising metaphor) is the nation's largest bundling operation for Democratic pro-choice women candidates, founded in 1985. It operates both as a 501(c)(4) advocacy group and through Women Vote!, its affiliated super PAC.
+EMILY's List (Early Money Is Like Yeast, a fundraising metaphor) is the nation's largest bundling operation for Democratic pro-choice women candidates, founded in 1985. It operates both as a 501(c)(4) advocacy group and through Women Vote!, its affiliated super PAC.
 
-~~[EMILY's List — Wikipedia](https://en.wikipedia.org/wiki/All-In_(podcast)~~ (URL broken, archived by Ops)'s_List) (Tier 2)
+~~[EMILY's List. Wikipedia](https://en.wikipedia.org/wiki/All-In_(podcast)~~ (URL broken, archived by Ops)'s_List) (Tier 2)
 
-[EMILY's List — InfluenceWatch](https://www.influencewatch.org/organization/emilys-list/) (Tier 2) (VERIFIED)
+[EMILY's List. InfluenceWatch](https://www.influencewatch.org/organization/emilys-list/) (Tier 2) (VERIFIED)
 
-[EMILY's List — Ballotpedia](https://ballotpedia.org/EMILY's_List) (Tier 3) (VERIFIED)
+[EMILY's List. Ballotpedia](https://ballotpedia.org/EMILY's_List) (Tier 3) (VERIFIED)
 
 EMILY's List has raised approximately **$850 million** in its lifetime and spent over **$40 million per electoral cycle** in recent years. It functions as both a fundraising infrastructure (bundling individual donations) and a direct spender through Women Vote! PAC.
 
@@ -93,7 +93,7 @@ Contrast this with economic policy: EMILY's List–backed candidates are frequen
 
 ### 3. Strategic Targeting of Competitive Races
 
-EMILY's List concentrates spending in winnable races — often where the preferred candidate is already well-positioned. This maximizes the organization's apparent success rate but also concentrates resources on already-favored candidates rather than expanding the pool of viable women candidates.
+EMILY's List concentrates spending in winnable races, often where the preferred candidate is already well-positioned. This maximizes the organization's apparent success rate but also concentrates resources on already-favored candidates rather than expanding the pool of viable women candidates.
 
 ### Who They Fund / Who Funds Them
 
@@ -117,7 +117,7 @@ EMILY's List's funding comes from:
 
 A single New York financier donated $500,000 to Women Vote! in 2024. The [[United Democracy Project - UDP|United Democracy Project]] ([[AIPAC - American Israel Public Affairs Committee|AIPAC]] super PAC) gave $200,000 to Women Vote!, indicating coordination between EMILY's List and the Israel lobby.
 
-[Women Vote! — Ballotpedia](https://ballotpedia.org/Women_Vote!) (Tier 3) (VERIFIED)
+[Women Vote!. Ballotpedia](https://ballotpedia.org/Women_Vote!) (Tier 3) (VERIFIED)
 
 ### Donor Class Filter
 EMILY's List's endorsement process functions as a filter ensuring only donor-acceptable women candidates receive backing. This is not a conspiracy but a structural outcome: the organization is led by wealthy professionals, funded by wealthy professionals, and therefore naturally aligns with wealthy professionals' preferred candidates.
@@ -138,11 +138,11 @@ However, the victories require analytical specificity:
 
 The critical question: what have EMILY's List victories translated into legislatively?
 
-1. Reproductive Rights Defense — EMILY's List candidates have voted consistently to protect abortion rights and have sought to restore Roe protections. This is a genuine policy win for pro-choice voters.
+1. Reproductive Rights Defense. EMILY's List candidates have voted consistently to protect abortion rights and have sought to restore Roe protections. This is a genuine policy win for pro-choice voters.
 
-2. Economic Policy Silence — EMILY's List–backed women candidates are largely silent on wealth concentration, tax policy, worker organizing, and healthcare financing. The organization has not used its platform to push economic justice alongside reproductive justice.
+2. Economic Policy Silence. EMILY's List–backed women candidates are largely silent on wealth concentration, tax policy, worker organizing, and healthcare financing. The organization has not used its platform to push economic justice alongside reproductive justice.
 
-3. Candidate Quality Bias — EMILY's List endorsement decisions have historically favored establishment candidates over progressive women, creating a "viability gap" where progressive women candidates lack access to the organization's infrastructure.
+3. Candidate Quality Bias. EMILY's List endorsement decisions have historically favored establishment candidates over progressive women, creating a "viability gap" where progressive women candidates lack access to the organization's infrastructure.
 
 ### The Feminist Brand as Donor-Class Filter
 
@@ -176,7 +176,7 @@ The strategic insight: EMILY's List demonstrated women candidates can be competi
 
 The central contradiction:
 
-EMILY's List claims to fight for women's political power. But political power in a capitalist system is ultimately determined by capital access. EMILY's List provides that access — but only to women whose economic politics don't threaten the donor class.
+EMILY's List claims to fight for women's political power. But political power in a capitalist system is ultimately determined by capital access. EMILY's List provides that access, but only to women whose economic politics don't threaten the donor class.
 
 Progressive women candidates face the Catch-22: gain EMILY's List endorsement and funding, but moderate economic rhetoric; or maintain progressive economic politics and lack fundraising infrastructure.
 
@@ -186,10 +186,10 @@ The organization has not resolved this tension. It has managed it.
 
 EMILY's List operates within a broader ecosystem of women's-focused Democratic giving:
 
-- **Planned Parenthood Votes** — Reproductive rights super PAC
-- **Women Donors Network** — Philanthropic giving by wealthy women
-- **Black Women's Blueprint** — Independent infrastructure for Black women candidates
-- **NARAL Pro-Choice America** — Reproductive rights advocacy (overlapping donor base)
+- **Planned Parenthood Votes**. Reproductive rights super PAC
+- **Women Donors Network**. Philanthropic giving by wealthy women
+- **Black Women's Blueprint**. Independent infrastructure for Black women candidates
+- **NARAL Pro-Choice America**. Reproductive rights advocacy (overlapping donor base)
 
 ## Class Analysis
 
@@ -203,12 +203,12 @@ The reproductive rights focus is strategically chosen because it mobilizes femal
 
 ### Sources
 
-- [EMILY's List — Wikipedia](https://en.wikipedia.org/wiki/All-In_(podcast)'s_List) (Tier 2)
-- [EMILY's List — InfluenceWatch](https://www.influencewatch.org/organization/emilys-list/) (Tier 2)
-- [EMILY's List — Ballotpedia](https://ballotpedia.org/EMILY's_List) (Tier 3)
-- [This super PAC for pro-choice women is spending big to help get Karen Carter Peterson elected — EMILY's List](https://emilyslist.org/in-the-press/this-super-pac-for-pro-choice-women-is-spending-big-to-help-get-karen-carte/) (Tier 2) (VERIFIED)
-- [Women Vote! — Ballotpedia](https://ballotpedia.org/Women_Vote!) (Tier 3)
-- [Abortion and 2024: How pro-choice PAC EMILY's List might actually be helping Republicans — Slate](https://slate.com/news-and-politics/2024/03/abortion-2024-campaign-emilys-list-super-tuesday-primary-california-weiss-min.html) (Tier 2) (VERIFIED)
+- [EMILY's List. Wikipedia](https://en.wikipedia.org/wiki/All-In_(podcast)'s_List) (Tier 2)
+- [EMILY's List. InfluenceWatch](https://www.influencewatch.org/organization/emilys-list/) (Tier 2)
+- [EMILY's List. Ballotpedia](https://ballotpedia.org/EMILY's_List) (Tier 3)
+- [This super PAC for pro-choice women is spending big to help get Karen Carter Peterson elected. EMILY's List](https://emilyslist.org/in-the-press/this-super-pac-for-pro-choice-women-is-spending-big-to-help-get-karen-carte/) (Tier 2) (VERIFIED)
+- [Women Vote!. Ballotpedia](https://ballotpedia.org/Women_Vote!) (Tier 3)
+- [Abortion and 2024: How pro-choice PAC EMILY's List might actually be helping Republicans. Slate](https://slate.com/news-and-politics/2024/03/abortion-2024-campaign-emilys-list-super-tuesday-primary-california-weiss-min.html) (Tier 2) (VERIFIED)
 - [EMILYs List and Future Forward Launch More Than $6M in "Real Stories" Ads to Women Under 40](https://emilyslist.org/news/emilys-list-and-future-forward-launch-more-than-6m-in-real-stories-ads-to-women-under-40/) (Tier 2)
 
 ---
@@ -227,7 +227,7 @@ The reproductive rights focus is strategically chosen because it mobilizes femal
 
 > This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.
 
-### Financial Overview (990 Filing — 2023)
+### Financial Overview (990 Filing, 2023)
 <!-- auto:propublica-990 start -->
 | Metric | Amount |
 |--------|--------|

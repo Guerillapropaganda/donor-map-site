@@ -5,7 +5,7 @@ content-readiness: ready
 last-updated: 2026-04-08
 source-tier: 1
 parent: "[[_Maxine Waters Master Profile]]"
-related: "[[The Wall Street Democrat - Goldman Sachs to Congress Pipeline]] · [[The Foreign Affairs Committee and Wall Street-Queens Axis]] · [[Goldman Sachs — The Government Sachs Alumni Network]] · [[_Maxine Waters Master Profile]] · [[_French Hill Master Profile|French Hill]] · [[Goldman Sachs]] · [[JPMorgan Chase]] · [[Citigroup]]"
+related: "[[The Wall Street Democrat - Goldman Sachs to Congress Pipeline]] · [[The Foreign Affairs Committee and Wall Street-Queens Axis]] · [[Goldman Sachs , The Government Sachs Alumni Network]] · [[_Maxine Waters Master Profile]] · [[_French Hill Master Profile|French Hill]] · [[Goldman Sachs]] · [[JPMorgan Chase]] · [[Citigroup]]"
 ---
 #waters #financial-services #wall-street #cfpb #banking-regulation #dodd-frank
 
@@ -42,9 +42,9 @@ The contributions are not necessarily corrupting in Waters' case, she may genuin
 
 ### Sources
 
-- ~~[Congress.gov: Maxine Waters member profile](https://www.congress.gov/member/maxine-waters/W000187)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[Congress.gov: Maxine Waters member profile](https://www.congress.gov/member/maxine-waters/W000187)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [FEC Candidate: Maxine Waters campaign finance summary](https://www.fec.gov/data/candidate/H4CA23011/) (Tier 1) (VERIFIED)
 - [FEC Candidate: Maxine Waters top industries](https://www.fec.gov/data/candidate/H4CA23011/) (Tier 1) (VERIFIED)
-- ~~[American Banker: Waters' chairmanship record and Wall Street relations](https://www.americanbanker.com/maxine-waters-financial-services/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[American Banker: Waters' chairmanship record and Wall Street relations](https://www.americanbanker.com/maxine-waters-financial-services/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Ballotpedia: Maxine Waters](https://ballotpedia.org/Maxine_Waters) (Tier 3) (VERIFIED)
 

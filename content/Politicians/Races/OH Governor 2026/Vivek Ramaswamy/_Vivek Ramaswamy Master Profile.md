@@ -1,8 +1,8 @@
 ---
-title: Vivek Ramaswamy Master Profile
+title: Vivek Ramaswamy
 type: politician
 content-readiness: draft
-central-thesis: "Vivek Ramaswamy's political brand — anti-regulation, anti-DEI, anti-'woke capitalism' — is funded by and serves the same billionaire class it claims to challenge. His $2.4 billion fortune was built through Roivant Sciences, a pharmaceutical compan..."
+central-thesis: "Vivek Ramaswamy's political brand , anti-regulation, anti-DEI, anti-'woke capitalism' , is funded by and serves the same billionaire class it claims to challenge. His $2.4 billion fortune was built through Roivant Sciences, a pharmaceutical compan..."
 last-updated: 2026-04-10
 source-tier: 1
 parent: null
@@ -48,7 +48,7 @@ donors: [[Jeffrey Yass]] · [[Peter Thiel]] · Ross Stevens
 
 ## Who He Is
 
-Vivek Ramaswamy. DOGE co-lead (32 days, November 2024–January 2025). Now running for Ohio governor (2026). Net worth $2.4 billion, built entirely on Roivant Sciences — a biotech company that buys failed pharmaceutical patents and restructures them through subsidiary "Vant" companies. Roivant stake: ~$565–670 million (10% ownership, $15.1B market cap). Additional wealth: Strive Asset Management ($1.7B AUM, anti-ESG positioning, funded by [[Peter Thiel|Peter Thiel]], [[_JD Vance Master Profile|JD Vance]], Bill Ackman). 2024 presidential primary: raised $66.2 million, self-funded $26 million+, dropped out after 4th place Iowa (8%), endorsed Trump same night. DOGE tenure lasted 32 days before Musk forced him out — H-1B visa comments criticizing American workers ("venerated mediocrity over excellence") alienated the MAGA base and Trump himself. Ohio governor race: $19.8 million raised (state record), [[Jeff Yass|Jeff Yass]] $10 million to super PAC, Ross Stevens $5 million. The "anti-woke" pharma billionaire whose entire fortune depends on the FDA he wants to "gut." The 2028 audition is the Ohio statehouse.
+Vivek Ramaswamy. DOGE co-lead (32 days, November 2024–January 2025). Now running for Ohio governor (2026). Net worth $2.4 billion, built entirely on Roivant Sciences, a biotech company that buys failed pharmaceutical patents and restructures them through subsidiary "Vant" companies. Roivant stake: ~$565–670 million (10% ownership, $15.1B market cap). Additional wealth: Strive Asset Management ($1.7B AUM, anti-ESG positioning, funded by [[Peter Thiel|Peter Thiel]], [[_JD Vance Master Profile|JD Vance]], Bill Ackman). 2024 presidential primary: raised $66.2 million, self-funded $26 million+, dropped out after 4th place Iowa (8%), endorsed Trump same night. DOGE tenure lasted 32 days before Musk forced him out. H-1B visa comments criticizing American workers ("venerated mediocrity over excellence") alienated the MAGA base and Trump himself. Ohio governor race: $19.8 million raised (state record), [[Jeff Yass|Jeff Yass]] $10 million to super PAC, Ross Stevens $5 million. The "anti-woke" pharma billionaire whose entire fortune depends on the FDA he wants to "gut." The 2028 audition is the Ohio statehouse.
 
 ---
 
@@ -68,39 +68,39 @@ Vivek Ramaswamy. DOGE co-lead (32 days, November 2024–January 2025). Now runni
 ## Donor Class Map
 
 ### The Pharma-to-Politics Pipeline:
-- [[The Roivant Fortune and the FDA Deregulation Conflict]] — Roivant Sciences $15.1B market cap. 10% stake ($565–670M). Bermuda incorporation (tax haven). Axovant $360M raise → trial failure → $40M personal stock sale. QVT Financial hedge fund → biotech entrepreneur → anti-regulation politician. The fortune that funds the politics that deregulates the fortune.
+- [[The Roivant Fortune and the FDA Deregulation Conflict]]. Roivant Sciences $15.1B market cap. 10% stake ($565–670M). Bermuda incorporation (tax haven). Axovant $360M raise → trial failure → $40M personal stock sale. QVT Financial hedge fund → biotech entrepreneur → anti-regulation politician. The fortune that funds the politics that deregulates the fortune.
 
 ### The DOGE Audition and the Billionaire Fallout:
-- [[The 32-Day DOGE Tenure and the Musk Divorce]] — Co-lead with Musk. Proposed 75% federal workforce cuts, $2 trillion spending reduction. H-1B comments: American culture "venerated mediocrity over excellence." Trump "privately unhappy." Musk "sharply critical." Forced out inauguration day. Ohio pivot within 35 days. The efficiency expert who couldn't survive his own organization.
+- [[The 32-Day DOGE Tenure and the Musk Divorce]]. Co-lead with Musk. Proposed 75% federal workforce cuts, $2 trillion spending reduction. H-1B comments: American culture "venerated mediocrity over excellence." Trump "privately unhappy." Musk "sharply critical." Forced out inauguration day. Ohio pivot within 35 days. The efficiency expert who couldn't survive his own organization.
 
 ### The Ohio Governor Race and the Yass-Stevens Super PAC:
-- [[The Ohio Governor Race and the Billionaire Super PAC]] — $19.8M raised (state record). [[Jeff Yass|Jeff Yass]] $10M + Ross Stevens $5M = 83% of super PAC. 88,950 unique donors (average $76). $10M TV ad blitz (March 2026). Running mate Rob McColley (State Senate President). Primary opponent Casey Putsch. General election: Amy Acton (polling competitive). The grassroots narrative funded by two billionaires.
+- [[The Ohio Governor Race and the Billionaire Super PAC]], $19.8M raised (state record). [[Jeff Yass|Jeff Yass]] $10M + Ross Stevens $5M = 83% of super PAC. 88,950 unique donors (average $76). $10M TV ad blitz (March 2026). Running mate Rob McColley (State Senate President). Primary opponent Casey Putsch. General election: Amy Acton (polling competitive). The grassroots narrative funded by two billionaires.
 
 ---
 
 ## Donation-to-Policy Timeline
 
-*Note: Ramaswamy is the deregulation self-interest loop — his $2.4B fortune depends on FDA-regulated pharma, his political platform calls for gutting the FDA, and his campaigns are funded by the billionaire class his "anti-woke" brand claims to challenge.*
+*Note: Ramaswamy is the deregulation self-interest loop, his $2.4B fortune depends on FDA-regulated pharma, his political platform calls for gutting the FDA, and his campaigns are funded by the billionaire class his "anti-woke" brand claims to challenge.*
 
 #### Self-Funded Model / Roivant Fortune
 
 | Date | Donor | Amount | Given | Policy Outcome |
 |------|-------|--------|-------|----------------|
-| 2023-02 | Ramaswamy's own Roivant fortune ($2.4B net worth; $565-670M Roivant stake; Bermuda tax haven) | $26M+ self-funded; $66.2M total raised | 2014-ongoing (Roivant founding) | Presidential campaign platform: "gut the FDA" — directly benefits Roivant holdings (3 drugs in FDA development pipeline during Trump's second term) |
-| 2024-11 | Ramaswamy self-interest — DOGE co-lead proposing 75% federal workforce cuts, $2T spending reductions | Policy platform value | 2024-11 (32-day tenure) | DOGE proposals advance pharma/tech deregulation benefiting own fortune; forced out after H-1B comments alienated MAGA base and Trump |
+| 2023-02 | Ramaswamy's own Roivant fortune ($2.4B net worth; $565-670M Roivant stake; Bermuda tax haven) | $26M+ self-funded; $66.2M total raised | 2014-ongoing (Roivant founding) | Presidential campaign platform: "gut the FDA", directly benefits Roivant holdings (3 drugs in FDA development pipeline during Trump's second term) |
+| 2024-11 | Ramaswamy self-interest. DOGE co-lead proposing 75% federal workforce cuts, $2T spending reductions | Policy platform value | 2024-11 (32-day tenure) | DOGE proposals advance pharma/tech deregulation benefiting own fortune; forced out after H-1B comments alienated MAGA base and Trump |
 
 #### Jeff Yass / Ross Stevens / Billionaire Super PAC
 
 | Date | Donor | Amount | Given | Policy Outcome |
 |------|-------|--------|-------|----------------|
-| 2025-02 | [[Jeff Yass]] ($10M) + Ross Stevens ($5M) — 83% of Ohio governor super PAC from two billionaires | $15M (83% of $16.8M super PAC) | 2025-02 (Ohio campaign launch) | Ohio governor run: $19.8M total raised (state record); $10M TV ad blitz; the "grassroots outsider" funded by two billionaires |
-| 2022-01 | [[Peter Thiel]], [[_JD Vance Master Profile|JD Vance]], Bill Ackman — funded Strive Asset Management ($1.7B AUM, anti-ESG) | Thiel/Ackman investment | 2022 | Anti-ESG positioning as political brand launcher; Strive generates "anti-woke capitalist" identity that funds presidential and governor campaigns |
+| 2025-02 | [[Jeff Yass]] ($10M) + Ross Stevens ($5M), 83% of Ohio governor super PAC from two billionaires | $15M (83% of $16.8M super PAC) | 2025-02 (Ohio campaign launch) | Ohio governor run: $19.8M total raised (state record); $10M TV ad blitz; the "grassroots outsider" funded by two billionaires |
+| 2022-01 | [[Peter Thiel]], [[_JD Vance Master Profile|JD Vance]], Bill Ackman, funded Strive Asset Management ($1.7B AUM, anti-ESG) | Thiel/Ackman investment | 2022 | Anti-ESG positioning as political brand launcher; Strive generates "anti-woke capitalist" identity that funds presidential and governor campaigns |
 
 #### Pharma Deregulation / FDA Conflict
 
 | Date | Donor | Amount | Given | Policy Outcome |
 |------|-------|--------|-------|----------------|
-| 2014-ongoing | Roivant Sciences ($15.1B market cap) — acquires failed FDA-regulated drug patents, restructures in Bermuda | $565-670M personal Roivant stake | 2014-ongoing | Every "gut the FDA" policy position directly benefits Roivant's drug pipeline; Axovant $360M raise → trial failure → $40M personal stock sale before results publicized |
+| 2014-ongoing | Roivant Sciences ($15.1B market cap), acquires failed FDA-regulated drug patents, restructures in Bermuda | $565-670M personal Roivant stake | 2014-ongoing | Every "gut the FDA" policy position directly benefits Roivant's drug pipeline; Axovant $360M raise → trial failure → $40M personal stock sale before results publicized |
 
 > [!money]
 > The Ramaswamy timeline shows the deregulation self-interest loop: Roivant fortune built on FDA-regulated pharma → presidential campaign platform calls for gutting FDA (directly benefiting Roivant holdings) → DOGE co-lead for 32 days → forced out by Musk for class miscalculation (H-1B comments) → Ohio governor run funded by two billionaires (83% of super PAC). The "anti-woke capitalist" who ran against the establishment self-funded his campaign with pharma billions, was forced out of DOGE by a richer billionaire, and now runs for governor on $15M from two other billionaires. Every stage reveals the same structure: populist brand, billionaire money, deregulatory agenda that benefits the fortune.
@@ -109,7 +109,7 @@ Vivek Ramaswamy. DOGE co-lead (32 days, November 2024–January 2025). Now runni
 
 ## Rhetorical Signature Moves
 
-1. **The anti-woke entrepreneur:** "Woke, Inc." — corporate DEI is a "self-interested scam." The function: position pharma wealth as anti-establishment. The reality: his own company ran pro-DEI initiatives while he wrote the book.
+1. **The anti-woke entrepreneur:** "Woke, Inc.", corporate DEI is a "self-interested scam." The function: position pharma wealth as anti-establishment. The reality: his own company ran pro-DEI initiatives while he wrote the book.
 2. **The outsider self-funder:** Claims independence from donor class while super PAC takes $15M from two billionaires. The 88,950 small donors provide the narrative; Yass and Stevens provide the money.
 3. **The deregulation populist:** "Gut the FDA." The function: frame pharmaceutical deregulation as populist rebellion against bureaucracy. The reality: FDA deregulation directly benefits his $565–670M Roivant stake.
 
@@ -117,11 +117,11 @@ Vivek Ramaswamy. DOGE co-lead (32 days, November 2024–January 2025). Now runni
 
 ## Analytical Patterns
 
-**The Genuine Win + Structural Limit** — Ramaswamy proposed 75% federal workforce cuts and $2 trillion spending reductions during DOGE tenure, advancing deregulatory interests of tech and pharma billionaires. Yet these proposals operated within advisory authority (32-day tenure) — they don't fundamentally restructure the federal system, they propose downsizing within existing authority structures that the donors funding his politics benefit from.
+**The Genuine Win + Structural Limit**. Ramaswamy proposed 75% federal workforce cuts and $2 trillion spending reductions during DOGE tenure, advancing deregulatory interests of tech and pharma billionaires. Yet these proposals operated within advisory authority (32-day tenure), they don't fundamentally restructure the federal system, they propose downsizing within existing authority structures that the donors funding his politics benefit from.
 
-**The Two-Audience Problem** — To Jeff Yass and billionaire super PAC donors, Ramaswamy is the deregulation advocate (specifically FDA deregulation benefiting his Roivant pharma holdings). To the MAGA base, he's the "anti-woke" businessman taking down corporate DEI. To his own Roivant company, he's the CEO running pharma deregulation as political policy. The identical deregulation agenda serves all three: direct financial benefit (Roivant), rhetorical satisfaction (base), billionaire patronage (Yass, Stevens).
+**The Two-Audience Problem**. To Jeff Yass and billionaire super PAC donors, Ramaswamy is the deregulation advocate (specifically FDA deregulation benefiting his Roivant pharma holdings). To the MAGA base, he's the "anti-woke" businessman taking down corporate DEI. To his own Roivant company, he's the CEO running pharma deregulation as political policy. The identical deregulation agenda serves all three: direct financial benefit (Roivant), rhetorical satisfaction (base), billionaire patronage (Yass, Stevens).
 
-**The Villain Framing** — Ramaswamy frames DEI and federal regulation as "woke" overreach and institutional waste, deflecting from the class analysis: his entire political brand exists to deregulate the pharmaceutical industry that built his $2.4 billion fortune while claiming to represent anti-establishment populism funded by billionaires.
+**The Villain Framing**. Ramaswamy frames DEI and federal regulation as "woke" overreach and institutional waste, deflecting from the class analysis: his entire political brand exists to deregulate the pharmaceutical industry that built his $2.4 billion fortune while claiming to represent anti-establishment populism funded by billionaires.
 
 ---
 
@@ -130,10 +130,10 @@ Vivek Ramaswamy. DOGE co-lead (32 days, November 2024–January 2025). Now runni
 ### Verified
 - [FEC: Vivek Ramaswamy 2024 Presidential Campaign](https://www.fec.gov/data/candidate/P40011082/) (Tier 1) (VERIFIED)
 - [SEC EDGAR: Roivant Sciences filings and ownership structure](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=roivant&CIK=&type=&dateb=&owner=include&count=40&search_text=&action=getcompany) (Tier 1) (VERIFIED)
-- ~~[Washington Post: Vivek Ramaswamy's push for FDA changes could boost his wealth](https://www.washingtonpost.com/business/2024/11/25/vivek-ramaswamy-conflicts-doge-fda/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[Washington Post: Vivek Ramaswamy's push for FDA changes could boost his wealth](https://www.washingtonpost.com/business/2024/11/25/vivek-ramaswamy-conflicts-doge-fda/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Fortune: DOGE departure and Musk conflict](https://fortune.com/2025/01/21/doge-elon-musk-vivek-ramaswamy-departure-donald-trump-presidency/) (Tier 2) (VERIFIED)
 - [Signal Ohio: Jeff Yass $10M super PAC contribution](https://signalohio.org/billionaire-makes-huge-contribution-to-political-group-backing-ohio-gop-candidate-vivek-ramaswamy/) (Tier 2) (VERIFIED)
-- ~~[Axios: Roivant DEI contradiction](https://www.axios.com/2023/06/16/vivek-ramaswamy-dei-esg-company)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[Axios: Roivant DEI contradiction](https://www.axios.com/2023/06/16/vivek-ramaswamy-dei-esg-company)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [NBC News: Ohio governor race](https://www.nbcnews.com/politics/elections/doge-ohio-vivek-ramaswamy-enters-governors-race-pushing-cuts-merit-pay-rcna188980) (Tier 2) (VERIFIED)
 - [Forbes/Fortune: Ramaswamy net worth](https://fortune.com/2023/08/24/vivek-ramaswamy-gop-debate-republican-net-worth/) (Tier 2) (VERIFIED)
 

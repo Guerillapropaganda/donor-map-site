@@ -38,7 +38,7 @@ The needs-reenrichment flag has been set. The next scheduled pipeline run will p
 
 ### Who They Are
 
-Oil & Gas PACs. The collective PAC operation of the oil and gas industry — including company PACs (ExxonMobil PAC, Chevron Employees PAC, ConocoPhillips PAC), industry PACs (American Petroleum Institute), and bundled executive contributions. Combined oil and gas PAC spending: $30-50M per cycle, overwhelmingly favoring Republicans (85-90% Republican share). The oil and gas PAC network is supplemented by $100M+ in annual industry lobbying and billions in independent expenditure through dark money organizations (API-funded 501(c)(4)s, Koch-aligned organizations).
+Oil & Gas PACs. The collective PAC operation of the oil and gas industry, including company PACs (ExxonMobil PAC, Chevron Employees PAC, ConocoPhillips PAC), industry PACs (American Petroleum Institute), and bundled executive contributions. Combined oil and gas PAC spending: $30-50M per cycle, overwhelmingly favoring Republicans (85-90% Republican share). The oil and gas PAC network is supplemented by $100M+ in annual industry lobbying and billions in independent expenditure through dark money organizations (API-funded 501(c)(4)s, Koch-aligned organizations).
 
 Oil and gas PACs are targeted with precision: the largest contributions go to members of the Energy and Natural Resources Committee (Senate), Energy and Commerce Committee (House), and Appropriations subcommittees that control EPA funding, DOI land management, and energy infrastructure spending. Every committee chair or ranking member who oversees oil and gas regulation receives maximum PAC contributions from multiple industry entities.
 

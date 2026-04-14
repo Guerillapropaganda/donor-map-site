@@ -1,5 +1,5 @@
 ---
-title: "Nanette Diaz Barragan Master Profile"
+title: "Nanette Diaz Barragan"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

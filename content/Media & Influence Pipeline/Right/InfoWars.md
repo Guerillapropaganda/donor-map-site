@@ -66,11 +66,11 @@ Genesis Communications Network syndicated Jones's radio show for two decades und
 
 ### Who Funds Them
 
-InfoWars had **no documented institutional or dark money backers**. The operation was entirely consumer-funded through direct sales relationships. This structural feature — absence of external institutional funders — meant Jones had no major financial patrons to whom he was beholden, unlike donor-dependent media personalities.
+InfoWars had **no documented institutional or dark money backers**. The operation was entirely consumer-funded through direct sales relationships. This structural feature, absence of external institutional funders, meant Jones had no major financial patrons to whom he was beholden, unlike donor-dependent media personalities.
 
 ### Russian State Media Amplification
 
-From May 2014 to November 2017, InfoWars republished **over 1,000 articles from RT (Russia Today)** — a volume that dwarfed republication of CNN, BBC, or New York Times content. During the 2016 election, Russian bots actively promoted Trump via InfoWars. InfoWars republished Sputnik articles originating from Russian state sources without attribution. The FBI investigated this activity as part of Russian interference inquiries but brought no charges. The relationship appears to have been a convergence of interests (cost-free content for InfoWars; amplified reach for Russian narratives) rather than a formal funding or coordination arrangement.
+From May 2014 to November 2017, InfoWars republished **over 1,000 articles from RT (Russia Today)**, a volume that dwarfed republication of CNN, BBC, or New York Times content. During the 2016 election, Russian bots actively promoted Trump via InfoWars. InfoWars republished Sputnik articles originating from Russian state sources without attribution. The FBI investigated this activity as part of Russian interference inquiries but brought no charges. The relationship appears to have been a convergence of interests (cost-free content for InfoWars; amplified reach for Russian narratives) rather than a formal funding or coordination arrangement.
 
 ### Advertiser Relationships
 
@@ -85,10 +85,10 @@ InfoWars's editorial output served two simultaneous functions: **political agita
 
 ### Major Narrative Clusters
 
-- **Government false flag operations**: 9/11, Sandy Hook (20 children, 6 educators killed), Boston Marathon, Las Vegas shooting — presented as staged events or conspiracies
+- **Government false flag operations**: 9/11, Sandy Hook (20 children, 6 educators killed), Boston Marathon, Las Vegas shooting, presented as staged events or conspiracies
 - **"New World Order" globalist conspiracy**: Framed as an existential threat requiring vigilance and preparedness products
 - **Bill Gates / population control**: Tied to vaccine anxiety and health product sales
-- **Anti-vaccine content**: HPV vaccines, COVID vaccines — marketed as threats requiring alternative health products
+- **Anti-vaccine content**: HPV vaccines, COVID vaccines, marketed as threats requiring alternative health products
 - **Illegal voting claims**: Amplified immigration-related anxieties
 - **Pizzagate / child trafficking networks**: Attributed to Democratic figures, generating audience engagement and product sales spikes
 
@@ -104,7 +104,7 @@ During the 2016 presidential campaign, Trump echoed Jones's claims "verbatim" da
 
 ### The Audience Capture Model
 
-InfoWars audience capture operated through **fear monetization**: the platform's entire value proposition was that Jones possessed special knowledge of threats (government conspiracies, population control, false flag operations) that mainstream media suppressed. Audience trust was the product being sold — both to advertisers and directly to consumers buying supplements.
+InfoWars audience capture operated through **fear monetization**: the platform's entire value proposition was that Jones possessed special knowledge of threats (government conspiracies, population control, false flag operations) that mainstream media suppressed. Audience trust was the product being sold, both to advertisers and directly to consumers buying supplements.
 
 ### Documented Audience Metrics
 
@@ -115,7 +115,7 @@ InfoWars audience capture operated through **fear monetization**: the platform's
 
 ### The Content-Purchasing Loop
 
-Each content cycle created psychological dependency on new information. Jones presented himself as the sole reliable source of suppressed truth. The audience, convinced of imminent threats, purchased supplements as protective measures. Revenue spikes directly correlated with alarming content. This was not accidental — Jones stated explicitly that "accuracy" was not the goal, with staffer Joe Biggs admitting on record: "It's not about truth, it's not about accuracy — it's about what's going to make people click on this video."
+Each content cycle created psychological dependency on new information. Jones presented himself as the sole reliable source of suppressed truth. The audience, convinced of imminent threats, purchased supplements as protective measures. Revenue spikes directly correlated with alarming content. This was not accidental. Jones stated explicitly that "accuracy" was not the goal, with staffer Joe Biggs admitting on record: "It's not about truth, it's not about accuracy, it's about what's going to make people click on this video."
 
 ---
 
@@ -131,7 +131,7 @@ Since InfoWars had no institutional backers, the question reframes to: **what di
 ### For the Trump campaign (2016):
 - Direct access to millions of engaged voters via Roger Stone's InfoWars platform
 - Content that echoed and amplified Trump's campaign messaging (immigration, government misconduct, electoral misconduct)
-- Plausible deniability — Trump could promote InfoWars narratives while claiming independence from them
+- Plausible deniability. Trump could promote InfoWars narratives while claiming independence from them
 
 ### For Roger Stone:
 - A megaphone for his own political operativism
@@ -151,13 +151,13 @@ Since InfoWars had no institutional backers, the question reframes to: **what di
 InfoWars represents a novel form of political media infrastructure: **profit-driven disinformation as a business model**. The structural innovation was collapsing the distinction between content and commerce. Fear-driven narratives didn't exist to sell supplements; supplements existed because the narratives created the psychological conditions for purchasing.
 
 This model exploited two class vulnerabilities:
-1. **Economic precarity among the audience**: Jones's core audience (working-class Americans facing stagnant wages, healthcare instability, economic uncertainty) had genuine grievances. InfoWars offered explanations that located the source of their suffering in identifiable enemies (globalists, government, pharmaceutical companies) rather than in structural economic conditions. The supplements were positioned as individual solutions to structural problems — you could protect yourself through consumption.
+1. **Economic precarity among the audience**: Jones's core audience (working-class Americans facing stagnant wages, healthcare instability, economic uncertainty) had genuine grievances. InfoWars offered explanations that located the source of their suffering in identifiable enemies (globalists, government, pharmaceutical companies) rather than in structural economic conditions. The supplements were positioned as individual solutions to structural problems, you could protect yourself through consumption.
 
-2. **Political outsiderism**: Trump's 2016 campaign gained power by positioning itself as outside the establishment. InfoWars, banned from mainstream platforms and corporate advertising, could offer a parallel narrative of outsider authenticity. Jones's willingness to say things mainstream media would not — regardless of truth — became the product itself.
+2. **Political outsiderism**: Trump's 2016 campaign gained power by positioning itself as outside the establishment. InfoWars, banned from mainstream platforms and corporate advertising, could offer a parallel narrative of outsider authenticity. Jones's willingness to say things mainstream media would not, regardless of truth, became the product itself.
 
 The class analysis reveals the function: **InfoWars pacified political anger by converting it into consumer behavior**. Rather than organize collectively to address structural inequality, the audience purchased individual protective supplements based on narratives that explained their suffering through conspiracy.
 
-**Asset-hiding schemes** documented in bankruptcy proceedings reveal the second structural layer: when facing $1.5 billion in judgments, Jones transferred assets to family members ($5 million between June 2024 and June 2025), sold property to his father for $10 (back-dated), and redirected his audience to his father's new supplement company (Dr. Jones Naturals). These were not sophisticated financial maneuvers — they were transparent attempts to hide assets from court-ordered liquidation, suggesting structural weakness once the profitable propaganda model faced legal accountability.
+**Asset-hiding schemes** documented in bankruptcy proceedings reveal the second structural layer: when facing $1.5 billion in judgments, Jones transferred assets to family members ($5 million between June 2024 and June 2025), sold property to his father for $10 (back-dated), and redirected his audience to his father's new supplement company (Dr. Jones Naturals). These were not sophisticated financial maneuvers, they were transparent attempts to hide assets from court-ordered liquidation, suggesting structural weakness once the profitable propaganda model faced legal accountability.
 
 Patterns present: **Audience Capture** (fear creates purchasing behavior), **Platform Dependency** (deplatforming destroyed 50% of traffic), **Dark Money Laundering** (PQPR operation extracting supplement revenue upstream to avoid judgment collection), **Revolving Door** (Roger Stone converting InfoWars platform into political operative access).
 
@@ -206,18 +206,18 @@ Patterns present: **Audience Capture** (fear creates purchasing behavior), **Pla
 ### Sources
 
 - [Rolling Stone: "Alex Jones Infowars Store Revenue $165M, Court Testimony"](https://www.rollingstone.com/politics/politics-news/alex-jones-infowars-store-165-million-1281059/) (Tier 2) (VERIFIED)
-- ~~[Bloomberg: "Infowars Parent Free Speech Systems Files for Bankruptcy"](https://www.bloomberg.com/news/articles/2022-07-30/infowars-parent-free-speech-systems-files-for-bankruptcy)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[Bloomberg: "Infowars Parent Free Speech Systems Files for Bankruptcy"](https://www.bloomberg.com/news/articles/2022-07-30/infowars-parent-free-speech-systems-files-for-bankruptcy)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [NPR: "Alex Jones has been ordered to pay $1 billion"](https://www.npr.org/2022/10/13/1128860654/alex-jones-sandy-hook-families-money-trial) (Tier 2) (VERIFIED)
 - [New York Magazine: "How Does Alex Jones Make Money?"](https://nymag.com/intelligencer/2017/05/how-does-alex-jones-make-money.html) (Tier 2) (VERIFIED)
 - [PBS Frontline: "Alex Jones and Donald Trump: How the Candidate Echoed the Conspiracy Theorist"](https://www.pbs.org/wgbh/frontline/article/alex-jones-and-donald-trump-how-the-candidate-echoed-the-conspiracy-theorist-on-the-campaign-trail/) (Tier 2) (VERIFIED)
-- ~~[New York Times: "In Trump's Volleys, Echoes of Alex Jones's Conspiracy Theories"](https://www.nytimes.com/2017/02/19/business/media/alex-jones-conspiracy-theories-donald-trump.html)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[New York Times: "In Trump's Volleys, Echoes of Alex Jones's Conspiracy Theories"](https://www.nytimes.com/2017/02/19/business/media/alex-jones-conspiracy-theories-donald-trump.html)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Business Insider: "InfoWars Granted White House Press Credentials"](https://www.businessinsider.com/infowars-granted-white-house-press-credentials-2017-5) (Tier 2) (VERIFIED)
-- [American Prospect: "Crisis Actors — Full Bankruptcy Narrative"](https://prospect.org/2025/02/06/2025-02-06-crisis-actors-alex-jones-bankruptcy/) (Tier 2) (VERIFIED)
+- [American Prospect: "Crisis Actors. Full Bankruptcy Narrative"](https://prospect.org/2025/02/06/2025-02-06-crisis-actors-alex-jones-bankruptcy/) (Tier 2) (VERIFIED)
 - [CBS Austin: "Alex Jones Would Get $520,000 Salary Under Bankruptcy Plan"](https://cbsaustin.com/news/local/alex-jones-would-get-520000-salary-under-bankruptcy-plan-infowars-sandy-hook-shooting-hoax-free-speech-systems) (Tier 2) (VERIFIED)
 - [Texas Tribune: "Alex Jones' Company Files for Bankruptcy"](https://www.texastribune.org/2022/07/30/alex-jones-company-bankruptcy/) (Tier 2) (VERIFIED)
 - [WIRED: "Alex Jones Is Now Trying to Divert Money to His Father's Supplements Business"](https://www.wired.com/story/alex-jones-bankruptcy-money-dr-jones-supplement-business/) (Tier 2) (VERIFIED)
 - [AP: "Connecticut Court Upholds $965 Million Verdict Against Alex Jones"](https://apnews.com/article/alex-jones-infowars-sandy-hook-024c8397c26e7b504436cb4b761db3fa) (Tier 2) (VERIFIED)
-- ~~[New York Times: "Alex Jones's Infowars Sold to The Onion at Auction"](https://www.nytimes.com/2024/11/14/business/media/alex-jones-infowars-the-onion.html)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[New York Times: "Alex Jones's Infowars Sold to The Onion at Auction"](https://www.nytimes.com/2024/11/14/business/media/alex-jones-infowars-the-onion.html)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Media Matters: "Alex Jones: Infowars will be shutting down in 'the middle of next month'"](https://www.mediamatters.org/alex-jones/alex-jones-infowars-will-be-shutting-down-middle-next-month) (Tier 2) (VERIFIED)
 - [NPR: "Infowars conspiracist Alex Jones loses another legal battle"](https://www.npr.org/2025/08/13/nx-s1-5501648/alex-jones-infowars-receiver) (Tier 2) (VERIFIED)
 - [BBC: "InfoWars' Alex Jones asks Supreme Court to block $1.4bn judgment"](https://www.bbc.com/news/articles/cy856qxzq01o) (Tier 2) (VERIFIED)
@@ -225,7 +225,7 @@ Patterns present: **Audience Capture** (fear creates purchasing behavior), **Pla
 - [Wikipedia: InfoWars](https://en.wikipedia.org/wiki/Infowars) (Tier 3) (VERIFIED)
 - [ProPublica: "J.D. Vance Praised Alex Jones as a Truth-Teller"](https://www.propublica.org/article/jd-vance-alex-jones-leonard-leo-teneo-maddow-video) (Tier 2) (VERIFIED)
 - [Deutsche Welle: "How to Make Money with Fake News"](https://www.dw.com/en/the-conspiracy-business-how-to-make-money-with-fake-news/a-56660466) (Tier 2) (VERIFIED)
-- ~~[New York Times: "The Russian Trolls Have a Simpler Job Today"](https://www.nytimes.com/2020/09/22/us/politics/russia-disinformation-election-trump.html)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[New York Times: "The Russian Trolls Have a Simpler Job Today"](https://www.nytimes.com/2020/09/22/us/politics/russia-disinformation-election-trump.html)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [CNN: "Roger Stone admits he pushed false statements on InfoWars"](https://www.cnn.com/2018/12/18/politics/roger-stone-infowars-settlement) (Tier 2) (VERIFIED)
 
 ---

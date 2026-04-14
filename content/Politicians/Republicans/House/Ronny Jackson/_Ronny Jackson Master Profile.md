@@ -1,5 +1,5 @@
 ---
-title: "Ronny Jackson Master Profile"
+title: "Ronny Jackson"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

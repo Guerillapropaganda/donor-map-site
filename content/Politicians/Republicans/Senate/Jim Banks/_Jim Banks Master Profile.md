@@ -1,5 +1,5 @@
 ---
-title: "Jim Banks Master Profile"
+title: "Jim Banks"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

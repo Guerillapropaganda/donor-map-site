@@ -56,9 +56,9 @@ The needs-reenrichment flag has been set. The next scheduled pipeline run will p
 
 ### Who They Are
 
-The Ethanol Industry. A $35+ billion annual industry built on a government mandate: the Renewable Fuel Standard (RFS) requires petroleum refiners to blend 15+ billion gallons of corn ethanol into the U.S. fuel supply annually. This mandate — the most consequential agricultural subsidy in American history — diverts 40% of the U.S. corn crop into fuel production, supporting corn prices, ethanol producer revenue, and the entire Iowa/Midwest agricultural economy.
+The Ethanol Industry. A $35+ billion annual industry built on a government mandate: the Renewable Fuel Standard (RFS) requires petroleum refiners to blend 15+ billion gallons of corn ethanol into the U.S. fuel supply annually. This mandate, the most consequential agricultural subsidy in American history, diverts 40% of the U.S. corn crop into fuel production, supporting corn prices, ethanol producer revenue, and the entire Iowa/Midwest agricultural economy.
 
-The industry's political operation is channeled through the Renewable Fuels Association, Growth Energy, and the American Coalition for Ethanol — collectively spending $5-10 million annually on lobbying, plus significant political contributions through agricultural PACs. The ethanol lobby's power is concentrated in Iowa — the first-in-the-nation caucus state where ethanol support is a prerequisite for presidential candidates of both parties.
+The industry's political operation is channeled through the Renewable Fuels Association, Growth Energy, and the American Coalition for Ethanol, collectively spending $5-10 million annually on lobbying, plus significant political contributions through agricultural PACs. The ethanol lobby's power is concentrated in Iowa, the first-in-the-nation caucus state where ethanol support is a prerequisite for presidential candidates of both parties.
 
 ---
 
@@ -70,7 +70,7 @@ Preservation of the Renewable Fuel Standard, expansion of E15 (15% ethanol blend
 
 ### What They've Gotten
 
-**The Renewable Fuel Standard:** The RFS (2005, expanded 2007) is the ethanol industry's structural foundation — a federal mandate that guarantees 15+ billion gallons of annual corn ethanol demand regardless of market conditions. The mandate transfers $7-10 billion annually from petroleum consumers (who pay higher fuel prices) to corn growers and ethanol producers (who receive guaranteed demand). The RFS has survived every attempt at repeal because Iowa's first-in-the-nation caucus status forces presidential candidates of both parties to pledge ethanol support.
+**The Renewable Fuel Standard:** The RFS (2005, expanded 2007) is the ethanol industry's structural foundation, a federal mandate that guarantees 15+ billion gallons of annual corn ethanol demand regardless of market conditions. The mandate transfers $7-10 billion annually from petroleum consumers (who pay higher fuel prices) to corn growers and ethanol producers (who receive guaranteed demand). The RFS has survived every attempt at repeal because Iowa's first-in-the-nation caucus status forces presidential candidates of both parties to pledge ethanol support.
 
 **The Iowa Caucus Protection Racket:** No presidential candidate has won the Iowa caucus while opposing ethanol. The caucus calendar position creates a structural requirement: every serious presidential candidate must pledge support for ethanol mandates to compete in Iowa. This calendar protection has preserved the RFS through administrations of both parties, despite the mandate's questionable environmental benefits (lifecycle analysis shows marginal emissions reduction) and its contribution to food price inflation (diverting 40% of corn production).
 

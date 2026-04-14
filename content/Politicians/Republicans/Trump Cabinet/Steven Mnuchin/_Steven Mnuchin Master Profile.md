@@ -1,5 +1,5 @@
 ---
-title: "Steven Mnuchin Master Profile"
+title: "Steven Mnuchin"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

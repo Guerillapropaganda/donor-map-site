@@ -116,9 +116,12 @@ export async function POST(request: Request) {
           if (content.includes(linkPattern) && !content.includes(archivedLink)) {
             content = content.replace(linkPattern, archivedLink)
 
-            // Add note about archival
+            // Add note about archival.
+            // NOTE: comma (not em dash) — the vault-wide no-em-dash rule applies.
+            // The unarchive regex below matches any paren content ending in
+            // "archived by Ops" so format changes here are backward-compatible.
             const tierNote = change.tier ? ` (was Tier ${change.tier}` : ""
-            const archiveNote = tierNote ? `${tierNote} — URL broken, archived by Ops)` : " (URL broken, archived by Ops)"
+            const archiveNote = tierNote ? `${tierNote}, URL broken, archived by Ops)` : " (URL broken, archived by Ops)"
             content = content.replace(archivedLink, archivedLink + archiveNote)
 
             modified = true

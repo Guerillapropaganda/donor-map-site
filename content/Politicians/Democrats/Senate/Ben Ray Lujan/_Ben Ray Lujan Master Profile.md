@@ -1,5 +1,5 @@
 ---
-title: "Ben Ray Lujan Master Profile"
+title: "Ben Ray Lujan"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

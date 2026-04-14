@@ -168,15 +168,15 @@ The $30M+ annual Koch investment in criminal justice reform is not philanthropy,
 
 ### Sources
 
-- ~~[EXPOSEDbyCMD: Charles Koch's "Stand Together" donor conduits move $176M, 2022 network mapping](https://www.exposedbycmd.org/2023/12/20/charles-kochs-stand-together-donor-conduits-move-176-million/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
-- ~~[EXPOSEDbyCMD: Koch super PAC shatters election spending record, 2024 cycle $548M](https://www.exposedbycmd.org/2024/11/05/koch-super-pac-shatters-its-election-spending-record/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[EXPOSEDbyCMD: Charles Koch's "Stand Together" donor conduits move $176M, 2022 network mapping](https://www.exposedbycmd.org/2023/12/20/charles-kochs-stand-together-donor-conduits-move-176-million/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[EXPOSEDbyCMD: Koch super PAC shatters election spending record, 2024 cycle $548M](https://www.exposedbycmd.org/2024/11/05/koch-super-pac-shatters-its-election-spending-record/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [OpenSecrets: Koch network's flagship super PAC pours big money into 2024 elections](https://www.opensecrets.org/news/2024/08/koch-network-flagship-super-pac-pours-big-money-into-2024-elections/) (Tier 1) (VERIFIED)
 - [NBC News: Leo, Koch networks pour millions into Project 2025 groups, $55M+](https://www.nbcnews.com/politics/2024-election/leonard-leo-koch-networks-pour-millions-prep-potential-second-trump-ad-rcna144360) (Tier 2) (VERIFIED)
 - [Read Sludge: Koch network fuels Republican push to kill ACA subsidies](https://readsludge.com/2025/12/15/koch-network-fuels-republican-push-to-kill-aca-subsidies/) (Tier 2) (VERIFIED)
 - [InfluenceWatch: Stand Together, organizational profile](https://www.influencewatch.org/non-profit/stand-together/) (Tier 2) (VERIFIED)
 - [Wikipedia: Stand Together](https://en.wikipedia.org/wiki/Stand_Together) (Tier 3) (VERIFIED)
 - [Wikipedia: Koch network](https://en.wikipedia.org/wiki/Koch_network) (Tier 3) (VERIFIED)
-- ~~[SourceWatch: Stand Together Foundation](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/Stand_Together_Foundation)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3)
+- ~~[SourceWatch: Stand Together Foundation](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/Stand_Together_Foundation)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
 - [Charles Koch Foundation. Learn & Work Ecosystem Library](https://learnworkecosystemlibrary.com/organizations/charles-koch-foundation/) (Tier 3) (VERIFIED)
 
 ---

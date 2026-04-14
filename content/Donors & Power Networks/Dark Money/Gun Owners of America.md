@@ -141,7 +141,7 @@ Gun Owners of America represents **single-issue ideological purity in dark money
 
 GOA's model reveals **how dark money enables ideological hardening:** By providing alternative funding to NRA, GOA creates incentive for Republican politicians to adopt more hardline gun positions. This creates an **escalation dynamic:** as GOA pushes politicians toward absolute positions, politicians cannot retreat without losing GOA funding.
 
-GOA also illustrates **asymmetry in gun policy advocacy:** Gun rights advocates (GOA, NRA, gun manufacturers) spend $200M+ annually on advocacy. Gun violence prevention advocates spend $50M+ annually — 4x fewer resources. This resource disparity directly translates to policy disparity: gun rights positions dominate while gun violence prevention positions are marginalized.
+GOA also illustrates **asymmetry in gun policy advocacy:** Gun rights advocates (GOA, NRA, gun manufacturers) spend $200M+ annually on advocacy. Gun violence prevention advocates spend $50M+ annually, 4x fewer resources. This resource disparity directly translates to policy disparity: gun rights positions dominate while gun violence prevention positions are marginalized.
 
 The post-Bruen litigation strategy reveals how **judicial capture can override democratic will:** Polls show 80%+ of Americans support background checks and magazine restrictions, yet post-Bruen judicial strategy strikes down these regulations despite democratic majorities. GOA's judicial strategy converts judicial appointments (Gorsuch, Kavanaugh, Barrett) into policy outcomes that override democratic preferences.
 
@@ -149,8 +149,8 @@ The post-Bruen litigation strategy reveals how **judicial capture can override d
 
 ### Sources
 
-- ~~[OpenSecrets: Gun Owners of America organizational profile](https://www.opensecrets.org/orgs/gun-owners-of-america/summary)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
-- ~~[IRS Form 990: Gun Owners of America (2022-2023)](https://apps.irs.gov/app/eos/allSearch?searchChoice=ePostcard&ein=&names=Gun%20Owners%20of%20America&city=&state=All+States&country=US)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[OpenSecrets: Gun Owners of America organizational profile](https://www.opensecrets.org/orgs/gun-owners-of-america/summary)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- ~~[IRS Form 990: Gun Owners of America (2022-2023)](https://apps.irs.gov/app/eos/allSearch?searchChoice=ePostcard&ein=&names=Gun%20Owners%20of%20America&city=&state=All+States&country=US)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [OpenSecrets: Gun Owners of America lobbying profile](https://www.opensecrets.org/orgs/gun-owners-of-america/lobbying?id=D000026353) (Tier 1) (VERIFIED)
 - [SCOTUSblog: New York Rifle v. Bruen and Second Amendment doctrine](https://www.scotusblog.com/2022/06/a-minor-impact-on-gun-laws-but-a-potentially-momentous-shift-in-constitutional-method/) (Tier 3) (VERIFIED)
 - [Ballotpedia: Constitutional carry state list](https://ballotpedia.org/Constitutional_carry) (Tier 3) (VERIFIED)

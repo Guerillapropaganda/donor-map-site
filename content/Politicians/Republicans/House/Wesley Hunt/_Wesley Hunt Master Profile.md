@@ -1,5 +1,5 @@
 ---
-title: "Wesley Hunt Master Profile"
+title: "Wesley Hunt"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

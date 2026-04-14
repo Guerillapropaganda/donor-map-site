@@ -17,7 +17,7 @@ donors: [[Gulf State Money - Saudi Arabia, UAE, Qatar]]
 
 ### The Timeline
 
-> [!money] Follow the Money — The Fastest Revolving Door in History
+> [!money] Follow the Money. The Fastest Revolving Door in History
 > **January 20, 2021:** Leaves White House
 > **January 21, 2021:** Incorporates Affinity Partners (Delaware)
 > **July 2021:** Affinity launches in Miami
@@ -27,7 +27,7 @@ donors: [[Gulf State Money - Saudi Arabia, UAE, Qatar]]
 
 ---
 
-### The PIF Investment — What $2 Billion Buys
+### The PIF Investment. What $2 Billion Buys
 
 **PIF advisory board assessment:** Rated Kushner's operation as having "inexperience," "excessive" management fees, and operations "unsatisfactory in all aspects." PIF management overruled internal advisers and invested anyway. The kingdom bears "bulk of investment and risk."
 
@@ -46,7 +46,7 @@ donors: [[Gulf State Money - Saudi Arabia, UAE, Qatar]]
 - Lunate (UAE-linked fund): additional commitment
 - Combined non-Saudi sovereign wealth: $1.5B+
 
-**EA Leveraged Buyout:** Affinity Partners is part of a consortium with PIF and Silver Lake pursuing a **$55 billion** acquisition of Electronic Arts ($52.5B equity value, $210/share — 25% premium). If completed, this would be one of the largest leveraged buyouts in history — with Kushner's fund participating alongside the same Saudi sovereign wealth fund that anchored his launch.
+**EA Leveraged Buyout:** Affinity Partners is part of a consortium with PIF and Silver Lake pursuing a **$55 billion** acquisition of Electronic Arts ($52.5B equity value, $210/share, 25% premium). If completed, this would be one of the largest leveraged buyouts in history, with Kushner's fund participating alongside the same Saudi sovereign wealth fund that anchored his launch.
 
 ---
 
@@ -54,7 +54,7 @@ donors: [[Gulf State Money - Saudi Arabia, UAE, Qatar]]
 
 **December 2024:** Kushner pledged to avoid fundraising from foreign governments during Trump's second term.
 
-**Reality:** Actively seeking **$5 billion+** in additional capital from foreign governments. The pledge was a news cycle management tool, not a commitment. The fundraising is the business model — pausing it would defeat the purpose of the entire operation.
+**Reality:** Actively seeking **$5 billion+** in additional capital from foreign governments. The pledge was a news cycle management tool, not a commitment. The fundraising is the business model, pausing it would defeat the purpose of the entire operation.
 
 ---
 

@@ -7,7 +7,7 @@ source-tier: null
 parent: null
 category: centrist
 platform: youtube
-related: "[[Patrick Bet-David]] · [[Ana Kasparian]] · [[Rachel Maddow]] · [[The Daily Wire]] · [[The Platform Dependency Spectrum — Revenue Vulnerability Across Political Media]] · [[Tucker Carlson]] · [[Tim Pool]] · [[Tenet Media]] · [[Steven Crowder]] · [[Sean Hannity]] · [[Rumble]] · [[Michael Knowles]] · [[Matt Walsh]] · [[Mark Levin]] · [[Laura Ingraham]] · [[Jordan Peterson]] · [[Jimmy Dore]]"
+related: "[[Patrick Bet-David]] · [[Ana Kasparian]] · [[Rachel Maddow]] · [[The Daily Wire]] · [[The Platform Dependency Spectrum , Revenue Vulnerability Across Political Media]] · [[Tucker Carlson]] · [[Tim Pool]] · [[Tenet Media]] · [[Steven Crowder]] · [[Sean Hannity]] · [[Rumble]] · [[Michael Knowles]] · [[Matt Walsh]] · [[Mark Levin]] · [[Laura Ingraham]] · [[Jordan Peterson]] · [[Jimmy Dore]]"
 ---
 
 #media-pipeline #centrist #media-network #valuetainment #patrick-bet-david #business-media
@@ -30,7 +30,7 @@ Media company founded by Patrick Bet-David, built around his YouTube channel and
 
 ### FEC Record
 
-*Pending API query — run fecDonorLookup() for principals/founders.*
+*Pending API query, run fecDonorLookup() for principals/founders.*
 
 ### Who Funds Them
 
@@ -40,7 +40,7 @@ PHP Agency (Bet-David's company, cross-subsidy) · YouTube ad revenue · Sponsor
 
 ### What They Push
 
-Entrepreneurship, business success, increasingly right-leaning political content wrapped in 'self-improvement' framing. The business brand provides cover for political content — audiences arrive for business advice, stay for political messaging.
+Entrepreneurship, business success, increasingly right-leaning political content wrapped in 'self-improvement' framing. The business brand provides cover for political content, audiences arrive for business advice, stay for political messaging.
 
 ### The Audience Capture Model
 
@@ -48,15 +48,15 @@ Entrepreneurship, business success, increasingly right-leaning political content
 
 ### What Their Funders Got
 
-*To be researched — map funding inputs to editorial/policy outputs.*
+*To be researched, map funding inputs to editorial/policy outputs.*
 
 ### Class Analysis
 
-Valuetainment is the 'business influencer to political pipeline' model. Does packaging right-leaning politics as entrepreneurship advice serve a class function — teaching working people to identify with capital rather than labor? Is the Kasparian hire an audience capture play (bringing left-leaning viewers into a right-leaning ecosystem)?
+Valuetainment is the 'business influencer to political pipeline' model. Does packaging right-leaning politics as entrepreneurship advice serve a class function, teaching working people to identify with capital rather than labor? Is the Kasparian hire an audience capture play (bringing left-leaning viewers into a right-leaning ecosystem)?
 
 ### Capture Architecture
 
-*Pending — 3-5 line structural summary of platform funder, income dependency, and editorial red lines.*
+*Pending, 3-5 line structural summary of platform funder, income dependency, and editorial red lines.*
 
 ### Timeline
 
@@ -68,5 +68,5 @@ Valuetainment is the 'business influencer to political pipeline' model. Does pac
 
 ### Sources
 
-*No sources yet — raw placeholder.*
+*No sources yet, raw placeholder.*
 

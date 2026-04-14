@@ -24,12 +24,12 @@ donors: [[Peter Thiel]]
 
 ### The Lonsdale Connection
 
-**Joe Lonsdale** — Palantir co-founder, Cicero Institute founder, 8VC managing partner. Maxed out at $78,400 to Mahan's campaign.
+**Joe Lonsdale**. Palantir co-founder, Cicero Institute founder, 8VC managing partner. Maxed out at $78,400 to Mahan's campaign.
 
 Lonsdale is the Thiel network's California political operative. His connections:
-- **Palantir co-founder** with [[Peter Thiel|Peter Thiel]] and Alex Karp — the defense/surveillance tech company that anchors the Thiel ecosystem
-- **8VC:** Venture capital firm investing in defense tech, healthcare, housing tech — sectors that intersect directly with gubernatorial policy authority
-- **Cicero Institute:** Conservative policy think tank Lonsdale founded. Focuses on housing deregulation, justice system reform, government efficiency — exactly the policy agenda Mahan runs on
+- **Palantir co-founder** with [[Peter Thiel|Peter Thiel]] and Alex Karp, the defense/surveillance tech company that anchors the Thiel ecosystem
+- **8VC:** Venture capital firm investing in defense tech, healthcare, housing tech, sectors that intersect directly with gubernatorial policy authority
+- **Cicero Institute:** Conservative policy think tank Lonsdale founded. Focuses on housing deregulation, justice system reform, government efficiency, exactly the policy agenda Mahan runs on
 - **Republican donor history:** Lonsdale has funded Republican candidates nationally while supporting Mahan (a Democrat) in California. The ideology follows the money, not the party.
 
 > [!money]
@@ -39,7 +39,7 @@ Lonsdale is the Thiel network's California political operative. His connections:
 
 ### The Grimm Connection
 
-**Matthew Grimm** — Early Palantir employee. Principal at [[Mithril Capital|Mithril Capital]] ([[Peter Thiel|Peter Thiel]]'s growth-stage venture fund). Donated $20,000 to Mahan with wife Kimberly.
+**Matthew Grimm**. Early Palantir employee. Principal at [[Mithril Capital|Mithril Capital]] ([[Peter Thiel|Peter Thiel]]'s growth-stage venture fund). Donated $20,000 to Mahan with wife Kimberly.
 
 Grimm sits at the intersection of two Thiel vehicles:
 - **Palantir:** The surveillance/defense tech company ($77B market cap) that depends on government contracts
@@ -62,9 +62,9 @@ Compare the Vance and Mahan pipelines:
 | Career origin | Yale Law → Thiel mentorship | Harvard → tech startups → politics |
 | Political product | U.S. Senator → VP | Mayor → governor candidate |
 
-**The difference:** Thiel's investment in Vance was direct and massive ($15M through Narya, VP lobbying). The Mahan connection is adjacentone—through Lonsdale and Grimm rather than Thiel himself. Mahan is Thiel-network funded, not Thiel-funded. The distinction matters: Vance is Thiel's product. Mahan is Thiel's network's product.
+**The difference:** Thiel's investment in Vance was direct and massive ($15M through Narya, VP lobbying). The Mahan connection is adjacentone, through Lonsdale and Grimm rather than Thiel himself. Mahan is Thiel-network funded, not Thiel-funded. The distinction matters: Vance is Thiel's product. Mahan is Thiel's network's product.
 
-**The significance:** Even the "adjacent" connection represents $98,400 in direct contributions from Palantir-connected donors. And Lonsdale's Cicero Institute provides the policy infrastructure. The Thiel network doesn't need to invest directly in every candidate — it builds the ecosystem that produces candidates who share its policy preferences.
+**The significance:** Even the "adjacent" connection represents $98,400 in direct contributions from Palantir-connected donors. And Lonsdale's Cicero Institute provides the policy infrastructure. The Thiel network doesn't need to invest directly in every candidate, it builds the ecosystem that produces candidates who share its policy preferences.
 
 ---
 

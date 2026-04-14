@@ -1,5 +1,5 @@
 ---
-title: "Valerie P. Foushee Master Profile"
+title: "Valerie P. Foushee"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

@@ -1,5 +1,5 @@
 ---
-title: "Rahm Emanuel Master Profile"
+title: "Rahm Emanuel"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

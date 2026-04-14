@@ -140,8 +140,8 @@ This race reveals two competing donor-class strategies at Senate level:
 - [2026 United States Senate election in North Carolina | Wikipedia](https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_North_Carolina) (Tier 3) (VERIFIED)
 - [NC's 2026 US Senate race could be the most expensive in history, experts say | WUNC News](https://www.wunc.org/politics/2025-08-04/ncs-2026-us-senate-race-could-be-the-most-expensive-in-history-experts-say) (Tier 2) (VERIFIED)
 - [Cooper reports sizable lead in fundraising for 2026 U.S. Senate race | NC Newsline](https://ncnewsline.com/2026/02/02/cooper-reports-sizable-lead-in-fundraising-for-2026-u-s-senate-race/) (Tier 2) (VERIFIED)
-- ~~[North Carolina Senate Race Set to Break $1 Billion Spending Record | Bloomberg](https://www.bloomberg.com/news/articles/2026/03-08-fight-for-key-senate-seat-expected-to-unleash-record-1-billion)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
-- ~~[Roy Cooper outpaces Michael Whatley in fundraising in North Carolina's Senate race | CBS17](https://www.cbs17.com/news/your-local-election-hq/roy-cooper-outpaces-michael-whatley-in-fundraising-in-north-carolinas-senate-race/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[North Carolina Senate Race Set to Break $1 Billion Spending Record | Bloomberg](https://www.bloomberg.com/news/articles/2026/03-08-fight-for-key-senate-seat-expected-to-unleash-record-1-billion)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Roy Cooper outpaces Michael Whatley in fundraising in North Carolina's Senate race | CBS17](https://www.cbs17.com/news/your-local-election-hq/roy-cooper-outpaces-michael-whatley-in-fundraising-in-north-carolinas-senate-race/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [North Carolina 2026 Poll: Cooper Starts US Senate Race with Six-Point Lead and Clear Name Recognition Advantage over Whatley | Emerson Polling](https://emersoncollegepolling.com/north-carolina-2026-poll-cooper-starts-us-senate-race-with-six-point-lead-and-clear-name-recognition-advantage-over-whatley/) (Tier 2) (VERIFIED)
 
 ---

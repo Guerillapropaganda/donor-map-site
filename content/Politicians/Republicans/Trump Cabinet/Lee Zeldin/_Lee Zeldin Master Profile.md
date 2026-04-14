@@ -1,5 +1,5 @@
 ---
-title: "Lee Zeldin Master Profile"
+title: "Lee Zeldin"
 type: politician
 content-readiness: ready
 central-thesis: "Lee Zeldin's EPA appointment is the donor-to-deregulation pipeline in its most transparent form. Congressional career: oil and gas industry donated $410K+, Koch Industries $60K+. Post-government: Leonard Leo's CRC Advisors paid him $3K+ for fossil..."
@@ -42,7 +42,7 @@ donors: [[Leonard Leo]] · [[Koch Network - Charles Koch]]
 
 ## Who He Is
 
-Lee Zeldin. EPA Administrator (2025–present, confirmed January 29, 2025). Previously U.S. Representative for New York's 1st District (Long Island, 2015–2023). 2022 New York governor candidate — closest Republican finish since 1994 (46.7% vs. Hochul 53.1%). League of Conservation Voters lifetime score: 14%. Called the EPA's 2009 Endangerment Finding the "'Holy Grail' of the 'climate change religion.'" March 2025: announced 31 deregulatory rollbacks — "the greatest and most consequential day of deregulation in U.S. history." Proposed EPA budget cut: 54.5% ($4.2 billion). Considering firing 50–75% of EPA scientists (770–1,155 of 1,540). Projected impact of 12 of 31 rollbacks: ~200,000 premature deaths through 2050, 100 million additional asthma attacks. Guaranteed "absolutely" no adverse health effects. Congressional donors: oil and gas $410K+, Koch Industries $60K+. Post-government: Zeldin Strategies CEO ($775K salary, $1–5M dividends). Paid by [[Leonard Leo|Leonard Leo]]'s CRC Advisors ($3K+) for op-eds promoting fossil fuel interests. Paid by CGCN Group ($98K) for published and unpublished op-eds in Newsweek, Washington Examiner, Washington Times. Ronald Lauder (World Jewish Congress President): $11M to super PACs for 2022 governor race. Real estate donors: $400K+. [[Tim Dunn|Tim Dunn]] ($2.2B fracking billionaire, America First Policy Institute co-founder): organization Zeldin sat on board of. The fossil fuel industry's man running the agency designed to regulate the fossil fuel industry.
+Lee Zeldin. EPA Administrator (2025–present, confirmed January 29, 2025). Previously U.S. Representative for New York's 1st District (Long Island, 2015–2023). 2022 New York governor candidate, closest Republican finish since 1994 (46.7% vs. Hochul 53.1%). League of Conservation Voters lifetime score: 14%. Called the EPA's 2009 Endangerment Finding the "'Holy Grail' of the 'climate change religion.'" March 2025: announced 31 deregulatory rollbacks, "the greatest and most consequential day of deregulation in U.S. history." Proposed EPA budget cut: 54.5% ($4.2 billion). Considering firing 50–75% of EPA scientists (770–1,155 of 1,540). Projected impact of 12 of 31 rollbacks: ~200,000 premature deaths through 2050, 100 million additional asthma attacks. Guaranteed "absolutely" no adverse health effects. Congressional donors: oil and gas $410K+, Koch Industries $60K+. Post-government: Zeldin Strategies CEO ($775K salary, $1–5M dividends). Paid by [[Leonard Leo|Leonard Leo]]'s CRC Advisors ($3K+) for op-eds promoting fossil fuel interests. Paid by CGCN Group ($98K) for published and unpublished op-eds in Newsweek, Washington Examiner, Washington Times. Ronald Lauder (World Jewish Congress President): $11M to super PACs for 2022 governor race. Real estate donors: $400K+. [[Tim Dunn|Tim Dunn]] ($2.2B fracking billionaire, America First Policy Institute co-founder): organization Zeldin sat on board of. The fossil fuel industry's man running the agency designed to regulate the fossil fuel industry.
 
 ---
 
@@ -62,27 +62,27 @@ Lee Zeldin. EPA Administrator (2025–present, confirmed January 29, 2025). Prev
 ## Donor Class Map
 
 ### The Fossil Fuel Op-Ed Pipeline and the CRC Advisors Connection:
-- [[The Fossil Fuel Op-Ed Pipeline and the Donor-to-Deregulation Map]] — Oil/gas donors $410K+ (career). [[Koch Industries]] $60K+. [[Leonard Leo|Leonard Leo]]'s CRC Advisors $3K+ ([[Chevron|Chevron]] client). CGCN Group $98K for published and unpublished op-eds. [[Tim Dunn|Tim Dunn]] ($2.2B fracking) AFPI board. Now: 31 deregulatory rollbacks. Endangerment Finding repeal. Vehicle/power plant emissions standards eliminated. 200,000 projected premature deaths. The money trail runs from donor to op-ed to deregulation.
+- [[The Fossil Fuel Op-Ed Pipeline and the Donor-to-Deregulation Map]]. Oil/gas donors $410K+ (career). [[Koch Industries]] $60K+. [[Leonard Leo|Leonard Leo]]'s CRC Advisors $3K+ ([[Chevron|Chevron]] client). CGCN Group $98K for published and unpublished op-eds. [[Tim Dunn|Tim Dunn]] ($2.2B fracking) AFPI board. Now: 31 deregulatory rollbacks. Endangerment Finding repeal. Vehicle/power plant emissions standards eliminated. 200,000 projected premature deaths. The money trail runs from donor to op-ed to deregulation.
 
 ### The 31 Rollbacks and the 200,000 Deaths:
-- [[The 31 Rollbacks and the Projected 200000 Premature Deaths]] — March 2025: "greatest day of deregulation in U.S. history." Endangerment Finding targeted ("Holy Grail of the climate change religion"). Vehicle GHG standards eliminated (2012–2027+). Power plant rules rewritten. Mercury/air toxics standards targeted. EPA budget cut 54.5%. 50–75% of scientists potentially fired. Analysis: ~200,000 premature deaths, 100 million asthma attacks through 2050. Zeldin: "absolutely" no adverse effects.
+- [[The 31 Rollbacks and the Projected 200000 Premature Deaths]]. March 2025: "greatest day of deregulation in U.S. history." Endangerment Finding targeted ("Holy Grail of the climate change religion"). Vehicle GHG standards eliminated (2012–2027+). Power plant rules rewritten. Mercury/air toxics standards targeted. EPA budget cut 54.5%. 50–75% of scientists potentially fired. Analysis: ~200,000 premature deaths, 100 million asthma attacks through 2050. Zeldin: "absolutely" no adverse effects.
 
 ### The 2022 Governor Race and the Lauder-Real Estate Donor Network:
-- [[The 2022 Governor Race and the Lauder Super PAC]] — $19.6M raised. Ronald Lauder: $11M to super PACs (World Jewish Congress President). Kenneth Langone (Home Depot): $70K. Real estate industry: $400K+ (Chera, Moinian, Adjmi, Meringoff, Kalikow, Lorber). Bruderman family: $332K. Closest GOP finish since 1994. Crime/public safety messaging. The donor base that funded the governor run funded the network that produced the EPA appointment.
+- [[The 2022 Governor Race and the Lauder Super PAC]], $19.6M raised. Ronald Lauder: $11M to super PACs (World Jewish Congress President). Kenneth Langone (Home Depot): $70K. Real estate industry: $400K+ (Chera, Moinian, Adjmi, Meringoff, Kalikow, Lorber). Bruderman family: $332K. Closest GOP finish since 1994. Crime/public safety messaging. The donor base that funded the governor run funded the network that produced the EPA appointment.
 
 ---
 
 ## Donation-to-Policy Timeline
 
-*Note: Zeldin is the donor-to-deregulation pipeline in its most transparent form — oil/gas funded the career, Leonard Leo funded the op-eds, and now he rolls back the regulations those donors opposed. The 200,000 projected premature deaths are the externality the donor class doesn't pay for.*
+*Note: Zeldin is the donor-to-deregulation pipeline in its most transparent form, oil/gas funded the career, Leonard Leo funded the op-eds, and now he rolls back the regulations those donors opposed. The 200,000 projected premature deaths are the externality the donor class doesn't pay for.*
 
 #### Fossil Fuel / Koch Network / Op-Ed Pipeline
 
 | Date | Donor | Amount | Given | Policy Outcome |
 |------|-------|--------|-------|----------------|
 | 2025-01 | Oil/gas industry ($410K+ career) + Koch Industries ($60K+) + [[Leonard Leo|Leonard Leo]]'s CRC Advisors ($3K+, [[Chevron|Chevron]] client) + CGCN Group ($98K published/unpublished op-eds) | $570K+ combined | 2015–2024 (career + consulting) | EPA Administrator confirmed Jan 29, 2025; 10-year fossil fuel investment delivers the regulator |
-| 2025-03 | Fossil fuel donor class — policy delivery | Beneficiary: oil/gas ($410K+ career donors) | Same donors, 2015–2025 | 31 deregulatory rollbacks — "greatest day of deregulation in U.S. history"; Endangerment Finding targeted; vehicle/power plant emissions eliminated; budget cut 54.5% ($4.2B); 50–75% of EPA scientists considered for firing |
-| 2025-03 | EPA's own analysis: 12 of 31 rollbacks → ~200,000 premature deaths, 100M asthma attacks through 2050 | Externalized cost: public health | N/A — donor class doesn't pay | Zeldin guarantees "absolutely" no adverse effects; fossil fuel donors privatize benefits, public socializes 200,000 deaths |
+| 2025-03 | Fossil fuel donor class, policy delivery | Beneficiary: oil/gas ($410K+ career donors) | Same donors, 2015–2025 | 31 deregulatory rollbacks, "greatest day of deregulation in U.S. history"; Endangerment Finding targeted; vehicle/power plant emissions eliminated; budget cut 54.5% ($4.2B); 50–75% of EPA scientists considered for firing |
+| 2025-03 | EPA's own analysis: 12 of 31 rollbacks → ~200,000 premature deaths, 100M asthma attacks through 2050 | Externalized cost: public health | N/A, donor class doesn't pay | Zeldin guarantees "absolutely" no adverse effects; fossil fuel donors privatize benefits, public socializes 200,000 deaths |
 
 #### Lauder-Real Estate Network / 2022 Governor Pipeline
 
@@ -94,7 +94,7 @@ Lee Zeldin. EPA Administrator (2025–present, confirmed January 29, 2025). Prev
 
 | Date | Donor | Amount | Given | Policy Outcome |
 |------|-------|--------|-------|----------------|
-| 2024 | [[Tim Dunn]] ($2.2B fracking billionaire, AFPI co-founder) — Zeldin on AFPI board | Board positioning (undisclosed value) | 2023–2024 | AFPI ideological infrastructure positions Zeldin for EPA; Dunn's fracking operations benefit directly from Zeldin's deregulation |
+| 2024 | [[Tim Dunn]] ($2.2B fracking billionaire, AFPI co-founder). Zeldin on AFPI board | Board positioning (undisclosed value) | 2023–2024 | AFPI ideological infrastructure positions Zeldin for EPA; Dunn's fracking operations benefit directly from Zeldin's deregulation |
 
 > [!money] The Damning Sequences
 > **⚠️ 12-month flag:** Oil/gas donor career investment ($410K+, 2015–2022) → EPA appointment (January 2025) → 31 deregulatory rollbacks (March 2025). The 10-year investment in Zeldin's political career delivers a single EPA administrator who rolls back "the greatest day of deregulation in U.S. history" within 60 days of confirmation.
@@ -107,7 +107,7 @@ Lee Zeldin. EPA Administrator (2025–present, confirmed January 29, 2025). Prev
 
 ## Rhetorical Signature Moves
 
-1. **The deregulation champion:** "Greatest day of deregulation in U.S. history" — framing the removal of health protections as liberation. The function: make public health regulation sound like oppression.
+1. **The deregulation champion:** "Greatest day of deregulation in U.S. history", framing the removal of health protections as liberation. The function: make public health regulation sound like oppression.
 2. **The climate religion framer:** Endangerment Finding as "Holy Grail of the climate change religion." The function: frame scientific consensus as faith, making deregulation look like reason.
 3. **The Trump defender:** Spoke more than any other congressional Republican during first impeachment; voted against impeachment for January 6. The function: convert loyalty performance into appointment currency. Same mechanism as Ratcliffe.
 
@@ -123,11 +123,11 @@ The 2022 governor race reveals the donor network's full scope. Ronald Lauder, pr
 
 ## Analytical Patterns
 
-**The Genuine Win + Structural Limit** — Zeldin implemented 31 deregulatory rollbacks and proposed 54.5% EPA budget cuts, achieving major de facto elimination of environmental protections. Yet these actions operate within executive administrative authority — they don't fundamentally restructure environmental governance, they optimize it for industry compliance while maintaining the appearance of regulatory process.
+**The Genuine Win + Structural Limit**. Zeldin implemented 31 deregulatory rollbacks and proposed 54.5% EPA budget cuts, achieving major de facto elimination of environmental protections. Yet these actions operate within executive administrative authority, they don't fundamentally restructure environmental governance, they optimize it for industry compliance while maintaining the appearance of regulatory process.
 
-**The Two-Audience Problem** — To oil and gas donors, Zeldin is the EPA Administrator executing the "greatest day of deregulation in U.S. history" they funded. To the public, he guarantees "absolutely" no adverse health effects despite EPA analysis projecting 200,000 premature deaths. The Leonard Leo consulting fees ($3K+) and CGCN paid op-eds ($98K) demonstrate he was paid to write the advocacy before being confirmed to enforce it.
+**The Two-Audience Problem**. To oil and gas donors, Zeldin is the EPA Administrator executing the "greatest day of deregulation in U.S. history" they funded. To the public, he guarantees "absolutely" no adverse health effects despite EPA analysis projecting 200,000 premature deaths. The Leonard Leo consulting fees ($3K+) and CGCN paid op-eds ($98K) demonstrate he was paid to write the advocacy before being confirmed to enforce it.
 
-**The Villain Framing** — Zeldin positions environmental regulation as "climate change religion" rather than analyzing the donor-class interest driving deregulation. His framing obscures that the 31 rollbacks serve the specific industries that funded his consulting payments and congressional career.
+**The Villain Framing**. Zeldin positions environmental regulation as "climate change religion" rather than analyzing the donor-class interest driving deregulation. His framing obscures that the 31 rollbacks serve the specific industries that funded his consulting payments and congressional career.
 
 ---
 

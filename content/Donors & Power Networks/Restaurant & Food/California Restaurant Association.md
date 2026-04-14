@@ -148,7 +148,7 @@ Labor. FAST Act, AB 1228, fast food minimum wage, joint liability
 
 ### Sources
 
-- ~~[CalMatters: California fast food deal, wage hike, no referendum](https://calmatters.org/category/politics/2023/09/california-fast-food-deal/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[CalMatters: California fast food deal, wage hike, no referendum](https://calmatters.org/category/politics/2023/09/california-fast-food-deal/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Ballotpedia: Fast food minimum wage referendum](https://ballotpedia.org/California_Fast_Food_Restaurant_Minimum_Wage_and_Labor_Regulations_Referendum_(2024) (VERIFIED)) (Tier 1)
 - [Transparency USA: CRA Issues PAC](https://www.transparencyusa.org/ca/committee/california-restaurant-association-issues-pac-901032-rcp) (Tier 1) (VERIFIED)
 - ~~[FollowTheMoney.org: CRA contributions](https://www.followthemoney.org/tools/election-overview?eid=4463)~~ (was FollowTheMoney, site merged into OpenSecrets, all URLs dead) (Tier 1)

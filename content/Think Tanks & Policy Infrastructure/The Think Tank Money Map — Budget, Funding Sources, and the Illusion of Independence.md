@@ -1,5 +1,5 @@
 ---
-title: "The Think Tank Money Map — Budget, Funding Sources, and the Illusion of Independence"
+title: "The Think Tank Money Map , Budget, Funding Sources, and the Illusion of Independence"
 type: think-tank
 content-readiness: draft
 last-updated: 2026-04-08
@@ -7,7 +7,7 @@ source-tier: 1
 parent: null
 category: cross-comparison
 tax-status: null
-related: "[[Heritage Foundation]] · [[RAND Corporation]] · [[Aspen Institute]] · [[Urban Institute]] · [[Brookings Institution]] · [[Council on Foreign Relations]] · [[Center for American Progress]] · [[Cato Institute]] · [[American Enterprise Institute]] · [[Federalist Society]] · [[Claremont Institute]] · [[Heartland Institute]] · [[Third Way]] · [[Atlantic Council]] · [[Mercatus Center]] · [[_Think Tank Framework]] · [[Cross-Think-Tank Donor Map — The Both-Sides Illusion With Receipts]] · [[The Idea Laundering Pipeline — How Think Tank Research Becomes Law]] · [[The Revolving Door — A Cross-Think-Tank Personnel Map]] · [[Brennan Center for Justice]] · [[Center for a New American Security]] · [[Manhattan Institute for Policy Research]] · [[Hudson Institute]] · [[Center on Budget and Policy Priorities]] · [[Economic Policy Institute]] · [[Hoover Institution]]"
+related: "[[Heritage Foundation]] · [[RAND Corporation]] · [[Aspen Institute]] · [[Urban Institute]] · [[Brookings Institution]] · [[Council on Foreign Relations]] · [[Center for American Progress]] · [[Cato Institute]] · [[American Enterprise Institute]] · [[Federalist Society]] · [[Claremont Institute]] · [[Heartland Institute]] · [[Third Way]] · [[Atlantic Council]] · [[Mercatus Center]] · [[_Think Tank Framework]] · [[Cross-Think-Tank Donor Map , The Both-Sides Illusion With Receipts]] · [[The Idea Laundering Pipeline , How Think Tank Research Becomes Law]] · [[The Revolving Door , A Cross-Think-Tank Personnel Map]] · [[Brennan Center for Justice]] · [[Center for a New American Security]] · [[Manhattan Institute for Policy Research]] · [[Hudson Institute]] · [[Center on Budget and Policy Priorities]] · [[Economic Policy Institute]] · [[Hoover Institution]]"
 known-gaps:
   - "No FEC contribution data"
 ---
@@ -21,7 +21,7 @@ known-gaps:
 
 ---
 
-### Budget Rankings — All 25 Profiles
+### Budget Rankings. All 25 Profiles
 
 ### Revenue figures from IRS 990 filings (ProPublica Nonprofit Explorer), FY2024 unless noted. All data sourced from individual vault profiles (Tier 1 underlying sources).
 
@@ -77,12 +77,12 @@ known-gaps:
 
 Two institutions dominate the government funding category with numbers that dwarf any other think tank.
 
-### RAND Corporation — $462M budget, 77% federal government:
-RAND's 990 classification as a nonprofit obscures its real structure. The form treats government contracts as "contributions," making RAND appear foundation-funded when it is overwhelmingly a defense contractor. The Pentagon pays RAND to research defense policy. RAND recommends more defense spending. Congress funds more defense spending. New spending generates new RAND contracts. The feedback loop is not accidental — it is the designed purpose of the Federally Funded Research and Development Center (FFRDC) model. RAND's 77% federal dependency is the highest of any think tank in this vault and rivals the government dependency of actual federal contractors.
+### RAND Corporation, $462M budget, 77% federal government:
+RAND's 990 classification as a nonprofit obscures its real structure. The form treats government contracts as "contributions," making RAND appear foundation-funded when it is overwhelmingly a defense contractor. The Pentagon pays RAND to research defense policy. RAND recommends more defense spending. Congress funds more defense spending. New spending generates new RAND contracts. The feedback loop is not accidental, it is the designed purpose of the Federally Funded Research and Development Center (FFRDC) model. RAND's 77% federal dependency is the highest of any think tank in this vault and rivals the government dependency of actual federal contractors.
 
-Between 2014 and 2019, RAND received $1.029 billion of the $1.078 billion that defense contractors and U.S. government agencies donated to the top 50 think tanks — 95% of all such funding went to one institution. RAND is not a think tank that does defense work. RAND is a defense contractor that occasionally does non-defense work.
+Between 2014 and 2019, RAND received $1.029 billion of the $1.078 billion that defense contractors and U.S. government agencies donated to the top 50 think tanks, 95% of all such funding went to one institution. RAND is not a think tank that does defense work. RAND is a defense contractor that occasionally does non-defense work.
 
-### Urban Institute — $130M budget, 54% federal government:
+### Urban Institute, $130M budget, 54% federal government:
 Urban's government dependency operates through a different mechanism: program evaluation contracts. HUD pays Urban to evaluate HUD programs. HHS pays Urban to evaluate HHS programs. The agency being evaluated is the client paying for the evaluation. This structurally ensures that Urban's research question is never "should this program exist?" but always "how can this program be improved?" The Great Society evaluates itself, at $130M per year.
 
 | Institution | Total Revenue | Federal % | Federal $ | Structure |
@@ -93,7 +93,7 @@ Urban's government dependency operates through a different mechanism: program ev
 | Bipartisan Policy Center | $37.8M | ~5% | ~$1.9M | HHS/DOE contracts |
 | Brookings Institution | $109M | ~5% | ~$5.5M | Mixed government grants |
 
-**Combined federal funding to these 5 institutions: ~$448M annually** — more than the entire conservative think tank ecosystem's combined budget. The federal government is, by a wide margin, the largest single funder of American think tank research.
+**Combined federal funding to these 5 institutions: ~$448M annually**, more than the entire conservative think tank ecosystem's combined budget. The federal government is, by a wide margin, the largest single funder of American think tank research.
 
 ---
 
@@ -101,20 +101,20 @@ Urban's government dependency operates through a different mechanism: program ev
 
 The "nonpartisan independent research organization" label obscures radically different funding architectures across the 25 think tanks.
 
-### Conservative funding model — private donors, dark money, corporate foundations:
+### Conservative funding model, private donors, dark money, corporate foundations:
 Conservative think tanks are funded almost entirely by private donors, with zero government funding (except Hoover's nominal Stanford connection). The dark money infrastructure is the defining structural feature: DonorsTrust alone contributed $86.7M to AEI (2003–2010), $16.56M to Heartland (2005–2013), $8.9M to Hudson (2002+), and $5.5M to the Federalist Society in a single year. Charles Koch's network built or seeded Cato (co-founded), Mercatus (founded by Koch strategist), and Heritage. The total conservative think tank ecosystem is funded by a relatively small number of ultra-wealthy families (Koch, Bradley, Scaife, DeVos, Klingenstein, Mercer, Singer) routing money through anonymous donor-advised funds.
 
-### Liberal funding model — progressive foundations, limited union funding:
-Liberal think tanks are funded primarily by progressive foundations (Ford, Hewlett, Gates, MacArthur, Soros, Rockefeller, Carnegie) with organized labor as a secondary source (EPI: AFL-CIO governance; CAP: SEIU, AFSCME). Corporate funding exists (CAP receives Goldman, Google, PhRMA, Northrop Grumman money) but is a secondary source. Urban Institute's 54% federal funding is the anomaly that proves the rule: the other six liberal think tanks have minimal government funding. The progressive foundation ecosystem is itself funded by the same wealth concentration the think tanks critique — Ford (auto fortune), Gates (Microsoft fortune), Hewlett (HP fortune).
+### Liberal funding model, progressive foundations, limited union funding:
+Liberal think tanks are funded primarily by progressive foundations (Ford, Hewlett, Gates, MacArthur, Soros, Rockefeller, Carnegie) with organized labor as a secondary source (EPI: AFL-CIO governance; CAP: SEIU, AFSCME). Corporate funding exists (CAP receives Goldman, Google, PhRMA, Northrop Grumman money) but is a secondary source. Urban Institute's 54% federal funding is the anomaly that proves the rule: the other six liberal think tanks have minimal government funding. The progressive foundation ecosystem is itself funded by the same wealth concentration the think tanks critique. Ford (auto fortune), Gates (Microsoft fortune), Hewlett (HP fortune).
 
-### Centrist funding model — the full spectrum:
-The centrist category has the most diverse funding architecture. CFR ($692M endowment) is self-sustaining plus corporate membership fees. Atlantic Council is 22% federal + 30% foreign governments + defense contractor corporate membership. Aspen is private billionaire philanthropy ($175M Bezos, $200K McKinsey, $500K Breakthrough Energy). Brookings is corporate (Goldman Hamilton Project, JPMorgan $10M) plus foreign government ($18.5M Qatar/Norway/UAE) plus foundation. RAND is 77% federal. The "centrist" label covers everything from a Pentagon subsidiary (RAND) to a billionaire social club (Aspen) to a foreign-funded international policy shop (Atlantic Council) — the one thing they share is the institutional claim that their funding doesn't shape their analysis.
+### Centrist funding model, the full spectrum:
+The centrist category has the most diverse funding architecture. CFR ($692M endowment) is self-sustaining plus corporate membership fees. Atlantic Council is 22% federal + 30% foreign governments + defense contractor corporate membership. Aspen is private billionaire philanthropy ($175M Bezos, $200K McKinsey, $500K Breakthrough Energy). Brookings is corporate (Goldman Hamilton Project, JPMorgan $10M) plus foreign government ($18.5M Qatar/Norway/UAE) plus foundation. RAND is 77% federal. The "centrist" label covers everything from a Pentagon subsidiary (RAND) to a billionaire social club (Aspen) to a foreign-funded international policy shop (Atlantic Council), the one thing they share is the institutional claim that their funding doesn't shape their analysis.
 
 ---
 
 ### Dark Money: The Conservative Infrastructure Subsidy
 
-The conservative think tank network is the primary beneficiary of anonymous donor infrastructure — the system of donor-advised funds that allows wealthy individuals to give millions to politically aligned organizations without their names appearing in public records.
+The conservative think tank network is the primary beneficiary of anonymous donor infrastructure, the system of donor-advised funds that allows wealthy individuals to give millions to politically aligned organizations without their names appearing in public records.
 
 | Institution | Dark Money Source | Amount | Period |
 |-------------|------------------|--------|--------|
@@ -125,7 +125,7 @@ The conservative think tank network is the primary beneficiary of anonymous dono
 | Mercatus Center | Koch foundations (via GMU) | $30M+ documented | Multiple periods |
 | Claremont Institute | DonorsTrust + Bradley + DeVos | Post-Jan 6 surge | 2021+ |
 
-The total documented dark money flowing into conservative think tanks exceeds $150M over documented periods — and this is only what has been exposed through 990 filings, leaks, and investigative reporting. The anonymous nature of donor-advised funds means the true total is higher. The same donors who publicly denounce "dark money" in Democratic politics built the original dark money architecture to fund conservative intellectual infrastructure.
+The total documented dark money flowing into conservative think tanks exceeds $150M over documented periods, and this is only what has been exposed through 990 filings, leaks, and investigative reporting. The anonymous nature of donor-advised funds means the true total is higher. The same donors who publicly denounce "dark money" in Democratic politics built the original dark money architecture to fund conservative intellectual infrastructure.
 
 The liberal ecosystem has its own version: Soros's Open Society Foundations give to Brennan Center ($7.47M), CAP, and CBPP. Democracy Alliance is a private donor network that recommended Roosevelt Institute for funding and drove its 5x budget increase. But the scale and the anonymization infrastructure are asymmetric: the conservative dark money architecture (DonorsTrust alone distributed $134M to right-wing groups in 2022) is larger and more systematically anonymized than the progressive equivalent.
 
@@ -184,9 +184,9 @@ Revenue tells you who's operating. Net assets tell you who has power that compou
 | Urban Institute | $311M | 2.4x | LBJ-origin government contractor; growing asset base |
 | CBP&P | $163M | 3.1x | Near-tripling of assets since 2012 reflects foundation investment surge |
 
-The asset concentration data reveals which institutions have accumulated sufficient capital to be truly independent of annual fundraising cycles — and can therefore take more risk with their research agenda. CFR ($692M endowment), Hoover (~$600M), Brookings ($551M), and RAND ($506M) are all effectively endowment-sustained. They don't need to please any particular annual funder to survive. This does not make them independent — their investment committees, boards, and institutional cultures ensure alignment with donor-class interests — but it does give them more latitude than the budget-constrained organizations operating hand-to-mouth.
+The asset concentration data reveals which institutions have accumulated sufficient capital to be truly independent of annual fundraising cycles, and can therefore take more risk with their research agenda. CFR ($692M endowment), Hoover (~$600M), Brookings ($551M), and RAND ($506M) are all effectively endowment-sustained. They don't need to please any particular annual funder to survive. This does not make them independent, their investment committees, boards, and institutional cultures ensure alignment with donor-class interests, but it does give them more latitude than the budget-constrained organizations operating hand-to-mouth.
 
-The conservative think tank with the best-funded position is Hoover ($600M endowment), followed by Heritage ($415M total assets), AEI ($353M), and Cato ($170M). Combined, these four institutions hold over $1.5 billion in assets to sustain conservative intellectual infrastructure regardless of fundraising cycles. This is the permanent infrastructure of the right-wing policy apparatus — built over 50 years of conservative donor investment and now self-compounding.
+The conservative think tank with the best-funded position is Hoover ($600M endowment), followed by Heritage ($415M total assets), AEI ($353M), and Cato ($170M). Combined, these four institutions hold over $1.5 billion in assets to sustain conservative intellectual infrastructure regardless of fundraising cycles. This is the permanent infrastructure of the right-wing policy apparatus, built over 50 years of conservative donor investment and now self-compounding.
 
 ---
 
@@ -194,10 +194,10 @@ The conservative think tank with the best-funded position is Hoover ($600M endow
 
 Every think tank in this vault except Mercatus (which operates inside George Mason University) and Third Way (501(c)(4)) holds 501(c)(3) tax-exempt status. This means:
 
-1. Donor contributions are tax-deductible — the federal government subsidizes every donation
-2. The organization pays no income tax on investment returns — the endowment grows tax-free
-3. The organization pays no property tax — the real estate holdings are subsidized
-4. No public disclosure of individual donors is required — donors are anonymous except on the 990's highest-compensation section
+1. Donor contributions are tax-deductible, the federal government subsidizes every donation
+2. The organization pays no income tax on investment returns, the endowment grows tax-free
+3. The organization pays no property tax, the real estate holdings are subsidized
+4. No public disclosure of individual donors is required, donors are anonymous except on the 990's highest-compensation section
 
 ### Estimated annual federal tax subsidy to think tank ecosystem (rough calculation):
 - Assuming average marginal donor tax rate of 37%
@@ -216,7 +216,7 @@ The mechanism differs by category:
 
 **Conservative:** Private wealth funds intellectual infrastructure that attacks state capacity and regulatory frameworks constraining capital accumulation. Small budgets, concentrated funding, high leverage. The return on investment is measured in regulatory rollbacks, judicial appointments, and executive order frameworks worth hundreds of billions annually to the donor class. Heritage's donors invested ~$75M over 25 years and received $1T+ in regulatory and tax relief.
 
-**Liberal:** Progressive foundation wealth funds intellectual infrastructure that defends existing programs while staying within acceptable bounds for foundation funders. Larger budgets, distributed funding, bounded impact. The return is program preservation and incremental expansion — real gains for low-income people, but structured to avoid the structural economic reforms that would threaten the wealth of the foundation class itself. The Ford Foundation defends programs; it does not fund research questioning whether the Ford fortune should exist.
+**Liberal:** Progressive foundation wealth funds intellectual infrastructure that defends existing programs while staying within acceptable bounds for foundation funders. Larger budgets, distributed funding, bounded impact. The return is program preservation and incremental expansion, real gains for low-income people, but structured to avoid the structural economic reforms that would threaten the wealth of the foundation class itself. The Ford Foundation defends programs; it does not fund research questioning whether the Ford fortune should exist.
 
 **Centrist:** Government money funds permanent national security infrastructure (RAND, Atlantic Council) that produces continuous justification for defense budget growth. Corporate money funds bipartisan consensus factories (Brookings, CFR, Aspen, BPC, Third Way) that launder private interests as public wisdom. The "centrist" label is the most valuable brand in Washington: it signals independence that does not exist. Every institution claiming centrism is funded by entities with strong policy preferences. The funding always flows toward the outcome.
 
@@ -226,7 +226,7 @@ The $2+ billion annual investment in think tank infrastructure makes sense only 
 - Foreign policy that sustains the defense-industrial complex
 - Social policy that manages poverty without threatening wealth
 
-The think tank ecosystem is the research and development department of the donor class — producing the ideas that justify, in the language of scholarship, the policies that keep the donor class on top. "Independent" is the most expensive word in Washington. These 25 institutions collectively spend $2 billion per year to produce it.
+The think tank ecosystem is the research and development department of the donor class, producing the ideas that justify, in the language of scholarship, the policies that keep the donor class on top. "Independent" is the most expensive word in Washington. These 25 institutions collectively spend $2 billion per year to produce it.
 
 ---
 
@@ -234,9 +234,9 @@ The think tank ecosystem is the research and development department of the donor
 
 All financial figures derived from IRS 990 filings accessed via ProPublica Nonprofit Explorer. Revenue and asset data compiled from individual vault profiles (all at `ready` status with Tier 1 source citations):
 
-- [ProPublica Nonprofit Explorer: All 25 think tank 990 filings](https://projects.propublica.org/nonprofits/) (Tier 1) (VERIFIED) — accessed via individual profile source citations
-- ~~[RAND Corporation: 2024 Annual Report](https://www.rand.org/pubs/corporate_pubs/CPA1065-5.html)~~ (URL broken, archived by Ops) (Tier 3 — self-reported, consistent with 990 data)
-- [Quincy Institute: Think Tank Funding Tracker — defense contractor contributions](https://responsiblestatecraft.org/think-tank-funding-tracker/) (VERIFIED) (Tier 2, previously Chrome-verified in Atlantic Council and BPC profiles)
-- [Transparify / TTCSP: Global Go To Think Tank Index 2019 — $1.029B/$1.078B defense contractor figure](https://repository.upenn.edu/entities/publication/07977660-60a1-4a63-9646-031d4610f1c0) (Tier 2) (NEEDS REVIEW) (Chrome-verified 2026-03-27 — old handle URL broken, corrected to repository items URL)
+- [ProPublica Nonprofit Explorer: All 25 think tank 990 filings](https://projects.propublica.org/nonprofits/) (Tier 1) (VERIFIED), accessed via individual profile source citations
+- ~~[RAND Corporation: 2024 Annual Report](https://www.rand.org/pubs/corporate_pubs/CPA1065-5.html)~~ (URL broken, archived by Ops) (Tier 3, self-reported, consistent with 990 data)
+- [Quincy Institute: Think Tank Funding Tracker, defense contractor contributions](https://responsiblestatecraft.org/think-tank-funding-tracker/) (VERIFIED) (Tier 2, previously Chrome-verified in Atlantic Council and BPC profiles)
+- [Transparify / TTCSP: Global Go To Think Tank Index 2019, $1.029B/$1.078B defense contractor figure](https://repository.upenn.edu/entities/publication/07977660-60a1-4a63-9646-031d4610f1c0) (Tier 2) (NEEDS REVIEW) (Chrome-verified 2026-03-27, old handle URL broken, corrected to repository items URL)
 - All individual vault profiles (ready status, all Chrome-verified): [[Heritage Foundation]] · [[Federalist Society]] · [[Cato Institute]] · [[American Enterprise Institute]] · [[Manhattan Institute]] · [[Hoover Institution]] · [[Claremont Institute]] · [[Hudson Institute]] · [[Heartland Institute]] · [[Mercatus Center]] · [[Center for American Progress]] · [[Economic Policy Institute]] · [[Roosevelt Institute]] · [[New America]] · [[Urban Institute]] · [[Center on Budget and Policy Priorities]] · [[Brennan Center for Justice]] · [[Brookings Institution]] · [[Council on Foreign Relations]] · [[RAND Corporation]] · [[Bipartisan Policy Center]] · [[Third Way]] · [[Aspen Institute]] · [[Atlantic Council]] · [[Center for a New American Security]]
 

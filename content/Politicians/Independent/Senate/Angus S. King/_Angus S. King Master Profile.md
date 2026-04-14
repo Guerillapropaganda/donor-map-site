@@ -1,5 +1,5 @@
 ---
-title: "Angus S. King Master Profile"
+title: "Angus S. King"
 type: politician
 content-readiness: draft
 last-updated: 2026-04-12

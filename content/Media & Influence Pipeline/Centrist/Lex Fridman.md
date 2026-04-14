@@ -6,7 +6,7 @@ last-updated: 2026-04-13
 source-tier: 2
 parent: null
 category: centrist
-related: "[[Joe Rogan]] · [[Bill Maher]] · [[Megyn Kelly]] · [[_Media Pipeline Framework]] · [[Tucker Carlson]] · [[Tim Pool]] · [[Steven Crowder]] · [[Rumble]] · [[The Platform Dependency Spectrum — Revenue Vulnerability Across Political Media]] · [[Tenet Media]] · [[Matt Walsh]] · [[Jordan Peterson]] · [[Sean Hannity]] · [[Patrick Bet-David]] · [[Mark Levin]] · [[Laura Ingraham]] · [[Jesse Watters]] · [[James O'Keefe]] · [[Greg Gutfeld]] · [[Dave Rubin]] · [[Dan Bongino]] · [[Michael Knowles]] · [[Jeremy Boreing]] · [[The Daily Wire]] · [[Christopher Rufo]] · [[Charlie Kirk]] · [[Jimmy Dore]] · [[Candace Owens]] · [[Ben Shapiro]] · [[Andrew Klavan]] · [[TYT Network - The Young Turks]] · [[Sam Seder]] · [[Rachel Maddow]] · [[Pod Save America]] · [[Kyle Kulinski]] · [[John Oliver]] · [[Hasan Piker]] · [[David Pakman]] · [[Crooked Media]]"
+related: "[[Joe Rogan]] · [[Bill Maher]] · [[Megyn Kelly]] · [[_Media Pipeline Framework]] · [[Tucker Carlson]] · [[Tim Pool]] · [[Steven Crowder]] · [[Rumble]] · [[The Platform Dependency Spectrum , Revenue Vulnerability Across Political Media]] · [[Tenet Media]] · [[Matt Walsh]] · [[Jordan Peterson]] · [[Sean Hannity]] · [[Patrick Bet-David]] · [[Mark Levin]] · [[Laura Ingraham]] · [[Jesse Watters]] · [[James O'Keefe]] · [[Greg Gutfeld]] · [[Dave Rubin]] · [[Dan Bongino]] · [[Michael Knowles]] · [[Jeremy Boreing]] · [[The Daily Wire]] · [[Christopher Rufo]] · [[Charlie Kirk]] · [[Jimmy Dore]] · [[Candace Owens]] · [[Ben Shapiro]] · [[Andrew Klavan]] · [[TYT Network - The Young Turks]] · [[Sam Seder]] · [[Rachel Maddow]] · [[Pod Save America]] · [[Kyle Kulinski]] · [[John Oliver]] · [[Hasan Piker]] · [[David Pakman]] · [[Crooked Media]]"
 donors: "[[Marc Andreessen and a16z]] · [[Peter Thiel]] · [[Koch Network - Charles Koch]]"
 ---
 
@@ -179,7 +179,7 @@ The funding model is structurally captured without any single donor or patron. T
 - ~~[Nathan J. Robinson, Current Affairs: "The Guy Who Just Loves Everyone" (Jan 2023)](https://www.currentaffairs.org/posts/the-guy-who-just-loves-everyone)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 2)
 - [Business Insider: Julia Black, "Safe Space for Anti-Woke Tech Elite" (Apr 2023)](https://www.businessinsider.com/lex-fridman-podcast-anti-woke-elon-musk-ai) (Tier 2) (VERIFIED)
 - [Sponsorable: Lex Fridman Podcast Sponsor Data (402/494 episodes sponsored, 119 companies)](https://sponsorable.com/podcasts/lex-fridman-podcast) (Tier 3) (VERIFIED)
-- [Lex Fridman on X: "I'm not right-wing or left-wing.."](https://x.com/lexfridman/status/1600669648185446403) (Tier 1) (VERIFIED)
+- [Lex Fridman on X: "I'm not right-wing or left-wing."](https://x.com/lexfridman/status/1600669648185446403) (Tier 1) (VERIFIED)
 - [Lex Fridman, Marc Andreessen Episode #458 Transcript](https://lexfridman.com/marc-andreessen-2-transcript/) (Tier 1) (VERIFIED)
 
 ---

@@ -17,7 +17,7 @@ donors: [[Gulf State Money - Saudi Arabia, UAE, Qatar]] · [[Miriam Adelson]]
 
 ### The Diplomatic Achievement
 
-Kushner brokered the Abraham Accords (2020): UAE and Bahrain normalized relations with Israel. Sudan and Morocco followed. The agreements were real diplomatic achievements — the first Arab-Israeli normalization since Jordan (1994).
+Kushner brokered the Abraham Accords (2020): UAE and Bahrain normalized relations with Israel. Sudan and Morocco followed. The agreements were real diplomatic achievements, the first Arab-Israeli normalization since Jordan (1994).
 
 ### The weapons component:
 - **$23 billion** in F-35 fighter aircraft and MQ-9 Reaper drone sales to UAE ([[Lockheed Martin|Lockheed Martin]] primary contractor)
@@ -41,7 +41,7 @@ Kushner maintained regular WhatsApp contact with Crown Prince [[Mohammed bin Sal
 
 **Khashoggi murder (October 2, 2018):** U.S. intelligence concluded MBS "approved" the operation that killed Washington Post journalist Jamal Khashoggi inside the Saudi consulate in Istanbul. Kushner's response: said he hadn't seen the intelligence report, called it "absolutely horrific" but avoided naming MBS. No public pressure on MBS accountability.
 
-**The investment timeline:** The $2 billion from PIF — led by the same MBS who ordered Khashoggi's killing, per U.S. intelligence — arrived six months after Kushner left office, during the height of Khashoggi fallout.
+**The investment timeline:** The $2 billion from PIF, led by the same MBS who ordered Khashoggi's killing, per U.S. intelligence, arrived six months after Kushner left office, during the height of Khashoggi fallout.
 
 Congressional members called for investigation into whether Kushner shared intelligence with MBS that may have enabled Khashoggi's targeting. No evidence was presented, but the relationship raised formal red flags from the intelligence community.
 

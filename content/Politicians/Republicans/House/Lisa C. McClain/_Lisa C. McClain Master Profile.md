@@ -1,5 +1,5 @@
 ---
-title: "Lisa C. McClain Master Profile"
+title: "Lisa C. McClain"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

@@ -1,5 +1,5 @@
 ---
-title: "Andy Harris Master Profile"
+title: "Andy Harris"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

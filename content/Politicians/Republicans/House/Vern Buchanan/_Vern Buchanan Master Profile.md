@@ -1,5 +1,5 @@
 ---
-title: "Vern Buchanan Master Profile"
+title: "Vern Buchanan"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

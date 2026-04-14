@@ -6,7 +6,7 @@ last-updated: 2026-04-13
 source-tier: 1
 parent: null
 category: centrist
-related: "[[Glenn Greenwald]] · [[Lex Fridman]] · [[Megyn Kelly]] · [[_Media Pipeline Framework]] · [[Jordan Peterson]] · [[Matt Walsh]] · [[Dave Rubin]] · [[The Platform Dependency Spectrum — Revenue Vulnerability Across Political Media]] · [[Tim Pool]] · [[Tucker Carlson]] · [[Tenet Media]] · [[Steven Crowder]] · [[Rumble]] · [[Sean Hannity]] · [[Patrick Bet-David]] · [[Mark Levin]] · [[Laura Ingraham]] · [[Jesse Watters]] · [[James O'Keefe]] · [[Greg Gutfeld]] · [[Dan Bongino]] · [[Michael Knowles]] · [[Jeremy Boreing]] · [[The Daily Wire]] · [[Christopher Rufo]] · [[Charlie Kirk]] · [[Jimmy Dore]] · [[Candace Owens]] · [[Ben Shapiro]] · [[Andrew Klavan]] · [[TYT Network - The Young Turks]] · [[Sam Seder]] · [[Rachel Maddow]] · [[Pod Save America]] · [[Kyle Kulinski]] · [[John Oliver]] · [[Hasan Piker]] · [[David Pakman]] · [[Crooked Media]]"
+related: "[[Glenn Greenwald]] · [[Lex Fridman]] · [[Megyn Kelly]] · [[_Media Pipeline Framework]] · [[Jordan Peterson]] · [[Matt Walsh]] · [[Dave Rubin]] · [[The Platform Dependency Spectrum , Revenue Vulnerability Across Political Media]] · [[Tim Pool]] · [[Tucker Carlson]] · [[Tenet Media]] · [[Steven Crowder]] · [[Rumble]] · [[Sean Hannity]] · [[Patrick Bet-David]] · [[Mark Levin]] · [[Laura Ingraham]] · [[Jesse Watters]] · [[James O'Keefe]] · [[Greg Gutfeld]] · [[Dan Bongino]] · [[Michael Knowles]] · [[Jeremy Boreing]] · [[The Daily Wire]] · [[Christopher Rufo]] · [[Charlie Kirk]] · [[Jimmy Dore]] · [[Candace Owens]] · [[Ben Shapiro]] · [[Andrew Klavan]] · [[TYT Network - The Young Turks]] · [[Sam Seder]] · [[Rachel Maddow]] · [[Pod Save America]] · [[Kyle Kulinski]] · [[John Oliver]] · [[Hasan Piker]] · [[David Pakman]] · [[Crooked Media]]"
 donors: "[[Marc Andreessen and a16z]] · [[Peter Thiel]]"
 ---
 
@@ -162,7 +162,7 @@ Bari Weiss represents the most structurally complete case of Independence Theate
 - [CJR: "Weiss Goes Mainstream" (Oct 13, 2025)](https://www.cjr.org/the_media_today/bari-weiss-goes-mainstream.php) (Tier 2) (VERIFIED)
 - [Nieman Lab/FT: "Bari Weiss's Free Press Is Valued at Around $100 Million and Just Raised $15 Million" (Sep 25, 2024)](https://www.niemanlab.org/reading/bari-weisss-free-press-is-valued-at-around-100-million-and-just-raised-15-million/) (Tier 2) (VERIFIED)
 - [PitchBook: "The Free Press, News Outfit Backed by Top VCs, Acquired by Paramount Skydance for $150M"](https://pitchbook.com/news/articles/the-free-press-news-outfit-backed-by-top-vcs-acquired-by-paramount-skydance-for-150m) (Tier 2) (VERIFIED)
-- ~~[Axios: "The Free Press Hires a Publisher Amid Expansion" (Dec 10, 2024)](https://www.axios.com/2024/12/10/the-free-press-hires-publisher-amid-expansion)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[Axios: "The Free Press Hires a Publisher Amid Expansion" (Dec 10, 2024)](https://www.axios.com/2024/12/10/the-free-press-hires-publisher-amid-expansion)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [CNN: "Controversial Opinion Writer Bari Weiss Resigns from The New York Times" (July 14, 2020)](https://www.cnn.com/2020/07/14/media/bari-weiss-resigns-new-york-times) (Tier 2) (VERIFIED)
 - [CBS News: "Bari Weiss Named Editor-in-Chief of CBS News" (Oct 6, 2025)](https://www.cbsnews.com/news/bari-weiss-editor-in-chief-cbs-news-paramount-the-free-press/) (Tier 2) (VERIFIED)
 

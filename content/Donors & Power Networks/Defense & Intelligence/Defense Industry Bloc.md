@@ -28,9 +28,9 @@ The needs-reenrichment flag has been set. The next scheduled pipeline run will p
 
 ### Who They Are
 
-The Defense Industry Bloc. The five largest defense contractors — Lockheed Martin, RTX (Raytheon), Boeing, Northrop Grumman, and General Dynamics — collectively generate $250+ billion in annual revenue, employ 700,000+ workers, and maintain operations in 48+ states. The bloc's political operation is the most geographically distributed lobbying force in America: $120-140 million annually in lobbying, $25-35 million per cycle in PAC and campaign contributions, and production facilities strategically placed in 400+ congressional districts.
+The Defense Industry Bloc. The five largest defense contractors. Lockheed Martin, RTX (Raytheon), Boeing, Northrop Grumman, and General Dynamics, collectively generate $250+ billion in annual revenue, employ 700,000+ workers, and maintain operations in 48+ states. The bloc's political operation is the most geographically distributed lobbying force in America: $120-140 million annually in lobbying, $25-35 million per cycle in PAC and campaign contributions, and production facilities strategically placed in 400+ congressional districts.
 
-The defense industry's political strategy is built on geographic dependency: every major weapons system distributes production across the maximum number of congressional districts. The F-35 has suppliers in 45 states. The Virginia-class submarine involves contractors in 48 states. This distribution is not incidental — it is the industry's primary political strategy, ensuring that cutting any weapons program threatens jobs in hundreds of districts.
+The defense industry's political strategy is built on geographic dependency: every major weapons system distributes production across the maximum number of congressional districts. The F-35 has suppliers in 45 states. The Virginia-class submarine involves contractors in 48 states. This distribution is not incidental, it is the industry's primary political strategy, ensuring that cutting any weapons program threatens jobs in hundreds of districts.
 
 - [FEC Receipts: Defense industry spending](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1) (VERIFIED)
 
@@ -48,7 +48,7 @@ The 2024 NDAA: $886 billion. Passed 310-118 in the House, 87-13 in the Senate. I
 
 **District Dependencies:** 400+ congressional districts with defense production
 **Revolving Door:** 700+ former DOD officials moved to defense industry positions (2019-2023)
-**Think Tank Funding:** CSIS, Atlantic Council, CNAS, Heritage defense program — all defense-industry-funded
+**Think Tank Funding:** CSIS, Atlantic Council, CNAS, Heritage defense program, all defense-industry-funded
 **Campaign Contributions:** $25-35 million per cycle to members of Armed Services, Appropriations, and Intelligence committees
 
 The Pentagon has failed its financial audit every year since audits began in 2018. This has not affected appropriations.
@@ -61,7 +61,7 @@ The Pentagon has failed its financial audit every year since audits began in 201
 ### Sources
 
 - [FEC Receipts: Defense industry spending totals](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1) (VERIFIED)
-- ~~[Congress.gov: National Defense Authorization Act for Fiscal Year 2024](https://www.congress.gov/bill/118th-congress/house-bill/2670)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[Congress.gov: National Defense Authorization Act for Fiscal Year 2024](https://www.congress.gov/bill/118th-congress/house-bill/2670)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 
 ### Lobbying Activity
 <!-- auto:lda-lobbying start -->

@@ -36,13 +36,13 @@ donors: [[Fossil Fuel Bloc]]
 
 ### Robindale Energy: Coal Money in a Democratic Campaign
 
-Robindale Energy — a coal mining and energy company operating in western Pennsylvania — contributed $271,000 to Shapiro's campaigns. The coal industry is the single most climate-damaging energy source and the most politically toxic donor class for a Democrat. Shapiro took the money. The donations reveal the gap between the climate rhetoric (infrastructure spending, clean energy language) and the donor reality (coal money funding the governor's office).
+Robindale Energy, a coal mining and energy company operating in western Pennsylvania, contributed $271,000 to Shapiro's campaigns. The coal industry is the single most climate-damaging energy source and the most politically toxic donor class for a Democrat. Shapiro took the money. The donations reveal the gap between the climate rhetoric (infrastructure spending, clean energy language) and the donor reality (coal money funding the governor's office).
 
 ---
 
 ### The RGGI Withdrawal
 
-Tom Wolf, Shapiro's Democratic predecessor, spent years negotiating Pennsylvania's entry into RGGI — the Regional Greenhouse Gas Initiative, a cap-and-trade program covering power plant emissions across northeastern states. Shapiro withdrew Pennsylvania from the initiative, citing legal concerns and economic impact. The withdrawal:
+Tom Wolf, Shapiro's Democratic predecessor, spent years negotiating Pennsylvania's entry into RGGI, the Regional Greenhouse Gas Initiative, a cap-and-trade program covering power plant emissions across northeastern states. Shapiro withdrew Pennsylvania from the initiative, citing legal concerns and economic impact. The withdrawal:
 
 - Served the natural gas industry (RGGI would have increased costs for gas-fired power plants)
 - Served the coal donors (RGGI would have accelerated coal plant closures)
@@ -57,5 +57,5 @@ Tom Wolf, Shapiro's Democratic predecessor, spent years negotiating Pennsylvania
 ### Sources
 
 - [StateImpact Pennsylvania: Shapiro fracking policy and CNX agreement](https://stateimpact.npr.org/pennsylvania/2023/11/02/josh-shapiro-announces-first-of-its-kind-agreement-with-cnx-on-fracking-health-measures-says-new-regulations-coming/) (Tier 2) (VERIFIED)
-- ~~[OpenSecrets: Robindale Energy contributions](https://www.opensecrets.org/members-of-congress/summary?name=Fracking%20Alliance%20and%20the%20Energy%20Contradiction)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[OpenSecrets: Robindale Energy contributions](https://www.opensecrets.org/members-of-congress/summary?name=Fracking%20Alliance%20and%20the%20Energy%20Contradiction)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [WHYY: Shapiro's fossil fuel alliances](https://whyy.org/articles/first-year-pennsylvania-governor-josh-shapiro-forged-alliances-with-natural-gas-industry/) (Tier 2) (VERIFIED)

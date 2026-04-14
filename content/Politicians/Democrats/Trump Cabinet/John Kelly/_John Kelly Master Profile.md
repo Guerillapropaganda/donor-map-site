@@ -1,5 +1,5 @@
 ---
-title: "John Kelly Master Profile"
+title: "John Kelly"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

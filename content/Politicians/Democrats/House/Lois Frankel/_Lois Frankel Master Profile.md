@@ -1,5 +1,5 @@
 ---
-title: "Lois Frankel Master Profile"
+title: "Lois Frankel"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

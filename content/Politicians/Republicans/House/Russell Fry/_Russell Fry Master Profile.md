@@ -1,5 +1,5 @@
 ---
-title: "Russell Fry Master Profile"
+title: "Russell Fry"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

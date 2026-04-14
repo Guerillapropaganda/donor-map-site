@@ -1,5 +1,5 @@
 ---
-title: "JD Vance Master Profile"
+title: "JD Vance"
 type: politician
 content-readiness: ready
 central-thesis: "Vance is not an organic politician. He is an explicitly designed artifact created by Peter Thiel to serve three objectives:"
@@ -45,9 +45,9 @@ donors: [[The Thiel Pipeline - From Yale to VP]] · [[Narya Capital and the Vent
 
 ## Who He Is
 
-[[_JD Vance Master Profile|JD Vance]] is a venture capitalist and political product manufactured by Silicon Valley's ultra-wealthy donors—primarily [[Peter Thiel|Peter Thiel]]—who needed a charismatic spokesperson for a white-working-class politics that benefits billionaires, not workers. He was elevated through a coordinated pipeline: Thiel fellowship (2011), Yale law school mentorship, [[Mithril Capital|Mithril Capital]] investing (2016-2025), and finally a Senate seat designed as a holding pattern until a VP slot opened.
+[[_JD Vance Master Profile|JD Vance]] is a venture capitalist and political product manufactured by Silicon Valley's ultra-wealthy donors, primarily [[Peter Thiel|Peter Thiel]], who needed a charismatic spokesperson for a white-working-class politics that benefits billionaires, not workers. He was elevated through a coordinated pipeline: Thiel fellowship (2011), Yale law school mentorship, [[Mithril Capital|Mithril Capital]] investing (2016-2025), and finally a Senate seat designed as a holding pattern until a VP slot opened.
 
-His public identity rests on *Hillbilly Elegy*, a memoir that frames Appalachian poverty as cultural dysfunction rather than structural exploitation, absolving wealthy donors of responsibility for deindustrialization and making him palatable to both tech money and MAGA voters. In office, he delivered no legislative victories while positioning himself as the next MAGA presidential contender—fulfilling Thiel's vision of venture capital's political wing.
+His public identity rests on *Hillbilly Elegy*, a memoir that frames Appalachian poverty as cultural dysfunction rather than structural exploitation, absolving wealthy donors of responsibility for deindustrialization and making him palatable to both tech money and MAGA voters. In office, he delivered no legislative victories while positioning himself as the next MAGA presidential contender, fulfilling Thiel's vision of venture capital's political wing.
 
 ## The Central Thesis: Thiel's Manufactured Political Product
 
@@ -62,11 +62,11 @@ Vance is not an organic politician. He is an explicitly designed artifact create
 
 Vance's political identity is built on a fundamental contradiction that reveals the class analysis at the vault's core: he presents himself as a voice for deindustrialized Ohio workers while being entirely funded, mentored, and controlled by the men who profited most from deindustrialization.
 
-- **The framing**: Hillbilly Elegy argues Appalachian poverty stems from cultural dysfunction—family breakdown, poor work ethic, addiction
+- **The framing**: Hillbilly Elegy argues Appalachian poverty stems from cultural dysfunction, family breakdown, poor work ethic, addiction
 - **The reality**: Silicon Valley venture capitalists gutted Ohio's industrial base, outsourced manufacturing, and extracted wealth from Rust Belt communities
 - **His role**: Vance converts this extraction into cultural criticism, making him useful to donors (blames workers, not capitalism) and appealing to MAGA (blames elites, just not *his* elites)
 
-His Senate voting record—57 bills introduced, 0 passed—reflects this contradiction. He was not sent to Ohio to legislate for workers. He was sent to hold a seat, collect a salary, and position himself for higher office controlled by the same donors.
+His Senate voting record, 57 bills introduced, 0 passed, reflects this contradiction. He was not sent to Ohio to legislate for workers. He was sent to hold a seat, collect a salary, and position himself for higher office controlled by the same donors.
 
 ## Donor Class Map
 
@@ -86,22 +86,22 @@ His Senate voting record—57 bills introduced, 0 passed—reflects this contrad
 
 | Date | Donor | Amount | Given | Policy Outcome |
 |------|-------|--------|-------|----------------|
-| 2022-05-03 | [[Peter Thiel]] — one of the largest single-candidate PAC investments in a Senate primary | $15M+ (direct) + mentorship + Mar-a-Lago Trump introduction | 2021-Q1 | Vance reverses from NeverTrump to full MAGA; wins Ohio Senate primary after Trump endorsement secured by Thiel's $15M commitment demonstrating viability — $15M investment converts to Senate seat |
-| 2025-01 | [[Peter Thiel]] (Palantir $PLTR federal contractor) | Part of $15M+ career investment | 2021-2024 | Palantir government contracts accelerate — Thiel's surveillance company positioned for expanded federal AI/surveillance contracts with Vance-aligned White House |
+| 2022-05-03 | [[Peter Thiel]], one of the largest single-candidate PAC investments in a Senate primary | $15M+ (direct) + mentorship + Mar-a-Lago Trump introduction | 2021-Q1 | Vance reverses from NeverTrump to full MAGA; wins Ohio Senate primary after Trump endorsement secured by Thiel's $15M commitment demonstrating viability, $15M investment converts to Senate seat |
+| 2025-01 | [[Peter Thiel]] (Palantir $PLTR federal contractor) | Part of $15M+ career investment | 2021-2024 | Palantir government contracts accelerate. Thiel's surveillance company positioned for expanded federal AI/surveillance contracts with Vance-aligned White House |
 
 #### Tech / Crypto
 
 | Date | Donor | Amount | Given | Policy Outcome |
 |------|-------|--------|-------|----------------|
-| 2023-2024 | Crypto industry — Coinbase, crypto PACs, [[Fairshake PAC]] | $5-8M to Vance campaign and aligned PACs | 2023-2024 | Vance becomes crypto's most vocal Senate defender; opposes SEC enforcement; calls SEC chair Gensler "lawless" |
-| 2025-01-20 | Crypto inaugural fund + industry donors | $13.5M+ inaugural contributions | 2024-12 | Crypto executive order signed Day 1 — Vance co-author; [[_David Sacks Master Profile|David Sacks]] appointed Crypto Czar; Biden crypto oversight revoked; 3 days from inauguration to EO |
+| 2023-2024 | Crypto industry. Coinbase, crypto PACs, [[Fairshake PAC]] | $5-8M to Vance campaign and aligned PACs | 2023-2024 | Vance becomes crypto's most vocal Senate defender; opposes SEC enforcement; calls SEC chair Gensler "lawless" |
+| 2025-01-20 | Crypto inaugural fund + industry donors | $13.5M+ inaugural contributions | 2024-12 | Crypto executive order signed Day 1. Vance co-author; [[_David Sacks Master Profile|David Sacks]] appointed Crypto Czar; Biden crypto oversight revoked; 3 days from inauguration to EO |
 
 #### Mega-Donors / MAGA Infrastructure
 
 | Date | Donor | Amount | Given | Policy Outcome |
 |------|-------|--------|-------|----------------|
-| 2024-07-15 | [[Elon Musk]] — America PAC + direct VP lobbying | $45M+/month to America PAC | 2024-Q2 | Trump selects Vance as VP — Musk's lobbying and financial commitment identified as decisive factor; a $38B+ federal contractor helped select the vice president |
-| 2025 | [[Marc Andreessen & Horowitz]] — VC industry deregulation alignment | $8-12M+ contributions | 2023-2024 | Vance-aligned White House guts regulatory oversight of Musk's companies; expanded SpaceX contracts; VC portfolio protection across administration |
+| 2024-07-15 | [[Elon Musk]]. America PAC + direct VP lobbying | $45M+/month to America PAC | 2024-Q2 | Trump selects Vance as VP. Musk's lobbying and financial commitment identified as decisive factor; a $38B+ federal contractor helped select the vice president |
+| 2025 | [[Marc Andreessen & Horowitz]]. VC industry deregulation alignment | $8-12M+ contributions | 2023-2024 | Vance-aligned White House guts regulatory oversight of Musk's companies; expanded SpaceX contracts; VC portfolio protection across administration |
 
 > [!money] The Damning Sequences
 > **The 4-year Thiel return:** $15M+ invested in Vance (2021) → Senate seat (2022) → VP nomination (2024). Vance's entire political career is a three-step investment vehicle delivering a billionaire a vice president. No other politician in modern history has had their career trajectory so explicitly funded by a single megadonor.
@@ -112,11 +112,11 @@ His Senate voting record—57 bills introduced, 0 passed—reflects this contrad
 
 ## Analytical Patterns
 
-**The Genuine Win + Structural Limit** — Vance's crypto regulatory relief is a real donor victory, but stops short of eliminating SEC oversight entirely. His policy wins advance the crypto industry's deregulatory agenda without comprehensive financial system restructuring.
+**The Genuine Win + Structural Limit**. Vance's crypto regulatory relief is a real donor victory, but stops short of eliminating SEC oversight entirely. His policy wins advance the crypto industry's deregulatory agenda without comprehensive financial system restructuring.
 
-**The Villain Framing** — Vance blames the "woke left" and cultural elites (academics, journalists) as external villains requiring cultural war responses, deflecting from his actual material position: he is funded by and personally aligned with tech billionaires (Thiel, Andreessen, Musk) who benefit directly from his deregulatory positions. The villain is cultural overreach; the beneficiary (tech/crypto donors) remains structurally invisible.
+**The Villain Framing**. Vance blames the "woke left" and cultural elites (academics, journalists) as external villains requiring cultural war responses, deflecting from his actual material position: he is funded by and personally aligned with tech billionaires (Thiel, Andreessen, Musk) who benefit directly from his deregulatory positions. The villain is cultural overreach; the beneficiary (tech/crypto donors) remains structurally invisible.
 
-**The Two-Audience Problem** — Vance performs as a working-class advocate defending struggling Americans to his base through populist nationalism, while privately serving deregulatory interests of billionaire tech donors whose policies extract value from the working class. The populist rhetoric masks the actual function: billionaire wealth concentration.
+**The Two-Audience Problem**. Vance performs as a working-class advocate defending struggling Americans to his base through populist nationalism, while privately serving deregulatory interests of billionaire tech donors whose policies extract value from the working class. The populist rhetoric masks the actual function: billionaire wealth concentration.
 
 ---
 
@@ -124,7 +124,7 @@ His Senate voting record—57 bills introduced, 0 passed—reflects this contrad
 
 **1. Cultural Dysfunction Frame**: Every policy problem (poverty, unemployment, addiction) becomes a character problem solvable by individual virtue, not systemic change. This absolves donors of responsibility for extractive capitalism.
 
-**2. "Elite vs. Working Class"**: Invokes class grievance while excluding his actual class (billionaire VC cohort) from the "elite" category. Elites = academics, journalists, DEI bureaucrats—not tech billionaires.
+**2. "Elite vs. Working Class"**: Invokes class grievance while excluding his actual class (billionaire VC cohort) from the "elite" category. Elites = academics, journalists, DEI bureaucrats, not tech billionaires.
 
 **3. Pronatalism/Childless Cat Ladies**: Deflects from economic despair by making demographic and cultural arguments (people aren't having children because of cultural degeneracy, not because housing/childcare are unaffordable under billionaire-friendly policy).
 
@@ -164,7 +164,7 @@ The vault's central insight applies directly: **Vance is not a politician with d
 
 ### Tier 1 (Primary/Government):
 - [FEC: VANCE, J D - Candidate overview](https://www.fec.gov/data/candidate/S2OH00436/) (Tier 1) (VERIFIED)
-- ~~[Congress.gov: J. D. Vance voting record and bills introduced](https://www.congress.gov/member/j-vance/V000137)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[Congress.gov: J. D. Vance voting record and bills introduced](https://www.congress.gov/member/j-vance/V000137)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 
 ### Tier 2 (Major Journalism):
 - [Washington Post: Inside the powerful Peter Thiel tech network that launched JD Vance](https://www.washingtonpost.com/technology/2024/07/28/jd-vance-peter-thiel-donors-big-tech-trump-vp/) (Tier 2) (VERIFIED)
@@ -178,7 +178,7 @@ The vault's central insight applies directly: **Vance is not a politician with d
 
 ### Tier 4 (Analysis/Media):
 - [The New Republic: J.D. Vance, the False Prophet of Blue America](https://newrepublic.com/article/138717/jd-vance-false-prophet-blue-america) (Tier 4) (VERIFIED)
-- ~~[Washington Post: The radicalization of Hillbilly Elegy author J.D. Vance](https://www.washingtonpost.com/nation/2024/07/25/jd-vance-hillbilly-elegy-jackson-kentucky/)~~ (was Tier 4 — URL broken, archived by Ops) (Tier 4)
+- ~~[Washington Post: The radicalization of Hillbilly Elegy author J.D. Vance](https://www.washingtonpost.com/nation/2024/07/25/jd-vance-hillbilly-elegy-jackson-kentucky/)~~ (was Tier 4. URL broken, archived by Ops) (Tier 4)
 
 ---
 

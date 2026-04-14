@@ -1,5 +1,5 @@
 ---
-title: "Robert E. Latta Master Profile"
+title: "Robert E. Latta"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

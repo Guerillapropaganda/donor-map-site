@@ -1,5 +1,5 @@
 ---
-title: "Jeff Sessions Master Profile"
+title: "Jeff Sessions"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

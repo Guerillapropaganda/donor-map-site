@@ -28,11 +28,11 @@ The needs-reenrichment flag has been set. The next scheduled pipeline run will p
 
 ### Who They Are
 
-Boeing Company is the second-largest defense contractor in America and one of only two manufacturers of large commercial aircraft globally (alongside Airbus). The company operates through three divisions: Boeing Defense, Space & Security (BDS), Boeing Commercial Airplanes (BCA), and Boeing Global Services. Combined, Boeing generates $66-78B in annual revenue, with defense accounting for roughly $25B. Boeing received $115 billion in Pentagon contracts between 2020 and 2024 alone — approximately one-fifth of the $771 billion awarded to the top five military contractors during that period.
+Boeing Company is the second-largest defense contractor in America and one of only two manufacturers of large commercial aircraft globally (alongside Airbus). The company operates through three divisions: Boeing Defense, Space & Security (BDS), Boeing Commercial Airplanes (BCA), and Boeing Global Services. Combined, Boeing generates $66-78B in annual revenue, with defense accounting for roughly $25B. Boeing received $115 billion in Pentagon contracts between 2020 and 2024 alone, approximately one-fifth of the $771 billion awarded to the top five military contractors during that period.
 
-Boeing Defense produces the F/A-18, F-15EX, KC-46 tanker, Apache helicopter, P-8 Poseidon, T-7A Red Hawk trainer, and numerous missile and satellite systems. In March 2025, Boeing won the Air Force's Next Generation Air Dominance (NGAD) contract for the sixth-generation F-47 fighter jet — a program expected to cost $20 billion between 2025 and 2029. Boeing also holds the contract for two new Air Force One presidential aircraft (VC-25B), another program plagued by billions in cost overruns.
+Boeing Defense produces the F/A-18, F-15EX, KC-46 tanker, Apache helicopter, P-8 Poseidon, T-7A Red Hawk trainer, and numerous missile and satellite systems. In March 2025, Boeing won the Air Force's Next Generation Air Dominance (NGAD) contract for the sixth-generation F-47 fighter jet, a program expected to cost $20 billion between 2025 and 2029. Boeing also holds the contract for two new Air Force One presidential aircraft (VC-25B), another program plagued by billions in cost overruns.
 
-Boeing's political operation is inseparable from its commercial aviation business: the same PAC, lobbying operation, and revolving door serve both divisions. Boeing employs 150,000+ workers with major facilities in Washington, Missouri, South Carolina, Arizona, California, and Texas. This employment footprint makes Boeing a constituent issue for dozens of senators and over 100 House members — the geographic distribution of Boeing jobs is itself a political weapon.
+Boeing's political operation is inseparable from its commercial aviation business: the same PAC, lobbying operation, and revolving door serve both divisions. Boeing employs 150,000+ workers with major facilities in Washington, Missouri, South Carolina, Arizona, California, and Texas. This employment footprint makes Boeing a constituent issue for dozens of senators and over 100 House members, the geographic distribution of Boeing jobs is itself a political weapon.
 
 ---
 
@@ -40,17 +40,17 @@ Boeing's political operation is inseparable from its commercial aviation busines
 
 Boeing's political agenda serves three interlocking objectives: defense contract protection, regulatory capture of the FAA, and trade policy that supports commercial aircraft exports.
 
-On the defense side, Boeing lobbies for sustained Pentagon budgets, program continuation for troubled platforms (KC-46, T-7A, VC-25B), and favorable contract structures. The F-47 NGAD contract was notably awarded as a cost-plus incentive-fee deal — a structure where the government absorbs R&D risk — after Boeing lost billions on fixed-price defense contracts. Boeing lobbied extensively for this shift away from fixed-price contracting.
+On the defense side, Boeing lobbies for sustained Pentagon budgets, program continuation for troubled platforms (KC-46, T-7A, VC-25B), and favorable contract structures. The F-47 NGAD contract was notably awarded as a cost-plus incentive-fee deal, a structure where the government absorbs R&D risk, after Boeing lost billions on fixed-price defense contracts. Boeing lobbied extensively for this shift away from fixed-price contracting.
 
 On the commercial side, Boeing seeks FAA deference to manufacturer self-certification (the Organizational Designation Authorization program that allowed Boeing to certify its own 737 MAX safety systems), continued Export-Import Bank financing for foreign airline purchases, and trade policies that protect its duopoly with Airbus.
 
-Boeing's lobbying targets in the 118th Congress reveal the overlap: the company's most-lobbied bills included the FAA Reauthorization Act, the NDAA, Defense Appropriations, and healthcare bills for its workforce (Primary Care Enhancement Act had 14 lobbying reports — Boeing has significant employee healthcare costs).
+Boeing's lobbying targets in the 118th Congress reveal the overlap: the company's most-lobbied bills included the FAA Reauthorization Act, the NDAA, Defense Appropriations, and healthcare bills for its workforce (Primary Care Enhancement Act had 14 lobbying reports. Boeing has significant employee healthcare costs).
 
 ---
 
 ### Who They Fund
 
-Boeing operates one of the most strategically bipartisan PAC operations in corporate America. In the 2024 cycle, Boeing's total political contributions reached $5.8 million (PAC + employee contributions), with the Boeing Company PAC distributing $1.59 million directly to federal candidates: 62% to Republicans, 37% to Democrats. The PAC gave to 260 House candidates and 42 Senate candidates — a saturation strategy that ensures Boeing has a relationship with virtually every member who touches defense, appropriations, or transportation policy.
+Boeing operates one of the most strategically bipartisan PAC operations in corporate America. In the 2024 cycle, Boeing's total political contributions reached $5.8 million (PAC + employee contributions), with the Boeing Company PAC distributing $1.59 million directly to federal candidates: 62% to Republicans, 37% to Democrats. The PAC gave to 260 House candidates and 42 Senate candidates, a saturation strategy that ensures Boeing has a relationship with virtually every member who touches defense, appropriations, or transportation policy.
 
 ### 2024 cycle top recipients (total from Boeing employees + PAC):
 
@@ -66,7 +66,7 @@ Boeing operates one of the most strategically bipartisan PAC operations in corpo
 | Tim Kaine | $52,585 | Candidate (D-VA) |
 | Nikki Haley | $46,927 | Candidate (R-PRES) |
 
-The party committee contributions are revealing: Boeing gave virtually identical amounts to Democratic and Republican congressional campaign committees ($608K to DCCC+DSCC vs. $492K to NRCC+NRSC), ensuring access regardless of which party controls Congress. Boeing employees individually favored Harris ($685K) over Trump ($249K) in the presidential race, but the PAC's candidate-level giving tilted Republican 62-37 — the corporate operation hedges while individual employees lean Democratic, reflecting Boeing's educated engineering workforce in blue-state facilities.
+The party committee contributions are revealing: Boeing gave virtually identical amounts to Democratic and Republican congressional campaign committees ($608K to DCCC+DSCC vs. $492K to NRCC+NRSC), ensuring access regardless of which party controls Congress. Boeing employees individually favored Harris ($685K) over Trump ($249K) in the presidential race, but the PAC's candidate-level giving tilted Republican 62-37, the corporate operation hedges while individual employees lean Democratic, reflecting Boeing's educated engineering workforce in blue-state facilities.
 
 > [!money]
 > Boeing's PAC saturation strategy is designed to make the company a constituent of every relevant committee member. By giving $10,000 to 260+ House members across both parties, Boeing ensures that any defense authorization, FAA reauthorization, or appropriations markup includes members who have a direct financial relationship with the company. This isn't about buying votes on individual bills — it's about ensuring Boeing always has access and that no committee operates without Boeing-friendly members at the table.
@@ -97,11 +97,11 @@ Boeing's political investment has delivered extraordinary returns despite a reco
 
 ### The Revolving Door
 
-Boeing operates one of the most aggressive revolving door programs in the defense industry. In 2024, 80 of Boeing's 114 registered lobbyists (70.2%) previously held government jobs. In 2022, Boeing hired 85 former government officials — more than any other defense contractor — including six high-ranking executives, two board members, and 77 registered lobbyists.
+Boeing operates one of the most aggressive revolving door programs in the defense industry. In 2024, 80 of Boeing's 114 registered lobbyists (70.2%) previously held government jobs. In 2022, Boeing hired 85 former government officials, more than any other defense contractor, including six high-ranking executives, two board members, and 77 registered lobbyists.
 
 Key revolving door examples:
 
-Patrick Shanahan served as Boeing's senior vice president before becoming Deputy Secretary of Defense (2017-2019) and then Acting Secretary of Defense. He resigned after ethics investigations into potential favoritism toward Boeing. Heidi Grant, director of the Defense Security Cooperation Agency, was negotiating a contract with Boeing while publicly promoting Boeing's fighter jets, then joined Boeing a single day after leaving government. [[Nikki Haley]], former UN Ambassador and South Carolina governor, joined Boeing's board of directors in 2019 — South Carolina hosts Boeing's 787 Dreamliner assembly plant.
+Patrick Shanahan served as Boeing's senior vice president before becoming Deputy Secretary of Defense (2017-2019) and then Acting Secretary of Defense. He resigned after ethics investigations into potential favoritism toward Boeing. Heidi Grant, director of the Defense Security Cooperation Agency, was negotiating a contract with Boeing while publicly promoting Boeing's fighter jets, then joined Boeing a single day after leaving government. [[Nikki Haley]], former UN Ambassador and South Carolina governor, joined Boeing's board of directors in 2019. South Carolina hosts Boeing's 787 Dreamliner assembly plant.
 
 Boeing's board has consistently included former military brass: retired Air Force Inspector General Stayce D. Harris and retired Chief of Naval Operations Admiral John M. Richardson have both served as directors, providing Boeing with direct insight into Pentagon procurement priorities.
 
@@ -112,35 +112,35 @@ Boeing's board has consistently included former military brass: retired Air Forc
 
 ### Class Analysis
 
-Boeing represents the purest expression of the military-industrial complex's structural power. The company's political protection doesn't depend on any single mechanism — it operates through five interlocking layers:
+Boeing represents the purest expression of the military-industrial complex's structural power. The company's political protection doesn't depend on any single mechanism, it operates through five interlocking layers:
 
-**Layer 1 — Geographic distribution as political insurance.** Boeing's supply chains are deliberately distributed across 36+ states and hundreds of congressional districts. Every major program cancellation would produce job losses in dozens of members' districts. The KC-46 tanker program, despite $9.55 billion in cost overruns (nearly double the original $4.9B contract), continues because cutting it would mean cutting jobs in constituents' districts. This makes Boeing's defense programs functionally immune to cost-benefit analysis.
+**Layer 1. Geographic distribution as political insurance.** Boeing's supply chains are deliberately distributed across 36+ states and hundreds of congressional districts. Every major program cancellation would produce job losses in dozens of members' districts. The KC-46 tanker program, despite $9.55 billion in cost overruns (nearly double the original $4.9B contract), continues because cutting it would mean cutting jobs in constituents' districts. This makes Boeing's defense programs functionally immune to cost-benefit analysis.
 
-**Layer 2 — PAC saturation as access guarantee.** By giving to 260+ House members and 42 senators in a single cycle, Boeing ensures that virtually every relevant committee includes members with a direct Boeing financial relationship. The amounts are modest ($5-10K per member) because the function isn't vote-buying — it's access maintenance.
+**Layer 2. PAC saturation as access guarantee.** By giving to 260+ House members and 42 senators in a single cycle, Boeing ensures that virtually every relevant committee includes members with a direct Boeing financial relationship. The amounts are modest ($5-10K per member) because the function isn't vote-buying, it's access maintenance.
 
-**Layer 3 — Lobbying as regulatory capture.** Boeing's $12-15M annual lobbying operation employs 114 lobbyists, 70% of whom are former government officials. This creates a permanent Boeing presence in every relevant agency and committee — people who understand government processes from the inside and can navigate them on Boeing's behalf.
+**Layer 3. Lobbying as regulatory capture.** Boeing's $12-15M annual lobbying operation employs 114 lobbyists, 70% of whom are former government officials. This creates a permanent Boeing presence in every relevant agency and committee, people who understand government processes from the inside and can navigate them on Boeing's behalf.
 
-**Layer 4 — The revolving door as institutional capture.** Boeing doesn't just hire former officials as lobbyists — it places them on its board and in executive positions, and its former executives move into government leadership (Shanahan at DOD). This two-way flow ensures that Boeing's interests are represented at the highest levels of both government and corporate decision-making.
+**Layer 4. The revolving door as institutional capture.** Boeing doesn't just hire former officials as lobbyists, it places them on its board and in executive positions, and its former executives move into government leadership (Shanahan at DOD). This two-way flow ensures that Boeing's interests are represented at the highest levels of both government and corporate decision-making.
 
-**Layer 5 — Too-big-to-fail as ultimate protection.** Boeing is one of only two global manufacturers of large commercial aircraft and one of the top five defense contractors. The company's failure would be a national security crisis. This structural position means that even when Boeing commits misconduct (737 MAX), absorbs billions in cost overruns (KC-46, VC-25B, T-7A), and produces defective products, it continues to receive contracts and avoid serious legal consequences. The November 2025 dismissal of charges — for crashes that killed 346 people — is the ultimate expression of this protection.
+**Layer 5. Too-big-to-fail as ultimate protection.** Boeing is one of only two global manufacturers of large commercial aircraft and one of the top five defense contractors. The company's failure would be a national security crisis. This structural position means that even when Boeing commits misconduct (737 MAX), absorbs billions in cost overruns (KC-46, VC-25B, T-7A), and produces defective products, it continues to receive contracts and avoid serious legal consequences. The November 2025 dismissal of charges, for crashes that killed 346 people, is the ultimate expression of this protection.
 
-The Both-Sides Illusion pattern is central to Boeing's operation: the company funds both parties almost equally at the committee level, ensuring that partisan control of Congress never threatens Boeing's position. Defense authorization passes with overwhelming bipartisan majorities because both parties' members have Boeing facilities and Boeing PAC money in their districts. Boeing doesn't need to buy votes — it has structured the political landscape so that voting against Boeing means voting against your own constituents' jobs.
+The Both-Sides Illusion pattern is central to Boeing's operation: the company funds both parties almost equally at the committee level, ensuring that partisan control of Congress never threatens Boeing's position. Defense authorization passes with overwhelming bipartisan majorities because both parties' members have Boeing facilities and Boeing PAC money in their districts. Boeing doesn't need to buy votes, it has structured the political landscape so that voting against Boeing means voting against your own constituents' jobs.
 
 ---
 
 ### Sources
 
-- [OpenSecrets: Boeing summary — contributions and lobbying overview](https://www.opensecrets.org/orgs/boeing-co/summary?id=D000000100) (Tier 1) (VERIFIED)
-- [OpenSecrets: Boeing lobbying profile — annual totals and bills lobbied](https://www.opensecrets.org/orgs/boeing-co/lobbying?id=D000000100) (Tier 1) (VERIFIED)
+- [OpenSecrets: Boeing summary, contributions and lobbying overview](https://www.opensecrets.org/orgs/boeing-co/summary?id=D000000100) (Tier 1) (VERIFIED)
+- [OpenSecrets: Boeing lobbying profile, annual totals and bills lobbied](https://www.opensecrets.org/orgs/boeing-co/lobbying?id=D000000100) (Tier 1) (VERIFIED)
 - [OpenSecrets: Boeing PAC contributions to federal candidates 2024](https://www.opensecrets.org/political-action-committees-pacs/boeing-co/C00142711/candidate-recipients/2024) (Tier 1) (VERIFIED)
-- [FEC: The Boeing Company PAC — committee overview and filings](https://www.fec.gov/data/committee/C00142711/) (Tier 1) (VERIFIED)
+- [FEC: The Boeing Company PAC, committee overview and filings](https://www.fec.gov/data/committee/C00142711/) (Tier 1) (VERIFIED)
 - [DOD: Contract announcements](https://www.defense.gov/News/Contracts/) (Tier 1) (NEEDS REVIEW)
-- [Defense News: How Boeing won a US Air Force program and lost $7B — KC-46 cost overruns](https://www.defensenews.com/industry/2024/01/09/cautionary-tale-how-boeing-won-a-us-air-force-program-and-lost-7b/) (Tier 2) (VERIFIED)
+- [Defense News: How Boeing won a US Air Force program and lost $7B. KC-46 cost overruns](https://www.defensenews.com/industry/2024/01/09/cautionary-tale-how-boeing-won-a-us-air-force-program-and-lost-7b/) (Tier 2) (VERIFIED)
 - [Defense News: Boeing wins contract for NGAD fighter jet, dubbed F-47](https://www.defensenews.com/air/2025/03/21/boeing-wins-contract-for-ngad-fighter-jet-dubbed-f-47/) (Tier 2) (VERIFIED)
 - [NPR: Justice Department may prosecute Boeing for 737 Max crashes](https://www.npr.org/2024/05/14/1251477809/boeing-justice-department-charges) (Tier 2) (VERIFIED)
 - [CNBC: Judge dismisses Boeing case for 737 Max crashes at DOJ request](https://www.cnbc.com/2025/11/06/boeing-criminal-case-737-max-crashes-doj.html) (Tier 2) (VERIFIED)
-- ~~[POGO: Corrupted Oversight — The FAA, Boeing, and the 737 Max](https://www.pogo.org/analyses/corrupted-oversight-the-faa-boeing-and-the-737-max)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
-- ~~[POGO: Brass Parachutes — The Problem of the Pentagon Revolving Door](https://www.pogo.org/reports/brass-parachutes)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[POGO: Corrupted Oversight. The FAA, Boeing, and the 737 Max](https://www.pogo.org/analyses/corrupted-oversight-the-faa-boeing-and-the-737-max)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[POGO: Brass Parachutes. The Problem of the Pentagon Revolving Door](https://www.pogo.org/reports/brass-parachutes)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Seattle Times: Congress protests revolving door to Boeing while rushing through it](https://www.seattletimes.com/business/boeing-aerospace/congress-protests-revolving-door-to-boeing-while-rushing-through-it/) (Tier 2) (VERIFIED)
 - [Ballotpedia: Boeing Defense](https://ballotpedia.org/Boeing_Defense) (Tier 3) (VERIFIED)
 

@@ -1,5 +1,5 @@
 ---
-title: "Chris van Hollen Master Profile"
+title: "Chris van Hollen"
 type: politician
 content-readiness: draft
 last-updated: 2026-04-12

@@ -1,5 +1,5 @@
 ---
-title: "Sydney Kamlager-Dove Master Profile"
+title: "Sydney Kamlager-Dove"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

@@ -1,5 +1,5 @@
 ---
-title: "Michael R. Turner Master Profile"
+title: "Michael R. Turner"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

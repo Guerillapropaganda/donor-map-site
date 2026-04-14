@@ -14,7 +14,7 @@ related: "[[_Think Tank Framework]] · [[_Media Pipeline Framework]] · [[Resear
 
 ### Purpose
 
-This section tracks **lobbying firms — the intermediaries who convert donor money into legislative access** — the plumbing of the donor-to-policy pipeline.
+This section tracks **lobbying firms, the intermediaries who convert donor money into legislative access**, the plumbing of the donor-to-policy pipeline.
 
 The Donor Map tracks: Donor → Politician → Policy.
 The Media Pipeline tracks: Donor → Media → Public Consent.
@@ -30,13 +30,13 @@ Lobbying firms are the connective tissue. They employ former staffers who lobby 
 
 ### Isolation Rules
 
-### Same architecture as Media Pipeline and Think Tank sections — fully separate from the main Donor Map vault.
+### Same architecture as Media Pipeline and Think Tank sections, fully separate from the main Donor Map vault.
 
 1. **One-way wikilinks only.** Lobbying firm files link TO donor nodes in `Donors & Power Networks/`. Main vault files NEVER link back. Clean deletion with zero breakage.
 2. **Separate YAML type.** All files use `type: lobbying-firm`. Excluded from main vault stats.
 3. **Excluded from Obsidian Publish** until explicitly added.
 4. **Separate index.** `_Lobbying Firms Index.md` tracks independently.
-5. **Clean deletion.** Delete `topics/Lobbying Firms & K Street/` — vault returns to pre-existing state.
+5. **Clean deletion.** Delete `topics/Lobbying Firms & K Street/`, vault returns to pre-existing state.
 
 ---
 
@@ -58,7 +58,7 @@ Lobbying Firms & K Street/
 └── Cornerstone Government Affairs.md
 ```
 
-**Flat structure** — no subfolders by political orientation. Lobbying firms serve both parties simultaneously. That's the point. Sorting them by party would obscure the analytical finding.
+**Flat structure**, no subfolders by political orientation. Lobbying firms serve both parties simultaneously. That's the point. Sorting them by party would obscure the analytical finding.
 
 ---
 
@@ -87,16 +87,16 @@ Additional fields:
 
 ### Profile Anatomy
 
-1. **Tags** — `#lobbying` `#k-street` required, plus client sector tags
-2. **`related:`** — Wikilinks to donor nodes in `Donors & Power Networks/` that are clients. NEVER link to politician profiles directly.
-3. **`### Who They Are`** — Founded when, headquarters, revenue, headcount, market position
-4. **`### Client List`** — Top clients by billing with dollar amounts. Wikilink to donor nodes where they exist. Organize by sector to show diversification.
-5. **`### The Revolving Door`** — Former government employees now lobbying. For each key hire: Name, Former Position (which politician/agency), Current Role, What They Lobby On. This is the core analytical section.
-6. **`### What They Deliver`** — Specific legislative outcomes traceable to firm lobbying. Bill provisions, regulatory decisions, earmarks, exemptions.
-7. **`### The Bipartisan Model`** — How the firm maintains access to both parties simultaneously. Which partners handle Republican relationships? Which handle Democratic? How does the client list span the aisle?
-8. **`### Billing vs. Outcomes`** — ROI analysis. What did clients pay, and what policy outcomes can be traced to the lobbying?
-9. **`### Class Analysis`** — What structural function does this firm serve? How does professionalizing corruption make it invisible?
-10. **`### Sources`** — `[Source: Description](URL) (Tier X)`
+1. **Tags**, `#lobbying` `#k-street` required, plus client sector tags
+2. **`related:`**. Wikilinks to donor nodes in `Donors & Power Networks/` that are clients. NEVER link to politician profiles directly.
+3. **`### Who They Are`**. Founded when, headquarters, revenue, headcount, market position
+4. **`### Client List`**. Top clients by billing with dollar amounts. Wikilink to donor nodes where they exist. Organize by sector to show diversification.
+5. **`### The Revolving Door`**. Former government employees now lobbying. For each key hire: Name, Former Position (which politician/agency), Current Role, What They Lobby On. This is the core analytical section.
+6. **`### What They Deliver`**. Specific legislative outcomes traceable to firm lobbying. Bill provisions, regulatory decisions, earmarks, exemptions.
+7. **`### The Bipartisan Model`**. How the firm maintains access to both parties simultaneously. Which partners handle Republican relationships? Which handle Democratic? How does the client list span the aisle?
+8. **`### Billing vs. Outcomes`**. ROI analysis. What did clients pay, and what policy outcomes can be traced to the lobbying?
+9. **`### Class Analysis`**. What structural function does this firm serve? How does professionalizing corruption make it invisible?
+10. **`### Sources`**, `[Source: Description](URL) (Tier X)`
 
 ---
 
@@ -108,8 +108,8 @@ Additional fields:
 | **Bipartisan Access Machine** | Firm that maintains active relationships with both party leaderships simultaneously |
 | **Bill Language Authorship** | Cases where lobbying firm drafted legislative language that appeared verbatim in enacted legislation |
 | **Bundling Operation** | Firm whose lobbyists serve as campaign contribution bundlers for the politicians they lobby |
-| **Regulatory Shuttle** | Lobbyists who move between the firm, regulatory agencies, and back — carrying client priorities both ways |
-| **Client Conflict Laundering** | Firm representing competing clients (e.g., pharma company AND health insurer) — extracting fees from both sides of the same policy fight |
+| **Regulatory Shuttle** | Lobbyists who move between the firm, regulatory agencies, and back, carrying client priorities both ways |
+| **Client Conflict Laundering** | Firm representing competing clients (e.g. pharma company AND health insurer), extracting fees from both sides of the same policy fight |
 
 ---
 
@@ -150,7 +150,7 @@ The lobbying firm profiles connect to donor nodes as CLIENTS of the firm. The do
 
 ### Build Priority
 
-### Phase 1 — Top 10 firms by lobbying revenue:
+### Phase 1. Top 10 firms by lobbying revenue:
 
 | # | Firm | Why First |
 |---|------|-----------|

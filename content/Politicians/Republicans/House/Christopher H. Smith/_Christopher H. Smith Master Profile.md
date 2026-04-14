@@ -1,5 +1,5 @@
 ---
-title: "Christopher H. Smith Master Profile"
+title: "Christopher H. Smith"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

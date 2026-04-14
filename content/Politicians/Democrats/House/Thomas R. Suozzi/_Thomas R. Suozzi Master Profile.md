@@ -1,5 +1,5 @@
 ---
-title: "Thomas R. Suozzi Master Profile"
+title: "Thomas R. Suozzi"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

@@ -1,5 +1,5 @@
 ---
-title: "Mark Alford Master Profile"
+title: "Mark Alford"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

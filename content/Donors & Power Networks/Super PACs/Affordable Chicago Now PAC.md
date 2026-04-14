@@ -110,8 +110,8 @@ The paired PAC strategy (Elect Chicago Women + Affordable Chicago Now) also reve
 ### Sources
 
 - [The American Prospect: AIPAC Coordinates Donors in Illinois House Primaries](https://prospect.org/2026/02/06/aipac-coordinates-donors-in-illinois-house-primaries/) (Tier 2) (VERIFIED)
-- ~~[FEC: Affordable Chicago Now PAC filings](https://www.fec.gov/data/committee/C00935049/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[FEC: Affordable Chicago Now PAC filings](https://www.fec.gov/data/committee/C00935049/)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [OpenSecrets: AIPAC Illinois spending 2024](https://www.opensecrets.org/news/) (Tier 2) (VERIFIED)
 - [OpenSecrets: AIPAC-backed candidates won midterm races following big spending by group's super PAC](https://www.opensecrets.org/news/2022/11/american-israel-public-affairs-committee-backed-candidates-won-midterm-races-following-big-spending-by-groups-super-pac/) (Tier 1) (VERIFIED)
-- ~~[Chicago Tribune: AIPAC spending in Illinois House 2024](https://www.chicagotribune.com/politics/ct-aipac-spending-illinois-20240930-story.html)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3)
+- ~~[Chicago Tribune: AIPAC spending in Illinois House 2024](https://www.chicagotribune.com/politics/ct-aipac-spending-illinois-20240930-story.html)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
 

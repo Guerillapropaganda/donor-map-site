@@ -1,9 +1,9 @@
 ---
-title: "Jon Husted Master Profile"
+title: "Jon Husted"
 type: politician
 bioguide-id: "H001104"
 content-readiness: draft
-central-thesis: "Husted represents the establishment Republican faction in Ohio—a reliable vote for corporate donors and wealthy individuals with regulatory interests before state and federal agencies. His long tenure in Ohio Republican politics positions him as a..."
+central-thesis: "Husted represents the establishment Republican faction in Ohio, a reliable vote for corporate donors and wealthy individuals with regulatory interests before state and federal agencies. His long tenure in Ohio Republican politics positions him as a..."
 last-updated: 2026-04-08
 source-tier: 1
 parent: null
@@ -40,14 +40,14 @@ donors: [[Les Wexner - Wexner Family Enterprises|Les Wexner]] · [[Centene Corpo
 
 ## The Central Thesis
 
-Husted represents the establishment Republican faction in Ohio—a reliable vote for corporate donors and wealthy individuals with regulatory interests before state and federal agencies. His long tenure in Ohio Republican politics positions him as a safe conduit for business donors seeking legislative protection from Democratic-controlled interests. His 2026 Senate run against former Senator Sherrod Brown, who lost his seat in 2024 but represents residual working-class Democratic power in Ohio, frames this race as a test of whether Ohio's rightward shift is permanent or contingent on Democratic infrastructure collapse. Husted's funding base reflects networks built during his years as Secretary of State and Lt. Governor—business PACs, real estate developers, and wealthy individuals with state regulatory exposure.
+Husted represents the establishment Republican faction in Ohio, a reliable vote for corporate donors and wealthy individuals with regulatory interests before state and federal agencies. His long tenure in Ohio Republican politics positions him as a safe conduit for business donors seeking legislative protection from Democratic-controlled interests. His 2026 Senate run against former Senator Sherrod Brown, who lost his seat in 2024 but represents residual working-class Democratic power in Ohio, frames this race as a test of whether Ohio's rightward shift is permanent or contingent on Democratic infrastructure collapse. Husted's funding base reflects networks built during his years as Secretary of State and Lt. Governor, business PACs, real estate developers, and wealthy individuals with state regulatory exposure.
 
 > [!money]
 > As of December 2025, Husted's "Husted for Senate" committee raised $7.3 million in total receipts for his 2025–2026 cycle, with approximately $6 million in cash on hand. Major funding comes from corporate PACs, wealthy individual donors, and affiliated Republican committees.
 
 ## The Core Contradiction
 
-Husted frames himself as a defender of Ohio jobs and workers while accepting substantial funding from donors with direct conflicts with working-class interests. He sits on the Senate Committee on Health, Education, Labor, and Pensions, where he advocates for business-friendly healthcare and labor policies, yet he accepted $116,892 from Les Wexner—the Epstein associate later identified as a co-conspirator in the Epstein federal investigation—between 2001 and 2025, including a $3,500 donation in July 2025. Two months after that July donation, Husted voted to block the bipartisan Senate amendment to release Epstein investigation documents, creating the appearance of quid pro quo on behalf of a donor with catastrophic reputational liability.
+Husted frames himself as a defender of Ohio jobs and workers while accepting substantial funding from donors with direct conflicts with working-class interests. He sits on the Senate Committee on Health, Education, Labor, and Pensions, where he advocates for business-friendly healthcare and labor policies, yet he accepted $116,892 from Les Wexner, the Epstein associate later identified as a co-conspirator in the Epstein federal investigation, between 2001 and 2025, including a $3,500 donation in July 2025. Two months after that July donation, Husted voted to block the bipartisan Senate amendment to release Epstein investigation documents, creating the appearance of quid pro quo on behalf of a donor with catastrophic reputational liability.
 
 > [!contradiction]
 > On September 10, 2025, Husted voted against releasing Epstein investigation documents just two months after receiving $3,500 from Les Wexner (July 3, 2025). Husted claimed he would donate the money to charity, and later reported donating $34,300 combined from Les and Abigail Wexner to Freedom a la Cart Cafe, a sex trafficking survivors' nonprofit. However, the timing—donation followed by vote—exposes the structural relationship: wealthy donors make contributions, then expect responsive votes on issues affecting them personally. Husted's earlier vote to block the documents contradicts his later public claim that the Epstein files matter; it shows he acts on donor pressure first, public opinion second.
@@ -56,20 +56,20 @@ Husted frames himself as a defender of Ohio jobs and workers while accepting sub
 
 ## Donation-to-Policy Timeline
 
-*Note: the Wexner-Epstein sequence is the starkest in the vault — $3,500 donation from an Epstein co-conspirator on July 3, 2025, followed 69 days later by a vote to block Epstein document release. The 24-year, $116,892 investment in Husted produced a protective vote when Wexner needed it most.*
+*Note: the Wexner-Epstein sequence is the starkest in the vault, $3,500 donation from an Epstein co-conspirator on July 3, 2025, followed 69 days later by a vote to block Epstein document release. The 24-year, $116,892 investment in Husted produced a protective vote when Wexner needed it most.*
 
 #### Les Wexner / Epstein Document Protection
 
 | Date | Donor | Amount | Given | Policy Outcome |
 |------|-------|--------|-------|----------------|
-| 2025-09 | [[Les Wexner - Wexner Family Enterprises|Les Wexner]] (L Brands founder, Epstein co-conspirator) — $3,500 donation to Husted Senate campaign; only sitting senator up in 2026 to accept Wexner money | $116,892 cumulative (2001–2025); $3,500 latest (July 3, 2025) | 2001–2025 (24-year relationship) | Votes to block Epstein investigation document release (September 10, 2025) — exactly 69 days after Wexner's latest donation; reversed in November under public pressure |
-| 2026-02 | Wexner damage control — Husted donates $34,300 (Les + Abigail Wexner combined) to Freedom a la Cart Cafe (sex trafficking survivors nonprofit) | $34,300 donated to charity | 2025–2026 | Damage control 7 months after protective vote; Wexner's donations already served their purpose; charitable donation converts reputational liability into moral narrative |
+| 2025-09 | [[Les Wexner - Wexner Family Enterprises|Les Wexner]] (L Brands founder, Epstein co-conspirator), $3,500 donation to Husted Senate campaign; only sitting senator up in 2026 to accept Wexner money | $116,892 cumulative (2001–2025); $3,500 latest (July 3, 2025) | 2001–2025 (24-year relationship) | Votes to block Epstein investigation document release (September 10, 2025), exactly 69 days after Wexner's latest donation; reversed in November under public pressure |
+| 2026-02 | Wexner damage control. Husted donates $34,300 (Les + Abigail Wexner combined) to Freedom a la Cart Cafe (sex trafficking survivors nonprofit) | $34,300 donated to charity | 2025–2026 | Damage control 7 months after protective vote; Wexner's donations already served their purpose; charitable donation converts reputational liability into moral narrative |
 
 #### Centene / Corporate PAC / Regulatory Capture
 
 | Date | Donor | Amount | Given | Policy Outcome |
 |------|-------|--------|-------|----------------|
-| 2025-Q3 | [[Centene Corporation]] executives — company paid Ohio $88.3M to settle Medicaid misconduct allegations; then donated to senator overseeing Medicaid | $29,000+ from Centene executives | 2025-Q3 | Husted serves on Health, Education, Labor, and Pensions Committee — jurisdiction over Medicaid oversight, the same program Centene defrauded; $88M misconduct settlement → $29K investment in oversight committee member |
+| 2025-Q3 | [[Centene Corporation]] executives, company paid Ohio $88.3M to settle Medicaid misconduct allegations; then donated to senator overseeing Medicaid | $29,000+ from Centene executives | 2025-Q3 | Husted serves on Health, Education, Labor, and Pensions Committee, jurisdiction over Medicaid oversight, the same program Centene defrauded; $88M misconduct settlement → $29K investment in oversight committee member |
 | 2025-Q4 | Corporate PACs (~$2M), real estate/development (~$800K), financial services (~$600K) | $4.6M+ from corporate/PAC sources | 2025 ongoing | Business-friendly healthcare, labor, and regulatory policies; deregulation support; reliable corporate vote purchased by aggregate PAC funding |
 
 #### Republican Leadership / Party Infrastructure
@@ -100,9 +100,9 @@ The Centene pipeline follows the same pattern. Centene Corporation paid Ohio $88
 
 ## Analytical Patterns
 
-**The Genuine Win + Structural Limit** — Husted has secured genuine policy victories on business regulatory relief and tax framework issues that serve his corporate PAC donors. However, these wins are narrowly constructed: relief flows to established corporations (Centene, real estate interests, financial services) while avoiding threats to the wealth extraction mechanisms themselves. His votes on healthcare and labor policy protect corporate donor interests without challenging the structural imbalances his committee jurisdiction oversees.
+**The Genuine Win + Structural Limit**. Husted has secured genuine policy victories on business regulatory relief and tax framework issues that serve his corporate PAC donors. However, these wins are narrowly constructed: relief flows to established corporations (Centene, real estate interests, financial services) while avoiding threats to the wealth extraction mechanisms themselves. His votes on healthcare and labor policy protect corporate donor interests without challenging the structural imbalances his committee jurisdiction oversees.
 
-**The Two-Audience Problem** — Husted frames himself as a "defender of Ohio jobs and workers" while his voting record and donor base are overwhelmingly corporate and regulatory-capture oriented. His donation from Centene (after that company paid $88.3M to settle Medicaid misconduct allegations) followed by his committee appointment to oversee Medicaid creates the appearance of quid pro quo service. His public claim about charitable donation of Wexner funds was damage control after his September vote to block Epstein documents revealed the timing problem.
+**The Two-Audience Problem**. Husted frames himself as a "defender of Ohio jobs and workers" while his voting record and donor base are overwhelmingly corporate and regulatory-capture oriented. His donation from Centene (after that company paid $88.3M to settle Medicaid misconduct allegations) followed by his committee appointment to oversee Medicaid creates the appearance of quid pro quo service. His public claim about charitable donation of Wexner funds was damage control after his September vote to block Epstein documents revealed the timing problem.
 
 ---
 
@@ -122,7 +122,7 @@ The Centene pipeline follows the same pattern. Centene Corporation paid Ohio $88
 
 3. **Outsider Against Insider Democrats**: Husted presents Brown as a Washington lifer, while his 20+ years in Ohio state politics is reframed as "executive experience" rather than incumbent establishment credentials.
 
-4. **Party Loyalty and Institutional Respect**: Husted votes with Republicans reliably and speaks about institutional values, institutional norms, and parliamentary procedure—code for deference to Senate leadership and donor networks within the chamber.
+4. **Party Loyalty and Institutional Respect**: Husted votes with Republicans reliably and speaks about institutional values, institutional norms, and parliamentary procedure, code for deference to Senate leadership and donor networks within the chamber.
 
 5. **Charitable Giving as Damage Control**: When the Wexner controversy erupted, Husted's team pivoted immediately to publicizing his donation of Wexner funds to a sex trafficking nonprofit, converting reputational liability into moral narrative without addressing the structural conflict.
 
@@ -148,7 +148,7 @@ The Centene pipeline follows the same pattern. Centene Corporation paid Ohio $88
 
 - [FEC.gov: Candidate Jon Husted (S6OH00304)](https://www.fec.gov/data/candidate/S6OH00304/) (Tier 1) (VERIFIED)
 - [FEC.gov: Committee "Husted for Senate" (C00896019)](https://www.fec.gov/data/committee/C00896019/) (Tier 1) (VERIFIED)
-- ~~[Jon Husted sitting on $2.6 million for 2026 U.S. Senate race](https://www.nbc4i.com/news/your-local-election-hq/jon-husted-sitting-on-2-6-million-for-2026-u-s-senate-race-as-sherrod-brown-mulls-run/)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3)
+- ~~[Jon Husted sitting on $2.6 million for 2026 U.S. Senate race](https://www.nbc4i.com/news/your-local-election-hq/jon-husted-sitting-on-2-6-million-for-2026-u-s-senate-race-as-sherrod-brown-mulls-run/)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
 - [Sen. Jon Husted received donations from Epstein associate Les Wexner. We followed the money](https://www.snopes.com/fact-check/jon-husted-les-wexner-epstein/) (Tier 2) (VERIFIED)
 - [Husted took donations from Epstein 'co-conspirator' Les Wexner, then voted to block file release](https://tiffinohio.net/posts/husted-took-donations-from-epstein-co-conspirator-les-wexner-then-voted-to-block-file-release/) (Tier 2) (VERIFIED)
 - [The New Republic: MAGA Senator Took Donation From Epstein Friend Before Key Vote](https://newrepublic.com/post/206564/maga-senator-donation-epstein-conspirator-vote-block-files) (Tier 2) (VERIFIED)

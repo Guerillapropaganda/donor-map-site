@@ -1,5 +1,5 @@
 ---
-title: "Michael Cloud Master Profile"
+title: "Michael Cloud"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

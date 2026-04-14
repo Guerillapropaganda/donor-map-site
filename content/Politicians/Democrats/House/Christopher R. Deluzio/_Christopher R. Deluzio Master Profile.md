@@ -1,5 +1,5 @@
 ---
-title: "Christopher R. Deluzio Master Profile"
+title: "Christopher R. Deluzio"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

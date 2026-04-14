@@ -1,5 +1,5 @@
 ---
-title: "Lisa Jackson Master Profile"
+title: "Lisa Jackson"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

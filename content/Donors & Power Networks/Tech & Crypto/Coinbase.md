@@ -36,7 +36,7 @@ lei: "549300QHD76EP6ZKTT48"
 lei-jurisdiction: "US-DE"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
-related: "[[Crypto PAC Regulatory Capture - Fairshake 2026]] · [[Crypto and AIPAC's Georgia Strategy]] · [[Crypto and Tech - Donors and Backers]] · [[The Financial Services Legacy and Crypto Deregulation]] · [[The FIT21 Act and Crypto Industry Capture]] · [[From Senate to K Street - The Revolving Door]] · [[Crypto vs. Institutional Democrats in Illinois]] · [[Cryptocurrency Industry Bloc — Fairshake PAC Network]] · [[Crypto Industry Bloc]] · [[Cryptocurrency Industry]] · [[Fairshake PAC]] · [[Marc Andreessen & Horowitz]] · [[_French Hill Master Profile|French Hill]] · [[FTX - Sam Bankman-Fried]] · [[Paul Atkins Master Profile]] · [[Brian Armstrong]] · [[Winklevoss Twins]] · [[Ross Stevens]]"
+related: "[[Crypto PAC Regulatory Capture - Fairshake 2026]] · [[Crypto and AIPAC's Georgia Strategy]] · [[Crypto and Tech - Donors and Backers]] · [[The Financial Services Legacy and Crypto Deregulation]] · [[The FIT21 Act and Crypto Industry Capture]] · [[From Senate to K Street - The Revolving Door]] · [[Crypto vs. Institutional Democrats in Illinois]] · [[Cryptocurrency Industry Bloc , Fairshake PAC Network]] · [[Crypto Industry Bloc]] · [[Cryptocurrency Industry]] · [[Fairshake PAC]] · [[Marc Andreessen & Horowitz]] · [[_French Hill Master Profile|French Hill]] · [[FTX - Sam Bankman-Fried]] · [[Paul Atkins Master Profile]] · [[Brian Armstrong]] · [[Winklevoss Twins]] · [[Ross Stevens]]"
 federal-awards-total: 0
 federal-contracts-count: 3
 federal-grants-count: 0
@@ -51,7 +51,7 @@ The needs-reenrichment flag has been set. The next scheduled pipeline run will p
 
 ### Who They Are
 
-Coinbase Global, Inc. The largest cryptocurrency exchange in the United States and the crypto industry's primary political vehicle. CEO Brian Armstrong has transformed Coinbase from a trading platform into the crypto industry's lobbying engine — the company spent $3.5 million on federal lobbying in 2024, contributed $48,000+ directly to [[_French Hill Master Profile|French Hill]] (HFSC Chairman), and is the largest single contributor to [[Fairshake PAC]], the crypto industry super PAC that spent $134 million in the 2024 cycle — more than any other corporate-backed super PAC.
+Coinbase Global, Inc. The largest cryptocurrency exchange in the United States and the crypto industry's primary political vehicle. CEO Brian Armstrong has transformed Coinbase from a trading platform into the crypto industry's lobbying engine, the company spent $3.5 million on federal lobbying in 2024, contributed $48,000+ directly to [[_French Hill Master Profile|French Hill]] (HFSC Chairman), and is the largest single contributor to [[Fairshake PAC]], the crypto industry super PAC that spent $134 million in the 2024 cycle, more than any other corporate-backed super PAC.
 
 Coinbase's political operation is proportionally the most aggressive of any company its size in American history. The company's 2024 political spending relative to its revenue ($6.6 billion) far exceeds the lobbying-to-revenue ratio of even the largest pharmaceutical and defense companies.
 
@@ -61,7 +61,7 @@ Coinbase's political operation is proportionally the most aggressive of any comp
 
 ### What They Want
 
-Coinbase's single overriding priority: regulatory clarity that classifies most cryptocurrencies as commodities (regulated by the CFTC) rather than securities (regulated by the SEC). This distinction is existential — SEC regulation would require Coinbase to register as a securities exchange, subject every listed token to securities disclosure requirements, and fundamentally transform the company's business model. CFTC regulation is lighter, cheaper, and more permissive.
+Coinbase's single overriding priority: regulatory clarity that classifies most cryptocurrencies as commodities (regulated by the CFTC) rather than securities (regulated by the SEC). This distinction is existential. SEC regulation would require Coinbase to register as a securities exchange, subject every listed token to securities disclosure requirements, and fundamentally transform the company's business model. CFTC regulation is lighter, cheaper, and more permissive.
 
 Secondary priorities: prevent CFPB or state regulatory authority over crypto transactions, establish stablecoin legislation that legitimizes Coinbase's USDC partnership with Circle, and shape anti-money-laundering rules to minimize compliance costs.
 
@@ -72,15 +72,15 @@ Secondary priorities: prevent CFPB or state regulatory authority over crypto tra
 Coinbase's political spending flows through three channels: Coinbase PAC (direct contributions), Coinbase employee contributions (bundled through the PAC), and contributions to [[Fairshake PAC]] (the industry super PAC).
 
 ### Key relationships:
-- [[_French Hill Master Profile|French Hill]] — HFSC Chairman; $48,000+ from Coinbase PAC and employees in 2023-2024
-- [[Fairshake PAC]] — Coinbase is the largest corporate funder; $45 million contributed
+- [[_French Hill Master Profile|French Hill]]. HFSC Chairman; $48,000+ from Coinbase PAC and employees in 2023-2024
+- [[Fairshake PAC]]. Coinbase is the largest corporate funder; $45 million contributed
 - House and Senate members who voted for FIT21
 
 ---
 
 ### What They've Gotten
 
-**FIT21 Passage (2024):** The Financial Innovation and Technology for the 21st Century Act passed the House 279-136 — establishing the CFTC-primary framework Coinbase lobbied for. Hill co-authored the bill. Coinbase's $48,000 in contributions to Hill preceded his authorship of the company's preferred regulatory framework.
+**FIT21 Passage (2024):** The Financial Innovation and Technology for the 21st Century Act passed the House 279-136, establishing the CFTC-primary framework Coinbase lobbied for. Hill co-authored the bill. Coinbase's $48,000 in contributions to Hill preceded his authorship of the company's preferred regulatory framework.
 
 **SEC Enforcement Pressure Reduced:** Under the second Trump administration, the SEC dropped its enforcement case against Coinbase (filed in 2023), reducing the regulatory threat to the company's business model.
 
@@ -93,13 +93,13 @@ Coinbase's political spending flows through three channels: Coinbase PAC (direct
 
 ### The FTX Shadow
 
-Coinbase's political operation intensified after the collapse of FTX and the conviction of Sam Bankman-Fried — who had been the crypto industry's largest political donor before his misconduct was exposed. Coinbase positioned itself as the "responsible" alternative: a publicly traded, regulated company that could be trusted with the industry's political advocacy. But Coinbase's policy agenda is identical to FTX's — the same deregulatory framework, the same CFTC preference, the same resistance to SEC oversight. The messenger changed; the message did not.
+Coinbase's political operation intensified after the collapse of FTX and the conviction of Sam Bankman-Fried, who had been the crypto industry's largest political donor before his misconduct was exposed. Coinbase positioned itself as the "responsible" alternative: a publicly traded, regulated company that could be trusted with the industry's political advocacy. But Coinbase's policy agenda is identical to FTX's, the same deregulatory framework, the same CFTC preference, the same resistance to SEC oversight. The messenger changed; the message did not.
 
 ---
 
 ### Class Analysis
 
-Coinbase is the crypto industry's political infrastructure. The company's $45 million Fairshake investment is not a donation — it is the purchase of a regulatory environment. The crypto industry's business model depends on operating outside the securities regulatory framework that governs traditional finance. Coinbase's political operation buys that exemption by funding candidates who will write it into law. The rhetoric frames this as "innovation" and "financial inclusion"; the material function is creating a parallel financial system where crypto companies can operate without the disclosure, consumer protection, and anti-misconduct requirements that apply to banks and brokerages. The retail investors who use Coinbase bear the risks; the company and its venture capital backers capture the fees.
+Coinbase is the crypto industry's political infrastructure. The company's $45 million Fairshake investment is not a donation, it is the purchase of a regulatory environment. The crypto industry's business model depends on operating outside the securities regulatory framework that governs traditional finance. Coinbase's political operation buys that exemption by funding candidates who will write it into law. The rhetoric frames this as "innovation" and "financial inclusion"; the material function is creating a parallel financial system where crypto companies can operate without the disclosure, consumer protection, and anti-misconduct requirements that apply to banks and brokerages. The retail investors who use Coinbase bear the risks; the company and its venture capital backers capture the fees.
 
 ---
 
@@ -109,8 +109,8 @@ Coinbase is the crypto industry's political infrastructure. The company's $45 mi
 - [FEC: Coinbase PAC filings](https://www.fec.gov/data/committee/C00810184/) (Tier 1) (VERIFIED)
 - [FEC: Fairshake PAC filings](https://www.fec.gov/data/committee/C00835959/) (Tier 1) (VERIFIED)
 - [ReadSludge: Crypto Ally French Hill to Lead Financial Services Committee](https://readsludge.com/2024/12/31/crypto-ally-french-hill-to-lead-financial-services-committee/) (Tier 2) (VERIFIED)
-- ~~[The Verge: Coinbase political spending and Fairshake PAC](https://www.theverge.com/coinbase-fairshake-pac-political-spending/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
-- ~~[Washington Post: Crypto cash helps propel Trump, other allies to 2024 election victory](https://www.washingtonpost.com/business/2024/11/06/crypto-cash-helps-propel-trump-other-allies-2024-election-victory/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[The Verge: Coinbase political spending and Fairshake PAC](https://www.theverge.com/coinbase-fairshake-pac-political-spending/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Washington Post: Crypto cash helps propel Trump, other allies to 2024 election victory](https://www.washingtonpost.com/business/2024/11/06/crypto-cash-helps-propel-trump-other-allies-2024-election-victory/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Ballotpedia: Coinbase political spending](https://ballotpedia.org/Coinbase) (Tier 3) (VERIFIED)
 
 ---

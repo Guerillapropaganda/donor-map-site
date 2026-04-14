@@ -41,7 +41,7 @@ donors: [[GEO Group]] · [[Ballard Partners]]
 
 Bondi's Qatar lobbying created the most direct foreign-government conflict:
 
-- **Registration:** FARA (Foreign Agents Registration Act) — the law DOJ enforces
+- **Registration:** FARA (Foreign Agents Registration Act), the law DOJ enforces
 - **Compensation:** $115,000/month to Ballard Partners (Bondi's share undisclosed)
 - **Duration:** July 2019 – 2024 (with impeachment leave)
 - **Stated purpose:** "Government relations strategic advice and advocacy" for US-Qatar bilateral relations, trade, investment
@@ -53,7 +53,7 @@ The AG who enforces FARA was herself a registered foreign agent. The AG who over
 
 ### The [[GEO Group|GEO Group]] Pipeline
 
-Bondi lobbied for [[GEO Group|GEO Group]] — the largest private prison company in America. GEO's primary revenue source: federal Immigration and Customs Enforcement (ICE) contracts. As Attorney General:
+Bondi lobbied for [[GEO Group|GEO Group]], the largest private prison company in America. GEO's primary revenue source: federal Immigration and Customs Enforcement (ICE) contracts. As Attorney General:
 
 - Bondi directs DOJ immigration enforcement priorities
 - Immigration enforcement expansion directly increases ICE detention

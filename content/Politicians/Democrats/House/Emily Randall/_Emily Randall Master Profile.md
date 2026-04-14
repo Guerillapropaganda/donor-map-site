@@ -1,5 +1,5 @@
 ---
-title: "Emily Randall Master Profile"
+title: "Emily Randall"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

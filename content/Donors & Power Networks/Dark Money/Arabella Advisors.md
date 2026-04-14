@@ -42,23 +42,23 @@ sec-form-types:
 
 ### Who They Are
 
-[[Arabella Advisors|Arabella Advisors]] is the operational hub of the Democratic Party's dark money infrastructure—a for-profit consulting firm that manages seven interconnected 501(c)(4) nonprofits collectively deployed to distribute $1.7B+ across electoral campaigns, judicial appointments, ballot measures, and policy advocacy while maintaining permanent donor anonymity. Founded by Eric Kessler in 2007, Arabella functions as the Democratic equivalent to [[Leonard Leo|Leonard Leo]]'s Federalist Society apparatus: it doesn't raise money itself, it structures how anonymous wealth deploys political power. The firm collected $220M+ in management fees (2020-2024) by operating what it calls "fiscal sponsorship networks"—essentially, it manages other organizations' money while those organizations maintain no independent disclosure obligations. [InfluenceWatch: Arabella Advisors](https://www.influencewatch.org/for-profit/arabella-advisors/) (Tier 3) (VERIFIED) The architecture allows anonymous donors to write one check to Arabella, which then distributes funds to dozens of separate advocacy vehicles, ballot campaigns, and "pop-up" organizations created for single election cycles and dissolved after victory or defeat. Donors never appear in public records.
+[[Arabella Advisors|Arabella Advisors]] is the operational hub of the Democratic Party's dark money infrastructure, a for-profit consulting firm that manages seven interconnected 501(c)(4) nonprofits collectively deployed to distribute $1.7B+ across electoral campaigns, judicial appointments, ballot measures, and policy advocacy while maintaining permanent donor anonymity. Founded by Eric Kessler in 2007, Arabella functions as the Democratic equivalent to [[Leonard Leo|Leonard Leo]]'s Federalist Society apparatus: it doesn't raise money itself, it structures how anonymous wealth deploys political power. The firm collected $220M+ in management fees (2020-2024) by operating what it calls "fiscal sponsorship networks", essentially, it manages other organizations' money while those organizations maintain no independent disclosure obligations. [InfluenceWatch: Arabella Advisors](https://www.influencewatch.org/for-profit/arabella-advisors/) (Tier 3) (VERIFIED) The architecture allows anonymous donors to write one check to Arabella, which then distributes funds to dozens of separate advocacy vehicles, ballot campaigns, and "pop-up" organizations created for single election cycles and dissolved after victory or defeat. Donors never appear in public records.
 
 ### What They Want
 
-Arabella's stated mission is "progressive advocacy and infrastructure." What that means operationally: Democratic Party dominance maintained through systematic opacity. The five primary "pop-up" nonprofit vehicles—[[Sixteen Thirty Fund|Sixteen Thirty Fund]], New Venture Fund, Windward Fund, Hopewell Fund, North Fund—are deployed to:
+Arabella's stated mission is "progressive advocacy and infrastructure." What that means operationally: Democratic Party dominance maintained through systematic opacity. The five primary "pop-up" nonprofit vehicles, [[Sixteen Thirty Fund|Sixteen Thirty Fund]], New Venture Fund, Windward Fund, Hopewell Fund, North Fund, are deployed to:
 
-1. **Ballot measure campaigns** — abortion access (post-Dobbs), climate policy, voting rights expansion
-2. **Electoral infrastructure** — temporary state-level advocacy organizations created for Senate/House races, dissolved post-election
-3. **Judicial appointment warfare** — funding [[Demand Justice|Demand Justice]]'s confirmation battle operations ($50M+ 2018-2024)
-4. **Democratic Party institutional protection** — funding organizations that coordinate with DNC/DCCC messaging and endorsement strategies
-5. **Donor anonymity as product** — the fundamental service Arabella sells is legal opacity. Wealthy Democrats can deploy $10M+ in political campaigns without appearing in any public record.
+1. **Ballot measure campaigns**, abortion access (post-Dobbs), climate policy, voting rights expansion
+2. **Electoral infrastructure**, temporary state-level advocacy organizations created for Senate/House races, dissolved post-election
+3. **Judicial appointment warfare**, funding [[Demand Justice|Demand Justice]]'s confirmation battle operations ($50M+ 2018-2024)
+4. **Democratic Party institutional protection**, funding organizations that coordinate with DNC/DCCC messaging and endorsement strategies
+5. **Donor anonymity as product**, the fundamental service Arabella sells is legal opacity. Wealthy Democrats can deploy $10M+ in political campaigns without appearing in any public record.
 
 The business model depends on perpetuating exactly what Democratic political rhetoric condemns: Citizens United legalized dark money. Arabella institutionalized it as party infrastructure.
 
 ### How the Structure Works
 
-### The Arabella Seven — Interconnected 501(c)(4)s:
+### The Arabella Seven. Interconnected 501(c)(4)s:
 | Vehicle | Year Created | 2024 Spending | Primary Function | Dissolution Pattern |
 |---------|---|---|---|---|
 | **[[Sixteen Thirty Fund|Sixteen Thirty Fund]]** | 2010 | ~$311M | Flagship fiscal sponsor; judicial, ballot, electoral | Permanent |
@@ -69,43 +69,43 @@ The business model depends on perpetuating exactly what Democratic political rhe
 | **Telescope Fund** | Created later | ~$50M+ | Technology, innovation, misc. | Permanent |
 | **Impetus Fund** | Created later | ~$40M+ | Economic/labor justice initiatives | Permanent |
 
-**Total combined raised 2024:** $1.5B+ (represents roughly 12-15% of all Democratic political spending in a cycle year). ~~[Arabella Advisors - Nonprofit Quarterly](https://nonprofitquarterly.org/arabella-advisors-grows-as-a-major-dem-player/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+**Total combined raised 2024:** $1.5B+ (represents roughly 12-15% of all Democratic political spending in a cycle year). ~~[Arabella Advisors - Nonprofit Quarterly](https://nonprofitquarterly.org/arabella-advisors-grows-as-a-major-dem-player/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 
-### Operational mechanics — How donor anonymity is preserved:
-1. **Anonymous donor writes check to Arabella-managed 501(c)(4)** (e.g., Sixteen Thirty Fund) with no contribution limits and zero donor disclosure requirements.
+### Operational mechanics. How donor anonymity is preserved:
+1. **Anonymous donor writes check to Arabella-managed 501(c)(4)** (e.g. Sixteen Thirty Fund) with no contribution limits and zero donor disclosure requirements.
 
 2. **Arabella distributes funds as grants to project organizations**, which can be:
-   - Permanent advocacy groups ([[Demand Justice|Demand Justice]], various think tanks)
-   - Temporary "pop-up" organizations created for single election cycles
-   - Other nonprofits with separate 501(c)(4) status
+ - Permanent advocacy groups ([[Demand Justice|Demand Justice]], various think tanks)
+ - Temporary "pop-up" organizations created for single election cycles
+ - Other nonprofits with separate 501(c)(4) status
 
 3. **Pop-up organizations operate fully during one election cycle**, then dissolve. Examples:
-   - **Piedmont Rising (North Carolina, 2020)** — created to target Senate races, dissolved post-election
-   - **Advancing Arizona (2020)** — state-specific Senate operations, temporary entity
-   - **Rocky Mountain Values (Colorado, 2020)** — defunct after 2020 election
-   - **Health Care Voter (2020)** — created to run ACA defense ads, then shuttered
-   - **Protect Our Care (2020)** — single-cycle entity, no independent legal existence
+ - **Piedmont Rising (North Carolina, 2020)**, created to target Senate races, dissolved post-election
+ - **Advancing Arizona (2020)**, state-specific Senate operations, temporary entity
+ - **Rocky Mountain Values (Colorado, 2020)**, defunct after 2020 election
+ - **Health Care Voter (2020)**, created to run ACA defense ads, then shuttered
+ - **Protect Our Care (2020)**, single-cycle entity, no independent legal existence
 
-4. **Grants flow through fiscal sponsorship agreements** — the pop-up organization files no separate tax return, maintains no separate board, and discloses nothing. To the public, the donor trace stops at Arabella.
+4. **Grants flow through fiscal sponsorship agreements**, the pop-up organization files no separate tax return, maintains no separate board, and discloses nothing. To the public, the donor trace stops at Arabella.
 
 [Capital Research Center: Out of Darkness, Cash](https://capitalresearch.org/article/out-of-darkness-cash-part-1/) (Tier 3) (VERIFIED) This structure is entirely legal and has become Democratic Party standard operating procedure.
 
-### Demand Justice case study — Fiscal sponsorship to separation:
-Demand Justice operated as a Sixteen Thirty Fund sub-project (2018-2021) with zero separate disclosure. It received $50M+ in funding while filing no independent 501(c)(4) paperwork—all funds routed through Sixteen Thirty's structure. In 2021, Demand Justice spun off into separate 501(c)(4) status, gaining its own filing requirements and separate donor disclosure obligations. Same operation, different legal wrapper. The point: Arabella controls the infrastructure regardless of whether subsidiaries remain formally dependent or formally independent.
+### Demand Justice case study. Fiscal sponsorship to separation:
+Demand Justice operated as a Sixteen Thirty Fund sub-project (2018-2021) with zero separate disclosure. It received $50M+ in funding while filing no independent 501(c)(4) paperwork, all funds routed through Sixteen Thirty's structure. In 2021, Demand Justice spun off into separate 501(c)(4) status, gaining its own filing requirements and separate donor disclosure obligations. Same operation, different legal wrapper. The point: Arabella controls the infrastructure regardless of whether subsidiaries remain formally dependent or formally independent.
 
-### Eric Kessler — The Architect
+### Eric Kessler. The Architect
 
-Eric Kessler founded Arabella Advisors in 2007 after working at Environmental Defense Fund. He positioned himself as a "progressive infrastructure builder" but functionally created the Democratic Party's most sophisticated dark money apparatus. Unlike [[Leonard Leo|Leonard Leo]] (whose Federalist Society is a nonprofit that he chairs), Kessler operates as a for-profit consultant extracting $220M+ in fees from a nonprofit ecosystem he designed. This is capital accumulation through political infrastructure management. Kessler maintains low public profile deliberately—there are no TED talks, no op-eds, no public appearances. He is to Democratic dark money what Leo is to Republican dark money, but with far less name recognition. [Tablet Magazine: Inside Arabella Advisors](https://www.tabletmag.com/sections/news/articles/for-profit-dc-firm-staging-americas-grassroots-movements-arabella-advisors) (Tier 2) (VERIFIED)
+Eric Kessler founded Arabella Advisors in 2007 after working at Environmental Defense Fund. He positioned himself as a "progressive infrastructure builder" but functionally created the Democratic Party's most sophisticated dark money apparatus. Unlike [[Leonard Leo|Leonard Leo]] (whose Federalist Society is a nonprofit that he chairs), Kessler operates as a for-profit consultant extracting $220M+ in fees from a nonprofit ecosystem he designed. This is capital accumulation through political infrastructure management. Kessler maintains low public profile deliberately, there are no TED talks, no op-eds, no public appearances. He is to Democratic dark money what Leo is to Republican dark money, but with far less name recognition. [Tablet Magazine: Inside Arabella Advisors](https://www.tabletmag.com/sections/news/articles/for-profit-dc-firm-staging-americas-grassroots-movements-arabella-advisors) (Tier 2) (VERIFIED)
 
 ---
 
-### 2025-2026 Update — Rebranding, Chorus Collapse, and Continued Expansion
+### 2025-2026 Update. Rebranding, Chorus Collapse, and Continued Expansion
 
-**Arabella → Sunflower Services:** Before the 2026 midterms, Arabella Advisors rebranded as **Sunflower Services** — a name change widely interpreted as an attempt to reduce public recognition of the organization's dark money profile after years of investigative journalism and Congressional scrutiny. The underlying structure (seven interconnected 501(c)(4)s, Eric Kessler's management model, $1.5B+ annual deployment) remains unchanged. [House Oversight: Comer Continues to Investigate](https://oversight.house.gov/release/comer-continues-to-investigate-dark-money-groups-efforts-to-evade-campaign-finance-laws/) (Tier 1) (VERIFIED)
+**Arabella → Sunflower Services:** Before the 2026 midterms, Arabella Advisors rebranded as **Sunflower Services**, a name change widely interpreted as an attempt to reduce public recognition of the organization's dark money profile after years of investigative journalism and Congressional scrutiny. The underlying structure (seven interconnected 501(c)(4)s, Eric Kessler's management model, $1.5B+ annual deployment) remains unchanged. [House Oversight: Comer Continues to Investigate](https://oversight.house.gov/release/comer-continues-to-investigate-dark-money-groups-efforts-to-evade-campaign-finance-laws/) (Tier 1) (VERIFIED)
 
-**Chorus Influencer Program Collapse:** The House Oversight Committee (Chairman James Comer, R-KY) launched investigation in November 2025 into Sixteen Thirty Fund's "Chorus Creator Incubator Program" — a network that paid social media influencers to promote Democratic messaging under contracts that explicitly prohibited disclosing payment or including required political advertising disclaimers. Chorus was structured to function as political advertising while claiming nonprofit advocacy exemption.
+**Chorus Influencer Program Collapse:** The House Oversight Committee (Chairman James Comer, R-KY) launched investigation in November 2025 into Sixteen Thirty Fund's "Chorus Creator Incubator Program", a network that paid social media influencers to promote Democratic messaging under contracts that explicitly prohibited disclosing payment or including required political advertising disclaimers. Chorus was structured to function as political advertising while claiming nonprofit advocacy exemption.
 
-After receiving the Oversight Committee inquiry, Sixteen Thirty Fund severed active ties with the Chorus program. On **November 21, 2025**, records show the filing of a new domestic nonprofit called **Creator Collective** — appearing to be a rebranded successor vehicle preserving the influencer-payment infrastructure after the Chorus program collapsed under scrutiny.
+After receiving the Oversight Committee inquiry, Sixteen Thirty Fund severed active ties with the Chorus program. On **November 21, 2025**, records show the filing of a new domestic nonprofit called **Creator Collective**, appearing to be a rebranded successor vehicle preserving the influencer-payment infrastructure after the Chorus program collapsed under scrutiny.
 
 > [!contradiction] The structural irony
 > A network built on opacity — no donor disclosure, no ad disclaimers, no public accountability — responded to Congressional scrutiny by creating a new entity with a different name. The mechanism survives. The name changes. This is the Arabella pattern: when infrastructure becomes publicly legible, rebrand and continue.
@@ -114,17 +114,17 @@ After receiving the Oversight Committee inquiry, Sixteen Thirty Fund severed act
 
 - [House Oversight: Comer Launches Investigation into Sixteen Thirty Fund Chorus Program](https://oversight.house.gov/release/comer-launches-investigation-into-sixteen-thirty-funds-reported-secretive-chorus-program-effort-to-evade-campaign-finance-laws/) (Tier 1) (VERIFIED)
 - [House Oversight: Comer Continues to Investigate Dark Money Group's Efforts to Evade Campaign Finance Laws](https://oversight.house.gov/release/comer-continues-to-investigate-dark-money-groups-efforts-to-evade-campaign-finance-laws/) (Tier 1) (VERIFIED)
-- [Insurrection Barbie: The Billion-Dollar Ghost — How Arabella's Name Change Fixes Nothing](https://insurrectionbarbie.substack.com/p/the-billion-dollar-ghost-how-the) (VERIFIED) (Tier 4 — flag partisan) (Tier 2)
+- [Insurrection Barbie: The Billion-Dollar Ghost. How Arabella's Name Change Fixes Nothing](https://insurrectionbarbie.substack.com/p/the-billion-dollar-ghost-how-the) (VERIFIED) (Tier 4, flag partisan) (Tier 2)
 
 ### Known Donor Flows Through Arabella
 
 Unlike anonymous structures that hide everything, some Arabella donors have become partially documented:
 
-- **[[George Soros|George Soros]] / [[Open Society Foundations|Open Society Foundations]]** — $125M+ to Arabella network (2018-2024), with significant co-funding into Sixteen Thirty, Demand Justice, and ballot measure campaigns
-- **The Mellon Foundation** — $40M+ to [[Democracy Alliance|Democracy Alliance]] (which coordinates with Arabella), funding "expanding voter participation"
-- **The Tides Foundation** — $15M+ documented to Arabella-managed funds (fiscal sponsor relationships, not direct Arabella board giving)
-- **Individual mega-donors** — estimated $200M+ flows through "bundled" anonymous contributions to Sixteen Thirty (individual identities never disclosed)
-- **Hansjörg Wyss** — Wyoming mega-donor, estimated $100M+ to Arabella conservation/climate funds (Windward Fund specifically)
+- **[[George Soros|George Soros]] / [[Open Society Foundations|Open Society Foundations]]**, $125M+ to Arabella network (2018-2024), with significant co-funding into Sixteen Thirty, Demand Justice, and ballot measure campaigns
+- **The Mellon Foundation**, $40M+ to [[Democracy Alliance|Democracy Alliance]] (which coordinates with Arabella), funding "expanding voter participation"
+- **The Tides Foundation**, $15M+ documented to Arabella-managed funds (fiscal sponsor relationships, not direct Arabella board giving)
+- **Individual mega-donors**, estimated $200M+ flows through "bundled" anonymous contributions to Sixteen Thirty (individual identities never disclosed)
+- **Hansjörg Wyss**. Wyoming mega-donor, estimated $100M+ to Arabella conservation/climate funds (Windward Fund specifically)
 
 The point: some funder identities have leaked through investigative journalism, but Arabella's fundamental purpose is that they shouldn't. [ProPublica: Dark Money Groups Are Reshaping Politics](https://www.propublica.org/article/the-conservative-playbook-for-keeping-dark-money-dark) (Tier 2) (VERIFIED)
 
@@ -158,12 +158,12 @@ The point: some funder identities have leaked through investigative journalism, 
 
 ### Connected Policy Areas and Contradictions
 
-- **Judicial appointments** — Demand Justice runs court-capture operations while Democrats publicly position themselves as anti-Citizens United
-- **Ballot measures** — abortion access (post-Dobbs) bankrolled through Arabella structure
-- **Climate spending** — Windward Fund manages millions in environmental advocacy
-- **Voting rights** — Hopewell Fund manages "democracy" ballot initiatives
-- **Immigration** — North Fund's community organizing work
-- **Party coordination** — Sixteen Thirty's grants align with DNC/DCCC messaging in ways that blur independence
+- **Judicial appointments**. Demand Justice runs court-capture operations while Democrats publicly position themselves as anti-Citizens United
+- **Ballot measures**, abortion access (post-Dobbs) bankrolled through Arabella structure
+- **Climate spending**. Windward Fund manages millions in environmental advocacy
+- **Voting rights**. Hopewell Fund manages "democracy" ballot initiatives
+- **Immigration**. North Fund's community organizing work
+- **Party coordination**. Sixteen Thirty's grants align with DNC/DCCC messaging in ways that blur independence
 
 > [!money] The core contradiction: Democrats built their political identity on Citizens United opposition, then institutionalized Citizens United as party infrastructure. Arabella Advisors is what that institutionalization looks like operationally.
 
@@ -181,10 +181,10 @@ The pop-up organization model reveals the deeper function. Arabella creates temp
 - [Tablet Magazine: For-Profit DC Firm Staging America's Grassroots Movements](https://www.tabletmag.com/sections/news/articles/for-profit-dc-firm-staging-americas-grassroots-movements-arabella-advisors) (Tier 2) (VERIFIED)
 - [Capital Research Center: Out of Darkness, Cash Part 1](https://capitalresearch.org/article/out-of-darkness-cash-part-1/) (Tier 3) (VERIFIED)
 - [ProPublica: Dark Money Groups Are Reshaping Politics](https://www.propublica.org/article/the-conservative-playbook-for-keeping-dark-money-dark) (Tier 2)
-- ~~[Nonprofit Quarterly: Arabella Advisors Grows as Major Democratic Player](https://nonprofitquarterly.org/arabella-advisors-grows-as-a-major-dem-player/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[Nonprofit Quarterly: Arabella Advisors Grows as Major Democratic Player](https://nonprofitquarterly.org/arabella-advisors-grows-as-a-major-dem-player/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Free Beacon: Inside Dem Dark Money Behemoth Arabella Advisors](https://freebeacon.com/democrats/inside-dem-dark-money-behemoth-arabella-advisors-failed-attempt-to-create-an-astroturf-influencer-army/) (Tier 3) (VERIFIED)
 - [House Oversight Committee: Investigation into Sixteen Thirty Fund](https://oversight.house.gov/release/comer-launches-investigation-into-sixteen-thirty-funds-reported-secretive-chorus-program-effort-to-evade-campaign-finance-laws/) (Tier 1) (VERIFIED)
-- [CampaignNow: The $1.5 Billion Machine — Arabella 2024](https://www.campaignnow.com/blog/the-1.5-billion-machine-inside-arabella-advisors-2024-dark-money-blitz-and-its-ballot-box-results) (Tier 3) (VERIFIED)
+- [CampaignNow: The $1.5 Billion Machine. Arabella 2024](https://www.campaignnow.com/blog/the-1.5-billion-machine-inside-arabella-advisors-2024-dark-money-blitz-and-its-ballot-box-results) (Tier 3) (VERIFIED)
 
 ---
 

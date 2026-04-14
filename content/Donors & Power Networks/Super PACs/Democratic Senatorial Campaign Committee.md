@@ -68,7 +68,7 @@ Democratic Senatorial Campaign Committee (DSCC). The official campaign arm of th
 
 The DSCC's political function extends beyond fundraising: the committee decides which Senate races receive party resources, effectively determining which Democratic candidates are "viable." This gatekeeper function gives DSCC leadership (the chair, appointed by Senate Democratic leadership) enormous power over candidate selection and race prioritization.
 
-The DSCC chair position is one of the most demanding assignments in the Senate — requiring the chair to spend 20-30 hours per week on fundraising calls, donor cultivation, and candidate recruitment. The position is typically assigned to ambitious senators seeking leadership advancement.
+The DSCC chair position is one of the most demanding assignments in the Senate, requiring the chair to spend 20-30 hours per week on fundraising calls, donor cultivation, and candidate recruitment. The position is typically assigned to ambitious senators seeking leadership advancement.
 
 ---
 
@@ -87,7 +87,7 @@ DSCC fundraising relies on three channels:
 
 ### Sources
 
-- ~~[OpenSecrets: DSCC spending data](https://www.opensecrets.org/parties/totals?cmte=DSCC)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[OpenSecrets: DSCC spending data](https://www.opensecrets.org/parties/totals?cmte=DSCC)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [FEC: DSCC filings](https://www.fec.gov/data/committee/C00042366/) (Tier 1) (VERIFIED)
 - [Ballotpedia: DSCC](https://ballotpedia.org/Democratic_Senatorial_Campaign_Committee) (Tier 3) (VERIFIED)
 

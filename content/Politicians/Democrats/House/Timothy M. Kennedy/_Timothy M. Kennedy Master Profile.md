@@ -1,5 +1,5 @@
 ---
-title: "Timothy M. Kennedy Master Profile"
+title: "Timothy M. Kennedy"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

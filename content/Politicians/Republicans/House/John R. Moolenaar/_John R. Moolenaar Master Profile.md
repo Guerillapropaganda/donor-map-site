@@ -1,5 +1,5 @@
 ---
-title: "John R. Moolenaar Master Profile"
+title: "John R. Moolenaar"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

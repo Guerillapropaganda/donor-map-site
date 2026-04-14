@@ -1,5 +1,5 @@
 ---
-title: "Grace Meng Master Profile"
+title: "Grace Meng"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

@@ -7,7 +7,7 @@ source-tier: 2
 parent: null
 issues:
   - "Infrastructure"
-related: "[[Prison Telecom Monopoly Profits From Bipartisan Neglect]] · [[_Kyrsten Sinema Master Profile|Sinema]] · [[_Joe Manchin Master Profile|Manchin]] · [[_Joe Biden Master Profile|Biden]] · [[_Mitch McConnell Master Profile|McConnell]] · [[_Chuck Schumer Master Profile|Schumer]] · [[Payday Lending Survives Through Bipartisan Protection]] · [[Contradiction 20 — Tech Monopolies Buy Antitrust Protection From Both Parties]] · [[Contradiction 19 — Student Loan Industry Buys Bipartisan Protection for the Creditor Class]]"
+related: "[[Prison Telecom Monopoly Profits From Bipartisan Neglect]] · [[_Kyrsten Sinema Master Profile|Sinema]] · [[_Joe Manchin Master Profile|Manchin]] · [[_Joe Biden Master Profile|Biden]] · [[_Mitch McConnell Master Profile|McConnell]] · [[_Chuck Schumer Master Profile|Schumer]] · [[Payday Lending Survives Through Bipartisan Protection]] · [[Contradiction 20 , Tech Monopolies Buy Antitrust Protection From Both Parties]] · [[Contradiction 19 , Student Loan Industry Buys Bipartisan Protection for the Creditor Class]]"
 ---
 #contradiction #water #privatization #infrastructure #class-analysis
 
@@ -96,12 +96,12 @@ Reduced enforcement capacity makes private management appear more necessary. Thi
 - [OpenSecrets: American Water Works PAC](https://www.opensecrets.org/political-action-committees-pacs/american-water-works-co/C00377846/candidate-recipients/2024) (Tier 1) (VERIFIED)
 - [FEC Receipts: Chemical Manufacturing Lobbying](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1) (VERIFIED)
 - [EPA: Office of Water Budget](https://www.epa.gov/planandbudget) (Tier 1) (VERIFIED)
-- ~~[The Guardian: PFAS Lobbying $114M Investigation](https://www.theguardian.com/environment/2023/feb/08/pfas-forever-chemicals-lobbying-congress)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[The Guardian: PFAS Lobbying $114M Investigation](https://www.theguardian.com/environment/2023/feb/08/pfas-forever-chemicals-lobbying-congress)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Food & Water Watch: Water Privatization Costs](https://www.foodandwaterwatch.org/2015/08/02/water-privatization-facts-and-figures/) (Tier 2) (VERIFIED)
-- ~~[Reuters: Jackson Water Crisis](https://www.reuters.com/world/us/jackson-mississippi-still-lacks-clean-running-water-2022-09-01/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
-- ~~[NRDC: Flint Water Crisis](https://www.nrdc.org/stories/flint-water-crisis-everything-you-need-know)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[Reuters: Jackson Water Crisis](https://www.reuters.com/world/us/jackson-mississippi-still-lacks-clean-running-water-2022-09-01/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[NRDC: Flint Water Crisis](https://www.nrdc.org/stories/flint-water-crisis-everything-you-need-know)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Peer-reviewed study: Private vs Public Water Costs (2022)](https://linkinghub.elsevier.com/retrieve/pii/S0957178722000418) (Tier 1) (VERIFIED)
-- ~~[ProPublica: Emergency Managers Michigan](https://www.propublica.org/article/the-quiet-rooms-where-democracys-demise-began-in-michigan)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[ProPublica: Emergency Managers Michigan](https://www.propublica.org/article/the-quiet-rooms-where-democracys-demise-began-in-michigan)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 
 ---
 

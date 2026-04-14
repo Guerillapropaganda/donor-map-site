@@ -81,12 +81,12 @@ The CEA's spending has successfully blocked or delayed clean energy standards in
 
 ### Class Analysis
 
-The CEA reveals how fossil fuel industries use dark money astroturf organizations to prevent climate regulation and carbon pricing. The organization's structural invisibility—operating with undisclosed donors, lacking transparent budget information, using consumer-facing messaging—allows energy industry donors to fund anti-climate campaigns without public accountability. The CEA's effectiveness despite modest spending ($5-8M) demonstrates that industry funding can produce substantial political impact when deployed through opaque intermediaries. The organization's existence proves that fossil fuel industries recognize climate regulation threatens their business model and are willing to invest millions in political opposition. The CEA's bipartisan approach (funding Democratic and Republican opponents of climate policy) reveals that climate action opposition crosses party lines when industry funding is involved.
+The CEA reveals how fossil fuel industries use dark money astroturf organizations to prevent climate regulation and carbon pricing. The organization's structural invisibility, operating with undisclosed donors, lacking transparent budget information, using consumer-facing messaging, allows energy industry donors to fund anti-climate campaigns without public accountability. The CEA's effectiveness despite modest spending ($5-8M) demonstrates that industry funding can produce substantial political impact when deployed through opaque intermediaries. The organization's existence proves that fossil fuel industries recognize climate regulation threatens their business model and are willing to invest millions in political opposition. The CEA's bipartisan approach (funding Democratic and Republican opponents of climate policy) reveals that climate action opposition crosses party lines when industry funding is involved.
 
 ### Sources
 
-- ~~[Center for Responsive Politics: CEA lobbying spending](https://www.opensecrets.org/organizations/consumer-energy-alliance)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
-- [DeSmog: Consumer Energy Alliance (CEA) — fossil fuel industry front group profile](https://www.desmog.com/consumer-energy-alliance-cea/) (Tier 2) (VERIFIED)
+- ~~[Center for Responsive Politics: CEA lobbying spending](https://www.opensecrets.org/organizations/consumer-energy-alliance)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- [DeSmog: Consumer Energy Alliance (CEA), fossil fuel industry front group profile](https://www.desmog.com/consumer-energy-alliance-cea/) (Tier 2) (VERIFIED)
 
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "James C. Moylan Master Profile"
+title: "James C. Moylan"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

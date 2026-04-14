@@ -53,17 +53,17 @@ aliases:
 
 ### Who They Are
 
-Club for Growth. The Republican primary enforcement mechanism — the super PAC that destroys sitting Republican incumbents who deviate from fiscal conservative orthodoxy. Founded in 1999 by Stephen Moore as a 501(c)(6) membership organization, it evolved into Club for Growth Action (super PAC, FEC ID: C00487470, established 2010) and Club for Growth PAC (traditional PAC). Led by President David McIntosh since December 2014 — a former Indiana congressman (1995–2000) and Reagan administration official who transformed the organization from a $20M operation into a $163M-per-cycle political machine.
+Club for Growth. The Republican primary enforcement mechanism, the super PAC that destroys sitting Republican incumbents who deviate from fiscal conservative orthodoxy. Founded in 1999 by Stephen Moore as a 501(c)(6) membership organization, it evolved into Club for Growth Action (super PAC, FEC ID: C00487470, established 2010) and Club for Growth PAC (traditional PAC). Led by President David McIntosh since December 2014, a former Indiana congressman (1995–2000) and Reagan administration official who transformed the organization from a $20M operation into a $163M-per-cycle political machine.
 
-The organization's core function is not winning general elections — it's primary-based incumbency destruction of any Republican who votes for tax increases, spending bills, or bipartisan deals. Club for Growth operates exclusively in Republican primaries, which makes it structurally different from every other major super PAC: it enforces ideological discipline within the party rather than competing between parties.
+The organization's core function is not winning general elections, it's primary-based incumbency destruction of any Republican who votes for tax increases, spending bills, or bipartisan deals. Club for Growth operates exclusively in Republican primaries, which makes it structurally different from every other major super PAC: it enforces ideological discipline within the party rather than competing between parties.
 
 Club for Growth's network comprises over 500,000 members and operates through multiple entities: Club for Growth (501(c)(4) advocacy arm), Club for Growth Action (super PAC for independent expenditures), and Club for Growth PAC (traditional PAC for direct candidate contributions). The combined operation raised $163 million in the 2024 election cycle across all entities.
 
 ---
 
-### The Money — FEC Financial Summary (2024 Cycle)
+### The Money. FEC Financial Summary (2024 Cycle)
 
-### Club for Growth Action (C00487470) — OpenSecrets/FEC:
+### Club for Growth Action (C00487470). OpenSecrets/FEC:
 
 | Category | Amount |
 |----------|--------|
@@ -75,7 +75,7 @@ Club for Growth's network comprises over 500,000 members and operates through mu
 | Other committee contributions | $9,550,812 |
 | Outside spending (independent expenditures) | $74,389,393 |
 
-**Key metric:** 97% of individual contributions came from large itemized donors ($74.4M of $76.6M). Unitemized contributions were just $185,788 — this is not a grassroots operation. Club for Growth Action is funded almost entirely by mega-donors writing six- and seven-figure checks.
+**Key metric:** 97% of individual contributions came from large itemized donors ($74.4M of $76.6M). Unitemized contributions were just $185,788, this is not a grassroots operation. Club for Growth Action is funded almost entirely by mega-donors writing six- and seven-figure checks.
 
 **All Club for Growth entities combined (2024 cycle):** $163 million raised, per Club for Growth's own reporting.
 
@@ -91,7 +91,7 @@ Club for Growth's network comprises over 500,000 members and operates through mu
 | Ken Griffin / Citadel | $2M+ | $8M+ | Tax policy, financial deregulation |
 | John Paulson / Paulson & Co | $2M+ | $5M+ | Tax policy, hedge fund profit protection |
 
-The concentration on Yass is the structural fact: one donor ($19M in 2024, $10M in H2 2025) represents roughly 50% of Club for Growth Action's funding in any given cycle. **2025 update:** Club for Growth Action raised $15.8M in 2025, with $10M (63%) from Jeff Yass alone — making Yass not just the dominant funder but the de facto decision-maker on which Republicans face primary challenges and which policy priorities Club for Growth enforces. When one man provides 50-63% of the enforcement mechanism's funding, the mechanism serves that man's interests.
+The concentration on Yass is the structural fact: one donor ($19M in 2024, $10M in H2 2025) represents roughly 50% of Club for Growth Action's funding in any given cycle. **2025 update:** Club for Growth Action raised $15.8M in 2025, with $10M (63%) from Jeff Yass alone, making Yass not just the dominant funder but the de facto decision-maker on which Republicans face primary challenges and which policy priorities Club for Growth enforces. When one man provides 50-63% of the enforcement mechanism's funding, the mechanism serves that man's interests.
 
 ---
 
@@ -99,7 +99,7 @@ The concentration on Yass is the structural fact: one donor ($19M in 2024, $10M 
 
 Club for Growth's stated mission is free-market, limited government conservatism. Its actual function is enforcing fiscal conservatism through primary destruction:
 
-**Tax policy enforcement:** No votes for tax increases under any circumstances. Any Republican voting to raise taxes faces a primary challenge funded by Club for Growth. This is the bright line — there are no exceptions.
+**Tax policy enforcement:** No votes for tax increases under any circumstances. Any Republican voting to raise taxes faces a primary challenge funded by Club for Growth. This is the bright line, there are no exceptions.
 
 **Spending limits enforcement:** Any Republican who votes for deficit spending (except defense/national security) without corresponding cuts faces primary challenge. The 2021 Bipartisan Infrastructure Bill triggered targeting of the 13 House Republicans who voted for it.
 
@@ -107,11 +107,11 @@ Club for Growth's stated mission is free-market, limited government conservatism
 
 **Entitlement reform enforcement:** Social Security/Medicare reform (privatization direction) is a priority; any Republican opposing reform faces scrutiny.
 
-The mechanism is pure: vote the way we want, or face a $5-10M primary challenge. The result is unprecedented GOP caucus discipline on fiscal policy — zero Republicans have voted for net tax increases since 2012, a historically unprecedented streak enforced not by ideology but by the credible threat of primary destruction.
+The mechanism is pure: vote the way we want, or face a $5-10M primary challenge. The result is unprecedented GOP caucus discipline on fiscal policy, zero Republicans have voted for net tax increases since 2012, a historically unprecedented streak enforced not by ideology but by the credible threat of primary destruction.
 
 ---
 
-### 2024 Cycle Results — 32 Wins, 77.3% Win Rate
+### 2024 Cycle Results, 32 Wins, 77.3% Win Rate
 
 Club for Growth Action achieved a 77.3% win rate in the 2024 cycle, winning 32 of its targeted races including 24 primary election wins. The operation deployed 235 unique TV ads, 174 mail pieces, and 22 radio ads across federal and state races.
 
@@ -134,25 +134,25 @@ Club for Growth Action achieved a 77.3% win rate in the 2024 cycle, winning 32 o
 
 - **Jim Justice (WV Senate primary):** Targeted with $2-5M in opposition spending for insufficient fiscal conservative credentials
 - **Matt Dolan (OH Senate primary):** Targeted for being too moderate on fiscal issues
-- **Texas House Republicans:** $4M spent targeting 5 anti-school-voucher Texas House Republicans in runoffs — expansion beyond federal races into state legislature enforcement
+- **Texas House Republicans:** $4M spent targeting 5 anti-school-voucher Texas House Republicans in runoffs, expansion beyond federal races into state legislature enforcement
 
 ---
 
-### The Trump Relationship — From Enemy to Ally to Tool
+### The Trump Relationship. From Enemy to Ally to Tool
 
 Club for Growth's relationship with Trump is the organization's most revealing political evolution:
 
 **2015–2016:** Club for Growth ran $1M+ in ads attacking Trump during the Republican primary, calling him a liberal on trade and spending. Trump responded by calling Club for Growth a "phony" organization.
 
-**2017–2020:** Pragmatic alignment. Trump signed the 2017 Tax Cuts and Jobs Act — the single most important piece of legislation for Club for Growth's agenda. The organization backed Trump's tax policy while maintaining independence on trade (where Trump's tariffs contradicted free-market orthodoxy).
+**2017–2020:** Pragmatic alignment. Trump signed the 2017 Tax Cuts and Jobs Act, the single most important piece of legislation for Club for Growth's agenda. The organization backed Trump's tax policy while maintaining independence on trade (where Trump's tariffs contradicted free-market orthodoxy).
 
 **2021–2023:** Open conflict. Club for Growth backed Ron DeSantis and other candidates against Trump in 2024 primary positioning. McIntosh publicly positioned Club for Growth as a check on Trump.
 
-**2024:** Full capitulation. After Trump's dominance became clear, Club for Growth realigned with Trump, contributing to Trump-aligned candidates and coordinating with the broader Republican super PAC ecosystem. The Jeff Yass factor: Yass's $19M to Club for Growth and simultaneous $16M to MAGA Inc in 2025 shows the donor forcing alignment — when your dominant funder is also funding Trump directly, opposing Trump becomes financially untenable.
+**2024:** Full capitulation. After Trump's dominance became clear, Club for Growth realigned with Trump, contributing to Trump-aligned candidates and coordinating with the broader Republican super PAC ecosystem. The Jeff Yass factor: Yass's $19M to Club for Growth and simultaneous $16M to MAGA Inc in 2025 shows the donor forcing alignment, when your dominant funder is also funding Trump directly, opposing Trump becomes financially untenable.
 
 ---
 
-### 2026 Cycle — $175 Million War Chest
+### 2026 Cycle, $175 Million War Chest
 
 Club for Growth is planning $175 million in 2026 midterm spending, with $65 million already raised as of early 2026:
 
@@ -166,11 +166,11 @@ Club for Growth is planning $175 million in 2026 midterm spending, with $65 mill
 
 **2026 primary targets already identified:** Club for Growth has endorsed Rep. Mike Collins (R-GA) in the three-way GOP primary to challenge Sen. Jon Ossoff (D-GA). The organization is identifying 20-30 House Republicans and multiple Senate candidates for primary enforcement based on 2025 voting records.
 
-The $175M target for 2026 represents a 7% increase over 2024's $163M — signaling that primary enforcement is a permanent, escalating feature of Republican politics, not a one-cycle phenomenon.
+The $175M target for 2026 represents a 7% increase over 2024's $163M, signaling that primary enforcement is a permanent, escalating feature of Republican politics, not a one-cycle phenomenon.
 
 ---
 
-### The Stick-and-Carrot System — Club for Growth + Senate Leadership Fund
+### The Stick-and-Carrot System. Club for Growth + Senate Leadership Fund
 
 The distinction between Club for Growth and [[Senate Leadership Fund]] reveals how Republican super PACs function as a coordinated enforcement system:
 
@@ -186,14 +186,14 @@ No Democratic equivalent exists. [[Senate Majority PAC]] and [[House Majority PA
 
 ### Primary Destruction Track Record
 
-Club for Growth has successfully destroyed more Republican incumbents through primary challenges than many realize — and the deterrent effect on those who survived is the real return on investment:
+Club for Growth has successfully destroyed more Republican incumbents through primary challenges than many realize, and the deterrent effect on those who survived is the real return on investment:
 
 | Date | Target | Race | Amount | Outcome |
 |------|--------|------|--------|---------|
 | 2004 | Arlen Specter | PA Senate primary | $2M+ | Specter survived but moved right; eventually switched parties 2009 |
-| 2010 | Bob Bennett | UT Senate | — | Defeated at GOP convention (Club for Growth-aligned Tea Party candidate) |
+| 2010 | Bob Bennett | UT Senate |, | Defeated at GOP convention (Club for Growth-aligned Tea Party candidate) |
 | 2010 | Mike Castle | DE Senate primary | $2-5M | Defeated by Christine O'Donnell (lost general) |
-| 2010 | Lisa Murkowski | AK Senate primary | — | Defeated in primary; won general as write-in |
+| 2010 | Lisa Murkowski | AK Senate primary |, | Defeated in primary; won general as write-in |
 | 2012 | Richard Lugar | IN Senate primary | $3-8M | Defeated by Richard Mourdock (lost general) |
 | 2014 | Multiple | House primaries | $10M+ | Successfully challenged several House members on spending votes |
 | 2024 | Jim Justice | WV Senate primary | $2-5M | Targeted (ultimately survived) |
@@ -204,11 +204,11 @@ The win-loss record is less important than the behavioral modification: Republic
 
 ---
 
-### The [[Jeffrey Yass]] Thesis — One Donor Controls Republican Primary Enforcement
+### The [[Jeffrey Yass]] Thesis. One Donor Controls Republican Primary Enforcement
 
 [[Jeffrey Yass]]'s $69.25M+ lifetime investment in Club for Growth is the clearest example in American politics of one individual funding a political enforcement mechanism. Yass doesn't seek office, doesn't want public visibility, doesn't fund candidates directly. He funds the mechanism that enforces fiscal conservatism, which protects his class interests: low taxes, financial deregulation, algorithmic trading opacity, and the preservation of his $21 billion ByteDance stake.
 
-This is the ultimate donor power structure: one billionaire's money determines which Republicans face primary challenges → which determines primary results → which determines general election outcomes → which determines who serves in Congress → which determines which legislation passes. Yass is a pure structuralist — he funds the enforcement mechanism and lets the mechanism do the work.
+This is the ultimate donor power structure: one billionaire's money determines which Republicans face primary challenges → which determines primary results → which determines general election outcomes → which determines who serves in Congress → which determines which legislation passes. Yass is a pure structuralist, he funds the enforcement mechanism and lets the mechanism do the work.
 
 The 2024-2025 cycle demonstrated this perfectly: Yass gave $19M to Club for Growth and $16M to MAGA Inc. The Club for Growth money ensures Republican fiscal policy remains aligned with hedge fund interests regardless of which Republicans win. The MAGA Inc money ensures his TikTok stake survives. Two investments, two purposes, both protecting the same portfolio.
 
@@ -227,16 +227,16 @@ The 2024-2025 cycle demonstrated this perfectly: Yass gave $19M to Club for Grow
 
 ### Sources
 
-- [OpenSecrets: Club for Growth Action PAC profile — $88.6M raised, 2024 cycle (C00487470)](https://www.opensecrets.org/political-action-committees-pacs/club-for-growth-action/C00487470/summary/2024) (Tier 1) (VERIFIED)
+- [OpenSecrets: Club for Growth Action PAC profile, $88.6M raised, 2024 cycle (C00487470)](https://www.opensecrets.org/political-action-committees-pacs/club-for-growth-action/C00487470/summary/2024) (Tier 1) (VERIFIED)
 - [FEC: Club for Growth Action committee filings (C00487470)](https://www.fec.gov/data/committee/C00487470/) (Tier 1) (VERIFIED)
-- [Club for Growth: 2024 results — 32 wins, $163M raised, 77.3% win rate](https://www.clubforgrowth.org/club-for-growth-action-2024-32-wins-and-163-million-raised/) (Tier 4) (VERIFIED)
+- [Club for Growth: 2024 results, 32 wins, $163M raised, 77.3% win rate](https://www.clubforgrowth.org/club-for-growth-action-2024-32-wins-and-163-million-raised/) (Tier 4) (VERIFIED)
 - [Fox News: Club for Growth plans $175M for 2026 midterm spending](https://www.foxnews.com/politics/mcintosh-midterms-choice-between-trumps-great-progress-letting-socialists-back) (Tier 2) (VERIFIED)
 - [FactCheck.org: Club for Growth Action profile](https://www.factcheck.org/2024/04/club-for-growth-action-7/) (Tier 2) (VERIFIED)
-- ~~[EXPOSEDbyCMD: Club for Growth Action 2025 — $15.8M raised, $10M from Yass](https://www.exposedbycmd.org/2026/02/18/major-right-wing-super-pacs-disclose-recent-contributions-and-endorsements/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
-- ~~[Axios: Club for Growth plots new conservative path after Trump (2023)](https://www.axios.com/2023/01/22/club-for-growth-republicans-conservatives-2024)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[EXPOSEDbyCMD: Club for Growth Action 2025, $15.8M raised, $10M from Yass](https://www.exposedbycmd.org/2026/02/18/major-right-wing-super-pacs-disclose-recent-contributions-and-endorsements/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Axios: Club for Growth plots new conservative path after Trump (2023)](https://www.axios.com/2023/01/22/club-for-growth-republicans-conservatives-2024)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [The New Republic: How the Club for Growth fell out with Trump](https://newrepublic.com/article/176870/club-growth-fell-out-trump) (Tier 2) (VERIFIED)
-- [Texas Tribune: Club for Growth in Texas primary battles — $4M school voucher enforcement](https://www.texastribune.org/2024/04/03/club-for-growth-texas-house-legislature/) (Tier 2) (VERIFIED)
-- [Slate: Jeff Yass TikTok billionaire — Club for Growth funding](https://slate.com/news-and-politics/2024/03/tiktok-trump-yass-truth-social-club-for-growth-republicans-megadonor.html) (Tier 2) (VERIFIED)
+- [Texas Tribune: Club for Growth in Texas primary battles, $4M school voucher enforcement](https://www.texastribune.org/2024/04/03/club-for-growth-texas-house-legislature/) (Tier 2) (VERIFIED)
+- [Slate: Jeff Yass TikTok billionaire. Club for Growth funding](https://slate.com/news-and-politics/2024/03/tiktok-trump-yass-truth-social-club-for-growth-republicans-megadonor.html) (Tier 2) (VERIFIED)
 - [CNBC: Jeff Yass influence on schools, courts, markets](https://www.cnbc.com/2024/04/09/jeff-yass-millions-to-influence-schools-courts-and-markets.html) (Tier 2) (VERIFIED)
 - [Read Sludge: TikTok billionaire donates millions to Trump](https://readsludge.com/2025/08/01/tiktok-billionaire-donates-millions-to-trump-as-he-repeatedly-delays-ban/) (Tier 2) (VERIFIED)
 - [The Nation: Jeff Yass TikTok forced sale analysis](https://www.thenation.com/article/society/how-tiktok-funder-jeffrey-yass-can-clean-up-on-the-apps-forced-sale/) (Tier 2) (VERIFIED)
@@ -255,7 +255,7 @@ The 2024-2025 cycle demonstrated this perfectly: Yass gave $19M to Club for Grow
 
 > This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.
 
-### Financial Overview (990 Filing — 2023)
+### Financial Overview (990 Filing, 2023)
 <!-- auto:propublica-990 start -->
 | Metric | Amount |
 |--------|--------|

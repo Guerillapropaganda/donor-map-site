@@ -1,5 +1,5 @@
 ---
-title: "Robert P. Bresnahan Master Profile"
+title: "Robert P. Bresnahan"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

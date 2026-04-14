@@ -1,5 +1,5 @@
 ---
-title: "Richard J. Durbin Master Profile"
+title: "Richard J. Durbin"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

@@ -1,5 +1,5 @@
 ---
-title: "Cleo Fields Master Profile"
+title: "Cleo Fields"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

@@ -151,7 +151,7 @@ related: "[[QVT Financial]]"
 
 ---
 
-## Archive — Previously Resolved (2026-04-09)
+## Archive. Previously Resolved (2026-04-09)
 
 The following 7 items were resolved by Research Claude on 2026-04-09. Kept here for audit trail.
 
@@ -174,7 +174,7 @@ The following 7 items were resolved by Research Claude on 2026-04-09. Kept here 
 - **Flagged**: 4/9/2026
 - **Resolved**: 4/9/2026 by Research Claude
 - **Resolution**: Relationship formalized. FAIRSHAKE's $4.1M opposition spending documented in dedicated "Crypto Industry's Role" section. Added to frontmatter `opposes` field. Profile covers the two-industry coalition (Israel lobby + crypto) against Bowman.
-- **Note 2026-04-10**: A new FAIRSHAKE→Bowman item re-appeared in today's scanner queue above. May be a duplicate or a new IE cycle — needs Research Claude to dedupe.
+- **Note 2026-04-10**: A new FAIRSHAKE→Bowman item re-appeared in today's scanner queue above. May be a duplicate or a new IE cycle, needs Research Claude to dedupe.
 - **ID**: `FAIRSHAKE::Jamaal Bowman Master Profile::opposes`
 
 ### ~~DMFI PAC → Jamaal Bowman Master Profile~~ RESOLVED

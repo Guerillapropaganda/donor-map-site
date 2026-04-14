@@ -146,9 +146,9 @@ Griffin's personal pro-choice stance (unusual among mega-donors) while funding a
 
 ### Sources
 
-- ~~[OpenSecrets: Ken Griffin donor profile](https://www.opensecrets.org/individuals/kenneth-griffin/summary?cid=N00029020)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[OpenSecrets: Ken Griffin donor profile](https://www.opensecrets.org/individuals/kenneth-griffin/summary?cid=N00029020)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [ProPublica: Why Citadel's Ken Griffin Spent $54 Million To Defeat an Illinois Tax Increase](https://www.propublica.org/article/ken-griffin-illinois-graduated-income-tax) (Tier 2) (VERIFIED)
-- ~~[Bloomberg: Ken Griffin's hedge fund and political spending](https://www.bloomberg.com/news/articles/2022-02-07/billionaire-kenneth-griffin-plans-100-million-spending-in-2022)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[Bloomberg: Ken Griffin's hedge fund and political spending](https://www.bloomberg.com/news/articles/2022-02-07/billionaire-kenneth-griffin-plans-100-million-spending-in-2022)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - ~~[The Guardian: Ken Griffin Illinois politics](https://www.theguardian.com/business/2024/mar/12/hedge-fund-billionaire-kenneth-griffin)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 3)
 - [Ballotpedia: Citadel CEO Kenneth Griffin](https://ballotpedia.org/Kenneth_Griffin) (Tier 3) (VERIFIED)
 

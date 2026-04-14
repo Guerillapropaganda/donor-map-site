@@ -175,11 +175,11 @@ Shawn Fain is a 29-year UAW member, an electrician from Kokomo, Indiana, who sta
 
 ### Break from "Jointness" Unionism
 
-The central ideological shift Fain represents is the rejection of "jointness", the cooperative, management-partnership model that dominated UAW leadership since the Chrysler bankruptcy of 1979–80. Under this model, union leaders participated in joint labor-management programs, accepted wage concessions in exchange for company survivability pledges, and largely avoided confrontational tactics. Fain criticized the legacy leadership as "comfortably inactive.. rested on the laurels of people from the '50s and '60s." In his first months, he announced the union would not endorse Biden (a break from precedent) and publicly criticized the Biden DOE's loan to Ford and SK On for a battery plant as "a giveaway," asking: "Why is Joe Biden's administration enabling this corporate avarice with taxpayer funds?"
+The central ideological shift Fain represents is the rejection of "jointness", the cooperative, management-partnership model that dominated UAW leadership since the Chrysler bankruptcy of 1979–80. Under this model, union leaders participated in joint labor-management programs, accepted wage concessions in exchange for company survivability pledges, and largely avoided confrontational tactics. Fain criticized the legacy leadership as "comfortably inactive. rested on the laurels of people from the '50s and '60s." In his first months, he announced the union would not endorse Biden (a break from precedent) and publicly criticized the Biden DOE's loan to Ford and SK On for a battery plant as "a giveaway," asking: "Why is Joe Biden's administration enabling this corporate avarice with taxpayer funds?"
 
 ### Endorsements Earned, Not Given
 
-Fain's explicit political doctrine: endorsements must be "earned," not extended automatically. In his January 24, 2024 Biden endorsement announcement, he stated: "When I first came into office we made some headlines by saying that our endorsements would be earned not freely given.. We've said we'd stand with whoever stood with us in our fight." This created tension with the Democratic establishment, the AFL-CIO had issued its "earliest-ever presidential endorsement" months before, and UAW's delay was a deliberate political signal.
+Fain's explicit political doctrine: endorsements must be "earned," not extended automatically. In his January 24, 2024 Biden endorsement announcement, he stated: "When I first came into office we made some headlines by saying that our endorsements would be earned not freely given. We've said we'd stand with whoever stood with us in our fight." This created tension with the Democratic establishment, the AFL-CIO had issued its "earliest-ever presidential endorsement" months before, and UAW's delay was a deliberate political signal.
 
 ### "Trump Is a Scab" Rhetoric
 
@@ -191,7 +191,7 @@ Unlike previous UAW presidents, Fain did not confine confrontational rhetoric to
 
 ### Explicit Class War Framing
 
-Fain embraced open class conflict language. In October 2023 during the strike, he wore a shirt reading "EAT THE RICH." He declared: "Class warfare has been going on in this country for 40 years. The problem is when the billionaire class has taken everything, they don't consider it class warfare.. It's been going on for 40 years, but the only difference is now we're going to call it for what it is." He cited the statistic that three families in America hold as much wealth as the bottom 50% combined.
+Fain embraced open class conflict language. In October 2023 during the strike, he wore a shirt reading "EAT THE RICH." He declared: "Class warfare has been going on in this country for 40 years. The problem is when the billionaire class has taken everything, they don't consider it class warfare. It's been going on for 40 years, but the only difference is now we're going to call it for what it is." He cited the statistic that three families in America hold as much wealth as the bottom 50% combined.
 
 ### 2024 Election Cycle
 
@@ -369,11 +369,11 @@ Fain articulated the union's strategic theory explicitly: "The billionaire class
 - [New Yorker: Biden's picket line visit](https://www.newyorker.com/news/our-columnists/joe-bidens-visit-to-a-uaw-picket-line-was-a-powerful-political-gesture) (Tier 2) (VERIFIED)
 - [CNN: Biden picket line visit](https://www.cnn.com/2023/09/26/politics/biden-picket-line-michigan-uaw) (Tier 2) (VERIFIED)
 - [PBS NewsHour: Biden picket line](https://www.pbs.org/newshour/politics/biden-to-show-solidarity-with-striking-uaw-workers-in-historic-move) (Tier 2) (VERIFIED)
-- ~~[Politico: UAW Strike politics and Biden endorsement](https://www.politico.com/news/2023/11/06/joe-biden-uaw-strike-politics-00125505)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2) (UNVERIFIED)
+- ~~[Politico: UAW Strike politics and Biden endorsement](https://www.politico.com/news/2023/11/06/joe-biden-uaw-strike-politics-00125505)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2) (UNVERIFIED)
 - [Politico: Biden gets UAW endorsement](https://www.politico.com/news/2024/01/24/biden-gets-uaw-endorsement-after-noticeable-delay-00137610) (Tier 2) (VERIFIED) (UNVERIFIED)
-- ~~[Reuters: Biden-Fain endorsement timeline](https://www.reuters.com/world/us/biden-uaws-fain-rocky-road-2024-endorsement-2024-01-24/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2) (UNVERIFIED)
-- ~~[Reuters: Harris campaign launch](https://www.reuters.com/world/us/uaw-union-launches-pro-harris-campaign-mobilize-workers-across-us-2024-08-14/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2) (UNVERIFIED)
-- ~~[NYT: UAW endorses Harris](https://www.nytimes.com/2024/07/31/us/politics/uaw-kamala-harris.html)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2) (UNVERIFIED)
+- ~~[Reuters: Biden-Fain endorsement timeline](https://www.reuters.com/world/us/biden-uaws-fain-rocky-road-2024-endorsement-2024-01-24/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2) (UNVERIFIED)
+- ~~[Reuters: Harris campaign launch](https://www.reuters.com/world/us/uaw-union-launches-pro-harris-campaign-mobilize-workers-across-us-2024-08-14/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2) (UNVERIFIED)
+- ~~[NYT: UAW endorses Harris](https://www.nytimes.com/2024/07/31/us/politics/uaw-kamala-harris.html)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2) (UNVERIFIED)
 - [PBS: UAW endorses Harris](https://www.pbs.org/newshour/politics/uaw-endorses-harris-adding-blue-collar-backing-in-industrial-states-to-her-campaign) (Tier 2) (VERIFIED)
 - [LA Times: Harris Detroit rally](https://www.latimes.com/opinion/story/2024-08-08/union-working-class-voters-kamala-harris-tim-walz-detroit-uaw-rally) (Tier 2) (VERIFIED)
 - [USA Today: UAW monitor changes December 2025](https://www.usatoday.com/story/cars/news/2025/12/22/uaw-union-culture-changes-federal-monitors-report/87884218007/) (Tier 2) (VERIFIED)

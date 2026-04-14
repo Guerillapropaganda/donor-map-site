@@ -1,5 +1,5 @@
 ---
-title: "George Whitesides Master Profile"
+title: "George Whitesides"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

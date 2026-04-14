@@ -1,8 +1,8 @@
 ---
-title: "Chuck Schumer Master Profile"
+title: "Chuck Schumer"
 type: politician
 content-readiness: ready
-central-thesis: "Chuck Schumer is the Democratic Party's answer to Mitch McConnell — not in ideology, but in function. Where McConnell built the Republican donor class's infrastructure through judicial capture and Citizens United, Schumer built the Democratic dono..."
+central-thesis: "Chuck Schumer is the Democratic Party's answer to Mitch McConnell , not in ideology, but in function. Where McConnell built the Republican donor class's infrastructure through judicial capture and Citizens United, Schumer built the Democratic dono..."
 last-updated: 2026-04-12
 source-tier: 1
 career-total: "$100M"
@@ -42,7 +42,7 @@ last-enriched: "2026-04-10"
 committees:
   - "Senate Committee on Rules and Administration"
   - "Senate Select Committee on Intelligence"
-internal-notes: "[MANUAL 2026-04-11] Bioguide recovered: S000148. Previously cleared by fix-bioguide-contamination.cjs because the profile was sharing a contaminated wrong bioguide (C001091 or B001296) with other unrelated profiles. Manually verified against bioguide.congress.gov/search. needs-reenrichment flipped from false to true — the next scheduled pipeline run will now populate correct Congress.gov auto-blocks.
+internal-notes: "[MANUAL 2026-04-11] Bioguide recovered: S000148. Previously cleared by fix-bioguide-contamination.cjs because the profile was sharing a contaminated wrong bioguide (C001091 or B001296) with other unrelated profiles. Manually verified against bioguide.congress.gov/search. needs-reenrichment flipped from false to true , the next scheduled pipeline run will now populate correct Congress.gov auto-blocks.
 
 [JANITOR 2026-04-11] Bioguide contamination cleared by fix-bioguide-contamination.cjs. This profile had bioguide-id set to 'C001091' (Joaquin Castro's ID), almost certainly from a past bulk-set script that fell through to candidates[0]?.bioguideId when a name search failed. 19 unrelated profiles all had the same wrong ID — same class of bug as the A000383 Alan Armstrong incident documented in the Pipeline Guide. The wrong ID has been removed. A correct bioguide must be added manually (verify at bioguide.congress.gov/search) before the Congress.gov pipeline can enrich this profile. Pipeline will skip this profile until a bioguide is provided."
 ---
@@ -55,7 +55,7 @@ donors: [[Goldman Sachs]], [[AIPAC - American Israel Public Affairs Committee]]
 
 ## Who He Is
 
-[[_Chuck Schumer Master Profile|Chuck Schumer]]. U.S. Senate Majority Leader (2021–present), Senior Senator from New York (1999–present). Previously served in the House (1981–1998). Career campaign fundraising: $100M+. Net worth: ~$1.8 million (modest by Senate standards — the wealth is in the network, not the bank account). The most powerful Democrat in the Senate and the highest-ranking Jewish elected official in American history.
+[[_Chuck Schumer Master Profile|Chuck Schumer]]. U.S. Senate Majority Leader (2021–present), Senior Senator from New York (1999–present). Previously served in the House (1981–1998). Career campaign fundraising: $100M+. Net worth: ~$1.8 million (modest by Senate standards, the wealth is in the network, not the bank account). The most powerful Democrat in the Senate and the highest-ranking Jewish elected official in American history.
 
 ---
 
@@ -75,13 +75,13 @@ donors: [[Goldman Sachs]], [[AIPAC - American Israel Public Affairs Committee]]
 ## Donor Class Map
 
 ### The Wall Street Retainer:
-- [[The Wall Street-Schumer Funding Axis]] — $10.4M career from securities/investment. [[Goldman Sachs|Goldman Sachs]] $543K, Citigroup $484K, JPMorgan $365K. Killed tech antitrust. Protected carried interest. Family embedded in donor class: son-in-law at Blackstone, daughter at Amazon/Meta. The senator doesn't need instructions from Wall Street — his family lives inside it.
+- [[The Wall Street-Schumer Funding Axis]], $10.4M career from securities/investment. [[Goldman Sachs|Goldman Sachs]] $543K, Citigroup $484K, JPMorgan $365K. Killed tech antitrust. Protected carried interest. Family embedded in donor class: son-in-law at Blackstone, daughter at Amazon/Meta. The senator doesn't need instructions from Wall Street, his family lives inside it.
 
 ### The Israel Network:
-- [[AIPAC and the Israel Donor Network]] — $1.73M career from pro-Israel donors. Self-described "shomer" (guardian) of Israel in the Senate. March 2024 speech criticizing Netanyahu functioned as pressure release valve — symbolic distance while preserving every structural policy. AIPAC's most valuable Democratic asset because floor control > individual votes.
+- [[AIPAC and the Israel Donor Network]], $1.73M career from pro-Israel donors. Self-described "shomer" (guardian) of Israel in the Senate. March 2024 speech criticizing Netanyahu functioned as pressure release valve, symbolic distance while preserving every structural policy. AIPAC's most valuable Democratic asset because floor control > individual votes.
 
 ### The Dark Money Mirror:
-- [[Majority Forward and the Democratic Dark Money Operation]] — Majority Forward c4: $74M (2020) from anonymous donors. [[Senate Majority PAC|Senate Majority PAC]]: $230M+ (2022). Identical structure to McConnell's SLF/One Nation. Schumer publicly calls for overturning Citizens United while running the largest Democratic dark money operation in America.
+- [[Majority Forward and the Democratic Dark Money Operation]]. Majority Forward c4: $74M (2020) from anonymous donors. [[Senate Majority PAC|Senate Majority PAC]]: $230M+ (2022). Identical structure to McConnell's SLF/One Nation. Schumer publicly calls for overturning Citizens United while running the largest Democratic dark money operation in America.
 
 ---
 
@@ -89,9 +89,9 @@ donors: [[Goldman Sachs]], [[AIPAC - American Israel Public Affairs Committee]]
 
 Schumer's power, like McConnell's, derives not from his own votes but from procedural control of the Senate floor:
 
-1. **What reaches the floor:** Schumer decides which bills get votes. The tech antitrust bill had bipartisan support — Schumer killed it by never scheduling a vote. The donor class doesn't need senators to vote no; it needs the Majority Leader to ensure votes never happen.
+1. **What reaches the floor:** Schumer decides which bills get votes. The tech antitrust bill had bipartisan support. Schumer killed it by never scheduling a vote. The donor class doesn't need senators to vote no; it needs the Majority Leader to ensure votes never happen.
 
-2. **Judicial confirmations:** Schumer confirmed 200+ Biden judges — matching McConnell's Trump-era pace. The judicial pipeline operates identically under both parties, with different donor-class priorities but the same structural capture of the courts.
+2. **Judicial confirmations:** Schumer confirmed 200+ Biden judges, matching McConnell's Trump-era pace. The judicial pipeline operates identically under both parties, with different donor-class priorities but the same structural capture of the courts.
 
 3. **Amendment control:** By controlling which amendments reach the floor, Schumer determines which corporate interests face legislative risk. Industries that fund him rarely face hostile floor amendments.
 
@@ -129,36 +129,36 @@ The crypto pivot completes the picture. Schumer went from Warren-aligned skeptic
 
 | Date | Donor | Amount | Given | Policy Outcome |
 |------|-------|--------|-------|----------------|
-| 1999-11 | Goldman Sachs (PAC + executives) | $543K career (begins here) | 1998-2000 cycle | Schumer supports Gramm-Leach-Bliley Act repealing Glass-Steagall — Wall Street banks freed to merge commercial and investment banking |
+| 1999-11 | Goldman Sachs (PAC + executives) | $543K career (begins here) | 1998-2000 cycle | Schumer supports Gramm-Leach-Bliley Act repealing Glass-Steagall. Wall Street banks freed to merge commercial and investment banking |
 | 2009-2010 | Citigroup (PAC + executives) | $484K career | 2008-2010 cycle | Dodd-Frank derivatives trading protections weakened; Volcker Rule scope narrowed at Schumer's negotiation |
-| 2009-2010 | JPMorgan Chase (PAC + executives) | $365K career | 2008-2010 cycle | Dodd-Frank passes with Wall Street-friendly compromises — banks report Schumer was "key ally" in softening the bill |
+| 2009-2010 | JPMorgan Chase (PAC + executives) | $365K career | 2008-2010 cycle | Dodd-Frank passes with Wall Street-friendly compromises, banks report Schumer was "key ally" in softening the bill |
 | 2010-2024 | Blackstone Group (bundling, executive donations) | Significant (bundled) | Ongoing | Carried interest loophole ($18B/decade) never seriously challenged by Schumer despite Democratic platform calling for its closure |
-| 2010-2024 | Paul Weiss (law firm, Wall Street counsel) | $308K career | Ongoing | Tech antitrust bill (Klobuchar) killed — Schumer refuses floor vote despite bipartisan support; $277M industry lobbying wins |
-| 2019-2024 | Securities/investment sector (aggregate) | $10.4M career | Ongoing | Schumer's son-in-law works at Blackstone; daughter at Amazon/Meta — family embedded in the donor class it regulates |
+| 2010-2024 | Paul Weiss (law firm, Wall Street counsel) | $308K career | Ongoing | Tech antitrust bill (Klobuchar) killed. Schumer refuses floor vote despite bipartisan support; $277M industry lobbying wins |
+| 2019-2024 | Securities/investment sector (aggregate) | $10.4M career | Ongoing | Schumer's son-in-law works at Blackstone; daughter at Amazon/Meta, family embedded in the donor class it regulates |
 
 #### Israel Lobby
 
 | Date | Donor | Amount | Given | Policy Outcome |
 |------|-------|--------|-------|----------------|
 | 1999-2024 | AIPAC-affiliated PACs and donors | $1.73M career | Ongoing | Schumer self-designates as Israel's "shomer" (guardian); floor control ensures no hostile resolutions reach vote |
-| 2022-2024 | United Democracy Project (AIPAC super PAC) | $100M+ cycle (not to Schumer — spent on primaries) | 2023-2024 | AIPAC spends $100M+ defeating Israel-critical Democrats in primaries; Schumer's floor control complements the spending |
-| 2024-03 | [[Haim Saban]] + pro-Israel bundling network | Part of $1.73M career | Ongoing | March 2024: Schumer criticizes Netanyahu on Senate floor — speech functions as pressure release valve; no policy changes follow |
-| 2024-2025 | Pro-Israel donor network (aggregate) | Continued at record levels post-speech | 2024-2025 | Military aid continues, arms shipments continue, UN veto patterns continue — AIPAC spending on Democrats increases after speech, confirming donors understood it as theater |
+| 2022-2024 | United Democracy Project (AIPAC super PAC) | $100M+ cycle (not to Schumer, spent on primaries) | 2023-2024 | AIPAC spends $100M+ defeating Israel-critical Democrats in primaries; Schumer's floor control complements the spending |
+| 2024-03 | [[Haim Saban]] + pro-Israel bundling network | Part of $1.73M career | Ongoing | March 2024: Schumer criticizes Netanyahu on Senate floor, speech functions as pressure release valve; no policy changes follow |
+| 2024-2025 | Pro-Israel donor network (aggregate) | Continued at record levels post-speech | 2024-2025 | Military aid continues, arms shipments continue, UN veto patterns continue. AIPAC spending on Democrats increases after speech, confirming donors understood it as theater |
 
 #### Tech / Crypto
 
 | Date | Donor | Amount | Given | Policy Outcome |
 |------|-------|--------|-------|----------------|
-| 2021-2022 | Sam Bankman-Fried / FTX (bundling for Democrats) | $2M+ to Democratic leadership | 2021-2022 | Schumer co-sponsors Digital Commodities Consumer Protection Act — crypto-friendly regulatory framework |
+| 2021-2022 | Sam Bankman-Fried / FTX (bundling for Democrats) | $2M+ to Democratic leadership | 2021-2022 | Schumer co-sponsors Digital Commodities Consumer Protection Act, crypto-friendly regulatory framework |
 | 2022-07 | Crypto industry donors (aggregate to Senate Dems) | Part of $170M+ cycle | 2022 | Schumer-Booker SAFE Banking Act draft includes crypto provisions; Schumer signals openness to crypto legislation on floor |
 | 2023-2024 | [[Fairshake PAC]] (Coinbase $45M, a16z $43M, Ripple $45M) | $10M+ spent on Schumer-aligned Senate races | 2023-2024 | Schumer pivots from Warren-aligned crypto skeptic to industry collaborator within one election cycle |
-| 2024-2025 | Crypto industry (post-FTX rebuild) | Continued contributions to Democratic Senate candidates | 2024-2025 | Schumer allows FIT21 to advance — most crypto-friendly regulatory framework proposed; stablecoin legislation moves with bipartisan support |
+| 2024-2025 | Crypto industry (post-FTX rebuild) | Continued contributions to Democratic Senate candidates | 2024-2025 | Schumer allows FIT21 to advance, most crypto-friendly regulatory framework proposed; stablecoin legislation moves with bipartisan support |
 
 #### Dark Money (Schumer's own operation)
 
 | Date | Donor | Amount | Given | Policy Outcome |
 |------|-------|--------|-------|----------------|
-| 2020 | Anonymous donors → Majority Forward (501(c)(4)) | $74M (undisclosed donors) | 2019-2020 | Democratic Senate dark money operation mirrors McConnell's SLF/One Nation structure — identical architecture, different party |
+| 2020 | Anonymous donors → Majority Forward (501(c)(4)) | $74M (undisclosed donors) | 2019-2020 | Democratic Senate dark money operation mirrors McConnell's SLF/One Nation structure, identical architecture, different party |
 | 2022 | Anonymous donors → Senate Majority PAC (super PAC) | $230M+ | 2021-2022 | Largest Democratic outside spending operation; Schumer controls the apparatus he publicly denounces |
 | 2020-2024 | Anonymous donors (aggregate, undisclosed) | $500M+ cumulative across Schumer-aligned groups | Ongoing | Schumer calls for overturning Citizens United while running the largest Democratic dark money operation in America |
 
@@ -177,14 +177,14 @@ The crypto pivot completes the picture. Schumer went from Warren-aligned skeptic
 
 1. **The Brooklyn fighter:** Working-class accent, subway references, Sunday press conferences. The aesthetic is outer-borough populist; the donor base is Manhattan finance. The gap between the brand and the funding is Schumer's defining feature.
 2. **The bipartisan deal:** Schumer positions himself as the pragmatist who "gets things done" across the aisle. In practice, "bipartisan" means the compromise that both parties' donor classes can accept.
-3. **The tears:** Public emotion deployed strategically — at the Muslim ban, at gun violence press conferences. The tears are real; the policy response to the donors' interests is also real. Both can be true simultaneously.
+3. **The tears:** Public emotion deployed strategically, at the Muslim ban, at gun violence press conferences. The tears are real; the policy response to the donors' interests is also real. Both can be true simultaneously.
 4. **The call for Citizens United's reversal:** Delivered annually, with conviction, while running the dark money machine that Citizens United enabled. The call to overturn becomes performative precisely because Schumer's own operation depends on the system continuing.
 
 ---
 
 ### The Four Patterns in Schumer's Record
 
-#### 1. The Genuine Win + Structural Limit — Democratic Senate Control with Donor-Class Compatibility
+#### 1. The Genuine Win + Structural Limit. Democratic Senate Control with Donor-Class Compatibility
 
 Schumer has delivered real wins for his coalition: Democratic control of the Senate, Senate passage of major legislation (CHIPS, IRA, infrastructure bill). These are genuine legislative victories that required skill and political capital.
 
@@ -198,7 +198,7 @@ The structural limit: every "win" preserved core donor-class interests.
 
 Schumer's legislative skill is real. His constraint is structural: he never delivers legislation that threatens core donor-class wealth. The wins are real; the structural continuity is more real.
 
-#### 2. The Two-Audience Problem — Working-Class Brooklyn vs. Wall Street Manhattan
+#### 2. The Two-Audience Problem. Working-Class Brooklyn vs. Wall Street Manhattan
 
 Schumer's public identity:
 - Brooklyn accent, subway references, working-class populism
@@ -215,7 +215,7 @@ Schumer's actual donor base and legislative priority:
 > [!contradiction]
 > The gap between Schumer's brand and his record is the system working as designed. He represents New York—one of the most economically unequal states in America. His donor base is the financial elite; his constituent messaging is working-class. Both are genuine: he takes the money, he also fights immigration detention (real progressivism), and the contradiction remains unresolved.
 
-#### 3. The Pilot Program — Dark Money Mirroring as Rhetorical Weapon
+#### 3. The Pilot Program. Dark Money Mirroring as Rhetorical Weapon
 
 Schumer's greatest rhetorical achievement is calling for Citizens United's reversal while operating the largest Democratic dark money apparatus in America:
 
@@ -225,7 +225,7 @@ Schumer's greatest rhetorical achievement is calling for Citizens United's rever
 
 Schumer's annual "we must overturn Citizens United" speeches are delivered while his own operation depends on Citizens United existing. This is not hypocrisy; it's structural: the system that requires dark money to compete also enables the call for overthrowing that system. The call becomes performative specifically because the operation depends on its continuation.
 
-#### 4. The Villain Framing — Republican Obstructionism Rather Than Democratic Donor Capture
+#### 4. The Villain Framing. Republican Obstructionism Rather Than Democratic Donor Capture
 
 Schumer's default villain framing blames Republicans for blocking legislation:
 - "[[_Mitch McConnell Master Profile|Mitch McConnell]] won't allow a vote on this"
@@ -281,7 +281,7 @@ Schumer's role is not to vote yes or no. His role is to determine what the Senat
 
 - [FEC Candidate: Chuck Schumer Campaign Finance Summary](https://www.fec.gov/data/candidate/H0NY16010/) (Tier 1) (VERIFIED)
 - [CREW: Majority Forward investigation](https://publicintegrity.org/politics/how-democrats-use-dark-money-and-win-elections/) (Tier 2) (VERIFIED)
-- ~~[Politico: Tech antitrust bill killed without floor vote, $277M tech lobbying](https://www.politico.com/story/2022/03/28/tech-companies-kill-antitrust-bills-1231482)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[Politico: Tech antitrust bill killed without floor vote, $277M tech lobbying](https://www.politico.com/story/2022/03/28/tech-companies-kill-antitrust-bills-1231482)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [ProPublica: How Philanthropist David Rubenstein Helped Save a Tax Break Billionaires Love](https://www.propublica.org/article/how-david-rubenstein-helped-save-the-carried-interest-tax-loophole) (Tier 2) (VERIFIED)
 - [CoinDesk: Crypto PAC Fairshake and Schumer crypto pivot](https://www.coindesk.com/policy) (Tier 2) (VERIFIED)
 - New York Times: Schumer-Wall Street relationship, Israel speech analysis (Tier 2)

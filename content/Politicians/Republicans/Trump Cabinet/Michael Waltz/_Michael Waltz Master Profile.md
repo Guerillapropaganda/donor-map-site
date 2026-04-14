@@ -42,7 +42,7 @@ None yet. Potential sub-notes: Signalgate controversy, Metis Solutions defense c
 
 ## Who They Are
 
-Michael Waltz (born January 31, 1974, Florida) is a retired U.S. Army Colonel and Green Beret — the first Green Beret elected to Congress. He represented Florida's 6th District from 2019 to 2025, served briefly as National Security Advisor (January–May 2025), and became U.S. Ambassador to the United Nations in September 2025. Before politics, he co-founded Metis Solutions, a defense consulting firm sold to PAE for $92 million in 2020. He served in Bush administration policy roles under Rumsfeld, Gates, and Cheney. Net worth: ~$3M (assets $4–9M, liabilities $1–2.2M). Capital gains of $5–25M from the Metis Solutions sale.
+Michael Waltz (born January 31, 1974, Florida) is a retired U.S. Army Colonel and Green Beret, the first Green Beret elected to Congress. He represented Florida's 6th District from 2019 to 2025, served briefly as National Security Advisor (January–May 2025), and became U.S. Ambassador to the United Nations in September 2025. Before politics, he co-founded Metis Solutions, a defense consulting firm sold to PAE for $92 million in 2020. He served in Bush administration policy roles under Rumsfeld, Gates, and Cheney. Net worth: ~$3M (assets $4–9M, liabilities $1–2.2M). Capital gains of $5–25M from the Metis Solutions sale.
 
 ---
 
@@ -100,7 +100,7 @@ No sub-notes built yet. Key policy areas:
 
 ## Rhetorical Signature Moves
 
-Waltz uses military credentialing as his primary rhetorical frame — "Green Beret," "combat veteran," "national security expert." This framing allows him to position hawkish defense and foreign policy positions as expertise-driven rather than ideological or donor-driven. The Signalgate incident undermined this frame significantly.
+Waltz uses military credentialing as his primary rhetorical frame, "Green Beret," "combat veteran," "national security expert." This framing allows him to position hawkish defense and foreign policy positions as expertise-driven rather than ideological or donor-driven. The Signalgate incident undermined this frame significantly.
 
 ---
 
@@ -116,9 +116,9 @@ The Signalgate incident stripped the credentialing bare. Waltz built his politic
 
 ## Analytical Patterns
 
-- **Revolving Door** — Defense consulting (Metis Solutions) → Congress (Armed Services Committee) → NSA → UN Ambassador. Each position serves the defense sector's interests from a different angle.
-- **Self-Funding as Independence** — The Metis Solutions wealth ($5–25M in capital gains) provides financial independence from donors, but his policy positions still align with defense industry interests because that's where his wealth originates.
-- **Donor-Class Override** — AIPAC's $102K contribution correlates with Waltz's hawkish Israel positions, including support for military aid that directly benefits defense contractors.
+- **Revolving Door**. Defense consulting (Metis Solutions) → Congress (Armed Services Committee) → NSA → UN Ambassador. Each position serves the defense sector's interests from a different angle.
+- **Self-Funding as Independence**. The Metis Solutions wealth ($5–25M in capital gains) provides financial independence from donors, but his policy positions still align with defense industry interests because that's where his wealth originates.
+- **Donor-Class Override**. AIPAC's $102K contribution correlates with Waltz's hawkish Israel positions, including support for military aid that directly benefits defense contractors.
 
 ---
 
@@ -132,7 +132,7 @@ The Signalgate incident stripped the credentialing bare. Waltz built his politic
 - [ABC News: Waltz Signal controversy](https://abcnews.com/Politics/mike-waltz-national-security-adviser-added-journalist-signal/story?id=120131357) (Tier 2) (VERIFIED)
 - [Al Jazeera: Waltz ouster as NSA](https://www.aljazeera.com/news/2025/5/4/what-led-to-mike-waltzs-ouster-as-trumps-national-security-adviser) (Tier 2) (VERIFIED)
 - [American Bridge: Waltz dossier](https://americanbridgepac.org/trumps-orbit/trumps-potential-administration-officials/mike-waltz/) (Tier 3) (VERIFIED)
-- ~~[TheStreet: Waltz net worth](https://www.thestreet.com/personalities/mike-waltz-net-worth)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3)
+- ~~[TheStreet: Waltz net worth](https://www.thestreet.com/personalities/mike-waltz-net-worth)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
 
 ---
 

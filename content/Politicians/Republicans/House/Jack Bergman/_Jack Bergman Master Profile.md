@@ -1,5 +1,5 @@
 ---
-title: "Jack Bergman Master Profile"
+title: "Jack Bergman"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

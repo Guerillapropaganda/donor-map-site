@@ -2,7 +2,7 @@
 title: "Mitt Romney"
 type: politician
 content-readiness: ready
-central-thesis: "Romney represents the 'self-funding as independence' illusion: a billionaire candidate whose personal fortune (derived from leveraged buyouts and private equity) is presented as proof of independence from donors. But Bain Capital's business model—..."
+central-thesis: "Romney represents the 'self-funding as independence' illusion: a billionaire candidate whose personal fortune (derived from leveraged buyouts and private equity) is presented as proof of independence from donors. But Bain Capital's business model, ..."
 last-updated: 2026-04-13
 source-tier: 1
 parent: null
@@ -34,7 +34,7 @@ Mitt Romney (born 1947) served as U.S. Senator from Utah (2019–2025, retired).
 
 ## The Central Thesis
 
-Romney represents the **"self-funding as independence" illusion**: a billionaire candidate whose personal fortune (derived from leveraged buyouts and private equity) is presented as proof of independence from donors. But Bain Capital's business model—loading companies with debt, extracting management fees, and leaving them to fail—IS the donor class business model. Romney didn't escape the ruling class; he *is* the ruling class. His wealth is not proof of immunity to corruption; it is evidence of successful extraction.
+Romney represents the **"self-funding as independence" illusion**: a billionaire candidate whose personal fortune (derived from leveraged buyouts and private equity) is presented as proof of independence from donors. But Bain Capital's business model, loading companies with debt, extracting management fees, and leaving them to fail, IS the donor class business model. Romney didn't escape the ruling class; he *is* the ruling class. His wealth is not proof of immunity to corruption; it is evidence of successful extraction.
 
 ## The Core Contradiction
 
@@ -64,11 +64,11 @@ Romney represents the **"self-funding as independence" illusion**: a billionaire
 
 ## Class Analysis
 
-Romney exemplifies the **"Self-Funding as Independence" illusion**: the mythology that personal wealth = political independence. In reality, Romney's wealth (Bain Capital) and his political agenda (tax cuts, deregulation, private equity protections) are structurally aligned. He doesn't escape the donor class; he *is* the donor class. His campaign slogan was that he wouldn't "owe anything" to donors—but that's the wrong frame. He didn't need donors to approve his agenda; his agenda *was* his donors' agenda because they're the same person.
+Romney exemplifies the **"Self-Funding as Independence" illusion**: the mythology that personal wealth = political independence. In reality, Romney's wealth (Bain Capital) and his political agenda (tax cuts, deregulation, private equity protections) are structurally aligned. He doesn't escape the donor class; he *is* the donor class. His campaign slogan was that he wouldn't "owe anything" to donors, but that's the wrong frame. He didn't need donors to approve his agenda; his agenda *was* his donors' agenda because they're the same person.
 
 The "47 percent" comment revealed the underlying analysis: Romney saw society as divided into wealth creators (like himself, extracting value through Bain) and wealth consumers (everyone else, dependent on government). This is not a factual observation; it is a class analysis that justifies concentration of wealth as natural and inevitable.
 
-His 2020 impeachment vote (one of seven Republicans voting to convict) demonstrated the **"Two-Audience Problem"**: one message for conservative Utah voters (I'm principled, not partisan) and private reassurance to donors (I'm still cutting your taxes, deregulating your industries). The vote was costless—Trump lost anyway—and repositioned Romney as a "principled conservative" for elite audiences while maintaining full alignment with Trump's tax and deregulation agenda.
+His 2020 impeachment vote (one of seven Republicans voting to convict) demonstrated the **"Two-Audience Problem"**: one message for conservative Utah voters (I'm principled, not partisan) and private reassurance to donors (I'm still cutting your taxes, deregulating your industries). The vote was costless, Trump lost anyway, and repositioned Romney as a "principled conservative" for elite audiences while maintaining full alignment with Trump's tax and deregulation agenda.
 
 ## Sources
 
@@ -76,7 +76,7 @@ His 2020 impeachment vote (one of seven Republicans voting to convict) demonstra
 - [FEC campaign finance records: Romney 2012 presidential](https://www.fec.gov) (Tier 1) (VERIFIED)
 - [Bain Capital leveraged buyout model and investment performance](https://www.sec.gov) (Tier 1) (VERIFIED)
 - [Romney "47 percent" comment: leaked video, 2012](https://www.youtube.com/watch?v=J2SLM7ktjUU) (Tier 3) (VERIFIED)
-- ~~[Carried interest tax loophole and PE partner taxation](https://www.congress.gov)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[Carried interest tax loophole and PE partner taxation](https://www.congress.gov)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [Romney 2020 impeachment vote: Senate record](https://www.senate.gov) (Tier 1) (VERIFIED)
 
 ---

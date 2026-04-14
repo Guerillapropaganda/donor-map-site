@@ -32,33 +32,33 @@ Combined annual flow from these three families: $284,000+. Over a decade of Neta
 
 ---
 
-### [[Miriam Adelson|Miriam Adelson]] — The Mega-Donor Layer
+### [[Miriam Adelson|Miriam Adelson]]. The Mega-Donor Layer
 
 [[Miriam Adelson|Miriam Adelson]] stands above the three families. She is the apex predator in the Netanyahu donor network.
 
-**The wealth structure:** Widow of Sheldon Adelson (Las Vegas Sands casino empire). Net worth $38+ billion. Sheldon invested at least $50 million to launch Israel Hayom newspaper in 2007 — a free daily distributed across Israel specifically to counter-balance Haaretz's critical coverage. Miriam inherited both the wealth and the media empire.
+**The wealth structure:** Widow of Sheldon Adelson (Las Vegas Sands casino empire). Net worth $38+ billion. Sheldon invested at least $50 million to launch Israel Hayom newspaper in 2007, a free daily distributed across Israel specifically to counter-balance Haaretz's critical coverage. Miriam inherited both the wealth and the media empire.
 
 **The 2024 Trump donation:** $106 million. This is not marginal money. This is the third-largest individual donation to any American political candidate in the 2024 election cycle. It is $106 million spent to buy one outcome: Trump wins, and Trump protects Netanyahu.
 
 **What it bought:** Trump's second-term administration immediately:
-— Rescinded Biden-era regulations requiring allies not use U.S. weapons in violation of international law
-— Resumed weapons shipments Biden had paused
-— Maintained $3.8B annual military aid to Israel
-— Provided diplomatic cover for Gaza operations (no pressure for ceasefire, continued UN vetoes)
+, Rescinded Biden-era regulations requiring allies not use U.S. weapons in violation of international law
+, Resumed weapons shipments Biden had paused
+, Maintained $3.8B annual military aid to Israel
+, Provided diplomatic cover for Gaza operations (no pressure for ceasefire, continued UN vetoes)
 
 This is not correlation. This is direct causation. Adelson paid $106 million for this policy outcome. She received it. Netanyahu survived.
 
 ---
 
-### Israel Hayom — The Media Dimension
+### Israel Hayom. The Media Dimension
 
 Miriam Adelson controls Israel's most-read newspaper: 27.4% weekday readership (vs. Yedioth 22.4%, Haaretz 5.4%). This is not democratic. This is monopoly. A single pro-Netanyahu owner controls more than 1 in 4 copies of daily newspapers sold in Israel.
 
-The financial model: free distribution. Sheldon invested $50M+ to establish it. The free model undercuts competitors economically — they cannot survive competing against a product that costs nothing. Israel Hayom functions as Netanyahu's permanent propaganda apparatus. In elections, it is an in-kind campaign contribution of incalculable value. Between elections, it sets the agenda. Class analysis: oligarchic media ownership concentrates political power regardless of electoral outcomes.
+The financial model: free distribution. Sheldon invested $50M+ to establish it. The free model undercuts competitors economically, they cannot survive competing against a product that costs nothing. Israel Hayom functions as Netanyahu's permanent propaganda apparatus. In elections, it is an in-kind campaign contribution of incalculable value. Between elections, it sets the agenda. Class analysis: oligarchic media ownership concentrates political power regardless of electoral outcomes.
 
 ---
 
-### "[[American Friends of the Likud|American Friends of the Likud]]" — The Infrastructure
+### "[[American Friends of the Likud|American Friends of the Likud]]". The Infrastructure
 
 The formal organization connecting U.S. donors to Netanyahu's political ecosystem. Tax-registered, nonprofit. Channels donations, manages donor communications, facilitates fundraising events. The existence of this organization is the administrative proof that American capital has systematized its influence over Israeli politics. It is not ad hoc. It is institutionalized.
 
@@ -68,7 +68,7 @@ Netanyahu receives: 90%+ of his campaign funding, permanent capital supply, U.S.
 
 ---
 
-### The Class Function — Why This Works
+### The Class Function. Why This Works
 
 > [!contradiction]
 > Israel is a democracy. Israelis vote. Voters determine who holds power. Yet 90% of Netanyahu's campaign funding comes from foreigners — Americans who cannot vote in Israeli elections and whose interests may directly contradict Israeli public welfare. The donors' interest is not Israeli security. It is their own capital accumulation: Falic wants trade advantages, Schottenstein wants supply chain access, Adelson wants West Bank annexation and military expansion (markets for Israeli defense exports and surveillance tech). Netanyahu delivers all of this. Israeli voters reelect him or don't, but the outcome is predetermined by the donor class that funds him. Democracy persists as form. Class power persists as substance.
@@ -77,7 +77,7 @@ Netanyahu receives: 90%+ of his campaign funding, permanent capital supply, U.S.
 
 ### Sources
 
-- [BuzzFeed News — Three American families bankrolling Netanyahu](https://www.buzzfeednews.com/article/sheerafrenkel/meet-the-american-families-bankrolling-netanyahus) (Tier 2) (VERIFIED)
-- [OpenSecrets — Adelson 2024 donations](https://www.opensecrets.org/news/2025/03/elon-musk-tops-list-of-2024-political-donors-but-six-others-gave-more-than-100-million) (Tier 1) (VERIFIED)
-- ["[[American Friends of the Likud|American Friends of the Likud]]" — Official site](https://www.americanfriendsoflikud.org) (Tier 1)
+- [BuzzFeed News. Three American families bankrolling Netanyahu](https://www.buzzfeednews.com/article/sheerafrenkel/meet-the-american-families-bankrolling-netanyahus) (Tier 2) (VERIFIED)
+- [OpenSecrets. Adelson 2024 donations](https://www.opensecrets.org/news/2025/03/elon-musk-tops-list-of-2024-political-donors-but-six-others-gave-more-than-100-million) (Tier 1) (VERIFIED)
+- ["[[American Friends of the Likud|American Friends of the Likud]]". Official site](https://www.americanfriendsoflikud.org) (Tier 1)
 

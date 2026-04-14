@@ -20,7 +20,7 @@ tags: #analysis #story
 
 NAR spent $86.4 million on federal lobbying in 2024, more than any other organization in the United States, a 10× increase from $17.6 million in 2010. The real estate sector total: $150.9 million in federal lobbying in 2024. Finance/insurance/real estate combined: $636 million. [Senate LDA Filings: NAR Lobbying Summary](https://lda.gov/filings/public/filing/search/) (Tier 1) (VERIFIED), [RealEstateNews.com: NAR Spent More on Lobbying Than Any Other Group in 2024](https://www.realestatenews.com/2025/02/14/nar-spent-more-on-lobbying-than-any-other-group-in-2024) (Tier 2) (VERIFIED)
 
-NAR deliberately splits PAC money ~50/50 between parties: 43.7% Democrat / 56.3% Republican in 2024; 50.7% Democrat / 49.3% Republican in 2022. RPAC raised $45.8 million in 2024. NAR gave $2 million to Senate Majority PAC (Democratic) and $1 million to Senate Leadership Fund (Republican), buying both sides simultaneously. ~~[OpenSecrets: NAR Totals](https://www.opensecrets.org/orgs/national-assn-of-realtors/totals?id=D000000062)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1) (VERIFIED)
+NAR deliberately splits PAC money ~50/50 between parties: 43.7% Democrat / 56.3% Republican in 2024; 50.7% Democrat / 49.3% Republican in 2022. RPAC raised $45.8 million in 2024. NAR gave $2 million to Senate Majority PAC (Democratic) and $1 million to Senate Leadership Fund (Republican), buying both sides simultaneously. ~~[OpenSecrets: NAR Totals](https://www.opensecrets.org/orgs/national-assn-of-realtors/totals?id=D000000062)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1) (VERIFIED)
 
 > [!money]
 > NAR is the #1 lobbying spender in America. It splits money 50/50 between parties. It gave $2M to the Democratic Senate super PAC and $1M to the Republican Senate super PAC in the same cycle. This is not hedging, it is purchasing bipartisan protection for the housing market status quo.
@@ -40,7 +40,7 @@ NAR deliberately splits PAC money ~50/50 between parties: 43.7% Democrat / 56.3%
 | [[_Mario Diaz-Balart Master Profile|Mario Diaz-Balart]] | R-FL | $122,000 | Appropriations (HUD) |
 | Joyce Beatty | D-OH | $38,500 | Financial Services |
 
-~~[OpenSecrets: NAR Recipients](https://www.opensecrets.org/orgs/national-assn-of-realtors/recipients?id=D000000062)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+~~[OpenSecrets: NAR Recipients](https://www.opensecrets.org/orgs/national-assn-of-realtors/recipients?id=D000000062)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 
 ---
 
@@ -50,7 +50,7 @@ NAR deliberately splits PAC money ~50/50 between parties: 43.7% Democrat / 56.3%
 
 ### New York IDC Scandal
 
-Democratic state senators who caucused with Republicans to block rent control for nearly a decade received $320,000 from rental developers (Jeff Klein alone), while REBNY members gave $21.7 million to New York campaigns in a single cycle. Governor Andrew Cuomo received $11.2 million from REBNY members. ~~[Politico: REBNY Members Gave a Tenth of All NY Campaign Money](https://www.politico.com/states/new-york/albany/story/2015/04/rebny-members-gave-a-tenth-of-all-ny-campaign-money-021345)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+Democratic state senators who caucused with Republicans to block rent control for nearly a decade received $320,000 from rental developers (Jeff Klein alone), while REBNY members gave $21.7 million to New York campaigns in a single cycle. Governor Andrew Cuomo received $11.2 million from REBNY members. ~~[Politico: REBNY Members Gave a Tenth of All NY Campaign Money](https://www.politico.com/states/new-york/albany/story/2015/04/rebny-members-gave-a-tenth-of-all-ny-campaign-money-021345)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 
 ### California SB 50
 

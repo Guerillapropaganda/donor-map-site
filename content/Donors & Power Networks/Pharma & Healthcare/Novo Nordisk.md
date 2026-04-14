@@ -91,7 +91,7 @@ Novo Nordisk A/S. Danish pharmaceutical company that has become the most valuabl
 
 Novo Nordisk's US political operation is managed through its American subsidiary. The company's PAC contributes $1-2 million per cycle, with lobbying spending of $5-8 million annually. As a foreign-headquartered company, Novo Nordisk's US political operation is constrained by FARA requirements, but the company's market dominance in insulin and GLP-1 drugs gives it enormous regulatory leverage.
 
-- ~~[OpenSecrets: Novo Nordisk organizational profile](https://www.opensecrets.org/orgs/novo-nordisk/summary?id=D000042338)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[OpenSecrets: Novo Nordisk organizational profile](https://www.opensecrets.org/orgs/novo-nordisk/summary?id=D000042338)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 
 ---
 

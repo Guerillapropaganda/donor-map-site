@@ -1,5 +1,5 @@
 ---
-title: "Haley M. Stevens Master Profile"
+title: "Haley M. Stevens"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

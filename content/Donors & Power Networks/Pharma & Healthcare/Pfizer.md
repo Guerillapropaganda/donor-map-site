@@ -92,21 +92,21 @@ total-assets: 255288291
 
 Largest pharmaceutical company by revenue globally. Pfizer's political operation runs on three tracks: a bipartisan PAC that spreads contributions across both parties ($639K to 228 federal lawmakers in 2024), a lobbying machine ($10+ million annually, $219 million cumulative 1999-2018), and a revolving door that places former FDA directors into Pfizer's C-suite.
 
-The COVID pandemic transformed Pfizer from a large but unremarkable pharma donor into a case study in taxpayer-funded profit extraction. Operation Warp Speed committed $5.95 billion in advance purchase agreements for Pfizer-BioNTech's vaccine. Pfizer generated $36.8 billion in Comirnaty revenue in 2021 alone. Germany — not the US — funded the actual R&D through a €375 million grant to BioNTech.
+The COVID pandemic transformed Pfizer from a large but unremarkable pharma donor into a case study in taxpayer-funded profit extraction. Operation Warp Speed committed $5.95 billion in advance purchase agreements for Pfizer-BioNTech's vaccine. Pfizer generated $36.8 billion in Comirnaty revenue in 2021 alone. Germany, not the US, funded the actual R&D through a €375 million grant to BioNTech.
 
-Under the Trump 2.0 administration, Pfizer faces a new structural threat. RFK Jr.'s HHS defunded $500 million in mRNA vaccine projects (August 2025), fired 17 ACIP members, and terminated mRNA contracts — a direct attack on Pfizer's future revenue pipeline. The irony: Pfizer's bipartisan PAC strategy, designed to insulate the company from political shifts, couldn't protect it from an appointee whose ideology rejects the pharmaceutical model entirely.
+Under the Trump 2.0 administration, Pfizer faces a new structural threat. RFK Jr.'s HHS defunded $500 million in mRNA vaccine projects (August 2025), fired 17 ACIP members, and terminated mRNA contracts, a direct attack on Pfizer's future revenue pipeline. The irony: Pfizer's bipartisan PAC strategy, designed to insulate the company from political shifts, couldn't protect it from an appointee whose ideology rejects the pharmaceutical model entirely.
 
 ---
 
 ### What They Want
 
-**Block or weaken drug price negotiation:** The Inflation Reduction Act (2022) authorized Medicare to negotiate prices on select drugs. Pfizer spent $14.9 million on lobbying in 2022 — its highest since 2009 — fighting this provision. CEO Albert Bourla publicly expressed "disappointment." The result: negotiation is limited, delayed (Part D 2026, Part B 2028), and applies to only a handful of drugs initially. Pfizer's co-product Eliquis was negotiated from $18.42/day to $6.99/day — a 62% reduction that still represents significant revenue.
+**Block or weaken drug price negotiation:** The Inflation Reduction Act (2022) authorized Medicare to negotiate prices on select drugs. Pfizer spent $14.9 million on lobbying in 2022, its highest since 2009, fighting this provision. CEO Albert Bourla publicly expressed "disappointment." The result: negotiation is limited, delayed (Part D 2026, Part B 2028), and applies to only a handful of drugs initially. Pfizer's co-product Eliquis was negotiated from $18.42/day to $6.99/day, a 62% reduction that still represents significant revenue.
 
-**Maintain patent monopoly pricing:** Paxlovid (COVID treatment) went from $529/course under government purchase to $1,390/course on the private market — a 2.6x markup. Generic versions are available for under $25 in low-income countries through the Medicines Patent Pool, demonstrating that the US price reflects monopoly power, not production cost.
+**Maintain patent monopoly pricing:** Paxlovid (COVID treatment) went from $529/course under government purchase to $1,390/course on the private market, a 2.6x markup. Generic versions are available for under $25 in low-income countries through the Medicines Patent Pool, demonstrating that the US price reflects monopoly power, not production cost.
 
-**Preserve the revolving door:** FDA officials who approve Pfizer drugs rotate into Pfizer employment. This isn't corruption in the traditional sense — it's structural alignment. When the people making approval decisions know their next job is at the company they're regulating, the regulatory process tilts toward industry interests without anyone breaking any rules.
+**Preserve the revolving door:** FDA officials who approve Pfizer drugs rotate into Pfizer employment. This isn't corruption in the traditional sense, it's structural alignment. When the people making approval decisions know their next job is at the company they're regulating, the regulatory process tilts toward industry interests without anyone breaking any rules.
 
-**Maintain mRNA revenue pipeline:** Pre-RFK Jr., Pfizer was building a next-generation mRNA platform for flu, RSV, and other vaccines. The $500 million BARDA defunding threatens this entire strategy.
+**Maintain mRNA revenue pipeline:** Pre-RFK Jr. Pfizer was building a next-generation mRNA platform for flu, RSV, and other vaccines. The $500 million BARDA defunding threatens this entire strategy.
 
 ---
 
@@ -114,11 +114,11 @@ Under the Trump 2.0 administration, Pfizer faces a new structural threat. RFK Jr
 
 #### PAC Contributions (2024 Cycle)
 
-Pfizer PAC raised $1.96 million and distributed $639,500 to federal candidates — approximately 63% to Republicans, 37% to Democrats. This bipartisan split is deliberate: pharma companies need regulatory allies in both parties.
+Pfizer PAC raised $1.96 million and distributed $639,500 to federal candidates, approximately 63% to Republicans, 37% to Democrats. This bipartisan split is deliberate: pharma companies need regulatory allies in both parties.
 
 Individual Pfizer employee donations tell a different story: $200K+ to Harris vs. $12K to Trump in 2024. The company PAC hedges; the workforce leans Democratic.
 
-**Key pattern:** Pfizer contributed to 228 federal lawmakers across 548 individual checks. This is saturation funding — not targeting specific allies, but ensuring that nearly half of Congress has received Pfizer money and will take the call.
+**Key pattern:** Pfizer contributed to 228 federal lawmakers across 548 individual checks. This is saturation funding, not targeting specific allies, but ensuring that nearly half of Congress has received Pfizer money and will take the call.
 
 #### Lobbying Operation
 
@@ -127,10 +127,10 @@ Individual Pfizer employee donations tell a different story: $200K+ to Harris vs
 | 2022 | $14.9M | IRA drug pricing fight (peak) |
 | 2023 | $10.8M | Baseline operations |
 | 2024 | $9.1-10.1M | Continued IRA implementation lobbying |
-| 2025 Q1 | $4.24M (annualized ~$17M) | 165% increase — RFK Jr. response |
+| 2025 Q1 | $4.24M (annualized ~$17M) | 165% increase. RFK Jr. response |
 | Cumulative 1999-2018 | $219M | Two decades of sustained lobbying |
 
-Pfizer employs ~76 registered lobbyists. The pharmaceutical industry as a whole spent $388 million on federal lobbying in 2024 — a record. Pfizer represents roughly 2.3% of this total but punches above its weight through PhRMA membership, which coordinates industry-wide strategy.
+Pfizer employs ~76 registered lobbyists. The pharmaceutical industry as a whole spent $388 million on federal lobbying in 2024, a record. Pfizer represents roughly 2.3% of this total but punches above its weight through PhRMA membership, which coordinates industry-wide strategy.
 
 > [!money]
 > Pfizer spent $14.9 million lobbying against the IRA's drug pricing provisions in 2022. Eliquis alone generated $16.5 billion in 2023 Medicare + commercial spending. Even with the negotiated 62% price reduction (effective 2026), Eliquis will still generate billions annually. The $14.9 million lobbying investment was attempting to protect tens of billions in revenue — a potential ROI exceeding 1,000x if the provision had been killed entirely.
@@ -141,7 +141,7 @@ Pfizer employs ~76 registered lobbyists. The pharmaceutical industry as a whole 
 
 The FDA-Pfizer pipeline is the most documented revolving door in pharmaceutical regulation.
 
-**Patrizia Cavazzoni:** Director of FDA's Center for Drug Evaluation and Research (CDER) — the office that oversees all drug approvals, including Pfizer products. Left FDA January 2025. Became Pfizer's Chief Medical Officer. CDER approved Pfizer drugs under her tenure; she now works for Pfizer.
+**Patrizia Cavazzoni:** Director of FDA's Center for Drug Evaluation and Research (CDER), the office that oversees all drug approvals, including Pfizer products. Left FDA January 2025. Became Pfizer's Chief Medical Officer. CDER approved Pfizer drugs under her tenure; she now works for Pfizer.
 
 **Scott Gottlieb:** FDA Commissioner. Left June 2019. Joined Pfizer's board of directors less than two months later (June 2019). As Commissioner, Gottlieb oversaw the regulatory framework that approved Pfizer products. As board member, he shapes Pfizer's corporate strategy.
 
@@ -197,7 +197,7 @@ This is the Genuine Win + Structural Limit pattern in reverse: Pfizer's bipartis
 
 Pfizer's political operation illustrates how pharmaceutical corporations capture regulatory and legislative systems through structural mechanisms rather than crude bribery.
 
-The revolving door is the foundation. When FDA directors become Pfizer executives within months of leaving government, the regulatory framework becomes a pathway to industry employment. Officials don't need to be told to favor Pfizer — the career incentive structure does the work automatically. Stanford Law documented that 69% of FDA examiners who worked on drug approvals went to work for the companies they regulated.
+The revolving door is the foundation. When FDA directors become Pfizer executives within months of leaving government, the regulatory framework becomes a pathway to industry employment. Officials don't need to be told to favor Pfizer, the career incentive structure does the work automatically. Stanford Law documented that 69% of FDA examiners who worked on drug approvals went to work for the companies they regulated.
 
 The bipartisan PAC strategy is the insurance policy. By giving to 228 lawmakers across both parties, Pfizer ensures that drug pricing reform always faces opposition within both caucuses. The IRA passed despite pharma's $388 million lobbying year, but in a weakened form that preserved the majority of industry pricing power.
 

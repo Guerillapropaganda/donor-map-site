@@ -18,7 +18,7 @@ generated-by: scripts/lib/attention-queue.cjs
 
 ## 🔴 Blocking
 
-*Something is broken or will break soon. These block other work — handle first.*
+*Something is broken or will break soon. These block other work, handle first.*
 
 _Nothing here right now. ✓_
 
@@ -242,11 +242,11 @@ Ready profile has "70% of" in the (no section) section with no source link in th
 - **Leverage:** ★★★☆☆
 - **Surfaced by:** `hallucination-catcher`
 
-### The Shared Sponsor Map — Corporate Advertisers Funding Both Left and Right Political Media: 24 unsupported claims
+### The Shared Sponsor Map. Corporate Advertisers Funding Both Left and Right Political Media: 24 unsupported claims
 
 Ready profile has "$10.8 billion" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.
 
-- **Where:** `content/Media & Influence Pipeline/The Shared Sponsor Map — Corporate Advertisers Funding Both Left and Right Political Media.md`
+- **Where:** `content/Media & Influence Pipeline/The Shared Sponsor Map. Corporate Advertisers Funding Both Left and Right Political Media.md`
 - **Cost:** ~15 min
 - **Leverage:** ★★★☆☆
 - **Surfaced by:** `hallucination-catcher`
@@ -352,7 +352,7 @@ Ready profile has "86.4% of" in the (no section) section with no source link in 
 
 ### George W. Bush has NATIONAL RIGHT TO LIFE POLITICAL ACTION COMMITTEE in both donors and opposes
 
-NATIONAL RIGHT TO LIFE POLITICAL ACTION COMMITTEE appears as both a funder and an adversary of George W. Bush. Investigate whether this is a transactional both-sides play (LLC layering, PAC vs entity distinction, timing arbitrage) or a genuine contradiction. Either way it's a story — the vault has the connection, nobody else does.
+NATIONAL RIGHT TO LIFE POLITICAL ACTION COMMITTEE appears as both a funder and an adversary of George W. Bush. Investigate whether this is a transactional both-sides play (LLC layering, PAC vs entity distinction, timing arbitrage) or a genuine contradiction. Either way it's a story, the vault has the connection, nobody else does.
 
 - **Where:** `content/Story Seeds/both-sides-george-w-bush-has-national-right-to-life-political-action-committee-i.md`
 - **Cost:** ~25 min
@@ -361,7 +361,7 @@ NATIONAL RIGHT TO LIFE POLITICAL ACTION COMMITTEE appears as both a funder and a
 
 ### George W. Bush has NRA POLITICAL VICTORY FUND in both donors and opposes
 
-NRA POLITICAL VICTORY FUND appears as both a funder and an adversary of George W. Bush. Investigate whether this is a transactional both-sides play (LLC layering, PAC vs entity distinction, timing arbitrage) or a genuine contradiction. Either way it's a story — the vault has the connection, nobody else does.
+NRA POLITICAL VICTORY FUND appears as both a funder and an adversary of George W. Bush. Investigate whether this is a transactional both-sides play (LLC layering, PAC vs entity distinction, timing arbitrage) or a genuine contradiction. Either way it's a story, the vault has the connection, nobody else does.
 
 - **Where:** `content/Story Seeds/both-sides-george-w-bush-has-nra-political-victory-fund-in-both-donors-and-oppos.md`
 - **Cost:** ~25 min
@@ -536,7 +536,7 @@ Referenced by 26 other vault profiles but has no file yet. Building a stub unloc
 
 ### Build stub: Jeff Yass
 
-Referenced by 19 other vault profiles but has no file yet. Building a stub unlocks 19 broken wikilinks and turns this entity into something other scripts can enrich. Sample: Cryptocurrency Industry Bloc — Fairshake PAC Network, Donor Registry - Master Index, American Federation for Children.
+Referenced by 19 other vault profiles but has no file yet. Building a stub unlocks 19 broken wikilinks and turns this entity into something other scripts can enrich. Sample: Cryptocurrency Industry Bloc. Fairshake PAC Network, Donor Registry - Master Index, American Federation for Children.
 
 - **Where:** `content/Admin Notes/missing-profiles.md`
 - **Cost:** ~10 min
@@ -630,8 +630,8 @@ Referenced by 9 other vault profiles but has no file yet. Building a stub unlock
 
 - Every entry was surfaced by an automation script.
 - Scripts rank their findings by leverage (how much it matters) and cost (how long it takes).
-- Items sort top-to-bottom by leverage ÷ cost — the biggest wins per minute first.
+- Items sort top-to-bottom by leverage ÷ cost, the biggest wins per minute first.
 - **Blocking** items are breakages you must fix.
-- **Editorial Decisions** are the quality work you want to do — story angles, sign-offs, drift reviews.
+- **Editorial Decisions** are the quality work you want to do, story angles, sign-offs, drift reviews.
 - **Background Cleanup** is busy work that scripts can mostly handle; review when you have time.
 - Every morning, start at the top and work down. Once a day is enough.

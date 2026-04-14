@@ -1,5 +1,5 @@
 ---
-title: "Darin Lahood Master Profile"
+title: "Darin Lahood"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

@@ -1,5 +1,5 @@
 ---
-title: "Ben Carson Master Profile"
+title: "Ben Carson"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

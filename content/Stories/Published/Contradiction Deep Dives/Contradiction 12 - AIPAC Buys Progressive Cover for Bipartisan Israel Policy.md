@@ -105,7 +105,7 @@ The donor class controls the policy (Gaza escalation) *and* the opposition (prog
 - [Factually: AIPAC funding congressional candidates 2024](https://factually.co/fact-checks/politics/largest-aipac-udp-donations-congressional-candidates-2024-by-state-c64777) (Tier 2) (VERIFIED)
 - [The Intercept: How Does AIPAC Shape Washington? We Tracked Every Dollar](https://theintercept.com/2024/10/24/aipac-spending-congress-elections-israel/) (Tier 2) (VERIFIED)
 - [ABC News/538: Pro-Israel groups spent big to oust Bowman and Bush](https://abcnews.com/538/pro-israel-groups-spent-big-oust-squad-members/story?id=113675889) (Tier 2) (VERIFIED)
-- ~~[The Washington Post: AIPAC defeats Bush and Bowman in 2024 primaries](https://www.washingtonpost.com/politics/2024/08/08/aipiac-cori-bush-primary/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[The Washington Post: AIPAC defeats Bush and Bowman in 2024 primaries](https://www.washingtonpost.com/politics/2024/08/08/aipiac-cori-bush-primary/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Jewish Currents: Ritchie Torres Is the Future of Pro-Israel Politics](https://jewishcurrents.org/ritchie-torres-is-the-future-of-pro-israel-politics/) (Tier 2) (VERIFIED)
 - [Times of Israel: Ritchie Torres Israel activism controversy](https://www.timesofisrael.com/ritchie-torress-israel-activism-sparks-controversy-at-home-but-in-israel-hes-a-star/) (Tier 2) (VERIFIED)
 - [Newsweek: Torres voted against Hamas resolution by mistake](https://www.newsweek.com/ritchie-torres-democrat-voted-against-hamas-resolution-mistake-1840666) (Tier 2) (VERIFIED)

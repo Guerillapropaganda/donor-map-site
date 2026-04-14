@@ -1,5 +1,5 @@
 ---
-title: "Gabe Amo Master Profile"
+title: "Gabe Amo"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

@@ -21,7 +21,7 @@ known-gaps:
 
 ### What It Was
 
-Breitbart News. Conservative media platform. Robert and [[Rebekah Mercer|Rebekah Mercer]] invested at least $10 million following Andrew Breitbart's death in 2012. [[_Steve Bannon Master Profile|Steve Bannon]]: Executive Chairman (2012–2017). Self-described "platform for the alt-right." The $10M Mercer investment transformed Breitbart from a small blog network into a conservative media powerhouse that served as the testing ground for Trump-era messaging — immigration, nationalism, anti-establishment populism. When the messaging was proven, [[Rebekah Mercer|Rebekah Mercer]] moved Bannon from the media platform to the campaign itself (August 2016). Breitbart generated the narratives. [[Cambridge Analytica and the Data Weaponization of Elections|Cambridge Analytica]] targeted the audiences. The super PAC funded the ads. One donor funded all three.
+Breitbart News. Conservative media platform. Robert and [[Rebekah Mercer|Rebekah Mercer]] invested at least $10 million following Andrew Breitbart's death in 2012. [[_Steve Bannon Master Profile|Steve Bannon]]: Executive Chairman (2012–2017). Self-described "platform for the alt-right." The $10M Mercer investment transformed Breitbart from a small blog network into a conservative media powerhouse that served as the testing ground for Trump-era messaging, immigration, nationalism, anti-establishment populism. When the messaging was proven, [[Rebekah Mercer|Rebekah Mercer]] moved Bannon from the media platform to the campaign itself (August 2016). Breitbart generated the narratives. [[Cambridge Analytica and the Data Weaponization of Elections|Cambridge Analytica]] targeted the audiences. The super PAC funded the ads. One donor funded all three.
 
 ---
 
@@ -34,28 +34,28 @@ The Mercers met Bannon through a [[Club for Growth|Club for Growth]] donors' mee
 | Breitbart News | $10M | Executive Chairman | Messaging platform, narrative testing |
 | Government Accountability Institute | $2M seed + ongoing | Co-founder, $376K/year | Opposition research ("Clinton Cash") |
 | Cambridge Analytica | $15-20M | VP, board secretary | Data targeting, voter manipulation |
-| Trump Campaign | N/A | CEO (Aug 2016) | Execution — hired by [[Rebekah Mercer|Rebekah Mercer]] |
+| Trump Campaign | N/A | CEO (Aug 2016) | Execution, hired by [[Rebekah Mercer|Rebekah Mercer]] |
 | White House | N/A | Chief Strategist (Jan 2017) | Policy implementation |
 
-Bannon simultaneously collected $376,000/year from GAI (for 30 hours/week) while running Breitbart and serving on Cambridge Analytica's board. The Mercer network paid Bannon's salary across multiple entities — ensuring his entire political existence depended on a single family's funding.
+Bannon simultaneously collected $376,000/year from GAI (for 30 hours/week) while running Breitbart and serving on Cambridge Analytica's board. The Mercer network paid Bannon's salary across multiple entities, ensuring his entire political existence depended on a single family's funding.
 
 ---
 
 ### The Media-to-White-House Pipeline
 
-### Phase 1 — Breitbart as Lab (2012-2015):
+### Phase 1. Breitbart as Lab (2012-2015):
 Bannon used Breitbart to test nationalist, anti-immigration, anti-establishment messaging. The audience data revealed which narratives mobilized voters. The platform functioned as a political polling operation disguised as journalism.
 
-### Phase 2 — GAI as Arsenal (2012-2016):
-Peter Schweizer's Government Accountability Institute — co-founded with Bannon, funded by Mercers, chaired by Rebekah Mercer — produced "Clinton Cash" (2015). The book was opposition research packaged as investigative journalism. The New York Times licensed its findings. The mainstream media amplified Mercer-funded attacks. The donor's money became the news cycle.
+### Phase 2. GAI as Arsenal (2012-2016):
+Peter Schweizer's Government Accountability Institute, co-founded with Bannon, funded by Mercers, chaired by Rebekah Mercer, produced "Clinton Cash" (2015). The book was opposition research packaged as investigative journalism. The New York Times licensed its findings. The mainstream media amplified Mercer-funded attacks. The donor's money became the news cycle.
 
-### Phase 3 — Cambridge Analytica as Weapon (2015-2016):
+### Phase 3. Cambridge Analytica as Weapon (2015-2016):
 The psychographic data from 87 million Facebook users allowed precise targeting of the Breitbart-tested narratives to the voters most susceptible to them. The messaging (Breitbart) + targeting (Cambridge Analytica) + funding (super PAC) formed a closed system: one donor, one strategist, three interlocking tools.
 
-### Phase 4 — Rebekah Mercer as Kingmaker (August 2016):
-Rebekah Mercer personally persuaded Trump to hire Bannon as campaign CEO and Kellyanne Conway as campaign manager. The donor didn't just fund the campaign — she staffed it with her own operatives.
+### Phase 4. Rebekah Mercer as Kingmaker (August 2016):
+Rebekah Mercer personally persuaded Trump to hire Bannon as campaign CEO and Kellyanne Conway as campaign manager. The donor didn't just fund the campaign, she staffed it with her own operatives.
 
-### Phase 5 — White House (January 2017):
+### Phase 5. White House (January 2017):
 Bannon entered the West Wing as Chief Strategist. The pipeline from Mercer's wallet to the Oval Office was complete.
 
 > [!money]
@@ -69,7 +69,7 @@ Bannon entered the West Wing as Chief Strategist. The pipeline from Mercer's wal
 
 ### Breitbart decline:
 - 90% of advertisers lost within 3 months of 2016 election
-- Traffic collapse: 17.3M monthly readers (early 2017) → 4.6M (May 2019) — 72% decline
+- Traffic collapse: 17.3M monthly readers (early 2017) → 4.6M (May 2019), 72% decline
 - Revenue gutted
 
 ### Bannon legal troubles:
@@ -78,7 +78,7 @@ Bannon entered the West Wing as Chief Strategist. The pipeline from Mercer's wal
 - Convicted of contempt of Congress (July 2022) for refusing January 6 committee subpoena
 - Served 4 months in federal prison (October 2024 – January 2025, commuted by Trump)
 
-The Bannon relationship became a liability. The Mercers adapted — shifting from media-operative partnerships to institutional board positions (Heritage, Project 2025). The lesson: operatives are disposable. Institutions endure.
+The Bannon relationship became a liability. The Mercers adapted, shifting from media-operative partnerships to institutional board positions (Heritage, Project 2025). The lesson: operatives are disposable. Institutions endure.
 
 ---
 

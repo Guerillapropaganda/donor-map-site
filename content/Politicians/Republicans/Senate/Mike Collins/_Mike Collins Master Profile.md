@@ -1,5 +1,5 @@
 ---
-title: Mike Collins Master Profile
+title: Mike Collins
 type: politician
 content-readiness: ready
 central-thesis: >-
@@ -56,7 +56,7 @@ Mike Collins. Republican Senate candidate for Georgia (2026), challenging incumb
 
 ## The Central Thesis
 
-Mike Collins is a cargo-cult populist being bankrolled by two mega-donor blocs (crypto and pro-Israel) who have nothing to do with his trucking company base or Trump movement roots. He is running as an "America First trucker," but his campaign is entirely dependent on billionaire crypto traders (Winklevoss, Musk) and AIPAC money that expects him to serve their policy interests (crypto deregulation and unconditional Israel support) regardless of what his voters want. His personal crypto trading is not a hobby — it signals alignment with the industry funding him. His campaign accepts crypto donations not for fundraising volume but as signaling that he understands and serves crypto industry interests. His core function: provide a Trump-aligned face for crypto and pro-Israel interests to move money into Georgia Senate race to unseat Ossoff, who voted for [[_Bernie Sanders Master Profile|Bernie Sanders]] resolutions conditioning military aid to Israel.
+Mike Collins is a cargo-cult populist being bankrolled by two mega-donor blocs (crypto and pro-Israel) who have nothing to do with his trucking company base or Trump movement roots. He is running as an "America First trucker," but his campaign is entirely dependent on billionaire crypto traders (Winklevoss, Musk) and AIPAC money that expects him to serve their policy interests (crypto deregulation and unconditional Israel support) regardless of what his voters want. His personal crypto trading is not a hobby, it signals alignment with the industry funding him. His campaign accepts crypto donations not for fundraising volume but as signaling that he understands and serves crypto industry interests. His core function: provide a Trump-aligned face for crypto and pro-Israel interests to move money into Georgia Senate race to unseat Ossoff, who voted for [[_Bernie Sanders Master Profile|Bernie Sanders]] resolutions conditioning military aid to Israel.
 
 ---
 
@@ -70,35 +70,35 @@ Mike Collins is a cargo-cult populist being bankrolled by two mega-donor blocs (
 ## Donor Class Map
 
 ### The Crypto-Industry-AIPAC Alliance:
-- [[Fairshake PAC]] — Crypto industry super PAC with $193M cash on hand (2026). Major donors: Coinbase, a16z, Ripple, Jump Crypto. Fairshake deployed $8.6M in Illinois 2024 primary as disciplinary spending against crypto-hostile candidates. Supports Collins because: (a) he's self-described crypto trader showing industry alignment; (b) he accepts crypto donations; (c) Ossoff is not crypto-hostile but Fairshake strategy is to remove moderates and replace with ideological allies.
-- [[AIPAC - American Israel Public Affairs Committee]] — Pro-Israel lobby with $96M war chest (2026). Deployed $21M+ in Illinois 2024 as part of three-industry alliance (crypto $8.6M, AI $2.5M, AIPAC $21M). Supports Collins because: (a) he's Trump-aligned and Trump is pro-Israel; (b) Ossoff voted for [[_Bernie Sanders Master Profile|Bernie Sanders]] resolution conditioning military aid to Israel; (c) AIPAC is expanding state-level electoral intervention to remove senators perceived as insufficiently loyal.
-- [[Winklevoss Twins]] — Cameron and Tyler Winklevoss, cryptocurrency exchange (Gemini) founders. Combined $14K to Collins. Part of broader crypto industry funding strategy.
-- [[Elon Musk]] — $6.6K personal donation to Collins (small amount, high symbolic value). Musk has broader crypto interests through his companies and his public advocacy for crypto deregulation. Donation signals Musk's America First alignment and willingness to deploy resources to Trump-backed candidates.
-- [[Club for Growth]] — Conservative PAC supporting Collins campaign; endorsement documented. [[Club for Growth|Club for Growth]] is vehicle for anti-government spending conservatives; expects Collins to vote for spending cuts.
+- [[Fairshake PAC]]. Crypto industry super PAC with $193M cash on hand (2026). Major donors: Coinbase, a16z, Ripple, Jump Crypto. Fairshake deployed $8.6M in Illinois 2024 primary as disciplinary spending against crypto-hostile candidates. Supports Collins because: (a) he's self-described crypto trader showing industry alignment; (b) he accepts crypto donations; (c) Ossoff is not crypto-hostile but Fairshake strategy is to remove moderates and replace with ideological allies.
+- [[AIPAC - American Israel Public Affairs Committee]]. Pro-Israel lobby with $96M war chest (2026). Deployed $21M+ in Illinois 2024 as part of three-industry alliance (crypto $8.6M, AI $2.5M, AIPAC $21M). Supports Collins because: (a) he's Trump-aligned and Trump is pro-Israel; (b) Ossoff voted for [[_Bernie Sanders Master Profile|Bernie Sanders]] resolution conditioning military aid to Israel; (c) AIPAC is expanding state-level electoral intervention to remove senators perceived as insufficiently loyal.
+- [[Winklevoss Twins]]. Cameron and Tyler Winklevoss, cryptocurrency exchange (Gemini) founders. Combined $14K to Collins. Part of broader crypto industry funding strategy.
+- [[Elon Musk]], $6.6K personal donation to Collins (small amount, high symbolic value). Musk has broader crypto interests through his companies and his public advocacy for crypto deregulation. Donation signals Musk's America First alignment and willingness to deploy resources to Trump-backed candidates.
+- [[Club for Growth]]. Conservative PAC supporting Collins campaign; endorsement documented. [[Club for Growth|Club for Growth]] is vehicle for anti-government spending conservatives; expects Collins to vote for spending cuts.
 
 ### The Crypto Trader Alignment:
-- Collins' personal portfolio ($745K+ in crypto trades since 2023) demonstrates he is not merely accepting crypto industry money — he is *investor-aligned* with the industry. His wealth is increasingly tied to crypto asset prices. This creates direct financial interest in crypto deregulation independent of campaign contributions.
+- Collins' personal portfolio ($745K+ in crypto trades since 2023) demonstrates he is not merely accepting crypto industry money, he is *investor-aligned* with the industry. His wealth is increasingly tied to crypto asset prices. This creates direct financial interest in crypto deregulation independent of campaign contributions.
 
 ---
 
 ## Analytical Patterns
 
-**The Manufactured Populist** — Collins campaigns as a "trucker" and "America First" candidate representing working-class Georgia voters. His messaging is authentic to his personal history (he genuinely owns and operates a trucking company). However, his Senate campaign is entirely dependent on billionaire cryptocurrency traders (Winklevoss, Musk) and AIPAC who have nothing to do with trucking industry interests. The populist identity is real, but the campaign infrastructure that determines his policy positions is wholly external to his constituency base.
+**The Manufactured Populist**. Collins campaigns as a "trucker" and "America First" candidate representing working-class Georgia voters. His messaging is authentic to his personal history (he genuinely owns and operates a trucking company). However, his Senate campaign is entirely dependent on billionaire cryptocurrency traders (Winklevoss, Musk) and AIPAC who have nothing to do with trucking industry interests. The populist identity is real, but the campaign infrastructure that determines his policy positions is wholly external to his constituency base.
 
-**The Two-Audience Problem** — Collins performs working-class economic messaging to Georgia voters ("bring jobs back," "fight for working families") while his donor base is exclusively billionaire-tier crypto oligarchs and pro-Israel mega-funders who expect policy service on deregulation and unconditional Israel support. His personal crypto trading (up to $745K portfolio) signals he is not a working-class representative but rather an investor-aligned industry insider despite his trucking company credentials.
+**The Two-Audience Problem**. Collins performs working-class economic messaging to Georgia voters ("bring jobs back," "fight for working families") while his donor base is exclusively billionaire-tier crypto oligarchs and pro-Israel mega-funders who expect policy service on deregulation and unconditional Israel support. His personal crypto trading (up to $745K portfolio) signals he is not a working-class representative but rather an investor-aligned industry insider despite his trucking company credentials.
 
 ---
 
 ## Donation-to-Policy Timeline
 
-*Note: Collins is a cargo-cult populist — genuine trucker turned crypto-industry vessel. His personal $745K crypto portfolio makes him investor-aligned with his donors before they fund him. The "America First trucker" is bankrolled by billionaire crypto traders and AIPAC.*
+*Note: Collins is a cargo-cult populist, genuine trucker turned crypto-industry vessel. His personal $745K crypto portfolio makes him investor-aligned with his donors before they fund him. The "America First trucker" is bankrolled by billionaire crypto traders and AIPAC.*
 
 #### Crypto Industry / Winklevoss-Musk Investor Alignment
 
 | Date | Donor | Amount | Given | Policy Outcome |
 |------|-------|--------|-------|----------------|
-| 2025-Q1 | Winklevoss twins ($14K combined), [[Elon Musk|Elon Musk]] ($6.6K), SpaceX ($10K) — crypto industry alignment signaling | $30.6K direct; [[Fairshake PAC|Fairshake]] $193M war chest positioned | 2025-Q1 | Campaign announces acceptance of cryptocurrency donations (Bitcoin, Ethereum, Litecoin, Dogecoin, Solana, USDT); signals industry-aligned position |
-| 2023-2024 | Personal crypto portfolio — Collins files up to $745K in crypto trades since entering Congress (Ethereum, altcoins) | $745K personal financial alignment | 2023–ongoing | Investor-aligned with crypto industry before receiving campaign contributions; personal wealth tied to crypto asset prices creates direct financial interest in deregulation |
+| 2025-Q1 | Winklevoss twins ($14K combined), [[Elon Musk|Elon Musk]] ($6.6K), SpaceX ($10K), crypto industry alignment signaling | $30.6K direct; [[Fairshake PAC|Fairshake]] $193M war chest positioned | 2025-Q1 | Campaign announces acceptance of cryptocurrency donations (Bitcoin, Ethereum, Litecoin, Dogecoin, Solana, USDT); signals industry-aligned position |
+| 2023-2024 | Personal crypto portfolio. Collins files up to $745K in crypto trades since entering Congress (Ethereum, altcoins) | $745K personal financial alignment | 2023–ongoing | Investor-aligned with crypto industry before receiving campaign contributions; personal wealth tied to crypto asset prices creates direct financial interest in deregulation |
 
 #### AIPAC / Pro-Israel Electoral Strategy
 
@@ -112,7 +112,7 @@ Mike Collins is a cargo-cult populist being bankrolled by two mega-donor blocs (
 | Date | Donor | Amount | Given | Policy Outcome |
 |------|-------|--------|-------|----------------|
 | 2023-01 | Trump alignment + Heritage Action 98% scorecard; Freedom Caucus positioning on spending/immigration/taxes | Heritage Action 98% (2024) | 2023–ongoing | "Send a trucker to the U.S. Senate to steamroll the radical left, deliver on President Trump's America First agenda"; Trump endorsement not yet secured but constantly performed |
-| 2026-02 | Ongoing positioning — Trump loyalist + crypto trader + AIPAC-aligned simultaneously | Contradiction: "America First" messaging with billionaire crypto + pro-Israel funding | 2025–2026 | Every statement about representing Georgia workers conflicts with reliance on Silicon Valley crypto billionaires and Israeli government-aligned donors |
+| 2026-02 | Ongoing positioning. Trump loyalist + crypto trader + AIPAC-aligned simultaneously | Contradiction: "America First" messaging with billionaire crypto + pro-Israel funding | 2025–2026 | Every statement about representing Georgia workers conflicts with reliance on Silicon Valley crypto billionaires and Israeli government-aligned donors |
 
 > [!money] The Damning Sequences
 >
@@ -140,19 +140,19 @@ The class function is clear: Collins provides a Trump-aligned, working-class fac
 
 2. **The Trump loyalty performance:** "Send a trucker to U.S. Senate to steamroll the radical left, deliver on President Trump's America First agenda." The function: invoke Trump brand without committing to any specific policy. Trump has not endorsed Collins, but Collins constantly positions himself as Trump loyalist. This gives Trump's endorsement high value if/when it comes while allowing Collins to avoid specific Trump policy commitments.
 
-3. **The crypto trader alignment:** Public disclosure of crypto holdings and campaign acceptance of crypto donations. The function: signal to crypto industry that he is investor-aligned with their interests. Different from standard donor relationship (money → policy) — this is investor relationship (shared financial interest → policy alignment).
+3. **The crypto trader alignment:** Public disclosure of crypto holdings and campaign acceptance of crypto donations. The function: signal to crypto industry that he is investor-aligned with their interests. Different from standard donor relationship (money → policy), this is investor relationship (shared financial interest → policy alignment).
 
 ---
 
 ## Sources
 
-- ~~[Beincrypto: Crypto and AIPAC targeting Georgia Senate seat](https://beincrypto.com/crypto-lobby-and-aipac-targets-georgia-senate/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
-- ~~[Cryptonews: Crypto Industry and AIPAC Back Mike Collins Georgia 2026](https://cryptonews.net/news/legal/31673812/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[Beincrypto: Crypto and AIPAC targeting Georgia Senate seat](https://beincrypto.com/crypto-lobby-and-aipac-targets-georgia-senate/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Cryptonews: Crypto Industry and AIPAC Back Mike Collins Georgia 2026](https://cryptonews.net/news/legal/31673812/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Phemex News: Crypto Industry and AIPAC Support Mike Collins Georgia Senate](https://phemex.com/news/article/crypto-industry-and-aipac-support-mike-collins-in-georgia-senate-race-20593) (Tier 3) (VERIFIED)
 - [Georgia Recorder: GOP Senate hopefuls fundraising report](https://georgiarecorder.com/briefs/u-s-senate-gop-hopefuls-say-they-raised-nearly-2m-each-in-fight-for-georgia-seat/) (Tier 2) (VERIFIED)
 - [Georgia Recorder: Ossoff fundraising $12M Q3 2025](https://georgiarecorder.com/briefs/ossoff-raises-another-12-million-as-he-fights-for-reelection-in-closely-watched-2026-senate-race/) (Tier 2) (VERIFIED)
-- ~~[Congress.gov: Mike Collins campaign finance summary](https://www.congress.gov/search?q=Mike%20Collins&searchResultViewType=expanded)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
-- ~~[Congress.gov: Mike Collins expenditure records](https://www.congress.gov/search?q=Mike%20Collins&searchResultViewType=expanded)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[Congress.gov: Mike Collins campaign finance summary](https://www.congress.gov/search?q=Mike%20Collins&searchResultViewType=expanded)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- ~~[Congress.gov: Mike Collins expenditure records](https://www.congress.gov/search?q=Mike%20Collins&searchResultViewType=expanded)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [Ballotpedia: Mike Collins Georgia politician profile](https://ballotpedia.org/Mike_Collins_(Georgia) (VERIFIED)) (Tier 3)
 - [Wikipedia: Mike Collins Georgia politician](https://en.wikipedia.org/wiki/Mike_Collins_%28politician%29) (Tier 3) (VERIFIED)
 - [Georgia Recorder: Mike Collins ethics investigation](https://georgiarecorder.com/briefs/more-details-released-about-ethics-investigation-into-congressman-mike-collins-and-former-top-aide/) (Tier 2) (VERIFIED)

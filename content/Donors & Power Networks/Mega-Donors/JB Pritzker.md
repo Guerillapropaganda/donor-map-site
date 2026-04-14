@@ -1,52 +1,63 @@
 ---
-title: "JB Pritzker"
+title: JB Pritzker (Donor Network)
 type: donor
 content-readiness: ready
-last-updated: 2026-04-10
+last-updated: '2026-04-14'
 source-tier: 1
 parent: null
-sector: "Mega-Donors"
-entity-type: "Individual Donor"
+sector: Mega-Donors
+entity-type: Individual Donor
 politicians-funded:
-  - "Barack Obama"
-  - "Jon Ossoff"
-  - "Cory Booker"
+  - Barack Obama
+  - Jon Ossoff
+  - Cory Booker
 issues:
-  - "Dark Money & Campaign Finance"
-total-political-spend: "$4,643,247"
-ein: "300039820"
-annual-revenue: "$4.2M"
-net-assets: "$148.4M"
-tax-year: "2023"
+  - Dark Money & Campaign Finance
+total-political-spend: '$4,643,247'
+ein: '300039820'
+annual-revenue: $4.2M
+net-assets: $148.4M
+tax-year: '2023'
 federal-register-mentions: 3
-last-enriched: "2026-04-09"
+last-enriched: '2026-04-09'
 regulatory-agencies:
-  - "Energy Department"
-  - "Federal Aviation Administration"
-  - "Federal Energy Regulatory Commission"
-  - "Labor Department"
-  - "Transportation Department"
-  - "Wage and Hour Division"
+  - Energy Department
+  - Federal Aviation Administration
+  - Federal Energy Regulatory Commission
+  - Labor Department
+  - Transportation Department
+  - Wage and Hour Division
 court-cases: 349
 court-jurisdictions:
-  - "District Court, C.D. Illinois"
-  - "District Court, D. Arizona"
-  - "District Court, D. Hawaii"
-  - "District Court, D. Minnesota"
-  - "District Court, District of Columbia"
-  - "District Court, N.D. California"
-  - "District Court, N.D. Illinois"
-  - "District Court, S.D. Illinois"
-  - "District Court, S.D. New York"
+  - 'District Court, C.D. Illinois'
+  - 'District Court, D. Arizona'
+  - 'District Court, D. Hawaii'
+  - 'District Court, D. Minnesota'
+  - 'District Court, District of Columbia'
+  - 'District Court, N.D. California'
+  - 'District Court, N.D. Illinois'
+  - 'District Court, S.D. Illinois'
+  - 'District Court, S.D. New York'
 lobbying-spend: 5422000
 lobbying-filings: 87
-related: "[[Juliana Stratton Master Profile]] · [[The Pritzker Machine and Illinois Democratic Power]] · [[Illinois Senate Primary Money War]] · [[Corporate PAC Pledge and Its Limits]] · [[Cory Booker]] · [[The 323 Million Dollar Self-Funded Governor]] · [[Offshore Trusts Toilet Schemes and the Tax Avoidance Architecture]] · [[_JB Pritzker Master Profile|JB Pritzker]] · [[Illinois Future PAC]] · [[Democratic Donor Network]] · [[Democratic Governors Association]] · [[Think Big America]] · [[_Gavin Newsom Master Profile|Gavin Newsom]] · [[_Gretchen Whitmer Master Profile|Gretchen Whitmer]] · [[Raja Krishnamoorthi]]"
-donors: "[[Illinois Future PAC]]"
-nonprofit-status: "501(c)(3)"
+related: >-
+  [[Juliana Stratton Master Profile]] · [[The Pritzker Machine and Illinois
+  Democratic Power]] · [[Illinois Senate Primary Money War]] · [[Corporate PAC
+  Pledge and Its Limits]] · [[Cory Booker]] · [[The 323 Million Dollar
+  Self-Funded Governor]] · [[Offshore Trusts Toilet Schemes and the Tax
+  Avoidance Architecture]] · [[_JB Pritzker Master Profile|JB Pritzker]] ·
+  [[Illinois Future PAC]] · [[Democratic Donor Network]] · [[Democratic
+  Governors Association]] · [[Think Big America]] · [[_Gavin Newsom Master
+  Profile|Gavin Newsom]] · [[_Gretchen Whitmer Master Profile|Gretchen Whitmer]]
+  · [[Raja Krishnamoorthi]]
+donors: '[[Illinois Future PAC]]'
+nonprofit-status: 501(c)(3)
 total-revenue: 216153059
 total-assets: 281327431
 cross-vault-triangulation-count: 10
-audit-a-plus-passed: "2026-04-11"
+audit-a-plus-passed: '2026-04-11'
+aliases:
+  - JB Pritzker
 ---
 #jb-pritzker #illinois #hyatt #billionaire #self-funder #democratic #governor #mega-donor #dark-money #2028 #think-big-america #dga #class-analysis
 
@@ -111,7 +122,7 @@ Pritzker's national political operation has three components:
 - [Chicago Tribune: Pritzker and wife gave big for DNC, which raised $97M](https://www.chicagotribune.com/2024/10/17/gov-jb-pritzker-and-wife-gave-big-for-dnc-which-raised-97m-in-all/) (Tier 2) (VERIFIED)
 - [Capitol News Illinois: Pritzker launches self-funded abortion rights advocacy organization](https://capitolnewsillinois.com/news/pritzker-launches-self-funded-nationwide-abortion-rights-advocacy-organization/) (Tier 2) (VERIFIED)
 - [NBC News: Pritzker builds up nonprofit group as 2024 looms](https://www.nbcnews.com/politics/2024-election/jb-pritzker-key-biden-surrogate-builds-nonprofit-group-2024-looms-rcna125167) (Tier 2) (VERIFIED)
-- ~~[Washington Post: Pritzker ramps up abortion rights investments amid 2028 chatter](https://www.washingtonpost.com/politics/2024/02/07/jb-pritzker-abortion-think-big/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[Washington Post: Pritzker ramps up abortion rights investments amid 2028 chatter](https://www.washingtonpost.com/politics/2024/02/07/jb-pritzker-abortion-think-big/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [STLPR: Self-funded candidates and dark money cloud Illinois politics](https://www.stlpr.org/government-politics-issues/2024-01-10/illinois-politics-marred-by-deep-pocketed-self-funded-candidates-and-dark-money) (Tier 2) (VERIFIED)
 
 ---

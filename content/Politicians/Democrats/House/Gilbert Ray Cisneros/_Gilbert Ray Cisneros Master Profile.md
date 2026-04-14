@@ -1,5 +1,5 @@
 ---
-title: "Gilbert Ray Cisneros Master Profile"
+title: "Gilbert Ray Cisneros"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

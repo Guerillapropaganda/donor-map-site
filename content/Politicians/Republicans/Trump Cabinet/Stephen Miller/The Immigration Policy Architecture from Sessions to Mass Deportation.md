@@ -47,7 +47,7 @@ The first-term policies established the architecture: executive orders bypassing
 | Military deployment | Insurrection Act authorization | Military personnel at border |
 | CBP One termination | Eliminated asylum scheduling app | Eliminated legal pathway for asylum seekers |
 
-The second-term escalation reveals the trajectory: from restricting immigration to removing people already here, including naturalized U.S. citizens. The Alien Enemies Act — a 1798 wartime statute never used outside of actual armed conflict — was invoked for peacetime deportation, sending people to El Salvador's mega-prison without individual due process hearings.
+The second-term escalation reveals the trajectory: from restricting immigration to removing people already here, including naturalized U.S. citizens. The Alien Enemies Act, a 1798 wartime statute never used outside of actual armed conflict, was invoked for peacetime deportation, sending people to El Salvador's mega-prison without individual due process hearings.
 
 ---
 
@@ -60,7 +60,7 @@ Miller's immigration restriction agenda was developed during his 7 years as Jeff
 - Built relationships with restrictionist organizations (NumbersUSA, FAIR, CIS)
 - Created the messaging infrastructure ("American workers first") that became Trump campaign language
 
-Sessions introduced Miller to the Trump campaign — referring him through Breitbart's Matthew Boyle to Sam Nunberg. The policy architecture Miller brought to the Trump campaign wasn't improvised; it was 7 years of development in Sessions' Senate office, funded by taxpayers, applied to a presidential campaign.
+Sessions introduced Miller to the Trump campaign, referring him through Breitbart's Matthew Boyle to Sam Nunberg. The policy architecture Miller brought to the Trump campaign wasn't improvised; it was 7 years of development in Sessions' Senate office, funded by taxpayers, applied to a presidential campaign.
 
 > [!money]
 > The dark money architecture ensures Miller's policy continuity survives administration changes. Between government terms, AFL ($44.4M peak revenue) maintained Miller's salary, his staff, and his legal infrastructure. The Bradley Impact Fund ($27M) and [[DonorsTrust|DonorsTrust]] ($21.3M) funded the holding pattern. When Miller returned to government in 2025, he brought the policies he'd been refining at AFL — mass deportation plans, anti-DEI litigation strategies, voter restriction arguments — directly into the White House. The dark money didn't just fund an organization; it funded the continuity of a policy architect who has now authored immigration restriction for 15 consecutive years.
@@ -69,5 +69,5 @@ Sessions introduced Miller to the Trump campaign — referring him through Breit
 
 ### Sources
 
-- ~~[The Hill: Trump deportation plan](https://thehill.com/?s=The%20Immigration%20Policy%20Architecture%20from%20Sessions%20to%20Mass%20Deportation)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[The Hill: Trump deportation plan](https://thehill.com/?s=The%20Immigration%20Policy%20Architecture%20from%20Sessions%20to%20Mass%20Deportation)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [PBS Frontline: Stephen Miller profile](https://www.pbs.org/wgbh/frontline/) (Tier 2) (VERIFIED)

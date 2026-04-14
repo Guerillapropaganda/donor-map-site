@@ -1,5 +1,5 @@
 ---
-title: "Peter Welch Master Profile"
+title: "Peter Welch"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

@@ -1,5 +1,5 @@
 ---
-title: "Jared Huffman Master Profile"
+title: "Jared Huffman"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

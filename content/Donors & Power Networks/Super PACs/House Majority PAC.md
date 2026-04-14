@@ -58,7 +58,7 @@ HMP operates on a different financial scale than its Republican counterpart CLF 
 
 House Majority PAC's stated mission is winning the House for Democrats. Its actual mission is maintaining Democratic House control within donor-class constraints:
 
-- **Climate investment** (clean energy subsidies, EV adoption — portfolio-friendly climate policy)
+- **Climate investment** (clean energy subsidies, EV adoption, portfolio-friendly climate policy)
 - **Healthcare industry margins** (pharmaceutical cost management opposition, insurance regulation resistance, single-payer opposition)
 - **Tech industry protection** (antitrust opposition, social media regulation resistance, AI governance favorable to incumbents)
 - **Defense spending increases** (defense contractor alignment, military-industrial complex integration)
@@ -69,7 +69,7 @@ HMP spending flows to candidates and vulnerable incumbents who maintain donor-cl
 
 ### Who Funds Them
 
-HMP's donor base is more diffuse than CLF's, reflecting Democratic donor coalition fragmentation. This creates structural disadvantage — no single donor dominates HMP the way Ken Griffin dominates SLF:
+HMP's donor base is more diffuse than CLF's, reflecting Democratic donor coalition fragmentation. This creates structural disadvantage, no single donor dominates HMP the way Ken Griffin dominates SLF:
 
 | Donor/Sector | 2024+ Total | Primary Interest |
 |-------|-----------|------------------|
@@ -126,7 +126,7 @@ HMP spending has produced legislative returns, but with structural limits. Democ
 
 The return is primarily defensive: HMP spending buys Democratic House control, which blocks Republican legislation. But it simultaneously blocks progressive Democratic legislation (Medicare for All, drug pricing, labor rights) that conflicts with HMP's donor base.
 
-### The Jeffries Consolidation — Democratic House Leadership in 2026
+### The Jeffries Consolidation. Democratic House Leadership in 2026
 
 [[_Hakeem Jeffries Master Profile|Hakeem Jeffries]] became House Democratic Leader in November 2022 after [[_Nancy Pelosi Master Profile|Nancy Pelosi]]'s retirement. Unlike Pelosi's fundraising machine ($1.6B+ lifetime), Jeffries inherited HMP as the central leadership spending vehicle. Jeffries lacks Pelosi's massive personal fundraising network, making him more dependent on institutional HMP funding and more vulnerable to donor pressure than his predecessor.
 
@@ -134,18 +134,18 @@ This creates a structural shift in Democratic House power: Jeffries cannot fundr
 
 The 2026 cycle will test whether Jeffries can replicate Pelosi's dominance through HMP spending or whether fragmented Democratic spending (DCCC, HMP, progressive super PACs, union spending) prevents him from consolidating power the way Republican leadership has consolidated through CLF.
 
-### The DCCC Problem — Fragmented Democratic House Spending
+### The DCCC Problem. Fragmented Democratic House Spending
 
 Unlike Republicans who concentrated House spending through CLF, Democrats split House spending between:
-- **DCCC** (Democratic Congressional Campaign Committee) — traditional party committee, donor-dependent
-- **HMP** (House Majority PAC) — leadership-controlled super PAC
-- **Progressive super PACs** (various) — pro-labor, anti-healthcare/tech donor influence
-- **Union spending** ([[SEIU - Service Employees International Union|SEIU]], CNA, [[Teamsters - International Brotherhood of Teamsters|Teamsters]]) — coordinated independently
-- **Grassroots organizations** (various) — partially independent of leadership control
+- **DCCC** (Democratic Congressional Campaign Committee), traditional party committee, donor-dependent
+- **HMP** (House Majority PAC), leadership-controlled super PAC
+- **Progressive super PACs** (various), pro-labor, anti-healthcare/tech donor influence
+- **Union spending** ([[SEIU - Service Employees International Union|SEIU]], CNA, [[Teamsters - International Brotherhood of Teamsters|Teamsters]]), coordinated independently
+- **Grassroots organizations** (various), partially independent of leadership control
 
 This fragmentation is Democratic advantage when leadership dominance threatens base interests (unions and progressives can fund candidates against leadership priorities). It's Democratic disadvantage when consolidated spending advantage is needed (Republicans outspend by 15-20% in competitive districts because CLF spending is undisputed).
 
-The 2024 cycle saw HMP spending of $186M+ TV ad reservations — impressive in absolute terms, but $56M+ less than CLF's coordinated spending. That gap determined outcomes in marginal races.
+The 2024 cycle saw HMP spending of $186M+ TV ad reservations, impressive in absolute terms, but $56M+ less than CLF's coordinated spending. That gap determined outcomes in marginal races.
 
 ### The Infrastructure-Labor Contradiction in HMP Spending
 
@@ -186,8 +186,8 @@ The fragmentation of Democratic House spending (DCCC, HMP, progressive super PAC
 - [OpenSecrets: House Majority PAC Summary](https://www.opensecrets.org/political-action-committees-pacs/house-majority-pac/C00495028/summary/2024) (Tier 1) (VERIFIED)
 - [FEC: House Majority PAC Filings](https://www.fec.gov/data/committee/C00495028/) (Tier 1) (NEEDS REVIEW)
 - [FactCheck.org: House Majority PAC](https://www.factcheck.org/2024/04/house-majority-pac-7/) (Tier 2) (VERIFIED)
-- ~~[Axios: Jeffries Super PAC 2026 Strategy](https://www.axios.com/2024/12/13/jeffries-2026-elections-republican-seats)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
-- ~~[Roll Call: House Democratic Super PAC California Investment](https://www.latimes.com/politics/story/2023-04-11/could-california-decide-control-of-congress-a-democratic-super-pac-plans-to-spend-35-million-in-the-staten-into-california/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[Axios: Jeffries Super PAC 2026 Strategy](https://www.axios.com/2024/12/13/jeffries-2026-elections-republican-seats)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Roll Call: House Democratic Super PAC California Investment](https://www.latimes.com/politics/story/2023-04-11/could-california-decide-control-of-congress-a-democratic-super-pac-plans-to-spend-35-million-in-the-staten-into-california/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [National Review: House Majority PAC Working Class Outreach 2026](https://www.nationalreview.com/corner/house-democrats-main-super-pac-dedicates-50-million-to-working-class-voter-outreach-in-2026/) (Tier 3) (VERIFIED)
 - [NOTUS: Super PAC Encroaching on DCCC Territory](https://www.notus.org/2026-election/dccc-super-pac-campaigns) (Tier 2) (VERIFIED)
 

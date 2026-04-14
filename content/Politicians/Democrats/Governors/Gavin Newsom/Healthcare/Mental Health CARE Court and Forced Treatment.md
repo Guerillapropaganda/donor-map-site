@@ -95,7 +95,7 @@ The CARE Court pattern is classic pilot program dynamics: launch with fanfare, a
 - [KQED: SB 43 conservatorship expansion signed](https://www.kqed.org/news/11963961/newsom-signs-law-expanding-conservatorships-for-those-experiencing-severe-mental-illness-substance-abuse) (Tier 2) (VERIFIED)
 - [IJPR / CalMatters: CARE Court numbers (fewer than 550 served)](https://www.ijpr.org/poverty-and-homelessness/2025-12-21/newsom-promised-real-progress-on-mental-health-with-care-court-heres-what-the-numbers-show) (Tier 2) (VERIFIED)
 - [CalMatters: Newsom threatens counties on CARE Court (March 2026)](https://calmatters.org/health/mental-health/2026/03/newsom-threatens-counties-care-court/) (Tier 2) (VERIFIED)
-- ~~[ACLU California: CARE Court civil liberties analysis](https://www.aclunc.org/our-work/legal-docket/care-court)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
-- ~~[Disability Rights California: SB 43 impact analysis](https://www.disabilityrightsca.org/news/sb-43-gravely-disabled)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
-- ~~[Journal of Health Economics: involuntary commitment and outcomes data](https://journals.sagepub.com/home/hpp)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[ACLU California: CARE Court civil liberties analysis](https://www.aclunc.org/our-work/legal-docket/care-court)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Disability Rights California: SB 43 impact analysis](https://www.disabilityrightsca.org/news/sb-43-gravely-disabled)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Journal of Health Economics: involuntary commitment and outcomes data](https://journals.sagepub.com/home/hpp)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 

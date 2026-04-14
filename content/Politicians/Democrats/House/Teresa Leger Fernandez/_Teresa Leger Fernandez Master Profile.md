@@ -1,5 +1,5 @@
 ---
-title: "Teresa Leger Fernandez Master Profile"
+title: "Teresa Leger Fernandez"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

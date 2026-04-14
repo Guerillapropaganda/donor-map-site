@@ -97,8 +97,8 @@ What remains: AOC's small-dollar fundraising machine, her national profile, and 
 
 ### Sources
 
-- ~~[Congress.gov: H.Res.109. Green New Deal (116th Congress)](https://www.congress.gov/bill/116th-congress/house-resolution/109)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
-- ~~[Congress.gov: H.Res.332. Green New Deal (117th Congress)](https://www.congress.gov/bill/117th-congress/house-resolution/332)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[Congress.gov: H.Res.109. Green New Deal (116th Congress)](https://www.congress.gov/bill/116th-congress/house-resolution/109)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- ~~[Congress.gov: H.Res.332. Green New Deal (117th Congress)](https://www.congress.gov/bill/117th-congress/house-resolution/332)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [Wikipedia: Green New Deal, legislative history](https://en.wikipedia.org/wiki/Green_New_Deal) (Tier 3) (VERIFIED)
 - [Grist: The uncertain future of the Green New Deal](https://grist.org/protest/the-uncertain-future-of-the-green-new-deal/) (Tier 2) (VERIFIED)
 - [Slate: Sunrise Movement pivot after IRA](https://slate.com/news-and-politics/2022/11/sunrise-movement-biden-ira-2024.html) (Tier 2) (VERIFIED)

@@ -1,5 +1,5 @@
 ---
-title: "Brian Jack Master Profile"
+title: "Brian Jack"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

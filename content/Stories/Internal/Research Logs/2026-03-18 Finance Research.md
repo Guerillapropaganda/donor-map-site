@@ -10,9 +10,9 @@ known-gaps:
 ---
 
 
-# Finance Research Log — 2026-03-18
+# Finance Research Log, 2026-03-18
 
-**Subject:** [[IBEW Local 440 - Riverside|Riverside]] Sheriffs' Association (RSA) — Queue Item #1
+**Subject:** [[IBEW Local 440 - Riverside|Riverside]] Sheriffs' Association (RSA). Queue Item #1
 **Researcher:** Automated (gp-finance-research scheduled task)
 **Vault note updated:** [[Riverside Sheriffs Association]]
 
@@ -29,9 +29,9 @@ Priority queue item #1: RSA FPPC filings for 2022 sheriff cycle and RSA Public E
 ## What Was Found and Added
 
 ### 2022 Bianco Sheriff Campaign
-- **~$863,000 cash on hand** as of late May 2022 — more than half raised since January 2022. [Press Enterprise / Spectrum News 1, June 2022]
-- **Opponent Lujan raised only ~$38,000 total** ($22,300 on hand) — a 38-to-1 funding disparity in Bianco's favor.
-- RSA endorsement confirmed for 2022. Specific FPPC-verified RSA direct contribution dollar figures for 2022 cycle **not yet located** — the Riverside County Registrar local filing database (voteinfo.net) was not accessible through available tools during this session.
+- **~$863,000 cash on hand** as of late May 2022, more than half raised since January 2022. [Press Enterprise / Spectrum News 1, June 2022]
+- **Opponent Lujan raised only ~$38,000 total** ($22,300 on hand), a 38-to-1 funding disparity in Bianco's favor.
+- RSA endorsement confirmed for 2022. Specific FPPC-verified RSA direct contribution dollar figures for 2022 cycle **not yet located**, the Riverside County Registrar local filing database (voteinfo.net) was not accessible through available tools during this session.
 
 ### RSA Supervisor Spending (Sept. 2025 Press Enterprise)
 These figures were not previously in the vault. Now added to "Who They Fund":
@@ -57,10 +57,10 @@ These figures were not previously in the vault. Now added to "Who They Fund":
 
 ## What Remains Unverified / Still Needed
 
-1. **FPPC-verified RSA direct contribution to Bianco 2022 sheriff committee** — requires pulling Form 460s from Riverside County Registrar (voteinfo.net). Sites blocked; cannot access Riverside County's local filing portal programmatically.
-2. **RSA Public Education Fund slate mailer expenditures by cycle** — FPPC site (fppc.ca.gov) blocked. Requires direct access to NetFile portal or Riverside County Registrar database.
-3. **RSA dollar contribution to Bianco 2026 governor committee** — Cal-Access state filing (calmatters.digitaldemocracy.org blocked; calaccess.sos.ca.gov not accessible).
-4. **ProPublica 990 data for RSA** — site blocked. IRS 990 totals for RSA (EIN 95-6203844) and RSA Public Education Fund (rsapef.org) would show PAC expenditure totals.
+1. **FPPC-verified RSA direct contribution to Bianco 2022 sheriff committee**, requires pulling Form 460s from Riverside County Registrar (voteinfo.net). Sites blocked; cannot access Riverside County's local filing portal programmatically.
+2. **RSA Public Education Fund slate mailer expenditures by cycle**. FPPC site (fppc.ca.gov) blocked. Requires direct access to NetFile portal or Riverside County Registrar database.
+3. **RSA dollar contribution to Bianco 2026 governor committee**. Cal-Access state filing (calmatters.digitaldemocracy.org blocked; calaccess.sos.ca.gov not accessible).
+4. **ProPublica 990 data for RSA**, site blocked. IRS 990 totals for RSA (EIN 95-6203844) and RSA Public Education Fund (rsapef.org) would show PAC expenditure totals.
 
 **Next step for researcher:** Manually access ~~[voteinfo.net](https://www.voteinfo.net/?q=2026-03-18%20Finance%20Research)~~ (URL broken, archived by Ops) (Riverside County filing portal) or ~~[netfile.fppc.ca.gov](https://form700.fppc.ca.gov?q=2026-03-18%20Finance%20Research)~~ (URL broken, archived by Ops) to pull Form 460s for "[[_Chad Bianco Master Profile|Chad Bianco]] for Sheriff 2022" committee and "Riverside Sheriffs' Association Public Education Fund" to get direct contribution amounts.
 
@@ -79,4 +79,4 @@ File: `Donors & Power Networks/[[Riverside Sheriffs Association|Riverside Sherif
 
 ---
 
-*Next session: Move to Queue Item #2 — [[CCPOA - California Correctional Peace Officers Association|CCPOA]] (Newsom contributions, overtime cost data)*
+*Next session: Move to Queue Item #2, [[CCPOA - California Correctional Peace Officers Association|CCPOA]] (Newsom contributions, overtime cost data)*

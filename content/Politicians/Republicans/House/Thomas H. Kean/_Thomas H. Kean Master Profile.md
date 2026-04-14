@@ -1,5 +1,5 @@
 ---
-title: "Thomas H. Kean Master Profile"
+title: "Thomas H. Kean"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

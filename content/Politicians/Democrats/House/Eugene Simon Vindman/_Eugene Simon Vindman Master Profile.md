@@ -1,5 +1,5 @@
 ---
-title: "Eugene Simon Vindman Master Profile"
+title: "Eugene Simon Vindman"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

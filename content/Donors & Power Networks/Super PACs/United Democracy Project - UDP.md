@@ -104,18 +104,18 @@ The 2024 Bowman-Latimer race demonstrated this clearly: UDP spent $14.9 million 
 
 **2024 Bowman-Latimer Race:** UDP's $14.9 million investment produced a clear win: incumbent Jamaal Bowman (a Black pro-Palestinian activist) was defeated in a primary, replaced by George Latimer (a centrist pro-Israel Democrat). The outcome sent a message to other progressive Democrats: AIPAC has $80+ million to deploy against primary challengers. [NY-16 2024: Bowman vs. Latimer - Ballotpedia](https://ballotpedia.org/New_York's_16th_Congressional_District_election,_2024) (Tier 3) (VERIFIED)
 
-**2026 Illinois Primaries:** UDP's new shell PAC model produced mixed but meaningful results: 2 out of 3 AIPAC-backed candidates won (Bean, Miller). This suggests the shell PAC strategy is effective enough to be replicated nationally. ~~[Pro-Israel group AIPAC notches its first real 2026 Democratic primary wins in Illinois - Axios](https://www.axios.com/2026/03/18/aipac-illinois-primary-biss-abughazaleh-bean)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+**2026 Illinois Primaries:** UDP's new shell PAC model produced mixed but meaningful results: 2 out of 3 AIPAC-backed candidates won (Bean, Miller). This suggests the shell PAC strategy is effective enough to be replicated nationally. ~~[Pro-Israel group AIPAC notches its first real 2026 Democratic primary wins in Illinois - Axios](https://www.axios.com/2026/03/18/aipac-illinois-primary-biss-abughazaleh-bean)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 
-**Policy Conformity:** The primary messaging is clear: accept pro-Israel policy or face $10+ million opposition spending. Democratic candidates now factor in AIPAC spending when evaluating their stance on Israel policy. This is the point of UDP's spending — not to elect representatives who will deliver specific legislative outcomes, but to ensure that all viable Democratic candidates stay within AIPAC-approved bounds on Israel policy.
+**Policy Conformity:** The primary messaging is clear: accept pro-Israel policy or face $10+ million opposition spending. Democratic candidates now factor in AIPAC spending when evaluating their stance on Israel policy. This is the point of UDP's spending, not to elect representatives who will deliver specific legislative outcomes, but to ensure that all viable Democratic candidates stay within AIPAC-approved bounds on Israel policy.
 
 > [!contradiction]
 > UDP frames itself as supporting "pro-democracy" candidates, but its actual function is to enforce donor-class orthodoxy on Israel policy. The contradiction is embedded in the name: "democracy" implies voter choice, but UDP spending ensures that pro-Palestine candidates cannot viably compete in Democratic primaries. The "project" is not democracy — it is donor control.
 
-## Cycle Record — 2022 and 2024 Primary Interventions
+## Cycle Record, 2022 and 2024 Primary Interventions
 
 UDP launched in January 2022 and immediately began intervening in Democratic primaries. Two-cycle track record:
 
-**2022 — First Cycle ($26.1M independent expenditures, 100% targeted at Democrats)**
+**2022. First Cycle ($26.1M independent expenditures, 100% targeted at Democrats)**
 
 | Race | For / Against | UDP Spend | Result |
 |------|---------------|-----------|--------|
@@ -129,7 +129,7 @@ UDP launched in January 2022 and immediately began intervening in Democratic pri
 
 Of 7 candidates UDP opposed in 2022 Democratic primaries, 5 lost. Summer Lee and Shri Thanedar survived. Zero Republican-primary spending.
 
-**2024 — Escalation ($37.9M independent expenditures, $126.9M combined with AIPAC PAC)**
+**2024. Escalation ($37.9M independent expenditures, $126.9M combined with AIPAC PAC)**
 
 | Race | For / Against | UDP Spend | Result |
 |------|---------------|-----------|--------|
@@ -144,7 +144,7 @@ The NY-16 race absorbed $14.6M combined. The MO-01 race absorbed ~$8.6M. Two pro
 
 ---
 
-## Who Funds UDP — The 2024 Top Donor List
+## Who Funds UDP. The 2024 Top Donor List
 
 Per [OpenSecrets UDP donor data](https://www.opensecrets.org/political-action-committees-pacs/united-democracy-project/C00799031/donors/2024) (Tier 2) (VERIFIED), 2023–2024 cycle individual contributions of $500K or more:
 
@@ -154,15 +154,15 @@ Per [OpenSecrets UDP donor data](https://www.opensecrets.org/political-action-co
 | Jonathon Jacobson (HighSage/Highfields) | $4.58M | Mixed |
 | [[Bernard Marcus]] (Home Depot, d. Nov 2024) | $3.0M | **Trump: $7M, 2016+2020** |
 | [[Paul Singer]] (Elliott Management) | $2.0M | **Republican Jewish Coalition board** |
-| David Zalik (GreenSky) | $2.0M | — |
+| David Zalik (GreenSky) | $2.0M |, |
 | [[Haim Saban]] | $2.0M | Democratic-leaning |
-| Helaine Lerner | $1.75M | — |
-| Marc Rowan (Apollo Management) | $1.0M | — |
-| Kraft Group LLC | $1.0M | — |
-| Paul Levy (JLL Partners) | $1.0M | — |
-| Phil de Toledo (Capital Group) | $500K | — |
-| Arthur Winn (WinnCompanies) | $500K | — |
-| Joseph Cayre | $500K | — |
+| Helaine Lerner | $1.75M |, |
+| Marc Rowan (Apollo Management) | $1.0M |, |
+| Kraft Group LLC | $1.0M |, |
+| Paul Levy (JLL Partners) | $1.0M |, |
+| Phil de Toledo (Capital Group) | $500K |, |
+| Arthur Winn (WinnCompanies) | $500K |, |
+| Joseph Cayre | $500K |, |
 
 > [!contradiction]
 > Per [Americans for Non-Profit Transparency](https://americansfortransparency.org/investigations/aipac) (VERIFIED), approximately **26% of UDP's top donors** are primarily Republican/Trump contributors. Paul Singer sits on the Republican Jewish Coalition board. Bernard Marcus gave $7M to Trump in 2016 and 2020. These donors are funding independent expenditures that shape which Democrats win primaries — including expenditures against Democrats whose Israel positions diverge from the donors' own politics. Republican money is choosing Democratic nominees.
@@ -173,16 +173,16 @@ Per [OpenSecrets UDP donor data](https://www.opensecrets.org/political-action-co
 
 Per [OpenSecrets UDP 2024 expenditures](https://www.opensecrets.org/political-action-committees-pacs/united-democracy-project/C00799031/expenditures/2024) (Tier 2) (VERIFIED), the $59.5M spent in 2023–2024 broke down:
 
-— **$32.3M media** (54%) — primary cost, almost all routed through Targeted Platform Media ($26.2M to one vendor)
-— **$11.6M salaries** (19%)
-— **$8.55M contributions to other PACs** (14%) — the sub-PAC network
-— **$11.8M paid to "American Israel Public Affairs Cmte"** — disclosed reimbursement transfer from UDP back to AIPAC
+, **$32.3M media** (54%), primary cost, almost all routed through Targeted Platform Media ($26.2M to one vendor)
+, **$11.6M salaries** (19%)
+, **$8.55M contributions to other PACs** (14%), the sub-PAC network
+, **$11.8M paid to "American Israel Public Affairs Cmte"**, disclosed reimbursement transfer from UDP back to AIPAC
 
 **Sub-PAC distribution (2024):** Standing Strong PAC received $5M from UDP; Voters for Responsive Government received $1.3M; 314 Action Fund received $1M; Blue Wave Action received $950K. UDP operates as a hub that funds downstream PACs in addition to its own independent expenditures. (Tier 2)
 
 ---
 
-## Shell PAC Strategy — The 2026 Innovation
+## Shell PAC Strategy. The 2026 Innovation
 
 UDP's most significant innovation in 2026 is the shell PAC model: routing spending through organizations with innocuous names designed to obscure AIPAC's involvement.
 
@@ -197,7 +197,7 @@ These PACs spent $14.1M+ total with UDP funding hidden behind shell company stru
 
 If this model proves successful (early results suggest it has), expect UDP to replicate shell PACs in every major Democratic primary in 2026. The innovation allows AIPAC to spend massive sums while maintaining plausible deniability and avoiding the accountability that would accompany direct UDP involvement.
 
-## Class Analysis — What UDP Reveals About Donor Control
+## Class Analysis. What UDP Reveals About Donor Control
 
 UDP's structure and spending patterns demonstrate how the donor class maintains veto power over electoral outcomes.
 
@@ -213,7 +213,7 @@ The fundamental pattern: donor → UDP → shell PACs → primary outcomes. Vote
 
 **Progressive Democrats:** Jamaal Bowman, [[_Alexandria Ocasio-Cortez Master Profile|Alexandria Ocasio-Cortez]], Rashida Tlaib, and other pro-Palestine progressives oppose UDP spending and have called for campaign finance reform to limit super PAC influence.
 
-**American Priorities (NEW — March 2026):** A new $10 million progressive super PAC launched specifically to counter AIPAC/UDP spending in Democratic primaries. Led by Hannah Fertig (former Bernie Sanders 2020 campaign and Justice Democrats strategist). Already spent $500K+ boosting Nida Allam (NC) and $72K supporting Rev. Frederick Haynes III (TX-30). Plans to target at least 10 races with candidates whose foreign policy views reflect the party's evolving base. This is the first organized counter-spending operation to directly challenge UDP's primary dominance.
+**American Priorities (NEW. March 2026):** A new $10 million progressive super PAC launched specifically to counter AIPAC/UDP spending in Democratic primaries. Led by Hannah Fertig (former Bernie Sanders 2020 campaign and Justice Democrats strategist). Already spent $500K+ boosting Nida Allam (NC) and $72K supporting Rev. Frederick Haynes III (TX-30). Plans to target at least 10 races with candidates whose foreign policy views reflect the party's evolving base. This is the first organized counter-spending operation to directly challenge UDP's primary dominance.
 - [NBC News: New super PAC launches to counter AIPAC spending in Democratic primaries](https://www.nbcnews.com/politics/2026-election/new-super-pac-launches-counter-aipac-spending-democratic-primaries-rcna259448) (Tier 2) (VERIFIED)
 - [Semafor: The anti-AIPAC PAC talks about its 2026 strategy](https://www.semafor.com/article/03/11/2026/the-anti-aipac-pac-talks-about-its-2026-strategy) (Tier 2) (VERIFIED)
 
@@ -235,7 +235,7 @@ The fundamental pattern: donor → UDP → shell PACs → primary outcomes. Vote
 - [FEC: United Democracy Project committee page](https://www.fec.gov/data/committee/C00799031/) (Tier 1) (VERIFIED)
 - [FEC: UDP independent expenditures](https://www.fec.gov/data/independent-expenditures/?q_spender=united+democracy+project) (Tier 1) (VERIFIED)
 - [NBC News: AIPAC super PAC funded big-spending Illinois groups](https://www.nbcnews.com/politics/2026-election/aipac-super-pac-funded-illinois-groups-democratic-primaries-israel-rcna264379) (Tier 2) (VERIFIED)
-- ~~[Axios: AIPAC notches first real 2026 primary wins in Illinois](https://www.axios.com/2026/03/18/aipac-illinois-primary-biss-abughazaleh-bean)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[Axios: AIPAC notches first real 2026 primary wins in Illinois](https://www.axios.com/2026/03/18/aipac-illinois-primary-biss-abughazaleh-bean)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [NBC News: New super PAC launches to counter AIPAC spending](https://www.nbcnews.com/politics/2026-election/new-super-pac-launches-counter-aipac-spending-democratic-primaries-rcna259448) (Tier 2) (VERIFIED)
 - [Semafor: The anti-AIPAC PAC talks about its 2026 strategy](https://www.semafor.com/article/03/11/2026/the-anti-aipac-pac-talks-about-its-2026-strategy) (Tier 2)
 - [The American Prospect: Pro-Palestine Super PAC war chest](https://prospect.org/2026/02/20/pro-palestine-super-pac-midterm-elections-aipac-israel-gaza/) (Tier 2) (VERIFIED)

@@ -1,5 +1,5 @@
 ---
-title: "Gabe Vasquez Master Profile"
+title: "Gabe Vasquez"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

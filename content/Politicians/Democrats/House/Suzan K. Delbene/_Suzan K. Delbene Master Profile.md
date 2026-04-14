@@ -1,5 +1,5 @@
 ---
-title: "Suzan K. Delbene Master Profile"
+title: "Suzan K. Delbene"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

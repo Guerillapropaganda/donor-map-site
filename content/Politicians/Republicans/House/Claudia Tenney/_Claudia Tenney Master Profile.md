@@ -1,5 +1,5 @@
 ---
-title: "Claudia Tenney Master Profile"
+title: "Claudia Tenney"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

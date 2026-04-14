@@ -34,7 +34,7 @@ donors: [[Harold Hamm|Harold Hamm]]
 | Continental PAC donation | $250,000 to Burgum super PAC (summer 2023) |
 | Ethics status | Government ethics experts flagged concerns |
 
-The lease was discovered through investigative reporting, not financial disclosure. Emails reveal frequent communication between Burgum and Hamm offices. The failure to disclose on two separate gubernatorial financial filings — while simultaneously voting ~20 times as Industrial Commission chair on issues affecting companies with financial relationships to him — represents a systematic pattern of undisclosed conflicts.
+The lease was discovered through investigative reporting, not financial disclosure. Emails reveal frequent communication between Burgum and Hamm offices. The failure to disclose on two separate gubernatorial financial filings, while simultaneously voting ~20 times as Industrial Commission chair on issues affecting companies with financial relationships to him, represents a systematic pattern of undisclosed conflicts.
 
 ---
 
@@ -46,7 +46,7 @@ As Interior Secretary, Burgum has taken actions that directly benefit Continenta
 - **ANWR opening:** All 1.56 million acres of Arctic Refuge coastal plain to oil leasing
 - **Six secretarial orders** directing increased oil/gas leasing, monument review, and elimination of climate policies
 - **National Energy Dominance Council:** Coordinates cabinet-level fossil fuel expansion
-- **Wind/solar restrictions:** Personal approval required for all renewable projects on federal land — creating a bottleneck for fossil fuel competitors
+- **Wind/solar restrictions:** Personal approval required for all renewable projects on federal land, creating a bottleneck for fossil fuel competitors
 
 > [!money]
 > The policy architecture is designed to maximize fossil fuel extraction on federal lands while constraining renewable alternatives. Continental Resources operates in North Dakota's Bakken formation and benefits from both state and federal drilling expansion. Burgum's dual role — private landowner receiving Continental lease payments, public official controlling federal energy policy — creates the textbook conflict of interest. The $250,000 super PAC donation was the political investment; the Interior Department actions are the return.
@@ -55,7 +55,7 @@ As Interior Secretary, Burgum has taken actions that directly benefit Continenta
 
 ### The Wife's Portfolio
 
-Kathryn Burgum owns approximately $250,000 in fossil fuel company stock across nine energy companies, including utilities, pipeline companies, and gold mining ventures. The stocks include Enterprise Products Partners, Kinder Morgan, Xcel Energy, Duke Energy, ONEOK, Otter Tail, and Targa Resources. Burgum's ethics agreement calls for divestment, which he certified completing on April 30, 2025 — but retained the farmland and its Continental Resources lease.
+Kathryn Burgum owns approximately $250,000 in fossil fuel company stock across nine energy companies, including utilities, pipeline companies, and gold mining ventures. The stocks include Enterprise Products Partners, Kinder Morgan, Xcel Energy, Duke Energy, ONEOK, Otter Tail, and Targa Resources. Burgum's ethics agreement calls for divestment, which he certified completing on April 30, 2025, but retained the farmland and its Continental Resources lease.
 
 ---
 

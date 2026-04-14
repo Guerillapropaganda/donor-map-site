@@ -91,7 +91,7 @@ Las Vegas Sands secured favorable tax treatment for casino operators through Rep
 
 ### Class Analysis
 
-Sheldon Adelson exemplifies the mega-donor as foreign policy architect: he used American political donations to shape U.S. Middle East policy to serve Israeli government interests (not even necessarily Israeli citizens' interests, but specifically right-wing Israeli government policy). The fact that Republican presidential candidates competed for Adelson's approval reveals how concentrated wealth can transfer control of foreign policy to individual billionaires. His opposition to labor unions demonstrates how political spending allows corporations to circumvent workers' collective bargaining power. Since his death, his widow has inherited his political role entirely — a dynastic transfer of political power mediated entirely through private wealth, with no democratic legitimacy or constituency.
+Sheldon Adelson exemplifies the mega-donor as foreign policy architect: he used American political donations to shape U.S. Middle East policy to serve Israeli government interests (not even necessarily Israeli citizens' interests, but specifically right-wing Israeli government policy). The fact that Republican presidential candidates competed for Adelson's approval reveals how concentrated wealth can transfer control of foreign policy to individual billionaires. His opposition to labor unions demonstrates how political spending allows corporations to circumvent workers' collective bargaining power. Since his death, his widow has inherited his political role entirely, a dynastic transfer of political power mediated entirely through private wealth, with no democratic legitimacy or constituency.
 
 ### Sources
 

@@ -29,21 +29,21 @@ donors: [[_Donald Trump Master Profile]] · [[MAGA Inc]]
 | 2016-01-01 | McMahon contributes to Rebuilding America Now (Trump super PAC) during 2016 election | $6,000,000 | FEC filings |
 | 2016-01-01 | McMahon contributes to Future45 (Trump super PAC) supporting 2016 election | $1,200,000 | FEC filings |
 | 2016-11-01 | McMahon donates to Trump transition team (maximum allowed) | $5,000 | FEC filings |
-| 2019-01-01 | McMahon founds America First Policy Institute as dark money think tank | — | AFPI founding |
+| 2019-01-01 | McMahon founds America First Policy Institute as dark money think tank |, | AFPI founding |
 | 2020-01-01 | McMahon becomes chair of America First Action super PAC (simultaneously raises and donates) | $4,500,000+ personal | FEC filings |
 | 2020-01-01 | McMahon chairs America First Action PAC, raises funds from conservative donors | $83,000,000 (as chair, not personal) | FEC filings |
 | 2020-01-01 | AFPI board members contribute $31M+ to Trump super PAC while AFPI drafts policies | $31,000,000 | FEC/AFPI records |
-| 2022-01-01 | AFPI drafts 196 policies; 86% (168) are advanced or enacted in Trump's first 100 days | — | AFPI policy tracking |
+| 2022-01-01 | AFPI drafts 196 policies; 86% (168) are advanced or enacted in Trump's first 100 days |, | AFPI policy tracking |
 | 2024-01-01 | McMahon contributes to MAGA Inc. (Trump's 2024 super PAC) | $20,000,000+ | FEC filings |
 | 2024-01-01 | McMahon donates directly to Trump campaign | $937,800 | FEC filings |
-| 2024-11-01 | Trump announces McMahon as Education Secretary nominee (day after election) | — | Trump statement |
-| 2025-01-01 | McMahon confirmed as Education Secretary, implements 70+ education policy changes aligned with AFPI agenda | — | Senate confirmation |
+| 2024-11-01 | Trump announces McMahon as Education Secretary nominee (day after election) |, | Trump statement |
+| 2025-01-01 | McMahon confirmed as Education Secretary, implements 70+ education policy changes aligned with AFPI agenda |, | Senate confirmation |
 
 ---
 
 ### The AFPI Policy Factory
 
-McMahon founded and chaired the America First Policy Institute — the dark money think tank that served as the policy infrastructure for Trump's second term:
+McMahon founded and chaired the America First Policy Institute, the dark money think tank that served as the policy infrastructure for Trump's second term:
 
 - **Revenue:** $23.6M (2022), $27.3M (2023)
 - **Donors:** Undisclosed (dark money organization)
@@ -65,12 +65,12 @@ The pipeline: McMahon designs policies at AFPI → McMahon co-chairs transition 
 | Date | Event | Amount | Source |
 |------|-------|--------|--------|
 | 2010-01-01 | McMahon self-funds Connecticut Senate campaign against Richard Blumenthal | $50,100,000 | FEC filings |
-| 2010-11-02 | McMahon loses to Blumenthal in general election despite massive self-funding | — | Election results |
+| 2010-11-02 | McMahon loses to Blumenthal in general election despite massive self-funding |, | Election results |
 | 2012-01-01 | McMahon self-funds second Connecticut Senate campaign against Chris Murphy | $48,700,000 | FEC filings |
-| 2012-11-06 | McMahon loses to Murphy in general election, 0-2 record in electoral politics | — | Election results |
+| 2012-11-06 | McMahon loses to Murphy in general election, 0-2 record in electoral politics |, | Election results |
 | 2015-01-01 | McMahon transitions from failed electoral politics to donor-class infrastructure (AFPI, super PAC work) | $97,000,000 total investment (sunk) | FEC records |
-| 2020-01-01 | McMahon builds policy infrastructure instead of electoral infrastructure; AFPI becomes her platform | — | AFPI records |
-| 2024-11-01 | McMahon appointed Education Secretary without running for office, far exceeding policy power of two Senate seats | — | Trump appointment |
+| 2020-01-01 | McMahon builds policy infrastructure instead of electoral infrastructure; AFPI becomes her platform |, | AFPI records |
+| 2024-11-01 | McMahon appointed Education Secretary without running for office, far exceeding policy power of two Senate seats |, | Trump appointment |
 
 The $97M in failed campaigns demonstrates the limits of the democratic route for donor-class power. McMahon couldn't win Connecticut voters. She didn't need to. The $50M in Trump donations purchased more policy authority than two Senate terms would have provided.
 
@@ -81,4 +81,4 @@ The $97M in failed campaigns demonstrates the limits of the democratic route for
 - Wrestlenomics: McMahon political donations breakdown (Tier 2)
 - Inside Philanthropy: AFPI funding and Trump administration ties (Tier 2)
 - [The Nation: AFPI and McMahon's education agenda](https://www.thenation.com/?q=50%20Million%20Dollar%20Pipeline%20from%20WWE%20to%20the%20Cabinet) (Tier 2) (VERIFIED)
-- [OpenSecrets: Trump administration profile — McMahon](https://www.opensecrets.org/members-of-congress/summary?name=50%20Million%20Dollar%20Pipeline%20from%20WWE%20to%20the%20Cabinet) (Tier 2) (VERIFIED)
+- [OpenSecrets: Trump administration profile. McMahon](https://www.opensecrets.org/members-of-congress/summary?name=50%20Million%20Dollar%20Pipeline%20from%20WWE%20to%20the%20Cabinet) (Tier 2) (VERIFIED)

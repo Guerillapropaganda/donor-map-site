@@ -1,5 +1,5 @@
 ---
-title: "Lloyd Austin Master Profile"
+title: "Lloyd Austin"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

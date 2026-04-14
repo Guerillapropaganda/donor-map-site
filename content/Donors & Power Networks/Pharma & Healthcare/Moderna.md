@@ -76,9 +76,9 @@ The needs-reenrichment flag has been set. The next scheduled pipeline run will p
 
 ### Who They Are
 
-Moderna Inc. A biotechnology company ($6.7 billion revenue, 2024) that became a household name through its COVID-19 vaccine (mRNA-1273). Moderna was a pre-revenue company until the pandemic: the federal government invested $2.5 billion in Operation Warp Speed funding for Moderna's vaccine development, manufacturing, and distribution — transforming a speculative biotech startup into a pharmaceutical giant virtually overnight.
+Moderna Inc. A biotechnology company ($6.7 billion revenue, 2024) that became a household name through its COVID-19 vaccine (mRNA-1273). Moderna was a pre-revenue company until the pandemic: the federal government invested $2.5 billion in Operation Warp Speed funding for Moderna's vaccine development, manufacturing, and distribution, transforming a speculative biotech startup into a pharmaceutical giant virtually overnight.
 
-Moderna's political significance: the company embodies the socialized-risk-privatized-reward model of pharmaceutical development. The mRNA technology underlying Moderna's vaccine was developed with decades of NIH-funded basic research. The vaccine itself was developed and manufactured with federal funding. Moderna then priced the vaccine at $130/dose for commercial sales (2023) — extracting private profit from a publicly funded product.
+Moderna's political significance: the company embodies the socialized-risk-privatized-reward model of pharmaceutical development. The mRNA technology underlying Moderna's vaccine was developed with decades of NIH-funded basic research. The vaccine itself was developed and manufactured with federal funding. Moderna then priced the vaccine at $130/dose for commercial sales (2023), extracting private profit from a publicly funded product.
 
 ---
 
@@ -90,7 +90,7 @@ Patent protection for mRNA technology platform, favorable vaccine pricing (oppos
 
 ### What They've Gotten
 
-**$2.5 Billion in Public Investment:** The federal government's Operation Warp Speed invested $2.5 billion in Moderna's COVID-19 vaccine — funding that covered development, clinical trials, manufacturing facility construction, and dose guarantees. This public investment eliminated the financial risk of vaccine development: Moderna bore virtually none of the downside risk while capturing the full upside of commercial vaccine sales ($18 billion in 2022 alone, the peak revenue year).
+**$2.5 Billion in Public Investment:** The federal government's Operation Warp Speed invested $2.5 billion in Moderna's COVID-19 vaccine, funding that covered development, clinical trials, manufacturing facility construction, and dose guarantees. This public investment eliminated the financial risk of vaccine development: Moderna bore virtually none of the downside risk while capturing the full upside of commercial vaccine sales ($18 billion in 2022 alone, the peak revenue year).
 
 **Patent Protection Despite Public Funding:** Despite the $2.5 billion in federal investment and decades of NIH-funded mRNA research, Moderna holds the patents on its vaccine technology. The Biden administration declined to invoke march-in rights (which would allow the government to license the technology to generic manufacturers) and did not pursue compulsory licensing. Moderna's patent monopoly on publicly funded technology generates billions in revenue that flows to shareholders rather than being shared with the public that funded the research.
 
@@ -117,7 +117,7 @@ Patent protection for mRNA technology platform, favorable vaccine pricing (oppos
 
 > This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.
 
-### Financial Overview (990 Filing — 2023)
+### Financial Overview (990 Filing, 2023)
 <!-- auto:propublica-990 start -->
 | Metric | Amount |
 |--------|--------|

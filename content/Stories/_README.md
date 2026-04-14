@@ -17,8 +17,8 @@ Analytical pieces and working files, separated for clean publishing.
 
 | Folder | Purpose | Publish? |
 |--------|---------|----------|
-| **Published/** | Analytical stories, investigations, contradiction deep dives, race analyses, crossover comparisons | Yes — candidates for Obsidian Publish |
-| **Internal/** | Automated daily scans, research logs, working outputs from scheduled tasks | No — internal infrastructure only |
+| **Published/** | Analytical stories, investigations, contradiction deep dives, race analyses, crossover comparisons | Yes, candidates for Obsidian Publish |
+| **Internal/** | Automated daily scans, research logs, working outputs from scheduled tasks | No, internal infrastructure only |
 
 ### Published/ subfolders
 

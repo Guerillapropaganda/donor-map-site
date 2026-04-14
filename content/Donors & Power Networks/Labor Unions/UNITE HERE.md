@@ -152,7 +152,7 @@ For [[IBEW - International Brotherhood of Electrical Workers|IBEW]] members: UNI
 
 ### Sources
 
-- ~~[OpenSecrets: UNITE HERE 2024 cycle data](https://www.opensecrets.org/orgs/unite-here/summary?id=D000022292)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[OpenSecrets: UNITE HERE 2024 cycle data](https://www.opensecrets.org/orgs/unite-here/summary?id=D000022292)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [UNITE HERE Local 2: SF hotel strike outcomes](https://unitehere.org/affiliates/local-2-san-francisco-and-bay-area/) (Tier 2) (VERIFIED)
 - [UNITE HERE Local 11: Wage campaigns and Disney bargaining](https://unitehere.org/affiliates/local-11-los-angeles-orange-county-arizona2/) (Tier 2) (VERIFIED)
 

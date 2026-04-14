@@ -1,5 +1,5 @@
 ---
-title: "Kelly Morrison Master Profile"
+title: "Kelly Morrison"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

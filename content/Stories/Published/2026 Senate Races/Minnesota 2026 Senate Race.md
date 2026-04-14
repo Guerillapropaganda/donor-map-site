@@ -89,7 +89,7 @@ Craig is outpacing Flanagan 4.7-to-1 in cash reserves despite trailing 13 points
 
 - [Wikipedia: 2026 United States Senate election in Minnesota](https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Minnesota) (Tier 3) (VERIFIED)
 - [19th News: Who is running for Minnesota Senate in 2026?](https://19thnews.org/2025/07/minnesota-senate-primary-2026/) (Tier 2) (VERIFIED)
-- ~~[The Hill: Tina Smith won't seek reelection](https://thehill.com/homenews/campaign/5143053-tina-smith-not-seeking-reelection/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[The Hill: Tina Smith won't seek reelection](https://thehill.com/homenews/campaign/5143053-tina-smith-not-seeking-reelection/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Ballotpedia: 2026 Minnesota Senate election](https://ballotpedia.org/United_States_Senate_election_in_Minnesota,_2026) (Tier 3) (VERIFIED)
 - [MPR News: Tina Smith will not run for reelection](https://www.mprnews.org/story/2025/02/13/tina-smith-will-not-run-for-reelection-in-senate-in-2026) (Tier 2) (VERIFIED)
 - [Center Square: Flanagan leads polling, Craig tops fundraising](https://www.thecentersquare.com/minnesota/article_5db19f2b-cdc8-467e-b890-430aef0b9846.html) (Tier 2) (VERIFIED)

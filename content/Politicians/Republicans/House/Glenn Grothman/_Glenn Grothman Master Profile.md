@@ -1,5 +1,5 @@
 ---
-title: "Glenn Grothman Master Profile"
+title: "Glenn Grothman"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

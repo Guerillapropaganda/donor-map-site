@@ -1,5 +1,5 @@
 ---
-title: "Celeste Maloy Master Profile"
+title: "Celeste Maloy"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

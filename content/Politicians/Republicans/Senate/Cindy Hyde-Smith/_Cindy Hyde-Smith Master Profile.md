@@ -1,5 +1,5 @@
 ---
-title: "Cindy Hyde-Smith Master Profile"
+title: "Cindy Hyde-Smith"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

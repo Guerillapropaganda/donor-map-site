@@ -1,5 +1,5 @@
 ---
-title: "James Mattis Master Profile"
+title: "James Mattis"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

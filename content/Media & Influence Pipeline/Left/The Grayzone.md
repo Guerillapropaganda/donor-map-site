@@ -41,7 +41,7 @@ A news operation employing 8–10 staff with international correspondents, runni
 
 ### FEC Record
 
-*Pending API query — run fecDonorLookup() for Max Blumenthal and key staff.*
+*Pending API query, run fecDonorLookup() for Max Blumenthal and key staff.*
 
 ### Who Funds Them
 
@@ -56,7 +56,7 @@ This section distinguishes between **confirmed** and **alleged** funding. This d
 | 2020–2021 | Iran's Press TV | ~$5,500 | Wyatt Reed (managing editor) | Hacked documents reported by Washington Post; verified through independent outlets | 2 |
 | 2023 | Individual donor | $30,000 | Grayzone GoFundMe | Public GoFundMe campaign; Roger Waters identified as donor | 1 |
 
-#### NOT Confirmed — No Primary Evidence
+#### NOT Confirmed. No Primary Evidence
 
 - Direct Russian government institutional funding
 - Direct Syrian government institutional payments (beyond the 2018 nonprofit donation)
@@ -96,7 +96,7 @@ The Grayzone's audience self-selects for content that:
 3. Defends non-Western states from Western criticism
 4. Dismisses mainstream media narratives
 
-Deplatforming from mainstream media and social media (particularly around Russia and Syria coverage) creates revenue pressure: the outlet depends on its most committed supporters—those who view U.S. imperialism as the primary political threat. This audience composition incentivizes content that satisfies that base, creating the same editorial capture mechanism documented in right-wing media ecosystems.
+Deplatforming from mainstream media and social media (particularly around Russia and Syria coverage) creates revenue pressure: the outlet depends on its most committed supporters, those who view U.S. imperialism as the primary political threat. This audience composition incentivizes content that satisfies that base, creating the same editorial capture mechanism documented in right-wing media ecosystems.
 
 The Patreon model amplifies this: revenue depends directly on subscriber satisfaction. A shift toward critical coverage of Russia, Syria, or China would cost subscribers. The business model creates structural pressure toward positions that please the base.
 
@@ -122,14 +122,14 @@ The Grayzone occupies a paradoxical position in the left media ecosystem:
 
 **Its legitimate function:** Anti-imperialist media serves a genuine analytical function. U.S. foreign policy does create imperial relationships. Critiques of NATO expansion, interventionism, and sanctions are substantively valid. The Grayzone provides coverage that mainstream media marginalizes.
 
-**The structural problem:** Anti-imperialism directed exclusively at Western powers while defending non-Western authoritarianism is analytically incomplete. Class analysis requires examining power relationships wherever they exist—not only where Western capital dominates. Russia, China, Syria, and Iran are themselves imperial powers with their own subordinated populations, resource hierarchies, and donor-patron relationships.
+**The structural problem:** Anti-imperialism directed exclusively at Western powers while defending non-Western authoritarianism is analytically incomplete. Class analysis requires examining power relationships wherever they exist, not only where Western capital dominates. Russia, China, Syria, and Iran are themselves imperial powers with their own subordinated populations, resource hierarchies, and donor-patron relationships.
 
 **The unresolved question:** Does The Grayzone's editorial consistency reflect:
 1. Principled anti-imperialism (in which case the state alignment is coincidental)?
 2. State funding shaping editorial output (evidence: personnel ties, documented payments)?
 3. Audience capture through the Patreon business model (evidence: revenue dependency on ideologically committed subscribers)?
 
-The revenue opacity prevents answering this definitively. A truly independent outlet would have transparent funding sources. Opacity—whether intentional or structural—functions as capture.
+The revenue opacity prevents answering this definitively. A truly independent outlet would have transparent funding sources. Opacity, whether intentional or structural, functions as capture.
 
 ### Capture Architecture
 
@@ -138,7 +138,7 @@ The revenue opacity prevents answering this definitively. A truly independent ou
 | **Revenue Base** | Patreon (~$2K–$19K/month) + YouTube + donations + speaking fees + undisclosed institutional sources |
 | **Revenue Concentration** | Heavily concentrated in ideologically committed subscribers; audience self-selects for anti-imperialist content |
 | **Personnel Pipeline** | 8+ current/former staff from RT/Sputnik (Wyatt Reed, Anya Parampil, Kit Klarenberg, Alex Rubinstein, Dan Cohen, Jeremy Loffredo, Rania Khalek, Mohamed Elmaazi) |
-| **Editorial Red Lines** | Never publishes substantial criticism of Russia, Syria, China, Venezuela, or Iran—which also happen to be states with documented financial ties to staff |
+| **Editorial Red Lines** | Never publishes substantial criticism of Russia, Syria, China, Venezuela, or Iran, which also happen to be states with documented financial ties to staff |
 | **Documented State Connections** | $20K from Assad-linked nonprofit (2018); $5.5K from Iran's Press TV (2020–2021); RT speaking fees (2015) |
 | **Structural Incentive** | Revenue depends on audience satisfaction; audience demands anti-Western content; content that criticizes U.S. allies or defends U.S. adversaries generates subscriptions |
 
@@ -148,25 +148,25 @@ The revenue opacity prevents answering this definitively. A truly independent ou
 |------|-------|-------------|--------|--------------|
 | 2015 | Max Blumenthal paid to speak at RT Moscow gala | Blumenthal, RT | Speaker fee | First documented financial connection between Blumenthal and Russian state media; witness: Eric Alterman |
 | 2018 | Blumenthal receives $20,000 from Assad-linked California nonprofit | Blumenthal, unnamed nonprofit | $20,000 | Only documented connection between Blumenthal and Syrian government-aligned sources; IRS tax records |
-| Dec 2019 | Grayzone publishes attack piece on Adrian Zenz, leading Xinjiang researcher | Blumenthal, editorial staff | — | Following publication, Chinese state media citations of Grayzone spike from zero to 313 in 14 months; suggests editorial line may influence state media amplification strategy |
+| Dec 2019 | Grayzone publishes attack piece on Adrian Zenz, leading Xinjiang researcher | Blumenthal, editorial staff |, | Following publication, Chinese state media citations of Grayzone spike from zero to 313 in 14 months; suggests editorial line may influence state media amplification strategy |
 | 2020–2021 | Managing editor Wyatt Reed receives payments from Iran's Press TV | Reed, Iran's Press TV | ~$5,500 | Strongest documented evidence of institutional state media connection; revealed in hacked documents reported by Washington Post |
 | Jan 2022 | Ben Norton departs; major financial/contractual dispute follows | Norton, Blumenthal, Maté | ~$70,000 (disputed) | Norton authored 227 bylines for Grayzone; dispute centers on Moderate Rebels Patreon revenue (estimated $3,000/month split); Norton alleges "right-wing turn toward MAGA"; cease-and-desist letter issued; signals internal tensions over direction |
 | 2023 | Roger Waters donates $30,000 to Grayzone GoFundMe campaign | Waters, Grayzone | $30,000 | Major individual donor, public identification; indicates high-level political support from celebrity figures |
-| June 2024 | Washington Post publishes investigation of hacked documents revealing Press TV payments to Grayzone staff | Washington Post, staff | — | First major mainstream media investigation into Grayzone-Iran ties; documents verify payments to Wyatt Reed |
-| 2024 | Russia's UN representative publicly thanks Blumenthal and Maté for testimony | Russian UN delegation, Blumenthal, Maté | — | State-level acknowledgment of editorial alignment; suggests Russian government views Grayzone as strategically useful |
+| June 2024 | Washington Post publishes investigation of hacked documents revealing Press TV payments to Grayzone staff | Washington Post, staff |, | First major mainstream media investigation into Grayzone-Iran ties; documents verify payments to Wyatt Reed |
+| 2024 | Russia's UN representative publicly thanks Blumenthal and Maté for testimony | Russian UN delegation, Blumenthal, Maté |, | State-level acknowledgment of editorial alignment; suggests Russian government views Grayzone as strategically useful |
 
 ### Sources
 
 - [Washington Post: Documents reveal Iran payments to Grayzone staff](https://www.washingtonpost.com/technology/2024/06/02/grayzone-russia-iran-support/) (Tier 2) (VERIFIED)
 - [New Lines Magazine: Russia-linked left media on Gaza](https://newlinesmag.com/argument/public-mistrust-of-gaza-coverage-is-opening-space-for-russia-linked-media-on-the-left/) (Tier 2) (VERIFIED)
-- ~~[ASPI: Chinese state media citations of Grayzone](https://xjdp.aspi.org.au/explainers/strange-bedfellows-on-xinjiang/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[ASPI: Chinese state media citations of Grayzone](https://xjdp.aspi.org.au/explainers/strange-bedfellows-on-xinjiang/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Graphtreon: Grayzone Patreon analytics](https://graphtreon.com/creator/Grayzone) (Tier 3) (VERIFIED)
 - [Wikipedia: The Grayzone](https://en.wikipedia.org/wiki/The_Grayzone) (Tier 3) (VERIFIED)
 
 ### Additional sources to verify:
 - RT Moscow gala speaker list (Eric Alterman firsthand account)
-- IRS tax records for Assad-linked nonprofit funding (Tier 1 — government records)
-- Ben Norton departure details and cease-and-desist letter (Tier 2/3 — need primary documentation)
+- IRS tax records for Assad-linked nonprofit funding (Tier 1, government records)
+- Ben Norton departure details and cease-and-desist letter (Tier 2/3, need primary documentation)
 
 ---
 

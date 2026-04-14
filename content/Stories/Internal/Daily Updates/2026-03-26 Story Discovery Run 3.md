@@ -123,7 +123,7 @@ Warren and Hawley introduced the "Break Up Big Medicine Act" in February 2026 to
 - Warren and Hawley master profiles (if they exist)
 
 ### Lead sources (all Chrome-verified VALID):
-- ~~[The Hill: Warren, Hawley Introducing Legislation to Break Up 'Big Medicine'](https://thehill.com/policy/healthcare/5732189-break-up-big-medicine-act/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[The Hill: Warren, Hawley Introducing Legislation to Break Up 'Big Medicine'](https://thehill.com/policy/healthcare/5732189-break-up-big-medicine-act/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [MedCity News: It Took Years for Congress to Enact PBM Transparency. What About Vertical Integration?](https://medcitynews.com/2026/03/congress-pbm-vertical-integration/) (Tier 3) (VERIFIED)
 - [Tennessee Lookout: CVS Blankets Tennessee Airwaves to Fight PBM Bill](https://tennesseelookout.com/2026/03/19/cvs-blankets-tennessee-airwaves-enlists-mass-texts-to-fight-pharmacy-benefit-manager-bill/) (Tier 2) (VERIFIED)
 

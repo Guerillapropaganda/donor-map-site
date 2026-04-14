@@ -32,7 +32,7 @@ The most consequential policy event of the day: Trump's 48-hour ultimatum for Ir
 - [Al Jazeera: Day 24 of US-Israel attacks on Iran](https://www.aljazeera.com/economy/2026/3/23/iran-war-whats-happening-on-day-24-of-us-israel-attacks) (Tier 2) (VERIFIED)
 - [CNBC: Oil prices rise as Trump's Hormuz ultimatum keeps markets on edge](https://www.cnbc.com/2026/03/23/oil-prices-trump-iran-strait-of-hormuz-wti-crude-middle-east-lng-gas.html) (Tier 2) (VERIFIED)
 - [IBTimes: World Oil Prices Surge to Near $113](https://www.ibtimes.com.au/world-oil-prices-surge-near-113-us-iran-conflict-disrupts-strait-hormuz-flows-march-23-2026-1864087) (Tier 2) (VERIFIED)
-- ~~[Axios: House GOP welcomes $200B Pentagon request to jump-start reconciliation 2.0](https://www.axios.com/2026/03/19/pentagon-200-billion-reconciliation-house-republicans)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[Axios: House GOP welcomes $200B Pentagon request to jump-start reconciliation 2.0](https://www.axios.com/2026/03/19/pentagon-200-billion-reconciliation-house-republicans)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [IEA: Oil Market Report March 2026](https://www.iea.org/reports/oil-market-report-march-2026) (Tier 1) (VERIFIED)
 
 ---
@@ -134,7 +134,7 @@ Two notable SCOTUS developments since last scan:
 > The Urias-Orellana ruling strengthens the deportation pipeline by reducing judicial checks on immigration judge decisions. Combined with the ICE expansion (Section 3 above) and the DHS shutdown funding fight, this creates a legal-administrative apparatus that directly serves private prison contractors and enforcement-adjacent donors.
 
 - [Fox News: Justice Jackson authors unanimous SCOTUS opinion handing Trump immigration win](https://www.foxnews.com/politics/justice-jackson-authors-unanimous-scotus-opinion-handing-trump-immigration-win) (Tier 2) (VERIFIED)
-- ~~[Justia: 2026 Supreme Court Opinions](https://supreme.justia.com/cases/federal/us/year/2026.html)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[Justia: 2026 Supreme Court Opinions](https://supreme.justia.com/cases/federal/us/year/2026.html)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 
 ---
 

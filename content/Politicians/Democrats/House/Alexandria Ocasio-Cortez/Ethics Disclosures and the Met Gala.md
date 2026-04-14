@@ -26,7 +26,7 @@ The committee found no intentional violation, noting that she "proactively took 
 ### The Symbolic Contradiction
 
 [!contradiction]
-The "Tax the Rich" dress at the Met Gala represents a core symbolic tension: a politician whose brand centers on anti-elite messaging attending the most exclusive event in American culture, wearing a political message as fashion at an event funded by the luxury industry. The ethics violation was minor and required corrective payments. However, the symbolic damage—that a progressive politician can be absorbed into elite social performance—aligns with donor-class narratives about AOC's supposed hypocrisy. The financial disclosure data, examined below, tells a contrasting story.
+The "Tax the Rich" dress at the Met Gala represents a core symbolic tension: a politician whose brand centers on anti-elite messaging attending the most exclusive event in American culture, wearing a political message as fashion at an event funded by the luxury industry. The ethics violation was minor and required corrective payments. However, the symbolic damage, that a progressive politician can be absorbed into elite social performance, aligns with donor-class narratives about AOC's supposed hypocrisy. The financial disclosure data, examined below, tells a contrasting story.
 
 ### Financial Disclosures and Net Worth
 
@@ -67,9 +67,9 @@ Campaign security spending totaled approximately $290,000 in 2025 alone ($62,000
 
 ### The Class Analysis Framework
 
-AOC's net worth—ranking 438th of 445 in Congress—is itself a data point requiring analysis. She has not enriched herself through office. No outside income, no stock trades, no book advance, no documentary royalties. The Met Gala violation was real but quantified: $2,983.28 in required payments.
+AOC's net worth, ranking 438th of 445 in Congress, is itself a data point requiring analysis. She has not enriched herself through office. No outside income, no stock trades, no book advance, no documentary royalties. The Met Gala violation was real but quantified: $2,983.28 in required payments.
 
-Compare this trajectory to members of Congress whose net worth grows by millions during their tenure. The ethics narrative the donor class prefers—that AOC is a hypocrite whose progressive rhetoric masks elite absorption—is refuted by disclosure data: she entered Congress with student debt and remains among the poorest members seven years later.
+Compare this trajectory to members of Congress whose net worth grows by millions during their tenure. The ethics narrative the donor class prefers, that AOC is a hypocrite whose progressive rhetoric masks elite absorption, is refuted by disclosure data: she entered Congress with student debt and remains among the poorest members seven years later.
 
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Betsy DeVos Master Profile"
+title: "Betsy DeVos"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

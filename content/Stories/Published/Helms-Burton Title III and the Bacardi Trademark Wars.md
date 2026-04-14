@@ -15,11 +15,11 @@ related: "[[_Marco Rubio Master Profile|Rubio]] · [[_Mario Diaz-Balart Master P
 
 ### The Shootdown That Changed Everything
 
-On February 24, 1996, two Cessna 337 aircraft belonging to Brothers to the Rescue—a Miami-based humanitarian group—were shot down by Cuban MiG-23 and MiG-29 fighters in international airspace. Four American pilots were killed. The International Civil Aviation Organization confirmed the planes were in international waters when destroyed, yet Cuba justified the action as defense against what it claimed were unwarranted intrusions.
+On February 24, 1996, two Cessna 337 aircraft belonging to Brothers to the Rescue, a Miami-based humanitarian group, were shot down by Cuban MiG-23 and MiG-29 fighters in international airspace. Four American pilots were killed. The International Civil Aviation Organization confirmed the planes were in international waters when destroyed, yet Cuba justified the action as defense against what it claimed were unwarranted intrusions.
 
-The incident was not spontaneous. Congress had been negotiating Helms-Burton since 1995, and the original Senate version passed in October of that year **did not include** Titles III and IV—the most punitive provisions targeting foreign investment in confiscated Cuban properties and creating a private right of action for exiled claimants. The conference committee had been appointed but **had never met** through February 1996.
+The incident was not spontaneous. Congress had been negotiating Helms-Burton since 1995, and the original Senate version passed in October of that year **did not include** Titles III and IV, the most punitive provisions targeting foreign investment in confiscated Cuban properties and creating a private right of action for exiled claimants. The conference committee had been appointed but **had never met** through February 1996.
 
-The shootdown changed the political calculus overnight. President Clinton, who had Secretary of State Christopher and Undersecretary Tarnoff recommend a veto, instead announced he would sign the bill. The conference committee convened on February 28—four days after the shootdown—and restored Titles III and IV. Clinton signed Helms-Burton on March 12, 1996, seventeen days after the attack.
+The shootdown changed the political calculus overnight. President Clinton, who had Secretary of State Christopher and Undersecretary Tarnoff recommend a veto, instead announced he would sign the bill. The conference committee convened on February 28, four days after the shootdown, and restored Titles III and IV. Clinton signed Helms-Burton on March 12, 1996, seventeen days after the attack.
 
 > [!quote] Clinton's Political Calculation
 > Clinton's 1996 campaign strategy hinged on Florida's 25 electoral votes. He won a larger share of the Cuban-American vote than any recent Democratic presidential candidate, buoyed partly by a hardline posture on Cuba. The shootdown provided political cover to activate provisions he had otherwise opposed.
@@ -28,11 +28,11 @@ The shootdown changed the political calculus overnight. President Clinton, who h
 
 The legislative architects of Helms-Burton were Senators Jesse Helms (R-NC) and Dan Burton (R-IN), but a 2025 SCOTUS amicus brief confirmed that **Daniel W. Fisk**, a senior staffer on the Senate Foreign Relations Committee, was the actual drafter. His team included future representatives Lincoln Diaz-Balart and Ileana Ros-Lehtinen, then-Congressman Bob Menendez, Robert Torricelli, and House-side drafter Roger Noriega.
 
-The influence campaign, however, tells a different story. The Center for Public Integrity (1998) documented that Fisk showed his initial draft to **Jorge Mas Canosa**, executive director of the Cuban American National Foundation (CANF). Mas Canosa met with Helms and offered suggestions. However, CPI concluded that CANF did **not** play the determinative role—CANF's position on auctioning recovered properties directly contradicted the interests of title claimants.
+The influence campaign, however, tells a different story. The Center for Public Integrity (1998) documented that Fisk showed his initial draft to **Jorge Mas Canosa**, executive director of the Cuban American National Foundation (CANF). Mas Canosa met with Helms and offered suggestions. However, CPI concluded that CANF did **not** play the determinative role, CANF's position on auctioning recovered properties directly contradicted the interests of title claimants.
 
 ### Bacardi's role was decisive.
 
-Manuel J. Cutillas, executive director of Bacardi, coordinated the company's influence campaign. But the operative was **Otto Reich**, a Miami consultant who had been paid over $600,000 by Bacardi since 1996. According to CPI, Reich "arranged the loan of Bacardi lawyers to help draft the measure's most controversial provisions"—specifically, the clauses creating the private right of action and defining the scope of "trafficking" in confiscated property.
+Manuel J. Cutillas, executive director of Bacardi, coordinated the company's influence campaign. But the operative was **Otto Reich**, a Miami consultant who had been paid over $600,000 by Bacardi since 1996. According to CPI, Reich "arranged the loan of Bacardi lawyers to help draft the measure's most controversial provisions", specifically, the clauses creating the private right of action and defining the scope of "trafficking" in confiscated property.
 
 This drafting partnership was not disclosed to Congress. Reich's role in crafting the legislation he would later enforce was unknown when he was appointed Assistant Secretary of State for Western Hemisphere Affairs in 2002, a position he held through 2004.
 
@@ -54,7 +54,7 @@ Between 1999 and 2002, a small, concentrated group of Cuban exile donors contrib
 
 **Dan Burton's transformation was dramatic.** Before 1990, Burton received zero contributions from Cuban-American donors. By 1996, he had accumulated over $61,000 from this network. Similarly, **Jesse Helms** received $86,000 from Cuban-American sources, with 74% of that arriving in the critical 1995-1996 window when Helms-Burton was being drafted and finalized.
 
-The pattern ceased after passage. Neither Burton nor Helms received significant further contributions from these sources—suggesting a transactional relationship specific to Helms-Burton.
+The pattern ceased after passage. Neither Burton nor Helms received significant further contributions from these sources, suggesting a transactional relationship specific to Helms-Burton.
 
 **Bacardi alone contributed approximately $400,000** during this period, but the company's influence extended far beyond direct contributions. Otto Reich's $600,000+ in consulting fees dwarfed any campaign donation.
 
@@ -75,13 +75,13 @@ The pattern ceased after passage. Neither Burton nor Helms received significant 
 | 2012 | $304,000 |
 | 2014 | $265,000 |
 
-NPR investigation (2009) found that 18 House members shifted their Cuba voting positions around the time they received contributions from this PAC—a correlation suggesting coordinated influence.
+NPR investigation (2009) found that 18 House members shifted their Cuba voting positions around the time they received contributions from this PAC, a correlation suggesting coordinated influence.
 
 ### Title III: Mechanism of a Lawsuit
 
 Title III of Helms-Burton created an unprecedented private right of action. Any U.S. national with a certified property claim of $50,000 or more could sue, in U.S. federal district court, **any entity engaged in "trafficking" in confiscated Cuban property.**
 
-The definition of "trafficking" was intentionally broad: "purchasing, receiving, possessing, controlling, managing, using, holding interest in" confiscated property, or "any commercial activity using or benefiting from it." A hotel company using a confiscated resort building, a farmer selling sugar grown on confiscated land, an oil company extracting from confiscated reserves—all were potentially liable.
+The definition of "trafficking" was intentionally broad: "purchasing, receiving, possessing, controlling, managing, using, holding interest in" confiscated property, or "any commercial activity using or benefiting from it." A hotel company using a confiscated resort building, a farmer selling sugar grown on confiscated land, an oil company extracting from confiscated reserves, all were potentially liable.
 
 Damages were tripled (treble damages) if the defendant continued trafficking after notification. Attorney fees were recoverable. The $6,548 filing fee was negligible compared to potential awards.
 
@@ -118,11 +118,11 @@ The 2019 activation of Title III was not spontaneous. It was the product of a co
 - **Jose Garcia-Bengochea**, a retired Miami neurosurgeon who held a certified claim to the Santiago docks (82.5% ownership stake under his claim).
 - **Mickael Behn**, heir to Havana Docks interests.
 
-Both retained the **Cormac Group**, a Miami consulting firm run by Jonathan Slade and Jose Cardenas. Slade and Cardenas also represented the Title III activation campaign. Simultaneously, **Bacardi retained Cormac Group for its trademark enforcement lobbying**—the same firm, the same principals.
+Both retained the **Cormac Group**, a Miami consulting firm run by Jonathan Slade and Jose Cardenas. Slade and Cardenas also represented the Title III activation campaign. Simultaneously, **Bacardi retained Cormac Group for its trademark enforcement lobbying**, the same firm, the same principals.
 
-The strategy was explicit. According to accounts from lobbyists and activists, Garcia-Bengochea and associates conducted what became known as "$10,000 coffees"—informal meetings with Senator Marco Rubio and Governor Rick Scott, offering campaign access in exchange for supporting Title III activation. Claver-Carone, head of the U.S.-Cuba Democracy PAC, coordinated the effort and introduced Garcia-Bengochea to National Security Advisor John Bolton.
+The strategy was explicit. According to accounts from lobbyists and activists, Garcia-Bengochea and associates conducted what became known as "$10,000 coffees", informal meetings with Senator Marco Rubio and Governor Rick Scott, offering campaign access in exchange for supporting Title III activation. Claver-Carone, head of the U.S.-Cuba Democracy PAC, coordinated the effort and introduced Garcia-Bengochea to National Security Advisor John Bolton.
 
-Claver-Carone recommended Garcia-Bengochea for a position in the Trump administration. Garcia-Bengochea, in turn, was directly funding Claver-Carone's PAC (contributing $35,000). Claver-Carone was appointed senior director for Latin America at the National Security Council in September 2018—just as the activation campaign was intensifying.
+Claver-Carone recommended Garcia-Bengochea for a position in the Trump administration. Garcia-Bengochea, in turn, was directly funding Claver-Carone's PAC (contributing $35,000). Claver-Carone was appointed senior director for Latin America at the National Security Council in September 2018, just as the activation campaign was intensifying.
 
 Otto Reich, the original Bacardi lobbyist and Helms-Burton drafter, coordinated with Cormac Group and was compensated for facilitating meetings.
 
@@ -179,7 +179,7 @@ While Title III created a mechanism for suing foreign operators, a parallel batt
 
 **1996-1997:** Havana Club Holdings (the Cubaexport/Pernod Ricard JV) sues Bacardi in federal court (Havana Club Holdings v. Galleon) for trademark infringement. Bacardi argues that Cubaexport has no enforceable rights because the original family abandoned the mark and because U.S. embargo law (OFAC) bars any assignment of property rights from a Cuban entity to U.S. interests. District court agrees: Cubaexport has no enforceable rights.
 
-**1998:** Late October. Congress debates an omnibus appropriations bill. In the early morning hours before the final vote, language is inserted into the bill—language that never appears in any committee report, was never debated on the Senate floor, and does not appear in the legislative history. The insertion was facilitated by Senator Connie Mack (R-FL), then the most powerful Cuban-American voice in Congress. Otto Reich, simultaneously serving as a paid Bacardi lobbyist, helped coordinate the insertion.
+**1998:** Late October. Congress debates an omnibus appropriations bill. In the early morning hours before the final vote, language is inserted into the bill, language that never appears in any committee report, was never debated on the Senate floor, and does not appear in the legislative history. The insertion was facilitated by Senator Connie Mack (R-FL), then the most powerful Cuban-American voice in Congress. Otto Reich, simultaneously serving as a paid Bacardi lobbyist, helped coordinate the insertion.
 
 The amendment, which became known as **"Section 211" or the "Bacardi Amendment,"** contains three operative provisions:
 
@@ -193,7 +193,7 @@ The amendment, which became known as **"Section 211" or the "Bacardi Amendment,"
 
 **2016:** During the Obama administration's opening toward Cuba, the U.S. Patent and Trademark Office (USPTO) issues guidance permitting the retroactive renewal of Cuban trademarks, including Havana Club. Cubaexport files for renewal.
 
-**2024 (October):** Federal District Court in Washington, D.C., rules on a motion in the longstanding Havana Club dispute. The court confirms that Section 211 bars Cubaexport from filing a counterclaim against Bacardi for trademark infringement. The legal pathway for Cuba to challenge Bacardi's use is closed.
+**2024 (October):** Federal District Court in Washington, D.C. rules on a motion in the longstanding Havana Club dispute. The court confirms that Section 211 bars Cubaexport from filing a counterclaim against Bacardi for trademark infringement. The legal pathway for Cuba to challenge Bacardi's use is closed.
 
 **2024 (December 1):** President Biden signs the "No Stolen Trademarks Honored in America Act" (H.R. 1505) into law. The new statute codifies and strengthens Section 211, making permanent the prohibition on registration or renewal of trademarks derived from confiscated property. Unlike Section 211, which contained a narrow exception for pre-1959 family businesses that had continuously used the mark, the new law contains no exceptions. Cubaexport's pending renewal application for Havana Club is expected to be denied.
 
@@ -229,7 +229,7 @@ Despite securing legal dominance through Section 211 and the trademark apparatus
 | 2024 | $550,000 |
 | 2025 (Q1) | $130,000 |
 
-The lobbying firm retained was **Cormac Group**—the same firm coordinating Title III activation—billing $160,000 in 2023 alone. The overlap of representation between Title III plaintiffs and Bacardi trademark defense suggests a coordinated strategy.
+The lobbying firm retained was **Cormac Group**, the same firm coordinating Title III activation, billing $160,000 in 2023 alone. The overlap of representation between Title III plaintiffs and Bacardi trademark defense suggests a coordinated strategy.
 
 Bacardi's PAC (C00160838) donated $39,250 during the 2024 election cycle, with a 52.87% Republican and 40.76% Democratic split. Notable Florida recipients included:
 
@@ -250,9 +250,9 @@ Bacardi's PAC (C00160838) donated $39,250 during the 2024 election cycle, with a
 
 The extraterritorial reach of Helms-Burton extended beyond corporate litigation. Title IV of the law authorized visa denials for executives and families of foreign companies "trafficking" in confiscated property. This provision targeted specific companies and individuals, using visa policy as a weapon.
 
-**Sherritt International (Canada)** was the most prominent casualty. Sherritt operated a 50-50 joint venture with Cuba at Moa—the nickel and cobalt mining complex originally owned by Moa Bay Mining (now part of Freeport-McMoRan). Sherritt also operated offshore oil wells supplying approximately one-third of Cuba's domestic petroleum production. In July 1996, Sherritt executives and their families were barred from entering the United States. The ban remains in effect.
+**Sherritt International (Canada)** was the most prominent casualty. Sherritt operated a 50-50 joint venture with Cuba at Moa, the nickel and cobalt mining complex originally owned by Moa Bay Mining (now part of Freeport-McMoRan). Sherritt also operated offshore oil wells supplying approximately one-third of Cuba's domestic petroleum production. In July 1996, Sherritt executives and their families were barred from entering the United States. The ban remains in effect.
 
-The impact on Sherritt was severe. The company accumulated over $240 million in overdue receivables from Cuba, unable to collect because of embargo restrictions. By denying Sherritt's executives entry to the U.S., Title IV prevented the company from pursuing settlements or refinancing arrangements. Title IV visa denials were also issued to:
+The impact on Sherritt was severe. The company accumulated over $240 million in overdue receivables from Cuba, unable to collect because of embargo restrictions. By denying Sherritt's executives entry to the U.S. Title IV prevented the company from pursuing settlements or refinancing arrangements. Title IV visa denials were also issued to:
 
 - **Grupo Domos** (Mexico): Telecom investor in Cuba (August 1996)
 - **B.M. Group** (Israel): Citrus operator in Cuba (November 1997)
@@ -262,11 +262,11 @@ STET eventually settled with ITT Corporation (the original claimant) for approxi
 
 ### The Donor-to-Policy Chain: Eight Links
 
-The transformation of Helms-Burton from proposed legislation into hardline U.S. policy—and then into an enforcement mechanism for private profit—can be traced through eight distinct links connecting corporate interests to policy outcomes:
+The transformation of Helms-Burton from proposed legislation into hardline U.S. policy, and then into an enforcement mechanism for private profit, can be traced through eight distinct links connecting corporate interests to policy outcomes:
 
 **Link 1: Corporate Interest to Drafting.** Bacardi, through Manuel J. Cutillas and Otto Reich, gained access to the actual drafting process. Bacardi lawyers were embedded in the team writing Title III provisions. No public record disclosed this influence; the arrangement was revealed only through Center for Public Integrity investigation in 1998.
 
-**Link 2: Campaign Contributions to Sponsors.** Dan Burton received $0 from Cuban-American donors before 1990; by 1996, he had $61,000+. Jesse Helms received $86,000, with 74% arriving in the critical 1995-1996 window. These contributions were concentrated, recurring, and terminated after Helms-Burton passed—a pattern indicating transactional relationships.
+**Link 2: Campaign Contributions to Sponsors.** Dan Burton received $0 from Cuban-American donors before 1990; by 1996, he had $61,000+. Jesse Helms received $86,000, with 74% arriving in the critical 1995-1996 window. These contributions were concentrated, recurring, and terminated after Helms-Burton passed, a pattern indicating transactional relationships.
 
 **Link 3: Helms-Burton Passage.** The bill passed with overwhelming majorities (336-86 House, 74-22 Senate final passage), driven by the emotional response to the Brothers to the Rescue shootdown but facilitated by the lobbying and campaign finance infrastructure built by Bacardi and Cuban exile interests.
 
@@ -289,7 +289,7 @@ The activation of Title III and the codification of Section 211 created unpreced
 
 The impact extended beyond Cuba. The precedent of private causes of action against foreign investors for "trafficking" in confiscated property was unprecedented in modern international law. It violated WTO obligations (as the Appellate Body found), contradicted UNCITRAL principles, and was unilaterally imposed by the U.S. without treaty or multilateral agreement.
 
-International legal scholars (Cambridge, Northwestern, Cleary Gottlieb) documented that Title III violated settled principles of international comity. The U.S. was imposing its determination of property rights—derived from claims submitted to a U.S. agency (FCSC) under U.S. standards—on foreign companies operating in their own sovereignties, in foreign territory, with foreign governments' permission.
+International legal scholars (Cambridge, Northwestern, Cleary Gottlieb) documented that Title III violated settled principles of international comity. The U.S. was imposing its determination of property rights, derived from claims submitted to a U.S. agency (FCSC) under U.S. standards, on foreign companies operating in their own sovereignties, in foreign territory, with foreign governments' permission.
 
 The Venezuelan government, watching this precedent, explicitly cited Helms-Burton Title III as justification for seizing U.S. company assets during sanctions disputes (2003-2020). China cited it as precedent for imposing retaliatory sanctions on U.S. companies. The juridical architecture Bacardi and Cuban exile interests had built to recover confiscated property became a tool for authoritarian expansion of confiscatory power globally.
 
@@ -297,7 +297,7 @@ The Venezuelan government, watching this precedent, explicitly cited Helms-Burto
 
 Two Title III cases reached the U.S. Supreme Court simultaneously, argued on the same day (February 23, 2026), with decisions pending. **Havana Docks Consortium v. Carnival et al.** and **Exxon v. Cimex** will determine whether Title III can be enforced against foreign sovereign enterprises and whether the statute survives constitutional scrutiny.
 
-The Exxon case raises the Foreign Sovereign Immunities Act (FSIA) question directly: whether a Cuban state-owned petroleum company can be sued in U.S. courts despite sovereign immunity. If SCOTUS finds FSIA applies, Title III enforcement collapses against all Cuban state entities (which operate most large commercial assets). If SCOTUS upholds Title III, the precedent extends U.S. jurisdiction over sovereign state assets globally—a dramatic expansion of judicial authority.
+The Exxon case raises the Foreign Sovereign Immunities Act (FSIA) question directly: whether a Cuban state-owned petroleum company can be sued in U.S. courts despite sovereign immunity. If SCOTUS finds FSIA applies, Title III enforcement collapses against all Cuban state entities (which operate most large commercial assets). If SCOTUS upholds Title III, the precedent extends U.S. jurisdiction over sovereign state assets globally, a dramatic expansion of judicial authority.
 
 The Havana Docks case raises damages and jurisdiction questions. Can treble damages be applied to a foreign defendant based on property confiscated in a third country (Cuba) and operated in international waters (the port)? The lower courts split on this question, creating a circuit split that SCOTUS decisions should resolve.
 
@@ -320,44 +320,44 @@ The story remains active as of April 2, 2026. SCOTUS decisions on Havana Docks a
 - DOJ Foreign Claims Settlement Commission Claims Database: https://www.just *(source unavailable)*ice.gov/fcsc/claims-against-cuba (Tier 1)
 - FCSC Certified Claims List (PDF): https://www.just *(source unavailable)*ice.gov/sites/default/files/fcsc/pages/attachments/2014/12/18/cuban_basic_claimant_info_value.pdf (Tier 1)
 - U.S. Supreme Court Amicus Brief (Daniel W. Fisk Confirmation): https://www.supremecourt.gov/DocketPDF/24/24-983/385821/20251125231351031_24-983_Amicus%20Brief.pdf (Tier 1)
-- Federal Election Commission / OpenSecrets — Bacardi USA PAC (C00160838): https://www.opensecrets.org/political-action-committees-pacs/bacardi-usa/C00160838/candidate-recipients/2024 (Tier 1)
+- Federal Election Commission / OpenSecrets. Bacardi USA PAC (C00160838): https://www.opensecrets.org/political-action-committees-pacs/bacardi-usa/C00160838/candidate-recipients/2024 (Tier 1)
 - OpenSecrets Bacardi Federal Lobbying Disclosure: https://lda.gov/filings/public/filing/search/ (Tier 1)
 - U.S. State Department Title III Provisions (1999): https://1997-2001.state.gov/regions/wha/fs_990716_cuba_titleIII.html (Tier 1)
-- USTR WTO Dispute Settlement — Section 211 Dispute: https://ustr.gov/issue-areas/enforcement/dispute-settlement-proceedings/united-states-%E2%80%93-section-211-omnibus-appropri (Tier 1)
+- USTR WTO Dispute Settlement. Section 211 Dispute: https://ustr.gov/issue-areas/enforcement/dispute-settlement-proceedings/united-states-%E2%80%93-section-211-omnibus-appropri (Tier 1)
 
 ### Tier 2 (Academic and Investigative Journalism):
 
-- Miami New Times — Title III Donor Investigation: https://www.miaminewtimes.com/news/inside-the-campaign-to-crush-investment-in-cuba-under-helms-burton-act-17727091/ (Tier 2)
+- Miami New Times. Title III Donor Investigation: https://www.miaminewtimes.com/news/inside-the-campaign-to-crush-investment-in-cuba-under-helms-burton-act-17727091/ (Tier 2)
 - Center for Public Integrity (via Progreso Weekly): https://progresoweekly.us/the-true-origin-of-the-helms-burton-act/ (Tier 2)
-- Council on Hemispheric Affairs — Otto Reich Profile: https://coha.org/otto-reich-a-career-in-disservice/ (Tier 2)
-- Arnold & Porter LLP — Two-Year Title III Litigation Review: https://www.arnoldporter.com/en/perspectives/advisories/2021/05/two-years-of-title-iii-helmsburton-lawsuits (Tier 2)
-- NPR Investigation — U.S.-Cuba PAC and Vote-Flipping: https://www.npr.org/2009/11/19/120562894/u-s-cuba-pac-money-may-have-changed-votes (Tier 2)
-- Latin American Studies Association — CRP Exile Lawmakers Data: https://latinamericanstudies.org/us-cuba/exile-lawmakers.htm (Tier 2)
-- Semantic Scholar — Interest Groups and Helms-Burton (Peer-Reviewed): https://pdfs.semanticscholar.org/9fb0/49d37a7e0c6253badac2f113730f891e1c2f.pdf (Tier 2)
-- Cambridge Core — American Journal of International Law (Helms-Burton Enforcement): https://www.cambridge.org/core/journals/american-journal-of-international-law/article/abs/congress-and-cuba-the-helmsburton-act/B7716DDDB08C99DB316890C09AAFBF25 (Tier 2)
+- Council on Hemispheric Affairs. Otto Reich Profile: https://coha.org/otto-reich-a-career-in-disservice/ (Tier 2)
+- Arnold & Porter LLP. Two-Year Title III Litigation Review: https://www.arnoldporter.com/en/perspectives/advisories/2021/05/two-years-of-title-iii-helmsburton-lawsuits (Tier 2)
+- NPR Investigation. U.S.-Cuba PAC and Vote-Flipping: https://www.npr.org/2009/11/19/120562894/u-s-cuba-pac-money-may-have-changed-votes (Tier 2)
+- Latin American Studies Association. CRP Exile Lawmakers Data: https://latinamericanstudies.org/us-cuba/exile-lawmakers.htm (Tier 2)
+- Semantic Scholar. Interest Groups and Helms-Burton (Peer-Reviewed): https://pdfs.semanticscholar.org/9fb0/49d37a7e0c6253badac2f113730f891e1c2f.pdf (Tier 2)
+- Cambridge Core. American Journal of International Law (Helms-Burton Enforcement): https://www.cambridge.org/core/journals/american-journal-of-international-law/article/abs/congress-and-cuba-the-helmsburton-act/B7716DDDB08C99DB316890C09AAFBF25 (Tier 2)
 - Northwestern Journal of International Law & Business (Helms-Burton Analysis): https://scholarlycommons.law.northwestern.edu/cgi/viewcontent.cgi *(source unavailable)*?article=1470&context=njilb (Tier 2)
 - Northwestern Journal of International Law & Business (Section 211 Analysis): https://scholarlycommons.law.northwestern.edu/cgi/viewcontent.cgi *(source unavailable)*?article=1578&context=njilb (Tier 2)
-- Cleary Gottlieb — Title III Memorandum (2019 Activation): https://www.clearygottlieb.com/-/media/files/alert-memos-2019/2019_04_19-end-of-suspension-of-title-iii-of-the-helms-burton-act-pdf.pdf (Tier 2)
-- Reuters — Exxon SCOTUS Case (Feb 2026): https://www.reuters.com/business/energy/us-supreme-court-hear-exxon-bid-compensation-cuba-2026-02-23/ (Tier 2)
-- Reuters — Biden Signs No Stolen Trademarks Act (Dec 2024): https://www.reuters.com/legal/government/biden-signs-us-law-barring-stolen-cuba-owned-trademarks-2024-12-03/ (Tier 2)
+- Cleary Gottlieb. Title III Memorandum (2019 Activation): https://www.clearygottlieb.com/-/media/files/alert-memos-2019/2019_04_19-end-of-suspension-of-title-iii-of-the-helms-burton-act-pdf.pdf (Tier 2)
+- Reuters. Exxon SCOTUS Case (Feb 2026): https://www.reuters.com/business/energy/us-supreme-court-hear-exxon-bid-compensation-cuba-2026-02-23/ (Tier 2)
+- Reuters. Biden Signs No Stolen Trademarks Act (Dec 2024): https://www.reuters.com/legal/government/biden-signs-us-law-barring-stolen-cuba-owned-trademarks-2024-12-03/ (Tier 2)
 
 ### Tier 3 (Supplementary and Regional Sources):
 
-- Center for Free Cuba — Brothers to the Rescue Shootdown (March 2026 Retrospective): https://cubacenter.org/cuba-brief/2026/03/12/cubabrief-on-this-day-in-1996-president-bill-clinton-signed-the-cuban-liberty-and-democratic-solidarity-act-helms-burton-act-in-response-to-the-brothers-to-the-rescue-shootdown/ (Tier 3)
-- Mayer Brown LLP — EU Blocking Statute Analysis: https://www.mayerbrown.com/en/insights/publications/2021/12/eu-top-court-issues-firstever-judgment-on-the-eu-blocking-statute-against-us-sanctions (Tier 3)
-- JD Supra — Helms-Burton vs. EU Regulatory Conflict: https://www.jdsupra.com/legalnews/back-to-the-future-helms-burton-versus-46590/ (Tier 3)
-- Mining.com — Sherritt International Nickel Operations: https://www.mining.com/web/sherritt-ceo-undaunted-trumps-tightening-embargo-cuba/ (Tier 3)
-- Los Angeles Times Archive — Sherritt Title IV Visa Denials (1996): https://www.latimes.com/archives/la-xpm-1996-07-11-fi-23050-story.html (Tier 3)
-- Holland & Knight LLP — OFAC/Title III Enforcement Tensions: https://www.hklaw.com/en/insights/publications/2019/04/cuba-policy-in-flux-seven-unanswered-questions (Tier 3)
-- Steptoe & Johnson — Title III Litigation Decisions Summary: https://www.steptoe.com/en/news-publications/new-helms-burton-act-decisions.html (Tier 3)
-- U.S.-Cuba Trade Council — FCSC Claims Eligibility Analysis: https://www.cubatrade.org/blog/2019/2/7/there-are-5913-certified-claims-but-only-913-of-15-may-be-eligible-to-file-a-lawsuit (Tier 3)
-- Deutsche Welle — Havana Club Trademark Dispute (2024): https://www.dw.com/en/us-law-ends-havana-club-trademark-battle-between-cuba-and-bacardi/a-71097201 (Tier 3)
-- The Drinks Business — Havana Club Dispute Ongoing Coverage: https://www.thedrinksbusiness.com/2024/06/the-havana-club-dispute-rumbles-on/ (Tier 3)
+- Center for Free Cuba. Brothers to the Rescue Shootdown (March 2026 Retrospective): https://cubacenter.org/cuba-brief/2026/03/12/cubabrief-on-this-day-in-1996-president-bill-clinton-signed-the-cuban-liberty-and-democratic-solidarity-act-helms-burton-act-in-response-to-the-brothers-to-the-rescue-shootdown/ (Tier 3)
+- Mayer Brown LLP. EU Blocking Statute Analysis: https://www.mayerbrown.com/en/insights/publications/2021/12/eu-top-court-issues-firstever-judgment-on-the-eu-blocking-statute-against-us-sanctions (Tier 3)
+- JD Supra. Helms-Burton vs. EU Regulatory Conflict: https://www.jdsupra.com/legalnews/back-to-the-future-helms-burton-versus-46590/ (Tier 3)
+- Mining.com. Sherritt International Nickel Operations: https://www.mining.com/web/sherritt-ceo-undaunted-trumps-tightening-embargo-cuba/ (Tier 3)
+- Los Angeles Times Archive. Sherritt Title IV Visa Denials (1996): https://www.latimes.com/archives/la-xpm-1996-07-11-fi-23050-story.html (Tier 3)
+- Holland & Knight LLP. OFAC/Title III Enforcement Tensions: https://www.hklaw.com/en/insights/publications/2019/04/cuba-policy-in-flux-seven-unanswered-questions (Tier 3)
+- Steptoe & Johnson. Title III Litigation Decisions Summary: https://www.steptoe.com/en/news-publications/new-helms-burton-act-decisions.html (Tier 3)
+- U.S.-Cuba Trade Council. FCSC Claims Eligibility Analysis: https://www.cubatrade.org/blog/2019/2/7/there-are-5913-certified-claims-but-only-913-of-15-may-be-eligible-to-file-a-lawsuit (Tier 3)
+- Deutsche Welle. Havana Club Trademark Dispute (2024): https://www.dw.com/en/us-law-ends-havana-club-trademark-battle-between-cuba-and-bacardi/a-71097201 (Tier 3)
+- The Drinks Business. Havana Club Dispute Ongoing Coverage: https://www.thedrinksbusiness.com/2024/06/the-havana-club-dispute-rumbles-on/ (Tier 3)
 
 ### Tier 4 (Analysis and Commentary):
 
-- Jacobin Magazine — SCOTUS Cuba Lawfare (January 2026): https://jacobin.com/2026/01/cuba-lawfare-trump-supreme-court (Tier 4)
-- JSTOR — Bacardi "Hidden War" Monograph: https://www.jstor.org/stable/j.ctt18mvnpg (Tier 4)
+- Jacobin Magazine. SCOTUS Cuba Lawfare (January 2026): https://jacobin.com/2026/01/cuba-lawfare-trump-supreme-court (Tier 4)
+- JSTOR. Bacardi "Hidden War" Monograph: https://www.jstor.org/stable/j.ctt18mvnpg (Tier 4)
 
 ---
 

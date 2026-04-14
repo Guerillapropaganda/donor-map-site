@@ -75,23 +75,23 @@ The needs-reenrichment flag has been set. The next scheduled pipeline run will p
 
 ### Who He Is
 
-[[Michael Bloomberg|Michael Bloomberg]] — net worth $104–109 billion (17th richest globally). Founder and 88% owner of Bloomberg LP ($10B+ annual revenue, 660,000+ paying subscribers). Mayor of New York City 2002–2013. The most politically active billionaire on the Democratic side of American politics — the liberal counterpart to the Koch network, though the comparison illuminates both the similarities and the differences.
+[[Michael Bloomberg|Michael Bloomberg]], net worth $104–109 billion (17th richest globally). Founder and 88% owner of Bloomberg LP ($10B+ annual revenue, 660,000+ paying subscribers). Mayor of New York City 2002–2013. The most politically active billionaire on the Democratic side of American politics, the liberal counterpart to the Koch network, though the comparison illuminates both the similarities and the differences.
 
 **Political evolution:** Lifelong Democrat → Republican (2001, to get on the NYC mayoral ballot) → Independent (2007) → Democrat (2018, for the 2020 presidential run) → effectively independent since. Bloomberg's party affiliation is instrumental, not ideological. He switches registration the way a corporation restructures for tax purposes.
 
-**2020 presidential campaign:** $936 million spent in approximately 3–4 months. $470 million in February alone. 2,400 staff. The most expensive failed primary campaign in American history. Bloomberg entered late, skipped early states, spent more per vote than any candidate, and dropped out after Super Tuesday. The campaign demonstrated that a billion dollars cannot buy a presidential nomination — but it can buy influence over the party that nominates someone else.
+**2020 presidential campaign:** $936 million spent in approximately 3–4 months. $470 million in February alone. 2,400 staff. The most expensive failed primary campaign in American history. Bloomberg entered late, skipped early states, spent more per vote than any candidate, and dropped out after Super Tuesday. The campaign demonstrated that a billion dollars cannot buy a presidential nomination, but it can buy influence over the party that nominates someone else.
 
 ---
 
 ### What He Wants
 
-Gun control ([[Everytown for Gun Safety|Everytown for Gun Safety]]). Climate action through market mechanisms and coal plant closures (Beyond Carbon). Charter school expansion (education "reform" that weakens teachers' unions). Public health regulation (soda taxes, smoking bans). Technocratic governance — the belief that billionaire-funded expertise should guide policy over democratic contestation. Bloomberg does not want to redistribute wealth. He wants to manage society efficiently from the top.
+Gun control ([[Everytown for Gun Safety|Everytown for Gun Safety]]). Climate action through market mechanisms and coal plant closures (Beyond Carbon). Charter school expansion (education "reform" that weakens teachers' unions). Public health regulation (soda taxes, smoking bans). Technocratic governance, the belief that billionaire-funded expertise should guide policy over democratic contestation. Bloomberg does not want to redistribute wealth. He wants to manage society efficiently from the top.
 
 ---
 
 ### Who He Funds
 
-> [!money] Follow the Money — Bloomberg Political Spending
+> [!money] Follow the Money. Bloomberg Political Spending
 > **2020 presidential campaign:** $936 million
 > **Independence USA PAC (lifetime):**
 > - 2012: $10 million
@@ -116,9 +116,9 @@ Gun control ([[Everytown for Gun Safety|Everytown for Gun Safety]]). Climate act
 
 ### What He's Gotten
 
-**Gun control (Everytown):** By 2024, gun control groups outspent the NRA for the first time ($14.8M vs. $12.2M in the 2024 cycle). In 2018, Everytown outspent NRA by $2.6M — the first time that had ever happened. Bloomberg's money didn't pass federal gun legislation, but it shifted the electoral calculus: supporting gun control is no longer political suicide in swing districts. The NRA's political dominance is broken — not by grassroots organizing but by a richer billionaire entering the market.
+**Gun control (Everytown):** By 2024, gun control groups outspent the NRA for the first time ($14.8M vs. $12.2M in the 2024 cycle). In 2018, Everytown outspent NRA by $2.6M, the first time that had ever happened. Bloomberg's money didn't pass federal gun legislation, but it shifted the electoral calculus: supporting gun control is no longer political suicide in swing districts. The NRA's political dominance is broken, not by grassroots organizing but by a richer billionaire entering the market.
 
-**Climate (Beyond Carbon):** 70%+ of the U.S. coal fleet is retiring or closed. This is real — Bloomberg's money, combined with natural gas economics and state-level advocacy, has accelerated coal's decline. But "Beyond Carbon" is not "Beyond Fossil Fuels." Bloomberg's climate strategy replaces coal with natural gas as a "bridge fuel" — a bridge that leads to continued fossil fuel dependence while claiming climate progress.
+**Climate (Beyond Carbon):** 70%+ of the U.S. coal fleet is retiring or closed. This is real. Bloomberg's money, combined with natural gas economics and state-level advocacy, has accelerated coal's decline. But "Beyond Carbon" is not "Beyond Fossil Fuels." Bloomberg's climate strategy replaces coal with natural gas as a "bridge fuel", a bridge that leads to continued fossil fuel dependence while claiming climate progress.
 
 ### California specifically:
 - 2018: $9 million via Independence USA PAC to two California House races. $4M for Harley Rouda (CA-48, defeated Dana Rohrabacher). $5M for Katie Hill (CA-25, defeated Steve Knight). Both flipped to Democrats.
@@ -126,41 +126,41 @@ Gun control ([[Everytown for Gun Safety|Everytown for Gun Safety]]). Climate act
 
 ---
 
-### Class Analysis — The Good Billionaire Problem
+### Class Analysis. The Good Billionaire Problem
 
 Bloomberg is the vault's test case for whether billionaire political spending can serve working-class interests. His gun control spending has saved lives. His climate spending has closed coal plants. His 2018 House spending helped Democrats win a majority that blocked some of Trump's worst impulses. These are real outcomes that benefit real people.
 
 But the class analysis asks a different question: **what is the structural function of Bloomberg's political spending?**
 
-Bloomberg spends on gun control and climate — issues where elite liberal consensus exists and where policy change doesn't threaten wealth concentration. He does not spend on wealth taxation, union organizing, single-payer healthcare, or any issue that would redistribute economic power from billionaires to workers. His $750 million charter school investment actively undermines teachers' unions (CTA in California, AFT and NEA nationally) by creating non-union publicly funded schools.
+Bloomberg spends on gun control and climate, issues where elite liberal consensus exists and where policy change doesn't threaten wealth concentration. He does not spend on wealth taxation, union organizing, single-payer healthcare, or any issue that would redistribute economic power from billionaires to workers. His $750 million charter school investment actively undermines teachers' unions (CTA in California, AFT and NEA nationally) by creating non-union publicly funded schools.
 
-> [!contradiction] Bloomberg vs. Koch — The Mirror Image
+> [!contradiction] Bloomberg vs. Koch. The Mirror Image
 > Koch spends $548 million to elect Republicans, destroy unions, and deregulate industry. Bloomberg spends $115 million to elect Democrats, fund gun control, and close coal plants. They are mirror images of the same structural phenomenon: billionaires using personal wealth to shape democratic outcomes around their preferences while their class position — their wealth, their power, their exemption from the consequences of policy — remains untouched.
 >
 > The soda tax is the tell. Bloomberg spent political capital in New York trying to ban large sodas — a public health measure that regulates the consumption habits of poor people. He did not spend equivalent capital trying to tax the wealth of people like himself. The technocratic billionaire regulates what poor people eat and drink. He does not regulate what rich people accumulate and hoard.
 
-For [[IBEW - International Brotherhood of Electrical Workers|IBEW]] members: Bloomberg's climate spending creates work (coal plant decommissioning, clean energy construction). His charter school spending weakens allied unions (CTA). His political operation elects Democrats who support prevailing wage in theory and veto PLAs in practice (SB 984). He is neither ally nor enemy — he is the donor-class Democrat in individual form, and his spending reveals exactly which working-class interests the donor class is willing to fund and which it is not.
+For [[IBEW - International Brotherhood of Electrical Workers|IBEW]] members: Bloomberg's climate spending creates work (coal plant decommissioning, clean energy construction). His charter school spending weakens allied unions (CTA). His political operation elects Democrats who support prevailing wage in theory and veto PLAs in practice (SB 984). He is neither ally nor enemy, he is the donor-class Democrat in individual form, and his spending reveals exactly which working-class interests the donor class is willing to fund and which it is not.
 
 ---
 
 ### Enemies / Opposition
 
-**NRA** — Bloomberg's primary declared adversary. Everytown vs. NRA is the highest-profile billionaire-vs-organization political spending fight in the country.
+**NRA**. Bloomberg's primary declared adversary. Everytown vs. NRA is the highest-profile billionaire-vs-organization political spending fight in the country.
 
-**Teachers' unions (CTA, AFT, NEA)** — Bloomberg's charter school expansion directly threatens unionized public education.
+**Teachers' unions (CTA, AFT, NEA)**. Bloomberg's charter school expansion directly threatens unionized public education.
 
-**Progressive left** — Bloomberg's 2020 presidential run was opposed by the Sanders/Warren wing as the ultimate expression of billionaire capture of the Democratic Party.
+**Progressive left**. Bloomberg's 2020 presidential run was opposed by the Sanders/Warren wing as the ultimate expression of billionaire capture of the Democratic Party.
 
 ---
 
 ### Sources
 
-- [OpenSecrets — Michael Bloomberg donor profile](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=michael%20bloomberg) (Tier 2) (VERIFIED)
-- ~~[ABC News — Bloomberg 2020 campaign spending](https://abcnews.go.com/Politics/bloomberg-2020-campaign-spending/story?id=68818880)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
-- ~~[CNN — Bloomberg 2018 midterm spending and 2018 House flip](https://web.archive.org/web/2019/https:/www.cnn.com/politics/news/2018-midterms-bloomberg-spending)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
-- ~~[InfluenceWatch — Independence USA PAC](https://www.influencewatch.org/non-profit/independence-usa-pac/)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 3)
-- [PBS Frontline — Everytown for Gun Safety](https://www.pbs.org/wgbh/frontline/documentary/gunned-down/) (Tier 2) (VERIFIED)
-- ~~[Bloomberg Billionaires Index](https://www.bloomberg.com/billionaires/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [OpenSecrets. Michael Bloomberg donor profile](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=michael%20bloomberg) (Tier 2) (VERIFIED)
+- ~~[ABC News. Bloomberg 2020 campaign spending](https://abcnews.go.com/Politics/bloomberg-2020-campaign-spending/story?id=68818880)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[CNN. Bloomberg 2018 midterm spending and 2018 House flip](https://web.archive.org/web/2019/https:/www.cnn.com/politics/news/2018-midterms-bloomberg-spending)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[InfluenceWatch. Independence USA PAC](https://www.influencewatch.org/non-profit/independence-usa-pac/)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 3)
+- [PBS Frontline. Everytown for Gun Safety](https://www.pbs.org/wgbh/frontline/documentary/gunned-down/) (Tier 2) (VERIFIED)
+- ~~[Bloomberg Billionaires Index](https://www.bloomberg.com/billionaires/)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Laura Gillen Master Profile"
+title: "Laura Gillen"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

@@ -51,13 +51,13 @@ The needs-reenrichment flag has been set. The next scheduled pipeline run will p
 
 ### Who They Are
 
-[[Reid Hoffman|Reid Hoffman]] is the co-founder of LinkedIn, the world's largest professional networking platform with over 1 billion users. His net worth stands at approximately $2.5 billion as of 2024. Hoffman joined Linkedin's founding team in 2002 and served as CEO and chairman before the company's 2016 acquisition by Microsoft for $26.2 billion — the largest software deal in history at that time. Since exiting LinkedIn, Hoffman has focused on venture capital (founding Greylock Partners as a general partner), board positions (Airbnb, Microsoft), and political giving. His post-tech industry profile is that of a Silicon Valley intellectual interested in democracy, technology, and institutional reform — a distinctly different positioning from other mega-donors.
+[[Reid Hoffman|Reid Hoffman]] is the co-founder of LinkedIn, the world's largest professional networking platform with over 1 billion users. His net worth stands at approximately $2.5 billion as of 2024. Hoffman joined Linkedin's founding team in 2002 and served as CEO and chairman before the company's 2016 acquisition by Microsoft for $26.2 billion, the largest software deal in history at that time. Since exiting LinkedIn, Hoffman has focused on venture capital (founding Greylock Partners as a general partner), board positions (Airbnb, Microsoft), and political giving. His post-tech industry profile is that of a Silicon Valley intellectual interested in democracy, technology, and institutional reform, a distinctly different positioning from other mega-donors.
 
 ---
 
 ### What They Want
 
-Hoffman's stated political objectives center on **defending democracy from what he characterizes as authoritarianism and far-right extremism.** In October 2020, he publicly pledged $100 million to defeat Trump — a visible commitment that established him as a major Democratic donor for the 2020-2024 period. His actual spending pattern reveals a secondary priority: **building Democratic infrastructure at the state level, particularly in Wisconsin**, a swing state critical to both 2020 and 2024 victories. Unlike other mega-donors focused on national politicians or ballot measures, Hoffman has concentrated resources on state legislative capacity building, party infrastructure, and judicial elections.
+Hoffman's stated political objectives center on **defending democracy from what he characterizes as authoritarianism and far-right extremism.** In October 2020, he publicly pledged $100 million to defeat Trump, a visible commitment that established him as a major Democratic donor for the 2020-2024 period. His actual spending pattern reveals a secondary priority: **building Democratic infrastructure at the state level, particularly in Wisconsin**, a swing state critical to both 2020 and 2024 victories. Unlike other mega-donors focused on national politicians or ballot measures, Hoffman has concentrated resources on state legislative capacity building, party infrastructure, and judicial elections.
 
 His political ideology is centrist Democratic: he supports technology entrepreneurship, opposes "cancel culture," and frames political engagement as defending institutions against populism (both left and right). This positions him distinctively within the mega-donor ecosystem.
 
@@ -66,7 +66,7 @@ His political ideology is centrist Democratic: he supports technology entreprene
 ### What They Fund
 
 ### Direct Democratic Party Infrastructure
-- Wisconsin Democratic Party: $15.4M (2019-2025) — largest identified mega-donor contribution to a single state party apparatus
+- Wisconsin Democratic Party: $15.4M (2019-2025), largest identified mega-donor contribution to a single state party apparatus
 - Minnesota Democratic-Farmer-Labor Party: $8.2M (2020-2024)
 - Arizona Democratic Party: $6.1M (2020-2024)
 - Pennsylvania Democratic Party: $5.7M (2020-2024)
@@ -94,7 +94,7 @@ His political ideology is centrist Democratic: he supports technology entreprene
 ### Electoral Victories (with Caveats)
 Hoffman's $15.4M to Wisconsin Democratic Party coincided with Democratic victories in: 2020 presidential (Biden +0.6%), 2022 Senate (Mandela Barnes loss, but Democratic State Supreme Court victories), 2024 presidential (Harris campaign infrastructure). Wisconsin's Democratic Party has attributed its capacity expansion to Hoffman funding, particularly in field operations and digital voter contact.
 
-However, Wisconsin remains a swing state with no clear Democratic institutional advantage despite Hoffman's investment. The 2024 election saw Harris lose Wisconsin 48.2% to Trump 48.8% — a 0.6-point loss despite unprecedented Democratic infrastructure spending. This reveals the structural limits of even $15M state party investment: Wisconsin's underlying electorate has not shifted, and money cannot overcome geographic polarization.
+However, Wisconsin remains a swing state with no clear Democratic institutional advantage despite Hoffman's investment. The 2024 election saw Harris lose Wisconsin 48.2% to Trump 48.8%, a 0.6-point loss despite unprecedented Democratic infrastructure spending. This reveals the structural limits of even $15M state party investment: Wisconsin's underlying electorate has not shifted, and money cannot overcome geographic polarization.
 
 ### Tech Industry Influence
 Hoffman's positioning as a "pro-democracy tech leader" has influenced VC industry culture. Multiple Greylock portfolio companies (Airbnb, Stripe, Guidepoint) have made public anti-Trump statements, funded Democratic initiatives, and positioned themselves as "pro-democracy" companies. This creates a feedback loop: Hoffman's political spending establishes the cultural expectation that tech entrepreneurs should be Democratic-aligned, reinforcing the perception of Silicon Valley as Democratic territory.
@@ -111,7 +111,7 @@ Unlike Schwarzman or private equity donors, Hoffman has not secured specific pol
 
 Hoffman visited Jeffrey Epstein's private island in November 2014 and exchanged emails with Epstein from 2014 through at least 2018. This was years after Epstein's 2008 conviction. In 2019, Hoffman publicly apologized for helping Epstein "repair" his reputation, telling Axios he was "deeply ashamed" of his association. [Source: Fortune: "Newly released emails thrust Reid Hoffman into the Epstein firestorm" (Nov 18, 2025)](https://fortune.com/2025/11/18/reid-hoffman-epstein-files/) (Tier 2) (VERIFIED).
 
-In 2025 and 2026, the DOJ Epstein file releases revealed the full extent. Hoffman's name appears 2,658 times in the released documents. Bloomberg reported (March 4, 2026) on how Epstein used Hoffman to court Silicon Valley's elite. Hoffman acknowledged additional meetings he had previously not disclosed from 2016 through 2018. ~~[Source: Bloomberg: "How Jeffrey Epstein Used Reid Hoffman to Court Silicon Valley's Elite" (March 4, 2026)](https://www.bloomberg.com/news/articles/2026-03-04/how-jeffrey-epstein-used-reid-hoffman-to-court-silicon-valley-s-elite)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2).
+In 2025 and 2026, the DOJ Epstein file releases revealed the full extent. Hoffman's name appears 2,658 times in the released documents. Bloomberg reported (March 4, 2026) on how Epstein used Hoffman to court Silicon Valley's elite. Hoffman acknowledged additional meetings he had previously not disclosed from 2016 through 2018. ~~[Source: Bloomberg: "How Jeffrey Epstein Used Reid Hoffman to Court Silicon Valley's Elite" (March 4, 2026)](https://www.bloomberg.com/news/articles/2026-03-04/how-jeffrey-epstein-used-reid-hoffman-to-court-silicon-valley-s-elite)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2).
 
 Republican Congressional members demanded Hoffman return donations to Democratic causes. Rep. Tom Tiffany targeted Wisconsin Democrats specifically. Iowa GOP called for Rob Sand to return Hoffman's $250K donation. Democratic politicians largely defended Hoffman, with party officials stating that his past behavior does not invalidate current political support. [Source: ABC News: "LinkedIn co-founder Reid Hoffman's ties to Jeffrey Epstein face Trump-ordered investigation"](https://abcnews.com/US/linkedin-founder-reid-hoffmans-ties-jeffrey-epstein-face/story?id=127651719) (Tier 2) (VERIFIED).
 
@@ -138,20 +138,20 @@ The contradiction is amplified by his pro-democracy framing: a donor who present
 
 ---
 
-### 2026 Cycle — Texas Senate Democratic Primary
+### 2026 Cycle. Texas Senate Democratic Primary
 
 In the March 3, 2026 Texas Democratic Senate primary, Hoffman donated **$500,000** to **Lone Star Rising PAC**, a super PAC supporting progressive state Rep. **James Talarico** against Rep. Jasmine Crockett. Talarico won 53.1% to 45.6% in a race defined by outside spending saturation.
 
-Lone Star Rising PAC raised **$6.14 million** from January 1 through February 11, 2026 — with $3.75 million of that coming from the Government that Works PAC, which received its entire funding from the **[[Sixteen Thirty Fund]]** (Arabella Advisors dark money vehicle). This makes Hoffman's $500K one of the identifiable individual contributions within a larger anonymous-money cascade.
+Lone Star Rising PAC raised **$6.14 million** from January 1 through February 11, 2026, with $3.75 million of that coming from the Government that Works PAC, which received its entire funding from the **[[Sixteen Thirty Fund]]** (Arabella Advisors dark money vehicle). This makes Hoffman's $500K one of the identifiable individual contributions within a larger anonymous-money cascade.
 
 > [!money] Hoffman plays both levels
 > Hoffman's $500K to Lone Star Rising sits alongside $3.75M in anonymous Sixteen Thirty Fund money — the same dark money architecture Democrats publicly oppose. Hoffman's contribution is FEC-disclosed (identifiable); the majority of Talarico's outside support is not. Together they illustrate the Democratic donor-class playbook: combine named institutional donors (Hoffman, providing legitimacy) with anonymous dark money (Sixteen Thirty, providing scale).
 
-The Texas race was also notable for its progressive vs. establishment dynamics: Talarico, a white male state legislator, defeated Crockett, a Black congresswoman and national Democratic figure, partly on the strength of millions in Sixteen Thirty-routed dark money — a pattern that has drawn criticism from progressive and racial justice advocates.
+The Texas race was also notable for its progressive vs. establishment dynamics: Talarico, a white male state legislator, defeated Crockett, a Black congresswoman and national Democratic figure, partly on the strength of millions in Sixteen Thirty-routed dark money, a pattern that has drawn criticism from progressive and racial justice advocates.
 
 - [Texas Tribune: Dark money floods Texas Senate primary races](https://www.texastribune.org/2026/02/20/texas-senate-dark-money-superpacs-talarico-hunt-crockett-paxton-cornyn/) (Tier 2) (VERIFIED)
-- ~~[19th News: Crockett loses, Talarico wins Texas Senate primary](https://19thnews.org/2026/03/texas-us-senate-primary-election-results-2026/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
-- [Legis1: Follow the Money — Talarico vs Crockett](https://legis1.com/news/follow-the-money-whos-fueling-the-talarico-vs-crockett-texas-senate-democratic-primary/) (Tier 2) (VERIFIED)
+- ~~[19th News: Crockett loses, Talarico wins Texas Senate primary](https://19thnews.org/2026/03/texas-us-senate-primary-election-results-2026/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- [Legis1: Follow the Money. Talarico vs Crockett](https://legis1.com/news/follow-the-money-whos-fueling-the-talarico-vs-crockett-texas-senate-democratic-primary/) (Tier 2) (VERIFIED)
 
 ---
 
@@ -170,17 +170,17 @@ The 2026 Texas Senate primary completed the picture. Hoffman donated $500,000 to
 ### Sources
 
 - [FEC: Reid Hoffman individual contributions 2019-2024](https://www.fec.gov/data/receipts/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026individual-contributions/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?contributor_name=hoffman) (Tier 1) (VERIFIED)
-- ~~[OpenSecrets: Reid Hoffman donor profile](https://www.opensecrets.org/donor/top/hoffman-reid)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
-- ~~[Wisconsin Democratic Party financial disclosures 2019-2024](https://elections.wi.gov/state-candidates-and-committees)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
-- [FEC Independent Expenditures: Reid Hoffman Outside Spending Donor Detail — 2024 Cycle](https://www.fec.gov/data/independent-expenditures/?q=Reid%20Garrett%20Hoffman) (Tier 1) (VERIFIED)
-- ~~[Wall Street Journal: "Tech Billionaire Reid Hoffman Becomes One of Democrats' Biggest Donors"](https://www.wsj.com/articles/tech-billionaire-reid-hoffman-becomes-one-of-democrats-biggest-donors-11603129533)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
-- ~~[Politico: "Reid Hoffman's Wisconsin Machine"](https://www.politico.com/news/2024/10/swing-state-spending)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
-- ~~[Bloomberg: "How Jeffrey Epstein Used Reid Hoffman to Court Silicon Valley's Elite" (March 4, 2026)](https://www.bloomberg.com/news/articles/2026-03-04/how-jeffrey-epstein-used-reid-hoffman-to-court-silicon-valley-s-elite)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[OpenSecrets: Reid Hoffman donor profile](https://www.opensecrets.org/donor/top/hoffman-reid)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Wisconsin Democratic Party financial disclosures 2019-2024](https://elections.wi.gov/state-candidates-and-committees)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- [FEC Independent Expenditures: Reid Hoffman Outside Spending Donor Detail, 2024 Cycle](https://www.fec.gov/data/independent-expenditures/?q=Reid%20Garrett%20Hoffman) (Tier 1) (VERIFIED)
+- ~~[Wall Street Journal: "Tech Billionaire Reid Hoffman Becomes One of Democrats' Biggest Donors"](https://www.wsj.com/articles/tech-billionaire-reid-hoffman-becomes-one-of-democrats-biggest-donors-11603129533)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Politico: "Reid Hoffman's Wisconsin Machine"](https://www.politico.com/news/2024/10/swing-state-spending)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Bloomberg: "How Jeffrey Epstein Used Reid Hoffman to Court Silicon Valley's Elite" (March 4, 2026)](https://www.bloomberg.com/news/articles/2026-03-04/how-jeffrey-epstein-used-reid-hoffman-to-court-silicon-valley-s-elite)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Fortune: "Newly released emails thrust Reid Hoffman into the Epstein firestorm" (November 18, 2025)](https://fortune.com/2025/11/18/reid-hoffman-epstein-files/) (Tier 2) (VERIFIED)
 - [ABC News: "LinkedIn co-founder Reid Hoffman's ties to Jeffrey Epstein face Trump-ordered investigation"](https://abcnews.com/US/linkedin-founder-reid-hoffmans-ties-jeffrey-epstein-face/story?id=127651719) (Tier 2) (VERIFIED)
 - [Fox Business: "Elon Musk, Reid Hoffman clash over Jeffrey Epstein ties"](https://www.foxbusiness.com/politics/tech-titans-elon-musk-reid-hoffman-attack-each-other-over-latest-epstein-emails) (Tier 3) (VERIFIED)
 - [Texas Tribune: Dark money floods Texas Senate primaries](https://www.texastribune.org/2026/02/20/texas-senate-dark-money-superpacs-talarico-hunt-crockett-paxton-cornyn/) (Tier 2) (VERIFIED)
-- [Legis1: Follow the Money — Talarico vs Crockett](https://legis1.com/news/follow-the-money-whos-fueling-the-talarico-vs-crockett-texas-senate-democratic-primary/) (Tier 2)
+- [Legis1: Follow the Money. Talarico vs Crockett](https://legis1.com/news/follow-the-money-whos-fueling-the-talarico-vs-crockett-texas-senate-democratic-primary/) (Tier 2)
 
 ---
 

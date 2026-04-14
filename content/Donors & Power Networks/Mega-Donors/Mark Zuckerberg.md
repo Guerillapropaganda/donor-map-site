@@ -171,8 +171,8 @@ The structural function Zuckerberg serves for the donor class: he demonstrates t
 ### Sources
 
 ### FEC & OpenSecrets (Tier 1):
-- ~~[OpenSecrets: Meta organization profile](https://www.opensecrets.org/orgs/meta/summary?id=D000033563)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
-- ~~[OpenSecrets: Meta PAC profile](https://www.opensecrets.org/political-action-committees-pacs/meta/C00502906/summary/2024)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[OpenSecrets: Meta organization profile](https://www.opensecrets.org/orgs/meta/summary?id=D000033563)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- ~~[OpenSecrets: Meta PAC profile](https://www.opensecrets.org/political-action-committees-pacs/meta/C00502906/summary/2024)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [Senate LDA Filings: Meta lobbying profile](https://lda.gov/filings/public/filing/search/) (Tier 1) (VERIFIED)
 - [FEC Receipts: Mark Zuckerberg donor lookup](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=mark%20zuckerberg) (Tier 1) (VERIFIED)
 
@@ -186,7 +186,7 @@ The structural function Zuckerberg serves for the donor class: he demonstrates t
 - [Sludge: Meta record lobbying spending](https://readsludge.com/2025/01/22/meta-spends-record-lobbying-sum-amid-tiktok-ban-debate/) (Tier 2) (VERIFIED)
 - [Variety: Joel Kaplan promoted to head of global affairs](https://variety.com/2025/digital/news/meta-joel-kaplan-global-affairs-trump-1236264252/) (Tier 2) (VERIFIED)
 - [CNN: Senator Elizabeth Warren on Kaplan and Meta lobbying effect](https://www.cnn.com/) (Tier 2) (VERIFIED)
-- ~~[Politico: Zuckerberg Trump relationship and inaugural donation](https://www.politico.com/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2) (UNVERIFIED)
+- ~~[Politico: Zuckerberg Trump relationship and inaugural donation](https://www.politico.com/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2) (UNVERIFIED)
 - [Washington Post: Zuckerberg Mar-a-Lago meeting Trump (November 2024)](https://www.washingtonpost.com/) (Tier 2) (VERIFIED) (UNVERIFIED)
 - [The Intercept: Sheryl Sandberg political donations and Soros research directive](https://theintercept.com/) (Tier 2) (VERIFIED)
 

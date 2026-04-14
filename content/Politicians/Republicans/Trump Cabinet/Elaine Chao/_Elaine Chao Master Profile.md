@@ -1,5 +1,5 @@
 ---
-title: "Elaine Chao Master Profile"
+title: "Elaine Chao"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

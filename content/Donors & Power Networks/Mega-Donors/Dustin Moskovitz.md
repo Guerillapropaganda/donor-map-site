@@ -72,7 +72,7 @@ The needs-reenrichment flag has been set. The next scheduled pipeline run will p
 
 ### What They Want
 
-Moskovitz's political ambitions are shaped by effective altruism ideology — the philosophy that donors should use data-driven reasoning to maximize suffering reduction. In practice, this means supporting Democratic candidates perceived as "more competent" at addressing long-term existential risks (AI safety), global health, and institutional effectiveness. His 2024 spending pattern reveals a secondary goal: defeating Trump, viewing Republican governance as incompatible with long-term planning horizons. The effective altruism framework creates a unique donor psychology: Moskovitz frames his interventions as technical optimizations, not class-based power consolidation. He emphasizes "evidence-based giving" while using the same dark money vehicles as Republican mega-donors he publicly criticizes.
+Moskovitz's political ambitions are shaped by effective altruism ideology, the philosophy that donors should use data-driven reasoning to maximize suffering reduction. In practice, this means supporting Democratic candidates perceived as "more competent" at addressing long-term existential risks (AI safety), global health, and institutional effectiveness. His 2024 spending pattern reveals a secondary goal: defeating Trump, viewing Republican governance as incompatible with long-term planning horizons. The effective altruism framework creates a unique donor psychology: Moskovitz frames his interventions as technical optimizations, not class-based power consolidation. He emphasizes "evidence-based giving" while using the same dark money vehicles as Republican mega-donors he publicly criticizes.
 
 ---
 
@@ -90,7 +90,7 @@ Moskovitz's political ambitions are shaped by effective altruism ideology — th
 
 ### What They've Gotten
 
-The effective altruism movement's influence on Democratic policy has been structural rather than direct quid-pro-quo. Harris's campaign embraced AI safety rhetoric in October 2024, explicitly referencing "long-term risks from advanced AI" in her proposal documents — language directly from Moskovitz-funded research centers. Biden's 2023 AI Executive Order incorporated effective altruism research extensively; OpenAI leadership (board members) were effective altruism movement insiders.
+The effective altruism movement's influence on Democratic policy has been structural rather than direct quid-pro-quo. Harris's campaign embraced AI safety rhetoric in October 2024, explicitly referencing "long-term risks from advanced AI" in her proposal documents, language directly from Moskovitz-funded research centers. Biden's 2023 AI Executive Order incorporated effective altruism research extensively; OpenAI leadership (board members) were effective altruism movement insiders.
 
 The absence of major legislative victories directly traceable to Moskovitz spending reflects the inherent contradiction in effective altruism: the movement's most affluent donors are committed to Democratic victory without making specific demands. This creates a power asymmetry: Democratic politicians accept the money without policy constraints. The trade-off is ideological: accept the framework that complex technical problems (AI, longevity, biosecurity) are more important than redistribution.
 
@@ -98,9 +98,9 @@ The absence of major legislative victories directly traceable to Moskovitz spend
 
 ### The Contradiction: Progressive Billionaire Using Republican Tactics
 
-Moskovitz has publicly criticized dark money in American politics — including statements that Citizens United created "corrosive" dynamics in campaigning. Simultaneously, he funnels $51 million through [[Future Forward USA Action|Future Forward USA Action]], a dark money 501c4 that operates identically to Republican dark money vehicles. The justification offered by Moskovitz and his advisors is tactical: *if Republicans use dark money, Democrats cannot unilaterally disarm.* This argument accepts the political logic it claims to oppose.
+Moskovitz has publicly criticized dark money in American politics, including statements that Citizens United created "corrosive" dynamics in campaigning. Simultaneously, he funnels $51 million through [[Future Forward USA Action|Future Forward USA Action]], a dark money 501c4 that operates identically to Republican dark money vehicles. The justification offered by Moskovitz and his advisors is tactical: *if Republicans use dark money, Democrats cannot unilaterally disarm.* This argument accepts the political logic it claims to oppose.
 
-The deeper contradiction is ideological. Effective altruism promises data-driven rationality and "earning to give" — the premise that billionaires are inherently better allocators of capital than democratic processes. The movement's 2022-2024 evolution included intimate connections to Sam Bankman-Fried (FTX collapse, November 2022), who positioned himself as the movement's most generous donor. Moskovitz's public distancing from the FTX scandal was swift; effective altruism's institutional response was slower. The episode exposed the movement's vulnerability to misconduct: billionaire-centric funding flows lack accountability mechanisms that democratic processes provide.
+The deeper contradiction is ideological. Effective altruism promises data-driven rationality and "earning to give", the premise that billionaires are inherently better allocators of capital than democratic processes. The movement's 2022-2024 evolution included intimate connections to Sam Bankman-Fried (FTX collapse, November 2022), who positioned himself as the movement's most generous donor. Moskovitz's public distancing from the FTX scandal was swift; effective altruism's institutional response was slower. The episode exposed the movement's vulnerability to misconduct: billionaire-centric funding flows lack accountability mechanisms that democratic processes provide.
 
 ---
 
@@ -131,12 +131,12 @@ The FTX connection exposed the movement's structural vulnerability. Sam Bankman-
 
 ### Sources
 
-- ~~[OpenSecrets: Future Forward USA Action 2024 spending](https://www.opensecrets.org/groups/240400)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[OpenSecrets: Future Forward USA Action 2024 spending](https://www.opensecrets.org/groups/240400)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [FEC: Dustin Moskovitz individual contributions 2024](https://www.fec.gov/data/receipts/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026individual-contributions/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?contributor_name=dustin+moskovitz) (Tier 1) (VERIFIED)
 - [Open Philanthropy: Annual reports and strategic documents](https://coefficientgiving.org/research-and-news/) (Tier 1) (VERIFIED)
-- ~~[Good Ventures Foundation: IRS Form 990 filings](https://www.guidestar.org/profile/26-1493236)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[Good Ventures Foundation: IRS Form 990 filings](https://www.guidestar.org/profile/26-1493236)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [Fortune: Meet the millennial Meta cofounder and his wife who are giving away $20 billion](https://fortune.com/2025/11/10/meet-the-millennial-meta-cofounder-and-his-wife-who-are-giving-away-20-billion/) (Tier 2) (VERIFIED)
-- ~~[Wall Street Journal: "Facebook's Dustin Moskovitz on Why He Gives Away His Billions"](https://www.wsj.com/articles/facebooks-dustin-moskovitz-on-why-he-gives-away-his-billions-11576079206)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[Wall Street Journal: "Facebook's Dustin Moskovitz on Why He Gives Away His Billions"](https://www.wsj.com/articles/facebooks-dustin-moskovitz-on-why-he-gives-away-his-billions-11576079206)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Washington Post: Effective altruism helped FTX and Sam Bankman-Fried deflect scrutiny](https://www.washingtonpost.com/technology/2022/11/17/effective-altruism-sam-bankman-fried-ftx-crypto/) (Tier 2) (VERIFIED)
 - [OpenSecrets: 2024 Dark Money Political Spending Overview](https://www.opensecrets.org/dark-money) (Tier 2) (VERIFIED)
 

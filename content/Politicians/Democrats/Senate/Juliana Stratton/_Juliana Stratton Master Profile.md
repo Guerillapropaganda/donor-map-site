@@ -1,5 +1,5 @@
 ---
-title: "Juliana Stratton Master Profile"
+title: "Juliana Stratton"
 type: state-politician
 current-office: "Lieutenant Governor of Illinois (2019–present)"
 candidate-for: "US Senate 2026 (IL, Democratic primary)"
@@ -9,14 +9,14 @@ last-updated: '2026-04-11'
 source-tier: 1
 parent: null
 party: "Democrat"
-chamber: "Senate"  # refers to the federal race she is running in, not a current seat
+chamber: "Senate" # refers to the federal race she is running in, not a current seat
 top-donors:
   - "JB Pritzker"
 total-received: "$4,058,200"
 fec-candidate-id: "S6IL00458"
 related: "[[Illinois 2026 Senate Race]] · [[_JB Pritzker Master Profile|JB Pritzker]] · [[Fairshake PAC - Crypto Super PAC|Fairshake]] · [[Illinois Future PAC]] · [[_Raja Krishnamoorthi Master Profile|Raja Krishnamoorthi]]"
 last-enriched: "2026-04-10"
-internal-notes: "[JANITOR 2026-04-11] Bioguide contamination cleared by fix-bioguide-contamination.cjs. This profile had bioguide-id set to 'C001091' (Joaquin Castro's ID), almost certainly from a past bulk-set script that fell through to candidates[0]?.bioguideId when a name search failed. 19 unrelated profiles all had the same wrong ID — same class of bug as the A000383 Alan Armstrong incident documented in the Pipeline Guide. The wrong ID has been removed. A correct bioguide must be added manually (verify at bioguide.congress.gov/search) before the Congress.gov pipeline can enrich this profile. Pipeline will skip this profile until a bioguide is provided."
+internal-notes: "[JANITOR 2026-04-11] Bioguide contamination cleared by fix-bioguide-contamination.cjs. This profile had bioguide-id set to 'C001091' (Joaquin Castro's ID), almost certainly from a past bulk-set script that fell through to candidates[0]?.bioguideId when a name search failed. 19 unrelated profiles all had the same wrong ID , same class of bug as the A000383 Alan Armstrong incident documented in the Pipeline Guide. The wrong ID has been removed. A correct bioguide must be added manually (verify at bioguide.congress.gov/search) before the Congress.gov pipeline can enrich this profile. Pipeline will skip this profile until a bioguide is provided."
 ---
 #politician #democrat #senate
 tags: #democrat

@@ -1,8 +1,8 @@
 ---
-title: "Brett Kavanaugh Master Profile"
+title: "Brett Kavanaugh"
 type: politician
 content-readiness: draft
-central-thesis: "Brett Kavanaugh's confirmation represents the dark money capture of the Supreme Court at its most explicit. A single anonymous donor gave content-readiness: draft7.1 million to JCN specifically for Supreme Court battles. Leonard Leo — who had spent two decades building..."
+central-thesis: "Brett Kavanaugh's confirmation represents the dark money capture of the Supreme Court at its most explicit. A single anonymous donor gave content-readiness: draft7.1 million to JCN specifically for Supreme Court battles. Leonard Leo , who had spent two decades building..."
 last-updated: 2026-04-09
 source-tier: 1
 parent: null
@@ -31,7 +31,7 @@ donors: [[Leonard Leo]], [[Fossil Fuel Bloc]], [[Judicial Crisis Network]]
 
 ## Who He Is
 
-Brett Kavanaugh. Associate Justice, Supreme Court (2018–present, confirmed 50-48). The most expensive Supreme Court confirmation in history: $17.1 million from a single anonymous donor to the Judicial Crisis Network (now Concord Fund), $10 million+ deployed by JCN for confirmkavanaugh.com and ad campaigns. [[Leonard Leo|Leonard Leo]] personally orchestrated the confirmation, told Alliance donors he needed to raise $10 million "as fast as possible" when the nomination was "teetering" after Christine Blasey Ford's testimony. Pre-SCOTUS: Ken Starr investigation (principal author of Starr Report), Bush v. Gore legal team (Florida recount, 2000), Bush White House Staff Secretary (approved every document reaching the president's desk). DC Circuit (2006-2018): consistent advocate for expanded executive power, unitary executive theory, NSA warrantless surveillance. The debt mystery: $60K-$200K in reported debts (2016-2017, "baseball tickets") disappeared before confirmation — never fully explained. Key rulings: joined West Virginia v. EPA majority (gutting EPA regulatory authority), authored NEPA narrowing (blocking cumulative environmental harm consideration), expanded corporate standing to challenge regulations. Leo "hand-walked" Kavanaugh to the top of Trump's list — Kavanaugh "auditioned harder than anyone," filling DC Circuit decisions with Federalist Society signaling and setting the record for speeches to the organization.
+Brett Kavanaugh. Associate Justice, Supreme Court (2018–present, confirmed 50-48). The most expensive Supreme Court confirmation in history: $17.1 million from a single anonymous donor to the Judicial Crisis Network (now Concord Fund), $10 million+ deployed by JCN for confirmkavanaugh.com and ad campaigns. [[Leonard Leo|Leonard Leo]] personally orchestrated the confirmation, told Alliance donors he needed to raise $10 million "as fast as possible" when the nomination was "teetering" after Christine Blasey Ford's testimony. Pre-SCOTUS: Ken Starr investigation (principal author of Starr Report), Bush v. Gore legal team (Florida recount, 2000), Bush White House Staff Secretary (approved every document reaching the president's desk). DC Circuit (2006-2018): consistent advocate for expanded executive power, unitary executive theory, NSA warrantless surveillance. The debt mystery: $60K-$200K in reported debts (2016-2017, "baseball tickets") disappeared before confirmation, never fully explained. Key rulings: joined West Virginia v. EPA majority (gutting EPA regulatory authority), authored NEPA narrowing (blocking cumulative environmental harm consideration), expanded corporate standing to challenge regulations. Leo "hand-walked" Kavanaugh to the top of Trump's list. Kavanaugh "auditioned harder than anyone," filling DC Circuit decisions with Federalist Society signaling and setting the record for speeches to the organization.
 
 ---
 
@@ -51,37 +51,37 @@ Brett Kavanaugh. Associate Justice, Supreme Court (2018–present, confirmed 50-
 ## Donor Class Map
 
 ### The $17 Million Confirmation and the Leo Pipeline:
-- [[The 17 Million Dollar Confirmation and the Leonard Leo Pipeline]] — JCN: $17.1M from single anonymous donor. Leo directed $10M emergency fundraise. confirmkavanaugh.com launched day of announcement. Carrie Severino (Thomas clerk) runs Concord Fund. Kavanaugh "auditioned harder than anyone" — record Federalist Society speeches. Leo "hand-walked" him to top of Trump's list.
+- [[The 17 Million Dollar Confirmation and the Leonard Leo Pipeline]]. JCN: $17.1M from single anonymous donor. Leo directed $10M emergency fundraise. confirmkavanaugh.com launched day of announcement. Carrie Severino (Thomas clerk) runs Concord Fund. Kavanaugh "auditioned harder than anyone", record Federalist Society speeches. Leo "hand-walked" him to top of Trump's list.
 
 ### The Executive Power Portfolio and Donor-Class Rulings:
-- [[The Executive Power Portfolio and the Donor-Class Rulings]] — Starr Report → Bush v. Gore → Bush White House → DC Circuit → SCOTUS. West Virginia v. EPA: gutted regulatory authority. NEPA narrowing: blocked cumulative harm review. Corporate standing expansion. "To the right of Roberts in environmental cases." NSA surveillance advocacy. Unitary executive theory. The career arc: every position expanded executive power and reduced regulatory constraint on the donor class.
+- [[The Executive Power Portfolio and the Donor-Class Rulings]]. Starr Report → Bush v. Gore → Bush White House → DC Circuit → SCOTUS. West Virginia v. EPA: gutted regulatory authority. NEPA narrowing: blocked cumulative harm review. Corporate standing expansion. "To the right of Roberts in environmental cases." NSA surveillance advocacy. Unitary executive theory. The career arc: every position expanded executive power and reduced regulatory constraint on the donor class.
 
 ---
 
 ## Donation-to-Policy Timeline
 
-*Note: Kavanaugh's confirmation was the most expensive dark money judicial investment at the time ($17.1M from a single anonymous donor). The $17.1M investment now earns compound returns through Loper Bright — a meta-ruling that makes every future deregulatory challenge easier to win.*
+*Note: Kavanaugh's confirmation was the most expensive dark money judicial investment at the time ($17.1M from a single anonymous donor). The $17.1M investment now earns compound returns through Loper Bright, a meta-ruling that makes every future deregulatory challenge easier to win.*
 
 #### Leonard Leo / Dark Money Confirmation
 
 | Date | Donor | Amount | Given | Policy Outcome |
 |------|-------|--------|-------|----------------|
-| 2018-10 | Single anonymous donor via JCN + Leonard Leo emergency $10M raise | $17.1M (JCN) + $10M (emergency raise after Ford testimony) | 2017-07 through 2018-10 | Kavanaugh confirmed 50-48 — narrowest SCOTUS margin in modern history; Leo "hand-walked" him to top of Trump's list; confirmkavanaugh.com launched same day as nomination |
-| 2016-2017 | Unknown — $60K-$200K in credit card debts attributed to "baseball tickets" disappear before confirmation | Unexplained debt clearance | 2016-2017 | Debts never adequately explained; the financial mystery about the man the Court's most expensive confirmation installed |
+| 2018-10 | Single anonymous donor via JCN + Leonard Leo emergency $10M raise | $17.1M (JCN) + $10M (emergency raise after Ford testimony) | 2017-07 through 2018-10 | Kavanaugh confirmed 50-48, narrowest SCOTUS margin in modern history; Leo "hand-walked" him to top of Trump's list; confirmkavanaugh.com launched same day as nomination |
+| 2016-2017 | Unknown, $60K-$200K in credit card debts attributed to "baseball tickets" disappear before confirmation | Unexplained debt clearance | 2016-2017 | Debts never adequately explained; the financial mystery about the man the Court's most expensive confirmation installed |
 
 #### Deregulatory / Fossil Fuel Outcomes
 
 | Date | Donor | Amount | Given | Policy Outcome |
 |------|-------|--------|-------|----------------|
-| 2022-06 | Fossil fuel donors who funded $17.1M JCN campaign | Part of $17.1M dark money investment | 2017-2018 | West Virginia v. EPA: Kavanaugh joins majority invoking "major questions doctrine" to strip EPA's authority — 4-year return on investment |
-| 2023 | Real estate developers and fossil fuel extractors (JCN donor base) | Part of $17.1M investment | 2017-2018 | Sackett v. EPA: narrows Clean Water Act jurisdiction — eliminates wetlands protections for millions of acres |
-| 2024-06 | All industries facing federal regulation (JCN's entire donor constituency) | Part of $17.1M investment | 2017-2018 | Loper Bright v. Raimondo: overrules Chevron deference — every federal agency's regulatory authority now subject to fresh judicial challenge before FedSoc-stocked courts; the compound return |
+| 2022-06 | Fossil fuel donors who funded $17.1M JCN campaign | Part of $17.1M dark money investment | 2017-2018 | West Virginia v. EPA: Kavanaugh joins majority invoking "major questions doctrine" to strip EPA's authority, 4-year return on investment |
+| 2023 | Real estate developers and fossil fuel extractors (JCN donor base) | Part of $17.1M investment | 2017-2018 | Sackett v. EPA: narrows Clean Water Act jurisdiction, eliminates wetlands protections for millions of acres |
+| 2024-06 | All industries facing federal regulation (JCN's entire donor constituency) | Part of $17.1M investment | 2017-2018 | Loper Bright v. Raimondo: overrules Chevron deference, every federal agency's regulatory authority now subject to fresh judicial challenge before FedSoc-stocked courts; the compound return |
 
 #### Religious Right / Political Network
 
 | Date | Donor | Amount | Given | Policy Outcome |
 |------|-------|--------|-------|----------------|
-| 2022-06 | Religious right donor coalition (part of JCN network) | Part of $17.1M investment | 2017-2018 | Dobbs v. Jackson: Kavanaugh joins majority overturning Roe; writes concurrence claiming narrower ruling was possible — political cover for the donor outcome |
+| 2022-06 | Religious right donor coalition (part of JCN network) | Part of $17.1M investment | 2017-2018 | Dobbs v. Jackson: Kavanaugh joins majority overturning Roe; writes concurrence claiming narrower ruling was possible, political cover for the donor outcome |
 | 2024-06 | Trump political network | Part of broader conservative donor infrastructure | 2017-2018 | Trump v. United States: Kavanaugh joins majority granting broad presidential immunity for official acts |
 
 > [!money] The Damning Sequences
@@ -95,11 +95,11 @@ Brett Kavanaugh. Associate Justice, Supreme Court (2018–present, confirmed 50-
 
 ## Analytical Patterns
 
-**The Genuine Win + Structural Limit:** Kavanaugh delivers on regulatory deregulation and executive power expansion, the donor class's primary agenda. His NEPA narrowing and corporate standing expansion are victories within bounds — they reshape regulatory capture without threatening property rights or the fundamental capital allocation system that the donor class depends on.
+**The Genuine Win + Structural Limit:** Kavanaugh delivers on regulatory deregulation and executive power expansion, the donor class's primary agenda. His NEPA narrowing and corporate standing expansion are victories within bounds, they reshape regulatory capture without threatening property rights or the fundamental capital allocation system that the donor class depends on.
 
-**The Villain Framing — Chevron as the Enemy:** Kavanaugh frames Chevron deference as unaccountable bureaucratic overreach rather than the institutional mechanism that enabled environmental and labor regulation. By blaming "unelected bureaucrats," he deflects from the class analysis: the real conflict is between regulatory protection for workers and communities versus the donor class's preference for unregulated markets.
+**The Villain Framing. Chevron as the Enemy:** Kavanaugh frames Chevron deference as unaccountable bureaucratic overreach rather than the institutional mechanism that enabled environmental and labor regulation. By blaming "unelected bureaucrats," he deflects from the class analysis: the real conflict is between regulatory protection for workers and communities versus the donor class's preference for unregulated markets.
 
-**The Institutional Capture Through Debt Mystification:** The $60K-$200K in unexplained debts that disappeared before confirmation was never investigated or explained. This unresolved financial question makes Kavanaugh's participation in cases worth billions in donor interests structurally corruptible — not because the corruption is proven, but because the mystery prevents citizens from knowing whether he's captured.
+**The Institutional Capture Through Debt Mystification:** The $60K-$200K in unexplained debts that disappeared before confirmation was never investigated or explained. This unresolved financial question makes Kavanaugh's participation in cases worth billions in donor interests structurally corruptible, not because the corruption is proven, but because the mystery prevents citizens from knowing whether he's captured.
 
 ---
 
@@ -112,7 +112,7 @@ Brett Kavanaugh. Associate Justice, Supreme Court (2018–present, confirmed 50-
 
 ## Sources
 
-- [OpenSecrets: Brett Kavanaugh — Supreme Court Justice](https://www.opensecrets.org/news/) (Tier 1) (VERIFIED)
+- [OpenSecrets: Brett Kavanaugh. Supreme Court Justice](https://www.opensecrets.org/news/) (Tier 1) (VERIFIED)
 - [OpenSecrets: Web of secret money hides one mega-donor funding conservative court](https://www.opensecrets.org/news/2017/11/web-of-secret-money-hides-one-mega-donor-funding-conservative-court/) (Tier 1) (VERIFIED)
 - [ProPublica: We Don't Talk About Leonard - The Man Behind the Right's Supreme Court Supermajority](https://www.propublica.org/article/we-dont-talk-about-leonard-leo-supreme-court-supermajority) (Tier 2) (VERIFIED)
 - [Brennan Center: Courting Disaster - The Trouble with Brett Kavanaugh's Views of Executive Power](https://www.brennancenter.org/our-work/analysis-opinion/courting-disaster-trouble-brett-kavanaughs-views-executive-power-age) (Tier 2) (VERIFIED)

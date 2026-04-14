@@ -31,7 +31,7 @@ The needs-reenrichment flag has been set. The next scheduled pipeline run will p
 
 ### Who They Are
 
-Democratic Party Infrastructure. The institutional apparatus of the Democratic Party — the Democratic National Committee (DNC), Democratic Congressional Campaign Committee (DCCC), Democratic Senatorial Campaign Committee (DSCC), Democratic Governors Association (DGA), state parties, and the ecosystem of allied organizations that collectively raise and deploy $3-4B per cycle. The infrastructure includes the party committees, the small-dollar platform ActBlue ($10B+ cumulative), polling and data operations (Catalist, Civis Analytics), voter file management, and the consulting class that services Democratic campaigns.
+Democratic Party Infrastructure. The institutional apparatus of the Democratic Party, the Democratic National Committee (DNC), Democratic Congressional Campaign Committee (DCCC), Democratic Senatorial Campaign Committee (DSCC), Democratic Governors Association (DGA), state parties, and the ecosystem of allied organizations that collectively raise and deploy $3-4B per cycle. The infrastructure includes the party committees, the small-dollar platform ActBlue ($10B+ cumulative), polling and data operations (Catalist, Civis Analytics), voter file management, and the consulting class that services Democratic campaigns.
 
 The Democratic Party infrastructure's structural challenge: the party raises more total money than Republicans but deploys it less efficiently. The consulting class captures 15-20% of campaign spending through commissions, polling fees, and media buying margins. The party's data operation is fragmented across competing vendors. And the tension between national party infrastructure (which favors establishment candidates) and grassroots energy (which favors progressive insurgents) creates permanent internal conflict over resource allocation.
 
@@ -52,7 +52,7 @@ The Democratic Party raises more total money than Republicans but deploys it les
 
 ### Sources
 
-- ~~[OpenSecrets: Democratic Party fundraising](https://www.opensecrets.org/parties/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[OpenSecrets: Democratic Party fundraising](https://www.opensecrets.org/parties/)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [Ballotpedia: Democratic Party organization](https://ballotpedia.org/Democratic_Party_Infrastructure) (Tier 3) (VERIFIED)
 
 ### OFAC Sanctions Screening

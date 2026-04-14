@@ -55,7 +55,7 @@ United Auto Workers. A redirect node. See [[UAW - United Auto Workers]] for the 
 
 > This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.
 
-### Financial Overview (990 Filing — 2023)
+### Financial Overview (990 Filing, 2023)
 <!-- auto:propublica-990 start -->
 | Metric | Amount |
 |--------|--------|

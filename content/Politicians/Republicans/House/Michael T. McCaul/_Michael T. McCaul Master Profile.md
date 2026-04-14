@@ -1,5 +1,5 @@
 ---
-title: "Michael T. McCaul Master Profile"
+title: "Michael T. McCaul"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

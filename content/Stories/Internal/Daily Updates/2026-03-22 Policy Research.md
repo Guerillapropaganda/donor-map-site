@@ -27,7 +27,7 @@ The SAVE Act would require documentary proof of U.S. citizenship to register to 
 > [!contradiction] Mullin confirmation contradiction
 > Mullin voted against certifying the 2020 election and has no law enforcement background. His confirmation to lead DHS, the agency currently in a 5-week shutdown over Democratic refusal to fund immigration enforcement, cements the hardliner posture. But Musk's concurrent offer to personally pay TSA salaries (see yesterday's scan) reveals the private-sector-as-government dynamic at the core of DOGE governance.
 
-- ~~[Congress.gov: H.R.7296 SAVE America Act](https://www.congress.gov/bill/119th-congress/house-bill/7296)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[Congress.gov: H.R.7296 SAVE America Act](https://www.congress.gov/bill/119th-congress/house-bill/7296)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [Senate Roll Call Vote 62, 119th Congress 2nd Session](https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00062.htm) (Tier 1) (VERIFIED)
 - [Brennan Center: SAVE Act Reaches Senate](https://www.brennancenter.org/our-work/analysis-opinion/save-act-reaches-senate) (Tier 2) (VERIFIED)
 - [NPR: The SAVE Act faces long odds in the Senate](https://www.npr.org/2026/03/19/nx-s1-5750510/state-save-acts-florida) (Tier 2) (VERIFIED)
@@ -47,7 +47,7 @@ Hegseth confirmed March 19 that the $200B figure "could move", i.e. the actual a
 > Closed Strait of Hormuz drives oil prices up, which benefits upstream fossil fuel producers like [[ExxonMobil]] and [[Chevron]] whose profits expand with price. But downstream industrial users (airlines, plastics, fertilizer) absorb costs. This creates a split within the fossil fuel donor bloc that is not reflected in most coverage.
 
 - [Al Jazeera: Hegseth says no timeframe, Pentagon asks $200bn](https://www.aljazeera.com/news/2026/3/19/hegseth-says-no-timeframe-for-war-on-iran-as-pentagon-asks-for-200bn) (Tier 2) (VERIFIED)
-- ~~[Time: Lawmakers Voice Concern Over Pentagon's $200B Request](https://time.com/article/2026/03/20/republican-democrat-lawmakers-condemn-pentagon-iran-war-funding-request/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[Time: Lawmakers Voice Concern Over Pentagon's $200B Request](https://time.com/article/2026/03/20/republican-democrat-lawmakers-condemn-pentagon-iran-war-funding-request/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [CNN: Cracks emerge in GOP over Iran war cost](https://www.cnn.com/2026/03/19/politics/iran-war-cost-republicans-congress) (Tier 2) (VERIFIED)
 - [Fortune: $200B might fund military for just 140 more days](https://fortune.com/2026/03/19/200-billion-iran-war-funding-pete-hegseth-donald-trump/) (Tier 2) (VERIFIED)
 - [NPR: Pentagon wants extra $200B for Iran war](https://www.npr.org/2026/03/19/nx-s1-5753520/iran-israel-gas-field-attacks) (Tier 2) (VERIFIED)
@@ -142,7 +142,7 @@ The EO/blueprint itself lacks preemptive legal force, preemption would require c
 > The IEEPA tariff ruling is a major structural constraint on Trump's trade policy. Corporate donors, especially retail, manufacturing, and tech supply chain interests, stand to benefit from limiting tariff authority. However, fossil fuel interests and domestic steel/aluminum producers that benefited from protective tariffs lose leverage. Track how this ruling affects donor positioning in 2026 Senate races.
 
 - [SCOTUSblog: Remaining questions after tariffs ruling](https://www.scotusblog.com/2026/03/the-remaining-questions-after-the-supreme-courts-tariffs-ruling/) (Tier 2) (VERIFIED)
-- ~~[Justia: Learning Resources Inc. v. Trump](https://supreme.justia.com/cases/federal/us/607/24-1287/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[Justia: Learning Resources Inc. v. Trump](https://supreme.justia.com/cases/federal/us/607/24-1287/)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [PBS News: Why SCOTUS ruled against Trump's tariffs](https://www.pbs.org/newshour/show/why-the-supreme-court-ruled-against-trumps-tariffs) (Tier 2) (VERIFIED)
 - [Ballotpedia: Supreme Court cases October Term 2025-2026](https://ballotpedia.org/Supreme_Court_cases,_October_term_2025-2026) (Tier 3) (VERIFIED)
 
@@ -176,7 +176,7 @@ A separate California lawmaker introduced legislation to restore Medi-Cal to und
 > [!money] Single-payer and healthcare donor positioning
 > Vault-tracked healthcare industry donors [[UnitedHealth Group - Optum]], [[Anthem - Elevance Health]], [[Kaiser Permanente]], and [[Blue Shield of California]] are existentially threatened by single-payer. A Porter or progressive governor win in California would trigger massive industry spending against single-payer legislation. Track which CA governor candidates receive healthcare industry PAC money, this is the donor litmus test for 2026 CA race.
 
-- ~~[CalMatters: Single-payer health care returns to California governor's race](https://calmatters.org/category/politics/2026/03/california-governor-single-payer-health-care/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[CalMatters: Single-payer health care returns to California governor's race](https://calmatters.org/category/politics/2026/03/california-governor-single-payer-health-care/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Times of San Diego: California cut health care for undocumented immigrants](https://timesofsandiego.com/health/2026/03/11/california-cut-health-care-undocumented-immigrants-lawmaker-wants-back/) (Tier 2) (VERIFIED)
 - [CalMatters: What 2026 CA governor candidates would do about health care](https://calmatters.org/health/2025/11/gubernatorial-health-care-california-2026/) (Tier 2) (VERIFIED)
 

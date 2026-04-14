@@ -80,9 +80,9 @@ The needs-reenrichment flag has been set. The next scheduled pipeline run will p
 
 NextEra Energy, Inc. The world's largest utility company by market capitalization ($150+ billion, 2024) and the largest generator of wind and solar energy in the world. NextEra operates through two subsidiaries: Florida Power & Light (FPL, the largest electric utility in Florida) and NextEra Energy Resources (the largest wind and solar developer globally). Revenue: $28 billion (2024).
 
-NextEra PAC contributes $3-5 million per cycle — one of the largest utility PACs — with lobbying spending of $8-12 million annually. The company's political operation is the most aggressive in the utility sector: NextEra's Florida lobbying operation has shaped the state's energy policy to protect FPL's monopoly while the company's federal lobbying promotes renewable energy tax credits that benefit NextEra Resources.
+NextEra PAC contributes $3-5 million per cycle, one of the largest utility PACs, with lobbying spending of $8-12 million annually. The company's political operation is the most aggressive in the utility sector: NextEra's Florida lobbying operation has shaped the state's energy policy to protect FPL's monopoly while the company's federal lobbying promotes renewable energy tax credits that benefit NextEra Resources.
 
-- ~~[OpenSecrets: NextEra Energy organizational profile](https://www.opensecrets.org/orgs/nextera-energy/summary?id=D000021981)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[OpenSecrets: NextEra Energy organizational profile](https://www.opensecrets.org/orgs/nextera-energy/summary?id=D000021981)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 
 ---
 
@@ -94,7 +94,7 @@ Extension and expansion of renewable energy tax credits (Production Tax Credit, 
 
 ### What They've Gotten
 
-**FPL Rate Increases:** Florida Power & Light secured a $1.2 billion rate increase in 2022 from the Florida Public Service Commission — an increase approved despite FPL's existing profitability and record profits. FPL has repeatedly used the regulatory process to increase rates while simultaneously fighting rooftop solar policies that would reduce customer dependence on FPL's grid.
+**FPL Rate Increases:** Florida Power & Light secured a $1.2 billion rate increase in 2022 from the Florida Public Service Commission, an increase approved despite FPL's existing profitability and record profits. FPL has repeatedly used the regulatory process to increase rates while simultaneously fighting rooftop solar policies that would reduce customer dependence on FPL's grid.
 
 **Anti-Rooftop Solar:** NextEra/FPL lobbied against Florida's net metering policies, supporting legislation that would reduce the rate utilities pay rooftop solar owners for excess electricity. The company's position: utility-scale solar (which NextEra builds and profits from) is preferable to rooftop solar (which reduces customer demand for FPL's electricity). The "pro-renewable" company fights the renewable energy deployment model that doesn't run through its monopoly.
 

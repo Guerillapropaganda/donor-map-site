@@ -160,10 +160,10 @@ America Votes also reveals **structural inequality in progressive politics:**
 
 ### Sources
 
-- ~~[OpenSecrets: America Votes organizational profile](https://www.opensecrets.org/orgs/america-votes/summary)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
-- ~~[IRS Form 990: America Votes (2022-2023)](https://apps.irs.gov/app/eos/allSearch?searchChoice=ePostcard&ein=&names=America%20Votes&city=&state=All+States&country=US)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
-- [InfluenceWatch: America Votes — coordination hub and Democracy Alliance ties](https://www.influencewatch.org/non-profit/america-votes/) (Tier 3) (VERIFIED)
-- ~~[Democracy Fund: Voter contact efficiency and coordination](https://democracyfund.org/grants/voter-contact-coordination-research/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[OpenSecrets: America Votes organizational profile](https://www.opensecrets.org/orgs/america-votes/summary)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- ~~[IRS Form 990: America Votes (2022-2023)](https://apps.irs.gov/app/eos/allSearch?searchChoice=ePostcard&ein=&names=America%20Votes&city=&state=All+States&country=US)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- [InfluenceWatch: America Votes, coordination hub and Democracy Alliance ties](https://www.influencewatch.org/non-profit/america-votes/) (Tier 3) (VERIFIED)
+- ~~[Democracy Fund: Voter contact efficiency and coordination](https://democracyfund.org/grants/voter-contact-coordination-research/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [America Votes: About Us and Coordination](https://americavotes.org/about/) (Tier 2) (VERIFIED)
 
 ### SEC Filing Activity

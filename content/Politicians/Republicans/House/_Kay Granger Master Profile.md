@@ -1,9 +1,9 @@
 ---
-title: "Kay Granger Master Profile"
+title: "Kay Granger"
 type: politician
 bioguide-id: "G000377"
 content-readiness: ready
-central-thesis: "Kay Granger was, effectively, Lockheed Martin's $634,000+ congressional employee — with a career total possibly exceeding $800,000 in direct contributions and revolving-door connections. Her Fort Worth district contains the F-35 production line. S..."
+central-thesis: "Kay Granger was, effectively, Lockheed Martin's $634,000+ congressional employee , with a career total possibly exceeding $800,000 in direct contributions and revolving-door connections. Her Fort Worth district contains the F-35 production line. S..."
 last-updated: 2026-04-13
 source-tier: 1
 parent: null
@@ -105,14 +105,14 @@ This was not coincidence. Granger created institutional infrastructure to defend
 
 ## Donation-to-Policy Timeline
 
-*Note: Granger was Lockheed Martin's $634K+ congressional employee — co-founded the Joint Strike Fighter Caucus, then as Appropriations chair appropriated 16 more F-35s than the Pentagon requested. By mid-2024 she had dementia and was living in a senior care facility while nominally chairing the Pentagon budget.*
+*Note: Granger was Lockheed Martin's $634K+ congressional employee, co-founded the Joint Strike Fighter Caucus, then as Appropriations chair appropriated 16 more F-35s than the Pentagon requested. By mid-2024 she had dementia and was living in a senior care facility while nominally chairing the Pentagon budget.*
 
 #### Lockheed Martin / F-35 Production Line
 
 | Date | Donor | Amount | Given | Policy Outcome |
 |------|-------|--------|-------|----------------|
-| 2024-03 | [[Lockheed Martin]] PAC ($10-20K/cycle) + executives ($50K+/cycle) + employee bundling ($150K+/cycle); Fort Worth F-35 production line in TX-12 | $634K–$800K+ career; $180K+ 2020 cycle alone | 1997–2024 (27-year relationship) | Appropriates $9.4B for 93 F-35 aircraft — Pentagon requested only 77; 16-aircraft delta represents $16B+ in unrequested defense spending directed to her district's production line |
-| 2011-06 | Same Lockheed Martin donor base — institutional advocacy creation | Part of career defense funding | 2005–2011 ongoing | Co-founds Joint Strike Fighter Caucus — creates formal congressional infrastructure to defend F-35 program against cost-overrun criticism; organized advocacy by industry beneficiaries |
+| 2024-03 | [[Lockheed Martin]] PAC ($10-20K/cycle) + executives ($50K+/cycle) + employee bundling ($150K+/cycle); Fort Worth F-35 production line in TX-12 | $634K–$800K+ career; $180K+ 2020 cycle alone | 1997–2024 (27-year relationship) | Appropriates $9.4B for 93 F-35 aircraft. Pentagon requested only 77; 16-aircraft delta represents $16B+ in unrequested defense spending directed to her district's production line |
+| 2011-06 | Same Lockheed Martin donor base, institutional advocacy creation | Part of career defense funding | 2005–2011 ongoing | Co-founds Joint Strike Fighter Caucus, creates formal congressional infrastructure to defend F-35 program against cost-overrun criticism; organized advocacy by industry beneficiaries |
 
 #### Defense Aerospace Industry (Broader)
 
@@ -124,8 +124,8 @@ This was not coincidence. Granger created institutional infrastructure to defend
 
 | Date | Donor | Amount | Given | Policy Outcome |
 |------|-------|--------|-------|----------------|
-| 2024-07 | No additional donor — health crisis reveals capture structure | Lockheed Martin funding continues through incapacity | 2024 | Reports emerge of significant cognitive decline; Granger living in senior care facility while nominally chairing Appropriations Committee; staff manages committee functions; defense contractor effectively has a chair incapable of independent judgment |
-| 2024-09 | Career exit — retires from Congress; Lockheed Martin contact point shifts to successor | 27 years of service; $634K–$800K+ career investment | 2024 | Granger retires; F-35 appropriation record stands — unrequested $16B+ in final term represents the culmination of contractor capture |
+| 2024-07 | No additional donor, health crisis reveals capture structure | Lockheed Martin funding continues through incapacity | 2024 | Reports emerge of significant cognitive decline; Granger living in senior care facility while nominally chairing Appropriations Committee; staff manages committee functions; defense contractor effectively has a chair incapable of independent judgment |
+| 2024-09 | Career exit, retires from Congress; Lockheed Martin contact point shifts to successor | 27 years of service; $634K–$800K+ career investment | 2024 | Granger retires; F-35 appropriation record stands, unrequested $16B+ in final term represents the culmination of contractor capture |
 
 > [!money]
 > The 2024 F-35 appropriation is the smoking gun. Granger did not simply accept Lockheed funding and reliably vote for F-35 spending — in her final months as Appropriations chair, she actively increased spending 16 aircraft above Pentagon request. This is not budget execution; this is contractor subsidization. She weaponized the most powerful spending committee in Congress to funnel Lockheed Martin billions in unrequested defense spending in her final term. The timing is suspicious: she increased F-35 spending precisely as she was becoming incapacitated, suggesting either that her staff (influenced by Lockheed) was directing her, or that she was aware she was leaving and wanted to cement the program funding before her departure.
@@ -134,7 +134,7 @@ This was not coincidence. Granger created institutional infrastructure to defend
 
 ### The Dementia Revelation: Puppet Chair of Appropriations
 
-By mid-2024, investigative reporting revealed a crisis: Granger had significant cognitive decline and was living in a senior care facility, yet remained technically chair of the Appropriations Committee — the most powerful spending authority in the U.S. government.
+By mid-2024, investigative reporting revealed a crisis: Granger had significant cognitive decline and was living in a senior care facility, yet remained technically chair of the Appropriations Committee, the most powerful spending authority in the U.S. government.
 
 ### Timeline:
 - July 2024: Reports emerge of Granger's cognitive issues
@@ -186,11 +186,11 @@ Granger's "fiscal conservative" brand makes the class analysis sharper. She oppo
 
 ## Analytical Patterns
 
-**The Genuine Win + Structural Limit** — Granger's defense contractor funding victories (Lockheed Martin contracts, military base allocation) are real policy wins benefiting her donors, but stop short of threatening military procurement structure itself. Her wins advance contractor profits without dismantling defense spending.
+**The Genuine Win + Structural Limit**. Granger's defense contractor funding victories (Lockheed Martin contracts, military base allocation) are real policy wins benefiting her donors, but stop short of threatening military procurement structure itself. Her wins advance contractor profits without dismantling defense spending.
 
-**The Villain Framing** — Granger frames fiscal constraint and budget cuts as external threats requiring appropriations committee protection, deflecting from examining her actual material position: she is literally funded by the defense contractors whose contracts she approves. The villain is fiscal austerity; the beneficiary (defense contractors) remains invisible.
+**The Villain Framing**. Granger frames fiscal constraint and budget cuts as external threats requiring appropriations committee protection, deflecting from examining her actual material position: she is literally funded by the defense contractors whose contracts she approves. The villain is fiscal austerity; the beneficiary (defense contractors) remains invisible.
 
-**The Two-Audience Problem** — Granger performs as a fiscal conservative defending government efficiency to her constituents, while privately serving defense contractor interests through appropriations votes that benefit her major donors. The conservative rhetoric masks the actual function: channeling federal funds to donor industries.
+**The Two-Audience Problem**. Granger performs as a fiscal conservative defending government efficiency to her constituents, while privately serving defense contractor interests through appropriations votes that benefit her major donors. The conservative rhetoric masks the actual function: channeling federal funds to donor industries.
 
 ---
 
@@ -209,11 +209,11 @@ Granger's "fiscal conservative" brand makes the class analysis sharper. She oppo
 - [FEC Candidate: Kay Granger donor profile, 2020 cycle](https://www.fec.gov/data/candidate/H6TX12060/) (Tier 1) (VERIFIED)
 - [FEC Candidate: Kay Granger PAC receipts, defense sector](https://www.fec.gov/data/candidate/H6TX12060/) (Tier 1) (VERIFIED)
 - [House Appropriations Committee roster](https://appropriations.house.gov/about) (Tier 1) (VERIFIED)
-- ~~[Read Sludge: Kay Granger and Lockheed Martin ties](https://read-sludge.myopengov.com/politicians/kay-granger)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[Read Sludge: Kay Granger and Lockheed Martin ties](https://read-sludge.myopengov.com/politicians/kay-granger)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Washington Post: Kay Granger's senior facility revelation sparks debate over lawmakers' ages (2024)](https://www.washingtonpost.com/politics/2024/12/24/kay-granger-texas-congresswoman-age-facility/) (Tier 2) (VERIFIED)
 - [Defense News/Fort Worth Report: Fort Worth's F-35 assembly plant had a record year (2026)](https://fortworthreport.org/2026/01/11/fort-worths-f-35-assembly-plant-had-a-record-year-how-many-aircraft-were-made/) (Tier 2) (VERIFIED)
 - [House Appropriations Committee: Appropriations Committees Release 2024 Government Funding Legislation](https://democrats-appropriations.house.gov/news/press-releases/appropriations-committees-release-2024-government-funding-legislation) (Tier 1) (VERIFIED)
-- ~~[Congress.gov: House Appropriations Committee](https://www.congress.gov/committee/house-appropriations/hsap00)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[Congress.gov: House Appropriations Committee](https://www.congress.gov/committee/house-appropriations/hsap00)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [ProPublica: Kay Granger voting record](https://projects.propublica.org/represent/) (Tier 1) (VERIFIED)
 
 ### Campaign Finance (FEC)

@@ -2,7 +2,7 @@
 title: "Alex Padilla"
 type: politician
 content-readiness: ready
-central-thesis: "Alex Padilla is the rare case of a committee assignment that matches expertise rather than donor interest. As California's former Secretary of State, he actually administered elections — implemented automatic voter registration, expanded vote-by-m..."
+central-thesis: "Alex Padilla is the rare case of a committee assignment that matches expertise rather than donor interest. As California's former Secretary of State, he actually administered elections , implemented automatic voter registration, expanded vote-by-m..."
 last-updated: 2026-04-13
 source-tier: 1
 parent: null
@@ -35,7 +35,7 @@ needs-reenrichment: true
 reenrich-reason: "Bioguide recovered 2026-04-11 (was contaminated, now verified): P000145. Next pipeline run should populate Congress.gov + GovTrack auto-blocks with correct data."
 known-gaps:
   - "No mapped relationships"
-internal-notes: "[MANUAL 2026-04-11] Bioguide recovered: P000145. Previously cleared by fix-bioguide-contamination.cjs because the profile was sharing a contaminated wrong bioguide (C001091 or B001296) with other unrelated profiles. Manually verified against bioguide.congress.gov/search. needs-reenrichment flipped from false to true — the next scheduled pipeline run will now populate correct Congress.gov auto-blocks.
+internal-notes: "[MANUAL 2026-04-11] Bioguide recovered: P000145. Previously cleared by fix-bioguide-contamination.cjs because the profile was sharing a contaminated wrong bioguide (C001091 or B001296) with other unrelated profiles. Manually verified against bioguide.congress.gov/search. needs-reenrichment flipped from false to true , the next scheduled pipeline run will now populate correct Congress.gov auto-blocks.
 
 [JANITOR 2026-04-11] Bioguide contamination cleared by fix-bioguide-contamination.cjs. This profile had bioguide-id set to 'C001091' (Joaquin Castro's ID), almost certainly from a past bulk-set script that fell through to candidates[0]?.bioguideId when a name search failed. 19 unrelated profiles all had the same wrong ID — same class of bug as the A000383 Alan Armstrong incident documented in the Pipeline Guide. The wrong ID has been removed. A correct bioguide must be added manually (verify at bioguide.congress.gov/search) before the Congress.gov pipeline can enrich this profile. Pipeline will skip this profile until a bioguide is provided.
 
@@ -65,23 +65,23 @@ donors:
 
 ## Who They Are
 
-Alex Padilla is the senior U.S. Senator from California and the Ranking Member of the Senate Rules and Administration Committee — the committee overseeing federal election administration, campaign finance law, and Senate operations. He also serves on Judiciary, Environment and Public Works, Budget, and Homeland Security and Governmental Affairs. He was appointed to the Senate in January 2021 by Governor Gavin Newsom after Kamala Harris became Vice President, and won election in his own right in 2022.
+Alex Padilla is the senior U.S. Senator from California and the Ranking Member of the Senate Rules and Administration Committee, the committee overseeing federal election administration, campaign finance law, and Senate operations. He also serves on Judiciary, Environment and Public Works, Budget, and Homeland Security and Governmental Affairs. He was appointed to the Senate in January 2021 by Governor Gavin Newsom after Kamala Harris became Vice President, and won election in his own right in 2022.
 
-Padilla is the first Latino U.S. Senator from California. He grew up in Pacoima (San Fernando Valley), the son of Mexican immigrants — his father was a short-order cook, his mother a house cleaner. He graduated from MIT with a degree in mechanical engineering and briefly worked at Hughes Aircraft writing software for satellite systems before entering politics at 26 as a Los Angeles City Councilmember (the youngest council president in LA history at the time).
+Padilla is the first Latino U.S. Senator from California. He grew up in Pacoima (San Fernando Valley), the son of Mexican immigrants, his father was a short-order cook, his mother a house cleaner. He graduated from MIT with a degree in mechanical engineering and briefly worked at Hughes Aircraft writing software for satellite systems before entering politics at 26 as a Los Angeles City Councilmember (the youngest council president in LA history at the time).
 
-Before the Senate, Padilla served as California Secretary of State (2015-2021), where he implemented automatic voter registration, same-day voter registration, expanded vote-by-mail, and launched early vote centers — driving record voter participation. He also served in the California State Senate (2006-2014) and on the LA City Council (1999-2006). His political career began as a response to Proposition 187 (1994), which sought to bar undocumented immigrants from public services.
+Before the Senate, Padilla served as California Secretary of State (2015-2021), where he implemented automatic voter registration, same-day voter registration, expanded vote-by-mail, and launched early vote centers, driving record voter participation. He also served in the California State Senate (2006-2014) and on the LA City Council (1999-2006). His political career began as a response to Proposition 187 (1994), which sought to bar undocumented immigrants from public services.
 
-The Rules and Administration Committee has jurisdiction over federal election law, the Federal Election Commission, campaign finance regulation, voter registration, and Senate operations. Padilla is the first former state Secretary of State to serve as the committee's RM — bringing actual election administration experience to the election oversight committee.
+The Rules and Administration Committee has jurisdiction over federal election law, the Federal Election Commission, campaign finance regulation, voter registration, and Senate operations. Padilla is the first former state Secretary of State to serve as the committee's RM, bringing actual election administration experience to the election oversight committee.
 
 ---
 
 ## The Central Thesis
 
-Alex Padilla is the rare case of a committee assignment that matches expertise rather than donor interest. As California's former Secretary of State, he actually administered elections — implemented automatic voter registration, expanded vote-by-mail, modernized California's election infrastructure. Now he ranks on the committee that oversees federal election law. His donor profile reflects California Democratic politics (tech, entertainment, lawyers, labor) rather than election industry lobbying or campaign finance interests.
+Alex Padilla is the rare case of a committee assignment that matches expertise rather than donor interest. As California's former Secretary of State, he actually administered elections, implemented automatic voter registration, expanded vote-by-mail, modernized California's election infrastructure. Now he ranks on the committee that oversees federal election law. His donor profile reflects California Democratic politics (tech, entertainment, lawyers, labor) rather than election industry lobbying or campaign finance interests.
 
-The analytical interest is the structural mismatch between Padilla's expertise and his power. The Rules Committee RM cannot block Republican election law proposals (voter ID requirements, ballot harvesting restrictions, challenges to automatic registration). Padilla built the most expansive voter access system in any state — and now watches from the minority as Republicans use the same committee to restrict the model he created. The election expert has no power to protect election access from the minority position.
+The analytical interest is the structural mismatch between Padilla's expertise and his power. The Rules Committee RM cannot block Republican election law proposals (voter ID requirements, ballot harvesting restrictions, challenges to automatic registration). Padilla built the most expansive voter access system in any state, and now watches from the minority as Republicans use the same committee to restrict the model he created. The election expert has no power to protect election access from the minority position.
 
-His immigration work adds a parallel track: as the first Latino to chair the Judiciary Subcommittee on Immigration, Padilla championed DACA protections and essential worker citizenship pathways. Under Republican control, that subcommittee now advances enforcement and restriction. Both of Padilla's signature issues — voting rights and immigration — are structurally reversed when the majority changes.
+His immigration work adds a parallel track: as the first Latino to chair the Judiciary Subcommittee on Immigration, Padilla championed DACA protections and essential worker citizenship pathways. Under Republican control, that subcommittee now advances enforcement and restriction. Both of Padilla's signature issues, voting rights and immigration, are structurally reversed when the majority changes.
 
 ---
 
@@ -125,23 +125,23 @@ His immigration work adds a parallel track: as the first Latino to chair the Jud
 ### Pipeline: Secretary of State → Senate Election Oversight
 | Date | Type | Event | Donor | Amount | Gap |
 |------|------|-------|-------|--------|-----|
-| 1994 | FORMATIVE | California Proposition 187 — anti-immigrant ballot measure politicizes young Padilla | — | — | — |
-| 1999 | ROLE | Elected to LA City Council at age 26 (youngest council president) | — | — | — |
-| 2015-2021 | ROLE | California Secretary of State — implements automatic voter registration, same-day registration, expanded vote-by-mail | — | — | — |
-| 2021-01 | ROLE | Appointed to U.S. Senate by Governor Newsom (replacing VP Harris) | — | — | — |
-| 2022 | ← ELECTION | Wins full Senate term in own right | — | — | — |
-| 2025 | ROLE | Named Senate Rules Committee Ranking Member | — | — | — |
-| 2025-2026 | ← POLICY | Opposes Republican election restriction proposals from RM position — limited power to block | — | — | — |
-| 2026 | ← NOTE | The election administrator-turned-senator ranks on the election oversight committee but cannot protect the voter access innovations he built in California. The expertise is real; the institutional power isn't. | — | — | — |
+| 1994 | FORMATIVE | California Proposition 187, anti-immigrant ballot measure politicizes young Padilla |, |, |, |
+| 1999 | ROLE | Elected to LA City Council at age 26 (youngest council president) |, |, |, |
+| 2015-2021 | ROLE | California Secretary of State, implements automatic voter registration, same-day registration, expanded vote-by-mail |, |, |, |
+| 2021-01 | ROLE | Appointed to U.S. Senate by Governor Newsom (replacing VP Harris) |, |, |, |
+| 2022 | ← ELECTION | Wins full Senate term in own right |, |, |, |
+| 2025 | ROLE | Named Senate Rules Committee Ranking Member |, |, |, |
+| 2025-2026 | ← POLICY | Opposes Republican election restriction proposals from RM position, limited power to block |, |, |, |
+| 2026 | ← NOTE | The election administrator-turned-senator ranks on the election oversight committee but cannot protect the voter access innovations he built in California. The expertise is real; the institutional power isn't. |, |, |, |
 
 ### Pipeline: Immigration Biography → Immigration Subcommittee
 | Date | Type | Event | Donor | Amount | Gap |
 |------|------|-------|-------|--------|-----|
-| 1994 | FORMATIVE | Prop 187 — son of Mexican immigrants watches California vote to exclude undocumented immigrants from public services | — | — | — |
-| 2021 | ← POLICY | First bill: Citizenship for Essential Workers Act — pathway to citizenship for pandemic essential workers | — | — | — |
-| 2021-2024 | ROLE | First Latino to chair Judiciary Subcommittee on Immigration, Citizenship, and Border Safety | — | — | — |
-| 2025 | ← REVERSAL | Under Republican majority, immigration subcommittee shifts to enforcement and restriction — Padilla loses chairmanship | — | — | — |
-| 2026 | ← NOTE | Both signature issues (voting rights + immigration) are structurally reversed when the majority changes. Padilla built the agenda; the opposition dismantles it with the same committee tools. | — | — | — |
+| 1994 | FORMATIVE | Prop 187, son of Mexican immigrants watches California vote to exclude undocumented immigrants from public services |, |, |, |
+| 2021 | ← POLICY | First bill: Citizenship for Essential Workers Act, pathway to citizenship for pandemic essential workers |, |, |, |
+| 2021-2024 | ROLE | First Latino to chair Judiciary Subcommittee on Immigration, Citizenship, and Border Safety |, |, |, |
+| 2025 | ← REVERSAL | Under Republican majority, immigration subcommittee shifts to enforcement and restriction. Padilla loses chairmanship |, |, |, |
+| 2026 | ← NOTE | Both signature issues (voting rights + immigration) are structurally reversed when the majority changes. Padilla built the agenda; the opposition dismantles it with the same committee tools. |, |, |, |
 
 ---
 
@@ -157,21 +157,21 @@ The appointment contradiction adds a layer. Padilla's Senate career began when G
 
 ## Analytical Patterns
 
-**Genuine Win + Structural Limit (election administration):** Padilla's California achievements are genuine — automatic voter registration, same-day registration, expanded vote-by-mail drove record participation. The structural limit: state-level innovations depend on federal law not preempting them, and the Rules Committee majority can advance legislation that restricts the very practices Padilla implemented. The win was real; the defense of it is structurally impossible from the minority.
+**Genuine Win + Structural Limit (election administration):** Padilla's California achievements are genuine, automatic voter registration, same-day registration, expanded vote-by-mail drove record participation. The structural limit: state-level innovations depend on federal law not preempting them, and the Rules Committee majority can advance legislation that restricts the very practices Padilla implemented. The win was real; the defense of it is structurally impossible from the minority.
 
 **Anti-Pattern (expertise-driven assignment):** Unlike most vault profiles where committee assignments serve donor interests, Padilla's Rules Committee position reflects actual professional expertise (former Secretary of State). His donor base (California lawyers, tech, real estate) has no direct stake in election administration law. This anti-pattern confirms the vault's thesis by contrast: when a committee member's expertise rather than their donors drives their agenda, the policy looks different (expand access vs. restrict it).
 
-**Both-Sides Illusion (election integrity):** Both parties claim to support "election integrity." Democrats mean expanding access (registration, vote-by-mail, early voting). Republicans mean restricting access (voter ID, proof of citizenship, ballot harvesting bans). Padilla and Steil both work on election law from their respective committees — funded by different donor classes, producing opposite policies. The bipartisan "integrity" framing masks a fundamental disagreement about who should vote.
+**Both-Sides Illusion (election integrity):** Both parties claim to support "election integrity." Democrats mean expanding access (registration, vote-by-mail, early voting). Republicans mean restricting access (voter ID, proof of citizenship, ballot harvesting bans). Padilla and Steil both work on election law from their respective committees, funded by different donor classes, producing opposite policies. The bipartisan "integrity" framing masks a fundamental disagreement about who should vote.
 
 ---
 
 ## Rhetorical Signature Moves
 
-**"Every eligible citizen should be able to freely, fairly, and fully participate"** — The voting rights maxim. The function: frame election access as a right rather than a privilege, positioning any restriction as an attack on democratic participation.
+**"Every eligible citizen should be able to freely, fairly, and fully participate"**. The voting rights maxim. The function: frame election access as a right rather than a privilege, positioning any restriction as an attack on democratic participation.
 
-**"Son of immigrants"** — The biographical credential for immigration policy. The function: make immigration debates personal — the senator's parents were the immigrants whose rights he now defends.
+**"Son of immigrants"**. The biographical credential for immigration policy. The function: make immigration debates personal, the senator's parents were the immigrants whose rights he now defends.
 
-**"California showed it works"** — The proof-of-concept argument. The function: use California's record voter participation after his reforms as evidence that expanded access doesn't produce misconduct — it produces democracy.
+**"California showed it works"**. The proof-of-concept argument. The function: use California's record voter participation after his reforms as evidence that expanded access doesn't produce misconduct, it produces democracy.
 
 ---
 
@@ -185,7 +185,7 @@ The appointment contradiction adds a layer. Padilla's Senate career began when G
 - [Senate.gov: Padilla immigration issues page](https://www.padilla.senate.gov/about/issues/immigration/) (Tier 1) (VERIFIED)
 - [Senate.gov: Padilla raises AI inclusivity concerns at Judiciary hearing](https://www.padilla.senate.gov/newsroom/press-releases/padilla-raises-inclusivity-concerns-at-committee-hearing-on-artificial-intelligence/) (Tier 1) (VERIFIED)
 - [FEC: Alex Padilla for Senate committee overview](https://www.fec.gov/data/committee/C00765164/) (Tier 1) (VERIFIED)
-- [FollowTheMoney: Alex Padilla](https://www.followthemoney.org/tools/election-overview?eid=6468901&default=candidate) (NEEDS REVIEW: Still Works...Maybe we can screenshot and save somehow?) (was FollowTheMoney — site merged into OpenSecrets, all URLs dead) (Tier 1)
+- [FollowTheMoney: Alex Padilla](https://www.followthemoney.org/tools/election-overview?eid=6468901&default=candidate) (NEEDS REVIEW: Still Works.Maybe we can screenshot and save somehow?) (was FollowTheMoney, site merged into OpenSecrets, all URLs dead) (Tier 1)
 - [GovTrack: Alex Padilla](https://www.govtrack.us/congress/members/alejandro_padilla/456856) (Tier 3) (VERIFIED)
 - [Ballotpedia: Alex Padilla](https://ballotpedia.org/Alex_Padilla) (Tier 3) (VERIFIED)
 - [Wikipedia: Alex Padilla](https://en.wikipedia.org/wiki/Alex_Padilla) (Tier 3) (VERIFIED)

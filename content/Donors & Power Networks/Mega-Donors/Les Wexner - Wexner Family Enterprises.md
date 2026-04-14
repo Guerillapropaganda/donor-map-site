@@ -31,11 +31,11 @@ The needs-reenrichment flag has been set. The next scheduled pipeline run will p
 
 Leslie Herbert Wexner (born September 8, 1937) founded The Limited in 1963 with a $5,000 loan from his aunt, growing it into one of America's largest retail empires. At its peak, L Brands controlled Victoria's Secret, Bath & Body Works, Abercrombie & Fitch, Lane Bryant, and The Limited. Wexner stepped down as L Brands CEO in February 2020 under shareholder pressure related to the Epstein scandal, and resigned as chair of the Columbus Partnership in 2021. As of 2026, his net worth stands at approximately $9 billion, making him Ohio's wealthiest individual.
 
-Ohio State University 1959 graduate; Board of Trustees chairman (served multiple terms). His wife, Abigail Koppel Wexner, is an attorney and philanthropist who has served as a board member at Nationwide Children's Hospital since 1993. They have operated as split-ticket major donors: Les primarily to Republicans, Abigail to Democrats — a classic both-sides access strategy that preserves influence regardless of which party controls power.
+Ohio State University 1959 graduate; Board of Trustees chairman (served multiple terms). His wife, Abigail Koppel Wexner, is an attorney and philanthropist who has served as a board member at Nationwide Children's Hospital since 1993. They have operated as split-ticket major donors: Les primarily to Republicans, Abigail to Democrats, a classic both-sides access strategy that preserves influence regardless of which party controls power.
 
 Wexner's political power operates across multiple structural vectors: direct campaign contributions ($5.3 million combined 1980–2022), institutional control (OSU Board of Trustees chairmanship, $200+ million in gifts establishing permanent naming rights), infrastructure control (New Albany private municipality with 11,000 residents, Easton Town Center retail complex, data center subsidies worth billions in foregone tax revenue), and international soft power (the Wexner Foundation's training pipeline of 650+ senior Israeli officials at Harvard Kennedy School).
 
-His political legacy is inseparable from his relationship with Jeffrey Epstein, who served as his personal financial manager from the mid-1980s until at least 2008. Wexner granted Epstein power of attorney over his $4.6 billion fortune (1991), transferred the Manhattan townhouse at 9 East 71st Street to him, and enabled Epstein's financial accumulation and access to ultra-wealthy networks. Wexner later claimed Epstein "misappropriated vast sums" — with Rep. Robert Garcia estimating over $1 billion flowed to Epstein through various mechanisms. The relationship has become central to multiple ongoing investigations, and Wexner's name appears over 4,000 times in the unredacted Epstein files released in February 2026.
+His political legacy is inseparable from his relationship with Jeffrey Epstein, who served as his personal financial manager from the mid-1980s until at least 2008. Wexner granted Epstein power of attorney over his $4.6 billion fortune (1991), transferred the Manhattan townhouse at 9 East 71st Street to him, and enabled Epstein's financial accumulation and access to ultra-wealthy networks. Wexner later claimed Epstein "misappropriated vast sums", with Rep. Robert Garcia estimating over $1 billion flowed to Epstein through various mechanisms. The relationship has become central to multiple ongoing investigations, and Wexner's name appears over 4,000 times in the unredacted Epstein files released in February 2026.
 
 ---
 
@@ -45,9 +45,9 @@ His political legacy is inseparable from his relationship with Jeffrey Epstein, 
 
 **Tax abatement and incentive regimes**: Ohio state policy favorable to corporate expansion through JobsOhio ($1.4 billion in incentives, $1.6 billion in lost tax revenue from data center exemptions), property tax abatements, sales tax exemptions, and regulatory capture of the state's development infrastructure. The goal is to establish a permanent governance structure where public resources flow to private projects without elected accountability.
 
-**Ohio Republican political machine maintenance**: Funding Republican candidates and party infrastructure to preserve the political environment that enables the above subsidies — creating a revolving door between Wexner's interests and state power. When Republicans control the legislature and governorship, Wexner's agenda moves forward.
+**Ohio Republican political machine maintenance**: Funding Republican candidates and party infrastructure to preserve the political environment that enables the above subsidies, creating a revolving door between Wexner's interests and state power. When Republicans control the legislature and governorship, Wexner's agenda moves forward.
 
-**Institutional capture of Ohio State University**: Board control, permanent naming rights across campus buildings, influence over research infrastructure and medical center operations, and protection of OSU's status as a major employer and driver of Columbus economic development — all benefiting New Albany's proximity to the university.
+**Institutional capture of Ohio State University**: Board control, permanent naming rights across campus buildings, influence over research infrastructure and medical center operations, and protection of OSU's status as a major employer and driver of Columbus economic development, all benefiting New Albany's proximity to the university.
 
 **Israel policy influence and soft power**: Training senior Israeli officials (Directors General of government ministries, IDF officers, judges, hospital directors) at Harvard Kennedy School through the Wexner Foundation creates long-term political relationships with Israeli government leadership and positions the Wexner Foundation as an intermediary between U.S. and Israeli policy networks.
 
@@ -59,51 +59,51 @@ His political legacy is inseparable from his relationship with Jeffrey Epstein, 
 
 ### Combined Political Giving: $5.3 million+ (1980–2022)
 
-According to OpenSecrets, Les and Abigail Wexner combined contributed over $5.3 million to state and federal political campaigns and party organizations from 1980 through 2022. Federal contributions peaked in the 2018 cycle when Wexner ranked #350 among all individual federal donors, giving $314,900 total — $297,200 to Republicans, $2,700 to Democrats. Political giving sharply declined after 2019 when the Epstein scandal became public, but Wexner donated $250,000 to the NRSC in 2025 — a significant re-entry attempt before the February 2026 full unredaction of his FBI co-conspirator designation.
+According to OpenSecrets, Les and Abigail Wexner combined contributed over $5.3 million to state and federal political campaigns and party organizations from 1980 through 2022. Federal contributions peaked in the 2018 cycle when Wexner ranked #350 among all individual federal donors, giving $314,900 total, $297,200 to Republicans, $2,700 to Democrats. Political giving sharply declined after 2019 when the Epstein scandal became public, but Wexner donated $250,000 to the NRSC in 2025, a significant re-entry attempt before the February 2026 full unredaction of his FBI co-conspirator designation.
 
 #### Federal Contributions (Selected, 1980–2026)
 
 ### Large PAC and committee transfers:
-- 2025: National Republican Senatorial Committee — $250,000
-- June 2018: Republican Governors Association — $250,000
-- Since 2016: NRCC (National Republican Congressional Committee) — $236,300+
-- Through 2019: PORT PAC (Portman Leadership PAC) — channeled to Ted Cruz ($10,000), Josh Hawley ($10,000), Rick Scott ($5,000), Lindsey Graham ($5,000), and Donald Trump's 2020 campaign ($10,000)
+- 2025: National Republican Senatorial Committee, $250,000
+- June 2018: Republican Governors Association, $250,000
+- Since 2016: NRCC (National Republican Congressional Committee), $236,300+
+- Through 2019: PORT PAC (Portman Leadership PAC), channeled to Ted Cruz ($10,000), Josh Hawley ($10,000), Rick Scott ($5,000), Lindsey Graham ($5,000), and Donald Trump's 2020 campaign ($10,000)
 
 ### Individual candidate contributions (recent cycles):
-- 2025: Sen. Jon Husted (OH-R) — $3,500
-- 2025: Sen. Bernie Moreno (OH-R) — $3,500
-- 2025: Rep. Mike Carey (OH-R) — $3,300
-- 2025: Rep. Joyce Beatty (OH-D) — $3,500
-- Since 2000: Sen. Rob Portman (OH-R) — $16,000+
-- 1994–2022: Gov./AG Mike DeWine (OH-R) — $88,000+ total
-- 2014: Sen. Lindsey Graham (SC-R) — $2,500
-- 2018 cycle: Rep. Joyce Beatty (OH-D) — $5,800
+- 2025: Sen. Jon Husted (OH-R), $3,500
+- 2025: Sen. Bernie Moreno (OH-R), $3,500
+- 2025: Rep. Mike Carey (OH-R), $3,300
+- 2025: Rep. Joyce Beatty (OH-D), $3,500
+- Since 2000: Sen. Rob Portman (OH-R), $16,000+
+- 1994–2022: Gov./AG Mike DeWine (OH-R), $88,000+ total
+- 2014: Sen. Lindsey Graham (SC-R), $2,500
+- 2018 cycle: Rep. Joyce Beatty (OH-D), $5,800
 
 #### Abigail Wexner's Democratic Giving
 
 Abigail Wexner has operated as an independent major donor, primarily to Democrats, establishing bipartisan household access:
 
-- 2020: Democratic Grassroots Victory Fund — $750,000 (subsequently distributed to DNC and 47 state Democratic parties)
+- 2020: Democratic Grassroots Victory Fund, $750,000 (subsequently distributed to DNC and 47 state Democratic parties)
 - 2011–2017: Multiple installments of $2,500 to former Sen. Sherrod Brown (D-OH)
 
 #### Ohio State-Level Contributions (2016–2026)
 
 The combined Wexner giving at the Ohio state and local level demonstrates systematic investment in political infrastructure across both parties. Recipients include:
 
-- Andrew Ginther (Columbus Mayor) — $150,000+
-- Jon Husted (U.S. Senator / former Lt. Gov.) — $100,000+ (since early 2000s)
-- Shannon Hardin (Columbus City Council President) — $40,000+
-- Robert Sprague (Ohio Treasurer) — $23,000
-- Zach Klein (Columbus City Attorney) — $20,000
-- Matt Huffman (Ohio House Speaker / Senate President) — $20,000 (2021–2022)
-- Mike Carey (U.S. Representative) — $13,000+
-- John O'Grady (Franklin County Commissioner) — $12,000
-- Keith Faber (Ohio Auditor) — $15,000
-- Michele Reynolds (Ohio State Senator) — $8,100
-- Frank LaRose (Ohio SOS candidate) — $7,500
-- Rob McColley (Ohio Senate President) — $5,000
-- Brian Stewart (Ohio House Finance Committee Chair) — $5,000
-- David Yost (Ohio Attorney General) — $5,000
+- Andrew Ginther (Columbus Mayor), $150,000+
+- Jon Husted (U.S. Senator / former Lt. Gov.), $100,000+ (since early 2000s)
+- Shannon Hardin (Columbus City Council President), $40,000+
+- Robert Sprague (Ohio Treasurer), $23,000
+- Zach Klein (Columbus City Attorney), $20,000
+- Matt Huffman (Ohio House Speaker / Senate President), $20,000 (2021–2022)
+- Mike Carey (U.S. Representative), $13,000+
+- John O'Grady (Franklin County Commissioner), $12,000
+- Keith Faber (Ohio Auditor), $15,000
+- Michele Reynolds (Ohio State Senator), $8,100
+- Frank LaRose (Ohio SOS candidate), $7,500
+- Rob McColley (Ohio Senate President), $5,000
+- Brian Stewart (Ohio House Finance Committee Chair), $5,000
+- David Yost (Ohio Attorney General), $5,000
 
 The New Albany PAC and Limited Brands PAC served as additional conduits for Wexner political money to these officials.
 
@@ -111,22 +111,22 @@ The New Albany PAC and Limited Brands PAC served as additional conduits for Wexn
 
 In September 2018, Wexner publicly announced he was "no longer a Republican," citing Trump's response to Charlottesville. The announcement "sent a ripple through Ohio politics" given his dominant-donor status. However, the reality was more nuanced:
 
-- He donated $10,000 to both the Ohio House Democratic Caucus and the Ohio House Republican Caucus in October 2018 — the same month he announced leaving the GOP
+- He donated $10,000 to both the Ohio House Democratic Caucus and the Ohio House Republican Caucus in October 2018, the same month he announced leaving the GOP
 - He continued donating to PORT PAC (a Portman/GOP leadership PAC) through September 2019
-- He gave $250,000 to the Republican Governors Association in June 2018 — just before his "break"
+- He gave $250,000 to the Republican Governors Association in June 2018, just before his "break"
 - He gave $250,000 to the NRSC in 2025, after years of renewed Epstein scrutiny
 - He gave $100,000 to a post-Kasich PAC in 2013 for the failed 2016 presidential bid
 
-The "break" functioned as reputation management and audience-segmentation — signaling to Democrats and progressive donors that he had abandoned the GOP, while the money kept flowing to Republicans at the PAC and party level.
+The "break" functioned as reputation management and audience-segmentation, signaling to Democrats and progressive donors that he had abandoned the GOP, while the money kept flowing to Republicans at the PAC and party level.
 
 #### PAC Activity
 
 Wexner has contributed to and directed multiple PACs:
 
-- **New Albany PAC / Georgetown Co PAC** — financed by the Wexners since 2011; helped finance the Columbus bond package; donated to Tim Ryan (D-OH)
-- **Limited Brands PAC / L Brands PAC** — company PAC giving to corporate-friendly allies
-- **PORT PAC** (Portman leadership PAC) — Wexner contributions through September 2019; this PAC donated strategically to national GOP figures including Ted Cruz ($10,000), Josh Hawley ($10,000), Rick Scott ($5,000), Lindsey Graham ($5,000), and Trump's 2020 campaign ($10,000)
-- **With Honor PAC** — bipartisan; funded Dan Crenshaw (R-TX) and Mikie Sherrill (D-NJ)
+- **New Albany PAC / Georgetown Co PAC**, financed by the Wexners since 2011; helped finance the Columbus bond package; donated to Tim Ryan (D-OH)
+- **Limited Brands PAC / L Brands PAC**, company PAC giving to corporate-friendly allies
+- **PORT PAC** (Portman leadership PAC). Wexner contributions through September 2019; this PAC donated strategically to national GOP figures including Ted Cruz ($10,000), Josh Hawley ($10,000), Rick Scott ($5,000), Lindsey Graham ($5,000), and Trump's 2020 campaign ($10,000)
+- **With Honor PAC**, bipartisan; funded Dan Crenshaw (R-TX) and Mikie Sherrill (D-NJ)
 
 #### Politicians Returning Wexner Contributions (February–March 2026)
 
@@ -157,25 +157,25 @@ The Foundation cut ties with Harvard in 2024 over the university's response to t
 
 #### The Luntz Political Messaging Document (2003)
 
-In 2003, the Wexner Foundation commissioned Frank Luntz's research firm to produce "Wexner Analysis: Israeli Communication Priorities 2003" — a strategic communications guide for pro-Israel advocates in the U.S. The document was leaked to The Electronic Intifada and subsequently became public. Per The Electronic Intifada, the document "spells out the tactics that Israel and its US advocates should use to maintain support for Israel and its hardline policies."
+In 2003, the Wexner Foundation commissioned Frank Luntz's research firm to produce "Wexner Analysis: Israeli Communication Priorities 2003", a strategic communications guide for pro-Israel advocates in the U.S. The document was leaked to The Electronic Intifada and subsequently became public. Per The Electronic Intifada, the document "spells out the tactics that Israel and its US advocates should use to maintain support for Israel and its hardline policies."
 
-The guide advised linking Israel's interests to post-Iraq War messaging, framing Saddam Hussein as a common enemy, and coaching American Jewish leaders on how to sway public opinion toward Israeli government priorities. The Wexner Foundation subsequently distanced itself, claiming the document "was disseminated without the Foundations' knowledge or authorization" — a claim that strains credibility given Luntz's direct commission and the Foundation's financing.
+The guide advised linking Israel's interests to post-Iraq War messaging, framing Saddam Hussein as a common enemy, and coaching American Jewish leaders on how to sway public opinion toward Israeli government priorities. The Wexner Foundation subsequently distanced itself, claiming the document "was disseminated without the Foundations' knowledge or authorization", a claim that strains credibility given Luntz's direct commission and the Foundation's financing.
 
 Frank Luntz, who produced the document, had previously helped craft Benjamin Netanyahu's Israeli election campaign messaging.
 
 #### The Ehud Barak Payment (2004–2006)
 
-Between 2004 and 2006, the Wexner Foundation paid former Israeli Prime Minister Ehud Barak **$2.3 million** for two research reports — one on the Israeli-Palestinian conflict and one on leadership. Barak completed only the first. The Foundation acknowledged the payments only in 2020, stating the completed work was "sufficient to justify the paid sum."
+Between 2004 and 2006, the Wexner Foundation paid former Israeli Prime Minister Ehud Barak **$2.3 million** for two research reports, one on the Israeli-Palestinian conflict and one on leadership. Barak completed only the first. The Foundation acknowledged the payments only in 2020, stating the completed work was "sufficient to justify the paid sum."
 
 This payment became controversial in Israel's 2019 election when Netanyahu's campaign used it to attack Barak, who was challenging him. A Netanyahu attorney filed a complaint with Israel's attorney general alleging the payments were "suspicious money transfers" and potentially illegal political contributions to an Israeli candidate.
 
-Notably, Ehud Barak later partnered with Jeffrey Epstein in a technology venture — creating a connection between the Wexner Foundation's Israeli soft-power investments and Epstein's own Israeli connections.
+Notably, Ehud Barak later partnered with Jeffrey Epstein in a technology venture, creating a connection between the Wexner Foundation's Israeli soft-power investments and Epstein's own Israeli connections.
 
 #### Epstein's Role as Foundation Trustee (1992–2007)
 
 Jeffrey Epstein served as a trustee of the Wexner Foundation from 1992 to 2007, when he was removed after initial pedophilia allegations emerged. The Foundation commissioned an independent probe by the Kegler Brown Hill + Ritter law firm, which found his role was "limited to dealing with documents and reports related to transferring the Wexner family's monetary support to the foundation."
 
-However, Epstein also "acquired a leadership role in two of Wexner's foundations" and was "named as a trustee in entities with millions of dollars in shares." Most significantly, during the 2026 congressional deposition, Wexner appeared shocked when informed that approximately $20 million in stock and cash from his charitable entities had been contributed to one of Epstein's charities. Wexner stated: "Effing shocked, I just — I'm appalled. I never heard that."
+However, Epstein also "acquired a leadership role in two of Wexner's foundations" and was "named as a trustee in entities with millions of dollars in shares." Most significantly, during the 2026 congressional deposition, Wexner appeared shocked when informed that approximately $20 million in stock and cash from his charitable entities had been contributed to one of Epstein's charities. Wexner stated: "Effing shocked, I just. I'm appalled. I never heard that."
 
 ---
 
@@ -183,7 +183,7 @@ However, Epstein also "acquired a leadership role in two of Wexner's foundations
 
 #### Voinovich Relationship: State Power as Personal Infrastructure (1990–1994)
 
-In 1990, Wexner invested $100,000 in Republican George Voinovich's successful gubernatorial campaign — his largest single political investment at that time. The NBC News investigation documents what followed as a clear exchange of political donations for state resources:
+In 1990, Wexner invested $100,000 in Republican George Voinovich's successful gubernatorial campaign, his largest single political investment at that time. The NBC News investigation documents what followed as a clear exchange of political donations for state resources:
 
 **What Wexner gave:** $55,000 to Voinovich between 1990–1994
 
@@ -191,14 +191,14 @@ In 1990, Wexner invested $100,000 in Republican George Voinovich's successful gu
 - Connected Wexner to the "Cleveland Tomorrow" group, which became the template for the Columbus Partnership (the private governance structure for 11 counties)
 - **$235 million state-funded highway interchange** for Easton Town Center, Wexner's retail development. A 1994 article in *The Other Paper* reported that Wexner's excessive donations to Voinovich "helped the project in jumping the queue" over two higher-ranked projects at the Mid-Ohio Regional Planning Commission
 - State-funded infrastructure for New Albany's development
-- Voinovich's top aide drafted legislation for a liquor license for Wexner's New Albany Country Club and housing development. When media exposed that the bill would benefit Wexner, Voinovich vetoed it — though Wexner subsequently obtained the right to sell alcohol through a microbrewery at the club
+- Voinovich's top aide drafted legislation for a liquor license for Wexner's New Albany Country Club and housing development. When media exposed that the bill would benefit Wexner, Voinovich vetoed it, though Wexner subsequently obtained the right to sell alcohol through a microbrewery at the club
 
 > [!money]
 > $100,000 donation (1990) → $235 million state highway interchange + New Albany infrastructure. ROI: 2,350:1. This exchange established the template for all subsequent Wexner political spending in Ohio: direct donations to politicians in exchange for state-funded infrastructure serving his private real estate empire.
 
 #### The Water/Sewer Deal (1987 donations → 1989 approval)
 
-Wexner's early cross-party giving demonstrates the logic: he supported both Democratic Gov. Dick Celeste and Republican Sen. John Glenn in the 1980s. In 1987, he donated thousands to Columbus City Council President Jerry Hammond (D) and other Democratic councilmembers. The same year, Hammond's jazz club — in which Wexner had invested — received favorable financing.
+Wexner's early cross-party giving demonstrates the logic: he supported both Democratic Gov. Dick Celeste and Republican Sen. John Glenn in the 1980s. In 1987, he donated thousands to Columbus City Council President Jerry Hammond (D) and other Democratic councilmembers. The same year, Hammond's jazz club, in which Wexner had invested, received favorable financing.
 
 In 1989, the Columbus City Council approved a critical water and sewage infrastructure deal for New Albany. A Columbus City School Board member challenged the deal as being tainted by Wexner's investment in Hammond's jazz club. The opposition failed; the deal proceeded. This arrangement allowed New Albany to develop without annexation into Columbus, preserving its ability to establish its own school district and property tax structure.
 
@@ -212,39 +212,39 @@ In 1989, the Columbus City Council approved a critical water and sewage infrastr
 
 **The school funding fight:** When New Albany sought access to Columbus city water and sewer lines without being annexed into Columbus, it sparked confrontation:
 - **Opposition:** Columbus City School Board, Columbus Education Association, NAACP, and the Apple Alliance threatened a citywide referendum on annexation
-- **Stakes:** Annexation would have meant New Albany residents' children attended Columbus public schools — depriving the suburb of its ability to create its own exclusive school district
+- **Stakes:** Annexation would have meant New Albany residents' children attended Columbus public schools, depriving the suburb of its ability to create its own exclusive school district
 - **Outcome:** The city council voted to allow the water/sewer access; the NAACP lawsuit was defeated
 
-**Growth trajectory:** New Albany grew from fewer than 500 residents in 1980 to 4,000 by 2000 to 11,000 by 2020 — entirely as a result of Wexner's private planning apparatus being executed through compliant local and state government.
+**Growth trajectory:** New Albany grew from fewer than 500 residents in 1980 to 4,000 by 2000 to 11,000 by 2020, entirely as a result of Wexner's private planning apparatus being executed through compliant local and state government.
 
 **Tech feudalism (2010s–2026):** New Albany now hosts Amazon, Meta, Google, Microsoft, and Intel hyperscale data center operations. Roughly half of Ohio's approximately 200 data centers are in New Albany. Human costs: rising electric bills across central Ohio, drained aquifers, minimal permanent employment relative to subsidies received. Wexner's 1983 vision of "tax abatements, tax incentives, strong zoning, strong leadership in the private sector" has been scaled statewide.
 
 #### The Highway Interchange: MORPC Override (1990s)
 
-The Mid-Ohio Regional Planning Commission (MORPC) ranked highway projects by regional impact. Two projects ranked higher in priority than the Easton Town Center interchange. Despite this, the Ohio Department of Transportation fast-tracked a **$235 million state-funded highway interchange** with blue "Easton" signage serving Wexner's retail mall. Wexner's company contributed approximately $18 million in cash; the state contributed $235 million — a 13:1 public-to-private investment ratio.
+The Mid-Ohio Regional Planning Commission (MORPC) ranked highway projects by regional impact. Two projects ranked higher in priority than the Easton Town Center interchange. Despite this, the Ohio Department of Transportation fast-tracked a **$235 million state-funded highway interchange** with blue "Easton" signage serving Wexner's retail mall. Wexner's company contributed approximately $18 million in cash; the state contributed $235 million, a 13:1 public-to-private investment ratio.
 
 > [!money]
 > Public infrastructure subsidies: $235 million highway + subsequent water/sewer + tax incentives = the structural foundation for Wexner's real estate empire to become profitable. Without state funding, these projects would not have been economically viable.
 
 #### JobsOhio: Scaling the Model Statewide (2011 onward)
 
-The governance model pioneered at New Albany — private entities directing public resources with minimal accountability — was codified statewide through **JobsOhio**, created by legislation signed by Gov. John Kasich in 2011. Wexner contributed to Kasich's gubernatorial campaign and benefited immediately:
+The governance model pioneered at New Albany, private entities directing public resources with minimal accountability, was codified statewide through **JobsOhio**, created by legislation signed by Gov. John Kasich in 2011. Wexner contributed to Kasich's gubernatorial campaign and benefited immediately:
 
 - State **leased its liquor tax revenue** for $1.4 billion to JobsOhio (lease extended to 2053)
 - JobsOhio has funneled **over $1.4 billion in taxpayer-backed incentives** to corporations
 - The entity is "chaired by lobbyists tied directly to Gov. Mike DeWine" and "partners hand-in-glove with the Wexner-dominated Columbus Partnership and One Columbus"
 - Data centers in New Albany received **sales-tax exemptions and property-tax abatements estimated at $1.6 billion in lost Ohio tax revenue**
-- **Intel alone:** $2 billion package including a 30-year tax break worth $650 million — with the New Albany plant opening delayed to at least 2030
+- **Intel alone:** $2 billion package including a 30-year tax break worth $650 million, with the New Albany plant opening delayed to at least 2030
 - Independent research shows that in 75% of cases, these incentives don't influence location decisions
 
-The Columbus Partnership (founded 2002), Columbus 2020 / One Columbus economic development authority (privately funded by L Brands and others), and JobsOhio form an interlocking system functioning as parallel government — directing tens of billions in public resources without elected accountability.
+The Columbus Partnership (founded 2002), Columbus 2020 / One Columbus economic development authority (privately funded by L Brands and others), and JobsOhio form an interlocking system functioning as parallel government, directing tens of billions in public resources without elected accountability.
 
 #### Ohio State University: Institutional Capture (1961–2026)
 
 ### Funding history:
-- **$200+ million total** to Ohio State over 30+ years — largest individual donor in university history
+- **$200+ million total** to Ohio State over 30+ years, largest individual donor in university history
 - **1961 onward:** Wexner (1959 graduate) began modest donations ($5 initially)
-- **February 2011:** Historic $100 million gift ($65M personal, $35M Limited Brands Foundation) — "one of the largest philanthropic gifts ever made to a public university"
+- **February 2011:** Historic $100 million gift ($65M personal, $35M Limited Brands Foundation), "one of the largest philanthropic gifts ever made to a public university"
 
 ### Institutional control:
 - **Ohio State University Wexner Medical Center:** Medical center renamed after the 2011 gift
@@ -258,7 +258,7 @@ Following the February 2026 release of unredacted FBI co-conspirator documents, 
 
 ONA President Rick Lucas stated: "This is not a trial. This is about proximity, trust and accountability. Wexner's money funded a network that exploited women and children."
 
-The ONA letter also called out the naming of a labor and delivery waiting area for Dr. Mark Landon — who, it was revealed, received several payments from Epstein in the early 2000s. OSU said it was investigating Landon.
+The ONA letter also called out the naming of a labor and delivery waiting area for Dr. Mark Landon, who, it was revealed, received several payments from Epstein in the early 2000s. OSU said it was investigating Landon.
 
 A Change.org petition titled "Ohioans Demand OSU Remove Les Wexner's Name From All Buildings" was filed in February 2026.
 
@@ -266,7 +266,7 @@ A Change.org petition titled "Ohioans Demand OSU Remove Les Wexner's Name From A
 
 Gov. Mike DeWine defended the naming, stating: "There is no evidence whatsoever that he has done anything wrong. He has been a prominent figure of the community and done many, many things."
 
-**Note:** There is no contract tying the naming to Wexner's donations; the naming is governed by an honorific resolution from the OSU Board of Trustees — meaning OSU could remove it unilaterally but has chosen not to.
+**Note:** There is no contract tying the naming to Wexner's donations; the naming is governed by an honorific resolution from the OSU Board of Trustees, meaning OSU could remove it unilaterally but has chosen not to.
 
 ---
 
@@ -288,17 +288,17 @@ In July 1991, Wexner signed a three-page legal document granting Epstein **sweep
 - Borrow money on Wexner's behalf
 - Make investment decisions
 
-Legal experts described the scope as "remarkable" and "unprecedented" in its breadth — effectively making Epstein Wexner's **"financial alter ego."** Friends and colleagues were "mystified" by the arrangement. At the time of the power of attorney, Forbes estimated Wexner's fortune at approximately **$4.6 billion**. Epstein thus had access to one of the largest private fortunes in America.
+Legal experts described the scope as "remarkable" and "unprecedented" in its breadth, effectively making Epstein Wexner's **"financial alter ego."** Friends and colleagues were "mystified" by the arrangement. At the time of the power of attorney, Forbes estimated Wexner's fortune at approximately **$4.6 billion**. Epstein thus had access to one of the largest private fortunes in America.
 
 **ROI for Epstein:** Institutional legitimacy. By managing Wexner's $4.6 billion fortune, Epstein presented himself to other ultra-wealthy clients as "an exclusive money manager for billionaires," opening doors to additional clients including Leon Black (Apollo Global Management), who paid Epstein $158 million between 2012–2017.
 
 #### The Manhattan Townhouse Transfer (1989–2011)
 
-**1989:** Wexner purchased 9 East 71st Street on Manhattan's Upper East Side for **$13.2 million** — then a record for Manhattan townhouse sales. Wexner renovated the seven-story, 21,000-square-foot neoclassical mansion extensively, filling it with art including Picasso works. The mansion appeared on the December 1995 cover of Architectural Digest. Epstein lived there beginning in 1996.
+**1989:** Wexner purchased 9 East 71st Street on Manhattan's Upper East Side for **$13.2 million**, then a record for Manhattan townhouse sales. Wexner renovated the seven-story, 21,000-square-foot neoclassical mansion extensively, filling it with art including Picasso works. The mansion appeared on the December 1995 cover of Architectural Digest. Epstein lived there beginning in 1996.
 
 ### Property transfer (disputed):
 - **Wexner's 2026 congressional statement:** "Contrary to rumors, I did not gift Epstein the New York townhouse; he acquired it from me for what I was informed was its appraised value."
-- **NBC4 documents:** Wexner sold the property to Epstein on November 11, 1998, for $20 million — Epstein paid $1,012,028.24 upfront, with remaining balance in installments through 2000
+- **NBC4 documents:** Wexner sold the property to Epstein on November 11, 1998, for $20 million. Epstein paid $1,012,028.24 upfront, with remaining balance in installments through 2000
 - **2011 transfer:** Public records show the property was transferred from Nine East 71st Street Corporation (controlled by Wexner and Epstein) to Maple Inc. (a Virgin Islands entity controlled solely by Epstein) for **$0**
 - **By 2019:** NYC Department of Finance valued it at $56 million; Bloomberg's court estimate put it at $77 million
 
@@ -314,13 +314,13 @@ Through the power of attorney, Epstein controlled:
 - Millions in stocks: Epstein was "named as a trustee in entities with millions of dollars in shares, including one for Wexner's children"
 - The New Albany Company: Epstein served as co-president alongside Wexner from approximately 1988
 
-Wexner's patronage "made Epstein rich" — by touting Wexner as his client, Epstein presented himself as managing the largest fortunes in America, facilitating his rise as a quasi-official financial authority in elite networks.
+Wexner's patronage "made Epstein rich", by touting Wexner as his client, Epstein presented himself as managing the largest fortunes in America, facilitating his rise as a quasi-official financial authority in elite networks.
 
 #### Financial Misappropriation: The Disputed Amounts
 
 **August 2019 letter:** Wexner wrote to Foundation members that Epstein "misappropriated vast sums of money" from him, calling himself "embarrassed" and stating that his "trust in him was grossly misplaced." He did not specify the amount.
 
-**2008 repayment:** Wexner's lawyers told investigators in 2008 that Epstein repaid Wexner **$100 million** — described as "believed to be just a fraction of the total amount he misappropriated."
+**2008 repayment:** Wexner's lawyers told investigators in 2008 that Epstein repaid Wexner **$100 million**, described as "believed to be just a fraction of the total amount he misappropriated."
 
 **Congressional estimate:** Rep. Robert Garcia (D-CA) stated that his committee found "approximately over a billion dollars" in value moved from Wexner to Epstein via transfers, stock, and direct payments.
 
@@ -335,7 +335,7 @@ California model Alicia Arden told the New York Times that in 1997, Epstein pose
 
 #### The New Albany Compound (1996)
 
-In summer 1996, artist Maria Farmer alleged that Epstein and Ghislaine Maxwell sexually assaulted her at Epstein's residence in New Albany, Ohio — located approximately half a mile from the Wexners' home. Farmer filed one of the earliest complaints against Epstein; the FBI confirmed receiving it, and the complaint reportedly detailed Epstein's possession of nude images of underaged girls.
+In summer 1996, artist Maria Farmer alleged that Epstein and Ghislaine Maxwell sexually assaulted her at Epstein's residence in New Albany, Ohio, located approximately half a mile from the Wexners' home. Farmer filed one of the earliest complaints against Epstein; the FBI confirmed receiving it, and the complaint reportedly detailed Epstein's possession of nude images of underaged girls.
 
 No law enforcement action was taken at the time.
 
@@ -346,15 +346,15 @@ A Wexner spokesperson told OpenSecrets that "Epstein's house was not on land own
 Wexner's public statements about when he severed ties with Epstein shifted repeatedly over time:
 
 - In the 2019 letter to his Foundation, he stated he "severed ties" after learning of Epstein's misconduct
-- In various statements he cited "a decade ago" (from 2019) as the end of the relationship — suggesting approximately 2007–2009
+- In various statements he cited "a decade ago" (from 2019) as the end of the relationship, suggesting approximately 2007–2009
 - His 2026 congressional statement said the split occurred "in 2007 when the Wexners learned he had been embezzling funds from them," and that Wexner "severed all connections"
 - However, documents show Wexner emailed Epstein in 2008, after Epstein's 2007 initial investigation had begun
 
 #### Legal Proceedings and the Co-Conspirator Designation
 
-**Virginia Giuffre allegations:** In a 2016 deposition unsealed in January 2024 in the Giuffre v. Maxwell civil lawsuit, Giuffre alleged that Wexner was among the men to whom Epstein trafficked her, stating she had sex with Wexner "multiple times" — "more than three and possibly more than five times." Giuffre said she was "directed to wear lingerie for Wexner by Ghislaine Maxwell." Wexner has denied ever meeting Giuffre. No charges have been filed.
+**Virginia Giuffre allegations:** In a 2016 deposition unsealed in January 2024 in the Giuffre v. Maxwell civil lawsuit, Giuffre alleged that Wexner was among the men to whom Epstein trafficked her, stating she had sex with Wexner "multiple times", "more than three and possibly more than five times." Giuffre said she was "directed to wear lingerie for Wexner by Ghislaine Maxwell." Wexner has denied ever meeting Giuffre. No charges have been filed.
 
-**FBI co-conspirator document:** An internal FBI document dated August 15, 2019 — compiled days after Epstein's death — identified Wexner as one of eight co-conspirators in the sex trafficking investigation. This document was redacted in the DOJ's initial 2025 Epstein file release but was unredacted in February 2026 following pressure from Reps. Ro Khanna (D-CA) and Thomas Massie (R-KY). A second FBI email from August 2019 noted "limited evidence regarding his involvement."
+**FBI co-conspirator document:** An internal FBI document dated August 15, 2019, compiled days after Epstein's death, identified Wexner as one of eight co-conspirators in the sex trafficking investigation. This document was redacted in the DOJ's initial 2025 Epstein file release but was unredacted in February 2026 following pressure from Reps. Ro Khanna (D-CA) and Thomas Massie (R-KY). A second FBI email from August 2019 noted "limited evidence regarding his involvement."
 
 Attorney General Pam Bondi stated that Wexner's name appears **more than 4,000 times** in the Epstein files.
 
@@ -403,13 +403,13 @@ Wexner's political spending maps cleanly onto his business and real estate inter
 
 #### The New Albany Tax Structure as Wealth Defense
 
-New Albany's political significance is not primarily about civic improvement — it is about wealth preservation and the creation of a private municipality. By obtaining city water/sewer access without annexation in 1989, Wexner and Kessler:
+New Albany's political significance is not primarily about civic improvement, it is about wealth preservation and the creation of a private municipality. By obtaining city water/sewer access without annexation in 1989, Wexner and Kessler:
 
 - Created a separate municipality with its own, well-funded school district (not Columbus's)
 - Established a property tax base benefiting from commercial development in the Business Park while keeping residential taxes under the control of wealthy homeowners
 - Developed a Business Park that grew to 3+ million square feet by 2015, generating commercial tax revenue flowing into the wealthy suburb rather than Columbus proper
 
-As Kevin Cox's 2021 book *Boomtown Columbus* documents, the explicit goal was to avoid Columbus schools — preserving a segregated educational infrastructure where children of the wealthy attend well-funded suburban schools while Columbus City Schools serve a majority-Black, working-class population on a constrained tax base.
+As Kevin Cox's 2021 book *Boomtown Columbus* documents, the explicit goal was to avoid Columbus schools, preserving a segregated educational infrastructure where children of the wealthy attend well-funded suburban schools while Columbus City Schools serve a majority-Black, working-class population on a constrained tax base.
 
 #### The Infrastructure of Influence: From Retail to State Policy
 
@@ -417,15 +417,15 @@ Wexner articulated his philosophy in a 1983 Columbus Dispatch interview: cities 
 
 This is the class analysis in miniature: a billionaire's preferred economic theory (private governance, tax incentives for the wealthy, zoning that excludes the non-wealthy) first practiced on farmland (New Albany), then executed through captured politicians (Voinovich, Kasich, DeWine), then codified as state policy through JobsOhio and the Columbus Partnership, and now scaled nationally through political allies.
 
-The Ohio Register analysis frames this as **"elite capture dressed up as innovation"** — a **"techno-feudal state"** in which public resources are directed by private interests with zero public accountability, and in which the human costs (rising utility bills, strained schools, environmental degradation, gutted public services) are borne by the non-wealthy while the gains flow upward.
+The Ohio Register analysis frames this as **"elite capture dressed up as innovation"**, a **"techno-feudal state"** in which public resources are directed by private interests with zero public accountability, and in which the human costs (rising utility bills, strained schools, environmental degradation, gutted public services) are borne by the non-wealthy while the gains flow upward.
 
 #### The Epstein Dimension of Class Power
 
-Epstein's role in this ecosystem went beyond financial management. His function was to provide credibility, access, and leverage within elite networks — the same networks from which political donations flow, appointments are made, and policies are determined. By making Wexner's money work in elite social and financial circles, Epstein became the instrument through which Wexner's retail wealth was converted into durable social capital.
+Epstein's role in this ecosystem went beyond financial management. His function was to provide credibility, access, and leverage within elite networks, the same networks from which political donations flow, appointments are made, and policies are determined. By making Wexner's money work in elite social and financial circles, Epstein became the instrument through which Wexner's retail wealth was converted into durable social capital.
 
-The "approximately a billion dollars" that Rep. Garcia estimates flowed to Epstein from Wexner — through properties, stocks, direct transfers, and charitable entities — represents the cost of purchasing that access and credibility, whether or not Wexner intended it as such.
+The "approximately a billion dollars" that Rep. Garcia estimates flowed to Epstein from Wexner, through properties, stocks, direct transfers, and charitable entities, represents the cost of purchasing that access and credibility, whether or not Wexner intended it as such.
 
-Whether Wexner was a victim, an enabler, or something more complicit remains a matter of ongoing legal and investigative proceedings. As Wexner himself told the House Oversight Committee: "Bank robbers don't rob one bank... there's more there. I can understand why people like myself, who were robbed, don't want to be mentioned."
+Whether Wexner was a victim, an enabler, or something more complicit remains a matter of ongoing legal and investigative proceedings. As Wexner himself told the House Oversight Committee: "Bank robbers don't rob one bank. there's more there. I can understand why people like myself, who were robbed, don't want to be mentioned."
 
 ---
 
@@ -493,8 +493,8 @@ Whether Wexner was a victim, an enabler, or something more complicit remains a m
 - [NBC News: "Epstein Saga Engulfs Les Wexner, Ohio" (February 2026)](https://www.nbcnews.com/politics/politics-news/epstein-saga-engulfs-les-wexner-ohio-rcna258821) (Tier 2) (VERIFIED)
 - [Business Insider: "Victoria's Secret Founder Gave Epstein Power of Attorney" (July 2019)](https://www.businessinsider.com/victorias-secret-wexner-gave-power-of-attorney-to-epstein-report-2019-7) (Tier 2) (VERIFIED)
 - [Business Insider: "How Epstein Bought the NYC Townhouse" (July 2019)](https://www.businessinsider.com/jeffrey-epstein-bought-nyc-townhouse-how-2019-7) (Tier 2) (VERIFIED)
-- ~~[Politico: "Former Victoria's Secret CEO Testifies on Epstein Relationship" (February 19, 2026)](https://www.politico.com/news/2026/02/19/former-victoria-secret-ceo-testifies-jeffrey-epstein-relationship-00789913)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
-- ~~[New York Times: "Wexner Deposed by House Democrats on Epstein Files" (February 18, 2026)](https://www.nytimes.com/2026/02/18/us/politics/wexner-epstein-deposition.html)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[Politico: "Former Victoria's Secret CEO Testifies on Epstein Relationship" (February 19, 2026)](https://www.politico.com/news/2026/02/19/former-victoria-secret-ceo-testifies-jeffrey-epstein-relationship-00789913)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[New York Times: "Wexner Deposed by House Democrats on Epstein Files" (February 18, 2026)](https://www.nytimes.com/2026/02/18/us/politics/wexner-epstein-deposition.html)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [PBS NewsHour: "House Democrats Speak After Wexner Deposition" (February 2026)](https://www.pbs.org/newshour/nation/watch-les-wexners-full-deposition-to-house-democrats-on-the-epstein-files) (Tier 2) (VERIFIED)
 - [WOSU: "Several Ohio Politicians Donate Money Given to Their Campaigns by Les and Abigail Wexner" (February 16, 2026)](https://www.wosu.org/politics-government/2026-02-16/several-ohio-politicians-donate-money-given-to-their-campaigns-by-les-and-abigail-wexner) (Tier 2) (VERIFIED)
 - [WOSU: "Ohio Nurses Association Calls on Ohio State to Remove Les Wexner's Name From Campus Buildings" (February 22, 2026)](https://www.wosu.org/politics-government/2026-02-22/ohio-nurses-association-calls-on-ohio-state-remove-les-wexners-name-from-campus-buildings) (Tier 2) (VERIFIED)
@@ -508,13 +508,13 @@ Whether Wexner was a victim, an enabler, or something more complicit remains a m
 #### Tier 3 (Secondary Reporting)
 
 - [Times of Israel: "Wexner Foundation Paid Ehud Barak $2.3 Million for Two Reports, Only One Completed" (February 2020)](https://www.timesofisrael.com/wexner-foundation-2-3-million-to-barak-was-for-2-reports-1-wasnt-finished/) (Tier 3) (VERIFIED)
-- ~~[Electronic Intifada: "Leaked Document Exposes Pro-Israel Lobby's Manipulation of U.S. Public" (Luntz document analysis)](https://electronicintifada.net/content/leaked-document-exposes-pro-israel-lobbys-manipulation-us-public/4540)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3)
+- ~~[Electronic Intifada: "Leaked Document Exposes Pro-Israel Lobby's Manipulation of U.S. Public" (Luntz document analysis)](https://electronicintifada.net/content/leaked-document-exposes-pro-israel-lobbys-manipulation-us-public/4540)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
 - [Al Jazeera: "Les Wexner: How the Billionaire Enabled Jeffrey Epstein's Rise" (February 2026)](https://www.aljazeera.com/news/2026/2/19/les-wexner-how-the-billionaire-enabled-jeffrey-epsteins-rise) (Tier 3) (VERIFIED)
-- ~~[Axios Columbus: "Les Wexner Jeffrey Epstein Ties Testimony" (February 2026)](https://www.axios.com/local/columbus/2026/02/18/les-wexner-jeffrey-epstein-ties-testimony)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3)
+- ~~[Axios Columbus: "Les Wexner Jeffrey Epstein Ties Testimony" (February 2026)](https://www.axios.com/local/columbus/2026/02/18/les-wexner-jeffrey-epstein-ties-testimony)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
 - [Signal Ohio: "Les Wexner Deposed by House Oversight Committee Over Epstein Ties"](https://signalohio.org/les-wexner-deposed-by-house-oversight-committee-over-epstein-ties/) (Tier 3) (VERIFIED)
 - [ABC6 / WSYX: "Ohio Politicians Distance Themselves From Wexner Donations" (February 2026)](https://abc6onyourside.com/news/local/ohio-politicians-distance-themselves-from-wexner-donations-as-campaign-records-reviewed) (Tier 3) (VERIFIED)
 - [ABC6 / WSYX: "House Oversight Committee Panel on Les Wexner and Epstein" (February 2026)](https://abc6onyourside.com/news/local/house-oversight-committee-panel-les-leslie-wexner-jeffrey-epstein-billion-dollars-l-brands-limited-victorias-secret-new-albany-billionaire-columbus-ohio) (Tier 3) (VERIFIED)
-- ~~[Forbes: "Everything We Know About Les Wexner in the Epstein Files" (February 16, 2026)](https://www.forbes.com/sites/simonemelvin/2026/02/16/everything-we-know-about-les-wexner-in-the-epstein-files/)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3)
+- ~~[Forbes: "Everything We Know About Les Wexner in the Epstein Files" (February 16, 2026)](https://www.forbes.com/sites/simonemelvin/2026/02/16/everything-we-know-about-les-wexner-in-the-epstein-files/)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
 - [Yahoo News / NBC4: "Lawmakers Return Campaign Contributions from Les Wexner" (February 2026)](https://www.yahoo.com/news/articles/lawmakers-return-campaign-contributions-les-222820793.html) (Tier 3) (VERIFIED)
 - [InfluenceWatch: "Wexner Foundation" (Foundation advocacy mapping)](https://www.influencewatch.org/non-profit/wexner-foundation/) (Tier 3) (VERIFIED)
 - [Town & Country: "Jeffrey Epstein Townhouse Upper East Side" (Real estate history)](https://www.townandcountrymag.com/society/a28340797/jeffrey-epstein-townhouse-upper-east-side/) (Tier 3) (VERIFIED)
@@ -526,7 +526,7 @@ Whether Wexner was a victim, an enabler, or something more complicit remains a m
 
 #### Tier 4 (Specialized/Partisan Sources)
 
-- [epsteinsphone.com: Court Filings Compilation — Power of Attorney Documents](https://epsteinsphone.com/documents/correspondence/victoria-s-secret-les-wexner-power-of-attorney-severance-correspondence) (Tier 4) (VERIFIED)
+- [epsteinsphone.com: Court Filings Compilation. Power of Attorney Documents](https://epsteinsphone.com/documents/correspondence/victoria-s-secret-les-wexner-power-of-attorney-severance-correspondence) (Tier 4) (VERIFIED)
 
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Emilia Strong Sykes Master Profile"
+title: "Emilia Strong Sykes"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

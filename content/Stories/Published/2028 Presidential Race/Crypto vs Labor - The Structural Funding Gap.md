@@ -8,7 +8,7 @@ parent: null
 issues:
   - "Technology"
   - "Labor & Workers"
-related: "[[Georgia 2026 Senate Race]] · [[Illinois House Primaries 2026 - The PAC Laboratory]] · [[New York House Races 2026]] · [[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]] · [[AIPAC Illinois Shell PAC Operation]] · [[Harris-Newsom Donor Class Fracture]] · [[Intra-Democratic Contradiction Map - The Progressive vs Moderate Illusion]] · [[Geographic Donor Clustering - Where the Money Actually Comes From]] · [[Fairshake PAC]] · [[Think Big AI PAC]] · [[Intra-Republican Contradiction Map]] · [[Trump-Newsom Donor Class Mirror - Same Money, Different Rhetoric]] · [[Schumer-McConnell Senate Leadership Mirror - Same Money, Different Caucuses]] · [[Pelosi-McCarthy House Leadership Mirror - Same Corporate Apparatus, Different Brand]] · [[How Money Captures Media — The Donor Map Media Pipeline]] · [[Booker-Scott Donor Class Mirror - Two Black Senators, One Donor Class]] · [[Tech Billionaires Switch Parties on Regulatory Self-Interest]] · [[Schwarzman and Singer Fund Every Republican Faction]] · [[Crypto Industry Buys Both Parties in One Cycle]] · [[ALEC Legislative Language Layer - Who Actually Writes the Laws]] · [[2028 Presidential Landscape]] · [[Illinois 2026 Senate Race]]"
+related: "[[Georgia 2026 Senate Race]] · [[Illinois House Primaries 2026 - The PAC Laboratory]] · [[New York House Races 2026]] · [[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]] · [[AIPAC Illinois Shell PAC Operation]] · [[Harris-Newsom Donor Class Fracture]] · [[Intra-Democratic Contradiction Map - The Progressive vs Moderate Illusion]] · [[Geographic Donor Clustering - Where the Money Actually Comes From]] · [[Fairshake PAC]] · [[Think Big AI PAC]] · [[Intra-Republican Contradiction Map]] · [[Trump-Newsom Donor Class Mirror - Same Money, Different Rhetoric]] · [[Schumer-McConnell Senate Leadership Mirror - Same Money, Different Caucuses]] · [[Pelosi-McCarthy House Leadership Mirror - Same Corporate Apparatus, Different Brand]] · [[How Money Captures Media , The Donor Map Media Pipeline]] · [[Booker-Scott Donor Class Mirror - Two Black Senators, One Donor Class]] · [[Tech Billionaires Switch Parties on Regulatory Self-Interest]] · [[Schwarzman and Singer Fund Every Republican Faction]] · [[Crypto Industry Buys Both Parties in One Cycle]] · [[ALEC Legislative Language Layer - Who Actually Writes the Laws]] · [[2028 Presidential Landscape]] · [[Illinois 2026 Senate Race]]"
 ---
 #2028-election #crypto #labor #fairshake #funding-gap #class-analysis
 
@@ -37,7 +37,7 @@ The comparison: Fairshake $271M (single PAC, single industry, 2026 midterms only
 
 ### Fairshake's War Chest and Trajectory
 
-Fairshake accumulated $193M+ on hand as of January 2026, with $271M already deployed. ~~[Axios: Fairshake $193M on hand](https://www.axios.com/2026/01/28/crypto-coinbase-fairshake-pac)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2) [CNBC: Fairshake $116M on hand](https://www.cnbc.com/2025/01/30/crypto-pac-fairshake-has-116-million-on-hand-for-2026-elections.html) (Tier 2) (VERIFIED) This means:
+Fairshake accumulated $193M+ on hand as of January 2026, with $271M already deployed. ~~[Axios: Fairshake $193M on hand](https://www.axios.com/2026/01/28/crypto-coinbase-fairshake-pac)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2) [CNBC: Fairshake $116M on hand](https://www.cnbc.com/2025/01/30/crypto-pac-fairshake-has-116-million-on-hand-for-2026-elections.html) (Tier 2) (VERIFIED) This means:
 - 2026 cycle: $300M+ total firepower (deployed + on-hand combined)
 - 2028 cycle: Fairshake will likely reset with $300-500M+ war chest if crypto industry continues current funding trajectory
 
@@ -101,7 +101,7 @@ The structural question: Can labor movement rebuild membership/funding power fas
 - [Axios: Crypto PAC Fairshake has already raised $193 million for 2026](https://www.axios.com/2026/01/28/crypto-coinbase-fairshake-pac) (Tier 2) (VERIFIED)
 - [CNBC: Crypto super PAC Fairshake has $116 million on hand to grow industry's influence in 2026 election](https://www.cnbc.com/2025/01/30/crypto-pac-fairshake-has-116-million-on-hand-for-2026-elections.html) (Tier 2) (VERIFIED)
 - [Fortune: AI and Crypto spent nearly $20 million to reshape Illinois's Democratic primaries (March 2026)](https://fortune.com/2026/03/18/ai-crypto-illinois-primary-spending-fairshake-think-big-pac/) (Tier 2) (VERIFIED)
-- ~~[The Block: Crypto-focused PAC Fairshake amasses $141 million war chest ahead of 2026 elections](https://www.theblock.co/post/362685/crypto-focused-pac-fairshake-amasses-141-million-war-chest-ahead-of-2026-elections)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[The Block: Crypto-focused PAC Fairshake amasses $141 million war chest ahead of 2026 elections](https://www.theblock.co/post/362685/crypto-focused-pac-fairshake-amasses-141-million-war-chest-ahead-of-2026-elections)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Sludge: Crypto, AI, and AIPAC Set up to Smash Super PAC Spending Records](https://readsludge.com/2026/02/02/crypto-ai-and-aipac-set-up-to-smash-super-pac-spending-records/) (Tier 2) (VERIFIED)
 
 ---

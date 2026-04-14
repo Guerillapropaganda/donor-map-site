@@ -1,5 +1,5 @@
 ---
-title: "Alan Armstrong Master Profile"
+title: "Alan Armstrong"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

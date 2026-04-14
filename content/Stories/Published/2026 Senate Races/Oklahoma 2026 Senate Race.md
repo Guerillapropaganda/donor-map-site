@@ -21,13 +21,13 @@ The Republican primary proceeds under compressed timeline, with filing deadline 
 
 #### Republican Primary Field
 
-**Kevin Hern** (OK-1 Representative) emerges as the clear frontrunner. Hern secured endorsements from both Donald Trump and James Lankford—unusual alignment in a primary. Club for Growth backing amplifies his standing. He entered the race with formidable cash position: $2.23M on hand as of December 31, 2025, having raised $1.89M and spent $820K. McDonald's franchise ownership provides independent wealth base.
+**Kevin Hern** (OK-1 Representative) emerges as the clear frontrunner. Hern secured endorsements from both Donald Trump and James Lankford, unusual alignment in a primary. Club for Growth backing amplifies his standing. He entered the race with formidable cash position: $2.23M on hand as of December 31, 2025, having raised $1.89M and spent $820K. McDonald's franchise ownership provides independent wealth base.
 
 Secondary candidates include Nick Hankins, Ron Meinhardt, Tammy Swearengin, and Wayne Lonny Washington. None match Hern's fundraising trajectory or endorsement portfolio.
 
 #### Democratic Field
 
-Troy Green (nonprofit founder), Jim Priest (lawyer), and N'Kiyla "Jasmine" Thomas (nurse) contest the Democratic nomination. Minimal fundraising—Thomas raised $19,427 with $2,634 cash; Green raised $10,727 with $7,516 cash—reflects expectation of general election defeat in a +25 R state.
+Troy Green (nonprofit founder), Jim Priest (lawyer), and N'Kiyla "Jasmine" Thomas (nurse) contest the Democratic nomination. Minimal fundraising, Thomas raised $19,427 with $2,634 cash; Green raised $10,727 with $7,516 cash, reflects expectation of general election defeat in a +25 R state.
 
 ### The Money Map
 
@@ -48,17 +48,17 @@ Hern's congressional fundraising history reflects this landscape: approximately 
 
 ### The Oil State Pipeline
 
-[!contradiction] Governor Stitt's appointment of Armstrong—a career oil and gas executive—to the vacant Senate seat crystallizes a structural question about Oklahoma politics. The appointment signals that industry actors occupy not merely top-tier donor status but the offices themselves. Armstrong's ineligibility to contest his own seat under stated oath constraints underscores the tension: Oklahoma's political machinery simultaneously centers on energy sector interests while constraining their direct electoral participation.
+[!contradiction] Governor Stitt's appointment of Armstrong, a career oil and gas executive, to the vacant Senate seat crystallizes a structural question about Oklahoma politics. The appointment signals that industry actors occupy not merely top-tier donor status but the offices themselves. Armstrong's ineligibility to contest his own seat under stated oath constraints underscores the tension: Oklahoma's political machinery simultaneously centers on energy sector interests while constraining their direct electoral participation.
 
 Hern's emergence as frontrunner perpetuates rather than disrupts this pattern. His endorsements and funding stream suggest continuation of energy-aligned Senate representation.
 
 ### Cross-References
 
-- [[2026 Senate Map]] — national context for safe Republican seat
-- [[Congressional Oil & Gas Funding]] — industry patterns across federal races
-- [[Kevin Hern Profile]] — House record and constituency
-- [[Senate Special Elections 2026]] — compressed timeline dynamics
-- [[Oklahoma Political Landscape]] — state historical context
+- [[2026 Senate Map]], national context for safe Republican seat
+- [[Congressional Oil & Gas Funding]], industry patterns across federal races
+- [[Kevin Hern Profile]]. House record and constituency
+- [[Senate Special Elections 2026]], compressed timeline dynamics
+- [[Oklahoma Political Landscape]], state historical context
 
 ### Sources
 

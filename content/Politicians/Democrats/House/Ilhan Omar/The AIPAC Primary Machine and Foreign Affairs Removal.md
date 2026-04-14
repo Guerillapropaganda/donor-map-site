@@ -85,8 +85,8 @@ The precedent is structural: if a party controls the House, it can remove any me
 
 ### Sources
 
-- ~~[Congress.gov: H.Res.76. Removing Omar from Foreign Affairs](https://www.congress.gov/bill/118th-congress/house-resolution/76)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
-- ~~[Congress.gov: Ilhan Omar member page](https://www.congress.gov/member/ilhan-omar/O000173)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[Congress.gov: H.Res.76. Removing Omar from Foreign Affairs](https://www.congress.gov/bill/118th-congress/house-resolution/76)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- ~~[Congress.gov: Ilhan Omar member page](https://www.congress.gov/member/ilhan-omar/O000173)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [FEC Candidate: Ilhan Omar campaign finance summary](https://www.fec.gov/data/candidate/H8MN05239/) (Tier 1) (VERIFIED)
 - [OpenSecrets: Minnesota District 05 2022 race summary](https://www.opensecrets.org/races/summary?cycle=2022&id=MN05) (Tier 1) (VERIFIED)
 - [OpenSecrets: United Democracy Project PAC profile 2024](https://www.opensecrets.org/political-action-committees-pacs/united-democracy-project/C00799031/summary/2024) (Tier 1) (VERIFIED)

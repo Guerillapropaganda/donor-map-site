@@ -6,7 +6,7 @@ last-updated: '2026-04-11'
 
 # Story Seeds
 
-Auto-generated story ideas surfaced by `scripts/contradiction-miner.cjs` and related scripts. Each file here is a pre-written "kernel" of a potential story — a headline, the evidence, and a suggested angle — so Research Claude (or David) can pick one up and expand it into a full piece without starting from scratch.
+Auto-generated story ideas surfaced by `scripts/contradiction-miner.cjs` and related scripts. Each file here is a pre-written "kernel" of a potential story, a headline, the evidence, and a suggested angle, so Research Claude (or David) can pick one up and expand it into a full piece without starting from scratch.
 
 ## Rules
 
@@ -16,7 +16,7 @@ Auto-generated story ideas surfaced by `scripts/contradiction-miner.cjs` and rel
 
 ## Categories
 
-- `both-sides-*` — same entity in donors AND opposes (structural contradiction)
-- `cross-party-*` — donors who fund both major parties simultaneously
-- `issue-contradiction-*` — politicians whose issue tags contradict their donor list
-- `committee-capture-*` — donors funding 3+ members of the same committee
+- `both-sides-*`, same entity in donors AND opposes (structural contradiction)
+- `cross-party-*`, donors who fund both major parties simultaneously
+- `issue-contradiction-*`, politicians whose issue tags contradict their donor list
+- `committee-capture-*`, donors funding 3+ members of the same committee

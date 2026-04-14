@@ -94,7 +94,7 @@ The Williams Companies (NYSE: WMB) is a Fortune 500 energy infrastructure compan
 
 ### What They Want
 
-Williams wants to maintain and expand natural gas pipeline infrastructure, position natural gas as a "transition fuel" (a framing that delays the actual energy transition), and block regulations that would reduce gas demand or increase pipeline construction costs. Their $7.3B "Power Innovation" investment — targeting $1.4B in EBITDA by 2029 — aims to lock in gas-fired power generation as the backup for renewables, ensuring continued pipeline throughput for decades.
+Williams wants to maintain and expand natural gas pipeline infrastructure, position natural gas as a "transition fuel" (a framing that delays the actual energy transition), and block regulations that would reduce gas demand or increase pipeline construction costs. Their $7.3B "Power Innovation" investment, targeting $1.4B in EBITDA by 2029, aims to lock in gas-fired power generation as the backup for renewables, ensuring continued pipeline throughput for decades.
 
 ---
 
@@ -135,7 +135,7 @@ Williams wants to maintain and expand natural gas pipeline infrastructure, posit
 
 ### Class Analysis
 
-Williams Companies represents the "moderate face" of fossil fuel political spending — more bipartisan than Enterprise Products at the state level, positioned around the "transition fuel" narrative rather than outright climate denial. But the structural function is identical: lock in fossil fuel infrastructure for decades, ensure regulatory environments that protect pipeline investments, and capture the political class in pipeline-dependent states (Oklahoma, Louisiana, Virginia). The $7.3B Power Innovation investment is the tell — it's designed to make natural gas indispensable to the power grid, creating a structural dependency that outlasts any individual election cycle.
+Williams Companies represents the "moderate face" of fossil fuel political spending, more bipartisan than Enterprise Products at the state level, positioned around the "transition fuel" narrative rather than outright climate denial. But the structural function is identical: lock in fossil fuel infrastructure for decades, ensure regulatory environments that protect pipeline investments, and capture the political class in pipeline-dependent states (Oklahoma, Louisiana, Virginia). The $7.3B Power Innovation investment is the tell, it's designed to make natural gas indispensable to the power grid, creating a structural dependency that outlasts any individual election cycle.
 
 ---
 
@@ -145,11 +145,11 @@ Williams Companies represents the "moderate face" of fossil fuel political spend
 - [Williams: Leadership](https://www.williams.com/leadership/) (Tier 3) (VERIFIED)
 - [Williams: 2024 Corporate Contributions](https://www.williams.com/wp-content/uploads/sites/8/2025/04/2024-Coporate-Contributions_Year-End.pdf) (Tier 1) (VERIFIED)
 - [Wikipedia: Williams Companies](https://en.wikipedia.org/wiki/Williams_Companies) (Tier 4) (VERIFIED)
-- ~~[Yahoo Finance: WMB Financials](https://finance.yahoo.com/quote/WMB/financials/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[Yahoo Finance: WMB Financials](https://finance.yahoo.com/quote/WMB/financials/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [CompaniesMarketCap: Williams Companies](https://companiesmarketcap.com/williams-companies/marketcap/) (Tier 3) (VERIFIED)
 - [OpenSecrets: Williams Companies PAC](https://www.opensecrets.org/political-action-committees-pacs/williams-companies/C00040394/candidate-recipients/2024) (Tier 1) (VERIFIED)
 - [TradingView: Williams record 2025 results](https://www.tradingview.com/news/tradingview:cccba52eb204a:0-williams-companies-reports-record-financial-results-for-2025/) (Tier 3) (VERIFIED)
-- ~~[Reuters: Williams 2026 profit outlook](https://www.reuters.com/business/energy/williams-sees-higher-2026-profit-pipeline-projects-drive-growth-2026-02-10/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[Reuters: Williams 2026 profit outlook](https://www.reuters.com/business/energy/williams-sees-higher-2026-profit-pipeline-projects-drive-growth-2026-02-10/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Yahoo Finance: Williams lawsuit against Energy Transfer](https://finance.yahoo.com/news/williams-companies-files-lawsuit-protect-103400684.html) (Tier 2) (VERIFIED)
 - [AllStreamInsiders: Williams $1.6B deal](https://allstreaminsiders.com/williams-companies-secures-1-6-billion-deal-for-natural-gas-and-power-generation/) (Tier 3) (VERIFIED)
 

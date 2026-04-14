@@ -1,5 +1,5 @@
 ---
-title: "Max L. Miller Master Profile"
+title: "Max L. Miller"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

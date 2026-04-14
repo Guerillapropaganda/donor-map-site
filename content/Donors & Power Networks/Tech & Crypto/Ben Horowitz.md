@@ -44,7 +44,7 @@ Horowitz's role is documented primarily through the combined [[Marc Andreessen &
 
 ## The Central Thesis
 
-*Stub — needs full development.*
+*Stub, needs full development.*
 
 Horowitz, alongside Andreessen, executed the most visible tech-industry political realignment of the 2024 cycle: long-time Democratic donors who publicly broke with the party over cryptocurrency regulation, AI policy, and SEC enforcement. Their July 2024 endorsement of Trump was the high-visibility pivot point. The structural significance: unlike traditional single-issue mega-donors, Horowitz funds both the Fairshake crypto network AND the Leading the Future AI super PAC (which he co-founded with OpenAI president Greg Brockman). His political spending constitutes a dual-industry capture operation.
 
@@ -76,7 +76,7 @@ Source: [[Fairshake PAC]], [[Marc Andreessen & Horowitz]] vault entries.
 
 ---
 
-**Status:** Stub created 2026-04-09 to preserve vault connections. Horowitz is currently grouped with Andreessen in `[[Marc Andreessen & Horowitz]]` — this standalone profile preserves individual attribution for contribution records and distinct roles (Horowitz took public lead on Trump endorsement rhetoric). Full build-out requires separating his individual political giving from the combined a16z total.
+**Status:** Stub created 2026-04-09 to preserve vault connections. Horowitz is currently grouped with Andreessen in `[[Marc Andreessen & Horowitz]]`, this standalone profile preserves individual attribution for contribution records and distinct roles (Horowitz took public lead on Trump endorsement rhetoric). Full build-out requires separating his individual political giving from the combined a16z total.
 
 ### Federal Court Records (CourtListener)
 <!-- auto:courtlistener-cases start -->

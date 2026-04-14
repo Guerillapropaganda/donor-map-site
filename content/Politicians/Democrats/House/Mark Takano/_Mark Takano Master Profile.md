@@ -4,7 +4,7 @@ type: politician
 bioguide-id: T000472
 content-readiness: ready
 central-thesis: >-
-  Mark Takano is the PACT Act's Democratic architect — the chairman who
+  Mark Takano is the PACT Act's Democratic architect , the chairman who
   shepherded the largest VA healthcare expansion in decades through committee
   and into law. His donor profile is modest: labor unions, teachers' unions,
   LGBTQ advocacy groups, and...
@@ -48,7 +48,7 @@ donors:
 
 ## Who They Are
 
-Mark Takano represents California's 39th Congressional District (Riverside, Moreno Valley, Jurupa Valley, Perris) and is the Ranking Member of the House Veterans' Affairs Committee. He chaired the committee in the 117th Congress (2021-2023), during which the PACT Act — the largest expansion of VA benefits in decades — was signed into law.
+Mark Takano represents California's 39th Congressional District (Riverside, Moreno Valley, Jurupa Valley, Perris) and is the Ranking Member of the House Veterans' Affairs Committee. He chaired the committee in the 117th Congress (2021-2023), during which the PACT Act, the largest expansion of VA benefits in decades, was signed into law.
 
 Takano was the first openly gay person of color elected to Congress (2012). Before Congress, he spent 24 years as a high school English teacher in Riverside. He holds a degree from Harvard and an MFA from UC Riverside. His district is home to March Air Reserve Base and a large veteran population.
 
@@ -58,9 +58,9 @@ He is also known for introducing the 32-Hour Workweek Act (four-day work week le
 
 ## The Central Thesis
 
-Mark Takano is the PACT Act's Democratic architect — the chairman who shepherded the largest VA healthcare expansion in decades through committee and into law. His donor profile is modest: labor unions, teachers' unions, LGBTQ advocacy groups, and small donors. No private healthcare industry money drives his VA agenda. No defense contractor money shapes his committee work.
+Mark Takano is the PACT Act's Democratic architect, the chairman who shepherded the largest VA healthcare expansion in decades through committee and into law. His donor profile is modest: labor unions, teachers' unions, LGBTQ advocacy groups, and small donors. No private healthcare industry money drives his VA agenda. No defense contractor money shapes his committee work.
 
-The analytical interest is the PACT Act's fate after Takano lost the chairmanship. Bost (R) inherited oversight of PACT Act implementation — and then acquiesced to DOGE cutting 83,000 VA workers, including the staff hired to implement Takano's law. Takano, as RM, can hold hearings, issue statements, and demand accountability — but he cannot stop the cuts. The progressive who built the law watches from the minority as the administration guts the workforce to implement it. The structural powerlessness of the RM position is the story.
+The analytical interest is the PACT Act's fate after Takano lost the chairmanship. Bost (R) inherited oversight of PACT Act implementation, and then acquiesced to DOGE cutting 83,000 VA workers, including the staff hired to implement Takano's law. Takano, as RM, can hold hearings, issue statements, and demand accountability, but he cannot stop the cuts. The progressive who built the law watches from the minority as the administration guts the workforce to implement it. The structural powerlessness of the RM position is the story.
 
 ---
 
@@ -88,7 +88,7 @@ The analytical interest is the PACT Act's fate after Takano lost the chairmanshi
 5. LGBTQ advocacy organizations
 
 ### Key Organizational Contributors:
-1. Teachers' unions (NEA, AFT — reflects 24-year teaching career)
+1. Teachers' unions (NEA, AFT, reflects 24-year teaching career)
 2. Equality PAC / LGBTQ Victory Fund
 3. Public sector unions (AFSCME, AFGE)
 4. Democratic leadership PACs
@@ -106,26 +106,26 @@ The analytical interest is the PACT Act's fate after Takano lost the chairmanshi
 ### Pipeline: PACT Act → Implementation Under Threat
 | Date | Type | Event | Donor | Amount | Gap |
 |------|------|-------|-------|--------|-----|
-| 2013-2024 | DONATION | Career labor union, education, LGBTQ advocacy contributions | Progressive coalition | Modest total | — |
-| 2021 | ROLE | Named House Veterans' Affairs Committee Chair | — | — | — |
-| 2022-08 | ← POLICY | PACT Act signed into law — largest VA healthcare expansion in decades, covering 3.5M toxic-exposed veterans | — | — | — |
-| 2023 | ROLE | Loses chairmanship to Bost (R) — becomes RM | — | — | — |
-| 2025-03 | ← THREAT | DOGE announces 83,000 VA employee cuts including PACT Act staff | — | — | — |
-| 2025 | ← RESPONSE | Takano "slams" VA workforce cuts, demands accountability — but has no institutional power to stop them | — | — | — |
-| 2025 | ← NOTE | The PACT Act's author watches from the minority as the workforce to implement his law is gutted. Legislative achievement without institutional power to defend it. | — | — | — |
+| 2013-2024 | DONATION | Career labor union, education, LGBTQ advocacy contributions | Progressive coalition | Modest total |, |
+| 2021 | ROLE | Named House Veterans' Affairs Committee Chair |, |, |, |
+| 2022-08 | ← POLICY | PACT Act signed into law, largest VA healthcare expansion in decades, covering 3.5M toxic-exposed veterans |, |, |, |
+| 2023 | ROLE | Loses chairmanship to Bost (R), becomes RM |, |, |, |
+| 2025-03 | ← THREAT | DOGE announces 83,000 VA employee cuts including PACT Act staff |, |, |, |
+| 2025 | ← RESPONSE | Takano "slams" VA workforce cuts, demands accountability, but has no institutional power to stop them |, |, |, |
+| 2025 | ← NOTE | The PACT Act's author watches from the minority as the workforce to implement his law is gutted. Legislative achievement without institutional power to defend it. |, |, |, |
 
 ### Pipeline: LGBTQ Advocacy → VA Inclusivity
 | Date | Type | Event | Donor | Amount | Gap |
 |------|------|-------|-------|--------|-----|
-| 2012-2024 | DONATION | Equality PAC, Victory Fund, LGBTQ advocacy organizations | LGBTQ donors | Significant | — |
-| 2013-2024 | ← POLICY | Advocates for VA services for LGBTQ veterans, transgender healthcare, inclusive VA culture | — | — | Ongoing |
-| 2024 | ← NOTE | First openly gay person of color in Congress using Veterans' Affairs Committee to expand VA inclusion — donor alignment with policy agenda, no corporate intermediary. | — | — | — |
+| 2012-2024 | DONATION | Equality PAC, Victory Fund, LGBTQ advocacy organizations | LGBTQ donors | Significant |, |
+| 2013-2024 | ← POLICY | Advocates for VA services for LGBTQ veterans, transgender healthcare, inclusive VA culture |, |, | Ongoing |
+| 2024 | ← NOTE | First openly gay person of color in Congress using Veterans' Affairs Committee to expand VA inclusion, donor alignment with policy agenda, no corporate intermediary. |, |, |, |
 
 ---
 
 ## Analytical Patterns
 
-**Genuine Win + Structural Limit:** The PACT Act is a genuine, historic win — 3.5 million toxic-exposed veterans gained healthcare access. The structural limit: the law's implementation depends on executive branch staffing that the opposition party's administration is cutting. Takano can write laws but not control their implementation when Republicans hold the White House. The institutional gap between legislation and execution is the structural limit.
+**Genuine Win + Structural Limit:** The PACT Act is a genuine, historic win, 3.5 million toxic-exposed veterans gained healthcare access. The structural limit: the law's implementation depends on executive branch staffing that the opposition party's administration is cutting. Takano can write laws but not control their implementation when Republicans hold the White House. The institutional gap between legislation and execution is the structural limit.
 
 **Anti-Pattern (Takano vs. Bost/Moran):** Takano is the anti-pattern to both Bost and Moran. Same committee (Veterans' Affairs), opposite donor bases (unions/progressives vs. Koch/healthcare industry), opposite policy orientations (defend public VA vs. privatize through community care). The comparison proves the vault's thesis: the money determines the policy. When veterans' committee leaders are funded by the Koch network and healthcare industry, VA privatization advances. When they're funded by unions and progressive organizations, public VA healthcare is defended.
 
@@ -145,18 +145,18 @@ Takano's class position as a former teacher is not incidental. He spent 24 years
 
 ## Rhetorical Signature Moves
 
-**"We made a promise to our veterans"** — The covenant framing for VA benefits. The function: make PACT Act implementation sound like honoring a sacred obligation rather than a budget line item — making cuts feel like broken promises.
+**"We made a promise to our veterans"**. The covenant framing for VA benefits. The function: make PACT Act implementation sound like honoring a sacred obligation rather than a budget line item, making cuts feel like broken promises.
 
-**"As a teacher, I know"** — The professional credential that connects 24 years in the classroom to policy work. The function: ground his progressive agenda in middle-class credibility.
+**"As a teacher, I know"**. The professional credential that connects 24 years in the classroom to policy work. The function: ground his progressive agenda in middle-class credibility.
 
-**"The VA is not broken — it's being broken"** — The active-voice framing for DOGE cuts. The function: distinguish between genuine reform and intentional destruction — the VA doesn't need to be privatized, it needs to be properly staffed and funded.
+**"The VA is not broken, it's being broken"**. The active-voice framing for DOGE cuts. The function: distinguish between genuine reform and intentional destruction, the VA doesn't need to be privatized, it needs to be properly staffed and funded.
 
 ---
 
 ## Sources
 
 - [FEC Candidate: Mark Takano donor profile](https://www.fec.gov/data/candidate/H2CA43245/) (Tier 1) (VERIFIED)
-- ~~[Congress.gov: Mark Takano](https://www.congress.gov/member/mark-takano/T000472)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[Congress.gov: Mark Takano](https://www.congress.gov/member/mark-takano/T000472)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [House Veterans' Affairs Democrats: Ranking Member Takano](https://democrats-veterans.house.gov/about/ranking-member) (Tier 1) (VERIFIED)
 - [House.gov: Takano biography](https://takano.house.gov/about) (Tier 1) (VERIFIED)
 - [House VA Democrats: Takano slams VA effort to take away veteran autonomy](https://democrats-veterans.house.gov/news/press-releases/ranking-member-takano-slams-va-effort-to-take-away-veteran-autonomy) (Tier 1) (VERIFIED)

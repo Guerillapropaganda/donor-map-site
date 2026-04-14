@@ -26,7 +26,7 @@ CVS Health Corporation. A vertically integrated healthcare giant with $357 billi
 
 CVS PAC contributes $2-3 million per cycle and the company spends $10-12 million annually on lobbying, making it one of the top healthcare lobbying spenders in America.
 
-- ~~[OpenSecrets: CVS Health organizational profile](https://www.opensecrets.org/orgs/cvs-health/summary?id=D000024650)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[OpenSecrets: CVS Health organizational profile](https://www.opensecrets.org/orgs/cvs-health/summary?id=D000024650)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 
 ---
 
@@ -66,7 +66,7 @@ CVS Health represents the complete vertical capture of the prescription drug sup
 ### Sources
 
 - [OpenSecrets: CVS Health organizational profile](https://www.opensecrets.org/orgs/cvs-health/summary?id=D000024650) (Tier 1)
-- ~~[OpenSecrets: CVS Health lobbying expenditures](https://www.opensecrets.org/orgs/cvs-health/lobbying?id=D000024650)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[OpenSecrets: CVS Health lobbying expenditures](https://www.opensecrets.org/orgs/cvs-health/lobbying?id=D000024650)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [FTC: PBM market concentration study](https://www.ftc.gov/reports/pharmacy-benefit-managers-report) (Tier 1) (VERIFIED)
 - [DOJ: CVS-Aetna merger review](https://www.justice.gov/archives/opa/pr/justice-department-requires-cvs-and-aetna-divest-aetna-s-medicare-individual-part-d) (Tier 1) (VERIFIED)
 - ~~[STAT News: CVS vertical integration and healthcare pricing](https://www.statnews.com/cvs-vertical-integration/)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 2)

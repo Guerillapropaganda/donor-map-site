@@ -73,9 +73,9 @@ The needs-reenrichment flag has been set. The next scheduled pipeline run will p
 
 ### Who They Are
 
-New Venture Fund. A 501(c)(3) nonprofit managed by Arabella Advisors that serves as a fiscal sponsor for progressive organizations — providing legal, financial, and administrative infrastructure for advocacy campaigns that don't have their own nonprofit status. The New Venture Fund is one of the largest nonprofits in America by revenue ($900+ million in 2020), functioning as a pass-through entity that receives donations from progressive foundations and individuals and distributes them to hundreds of projects.
+New Venture Fund. A 501(c)(3) nonprofit managed by Arabella Advisors that serves as a fiscal sponsor for progressive organizations, providing legal, financial, and administrative infrastructure for advocacy campaigns that don't have their own nonprofit status. The New Venture Fund is one of the largest nonprofits in America by revenue ($900+ million in 2020), functioning as a pass-through entity that receives donations from progressive foundations and individuals and distributes them to hundreds of projects.
 
-New Venture Fund is part of the Arabella Advisors network that includes the Sixteen Thirty Fund (501(c)(4) for political advocacy), the Windward Fund (environmental), the Hopewell Fund (government accountability), and the North Fund. Together, the Arabella network managed $3+ billion in spending from 2020-2022 — making it the largest dark money operation on the progressive side.
+New Venture Fund is part of the Arabella Advisors network that includes the Sixteen Thirty Fund (501(c)(4) for political advocacy), the Windward Fund (environmental), the Hopewell Fund (government accountability), and the North Fund. Together, the Arabella network managed $3+ billion in spending from 2020-2022, making it the largest dark money operation on the progressive side.
 
 The "dark money" designation: like conservative counterparts (DonorsTrust, Marble Freedom Trust), New Venture Fund allows donors to contribute to progressive causes without public disclosure of their identities. The fund's 501(c)(3) status provides tax deductions; the fiscal sponsorship model allows rapid creation of advocacy campaigns without the overhead of forming new organizations.
 
@@ -84,7 +84,7 @@ The "dark money" designation: like conservative counterparts (DonorsTrust, Marbl
 
 ---
 
-### Financial Overview (990 Filing — 2023)
+### Financial Overview (990 Filing, 2023)
 <!-- auto:propublica-990 start -->
 
 | Metric | Amount |

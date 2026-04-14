@@ -1,5 +1,5 @@
 ---
-title: "Donald S. Beyer Master Profile"
+title: "Donald S. Beyer"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

@@ -41,11 +41,11 @@ related: "[[The Adelson Pipeline - Embassy, Abraham Accords, and Iran]] · [[The
 
 ### Who They Are
 
-Sheldon Adelson was the single largest individual political donor in American history at the time of his death on January 11, 2021. Casino magnate who founded and controlled Las Vegas Sands Corporation — operator of The Venetian Las Vegas, Marina Bay Sands (Singapore), and multiple Macau casinos. Lifetime political giving exceeded $500 million, nearly 100% to Republicans.
+Sheldon Adelson was the single largest individual political donor in American history at the time of his death on January 11, 2021. Casino magnate who founded and controlled Las Vegas Sands Corporation, operator of The Venetian Las Vegas, Marina Bay Sands (Singapore), and multiple Macau casinos. Lifetime political giving exceeded $500 million, nearly 100% to Republicans.
 
-His widow Miriam Adelson inherited the political operation and a net worth of approximately $37.8 billion. After a brief disengagement during 2021-2022, she returned as a dominant force in 2024, pouring $100-106 million into the Preserve America PAC supporting Trump. The "Adelson primary" — Republican presidential candidates seeking her blessing — resumed with full force.
+His widow Miriam Adelson inherited the political operation and a net worth of approximately $37.8 billion. After a brief disengagement during 2021-2022, she returned as a dominant force in 2024, pouring $100-106 million into the Preserve America PAC supporting Trump. The "Adelson primary". Republican presidential candidates seeking her blessing, resumed with full force.
 
-The Adelsons' structural innovation is not the amount of money. It is the specificity of the transaction. Sheldon Adelson didn't fund Republicans generically. He purchased specific foreign policy outcomes — Jerusalem embassy, Golan Heights recognition, JCPOA withdrawal, Abraham Accords — and received them. Trump acknowledged this publicly, calling the embassy move "the most important thing I think that's ever happened in their life."
+The Adelsons' structural innovation is not the amount of money. It is the specificity of the transaction. Sheldon Adelson didn't fund Republicans generically. He purchased specific foreign policy outcomes. Jerusalem embassy, Golan Heights recognition, JCPOA withdrawal, Abraham Accords, and received them. Trump acknowledged this publicly, calling the embassy move "the most important thing I think that's ever happened in their life."
 
 ---
 
@@ -55,7 +55,7 @@ The Adelsons' policy agenda is Israel-first, with secondary interests in protect
 
 **Hardline Israel policy:** Jerusalem as undivided Israeli capital (achieved 2017). Golan Heights recognition (achieved 2019). Abraham Accords normalization (achieved 2020). JCPOA withdrawal and maximum pressure on Iran (achieved 2018). West Bank annexation support (reportedly conditioned on 2024 donations, officially denied by spokesperson).
 
-**Anti-online gambling:** Sheldon's Las Vegas Sands faced direct revenue threat from legalized online gambling. He founded the Coalition to Stop Internet Gambling (2013), funded RAWA legislation (introduced by Lindsey Graham and Jason Chaffetz), and leveraged political relationships to slow online gambling legalization. The DOJ reconsidered its 2011 Wire Act opinion in 2019, mid-government-shutdown — a move The Intercept called an "Adelson gift."
+**Anti-online gambling:** Sheldon's Las Vegas Sands faced direct revenue threat from legalized online gambling. He founded the Coalition to Stop Internet Gambling (2013), funded RAWA legislation (introduced by Lindsey Graham and Jason Chaffetz), and leveraged political relationships to slow online gambling legalization. The DOJ reconsidered its 2011 Wire Act opinion in 2019, mid-government-shutdown, a move The Intercept called an "Adelson gift."
 
 **Republican infrastructure investment:** Senate Leadership Fund ($50M), Congressional Leadership Fund ($40M), RNC ($888K), Republican Jewish Coalition ($3M, funding half the RJC Victory Fund).
 
@@ -75,15 +75,15 @@ The Adelsons' policy agenda is Israel-first, with secondary interests in protect
 
 **Lifetime total (2010-2021, Sheldon):** $500+ million federal spending
 **Giving since 2016 (Sheldon alone):** $424 million
-**Last 5 years of Sheldon's life (2016-2020):** $280 million to House and Senate Republicans' main super PACs alone — **over one-third of Congressional Leadership Fund, nearly one-quarter of Senate Leadership Fund** (~~[Politico](https://www.politico.com/news/2021/01/12/adelson-super-pac-gop-458380)~~ (URL broken, archived by Ops), Tier 2)
+**Last 5 years of Sheldon's life (2016-2020):** $280 million to House and Senate Republicans' main super PACs alone, **over one-third of Congressional Leadership Fund, nearly one-quarter of Senate Leadership Fund** (~~[Politico](https://www.politico.com/news/2021/01/12/adelson-super-pac-gop-458380)~~ (URL broken, archived by Ops), Tier 2)
 **2024 (Miriam alone):** $140M+ total federal contributions; $106M to Preserve America PAC, which spent $92M through September alone ([OpenSecrets](https://www.opensecrets.org/outside-spending/donor_detail/2024?id=U0000000310&name=Adelson,+Miriam+O.&super_only=N&type=I) (VERIFIED), Tier 1)
 
 #### Key Recipients
 
 **Presidential:** Trump (dominant), briefly Gingrich (2012 primary)
-**Senate:** $50 million to Senate Leadership Fund (benefits entire GOP Senate caucus). Direct support for David Perdue (GA) — $1.5M to Georgia Action Fund (over one-third of fund). 2024: $15M to Senate Leadership Fund
+**Senate:** $50 million to Senate Leadership Fund (benefits entire GOP Senate caucus). Direct support for David Perdue (GA), $1.5M to Georgia Action Fund (over one-third of fund). 2024: $15M to Senate Leadership Fund
 **House:** $40 million to Congressional Leadership Fund (first-term), $10M to CLF (2024)
-**Party infrastructure:** RNC ($888K), Republican Jewish Coalition ($3M — half the Victory Fund, extended with $5M 2024 RJC Victory Fund)
+**Party infrastructure:** RNC ($888K), Republican Jewish Coalition ($3M, half the Victory Fund, extended with $5M 2024 RJC Victory Fund)
 **Super PACs:** Preserve America ($106M 2024), Truth & Courage ($2M 2024), Hardworking Americans ($1M 2024)
 
 **Democratic support:** Functionally zero. One documented instance of an Adelson-backed Texas gambling PAC giving $59K to a Democratic state legislator on a gambling-specific issue.
@@ -110,7 +110,7 @@ The Adelson investment produced the most dramatic shift in US-Israel policy sinc
 | May 2018 | Trump withdraws from JCPOA (Iran nuclear deal) | Adelson's stated #1 policy priority | 17 months |
 | Mar 2019 | Trump recognizes Israeli sovereignty over Golan Heights | No concessions requested by Israel | 27 months |
 | Sep 2020 | Abraham Accords signed (UAE, Bahrain) | $172.7M 2020 cycle spending | 48 months |
-| 2024 | West Bank annexation support reportedly discussed | $100M+ Miriam donation | — |
+| 2024 | West Bank annexation support reportedly discussed | $100M+ Miriam donation |, |
 | 2025-2026 | Iran military operations escalate | Adelson was most prominent Iran hawk donor | Legacy |
 
 > [!money]
@@ -121,13 +121,13 @@ The Adelson investment produced the most dramatic shift in US-Israel policy sinc
 
 #### The Online Gambling Block
 
-Adelson's anti-online gambling campaign produced tangible but temporary results. The DOJ's 2019 reconsideration of the Wire Act opinion opened the door for states to restrict online gambling — a direct policy win. His political beneficiaries (Graham, Chaffetz) introduced RAWA legislation. But states ultimately moved toward legalization anyway, and Las Vegas Sands itself pivoted after Sheldon's death.
+Adelson's anti-online gambling campaign produced tangible but temporary results. The DOJ's 2019 reconsideration of the Wire Act opinion opened the door for states to restrict online gambling, a direct policy win. His political beneficiaries (Graham, Chaffetz) introduced RAWA legislation. But states ultimately moved toward legalization anyway, and Las Vegas Sands itself pivoted after Sheldon's death.
 
 ---
 
 ### The Republican Jewish Coalition as Power Base
 
-Adelson didn't just fund the RJC — he transformed it into a parallel Israel lobby infrastructure. When he broke with AIPAC in 2007 (citing disagreement over Palestinian aid), he redirected funding to more hardline channels.
+Adelson didn't just fund the RJC, he transformed it into a parallel Israel lobby infrastructure. When he broke with AIPAC in 2007 (citing disagreement over Palestinian aid), he redirected funding to more hardline channels.
 
 ### The Adelson alternative to AIPAC:
 - Republican Jewish Coalition ($3M, half the Victory Fund)
@@ -145,11 +145,11 @@ The Adelsons represent the purest form of donor-class policy capture in the vaul
 
 The mechanism is direct: concentrated wealth ($37.8B net worth) → massive political spending ($524M+) → specific policy demands stated on the record → policy implemented within 12-17 months of major donations → public acknowledgment by the president that the policy was delivered in exchange for the money.
 
-The casino empire provides the structural context. Las Vegas Sands' Macau operations generated the fortune. The political operation then protected brick-and-mortar casino interests (anti-online gambling) while pursuing ideological goals (Israel policy). The two tracks are inseparable — Adelson's business interests required political relationships, and those relationships enabled his ideological agenda.
+The casino empire provides the structural context. Las Vegas Sands' Macau operations generated the fortune. The political operation then protected brick-and-mortar casino interests (anti-online gambling) while pursuing ideological goals (Israel policy). The two tracks are inseparable. Adelson's business interests required political relationships, and those relationships enabled his ideological agenda.
 
-Miriam's continuation of the operation after Sheldon's death confirms this is institutional, not personal. The $37.8 billion fortune and the political infrastructure survived the founder. The "Adelson primary" — candidates seeking her blessing — resumed in 2024 as if Sheldon had never died. The donor class reproduces itself.
+Miriam's continuation of the operation after Sheldon's death confirms this is institutional, not personal. The $37.8 billion fortune and the political infrastructure survived the founder. The "Adelson primary", candidates seeking her blessing, resumed in 2024 as if Sheldon had never died. The donor class reproduces itself.
 
-The Adelson model's most dangerous innovation is its transparency. Most donor-to-policy pipelines require investigative journalism to expose. Adelson stated his conditions publicly, Trump acknowledged the transactions publicly, and the policies were implemented on a timeline that makes the connection undeniable. This normalization of explicit policy purchase is the Adelsons' lasting legacy — not any individual policy outcome.
+The Adelson model's most dangerous innovation is its transparency. Most donor-to-policy pipelines require investigative journalism to expose. Adelson stated his conditions publicly, Trump acknowledged the transactions publicly, and the policies were implemented on a timeline that makes the connection undeniable. This normalization of explicit policy purchase is the Adelsons' lasting legacy, not any individual policy outcome.
 
 ---
 
@@ -178,15 +178,15 @@ The Adelson model's most dangerous innovation is its transparency. Most donor-to
 - [NBC News: The Adelson Primary Returns](https://www.nbcnews.com/politics/2024-election/miriam-adelson-primary-republicans-las-vegas-rcna169762) (Tier 2) (VERIFIED)
 - [Responsible Statecraft: Trump Book Cites Adelson's Embassy Funding](https://responsiblestatecraft.org/2022/10/07/new-book-highlights-how-campaign-money-influences-us-foreign-policy/) (Tier 2) (VERIFIED)
 - [The Intercept: Adelson Gets DOJ Gift Mid-Shutdown (Online Gambling)](https://theintercept.com/2019/02/08/sheldon-adelson-online-gambling/) (Tier 2) (VERIFIED)
-- ~~[Haaretz: Trump Desperate for Adelson Cash — Conditions Reported](https://www.haaretz.com/us-news/2024-06-03/ty-article/.premium/trump-is-desperate-for-cash-but-donors-have-conditions/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[Haaretz: Trump Desperate for Adelson Cash. Conditions Reported](https://www.haaretz.com/us-news/2024-06-03/ty-article/.premium/trump-is-desperate-for-cash-but-donors-have-conditions/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Las Vegas Sun: Miriam Adelson's Swing-State Blitz](https://lasvegassun.com/news/2024/sep/24/las-vegas-miriam-adelsons-super-pac-fuels-swing-st/) (Tier 2) (VERIFIED)
 - [Revolving Door Project: Adelson Oligarchs Analysis](https://therevolvingdoorproject.org/billionaires-and-the-trump-admin-sheldon-and-miriam-adelson/) (Tier 2) (VERIFIED)
-- ~~[Times of Israel: Adelson's Unwavering Focus on Israel](https://www.timesofisrael.com/backed-by-deep-pockets-adelson-made-his-mark-with-an-unwavering-focus-on-israel/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
-- ~~[The Hill: Adelson Widow Cuts Back Donations (2022)](https://thehill.com/homenews/campaign/3626124-sheldon-adelsons-widow-cuts-back-on-gop-donations/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[Times of Israel: Adelson's Unwavering Focus on Israel](https://www.timesofisrael.com/backed-by-deep-pockets-adelson-made-his-mark-with-an-unwavering-focus-on-israel/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[The Hill: Adelson Widow Cuts Back Donations (2022)](https://thehill.com/homenews/campaign/3626124-sheldon-adelsons-widow-cuts-back-on-gop-donations/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 
 ---
 
-### Financial Overview (990 Filing — 2023)
+### Financial Overview (990 Filing, 2023)
 <!-- auto:propublica-990 start -->
 | Metric | Amount |
 |--------|--------|

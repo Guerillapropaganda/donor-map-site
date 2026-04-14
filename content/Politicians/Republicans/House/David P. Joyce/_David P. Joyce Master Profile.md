@@ -1,5 +1,5 @@
 ---
-title: "David P. Joyce Master Profile"
+title: "David P. Joyce"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

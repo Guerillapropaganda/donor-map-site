@@ -1,5 +1,5 @@
 ---
-title: "Tom Barrett Master Profile"
+title: "Tom Barrett"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

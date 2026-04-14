@@ -1,5 +1,5 @@
 ---
-title: "Lamonica McIver Master Profile"
+title: "Lamonica McIver"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

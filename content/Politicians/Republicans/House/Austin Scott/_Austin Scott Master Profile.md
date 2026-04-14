@@ -1,5 +1,5 @@
 ---
-title: "Austin Scott Master Profile"
+title: "Austin Scott"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

@@ -162,7 +162,7 @@ The man running DOGE (cutting government agencies, influencing contracts) is sim
 - 2026 Senate Races story folder
 
 ### Sources (UNVERIFIED. Chrome unavailable):
-- ~~[The Hill: Musk jumps back into political fray with big midterm donations](https://thehill.com/policy/technology/5727198-musk-political-fray-big-2026-midterm-donations/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2) (UNVERIFIED)
+- ~~[The Hill: Musk jumps back into political fray with big midterm donations](https://thehill.com/policy/technology/5727198-musk-political-fray-big-2026-midterm-donations/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2) (UNVERIFIED)
 
 ---
 

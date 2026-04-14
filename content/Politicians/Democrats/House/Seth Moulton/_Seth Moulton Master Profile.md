@@ -1,5 +1,5 @@
 ---
-title: "Seth Moulton Master Profile"
+title: "Seth Moulton"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

@@ -1,5 +1,5 @@
 ---
-title: "Glenn Ivey Master Profile"
+title: "Glenn Ivey"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

@@ -1,5 +1,5 @@
 ---
-title: "Julia Brownley Master Profile"
+title: "Julia Brownley"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

@@ -26,7 +26,7 @@ The needs-reenrichment flag has been set. The next scheduled pipeline run will p
 
 ### Who They Are
 
-Peace Officers Research Association of California. The statewide umbrella organization for local police unions — **85,000+ members across 950+ associations**, making it the largest law enforcement organization in California and the largest statewide law enforcement association in the nation. Membership dues: $30 per capita annually (state members), $9/member/month (general active). President: Brian Marvel.
+Peace Officers Research Association of California. The statewide umbrella organization for local police unions, **85,000+ members across 950+ associations**, making it the largest law enforcement organization in California and the largest statewide law enforcement association in the nation. Membership dues: $30 per capita annually (state members), $9/member/month (general active). President: Brian Marvel.
 
 PORAC operates two critical arms: a PAC for political spending and the **Legal Defense Fund (LDF)** for defending officers accused of misconduct.
 
@@ -34,20 +34,20 @@ PORAC operates two critical arms: a PAC for political spending and the **Legal D
 
 ### The Class Analysis
 
-PORAC occupies the same structural position as [[CCPOA - California Correctional Peace Officers Association|CCPOA]] and the RSA — a working-class union whose institutional function extends well beyond worker representation into blocking accountability for state violence. The LDF is the key mechanism: $20 million annually spent defending officers accused of misconduct, with $39–51 million in reserves. PORAC-funded attorneys have secured "clean-record agreements" hiding disciplinary records for **297+ officers across 163+ California police agencies**. These agreements prevent public disclosure, ensuring problem officers can be hired elsewhere.
+PORAC occupies the same structural position as [[CCPOA - California Correctional Peace Officers Association|CCPOA]] and the RSA, a working-class union whose institutional function extends well beyond worker representation into blocking accountability for state violence. The LDF is the key mechanism: $20 million annually spent defending officers accused of misconduct, with $39–51 million in reserves. PORAC-funded attorneys have secured "clean-record agreements" hiding disciplinary records for **297+ officers across 163+ California police agencies**. These agreements prevent public disclosure, ensuring problem officers can be hired elsewhere.
 
-The clean-record system is PORAC's most important institutional product — more important than any PAC contribution. It creates a parallel accountability structure that exists outside democratic oversight.
+The clean-record system is PORAC's most important institutional product, more important than any PAC contribution. It creates a parallel accountability structure that exists outside democratic oversight.
 
 ---
 
 ### What They Want
 
-— Preserve qualified immunity for police officers
-— No civilian oversight with subpoena power or access to personnel records
-— Right of officers to review body camera footage before making statements (same as RSA)
-— Favorable disciplinary procedures that keep discipline internal to departments
-— Clean-record agreements that prevent disclosure of misconduct
-— Weaken PAGA (Private Attorneys General Act) enforcement mechanisms
+, Preserve qualified immunity for police officers
+, No civilian oversight with subpoena power or access to personnel records
+, Right of officers to review body camera footage before making statements (same as RSA)
+, Favorable disciplinary procedures that keep discipline internal to departments
+, Clean-record agreements that prevent disclosure of misconduct
+, Weaken PAGA (Private Attorneys General Act) enforcement mechanisms
 
 ---
 
@@ -58,7 +58,7 @@ The clean-record system is PORAC's most important institutional product — more
 
 **Broader law enforcement spending context (2019-20 cycle):** Law enforcement unions spent **$2.7 million** in California political races. PORAC is the largest single contributor within this network.
 
-**Legal Defense Fund:** $39–51 million in reserves. Spends approximately **$20 million annually** defending officers accused of misconduct. This is not political spending in the campaign finance sense — it is institutional power that shapes the environment in which political decisions are made. [Source: unlawful Legal News / UC Berkeley — Tier 2]
+**Legal Defense Fund:** $39–51 million in reserves. Spends approximately **$20 million annually** defending officers accused of misconduct. This is not political spending in the campaign finance sense, it is institutional power that shapes the environment in which political decisions are made. [Source: unlawful Legal News / UC Berkeley. Tier 2]
 
 **Research partially confirmed.** Direct Newsom contributions documented ($47.1K combined with LAPPL); collective law enforcement spending documented ($2.1M+ recall, $2.7M 2019-20); LDF reserves documented. **Remaining:** Full PORAC-specific cycle-by-cycle contributions via Cal-Access, PORAC lobbyist registration and expenditures.
 
@@ -66,41 +66,41 @@ The clean-record system is PORAC's most important institutional product — more
 
 ### What They've Gotten
 
-— **AB 392 (use of force, 2019):** Initially opposed → negotiated down → shifted to neutral. Newsom signed the weakened version. The reform happened within bounds PORAC helped set.
-— **SB 2 (police decertification):** PORAC opposed qualified immunity reforms. Outcome shaped by police union negotiations.
-— **AB 847 (civilian oversight, 2025):** Opposed → negotiated confidentiality protections into final bill → shifted to neutral. Newsom signed.
-— **Clean-record agreements:** 297+ officers across 163+ agencies shielded from public disclosure of misconduct — the system continues operating.
-— **No comprehensive civilian oversight:** Despite reform pressure after 2020, no statewide civilian oversight body with independent investigative power exists.
+, **AB 392 (use of force, 2019):** Initially opposed → negotiated down → shifted to neutral. Newsom signed the weakened version. The reform happened within bounds PORAC helped set.
+, **SB 2 (police decertification):** PORAC opposed qualified immunity reforms. Outcome shaped by police union negotiations.
+, **AB 847 (civilian oversight, 2025):** Opposed → negotiated confidentiality protections into final bill → shifted to neutral. Newsom signed.
+, **Clean-record agreements:** 297+ officers across 163+ agencies shielded from public disclosure of misconduct, the system continues operating.
+, **No comprehensive civilian oversight:** Despite reform pressure after 2020, no statewide civilian oversight body with independent investigative power exists.
 
-**Pattern:** PORAC opposes reform, negotiates it down to terms the union can live with, shifts to neutral, Newsom signs the weakened version. The reform happens — but always within bounds the police unions set. This is how incremental reform works as a containment strategy: change enough to defuse political pressure, not enough to change the power structure.
+**Pattern:** PORAC opposes reform, negotiates it down to terms the union can live with, shifts to neutral, Newsom signs the weakened version. The reform happens, but always within bounds the police unions set. This is how incremental reform works as a containment strategy: change enough to defuse political pressure, not enough to change the power structure.
 
 ---
 
 ### Enemies / Opposition
 
-— ACLU of California — police accountability litigation
-— Anti-Police Terror Project — community organizing
-— justice system reform coalitions pushing civilian oversight
-— Families of people killed by police
-— UC Berkeley investigative journalism (clean-record agreements exposé)
-— Assembly members pushing stronger oversight bills
+, ACLU of California, police accountability litigation
+, Anti-Police Terror Project, community organizing
+, justice system reform coalitions pushing civilian oversight
+, Families of people killed by police
+, UC Berkeley investigative journalism (clean-record agreements exposé)
+, Assembly members pushing stronger oversight bills
 
 ---
 
 ### Connected Policy Areas
 
-justice system — police reform, use of force, qualified immunity, civilian oversight
-2026 Governor Race — law enforcement union endorsements will shape the race; if Bianco (RSA-backed) runs, PORAC's statewide network becomes directly relevant
-Clean-Record Agreements — the most underreported mechanism of police union power in California
+justice system, police reform, use of force, qualified immunity, civilian oversight
+2026 Governor Race, law enforcement union endorsements will shape the race; if Bianco (RSA-backed) runs, PORAC's statewide network becomes directly relevant
+Clean-Record Agreements, the most underreported mechanism of police union power in California
 
 ---
 
 ### Sources
 
-- ~~[CalMatters: Cop cash — law enforcement campaign contributions](https://calmatters.org/category/politics/2022/03/california-law-enforcement-campaign-contributions/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[CalMatters: Cop cash, law enforcement campaign contributions](https://calmatters.org/category/politics/2022/03/california-law-enforcement-campaign-contributions/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [UC Berkeley Journalism: PORAC clean-record agreements](https://journalism.berkeley.edu/projects/this-is-the-secret-system-that-covers-up-police-misconduct-and-ensures-problem-officers-can-get-hired-again/) (Tier 2) (VERIFIED)
 - [Courage California Institute: Police union spending](https://couragecaliforniainstitute.org/investing-in-public-safety-the-influence-of-police-unions-and-associations/) (Tier 2) (VERIFIED)
-- ~~[FollowTheMoney.org: PORAC political spending](https://followthemoney.org/?q=PORAC)~~ (was FollowTheMoney — site merged into OpenSecrets, all URLs dead) (Tier 1)
+- ~~[FollowTheMoney.org: PORAC political spending](https://followthemoney.org/?q=PORAC)~~ (was FollowTheMoney, site merged into OpenSecrets, all URLs dead) (Tier 1)
 
 ### Federal Subawards & Spending Breakdown
 

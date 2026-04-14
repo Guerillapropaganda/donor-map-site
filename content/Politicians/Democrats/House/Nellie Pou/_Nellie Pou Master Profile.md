@@ -1,5 +1,5 @@
 ---
-title: "Nellie Pou Master Profile"
+title: "Nellie Pou"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

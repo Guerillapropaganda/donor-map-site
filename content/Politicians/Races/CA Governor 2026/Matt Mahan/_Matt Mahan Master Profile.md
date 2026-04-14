@@ -1,8 +1,8 @@
 ---
-title: "Matt Mahan Master Profile"
+title: "Matt Mahan"
 type: politician
 content-readiness: draft
-central-thesis: "Matt Mahan is the Silicon Valley donor class's preferred candidate for California governor. His campaign is not funded by tech billionaires because he happens to be from San Jose — it's funded by tech billionaires because his policy platform serve..."
+central-thesis: "Matt Mahan is the Silicon Valley donor class's preferred candidate for California governor. His campaign is not funded by tech billionaires because he happens to be from San Jose , it's funded by tech billionaires because his policy platform serve..."
 last-updated: 2026-04-09
 source-tier: 1
 parent: null
@@ -31,7 +31,7 @@ donors: [[Peter Thiel]] · [[Marc Andreessen & Horowitz]]
 
 ## Who He Is
 
-Matt Mahan. San Jose Mayor (2023–present). Democrat. Former tech CEO — founded Causes (Facebook civic engagement app, 190 million users), co-founded Brigade Media. Harvard graduate (same class as Zuckerberg). Teach for America alum (middle school English/History, Alum Rock). Running for California governor 2026.
+Matt Mahan. San Jose Mayor (2023–present). Democrat. Former tech CEO, founded Causes (Facebook civic engagement app, 190 million users), co-founded Brigade Media. Harvard graduate (same class as Zuckerberg). Teach for America alum (middle school English/History, Alum Rock). Running for California governor 2026.
 
 **The numbers:** $8.5 million raised directly + $24 million in total support including outside spending. 25+ billionaire donors. 86% of all billionaire donations in the governor's race flow to Mahan.
 
@@ -52,25 +52,25 @@ Matt Mahan. San Jose Mayor (2023–present). Democrat. Former tech CEO — found
 
 ## Analytical Patterns
 
-**The Genuine Win + Structural Limit** — Mahan's San Jose housing deregulation produced real housing permits and real units built (30-day permitting, cap on fees). These are genuine. But they stop short of solving housing affordability: units are market-rate, not affordable; the cap on fees is modest relative to total development costs; the policy benefits developers more than housing-insecure residents. The structural limit: housing deregulation without affordability requirements or public ownership provides the appearance of housing action while serving developer interests.
+**The Genuine Win + Structural Limit**. Mahan's San Jose housing deregulation produced real housing permits and real units built (30-day permitting, cap on fees). These are genuine. But they stop short of solving housing affordability: units are market-rate, not affordable; the cap on fees is modest relative to total development costs; the policy benefits developers more than housing-insecure residents. The structural limit: housing deregulation without affordability requirements or public ownership provides the appearance of housing action while serving developer interests.
 
-**The Villain Framing** — Mahan frames California's problems (housing shortage, cost of living) as caused by external villains (overregulation, "red tape," government inefficiency) rather than structural capital decisions (landlords extracting rent, developers prioritizing profit). The solution, in his framing, is removing regulatory barriers so capital can operate freely. This deflects class analysis (who profits from housing scarcity, who is harmed by market pricing) onto procedural efficiency.
+**The Villain Framing**. Mahan frames California's problems (housing shortage, cost of living) as caused by external villains (overregulation, "red tape," government inefficiency) rather than structural capital decisions (landlords extracting rent, developers prioritizing profit). The solution, in his framing, is removing regulatory barriers so capital can operate freely. This deflects class analysis (who profits from housing scarcity, who is harmed by market pricing) onto procedural efficiency.
 
 ---
 
 ## Donor Class Map
 
 ### The Billionaire Network:
-- [[The Silicon Valley Billionaire Donor Map]] — 25+ billionaires, $8.6M+ direct, $24M+ total. Sergey Brin, Garry Tan, David Baszucki, Rick Caruso, Kyle Vogt, Marc Merrill, Chris Wanstrath. The concentration is extraordinary: 86% of all billionaire donations in the race.
+- [[The Silicon Valley Billionaire Donor Map]], 25+ billionaires, $8.6M+ direct, $24M+ total. Sergey Brin, Garry Tan, David Baszucki, Rick Caruso, Kyle Vogt, Marc Merrill, Chris Wanstrath. The concentration is extraordinary: 86% of all billionaire donations in the race.
 
 ### The Thiel Pipeline:
-- [[The Thiel-Adjacent Tech Pipeline]] — Joe Lonsdale (Palantir co-founder, $78,400 max), Matthew Grimm (Palantir early hire + [[Mithril Capital|Mithril Capital]] principal, $20,000 with wife). The same Thiel network that produced [[_JD Vance Master Profile|JD Vance]] is now investing in Mahan.
+- [[The Thiel-Adjacent Tech Pipeline]]. Joe Lonsdale (Palantir co-founder, $78,400 max), Matthew Grimm (Palantir early hire + [[Mithril Capital|Mithril Capital]] principal, $20,000 with wife). The same Thiel network that produced [[_JD Vance Master Profile|JD Vance]] is now investing in Mahan.
 
 ### The Outside Money:
-- [[Tech Industry Policy Alignment and the Billionaire Tax Fight]] — "California Back to Basics" independent expenditure committee: $4.8M in TV ads. Funded by Michael Moritz ($2M+), Paul Buchheit (Gmail creator, $1M), Michael Seibel (YC partner), Rick Caruso. Garry Tan's "Garry's List" voter education nonprofit — dark money support for "common-sense pro-growth" candidates.
+- [[Tech Industry Policy Alignment and the Billionaire Tax Fight]], "California Back to Basics" independent expenditure committee: $4.8M in TV ads. Funded by Michael Moritz ($2M+), Paul Buchheit (Gmail creator, $1M), Michael Seibel (YC partner), Rick Caruso. Garry Tan's "Garry's List" voter education nonprofit, dark money support for "common-sense pro-growth" candidates.
 
 ### The Career Pipeline:
-- [[From Causes to Governor - The Tech Career to Politics Pipeline]] — Founded Causes (Facebook app), co-founded Brigade Media. Harvard → Teach for America → tech startups → city council → mayor → governor. The career path that turns a tech entrepreneur into a political product.
+- [[From Causes to Governor - The Tech Career to Politics Pipeline]]. Founded Causes (Facebook app), co-founded Brigade Media. Harvard → Teach for America → tech startups → city council → mayor → governor. The career path that turns a tech entrepreneur into a political product.
 
 ---
 
@@ -80,10 +80,10 @@ Matt Mahan. San Jose Mayor (2023–present). Democrat. Former tech CEO — found
 
 | Date | Donor | Amount | Given | Policy Outcome |
 |------|-------|--------|-------|----------------|
-| 2024-06 | Tech billionaire donor class (policy signal) | N/A — policy precedes donation | 2024-06 | Mahan opposes California billionaire wealth tax (5% one-time); frames as "capital flight" risk — signals to 25+ billionaires he'll protect their margins |
+| 2024-06 | Tech billionaire donor class (policy signal) | N/A, policy precedes donation | 2024-06 | Mahan opposes California billionaire wealth tax (5% one-time); frames as "capital flight" risk, signals to 25+ billionaires he'll protect their margins |
 | 2025-01 | Garry Tan, David Baszucki, Kyle Vogt, Marc Merrill, Chris Wanstrath | Early maxed-out donations | 2025-01 (weeks after tax opposition) | Tech billionaires respond directly to billionaire tax opposition; donations arrive within weeks of policy signal |
-| 2025-03 | Sergey Brin (Google co-founder), Rick Caruso + 25 billionaires total | $8.6M+ direct; 86% of all billionaire donations in governor's race | 2025-01 to 2025-03 | Mahan captures 86% of billionaire donations — donor concentration highest in the race |
-| 2025-04 | Joe Lonsdale (Palantir co-founder), Matthew Grimm (Palantir/[[Mithril Capital]]) | $98,400 (Thiel-adjacent) | 2025-04 | Thiel network enters Mahan's donor base — Palantir/defense tech money joins Silicon Valley consumer tech |
+| 2025-03 | Sergey Brin (Google co-founder), Rick Caruso + 25 billionaires total | $8.6M+ direct; 86% of all billionaire donations in governor's race | 2025-01 to 2025-03 | Mahan captures 86% of billionaire donations, donor concentration highest in the race |
+| 2025-04 | Joe Lonsdale (Palantir co-founder), Matthew Grimm (Palantir/[[Mithril Capital]]) | $98,400 (Thiel-adjacent) | 2025-04 | Thiel network enters Mahan's donor base. Palantir/defense tech money joins Silicon Valley consumer tech |
 | 2025-09 | AI companies in donor network (policy return) | Part of $24M+ total | Ongoing | Mahan continues AI deregulation position: "upskilling courses rather than restrictions"; light-touch tech governance benefits donor network directly |
 
 #### Dark Money / Outside Spending
@@ -91,13 +91,13 @@ Matt Mahan. San Jose Mayor (2023–present). Democrat. Former tech CEO — found
 | Date | Donor | Amount | Given | Policy Outcome |
 |------|-------|--------|-------|----------------|
 | 2025-06 | "California Back to Basics" IE committee: Michael Moritz ($2M+), Paul Buchheit ($1M), Michael Seibel (YC), Rick Caruso | $4.8M in TV ads | 2025-06 | Independent expenditure committee with neutral name launders tech billionaire money into statewide TV advertising |
-| 2026-03 | Garry Tan's "Garry's List" voter education nonprofit | Dark money (amount undisclosed) | 2025-2026 | "Common-sense pro-growth" voter education — dark money support vehicle for Mahan-aligned candidates |
+| 2026-03 | Garry Tan's "Garry's List" voter education nonprofit | Dark money (amount undisclosed) | 2025-2026 | "Common-sense pro-growth" voter education, dark money support vehicle for Mahan-aligned candidates |
 
 #### Real Estate / Housing Deregulation
 
 | Date | Donor | Amount | Given | Policy Outcome |
 |------|-------|--------|-------|----------------|
-| 2023-01 | Real estate developers in donor network | Part of mayoral campaign funding | 2022 cycle | Mahan implements housing deregulation as San Jose mayor: 30-day permit requirements, fee caps, tax holiday for infill construction — benefits developer class directly |
+| 2023-01 | Real estate developers in donor network | Part of mayoral campaign funding | 2022 cycle | Mahan implements housing deregulation as San Jose mayor: 30-day permit requirements, fee caps, tax holiday for infill construction, benefits developer class directly |
 
 > [!money]
 > The Mahan sequence shows the tax fight as the defining donor-to-policy moment: Mahan announces opposition to the billionaire tax → 25+ billionaires max out contributions within weeks → the sequence is explicit enough that Mahan himself acknowledged the policy first ("I'm all for taxing billionaires, but..."). The "but" is the key word: it is the linguistic delimiter between the populist frame and the billionaire-class interest. Every subsequent policy (housing deregulation, AI non-regulation, light-touch tech governance) benefits the same donor network. The 86% billionaire donation concentration is not coincidence — it is confirmation that the tech class found its candidate.
@@ -106,7 +106,7 @@ Matt Mahan. San Jose Mayor (2023–present). Democrat. Former tech CEO — found
 
 ### The Billionaire Tax Fight
 
-Mahan's opposition to California's proposed billionaire tax (5% one-time tax on billionaires) is the defining policy position of his campaign — and the most revealing.
+Mahan's opposition to California's proposed billionaire tax (5% one-time tax on billionaires) is the defining policy position of his campaign, and the most revealing.
 
 ### His stated positions:
 - "We need a rising economic tide to lift all boats, not a political plan that will sink California's innovation economy"
@@ -121,7 +121,7 @@ Mahan's opposition to California's proposed billionaire tax (5% one-time tax on 
 
 ### San Jose Mayor Record
 
-- **Housing:** Opposed broad single-family zoning elimination. Proposed "Smart Growth" — housing near transit and jobs, not suburban sprawl. Two-year tax holiday for infill construction. Cap on fees for new housing. 30-day permit requirements.
+- **Housing:** Opposed broad single-family zoning elimination. Proposed "Smart Growth", housing near transit and jobs, not suburban sprawl. Two-year tax holiday for infill construction. Cap on fees for new housing. 30-day permit requirements.
 - **Homelessness:** Reduced affordable housing funds to prioritize temporary shelter and quick-build communities. Redirected Measure E funds toward temporary homeless housing.
 - **Tech governance:** Established GovAI Coalition for government tech vendor oversight. Declined facial recognition use. Regular data deletion protocols.
 - **AI:** Acknowledges displacement concerns but opposes regulation that would slow innovation. Advocates AI upskilling courses rather than restrictions.
@@ -135,13 +135,13 @@ The pattern: every policy creates regulatory certainty for tech industry investm
 1. **"Common sense" framing:** Every position is presented as pragmatic rather than ideological. The tech industry's preferred regulatory environment becomes "common sense governance."
 2. **The bootstrap narrative:** Harvard → Teach for America → tech founder → mayor. Emphasizes public service origins to obscure that his political career is funded by the wealthiest people in California.
 3. **The local success story:** "What I did in San Jose, I can do for California." Scales mayoral accomplishments to statewide platform without acknowledging that the donor base scales too.
-4. **The billionaire tax dodge:** "I'm all for taxing billionaires, but..." The "but" always leads to a solution that cannot be implemented at the level of office he's seeking.
+4. **The billionaire tax dodge:** "I'm all for taxing billionaires, but." The "but" always leads to a solution that cannot be implemented at the level of office he's seeking.
 
 ---
 
 ## Sources
 
-- ~~[FollowTheMoney.org: Matt Mahan 2026 Campaign Finance](https://www.followthemoney.org/show-me?s=CA&y=2024&c-r-ot=U&d-cci=Matt%20Mahan#[%7B1%7Cgro=d-id)~~ (was FollowTheMoney — site merged into OpenSecrets, all URLs dead) (Tier 1)
+- ~~[FollowTheMoney.org: Matt Mahan 2026 Campaign Finance](https://www.followthemoney.org/show-me?s=CA&y=2024&c-r-ot=U&d-cci=Matt%20Mahan#[%7B1%7Cgro=d-id)~~ (was FollowTheMoney, site merged into OpenSecrets, all URLs dead) (Tier 1)
 - [OpenSecrets: Matt Mahan campaign finance](https://www.opensecrets.org/members-of-congress/summary?displayname=Matt%20Mahan) (Tier 1) (VERIFIED)
 - ABC7 San Francisco: tech billionaire donor investigation (Tier 2)
 - [San José Spotlight: Billionaire techies back Matt Mahan campaign](https://sanjosespotlight.com/billionaire-techies-back-matt-mahans-california-governor-campaign/) (Tier 2) (VERIFIED)

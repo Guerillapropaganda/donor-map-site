@@ -1,5 +1,5 @@
 ---
-title: "Donald G. Davis Master Profile"
+title: "Donald G. Davis"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

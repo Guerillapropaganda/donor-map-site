@@ -42,7 +42,7 @@ The critical point: Husted continued accepting donations from Wexner and voted t
 
 ### Damage Control and Charitable Response
 
-After the controversy erupted in early 2026, Husted's campaign responded with a charitable donation narrative. Husted claimed he would donate the Wexner money to charity and later reported that he had donated $34,300 in combined contributions from Les and Abigail Wexner to Freedom a la Cart Cafe, a Columbus-based nonprofit that provides workforce training and services for survivors of sex trafficking. ~~[Source: NBC4](https://www.nbc4i.com/news/your-local-election-hq/jon-husted-sitting-on-2-6-million-for-2026-u-s-senate-race-as-sherrod-brown-mulls-run/)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3).
+After the controversy erupted in early 2026, Husted's campaign responded with a charitable donation narrative. Husted claimed he would donate the Wexner money to charity and later reported that he had donated $34,300 in combined contributions from Les and Abigail Wexner to Freedom a la Cart Cafe, a Columbus-based nonprofit that provides workforce training and services for survivors of sex trafficking. ~~[Source: NBC4](https://www.nbc4i.com/news/your-local-election-hq/jon-husted-sitting-on-2-6-million-for-2026-u-s-senate-race-as-sherrod-brown-mulls-run/)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3).
 
 This response exemplifies the donor-accountability contradiction: the donation was "problematic," so it gets laundered through a charitable organization with mission-alignment to trafficking survivors. But the structural problem remains, Husted accepted the money in the first place and voted accordingly. The charitable donation is damage control, not accountability.
 
@@ -64,7 +64,7 @@ This pattern exemplifies why campaign finance accountability matters: Wexner's c
 - [Tiffin Ohio: Husted took donations from Epstein 'co-conspirator' Les Wexner, then voted to block file release](https://tiffinohio.net/posts/husted-took-donations-from-epstein-co-conspirator-les-wexner-then-voted-to-block-file-release/) (Tier 2) (VERIFIED)
 - [The New Republic: MAGA Senator Took Donation From Epstein Friend Before Key Vote](https://newrepublic.com/post/206564/maga-senator-donation-epstein-conspirator-vote-block-files) (Tier 2) (VERIFIED)
 - [Ohio Democrats: Jon Husted Scrambles Following Report He Took $116K From Epstein Co-Conspirator](https://ohiodems.org/jon-husted-scrambles-following-report-he-took-116k-directly-from-epstein-co-conspirator/) (Tier 4) (VERIFIED)
-- ~~[NBC4: Jon Husted sitting on $2.6 million for 2026 U.S. Senate race](https://www.nbc4i.com/news/your-local-election-hq/jon-husted-sitting-on-2-6-million-for-2026-u-s-senate-race-as-sherrod-brown-mulls-run/)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3)
+- ~~[NBC4: Jon Husted sitting on $2.6 million for 2026 U.S. Senate race](https://www.nbc4i.com/news/your-local-election-hq/jon-husted-sitting-on-2-6-million-for-2026-u-s-senate-race-as-sherrod-brown-mulls-run/)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
 - [WKYC/WTOL: Wexner questioned about contributions during deposition](https://www.wkyc.com/article/news/local/ohio/wexner-explains-contributions-husted-campaigns-deposition/530-34af01b3-19fc-4ade-88d6-7473e0eefdb7) (Tier 3) (VERIFIED)
 
 ---

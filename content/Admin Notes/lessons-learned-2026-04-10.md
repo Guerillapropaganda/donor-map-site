@@ -1,5 +1,5 @@
 ---
-title: Lessons Learned — 2026-04-10
+title: Lessons Learned , 2026-04-10
 type: admin-note
 note-type: research
 priority: normal
@@ -9,7 +9,7 @@ created-by: Research Claude
 tags: [postmortem, operating-rules, data-integrity]
 ---
 
-# Lessons Learned — 2026-04-10
+# Lessons Learned, 2026-04-10
 
 Documenting red flags and good ideas from the Apr 9-10 sprint kickoff so future sessions don't re-learn them. Each entry has a short description and an actionable prevention rule.
 
@@ -21,7 +21,7 @@ This file is append-only. When a new session discovers a new red flag or good id
 
 ### 1. YAML folded-scalar syntax on structured fields breaks the merge script
 
-**What happened:** Yesterday's `consolidate-dual-related-fields.py` captured the YAML folded-scalar marker `>-` as literal text inside a quoted string when re-writing parsed values. On 2 profiles that used the folded-scalar format (`related: >-` with indented continuation lines), the script produced `related: ">- · [[Link]]"` with the `>-` INSIDE the quoted string, which YAML then re-parsed as another folded scalar — breaking the entire frontmatter block. **Every push since then failed the Quartz build for hours before anyone noticed.**
+**What happened:** Yesterday's `consolidate-dual-related-fields.py` captured the YAML folded-scalar marker `>-` as literal text inside a quoted string when re-writing parsed values. On 2 profiles that used the folded-scalar format (`related: >-` with indented continuation lines), the script produced `related: ">- · [[Link]]"` with the `>-` INSIDE the quoted string, which YAML then re-parsed as another folded scalar, breaking the entire frontmatter block. **Every push since then failed the Quartz build for hours before anyone noticed.**
 
 **Affected files (fixed):** Tucker Carlson, Hillary Clinton.
 
@@ -36,14 +36,14 @@ This file is append-only. When a new session discovers a new red flag or good id
 
 ### 2. Vault-wide DOJ contamination was invisible for weeks
 
-**What happened:** 177 profiles had the SAME ~264,413 "DOJ Press Mentions" number from the DOJ API returning the index size instead of actual matches. Every profile with a `auto:doj-press` block was polluted. Nobody noticed because each profile looked "real." The bug was only discovered when reviewing Ayanna Pressley closely during a depth review — her block showed random DOJ press releases about drug trafficking and tax fraud that had nothing to do with her.
+**What happened:** 177 profiles had the SAME ~264,413 "DOJ Press Mentions" number from the DOJ API returning the index size instead of actual matches. Every profile with a `auto:doj-press` block was polluted. Nobody noticed because each profile looked "real." The bug was only discovered when reviewing Ayanna Pressley closely during a depth review, her block showed random DOJ press releases about drug trafficking and tax fraud that had nothing to do with her.
 
 **The fix:** Code Claude engine-level sanity cap (commit `d1ceb91`) rejects results >10K as API index-size bug and validates 60% name match. Research Claude vault-layer sweep stripped all 177 contaminated blocks (Research Claude lane: editorial cleanup).
 
 **Prevention rules:**
-1. **When pipelines populate numeric fields, spot-check absurd values.** A hedge fund with 7,670 DOD contracts, a congresswoman with 264K DOJ mentions, a profile with 0 bills sponsored when frontmatter says 39 — these are all signs of contamination. Any value >10K for a single entity mention count should be treated as suspect.
+1. **When pipelines populate numeric fields, spot-check absurd values.** A hedge fund with 7,670 DOD contracts, a congresswoman with 264K DOJ mentions, a profile with 0 bills sponsored when frontmatter says 39, these are all signs of contamination. Any value >10K for a single entity mention count should be treated as suspect.
 2. **Pipeline sanity caps should be deployed at the engine layer, not hand-cleaned per profile.** Code Claude's approach was correct: fix the root cause first, then clean the vault-layer data, then let fresh pipeline runs repopulate cleanly.
-3. **When a contamination pattern is found on one profile, sweep vault-wide for the same pattern.** Pressley's 264K mentions led to finding 177 more. Don't assume you got lucky — assume the bug is systemic.
+3. **When a contamination pattern is found on one profile, sweep vault-wide for the same pattern.** Pressley's 264K mentions led to finding 177 more. Don't assume you got lucky, assume the bug is systemic.
 
 ---
 

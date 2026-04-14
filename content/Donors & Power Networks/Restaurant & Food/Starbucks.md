@@ -89,7 +89,7 @@ Reduced NLRB enforcement power, opposition to the PRO Act (which would strengthe
 ### Sources
 
 - [NLRB: Starbucks unfair labor practice complaints](https://www.nlrb.gov/case/02-CA-261884) (Tier 1) (VERIFIED)
-- ~~[OpenSecrets: Starbucks lobbying](https://www.opensecrets.org/orgs/starbucks/summary?id=D000042571)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[OpenSecrets: Starbucks lobbying](https://www.opensecrets.org/orgs/starbucks/summary?id=D000042571)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [Ballotpedia: Starbucks labor practices](https://ballotpedia.org/Starbucks) (Tier 3) (VERIFIED)
 
 ---

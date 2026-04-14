@@ -1,5 +1,5 @@
 ---
-title: "Nikki Budzinski Master Profile"
+title: "Nikki Budzinski"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

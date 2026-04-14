@@ -1,5 +1,5 @@
 ---
-title: "David McCormick Master Profile"
+title: "David McCormick"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

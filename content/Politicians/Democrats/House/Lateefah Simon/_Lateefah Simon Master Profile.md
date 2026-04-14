@@ -1,5 +1,5 @@
 ---
-title: "Lateefah Simon Master Profile"
+title: "Lateefah Simon"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

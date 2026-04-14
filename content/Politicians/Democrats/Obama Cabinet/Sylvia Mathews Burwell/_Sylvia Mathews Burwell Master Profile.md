@@ -1,5 +1,5 @@
 ---
-title: "Sylvia Mathews Burwell Master Profile"
+title: "Sylvia Mathews Burwell"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

@@ -141,9 +141,9 @@ The Hastings funding also shows **donor-class override of constituency interests
 
 ### Sources
 
-- ~~[OpenSecrets: Reed Hastings donor profile](https://www.opensecrets.org/individuals/reed-hastings/summary)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[OpenSecrets: Reed Hastings donor profile](https://www.opensecrets.org/individuals/reed-hastings/summary)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [Capital & Main: Reed Hastings. Netflix CEO Goes Nuclear on Public Schools](https://capitalandmain.com/reed-hastings-the-disrupter-1101) (Tier 2) (VERIFIED)
-- ~~[CalMatters: Education foes fight to a draw in Sacramento](https://calmatters.org/category/education/2017/09/education-foes-fight-draw-sacramento/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[CalMatters: Education foes fight to a draw in Sacramento](https://calmatters.org/category/education/2017/09/education-foes-fight-draw-sacramento/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Ballotpedia: Charter school funding by mega-donors](https://ballotpedia.org/School_choice) (Tier 3) (VERIFIED)
 
 ---

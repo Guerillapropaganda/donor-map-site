@@ -218,15 +218,15 @@ Environment, oil production, refinery regulation, environmental justice, frackin
 
 ### Sources
 
-- ~~[OpenSecrets: Chevron PAC contributions by cycle](https://www.opensecrets.org/orgs/chevron/totals?id=D000000015)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[OpenSecrets: Chevron PAC contributions by cycle](https://www.opensecrets.org/orgs/chevron/totals?id=D000000015)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [Senate LDA Filings: Chevron federal lobbying 2000–2024](https://lda.gov/filings/public/filing/search/) (Tier 1) (VERIFIED)
 - [OpenSecrets: Chevron 2024 recipients](https://www.opensecrets.org/orgs/chevron/recipients?id=D000000015) (Tier 1) (VERIFIED)
-- ~~[East Bay Times: 2012 Richmond refinery fire and settlement](https://www.eastbaytimes.com/2013/02/14/chevron-agrees-to-pay-90-million-to-settle-richmond-refinery-fire-claims/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[East Bay Times: 2012 Richmond refinery fire and settlement](https://www.eastbaytimes.com/2013/02/14/chevron-agrees-to-pay-90-million-to-settle-richmond-refinery-fire-claims/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [ProPublica: Chevron California cap-and-trade lobbying and union quid pro quo](https://www.propublica.org/article/cap-and-trade-is-supposed-to-solve-climate-change-but-oil-and-gas-company-emissions-are-up) (Tier 2) (VERIFIED)
 - [Richmond Confidential: Chevron California spending since 2009](https://richmondconfidential.org/2016/11/23/new-report-criticizes-chevrons-spending-in-california-politics/) (Tier 2) (VERIFIED)
 - [Daily Kos/Climate Center: California oil lobbying 2025](https://www.dailykos.com/stories/2026/2/10/2368011/-Chevron-and-Big-Oil-spend-a-total-of-34-million-to-lobby-california-officials-in-2025) (Tier 2) (VERIFIED)
 - [ProPublica: CARE front group cap-and-trade lobbying](https://www.propublica.org/article/cap-and-trade-is-supposed-to-solve-climate-change-but-oil-and-gas-company-emissions-are-up) (Tier 2) (VERIFIED)
-- ~~[New York Times: Chevron Myanmar sanctions lobbying](https://www.nytimes.com/2021/04/22/us/politics/chevron-myanmar-sanctions.html)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[New York Times: Chevron Myanmar sanctions lobbying](https://www.nytimes.com/2021/04/22/us/politics/chevron-myanmar-sanctions.html)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [ICIJ: Chevron/ExxonMobil Cardin-Lugar anti-corruption rule opposition](https://www.icij.org/investigations/caspian-cabals/exxon-chevron-oil-lobbying-kazakhstan-pipelines/) (Tier 2) (VERIFIED)
 - [DeSmog: Chevron cultural sponsorship as lobbying tool](https://www.desmog.com/2025/05/20/revealed-now-theres-proof-that-the-fossil-fuel-industry-uses-cultural-sponsorships-to-block-climate-action/) (Tier 2) (VERIFIED)
 - [Yahoo Finance/Oilprice.com: Chevron 2026 letter to Newsom on cap-and-invest](https://finance.yahoo.com/news/chevron-warns-california-cap-invest-014859704.html) (Tier 2) (VERIFIED) (UNVERIFIED)

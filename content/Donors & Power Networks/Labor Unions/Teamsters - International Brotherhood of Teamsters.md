@@ -31,7 +31,7 @@ known-gaps:
 
 ### Who They Are
 
-International Brotherhood of Teamsters — 1.2 million+ members nationally. Transportation, logistics, waste management, freight, warehousing, brewing, dairy, construction. The union that moves everything. California presence concentrated in Southern California through Joint Council 42 (22 locals, 250,000 members and retirees) and Local 396 (3,000+ sanitation workers, the largest Teamster sanitation local in the U.S.).
+International Brotherhood of Teamsters, 1.2 million+ members nationally. Transportation, logistics, waste management, freight, warehousing, brewing, dairy, construction. The union that moves everything. California presence concentrated in Southern California through Joint Council 42 (22 locals, 250,000 members and retirees) and Local 396 (3,000+ sanitation workers, the largest Teamster sanitation local in the U.S.).
 
 Current General President: **Sean O'Brien** (since November 2021). The most politically unpredictable major union leader in America.
 
@@ -39,7 +39,7 @@ Current General President: **Sean O'Brien** (since November 2021). The most poli
 
 ### The Political Operation
 
-> [!money] Follow the Money — Teamsters Political Spending
+> [!money] Follow the Money. Teamsters Political Spending
 > **Federal PAC raised (2024 cycle):** $15.4 million
 > **Candidate contributions:** $1.56 million (91.2% Democratic, 8.8% Republican)
 > **Major committee recipients:**
@@ -59,13 +59,13 @@ Current General President: **Sean O'Brien** (since November 2021). The most poli
 
 The most significant union political story of the cycle. First presidential non-endorsement since 1996.
 
-**The polling:** Two rounds of rank-and-file surveys. First poll: Trump 60%, Harris 34%. Second poll: Trump 58%, Harris 31%, Undecided 6%. The Teamsters rank-and-file — logistics workers, truck drivers, warehouse workers — broke decisively for Trump.
+**The polling:** Two rounds of rank-and-file surveys. First poll: Trump 60%, Harris 34%. Second poll: Trump 58%, Harris 31%, Undecided 6%. The Teamsters rank-and-file, logistics workers, truck drivers, warehouse workers, broke decisively for Trump.
 
 **The decision:** September 2024. O'Brien stated neither Trump nor Harris made adequate commitments on non-interference in union campaigns, the right to strike, or protecting working people over big business. The Teamsters declined to endorse.
 
 **The fallout:** Nearly two dozen local Teamster unions representing approximately 1 million members subsequently endorsed Harris despite the national non-endorsement. The union fractured along the same line that fractures the entire American working class: institutional labor interest (Democratic policy) vs. rank-and-file cultural identity (populist right).
 
-**The deeper story:** O'Brien spoke at the Republican National Convention in July 2024 — the first Teamster president to address the RNC in the union's 121-year history. His message: "Today, the Teamsters are here to say we are not beholden to anyone or any party." He called out "greedy corporations" and said "America's laws make it far too difficult for workers to unionize" — at the RNC, to a Republican audience. Then he appeared at a White House press conference with VP Vance and Transportation Secretary Duffy in October 2025, saying tariffs are "worth all the pain" if they bring "good-paying, middle-class jobs."
+**The deeper story:** O'Brien spoke at the Republican National Convention in July 2024, the first Teamster president to address the RNC in the union's 121-year history. His message: "Today, the Teamsters are here to say we are not beholden to anyone or any party." He called out "greedy corporations" and said "America's laws make it far too difficult for workers to unionize", at the RNC, to a Republican audience. Then he appeared at a White House press conference with VP Vance and Transportation Secretary Duffy in October 2025, saying tariffs are "worth all the pain" if they bring "good-paying, middle-class jobs."
 
 > [!contradiction] The O'Brien Paradox
 > O'Brien gave a pro-union speech at the RNC of a party that:
@@ -79,7 +79,7 @@ The most significant union political story of the cycle. First presidential non-
 
 ---
 
-### The UPS Contract — What Winning Looks Like
+### The UPS Contract. What Winning Looks Like
 
 August 2023. The biggest private-sector union contract in the country. 340,000 workers. Five-year term through July 2028. This is what [[IBEW - International Brotherhood of Electrical Workers|IBEW]] members should study.
 
@@ -87,7 +87,7 @@ August 2023. The biggest private-sector union contract in the country. 340,000 w
 - Full-time drivers: $2.75/hour immediate raise, $7.50/hour total over contract
 - Top driver rate: average $49/hour (claimed highest-paid delivery drivers in the nation)
 - Part-time workers: immediately raised to minimum $21/hour
-- **Eliminated the two-tier wage system** — all 22.4 drivers reclassified as Regular Package Car Drivers with full seniority
+- **Eliminated the two-tier wage system**, all 22.4 drivers reclassified as Regular Package Car Drivers with full seniority
 - Pension: $65 per year of future credited service (max 35 years)
 - In-cab air conditioning mandated for all new vehicles after January 2024
 - Martin Luther King Day recognized as full holiday (first time)
@@ -100,23 +100,23 @@ The UPS contract is the counter-example to every union in the vault that settles
 
 ### The Amazon Front
 
-The next UPS — or the fight that breaks the Teamsters.
+The next UPS, or the fight that breaks the Teamsters.
 
 **June 2024:** Amazon Labor Union formally affiliated with the Teamsters, creating ALU-IBT Local 1 (~8,000 workers at JFK8, Staten Island).
 
-**Late 2024 organizing wins:** San Francisco, Queens, Skokie IL, Atlanta, City of Industry CA, Victorville CA — all won organizing campaigns.
+**Late 2024 organizing wins:** San Francisco, Queens, Skokie IL, Atlanta, City of Industry CA, Victorville CA, all won organizing campaigns.
 
 **December 2024 strike:** Five-day strike (December 19–24), ~600 workers at 8–9 warehouse locations. Protests outside 200+ facilities nationwide. JFK8 workers joined December 21. Strike ended inconclusively.
 
-**The NLRB ruling (Summer 2024):** The Board ruled Amazon is a joint employer of subcontracted delivery drivers — clearing the path for nationwide driver organizing under Teamsters representation.
+**The NLRB ruling (Summer 2024):** The Board ruled Amazon is a joint employer of subcontracted delivery drivers, clearing the path for nationwide driver organizing under Teamsters representation.
 
 **The problem:** Amazon has not recognized the union at JFK8 (voted to unionize in 2022) or the Teamsters affiliation. Amazon's labor relations strategy is delay, challenge, and outlast. The NLRB ruling helps, but DOGE cut NLRB staff, slowing enforcement. The Teamsters' Amazon campaign depends on an agency the Trump administration is dismantling.
 
-**The Inland Empire connection:** City of Industry and Victorville are both in [[IBEW - International Brotherhood of Electrical Workers|IBEW]] Local 477 / Local 440 territory. The logistics corridor that runs through [[IBEW Local 477 - San Bernardino|San Bernardino]] County — where Amazon has its largest concentration of fulfillment centers — is where the Teamsters' Amazon campaign intersects with IBEW's jurisdiction.
+**The Inland Empire connection:** City of Industry and Victorville are both in [[IBEW - International Brotherhood of Electrical Workers|IBEW]] Local 477 / Local 440 territory. The logistics corridor that runs through [[IBEW Local 477 - San Bernardino|San Bernardino]] County, where Amazon has its largest concentration of fulfillment centers, is where the Teamsters' Amazon campaign intersects with IBEW's jurisdiction.
 
 ---
 
-### California — Joint Council 42 and Local 396
+### California. Joint Council 42 and Local 396
 
 **Joint Council 42:** 22 locals, 250,000 members and retirees across Southern California, Southern Nevada, Guam, Hawaii. The largest Teamster joint council in the western U.S.
 
@@ -124,23 +124,23 @@ The next UPS — or the fight that breaks the Teamsters.
 
 **History of rank-and-file resistance:** In 2007, 450 Waste Management Teamsters struck for two weeks. Members voted three times to reject substandard contracts recommended by Local 396 leadership. The contracts would have reduced medical benefits and cut coverage if costs spiked. Workers described being "hung out to dry" by local and international leadership.
 
-**Prop 22 (2020):** Teamsters provided approximately 50% of total opposition funding (~$5–6M). The gig companies spent $205.7 million — the largest ballot initiative spending in California history. Prop 22 passed 58.6% to 41.4%. The California Supreme Court unanimously upheld Prop 22 in July 2024. The Teamsters lost, outspent 20-to-1.
+**Prop 22 (2020):** Teamsters provided approximately 50% of total opposition funding (~$5–6M). The gig companies spent $205.7 million, the largest ballot initiative spending in California history. Prop 22 passed 58.6% to 41.4%. The California Supreme Court unanimously upheld Prop 22 in July 2024. The Teamsters lost, outspent 20-to-1.
 
 ---
 
-### Class Analysis — The Split Working Class
+### Class Analysis. The Split Working Class
 
 The Teamsters' 2024 non-endorsement is the vault's clearest data point for the fracture running through the American working class.
 
 The institutional analysis says: Republicans are anti-union (right-to-work, DOGE cutting NLRB, Janus, Koch network). Democrats are pro-union (PRO Act, NLRB appointments, prevailing wage). Therefore unions should support Democrats.
 
-The rank-and-file reality: 60% of Teamsters polled preferred Trump. The workers who drive the trucks, fill the warehouses, and collect the garbage — the most physically working-class workforce of any major union — broke for the candidate whose donor class is actively trying to destroy their union.
+The rank-and-file reality: 60% of Teamsters polled preferred Trump. The workers who drive the trucks, fill the warehouses, and collect the garbage, the most physically working-class workforce of any major union, broke for the candidate whose donor class is actively trying to destroy their union.
 
 The class analysis question: why? The standard explanations (culture war, racial resentment, media ecosystem) are real but incomplete. The deeper structural answer is that the Democratic Party has not delivered material improvement for these workers at a pace or scale that competes with the cultural identity Trump offers. [[SEIU - Service Employees International Union|SEIU]] spent $232.7 million on Democrats. IBEW spent $20.77 million. CNA spent $15.3 million. And the Teamsters' rank-and-file still preferred Trump.
 
-This is not a Teamsters problem. It's a labor movement problem. The political strategy of the last 40 years — fund Democrats, get incremental wins, repeat — has produced a working class that doesn't believe the investment is paying off.
+This is not a Teamsters problem. It's a labor movement problem. The political strategy of the last 40 years, fund Democrats, get incremental wins, repeat, has produced a working class that doesn't believe the investment is paying off.
 
-For IBEW members: The Teamsters' rank-and-file politics mirror the building trades. Construction workers, like logistics workers, are disproportionately white men in a labor movement that increasingly emphasizes service workers, healthcare, and public employees. The cultural disconnect between rank-and-file identity and institutional labor politics is the same across both unions. O'Brien's RNC strategy — however flawed — is at least an attempt to address it. The question for IBEW: is there a political strategy that serves your members' material interests without requiring them to choose between their union card and their cultural identity?
+For IBEW members: The Teamsters' rank-and-file politics mirror the building trades. Construction workers, like logistics workers, are disproportionately white men in a labor movement that increasingly emphasizes service workers, healthcare, and public employees. The cultural disconnect between rank-and-file identity and institutional labor politics is the same across both unions. O'Brien's RNC strategy, however flawed, is at least an attempt to address it. The question for IBEW: is there a political strategy that serves your members' material interests without requiring them to choose between their union card and their cultural identity?
 
 ---
 
@@ -154,17 +154,17 @@ For IBEW members: The Teamsters' rank-and-file politics mirror the building trad
 
 ---
 
-### March 2026 Update — Major Contract Expirations
+### March 2026 Update. Major Contract Expirations
 
-**March 31, 2026 — DHL contract expires:** The Teamsters contract covering **3,500 DHL workers** expires on March 31. The previous contract was celebrated by the union as the most "financially lucrative agreement" in that contract's history.
+**March 31, 2026. DHL contract expires:** The Teamsters contract covering **3,500 DHL workers** expires on March 31. The previous contract was celebrated by the union as the most "financially lucrative agreement" in that contract's history.
 
-**March 31, 2026 — First Student contract expires:** The Teamsters contract covering **17,000 school bus drivers, attendants, and monitors** nationwide expires the same day.
+**March 31, 2026. First Student contract expires:** The Teamsters contract covering **17,000 school bus drivers, attendants, and monitors** nationwide expires the same day.
 
 Both expirations create simultaneous leverage moments for the IBT. The DHL and First Student contracts together represent over 20,000 workers in critical logistics and transportation sectors.
 
 - [Labor Notes: Big contract fights coming in 2026](https://labornotes.org/2025/12/one-battle-after-another-big-contract-fights-coming-2026) (Tier 2) (VERIFIED)
 
-### March 22, 2026 Update — DHL Strike Authorization:
+### March 22, 2026 Update. DHL Strike Authorization:
 DHL Express Teamsters voted **96% to authorize a strike** if no contract is reached by March 31. The vote covers thousands of workers across 26 local unions in 16 states. Union leadership has publicly stated: "There will be no contract extensions. Our members will not work a day past the expiration of our current agreement." DHL management has expressed optimism about reaching a deal. First Student Teamsters are simultaneously preparing for their own strike authorization vote with the same March 31 deadline. Key demands: minimum daily guaranteed hours, mandatory retirement contributions, healthcare improvements.
 
 > [!money]
@@ -188,7 +188,7 @@ DHL Express Teamsters voted **96% to authorize a strike** if no contract is reac
 
 > This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.
 
-### Financial Overview (990 Filing — 2023)
+### Financial Overview (990 Filing, 2023)
 <!-- auto:propublica-990 start -->
 | Metric | Amount |
 |--------|--------|

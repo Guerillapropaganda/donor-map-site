@@ -1,5 +1,5 @@
 ---
-title: "Joaquin Castro Master Profile"
+title: "Joaquin Castro"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

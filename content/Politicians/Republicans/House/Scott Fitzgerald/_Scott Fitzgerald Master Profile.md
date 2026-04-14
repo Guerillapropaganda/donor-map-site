@@ -1,5 +1,5 @@
 ---
-title: "Scott Fitzgerald Master Profile"
+title: "Scott Fitzgerald"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

@@ -50,13 +50,13 @@ The needs-reenrichment flag has been set. The next scheduled pipeline run will p
 
 ### Who They Are
 
-Meta Platforms, Inc. (formerly Facebook). The dominant social media company in the world, operating Facebook (3 billion monthly users), Instagram (2 billion), WhatsApp (2 billion), Threads, and the Meta Quest VR platform. CEO Mark Zuckerberg holds supervoting shares giving him unilateral control over the company despite owning approximately 13% of its equity — making Meta a publicly traded autocracy. The company generated $134 billion in revenue in 2024, virtually all from digital advertising powered by surveillance-scale user data collection.
+Meta Platforms, Inc. (formerly Facebook). The dominant social media company in the world, operating Facebook (3 billion monthly users), Instagram (2 billion), WhatsApp (2 billion), Threads, and the Meta Quest VR platform. CEO Mark Zuckerberg holds supervoting shares giving him unilateral control over the company despite owning approximately 13% of its equity, making Meta a publicly traded autocracy. The company generated $134 billion in revenue in 2024, virtually all from digital advertising powered by surveillance-scale user data collection.
 
-Meta is the 8th-largest lobbying spender in America — higher than Google, higher than any oil company, higher than any bank. The company spent $24.4 million on federal lobbying in 2024 (up from $19.3M in 2023), employs 65 registered lobbyists (82% former government employees), and its PAC and employee contributions totaled $5.5 million in the 2024 cycle. But these federal numbers dramatically understate Meta's total political spending: the company has deployed $65 million through four super PACs targeting state legislative races in 2026 — the largest single-company state election investment in recent history.
+Meta is the 8th-largest lobbying spender in America, higher than Google, higher than any oil company, higher than any bank. The company spent $24.4 million on federal lobbying in 2024 (up from $19.3M in 2023), employs 65 registered lobbyists (82% former government employees), and its PAC and employee contributions totaled $5.5 million in the 2024 cycle. But these federal numbers dramatically understate Meta's total political spending: the company has deployed $65 million through four super PACs targeting state legislative races in 2026, the largest single-company state election investment in recent history.
 
 Meta's political operation has undergone the most dramatic realignment of any tech company. After banning Trump from Facebook following January 6, Zuckerberg calculated that restoring the relationship was cheaper than fighting a hostile administration with FTC authority. The $1 million inaugural donation, the elimination of fact-checking programs, and the Content Policy overhaul (reducing content moderation) were the political price of regulatory détente.
 
-- [OpenSecrets: Meta Platforms organizational profile — 2024 cycle](https://www.opensecrets.org/orgs/meta-platforms/summary?id=D000033563) (Tier 1) (VERIFIED) (Chrome-verified)
+- [OpenSecrets: Meta Platforms organizational profile, 2024 cycle](https://www.opensecrets.org/orgs/meta-platforms/summary?id=D000033563) (Tier 1) (VERIFIED) (Chrome-verified)
 
 ---
 
@@ -64,17 +64,17 @@ Meta's political operation has undergone the most dramatic realignment of any te
 
 Meta's legislative priorities, in order of financial significance:
 
-**Survive the FTC antitrust case.** The FTC filed suit in 2020 seeking to force divestiture of Instagram and WhatsApp — which would dismantle Meta's integrated data ecosystem and destroy its competitive moat. The case survived a motion to dismiss and proceeded to trial. Instagram alone is estimated to be worth $100+ billion. Every year of delay preserves the integrated platform that powers Meta's advertising dominance.
+**Survive the FTC antitrust case.** The FTC filed suit in 2020 seeking to force divestiture of Instagram and WhatsApp, which would dismantle Meta's integrated data ecosystem and destroy its competitive moat. The case survived a motion to dismiss and proceeded to trial. Instagram alone is estimated to be worth $100+ billion. Every year of delay preserves the integrated platform that powers Meta's advertising dominance.
 
-**Kill state-level AI regulation.** More than 1,561 AI-related bills have been introduced across 45 states. Meta is spending $65 million through four super PACs to elect state legislators who won't regulate AI — bypassing the federal debate entirely. This is the same playbook the pharmaceutical industry used for decades: capture state legislatures before they can act.
+**Kill state-level AI regulation.** More than 1,561 AI-related bills have been introduced across 45 states. Meta is spending $65 million through four super PACs to elect state legislators who won't regulate AI, bypassing the federal debate entirely. This is the same playbook the pharmaceutical industry used for decades: capture state legislatures before they can act.
 
-**Preserve Section 230 protections.** Despite hearings, proposals, and bipartisan rhetoric, Section 230 remains intact — protecting Meta from liability for content on Facebook, Instagram, and WhatsApp. Meta's lobbying has prevented every major reform proposal from advancing.
+**Preserve Section 230 protections.** Despite hearings, proposals, and bipartisan rhetoric, Section 230 remains intact, protecting Meta from liability for content on Facebook, Instagram, and WhatsApp. Meta's lobbying has prevented every major reform proposal from advancing.
 
 **Block federal privacy legislation.** Without a federal privacy law, Meta continues operating its surveillance advertising business under a patchwork of state regulations. The company lobbied intensively against the ADPPA in 2022.
 
-**Shape children's safety legislation.** Meta supported versions of KOSA (Kids Online Safety Act) that imposed compliance costs manageable for large platforms but prohibitive for smaller competitors — turning safety regulation into a competitive moat.
+**Shape children's safety legislation.** Meta supported versions of KOSA (Kids Online Safety Act) that imposed compliance costs manageable for large platforms but prohibitive for smaller competitors, turning safety regulation into a competitive moat.
 
-**Weaken content moderation requirements.** Meta's 2025 pivot — eliminating fact-checking, reducing content moderation — served a dual purpose: political appeasement of the Trump administration and cost reduction.
+**Weaken content moderation requirements.** Meta's 2025 pivot, eliminating fact-checking, reducing content moderation, served a dual purpose: political appeasement of the Trump administration and cost reduction.
 
 ---
 
@@ -82,7 +82,7 @@ Meta's legislative priorities, in order of financial significance:
 
 | Date | Recipient/Target | Amount | Policy Return | Time Gap |
 |------|-----------------|--------|---|---|
-| 2009 | Pre-Kaplan lobbying infrastructure | <$400K | Minimal federal engagement | — |
+| 2009 | Pre-Kaplan lobbying infrastructure | <$400K | Minimal federal engagement |, |
 | 2011 | Initial federal lobbying (Kaplan hired June 2011) | ~$1.3M | Foundation for scale; government relations office expansion | 1 year |
 | 2012 | IPO year federal lobbying | ~$3.9M | IPO regulatory clearance; post-IPO federal relationships | Ongoing |
 | 2014 | Immigration reform push | ~$9.3M | Business case to tech CEOs for immigration lobby coalition; access to labor policy debates | 1-2 years |
@@ -96,7 +96,7 @@ Meta's legislative priorities, in order of financial significance:
 | 2023 | Section 230 / child safety fights escalating | $19.30M | Section 230 held; KOSA advanced without forced breakup | Ongoing |
 | 2024 | Record $24.43M; TikTok ban debate | $24.43M | TikTok ban legislation passed (eliminates largest competitor); FTC antitrust trial proceeded | Ongoing |
 | 2025 | Projection: ~$26.29M (Q1: $7.99M alone; Q4 quarterly record: $6.5M) | ~$26.29M | Meta outpaced Boeing, Lockheed Martin nationally; maintained Trump détente; antitrust case won (Nov) | Ongoing |
-| 2009-2025 | **Cumulative federal lobbying** | **$200M+** | FTC antitrust avoided; Section 230 preserved; state capture begun; regulatory détente maintained | — |
+| 2009-2025 | **Cumulative federal lobbying** | **$200M+** | FTC antitrust avoided; Section 230 preserved; state capture begun; regulatory détente maintained |, |
 
 > [!money] The Kaplan Effect
 > In 2011, Meta hired Joel Kaplan — a Bush White House Deputy Chief of Staff — as VP of Global Public Policy. After Kaplan's hiring in June 2011, Meta's annual federal lobbying increased from under $400K (2009) to $1.3M (2011), then accelerated to $3.9M (2012), $9.3M (2014), and reached $24.4M by 2024. Senator Warren quantified the effect: since Kaplan's hiring (2011), Facebook spent $71M+ on federal lobbying — nearly **100 times** the pre-Kaplan rate. This is the clearest example in the vault of a single hire's return on investment: Kaplan brought government access, revolving-door relationships, and strategic timing. His 2025 promotion to President of Global Affairs — replacing moderate Nick Clegg with a Republican operative — signals institutional commitment to Trump-era priorities. Kaplan's career trajectory (Bush WH → Facebook → Trump alignment) is the revolving door made visible: government experience gets monetized through corporate political leverage, then federal appointments reward loyalty.
@@ -105,7 +105,7 @@ Meta's legislative priorities, in order of financial significance:
 
 ### Who They Fund
 
-**2024 cycle — Total political spending: $5,530,524** (ranked #174 of 40,455 organizations nationally)
+**2024 cycle. Total political spending: $5,530,524** (ranked #174 of 40,455 organizations nationally)
 
 | Recipient | Amount | Type |
 |-----------|--------|------|
@@ -157,12 +157,12 @@ Meta's real political spending dwarfs its federal contributions. Four super PACs
 
 | PAC | Party | Target | Spending | Leadership |
 |-----|-------|--------|----------|------------|
-| American Technology Excellence Project (ATEP) | Bipartisan | National — 45+ states | $45M from Meta | Brian Baker (GOP strategist close to Zuckerberg) + Hilltop Public Solutions |
+| American Technology Excellence Project (ATEP) | Bipartisan | National, 45+ states | $45M from Meta | Brian Baker (GOP strategist close to Zuckerberg) + Hilltop Public Solutions |
 | Mobilizing Economic Transformation Across California | California | California legislature | $20M from Meta | Brian Rice, Greg Maurer (Meta policy VP) |
 | Forge the Future Project | Republican | Texas primaries | $1.3M reported | Brian Baker |
 | Making Our Tomorrow | Democrat | Illinois state House | $750K+ | Democratic consultants |
 
-Texas targets (March 2026 primaries): Kelly Hancock (Comptroller), Trent Ashby (state Senate), Brett Ligon (state Senate). Illinois targets: Paul Kendrick (12th), Adam Braun (13th), Aja Kearney (34th), Rep. Jaime Andrade (40th) — all state House races, $340K in mailers and digital ads.
+Texas targets (March 2026 primaries): Kelly Hancock (Comptroller), Trent Ashby (state Senate), Brett Ligon (state Senate). Illinois targets: Paul Kendrick (12th), Adam Braun (13th), Aja Kearney (34th), Rep. Jaime Andrade (40th), all state House races, $340K in mailers and digital ads.
 
 > [!money] The Both-Sides Illusion at Scale
 > Meta funds Republican candidates through Forge the Future Project AND Democratic candidates through Making Our Tomorrow — separate PACs, same corporate interest. The $65M buys a bipartisan legislative firewall against AI regulation at the state level. Compare: AIPAC's most expensive single-race primary spend was ~$14.5M against Jamaal Bowman. Meta is spending 4.5x that amount across state races where individual candidates cost a fraction of federal races. The cost-per-legislator at the state level is orders of magnitude cheaper — Meta is buying regulatory protection at wholesale prices.
@@ -185,12 +185,12 @@ Texas targets (March 2026 primaries): Kelly Hancock (Comptroller), Trent Ashby (
 | 2024 | $24,430,000 | 65 | 82% (53/65) former government |
 | 2023 | $19,300,000 | 71 | 85% (60/71) former government |
 
-Meta's 82-85% revolving door rate is among the highest in corporate America. The bill most frequently lobbied in the 118th Congress was S.1409. The $24.4M federal lobbying spend ranked #8 nationally — ahead of Google (#15), ahead of every oil company, ahead of every bank.
+Meta's 82-85% revolving door rate is among the highest in corporate America. The bill most frequently lobbied in the 118th Congress was S.1409. The $24.4M federal lobbying spend ranked #8 nationally, ahead of Google (#15), ahead of every oil company, ahead of every bank.
 
 > [!money]
 > Meta spent $24.4 million on federal lobbying in 2024 plus $65 million on state-level super PACs = $89.4 million total political deployment. This protects a business that generates $134 billion in annual revenue. The lobbying-to-revenue ratio (0.067%) means Meta spends less than one-tenth of one percent of its revenue on political protection. The FTC case threatening Instagram divestiture alone threatens $100+ billion in asset value. The $89.4M is insurance on a $100B+ asset — a premium of less than 0.1%.
 
-- [OpenSecrets: Meta Platforms organizational profile — 2024 cycle](https://www.opensecrets.org/orgs/meta-platforms/summary?id=D000033563) (Tier 1) (Chrome-verified)
+- [OpenSecrets: Meta Platforms organizational profile, 2024 cycle](https://www.opensecrets.org/orgs/meta-platforms/summary?id=D000033563) (Tier 1) (Chrome-verified)
 - [Senate LDA Filings: Meta Platforms lobbying profile](https://lda.gov/filings/public/filing/search/) (Tier 1) (VERIFIED) (Chrome-verified)
 
 ---
@@ -212,21 +212,21 @@ Meta's 82-85% revolving door rate is among the highest in corporate America. The
 > [!contradiction]
 > The FTC case was filed in 2020. By November 2025 — five years of litigation — Meta won. The court found that the relevant market includes TikTok and YouTube, not just Facebook-Instagram-Snapchat-MeWe as the FTC argued. Judge Boasberg rejected the monopoly claim. Instagram — acquired for $1 billion in 2012 — remains part of Meta and is worth an estimated $100+ billion. Every year of delay preserved integrated platform revenue; the political realignment (Trump détente via Kaplan promotion, fact-checking elimination, board appointments) reduced aggressive FTC prosecution pressure; the judicial outcome was victory. The $5B FTC fine (2019) was the settlement price of the 2018 Cambridge Analytica scandal — a fine equal to 23 days of 2019 profits, and the stock price rose 22% in the year following. Enforcement without divestiture or behavioral change is the cost of doing business, not a loss.
 
-### Section 230 & Privacy Regulation — Still Standing
+### Section 230 & Privacy Regulation. Still Standing
 
-Despite bipartisan rhetoric across five Congresses, Section 230 remains intact. Meta has lobbied against every major reform proposal. The law protects Meta from liability for content across Facebook (3B users), Instagram (2B users), and WhatsApp (2B users) — shielding the company's $134B advertising revenue from content-related litigation.
+Despite bipartisan rhetoric across five Congresses, Section 230 remains intact. Meta has lobbied against every major reform proposal. The law protects Meta from liability for content across Facebook (3B users), Instagram (2B users), and WhatsApp (2B users), shielding the company's $134B advertising revenue from content-related litigation.
 
 **Section 230 lobbying detail:** Meta spent $59M on lobbying (2020-2023) specifically targeting Section 230 reform. Bills lobbied against: EARN IT Act (2020), PACT Act, SAFE TECH Act (2021), KOSA (Kids Online Safety Act). None passed. The 2023 Gonzalez v. Google Supreme Court case preserved platform immunity, rejecting the limiting interpretation that would have narrowed Section 230.
 
 **ADPPA (American Data Privacy and Protection Act):** Passed House Committee 53-2 in July 2022, then died without floor vote. Meta lobbied through the Connected Commerce Council (front group) against private right of action provisions. Successor APRA was pulled from hearing in June 2024 after private right of action was stripped. Meta's lobbying succeeded in preventing federal privacy legislation that would have imposed uniform standards stronger than current patchwork regulation.
 
-### Children's Safety — Captured
+### Children's Safety. Captured
 
-KOSA passed the Senate in 2024, but the version that advanced contained enforcement mechanisms preferred by Meta's lobbying operation — compliance costs manageable for Meta but prohibitive for smaller competitors. Safety regulation became a competitive moat.
+KOSA passed the Senate in 2024, but the version that advanced contained enforcement mechanisms preferred by Meta's lobbying operation, compliance costs manageable for Meta but prohibitive for smaller competitors. Safety regulation became a competitive moat.
 
 ### The $65M State AI Firewall
 
-More than 1,561 AI bills across 45 states. Meta deployed $65 million to elect friendly legislators before they can vote. Congressional Republicans are simultaneously maneuvering to preempt state AI laws through the NDAA — a federal-state pincer that Meta's lobbying helps coordinate.
+More than 1,561 AI bills across 45 states. Meta deployed $65 million to elect friendly legislators before they can vote. Congressional Republicans are simultaneously maneuvering to preempt state AI laws through the NDAA, a federal-state pincer that Meta's lobbying helps coordinate.
 
 > [!contradiction]
 > Zuckerberg publicly called for "updated internet regulations" and AI governance frameworks. Meta spends $19.7M on federal lobbying against specific regulation. Meta deploys $65M to elect state legislators who won't regulate AI. The public position is pro-regulation. The $89.4M in spending is anti-regulation at every level of government.
@@ -244,7 +244,7 @@ Meta employs 85 registered lobbyists (2025), or roughly one for every six member
 | Marne Levine | WH National Economic Council Chief of Staff (Obama) | VP Global Public Policy → VP Instagram → COO | Senior leadership; represents Democratic relationship channel |
 | Kevin Martin | FCC Chairman (2005-2009) | VP Mobile Policy (2015) → VP Global Policy (2025) | Elevated 2025; represents telecommunications regulatory expertise |
 | Myriah Jordan | General Counsel to Sen. Richard Burr (R-NC); WH staffer (Kaplan's office) | Director Congressional Relations | Senate intelligence and defense relationships |
-| Rick Dearborn | Trump WH Deputy Chief of Staff | Consultant, Mindset lobbying firm (2024-2025) — lobbying for Meta | Trump administration pipeline; revolving door in action |
+| Rick Dearborn | Trump WH Deputy Chief of Staff | Consultant, Mindset lobbying firm (2024-2025), lobbying for Meta | Trump administration pipeline; revolving door in action |
 | Katie Harbath | RNC National Digital Director | Facebook Global Elections Policy Director | Republican electoral operations alignment |
 
 **Revolving door statistics:** 85% of 71 Meta lobbyists in 2023 had government service; ~89 lobbyists in 2025; 89% prior government employment rate.
@@ -274,31 +274,31 @@ Meta employs 85 registered lobbyists (2025), or roughly one for every six member
 
 ### Class Analysis
 
-Meta is the vault's clearest case of surveillance capitalism — a business model that converts 3 billion people's private behavior, relationships, and preferences into advertising revenue. Every aspect of Meta's political operation exists to protect this extraction model from the regulatory frameworks that would constrain it.
+Meta is the vault's clearest case of surveillance capitalism, a business model that converts 3 billion people's private behavior, relationships, and preferences into advertising revenue. Every aspect of Meta's political operation exists to protect this extraction model from the regulatory frameworks that would constrain it.
 
-**The surveillance advertising monopoly.** Meta's $134 billion in annual revenue comes almost entirely from advertising targeted using data harvested from its platforms. The FTC's antitrust case argues that Meta acquired Instagram and WhatsApp specifically to eliminate competitive threats to this data monopoly. Meta's defense is that the acquisitions created value — which they did, for Meta's shareholders. The users whose data generates the revenue have no seat at the table.
+**The surveillance advertising monopoly.** Meta's $134 billion in annual revenue comes almost entirely from advertising targeted using data harvested from its platforms. The FTC's antitrust case argues that Meta acquired Instagram and WhatsApp specifically to eliminate competitive threats to this data monopoly. Meta's defense is that the acquisitions created value, which they did, for Meta's shareholders. The users whose data generates the revenue have no seat at the table.
 
-**The $65M state capture.** Meta's state-level super PAC operation is the vault's most aggressive current example of preemptive regulatory capture. Rather than waiting for state AI regulations to pass and then lobbying against them, Meta is spending $65 million to elect the legislators who will write the laws — or decline to. The cost-per-state-legislator is orders of magnitude lower than federal races, making this the most efficient political investment in the vault. Meta learned from the pharmaceutical industry: capture the legislature before the regulation exists.
+**The $65M state capture.** Meta's state-level super PAC operation is the vault's most aggressive current example of preemptive regulatory capture. Rather than waiting for state AI regulations to pass and then lobbying against them, Meta is spending $65 million to elect the legislators who will write the laws, or decline to. The cost-per-state-legislator is orders of magnitude lower than federal races, making this the most efficient political investment in the vault. Meta learned from the pharmaceutical industry: capture the legislature before the regulation exists.
 
-**The Zuckerberg pivot as class analysis.** Zuckerberg banned Trump after January 6, then donated $1M to his inauguration, eliminated fact-checking, and reduced content moderation. The sequence reveals the donor-class calculation: political principles are negotiable when $100B+ in asset value (Instagram divestiture) is at stake. Zuckerberg didn't change his views — he changed his strategy. Content integrity was traded for corporate survival. The users whose information environment was degraded by the content moderation rollback bear the cost; Zuckerberg's net worth (approximately $200 billion) bears the benefit.
+**The Zuckerberg pivot as class analysis.** Zuckerberg banned Trump after January 6, then donated $1M to his inauguration, eliminated fact-checking, and reduced content moderation. The sequence reveals the donor-class calculation: political principles are negotiable when $100B+ in asset value (Instagram divestiture) is at stake. Zuckerberg didn't change his views, he changed his strategy. Content integrity was traded for corporate survival. The users whose information environment was degraded by the content moderation rollback bear the cost; Zuckerberg's net worth (approximately $200 billion) bears the benefit.
 
-**The revolving door as bipartisan capture.** 82% of Meta's lobbyists are former government employees. Joel Kaplan — a Republican operative who served in the George W. Bush White House — now heads Meta's entire policy operation. Meta employs former staffers from both parties' Judiciary Committees, from the FTC, and from state attorneys general offices. The revolving door isn't partisan — it's institutional. Meta hires from whichever party controls the relevant committee or agency, ensuring that the people writing tech policy have a professional interest in Meta's success.
+**The revolving door as bipartisan capture.** 82% of Meta's lobbyists are former government employees. Joel Kaplan, a Republican operative who served in the George W. Bush White House, now heads Meta's entire policy operation. Meta employs former staffers from both parties' Judiciary Committees, from the FTC, and from state attorneys general offices. The revolving door isn't partisan, it's institutional. Meta hires from whichever party controls the relevant committee or agency, ensuring that the people writing tech policy have a professional interest in Meta's success.
 
 ---
 
 ### Sources
 
 ### FEC & OpenSecrets (Chrome-verified):
-- [OpenSecrets: Meta Platforms organizational profile — 2024 cycle](https://www.opensecrets.org/orgs/meta-platforms/summary?id=D000033563) (Tier 1)
-- [Senate LDA Filings: Meta Platforms lobbying profile — 2024](https://lda.gov/filings/public/filing/search/) (Tier 1) (VERIFIED)
-- [OpenSecrets: Meta PAC profile — C00502906](https://www.opensecrets.org/political-action-committees-pacs/meta/C00502906/summary/2024) (Tier 1) (VERIFIED) (UNVERIFIED)
-- [Senate LDA Filings: Section 230 lobbying breakdown — $59M Meta spend (2020-2023)](https://lda.gov/filings/public/filing/search/) (Tier 1) (VERIFIED) (UNVERIFIED)
+- [OpenSecrets: Meta Platforms organizational profile, 2024 cycle](https://www.opensecrets.org/orgs/meta-platforms/summary?id=D000033563) (Tier 1)
+- [Senate LDA Filings: Meta Platforms lobbying profile, 2024](https://lda.gov/filings/public/filing/search/) (Tier 1) (VERIFIED)
+- [OpenSecrets: Meta PAC profile. C00502906](https://www.opensecrets.org/political-action-committees-pacs/meta/C00502906/summary/2024) (Tier 1) (VERIFIED) (UNVERIFIED)
+- [Senate LDA Filings: Section 230 lobbying breakdown, $59M Meta spend (2020-2023)](https://lda.gov/filings/public/filing/search/) (Tier 1) (VERIFIED) (UNVERIFIED)
 
 ### Government & Legal:
-- ~~[FTC: FTC v. Meta Platforms case documents](https://www.ftc.gov/legal-library/browse/cases-proceedings/191-0134-facebook-inc-ftc-v-ftc-v-meta-platforms-inc-ftc-v-meta-platforms-inc)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1) (Chrome-verified — redirected URL)
+- ~~[FTC: FTC v. Meta Platforms case documents](https://www.ftc.gov/legal-library/browse/cases-proceedings/191-0134-facebook-inc-ftc-v-ftc-v-meta-platforms-inc-ftc-v-meta-platforms-inc)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1) (Chrome-verified, redirected URL)
 - [FTC Press Release: $5 billion fine and 20-year compliance order (July 2019)](https://www.ftc.gov/news-events/news/press-releases/2019/07/ftc-imposes-5-billion-penalty-sweeping-new-privacy-restrictions-facebook) (Tier 1) (VERIFIED) (UNVERIFIED)
-- [Sullivan & Cromwell: FTC Antitrust Case — Judge Boasberg Ruling Analysis](https://www.sullcrom.com/) (Tier 2) (VERIFIED)
-- [TechPolicy.Press: FTC Antitrust Tracker — Meta case status](https://www.techpolicy.press/) (Tier 2) (VERIFIED)
+- [Sullivan & Cromwell: FTC Antitrust Case. Judge Boasberg Ruling Analysis](https://www.sullcrom.com/) (Tier 2) (VERIFIED)
+- [TechPolicy.Press: FTC Antitrust Tracker. Meta case status](https://www.techpolicy.press/) (Tier 2) (VERIFIED)
 
 ### Investigative Journalism:
 - [Yahoo Finance/Bloomberg: Meta's next political bet on AI will be at the state level](https://finance.yahoo.com/news/metas-next-political-bet-ai-144148602.html) (Tier 2) (VERIFIED)
@@ -308,12 +308,12 @@ Meta is the vault's clearest case of surveillance capitalism — a business mode
 - [Fox Business: Meta launches California super PAC to support pro-AI policy candidates](https://www.foxbusiness.com/politics/meta-launches-california-super-pac-support-pro-ai-policy-candidates-amid-regulatory-concerns) (Tier 2) (VERIFIED)
 - [Public Citizen: $1.1 billion in big tech political spending fuels attacks on state AI laws](https://www.citizen.org/news/1-1-billion-in-big-tech-political-spending-fuels-attacks-on-state-ai-laws/) (Tier 2) (VERIFIED)
 - [Issue One: Big Tech cozies up to new administration after spending record sums on lobbying](https://issueone.org/articles/big-tech-spent-record-sums-on-lobbying-last-year/) (Tier 2) (VERIFIED) (Chrome-verified)
-- [Issue One: Revolving Door Statistics — Government Service in Tech Lobbying](https://issueone.org/) (Tier 2) (VERIFIED)
+- [Issue One: Revolving Door Statistics. Government Service in Tech Lobbying](https://issueone.org/) (Tier 2) (VERIFIED)
 - [CNN: Senator Elizabeth Warren on Joel Kaplan and Meta lobbying growth](https://www.cnn.com/) (Tier 2) (VERIFIED)
-- ~~[Politico: Frances Haugen whistleblower and Meta lobbying response](https://www.politico.com/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2) (UNVERIFIED)
+- ~~[Politico: Frances Haugen whistleblower and Meta lobbying response](https://www.politico.com/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2) (UNVERIFIED)
 - [CalMatters: Meta California lobbying spending 2025](https://calmatters.org/) (Tier 2) (VERIFIED)
-- ~~[Bloomberg Gov: California lobbying records — Meta state spending](https://www.bloomberggov.com/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
-- ~~[CNBC: Meta lobbying records and state-level operations](https://www.cnbc.com/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[Bloomberg Gov: California lobbying records. Meta state spending](https://www.bloomberggov.com/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[CNBC: Meta lobbying records and state-level operations](https://www.cnbc.com/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [AdExchanger: ADPPA front groups and Meta lobbying infrastructure](https://www.adexchanger.com/) (Tier 2) (VERIFIED)
 
 ### Secondary:

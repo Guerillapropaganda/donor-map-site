@@ -2,7 +2,7 @@
 title: Hillary Clinton
 type: politician
 content-readiness: ready
-central-thesis: "Clinton embodies the 'progressive who delivers for Wall Street' archetype. Her fundraising model and donor base are indistinguishable from Republican establishment finance — Goldman Sachs, Citigroup, JPMorgan Chase — yet she maintained credibility..."
+central-thesis: "Clinton embodies the 'progressive who delivers for Wall Street' archetype. Her fundraising model and donor base are indistinguishable from Republican establishment finance , Goldman Sachs, Citigroup, JPMorgan Chase , yet she maintained credibility..."
 last-updated: 2026-04-13
 needs-reenrichment: true
 reenrich-reason: "Bioguide recovered 2026-04-11 (was contaminated, now verified): C001041. Next pipeline run should populate Congress.gov + GovTrack auto-blocks with correct data."
@@ -52,7 +52,7 @@ Hillary Clinton has held four major political positions: First Lady (1993–2001
 
 ## The Central Thesis
 
-Clinton embodies the "progressive who delivers for Wall Street" archetype. Her fundraising model and donor base are indistinguishable from Republican establishment finance — Goldman Sachs, Citigroup, JPMorgan Chase — yet she maintained credibility within progressive circles through rhetorical commitment to workers' rights and gender equity. The three Goldman Sachs speeches ($675,000 for 40 minutes each, 2013–2015) became the symbol of the donor-class capture of the Democratic Party.
+Clinton embodies the "progressive who delivers for Wall Street" archetype. Her fundraising model and donor base are indistinguishable from Republican establishment finance. Goldman Sachs, Citigroup, JPMorgan Chase, yet she maintained credibility within progressive circles through rhetorical commitment to workers' rights and gender equity. The three Goldman Sachs speeches ($675,000 for 40 minutes each, 2013–2015) became the symbol of the donor-class capture of the Democratic Party.
 
 ## The Core Contradiction
 
@@ -85,7 +85,7 @@ Clinton embodies the "progressive who delivers for Wall Street" archetype. Her f
 ## Analytical Patterns
 
 ### Pattern: Two-Audience Problem
-Clinton's leaked private speeches to Goldman Sachs revealed a candidate maintaining different policy positions for Wall Street than for public audiences. Her explicit words: "You need to have both a public and private position" — a confession of the two-audience strategy. This pattern delegitimized the Democratic nominee among working-class voters who recognized they were not the audience for the "private position."
+Clinton's leaked private speeches to Goldman Sachs revealed a candidate maintaining different policy positions for Wall Street than for public audiences. Her explicit words: "You need to have both a public and private position", a confession of the two-audience strategy. This pattern delegitimized the Democratic nominee among working-class voters who recognized they were not the audience for the "private position."
 
 ### Pattern: Genuine Win + Structural Limit
 As Secretary of State, Clinton achieved genuine wins for women's rights and LGBTQ+ equality (foreign policy commitments, NGO funding). These victories were real and substantive. However, they operated within parameters set by donor interests: U.S. military and intelligence spending remained untouched; trade policy remained neoliberal; Wall Street remained unregulated. The structural limits protected donor interests while allowing Clinton to claim progressive credentials.
@@ -103,11 +103,11 @@ The Goldman Sachs speeches were not anomalous; they were the clearest articulati
 
 - [FEC 2016 Presidential Campaign Finance](https://www.fec.gov/data/candidate/P00003392/) (Tier 1) (VERIFIED)
 - [Hillary Clinton Goldman Sachs Speeches Leaked, WikiLeaks](https://wikileaks.org/podesta-emails/emailid/927) (Tier 2) (VERIFIED)
-- ~~[Open Secrets: Hillary Clinton Donor Profile](https://www.opensecrets.org/politicians/hillary-clinton)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
-- ~~[CNN: Hillary Clinton and Wall Street](https://www.cnn.com/politics/hillary-clinton-wall-street)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
-- ProPublica: The Clintons' Bush Connection (Tier 2) (URL NEEDED — original article no longer exists, replacement not found)
-- ~~[Senate Lobbying Disclosure: Haim Saban Donations](https://soprweb.senate.gov/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
-- ~~[Congressional Record: Clinton NAFTA Support 1993](https://congress.gov/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[Open Secrets: Hillary Clinton Donor Profile](https://www.opensecrets.org/politicians/hillary-clinton)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- ~~[CNN: Hillary Clinton and Wall Street](https://www.cnn.com/politics/hillary-clinton-wall-street)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ProPublica: The Clintons' Bush Connection (Tier 2) (URL NEEDED, original article no longer exists, replacement not found)
+- ~~[Senate Lobbying Disclosure: Haim Saban Donations](https://soprweb.senate.gov/)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- ~~[Congressional Record: Clinton NAFTA Support 1993](https://congress.gov/)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 
 ---
 

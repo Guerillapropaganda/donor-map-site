@@ -77,7 +77,7 @@ ftc-hsr-notices: 1
 
 L3Harris Technologies. The sixth-largest US defense contractor ($21.1 billion revenue, 2024), formed from the 2019 merger of L3 Technologies and Harris Corporation. L3Harris specializes in the invisible infrastructure of modern warfare: electronic warfare systems that blind enemy radar, ISR (intelligence, surveillance, reconnaissance) sensors that track targets, tactical communications that connect every US military unit, and the space-based satellites that tie it all together.
 
-The company operates 200+ facilities worldwide with approximately 50,000 employees. Its products are embedded in virtually every US military platform — when a Lockheed Martin F-35 flies, L3Harris sensors and communications equipment fly with it. When Northrop Grumman's B-21 Raider enters service, L3Harris electronic warfare systems protect it. This supply chain integration is L3Harris's most powerful political asset: replacing L3Harris components would require redesigning entire weapons systems.
+The company operates 200+ facilities worldwide with approximately 50,000 employees. Its products are embedded in virtually every US military platform, when a Lockheed Martin F-35 flies, L3Harris sensors and communications equipment fly with it. When Northrop Grumman's B-21 Raider enters service, L3Harris electronic warfare systems protect it. This supply chain integration is L3Harris's most powerful political asset: replacing L3Harris components would require redesigning entire weapons systems.
 
 L3Harris PAC (FEC: C00100321) raised $3.52 million in the 2024 cycle from 2,982 individual donors. The company's lobbying operation spent $2.49 million in 2024, focused on defense appropriations, electronic warfare modernization, and space systems contracts.
 
@@ -85,13 +85,13 @@ L3Harris PAC (FEC: C00100321) raised $3.52 million in the 2024 cycle from 2,982 
 
 ### What They Want
 
-**Electronic warfare dominance:** L3Harris produces the electronic warfare pods, jammers, and sensor systems that give US aircraft survivability in contested airspace. The Iran conflict validated this capability — electronic warfare systems dismantled Iranian air defenses before kinetic strikes began. In March 2026, L3Harris announced a breakthrough trial in autonomous electronic warfare with Shield AI, positioning for the next generation of AI-driven EW systems.
+**Electronic warfare dominance:** L3Harris produces the electronic warfare pods, jammers, and sensor systems that give US aircraft survivability in contested airspace. The Iran conflict validated this capability, electronic warfare systems dismantled Iranian air defenses before kinetic strikes began. In March 2026, L3Harris announced a breakthrough trial in autonomous electronic warfare with Shield AI, positioning for the next generation of AI-driven EW systems.
 
 **Space-based missile defense contracts:** L3Harris is positioning as a primary contractor for the Golden Dome missile defense program. The company built a $100 million, 94,000 sq ft satellite manufacturing facility in Palm Bay, Florida specifically for Golden Dome production. The SDA Tranche 3 Tracking Layer contract ($843 million for 18 infrared missile-tracking satellites) is the entry point to a program that has expanded from $24.4 billion to $185 billion.
 
 **Communications monopoly preservation:** L3Harris produces the majority of tactical radio systems used by the US military. Once a service branch standardizes on L3Harris radios, switching costs make competition nearly impossible. This lock-in generates recurring revenue independent of new contract competitions.
 
-**Increased defense spending:** L3Harris's revenue depends on Pentagon budgets. The FY2026 reconciliation act's $152 billion allocation — planned for single-year expenditure — directly benefits L3Harris through munitions components, electronic warfare upgrades, and space system production.
+**Increased defense spending:** L3Harris's revenue depends on Pentagon budgets. The FY2026 reconciliation act's $152 billion allocation, planned for single-year expenditure, directly benefits L3Harris through munitions components, electronic warfare upgrades, and space system production.
 
 ---
 
@@ -108,7 +108,7 @@ L3Harris PAC raised $3.52 million and distributed contributions to federal candi
 | 2025-2026 cycle | Contributions to other committees (YTD) | $1.35M | FEC |
 | 2025-2026 cycle | Cash on hand | $1.26M | FEC |
 
-**Bipartisan distribution:** L3Harris PAC contributes $2-3 million per cycle split across both parties — ensuring access to Armed Services, Appropriations, and Intelligence committee members regardless of which party holds power.
+**Bipartisan distribution:** L3Harris PAC contributes $2-3 million per cycle split across both parties, ensuring access to Armed Services, Appropriations, and Intelligence committee members regardless of which party holds power.
 
 **January 6 response:** L3Harris notably did NOT join the wave of defense contractors (Lockheed Martin, Boeing, Northrop Grumman, Raytheon, BAE Systems, Leidos) that publicly announced PAC contribution pauses after January 6, 2021. The company declined to comment when contacted by ProPublica. L3Harris PAC remained active and filing throughout 2021.
 
@@ -119,7 +119,7 @@ L3Harris PAC raised $3.52 million and distributed contributions to federal candi
 | 2024 | $2.49M | Baseline defense appropriations |
 | 2025 Q1 (annualized) | ~$10M+ projected | Iran war, Golden Dome expansion, AI regulation |
 
-L3Harris employs lobbyists focused on defense appropriations, electronic warfare modernization, space systems authorization, and — as of 2025 — AI regulation. At least 6 L3Harris lobbyists are registered on AI policy issues, positioning the company to shape the rules governing autonomous weapons and AI-driven electronic warfare before those rules constrain its products.
+L3Harris employs lobbyists focused on defense appropriations, electronic warfare modernization, space systems authorization, and, as of 2025. AI regulation. At least 6 L3Harris lobbyists are registered on AI policy issues, positioning the company to shape the rules governing autonomous weapons and AI-driven electronic warfare before those rules constrain its products.
 
 > [!money]
 > L3Harris spent $2.49 million on lobbying in 2024. The company holds $4.3 billion+ in identified recent contracts (SDA satellites, THAAD components, electronic warfare systems). The lobbying investment is 0.058% of the contract value it protects. The real political insurance isn't the lobbying — it's the supply chain lock-in. When L3Harris components are embedded in every major weapons platform, the company doesn't need to lobby for contracts. It needs to lobby against budget cuts.
@@ -130,7 +130,7 @@ L3Harris employs lobbyists focused on defense appropriations, electronic warfare
 
 L3Harris participates in the systemic Pentagon revolving door documented by POGO and Senator Elizabeth Warren. Warren's investigation found 672 instances of government officials and military officers rotating to the top 20 defense contractors, with 91% becoming registered lobbyists. L3Harris is among these companies.
 
-The Pentagon's own fellowship program has placed 315+ military officers directly at the Big Five defense contractors (plus L3Harris) since 1995 — creating a career pipeline where military officers understand their post-service employment depends on maintaining relationships with the companies they oversee.
+The Pentagon's own fellowship program has placed 315+ military officers directly at the Big Five defense contractors (plus L3Harris) since 1995, creating a career pipeline where military officers understand their post-service employment depends on maintaining relationships with the companies they oversee.
 
 ### Compliance History
 
@@ -141,7 +141,7 @@ L3Harris's predecessor companies have a documented pattern of legal violations:
 | 2021 | Arms-trafficking law violations settlement | $13M | DOJ |
 | 2021 | False Claims Act settlement (false cost proposals to DoD) | $22M | DOJ |
 
-The company paid $35 million to resolve these violations — and continued receiving billions in new contracts.
+The company paid $35 million to resolve these violations, and continued receiving billions in new contracts.
 
 > [!contradiction]
 > L3Harris paid $22 million to settle allegations it submitted false cost proposals to the Department of Defense — meaning it was caught lying about what its products cost. The settlement imposed no contract debarment. The company continued receiving billions in new DoD awards. When the penalty for defrauding the government is 0.17% of annual revenue, the incentive structure encourages cheating.
@@ -150,7 +150,7 @@ The company paid $35 million to resolve these violations — and continued recei
 
 ### What They've Gotten
 
-### The Golden Dome — $185 Billion and Growing
+### The Golden Dome, $185 Billion and Growing
 
 L3Harris is positioning as a primary contractor for the Golden Dome missile defense system alongside Lockheed Martin, RTX, and Northrop Grumman.
 
@@ -165,7 +165,7 @@ L3Harris is positioning as a primary contractor for the Golden Dome missile defe
 
 **Manufacturing footprint for Golden Dome:** Palm Bay, Florida (final satellite assembly, $100M expansion at full capacity), Fort Wayne, Indiana (sensor payload manufacturing), and Katowice, Poland (WESCAM MX-Series sensor manufacturing for rapid international deployment).
 
-The SDA tracking layer satellites are the eyes of Golden Dome — the infrared sensors that detect ballistic and hypersonic missiles from space. L3Harris's April 2025 demonstration that HBTSS could track a hypersonic target from orbit validated the technology and locked the company into the program. As Golden Dome expands from $24.4 billion to $185 billion, L3Harris's satellite manufacturing capacity becomes a strategic asset the Pentagon cannot do without.
+The SDA tracking layer satellites are the eyes of Golden Dome, the infrared sensors that detect ballistic and hypersonic missiles from space. L3Harris's April 2025 demonstration that HBTSS could track a hypersonic target from orbit validated the technology and locked the company into the program. As Golden Dome expands from $24.4 billion to $185 billion, L3Harris's satellite manufacturing capacity becomes a strategic asset the Pentagon cannot do without.
 
 ### The Iran War Revenue Surge
 
@@ -173,7 +173,7 @@ L3Harris products are directly deployed in the Iran conflict:
 
 **WESCAM MX-Series targeting sensors:** Electro-optical/infrared systems that detect and target aerial platforms. Used for both strike targeting and counter-UAS operations against Iranian drone threats.
 
-**Electronic warfare systems:** L3Harris EW technology was used in the February 2026 Iran strikes — dismantling radar, blinding command-and-control systems, and severing communications networks before kinetic weapons were launched.
+**Electronic warfare systems:** L3Harris EW technology was used in the February 2026 Iran strikes, dismantling radar, blinding command-and-control systems, and severing communications networks before kinetic weapons were launched.
 
 **Communications systems:** L3Harris tactical radios provide the communications backbone connecting US forces across the theater.
 
@@ -183,11 +183,11 @@ L3Harris products are directly deployed in the Iran conflict:
 | Mar 2, 2026 | First trading day post-strikes | L3Harris stock surges with defense sector | GovFacts |
 | Mar 25, 2026 | L3Harris stock price | $351.42 (significant YTD appreciation) | Market data |
 
-### THAAD Missile Defense — $400 Million
+### THAAD Missile Defense, $400 Million
 
-In March 2026, L3Harris secured a nearly $400 million contract from the Missile Defense Agency for THAAD components — solid rocket boost motors and Liquid Divert and Attitude Control Systems (LDACS). THAAD is the interceptor system defending US assets and allies from Iranian ballistic missiles. As the Iran conflict drives demand for missile defense, L3Harris's supplier position generates recurring revenue from every interceptor built.
+In March 2026, L3Harris secured a nearly $400 million contract from the Missile Defense Agency for THAAD components, solid rocket boost motors and Liquid Divert and Attitude Control Systems (LDACS). THAAD is the interceptor system defending US assets and allies from Iranian ballistic missiles. As the Iran conflict drives demand for missile defense, L3Harris's supplier position generates recurring revenue from every interceptor built.
 
-### Congressional Stock Trading — The Structural Conflict
+### Congressional Stock Trading. The Structural Conflict
 
 L3Harris stock appeared in the March 2026 investigation revealing 37 members of Congress traded up to $113 million in defense stocks during the Iran escalation:
 
@@ -196,7 +196,7 @@ L3Harris stock appeared in the March 2026 investigation revealing 37 members of 
 | Rep. Markwayne Mullin (R-OK) | Senate Armed Services | Purchased L3Harris (LHX) early 2025 | 50%+ excess returns | Capitol Trades |
 | Rep. Michael McCaul (R-TX) | House Foreign Affairs Chair | Bought GE Aerospace/Woodward (L3Harris suppliers) | 82%/114% | Quiver Quantitative |
 
-Members of Congress who receive classified briefings on Iran military operations are simultaneously holding stock in the companies profiting from those operations. No public evidence of insider trading — but the structural conflict between classified briefing access and personal investment portfolios is a documented pattern.
+Members of Congress who receive classified briefings on Iran military operations are simultaneously holding stock in the companies profiting from those operations. No public evidence of insider trading, but the structural conflict between classified briefing access and personal investment portfolios is a documented pattern.
 
 ---
 
@@ -206,11 +206,11 @@ L3Harris represents the defense sector's "invisible infrastructure" model of pol
 
 **Supply chain lock-in as political power.** L3Harris doesn't need to win headline-grabbing prime contracts. It needs to ensure its sensors, radios, and electronic warfare systems remain specified in every platform. When switching L3Harris components would require redesigning the F-35's sensor suite or the B-21's electronic warfare package, the company's market position becomes self-reinforcing. The PAC contributions ($3.5M/cycle) and lobbying ($2.5M/year) are maintenance payments on a structural advantage that operates automatically.
 
-**Electronic warfare as the new growth vector.** The Iran war validated electronic warfare as the first phase of modern combat — EW systems disabled Iranian defenses before a single missile was launched. L3Harris's March 2026 autonomous EW breakthrough with Shield AI positions the company at the intersection of two growth areas: electronic warfare and autonomous weapons. The AI lobbying team (6 registered lobbyists) is writing the rules for the market L3Harris plans to dominate.
+**Electronic warfare as the new growth vector.** The Iran war validated electronic warfare as the first phase of modern combat. EW systems disabled Iranian defenses before a single missile was launched. L3Harris's March 2026 autonomous EW breakthrough with Shield AI positions the company at the intersection of two growth areas: electronic warfare and autonomous weapons. The AI lobbying team (6 registered lobbyists) is writing the rules for the market L3Harris plans to dominate.
 
 **The compliance-to-contract pipeline.** L3Harris paid $35 million in settlements for arms trafficking and False Claims Act violations in 2021. In the same period, the company received billions in new contracts. The structural lesson: for defense contractors operating in a market with limited competition and bipartisan political support, legal violations are a business cost, not a business risk.
 
-**Congressional stock trading as structural capture.** Members of Congress who hold L3Harris stock have a personal financial interest in the company's success — which depends on increased defense spending, continued conflict, and expanded programs like Golden Dome. When armed services committee members who vote on defense budgets simultaneously profit from defense stocks, the accountability mechanism is structurally compromised. The company doesn't need to lobby those members. Their portfolios do the lobbying.
+**Congressional stock trading as structural capture.** Members of Congress who hold L3Harris stock have a personal financial interest in the company's success, which depends on increased defense spending, continued conflict, and expanded programs like Golden Dome. When armed services committee members who vote on defense budgets simultaneously profit from defense stocks, the accountability mechanism is structurally compromised. The company doesn't need to lobby those members. Their portfolios do the lobbying.
 
 ---
 

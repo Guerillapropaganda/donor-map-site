@@ -7,7 +7,7 @@ tags:
 
 # ROI Calculator
 
-How much does a policy cost? Pick a donor–politician pair and see the **return on investment** — what was donated versus the estimated value of the policy outcome it purchased.
+How much does a policy cost? Pick a donor–politician pair and see the **return on investment**, what was donated versus the estimated value of the policy outcome it purchased.
 
 <div id="dm-roi-calc" class="dm-interactive-container"></div>
 

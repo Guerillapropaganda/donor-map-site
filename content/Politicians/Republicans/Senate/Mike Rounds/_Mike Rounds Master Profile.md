@@ -1,5 +1,5 @@
 ---
-title: "Mike Rounds Master Profile"
+title: "Mike Rounds"
 type: politician
 content-readiness: draft
 last-updated: 2026-04-12

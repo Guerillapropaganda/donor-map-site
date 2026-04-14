@@ -1,5 +1,5 @@
 ---
-title: "Carol D. Miller Master Profile"
+title: "Carol D. Miller"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

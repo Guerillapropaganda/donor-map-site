@@ -1,5 +1,5 @@
 ---
-title: "Ruben Gallego Master Profile"
+title: "Ruben Gallego"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

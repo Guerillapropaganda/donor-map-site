@@ -38,7 +38,7 @@ donors: [[Jeffrey Yass]] [[Ross Stevens]] [[Susquehanna International Group]]
 ---
 
 ### [[Jeff Yass|Jeff Yass]]: The $40 Billion TikTok Investor
-[[Jeffrey Yass|Jeffrey Yass]] — co-founder of Susquehanna International Group (SIG), personal net worth approximately $40-45 billion — is one of America's largest private investors and most strategically positioned political donors.
+[[Jeffrey Yass|Jeffrey Yass]], co-founder of Susquehanna International Group (SIG), personal net worth approximately $40-45 billion, is one of America's largest private investors and most strategically positioned political donors.
 
 | Element | Detail |
 |---------|--------|
@@ -64,7 +64,7 @@ The sequence suggests strategic alignment: Yass's business interests (TikTok Ame
 ---
 
 ### Ross Stevens: The Bitcoin Infrastructure Builder
-[[Ross Stevens]] — founder and CEO of Stone Ridge Holdings Group ($20+ billion assets under management) — contributed $5 million to Ramaswamy's super PAC in spring 2025.
+[[Ross Stevens]], founder and CEO of Stone Ridge Holdings Group ($20+ billion assets under management), contributed $5 million to Ramaswamy's super PAC in spring 2025.
 
 | Element | Detail |
 |---------|--------|
@@ -88,7 +88,7 @@ Stevens's interest in Ramaswamy is explicit: Ohio governor position could positi
 | Acton | D | $5.3M | 70% Ohio residents, small-dollar | $3.0M | Median $28 |
 | Fundraising ratio | - | **3.7:1 Ramaswamy advantage** | Fundamentally different | - | **2.7:1 difference** |
 
-[[Amy Acton]] — former Ohio health director during COVID-19, public health official with media recognition — has built a structurally different campaign:
+[[Amy Acton]], former Ohio health director during COVID-19, public health official with media recognition, has built a structurally different campaign:
 
 - **Geographic origin:** 70% of contributions from Ohio residents (vs. Ramaswamy's money from PA/NY billionaires)
 - **Donor size:** 96% of contributions $100 or less (vs. Ramaswamy's average $76 concealing massive super PAC dependence)
@@ -116,7 +116,7 @@ The Institute on Taxation and Economic Policy (ITEP) analysis found:
 Impact distribution:
 - **Working-class Ohio households ($40K-$80K income):** Loss of ~$800-1,500/year in state income tax cuts offset by loss of state education funding, Medicaid expansion, transportation infrastructure
 - **High-income Ohio residents ($200K+ income):** Would save $3K-5K+ in income tax and capital gains tax (though many fund state services through federal subsidies)
-- **Ohio billionaires (e.g., Ramaswamy at $2.4B):** Capital gains tax elimination saves ~$7M-10M annually; income tax elimination irrelevant (most wealth is capital gains, not W-2 income)
+- **Ohio billionaires (e.g. Ramaswamy at $2.4B):** Capital gains tax elimination saves ~$7M-10M annually; income tax elimination irrelevant (most wealth is capital gains, not W-2 income)
 
 > [!money]
 > The tax plan is explicitly designed to transfer state revenue from working-class public services to billionaire wealth accumulation. Ramaswamy's $10M+ stake in Roivant and his Strive hedge fund both benefit from capital gains tax elimination. His campaign pitch ("lower taxes for everyone") serves the reality ("eliminate taxes on capital gains"). Who benefits most is not who does most of the pitching.
@@ -135,7 +135,7 @@ The geographic mismatch reveals the structural function: Out-of-state billionair
 > [!contradiction]
 > Ramaswamy's campaign brand: "outsider running against the establishment." Ramaswamy's funding: $15M from two out-of-state billionaires with direct financial interest in Ohio deregulation, $6.8M from 88.9K small donors averaging $76. The "outsider" is the billionaire-backed candidate in a race where the other candidate (Acton) is the genuinely small-dollar funded one. The contradiction is managed through geographic and demographic separation: Out-of-state billionaires don't watch Ohio local news. Ohio small donors don't read crypto industry press. The campaign runs parallel narratives to different audiences.
 
-Comparison: Acton's 70% Ohio donor base means Ohio residents are funding Ohio governance. Ramaswamy's 83% super PAC dependence on two non-Ohio billionaires means non-Ohio capital is funding Ohio governance — with Ohio governance shaped accordingly.
+Comparison: Acton's 70% Ohio donor base means Ohio residents are funding Ohio governance. Ramaswamy's 83% super PAC dependence on two non-Ohio billionaires means non-Ohio capital is funding Ohio governance, with Ohio governance shaped accordingly.
 
 ---
 
@@ -144,17 +144,17 @@ The race dynamics suggest Ohio governorship as a stepping stone rather than a de
 
 | Date | Event | Amount | Source |
 |------|-------|--------|--------|
-| 2023-11-15 | Ramaswamy announces 2024 presidential campaign | — | Campaign announcement |
+| 2023-11-15 | Ramaswamy announces 2024 presidential campaign |, | Campaign announcement |
 | 2024-03-01 | Ramaswamy spends $26M of personal wealth on 2024 presidential race | $26,000,000 | OpenSecrets, FEC filings (Tier 1) |
-| 2024-11-05 | 2024 presidential election; Ramaswamy ends campaign | — | Election results |
-| 2025-01-20 | Ramaswamy joins Trump administration as DOGE co-lead | — | White House announcement |
-| 2025-03-20 | Ramaswamy departs DOGE (32-day tenure) | — | Ramaswamy resignation announcement |
+| 2024-11-05 | 2024 presidential election; Ramaswamy ends campaign |, | Election results |
+| 2025-01-20 | Ramaswamy joins Trump administration as DOGE co-lead |, | White House announcement |
+| 2025-03-20 | Ramaswamy departs DOGE (32-day tenure) |, | Ramaswamy resignation announcement |
 | 2025-03-01 | Jeff Yass contributes $10M to Ramaswamy Ohio governor super PAC | $10,000,000 | OpenSecrets (Tier 1) |
-| 2025-05-01 | Ramaswamy launches 2026 Ohio governor campaign | — | Campaign announcement |
-| 2026-01-01 | 2026 Ohio governor race primary season begins | — | Ohio Secretary of State |
-| 2026-11-03 | 2026 Ohio gubernatorial election | — | Election |
-| 2027-01-01 | (If elected) Ramaswamy serves as Ohio governor (term 2027–2030) | — | Ohio state office |
-| 2028-01-01 | Ramaswamy at age 40; eligible for 2028 presidential race | — | Age/eligibility threshold |
+| 2025-05-01 | Ramaswamy launches 2026 Ohio governor campaign |, | Campaign announcement |
+| 2026-01-01 | 2026 Ohio governor race primary season begins |, | Ohio Secretary of State |
+| 2026-11-03 | 2026 Ohio gubernatorial election |, | Election |
+| 2027-01-01 | (If elected) Ramaswamy serves as Ohio governor (term 2027–2030) |, | Ohio state office |
+| 2028-01-01 | Ramaswamy at age 40; eligible for 2028 presidential race |, | Age/eligibility threshold |
 
 > [!money]
 > Ramaswamy's political trajectory reveals a presidential pipeline disguised as a gubernatorial race. He self-funded $26M for 2024 (age 33) and lost. He took a 32-day federal role (DOGE, 2025) to test government credentials. He then accepted $15M from two billionaires (Yass and Stevens) for an Ohio governor race that positions him as 40-year-old incumbent governor for a 2028 presidential run (age-appropriate, executive experience resume). The billionaires understood: this is a 2028 presidential candidate on the 2026 Ohio ballot. The campaign investment is downstream positioning for a 2028 race where Ramaswamy will be better-positioned (executive experience) than in 2024 (business-only).
@@ -176,5 +176,5 @@ Ramaswamy is 38 years old (2026). If elected Ohio governor in 2026, he would ser
 
 ### Sources
 - [OpenSecrets: 2026 Ohio gubernatorial election funding data](https://www.opensecrets.org/members-of-congress/summary?name=Ohio%20Governor%20Race%20and%20the%20Billionaire%20Super%20PAC) (Tier 1) (VERIFIED)
-- ~~[FollowTheMoney: Ohio state campaign finance database and super PAC tracking](https://www.followthemoney.org/show-me?s=CA&y=2024&c-r-ot=U&d-cci=The%20Ohio%20Governor%20Race%20and%20the%20Billionaire%20Super%20PAC#[%7B1%7Cgro=d-id)~~ (was FollowTheMoney — site merged into OpenSecrets, all URLs dead) (Tier 1)
+- ~~[FollowTheMoney: Ohio state campaign finance database and super PAC tracking](https://www.followthemoney.org/show-me?s=CA&y=2024&c-r-ot=U&d-cci=The%20Ohio%20Governor%20Race%20and%20the%20Billionaire%20Super%20PAC#[%7B1%7Cgro=d-id)~~ (was FollowTheMoney, site merged into OpenSecrets, all URLs dead) (Tier 1)
 - [Ballotpedia: 2026 Ohio gubernatorial election overview](https://ballotpedia.org/The_Ohio_Governor_Race_and_the_Billionaire_Super_PAC) (Tier 3) (VERIFIED)

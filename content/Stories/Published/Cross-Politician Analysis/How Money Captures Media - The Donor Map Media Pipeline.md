@@ -1,5 +1,5 @@
 ---
-title: "How Money Captures Media — The Donor Map Media Pipeline"
+title: "How Money Captures Media , The Donor Map Media Pipeline"
 type: story
 content-readiness: ready
 central-thesis: "Politicians deliver votes. Media personalities deliver consent. The same donor class funds both."

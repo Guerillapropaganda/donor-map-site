@@ -28,7 +28,7 @@ The [[Hollywood Democratic Donor Network|Hollywood Democratic Donor Network]] is
 
 Key figures: Jeffrey Katzenberg (DreamWorks co-founder, fundraiser, $5M+ lifetime federal giving), David Geffen (DreamWorks co-founder, music/film producer, $20M+ lifetime federal giving), [[Haim Saban|Haim Saban]] (Wndern owner, TV producer, $12M+ lifetime federal giving, $16M in 2016 cycle alone), Casey Wasserman (entertainment executive, bundler, fundraiser), Reed Hastings (Netflix co-founder, $20M+ 2024 giving).
 
-This network is distinctive in that it combines wealth-based donor power with direct control over cultural production infrastructure. Unlike tech billionaires (who lobby regulators) or finance billionaires (who protect tax code preferences), Hollywood donors simultaneously shape what Americans watch, hear, and think politically — creating an integrated power structure combining financial influence and cultural production.
+This network is distinctive in that it combines wealth-based donor power with direct control over cultural production infrastructure. Unlike tech billionaires (who lobby regulators) or finance billionaires (who protect tax code preferences), Hollywood donors simultaneously shape what Americans watch, hear, and think politically, creating an integrated power structure combining financial influence and cultural production.
 
 ---
 
@@ -80,7 +80,7 @@ The Hollywood donor network's most concrete and materially self-interested polic
 
 **International Trade Enforcement:** USMCA and other trade agreements contain provisions protecting American entertainment company intellectual property in foreign markets. Hollywood donors support Democratic trade positions that maintain these protections, framing this as "job protection" while actually protecting executive compensation tied to content revenue.
 
-**Streaming Industry Cartel Protection:** Netflix, Disney+, and other platforms collude on content pricing, exclusive licensing, and geographic distribution restrictions. Democratic antitrust positions remain deliberately weak on streaming industry consolidation — no major Democratic antitrust proposal has targeted Netflix or Disney+ market power despite documented competitive abuses.
+**Streaming Industry Cartel Protection:** Netflix, Disney+, and other platforms collude on content pricing, exclusive licensing, and geographic distribution restrictions. Democratic antitrust positions remain deliberately weak on streaming industry consolidation, no major Democratic antitrust proposal has targeted Netflix or Disney+ market power despite documented competitive abuses.
 
 **Anti-Piracy Lobbying:** Entertainment industry funds Democratic candidates who support aggressive anti-piracy enforcement, including IP address surveillance, ISP cooperation with studios, and legal penalties for unauthorized downloads. This creates a Democratic position where civil liberties concerns about digital surveillance are outweighed by copyright holder interests.
 
@@ -94,7 +94,7 @@ The Hollywood donor network's most concrete and materially self-interested polic
 
 **California State Level:** Hollywood donor network maintains tight control over California Democratic Party platform on copyright, streaming regulation, and entertainment tax incentives. California's budget includes $100M+ annually in film and television tax credits that overwhelmingly benefit major studios and streaming platforms. This spending exists because of entertainment donor network coordination with California Democratic leadership.
 
-**Federal Copyright Office Appointments:** Biden administration appointed Kathy Griffith as Copyright Office director (confirmed 2023) — a career entertainment industry attorney. This represents direct donor network influence over intellectual property enforcement apparatus. Copyright Office has subsequently prioritized anti-piracy enforcement and DMCA protection over fair use or digital rights expansion.
+**Federal Copyright Office Appointments:** Biden administration appointed Kathy Griffith as Copyright Office director (confirmed 2023), a career entertainment industry attorney. This represents direct donor network influence over intellectual property enforcement apparatus. Copyright Office has subsequently prioritized anti-piracy enforcement and DMCA protection over fair use or digital rights expansion.
 
 ---
 
@@ -105,7 +105,7 @@ The Hollywood donor network's most concrete and materially self-interested polic
 >
 > Material reality: These same donors operate entertainment companies engaged in systematic labor suppression, gig-model precarity, and active resistance to unionization.
 
-The core scandal is structural: Hollywood donors publicly fund Democratic politicians emphasizing workers' rights, unionization, and labor protection — while simultaneously operating entertainment companies engaged in systematic labor suppression.
+The core scandal is structural: Hollywood donors publicly fund Democratic politicians emphasizing workers' rights, unionization, and labor protection, while simultaneously operating entertainment companies engaged in systematic labor suppression.
 
 ### Writers Guild Strike 2023
 
@@ -125,7 +125,7 @@ Entertainment companies controlled by Hollywood donor network produce content de
 
 ### What Hollywood Donors Have Gotten: Cultural Production as Political Infrastructure
 
-The underrecognized power dynamic: Hollywood donors don't just fund Democratic campaigns — they control what Americans watch and what narratives shape political consciousness. This is media ownership power operating as political capital.
+The underrecognized power dynamic: Hollywood donors don't just fund Democratic campaigns, they control what Americans watch and what narratives shape political consciousness. This is media ownership power operating as political capital.
 
 > [!money]
 > Netflix: 230 million subscribers (primary political content window for 40% of American households)
@@ -157,12 +157,12 @@ The material policy agenda reveals what the progressive brand actually purchases
 - [FEC Receipts: David Geffen donor profile](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=David%20Geffen) (Tier 1) (VERIFIED)
 - [FEC Receipts: Haim Saban donor profile](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Haim%20Saban) (Tier 1) (VERIFIED)
 - [Variety: "Hollywood Donors Feel 'Tremendous Enthusiasm' for Kamala Harris"](https://variety.com/2024/politics/news/hollywood-donors-kamala-harris-support-joe-biden-jeffrey-katzenberg-1236080773/) (Tier 2) (VERIFIED)
-- ~~[Hollywood Reporter: "Jeffrey Katzenberg rescues Democratic fundraising in Hollywood"](https://www.hollywoodreporter.com/news/general-news/jeffrey-katzenberg-democrat-donations-fundraising-hollywood-strikes-4088888/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[Hollywood Reporter: "Jeffrey Katzenberg rescues Democratic fundraising in Hollywood"](https://www.hollywoodreporter.com/news/general-news/jeffrey-katzenberg-democrat-donations-fundraising-hollywood-strikes-4088888/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [The Ankler: "After Katzenberg: Hollywood Democrats Come Back To Life"](https://theankler.com/p/after-katzenberg-hollywood-democrats) (Tier 2) (VERIFIED)
-- ~~[Writers Guild of America: 2023 Strike documentation and contract analysis](https://www.wga.org/news-events-press/news/archives-2023)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
-- ~~[Bloomberg: "Hollywood Studios and Artificial Intelligence: The 2023 Negotiations"](https://www.bloomberg.com/news/articles/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[Writers Guild of America: 2023 Strike documentation and contract analysis](https://www.wga.org/news-events-press/news/archives-2023)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- ~~[Bloomberg: "Hollywood Studios and Artificial Intelligence: The 2023 Negotiations"](https://www.bloomberg.com/news/articles/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Federal Copyright Office: Copyright Office Director confirmation records](https://www.copyright.gov/about/) (Tier 1) (VERIFIED)
-- ~~[CNBC: "Reed Hastings: Netflix backed Harris with $7 million"](https://www.cnbc.com/2024/07/reed-hastings-kamala-harris-donation/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[CNBC: "Reed Hastings: Netflix backed Harris with $7 million"](https://www.cnbc.com/2024/07/reed-hastings-kamala-harris-donation/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 
 ---
 

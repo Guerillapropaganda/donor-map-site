@@ -90,11 +90,11 @@ The supermajority ruling portfolio becomes the model for future judicial capture
 
 ### Tier 1 (Primary Documents)
 - [Supreme Court Opinion PDF: Dobbs v. Jackson Women's Health Organization, 142 S.Ct. 2228 (2022)](https://www.supremecourt.gov/opinions/21pdf/19-1392_6j37.pdf) (Tier 1) (VERIFIED)
-- ~~[Supreme Court Opinion PDF: New York State Rifle & Pistol Association Inc. v. Bruen, 142 S.Ct. 2111 (2022)](https://www.supremecourt.gov/opinions/21pdf/20-843_ihdb.pdf)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[Supreme Court Opinion PDF: New York State Rifle & Pistol Association Inc. v. Bruen, 142 S.Ct. 2111 (2022)](https://www.supremecourt.gov/opinions/21pdf/20-843_ihdb.pdf)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [Supreme Court Opinion PDF: Students for Fair Admissions Inc. v. President & Fellows of Harvard College, 143 S.Ct. 2141 (2023)](https://www.supremecourt.gov/opinions/22pdf/20-1199_hgdj.pdf) (Tier 1) (VERIFIED)
-- ~~[Supreme Court Opinion PDF: West Virginia v. Environmental Protection Agency, 142 S.Ct. 2587 (2022)](https://www.supremecourt.gov/opinions/21pdf/20-1530_new6o1f.pdf)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
-- ~~[Supreme Court Opinion PDF: 303 Creative LLC v. Elenis, 143 S.Ct. 2298 (2023)](https://www.supremecourt.gov/opinions/22pdf/21-476_i29d.pdf)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
-- ~~[Supreme Court Opinion PDF: Loper Bright Enterprises v. Raimondo, 144 S.Ct. 2244 (2024)](https://www.supremecourt.gov/opinions/23pdf/22-451_7kgm.pdf)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[Supreme Court Opinion PDF: West Virginia v. Environmental Protection Agency, 142 S.Ct. 2587 (2022)](https://www.supremecourt.gov/opinions/21pdf/20-1530_new6o1f.pdf)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- ~~[Supreme Court Opinion PDF: 303 Creative LLC v. Elenis, 143 S.Ct. 2298 (2023)](https://www.supremecourt.gov/opinions/22pdf/21-476_i29d.pdf)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- ~~[Supreme Court Opinion PDF: Loper Bright Enterprises v. Raimondo, 144 S.Ct. 2244 (2024)](https://www.supremecourt.gov/opinions/23pdf/22-451_7kgm.pdf)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 
 ### Tier 2 (Investigative Journalism)
 - [SCOTUSblog: Dobbs v. Jackson Women's Health Organization Case Analysis](https://www.scotusblog.com/cases/case-files/dobbs-v-jackson-womens-health-organization/) (Tier 2) (VERIFIED)

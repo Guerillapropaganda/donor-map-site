@@ -1,5 +1,5 @@
 ---
-title: "Chuck Edwards Master Profile"
+title: "Chuck Edwards"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

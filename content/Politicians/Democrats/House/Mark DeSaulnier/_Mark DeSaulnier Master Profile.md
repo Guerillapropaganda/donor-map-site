@@ -1,5 +1,5 @@
 ---
-title: "Mark DeSaulnier Master Profile"
+title: "Mark DeSaulnier"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

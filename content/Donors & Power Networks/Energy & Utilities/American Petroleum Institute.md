@@ -150,7 +150,7 @@ Sources: [OpenSecrets API Totals (D000031493)](https://www.opensecrets.org/orgs/
 ### Better Jobs Together Campaign (2021–2022 Dark Money Operation):
 API's 2021 Form 990 tax filing revealed API paid **$3,500,000** to "Better Jobs Together Campaign," an opaque Virginia corporation formed April 2021. Better Jobs Together then ran more than $2,500,000 in TV ads supporting conservative Democratic members of Congress, **Representatives Henry Cuellar (TX) and Kurt Schrader (OR)**, who were actively blocking Biden's climate and infrastructure agenda. This was a classic dark money operation: API funneled money through an anonymous shell corporation to secretly fund Democratic politicians opposing their party's climate platform.
 
-Source: ~~[Sludge: Revealed. Oil Industry Lobbying Group Funded Dark Money Ad Campaign](https://readsludge.com/2022/11/16/revealed-oil-industry-lobbying-group-funded-dark-money-ad-campaign-for-conservative-democrats/industry-lobbying-group-funded-dark-money-ad-campaign-for-conservative-democrats/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+Source: ~~[Sludge: Revealed. Oil Industry Lobbying Group Funded Dark Money Ad Campaign](https://readsludge.com/2022/11/16/revealed-oil-industry-lobbying-group-funded-dark-money-ad-campaign-for-conservative-democrats/industry-lobbying-group-funded-dark-money-ad-campaign-for-conservative-democrats/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 
 ### Additional Dark Money Recipients Funded by API:
 API has funneled donations to dozens of 501(c)(4) and ideological organizations through its Schedule I charitable contributions:
@@ -421,7 +421,7 @@ In April 1998, just months after Kyoto Protocol was signed, API's Joe Walker cir
 | National Direct Outreach Program | $300,000 |
 
 Key tactics included:
-- Recruiting "a team of five independent scientists" for media outreach to "inject credible science.. thereby raising questions about and undercutting the 'prevailing scientific wisdom'"
+- Recruiting "a team of five independent scientists" for media outreach to "inject credible science. thereby raising questions about and undercutting the 'prevailing scientific wisdom'"
 - Establishing "sound scientific alternative" to IPCC
 - Developing op-eds, radio appearances, press releases
 - Targeting teachers and students to influence science education
@@ -487,7 +487,7 @@ As 1992 Earth Summit approached, API executive VP William O'Keefe published lett
 | 2009–2010 | Energy Citizens astroturf vs. Waxman-Markey |, | Grassroots opposition to cap-and-trade |
 | 2021 | Nominal support for carbon pricing (PR move) |, | Support carbon pricing (no legislation) |
 
-Sources: [Union of Concerned Scientists: Fossil Fuel Deception](https://blog.ucs.org/laura-peterson/fossil-fuel-deception-first-100-days/) (Tier 2) (VERIFIED) | [DeSmog: API Climate Denial Campaign](https://www.desmog.com/2021/01/15/api-american-petroleum-institute-oil-industry-public-climate-denial-campaign-1980/) (Tier 2) (NEEDS REVIEW) | ~~[Taylor & Francis Academic Study (2021)](https://www.tandfonline.com/doi/full/10.1080/09644016.2021.1947636)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3)
+Sources: [Union of Concerned Scientists: Fossil Fuel Deception](https://blog.ucs.org/laura-peterson/fossil-fuel-deception-first-100-days/) (Tier 2) (VERIFIED) | [DeSmog: API Climate Denial Campaign](https://www.desmog.com/2021/01/15/api-american-petroleum-institute-oil-industry-public-climate-denial-campaign-1980/) (Tier 2) (NEEDS REVIEW) | ~~[Taylor & Francis Academic Study (2021)](https://www.tandfonline.com/doi/full/10.1080/09644016.2021.1947636)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
 
 ### Revolving Door
 
@@ -624,7 +624,7 @@ The $252M annual budget is not a philanthropic charitable organization. It is a 
 - [DeSmog: API Climate Denial Campaign 1980](https://www.desmog.com/2021/01/15/api-american-petroleum-institute-oil-industry-public-climate-denial-campaign-1980/) (Tier 2) (VERIFIED)
 - [DeSmog: Energy Citizens Astroturf Campaign Exposed](https://www.desmog.com/2009/08/13/oil-lobbys-energy-citizens-astroturf-campaign-exposed-launch/) (Tier 2) (VERIFIED)
 - [DeSmog: Fossil Fuel Trade Associations $1.4 Billion PR Campaigns](https://www.desmog.com/2019/03/18/american-petroleum-institute-api-energy-corporate-trade-associations-1-4-billion-pr-campaigns/) (Tier 2) (VERIFIED)
-- ~~[Sludge: Revealed. Oil Industry Dark Money Campaign for Conservative Democrats](https://readsludge.com/2022/11/16/revealed-oil-industry-lobbying-group-funded-dark-money-ad-campaign-for-conservative-democrats/industry-lobbying-group-funded-dark-money-ad-campaign-for-conservative-democrats/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[Sludge: Revealed. Oil Industry Dark Money Campaign for Conservative Democrats](https://readsludge.com/2022/11/16/revealed-oil-industry-lobbying-group-funded-dark-money-ad-campaign-for-conservative-democrats/industry-lobbying-group-funded-dark-money-ad-campaign-for-conservative-democrats/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Sludge: API Climate Denial News Analysis](https://readsludge.com/) (Tier 2) (VERIFIED)
 - [Climate Power: American Petroleum Institute Hypocrisy Analysis](https://climatepower.us/news/american-petroleum-institutes-blatant-hypocrisy-on-climate-action/) (Tier 2) (VERIFIED)
 - [Climate Criminals: Mike Sommers Profile](https://www.climatecriminals.org/mike-sommers) (Tier 2)
@@ -638,7 +638,7 @@ The $252M annual budget is not a philanthropic charitable organization. It is a 
 - [Public Citizen: Energy Citizens Rally Exposed](https://www.citizen.org/news/industry-astroturf-rally-against-climate-change-bill-shows-big-oil-cant-organize-real-grassroots-movement-api-throws-company-picnic-not-town-hall-meeting-on-climate-change/) (Tier 2)
 - [Fox Business: Top Energy Lobby Group Unleashes 8-Figure Ad Campaign (2024)](https://www.foxbusiness.com/politics/top-energy-lobby-group-unleashes-8-figure-ad-campaign-support-us-production-ahead-2024-election) (Tier 2) (VERIFIED)
 - [OpenSecrets News: American Petroleum Institute Recycled Same Arguments Decades](https://www.opensecrets.org/news/2024/07/american-petroleum-institute-recycled-same-arguments-for-decades-lobbying-on-climate-policy/) (Tier 2) (VERIFIED) (UNVERIFIED)
-- ~~[Taylor & Francis: Global Climate Coalition and Climate Denial Study (2021)](https://www.tandfonline.com/doi/full/10.1080/09644016.2021.1947636)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3) (UNVERIFIED)
+- ~~[Taylor & Francis: Global Climate Coalition and Climate Denial Study (2021)](https://www.tandfonline.com/doi/full/10.1080/09644016.2021.1947636)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3) (UNVERIFIED)
 - [The Cool Down: API Ad Campaign Coverage (2024)](https://www.thecooldown.com/green-business/api-ad-campaign-oil-gas-industry-voters/) (Tier 3) (VERIFIED)
 - [The Intercept: Bipartisan Infrastructure Bill Fossil Fuel Subsidies](https://theintercept.com/2021/08/03/bipartisan-infrastructure-bill-climate-subsidies-fossil-fuel/) (Tier 2) (VERIFIED)
 - [The Real News Network: Fossil Fuel Trade Associations PR Spending (2019)](https://therealnews.com/fossil-fuel-trade-associations-spent-1-4-billion-on-ads-in-past-decade) (Tier 2) (VERIFIED)

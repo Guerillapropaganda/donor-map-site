@@ -28,7 +28,7 @@ The needs-reenrichment flag has been set. The next scheduled pipeline run will p
 
 The Pharmaceutical Industry Bloc. The most powerful lobbying force in American politics by total spending: $350-400 million annually in lobbying (more than any other industry), $50-80 million per cycle in PAC and campaign contributions, and hundreds of millions more in issue advocacy, astroturfing, and state-level political spending. The bloc includes brand-name drug manufacturers (Pfizer, Merck, AbbVie, Eli Lilly, Novo Nordisk, J&J), their trade association PhRMA, generic manufacturers, pharmacy benefit managers (CVS/Caremark, Express Scripts, OptumRx), and biotech companies.
 
-The industry employs more registered lobbyists than there are members of Congress — 1,800+ lobbyists, roughly 3.4 per legislator. This lobbying army includes 65%+ former government officials (revolving door).
+The industry employs more registered lobbyists than there are members of Congress, 1,800+ lobbyists, roughly 3.4 per legislator. This lobbying army includes 65%+ former government officials (revolving door).
 
 - [FEC Receipts: Pharmaceutical industry lobbying totals](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1) (VERIFIED)
 
@@ -56,11 +56,11 @@ This spending buys a specific legislative outcome: the preservation of monopoly 
 
 ---
 
-### The IRA Drug Pricing Provision — A Structural Analysis
+### The IRA Drug Pricing Provision. A Structural Analysis
 
 The Inflation Reduction Act's drug pricing provision (2022) allows Medicare to negotiate prices on 10 drugs starting in 2026, expanding to 20 drugs by 2029. The provision was marketed as a historic victory for drug pricing reform. The structural reality:
 
-Medicare covers 4,000+ drugs. Negotiation on 10-20 drugs leaves 99%+ of the drug market unaffected. The provision excludes drugs in their first 9-13 years on market (depending on type) — the period when monopoly pricing is most profitable. The pharmaceutical industry spent $350+ million lobbying against the provision and still preserved 99% of its pricing power. The "loss" was carefully managed: the industry accepted limited negotiation on its oldest, highest-profile drugs to prevent more aggressive reform.
+Medicare covers 4,000+ drugs. Negotiation on 10-20 drugs leaves 99%+ of the drug market unaffected. The provision excludes drugs in their first 9-13 years on market (depending on type), the period when monopoly pricing is most profitable. The pharmaceutical industry spent $350+ million lobbying against the provision and still preserved 99% of its pricing power. The "loss" was carefully managed: the industry accepted limited negotiation on its oldest, highest-profile drugs to prevent more aggressive reform.
 
 > [!money]
 > The pharmaceutical industry's $350-400 million annual lobbying investment protects a $600+ billion annual U.S. revenue stream — making it the highest-ROI lobbying spend in American politics. The industry's 1,800+ lobbyists (3.4 per member of Congress) ensure that every legislative proposal affecting drug pricing is shaped, weakened, or killed before it threatens monopoly pricing. The IRA's drug pricing provision — negotiation on 10 of 4,000+ drugs — demonstrates the industry's ability to concede symbolically while preserving structurally. Every dollar in lobbying spending protects roughly $1,500 in revenue.

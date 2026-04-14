@@ -1,5 +1,5 @@
 ---
-title: "Say vs Pay — Contradiction Explorer"
+title: "Say vs Pay , Contradiction Explorer"
 ---
 
 # Say vs Pay

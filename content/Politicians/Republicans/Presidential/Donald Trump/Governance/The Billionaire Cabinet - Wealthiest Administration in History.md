@@ -126,9 +126,9 @@ The billionaire cabinet is presented as a temporary experiment in "business-styl
 - [Office of Government Ethics: Executive Branch Financial Disclosures](https://www.oge.gov/web/278eGuide.nsf/Overview) (Tier 1) (VERIFIED)
 
 ### Tier 2 (Major Journalism):
-- ~~[Washington Post: Meet the Trump administration's 12 billionaires (Interactive)](https://www.washingtonpost.com/politics/interactive/2025/trump-white-house-billionaires-musk/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
-- ~~[U.S. News & World Report: How Many Billionaires Are in Trump's Administration?](https://www.usnews.com/news/national-news/articles/how-many-billionaires-are-in-trump-administration-what-is-their-worth)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
-- ~~[Bloomberg: Trump Cabinet Picks. Confirmations Reveal Wealth of Appointees](https://www.bloomberg.com/graphics/2025-trump-cabinet-wealth/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[Washington Post: Meet the Trump administration's 12 billionaires (Interactive)](https://www.washingtonpost.com/politics/interactive/2025/trump-white-house-billionaires-musk/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[U.S. News & World Report: How Many Billionaires Are in Trump's Administration?](https://www.usnews.com/news/national-news/articles/how-many-billionaires-are-in-trump-administration-what-is-their-worth)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Bloomberg: Trump Cabinet Picks. Confirmations Reveal Wealth of Appointees](https://www.bloomberg.com/graphics/2025-trump-cabinet-wealth/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [ABC News: Trump has tapped 13 billionaires for administration. Here's who they are](https://abcnews.com/US/trump-tapped-unprecedented-13-billionaires-top-administration-roles/story?id=116872968) (Tier 2) (VERIFIED)
 - [CNN: Trump's first 100 days. How Trump has altered federal government in ways that could benefit himself and inner circle](https://www.cnn.com/2025/04/24/politics/donald-trump-cabinet-policy-ethics/index.html) (Tier 2) (VERIFIED)
 - [Public Citizen: Trump's Billionaire Cabinet Represents the Top 0.0001%](https://www.citizen.org/article/trumps-billionaire-cabinet-represents-the-top-0001-percent/) (Tier 2) (VERIFIED)

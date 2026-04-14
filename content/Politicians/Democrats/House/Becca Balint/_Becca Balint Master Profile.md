@@ -1,5 +1,5 @@
 ---
-title: "Becca Balint Master Profile"
+title: "Becca Balint"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

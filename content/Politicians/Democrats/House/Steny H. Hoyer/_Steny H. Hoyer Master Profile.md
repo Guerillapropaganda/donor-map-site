@@ -1,5 +1,5 @@
 ---
-title: "Steny H. Hoyer Master Profile"
+title: "Steny H. Hoyer"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

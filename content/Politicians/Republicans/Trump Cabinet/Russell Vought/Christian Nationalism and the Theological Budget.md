@@ -28,21 +28,21 @@ donors: [[Conservative Partnership Institute]], Klingenstein Fund, [[Bradley Imp
 
 | Date | Event | Amount | Source |
 |------|-------|--------|--------|
-| 2008-01-01 | Vought becomes Policy Director, House Republican Conference (under Mike Pence) | — | Vought CV, Congressional archives |
-| 2010-03-23 | Affordable Care Act passes | — | Congress.gov (Tier 1) |
-| 2010-07-01 | Vought co-founds Heritage Action for America | — | Heritage Action incorporation documents |
-| 2010-01-01 | Heritage Action launches as advocacy arm of Heritage Foundation (response to ACA) | — | Heritage Action press release |
-| 2010-12-31 | Vought becomes VP, Heritage Action | — | Heritage Action filings |
-| 2017-12-31 | Vought ends Heritage Action role | — | Heritage Action filings |
-| 2018-02-01 | Vought joins OMB as Deputy Director (Trump administration begins) | — | White House announcement |
-| 2018-12-31 | Vought becomes Acting OMB Director | — | White House announcement |
+| 2008-01-01 | Vought becomes Policy Director, House Republican Conference (under Mike Pence) |, | Vought CV, Congressional archives |
+| 2010-03-23 | Affordable Care Act passes |, | Congress.gov (Tier 1) |
+| 2010-07-01 | Vought co-founds Heritage Action for America |, | Heritage Action incorporation documents |
+| 2010-01-01 | Heritage Action launches as advocacy arm of Heritage Foundation (response to ACA) |, | Heritage Action press release |
+| 2010-12-31 | Vought becomes VP, Heritage Action |, | Heritage Action filings |
+| 2017-12-31 | Vought ends Heritage Action role |, | Heritage Action filings |
+| 2018-02-01 | Vought joins OMB as Deputy Director (Trump administration begins) |, | White House announcement |
+| 2018-12-31 | Vought becomes Acting OMB Director |, | White House announcement |
 | 2019-07-01 | Vought freezes $214M in Ukraine security aid (later deemed illegal by GAO) | $214,000,000 | Government Accountability Office report (Tier 1) |
-| 2019-10-01 | Trump impeachment inquiry initiated (related to Ukraine freeze) | — | Congress.gov (Tier 1) |
-| 2021-01-20 | Biden administration begins; Vought departs OMB | — | White House transition |
-| 2021-01-01 | Vought founds Center for Renewing America | — | CRA incorporation documents |
-| 2021-09-01 | Vought publishes Newsweek column: U.S. should be "recognized as a Christian nation" | — | Newsweek, Vought Master Profile (Tier 2) |
-| 2023-06-01 | Vought delivers "Christian case for immigration restriction" speech | — | Heritage Foundation / Baptist News Global (Tier 2) |
-| 2025-01-20 | Trump second term begins; Vought becomes OMB Director | — | White House announcement |
+| 2019-10-01 | Trump impeachment inquiry initiated (related to Ukraine freeze) |, | Congress.gov (Tier 1) |
+| 2021-01-20 | Biden administration begins; Vought departs OMB |, | White House transition |
+| 2021-01-01 | Vought founds Center for Renewing America |, | CRA incorporation documents |
+| 2021-09-01 | Vought publishes Newsweek column: U.S. should be "recognized as a Christian nation" |, | Newsweek, Vought Master Profile (Tier 2) |
+| 2023-06-01 | Vought delivers "Christian case for immigration restriction" speech |, | Heritage Foundation / Baptist News Global (Tier 2) |
+| 2025-01-20 | Trump second term begins; Vought becomes OMB Director |, | White House announcement |
 | 2025-02-01 | Vought begins implementation of theological budget (USAID cuts 83%, Title I cuts $18B) | $19,300,000,000 cumulative cuts | Government Executive, OMB filings (Tier 2) |
 
 > [!money]
@@ -52,9 +52,9 @@ donors: [[Conservative Partnership Institute]], Klingenstein Fund, [[Bradley Imp
 
 ### Heritage Action: The Origin Story
 
-Vought co-founded Heritage Action for America in July 2010 with Michael Needham, in direct response to the Affordable Care Act's passage. Heritage Action became the advocacy and lobbying arm of the Heritage Foundation — the bridge between think tank policy papers and congressional pressure campaigns. The organization's function: convert donor money into political action, moving Heritage from recommendation to enforcement.
+Vought co-founded Heritage Action for America in July 2010 with Michael Needham, in direct response to the Affordable Care Act's passage. Heritage Action became the advocacy and lobbying arm of the Heritage Foundation, the bridge between think tank policy papers and congressional pressure campaigns. The organization's function: convert donor money into political action, moving Heritage from recommendation to enforcement.
 
-This organizational model — think tank develops policy, advocacy arm enforces compliance, personnel pipeline staffs government — became the template for the CRA → Project 2025 → OMB pipeline. Vought learned at Heritage how to build the machinery. He replicated it at CRA, scaled it through Project 2025, and now operates it from inside the government.
+This organizational model, think tank develops policy, advocacy arm enforces compliance, personnel pipeline staffs government, became the template for the CRA → Project 2025 → OMB pipeline. Vought learned at Heritage how to build the machinery. He replicated it at CRA, scaled it through Project 2025, and now operates it from inside the government.
 
 ---
 
@@ -63,14 +63,14 @@ This organizational model — think tank develops policy, advocacy arm enforces 
 The spending cuts Vought has implemented or proposed follow a consistent theological pattern:
 
 ### Defunded or Cut:
-- USAID (83%) — foreign aid, often to Muslim-majority countries
-- Education Department ($12B, 15.3%) — secular public education
-- Title I schools ($18B eliminated) — low-income, predominantly minority schools
-- CFPB — consumer protection agency (secular regulatory state)
-- EPA (54.5% proposed) — environmental regulation (viewed as competing moral framework)
-- DEI programs — canceled contracts mentioning white privilege or systemic racism
-- LGBTQ+ protections — defunded across agencies
-- Abortion access — defunded where possible
+- USAID (83%), foreign aid, often to Muslim-majority countries
+- Education Department ($12B, 15.3%), secular public education
+- Title I schools ($18B eliminated), low-income, predominantly minority schools
+- CFPB, consumer protection agency (secular regulatory state)
+- EPA (54.5% proposed), environmental regulation (viewed as competing moral framework)
+- DEI programs, canceled contracts mentioning white privilege or systemic racism
+- LGBTQ+ protections, defunded across agencies
+- Abortion access, defunded where possible
 
 ### Preserved or Expanded:
 - Military spending

@@ -17,7 +17,7 @@ donors: [[AIPAC - American Israel Public Affairs Committee]] · [[Haim Saban]] �
 
 ### Senate Record and 2020 Primary
 
-Harris's Senate career (2017–2021) was a four-year audition for national office. Her legislative record was thin — no signature legislation passed — but her committee performances and policy positioning built the brand that landed the VP nomination. The 2020 presidential primary revealed the contradictions that would define her 2024 run: a prosecutor running as a reformer, a donor-class candidate claiming working-class credentials, and a Medicare for All supporter who abandoned single-payer the moment it threatened her viability.
+Harris's Senate career (2017–2021) was a four-year audition for national office. Her legislative record was thin, no signature legislation passed, but her committee performances and policy positioning built the brand that landed the VP nomination. The 2020 presidential primary revealed the contradictions that would define her 2024 run: a prosecutor running as a reformer, a donor-class candidate claiming working-class credentials, and a Medicare for All supporter who abandoned single-payer the moment it threatened her viability.
 
 ---
 
@@ -25,11 +25,11 @@ Harris's Senate career (2017–2021) was a four-year audition for national offic
 
 Harris ran to replace retiring Barbara Boxer. California's jungle primary put two Democrats in the general election: Harris vs. Loretta Sanchez.
 
-**Fundraising:** Harris raised approximately **$15.5 million** for the 2016 Senate race — a strong California total that reflected her San Francisco donor-class base.
+**Fundraising:** Harris raised approximately **$15.5 million** for the 2016 Senate race, a strong California total that reflected her San Francisco donor-class base.
 
-**Donor class alignment:** The same Silicon Valley, Hollywood, and real estate interests that funded Newsom's career funded Harris's Senate bid. This was the California pipeline operating as designed — the SF machine produces governors and senators from the same donor pool.
+**Donor class alignment:** The same Silicon Valley, Hollywood, and real estate interests that funded Newsom's career funded Harris's Senate bid. This was the California pipeline operating as designed, the SF machine produces governors and senators from the same donor pool.
 
-**The Mnuchin donation:** Steve Mnuchin donated **$2,000** to Harris's Senate campaign in 2016 — after she declined to prosecute his bank OneWest as AG (see [[The Prosecutor Record - DA and AG]]). Harris was the only Democrat running for national office to receive a Mnuchin donation that cycle.
+**The Mnuchin donation:** Steve Mnuchin donated **$2,000** to Harris's Senate campaign in 2016, after she declined to prosecute his bank OneWest as AG (see [[The Prosecutor Record - DA and AG]]). Harris was the only Democrat running for national office to receive a Mnuchin donation that cycle.
 
 ---
 
@@ -40,9 +40,9 @@ Harris's most visible Senate moments came from Judiciary Committee hearings, par
 
 - **[[_Brett Kavanaugh Master Profile|Brett Kavanaugh]] hearings (September 2018):** Harris's questioning of Kavanaugh on whether he had discussed the Mueller investigation with anyone at Kasowitz Benson Torres (Trump's personal law firm) generated viral moments. She did not receive a direct answer. The hearings built her national profile.
 - Harris voted against Kavanaugh's confirmation. Kavanaugh was confirmed 50-48. He subsequently voted to overturn *Roe v. Wade* in *Dobbs v. Jackson Women's Health Organization* (2022).
-- **William Barr hearings (2019):** Harris's questioning of AG nominee Barr on whether Trump or anyone at the White House had suggested he investigate anyone — Barr's evasive response generated another viral moment.
+- **William Barr hearings (2019):** Harris's questioning of AG nominee Barr on whether Trump or anyone at the White House had suggested he investigate anyone. Barr's evasive response generated another viral moment.
 
-The Judiciary Committee was Harris's national launching pad. But viral questioning moments don't produce legislation — they produce Twitter clips and donor enthusiasm.
+The Judiciary Committee was Harris's national launching pad. But viral questioning moments don't produce legislation, they produce Twitter clips and donor enthusiasm.
 
 ### Intelligence Committee:
 Harris served on the Senate Intelligence Committee during the investigation into Russian interference in the 2016 election. Her questioning of intelligence officials was pointed but produced no legislative outcomes.
@@ -57,18 +57,18 @@ Standard committee work. No signature contributions documented.
 Harris's Senate legislative record was modest:
 
 ### Bills that passed (with co-sponsors):
-- **Anti-Lynching Act (2018):** Co-sponsored with Cory Booker and Tim Scott. Passed the Senate. Took four more years to become law (signed March 2022 by Biden). Symbolic legislation — important but not structurally threatening to any interest group.
+- **Anti-Lynching Act (2018):** Co-sponsored with Cory Booker and Tim Scott. Passed the Senate. Took four more years to become law (signed March 2022 by Biden). Symbolic legislation, important but not structurally threatening to any interest group.
 - **COVID-19 Hate Crimes Act (2021):** Addressing anti-Asian hate crimes during the pandemic. Bipartisan. Signed into law May 2021.
 
 ### FOSTA-SESTA (2018):
 Harris co-sponsored the Allow States and Victims to Fight Online Sex Trafficking Act (FOSTA) / Stop Enabling Sex Traffickers Act (SESTA). The bill passed 97-2 in the Senate.
 
-> [!contradiction] FOSTA-SESTA — Who It Actually Hurt
+> [!contradiction] FOSTA-SESTA. Who It Actually Hurt
 > The legislation was marketed as anti-sex-trafficking. In practice, it removed Section 230 protections for platforms hosting sex-work-related content. Sex worker advocacy groups condemned the bill: it drove sex work underground, eliminated online screening tools that sex workers used for safety, and made trafficking harder to detect (not easier). The DOJ's own reports found FOSTA-SESTA did not meaningfully reduce trafficking.
 >
 > For Harris, FOSTA-SESTA fit the prosecutor's pattern: legislation that sounds tough on crime while producing perverse outcomes. The bill pleased the anti-trafficking advocacy donor class without addressing the structural economics of sex work.
 
-### Medicare for All — The Policy Flip:
+### Medicare for All. The Policy Flip:
 - **2017:** Harris co-sponsored [[_Bernie Sanders Master Profile|Bernie Sanders]]'s Medicare for All Act (S.1804)
 - **January 2019:** Announced presidential campaign supporting Medicare for All. "Let's eliminate all of that [private insurance]. Let's move on."
 - **July 2019:** Released her own healthcare plan that preserved private insurance through a 10-year transition with a role for private Medicare plans
@@ -82,7 +82,7 @@ The Medicare for All evolution: co-sponsor → campaign pledge → walk-back →
 ### 2020 Presidential Primary
 
 **Announced:** January 21, 2019 (Martin Luther King Jr. Day)
-**Dropped out:** December 3, 2019 — before the Iowa caucuses
+**Dropped out:** December 3, 2019, before the Iowa caucuses
 
 ### Fundraising:
 - Total raised: approximately **$39.2 million**
@@ -101,9 +101,9 @@ The Medicare for All evolution: co-sponsor → campaign pledge → walk-back →
 - Campaign dysfunction: staff infighting, strategic disagreements between advisors
 - No clear lane: too moderate for the progressive base (Sanders/Warren voters), too prosecutor-identified for the reform base, not establishment enough for the Biden lane
 - Fundraising dried up as polling fell
-- Dropped out December 3 — unable to fund operations through the Iowa caucuses
+- Dropped out December 3, unable to fund operations through the Iowa caucuses
 
-**Class analysis of the 2020 failure:** Harris's donor class backed her expecting a frontrunner. When polling collapsed, the money moved to Biden (the safer bet) and the primary became a two-lane race: Sanders (working-class small-dollar model) vs. Biden (donor-class institutional model). Harris existed in neither lane — her prosecutor record alienated the left, her Medicare for All co-sponsorship spooked the center, and her policy wobbling satisfied nobody. The donor class doesn't back indecisive candidates.
+**Class analysis of the 2020 failure:** Harris's donor class backed her expecting a frontrunner. When polling collapsed, the money moved to Biden (the safer bet) and the primary became a two-lane race: Sanders (working-class small-dollar model) vs. Biden (donor-class institutional model). Harris existed in neither lane, her prosecutor record alienated the left, her Medicare for All co-sponsorship spooked the center, and her policy wobbling satisfied nobody. The donor class doesn't back indecisive candidates.
 
 ---
 
@@ -126,9 +126,9 @@ Harris maintained standard Democratic pro-Israel positioning throughout her Sena
 - Attended AIPAC conferences
 - Co-sponsored resolutions supporting Israel
 - Did not break with Democratic Party pro-Israel consensus
-- 2024: As presidential nominee, Harris continued to support Israel's military operations while expressing concern for Palestinian civilian casualties — the standard Democratic straddle
+- 2024: As presidential nominee, Harris continued to support Israel's military operations while expressing concern for Palestinian civilian casualties, the standard Democratic straddle
 
-See [[AIPAC - American Israel Public Affairs Committee]] for the national disciplinary mechanism: AIPAC's $126.9M combined 2024 spending and the destruction of Bowman and Bush in primaries means every Democratic politician — Harris included — operates under the threat of $10M+ primary spending if they break with pro-Israel consensus. Harris didn't need to take AIPAC money directly. The threat alone disciplines the position.
+See [[AIPAC - American Israel Public Affairs Committee]] for the national disciplinary mechanism: AIPAC's $126.9M combined 2024 spending and the destruction of Bowman and Bush in primaries means every Democratic politician. Harris included, operates under the threat of $10M+ primary spending if they break with pro-Israel consensus. Harris didn't need to take AIPAC money directly. The threat alone disciplines the position.
 
 ---
 

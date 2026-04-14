@@ -11,7 +11,7 @@ related: "[[_Josh Hawley Master Profile]] · [[_Donald Trump Master Profile]]"
 ---
 #josh-hawley #january-6 #corporate-pacs #fundraising #class-analysis #follow-the-money
 
-donors: (MAGA small-dollar network — replacing corporate PACs)
+donors: (MAGA small-dollar network, replacing corporate PACs)
 
 ---
 
@@ -28,9 +28,9 @@ donors: (MAGA small-dollar network — replacing corporate PACs)
 |-----------|--------|---------|
 | Corporate PACs | $7K+ (Hallmark alone) | Frozen, demanded returns |
 | MAGA small-dollar | Baseline | $969K in January 2021 (8x normal) |
-| National conservative donors | Moderate | Exploded — 12,000 new donors |
+| National conservative donors | Moderate | Exploded, 12,000 new donors |
 
-**The donor class split:** January 6 created a clean division between two Republican donor classes. Corporate PACs (representing established business interests) viewed the insurrection as destabilizing and paused funding. MAGA small-dollar donors (representing the populist base) viewed the insurrection as heroic and rewarded participation. Hawley bet on the MAGA class — and won the fundraising war.
+**The donor class split:** January 6 created a clean division between two Republican donor classes. Corporate PACs (representing established business interests) viewed the insurrection as destabilizing and paused funding. MAGA small-dollar donors (representing the populist base) viewed the insurrection as heroic and rewarded participation. Hawley bet on the MAGA class, and won the fundraising war.
 
 ---
 
@@ -38,8 +38,8 @@ donors: (MAGA small-dollar network — replacing corporate PACs)
 
 By 2022, the "pariah" narrative had collapsed:
 - Corporate PAC donations gradually resumed across the GOP (most companies quietly lifted their pauses)
-- Hawley pledged to refuse corporate PAC donations going forward — rebranding the corporate freeze as a principled stance
-- But he continued accepting money from PACs that raise funds from corporate sources — the loophole that makes the pledge meaningless
+- Hawley pledged to refuse corporate PAC donations going forward, rebranding the corporate freeze as a principled stance
+- But he continued accepting money from PACs that raise funds from corporate sources, the loophole that makes the pledge meaningless
 
 > [!contradiction]
 > Hawley transformed the January 6 corporate donor freeze into a populist credential: "They cut me off because I stood up to the establishment." In reality, the corporate freeze was temporary, the small-dollar replacement was immediate and larger, and Hawley's "no corporate PAC" pledge contains a loophole (accepting PACs funded by corporate money). The fist pump that looked like career suicide was actually the most profitable fundraising gesture in Senate history: $969K in a single month from 12,000 new donors.

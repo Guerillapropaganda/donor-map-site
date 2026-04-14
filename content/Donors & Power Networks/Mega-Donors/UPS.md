@@ -79,11 +79,11 @@ The needs-reenrichment flag has been set. The next scheduled pipeline run will p
 
 ### Who They Are
 
-United Parcel Service (UPS). One of America's largest employers (500,000+ workers) and the largest unionized private-sector workforce in the country — the Teamsters represent 340,000+ UPS workers. Founded in 1907, UPS generated $91 billion in revenue in 2023 and operates in 220+ countries. The company's political operation is run through the United Parcel Service PAC (UPSPAC), corporate lobbying, and executive individual contributions.
+United Parcel Service (UPS). One of America's largest employers (500,000+ workers) and the largest unionized private-sector workforce in the country, the Teamsters represent 340,000+ UPS workers. Founded in 1907, UPS generated $91 billion in revenue in 2023 and operates in 220+ countries. The company's political operation is run through the United Parcel Service PAC (UPSPAC), corporate lobbying, and executive individual contributions.
 
-UPS's structural position in American politics is unique: it is simultaneously one of the largest corporate political donors and one of the largest employers of unionized workers. This creates a dual political identity — the company's PAC and lobbying apparatus pursue corporate interests (deregulation, trade liberalization, tax policy, postal reform) while its workforce's union, the Teamsters, pursues labor interests (wages, benefits, workplace safety, organizing rights) that frequently conflict with management's agenda. UPS must navigate both parties because it cannot afford to alienate either the Republican majority that controls tax and trade policy or the Democratic allies of the Teamsters who represent its workforce.
+UPS's structural position in American politics is unique: it is simultaneously one of the largest corporate political donors and one of the largest employers of unionized workers. This creates a dual political identity, the company's PAC and lobbying apparatus pursue corporate interests (deregulation, trade liberalization, tax policy, postal reform) while its workforce's union, the Teamsters, pursues labor interests (wages, benefits, workplace safety, organizing rights) that frequently conflict with management's agenda. UPS must navigate both parties because it cannot afford to alienate either the Republican majority that controls tax and trade policy or the Democratic allies of the Teamsters who represent its workforce.
 
-UPS also operates UPS Airlines, the world's ninth-largest airline by cargo volume, which gives the company a direct stake in aviation regulation, FAA policy, and air transport labor rules — adding another layer of regulatory exposure and lobbying need.
+UPS also operates UPS Airlines, the world's ninth-largest airline by cargo volume, which gives the company a direct stake in aviation regulation, FAA policy, and air transport labor rules, adding another layer of regulatory exposure and lobbying need.
 
 - [OpenSecrets: UPS summary](https://www.opensecrets.org/orgs/united-parcel-service/summary?id=D000000081) (Tier 1) (VERIFIED)
 - [UPS Political Engagement Policy](https://investors.ups.com/corporategovernance/political-engagement-policy) (Tier 1) (VERIFIED)
@@ -94,15 +94,15 @@ UPS also operates UPS Airlines, the world's ninth-largest airline by cargo volum
 
 UPS's lobbying agenda is driven by five core priorities, each directly tied to revenue protection or competitive positioning:
 
-**1. Tax Policy** (12 specific lobbying issues in 2024 — the single largest category). UPS lobbies for corporate tax rate reductions, international tax treaty favorable treatment, and depreciation schedules that benefit capital-intensive logistics operations. The company's $91B revenue and massive fleet of vehicles, aircraft, and sorting facilities make depreciation rules a multi-billion dollar concern.
+**1. Tax Policy** (12 specific lobbying issues in 2024, the single largest category). UPS lobbies for corporate tax rate reductions, international tax treaty favorable treatment, and depreciation schedules that benefit capital-intensive logistics operations. The company's $91B revenue and massive fleet of vehicles, aircraft, and sorting facilities make depreciation rules a multi-billion dollar concern.
 
-**2. Postal Reform and USPS Competition.** UPS has long argued that the USPS unfairly competes with private carriers in the parcel delivery market using cross-subsidies from its letter mail monopoly. UPS lobbied for the Postal Accountability and Enhancement Act (2006), the Postal Service Reform Act (2022), and continues to push for competitive neutrality provisions that would prevent USPS from undercutting private carriers on package delivery pricing. The USPS-Amazon delivery partnership is a particular UPS concern — Amazon's below-market USPS rates give Amazon a delivery cost advantage that UPS cannot match.
+**2. Postal Reform and USPS Competition.** UPS has long argued that the USPS unfairly competes with private carriers in the parcel delivery market using cross-subsidies from its letter mail monopoly. UPS lobbied for the Postal Accountability and Enhancement Act (2006), the Postal Service Reform Act (2022), and continues to push for competitive neutrality provisions that would prevent USPS from undercutting private carriers on package delivery pricing. The USPS-Amazon delivery partnership is a particular UPS concern. Amazon's below-market USPS rates give Amazon a delivery cost advantage that UPS cannot match.
 
-**3. Trade Policy and Tariffs.** UPS lobbies on USMCA enforcement, Universal Postal Union access reform, customs modernization, and the STOP Act (requiring advance electronic data for international mail shipments). The 2025 suspension of the de minimis exemption for shipments under $800 — which caused an 81% drop in postal traffic to the U.S. — directly impacts UPS's international small-parcel business.
+**3. Trade Policy and Tariffs.** UPS lobbies on USMCA enforcement, Universal Postal Union access reform, customs modernization, and the STOP Act (requiring advance electronic data for international mail shipments). The 2025 suspension of the de minimis exemption for shipments under $800, which caused an 81% drop in postal traffic to the U.S. directly impacts UPS's international small-parcel business.
 
 **4. Transportation and Aviation Regulation.** UPS lobbies the FAA, DOT, and congressional transportation committees on air safety rules, pilot duty regulations, drone delivery authorization, and surface transportation funding. UPS Airlines operates 290+ aircraft and the company's ground fleet exceeds 125,000 vehicles.
 
-**5. Labor and Workplace Policy.** Despite (or because of) its unionized workforce, UPS lobbies on independent contractor classification, overtime rules, and workplace safety regulations. The company's interest in gig economy labor classification rules is defensive — preventing reclassification that could increase costs for competitors like Amazon who rely on independent contractor delivery drivers.
+**5. Labor and Workplace Policy.** Despite (or because of) its unionized workforce, UPS lobbies on independent contractor classification, overtime rules, and workplace safety regulations. The company's interest in gig economy labor classification rules is defensive, preventing reclassification that could increase costs for competitors like Amazon who rely on independent contractor delivery drivers.
 
 - [Senate LDA Filings: UPS lobbying issues 2024](https://lda.gov/filings/public/filing/search/) (Tier 1) (VERIFIED)
 
@@ -112,7 +112,7 @@ UPS's lobbying agenda is driven by five core priorities, each directly tied to r
 
 UPS's political spending operates through three channels: the UPSPAC (direct candidate contributions), corporate lobbying expenditures, and individual executive contributions.
 
-### 2024 Cycle — PAC and Total Political Spending:
+### 2024 Cycle. PAC and Total Political Spending:
 
 | Metric | Amount |
 |--------|--------|
@@ -143,7 +143,7 @@ UPS's political spending operates through three channels: the UPSPAC (direct can
 > [!money] Follow the Money
 > UPS's bipartisan split is not principled moderation — it's structural insurance. The company gives roughly 60/40 Republican because its core policy interests (tax cuts, deregulation, trade liberalization) align with the GOP, but it cannot afford to defund Democrats because the Teamsters — representing 340,000 UPS workers — are a core Democratic constituency. If UPS went fully Republican, the Teamsters could escalate labor actions and Democratic allies could target UPS on postal reform, labor law, and regulatory scrutiny. The bipartisan giving pattern is a cost of doing business with a unionized workforce. Compare to FedEx, which is non-union and gives overwhelmingly Republican.
 
-### Lobbying — Revolving Door:
+### Lobbying. Revolving Door:
 
 | Year | Lobbying Spend | Lobbyists | Revolving Door % |
 |------|---------------|-----------|-----------------|
@@ -155,7 +155,7 @@ UPS's political spending operates through three channels: the UPSPAC (direct can
 
 - [OpenSecrets: UPS PAC candidate recipients 2024](https://www.opensecrets.org/political-action-committees-pacs/united-parcel-service/C00064766/candidate-recipients/2024) (Tier 1) (VERIFIED)
 - [Senate LDA Filings: UPS lobbying profile 2024](https://lda.gov/filings/public/filing/search/) (Tier 1) (VERIFIED)
-- [Senate LDA Filings: UPS lobbyists — revolving door data](https://lda.gov/filings/public/filing/search/) (Tier 1) (VERIFIED)
+- [Senate LDA Filings: UPS lobbyists, revolving door data](https://lda.gov/filings/public/filing/search/) (Tier 1) (VERIFIED)
 
 ---
 
@@ -167,11 +167,11 @@ UPS's political spending operates through three channels: the UPSPAC (direct can
 |------|-----------------|--------|---------------|----------|
 | 2006 | Postal Accountability and Enhancement Act lobbying | $5.7M (2005-06 lobbying) | PAEA imposed pre-funding requirements on USPS that weakened the Postal Service as a competitive threat to UPS in package delivery | Ongoing since 2006 |
 | 2022 | Postal Service Reform Act lobbying | $7.8M (2021-22 lobbying) | Reformed USPS finances while maintaining competitive pricing restrictions UPS sought | 1-2 years |
-| 2023-07 | Teamsters contract negotiation | N/A (labor cost) | $30B contract over 5 years — $7.50/hr wage increases, elimination of two-tier pay, air conditioning in new vehicles. UPS absorbed $30B in labor costs to avoid a strike that would have cost $7.1B in 10 days. | Immediate |
+| 2023-07 | Teamsters contract negotiation | N/A (labor cost) | $30B contract over 5 years, $7.50/hr wage increases, elimination of two-tier pay, air conditioning in new vehicles. UPS absorbed $30B in labor costs to avoid a strike that would have cost $7.1B in 10 days. | Immediate |
 | 2023-2024 | Transportation & Commerce committee members | $1.7M PAC to candidates | Continued favorable treatment on drone delivery authorization, surface transportation funding, aviation safety rules | Ongoing |
 | 2024 | Tax lobbying (12 specific issues) | $6.19M lobbying | Preservation of corporate tax provisions, depreciation schedules on fleet and facilities | Ongoing |
-| 2024-2025 | Trade policy and tariff lobbying | $6.19M lobbying | UPS positioned on USMCA enforcement, STOP Act implementation, Universal Postal Union reform — shaping the regulatory environment for international small-parcel delivery | Ongoing |
-| 2025 | De minimis exemption suspension lobbying | Included in 2025 lobbying | UPS lobbied on the Trump administration's suspension of the $800 de minimis exemption — a move that reduced low-value postal imports 81% but also disrupted UPS's own cross-border small-parcel business | Immediate impact |
+| 2024-2025 | Trade policy and tariff lobbying | $6.19M lobbying | UPS positioned on USMCA enforcement, STOP Act implementation, Universal Postal Union reform, shaping the regulatory environment for international small-parcel delivery | Ongoing |
+| 2025 | De minimis exemption suspension lobbying | Included in 2025 lobbying | UPS lobbied on the Trump administration's suspension of the $800 de minimis exemption, a move that reduced low-value postal imports 81% but also disrupted UPS's own cross-border small-parcel business | Immediate impact |
 
 > [!money]
 > UPS's policy returns are structural rather than transactional. The company doesn't buy individual votes — it buys a regulatory environment. The Postal Accountability and Enhancement Act (2006) imposed pre-funding requirements that financially crippled the USPS, reducing the Postal Service's ability to compete with UPS on package delivery. The Postal Service Reform Act (2022) reformed some of these provisions but maintained the competitive framework UPS wanted. Meanwhile, UPS's $14.7M in lobbying across 2023-2024 buys access to the committees that write tax policy (Ways & Means, Finance), transportation rules (Commerce, Transportation & Infrastructure), and trade policy (Finance, Ways & Means) — the three policy domains that determine UPS's operating costs and competitive position.
@@ -180,7 +180,7 @@ UPS's political spending operates through three channels: the UPSPAC (direct can
 > The 2023 Teamsters contract reveals UPS's core contradiction: the company spent $14.7M lobbying Congress in 2023-2024 to reduce taxes and regulatory costs, while simultaneously absorbing $30 billion in labor cost increases because its unionized workforce had the leverage to demand it. UPS lobbies for a business-friendly regulatory environment while operating within the most labor-friendly private-sector contract in America. The company's political operation works to reduce costs everywhere except where organized labor has structural power — demonstrating that corporate political spending is effective against diffuse public interests (tax policy, regulation) but cannot overcome concentrated labor power when workers are organized and essential.
 
 - [Teamsters: Ratify Historic UPS Contract](https://teamster.org/2023/08/teamsters-ratify-historic-ups-contract/) (Tier 2) (VERIFIED)
-- ~~[FollowTheMoney: UPS state-level political spending](https://www.followthemoney.org/tools/election-overview?eid=2710)~~ (was FollowTheMoney — site merged into OpenSecrets, all URLs dead) (Tier 1)
+- ~~[FollowTheMoney: UPS state-level political spending](https://www.followthemoney.org/tools/election-overview?eid=2710)~~ (was FollowTheMoney, site merged into OpenSecrets, all URLs dead) (Tier 1)
 
 ---
 
@@ -188,15 +188,15 @@ UPS's political spending operates through three channels: the UPSPAC (direct can
 
 UPS is the clearest case study in American politics of the tension between corporate political power and organized labor power operating within the same institution.
 
-The company's political operation serves two functions. First, it purchases a favorable regulatory and tax environment through $6-8M in annual lobbying and $4M+ per cycle in PAC contributions — targeting the committees that control transportation regulation, tax policy, trade rules, and postal competition. This is standard corporate political behavior, identical in structure to FedEx, Amazon, and every other major logistics company.
+The company's political operation serves two functions. First, it purchases a favorable regulatory and tax environment through $6-8M in annual lobbying and $4M+ per cycle in PAC contributions, targeting the committees that control transportation regulation, tax policy, trade rules, and postal competition. This is standard corporate political behavior, identical in structure to FedEx, Amazon, and every other major logistics company.
 
-Second, and uniquely, UPS's political operation must accommodate organized labor. The Teamsters represent 340,000+ UPS workers — the largest private-sector union contract in America. This forces UPS into bipartisan giving (60/40 Republican) rather than the full Republican alignment that non-union competitors like FedEx can pursue. The company's PAC gives to Democrats not because UPS supports Democratic policy but because it cannot afford Democratic hostility when its workforce's union is a core Democratic constituency.
+Second, and uniquely, UPS's political operation must accommodate organized labor. The Teamsters represent 340,000+ UPS workers, the largest private-sector union contract in America. This forces UPS into bipartisan giving (60/40 Republican) rather than the full Republican alignment that non-union competitors like FedEx can pursue. The company's PAC gives to Democrats not because UPS supports Democratic policy but because it cannot afford Democratic hostility when its workforce's union is a core Democratic constituency.
 
-The 2023 Teamsters contract is the most revealing data point. UPS absorbed $30 billion in labor cost increases — more than seven times its combined political spending — because organized workers had the structural leverage to demand it. No amount of lobbying could prevent the contract outcome because the Teamsters controlled something UPS's political operation could not buy: the ability to shut down 6% of America's GDP in package delivery.
+The 2023 Teamsters contract is the most revealing data point. UPS absorbed $30 billion in labor cost increases, more than seven times its combined political spending, because organized workers had the structural leverage to demand it. No amount of lobbying could prevent the contract outcome because the Teamsters controlled something UPS's political operation could not buy: the ability to shut down 6% of America's GDP in package delivery.
 
-This creates an instructive comparison. UPS spends $10-12M per year on lobbying and political contributions to shape tax, trade, and regulatory policy — and gets measurable returns (favorable depreciation, postal reform, trade rules). But when the same company faces organized workers rather than diffuse public interests, corporate political power fails. The Teamsters didn't need a PAC to win $30 billion — they needed 340,000 workers willing to strike.
+This creates an instructive comparison. UPS spends $10-12M per year on lobbying and political contributions to shape tax, trade, and regulatory policy, and gets measurable returns (favorable depreciation, postal reform, trade rules). But when the same company faces organized workers rather than diffuse public interests, corporate political power fails. The Teamsters didn't need a PAC to win $30 billion, they needed 340,000 workers willing to strike.
 
-The class analysis conclusion: corporate political spending is effective against policies where the opposition is diffuse (taxpayers, consumers, the general public) and ineffective against organized counterpower (unions with strike capability). UPS proves both halves of this thesis simultaneously — winning in Congress while losing at the bargaining table.
+The class analysis conclusion: corporate political spending is effective against policies where the opposition is diffuse (taxpayers, consumers, the general public) and ineffective against organized counterpower (unions with strike capability). UPS proves both halves of this thesis simultaneously, winning in Congress while losing at the bargaining table.
 
 ---
 
@@ -206,9 +206,9 @@ The class analysis conclusion: corporate political spending is effective against
 - [OpenSecrets: UPS PAC candidate recipients 2024](https://www.opensecrets.org/political-action-committees-pacs/united-parcel-service/C00064766/candidate-recipients/2024) (Tier 1)
 - [Senate LDA Filings: UPS lobbying profile 2024](https://lda.gov/filings/public/filing/search/) (Tier 1)
 - [Senate LDA Filings: UPS lobbying issues 2024](https://lda.gov/filings/public/filing/search/) (Tier 1)
-- [Senate LDA Filings: UPS lobbyists — revolving door data](https://lda.gov/filings/public/filing/search/) (Tier 1)
+- [Senate LDA Filings: UPS lobbyists, revolving door data](https://lda.gov/filings/public/filing/search/) (Tier 1)
 - [UPS Political Engagement Policy](https://investors.ups.com/corporategovernance/political-engagement-policy) (Tier 1)
-- ~~[FollowTheMoney: UPS state-level political spending](https://www.followthemoney.org/tools/election-overview?eid=2710)~~ (was FollowTheMoney — site merged into OpenSecrets, all URLs dead) (Tier 1)
+- ~~[FollowTheMoney: UPS state-level political spending](https://www.followthemoney.org/tools/election-overview?eid=2710)~~ (was FollowTheMoney, site merged into OpenSecrets, all URLs dead) (Tier 1)
 - [Teamsters: Ratify Historic UPS Contract](https://teamster.org/2023/08/teamsters-ratify-historic-ups-contract/) (Tier 2)
 - [Ballotpedia: UPS](https://ballotpedia.org/UPS) (Tier 3) (VERIFIED)
 

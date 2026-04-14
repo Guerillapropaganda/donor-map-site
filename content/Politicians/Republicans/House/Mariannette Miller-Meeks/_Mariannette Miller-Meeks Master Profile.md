@@ -1,5 +1,5 @@
 ---
-title: "Mariannette Miller-Meeks Master Profile"
+title: "Mariannette Miller-Meeks"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

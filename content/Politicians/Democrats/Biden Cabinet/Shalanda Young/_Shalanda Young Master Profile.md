@@ -1,5 +1,5 @@
 ---
-title: "Shalanda Young Master Profile"
+title: "Shalanda Young"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

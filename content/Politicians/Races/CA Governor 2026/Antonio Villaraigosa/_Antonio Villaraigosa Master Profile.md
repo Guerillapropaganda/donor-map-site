@@ -1,8 +1,8 @@
 ---
-title: "Antonio Villaraigosa Master Profile"
+title: "Antonio Villaraigosa"
 type: politician
 content-readiness: draft
-central-thesis: "Villaraigosa is the real estate and development industry's preferred candidate — his entire political trajectory reveals the same coalition: developer money funds his campaigns, building trades unions provide labor legitimacy, and pro-development ..."
+central-thesis: "Villaraigosa is the real estate and development industry's preferred candidate , his entire political trajectory reveals the same coalition: developer money funds his campaigns, building trades unions provide labor legitimacy, and pro-development ..."
 last-updated: 2026-04-08
 source-tier: 1
 parent: null
@@ -52,12 +52,12 @@ Antonio Villaraigosa. Former Mayor of Los Angeles (2005–2013). Former Californ
 ## Donor Class Map
 
 ### Real Estate Developer Donors (Direct Campaign):
-- Kurt Rappaport (CEO, Westside Estate Agency): $72,800 (maxed out) — largest individual donor
+- Kurt Rappaport (CEO, Westside Estate Agency): $72,800 (maxed out), largest individual donor
 - Joseph Moinian (CEO, The Moinian Group): $5,000
 - Bill Witte (Related California): $5,000
 - Jay Luchs (Newmark vice chairman): $10,175.25
 
-### 2018 Gubernatorial Run — Charter School Billionaire Money:
+### 2018 Gubernatorial Run. Charter School Billionaire Money:
 The 2018 race revealed the broader donor ecosystem. An independent expenditure committee "Families & Teachers for Antonio Villaraigosa for Governor 2018" (run by [[California Charter Schools Association|California Charter Schools Association]] Advocates) raised $22.5 million in less than two months:
 - Reed Hastings (Netflix CEO): $7 million
 - Eli Broad (philanthropist): $1.5 million
@@ -78,9 +78,9 @@ Building Trades (labor) + Real Estate Developers + Charter School Billionaires =
 
 ## Analytical Patterns
 
-**The Genuine Win + Structural Limit** — Villaraigosa secured real construction union endorsements and championed housing development policies that created actual jobs for union members. But those policy wins stopped short of threatening real estate developer margins or requiring affordable housing minimums. More building meant more work, but displacement of working-class residents continued and downtown rents skyrocketed. The pattern: union endorsement legitimized development that benefited developers.
+**The Genuine Win + Structural Limit**. Villaraigosa secured real construction union endorsements and championed housing development policies that created actual jobs for union members. But those policy wins stopped short of threatening real estate developer margins or requiring affordable housing minimums. More building meant more work, but displacement of working-class residents continued and downtown rents skyrocketed. The pattern: union endorsement legitimized development that benefited developers.
 
-**The Two-Audience Problem** — To union audiences, Villaraigosa emphasizes his labor-organizer origins and continued labor backing. To real estate donor networks, he emphasizes his mayoral record of deregulation, tax breaks for developers, and development-friendly governance. The same policy (Safer Cities Initiative) plays as "job creation" to unions and "downtown investment" to developers, while the actual outcome (gentrification + displacement) serves only the latter.
+**The Two-Audience Problem**. To union audiences, Villaraigosa emphasizes his labor-organizer origins and continued labor backing. To real estate donor networks, he emphasizes his mayoral record of deregulation, tax breaks for developers, and development-friendly governance. The same policy (Safer Cities Initiative) plays as "job creation" to unions and "downtown investment" to developers, while the actual outcome (gentrification + displacement) serves only the latter.
 
 ---
 
@@ -104,14 +104,14 @@ Building Trades (labor) + Real Estate Developers + Charter School Billionaires =
 
 | Date | Donor | Amount | Given | Policy Outcome |
 |------|-------|--------|-------|----------------|
-| 2018-03 | Reed Hastings (Netflix) + Eli Broad + charter school network | $22.5M total IE | 2018 cycle | Villaraigosa campaigns on opposing teachers unions, expanding charter schools — exact alignment with billionaire donors' education privatization agenda |
-| 2018-06 | Same charter school billionaire bloc | Part of $22.5M | 2018 cycle | Newsom defeats Villaraigosa (61.6% vs. 10.6%); $22.5M fails to overcome Newsom's brand — but donor relationship persists |
+| 2018-03 | Reed Hastings (Netflix) + Eli Broad + charter school network | $22.5M total IE | 2018 cycle | Villaraigosa campaigns on opposing teachers unions, expanding charter schools, exact alignment with billionaire donors' education privatization agenda |
+| 2018-06 | Same charter school billionaire bloc | Part of $22.5M | 2018 cycle | Newsom defeats Villaraigosa (61.6% vs. 10.6%); $22.5M fails to overcome Newsom's brand, but donor relationship persists |
 
-#### Labor (Building Trades — Pro-Development Alignment)
+#### Labor (Building Trades. Pro-Development Alignment)
 
 | Date | Donor | Amount | Given | Policy Outcome |
 |------|-------|--------|-------|----------------|
-| 2024-2026 | Building Trades unions (construction labor) | Endorsement + ground game | 2024-2025 | Building Trades endorsement positioned as "broad labor support" but reflects narrow construction industry alignment — the union supports development because development means construction work |
+| 2024-2026 | Building Trades unions (construction labor) | Endorsement + ground game | 2024-2025 | Building Trades endorsement positioned as "broad labor support" but reflects narrow construction industry alignment, the union supports development because development means construction work |
 
 > [!money]
 > Villaraigosa's entire political trajectory is a developer-friendly pipeline: union-organizer-turned-politician uses labor endorsements to gain office, implements developer-friendly policy (Safer Cities Initiative, downtown gentrification, anti-public-education positions), accumulates real estate donor relationships, leaves office, becomes consultant to same developers, re-enters electoral politics with same donor base. The 2018 and 2026 campaigns show the mechanism: billionaire charter school advocates recognize his anti-union, anti-public-education positions and fund him accordingly. The Building Trades endorsement is not a contradiction to this analysis — it is the explanation. The union supports development because development means construction work. Villaraigosa delivers development. This is not a populist alliance; it is a structural alignment between labor and capital against public goods (public education, public housing, public transit) that would reduce the need for new construction.
@@ -132,7 +132,7 @@ Building Trades (labor) + Real Estate Developers + Charter School Billionaires =
 
 **The Comeback Calculation:** If Swalwell (17% polling) and Steyer (12% polling) split the moderate/establishment vote, Villaraigosa's LA base + Building Trades could push him into the top two. But if Democratic consolidation happens around one establishment candidate (likely Swalwell given convention delegate lead), Villaraigosa finishes third or fourth.
 
-**March 2026 — Debate Exclusion:** USC/KABC co-sponsored debate (March 25, 2026) excluded Villaraigosa, Becerra, Yee, and Thurmond — the only four candidates of color in the field — based on polling/fundraising threshold criteria that systematically advantaged white candidates. Following criticism from nine state lawmakers (including Assembly Speaker Robert Rivas and Senate President Pro Tem Monique Limón), USC cancelled the debate hours before it was scheduled. Analytical significance: debate criteria functioned as a structural mechanism to concentrate media attention and fundraising momentum on the six white candidates already polling highest — a self-reinforcing cycle where polling thresholds exclude lower-funded candidates of color, reducing their media exposure, further suppressing their polling numbers.
+**March 2026. Debate Exclusion:** USC/KABC co-sponsored debate (March 25, 2026) excluded Villaraigosa, Becerra, Yee, and Thurmond, the only four candidates of color in the field, based on polling/fundraising threshold criteria that systematically advantaged white candidates. Following criticism from nine state lawmakers (including Assembly Speaker Robert Rivas and Senate President Pro Tem Monique Limón), USC cancelled the debate hours before it was scheduled. Analytical significance: debate criteria functioned as a structural mechanism to concentrate media attention and fundraising momentum on the six white candidates already polling highest, a self-reinforcing cycle where polling thresholds exclude lower-funded candidates of color, reducing their media exposure, further suppressing their polling numbers.
 
 ---
 
@@ -140,20 +140,20 @@ Building Trades (labor) + Real Estate Developers + Charter School Billionaires =
 
 1. **The Union Organizer Origin Story:** Emphasizes decades-ago labor organizing work, not the developer-friendly governance that followed
 2. **The LA Machine Endorsement Play:** Building Trades union endorsement positioned as "broad labor support" despite narrow construction industry focus
-3. **The Pro-Development Coded Language:** "Economic growth," "job creation," "business-friendly governance" — all pro-development without naming it
+3. **The Pro-Development Coded Language:** "Economic growth," "job creation," "business-friendly governance", all pro-development without naming it
 4. **The Education Attack:** Villaraigosa positions charter schools as "choice" and "innovation," attacking public education unions without explicitly saying so
 
 ---
 
 ## Sources
 
-- ~~[FollowTheMoney.org: Villaraigosa 2026 Governor Campaign Finance](https://www.followthemoney.org/show-me?s=CA&y=2024&c-r-ot=U&d-cci=Antonio%20Villaraigosa#[%7B1%7Cgro=d-id)~~ (was FollowTheMoney — site merged into OpenSecrets, all URLs dead) (Tier 1)
+- ~~[FollowTheMoney.org: Villaraigosa 2026 Governor Campaign Finance](https://www.followthemoney.org/show-me?s=CA&y=2024&c-r-ot=U&d-cci=Antonio%20Villaraigosa#[%7B1%7Cgro=d-id)~~ (was FollowTheMoney, site merged into OpenSecrets, all URLs dead) (Tier 1)
 - [Congress.gov: Antonio Villaraigosa donor profile](https://www.congress.gov/search?q=Villaraigosa&searchResultViewType=expanded) (Tier 1) (VERIFIED)
 - [CalMatters: Republican Steve Hilton leads California governor fundraising](https://calmatters.org/politics/2026/02/governors-race-fundraising-reports/) (Tier 2) (VERIFIED)
 - [The Real Deal LA: Real estate heavyweights back Villaraigosa's 2026 bid for governor](https://therealdeal.com/la/2025/10/14/real-estate-execs-fund-villaraigosa-for-california-governor/) (Tier 2) (VERIFIED)
-- [CalMatters: Republican leads CA governor fundraising — H2 2025 data](https://calmatters.org/politics/2026/02/governors-race-fundraising-reports/) (Tier 2) (VERIFIED)
+- [CalMatters: Republican leads CA governor fundraising. H2 2025 data](https://calmatters.org/politics/2026/02/governors-race-fundraising-reports/) (Tier 2) (VERIFIED)
 - [EdSource: Charter school backing for Villaraigosa's gubernatorial bid grows](https://edsource.org/2018/charter-school-backers-support-for-former-la-mayors-bid-for-governor-grows/597847) (Tier 2) (VERIFIED)
-- ~~[San Diego Union-Tribune: Netflix CEO Reed Hastings donates $7 million to pro-Villaraigosa group](https://www.sandiegouniontribune.com/la-pol-ca-essential-politics-updates-netflix-ceo-and-ed-reform-advocate-reed-1523495119-htmlstory.html)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[San Diego Union-Tribune: Netflix CEO Reed Hastings donates $7 million to pro-Villaraigosa group](https://www.sandiegouniontribune.com/la-pol-ca-essential-politics-updates-netflix-ceo-and-ed-reform-advocate-reed-1523495119-htmlstory.html)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [KQED: Charter Schools Supporters Seek to Prop Up Villaraigosa in Governor's Race](https://www.kqed.org/news/11661975/charter-schools-supporters-seek-to-prop-up-villaraigosa-in-governors-race) (Tier 2) (VERIFIED)
 - [California Federation of Labor Unions: 2026 Governor Endorsements](https://calaborfed.org/press-releases/california-federation-of-labor-unions-endorse-for-governor-and-other-statewide-races-for-2026-primary-election/) (Tier 1) (VERIFIED)
 - [NBC News: California governor debate canceled after criticism of criteria that excluded candidates of color](https://www.nbcnews.com/politics/2026-election/california-governor-debate-canceled-criticism-candidates-color-rcna264945) (Tier 2) (VERIFIED)

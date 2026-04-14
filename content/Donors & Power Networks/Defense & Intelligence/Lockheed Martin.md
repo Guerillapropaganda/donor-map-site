@@ -56,11 +56,11 @@ Leadership: James Taiclet, CEO (2020–). Board of Directors rotates retired mil
 ### What They Want
 
 ### Policy goal: Permanent, expanded military spending with minimal oversight.
-Lockheed Martin's political strategy can be reduced to one principle: if a weapons system has manufacturing subcontractors in 45+ U.S. states and territories, that system becomes un-cancellable. Congress cannot shut down a system that produces jobs in 90 Senate seats. This is not manufacturing efficiency — this is political engineering.
+Lockheed Martin's political strategy can be reduced to one principle: if a weapons system has manufacturing subcontractors in 45+ U.S. states and territories, that system becomes un-cancellable. Congress cannot shut down a system that produces jobs in 90 Senate seats. This is not manufacturing efficiency, this is political engineering.
 
 The F-35 fighter jet is the masterpiece: $2.3 trillion total lifetime cost (FY2024 estimate), 2,457 aircraft planned, parts manufactured in Arizona, California, Colorado, Connecticut, Florida, Georgia, Illinois, Indiana, Iowa, Kansas, Kentucky, Louisiana, Maine, Maryland, Massachusetts, Michigan, Minnesota, Missouri, Mississippi, Montana, Nebraska, Nevada, New Hampshire, New Jersey, New Mexico, New York, North Carolina, Ohio, Oklahoma, Pennsylvania, Rhode Island, South Carolina, Tennessee, Texas, Utah, Vermont, Virginia, Washington, West Virginia, Wisconsin, and Wyoming. Pratt & Whitney engines (Connecticut). Northrop Grumman fuselage sections (multiple states). General Atomics radar (San Diego). Hundreds of suppliers in congressional districts representing every major appropriations committee member.
 
-Pentagon requests are routinely overridden by Congress to purchase MORE aircraft than the military requested. In FY2021–FY2023, Congress funded 54 additional F-35s above Pentagon budget requests — $14B+ in unbudgeted purchases. [[_Kay Granger Master Profile|Kay Granger]] (R-TX, Chair of Defense Appropriations, 2023–) received $634K+ in career contributions and consistently voted to fund 15–16+ additional F-35s annually beyond Pentagon request. The temporal mapping is explicit: Granger receives donations → Granger funds jets → Lockheed Martin revenue materializes.
+Pentagon requests are routinely overridden by Congress to purchase MORE aircraft than the military requested. In FY2021–FY2023, Congress funded 54 additional F-35s above Pentagon budget requests, $14B+ in unbudgeted purchases. [[_Kay Granger Master Profile|Kay Granger]] (R-TX, Chair of Defense Appropriations, 2023–) received $634K+ in career contributions and consistently voted to fund 15–16+ additional F-35s annually beyond Pentagon request. The temporal mapping is explicit: Granger receives donations → Granger funds jets → Lockheed Martin revenue materializes.
 
 ---
 
@@ -68,7 +68,7 @@ Pentagon requests are routinely overridden by Congress to purchase MORE aircraft
 
 ### PAC + Employee Donations: $5M+ per cycle
 - Lockheed Martin Employees Political Action Committee (LMEPAC): $4.1M raised (2024), $1.57M distributed to federal candidates
-- Employee direct contributions: $3-4M per cycle (employees of Lockheed Martin donate heavily — CEOs, executives, engineers, plant managers give maximum contributions to appropriators)
+- Employee direct contributions: $3-4M per cycle (employees of Lockheed Martin donate heavily. CEOs, executives, engineers, plant managers give maximum contributions to appropriators)
 - Total combined: $5.5M+ federal per cycle
 
 ### Geographic Distribution Strategy:
@@ -83,7 +83,7 @@ The PAC's donation geography is not random. Donations are concentrated in states
 | Florida | Multiple suppliers + Port Canaveral | Greg Steube (R-FL) | $15K+ |
 
 ### Congressional Reach: 300+ Members
-Lockheed Martin PAC donations reach 300+ U.S. House and Senate members across both parties. In 2024, LMEPAC made contributions to 157 House members and 32 Senators. No partisan pattern — donations follow appropriations committee membership, not party. Every member of the House Armed Services Committee received $5K–$25K. Every member of the Defense Subcommittee of the Appropriations Committee received $10K–$45K.
+Lockheed Martin PAC donations reach 300+ U.S. House and Senate members across both parties. In 2024, LMEPAC made contributions to 157 House members and 32 Senators. No partisan pattern, donations follow appropriations committee membership, not party. Every member of the House Armed Services Committee received $5K–$25K. Every member of the Defense Subcommittee of the Appropriations Committee received $10K–$45K.
 
 The company employs 50+ registered federal lobbyists (2024).
 
@@ -94,10 +94,10 @@ The company employs 50+ registered federal lobbyists (2024).
 ### Appropriations Committee Members (Primary Targets):
 - **House Armed Services Committee**: Every member received PAC money; Chair [[_Mike Rogers Master Profile|Mike Rogers]] (R-AL) received $18K+ (2024)
 - **Senate Armed Services Committee**: Every member received donations; Chair Jack Reed (D-RI) received $22K+
-- **Defense Appropriations Subcommittees (House & Senate)**: Maximum exposure — [[_Kay Granger Master Profile|Kay Granger]] (R-TX Chair), chairwoman of Defense Appropriations received $634K+ career
+- **Defense Appropriations Subcommittees (House & Senate)**: Maximum exposure, [[_Kay Granger Master Profile|Kay Granger]] (R-TX Chair), chairwoman of Defense Appropriations received $634K+ career
 
 ### Both Parties, All Regions:
-Democrats received ~45% of Lockheed Martin PAC donations; Republicans ~55%. This is not strategic — it's a mathematical consequence of the fact that both parties include appropriators whose districts house subcontractors.
+Democrats received ~45% of Lockheed Martin PAC donations; Republicans ~55%. This is not strategic, it's a mathematical consequence of the fact that both parties include appropriators whose districts house subcontractors.
 
 Example 2024 recipients:
 - Kay Granger (R-TX): $45K
@@ -113,24 +113,24 @@ Example 2024 recipients:
 
 ### The F-35 Program as Structural Policy:
 1. **Unbudgeted Congressional Additions (2021–2024):**
-   - FY2021: Congress funded 16 additional aircraft above Pentagon request (+$4.1B)
-   - FY2022: Congress funded 15 additional aircraft above Pentagon request (+$3.8B)
-   - FY2023: Congress funded 15 additional aircraft above Pentagon request (+$3.7B)
-   - FY2024: Congress funded 14 additional aircraft above Pentagon request (+$3.5B)
-   - **Four-year unbudgeted total: 60 additional F-35s, $15.1B+ in unbudgeted purchases**
+ - FY2021: Congress funded 16 additional aircraft above Pentagon request (+$4.1B)
+ - FY2022: Congress funded 15 additional aircraft above Pentagon request (+$3.8B)
+ - FY2023: Congress funded 15 additional aircraft above Pentagon request (+$3.7B)
+ - FY2024: Congress funded 14 additional aircraft above Pentagon request (+$3.5B)
+ - **Four-year unbudgeted total: 60 additional F-35s, $15.1B+ in unbudgeted purchases**
 
-   The Pentagon does not want these aircraft. The Pentagon requested a lower number. Congress overrode the Pentagon for district-level economic reasons. This is the military-industrial complex operating exactly as Eisenhower warned.
+ The Pentagon does not want these aircraft. The Pentagon requested a lower number. Congress overrode the Pentagon for district-level economic reasons. This is the military-industrial complex operating exactly as Eisenhower warned.
 
 2. **Production Continuity Regardless of Performance Problems:**
-   - F-35 unit cost: $130–145M per aircraft (development + production amortized) — most expensive fighter in history
-   - Program cost overruns: $200B+ cumulative (original $233B estimate → $433B+ actual, 2011–2024)
-   - Known deficiencies: software integration failures, heat management issues on carrier operations, helmet-mounted display glitches, supply chain vulnerabilities
-   - Congressional response: **Fund more aircraft.** No production halt. No system redesign. Continuous appropriations. The defects are never serious enough to interrupt appropriations.
+ - F-35 unit cost: $130–145M per aircraft (development + production amortized), most expensive fighter in history
+ - Program cost overruns: $200B+ cumulative (original $233B estimate → $433B+ actual, 2011–2024)
+ - Known deficiencies: software integration failures, heat management issues on carrier operations, helmet-mounted display glitches, supply chain vulnerabilities
+ - Congressional response: **Fund more aircraft.** No production halt. No system redesign. Continuous appropriations. The defects are never serious enough to interrupt appropriations.
 
 3. **Sole-Source Contract Renewal:**
-   - FY2024 contract awarded to Lockheed Martin: $5.2B (no competitive bid)
-   - FY2025 contract authority requested: $6.8B (sole source anticipated)
-   - The geographic distribution of subcontractors guarantees competitive procurement would face congressional veto from both parties.
+ - FY2024 contract awarded to Lockheed Martin: $5.2B (no competitive bid)
+ - FY2025 contract authority requested: $6.8B (sole source anticipated)
+ - The geographic distribution of subcontractors guarantees competitive procurement would face congressional veto from both parties.
 
 ---
 
@@ -176,7 +176,7 @@ The revolving door operates on clear financial incentives:
 - Additional compensation: Executive compensation if moved to operating company roles ($500K–$2M+)
 - Post-retirement total: $370K–$700K+ annually for a single retiree
 
-The military officer's pension is paid regardless of board compensation. The board position is pure additional income—an $150K–$300K annual raise for accepting a board seat at the company they just finished procuring weapons for.
+The military officer's pension is paid regardless of board compensation. The board position is pure additional income, an $150K–$300K annual raise for accepting a board seat at the company they just finished procuring weapons for.
 
 ### The Institutional Lock-In:
 This is not occasional revolving door movement. Lockheed Martin's board is systematically staffed with retired senior Pentagon officers. The company maintains 25%+ of board seats filled by individuals with active Pentagon career service. This guarantees permanent institutional relationships between the Pentagon's highest procurement officials and Lockheed Martin's decision-makers.
@@ -188,7 +188,7 @@ The revolving door also flows the opposite direction. Lockheed Martin executives
 As of 2024, 80%+ of recently retired (within 10 years) three-star and four-star generals join defense contractor boards within 18 months of retirement. Lockheed Martin captures the largest share of this talent pool.
 
 ### The Procurement Consequence:
-Lockheed Martin executives sitting on Pentagon advisory boards while board members maintain active Pentagon relationships creates institutional alignment: the company's interests and the military's procurement decisions become structurally indistinguishable. When Lockheed Martin pushes for F-35 funding or contract expansion, it has direct input from both sides of the process—Pentagon officials on Lockheed's board and Lockheed executives advising the Pentagon.
+Lockheed Martin executives sitting on Pentagon advisory boards while board members maintain active Pentagon relationships creates institutional alignment: the company's interests and the military's procurement decisions become structurally indistinguishable. When Lockheed Martin pushes for F-35 funding or contract expansion, it has direct input from both sides of the process, Pentagon officials on Lockheed's board and Lockheed executives advising the Pentagon.
 
 ---
 
@@ -225,23 +225,23 @@ Lockheed Martin's PAC splits roughly 55% Republican, 45% Democrat. This is not a
 - ~~[F-35 Program Cost Estimates - Congressional Research Service](https://fas.org/publication/f-35-program-cost/)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 1)
 - [F-35 Lightning II: Background and Issues for Congress - CRS](https://sgp.fas.org/crs/weapons/RL33745.pdf) (Tier 1) (VERIFIED)
 
-### Revolving Door — Tier 2:
-- ~~[Project on Government Oversight: Brass Parachutes - The Problem of the Pentagon Revolving Door](https://www.pogo.org/reports/brass-parachutes)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+### Revolving Door. Tier 2:
+- ~~[Project on Government Oversight: Brass Parachutes - The Problem of the Pentagon Revolving Door](https://www.pogo.org/reports/brass-parachutes)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Responsible Statecraft: When 80 percent of US generals go to work for arms makers](https://responsiblestatecraft.org/pentagon-revolving-door/) (Tier 2) (VERIFIED)
 - [Defense News: Lockheed adds Dunford, former top US military officer, to board](https://www.defensenews.com/industry/2020/01/25/lockheed-adds-dunford-former-top-us-military-officer-to-board/) (Tier 2) (VERIFIED)
 - ~~[Costs of War: Profits of War - Top Beneficiaries of Pentagon Spending, 2020-2024](https://costsofwar.watson.brown.edu/papers/2025/MilitaryContractors)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 2)
 
 ---
 
-### March 2026 Updates — Iran War Windfall
+### March 2026 Updates. Iran War Windfall
 
-**Stock jump on Iran strikes:** Lockheed Martin stock rose **3.4%** the day US-Israel strikes on Iran began (February 28, 2026) — the most immediate defense contractor beneficiary at launch.
+**Stock jump on Iran strikes:** Lockheed Martin stock rose **3.4%** the day US-Israel strikes on Iran began (February 28, 2026), the most immediate defense contractor beneficiary at launch.
 
 **THAAD production quadrupled:** Pre-war, Pentagon signed a deal with Lockheed to quadruple THAAD interceptor production from **96 to 400 per year**, at **$12.77 million per unit**. At 400 units/year: $5.1B/year in THAAD contracts alone, up from ~$1.2B/year.
 
 **$200B supplemental request:** Pentagon's $200 billion supplemental war funding request (March 19, 2026) will fund significantly expanded production of Patriot, THAAD, and other Lockheed systems. The FY2026 budget already allocated $20.4B for munitions stockpiles; the supplemental is on top.
 
-**Trump met defense CEOs (March 6, 2026):** Trump held a meeting with defense company CEOs alongside Hegseth — a direct line between the war's political leadership and its primary financial beneficiaries, with no public agenda disclosed.
+**Trump met defense CEOs (March 6, 2026):** Trump held a meeting with defense company CEOs alongside Hegseth, a direct line between the war's political leadership and its primary financial beneficiaries, with no public agenda disclosed.
 
 > [!money] The Iran War as Business Model
 > Lockheed Martin's stock jumped 3.4% the moment the bombs fell. THAAD production is being quadrupled at $12.77M/unit. Patriot and AMRAAM production scaling. The $200B supplemental arrives. The FY2026 budget already loaded munitions stockpiles. This is not coincidence — it is the operating logic of the military-industrial donor relationship made visible. Lockheed spent $13.5M lobbying in 2024. It is receiving **billions** in return. Track against Armed Services and Appropriations Committee members who vote yes on supplemental — cross-reference their donor maps.
@@ -249,13 +249,13 @@ Lockheed Martin's PAC splits roughly 55% Republican, 45% Democrat. This is not a
 - [Time: Iran War Set to Boost Business For Defense Contractors](https://time.com/article/2026/03/19/trump-iran-war-set-to-boost-profits-for-these-defense-contractors/) (Tier 2) (VERIFIED)
 - [Jacobin: Defense Contractors Stand to Profit Off the Iran War](https://jacobin.com/2026/03/defense-contractors-military-iran-war) (Tier 2) (VERIFIED)
 - [Al Jazeera: Which US and Israeli military companies are profiting from the Iran war?](https://www.aljazeera.com/news/2026/3/9/which-us-and-israeli-military-companies-are-profiting-from-the-iran-war) (Tier 2) (VERIFIED)
-- [CNBC: Iran war — Trump meets with defense CEOs, Pete Hegseth](https://www.cnbc.com/2026/03/06/iran-war-trump-defense-companies-pete-hegseth.html) (Tier 2) (VERIFIED)
+- [CNBC: Iran war. Trump meets with defense CEOs, Pete Hegseth](https://www.cnbc.com/2026/03/06/iran-war-trump-defense-companies-pete-hegseth.html) (Tier 2) (VERIFIED)
 
-### March 24, 2026 — Reconciliation Burn Rate + Hormuz Pause
+### March 24, 2026. Reconciliation Burn Rate + Hormuz Pause
 
-**Pentagon burning $152B reconciliation fund in single year:** DoD plans to spend all $152 billion allocated through the first reconciliation bill in FY2026 — even though Congress allocated the funding over five years. Lockheed-specific allocations include ~$490M for JASSM-ER (+245 missiles) and a major share of the $24.4B Golden Dome missile defense allocation. Combined with regular appropriations and the pending $200B Iran supplemental, total defense spending is approaching $1.3-1.5T in FY2026.
+**Pentagon burning $152B reconciliation fund in single year:** DoD plans to spend all $152 billion allocated through the first reconciliation bill in FY2026, even though Congress allocated the funding over five years. Lockheed-specific allocations include ~$490M for JASSM-ER (+245 missiles) and a major share of the $24.4B Golden Dome missile defense allocation. Combined with regular appropriations and the pending $200B Iran supplemental, total defense spending is approaching $1.3-1.5T in FY2026.
 
-**Hormuz pause does not affect revenue:** Trump's five-day pause on strikes against Iran's power plants (March 24) does not affect ongoing combat operations — CENTCOM reports 9,000+ targets struck, 9,000+ combat flights. Munitions expenditure (JASSM-ER, Patriot, THAAD) continues at wartime rates regardless of the diplomatic pause. The pause is political messaging; the procurement pipeline is unaffected.
+**Hormuz pause does not affect revenue:** Trump's five-day pause on strikes against Iran's power plants (March 24) does not affect ongoing combat operations. CENTCOM reports 9,000+ targets struck, 9,000+ combat flights. Munitions expenditure (JASSM-ER, Patriot, THAAD) continues at wartime rates regardless of the diplomatic pause. The pause is political messaging; the procurement pipeline is unaffected.
 
 - [Breaking Defense: Pentagon plans to spend all $152B reconciliation in FY26](https://breakingdefense.com/2026/02/reconciliation-revealed-how-the-pentagon-plans-to-spend-all-152-billion-in-fy26/) (Tier 2) (VERIFIED)
 - [CBS News: Trump calls off Hormuz ultimatum](https://www.cbsnews.com/live-updates/iran-war-us-israel-trump-ultimatum-strait-of-hormuz/) (Tier 2) (VERIFIED)

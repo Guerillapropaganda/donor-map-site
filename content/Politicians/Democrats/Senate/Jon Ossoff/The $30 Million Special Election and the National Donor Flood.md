@@ -111,7 +111,7 @@ After the 2017 loss, Ossoff could have:
 3. Run for state office
 4. Exited politics entirely
 
-Instead, he ran for Senate in 2020—a far higher office. This trajectory is only possible because the 2017 loss didn't cost him donor network access. The $30 million demonstrated that he could activate national donors. That credential remained intact despite electoral failure.
+Instead, he ran for Senate in 2020, a far higher office. This trajectory is only possible because the 2017 loss didn't cost him donor network access. The $30 million demonstrated that he could activate national donors. That credential remained intact despite electoral failure.
 
 ---
 
@@ -157,5 +157,5 @@ The $30 million 2017 race was expensive and ultimately unsuccessful, but it func
 
 - [OpenSecrets: Georgia's 6th Congressional District 2017 Special Election](https://www.opensecrets.org/races/summary?cycle=2017&id=GA06&spec=N) (Tier 1) (VERIFIED)
 - [FEC: Jon Ossoff 2017 Campaign Committee Filings](https://www.fec.gov/data/committee/C00718866/) (Tier 1) (VERIFIED)
-- ~~[CNN: Democratic Ossoff Raises $106 Million in Georgia Senate Race](https://www.bloomberg.com/news/articles/2020-12-24/ossoff-s-fundraising-tops-106-million-in-georgia-senate-race)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
-- ~~[The Hill: Ossoff, Warnock each rake in over $100 million](https://thehill.com/homenews/campaign/531652-ossoff-warnock-each-rake-in-over-100-million-in-recent-months/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[CNN: Democratic Ossoff Raises $106 Million in Georgia Senate Race](https://www.bloomberg.com/news/articles/2020-12-24/ossoff-s-fundraising-tops-106-million-in-georgia-senate-race)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[The Hill: Ossoff, Warnock each rake in over $100 million](https://thehill.com/homenews/campaign/531652-ossoff-warnock-each-rake-in-over-100-million-in-recent-months/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)

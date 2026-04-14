@@ -1,5 +1,5 @@
 ---
-title: "Angela D. Alsobrooks Master Profile"
+title: "Angela D. Alsobrooks"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

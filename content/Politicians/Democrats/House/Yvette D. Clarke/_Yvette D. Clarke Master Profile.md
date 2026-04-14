@@ -1,5 +1,5 @@
 ---
-title: "Yvette D. Clarke Master Profile"
+title: "Yvette D. Clarke"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

@@ -24,29 +24,29 @@ last-enriched: "2026-04-11"
 
 ### Who They Are
 
-ViaPath Technologies — formerly Global Tel Link (GTL), rebranded January 2022. The second-largest prison telecommunications company in the United States, controlling approximately 37% of the market. Together with Securus/[[Securus Technologies - Aventiv|Aventiv]] (50%), ViaPath forms the duopoly that controls 80–90% of all prison telecom services in the country.
+ViaPath Technologies, formerly Global Tel Link (GTL), rebranded January 2022. The second-largest prison telecommunications company in the United States, controlling approximately 37% of the market. Together with Securus/[[Securus Technologies - Aventiv|Aventiv]] (50%), ViaPath forms the duopoly that controls 80–90% of all prison telecom services in the country.
 
 **Ownership:** American Securities purchased GTL for $1 billion in 2011. March 2023: SPAC Tristar Acquisition Corp issued a non-binding letter of intent to acquire ViaPath, but terminated the deal in June 2023.
 
-**Political spending:** Federal lobbying $50,000 (2025), $40,000 (2024). Campaign contributions: $825 (2024 cycle, member/employee donations only). ViaPath's political footprint is smaller than Securus's — the influence operates through the same commission structure and contract dependency model.
+**Political spending:** Federal lobbying $50,000 (2025), $40,000 (2024). Campaign contributions: $825 (2024 cycle, member/employee donations only). ViaPath's political footprint is smaller than Securus's, the influence operates through the same commission structure and contract dependency model.
 
 ---
 
 ### What They Want
 
-Same as Securus — maximum rates, minimum regulation, preservation of the commission model, expansion of tablet and digital services revenue. ViaPath has an additional strategic interest: preventing merger with or acquisition by Securus, which would eliminate the last vestige of "competition" in the market and likely trigger antitrust scrutiny.
+Same as Securus, maximum rates, minimum regulation, preservation of the commission model, expansion of tablet and digital services revenue. ViaPath has an additional strategic interest: preventing merger with or acquisition by Securus, which would eliminate the last vestige of "competition" in the market and likely trigger antitrust scrutiny.
 
 ---
 
 ### Who They Fund
 
-ViaPath's disclosed political spending is negligible. The real political mechanism is the commission structure — ViaPath pays correctional facilities a share of telecom revenue, creating institutional dependence on maintaining the current pricing model. See [[Securus Technologies - Aventiv]] for the detailed analysis of how commissions function as political payments.
+ViaPath's disclosed political spending is negligible. The real political mechanism is the commission structure. ViaPath pays correctional facilities a share of telecom revenue, creating institutional dependence on maintaining the current pricing model. See [[Securus Technologies - Aventiv]] for the detailed analysis of how commissions function as political payments.
 
 ---
 
 ### What They've Gotten
 
-**California state prison contracts:** ViaPath previously held the California state prison telecom contract — lost to Securus in the February 2025 $315M award. Still operates in California county jails.
+**California state prison contracts:** ViaPath previously held the California state prison telecom contract, lost to Securus in the February 2025 $315M award. Still operates in California county jails.
 
 **Merger protection:** April 2019: a proposed Securus-ICSolutions merger was abandoned after FCC objections. That merger would have given the duopoly approximately 90% market control. ViaPath benefits from the FCC's willingness to prevent further consolidation, even as both companies extract from the same captive consumer base.
 
@@ -56,9 +56,9 @@ ViaPath's disclosed political spending is negligible. The real political mechani
 
 ### Class Analysis
 
-ViaPath is the junior partner in the prison telecom duopoly. The class analysis is identical to Securus — captive consumers, monopoly pricing, commission-based corruption of facility administrators, private equity extraction. The only structural difference is scale: ViaPath controls 37% vs. Securus's 50%.
+ViaPath is the junior partner in the prison telecom duopoly. The class analysis is identical to Securus, captive consumers, monopoly pricing, commission-based corruption of facility administrators, private equity extraction. The only structural difference is scale: ViaPath controls 37% vs. Securus's 50%.
 
-The duopoly itself is the class analysis. Two private equity-owned companies control nearly the entire market for a basic human need — communication between incarcerated people and their families. The "competition" between them is cosmetic; both charge similar rates, both pay similar commissions, and both fight the same regulatory battles against rate caps. The families paying the bills cannot choose a different provider. The incarcerated people making the calls cannot switch carriers. The market is captive by design.
+The duopoly itself is the class analysis. Two private equity-owned companies control nearly the entire market for a basic human need, communication between incarcerated people and their families. The "competition" between them is cosmetic; both charge similar rates, both pay similar commissions, and both fight the same regulatory battles against rate caps. The families paying the bills cannot choose a different provider. The incarcerated people making the calls cannot switch carriers. The market is captive by design.
 
 ---
 

@@ -20,7 +20,7 @@ known-gaps:
 
 ### Who They Are
 
-The United Arab Emirates. A federation of seven emirates (Abu Dhabi, Dubai, and five smaller states) with a combined GDP of $500 billion and sovereign wealth funds totaling $1.5+ trillion (Abu Dhabi Investment Authority: $990 billion; Mubadala: $300+ billion). The UAE has built the most sophisticated foreign influence operation in Washington after Israel and Saudi Arabia — spending $20-30 million annually on registered lobbying while cultivating commercial relationships that create corporate advocates.
+The United Arab Emirates. A federation of seven emirates (Abu Dhabi, Dubai, and five smaller states) with a combined GDP of $500 billion and sovereign wealth funds totaling $1.5+ trillion (Abu Dhabi Investment Authority: $990 billion; Mubadala: $300+ billion). The UAE has built the most sophisticated foreign influence operation in Washington after Israel and Saudi Arabia, spending $20-30 million annually on registered lobbying while cultivating commercial relationships that create corporate advocates.
 
 The UAE's influence model combines arms purchases ($23 billion F-35 sale announced 2020, later complicated), lobbying through former senior officials (the UAE's registered agents have included former members of Congress, former ambassadors, and former national security officials), and sovereign wealth fund investments in American tech companies, real estate, and financial institutions.
 
@@ -45,7 +45,7 @@ Advanced U.S. weapons systems (F-35, drones, missile defense), diplomatic suppor
 
 ### Sources
 
-- ~~[FARA: UAE foreign agent registrations](https://efile.fara.gov/ords/fara/f?p=185:1)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[FARA: UAE foreign agent registrations](https://efile.fara.gov/ords/fara/f?p=185:1)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [State Department: Abraham Accords](https://www.state.gov/the-abraham-accords/) (Tier 1) (VERIFIED)
 - [Ballotpedia: UAE-US relations](https://ballotpedia.org/United_Arab_Emirates_-_Influence_Operation) (Tier 3) (VERIFIED)
 

@@ -1,9 +1,9 @@
 ---
-title: "Rick Scott Master Profile"
+title: "Rick Scott"
 type: politician
 content-readiness: draft
-central-thesis: "Rick Scott is the most literal example of the donor-class thesis: he IS the donor class. He doesn't receive money from healthcare fraudsters — he WAS the healthcare fraudster. He doesn't receive self-funding from a clean fortune — his content-readiness: draft52M+ in ca..."
-last-updated: 2026-04-14
+central-thesis: "Rick Scott is the most literal example of the donor-class thesis: he IS the donor class. He doesn't receive money from healthcare fraudsters , he WAS the healthcare fraudster. He doesn't receive self-funding from a clean fortune , his content-readiness: draft52M+ in ca..."
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 party: "Republican"
@@ -50,7 +50,7 @@ committees:
   - "Senate Committee on Homeland Security and Governmental Affairs"
   - "Senate Committee on the Budget"
   - "Senate Special Committee on Aging"
-internal-notes: "[MANUAL 2026-04-11] Bioguide recovered: S001217. Previously cleared by fix-bioguide-contamination.cjs because the profile was sharing a contaminated wrong bioguide (C001091 or B001296) with other unrelated profiles. Manually verified against bioguide.congress.gov/search. needs-reenrichment flipped from false to true — the next scheduled pipeline run will now populate correct Congress.gov auto-blocks.
+internal-notes: "[MANUAL 2026-04-11] Bioguide recovered: S001217. Previously cleared by fix-bioguide-contamination.cjs because the profile was sharing a contaminated wrong bioguide (C001091 or B001296) with other unrelated profiles. Manually verified against bioguide.congress.gov/search. needs-reenrichment flipped from false to true , the next scheduled pipeline run will now populate correct Congress.gov auto-blocks.
 
 [JANITOR 2026-04-11] Bioguide contamination cleared by fix-bioguide-contamination.cjs. This profile had bioguide-id set to 'C001091' (Joaquin Castro's ID), almost certainly from a past bulk-set script that fell through to candidates[0]?.bioguideId when a name search failed. 19 unrelated profiles all had the same wrong ID — same class of bug as the A000383 Alan Armstrong incident documented in the Pipeline Guide. The wrong ID has been removed. A correct bioguide must be added manually (verify at bioguide.congress.gov/search) before the Congress.gov pipeline can enrich this profile. Pipeline will skip this profile until a bioguide is provided."
 ---
@@ -63,7 +63,7 @@ donors: Healthcare Industry · [[Fanjul Family - Florida Crystals]]
 
 ## Who He Is
 
-Rick Scott. Senior Senator from Florida (2019–present). Former Governor of Florida (2011–2019). Former CEO of Columbia/HCA — the company that committed the largest Medicare misconduct in U.S. history ($1.7 billion settlement, 14 felonies). Invoked the Fifth Amendment 75 times in deposition. Departure package: $370M+. Self-funded $152M+ across campaigns. Net worth: $200–300M (wealthiest member of Congress). NRSC chair 2022 (spent 95% of $181.5M before general election). Wife Ann Scott's portfolio: 550+ investment items, Cayman Islands hedge funds, tech giants.
+Rick Scott. Senior Senator from Florida (2019–present). Former Governor of Florida (2011–2019). Former CEO of Columbia/HCA, the company that committed the largest Medicare misconduct in U.S. history ($1.7 billion settlement, 14 felonies). Invoked the Fifth Amendment 75 times in deposition. Departure package: $370M+. Self-funded $152M+ across campaigns. Net worth: $200–300M (wealthiest member of Congress). NRSC chair 2022 (spent 95% of $181.5M before general election). Wife Ann Scott's portfolio: 550+ investment items, Cayman Islands hedge funds, tech giants.
 
 ---
 
@@ -83,21 +83,21 @@ Rick Scott. Senior Senator from Florida (2019–present). Former Governor of Flo
 ## Donor Class Map
 
 ### The Fraud Fortune:
-- [[Columbia-HCA and the Largest Medicare misconduct in History]] — $1.7B settlement, 14 felonies. Scott: $9.88M settlement, $5.1M severance, $4.75M consulting, $350M+ stock. Fifth Amendment 75 times. Never personally charged. The golden parachute funded every subsequent campaign. The misconduct was the origin of the political career.
+- [[Columbia-HCA and the Largest Medicare misconduct in History]], $1.7B settlement, 14 felonies. Scott: $9.88M settlement, $5.1M severance, $4.75M consulting, $350M+ stock. Fifth Amendment 75 times. Never personally charged. The golden parachute funded every subsequent campaign. The misconduct was the origin of the political career.
 
 ### The Self-Funded Purchase:
-- The Self-Funded Billionaire Model and Florida Inc. — $152M+ self-funded across campaigns. 2018: $63.6M (75% of total). Big Sugar: Fanjul $39.3K, "Let's Get to Work" PAC $1M+. "Blind trust" was blind in name only (NYT). 550+ investment items. Cayman Islands hedge funds. STOCK Act violation ($450K unreported sale). Wealthiest member of Congress with no meaningful conflict-of-interest protections.
+- The Self-Funded Billionaire Model and Florida Inc. $152M+ self-funded across campaigns. 2018: $63.6M (75% of total). Big Sugar: Fanjul $39.3K, "Let's Get to Work" PAC $1M+. "Blind trust" was blind in name only (NYT). 550+ investment items. Cayman Islands hedge funds. STOCK Act violation ($450K unreported sale). Wealthiest member of Congress with no meaningful conflict-of-interest protections.
 
 ### The McConnell Spending War:
-- [[NRSC Chair and the McConnell Spending War]] — NRSC raised $181.5M. Scott spent 95% early. McConnell bypassed NRSC for SLF. "Interesting idea" for Scott to self-fund committee (public humiliation). 2022 Senate losses blamed on NRSC cash shortage. Scott challenged McConnell for leadership — lost decisively. Institutional donor class beat populist donor class.
+- [[NRSC Chair and the McConnell Spending War]]. NRSC raised $181.5M. Scott spent 95% early. McConnell bypassed NRSC for SLF. "Interesting idea" for Scott to self-fund committee (public humiliation). 2022 Senate losses blamed on NRSC cash shortage. Scott challenged McConnell for leadership, lost decisively. Institutional donor class beat populist donor class.
 
 ---
 
 ## Analytical Patterns
 
-**The Genuine Win + Structural Limit** — Scott has secured genuine policy victories on healthcare deregulation and ACA opposition that benefit his personal portfolio and the healthcare industry donor class. His "Plan to Rescue America" with sunset clauses represents a real attempt to dismantle federal healthcare systems. However, these victories are narrowly constructed to protect healthcare industry profit structures rather than challenging the fundamental mechanisms through which healthcare corporations extract wealth from public resources. Deregulation and privatization serve specific corporate interests while avoiding broader questions about healthcare access and equity.
+**The Genuine Win + Structural Limit**. Scott has secured genuine policy victories on healthcare deregulation and ACA opposition that benefit his personal portfolio and the healthcare industry donor class. His "Plan to Rescue America" with sunset clauses represents a real attempt to dismantle federal healthcare systems. However, these victories are narrowly constructed to protect healthcare industry profit structures rather than challenging the fundamental mechanisms through which healthcare corporations extract wealth from public resources. Deregulation and privatization serve specific corporate interests while avoiding broader questions about healthcare access and equity.
 
-**The Villain Framing** — Scott frames Medicare, Medicaid, and ACA as government inefficiency and fiscal irresponsibility rather than engaging with class analysis of how he personally stole $1.7 billion from Medicare and is now positioned to shape policy affecting the program he defrauded. He attributes Florida's healthcare problems to "government waste" rather than to his own industry's extraction of public resources through fraudulent billing. This framing allows him to advocate destruction of the programs he stole from while positioning himself as a fiscal reformer rather than as a thief.
+**The Villain Framing**. Scott frames Medicare, Medicaid, and ACA as government inefficiency and fiscal irresponsibility rather than engaging with class analysis of how he personally stole $1.7 billion from Medicare and is now positioned to shape policy affecting the program he defrauded. He attributes Florida's healthcare problems to "government waste" rather than to his own industry's extraction of public resources through fraudulent billing. This framing allows him to advocate destruction of the programs he stole from while positioning himself as a fiscal reformer rather than as a thief.
 
 ---
 
@@ -105,10 +105,10 @@ Rick Scott. Senior Senator from Florida (2019–present). Former Governor of Flo
 
 Scott's legislative record on healthcare is the most direct conflict of interest in the Senate:
 
-- **Voted against ACA subsidies** (Florida has 4.7M marketplace consumers — most of any state)
+- **Voted against ACA subsidies** (Florida has 4.7M marketplace consumers, most of any state)
 - **Proposed sunsetting Medicare** in "Plan to Rescue America" (disavowed by McConnell)
 - **Opposed Inflation Reduction Act** (drug pricing negotiation)
-- **"More Affordable Care Act"** — his alternative framework, drafted by the man who ran the company that committed $1.7B in Medicare misconduct
+- **"More Affordable Care Act"**, his alternative framework, drafted by the man who ran the company that committed $1.7B in Medicare misconduct
 
 > [!money]
 > The man who stole $1.7 billion from Medicare now writes healthcare legislation. The irony isn't accidental — it's structural. Scott's healthcare positions (reduce ACA, sunset Medicare, oppose drug pricing negotiation) all serve the healthcare industry's revenue interests. The same industry that generated his $370M fortune through fraudulent billing benefits from the deregulatory agenda he pursues in the Senate. Scott didn't reform after the fraud — he entered politics to continue the same project at a legislative level.
@@ -117,27 +117,27 @@ Scott's legislative record on healthcare is the most direct conflict of interest
 
 ## Donation-to-Policy Timeline
 
-*Note: Scott is like Manchin — the senator IS the donor. His $370M+ fortune derived from Columbia/HCA, which committed the largest Medicare misconduct in U.S. history ($1.7B settlement). The man who stole from Medicare now writes healthcare legislation.*
+*Note: Scott is like Manchin, the senator IS the donor. His $370M+ fortune derived from Columbia/HCA, which committed the largest Medicare misconduct in U.S. history ($1.7B settlement). The man who stole from Medicare now writes healthcare legislation.*
 
 #### Self-Funded Model (HCA Fraud Fortune)
 
 | Date | Donor | Amount | Given | Policy Outcome |
 |------|-------|--------|-------|----------------|
-| 2010-2018 | Scott self-funds with HCA-derived fortune — Columbia/HCA: 14 felonies, $1.7B settlement, Scott invoked Fifth Amendment 75 times | $75M self-funded (governor 2010) | 2009-2010 | Governor Scott expands Medicaid privatization, cuts public health spending, opposes Medicaid expansion under ACA — every healthcare vote serves the industry that generated his fortune |
+| 2010-2018 | Scott self-funds with HCA-derived fortune. Columbia/HCA: 14 felonies, $1.7B settlement, Scott invoked Fifth Amendment 75 times | $75M self-funded (governor 2010) | 2009-2010 | Governor Scott expands Medicaid privatization, cuts public health spending, opposes Medicaid expansion under ACA, every healthcare vote serves the industry that generated his fortune |
 | 2018 | Scott self-funds Senate race; healthcare PACs supplement | $64M self-funded + $2M+ healthcare sector | 2018 | Enters Senate with healthcare industry alignment; the man convicted of Medicare misconduct now regulates Medicare |
 
 #### Healthcare / Pharmaceutical Industry
 
 | Date | Donor | Amount | Given | Policy Outcome |
 |------|-------|--------|-------|----------------|
-| 2022-08-07 | Cigna PAC (top contributor 2022) + healthcare/insurance sector | $10K+ Cigna alone; $2M+ healthcare sector cycle | 2022-Q2 | Scott votes against Inflation Reduction Act — opposes Medicare drug pricing negotiation provision; the policy outcome cost pharmaceutical and insurance donors nothing |
-| 2024-2025 | Healthcare and financial sector PACs (continued) | Part of ongoing sector funding | 2024 | Scott continues opposing Medicare negotiation; supports Medicaid work requirements; advocates healthcare privatization — 27+ years from misconduct settlement, same agenda |
+| 2022-08-07 | Cigna PAC (top contributor 2022) + healthcare/insurance sector | $10K+ Cigna alone; $2M+ healthcare sector cycle | 2022-Q2 | Scott votes against Inflation Reduction Act, opposes Medicare drug pricing negotiation provision; the policy outcome cost pharmaceutical and insurance donors nothing |
+| 2024-2025 | Healthcare and financial sector PACs (continued) | Part of ongoing sector funding | 2024 | Scott continues opposing Medicare negotiation; supports Medicaid work requirements; advocates healthcare privatization, 27+ years from misconduct settlement, same agenda |
 
 #### NRSC / McConnell Spending War
 
 | Date | Donor | Amount | Given | Policy Outcome |
 |------|-------|--------|-------|----------------|
-| 2024 | NRSC fundraising for Republican colleagues — Scott as chair raised $181.5M but spent 95% early | $181.5M raised as NRSC chair | 2021-2022 | McConnell bypassed NRSC for SLF; 2022 Senate losses blamed on NRSC cash shortage; Scott challenged McConnell for leadership — lost; institutional donor class beat populist donor class |
+| 2024 | NRSC fundraising for Republican colleagues. Scott as chair raised $181.5M but spent 95% early | $181.5M raised as NRSC chair | 2021-2022 | McConnell bypassed NRSC for SLF; 2022 Senate losses blamed on NRSC cash shortage; Scott challenged McConnell for leadership, lost; institutional donor class beat populist donor class |
 
 > [!money] The Damning Sequences
 > **The Origin Problem:** Scott's personal fortune — the source of his self-funding — derived from Columbia/HCA, which committed the largest Medicare fraud in U.S. history at the time of its settlement. The politician who opposes Medicare is funded by wealth extracted from Medicare fraud. He is not serving donors so much as protecting his own class position.
@@ -162,8 +162,8 @@ Scott's wife Ann holds a portfolio of 550+ investment items, including Cayman Is
 
 1. **The businessman:** "I'm a businessman, not a politician." The business was healthcare misconduct. The businessman became the politician with misconduct proceeds. The frame erases the origin story.
 2. **The tax cutter:** Scott's signature gubernatorial achievement was cutting taxes and regulations. Every tax cut benefited his own $200–300M portfolio. The "business-friendly" agenda is self-service.
-3. **The plan:** "11 Point Plan to Rescue America" (2022) — proposed sunsetting all federal legislation every five years. The plan was so extreme McConnell publicly disavowed it. But it served Scott's political brand: radical enough to generate national media coverage, populist enough to appeal to the MAGA base.
-4. **The comeback:** Scott has never been held accountable for the misconduct. His entire political narrative is built on erasing the Columbia/HCA history. Every campaign ad emphasizes "job creator" and "businessman" — never "CEO of the company convicted of 14 felonies."
+3. **The plan:** "11 Point Plan to Rescue America" (2022), proposed sunsetting all federal legislation every five years. The plan was so extreme McConnell publicly disavowed it. But it served Scott's political brand: radical enough to generate national media coverage, populist enough to appeal to the MAGA base.
+4. **The comeback:** Scott has never been held accountable for the misconduct. His entire political narrative is built on erasing the Columbia/HCA history. Every campaign ad emphasizes "job creator" and "businessman", never "CEO of the company convicted of 14 felonies."
 
 ---
 

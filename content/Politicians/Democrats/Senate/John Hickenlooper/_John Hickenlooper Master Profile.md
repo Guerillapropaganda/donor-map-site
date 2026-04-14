@@ -2,7 +2,7 @@
 title: "John Hickenlooper"
 type: politician
 content-readiness: ready
-central-thesis: "Hickenlooper is the fossil fuel industry's preferred kind of Democrat — one who speaks the language of environmental concern while protecting the industry's operating space. As Colorado governor, he was the state's top recipient of oil and gas cam..."
+central-thesis: "Hickenlooper is the fossil fuel industry's preferred kind of Democrat , one who speaks the language of environmental concern while protecting the industry's operating space. As Colorado governor, he was the state's top recipient of oil and gas cam..."
 last-updated: 2026-04-13
 source-tier: 1
 parent: null
@@ -60,7 +60,7 @@ committees:
   - "Senate Committee on Energy and Natural Resources"
   - "Senate Committee on Health, Education, Labor, and Pensions"
   - "Senate Committee on Small Business and Entrepreneurship"
-internal-notes: "[MANUAL 2026-04-11] Bioguide recovered: H000273. Previously cleared by fix-bioguide-contamination.cjs because the profile was sharing a contaminated wrong bioguide (C001091 or B001296) with other unrelated profiles. Manually verified against bioguide.congress.gov/search. needs-reenrichment flipped from false to true — the next scheduled pipeline run will now populate correct Congress.gov auto-blocks.
+internal-notes: "[MANUAL 2026-04-11] Bioguide recovered: H000273. Previously cleared by fix-bioguide-contamination.cjs because the profile was sharing a contaminated wrong bioguide (C001091 or B001296) with other unrelated profiles. Manually verified against bioguide.congress.gov/search. needs-reenrichment flipped from false to true , the next scheduled pipeline run will now populate correct Congress.gov auto-blocks.
 
 [JANITOR 2026-04-11] Bioguide contamination cleared by fix-bioguide-contamination.cjs. This profile had bioguide-id set to 'C001091' (Joaquin Castro's ID), almost certainly from a past bulk-set script that fell through to candidates[0]?.bioguideId when a name search failed. 19 unrelated profiles all had the same wrong ID — same class of bug as the A000383 Alan Armstrong incident documented in the Pipeline Guide. The wrong ID has been removed. A correct bioguide must be added manually (verify at bioguide.congress.gov/search) before the Congress.gov pipeline can enrich this profile. Pipeline will skip this profile until a bioguide is provided."
 ---
@@ -81,23 +81,23 @@ SORT file.name ASC
 
 ## Who He Is
 
-John Wright Hickenlooper Jr. (born February 7, 1952). Democratic U.S. Senator from Colorado since 2021. Previously the 42nd Governor of Colorado (2011–2019) and Mayor of Denver (2003–2011). Geologist turned brewpub founder turned politician. Up for reelection in 2026 — has confirmed this will be his final Senate campaign. Serves on the Senate Energy and Natural Resources Committee, Commerce Committee, and Small Business and Entrepreneurship Committee. Leadership PAC: Giddy Up PAC.
+John Wright Hickenlooper Jr. (born February 7, 1952). Democratic U.S. Senator from Colorado since 2021. Previously the 42nd Governor of Colorado (2011–2019) and Mayor of Denver (2003–2011). Geologist turned brewpub founder turned politician. Up for reelection in 2026, has confirmed this will be his final Senate campaign. Serves on the Senate Energy and Natural Resources Committee, Commerce Committee, and Small Business and Entrepreneurship Committee. Leadership PAC: Giddy Up PAC.
 
-Born in Narberth, Pennsylvania. BA and MS in geology from Wesleyan University. Worked as a petroleum geologist for Buckhorn Petroleum before being laid off during the 1980s oil bust. Founded Wynkoop Brewing Company in 1988 — Denver's first brewpub — which became his political origin story: the geologist-turned-brewer who revitalized a neighborhood. Failed 2020 presidential campaign (withdrew August 2019 after failing to qualify for the third debate). Defeated Republican Cory Gardner in 2020 Senate race. Career raised: $45M+ federal campaigns. Net worth modest by Senate standards but sustained by the Denver real estate and restaurant networks that launched his political career.
+Born in Narberth, Pennsylvania. BA and MS in geology from Wesleyan University. Worked as a petroleum geologist for Buckhorn Petroleum before being laid off during the 1980s oil bust. Founded Wynkoop Brewing Company in 1988. Denver's first brewpub, which became his political origin story: the geologist-turned-brewer who revitalized a neighborhood. Failed 2020 presidential campaign (withdrew August 2019 after failing to qualify for the third debate). Defeated Republican Cory Gardner in 2020 Senate race. Career raised: $45M+ federal campaigns. Net worth modest by Senate standards but sustained by the Denver real estate and restaurant networks that launched his political career.
 
 ---
 
 ## The Central Thesis
 
-Hickenlooper is the fossil fuel industry's preferred kind of Democrat — one who speaks the language of environmental concern while protecting the industry's operating space. As Colorado governor, he was the state's top recipient of oil and gas campaign contributions and the primary mediator in efforts to remove both pro- and anti-fracking ballot measures. His function: prevent the Democratic Party from becoming hostile to fossil fuel extraction by occupying the "reasonable moderate" position that accepts fracking as a bridge fuel and treats industry contributions as pragmatic rather than compromising.
+Hickenlooper is the fossil fuel industry's preferred kind of Democrat, one who speaks the language of environmental concern while protecting the industry's operating space. As Colorado governor, he was the state's top recipient of oil and gas campaign contributions and the primary mediator in efforts to remove both pro- and anti-fracking ballot measures. His function: prevent the Democratic Party from becoming hostile to fossil fuel extraction by occupying the "reasonable moderate" position that accepts fracking as a bridge fuel and treats industry contributions as pragmatic rather than compromising.
 
-But the donor data reveals something more complex than a simple oil-and-gas puppet. Hickenlooper's career federal contributions show Securities & Investment ($2.76M), Communications/Electronics ($3.67M), and Lawyers & Lobbyists ($2.92M) all dwarfing his federal Energy & Natural Resources total ($448K). His top contributor is Alphabet Inc ($269K), not an oil company. The fossil fuel relationship that defined his governorship — the $325K in direct donations from Anadarko and Noble Energy to the governor's office — operated outside the federal campaign finance system entirely. Hickenlooper's class function is broader than fossil fuel service: he is the business-class Democrat who reassures every industry that Democratic governance will not threaten their operating model. Oil and gas was simply the most visible client during his time in the governor's mansion.
+But the donor data reveals something more complex than a simple oil-and-gas puppet. Hickenlooper's career federal contributions show Securities & Investment ($2.76M), Communications/Electronics ($3.67M), and Lawyers & Lobbyists ($2.92M) all dwarfing his federal Energy & Natural Resources total ($448K). His top contributor is Alphabet Inc ($269K), not an oil company. The fossil fuel relationship that defined his governorship, the $325K in direct donations from Anadarko and Noble Energy to the governor's office, operated outside the federal campaign finance system entirely. Hickenlooper's class function is broader than fossil fuel service: he is the business-class Democrat who reassures every industry that Democratic governance will not threaten their operating model. Oil and gas was simply the most visible client during his time in the governor's mansion.
 
 ---
 
 ## The Core Contradiction
 
-Hickenlooper represents Colorado — a state with growing progressive environmental sentiment — while maintaining the closest relationship with the fossil fuel industry of any Democratic senator. He built his career on the claim that fracking and environmental protection are compatible, even as Colorado communities documented water contamination, air quality degradation, and seismic activity near fracking operations.
+Hickenlooper represents Colorado, a state with growing progressive environmental sentiment, while maintaining the closest relationship with the fossil fuel industry of any Democratic senator. He built his career on the claim that fracking and environmental protection are compatible, even as Colorado communities documented water contamination, air quality degradation, and seismic activity near fracking operations.
 
 > [!contradiction]
 > During his 2020 presidential campaign, Hickenlooper refused to support the Green New Deal and warned against "big government socialism" in climate policy. He was booed at the California Democratic convention for telling the audience "socialism is not the answer." His alternative: the same industry-friendly incrementalism that characterized his governorship — where Anadarko Petroleum and Noble Energy donated at least $325,000 directly to his governor's office while he mediated fracking policy disputes in their favor. As senator, he voted for the Inflation Reduction Act — a bill that combined $369 billion in clean energy investment with mandatory oil and gas lease sales on federal lands. The bill's fossil fuel provisions were the price of Joe Manchin's vote, but Hickenlooper didn't just tolerate them — he celebrated the "all of the above" approach as proof that pragmatism works. The industry got what it needed: continued federal leasing and a Democratic senator defending the arrangement.
@@ -140,7 +140,7 @@ Hickenlooper represents Colorado — a state with growing progressive environmen
 
 ### The Brownstein Hyatt Connection:
 
-[[Brownstein Hyatt Farber Schreck]] — the 8th-largest contributor to Hickenlooper's federal campaigns ($76,450) — is Denver's most powerful lobbying firm and one of the top lobbying firms in Washington. Norman Brownstein was among major donors to Hickenlooper's presidential leadership PAC. As governor, Hickenlooper's office paid Brownstein Hyatt $17,500/month (February 2017–February 2018) to lobby Congress, Interior, Justice, and EPA on Colorado's behalf. Brownstein Hyatt's clients include oil and gas companies, and the firm served as a conduit between Hickenlooper's administration and the Colorado Oil and Gas Association (COGA). The relationship illustrates how lobbying firms function as the intermediary layer between donor-class interests and political decision-making — Hickenlooper pays the firm with taxpayer money to lobby on issues that align with the firm's private clients.
+[[Brownstein Hyatt Farber Schreck]], the 8th-largest contributor to Hickenlooper's federal campaigns ($76,450), is Denver's most powerful lobbying firm and one of the top lobbying firms in Washington. Norman Brownstein was among major donors to Hickenlooper's presidential leadership PAC. As governor, Hickenlooper's office paid Brownstein Hyatt $17,500/month (February 2017–February 2018) to lobby Congress, Interior, Justice, and EPA on Colorado's behalf. Brownstein Hyatt's clients include oil and gas companies, and the firm served as a conduit between Hickenlooper's administration and the Colorado Oil and Gas Association (COGA). The relationship illustrates how lobbying firms function as the intermediary layer between donor-class interests and political decision-making. Hickenlooper pays the firm with taxpayer money to lobby on issues that align with the firm's private clients.
 
 ---
 
@@ -150,49 +150,49 @@ Hickenlooper represents Colorado — a state with growing progressive environmen
 
 | Date | Money In | Amount | Policy Out | Time Gap |
 |------|----------|--------|------------|----------|
-| 2014 | Oil & gas industry contributions to gubernatorial reelection | $142,000+ | Mediated removal of both pro- and anti-fracking ballot measures — industry protected from direct democratic vote | Immediate |
+| 2014 | Oil & gas industry contributions to gubernatorial reelection | $142,000+ | Mediated removal of both pro- and anti-fracking ballot measures, industry protected from direct democratic vote | Immediate |
 | 2015–2018 | Anadarko Petroleum + Noble Energy donations to governor's office | $325,000+ | Opposed local fracking bans; argued state preemption of local control; industry operations continued in contested communities | Ongoing |
-| 2013 | Halliburton relationship (CleanStim fracking fluid) | Brand capital | Drank Halliburton's fracking fluid before Senate committee — Halliburton's own site says CleanStim "should not be considered edible"; the stunt was never used commercially | PR function |
-| 2019 | SB 19-181 signed — shifts regulation from "fostering" to "regulating" oil/gas | — | Industry recognized reform as manageable; no ban, no moratorium, no local veto power over drilling | End of term concession |
+| 2013 | Halliburton relationship (CleanStim fracking fluid) | Brand capital | Drank Halliburton's fracking fluid before Senate committee. Halliburton's own site says CleanStim "should not be considered edible"; the stunt was never used commercially | PR function |
+| 2019 | SB 19-181 signed, shifts regulation from "fostering" to "regulating" oil/gas |, | Industry recognized reform as manageable; no ban, no moratorium, no local veto power over drilling | End of term concession |
 | 2020 | Oil & gas contributions to Senate campaign | ~$63,000 | Positioned as moderate on Energy and Natural Resources Committee; supported IRA's mandatory federal leasing provisions | 1 year |
-| 2022 | IRA vote — included mandatory oil/gas lease sales on federal lands | — | Celebrated "all of the above" approach; fossil fuel leasing provisions protected industry's federal land access | Ongoing |
+| 2022 | IRA vote, included mandatory oil/gas lease sales on federal lands |, | Celebrated "all of the above" approach; fossil fuel leasing provisions protected industry's federal land access | Ongoing |
 
 #### Tech / Securities / Law Firms
 
 | Date | Money In | Amount | Policy Out | Time Gap |
 |------|----------|--------|------------|----------|
-| 2019–2024 | Alphabet Inc (Google) — top career contributor | $269,369 | Serves on Commerce Committee with tech jurisdiction; no major tech regulation advocacy | Ongoing |
+| 2019–2024 | Alphabet Inc (Google), top career contributor | $269,369 | Serves on Commerce Committee with tech jurisdiction; no major tech regulation advocacy | Ongoing |
 | 2019–2024 | Securities & Investment sector | $2,758,550 | No Wall Street reform advocacy; positioned as business-friendly Democrat | Ongoing |
-| 2017–2018 | Brownstein Hyatt Farber Schreck — governor's office lobbying contract | $17,500/month | Firm lobbied Congress, Interior, Justice, EPA on behalf of Colorado — firm's private clients include oil/gas, real estate | Direct payment |
+| 2017–2018 | Brownstein Hyatt Farber Schreck, governor's office lobbying contract | $17,500/month | Firm lobbied Congress, Interior, Justice, EPA on behalf of Colorado, firm's private clients include oil/gas, real estate | Direct payment |
 
 > [!money]
 > **The donation-to-policy timeline reveals a two-track system.** At the state level, oil and gas operated through direct governor's office donations ($325K+ from Anadarko/Noble) — a channel invisible to federal campaign finance tracking. At the federal level, the dominant donor classes are tech, securities, and law firms, which collectively contributed over $9M. The oil and gas relationship that defined Hickenlooper's governorship has been absorbed into a broader business-class funding model for his Senate career. The function remains the same: every major donor industry receives the assurance that Hickenlooper will not threaten their operating model. The Brownstein Hyatt connection ($76K in contributions + $210K in taxpayer-funded lobbying contracts) illustrates the intermediary architecture — the same firm receives public money to lobby and private money to contribute.
 
 ---
 
-### Policy Record — Fossil Fuel Service
+### Policy Record. Fossil Fuel Service
 
 ### Governor (2011–2019):
-— Top recipient of oil and gas industry campaign contributions in Colorado
-— Served as primary mediator to remove both pro- and anti-fracking ballot measures — protecting the industry from direct democratic votes on fracking bans
-— Opposed local fracking bans, arguing state preemption of local control
-— Told a Senate committee he drank a glass of Halliburton's CleanStim fracking fluid to demonstrate fracking's safety — Halliburton's own website states CleanStim "should not be considered edible," and the fluid was never used commercially
-— Signed SB 19-181 in final year, which shifted oil and gas regulation from "fostering" development to "regulating" it — a reform that environmental groups called a genuine win but that the industry recognized as manageable
+, Top recipient of oil and gas industry campaign contributions in Colorado
+, Served as primary mediator to remove both pro- and anti-fracking ballot measures, protecting the industry from direct democratic votes on fracking bans
+, Opposed local fracking bans, arguing state preemption of local control
+, Told a Senate committee he drank a glass of Halliburton's CleanStim fracking fluid to demonstrate fracking's safety. Halliburton's own website states CleanStim "should not be considered edible," and the fluid was never used commercially
+, Signed SB 19-181 in final year, which shifted oil and gas regulation from "fostering" development to "regulating" it, a reform that environmental groups called a genuine win but that the industry recognized as manageable
 
 ### Senator (2021–present):
-— Serves on Senate Energy and Natural Resources Committee — the committee with direct jurisdiction over federal energy policy, public lands, and oil/gas leasing
-— Voted for the Inflation Reduction Act (IRA) — which combined $369 billion in clean energy investment with mandatory oil and gas lease sales on federal lands
-— Voted to reinstate Obama-era methane pollution limits for oil and gas operations, using Colorado's regulations as the model — a genuine environmental measure that the industry could absorb
-— Positioned as moderate Democratic voice on energy, supporting "all of the above" approach
-— Endorsed by League of Conservation Voters for 2026 — reflecting his repositioning as climate-aware while maintaining industry relationships
+, Serves on Senate Energy and Natural Resources Committee, the committee with direct jurisdiction over federal energy policy, public lands, and oil/gas leasing
+, Voted for the Inflation Reduction Act (IRA), which combined $369 billion in clean energy investment with mandatory oil and gas lease sales on federal lands
+, Voted to reinstate Obama-era methane pollution limits for oil and gas operations, using Colorado's regulations as the model, a genuine environmental measure that the industry could absorb
+, Positioned as moderate Democratic voice on energy, supporting "all of the above" approach
+, Endorsed by League of Conservation Voters for 2026, reflecting his repositioning as climate-aware while maintaining industry relationships
 
 ---
 
-### Ethics Violations — The Gift Ban Pattern
+### Ethics Violations. The Gift Ban Pattern
 
 In 2020, the Colorado Independent Ethics Commission found that Hickenlooper violated the state's Amendment 41 gift ban twice during his governorship. The commission voted 4-0 to impose a $2,200 fine for accepting a private jet flight to Connecticut on a plane owned by a top political donor for the commissioning of a Navy submarine. It voted 4-1 to impose a $550 fine for a Maserati limousine ride he accepted in Italy during an international conference. Total fine: $2,750.
 
-Hickenlooper initially refused to appear at the commission's remote hearing, leading to a unanimous contempt finding — a rare enforcement action against a sitting U.S. Senate candidate. The contempt was later addressed without additional fines, but the refusal to cooperate with an ethics investigation during an active Senate campaign revealed the pattern: accept private benefits from wealthy interests, resist accountability when caught, absorb the minimal sanction, and move on. The $2,750 fine amounts to 0.006% of his career federal fundraising ($45M+). The ethics system functions as a speed bump, not a barrier.
+Hickenlooper initially refused to appear at the commission's remote hearing, leading to a unanimous contempt finding, a rare enforcement action against a sitting U.S. Senate candidate. The contempt was later addressed without additional fines, but the refusal to cooperate with an ethics investigation during an active Senate campaign revealed the pattern: accept private benefits from wealthy interests, resist accountability when caught, absorb the minimal sanction, and move on. The $2,750 fine amounts to 0.006% of his career federal fundraising ($45M+). The ethics system functions as a speed bump, not a barrier.
 
 > [!contradiction]
 > Hickenlooper campaigned as a transparent, accountable moderate — "the most transparent governor in Colorado history" was a campaign line. The ethics violation revealed the opposite: private jet flights from donors, luxury transportation at international conferences, and an initial refusal to cooperate with the investigating body. The fine was trivial. The contempt finding was unprecedented for a Senate candidate. The pattern: the "reasonable moderate" brand depends on the perception of integrity while the donor-class benefits flow through channels designed to evade public scrutiny.
@@ -209,36 +209,36 @@ The Brownstein Hyatt Farber Schreck connection illustrates how the donor class o
 
 ## Rhetorical Signature Moves
 
-**"The Brewpub Governor"** — The origin story does heavy lifting. Hickenlooper was a geologist who lost his job in the oil bust, founded Denver's first brewpub, and revitalized a neighborhood. The narrative codes him as an independent entrepreneur, not a career politician or industry figure. The brewery story functions as a class disguise: it makes a petroleum geologist who became the oil industry's preferred governor appear to be a small-business everyman. Every campaign bio leads with the brewpub. The geology career and Buckhorn Petroleum disappear.
+**"The Brewpub Governor"**. The origin story does heavy lifting. Hickenlooper was a geologist who lost his job in the oil bust, founded Denver's first brewpub, and revitalized a neighborhood. The narrative codes him as an independent entrepreneur, not a career politician or industry figure. The brewery story functions as a class disguise: it makes a petroleum geologist who became the oil industry's preferred governor appear to be a small-business everyman. Every campaign bio leads with the brewpub. The geology career and Buckhorn Petroleum disappear.
 
-**"I'm a pragmatist, not an ideologue"** — Hickenlooper's signature rhetorical move is positioning every policy question as pragmatism vs. ideology. The Green New Deal isn't wrong on the merits — it's "unrealistic." Fracking bans aren't wrong on the science — they're "impractical." This framing converts class interest (protecting fossil fuel industry operations) into methodology disputes (how to achieve shared environmental goals). The function: deflect donor-class analysis by making the debate about method rather than interest.
+**"I'm a pragmatist, not an ideologue"**. Hickenlooper's signature rhetorical move is positioning every policy question as pragmatism vs. ideology. The Green New Deal isn't wrong on the merits, it's "unrealistic." Fracking bans aren't wrong on the science, they're "impractical." This framing converts class interest (protecting fossil fuel industry operations) into methodology disputes (how to achieve shared environmental goals). The function: deflect donor-class analysis by making the debate about method rather than interest.
 
-**"Colorado proves it works"** — The state-as-laboratory argument. Hickenlooper points to Colorado's methane regulations, SB 19-181, and economic growth as proof that business-friendly environmentalism produces results. The argument is self-reinforcing: any reform that passes proves moderation works; any reform that fails proves ambition was unrealistic. Colorado's oil and gas production increased during Hickenlooper's governorship. The reforms he points to as proof of his approach were the reforms the industry could absorb.
+**"Colorado proves it works"**. The state-as-laboratory argument. Hickenlooper points to Colorado's methane regulations, SB 19-181, and economic growth as proof that business-friendly environmentalism produces results. The argument is self-reinforcing: any reform that passes proves moderation works; any reform that fails proves ambition was unrealistic. Colorado's oil and gas production increased during Hickenlooper's governorship. The reforms he points to as proof of his approach were the reforms the industry could absorb.
 
-**"Socialism is not the answer"** — The 2019 California Democratic convention moment crystallized Hickenlooper's function. He was booed for warning against socialism at a progressive gathering. The boos were the point: they positioned him as the adult in the room, the moderate who tells hard truths. His donor class — securities, tech, law firms — heard the signal: this is a Democrat who will resist the party's left flank. The booing was a fundraising event disguised as a gaffe.
+**"Socialism is not the answer"**. The 2019 California Democratic convention moment crystallized Hickenlooper's function. He was booed for warning against socialism at a progressive gathering. The boos were the point: they positioned him as the adult in the room, the moderate who tells hard truths. His donor class, securities, tech, law firms, heard the signal: this is a Democrat who will resist the party's left flank. The booing was a fundraising event disguised as a gaffe.
 
 ---
 
 ## Analytical Patterns
 
-**Genuine Win + Structural Limit:** SB 19-181 was a real reform — shifting Colorado's oil and gas regulation from "fostering" to "regulating" development. The methane pollution limits he championed in the Senate were genuine environmental measures. But the structural limit was baked in: the bill didn't ban fracking, didn't impose a moratorium, and didn't give local communities the unilateral right to prohibit drilling. The industry could live with it. His Senate vote for the IRA included genuine clean energy investment ($369B) but also mandatory federal oil and gas lease sales — the structural limit that ensured fossil fuel extraction continues on public lands.
+**Genuine Win + Structural Limit:** SB 19-181 was a real reform, shifting Colorado's oil and gas regulation from "fostering" to "regulating" development. The methane pollution limits he championed in the Senate were genuine environmental measures. But the structural limit was baked in: the bill didn't ban fracking, didn't impose a moratorium, and didn't give local communities the unilateral right to prohibit drilling. The industry could live with it. His Senate vote for the IRA included genuine clean energy investment ($369B) but also mandatory federal oil and gas lease sales, the structural limit that ensured fossil fuel extraction continues on public lands.
 
-**Two-Audience Problem:** Hickenlooper speaks environmental concern to Colorado's progressive voters while maintaining the fossil fuel industry's confidence that he won't threaten their core operations. The brewery origin story helps — it codes him as "independent businessman" rather than "industry politician." His League of Conservation Voters endorsement signals environmental credibility to progressive voters; his Energy and Natural Resources Committee seat signals industry access to fossil fuel donors. Both audiences believe he's on their side.
+**Two-Audience Problem:** Hickenlooper speaks environmental concern to Colorado's progressive voters while maintaining the fossil fuel industry's confidence that he won't threaten their core operations. The brewery origin story helps, it codes him as "independent businessman" rather than "industry politician." His League of Conservation Voters endorsement signals environmental credibility to progressive voters; his Energy and Natural Resources Committee seat signals industry access to fossil fuel donors. Both audiences believe he's on their side.
 
-**Villain Framing:** Hickenlooper frames the choice as "pragmatic moderates vs. unrealistic progressives" — making the Green New Deal and fracking bans the villains rather than the fossil fuel industry. This deflects class analysis by making the debate about method rather than interest. The real structural question — why does the Democratic Party's energy policy serve fossil fuel donors? — never gets asked when the debate is framed as "pragmatism vs. ideology."
+**Villain Framing:** Hickenlooper frames the choice as "pragmatic moderates vs. unrealistic progressives", making the Green New Deal and fracking bans the villains rather than the fossil fuel industry. This deflects class analysis by making the debate about method rather than interest. The real structural question, why does the Democratic Party's energy policy serve fossil fuel donors?, never gets asked when the debate is framed as "pragmatism vs. ideology."
 
 **Revolving Door:** The Brownstein Hyatt relationship illustrates the revolving door architecture: a lobbying firm that contributes to Hickenlooper's campaigns ($76K), receives taxpayer-funded lobbying contracts from his governor's office ($210K over 12 months), and represents the same oil and gas industry whose interests Hickenlooper served as governor. The firm's founder, Norman Brownstein, is a major donor. The relationship network connects campaign contributions, government contracts, and industry lobbying in a single pipeline.
 
-**Self-Funding as Independence:** Hickenlooper's brewpub origin story functions as a version of the self-funding narrative — not that he's independently wealthy, but that he's independently minded. The "I built a business" narrative creates perceived independence from donor influence, even as Securities & Investment ($2.76M), Communications/Electronics ($3.67M), and Lawyers & Lobbyists ($2.92M) collectively contributed over $9M to his federal campaigns.
+**Self-Funding as Independence:** Hickenlooper's brewpub origin story functions as a version of the self-funding narrative, not that he's independently wealthy, but that he's independently minded. The "I built a business" narrative creates perceived independence from donor influence, even as Securities & Investment ($2.76M), Communications/Electronics ($3.67M), and Lawyers & Lobbyists ($2.92M) collectively contributed over $9M to his federal campaigns.
 
 ---
 
 ### Connected Profiles
 
-- [[_Michael Bennet Master Profile|Michael Bennet]] — Colorado's senior senator; contrasting donor profile
-- [[Fossil Fuel Bloc]] — Industry donor network
-- [[American Petroleum Institute]] — Oil and gas industry trade group
-- [[Brownstein Hyatt Farber Schreck]] — Denver-based lobbying firm; top contributor and government contractor
+- [[_Michael Bennet Master Profile|Michael Bennet]]. Colorado's senior senator; contrasting donor profile
+- [[Fossil Fuel Bloc]]. Industry donor network
+- [[American Petroleum Institute]]. Oil and gas industry trade group
+- [[Brownstein Hyatt Farber Schreck]]. Denver-based lobbying firm; top contributor and government contractor
 
 ---
 
@@ -250,10 +250,10 @@ The Brownstein Hyatt Farber Schreck connection illustrates how the donor class o
 - [Colorado Sun: Oil and gas and private donors paid for Hickenlooper initiatives](https://coloradosun.com/2020/06/12/john-hickenlooper-oil-and-gas-governor-office/) (Tier 2) (VERIFIED)
 - [Colorado Sun: Oil and gas donors become issue in Democratic primary](https://coloradosun.com/2020/06/23/oil-and-gas-hickenlooper-romanoff-campaign-finance/) (Tier 2) (VERIFIED)
 - [Colorado Sun: Ethics panel orders Hickenlooper to pay $2,750 for two violations](https://coloradosun.com/2020/06/12/john-hickenlooper-ethics-violation/) (Tier 2) (VERIFIED)
-- ~~[CPR News: Ethics Commission concludes Hickenlooper violated Colorado's gift ban](https://www.cpr.org/2020/06/05/ethics-commission-concludes-hickenlooper-violated-colorados-gift-ban-for-public-officials/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[CPR News: Ethics Commission concludes Hickenlooper violated Colorado's gift ban](https://www.cpr.org/2020/06/05/ethics-commission-concludes-hickenlooper-violated-colorados-gift-ban-for-public-officials/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [KUNC: What's in the fracking fluid Hickenlooper drank?](https://www.kunc.org/business/2013-02-15/whats-in-the-fracking-fluid-hickenlooper-drank) (Tier 2) (VERIFIED)
-- ~~[FollowTheMoney: Energy dollars in Denver](https://www.followthemoney.org/research/blog/energy-dollars-in-denver)~~ (was FollowTheMoney — site merged into OpenSecrets, all URLs dead) (Tier 1)
-- ~~[Congress.gov: John W. Hickenlooper member page](https://www.congress.gov/member/john-hickenlooper/H000273)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[FollowTheMoney: Energy dollars in Denver](https://www.followthemoney.org/research/blog/energy-dollars-in-denver)~~ (was FollowTheMoney, site merged into OpenSecrets, all URLs dead) (Tier 1)
+- ~~[Congress.gov: John W. Hickenlooper member page](https://www.congress.gov/member/john-hickenlooper/H000273)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [Denver Post: Hickenlooper says 2026 reelection will be final Senate run](https://www.denverpost.com/2024/08/21/john-hickenlooper-colorado-us-senate/) (Tier 2) (VERIFIED)
 - [Ballotpedia: John Hickenlooper](https://ballotpedia.org/John_Hickenlooper) (Tier 3) (VERIFIED)
 

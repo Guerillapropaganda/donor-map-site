@@ -46,7 +46,7 @@ The needs-reenrichment flag has been set. The next scheduled pipeline run will p
 
 The DeVos family is the Republican Party's most consequential education donor and one of its largest overall funding operations. The fortune comes from two sources: Richard DeVos Sr. co-founded Amway (now Alticor), the multi-level marketing empire, generating an estimated $5.4 billion family net worth (Forbes, 2016). Betsy DeVos's brother Erik Prince founded Blackwater (now Academi), the private military contractor that became synonymous with Iraq War-era mercenary operations.
 
-Betsy DeVos is the family's political architect. She chairs the American Federation for Children (the school privatization lobby she founded), ran the Great Lakes Education Project (Michigan charter school advocacy), served on the board of the Alliance for School Choice, and served as Michigan Republican Party chair (1996-2000, 2003-2005). In 2017, she became Trump's Secretary of Education — confirmed 51-50 with the first vice-presidential tiebreaker for a cabinet nominee in American history.
+Betsy DeVos is the family's political architect. She chairs the American Federation for Children (the school privatization lobby she founded), ran the Great Lakes Education Project (Michigan charter school advocacy), served on the board of the Alliance for School Choice, and served as Michigan Republican Party chair (1996-2000, 2003-2005). In 2017, she became Trump's Secretary of Education, confirmed 51-50 with the first vice-presidential tiebreaker for a cabinet nominee in American history.
 
 The family has invested at least $200 million in right-wing causes since 1970 and contributed $20.2+ million to federal Republican candidates, committees, and PACs since 1989. In a 1997 Roll Call op-ed titled "Soft Money Is Good," Betsy DeVos wrote what may be the most candid statement any major donor has ever published: "I have decided to stop taking offense at the suggestion that we are buying influence. Now, I simply concede the point. We expect a return on our investment."
 
@@ -56,9 +56,9 @@ They got it.
 
 ### What They Want
 
-**School privatization:** The DeVos family's central project is redirecting public education funding to private and religious schools through voucher programs, education savings accounts, and charter school expansion. Betsy DeVos founded the American Federation for Children specifically to achieve this — the organization spent $9 million on school choice advocacy in 2023 alone, funded by at least $2.5 million from Betsy and Dick DeVos personally.
+**School privatization:** The DeVos family's central project is redirecting public education funding to private and religious schools through voucher programs, education savings accounts, and charter school expansion. Betsy DeVos founded the American Federation for Children specifically to achieve this, the organization spent $9 million on school choice advocacy in 2023 alone, funded by at least $2.5 million from Betsy and Dick DeVos personally.
 
-**For-profit charter expansion without oversight:** Michigan under DeVos influence expanded from ~100 charter schools (1989) to 300+ — with approximately 80% operated by for-profit management companies, the highest percentage in the nation. A federal audit found potential conflicts of interest in six of seven examined Michigan charter schools. The US Department of Education denied Michigan a $45 million Charter Schools Program grant in 2015 due to inadequate oversight. Senator Gary Peters documented over $500 million in taxpayer money wasted on failed Michigan charter schools.
+**For-profit charter expansion without oversight:** Michigan under DeVos influence expanded from ~100 charter schools (1989) to 300+, with approximately 80% operated by for-profit management companies, the highest percentage in the nation. A federal audit found potential conflicts of interest in six of seven examined Michigan charter schools. The US Department of Education denied Michigan a $45 million Charter Schools Program grant in 2015 due to inadequate oversight. Senator Gary Peters documented over $500 million in taxpayer money wasted on failed Michigan charter schools.
 
 **Regulatory forbearance for Amway:** The FTC ruled in 1979 that Amway was not a pyramid operation but ordered it to cease misrepresenting distributor earnings. Subsequent violations led to a $100,000 penalty (1986) and a $150 million consumer restitution settlement (2019). During Betsy DeVos's tenure as Education Secretary (2017-2021), Amway faced no significant new FTC enforcement action.
 
@@ -74,7 +74,7 @@ They got it.
 |------|-------|--------|--------|
 | 1989-01-01 | DeVos family begins federal campaign contributions (tracking starts) | $20.2M+ cumulative | OpenSecrets |
 | 1997-01-01 | Michigan state party contributions begin (combined 1997-present) | $44M+ cumulative | FollowTheMoney |
-| 2012-12-31 | DeVos family funds Michigan right-to-work campaign (passed legislature) | — | Bridge Michigan |
+| 2012-12-31 | DeVos family funds Michigan right-to-work campaign (passed legislature) |, | Bridge Michigan |
 | 2015-01-01 | Trump confirmation vote buying begins: DeVos family targets Senate HELP Committee | $818K+ | Washington Post |
 | 2017-01-09 | Trump inauguration: DeVos family contributes $1M (split 6 members at $125K-250K each) | $1M | Washington Post |
 | 2015-2025 | Cumulative Michigan school choice protection spending (past decade) | $6.1M+ | Bridge Michigan |
@@ -90,7 +90,7 @@ They got it.
 The DeVos political machine operates through multiple 501(c)(4) organizations that do not disclose donors:
 
 - **American Federation for Children:** Betsy's flagship, $9M annual advocacy budget. 501(c)(4) status shields donor identities.
-- **DonorsTrust:** DeVos foundation contributed $2.5 million (2009-2010) to this donor-advised fund — the same anonymizing vehicle used by Koch, Mercer, and Thiel families.
+- **DonorsTrust:** DeVos foundation contributed $2.5 million (2009-2010) to this donor-advised fund, the same anonymizing vehicle used by Koch, Mercer, and Thiel families.
 - **Michigan Freedom Network:** $2.3 million from DeVos-connected sources.
 - **Great Lakes Education Project:** Created by Betsy DeVos in 2001, $2M+ in DeVos funding.
 
@@ -113,14 +113,14 @@ When senators demanded DeVos disclose her dark money ties during the confirmatio
 
 ---
 
-### The Revolving Door — Education Secretary as ROI
+### The Revolving Door. Education Secretary as ROI
 
 #### Betsy DeVos (2017-2021)
 
 **The confirmation:** 51-50, with VP Pence casting the first tiebreaking vote for a cabinet nominee in US history. Susan Collins and Lisa Murkowski were the only Republican defections. During the hearing, DeVos could not answer basic questions about education policy, including whether schools should be measured by proficiency or growth.
 
 ### Policy outcomes aligned with donor priorities:
-- **Borrower Defense Rule gutting:** Raised the bar for defrauded students seeking debt relief, requiring proof of school's intent to mislead (vs. Obama-era standard requiring only proof of misrepresentation). Estimated $10.5 billion reduction in debt relief over 10 years — a direct benefit to for-profit colleges. Congress voted bipartisan to block the rule; Trump vetoed the disapproval.
+- **Borrower Defense Rule gutting:** Raised the bar for defrauded students seeking debt relief, requiring proof of school's intent to mislead (vs. Obama-era standard requiring only proof of misrepresentation). Estimated $10.5 billion reduction in debt relief over 10 years, a direct benefit to for-profit colleges. Congress voted bipartisan to block the rule; Trump vetoed the disapproval.
 - **Gainful Employment Rule elimination:** Stripped consequences for colleges with poor job placement rates, benefiting the for-profit college industry.
 - **Title IX narrowing:** Redefined sexual harassment as "severe, pervasive and objectively offensive," strengthened protections for accused students, required cross-examination of accusers. Eighteen states and DC sued to block changes.
 - **School choice advocacy from federal platform:** Used cabinet position to promote voucher programs, the policy objective her family had spent $200 million building toward.
@@ -134,7 +134,7 @@ When senators demanded DeVos disclose her dark money ties during the confirmatio
 
 #### The Michigan Charter Laboratory
 
-Michigan is the DeVos family's proof of concept — and its cautionary tale:
+Michigan is the DeVos family's proof of concept, and its cautionary tale:
 
 | Metric | Michigan Charter Performance | Source |
 |--------|------------------------------|--------|
@@ -148,11 +148,11 @@ The DeVos model prioritized expansion over accountability. Michigan's charter sc
 
 #### The Ballot Box Limit
 
-In every state where school vouchers have been put to a public vote, they have lost. The DeVos model works through legislatures — where campaign contributions create access — not through democratic referenda where the public decides directly. This is the Genuine Win + Structural Limit pattern: real policy victories achieved through donor influence that cannot survive democratic ratification.
+In every state where school vouchers have been put to a public vote, they have lost. The DeVos model works through legislatures, where campaign contributions create access, not through democratic referenda where the public decides directly. This is the Genuine Win + Structural Limit pattern: real policy victories achieved through donor influence that cannot survive democratic ratification.
 
 #### Right-to-Work (Achieved and Lost)
 
-The DeVos family was a major donor to Michigan's 2012 right-to-work campaign. The law passed through a Republican-controlled legislature despite significant public opposition. In February 2024, Michigan's Democratic legislature repealed right-to-work. The policy cycle — donor-funded passage, eventual democratic repeal — mirrors the voucher ballot box pattern.
+The DeVos family was a major donor to Michigan's 2012 right-to-work campaign. The law passed through a Republican-controlled legislature despite significant public opposition. In February 2024, Michigan's Democratic legislature repealed right-to-work. The policy cycle, donor-funded passage, eventual democratic repeal, mirrors the voucher ballot box pattern.
 
 #### The Erik Prince Dimension
 
@@ -163,21 +163,21 @@ Betsy's brother Erik Prince adds a second dimension of family influence:
 - **Clinton email operation:** Helped fund efforts related to obtaining Hillary Clinton's emails.
 - **Ongoing Trump influence:** Maintained access on Ukraine and China policy through informal advisory channels.
 
-The Prince-DeVos family operates across two domains simultaneously: Betsy privatizes public education, Erik privatizes military operations. Both represent the same structural project — converting public functions into private profit centers.
+The Prince-DeVos family operates across two domains simultaneously: Betsy privatizes public education, Erik privatizes military operations. Both represent the same structural project, converting public functions into private profit centers.
 
 ---
 
 ### Class Analysis
 
-The DeVos family represents the clearest case in the vault of a donor openly acknowledging the transactional nature of political giving — and then executing on it.
+The DeVos family represents the clearest case in the vault of a donor openly acknowledging the transactional nature of political giving, and then executing on it.
 
 **The confession is the evidence.** When Betsy DeVos wrote "we expect a return on our investment" in 1997, she stated what most donors leave implicit. The family spent $200 million on right-wing infrastructure. They received a cabinet position, charter school expansion across Michigan, right-to-work legislation, regulatory forbearance for Amway, and a federal platform to promote school privatization. The ROI is documented by the donor herself.
 
-**School choice is class warfare with a brand.** The DeVos model redirects public education funding to private operators — 80% for-profit in Michigan — while blocking the oversight mechanisms that would hold those operators accountable. When the federal government denied Michigan $45 million because oversight was insufficient, the DeVos response wasn't to improve oversight. It was to seek a cabinet position where they could change the federal rules. The $10.5 billion reduction in student debt relief during Betsy's tenure as Secretary transferred wealth from defrauded students to for-profit institutions.
+**School choice is class warfare with a brand.** The DeVos model redirects public education funding to private operators, 80% for-profit in Michigan, while blocking the oversight mechanisms that would hold those operators accountable. When the federal government denied Michigan $45 million because oversight was insufficient, the DeVos response wasn't to improve oversight. It was to seek a cabinet position where they could change the federal rules. The $10.5 billion reduction in student debt relief during Betsy's tenure as Secretary transferred wealth from defrauded students to for-profit institutions.
 
-**Dark money is the infrastructure.** American Federation for Children, DonorsTrust, Michigan Freedom Network, Great Lakes Education Project — the DeVos political operation runs through 501(c)(4) organizations that shield donor identities. When senators demanded disclosure during the confirmation process, DeVos refused. The family that openly admits to buying influence simultaneously hides the channels through which the influence flows.
+**Dark money is the infrastructure.** American Federation for Children, DonorsTrust, Michigan Freedom Network, Great Lakes Education Project, the DeVos political operation runs through 501(c)(4) organizations that shield donor identities. When senators demanded disclosure during the confirmation process, DeVos refused. The family that openly admits to buying influence simultaneously hides the channels through which the influence flows.
 
-**The ballot box test.** Vouchers lose every time voters decide directly. They win only through legislatures where the DeVos family has distributed campaign contributions. This is the structural tell: the policy doesn't have democratic support. It has donor support. The two are not the same thing, and the DeVos family's model depends on ensuring the legislature — not the electorate — makes the decision.
+**The ballot box test.** Vouchers lose every time voters decide directly. They win only through legislatures where the DeVos family has distributed campaign contributions. This is the structural tell: the policy doesn't have democratic support. It has donor support. The two are not the same thing, and the DeVos family's model depends on ensuring the legislature, not the electorate, makes the decision.
 
 ---
 
@@ -187,8 +187,8 @@ The DeVos family represents the clearest case in the vault of a donor openly ack
 - [OpenSecrets: Betsy DeVos and Her Big-Giving Relatives](https://www.opensecrets.org/news/2016/12/betsy-devos-big-giving-relatives-family-qualifies-gop-royalty/) (Tier 2) (VERIFIED)
 
 #### Archived
-- ~~[OpenSecrets: DeVos Family Profile Summary](https://www.opensecrets.org/orgs/devos-family/summary?id=D000085658)~~ (was Tier 1 — org ID maps to McGrath North, not DeVos. Wrong entity.)
-- ~~[FollowTheMoney: Michigan's DeVos Family](https://followthemoney.org/research/institute-reports/names-in-news-michigans-devos-family)~~ (was Tier 1 — research report URL dead, source unavailable)
+- ~~[OpenSecrets: DeVos Family Profile Summary](https://www.opensecrets.org/orgs/devos-family/summary?id=D000085658)~~ (was Tier 1, org ID maps to McGrath North, not DeVos. Wrong entity.)
+- ~~[FollowTheMoney: Michigan's DeVos Family](https://followthemoney.org/research/institute-reports/names-in-news-michigans-devos-family)~~ (was Tier 1, research report URL dead, source unavailable)
 - [FTC: In re Amway Corporation Decision (PDF)](https://www.ftc.gov/sites/default/files/documents/commission_decision_volumes/volume-93/ftc_volume_decision_93_january_-_june_1979pages_618-738.pdf) (Tier 1) (VERIFIED)
 - [Sen. Whitehouse: Senators Renew Calls for DeVos to Disclose Dark Money Ties](https://www.whitehouse.senate.gov/news/release/senators-renew-calls-for-devos-to-come-clean-on-dark-money-ties/) (Tier 1) (VERIFIED)
 - [Sen. Peters: DeVos Pressed on $500M Wasted on Failed Charter Schools](https://www.peters.senate.gov/newsroom/press-releases/peters-presses-devos-for-answers-on-program-that-wasted-over-500-million-in-taxpayer-money-on-failed-charter-schools/) (Tier 1) (VERIFIED)
@@ -201,7 +201,7 @@ The DeVos family represents the clearest case in the vault of a donor openly ack
 - [Rolling Stone: Betsy DeVos Just Bought Herself a Trump Cabinet Position](https://www.rollingstone.com/politics/politics-features/betsy-devos-just-bought-herself-a-trump-cabinet-position-193072/) (Tier 2) (VERIFIED)
 - [The Intercept: Erik Prince's Persistent Influence on Trump](https://theintercept.com/2019/11/05/erik-prince-trump-ukraine-china/) (Tier 2) (VERIFIED)
 - [InfluenceWatch: Richard and Helen DeVos Foundation](https://www.influencewatch.org/non-profit/richard-and-helen-devos-foundation/) (Tier 2) (VERIFIED)
-- ~~[SourceWatch: American Federation for Children](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/The_American_Federation_for_Children)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[SourceWatch: American Federation for Children](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/The_American_Federation_for_Children)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [GRIID: DeVos Family 2024 Political Contributions](https://griid.org/2024/09/16/the-devos-family-has-already-contributed-over-2-million-in-2024-to-gop-committees-and-and-conservative-pacs-outside-of-michigan/) (Tier 2) (VERIFIED)
 - [Snopes: DeVos Family Campaign Contributions Fact Check](https://www.snopes.com/fact-check/devos-family-campaign-contributions/) (Tier 2) (VERIFIED)
 
@@ -209,7 +209,7 @@ The DeVos family represents the clearest case in the vault of a donor openly ack
 
 ### Federal Subawards & Spending Breakdown
 
-### Financial Overview (990 Filing — 2023)
+### Financial Overview (990 Filing, 2023)
 <!-- auto:propublica-990 start -->
 | Metric | Amount |
 |--------|--------|

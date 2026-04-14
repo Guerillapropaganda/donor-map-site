@@ -26,7 +26,7 @@ donors: (Financial industry, no specific nodes)
 
 | Date | Event | Amount | Source |
 |------|-------|--------|--------|
-| 2025-01-20 | Trump second term begins; Vought becomes OMB Director | — | White House announcement |
+| 2025-01-20 | Trump second term begins; Vought becomes OMB Director |, | White House announcement |
 | 2025-01-24 | Vought orders freezes on NYC infrastructure projects | $18,000,000,000 | CNBC, Government Executive (Tier 2) |
 | 2025-02-01 | Vought orders halt on energy projects funding | $8,000,000,000 | Federal Register impoundment notices (Tier 1) |
 | 2025-02-01 | Vought initiates cuts to Army Corps of Engineers projects (Baltimore, NYC, SF, Boston) | $11,000,000,000 | Federal Register, Army Corps records (Tier 1) |
@@ -35,7 +35,7 @@ donors: (Financial industry, no specific nodes)
 | 2025-02-20 | Vought (as acting CFPB director) attempts defunding of CFPB | $711,600,000 | Federal court ruling, CFPB filings (Tier 1) |
 | 2025-02-24 | Title I school funding eliminated | $18,000,000,000 | Department of Education, federal impoundment notices (Tier 1) |
 | 2025-02-01 | Proposed EPA cuts for FY2026 (54.5% of agency budget) | $4,200,000,000 | OMB Circular A-11, EPA proposed budget (Tier 1) |
-| 2025-03-01 | Federal court orders preliminary injunction against CFPB defunding | — | Federal court documents (Tier 1) |
+| 2025-03-01 | Federal court orders preliminary injunction against CFPB defunding |, | Federal court documents (Tier 1) |
 
 > [!money]
 > The impoundment strategy followed a deliberate sequence: announce freeze on major infrastructure (Jan 24), freeze energy projects (Feb 1), cut Army Corps projects (Feb 1), gut USAID and Title I (Feb 1–15), attempt CFPB defunding (Feb 20), propose agency-wide elimination (EPA, Feb 2026). The total withheld or proposed: $50B+ in just one month. The 1974 Impoundment Control Act requires congressional notification and limiting indefinite refusal to spend. Vought declined to commit to following the law at his confirmation hearing. The federal court's February 2025 CFPB injunction was the first successful challenge to the strategy, but subsequent impoundments continued without immediate legal remedies.
@@ -68,7 +68,7 @@ Vought serves as acting director of the Consumer Financial Protection Bureau sin
 - Federal court ruling: Vought's actions a "transparent display of partisanship"
 - Permanent injunction ordered funding request
 
-The CFPB was created after the 2008 financial crisis to protect consumers from predatory lending, credit card abuse, and financial misconduct. Vought's takeover — using the budget office to effectively shut down a consumer protection agency — serves the financial industry donors who have long sought CFPB's elimination.
+The CFPB was created after the 2008 financial crisis to protect consumers from predatory lending, credit card abuse, and financial misconduct. Vought's takeover, using the budget office to effectively shut down a consumer protection agency, serves the financial industry donors who have long sought CFPB's elimination.
 
 ---
 
@@ -78,7 +78,7 @@ The 1974 Impoundment Control Act was Congress's response to Nixon's refusal to s
 
 The first-term precedent: Vought froze $214 million in congressionally approved Ukraine security aid in July 2019. The GAO ruled the freeze illegal. The freeze triggered the investigation that led to Trump's first impeachment. Vought refused to cooperate with impeachment inquiry subpoenas.
 
-The strategy hasn't changed — only the scale. The Ukraine freeze was $214 million. The current impoundments exceed $50 billion.
+The strategy hasn't changed, only the scale. The Ukraine freeze was $214 million. The current impoundments exceed $50 billion.
 
 ---
 
@@ -86,5 +86,5 @@ The strategy hasn't changed — only the scale. The Ukraine freeze was $214 mill
 
 - Government Executive: Schedule F and budget cuts (Tier 2)
 - Banking Dive: CFPB funding court ruling (Tier 2)
-- ~~[The Hill: 10,000+ federal worker layoffs](https://thehill.com/?s=The%20Impoundment%20Strategy%20and%20the%20Budget%20as%20Political%20Weapon)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[The Hill: 10,000+ federal worker layoffs](https://thehill.com/?s=The%20Impoundment%20Strategy%20and%20the%20Budget%20as%20Political%20Weapon)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - PBS NewsHour: Vought OMB influence and impoundment (Tier 2)

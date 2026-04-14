@@ -99,8 +99,8 @@ Warren's political agenda is entirely aligned with Energy Transfer's operational
 |------|-------|--------|--------|
 | 2015-01-01 | Warren donates $743,000+ to Texas GOP candidates (Republican primary cycle) | $743,000 | OpenSecrets |
 | 2016-10-01 | Warren becomes Trump fundraiser and major donor | $100,000+ | Greenpeace |
-| 2017-01-20 | Trump inaugurated after Warren's $250K inauguration donation | — | Wikipedia |
-| 2017-01-24 | Trump signs executive memorandum approving Dakota Access Pipeline | — | Trump archives |
+| 2017-01-20 | Trump inaugurated after Warren's $250K inauguration donation |, | Wikipedia |
+| 2017-01-24 | Trump signs executive memorandum approving Dakota Access Pipeline |, | Trump archives |
 | 2017-02-01 | Warren donates substantial amounts to Ted Cruz (ongoing through present) | (ongoing) | OpenSecrets |
 | 2020-08-01 | Warren donates $10M to Trump's America First Action Super PAC | $10M | E&E News |
 | 2021-02-01 | Energy Transfer Partners profits $2.4B from Texas blackouts | $2.4B | Texas Observer |
@@ -125,7 +125,7 @@ Warren's political agenda is entirely aligned with Energy Transfer's operational
 
 #### Regulatory Capture Pattern
 - Energy Transfer's pipelines have documented 500+ hazardous spills from 2002–2017 (3.6 million gallons of crude oil and hazardous liquids), averaging one spill every 11 days, with minimal regulatory consequence
-- 60% of donations to Texas Railroad Commission (oil/gas regulator) occur before regulatory decisions, not during elections—a pattern Warren's contributions exemplify
+- 60% of donations to Texas Railroad Commission (oil/gas regulator) occur before regulatory decisions, not during elections, a pattern Warren's contributions exemplify
 
 ---
 
@@ -160,7 +160,7 @@ This is not a one-time transaction. Warren's subsequent donations to Abbott (pos
 
 #### Current Litigation
 - Energy Transfer sued Greenpeace for $300 million in 2024, alleging interference with pipeline construction during Standing Rock protests
-- Separate defamation suit against Beto O'Rourke (Warren funded Texas Supreme Court candidates deciding his case—direct regulatory capture)
+- Separate defamation suit against Beto O'Rourke (Warren funded Texas Supreme Court candidates deciding his case, direct regulatory capture)
 
 #### Why Opposition Remains Weak
 - Warren's financial scale ($20M+ per election cycle) makes opposition cost-prohibitive
@@ -184,7 +184,7 @@ This is not a one-time transaction. Warren's subsequent donations to Abbott (pos
 
 ### Sources
 
-- ~~[Greenpeace: A Brief History of Kelcy Warren and Donald Trump](https://www.greenpeace.org/global/usa/a-brief-history-of-kelcy-warren-and-donald-trump/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[Greenpeace: A Brief History of Kelcy Warren and Donald Trump](https://www.greenpeace.org/global/usa/a-brief-history-of-kelcy-warren-and-donald-trump/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [E&E News: Dakota Access CEO Gives $10M to Boost Trump](https://www.eenews.net/articles/dakota-access-ceo-gives-10m-to-boost-trump/) (Tier 2) (VERIFIED)
 - [Truthout: Dakota Access Pipeline Company Is Top Fossil Fuel Donor to Trump's War Chest](https://truthout.org/articles/dakota-access-pipeline-company-is-top-fossil-fuel-donor-to-trumps-war-chest/) (Tier 2) (VERIFIED)
 - [Wikipedia: Kelcy Warren](https://en.wikipedia.org/wiki/Kelcy_Warren) (Tier 3) (VERIFIED)

@@ -2,7 +2,7 @@
 title: Shelley Moore Capito
 type: politician
 content-readiness: ready
-central-thesis: "Shelley Moore Capito chairs the committee that regulates the fossil fuel industry — and the fossil fuel industry is her largest donor class, her state's economic backbone, and her family's employer. The EPW Committee oversees the EPA, the Clean Ai..."
+central-thesis: "Shelley Moore Capito chairs the committee that regulates the fossil fuel industry , and the fossil fuel industry is her largest donor class, her state's economic backbone, and her family's employer. The EPW Committee oversees the EPA, the Clean Ai..."
 last-updated: 2026-04-13
 source-tier: 1
 parent: null
@@ -55,9 +55,9 @@ donors: [[Koch Network - Charles Koch|Koch Network]] · [[US CHAMBER OF COMMERCE
 
 ## Who They Are
 
-Shelley Moore Capito is the senior senator from West Virginia and chairs the Senate Environment and Public Works Committee — the body with jurisdiction over the EPA, Clean Air Act, Clean Water Act, Superfund, highway infrastructure, and environmental regulation. She has served in the Senate since 2015 and previously represented West Virginia's 2nd Congressional District in the House for 14 years (2001-2015).
+Shelley Moore Capito is the senior senator from West Virginia and chairs the Senate Environment and Public Works Committee, the body with jurisdiction over the EPA, Clean Air Act, Clean Water Act, Superfund, highway infrastructure, and environmental regulation. She has served in the Senate since 2015 and previously represented West Virginia's 2nd Congressional District in the House for 14 years (2001-2015).
 
-She is the daughter of Arch Moore Jr., who served three terms as West Virginia's governor and six terms in the U.S. House before pleading guilty to federal felony charges — including extorting $573,000 from a coal company and campaign contribution violations — and serving nearly three years in prison.
+She is the daughter of Arch Moore Jr. who served three terms as West Virginia's governor and six terms in the U.S. House before pleading guilty to federal felony charges, including extorting $573,000 from a coal company and campaign contribution violations, and serving nearly three years in prison.
 
 Capito received the D.C. Coal Club's lifetime achievement award for her support of the coal industry. Her son, Arch Moore Capito, was hired as in-house counsel by Energy Corporation of America (ECA), whose employees rank among her largest individual donors (~$60,000). The Gas and Oil Association of West Virginia endorsed her for the 2026 primary.
 
@@ -67,9 +67,9 @@ West Virginia's economy has historically depended on coal (declining) and natura
 
 ## The Central Thesis
 
-Shelley Moore Capito chairs the committee that regulates the fossil fuel industry — and the fossil fuel industry is her largest donor class, her state's economic backbone, and her family's employer. The EPW Committee oversees the EPA, the Clean Air Act, and every major environmental regulation that affects coal and natural gas. Capito's position: unshackle fossil fuels from environmental regulation. She celebrated the Trump EPA's repeal of Biden-era coal regulations and opposes the Clean Power Plan.
+Shelley Moore Capito chairs the committee that regulates the fossil fuel industry, and the fossil fuel industry is her largest donor class, her state's economic backbone, and her family's employer. The EPW Committee oversees the EPA, the Clean Air Act, and every major environmental regulation that affects coal and natural gas. Capito's position: unshackle fossil fuels from environmental regulation. She celebrated the Trump EPA's repeal of Biden-era coal regulations and opposes the Clean Power Plan.
 
-The dynastic element deepens the story. Her father — a governor convicted of extorting a coal company — built the family's political career on fossil fuel relationships. Her son works for a natural gas company whose executives are her top donors. Three generations of the Moore-Capito family have profited from West Virginia's extractive economy. Capito doesn't just represent coal country. She IS coal country, generationally.
+The dynastic element deepens the story. Her father, a governor convicted of extorting a coal company, built the family's political career on fossil fuel relationships. Her son works for a natural gas company whose executives are her top donors. Three generations of the Moore-Capito family have profited from West Virginia's extractive economy. Capito doesn't just represent coal country. She IS coal country, generationally.
 
 ---
 
@@ -113,29 +113,29 @@ The dynastic element deepens the story. Her father — a governor convicted of e
 ### Pipeline: Fossil Fuel Industry → EPA Deregulation
 | Date | Type | Event | Donor | Amount | Gap |
 |------|------|-------|-------|--------|-----|
-| 2001-2024 | DONATION | Career oil/gas/coal contributions | Fossil fuel industry | Top sector | — |
-| 2025 | ROLE | Named EPW Committee Chair | — | — | — |
-| 2025 | ← POLICY | Celebrates Trump EPA repeal of Biden-era coal regulations | — | — | Immediate |
-| 2025 | ← POLICY | Committee agenda: "unshackle American energy" including coal and natural gas | — | — | Ongoing |
-| 2025 | ← NOTE | EPW chair's stated goal is to neutralize the regulatory agency (EPA) her committee oversees | — | — | — |
+| 2001-2024 | DONATION | Career oil/gas/coal contributions | Fossil fuel industry | Top sector |, |
+| 2025 | ROLE | Named EPW Committee Chair |, |, |, |
+| 2025 | ← POLICY | Celebrates Trump EPA repeal of Biden-era coal regulations |, |, | Immediate |
+| 2025 | ← POLICY | Committee agenda: "unshackle American energy" including coal and natural gas |, |, | Ongoing |
+| 2025 | ← NOTE | EPW chair's stated goal is to neutralize the regulatory agency (EPA) her committee oversees |, |, |, |
 
 ### Pipeline: ECA → Family Employment + Donations
 | Date | Type | Event | Donor | Amount | Gap |
 |------|------|-------|-------|--------|-----|
-| 2011 | FAMILY | Son Arch Moore Capito hired as in-house counsel at ECA | — | — | — |
+| 2011 | FAMILY | Son Arch Moore Capito hired as in-house counsel at ECA |, |, |, |
 | 2001-2024 | DONATION | ECA employees contribute ~$60K to Capito campaigns | ECA | ~$60K | Ongoing |
-| 2001-2024 | ← POLICY | Capito consistently opposes regulations affecting natural gas industry (ECA's business) | — | — | Ongoing |
-| 2001-2024 | ← NOTE | Three-node conflict: family employment at ECA + ECA donations + regulatory authority over ECA's industry | — | — | — |
+| 2001-2024 | ← POLICY | Capito consistently opposes regulations affecting natural gas industry (ECA's business) |, |, | Ongoing |
+| 2001-2024 | ← NOTE | Three-node conflict: family employment at ECA + ECA donations + regulatory authority over ECA's industry |, |, |, |
 
-### Pipeline: Dynastic Pattern — Moore Family and Coal
+### Pipeline: Dynastic Pattern. Moore Family and Coal
 | Date | Type | Event | Donor | Amount | Gap |
 |------|------|-------|-------|--------|-----|
-| 1969-1977 | FATHER | Arch Moore serves as WV Governor (fossil fuel relationships) | — | — | — |
-| 1990 | FATHER | Arch Moore pleads guilty: extorted $573K from coal company, campaign violations | — | $573K | — |
-| 2001 | DAUGHTER | Capito enters Congress; begins receiving fossil fuel donations | — | — | 11 years |
-| 2011 | SON | Arch Moore Capito hired by natural gas company (ECA) | — | — | 21 years |
-| 2025 | DAUGHTER | Capito chairs EPW — the committee regulating fossil fuels | — | — | 35 years |
-| 2025 | ← NOTE | Three generations: father convicted for coal corruption; daughter chairs fossil fuel regulatory committee; son employed by natural gas company that donates to daughter | — | — | — |
+| 1969-1977 | FATHER | Arch Moore serves as WV Governor (fossil fuel relationships) |, |, |, |
+| 1990 | FATHER | Arch Moore pleads guilty: extorted $573K from coal company, campaign violations |, | $573K |, |
+| 2001 | DAUGHTER | Capito enters Congress; begins receiving fossil fuel donations |, |, | 11 years |
+| 2011 | SON | Arch Moore Capito hired by natural gas company (ECA) |, |, | 21 years |
+| 2025 | DAUGHTER | Capito chairs EPW, the committee regulating fossil fuels |, |, | 35 years |
+| 2025 | ← NOTE | Three generations: father convicted for coal corruption; daughter chairs fossil fuel regulatory committee; son employed by natural gas company that donates to daughter |, |, |, |
 
 ---
 
@@ -143,7 +143,7 @@ The dynastic element deepens the story. Her father — a governor convicted of e
 
 Shelley Moore Capito's donor class is the fossil fuel industry. Oil and gas is her top donor sector across a 24-year congressional career. Coal mining, electric utilities, and chemical manufacturing round out the top five. The Koch network contributes through PAC and individual channels. Energy Corporation of America employees have given approximately $60,000 to Capito's campaigns while her son Arch Moore Capito works as in-house counsel at ECA. The donor class and the family employment are the same network.
 
-The class structure is generational. Capito's father, Governor Arch Moore Jr., was convicted of extorting $573,000 from a coal company. Her son works for a natural gas company. Capito chairs the Environment and Public Works Committee, which oversees the EPA, the Clean Air Act, and every regulation that touches coal and natural gas. Three generations of the Moore-Capito family have occupied the intersection of West Virginia politics and fossil fuel money. The father's version was illegal. The daughter's version is institutional.
+The class structure is generational. Capito's father, Governor Arch Moore Jr. was convicted of extorting $573,000 from a coal company. Her son works for a natural gas company. Capito chairs the Environment and Public Works Committee, which oversees the EPA, the Clean Air Act, and every regulation that touches coal and natural gas. Three generations of the Moore-Capito family have occupied the intersection of West Virginia politics and fossil fuel money. The father's version was illegal. The daughter's version is institutional.
 
 West Virginia ranks 49th or 50th in median household income. The state needs economic diversification, healthcare investment, and infrastructure beyond extraction. Capito's EPW chairmanship delivers the opposite: systematic dismantling of environmental protections that her fossil fuel donors oppose. The D.C. Coal Club gave her a lifetime achievement award. The Gas and Oil Association of West Virginia endorsed her for 2026. The constituency that needs clean water, clean air, and Superfund cleanup gets an EPW chair whose stated goal is to "unshackle" the industries responsible for the pollution.
 
@@ -153,23 +153,23 @@ The U.S. Chamber of Commerce spent $400,000 supporting Capito. TAKE ME HOME WV A
 
 ## Analytical Patterns
 
-**Revolving Door (dynastic version):** The Moore-Capito family has been entangled with West Virginia's fossil fuel industry for over 50 years across three generations. This isn't a revolving door between government and industry — it's a permanent open doorway. The family and the industry are structurally fused. Arch Moore's corruption was the crude version. Shelley Capito's committee chairmanship is the legal version. Same structural function: protect fossil fuel interests from within government.
+**Revolving Door (dynastic version):** The Moore-Capito family has been entangled with West Virginia's fossil fuel industry for over 50 years across three generations. This isn't a revolving door between government and industry, it's a permanent open doorway. The family and the industry are structurally fused. Arch Moore's corruption was the crude version. Shelley Capito's committee chairmanship is the legal version. Same structural function: protect fossil fuel interests from within government.
 
-**Both-Sides Illusion (Capito-Manchin):** When Manchin was in the Senate, West Virginia's two senators — one Republican, one nominal Democrat — both served fossil fuel interests. The partisan label made no difference to coal and natural gas. Capito continues this tradition solo. The "Environment" committee is chaired by a fossil fuel advocate regardless of party composition.
+**Both-Sides Illusion (Capito-Manchin):** When Manchin was in the Senate, West Virginia's two senators, one Republican, one nominal Democrat, both served fossil fuel interests. The partisan label made no difference to coal and natural gas. Capito continues this tradition solo. The "Environment" committee is chaired by a fossil fuel advocate regardless of party composition.
 
-**Donor-Class Override:** West Virginia ranks 49th-50th in median household income. The state's residents need healthcare, infrastructure, education, and economic diversification. Capito's EPW chairmanship ensures that West Virginia's federal policy engagement centers on protecting fossil fuel extraction — an industry that enriches out-of-state corporations and provides diminishing employment as automation and decline continue. The donor class (fossil fuel industry) overrides the constituency need (economic diversification).
+**Donor-Class Override:** West Virginia ranks 49th-50th in median household income. The state's residents need healthcare, infrastructure, education, and economic diversification. Capito's EPW chairmanship ensures that West Virginia's federal policy engagement centers on protecting fossil fuel extraction, an industry that enriches out-of-state corporations and provides diminishing employment as automation and decline continue. The donor class (fossil fuel industry) overrides the constituency need (economic diversification).
 
-**Genuine Win + Structural Limit:** Capito has delivered real infrastructure for West Virginia — highway funding, water infrastructure, broadband. These are genuine and significant for a poor state. The structural limit: the infrastructure wins exist alongside the systematic dismantling of environmental protections that West Virginia communities need — clean water (chemical spills, mine runoff), clean air (coal pollution), and Superfund cleanup. The highways are real. So is the pollution.
+**Genuine Win + Structural Limit:** Capito has delivered real infrastructure for West Virginia, highway funding, water infrastructure, broadband. These are genuine and significant for a poor state. The structural limit: the infrastructure wins exist alongside the systematic dismantling of environmental protections that West Virginia communities need, clean water (chemical spills, mine runoff), clean air (coal pollution), and Superfund cleanup. The highways are real. So is the pollution.
 
 ---
 
 ## Rhetorical Signature Moves
 
-**"Unshackle American energy"** — The freedom framing for deregulation. Environmental regulations become "shackles" on energy production. The function: make EPA enforcement sound like oppression rather than public health protection.
+**"Unshackle American energy"**. The freedom framing for deregulation. Environmental regulations become "shackles" on energy production. The function: make EPA enforcement sound like oppression rather than public health protection.
 
-**"West Virginia's way of life"** — The cultural identity framing that makes fossil fuel extraction synonymous with Appalachian heritage. The function: position environmental regulation as an attack on West Virginia's culture, not a public health measure.
+**"West Virginia's way of life"**. The cultural identity framing that makes fossil fuel extraction synonymous with Appalachian heritage. The function: position environmental regulation as an attack on West Virginia's culture, not a public health measure.
 
-**"Coal Club lifetime achievement"** — Capito doesn't hide the relationship. She celebrates it. The D.C. Coal Club award is displayed as a credential. The function: signal to the industry that the relationship is permanent and proud.
+**"Coal Club lifetime achievement"**. Capito doesn't hide the relationship. She celebrates it. The D.C. Coal Club award is displayed as a credential. The function: signal to the industry that the relationship is permanent and proud.
 
 ---
 
@@ -177,7 +177,7 @@ The U.S. Chamber of Commerce spent $400,000 supporting Capito. TAKE ME HOME WV A
 
 - [FEC Candidate: Shelley Moore Capito donor profile](https://www.fec.gov/data/candidate/S4WV00159/) (Tier 1) (VERIFIED)
 - [FEC Candidate: Shelley Moore Capito industry donors](https://www.fec.gov/data/candidate/S4WV00159/) (Tier 1) (VERIFIED)
-- ~~[Senate EPW Committee: Chairman Capito](https://www.epw.senate.gov/public/public/index.cfm/chairman-capito)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[Senate EPW Committee: Chairman Capito](https://www.epw.senate.gov/public/public/index.cfm/chairman-capito)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [Senate.gov: Shelley Moore Capito energy & environment](https://www.capito.senate.gov/about/issues/energy-and-environment) (Tier 1) (VERIFIED)
 - [Senate.gov: Capito commends Trump EPA repeal of Biden coal regulations](https://www.capito.senate.gov/news/press-releases/-capito-commends-trump-epas-repeal-of-biden-era-attacks-on-coal) (Tier 1) (VERIFIED)
 - [Type Investigations: The Fracking Candidate](https://www.typeinvestigations.org/investigation/2014/06/25/fracking-candidate/) (Tier 2) (VERIFIED)

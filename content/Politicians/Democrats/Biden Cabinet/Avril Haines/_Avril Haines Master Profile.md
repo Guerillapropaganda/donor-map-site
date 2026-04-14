@@ -1,5 +1,5 @@
 ---
-title: "Avril Haines Master Profile"
+title: "Avril Haines"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

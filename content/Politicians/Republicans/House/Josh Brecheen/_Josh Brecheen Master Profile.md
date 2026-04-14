@@ -1,5 +1,5 @@
 ---
-title: "Josh Brecheen Master Profile"
+title: "Josh Brecheen"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

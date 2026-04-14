@@ -54,8 +54,8 @@ After announcing plans to step back from political spending post-2024, Musk has 
 
 *Updated:* [[Elon Musk]], [[Senate Leadership Fund]], [[Congressional Leadership Fund]]
 
-- ~~[The Hill: Elon Musk's robust donations may aid GOP in 2026 midterms](https://thehill.com/policy/technology/5727198-musk-political-fray-big-2026-midterm-donations/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
-- ~~[Axios: Musk shocks with $10M donation in Ky. Senate race](https://www.axios.com/2026/01/19/elon-musk-10-million-campaign-donation-kentucky)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[The Hill: Elon Musk's robust donations may aid GOP in 2026 midterms](https://thehill.com/policy/technology/5727198-musk-political-fray-big-2026-midterm-donations/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Axios: Musk shocks with $10M donation in Ky. Senate race](https://www.axios.com/2026/01/19/elon-musk-10-million-campaign-donation-kentucky)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 
 ---
 
@@ -74,7 +74,7 @@ Political strategists warn most candidates aren't raising money quickly enough t
 
 *Updated:* [[_Katie Porter Master Profile]], [[Steve Hilton]]
 
-- ~~[CalMatters: Republican Steve Hilton is winning the California governor fundraising race](https://calmatters.org/category/politics/2026/02/governors-race-fundraising-reports/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[CalMatters: Republican Steve Hilton is winning the California governor fundraising race](https://calmatters.org/category/politics/2026/02/governors-race-fundraising-reports/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 
 ---
 
@@ -83,7 +83,7 @@ EXPOSEDbyCMD (February 2026) reported that Club for Growth Action raised **$15.8
 
 *Updated:* [[Club for Growth]], [[Jeff Yass]]
 
-- ~~[EXPOSEDbyCMD: Major right-wing super PACs disclose recent contributions and endorsements](https://www.exposedbycmd.org/2026/02/18/major-right-wing-super-pacs-disclose-recent-contributions-and-endorsements/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[EXPOSEDbyCMD: Major right-wing super PACs disclose recent contributions and endorsements](https://www.exposedbycmd.org/2026/02/18/major-right-wing-super-pacs-disclose-recent-contributions-and-endorsements/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 
 ---
 

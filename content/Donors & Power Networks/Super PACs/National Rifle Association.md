@@ -76,9 +76,9 @@ The needs-reenrichment flag has been set. The next scheduled pipeline run will p
 
 The National Rifle Association is the largest gun lobby organization in the United States, operating a multi-entity political machine: the NRA Institute for Legislative Action (ILA, lobbying arm), the NRA Political Victory Fund (PVF, PAC for direct campaign contributions), and the NRA itself as a 501(c)(4) that runs independent expenditure campaigns.
 
-At peak power (2016), the NRA spent $54.4 million in a single election cycle — $30 million of it supporting Donald Trump alone. By 2024, total political spending had collapsed to roughly $10 million in outside spending plus $2 million in lobbying. The organization is in structural decline: membership dropped from a claimed 5+ million to a verified 3.8 million (2023), a federal jury found CEO Wayne LaPierre liable for corruption in February 2024, and the NRA's 2021 bankruptcy filing was dismissed as "not made in good faith."
+At peak power (2016), the NRA spent $54.4 million in a single election cycle, $30 million of it supporting Donald Trump alone. By 2024, total political spending had collapsed to roughly $10 million in outside spending plus $2 million in lobbying. The organization is in structural decline: membership dropped from a claimed 5+ million to a verified 3.8 million (2023), a federal jury found CEO Wayne LaPierre liable for corruption in February 2024, and the NRA's 2021 bankruptcy filing was dismissed as "not made in good faith."
 
-But the NRA's policy infrastructure remains intact. Every Republican-appointed SCOTUS justice who voted in Heller (2008), McDonald (2010), and Bruen (2022) received NRA support. The Protection of Lawful Commerce in Arms Act (2005) — which shields gun manufacturers from civil liability — remains on the books. The NRA's scorecard system, grading every federal and state legislator A+ through F, continues to shape Republican primaries even as the organization bleeds members and money.
+But the NRA's policy infrastructure remains intact. Every Republican-appointed SCOTUS justice who voted in Heller (2008), McDonald (2010), and Bruen (2022) received NRA support. The Protection of Lawful Commerce in Arms Act (2005), which shields gun manufacturers from civil liability, remains on the books. The NRA's scorecard system, grading every federal and state legislator A+ through F, continues to shape Republican primaries even as the organization bleeds members and money.
 
 ---
 
@@ -90,7 +90,7 @@ The NRA's policy agenda serves two masters: individual gun owners (the grassroot
 
 **Expand carry rights nationwide:** State-level concealed carry expansion. Constitutional carry (permitless carry) now law in 29 states. Federal concealed carry reciprocity legislation.
 
-**Shield gun industry from liability:** The PLCAA (2005) is the NRA's most consequential legislative achievement. LaPierre called it "the most significant piece of pro-gun legislation in twenty years." It prevents victims of gun violence from suing manufacturers — a protection no other American industry enjoys.
+**Shield gun industry from liability:** The PLCAA (2005) is the NRA's most consequential legislative achievement. LaPierre called it "the most significant piece of pro-gun legislation in twenty years." It prevents victims of gun violence from suing manufacturers, a protection no other American industry enjoys.
 
 **Judicial capture:** Fund litigation to establish maximalist Second Amendment interpretation through the courts, culminating in Bruen (2022), which struck down New York's discretionary carry licensing and established that gun regulations must have historical analogues from the Founding era.
 
@@ -106,7 +106,7 @@ The NRA claims grassroots funding from millions of individual members. Financial
 - High-dollar individual donors concentrated at the top
 - Russian-connected money flowed through the organization pre-2016 (Senate investigation confirmed)
 
-**Industry funding pipeline:** The National Shooting Sports Foundation (NSSF), the gun manufacturers' trade association, now outspends the NRA on lobbying — $6.97 million vs. the NRA's $2.04 million in 2024. At least 10 gun manufacturers (Glock, Smith & Wesson, Remington, Marlin, Mossberg) provided private customer data (5.5+ million names and addresses) to NSSF for voter targeting.
+**Industry funding pipeline:** The National Shooting Sports Foundation (NSSF), the gun manufacturers' trade association, now outspends the NRA on lobbying, $6.97 million vs. the NRA's $2.04 million in 2024. At least 10 gun manufacturers (Glock, Smith & Wesson, Remington, Marlin, Mossberg) provided private customer data (5.5+ million names and addresses) to NSSF for voter targeting.
 
 ### Financial crisis timeline:
 - 2018: $36 million operating deficit
@@ -153,7 +153,7 @@ The Senate Finance Committee titled its report: "The NRA & Russia: How a Tax-Exe
 - Assigns A+ through F grades to thousands of federal and state candidates annually
 - Grades based on voting records, public statements, and questionnaire responses
 - Increasingly partisan: In 2010, 25% of Democratic candidates received top grades. By 2022, zero Democrats had top grades.
-- The scorecard functions as a primary enforcement mechanism — Republican candidates who deviate on gun votes face NRA-funded primary challengers
+- The scorecard functions as a primary enforcement mechanism. Republican candidates who deviate on gun votes face NRA-funded primary challengers
 
 ---
 
@@ -181,15 +181,15 @@ All three cases decided by SCOTUS justices who received NRA electoral support. B
 
 | Date | Event | Amount | Outcome | Time Gap |
 |------|-------|--------|---------|----------|
-| 2005 | PLCAA passed | Years of lobbying | Gun industry shielded from liability | — |
-| 2008 | Heller decided | Amicus + electoral support | Individual right established | — |
-| 2010 | McDonald decided | Amicus + electoral support | Applied to states | — |
-| 2016 | NRA spends $54.4M (incl. $30M for Trump) | $54.4M | Trump elected, 3 SCOTUS picks incoming | — |
+| 2005 | PLCAA passed | Years of lobbying | Gun industry shielded from liability |, |
+| 2008 | Heller decided | Amicus + electoral support | Individual right established |, |
+| 2010 | McDonald decided | Amicus + electoral support | Applied to states |, |
+| 2016 | NRA spends $54.4M (incl. $30M for Trump) | $54.4M | Trump elected, 3 SCOTUS picks incoming |, |
 | 2017 | Gorsuch confirmed | $10M JCN (allied) | Conservative seat secured | 5 months |
 | 2018 | Kavanaugh confirmed | $4.5M JCN (allied) | Swing seat captured | 18 months |
 | 2020 | Barrett confirmed | $10M JCN (allied) | 6-3 supermajority locked | 48 months |
 | 2022 | Bruen decided | 6-3 FedSoc majority | Carry rights expanded nationally | 72 months |
-| 2024 | LaPierre found liable for corruption | $4.35M damages | Organization weakened but policy wins permanent | — |
+| 2024 | LaPierre found liable for corruption | $4.35M damages | Organization weakened but policy wins permanent |, |
 
 > [!money]
 > The NRA's $54.4 million 2016 investment — its single largest cycle spend — helped elect the president who appointed three SCOTUS justices who delivered Bruen (2022). Bruen didn't just win one case; it created a new constitutional framework that is now being used to challenge assault weapons bans, magazine restrictions, and gun-free zones nationwide. The $54.4 million bought a permanent shift in constitutional law. Every future gun case is decided under Bruen's framework, regardless of whether the NRA exists next year.
@@ -202,9 +202,9 @@ The NRA is a case study in how a lobbying organization can achieve permanent pol
 
 During its peak (2005-2020), the NRA built three self-sustaining systems: PLCAA (legislative immunity for the gun industry), the Heller/McDonald/Bruen judicial framework (constitutional protection that can't be repealed by Congress), and constitutional carry at the state level (29 states and counting). None of these require ongoing NRA funding to maintain. The organization invested during the window when it had resources and locked in structural wins.
 
-The grassroots membership — individual gun owners who pay dues and believe they're defending their rights — provided political cover and primary-enforcement muscle. But the policy outcomes overwhelmingly serve the gun manufacturing industry: PLCAA protects manufacturer profits, Bruen expands the addressable market, and the block on assault weapons bans preserves the highest-margin product category.
+The grassroots membership, individual gun owners who pay dues and believe they're defending their rights, provided political cover and primary-enforcement muscle. But the policy outcomes overwhelmingly serve the gun manufacturing industry: PLCAA protects manufacturer profits, Bruen expands the addressable market, and the block on assault weapons bans preserves the highest-margin product category.
 
-The Russian money channel reveals the organization's true structural function. The NRA didn't facilitate Russian access because it was compromised — it facilitated access because its institutional purpose is connecting money to political power, and the Russians had money. The same pipeline that connects American gun manufacturers to Republican primaries connected Kremlin operatives to Republican officials. The mechanism is identical; only the source of funds changed.
+The Russian money channel reveals the organization's true structural function. The NRA didn't facilitate Russian access because it was compromised, it facilitated access because its institutional purpose is connecting money to political power, and the Russians had money. The same pipeline that connects American gun manufacturers to Republican primaries connected Kremlin operatives to Republican officials. The mechanism is identical; only the source of funds changed.
 
 The NRA's decline doesn't reverse its victories. The gun industry is pivoting to NSSF as its primary political vehicle. The constitutional framework is set. The NRA served its function and is now being discarded by the donor class it served.
 
@@ -216,18 +216,18 @@ The NRA's decline doesn't reverse its victories. The gun industry is pivoting to
 - [OpenSecrets: NRA Profile Summary](https://www.opensecrets.org/orgs/national-rifle-assn/summary?id=D000000082) (Tier 1) (VERIFIED)
 - [OpenSecrets: NRA Recipients Profile](https://www.opensecrets.org/orgs/national-rifle-assn/recipients?id=D000000082) (Tier 1) (VERIFIED)
 - [FEC: NRA Political Victory Fund 2024](https://www.fec.gov/data/committee/C00053553/) (Tier 1) (VERIFIED)
-- [Senate Finance Committee: The NRA & Russia — How a Tax-Exempt Organization Became a Foreign Asset (PDF)](https://www.finance.senate.gov/imo/media/doc/The%20NRA%20%20Russia%20-%20How%20a%20Tax-Exempt%20Organization%20Became%20a%20Foreign%20Asset.pdf) (Tier 1) (VERIFIED)
-- [New York Attorney General: NRA Trial Victory — LaPierre Corruption Verdict](https://ag.ny.gov/press-release/2024/attorney-general-james-wins-trial-against-nra-and-wayne-lapierre) (Tier 1) (VERIFIED)
+- [Senate Finance Committee: The NRA & Russia. How a Tax-Exempt Organization Became a Foreign Asset (PDF)](https://www.finance.senate.gov/imo/media/doc/The%20NRA%20%20Russia%20-%20How%20a%20Tax-Exempt%20Organization%20Became%20a%20Foreign%20Asset.pdf) (Tier 1) (VERIFIED)
+- [New York Attorney General: NRA Trial Victory. LaPierre Corruption Verdict](https://ag.ny.gov/press-release/2024/attorney-general-james-wins-trial-against-nra-and-wayne-lapierre) (Tier 1) (VERIFIED)
 - [NRA-PVF: Grades and Endorsements](https://www.nrapvf.org/grades/) (Tier 1) (VERIFIED)
 - [NPR: NRA Wayne LaPierre Corruption Trial Verdict](https://www.npr.org/2024/02/23/1232229060/nra-wayne-lapierre-corruption-trial-verdict-new-york) (Tier 2) (VERIFIED)
 - [NPR: NRA Was 'Foreign Asset' to Russia Ahead of 2016](https://www.npr.org/2019/09/27/764879242/nra-was-foreign-asset-to-russia-ahead-of-2016-new-senate-report-reveals) (Tier 2) (VERIFIED)
 - [CNN: NRA Officials Knew Russians Were Using Ties](https://www.cnn.com/2019/09/27/politics/nra-russians-ties-president-2016-election/index.html) (Tier 2) (VERIFIED)
-- [NRA Watch: Broken & Bankrupt — The Continued Decline of the NRA](https://nrawatch.org/report/the-continued-decline-of-the-nra/) (Tier 2) (VERIFIED)
+- [NRA Watch: Broken & Bankrupt. The Continued Decline of the NRA](https://nrawatch.org/report/the-continued-decline-of-the-nra/) (Tier 2) (VERIFIED)
 - [The Reload: NRA Membership Fell to 3.8 Million in 2023](https://thereload.com/nra-membership-fell-to-3-8-million-in-2023/) (Tier 2) (VERIFIED)
 - [Everytown: NRA Membership Hits 10-Year Low](https://www.everytown.org/press/new-report-nra-membership-hits-10-year-low-hemorrhaging-over-1-million-members-since-2019/) (Tier 2) (VERIFIED)
 - [Washington Post: Nobody knows how many members the NRA has, but its tax returns offer some clues](https://www.washingtonpost.com/news/wonk/wp/2018/02/26/nobody-knows-how-many-members-the-nra-has-but-its-tax-returns-offer-some-clues/) (Tier 2) (VERIFIED)
-- [Everytown Research: The Gun Industry's Power Broker — NSSF Report](https://everytownresearch.org/report/the-gun-industrys-power-broker-nssf/) (Tier 2) (VERIFIED)
-- [Center for American Progress: PLCAA — Gun Industry Immunity FAQ](https://www.americanprogress.org/article/frequently-asked-questions-gun-industry-immunity/) (Tier 2) (VERIFIED)
+- [Everytown Research: The Gun Industry's Power Broker. NSSF Report](https://everytownresearch.org/report/the-gun-industrys-power-broker-nssf/) (Tier 2) (VERIFIED)
+- [Center for American Progress: PLCAA. Gun Industry Immunity FAQ](https://www.americanprogress.org/article/frequently-asked-questions-gun-industry-immunity/) (Tier 2) (VERIFIED)
 - [NYSBA: The Bruen Decision and Its Impact](https://nysba.org/the-supreme-courts-bruen-decision-and-its-impact-what-comes-next/) (Tier 2) (VERIFIED)
 
 ---

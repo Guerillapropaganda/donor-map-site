@@ -30,7 +30,7 @@ The mechanism:
 
 ### The Revolving Door
 
-AI industry personnel move between companies, government advisory bodies, and regulatory positions — creating the same revolving door dynamic that characterizes defense, pharma, and finance. The National AI Advisory Committee, NIST AI safety standards development, and Commerce Department AI policy all involve current or former AI industry personnel. The industry's expertise is genuine — but so is the conflict of interest when the experts designing regulations have financial stakes in the regulated industry.
+AI industry personnel move between companies, government advisory bodies, and regulatory positions, creating the same revolving door dynamic that characterizes defense, pharma, and finance. The National AI Advisory Committee, NIST AI safety standards development, and Commerce Department AI policy all involve current or former AI industry personnel. The industry's expertise is genuine, but so is the conflict of interest when the experts designing regulations have financial stakes in the regulated industry.
 
 > [!money]
 > AI safety regulation is the tech industry's most sophisticated regulatory capture strategy: by positioning safety as the primary regulatory framework, incumbent companies ensure that compliance costs create barriers to entry for competitors while their own products receive regulatory validation. The irony: the companies that created the AI systems generating safety concerns are now positioning themselves as the experts who should design the regulatory framework. The public interest in AI safety is genuine; the industry's capture of the safety framework ensures that regulation serves corporate interests more than public protection.

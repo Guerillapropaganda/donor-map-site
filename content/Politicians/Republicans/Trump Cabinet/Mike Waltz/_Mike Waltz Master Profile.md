@@ -39,7 +39,7 @@ Career arc: Army Special Forces (Green Beret) → Pentagon policy official → c
 
 ## The Central Thesis
 
-Waltz is the defense contractor revolving door operating at the highest level of national security decision-making. He co-founded a company that received $930 million in Pentagon contracts, sold it for $92 million just before the Afghanistan withdrawal eliminated its primary revenue stream, then entered Congress to advocate for continued military spending, and was rewarded with the National Security Advisor position — where he helps set the policy that determines which contractors profit. Every career transition increased his proximity to the decisions that generate defense contractor revenue.
+Waltz is the defense contractor revolving door operating at the highest level of national security decision-making. He co-founded a company that received $930 million in Pentagon contracts, sold it for $92 million just before the Afghanistan withdrawal eliminated its primary revenue stream, then entered Congress to advocate for continued military spending, and was rewarded with the National Security Advisor position, where he helps set the policy that determines which contractors profit. Every career transition increased his proximity to the decisions that generate defense contractor revenue.
 
 ---
 
@@ -94,9 +94,9 @@ Waltz co-founded Metis Solutions in 2010, a defense/intelligence contractor focu
 
 ---
 
-### Cuba Policy — China Frame
+### Cuba Policy. China Frame
 
-Waltz frames Cuba primarily through the China lens rather than the exile/embargo lens: "We also have a Chinese spy base in Cuba that is 100 miles away from Florida." His advocacy for a "new Monroe Doctrine" — blocking Chinese economic and military influence in the Western Hemisphere — positions Cuba as a China containment problem rather than a regime-change priority.
+Waltz frames Cuba primarily through the China lens rather than the exile/embargo lens: "We also have a Chinese spy base in Cuba that is 100 miles away from Florida." His advocacy for a "new Monroe Doctrine", blocking Chinese economic and military influence in the Western Hemisphere, positions Cuba as a China containment problem rather than a regime-change priority.
 
 As National Security Advisor during the early months of Operation Southern Spear, Waltz helped shape the policy framework that led to the January 2026 blockade. His defense contractor background and China-hawk orientation align with the military spending implications of Caribbean operations.
 
@@ -116,7 +116,7 @@ As National Security Advisor during the early months of Operation Southern Spear
 
 **Revolving Door:** The defining pattern. Military → Pentagon → defense contractor → Congress → NSA → UN Ambassador. Every transition serves the same structural function: converting military/policy expertise into donor relationships and back into policy influence.
 
-**Donor-Class Override:** Waltz advocated for continued Afghanistan operations — which served his personal financial interests through Metis Solutions — while presenting the position as national security necessity. The constituency interest (veteran welfare, war termination) was overridden by the donor class interest (continued military spending).
+**Donor-Class Override:** Waltz advocated for continued Afghanistan operations, which served his personal financial interests through Metis Solutions, while presenting the position as national security necessity. The constituency interest (veteran welfare, war termination) was overridden by the donor class interest (continued military spending).
 
 **Villain Framing:** Cuba is framed as a China problem (spy base, Monroe Doctrine), deflecting from the class analysis of the blockade's economic function for sugar, infrastructure, and defense donor interests.
 
@@ -125,7 +125,7 @@ As National Security Advisor during the early months of Operation Southern Spear
 ## Sources
 
 - [FEC Candidate: Mike Waltz campaign finance summary](https://www.fec.gov/data/candidate/H8FL06148/) (Tier 1) (VERIFIED)
-- [OpenSecrets News: Trump administration profile — Mike Waltz](https://www.opensecrets.org/news/2025/03/trump-administration-profile-mike-waltz) (Tier 1) (VERIFIED)
+- [OpenSecrets News: Trump administration profile. Mike Waltz](https://www.opensecrets.org/news/2025/03/trump-administration-profile-mike-waltz) (Tier 1) (VERIFIED)
 - [The Intercept: Mike Waltz Made Millions from Afghanistan Defense Contractor](https://theintercept.com/2021/08/20/mike-waltz-afghanistan/) (Tier 2) (VERIFIED)
 - [Jewish Insider: Trump picks Iran critic, hawkish Israel supporter Mike Waltz as NSA](https://jewishinsider.com/2024/11/trump-picks-iran-israel-hawk-mike-waltz-as-his-national-security-adviser/) (Tier 2) (VERIFIED)
 - [Wikipedia: Mike Waltz](https://en.wikipedia.org/wiki/Mike_Waltz) (Tier 3) (VERIFIED)

@@ -101,7 +101,7 @@ The "What they say vs Who pays them" pattern uses specific colors:
 | Body | `Inter` (system sans fallback) | 400 | Paragraph text, descriptions, profile body content |
 
 ### Font usage clarified
-- When a politician is being QUOTED ("I will fight for..."), use Instrument Serif italic. This is the editorial voice.
+- When a politician is being QUOTED ("I will fight for.."), use Instrument Serif italic. This is the editorial voice.
 - When raw DATA is shown next to the quote (PhRMA $415K, Pfizer $198K), use Space Mono. This is the evidence.
 - The contrast between serif quotes and monospace data IS the design. It visually separates rhetoric from receipts.
 
@@ -165,8 +165,8 @@ For hero/headline emphasis, use a rotated yellow background block behind text: `
 
 ### Split Cards (Says vs Pays)
 - Two-column grid with black border
-- Left: "What they say" — editorial quote, serif italic
-- Right: "Who pays them" — donor list, cream background
+- Left: "What they say", editorial quote, serif italic
+- Right: "Who pays them", donor list, cream background
 - Bottom verdict bar: black background, yellow text, Space Mono
 
 ### Stat Numbers
@@ -232,24 +232,24 @@ Rules for dark sections:
 
 ## What NOT to Do
 
-1. **No rounded corners** — ever, on anything
-2. **No shadows** — box-shadow, text-shadow, drop-shadow: none
-3. **No gradients** — flat colors only
-4. **No decorative icons** — if it's not data, it doesn't need an icon
-5. **No stock photography** — no hero images, no background photos
-6. **No blue for UI** — blue is Democrat party color only, never for buttons or links on light bg
-7. **No light grey text on white** — minimum contrast is `#999` on `#f5f0eb`
+1. **No rounded corners**, ever, on anything
+2. **No shadows**, box-shadow, text-shadow, drop-shadow: none
+3. **No gradients**, flat colors only
+4. **No decorative icons**, if it's not data, it doesn't need an icon
+5. **No stock photography**, no hero images, no background photos
+6. **No blue for UI**, blue is Democrat party color only, never for buttons or links on light bg
+7. **No light grey text on white**, minimum contrast is `#999` on `#f5f0eb`
 8. **No more than 3 accent colors** visible on any single page
 9. **No em dashes** in content (editorial rule, not design, but enforced everywhere)
-10. **No "designed" feel** — if it looks polished, make it rawer
+10. **No "designed" feel**, if it looks polished, make it rawer
 
 ---
 
 ## Responsive Breakpoints
 
 - Desktop: 1000px+ content width (primary target)
-- Tablet: 768px breakpoint — single column, reduced padding
-- Mobile: 480px — stacked everything, 20px padding, reduced font sizes
+- Tablet: 768px breakpoint, single column, reduced padding
+- Mobile: 480px, stacked everything, 20px padding, reduced font sizes
 
 **Mobile is secondary but must work.** Desktop is the priority. Mobile should be functional and readable, not feature-identical. Some features (network graph, full data tables) may be simplified or hidden on mobile.
 
@@ -267,9 +267,9 @@ Rules for dark sections:
 ## File Naming
 
 Design-related files:
-- `quartz/styles/custom.scss` — all style overrides (single file, no splitting)
-- `quartz/components/*.tsx` — component-level styles in `css` string property
-- `prototype/` — design prototypes (not deployed, reference only)
+- `quartz/styles/custom.scss`, all style overrides (single file, no splitting)
+- `quartz/components/*.tsx`, component-level styles in `css` string property
+- `prototype/`, design prototypes (not deployed, reference only)
 
 ---
 

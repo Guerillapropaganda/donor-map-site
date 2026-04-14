@@ -43,7 +43,7 @@ Treasury Secretary Tim Geithner urged Obama not to "go after high finance too ha
 
 Trump said fund managers were "getting away with murder." The TCJA's "reform" extended the holding period from 1 to 3 years, raising only ~$1 billion over a decade vs. $18–20 billion from full closure. [ITEP: Mnuchin's Not So Grand Stand on the Carried Interest Loophole](https://itep.org/mnuchins-not-so-grand-stand-on-the-carried-interest-loophole-explained/) (Tier 2) (VERIFIED)
 
-NEC Director Gary Cohn admitted publicly: "We probably tried 25 times. The reality in this town is that this constituency holds significant sway in both the House and the Senate." Treasury Secretary Steve Mnuchin, former Goldman/hedge fund manager, brokered the fake compromise. After leaving government, Mnuchin raised $2.5 billion for his own PE venture. ~~[NYT: Trump Carried Interest Lobbyists](https://www.nytimes.com/2017/12/22/business/trump-carried-interest-lobbyists.html)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+NEC Director Gary Cohn admitted publicly: "We probably tried 25 times. The reality in this town is that this constituency holds significant sway in both the House and the Senate." Treasury Secretary Steve Mnuchin, former Goldman/hedge fund manager, brokered the fake compromise. After leaving government, Mnuchin raised $2.5 billion for his own PE venture. ~~[NYT: Trump Carried Interest Lobbyists](https://www.nytimes.com/2017/12/22/business/trump-carried-interest-lobbyists.html)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 
 > [!contradiction]
 > [[_Richard Neal Master Profile|Richard Neal]] (D-MA), then-ranking Democrat on Ways and Means, was a headline speaker at the PE lobby's annual conference while they fought Obama's reform, let legislation stall in his own committee when he became chair, and has raised $12.77 million from corporate PACs since 2010. [The Lever: Under Neal a Wall Street Tax Break Survives](https://www.levernews.com/under-neal-a-wall-street-tax-break/) (Tier 2) (VERIFIED)
@@ -98,7 +98,7 @@ Apollo gave $1,398,000 and Blackstone gave $1,277,327 to Senate Finance Committe
 | CBO (TCJA context) | $18 billion | 10 years |
 | CRFB/CBO (2025) | $15 billion | 10 years |
 
-~~[CBO: Tax Carried Interest as Ordinary Income](https://www.cbo.gov/budget-options/60946)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1), [Senate Finance Committee: Wyden-Whitehouse Bill](https://www.finance.senate.gov/chairmans-news/wyden-whitehouse-bill-ensures-private-equity-moguls-pay-fair-share-in-taxes) (Tier 1) (VERIFIED)
+~~[CBO: Tax Carried Interest as Ordinary Income](https://www.cbo.gov/budget-options/60946)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1), [Senate Finance Committee: Wyden-Whitehouse Bill](https://www.finance.senate.gov/chairmans-news/wyden-whitehouse-bill-ensures-private-equity-moguls-pay-fair-share-in-taxes) (Tier 1) (VERIFIED)
 
 ---
 
@@ -141,11 +141,11 @@ The loophole costs the Treasury $13–63 billion per decade depending on the sco
 - [OpenSecrets: KKR Totals](https://www.opensecrets.org/orgs/kkr-co/totals?id=D000000358) (Tier 1) (VERIFIED)
 - [OpenSecrets: Senate Finance Top Contributors 2024](https://www.opensecrets.org/cong-cmtes/contributors?cmte=SFIN&cmtename=Finance&cong=118&cycle=2024) (Tier 1) (VERIFIED)
 - [FEC Receipts: PE Industry Lobbying 2024](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1)
-- ~~[CBO: Tax Carried Interest as Ordinary Income (Dec 2024)](https://www.cbo.gov/budget-options/60946)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[CBO: Tax Carried Interest as Ordinary Income (Dec 2024)](https://www.cbo.gov/budget-options/60946)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [Senate Finance: Wyden-Whitehouse Bill](https://www.finance.senate.gov/chairmans-news/wyden-whitehouse-bill-ensures-private-equity-moguls-pay-fair-share-in-taxes) (Tier 1) (VERIFIED)
 - [Mother Jones: Carried Interest Loophole Biden Trump](https://www.motherjones.com/politics/2022/05/carried-interest-loophole-biden-trump-private-equity-tax-break/) (Tier 2) (VERIFIED)
 - [ProPublica: How Rubenstein Helped Save Carried Interest](https://www.propublica.org/article/how-david-rubenstein-helped-save-the-carried-interest-tax-loophole) (Tier 2) (VERIFIED)
-- ~~[NYT: Trump Carried Interest Lobbyists (2017)](https://www.nytimes.com/2017/12/22/business/trump-carried-interest-lobbyists.html)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[NYT: Trump Carried Interest Lobbyists (2017)](https://www.nytimes.com/2017/12/22/business/trump-carried-interest-lobbyists.html)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [PBS News: Sinema Received Nearly $1M from Wall Street](https://www.pbs.org/newshour/politics/sinema-received-nearly-1-million-from-wall-street-while-killing-tax-hike-on-investors) (Tier 2) (VERIFIED)
 - [CNBC: How Wall Street Wooed Sinema](https://www.cnbc.com/2022/08/09/how-wall-street-wooed-sen-kyrsten-sinema-and-preserved-its-multi-billion-dollar-carried-interest-tax-break.html) (Tier 2) (VERIFIED)
 - [The Lever: Under Neal a Wall Street Tax Break Survives](https://www.levernews.com/under-neal-a-wall-street-tax-break/) (Tier 2)

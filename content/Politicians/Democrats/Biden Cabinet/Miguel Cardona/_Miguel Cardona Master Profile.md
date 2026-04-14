@@ -1,5 +1,5 @@
 ---
-title: "Miguel Cardona Master Profile"
+title: "Miguel Cardona"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

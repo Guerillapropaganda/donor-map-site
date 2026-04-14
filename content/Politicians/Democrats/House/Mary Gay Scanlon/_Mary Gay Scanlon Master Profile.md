@@ -1,5 +1,5 @@
 ---
-title: "Mary Gay Scanlon Master Profile"
+title: "Mary Gay Scanlon"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

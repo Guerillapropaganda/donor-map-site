@@ -5,7 +5,7 @@ content-readiness: draft
 last-updated: 2026-04-10
 source-tier: 2
 parent: null
-related: "[[Prison Telecom Monopoly Profits From Bipartisan Neglect]] · [[_Mitch McConnell Master Profile|McConnell]] · [[_Joe Biden Master Profile|Biden]] · [[_Kyrsten Sinema Master Profile|Sinema]] · [[Water Privatization: Both Parties Sell Public Infrastructure to Donors]] · [[Contradiction 20 — Tech Monopolies Buy Antitrust Protection From Both Parties]] · [[Contradiction 19 — Student Loan Industry Buys Bipartisan Protection for the Creditor Class]]"
+related: "[[Prison Telecom Monopoly Profits From Bipartisan Neglect]] · [[_Mitch McConnell Master Profile|McConnell]] · [[_Joe Biden Master Profile|Biden]] · [[_Kyrsten Sinema Master Profile|Sinema]] · [[Water Privatization: Both Parties Sell Public Infrastructure to Donors]] · [[Contradiction 20 , Tech Monopolies Buy Antitrust Protection From Both Parties]] · [[Contradiction 19 , Student Loan Industry Buys Bipartisan Protection for the Creditor Class]]"
 ---
 #contradiction #payday-lending #consumer-protection #CFPB #class-analysis
 
@@ -24,11 +24,11 @@ The payday lending industry generates $7+ billion in annual consumer fees throug
 
 ### Rep. Gregory Meeks (D-NY)
 
-Meeks represents a majority-Black district in southeast Queens saturated with payday storefronts. In 2023–2024, he received $2,500 from QC Holdings (a major payday lender). He voted for H.R. 3299, legislation that explicitly protected payday lenders from state rate cap laws — directly contrary to his constituents' interests (Tier 1).
+Meeks represents a majority-Black district in southeast Queens saturated with payday storefronts. In 2023–2024, he received $2,500 from QC Holdings (a major payday lender). He voted for H.R. 3299, legislation that explicitly protected payday lenders from state rate cap laws, directly contrary to his constituents' interests (Tier 1).
 
 ### Sen. Kyrsten Sinema (D/I-AZ)
 
-Sinema collected $150,000+ from payday lenders since 2013, making her one of the top Democratic recipients (Tier 1). Arizona voters approved a 36% rate cap initiative in 2020 by 83% — yet Sinema refused to co-sponsor the Veterans and Consumers Fair Credit Act, which would have extended military lending protections to all Americans (Tier 2).
+Sinema collected $150,000+ from payday lenders since 2013, making her one of the top Democratic recipients (Tier 1). Arizona voters approved a 36% rate cap initiative in 2020 by 83%, yet Sinema refused to co-sponsor the Veterans and Consumers Fair Credit Act, which would have extended military lending protections to all Americans (Tier 2).
 
 ### Senators Mark Warner and Gary Peters (D)
 
@@ -61,11 +61,11 @@ The rule projected $7 billion annually in consumer savings (Tier 2).
 
 A former CFPB economist whistleblower alleged that Trump appointees had manipulated research to justify weakening the rule (Tier 2).
 
-**Kathy Kraninger**, Mulvaney's OMB deputy with no financial services experience, was confirmed as CFPB director (50–49, December 2018). In July 2020, she officially rescinded the ability-to-repay provision — the rule's entire core (Tier 2).
+**Kathy Kraninger**, Mulvaney's OMB deputy with no financial services experience, was confirmed as CFPB director (50–49, December 2018). In July 2020, she officially rescinded the ability-to-repay provision, the rule's entire core (Tier 2).
 
 ### Biden's Partial Restoration (2021–2024)
 
-Director Rohit Chopra restored only the payment provision prohibiting repeated account debits — not the ability-to-repay standard. The core protection requiring lenders to verify loan affordability was never restored (Tier 2).
+Director Rohit Chopra restored only the payment provision prohibiting repeated account debits, not the ability-to-repay standard. The core protection requiring lenders to verify loan affordability was never restored (Tier 2).
 
 In June 2024, Chopra announced the surviving payment provisions would take effect March 30, 2025 (Tier 2).
 
@@ -77,7 +77,7 @@ In June 2024, Chopra announced the surviving payment provisions would take effec
 
 ### The Military Lending Act Contradiction
 
-Congress passed the Military Lending Act in 2006 with bipartisan sponsorship (Senators Jim Talent and Bill Nelson), capping loans to active-duty service members at 36% APR. This protection has never been extended to civilians — despite veterans, faith leaders, and consumer advocates consistently pushing the Veterans and Consumers Fair Credit Act (Tier 2).
+Congress passed the Military Lending Act in 2006 with bipartisan sponsorship (Senators Jim Talent and Bill Nelson), capping loans to active-duty service members at 36% APR. This protection has never been extended to civilians, despite veterans, faith leaders, and consumer advocates consistently pushing the Veterans and Consumers Fair Credit Act (Tier 2).
 
 The disparity reveals the industry's leverage: it can accept a 36% cap for a politically protected class (active-duty troops) while preventing the same cap for ordinary Americans. [[Kyrsten Sinema]], despite representing Arizona voters who approved a 36% state cap 83-to-1, never supported extending that protection federally (Tier 2).
 

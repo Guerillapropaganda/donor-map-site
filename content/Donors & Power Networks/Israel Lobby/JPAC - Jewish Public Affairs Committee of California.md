@@ -34,23 +34,23 @@ The needs-reenrichment flag has been set. The next scheduled pipeline run will p
 
 ### Who They Are
 
-The Jewish Public Affairs Committee of California (JPAC) is the statewide Jewish community advocacy and lobbying organization in Sacramento. It is not a PAC in the federal sense — it functions as a coalition of California Jewish community organizations that coordinates legislative advocacy at the state level. JPAC is distinct from [[AIPAC - American Israel Public Affairs Committee|AIPAC]] (which operates federally and doesn't fund state races) and is the relevant pro-Israel pressure organization for California politicians.
+The Jewish Public Affairs Committee of California (JPAC) is the statewide Jewish community advocacy and lobbying organization in Sacramento. It is not a PAC in the federal sense, it functions as a coalition of California Jewish community organizations that coordinates legislative advocacy at the state level. JPAC is distinct from [[AIPAC - American Israel Public Affairs Committee|AIPAC]] (which operates federally and doesn't fund state races) and is the relevant pro-Israel pressure organization for California politicians.
 
 ---
 
 ### What They Want
 
-— California state legislation and executive action favorable to Israel and to combating criticism of Israeli policy framed as antisemitism
-— Opposition to BDS (Boycott, Divestment, Sanctions) at the state level — opposing university BDS resolutions, opposing state-funded entities participating in BDS
-— Legislation conflating antisemitism with criticism of Israeli military policy
-— Access to and relationships with California's governor and key legislators
-— Favorable treatment of the California-Israel business corridor
+, California state legislation and executive action favorable to Israel and to combating criticism of Israeli policy framed as antisemitism
+, Opposition to BDS (Boycott, Divestment, Sanctions) at the state level, opposing university BDS resolutions, opposing state-funded entities participating in BDS
+, Legislation conflating antisemitism with criticism of Israeli military policy
+, Access to and relationships with California's governor and key legislators
+, Favorable treatment of the California-Israel business corridor
 
 ---
 
 ### How They Operate
 
-JPAC does not primarily operate through direct campaign contributions — it operates through coalition pressure, legislative drafting, and constituent/donor network mobilization. Its power comes from coordinating Jewish community organizations, synagogues, and — critically — Jewish major donors who are already embedded in Democratic Party infrastructure.
+JPAC does not primarily operate through direct campaign contributions, it operates through coalition pressure, legislative drafting, and constituent/donor network mobilization. Its power comes from coordinating Jewish community organizations, synagogues, and, critically. Jewish major donors who are already embedded in Democratic Party infrastructure.
 
 The pressure pipeline documented in Newsom's record: legislation backed by JPAC + California Legislative Jewish Caucus → Newsom signs or capitulates → JPAC relationships maintained → donor network access continues. The 2019 ethnic studies curriculum capitulation is the clearest early example. [See: [[Early History and Background Ties 2003-2019]]]
 
@@ -58,9 +58,9 @@ The pressure pipeline documented in Newsom's record: legislation backed by JPAC 
 
 ### What They've Gotten (Newsom)
 
-— 2019: Newsom called the ethnic studies curriculum draft "offensive," said it would "never see the light of day," and issued a public apology to California's Jewish community within his first year in office — within days of JPAC and affiliated organizations applying pressure.
-— 2024: Newsom signed anti-protest legislation backed by JPAC and the California Legislative Jewish Caucus that critics argued conflated antisemitism with criticism of Israeli policy.
-— Ongoing: Access and relationship maintenance — Newsom's team convened a Zoom with Jewish community leaders (coordinated through JCRC) within days of his March 2026 "apartheid" comment. [See: [[Post-October 7 Positions and Flip History]]]
+, 2019: Newsom called the ethnic studies curriculum draft "offensive," said it would "never see the light of day," and issued a public apology to California's Jewish community within his first year in office, within days of JPAC and affiliated organizations applying pressure.
+, 2024: Newsom signed anti-protest legislation backed by JPAC and the California Legislative Jewish Caucus that critics argued conflated antisemitism with criticism of Israeli policy.
+, Ongoing: Access and relationship maintenance. Newsom's team convened a Zoom with Jewish community leaders (coordinated through JCRC) within days of his March 2026 "apartheid" comment. [See: [[Post-October 7 Positions and Flip History]]]
 
 ---
 
@@ -72,21 +72,21 @@ JPAC connects to the broader Bay Area Jewish donor ecosystem that has been centr
 
 ### Research Gaps
 
-— JPAC's formal lobbying registrations in Sacramento (FPPC lobbyist database)
-— Specific legislation authored or backed by JPAC during Newsom's tenure (bill list)
-— Any direct behested payments connected to JPAC-affiliated organizations
+, JPAC's formal lobbying registrations in Sacramento (FPPC lobbyist database)
+, Specific legislation authored or backed by JPAC during Newsom's tenure (bill list)
+, Any direct behested payments connected to JPAC-affiliated organizations
 
 ---
 
 ### Connected Policy Areas
 
-Israel — legislative advocacy, anti-protest legislation, ethnic studies, donor network
+Israel, legislative advocacy, anti-protest legislation, ethnic studies, donor network
 
 ---
 
 ### Sources
 
-- [WSWS: Protest suppression legislation analysis](https://www.wsws.org/en/articles/2024/10/22/uuxx-o22.html) (VERIFIED) (Tier 4 — flag: far-left outlet, legislative text verifiable independently) (Tier 2)
+- [WSWS: Protest suppression legislation analysis](https://www.wsws.org/en/articles/2024/10/22/uuxx-o22.html) (VERIFIED) (Tier 4, flag: far-left outlet, legislative text verifiable independently) (Tier 2)
 
 ### OFAC Sanctions Screening
 <!-- auto:ofac-sdn start -->

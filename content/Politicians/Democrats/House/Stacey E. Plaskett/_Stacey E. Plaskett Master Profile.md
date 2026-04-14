@@ -1,5 +1,5 @@
 ---
-title: "Stacey E. Plaskett Master Profile"
+title: "Stacey E. Plaskett"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

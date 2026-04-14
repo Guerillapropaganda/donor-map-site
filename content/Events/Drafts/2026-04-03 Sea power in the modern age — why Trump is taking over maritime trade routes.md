@@ -1,5 +1,5 @@
 ---
-title: "Sea power in the modern age — why Trump is taking over maritime trade routes"
+title: "Sea power in the modern age , why Trump is taking over maritime trade routes"
 type: event
 date: 2026-04-03
 status: draft
@@ -11,7 +11,7 @@ profiles:
 
 #event #draft
 
-## Sea power in the modern age — why Trump is taking over maritime trade routes
+## Sea power in the modern age, why Trump is taking over maritime trade routes
 
 **Source:** ~~[The Hill](https://thehill.com/opinion/international/5809403-us-control-maritime-chokepoints/)~~ (URL broken, archived by Ops)
 **Date:** 2026-04-03

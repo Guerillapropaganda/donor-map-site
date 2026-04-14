@@ -1,5 +1,5 @@
 ---
-title: "Shomari Figures Master Profile"
+title: "Shomari Figures"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

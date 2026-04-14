@@ -1,5 +1,5 @@
 ---
-title: "Kathy Castor Master Profile"
+title: "Kathy Castor"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

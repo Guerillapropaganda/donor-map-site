@@ -33,9 +33,9 @@ The needs-reenrichment flag has been set. The next scheduled pipeline run will p
 
 As of December 31, 2025, Invitation Homes wholly owns **86,192 homes** and jointly owns 8,006 more, for a total managed portfolio of approximately **94,000 homes** across 16 markets.
 
-Invitation Homes represents the institutional landlord model: private equity and Wall Street capital buying single-family homes at scale, converting homeownership opportunities into permanent rental revenue streams. The company's business model benefits from housing scarcity—fewer available homes for purchase means more potential renters, higher rents, and greater revenue.
+Invitation Homes represents the institutional landlord model: private equity and Wall Street capital buying single-family homes at scale, converting homeownership opportunities into permanent rental revenue streams. The company's business model benefits from housing scarcity, fewer available homes for purchase means more potential renters, higher rents, and greater revenue.
 
-[[Blackstone Group|Blackstone]] re-entered the single-family rental market through its non-traded REIT **BREIT**, which holds **63,918 SFR homes** and additionally acquired nearly 30,000 multifamily units through the 2023 AIR Communities acquisition. In San Diego alone, [[Blackstone Group|Blackstone]] acquired **5,800 rental units in 2021** and subsequently raised rents **38%—nearly double the 20% market average**, with some buildings seeing increases up to **79%**.
+[[Blackstone Group|Blackstone]] re-entered the single-family rental market through its non-traded REIT **BREIT**, which holds **63,918 SFR homes** and additionally acquired nearly 30,000 multifamily units through the 2023 AIR Communities acquisition. In San Diego alone, [[Blackstone Group|Blackstone]] acquired **5,800 rental units in 2021** and subsequently raised rents **38%, nearly double the 20% market average**, with some buildings seeing increases up to **79%**.
 
 ---
 
@@ -85,7 +85,7 @@ NRHC lobbying has grown from **$200,000 (2021) to $460,000 (2024)**, and the gro
 
 ### Anti-Rent-Control Campaign Spending
 
-[[Blackstone Group|Blackstone]] deployed over **$14 million of investor capital**—including from California public employee pension funds (CalPERS) and the University of California system—to campaign against rent regulation in California:
+[[Blackstone Group|Blackstone]] deployed over **$14 million of investor capital**, including from California public employee pension funds (CalPERS) and the University of California system, to campaign against rent regulation in California:
 
 | Year | Ballot Measure | Blackstone Contribution | Outcome |
 |------|---------------|------------------------|---------|
@@ -95,7 +95,7 @@ NRHC lobbying has grown from **$200,000 (2021) to $460,000 (2024)**, and the gro
 
 Invitation Homes specifically spent **$1M+ opposing CA Prop 10 (2018)** and **$500K opposing Prop 33 (2024)**.
 
-[[Blackstone Group|Blackstone]] has touted to investors multiple times how its real estate investments benefit from declining new housing supply—effectively profiting from the continuation of the affordable housing crisis.
+[[Blackstone Group|Blackstone]] has touted to investors multiple times how its real estate investments benefit from declining new housing supply, effectively profiting from the continuation of the affordable housing crisis.
 
 ---
 
@@ -107,11 +107,11 @@ Despite growing bipartisan concern about institutional investors buying single-f
 
 ### Federal bills opposed and killed by PE landlord bloc:
 
-- **Stop Wall Street Landlords Act** (2022, 2024, 2026) — Would remove tax benefits for large corporate SFR owners. Stalled in committee all three sessions.
-- **End Hedge Fund Control of American Homes Act** (2023-2024) — Would force PE firms to sell SFR holdings over 10 years. Killed in committee.
-- **Stop Predatory Investing Act** (2023) — 50% tax penalty on institutional SFR purchases. Stalled.
-- **Biden Rent Cap Proposal** (2024) — 5% rent increase limit on corporate landlords. Blocked by NAR/NMHC lobbying.
-- **CDC Eviction Moratorium** (2020-2021) — NRHC vocally opposed; moratorium ultimately struck down by Supreme Court.
+- **Stop Wall Street Landlords Act** (2022, 2024, 2026). Would remove tax benefits for large corporate SFR owners. Stalled in committee all three sessions.
+- **End Hedge Fund Control of American Homes Act** (2023-2024). Would force PE firms to sell SFR holdings over 10 years. Killed in committee.
+- **Stop Predatory Investing Act** (2023), 50% tax penalty on institutional SFR purchases. Stalled.
+- **Biden Rent Cap Proposal** (2024), 5% rent increase limit on corporate landlords. Blocked by NAR/NMHC lobbying.
+- **CDC Eviction Moratorium** (2020-2021). NRHC vocally opposed; moratorium ultimately struck down by Supreme Court.
 
 #### REIT Tax Advantage Preservation
 
@@ -119,7 +119,7 @@ REITs pay no corporate income tax if they distribute 90% of income. This tax str
 
 #### State-Level Rent Control Preemption
 
-Thirty-two U.S. states maintain rent control preemption laws that prohibit cities from enacting local rent stabilization—largely due to decades of industry lobbying through state apartment associations. The institutional landlord bloc coordinates through state-level affiliates (California Apartment Association, Florida Apartment Association, etc.) to maintain these preemptions.
+Thirty-two U.S. states maintain rent control preemption laws that prohibit cities from enacting local rent stabilization, largely due to decades of industry lobbying through state apartment associations. The institutional landlord bloc coordinates through state-level affiliates (California Apartment Association, Florida Apartment Association, etc.) to maintain these preemptions.
 
 ---
 
@@ -148,7 +148,7 @@ Thirty-two U.S. states maintain rent control preemption laws that prohibit citie
 
 #### GSE Financing Disproportionately Supporting PE Landlords
 
-PE firms have disproportionately relied on GSE ([[Fannie Mae]] and [[Freddie Mac]]) financing: according to PESP's Manufactured Housing Tracker, **52% of PE-owned manufactured housing parks** are financed by Fannie Mae or Freddie Mac, compared to just **9% of all parks nationwide**—meaning taxpayer-backed financing directly supports institutional landlord acquisitions.
+PE firms have disproportionately relied on GSE ([[Fannie Mae]] and [[Freddie Mac]]) financing: according to PESP's Manufactured Housing Tracker, **52% of PE-owned manufactured housing parks** are financed by Fannie Mae or Freddie Mac, compared to just **9% of all parks nationwide**, meaning taxpayer-backed financing directly supports institutional landlord acquisitions.
 
 #### Bill Pulte as FHFA Director: Regulatory Capture
 
@@ -157,7 +157,7 @@ PE firms have disproportionately relied on GSE ([[Fannie Mae]] and [[Freddie Mac
 - **Fired** [[Diana Reid|Freddie Mac CEO Diana Reid]]
 - **Removed** most GSE board members
 - **Appointed himself** as chair of both [[Fannie Mae]] and [[Freddie Mac]] boards
-- **Dissolved** the Division of Public Interest Examination—the office overseeing affordable housing, consumer protection, and diversity initiatives
+- **Dissolved** the Division of Public Interest Examination, the office overseeing affordable housing, consumer protection, and diversity initiatives
 
 A **GAO investigation** was opened in December 2025 into allegations that [[Bill Pulte|Pulte]] used mortgage data to target political opponents.
 
@@ -172,9 +172,9 @@ Invitation Homes is the mechanism through which the 2008 financial crisis was co
 
 The same financial system that caused the foreclosures now profits from renting to the families it displaced. [[Blackstone Group|Blackstone's]] $7 billion profit on Invitation Homes represents wealth transferred from families who lost homeownership to shareholders who capture rental revenue and asset appreciation simultaneously.
 
-Invitation Homes does not create housing—it captures existing housing and extracts rent from it. The institutional landlord bloc's political power (650+ lobbyists, 61% revolvers, $150.9M annual lobbying) exists to prevent any legislation that would restrict their business model or tax advantages.
+Invitation Homes does not create housing, it captures existing housing and extracts rent from it. The institutional landlord bloc's political power (650+ lobbyists, 61% revolvers, $150.9M annual lobbying) exists to prevent any legislation that would restrict their business model or tax advantages.
 
-The PE landlord bloc's success in blocking 15+ major federal/state rent protection bills while securing permanent tax advantages (1031 exchanges, Opportunity Zones, REIT treatment) and placing industry executives in regulatory positions ($52% GSE financing for PE-owned parks vs. 9% for all parks) demonstrates that housing unaffordability is not a market failure—it is a policy outcome engineered by institutional landlords and maintained through political spending.
+The PE landlord bloc's success in blocking 15+ major federal/state rent protection bills while securing permanent tax advantages (1031 exchanges, Opportunity Zones, REIT treatment) and placing industry executives in regulatory positions ($52% GSE financing for PE-owned parks vs. 9% for all parks) demonstrates that housing unaffordability is not a market failure, it is a policy outcome engineered by institutional landlords and maintained through political spending.
 
 ---
 
@@ -182,18 +182,18 @@ The PE landlord bloc's success in blocking 15+ major federal/state rent protecti
 
 - [Invitation Homes 10-K and Q4 2025 earnings](https://www.businesswire.com/news/home/20260218809149/en/Invitation-Homes-Reports-Fourth-Quarter-and-Full-Year-2025-Results) (Tier 1) (VERIFIED) (UNVERIFIED)
 - [Yahoo Finance: Invitation Homes portfolio reports](https://finance.yahoo.com/news/invitation-homes-reports-fourth-quarter-211500088.html) (Tier 1) (VERIFIED) (UNVERIFIED)
-- [ACCE Institute: Helter Shelter—How Blackstone contributes to and profits from California's housing crisis](https://www.acceinstitute.org/helter_shelter_how_blackstone_contributes_to_and_profits_from_california_s_broken_housing_system) (Tier 2) (VERIFIED)
-- [PESP: National Rental Home Council report—How America's largest single-family landlords put profit over people](https://pestakeholder.org/reports/the-national-rental-home-council-how-americas-largest-single-family-landlords-put-profit-over-people/) (Tier 2) (VERIFIED)
-- [PESP: Manufactured Housing Tracker—PE-GSE financing disparity analysis](https://pestakeholder.org/news/concerns-surround-appointment-of-private-equity-insider-to-head-up-federal-housing-finance-agency/) (Tier 2) (VERIFIED)
-- [Politico: Single-family rentals group hires theGROUP D.C.—Sudafi Henry hire](https://www.politico.com/newsletters/politico-influence/2023/12/13/single-family-rentals-group-hires-thegroup-00131647) (Tier 2) (VERIFIED) (UNVERIFIED)
+- [ACCE Institute: Helter Shelter, How Blackstone contributes to and profits from California's housing crisis](https://www.acceinstitute.org/helter_shelter_how_blackstone_contributes_to_and_profits_from_california_s_broken_housing_system) (Tier 2) (VERIFIED)
+- [PESP: National Rental Home Council report, How America's largest single-family landlords put profit over people](https://pestakeholder.org/reports/the-national-rental-home-council-how-americas-largest-single-family-landlords-put-profit-over-people/) (Tier 2) (VERIFIED)
+- [PESP: Manufactured Housing Tracker, PE-GSE financing disparity analysis](https://pestakeholder.org/news/concerns-surround-appointment-of-private-equity-insider-to-head-up-federal-housing-finance-agency/) (Tier 2) (VERIFIED)
+- [Politico: Single-family rentals group hires theGROUP D.C. Sudafi Henry hire](https://www.politico.com/newsletters/politico-influence/2023/12/13/single-family-rentals-group-hires-thegroup-00131647) (Tier 2) (VERIFIED) (UNVERIFIED)
 - [Senate LDA Filings: Federal lobbying by real estate industry and trade associations](https://lda.gov/filings/public/filing/search/) (Tier 1) (VERIFIED)
 - [FEC Receipts: Real estate industry lobbying ecosystem 2024](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1) (VERIFIED)
 - [Congress.gov: Stop Wall Street Landlords Act](https://www.congress.gov/bill/118th-congress/senate-bill/2224) (Tier 1) (VERIFIED)
-- ~~[Federal Reserve: Institutional investment in single-family housing](https://www.federalreserve.gov/econres/notes/feds-notes/institutional-investors-single-family-housing.html)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[Federal Reserve: Institutional investment in single-family housing](https://www.federalreserve.gov/econres/notes/feds-notes/institutional-investors-single-family-housing.html)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [ProPublica: When Private Equity Becomes Your Landlord](https://www.propublica.org/article/when-private-equity-becomes-your-landlord) (Tier 2) (VERIFIED)
 - [Washington Post: Global investors profited from U.S. rental homes, foreclosure crisis](https://www.washingtonpost.com/business/interactive/2021/investors-rental-foreclosure/) (Tier 2) (VERIFIED)
 - [Ballotpedia: Corporate homebuying legislation](https://ballotpedia.org/Corporate_homebuying) (Tier 3) (VERIFIED)
-- [National Mortgage Professional: Housing shake-up—HUD and FHFA slash staff](https://nationalmortgageprofessional.com/news/housing-shake-hud-and-fhfa-slash-staff-close-offices) (Tier 2) (VERIFIED) (UNVERIFIED)
+- [National Mortgage Professional: Housing shake-up, HUD and FHFA slash staff](https://nationalmortgageprofessional.com/news/housing-shake-hud-and-fhfa-slash-staff-close-offices) (Tier 2) (VERIFIED) (UNVERIFIED)
 - [SEC: Invitation Homes 10-K filing](https://www.sec.gov/cgi-bin/browse-edgar?company=invitation+homes&CIK=&type=10-K) (Tier 1) (VERIFIED)
 
 ---

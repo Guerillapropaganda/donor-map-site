@@ -43,7 +43,7 @@ The students Trump University defrauded in Florida never received the restitutio
 
 The Trump University case wasn't an anomaly. It was the model:
 
-**Lender Processing Services (LPS):** Bondi received thousands in donations from LPS and affiliates while her office was investigating the company for robo-signing foreclosure misconduct. In 2013, she fired two attorneys — Clarkson and Edwards — who had presented evidence that LPS employees were falsifying documents for JPMorgan Chase.
+**Lender Processing Services (LPS):** Bondi received thousands in donations from LPS and affiliates while her office was investigating the company for robo-signing foreclosure misconduct. In 2013, she fired two attorneys. Clarkson and Edwards, who had presented evidence that LPS employees were falsifying documents for JPMorgan Chase.
 
 After firing the investigators: "The Florida attorney general's office never issued another subpoena to any foreclosure mill or associated target."
 
@@ -56,15 +56,15 @@ After firing the investigators: "The Florida attorney general's office never iss
 
 ### The Charity Scheme
 
-Between 2011 and 2016, Bondi directed businesses under investigation to donate $20.2M to charities — including $5.5M to 35 unregistered charities. Some of these charities had connections to Bondi's office. The mechanism: businesses facing prosecution were offered reduced penalties in exchange for "charitable" donations to organizations the AG's office selected.
+Between 2011 and 2016, Bondi directed businesses under investigation to donate $20.2M to charities, including $5.5M to 35 unregistered charities. Some of these charities had connections to Bondi's office. The mechanism: businesses facing prosecution were offered reduced penalties in exchange for "charitable" donations to organizations the AG's office selected.
 
-In 2025, Bondi issued a DOJ memo prohibiting settlement funds from going to third-party organizations — effectively banning the practice she invented.
+In 2025, Bondi issued a DOJ memo prohibiting settlement funds from going to third-party organizations, effectively banning the practice she invented.
 
 ---
 
 ### Sources
 
 - [CREW: The Trump Foundation-Pam Bondi scandal](https://www.citizensforethics.org/reports-investigations/crew-investigations/the-trump-foundation-pam-bondi-scandal/) (Tier 2) (VERIFIED)
-- [PolitiFact: Donald Trump, Pam Bondi and $25K — Was it pay to play?](https://www.politifact.com/article/2016/sep/21/donald-trump-pam-bondi-and-25k-was-it-pay-play/) (Tier 2) (VERIFIED)
+- [PolitiFact: Donald Trump, Pam Bondi and $25K. Was it pay to play?](https://www.politifact.com/article/2016/sep/21/donald-trump-pam-bondi-and-25k-was-it-pay-play/) (Tier 2) (VERIFIED)
 - [American Prospect: When Pam Bondi Protected Foreclosure Fraudsters](https://prospect.org/2024/11/22/2024-11-22-when-pam-bondi-protected-foreclosure-fraudsters/) (Tier 2) (VERIFIED)
 - [Orlando Weekly: Orlando businessman alleges Pam Bondi directed millions to unregistered charities](https://www.orlandoweekly.com/news/orlando-businessman-john-d-smith-alleges-pam-bondi-directed-businesses-to-pay-millions-of-dollars-to-unregistered-charities-is-his-suit-warr-4309064/) (Tier 2) (VERIFIED)

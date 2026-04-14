@@ -40,7 +40,7 @@ Warner's $215 million net worth creates a Self-Funding as Independence dynamic: 
 
 ### Sources
 
-- ~~[Congress.gov: Mark Warner member profile](https://www.congress.gov/member/mark-warner/W000805)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[Congress.gov: Mark Warner member profile](https://www.congress.gov/member/mark-warner/W000805)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [FEC Candidate: Mark Warner campaign finance summary](https://www.fec.gov/data/candidate/P80003023/) (Tier 1) (VERIFIED)
 - [FEC Candidate: Mark Warner personal financial disclosures](https://www.fec.gov/data/candidate/P80003023/) (Tier 1) (VERIFIED)
 - [Congress.gov: RESTRICT Act (S.686)](https://www.congress.gov/bill/118th-congress/senate-bill/686) (Tier 1) (VERIFIED)

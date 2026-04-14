@@ -1,5 +1,5 @@
 ---
-title: "Earl L. Buddy Carter Master Profile"
+title: "Earl L. Buddy Carter"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

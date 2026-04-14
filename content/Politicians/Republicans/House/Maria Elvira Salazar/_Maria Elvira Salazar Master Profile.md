@@ -2,8 +2,8 @@
 title: "Maria Elvira Salazar"
 type: politician
 content-readiness: draft
-central-thesis: "Salazar is the public face of Miami's Cuba hawks in the House — the communicator who translates the Fanjul/exile donor agenda into populist, identity-driven rhetoric for the Cuban-American base. While Diaz-Balart wields Appropriations power and Ru..."
-last-updated: 2026-04-14
+central-thesis: "Salazar is the public face of Miami's Cuba hawks in the House , the communicator who translates the Fanjul/exile donor agenda into populist, identity-driven rhetoric for the Cuban-American base. While Diaz-Balart wields Appropriations power and Ru..."
+last-updated: 2026-04-13
 needs-reenrichment: true
 reenrich-reason: "Bioguide recovered 2026-04-11 (was contaminated, now verified): S000168. Next pipeline run should populate Congress.gov + GovTrack auto-blocks with correct data."
 known-gaps:
@@ -17,7 +17,7 @@ district: "27"
 top-donors:
   - "AIPAC"
 ofac-sdn-match: "true"
-last-enriched: "2026-04-14"
+last-enriched: "2026-04-13"
 ofac-programs:
   - "SDNTK"
 total-received: "$922,124"
@@ -66,7 +66,7 @@ Career arc: Journalism career covering Latin American politics → 2018 congress
 
 ## The Central Thesis
 
-Salazar is the public face of Miami's Cuba hawks in the House — the communicator who translates the Fanjul/exile donor agenda into populist, identity-driven rhetoric for the Cuban-American base. While Diaz-Balart wields Appropriations power and Rubio executes diplomatically, Salazar provides the media strategy. Her journalism background makes her the most effective messenger for the embargo position, and her FL-27 district (Miami-Dade) is the geographic heart of the exile community.
+Salazar is the public face of Miami's Cuba hawks in the House, the communicator who translates the Fanjul/exile donor agenda into populist, identity-driven rhetoric for the Cuban-American base. While Diaz-Balart wields Appropriations power and Rubio executes diplomatically, Salazar provides the media strategy. Her journalism background makes her the most effective messenger for the embargo position, and her FL-27 district (Miami-Dade) is the geographic heart of the exile community.
 
 ---
 
@@ -88,7 +88,7 @@ Salazar is the public face of Miami's Cuba hawks in the House — the communicat
 - FEC dismissed complaint about improper disclosure of $283,200 in donations from 91 individuals
 
 ### Israel Lobby
-- AIPAC and affiliated pro-Israel PAC support (amounts TBD — API DATA PENDING)
+- AIPAC and affiliated pro-Israel PAC support (amounts TBD. API DATA PENDING)
 - Alignment between Cuba hawk and pro-Israel positions is structural in South Florida politics
 
 ### Controversies
@@ -98,7 +98,7 @@ Salazar is the public face of Miami's Cuba hawks in the House — the communicat
 
 ---
 
-### Cuba Policy — The FORCE Act and Maximum Pressure
+### Cuba Policy. The FORCE Act and Maximum Pressure
 
 Salazar is the author of the **FORCE Act** (Foreign Assistance Reforms and Compliance Evaluation), which holds the Castro regime accountable for harboring fugitives, supporting Maduro/Ortega regimes, and alleged terrorism support. She co-leads with Diaz-Balart and Gimenez to eliminate remaining embargo "loopholes" and "trade valves."
 
@@ -117,7 +117,7 @@ Her stated position: "Sanctions exist to deny economic support to the Cuban dict
 
 ## Analytical Patterns
 
-**Two-Audience Problem:** Salazar's anti-communist message targets the exile base; her actual legislative power (as a non-Appropriations member) is limited. The messaging function — translating donor-class interests into populist language — is her primary structural role.
+**Two-Audience Problem:** Salazar's anti-communist message targets the exile base; her actual legislative power (as a non-Appropriations member) is limited. The messaging function, translating donor-class interests into populist language, is her primary structural role.
 
 **Both-Sides Illusion (Within Party):** Salazar, Diaz-Balart, and Gimenez form a coordinated Cuba bloc that shares donors, coordinates positions, and presents as independent voices while functioning as a unified donor-service operation.
 

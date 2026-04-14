@@ -33,7 +33,7 @@ On May 5, 2022, electronics magnate Barre Seid transferred majority ownership of
 ### Who Funds It
 
 ### Primary donor: Barre Seid
-Barre Seid is the sole family member of the Seid Manufacturing and Engineering company founded by his father Bernard. The company manufactures precision sheet metal components for aerospace and defense contractors — a stable, cash-generating business with minimal competition. Seid's net worth from the family company exceeded $1 billion.
+Barre Seid is the sole family member of the Seid Manufacturing and Engineering company founded by his father Bernard. The company manufactures precision sheet metal components for aerospace and defense contractors, a stable, cash-generating business with minimal competition. Seid's net worth from the family company exceeded $1 billion.
 
 In May 2022, Seid transferred ownership of Seid Manufacturing to Marble Freedom Trust before the company's subsequent sale. This structure allowed Seid to:
 1. Avoid paying capital gains taxes on the $400M+ appreciation (the donation transferred appreciated assets before sale, not cash after sale)
@@ -100,20 +100,20 @@ The contradiction is explicit: the organization claims to defend constitutional 
 
 | Date | Event | Amount | Outcome |
 |------|-------|--------|---------|
-| 2021 | Marble Freedom Trust established by Leonard Leo | — | Dark money judicial apparatus created |
+| 2021 | Marble Freedom Trust established by Leonard Leo |, | Dark money judicial apparatus created |
 | 2022 (May) | Barre Seid transfers manufacturing company to Marble | $1.6B (subsequent sale proceeds) | Largest dark money donation in U.S. history; Seid avoids ~$400M capital gains tax |
 | 2022 (June) | Manufacturing company sold by Marble | $1.6B transferred to trust | Permanent endowment created |
 | 2022 (Nov) | The 85 Fund receives $60M transfer from Marble | $60M | Judicial campaign apparatus fully funded; 2022 election cycle state court races |
 | 2023 (Q1) | Wisconsin Supreme Court campaign (Marble funding) | $12M | Wisconsin court flips majority 5-2 conservative → 4-3 liberal (limited outcome) |
 | 2023 (Q2-Q4) | Federal judicial confirmation support (Concord Fund via Marble) | $35M | Continued Trump-era judicial nominee confirmations |
-| 2024 (Q1) | North Carolina post-Supreme Court flip abortion ban passes | — | Marble-funded 2022 court capture enables state policy |
+| 2024 (Q1) | North Carolina post-Supreme Court flip abortion ban passes |, | Marble-funded 2022 court capture enables state policy |
 | 2024 (Q2-Q3) | Michigan Supreme Court elections (Marble support) | $8M | Defend 3-seat conservative majority in swing state |
 | 2024 (Q4) | Marble annual distribution reaches $180M | $180M | Permanent institutional capacity: judicial capture infrastructure operational across 30+ states |
-| 2025 | Estimated Marble assets exceed $2B (endowment income model) | — | Perpetual funding source ensures conservative judicial dominance outlasts any political cycle |
+| 2025 | Estimated Marble assets exceed $2B (endowment income model) |, | Perpetual funding source ensures conservative judicial dominance outlasts any political cycle |
 
 ### Sources
 
-- ~~[ProPublica: Marble Freedom Trust tax filings](https://projects.propublica.org/nonprofits/organizations/854970843)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[ProPublica: Marble Freedom Trust tax filings](https://projects.propublica.org/nonprofits/organizations/854970843)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [Leonard Leo biography and Federalist Society ties](https://fedsoc.org/about-us) (Tier 3) (VERIFIED)
 - [ProPublica: How a Secretive Billionaire Handed His Fortune to the Architect of the Right-Wing Takeover of the Courts](https://www.propublica.org/article/dark-money-leonard-leo-barre-seid) (Tier 2) (VERIFIED)
 - [North Carolina Supreme Court 2022 election results and downstream policy](https://ballotpedia.org/North_Carolina_Supreme_Court) (Tier 3) (VERIFIED)

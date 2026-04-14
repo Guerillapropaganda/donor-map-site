@@ -14,7 +14,7 @@ politicians-funded:
   - "Nikki Haley"
   - "Mike Rogers"
 featured-date: "2026-04-17"
-spotlight-reason: "Highest ROI in the database — $2.9M to McConnell returned $1.9T in tax cuts (655,172x). Dark money network spanning think tanks, PACs, and media."
+spotlight-reason: "Highest ROI in the database , $2.9M to McConnell returned $1.9T in tax cuts (655,172x). Dark money network spanning think tanks, PACs, and media."
 shareable-stat: "$2.9M donated. $1.9T in tax cuts. 655,172x return."
 issues:
   - "Dark Money & Campaign Finance"
@@ -40,25 +40,25 @@ lobbying: [[Brownstein Hyatt Farber Schreck]] · [[Prime Policy Group]]
 
 ### Who They Are
 
-The Koch Network — the largest sustained political spending operation in American history, built by Charles Koch (net worth: $71.4 billion, 22nd richest globally) and his late brother David Koch (died August 2019). The network is not a single organization but an interconnected web of PACs, dark money groups, think tanks, legal organizations, and grassroots operations — sometimes called "the Kochtopus." ~~[Source: ~~[SourceWatch: Charles G. Koch](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/Charles_G._Koch)~~ (was Tier 3 — URL broken, archived by Ops)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3)]
+The Koch Network, the largest sustained political spending operation in American history, built by Charles Koch (net worth: $71.4 billion, 22nd richest globally) and his late brother David Koch (died August 2019). The network is not a single organization but an interconnected web of PACs, dark money groups, think tanks, legal organizations, and grassroots operations, sometimes called "the Kochtopus." ~~[Source: ~~[SourceWatch: Charles G. Koch](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/Charles_G._Koch)~~ (was Tier 3. URL broken, archived by Ops)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)]
 
-**Koch Industries (rebranded Koch, Inc. in 2024):** $140 billion annual revenue. Divisions include Flint Hills Resources (oil refining), Georgia-Pacific (paper/building materials), Molex (electronics), INVISTA (chemicals), Koch Pipeline Company (4,000 miles). Privately held — no public shareholders, no quarterly earnings pressure, no disclosure requirements. This is the economic base that funds the political network. [Source: [OpenSecrets: Koch Industries profile](https://www.opensecrets.org/orgs/koch-industries/summary?id=D000000186) (Tier 1) (VERIFIED)]
+**Koch Industries (rebranded Koch, Inc. in 2024):** $140 billion annual revenue. Divisions include Flint Hills Resources (oil refining), Georgia-Pacific (paper/building materials), Molex (electronics), INVISTA (chemicals), Koch Pipeline Company (4,000 miles). Privately held, no public shareholders, no quarterly earnings pressure, no disclosure requirements. This is the economic base that funds the political network. [Source: [OpenSecrets: Koch Industries profile](https://www.opensecrets.org/orgs/koch-industries/summary?id=D000000186) (Tier 1) (VERIFIED)]
 
-**The network's scale (2024 cycle):** $578 million raised, $548 million spent. 700+ donors contributing $100K+/year minimum. This is not one billionaire writing checks — it's a coordinated donor consortium that Charles Koch built over 50 years, now operating under the **[[Stand Together|Stand Together]]** brand (formerly Koch Seminar Network / Freedom Partners). ~~[Source: ~~[EXPOSEDbyCMD: Koch Super PAC shatters election spending record](https://www.exposedbycmd.org/2024/11/05/koch-super-pac-shatters-its-election-spending-record/)~~ (was Tier 2 — URL broken, archived by Ops)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)]
+**The network's scale (2024 cycle):** $578 million raised, $548 million spent. 700+ donors contributing $100K+/year minimum. This is not one billionaire writing checks, it's a coordinated donor consortium that Charles Koch built over 50 years, now operating under the **[[Stand Together|Stand Together]]** brand (formerly Koch Seminar Network / Freedom Partners). ~~[Source: ~~[EXPOSEDbyCMD: Koch Super PAC shatters election spending record](https://www.exposedbycmd.org/2024/11/05/koch-super-pac-shatters-its-election-spending-record/)~~ (was Tier 2. URL broken, archived by Ops)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)]
 
 ---
 
 ### What They Want
 
-Elimination of the regulatory state. Deregulation of energy, environment, labor, and finance. Destruction of union power — especially public-sector unions. Elimination of prevailing wage requirements and project labor agreements. Privatization of public education. Tax reduction for corporations and the wealthy. Climate science denial and fossil fuel protection. Judges who interpret the Constitution as prohibiting most federal economic regulation.
+Elimination of the regulatory state. Deregulation of energy, environment, labor, and finance. Destruction of union power, especially public-sector unions. Elimination of prevailing wage requirements and project labor agreements. Privatization of public education. Tax reduction for corporations and the wealthy. Climate science denial and fossil fuel protection. Judges who interpret the Constitution as prohibiting most federal economic regulation.
 
-The Koch network's political project is not a list of policy preferences — it is a comprehensive vision of a society where capital operates without democratic constraint. Every think tank, every legal organization, every dark money group, every grassroots operation points toward the same structural goal: removing the ability of democratic government to regulate private economic power.
+The Koch network's political project is not a list of policy preferences, it is a comprehensive vision of a society where capital operates without democratic constraint. Every think tank, every legal organization, every dark money group, every grassroots operation points toward the same structural goal: removing the ability of democratic government to regulate private economic power.
 
 ---
 
 ### Who They Fund
 
-> [!money] Follow the Money — Koch Network Political Spending
+> [!money] Follow the Money. Koch Network Political Spending
 > **2024 cycle aggregate:** $578 million raised / $548 million spent
 > **AFP Action (Super PAC):** $160–178 million in federal races (2024) — tripled from 2020
 > **AFP (501(c)(4) nonprofit):** Combined with AFP Action: $397 million raised
@@ -76,19 +76,19 @@ The Koch network's political project is not a list of policy preferences — it 
 
 ---
 
-### The Infrastructure — What the Money Built
+### The Infrastructure. What the Money Built
 
 **[[Americans for Prosperity|Americans for Prosperity]] (AFP):** The grassroots arm. 37 state chapters. 35 states with permanent field staff. Claims 4 million+ advocates. 14 million doors knocked in 2024. 300+ legislative victories. Federal lobbying: $1.15 million (2024). As a 501(c)(4), AFP does not disclose its funders. This is the organization that shows up at your state capitol to lobby against prevailing wage, project labor agreements, and union rights. [Source: [OpenSecrets: Americans for Prosperity organizational profile](https://www.opensecrets.org/orgs/americans-for-prosperity/summary?id=D000024046) (Tier 2) (VERIFIED)]
 
 ### The Think Tank Pipeline:
-- **[[Cato Institute]]** (co-founded by Charles Koch, 1977): Libertarian policy research. Koch gave $30M+ in early years. ~~[Source: ~~[SourceWatch: Cato Institute](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/Cato_Institute)~~ (was Tier 3 — URL broken, archived by Ops)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3)]
-- **[[Mercatus Center]]** (George Mason University): Koch family donated $48 million to GMU (2011–2014 alone). Charles Koch is emeritus board member. ~~[Source: ~~[SourceWatch: Mercatus Center](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/Mercatus_Center)~~ (was Tier 3 — URL broken, archived by Ops)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3)]
-- **Reason Foundation** (David Koch sat on board): Libertarian media — Reason Magazine, ReasonTV. Koch foundations gave $1.5M+/year at peak. [Source: [DeSmog: Reason Foundation](https://www.desmog.com/reason-foundation/) (Tier 2) (VERIFIED)]
-- **[[Heritage Foundation]]:** Koch vehicle (Claude R. Lambe Foundation) gave $4.8M total (1998–2012). Koch-linked nonprofits gave $845K+ since 2020. Heritage runs **Project 2025** — Koch network funneled $4.4M+ to Project 2025 advisory board members via [[Stand Together|Stand Together]] Trust (2022). [Source: [DeSmog: Koch Family Foundations & Entities](https://www.desmog.com/koch-family-foundations/) (Tier 2) (VERIFIED)]
+- **[[Cato Institute]]** (co-founded by Charles Koch, 1977): Libertarian policy research. Koch gave $30M+ in early years. ~~[Source: ~~[SourceWatch: Cato Institute](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/Cato_Institute)~~ (was Tier 3. URL broken, archived by Ops)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)]
+- **[[Mercatus Center]]** (George Mason University): Koch family donated $48 million to GMU (2011–2014 alone). Charles Koch is emeritus board member. ~~[Source: ~~[SourceWatch: Mercatus Center](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/Mercatus_Center)~~ (was Tier 3. URL broken, archived by Ops)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)]
+- **Reason Foundation** (David Koch sat on board): Libertarian media. Reason Magazine, ReasonTV. Koch foundations gave $1.5M+/year at peak. [Source: [DeSmog: Reason Foundation](https://www.desmog.com/reason-foundation/) (Tier 2) (VERIFIED)]
+- **[[Heritage Foundation]]:** Koch vehicle (Claude R. Lambe Foundation) gave $4.8M total (1998–2012). Koch-linked nonprofits gave $845K+ since 2020. Heritage runs **Project 2025**. Koch network funneled $4.4M+ to Project 2025 advisory board members via [[Stand Together|Stand Together]] Trust (2022). [Source: [DeSmog: Koch Family Foundations & Entities](https://www.desmog.com/koch-family-foundations/) (Tier 2) (VERIFIED)]
 - **Pacific Research Institute** (California-based): $2.08M in Koch funding (1986–2018). On the Project 2025 advisory board. California's primary Koch-funded free-market think tank. [Source: [DeSmog: Koch Family Foundations & Entities](https://www.desmog.com/koch-family-foundations/) (Tier 2)]
 - **Bill of Rights Institute** (K–12 curriculum): Founded by Charles Koch (1999). Nearly $23M from Koch family since 2013. 2 of 4 board members are Koch employees. Libertarian civics curriculum targeting public schools. [Source: [DeSmog: Koch Family Foundations & Entities](https://www.desmog.com/koch-family-foundations/) (Tier 2)]
 
-The think tank pipeline is Koch's primary mechanism for converting donor dollars into policy language. Koch money enters [[Heritage Foundation|Heritage]], [[Cato Institute|Cato]], and [[Mercatus Center|Mercatus]] as grants. These institutions produce "research" papers and model legislation. Republican committee staff — many of whom cycle through Koch-funded think tanks via the revolving door — adapt those papers into bills. The [[Federalist Society]] runs the parallel judicial pipeline, selecting judges who will uphold deregulatory outcomes when legislation is challenged. See the Think Tanks & Policy Infrastructure section for individual profiles mapping each institution's Koch funding, policy output, and revolving door connections.
+The think tank pipeline is Koch's primary mechanism for converting donor dollars into policy language. Koch money enters [[Heritage Foundation|Heritage]], [[Cato Institute|Cato]], and [[Mercatus Center|Mercatus]] as grants. These institutions produce "research" papers and model legislation. Republican committee staff, many of whom cycle through Koch-funded think tanks via the revolving door, adapt those papers into bills. The [[Federalist Society]] runs the parallel judicial pipeline, selecting judges who will uphold deregulatory outcomes when legislation is challenged. See the Think Tanks & Policy Infrastructure section for individual profiles mapping each institution's Koch funding, policy output, and revolving door connections.
 
 ### The Legal Pipeline:
 - **Institute for Justice** (founded 1991): Initial $350K Koch seed funding + $1.5M over 3 years. Constitutional litigation for property rights, school choice, economic liberty.
@@ -106,14 +106,14 @@ The think tank pipeline is Koch's primary mechanism for converting donor dollars
 
 This is the section that connects the Koch network to the vault's labor section. The Koch network has waged a 60-year campaign to destroy organized labor's power in the United States.
 
-> [!money] Follow the Money — Koch vs. Unions
+> [!money] Follow the Money. Koch vs. Unions
 > **Janus v. AFSCME (2018):** Koch-funded National Right to Work Legal Defense Foundation and Liberty Justice Center co-represented the plaintiff. 5–4 Supreme Court decision ruling public-sector workers cannot be required to pay fair-share fees to unions — even when the union has a legal duty to represent them. **Direct result:** [[SEIU - Service Employees International Union|SEIU]] Local 1000 dues collapsed 49% (from $7.5M/month to $3.8M/month). AFSCME, CTA, and every public-sector union in the vault lost revenue and membership.
 >
 > **Right-to-work campaigns:** Koch network funded state-level right-to-work passage in Wisconsin, Michigan, Indiana, and others through AFP chapters, State Policy Network affiliates (Mackinac Center in Michigan), and National Right to Work Committee ($1M from Freedom Partners in 2012 alone; $33M in lobbying 1999–2013).
 >
 > **California Policy Center** (Tustin, CA): State Policy Network member. Funded by Charles Koch Foundation and [[DonorsTrust|DonorsTrust]]. Focused on undermining California union power — pension reform, school choice, anti-union messaging.
 
-**Associated Builders and Contractors (ABC):** The non-union contractor trade association — [[IBEW - International Brotherhood of Electrical Workers|IBEW]]'s direct adversary. ABC opposes prevailing wage, PLAs, and Davis-Bacon. Direct Koch funding not confirmed in available sources, but ABC is aligned with Koch policy goals and operates within the same anti-labor ecosystem. ABC's "merit shop" agenda is the employer-side complement to the Koch legal strategy.
+**Associated Builders and Contractors (ABC):** The non-union contractor trade association, [[IBEW - International Brotherhood of Electrical Workers|IBEW]]'s direct adversary. ABC opposes prevailing wage, PLAs, and Davis-Bacon. Direct Koch funding not confirmed in available sources, but ABC is aligned with Koch policy goals and operates within the same anti-labor ecosystem. ABC's "merit shop" agenda is the employer-side complement to the Koch legal strategy.
 
 ---
 
@@ -123,14 +123,14 @@ Koch Industries has no major refining or pipeline operations in California (faci
 
 - **Pacific Research Institute** (Tustin): $2.08M Koch funding. Project 2025 advisory board.
 - **California Policy Center** (Tustin): State Policy Network affiliate. Koch-funded anti-union think tank.
-- **AFP California chapter:** Lobbied for Prop 23 (2010) — the attempt to suspend AB 32 (California's landmark climate law). **Flint Hills Resources (Koch subsidiary) donated $1 million to Yes on 23.** Prop 23 was defeated.
+- **AFP California chapter:** Lobbied for Prop 23 (2010), the attempt to suspend AB 32 (California's landmark climate law). **Flint Hills Resources (Koch subsidiary) donated $1 million to Yes on 23.** Prop 23 was defeated.
 - **AFP Action House races (2024):** Koch network targeted swing-district House races in California as part of a two-dozen-race national strategy. Specific California spending not separately quantified from the $160M+ total.
 
 ---
 
 ### The justice system Paradox
 
-The Koch network's one genuinely bipartisan initiative: justice system reform. The **Coalition for Public Safety** (2015) brought Koch Industries together with the ACLU, Center for American Progress, Faith and Freedom Coalition, and Right on Crime. Initial funding: $5 million. Koch's Mark Holden (General Counsel) led the lobbying effort that helped pass the **FIRST STEP Act** (2018) — reducing some mandatory minimums, expanding rehabilitation programs, bipartisan 87–12 Senate vote.
+The Koch network's one genuinely bipartisan initiative: justice system reform. The **Coalition for Public Safety** (2015) brought Koch Industries together with the ACLU, Center for American Progress, Faith and Freedom Coalition, and Right on Crime. Initial funding: $5 million. Koch's Mark Holden (General Counsel) led the lobbying effort that helped pass the **FIRST STEP Act** (2018), reducing some mandatory minimums, expanding rehabilitation programs, bipartisan 87–12 Senate vote.
 
 > [!contradiction] Criminal Justice Reform vs. Everything Else
 > The Koch network funded the litigation that gutted public-sector union revenues (Janus), funds the organizations that fight prevailing wage and PLAs (National Right to Work, AFP), poured $4.4M+ into Project 2025 organizations, and spent $548M in the 2024 cycle to elect Republican candidates. They also partnered with the ACLU to reduce prison sentences. Both things are true. The criminal justice work is genuine — Stand Together's Safe Streets program tracked 1,100 inmates in 4 states, $4M pilot phase with FSU researchers. But it exists alongside a political operation that has done more to destroy working-class organizational power than any other force in American politics.
@@ -155,15 +155,15 @@ The justice system reform work is real, and that is precisely the point. The Koc
 
 ### Enemies / Opposition
 
-**Organized labor** — every union in the vault is a Koch network target.
+**Organized labor**, every union in the vault is a Koch network target.
 
-**CMD / EXPOSEDbyCMD (Center for Media and Democracy)** — primary investigative organization tracking Koch dark money flows.
+**CMD / EXPOSEDbyCMD (Center for Media and Democracy)**, primary investigative organization tracking Koch dark money flows.
 
-**SourceWatch / InfluenceWatch** — competing research databases (SourceWatch tracks Koch from the left; InfluenceWatch is Koch-aligned).
+**SourceWatch / InfluenceWatch**, competing research databases (SourceWatch tracks Koch from the left; InfluenceWatch is Koch-aligned).
 
-**DeSmog** — tracks Koch climate denial funding.
+**DeSmog**, tracks Koch climate denial funding.
 
-**OpenSecrets** — FEC data and outside spending tracking.
+**OpenSecrets**. FEC data and outside spending tracking.
 
 ---
 
@@ -175,13 +175,13 @@ The justice system reform work is real, and that is precisely the point. The Koc
 | 1984–2010 | Koch foundations fund Mercatus Center at GMU | $48M (2011–2014 alone) | Mercatus produces regulatory cost analyses adopted by Republican administrations | Multi-decade | Academic legitimacy for anti-regulation agenda |
 | 2003 | First Koch Donor Summit | 15 donors | Strategy session and donor coordination established | Ongoing | Model replicated; by 2015, $249M pledged in single session |
 | 2009–2010 | AFP mobilizes Tea Party opposition; [[Koch Industries]] $1M to Yes on 23 (CA) | $45M+ AFP, $1M Prop 23 | 2010 midterm wave: 63 House seats flip; Prop 23 defeated in CA | 6–12 months | Tea Party wave guts Democratic supermajority; CA climate law survives |
-| 2010 | REDMAP — $30M invested in state races | $30M | Flipped 12 state legislatures; won 675 state seats | Immediate | Redistricting control locked in decade of gerrymandered maps |
+| 2010 | REDMAP, $30M invested in state races | $30M | Flipped 12 state legislatures; won 675 state seats | Immediate | Redistricting control locked in decade of gerrymandered maps |
 | 2012 | Freedom Partners gives $1M to National Right to Work Committee | $1M | Right-to-work passes in Michigan (2012), Wisconsin (2015), others | 1–3 years | Union membership declines in every state where right-to-work passes |
 | 2012–2018 | Koch-funded NRTW Legal Defense Foundation + Liberty Justice Center fund Janus litigation | Undisclosed (estimated $5M+) | *Janus v. AFSCME* decided 5–4 (June 2018) | 6 years | Public-sector union revenues collapse nationally; SEIU Local 1000 dues down 49% |
 | 2015 | Koch Donor Summit (January) | $249M pledged | Network reaffirmation; strategic planning | Immediate | Record pledge session; demonstrates donor base consolidation |
 | 2017 | Koch donor network pledges $20M campaign for tax reform; AFP runs ad blitzes | $20M+ advocacy spending | Tax Cuts and Jobs Act signed December 2017 | ~6 months | Koch Industries saves estimated $840M–$1.4B annually; 25–35x ROI |
 | 2017 | Federalist Society dark money for Supreme Court confirmation (Gorsuch) | $10M+ | Neil Gorsuch confirmed; originalist Supreme Court supermajority locked in | Concurrent | 20+ years of judicial power to strike down regulations |
-| 2017–2018 | Scott Pruitt EPA Administrator; Koch-funded legal defense; EPA staff emails show AFP coordination | $175K legal fund | Rollbacks: Clean Power Plan, Waters of the U.S., methane standards | 6 months | EPA becomes captured agency; environmental regulations gutted |
+| 2017–2018 | Scott Pruitt EPA Administrator; Koch-funded legal defense; EPA staff emails show AFP coordination | $175K legal fund | Rollbacks: Clean Power Plan, Waters of the U.S. methane standards | 6 months | EPA becomes captured agency; environmental regulations gutted |
 | 2018 | Federalist Society/Leonard Leo dark money for Kavanaugh confirmation | $10M+ | Brett Kavanaugh confirmed; 6–3 conservative supermajority locked in | Concurrent | Chevron deference challenged; labor regulations endangered |
 | 2020 | Federalist Society/Leonard Leo dark money for Barrett confirmation | $10M+ | Amy Coney Barrett confirmed; 6–3 conservative supermajority solidified | Concurrent | Loper Lira ruling (2024) overturns Chevron; regulatory state weakened |
 | 2020 | Koch network $1.1B across 200+ state/congressional races (sits out Trump reelection) | $1.1B gross | Senate flips; Republican House maintains majority; state legislatures shift | 2020–2021 | Koch network pivots to institutional power independent of Trump |
@@ -200,24 +200,24 @@ The justice system reform work is real, and that is precisely the point. The Koc
 
 ### The Donor Summit Machine
 
-The Koch Network's financial structure begins with the **twice-yearly donor summits** — exclusive gatherings of 450–700 ultra-wealthy donors, each with a $100K+/year minimum buy-in. The first summit in 2003 included just 15 donors; by January 2015, the assembled group had pledged $249 million in a single session.
+The Koch Network's financial structure begins with the **twice-yearly donor summits**, exclusive gatherings of 450–700 ultra-wealthy donors, each with a $100K+/year minimum buy-in. The first summit in 2003 included just 15 donors; by January 2015, the assembled group had pledged $249 million in a single session.
 
-**Summit logistics:** Held in Palm Springs, California, and Colorado Springs, Colorado. Saturday features Charles Koch's welcome address and strategy overview. Sunday showcases candidate presentations. Monday is the **pledge session** — where donors commit capital to the network.
+**Summit logistics:** Held in Palm Springs, California, and Colorado Springs, Colorado. Saturday features Charles Koch's welcome address and strategy overview. Sunday showcases candidate presentations. Monday is the **pledge session**, where donors commit capital to the network.
 
-**The anonymization structure:** Rather than donate directly to [[Americans for Prosperity|AFP]] or other operational groups, donors contribute to the **[[Stand Together|Stand Together]] Chamber of Commerce**, a 501(c)(6) umbrella organization. Stand Together then distributes funds to operational entities including AFP, LIBRE Initiative, Concerned Veterans, and think tanks — while the original donor identities remain confidential due to 501(c)(6) privacy rules.
+**The anonymization structure:** Rather than donate directly to [[Americans for Prosperity|AFP]] or other operational groups, donors contribute to the **[[Stand Together|Stand Together]] Chamber of Commerce**, a 501(c)(6) umbrella organization. Stand Together then distributes funds to operational entities including AFP, LIBRE Initiative, Concerned Veterans, and think tanks, while the original donor identities remain confidential due to 501(c)(6) privacy rules.
 
 ### Network Spending by Election Cycle:
 
 | Cycle | Goal | Actual Spend | Context |
 |---|---|---|---|
-| 2010 | — | ~$200M | Tea Party wave; flipped 63 House seats |
-| 2012 | — | $407M | Failed to defeat Obama; Janus litigation begins |
-| 2014 | — | $290M | Won Senate majority for Republicans |
+| 2010 |, | ~$200M | Tea Party wave; flipped 63 House seats |
+| 2012 |, | $407M | Failed to defeat Obama; Janus litigation begins |
+| 2014 |, | $290M | Won Senate majority for Republicans |
 | 2016 | $889M | $750M | Declined to support Trump; diversified state/down-ballot |
 | 2018 | $300–400M | ~$400M | Open break with Trump on tariffs |
-| 2020 | — | $1.1B (gross) | Sat out presidential; targeted 200+ state/congressional races |
-| 2022 | — | $787M (net) | Record AFP spending; Democrats won 3 seats in adverse environment |
-| 2024 | — | $548M | Haley primary ($31M) + anti-Trump ($10M) + Senate pivot |
+| 2020 |, | $1.1B (gross) | Sat out presidential; targeted 200+ state/congressional races |
+| 2022 |, | $787M (net) | Record AFP spending; Democrats won 3 seats in adverse environment |
+| 2024 |, | $548M | Haley primary ($31M) + anti-Trump ($10M) + Senate pivot |
 
 > [!money] The Summit as Capital Concentration
 > The twice-yearly summit is the Koch Network's answer to the question: "How do you coordinate political spending among 700 billionaires and hundred-millionaires without creating a formal cartel?" Answer: an exclusive membership club with anonymizing pass-throughs. Every donor in the room knows that 501(c)(6) privacy rules will shield their identity from public disclosure. Every donor receives detailed audits of where their money went — candidates, think tanks, legal organizations — and what policy outcomes resulted. The $249M single-session pledge in 2015 was not altruistic libertarianism. It was a coordinated capital strike: donors saying, "We want specific policy outcomes, and we're willing to fund them until we get them." ~~[Source: ~~[Politico: Koch 2016 — 702 million pledge](https://www.politico.com/story/2015/01/koch-2016-702-million-702-million-114604)~~ (was Tier 2 — URL broken, archived by Ops)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2) (UNVERIFIED)]
@@ -228,20 +228,20 @@ The Koch Network's financial structure begins with the **twice-yearly donor summ
 
 The 2014 **[[Freedom Partners]]** FEC filing revealed the network's core mega-donor base:
 
-- **[[Robert Mercer]]** (Renaissance Technologies): $2.5M to Freedom Partners (2014) — hedge fund billionaire; later major Trump benefactor
+- **[[Robert Mercer]]** (Renaissance Technologies): $2.5M to Freedom Partners (2014), hedge fund billionaire; later major Trump benefactor
 - **DeVos family** (Amway heirs): $3M+ to AFP Foundation; Betsy DeVos became U.S. Education Secretary under Trump (2017–2021)
 - **[[Sheldon Adelson]]** (Las Vegas Sands Casino): Attended 2012 summit; major Trump donor; died January 2021
 - **[[Paul Singer]]** (Elliott Management hedge fund): Summit participant; major platform for Koch-aligned policy
 - **Diane Hendricks** (ABC Supply): Major ongoing donor to Koch network and AFP
 - **Walton family** (Walmart heirs): Rob and Alice Walton combined $10M+ (2023); largest retail mega-donors outside Koch network
 
-This list understates the network's total donor count — the summit regularly includes 700+ participants, many of whom donate anonymously through pass-throughs like [[DonorsTrust|DonorsTrust]]. The named donors above represent the highest-visibility contributors.
+This list understates the network's total donor count, the summit regularly includes 700+ participants, many of whom donate anonymously through pass-throughs like [[DonorsTrust|DonorsTrust]]. The named donors above represent the highest-visibility contributors.
 
 [Source: [ProPublica Nonprofit Explorer: Freedom Partners Chamber of Commerce EIN 52-2166327](https://projects.propublica.org/nonprofits/organizations/522166327) (Tier 1) (VERIFIED)]
 
 ---
 
-### Freedom Partners — The Network's Bank
+### Freedom Partners. The Network's Bank
 
 **Freedom Partners Chamber of Commerce** served as the Koch Network's central distribution mechanism from 2011–2014. A 501(c)(6) nonprofit, Freedom Partners received commitments from wealthy donors and directed grants to operational organizations.
 
@@ -249,26 +249,26 @@ This list understates the network's total donor count — the summit regularly i
 
 | Year | Revenue | Grants to Operatives | Key Recipients |
 |---|---|---|---|
-| 2011 (partial) | $256M | — | Formation year |
+| 2011 (partial) | $256M |, | Formation year |
 | 2012 | $255M | $236M to 60+ organizations | AFP ($32.3M), Center to Protect Patient Rights ($115M), 60 Plus Association ($15.7M) |
-| 2013 | $199M | — | Continued distribution |
-| 2014 | $139M | — | Revenue decline as Stand Together rebrand begun |
+| 2013 | $199M |, | Continued distribution |
+| 2014 | $139M |, | Revenue decline as Stand Together rebrand begun |
 
 The single-year distribution of $236M (2012) to 60+ organizations shows the breadth of the Koch political ecosystem: not just AFP (the grassroots group), but also the legal organizations (60 Plus Association funded Janus litigation), policy shops, and dark money pass-throughs.
 
-By 2014, Freedom Partners had begun transitioning to the [[Stand Together|Stand Together]] brand — a renaming designed to obscure the Koch connection and rebrand the network as a non-ideological "community building" initiative.
+By 2014, Freedom Partners had begun transitioning to the [[Stand Together|Stand Together]] brand, a renaming designed to obscure the Koch connection and rebrand the network as a non-ideological "community building" initiative.
 
 [Source: [ProPublica Nonprofit Explorer: Freedom Partners EIN 52-2166327](https://projects.propublica.org/nonprofits/organizations/522166327) (Tier 1) (VERIFIED)]
 
 ---
 
-### DonorsTrust — The Anonymizing Architecture
+### DonorsTrust. The Anonymizing Architecture
 
 **DonorsTrust** (founded 1999, EIN 52-2166327) and **[[Donors Capital Fund]]** (EIN 54-1934032) operate the Koch Network's most sophisticated dark money mechanism: the **donor-advised fund (DAF)** structure.
 
-**How it works:** A donor makes an irrevocable gift to DonorsTrust (minimum $10K) or Donors Capital Fund (minimum $1M). The gift is immediately tax-deductible. DonorsTrust places the capital in a donor-advised fund bearing the donor's name — but the donor's name never appears in public filings. Instead, DonorsTrust makes grants to operational organizations on the donor's behalf. When the operational organization files its 990 tax form, it lists "DonorsTrust" as the source, not the original ultra-wealthy donor. Schedule B (the schedule listing restricted gifts) remains confidential.
+**How it works:** A donor makes an irrevocable gift to DonorsTrust (minimum $10K) or Donors Capital Fund (minimum $1M). The gift is immediately tax-deductible. DonorsTrust places the capital in a donor-advised fund bearing the donor's name, but the donor's name never appears in public filings. Instead, DonorsTrust makes grants to operational organizations on the donor's behalf. When the operational organization files its 990 tax form, it lists "DonorsTrust" as the source, not the original ultra-wealthy donor. Schedule B (the schedule listing restricted gifts) remains confidential.
 
-**Whitney Ball**, founding president of DonorsTrust, explicitly stated the organization's mission: to ensure that donations go to "liberty" organizations **even after the donor's death** — creating permanent political capital flows that outlive their creators.
+**Whitney Ball**, founding president of DonorsTrust, explicitly stated the organization's mission: to ensure that donations go to "liberty" organizations **even after the donor's death**, creating permanent political capital flows that outlive their creators.
 
 ### Financial Scale:
 
@@ -280,8 +280,8 @@ By 2014, Freedom Partners had begun transitioning to the [[Stand Together|Stand 
 | 2021 | $1,094M | $1,328M | $9.5M | $14.1M |
 | 2023 | $257.2M | $1,219M | $6.7M | $10.3M |
 
-### The 2021 Spike — Largest Dark Money Donation in History:
-In 2021, DonorsTrust received a **$425 million anonymous donation** — the single largest dark money gift in American political history (confirmed by Politico). The identity of the donor remains unknown to this day. The capital has since been distributed to a network of conservative and libertarian organizations.
+### The 2021 Spike. Largest Dark Money Donation in History:
+In 2021, DonorsTrust received a **$425 million anonymous donation**, the single largest dark money gift in American political history (confirmed by Politico). The identity of the donor remains unknown to this day. The capital has since been distributed to a network of conservative and libertarian organizations.
 
 Additionally, billionaire **[[Barre Seid]]** (Heartland Payment Systems) separately gifted **$1.6 billion** to a Leonard Leo-controlled entity, creating a parallel dark money dynasty.
 
@@ -302,11 +302,11 @@ Additionally, billionaire **[[Barre Seid]]** (Heartland Payment Systems) separat
 > [!money] Dark Money Mathematics
 > A donor gives $1.6 billion to DonorsTrust. The donor gets a tax deduction immediately (roughly $560M in federal tax savings at 35% marginal rate). DonorsTrust distributes that capital over 20+ years to right-wing organizations, but no voter ever knows who funded the campaign against them. This is the mathematical advantage that conservative dark money has over transparent political giving: the deduction is permanent, the anonymity is permanent, and the political impact is permanent. The donor is never named. The organizations that receive the funding (State Policy Network, Federalist Society, ALEC, CEI) become the public faces of the agenda — while their funding sources remain hidden. This is the architecture that Charles Koch and Whitney Ball built.
 
-[Source: [ProPublica Nonprofit Explorer: DonorsTrust EIN 52-2166327](https://projects.propublica.org/nonprofits/organizations/522166327) (Tier 1) (VERIFIED); [ProPublica Nonprofit Explorer: Donors Capital Fund EIN 54-1934032](https://projects.propublica.org/nonprofits/organizations/541934032) (Tier 1) (VERIFIED); ~~[Politico: Dark money donation conservative organizations](https://www.politico.com/news/2022/08/22/dark-money-donation-conservative-00052809)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2); ~~[Mother Jones: DonorsTrust, the dark money donor-advised fund](https://www.motherjones.com/politics/2013/02/donors-trust-donor-advised-fund-koch-dark-money/)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 2) (UNVERIFIED); [The Guardian: DonorsTrust funding climate denial](https://www.theguardian.com/environment/2013/feb/14/donors-trust-funding-climate-denial-networks) (Tier 2) (VERIFIED)]
+[Source: [ProPublica Nonprofit Explorer: DonorsTrust EIN 52-2166327](https://projects.propublica.org/nonprofits/organizations/522166327) (Tier 1) (VERIFIED); [ProPublica Nonprofit Explorer: Donors Capital Fund EIN 54-1934032](https://projects.propublica.org/nonprofits/organizations/541934032) (Tier 1) (VERIFIED); ~~[Politico: Dark money donation conservative organizations](https://www.politico.com/news/2022/08/22/dark-money-donation-conservative-00052809)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2); ~~[Mother Jones: DonorsTrust, the dark money donor-advised fund](https://www.motherjones.com/politics/2013/02/donors-trust-donor-advised-fund-koch-dark-money/)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 2) (UNVERIFIED); [The Guardian: DonorsTrust funding climate denial](https://www.theguardian.com/environment/2013/feb/14/donors-trust-funding-climate-denial-networks) (Tier 2) (VERIFIED)]
 
 ---
 
-### AFP — The Ground Army (Expanded)
+### AFP. The Ground Army (Expanded)
 
 **[[Americans for Prosperity]]** has grown from a $3M startup (2004, 9 state chapters) into a $228M fiscal powerhouse (2024, 36 state chapters, 100+ permanent offices, 4 million claimed activists).
 
@@ -326,24 +326,24 @@ Additionally, billionaire **[[Barre Seid]]** (Heartland Payment Systems) separat
 
 **State Infrastructure:** AFP now operates in 36 states with permanent field staff. As of 2015, the organization employed state lobbyists in 29 states (62 total), per a CREW (Citizens for Responsibility and Ethics in Washington) count. The organization claims 4 million "activists" in its direct action network and logged 14 million doors knocked in 2024.
 
-**The i360 Data Platform:** AFP (and the broader Koch Network) operates **i360**, a proprietary voter data and microtargeting platform. i360 maintains hundreds of millions of voter profiles, integrating commercial data (purchase history, demographics, geography) with political targeting. The platform enables AFP to identify, contact, and micro-message individual voters — creating a surveillance-based grassroots machine.
+**The i360 Data Platform:** AFP (and the broader Koch Network) operates **i360**, a proprietary voter data and microtargeting platform. i360 maintains hundreds of millions of voter profiles, integrating commercial data (purchase history, demographics, geography) with political targeting. The platform enables AFP to identify, contact, and micro-message individual voters, creating a surveillance-based grassroots machine.
 
 ### AFP Issue Campaign Win/Loss Record (2009–2025):
 
 | Campaign | Position | Outcome | Impact |
 |---|---|---|---|
-| Cap-and-Trade (2009–2010) | Oppose | Never passed Senate | **WIN** — Prevented climate legislation |
-| 2010 House | Elect GOP | Flipped 63 House seats; Democrats lost supermajority | **WIN** — Produced Tea Party wave |
-| 2012 Obama Reelection | Oppose | Obama won reelection; AFP spent $122M | **LOSS** — Failed to defeat Obama |
-| Wisconsin Act 10 (2011) | Support | Passed; Gov. Walker survived 2012 recall | **WIN** — Gutted Wisconsin public-sector unions |
-| ACA Repeal (2017) | Support | ACA survived 50-vote threshold; Collins, Murkowski no votes | **LOSS** — Failed to repeal Obamacare |
-| Medicaid Block-Grant (FL, TN, KS) | Block | States did not expand Medicaid | **WIN** — Prevented healthcare expansion in GOP states |
-| Medicaid Expansion (VA, LA, NE) | Block | States expanded Medicaid anyway | **LOSS** — Medicaid expanded despite opposition |
-| Tax Cuts and Jobs Act (2017) | Support | Passed 51–49 Senate; signed December 2017 | **WIN** — $20M campaign; 25-to-35x ROI |
-| Right-to-Work (IN, MI, WI, KY, WV) | Support | All five states passed RTW (Michigan repealed in 2024) | **WIN** — Collapsed public-sector union membership |
-| Inflation Reduction Act (2022) | Oppose | Passed 51–50 (Harris tiebreaker); $369B climate/clean energy | **LOSS** — Climate bill passed despite AFP opposition |
-| "One Big Beautiful Bill" (2025) | Support | Passed; Trump tax cuts + deregulation bundle | **WIN** — $20M campaign |
-| No Climate Tax Pledge | Promote | 411 lawmakers signed (1/4 Senate, 1/3 House) | **WIN** — Created veto power over climate policy |
+| Cap-and-Trade (2009–2010) | Oppose | Never passed Senate | **WIN**. Prevented climate legislation |
+| 2010 House | Elect GOP | Flipped 63 House seats; Democrats lost supermajority | **WIN**. Produced Tea Party wave |
+| 2012 Obama Reelection | Oppose | Obama won reelection; AFP spent $122M | **LOSS**. Failed to defeat Obama |
+| Wisconsin Act 10 (2011) | Support | Passed; Gov. Walker survived 2012 recall | **WIN**. Gutted Wisconsin public-sector unions |
+| ACA Repeal (2017) | Support | ACA survived 50-vote threshold; Collins, Murkowski no votes | **LOSS**. Failed to repeal Obamacare |
+| Medicaid Block-Grant (FL, TN, KS) | Block | States did not expand Medicaid | **WIN**. Prevented healthcare expansion in GOP states |
+| Medicaid Expansion (VA, LA, NE) | Block | States expanded Medicaid anyway | **LOSS**. Medicaid expanded despite opposition |
+| Tax Cuts and Jobs Act (2017) | Support | Passed 51–49 Senate; signed December 2017 | **WIN**, $20M campaign; 25-to-35x ROI |
+| Right-to-Work (IN, MI, WI, KY, WV) | Support | All five states passed RTW (Michigan repealed in 2024) | **WIN**. Collapsed public-sector union membership |
+| Inflation Reduction Act (2022) | Oppose | Passed 51–50 (Harris tiebreaker); $369B climate/clean energy | **LOSS**. Climate bill passed despite AFP opposition |
+| "One Big Beautiful Bill" (2025) | Support | Passed; Trump tax cuts + deregulation bundle | **WIN**, $20M campaign |
+| No Climate Tax Pledge | Promote | 411 lawmakers signed (1/4 Senate, 1/3 House) | **WIN**. Created veto power over climate policy |
 
 **Summary:** AFP achieved 7 of 11 measurable campaign outcomes (64% win rate). The losses (2012 Obama, 2017 ACA repeal, 2022 IRA) represent $500M+ combined spending. The wins (especially 2017 tax reform and right-to-work passage) generated returns measured in billions.
 
@@ -353,7 +353,7 @@ Additionally, billionaire **[[Barre Seid]]** (Heartland Payment Systems) separat
 
 ### AFP Action Super PAC
 
-**AFP Action** (FEC ID: C00687103) is the electoral arm of the Koch Network — a super PAC that began operations in 2018. Unlike AFP's 501(c)(4) structure (which allows some candidate coordination), AFP Action operates as a traditional super PAC with unlimited fundraising and mandatory disclosure.
+**AFP Action** (FEC ID: C00687103) is the electoral arm of the Koch Network, a super PAC that began operations in 2018. Unlike AFP's 501(c)(4) structure (which allows some candidate coordination), AFP Action operates as a traditional super PAC with unlimited fundraising and mandatory disclosure.
 
 ### Electoral Cycle Spending:
 
@@ -375,11 +375,11 @@ The 2024 cycle shows a network operating with internal constraints: even while o
 
 ---
 
-### Climate Denial Funding — The $168M+ Infrastructure
+### Climate Denial Funding. The $168M+ Infrastructure
 
 The Koch Network has systematically funded climate denial and obstruction for four decades through two channels: direct foundation grants and anonymized dark money pass-throughs via Donors Trust.
 
-### Total Climate Denial Spending — Cumulative Record (Tier 1 Data):
+### Total Climate Denial Spending. Cumulative Record (Tier 1 Data):
 
 | Period | Amount | Notes |
 |--------|--------|-------|
@@ -389,50 +389,50 @@ The Koch Network has systematically funded climate denial and obstruction for fo
 | **2005–2008 (single peak period)** | **$25 million** | Outspent ExxonMobil 3:1 during this period |
 | **2004–2006** | **$5.3 million** | 93% increase in just two years |
 
-**Key Findings:** The Koch network gave more to climate change-denying organizations than ExxonMobil — "the world's largest public oil company" — according to a 2010 Greenpeace report. Since 2008, Koch shifted to routing money through untraceable pass-through organizations (especially [[DonorsTrust]]), making full accounting impossible.
+**Key Findings:** The Koch network gave more to climate change-denying organizations than ExxonMobil, "the world's largest public oil company", according to a 2010 Greenpeace report. Since 2008, Koch shifted to routing money through untraceable pass-through organizations (especially [[DonorsTrust]]), making full accounting impossible.
 
 ### Direct Recipients and Funding Amounts:
 
-1. **[[Heartland Institute]]** — Climate denial conference coordinator
-   - Received multiple millions from Koch foundations (direct grants)
-   - Received **$14.5 million from DonorsTrust** (2002–2011)
-   - Anonymous donor (suspected Koch-connected) gave **$8.6 million specifically for "Global Warming Projects"** (2007-2011) — in some years providing over 50% of Heartland's total revenue
+1. **[[Heartland Institute]]**. Climate denial conference coordinator
+ - Received multiple millions from Koch foundations (direct grants)
+ - Received **$14.5 million from DonorsTrust** (2002–2011)
+ - Anonymous donor (suspected Koch-connected) gave **$8.6 million specifically for "Global Warming Projects"** (2007-2011), in some years providing over 50% of Heartland's total revenue
 
-2. **Mercatus Center (George Mason University)** — Koch co-founded, Koch controls
-   - Co-founded by Charles Koch and Richard Fink (1980)
-   - Charles Koch sits on board of directors
-   - **$179 million received from Koch foundations** (2005–2019)
-   - **$128.6 million received** (2018–2022 alone — 5 years)
-   - **$80 million** (2005–2014)
-   - Produces "research" legitimizing deregulation; feeds directly into Republican policy-making
-   - **Donor control conditions:** Koch foundation grants came with conditions allowing Koch to participate in faculty selection, including naming members of search committees for endowed professorships (2018 New York Times investigation)
+2. **Mercatus Center (George Mason University)**. Koch co-founded, Koch controls
+ - Co-founded by Charles Koch and Richard Fink (1980)
+ - Charles Koch sits on board of directors
+ - **$179 million received from Koch foundations** (2005–2019)
+ - **$128.6 million received** (2018–2022 alone, 5 years)
+ - **$80 million** (2005–2014)
+ - Produces "research" legitimizing deregulation; feeds directly into Republican policy-making
+ - **Donor control conditions:** Koch foundation grants came with conditions allowing Koch to participate in faculty selection, including naming members of search committees for endowed professorships (2018 New York Times investigation)
 
 3. **Competitive Enterprise Institute (CEI)**
-   - Received **$361,000** from Koch Foundation (2014–2020, traceable)
-   - Received **multiple undisclosed direct payments** from Koch Industries and David Koch (2009–2019)
-   - **Secret sponsor:** Koch Industries was "secret sponsor" of CEI's 2019 annual fundraising dinner (omitted from printed programs)
-   - Documents show Koch Industries **coordinated with CEI and Cato on climate change activities:** "Koch, CEI, and [Patrick] Michaels meet periodically to discuss activities [related to climate change]"
-   - CEI published and promoted Koch-funded climate denial materials
+ - Received **$361,000** from Koch Foundation (2014–2020, traceable)
+ - Received **multiple undisclosed direct payments** from Koch Industries and David Koch (2009–2019)
+ - **Secret sponsor:** Koch Industries was "secret sponsor" of CEI's 2019 annual fundraising dinner (omitted from printed programs)
+ - Documents show Koch Industries **coordinated with CEI and Cato on climate change activities:** "Koch, CEI, and [Patrick] Michaels meet periodically to discuss activities [related to climate change]"
+ - CEI published and promoted Koch-funded climate denial materials
 
 4. **Institute for Energy Research (IER) / American Energy Alliance (AEA)**
-   - Charles Koch co-founded IER
-   - Received **$489,000** from Koch Foundation (2014–2020)
-   - AEA (IER's lobbying arm) received **$1.2 million** from American Fuel and Petrochemical Manufacturers (whose board chairman is the CEO of Flint Hills Resources) (2015–2018)
-   - Thomas Pyle, IER president and **former Koch Industries Director of Federal Affairs** (lobbyist 2001-2005), led Trump's Department of Energy transition
-   - IER and AEA actively oppose renewable energy standards nationally and provide testimony against wind/solar policies in multiple states
+ - Charles Koch co-founded IER
+ - Received **$489,000** from Koch Foundation (2014–2020)
+ - AEA (IER's lobbying arm) received **$1.2 million** from American Fuel and Petrochemical Manufacturers (whose board chairman is the CEO of Flint Hills Resources) (2015–2018)
+ - Thomas Pyle, IER president and **former Koch Industries Director of Federal Affairs** (lobbyist 2001-2005), led Trump's Department of Energy transition
+ - IER and AEA actively oppose renewable energy standards nationally and provide testimony against wind/solar policies in multiple states
 
 5. **[[Cato Institute]]**
-   - Co-founded by Charles Koch (1977)
-   - Koch families funded "large portion of Cato's bills in its early years"
-   - Charles Koch Foundation gave **$98,000 to Cato in 2017 alone**
-   - Cato runs active climate skepticism program
+ - Co-founded by Charles Koch (1977)
+ - Koch families funded "large portion of Cato's bills in its early years"
+ - Charles Koch Foundation gave **$98,000 to Cato in 2017 alone**
+ - Cato runs active climate skepticism program
 
 6. **DonorsTrust / Donors Capital Fund**
-   - **From 2002 to 2011:** Distributed **$146 million to climate denial organizations**
-   - **From 2014 to 2020:** Distributed **$20.6 million to leading climate misinformation groups** — the single largest tracked funder of climate denial in that period
-   - Koch's **Knowledge and Progress Fund** funnels money exclusively to DonorsTrust, creating anonymization layer that obscures Koch's fingerprints
+ - **From 2002 to 2011:** Distributed **$146 million to climate denial organizations**
+ - **From 2014 to 2020:** Distributed **$20.6 million to leading climate misinformation groups**, the single largest tracked funder of climate denial in that period
+ - Koch's **Knowledge and Progress Fund** funnels money exclusively to DonorsTrust, creating anonymization layer that obscures Koch's fingerprints
 
-### Climate Denial Infrastructure Table — Selected Recipients:
+### Climate Denial Infrastructure Table. Selected Recipients:
 
 | Organization | Koch Foundation Grants | Additional Funding | Total Track Period | Purpose |
 |---|---|---|---|---|
@@ -445,18 +445,18 @@ The Koch Network has systematically funded climate denial and obstruction for fo
 > [!contradiction] The Scientific Denial Model
 > Between 1986 and 2018, Koch network foundations donated $168.4 million to 90 organizations spreading climate denial. This is not a rounding error — it is the deliberate construction of an anti-scientific consensus infrastructure. The organizations that received Koch money (Heartland, Mercatus, CEI) employ similar tactics that tobacco companies used in the 1990s to deny secondhand smoke health effects: manufacture scientific doubt, publish "research" claiming regulation is unnecessary, and pressure politicians to oppose emissions controls. Koch's Heartland Institute explicitly worked with tobacco companies on these denial tactics in the 1990s. The climate denial operation is the same playbook, applied to carbon. The $168 million was the cost of manufacturing enough political obstruction to prevent U.S. carbon pricing for four decades — a regulatory protection worth billions annually to Koch Industries' fossil fuel operations.
 
-~~[Source: [Greenpeace – Koch Secretly Funding Climate Denial Machine](https://www.greenpeace.org/global/usa/climate/climate-deniers/koch-industries/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2); [DeSmog – Koch Funding Unmasked](https://www.desmog.com/2010/03/29/koch-industries-extensive-funding-climate-denial-industry-unmasked/) (Tier 2) (VERIFIED); ~~[EXPOSEDbyCMD – Dirty Dozen Funders](https://www.exposedbycmd.org/2022/03/21/the-dirty-dozen-the-biggest-nonprofit-funders-of-climate-denial/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2); ~~[NYT – What Charles Koch Donors Got at GMU](https://www.nytimes.com/2018/05/05/us/koch-donors-george-mason.html)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)]
+~~[Source: [Greenpeace – Koch Secretly Funding Climate Denial Machine](https://www.greenpeace.org/global/usa/climate/climate-deniers/koch-industries/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2); [DeSmog – Koch Funding Unmasked](https://www.desmog.com/2010/03/29/koch-industries-extensive-funding-climate-denial-industry-unmasked/) (Tier 2) (VERIFIED); ~~[EXPOSEDbyCMD – Dirty Dozen Funders](https://www.exposedbycmd.org/2022/03/21/the-dirty-dozen-the-biggest-nonprofit-funders-of-climate-denial/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2); ~~[NYT – What Charles Koch Donors Got at GMU](https://www.nytimes.com/2018/05/05/us/koch-donors-george-mason.html)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)]
 
 ---
 
-### ALEC and State Policy Network — The State-Level Pipeline
+### ALEC and State Policy Network. The State-Level Pipeline
 
 The Koch Network's most sophisticated state-level operation is the **American Legislative Exchange Council (ALEC)**, a 501(c)(3) that serves as a factory for model legislation.
 
 **Koch Funding:** ALEC has received $7M+ from Koch-aligned sources, including corporate membership fees, foundation grants, and DonorsTrust distributions ($2.2M).
 
 ### The 7-Step ALEC Pipeline:
-1. Corporate members draft model bills (e.g., "Stand Your Ground" gun laws, voter ID restrictions, right-to-work templates)
+1. Corporate members draft model bills (e.g. "Stand Your Ground" gun laws, voter ID restrictions, right-to-work templates)
 2. Bills go to task force vote (populated by ALEC member state legislators and lobbyists)
 3. Board approves; bill is labeled "ALEC Model Legislation"
 4. ALEC distributes bills to ~2,000 state legislators (all ALEC members)
@@ -464,7 +464,7 @@ The Koch Network's most sophisticated state-level operation is the **American Le
 6. Koch-aligned groups (AFP chapters, State Policy Network) provide outside advocacy and lobbying
 7. Bill becomes law in target states; ALEC repeats in next state
 
-**Replication Rate:** 2010–2018, roughly 2,900 ALEC bills were introduced across all states, and 600+ were enacted — a 9% passage rate, approximately **4.5 times the average bill passage rate**. This shows ALEC's structural advantage: a member state legislator introducing a bill drafted by ALEC and already passed in three other states faces less uncertainty and skepticism than an ordinary legislator.
+**Replication Rate:** 2010–2018, roughly 2,900 ALEC bills were introduced across all states, and 600+ were enacted, a 9% passage rate, approximately **4.5 times the average bill passage rate**. This shows ALEC's structural advantage: a member state legislator introducing a bill drafted by ALEC and already passed in three other states faces less uncertainty and skepticism than an ordinary legislator.
 
 ### Specific Outcomes (ALEC-Templated Laws):
 - **Right-to-work legislation:** 27 states
@@ -492,17 +492,17 @@ The Koch Network's most sophisticated state-level operation is the **American Le
 
 Each affiliate operates in its state with the same model: produce "research" papers showing deregulation's benefits, lobby legislators to adopt ALEC templates, and run outside campaigns (via AFP chapters) to pressure votes.
 
-**REDMAP — Redistricting Investment:** In 2010, the Koch Network invested $30M in state legislative races specifically to flip control of state houses in swing states (Pennsylvania, Ohio, Michigan, Wisconsin, North Carolina). The goal was to control redistricting after the 2010 Census. The campaign succeeded: Koch-aligned Republicans flipped 12 state legislatures and won 675 state seats. The resulting gerrymandered maps locked in a decade of Republican House majority, despite Democrats winning the popular vote in 2012, 2016, and 2018.
+**REDMAP. Redistricting Investment:** In 2010, the Koch Network invested $30M in state legislative races specifically to flip control of state houses in swing states (Pennsylvania, Ohio, Michigan, Wisconsin, North Carolina). The goal was to control redistricting after the 2010 Census. The campaign succeeded: Koch-aligned Republicans flipped 12 state legislatures and won 675 state seats. The resulting gerrymandered maps locked in a decade of Republican House majority, despite Democrats winning the popular vote in 2012, 2016, and 2018.
 
-~~[Source: ~~[SourceWatch: ALEC Exposed](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/ALEC_Exposed)~~ (was Tier 3 — URL broken, archived by Ops)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3) (UNVERIFIED); ~~[Brookings: ALEC model bills more likely to become law](https://www.brookings.edu/articles/alec-model-bills-are-more-likely-to-become-law-heres-why/)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 2) (UNVERIFIED); [NELP: Workers lose billions from local minimum wage blocks](https://www.nelp.org/report-workers-lose-billions-wages-thanks-corporate-campaign-block-local-minimum-wage-increases/) (Tier 2) (VERIFIED); ~~[SourceWatch: REDMAP](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/REDMAP)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3) (UNVERIFIED)]
+~~[Source: ~~[SourceWatch: ALEC Exposed](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/ALEC_Exposed)~~ (was Tier 3. URL broken, archived by Ops)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3) (UNVERIFIED); ~~[Brookings: ALEC model bills more likely to become law](https://www.brookings.edu/articles/alec-model-bills-are-more-likely-to-become-law-heres-why/)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 2) (UNVERIFIED); [NELP: Workers lose billions from local minimum wage blocks](https://www.nelp.org/report-workers-lose-billions-wages-thanks-corporate-campaign-block-local-minimum-wage-increases/) (Tier 2) (VERIFIED); ~~[SourceWatch: REDMAP](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/REDMAP)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3) (UNVERIFIED)]
 
 ---
 
-### Federal Policy Outcomes — Detailed Analysis
+### Federal Policy Outcomes. Detailed Analysis
 
 The Koch Network's most sophisticated federal political investments produce measurable, costed returns. This section documents seven major policy victories (2017–2026) with spending, timeline, and ROI calculations.
 
-#### 1. Tax Cuts and Jobs Act (TCJA) — 2017
+#### 1. Tax Cuts and Jobs Act (TCJA), 2017
 
 ### Campaign Scale & Donor Coordination:
 [[Americans for Prosperity|AFP]] characterized its 2017 effort as "the largest commitment by any group to support President Trump's pro-growth tax cuts," spending approximately **$20 million on ads, grassroots mobilization, and lobbying** throughout 2017. [[Freedom Partners|Freedom Partners]] Chamber of Commerce raised **$127.3 million and spent over $115 million in 2017**, with **$47.5 million in general support directed to AFP**, per IRS 990 filings.
@@ -513,7 +513,7 @@ The campaign reached:
 - **33,000+ doors knocked**
 
 ### The Donor Ultimatum:
-At the Koch network's June 2017 donor summit in Colorado Springs, Texas donor **Doug Deason** told reporters that "a group of about ten Dallas-area donors planned to withhold checks from out-of-state Senate and House GOP incumbents until Trump's agenda, including Obamacare repeal and tax reform, made it through." In September 2017, Deason told GOP leaders: **"Get Obamacare repealed and replaced, get tax reform passed... You control the Senate. You control the House. You have the presidency. There's no reason you can't get this done."** Deason confirmed he said: **"No I'm not going to [host fundraisers] because we're closing the checkbook until you get some things done."**
+At the Koch network's June 2017 donor summit in Colorado Springs, Texas donor **Doug Deason** told reporters that "a group of about ten Dallas-area donors planned to withhold checks from out-of-state Senate and House GOP incumbents until Trump's agenda, including Obamacare repeal and tax reform, made it through." In September 2017, Deason told GOP leaders: **"Get Obamacare repealed and replaced, get tax reform passed. You control the Senate. You control the House. You have the presidency. There's no reason you can't get this done."** Deason confirmed he said: **"No I'm not going to [host fundraisers] because we're closing the checkbook until you get some things done."**
 
 [[Americans for Prosperity|AFP]] president Tim Phillips issued the institutional version in July 2017: **"A lack of support is something [lawmakers] do at their own peril when it comes to 2018,"** signaling the network's $300–400M planned 2018 spending would reward loyalty or punish defection.
 
@@ -549,13 +549,13 @@ At the Koch network's June 2017 donor summit in Colorado Springs, Texas donor **
 #### 2. EPA Deregulation and the "Roadmap to Repeal"
 
 ### Pre-Trump Groundwork:
-In January 2017, immediately after Trump's inauguration, [[Freedom Partners|Freedom Partners]] published a **"Roadmap to Repeal"** — a concise list of Obama-era environmental regulations targeted for elimination. Koch-backed [[American Energy Alliance]] and [[Americans for Prosperity|AFP]] were explicitly cited in the roadmap. Targeted rules included:
+In January 2017, immediately after Trump's inauguration, [[Freedom Partners|Freedom Partners]] published a **"Roadmap to Repeal"**, a concise list of Obama-era environmental regulations targeted for elimination. Koch-backed [[American Energy Alliance]] and [[Americans for Prosperity|AFP]] were explicitly cited in the roadmap. Targeted rules included:
 - **Clean Power Plan** (carbon emissions from power plants)
 - **Waters of the United States (WOTUS)** (wetlands protection rule)
 - **Methane emission standards** for oil and gas wells
 - **HFC refrigerant regulations** (Koch Industries / BP / Boeing coalition)
 
-### Scott Pruitt — Koch-Connected EPA Administrator (2017–2018):
+### Scott Pruitt. Koch-Connected EPA Administrator (2017–2018):
 Pruitt had extensive Koch network ties:
 - His **Rule of Law Defense Fund (RLDF)**, which Pruitt chaired, received **$175,000 from [[Freedom Partners|Freedom Partners]]** in 2014
 - Pruitt's emails revealed close communications with [[Americans for Prosperity|AFP]] and the Koch-funded [[ALEC - American Legislative Exchange Council|ALEC]]
@@ -563,7 +563,7 @@ Pruitt had extensive Koch network ties:
 - A Devon Energy letter opposing methane emissions rules was found to have been written by Devon Energy lawyers but signed by Pruitt
 - Pruitt emails documented direct coordination between his EPA office and Koch-aligned groups
 
-### Andrew Wheeler — Koch-Aligned EPA Administrator (2018–2021):
+### Andrew Wheeler. Koch-Aligned EPA Administrator (2018–2021):
 Andrew Wheeler replaced Pruitt as acting EPA Administrator in July 2018 and was confirmed permanent administrator in February 2019. Wheeler served on the staff of Sen. James Inhofe (R-OK), described as "Pruitt's leading congressional ally." Wheeler also served as a lobbyist for Murray Energy, a major coal company, before EPA appointment.
 
 ### Specific EPA Rollbacks Under Trump (2017–2020):
@@ -590,10 +590,10 @@ In 2025–2026, [[Americans for Prosperity|AFP]] continued this deregulatory age
 The Koch network's influence over the Paris withdrawal was the product of sustained, multi-decade campaign. Koch family-controlled foundations **donated more than $145 million to a network of 90 think tanks and advocacy groups from 1997 through 2018** to spread climate disinformation and block climate action.
 
 ### Political Pressure Campaign:
-A key political mechanism: after the 2010 midterms, [[Americans for Prosperity|AFP]] invested tens of millions of dollars in campaigns targeting Republicans who supported climate action. AFP president Tim Phillips told the New York Times: **"After that, support for renewable energy vanished from Republican advertisements... It conveyed to Republicans that we were serious, and we would allocate significant resources to oppose them."** AFP also pressured over 400 members of Congress to sign a "No Climate Tax" pledge.
+A key political mechanism: after the 2010 midterms, [[Americans for Prosperity|AFP]] invested tens of millions of dollars in campaigns targeting Republicans who supported climate action. AFP president Tim Phillips told the New York Times: **"After that, support for renewable energy vanished from Republican advertisements. It conveyed to Republicans that we were serious, and we would allocate significant resources to oppose them."** AFP also pressured over 400 members of Congress to sign a "No Climate Tax" pledge.
 
 ### Senate Pressure from Koch-Funded Donors:
-According to EcoWatch analysis, the **22 Republican senators who sent Trump a letter urging Paris withdrawal collectively received more than $10,694,284 in oil, gas, and coal campaign funds** in the previous three election cycles — a significant portion flowing through Koch network channels.
+According to EcoWatch analysis, the **22 Republican senators who sent Trump a letter urging Paris withdrawal collectively received more than $10,694,284 in oil, gas, and coal campaign funds** in the previous three election cycles, a significant portion flowing through Koch network channels.
 
 ### Expert Analysis:
 Jeffrey Sachs, Columbia University professor of economics, stated: **"This is the victory paid and carried out for 20 years by two people, David and Charles Koch. They have bought and purchased the top of the Republican party. Trump is a tool in this."**
@@ -617,14 +617,14 @@ The [[Heartland Institute]], a Koch-network-associated think tank, had its CEO *
 
 ---
 
-#### 4. Keystone XL Pipeline — Direct Koch Financial Interest
+#### 4. Keystone XL Pipeline. Direct Koch Financial Interest
 
 ### Koch Industries' Direct Stakes:
 Koch Industries had deep and direct financial interests in Keystone XL approval:
 
 - **Flint Hills Resources Canada LP** (Koch subsidiary in Calgary): Operated "among Canada's largest crude oil purchasers, shippers, and exporters" and supplied ~**250,000 barrels of tar sands oil per day** to Koch's Pine Bend, Minnesota refinery
 - **Pine Bend Refinery** (Minnesota, owned via Flint Hills Resources): The **top refiner of tar sands in the U.S.** at 223,000+ barrels/day; approximately 80% of input is heavy crude from Alberta oil sands
-- **Alberta tar sands lease holdings**: Koch Oil Sands Operating held leases on **1.1–2 million acres** in northern Alberta — larger than Royal Dutch Shell and ConocoPhillips — making Koch the **largest lease holder** in Alberta oil sands
+- **Alberta tar sands lease holdings**: Koch Oil Sands Operating held leases on **1.1–2 million acres** in northern Alberta, larger than Royal Dutch Shell and ConocoPhillips, making Koch the **largest lease holder** in Alberta oil sands
 - **Flint Hills Resources Canada LP** told Canadian regulators in 2009 that it had **"a direct and substantial interest in the application"** to build Keystone XL, earning "intervener status" in National Energy Board hearings
 - **COLT Hub** (North Dakota storage terminal, Flint Hills subsidiary): Directly feeds oil into the Dakota Access pipeline system
 
@@ -653,7 +653,7 @@ While Koch Industries publicly denied direct pipeline ownership interest, its ne
 ### Koch Philosophy vs. Financial Interest:
 The Koch network's financial deregulation advocacy was primarily philosophical (anti-regulatory state) rather than driven by direct Koch Industries financial sector interest. [[Freedom Partners|Freedom Partners]] and [[Americans for Prosperity|AFP]] consistently supported rollback of Dodd-Frank provisions, including through the [[Heritage Foundation]], [[Cato Institute]], and other network think tanks.
 
-### Economic Growth, Regulatory Relief, and Consumer Protection Act (S.2155) — May 2018:
+### Economic Growth, Regulatory Relief, and Consumer Protection Act (S.2155). May 2018:
 
 | Provision | Pre-Act | Post-Act | Impact |
 |---|---|---|---|
@@ -671,7 +671,7 @@ In the wake of the 2023 banking crisis, experts noted that **Silicon Valley Bank
 
 ---
 
-#### 6. NLRB Appointments & Labor Policy — Five Rule Changes
+#### 6. NLRB Appointments & Labor Policy. Five Rule Changes
 
 ### Koch Network Opposition to Unionization:
 The Koch network waged a multi-decade campaign against unionization:
@@ -679,7 +679,7 @@ The Koch network waged a multi-decade campaign against unionization:
 - AFP helped pass **Right to Work legislation** in Indiana, Michigan, Wisconsin, West Virginia, and Kentucky
 - Koch-connected groups funded **Janus v. AFSCME** litigation, which ended mandatory fair-share fees for public employee unions (5-4 decision 2018, with Neil Gorsuch casting the deciding vote)
 
-### Trump NLRB Appointments — Five Rule Changes:
+### Trump NLRB Appointments. Five Rule Changes:
 
 | Rule/Decision | Obama-era Standard | Trump NLRB Change | Economic Impact |
 |---|---|---|---|
@@ -696,10 +696,10 @@ The joint employer rule change was particularly important to Koch-connected busi
 
 ---
 
-#### 7. Federal Judiciary — The Federalist Society Pipeline and Koch Investment
+#### 7. Federal Judiciary. The Federalist Society Pipeline and Koch Investment
 
-### Leonard Leo — Koch Network's Judicial Operative:
-[[Leonard Leo]], [[Federalist Society]] co-chairman and executive vice president, served as Trump's top outside judicial adviser — acting as a "volunteer" to avoid financial disclosure. His pivotal role included:
+### Leonard Leo. Koch Network's Judicial Operative:
+[[Leonard Leo]], [[Federalist Society]] co-chairman and executive vice president, served as Trump's top outside judicial adviser, acting as a "volunteer" to avoid financial disclosure. His pivotal role included:
 - Compiling Trump's list of potential Supreme Court nominees
 - Working with White House Counsel Don McGahn (who had represented Koch-backed groups in private practice) to vet nominees
 - **Arranging Justice Clarence Thomas' attendance at Koch donor summits**, as documented by ProPublica
@@ -712,8 +712,8 @@ At the **2018 Koch donor summit**, Leonard Leo personally briefed donors on judi
 
 Koch network CEO Charles Koch specifically told his billionaire donor network after Trump's election that **he was working with the Federalist Society on an "under the dome" strategy to get Trump's judicial nominees confirmed** in order to restore the "rule of law."
 
-### Dark Money for Judicial Confirmations — JCN/Leonard Leo Network:
-The network tied to Leonard Leo — including the [[Judicial Crisis Network|Judicial Crisis Network]] (JCN, operating as "Concord Fund"), the Wellspring Committee, the 85 Fund, and affiliated pass-through entities — **raised nearly $600 million from 2014 through 2020** to reshape the federal judiciary:
+### Dark Money for Judicial Confirmations. JCN/Leonard Leo Network:
+The network tied to Leonard Leo, including the [[Judicial Crisis Network|Judicial Crisis Network]] (JCN, operating as "Concord Fund"), the Wellspring Committee, the 85 Fund, and affiliated pass-through entities, **raised nearly $600 million from 2014 through 2020** to reshape the federal judiciary:
 
 | Confirmation Fight | JCN/Dark Money Spending | Outcome |
 |---|---|---|
@@ -723,8 +723,8 @@ The network tied to Leonard Leo — including the [[Judicial Crisis Network|Judi
 | **[[Amy Coney Barrett]]** | $10M+ (JCN) | Confirmed Oct 2020, 8 days before election |
 | **Total Leo network 2014–2020** | **~$580 million** | 3 SCOTUS seats; ~26% of federal appellate bench reshaped by end 2018 |
 
-### Loper Lira v. Raimondo (2024) — The Chevron Overthrow:
-In *Loper Lira Enterprises v. Raimondo* (2024), **Koch network staff attorneys represented the plaintiffs**, and the Federalist Society-majority Supreme Court **overturned the 1984 Chevron doctrine** — the foundational principle allowing federal agencies to interpret environmental, labor, and financial regulations. This was a decades-long Koch network goal.
+### Loper Lira v. Raimondo (2024). The Chevron Overthrow:
+In *Loper Lira Enterprises v. Raimondo* (2024), **Koch network staff attorneys represented the plaintiffs**, and the Federalist Society-majority Supreme Court **overturned the 1984 Chevron doctrine**, the foundational principle allowing federal agencies to interpret environmental, labor, and financial regulations. This was a decades-long Koch network goal.
 
 ### Key Judges in the Pipeline:
 
@@ -742,7 +742,7 @@ In *Loper Lira Enterprises v. Raimondo* (2024), **Koch network staff attorneys r
 
 ---
 
-### Federal Policy ROI — Summary Table
+### Federal Policy ROI. Summary Table
 
 | Koch Network Investment | Policy Outcome | Estimated Value to Koch Industries | ROI |
 |---|---|---|---|
@@ -753,7 +753,7 @@ In *Loper Lira Enterprises v. Raimondo* (2024), **Koch network staff attorneys r
 
 ---
 
-### The Revolving Door — Koch to Government
+### The Revolving Door. Koch to Government
 
 ### Scale of Koch Network Infiltration:
 A November 2017 [[Public Citizen]] report found **44 Trump administration officials with close ties to the Koch brothers**, concentrated in:
@@ -789,9 +789,9 @@ This list represents 15+ named positions in key agencies. The broader revolving 
 ### Koch Network's Own Assessment:
 [[Freedom Partners|Freedom Partners]] spokesperson James Davis told Reuters in June 2017: **"Overall, we've achieved remarkable advancements at the federal level that we haven't been able to accomplish over the past decade."** Frayda Levin, a Koch network donor and board chair of [[Americans for Prosperity|AFP]], told Politico: **"In creating the Koch network, I don't think that we ever envisioned that we would be supplying staffers to this semi-free market, semi-populist president. But we're happy that he's picking people who have that free market background, particularly because on many issues, he is a blank slate, so anybody with expertise is in an amazing position to shape his agenda."**
 
-**Impact:** Koch alumni controlled the EPA (Pruitt, Wheeler), the Office of Management and Budget (Mulvaney), the State Department (Pompeo), the Office of Information and Regulatory Affairs (Rao), and the Vice President's office (Pence, Short). The Trump administration's deregulatory agenda — rolling back environmental rules, labor protections, and financial regulations — was executed by a team whose career loyalty ran primarily to the Koch Network, secondarily to Donald Trump.
+**Impact:** Koch alumni controlled the EPA (Pruitt, Wheeler), the Office of Management and Budget (Mulvaney), the State Department (Pompeo), the Office of Information and Regulatory Affairs (Rao), and the Vice President's office (Pence, Short). The Trump administration's deregulatory agenda, rolling back environmental rules, labor protections, and financial regulations, was executed by a team whose career loyalty ran primarily to the Koch Network, secondarily to Donald Trump.
 
-[Source: [Public Citizen: 44 Trump Administration Officials with Koch Ties](https://www.citizen.org/news/44-trump-administration-officials-have-close-ties-to-the-koch-brothers-public-citizen-finds/) (Tier 2) (VERIFIED); [Union of Concerned Scientists: Elliott Negin blog on Koch climate disinformation](https://blog.ucs.org/elliott-negin/its-time-for-charles-koch-to-testify-about-his-climate-change-disinformation-campaign/) (Tier 2) (VERIFIED); ~~[Reuters: Once on the outside, conservative Koch network warms to Trump](https://www.reuters.com/article/business/once-on-the-outside-conservative-koch-network-warms-to-trump-idUSKBN19I122/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2); ~~[Politico: Trump's Koch Administration](https://www.politico.com/story/2016/11/trump-koch-brothers-231863)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2) (UNVERIFIED)]
+[Source: [Public Citizen: 44 Trump Administration Officials with Koch Ties](https://www.citizen.org/news/44-trump-administration-officials-have-close-ties-to-the-koch-brothers-public-citizen-finds/) (Tier 2) (VERIFIED); [Union of Concerned Scientists: Elliott Negin blog on Koch climate disinformation](https://blog.ucs.org/elliott-negin/its-time-for-charles-koch-to-testify-about-his-climate-change-disinformation-campaign/) (Tier 2) (VERIFIED); ~~[Reuters: Once on the outside, conservative Koch network warms to Trump](https://www.reuters.com/article/business/once-on-the-outside-conservative-koch-network-warms-to-trump-idUSKBN19I122/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2); ~~[Politico: Trump's Koch Administration](https://www.politico.com/story/2016/11/trump-koch-brothers-231863)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2) (UNVERIFIED)]
 
 ---
 
@@ -800,28 +800,28 @@ This list represents 15+ named positions in key agencies. The broader revolving 
 The relationship between Charles Koch and Donald Trump is one of the most instructive case studies in donor-class politics: two powerful men with conflicting interests who nevertheless align on outcomes.
 
 ### 2016–2018 Estrangement:
-- Koch declined to support Trump in 2016 — citing Trump's unpredictability and protectionist trade rhetoric
+- Koch declined to support Trump in 2016, citing Trump's unpredictability and protectionist trade rhetoric
 - Koch network focused 2016 spending on Senate/House/state races instead of the presidential race
 - Publicly positioned themselves as independent from Trump
 
 ### 2017 Tax Reform Cooperation:
 - Despite personal friction, Koch aligned with Trump on the Tax Cuts and Jobs Act
 - AFP spent $20M on pro-TCJA advertising
-- Doug Deason (Koch donor) publicly stated: "Get some things done, and then we'll open the floodgates" — signaling conditional support
+- Doug Deason (Koch donor) publicly stated: "Get some things done, and then we'll open the floodgates", signaling conditional support
 - TCJA passed December 2017; Koch Industries saved $840M–$1.4B annually
 
 ### 2018 Trade War Break:
 - Trump imposed steel/aluminum tariffs; Koch Industries opposed (tariffs increase input costs for refineries and chemicals)
 - Trump tweeted personal attacks on the Koch Network
 - AFP publicly stated opposition to "protectionism"
-- Public relations rupture — but financial investment continued
+- Public relations rupture, but financial investment continued
 
-### 2020 Presidential Election — Full Retreat:
+### 2020 Presidential Election. Full Retreat:
 - Koch network sat out Trump's 2020 reelection campaign
-- Instead invested $1.1B across 200+ state and congressional races — building alternative power bases
+- Instead invested $1.1B across 200+ state and congressional races, building alternative power bases
 - Explicitly repositioned as "independent" from Trump
 
-### 2024 — Anti-Trump Primary, Pro-Trump General:
+### 2024. Anti-Trump Primary, Pro-Trump General:
 - AFP Action spent $31M backing Nikki Haley in GOP primary (February–March 2024)
 - Spent $10M on anti-Trump primary ads
 - After Trump's South Carolina victory, pivoted to Senate races
@@ -835,11 +835,11 @@ The relationship between Charles Koch and Donald Trump is one of the most instru
 > [!contradiction] The Koch Network Paradox
 > The Koch Network both opposed and supported Trump simultaneously — a contradiction that reveals the deeper relationship between oligarchs and politicians. Charles Koch didn't need Trump to like him. He needed Trump to implement deregulation, tax cuts, and judicial appointments. Trump delivered on all three, and the Koch Network reaped $10–14 billion in tax savings and regulatory relief. The public positioning as "independent" maintained the Koch Network's intellectual credibility while the private calculation was purely transactional: "What did Trump give us?" Not the nomination, not personal loyalty — but policy outcomes worth billions. The 2024 cycle repeated the pattern: spend against Trump in the primary (maintain credibility with libertarian-leaning donors), then spend for Republican Congress (get the policy outcomes that matter). This is how donor-class politics works when multiple billionaires compete for influence: alliances form and dissolve based on policy returns, not personal relationships.
 
-~~[Source: ~~[CNBC: Koch network warns donors closing wallets](https://www.cnbc.com/2017/06/26/koch-network-warns-donors-are-closing-wallets-until-they-see-legislative-progress.html)~~ (URL broken, archived by Ops)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 2) (UNVERIFIED); [CNBC: Koch network won't help Trump 2020](https://www.cnbc.com/2020/09/29/2020-presidential-election-why-koch-network-wont-help-trumps-bid.html) (Tier 2) (VERIFIED); ~~[EXPOSEDbyCMD: The Koch Coup (2021)](https://www.exposedbycmd.org/2021/01/05/the-koch-coup-charles-kochs-political-machine-bankrolled-senators-who-will-attempt-to-steal-election-for-trump-tomorrow/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2); ~~[Forbes: Charles Koch shares his secret plan](https://www.forbes.com/sites/mattdurot/2023/10/10/billionaire-charles-koch-shares-his-secret-plan/)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 2)]
+~~[Source: ~~[CNBC: Koch network warns donors closing wallets](https://www.cnbc.com/2017/06/26/koch-network-warns-donors-are-closing-wallets-until-they-see-legislative-progress.html)~~ (URL broken, archived by Ops)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 2) (UNVERIFIED); [CNBC: Koch network won't help Trump 2020](https://www.cnbc.com/2020/09/29/2020-presidential-election-why-koch-network-wont-help-trumps-bid.html) (Tier 2) (VERIFIED); ~~[EXPOSEDbyCMD: The Koch Coup (2021)](https://www.exposedbycmd.org/2021/01/05/the-koch-coup-charles-kochs-political-machine-bankrolled-senators-who-will-attempt-to-steal-election-for-trump-tomorrow/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2); ~~[Forbes: Charles Koch shares his secret plan](https://www.forbes.com/sites/mattdurot/2023/10/10/billionaire-charles-koch-shares-his-secret-plan/)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 2)]
 
 ---
 
-### Stand Together Rebrand — Name Evolution and Perpetual Funding
+### Stand Together Rebrand. Name Evolution and Perpetual Funding
 
 The Koch Network has undergone four major name rebrands in 15 years, each designed to obscure the Koch connection and expand the perceived donor base:
 
@@ -859,11 +859,11 @@ The Koch Network has undergone four major name rebrands in 15 years, each design
 
 The rebrand under "Stand Together" suggests that Koch's political machine is not *for* the Koch brothers, but *for* a broad coalition of libertarian mega-donors. In practice, Charles Koch maintains strategic control over all major decisions, and the network continues to prioritize regulatory relief and tax cuts for Koch Industries.
 
-~~[Source: [EXPOSEDbyCMD: Charles Koch's Stand Together donor conduits move 176 million](https://www.exposedbycmd.org/2023/12/20/charles-kochs-stand-together-donor-conduits-move-176-million/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)]
+~~[Source: [EXPOSEDbyCMD: Charles Koch's Stand Together donor conduits move 176 million](https://www.exposedbycmd.org/2023/12/20/charles-kochs-stand-together-donor-conduits-move-176-million/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)]
 
 ---
 
-### Succession and Perpetual Funding — $5.3 Billion Transfer
+### Succession and Perpetual Funding, $5.3 Billion Transfer
 
 Charles Koch turned 90 on November 1, 2025. Over the past 5 years, he has transferred an estimated **$5.3 billion** in Koch Industries stock to two 501(c)(4) nonprofit entities, creating a perpetual funding mechanism that will outlive him.
 
@@ -889,7 +889,7 @@ Both entities are controlled by Charles Koch through board appointments. Upon hi
 
 This is the institutionalization of oligarchic political power: the Koch Network will outlive Charles Koch because he has embedded it in legal structures that survive his death.
 
-[Source: [ProPublica Nonprofit Explorer: Believe in People EIN 753148958](https://projects.propublica.org/nonprofits/organizations/753148958) (Tier 1) (VERIFIED); [ProPublica Nonprofit Explorer: Key Change EIN 521527294](https://projects.propublica.org/nonprofits/organizations/521527294) (Tier 1) (VERIFIED); ~~[Politico: Koch brothers Chase Koch next generation](https://www.politico.com/magazine/story/2018/12/14/koch-brothers-chase-koch-next-generation-223099)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)]
+[Source: [ProPublica Nonprofit Explorer: Believe in People EIN 753148958](https://projects.propublica.org/nonprofits/organizations/753148958) (Tier 1) (VERIFIED); [ProPublica Nonprofit Explorer: Key Change EIN 521527294](https://projects.propublica.org/nonprofits/organizations/521527294) (Tier 1) (VERIFIED); ~~[Politico: Koch brothers Chase Koch next generation](https://www.politico.com/magazine/story/2018/12/14/koch-brothers-chase-koch-next-generation-223099)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)]
 
 ---
 
@@ -945,8 +945,8 @@ This architecture allows the Koch Network to:
 - [OpenSecrets: Koch Industries profile](https://www.opensecrets.org/orgs/koch-industries/summary?id=D000000186) (Tier 1)
 
 ### New Sources (UNVERIFIED):
-- [Politico: Koch 2016 — 702 million pledge](https://www.politico.com/story/2015/01/koch-2016-702-million-702-million-114604) (Tier 2) (UNVERIFIED)
-- ~~[Washington Post: Koch-backed network 2016 elections spending](https://www.washingtonpost.com/politics/koch-backed-network-aims-to-spend-nearly-1-billion-on-2016-elections/2015/01/26/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2) (UNVERIFIED)
+- [Politico: Koch 2016, 702 million pledge](https://www.politico.com/story/2015/01/koch-2016-702-million-702-million-114604) (Tier 2) (UNVERIFIED)
+- ~~[Washington Post: Koch-backed network 2016 elections spending](https://www.washingtonpost.com/politics/koch-backed-network-aims-to-spend-nearly-1-billion-on-2016-elections/2015/01/26/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2) (UNVERIFIED)
 - [ProPublica Nonprofit Explorer: Freedom Partners Chamber of Commerce EIN 52-2166327](https://projects.propublica.org/nonprofits/organizations/522166327) (Tier 1)
 - [ProPublica Nonprofit Explorer: Donors Capital Fund EIN 54-1934032](https://projects.propublica.org/nonprofits/organizations/541934032) (Tier 1)
 - [ProPublica Nonprofit Explorer: Believe in People EIN 753148958](https://projects.propublica.org/nonprofits/organizations/753148958) (Tier 1)
@@ -964,26 +964,26 @@ This architecture allows the Koch Network to:
 - ~~[Americans for Tax Fairness: Koch Brothers exposed](https://americansfortaxfairness.org/tax-fairness-briefing-booklet/fact-sheet-koch-brothers-exposed-billionaires-fuel-extreme-right/)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 2) (UNVERIFIED)
 - [New Yorker: Koch pledge tied to congressional climate inaction](https://www.newyorker.com/news/news-desk/koch-pledge-tied-to-congressional-climate-inaction) (Tier 2) (VERIFIED)
 - [CNBC: Koch network won't help Trump 2020](https://www.cnbc.com/2020/09/29/2020-presidential-election-why-koch-network-wont-help-trumps-bid.html) (Tier 2)
-- ~~[Politico States: Koch network pledges to shun lawmakers](https://www.politico.com/states/california/story/2021/01/13/koch-network-pledges-to-shun-lawmakers/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2) (UNVERIFIED)
+- ~~[Politico States: Koch network pledges to shun lawmakers](https://www.politico.com/states/california/story/2021/01/13/koch-network-pledges-to-shun-lawmakers/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2) (UNVERIFIED)
 - [EXPOSEDbyCMD: The Koch Coup (2021)](https://www.exposedbycmd.org/2021/01/05/the-koch-coup-charles-kochs-political-machine-bankrolled-senators-who-will-attempt-to-steal-election-for-trump-tomorrow/) (Tier 2)
 - [Politico: Koch Nikki Haley 2024](https://www.politico.com/news/2024/02/25/koch-afp-nikki-haley-00143212) (Tier 2) (VERIFIED) (UNVERIFIED)
 - [Forbes: Charles Koch shares his secret plan](https://www.forbes.com/sites/mattdurot/2023/10/10/billionaire-charles-koch-shares-his-secret-plan/) *(source unavailable)* (Tier 2) (UNVERIFIED)
-- ~~[Politico Magazine: Koch brothers Chase Koch next generation](https://www.politico.com/magazine/story/2018/12/14/koch-brothers-chase-koch-next-generation-223099)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2) (UNVERIFIED)
-- ~~[EXPOSEDbyCMD: Charles Koch's Stand Together donor conduits](https://www.exposedbycmd.org/2023/12/20/charles-kochs-stand-together-donor-conduits-move-176-million/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[Politico Magazine: Koch brothers Chase Koch next generation](https://www.politico.com/magazine/story/2018/12/14/koch-brothers-chase-koch-next-generation-223099)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2) (UNVERIFIED)
+- ~~[EXPOSEDbyCMD: Charles Koch's Stand Together donor conduits](https://www.exposedbycmd.org/2023/12/20/charles-kochs-stand-together-donor-conduits-move-176-million/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 
 ---
 
-### 2026 Midterm Positioning — AFP Action
+### 2026 Midterm Positioning. AFP Action
 
 **Fundraising:** AFP Action raised **$28.9 million in 2025**, including **$6.5 million from Charles Koch's Stand Together Chamber of Commerce**. The organization projects it will "significantly exceed 2024 metrics across the board" in 2026 spending.
 
 ### Early Senate endorsements and spending (through March 2026):
-- **Michigan — [[_Mike Rogers Master Profile|Mike Rogers]]:** AFP Action endorsed former congressman Rogers for the open Senate seat (retiring Sen. Debbie Stabenow's successor race). Launched a **$500,000 digital and mainstream ad buy** (announced February 4, 2026) — the first major outside spending in that race.
-- **New Hampshire — John Sununu:** Endorsed former Republican Senator Sununu in the Senate race, with paid advertising. Sununu faces GOP primary challengers; AFP Action's early intervention is designed to consolidate the field around an establishment-acceptable candidate.
+- **Michigan, [[_Mike Rogers Master Profile|Mike Rogers]]:** AFP Action endorsed former congressman Rogers for the open Senate seat (retiring Sen. Debbie Stabenow's successor race). Launched a **$500,000 digital and mainstream ad buy** (announced February 4, 2026), the first major outside spending in that race.
+- **New Hampshire. John Sununu:** Endorsed former Republican Senator Sununu in the Senate race, with paid advertising. Sununu faces GOP primary challengers; AFP Action's early intervention is designed to consolidate the field around an establishment-acceptable candidate.
 
-**Alignment with Trump:** AFP Action has endorsed the same three candidates as Trump in three of nine open Senate seats — a tactical alignment after years of Koch-Trump friction. The network that backed DeSantis and opposed Trump in 2024 is now playing within the MAGA coalition for 2026 midterm positioning.
+**Alignment with Trump:** AFP Action has endorsed the same three candidates as Trump in three of nine open Senate seats, a tactical alignment after years of Koch-Trump friction. The network that backed DeSantis and opposed Trump in 2024 is now playing within the MAGA coalition for 2026 midterm positioning.
 
-- ~~[EXPOSEDbyCMD: Major right-wing super PACs disclose contributions and endorsements (February 2026)](https://www.exposedbycmd.org/2026/02/18/major-right-wing-super-pacs-disclose-recent-contributions-and-endorsements/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[EXPOSEDbyCMD: Major right-wing super PACs disclose contributions and endorsements (February 2026)](https://www.exposedbycmd.org/2026/02/18/major-right-wing-super-pacs-disclose-recent-contributions-and-endorsements/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Read Sludge: Koch Network fuels Republican push to kill ACA subsidies](https://readsludge.com/2025/12/15/koch-network-fuels-republican-push-to-kill-aca-subsidies/) (Tier 2) (VERIFIED)
 
 ### Tax Filings (IRS 990)

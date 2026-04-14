@@ -38,7 +38,7 @@ The donors who backed Caruso-Cabrera's challenge were not random. They were the 
 | Jonathan Kraft | Kraft Group/New England Patriots | $5,600 |
 | Ken Langone (+ spouse) | Home Depot Co-Founder | $11,200 |
 
-Additional contributions came from employees at Evercore, Elliott Management, and Apollo Global Management—the secondary tier of finance capital ensuring broad institutional coverage.
+Additional contributions came from employees at Evercore, Elliott Management, and Apollo Global Management, the secondary tier of finance capital ensuring broad institutional coverage.
 
 [!contradiction] **The Class Interest**: These are the same people who benefit from the carried interest loophole, from post-2008 financial deregulation, from tax structures and regulatory arbitrage that AOC's legislative agenda directly targets. The donor list is not incidental to the candidacy. It is the substance of it.
 
@@ -66,7 +66,7 @@ AOC's 57-point victory margin was not close in any dimension. The $2 million-plu
 
 Wall Street's response to AOC's election was not strategic patience. It was immediate and hostile. The 2020 primary challenge was the first coordinated response, executed through a known primary challenger with clear policy commitments (pro-deregulation, pro-finance capital positions). The failure of that approach led to the refinement visible in 2024: partnering with AIPAC to weaponize foreign policy disagreements as a proxy for economic conflicts.
 
-This pattern—direct challenge, failure, then institutional refinement—is instructive. It shows that the financial interests threatened by AOC's agenda recognize the legitimacy of democratic opposition. They do not attempt covert methods. They deploy capital openly, in primary channels, with explicit ideological opponents. The transparency of this conflict is itself significant: they are confident enough in their structural power to simply spend money and expect victory.
+This pattern, direct challenge, failure, then institutional refinement, is instructive. It shows that the financial interests threatened by AOC's agenda recognize the legitimacy of democratic opposition. They do not attempt covert methods. They deploy capital openly, in primary channels, with explicit ideological opponents. The transparency of this conflict is itself significant: they are confident enough in their structural power to simply spend money and expect victory.
 
 That they lost by 57 points suggests either overconfidence in the conversion power of money, or miscalculation about the depth of district-level mobilization against them. Both are analytically important.
 

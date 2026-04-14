@@ -1,5 +1,5 @@
 ---
-title: Ron DeSantis Master Profile
+title: Ron DeSantis
 type: politician
 content-readiness: ready
 central-thesis: >-
@@ -61,7 +61,7 @@ donors: [[Kenneth Griffin]] · [[Koch Network - Charles Koch]] · [[Fossil Fuel 
 
 ## Who He Is
 
-[[_Ron DeSantis Master Profile|Ron DeSantis]]. Born September 14, 1978, Jacksonville, Florida. Republican Governor of Florida since January 2019 (first term), reelected by 19 points in 2022. Yale undergraduate, Harvard Law. Navy JAG officer (Guantanamo Bay legal advisor, Iraq deployment). U.S. Representative, Florida's 6th District (2013–2018). Failed 2024 presidential candidate — dropped out January 21, 2024, after winning zero states and burning through the most expensive failed primary campaign per vote in modern history. Endorsed [[_Donald Trump Master Profile|Donald Trump]] the same day he suspended. Widely discussed as a 2028 presidential candidate as his governorship term ends.
+[[_Ron DeSantis Master Profile|Ron DeSantis]]. Born September 14, 1978, Jacksonville, Florida. Republican Governor of Florida since January 2019 (first term), reelected by 19 points in 2022. Yale undergraduate, Harvard Law. Navy JAG officer (Guantanamo Bay legal advisor, Iraq deployment). U.S. Representative, Florida's 6th District (2013–2018). Failed 2024 presidential candidate, dropped out January 21, 2024, after winning zero states and burning through the most expensive failed primary campaign per vote in modern history. Endorsed [[_Donald Trump Master Profile|Donald Trump]] the same day he suspended. Widely discussed as a 2028 presidential candidate as his governorship term ends.
 
 ---
 
@@ -81,12 +81,12 @@ donors: [[Kenneth Griffin]] · [[Koch Network - Charles Koch]] · [[Fossil Fuel 
 ## Donor Class Map
 
 ### The Citadel-Griffin Axis:
-- [[Kenneth Griffin]] — Donated $5M to DeSantis's 2022 reelection (largest individual contribution). Gave $5M to Republican Party of Florida. Early 2023: pledged presidential support. By September 2023: publicly sat out the primary, stating he didn't understand DeSantis's Disney strategy. Griffin's Citadel relocated headquarters from Chicago to Miami in 2022 — a direct beneficiary of Florida's zero-income-tax structure DeSantis maintained.
+- [[Kenneth Griffin]]. Donated $5M to DeSantis's 2022 reelection (largest individual contribution). Gave $5M to Republican Party of Florida. Early 2023: pledged presidential support. By September 2023: publicly sat out the primary, stating he didn't understand DeSantis's Disney strategy. Griffin's Citadel relocated headquarters from Chicago to Miami in 2022, a direct beneficiary of Florida's zero-income-tax structure DeSantis maintained.
 
 ### The [[Koch Network - Charles Koch|Koch Network]]:
-- [[Koch Network - Charles Koch]] — [[Americans for Prosperity|Americans for Prosperity]] initially courted DeSantis before pivoting to [[_Nikki Haley Master Profile|Nikki Haley]] ($31M+ via AFP Action for Haley). The Koch pivot exemplifies the donor class's instrumental rationality: they backed DeSantis as Trump alternative, then upgraded to Haley when DeSantis's poll numbers collapsed. Koch's abandonment accelerated the narrative of DeSantis's unelectability.
+- [[Koch Network - Charles Koch]], [[Americans for Prosperity|Americans for Prosperity]] initially courted DeSantis before pivoting to [[_Nikki Haley Master Profile|Nikki Haley]] ($31M+ via AFP Action for Haley). The Koch pivot exemplifies the donor class's instrumental rationality: they backed DeSantis as Trump alternative, then upgraded to Haley when DeSantis's poll numbers collapsed. Koch's abandonment accelerated the narrative of DeSantis's unelectability.
 
-### Never Back Down — The PAC Implosion:
+### Never Back Down. The PAC Implosion:
 - Never Back Down super PAC raised $145M+, spent $131M in 2023 alone. Structurally unusual: DeSantis effectively outsourced his campaign to the PAC, operating the entire ground game, travel, and voter contact through what was nominally an "independent" entity. Multiple senior officials resigned or were fired. The group transferred $9.6M to Fight Right in a factional split. The experiment proved that campaign outsourcing to a super PAC cannot replace the candidate's own political skills.
 
 ### Fossil Fuel Donors:
@@ -114,22 +114,22 @@ donors: [[Kenneth Griffin]] · [[Koch Network - Charles Koch]] · [[Fossil Fuel 
 
 | Date | Donor | Amount | Given | Policy Outcome |
 |------|-------|--------|-------|----------------|
-| 2018-11 | [[Koch Network - Charles Koch|Koch Network]], [[Paul Singer]], Wall Street donors + Trump endorsement | $20M+ for first gubernatorial run | 2018 | DeSantis defeats Gillum by 0.4% — narrowest FL gubernatorial margin in history; Koch/Trump coalition proves sufficient |
+| 2018-11 | [[Koch Network - Charles Koch|Koch Network]], [[Paul Singer]], Wall Street donors + Trump endorsement | $20M+ for first gubernatorial run | 2018 | DeSantis defeats Gillum by 0.4%, narrowest FL gubernatorial margin in history; Koch/Trump coalition proves sufficient |
 | 2023-Q2 | Koch-affiliated [[Americans for Prosperity]] + Robert Uihlein | $100M+ pledged for 2024 presidential | 2023 | DeSantis campaigns on Koch priorities: spending cuts, education privatization, anti-"woke" corporate culture |
-| 2024-01 | Koch Network (withdrawal) | $0 — Koch abandons DeSantis, pivots to [[_Nikki Haley Master Profile|Haley]] | 2023-Q3 (after poor Iowa polls) | DeSantis drops out; Koch treats candidates as portfolio investments — dropped when ROI deteriorates |
+| 2024-01 | Koch Network (withdrawal) | $0. Koch abandons DeSantis, pivots to [[_Nikki Haley Master Profile|Haley]] | 2023-Q3 (after poor Iowa polls) | DeSantis drops out; Koch treats candidates as portfolio investments, dropped when ROI deteriorates |
 
 #### Mega-Donors / MAGA
 
 | Date | Donor | Amount | Given | Policy Outcome |
 |------|-------|--------|-------|----------------|
-| 2021-2022 | [[Timothy Mellon]] ($10M+) + Koch Network ($15M+) | $25M+ | 2020-2021 | Signs "Don't Say Gay" (HB 1557), Stop WOKE Act, election law restrictions — Christian nationalist and MAGA donor priorities satisfied |
-| 2022-09 | [[Timothy Mellon]] (anti-immigration focus) | Part of $10M+ | 2020-2021 | DeSantis flies migrants to Martha's Vineyard — stunt generates national attention and MAGA fundraising; Mellon's donation pays for optimal donor-activation content |
+| 2021-2022 | [[Timothy Mellon]] ($10M+) + Koch Network ($15M+) | $25M+ | 2020-2021 | Signs "Don't Say Gay" (HB 1557), Stop WOKE Act, election law restrictions. Christian nationalist and MAGA donor priorities satisfied |
+| 2022-09 | [[Timothy Mellon]] (anti-immigration focus) | Part of $10M+ | 2020-2021 | DeSantis flies migrants to Martha's Vineyard, stunt generates national attention and MAGA fundraising; Mellon's donation pays for optimal donor-activation content |
 
 #### Florida Real Estate / Development
 
 | Date | Donor | Amount | Given | Policy Outcome |
 |------|-------|--------|-------|----------------|
-| 2022-11 | Florida real estate developers + Ron Book lobbying network | $5M+ | 2022 | DeSantis wins re-election by 19 points — transforms to national frontrunner; tax haven consolidation (no income tax, no estate tax) is the most durable donor-class win |
+| 2022-11 | Florida real estate developers + Ron Book lobbying network | $5M+ | 2022 | DeSantis wins re-election by 19 points, transforms to national frontrunner; tax haven consolidation (no income tax, no estate tax) is the most durable donor-class win |
 
 > [!money] The Damning Sequences
 > **Koch $100M → abandoned:** Largest Koch presidential investment in history — abandoned when DeSantis polled below 15% in Iowa. Koch treats candidates as portfolio investments. DeSantis learned [[_Rand Paul Master Profile|Rand Paul]]'s 2016 lesson.
@@ -152,20 +152,20 @@ The 2024 collapse is the class analysis in real time. The donor class invested $
 
 ## Analytical Patterns
 
-**The Genuine Win + Structural Limit** — DeSantis's education deregulation (charter school expansion, DEI elimination) is a real donor victory for the privatization network, but stops short of dismantling public education entirely. His wins advance private education interests without comprehensive school system restructuring.
+**The Genuine Win + Structural Limit**. DeSantis's education deregulation (charter school expansion, DEI elimination) is a real donor victory for the privatization network, but stops short of dismantling public education entirely. His wins advance private education interests without comprehensive school system restructuring.
 
-**The Villain Framing** — DeSantis blames the "woke left" and corporate "DEI bureaucrats" as external villains requiring cultural war responses, deflecting from his actual material position: he is funded by the privatization donors (Walton, DeVos networks) who benefit directly from the deregulation he implements. The villain is cultural overreach; the beneficiary (privatization donors) remains structurally invisible.
+**The Villain Framing**. DeSantis blames the "woke left" and corporate "DEI bureaucrats" as external villains requiring cultural war responses, deflecting from his actual material position: he is funded by the privatization donors (Walton, DeVos networks) who benefit directly from the deregulation he implements. The villain is cultural overreach; the beneficiary (privatization donors) remains structurally invisible.
 
-**The Two-Audience Problem** — DeSantis performs as a cultural warrior defending traditional values to his base, while privately serving deregulatory corporate interests (tax cuts, labor deregulation) whose benefits contradict working-class economic security. The culture war rhetoric masks the actual function: corporate governance.
+**The Two-Audience Problem**. DeSantis performs as a cultural warrior defending traditional values to his base, while privately serving deregulatory corporate interests (tax cuts, labor deregulation) whose benefits contradict working-class economic security. The culture war rhetoric masks the actual function: corporate governance.
 
 ---
 
 ## Rhetorical Signature Moves
 
 1. **The anti-woke pivot:** Frame every corporate power structure as "woke" rather than "powerful." Attack DEI programs while maintaining zero-tax structures that attract the corporations running DEI programs. The target is the branding, not the power.
-2. **The media enemy:** DeSantis positioned legacy media and "corporate media" as enemies — while his campaign spent tens of millions on ads in those same corporate media outlets.
+2. **The media enemy:** DeSantis positioned legacy media and "corporate media" as enemies, while his campaign spent tens of millions on ads in those same corporate media outlets.
 3. **The freedom brand:** "Florida is where woke goes to die." The freedom branding masks the policy reality: freedom for corporations (no taxes, light regulation), restricted freedom for public school teachers (curriculum mandates, book removals), restricted freedom for local governments (state preemption of local ordinances).
-4. **The military credential:** Constant deployment of Navy JAG service as populist credibility. The actual service (Guantanamo legal advisor) is never examined — Guantanamo represents the U.S. military detention apparatus, not the populist military experience the branding implies.
+4. **The military credential:** Constant deployment of Navy JAG service as populist credibility. The actual service (Guantanamo legal advisor) is never examined. Guantanamo represents the U.S. military detention apparatus, not the populist military experience the branding implies.
 
 ---
 

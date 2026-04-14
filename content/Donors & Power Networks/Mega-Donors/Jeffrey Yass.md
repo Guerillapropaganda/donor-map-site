@@ -35,11 +35,11 @@ The needs-reenrichment flag has been set. The next scheduled pipeline run will p
 
 ### Who He Is
 
-Jeffrey Steven Yass, born July 1958. Co-founder and managing director of Susquehanna International Group (SIG) — one of the largest proprietary trading firms in the world, headquartered in Bala Cynwyd, Pennsylvania. SIG trades approximately 7% of U.S. ETF volume and over $1.5 trillion in ETFs globally per year. SIG made $8.2 billion in profits in 2024. Yass holds a 51% stake in the firm and employs 3,200+ people across 17 offices worldwide.
+Jeffrey Steven Yass, born July 1958. Co-founder and managing director of Susquehanna International Group (SIG), one of the largest proprietary trading firms in the world, headquartered in Bala Cynwyd, Pennsylvania. SIG trades approximately 7% of U.S. ETF volume and over $1.5 trillion in ETFs globally per year. SIG made $8.2 billion in profits in 2024. Yass holds a 51% stake in the firm and employs 3,200+ people across 17 offices worldwide.
 
 Net worth: $65.7 billion (early 2026, Forbes), up from approximately $27 billion in 2024. Pennsylvania's richest person and one of the 25 wealthiest people in the world.
 
-**ByteDance / TikTok stake:** SIG first invested in ByteDance in 2012 at a $5 billion valuation. SIG also previously owned Musical.ly, which ByteDance acquired and merged into TikTok by 2018. SIG's current ByteDance stake: approximately 15%. Yass's personal stake: 7%, valued at $28–34 billion depending on valuation methodology — the single largest personal asset in his fortune.
+**ByteDance / TikTok stake:** SIG first invested in ByteDance in 2012 at a $5 billion valuation. SIG also previously owned Musical.ly, which ByteDance acquired and merged into TikTok by 2018. SIG's current ByteDance stake: approximately 15%. Yass's personal stake: 7%, valued at $28–34 billion depending on valuation methodology, the single largest personal asset in his fortune.
 
 **January 2026 deal:** A SIG affiliate, Vastmere Strategic Investments LLC, entered the TikTok U.S. USDS deal and secured a board seat. Mark Dooley, SIG managing director, named to the board. ByteDance retains 19.9% ownership of U.S. operations.
 
@@ -47,30 +47,30 @@ Net worth: $65.7 billion (early 2026, Forbes), up from approximately $27 billion
 
 **Political registration:** Registered Libertarian (Pennsylvania Department of State). Executive advisory council member at Cato Institute since 2002.
 
-Unlike most Wall Street titans, Yass maintains almost no public profile — no interviews, minimal media footprint. His political involvement is entirely donor-focused and purely transactional: he funds political actors who protect his financial interests.
+Unlike most Wall Street titans, Yass maintains almost no public profile, no interviews, minimal media footprint. His political involvement is entirely donor-focused and purely transactional: he funds political actors who protect his financial interests.
 
 ---
 
 ### What He Wants
 
-Yass has one overriding political objective: **protect his ByteDance/TikTok stake** from U.S. regulatory bans and forced sale. SIG's ByteDance stake at 15% and Yass's personal 7% share — valued at $21–34 billion — is his single largest asset. TikTok ban legislation is an existential threat to his net worth.
+Yass has one overriding political objective: **protect his ByteDance/TikTok stake** from U.S. regulatory bans and forced sale. SIG's ByteDance stake at 15% and Yass's personal 7% share, valued at $21–34 billion, is his single largest asset. TikTok ban legislation is an existential threat to his net worth.
 
 Secondary objectives, in order of financial materiality:
 
-- **School choice / voucher programs:** Genuine ideological commitment traced to a Cato Institute conversation with Milton Friedman — co-founded Students First PAC, $41.7M (2010–2022), ~$77M lifetime by 2024. Structurally aligned: privatizing school funding creates downstream investment opportunities in education technology and aligns with Libertarian free-market ideology.
-- **Libertarian economic agenda:** Cato Institute board membership, [[Club for Growth]] funding — free trade, deregulation, carried interest preservation, light-touch financial regulation protecting algorithmic trading.
+- **School choice / voucher programs:** Genuine ideological commitment traced to a Cato Institute conversation with Milton Friedman, co-founded Students First PAC, $41.7M (2010–2022), ~$77M lifetime by 2024. Structurally aligned: privatizing school funding creates downstream investment opportunities in education technology and aligns with Libertarian free-market ideology.
+- **Libertarian economic agenda:** Cato Institute board membership, [[Club for Growth]] funding, free trade, deregulation, carried interest preservation, light-touch financial regulation protecting algorithmic trading.
 - **Crypto regulation blockage:** Contributor to [[Fairshake PAC]] and crypto-friendly candidates; SIG's proprietary trading operation benefits from crypto market volatility.
 - **Capital gains tax elimination:** ProPublica found Yass avoided approximately $1 billion in taxes through long-term capital gains structures and "basket options" trading strategies. Simultaneously funds Club for Growth, whose core mission is eliminating taxes on capital income entirely.
 - **Trump Media preservation:** SIG's DWAC stake ties the firm's investments to Trump's political brand.
-- **NRSC / Republican infrastructure:** $740K to NRSC Victory Fund (2025) — access maintenance for Senate Republican apparatus.
+- **NRSC / Republican infrastructure:** $740K to NRSC Victory Fund (2025), access maintenance for Senate Republican apparatus.
 
 ---
 
 ### Who He Funds
 
 ### Total estimated political spending:
-- **2024 cycle:** ~$100 million — reportedly the single largest individual political donor in America
-- **2025 cycle (partial):** ~$36M+ so far — on pace for $150M+ (50% above 2024)
+- **2024 cycle:** ~$100 million, reportedly the single largest individual political donor in America
+- **2025 cycle (partial):** ~$36M+ so far, on pace for $150M+ (50% above 2024)
 - **Lifetime total:** Washington Post analysis places the Yass family at approximately **$310 million** in total political contributions across all cycles through 2025
 
 ### FEC Individual Contributions (Selected Largest, Direct Donations):
@@ -152,27 +152,27 @@ Secondary objectives, in order of financial materiality:
 
 | Date | Recipient/Target | Amount | Policy Return | Time Gap |
 |------|-----------------|--------|---------------|----------|
-| 2010–2022 | Students First PAC — school choice advocacy | $41.7M | Voucher programs expanded in 10+ states; PA political spending 10×; Students First PAC became primary vehicle for school privatization | Multi-year |
-| 2010–2024 | Club for Growth — cumulative funding | $69.25M | Free-market candidates elected; anti-regulation agenda advanced; 47 election objectors protected; anti-TikTok-ban lobbying counterweight maintained | Multi-year |
+| 2010–2022 | Students First PAC, school choice advocacy | $41.7M | Voucher programs expanded in 10+ states; PA political spending 10×; Students First PAC became primary vehicle for school privatization | Multi-year |
+| 2010–2024 | Club for Growth, cumulative funding | $69.25M | Free-market candidates elected; anti-regulation agenda advanced; 47 election objectors protected; anti-TikTok-ban lobbying counterweight maintained | Multi-year |
 | 2020-03 through 2020-08 | Club for Growth Action during Trump TikTok ban threat | $20.7M | CfG becomes primary political counterweight to Trump ban consideration; Trump option expires without action | Concurrent |
 | 2023-04 | Rand Paul TikTok ban block on Senate floor | Cumulative $23M via Paul PACs | Hawley's fast-track TikTok ban legislation dies in Senate; First Amendment protection framing replaces regulatory argument | Days-months |
 | 2024-03 | Mar-a-Lago private meeting with Trump | Attendance + access | Trump reverses public TikTok ban position "within days" of meeting; calls Yass "fantastic" at Club for Growth retreat | 3-7 days |
-| 2024-03 | House passes TikTok ban 352–65 | — | Yass personally calls House Republicans to lobby against bill; momentum for Senate passage collapses despite House supermajority | Concurrent |
+| 2024-03 | House passes TikTok ban 352–65 |, | Yass personally calls House Republicans to lobby against bill; momentum for Senate passage collapses despite House supermajority | Concurrent |
 | 2024-03-20 through 2024-09-06 | Club for Growth Action ($19M total) + Protect Freedom ($13M) | $32M | Republican institutional access maximized; primary races funded; TikTok-ban-vulnerable incumbents protected | Throughout cycle |
 | 2025-01-17 | MAGA Inc. (pre-inauguration) | $1M | Trump delays TikTok ban enforcement Jan 20 via executive order; legal deadline Jan 19 extended to 75 days | 3 days |
 | 2025-01-20 through 2025-06-19 | MAGA Inc. ($15M Mar 6) + continued TikTok political positioning | $15M | TikTok ban delays continue: April 4, June 19, additional extensions issued; executive enforcement paused 3+ times despite single legal extension allowed | Ongoing |
-| 2025-07-04 | School Freedom Fund | $10M | One Big Beautiful Bill signed July 4, 2025 — includes first-ever federal school voucher program via tax credits to Scholarship Granting Organizations | ~4 months |
+| 2025-07-04 | School Freedom Fund | $10M | One Big Beautiful Bill signed July 4, 2025, includes first-ever federal school voucher program via tax credits to Scholarship Granting Organizations | ~4 months |
 | 2025-11 | Trump East Wing ballroom renovation | $2.5M | White House renovation; part of 22-company pay-to-play cluster including Lockheed, Palantir, Booz Allen, Google, Meta; access maintenance for administration's second term | Ongoing |
-| 2026-01-23 | TikTok USDS deal finalized | — | SIG affiliate (Vastmere Strategic Investments) secures board seat (Mark Dooley, SIG managing director) on TikTok U.S. operations; ByteDance retains 19.9%; Yass personal stake fully preserved; board governance access secured | 22 months post-Mar-a-Lago |
+| 2026-01-23 | TikTok USDS deal finalized |, | SIG affiliate (Vastmere Strategic Investments) secures board seat (Mark Dooley, SIG managing director) on TikTok U.S. operations; ByteDance retains 19.9%; Yass personal stake fully preserved; board governance access secured | 22 months post-Mar-a-Lago |
 
-> [!money] The $38 Billion Preservation — Full ROI
+> [!money] The $38 Billion Preservation. Full ROI
 > Yass spent ~$100M in 2024 and is on pace for $150M in 2025 — total ~$250M in political investment across two cycles. His ByteDance stake — valued at $28–34 billion personally, with SIG's 15% worth ~$60B — survived Trump's ban reversal, three enforcement delays, a restructuring deal that gave SIG a board seat on the new U.S. entity, and Yass's net worth doubled from $27B to $65.7B in that same period. The nominal ROI on the TikTok investment alone: preserve ~$30B by spending $250M = 120:1 return. Add the One Big Beautiful Bill's national school voucher program — a 15-year education policy priority — signed in the same administration. The Mar-a-Lago access cost ~$100M+. The return was a $30B+ asset fully preserved, a board seat on U.S. TikTok operations, and a generational education policy victory in the same 22-month window.
 
 ---
 
 ### The PA State Network
 
-Yass operates a layered, interlocking network of Pennsylvania state PACs — the most sophisticated state-level political architecture documented for any single donor. He is the near-sole funder of all entities in this hierarchy.
+Yass operates a layered, interlocking network of Pennsylvania state PACs, the most sophisticated state-level political architecture documented for any single donor. He is the near-sole funder of all entities in this hierarchy.
 
 ### The Hierarchy:
 
@@ -207,16 +207,16 @@ Jeff Yass (sole or near-sole funder)
 
 ### 2024 Pennsylvania Detailed Breakdown:
 
-- $13.4M through Commonwealth Leaders Fund — contributed to nearly every Republican state legislative candidate per Spotlight PA analysis
+- $13.4M through Commonwealth Leaders Fund, contributed to nearly every Republican state legislative candidate per Spotlight PA analysis
 - $6M to help elect Dave Sunday as Pennsylvania Attorney General (defeating Democrat Eugene DePasquale)
 - $1.2M through Commonwealth Children's Choice Fund
 - $2.4M to Commonwealth Partners Chamber of Entrepreneurs
 
 **PA Supreme Court:** Yass bankrolled the 2025 effort to defeat three Democratic Pennsylvania Supreme Court justices via retention vote. He is also identified as a major spender in past PA Supreme Court races, using the Proteus Fund network for coordination.
 
-**"All Eyes on Yass" Campaign:** Progressive advocacy coalition estimates Yass has given to one in three Pennsylvania state legislators — the most comprehensive political saturation of any state by a single donor.
+**"All Eyes on Yass" Campaign:** Progressive advocacy coalition estimates Yass has given to one in three Pennsylvania state legislators, the most comprehensive political saturation of any state by a single donor.
 
-**Cross-Party Spending in Pennsylvania:** Yass is strategically cross-partisan on school choice — he backs Democrats who support vouchers:
+**Cross-Party Spending in Pennsylvania:** Yass is strategically cross-partisan on school choice, he backs Democrats who support vouchers:
 - **State Sen. Anthony Williams (D-Philadelphia):** $215,000+ received through 2022; longest-term Democratic beneficiary; ran for PA governor (2010) and Philadelphia mayor (2015) with Yass backing
 - **Josh Shapiro:** $125K in 2016 attorney general campaign
 - **Barack Obama:** $2,300 in 2008
@@ -236,7 +236,7 @@ Abbott explicitly called the $6M check "the largest single contribution in Texas
 
 **The Strategy:** Yass knew that Texas House Republicans, particularly suburban conservatives, opposed school vouchers. He funded primary challenges against these incumbents during the 2024 cycle, explicitly to clear the legislative path for voucher expansion.
 
-**The Result:** Enough anti-voucher House Republicans were defeated to shift the Texas House toward voucher support. In 2024, Texas passed a $1 billion school voucher program for the first time in state history — a Yass ideological priority since 2010.
+**The Result:** Enough anti-voucher House Republicans were defeated to shift the Texas House toward voucher support. In 2024, Texas passed a $1 billion school voucher program for the first time in state history, a Yass ideological priority since 2010.
 
 **Yass's Statement to Washington Post:** "I have come across what I think is a great way to relieve the suffering of tens of millions of kids."
 
@@ -244,7 +244,7 @@ This represents the clearest single case of Yass using targeted political spendi
 
 ---
 
-### The TikTok Pipeline — Detailed Timeline
+### The TikTok Pipeline. Detailed Timeline
 
 Yass's donations relative to TikTok ban legislation and enforcement represent the most granular donation-to-policy correlation in the vault. Every significant Yass money movement aligns with a TikTok legislative or regulatory threat.
 
@@ -252,50 +252,50 @@ Yass's donations relative to TikTok ban legislation and enforcement represent th
 
 | Date | Event | Yass Action | Result |
 |------|-------|------------|--------|
-| July 31, 2020 | Trump announces consideration of TikTok ban | — | Regulatory threat emerges |
+| July 31, 2020 | Trump announces consideration of TikTok ban |, | Regulatory threat emerges |
 | Aug 4, 2020 | **Yass gives $5M to Club for Growth Action** | First-ever CfG donation in a presidential race cycle | CfG pivots to anti-Biden messaging, including charter school ads |
 | Aug 17, 2020 | **Yass gives another $5M to CfG Action** | Doubling down on CfG support | Anti-Biden messaging maintained |
 | Nov 10, 2020 | **Yass gives $2.5M to Protect Freedom PAC** | Post-election access positioning | TikTok threat diffuses under Trump |
 
-### 2023 Senate Threat — Rand Paul Block:
+### 2023 Senate Threat. Rand Paul Block:
 
 | Date | Event | Yass Action | Result |
 |------|-------|------------|--------|
-| Feb–June 2023 | Yass gives $5M + $10M = **$15M to Club for Growth Action** | 2024 cycle positioning | — |
+| Feb–June 2023 | Yass gives $5M + $10M = **$15M to Club for Growth Action** | 2024 cycle positioning |, |
 | April 2023 | **Rand Paul blocks Josh Hawley's TikTok ban legislation on Senate floor** | Cumulative $23M to Paul-affiliated PACs since 2015 | Fast-track TikTok ban dies; First Amendment protection framing substitutes for regulatory argument |
 | Sept 2023 | Wall Street Journal reports Yass is major donor to politicians opposing TikTok restrictions | Political profile emerges | Media attention to conflict of interest |
 
-### 2024 House Victory — Trump Reversal:
+### 2024 House Victory. Trump Reversal:
 
 | Date | Event | Yass Action | Result |
 |------|-------|------------|--------|
 | March 13, 2024 | **House passes TikTok ban 352–65** | Yass reportedly calls House Republicans personally to lobby against bill | Despite supermajority, momentum for Senate passage collapses |
 | March 13, 2024 (early) | **Yass meets Trump privately at Mar-a-Lago** | Direct donor access | Trump publicly reverses TikTok ban position "within days"; calls Yass "fantastic" at Club for Growth retreat; Forbes reports Yass may have "triggered" the reversal |
-| March 20, 2024 | **Yass gives $4.5M to CfG Action** | Post-Trump-meeting support surge | — |
-| March 31, 2024 | **Yass gives $8M to Protect Freedom PAC** | Additional cushion of political resources | — |
-| April 2024 | Biden signs TikTok ban/divestiture law; ban set for January 19, 2025 | Ban legislation passes despite Yass lobbying; but Trump's electoral path becomes clear | — |
-| May 2024 | **Yass gives $5M to CfG Action** | Continued CfG maximum support | — |
+| March 20, 2024 | **Yass gives $4.5M to CfG Action** | Post-Trump-meeting support surge |, |
+| March 31, 2024 | **Yass gives $8M to Protect Freedom PAC** | Additional cushion of political resources |, |
+| April 2024 | Biden signs TikTok ban/divestiture law; ban set for January 19, 2025 | Ban legislation passes despite Yass lobbying; but Trump's electoral path becomes clear |, |
+| May 2024 | **Yass gives $5M to CfG Action** | Continued CfG maximum support |, |
 
-### 2025 Trump Administration — TikTok Delays:
+### 2025 Trump Administration. TikTok Delays:
 
 | Date | Event | Yass Action | Amount | Significance |
 |------|-------|------------|--------|-------------|
 | Jan 17, 2025 | **Yass gives $1M to MAGA Inc.** | Three days before Trump inauguration | $1M | Positioning for TikTok protection in Trump administration |
-| Jan 20, 2025 | Trump takes office; issues executive order delaying TikTok ban enforcement instead of enforcement | Result of prior access | — | TikTok threat neutralized via Trump executive discretion; legal deadline Jan 19 extended to 75 days |
+| Jan 20, 2025 | Trump takes office; issues executive order delaying TikTok ban enforcement instead of enforcement | Result of prior access |, | TikTok threat neutralized via Trump executive discretion; legal deadline Jan 19 extended to 75 days |
 | March 6, 2025 | **Yass gives $15M to MAGA Inc.** | Second major donation; follows second TikTok delay | $15M | Pattern: donation → delay correlation becomes explicit; Yass largest individual donor to MAGA Inc. in first half 2025 |
-| April 4, 2025 | Additional TikTok enforcement delay issued | — | — | Second executive delay |
-| June 19, 2025 | Additional TikTok enforcement delay issued | — | — | Third executive delay |
+| April 4, 2025 | Additional TikTok enforcement delay issued |, |, | Second executive delay |
+| June 19, 2025 | Additional TikTok enforcement delay issued |, |, | Third executive delay |
 | Jan 23, 2026 | SIG affiliate (Vastmere Strategic Investments) enters TikTok U.S. USDS deal with board seat | Mark Dooley (SIG managing director) named to board | Board seat | Direct corporate governance access secured; ByteDance retains 19.9%; Yass personal stake fully preserved |
 
-**Yass's Personal ByteDance Stake Preservation:** Net worth increased from approximately $27 billion in 2024 to $65.7 billion by early 2026 — an increase of $38.7 billion directly attributable to TikTok's survival and rising ByteDance valuations.
+**Yass's Personal ByteDance Stake Preservation:** Net worth increased from approximately $27 billion in 2024 to $65.7 billion by early 2026, an increase of $38.7 billion directly attributable to TikTok's survival and rising ByteDance valuations.
 
-### Rand Paul and TikTok — Detailed:
+### Rand Paul and TikTok. Detailed:
 
 Yass has given an estimated **$23+ million to Rand Paul-affiliated PACs** since 2015. In the 2022 cycle, Yass provided ~83% of all money raised by Paul's two super PACs (Kentucky Freedom PAC and Protect Freedom PAC). In April 2023, Paul blocked Josh Hawley's fast-track TikTok ban legislation on the Senate floor, citing First Amendment protection. Capitol Hill sources attributed the move to Yass's influence. Paul has received over $10 million from Yass since 2020 across Kentucky Freedom PAC and Protect Freedom PAC alone, plus $32,200 directly.
 
 Paul's statement: "My opposition to censorship and my steadfast [support] for the [First] Amendment are deeply libertarian beliefs. Anyone who claims my views are financially motivated hasn't been paying attention."
 
-**Cato Institute as Amplifier:** The Cato Institute — where Yass has served on the executive advisory council since 2002 — published op-eds and research opposing TikTok regulation, including Jennifer Huddleston arguing a ban would "raise significant concerns about the First Amendment rights of TikTok's American users." This provides intellectual cover for politicians backed by Yass to oppose bans on First Amendment grounds rather than financial interest.
+**Cato Institute as Amplifier:** The Cato Institute, where Yass has served on the executive advisory council since 2002, published op-eds and research opposing TikTok regulation, including Jennifer Huddleston arguing a ban would "raise significant concerns about the First Amendment rights of TikTok's American users." This provides intellectual cover for politicians backed by Yass to oppose bans on First Amendment grounds rather than financial interest.
 
 ---
 
@@ -327,7 +327,7 @@ University of Austin (UATX) represents Yass's most visible entry into the broade
 
 **Tech Enforcement Spending:** Public Citizen's report lists Yass as the **third-largest political influence spender tied to tech enforcement**, behind only Elon Musk and Justin Sun, with **$116 million** in spending during and since the 2024 elections. This includes TikTok defense spending, school privatization tech investment positioning, and deregulation enforcement.
 
-**Cato Institute / Atlas Network:** Yass's executive advisory council membership at Cato (since 2002) connects him to a global libertarian intellectual network. The Susquehanna Foundation and the Claws Foundation (run by Yass's SIG co-founder Arthur Dantchik) have donated tens of millions to Cato, the Atlas Network (global network of free-market think tanks), and the Institute for Justice (libertarian litigation organization) — all of which have taken institutional positions opposing TikTok regulation and financial regulation of algorithmic trading.
+**Cato Institute / Atlas Network:** Yass's executive advisory council membership at Cato (since 2002) connects him to a global libertarian intellectual network. The Susquehanna Foundation and the Claws Foundation (run by Yass's SIG co-founder Arthur Dantchik) have donated tens of millions to Cato, the Atlas Network (global network of free-market think tanks), and the Institute for Justice (libertarian litigation organization), all of which have taken institutional positions opposing TikTok regulation and financial regulation of algorithmic trading.
 
 ---
 
@@ -354,7 +354,7 @@ Yass is the purest case documented in the vault of the mega-donor model: a singl
 2. **GOP enforcement machinery** (Club for Growth enforcement, primary challenges, super PAC funding)
 3. **Personal material interest** ($30+ billion ByteDance stake requiring regulatory protection + $1 billion in avoided taxes that CfG funding protects)
 
-When these three align, Yass funds heavily. When they conflict — as with abortion or election denial — the money wins over ideology every time.
+When these three align, Yass funds heavily. When they conflict, as with abortion or election denial, the money wins over ideology every time.
 
 **Tax Avoidance Contradiction:** ProPublica found that Yass avoided approximately **$1 billion in federal taxes** through sophisticated trading strategies:
 - Long-term capital gains structures converting short-term taxable events
@@ -370,23 +370,23 @@ Simultaneously, Yass funds Club for Growth's primary agenda: **elimination of ca
 - By March 2026, Yass had secured regulatory outcomes worth an estimated $38 billion in personal wealth preservation (the increase from $27B to $65.7B valuation)
 - Nominal ROI: preserve $30B by spending $250M = 120:1 return
 
-**The Ballroom Donation as Class Structure:** The $2.5M to Trump's East Wing renovation deserves particular attention. The 22 companies that violated lobbying disclosure by donating to a private renovation of the White House — including Lockheed Martin, Palantir, Booz Allen Hamilton, Google, Meta, and Blackstone — represent the cross-sector structure of corporate capture. The ballroom is not a building. It is an access maintenance mechanism disguised as interior decorating. Yass paid the luxury tax on direct Trump administration access when TikTok survival was on the line.
+**The Ballroom Donation as Class Structure:** The $2.5M to Trump's East Wing renovation deserves particular attention. The 22 companies that violated lobbying disclosure by donating to a private renovation of the White House, including Lockheed Martin, Palantir, Booz Allen Hamilton, Google, Meta, and Blackstone, represent the cross-sector structure of corporate capture. The ballroom is not a building. It is an access maintenance mechanism disguised as interior decorating. Yass paid the luxury tax on direct Trump administration access when TikTok survival was on the line.
 
-**Net Worth Doubling as Political ROI:** Yass's fortune increased from $27 billion (2024) to $65.7 billion (early 2026) — a $38.7 billion increase — in the exact timeframe when his $100–250M political spending preserved his TikTok stake, delayed enforcement three times, and secured board-level governance access to the U.S. TikTok operations. The political investment is not an expense. It is portfolio insurance with a 150:1 return ratio.
+**Net Worth Doubling as Political ROI:** Yass's fortune increased from $27 billion (2024) to $65.7 billion (early 2026), a $38.7 billion increase, in the exact timeframe when his $100–250M political spending preserved his TikTok stake, delayed enforcement three times, and secured board-level governance access to the U.S. TikTok operations. The political investment is not an expense. It is portfolio insurance with a 150:1 return ratio.
 
 ---
 
 ### Sources
 
 ### OpenSecrets & FEC (Tier 1):
-- [FEC Independent Expenditures: Jeffrey Yass donor detail — 2024 outside spending](https://www.fec.gov/data/independent-expenditures/?q=Yass) (Tier 1) (VERIFIED)
-- [FEC Independent Expenditures: Jeffrey Yass donor detail — 2020 outside spending](https://www.fec.gov/data/independent-expenditures/?q=Jeffrey%20S%20Yass) (Tier 1) (VERIFIED)
+- [FEC Independent Expenditures: Jeffrey Yass donor detail, 2024 outside spending](https://www.fec.gov/data/independent-expenditures/?q=Yass) (Tier 1) (VERIFIED)
+- [FEC Independent Expenditures: Jeffrey Yass donor detail, 2020 outside spending](https://www.fec.gov/data/independent-expenditures/?q=Jeffrey%20S%20Yass) (Tier 1) (VERIFIED)
 - [FEC Receipts: Jeffrey Yass donor lookup (by amount descending)](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Jeff%20Yass) (Tier 1) (VERIFIED)
 - [OpenSecrets: Club for Growth Action 2024 donors](https://www.opensecrets.org/political-action-committees-pacs/club-for-growth-action/C00487470/donors/2024) (Tier 1) (VERIFIED)
 - [OpenSecrets: Club for Growth Action 2022 donors](https://www.opensecrets.org/political-action-committees-pacs/club-for-growth-action/C00487470/donors/2022) (Tier 1) (VERIFIED)
 - [OpenSecrets: Club for Growth Action 2020 donors](https://www.opensecrets.org/political-action-committees-pacs/club-for-growth-action/C00487470/donors/2020) (Tier 1) (VERIFIED)
 - [OpenSecrets: Biggest Donors 2024](https://www.opensecrets.org/elections-overview/biggest-donors) (Tier 1) (VERIFIED)
-- [OpenSecrets: Biggest Donors 2024 — Musk tops list (March 2025)](https://www.opensecrets.org/news/2025/03/elon-musk-tops-list-of-2024-political-donors-but-six-others-gave-more-than-100-million) (Tier 1) (VERIFIED)
+- [OpenSecrets: Biggest Donors 2024. Musk tops list (March 2025)](https://www.opensecrets.org/news/2025/03/elon-musk-tops-list-of-2024-political-donors-but-six-others-gave-more-than-100-million) (Tier 1) (VERIFIED)
 
 ### Government & Institutional (Tier 1):
 - [Whitehouse.gov: President Trump's One Big Beautiful Bill Is Now the Law](https://www.whitehouse.gov/releases/2025/07/president-trumps-one-big-beautiful-bill-is-now-the-law/) (Tier 1) (VERIFIED)
@@ -398,7 +398,7 @@ Simultaneously, Yass funds Club for Growth's primary agenda: **elimination of ca
 - [Philadelphia Inquirer: Jeffrey Yass and TikTok's ByteDance stake](https://www.inquirer.com/politics/jeff-yass-billionaire-donor-tik-tok-bytedance-20240418.html) (Tier 2) (VERIFIED)
 - [Philadelphia Inquirer: Jeffrey Yass school voucher spending (December 2025)](https://www.inquirer.com/politics/nation/jeffrey-yass-school-voucher-pennsylvania-20251205.html) (Tier 2) (VERIFIED)
 - [CNBC: Yass millions to influence schools, courts, and markets](https://www.cnbc.com/2024/04/09/jeff-yass-millions-to-influence-schools-courts-and-markets.html) (Tier 2) (VERIFIED)
-- [Fortune: Trump, Yass, TikTok — how the ban was avoided](https://fortune.com/2024/12/09/trump-jeff-yass-tiktok-avoid-ban/) (Tier 2) (VERIFIED)
+- [Fortune: Trump, Yass, TikTok, how the ban was avoided](https://fortune.com/2024/12/09/trump-jeff-yass-tiktok-avoid-ban/) (Tier 2) (VERIFIED)
 - [Read Sludge: TikTok billionaire donates millions to Trump as he repeatedly delays ban](https://readsludge.com/2025/08/01/tiktok-billionaire-donates-millions-to-trump-as-he-repeatedly-delays-ban/) (Tier 2) (VERIFIED) (WebFetch verified ✓)
 - [Keystone Newsroom: Jeffrey Yass funded Trump's super PAC. Then the TikTok ban was delayed](https://keystonenewsroom.com/2025/08/05/jeffrey-yass-trump-tiktok-ban/) (Tier 2) (VERIFIED) (WebFetch verified ✓)
 - [Keystone Newsroom: Billionaire Jeffrey Yass retains ownership stake in TikTok after cozying up to Trump](https://keystonenewsroom.com/2026/01/27/yass-tiktok-deal-revealed/) (Tier 2) (VERIFIED) (WebFetch verified ✓)
@@ -406,24 +406,24 @@ Simultaneously, Yass funds Club for Growth's primary agenda: **elimination of ca
 - [Rolling Stone: TikTok billionaire Yass GOP donor abortion funding](https://www.rollingstone.com/politics/politics-features/tiktok-billionaire-yass-gop-donor-abortion-1234859270/) (Tier 2) (VERIFIED)
 - [Spotlight PA: Yass $18M on 2022 PA primary](https://www.spotlightpa.org/news/2022/05/pa-primary-2022-billionaire-donations-jeff-yass/) (Tier 2) (VERIFIED)
 - [Spotlight PA: 2024 PA donors/PACs (December 2024)](https://www.spotlightpa.org/news/2024/12/pennsylvania-election-top-donors-pacs-attorney-general-jeff-yass-state-house/) (Tier 2) (VERIFIED)
-- ~~[Washington Post: Top 20 Billionaires in American Elections](https://www.washingtonpost.com/politics/interactive/2025/top-20-billionaires-american-elections/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2) (UNVERIFIED)
+- ~~[Washington Post: Top 20 Billionaires in American Elections](https://www.washingtonpost.com/politics/interactive/2025/top-20-billionaires-american-elections/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2) (UNVERIFIED)
 - [Courier-Journal: Why Rand Paul is Yass's favorite politician (October 2022)](https://www.courier-journal.com/story/opinion/2022/10/31/why-rand-paul-is-billionaire-jeff-yass-favorite-national-politician/69598738007/) (Tier 2) (VERIFIED)
 - [Technical.ly: The firm owned by Pennsylvania's richest man is now co-leading US TikTok](https://technical.ly/entrepreneurship/susquehanna-international-group-jeff-yass-tiktok-board/) (Tier 2) (VERIFIED) (WebFetch verified ✓)
 - [Revolving Door Project: Oligarchs in the Trump Admin: Jeff Yass](https://therevolvingdoorproject.org/jeff-yass-trump-admin-billionaires/) (Tier 2) (VERIFIED) (WebFetch verified ✓)
 - [Philadelphia Magazine: Jeff Yass's Big School Choice Gamble](https://www.phillymag.com/news/2024/08/24/jeff-yass-school-choice/) (Tier 2) (VERIFIED) (UNVERIFIED)
-- [NBC News: Who is Jeff Yass — billionaire donor investments in TikTok's parent company](https://www.nbcnews.com/tech/tech-news/jeff-yass-billionaire-donor-investments-tiktoks-parent-company-rcna142531) (Tier 2) (VERIFIED)
-- ~~[Forbes: Billionaire Jeff Yass may be the donor behind Trump's TikTok flipflop](https://www.forbes.com/sites/maryroeloffs/2024/03/18/billionaire-jeff-yass-may-be-the-donor-behind-trumps-tiktok-flipflop-heres-what-to-know/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2) (UNVERIFIED)
-- ~~[Forbes: Secretive billionaire is one of America's biggest conservative donors](https://www.forbes.com/sites/michelatindera/2021/04/16/this-secretive-billionaire-is-one-of-americas-biggest-conservative-donors/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2) (UNVERIFIED)
+- [NBC News: Who is Jeff Yass, billionaire donor investments in TikTok's parent company](https://www.nbcnews.com/tech/tech-news/jeff-yass-billionaire-donor-investments-tiktoks-parent-company-rcna142531) (Tier 2) (VERIFIED)
+- ~~[Forbes: Billionaire Jeff Yass may be the donor behind Trump's TikTok flipflop](https://www.forbes.com/sites/maryroeloffs/2024/03/18/billionaire-jeff-yass-may-be-the-donor-behind-trumps-tiktok-flipflop-heres-what-to-know/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2) (UNVERIFIED)
+- ~~[Forbes: Secretive billionaire is one of America's biggest conservative donors](https://www.forbes.com/sites/michelatindera/2021/04/16/this-secretive-billionaire-is-one-of-americas-biggest-conservative-donors/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2) (UNVERIFIED)
 - [The 74 Million: School choice activist Jeff Yass may have prompted Trump's about-face on TikTok](https://www.the74million.org/article/school-choice-activist-jeff-yass-may-have-prompted-trumps-about-face-on-tiktok/) (VERIFIED) (Tier 2-3) (UNVERIFIED)
 
 ### News & Secondary Sources (Tier 2-3):
 - [NY Post: Rand Paul backed by GOP donor with $33B TikTok stake](https://nypost.com/2023/04/06/rand-paul-backed-by-gop-donor-with-33b-tiktok-stake/) (Tier 2) (VERIFIED)
 - [Texas Tribune: Yass and Texas school voucher Republicans (January 2024)](https://www.texastribune.org/2024/01/31/texas-house-republican-primary-2024-vouchers/) (Tier 2) (VERIFIED)
 - [Yahoo/Bloomberg: Jeff Yass gives $4 million to Greg Abbott](https://www.yahoo.com/news/jeff-yass-gives-4-million-201104102.html) (Tier 2) (VERIFIED)
-- [Public Citizen: Deleting Enforcement — Trump big tech billion report](https://www.citizen.org/article/deleting-enforcement-trump-big-tech-billion-report/) (VERIFIED) (Tier 2-3) (UNVERIFIED)
+- [Public Citizen: Deleting Enforcement. Trump big tech billion report](https://www.citizen.org/article/deleting-enforcement-trump-big-tech-billion-report/) (VERIFIED) (Tier 2-3) (UNVERIFIED)
 - [The Nation: Silicon Valley Trump support donations](https://www.thenation.com/article/politics/silicon-valley-trump-support-donations/) (VERIFIED) (Tier 2-3) (UNVERIFIED)
 - [Inside Higher Ed: Report on billionaires supporting University of Austin](https://www.insidehighered.com/news/quick-takes/2024/10/17/report-some-billionaires-supporting-university-austin) (VERIFIED) (Tier 2-3) (UNVERIFIED)
-- ~~[Marginal Revolution: University of Austin $100M Yass donation](https://marginalrevolution.com/?p=91799)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3)
+- ~~[Marginal Revolution: University of Austin $100M Yass donation](https://marginalrevolution.com/?p=91799)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
 - [Quartz: Jeff Yass Trump TikTok Truth Social](https://qz.com/jeff-yass-trump-tiktok-truth-social-1851367927) (VERIFIED) (Tier 2-3) (UNVERIFIED)
 
 ### Specialized/Advocacy Sources (Tier 3-4):
@@ -433,7 +433,7 @@ Simultaneously, Yass funds Club for Growth's primary agenda: **elimination of ca
 - [The Racket: The Free Press pseudo-liberal outlet (Bari Weiss, UATX)](https://theracket.news/p/the-free-speech-event-that-wasnt) (Tier 3) (VERIFIED)
 - [Proteus Fund: Conquering the Courts report (PA Supreme Court)](http://www.proteusfund.org/wp-content/uploads/true-north-conquering-the-courts-report.pdf) (Tier 3) (VERIFIED)
 - [Cambridge Perspectives on Politics: Diaspora-local cooperation and American-Israeli network ideological change (Academic)](https://www.cambridge.org/core/journals/perspectives-on-politics/article/diasporalocal-cooperation-as-a-driver-of-ideological-change-the-ascendance-of-american-conservatism-in-israel/1114BF43E1A4A649C9E46387BB26DFDB) (VERIFIED) (Tier 2-3) (UNVERIFIED)
-- ~~[The Guardian: Yass donations to anti-Muslim and pro-Israel groups](https://www.theguardian.com/us-news/2024/apr/01/billionaire-donor-tiktok-stake)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2) (UNVERIFIED)
+- ~~[The Guardian: Yass donations to anti-Muslim and pro-Israel groups](https://www.theguardian.com/us-news/2024/apr/01/billionaire-donor-tiktok-stake)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2) (UNVERIFIED)
 
 ### Reference & Aggregator (Tier 3):
 - [Wikipedia: Jeff Yass](https://en.wikipedia.org/wiki/Jeff_Yass) (Tier 3) (VERIFIED)

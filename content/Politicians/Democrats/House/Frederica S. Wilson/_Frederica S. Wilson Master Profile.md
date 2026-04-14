@@ -1,5 +1,5 @@
 ---
-title: "Frederica S. Wilson Master Profile"
+title: "Frederica S. Wilson"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

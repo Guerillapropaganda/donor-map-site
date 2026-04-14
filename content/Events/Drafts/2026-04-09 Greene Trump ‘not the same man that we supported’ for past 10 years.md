@@ -16,7 +16,7 @@ profiles:
 **Source:** ~~[The Hill](https://thehill.com/homenews/campaign/5823696-greene-trump-not-same-man/)~~ (URL broken, archived by Ops)
 **Date:** 2026-04-09
 
-Former Rep. Marjorie Taylor Greene (R-Ga.), formerly a strong supporter of President Trump, said the president is “not the same man that we supported” for a decade. “What has to happen is the American people have to wake up to the truth. So, they — the American people have to take the blinders off, because,…
+Former Rep. Marjorie Taylor Greene (R-Ga.), formerly a strong supporter of President Trump, said the president is “not the same man that we supported” for a decade. “What has to happen is the American people have to wake up to the truth. So, they, the American people have to take the blinders off, because,…
 
 ---
 

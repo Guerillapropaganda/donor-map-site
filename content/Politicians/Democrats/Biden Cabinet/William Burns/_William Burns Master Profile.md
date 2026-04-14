@@ -1,5 +1,5 @@
 ---
-title: "William Burns Master Profile"
+title: "William Burns"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

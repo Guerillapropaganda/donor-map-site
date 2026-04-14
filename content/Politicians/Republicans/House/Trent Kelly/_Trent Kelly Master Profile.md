@@ -1,5 +1,5 @@
 ---
-title: "Trent Kelly Master Profile"
+title: "Trent Kelly"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

@@ -59,7 +59,7 @@ McConnell described the Federalist Society as "a farm team of potential judges."
 The conservative supermajority (6-3) has delivered:
 - **Citizens United (2010):** Unlimited corporate political spending (McConnell's original advocacy)
 - **Dobbs (2022):** Overturned Roe v. Wade (Federalist Society's 50-year project)
-- **Loper Bright (2024):** Eliminated [[Chevron|Chevron]] deference — gutting federal agencies' ability to regulate corporations
+- **Loper Bright (2024):** Eliminated [[Chevron|Chevron]] deference, gutting federal agencies' ability to regulate corporations
 - **Janus (2018):** Weakened public-sector unions ([[Koch Network - Charles Koch|Koch Network]] priority)
 - **Students for Fair Admissions (2023):** Ended affirmative action
 - **West Virginia v. EPA (2022):** Limited EPA's authority to regulate power plant emissions (fossil fuel priority)
@@ -77,7 +77,7 @@ $250M+ flowed through Federalist Society-linked organizations to promote conserv
 - Spent $10M+ on Kavanaugh confirmation ads
 - Spent $10M+ on Barrett confirmation ads
 
-The money came from anonymous donors through 501(c)(4) nonprofits. The judges were selected by Leo, confirmed by McConnell, and funded by donors whose names never appeared on any public record. The entire pipeline — from law school recruitment to Supreme Court confirmation — operates through dark money.
+The money came from anonymous donors through 501(c)(4) nonprofits. The judges were selected by Leo, confirmed by McConnell, and funded by donors whose names never appeared on any public record. The entire pipeline, from law school recruitment to Supreme Court confirmation, operates through dark money.
 
 ---
 

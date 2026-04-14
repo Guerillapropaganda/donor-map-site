@@ -1,5 +1,5 @@
 ---
-title: "Matt van Epps Master Profile"
+title: "Matt van Epps"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

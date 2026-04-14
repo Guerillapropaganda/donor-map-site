@@ -30,9 +30,9 @@ lei-jurisdiction: "US-DE"
 
 ### Who They Are
 
-Securus Technologies — the largest prison telecommunications company in the United States, controlling approximately 50% of the market. Rebranded under parent holding company **Aventiv Technologies** in 2020. Serves 2,600+ correctional facilities in 47 states. Annual revenue approximately $700 million. Subsidiary JPay handles digital services (money transfers, email, media) for incarcerated people.
+Securus Technologies, the largest prison telecommunications company in the United States, controlling approximately 50% of the market. Rebranded under parent holding company **Aventiv Technologies** in 2020. Serves 2,600+ correctional facilities in 47 states. Annual revenue approximately $700 million. Subsidiary JPay handles digital services (money transfers, email, media) for incarcerated people.
 
-**Ownership:** Acquired by **Platinum Equity** for $1.6 billion in May 2017. Currently carrying $1.3 billion in debt. April 2025: agreed to $360 million equity investment from financial stakeholders. October 2024: S&P downgraded Aventiv to CCC- (junk bond territory) due to revenue threats from free calling legislation. The private equity debt load is eating the company alive — $700M revenue against $1.3B debt, with Platinum Equity extracting management fees on top.
+**Ownership:** Acquired by **Platinum Equity** for $1.6 billion in May 2017. Currently carrying $1.3 billion in debt. April 2025: agreed to $360 million equity investment from financial stakeholders. October 2024: S&P downgraded Aventiv to CCC- (junk bond territory) due to revenue threats from free calling legislation. The private equity debt load is eating the company alive, $700M revenue against $1.3B debt, with Platinum Equity extracting management fees on top.
 
 Together with [[ViaPath Technologies - GTL|ViaPath Technologies]] (GTL), Securus forms a **duopoly controlling 80–90% of the U.S. prison telecom market**.
 
@@ -40,13 +40,13 @@ Together with [[ViaPath Technologies - GTL|ViaPath Technologies]] (GTL), Securus
 
 ### What They Want
 
-Maximum per-minute call rates and per-session video visitation fees. Resistance to FCC rate caps under the Martha Wright-Reed Act. Preservation of the commission model where correctional facilities receive a percentage of telecom revenue (creating shared financial incentives to keep rates high). Expansion of tablet-based services that create new revenue streams (music, email, video, educational content — all at marked-up prices). Contracts that replace free in-person visits with paid video calls.
+Maximum per-minute call rates and per-session video visitation fees. Resistance to FCC rate caps under the Martha Wright-Reed Act. Preservation of the commission model where correctional facilities receive a percentage of telecom revenue (creating shared financial incentives to keep rates high). Expansion of tablet-based services that create new revenue streams (music, email, video, educational content, all at marked-up prices). Contracts that replace free in-person visits with paid video calls.
 
 ---
 
 ### Who They Fund
 
-> [!money] Follow the Money — Securus / Aventiv Political Activity
+> [!money] Follow the Money. Securus / Aventiv Political Activity
 > **Direct political spending:** Minimal disclosed PAC contributions — the influence operates through the commission structure.
 >
 > **The real payment:** Securus pays correctional facilities a commission on every call, video session, and digital transaction. This commission — typically 40–60% of revenue — is the political donation that doesn't show up in campaign finance databases. Sheriffs and jail administrators have a direct financial stake in keeping Securus rates high.
@@ -61,9 +61,9 @@ Maximum per-minute call rates and per-session video visitation fees. Resistance 
 
 **County jail contracts:** Los Angeles County, San Diego County, and most California county and city jails.
 
-**Historical profit margins:** 51% gross profit margin documented in 2014 — exceeding Apple's margins. $114.6 million profit on revenues. The margin has since compressed due to rate regulation and debt service, but the underlying business model remains: charge captive consumers monopoly prices for a basic human need (communication with family).
+**Historical profit margins:** 51% gross profit margin documented in 2014, exceeding Apple's margins. $114.6 million profit on revenues. The margin has since compressed due to rate regulation and debt service, but the underlying business model remains: charge captive consumers monopoly prices for a basic human need (communication with family).
 
-**Video visitation operation:** Securus was the only major prison telecom company that explicitly required facilities to eliminate in-person visits as a condition of implementing video visitation. Charged up to $20 for a 20-minute video call. Offered facilities a 20% commission for banning in-person visits. 74% of jails that implemented Securus video systems banned in-person visits. Securus announced a policy revision in 2015 after lawsuits in Texas and Louisiana, but the damage was already done — many facilities never restored in-person visits.
+**Video visitation operation:** Securus was the only major prison telecom company that explicitly required facilities to eliminate in-person visits as a condition of implementing video visitation. Charged up to $20 for a 20-minute video call. Offered facilities a 20% commission for banning in-person visits. 74% of jails that implemented Securus video systems banned in-person visits. Securus announced a policy revision in 2015 after lawsuits in Texas and Louisiana, but the damage was already done, many facilities never restored in-person visits.
 
 ---
 
@@ -71,44 +71,44 @@ Maximum per-minute call rates and per-session video visitation fees. Resistance 
 
 Securus operates a parallel surveillance technology business through its monitoring division:
 
-**Location tracking:** Offered law enforcement real-time cell phone location tracking via wireless carrier data (Verizon, AT&T, T-Mobile, Sprint) — without requiring warrants. May 2018: New York Times exposed Missouri Sheriff Cory Anderson using Securus to unlawfully track cell phones. June 2019: hacker breach exposed usernames, emails, passwords, and location data for 2,800 law enforcement customers. Securus discontinued the location tracking service in May 2018 after FTC investigation and press exposure.
+**Location tracking:** Offered law enforcement real-time cell phone location tracking via wireless carrier data (Verizon, AT&T, T-Mobile, Sprint), without requiring warrants. May 2018: New York Times exposed Missouri Sheriff Cory Anderson using Securus to unlawfully track cell phones. June 2019: hacker breach exposed usernames, emails, passwords, and location data for 2,800 law enforcement customers. Securus discontinued the location tracking service in May 2018 after FTC investigation and press exposure.
 
 The surveillance business is the bridge between prison telecom and the broader law enforcement apparatus. Securus sells communication services to incarcerated people and surveillance tools to the agencies that incarcerate them. Both product lines generate revenue from the same population.
 
 ---
 
-### Class Analysis — Communication as Extraction
+### Class Analysis. Communication as Extraction
 
-The prison telecom model is extraction at its most literal. Families of incarcerated people — disproportionately poor, disproportionately Black and Latino — pay monopoly prices to maintain basic human contact. The commission structure means the facilities that hold their loved ones profit from every call. The private equity ownership means a portion of every dollar flows to Platinum Equity's investors — people who will never set foot in a jail visiting room.
+The prison telecom model is extraction at its most literal. Families of incarcerated people, disproportionately poor, disproportionately Black and Latino, pay monopoly prices to maintain basic human contact. The commission structure means the facilities that hold their loved ones profit from every call. The private equity ownership means a portion of every dollar flows to Platinum Equity's investors, people who will never set foot in a jail visiting room.
 
-The Martha Wright-Reed Act (signed January 2023) directed the FCC to ensure "just and reasonable" rates. FCC slashed interstate rates and capped video calls in July 2024. California's CPUC set intrastate rates at $0.07/minute. But Securus has fought every regulation — filing court briefs, lobbying Congress, challenging state PUC orders. The S&P downgrade to CCC- tells the story: the company's business model depends on overcharging captive consumers, and rate regulation threatens its ability to service $1.3 billion in private equity debt.
+The Martha Wright-Reed Act (signed January 2023) directed the FCC to ensure "just and reasonable" rates. FCC slashed interstate rates and capped video calls in July 2024. California's CPUC set intrastate rates at $0.07/minute. But Securus has fought every regulation, filing court briefs, lobbying Congress, challenging state PUC orders. The S&P downgrade to CCC- tells the story: the company's business model depends on overcharging captive consumers, and rate regulation threatens its ability to service $1.3 billion in private equity debt.
 
-The $315M California contract is the countervailing force. Even as rates are regulated downward, Securus wins exclusive statewide access to 97,000+ incarcerated people and their families. Volume compensates for margin compression. The extraction continues — just at a lower per-unit rate across a larger captive market.
+The $315M California contract is the countervailing force. Even as rates are regulated downward, Securus wins exclusive statewide access to 97,000+ incarcerated people and their families. Volume compensates for margin compression. The extraction continues, just at a lower per-unit rate across a larger captive market.
 
 ---
 
 ### Enemies / Opposition
 
-**[[Prison Policy Initiative]]** — primary research organization documenting prison telecom pricing and its impact on families.
+**[[Prison Policy Initiative]]**, primary research organization documenting prison telecom pricing and its impact on families.
 
-**Worth Rises** — advocacy organization mapping the prison industry, including telecom. Led campaigns against Securus's commission structure.
+**Worth Rises**, advocacy organization mapping the prison industry, including telecom. Led campaigns against Securus's commission structure.
 
-**FCC** — regulatory body implementing Martha Wright-Reed Act rate caps. Active rulemaking ongoing.
+**FCC**, regulatory body implementing Martha Wright-Reed Act rate caps. Active rulemaking ongoing.
 
-**CPUC (California Public Utilities Commission)** — set $0.07/minute intrastate rate caps. California Court of Appeal affirmed caps in February 2023 over Securus objections.
+**CPUC (California Public Utilities Commission)**, set $0.07/minute intrastate rate caps. California Court of Appeal affirmed caps in February 2023 over Securus objections.
 
-**NUHW / [[IBEW - International Brotherhood of Electrical Workers|IBEW]]** — IBEW represents 50,000 telecom professionals nationally, though no specific prison telecom worker organizing has been documented.
+**NUHW / [[IBEW - International Brotherhood of Electrical Workers|IBEW]]**. IBEW represents 50,000 telecom professionals nationally, though no specific prison telecom worker organizing has been documented.
 
 ---
 
 ### Sources
 
-- ~~[New York Times: Securus location tracking exposé (May 2018)](https://www.nytimes.com/2018/05/10/technology/securus-cell-tracking-fcc.html)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[New York Times: Securus location tracking exposé (May 2018)](https://www.nytimes.com/2018/05/10/technology/securus-cell-tracking-fcc.html)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [FCC: Martha Wright-Reed Act implementation and rate cap orders](https://www.fcc.gov/wireline-competition/commission-action-prior-martha-wright-reed-act) (Tier 1) (VERIFIED)
 - [California Department of Technology: Securus contract award (February 2025)](https://www.cdcr.ca.gov/family-resources/tablets/) (Tier 1) (VERIFIED)
 - [Prison Policy Initiative: Martha Wright-Reed Act analysis](https://www.prisonpolicy.org/blog/2024/07/18/fcc-vote/) (Tier 1) (VERIFIED)
 - [Prison Policy Initiative: Prison telecom research](https://www.prisonpolicy.org/phones/) (Tier 2) (VERIFIED)
-- ~~[Senate LDA Filings: Aventiv Technologies lobbying data](https://lda.gov/filings/public/filing/search/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[Senate LDA Filings: Aventiv Technologies lobbying data](https://lda.gov/filings/public/filing/search/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Worth Rises: Prison Industry Mapping Project](https://worthrises.org/theprisonindustry) (Tier 3) (VERIFIED)
 
 ### Federal Subawards & Spending Breakdown

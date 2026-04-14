@@ -132,7 +132,7 @@ The $2.4 billion payout was part of a $4.65 billion settlement with four hedge f
 - [Washington Post: How one hedge fund made $2 billion from Argentina's economic collapse](https://www.washingtonpost.com/news/business/wp/2016/03/29/how-one-hedge-fund-made-2-billion-from-argentinas-economic-collapse/) (Tier 2) (VERIFIED)
 - [FEC Receipts: Paul Singer donor profile](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=paul%20singer) (Tier 1)
 - [Ballotpedia: Paul Singer](https://ballotpedia.org/Paul_Singer) (Tier 3) (VERIFIED)
-- ~~[InfluenceWatch: Paul Singer](https://www.influencewatch.org/person/paul-singer/)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3)
+- ~~[InfluenceWatch: Paul Singer](https://www.influencewatch.org/person/paul-singer/)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
 
 ---
 

@@ -41,7 +41,7 @@ donors: [[Lockheed Martin]] [[Northrop Grumman]] [[Honeywell]]
 
 ### The M.C. Dean Contract
 
-In a case that crystallized the conflict, Hegseth awarded $100 million in additional contracts to M.C. Dean, a defense contractor, following a security breach. The decision to expand a contractor's portfolio after a security failure — rather than penalizing or replacing them — exemplifies how the defense procurement system operates: failure does not reduce contracts, it generates new ones for "remediation."
+In a case that crystallized the conflict, Hegseth awarded $100 million in additional contracts to M.C. Dean, a defense contractor, following a security breach. The decision to expand a contractor's portfolio after a security failure, rather than penalizing or replacing them, exemplifies how the defense procurement system operates: failure does not reduce contracts, it generates new ones for "remediation."
 
 ---
 
@@ -56,4 +56,4 @@ Hegseth sold positions in Northrop Grumman, Lockheed Martin, and Honeywell worth
 
 ### Sources
 
-- ~~[OpenSecrets: Hegseth financial disclosure](https://www.opensecrets.org/members-of-congress/summary?name=Defense%20Contractor%20Conflicts%20and%20Stock%20Holdings)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[OpenSecrets: Hegseth financial disclosure](https://www.opensecrets.org/members-of-congress/summary?name=Defense%20Contractor%20Conflicts%20and%20Stock%20Holdings)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)

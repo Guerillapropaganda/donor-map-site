@@ -24,9 +24,9 @@ donors: [[Robert Mercer]], [[Rebekah Mercer]]
 
 ### The Meeting: [[Club for Growth|Club for Growth]], 2011
 
-[[_Steve Bannon Master Profile|Steve Bannon]] met Robert and [[Rebekah Mercer|Rebekah Mercer]] at a Spring 2011 [[Club for Growth|Club for Growth]] donor meeting at the Ritz-Carlton, Palm Beach, Florida. Andrew Breitbart — then screening Bannon's film "Occupy Unmasked" — introduced them. The Mercers approached Breitbart after his talk on co-opting liberal political strategies. Bannon was then a filmmaker/producer in Southern California directing Breitbart-featured documentaries.
+[[_Steve Bannon Master Profile|Steve Bannon]] met Robert and [[Rebekah Mercer|Rebekah Mercer]] at a Spring 2011 [[Club for Growth|Club for Growth]] donor meeting at the Ritz-Carlton, Palm Beach, Florida. Andrew Breitbart, then screening Bannon's film "Occupy Unmasked", introduced them. The Mercers approached Breitbart after his talk on co-opting liberal political strategies. Bannon was then a filmmaker/producer in Southern California directing Breitbart-featured documentaries.
 
-The meeting produced the investment: Bannon drew up a Breitbart business plan that convinced the Mercers to invest $10 million. Andrew Breitbart died in March 2012 (heart attack). Bannon took over as Executive Chairman — the Mercer investment giving him control of the platform.
+The meeting produced the investment: Bannon drew up a Breitbart business plan that convinced the Mercers to invest $10 million. Andrew Breitbart died in March 2012 (heart attack). Bannon took over as Executive Chairman, the Mercer investment giving him control of the platform.
 
 ---
 
@@ -49,7 +49,7 @@ The most consequential redirect of the 2016 election:
 - By the Republican National Convention, Mercers switched to Trump
 - Mercer super PAC "refashioned itself" as pro-Trump entity, receiving $2M additional from [[Robert Mercer|Robert Mercer]]
 - Mercer and daughter Rebekah secured Trump campaign senior roles: Bannon as CEO, Kellyanne Conway as campaign manager
-- Bannon directed the pivot — "before Bannon was the political strategist to [[_Donald Trump Master Profile|Donald Trump]], he played that role for this extraordinarily wealthy family"
+- Bannon directed the pivot, "before Bannon was the political strategist to [[_Donald Trump Master Profile|Donald Trump]], he played that role for this extraordinarily wealthy family"
 
 > [!money]
 > The Cruz-to-Trump pivot represents the single most consequential donor-candidate redirection in modern political history. One family ($13.5M → Cruz, then pivot to Trump) and one advisor (Bannon) redirected the 2016 Republican nomination. The "$10M Breitbart investment" → "$15-20M Cambridge Analytica data operation" → "Mercer-funded campaign management" pipeline didn't just support Trump — it gave Trump the media platform, the data infrastructure, and the campaign leadership that defeated Clinton. Without Mercer money and Bannon's management of it, Trump's 2016 campaign would have lacked its most sophisticated operational components.
@@ -73,7 +73,7 @@ The estrangement appears permanent. The Mercers largely withdrew from direct Tru
 
 ### Sources
 
-- [Washington Post: The Mercers and Stephen Bannon — How a populist power base was funded and built](https://www.washingtonpost.com/graphics/politics/mercer-bannon/) (Tier 2) (VERIFIED)
+- [Washington Post: The Mercers and Stephen Bannon. How a populist power base was funded and built](https://www.washingtonpost.com/graphics/politics/mercer-bannon/) (Tier 2) (VERIFIED)
 - [NPR: Billionaire investor Robert Mercer to step down from firm, selling stake in Breitbart](https://www.npr.org/2017/11/02/561634551/billionaire-investor-robert-mercer-to-step-down-from-firm-selling-stake-in-breit) (Tier 2) (VERIFIED)
-- ~~[CNN: Steve Bannon cleared to sell Mercer-backed holdings](https://money.cnn.com/2017/04/25/news/steve-bannon-divests/index.html)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[CNN: Steve Bannon cleared to sell Mercer-backed holdings](https://money.cnn.com/2017/04/25/news/steve-bannon-divests/index.html)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 

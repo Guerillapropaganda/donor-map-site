@@ -1,5 +1,5 @@
 ---
-title: "Monica de la Cruz Master Profile"
+title: "Monica de la Cruz"
 type: politician
 content-readiness: draft
 last-updated: 2026-04-12

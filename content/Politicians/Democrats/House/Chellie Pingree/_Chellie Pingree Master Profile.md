@@ -1,5 +1,5 @@
 ---
-title: "Chellie Pingree Master Profile"
+title: "Chellie Pingree"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

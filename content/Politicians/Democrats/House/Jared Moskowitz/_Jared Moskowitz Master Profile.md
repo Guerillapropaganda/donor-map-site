@@ -1,5 +1,5 @@
 ---
-title: "Jared Moskowitz Master Profile"
+title: "Jared Moskowitz"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

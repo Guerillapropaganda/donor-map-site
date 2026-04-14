@@ -77,7 +77,7 @@ The FEC DEMO_KEY rate limit was exceeded before this run began. No independent e
 
 ### USASpending. Federal Contract Activity (March 2026)
 
-**Source:** ~~[USASpending API](https://api.usaspending.gov/api/v2/search/spending_by_award/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1) (API)
+**Source:** ~~[USASpending API](https://api.usaspending.gov/api/v2/search/spending_by_award/)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1) (API)
 **Filter:** Award actions dated March 1–27, 2026 | Contract award types A/B/C/D
 
 **Note on data interpretation:** USASpending time_period filters by action date, these are contracts with new obligations, modifications, or task order activity in March 2026, not necessarily new contract starts. Dollar amounts represent the top obligation value on record for those contracts.
@@ -231,6 +231,6 @@ The FEC DEMO_KEY rate limit was exceeded before this run began. No independent e
 - [Senate LDA API: Q1 2026 filings, ordered by post date](https://lda.gov/api/v1/filings/?filing_year=2026&page_size=20&ordering=-dt_posted) (Tier 1) (VERIFIED) (API)
 - [Senate LDA: JPMorgan Chase Holdings LLC filing](https://lda.gov/filings/public/filing/30e77a16-2d6c-4794-a28e-34e5c800caa0/print/) (Tier 1) (VERIFIED) (API)
 - [Senate LDA: ConocoPhillips registration](https://lda.gov/filings/public/filing/afcef92f-b9d9-49f3-ba4b-4020a7f86f6b/print/) (Tier 1) (VERIFIED) (API)
-- ~~[USASpending API: Federal contracts, March 2026, defense contractors](https://api.usaspending.gov/api/v2/search/spending_by_award/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1) (API)
+- ~~[USASpending API: Federal contracts, March 2026, defense contractors](https://api.usaspending.gov/api/v2/search/spending_by_award/)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1) (API)
 - ~~[FEC Developer registration](https://www.fec.gov/developers/)~~ (URL broken, archived by Ops) (reference)
 

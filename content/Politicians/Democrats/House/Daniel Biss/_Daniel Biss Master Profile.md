@@ -1,17 +1,17 @@
 ---
-title: "Daniel Biss Master Profile"
+title: "Daniel Biss"
 type: local-politician
 current-office: "Mayor of Evanston, Illinois (2021–present)"
 former-roles:
   - "Illinois State Senator (2013–2019)"
   - "US House candidate IL-9 (2018 primary, lost)"
 content-readiness: draft
-central-thesis: "Daniel Biss won his 2026 primary in Illinois' 9th District—a heavily Democratic, intellectually-aligned Chicago suburb—by positioning himself as a pro-Palestinian, climate-conscious progressive who is 'not for sale' to AIPAC money. This positionin..."
+central-thesis: "Daniel Biss won his 2026 primary in Illinois' 9th District, a heavily Democratic, intellectually-aligned Chicago suburb, by positioning himself as a pro-Palestinian, climate-conscious progressive who is 'not for sale' to AIPAC money. This positionin..."
 last-updated: 2026-04-11
 source-tier: 1
 parent: null
 party: "Democrat"
-chamber: "House"  # refers to prior federal candidacy, not a current seat
+chamber: "House" # refers to prior federal candidacy, not a current seat
 district: "17"
 issues:
   - "Arts, Culture, Religion"
@@ -36,7 +36,7 @@ known-gaps:
   - "Illinois State Senate voting record (2013–2019) needs direct sourcing from ilga.gov"
   - "2018 IL-9 US House primary campaign (lost to Schakowsky) needs FEC pipeline pass on H6IL09228"
 related: "[[AIPAC - American Israel Public Affairs Committee]] · [[United Democracy Project - UDP]] · [[Elect Chicago Women PAC]] · [[Donna Miller Master Profile]]"
-internal-notes: "[JANITOR 2026-04-11] Bioguide contamination cleared by fix-bioguide-contamination.cjs. This profile had bioguide-id set to 'B001296' ((unknown — smaller 3-file contamination)), almost certainly from a past bulk-set script that fell through to candidates[0]?.bioguideId when a name search failed. 3 unrelated profiles all had the same wrong ID — same class of bug as the A000383 Alan Armstrong incident documented in the Pipeline Guide. The wrong ID has been removed. A correct bioguide must be added manually (verify at bioguide.congress.gov/search) before the Congress.gov pipeline can enrich this profile. Pipeline will skip this profile until a bioguide is provided."
+internal-notes: "[JANITOR 2026-04-11] Bioguide contamination cleared by fix-bioguide-contamination.cjs. This profile had bioguide-id set to 'B001296' ((unknown , smaller 3-file contamination)), almost certainly from a past bulk-set script that fell through to candidates[0]?.bioguideId when a name search failed. 3 unrelated profiles all had the same wrong ID , same class of bug as the A000383 Alan Armstrong incident documented in the Pipeline Guide. The wrong ID has been removed. A correct bioguide must be added manually (verify at bioguide.congress.gov/search) before the Congress.gov pipeline can enrich this profile. Pipeline will skip this profile until a bioguide is provided."
 ---
 #democrat #politician #house
 tags: #democrat
@@ -55,7 +55,7 @@ Daniel K. Biss was born in Bloomington, Indiana, and earned a B.A. from Harvard 
 
 ## The Central Thesis
 
-[[_Daniel Biss Master Profile|Daniel Biss]] won his 2026 primary in Illinois' 9th District—a heavily Democratic, intellectually-aligned Chicago suburb—by positioning himself as a pro-Palestinian, climate-conscious progressive who is "not for sale" to [[AIPAC - American Israel Public Affairs Committee|AIPAC]] money. This positioning is partially genuine: unlike his main opponent Laura Fine, Biss rejected AIPAC's overt support and claimed he would not accept their endorsement. Yet Biss's actual funding base reveals a more complex picture: he received bundled support from J Street PAC ($200K+) and a pro-Israel super PAC affiliate ($150K+). The central thesis is that Biss represents a newer donor strategy within the pro-Israel political economy: the illusion of independent progressivism while maintaining deep ties to pro-Israel infrastructure. AIPAC spent $7M trying to defeat Biss in favor of Fine, but this represented not a genuine loss for AIPAC but a strategic pivot—Biss is more valuable as a "progressive who can't be bought" while still delivering on Israel policy through alternative funding channels and his genuine ideological alignment with liberal Zionism.
+[[_Daniel Biss Master Profile|Daniel Biss]] won his 2026 primary in Illinois' 9th District, a heavily Democratic, intellectually-aligned Chicago suburb, by positioning himself as a pro-Palestinian, climate-conscious progressive who is "not for sale" to [[AIPAC - American Israel Public Affairs Committee|AIPAC]] money. This positioning is partially genuine: unlike his main opponent Laura Fine, Biss rejected AIPAC's overt support and claimed he would not accept their endorsement. Yet Biss's actual funding base reveals a more complex picture: he received bundled support from J Street PAC ($200K+) and a pro-Israel super PAC affiliate ($150K+). The central thesis is that Biss represents a newer donor strategy within the pro-Israel political economy: the illusion of independent progressivism while maintaining deep ties to pro-Israel infrastructure. AIPAC spent $7M trying to defeat Biss in favor of Fine, but this represented not a genuine loss for AIPAC but a strategic pivot, Biss is more valuable as a "progressive who can't be bought" while still delivering on Israel policy through alternative funding channels and his genuine ideological alignment with liberal Zionism.
 
 > [!money]
 > Total 2026 primary funding: Biss raised approximately $1.5M in the primary. J Street PAC bundled $200K+ to his campaign, and J Street's affiliated super PAC spent $150K in his favor. He received approximately 29.6% of the primary vote on March 17, 2026.
@@ -86,21 +86,21 @@ Biss's core contradiction is between his anti-AIPAC rhetoric and his integration
 
 ## Donation-to-Policy Timeline
 
-*Note: Biss rejected AIPAC while accepting $350K+ from J Street — both part of the pro-Israel political economy, just positioned at different points on the spectrum. AIPAC spent $7M trying to defeat him; J Street spent $350K helping him win. The "not for sale" narrative was itself a donor strategy.*
+*Note: Biss rejected AIPAC while accepting $350K+ from J Street, both part of the pro-Israel political economy, just positioned at different points on the spectrum. AIPAC spent $7M trying to defeat him; J Street spent $350K helping him win. The "not for sale" narrative was itself a donor strategy.*
 
 #### J Street / Liberal Zionist Alternative to AIPAC
 
 | Date | Donor | Amount | Given | Policy Outcome |
 |------|-------|--------|-------|----------------|
 | 2026-Q1 | J Street PAC bundles $200K+ to Biss campaign + J Street super PAC spends $150K supporting Biss in primary | $350K+ from J Street infrastructure | 2026 Q1 | Liberal Zionist pro-Israel alternative to AIPAC; provides "progressive" cover for continued pro-Israel alignment; anti-AIPAC positioning masks alternative pro-Israel funding |
-| 2026-Q1 | AIPAC spends $7M+ through United Democracy Project and Elect Chicago Women AGAINST Biss — backing Laura Fine instead | $7M+ AIPAC opposition spending | 2026 Q1 | AIPAC's "loss" is J Street's win within same structural framework; both organizations ultimately support U.S.-Israel alliance; $7M AIPAC spend wasted only if you assume genuinely different policy goals |
+| 2026-Q1 | AIPAC spends $7M+ through United Democracy Project and Elect Chicago Women AGAINST Biss, backing Laura Fine instead | $7M+ AIPAC opposition spending | 2026 Q1 | AIPAC's "loss" is J Street's win within same structural framework; both organizations ultimately support U.S.-Israel alliance; $7M AIPAC spend wasted only if you assume genuinely different policy goals |
 
 #### Primary Victory / "Not For Sale" Theater
 
 | Date | Donor | Amount | Given | Policy Outcome |
 |------|-------|--------|-------|----------------|
 | 2010-2021 | IL state legislature (2010-2019); 2018 gubernatorial run (2nd to Pritzker); Mayor of Evanston (2021-2026) | Progressive credentials built over 15 years | 2010-2021 | Builds brand as intellectually serious progressive (Harvard, MIT, math professor); Evanston mayor record provides governance credential |
-| 2026-03-17 | Wins IL-9 primary with 29.6% — defeats both AIPAC-backed Fine and progressive Abughazaleh | $350K+ J Street vs. $7M+ AIPAC opposition | March 17, 2026 | Victory speech: "AIPAC found out the 9th District is not for sale" — frames win as rejection of donor influence while funded by alternative pro-Israel buyer; the shell game validated |
+| 2026-03-17 | Wins IL-9 primary with 29.6%, defeats both AIPAC-backed Fine and progressive Abughazaleh | $350K+ J Street vs. $7M+ AIPAC opposition | March 17, 2026 | Victory speech: "AIPAC found out the 9th District is not for sale", frames win as rejection of donor influence while funded by alternative pro-Israel buyer; the shell game validated |
 
 > [!money] The Damning Sequences
 > **The pro-Israel shell game (2026):** Biss rejected AIPAC while accepting $350K+ from J Street — both part of the pro-Israel political economy, just positioned at different points on the spectrum. AIPAC spent $7M trying to defeat him; J Street spent $350K helping him win. Biss declared "the 9th District is not for sale" while funded by an alternative pro-Israel buyer. The narrative of principled anti-donor-influence was itself a donor strategy: J Street funds candidates who can claim independence from AIPAC while still delivering on pro-Israel policy through "liberal Zionist" frameworks.
@@ -111,21 +111,21 @@ Biss's core contradiction is between his anti-AIPAC rhetoric and his integration
 
 ## Analytical Patterns
 
-**The Two-Audience Problem** — Biss campaigned as someone opposed to "unconditional aid to the Israeli government" while simultaneously receiving $350K+ from J Street, both organizations part of the pro-Israel political economy. He delivers one message to Palestine-concerned progressives who fear AIPAC money, and a materially identical message to J Street donors: both support Israel's security, differ on Palestinian statehood rhetoric. The contradiction is structural, not rhetorical — two different audiences believe they've bought different policies when they've bought access to the same donor-compatible position on Israel.
+**The Two-Audience Problem**. Biss campaigned as someone opposed to "unconditional aid to the Israeli government" while simultaneously receiving $350K+ from J Street, both organizations part of the pro-Israel political economy. He delivers one message to Palestine-concerned progressives who fear AIPAC money, and a materially identical message to J Street donors: both support Israel's security, differ on Palestinian statehood rhetoric. The contradiction is structural, not rhetorical, two different audiences believe they've bought different policies when they've bought access to the same donor-compatible position on Israel.
 
-**The Genuine Win + Structural Limit** — Biss's rejection of AIPAC money is real and represents a genuine win for progressive organizing against corporate influence in Democratic primaries. However, the structural limit is immediate: rejecting AIPAC didn't mean rejecting pro-Israel funding — it meant shifting to an alternative source within the same political economy. The donor infrastructure adapted. The policy outcome (continued pro-Israel alignment) remained unchanged.
+**The Genuine Win + Structural Limit**. Biss's rejection of AIPAC money is real and represents a genuine win for progressive organizing against corporate influence in Democratic primaries. However, the structural limit is immediate: rejecting AIPAC didn't mean rejecting pro-Israel funding, it meant shifting to an alternative source within the same political economy. The donor infrastructure adapted. The policy outcome (continued pro-Israel alignment) remained unchanged.
 
 ---
 
 ## Rhetorical Signature Moves
 
-1. **"Not For Sale"** — Biss's central rhetorical move in the 2026 primary was claiming he couldn't be bought by AIPAC, positioning himself as a principled anti-donor-influence politician. This rhetoric is powerful precisely because it's partially true (he rejected AIPAC support), but it obscures his actual integration into J Street's pro-Israel donor network.
+1. **"Not For Sale"**. Biss's central rhetorical move in the 2026 primary was claiming he couldn't be bought by AIPAC, positioning himself as a principled anti-donor-influence politician. This rhetoric is powerful precisely because it's partially true (he rejected AIPAC support), but it obscures his actual integration into J Street's pro-Israel donor network.
 
-2. **"Progressive on Gaza, Serious on Israel Policy"** — Biss positions himself as both critical of Israeli government policy and committed to Israel's security, a classic liberal Zionist rhetorical move. This allows him to appeal to both Palestine-concerned progressives and pro-Israel donors, each believing he's "really" on their side.
+2. **"Progressive on Gaza, Serious on Israel Policy"**. Biss positions himself as both critical of Israeli government policy and committed to Israel's security, a classic liberal Zionist rhetorical move. This allows him to appeal to both Palestine-concerned progressives and pro-Israel donors, each believing he's "really" on their side.
 
-3. **"Intellectual and Academic Credentials"** — Biss's identity as a math professor and Harvard/MIT-trained intellectual is central to his political brand. This credential signals to educated, affluent Democratic voters that he's intellectually serious, while his academic background also signals alignment with the professional-managerial class whose members often support liberal Zionism.
+3. **"Intellectual and Academic Credentials"**. Biss's identity as a math professor and Harvard/MIT-trained intellectual is central to his political brand. This credential signals to educated, affluent Democratic voters that he's intellectually serious, while his academic background also signals alignment with the professional-managerial class whose members often support liberal Zionism.
 
-4. **"Evanston Mayor of Inclusive Local Governance"** — His Evanston mayoral record is framed as proof of his ability to govern progressively while maintaining community cohesion, a rhetorical claim that masks the degree to which he is embedded in elite Chicago-area networks and pro-Israel infrastructure.
+4. **"Evanston Mayor of Inclusive Local Governance"**. His Evanston mayoral record is framed as proof of his ability to govern progressively while maintaining community cohesion, a rhetorical claim that masks the degree to which he is embedded in elite Chicago-area networks and pro-Israel infrastructure.
 
 ### Biographical Facts
 
@@ -139,7 +139,7 @@ Biss's core contradiction is between his anti-AIPAC rhetoric and his integration
 
 **Primary Victory:** March 17, 2026 (29.6% of vote)
 
-**Education:** B.A., Harvard University; Ph.D. Mathematics, MIT
+**Education:** B.A. Harvard University; Ph.D. Mathematics, MIT
 
 **Prior Office:** Mayor of Evanston (2021-2026); Illinois State Senate 9th District (2013-2019); Illinois House 17th District (2011-2013)
 

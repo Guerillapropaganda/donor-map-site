@@ -1,5 +1,5 @@
 ---
-title: "Janet Napolitano Master Profile"
+title: "Janet Napolitano"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

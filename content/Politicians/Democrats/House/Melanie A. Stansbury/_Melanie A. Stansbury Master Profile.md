@@ -1,5 +1,5 @@
 ---
-title: "Melanie A. Stansbury Master Profile"
+title: "Melanie A. Stansbury"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

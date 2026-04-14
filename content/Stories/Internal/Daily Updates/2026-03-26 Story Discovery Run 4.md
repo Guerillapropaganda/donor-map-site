@@ -154,7 +154,7 @@ The structural dynamic: Congress produced a scathing bipartisan report (rare bip
 
 ### Sources (all Chrome-verified VALID):
 - [PESTAK: Private Equity Health Care Acquisitions. January 2026](https://pestakeholder.org/news/private-equity-health-care-acquisitions-january-2026/) (Tier 2) (VERIFIED)
-- ~~[Chief Healthcare Executive: Hospitals and Private Equity. Scathing Senate Report Shows Concerns Cross Party Lines](https://www.chiefhealthcareexecutive.com/view/hospitals-and-private-equity-scathing-senate-report-shows-concerns-cross-party-lines)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[Chief Healthcare Executive: Hospitals and Private Equity. Scathing Senate Report Shows Concerns Cross Party Lines](https://www.chiefhealthcareexecutive.com/view/hospitals-and-private-equity-scathing-senate-report-shows-concerns-cross-party-lines)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 
 > [!contradiction]
 > The Senate produced a bipartisan report agreeing that PE-acquired hospitals deliver worse care at higher cost. Then Congress did nothing. Private equity donors fund both parties. The bipartisan agreement on the problem is exactly matched by bipartisan refusal to solve it.

@@ -24,11 +24,11 @@ The needs-reenrichment flag has been set. The next scheduled pipeline run will p
 
 ### Who They Are
 
-IBEW Local 440. Jurisdiction: **Riverside County** — Bianco's direct territory. Over 1,000 wiremen. Established 1939. Offices at 1605 Spruce Street, Riverside, CA 92507 and 39615 Washington Street, Suite G, Palm Desert, CA 92211. Revenue: $5–10 million annually. Employs 20–49 staff.
+IBEW Local 440. Jurisdiction: **Riverside County**. Bianco's direct territory. Over 1,000 wiremen. Established 1939. Offices at 1605 Spruce Street, Riverside, CA 92507 and 39615 Washington Street, Suite G, Palm Desert, CA 92211. Revenue: $5–10 million annually. Employs 20–49 staff.
 
 Local 440 shares training infrastructure with Local 477 through the Inland Empire Electrical Training Center (IEETC). Benefits include medical, dental, vision, legal services, and retirement plans negotiated through the NECA/IBEW labor-management framework. The local is part of the Southern California 9th District IBEW, covering sound and communications agreements alongside other locals in the region.
 
-**Why this node matters separately from Local 477:** Riverside County is where the vault's Bianco thread, RSA political machine, and building trades politics physically intersect. Local 440's members work construction projects approved by Riverside County supervisors who are funded by the RSA. The labor dynamics in Bianco's county — where the sheriff's political machine dominates local politics — are distinct from [[IBEW Local 477 - San Bernardino|San Bernardino]] County's.
+**Why this node matters separately from Local 477:** Riverside County is where the vault's Bianco thread, RSA political machine, and building trades politics physically intersect. Local 440's members work construction projects approved by Riverside County supervisors who are funded by the RSA. The labor dynamics in Bianco's county, where the sheriff's political machine dominates local politics, are distinct from [[IBEW Local 477 - San Bernardino|San Bernardino]] County's.
 
 ---
 
@@ -62,19 +62,19 @@ The local PAC operates at the state and county level, funding Riverside County s
 
 ### Political Context
 
-Local 440 operates in the county where Sheriff Bianco has built the most powerful local political machine in the vault. The RSA spent $863K on the 2022 cycle and has placed allies on the Board of Supervisors (V. Manuel Perez received $126K from RSA since 2018). Local 440's political operation must navigate this environment — seeking prevailing wage enforcement and PLA requirements from the same supervisors who answer to the RSA.
+Local 440 operates in the county where Sheriff Bianco has built the most powerful local political machine in the vault. The RSA spent $863K on the 2022 cycle and has placed allies on the Board of Supervisors (V. Manuel Perez received $126K from RSA since 2018). Local 440's political operation must navigate this environment, seeking prevailing wage enforcement and PLA requirements from the same supervisors who answer to the RSA.
 
 Riverside County's rapid growth (Coachella Valley development, logistics expansion, renewable energy in the eastern desert) creates the construction demand that employs Local 440 members. Whether that work is union or non-union is the central political question for the local.
 
-The local maintains signatory contractor relationships through the NECA/IBEW framework, ensuring contractors meet prevailing wage and private sector classifications. This dual-market positioning — competitive in both prevailing wage public projects and private sector work — is the economic foundation of the local's viability.
+The local maintains signatory contractor relationships through the NECA/IBEW framework, ensuring contractors meet prevailing wage and private sector classifications. This dual-market positioning, competitive in both prevailing wage public projects and private sector work, is the economic foundation of the local's viability.
 
 ---
 
 ### Class Analysis
 
-IBEW Local 440 represents the building trades labor model: skilled workers organized to maintain wage floors, training standards, and working conditions through collective bargaining and political spending. The local's $420K PAC war chest is significant at the county level but modest compared to the RSA's political machine ($863K in a single cycle). The asymmetry matters: law enforcement unions (RSA, PORAC) and building trades unions (IBEW, carpenters, laborers) compete for influence over the same Board of Supervisors, but law enforcement unions have structural advantages — their members enforce the laws that building trades members work under, and their endorsements carry "public safety" framing that labor endorsements do not.
+IBEW Local 440 represents the building trades labor model: skilled workers organized to maintain wage floors, training standards, and working conditions through collective bargaining and political spending. The local's $420K PAC war chest is significant at the county level but modest compared to the RSA's political machine ($863K in a single cycle). The asymmetry matters: law enforcement unions (RSA, PORAC) and building trades unions (IBEW, carpenters, laborers) compete for influence over the same Board of Supervisors, but law enforcement unions have structural advantages, their members enforce the laws that building trades members work under, and their endorsements carry "public safety" framing that labor endorsements do not.
 
-The IBEW national PAC ($13.45M raised in 2024 cycle) places Local 440 within a larger political infrastructure. National IBEW political spending flows primarily to Democrats, but building trades locals in Republican-leaning areas like Riverside County must navigate cross-partisan relationships — supporting Democratic state legislators who protect prevailing wage while working with Republican county supervisors who approve the construction projects.
+The IBEW national PAC ($13.45M raised in 2024 cycle) places Local 440 within a larger political infrastructure. National IBEW political spending flows primarily to Democrats, but building trades locals in Republican-leaning areas like Riverside County must navigate cross-partisan relationships, supporting Democratic state legislators who protect prevailing wage while working with Republican county supervisors who approve the construction projects.
 
 > [!money]
 > The $183K in Local 440 PAC contributions versus the RSA's $863K illustrates the class dynamic in Riverside County politics: law enforcement money dominates. Building trades unions spend to stay at the table. The RSA buys supervisors. IBEW buys project labor agreements. Both are class-interested spending, but the power differential is visible in the numbers.
@@ -83,11 +83,11 @@ The IBEW national PAC ($13.45M raised in 2024 cycle) places Local 440 within a l
 
 ### Sources
 
-- [Transparency USA: IBEW Local 440 PAC Fund — California Committee](https://www.transparencyusa.org/ca/committee/ibew-local-440-pac-fund-1302490-rcp) (Tier 1) (VERIFIED)
+- [Transparency USA: IBEW Local 440 PAC Fund. California Committee](https://www.transparencyusa.org/ca/committee/ibew-local-440-pac-fund-1302490-rcp) (Tier 1) (VERIFIED)
 - [OpenSecrets: IBEW National PAC Profile, 2023–2024 cycle](https://www.opensecrets.org/political-action-committees-pacs/international-brotherhood-of-electrical-workers/C00027342/summary/2024) (Tier 1) (VERIFIED)
 - [FEC: International Brotherhood of Electrical Workers PAC (C00027342)](https://www.fec.gov/data/committee/C00027342/) (Tier 1) (VERIFIED)
 - [DOL OLMS: IBEW Local 440 LM-2 Filing](https://olmsapps.dol.gov/query/orgReport.do?rptForm=LM2Form&rptId=783264) (Tier 1) (VERIFIED)
-- ~~[ZoomInfo: IBEW Local 440 company overview](https://www.zoominfo.com/c/ibew-local-440/118867136)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3)
+- ~~[ZoomInfo: IBEW Local 440 company overview](https://www.zoominfo.com/c/ibew-local-440/118867136)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
 
 ### DOJ Press Releases
 <!-- auto:doj-press removed 2026-04-10 by Research Claude: was showing >10K DOJ mentions from the API index-size false-positive bug. Main engine fix d1ceb91 (2026-04-10) caps at 10K + validates 60% name match. Will repopulate correctly on next pipeline run. -->

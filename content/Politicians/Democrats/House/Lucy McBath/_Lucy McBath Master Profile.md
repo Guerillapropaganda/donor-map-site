@@ -1,5 +1,5 @@
 ---
-title: "Lucy McBath Master Profile"
+title: "Lucy McBath"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

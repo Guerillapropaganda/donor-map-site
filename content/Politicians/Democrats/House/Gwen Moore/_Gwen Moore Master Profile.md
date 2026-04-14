@@ -1,5 +1,5 @@
 ---
-title: "Gwen Moore Master Profile"
+title: "Gwen Moore"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

@@ -70,13 +70,13 @@ The needs-reenrichment flag has been set. The next scheduled pipeline run will p
 
 ### Who They Are
 
-NRHC is a 501(c)(4) trade association founded March 2014, headquartered in Washington, D.C. It advocates for the institutional single-family rental (SFR) and build-to-rent industry, representing owner-operators like Invitation Homes, American Homes 4 Rent, and Progress Residential — the corporate landlords that bought up single-family homes at scale after the 2008 financial crisis. CEO Adrianne Todman (appointed 2025, former HUD Deputy/Acting Secretary) and COO Terrie Suit lead the organization, succeeding founding CEO David Howard.
+NRHC is a 501(c)(4) trade association founded March 2014, headquartered in Washington, D.C. It advocates for the institutional single-family rental (SFR) and build-to-rent industry, representing owner-operators like Invitation Homes, American Homes 4 Rent, and Progress Residential, the corporate landlords that bought up single-family homes at scale after the 2008 financial crisis. CEO Adrianne Todman (appointed 2025, former HUD Deputy/Acting Secretary) and COO Terrie Suit lead the organization, succeeding founding CEO David Howard.
 
 ---
 
 ### What They Want
 
-NRHC lobbies against federal rent caps and tenant protection mandates while supporting GSE reform that benefits SFR securitization — allowing institutional landlords to access cheap mortgage-backed financing for bulk home purchases. The organization lobbies before HUD, Congress, and the FHFA. With Bill Pulte now directing the FHFA (which oversees Fannie Mae and Freddie Mac), NRHC's policy agenda has a direct line to the regulator that controls GSE lending standards for the entire housing market.
+NRHC lobbies against federal rent caps and tenant protection mandates while supporting GSE reform that benefits SFR securitization, allowing institutional landlords to access cheap mortgage-backed financing for bulk home purchases. The organization lobbies before HUD, Congress, and the FHFA. With Bill Pulte now directing the FHFA (which oversees Fannie Mae and Freddie Mac), NRHC's policy agenda has a direct line to the regulator that controls GSE lending standards for the entire housing market.
 
 ---
 
@@ -95,7 +95,7 @@ NRHC lobbies against federal rent caps and tenant protection mandates while supp
 - 2024: $460K
 - 2025: $328K
 
-**Key revolving-door hire:** Adrianne Todman — former HUD Deputy Secretary and Acting HUD Secretary — became NRHC CEO in 2025. This is one of the most direct government-to-industry transitions in the housing sector.
+**Key revolving-door hire:** Adrianne Todman, former HUD Deputy Secretary and Acting HUD Secretary, became NRHC CEO in 2025. This is one of the most direct government-to-industry transitions in the housing sector.
 
 ---
 
@@ -110,7 +110,7 @@ NRHC lobbies against federal rent caps and tenant protection mandates while supp
 
 ### Class Analysis
 
-NRHC represents the corporate landlord class — private equity-backed firms that converted the 2008 housing crisis into a new asset class by buying foreclosed single-family homes at scale. The trade association's function is to normalize institutional ownership of single-family housing and block regulatory responses (rent caps, tenant protections) that would limit returns. The Todman hire is the class analysis in miniature: the person who was supposed to regulate housing on behalf of tenants now advocates for the institutional landlords. NRHC's "Resident-First" messaging is the rhetorical cover for a business model that extracts rent from families who can't afford to buy — in many cases because institutional buyers outbid them for the homes.
+NRHC represents the corporate landlord class, private equity-backed firms that converted the 2008 housing crisis into a new asset class by buying foreclosed single-family homes at scale. The trade association's function is to normalize institutional ownership of single-family housing and block regulatory responses (rent caps, tenant protections) that would limit returns. The Todman hire is the class analysis in miniature: the person who was supposed to regulate housing on behalf of tenants now advocates for the institutional landlords. NRHC's "Resident-First" messaging is the rhetorical cover for a business model that extracts rent from families who can't afford to buy, in many cases because institutional buyers outbid them for the homes.
 
 > [!contradiction]
 > NRHC promotes "Resident-First principles" and "community investment" while its member companies — Invitation Homes, American Homes 4 Rent, Progress Residential — face widespread tenant complaints about maintenance neglect, rent increases, and excessive fees. The organization exists to protect the financial returns of institutional investors, not to serve residents.
@@ -146,7 +146,7 @@ NRHC represents the corporate landlord class — private equity-backed firms tha
 
 > This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.
 
-### Financial Overview (990 Filing — 2023)
+### Financial Overview (990 Filing, 2023)
 <!-- auto:propublica-990 start -->
 | Metric | Amount |
 |--------|--------|

@@ -1,5 +1,5 @@
 ---
-title: "Julian Castro Master Profile"
+title: "Julian Castro"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

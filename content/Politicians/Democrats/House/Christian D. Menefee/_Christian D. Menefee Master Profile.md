@@ -1,5 +1,5 @@
 ---
-title: "Christian D. Menefee Master Profile"
+title: "Christian D. Menefee"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

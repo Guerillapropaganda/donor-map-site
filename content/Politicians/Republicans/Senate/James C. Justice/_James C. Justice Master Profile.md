@@ -1,5 +1,5 @@
 ---
-title: "James C. Justice Master Profile"
+title: "James C. Justice"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

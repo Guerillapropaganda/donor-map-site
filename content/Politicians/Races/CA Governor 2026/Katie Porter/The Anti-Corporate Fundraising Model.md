@@ -51,7 +51,7 @@ donors: (ActBlue small-dollar network)
 | AOC (2024) | ~$30 | 800K+ | Movement left |
 | Porter (2024 Senate) | $38 | 125,000+ | Anti-corporate |
 
-Porter's model is smaller-scale than Sanders but higher average contribution — she draws from professional-class progressives, not working-class movement donors.
+Porter's model is smaller-scale than Sanders but higher average contribution, she draws from professional-class progressives, not working-class movement donors.
 
 ---
 
@@ -66,7 +66,7 @@ Porter's model is smaller-scale than Sanders but higher average contribution —
 
 ### Documented exceptions:
 - Seth Klarman (billionaire investor): $13,900 across three congressional campaigns
-- Donald Mullen (former [[Goldman Sachs|Goldman Sachs]] executive): $8,000+ — Mullen led Goldman's subprime mortgage profiteering operation in the 2000s
+- Donald Mullen (former [[Goldman Sachs|Goldman Sachs]] executive): $8,000+. Mullen led Goldman's subprime mortgage profiteering operation in the 2000s
 - American Council of Life Insurers PAC: trade group serving as corporate shield
 - Council of Insurance Agents & Brokers PAC: another trade group shield
 
@@ -77,9 +77,9 @@ Porter's model is smaller-scale than Sanders but higher average contribution —
 
 ### The [[ActBlue|ActBlue]] Infrastructure
 
-Porter's fundraising runs through [[ActBlue|ActBlue]] — the same platform that channels billions to Democratic candidates. Her Truth to Power Leadership PAC uses joint fundraising appeals that split contributions between the PAC and allied campaigns.
+Porter's fundraising runs through [[ActBlue|ActBlue]], the same platform that channels billions to Democratic candidates. Her Truth to Power Leadership PAC uses joint fundraising appeals that split contributions between the PAC and allied campaigns.
 
-The structural dependency: ActBlue takes a 3.95% processing fee on every donation. Porter's anti-corporate model runs on infrastructure owned by a for-profit payment processor. The platform itself is not compromised — but it means the "grassroots" model is mediated by the same financial infrastructure that serves the Democratic establishment.
+The structural dependency: ActBlue takes a 3.95% processing fee on every donation. Porter's anti-corporate model runs on infrastructure owned by a for-profit payment processor. The platform itself is not compromised, but it means the "grassroots" model is mediated by the same financial infrastructure that serves the Democratic establishment.
 
 ---
 
@@ -96,6 +96,6 @@ The critical question: Porter's model raised $6.1 million. Steyer has self-funde
 ### Sources
 
 - [CalMatters: Katie Porter, Adam Schiff and Barbara Lee swore off corporate PAC money](https://calmatters.org/politics/elections/2024/02/california-senate-race-corporate-pacs/) (Tier 2) (VERIFIED)
-- ~~[Congress.gov: Rep. Katie Porter Campaign Finance Summary](https://www.congress.gov/search?q=Katie%20Porter&searchResultViewType=expanded)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[Congress.gov: Rep. Katie Porter Campaign Finance Summary](https://www.congress.gov/search?q=Katie%20Porter&searchResultViewType=expanded)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [Daily Beast: Katie Porter Touts Clean Campaign Cash. Her Record Isn't So Spotless.](https://www.thedailybeast.com/katie-porter-touts-clean-campaign-cash-her-record-isnt-so-spotless/) (Tier 2) (VERIFIED)
 - [Yahoo News: Fact check: Did Katie Porter get campaign cash from Big Pharma, Big Oil and Big Banks?](https://www.yahoo.com/news/fact-check-did-katie-porter-233119467.html) (Tier 2) (VERIFIED)

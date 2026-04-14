@@ -2,7 +2,7 @@
 title: "Rick Larsen"
 type: politician
 content-readiness: ready
-central-thesis: "Rick Larsen is Boeing's Democratic guardian — the ranking member on Transportation who ensures the aviation giant has bipartisan protection in the House. His district hosts Boeing's largest factory. Boeing is his top donor. He chaired the Aviation..."
+central-thesis: "Rick Larsen is Boeing's Democratic guardian , the ranking member on Transportation who ensures the aviation giant has bipartisan protection in the House. His district hosts Boeing's largest factory. Boeing is his top donor. He chaired the Aviation..."
 last-updated: 2026-04-13
 source-tier: 1
 parent: null
@@ -55,9 +55,9 @@ donors: [[Boeing]]
 
 ## Who They Are
 
-Rick Larsen has represented Washington's 2nd Congressional District since 2001 and serves as Ranking Member of the House Transportation and Infrastructure Committee. He previously chaired the Aviation Subcommittee (top Democrat since 2013) — the subcommittee with direct FAA oversight authority over Boeing, the largest manufacturer in his state and district.
+Rick Larsen has represented Washington's 2nd Congressional District since 2001 and serves as Ranking Member of the House Transportation and Infrastructure Committee. He previously chaired the Aviation Subcommittee (top Democrat since 2013), the subcommittee with direct FAA oversight authority over Boeing, the largest manufacturer in his state and district.
 
-Larsen's district includes Boeing's largest manufacturing facility in Everett, Washington — where the 747, 767, 777, 787, and KC-46 tanker are assembled. The district also includes the ports of Everett and Bellingham. Before Congress, he worked at the Port of Everett as an economic development official and directed public affairs for the Washington State Dental Association. He holds a BA from Pacific Lutheran University and a Master's in public affairs from the University of Minnesota.
+Larsen's district includes Boeing's largest manufacturing facility in Everett, Washington, where the 747, 767, 777, 787, and KC-46 tanker are assembled. The district also includes the ports of Everett and Bellingham. Before Congress, he worked at the Port of Everett as an economic development official and directed public affairs for the Washington State Dental Association. He holds a BA from Pacific Lutheran University and a Master's in public affairs from the University of Minnesota.
 
 Career fundraising: $1.26 million from transportation industry PACs and $560,000 from defense industry PACs. Boeing is his top career organizational donor.
 
@@ -65,9 +65,9 @@ Career fundraising: $1.26 million from transportation industry PACs and $560,000
 
 ## The Central Thesis
 
-Rick Larsen is Boeing's Democratic guardian — the ranking member on Transportation who ensures the aviation giant has bipartisan protection in the House. His district hosts Boeing's largest factory. Boeing is his top donor. He chaired the Aviation Subcommittee that oversees FAA regulation of Boeing. And when the Machinists' union — his own party's labor base — challenged Boeing's labor practices, Larsen sided with Boeing over the union, urging workers to accept a controversial contract. The Machinists revoked their endorsement in 2014.
+Rick Larsen is Boeing's Democratic guardian, the ranking member on Transportation who ensures the aviation giant has bipartisan protection in the House. His district hosts Boeing's largest factory. Boeing is his top donor. He chaired the Aviation Subcommittee that oversees FAA regulation of Boeing. And when the Machinists' union, his own party's labor base, challenged Boeing's labor practices, Larsen sided with Boeing over the union, urging workers to accept a controversial contract. The Machinists revoked their endorsement in 2014.
 
-This is the structural alignment pattern in its Democratic variant: like Cantwell in the Senate, Larsen represents a Washington State district where Boeing IS the economy. Defending Boeing isn't a choice — it's a structural requirement of the seat. The T&I ranking member and the Aviation Subcommittee chair cannot meaningfully regulate Boeing when Boeing employs his constituents, funds his campaigns, and dominates his district's economy.
+This is the structural alignment pattern in its Democratic variant: like Cantwell in the Senate, Larsen represents a Washington State district where Boeing IS the economy. Defending Boeing isn't a choice, it's a structural requirement of the seat. The T&I ranking member and the Aviation Subcommittee chair cannot meaningfully regulate Boeing when Boeing employs his constituents, funds his campaigns, and dominates his district's economy.
 
 ---
 
@@ -91,14 +91,14 @@ This is the structural alignment pattern in its Democratic variant: like Cantwel
 2. Defense / aerospace
 3. Construction
 4. Railroads
-5. Labor unions (complex — see Machinists revocation)
+5. Labor unions (complex, see Machinists revocation)
 
 ### Key Organizational Contributors:
 1. Boeing Company (#1 career donor)
 2. Microsoft Corporation
 3. Transportation industry PACs
 4. Construction and engineering PACs
-5. Labor unions (SEIU, AFSCME — but NOT Machinists after 2014)
+5. Labor unions (SEIU, AFSCME, but NOT Machinists after 2014)
 
 > [!money]
 > $1.26 million from transportation PACs + $560,000 from defense PACs = $1.82 million in career industry money from the sectors his committee oversees. Boeing sits at the intersection of both: it's a transportation company (commercial aviation) and a defense contractor (KC-46 tanker, built in his district). Boeing's dual identity as aviation manufacturer and defense contractor means it benefits from both of Larsen's fundraising pipelines — transportation AND defense PAC money flow through the same company.
@@ -110,19 +110,19 @@ This is the structural alignment pattern in its Democratic variant: like Cantwel
 ### Pipeline: Boeing → Aviation Oversight
 | Date | Type | Event | Donor | Amount | Gap |
 |------|------|-------|-------|--------|-----|
-| 2001-2024 | DONATION | Boeing #1 career organizational donor | Boeing | #1 donor | — |
-| 2013-2023 | ROLE | Top Democrat on Aviation Subcommittee (FAA oversight of Boeing) | — | — | — |
-| 2023 | ROLE | T&I Committee Ranking Member | — | — | — |
-| 2001-2024 | ← POLICY | Consistent advocacy for Boeing production, exports, defense contracts | — | — | Ongoing |
-| 2024-2025 | ← NOTE | FAA oversight of Boeing safety (737 MAX aftermath) handled partly through his committee — oversight that protects Boeing while addressing safety | — | — | — |
+| 2001-2024 | DONATION | Boeing #1 career organizational donor | Boeing | #1 donor |, |
+| 2013-2023 | ROLE | Top Democrat on Aviation Subcommittee (FAA oversight of Boeing) |, |, |, |
+| 2023 | ROLE | T&I Committee Ranking Member |, |, |, |
+| 2001-2024 | ← POLICY | Consistent advocacy for Boeing production, exports, defense contracts |, |, | Ongoing |
+| 2024-2025 | ← NOTE | FAA oversight of Boeing safety (737 MAX aftermath) handled partly through his committee, oversight that protects Boeing while addressing safety |, |, |, |
 
 ### Pipeline: Boeing vs. Machinists Union (2014)
 | Date | Type | Event | Donor | Amount | Gap |
 |------|------|-------|-------|--------|-----|
-| 2014 | ← ACTION | Larsen urges Machinists to accept Boeing's controversial contract offer | Boeing | — | — |
-| 2014 | ← NOTE | Cited economic benefits to region; union leaders fiercely opposed | — | — | — |
-| 2014 | ← CONSEQUENCE | Washington Machinists Council revokes Larsen endorsement | — | — | Immediate |
-| 2014 | ← NOTE | Pro-labor Democrat chose Boeing (top donor, district employer) over the union representing Boeing workers. The structural alignment with Boeing overrode party-base labor solidarity. | — | — | — |
+| 2014 | ← ACTION | Larsen urges Machinists to accept Boeing's controversial contract offer | Boeing |, |, |
+| 2014 | ← NOTE | Cited economic benefits to region; union leaders fiercely opposed |, |, |, |
+| 2014 | ← CONSEQUENCE | Washington Machinists Council revokes Larsen endorsement |, |, | Immediate |
+| 2014 | ← NOTE | Pro-labor Democrat chose Boeing (top donor, district employer) over the union representing Boeing workers. The structural alignment with Boeing overrode party-base labor solidarity. |, |, |, |
 
 ---
 
@@ -140,29 +140,29 @@ The bipartisan protection model makes the class function explicit. Larsen (Democ
 
 **Both-Sides Illusion:** Larsen (Democratic RM) and Graves (Republican Chair) both receive transportation industry money. Boeing funds both. Airlines fund both. The T&I Committee's bipartisan infrastructure consensus ensures that the industries regulated by the committee fund both parties' leadership on the committee. The partisan fights are about details, not the fundamental relationship between the committee and its donor industries.
 
-**Two-Audience Problem:** To labor unions: a pro-union Democrat who supports SEIU, AFSCME, and workers' rights. To Boeing: a reliable advocate who will protect aviation manufacturing and defense contracts. When the two audiences conflict directly (Boeing vs. Machinists contract dispute), Boeing wins — because Boeing employs the constituents, funds the campaign, and dominates the district's economy.
+**Two-Audience Problem:** To labor unions: a pro-union Democrat who supports SEIU, AFSCME, and workers' rights. To Boeing: a reliable advocate who will protect aviation manufacturing and defense contracts. When the two audiences conflict directly (Boeing vs. Machinists contract dispute), Boeing wins, because Boeing employs the constituents, funds the campaign, and dominates the district's economy.
 
-**Genuine Win + Structural Limit:** Larsen delivers real infrastructure benefits — highway funding, port improvements, aviation safety reforms. The structural limit: he cannot meaningfully challenge Boeing's business practices, labor relations, or safety culture because Boeing's factory IS his district's economic lifeline.
+**Genuine Win + Structural Limit:** Larsen delivers real infrastructure benefits, highway funding, port improvements, aviation safety reforms. The structural limit: he cannot meaningfully challenge Boeing's business practices, labor relations, or safety culture because Boeing's factory IS his district's economic lifeline.
 
-**Donor-Class Override (localized):** When Larsen sided with Boeing over the Machinists, the Machinists revoked their endorsement. But Larsen kept winning elections because Boeing's economic weight in the district outweighs the union's political weight. The donor class (Boeing) overrode the labor base — and the electoral math confirmed it.
+**Donor-Class Override (localized):** When Larsen sided with Boeing over the Machinists, the Machinists revoked their endorsement. But Larsen kept winning elections because Boeing's economic weight in the district outweighs the union's political weight. The donor class (Boeing) overrode the labor base, and the electoral math confirmed it.
 
 ---
 
 ## Rhetorical Signature Moves
 
-**"Sound investments in transportation"** — The infrastructure framing that makes every transportation spending bill sound like economic stewardship. The function: justify committee jurisdiction spending as necessary investment.
+**"Sound investments in transportation"**. The infrastructure framing that makes every transportation spending bill sound like economic stewardship. The function: justify committee jurisdiction spending as necessary investment.
 
-**"Washington's aerospace economy"** — The state-economy framing that makes Boeing advocacy synonymous with constituent service. Identical to Cantwell's framing in the Senate. The function: position industry protection as economic patriotism.
+**"Washington's aerospace economy"**. The state-economy framing that makes Boeing advocacy synonymous with constituent service. Identical to Cantwell's framing in the Senate. The function: position industry protection as economic patriotism.
 
-**"Both sides need to work together"** — The Boeing-Machinists mediation language. Framing the contract dispute as a two-sided disagreement rather than a labor-management power imbalance. The function: position himself as reasonable mediator while pushing Boeing's preferred outcome.
+**"Both sides need to work together"**. The Boeing-Machinists mediation language. Framing the contract dispute as a two-sided disagreement rather than a labor-management power imbalance. The function: position himself as reasonable mediator while pushing Boeing's preferred outcome.
 
 ---
 
 ### Connected Profiles
 
-- [[_Sam Graves Master Profile|Graves]] — Transportation Chair (Republican counterpart)
-- [[_Maria Cantwell Master Profile|Cantwell]] — Washington State's other Boeing defender (Senate)
-- [[Boeing]] — #1 career donor
+- [[_Sam Graves Master Profile|Graves]]. Transportation Chair (Republican counterpart)
+- [[_Maria Cantwell Master Profile|Cantwell]]. Washington State's other Boeing defender (Senate)
+- [[Boeing]], #1 career donor
 
 ---
 
@@ -176,7 +176,7 @@ The bipartisan protection model makes the class function explicit. Larsen (Democ
 - [Seattle Times: Rep. Larsen loses backing of Machinists over Boeing offer](https://www.seattletimes.com/seattle-news/rep-larsen-loses-backing-of-machinists-over-boeing-offer/) (Tier 2) (VERIFIED)
 - [Everett Herald: State labor council spurns Larsen with no endorsement](https://www.heraldnet.com/2014/05/13/state-labor-council-spurns-larsen-with-no-endorsement/) (Tier 2) (VERIFIED)
 - [My Everett News: Machinists vote to accept Boeing contract extension](https://myeverettnews.com/2011/12/07/machinists-vote-to-accept-boeing-contract-extension-by-74-reaction-from-iam-751-boeing-and-congressman-larsen/) (Tier 2) (VERIFIED)
-- ~~[ACEC 2025 Convention: Congressman Rick Larsen](https://convention.acec.org/speakers/congressman-rick-larsen/)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3)
+- ~~[ACEC 2025 Convention: Congressman Rick Larsen](https://convention.acec.org/speakers/congressman-rick-larsen/)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
 - [Ballotpedia: Rick Larsen](https://ballotpedia.org/Rick_Larsen) (Tier 3) (VERIFIED)
 - [Wikipedia: Rick Larsen](https://en.wikipedia.org/wiki/Rick_Larsen) (Tier 3) (VERIFIED)
 

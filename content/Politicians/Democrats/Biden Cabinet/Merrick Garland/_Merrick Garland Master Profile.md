@@ -1,5 +1,5 @@
 ---
-title: "Merrick Garland Master Profile"
+title: "Merrick Garland"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

@@ -64,7 +64,7 @@ Christians United for Israel (CUFI). 10 million members. Pastor John Hagee. The 
 
 ---
 
-### March 2026 — The Iran War Delivers
+### March 2026. The Iran War Delivers
 The February 28, 2026 US-Israel joint strikes on Iran represent the highest-value donor return in the vault. The war serves all three donor constituencies mapped above simultaneously: [[Miriam Adelson]]'s $100M+ purchased the geopolitical conditions for West Bank annexation. Defense contractors' $6M to 147 election-certifying Republicans returned $200B+ in emergency supplemental spending ([Al Jazeera](https://www.aljazeera.com/news/2026/3/19/hegseth-says-no-timeframe-for-war-on-iran-as-pentagon-asks-for-200bn) (VERIFIED), Tier 2). Fossil fuel majors' $219M election investment produced a 50%+ oil price spike through Strait of Hormuz closure ([Dallas Fed](https://www.dallasfed.org/research/economics/2026/0320) (VERIFIED), Tier 1).
 
 > [!money] The war as donor return

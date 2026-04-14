@@ -2,7 +2,7 @@
 title: "Jamie Raskin"
 type: politician
 content-readiness: draft
-central-thesis: "Raskin is the constitutional scholar who became the Democratic Party's anti-corruption brand — the intellectual conscience of the caucus, the impeachment manager, the man who channels grief (his son Tommy's death by suicide in 2020) into democrati..."
+central-thesis: "Raskin is the constitutional scholar who became the Democratic Party's anti-corruption brand , the intellectual conscience of the caucus, the impeachment manager, the man who channels grief (his son Tommy's death by suicide in 2020) into democrati..."
 last-updated: 2026-04-13
 source-tier: 1
 parent: null
@@ -62,7 +62,7 @@ donors:
 
 ## Who They Are
 
-Jamie Raskin. Democrat, Maryland's 8th District (Montgomery County, suburban Washington DC). First elected 2016. Ranking Member, House Judiciary Committee — the committee with jurisdiction over constitutional law, civil liberties, antitrust, immigration, justice system, and the federal courts. Previously served as Ranking Member of the House Oversight and Accountability Committee.
+Jamie Raskin. Democrat, Maryland's 8th District (Montgomery County, suburban Washington DC). First elected 2016. Ranking Member, House Judiciary Committee, the committee with jurisdiction over constitutional law, civil liberties, antitrust, immigration, justice system, and the federal courts. Previously served as Ranking Member of the House Oversight and Accountability Committee.
 
 Before Congress, Raskin was a constitutional law professor at American University Washington College of Law for 25+ years. Harvard College (magna cum laude, Phi Beta Kappa) and Harvard Law School (magna cum laude). Studied under Laurence Tribe. Founded the Marshall-Brennan Constitutional Literacy Project, which sends law students to teach constitutional law in high schools. Author of the Washington Post bestseller "Overruling Democracy."
 
@@ -74,7 +74,7 @@ Married to Sarah Bloom Raskin, former Federal Reserve official and former Maryla
 
 ## The Central Thesis
 
-Raskin is the constitutional scholar who became the Democratic Party's anti-corruption brand — the intellectual conscience of the caucus, the impeachment manager, the man who channels grief (his son Tommy's death by suicide in 2020) into democratic defense. His brand is powerful because it's largely authentic: he actually is a constitutional law professor, he actually did lead the impeachment, and his campaign finance reform positions are genuinely held. The tension isn't between rhetoric and record on policy votes — it's between the anti-corruption brand and the fundraising structure that sustains it. Raskin holds $5.9M+ cash on hand — substantial for a Maryland House member. 46% of his funding comes from large individual contributions, concentrated among Montgomery County's professional class: lawyers, professors, doctors. His wife received a $1.5M stock payout from a fintech company while he had oversight jurisdiction over fintech regulation, and he delayed disclosure by eight months. The campaign finance reformer's own finances reveal the professional-class donor structure he nominally critiques.
+Raskin is the constitutional scholar who became the Democratic Party's anti-corruption brand, the intellectual conscience of the caucus, the impeachment manager, the man who channels grief (his son Tommy's death by suicide in 2020) into democratic defense. His brand is powerful because it's largely authentic: he actually is a constitutional law professor, he actually did lead the impeachment, and his campaign finance reform positions are genuinely held. The tension isn't between rhetoric and record on policy votes, it's between the anti-corruption brand and the fundraising structure that sustains it. Raskin holds $5.9M+ cash on hand, substantial for a Maryland House member. 46% of his funding comes from large individual contributions, concentrated among Montgomery County's professional class: lawyers, professors, doctors. His wife received a $1.5M stock payout from a fintech company while he had oversight jurisdiction over fintech regulation, and he delayed disclosure by eight months. The campaign finance reformer's own finances reveal the professional-class donor structure he nominally critiques.
 
 ---
 
@@ -109,7 +109,7 @@ Raskin is the constitutional scholar who became the Democratic Party's anti-corr
 > **The Professional-Class Fundraising Machine:** Raskin's 9.87% PAC funding rate is genuinely low — most committee leaders are far more PAC-dependent. His 36% small-donor rate shows real grassroots support. But the 46% large individual contributions tell the class story: his donor base is Montgomery County's professional elite. These are not corporate PACs buying access — they're credentialed professionals whose class interests align with the constitutional protections, institutional stability, and regulatory frameworks Raskin champions. The reforms he pushes protect property rights, professional licensing, and legal services industries. This isn't corruption. It's structural alignment between a professional-class donor base and a professional-class political agenda.
 
 ### Top Individual Donors:
-- Debra Katz (Attorney, Takoma Park, MD) — Maximum contributions ($3,300 x 2) in 2023-24 cycle
+- Debra Katz (Attorney, Takoma Park, MD). Maximum contributions ($3,300 x 2) in 2023-24 cycle
 - Concentrated among Montgomery County legal and professional community
 
 **Leadership PAC:** Democracy Summer Leadership PAC
@@ -134,13 +134,13 @@ Raskin is the constitutional scholar who became the Democratic Party's anti-corr
 | Date | Event | Amount | Source |
 |------|-------|--------|--------|
 | 2016-present | Career fundraising from legal/professional class | $5.9M+ cash on hand | OpenSecrets |
-| 2021 | Led second Trump impeachment as House manager | — | Congressional Record |
-| 2021 | Introduced Get Foreign Money Out of U.S. Elections Act | — | Congress.gov |
+| 2021 | Led second Trump impeachment as House manager |, | Congressional Record |
+| 2021 | Introduced Get Foreign Money Out of U.S. Elections Act |, | Congress.gov |
 | Post-2020 | Sarah Bloom Raskin receives fintech stock payout | $1.5M | Ethics disclosure |
-| 2022 | Sarah Bloom Raskin Fed nomination withdrawn | — | Senate Banking Committee |
-| 2022 | Sent letter to FTC/DOJ demanding Big Tech auto industry scrutiny | — | Raskin.house.gov |
-| 2022 | Jan 6 Committee unanimously refers Trump to DOJ | — | Congressional Record |
-| 2024 | Named Ranking Member, House Judiciary Committee | — | House Democrats |
+| 2022 | Sarah Bloom Raskin Fed nomination withdrawn |, | Senate Banking Committee |
+| 2022 | Sent letter to FTC/DOJ demanding Big Tech auto industry scrutiny |, | Raskin.house.gov |
+| 2022 | Jan 6 Committee unanimously refers Trump to DOJ |, | Congressional Record |
+| 2024 | Named Ranking Member, House Judiciary Committee |, | House Democrats |
 
 ---
 
@@ -158,21 +158,21 @@ The Sarah Bloom Raskin entanglement sharpens the analysis. Raskin's wife served 
 
 **Two-Audience Problem:** Raskin's public brand is the anti-corruption constitutional scholar fighting dark money and corporate power. His fundraising reality is a $5.9M war chest funded primarily by large individual contributions from professional-class donors. He preaches campaign finance reform while maximizing individual fundraising within legal limits. His leadership PAC operates within the same system he publicly critiques.
 
-**Revolving Door (Family):** Sarah Bloom Raskin's trajectory — Federal Reserve → state regulator → fintech company → $1.5M stock payout — is a textbook revolving door. The delayed disclosure and the withdrawn Fed nomination show how family financial entanglements create the same structural conflicts as direct staff revolving doors.
+**Revolving Door (Family):** Sarah Bloom Raskin's trajectory. Federal Reserve → state regulator → fintech company → $1.5M stock payout, is a textbook revolving door. The delayed disclosure and the withdrawn Fed nomination show how family financial entanglements create the same structural conflicts as direct staff revolving doors.
 
-**Genuine Win + Structural Limit:** Raskin's constitutional advocacy is genuine — the impeachment leadership, the January 6th investigation, the campaign finance reform bills are real work with real consequences. But campaign finance reform legislation he sponsors has no realistic path to passage, allowing him to maintain the reform brand without threatening the professional-class fundraising structure that sustains his career. The structural limit is the bills themselves: they're aspirational, not operational.
+**Genuine Win + Structural Limit:** Raskin's constitutional advocacy is genuine, the impeachment leadership, the January 6th investigation, the campaign finance reform bills are real work with real consequences. But campaign finance reform legislation he sponsors has no realistic path to passage, allowing him to maintain the reform brand without threatening the professional-class fundraising structure that sustains his career. The structural limit is the bills themselves: they're aspirational, not operational.
 
-**Self-Funding as Independence (inverted):** Raskin isn't self-funded, but his low PAC dependence (9.87%) and high individual donor base create a similar framing — he can claim independence from institutional money. The independence is real relative to PAC-dependent colleagues, but the professional-class donor concentration creates its own form of alignment.
+**Self-Funding as Independence (inverted):** Raskin isn't self-funded, but his low PAC dependence (9.87%) and high individual donor base create a similar framing, he can claim independence from institutional money. The independence is real relative to PAC-dependent colleagues, but the professional-class donor concentration creates its own form of alignment.
 
 ---
 
 ## Rhetorical Signature Moves
 
-Raskin's signature is the constitutional argument delivered with emotional weight. His impeachment presentation — conducted weeks after his son Tommy's suicide — combined legal precision with personal grief in a way that no other Democratic politician could replicate. He quotes the Constitution the way a preacher quotes scripture: with authority, from memory, with moral urgency.
+Raskin's signature is the constitutional argument delivered with emotional weight. His impeachment presentation, conducted weeks after his son Tommy's suicide, combined legal precision with personal grief in a way that no other Democratic politician could replicate. He quotes the Constitution the way a preacher quotes scripture: with authority, from memory, with moral urgency.
 
-On oversight, he frames every investigation as a constitutional question — not partisan politics but institutional defense. This framing is strategically powerful because it positions Democratic priorities (accountability, transparency, anti-corruption) as above politics rather than of politics.
+On oversight, he frames every investigation as a constitutional question, not partisan politics but institutional defense. This framing is strategically powerful because it positions Democratic priorities (accountability, transparency, anti-corruption) as above politics rather than of politics.
 
-On campaign finance reform, he leads with the structural argument — corporations aren't people, money isn't speech — while operating within the existing system at a high level of sophistication. The rhetorical move is to critique the game while winning it.
+On campaign finance reform, he leads with the structural argument, corporations aren't people, money isn't speech, while operating within the existing system at a high level of sophistication. The rhetorical move is to critique the game while winning it.
 
 ---
 
@@ -181,7 +181,7 @@ On campaign finance reform, he leads with the structural argument — corporatio
 - [FEC Candidate: Jamie Raskin donor profile](https://www.fec.gov/data/candidate/H6MD08457/) (Tier 1) (VERIFIED)
 - [FEC: Jamie Raskin candidate profile](https://www.fec.gov/data/candidate/H6MD08457/) (Tier 1) (VERIFIED)
 - [ProPublica FEC Itemizer: Jamie Raskin PAC donations](https://projects.propublica.org/itemizer/committee/C00575126/2024/pac-donations) (Tier 1) (VERIFIED)
-- ~~[Congress.gov: Jamie Raskin member profile](https://www.congress.gov/member/jamie-raskin/R000606)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[Congress.gov: Jamie Raskin member profile](https://www.congress.gov/member/jamie-raskin/R000606)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [Raskin.house.gov: Committees and Caucuses](https://raskin.house.gov/committees-and-caucuses) (Tier 1) (VERIFIED)
 - [Raskin.house.gov: Raskin to lead Democrats on Judiciary](https://raskin.house.gov/2024/12/rep-jamie-raskin-to-lead-democrats-on-house-judiciary-committee) (Tier 1) (VERIFIED)
 - [NPR: Amid grief, Raskin leads Trump impeachment effort](https://www.npr.org/2021/01/27/960768286/amid-grief-rep-jamie-raskin-leads-trump-impeachment-effort-in-senate) (Tier 2) (VERIFIED)

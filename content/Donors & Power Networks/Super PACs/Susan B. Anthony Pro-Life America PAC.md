@@ -43,11 +43,11 @@ Susan B. Anthony Pro-Life America's spending directly produced: Republican nomin
 
 ### Class Analysis
 
-Susan B. Anthony Pro-Life America exemplifies single-issue donor power in American politics: a PAC organized around one issue (abortion restriction) with sufficient funding to function as a kingmaker in national elections. The organization's success reveals that focused donor investment in a single-issue mobilization can overcome broader political headwinds—anti-abortion messaging attracted evangelical voters and overturned a 50-year constitutional precedent despite majority public support for abortion access. The PAC's funding sources remain partially obscured through its 501(c)(4) dark money structure, but the organization's electoral power demonstrates that reproductive rights opponents have superior funding to reproductive rights defenders. Susan B. Anthony Pro-Life America's victory on abortion reveals that minoritarian single-issue donors can exercise veto power over broader electoral politics when they have sufficient funding and organizational discipline.
+Susan B. Anthony Pro-Life America exemplifies single-issue donor power in American politics: a PAC organized around one issue (abortion restriction) with sufficient funding to function as a kingmaker in national elections. The organization's success reveals that focused donor investment in a single-issue mobilization can overcome broader political headwinds, anti-abortion messaging attracted evangelical voters and overturned a 50-year constitutional precedent despite majority public support for abortion access. The PAC's funding sources remain partially obscured through its 501(c)(4) dark money structure, but the organization's electoral power demonstrates that reproductive rights opponents have superior funding to reproductive rights defenders. Susan B. Anthony Pro-Life America's victory on abortion reveals that minoritarian single-issue donors can exercise veto power over broader electoral politics when they have sufficient funding and organizational discipline.
 
 ### Sources
 
-- ~~[OpenSecrets: SBA Pro-Life America spending 2024](https://www.opensecrets.org/pacs/super-pacs/2024)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
-- ~~[OpenSecrets: Susan B. Anthony Pro-Life America organizational profile](https://www.opensecrets.org/orgs/susan-b-anthony-list/summary?id=D000029113)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
-- ~~[The Guardian: Anti-abortion PAC political influence](https://www.theguardian.com/us-news/2024/abortion-pac-influence)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[OpenSecrets: SBA Pro-Life America spending 2024](https://www.opensecrets.org/pacs/super-pacs/2024)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- ~~[OpenSecrets: Susan B. Anthony Pro-Life America organizational profile](https://www.opensecrets.org/orgs/susan-b-anthony-list/summary?id=D000029113)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- ~~[The Guardian: Anti-abortion PAC political influence](https://www.theguardian.com/us-news/2024/abortion-pac-influence)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 

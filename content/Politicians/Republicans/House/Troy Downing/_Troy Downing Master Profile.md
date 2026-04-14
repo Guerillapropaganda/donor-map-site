@@ -1,5 +1,5 @@
 ---
-title: "Troy Downing Master Profile"
+title: "Troy Downing"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

@@ -45,13 +45,13 @@ The needs-reenrichment flag has been set. The next scheduled pipeline run will p
 
 ### Who They Are
 
-Ocean Conservancy is a 501(c)(3) environmental nonprofit based in Washington, D.C., founded in 1972. It operates the International Coastal Cleanup — the world's largest volunteer ocean cleanup event, mobilizing 500,000+ volunteers in 100+ countries annually — and maintains a federal lobbying operation focused on ocean policy: marine protected areas, plastic pollution legislation, NOAA funding, and climate-ready fisheries management.
+Ocean Conservancy is a 501(c)(3) environmental nonprofit based in Washington, D.C. founded in 1972. It operates the International Coastal Cleanup, the world's largest volunteer ocean cleanup event, mobilizing 500,000+ volunteers in 100+ countries annually, and maintains a federal lobbying operation focused on ocean policy: marine protected areas, plastic pollution legislation, NOAA funding, and climate-ready fisheries management.
 
 Annual revenue: approximately $40–60M, drawn from foundation grants, federal contracts, and corporate partnerships. OpenSecrets ID: D000064969. The organization spent **$620,000 lobbying in 2024** and **$680,700 in 2025**, targeting Congress and NOAA on ocean and fisheries legislation.
 
 Since 2008, Ocean Conservancy has received more than **$14.2 million in federal grants**, including two major awards in 2024 alone: **$5.2M from NOAA** (marine debris cleanup, funded by the Bipartisan Infrastructure Law) and **$1.7M from the EPA** (marine debris). Federal grant dependence creates structural alignment between OC's advocacy positions and the priorities of whichever administration controls NOAA and EPA appropriations.
 
-Its major institutional funders include the David and Lucile Packard Foundation, Gordon and Betty Moore Foundation, and Bloomberg Philanthropies — the elite liberal philanthropic bloc that shapes the environmental nonprofit ecosystem. Corporate partners include The Coca-Cola Company, Dow Chemical, and the American Chemistry Council — the very industries that produce the plastic Ocean Conservancy claims to fight.
+Its major institutional funders include the David and Lucile Packard Foundation, Gordon and Betty Moore Foundation, and Bloomberg Philanthropies, the elite liberal philanthropic bloc that shapes the environmental nonprofit ecosystem. Corporate partners include The Coca-Cola Company, Dow Chemical, and the American Chemistry Council, the very industries that produce the plastic Ocean Conservancy claims to fight.
 
 ---
 
@@ -59,9 +59,9 @@ Its major institutional funders include the David and Lucile Packard Foundation,
 
 Ocean Conservancy's formal policy agenda:
 
-- **Marine Protected Areas:** Advocates for the 30x30 framework — protecting 30% of U.S. oceans by 2030. Supported Biden administration executive actions expanding marine protections (2021–2024).
+- **Marine Protected Areas:** Advocates for the 30x30 framework, protecting 30% of U.S. oceans by 2030. Supported Biden administration executive actions expanding marine protections (2021–2024).
 - **NOAA Budget:** Consistent advocacy for increased NOAA discretionary spending; supported the Biden FY2024 budget proposal of $7.1B for NOAA and pushed for climate-ready fisheries funding.
-- **Plastics Treaty:** Participated in UN International Negotiating Committee (INC) process through INC-5 (Busan, November 2024). OC's position supports global production limits and phase-downs on certain plastics — a more progressive stance than the corporate partnerships that fund the organization would suggest.
+- **Plastics Treaty:** Participated in UN International Negotiating Committee (INC) process through INC-5 (Busan, November 2024). OC's position supports global production limits and phase-downs on certain plastics, a more progressive stance than the corporate partnerships that fund the organization would suggest.
 - **Climate-Ready Fisheries:** Advocates for Magnuson-Stevens Act reforms to incorporate climate science into fisheries management; published research (2025) identifying immediate actions NOAA can take within existing legal authority.
 - **Marine Debris Legislation:** Lobbied for marine debris provisions in the Bipartisan Infrastructure Law (2021) and Inflation Reduction Act (2022) implementation.
 
@@ -70,21 +70,21 @@ Ocean Conservancy's formal policy agenda:
 
 ---
 
-### Who They Fund — Institutional Funders and Corporate Partners
+### Who They Fund. Institutional Funders and Corporate Partners
 
 Ocean Conservancy sits at the intersection of two funding streams: the elite liberal foundation network that drives mainstream environmentalism, and the corporate partnership model that constrains it.
 
 ### Foundation funders (major):
-- David and Lucile Packard Foundation — multiple grants documented, including three grants in 2022 alone (grant nos. 2022-73557, 2022-73329, 2022-73330). Packard has pledged $480M to ocean conservation over the long term; OC is a primary grantee.
-- Gordon and Betty Moore Foundation — top-10 funder in marine area-based conservation globally (2010–2022).
-- Bloomberg Philanthropies — committed $375M+ to ocean conservation since 2014. OC participates in Bloomberg's ocean initiative ecosystem.
-- Bezos Earth Fund — pledged $100M+ for Pacific coastal ecosystems; OC positioned as a grantee in this emerging funding stream.
+- David and Lucile Packard Foundation, multiple grants documented, including three grants in 2022 alone (grant nos. 2022-73557, 2022-73329, 2022-73330). Packard has pledged $480M to ocean conservation over the long term; OC is a primary grantee.
+- Gordon and Betty Moore Foundation, top-10 funder in marine area-based conservation globally (2010–2022).
+- Bloomberg Philanthropies, committed $375M+ to ocean conservation since 2014. OC participates in Bloomberg's ocean initiative ecosystem.
+- Bezos Earth Fund, pledged $100M+ for Pacific coastal ecosystems; OC positioned as a grantee in this emerging funding stream.
 
 ### Corporate partners (key):
-- The Coca-Cola Company — partner in the "Closed Loop Ocean" initiative (launched 2017, Our Ocean conference). The world's largest single-use plastic polluter funds Ocean Conservancy's plastic cleanup programming.
-- Dow Chemical — co-sponsor of the 2015 "Stemming the Tide" report; sits on Ocean Conservancy's Trash Free Seas Alliance steering committee; backed Closed Loop Ocean.
-- American Chemistry Council (ACC) — plastics industry trade group; sat on the steering committee of the "Stemming the Tide" report that the ACC praised on release and that OC later retracted.
-- PepsiCo, Procter & Gamble, 3M, Kimberly-Clark — secondary corporate partners in Trash Free Seas Alliance.
+- The Coca-Cola Company, partner in the "Closed Loop Ocean" initiative (launched 2017, Our Ocean conference). The world's largest single-use plastic polluter funds Ocean Conservancy's plastic cleanup programming.
+- Dow Chemical, co-sponsor of the 2015 "Stemming the Tide" report; sits on Ocean Conservancy's Trash Free Seas Alliance steering committee; backed Closed Loop Ocean.
+- American Chemistry Council (ACC), plastics industry trade group; sat on the steering committee of the "Stemming the Tide" report that the ACC praised on release and that OC later retracted.
+- PepsiCo, Procter & Gamble, 3M, Kimberly-Clark, secondary corporate partners in Trash Free Seas Alliance.
 
 ---
 
@@ -107,23 +107,23 @@ Ocean Conservancy sits at the intersection of two funding streams: the elite lib
 
 ### What They've Gotten
 
-Ocean Conservancy's advocacy has produced real policy wins — but constrained by the corporate-capture pattern built into its funding model:
+Ocean Conservancy's advocacy has produced real policy wins, but constrained by the corporate-capture pattern built into its funding model:
 
 ### Legislative wins:
-- Marine debris provisions in the Bipartisan Infrastructure Law (2021) — OC lobbying contributed to these provisions; OC directly received $5.2M in NOAA grants under BIL funding.
-- IRA NOAA Fisheries climate investment (~$1.2B) — OC advocacy supported IRA fisheries implementation; climate-ready fisheries is OC's core programmatic focus.
-- Biden 30x30 executive actions — OC supported the 30x30 marine protection framework throughout Biden's term.
+- Marine debris provisions in the Bipartisan Infrastructure Law (2021). OC lobbying contributed to these provisions; OC directly received $5.2M in NOAA grants under BIL funding.
+- IRA NOAA Fisheries climate investment (~$1.2B). OC advocacy supported IRA fisheries implementation; climate-ready fisheries is OC's core programmatic focus.
+- Biden 30x30 executive actions. OC supported the 30x30 marine protection framework throughout Biden's term.
 
 ### What didn't happen:
-- The UN Global Plastics Treaty (INC-5, Busan, November 2024) stalled without a framework agreement. Fossil fuel and petrochemical industry lobbyists — including companies that are OC's own partners — deployed 200+ lobbyists to dominate the negotiations. OC's more progressive treaty positions were structurally undermined by the same corporate interests funding its programs.
-- Production-side plastic regulation in the U.S. has not advanced. OC's Trash Free Seas framework remains focused on waste management and cleanup rather than production limits — the exact advocacy scope its corporate partners require.
+- The UN Global Plastics Treaty (INC-5, Busan, November 2024) stalled without a framework agreement. Fossil fuel and petrochemical industry lobbyists, including companies that are OC's own partners, deployed 200+ lobbyists to dominate the negotiations. OC's more progressive treaty positions were structurally undermined by the same corporate interests funding its programs.
+- Production-side plastic regulation in the U.S. has not advanced. OC's Trash Free Seas framework remains focused on waste management and cleanup rather than production limits, the exact advocacy scope its corporate partners require.
 
 > [!contradiction]
 > Ocean Conservancy's biggest institutional win (30x30 marine protection executive actions) and its biggest institutional failure (global plastics treaty) share a common cause: the U.S. political system responds to advocacy within the bounds acceptable to donor interests. Where OC's agenda doesn't threaten corporate funders (marine reserves, fisheries management), it advances. Where it does threaten corporate funders (production limits, incineration bans), it stalls or self-censors.
 
 ---
 
-### The "Stemming the Tide" Scandal — Corporate Capture Made Visible
+### The "Stemming the Tide" Scandal. Corporate Capture Made Visible
 
 The 2015 "Stemming the Tide" report, co-authored by McKinsey & Company and funded by Coca-Cola, Dow Chemical, and the American Chemistry Council, is the clearest documented case of corporate capture in Ocean Conservancy's history.
 
@@ -132,9 +132,9 @@ The report's key claims:
 - Solution: improve waste management infrastructure in those countries
 - Endorsed incineration and waste-to-energy as acceptable plastic disposal methods
 
-The effect: shifted global attention from U.S. and Western plastic production to Asian waste management failures. The American Chemistry Council — whose members produce the plastic — praised the report on release.
+The effect: shifted global attention from U.S. and Western plastic production to Asian waste management failures. The American Chemistry Council, whose members produce the plastic, praised the report on release.
 
-In July 2022, Ocean Conservancy formally retracted the report and apologized. The organization acknowledged the 2015 work "failed to confront the root causes of plastic waste," "did not consider how these technologies support continued demand for plastic production," and had "failed to incorporate the effects on communities and NGOs working in places most impacted by plastic pollution." Over 200 nonprofits, government agencies, and scientists had signed an open letter condemning the report's framework within months of its release — OC took seven years to act.
+In July 2022, Ocean Conservancy formally retracted the report and apologized. The organization acknowledged the 2015 work "failed to confront the root causes of plastic waste," "did not consider how these technologies support continued demand for plastic production," and had "failed to incorporate the effects on communities and NGOs working in places most impacted by plastic pollution." Over 200 nonprofits, government agencies, and scientists had signed an open letter condemning the report's framework within months of its release. OC took seven years to act.
 
 The retraction confirmed what critics said at the time: the Trash Free Seas Alliance's corporate steering committee (Dow, ACC) shaped the analytical framework of a report that appeared to be independent science. The structural conflict of interest remains.
 
@@ -146,9 +146,9 @@ Ocean Conservancy is a paradigm case of **mainstream environmental nonprofit cap
 
 The corporate partner model functions as follows:
 1. Corporations facing environmental regulation fund the advocacy organizations most likely to shape that regulation.
-2. Corporate funders gain steering committee seats, report co-sponsorship, and "partnership" branding — which provides greenwashing cover and direct influence over advocacy scope.
+2. Corporate funders gain steering committee seats, report co-sponsorship, and "partnership" branding, which provides greenwashing cover and direct influence over advocacy scope.
 3. The nonprofit's independence is structurally compromised: challenging a corporate partner's core business model risks the partnership and the funding.
-4. Environmental victories occur in areas that don't threaten corporate interests (marine reserves, fisheries management, coastal cleanup). Production-side regulation — the structural fix — stays off the table.
+4. Environmental victories occur in areas that don't threaten corporate interests (marine reserves, fisheries management, coastal cleanup). Production-side regulation, the structural fix, stays off the table.
 
 Federal grant dependence compounds this: $14.2M in federal grants since 2008, with $6.9M in 2024 alone, means OC's advocacy must also align with the priorities of whichever administration controls NOAA and EPA. Under Biden, this alignment was productive. Under Trump, the same federal funding dependence creates structural pressure to moderate positions.
 
@@ -158,20 +158,20 @@ The pattern mirrors what has been documented across the environmental nonprofit 
 
 ### Enemies / Opposition
 
-- **Plastic Pollution Coalition** — criticized OC's "Stemming the Tide" framework; represents production-side perspective
-- **GAIA (Global Alliance for Incinerator Alternatives)** — issued critical response to OC's 2022 apology, noting structural conflicts remain
-- **Break Free From Plastic** — global coalition that viewed OC's corporate partnership model as greenwashing infrastructure
-- **Environmental justice advocates** — criticized OC's Asian-blaming framework as deflecting responsibility from Western producers
+- **Plastic Pollution Coalition**, criticized OC's "Stemming the Tide" framework; represents production-side perspective
+- **GAIA (Global Alliance for Incinerator Alternatives)**, issued critical response to OC's 2022 apology, noting structural conflicts remain
+- **Break Free From Plastic**, global coalition that viewed OC's corporate partnership model as greenwashing infrastructure
+- **Environmental justice advocates**, criticized OC's Asian-blaming framework as deflecting responsibility from Western producers
 
 ---
 
 ### Connected Policy Areas
 
-- [[Climate Philanthropy - The Green Billionaires]] — Ocean Conservancy sits within the elite liberal philanthropic ocean funding ecosystem (Packard, Moore, Bloomberg, Bezos)
-- [[Democratic Donor Network]] — OC is a 501(c)(3) aligned with the Democratic environmental donor base; International Coastal Cleanup is non-partisan but OC's policy advocacy tracks Democratic priorities
-- [[Environmental Law & Policy Center]] — peer environmental advocacy organization in the federal lobbying space
-- NOAA, EPA — federal grant relationship creates alignment incentives
-- Magnuson-Stevens Act (fisheries management), Bipartisan Infrastructure Law (marine debris), Inflation Reduction Act (NOAA climate investment), UN Global Plastics Treaty — key legislative and regulatory arenas
+- [[Climate Philanthropy - The Green Billionaires]]. Ocean Conservancy sits within the elite liberal philanthropic ocean funding ecosystem (Packard, Moore, Bloomberg, Bezos)
+- [[Democratic Donor Network]]. OC is a 501(c)(3) aligned with the Democratic environmental donor base; International Coastal Cleanup is non-partisan but OC's policy advocacy tracks Democratic priorities
+- [[Environmental Law & Policy Center]], peer environmental advocacy organization in the federal lobbying space
+- NOAA, EPA, federal grant relationship creates alignment incentives
+- Magnuson-Stevens Act (fisheries management), Bipartisan Infrastructure Law (marine debris), Inflation Reduction Act (NOAA climate investment), UN Global Plastics Treaty, key legislative and regulatory arenas
 
 ---
 

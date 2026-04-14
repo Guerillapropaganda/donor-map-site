@@ -7,7 +7,7 @@ source-tier: 2
 parent: null
 category: left
 platform: podcast
-related: "[[Open Society Foundations]] · [[Democratic National Committee]] · [[The Revolving Door (Media) — Government-to-Media Personnel Pipeline]] · [[The Platform Dependency Spectrum — Revenue Vulnerability Across Political Media]] · [[Fox News - Murdoch Media Empire]] · [[Sean Hannity]] · [[Patrick Bet-David]] · [[Mark Levin]] · [[Greg Gutfeld]] · [[Nicolle Wallace]] · [[Tucker Carlson]] · [[Tim Pool]] · [[Tenet Media]] · [[Steven Crowder]] · [[Rumble]] · [[Matt Walsh]] · [[Laura Ingraham]] · [[Jordan Peterson]] · [[Michael Knowles]] · [[Jesse Watters]] · [[Jeremy Boreing]] · [[James O'Keefe]] · [[Dave Rubin]] · [[Dan Bongino]] · [[Jimmy Dore]] · [[The Daily Wire]] · [[Christopher Rufo]] · [[Charlie Kirk]] · [[Candace Owens]] · [[Ben Shapiro]] · [[Andrew Klavan]] · [[TYT Network - The Young Turks]] · [[Sam Seder]] · [[Rachel Maddow]] · [[Pod Save America]] · [[Kyle Kulinski]]"
+related: "[[Open Society Foundations]] · [[Democratic National Committee]] · [[The Revolving Door (Media) , Government-to-Media Personnel Pipeline]] · [[The Platform Dependency Spectrum , Revenue Vulnerability Across Political Media]] · [[Fox News - Murdoch Media Empire]] · [[Sean Hannity]] · [[Patrick Bet-David]] · [[Mark Levin]] · [[Greg Gutfeld]] · [[Nicolle Wallace]] · [[Tucker Carlson]] · [[Tim Pool]] · [[Tenet Media]] · [[Steven Crowder]] · [[Rumble]] · [[Matt Walsh]] · [[Laura Ingraham]] · [[Jordan Peterson]] · [[Michael Knowles]] · [[Jesse Watters]] · [[Jeremy Boreing]] · [[James O'Keefe]] · [[Dave Rubin]] · [[Dan Bongino]] · [[Jimmy Dore]] · [[The Daily Wire]] · [[Christopher Rufo]] · [[Charlie Kirk]] · [[Candace Owens]] · [[Ben Shapiro]] · [[Andrew Klavan]] · [[TYT Network - The Young Turks]] · [[Sam Seder]] · [[Rachel Maddow]] · [[Pod Save America]] · [[Kyle Kulinski]]"
 ---
 
 #media-pipeline #left #obama-revolving-door #pod-save-america #soros-investment #democratic-establishment #partisan-media
@@ -16,7 +16,7 @@ related: "[[Open Society Foundations]] · [[Democratic National Committee]] · [
 
 ### Who They Are
 
-Crooked Media is a Democratic Party media operation founded in January 2017 by three Obama White House communications veterans: **Jon Favreau** (Director of Speechwriting 2005-2013), **Jon Lovett** (Presidential Speechwriter), and **Tommy Vietor** (NSC Spokesman 2011-2012). **Dan Pfeiffer** (Obama's Senior Advisor for Strategy and Communications) co-hosts. The company was explicitly designed to function as "for Democrats what Fox News is for Republicans" — a 24/7 messaging apparatus for party establishment talking points.
+Crooked Media is a Democratic Party media operation founded in January 2017 by three Obama White House communications veterans: **Jon Favreau** (Director of Speechwriting 2005-2013), **Jon Lovett** (Presidential Speechwriter), and **Tommy Vietor** (NSC Spokesman 2011-2012). **Dan Pfeiffer** (Obama's Senior Advisor for Strategy and Communications) co-hosts. The company was explicitly designed to function as "for Democrats what Fox News is for Republicans", a 24/7 messaging apparatus for party establishment talking points.
 
 Flagship product: **[[Pod Save America]]**, launched Jan 2017, ~1.5M listeners per episode. The network expanded to 25+ podcasts including Pod Save the People, Pod Save the World, Keep It, and Lovett or Leave It. YouTube channel: 1.2M subscribers. Revenue estimated $20-32M annually from podcast advertising, "Friends of the Pod" subscriber base (35K+ paid subscribers at $9.99/month), live touring, and merchandise.
 
@@ -69,14 +69,14 @@ The editorial ceiling is set by the founders' own political history: they cannot
 
 ### The Audience Capture Model
 
-Crooked Media's audience **IS the Obama coalition** — educated, professional-class Democrats with disposable income, concentrated in urban and suburban coastal markets. The founders' White House background creates a specific type of audience capture: their authority comes from access to power, which means structural critique of power — or the Democratic establishment that granted them access — is off-limits.
+Crooked Media's audience **IS the Obama coalition**, educated, professional-class Democrats with disposable income, concentrated in urban and suburban coastal markets. The founders' White House background creates a specific type of audience capture: their authority comes from access to power, which means structural critique of power, or the Democratic establishment that granted them access, is off-limits.
 
 ### The mechanism:
-1. **Authority through insider status:** "We worked in the White House, so we know what's really happening" — this claim requires defending Democratic institutional legitimacy
+1. **Authority through insider status:** "We worked in the White House, so we know what's really happening", this claim requires defending Democratic institutional legitimacy
 2. **Audience overlap:** The 1.5M listeners are the same people who donate to Democratic campaigns, attend DNC events, and whose votes are called "turnout" in Democratic strategy
-3. **Soros alignment:** With Sept 2022 investment, Soros gained both equity stake and editorial influence over the dominant progressive podcast network — the largest media operation on the left
+3. **Soros alignment:** With Sept 2022 investment, Soros gained both equity stake and editorial influence over the dominant progressive podcast network, the largest media operation on the left
 
-**The constraint:** If content challenges Democratic establishment priorities (as Hot Take climate coverage did), it gets canceled — even when profitable.
+**The constraint:** If content challenges Democratic establishment priorities (as Hot Take climate coverage did), it gets canceled, even when profitable.
 
 ### What Their Funders Got
 
@@ -95,9 +95,9 @@ Crooked Media is the clearest case in the left media ecosystem of **media functi
 - **Founded by political operatives** (not journalists): Favreau, Lovett, Vietor all served in executive communications roles
 - **Funded by a major Democratic donor:** Soros Fund Management investment signals explicit alignment with establishment Democratic interests
 - **Staffed entirely by Democratic loyalists:** $208K in employee contributions to Democratic committees in 2024
-- **Explicitly designed as Democratic Fox News:** The founding premise is not journalism or analysis — it's partisan messaging
+- **Explicitly designed as Democratic Fox News:** The founding premise is not journalism or analysis, it's partisan messaging
 
-**The editorial constraint is proven by the Hot Take case:** When a climate podcast Crooked acquired refused to "applaud Biden as a climate champion" and provided critical coverage of the Inflation Reduction Act (which both critics and Soros agree is inadequate), Crooked canceled the show — even though it was 30,000 downloads above target and breaking even. They deleted the entire Apple feed, destroying 3 years of subscriber history and reviews. They demanded the hosts sign a non-disparagement agreement. Then they inserted BP advertising into the climate podcast feed.
+**The editorial constraint is proven by the Hot Take case:** When a climate podcast Crooked acquired refused to "applaud Biden as a climate champion" and provided critical coverage of the Inflation Reduction Act (which both critics and Soros agree is inadequate), Crooked canceled the show, even though it was 30,000 downloads above target and breaking even. They deleted the entire Apple feed, destroying 3 years of subscriber history and reviews. They demanded the hosts sign a non-disparagement agreement. Then they inserted BP advertising into the climate podcast feed.
 
 This is not editorial discretion. This is editorial control exercised by a political operator (Favreau) to protect Democratic institutional credibility.
 
@@ -129,26 +129,26 @@ This is not editorial discretion. This is editorial control exercised by a polit
 | Date | Event | Key Players | Amount | Significance |
 |------|-------|-------------|--------|--------------|
 | Jan 2017 | Crooked Media founded | Favreau, Lovett, Vietor, Pfeiffer | Self-funded | Launch of Democratic Party media operation; explicit Fox News model for Dems |
-| Mar 2017 | SXSW keynote | Jon Favreau | — | "We're not raising money" — signals founder-funded independence |
-| Q3 2020 | Vote Save America fundraising | — | $32M | Super PAC affiliate raises $32M for Democratic candidates in single quarter |
-| Jan 2022 | Crooked acquires Hot Take | Favreau, Hot Take hosts | — | Acquisition of climate-focused podcast in progressive media consolidation |
+| Mar 2017 | SXSW keynote | Jon Favreau |, | "We're not raising money", signals founder-funded independence |
+| Q3 2020 | Vote Save America fundraising |, | $32M | Super PAC affiliate raises $32M for Democratic candidates in single quarter |
+| Jan 2022 | Crooked acquires Hot Take | Favreau, Hot Take hosts |, | Acquisition of climate-focused podcast in progressive media consolidation |
 | Sept 2022 | Soros Fund Management investment | George Soros, Jon Favreau | Undisclosed | Strategic investment aligns Crooked with Democratic donor elite; editorial implications emerge later |
-| Dec 2022 | Hot Take canceled for climate critique | Favreau vs. hosts Katherine Bagshaw & Felix Salmon | — | Podcast canceled despite 30K downloads above target; hosts refused "applaud Biden as climate champion" demand |
-| Dec 2022 | Hot Take Apple feed deleted | Crooked Media | — | Entire 3-year subscriber history erased; non-disparagement agreement demanded; BP ad inserted into feed |
+| Dec 2022 | Hot Take canceled for climate critique | Favreau vs. hosts Katherine Bagshaw & Felix Salmon |, | Podcast canceled despite 30K downloads above target; hosts refused "applaud Biden as climate champion" demand |
+| Dec 2022 | Hot Take Apple feed deleted | Crooked Media |, | Entire 3-year subscriber history erased; non-disparagement agreement demanded; BP ad inserted into feed |
 | 2024 | Employee political contributions | Crooked staff | $208,606 | Concentrated giving to Democratic Party infrastructure |
 | Dec 2024 | First We Feast / Hot Ones acquisition consortium | Crooked + Soros investors | $82.5M | Crooked joins Soros-aligned consortium to acquire Hot Ones; audio-visual media empire expands |
-| Mar 2024 | WGA East statement | Writers Guild | — | Union notes "intervention does not lead to degradation of working conditions, which has unfortunately already begun" at Crooked Media |
+| Mar 2024 | WGA East statement | Writers Guild |, | Union notes "intervention does not lead to degradation of working conditions, which has unfortunately already begun" at Crooked Media |
 
 ### Sources
 
 - [Vox/Recode: Crooked Media launch (Mar 2017)](https://www.vox.com/2017/3/15/14926278/crooked-media-pod-save-america-jon-favreau-tommy-vietor-jon-lovett-sxsw-recode-podcast) (Tier 2) (VERIFIED)
 - [Semafor: Soros building audio empire (Apr 2024)](https://www.semafor.com/article/04/07/2024/soros-fund-is-building-an-audio-empire) (Tier 2) (VERIFIED)
 - [Deadline: Hot Ones acquisition (Dec 2024)](https://deadline.com/2024/12/hot-ones-new-investment-1236201423/) (Tier 2) (VERIFIED)
-- ~~[OpenSecrets: Crooked Media contributions (Org ID D000094217)](https://www.opensecrets.org/orgs/crooked-media/summary?id=D000094217)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
-- [Hot Take Swan Song statement (Dec 2022)](https://www.hottakepod.com/hot-take-swan-song/) (VERIFIED) (Tier 3 — primary source from hosts explaining cancellation)
+- ~~[OpenSecrets: Crooked Media contributions (Org ID D000094217)](https://www.opensecrets.org/orgs/crooked-media/summary?id=D000094217)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- [Hot Take Swan Song statement (Dec 2022)](https://www.hottakepod.com/hot-take-swan-song/) (VERIFIED) (Tier 3, primary source from hosts explaining cancellation)
 - [Wikipedia: Crooked Media](https://en.wikipedia.org/wiki/Crooked_Media) (Tier 3) (VERIFIED)
 - [Crooked Media official sponsors page](https://www.crooked.com/sponsors/) (Tier 3) (VERIFIED)
-- [NY Post: Progressive staff rebellion (Aug 2024)](https://nypost.com/2024/08/01/media/progressive-staffers-rebel-at-ex-obama-aides-media-empire/) (VERIFIED) (Tier 4 — partisan but documents internal tensions and WGA statement)
+- [NY Post: Progressive staff rebellion (Aug 2024)](https://nypost.com/2024/08/01/media/progressive-staffers-rebel-at-ex-obama-aides-media-empire/) (VERIFIED) (Tier 4, partisan but documents internal tensions and WGA statement)
 
 ---
 

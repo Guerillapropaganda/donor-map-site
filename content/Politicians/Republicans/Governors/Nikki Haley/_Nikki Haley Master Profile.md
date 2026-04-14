@@ -1,8 +1,8 @@
 ---
-title: "Nikki Haley Master Profile"
+title: "Nikki Haley"
 type: politician
 content-readiness: ready
-central-thesis: "Haley is the donor class's 'electability' candidate — the corporate-friendly, defense-hawk Republican who could theoretically win general elections by assembling the pre-Trump GOP coalition: suburban voters, defense establishment, Wall Street, and..."
+central-thesis: "Haley is the donor class's 'electability' candidate , the corporate-friendly, defense-hawk Republican who could theoretically win general elections by assembling the pre-Trump GOP coalition: suburban voters, defense establishment, Wall Street, and..."
 last-updated: 2026-04-13
 source-tier: 1
 parent: null
@@ -35,7 +35,7 @@ donors: [[Koch Network - Charles Koch]] · [[Kenneth Griffin]] · Paul Singer El
 
 ## Who She Is
 
-[[_Nikki Haley Master Profile|Nikki Haley]]. Born January 20, 1972, Bamberg, South Carolina. Born Nimrata Nikki Randhawa. Clemson University (accounting). South Carolina State House of Representatives (2005–2011). Governor of South Carolina (2011–2017) — first female governor, first governor of South Asian descent in U.S. history. U.S. Ambassador to the United Nations (2017–2018) under Trump. 2024 Republican presidential candidate — last non-Trump challenger standing, suspended campaign March 6, 2024, after losing South Carolina, her home state, by 20 points. Endorsed Trump at the Republican National Convention in July 2024 — months after calling him "unfit" and warning that "chaos follows" wherever he goes. Net worth: grew from ~$1M (2019) to ~$8M (2022), accelerated by [[Boeing|Boeing]] board membership and book sales.
+[[_Nikki Haley Master Profile|Nikki Haley]]. Born January 20, 1972, Bamberg, South Carolina. Born Nimrata Nikki Randhawa. Clemson University (accounting). South Carolina State House of Representatives (2005–2011). Governor of South Carolina (2011–2017), first female governor, first governor of South Asian descent in U.S. history. U.S. Ambassador to the United Nations (2017–2018) under Trump. 2024 Republican presidential candidate, last non-Trump challenger standing, suspended campaign March 6, 2024, after losing South Carolina, her home state, by 20 points. Endorsed Trump at the Republican National Convention in July 2024, months after calling him "unfit" and warning that "chaos follows" wherever he goes. Net worth: grew from ~$1M (2019) to ~$8M (2022), accelerated by [[Boeing|Boeing]] board membership and book sales.
 
 ---
 
@@ -56,10 +56,10 @@ donors: [[Koch Network - Charles Koch]] · [[Kenneth Griffin]] · Paul Singer El
 
 ## Donor Class Map
 
-### The [[Koch Network - Charles Koch|Koch Network]] — The Institutional Bet:
-- [[Koch Network - Charles Koch]] — AFP Action endorsed Haley on November 28, 2023, pledging tens of millions in the GOP primary. First presidential primary endorsement in Koch network history. The endorsement came with a multimillion-dollar ad campaign in Iowa, New Hampshire, and Super Tuesday states, plus voter contact operations that had already reached 6 million primary voters. Koch's shift from DeSantis to Haley illustrated the donor class's sequential vehicle selection: as DeSantis's polls collapsed, the anti-Trump donor money needed a new vessel.
+### The [[Koch Network - Charles Koch|Koch Network]]. The Institutional Bet:
+- [[Koch Network - Charles Koch]]. AFP Action endorsed Haley on November 28, 2023, pledging tens of millions in the GOP primary. First presidential primary endorsement in Koch network history. The endorsement came with a multimillion-dollar ad campaign in Iowa, New Hampshire, and Super Tuesday states, plus voter contact operations that had already reached 6 million primary voters. Koch's shift from DeSantis to Haley illustrated the donor class's sequential vehicle selection: as DeSantis's polls collapsed, the anti-Trump donor money needed a new vessel.
 
-### Wall Street — The Alternative to Populism:
+### Wall Street. The Alternative to Populism:
 - Ken Griffin (Citadel): $5M to Haley's allied super PAC (SFA Fund Inc.) after sitting out DeSantis's campaign
 - [[Paul Singer]] (Elliott Investment Management): $5M to SFA Fund Inc.
 - [[Jan Koum]] (WhatsApp co-founder): $5M to SFA Fund Inc.
@@ -70,13 +70,13 @@ donors: [[Koch Network - Charles Koch]] · [[Kenneth Griffin]] · Paul Singer El
 > [!money]
 > Haley's rivals explicitly labeled her "Wall Street's candidate" during debates — and the data supported the characterization. Her allied super PAC raised $150M+ with heavy concentration among financial services executives. Meanwhile, her grassroots small-dollar fundraising lagged far behind Trump's. The money was real; the voters weren't.
 
-### The Boeing Relationship — 25 Years of Corporate Entanglement:
+### The Boeing Relationship, 25 Years of Corporate Entanglement:
 - As state legislator: supported $900M+ corporate welfare package to lure Boeing to Charleston
 - As governor: signed $120M incentive package for Boeing expansion
 - Boeing was a top donor to Haley's gubernatorial inauguration committee
 - Joined Boeing's board of directors in April 2019 after leaving UN Ambassador role
 - While on Boeing board (2020): helped kill a shareholder initiative requiring Boeing to disclose its political spending and lobbying expenditures
-- Boeing's 787 Dreamliner is built at its North Charleston plant — a facility Haley helped unionize against in 2015, when she assisted Boeing in defeating a union drive
+- Boeing's 787 Dreamliner is built at its North Charleston plant, a facility Haley helped unionize against in 2015, when she assisted Boeing in defeating a union drive
 
 ---
 
@@ -95,34 +95,34 @@ In June 2015, after Dylann Roof murdered nine Black parishioners at Emanuel Afri
 > [!quote]
 > "The flag is a deeply offensive symbol of a brutally offensive past to many South Carolinians, especially those who have and continue to suffer the unbearable pain of racism."
 
-The flag removal is the clearest example in Haley's record of a moment that was both politically calculated and personally sincere — a moment when the calculation and the principle aligned. It stands in stark contrast to her subsequent revisionism: in December 2023, asked about the Civil War's cause, she initially failed to mention slavery, then corrected herself under pressure.
+The flag removal is the clearest example in Haley's record of a moment that was both politically calculated and personally sincere, a moment when the calculation and the principle aligned. It stands in stark contrast to her subsequent revisionism: in December 2023, asked about the Civil War's cause, she initially failed to mention slavery, then corrected herself under pressure.
 
 ---
 
 ## Donation-to-Policy Timeline
 
-*Note: Haley is the donor class's "electable moderate" product — Boeing's 120x return on South Carolina investment and Singer's $22M total loss represent the two extremes of donor-class ROI.*
+*Note: Haley is the donor class's "electable moderate" product. Boeing's 120x return on South Carolina investment and Singer's $22M total loss represent the two extremes of donor-class ROI.*
 
 #### Defense / Boeing
 
 | Date | Donor | Amount | Given | Policy Outcome |
 |------|-------|--------|-------|----------------|
-| 2013-2015 | Boeing — major F/A-18 production in SC; top donor to gubernatorial inauguration committee | $1M+ in SC political contributions | 2012-2016 | Haley approves Boeing plant expansion in North Charleston; supports $120M+ in state incentives — 120x return on Boeing's political investment |
+| 2013-2015 | Boeing, major F/A-18 production in SC; top donor to gubernatorial inauguration committee | $1M+ in SC political contributions | 2012-2016 | Haley approves Boeing plant expansion in North Charleston; supports $120M+ in state incentives, 120x return on Boeing's political investment |
 | 2024 | Boeing advisory board + Wall Street speaking circuit | $500K+ speaking fees | 2024 (post-race) | Haley positioned for 2028 through Board of Directors positions; the revolving door between governor, UN Ambassador, and corporate boards |
 
 #### Israel Lobby / AIPAC
 
 | Date | Donor | Amount | Given | Policy Outcome |
 |------|-------|--------|-------|----------------|
-| 2017-2018 | Sheldon Adelson and Israel lobby — access and support as UN Ambassador | $500K+ indirect support | 2017-2018 | Haley withdraws U.S. from UN Human Rights Council (citing Israel criticism); vetoes 14 UN Security Council resolutions critical of Israel — complete AIPAC alignment; most captured UN Ambassador in modern history |
+| 2017-2018 | Sheldon Adelson and Israel lobby, access and support as UN Ambassador | $500K+ indirect support | 2017-2018 | Haley withdraws U.S. from UN Human Rights Council (citing Israel criticism); vetoes 14 UN Security Council resolutions critical of Israel, complete AIPAC alignment; most captured UN Ambassador in modern history |
 
 #### Koch Network / Wall Street
 
 | Date | Donor | Amount | Given | Policy Outcome |
 |------|-------|--------|-------|----------------|
-| 2023-Q4 | Koch's [[Americans for Prosperity|AFP]] ($50M+ after pivoting from DeSantis) + [[Paul Singer]] ($22M+ to SFA Fund super PAC) | $70M+ combined | 2023 | Haley's campaign positions: opposes bank regulation (Goldman board), supports spending cuts (Koch), hawkish on China (Singer) — every position maps to a donor |
-| 2024-02-24 | Koch Network withdrawal + Singer $22M loss | $70M+ investment lost | 2023-2024 | Haley drops out after South Carolina primary loss; Koch withdrew early, Singer held through — most spectacular donor loss of 2024 cycle |
-| 2025 | Koch free-trade donor network (maintained post-race) | Ongoing relationship | 2024-2025 | Haley declines to endorse Trump's tariff agenda — maintains Koch/free-trade positioning even after Trump win; signals Koch alignment over Trump |
+| 2023-Q4 | Koch's [[Americans for Prosperity|AFP]] ($50M+ after pivoting from DeSantis) + [[Paul Singer]] ($22M+ to SFA Fund super PAC) | $70M+ combined | 2023 | Haley's campaign positions: opposes bank regulation (Goldman board), supports spending cuts (Koch), hawkish on China (Singer), every position maps to a donor |
+| 2024-02-24 | Koch Network withdrawal + Singer $22M loss | $70M+ investment lost | 2023-2024 | Haley drops out after South Carolina primary loss; Koch withdrew early, Singer held through, most spectacular donor loss of 2024 cycle |
+| 2025 | Koch free-trade donor network (maintained post-race) | Ongoing relationship | 2024-2025 | Haley declines to endorse Trump's tariff agenda, maintains Koch/free-trade positioning even after Trump win; signals Koch alignment over Trump |
 
 > [!money] The Damning Sequences
 > **Boeing $1M → $120M state subsidy:** Boeing's South Carolina political investment under Haley as governor generated a 120x return in state incentives. The investment → policy return ratio is among the most explicit documented in the vault.
@@ -143,11 +143,11 @@ The Trump endorsement completes the class analysis. Nikki Haley called Donald Tr
 
 ## Analytical Patterns
 
-**The Genuine Win + Structural Limit** — Haley's corporate tax positions are real donor victories for her Wall Street funding base, but stop short of eliminating corporate taxation entirely. Her policy wins advance capital-aligned interests without comprehensive tax system restructuring.
+**The Genuine Win + Structural Limit**. Haley's corporate tax positions are real donor victories for her Wall Street funding base, but stop short of eliminating corporate taxation entirely. Her policy wins advance capital-aligned interests without comprehensive tax system restructuring.
 
-**The Villain Framing** — Haley blames big government and bureaucratic overreach as external villains requiring deregulation, deflecting from her actual material position: she is funded by Wall Street donors whose deregulatory agenda she advances. The villain is government expansion; the beneficiary (corporate donors) remains structurally invisible.
+**The Villain Framing**. Haley blames big government and bureaucratic overreach as external villains requiring deregulation, deflecting from her actual material position: she is funded by Wall Street donors whose deregulatory agenda she advances. The villain is government expansion; the beneficiary (corporate donors) remains structurally invisible.
 
-**The Two-Audience Problem** — Haley performs as a gender-progressive woman breaking norms to attract moderate voters, while privately serving the same deregulatory, pro-military-spending corporate donor interests as traditional Republican candidates. The gender narrative masks the actual function: corporate governance.
+**The Two-Audience Problem**. Haley performs as a gender-progressive woman breaking norms to attract moderate voters, while privately serving the same deregulatory, pro-military-spending corporate donor interests as traditional Republican candidates. The gender narrative masks the actual function: corporate governance.
 
 ---
 
@@ -155,8 +155,8 @@ The Trump endorsement completes the class analysis. Nikki Haley called Donald Tr
 
 1. **The electability argument:** "I'm the candidate who can actually win." The argument rests entirely on donor-class desire for a Trump alternative, not demonstrated grassroots support. She lost her home state by 20 points.
 2. **The immigrant narrative:** Haley consistently invokes her Indian-American immigrant heritage as proof of American meritocracy. The narrative erases the class reality: her family were educated professionals, not economic refugees. The meritocracy story is used to oppose structural remedies for racism.
-3. **The foreign policy hawk:** Consistent, credentialed hawkishness — but the credential is UN Ambassador under Trump, a role she resigned from in 2018. The hawk positioning serves defense-contractor donors without requiring her to answer for the Trump foreign policy she executed.
-4. **The pre-emptive contradiction:** Haley repeatedly positioned herself as willing to say things other Republicans wouldn't — Trump's unfitness, January 6th accountability — then endorsed him anyway. The positioning builds media credibility; the endorsement preserves donor access.
+3. **The foreign policy hawk:** Consistent, credentialed hawkishness, but the credential is UN Ambassador under Trump, a role she resigned from in 2018. The hawk positioning serves defense-contractor donors without requiring her to answer for the Trump foreign policy she executed.
+4. **The pre-emptive contradiction:** Haley repeatedly positioned herself as willing to say things other Republicans wouldn't. Trump's unfitness, January 6th accountability, then endorsed him anyway. The positioning builds media credibility; the endorsement preserves donor access.
 
 ---
 
@@ -174,9 +174,9 @@ Haley is the most likely donor-class vehicle for 2028 if Trump does not run and 
 - [NBC News: Koch network faces internal scrutiny after Nikki Haley endorsement](https://www.nbcnews.com/politics/2024-election/koch-network-faces-internal-scrutiny-nikki-haley-endorsement-rcna127838) (Tier 2) (VERIFIED)
 - [CNBC: Wall Street opens wallets wide for 'Trump alternative' Nikki Haley at $500K fundraiser](https://www.cnbc.com/2023/12/05/nikki-haley-raises-over-500000-at-event-with-wall-street-execs.html) (Tier 2) (VERIFIED)
 - [CNBC: Nikki Haley gets early support from wealthy donors](https://www.cnbc.com/2023/04/17/nikki-haley-enjoys-early-billionaire-support-in-2024-race.html) (Tier 2) (VERIFIED)
-- ~~[Bloomberg: Rich donors keep Haley's 2024 run afloat even if voters won't](https://www.bloomberg.com/news/articles/2024-01-24/rich-donors-keep-haley-s-2024-run-afloat-even-if-voters-won-t)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[Bloomberg: Rich donors keep Haley's 2024 run afloat even if voters won't](https://www.bloomberg.com/news/articles/2024-01-24/rich-donors-keep-haley-s-2024-run-afloat-even-if-voters-won-t)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [The Lever: Nikki Haley Helped Boeing Kill Dark Money Disclosure Initiative](https://www.levernews.com/nikki-haley-helped-boeing-kill-dark-money-disclosure-initiative/) (Tier 2) (VERIFIED)
-- [Jacobin: Nikki Haley Helped Boeing Hide Its Political Spending](https://jacobin.com/2024/01/nikki-haley-boeing-political-expenditures) (VERIFIED) (Tier 4 — flag: left-partisan publication) (Tier 2)
+- [Jacobin: Nikki Haley Helped Boeing Hide Its Political Spending](https://jacobin.com/2024/01/nikki-haley-boeing-political-expenditures) (VERIFIED) (Tier 4, flag: left-partisan publication) (Tier 2)
 - [Hollywood Life: Nikki Haley Endorses Trump, After Calling Him Unfit for Presidency](https://hollywoodlife.com/2024/07/17/nikki-haley-endorses-trump-after-calling-him-unfit-for-presidency/) (Tier 3) (VERIFIED)
 - [NBC News: Nikki Haley ends presidential campaign with 'no regrets'](https://www.nbcnews.com/politics/2024-election/nikki-haley-ends-presidential-campaign-trump-gop-primary-rcna134811) (Tier 2) (VERIFIED)
 - [Wikipedia: Nikki Haley](https://en.wikipedia.org/wiki/Nikki_Haley) (Tier 3) (VERIFIED)

@@ -11,7 +11,7 @@ related: "[[_John Ratcliffe Master Profile]]"
 ---
 #john-ratcliffe #dni #cia #politicization #signal-chat #declassification #class-analysis
 
-donors: (Neoconservative donors — no specific nodes yet)
+donors: (Neoconservative donors, no specific nodes yet)
 
 ---
 
@@ -50,15 +50,15 @@ Ratcliffe provided approximately 1,000 pages of classified materials to DOJ for 
 | Employee identification | Required White House list of all hires from previous 2 years |
 | New mission center | "Americas" center for counternarcotics/counter-cartel |
 
-Former CIA officials characterized the employee identification requirement as "disastrous" for counterintelligence capacity — foreign adversaries could use the list to identify intelligence personnel.
+Former CIA officials characterized the employee identification requirement as "disastrous" for counterintelligence capacity, foreign adversaries could use the list to identify intelligence personnel.
 
 ---
 
 ### The Signal Chat Incident (March 2025)
 
-On March 11–15, 2025, national security leaders conducted a Signal group chat about Houthi military operations. The chat — which included 19 members — was accidentally exposed when NSA Mike Waltz added Jeffrey Goldberg, editor-in-chief of The Atlantic.
+On March 11–15, 2025, national security leaders conducted a Signal group chat about Houthi military operations. The chat, which included 19 members, was accidentally exposed when NSA Mike Waltz added Jeffrey Goldberg, editor-in-chief of The Atlantic.
 
-Ratcliffe's exposure: he mentioned the name of an active undercover female CIA officer in the chat. The messages also contained what Democratic senators described as "precise information about weapons packages, targets, and timing" — classified under executive orders governing national defense information.
+Ratcliffe's exposure: he mentioned the name of an active undercover female CIA officer in the chat. The messages also contained what Democratic senators described as "precise information about weapons packages, targets, and timing", classified under executive orders governing national defense information.
 
 Ratcliffe claimed the communications were "entirely permissible and lawful" and that a CIA records management team had briefed him on permissible Signal use.
 

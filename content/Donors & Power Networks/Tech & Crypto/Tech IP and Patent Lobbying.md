@@ -17,7 +17,7 @@ related: "[[Thom Tillis Master Profile]] · [[The Pharma Senator and the Researc
 
 ### Who They Are
 
-Tech IP and Patent Lobbying. The technology industry's intellectual property political operation — the lobbying campaigns around patent reform, Section 230, DMCA enforcement, trade secret protection, and international IP frameworks that determine how tech companies protect their competitive moats. Tech IP lobbying spending: $50-100M annually, divided between companies defending patents (Qualcomm, Apple, pharmaceutical companies) and companies seeking patent reform (Google, Amazon, tech companies frequently sued by patent trolls).
+Tech IP and Patent Lobbying. The technology industry's intellectual property political operation, the lobbying campaigns around patent reform, Section 230, DMCA enforcement, trade secret protection, and international IP frameworks that determine how tech companies protect their competitive moats. Tech IP lobbying spending: $50-100M annually, divided between companies defending patents (Qualcomm, Apple, pharmaceutical companies) and companies seeking patent reform (Google, Amazon, tech companies frequently sued by patent trolls).
 
 The IP lobbying landscape splits the tech industry internally: established companies with large patent portfolios (Qualcomm, Apple, IBM) oppose patent reform that would weaken their competitive advantage, while platform companies (Google, Meta, Amazon) support patent reform to reduce litigation costs from patent assertion entities ("patent trolls"). This intra-industry split creates unusual bipartisan dynamics where tech companies fund opposing sides of the same legislation.
 

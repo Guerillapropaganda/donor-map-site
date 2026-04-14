@@ -15,7 +15,7 @@ donors: (Silicon Valley tech billionaires, venture capital networks)
 
 ---
 
-### From Causes to Governor — The Tech Career to Politics Pipeline
+### From Causes to Governor. The Tech Career to Politics Pipeline
 
 > [!money]
 > Mahan's career traces the Silicon Valley-to-politics pipeline: Harvard → Teach for America (credentialing) → tech startups (wealth and network) → city council → mayor → governor candidate. Every step built the donor relationships that fund the next step. The tech billionaires funding his governor race aren't new supporters — they're the same network that existed around his startup career. The political career is an extension of the professional network, not a break from it.

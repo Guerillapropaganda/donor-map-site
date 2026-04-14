@@ -26,11 +26,11 @@ lobbying-filings: 17
 
 ### Who They Are
 
-The Agribusiness Donor Bloc. The combined political operation of America's agricultural industry: seed and chemical companies (Bayer/Monsanto, Corteva, Syngenta), grain traders (Cargill, ADM, Bunge, Louis Dreyfus — the "ABCD" companies that control 70-90% of global grain trade), meatpackers (Tyson, JBS, Cargill), equipment manufacturers (John Deere, AGCO, CNH Industrial), and farm organizations (American Farm Bureau Federation, National Cattlemen's Beef Association, commodity-specific associations).
+The Agribusiness Donor Bloc. The combined political operation of America's agricultural industry: seed and chemical companies (Bayer/Monsanto, Corteva, Syngenta), grain traders (Cargill, ADM, Bunge, Louis Dreyfus, the "ABCD" companies that control 70-90% of global grain trade), meatpackers (Tyson, JBS, Cargill), equipment manufacturers (John Deere, AGCO, CNH Industrial), and farm organizations (American Farm Bureau Federation, National Cattlemen's Beef Association, commodity-specific associations).
 
 The bloc's political operation: $30-50 million per cycle in PAC and campaign contributions, $80-120 million annually in lobbying (across all agricultural sub-sectors), and the most powerful state-level political networks in rural America. The Farm Bureau's 6 million member families provide the grassroots base; corporate agribusiness provides the funding.
 
-- ~~~~[FEC Receipts: Agribusiness industry spending](https://www.fec.gov/data/receipts/?data_type=processed)~~ (was Tier 1 — URL broken, archived by Ops) (NEEDS REVIEW: results page but no results)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~~~[FEC Receipts: Agribusiness industry spending](https://www.fec.gov/data/receipts/?data_type=processed)~~ (was Tier 1. URL broken, archived by Ops) (NEEDS REVIEW: results page but no results)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 
 ---
 
@@ -53,8 +53,8 @@ The four pillars:
 ### Sources
 
 - [FEC Receipts: Agribusiness industry spending](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1)
-- ~~[EWG: Farm subsidy database](https://farm.ewg.org/search.php?search=Agribusiness%20Donor%20Bloc)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
-- ~~[Ballotpedia: Agricultural policy](https://ballotpedia.org/Agribusiness_Donor_Bloc)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3)
+- ~~[EWG: Farm subsidy database](https://farm.ewg.org/search.php?search=Agribusiness%20Donor%20Bloc)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Ballotpedia: Agricultural policy](https://ballotpedia.org/Agribusiness_Donor_Bloc)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
 
 ### Influence Network (Cross-Reference)
 <!-- auto:influence-cross-ref start -->

@@ -94,8 +94,8 @@ CalPERS does not operate a PAC or make direct campaign contributions. Its politi
 > [!contradiction] The 2025 Board Election. Thumb on the Scale
 > During the 2025 board election, several candidates criticized CalPERS's private equity investments and associated fees. CalPERS responded by sending a message to all 2 million members promoting its private equity performance, while voting was still underway. Multiple candidates accused CalPERS of using institutional communications to influence the election outcome in favor of the incumbent board aligned with the private equity expansion strategy. The institution used its informational monopoly over members to defend the investment strategy that its own elected board was supposed to evaluate independently.
 
-- ~~[CalMatters: California unions spending more than ever on CalPERS board election](https://calmatters.org/category/politics/2025/09/calpers-election-spending/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
-- ~~[CalMatters: CalPERS touted investment returns, hit sore spot in board election](https://calmatters.org/category/politics/2025/09/calpers-election-private-equity/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[CalMatters: California unions spending more than ever on CalPERS board election](https://calmatters.org/category/politics/2025/09/calpers-election-spending/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[CalMatters: CalPERS touted investment returns, hit sore spot in board election](https://calmatters.org/category/politics/2025/09/calpers-election-private-equity/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 
 ---
 
@@ -185,7 +185,7 @@ The Buenrostro scandal was the system's most visible failure, but the structure 
 - [SEC: Charges Against Former CalPERS CEO in Placement Agent Fee Scheme](https://www.sec.gov/newsroom/press-releases/2012-2012-73htm) (Tier 1)
 - [CalMatters: California unions spending more than ever on CalPERS board election](https://calmatters.org/category/politics/2025/09/calpers-election-spending/) (Tier 2)
 - [CalMatters: CalPERS touted investment returns, hit sore spot in board election](https://calmatters.org/category/politics/2025/09/calpers-election-private-equity/) (Tier 2)
-- ~~[CalMatters: How Newsom's budget sidesteps CalPERS pension cost](https://calmatters.org/category/politics/2024/04/calpers-pension-cost/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[CalMatters: How Newsom's budget sidesteps CalPERS pension cost](https://calmatters.org/category/politics/2024/04/calpers-pension-cost/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [NBC News: CalPERS faces probe launched by concerned retirees](https://www.nbcnews.com/news/us-news/california-public-pension-fund-nations-largest-faces-probe-launched-co-rcna215534) (Tier 2)
 - [Fortune: Ex-CalPERS CEO admits he's a crook](https://fortune.com/2014/07/14/ex-calpers-ceo-admits-hes-a-crook/) (Tier 2)
 - [Naked Capitalism: CalPERS retiree group launches GoFundMe for PE fee investigation](https://www.nakedcapitalism.com/2025/07/calpers-retiree-group-launches-gofundme-for-investigation-on-private-equity-fees.html) (Tier 2)

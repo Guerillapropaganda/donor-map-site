@@ -118,7 +118,7 @@ The post-institutional phase is where Lemon becomes analytically interesting. Th
 ### Sources
 
 - [CNN: Don Lemon and CNN part ways](https://www.cnn.com/2023/04/24/media/don-lemon-cnn) (Tier 2) (VERIFIED) (Chrome verified 2026-03-26)
-- ~~[Forbes: CNN Settles With Ex-Anchor Don Lemon, His Representative Confirms](https://www.forbes.com/sites/maryroeloffs/2024/02/28/cnn-settles-with-ex-anchor-don-lemon-his-representative-confirms/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2) (Chrome verified 2026-03-26)
+- ~~[Forbes: CNN Settles With Ex-Anchor Don Lemon, His Representative Confirms](https://www.forbes.com/sites/maryroeloffs/2024/02/28/cnn-settles-with-ex-anchor-don-lemon-his-representative-confirms/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2) (Chrome verified 2026-03-26)
 - [Variety: CNN's Don Lemon Had History of Misogyny Before Nikki Haley Comment](https://variety.com/2023/tv/news/cnn-don-lemon-misogyny-history-nikki-haley-1235574286/) (Tier 2) (VERIFIED) (Chrome verified 2026-03-26)
 - [The Guardian: Don Lemon sues Elon Musk and X over terminated talkshow deal](https://www.theguardian.com/business/article/2024/aug/01/don-lemon-elon-musk-lawsuit) (Tier 2) (VERIFIED) (Chrome verified 2026-03-26)
 - [CNBC: Elon Musk sued by ex-CNN anchor Don Lemon over canceled X deal](https://www.cnbc.com/2024/08/01/elon-musk-don-lemon-lawsuit.html) (Tier 2) (VERIFIED) (Chrome verified 2026-03-26)

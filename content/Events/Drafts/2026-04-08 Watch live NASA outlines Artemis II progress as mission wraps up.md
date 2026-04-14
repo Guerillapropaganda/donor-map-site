@@ -16,7 +16,7 @@ profiles:
 **Source:** ~~[The Hill](https://thehill.com/video-clips/5822048-watch-live-nasa-update-artemis-2/)~~ (URL broken, archived by Ops)
 **Date:** 2026-04-08
 
-NASA officials will provide another update on the Artemis II mission, as the four astronauts aboard the test flight prepare to return to Earth at the end of the week. The lunar flyby mission, which launched on April 1, took the crew — Cmdr. Reid Wiseman, pilot Victor Glover, mission specialist Christina Koch and Canadian Space Agency…
+NASA officials will provide another update on the Artemis II mission, as the four astronauts aboard the test flight prepare to return to Earth at the end of the week. The lunar flyby mission, which launched on April 1, took the crew. Cmdr. Reid Wiseman, pilot Victor Glover, mission specialist Christina Koch and Canadian Space Agency…
 
 ---
 

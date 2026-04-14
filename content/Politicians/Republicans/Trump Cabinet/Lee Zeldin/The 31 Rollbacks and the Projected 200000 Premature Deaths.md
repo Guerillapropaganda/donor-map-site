@@ -25,7 +25,7 @@ donors: [[Leonard Leo]], Fossil Fuel Industry
 ### The 31 Rollbacks
 
 ### Clean Air Act:
-- 2009 Endangerment Finding: proposed repeal (July 2025) — the legal underpinning for all greenhouse gas regulation
+- 2009 Endangerment Finding: proposed repeal (July 2025), the legal underpinning for all greenhouse gas regulation
 - Vehicle emissions standards: eliminated all federal GHG standards for model years 2012–2027+
 - Power plant emissions: reconsideration of regulations on coal-fired plants
 - Mercury and Air Toxics Standards (MATS): targeted for rollback
@@ -43,9 +43,9 @@ donors: [[Leonard Leo]], Fossil Fuel Industry
 
 ### The Endangerment Finding: The "Holy Grail"
 
-Zeldin called the 2009 Endangerment Finding — EPA's scientific determination that greenhouse gas emissions endanger public health and welfare — the "'Holy Grail' of the 'climate change religion.'" The finding is the legal foundation for every federal climate regulation: vehicle emission standards, power plant rules, industrial pollution limits. Repealing it would eliminate the legal basis for all existing and future greenhouse gas regulations.
+Zeldin called the 2009 Endangerment Finding. EPA's scientific determination that greenhouse gas emissions endanger public health and welfare, the "'Holy Grail' of the 'climate change religion.'" The finding is the legal foundation for every federal climate regulation: vehicle emission standards, power plant rules, industrial pollution limits. Repealing it would eliminate the legal basis for all existing and future greenhouse gas regulations.
 
-The finding was issued under the Clean Air Act after the Supreme Court's 2007 Massachusetts v. EPA ruling required the agency to determine whether GHGs endanger public health. It was based on thousands of peer-reviewed scientific studies. Zeldin's proposed repeal would require EPA to argue that greenhouse gases do not endanger public health — contradicting decades of the agency's own scientific work.
+The finding was issued under the Clean Air Act after the Supreme Court's 2007 Massachusetts v. EPA ruling required the agency to determine whether GHGs endanger public health. It was based on thousands of peer-reviewed scientific studies. Zeldin's proposed repeal would require EPA to argue that greenhouse gases do not endanger public health, contradicting decades of the agency's own scientific work.
 
 > [!contradiction]
 > Zeldin proposes to use EPA's authority to declare that the scientific basis for EPA's existence on climate is wrong. The agency would be repudiating its own research to justify its own dismantlement. The man guaranteeing "absolutely" no adverse health effects is proposing to eliminate the agency's ability to measure health effects.
@@ -62,7 +62,7 @@ The finding was issued under the Clean Air Act after the Supreme Court's 2007 Ma
 | Analysis source | Environmental Protection Network (former EPA employees) |
 | Zeldin's guarantee | "Absolutely" no adverse health effects |
 
-The analysis covers only 12 of 31 rollbacks — the remaining 19 have not been fully modeled, meaning the total health impact is likely significantly higher. The Environmental Protection Network's analysis is based on the EPA's own methodologies and data — the same tools the agency has used for decades to project the health impacts of regulatory changes.
+The analysis covers only 12 of 31 rollbacks, the remaining 19 have not been fully modeled, meaning the total health impact is likely significantly higher. The Environmental Protection Network's analysis is based on the EPA's own methodologies and data, the same tools the agency has used for decades to project the health impacts of regulatory changes.
 
 ---
 
@@ -77,7 +77,7 @@ The analysis covers only 12 of 31 rollbacks — the remaining 19 have not been f
 | Scientists potentially fired | 50–75% (770–1,155 of 1,540) |
 | Office of Research and Development | Proposed closure |
 
-The Office of Research and Development is EPA's scientific research arm — the office that produces the studies on which health and environmental regulations are based. Closing it would eliminate the agency's capacity to generate the scientific evidence needed to justify any environmental regulation. Combined with the potential firing of 50–75% of scientists, the proposal would leave EPA unable to assess the health impacts of its own deregulatory actions — making Zeldin's guarantee of "absolutely" no adverse effects unfalsifiable by the agency's own capacity.
+The Office of Research and Development is EPA's scientific research arm, the office that produces the studies on which health and environmental regulations are based. Closing it would eliminate the agency's capacity to generate the scientific evidence needed to justify any environmental regulation. Combined with the potential firing of 50–75% of scientists, the proposal would leave EPA unable to assess the health impacts of its own deregulatory actions, making Zeldin's guarantee of "absolutely" no adverse effects unfalsifiable by the agency's own capacity.
 
 ---
 

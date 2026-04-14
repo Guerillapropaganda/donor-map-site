@@ -1,5 +1,5 @@
 ---
-title: "Andre Carson Master Profile"
+title: "Andre Carson"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

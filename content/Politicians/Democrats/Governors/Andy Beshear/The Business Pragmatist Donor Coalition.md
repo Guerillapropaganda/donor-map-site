@@ -40,7 +40,7 @@ donors: Trial Lawyers Bloc, Gambling Industry Bloc
 
 ### The Trial Lawyer Base
 
-Morgan & Morgan — the largest personal injury law firm in America — contributed $56,600 through 28 individual lawyers. The firm emphasized its "personal relationship with Beshear since high school." Of the 54 Morgan & Morgan lawyers who contributed across all entities, 34 live outside Kentucky — the national trial lawyer network funding a Kentucky governor.
+Morgan & Morgan, the largest personal injury law firm in America, contributed $56,600 through 28 individual lawyers. The firm emphasized its "personal relationship with Beshear since high school." Of the 54 Morgan & Morgan lawyers who contributed across all entities, 34 live outside Kentucky, the national trial lawyer network funding a Kentucky governor.
 
 ### The Quid Pro Quo Question:
 Morgan Collins Yeast and Salyer (London, KY law firm): $25,000 to Beshear. Partner McKinnley Morgan was subsequently appointed by Beshear to chair the Kentucky Personnel Board.
@@ -51,7 +51,7 @@ Morgan Collins Yeast and Salyer (London, KY law firm): $25,000 to Beshear. Partn
 
 London Mayor Randall Weddle's family, friends, and employees of his company WB Transport donated $305,500+ to Beshear's 2023 campaign and Kentucky Democratic Party. Beshear's campaign refunded $202,000 in excess contributions. Kentucky Registry of Election Finance voted 6-0 to continue investigation. Only 1 of 13 straw donors cooperated with investigators.
 
-A separate 2019 investigation into Louisville attorney Sam Aguiar's suspected straw donations on Beshear's behalf went to a grand jury — which declined to indict.
+A separate 2019 investigation into Louisville attorney Sam Aguiar's suspected straw donations on Beshear's behalf went to a grand jury, which declined to indict.
 
 > [!money]
 > The straw donor scandals reveal what the official donor data obscures: the actual sources of Beshear's funding are more concentrated and more conflicted than the disclosed contributions suggest. When a London mayor funnels $305K through family and employees, the question isn't just about legal compliance — it's about what the mayor's company (WB Transport) expected in return from the governor's office. The $202K refund resolved the legal exposure. It didn't resolve the access.

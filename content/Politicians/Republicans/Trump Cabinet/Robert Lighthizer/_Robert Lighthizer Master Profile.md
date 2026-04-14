@@ -1,5 +1,5 @@
 ---
-title: "Robert Lighthizer Master Profile"
+title: "Robert Lighthizer"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

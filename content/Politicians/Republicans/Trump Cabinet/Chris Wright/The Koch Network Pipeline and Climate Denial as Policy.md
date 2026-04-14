@@ -27,17 +27,17 @@ donors: [[Koch Network - Charles Koch]]
 | Date | Event | Amount | Source |
 |------|-------|--------|--------|
 | 2014-01-01 | Wright and wife Elizabeth contribute to Freedom Partners Action Fund (Koch super PAC) | $15,000 | OpenSecrets |
-| 2014-01-01 | Wright and wife publicly state "We proudly stand with the Kochs" | — | Wright public statement |
+| 2014-01-01 | Wright and wife publicly state "We proudly stand with the Kochs" |, | Wright public statement |
 | 2024-01-01 | Wright contributes to Americans for Prosperity Action | $100,000 | OpenSecrets |
-| 2024-01-01 | Koch donor network provides access to Trump inner circle through donor events | — | Koch Network infrastructure |
+| 2024-01-01 | Koch donor network provides access to Trump inner circle through donor events |, | Koch Network infrastructure |
 
-AFP spent $178 million backing Republican candidates in 2024. Wright's $100K contribution — relatively modest compared to his net worth — purchased membership in the network that funnels personnel recommendations to Republican administrations. The Koch network functions as a pre-selection committee: donors who participate get considered for positions, donations are the entry fee.
+AFP spent $178 million backing Republican candidates in 2024. Wright's $100K contribution, relatively modest compared to his net worth, purchased membership in the network that funnels personnel recommendations to Republican administrations. The Koch network functions as a pre-selection committee: donors who participate get considered for positions, donations are the entry fee.
 
 ---
 
 ### "Energy Sobriety" and Climate Denial
 
-Wright calls himself a "climate realist" — a rebranding of denial that acknowledges warming while opposing all mitigation:
+Wright calls himself a "climate realist", a rebranding of denial that acknowledges warming while opposing all mitigation:
 
 - **January 2023 LinkedIn video:** "There is no climate crisis and we're not in the midst of an energy transition either"
 - **Union of Concerned Scientists response:** Wright "deliberately misrepresents climate data and research"
@@ -53,7 +53,7 @@ The rhetoric serves a specific function: create intellectual permission for the 
 
 ### Sources
 
-- [Energy and Policy Institute: Chris Wright — Trump's pick for Energy Secretary is a longtime member of Koch's political donor network](https://energyandpolicy.org/chris-wright-energy-secretary-charles-koch/) (Tier 2) (VERIFIED)
+- [Energy and Policy Institute: Chris Wright. Trump's pick for Energy Secretary is a longtime member of Koch's political donor network](https://energyandpolicy.org/chris-wright-energy-secretary-charles-koch/) (Tier 2) (VERIFIED)
 - [Heatmap News: Inside the Mind of Energy Nominee Chris Wright](https://heatmap.news/climate/chris-wright-mind) (Tier 2) (VERIFIED)
-- ~~[CPR News: Don't call it 'climate denial' — Secretary of Energy Chris Wright claims he's preaching 'climate realism'](https://www.cpr.org/2025/05/05/climate-change-trump-secretary-of-energy-chris-wright/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[CPR News: Don't call it 'climate denial'. Secretary of Energy Chris Wright claims he's preaching 'climate realism'](https://www.cpr.org/2025/05/05/climate-change-trump-secretary-of-energy-chris-wright/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [DeSmog: Trump Energy Secretary pick Chris Wright calls climate crisis denier Bjorn Lomborg a 'friend'](https://www.desmog.com/2024/11/19/trump-energy-secretary-pick-chris-wright-calls-climate-crisis-denier-bjorn-lomborg-a-friend/) (Tier 2) (NEEDS REVIEW)

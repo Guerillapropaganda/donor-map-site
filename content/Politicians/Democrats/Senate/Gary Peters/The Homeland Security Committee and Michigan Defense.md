@@ -23,7 +23,7 @@ donors: [[General Dynamics]] [[Boeing]] [[Lockheed Martin]]
 
 Gary Peters chaired the Homeland Security and Governmental Affairs Committee (2021-2025), overseeing cybersecurity, government operations, and federal workforce issues. Peters is a former Navy Reserve officer and the only Democratic senator from Michigan's auto-defense economy who combines military credentials with committee jurisdiction over federal contracting.
 
-Michigan's defense sector — General Dynamics Land Systems (Abrams tanks, Sterling Heights), BAE Systems (Bradley Fighting Vehicles), and auto-defense crossover manufacturing — makes defense spending a bipartisan priority in the state. Peters's Homeland Security chairmanship gave him jurisdiction over federal procurement, cybersecurity contracts, and government IT modernization — all revenue streams for Michigan contractors.
+Michigan's defense sector. General Dynamics Land Systems (Abrams tanks, Sterling Heights), BAE Systems (Bradley Fighting Vehicles), and auto-defense crossover manufacturing, makes defense spending a bipartisan priority in the state. Peters's Homeland Security chairmanship gave him jurisdiction over federal procurement, cybersecurity contracts, and government IT modernization, all revenue streams for Michigan contractors.
 
 ---
 
@@ -38,7 +38,7 @@ Peters chaired the Democratic Senatorial Campaign Committee (DSCC) for the 2020 
 
 ### Sources
 
-- ~~[Congress.gov: Gary Peters member profile](https://www.congress.gov/member/gary-peters/P000595)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[Congress.gov: Gary Peters member profile](https://www.congress.gov/member/gary-peters/P000595)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [FEC Candidate: Gary Peters campaign finance summary](https://www.fec.gov/data/candidate/H8MI09068/) (Tier 1) (VERIFIED)
 - [Ballotpedia: Gary Peters](https://ballotpedia.org/Gary_Peters) (Tier 3) (VERIFIED)
 

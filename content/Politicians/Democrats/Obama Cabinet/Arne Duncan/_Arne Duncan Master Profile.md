@@ -1,5 +1,5 @@
 ---
-title: "Arne Duncan Master Profile"
+title: "Arne Duncan"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

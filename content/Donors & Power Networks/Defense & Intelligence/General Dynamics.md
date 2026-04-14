@@ -71,7 +71,7 @@ ftc-hsr-notices: 30
 
 ### Who They Are
 
-General Dynamics Corporation. The fifth-largest U.S. defense contractor by revenue ($42.3 billion, 2024), operating across four segments: Aerospace (Gulfstream business jets), Marine Systems (Electric Boat submarines), Combat Systems (tanks, armored vehicles), and Technologies (IT services, mission systems). Electric Boat builds the Navy's Virginia-class attack submarines and Columbia-class ballistic missile submarines — the most expensive weapons programs in naval history.
+General Dynamics Corporation. The fifth-largest U.S. defense contractor by revenue ($42.3 billion, 2024), operating across four segments: Aerospace (Gulfstream business jets), Marine Systems (Electric Boat submarines), Combat Systems (tanks, armored vehicles), and Technologies (IT services, mission systems). Electric Boat builds the Navy's Virginia-class attack submarines and Columbia-class ballistic missile submarines, the most expensive weapons programs in naval history.
 
 General Dynamics PAC contributes $2-3 million per cycle and the company spends $10-12 million annually on lobbying. CEO Phebe Novakovic earned $23.6 million in 2024 compensation.
 
@@ -93,7 +93,7 @@ General Dynamics PAC targets Armed Services Committee members (both chambers), A
 
 ### What They've Gotten
 
-**Columbia-Class Submarine Program:** The $131 billion Columbia-class ballistic missile submarine program — the Navy's top priority — is built by Electric Boat. The program ensures decades of guaranteed revenue for General Dynamics at the highest priority level the Navy assigns.
+**Columbia-Class Submarine Program:** The $131 billion Columbia-class ballistic missile submarine program, the Navy's top priority, is built by Electric Boat. The program ensures decades of guaranteed revenue for General Dynamics at the highest priority level the Navy assigns.
 
 **Virginia-Class Submarine Acceleration:** The Navy's plan to procure two Virginia-class submarines per year at $4.3 billion each provides continuous revenue. General Dynamics' lobbying emphasizes the submarine production rate as a national security necessity while ensuring its shipyard capacity remains at maximum utilization.
 
@@ -124,22 +124,22 @@ The defense industrial base argument is the political cover. General Dynamics po
 
 ---
 
-### March 2026 Updates — Earmarks and the $1.7T Defense Budget
+### March 2026 Updates. Earmarks and the $1.7T Defense Budget
 
-**The Britt Earmark — $16K Buys $220M:** Sen. Katie Britt (R-AL) pushed a **$220 million increase** for 15 Abrams tanks — manufactured at General Dynamics' Anniston, Alabama facility, directly in her state. General Dynamics PAC donated **$16,000** to Britt across two election cycles. Additionally, Cornerstone Government Affairs (lobbying firm with General Dynamics as client) donated **$43,000+** to Britt's campaign committee and leadership PAC in 2024. Combined: **$59,000+ in donations → $220M in earmarked procurement**. Britt publicly announced the **$219.8 million** allocation for Anniston Abrams tank production.
+**The Britt Earmark, $16K Buys $220M:** Sen. Katie Britt (R-AL) pushed a **$220 million increase** for 15 Abrams tanks, manufactured at General Dynamics' Anniston, Alabama facility, directly in her state. General Dynamics PAC donated **$16,000** to Britt across two election cycles. Additionally, Cornerstone Government Affairs (lobbying firm with General Dynamics as client) donated **$43,000+** to Britt's campaign committee and leadership PAC in 2024. Combined: **$59,000+ in donations → $220M in earmarked procurement**. Britt publicly announced the **$219.8 million** allocation for Anniston Abrams tank production.
 
-The final FY2026 bill included **$58.8 million for 4 tanks** — reduced from the full request but still an earmark above Pentagon request levels. The pattern is textbook: PAC donation + lobbying firm donation → senator pushes earmark → manufacturing in senator's home state → company revenue materializes.
+The final FY2026 bill included **$58.8 million for 4 tanks**, reduced from the full request but still an earmark above Pentagon request levels. The pattern is textbook: PAC donation + lobbying firm donation → senator pushes earmark → manufacturing in senator's home state → company revenue materializes.
 
 > [!money] The Earmark ROI
 > Combined General Dynamics PAC + lobbying affiliate donations to Britt: **$59,000+**. Britt's earmark push: **$220M** for Abrams tanks at Anniston, AL. Even the reduced $58.8M final allocation yields a **997:1 ROI** on political investment. If the full $220M materializes in future cycles: **3,729:1 ROI**. This is the earmark economy in a single data point.
 
-**FY2027 budget context:** The Trump administration is proposing a **$1.5 trillion** base defense budget — roughly $500 billion above FY2026 levels. Combined with the **$200 billion Iran war supplemental** request, total defense spending could reach **$1.7 trillion** — the largest defense request in American history. General Dynamics' submarine programs (Columbia-class $131B, Virginia-class $4.3B/unit) and combat vehicle lines are positioned for expanded procurement across all spending vehicles.
+**FY2027 budget context:** The Trump administration is proposing a **$1.5 trillion** base defense budget, roughly $500 billion above FY2026 levels. Combined with the **$200 billion Iran war supplemental** request, total defense spending could reach **$1.7 trillion**, the largest defense request in American history. General Dynamics' submarine programs (Columbia-class $131B, Virginia-class $4.3B/unit) and combat vehicle lines are positioned for expanded procurement across all spending vehicles.
 
 | Date | Event/Contribution | Amount | Policy Action | Time Gap | Outcome |
 |------|-------------------|--------|---------------|----------|---------|
 | 2023-2024 | GD PAC donations to Katie Britt (R-AL) | $16,000 | Britt pushes $220M Abrams tank earmark for Anniston, AL | Concurrent | $58.8M funded in FY2026; full $220M announced |
-| 2024 | Cornerstone Gov Affairs (GD lobbying) to Britt | $43,000+ | Same earmark push — combined with PAC: $59K+ | Concurrent | Manufacturing at GD Anniston facility |
-| 2026-03 | $200B Iran supplemental requested | — | Expanded munitions and combat vehicle procurement expected | Pending | GD combat systems positioned for increased orders |
+| 2024 | Cornerstone Gov Affairs (GD lobbying) to Britt | $43,000+ | Same earmark push, combined with PAC: $59K+ | Concurrent | Manufacturing at GD Anniston facility |
+| 2026-03 | $200B Iran supplemental requested |, | Expanded munitions and combat vehicle procurement expected | Pending | GD combat systems positioned for increased orders |
 
 - [Responsible Statecraft: Despite ban, pernicious military 'earmarks' are back in the billions](https://responsiblestatecraft.org/backdoor-earmarks-pentagon/) (Tier 2) (VERIFIED)
 - [Sen. Katie Britt: Advances key funding for Alabama in FY2026 defense bill](https://www.britt.senate.gov/news/press-releases/u-s-senator-katie-britt-advances-key-funding-for-alabama-in-senate-appropriations-committees-fiscal-year-2026-defense-bill/) (Tier 1) (VERIFIED)
@@ -160,7 +160,7 @@ The final FY2026 bill included **$58.8 million for 4 tanks** — reduced from th
 
 > This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.
 
-### Financial Overview (990 Filing — 2019)
+### Financial Overview (990 Filing, 2019)
 <!-- auto:propublica-990 start -->
 | Metric | Amount |
 |--------|--------|

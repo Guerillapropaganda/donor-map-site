@@ -21,7 +21,7 @@ tags: #analysis #story
 
 ### The Race
 
-Three-way contest for retiring Senator [[_Susan Collins Master Profile|Susan Collins]]' seat. Democratic Governor [[_Janet Mills Master Profile|Janet Mills]] faces political newcomer [[_Graham Platner Master Profile|Graham Platner]] in a fractious primary, while Collins defends her seat as the race's incumbent from the 2024 special election. The race is notable for massive dark money spending defending a moderate Republican incumbent against Democratic challengers who represent different factions of the party (establishment governors / ambitious progressives). As of early March 2026, over $37 million has been spent with eight months remaining — a pace that signals historic spending levels by year's end.
+Three-way contest for retiring Senator [[_Susan Collins Master Profile|Susan Collins]]' seat. Democratic Governor [[_Janet Mills Master Profile|Janet Mills]] faces political newcomer [[_Graham Platner Master Profile|Graham Platner]] in a fractious primary, while Collins defends her seat as the race's incumbent from the 2024 special election. The race is notable for massive dark money spending defending a moderate Republican incumbent against Democratic challengers who represent different factions of the party (establishment governors / ambitious progressives). As of early March 2026, over $37 million has been spent with eight months remaining, a pace that signals historic spending levels by year's end.
 
 ### The Money Map
 
@@ -30,7 +30,7 @@ Three-way contest for retiring Senator [[_Susan Collins Master Profile|Susan Col
 
 ### The Donor Class Question
 
-This race illustrates how dark money operates as a class-management tool. [[Senate Leadership Fund|Senate Leadership Fund]] ($42M) defends a moderate Republican against Democratic pressure, preserving Republican Senate control. Majority Forward opposes Collins, attempting to capture her seat for Democrats. But the real class function: both dark money networks preserve elite control regardless of outcome. If Collins wins, she remains pro-business / pro-finance on most votes. If a Democrat wins (Mills or Platner), Maine's votes shift left on social issues but right on corporate-friendly policy remains strong. The $50M+ spent is not really about ideology — it's about which elite faction controls one Senate vote.
+This race illustrates how dark money operates as a class-management tool. [[Senate Leadership Fund|Senate Leadership Fund]] ($42M) defends a moderate Republican against Democratic pressure, preserving Republican Senate control. Majority Forward opposes Collins, attempting to capture her seat for Democrats. But the real class function: both dark money networks preserve elite control regardless of outcome. If Collins wins, she remains pro-business / pro-finance on most votes. If a Democrat wins (Mills or Platner), Maine's votes shift left on social issues but right on corporate-friendly policy remains strong. The $50M+ spent is not really about ideology, it's about which elite faction controls one Senate vote.
 
 ### Cross-References
 

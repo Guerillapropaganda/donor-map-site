@@ -58,7 +58,7 @@ The structural impact: 400+ pending cases now have diminished investigative capa
 
 Patel's consulting company Trishul LLC ($2.1M in 2024) has served foreign clients including Qatar, China (Shein parent company $1-5M stock), and Czech arms interests ($5K+). Trump PACs contributed $544K. Trump Media paid $120K/year. Epoch Times $99K. Books $100K-$1M. Total Trishul revenue across all sources: $2.1M documented.
 
-This creates a conflict of interest structure. Patel runs the FBI while holding financial interests in entities doing business with foreign governments. His clients include countries that should be subjects of FBI counterintelligence investigation. Qatar signed FBI-Qatar security deals in December 2025 after Patel's directorship began. ~~[Kash Patel Master Profile](https://www.notion.so/_Kash_Patel_Master_Profile)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+This creates a conflict of interest structure. Patel runs the FBI while holding financial interests in entities doing business with foreign governments. His clients include countries that should be subjects of FBI counterintelligence investigation. Qatar signed FBI-Qatar security deals in December 2025 after Patel's directorship began. ~~[Kash Patel Master Profile](https://www.notion.so/_Kash_Patel_Master_Profile)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 
 ### Project 2025 and the FBI Recommendations
 

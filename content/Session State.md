@@ -19,44 +19,44 @@ Date: 2026-04-12 (evening, multi-hour build session)
 ### Theme
 Built the entire Capitol Trades analytical platform from the ground up. 12-tab Ops page covering stock trades, crypto, conflicts, lobbying, and unusual activity detection. Scraped 52,822 congressional transactions across both chambers (2014-2026). Built Senate eFD scraper. 10-strategy ticker extraction reaching 80-90%. Name normalization, filing delay cleanup, and data quality documentation.
 
-### Done — Capitol Trades Ops Page (`ops/src/app/capitol-trades/page.tsx`)
+### Done. Capitol Trades Ops Page (`ops/src/app/capitol-trades/page.tsx`)
 12 tabs total:
-1. **Trades** — sortable/filterable table with inline flag badges (WHALE, LATE, CALL/PUT, CRYPTO)
-2. **Stock Flow** — per-ticker buy/sell bar chart
-3. **Money Trail** — Sankey graph: politicians to stocks with ticker picker (1-20)
-4. **Top Tickers** — volume-ranked stocks
-5. **Top Traders** — most active politicians
-6. **Stories** (green) — plain English auto-generated narratives for normies
-7. **Scoreboard** (red) — composite suspicion score ranking all 494 politicians
-8. **Timeline** (amber) — monthly volume chart with COVID/crypto/crisis event markers
-9. **Unusual** (purple) — coordinated trade cluster detection + volume surges
-10. **Conflicts** (red) — committee-sector conflicts (Senate only, GovTrack offset limit)
-11. **Lobby** (cyan) — entity lobby spend vs stock trades, triple-conflict detection
-12. **Crypto** (amber) — 4-tier system (direct/ETF/company/adjacent) + trade-vote conflicts
+1. **Trades**, sortable/filterable table with inline flag badges (WHALE, LATE, CALL/PUT, CRYPTO)
+2. **Stock Flow**, per-ticker buy/sell bar chart
+3. **Money Trail**. Sankey graph: politicians to stocks with ticker picker (1-20)
+4. **Top Tickers**, volume-ranked stocks
+5. **Top Traders**, most active politicians
+6. **Stories** (green), plain English auto-generated narratives for normies
+7. **Scoreboard** (red), composite suspicion score ranking all 494 politicians
+8. **Timeline** (amber), monthly volume chart with COVID/crypto/crisis event markers
+9. **Unusual** (purple), coordinated trade cluster detection + volume surges
+10. **Conflicts** (red), committee-sector conflicts (Senate only, GovTrack offset limit)
+11. **Lobby** (cyan), entity lobby spend vs stock trades, triple-conflict detection
+12. **Crypto** (amber), 4-tier system (direct/ETF/company/adjacent) + trade-vote conflicts
 
 Collapsible "What am I looking at?" explainers on every tab.
 
-### Done — Data Pipeline
+### Done. Data Pipeline
 - **House backfill** (`scripts/financial-disclosures-backfill.cjs`): 44,610 transactions from 7,419 PDFs, 2015-2026. 10-strategy ticker extraction (53% -> 80%+).
 - **Senate backfill** (`scripts/senate-disclosures-backfill.cjs`): 8,212 transactions from eFD HTML, 2014-2026. Fixed CSRF agreement 302 cookie capture.
 - **Crypto votes** (`scripts/crypto-votes-fetch.cjs`): 170 crypto bills, 9 with floor votes, 5,381 member vote records from GovTrack.
 - **Committee assignments** (`scripts/committee-assignments-fetch.cjs`): 98 senators, 11 committees with sector mappings.
 
-### Done — APIs (6 new routes)
-- `/api/capitol-trades` — main trades API with crypto tiers, enhanced flags, Senate data
-- `/api/crypto-conflicts` — trade-vote cross-reference (60-day window, 3 suspicion levels)
-- `/api/committee-conflicts` — committee-sector conflict detection with ticker-to-sector mapping
-- `/api/unusual-activity` — coordinated cluster detection + volume surge algorithm
-- `/api/trade-stories` — plain English narrative generator (whale/late/options/crypto categories)
-- `/api/lobby-trades` — lobby entity to stock trade cross-reference with triple-conflict detection
+### Done. APIs (6 new routes)
+- `/api/capitol-trades`, main trades API with crypto tiers, enhanced flags, Senate data
+- `/api/crypto-conflicts`, trade-vote cross-reference (60-day window, 3 suspicion levels)
+- `/api/committee-conflicts`, committee-sector conflict detection with ticker-to-sector mapping
+- `/api/unusual-activity`, coordinated cluster detection + volume surge algorithm
+- `/api/trade-stories`, plain English narrative generator (whale/late/options/crypto categories)
+- `/api/lobby-trades`, lobby entity to stock trade cross-reference with triple-conflict detection
 
-### Done — Data Quality Improvements
+### Done. Data Quality Improvements
 - **Name normalization** (`ops/src/lib/politician-names.ts`): 50+ manual overrides, strips honorifics, normalizes suffixes
 - **Filing delay cleanup**: caps 0-180 days, discards negative and >365 day errors. Reduced false late disclosures from 8,622 to ~6,000 real violations.
 - **10-strategy ticker extraction**: case-insensitive OCR matching, subholding parsing, company name mapping, filing status stripping. 53% -> 80%+ ticker rate.
 - **Data quality report**: `content/Admin Notes/capitol-trades-data-quality.md`
 
-### Done — Enhanced Detection
+### Done. Enhanced Detection
 - Crypto: 408 trades across both chambers, 4-tier classification
 - Options: 1,031 trades (leveraged directional bets)
 - Whale ($500K+): 1,731 trades
@@ -64,22 +64,22 @@ Collapsible "What am I looking at?" explainers on every tab.
 - Filters: year, amount range, flag type (whale/late/options/crypto/no-ticker), Clear All
 
 ### In progress
-- **House 10-strategy re-run** — running in background, 2018 saved, remaining years processing. Previous 6-strategy run hit 77.7%, 10-strategy expected 85-90%.
+- **House 10-strategy re-run**, running in background, 2018 saved, remaining years processing. Previous 6-strategy run hit 77.7%, 10-strategy expected 85-90%.
 
 ### Known issues
 - **FIT21 and GENIUS Act have no floor vote data** (voice votes). Crypto vote-conflict tab has limited data for the bills that matter most.
-- **House committee data missing** — GovTrack API offset>1000 limit blocks House committees. Committee-trade conflicts only work for Senate.
-- **Senate options pre-2021: 0 detected** — eFD format may have changed.
-- **Lobby entity-ticker mapping: ~50 of 137 entities** — remaining 87 need tickers added.
+- **House committee data missing**. GovTrack API offset>1000 limit blocks House committees. Committee-trade conflicts only work for Senate.
+- **Senate options pre-2021: 0 detected**, eFD format may have changed.
+- **Lobby entity-ticker mapping: ~50 of 137 entities**, remaining 87 need tickers added.
 - **47% of House trades still no ticker** (improving with 10-strategy re-run).
 
 ### Next session priorities
-1. **Check 10-strategy re-run results** — verify 85-90% ticker rate, copy to main repo
-2. **Public site build** — port analysis tabs to live Quartz site at `/interactive/capitol-trades`
-3. **House committee data** — find alternative to GovTrack for House committee assignments
-4. **Cosponsor lists as vote proxy** — FIT21/GENIUS Act cosponsors as substitute for missing vote data
-5. **Politician deep dive view** — click any name to see full portfolio, sector exposure, timeline
-6. **Alerts endpoint investigation** — debug `/api/alerts` counts (carried over from previous session)
+1. **Check 10-strategy re-run results**, verify 85-90% ticker rate, copy to main repo
+2. **Public site build**, port analysis tabs to live Quartz site at `/interactive/capitol-trades`
+3. **House committee data**, find alternative to GovTrack for House committee assignments
+4. **Cosponsor lists as vote proxy**. FIT21/GENIUS Act cosponsors as substitute for missing vote data
+5. **Politician deep dive view**, click any name to see full portfolio, sector exposure, timeline
+6. **Alerts endpoint investigation**, debug `/api/alerts` counts (carried over from previous session)
 
 ### Session end state
 - **20+ commits, 10+ deploys, all successful**
@@ -97,7 +97,7 @@ Date: 2026-04-12 (all day marathon session)
 ### Theme
 Massive feature session. Built the Money Trail graph, overhauled the relationships graph with D3 force simulation, added dual-layer node coloring, fixed List View freeze, fixed graph filter dedup bugs, added entity type filters, built scripts page Run buttons, enrichment detail reporting, and populated 271 new political-opposition edges (104 Democrats vs Trump). 15+ commits, 10+ deploys.
 
-### Done — Relationships Graph Overhaul
+### Done. Relationships Graph Overhaul
 - **D3 Force Graph** (`ops/src/app/relationships/page.tsx`). Replaced manual orbit layout with D3 force simulation. Commits `fe451199`, `62c64b26`.
 - **Dual-layer nodes**: inner circle = entity type (politician/donor/think-tank/K Street/media), outer ring = relationship type (funded/related/opposes/stories). Commit `1af145da`.
 - **Entity type filters**: toggle row for Politicians/Donors/Think Tanks/K Street/Media. Distinct color palette (indigo/teal/fuchsia/orange/yellow) to avoid clashing with relationship colors.
@@ -107,20 +107,20 @@ Massive feature session. Built the Money Trail graph, overhauled the relationshi
 - **Duplicate React key fix**: `key={rt::name}` for List View items appearing in multiple type arrays. Commit `5b86f802`.
 - **Connection dedup**: forward-path dedup in connections API prevents double-counting bidirectional edges. Commit `b38bd5de`.
 
-### Done — Money Trail Graph
+### Done. Money Trail Graph
 - **Full monetary network** (`ops/src/app/money-trail/page.tsx`). 928 monetary edges as D3 force graph. Animated flow dots pulsing along edges. Both-sides donors highlighted with amber glow. Sector coloring mode toggle. Party/both-sides/donors filters. Node count slider (50-500). Directed arrows. Click to open in editor. Commit `3155462a`.
 - **API rewired to JSONL** (`ops/src/app/api/money-trail/route.ts`). Reads from canonical JSONL store instead of frontmatter.
 
-### Done — Pipeline & Enrichment
+### Done. Pipeline & Enrichment
 - **Enrichment detail view** (`ops/src/components/EnrichmentLog.tsx`, `/api/enrichment-log`). Per-profile, per-pipeline results with conflict flags. Filterable by pipeline type. Commit `11a1a357`.
 - **Scripts Run buttons** (`ops/src/app/scripts/page.tsx`, `/api/scripts`). Server-side script execution with allowlist, loading states, output viewer. Commit `cf826d28`.
 - **Alerts cap fix** (`ops/src/app/api/status/route.ts`). Removed Math.min(99) cap.
 
-### Done — Live Site
+### Done. Live Site
 - **ProfileWidget type colors** (`quartz/components/ProfileWidget.tsx`). Colored left-border by relationship type. CSS classes `pw-rel-donor/related/opposes/story`.
 - **Bidirectional connections** (`ops/src/app/api/connections/route.ts`). Opposes, related, and stories edges now populate both source AND target profiles.
 
-### Done — Data Enrichment (Research Claude)
+### Done. Data Enrichment (Research Claude)
 - **271 new political-opposition edges** in `data/relationships.jsonl`. 104 Democrats bidirectional with Trump (187 edges) + 84 edges from frontmatter migration across 43 profiles. Total opposition: 47 → 318.
 - **8 K Street firms** connected to Trump: Ballard Partners, BGR Group, Akin Gump, Mercury, Squire Patton Boggs, Holland & Knight, Brownstein, Invariant.
 - **Edge type cleanup**: fixed `to_type`/`from_type` "unknown" on opposition edges.
@@ -132,11 +132,11 @@ Massive feature session. Built the Money Trail graph, overhauled the relationshi
 - **Money trail missing features**: search/highlight, money paths between profiles, gatekeeper detection.
 
 ### Next session priorities
-1. **Alerts endpoint investigation** — debug `/api/alerts` counts, verify alert accuracy
-2. **Both-sides contradiction investigation** — profiles appearing in both opposes AND donors/related
-3. **Republican opposition edges** — mirror the Democrat treatment (every Republican should have opposition edges with key Democrats)
-4. **Money trail enhancements** — search, sector filter, minimum connections filter
-5. **Content depth** — Research Claude: draft-to-ready promotions
+1. **Alerts endpoint investigation**, debug `/api/alerts` counts, verify alert accuracy
+2. **Both-sides contradiction investigation**, profiles appearing in both opposes AND donors/related
+3. **Republican opposition edges**, mirror the Democrat treatment (every Republican should have opposition edges with key Democrats)
+4. **Money trail enhancements**, search, sector filter, minimum connections filter
+5. **Content depth**. Research Claude: draft-to-ready promotions
 
 ### Session end state
 - **15+ commits, 10+ deploys, all successful**
@@ -148,40 +148,40 @@ Massive feature session. Built the Money Trail graph, overhauled the relationshi
 
 ## Previous Session
 Claude: Code
-Date: 2026-04-12 morning — bug fix session from David's wrinkles list
+Date: 2026-04-12 morning, bug fix session from David's wrinkles list
 
-### Done — 4 dashboard bug fixes (commit `a53bf573` → merge `54315fd7`)
+### Done, 4 dashboard bug fixes (commit `a53bf573` → merge `54315fd7`)
 - Graph overflow capped, enrichment count honest, calendar timestamps local, vault health donut 0%→74%
 
 ---
 
 ## Previous Session
 Claude: Code
-Date: 2026-04-12 early morning — Phase 3 completion session
+Date: 2026-04-12 early morning. Phase 3 completion session
 
 ### Theme
-Closed out Phase 3 entirely. The last architectural piece (Part 4b) ships the Quartz component migration: ProfileWidget.tsx and DiscoveryPanel.tsx now import data/relationships-per-profile.json directly and prefer its clean title arrays over parsing frontmatter wikilinks with regex. The live site at thedonormap.org will now show ~21,418 related connections (was ~11,745), ~1,940 story links (was ~17), and ~50 unconnected profiles (was ~600). Also retargeted the orphan detector to JSONL mode (3,869 orphans remaining — all aggregator targets correctly skipped by the normalizer) and wired the bidirectional-normalizer + per-profile artifact builder into the attention-dispatcher as weekly Sunday producers.
+Closed out Phase 3 entirely. The last architectural piece (Part 4b) ships the Quartz component migration: ProfileWidget.tsx and DiscoveryPanel.tsx now import data/relationships-per-profile.json directly and prefer its clean title arrays over parsing frontmatter wikilinks with regex. The live site at thedonormap.org will now show ~21,418 related connections (was ~11,745), ~1,940 story links (was ~17), and ~50 unconnected profiles (was ~600). Also retargeted the orphan detector to JSONL mode (3,869 orphans remaining, all aggregator targets correctly skipped by the normalizer) and wired the bidirectional-normalizer + per-profile artifact builder into the attention-dispatcher as weekly Sunday producers.
 
-### Done — Phase 3 Part 4b: Quartz components read canonical relationship JSON (commit `8b707e38` → merge `39de2c7a`)
-- `quartz/components/ProfileWidget.tsx`: imports `data/relationships-per-profile.json`, new `getRels(title)` helper does O(1) JSON lookup. Lines 42-63 (wikilink regex parsing into `ourLinkTargets` + `ourOpposesTargets` Sets) replaced with JSON array reads. Falls back to frontmatter regex when a profile isn't in the JSON yet. `politiciansFunded` (line 68), allFiles donor scan (line 80 `politicians-funded`), and allFiles mutual-reference scan (lines 108-120 `related/opposes/donors`) all prefer JSON with frontmatter fallback. `linkTargets` Set for shared-donor bridge now built from JSON arrays (lowercased to match downstream comparison). `fm["top-donors"]` and all profile metadata (party, chamber, sector, type, issues) remain from frontmatter — no canonical equivalent for curated sector data.
+### Done. Phase 3 Part 4b: Quartz components read canonical relationship JSON (commit `8b707e38` → merge `39de2c7a`)
+- `quartz/components/ProfileWidget.tsx`: imports `data/relationships-per-profile.json`, new `getRels(title)` helper does O(1) JSON lookup. Lines 42-63 (wikilink regex parsing into `ourLinkTargets` + `ourOpposesTargets` Sets) replaced with JSON array reads. Falls back to frontmatter regex when a profile isn't in the JSON yet. `politiciansFunded` (line 68), allFiles donor scan (line 80 `politicians-funded`), and allFiles mutual-reference scan (lines 108-120 `related/opposes/donors`) all prefer JSON with frontmatter fallback. `linkTargets` Set for shared-donor bridge now built from JSON arrays (lowercased to match downstream comparison). `fm["top-donors"]` and all profile metadata (party, chamber, sector, type, issues) remain from frontmatter, no canonical equivalent for curated sector data.
 - `quartz/components/DiscoveryPanel.tsx`: same `getRels` import + helper. Line 56 (allFiles donor scan `politicians-funded`) prefers JSON. `fFm["top-donors"]` stays from frontmatter (curated sector data).
 - `quartz/components/RelatedProfiles.tsx`: NOT modified (uses `fileData.links` body wikilink graph, not frontmatter).
 - Quartz build: 1,746 → 7,142 files emitted, exit 0, no errors from JSON import. esbuild resolves JSON imports natively.
 
-### Done — Orphan detector retargeted to JSONL (commit `a889b7ae` → merge `3d7fb810`)
+### Done. Orphan detector retargeted to JSONL (commit `a889b7ae` → merge `3d7fb810`)
 - `scripts/relationship-bidirectional.cjs`: defaults to JSONL mode (reads from `loadEdges()`, filters to active related, checks reverse edge existence). Reports 3,869 orphan pairs (all aggregator targets the normalizer correctly skipped). Pass `--frontmatter` for legacy mode (still reports 4,643). The 774-pair difference = non-aggregator orphans the normalizer already fixed.
 
-### Done — Normalizer + artifact builder wired into attention-dispatcher (same commit)
+### Done. Normalizer + artifact builder wired into attention-dispatcher (same commit)
 - `scripts/attention-dispatcher.cjs`: 2 new producers (total now 8):
-  - `bidirectional-normalizer`: Sundays at 3:23am, runs `normalize-related-bidirectionality.cjs`, 60s timeout
-  - `per-profile-artifact`: Sundays at 3:25am, runs `build-relationships-per-profile.cjs`, 60s timeout
+ - `bidirectional-normalizer`: Sundays at 3:23am, runs `normalize-related-bidirectionality.cjs`, 60s timeout
+ - `per-profile-artifact`: Sundays at 3:25am, runs `build-relationships-per-profile.cjs`, 60s timeout
 
 ### Known issues / still outstanding
 - **3 stories still need FEC Tier 1 source migration** (Intra-Republican, Schumer-McConnell, Michigan 2026). Editor-only work. Each profile's `known-gaps` field lists the exact FEC committee/candidate IDs needed.
 - **Contradiction 06 Crypto flagged by voice-drift-detector** (13 em dashes). Research Claude lane.
 - **Attention dispatcher shell:startup install.** 5-minute David task still pending.
 - **UptimeRobot / Healthchecks.io / Sentry accounts** not set up.
-- **Quartz components still have the frontmatter fallback path** (`if (!rels)`) — can be removed once the per-profile artifact regeneration is confirmed automated and all profiles are covered.
+- **Quartz components still have the frontmatter fallback path** (`if (!rels)`), can be removed once the per-profile artifact regeneration is confirmed automated and all profiles are covered.
 - **`/api/relationships` POST/DELETE still writes to frontmatter** alongside JSONL. The frontmatter write can be removed once no Quartz component reads it (they now read JSON, but the fallback path still checks frontmatter for uncovered profiles).
 
 ### Next session priorities
@@ -189,7 +189,7 @@ Closed out Phase 3 entirely. The last architectural piece (Part 4b) ships the Qu
 2. **David: FEC Tier 1 migration** on the 3 flagged stories (exact FEC IDs in each story's known-gaps). Editor-only.
 3. **Research Claude: voice cleanup** on Contradiction 06 Crypto (13 em dashes, tighten sentence length).
 4. **David: attention dispatcher shell:startup install** (5-min task: shortcut to scripts/attention-dispatcher.bat in Windows startup folder).
-5. **External services setup** (UptimeRobot + Healthchecks.io + Sentry — David's accounts).
+5. **External services setup** (UptimeRobot + Healthchecks.io + Sentry. David's accounts).
 6. **Cleanup passes:** remove frontmatter fallback from Quartz components once regeneration is confirmed; remove frontmatter write from /api/relationships POST/DELETE; extract shared getRels + RelEntry type to quartz/util/relationships.ts.
 
 ### Session end state
@@ -197,67 +197,67 @@ Closed out Phase 3 entirely. The last architectural piece (Part 4b) ships the Qu
 - **Edge store: 24,333 edges, all valid.** 4 sources, 4 active types.
 - **Live site now reads canonical store** via data/relationships-per-profile.json import.
 - **8 dispatcher producers** running on cron: 5 original Attention Queue + discovery-scanner (4h) + normalizer (weekly) + artifact builder (weekly).
-- **Orphan metric: 3,869 remaining** (all aggregator targets — non-aggregator orphans are at zero).
+- **Orphan metric: 3,869 remaining** (all aggregator targets, non-aggregator orphans are at zero).
 - **Latest deploys:** `39de2c7a` (Part 4b) + `3d7fb810` (orphan detector + dispatcher wiring)
 
 ---
 
 ## Previous Session
 Claude: Code (research hat where needed)
-Date: 2026-04-11 late night — four-item closing run
+Date: 2026-04-11 late night, four-item closing run
 
 ### Theme
-Fourth session of the day. David's list was "1, 2, 3, 4" — Phase 3 Part 3b (POST/DELETE upsert JSONL), Phase 3 Part 4 (Quartz migration — scoped down to Part 4a artifact), the 9-story editorial pass, and orphan cleanup. All four shipped. The edge store is now end-to-end canonical: reads + writes + normalization all flow through data/relationships.jsonl, and the /relationships page, dashboard widgets, and the editorial path all produce consistent views.
+Fourth session of the day. David's list was "1, 2, 3, 4". Phase 3 Part 3b (POST/DELETE upsert JSONL), Phase 3 Part 4 (Quartz migration, scoped down to Part 4a artifact), the 9-story editorial pass, and orphan cleanup. All four shipped. The edge store is now end-to-end canonical: reads + writes + normalization all flow through data/relationships.jsonl, and the /relationships page, dashboard widgets, and the editorial path all produce consistent views.
 
-### Done — Phase 3 Part 3b: POST/DELETE upsert JSONL (commit `9963ca4b` → merge `48f2d091`, deploy `24292896133` 1m39s)
+### Done. Phase 3 Part 3b: POST/DELETE upsert JSONL (commit `9963ca4b` → merge `48f2d091`, deploy `24292896133` 1m39s)
 - `scripts/lib/relationships-store.cjs`: new `deprecateEdge(id)` and `activateEdge(id)` helpers. Symmetric status-flip operations with atomic tmp+rename writes. Deprecation is one-way via `upsertEdges` (scanner can't silently un-deprecate); `activateEdge` is the only path back.
-- `ops/src/lib/relationships-store.ts`: new execFileSync subprocess wrappers — `buildEdge(input)`, `upsertEdge(edge)`, `deprecateEdge(id)`, `activateEdge(id)`. Each spawns a Node subprocess against the CJS store. ~50-150ms per call, fine for user-initiated clicks. Same pattern as `/api/rulebook` checkIds. `buildEdge` resolves title → top-level type + subcategory via the rulebook title index, flips undirected edges to canonical from<to order, and computes the deterministic id hash in one round trip.
+- `ops/src/lib/relationships-store.ts`: new execFileSync subprocess wrappers, `buildEdge(input)`, `upsertEdge(edge)`, `deprecateEdge(id)`, `activateEdge(id)`. Each spawns a Node subprocess against the CJS store. ~50-150ms per call, fine for user-initiated clicks. Same pattern as `/api/rulebook` checkIds. `buildEdge` resolves title → top-level type + subcategory via the rulebook title index, flips undirected edges to canonical from<to order, and computes the deterministic id hash in one round trip.
 - `ops/src/app/api/relationships/route.ts`: full rewrite. POST now builds a schema-complete edge via `buildEdge()`, upserts into the canonical store via `upsertEdge()`, AND preserves the legacy frontmatter write so Quartz consumers see the change immediately. DELETE computes the edge id via `buildEdge` and calls `deprecateEdge()`. Legacy → Phase 3 type mapping is `related → related`, `donors → monetary (with endpoint flip)`, `opposes → political-opposition`, `stories → story-link`. Response gains `phase3: { edgeId, upserted | deprecated | skipReason }` field. Source enum is `manual-ops` at confidence 0.7.
 - Verified end-to-end on localhost:3333: POST Pete Buttigieg → Ted Cruz (type: related), GET `/api/connections` shows 1 new matching edge, profile frontmatter updated. DELETE with same payload flips the edge to deprecated, GET shows 0 active matches, profile frontmatter clean (git diff empty after round-trip). Edge 269dd3f67f43575d stays in the JSONL with `status: "deprecated"` for audit trail.
 - **First manual-ops edge ever written to the canonical store through the Ops UI.**
 - Store state after the test: 19,849 edges (was 19,848). Sources: 12,685 frontmatter-migration + 7,163 discovery-scanner + 1 manual-ops. Full validator pass.
 
-### Done — Phase 3 Part 4a: per-profile relationship artifact (commit `63c29cb3` → merge `761a5c5c`)
+### Done. Phase 3 Part 4a: per-profile relationship artifact (commit `63c29cb3` → merge `761a5c5c`)
 - New `scripts/build-relationships-per-profile.cjs`: reads the canonical JSONL store, projects each edge into the legacy per-profile shape expected by Quartz components, writes `data/relationships-per-profile.json`.
 - Type projection: `related → profile.related[]`, `monetary → donor.politicians-funded[] + recipient.donors[]` (bidirectional view), `political-opposition → profile.opposes[]`, `story-link → profile.stories[]`. Skips the 6 Phase 3 types with no legacy equivalent (staffing, media-appearance, affiliation, legal, family, unknown).
 - Output: **1,743 profile entries, 950KB, built in 80ms.** Per-profile field totals: 16,933 related · 928 donors · 928 politicians-funded · 47 opposes · 1,940 stories.
 - Split from full Phase 3 Part 4 (Quartz component migration) because the component surgery + plugin work + build regression is a much bigger lift that deserves its own session. Part 4a ships the stable handoff artifact; Part 4b will consume it.
 
-### Done — Story editorial pass round 2 (commit `78c8af24` → merge `761a5c5c`, deploy `24293101993`)
-- Second-look audit on the 9 stories that remained flagged after the earlier pass. Found the first pass was too conservative: the actual gating criterion is "≥3 REAL Tier 1 entries after demoting OpenSecrets per Vault Rules" — several stories had `(Tier 1)` annotations on OpenSecrets URLs that should be `(Tier 2)` or lower.
+### Done. Story editorial pass round 2 (commit `78c8af24` → merge `761a5c5c`, deploy `24293101993`)
+- Second-look audit on the 9 stories that remained flagged after the earlier pass. Found the first pass was too conservative: the actual gating criterion is "≥3 REAL Tier 1 entries after demoting OpenSecrets per Vault Rules", several stories had `(Tier 1)` annotations on OpenSecrets URLs that should be `(Tier 2)` or lower.
 - Counted real Tier 1 after applying the CLAUDE.md OpenSecrets demotion rule:
-  * Cross-Politician Contradiction Map: **12 real T1** → VOUCHED (FEC, Congressional Record, Supreme Court, ProPublica)
-  * Contradiction 23 Prison Telecom: **5 real T1** → VOUCHED (FCC, CFPB, FEC, primary policy docs)
-  * Ohio 2026 Acton vs Ramaswamy: **3 real T1** → VOUCHED (FEC + ProPublica + Congress.gov)
-  * Contradiction 06 Crypto Industry: **7 real T1** → VOUCHED (FEC, Congress.gov, SCOTUS, federal agency filings)
-  * Intra-Democratic Contradiction Map: **13 real T1** → VOUCHED (best-sourced: deep FEC + Congress.gov)
-  * Pelosi-McCarthy Leadership Mirror: **3 real T1** → VOUCHED (FEC Pelosi + FEC McCarthy + FEC CLF SuperPAC, all Chrome-verified 2026-03-27)
-  * Intra-Republican Contradiction Map: **1 real T1** → flagged (2 OpenSecrets + 1 generic FEC homepage)
-  * Schumer-McConnell Senate Leadership Mirror: **0 real T1** → flagged (all 5 "Tier 1" are OpenSecrets)
-  * Michigan 2026 Senate Race: **0 real T1** → flagged (source-tier: 2, only journalism citations)
-- **6 stories vouched** (`editor-vouched: true` frontmatter added) — verified by re-running hallucination-catcher; all 6 dropped out of the queue. One of the 6 (Contradiction 06 Crypto) is now flagged by voice-drift-detector instead (13 em dashes) — that's a separate style issue, not a citation issue, and deliberately not exempted by editor-vouched.
+ * Cross-Politician Contradiction Map: **12 real T1** → VOUCHED (FEC, Congressional Record, Supreme Court, ProPublica)
+ * Contradiction 23 Prison Telecom: **5 real T1** → VOUCHED (FCC, CFPB, FEC, primary policy docs)
+ * Ohio 2026 Acton vs Ramaswamy: **3 real T1** → VOUCHED (FEC + ProPublica + Congress.gov)
+ * Contradiction 06 Crypto Industry: **7 real T1** → VOUCHED (FEC, Congress.gov, SCOTUS, federal agency filings)
+ * Intra-Democratic Contradiction Map: **13 real T1** → VOUCHED (best-sourced: deep FEC + Congress.gov)
+ * Pelosi-McCarthy Leadership Mirror: **3 real T1** → VOUCHED (FEC Pelosi + FEC McCarthy + FEC CLF SuperPAC, all Chrome-verified 2026-03-27)
+ * Intra-Republican Contradiction Map: **1 real T1** → flagged (2 OpenSecrets + 1 generic FEC homepage)
+ * Schumer-McConnell Senate Leadership Mirror: **0 real T1** → flagged (all 5 "Tier 1" are OpenSecrets)
+ * Michigan 2026 Senate Race: **0 real T1** → flagged (source-tier: 2, only journalism citations)
+- **6 stories vouched** (`editor-vouched: true` frontmatter added), verified by re-running hallucination-catcher; all 6 dropped out of the queue. One of the 6 (Contradiction 06 Crypto) is now flagged by voice-drift-detector instead (13 em dashes), that's a separate style issue, not a citation issue, and deliberately not exempted by editor-vouched.
 - **3 stories flagged with detailed `known-gaps` entries** in their frontmatter pointing David at the exact FEC committee/candidate IDs needed for Tier 1 migration (URL fixing is Editor-only per CLAUDE.md). For each: replacement FEC URLs + committee IDs are specified so the migration work is well-scoped when David picks it up.
 - **Cumulative vouches this session: 9 out of 12** originally flagged in the hallucination-catcher queue.
 
-### Done — Phase 3 Part 4 orphan cleanup: bidirectional normalizer (commit `39b8d9b5` → merge `761a5c5c`, deploy `24293101993`)
+### Done. Phase 3 Part 4 orphan cleanup: bidirectional normalizer (commit `39b8d9b5` → merge `761a5c5c`, deploy `24293101993`)
 - `scripts/lib/relationship-edge-validator.cjs`: SOURCES enum gains `bidirectional-normalizer` so the new edges validate with a distinctive provenance tag.
-- New `scripts/normalize-related-bidirectionality.cjs`: scans the canonical JSONL, finds every active `related` edge A→B where no reverse B→A exists, and upserts mirror edges with source `bidirectional-normalizer`. Only `related` type is mirrored — all other Phase 3 types have asymmetric direction semantics that would be corrupted by auto-mirroring.
-- **Aggregator exclusion filter**: skips mirrors whose SOURCE would be an aggregator type (meta/story/event). Those are inbound-only surfaces — X→Index is meaningful but Index→X would bloat the index page with thousands of outbound refs. 3,869 such mirrors skipped.
+- New `scripts/normalize-related-bidirectionality.cjs`: scans the canonical JSONL, finds every active `related` edge A→B where no reverse B→A exists, and upserts mirror edges with source `bidirectional-normalizer`. Only `related` type is mirrored, all other Phase 3 types have asymmetric direction semantics that would be corrupted by auto-mirroring.
+- **Aggregator exclusion filter**: skips mirrors whose SOURCE would be an aggregator type (meta/story/event). Those are inbound-only surfaces. X→Index is meaningful but Index→X would bloat the index page with thousands of outbound refs. 3,869 such mirrors skipped.
 - Run stats:
-  * 16,933 active related edges scanned
-  * 8,580 already symmetric (50.7%)
-  * 3,869 skipped (aggregator target, 22.8%)
-  * 0 self-loops
-  * **4,484 mirror edges created (26.5%)**
+ * 16,933 active related edges scanned
+ * 8,580 already symmetric (50.7%)
+ * 3,869 skipped (aggregator target, 22.8%)
+ * 0 self-loops
+ * **4,484 mirror edges created (26.5%)**
 - Post-run store state: **24,333 edges total** (+4,484 from 19,849). Breakdown: related 21,418 · story-link 1,940 · monetary 928 · political-opposition 47. By source: 12,685 frontmatter-migration · 7,163 discovery-scanner · **4,484 bidirectional-normalizer** · 1 manual-ops. Full validator pass.
-- `data/relationships-per-profile.json` rebuilt from the post-normalization JSONL — 1,746 profile entries (up from 1,743, reflecting 3 previously-isolated profiles now touched by mirror edges), 21,417 per-profile related total matching the JSONL minus the deprecated test edge.
+- `data/relationships-per-profile.json` rebuilt from the post-normalization JSONL, 1,746 profile entries (up from 1,743, reflecting 3 previously-isolated profiles now touched by mirror edges), 21,417 per-profile related total matching the JSONL minus the deprecated test edge.
 
 ### Known issues / still outstanding
 
 - **Phase 3 Part 4b not done.** Quartz components (RelatedProfiles, DiscoveryPanel, ProfileWidget) still read frontmatter. The live site doesn't yet see the 7,163 discovery-scanner edges or the 4,484 normalizer mirror edges. Part 4b needs to either (a) write a Quartz plugin that loads `data/relationships-per-profile.json` at build time and augments file data, or (b) write a categorizer that projects the JSON back into frontmatter `-generated` cache fields that components already read.
-- **Old frontmatter-based orphan detector (scripts/relationship-bidirectional.cjs) still reports 4,643 orphans** — it reads frontmatter, not JSONL, and won't see the normalizer's work until frontmatter gets regenerated. The canonical store IS symmetric (for non-aggregator related edges); the frontmatter metric is stale. Retarget to JSONL is a follow-up.
+- **Old frontmatter-based orphan detector (scripts/relationship-bidirectional.cjs) still reports 4,643 orphans**, it reads frontmatter, not JSONL, and won't see the normalizer's work until frontmatter gets regenerated. The canonical store IS symmetric (for non-aggregator related edges); the frontmatter metric is stale. Retarget to JSONL is a follow-up.
 - **3 stories still need FEC Tier 1 source migration** (Intra-Republican, Schumer-McConnell, Michigan 2026). Editor-only work. Each profile's `known-gaps` field lists the exact FEC committee/candidate IDs to replace the OpenSecrets citations with.
-- **Contradiction 06 Crypto still flagged by voice-drift-detector** (13 em dashes). Not a sourcing issue — the editor-vouched flag intentionally doesn't exempt voice-style checks. Research Claude lane.
+- **Contradiction 06 Crypto still flagged by voice-drift-detector** (13 em dashes). Not a sourcing issue, the editor-vouched flag intentionally doesn't exempt voice-style checks. Research Claude lane.
 - **Attention dispatcher shell:startup install.** 5-minute David task still pending.
 - **UptimeRobot / Healthchecks.io / Sentry accounts** still not set up.
 - **bidirectional-normalizer not wired into the attention-dispatcher yet.** Should run on a weekly cadence to catch new asymmetries. Follow-up.
@@ -282,28 +282,28 @@ Fourth session of the day. David's list was "1, 2, 3, 4" — Phase 3 Part 3b (PO
 
 ## Previous Session
 Claude: Code
-Date: 2026-04-11 night continuation — three more Phase 3 lifts
+Date: 2026-04-11 night continuation, three more Phase 3 lifts
 
 ### Theme
 Short follow-up after the eight-phase marathon earlier tonight. Closed out Phase 3 Parts 2b, 2c, and 3 (read-path). The canonical relationship edge store is now the source of truth for the dispatcher's scheduled refresh, for the contradiction-scanner's bothsides/opposition-funded detection, AND for the Ops `/api/connections` GET endpoint that feeds the `/relationships` page and the dashboard widgets.
 
-### Done — Phase 3 Part 2b: contradiction-scanner reads JSONL (commit `ebf98769` → merge `aefaa483`, deploy `24291972761` 1m33s)
+### Done. Phase 3 Part 2b: contradiction-scanner reads JSONL (commit `ebf98769` → merge `aefaa483`, deploy `24291972761` 1m33s)
 - `scripts/contradiction-scanner.cjs`: checks 1 (shared-donor contradictions) and 2 (both-sides donors) now query `data/relationships.jsonl` via `scripts/lib/relationships-store.cjs` instead of walking profile frontmatter.
 - New `loadPoliticianMetadata()` and `loadDonorEntityMetadata()` helpers do quick frontmatter walks for profile metadata that isn't denormalized in JSONL (party, state, chamber, sector). ~250 politician profiles + ~576 donor/entity profiles loaded in under a second.
 - `findSharedDonorContradictions(politicianMeta)`: queries monetary + political-opposition edges once, builds a Set of unordered opposition pairs, groups monetary edges by donor, checks each recipient pair against the opposition-pair set.
 - `findBothSidesDonors(politicianMeta, donorEntityMeta)`: queries monetary edges once, groups by donor, buckets recipients by party, dedupes recipients per party.
-- Checks 3 + 4 (cross-ref mismatches, opposition gaps) unchanged — they're frontmatter integrity linters and stay useful until Phase 3 Parts 3b+4 rewire every write-side consumer.
+- Checks 3 + 4 (cross-ref mismatches, opposition gaps) unchanged, they're frontmatter integrity linters and stay useful until Phase 3 Parts 3b+4 rewire every write-side consumer.
 - `main()` loads edge-based metadata only when needed and frontmatter vault walker only when needed. `--check=both-sides` skips the frontmatter walk entirely.
 - Report JSON gains `edgeCount` and `source: "phase3-part2b"` fields.
 - Numbers (full scan): 19,848 edges loaded, 252 politicians, 576 donors/entities, 928 monetary edges, 47 opposition edges, **15 opposition-funded contradictions**, **78 both-sides donors** (27 high story potential, 51 medium). Frontmatter linters unchanged: 12 cross-ref mismatches, 4 definite miscategorizations, 92 cross-party connections to review.
 
-### Done — Phase 3 Part 2c: relationship-discovery wired into attention-dispatcher (commit `c1c6bfe7` → merge `82a1f66e`, deploy `24292012983` 1m39s)
+### Done. Phase 3 Part 2c: relationship-discovery wired into attention-dispatcher (commit `c1c6bfe7` → merge `82a1f66e`, deploy `24292012983` 1m39s)
 - `scripts/attention-dispatcher.cjs`: PRODUCERS registry now supports optional `args: []` and `timeout_ms: number` fields. The existing 5 producers unchanged.
 - New `relationship-discovery` producer registered with `schedule: "17 */4 * * *"` (every 4 hours at :17, staggered against the existing hourly and 2-hourly schedules), `args: ["--write-edges"]`, `timeout_ms: 180_000` (3-minute override for the scanner's slower full-vault pass).
 - `runProducer()` now reads `producer.args` (default `[]`) and `producer.timeout_ms` (default 60_000), threads args through `spawn()`, and uses the per-producer timeout for the kill fallback. Timeout log message shows the actual value.
 - `--run-now` verification: all 6 producers run serially without errors. relationship-discovery completes in 5.6 seconds on 1,858 profiles (well under the 3-min budget). Post-run JSONL state: 19,848 edges, still all valid.
 
-### Done — Phase 3 Part 3: /api/connections GET reads JSONL (commit `6ae7b5dd` → merge `cd9dfee8`, deploy `24292093101` in progress)
+### Done. Phase 3 Part 3: /api/connections GET reads JSONL (commit `6ae7b5dd` → merge `cd9dfee8`, deploy `24292093101` in progress)
 - `ops/src/app/api/connections/route.ts` full rewrite. Replaces the frontmatter walker with `loadEdges()` from `ops/src/lib/relationships-store.ts`.
 - Response shape preserved 1:1 so the 1,477-line `/relationships` page, the RelatedProfiles dashboard widget, and any future ops consumers continue to work unchanged.
 - New `mapToLegacyType()` translates the Phase 3 10-type enum back to the legacy 4-value enum: `monetary → donors`, `political-opposition → opposes`, `story-link → stories`, `related → related`. The other 6 types (staffing, media-appearance, affiliation, legal, family) are dropped from the legacy response.
@@ -313,16 +313,16 @@ Short follow-up after the eight-phase marathon earlier tonight. Closed out Phase
 - Invalidation hook preserved: POST/DELETE route sets `__connectionsInvalidated` global, GET clears both its local cache AND `relationships-store.clearEdgesCache()` so next read reflects fresh store state.
 - Response gains `source: "phase3-part3-jsonl"` marker.
 - Live numbers on localhost:3333 after the retarget:
-  * totalConnections: **19,357** (up from ~13k the old walker produced)
-  * breakdown: 16,442 related · 928 donors · 47 opposes · 1,940 stories (**stories jumped from ~17 to 1,940** — the discovery-scanner's wikilink-proximity edges are now visible to every ops consumer)
-  * topConnected: Politicians Index 171, Gavin Newsom 150, Donald Trump 146, Donors & Power Networks Index 136, Follow the Money Guided Tour 103, Cross-Politician Contradiction Map 97, Koch Network 91
-  * unconnectedCount: 50 (down from ~600 — the discovery scanner's new edges touch ~550 previously-isolated profiles)
-  * /relationships page rendered cleanly with no console errors, header "19357 connections across the vault" matched, breakdown chips all correct, recent connections list shows discovery-scanner findings like "Koch Network - Charles Koch funds 3 Judiciary committee members → Jim Jordan / Ted Cruz / Mike Lee" that the old walker could never see.
+ * totalConnections: **19,357** (up from ~13k the old walker produced)
+ * breakdown: 16,442 related · 928 donors · 47 opposes · 1,940 stories (**stories jumped from ~17 to 1,940**, the discovery-scanner's wikilink-proximity edges are now visible to every ops consumer)
+ * topConnected: Politicians Index 171, Gavin Newsom 150, Donald Trump 146, Donors & Power Networks Index 136, Follow the Money Guided Tour 103, Cross-Politician Contradiction Map 97, Koch Network 91
+ * unconnectedCount: 50 (down from ~600, the discovery scanner's new edges touch ~550 previously-isolated profiles)
+ * /relationships page rendered cleanly with no console errors, header "19357 connections across the vault" matched, breakdown chips all correct, recent connections list shows discovery-scanner findings like "Koch Network - Charles Koch funds 3 Judiciary committee members → Jim Jordan / Ted Cruz / Mike Lee" that the old walker could never see.
 
 ### Known issues / still outstanding
 
 - **Phase 3 Part 3b not done.** `/api/relationships` POST/DELETE still writes frontmatter. New relationships added through the Ops UI take up to 4 hours (next `:17` dispatcher tick) to appear in `/api/connections`. Retarget requires either porting `computeEdgeId`/`upsertEdges` to `ops/src/lib/relationships-store.ts` (~100 lines of TS) or shelling out via `execFileSync` to the CJS store (following the rulebook `checkIds` pattern).
-- **Phase 3 Part 4 not done.** Quartz components (`RelatedProfiles.tsx`, `DiscoveryPanel.tsx`, `ProfileWidget.tsx`) still read frontmatter. The live site doesn't yet show the discovery-scanner's ~1,900 new story-link edges — they're only visible in the Ops app's `/relationships` page and anywhere else that consumes `/api/connections` or the TS relationships-store.
+- **Phase 3 Part 4 not done.** Quartz components (`RelatedProfiles.tsx`, `DiscoveryPanel.tsx`, `ProfileWidget.tsx`) still read frontmatter. The live site doesn't yet show the discovery-scanner's ~1,900 new story-link edges, they're only visible in the Ops app's `/relationships` page and anywhere else that consumes `/api/connections` or the TS relationships-store.
 - **Orphan baseline: 4,645 pairs** (unchanged from earlier session). A bidirectional normalizer is still deferred.
 - **9 story profiles still in hallucination-catcher Attention Queue.** Research Claude lane.
 - **Attention dispatcher shell:startup install.** 5-minute David task still pending.
@@ -346,56 +346,56 @@ Short follow-up after the eight-phase marathon earlier tonight. Closed out Phase
 
 ## Previous Session
 Claude: Code (with research hat in final stretch per David's explicit permission)
-Date: 2026-04-11 night — eight-phase marathon continuation
+Date: 2026-04-11 night, eight-phase marathon continuation
 
 ### Theme
 Longest single session of the sprint. Closed the final lifts of Phase 2a, shipped Phase 1d and Phase 2b in full, shipped Phase 3 Part 1 (canonical relationship edge store) end-to-end, shipped Phase 3 Part 2a (discovery scanner now emits JSONL edges), added the editor-vouched escape hatch, did the editorial pass on the 12 flagged stories (3 vouched, 9 flagged for later), and shipped the S-Tier row in the dashboard Readiness Grades stat card. Eight deploys, all green.
 
-### Done — Phase 2a Part 3 followups (commit `32c5a8cf` → merge `1bbf436d`, deploy `24289524548` 1m42s)
+### Done. Phase 2a Part 3 followups (commit `32c5a8cf` → merge `1bbf436d`, deploy `24289524548` 1m42s)
 - `ops/next.config.js`: pin `turbopack.root = __dirname`. Without this, Next walks up and picks the main repo's `package-lock.json` as the workspace root when running from a nested worktree, which then can't resolve the Next package at all. Unblocks `preview_start` for future worktree sessions.
-- `ops/src/app/api/rulebook/route.ts`: replaced dynamic `require()` of `checklist-helpers.cjs` with `execFileSync('node', ['-e', ...])` subprocess. Turbopack was silently eating the previous require, leaving `checkIds: 0` in the `/api/rulebook` GET response (autocomplete + validation both broken without alerting anyone). Fix surfaces errors as `checkIdsError` and caches the result in module scope so the subprocess cost is paid once per dev-server restart.
+- `ops/src/app/api/rulebook/route.ts`: replaced dynamic `require()` of `checklist-helpers.cjs` with `execFileSync('node', ['-e'. ])` subprocess. Turbopack was silently eating the previous require, leaving `checkIds: 0` in the `/api/rulebook` GET response (autocomplete + validation both broken without alerting anyone). Fix surfaces errors as `checkIdsError` and caches the result in module scope so the subprocess cost is paid once per dev-server restart.
 - `config/profile-type-rulebook.json`: one-time canonical reformat (626+/184−) absorbing the JSON.stringify(null,2) array expansion that the first API-driven save would have produced anyway.
 - Verified in preview: GET /api/rulebook returns 266 check ids, 8 types, save roundtrip works, POST with bogus check id returns 422 with precise errors, POST with bad hex color returns 422.
 
-### Done — Phase 3 Part 1: canonical relationship edge store (commit `5ffb2692` → merge `2c89255c`, deploy `24290816976` 1m42s)
+### Done. Phase 3 Part 1: canonical relationship edge store (commit `5ffb2692` → merge `2c89255c`, deploy `24290816976` 1m42s)
 
 Seven new files, three modified, one plan-mode doc approved beforehand (`C:\Users\third\.claude\plans\toasty-discovering-dahl.md`).
 
-- **`scripts/lib/relationship-edge-validator.cjs`** — schema + TYPE_META registry + SOURCES enum + STATUSES enum + normalizeTitle + computeEdgeId (SHA-1 16-char hex, per-type key composition) + validateEdge (13 ordered checks) + validateFile + buildTitleIndex. Includes `resolveTopLevelType` integration against the Phase 2a rulebook so `from_type`/`to_type` are denormalized to top-level types (`entity`, `politician`) with the flat value (`corporation`, `senator`) in `from_subcategory`. `MIGRATION_SOURCES` allowlist exempts migration edges from type-required-extras checks.
-- **`scripts/lib/relationships-store.cjs`** — CJS reader with lazy in-memory cache, getEdgesFrom/getEdgesTo (undirected-aware), getEdgesByType, findEdge, queryEdges with 9-dimension filter, countEdges, CLI `--count` and `--from`.
-- **`ops/src/lib/relationships-store.ts`** — TypeScript mirror with full exported type hierarchy (RelationshipEdge, RelationshipType, RelationshipSource, RelationshipStatus, RelationshipDirection, EdgeQueryOpts, EdgeFilter). Same API surface, same path-resolution fallback as `ops/src/lib/profile-type-rulebook.ts`.
-- **`scripts/migrate-frontmatter-to-relationships-jsonl.cjs`** — one-time migration, walks 1,857 profiles, extracts edges from 6 frontmatter fields (`related`, `donors`, `top-donors`, `politicians-funded`, `opposes`/`politicians-opposed`, `stories`), maps to 4 relationship types, dedups by id, atomic tmp+rename write. Supports `--dry-run`. Produced 12,737 edges on first run.
-- **`scripts/relationship-edge-sentinel.cjs`** — pre-commit gate 4. Only fires when `data/relationships.jsonl` is staged. Rebuilds title index, runs full validateFile with cross-references. Blocks commit on any error.
-- **`.husky/pre-commit`** — added gate 4 after the existing three sentinels. Comment block updated to "four fast sentinels."
-- **`data/relationships.jsonl`** (new) — initial 12,737 edges (~8 MB). Breakdown: 11,745 related · 928 monetary · 47 political-opposition · 17 story-link. 3,527 from_type=entity · 3,208 donor · 1,238 politician.
-- **`CLAUDE.md`** — new "Exception for generated cache fields" subsection in the frontmatter-only rule, allowing `-generated` suffix fields as one-way projections of `data/relationships.jsonl`.
-- **`content/Vault Rules.md`** — Phase 3 callout above Tier 1 First section.
-- **`content/Admin Notes/relationship-migration-report.md`** (new) — full migration accounting: counts by type/source, dangling targets (752 missing), collision hits (424), per-field breakdown.
+- **`scripts/lib/relationship-edge-validator.cjs`**, schema + TYPE_META registry + SOURCES enum + STATUSES enum + normalizeTitle + computeEdgeId (SHA-1 16-char hex, per-type key composition) + validateEdge (13 ordered checks) + validateFile + buildTitleIndex. Includes `resolveTopLevelType` integration against the Phase 2a rulebook so `from_type`/`to_type` are denormalized to top-level types (`entity`, `politician`) with the flat value (`corporation`, `senator`) in `from_subcategory`. `MIGRATION_SOURCES` allowlist exempts migration edges from type-required-extras checks.
+- **`scripts/lib/relationships-store.cjs`**. CJS reader with lazy in-memory cache, getEdgesFrom/getEdgesTo (undirected-aware), getEdgesByType, findEdge, queryEdges with 9-dimension filter, countEdges, CLI `--count` and `--from`.
+- **`ops/src/lib/relationships-store.ts`**. TypeScript mirror with full exported type hierarchy (RelationshipEdge, RelationshipType, RelationshipSource, RelationshipStatus, RelationshipDirection, EdgeQueryOpts, EdgeFilter). Same API surface, same path-resolution fallback as `ops/src/lib/profile-type-rulebook.ts`.
+- **`scripts/migrate-frontmatter-to-relationships-jsonl.cjs`**, one-time migration, walks 1,857 profiles, extracts edges from 6 frontmatter fields (`related`, `donors`, `top-donors`, `politicians-funded`, `opposes`/`politicians-opposed`, `stories`), maps to 4 relationship types, dedups by id, atomic tmp+rename write. Supports `--dry-run`. Produced 12,737 edges on first run.
+- **`scripts/relationship-edge-sentinel.cjs`**, pre-commit gate 4. Only fires when `data/relationships.jsonl` is staged. Rebuilds title index, runs full validateFile with cross-references. Blocks commit on any error.
+- **`.husky/pre-commit`**, added gate 4 after the existing three sentinels. Comment block updated to "four fast sentinels."
+- **`data/relationships.jsonl`** (new), initial 12,737 edges (~8 MB). Breakdown: 11,745 related · 928 monetary · 47 political-opposition · 17 story-link. 3,527 from_type=entity · 3,208 donor · 1,238 politician.
+- **`CLAUDE.md`**, new "Exception for generated cache fields" subsection in the frontmatter-only rule, allowing `-generated` suffix fields as one-way projections of `data/relationships.jsonl`.
+- **`content/Vault Rules.md`**. Phase 3 callout above Tier 1 First section.
+- **`content/Admin Notes/relationship-migration-report.md`** (new), full migration accounting: counts by type/source, dangling targets (752 missing), collision hits (424), per-field breakdown.
 
 Cross-type query examples that now work in <50ms: `entity → politician monetary = 275`, `donor → politician monetary = 603`, Koch Industries edges = 43.
 
-Orphan baseline recorded at 4,645 — the metric Phase 3 Part 2 will drive toward zero.
+Orphan baseline recorded at 4,645, the metric Phase 3 Part 2 will drive toward zero.
 
-### Done — Phase 2b: S-Tier filter + sort in VaultGrid (commit `eac6fb48` → merge `ea6d0c2c`, deploy ✓)
+### Done. Phase 2b: S-Tier filter + sort in VaultGrid (commit `eac6fb48` → merge `ea6d0c2c`, deploy ✓)
 
 - **`ops/src/lib/vault.ts`**: `readinessColor('s-tier')` returns `#a78bfa` (violet). Keeps palette monotonic (grey raw → amber draft → green ready → gold verified → violet s-tier).
 - **`ops/src/components/VaultGrid.tsx`**:
-  - `READINESS_LABELS` extended with `s-tier` at index 4 so the existing readiness sort + nearest-a-plus scorer treat it as the highest tier.
-  - Nearest-a-plus scorer gives s-tier +2000 (above verified's +1000).
-  - New "S S-Tier" button in the grade scroller (violet, placed before A+ Verified).
-  - Progress bar width map redistributed: raw 10 / draft 30 / ready 55 / verified 80 / s-tier 100. Verified drops from 100→80 to leave visual room for s-tier.
-  - Legend gains "S Original Investigation" chip.
-  - On mount, fetches `/api/rulebook` once and derives: set of top-level types whose base-rulebook.promotion-gate.s-tier is non-null/non-"none" (s-tier eligible), plus flat→top-level map. When a non-eligible type filter is active, S-Tier button greys out with a tooltip. Fail-open if `/api/rulebook` unreachable.
+ - `READINESS_LABELS` extended with `s-tier` at index 4 so the existing readiness sort + nearest-a-plus scorer treat it as the highest tier.
+ - Nearest-a-plus scorer gives s-tier +2000 (above verified's +1000).
+ - New "S S-Tier" button in the grade scroller (violet, placed before A+ Verified).
+ - Progress bar width map redistributed: raw 10 / draft 30 / ready 55 / verified 80 / s-tier 100. Verified drops from 100→80 to leave visual room for s-tier.
+ - Legend gains "S Original Investigation" chip.
+ - On mount, fetches `/api/rulebook` once and derives: set of top-level types whose base-rulebook.promotion-gate.s-tier is non-null/non-"none" (s-tier eligible), plus flat→top-level map. When a non-eligible type filter is active, S-Tier button greys out with a tooltip. Fail-open if `/api/rulebook` unreachable.
 - Verified in preview: `All 1784 · S S-Tier 0 · A+ Verified 0 · B Ready 881 · C Draft 864 · D-F Raw 39`, sums correctly. Click S-Tier → count drops to "0 profiles", button flips to active violet.
 
-### Done — editor-vouched flag for hallucination-catcher (commit `aa585ac0` → merge `ed0d1594`, deploy `24291334295` 1m46s)
+### Done, editor-vouched flag for hallucination-catcher (commit `aa585ac0` → merge `ed0d1594`, deploy `24291334295` 1m46s)
 
 - **`scripts/hallucination-catcher.cjs`**: new check after the rulebook hallucination-scanned gate. Handles both boolean `true` and YAML string `"true"` since `shared.cjs`'s `parseFrontmatter` returns scalars as strings. Narrow scope: only hallucination-catcher honors the flag. voice-drift-detector and self-review-mirror continue firing on vouched profiles (em dashes, banned AI vocab, defamation words are style/voice issues, not citation-proximity issues).
 - **`CLAUDE.md`**: `editor-vouched: true` documented under frontmatter-only exceptions with explicit scope. Misuse on genuinely unsupported claims is a defamation risk.
 - **`content/Vault Rules.md`**: callout pointing Research Claude to the full rule.
 - Verified end-to-end: added the flag to Pelosi-McCarthy story (13 claims), dropped out of queue; reverted, returned to queue; git diff clean on the test file after revert.
 
-### Done — Phase 1d: type-aware vault-health completeness scoring (commit `25b6e6ef` → merge `54e8565d`, deploy `24291419121` 1m36s)
+### Done. Phase 1d: type-aware vault-health completeness scoring (commit `25b6e6ef` → merge `54e8565d`, deploy `24291419121` 1m36s)
 
 - **`ops/src/lib/profile-type-rulebook.ts`**: added `resolveTopLevelType(type)` to the TS mirror. Matches the CJS version. Walks every top-level type's sub-categories and returns the parent for flat values; null for unknown.
 - **`ops/src/lib/vault.ts`**: new `WEIGHTS_BY_TYPE` map encoding 5-dimension weights per top-level type (sum to 100 per row):
@@ -406,42 +406,42 @@ Orphan baseline recorded at 4,645 — the metric Phase 3 Part 2 will drive towar
   event:                             35/20/ 5/40/ 0
   meta:                              50/10/10/30/ 0
   ```
-  Plus `TIER1_FLOOR_BY_TYPE`: how many Tier 1 sources are required for full sources credit. politician/donor/entity/judicial/story = 3; media = 1; event = 1; meta = 0.
+ Plus `TIER1_FLOOR_BY_TYPE`: how many Tier 1 sources are required for full sources credit. politician/donor/entity/judicial/story = 3; media = 1; event = 1; meta = 0.
 - `completenessScore(profile, content, topLevelType?)` reshapes every dimension against the relevant weight row. Falls through to DEFAULT_WEIGHTS when type unknown.
 - **`ops/src/lib/local-vault.ts`**: calls `resolveTopLevelType(profile.type)` once per profile during the vault walk, passes result through to `completenessScore`.
 - Live numbers after refactor:
-  - **story** (106): **85% avg** — was ~50-60% before (no longer penalized 20 pts for "never enriched")
-  - **media-profile** (94): **65% avg** — no longer penalized for <3 Tier 1 sources
-  - **event** (246): 49% — correctly reflects mostly-draft state
-  - politician 89 / donor 84 / corporation 87 (resolves to entity) — unchanged weights
-  - sub-note (460): 99% — meta weighting works
+ - **story** (106): **85% avg**, was ~50-60% before (no longer penalized 20 pts for "never enriched")
+ - **media-profile** (94): **65% avg**, no longer penalized for <3 Tier 1 sources
+ - **event** (246): 49%, correctly reflects mostly-draft state
+ - politician 89 / donor 84 / corporation 87 (resolves to entity), unchanged weights
+ - sub-note (460): 99%, meta weighting works
 
-### Done — Story editorial pass (commit `83af027c` → merge `b40946b1`, deploy `24291562491` 1m40s)
+### Done. Story editorial pass (commit `83af027c` → merge `b40946b1`, deploy `24291562491` 1m40s)
 
 Delegated the factual audit to an Explore agent (thorough level) which read all 12 files, sampled 3-5 claims per file, and classified them covered/partial/thin/uncovered. Three legitimately met the editor-vouched threshold:
 
 **Vouched (`editor-vouched: true` added):**
-- `content/Stories/Published/Geographic Donor Clustering - Where the Money Actually Comes From.md` — 13 Tier 1 FEC candidate pages for every politician named, plus OpenSecrets reports, Missouri Independent, Washington Post. 23 claims were the flag count.
-- `content/Stories/Published/Cross-Politician Analysis/Defense-Pharma-Carceral-Labor-Wexner Cross-Reference - Five Donors, One System.md` — 40+ sources organized by tier. FEC RTX/PhRMA/GEO/UAW totals + Senate LDA filings + GEO Group SEC disclosure at Tier 1; The Lever, Quiver Quantitative, Common Dreams, Prison Legal News, NBC, POGO, CREW at Tier 2. 21 claims flagged.
-- `content/Stories/Published/Contradiction Deep Dives/Contradiction 10 - Jeff Yass Follows TikTok Money Across Every Candidate.md` — comprehensive tiered sources. Tier 1: FEC independent expenditures, Congressional Record HR 7521, Supreme Court. Tier 2: ProPublica (Yass tax avoidance investigation), Fortune, Axios, WaPo, Philadelphia Inquirer, CNBC, NBC, The Intercept/Sludge. Tier 3: Bloomberg Billionaires Index, Wikipedia, Ballotpedia. 13 claims flagged.
+- `content/Stories/Published/Geographic Donor Clustering - Where the Money Actually Comes From.md`, 13 Tier 1 FEC candidate pages for every politician named, plus OpenSecrets reports, Missouri Independent, Washington Post. 23 claims were the flag count.
+- `content/Stories/Published/Cross-Politician Analysis/Defense-Pharma-Carceral-Labor-Wexner Cross-Reference - Five Donors, One System.md`, 40+ sources organized by tier. FEC RTX/PhRMA/GEO/UAW totals + Senate LDA filings + GEO Group SEC disclosure at Tier 1; The Lever, Quiver Quantitative, Common Dreams, Prison Legal News, NBC, POGO, CREW at Tier 2. 21 claims flagged.
+- `content/Stories/Published/Contradiction Deep Dives/Contradiction 10 - Jeff Yass Follows TikTok Money Across Every Candidate.md`, comprehensive tiered sources. Tier 1: FEC independent expenditures, Congressional Record HR 7521, Supreme Court. Tier 2: ProPublica (Yass tax avoidance investigation), Fortune, Axios, WaPo, Philadelphia Inquirer, CNBC, NBC, The Intercept/Sludge. Tier 3: Bloomberg Billionaires Index, Wikipedia, Ballotpedia. 13 claims flagged.
 
-**NOT vouched (flag left off):** 9 stories — Cross-Politician Contradiction Map, Intra-Republican Contradiction Map, Intra-Democratic Contradiction Map, Prison Telecom, Michigan 2026, Schumer-McConnell, Ohio 2026 Acton vs Ramaswamy, Contradiction 06 Crypto, Pelosi-McCarthy. Reasons documented in the commit message. Remain in the Attention Queue for a future editorial session to either add inline citations, restructure sources, or reduce scope of standalone numeric claims.
+**NOT vouched (flag left off):** 9 stories. Cross-Politician Contradiction Map, Intra-Republican Contradiction Map, Intra-Democratic Contradiction Map, Prison Telecom, Michigan 2026, Schumer-McConnell, Ohio 2026 Acton vs Ramaswamy, Contradiction 06 Crypto, Pelosi-McCarthy. Reasons documented in the commit message. Remain in the Attention Queue for a future editorial session to either add inline citations, restructure sources, or reduce scope of standalone numeric claims.
 
 Verified: all 3 vouched stories returned 0 matches in the Attention Queue after re-running hallucination-catcher. Body content untouched; only the `editor-vouched: true` frontmatter line added per file.
 
-### Done — S-Tier row in Readiness Grades stat card (commit `bfd3d02b`)
+### Done. S-Tier row in Readiness Grades stat card (commit `bfd3d02b`)
 
-- **`ops/src/components/StatsBar.tsx`**: added `const sTier = stats.byReadiness["s-tier"] || 0` and a new `<GradeBar label="S-Tier" grade="S" count={sTier} total={total} color="#a78bfa" />` at the top of the bar stack. The stat card was showing 4 rows (Verified/Ready/Draft/Raw) while the VaultGrid grade scroller showed 5 — visual inconsistency that would have silently hidden the first s-tier promotion.
+- **`ops/src/components/StatsBar.tsx`**: added `const sTier = stats.byReadiness["s-tier"] || 0` and a new `<GradeBar label="S-Tier" grade="S" count={sTier} total={total} color="#a78bfa" />` at the top of the bar stack. The stat card was showing 4 rows (Verified/Ready/Draft/Raw) while the VaultGrid grade scroller showed 5, visual inconsistency that would have silently hidden the first s-tier promotion.
 - Verified 5 bars in the stat card via `preview_eval`.
 
-### Done — Phase 3 Part 2a: relationship-discovery emits JSONL edges (commit `997e2f36` → merge `fc7cd63b`, deploy `24291721197` green)
+### Done. Phase 3 Part 2a: relationship-discovery emits JSONL edges (commit `997e2f36` → merge `fc7cd63b`, deploy `24291721197` green)
 
 - **`scripts/lib/relationships-store.cjs`**: new `upsertEdges(newEdges)` helper. Validates each edge, merges with existing JSONL by id, atomic tmp+rename write. Upsert semantics: higher-confidence source overwrites lower-confidence source on the same id; non-null fields from incoming overwrite existing; evidence arrays merged with dedup; status `deprecated`/`disputed` on incoming flips the status; first_seen preserved. Returns `{added, updated, skipped, invalid, total, errors}`.
 - **`scripts/relationship-discovery.cjs`**: new `--write-edges` CLI flag. When set, after the existing JSON/markdown reports, maps each suggestion to a relationship-edge shape via new `DISCOVERY_TYPE_MAP` (related→related, donors→monetary, opposes→political-opposition, stories→story-link) and `DISCOVERY_CONFIDENCE_MAP` (low 0.55, medium 0.70, high 0.85), then calls `upsertEdges`. Skip rules: contradictions (not standalone edges), unknown types, missing endpoints, title collisions (no `from_slug` disambiguation), and endpoints whose profile has no type: frontmatter (admin notes, daily updates). story-link edges default to `role: "mentioned"` (weakest of the three story-link roles, matches wikilink-proximity findings).
-- **`data/relationships.jsonl`**: regenerated with migration pass + discovery-scanner `--write-edges`. **19,848 edges** (up from 12,737, +7,111 new, 52 upgraded in place). Breakdown: 16,933 related · 1,940 story-link · 928 monetary · 47 political-opposition. By source: 12,685 frontmatter-migration · 7,163 discovery-scanner. **Story-link went from 17 → 1,940** — the scanner's wikilink-proximity strategies found ~1,900 profile↔story links that migration missed because stories rarely use the `stories:` frontmatter field directly.
+- **`data/relationships.jsonl`**: regenerated with migration pass + discovery-scanner `--write-edges`. **19,848 edges** (up from 12,737, +7,111 new, 52 upgraded in place). Breakdown: 16,933 related · 1,940 story-link · 928 monetary · 47 political-opposition. By source: 12,685 frontmatter-migration · 7,163 discovery-scanner. **Story-link went from 17 → 1,940**, the scanner's wikilink-proximity strategies found ~1,900 profile↔story links that migration missed because stories rarely use the `stories:` frontmatter field directly.
 - Full `validateFile` pass: ✓ 19848 edges valid.
 
-**Intentionally NOT retargeted:** `connection-suggester.cjs` proposes MISSING relationships (hypotheses), not confirmed ones. Retargeting to JSONL would be a category error — we'd be encoding "things that might be true" as first-class edges. It stays a markdown suggestions queue.
+**Intentionally NOT retargeted:** `connection-suggester.cjs` proposes MISSING relationships (hypotheses), not confirmed ones. Retargeting to JSONL would be a category error, we'd be encoding "things that might be true" as first-class edges. It stays a markdown suggestions queue.
 
 **Deferred to 2b:** `contradiction-scanner.cjs` is a QUERY over existing edges, not a producer. Its INPUT should eventually read from the JSONL store instead of walking profiles.
 
@@ -449,7 +449,7 @@ Verified: all 3 vouched stories returned 0 matches in the Attention Queue after 
 
 - **9 story profiles still in hallucination-catcher Attention Queue.** These need per-claim editorial work before they can be vouched: either add inline citations (requires sourcing research), restructure sources for clarity, or reduce scope of standalone numeric claims. Not in Code Claude scope without Research Claude input.
 - **Phase 3 Part 2b not done.** `contradiction-scanner.cjs` still walks profiles for bothsides detection. Input retarget to JSONL is a focused follow-up.
-- **Phase 3 Part 2c not done.** `--write-edges` is manual — not wired into the attention-dispatcher daemon yet. When that wiring happens, JSONL stays fresh as profiles change.
+- **Phase 3 Part 2c not done.** `--write-edges` is manual, not wired into the attention-dispatcher daemon yet. When that wiring happens, JSONL stays fresh as profiles change.
 - **Phase 3 Part 3 not done.** `/api/relationships` POST/DELETE, `/api/connections` GET, and `/relationships` page still read/write frontmatter. Rewiring to use `relationships-store.ts` is the next Ops-side lift.
 - **Phase 3 Part 4 not done.** Quartz `RelatedProfiles.tsx`, `DiscoveryPanel.tsx`, `ProfileWidget.tsx` still read frontmatter. Migration to JSONL at build time (via Quartz plugin or `-generated` cache fields) is the final Phase 3 lift.
 - **Orphan baseline: 4,645 pairs.** Phase 3 Part 2 categorizer work needs to drive this toward zero. Probably via the contradiction-scanner retarget + a bidirectional normalizer that runs on the JSONL.
@@ -459,7 +459,7 @@ Verified: all 3 vouched stories returned 0 matches in the Attention Queue after 
 
 ### Next session priorities
 
-1. **Phase 3 Part 2b: contradiction-scanner input retarget.** Read from `data/relationships.jsonl` via `relationships-store.cjs` instead of walking profiles. Bothsides detection becomes `queryEdges({from: donor}).filter(e => e.type === 'monetary' && queryEdges({from: donor, to: e.to, type: 'political-opposition'}).length > 0)`. Existing JSON report output can stay — only the input changes.
+1. **Phase 3 Part 2b: contradiction-scanner input retarget.** Read from `data/relationships.jsonl` via `relationships-store.cjs` instead of walking profiles. Bothsides detection becomes `queryEdges({from: donor}).filter(e => e.type === 'monetary' && queryEdges({from: donor, to: e.to, type: 'political-opposition'}).length > 0)`. Existing JSON report output can stay, only the input changes.
 2. **Phase 3 Part 2c: wire `--write-edges` into the attention-dispatcher.** Add a new cron entry for relationship-discovery (probably 6-hour cadence) so the JSONL store stays current as profiles change. Reuses the existing dispatcher's serialized queue + 60-sec per-producer timeout.
 3. **Phase 3 Part 3: Ops API retarget.** `/api/relationships` POST/DELETE writes to JSONL via `upsertEdges`. `/api/connections` GET reads from `relationships-store.ts`. `/relationships` page re-renders over the new API. Atomic write safety on Windows is the main open question.
 4. **9-story editorial pass.** For each remaining flagged story, either add inline citations, restructure sources, or reduce standalone numeric claim density. Research Claude's lane.
@@ -482,34 +482,34 @@ Verified: all 3 vouched stories returned 0 matches in the Attention Queue after 
 
 ## Previous Session
 Claude: Code
-Date: 2026-04-11 late-next-day continuation (Phase 2a Part 2 — wire all 5 Attention Queue producer scripts to the profile-type rulebook)
+Date: 2026-04-11 late-next-day continuation (Phase 2a Part 2, wire all 5 Attention Queue producer scripts to the profile-type rulebook)
 
 ### Theme
 Short continuation from the previous save. One focused goal: take the rulebook that Part 1 shipped and actually wire the 5 scripts to read from it. Shipped one commit (`5377faa5`) covering all 5 wirings, each with a before/after regression check. Also added a critical `resolveTopLevelType()` helper to the rulebook reader to handle flat vault type values (corporation, investigation, admin-note) that are sub-categories in the rulebook.
 
-### Done — Part 2.1: self-review-mirror wired
+### Done. Part 2.1: self-review-mirror wired
 - `scripts/self-review-mirror.cjs`: replaced hardcoded `nonProfileTypes` Set with `isVoiceScanned(type)` call from the rulebook reader. Fallback path preserves the old hardcoded list if the rulebook can't be loaded, so the pre-commit gate never breaks commits on a config issue.
-- Regression: 4 test cases pass — politician blocks, reference skipped, event skipped, story blocks.
+- Regression: 4 test cases pass, politician blocks, reference skipped, event skipped, story blocks.
 
-### Done — Part 2.2: voice-drift-detector wired
+### Done. Part 2.2: voice-drift-detector wired
 - `scripts/voice-drift-detector.cjs`: replaced hardcoded `skipTypes` array with `isVoiceScanned(type)`.
 - Regression: Attention Queue count identical 29 → 29.
 
-### Done — Part 2.3: hallucination-catcher wired (legitimate behavior change)
-- `scripts/hallucination-catcher.cjs`: replaced hardcoded `skipTypes` array with `isHallucinationScanned(type)`. **Story type is now scanned where it previously was not.** This is the intended behavior change from the rulebook design — the every-claim-sourced check is the hard gate for story verification.
+### Done. Part 2.3: hallucination-catcher wired (legitimate behavior change)
+- `scripts/hallucination-catcher.cjs`: replaced hardcoded `skipTypes` array with `isHallucinationScanned(type)`. **Story type is now scanned where it previously was not.** This is the intended behavior change from the rulebook design, the every-claim-sourced check is the hard gate for story verification.
 - Regression: count stable at 25 (top-25 cap), but composition changed meaningfully. **12 real story findings now in the Attention Queue:** Cross-Politician Contradiction Map (30 unsupported claims), Geographic Donor Clustering (23), Intra-Republican Contradiction Map (23), and 9 more. These are legitimate editorial work items, not noise.
 
-### Done — Part 2.4: promotion-candidate-queue wired (full refactor)
+### Done. Part 2.4: promotion-candidate-queue wired (full refactor)
 - `scripts/promotion-candidate-queue.cjs`: replaced the hardcoded `assessProfile()` function with a rulebook-driven implementation using `resolveChecks()` + `runCheck()`. Each ready profile's missing-for-verified fields are now computed from its own type's rulebook, not a uniform politician-centric checklist. Per-check effort estimates preserved in `EFFORT_BY_CHECK` map.
 - **Caught a regression during testing.** First cut used `getPromotionGate(data.type, 'verified')` which returned null for `type: corporation` (because corporation is a sub-category of entity in the rulebook, not a top-level type). This silently dropped all corporation profiles from the candidate queue. Fixed by using `resolveTopLevelType()` to map flat type values to their top-level parent before the gate lookup.
 - Regression after fix: 124 sign-off-only count matches baseline exactly; top candidate is still ADM at 2 min; candidate mix now correctly includes 3 corporations + 7 donors (was all-donor in the buggy first cut).
 
-### Done — Part 2.5: pipeline-janitor wired (minimal)
+### Done. Part 2.5: pipeline-janitor wired (minimal)
 - `scripts/pipeline-janitor.cjs`: minimal wiring since the janitor is complex and federal-pipeline-specific. Only rulebook-knowable exemptions are pulled (event + meta + meta sub-categories + story + story sub-categories). Legacy federal-pipeline exemptions preserved inline (state-politician, local-politician, media-profile, think-tank, system).
 - Verified the new `EXEMPT_TYPES` set diff vs old: new set gains `meta`, `story-seed`, `investigation`, `explainer`, `profile-deep-dive`, `network-map`, `narrative-feature` (all correct additions); keeps `system` as a legacy hardcoded exemption since it's not in the rulebook.
-- Regression: dry-run janitor report identical to baseline — 0 issues on 124 audited ready/verified profiles across 1850 scanned.
+- Regression: dry-run janitor report identical to baseline, 0 issues on 124 audited ready/verified profiles across 1850 scanned.
 
-### Done — resolveTopLevelType helper
+### Done, resolveTopLevelType helper
 - `scripts/lib/profile-type-rulebook.cjs`: new `resolveTopLevelType(type)` helper. Given a flat type value like `corporation`, `investigation`, or `admin-note`, walks every top-level type's sub-categories to find the real parent (`entity`, `story`, `meta`). Used by `isVoiceScanned`, `isHallucinationScanned`, and `promotion-candidate-queue` to correctly dispatch on flat type values. Unknown types return `null` so callers can decide how to handle them.
 - Fixed a latent bug in `isVoiceScanned` / `isHallucinationScanned`: both now call `resolveTopLevelType` first, so `isVoiceScanned('reference')` correctly returns false (reference is a meta sub-category).
 
@@ -523,20 +523,20 @@ Short continuation from the previous save. One focused goal: take the rulebook t
 ### Commits this session
 
 Feature branch (`claude/naughty-satoshi`):
-- `5377faa5` — Phase 2a part 2: wire all 5 scripts to the profile-type-rulebook (9 files, 509 insertions, 2487 deletions — the deletions are mostly old audit output regeneration in the attention-queue-store.json)
+- `5377faa5`. Phase 2a part 2: wire all 5 scripts to the profile-type-rulebook (9 files, 509 insertions, 2487 deletions, the deletions are mostly old audit output regeneration in the attention-queue-store.json)
 - This session-save commit
 
 Deploys (all green):
-- `24289116181` — Part 2 script wirings
+- `24289116181`. Part 2 script wirings
 
 ### Known issues / still outstanding
 
-- **Phase 2a Part 3 not started.** `/rules` Ops app editor UI is the biggest lift in Phase 2a — saved for a separate session with fresh context. It's a full new page (`/rules`), a new API route (`/api/rulebook`), schema validation, a table editor for 8 types × 5 tiers × dozens of checks, visual identity editor, sidebar nav entry. Roughly Calendar-component scope.
-- **12 story profiles now in the hallucination-catcher Attention Queue.** First time stories are being scanned. Each has 15-30 unsourced claims. These are real editorial work items — for each, options are: add inline citations, convert claims to blockquotes, use `[cite:...]` markers, set `editor-vouched: true` frontmatter flag, or reject via the Attention Queue button.
+- **Phase 2a Part 3 not started.** `/rules` Ops app editor UI is the biggest lift in Phase 2a, saved for a separate session with fresh context. It's a full new page (`/rules`), a new API route (`/api/rulebook`), schema validation, a table editor for 8 types × 5 tiers × dozens of checks, visual identity editor, sidebar nav entry. Roughly Calendar-component scope.
+- **12 story profiles now in the hallucination-catcher Attention Queue.** First time stories are being scanned. Each has 15-30 unsourced claims. These are real editorial work items, for each, options are: add inline citations, convert claims to blockquotes, use `[cite:.]` markers, set `editor-vouched: true` frontmatter flag, or reject via the Attention Queue button.
 - **Phase 2a Part 2 left two deeper refactors unfinished by design:**
-  1. `pipeline-janitor.cjs` `EXPECTED_BLOCKS` map still hardcoded for politician/donor/corporation/lobbying-firm/pac. Could become a rulebook `required-pipelines:` field in a follow-up.
-  2. `pipeline-janitor.cjs` A+ audit still gated on `type === 'politician'` at line 248. The rulebook has per-type audits but wiring them requires a bigger refactor of the audit loop. Not a blocker for Phase 2a.
-- **Phase 2b S-Tier filter, Phase 1d vault-health audit** — both previously gated on Part 2 being done. Now unblocked. Neither started yet.
+ 1. `pipeline-janitor.cjs` `EXPECTED_BLOCKS` map still hardcoded for politician/donor/corporation/lobbying-firm/pac. Could become a rulebook `required-pipelines:` field in a follow-up.
+ 2. `pipeline-janitor.cjs` A+ audit still gated on `type === 'politician'` at line 248. The rulebook has per-type audits but wiring them requires a bigger refactor of the audit loop. Not a blocker for Phase 2a.
+- **Phase 2b S-Tier filter, Phase 1d vault-health audit**, both previously gated on Part 2 being done. Now unblocked. Neither started yet.
 - **Phase 3 relationship model discussion** still deferred. Needs a plan-mode design session before any code.
 - **Attention dispatcher not yet auto-started.** Windows `shell:startup` shortcut for `scripts/attention-dispatcher.bat` still pending David's manual action.
 - **UptimeRobot / Healthchecks.io / Sentry accounts** not yet created. `HEALTHCHECKS_PING_URL` env var not set. Documented in `content/Admin Notes/External Services Setup.md`.
@@ -544,24 +544,24 @@ Deploys (all green):
 
 ### Next session priorities (Phase 2a Part 3 and beyond)
 
-1. **Phase 2a Part 3: `/rules` Ops app editor UI.** Biggest lift remaining in Phase 2a. Write the API route first (`ops/src/app/api/rulebook/route.ts` — GET/POST with validation), then the page component (`ops/src/app/rules/page.tsx` — editable tables per type, tier columns, per-cell required/recommended/N/A dropdowns, visual identity editor), then the sidebar nav entry. Atomic write via tmp+rename when saving the JSON back. Validate on save: check-ids exist in helpers, hex colors valid, icon names known, enum values valid, no orphan sub-categories, schema version matches.
+1. **Phase 2a Part 3: `/rules` Ops app editor UI.** Biggest lift remaining in Phase 2a. Write the API route first (`ops/src/app/api/rulebook/route.ts`. GET/POST with validation), then the page component (`ops/src/app/rules/page.tsx`, editable tables per type, tier columns, per-cell required/recommended/N/A dropdowns, visual identity editor), then the sidebar nav entry. Atomic write via tmp+rename when saving the JSON back. Validate on save: check-ids exist in helpers, hex colors valid, icon names known, enum values valid, no orphan sub-categories, schema version matches.
 
 2. **Phase 1d vault-health audit** (now unblocked). Rewrite the dashboard vault-health computation to score each profile against its own type's rulebook verified tier instead of a uniform checklist. Should produce more honest numbers: stories don't get penalized for missing FEC data, media doesn't get penalized for Tier 1 count <3, etc.
 
 3. **Phase 2b S-Tier filter** (now unblocked). Dashboard filter + VaultGrid sort option reads `getPromotionGate(type, 's-tier')` from the rulebook to know which types are eligible. Filter the grid to profiles where `content-readiness === 's-tier'`.
 
-4. **First batch of story hallucination cleanup.** Walk through the 12 newly-surfaced stories in the hallucination-catcher Attention Queue. Decide per-claim: add citation, convert to blockquote, use `[cite:...]`, or reject via the false-positive button.
+4. **First batch of story hallucination cleanup.** Walk through the 12 newly-surfaced stories in the hallucination-catcher Attention Queue. Decide per-claim: add citation, convert to blockquote, use `[cite:.]`, or reject via the false-positive button.
 
-5. **Phase 3 relationship model** — plan-mode design session. Before any code: walk through the relationship taxonomy (related / bothsides / monetary / story-link / media-appearance / staffing / legal) with `from` / `to` / `confidence` / `source` fields. Lock the data model first, then write the categorizer script, then update the profile view relationships panel.
+5. **Phase 3 relationship model**, plan-mode design session. Before any code: walk through the relationship taxonomy (related / bothsides / monetary / story-link / media-appearance / staffing / legal) with `from` / `to` / `confidence` / `source` fields. Lock the data model first, then write the categorizer script, then update the profile view relationships panel.
 
 6. **Attention dispatcher `shell:startup` install walkthrough.** 5-minute David task. Drop a shortcut to `scripts/attention-dispatcher.bat` into the Windows startup folder. Confirmation test: reboot, dispatcher runs on login automatically.
 
 ### Session end state: fully verified + deployed
 - **Phase 2a Part 1 foundation shipped** (previous session)
-- **Phase 2a Part 2 wiring shipped** (this session) — all 5 scripts consult the rulebook
-- **resolveTopLevelType helper added** — unblocks correct dispatch on flat vault type values
+- **Phase 2a Part 2 wiring shipped** (this session), all 5 scripts consult the rulebook
+- **resolveTopLevelType helper added**, unblocks correct dispatch on flat vault type values
 - **Regression checks passed on every wiring commit**
-- **12 legitimate story findings newly surfaced** in hallucination-catcher Attention Queue — real editorial work, not noise
+- **12 legitimate story findings newly surfaced** in hallucination-catcher Attention Queue, real editorial work, not noise
 - **Latest deploy:** `24289116181` ✓
 
 David pausing here to save and restart in a fresh conversation for Phase 2a Part 3 (`/rules` editor UI). The fresh context will give full headroom for the biggest lift remaining in Phase 2a.
@@ -570,35 +570,35 @@ David pausing here to save and restart in a fresh conversation for Phase 2a Part
 
 ## Previous Session
 Claude: Code
-Date: 2026-04-11 next-day (Phase 2a rulebook foundation — automation hardening, dashboard bugs, Phase 0 vault cleanup, Phase 2a Part 1 rulebook file)
+Date: 2026-04-11 next-day (Phase 2a rulebook foundation, automation hardening, dashboard bugs, Phase 0 vault cleanup, Phase 2a Part 1 rulebook file)
 
 ### Theme
 Long continuation session. Four distinct phases shipped:
 
-1. **Attention Queue feedback loop + hallucination-catcher tightening** — reject button on `/attention`, universal signature filter in `addEntries()`, stricter claim-pattern regexes
-2. **Automation hardening** — dispatcher crash guards + log rotation + Healthchecks.io env-var placeholder, new scripts registered in `/scripts` ops page, rules docs updated
-3. **Phase 0 vault cleanup** — audited and committed a 619-file + 44-file pipeline enrichment backlog that had been sitting uncommitted, patched `self-review-mirror` to use net-new comparison + auto-block / heading / wikilink-bullet / type exemptions so the gate stops false-positive blocking
-4. **Phase 1 dashboard bugs** — calendar clock UTC → local, session-save timestamps via new `completed_at` field, alerts dashboard card unified with `/api/alerts` summary (was showing a fake heuristic count)
-5. **Phase 2a Part 1** — shipped `config/profile-type-rulebook.json` (1172 lines) serializing all 8 top-level types + 50+ sub-categories walked through interactively, plus CJS and TS readers, plus extended check-helpers with the CHECKS registry (64 real, 201 stubbed for Part 2)
+1. **Attention Queue feedback loop + hallucination-catcher tightening**, reject button on `/attention`, universal signature filter in `addEntries()`, stricter claim-pattern regexes
+2. **Automation hardening**, dispatcher crash guards + log rotation + Healthchecks.io env-var placeholder, new scripts registered in `/scripts` ops page, rules docs updated
+3. **Phase 0 vault cleanup**, audited and committed a 619-file + 44-file pipeline enrichment backlog that had been sitting uncommitted, patched `self-review-mirror` to use net-new comparison + auto-block / heading / wikilink-bullet / type exemptions so the gate stops false-positive blocking
+4. **Phase 1 dashboard bugs**, calendar clock UTC → local, session-save timestamps via new `completed_at` field, alerts dashboard card unified with `/api/alerts` summary (was showing a fake heuristic count)
+5. **Phase 2a Part 1**, shipped `config/profile-type-rulebook.json` (1172 lines) serializing all 8 top-level types + 50+ sub-categories walked through interactively, plus CJS and TS readers, plus extended check-helpers with the CHECKS registry (64 real, 201 stubbed for Part 2)
 
-### Done — Attention Queue polish (commit `c0e7dc9c`, deploy `24281367092`)
+### Done. Attention Queue polish (commit `c0e7dc9c`, deploy `24281367092`)
 
 - **Reject button on `/attention`.** Per-entry `✕ reject` button prompts for an optional reason and POSTs to new `/api/attention-queue/reject` route. Removes the entry immediately and records a rejection in `.false-positive-log.json` keyed by a stable `(source|where|what)` signature.
-- **Universal filter in `addEntries()`.** `scripts/lib/attention-queue.cjs` `addEntries()` now auto-filters entries whose signature matches a prior rejection. All 5 producers inherit this for free — no per-script wiring. Verified live: rejected "Economic Policy Institute" from voice-drift-detector, reran the producer, 30 → 29 (rejection persisted through a fresh run).
+- **Universal filter in `addEntries()`.** `scripts/lib/attention-queue.cjs` `addEntries()` now auto-filters entries whose signature matches a prior rejection. All 5 producers inherit this for free, no per-script wiring. Verified live: rejected "Economic Policy Institute" from voice-drift-detector, reran the producer, 30 → 29 (rejection persisted through a fresh run).
 - **Hallucination-catcher tightened.** Raytheon went from 96 flagged claims → 25 (71 false positives eliminated). Changes: `dollar-amount` requires a claim verb within 80 chars; `percentage` requires contextual noun (of/increase/share/etc); `bill-reference` pattern dropped; per-claim citation proximity check (150 chars) replaces whole-paragraph exemption; footnote refs `[^N]` and `[cite]` count as citations; bullet lists and tables exempt.
 
-### Done — Automation hardening (commit `ee2eccd6`, deploy `24281756494`)
+### Done. Automation hardening (commit `ee2eccd6`, deploy `24281756494`)
 
 - **`scripts/attention-dispatcher.cjs` crash recovery.** Added `uncaughtException` + `unhandledRejection` top-level guards; try/catch around `spawn()` and each `processQueue` iteration; cron schedule callbacks wrapped per-producer. Log rotation at 1MB threshold → rotates to `.log.1` (one keep). Verified live by pre-writing a 1.2MB log file; dispatcher correctly rotated it to `.log.1` on next run and started a fresh `.log`.
 - **`HEALTHCHECKS_PING_URL` env var placeholder.** Fire-and-forget ping on startup (`/start`), successful queue cycles (bare URL), failures (`/fail`). 5-sec timeout, errors swallowed. No-op when unset; daemon logs state at startup.
 - **`/scripts` ops page registered all new scripts.** New categories **Intelligence / Attention Queue** (8 entries) and **Pre-Commit Gates** (1 entry), pinned to top. Entries for attention-dispatcher (daemon/run-now/healthchecks), voice-drift-detector, hallucination-catcher, contradiction-miner, missing-profile-detector, promotion-candidate-queue, self-review-mirror. yaml-sanity-scan and duplicate-bioguide-sentinel entries updated to note they also run as pre-commit gates.
-- **Rules docs.** `CLAUDE.md` gained a new "Automation you should know about" section describing pre-commit gate, Attention Queue producer discipline (never edit `Attention Queue.md` directly — use `addEntries()`), and dispatcher. `content/Vault Rules.md` gained a new **§ 9 Automation Layers** with the same three sub-sections. Existing § 9 Decisions Log bumped to § 10.
+- **Rules docs.** `CLAUDE.md` gained a new "Automation you should know about" section describing pre-commit gate, Attention Queue producer discipline (never edit `Attention Queue.md` directly, use `addEntries()`), and dispatcher. `content/Vault Rules.md` gained a new **§ 9 Automation Layers** with the same three sub-sections. Existing § 9 Decisions Log bumped to § 10.
 
-### Done — Phase 0 vault cleanup (commits `427a5827` + `ab7221d0`, deploy `24282337750`)
+### Done. Phase 0 vault cleanup (commits `427a5827` + `ab7221d0`, deploy `24282337750`)
 
 - **Audited 619 modified + 44 untracked uncommitted files.** Classified by change pattern: 307 frontmatter-only (pipeline `last-updated` / `last-enriched` / `related:` bumps), 193 frontmatter+body (+ new auto-block sections with Wikidata / LEI / Federal Register data), 53 pipeline-only auto-block content, 65 body-only timestamp rerenders, 1 `site-status.md` stats recalc, 38 RSS Event drafts, 3 Story Seeds from contradiction-miner, 1 `bioguide-contamination-alert.md`.
 - **Patched `self-review-mirror` with 5 exemptions.** Fixed the false-positive cascade that would have blocked 188 files with "new em dash" errors from pipeline enrichment:
-  - **Net-new comparison, not per-line matching** — count banned phrase occurrences before/after and flag only net increases. A pipeline rewriting `(990 Filing — 2018)` to `(990 Filing — 2019)` doesn't trigger because the em-dash count is unchanged.
+ - **Net-new comparison, not per-line matching**, count banned phrase occurrences before/after and flag only net increases. A pipeline rewriting `(990 Filing, 2018)` to `(990 Filing, 2019)` doesn't trigger because the em-dash count is unchanged.
   - **Auto-block exemption** — content inside `<!-- auto:X -->` blocks is API data, not authored prose
   - **Heading exemption** — Markdown headings are labels, not prose
   - **Wikilink-bullet exemption** — bullet lines with wikilinks are structured data enumerations

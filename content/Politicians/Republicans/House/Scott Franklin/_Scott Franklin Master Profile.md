@@ -1,5 +1,5 @@
 ---
-title: "Scott Franklin Master Profile"
+title: "Scott Franklin"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

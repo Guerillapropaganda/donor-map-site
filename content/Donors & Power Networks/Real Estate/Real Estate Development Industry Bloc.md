@@ -60,7 +60,7 @@ The core demand: housing policy that increases supply through deregulation rathe
 
 ### Who They Fund
 
-> [!money] Follow the Money — Real Estate Bloc → Both Parties
+> [!money] Follow the Money. Real Estate Bloc → Both Parties
 > **National Association of Realtors (2023-2024 cycle):** $19.8 million raised in PAC contributions. $20.1 million raised by NAR Congressional Fund. Bipartisan distribution strategy: gives to both Democrats and Republicans who support "REALTOR-friendly issues."
 >
 > **California Apartment Association (2024):** Major contributors include Irvine Company Apartment Communities ($125,510), Essex Property Trust ($465,682), Camden Property Trust ($21,200), and other corporate landlords. CAA delivered campaign cash to state politicians in 51 out of 58 California counties.
@@ -87,7 +87,7 @@ The bloc gives to Newsom because his housing deregulation agenda serves develope
 
 ---
 
-### Class Analysis — The Bipartisan Housing Consensus
+### Class Analysis. The Bipartisan Housing Consensus
 
 The real estate development bloc represents one of the clearest examples of bipartisan consensus on policy that appears progressive but serves donor interests exclusively. Both Trump and Newsom oppose corporate investor control of single-family homes in their rhetoric. Both have housing supply agendas that accelerate corporate real estate consolidation in practice.
 

@@ -1,5 +1,5 @@
 ---
-title: "Robert Gates Master Profile"
+title: "Robert Gates"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

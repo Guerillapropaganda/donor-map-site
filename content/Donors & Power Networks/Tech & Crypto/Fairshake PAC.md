@@ -70,7 +70,7 @@ aliases:
 
 ## Who They Are
 
-[[Fairshake PAC]] (C00835959) and its affiliated PACs — [[Defend American Jobs]] (C00836221) and [[Protect Progress]] (C00848440) — form the cryptocurrency industry's primary electoral weapon. A three-PAC network that raised $358+ million and spent $291 million in the 2024 cycle with a 91% win rate across 58 targeted races. Entering 2026 with $193 million cash on hand, making it one of the single largest outside spending operations in American politics.
+[[Fairshake PAC]] (C00835959) and its affiliated PACs, [[Defend American Jobs]] (C00836221) and [[Protect Progress]] (C00848440), form the cryptocurrency industry's primary electoral weapon. A three-PAC network that raised $358+ million and spent $291 million in the 2024 cycle with a 91% win rate across 58 targeted races. Entering 2026 with $193 million cash on hand, making it one of the single largest outside spending operations in American politics.
 
 The three-PAC structure operates as follows: Fairshake PAC raised $260M, transferred $86M to affiliated committees, and deployed $195M in independent expenditures. Defend American Jobs raised $60M with $57M in independent expenditures (Republican-leaning), while Protect Progress raised $38M with $34M in independent expenditures (Democrat-leaning). This architecture allows the crypto industry to present itself as "bipartisan" while maintaining unified control over candidate selection and message strategy across both parties.
 
@@ -78,31 +78,31 @@ The three-PAC structure operates as follows: Fairshake PAC raised $260M, transfe
 
 ## The Class Analysis
 
-Fairshake is not a grassroots movement. It is donor capital in its purest form — the concentrated wealth of four companies (Coinbase, Andreessen Horowitz, Ripple Labs, Jump Crypto) purchasing regulatory permission from the U.S. Congress. The business model is explicit: the industry does not seek to influence existing regulation. It seeks to prevent regulation from being created in the first place. The money flow is unidirectional: from billionaire-controlled crypto firms to elected officials who will block any government oversight of those firms.
+Fairshake is not a grassroots movement. It is donor capital in its purest form, the concentrated wealth of four companies (Coinbase, Andreessen Horowitz, Ripple Labs, Jump Crypto) purchasing regulatory permission from the U.S. Congress. The business model is explicit: the industry does not seek to influence existing regulation. It seeks to prevent regulation from being created in the first place. The money flow is unidirectional: from billionaire-controlled crypto firms to elected officials who will block any government oversight of those firms.
 
 > [!money]
 > In 2024, Fairshake spent $195+ million across 58 targeted races, winning 91% of them. The $116 million war chest in January 2025 was supplemented by $74+ million in new contributions (Coinbase $25M, Ripple $25M, Andreessen Horowitz $24M) within weeks of the 2024 election. By January 2026, Fairshake held $193 million cash on hand — larger than the annual budget of most U.S. Senate campaigns.
 
-The scale of spending is disciplinary. It is designed to demonstrate to every member of Congress that opposition to cryptocurrency deregulation carries a career-ending price tag. [[_Katie Porter Master Profile|Katie Porter]] learned this in the 2024 California Senate primary when Fairshake spent $10 million specifically to defeat her — not because she controlled any crypto regulation, but because she represented a political model that didn't require donor permission. The message was clear: if you build power through small-dollar donations and consumer protection credibility instead of donor relationships, $10 million will appear to destroy you.
+The scale of spending is disciplinary. It is designed to demonstrate to every member of Congress that opposition to cryptocurrency deregulation carries a career-ending price tag. [[_Katie Porter Master Profile|Katie Porter]] learned this in the 2024 California Senate primary when Fairshake spent $10 million specifically to defeat her, not because she controlled any crypto regulation, but because she represented a political model that didn't require donor permission. The message was clear: if you build power through small-dollar donations and consumer protection credibility instead of donor relationships, $10 million will appear to destroy you.
 
 ---
 
 ## What They Want
 
-— Federal cryptocurrency regulatory framework that defers to the industry ("regulatory clarity")
-— SEC authority over crypto regulation stripped or severely limited
-— No consumer protection requirements beyond minimal reserve ratios
-— Stablecoin industry legitimization and expansion (completed: GENIUS Act signed July 2025)
-— Installation of industry-friendly regulators (Gary Gensler removal, Paul Atkins confirmation — completed)
-— No enforcement against existing crypto companies for past violations
-— Expansion of crypto asset classes (Bitcoin reserves, strategic digital asset stockpiles)
-— Protection of crypto industry from state-level regulation (California, New York financial regulators)
+, Federal cryptocurrency regulatory framework that defers to the industry ("regulatory clarity")
+, SEC authority over crypto regulation stripped or severely limited
+, No consumer protection requirements beyond minimal reserve ratios
+, Stablecoin industry legitimization and expansion (completed: GENIUS Act signed July 2025)
+, Installation of industry-friendly regulators (Gary Gensler removal, Paul Atkins confirmation, completed)
+, No enforcement against existing crypto companies for past violations
+, Expansion of crypto asset classes (Bitcoin reserves, strategic digital asset stockpiles)
+, Protection of crypto industry from state-level regulation (California, New York financial regulators)
 
 ---
 
-## Major Donors — The Crypto Mega-Donors
+## Major Donors. The Crypto Mega-Donors
 
-### Combined Three-PAC Network — 2024 Cycle Financial Breakdown
+### Combined Three-PAC Network, 2024 Cycle Financial Breakdown
 
 | PAC | Total Raised | Total Spent | Independent Expenditures | Cash on Hand |
 |---|---|---|---|---|
@@ -116,7 +116,7 @@ Fairshake PAC's $86.25 million in transfers went primarily to: Defend American J
 > [!money]
 > The three-PAC structure allowed the crypto industry to claim nonpartisanship while maintaining complete strategic control. By April 1 2026, the network had raised an additional $129 million post-election (Coinbase $25M, Ripple $25M, a16z $24M), bringing total 2026 available capital to $193 million — equivalent to three times the 2024 capital base and enabling unprecedented spending velocity into the 2026 midterms.
 
-### Coinbase Global, Inc. — Detailed Breakdown
+### Coinbase Global, Inc. Detailed Breakdown
 
 | Recipient | Amount | Source |
 |---|---|---|
@@ -129,11 +129,11 @@ Fairshake PAC's $86.25 million in transfers went primarily to: Defend American J
 | House Majority PAC (Democratic PAC) | $500,000 | FEC |
 | **Total Coinbase 2024 corporate contributions** | **$50,499,995** | FEC |
 
-By June 2024, Coinbase announced a second $25 million tranche to Fairshake, bringing cumulative contributions to $75.5M. CEO Brian Armstrong also contributed $1 million personally to Fairshake. The equal $500K allocations to both Republican and Democratic Congressional PACs represented explicit bipartisan hedging strategy — buying protection on both sides of aisle.
+By June 2024, Coinbase announced a second $25 million tranche to Fairshake, bringing cumulative contributions to $75.5M. CEO Brian Armstrong also contributed $1 million personally to Fairshake. The equal $500K allocations to both Republican and Democratic Congressional PACs represented explicit bipartisan hedging strategy, buying protection on both sides of aisle.
 
 **2026 Stockpile:** Coinbase contributed an additional $56 million by January 2026, bringing cumulative contributions across both cycles to $131.5 million.
 
-### Ripple Labs, Inc. — Detailed Breakdown
+### Ripple Labs, Inc. Detailed Breakdown
 
 | Recipient | Amount | Source |
 |---|---|---|
@@ -143,7 +143,7 @@ By June 2024, Coinbase announced a second $25 million tranche to Fairshake, brin
 | Commonwealth Unity Fund (John Deaton R-RI super PAC) | $1,000,000 | FEC |
 | **Total Ripple 2024 corporate contributions** | **$49,000,000** | FEC |
 
-After the 2024 election, Ripple made a third $25 million donation to Fairshake for the 2026 cycle, bringing cumulative Fairshake contributions to $70 million. Additionally, Ripple donated approximately $4.9 million to Trump's 2025 inaugural fund — the second-largest crypto sector inaugural donor overall.
+After the 2024 election, Ripple made a third $25 million donation to Fairshake for the 2026 cycle, bringing cumulative Fairshake contributions to $70 million. Additionally, Ripple donated approximately $4.9 million to Trump's 2025 inaugural fund, the second-largest crypto sector inaugural donor overall.
 
 **2026 Stockpile:** Ripple contributed $48 million additional by January 2026.
 
@@ -151,7 +151,7 @@ After the 2024 election, Ripple made a third $25 million donation to Fairshake f
 - **Chris Larsen** (Ripple co-founder, 27% shareholder): Donated $10 million in XRP directly to Kamala Harris campaign via Future Forward super PAC, plus $1 million to Future Forward previously. This represented explicit strategic divergence from Ripple's corporate donation to Fairshake (which supported crypto-friendly Republicans in Ohio). Larsen's Harris donation signaled tolerance for crypto-friendly Democratic candidates.
 - **Brad Garlinghouse** (CEO): Attended Trump's Mar-a-Lago pre-inauguration meetings. Stuart Alderoty (Ripple Chief Legal Officer) made direct Trump donations.
 
-### Andreessen Horowitz (a16z) — Detailed Breakdown
+### Andreessen Horowitz (a16z). Detailed Breakdown
 
 | Donor Entity | Recipient | Amount | Source |
 |---|---|---|---|
@@ -169,11 +169,11 @@ After the 2024 election, Ripple made a third $25 million donation to Fairshake f
 
 a16z represents the structural bridge between Fairshake (crypto) and the broader Silicon Valley political operation. Marc Andreessen sits on Coinbase's board, making a16z simultaneously a Coinbase investor and a Fairshake co-funder. By 2025, a16z replicated the Fairshake model with "Leading the Future," a $100+ million AI-focused super PAC co-founded with OpenAI President Greg Brockman, using shared personnel (Josh Vlasto as lead strategist for both Fairshake and Leading the Future).
 
-### Jump Crypto (Jump Trading affiliate) — $15 Million
+### Jump Crypto (Jump Trading affiliate), $15 Million
 
 Jump Crypto contributed $15 million to Fairshake PAC in 2024, making it the fourth-largest crypto corporate donor in the cycle.
 
-### Winklevoss Twins (Cameron & Tyler, Gemini founders) — Defection to Explicit Trump PAC
+### Winklevoss Twins (Cameron & Tyler, Gemini founders). Defection to Explicit Trump PAC
 
 - **2024 cycle:** Combined $4.9 million to Fairshake PAC. Each twin also donated $1 million personally to Trump's reelection campaign.
 - **2026 cycle pivot:** The Winklevosses defected from Fairshake's bipartisan model, instead funneling $21 million in Bitcoin to "Digital Freedom Fund," an explicitly Trump-aligned super PAC. This defection signals the dissolution of Fairshake's nonpartisan veneer by 2026.
@@ -192,7 +192,7 @@ $1 million personally to Fairshake PAC (separate from Coinbase corporate contrib
 | Paradigm Operations LP | $250,000 | Congressional Leadership Fund (R) |
 | Paradigm Operations LP | $250,000 | Senate Majority PAC (D) |
 
-### Trump Inaugural Fund — Direct Access Channel
+### Trump Inaugural Fund. Direct Access Channel
 
 Crypto industry donated $18+ million to Trump's 2025 inaugural committee:
 
@@ -212,7 +212,7 @@ Crypto industry donated $18+ million to Trump's 2025 inaugural committee:
 
 Fortune reported directly: "The SEC has since dismissed lawsuits filed or threatened against donors to Trump's inauguration fund, including Coinbase, Crypto.com, Uniswap, Yuga Labs, Kraken, and Ripple."
 
-### 2026 Cycle — War Chest Composition
+### 2026 Cycle. War Chest Composition
 
 By January 2026, Fairshake had accumulated $193 million for the 2026 midterms:
 
@@ -223,13 +223,13 @@ By January 2026, Fairshake had accumulated $193 million for the 2026 midterms:
 | Andreessen Horowitz | $24,000,000 | $74,999,100 |
 | **Total identified for 2026** | **$128,000,000** | **$334,399,100** |
 
-The total crypto industry commitment to 2026 midterms (including all PACs, direct contributions, and Trump-aligned donations) reached $288 million as of February 2026 — more than double the entire 2024 cycle spend.
+The total crypto industry commitment to 2026 midterms (including all PACs, direct contributions, and Trump-aligned donations) reached $288 million as of February 2026, more than double the entire 2024 cycle spend.
 
 ---
 
 ## Who They Fund and Win Rates
 
-### 2024 Cycle Results — 91% Win Rate Across 58 Races
+### 2024 Cycle Results, 91% Win Rate Across 58 Races
 
 ### Senate Races (major targets):
 
@@ -279,7 +279,7 @@ Defend American Jobs' primary vendor was Main Street Media Group ($57M). Protect
 
 ---
 
-## Legislative Victories — What the Money Bought
+## Legislative Victories. What the Money Bought
 
 ### GENIUS Act (Signed July 18, 2025)
 
@@ -293,7 +293,7 @@ The first major federal cryptocurrency legislation in U.S. history. Senate 68–
 - Bank Secrecy Act (AML/KYC) compliance requirements
 - Prohibition on misleading government-backing claims
 
-**Direct Beneficiary:** World Liberty Financial (Trump family crypto venture) launched with USD1 stablecoin, which achieved $5 billion in circulation by February 2026 — less than a year after passage. The $1.2 billion Trump family cash-out from World Liberty Financial was directly enabled by this legislation.
+**Direct Beneficiary:** World Liberty Financial (Trump family crypto venture) launched with USD1 stablecoin, which achieved $5 billion in circulation by February 2026, less than a year after passage. The $1.2 billion Trump family cash-out from World Liberty Financial was directly enabled by this legislation.
 
 > [!money]
 > The GENIUS Act was drafted with direct input from Ripple Labs CEO Brad Garlinghouse and other Fairshake donor representatives. Ripple contributed $49M to Fairshake in 2024, then saw the SEC dismiss its multi-year enforcement case and accept a $50M settlement (down from $125M ordered, down from $2B demand). The legislative timeline reads as direct transaction: $49M investment → favorable regulatory outcome → industry-written legislation → stablecoin legitimization. Ripple's XRP legal status in secondary markets was confirmed through this process.
@@ -314,7 +314,7 @@ Sources: FinTech Weekly (Tier 3, UNVERIFIED), Latham & Watkins (Tier 3, UNVERIFI
 - **2022:** SEC staff issued SAB 121 under Gary Gensler requiring banks and publicly traded entities to record cryptocurrency held in custody as both asset AND liability on balance sheets. This made crypto custody prohibitively expensive for traditional financial institutions.
 - **Congressional battle:** Both chambers passed H.J. Res. 109 (Congressional Review Act) to repeal SAB 121 with bipartisan support.
 - **Biden veto (May 3, 2024):** President Biden vetoed the resolution.
-- **Failed veto override (July 11, 2024):** House voted 228–184 to override — short of two-thirds supermajority required.
+- **Failed veto override (July 11, 2024):** House voted 228–184 to override, short of two-thirds supermajority required.
 - **Trump administration resolution (January 23, 2025):** On the same day Trump signed his crypto executive order, SEC staff rescinded SAB 121 by issuing **SAB 122**, removing the custody liability requirement. Banks can now custody digital assets without balance sheet treatment.
 
 **Outcome:** Industry lost the legislative battle but won the regulatory fight. The new SEC administration simply rescinded the guidance via its own authority, producing the same outcome Fairshake was funding Congress to achieve.
@@ -330,8 +330,8 @@ The single highest-value return on Fairshake's $195M 2024 spending: the near-com
 - Aggressive enforcement posture serving as political motivation for Fairshake formation
 
 ### Atkins Administration (April 2025–Present):
-- **13 crypto-related enforcement actions in 2025** — 60% decline from 33 in 2024, lowest since 2017
-- **$142 million total penalties in 2025** — less than 3% of 2024 penalty total
+- **13 crypto-related enforcement actions in 2025**, 60% decline from 33 in 2024, lowest since 2017
+- **$142 million total penalties in 2025**, less than 3% of 2024 penalty total
 - **Case dismissals with prejudice:** Coinbase (February 27, 2025), Binance (May 29, 2025), Kraken, Gemini, Uniswap, Yuga Labs, and others
 
 ### Individual Case Outcomes:
@@ -344,7 +344,7 @@ The single highest-value return on Fairshake's $195M 2024 spending: the near-com
 
 Sources: Cornerstone Research (Tier 2), Harvard Law School Forum on Corporate Governance (Tier 2), House Financial Services Committee Democrats (Tier 1, UNVERIFIED), Reuters (Tier 2), Fortune (Tier 2)
 
-### Executive Order — Strategic Bitcoin Reserve (March 6, 2025)
+### Executive Order. Strategic Bitcoin Reserve (March 6, 2025)
 
 Trump signed executive order establishing:
 - **Strategic Bitcoin Reserve:** ~200,000 BTC (valued ~$17B) from federal law enforcement seized assets. Government will not sell this bitcoin.
@@ -366,28 +366,28 @@ Sources: Politico (Tier 2), Reuters (Tier 2), Latham & Watkins (Tier 3, UNVERIFI
 
 $5 million deployed. First midterm Senate race spending. Pattern: early intervention in Republican primaries to shape candidate field.
 
-### Illinois Congressional Primaries (March 2026) — First Major Loss
+### Illinois Congressional Primaries (March 2026). First Major Loss
 
 **Spending:** Fairshake deployed $8.6M across four Chicago-area open House seats. Combined with AI industry (Think Big PAC $2.5M+) and pro-Israel money (AIPAC/UDP $21M+), total outside spending exceeded $34 million.
 
 **Results (March 18, 2026):** Crypto and AI candidates defeated despite saturation spending.
-- Fairshake spent $9.8M opposing Juliana Stratton (Lt. Governor, Senate) — Stratton won decisively
-- Fairshake spent $2.5M opposing La Shawn Ford (7th CD) — Ford won comfortably
-- Fairshake spent $817K opposing Robert Peters (2nd CD) — Peters won comfortably
-- Think Big PAC (AI) spent $1M+ boosting Jesse Jackson Jr. — also failed
+- Fairshake spent $9.8M opposing Juliana Stratton (Lt. Governor, Senate). Stratton won decisively
+- Fairshake spent $2.5M opposing La Shawn Ford (7th CD). Ford won comfortably
+- Fairshake spent $817K opposing Robert Peters (2nd CD). Peters won comfortably
+- Think Big PAC (AI) spent $1M+ boosting Jesse Jackson Jr. also failed
 - Combined AI/crypto spending of $20M across Illinois yielded minimal returns
 
 **Significance:** Illinois represents Fairshake's first major 2026 loss and challenges the 91% win rate narrative from 2024. Dense Democratic district structure with engaged base voters proved resistant to outside spending saturation. This suggests 2024's success may have been driven partly by favorable electoral conditions rather than spending power alone.
 
 Sources: Fortune (Tier 2), Chicago Sun-Times (Tier 2), American Prospect (Tier 2)
 
-### New York House Races (2026) — Strategic Enforcement
+### New York House Races (2026). Strategic Enforcement
 
-**Targets:** Democratic Reps. Laura Gillen, Dan Goldman, and Ritchie Torres — all three voted FOR the CLARITY Act (July 2025), crossing party lines. All three now face primary challenges from the left.
+**Targets:** Democratic Reps. Laura Gillen, Dan Goldman, and Ritchie Torres, all three voted FOR the CLARITY Act (July 2025), crossing party lines. All three now face primary challenges from the left.
 
 **2024 baseline:** Fairshake spent $5.3 million across 6 New York races (all boosting Democrats). All six Fairshake-backed candidates won.
 
-**2026 calculus:** Fairshake deploying resources to either protect pro-crypto Democrats facing primary challenges OR punish Democrats who voted against CLARITY Act — depending on strategic calculation. Josh Vlasto (Fairshake's lead strategist and spokesman for both Fairshake and AI PAC "Leading the Future") confirmed CLARITY Act vote as litmus test.
+**2026 calculus:** Fairshake deploying resources to either protect pro-crypto Democrats facing primary challenges OR punish Democrats who voted against CLARITY Act, depending on strategic calculation. Josh Vlasto (Fairshake's lead strategist and spokesman for both Fairshake and AI PAC "Leading the Future") confirmed CLARITY Act vote as litmus test.
 
 > [!money]
 > The NY targeting reveals Fairshake's disciplinary function operating from both directions: (1) reward pro-crypto votes with protection from primary challengers, (2) punish anti-crypto votes with primary opposition spending. This bifurcated strategy transforms the PAC into a structural governance mechanism — you're either funded or targeted based on votes, with no neutral position available. Combined with total national outside spending exceeding $225 million (most ever at this point in any cycle, $75M+ ahead of 2024's record pace), the crypto industry's 2026 midterm footprint is unprecedented.
@@ -403,7 +403,7 @@ Fairshake's playbook is being directly replicated for the AI industry. This repr
 ### Leading the Future (AI Super PAC):
 - Raised $100+ million in 2025–2026
 - Co-founded by a16z ($50M initial) and OpenAI President Greg Brockman
-- **Shared personnel:** Josh Vlasto serves as lead strategist and spokesman for BOTH Fairshake and Leading the Future — the same infrastructure managing crypto and AI political spending simultaneously
+- **Shared personnel:** Josh Vlasto serves as lead strategist and spokesman for BOTH Fairshake and Leading the Future, the same infrastructure managing crypto and AI political spending simultaneously
 - **Same strategy:** "Bipartisan" framing, targeting "anti-innovation" politicians, primary spending against Democrats who opposed FIT21/CLARITY Act equivalent legislation
 
 ### Meta AI Political Operation:
@@ -412,7 +412,7 @@ Fairshake's playbook is being directly replicated for the AI industry. This repr
 - $45M "American Technology Excellence Project"
 - NY Times reported this reflects "new level of political engagement by companies like Meta and investors such as Andreessen Horowitz"
 
-**Analytical Pattern:** The crypto industry created the playbook. Fairshake demonstrated it worked (91% win rate 2024, now challenged by Illinois). Now the AI industry is running identical playbooks with shared personnel and a16z's structural coordination. This suggests a permanent shift in how tech sectors approach campaign finance — massive industry PACs with unified donor control, strategic party/candidate leverage, and legislative writing capability.
+**Analytical Pattern:** The crypto industry created the playbook. Fairshake demonstrated it worked (91% win rate 2024, now challenged by Illinois). Now the AI industry is running identical playbooks with shared personnel and a16z's structural coordination. This suggests a permanent shift in how tech sectors approach campaign finance, massive industry PACs with unified donor control, strategic party/candidate leverage, and legislative writing capability.
 
 > [!contradiction]
 > The crypto and AI industries claim to be separate, but they share the same funders (a16z), same strategists (Josh Vlasto), same narrative (innovation vs. regulation), and same opponents (Democrats who want oversight). The "bipartisan" framing for both sectors is identical. This suggests a single coordinated tech-industry political operation operating under different sector labels.
@@ -425,14 +425,14 @@ Sources: Fortune (Tier 2, UNVERIFIED), LA Times (Tier 2, UNVERIFIED), NY Times (
 
 ### World Liberty Financial
 
-Trump family crypto venture launched September 2024. Founders: [[_Donald Trump Master Profile|Trump]], Eric Trump, Donald Trump Jr., Barron Trump, Steve Witkoff (Trump's Middle East envoy).
+Trump family crypto venture launched September 2024. Founders: [[_Donald Trump Master Profile|Trump]], Eric Trump, Donald Trump Jr. Barron Trump, Steve Witkoff (Trump's Middle East envoy).
 
 ### Financial Outcomes:
 - WLFI token sale: $550 million raised (March 2025)
-- USD1 stablecoin: $5 billion in circulation (February 2026) — 5th-largest stablecoin globally
+- USD1 stablecoin: $5 billion in circulation (February 2026), 5th-largest stablecoin globally
 - Trump family cash-out: $1.2 billion in first 16 months
 - UAE investment: Sheikh Tahnoon bin Zayed Al Nahyan (Abu Dhabi royal, UAE National Security Adviser) purchased 49% stake for $500 million. $187 million of first $250 million went to Trump family entities.
-- Deal signed January 16, 2025 — four days before inauguration
+- Deal signed January 16, 2025, four days before inauguration
 
 World Liberty Financial was directly enabled by GENIUS Act passage (July 2025), which created the federal stablecoin framework. USD1 achieved $5B circulation directly because Fairshake and other crypto donors funded the political operation that elected the Congress that passed the legislation. Trump family profited $1.2B from an industry-written law funded by industry PACs.
 
@@ -447,7 +447,7 @@ Launched by Trump Organization affiliates. Trump family entities hold 80% of sup
 
 **Significance:** Trump personally controls a $300M+ revenue stream from cryptocurrency trading. His administration's deregulation of crypto and Strategic Bitcoin Reserve expansion directly increase $TRUMP's market value. This creates incentive for continued crypto-friendly policy making.
 
-### Crypto.com — Investigation Dropped + Trump Media Partnership
+### Crypto.com. Investigation Dropped + Trump Media Partnership
 
 ### Pattern:
 - Years of SEC investigation into Crypto.com
@@ -459,7 +459,7 @@ PBS documented this transaction chain as clear quid pro quo.
 
 ---
 
-## Individual Major Donors — Leadership
+## Individual Major Donors. Leadership
 
 ### Brian Armstrong (Coinbase CEO)
 
@@ -473,9 +473,9 @@ PBS documented this transaction chain as clear quid pro quo.
 - Stand With Crypto astroturf organization: Claims 2.6 million "advocates" (early 2026), 675,000 new signups in 2025, 925,000 congressional emails sent in 2025, 121,000 voter registration tool uses. Goal: 4 million advocates before 2026 midterms.
 
 ### Political Philosophy:
-"Best way to get regulatory clarity is to elect pro-crypto candidates on both sides of the aisle, and vote anti-crypto candidates out of office." — Armstrong explicitly articulated Fairshake's disciplinary spending model.
+"Best way to get regulatory clarity is to elect pro-crypto candidates on both sides of the aisle, and vote anti-crypto candidates out of office.". Armstrong explicitly articulated Fairshake's disciplinary spending model.
 
-**Broader Ideology:** "Network State" movement — believes U.S. in "slow decline," advocates decentralized digital governance as alternative to nation-state. This ideology frames cryptocurrency deregulation as preparatory infrastructure for post-nation-state governance.
+**Broader Ideology:** "Network State" movement, believes U.S. in "slow decline," advocates decentralized digital governance as alternative to nation-state. This ideology frames cryptocurrency deregulation as preparatory infrastructure for post-nation-state governance.
 
 ### Marc Andreessen & Ben Horowitz (a16z)
 
@@ -484,12 +484,12 @@ PBS documented this transaction chain as clear quid pro quo.
 - a16z total AUM: $46 billion
 - Major crypto holdings: Coinbase board seat (Marc Andreessen), investments across Ripple, Solana, Polygon, Uniswap, and other major protocols
 
-### Political Spending — Fairshake:
+### Political Spending. Fairshake:
 - Marc Andreessen personal: $9.5M to Fairshake (2023), $2.5M to Right For America (Trump PAC), $844,600 directly to Trump campaign
 - Ben Horowitz personal: $9.5M to Fairshake (2023), $2.5M to Right For America
 - a16z corporate: $25M to Fairshake (2024), $1.75M to Congressional PACs
 
-### Political Spending — AI (Replication):
+### Political Spending. AI (Replication):
 - a16z co-founded "Leading the Future" AI super PAC ($100M+, 2025)
 - Josh Vlasto (Fairshake strategist) serves as lead spokesman for both Fairshake and Leading the Future
 
@@ -501,7 +501,7 @@ PBS documented this transaction chain as clear quid pro quo.
 - Ripple corporate to Fairshake: $45M (2024), $25M (post-election), $25M additional (2026) = $95M cumulative
 - Trump inaugural fund: $4.9M (second-largest crypto inaugural donor)
 
-### Political Outcome — Direct Causation:
+### Political Outcome. Direct Causation:
 Ripple's five-year SEC enforcement battle ended in March 2025 with a $50M settlement (down from $125M ordered, down from $2B demand). SEC appeal dismissed. XRP legal status confirmed as non-security in secondary retail markets. This $50M Fairshake investment directly correlated with SEC enforcement reversal and regulatory retreat.
 
 **Network Ties:** Attended Trump's Mar-a-Lago pre-inauguration meetings. Stuart Alderoty (Ripple Chief Legal Officer) made direct Trump donations.
@@ -512,12 +512,12 @@ Ripple's five-year SEC enforcement battle ended in March 2025 with a $50M settle
 - Combined $4.9 million to Fairshake PAC
 - Each twin donated $1 million personally to Trump's reelection campaign
 
-### 2026 Cycle — Strategic Defection:
+### 2026 Cycle. Strategic Defection:
 - Abandoned Fairshake's "bipartisan" model
 - Funneled $21 million in Bitcoin to "Digital Freedom Fund," explicitly Trump-aligned super PAC
 - This defection signals the dissolution of Fairshake's nonpartisan veneer by 2026
 
-**Significance:** The Winklevosses' departure from Fairshake indicates that major crypto donors believe the bipartisan strategy is no longer necessary — Republican control of Congress and Trump presidency have delivered the regulatory victories. Future crypto spending will likely consolidate around explicitly partisan vehicles aligned with the party that has consistently delivered industry priorities.
+**Significance:** The Winklevosses' departure from Fairshake indicates that major crypto donors believe the bipartisan strategy is no longer necessary. Republican control of Congress and Trump presidency have delivered the regulatory victories. Future crypto spending will likely consolidate around explicitly partisan vehicles aligned with the party that has consistently delivered industry priorities.
 
 ---
 
@@ -538,13 +538,13 @@ Ripple's five-year SEC enforcement battle ended in March 2025 with a $50M settle
 - Congressional emails sent 2025: 925,000
 - Voter registration tool usage: 121,000
 - Goal: 4 million advocates before 2026 midterms
-- **Function:** Industry-funded grassroots astroturf — corporate movement dressed as popular mobilization
+- **Function:** Industry-funded grassroots astroturf, corporate movement dressed as popular mobilization
 
 ### Industry Lobbying Surge (Six-Year Trend)
 - Crypto lobbying spending increased **922%** over 6 years to $25M+ annually
 - **44% of all corporate election money in 2024** came from crypto sector
 
-This makes crypto the fastest-growing industry political spender under Citizens United. Over three election cycles (2020–2024), crypto corporations spent $129M total — 92% of it in 2024 alone. Crypto is already second to fossil fuels in cumulative corporate spending since 2010, despite being an industry barely a decade old.
+This makes crypto the fastest-growing industry political spender under Citizens United. Over three election cycles (2020–2024), crypto corporations spent $129M total, 92% of it in 2024 alone. Crypto is already second to fossil fuels in cumulative corporate spending since 2010, despite being an industry barely a decade old.
 
 Sources: Public Citizen (Tier 2), Bloomberg (Tier 2)
 
@@ -552,7 +552,7 @@ Sources: Public Citizen (Tier 2), Bloomberg (Tier 2)
 
 ## The "Bipartisan" Strategy as Deliberate Leverage Mechanism
 
-Fairshake's stated nonpartisanship was not a principle — it was a strategic mechanism for maximizing leverage over BOTH parties simultaneously.
+Fairshake's stated nonpartisanship was not a principle, it was a strategic mechanism for maximizing leverage over BOTH parties simultaneously.
 
 ### 2024 Playbook:
 - Backed Ruben Gallego (D-AZ) and Elissa Slotkin (D-MI) while simultaneously backing Bernie Moreno (R-OH)
@@ -594,15 +594,15 @@ Sources: Public Citizen (Tier 2)
 ## Enemies / Opposition
 
 - [[_Elizabeth Warren Master Profile|Elizabeth Warren]] (Senate Banking Committee, leading crypto regulation advocate)
-— Consumer advocacy organizations (Public Citizen, Americans for Financial Reform)
-— Former SEC enforcement staff (Gary Gensler's retained team)
-— Democratic senators who voted against Paul Atkins confirmation
-— Progressive grassroots organizations opposing crypto deregulation
-— State financial regulators (California DFPI, New York financial services)
+, Consumer advocacy organizations (Public Citizen, Americans for Financial Reform)
+, Former SEC enforcement staff (Gary Gensler's retained team)
+, Democratic senators who voted against Paul Atkins confirmation
+, Progressive grassroots organizations opposing crypto deregulation
+, State financial regulators (California DFPI, New York financial services)
 
 ---
 
-## Katie Porter Case Study — Disciplinary Spending
+## Katie Porter Case Study. Disciplinary Spending
 
 > [!money]
 > **Spending:** Fairshake spent $10,041,117 opposing Katie Porter in the March 2024 California Democratic Senate primary.
@@ -619,11 +619,11 @@ Sources: Axios (Tier 2), Public Citizen (Tier 2), CryptoRank (Tier 3, UNVERIFIED
 
 ---
 
-## David Sacks — White House "Crypto Czar" and PayPal Mafia Network
+## David Sacks. White House "Crypto Czar" and PayPal Mafia Network
 
-**Background:** David Sacks is a South African-born investor, co-founder of Yammer (acquired by Microsoft for $1.2B), PayPal COO, and current general partner at Craft Ventures. He is a founding member of the PayPal Mafia — the informal network of PayPal alumni including Elon Musk, Peter Thiel, Reid Hoffman, and Max Levchin who went on to found or fund major tech companies.
+**Background:** David Sacks is a South African-born investor, co-founder of Yammer (acquired by Microsoft for $1.2B), PayPal COO, and current general partner at Craft Ventures. He is a founding member of the PayPal Mafia, the informal network of PayPal alumni including Elon Musk, Peter Thiel, Reid Hoffman, and Max Levchin who went on to found or fund major tech companies.
 
-**Trump Appointment (Late 2024):** Trump named Sacks as "White House AI & Crypto Czar" — the first-ever dedicated White House cryptocurrency advisor role. Sacks operates through Craft Ventures and sits on the Presidential Council of Advisors for Science and Technology, positions not requiring Senate confirmation.
+**Trump Appointment (Late 2024):** Trump named Sacks as "White House AI & Crypto Czar", the first-ever dedicated White House cryptocurrency advisor role. Sacks operates through Craft Ventures and sits on the Presidential Council of Advisors for Science and Technology, positions not requiring Senate confirmation.
 
 ### Ethics & Conflict Disclosure:
 - Axios investigation (March 2025): Sacks sold $85M in personal crypto-related assets and Craft Ventures liquidated $115M in crypto assets to comply with government ethics requirements
@@ -657,7 +657,7 @@ Sources: Financial Times (Tier 2), Gate.com (Tier 3, UNVERIFIED), Observer (Tier
 
 ---
 
-## Sources — Complete Merged List
+## Sources. Complete Merged List
 
 ### Tier 1 (Government/FEC):
 - [OpenSecrets: Fairshake PAC FEC summary 2024](https://www.opensecrets.org/political-action-committees-pacs/fairshake-pac/C00835959/summary/2024) (VERIFIED) (UNVERIFIED)
@@ -741,7 +741,7 @@ Sources: Financial Times (Tier 2), Gate.com (Tier 3, UNVERIFIED), Observer (Tier
 - [Follow the Crypto 2024: Race outcomes tracking](https://www.followthecrypto.org/2024/) (VERIFIED) (UNVERIFIED)
 - [Nasdaq: Trump nominates Paul Atkins](https://www.nasdaq.com/articles/trump-nominates-paul-atkins-replace-gensler-sec-chair) (VERIFIED) (UNVERIFIED)
 
-### Law Firm Analysis (Tier 3 — Professional, not journalistic):
+### Law Firm Analysis (Tier 3. Professional, not journalistic):
 - ~~[DLA Piper: SAB 121 saga](https://www.dlapiper.com/insights/publications/blockchain-and-digital-assets-news-and-trends/2024/the-saga-of-sab-121)~~ (URL broken, archived by Ops) (UNVERIFIED)
 - [A&O Shearman: FIT21 House passage](https://www.aoshearman.com/en/insights/house-passes-financial-innovation-and-technology-for-the-21st-century-act) (VERIFIED) (UNVERIFIED)
 - [Jones Day: GENIUS Act Senate passage](https://www.jonesday.com/en/insights/2025/06/senate-passes-genius-act-clearing-hurdle-for-federal-stablecoin-framework) (VERIFIED) (UNVERIFIED)

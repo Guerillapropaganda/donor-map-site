@@ -16,7 +16,7 @@ tags: #donor
 
 ### Purpose
 
-Central index of every donor, PAC, dark money group, and industry bloc tracked in this vault. This is the backbone of the donor-first analytical framework — every politician profile should trace back to entries here.
+Central index of every donor, PAC, dark money group, and industry bloc tracked in this vault. This is the backbone of the donor-first analytical framework, every politician profile should trace back to entries here.
 
 **Companion spreadsheet:** Master Donor Database.xlsx (4 sheets: Individual Donors, Organizations/PACs, Industry Blocs, Vault Gap Analysis)
 
@@ -176,8 +176,8 @@ Central index of every donor, PAC, dark money group, and industry bloc tracked i
 - **$1.9 billion** in dark money (2024 record)
 - **70% Republican** among billionaire family donations ($1.84B of $2.6B)
 - **47%** of ALL corporate election spending came from crypto industry
-- **3.5x** — Koch network is 3.5x larger than RNC + GOP congressional committees combined
-- **$1.6 billion** — single largest dark money donation ever (Barre Seid → Leo's [[Marble Freedom Trust|Marble Freedom Trust]])
+- **3.5x**. Koch network is 3.5x larger than RNC + GOP congressional committees combined
+- **$1.6 billion**, single largest dark money donation ever (Barre Seid → Leo's [[Marble Freedom Trust|Marble Freedom Trust]])
 
 ---
 

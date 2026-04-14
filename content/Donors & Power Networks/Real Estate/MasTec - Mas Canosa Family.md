@@ -22,7 +22,7 @@ subawards-received: 50
 subawards-received-amount: 51876611853
 lobbying-spend: 180000
 lobbying-filings: 10
-related: "[[The Nuestra América Convoy — How the Donor Class Attacked a Humanitarian Mission]] · [[Helms-Burton Title III and the Bacardi Trademark Wars: How Corporate Lobbying Rewrote U.S.-Cuba Policy]] · [[_Marco Rubio Master Profile|Rubio]] · [[_Mario Diaz-Balart Master Profile|Diaz-Balart]] · [[_Carlos Gimenez Master Profile|Carlos Gimenez]] · [[Fanjul Family - Florida Crystals]] · [[LARA Fund - Mauricio Claver-Carone]] · [[Operation Southern Spear and the Cuba Fuel Blockade]] · [[Helms-Burton Title III and the Bacardi Trademark Wars]] · [[Bacardi - Bacardi USA]]"
+related: "[[The Nuestra América Convoy , How the Donor Class Attacked a Humanitarian Mission]] · [[Helms-Burton Title III and the Bacardi Trademark Wars: How Corporate Lobbying Rewrote U.S.-Cuba Policy]] · [[_Marco Rubio Master Profile|Rubio]] · [[_Mario Diaz-Balart Master Profile|Diaz-Balart]] · [[_Carlos Gimenez Master Profile|Carlos Gimenez]] · [[Fanjul Family - Florida Crystals]] · [[LARA Fund - Mauricio Claver-Carone]] · [[Operation Southern Spear and the Cuba Fuel Blockade]] · [[Helms-Burton Title III and the Bacardi Trademark Wars]] · [[Bacardi - Bacardi USA]]"
 source-types:
   - FEC
   - LDA

@@ -1,5 +1,5 @@
 ---
-title: "Mallory McMorrow Master Profile"
+title: "Mallory McMorrow"
 type: politician
 content-readiness: ready
 central-thesis: "Mallory McMorrow represents the establishment progressive model: a viral moment + exceptional fundraising charisma that translates to national donor networks, allowing a relatively junior state legislator to compete in a Senate primary against mor..."
@@ -80,7 +80,7 @@ The speech was posted to social media and went viral immediately:
 ### 2026 Senate fundraising (to date, May 2025):
 - $5+ million raised
 - Mix of sources: small-dollar progressives ($2.08 million from donors giving $200 or less), larger individual donors ($899,772 from $2K+ donors)
-- Notable donors include tech sector figures (Dug Song, Linh Song, Ron Klain — Biden's former chief of staff, Airbnb general counsel)
+- Notable donors include tech sector figures (Dug Song, Linh Song, Ron Klain. Biden's former chief of staff, Airbnb general counsel)
 
 ---
 
@@ -91,8 +91,8 @@ McMorrow's donor profile reveals the composition of her fundraising network:
 **Small-Dollar Base ($200 or less):** ~$2.08 million. These are likely: (1) progressives attracted by her viral speech, (2) online activists in LGBTQ+ communities, (3) educators/union members, (4) general Democrats in her Michigan district. This base is ideologically aligned with progressive politics but geographically dispersed (national small-dollar network rather than Michigan-concentrated).
 
 **Large Individual Donors ($2,000+ per election):** ~$899,772. This includes:
-- Ron Klain (Biden's former chief of staff, Airbnb's General Counsel) — $4,000
-- Dug Song & Linh Song (Duo Security co-founders, tech wealth) — multiple contributions
+- Ron Klain (Biden's former chief of staff, Airbnb's General Counsel), $4,000
+- Dug Song & Linh Song (Duo Security co-founders, tech wealth), multiple contributions
 - Steven Rhodes (former federal bankruptcy judge)
 - Tech sector wealth concentrated in California, Boston, and other tech hubs
 
@@ -139,7 +139,7 @@ This record shows McMorrow as a capable state legislator on social/cultural issu
 - McMorrow has secured the "Warren wing" of progressivism; El-Sayed has the "Sanders wing"
 
 Sources on Warren endorsement:
-- ~~[Elizabeth Warren backs Mallory McMorrow in Michigan Senate primary](https://thehill.com/homenews/campaign/5789748-elizabeth-warren-mallory-mcmorrow-michigan-senate/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[Elizabeth Warren backs Mallory McMorrow in Michigan Senate primary](https://thehill.com/homenews/campaign/5789748-elizabeth-warren-mallory-mcmorrow-michigan-senate/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [U.S. Senator Elizabeth Warren Endorses Mallory McMorrow in Michigan's U.S. Senate Race](https://www.mcmorrowformichigan.com/news/us-senator-elizabeth-warren-endorses-mallory-mcmorrow-in-michigans-us-senate-race) (Tier 1) (VERIFIED)
 
 ---
@@ -165,15 +165,15 @@ This is a wildcard with potential to shift the primary landscape.
 
 | Date | Donor | Amount | Given | Policy Outcome |
 |------|-------|--------|-------|----------------|
-| 2022-04 | 6,200 small-dollar progressive donors responding to viral floor speech rebuking "grooming" accusation — national media amplification | $250K in 24 hours; $2.35M total 2022 | April 19, 2022 (immediate) | Viral speech transforms state legislator into national political figure; fundraising proves "moment" is directly monetizable by progressive donors; 8M+ views in 24 hours |
-| 2022-2024 | National progressive donor network sustained by viral moment + DNC keynote (2024) + Warren endorsement (March 2025) | Warren donor network unlocked | 2022-2025 (establishment progressive pipeline) | Michigan state record: gun violence prevention, $15 minimum wage, abortion ban repeal, Medicaid expansion — culturally progressive record delivered; establishment progressive validation secured |
+| 2022-04 | 6,200 small-dollar progressive donors responding to viral floor speech rebuking "grooming" accusation, national media amplification | $250K in 24 hours; $2.35M total 2022 | April 19, 2022 (immediate) | Viral speech transforms state legislator into national political figure; fundraising proves "moment" is directly monetizable by progressive donors; 8M+ views in 24 hours |
+| 2022-2024 | National progressive donor network sustained by viral moment + DNC keynote (2024) + Warren endorsement (March 2025) | Warren donor network unlocked | 2022-2025 (establishment progressive pipeline) | Michigan state record: gun violence prevention, $15 minimum wage, abortion ban repeal, Medicaid expansion, culturally progressive record delivered; establishment progressive validation secured |
 
 #### Tech Wealth / Establishment Progressive Model
 
 | Date | Donor | Amount | Given | Policy Outcome |
 |------|-------|--------|-------|----------------|
-| 2025-Q2 | Hybrid model emerges — $2.08M small-dollar + $899K from $2K+ donors including Ron Klain ($4K, Airbnb GC), Dug Song & Linh Song (Duo Security founders) | $5M+ total Senate fundraising | 2025 Q1-Q2 | Tech-wealth donors entering donor base alongside small-dollar progressives; Warren endorsement signals establishment backing; 3x El-Sayed's fundraising |
-| 2025-2026 | Tech-wealth + professional class donors — strong on LGBTQ+ rights, reproductive rights, gun safety; underdeveloped on Medicare for All, wealth tax, economic restructuring | $5M+ with hybrid donor base | 2025-2026 (ongoing) | Beneficiary: tech-wealth donors get social progressivism without economic threat; small-dollar base expects economic populism that may never arrive; the Warren model in action |
+| 2025-Q2 | Hybrid model emerges, $2.08M small-dollar + $899K from $2K+ donors including Ron Klain ($4K, Airbnb GC), Dug Song & Linh Song (Duo Security founders) | $5M+ total Senate fundraising | 2025 Q1-Q2 | Tech-wealth donors entering donor base alongside small-dollar progressives; Warren endorsement signals establishment backing; 3x El-Sayed's fundraising |
+| 2025-2026 | Tech-wealth + professional class donors, strong on LGBTQ+ rights, reproductive rights, gun safety; underdeveloped on Medicare for All, wealth tax, economic restructuring | $5M+ with hybrid donor base | 2025-2026 (ongoing) | Beneficiary: tech-wealth donors get social progressivism without economic threat; small-dollar base expects economic populism that may never arrive; the Warren model in action |
 
 > [!money] The Damning Sequences
 > **Viral moment to tech wealth (2022-2025):** McMorrow's $250K one-day fundraising haul came from 6,200 small-dollar progressive donors responding to an authentic cultural moment. Three years later, her Senate fundraising includes Ron Klain ($4K, Biden's former chief of staff and Airbnb general counsel) and Duo Security founders. The trajectory tracks the Warren model precisely: cultural authenticity opens the door to progressive credibility, then tech wealth and establishment donors fill the sustained fundraising. The small-dollar base provided the launch; the tech sector provides the runway.
@@ -184,11 +184,11 @@ This is a wildcard with potential to shift the primary landscape.
 
 ## Rhetorical Signature Moves
 
-1. **The personal authenticity frame:** "I'm a straight mom," "I'm a teacher," "I'm a wife" — McMorrow uses personal identity descriptors to establish authenticity and relatability. This is distinct from credential-based framing (El-Sayed's medical credentials) or policy framing (Sanders' economic analysis).
+1. **The personal authenticity frame:** "I'm a straight mom," "I'm a teacher," "I'm a wife". McMorrow uses personal identity descriptors to establish authenticity and relatability. This is distinct from credential-based framing (El-Sayed's medical credentials) or policy framing (Sanders' economic analysis).
 
-2. **The unscripted defiance:** The viral speech worked because it appeared unscripted and visceral — a genuine emotional response rather than prepared remarks. McMorrow's brand depends on this appearance of authenticity, though the brand itself is now deeply constructed and monetized.
+2. **The unscripted defiance:** The viral speech worked because it appeared unscripted and visceral, a genuine emotional response rather than prepared remarks. McMorrow's brand depends on this appearance of authenticity, though the brand itself is now deeply constructed and monetized.
 
-3. **The expansive solidarity:** "I'm fighting for all of us" — McMorrow's framing is inclusive but vague on what the fight is actually about. This allows her to hold together both small-dollar progressives and larger tech-sector donors without making economic commitments that would alienate either constituency.
+3. **The expansive solidarity:** "I'm fighting for all of us". McMorrow's framing is inclusive but vague on what the fight is actually about. This allows her to hold together both small-dollar progressives and larger tech-sector donors without making economic commitments that would alienate either constituency.
 
 4. **The "proven leader" positioning:** Warren's endorsement framing emphasizes "winner" status. McMorrow's brand now emphasizes electoral viability and mainstream acceptance rather than policy radicalism.
 
@@ -230,16 +230,16 @@ The Warren endorsement crystallizes the class alignment. Elizabeth Warren chose 
 
 ## Analytical Patterns
 
-**The Pilot Program** — McMorrow's viral moment created a short-term fundraising spike ($250K in 24 hours, $2.35M total in 2022), but the sustained 2026 fundraising model ($5M+ with mix of small-dollar and tech wealth donors) shows that viral moments alone cannot sustain Senate campaigns. Her state legislative record on social issues (gun violence, abortion, LGBTQ+ rights) represents genuine policy victories, but these are pilot programs: targeted reforms that don't threaten structural capital interests. Her $15 minimum wage and Medicaid expansion victories are real gains for constituents but fall short of single-payer or wealth redistribution that would threaten her tech-sector donor base.
+**The Pilot Program**. McMorrow's viral moment created a short-term fundraising spike ($250K in 24 hours, $2.35M total in 2022), but the sustained 2026 fundraising model ($5M+ with mix of small-dollar and tech wealth donors) shows that viral moments alone cannot sustain Senate campaigns. Her state legislative record on social issues (gun violence, abortion, LGBTQ+ rights) represents genuine policy victories, but these are pilot programs: targeted reforms that don't threaten structural capital interests. Her $15 minimum wage and Medicaid expansion victories are real gains for constituents but fall short of single-payer or wealth redistribution that would threaten her tech-sector donor base.
 
-**The Two-Audience Problem** — McMorrow maintains authenticity with small-dollar progressives through her viral moment branding and social justice rhetoric, while simultaneously cultivating large tech-sector donors (Ron Klain, Duo Security founders) whose interests align with business-friendly economic policy. Her state record emphasizes cultural progressivism (LGBTQ+ rights, gun safety, abortion) while avoiding economic populism that might alienate tech donors. The tension: can she maintain grassroots enthusiasm while serving establishment tech interests, or will the contradiction eventually force a choice?
+**The Two-Audience Problem**. McMorrow maintains authenticity with small-dollar progressives through her viral moment branding and social justice rhetoric, while simultaneously cultivating large tech-sector donors (Ron Klain, Duo Security founders) whose interests align with business-friendly economic policy. Her state record emphasizes cultural progressivism (LGBTQ+ rights, gun safety, abortion) while avoiding economic populism that might alienate tech donors. The tension: can she maintain grassroots enthusiasm while serving establishment tech interests, or will the contradiction eventually force a choice?
 
 ---
 
 ## Sources
 
 - [Mallory McMorrow - FEC Candidate Page](https://www.fec.gov/data/candidate/S6MI00392/) (Tier 1) (VERIFIED)
-- ~~[MCMORROW, MALLORY - FollowTheMoney.org](https://www.followthemoney.org/tools/election-overview?eid=44066166&default=candidate)~~ (was FollowTheMoney — site merged into OpenSecrets, all URLs dead) (Tier 1)
+- ~~[MCMORROW, MALLORY - FollowTheMoney.org](https://www.followthemoney.org/tools/election-overview?eid=44066166&default=candidate)~~ (was FollowTheMoney, site merged into OpenSecrets, all URLs dead) (Tier 1)
 - [Viral speech: Michigan Sen. Mallory McMorrow fires back at colleague's 'grooming' accusation](https://www.clickondetroit.com/news/local/2022/04/20/viral-speech-michigan-sen-mallory-mcmorrow-fires-back-at-colleagues-grooming-accusation/) (Tier 2) (VERIFIED)
 - [Democrat McMorrow's rousing anti-hate speech leads to $250,000 in donations in one day](https://www.metrotimes.com/news/democrat-mcmorrows-rousing-anti-hate-speech-leads-to-250000-in-donations-in-one-day-29865253/) (Tier 2) (VERIFIED)
 - [Elizabeth Warren backs Mallory McMorrow in Michigan Senate primary](https://thehill.com/homenews/campaign/5789748-elizabeth-warren-mallory-mcmorrow-michigan-senate/) (Tier 2)

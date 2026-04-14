@@ -73,21 +73,21 @@ Bush's presidency was the largest wealth transfer to the donor class in postwar 
 
 ## Class Analysis
 
-Bush's presidency represents the clearest postwar example of **"Donor-Class Override"**—policies that directly contradicted constituency interest (Iraq War, deregulation, tax cuts favoring the wealthy) but served donor interests perfectly. The "compassionate conservatism" brand was pure marketing; the actual policy outcome was a systematic transfer of wealth and power to corporate elites.
+Bush's presidency represents the clearest postwar example of **"Donor-Class Override"**, policies that directly contradicted constituency interest (Iraq War, deregulation, tax cuts favoring the wealthy) but served donor interests perfectly. The "compassionate conservatism" brand was pure marketing; the actual policy outcome was a systematic transfer of wealth and power to corporate elites.
 
-The Iraq War exemplifies the revolving door: Cheney's Halliburton received no-bid contracts while Cheney maintained financial ties to the company. This is not corruption in the legalistic sense (no bribes were exchanged); it is structural alignment—the political figure and donor class share the same economic interest and ideology.
+The Iraq War exemplifies the revolving door: Cheney's Halliburton received no-bid contracts while Cheney maintained financial ties to the company. This is not corruption in the legalistic sense (no bribes were exchanged); it is structural alignment, the political figure and donor class share the same economic interest and ideology.
 
 Bush's use of faith-based rhetoric, patriotic framing post-9/11, and "compassionate" branding demonstrates the **"Villain Framing"** pattern: blame external actors (terrorists, market inefficiencies) rather than conduct class analysis of who benefits from the policy outcomes.
 
 ## Sources
 
 - [FEC presidential campaign finance records: 2000, 2004](https://www.fec.gov) (Tier 1) (VERIFIED)
-- ~~[OpenSecrets: George W. Bush presidential profile](https://www.opensecrets.org/presidential-races/candidate?id=N00008072)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[OpenSecrets: George W. Bush presidential profile](https://www.opensecrets.org/presidential-races/candidate?id=N00008072)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [Iraq War cost estimate: $2 trillion](https://costsofwar.watson.brown.edu/) (Tier 2) (VERIFIED)
-- ~~[Halliburton Iraq contracts: $39.5 billion](https://www.publicintegrity.org/defense-contractors-profiting-iraq)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
-- ~~[Gramm-Leach-Bliley Act and Glass-Steagall repeal](https://www.congress.gov)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[Halliburton Iraq contracts: $39.5 billion](https://www.publicintegrity.org/defense-contractors-profiting-iraq)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Gramm-Leach-Bliley Act and Glass-Steagall repeal](https://www.congress.gov)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [2008 Financial Crisis: TARP bailout and deregulation timeline](https://www.gao.gov) (Tier 1) (VERIFIED)
-- ~~[Bush tax cuts (EGTRRA 2001, JGTRRA 2003)](https://www.congress.gov)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[Bush tax cuts (EGTRRA 2001, JGTRRA 2003)](https://www.congress.gov)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 
 ---
 

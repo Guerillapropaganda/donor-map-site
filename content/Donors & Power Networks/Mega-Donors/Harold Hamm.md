@@ -183,7 +183,7 @@ Hamm refused the Energy Secretary position in 2016 because accepting it would ha
 ### Sources
 
 ### Net Worth & Company Profile:
-- ~~[Bloomberg Billionaires Index. Harold Hamm](https://www.bloomberg.com/billionaires/profiles/harold-g-hamm/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[Bloomberg Billionaires Index. Harold Hamm](https://www.bloomberg.com/billionaires/profiles/harold-g-hamm/)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [Wikipedia. Harold Hamm](https://en.wikipedia.org/wiki/Harold_Hamm) (Tier 3) (VERIFIED)
 - [Celebrity Net Worth. Harold Hamm Net Worth](https://www.celebritynetworth.com/richest-businessmen/richest-billionaires/harold-hamm-net-worth/) (Tier 3) (VERIFIED)
 - [Continental Resources. Official Company Site](https://www.clr.com/operations/bakken/) (Tier 1) (VERIFIED)

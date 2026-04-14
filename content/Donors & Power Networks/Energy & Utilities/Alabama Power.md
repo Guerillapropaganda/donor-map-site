@@ -91,7 +91,7 @@ Alabama Power distributed an estimated $5-8M in direct and dark money campaign c
 
 Alabama Power has secured: monopoly rate-setting power (rates increased 40%+ over past decade while service quality declined), minimal renewable energy requirements despite state solar potential, ability to charge customers for construction cost overruns (Kemper coal plant added billions to customer bills despite plant cancellation), and regulatory capture preventing meaningful Public Service Commission oversight. The company continues operating aging coal plants while resisting transition to renewables, maximizing near-term profits despite long-term infrastructure obsolescence.
 
-> [!money] Alabama Power's rate increases have outpaced inflation and wage growth, revealing that regulatory capture allows utilities to externalize infrastructure costs onto customers. The company's ability to charge customers for failed projects (Kemper) demonstrates that monopoly power plus regulatory capture eliminates market accountability—customers cannot choose providers or service quality.
+> [!money] Alabama Power's rate increases have outpaced inflation and wage growth, revealing that regulatory capture allows utilities to externalize infrastructure costs onto customers. The company's ability to charge customers for failed projects (Kemper) demonstrates that monopoly power plus regulatory capture eliminates market accountability, customers cannot choose providers or service quality.
 
 ### Class Analysis
 
@@ -100,7 +100,7 @@ Alabama Power exemplifies utility monopoly power in states with weak regulatory 
 ### Sources
 
 - [Alabama Reflector: How Alabama Power kept bills up and foes out](https://alabamareflector.com/2025/11/04/how-alabama-power-kept-bills-up-and-foes-out-to-become-one-of-the-nations-most-powerful-utitilies/) (Tier 2) (VERIFIED)
-- ~~[OpenSecrets: Alabama Power lobbying spending](https://www.opensecrets.org/orgs/southern-company)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[OpenSecrets: Alabama Power lobbying spending](https://www.opensecrets.org/orgs/southern-company)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 
 ---
 

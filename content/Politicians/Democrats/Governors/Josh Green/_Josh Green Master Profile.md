@@ -1,8 +1,8 @@
 ---
-title: "Josh Green Master Profile"
+title: "Josh Green"
 type: politician
 content-readiness: ready
-central-thesis: "Josh Green represents a different political archetype than Abbott or Sanders: he is not a donor-captured politician in the traditional sense. Instead, Green embodies the donor-embedded expert — a politician whose professional expertise (medicine) ..."
+central-thesis: "Josh Green represents a different political archetype than Abbott or Sanders: he is not a donor-captured politician in the traditional sense. Instead, Green embodies the donor-embedded expert , a politician whose professional expertise (medicine) ..."
 last-updated: 2026-04-13
 source-tier: 1
 parent: null
@@ -36,11 +36,11 @@ Green's distinguishing feature: he is the first sitting physician to become a mo
 
 ## The Central Thesis
 
-Josh Green represents a different political archetype than Abbott or Sanders: he is not a donor-captured politician in the traditional sense. Instead, Green embodies the donor-embedded expert — a politician whose professional expertise (medicine) provides ideological cover for maintaining the healthcare industry status quo.
+Josh Green represents a different political archetype than Abbott or Sanders: he is not a donor-captured politician in the traditional sense. Instead, Green embodies the donor-embedded expert, a politician whose professional expertise (medicine) provides ideological cover for maintaining the healthcare industry status quo.
 
 The central question: does Green's physician background translate into challenging pharma/insurance donor interests, or does the "doctor-governor" brand provide cover for maintaining the healthcare industry status quo?
 
-The evidence suggests the latter. Despite healthcare expertise, Green's policy record shows accommodation to major healthcare donors and industry interests rather than confrontation. His response to the Maui wildfire (2023) — the catastrophic event that defined his governorship — reveals the distribution question: who got the rebuilding contracts, who profited from FEMA funding flows, how did healthcare interests position themselves in the recovery.
+The evidence suggests the latter. Despite healthcare expertise, Green's policy record shows accommodation to major healthcare donors and industry interests rather than confrontation. His response to the Maui wildfire (2023), the catastrophic event that defined his governorship, reveals the distribution question: who got the rebuilding contracts, who profited from FEMA funding flows, how did healthcare interests position themselves in the recovery.
 
 Hawaii's unique healthcare context (employer mandate since 1974) means insurance industry involvement is deeper than in other states. Green's position as a physician in this ecosystem means he navigates donor relationships through professional networks rather than just political ones.
 
@@ -64,7 +64,7 @@ Hawaii's unique healthcare context (employer mandate since 1974) means insurance
 - Medical device manufacturers
 
 ### The Disaster Industry (Insurance, Rebuilding Contractors, FEMA Administration):
-- [[The Maui Wildfire Response and the Rebuilding Money Trail]] — $4B settlement, contractor networks, FEMA dynamics, insurance industry positioning
+- [[The Maui Wildfire Response and the Rebuilding Money Trail]], $4B settlement, contractor networks, FEMA dynamics, insurance industry positioning
 
 ### The Tourism Industry (Hawaii's Dominant Economic Force):
 - Major hotels, resort operators, airlines
@@ -88,13 +88,13 @@ Hawaii's unique healthcare context (employer mandate since 1974) means insurance
 | Date | Donor | Amount | Given | Policy Outcome |
 |------|-------|--------|-------|----------------|
 | 2021-H1 | 15 physicians ($17.25K) + John Henry Felix/HMAA ($6K) + Mark Mugiishi/HMSA CEO ($6K) + Centene Corp PAC ($6K) + 3 Centene executives ($15K) | $50K+ healthcare sector | 2021 H1 | Physician-governor elected; healthcare industry embedded from campaign launch; total campaign raises $2.48M |
-| 2024-06 | Same healthcare donor base — established providers benefit from SB 1035 | $74M/year savings for healthcare industry | 2021-2024 (3-year pipeline) | Signs SB 1035 exempting medical services from excise tax — $74M/year in savings flows to same healthcare industry that funded campaign; physician-governor's signature healthcare achievement is a tax cut for providers |
+| 2024-06 | Same healthcare donor base, established providers benefit from SB 1035 | $74M/year savings for healthcare industry | 2021-2024 (3-year pipeline) | Signs SB 1035 exempting medical services from excise tax, $74M/year in savings flows to same healthcare industry that funded campaign; physician-governor's signature healthcare achievement is a tax cut for providers |
 
 #### Hawaiian Electric / Wildfire Settlement Protection
 
 | Date | Donor | Amount | Given | Policy Outcome |
 |------|-------|--------|-------|----------------|
-| 2022-07 to 2023-10 | Hawaiian Electric executives — HECO President Shelee Kimura ($4K), HEI CEO Scott Seu ($3K+) | $19,375 from HECO executives | July 2022 through October 2023 | Maui wildfire (August 2023) kills 101+ people; HECO power lines identified as ignition source; Green negotiates $4.037B settlement → HECO liability capped at ~$1.99B against $5.5B actual damages; company avoids bankruptcy |
+| 2022-07 to 2023-10 | Hawaiian Electric executives. HECO President Shelee Kimura ($4K), HEI CEO Scott Seu ($3K+) | $19,375 from HECO executives | July 2022 through October 2023 | Maui wildfire (August 2023) kills 101+ people; HECO power lines identified as ignition source; Green negotiates $4.037B settlement → HECO liability capped at ~$1.99B against $5.5B actual damages; company avoids bankruptcy |
 
 #### Tourism Industry / Disaster Recovery Pipeline
 
@@ -194,15 +194,15 @@ Hawaii's unique healthcare context makes the class analysis structural rather th
 
 ## Analytical Patterns
 
-**The Genuine Win + Structural Limit** — Green's disaster response to the August 2023 Maui wildfires (housing programs, $4B settlement negotiation) represents genuine crisis management and visible accountability to affected communities. His healthcare worker support and SB 1035 reimbursement increases are real material gains. However, the structural limit is immediate: his response preserved private insurance company profitability while claiming healthcare equity. The settlement money flowed to established contractors and insurance adjusters rather than being restructured to create community ownership or public control of rebuilding infrastructure. Green managed the crisis without threatening the insurance industry's structural position.
+**The Genuine Win + Structural Limit**. Green's disaster response to the August 2023 Maui wildfires (housing programs, $4B settlement negotiation) represents genuine crisis management and visible accountability to affected communities. His healthcare worker support and SB 1035 reimbursement increases are real material gains. However, the structural limit is immediate: his response preserved private insurance company profitability while claiming healthcare equity. The settlement money flowed to established contractors and insurance adjusters rather than being restructured to create community ownership or public control of rebuilding infrastructure. Green managed the crisis without threatening the insurance industry's structural position.
 
-**The Two-Audience Problem** — Green must perform "physician-governor" expertise and compassion to Hawaii voters while maintaining alignment with healthcare industry donors (UnitedHealth, Kaiser, insurance interests). His healthcare background suggests he should challenge industry pricing and access barriers; his actual policy record preserves them. He can deliver targeted wins (reimbursement increases, SB 1035) to healthcare workers while ensuring the insurance industry's core business model remains unchallenged. One message to frontline healthcare workers: "I'm fighting for you"; another message to insurance industry donors: "I'm protecting the market structure."
+**The Two-Audience Problem**. Green must perform "physician-governor" expertise and compassion to Hawaii voters while maintaining alignment with healthcare industry donors (UnitedHealth, Kaiser, insurance interests). His healthcare background suggests he should challenge industry pricing and access barriers; his actual policy record preserves them. He can deliver targeted wins (reimbursement increases, SB 1035) to healthcare workers while ensuring the insurance industry's core business model remains unchallenged. One message to frontline healthcare workers: "I'm fighting for you"; another message to insurance industry donors: "I'm protecting the market structure."
 
 ---
 
 ## Rhetorical Signature Moves
 
-1. **The Medical Expertise Authority:** Green frames policy decisions through healthcare professional expertise. When challenged on healthcare costs or access, response is framed as medical knowledge applied to complex problems — neutral expertise rather than political choice.
+1. **The Medical Expertise Authority:** Green frames policy decisions through healthcare professional expertise. When challenged on healthcare costs or access, response is framed as medical knowledge applied to complex problems, neutral expertise rather than political choice.
 
 2. **The Compassion Framing:** Disaster response and healthcare policy are framed through language of caring and support. The rhetoric neutralizes structural critique by redefining the issue as caring for people rather than examining distribution of resources.
 
@@ -214,13 +214,13 @@ Hawaii's unique healthcare context makes the class analysis structural rather th
 
 ## Sources
 
-- [OpenSecrets: Josh Green donor profile](https://www.opensecrets.org/members-of-congress/) (VERIFIED) (Tier 1 — Hawaii statewide) (Tier 1)
+- [OpenSecrets: Josh Green donor profile](https://www.opensecrets.org/members-of-congress/) (VERIFIED) (Tier 1. Hawaii statewide) (Tier 1)
 - [Governor Hawaii: Gov. Green Renews Commitment to House FEMA-Ineligible Maui Wildfire Survivors](https://governor.hawaii.gov/featured/gov-green-renews-commitment-to-house-fema-ineligible-maui-wildfire-survivors/) (Tier 1) (VERIFIED)
 - [Hawaii News Now: Gov. Green announces $4 billion settlement for Maui wildfires](https://www.hawaiinewsnow.com/2024/08/03/gov-green-announces-historic-4-billion-settlement-maui-wildfire-anniversary-nears/) (Tier 2) (VERIFIED)
 - [NPR: Hawaii governor vows to block land grabs as fire-ravaged Maui rebuilds](https://www.npr.org/2023/08/17/1194351587/hawaii-governor-vows-to-block-land-grabs-as-fire-ravaged-maui-rebuilds) (Tier 2) (VERIFIED)
 - [Governing: Gov. Josh Green Reflects on Maui Wildfires a Year Later](https://www.governing.com/resilience/gov-josh-green-reflects-on-maui-wildfires-a-year-later) (Tier 2) (VERIFIED)
 - [Associated Press: Hawaii Gov. Josh Green tells AP $4B settlement for 2023 Maui wildfire](https://www.hawaiinewsnow.com/2024/08/03/gov-green-announces-historic-4-billion-settlement-maui-wildfire-anniversary-nears/) (Tier 2) (VERIFIED)
-- ~~[Maui Now: Gov. Green Renews Commitment with 450-unit Ka La'i Ola project](https://mauinow.com/2024/04/23/gov-green-renews-commitment-to-house-fema-ineligible-maui-wildfire-survivors/ble-maui-wildfire-survivors-with-450-unit-ka-lai-ola-project/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[Maui Now: Gov. Green Renews Commitment with 450-unit Ka La'i Ola project](https://mauinow.com/2024/04/23/gov-green-renews-commitment-to-house-fema-ineligible-maui-wildfire-survivors/ble-maui-wildfire-survivors-with-450-unit-ka-lai-ola-project/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 
 ## Committee Assignments (Congress.gov)
 

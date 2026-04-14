@@ -75,11 +75,11 @@ Yee made specific public statements about pension fund governance:
 This suggests Yee favored active board questioning of management, which is a progressive governance position.
 
 2. **Board Meeting Frequency (2020):**
-Yee advocated for more regular CalPERS board meetings during the pandemic, stating that "in this time now where our oversight role is heightened given the pandemic, the recession ... it seems to me we should schedule more regular meetings."
+Yee advocated for more regular CalPERS board meetings during the pandemic, stating that "in this time now where our oversight role is heightened given the pandemic, the recession .. it seems to me we should schedule more regular meetings."
 
 This suggests Yee wanted more intensive board oversight during a crisis period.
 
-3. **Board Director Attributes — Climate Risk (2020):**
+3. **Board Director Attributes. Climate Risk (2020):**
 Yee led PERS Investment Committee in voting to amend board director attributes to specifically include expertise in climate change risk management strategies.
 
 This suggests Yee was positioning pension fund governance on environmental/climate issues.
@@ -175,7 +175,7 @@ Yee's campaign claim is "I've audited the state's spending for 8 years; I know w
 - Pension fund cost optimization (particularly manager fees)
 - Progressive fiscal policy analysis
 
-A fiscal watchdog who watches state spending but not corporate tax avoidance or pension fund costs is a limited watchdog — one who may conclude that the problem is government waste rather than insufficiently aggressive taxation.
+A fiscal watchdog who watches state spending but not corporate tax avoidance or pension fund costs is a limited watchdog, one who may conclude that the problem is government waste rather than insufficiently aggressive taxation.
 
 ---
 

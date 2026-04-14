@@ -30,7 +30,7 @@ related: "[[_Donald Trump Master Profile|Trump]] · [[_Markwayne Mullin Master P
 
 Kristi Lynn Noem (born November 30, 1971). Republican politician who served as the 8th United States Secretary of Homeland Security from January 2025 until her removal in March 2026. Previously the 33rd Governor of South Dakota (2019–2025) and U.S. Representative for South Dakota's at-large congressional district (2011–2019). State legislator (2007–2011).
 
-Born and raised on a ranch in Hamlin County, South Dakota. Attended Northern State University and South Dakota State University. Farmer and rancher before entering politics. Rose to national prominence during COVID-19 by refusing to issue lockdown orders — making South Dakota a testing ground for the libertarian pandemic response that the donor class preferred.
+Born and raised on a ranch in Hamlin County, South Dakota. Attended Northern State University and South Dakota State University. Farmer and rancher before entering politics. Rose to national prominence during COVID-19 by refusing to issue lockdown orders, making South Dakota a testing ground for the libertarian pandemic response that the donor class preferred.
 
 Fired by Trump in March 2026 after a $220 million taxpayer-funded DHS advertising scandal. Replaced by [[_Markwayne Mullin Master Profile|Markwayne Mullin]].
 
@@ -38,13 +38,13 @@ Fired by Trump in March 2026 after a $220 million taxpayer-funded DHS advertisin
 
 ## The Central Thesis
 
-Noem's career traces the arc of a donor-class politician who confused personal brand-building with governance. Her COVID-era refusal to lock down was funded by libertarian donors and amplified by conservative media into a national brand. That brand secured a Cabinet appointment. At DHS, she used taxpayer money to continue building the brand — a $220 million ad campaign featuring herself on horseback at Mount Rushmore. The scandal that ended her tenure wasn't that she was compromised; it was that the misconduct was so visually absurd (horse rentals, hair and makeup) that it became impossible to defend.
+Noem's career traces the arc of a donor-class politician who confused personal brand-building with governance. Her COVID-era refusal to lock down was funded by libertarian donors and amplified by conservative media into a national brand. That brand secured a Cabinet appointment. At DHS, she used taxpayer money to continue building the brand, a $220 million ad campaign featuring herself on horseback at Mount Rushmore. The scandal that ended her tenure wasn't that she was compromised; it was that the misconduct was so visually absurd (horse rentals, hair and makeup) that it became impossible to defend.
 
 ---
 
 ## The Core Contradiction
 
-Noem built a national profile on anti-government libertarianism — "South Dakota is open for business" during COVID, opposition to federal overreach, small-government rhetoric. Then as DHS Secretary, she authorized one of the largest taxpayer-funded self-promotional ad campaigns in federal history, awarded through no-bid contracts to firms connected to her political operation.
+Noem built a national profile on anti-government libertarianism, "South Dakota is open for business" during COVID, opposition to federal overreach, small-government rhetoric. Then as DHS Secretary, she authorized one of the largest taxpayer-funded self-promotional ad campaigns in federal history, awarded through no-bid contracts to firms connected to her political operation.
 
 > [!contradiction]
 > The small-government conservative spent $220 million of taxpayer money on ads starring herself. The ad featured Noem in cowboy regalia on horseback at Mount Rushmore — the visual language of rugged independence funded entirely by the federal government she claims to distrust. Hair and makeup: $4,000. Horse rental: $20,000. The total contract went to firms with direct ties to her political network, bypassing competitive bidding.
@@ -53,33 +53,33 @@ Noem built a national profile on anti-government libertarianism — "South Dakot
 
 ## Donor Class Map
 
-**Dark money pipeline:** While governor, Noem supplemented her income by secretly accepting $80,000 from a dark money nonprofit that promoted her political career — routed through a personal company she established in Delaware. The nonprofit's donors remain undisclosed. ProPublica described this as "a highly unusual arrangement."
+**Dark money pipeline:** While governor, Noem supplemented her income by secretly accepting $80,000 from a dark money nonprofit that promoted her political career, routed through a personal company she established in Delaware. The nonprofit's donors remain undisclosed. ProPublica described this as "a highly unusual arrangement."
 
-**Congressional donor profile (2011–2019):** As South Dakota's at-large representative, Noem's top industry donors included agriculture, insurance, and real estate — the core interests of South Dakota's extraction economy. She served on the House Ways and Means Committee, the most powerful committee for tax policy, making her a high-value target for corporate donors.
+**Congressional donor profile (2011–2019):** As South Dakota's at-large representative, Noem's top industry donors included agriculture, insurance, and real estate, the core interests of South Dakota's extraction economy. She served on the House Ways and Means Committee, the most powerful committee for tax policy, making her a high-value target for corporate donors.
 
 **COVID-era donor alignment:** Noem's refusal to issue lockdown orders aligned with the Koch Network, Heritage Foundation, and libertarian donor class who opposed public health restrictions as threats to business operations. This positioning earned her invitations to donor retreats and elevated her national profile.
 
 | Date | Event | Amount | Source |
 |------|-------|--------|--------|
-| 2011-2019 | U.S. House — top donors from agriculture, insurance, real estate | Career totals | OpenSecrets |
-| 2019-2025 | Governor — no lockdown, libertarian COVID response | — | ProPublica |
+| 2011-2019 | U.S. House, top donors from agriculture, insurance, real estate | Career totals | OpenSecrets |
+| 2019-2025 | Governor, no lockdown, libertarian COVID response |, | ProPublica |
 | 2023 | Secretly accepted dark money through Delaware company | $80,000 | ProPublica |
-| 2025-01 | Appointed DHS Secretary by Trump | — | White House |
+| 2025-01 | Appointed DHS Secretary by Trump |, | White House |
 | 2025-2026 | DHS authorized $220M no-bid ad campaign | $220M taxpayer funds | Bloomberg |
-| 2026-03 | Senate testimony — claimed Trump approved ad campaign | — | The Hill |
-| 2026-03-07 | Fired by Trump after Senate testimony | — | Bloomberg |
+| 2026-03 | Senate testimony, claimed Trump approved ad campaign |, | The Hill |
+| 2026-03-07 | Fired by Trump after Senate testimony |, | Bloomberg |
 
 ---
 
 ### The $220 Million DHS Ad Scandal
 
-**The campaign:** DHS authorized a $220 million taxpayer-funded advertising campaign under Noem. The signature ad showed Noem in cowboy gear on horseback at Mount Rushmore — more personal branding than agency communication.
+**The campaign:** DHS authorized a $220 million taxpayer-funded advertising campaign under Noem. The signature ad showed Noem in cowboy gear on horseback at Mount Rushmore, more personal branding than agency communication.
 
-**The no-bid contracts:** DHS skipped competitive bidding and awarded the contract to Safe America Media, People Who Think, and the Strategy Group (subcontractor). The Strategy Group is run by Ben Yoho, husband of former DHS press secretary Tricia McLaughlin — a direct connection between the ad spending and Noem's political circle.
+**The no-bid contracts:** DHS skipped competitive bidding and awarded the contract to Safe America Media, People Who Think, and the Strategy Group (subcontractor). The Strategy Group is run by Ben Yoho, husband of former DHS press secretary Tricia McLaughlin, a direct connection between the ad spending and Noem's political circle.
 
 **The spending details:** $4,000 on hair and makeup, $20,000 on horse rentals, $60,000 signing bonus to the Strategy Group, $286,137 in documented Strategy Group spending from DHS funds.
 
-**The firing:** Noem testified before the Senate Judiciary Committee and claimed Trump had personally approved the campaign. This public assertion — pinning responsibility on Trump — was the final trigger. Trump removed her within days. The message: the corruption was tolerable, but blaming the boss was not.
+**The firing:** Noem testified before the Senate Judiciary Committee and claimed Trump had personally approved the campaign. This public assertion, pinning responsibility on Trump, was the final trigger. Trump removed her within days. The message: the corruption was tolerable, but blaming the boss was not.
 
 > [!money]
 > The contract chain: DHS → Safe America Media / People Who Think → Strategy Group (run by Ben Yoho, connected to Noem's political operation) → personal branding ads featuring Noem. ProPublica documented that Noem-tied firms secretly received a piece of the $220M contract. The ad spending was structured to enrich Noem's political network while using taxpayer money for what was effectively a personal political advertisement.
@@ -88,7 +88,7 @@ Noem built a national profile on anti-government libertarianism — "South Dakot
 
 ### The Lewandowski Connection
 
-Congressional Democrats probed companies awarded the $220M ad contract for ties to both Noem and Corey Lewandowski, the former Trump campaign manager who served as an informal advisor to Noem. Reports of a personal relationship between Noem and Lewandowski added another layer to the scandal — the ad contracts benefited a network of political operatives connected through personal and professional relationships.
+Congressional Democrats probed companies awarded the $220M ad contract for ties to both Noem and Corey Lewandowski, the former Trump campaign manager who served as an informal advisor to Noem. Reports of a personal relationship between Noem and Lewandowski added another layer to the scandal, the ad contracts benefited a network of political operatives connected through personal and professional relationships.
 
 ---
 
@@ -106,7 +106,7 @@ The firing tells the class story most clearly. Trump did not fire Noem for the c
 
 **Villain Framing:** Noem's COVID-era brand was built on framing public health officials and Democratic governors as the villains threatening freedom. This deflected attention from South Dakota's COVID death rate and the donor class interests served by keeping businesses open regardless of public health consequences.
 
-**Self-Funding as Independence (inverted):** Noem presented herself as a rancher-politician, independent of Washington corruption. In reality, she was dependent on dark money, no-bid government contracts, and political network enrichment — the opposite of independence.
+**Self-Funding as Independence (inverted):** Noem presented herself as a rancher-politician, independent of Washington corruption. In reality, she was dependent on dark money, no-bid government contracts, and political network enrichment, the opposite of independence.
 
 ---
 
@@ -115,9 +115,9 @@ The firing tells the class story most clearly. Trump did not fire Noem for the c
 - [FEC Candidate: Kristi Noem campaign finance summary](https://www.fec.gov/data/candidate/H0SD00054/) (Tier 1) (VERIFIED)
 - [ProPublica: Kristi Noem secretly took personal cut of political donations](https://www.propublica.org/article/kristi-noem-political-donations-income-dark-money-dhs-ethics) (Tier 1) (VERIFIED)
 - [ProPublica: Kristi Noem-tied firm secretly got piece of $220M DHS campaign](https://www.propublica.org/article/kristi-noem-dhs-ad-campaign-strategy-group) (Tier 1) (VERIFIED)
-- ~~[Bloomberg: Trump fires DHS head Kristi Noem amid $240M ad campaign](https://www.bloomberg.com/news/articles/2026-03-07/trump-fires-dhs-head-kristi-noem-amid-240-million-ad-campaign)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[Bloomberg: Trump fires DHS head Kristi Noem amid $240M ad campaign](https://www.bloomberg.com/news/articles/2026-03-07/trump-fires-dhs-head-kristi-noem-amid-240-million-ad-campaign)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Washington Post: A $220 million ad blitz and a public split with Trump mark the end of Kristi Noem's DHS tenure](https://www.washingtonpost.com/politics/2026/03/06/kristi-noem-border-immigration-kennedy-ad-campaign/1778b798-19af-11f1-aef0-0aac8e8e94db_story.html) (Tier 2) (NEEDS REVIEW)
-- ~~[The Hill: How Kristi Noem finally lost Trump's trust](https://thehill.com/homenews/administration/5770493-kristi-noem-trump-advertising-scandal/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[The Hill: How Kristi Noem finally lost Trump's trust](https://thehill.com/homenews/administration/5770493-kristi-noem-trump-advertising-scandal/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [NBC News: Democrats probing companies tied to Noem, Lewandowski](https://www.nbcnews.com/politics/trump-administration/noem-lewandowski-democrats-probing-companies-220-million-ad-contract-rcna262156) (Tier 2) (VERIFIED)
 - [CNN: Taxpayer funds spent on horse, hair and makeup for Noem ad](https://www.cnn.com/2026/03/23/politics/kristi-noem-horse-mount-rushmore-ad) (Tier 2) (VERIFIED)
 - [Wikipedia: Kristi Noem](https://en.wikipedia.org/wiki/Kristi_Noem) (Tier 3) (VERIFIED)

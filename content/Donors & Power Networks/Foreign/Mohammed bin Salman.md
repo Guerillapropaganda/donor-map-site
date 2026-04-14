@@ -85,11 +85,11 @@ MBS does not donate to U.S. campaigns. He **invests in U.S. political operatives
 |------|----------|-----------|--------|-----------|----------------------|
 | 2021 | PIF (MBS) | [[_Jared Kushner Master Profile|Jared Kushner]] / Affinity Partners | $2B | Direct equity investment, 25% of fund | MBS owns stake in Kushner's future earning power; Kushner required to consult with Saudi interests for next 20+ years |
 
-**PIF internal objections:** Saudi investment committee officials objected to the Kushner deal on grounds of "inexperience of Affinity management," concern that "Saudi would bear bulk of investment and risk," and "public relations risks." MBS **personally overruled these objections** — proof that the investment was political, not financial. Expected ROI from Kushner's fund is negative; the value is access.
+**PIF internal objections:** Saudi investment committee officials objected to the Kushner deal on grounds of "inexperience of Affinity management," concern that "Saudi would bear bulk of investment and risk," and "public relations risks." MBS **personally overruled these objections**, proof that the investment was political, not financial. Expected ROI from Kushner's fund is negative; the value is access.
 
 ### What They've Gotten
 
-**Khashoggi murder — zero accountability:** U.S. intelligence assessed with "high confidence" that MBS ordered Jamal Khashoggi's 2018 murder. The UN independent investigator concluded "individual unlawful responsibility" rests with MBS. Yet:
+**Khashoggi murder, zero accountability:** U.S. intelligence assessed with "high confidence" that MBS ordered Jamal Khashoggi's 2018 murder. The UN independent investigator concluded "individual unlawful responsibility" rests with MBS. Yet:
 - No charges filed in U.S.
 - No sanctions imposed on MBS personally (only lower-level officials)
 - No arms sales suspended (Trump promised to punish Saudi Arabia; Biden authorized continued sales)
@@ -97,8 +97,8 @@ MBS does not donate to U.S. campaigns. He **invests in U.S. political operatives
 
 **Why zero accountability:** Saudi Arabia buys $40B–$50B/year in U.S. weapons. The defense contractor donations to Congress + lobbying ensure that any politician calling for sanctions faces massive political cost. MBS calculated correctly: the arms sales pipeline is worth more than human rights accountability.
 
-### Abraham Accords (2020) — signed under Trump; sustained under Biden:
-[!money] **Temporal mapping — MBS investments in Trump relationships and policy outcomes:**
+### Abraham Accords (2020), signed under Trump; sustained under Biden:
+[!money] **Temporal mapping. MBS investments in Trump relationships and policy outcomes:**
 
 | Date | MBS Action | U.S. Policy Response | Outcome |
 |------|-----------|---------------------|---------|
@@ -133,7 +133,7 @@ This asymmetry reflects U.S. alignment with Saudi Arabia as Middle East strategi
 
 ### Enemies / Opposition
 
-**Human rights organizations** (Amnesty International, Human Rights Watch) have documented MBS's violations; their pressure is entirely symbolic — zero policy impact.
+**Human rights organizations** (Amnesty International, Human Rights Watch) have documented MBS's violations; their pressure is entirely symbolic, zero policy impact.
 
 **Congressional human rights advocates** ([[_Bernie Sanders Master Profile|Bernie Sanders]], Tom Udall, Ilhan Omar) have opposed arms sales; consistently voted down despite bipartisan defense contractor lobbying.
 
@@ -154,13 +154,13 @@ This asymmetry reflects U.S. alignment with Saudi Arabia as Middle East strategi
 
 ### Sources
 
-### Primary Documents — Tier 1:
+### Primary Documents. Tier 1:
 
-### Investigative Journalism — Tier 2:
+### Investigative Journalism. Tier 2:
 - [House Oversight Committee: Investigation into Jared Kushner's Affinity Partners Saudi Investment (June 2022)](https://oversightdemocrats.house.gov/news/press-releases/chairwoman-maloney-launches-probe-of-saudi-government-s-2-billion-investment-in) (Tier 2) (VERIFIED)
-- ~~[Axios: Jared Kushner's new private equity fund raises old questions (March 2026)](https://www.axios.com/2026/03/16/jared-kushner-affinity-partners)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[Axios: Jared Kushner's new private equity fund raises old questions (March 2026)](https://www.axios.com/2026/03/16/jared-kushner-affinity-partners)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 
-### Reference — Tier 3:
+### Reference. Tier 3:
 - [Wikipedia: Affinity Partners](https://en.wikipedia.org/wiki/Affinity_Partners) (Tier 3) (VERIFIED)
 - [Wikipedia: Mohammed bin Salman](https://en.wikipedia.org/wiki/Mohammed_bin_Salman) (Tier 3) (VERIFIED)
 - [Wikipedia: Saudi Arabia–United States relations](https://en.wikipedia.org/wiki/Saudi_Arabia%E2%80%93United_States_relations) (Tier 3) (VERIFIED)

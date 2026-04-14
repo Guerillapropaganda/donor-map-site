@@ -1,5 +1,5 @@
 ---
-title: "Terri A. Sewell Master Profile"
+title: "Terri A. Sewell"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

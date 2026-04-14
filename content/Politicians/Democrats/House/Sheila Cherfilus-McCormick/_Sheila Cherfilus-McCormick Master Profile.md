@@ -1,5 +1,5 @@
 ---
-title: "Sheila Cherfilus-McCormick Master Profile"
+title: "Sheila Cherfilus-McCormick"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

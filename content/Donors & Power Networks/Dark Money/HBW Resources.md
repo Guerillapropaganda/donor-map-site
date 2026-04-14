@@ -57,27 +57,27 @@ HBW Resources is a Houston- and Denver-based government affairs, public relation
 
 HBW's business model is the K Street front-group factory at its most efficient: the firm creates nominally independent advocacy organizations, staffs them entirely with HBW employees, collects fees from both the client groups and the front organizations, and deploys a unified lobbying operation that appears to represent consumers, tribal nations, and regional coalitions while actually serving the oil and gas majors funding the entire structure.
 
-**The Consumer Energy Alliance relationship** is the clearest example. CEA — which presents itself as a consumer advocacy group — was created by HBW in 2006 with founding backing from BP, Chevron, ExxonMobil, Marathon, Shell, and Statoil. CEA has **no independent staff**: every representative listed on CEA's website is an HBW employee. Since 2010, CEA has generated at least $21.1 million in revenue and paid HBW $9.1 million of that — a 43% management fee that makes CEA effectively an HBW subsidiary dressed up as a grassroots consumer coalition.
+**The Consumer Energy Alliance relationship** is the clearest example. CEA, which presents itself as a consumer advocacy group, was created by HBW in 2006 with founding backing from BP, Chevron, ExxonMobil, Marathon, Shell, and Statoil. CEA has **no independent staff**: every representative listed on CEA's website is an HBW employee. Since 2010, CEA has generated at least $21.1 million in revenue and paid HBW $9.1 million of that, a 43% management fee that makes CEA effectively an HBW subsidiary dressed up as a grassroots consumer coalition.
 
-The firm's Denver office is led by Andrew Browning, who is simultaneously a managing partner of HBW Resources, an executive of Consumer Energy Alliance, and president of Western States and Tribal Nations. One person, three job titles, three organizations — all serving the same upstream oil and gas clients.
+The firm's Denver office is led by Andrew Browning, who is simultaneously a managing partner of HBW Resources, an executive of Consumer Energy Alliance, and president of Western States and Tribal Nations. One person, three job titles, three organizations, all serving the same upstream oil and gas clients.
 
 - [Senate LDA Filings: HBW Resources lobbying firm profile](https://lda.gov/filings/public/filing/search/) (Tier 1) (VERIFIED)
 - [DeSmog: Consumer Energy Alliance (CEA)](https://www.desmog.com/consumer-energy-alliance-cea/) (Tier 2) (VERIFIED)
-- ~~[SourceWatch: HBW Resources](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/HBW_Resources)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3)
+- ~~[SourceWatch: HBW Resources](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/HBW_Resources)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
 
 ---
 
 ### What They Want
 
-HBW's policy agenda maps directly onto its client roster — which is to say, it maps onto the agenda of the fossil fuel industry:
+HBW's policy agenda maps directly onto its client roster, which is to say, it maps onto the agenda of the fossil fuel industry:
 
-**LNG export terminal approvals.** HBW created WSTN specifically to build political cover for LNG export infrastructure. The Jordan Cove LNG terminal (Pembina Corp, Coos Bay, Oregon) was the flagship campaign — WSTN ran full-page ads in The Oregonian under tribal nation branding to pressure Governor Kate Brown to approve permits she ultimately refused to grant. The goal: frame Canadian corporate pipeline interests as a matter of tribal self-determination.
+**LNG export terminal approvals.** HBW created WSTN specifically to build political cover for LNG export infrastructure. The Jordan Cove LNG terminal (Pembina Corp, Coos Bay, Oregon) was the flagship campaign. WSTN ran full-page ads in The Oregonian under tribal nation branding to pressure Governor Kate Brown to approve permits she ultimately refused to grant. The goal: frame Canadian corporate pipeline interests as a matter of tribal self-determination.
 
-**Offshore drilling expansion.** CEA ran a coordinated campaign in 2015 to get Atlantic Coast governors to support offshore oil drilling — the "Drive to Drill" operation documented by Facing South. HBW lobbyists organized the governor letters and provided political cover for what was an oil industry push disguised as a bipartisan regional initiative.
+**Offshore drilling expansion.** CEA ran a coordinated campaign in 2015 to get Atlantic Coast governors to support offshore oil drilling, the "Drive to Drill" operation documented by Facing South. HBW lobbyists organized the governor letters and provided political cover for what was an oil industry push disguised as a bipartisan regional initiative.
 
-**Pipeline deregulation.** CEA has supported virtually every major pipeline project facing federal regulatory scrutiny — Atlantic Coast Pipeline (Dominion/Duke), Dakota Access, Keystone XL. HBW's lobbying operations at FERC, Interior, and EPA advance these clients' interests while CEA provides the public-facing justification.
+**Pipeline deregulation.** CEA has supported virtually every major pipeline project facing federal regulatory scrutiny. Atlantic Coast Pipeline (Dominion/Duke), Dakota Access, Keystone XL. HBW's lobbying operations at FERC, Interior, and EPA advance these clients' interests while CEA provides the public-facing justification.
 
-**Carbon capture subsidies (post-IRA).** Verde CO2 began appearing as an HBW client in 2022 — a sign that the firm is pivoting to represent "transition" energy interests that benefit from the Inflation Reduction Act's carbon capture tax credits (45Q). Same revolving door model, new policy target.
+**Carbon capture subsidies (post-IRA).** Verde CO2 began appearing as an HBW client in 2022, a sign that the firm is pivoting to represent "transition" energy interests that benefit from the Inflation Reduction Act's carbon capture tax credits (45Q). Same revolving door model, new policy target.
 
 **Tribal gaming rights.** The Miccosukee Tribe of Indians of Florida has been a consistent HBW lobbying client ($120,000–$180,000/year), representing a distinct revenue stream from gaming regulation advocacy entirely separate from the energy portfolio.
 
@@ -98,39 +98,39 @@ Top recipients (2024):
 - Bob Casey (D-PA): $1,050
 - Tommy Tuberville (R-AL): $1,000
 
-The contribution pattern is bipartisan with a Republican lean — reflecting HBW's need to work across party lines on energy infrastructure approvals while maintaining primary relationships with Republicans who control key energy committees.
+The contribution pattern is bipartisan with a Republican lean, reflecting HBW's need to work across party lines on energy infrastructure approvals while maintaining primary relationships with Republicans who control key energy committees.
 
 > [!money]
 > The real money isn't in HBW's employee contributions — it's in the lobbying fees. HBW billed clients $720,000 in 2025, $562,000 in 2022, and $1.2M at peak in 2019–2020. CEA paid HBW an additional $9.1M since 2010. The political contribution line ($25K) is rounding error. The influence is purchased through retainer relationships with HBW lobbyists who have established relationships with Congressional staff and regulators — not through campaign checks.
 
-- [OpenSecrets: HBW Resources org summary — contributions 2024](https://www.opensecrets.org/orgs/hbw-resources/summary?id=D000073431) (Tier 1) (VERIFIED)
+- [OpenSecrets: HBW Resources org summary, contributions 2024](https://www.opensecrets.org/orgs/hbw-resources/summary?id=D000073431) (Tier 1) (VERIFIED)
 
 ---
 
 ### What They've Gotten
 
-HBW's win-loss record is mixed on major infrastructure fights but profitable regardless of outcome — the firm collects fees whether the pipeline gets built or not.
+HBW's win-loss record is mixed on major infrastructure fights but profitable regardless of outcome, the firm collects fees whether the pipeline gets built or not.
 
-**Jordan Cove LNG (Oregon) — Defeat.** WSTN ran a multi-year campaign including full-page newspaper ads, congressional lobbying, and FERC intervention to secure permits for the Jordan Cove LNG export terminal and associated 229-mile pipeline crossing Oregon's Klamath, Rogue, Umpqua, Coquille, and Coos watersheds. The actual tribal nations along the pipeline route — the Klamath Tribes, the Confederated Tribes of Coos, Lower Umpqua and Siuslaw Indians — opposed the project. Oregon denied state permits. Pembina withdrew in 2021.
+**Jordan Cove LNG (Oregon). Defeat.** WSTN ran a multi-year campaign including full-page newspaper ads, congressional lobbying, and FERC intervention to secure permits for the Jordan Cove LNG export terminal and associated 229-mile pipeline crossing Oregon's Klamath, Rogue, Umpqua, Coquille, and Coos watersheds. The actual tribal nations along the pipeline route, the Klamath Tribes, the Confederated Tribes of Coos, Lower Umpqua and Siuslaw Indians, opposed the project. Oregon denied state permits. Pembina withdrew in 2021.
 
-**Atlantic Coast Pipeline (Appalachia) — Defeat.** CEA ran a 2019 campaign in support of the 600-mile Dominion/Duke pipeline. The pipeline was abandoned in 2020 after $8B in spending and sustained legal defeats on environmental grounds.
+**Atlantic Coast Pipeline (Appalachia). Defeat.** CEA ran a 2019 campaign in support of the 600-mile Dominion/Duke pipeline. The pipeline was abandoned in 2020 after $8B in spending and sustained legal defeats on environmental grounds.
 
-**Consumer Energy Alliance — ongoing operation, survived all defeats.** Despite losing on Jordan Cove, Atlantic Coast, and Keystone XL, CEA continues operating. It now has 90+ member companies and is actively lobbying on LNG export permits, IRA rollback provisions, and carbon capture credits. The front group's survival even through high-profile losses illustrates HBW's real function: creating durable advocacy infrastructure, not winning individual fights.
+**Consumer Energy Alliance, ongoing operation, survived all defeats.** Despite losing on Jordan Cove, Atlantic Coast, and Keystone XL, CEA continues operating. It now has 90+ member companies and is actively lobbying on LNG export permits, IRA rollback provisions, and carbon capture credits. The front group's survival even through high-profile losses illustrates HBW's real function: creating durable advocacy infrastructure, not winning individual fights.
 
-**TCOM LP (defense aerostats) — contract support.** TCOM builds tethered surveillance blimps used by the US military and DHS for border surveillance and communications relay. HBW has lobbied for TCOM ($80,000–$160,000/year, 2018–2020) on defense and homeland security contracting. TCOM's aerostat systems are deployed across the US-Mexico border and in overseas military operations — HBW's lobbying supported TCOM's contract relationships with DOD and DHS.
+**TCOM LP (defense aerostats), contract support.** TCOM builds tethered surveillance blimps used by the US military and DHS for border surveillance and communications relay. HBW has lobbied for TCOM ($80,000–$160,000/year, 2018–2020) on defense and homeland security contracting. TCOM's aerostat systems are deployed across the US-Mexico border and in overseas military operations. HBW's lobbying supported TCOM's contract relationships with DOD and DHS.
 
 ### Donation-to-Policy Timeline
 
 | Date | Recipient/Target | Amount | Policy Return | Time Gap |
 |------|-----------------|--------|---------------|---------|
-| 2006 | Consumer Energy Alliance (founded) | HBW operational costs | CEA front group created — BP, Chevron, ExxonMobil get consumer-branded advocacy arm with zero visible connection to Big Oil | Ongoing |
-| 2010–2024 | CEA management fees to HBW | $9.1M total | HBW provides all CEA staff, operations, and lobbying — front group model institutionalized | Ongoing |
-| 2015 | Atlantic Coast governors campaign | Lobbying fees | "Drive to Drill" — CEA organized governor letters supporting Atlantic offshore drilling. Interior opens 5-year planning process | 6 months |
-| 2019 | Atlantic Coast Pipeline CEA campaign | Lobbying fees | CEA launches campaign for Dominion/Duke pipeline — FERC approval secured, but NC and VA permits blocked | 0 |
-| 2020 | Jordan Cove LNG — WSTN campaign | $120K+ WSTN lobbying | Federal FERC approval secured in March 2020 — but Oregon state permits denied; Pembina withdraws 2021 | 0 |
+| 2006 | Consumer Energy Alliance (founded) | HBW operational costs | CEA front group created. BP, Chevron, ExxonMobil get consumer-branded advocacy arm with zero visible connection to Big Oil | Ongoing |
+| 2010–2024 | CEA management fees to HBW | $9.1M total | HBW provides all CEA staff, operations, and lobbying, front group model institutionalized | Ongoing |
+| 2015 | Atlantic Coast governors campaign | Lobbying fees | "Drive to Drill". CEA organized governor letters supporting Atlantic offshore drilling. Interior opens 5-year planning process | 6 months |
+| 2019 | Atlantic Coast Pipeline CEA campaign | Lobbying fees | CEA launches campaign for Dominion/Duke pipeline. FERC approval secured, but NC and VA permits blocked | 0 |
+| 2020 | Jordan Cove LNG. WSTN campaign | $120K+ WSTN lobbying | Federal FERC approval secured in March 2020, but Oregon state permits denied; Pembina withdraws 2021 | 0 |
 | 2020 | TCOM LP aerostat contracts | $80,000 lobbying | TCOM maintains DOD/DHS contracts for border and military surveillance aerostat systems | Ongoing |
-| 2022–2025 | Verde CO2 carbon capture | $20,000–$120,000 | IRA 45Q carbon capture credits — HBW positions Verde to access federal subsidies via lobbying | 0 |
-| 2025 | Jicarilla Apache Nation | $360,000 | Tribal energy development and natural resource rights — largest single client in 2025 | Ongoing |
+| 2022–2025 | Verde CO2 carbon capture | $20,000–$120,000 | IRA 45Q carbon capture credits. HBW positions Verde to access federal subsidies via lobbying | 0 |
+| 2025 | Jicarilla Apache Nation | $360,000 | Tribal energy development and natural resource rights, largest single client in 2025 | Ongoing |
 
 > [!money]
 > HBW's timeline is a study in institutional persistence over individual victories. The firm loses the big fights — Jordan Cove, Atlantic Coast Pipeline, Keystone XL — but the infrastructure (CEA, WSTN) survives and pivots to the next target. This is how the fossil fuel lobbying apparatus actually works: not through single decisive wins, but through continuous presence at every relevant agency, committee, and regulatory proceeding. Even when pipelines are blocked, HBW collects fees. Even when CEA campaigns fail, the front group adds members. The political investment isn't in outcomes — it's in maintaining access.
@@ -139,9 +139,9 @@ HBW's win-loss record is mixed on major infrastructure fights but profitable reg
 
 ### Class Analysis
 
-HBW Resources is the fossil fuel industry's deniability layer — the firm that allows BP, Chevron, ExxonMobil, and Shell to lobby without those names appearing in the lobbying record. Consumer Energy Alliance lobbies for LNG export terminals; Chevron's name never appears in the Senate LDA filings. Western States and Tribal Nations lobbies for pipelines through indigenous territories; the Pembina Corporation's name doesn't appear in the newspaper ad. The corporate interests remain invisible while HBW-managed front groups provide the public-facing advocacy.
+HBW Resources is the fossil fuel industry's deniability layer, the firm that allows BP, Chevron, ExxonMobil, and Shell to lobby without those names appearing in the lobbying record. Consumer Energy Alliance lobbies for LNG export terminals; Chevron's name never appears in the Senate LDA filings. Western States and Tribal Nations lobbies for pipelines through indigenous territories; the Pembina Corporation's name doesn't appear in the newspaper ad. The corporate interests remain invisible while HBW-managed front groups provide the public-facing advocacy.
 
-The WSTN operation is particularly instructive for class analysis. The firm identified a vulnerability in the fossil fuel industry's public legitimacy: the energy industry's extraction operations on tribal lands, and the political toxicity of pipeline projects opposed by indigenous communities (Standing Rock, etc.), created a strategic opening. WSTN was the response — use the language and imagery of tribal sovereignty and self-determination to build political cover for the exact projects that actual tribal nations along the pipeline routes were fighting in court and through protest. The front group claimed to speak for "tribal nations" while the Klamath Tribes and Confederated Tribes of Coos, Lower Umpqua and Siuslaw Indians opposed the project HBW was paid to advance.
+The WSTN operation is particularly instructive for class analysis. The firm identified a vulnerability in the fossil fuel industry's public legitimacy: the energy industry's extraction operations on tribal lands, and the political toxicity of pipeline projects opposed by indigenous communities (Standing Rock, etc.), created a strategic opening. WSTN was the response, use the language and imagery of tribal sovereignty and self-determination to build political cover for the exact projects that actual tribal nations along the pipeline routes were fighting in court and through protest. The front group claimed to speak for "tribal nations" while the Klamath Tribes and Confederated Tribes of Coos, Lower Umpqua and Siuslaw Indians opposed the project HBW was paid to advance.
 
 This is the **Villain Framing** and **Both-Sides Illusion** patterns operating simultaneously: by claiming indigenous support for pipelines through tribal-branded front groups, HBW made it possible to frame actual indigenous opposition to pipelines as a minority position rather than the consensus view of affected tribes. The real tribal nations who opposed Jordan Cove were cast as the dissenters while a lobbying firm's subsidiary was presented as "Western States and Tribal Nations."
 
@@ -155,18 +155,18 @@ The carbon capture pivot (Verde CO2, 2022–2025) illustrates a newer pattern: a
 ### Sources
 
 - [Senate LDA Filings: HBW Resources lobbying firm profile](https://lda.gov/filings/public/filing/search/) (Tier 1)
-- [OpenSecrets: HBW Resources org summary — contributions 2024](https://www.opensecrets.org/orgs/hbw-resources/summary?id=D000073431) (Tier 1)
+- [OpenSecrets: HBW Resources org summary, contributions 2024](https://www.opensecrets.org/orgs/hbw-resources/summary?id=D000073431) (Tier 1)
 - [Senate LDA Filings: HBW Resources lobbyists 2024](https://lda.gov/filings/public/filing/search/) (Tier 1) (VERIFIED)
 - [DeSmog: Consumer Energy Alliance (CEA)](https://www.desmog.com/consumer-energy-alliance-cea/) (Tier 2)
 - [Energy and Policy Institute: Consumer Energy Alliance investigative archive](https://energyandpolicy.org/category/front-groups/consumer-energy-alliance/) (Tier 2) (VERIFIED)
-- [Facing South: Drive to Drill — Energy Lobbyists Behind Governors' Crusade for Atlantic Oil (2015)](https://www.facingsouth.org/2015/04/drive-to-drill-energy-lobbyists-behind-governors-c) (Tier 2) (VERIFIED)
+- [Facing South: Drive to Drill. Energy Lobbyists Behind Governors' Crusade for Atlantic Oil (2015)](https://www.facingsouth.org/2015/04/drive-to-drill-energy-lobbyists-behind-governors-c) (Tier 2) (VERIFIED)
 - [Facing South: Big Energy front group launches push for troubled Atlantic Coast Pipeline (2019)](https://www.facingsouth.org/2019/12/big-energy-front-group-launches-push-troubled-atlantic-coast-pipeline) (Tier 2) (VERIFIED)
 - [Street Roots: Energy lobbyists pose as Tribal Nations to promote Jordan Cove LNG pipeline (2020)](https://www.streetroots.org/environment/2020/06/30/energy-lobbyists-pose-tribal-nations-promote-jordan-cove-lng-pipeline/) (Tier 2) (VERIFIED)
 - [SourceWatch: HBW Resources](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/HBW_Resources) (Tier 3)
 
 ---
 
-**Editorial note:** The prior version of this file incorrectly described HBW Resources as a FARA-registered foreign agent for Turkey and Qatar, and included related links to the Turkey-Erdogan Lobbying Operation. This was an error — HBW Resources is a domestic energy lobbying firm with no documented Turkey or Qatar FARA registrations in the OpenSecrets or Senate LDA databases. The Turkey FARA related tag has been removed and the classification corrected to reflect HBW's actual practice areas: fossil fuel front groups, tribal gaming, defense aerostats, and carbon capture.
+**Editorial note:** The prior version of this file incorrectly described HBW Resources as a FARA-registered foreign agent for Turkey and Qatar, and included related links to the Turkey-Erdogan Lobbying Operation. This was an error. HBW Resources is a domestic energy lobbying firm with no documented Turkey or Qatar FARA registrations in the OpenSecrets or Senate LDA databases. The Turkey FARA related tag has been removed and the classification corrected to reflect HBW's actual practice areas: fossil fuel front groups, tribal gaming, defense aerostats, and carbon capture.
 
 ### Foreign Agent Activity (FARA)
 <!-- auto:fara-foreign-agents start -->

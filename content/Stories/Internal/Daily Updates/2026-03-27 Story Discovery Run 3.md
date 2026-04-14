@@ -64,7 +64,7 @@ Five stories surfaced in this scan, focusing on new angles NOT covered in Runs 1
 
 ### Sources (all Chrome-verified VALID 2026-03-27):
 - [OpenSecrets: Some major Trump donors are now reaping billions in ICE contracts](https://www.opensecrets.org/news/2026/03/some-major-trump-donors-are-now-reaping-billions-in-ice-contracts) (Tier 2) (VERIFIED)
-- ~~[POGO: ICE, Inc.: The Top Companies Profiting from Trump's Immigration Crackdown](https://www.pogo.org/investigates/ice-inc-the-top-companies-profiting-from-trumps-immigration-crackdown)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[POGO: ICE, Inc.: The Top Companies Profiting from Trump's Immigration Crackdown](https://www.pogo.org/investigates/ice-inc-the-top-companies-profiting-from-trumps-immigration-crackdown)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [NOTUS: Private Prison Contractors Spend Millions on Lobbying, Get Billions in Immigration Detention Contracts](https://www.notus.org/money/private-prisons-lobbying-corecivic-geo-group-immigration-detention) (Tier 2) (VERIFIED)
 
 ---
@@ -105,7 +105,7 @@ Five stories surfaced in this scan, focusing on new angles NOT covered in Runs 1
 **Significance:** Silver. Published today, directly relevant to existing vault profiles, well-sourced. The behested payment figure is the most actionable new data point.
 
 ### Sources (all Chrome-verified VALID 2026-03-27):
-- ~~[CalMatters: Tech giants are spending more than ever to shape California politics](https://calmatters.org/category/politics/2026/03/meta-google-ai-regulation-elections/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[CalMatters: Tech giants are spending more than ever to shape California politics](https://calmatters.org/category/politics/2026/03/meta-google-ai-regulation-elections/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Issue One: As Big Tech Gears Up for the 2026 Midterms, Its Lobbying Operations Continue Unabated](https://issueone.org/articles/big-tech-lobbying-2025-q3/) (Tier 2) (VERIFIED)
 
 ---
@@ -123,7 +123,7 @@ Five stories surfaced in this scan, focusing on new angles NOT covered in Runs 1
 **Significance:** Silver. Background structural data, not a specific quid-pro-quo, but the record figure is a citable anchor for the vault's thesis that donor money purchases policy.
 
 ### Sources (all Chrome-verified VALID 2026-03-27):
-- ~~[OpenSecrets: Lobbying firms took in a record $5 billion in 2025](https://www.opensecrets.org/news/2026/01/lobbying-firms-took-in-a-record-5-billion-in-2025/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[OpenSecrets: Lobbying firms took in a record $5 billion in 2025](https://www.opensecrets.org/news/2026/01/lobbying-firms-took-in-a-record-5-billion-in-2025/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Brennan Center: Money in Politics Roundup. February 2026](https://www.brennancenter.org/our-work/research-reports/money-politics-roundup-february-2026) (Tier 2) (VERIFIED)
 
 ---

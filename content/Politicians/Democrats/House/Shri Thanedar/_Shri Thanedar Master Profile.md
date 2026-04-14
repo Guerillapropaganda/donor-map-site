@@ -1,5 +1,5 @@
 ---
-title: "Shri Thanedar Master Profile"
+title: "Shri Thanedar"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

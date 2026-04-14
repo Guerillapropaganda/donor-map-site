@@ -1,5 +1,5 @@
 ---
-title: "Johnny Olszewski Master Profile"
+title: "Johnny Olszewski"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

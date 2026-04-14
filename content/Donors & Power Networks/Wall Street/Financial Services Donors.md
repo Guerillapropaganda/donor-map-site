@@ -18,7 +18,7 @@ ofac-programs:
   - "GLOMAG"
   - "SDGT] [IFSR"
   - "RUSSIA-EO14024"
-related: "[[Payday Lending Regulatory Capture]] · [[Dick Durbin]] · [[Securities & Investment Industry]] · [[Goldman Sachs]] · [[JPMorgan Chase]] · [[MBNA Corporation]] · [[Wall Street Finance PACs]] · [[Wall Street Finance Networks]] · [[Wall Street Bloc]] · [[Master Donor Database]] · [[Goldman Sachs — The Government Sachs Alumni Network]]"
+related: "[[Payday Lending Regulatory Capture]] · [[Dick Durbin]] · [[Securities & Investment Industry]] · [[Goldman Sachs]] · [[JPMorgan Chase]] · [[MBNA Corporation]] · [[Wall Street Finance PACs]] · [[Wall Street Finance Networks]] · [[Wall Street Bloc]] · [[Master Donor Database]] · [[Goldman Sachs , The Government Sachs Alumni Network]]"
 cross-vault-triangulation-count: 8
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
   • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
@@ -30,9 +30,9 @@ The needs-reenrichment flag has been set. The next scheduled pipeline run will p
 
 ### Who They Are
 
-Financial Services Donors. The banking, insurance, and financial services industry's collective political operation — encompassing commercial banks (JPMorgan, Bank of America, Wells Fargo, Citigroup), investment banks, insurance companies, credit card issuers, and financial trade associations (American Bankers Association, Financial Services Forum). Combined political spending: $500M+ per cycle through PACs, individual contributions, lobbying ($200M+ annually), and revolving door hiring.
+Financial Services Donors. The banking, insurance, and financial services industry's collective political operation, encompassing commercial banks (JPMorgan, Bank of America, Wells Fargo, Citigroup), investment banks, insurance companies, credit card issuers, and financial trade associations (American Bankers Association, Financial Services Forum). Combined political spending: $500M+ per cycle through PACs, individual contributions, lobbying ($200M+ annually), and revolving door hiring.
 
-The financial services industry is the ultimate bipartisan donor: both parties' economic policymakers come from finance, both parties' presidential campaigns depend on Wall Street fundraising, and both parties' policy agendas are constrained by financial industry influence. The industry's political priorities — weakening Dodd-Frank, maintaining the carried interest loophole, opposing financial transaction taxes, preserving bank consolidation, and limiting CFPB enforcement — enjoy bipartisan support despite bipartisan rhetoric about "Wall Street accountability."
+The financial services industry is the ultimate bipartisan donor: both parties' economic policymakers come from finance, both parties' presidential campaigns depend on Wall Street fundraising, and both parties' policy agendas are constrained by financial industry influence. The industry's political priorities, weakening Dodd-Frank, maintaining the carried interest loophole, opposing financial transaction taxes, preserving bank consolidation, and limiting CFPB enforcement, enjoy bipartisan support despite bipartisan rhetoric about "Wall Street accountability."
 
 > [!money]
 > Financial services donors are the permanent government of American economic policy. Presidents change, Congress turns over, but the Goldman alumni run Treasury, the bank lobbyists write the regulations, and the financial industry's policy agenda survives every election. The industry's $500M+ per cycle in political spending is not a lobbying expense — it's the cost of maintaining a regulatory framework that allows the largest banks to operate with implicit government backstops (too-big-to-fail), minimal effective regulation, and favorable tax treatment. The 2008 financial crisis proved that even catastrophic industry failure doesn't threaten the donor-policy pipeline — the banks that caused the crash were bailed out by the government officials they funded.

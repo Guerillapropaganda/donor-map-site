@@ -69,7 +69,7 @@ BAE Systems plc. The largest defense contractor in Europe and seventh-largest gl
 
 BAE Systems Inc. PAC contributes $2-3 million per cycle in the US, with lobbying spending of $5-8 million annually. The company's US political operation is managed through its domestic subsidiary to comply with FARA requirements, but the funding ultimately flows to a UK parent company, making BAE the largest foreign defense contractor in US politics.
 
-- ~~[OpenSecrets: BAE Systems organizational profile](https://www.opensecrets.org/orgs/bae-systems/summary?id=D000000236)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[OpenSecrets: BAE Systems organizational profile](https://www.opensecrets.org/orgs/bae-systems/summary?id=D000000236)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 
 ---
 

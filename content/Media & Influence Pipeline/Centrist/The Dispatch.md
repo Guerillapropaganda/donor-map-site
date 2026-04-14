@@ -30,7 +30,7 @@ Conservative media company founded in 2019 by Steve Hayes, Jonah Goldberg, and T
 
 ### FEC Record
 
-*Pending API query — run fecDonorLookup() for principals/founders.*
+*Pending API query, run fecDonorLookup() for principals/founders.*
 
 ### Who Funds Them
 
@@ -40,7 +40,7 @@ Subscriber revenue (primary?) · Unknown launch investors
 
 ### What They Push
 
-Institutional conservatism, rule-of-law, hawkish foreign policy, free-market economics, religious liberty. The editorial line represents pre-Trump Republican establishment positions — which is itself a class position (donor-class conservatism without populist performance).
+Institutional conservatism, rule-of-law, hawkish foreign policy, free-market economics, religious liberty. The editorial line represents pre-Trump Republican establishment positions, which is itself a class position (donor-class conservatism without populist performance).
 
 ### The Audience Capture Model
 
@@ -48,7 +48,7 @@ Institutional conservatism, rule-of-law, hawkish foreign policy, free-market eco
 
 ### What Their Funders Got
 
-*To be researched — map funding inputs to editorial/policy outputs.*
+*To be researched, map funding inputs to editorial/policy outputs.*
 
 ### Class Analysis
 
@@ -56,7 +56,7 @@ Does The Dispatch represent what the Republican donor class actually wants (free
 
 ### Capture Architecture
 
-*Pending — 3-5 line structural summary of platform funder, income dependency, and editorial red lines.*
+*Pending, 3-5 line structural summary of platform funder, income dependency, and editorial red lines.*
 
 ### Timeline
 
@@ -68,5 +68,5 @@ Does The Dispatch represent what the Republican donor class actually wants (free
 
 ### Sources
 
-*No sources yet — raw placeholder.*
+*No sources yet, raw placeholder.*
 

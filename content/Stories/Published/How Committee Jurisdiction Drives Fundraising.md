@@ -13,7 +13,7 @@ related: "[[The Revolving Door - How Government Service Becomes Industry Employm
 
 ### The Committee Tax
 
-Congressional committees are not just legislative bodies — they are fundraising platforms. Members assigned to committees with jurisdiction over wealthy industries receive dramatically more campaign contributions from those industries. The relationship is transactional: industries donate to the members who can advance or block legislation affecting their business. Committee assignment is the most valuable asset in congressional politics.
+Congressional committees are not just legislative bodies, they are fundraising platforms. Members assigned to committees with jurisdiction over wealthy industries receive dramatically more campaign contributions from those industries. The relationship is transactional: industries donate to the members who can advance or block legislation affecting their business. Committee assignment is the most valuable asset in congressional politics.
 
 ---
 
@@ -37,12 +37,12 @@ The pattern: committees with jurisdiction over the wealthiest industries generat
 
 The sequence is explicit:
 
-1. **Member receives committee assignment** — party leadership places members on committees based on loyalty, seniority, and fundraising ability
-2. **Industry identifies new committee members** — lobbyists track committee rosters and target new members within days of assignment
-3. **Introductory fundraisers** — industry groups host fundraising events for new committee members, establishing the relationship
-4. **Legislative access** — members provide lobbyists with meeting access, bill language input, and amendment opportunities
-5. **Ongoing contributions** — industry maintains contributions throughout the member's tenure on the committee
-6. **Chair premium** — committee chairs and ranking members receive 2-5x the contributions of junior members
+1. **Member receives committee assignment**, party leadership places members on committees based on loyalty, seniority, and fundraising ability
+2. **Industry identifies new committee members**, lobbyists track committee rosters and target new members within days of assignment
+3. **Introductory fundraisers**, industry groups host fundraising events for new committee members, establishing the relationship
+4. **Legislative access**, members provide lobbyists with meeting access, bill language input, and amendment opportunities
+5. **Ongoing contributions**, industry maintains contributions throughout the member's tenure on the committee
+6. **Chair premium**, committee chairs and ranking members receive 2-5x the contributions of junior members
 
 The Financial Services Committee is the most explicit example: freshmen assigned to the committee are expected to raise $400,000-600,000 per cycle from the financial industry. Members who fail to meet fundraising targets risk losing their assignment.
 
@@ -59,6 +59,6 @@ Committee jurisdiction drives fundraising during service; it drives employment a
 
 ### Sources
 
-- ~~[OpenSecrets: Committee campaign contributions analysis](https://www.opensecrets.org/cong-cmtes)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[OpenSecrets: Committee campaign contributions analysis](https://www.opensecrets.org/cong-cmtes)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [Ballotpedia: Congressional committees](https://ballotpedia.org/Committees_of_the_United_States_Congress) (Tier 3) (VERIFIED)
 

@@ -167,7 +167,7 @@ The $1.6 billion Seid donation transformed the operation from campaign-cycle dep
 - [CNN: Massive dark money donation, new conservative group got $1.6 billion from single donor](https://www.cnn.com/2022/08/22/politics/dark-money-donation-conservative-group-invs/index.html) (Tier 2) (VERIFIED)
 - [CREW: Leonard Leo's mysterious $200 million dark money war chest](https://www.citizensforethics.org/reports-investigations/crew-investigations/leonard-leos-mysterious-200-million-dark-money-war-chest/) (Tier 2) (VERIFIED)
 - [CREW: Leonard Leo's firm continues to rake in millions from his own dark money network](https://www.citizensforethics.org/reports-investigations/crew-investigations/leonard-leos-firm-continues-to-rake-in-millions-from-his-own-dark-money-network/) (Tier 2) (VERIFIED)
-- ~~[EXPOSEDbyCMD: Leonard Leo's Concord Fund top funder of Republican AGs group in 2024](https://www.exposedbycmd.org/2024/04/16/leonard-leos-concord-fund-top-funder-of-republican-ags-group-in-2024/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[EXPOSEDbyCMD: Leonard Leo's Concord Fund top funder of Republican AGs group in 2024](https://www.exposedbycmd.org/2024/04/16/leonard-leos-concord-fund-top-funder-of-republican-ags-group-in-2024/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [InfluenceWatch: Concord Fund profile](https://www.influencewatch.org/non-profit/concord-fund/) (Tier 3) (VERIFIED)
 
 ---

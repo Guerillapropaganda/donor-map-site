@@ -75,7 +75,7 @@ Organizing for Action exemplifies how campaign finance law's restrictions on ind
 
 - [ProPublica: Organizing for Action's Dark Money Network](https://projects.propublica.org/nonprofits/organizations/461827418) (Tier 2) (VERIFIED)
 - [OpenSecrets: OFA Funding and Spending](https://www.opensecrets.org/orgs/organizing-for-action/summary?id=D000078907) (Tier 1) (VERIFIED)
-- ~~[IRS Form 990: OFA Annual Filings](https://apps.irs.gov/app/eos/allSearch?searchChoice=ePostcard&ein=&names=Organizing%20for%20Action&city=&state=All+States&country=US)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[IRS Form 990: OFA Annual Filings](https://apps.irs.gov/app/eos/allSearch?searchChoice=ePostcard&ein=&names=Organizing%20for%20Action&city=&state=All+States&country=US)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [Center for Responsive Politics: Dark Money and Tax Exemption](https://www.opensecrets.org/orgs/organizing-for-action/summary?id=D000078907) (Tier 1) (VERIFIED)
 
 ---
@@ -92,7 +92,7 @@ Organizing for Action exemplifies how campaign finance law's restrictions on ind
 
 > This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.
 
-### Financial Overview (990 Filing — 2018)
+### Financial Overview (990 Filing, 2018)
 <!-- auto:propublica-990 start -->
 | Metric | Amount |
 |--------|--------|

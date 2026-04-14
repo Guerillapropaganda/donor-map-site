@@ -73,7 +73,7 @@ McCain represents the **"reform-branded defense contractor proxy"** pattern. His
 
 The "maverick" brand worked precisely because it allowed McCain to advocate for defense increases and weapons platforms without appearing to be a captured actor. Democratic colleagues praised his ethics and independence while he delivered for Lockheed and Boeing. This is the function of the "principled conservative" in a capitalist system: create moral cover for material alignment.
 
-His opposition to Trump's tariffs on China (2018) and defense budget cuts (2017) showed consistent defense-contractor alignment even when it meant breaking with a Republican president—revealing that McCain's loyalty was to his donor base, not party or Trump's authority.
+His opposition to Trump's tariffs on China (2018) and defense budget cuts (2017) showed consistent defense-contractor alignment even when it meant breaking with a Republican president, revealing that McCain's loyalty was to his donor base, not party or Trump's authority.
 
 ## Sources
 
@@ -81,7 +81,7 @@ His opposition to Trump's tariffs on China (2018) and defense budget cuts (2017)
 - [FEC campaign finance records: McCain presidential 2008](https://www.fec.gov) (Tier 1) (VERIFIED)
 - [Defense Industry Donations to John McCain](https://publicintegrity.org) (Tier 2) (VERIFIED)
 - [Keating Five scandal: Senate Ethics Committee investigation](https://www.senate.gov) (Tier 1) (VERIFIED)
-- ~~[McCain-Feingold Campaign Finance Reform Act of 2002](https://www.congress.gov)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[McCain-Feingold Campaign Finance Reform Act of 2002](https://www.congress.gov)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [McCain family business: Hensley & Co beer distribution](https://ballotpedia.org/John_McCain) (Tier 3) (VERIFIED)
 
 ---

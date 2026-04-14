@@ -1,5 +1,5 @@
 ---
-title: "Pablo Jose Hernandez Master Profile"
+title: "Pablo Jose Hernandez"
 type: politician
 content-readiness: draft
 last-updated: 2026-04-12

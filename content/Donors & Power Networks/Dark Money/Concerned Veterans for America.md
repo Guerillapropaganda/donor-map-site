@@ -36,13 +36,13 @@ The needs-reenrichment flag has been set. The next scheduled pipeline run will p
 
 ### Who They Are
 
-Concerned Veterans for America (CVA) is the Koch network's purpose-built political operation targeting veterans' healthcare for privatization. Founded in 2011 as "Vets for Economic Freedom Trust" with $2 million in seed funding from Koch-affiliated donors. Rebranded to CVA shortly after formation. [[Pete Hegseth]] — now Trump's Secretary of Defense — served as its first CEO and executive director (2011-2016).
+Concerned Veterans for America (CVA) is the Koch network's purpose-built political operation targeting veterans' healthcare for privatization. Founded in 2011 as "Vets for Economic Freedom Trust" with $2 million in seed funding from Koch-affiliated donors. Rebranded to CVA shortly after formation. [[Pete Hegseth]], now Trump's Secretary of Defense, served as its first CEO and executive director (2011-2016).
 
-**Funding structure:** From 2012-2014, CVA received over $20 million from Freedom Partners Chamber of Commerce — described by Politico as "the Koch brothers' secret bank." In 2015 alone, CVA received nearly $16 million in contributions, with $14 million coming directly from Freedom Partners. By 2016 (Hegseth's final year), the organization raised $15.9 million and spent $16.4 million.
+**Funding structure:** From 2012-2014, CVA received over $20 million from Freedom Partners Chamber of Commerce, described by Politico as "the Koch brothers' secret bank." In 2015 alone, CVA received nearly $16 million in contributions, with $14 million coming directly from Freedom Partners. By 2016 (Hegseth's final year), the organization raised $15.9 million and spent $16.4 million.
 
-**Post-2016 restructuring:** After Koch network reorganization in 2016, Americans for Prosperity became the umbrella organization absorbing CVA as an extension project. CVA now receives all funding from AFP and no longer files independent IRS returns — meaning its budget, donors, and expenditures are invisible to public disclosure. This is dark money by design.
+**Post-2016 restructuring:** After Koch network reorganization in 2016, Americans for Prosperity became the umbrella organization absorbing CVA as an extension project. CVA now receives all funding from AFP and no longer files independent IRS returns, meaning its budget, donors, and expenditures are invisible to public disclosure. This is dark money by design.
 
-**Koch network trustees:** Wayne Gable — former managing director of federal affairs at Koch Industries, president of the Charles G. Koch Foundation, and board member of Freedom Partners — serves as a CVA trustee. The organization's governance connects directly to the Koch family's corporate and philanthropic apparatus.
+**Koch network trustees:** Wayne Gable, former managing director of federal affairs at Koch Industries, president of the Charles G. Koch Foundation, and board member of Freedom Partners, serves as a CVA trustee. The organization's governance connects directly to the Koch family's corporate and philanthropic apparatus.
 
 ---
 
@@ -63,7 +63,7 @@ The rhetorical frame is "choice" and "access." The structural outcome is defundi
 
 ### Who They Fund (and Who Funds Them)
 
-> [!money] Follow the Money — CVA Funding Pipeline
+> [!money] Follow the Money. CVA Funding Pipeline
 > **2012-2014:** $20+ million from Freedom Partners (Koch "secret bank")
 > **2015:** $16 million total / $14 million from Freedom Partners alone
 > **2016:** $15.9 million raised / $16.4 million spent (Hegseth's final year)
@@ -86,13 +86,13 @@ The rhetorical frame is "choice" and "access." The structural outcome is defundi
 | Date | Event | Amount | Source |
 |------|-------|--------|--------|
 | 2011-01-01 | Koch network founds Concerned Veterans for America with Hegseth as CEO | $2M seed funding | American Oversight |
-| 2014-01-01 | VA Choice Act passes, first legislative expansion of private care (CVA lobbied heavily) | — | Congress.gov |
-| 2014-01-01 | CVA adviser Darin Selnick placed on Commission on Care to advocate facility closures | — | VA.gov |
-| 2018-01-01 | VA MISSION Act passes with CVA engineering, streamlines private care expansion | — | Congress.gov |
+| 2014-01-01 | VA Choice Act passes, first legislative expansion of private care (CVA lobbied heavily) |, | Congress.gov |
+| 2014-01-01 | CVA adviser Darin Selnick placed on Commission on Care to advocate facility closures |, | VA.gov |
+| 2018-01-01 | VA MISSION Act passes with CVA engineering, streamlines private care expansion |, | Congress.gov |
 | 2018-01-01 | VA community care spending jumps from $14.8B (2018 baseline) | $14.8B | VA.gov |
 | 2023-01-01 | VA community care spending reaches $28.5B (exact date pending) | $28.5B | VA.gov |
-| 2025-01-24 | Hegseth confirmed as Defense Secretary (51-50 with VP tie-break) | — | Senate.gov |
-| 2025-02-01 | Doug Collins confirmed as VA Secretary (77-23) | — | Senate.gov |
+| 2025-01-24 | Hegseth confirmed as Defense Secretary (51-50 with VP tie-break) |, | Senate.gov |
+| 2025-02-01 | Doug Collins confirmed as VA Secretary (77-23) |, | Senate.gov |
 | 2025-01-01 | FY2026 budget proposes $14.4B increase in community care spending (67% increase) | $14.4B | VA.gov |
 
 > [!money]
@@ -100,7 +100,7 @@ The rhetorical frame is "choice" and "access." The structural outcome is defundi
 
 **CVA's access to Trump administration documented:** American Oversight obtained records showing numerous emails and meetings between CVA representatives and high-level VA officials. CVA publicly boasted it had "a seat at the table with the Trump administration."
 
-**The veterans who oppose it:** Major veterans' organizations — VFW, DAV, Vietnam Veterans of America, AMVETS, Paralyzed Veterans of America — have consistently opposed CVA's privatization agenda. A 2018 survey found 92% of VA users rated their VA care as "good" or "excellent." The organizations that actually represent veterans' healthcare interests are fighting the organization that claims to speak for veterans.
+**The veterans who oppose it:** Major veterans' organizations. VFW, DAV, Vietnam Veterans of America, AMVETS, Paralyzed Veterans of America, have consistently opposed CVA's privatization agenda. A 2018 survey found 92% of VA users rated their VA care as "good" or "excellent." The organizations that actually represent veterans' healthcare interests are fighting the organization that claims to speak for veterans.
 
 > [!contradiction]
 > CVA's name contains "Veterans" and its mission statement claims to empower veterans with healthcare choice. But the major veterans' service organizations — VFW (1.5 million members), DAV (1 million members), Vietnam Veterans of America, AMVETS, Paralyzed Veterans of America — uniformly oppose CVA's privatization agenda. CVA's actual membership is not publicly disclosed. The organization that claims to speak for veterans is opposed by the organizations that actually do. The "concerned veterans" in the name are the Koch network's donors, not the veterans who use the VA.
@@ -140,7 +140,7 @@ The circular logic: underfund VA → wait times increase → cite wait times as 
 - [Newsweek: Is the VA Being Privatized? Koch-Backed Group Says It Just Wants Choice](https://www.newsweek.com/koch-brothers-backed-group-could-determine-future-va-870693) (Tier 2) (VERIFIED)
 - [AFGE: Koch-Funded CVA Wants to Dismantle VA](https://www.afge.org/article/report-koch-funded-concerned-veterans-for-america-wants-to-dismantle-va-cut-veterans-benefits/) (Tier 2) (VERIFIED)
 - [Washington Post: How a Koch-backed veterans group gained influence in Trump's Washington](https://www.washingtonpost.com/politics/how-a-koch-backed-veterans-group-gained-influence-in-trumps-washington/2018/04/07/398b67c4-3784-11e8-9c0a-85d477d9a226_story.html) (Tier 2) (VERIFIED)
-- ~~[SourceWatch: Concerned Veterans for America](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/Concerned_Veterans_for_America)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3)
+- ~~[SourceWatch: Concerned Veterans for America](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/Concerned_Veterans_for_America)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
 - [Common Dreams: Privatizer Pete Hegseth Is Bad for Military Families](https://www.commondreams.org/opinion/pete-hegseth-privatization-va) (Tier 3) (VERIFIED)
 
 ---

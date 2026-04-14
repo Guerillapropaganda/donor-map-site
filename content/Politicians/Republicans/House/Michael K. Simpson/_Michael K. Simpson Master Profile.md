@@ -1,5 +1,5 @@
 ---
-title: "Michael K. Simpson Master Profile"
+title: "Michael K. Simpson"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

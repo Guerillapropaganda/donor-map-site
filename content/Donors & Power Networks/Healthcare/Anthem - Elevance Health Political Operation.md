@@ -32,7 +32,7 @@ The needs-reenrichment flag has been set. The next scheduled pipeline run will p
 
 ### The Medicaid Managed Care Revenue Engine
 
-Elevance Health (formerly Anthem) derives a significant portion of its $170+ billion annual revenue from Medicaid managed care contracts — government-funded health insurance administered by private companies. This business model converts public health funding into private profit: the government pays Elevance a per-member-per-month fee to administer Medicaid benefits, and Elevance profits by spending less on care than it receives in premiums.
+Elevance Health (formerly Anthem) derives a significant portion of its $170+ billion annual revenue from Medicaid managed care contracts, government-funded health insurance administered by private companies. This business model converts public health funding into private profit: the government pays Elevance a per-member-per-month fee to administer Medicaid benefits, and Elevance profits by spending less on care than it receives in premiums.
 
 Elevance's political operation ($3-5 million per cycle in PAC contributions, $8-12 million annually in lobbying) focuses on expanding Medicaid managed care, opposing public option proposals that would compete with private insurance, and maintaining favorable reimbursement rates from state Medicaid agencies.
 
@@ -45,7 +45,7 @@ The structural position: Elevance profits from Medicaid expansion (more enrollee
 
 ### Sources
 
-- ~~[OpenSecrets: Elevance Health organizational profile](https://www.opensecrets.org/orgs/elevance-health/summary?id=D000065854)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[OpenSecrets: Elevance Health organizational profile](https://www.opensecrets.org/orgs/elevance-health/summary?id=D000065854)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [SEC: Elevance Health 10-K filing](https://www.sec.gov/cgi-bin/browse-edgar?company=Anthem%20-%20Elevance%20Health%20Political%20Operation&CIK=&type=&dateb=&owner=include&count=40&search_text=&action=getcompany) (Tier 1) (VERIFIED)
 - [CMS: Medicaid managed care data](https://www.cms.gov/data-research/statistics-trends-and-reports/medicare-advantagepart-d-contract-and-enrollment-data) (Tier 1) (VERIFIED)
 - [Ballotpedia: Health insurance industry](https://ballotpedia.org/Anthem_-_Elevance_Health_Political_Operation) (Tier 3) (VERIFIED)

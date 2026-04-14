@@ -1,5 +1,5 @@
 ---
-title: "Henry C. Hank Johnson Master Profile"
+title: "Henry C. Hank Johnson"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

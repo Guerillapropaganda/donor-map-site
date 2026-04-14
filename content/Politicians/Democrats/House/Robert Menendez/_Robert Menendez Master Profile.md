@@ -1,5 +1,5 @@
 ---
-title: "Robert Menendez Master Profile"
+title: "Robert Menendez"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

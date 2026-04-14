@@ -1,5 +1,5 @@
 ---
-title: "Aumua Amata Coleman Radewagen Master Profile"
+title: "Aumua Amata Coleman Radewagen"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

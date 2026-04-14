@@ -1,5 +1,5 @@
 ---
-title: "Mark Harris Master Profile"
+title: "Mark Harris"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

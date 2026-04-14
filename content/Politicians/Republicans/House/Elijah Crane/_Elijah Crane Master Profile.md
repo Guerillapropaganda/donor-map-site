@@ -1,5 +1,5 @@
 ---
-title: "Elijah Crane Master Profile"
+title: "Elijah Crane"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

@@ -1,5 +1,5 @@
 ---
-title: "Todd Young Master Profile"
+title: "Todd Young"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

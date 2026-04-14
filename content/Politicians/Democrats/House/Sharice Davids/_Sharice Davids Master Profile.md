@@ -1,5 +1,5 @@
 ---
-title: "Sharice Davids Master Profile"
+title: "Sharice Davids"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

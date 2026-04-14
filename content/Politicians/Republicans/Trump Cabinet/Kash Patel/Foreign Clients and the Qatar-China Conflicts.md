@@ -26,7 +26,7 @@ donors: Embassy of Qatar Elite Depot Ltd. Czechoslovak Group
 
 **Pre-FBI relationship:** Trishul LLC received consulting income from the Embassy of Qatar. The exact amount is not publicly disclosed beyond "client" designation in financial disclosures.
 
-**Post-appointment action:** In December 2025, FBI Director Patel signed "security deals" with Qatar — his former lobbying client. The Senate Judiciary Committee demanded examination of his "undisclosed consulting services for Qatar."
+**Post-appointment action:** In December 2025, FBI Director Patel signed "security deals" with Qatar, his former lobbying client. The Senate Judiciary Committee demanded examination of his "undisclosed consulting services for Qatar."
 
 > [!money]
 > Qatar is the world's wealthiest country per capita, a major gas exporter competing with U.S. LNG interests, and hosts the largest U.S. military base in the Middle East (Al Udeid Air Base). Qatar has been accused of financing Hamas and has served as a mediator in hostage negotiations. The FBI Director's pre-existing financial relationship with Qatar's embassy creates an inherent conflict: the agency that investigates foreign influence operations is led by someone who was on a foreign government's payroll.
@@ -37,7 +37,7 @@ donors: Embassy of Qatar Elite Depot Ltd. Czechoslovak Group
 
 **Holdings:** $1–5 million in unvested stock of Elite Depot Ltd. (Cayman Islands-based parent company of Shein, the Chinese fast-fashion retailer). Stock matures over one year.
 
-**The conflict:** The FBI has "aggressively sounded the alarm about the danger China poses to the U.S." — identifying Chinese economic espionage, technology theft, and influence operations as top national security priorities. The FBI Director holds $1–5 million in a Chinese company.
+**The conflict:** The FBI has "aggressively sounded the alarm about the danger China poses to the U.S.", identifying Chinese economic espionage, technology theft, and influence operations as top national security priorities. The FBI Director holds $1–5 million in a Chinese company.
 
 **Patel's defense:** Claimed only a "remote" chance his FBI role would create a conflict with the Shein investment. This defense ignores that the FBI's China portfolio is its largest counterintelligence operation.
 
@@ -45,7 +45,7 @@ donors: Embassy of Qatar Elite Depot Ltd. Czechoslovak Group
 
 ### Czechoslovak Group (CSG)
 
-**Client:** CSGM, a branch of Czechoslovak Group — a Czech arms conglomerate.
+**Client:** CSGM, a branch of Czechoslovak Group, a Czech arms conglomerate.
 
 **Work:** Trishul LLC earned $5,000+ consulting on CSG's push to purchase Vista Outdoor (American ammunition manufacturer).
 

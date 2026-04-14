@@ -31,13 +31,13 @@ Graham's Armed Services Committee position creates a closed funding loop:
 3. **Defense budgets increase** → contractor revenues increase
 4. **Contractors donate more** → cycle repeats
 
-Graham has never met a military intervention he opposed, a defense budget increase he rejected, or a weapons program he wouldn't champion. His hawkish positions aren't ideological convictions — they're the service agreement for $2.1 million+ in defense contractor funding.
+Graham has never met a military intervention he opposed, a defense budget increase he rejected, or a weapons program he wouldn't champion. His hawkish positions aren't ideological convictions, they're the service agreement for $2.1 million+ in defense contractor funding.
 
 ---
 
 ### The Lobbyist Bundler Problem
 
-10% of Graham's $2.2 million (in one measured period) came from lobbyists acting as bundlers — higher than any other member of Congress. Many of these lobbyists represent defense contractors, foreign governments, and military-adjacent industries. The bundler system means the actual defense industry influence on Graham is significantly higher than direct PAC contributions suggest: a single defense lobbyist hosting a fundraiser can generate hundreds of thousands in a night.
+10% of Graham's $2.2 million (in one measured period) came from lobbyists acting as bundlers, higher than any other member of Congress. Many of these lobbyists represent defense contractors, foreign governments, and military-adjacent industries. The bundler system means the actual defense industry influence on Graham is significantly higher than direct PAC contributions suggest: a single defense lobbyist hosting a fundraiser can generate hundreds of thousands in a night.
 
 > [!money]
 > Graham has the highest lobbyist-bundler percentage of any senator. Defense lobbyists don't just give their own money — they organize fundraisers where defense industry executives write checks. The $2.1M in direct defense contractor donations is the visible floor. The bundled money — raised at events organized by defense lobbyists — is the invisible ceiling.

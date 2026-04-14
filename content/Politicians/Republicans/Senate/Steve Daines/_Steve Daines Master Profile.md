@@ -1,5 +1,5 @@
 ---
-title: "Steve Daines Master Profile"
+title: "Steve Daines"
 type: politician
 content-readiness: draft
 last-updated: 2026-04-12

@@ -24,7 +24,7 @@ donors: [[SEIU - Service Employees International Union|SEIU]]
 
 ### The CNA Endorsement Logic
 
-The California Nurses Association — 100,000+ registered nurses — endorsed Steyer on February 3, 2026. Their reasoning:
+The California Nurses Association, 100,000+ registered nurses, endorsed Steyer on February 3, 2026. Their reasoning:
 
 1. Support for single-payer state-run health insurance (CNA's #1 priority)
 2. Commitment to "end corporate control over politics"

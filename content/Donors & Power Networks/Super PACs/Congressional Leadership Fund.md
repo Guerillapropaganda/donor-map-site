@@ -49,19 +49,19 @@ aliases:
 
 ### Who They Are
 
-Congressional Leadership Fund (CLF). The House Republican super PAC — the single largest outside spending operation dedicated to maintaining a Republican House majority. Founded in October 2011 in the wake of Citizens United, CLF is a hybrid PAC (Carey committee, FEC ID: C00504530), meaning it operates both as a traditional PAC making direct contributions and as a super PAC making unlimited independent expenditures. CLF is endorsed by House Republican leadership and associated with Speaker Mike Johnson (R-LA).
+Congressional Leadership Fund (CLF). The House Republican super PAC, the single largest outside spending operation dedicated to maintaining a Republican House majority. Founded in October 2011 in the wake of Citizens United, CLF is a hybrid PAC (Carey committee, FEC ID: C00504530), meaning it operates both as a traditional PAC making direct contributions and as a super PAC making unlimited independent expenditures. CLF is endorsed by House Republican leadership and associated with Speaker Mike Johnson (R-LA).
 
-CLF raised $243,241,867 and spent $242,603,249 in the 2024 cycle, making $216,785,222 in independent expenditures — the vast majority of its spending. The organization is led by president Chris Winkelman (as of July 2025), who succeeded Dan Conston. Conston also served as president of American Action Network (AAN), CLF's 501(c)(4) dark money counterpart — the dual leadership reflecting the structural integration of the two organizations.
+CLF raised $243,241,867 and spent $242,603,249 in the 2024 cycle, making $216,785,222 in independent expenditures, the vast majority of its spending. The organization is led by president Chris Winkelman (as of July 2025), who succeeded Dan Conston. Conston also served as president of American Action Network (AAN), CLF's 501(c)(4) dark money counterpart, the dual leadership reflecting the structural integration of the two organizations.
 
-CLF operates in tandem with AAN: CLF handles disclosed independent expenditures for or against named candidates, while AAN handles undisclosed "issue advocacy" that influences elections without triggering FEC disclosure. Together they form the House Republican leadership's complete outside political operation — a two-track system maximizing both spending power and donor anonymity.
+CLF operates in tandem with AAN: CLF handles disclosed independent expenditures for or against named candidates, while AAN handles undisclosed "issue advocacy" that influences elections without triggering FEC disclosure. Together they form the House Republican leadership's complete outside political operation, a two-track system maximizing both spending power and donor anonymity.
 
-**2025-2026 cycle (through 12/31/2025):** CLF has already raised $71,981,445 — with $71,547,620 in "other receipts" (the super PAC non-contribution account) — signaling another $200M+ cycle.
+**2025-2026 cycle (through 12/31/2025):** CLF has already raised $71,981,445, with $71,547,620 in "other receipts" (the super PAC non-contribution account), signaling another $200M+ cycle.
 
 ---
 
-### The Money — FEC Financial Summary (2024 Cycle)
+### The Money. FEC Financial Summary (2024 Cycle)
 
-### CLF (C00504530) — FEC/OpenSecrets:
+### CLF (C00504530). FEC/OpenSecrets:
 
 | Category | Amount |
 |----------|--------|
@@ -75,13 +75,13 @@ CLF operates in tandem with AAN: CLF handles disclosed independent expenditures 
 | Beginning cash on hand | $959,621 |
 | End cash on hand | $1,396,239 |
 
-**Key structural note:** CLF's hybrid structure means nearly all money ($242M of $243M) flows through "other receipts" — the non-contribution super PAC account that accepts unlimited donations. The traditional PAC side ($118K in contributions) is vestigial. This is functionally a super PAC that retains the legal option of making direct candidate contributions.
+**Key structural note:** CLF's hybrid structure means nearly all money ($242M of $243M) flows through "other receipts", the non-contribution super PAC account that accepts unlimited donations. The traditional PAC side ($118K in contributions) is vestigial. This is functionally a super PAC that retains the legal option of making direct candidate contributions.
 
 ### Spending growth trajectory:
 
 | Cycle | Total Raised | Growth |
 |-------|-------------|--------|
-| 2012 | $48M | — |
+| 2012 | $48M |, |
 | 2014 | $71M | +48% |
 | 2016 | $97M | +37% |
 | 2018 | $131M | +35% |
@@ -89,7 +89,7 @@ CLF operates in tandem with AAN: CLF handles disclosed independent expenditures 
 | 2022 | $187M | +31% |
 | 2024 | $243M | +30% |
 
-CLF has grown from $48M to $243M in six cycles — a 406% increase that tracks the post-Citizens United explosion in outside spending. The organization now raises more than many national party committees.
+CLF has grown from $48M to $243M in six cycles, a 406% increase that tracks the post-Citizens United explosion in outside spending. The organization now raises more than many national party committees.
 
 ---
 
@@ -109,7 +109,7 @@ CLF has grown from $48M to $243M in six cycles — a 406% increase that tracks t
 | Financial services PACs (JPMorgan, Goldman Sachs) | $12M+ combined | Wall Street deregulation |
 | Defense contractor PACs (Lockheed Martin, Raytheon, Boeing) | $10M+ combined | Defense spending, military contracts |
 
-The AAN pass-through is the critical structural feature: $17.3M in dark money from AAN means CLF received more from undisclosed sources via its 501(c)(4) counterpart than from any individual donor. Corporations worried about consumer backlash (pharma, insurance, fossil fuel) can donate to AAN anonymously, and AAN transfers the money to CLF — laundering the corporate fingerprints off the political spending.
+The AAN pass-through is the critical structural feature: $17.3M in dark money from AAN means CLF received more from undisclosed sources via its 501(c)(4) counterpart than from any individual donor. Corporations worried about consumer backlash (pharma, insurance, fossil fuel) can donate to AAN anonymously, and AAN transfers the money to CLF, laundering the corporate fingerprints off the political spending.
 
 ---
 
@@ -117,7 +117,7 @@ The AAN pass-through is the critical structural feature: $17.3M in dark money fr
 
 CLF's nominal mission is electing Republicans to the House. Its actual function is converting corporate donor money into House votes on donor-class priorities:
 
-**Tax policy protection:** Permanent corporate tax cuts, opposition to wealth taxes, pass-through deduction defense. The 2017 TCJA was CLF's greatest legislative achievement — every donor sector benefited.
+**Tax policy protection:** Permanent corporate tax cuts, opposition to wealth taxes, pass-through deduction defense. The 2017 TCJA was CLF's greatest legislative achievement, every donor sector benefited.
 
 **Fossil fuel deregulation:** Anti-climate regulation, EPA rollback, opposition to methane rules, Energy Emergency Declaration. Fossil fuel PACs' $18M+ investment returns unanimous Republican votes against climate legislation.
 
@@ -131,19 +131,19 @@ CLF's nominal mission is electing Republicans to the House. Its actual function 
 
 ---
 
-### Where They Spend — The 2024 Battlefield
+### Where They Spend. The 2024 Battlefield
 
 CLF's spending concentrates on competitive districts where small margins determine outcomes:
 
-**2024 cycle independent expenditures:** $216.8M — concentrated in 50-75 competitive districts with TV ad reservations of $202M+ across key markets (Los Angeles, Harrisburg, Raleigh, Columbus, Phoenix, Denver, Las Vegas).
+**2024 cycle independent expenditures:** $216.8M, concentrated in 50-75 competitive districts with TV ad reservations of $202M+ across key markets (Los Angeles, Harrisburg, Raleigh, Columbus, Phoenix, Denver, Las Vegas).
 
-**Electoral results:** CLF-backed candidates won 12 of 19 races (63%) where CLF and AAN combined spending. CLF outspent the Democratic [[House Majority PAC]] by $196M in competitive races — a spending advantage that reflects the structural fundraising gap between corporate-backed Republican operations and labor/grassroots-dependent Democratic ones.
+**Electoral results:** CLF-backed candidates won 12 of 19 races (63%) where CLF and AAN combined spending. CLF outspent the Democratic [[House Majority PAC]] by $196M in competitive races, a spending advantage that reflects the structural fundraising gap between corporate-backed Republican operations and labor/grassroots-dependent Democratic ones.
 
 **2026 planning:** 29 districts identified as competitive or holdable. Estimated $200M+ cycle spending with early deployment to protect vulnerable Republicans before Democratic spending ramps up.
 
 ---
 
-### The CLF-AAN Dual Structure — How Dark Money Enters House Races
+### The CLF-AAN Dual Structure. How Dark Money Enters House Races
 
 The CLF-AAN relationship is the template for modern political dark money operations:
 
@@ -151,9 +151,9 @@ The CLF-AAN relationship is the template for modern political dark money operati
 
 **AAN (501(c)(4)):** Does not disclose donors, runs "issue advocacy" ads supporting Republican legislative priorities, files with the IRS. Spent $27M+ in 2017-2018 on tax reform alone. Known donors include PhRMA ($12M), Republican Jewish Coalition ($4M), Aetna ($3.3M).
 
-**The pass-through mechanism:** AAN transferred $17.3M to CLF in the 2024 cycle. This means corporations that donated to AAN anonymously had their money spent on explicit candidate advocacy through CLF — with their names never appearing in FEC filings. A pharmaceutical company gives $5M to AAN (undisclosed) → AAN transfers $5M to CLF (disclosed as "American Action Network") → CLF spends $5M on ads attacking a Democratic candidate who supports drug price controls. The voter sees "Congressional Leadership Fund" as the sponsor. The pharmaceutical company's fingerprints are erased at every step.
+**The pass-through mechanism:** AAN transferred $17.3M to CLF in the 2024 cycle. This means corporations that donated to AAN anonymously had their money spent on explicit candidate advocacy through CLF, with their names never appearing in FEC filings. A pharmaceutical company gives $5M to AAN (undisclosed) → AAN transfers $5M to CLF (disclosed as "American Action Network") → CLF spends $5M on ads attacking a Democratic candidate who supports drug price controls. The voter sees "Congressional Leadership Fund" as the sponsor. The pharmaceutical company's fingerprints are erased at every step.
 
-The shared leadership (Conston ran both organizations simultaneously) ensures strategic coordination: AAN runs "issue advocacy" during legislative battles to provide political cover for Republican votes, then CLF runs candidate-focused ads during election season to protect members who cast those votes. The two organizations are one operation with two legal structures — one for disclosed spending, one for anonymous spending.
+The shared leadership (Conston ran both organizations simultaneously) ensures strategic coordination: AAN runs "issue advocacy" during legislative battles to provide political cover for Republican votes, then CLF runs candidate-focused ads during election season to protect members who cast those votes. The two organizations are one operation with two legal structures, one for disclosed spending, one for anonymous spending.
 
 ---
 
@@ -161,9 +161,9 @@ The shared leadership (Conston ran both organizations simultaneously) ensures st
 
 CLF's structural power comes from its control by House Republican leadership. Unlike independent super PACs, CLF's spending decisions are made by operatives aligned with the Speaker and leadership team:
 
-**The leverage mechanism:** Every vulnerable Republican incumbent knows CLF money is the difference between winning and losing. This creates structural dependence — representatives must maintain good standing with leadership to receive CLF spending support. A House member who votes against leadership priorities on key bills can expect reduced CLF investment in their next election.
+**The leverage mechanism:** Every vulnerable Republican incumbent knows CLF money is the difference between winning and losing. This creates structural dependence, representatives must maintain good standing with leadership to receive CLF spending support. A House member who votes against leadership priorities on key bills can expect reduced CLF investment in their next election.
 
-**McCarthy's legacy:** Kevin McCarthy built CLF from a $48M operation to a $243M machine, using it as his personal power base. Every vulnerable Republican knew CLF money was determinative — making them structurally dependent on McCarthy's favor. When McCarthy was ousted as Speaker in October 2023, his successor inherited a fundraising apparatus designed for personal power consolidation.
+**McCarthy's legacy:** Kevin McCarthy built CLF from a $48M operation to a $243M machine, using it as his personal power base. Every vulnerable Republican knew CLF money was determinative, making them structurally dependent on McCarthy's favor. When McCarthy was ousted as Speaker in October 2023, his successor inherited a fundraising apparatus designed for personal power consolidation.
 
 **The Johnson transition:** Speaker Mike Johnson's CLF operation maintains the McCarthy-era spending infrastructure while navigating a narrower majority and different donor coalition. The $71.9M already raised for 2025-2026 (including $10M total from Musk) signals continued dominance.
 
@@ -175,7 +175,7 @@ Fossil fuel donors gave record amounts to CLF in 2024, making the energy industr
 
 The pipeline operates through multiple channels: direct PAC contributions from Chevron, Shell, Koch Industries, and the American Petroleum Institute ($18M+ combined); individual contributions from energy executives; and undisclosed contributions through AAN. The return is measured in House votes: unanimous Republican opposition to climate legislation, EPA rollbacks, anti-EV provisions, and opposition to methane rules.
 
-Every competitive district with energy-sector employers receives CLF ad spending that frames fossil fuel deregulation as "energy independence" and "lower gas prices" — converting corporate regulatory interests into populist messaging. The spending creates a feedback loop: fossil fuel companies fund CLF → CLF protects House members who vote for deregulation → deregulation increases fossil fuel profits → increased profits fund more CLF contributions.
+Every competitive district with energy-sector employers receives CLF ad spending that frames fossil fuel deregulation as "energy independence" and "lower gas prices", converting corporate regulatory interests into populist messaging. The spending creates a feedback loop: fossil fuel companies fund CLF → CLF protects House members who vote for deregulation → deregulation increases fossil fuel profits → increased profits fund more CLF contributions.
 
 ---
 
@@ -183,18 +183,18 @@ Every competitive district with energy-sector employers receives CLF ad spending
 
 | Date | Event | Amount | Significance |
 |------|-------|--------|-------------|
-| 2011-10 | CLF founded as hybrid PAC/super PAC | — | Post-Citizens United creation |
+| 2011-10 | CLF founded as hybrid PAC/super PAC |, | Post-Citizens United creation |
 | 2012 | First full cycle | $48M raised | Testing phase for House super PAC model |
 | 2014 | Midterm cycle | $71M | GOP gains 13 seats; CLF proves effective |
 | 2016 | Presidential year | $97M | Maintains Republican House control |
 | 2018 | Midterm cycle | $131M | House flips to Democrats despite CLF spending |
 | 2020 | Presidential year | $143M | Republicans gain 12 seats unexpectedly |
 | 2022 | Midterm cycle | $187M | Republicans gain narrow majority; CLF spending decisive in Sun Belt |
-| 2023-10 | McCarthy ousted as Speaker | — | Disrupts CLF fundraising machine |
+| 2023-10 | McCarthy ousted as Speaker |, | Disrupts CLF fundraising machine |
 | 2024 | Presidential year | $243M | Largest CLF cycle; $216.8M in independent expenditures |
 | 2024-06 | Elon Musk donates $5M | $5M | Largest individual donation of 2024 cycle |
 | 2025-06 | Musk donates second $5M | $5M | Despite Musk-Trump feuding, continues funding Republican infrastructure |
-| 2025-07 | Chris Winkelman becomes president | — | Replaces Dan Conston |
+| 2025-07 | Chris Winkelman becomes president |, | Replaces Dan Conston |
 | 2025-2026 | Current cycle | $72M+ (through 12/31/25) | On pace for $200M+ cycle |
 
 ---
@@ -212,12 +212,12 @@ Every competitive district with energy-sector employers receives CLF ad spending
 
 ### Sources
 
-- [OpenSecrets: Congressional Leadership Fund PAC summary — $243M raised, 2024 cycle](https://www.opensecrets.org/political-action-committees-pacs/C00504530/summary/2024) (Tier 1) (VERIFIED)
-- ~~[FEC: Congressional Leadership Fund committee filings (C00504530)](https://www.fec.gov/data/committee/C00504530/?tab=summary)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
-- [FactCheck.org: Congressional Leadership Fund — hybrid PAC, top donors, AAN relationship](https://www.factcheck.org/2024/04/congressional-leadership-fund-5/) (Tier 2) (VERIFIED)
-- [Ballotpedia: Congressional Leadership Fund — background, leadership, endorsements](https://ballotpedia.org/Congressional_Leadership_Fund) (Tier 3) (VERIFIED)
+- [OpenSecrets: Congressional Leadership Fund PAC summary, $243M raised, 2024 cycle](https://www.opensecrets.org/political-action-committees-pacs/C00504530/summary/2024) (Tier 1) (VERIFIED)
+- ~~[FEC: Congressional Leadership Fund committee filings (C00504530)](https://www.fec.gov/data/committee/C00504530/?tab=summary)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- [FactCheck.org: Congressional Leadership Fund, hybrid PAC, top donors, AAN relationship](https://www.factcheck.org/2024/04/congressional-leadership-fund-5/) (Tier 2) (VERIFIED)
+- [Ballotpedia: Congressional Leadership Fund, background, leadership, endorsements](https://ballotpedia.org/Congressional_Leadership_Fund) (Tier 3) (VERIFIED)
 - [Read Sludge: Fossil fuel donors give record amount to congressional GOP super PACs](https://readsludge.com/2024/10/17/fossil-fuel-donors-give-record-amount-to-congressional-gop-super-pacs/) (Tier 2) (VERIFIED)
-- [NBC News: Elon Musk gives millions to Republican super PACs ahead of midterms — $5M to CLF](https://www.nbcnews.com/politics/2026-election/elon-musk-gives-millions-republican-super-pacs-ahead-midterms-rcna222114) (Tier 2) (VERIFIED)
+- [NBC News: Elon Musk gives millions to Republican super PACs ahead of midterms, $5M to CLF](https://www.nbcnews.com/politics/2026-election/elon-musk-gives-millions-republican-super-pacs-ahead-midterms-rcna222114) (Tier 2) (VERIFIED)
 - [Brennan Center: Ohio congressional races illustrate 2024 campaign finance trends](https://www.brennancenter.org/our-work/analysis-opinion/ohio-congressional-races-illustrate-2024-campaign-finance-trends) (Tier 2) (VERIFIED)
 - [OpenSecrets: Congressional Leadership Fund donors](https://www.opensecrets.org/political-action-committees-pacs/congressional-leadership-fund/C00504530/donors/2024) (Tier 1) (VERIFIED)
 

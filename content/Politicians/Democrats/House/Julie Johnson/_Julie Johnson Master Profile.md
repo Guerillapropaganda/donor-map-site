@@ -1,5 +1,5 @@
 ---
-title: "Julie Johnson Master Profile"
+title: "Julie Johnson"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

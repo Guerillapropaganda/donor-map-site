@@ -2,9 +2,9 @@
 title: "2026-04-03 Link Audit"
 ---
 
-# Link Audit — 2026-04-03
+# Link Audit, 2026-04-03
 
-**Status:** Running...
+**Status:** Running..
 **Mode:** Fix | URLs: Yes
 
 ## Live Log
@@ -12,1123 +12,1123 @@ title: "2026-04-03 Link Audit"
 Started at 8:14:53 PM
 
 Scanned **1473** markdown files
-- **BROKEN** in `Donors & Power Networks\Agriculture\Fanjul Family - Florida Crystals.md`: `[[Norman Braman]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Agriculture\Fanjul Family - Florida Crystals.md`: `[[Reclaim America PAC]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Agriculture\Fanjul Family - Florida Crystals.md`: `[[Mauricio Claver-Carone]]` — suggestion: `[[LARA Fund - Mauricio Claver-Carone]]` (65%)
-- **BROKEN** in `Donors & Power Networks\Agriculture\Fanjul Family - Florida Crystals.md`: `[[Michael Waltz]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Agriculture\Fanjul Family - Florida Crystals.md`: `[[LARA Fund]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Agriculture\Fanjul Family - Florida Crystals.md`: `[[Cubaexport]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Agriculture\Fanjul Family - Florida Crystals.md`: `[[Pernod Ricard]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Agriculture\Fanjul Family - Florida Crystals.md`: `[[Bacardi]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Agriculture\Fanjul Family - Florida Crystals.md`: `[[Nicolás Maduro]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Agriculture\Fanjul Family - Florida Crystals.md`: `[[Brian Walsh]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Agriculture\Fanjul Family - Florida Crystals.md`: `[[Victor Cervino]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Agriculture\Fanjul Family - Florida Crystals.md`: `[[Darrell Issa]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Agriculture\Fanjul Family - Florida Crystals.md`: `[[Debbie Wasserman Schultz]]` — suggestion: `[[_Debbie Wasserman Schultz Master Profile]]` (60%)
-- **BROKEN** in `Donors & Power Networks\Agriculture\Fanjul Family - Florida Crystals.md`: `[[Chris Dodd]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Agriculture\Fanjul Family - Florida Crystals.md`: `[[Collin Peterson]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Agriculture\Fanjul Family - Florida Crystals.md`: `[[Combest, Sell & Associates]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Agriculture\Fanjul Family - Florida Crystals.md`: `[[The Peterson Group]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Agriculture\Fanjul Family - Florida Crystals.md`: `[[Jared Moskowitz]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Agriculture\Fanjul Family - Florida Crystals.md`: `[[Bacardi]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Agriculture\Fanjul Family - Florida Crystals.md`: `[[Pernod Ricard]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Agriculture\Fanjul Family - Florida Crystals.md`: `[[Cubaexport]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Agriculture\Fanjul Family - Florida Crystals.md`: `[[Darrell Issa]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Agriculture\Fanjul Family - Florida Crystals.md`: `[[Debbie Wasserman Schultz]]` — suggestion: `[[_Debbie Wasserman Schultz Master Profile]]` (60%)
-- **BROKEN** in `Donors & Power Networks\Agriculture\Fanjul Family - Florida Crystals.md`: `[[Norman Braman]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Agriculture\Fanjul Family - Florida Crystals.md`: `[[Reclaim America PAC]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Agriculture\Fanjul Family - Florida Crystals.md`: `[[Reclaim America PAC]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Agriculture\Fanjul Family - Florida Crystals.md`: `[[Donald Trump]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Agriculture\Fanjul Family - Florida Crystals.md`: `[[Michael Waltz]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Agriculture\Fanjul Family - Florida Crystals.md`: `[[American Sugar Alliance]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Agriculture\Fanjul Family - Florida Crystals.md`: `[[Combest, Sell & Associates]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Agriculture\Fanjul Family - Florida Crystals.md`: `[[Combest, Sell & Associates]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Agriculture\Fanjul Family - Florida Crystals.md`: `[[The Peterson Group]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Agriculture\Fanjul Family - Florida Crystals.md`: `[[Collin Peterson]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Agriculture\Fanjul Family - Florida Crystals.md`: `[[Chris Dodd]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Agriculture\Fanjul Family - Florida Crystals.md`: `[[Mauricio Claver-Carone]]` — suggestion: `[[LARA Fund - Mauricio Claver-Carone]]` (65%)
-- **BROKEN** in `Donors & Power Networks\Agriculture\Fanjul Family - Florida Crystals.md`: `[[LARA Fund]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Agriculture\Fanjul Family - Florida Crystals.md`: `[[Michael Waltz]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Agriculture\Fanjul Family - Florida Crystals.md`: `[[Nicolás Maduro]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Agriculture\Fanjul Family - Florida Crystals.md`: `[[Cubaexport]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Agriculture\Fanjul Family - Florida Crystals.md`: `[[Pernod Ricard]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Agriculture\Fanjul Family - Florida Crystals.md`: `[[United States Patent and Trademark Office]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Agriculture\Fanjul Family - Florida Crystals.md`: `[[Bacardi]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Agriculture\Fanjul Family - Florida Crystals.md`: `[[Reclaim America PAC]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Agriculture\Fanjul Family - Florida Crystals.md`: `[[American Sugar Alliance]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Agriculture\Fanjul Family - Florida Crystals.md`: `[[Michael Waltz]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Agriculture\Fanjul Family - Florida Crystals.md`: `[[Michael Waltz]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Agriculture\Fanjul Family - Florida Crystals.md`: `[[Mauricio Claver-Carone]]` — suggestion: `[[LARA Fund - Mauricio Claver-Carone]]` (65%)
-- **BROKEN** in `Donors & Power Networks\Carceral State\GEO Group.md`: `[[Day 1 Alliance]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Dark Money\ALEC - American Legislative Exchange Council.md`: `[[State Policy Network]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Dark Money\ALEC - American Legislative Exchange Council.md`: `[[State Policy Network]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Dark Money\ALEC - American Legislative Exchange Council.md`: `[[Mackinac Center]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Dark Money\ALEC - American Legislative Exchange Council.md`: `[[Goldwater Institute]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Dark Money\ALEC - American Legislative Exchange Council.md`: `[[State Policy Network]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Dark Money\ALEC - American Legislative Exchange Council.md`: `[[State Policy Network]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Dark Money\ALEC - American Legislative Exchange Council.md`: `[[Texas Public Policy Foundation]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Dark Money\ALEC - American Legislative Exchange Council.md`: `[[Mackinac Center for Public Policy]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Dark Money\ALEC - American Legislative Exchange Council.md`: `[[Goldwater Institute]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Dark Money\American Action Network.md`: `[[Tax Cuts and Jobs Act]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Dark Money\Bradley Foundation.md`: `[[America First Legal]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Dark Money\CREW - Citizens for Responsibility and Ethics in Washington.md`: `[[Judicial Watch]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Dark Money\CREW - Citizens for Responsibility and Ethics in Washington.md`: `[[America First Legal]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Dark Money\CREW - Citizens for Responsibility and Ethics in Washington.md`: `[[Democracy Forward]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Dark Money\Cryptocurrency Industry Bloc.md`: `[[Ripple Labs]]` — suggestion: `[[Ripple]]` (55%)
-- **BROKEN** in `Donors & Power Networks\Dark Money\Democratic Donor Network.md`: `[[American Bridge 21st Century]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Dark Money\Democratic Small Dollar Networks.md`: `[[Justice Democrats]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Dark Money\Democratic Small Dollar Networks.md`: `[[Our Revolution]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Dark Money\Democratic Small Dollar Networks.md`: `[[Working Families Party]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Dark Money\Entertainment and Hollywood Donors.md`: `[[Saban Center for Middle East Policy]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Dark Money\Entertainment and Hollywood Donors.md`: `[[Motion Picture Association]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Dark Money\Entertainment and Hollywood Donors.md`: `[[Copyright and Intellectual Property Policy]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Dark Money\Entertainment and Hollywood Donors.md`: `[[Israel-US Relations and Donor Influence]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Dark Money\Entertainment and Hollywood Donors.md`: `[[AI and Creative Labor Policy]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Dark Money\Entertainment and Hollywood Donors.md`: `[[Streaming Regulation]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Dark Money\Entertainment and Hollywood Donors.md`: `[[SAG-AFTRA Strike 2023]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Dark Money\Freedom Caucus.md`: `[[_Andy Harris Master Profile]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Dark Money\Freedom Caucus.md`: `[[_Scott Perry Master Profile]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Dark Money\HBW Resources.md`: `[[Western States and Tribal Nations]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Dark Money\HBW Resources.md`: `[[BP]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Dark Money\Healthcare Sector.md`: `[[American Hospital Association]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Dark Money\Healthcare Sector.md`: `[[Medicare for All]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Dark Money\Healthcare Sector.md`: `[[American Hospital Association]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Dark Money\Healthcare Sector.md`: `[[Medicare for All]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Dark Money\Judicial Crisis Network.md`: `[[Donors Trust]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Dark Money\Majority Forward.md`: `[[Advocacy Fund]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Dark Money\National Association of Manufacturers.md`: `[[Climate Denial Networks]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Dark Money\Ohio Federation of Teachers.md`: `[[American Federation of Teachers]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Dark Money\Ohio Federation of Teachers.md`: `[[Ohio Education Association]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Dark Money\Stand Together.md`: `[[Donors Trust]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Defense & Intelligence\Defense Contractors Bloc.md`: `[[Anduril]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Defense & Intelligence\Defense Contractors Bloc.md`: `[[FY2024 NDAA]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Defense & Intelligence\Defense Contractors Bloc.md`: `[[Pentagon Audit Failures]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Defense & Intelligence\Defense Contractors Bloc.md`: `[[F-35 Program]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Defense & Intelligence\Defense Contractors Bloc.md`: `[[Revolving Door]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Defense & Intelligence\Defense Contractors Bloc.md`: `[[Think Tank Capture]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Defense & Intelligence\Defense Contractors.md`: `[[Anduril Industries]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Defense & Intelligence\Raytheon (RTX).md`: `[[_Lloyd Austin Master Profile]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Defense & Intelligence\Raytheon (RTX).md`: `[[_Mark Esper Master Profile]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Defense & Intelligence\Raytheon (RTX).md`: `[[_Rob Wittman Master Profile]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Defense & Intelligence\Raytheon (RTX).md`: `[[_Salud Carbajal Master Profile]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Defense & Intelligence\Raytheon (RTX).md`: `[[_Seth Moulton Master Profile]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Defense & Intelligence\Raytheon (RTX).md`: `[[_Hal Rogers Master Profile]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Defense & Intelligence\Raytheon (RTX).md`: `[[_Mike Simpson Master Profile]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Defense & Intelligence\Raytheon (RTX).md`: `[[_Katherine Clark Master Profile]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Defense & Intelligence\Raytheon (RTX).md`: `[[_Mark Meadows Master Profile]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Defense & Intelligence\Raytheon (RTX).md`: `[[_Greg Gianforte Master Profile]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Donor Registry - Master Index.md`: `[[Research Methodology and Data Sources]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Donor Registry - Master Index.md`: `[[Session Timeline]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Energy & Utilities\American Petroleum Institute.md`: `[[Better Jobs Together]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Energy & Utilities\American Petroleum Institute.md`: `[[InfluenceMap - American Petroleum Institute]]` — suggestion: `[[American Petroleum Institute]]` (65%)
-- **BROKEN** in `Donors & Power Networks\Energy & Utilities\American Petroleum Institute.md`: `[[InfluenceMap]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Energy & Utilities\American Petroleum Institute.md`: `[[Energy Citizens]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Energy & Utilities\American Petroleum Institute.md`: `[[FreedomWorks]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Energy & Utilities\American Petroleum Institute.md`: `[[Preserving Choice In Vehicle Purchases Act]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Energy & Utilities\American Petroleum Institute.md`: `[[Global Climate Coalition]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Energy & Utilities\American Petroleum Institute.md`: `[[InfluenceMap]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Energy & Utilities\American Petroleum Institute.md`: `[[InfluenceMap]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Energy & Utilities\American Petroleum Institute.md`: `[[FreedomWorks]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Energy & Utilities\American Petroleum Institute.md`: `[[SourceWatch]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Energy & Utilities\American Petroleum Institute.md`: `[[Global Climate Coalition]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Energy & Utilities\Chevron.md`: `[[Shell (company)]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Energy & Utilities\Chevron.md`: `[[American Fuel and Petrochemical Manufacturers]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Energy & Utilities\ConocoPhillips.md`: `[[_Dan Sullivan Master Profile]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Energy & Utilities\ExxonMobil.md`: `[[_Rex Tillerson Master Profile]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Energy & Utilities\ExxonMobil.md`: `[[Carbon Capture & Sequestration Policy]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Energy & Utilities\ExxonMobil.md`: `[[Methane Regulation]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Energy & Utilities\ExxonMobil.md`: `[[Energy Transition]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Energy & Utilities\ExxonMobil.md`: `[[_Rex Tillerson Master Profile]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Energy & Utilities\ExxonMobil.md`: `[[Environmental, Social, and Governance]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Energy & Utilities\ExxonMobil.md`: `[[EPA]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Energy & Utilities\ExxonMobil.md`: `[[InfluenceMap]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Energy & Utilities\ExxonMobil.md`: `[[_Rex Tillerson Master Profile]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Energy & Utilities\ExxonMobil.md`: `[[_Rex Tillerson Master Profile]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Energy & Utilities\ExxonMobil.md`: `[[Greenpeace Unearthed]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Energy & Utilities\ExxonMobil.md`: `[[_Rex Tillerson Master Profile]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Energy & Utilities\ExxonMobil.md`: `[[_Rex Tillerson Master Profile\]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Energy & Utilities\Koch Industries.md`: `[[Flint Hills Resources]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Energy & Utilities\Koch Industries.md`: `[[Flint Hills Resources]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Energy & Utilities\Koch Industries.md`: `[[American Energy Alliance]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Energy & Utilities\Marathon Petroleum.md`: `[[American Fuel and Petrochemical Manufacturers]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Energy & Utilities\Marathon Petroleum.md`: `[[Andeavor]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Energy & Utilities\Marathon Petroleum.md`: `[[Speedway]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Energy & Utilities\Marathon Petroleum.md`: `[[American Fuel and Petrochemical Manufacturers]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Energy & Utilities\Marathon Petroleum.md`: `[[American Fuel and Petrochemical Manufacturers]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Gig Economy\American Gaming Association.md`: `[[MGM Resorts International]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Gig Economy\American Gaming Association.md`: `[[Caesars Entertainment]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Gig Economy\American Gaming Association.md`: `[[MGM Resorts International]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Gig Economy\American Gaming Association.md`: `[[Caesars Entertainment]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Healthcare\Insurance Industry.md`: `[[Affordable Care Act]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Jeffrey Epstein Network.md`: `[[_Robert F. Kennedy Jr. Master Profile]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Jeffrey Epstein Network.md`: `[[00-INDEX]]` — suggestion: `[[index]]` (63%)
-- **BROKEN** in `Donors & Power Networks\Jeffrey Epstein Network.md`: `[[Section-1-Wexner-Empire]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Jeffrey Epstein Network.md`: `[[Section-2-Modeling-Pipeline]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Jeffrey Epstein Network.md`: `[[Section-3-Rogan-Circle]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Jeffrey Epstein Network.md`: `[[Section-4-Rogan-Protection-Network]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Jeffrey Epstein Network.md`: `[[Section-5-Steve-Bannon]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Jeffrey Epstein Network.md`: `[[Section-6-Peter-Thiel]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Jeffrey Epstein Network.md`: `[[Epstein CIA Logistics]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Jeffrey Epstein Network.md`: `[[Protection Mechanisms]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Labor Unions\UAW - United Auto Workers.md`: `[[_Sherrod Brown Master Profile]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Media & Entertainment\Comcast - NBCUniversal.md`: `[[AT&T]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Media & Entertainment\Comcast - NBCUniversal.md`: `[[Charter Communications]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Mega-Donors\Ajay Royan.md`: `[[BlackSky]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Mega-Donors\Ajay Royan.md`: `[[Marc Andreessen]]` — suggestion: `[[Marc Andreessen and a16z]]` (63%)
-- **BROKEN** in `Donors & Power Networks\Mega-Donors\Ajay Royan.md`: `[[BlackSky]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Mega-Donors\Ajay Royan.md`: `[[BlackSky]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Mega-Donors\David Sacks.md`: `[[Anduril Industries]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Mega-Donors\JB Pritzker.md`: `[[Think Big America]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Mega-Donors\JB Pritzker.md`: `[[Workers' Rights Amendment - Illinois Constitution]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Mega-Donors\JB Pritzker.md`: `[[Progressive Income Tax - Illinois 2020 Amendment]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Mega-Donors\JB Pritzker.md`: `[[Rebuild Illinois Infrastructure Package]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Mega-Donors\JB Pritzker.md`: `[[Reproductive Rights - State Level Operations]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Mega-Donors\JB Pritzker.md`: `[[2028 Democratic Presidential Race]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Mega-Donors\Koch Network - Charles Koch.md`: `[[Freedom Partners]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Mega-Donors\Koch Network - Charles Koch.md`: `[[Freedom Partners]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Mega-Donors\Koch Network - Charles Koch.md`: `[[Freedom Partners]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Mega-Donors\Koch Network - Charles Koch.md`: `[[American Energy Alliance]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Mega-Donors\Koch Network - Charles Koch.md`: `[[Freedom Partners]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Mega-Donors\Koch Network - Charles Koch.md`: `[[American Energy Alliance]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Mega-Donors\Koch Network - Charles Koch.md`: `[[Freedom Partners]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Mega-Donors\Koch Network - Charles Koch.md`: `[[Marc Short]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Mega-Donors\Koch Network - Charles Koch.md`: `[[Public Citizen]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Mega-Donors\Koch Network - Charles Koch.md`: `[[Union of Concerned Scientists]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Mega-Donors\Koch Network - Charles Koch.md`: `[[Freedom Partners]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Mega-Donors\Koch Network - Charles Koch.md`: `[[Freedom Partners]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Mega-Donors\Koch Network - Charles Koch.md`: `[[Freedom Partners]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Mega-Donors\Koch Network - Charles Koch.md`: `[[Freedom Partners]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Mega-Donors\Koch Network - Charles Koch.md`: `[[Freedom Partners]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Mega-Donors\Koch Network - Charles Koch.md`: `[[Freedom Partners]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Mega-Donors\Les Wexner - Wexner Family Enterprises.md`: `[[_Mike DeWine Master Profile]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Mega-Donors\Les Wexner - Wexner Family Enterprises.md`: `[[_John Kasich Master Profile]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Mega-Donors\Mark Zuckerberg.md`: `[[Joel Kaplan]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Mega-Donors\Mark Zuckerberg.md`: `[[Chan Zuckerberg Initiative]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Mega-Donors\Narya Capital.md`: `[[Marc Andreessen]]` — suggestion: `[[Marc Andreessen and a16z]]` (63%)
-- **BROKEN** in `Donors & Power Networks\Mega-Donors\Palantir.md`: `[[Anduril Industries]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Mega-Donors\Patrick Soon-Shiong.md`: `[[Media & Influence Pipeline]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Mega-Donors\Stephen Schwarzman.md`: `[[President's Strategic and Policy Forum]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Mega-Donors\UPS.md`: `[[FedEx]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Pharma & Healthcare\Meatpacking Corporations.md`: `[[Restaurant & Food Industry]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Pharma & Healthcare\PhRMA.md`: `[[_Billy Tauzin Master Profile]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Pharma & Healthcare\PhRMA.md`: `[[Partnership for Safe Medicines]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Pharma & Healthcare\PhRMA.md`: `[[Stephen Ubl]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Real Estate\Blackstone Real Estate.md`: `[[National Rental Home Council]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Real Estate\Blackstone Real Estate.md`: `[[National Multifamily Housing Council]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Real Estate\Blackstone Real Estate.md`: `[[National Multifamily Housing Council]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Real Estate\Blackstone Real Estate.md`: `[[National Rental Home Council]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Real Estate\Blackstone Real Estate.md`: `[[1031 exchanges]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Real Estate\Blackstone Real Estate.md`: `[[carried interest]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Real Estate\Blackstone Real Estate.md`: `[[AIR Communities]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Real Estate\Blackstone Real Estate.md`: `[[Wayne Berman]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Real Estate\Blackstone Real Estate.md`: `[[National Multifamily Housing Council\]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Real Estate\Blackstone Real Estate.md`: `[[NAREIT\]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Real Estate\Blackstone Real Estate.md`: `[[National Apartment Association\]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Real Estate\Blackstone Real Estate.md`: `[[National Rental Home Council\]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Real Estate\Blackstone Real Estate.md`: `[[National Rental Home Council]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Real Estate\Blackstone Real Estate.md`: `[[National Multifamily Housing Council]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Real Estate\Blackstone Real Estate.md`: `[[National Rental Home Council]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Real Estate\Invitation Homes - Institutional Landlords.md`: `[[National Rental Home Council]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Real Estate\Invitation Homes - Institutional Landlords.md`: `[[American Homes 4 Rent]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Real Estate\Invitation Homes - Institutional Landlords.md`: `[[Pretium/Progress Residential]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Real Estate\Invitation Homes - Institutional Landlords.md`: `[[FirstKey Homes - Cerberus]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Real Estate\Invitation Homes - Institutional Landlords.md`: `[[National Rental Home Council]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Real Estate\Invitation Homes - Institutional Landlords.md`: `[[National Multifamily Housing Council]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Real Estate\Invitation Homes - Institutional Landlords.md`: `[[Sudafi Henry]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Real Estate\Invitation Homes - Institutional Landlords.md`: `[[National Multifamily Housing Council\]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Real Estate\Invitation Homes - Institutional Landlords.md`: `[[Kyrsten Sinema\]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Real Estate\Invitation Homes - Institutional Landlords.md`: `[[Bill Pulte\]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Real Estate\Invitation Homes - Institutional Landlords.md`: `[[Fannie Mae]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Real Estate\Invitation Homes - Institutional Landlords.md`: `[[Freddie Mac]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Real Estate\Invitation Homes - Institutional Landlords.md`: `[[Bill Pulte]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Real Estate\Invitation Homes - Institutional Landlords.md`: `[[FHFA]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Real Estate\Invitation Homes - Institutional Landlords.md`: `[[Bill Pulte]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Real Estate\Invitation Homes - Institutional Landlords.md`: `[[Diana Reid]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Real Estate\Invitation Homes - Institutional Landlords.md`: `[[Fannie Mae]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Real Estate\Invitation Homes - Institutional Landlords.md`: `[[Freddie Mac]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Real Estate\Invitation Homes - Institutional Landlords.md`: `[[Bill Pulte]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Real Estate\Invitation Homes - Institutional Landlords.md`: `[[Bill Pulte]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Real Estate\National Association of Realtors.md`: `[[Shannon McGahn]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Real Estate\National Association of Realtors.md`: `[[Federal Housing Finance Agency (FHFA)]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Real Estate\National Association of Realtors.md`: `[[Collingwood Group]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Real Estate\Real Estate Board of New York.md`: `[[New York Housing Policy]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Real Estate\Real Estate Board of New York.md`: `[[Leonard Litwin - Glenwood Management]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Real Estate\Real Estate Board of New York.md`: `[[Sheldon Silver]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Real Estate\Real Estate Board of New York.md`: `[[Dean Skelos]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Real Estate\Real Estate Board of New York.md`: `[[Carl Heastie]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Real Estate\Real Estate Board of New York.md`: `[[Andrew Cuomo]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Real Estate\Real Estate Board of New York.md`: `[[Alexa Avilés]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Real Estate\Real Estate Board of New York.md`: `[[Andrew Cuomo]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Real Estate\Real Estate Board of New York.md`: `[[Andrew Cuomo]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Real Estate\Real Estate Board of New York.md`: `[[Andrew Cuomo]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Real Estate\Real Estate Board of New York.md`: `[[Leonard Litwin]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Real Estate\Real Estate Board of New York.md`: `[[Kilroy Realty]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Real Estate\Real Estate Board of New York.md`: `[[Neighbors for a Better San Francisco]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Super PACs\DonorsTrust.md`: `[[Donors Capital Fund]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Super PACs\DonorsTrust.md`: `[[State Policy Network]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Super PACs\DonorsTrust.md`: `[[Competitive Enterprise Institute]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Super PACs\DonorsTrust.md`: `[[Consumers' Research]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Super PACs\DonorsTrust.md`: `[[Whitney Lynn Ball]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Super PACs\DonorsTrust.md`: `[[Philanthropy Roundtable]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Super PACs\DonorsTrust.md`: `[[Competitive Enterprise Institute]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Super PACs\DonorsTrust.md`: `[[Institute for Justice]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Super PACs\DonorsTrust.md`: `[[Acton Institute]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Super PACs\DonorsTrust.md`: `[[Donors Capital Fund]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Super PACs\DonorsTrust.md`: `[[Competitive Enterprise Institute]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Super PACs\DonorsTrust.md`: `[[Donors Capital Fund]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Super PACs\DonorsTrust.md`: `[[Donors Capital Fund]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Super PACs\DonorsTrust.md`: `[[State Policy Network]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Super PACs\DonorsTrust.md`: `[[State Policy Network]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Super PACs\DonorsTrust.md`: `[[State Policy Network]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Super PACs\DonorsTrust.md`: `[[Donors Capital Fund]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Super PACs\DonorsTrust.md`: `[[Consumers' Research]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Super PACs\DonorsTrust.md`: `[[State Policy Network]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Super PACs\Winning for Women PAC.md`: `[[National Republican Congressional Committee]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Super PACs\Winning for Women PAC.md`: `[[Citadel LLC]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Tech & Crypto\Fairshake PAC.md`: `[[Defend American Jobs]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Tech & Crypto\Fairshake PAC.md`: `[[Protect Progress]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Tech & Crypto\Founders Fund.md`: `[[Anduril Industries]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Wall Street\Blackstone Group.md`: `[[KKR]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Wall Street\CalSTRS.md`: `[[Blackstone - Blackstone Group]]` — suggestion: `[[Blackstone Group]]` (55%)
-- **BROKEN** in `Donors & Power Networks\Wall Street\Carlyle Group.md`: `[[ManTech International]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Wall Street\Master Donor Database.md`: `[[_VAULT_INDEX]]` — no match found
-- **BROKEN** in `Donors & Power Networks\Wall Street\Walmart.md`: `[[Restaurant & Food Industry]]` — no match found
-- **BROKEN** in `Lobbying Firms & K Street\Alpine Group.md`: `[[Shell plc]]` — no match found
-- **BROKEN** in `Lobbying Firms & K Street\Alpine Group.md`: `[[Amazon.com]]` — suggestion: `[[Amazon]]` (60%)
-- **BROKEN** in `Lobbying Firms & K Street\Alpine Group.md`: `[[Amgen Inc]]` — no match found
-- **BROKEN** in `Lobbying Firms & K Street\Forbes Tate Partners.md`: `[[Amgen Inc]]` — no match found
-- **BROKEN** in `Lobbying Firms & K Street\Forbes Tate Partners.md`: `[[RTX Corp]]` — no match found
-- **BROKEN** in `Lobbying Firms & K Street\Mercury Public Affairs.md`: `[[Tech & Crypto]]` — no match found
-- **BROKEN** in `Lobbying Firms & K Street\Mercury Public Affairs.md`: `[[Foreign]]` — no match found
-- **BROKEN** in `Lobbying Firms & K Street\Mercury Public Affairs.md`: `[[Energy & Utilities]]` — no match found
-- **BROKEN** in `Lobbying Firms & K Street\Mercury Public Affairs.md`: `[[Wall Street]]` — suggestion: `[[Wall Street Bloc]]` (69%)
-- **BROKEN** in `Lobbying Firms & K Street\_Lobbying Firms Framework.md`: `[[Research Methodology and Data Sources]]` — no match found
-- **BROKEN** in `Lobbying Firms & K Street\_Lobbying Firms Framework.md`: `[[_VAULT_INDEX]]` — no match found
-- **BROKEN** in `Lobbying Firms & K Street\_Lobbying Firms Index.md`: `[[_VAULT_INDEX]]` — no match found
-- **BROKEN** in `Lobbying Firms & K Street\_Lobbying Firms Index.md`: `[[Altria Group]]` — no match found
-- **BROKEN** in `Lobbying Firms & K Street\_Lobbying Firms Index.md`: `[[RTX Corp]]` — no match found
-- **BROKEN** in `Media & Influence Pipeline\Centrist\Destiny - Steven Bonnell.md`: `[[Twitch]]` — no match found
-- **BROKEN** in `Media & Influence Pipeline\Centrist\Destiny - Steven Bonnell.md`: `[[YouTube]]` — no match found
-- **BROKEN** in `Media & Influence Pipeline\Centrist\Destiny - Steven Bonnell.md`: `[[Audience subscriptions/donations]]` — no match found
-- **BROKEN** in `Media & Influence Pipeline\Centrist\Destiny - Steven Bonnell.md`: `[[Sponsorships]]` — no match found
-- **BROKEN** in `Media & Influence Pipeline\Centrist\Destiny - Steven Bonnell.md`: `[[Kick]]` — no match found
-- **BROKEN** in `Media & Influence Pipeline\Centrist\Destiny - Steven Bonnell.md`: `[[Self-hosted infrastructure]]` — no match found
-- **BROKEN** in `Media & Influence Pipeline\Centrist\Jake Tapper.md`: `[[Fox Corp - Rupert Murdoch]]` — suggestion: `[[Rupert Murdoch]]` (56%)
-- **BROKEN** in `Media & Influence Pipeline\Centrist\Jillian Michaels.md`: `[[Valuetainment Media]]` — suggestion: `[[Valuetainment]]` (68%)
-- **BROKEN** in `Media & Influence Pipeline\Centrist\Jillian Michaels.md`: `[[Fitness sponsorships/endorsements]]` — no match found
-- **BROKEN** in `Media & Influence Pipeline\Centrist\Jillian Michaels.md`: `[[Audience/Patreon]]` — no match found
-- **BROKEN** in `Media & Influence Pipeline\Centrist\Jillian Michaels.md`: `[[Valuetainment Investments Group]]` — no match found
-- **BROKEN** in `Media & Influence Pipeline\Centrist\Jillian Michaels.md`: `[[PHP Agency]]` — no match found
-- **BROKEN** in `Media & Influence Pipeline\Centrist\Joe Scarborough.md`: `[[Fox Corp - Rupert Murdoch]]` — suggestion: `[[Rupert Murdoch]]` (56%)
-- **BROKEN** in `Media & Influence Pipeline\Centrist\Joe Scarborough.md`: `[[Comcast Corporation]]` — no match found
-- **BROKEN** in `Media & Influence Pipeline\Centrist\Nicolle Wallace.md`: `[[Fox Corp - Rupert Murdoch]]` — suggestion: `[[Rupert Murdoch]]` (56%)
-- **BROKEN** in `Media & Influence Pipeline\Centrist\Nicolle Wallace.md`: `[[Fox Corp - Rupert Murdoch]]` — suggestion: `[[Rupert Murdoch]]` (56%)
-- **BROKEN** in `Media & Influence Pipeline\Centrist\Piers Morgan.md`: `[[News Corp]]` — no match found
-- **BROKEN** in `Media & Influence Pipeline\Centrist\Piers Morgan.md`: `[[Fox Nation]]` — no match found
-- **BROKEN** in `Media & Influence Pipeline\Centrist\Piers Morgan.md`: `[[Sky News Australia]]` — no match found
-- **BROKEN** in `Media & Influence Pipeline\Centrist\Piers Morgan.md`: `[[TalkTV]]` — no match found
-- **BROKEN** in `Media & Influence Pipeline\Centrist\Piers Morgan.md`: `[[YouTube]]` — no match found
-- **BROKEN** in `Media & Influence Pipeline\Centrist\Piers Morgan.md`: `[[Sponsorships/Brands]]` — no match found
-- **BROKEN** in `Media & Influence Pipeline\Centrist\Piers Morgan.md`: `[[HarperCollins]]` — no match found
-- **BROKEN** in `Media & Influence Pipeline\Centrist\Piers Morgan.md`: `[[News UK]]` — no match found
-- **BROKEN** in `Media & Influence Pipeline\Centrist\The Bulwark.md`: `[[Charlie Sykes]]` — no match found
-- **BROKEN** in `Media & Influence Pipeline\Centrist\The Bulwark.md`: `[[Tim Miller]]` — no match found
-- **BROKEN** in `Media & Influence Pipeline\Centrist\The Bulwark.md`: `[[Sarah Longwell]]` — no match found
-- **BROKEN** in `Media & Influence Pipeline\Centrist\The Dispatch.md`: `[[David French]]` — no match found
-- **BROKEN** in `Media & Influence Pipeline\Centrist\The Dispatch.md`: `[[Jonah Goldberg]]` — no match found
-- **BROKEN** in `Media & Influence Pipeline\Centrist\The Dispatch.md`: `[[Steve Hayes]]` — no match found
-- **BROKEN** in `Media & Influence Pipeline\Left\Cenk Uygur.md`: `[[Greycroft]]` — no match found
-- **BROKEN** in `Media & Influence Pipeline\Left\Cenk Uygur.md`: `[[WndrCo]]` — no match found
-- **BROKEN** in `Media & Influence Pipeline\Left\Chapo Trap House.md`: `[[Democratic Socialists of America]]` — no match found
-- **BROKEN** in `Media & Influence Pipeline\Left\Crooked Media.md`: `[[Democratic National Committee]]` — no match found
-- **BROKEN** in `Media & Influence Pipeline\Left\Don Lemon.md`: `[[Fox Corp - Rupert Murdoch]]` — suggestion: `[[Rupert Murdoch]]` (56%)
-- **BROKEN** in `Media & Influence Pipeline\Left\Drop Site News.md`: `[[First Look Media]]` — no match found
-- **BROKEN** in `Media & Influence Pipeline\Left\Jacobin.md`: `[[DSA - Democratic Socialists of America]]` — no match found
-- **BROKEN** in `Media & Influence Pipeline\Left\Jeremy Scahill.md`: `[[First Look Media]]` — no match found
-- **BROKEN** in `Media & Influence Pipeline\Left\Joy Reid.md`: `[[Comcast Corporation]]` — no match found
-- **BROKEN** in `Media & Influence Pipeline\Left\Max Blumenthal.md`: `[[Ben Norton]]` — no match found
-- **BROKEN** in `Media & Influence Pipeline\Left\Mehdi Hasan.md`: `[[Fox Corp - Rupert Murdoch]]` — suggestion: `[[Rupert Murdoch]]` (56%)
-- **BROKEN** in `Media & Influence Pipeline\Left\The Grayzone.md`: `[[RT - Russia Today]]` — no match found
-- **BROKEN** in `Media & Influence Pipeline\Right\Alex Jones.md`: `[[Roger Stone]]` — no match found
-- **BROKEN** in `Media & Influence Pipeline\Right\Alex Jones.md`: `[[Oath Keepers]]` — no match found
-- **BROKEN** in `Media & Influence Pipeline\Right\Alex Jones.md`: `[[Proud Boys]]` — no match found
-- **BROKEN** in `Media & Influence Pipeline\Right\Andrew Klavan.md`: `[[Daily Wire - Ben Shapiro]]` — no match found
-- **BROKEN** in `Media & Influence Pipeline\Right\Christopher Rufo.md`: `[[Manhattan Institute for Policy Research]]` — no match found
-- **BROKEN** in `Media & Influence Pipeline\Right\Christopher Rufo.md`: `[[Manhattan Institute for Policy Research]]` — no match found
-- **BROKEN** in `Media & Influence Pipeline\Right\Christopher Rufo.md`: `[[Searle Freedom Trust]]` — no match found
-- **BROKEN** in `Media & Influence Pipeline\Right\Christopher Rufo.md`: `[[Thomas W. Smith Foundation]]` — no match found
-- **BROKEN** in `Media & Influence Pipeline\Right\Christopher Rufo.md`: `[[Charles Koch Foundation]]` — suggestion: `[[Charles Koch]]` (52%)
-- **BROKEN** in `Media & Influence Pipeline\Right\Christopher Rufo.md`: `[[Schwab Charitable]]` — no match found
-- **BROKEN** in `Media & Influence Pipeline\Right\Dinesh D'Souza.md`: `[[Salem Media Group]]` — no match found
-- **BROKEN** in `Media & Influence Pipeline\Right\Dinesh D'Souza.md`: `[[Club for Growth Action]]` — suggestion: `[[Club for Growth]]` (68%)
-- **BROKEN** in `Media & Influence Pipeline\Right\Dinesh D'Souza.md`: `[[Right Texas PAC]]` — no match found
-- **BROKEN** in `Media & Influence Pipeline\Right\Dinesh D'Souza.md`: `[[Salem Media Group]]` — no match found
-- **BROKEN** in `Media & Influence Pipeline\Right\Dinesh D'Souza.md`: `[[Club for Growth Action]]` — suggestion: `[[Club for Growth]]` (68%)
-- **BROKEN** in `Media & Influence Pipeline\Right\Dinesh D'Souza.md`: `[[Trump Family Media Investments]]` — no match found
-- **BROKEN** in `Media & Influence Pipeline\Right\Dinesh D'Souza.md`: `[[Salem Media Group]]` — no match found
-- **BROKEN** in `Media & Influence Pipeline\Right\Greg Gutfeld.md`: `[[Fox Corp - Rupert Murdoch]]` — suggestion: `[[Rupert Murdoch]]` (56%)
-- **BROKEN** in `Media & Influence Pipeline\Right\Greg Gutfeld.md`: `[[Fox Corp - Rupert Murdoch]]` — suggestion: `[[Rupert Murdoch]]` (56%)
-- **BROKEN** in `Media & Influence Pipeline\Right\InfoWars.md`: `[[Free Speech Systems LLC]]` — no match found
-- **BROKEN** in `Media & Influence Pipeline\Right\James O'Keefe.md`: `[[Donors Capital Fund]]` — no match found
-- **BROKEN** in `Media & Influence Pipeline\Right\James O'Keefe.md`: `[[Donors Capital Fund]]` — no match found
-- **BROKEN** in `Media & Influence Pipeline\Right\James O'Keefe.md`: `[[Donors Capital Fund]]` — no match found
-- **BROKEN** in `Media & Influence Pipeline\Right\James O'Keefe.md`: `[[Trump Foundation]]` — no match found
-- **BROKEN** in `Media & Influence Pipeline\Right\James O'Keefe.md`: `[[Donors Capital Fund]]` — no match found
-- **BROKEN** in `Media & Influence Pipeline\Right\Jesse Watters.md`: `[[Fox Corp - Rupert Murdoch]]` — suggestion: `[[Rupert Murdoch]]` (56%)
-- **BROKEN** in `Media & Influence Pipeline\Right\Newsmax.md`: `[[Richard Mellon Scaife - Conservative Movement Infrastructure]]` — no match found
-- **BROKEN** in `Media & Influence Pipeline\Right\Newsmax.md`: `[[Foreign Money in U.S. Media]]` — no match found
-- **BROKEN** in `Media & Influence Pipeline\Right\Newsmax.md`: `[[Alex Acosta - Trump Justice System]]` — no match found
-- **BROKEN** in `Media & Influence Pipeline\Right\Newsmax.md`: `[[Cable News Carriage Wars]]` — no match found
-- **BROKEN** in `Media & Influence Pipeline\Right\Rumble.md`: `[[JD Vance]]` — no match found
-- **BROKEN** in `Media & Influence Pipeline\Right\Rumble.md`: `[[Howard Lutnick]]` — no match found
-- **BROKEN** in `Media & Influence Pipeline\Right\Rumble.md`: `[[Tether]]` — no match found
-- **BROKEN** in `Media & Influence Pipeline\Right\Rumble.md`: `[[RT - Russian State Media]]` — no match found
-- **BROKEN** in `Media & Influence Pipeline\Right\Rumble.md`: `[[Colt Ventures]]` — no match found
-- **BROKEN** in `Media & Influence Pipeline\Right\Rumble.md`: `[[Tether]]` — no match found
-- **BROKEN** in `Media & Influence Pipeline\Right\Sean Hannity.md`: `[[Fox Corp - Rupert Murdoch]]` — suggestion: `[[Rupert Murdoch]]` (56%)
-- **BROKEN** in `Media & Influence Pipeline\Right\Sean Hannity.md`: `[[Fox Corp - Rupert Murdoch]]` — suggestion: `[[Rupert Murdoch]]` (56%)
-- **BROKEN** in `Media & Influence Pipeline\Right\Tenet Media.md`: `[[Benny Johnson]]` — no match found
-- **BROKEN** in `Media & Influence Pipeline\Right\Tenet Media.md`: `[[Lauren Southern]]` — no match found
-- **BROKEN** in `Media & Influence Pipeline\Right\Tenet Media.md`: `[[Lauren Chen]]` — no match found
-- **BROKEN** in `Media & Influence Pipeline\Right\Tenet Media.md`: `[[Benny Johnson]]` — no match found
-- **BROKEN** in `Media & Influence Pipeline\_Media Pipeline Framework.md`: `[[Research Methodology and Data Sources]]` — no match found
-- **BROKEN** in `Media & Influence Pipeline\_Media Pipeline Framework.md`: `[[_VAULT_INDEX]]` — no match found
-- **BROKEN** in `Media & Influence Pipeline\_Media Pipeline Framework.md`: `[[API Pipeline]]` — no match found
-- **BROKEN** in `Media & Influence Pipeline\_Media Pipeline Index.md`: `[[_VAULT_INDEX]]` — no match found
-- **BROKEN** in `Media & Influence Pipeline\_Media Pipeline Index.md`: `[[brackets]]` — no match found
-- **BROKEN** in `Media & Influence Pipeline\_Media Pipeline Index.md`: `[[Fox Corp - Rupert Murdoch]]` — suggestion: `[[Rupert Murdoch]]` (56%)
-- **BROKEN** in `Politicians\Democrats\House\Ilhan Omar\The AIPAC Primary Machine and Foreign Affairs Removal.md`: `[[_Cori Bush Master Profile]]` — no match found
-- **BROKEN** in `Politicians\Democrats\House\Jamaal Bowman\_Jamaal Bowman Master Profile.md`: `[[_Cori Bush Master Profile]]` — no match found
-- **BROKEN** in `Politicians\Democrats\House\Melissa Bean\Melissa Bean's Corporate Background.md`: `[[Financial Services Sector]]` — no match found
-- **BROKEN** in `Politicians\Democrats\House\Melissa Bean\Think Big AI PAC and AI Policy Alignment.md`: `[[Leading the Future]]` — no match found
-- **BROKEN** in `Politicians\Democrats\House\Pete Aguilar\_Pete Aguilar Master Profile.md`: `[[_Suzan DelBene Master Profile]]` — no match found
-- **BROKEN** in `Politicians\Democrats\House\Saikat Chakrabarti\CA-11 Congressional Campaign 2026 - Running for Pelosi's Seat.md`: `[[_Scott Wiener Master Profile]]` — no match found
-- **BROKEN** in `Politicians\Democrats\House\Saikat Chakrabarti\CA-11 Congressional Campaign 2026 - Running for Pelosi's Seat.md`: `[[_Connie Chan Master Profile]]` — no match found
-- **BROKEN** in `Politicians\Democrats\House\Saikat Chakrabarti\CA-11 Congressional Campaign 2026 - Running for Pelosi's Seat.md`: `[[_Scott Wiener Master Profile]]` — no match found
-- **BROKEN** in `Politicians\Democrats\House\Saikat Chakrabarti\CA-11 Congressional Campaign 2026 - Running for Pelosi's Seat.md`: `[[_Connie Chan Master Profile]]` — no match found
-- **BROKEN** in `Politicians\Democrats\House\Saikat Chakrabarti\CA-11 Congressional Campaign 2026 - Running for Pelosi's Seat.md`: `[[_Scott Wiener Master Profile]]` — no match found
-- **BROKEN** in `Politicians\Democrats\House\Saikat Chakrabarti\Justice Democrats and Brand New Congress - The Infrastructure He Built.md`: `[[_Cori Bush Master Profile]]` — no match found
-- **BROKEN** in `Politicians\Democrats\House\Saikat Chakrabarti\Justice Democrats and Brand New Congress - The Infrastructure He Built.md`: `[[_AOC Squad]]` — no match found
-- **BROKEN** in `Politicians\Democrats\House\Saikat Chakrabarti\Justice Democrats and Brand New Congress - The Infrastructure He Built.md`: `[[Progressive PACs and Funding Networks]]` — no match found
-- **BROKEN** in `Politicians\Democrats\House\Saikat Chakrabarti\Justice Democrats and Brand New Congress - The Infrastructure He Built.md`: `[[_Cori Bush Master Profile]]` — no match found
-- **BROKEN** in `Politicians\Democrats\House\Saikat Chakrabarti\New Consensus and the Green New Deal Architecture.md`: `[[Sunrise Movement]]` — no match found
-- **BROKEN** in `Politicians\Democrats\House\Saikat Chakrabarti\New Consensus and the Green New Deal Architecture.md`: `[[Green New Deal Resolution]]` — no match found
-- **BROKEN** in `Politicians\Democrats\House\Saikat Chakrabarti\New Consensus and the Green New Deal Architecture.md`: `[[Mission for America]]` — no match found
-- **BROKEN** in `Politicians\Democrats\House\Saikat Chakrabarti\New Consensus and the Green New Deal Architecture.md`: `[[RFC Reconstruction Finance Corporation]]` — no match found
-- **BROKEN** in `Politicians\Democrats\House\Saikat Chakrabarti\The FEC Complaints - PAC-to-LLC Transfer Controversy.md`: `[[Brand New Congress PAC]]` — no match found
-- **BROKEN** in `Politicians\Democrats\House\Saikat Chakrabarti\The FEC Complaints - PAC-to-LLC Transfer Controversy.md`: `[[Justice Democrats PAC]]` — no match found
-- **BROKEN** in `Politicians\Democrats\House\Saikat Chakrabarti\The FEC Complaints - PAC-to-LLC Transfer Controversy.md`: `[[Brand New Congress LLC]]` — no match found
-- **BROKEN** in `Politicians\Democrats\House\Saikat Chakrabarti\The FEC Complaints - PAC-to-LLC Transfer Controversy.md`: `[[National Legal and Policy Center]]` — no match found
-- **BROKEN** in `Politicians\Democrats\House\Saikat Chakrabarti\_Saikat Chakrabarti Master Profile.md`: `[[_Scott Wiener Master Profile]]` — no match found
-- **BROKEN** in `Politicians\Democrats\Presidential\Bill Clinton\_Bill Clinton Master Profile.md`: `[[Robert Rubin]]` — no match found
-- **BROKEN** in `Politicians\Democrats\Presidential\Bill Clinton\_Bill Clinton Master Profile.md`: `[[_Al Gore Master Profile]]` — no match found
-- **BROKEN** in `Politicians\Democrats\Presidential\Tim Walz\_Tim Walz Master Profile.md`: `[[Education Minnesota]]` — no match found
-- **BROKEN** in `Politicians\Democrats\Senate\Harry Reid\_Harry Reid Master Profile.md`: `[[MGM Resorts]]` — no match found
-- **BROKEN** in `Politicians\Democrats\Senate\Harry Reid\_Harry Reid Master Profile.md`: `[[Adelson Network]]` — no match found
-- **BROKEN** in `Politicians\Democrats\Senate\John Hickenlooper\_John Hickenlooper Master Profile.md`: `[[_Michael Bennet Master Profile]]` — no match found
-- **BROKEN** in `Politicians\Democrats\Senate\John Hickenlooper\_John Hickenlooper Master Profile.md`: `[[_Michael Bennet Master Profile]]` — no match found
-- **BROKEN** in `Politicians\Democrats\Senate\Sheldon Whitehouse\_Sheldon Whitehouse Master Profile.md`: `[[League of Conservation Voters]]` — no match found
-- **BROKEN** in `Politicians\Democrats\Senate\Sheldon Whitehouse\_Sheldon Whitehouse Master Profile.md`: `[[League of Conservation Voters]]` — no match found
-- **BROKEN** in `Politicians\Democrats\Senate\Sheldon Whitehouse\_Sheldon Whitehouse Master Profile.md`: `[[League of Conservation Voters]]` — no match found
-- **BROKEN** in `Politicians\Democrats\Senate\Sheldon Whitehouse\_Sheldon Whitehouse Master Profile.md`: `[[League of Conservation Voters]]` — no match found
-- **BROKEN** in `Politicians\Independent\Joe Manchin\The BBB Kill and IRA Fossil Fuel Concessions.md`: `[[Energy Transfer Partners]]` — suggestion: `[[Kelcy Warren - Energy Transfer Partners]]` (62%)
-- **BROKEN** in `Politicians\Independent\Joe Manchin\The BBB Kill and IRA Fossil Fuel Concessions.md`: `[[Williams Companies]]` — no match found
-- **BROKEN** in `Politicians\Independent\Joe Manchin\The BBB Kill and IRA Fossil Fuel Concessions.md`: `[[Plains All American]]` — no match found
-- **BROKEN** in `Politicians\Independent\Joe Manchin\The BBB Kill and IRA Fossil Fuel Concessions.md`: `[[Enterprise Products Partners]]` — no match found
-- **BROKEN** in `Politicians\Independent\Joe Manchin\The BBB Kill and IRA Fossil Fuel Concessions.md`: `[[Equitrans Midstream]]` — no match found
-- **BROKEN** in `Politicians\Independent\Joe Manchin\The BBB Kill and IRA Fossil Fuel Concessions.md`: `[[Enterprise Products Partners]]` — no match found
-- **BROKEN** in `Politicians\Independent\Joe Manchin\The BBB Kill and IRA Fossil Fuel Concessions.md`: `[[Enterprise Products Partners\]]` — no match found
-- **BROKEN** in `Politicians\Independent\Joe Manchin\The BBB Kill and IRA Fossil Fuel Concessions.md`: `[[Energy Transfer Partners]]` — suggestion: `[[Kelcy Warren - Energy Transfer Partners]]` (62%)
-- **BROKEN** in `Politicians\Independent\Joe Manchin\The BBB Kill and IRA Fossil Fuel Concessions.md`: `[[Tellurian Inc]]` — no match found
-- **BROKEN** in `Politicians\Independent\Joe Manchin\The BBB Kill and IRA Fossil Fuel Concessions.md`: `[[Drummond Company]]` — suggestion: `[[Drummond Co]]` (69%)
-- **BROKEN** in `Politicians\Independent\Joe Manchin\The BBB Kill and IRA Fossil Fuel Concessions.md`: `[[Plains All American Pipeline]]` — no match found
-- **BROKEN** in `Politicians\Independent\Joe Manchin\The BBB Kill and IRA Fossil Fuel Concessions.md`: `[[Williams Companies]]` — no match found
-- **BROKEN** in `Politicians\Independent\Joe Manchin\The BBB Kill and IRA Fossil Fuel Concessions.md`: `[[EQT Corporation]]` — no match found
-- **BROKEN** in `Politicians\Independent\Joe Manchin\The BBB Kill and IRA Fossil Fuel Concessions.md`: `[[Diversified Energy Company]]` — no match found
-- **BROKEN** in `Politicians\Independent\Joe Manchin\The BBB Kill and IRA Fossil Fuel Concessions.md`: `[[Equitrans Midstream]]` — no match found
-- **BROKEN** in `Politicians\Independent\Joe Manchin\The BBB Kill and IRA Fossil Fuel Concessions.md`: `[[Domestic Energy Producers Alliance]]` — no match found
-- **BROKEN** in `Politicians\Independent\Joe Manchin\The BBB Kill and IRA Fossil Fuel Concessions.md`: `[[Shell USA]]` — no match found
-- **BROKEN** in `Politicians\Independent\Joe Manchin\The BBB Kill and IRA Fossil Fuel Concessions.md`: `[[Marathon Oil]]` — no match found
-- **BROKEN** in `Politicians\Independent\Joe Manchin\The BBB Kill and IRA Fossil Fuel Concessions.md`: `[[Ovintiv Inc]]` — no match found
-- **BROKEN** in `Politicians\Independent\Joe Manchin\The BBB Kill and IRA Fossil Fuel Concessions.md`: `[[Ryan Lance]]` — no match found
-- **BROKEN** in `Politicians\Independent\Joe Manchin\The BBB Kill and IRA Fossil Fuel Concessions.md`: `[[Energy Transfer Partners]]` — suggestion: `[[Kelcy Warren - Energy Transfer Partners]]` (62%)
-- **BROKEN** in `Politicians\Independent\Joe Manchin\The BBB Kill and IRA Fossil Fuel Concessions.md`: `[[Continental Resources]]` — no match found
-- **BROKEN** in `Politicians\Independent\Joe Manchin\The BBB Kill and IRA Fossil Fuel Concessions.md`: `[[Enterprise Products Partners]]` — no match found
-- **BROKEN** in `Politicians\Independent\Joe Manchin\The BBB Kill and IRA Fossil Fuel Concessions.md`: `[[Jeffrey Hildebrand]]` — no match found
-- **BROKEN** in `Politicians\Independent\Joe Manchin\The BBB Kill and IRA Fossil Fuel Concessions.md`: `[[Richard Kinder]]` — no match found
-- **BROKEN** in `Politicians\Independent\Joe Manchin\The BBB Kill and IRA Fossil Fuel Concessions.md`: `[[Energy Transfer Partners]]` — suggestion: `[[Kelcy Warren - Energy Transfer Partners]]` (62%)
-- **BROKEN** in `Politicians\Independent\Joe Manchin\The BBB Kill and IRA Fossil Fuel Concessions.md`: `[[Williams Companies]]` — no match found
-- **BROKEN** in `Politicians\Independent\Joe Manchin\The BBB Kill and IRA Fossil Fuel Concessions.md`: `[[Enterprise Products Partners]]` — no match found
-- **BROKEN** in `Politicians\Independent\Joe Manchin\The BBB Kill and IRA Fossil Fuel Concessions.md`: `[[Dominion Energy]]` — no match found
-- **BROKEN** in `Politicians\Independent\Joe Manchin\The BBB Kill and IRA Fossil Fuel Concessions.md`: `[[DTE Energy]]` — no match found
-- **BROKEN** in `Politicians\Independent\Joe Manchin\The BBB Kill and IRA Fossil Fuel Concessions.md`: `[[PG&E Corporation]]` — no match found
-- **BROKEN** in `Politicians\Independent\Joe Manchin\The BBB Kill and IRA Fossil Fuel Concessions.md`: `[[Exelon]]` — no match found
-- **BROKEN** in `Politicians\Independent\Joe Manchin\The BBB Kill and IRA Fossil Fuel Concessions.md`: `[[CONSOL Energy]]` — no match found
-- **BROKEN** in `Politicians\Independent\Joe Manchin\The BBB Kill and IRA Fossil Fuel Concessions.md`: `[[Peabody Energy]]` — no match found
-- **BROKEN** in `Politicians\Independent\Joe Manchin\The BBB Kill and IRA Fossil Fuel Concessions.md`: `[[Alpha Natural Resources]]` — no match found
-- **BROKEN** in `Politicians\Independent\Joe Manchin\The BBB Kill and IRA Fossil Fuel Concessions.md`: `[[Arch Coal]]` — no match found
-- **BROKEN** in `Politicians\Independent\Joe Manchin\The BBB Kill and IRA Fossil Fuel Concessions.md`: `[[Murray Energy]]` — no match found
-- **BROKEN** in `Politicians\Independent\Joe Manchin\_Joe Manchin Master Profile.md`: `[[Energy Transfer Partners]]` — suggestion: `[[Kelcy Warren - Energy Transfer Partners]]` (62%)
-- **BROKEN** in `Politicians\Independent\Joe Manchin\_Joe Manchin Master Profile.md`: `[[Enterprise Products Partners]]` — no match found
-- **BROKEN** in `Politicians\Independent\Joe Manchin\_Joe Manchin Master Profile.md`: `[[Enterprise Products Partners]]` — no match found
-- **BROKEN** in `Politicians\Independent\Joe Manchin\_Joe Manchin Master Profile.md`: `[[Equitrans Midstream]]` — no match found
-- **BROKEN** in `Politicians\Republicans\House\John Boehner\_John Boehner Master Profile.md`: `[[Paul Ryan]]` — no match found
-- **BROKEN** in `Politicians\Republicans\House\John Boehner\_John Boehner Master Profile.md`: `[[Donald Trump]]` — no match found
-- **BROKEN** in `Politicians\Republicans\House\John Boehner\_John Boehner Master Profile.md`: `[[Tobacco Industry]]` — no match found
-- **BROKEN** in `Politicians\Republicans\House\John Boehner\_John Boehner Master Profile.md`: `[[Cannabis Legalization Movement]]` — no match found
-- **BROKEN** in `Politicians\Republicans\House\John Boehner\_John Boehner Master Profile.md`: `[[Reynolds American]]` — no match found
-- **BROKEN** in `Politicians\Republicans\House\John Boehner\_John Boehner Master Profile.md`: `[[Altria]]` — no match found
-- **BROKEN** in `Politicians\Republicans\House\John Boehner\_John Boehner Master Profile.md`: `[[Tobacco Industry/Reynolds American]]` — no match found
-- **BROKEN** in `Politicians\Republicans\House\John Boehner\_John Boehner Master Profile.md`: `[[Altria - Philip Morris]]` — no match found
-- **BROKEN** in `Politicians\Republicans\House\John Boehner\_John Boehner Master Profile.md`: `[[Real Estate/Commercial Property]]` — no match found
-- **BROKEN** in `Politicians\Republicans\House\Paul Ryan\_Paul Ryan Master Profile.md`: `[[Donald Trump]]` — no match found
-- **BROKEN** in `Politicians\Republicans\House\Paul Ryan\_Paul Ryan Master Profile.md`: `[[Northwestern Mutual]]` — no match found
-- **BROKEN** in `Politicians\Republicans\Presidential\George W Bush\_George W Bush Master Profile.md`: `[[Merrill Lynch]]` — no match found
-- **BROKEN** in `Politicians\Republicans\Presidential\John McCain\_John McCain Master Profile.md`: `[[AT&T - American Telephone & Telegraph]]` — no match found
-- **BROKEN** in `Politicians\Republicans\Presidential\John McCain\_John McCain Master Profile.md`: `[[Hensley & Co]]` — no match found
-- **BROKEN** in `Politicians\Republicans\Presidential\Mitt Romney\_Mitt Romney Master Profile.md`: `[[Bain Capital]]` — no match found
-- **BROKEN** in `Politicians\Republicans\Senate\Thom Tillis\The Intellectual Property and Banking Donor Pipeline.md`: `[[Truist Financial]]` — no match found
-- **BROKEN** in `Politicians\Republicans\Trump Cabinet\Colin Powell\_Colin Powell Master Profile.md`: `[[George W Bush]]` — no match found
-- **BROKEN** in `Politicians\Republicans\Trump Cabinet\Colin Powell\_Colin Powell Master Profile.md`: `[[Dick Cheney]]` — no match found
-- **BROKEN** in `Politicians\Republicans\Trump Cabinet\Colin Powell\_Colin Powell Master Profile.md`: `[[Kleiner Perkins]]` — no match found
-- **BROKEN** in `Politicians\Republicans\Trump Cabinet\Colin Powell\_Colin Powell Master Profile.md`: `[[Defense & Intelligence/Defense Contractors]]` — no match found
-- **BROKEN** in `Politicians\Republicans\Trump Cabinet\Colin Powell\_Colin Powell Master Profile.md`: `[[Iraq War Coalition]]` — no match found
-- **BROKEN** in `Politicians\Republicans\Trump Cabinet\Colin Powell\_Colin Powell Master Profile.md`: `[[Kleiner Perkins]]` — no match found
-- **BROKEN** in `Politicians\Republicans\Trump Cabinet\Colin Powell\_Colin Powell Master Profile.md`: `[[Salesforce]]` — no match found
-- **BROKEN** in `Politicians\Republicans\Trump Cabinet\Condoleezza Rice\_Condoleezza Rice Master Profile.md`: `[[George W Bush]]` — no match found
-- **BROKEN** in `Politicians\Republicans\Trump Cabinet\Condoleezza Rice\_Condoleezza Rice Master Profile.md`: `[[Dick Cheney]]` — no match found
-- **BROKEN** in `Politicians\Republicans\Trump Cabinet\Condoleezza Rice\_Condoleezza Rice Master Profile.md`: `[[Defense & Intelligence/Defense Contractors]]` — no match found
-- **BROKEN** in `Politicians\Republicans\Trump Cabinet\Condoleezza Rice\_Condoleezza Rice Master Profile.md`: `[[Iraq War Coalition]]` — no match found
-- **BROKEN** in `Politicians\Republicans\Trump Cabinet\Condoleezza Rice\_Condoleezza Rice Master Profile.md`: `[[Stanford University]]` — no match found
-- **BROKEN** in `Politicians\Republicans\Trump Cabinet\Dick Cheney\_Dick Cheney Master Profile.md`: `[[Defense & Intelligence]]` — no match found
-- **BROKEN** in `Politicians\Republicans\Trump Cabinet\Dick Cheney\_Dick Cheney Master Profile.md`: `[[Wall Street]]` — suggestion: `[[Wall Street Bloc]]` (69%)
-- **BROKEN** in `Politicians Index.md`: `[[_Robert F. Kennedy Jr. Master Profile]]` — no match found
-- **BROKEN** in `Stories\Internal\Daily Updates\2026-03-22 News Scan.md`: `[[_Robert F. Kennedy Jr. Master Profile]]` — no match found
-- **BROKEN** in `Stories\Internal\Daily Updates\2026-03-22 News Scan.md`: `[[_Robert F. Kennedy Jr. Master Profile]]` — no match found
-- **BROKEN** in `Stories\Internal\Daily Updates\2026-03-25 News Scan.md`: `[[Ed Markey]]` — no match found
-- **BROKEN** in `Stories\Internal\Daily Updates\2026-03-25 Story Discovery Run 3.md`: `[[Leading the Future PAC]]` — no match found
-- **BROKEN** in `Stories\Internal\Daily Updates\2026-03-25 Story Discovery Run 3.md`: `[[Fairshake]]` — suggestion: `[[Fairshake PAC]]` (69%)
-- **BROKEN** in `Stories\Internal\Daily Updates\2026-03-26 Story Discovery Run 7.md`: `[[Howard Lutnick]]` — no match found
-- **BROKEN** in `Stories\Internal\Daily Updates\2026-03-26 Story Discovery.md`: `[[Donors & Power Networks/Defense & Intelligence/Defense Contractors Bloc]]` — no match found
-- **BROKEN** in `Stories\Internal\Daily Updates\2026-03-26 Story Discovery.md`: `[[Donors & Power Networks/Tech & Crypto/]]` — no match found
-- **BROKEN** in `Stories\Internal\Daily Updates\2026-03-26 Story Discovery.md`: `[[Donors & Power Networks/Israel Lobby/AIPAC - American Israel Public Affairs Committee]]` — suggestion: `[[AIPAC - American Israel Public Affairs Committee]]` (56%)
-- **BROKEN** in `Stories\Internal\Daily Updates\2026-03-26 Story Discovery.md`: `[[Donors & Power Networks/Tech & Crypto/]]` — no match found
-- **BROKEN** in `Stories\Internal\Daily Updates\2026-03-26 Story Discovery.md`: `[[Donors & Power Networks/Wall Street/Private Equity Industry Bloc]]` — no match found
-- **BROKEN** in `Stories\Internal\Daily Updates\2026-03-26 Story Discovery.md`: `[[Donors & Power Networks/Israel Lobby/AIPAC - American Israel Public Affairs Committee]]` — suggestion: `[[AIPAC - American Israel Public Affairs Committee]]` (56%)
-- **BROKEN** in `Stories\Internal\Daily Updates\2026-03-27 API Briefing.md`: `[[_VAULT_INDEX]]` — no match found
-- **BROKEN** in `Stories\Internal\Daily Updates\2026-03-27 API Briefing.md`: `[[Wall Street]]` — suggestion: `[[Wall Street Bloc]]` (69%)
-- **BROKEN** in `Stories\Internal\Daily Updates\2026-03-27 API Briefing.md`: `[[Tech & Crypto]]` — no match found
-- **BROKEN** in `Stories\Internal\Daily Updates\2026-03-27 API Briefing.md`: `[[Donor-Class Override]]` — no match found
-- **BROKEN** in `Stories\Internal\Daily Updates\2026-03-27 API Briefing.md`: `[[Energy & Utilities]]` — no match found
-- **BROKEN** in `Stories\Internal\Daily Updates\2026-03-27 API Briefing.md`: `[[Energy & Utilities]]` — no match found
-- **BROKEN** in `Stories\Internal\Research Logs\2026-03-25 Finance Research.md`: `[[Stephen Schwarzman - Blackstone]]` — suggestion: `[[Stephen Schwarzman]]` (58%)
-- **BROKEN** in `Stories\Internal\Research Logs\2026-03-25 Finance Research.md`: `[[Stephen Schwarzman - Blackstone]]` — suggestion: `[[Stephen Schwarzman]]` (58%)
-- **BROKEN** in `Stories\Internal\Research Logs\2026-03-25 Finance Research.md`: `[[Club for Growth Action]]` — suggestion: `[[Club for Growth]]` (68%)
-- **BROKEN** in `Stories\Internal\Research Logs\2026-03-25 Finance Research.md`: `[[Jamaal Bowman]]` — no match found
-- **BROKEN** in `Stories\Internal\Research Logs\2026-03-25 Finance Research.md`: `[[Cori Bush]]` — no match found
-- **BROKEN** in `Stories\Internal\Research Logs\2026-03-25 Finance Research.md`: `[[Ken Griffin - Citadel]]` — suggestion: `[[Ken Griffin]]` (52%)
-- **BROKEN** in `Stories\Internal\Research Logs\2026-03-25 Finance Research.md`: `[[Elon Musk - Tesla SpaceX]]` — no match found
-- **BROKEN** in `Stories\Internal\Research Logs\2026-03-25 Finance Research.md`: `[[DOGE - Department of Government Efficiency]]` — no match found
-- **BROKEN** in `Stories\Internal\Research Logs\2026-03-25 Finance Research.md`: `[[Crypto.com / Foris DAX]]` — no match found
-- **BROKEN** in `Stories\Internal\Research Logs\2026-03-25 Finance Research.md`: `[[Stephen Schwarzman - Blackstone]]` — suggestion: `[[Stephen Schwarzman]]` (58%)
-- **BROKEN** in `Stories\Internal\Research Logs\2026-03-25 Finance Research.md`: `[[Ken Griffin - Citadel]]` — suggestion: `[[Ken Griffin]]` (52%)
-- **BROKEN** in `Stories\Internal\Research Logs\2026-03-25 Finance Research.md`: `[[Elon Musk - Tesla SpaceX]]` — no match found
-- **BROKEN** in `Stories\Internal\Research Logs\2026-03-26 Finance Research.md`: `[[Pam Bondi]]` — no match found
-- **BROKEN** in `Stories\Internal\Research Logs\2026-03-26 Finance Research.md`: `[[Pam Bondi]]` — no match found
-- **BROKEN** in `Stories\Internal\Research Logs\2026-03-27 Freshness Audit.md`: `[[Media Personality Name]]` — no match found
-- **BROKEN** in `Stories\Internal\Research Logs\2026-03-27 Freshness Audit.md`: `[[Think Tank Name]]` — no match found
-- **BROKEN** in `Stories\Internal\Research Logs\2026-03-27 Freshness Audit.md`: `[[Lobbying Firm Name]]` — no match found
-- **BROKEN** in `Stories\Internal\Research Logs\2026-03-27 Freshness Audit.md`: `[[...]]` — no match found
-- **BROKEN** in `Stories\Internal\Research Logs\2026-03-27 Freshness Audit.md`: `[[stem]]` — no match found
-- **BROKEN** in `Stories\Published\2026 Senate Races\Idaho 2026 Senate Race.md`: `[[2026 Senate Races]]` — no match found
-- **BROKEN** in `Stories\Published\2026 Senate Races\Idaho 2026 Senate Race.md`: `[[Jim Risch]]` — no match found
-- **BROKEN** in `Stories\Published\2026 Senate Races\Idaho 2026 Senate Race.md`: `[[Republican Primary Dynamics]]` — no match found
-- **BROKEN** in `Stories\Published\2026 Senate Races\Idaho 2026 Senate Race.md`: `[[2026 Senate Races]]` — no match found
-- **BROKEN** in `Stories\Published\2026 Senate Races\Idaho 2026 Senate Race.md`: `[[Republican Primary Dynamics]]` — no match found
-- **BROKEN** in `Stories\Published\2026 Senate Races\Idaho 2026 Senate Race.md`: `[[Energy & Politics]]` — no match found
-- **BROKEN** in `Stories\Published\2026 Senate Races\Louisiana 2026 Senate Race.md`: `[[Oil & Gas Industry]]` — no match found
-- **BROKEN** in `Stories\Published\2026 Senate Races\Louisiana 2026 Senate Race.md`: `[[AIPAC]]` — no match found
-- **BROKEN** in `Stories\Published\2026 Senate Races\Oklahoma 2026 Senate Race.md`: `[[2026 Senate Map]]` — no match found
-- **BROKEN** in `Stories\Published\2026 Senate Races\Oklahoma 2026 Senate Race.md`: `[[Congressional Oil & Gas Funding]]` — no match found
-- **BROKEN** in `Stories\Published\2026 Senate Races\Oklahoma 2026 Senate Race.md`: `[[Kevin Hern Profile]]` — no match found
-- **BROKEN** in `Stories\Published\2026 Senate Races\Oklahoma 2026 Senate Race.md`: `[[Senate Special Elections 2026]]` — no match found
-- **BROKEN** in `Stories\Published\2026 Senate Races\Oklahoma 2026 Senate Race.md`: `[[2026 Senate Map]]` — no match found
-- **BROKEN** in `Stories\Published\2026 Senate Races\Oklahoma 2026 Senate Race.md`: `[[Congressional Oil & Gas Funding]]` — no match found
-- **BROKEN** in `Stories\Published\2026 Senate Races\Oklahoma 2026 Senate Race.md`: `[[Kevin Hern Profile]]` — no match found
-- **BROKEN** in `Stories\Published\2026 Senate Races\Oklahoma 2026 Senate Race.md`: `[[Senate Special Elections 2026]]` — no match found
-- **BROKEN** in `Stories\Published\2026 Senate Races\Oklahoma 2026 Senate Race.md`: `[[Oklahoma Political Landscape]]` — no match found
-- **BROKEN** in `Stories\Published\ALEC Legislative Language Layer - Who Actually Writes the Laws.md`: `[[Research Methodology and Data Sources]]` — no match found
-- **BROKEN** in `Stories\Published\Cross-Politician Analysis\Defense-Pharma-Carceral-Labor-Wexner Cross-Reference - Five Donors, One System.md`: `[[Defense Industry Donor Network]]` — suggestion: `[[Defense Industry]]` (53%)
-- **BROKEN** in `Stories\Published\Cross-Politician Analysis\Defense-Pharma-Carceral-Labor-Wexner Cross-Reference - Five Donors, One System.md`: `[[Immigration Detention Industry]]` — no match found
-- **BROKEN** in `Stories\Published\Cross-Politician Analysis\Defense-Pharma-Carceral-Labor-Wexner Cross-Reference - Five Donors, One System.md`: `[[Private Prison Complex]]` — no match found
-- **BROKEN** in `Stories\Published\Cross-Politician Analysis\Defense-Pharma-Carceral-Labor-Wexner Cross-Reference - Five Donors, One System.md`: `[[One Big Beautiful Bill Act]]` — no match found
-- **BROKEN** in `Stories\Published\Cross-Politician Analysis\How Money Captures Media - The Donor Map Media Pipeline.md`: `[[Research Methodology and Data Sources]]` — no match found
-- **BROKEN** in `Stories\Published\Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts.md`: `[[Research Methodology and Data Sources]]` — no match found
-- **BROKEN** in `Stories\Published\Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts.md`: `[[Session Timeline]]` — no match found
-- **BROKEN** in `Stories\Published\Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts.md`: `[[Research Methodology and Data Sources]]` — no match found
-- **BROKEN** in `Stories\Published\Geographic Donor Clustering - Where the Money Actually Comes From.md`: `[[Research Methodology and Data Sources]]` — no match found
-- **BROKEN** in `Stories\Published\Helms-Burton Title III and the Bacardi Trademark Wars.md`: `[[U.S.-Cuba Democracy PAC]]` — no match found
-- **BROKEN** in `Stories\Published\Helms-Burton Title III and the Bacardi Trademark Wars.md`: `[[Mauricio Claver-Carone]]` — suggestion: `[[LARA Fund - Mauricio Claver-Carone]]` (65%)
-- **BROKEN** in `Stories\Published\Helms-Burton Title III and the Bacardi Trademark Wars.md`: `[[Otto Reich]]` — no match found
-- **BROKEN** in `Stories\Published\Helms-Burton Title III and the Bacardi Trademark Wars.md`: `[[Dan Burton]]` — no match found
-- **BROKEN** in `Stories\Published\Helms-Burton Title III and the Bacardi Trademark Wars.md`: `[[Jesse Helms]]` — no match found
-- **BROKEN** in `Stories\Published\Intra-Democratic Contradiction Map - The Progressive vs Moderate Illusion.md`: `[[Session Timeline]]` — no match found
-- **BROKEN** in `Stories\Published\Intra-Democratic Contradiction Map - The Progressive vs Moderate Illusion.md`: `[[Research Methodology and Data Sources]]` — no match found
-- **BROKEN** in `Stories\Published\Intra-Republican Contradiction Map.md`: `[[Session Timeline]]` — no match found
-- **BROKEN** in `Stories\Published\Intra-Republican Contradiction Map.md`: `[[Research Methodology and Data Sources]]` — no match found
-- **BROKEN** in `Stories\Published\Voting Record Layer - When Donors Vote Through Their Politicians.md`: `[[Research Methodology and Data Sources]]` — no match found
-- **BROKEN** in `Think Tanks & Policy Infrastructure\Conservative\American Enterprise Institute.md`: `[[Clifford Asness]]` — no match found
-- **BROKEN** in `Think Tanks & Policy Infrastructure\Conservative\American Enterprise Institute.md`: `[[Fidelity]]` — no match found
-- **BROKEN** in `Think Tanks & Policy Infrastructure\Conservative\American Enterprise Institute.md`: `[[DeVos]]` — no match found
-- **BROKEN** in `Think Tanks & Policy Infrastructure\Conservative\American Enterprise Institute.md`: `[[Clifford Asness]]` — no match found
-- **BROKEN** in `Think Tanks & Policy Infrastructure\Conservative\American Enterprise Institute.md`: `[[DeVos]]` — no match found
-- **BROKEN** in `Think Tanks & Policy Infrastructure\Conservative\Hoover Institution.md`: `[[Scaife Foundations]]` — no match found
-- **BROKEN** in `Think Tanks & Policy Infrastructure\Conservative\Manhattan Institute.md`: `[[Scaife Foundations]]` — no match found
-- **BROKEN** in `Think Tanks & Policy Infrastructure\Cross-Think-Tank Donor Map — The Both-Sides Illusion With Receipts.md`: `[[CNAS]]` — no match found
-- **BROKEN** in `Think Tanks & Policy Infrastructure\Liberal\Economic Policy Institute.md`: `[[American Federation of Teachers]]` — no match found
-- **BROKEN** in `Think Tanks & Policy Infrastructure\Liberal\Economic Policy Institute.md`: `[[Ford Foundation]]` — no match found
-- **BROKEN** in `Think Tanks & Policy Infrastructure\_Think Tank Framework.md`: `[[Research Methodology and Data Sources]]` — no match found
-- **BROKEN** in `Think Tanks & Policy Infrastructure\_Think Tank Framework.md`: `[[_VAULT_INDEX]]` — no match found
-- **BROKEN** in `Think Tanks & Policy Infrastructure\_Think Tank Index.md`: `[[_VAULT_INDEX]]` — no match found
-- **BROKEN** in `Think Tanks & Policy Infrastructure\_Think Tank Index.md`: `[[Scaife Foundations]]` — no match found
+- **BROKEN** in `Donors & Power Networks\Agriculture\Fanjul Family - Florida Crystals.md`: `[[Norman Braman]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Agriculture\Fanjul Family - Florida Crystals.md`: `[[Reclaim America PAC]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Agriculture\Fanjul Family - Florida Crystals.md`: `[[Mauricio Claver-Carone]]`, suggestion: `[[LARA Fund - Mauricio Claver-Carone]]` (65%)
+- **BROKEN** in `Donors & Power Networks\Agriculture\Fanjul Family - Florida Crystals.md`: `[[Michael Waltz]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Agriculture\Fanjul Family - Florida Crystals.md`: `[[LARA Fund]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Agriculture\Fanjul Family - Florida Crystals.md`: `[[Cubaexport]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Agriculture\Fanjul Family - Florida Crystals.md`: `[[Pernod Ricard]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Agriculture\Fanjul Family - Florida Crystals.md`: `[[Bacardi]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Agriculture\Fanjul Family - Florida Crystals.md`: `[[Nicolás Maduro]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Agriculture\Fanjul Family - Florida Crystals.md`: `[[Brian Walsh]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Agriculture\Fanjul Family - Florida Crystals.md`: `[[Victor Cervino]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Agriculture\Fanjul Family - Florida Crystals.md`: `[[Darrell Issa]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Agriculture\Fanjul Family - Florida Crystals.md`: `[[Debbie Wasserman Schultz]]`, suggestion: `[[_Debbie Wasserman Schultz Master Profile]]` (60%)
+- **BROKEN** in `Donors & Power Networks\Agriculture\Fanjul Family - Florida Crystals.md`: `[[Chris Dodd]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Agriculture\Fanjul Family - Florida Crystals.md`: `[[Collin Peterson]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Agriculture\Fanjul Family - Florida Crystals.md`: `[[Combest, Sell & Associates]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Agriculture\Fanjul Family - Florida Crystals.md`: `[[The Peterson Group]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Agriculture\Fanjul Family - Florida Crystals.md`: `[[Jared Moskowitz]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Agriculture\Fanjul Family - Florida Crystals.md`: `[[Bacardi]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Agriculture\Fanjul Family - Florida Crystals.md`: `[[Pernod Ricard]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Agriculture\Fanjul Family - Florida Crystals.md`: `[[Cubaexport]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Agriculture\Fanjul Family - Florida Crystals.md`: `[[Darrell Issa]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Agriculture\Fanjul Family - Florida Crystals.md`: `[[Debbie Wasserman Schultz]]`, suggestion: `[[_Debbie Wasserman Schultz Master Profile]]` (60%)
+- **BROKEN** in `Donors & Power Networks\Agriculture\Fanjul Family - Florida Crystals.md`: `[[Norman Braman]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Agriculture\Fanjul Family - Florida Crystals.md`: `[[Reclaim America PAC]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Agriculture\Fanjul Family - Florida Crystals.md`: `[[Reclaim America PAC]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Agriculture\Fanjul Family - Florida Crystals.md`: `[[Donald Trump]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Agriculture\Fanjul Family - Florida Crystals.md`: `[[Michael Waltz]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Agriculture\Fanjul Family - Florida Crystals.md`: `[[American Sugar Alliance]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Agriculture\Fanjul Family - Florida Crystals.md`: `[[Combest, Sell & Associates]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Agriculture\Fanjul Family - Florida Crystals.md`: `[[Combest, Sell & Associates]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Agriculture\Fanjul Family - Florida Crystals.md`: `[[The Peterson Group]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Agriculture\Fanjul Family - Florida Crystals.md`: `[[Collin Peterson]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Agriculture\Fanjul Family - Florida Crystals.md`: `[[Chris Dodd]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Agriculture\Fanjul Family - Florida Crystals.md`: `[[Mauricio Claver-Carone]]`, suggestion: `[[LARA Fund - Mauricio Claver-Carone]]` (65%)
+- **BROKEN** in `Donors & Power Networks\Agriculture\Fanjul Family - Florida Crystals.md`: `[[LARA Fund]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Agriculture\Fanjul Family - Florida Crystals.md`: `[[Michael Waltz]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Agriculture\Fanjul Family - Florida Crystals.md`: `[[Nicolás Maduro]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Agriculture\Fanjul Family - Florida Crystals.md`: `[[Cubaexport]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Agriculture\Fanjul Family - Florida Crystals.md`: `[[Pernod Ricard]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Agriculture\Fanjul Family - Florida Crystals.md`: `[[United States Patent and Trademark Office]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Agriculture\Fanjul Family - Florida Crystals.md`: `[[Bacardi]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Agriculture\Fanjul Family - Florida Crystals.md`: `[[Reclaim America PAC]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Agriculture\Fanjul Family - Florida Crystals.md`: `[[American Sugar Alliance]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Agriculture\Fanjul Family - Florida Crystals.md`: `[[Michael Waltz]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Agriculture\Fanjul Family - Florida Crystals.md`: `[[Michael Waltz]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Agriculture\Fanjul Family - Florida Crystals.md`: `[[Mauricio Claver-Carone]]`, suggestion: `[[LARA Fund - Mauricio Claver-Carone]]` (65%)
+- **BROKEN** in `Donors & Power Networks\Carceral State\GEO Group.md`: `[[Day 1 Alliance]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Dark Money\ALEC - American Legislative Exchange Council.md`: `[[State Policy Network]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Dark Money\ALEC - American Legislative Exchange Council.md`: `[[State Policy Network]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Dark Money\ALEC - American Legislative Exchange Council.md`: `[[Mackinac Center]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Dark Money\ALEC - American Legislative Exchange Council.md`: `[[Goldwater Institute]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Dark Money\ALEC - American Legislative Exchange Council.md`: `[[State Policy Network]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Dark Money\ALEC - American Legislative Exchange Council.md`: `[[State Policy Network]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Dark Money\ALEC - American Legislative Exchange Council.md`: `[[Texas Public Policy Foundation]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Dark Money\ALEC - American Legislative Exchange Council.md`: `[[Mackinac Center for Public Policy]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Dark Money\ALEC - American Legislative Exchange Council.md`: `[[Goldwater Institute]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Dark Money\American Action Network.md`: `[[Tax Cuts and Jobs Act]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Dark Money\Bradley Foundation.md`: `[[America First Legal]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Dark Money\CREW - Citizens for Responsibility and Ethics in Washington.md`: `[[Judicial Watch]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Dark Money\CREW - Citizens for Responsibility and Ethics in Washington.md`: `[[America First Legal]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Dark Money\CREW - Citizens for Responsibility and Ethics in Washington.md`: `[[Democracy Forward]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Dark Money\Cryptocurrency Industry Bloc.md`: `[[Ripple Labs]]`, suggestion: `[[Ripple]]` (55%)
+- **BROKEN** in `Donors & Power Networks\Dark Money\Democratic Donor Network.md`: `[[American Bridge 21st Century]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Dark Money\Democratic Small Dollar Networks.md`: `[[Justice Democrats]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Dark Money\Democratic Small Dollar Networks.md`: `[[Our Revolution]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Dark Money\Democratic Small Dollar Networks.md`: `[[Working Families Party]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Dark Money\Entertainment and Hollywood Donors.md`: `[[Saban Center for Middle East Policy]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Dark Money\Entertainment and Hollywood Donors.md`: `[[Motion Picture Association]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Dark Money\Entertainment and Hollywood Donors.md`: `[[Copyright and Intellectual Property Policy]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Dark Money\Entertainment and Hollywood Donors.md`: `[[Israel-US Relations and Donor Influence]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Dark Money\Entertainment and Hollywood Donors.md`: `[[AI and Creative Labor Policy]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Dark Money\Entertainment and Hollywood Donors.md`: `[[Streaming Regulation]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Dark Money\Entertainment and Hollywood Donors.md`: `[[SAG-AFTRA Strike 2023]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Dark Money\Freedom Caucus.md`: `[[_Andy Harris Master Profile]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Dark Money\Freedom Caucus.md`: `[[_Scott Perry Master Profile]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Dark Money\HBW Resources.md`: `[[Western States and Tribal Nations]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Dark Money\HBW Resources.md`: `[[BP]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Dark Money\Healthcare Sector.md`: `[[American Hospital Association]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Dark Money\Healthcare Sector.md`: `[[Medicare for All]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Dark Money\Healthcare Sector.md`: `[[American Hospital Association]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Dark Money\Healthcare Sector.md`: `[[Medicare for All]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Dark Money\Judicial Crisis Network.md`: `[[Donors Trust]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Dark Money\Majority Forward.md`: `[[Advocacy Fund]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Dark Money\National Association of Manufacturers.md`: `[[Climate Denial Networks]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Dark Money\Ohio Federation of Teachers.md`: `[[American Federation of Teachers]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Dark Money\Ohio Federation of Teachers.md`: `[[Ohio Education Association]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Dark Money\Stand Together.md`: `[[Donors Trust]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Defense & Intelligence\Defense Contractors Bloc.md`: `[[Anduril]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Defense & Intelligence\Defense Contractors Bloc.md`: `[[FY2024 NDAA]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Defense & Intelligence\Defense Contractors Bloc.md`: `[[Pentagon Audit Failures]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Defense & Intelligence\Defense Contractors Bloc.md`: `[[F-35 Program]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Defense & Intelligence\Defense Contractors Bloc.md`: `[[Revolving Door]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Defense & Intelligence\Defense Contractors Bloc.md`: `[[Think Tank Capture]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Defense & Intelligence\Defense Contractors.md`: `[[Anduril Industries]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Defense & Intelligence\Raytheon (RTX).md`: `[[_Lloyd Austin Master Profile]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Defense & Intelligence\Raytheon (RTX).md`: `[[_Mark Esper Master Profile]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Defense & Intelligence\Raytheon (RTX).md`: `[[_Rob Wittman Master Profile]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Defense & Intelligence\Raytheon (RTX).md`: `[[_Salud Carbajal Master Profile]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Defense & Intelligence\Raytheon (RTX).md`: `[[_Seth Moulton Master Profile]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Defense & Intelligence\Raytheon (RTX).md`: `[[_Hal Rogers Master Profile]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Defense & Intelligence\Raytheon (RTX).md`: `[[_Mike Simpson Master Profile]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Defense & Intelligence\Raytheon (RTX).md`: `[[_Katherine Clark Master Profile]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Defense & Intelligence\Raytheon (RTX).md`: `[[_Mark Meadows Master Profile]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Defense & Intelligence\Raytheon (RTX).md`: `[[_Greg Gianforte Master Profile]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Donor Registry - Master Index.md`: `[[Research Methodology and Data Sources]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Donor Registry - Master Index.md`: `[[Session Timeline]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Energy & Utilities\American Petroleum Institute.md`: `[[Better Jobs Together]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Energy & Utilities\American Petroleum Institute.md`: `[[InfluenceMap - American Petroleum Institute]]`, suggestion: `[[American Petroleum Institute]]` (65%)
+- **BROKEN** in `Donors & Power Networks\Energy & Utilities\American Petroleum Institute.md`: `[[InfluenceMap]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Energy & Utilities\American Petroleum Institute.md`: `[[Energy Citizens]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Energy & Utilities\American Petroleum Institute.md`: `[[FreedomWorks]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Energy & Utilities\American Petroleum Institute.md`: `[[Preserving Choice In Vehicle Purchases Act]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Energy & Utilities\American Petroleum Institute.md`: `[[Global Climate Coalition]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Energy & Utilities\American Petroleum Institute.md`: `[[InfluenceMap]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Energy & Utilities\American Petroleum Institute.md`: `[[InfluenceMap]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Energy & Utilities\American Petroleum Institute.md`: `[[FreedomWorks]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Energy & Utilities\American Petroleum Institute.md`: `[[SourceWatch]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Energy & Utilities\American Petroleum Institute.md`: `[[Global Climate Coalition]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Energy & Utilities\Chevron.md`: `[[Shell (company)]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Energy & Utilities\Chevron.md`: `[[American Fuel and Petrochemical Manufacturers]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Energy & Utilities\ConocoPhillips.md`: `[[_Dan Sullivan Master Profile]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Energy & Utilities\ExxonMobil.md`: `[[_Rex Tillerson Master Profile]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Energy & Utilities\ExxonMobil.md`: `[[Carbon Capture & Sequestration Policy]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Energy & Utilities\ExxonMobil.md`: `[[Methane Regulation]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Energy & Utilities\ExxonMobil.md`: `[[Energy Transition]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Energy & Utilities\ExxonMobil.md`: `[[_Rex Tillerson Master Profile]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Energy & Utilities\ExxonMobil.md`: `[[Environmental, Social, and Governance]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Energy & Utilities\ExxonMobil.md`: `[[EPA]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Energy & Utilities\ExxonMobil.md`: `[[InfluenceMap]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Energy & Utilities\ExxonMobil.md`: `[[_Rex Tillerson Master Profile]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Energy & Utilities\ExxonMobil.md`: `[[_Rex Tillerson Master Profile]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Energy & Utilities\ExxonMobil.md`: `[[Greenpeace Unearthed]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Energy & Utilities\ExxonMobil.md`: `[[_Rex Tillerson Master Profile]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Energy & Utilities\ExxonMobil.md`: `[[_Rex Tillerson Master Profile\]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Energy & Utilities\Koch Industries.md`: `[[Flint Hills Resources]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Energy & Utilities\Koch Industries.md`: `[[Flint Hills Resources]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Energy & Utilities\Koch Industries.md`: `[[American Energy Alliance]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Energy & Utilities\Marathon Petroleum.md`: `[[American Fuel and Petrochemical Manufacturers]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Energy & Utilities\Marathon Petroleum.md`: `[[Andeavor]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Energy & Utilities\Marathon Petroleum.md`: `[[Speedway]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Energy & Utilities\Marathon Petroleum.md`: `[[American Fuel and Petrochemical Manufacturers]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Energy & Utilities\Marathon Petroleum.md`: `[[American Fuel and Petrochemical Manufacturers]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Gig Economy\American Gaming Association.md`: `[[MGM Resorts International]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Gig Economy\American Gaming Association.md`: `[[Caesars Entertainment]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Gig Economy\American Gaming Association.md`: `[[MGM Resorts International]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Gig Economy\American Gaming Association.md`: `[[Caesars Entertainment]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Healthcare\Insurance Industry.md`: `[[Affordable Care Act]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Jeffrey Epstein Network.md`: `[[_Robert F. Kennedy Jr. Master Profile]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Jeffrey Epstein Network.md`: `[[00-INDEX]]`, suggestion: `[[index]]` (63%)
+- **BROKEN** in `Donors & Power Networks\Jeffrey Epstein Network.md`: `[[Section-1-Wexner-Empire]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Jeffrey Epstein Network.md`: `[[Section-2-Modeling-Pipeline]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Jeffrey Epstein Network.md`: `[[Section-3-Rogan-Circle]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Jeffrey Epstein Network.md`: `[[Section-4-Rogan-Protection-Network]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Jeffrey Epstein Network.md`: `[[Section-5-Steve-Bannon]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Jeffrey Epstein Network.md`: `[[Section-6-Peter-Thiel]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Jeffrey Epstein Network.md`: `[[Epstein CIA Logistics]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Jeffrey Epstein Network.md`: `[[Protection Mechanisms]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Labor Unions\UAW - United Auto Workers.md`: `[[_Sherrod Brown Master Profile]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Media & Entertainment\Comcast - NBCUniversal.md`: `[[AT&T]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Media & Entertainment\Comcast - NBCUniversal.md`: `[[Charter Communications]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Mega-Donors\Ajay Royan.md`: `[[BlackSky]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Mega-Donors\Ajay Royan.md`: `[[Marc Andreessen]]`, suggestion: `[[Marc Andreessen and a16z]]` (63%)
+- **BROKEN** in `Donors & Power Networks\Mega-Donors\Ajay Royan.md`: `[[BlackSky]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Mega-Donors\Ajay Royan.md`: `[[BlackSky]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Mega-Donors\David Sacks.md`: `[[Anduril Industries]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Mega-Donors\JB Pritzker.md`: `[[Think Big America]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Mega-Donors\JB Pritzker.md`: `[[Workers' Rights Amendment - Illinois Constitution]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Mega-Donors\JB Pritzker.md`: `[[Progressive Income Tax - Illinois 2020 Amendment]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Mega-Donors\JB Pritzker.md`: `[[Rebuild Illinois Infrastructure Package]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Mega-Donors\JB Pritzker.md`: `[[Reproductive Rights - State Level Operations]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Mega-Donors\JB Pritzker.md`: `[[2028 Democratic Presidential Race]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Mega-Donors\Koch Network - Charles Koch.md`: `[[Freedom Partners]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Mega-Donors\Koch Network - Charles Koch.md`: `[[Freedom Partners]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Mega-Donors\Koch Network - Charles Koch.md`: `[[Freedom Partners]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Mega-Donors\Koch Network - Charles Koch.md`: `[[American Energy Alliance]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Mega-Donors\Koch Network - Charles Koch.md`: `[[Freedom Partners]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Mega-Donors\Koch Network - Charles Koch.md`: `[[American Energy Alliance]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Mega-Donors\Koch Network - Charles Koch.md`: `[[Freedom Partners]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Mega-Donors\Koch Network - Charles Koch.md`: `[[Marc Short]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Mega-Donors\Koch Network - Charles Koch.md`: `[[Public Citizen]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Mega-Donors\Koch Network - Charles Koch.md`: `[[Union of Concerned Scientists]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Mega-Donors\Koch Network - Charles Koch.md`: `[[Freedom Partners]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Mega-Donors\Koch Network - Charles Koch.md`: `[[Freedom Partners]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Mega-Donors\Koch Network - Charles Koch.md`: `[[Freedom Partners]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Mega-Donors\Koch Network - Charles Koch.md`: `[[Freedom Partners]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Mega-Donors\Koch Network - Charles Koch.md`: `[[Freedom Partners]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Mega-Donors\Koch Network - Charles Koch.md`: `[[Freedom Partners]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Mega-Donors\Les Wexner - Wexner Family Enterprises.md`: `[[_Mike DeWine Master Profile]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Mega-Donors\Les Wexner - Wexner Family Enterprises.md`: `[[_John Kasich Master Profile]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Mega-Donors\Mark Zuckerberg.md`: `[[Joel Kaplan]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Mega-Donors\Mark Zuckerberg.md`: `[[Chan Zuckerberg Initiative]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Mega-Donors\Narya Capital.md`: `[[Marc Andreessen]]`, suggestion: `[[Marc Andreessen and a16z]]` (63%)
+- **BROKEN** in `Donors & Power Networks\Mega-Donors\Palantir.md`: `[[Anduril Industries]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Mega-Donors\Patrick Soon-Shiong.md`: `[[Media & Influence Pipeline]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Mega-Donors\Stephen Schwarzman.md`: `[[President's Strategic and Policy Forum]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Mega-Donors\UPS.md`: `[[FedEx]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Pharma & Healthcare\Meatpacking Corporations.md`: `[[Restaurant & Food Industry]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Pharma & Healthcare\PhRMA.md`: `[[_Billy Tauzin Master Profile]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Pharma & Healthcare\PhRMA.md`: `[[Partnership for Safe Medicines]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Pharma & Healthcare\PhRMA.md`: `[[Stephen Ubl]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Real Estate\Blackstone Real Estate.md`: `[[National Rental Home Council]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Real Estate\Blackstone Real Estate.md`: `[[National Multifamily Housing Council]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Real Estate\Blackstone Real Estate.md`: `[[National Multifamily Housing Council]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Real Estate\Blackstone Real Estate.md`: `[[National Rental Home Council]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Real Estate\Blackstone Real Estate.md`: `[[1031 exchanges]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Real Estate\Blackstone Real Estate.md`: `[[carried interest]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Real Estate\Blackstone Real Estate.md`: `[[AIR Communities]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Real Estate\Blackstone Real Estate.md`: `[[Wayne Berman]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Real Estate\Blackstone Real Estate.md`: `[[National Multifamily Housing Council\]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Real Estate\Blackstone Real Estate.md`: `[[NAREIT\]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Real Estate\Blackstone Real Estate.md`: `[[National Apartment Association\]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Real Estate\Blackstone Real Estate.md`: `[[National Rental Home Council\]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Real Estate\Blackstone Real Estate.md`: `[[National Rental Home Council]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Real Estate\Blackstone Real Estate.md`: `[[National Multifamily Housing Council]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Real Estate\Blackstone Real Estate.md`: `[[National Rental Home Council]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Real Estate\Invitation Homes - Institutional Landlords.md`: `[[National Rental Home Council]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Real Estate\Invitation Homes - Institutional Landlords.md`: `[[American Homes 4 Rent]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Real Estate\Invitation Homes - Institutional Landlords.md`: `[[Pretium/Progress Residential]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Real Estate\Invitation Homes - Institutional Landlords.md`: `[[FirstKey Homes - Cerberus]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Real Estate\Invitation Homes - Institutional Landlords.md`: `[[National Rental Home Council]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Real Estate\Invitation Homes - Institutional Landlords.md`: `[[National Multifamily Housing Council]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Real Estate\Invitation Homes - Institutional Landlords.md`: `[[Sudafi Henry]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Real Estate\Invitation Homes - Institutional Landlords.md`: `[[National Multifamily Housing Council\]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Real Estate\Invitation Homes - Institutional Landlords.md`: `[[Kyrsten Sinema\]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Real Estate\Invitation Homes - Institutional Landlords.md`: `[[Bill Pulte\]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Real Estate\Invitation Homes - Institutional Landlords.md`: `[[Fannie Mae]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Real Estate\Invitation Homes - Institutional Landlords.md`: `[[Freddie Mac]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Real Estate\Invitation Homes - Institutional Landlords.md`: `[[Bill Pulte]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Real Estate\Invitation Homes - Institutional Landlords.md`: `[[FHFA]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Real Estate\Invitation Homes - Institutional Landlords.md`: `[[Bill Pulte]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Real Estate\Invitation Homes - Institutional Landlords.md`: `[[Diana Reid]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Real Estate\Invitation Homes - Institutional Landlords.md`: `[[Fannie Mae]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Real Estate\Invitation Homes - Institutional Landlords.md`: `[[Freddie Mac]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Real Estate\Invitation Homes - Institutional Landlords.md`: `[[Bill Pulte]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Real Estate\Invitation Homes - Institutional Landlords.md`: `[[Bill Pulte]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Real Estate\National Association of Realtors.md`: `[[Shannon McGahn]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Real Estate\National Association of Realtors.md`: `[[Federal Housing Finance Agency (FHFA)]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Real Estate\National Association of Realtors.md`: `[[Collingwood Group]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Real Estate\Real Estate Board of New York.md`: `[[New York Housing Policy]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Real Estate\Real Estate Board of New York.md`: `[[Leonard Litwin - Glenwood Management]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Real Estate\Real Estate Board of New York.md`: `[[Sheldon Silver]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Real Estate\Real Estate Board of New York.md`: `[[Dean Skelos]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Real Estate\Real Estate Board of New York.md`: `[[Carl Heastie]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Real Estate\Real Estate Board of New York.md`: `[[Andrew Cuomo]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Real Estate\Real Estate Board of New York.md`: `[[Alexa Avilés]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Real Estate\Real Estate Board of New York.md`: `[[Andrew Cuomo]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Real Estate\Real Estate Board of New York.md`: `[[Andrew Cuomo]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Real Estate\Real Estate Board of New York.md`: `[[Andrew Cuomo]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Real Estate\Real Estate Board of New York.md`: `[[Leonard Litwin]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Real Estate\Real Estate Board of New York.md`: `[[Kilroy Realty]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Real Estate\Real Estate Board of New York.md`: `[[Neighbors for a Better San Francisco]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Super PACs\DonorsTrust.md`: `[[Donors Capital Fund]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Super PACs\DonorsTrust.md`: `[[State Policy Network]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Super PACs\DonorsTrust.md`: `[[Competitive Enterprise Institute]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Super PACs\DonorsTrust.md`: `[[Consumers' Research]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Super PACs\DonorsTrust.md`: `[[Whitney Lynn Ball]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Super PACs\DonorsTrust.md`: `[[Philanthropy Roundtable]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Super PACs\DonorsTrust.md`: `[[Competitive Enterprise Institute]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Super PACs\DonorsTrust.md`: `[[Institute for Justice]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Super PACs\DonorsTrust.md`: `[[Acton Institute]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Super PACs\DonorsTrust.md`: `[[Donors Capital Fund]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Super PACs\DonorsTrust.md`: `[[Competitive Enterprise Institute]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Super PACs\DonorsTrust.md`: `[[Donors Capital Fund]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Super PACs\DonorsTrust.md`: `[[Donors Capital Fund]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Super PACs\DonorsTrust.md`: `[[State Policy Network]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Super PACs\DonorsTrust.md`: `[[State Policy Network]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Super PACs\DonorsTrust.md`: `[[State Policy Network]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Super PACs\DonorsTrust.md`: `[[Donors Capital Fund]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Super PACs\DonorsTrust.md`: `[[Consumers' Research]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Super PACs\DonorsTrust.md`: `[[State Policy Network]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Super PACs\Winning for Women PAC.md`: `[[National Republican Congressional Committee]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Super PACs\Winning for Women PAC.md`: `[[Citadel LLC]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Tech & Crypto\Fairshake PAC.md`: `[[Defend American Jobs]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Tech & Crypto\Fairshake PAC.md`: `[[Protect Progress]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Tech & Crypto\Founders Fund.md`: `[[Anduril Industries]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Wall Street\Blackstone Group.md`: `[[KKR]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Wall Street\CalSTRS.md`: `[[Blackstone - Blackstone Group]]`, suggestion: `[[Blackstone Group]]` (55%)
+- **BROKEN** in `Donors & Power Networks\Wall Street\Carlyle Group.md`: `[[ManTech International]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Wall Street\Master Donor Database.md`: `[[_VAULT_INDEX]]`, no match found
+- **BROKEN** in `Donors & Power Networks\Wall Street\Walmart.md`: `[[Restaurant & Food Industry]]`, no match found
+- **BROKEN** in `Lobbying Firms & K Street\Alpine Group.md`: `[[Shell plc]]`, no match found
+- **BROKEN** in `Lobbying Firms & K Street\Alpine Group.md`: `[[Amazon.com]]`, suggestion: `[[Amazon]]` (60%)
+- **BROKEN** in `Lobbying Firms & K Street\Alpine Group.md`: `[[Amgen Inc]]`, no match found
+- **BROKEN** in `Lobbying Firms & K Street\Forbes Tate Partners.md`: `[[Amgen Inc]]`, no match found
+- **BROKEN** in `Lobbying Firms & K Street\Forbes Tate Partners.md`: `[[RTX Corp]]`, no match found
+- **BROKEN** in `Lobbying Firms & K Street\Mercury Public Affairs.md`: `[[Tech & Crypto]]`, no match found
+- **BROKEN** in `Lobbying Firms & K Street\Mercury Public Affairs.md`: `[[Foreign]]`, no match found
+- **BROKEN** in `Lobbying Firms & K Street\Mercury Public Affairs.md`: `[[Energy & Utilities]]`, no match found
+- **BROKEN** in `Lobbying Firms & K Street\Mercury Public Affairs.md`: `[[Wall Street]]`, suggestion: `[[Wall Street Bloc]]` (69%)
+- **BROKEN** in `Lobbying Firms & K Street\_Lobbying Firms Framework.md`: `[[Research Methodology and Data Sources]]`, no match found
+- **BROKEN** in `Lobbying Firms & K Street\_Lobbying Firms Framework.md`: `[[_VAULT_INDEX]]`, no match found
+- **BROKEN** in `Lobbying Firms & K Street\_Lobbying Firms Index.md`: `[[_VAULT_INDEX]]`, no match found
+- **BROKEN** in `Lobbying Firms & K Street\_Lobbying Firms Index.md`: `[[Altria Group]]`, no match found
+- **BROKEN** in `Lobbying Firms & K Street\_Lobbying Firms Index.md`: `[[RTX Corp]]`, no match found
+- **BROKEN** in `Media & Influence Pipeline\Centrist\Destiny - Steven Bonnell.md`: `[[Twitch]]`, no match found
+- **BROKEN** in `Media & Influence Pipeline\Centrist\Destiny - Steven Bonnell.md`: `[[YouTube]]`, no match found
+- **BROKEN** in `Media & Influence Pipeline\Centrist\Destiny - Steven Bonnell.md`: `[[Audience subscriptions/donations]]`, no match found
+- **BROKEN** in `Media & Influence Pipeline\Centrist\Destiny - Steven Bonnell.md`: `[[Sponsorships]]`, no match found
+- **BROKEN** in `Media & Influence Pipeline\Centrist\Destiny - Steven Bonnell.md`: `[[Kick]]`, no match found
+- **BROKEN** in `Media & Influence Pipeline\Centrist\Destiny - Steven Bonnell.md`: `[[Self-hosted infrastructure]]`, no match found
+- **BROKEN** in `Media & Influence Pipeline\Centrist\Jake Tapper.md`: `[[Fox Corp - Rupert Murdoch]]`, suggestion: `[[Rupert Murdoch]]` (56%)
+- **BROKEN** in `Media & Influence Pipeline\Centrist\Jillian Michaels.md`: `[[Valuetainment Media]]`, suggestion: `[[Valuetainment]]` (68%)
+- **BROKEN** in `Media & Influence Pipeline\Centrist\Jillian Michaels.md`: `[[Fitness sponsorships/endorsements]]`, no match found
+- **BROKEN** in `Media & Influence Pipeline\Centrist\Jillian Michaels.md`: `[[Audience/Patreon]]`, no match found
+- **BROKEN** in `Media & Influence Pipeline\Centrist\Jillian Michaels.md`: `[[Valuetainment Investments Group]]`, no match found
+- **BROKEN** in `Media & Influence Pipeline\Centrist\Jillian Michaels.md`: `[[PHP Agency]]`, no match found
+- **BROKEN** in `Media & Influence Pipeline\Centrist\Joe Scarborough.md`: `[[Fox Corp - Rupert Murdoch]]`, suggestion: `[[Rupert Murdoch]]` (56%)
+- **BROKEN** in `Media & Influence Pipeline\Centrist\Joe Scarborough.md`: `[[Comcast Corporation]]`, no match found
+- **BROKEN** in `Media & Influence Pipeline\Centrist\Nicolle Wallace.md`: `[[Fox Corp - Rupert Murdoch]]`, suggestion: `[[Rupert Murdoch]]` (56%)
+- **BROKEN** in `Media & Influence Pipeline\Centrist\Nicolle Wallace.md`: `[[Fox Corp - Rupert Murdoch]]`, suggestion: `[[Rupert Murdoch]]` (56%)
+- **BROKEN** in `Media & Influence Pipeline\Centrist\Piers Morgan.md`: `[[News Corp]]`, no match found
+- **BROKEN** in `Media & Influence Pipeline\Centrist\Piers Morgan.md`: `[[Fox Nation]]`, no match found
+- **BROKEN** in `Media & Influence Pipeline\Centrist\Piers Morgan.md`: `[[Sky News Australia]]`, no match found
+- **BROKEN** in `Media & Influence Pipeline\Centrist\Piers Morgan.md`: `[[TalkTV]]`, no match found
+- **BROKEN** in `Media & Influence Pipeline\Centrist\Piers Morgan.md`: `[[YouTube]]`, no match found
+- **BROKEN** in `Media & Influence Pipeline\Centrist\Piers Morgan.md`: `[[Sponsorships/Brands]]`, no match found
+- **BROKEN** in `Media & Influence Pipeline\Centrist\Piers Morgan.md`: `[[HarperCollins]]`, no match found
+- **BROKEN** in `Media & Influence Pipeline\Centrist\Piers Morgan.md`: `[[News UK]]`, no match found
+- **BROKEN** in `Media & Influence Pipeline\Centrist\The Bulwark.md`: `[[Charlie Sykes]]`, no match found
+- **BROKEN** in `Media & Influence Pipeline\Centrist\The Bulwark.md`: `[[Tim Miller]]`, no match found
+- **BROKEN** in `Media & Influence Pipeline\Centrist\The Bulwark.md`: `[[Sarah Longwell]]`, no match found
+- **BROKEN** in `Media & Influence Pipeline\Centrist\The Dispatch.md`: `[[David French]]`, no match found
+- **BROKEN** in `Media & Influence Pipeline\Centrist\The Dispatch.md`: `[[Jonah Goldberg]]`, no match found
+- **BROKEN** in `Media & Influence Pipeline\Centrist\The Dispatch.md`: `[[Steve Hayes]]`, no match found
+- **BROKEN** in `Media & Influence Pipeline\Left\Cenk Uygur.md`: `[[Greycroft]]`, no match found
+- **BROKEN** in `Media & Influence Pipeline\Left\Cenk Uygur.md`: `[[WndrCo]]`, no match found
+- **BROKEN** in `Media & Influence Pipeline\Left\Chapo Trap House.md`: `[[Democratic Socialists of America]]`, no match found
+- **BROKEN** in `Media & Influence Pipeline\Left\Crooked Media.md`: `[[Democratic National Committee]]`, no match found
+- **BROKEN** in `Media & Influence Pipeline\Left\Don Lemon.md`: `[[Fox Corp - Rupert Murdoch]]`, suggestion: `[[Rupert Murdoch]]` (56%)
+- **BROKEN** in `Media & Influence Pipeline\Left\Drop Site News.md`: `[[First Look Media]]`, no match found
+- **BROKEN** in `Media & Influence Pipeline\Left\Jacobin.md`: `[[DSA - Democratic Socialists of America]]`, no match found
+- **BROKEN** in `Media & Influence Pipeline\Left\Jeremy Scahill.md`: `[[First Look Media]]`, no match found
+- **BROKEN** in `Media & Influence Pipeline\Left\Joy Reid.md`: `[[Comcast Corporation]]`, no match found
+- **BROKEN** in `Media & Influence Pipeline\Left\Max Blumenthal.md`: `[[Ben Norton]]`, no match found
+- **BROKEN** in `Media & Influence Pipeline\Left\Mehdi Hasan.md`: `[[Fox Corp - Rupert Murdoch]]`, suggestion: `[[Rupert Murdoch]]` (56%)
+- **BROKEN** in `Media & Influence Pipeline\Left\The Grayzone.md`: `[[RT - Russia Today]]`, no match found
+- **BROKEN** in `Media & Influence Pipeline\Right\Alex Jones.md`: `[[Roger Stone]]`, no match found
+- **BROKEN** in `Media & Influence Pipeline\Right\Alex Jones.md`: `[[Oath Keepers]]`, no match found
+- **BROKEN** in `Media & Influence Pipeline\Right\Alex Jones.md`: `[[Proud Boys]]`, no match found
+- **BROKEN** in `Media & Influence Pipeline\Right\Andrew Klavan.md`: `[[Daily Wire - Ben Shapiro]]`, no match found
+- **BROKEN** in `Media & Influence Pipeline\Right\Christopher Rufo.md`: `[[Manhattan Institute for Policy Research]]`, no match found
+- **BROKEN** in `Media & Influence Pipeline\Right\Christopher Rufo.md`: `[[Manhattan Institute for Policy Research]]`, no match found
+- **BROKEN** in `Media & Influence Pipeline\Right\Christopher Rufo.md`: `[[Searle Freedom Trust]]`, no match found
+- **BROKEN** in `Media & Influence Pipeline\Right\Christopher Rufo.md`: `[[Thomas W. Smith Foundation]]`, no match found
+- **BROKEN** in `Media & Influence Pipeline\Right\Christopher Rufo.md`: `[[Charles Koch Foundation]]`, suggestion: `[[Charles Koch]]` (52%)
+- **BROKEN** in `Media & Influence Pipeline\Right\Christopher Rufo.md`: `[[Schwab Charitable]]`, no match found
+- **BROKEN** in `Media & Influence Pipeline\Right\Dinesh D'Souza.md`: `[[Salem Media Group]]`, no match found
+- **BROKEN** in `Media & Influence Pipeline\Right\Dinesh D'Souza.md`: `[[Club for Growth Action]]`, suggestion: `[[Club for Growth]]` (68%)
+- **BROKEN** in `Media & Influence Pipeline\Right\Dinesh D'Souza.md`: `[[Right Texas PAC]]`, no match found
+- **BROKEN** in `Media & Influence Pipeline\Right\Dinesh D'Souza.md`: `[[Salem Media Group]]`, no match found
+- **BROKEN** in `Media & Influence Pipeline\Right\Dinesh D'Souza.md`: `[[Club for Growth Action]]`, suggestion: `[[Club for Growth]]` (68%)
+- **BROKEN** in `Media & Influence Pipeline\Right\Dinesh D'Souza.md`: `[[Trump Family Media Investments]]`, no match found
+- **BROKEN** in `Media & Influence Pipeline\Right\Dinesh D'Souza.md`: `[[Salem Media Group]]`, no match found
+- **BROKEN** in `Media & Influence Pipeline\Right\Greg Gutfeld.md`: `[[Fox Corp - Rupert Murdoch]]`, suggestion: `[[Rupert Murdoch]]` (56%)
+- **BROKEN** in `Media & Influence Pipeline\Right\Greg Gutfeld.md`: `[[Fox Corp - Rupert Murdoch]]`, suggestion: `[[Rupert Murdoch]]` (56%)
+- **BROKEN** in `Media & Influence Pipeline\Right\InfoWars.md`: `[[Free Speech Systems LLC]]`, no match found
+- **BROKEN** in `Media & Influence Pipeline\Right\James O'Keefe.md`: `[[Donors Capital Fund]]`, no match found
+- **BROKEN** in `Media & Influence Pipeline\Right\James O'Keefe.md`: `[[Donors Capital Fund]]`, no match found
+- **BROKEN** in `Media & Influence Pipeline\Right\James O'Keefe.md`: `[[Donors Capital Fund]]`, no match found
+- **BROKEN** in `Media & Influence Pipeline\Right\James O'Keefe.md`: `[[Trump Foundation]]`, no match found
+- **BROKEN** in `Media & Influence Pipeline\Right\James O'Keefe.md`: `[[Donors Capital Fund]]`, no match found
+- **BROKEN** in `Media & Influence Pipeline\Right\Jesse Watters.md`: `[[Fox Corp - Rupert Murdoch]]`, suggestion: `[[Rupert Murdoch]]` (56%)
+- **BROKEN** in `Media & Influence Pipeline\Right\Newsmax.md`: `[[Richard Mellon Scaife - Conservative Movement Infrastructure]]`, no match found
+- **BROKEN** in `Media & Influence Pipeline\Right\Newsmax.md`: `[[Foreign Money in U.S. Media]]`, no match found
+- **BROKEN** in `Media & Influence Pipeline\Right\Newsmax.md`: `[[Alex Acosta - Trump Justice System]]`, no match found
+- **BROKEN** in `Media & Influence Pipeline\Right\Newsmax.md`: `[[Cable News Carriage Wars]]`, no match found
+- **BROKEN** in `Media & Influence Pipeline\Right\Rumble.md`: `[[JD Vance]]`, no match found
+- **BROKEN** in `Media & Influence Pipeline\Right\Rumble.md`: `[[Howard Lutnick]]`, no match found
+- **BROKEN** in `Media & Influence Pipeline\Right\Rumble.md`: `[[Tether]]`, no match found
+- **BROKEN** in `Media & Influence Pipeline\Right\Rumble.md`: `[[RT - Russian State Media]]`, no match found
+- **BROKEN** in `Media & Influence Pipeline\Right\Rumble.md`: `[[Colt Ventures]]`, no match found
+- **BROKEN** in `Media & Influence Pipeline\Right\Rumble.md`: `[[Tether]]`, no match found
+- **BROKEN** in `Media & Influence Pipeline\Right\Sean Hannity.md`: `[[Fox Corp - Rupert Murdoch]]`, suggestion: `[[Rupert Murdoch]]` (56%)
+- **BROKEN** in `Media & Influence Pipeline\Right\Sean Hannity.md`: `[[Fox Corp - Rupert Murdoch]]`, suggestion: `[[Rupert Murdoch]]` (56%)
+- **BROKEN** in `Media & Influence Pipeline\Right\Tenet Media.md`: `[[Benny Johnson]]`, no match found
+- **BROKEN** in `Media & Influence Pipeline\Right\Tenet Media.md`: `[[Lauren Southern]]`, no match found
+- **BROKEN** in `Media & Influence Pipeline\Right\Tenet Media.md`: `[[Lauren Chen]]`, no match found
+- **BROKEN** in `Media & Influence Pipeline\Right\Tenet Media.md`: `[[Benny Johnson]]`, no match found
+- **BROKEN** in `Media & Influence Pipeline\_Media Pipeline Framework.md`: `[[Research Methodology and Data Sources]]`, no match found
+- **BROKEN** in `Media & Influence Pipeline\_Media Pipeline Framework.md`: `[[_VAULT_INDEX]]`, no match found
+- **BROKEN** in `Media & Influence Pipeline\_Media Pipeline Framework.md`: `[[API Pipeline]]`, no match found
+- **BROKEN** in `Media & Influence Pipeline\_Media Pipeline Index.md`: `[[_VAULT_INDEX]]`, no match found
+- **BROKEN** in `Media & Influence Pipeline\_Media Pipeline Index.md`: `[[brackets]]`, no match found
+- **BROKEN** in `Media & Influence Pipeline\_Media Pipeline Index.md`: `[[Fox Corp - Rupert Murdoch]]`, suggestion: `[[Rupert Murdoch]]` (56%)
+- **BROKEN** in `Politicians\Democrats\House\Ilhan Omar\The AIPAC Primary Machine and Foreign Affairs Removal.md`: `[[_Cori Bush Master Profile]]`, no match found
+- **BROKEN** in `Politicians\Democrats\House\Jamaal Bowman\_Jamaal Bowman Master Profile.md`: `[[_Cori Bush Master Profile]]`, no match found
+- **BROKEN** in `Politicians\Democrats\House\Melissa Bean\Melissa Bean's Corporate Background.md`: `[[Financial Services Sector]]`, no match found
+- **BROKEN** in `Politicians\Democrats\House\Melissa Bean\Think Big AI PAC and AI Policy Alignment.md`: `[[Leading the Future]]`, no match found
+- **BROKEN** in `Politicians\Democrats\House\Pete Aguilar\_Pete Aguilar Master Profile.md`: `[[_Suzan DelBene Master Profile]]`, no match found
+- **BROKEN** in `Politicians\Democrats\House\Saikat Chakrabarti\CA-11 Congressional Campaign 2026 - Running for Pelosi's Seat.md`: `[[_Scott Wiener Master Profile]]`, no match found
+- **BROKEN** in `Politicians\Democrats\House\Saikat Chakrabarti\CA-11 Congressional Campaign 2026 - Running for Pelosi's Seat.md`: `[[_Connie Chan Master Profile]]`, no match found
+- **BROKEN** in `Politicians\Democrats\House\Saikat Chakrabarti\CA-11 Congressional Campaign 2026 - Running for Pelosi's Seat.md`: `[[_Scott Wiener Master Profile]]`, no match found
+- **BROKEN** in `Politicians\Democrats\House\Saikat Chakrabarti\CA-11 Congressional Campaign 2026 - Running for Pelosi's Seat.md`: `[[_Connie Chan Master Profile]]`, no match found
+- **BROKEN** in `Politicians\Democrats\House\Saikat Chakrabarti\CA-11 Congressional Campaign 2026 - Running for Pelosi's Seat.md`: `[[_Scott Wiener Master Profile]]`, no match found
+- **BROKEN** in `Politicians\Democrats\House\Saikat Chakrabarti\Justice Democrats and Brand New Congress - The Infrastructure He Built.md`: `[[_Cori Bush Master Profile]]`, no match found
+- **BROKEN** in `Politicians\Democrats\House\Saikat Chakrabarti\Justice Democrats and Brand New Congress - The Infrastructure He Built.md`: `[[_AOC Squad]]`, no match found
+- **BROKEN** in `Politicians\Democrats\House\Saikat Chakrabarti\Justice Democrats and Brand New Congress - The Infrastructure He Built.md`: `[[Progressive PACs and Funding Networks]]`, no match found
+- **BROKEN** in `Politicians\Democrats\House\Saikat Chakrabarti\Justice Democrats and Brand New Congress - The Infrastructure He Built.md`: `[[_Cori Bush Master Profile]]`, no match found
+- **BROKEN** in `Politicians\Democrats\House\Saikat Chakrabarti\New Consensus and the Green New Deal Architecture.md`: `[[Sunrise Movement]]`, no match found
+- **BROKEN** in `Politicians\Democrats\House\Saikat Chakrabarti\New Consensus and the Green New Deal Architecture.md`: `[[Green New Deal Resolution]]`, no match found
+- **BROKEN** in `Politicians\Democrats\House\Saikat Chakrabarti\New Consensus and the Green New Deal Architecture.md`: `[[Mission for America]]`, no match found
+- **BROKEN** in `Politicians\Democrats\House\Saikat Chakrabarti\New Consensus and the Green New Deal Architecture.md`: `[[RFC Reconstruction Finance Corporation]]`, no match found
+- **BROKEN** in `Politicians\Democrats\House\Saikat Chakrabarti\The FEC Complaints - PAC-to-LLC Transfer Controversy.md`: `[[Brand New Congress PAC]]`, no match found
+- **BROKEN** in `Politicians\Democrats\House\Saikat Chakrabarti\The FEC Complaints - PAC-to-LLC Transfer Controversy.md`: `[[Justice Democrats PAC]]`, no match found
+- **BROKEN** in `Politicians\Democrats\House\Saikat Chakrabarti\The FEC Complaints - PAC-to-LLC Transfer Controversy.md`: `[[Brand New Congress LLC]]`, no match found
+- **BROKEN** in `Politicians\Democrats\House\Saikat Chakrabarti\The FEC Complaints - PAC-to-LLC Transfer Controversy.md`: `[[National Legal and Policy Center]]`, no match found
+- **BROKEN** in `Politicians\Democrats\House\Saikat Chakrabarti\_Saikat Chakrabarti Master Profile.md`: `[[_Scott Wiener Master Profile]]`, no match found
+- **BROKEN** in `Politicians\Democrats\Presidential\Bill Clinton\_Bill Clinton Master Profile.md`: `[[Robert Rubin]]`, no match found
+- **BROKEN** in `Politicians\Democrats\Presidential\Bill Clinton\_Bill Clinton Master Profile.md`: `[[_Al Gore Master Profile]]`, no match found
+- **BROKEN** in `Politicians\Democrats\Presidential\Tim Walz\_Tim Walz Master Profile.md`: `[[Education Minnesota]]`, no match found
+- **BROKEN** in `Politicians\Democrats\Senate\Harry Reid\_Harry Reid Master Profile.md`: `[[MGM Resorts]]`, no match found
+- **BROKEN** in `Politicians\Democrats\Senate\Harry Reid\_Harry Reid Master Profile.md`: `[[Adelson Network]]`, no match found
+- **BROKEN** in `Politicians\Democrats\Senate\John Hickenlooper\_John Hickenlooper Master Profile.md`: `[[_Michael Bennet Master Profile]]`, no match found
+- **BROKEN** in `Politicians\Democrats\Senate\John Hickenlooper\_John Hickenlooper Master Profile.md`: `[[_Michael Bennet Master Profile]]`, no match found
+- **BROKEN** in `Politicians\Democrats\Senate\Sheldon Whitehouse\_Sheldon Whitehouse Master Profile.md`: `[[League of Conservation Voters]]`, no match found
+- **BROKEN** in `Politicians\Democrats\Senate\Sheldon Whitehouse\_Sheldon Whitehouse Master Profile.md`: `[[League of Conservation Voters]]`, no match found
+- **BROKEN** in `Politicians\Democrats\Senate\Sheldon Whitehouse\_Sheldon Whitehouse Master Profile.md`: `[[League of Conservation Voters]]`, no match found
+- **BROKEN** in `Politicians\Democrats\Senate\Sheldon Whitehouse\_Sheldon Whitehouse Master Profile.md`: `[[League of Conservation Voters]]`, no match found
+- **BROKEN** in `Politicians\Independent\Joe Manchin\The BBB Kill and IRA Fossil Fuel Concessions.md`: `[[Energy Transfer Partners]]`, suggestion: `[[Kelcy Warren - Energy Transfer Partners]]` (62%)
+- **BROKEN** in `Politicians\Independent\Joe Manchin\The BBB Kill and IRA Fossil Fuel Concessions.md`: `[[Williams Companies]]`, no match found
+- **BROKEN** in `Politicians\Independent\Joe Manchin\The BBB Kill and IRA Fossil Fuel Concessions.md`: `[[Plains All American]]`, no match found
+- **BROKEN** in `Politicians\Independent\Joe Manchin\The BBB Kill and IRA Fossil Fuel Concessions.md`: `[[Enterprise Products Partners]]`, no match found
+- **BROKEN** in `Politicians\Independent\Joe Manchin\The BBB Kill and IRA Fossil Fuel Concessions.md`: `[[Equitrans Midstream]]`, no match found
+- **BROKEN** in `Politicians\Independent\Joe Manchin\The BBB Kill and IRA Fossil Fuel Concessions.md`: `[[Enterprise Products Partners]]`, no match found
+- **BROKEN** in `Politicians\Independent\Joe Manchin\The BBB Kill and IRA Fossil Fuel Concessions.md`: `[[Enterprise Products Partners\]]`, no match found
+- **BROKEN** in `Politicians\Independent\Joe Manchin\The BBB Kill and IRA Fossil Fuel Concessions.md`: `[[Energy Transfer Partners]]`, suggestion: `[[Kelcy Warren - Energy Transfer Partners]]` (62%)
+- **BROKEN** in `Politicians\Independent\Joe Manchin\The BBB Kill and IRA Fossil Fuel Concessions.md`: `[[Tellurian Inc]]`, no match found
+- **BROKEN** in `Politicians\Independent\Joe Manchin\The BBB Kill and IRA Fossil Fuel Concessions.md`: `[[Drummond Company]]`, suggestion: `[[Drummond Co]]` (69%)
+- **BROKEN** in `Politicians\Independent\Joe Manchin\The BBB Kill and IRA Fossil Fuel Concessions.md`: `[[Plains All American Pipeline]]`, no match found
+- **BROKEN** in `Politicians\Independent\Joe Manchin\The BBB Kill and IRA Fossil Fuel Concessions.md`: `[[Williams Companies]]`, no match found
+- **BROKEN** in `Politicians\Independent\Joe Manchin\The BBB Kill and IRA Fossil Fuel Concessions.md`: `[[EQT Corporation]]`, no match found
+- **BROKEN** in `Politicians\Independent\Joe Manchin\The BBB Kill and IRA Fossil Fuel Concessions.md`: `[[Diversified Energy Company]]`, no match found
+- **BROKEN** in `Politicians\Independent\Joe Manchin\The BBB Kill and IRA Fossil Fuel Concessions.md`: `[[Equitrans Midstream]]`, no match found
+- **BROKEN** in `Politicians\Independent\Joe Manchin\The BBB Kill and IRA Fossil Fuel Concessions.md`: `[[Domestic Energy Producers Alliance]]`, no match found
+- **BROKEN** in `Politicians\Independent\Joe Manchin\The BBB Kill and IRA Fossil Fuel Concessions.md`: `[[Shell USA]]`, no match found
+- **BROKEN** in `Politicians\Independent\Joe Manchin\The BBB Kill and IRA Fossil Fuel Concessions.md`: `[[Marathon Oil]]`, no match found
+- **BROKEN** in `Politicians\Independent\Joe Manchin\The BBB Kill and IRA Fossil Fuel Concessions.md`: `[[Ovintiv Inc]]`, no match found
+- **BROKEN** in `Politicians\Independent\Joe Manchin\The BBB Kill and IRA Fossil Fuel Concessions.md`: `[[Ryan Lance]]`, no match found
+- **BROKEN** in `Politicians\Independent\Joe Manchin\The BBB Kill and IRA Fossil Fuel Concessions.md`: `[[Energy Transfer Partners]]`, suggestion: `[[Kelcy Warren - Energy Transfer Partners]]` (62%)
+- **BROKEN** in `Politicians\Independent\Joe Manchin\The BBB Kill and IRA Fossil Fuel Concessions.md`: `[[Continental Resources]]`, no match found
+- **BROKEN** in `Politicians\Independent\Joe Manchin\The BBB Kill and IRA Fossil Fuel Concessions.md`: `[[Enterprise Products Partners]]`, no match found
+- **BROKEN** in `Politicians\Independent\Joe Manchin\The BBB Kill and IRA Fossil Fuel Concessions.md`: `[[Jeffrey Hildebrand]]`, no match found
+- **BROKEN** in `Politicians\Independent\Joe Manchin\The BBB Kill and IRA Fossil Fuel Concessions.md`: `[[Richard Kinder]]`, no match found
+- **BROKEN** in `Politicians\Independent\Joe Manchin\The BBB Kill and IRA Fossil Fuel Concessions.md`: `[[Energy Transfer Partners]]`, suggestion: `[[Kelcy Warren - Energy Transfer Partners]]` (62%)
+- **BROKEN** in `Politicians\Independent\Joe Manchin\The BBB Kill and IRA Fossil Fuel Concessions.md`: `[[Williams Companies]]`, no match found
+- **BROKEN** in `Politicians\Independent\Joe Manchin\The BBB Kill and IRA Fossil Fuel Concessions.md`: `[[Enterprise Products Partners]]`, no match found
+- **BROKEN** in `Politicians\Independent\Joe Manchin\The BBB Kill and IRA Fossil Fuel Concessions.md`: `[[Dominion Energy]]`, no match found
+- **BROKEN** in `Politicians\Independent\Joe Manchin\The BBB Kill and IRA Fossil Fuel Concessions.md`: `[[DTE Energy]]`, no match found
+- **BROKEN** in `Politicians\Independent\Joe Manchin\The BBB Kill and IRA Fossil Fuel Concessions.md`: `[[PG&E Corporation]]`, no match found
+- **BROKEN** in `Politicians\Independent\Joe Manchin\The BBB Kill and IRA Fossil Fuel Concessions.md`: `[[Exelon]]`, no match found
+- **BROKEN** in `Politicians\Independent\Joe Manchin\The BBB Kill and IRA Fossil Fuel Concessions.md`: `[[CONSOL Energy]]`, no match found
+- **BROKEN** in `Politicians\Independent\Joe Manchin\The BBB Kill and IRA Fossil Fuel Concessions.md`: `[[Peabody Energy]]`, no match found
+- **BROKEN** in `Politicians\Independent\Joe Manchin\The BBB Kill and IRA Fossil Fuel Concessions.md`: `[[Alpha Natural Resources]]`, no match found
+- **BROKEN** in `Politicians\Independent\Joe Manchin\The BBB Kill and IRA Fossil Fuel Concessions.md`: `[[Arch Coal]]`, no match found
+- **BROKEN** in `Politicians\Independent\Joe Manchin\The BBB Kill and IRA Fossil Fuel Concessions.md`: `[[Murray Energy]]`, no match found
+- **BROKEN** in `Politicians\Independent\Joe Manchin\_Joe Manchin Master Profile.md`: `[[Energy Transfer Partners]]`, suggestion: `[[Kelcy Warren - Energy Transfer Partners]]` (62%)
+- **BROKEN** in `Politicians\Independent\Joe Manchin\_Joe Manchin Master Profile.md`: `[[Enterprise Products Partners]]`, no match found
+- **BROKEN** in `Politicians\Independent\Joe Manchin\_Joe Manchin Master Profile.md`: `[[Enterprise Products Partners]]`, no match found
+- **BROKEN** in `Politicians\Independent\Joe Manchin\_Joe Manchin Master Profile.md`: `[[Equitrans Midstream]]`, no match found
+- **BROKEN** in `Politicians\Republicans\House\John Boehner\_John Boehner Master Profile.md`: `[[Paul Ryan]]`, no match found
+- **BROKEN** in `Politicians\Republicans\House\John Boehner\_John Boehner Master Profile.md`: `[[Donald Trump]]`, no match found
+- **BROKEN** in `Politicians\Republicans\House\John Boehner\_John Boehner Master Profile.md`: `[[Tobacco Industry]]`, no match found
+- **BROKEN** in `Politicians\Republicans\House\John Boehner\_John Boehner Master Profile.md`: `[[Cannabis Legalization Movement]]`, no match found
+- **BROKEN** in `Politicians\Republicans\House\John Boehner\_John Boehner Master Profile.md`: `[[Reynolds American]]`, no match found
+- **BROKEN** in `Politicians\Republicans\House\John Boehner\_John Boehner Master Profile.md`: `[[Altria]]`, no match found
+- **BROKEN** in `Politicians\Republicans\House\John Boehner\_John Boehner Master Profile.md`: `[[Tobacco Industry/Reynolds American]]`, no match found
+- **BROKEN** in `Politicians\Republicans\House\John Boehner\_John Boehner Master Profile.md`: `[[Altria - Philip Morris]]`, no match found
+- **BROKEN** in `Politicians\Republicans\House\John Boehner\_John Boehner Master Profile.md`: `[[Real Estate/Commercial Property]]`, no match found
+- **BROKEN** in `Politicians\Republicans\House\Paul Ryan\_Paul Ryan Master Profile.md`: `[[Donald Trump]]`, no match found
+- **BROKEN** in `Politicians\Republicans\House\Paul Ryan\_Paul Ryan Master Profile.md`: `[[Northwestern Mutual]]`, no match found
+- **BROKEN** in `Politicians\Republicans\Presidential\George W Bush\_George W Bush Master Profile.md`: `[[Merrill Lynch]]`, no match found
+- **BROKEN** in `Politicians\Republicans\Presidential\John McCain\_John McCain Master Profile.md`: `[[AT&T - American Telephone & Telegraph]]`, no match found
+- **BROKEN** in `Politicians\Republicans\Presidential\John McCain\_John McCain Master Profile.md`: `[[Hensley & Co]]`, no match found
+- **BROKEN** in `Politicians\Republicans\Presidential\Mitt Romney\_Mitt Romney Master Profile.md`: `[[Bain Capital]]`, no match found
+- **BROKEN** in `Politicians\Republicans\Senate\Thom Tillis\The Intellectual Property and Banking Donor Pipeline.md`: `[[Truist Financial]]`, no match found
+- **BROKEN** in `Politicians\Republicans\Trump Cabinet\Colin Powell\_Colin Powell Master Profile.md`: `[[George W Bush]]`, no match found
+- **BROKEN** in `Politicians\Republicans\Trump Cabinet\Colin Powell\_Colin Powell Master Profile.md`: `[[Dick Cheney]]`, no match found
+- **BROKEN** in `Politicians\Republicans\Trump Cabinet\Colin Powell\_Colin Powell Master Profile.md`: `[[Kleiner Perkins]]`, no match found
+- **BROKEN** in `Politicians\Republicans\Trump Cabinet\Colin Powell\_Colin Powell Master Profile.md`: `[[Defense & Intelligence/Defense Contractors]]`, no match found
+- **BROKEN** in `Politicians\Republicans\Trump Cabinet\Colin Powell\_Colin Powell Master Profile.md`: `[[Iraq War Coalition]]`, no match found
+- **BROKEN** in `Politicians\Republicans\Trump Cabinet\Colin Powell\_Colin Powell Master Profile.md`: `[[Kleiner Perkins]]`, no match found
+- **BROKEN** in `Politicians\Republicans\Trump Cabinet\Colin Powell\_Colin Powell Master Profile.md`: `[[Salesforce]]`, no match found
+- **BROKEN** in `Politicians\Republicans\Trump Cabinet\Condoleezza Rice\_Condoleezza Rice Master Profile.md`: `[[George W Bush]]`, no match found
+- **BROKEN** in `Politicians\Republicans\Trump Cabinet\Condoleezza Rice\_Condoleezza Rice Master Profile.md`: `[[Dick Cheney]]`, no match found
+- **BROKEN** in `Politicians\Republicans\Trump Cabinet\Condoleezza Rice\_Condoleezza Rice Master Profile.md`: `[[Defense & Intelligence/Defense Contractors]]`, no match found
+- **BROKEN** in `Politicians\Republicans\Trump Cabinet\Condoleezza Rice\_Condoleezza Rice Master Profile.md`: `[[Iraq War Coalition]]`, no match found
+- **BROKEN** in `Politicians\Republicans\Trump Cabinet\Condoleezza Rice\_Condoleezza Rice Master Profile.md`: `[[Stanford University]]`, no match found
+- **BROKEN** in `Politicians\Republicans\Trump Cabinet\Dick Cheney\_Dick Cheney Master Profile.md`: `[[Defense & Intelligence]]`, no match found
+- **BROKEN** in `Politicians\Republicans\Trump Cabinet\Dick Cheney\_Dick Cheney Master Profile.md`: `[[Wall Street]]`, suggestion: `[[Wall Street Bloc]]` (69%)
+- **BROKEN** in `Politicians Index.md`: `[[_Robert F. Kennedy Jr. Master Profile]]`, no match found
+- **BROKEN** in `Stories\Internal\Daily Updates\2026-03-22 News Scan.md`: `[[_Robert F. Kennedy Jr. Master Profile]]`, no match found
+- **BROKEN** in `Stories\Internal\Daily Updates\2026-03-22 News Scan.md`: `[[_Robert F. Kennedy Jr. Master Profile]]`, no match found
+- **BROKEN** in `Stories\Internal\Daily Updates\2026-03-25 News Scan.md`: `[[Ed Markey]]`, no match found
+- **BROKEN** in `Stories\Internal\Daily Updates\2026-03-25 Story Discovery Run 3.md`: `[[Leading the Future PAC]]`, no match found
+- **BROKEN** in `Stories\Internal\Daily Updates\2026-03-25 Story Discovery Run 3.md`: `[[Fairshake]]`, suggestion: `[[Fairshake PAC]]` (69%)
+- **BROKEN** in `Stories\Internal\Daily Updates\2026-03-26 Story Discovery Run 7.md`: `[[Howard Lutnick]]`, no match found
+- **BROKEN** in `Stories\Internal\Daily Updates\2026-03-26 Story Discovery.md`: `[[Donors & Power Networks/Defense & Intelligence/Defense Contractors Bloc]]`, no match found
+- **BROKEN** in `Stories\Internal\Daily Updates\2026-03-26 Story Discovery.md`: `[[Donors & Power Networks/Tech & Crypto/]]`, no match found
+- **BROKEN** in `Stories\Internal\Daily Updates\2026-03-26 Story Discovery.md`: `[[Donors & Power Networks/Israel Lobby/AIPAC - American Israel Public Affairs Committee]]`, suggestion: `[[AIPAC - American Israel Public Affairs Committee]]` (56%)
+- **BROKEN** in `Stories\Internal\Daily Updates\2026-03-26 Story Discovery.md`: `[[Donors & Power Networks/Tech & Crypto/]]`, no match found
+- **BROKEN** in `Stories\Internal\Daily Updates\2026-03-26 Story Discovery.md`: `[[Donors & Power Networks/Wall Street/Private Equity Industry Bloc]]`, no match found
+- **BROKEN** in `Stories\Internal\Daily Updates\2026-03-26 Story Discovery.md`: `[[Donors & Power Networks/Israel Lobby/AIPAC - American Israel Public Affairs Committee]]`, suggestion: `[[AIPAC - American Israel Public Affairs Committee]]` (56%)
+- **BROKEN** in `Stories\Internal\Daily Updates\2026-03-27 API Briefing.md`: `[[_VAULT_INDEX]]`, no match found
+- **BROKEN** in `Stories\Internal\Daily Updates\2026-03-27 API Briefing.md`: `[[Wall Street]]`, suggestion: `[[Wall Street Bloc]]` (69%)
+- **BROKEN** in `Stories\Internal\Daily Updates\2026-03-27 API Briefing.md`: `[[Tech & Crypto]]`, no match found
+- **BROKEN** in `Stories\Internal\Daily Updates\2026-03-27 API Briefing.md`: `[[Donor-Class Override]]`, no match found
+- **BROKEN** in `Stories\Internal\Daily Updates\2026-03-27 API Briefing.md`: `[[Energy & Utilities]]`, no match found
+- **BROKEN** in `Stories\Internal\Daily Updates\2026-03-27 API Briefing.md`: `[[Energy & Utilities]]`, no match found
+- **BROKEN** in `Stories\Internal\Research Logs\2026-03-25 Finance Research.md`: `[[Stephen Schwarzman - Blackstone]]`, suggestion: `[[Stephen Schwarzman]]` (58%)
+- **BROKEN** in `Stories\Internal\Research Logs\2026-03-25 Finance Research.md`: `[[Stephen Schwarzman - Blackstone]]`, suggestion: `[[Stephen Schwarzman]]` (58%)
+- **BROKEN** in `Stories\Internal\Research Logs\2026-03-25 Finance Research.md`: `[[Club for Growth Action]]`, suggestion: `[[Club for Growth]]` (68%)
+- **BROKEN** in `Stories\Internal\Research Logs\2026-03-25 Finance Research.md`: `[[Jamaal Bowman]]`, no match found
+- **BROKEN** in `Stories\Internal\Research Logs\2026-03-25 Finance Research.md`: `[[Cori Bush]]`, no match found
+- **BROKEN** in `Stories\Internal\Research Logs\2026-03-25 Finance Research.md`: `[[Ken Griffin - Citadel]]`, suggestion: `[[Ken Griffin]]` (52%)
+- **BROKEN** in `Stories\Internal\Research Logs\2026-03-25 Finance Research.md`: `[[Elon Musk - Tesla SpaceX]]`, no match found
+- **BROKEN** in `Stories\Internal\Research Logs\2026-03-25 Finance Research.md`: `[[DOGE - Department of Government Efficiency]]`, no match found
+- **BROKEN** in `Stories\Internal\Research Logs\2026-03-25 Finance Research.md`: `[[Crypto.com / Foris DAX]]`, no match found
+- **BROKEN** in `Stories\Internal\Research Logs\2026-03-25 Finance Research.md`: `[[Stephen Schwarzman - Blackstone]]`, suggestion: `[[Stephen Schwarzman]]` (58%)
+- **BROKEN** in `Stories\Internal\Research Logs\2026-03-25 Finance Research.md`: `[[Ken Griffin - Citadel]]`, suggestion: `[[Ken Griffin]]` (52%)
+- **BROKEN** in `Stories\Internal\Research Logs\2026-03-25 Finance Research.md`: `[[Elon Musk - Tesla SpaceX]]`, no match found
+- **BROKEN** in `Stories\Internal\Research Logs\2026-03-26 Finance Research.md`: `[[Pam Bondi]]`, no match found
+- **BROKEN** in `Stories\Internal\Research Logs\2026-03-26 Finance Research.md`: `[[Pam Bondi]]`, no match found
+- **BROKEN** in `Stories\Internal\Research Logs\2026-03-27 Freshness Audit.md`: `[[Media Personality Name]]`, no match found
+- **BROKEN** in `Stories\Internal\Research Logs\2026-03-27 Freshness Audit.md`: `[[Think Tank Name]]`, no match found
+- **BROKEN** in `Stories\Internal\Research Logs\2026-03-27 Freshness Audit.md`: `[[Lobbying Firm Name]]`, no match found
+- **BROKEN** in `Stories\Internal\Research Logs\2026-03-27 Freshness Audit.md`: `[[..]]`, no match found
+- **BROKEN** in `Stories\Internal\Research Logs\2026-03-27 Freshness Audit.md`: `[[stem]]`, no match found
+- **BROKEN** in `Stories\Published\2026 Senate Races\Idaho 2026 Senate Race.md`: `[[2026 Senate Races]]`, no match found
+- **BROKEN** in `Stories\Published\2026 Senate Races\Idaho 2026 Senate Race.md`: `[[Jim Risch]]`, no match found
+- **BROKEN** in `Stories\Published\2026 Senate Races\Idaho 2026 Senate Race.md`: `[[Republican Primary Dynamics]]`, no match found
+- **BROKEN** in `Stories\Published\2026 Senate Races\Idaho 2026 Senate Race.md`: `[[2026 Senate Races]]`, no match found
+- **BROKEN** in `Stories\Published\2026 Senate Races\Idaho 2026 Senate Race.md`: `[[Republican Primary Dynamics]]`, no match found
+- **BROKEN** in `Stories\Published\2026 Senate Races\Idaho 2026 Senate Race.md`: `[[Energy & Politics]]`, no match found
+- **BROKEN** in `Stories\Published\2026 Senate Races\Louisiana 2026 Senate Race.md`: `[[Oil & Gas Industry]]`, no match found
+- **BROKEN** in `Stories\Published\2026 Senate Races\Louisiana 2026 Senate Race.md`: `[[AIPAC]]`, no match found
+- **BROKEN** in `Stories\Published\2026 Senate Races\Oklahoma 2026 Senate Race.md`: `[[2026 Senate Map]]`, no match found
+- **BROKEN** in `Stories\Published\2026 Senate Races\Oklahoma 2026 Senate Race.md`: `[[Congressional Oil & Gas Funding]]`, no match found
+- **BROKEN** in `Stories\Published\2026 Senate Races\Oklahoma 2026 Senate Race.md`: `[[Kevin Hern Profile]]`, no match found
+- **BROKEN** in `Stories\Published\2026 Senate Races\Oklahoma 2026 Senate Race.md`: `[[Senate Special Elections 2026]]`, no match found
+- **BROKEN** in `Stories\Published\2026 Senate Races\Oklahoma 2026 Senate Race.md`: `[[2026 Senate Map]]`, no match found
+- **BROKEN** in `Stories\Published\2026 Senate Races\Oklahoma 2026 Senate Race.md`: `[[Congressional Oil & Gas Funding]]`, no match found
+- **BROKEN** in `Stories\Published\2026 Senate Races\Oklahoma 2026 Senate Race.md`: `[[Kevin Hern Profile]]`, no match found
+- **BROKEN** in `Stories\Published\2026 Senate Races\Oklahoma 2026 Senate Race.md`: `[[Senate Special Elections 2026]]`, no match found
+- **BROKEN** in `Stories\Published\2026 Senate Races\Oklahoma 2026 Senate Race.md`: `[[Oklahoma Political Landscape]]`, no match found
+- **BROKEN** in `Stories\Published\ALEC Legislative Language Layer - Who Actually Writes the Laws.md`: `[[Research Methodology and Data Sources]]`, no match found
+- **BROKEN** in `Stories\Published\Cross-Politician Analysis\Defense-Pharma-Carceral-Labor-Wexner Cross-Reference - Five Donors, One System.md`: `[[Defense Industry Donor Network]]`, suggestion: `[[Defense Industry]]` (53%)
+- **BROKEN** in `Stories\Published\Cross-Politician Analysis\Defense-Pharma-Carceral-Labor-Wexner Cross-Reference - Five Donors, One System.md`: `[[Immigration Detention Industry]]`, no match found
+- **BROKEN** in `Stories\Published\Cross-Politician Analysis\Defense-Pharma-Carceral-Labor-Wexner Cross-Reference - Five Donors, One System.md`: `[[Private Prison Complex]]`, no match found
+- **BROKEN** in `Stories\Published\Cross-Politician Analysis\Defense-Pharma-Carceral-Labor-Wexner Cross-Reference - Five Donors, One System.md`: `[[One Big Beautiful Bill Act]]`, no match found
+- **BROKEN** in `Stories\Published\Cross-Politician Analysis\How Money Captures Media - The Donor Map Media Pipeline.md`: `[[Research Methodology and Data Sources]]`, no match found
+- **BROKEN** in `Stories\Published\Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts.md`: `[[Research Methodology and Data Sources]]`, no match found
+- **BROKEN** in `Stories\Published\Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts.md`: `[[Session Timeline]]`, no match found
+- **BROKEN** in `Stories\Published\Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts.md`: `[[Research Methodology and Data Sources]]`, no match found
+- **BROKEN** in `Stories\Published\Geographic Donor Clustering - Where the Money Actually Comes From.md`: `[[Research Methodology and Data Sources]]`, no match found
+- **BROKEN** in `Stories\Published\Helms-Burton Title III and the Bacardi Trademark Wars.md`: `[[U.S.-Cuba Democracy PAC]]`, no match found
+- **BROKEN** in `Stories\Published\Helms-Burton Title III and the Bacardi Trademark Wars.md`: `[[Mauricio Claver-Carone]]`, suggestion: `[[LARA Fund - Mauricio Claver-Carone]]` (65%)
+- **BROKEN** in `Stories\Published\Helms-Burton Title III and the Bacardi Trademark Wars.md`: `[[Otto Reich]]`, no match found
+- **BROKEN** in `Stories\Published\Helms-Burton Title III and the Bacardi Trademark Wars.md`: `[[Dan Burton]]`, no match found
+- **BROKEN** in `Stories\Published\Helms-Burton Title III and the Bacardi Trademark Wars.md`: `[[Jesse Helms]]`, no match found
+- **BROKEN** in `Stories\Published\Intra-Democratic Contradiction Map - The Progressive vs Moderate Illusion.md`: `[[Session Timeline]]`, no match found
+- **BROKEN** in `Stories\Published\Intra-Democratic Contradiction Map - The Progressive vs Moderate Illusion.md`: `[[Research Methodology and Data Sources]]`, no match found
+- **BROKEN** in `Stories\Published\Intra-Republican Contradiction Map.md`: `[[Session Timeline]]`, no match found
+- **BROKEN** in `Stories\Published\Intra-Republican Contradiction Map.md`: `[[Research Methodology and Data Sources]]`, no match found
+- **BROKEN** in `Stories\Published\Voting Record Layer - When Donors Vote Through Their Politicians.md`: `[[Research Methodology and Data Sources]]`, no match found
+- **BROKEN** in `Think Tanks & Policy Infrastructure\Conservative\American Enterprise Institute.md`: `[[Clifford Asness]]`, no match found
+- **BROKEN** in `Think Tanks & Policy Infrastructure\Conservative\American Enterprise Institute.md`: `[[Fidelity]]`, no match found
+- **BROKEN** in `Think Tanks & Policy Infrastructure\Conservative\American Enterprise Institute.md`: `[[DeVos]]`, no match found
+- **BROKEN** in `Think Tanks & Policy Infrastructure\Conservative\American Enterprise Institute.md`: `[[Clifford Asness]]`, no match found
+- **BROKEN** in `Think Tanks & Policy Infrastructure\Conservative\American Enterprise Institute.md`: `[[DeVos]]`, no match found
+- **BROKEN** in `Think Tanks & Policy Infrastructure\Conservative\Hoover Institution.md`: `[[Scaife Foundations]]`, no match found
+- **BROKEN** in `Think Tanks & Policy Infrastructure\Conservative\Manhattan Institute.md`: `[[Scaife Foundations]]`, no match found
+- **BROKEN** in `Think Tanks & Policy Infrastructure\Cross-Think-Tank Donor Map. The Both-Sides Illusion With Receipts.md`: `[[CNAS]]`, no match found
+- **BROKEN** in `Think Tanks & Policy Infrastructure\Liberal\Economic Policy Institute.md`: `[[American Federation of Teachers]]`, no match found
+- **BROKEN** in `Think Tanks & Policy Infrastructure\Liberal\Economic Policy Institute.md`: `[[Ford Foundation]]`, no match found
+- **BROKEN** in `Think Tanks & Policy Infrastructure\_Think Tank Framework.md`: `[[Research Methodology and Data Sources]]`, no match found
+- **BROKEN** in `Think Tanks & Policy Infrastructure\_Think Tank Framework.md`: `[[_VAULT_INDEX]]`, no match found
+- **BROKEN** in `Think Tanks & Policy Infrastructure\_Think Tank Index.md`: `[[_VAULT_INDEX]]`, no match found
+- **BROKEN** in `Think Tanks & Policy Infrastructure\_Think Tank Index.md`: `[[Scaife Foundations]]`, no match found
 
 ### Wikilink Summary
 - Scanned: 15370
 - Broken: 1107
 - Auto-fixed: 0
 
-- **DEAD LINK (404)**: https://fop.net/government-and-media-affairs/legislation-we-support/ — in Donors & Power Networks\Law Enforcement\Fraternal Order of Police.md
-- **DEAD LINK (404, no archive)**: https://www.justice.gov/archive/opa/pr/1996/Oct96/508at.htm — in Donors & Power Networks\Agriculture\ADM - Archer Daniels Midland.md
-- **DEAD LINK (404)**: https://www.theiacp.org/resources/policy-center — in Donors & Power Networks\Law Enforcement\International Association of Chiefs of Police.md
-- **DEAD LINK (404)**: https://www.opensecrets.org/political-action-committees-pacs/democratic-majority-for-israel/C00764431/ — in Donors & Power Networks\Foreign\AIPAC Super PAC Spending Map.md
-- **DEAD LINK (404)**: https://www.golfdigest.com/story/pga-tour-saudi-pif-negotiation-breakdown-and-the-state-of-a-potential-deal — in Donors & Power Networks\Foreign\Gulf State Money - Saudi Arabia, UAE, Qatar.md
-- **DEAD LINK (404)**: https://www.latimes.com/business/story/2020-10-20/prop-22-gig-workers-uber-lyft-record-spending — in Donors & Power Networks\Gig Economy\DoorDash.md, Donors & Power Networks\Gig Economy\Lyft.md
-- **DEAD LINK (404)**: https://www.hollywoodreporter.com/news/general-news/jeffrey-katzenberg-democrat-donations-fundraising-hollywood-strikes-4088888/ — in Donors & Power Networks\Media & Entertainment\Hollywood Democratic Donor Network.md
-- **DEAD LINK (404)**: https://www.wga.org/news-events-press/news/archives-2023 — in Donors & Power Networks\Media & Entertainment\Hollywood Democratic Donor Network.md
-- **DEAD LINK (404)**: https://www.cnbc.com/2024/07/reed-hastings-kamala-harris-donation/ — in Donors & Power Networks\Media & Entertainment\Hollywood Democratic Donor Network.md
-- **DEAD LINK (404)**: https://www.pewresearch.org/journalism/2023/06/13/local-news-media-landscape/ — in Donors & Power Networks\Media & Entertainment\Sinclair Broadcasting Group.md
-- **DEAD LINK (404, no archive)**: https://democracyfund.org/grants/voter-contact-coordination-research/ — in Donors & Power Networks\Dark Money\America Votes.md
-- **DEAD LINK (404)**: https://www.cms.gov/data-research/statistics-trends-and-reports — in Donors & Power Networks\Healthcare\Blue Cross Blue Shield Association.md
-- **DEAD LINK (404)**: https://www.usatoday.com/story/opinion/2019/02/07/justice-department-online-gambling-gop-donor-sheldon-adelson-trump-column/2019-02-07/ — in Donors & Power Networks\Mega-Donors\Adelson Family.md
-- **DEAD LINK (404, no archive)**: https://nonprofitquarterly.org/arabella-advisors-grows-as-a-major-dem-player/ — in Donors & Power Networks\Dark Money\Arabella Advisors.md, Donors & Power Networks\Dark Money\Arabella Advisors.md
-- **DEAD LINK (404)**: https://www.fppc.ca.gov/transparency/behested-payments.html — in Donors & Power Networks\Healthcare\Blue Shield of California.md
-- **DEAD LINK (404)**: https://www.aljazeera.com/economy/2025/2/26/washington-post-opinion-head-departs-as-jeff-bezos-shifts-focus-for-paper-about-latest-us-border-flashpoint — in Donors & Power Networks\Mega-Donors\Adelson Family.md
-- **DEAD LINK (404)**: https://www.scotusblog.com/cases/case-files/dobbs-v-jackson-womens-health-organization/ — in Donors & Power Networks\Mega-Donors\Barre Seid.md
-- **DEAD LINK (404, no archive)**: https://www.opensecrets.org/pacs/brady-pac — in Donors & Power Networks\Dark Money\Brady Campaign.md
-- **DEAD LINK (404)**: https://www.insidephilanthropy.com/home/looking-back-at-bernie-marcus-giving-and-what-next — in Donors & Power Networks\Mega-Donors\Bernard Marcus.md
-- **DEAD LINK (404)**: https://www.justice.gov/archives/opa/pr/justice-department-requires-cvs-and-aetna-divest-aetna-s-medicare-individual-part-d — in Donors & Power Networks\Healthcare\CVS Health - Aetna.md
-- **DEAD LINK (404)**: https://www.statnews.com/cvs-vertical-integration/ — in Donors & Power Networks\Healthcare\CVS Health - Aetna.md
-- **DEAD LINK (404, no archive)**: https://www.salon.com/2017/12/05/how-center-for-american-progress-became-a-corporate-think-tank/ — in Donors & Power Networks\Dark Money\Center for American Progress.md
-- **DEAD LINK (404, no archive)**: https://prospect.org/2023/07/11/2023-07-11-gunning-for-more-va-privatization/ — in Donors & Power Networks\Dark Money\Center for American Progress.md
-- **DEAD LINK (404, no archive)**: https://projects.propublica.org/nonprofits/organizations/271747501 — in Donors & Power Networks\Dark Money\Concerned Veterans for America.md
-- **DEAD LINK (404)**: https://www.statnews.com/medicare-advantage-upcoding/ — in Donors & Power Networks\Healthcare\Humana.md
-- **DEAD LINK (404, no archive)**: https://www.influencewatch.org/organization/demand-justice/ — in Donors & Power Networks\Dark Money\Demand Justice.md, Donors & Power Networks\Dark Money\Demand Justice.md
-- **DEAD LINK (404, no archive)**: https://www.whitehouse.gov/briefing-room/statements-releases/2023/07/26/fact-sheet-president-biden-announces-federal-judicial-appointments/ — in Donors & Power Networks\Dark Money\Demand Justice.md
-- **DEAD LINK (404)**: https://en.wikipedia.org/wiki/All-In_(podcast) — in Donors & Power Networks\Mega-Donors\David Sacks.md
-- **DEAD LINK (404)**: https://web.archive.org/web/2026/https:/www.cnbc.com/2026/02/02/spacex-xai-merger.html — in Donors & Power Networks\Mega-Donors\Elon Musk.md, Donors & Power Networks\Mega-Donors\Elon Musk.md
-- **DEAD LINK (404, no archive)**: https://projects.propublica.org/nonprofits/organizations/521544430 — in Donors & Power Networks\Dark Money\Environmental Law & Policy Center.md
-- **DEAD LINK (404, no archive)**: https://www.insidephilanthropy.com/environmental-nonprofits/ — in Donors & Power Networks\Dark Money\Environmental Law & Policy Center.md
-- **DEAD LINK (404)**: https://www.middleeasteye.net/news/49-times-us-has-used-veto-power-against-un-resolutions-israel — in Donors & Power Networks\Israel Lobby\AIPAC - American Israel Public Affairs Committee.md
-- **DEAD LINK (404, no archive)**: https://www.scotusblog.com/2022/06/a-minor-impact-on-gun-laws-but-a-potentially-momentous-shift-in-constitutional-method/ — in Donors & Power Networks\Dark Money\Gun Owners of America.md
-- **DEAD LINK (404)**: https://www.middleeasteye.net/news/whatsapp-co-founder-donates-2m-pro-israel-super-pac — in Donors & Power Networks\Mega-Donors\Jan Koum.md
-- **DEAD LINK (404)**: https://www.nasa.gov/press-release/nasa-selects-blue-origin-for-second-artemis-moon-lander — in Donors & Power Networks\Mega-Donors\Jeff Bezos.md
-- **DEAD LINK (404)**: https://projects.propublica.org/nonprofits/organizations/273725506 — in Donors & Power Networks\Mega-Donors\Jeffrey Katzenberg.md
-- **DEAD LINK (404)**: https://www.theguardian.com/us-news/2021/jan/11/sheldon-adelson-dead-pro-israel-mega-donor — in Donors & Power Networks\Israel Lobby\Republican Jewish Coalition.md
-- **DEAD LINK (404)**: https://www.justice.gov/usao-sdfl/united-states-v-jeffrey-epstein — in Donors & Power Networks\Jeffrey Epstein Network.md
-- **DEAD LINK (404)**: https://www.federaltimes.com/management/2024/01/15/afge-federal-workforce/ — in Donors & Power Networks\Labor Unions\AFGE - American Federation of Government Employees.md
-- **DEAD LINK (404)**: https://www.sos.ca.gov/campaign-lobbying/cal-access-portal — in Donors & Power Networks\Labor Unions\IBEW California State Association.md
-- **DEAD LINK (404)**: https://www.dir.ca.gov/dls/prevailing-wage.html — in Donors & Power Networks\Labor Unions\IBEW California State Association.md
-- **DEAD LINK (404, no archive)**: https://www.cnn.com/technology/elon-musk-sues-media-matters/index.html — in Donors & Power Networks\Dark Money\Media Matters.md
-- **DEAD LINK (404)**: https://www.theguardian.com/us-news/2024/apr/01/billionaire-donor-tiktok-stake — in Donors & Power Networks\Mega-Donors\Jeffrey Yass.md
-- **DEAD LINK (404, no archive)**: https://www.desmog.com/national-association-of-manufacturers/ — in Donors & Power Networks\Dark Money\National Association of Manufacturers.md
-- **DEAD LINK (404, no archive)**: https://www.whitehouse.senate.gov/news/speeches/time-to-wake-up-249-the-national-association-of-manufacturers/ — in Donors & Power Networks\Dark Money\National Association of Manufacturers.md
-- **DEAD LINK (404)**: https://www.theguardian.com/business/2024/mar/12/hedge-fund-billionaire-kenneth-griffin — in Donors & Power Networks\Mega-Donors\Ken Griffin.md
-- **DEAD LINK (404)**: https://unitehere.org/affiliates/local-2-san-francisco-and-bay-area/ — in Donors & Power Networks\Labor Unions\UNITE HERE.md
-- **DEAD LINK (404)**: https://unitehere.org/affiliates/local-11-los-angeles-orange-county-arizona2/ — in Donors & Power Networks\Labor Unions\UNITE HERE.md
-- **DEAD LINK (404)**: https://www.politico.com/story/2015/01/koch-2016-702-million-702-million-114604 — in Donors & Power Networks\Mega-Donors\Koch Network - Charles Koch.md, Donors & Power Networks\Mega-Donors\Koch Network - Charles Koch.md
-- **DEAD LINK (404)**: https://www.motherjones.com/politics/2013/02/donors-trust-donor-advised-fund-koch-dark-money/ — in Donors & Power Networks\Mega-Donors\Koch Network - Charles Koch.md, Donors & Power Networks\Mega-Donors\Koch Network - Charles Koch.md
-- **DEAD LINK (404)**: https://fop.net/government-and-media-affairs/legislation-we-support/ — in Donors & Power Networks\Law Enforcement\Fraternal Order of Police.md
-- **DEAD LINK (404)**: https://www.theiacp.org/resources/policy-center — in Donors & Power Networks\Law Enforcement\International Association of Chiefs of Police.md
-- **DEAD LINK (404)**: https://www.brookings.edu/articles/alec-model-bills-are-more-likely-to-become-law-heres-why/ — in Donors & Power Networks\Mega-Donors\Koch Network - Charles Koch.md, Donors & Power Networks\Mega-Donors\Koch Network - Charles Koch.md
-- **DEAD LINK (404)**: https://www.cnbc.com/2017/06/26/koch-network-warns-donors-are-closing-wallets-until-they-see-legislative-progress.html — in Donors & Power Networks\Mega-Donors\Koch Network - Charles Koch.md, Donors & Power Networks\Mega-Donors\Koch Network - Charles Koch.md
-- **DEAD LINK (404, no archive)**: https://capitalresearch.org/article/sixteen-thirty-fund-carpet-bombed-the-2020-election-in-leftist-dark-money/ — in Donors & Power Networks\Dark Money\Sixteen Thirty Fund.md, Donors & Power Networks\Dark Money\Sixteen Thirty Fund.md
-- **DEAD LINK (404)**: https://americansfortaxfairness.org/tax-fairness-briefing-booklet/fact-sheet-koch-brothers-exposed-billionaires-fuel-extreme-right/ — in Donors & Power Networks\Mega-Donors\Koch Network - Charles Koch.md
-- **DEAD LINK (404)**: https://finance.yahoo.com/news/larry-ellison-net-worth-update-from-topping-musk-in-2025-to-losing-19-of-his-wealth-in-2026-203114110.html — in Donors & Power Networks\Mega-Donors\Larry Ellison.md
-- **DEAD LINK (404)**: https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=leonard%20leo — in Donors & Power Networks\Leonard Leo.md
-- **DEAD LINK (404, no archive)**: https://www.fec.gov/data/receipts/?data_type=processed — in Donors & Power Networks\Dark Money\Sports Betting Alliance.md
-- **DEAD LINK (404)**: https://www.hollywoodreporter.com/news/general-news/jeffrey-katzenberg-democrat-donations-fundraising-hollywood-strikes-4088888/ — in Donors & Power Networks\Media & Entertainment\Hollywood Democratic Donor Network.md
-- **DEAD LINK (404)**: https://www.wga.org/news-events-press/news/archives-2023 — in Donors & Power Networks\Media & Entertainment\Hollywood Democratic Donor Network.md
-- **DEAD LINK (404)**: https://www.cnbc.com/2024/07/reed-hastings-kamala-harris-donation/ — in Donors & Power Networks\Media & Entertainment\Hollywood Democratic Donor Network.md
-- **DEAD LINK (404, no archive)**: https://www.citizen.org/article/chamber-of-secrets/ — in Donors & Power Networks\Dark Money\US Chamber of Commerce.md, Donors & Power Networks\Dark Money\US Chamber of Commerce.md
-- **DEAD LINK (404, no archive)**: https://www.npr.org/2021/01/07/954478011/u-s-chamber-of-commerce-condemns-violence-at-capitol — in Donors & Power Networks\Dark Money\US Chamber of Commerce.md
-- **DEAD LINK (404)**: https://www.pewresearch.org/journalism/2023/06/13/local-news-media-landscape/ — in Donors & Power Networks\Media & Entertainment\Sinclair Broadcasting Group.md
-- **DEAD LINK (404)**: https://www.ftc.gov/news-events/news/press-releases/2019/07/ftc-imposes-5-billion-penalty-sweeping-new-privacy-restrictions-facebook — in Donors & Power Networks\Mega-Donors\Mark Zuckerberg.md, Donors & Power Networks\Tech & Crypto\Meta - Facebook.md
-- **DEAD LINK (404)**: https://web.archive.org/web/2019/https:/www.cnn.com/politics/news/2018-midterms-bloomberg-spending — in Donors & Power Networks\Mega-Donors\Michael Bloomberg.md
-- **DEAD LINK (404)**: https://www.influencewatch.org/non-profit/independence-usa-pac/ — in Donors & Power Networks\Mega-Donors\Michael Bloomberg.md
-- **DEAD LINK (404, no archive)**: https://www.npr.org/2024/05/02/1248693512/boeing-whistleblower-josh-dean-dead — in Donors & Power Networks\Defense & Intelligence\Boeing.md
-- **DEAD LINK (404)**: https://www.usatoday.com/story/opinion/2019/02/07/justice-department-online-gambling-gop-donor-sheldon-adelson-trump-column/2019-02-07/ — in Donors & Power Networks\Mega-Donors\Adelson Family.md
-- **DEAD LINK (404, no archive)**: https://www.scientificamerican.com/article/nasa-says-a-litany-of-failures-led-to-2024-boeing-starliner/ — in Donors & Power Networks\Defense & Intelligence\Boeing.md
-- **DEAD LINK (404)**: https://www.aljazeera.com/economy/2025/2/26/washington-post-opinion-head-departs-as-jeff-bezos-shifts-focus-for-paper-about-latest-us-border-flashpoint — in Donors & Power Networks\Mega-Donors\Adelson Family.md
-- **DEAD LINK (404)**: https://www.scotusblog.com/cases/case-files/dobbs-v-jackson-womens-health-organization/ — in Donors & Power Networks\Mega-Donors\Barre Seid.md
-- **DEAD LINK (404)**: https://www.influencewatch.org/person/paul-singer/ — in Donors & Power Networks\Mega-Donors\Paul Singer.md
-- **DEAD LINK (404)**: https://www.cnbc.com/2024/03/15/rebekah-mercer-trump.html — in Donors & Power Networks\Mega-Donors\Rebekah Mercer.md
-- **DEAD LINK (404)**: https://fortune.com/2016/11/17/trump-transition-women/ — in Donors & Power Networks\Mega-Donors\Rebekah Mercer.md
-- **DEAD LINK (404)**: https://www.insidephilanthropy.com/home/looking-back-at-bernie-marcus-giving-and-what-next — in Donors & Power Networks\Mega-Donors\Bernard Marcus.md
-- **DEAD LINK (404, no archive)**: https://www.defensenews.com/general-dynamics/ — in Donors & Power Networks\Defense & Intelligence\General Dynamics.md
-- **DEAD LINK (404)**: https://elections.wi.gov/state-candidates-and-committees — in Donors & Power Networks\Mega-Donors\Reid Hoffman.md
-- **DEAD LINK (404)**: https://www.hsgac.senate.gov/subcommittees/investigations/ — in Donors & Power Networks\Mega-Donors\Renaissance Technologies and the 7 Billion Dollar Tax Settlement.md, Donors & Power Networks\Mega-Donors\Robert Mercer.md
-- **DEAD LINK (404)**: https://www.cbsnews.com/news/gop-megadonor-richard-uihlein-pours-millions-into-effort-to-hinder-ohio-abortion-amendment/ — in Donors & Power Networks\Mega-Donors\Richard and Elizabeth Uihlein.md
-- **DEAD LINK (404)**: https://en.wikipedia.org/wiki/All-In_(podcast) — in Donors & Power Networks\Mega-Donors\David Sacks.md
-- **DEAD LINK (404)**: https://www.justice.gov/usao-sdny/united-states-v-samuel-bankman-fried-aka-sbf-22-cr-673-lak — in Donors & Power Networks\Mega-Donors\Sam Bankman-Fried.md, Donors & Power Networks\Tech & Crypto\FTX - Sam Bankman-Fried.md
-- **DEAD LINK (404)**: https://web.archive.org/web/2026/https:/www.cnbc.com/2026/02/02/spacex-xai-merger.html — in Donors & Power Networks\Mega-Donors\Elon Musk.md, Donors & Power Networks\Mega-Donors\Elon Musk.md
-- **DEAD LINK (404, no archive)**: https://fas.org/publication/f-35-program-cost/ — in Donors & Power Networks\Defense & Intelligence\Lockheed Martin.md
-- **DEAD LINK (404, no archive)**: https://costsofwar.watson.brown.edu/papers/2025/MilitaryContractors — in Donors & Power Networks\Defense & Intelligence\Lockheed Martin.md
-- **DEAD LINK (404, no archive)**: https://www.fool.com/investing/2019/01/29/nucor-corporation-just-had-its-most-profitable-yea.html — in Donors & Power Networks\Defense & Intelligence\Nucor Corporation.md
-- **DEAD LINK (404)**: https://www.middleeasteye.net/news/whatsapp-co-founder-donates-2m-pro-israel-super-pac — in Donors & Power Networks\Mega-Donors\Jan Koum.md
-- **DEAD LINK (404)**: https://taxfoundation.org/research/all/federal/carried-interest-tax-debate/ — in Donors & Power Networks\Mega-Donors\Stephen Schwarzman.md
-- **DEAD LINK (404)**: https://itep.org/private-equity-tax-loophole/ — in Donors & Power Networks\Mega-Donors\Stephen Schwarzman.md
-- **DEAD LINK (404, no archive)**: https://www.latimes.com/california/story/2019-10-13/newsom-vetoes-charter-school-geographic-restriction-bill — in Donors & Power Networks\Education\California Charter Schools Association.md, Politicians\Democrats\Governors\Gavin Newsom\Education\Charter Schools and the Billionaire Reform Movement.md
-- **DEAD LINK (404, no archive)**: https://www.latimes.com/california/story/2021-03-05/teachers-union-california-schools-reopening — in Donors & Power Networks\Education\CTA - California Teachers Association.md
-- **DEAD LINK (404)**: https://www.nasa.gov/press-release/nasa-selects-blue-origin-for-second-artemis-moon-lander — in Donors & Power Networks\Mega-Donors\Jeff Bezos.md
-- **DEAD LINK (404)**: https://projects.propublica.org/nonprofits/organizations/273725506 — in Donors & Power Networks\Mega-Donors\Jeffrey Katzenberg.md
-- **DEAD LINK (404)**: https://www.theguardian.com/us-news/2024/apr/01/billionaire-donor-tiktok-stake — in Donors & Power Networks\Mega-Donors\Jeffrey Yass.md
-- **DEAD LINK (404)**: https://www.theguardian.com/business/2024/mar/12/hedge-fund-billionaire-kenneth-griffin — in Donors & Power Networks\Mega-Donors\Ken Griffin.md
-- **DEAD LINK (404)**: https://finance.yahoo.com/news/reclusive-billionaire-timothy-mellon-has-spent-504-million-on-trump-and-gop-causes-113025926.html — in Donors & Power Networks\Mega-Donors\Timothy Mellon.md
-- **DEAD LINK (404)**: https://www.cnbc.com/2024/11/07/timothy-mellon-quietly-spent-165-million-on-2024-election-making-him-second-largest-donor.html — in Donors & Power Networks\Mega-Donors\Timothy Mellon.md
-- **DEAD LINK (404)**: https://fortune.com/2025/10/15/timothy-mellon-donates-130-million-to-military-pay-during-shutdown/ — in Donors & Power Networks\Mega-Donors\Timothy Mellon.md
-- **DEAD LINK (404, no archive)**: https://theintercept.com/2019/11/05/erik-prince-trump-ukraine-china/ — in Donors & Power Networks\Education\DeVos Family.md
-- **DEAD LINK (404)**: https://www.texastribune.org/2025/06/02/texas-border-wall-funding/ — in Donors & Power Networks\Mega-Donors\Timothy Mellon.md
-- **DEAD LINK (404)**: https://web.archive.org/web/2024/https:/www.cnn.com/politics/live-news/maga-super-pac-spending — in Donors & Power Networks\Mega-Donors\Timothy Mellon.md
-- **DEAD LINK (404, no archive)**: https://www.theguardian.com/us-news/2014/mar/25/walton-family-foundation-charter-schools — in Donors & Power Networks\Education\Walton Family Foundation.md
-- **DEAD LINK (404)**: https://fortune.com/person/timothy-mellon/ — in Donors & Power Networks\Mega-Donors\Timothy Mellon.md
-- **DEAD LINK (404)**: https://archive.vanityfair.com/article/2024/10/a-house-divided — in Donors & Power Networks\Mega-Donors\Timothy Mellon.md
-- **DEAD LINK (404, no archive)**: https://www.opensecrets.org/orgs/southern-company — in Donors & Power Networks\Energy & Utilities\Alabama Power.md
-- **DEAD LINK (404)**: https://www.politico.com/story/2015/01/koch-2016-702-million-702-million-114604 — in Donors & Power Networks\Mega-Donors\Koch Network - Charles Koch.md, Donors & Power Networks\Mega-Donors\Koch Network - Charles Koch.md
-- **DEAD LINK (404)**: https://www.politico.com/news/2022/08/22/dark-money-donation-conservative-00052809 — in Donors & Power Networks\Mega-Donors\Koch Network - Charles Koch.md, Donors & Power Networks\Mega-Donors\Koch Network - Charles Koch.md
-- **DEAD LINK (404)**: https://www.motherjones.com/politics/2013/02/donors-trust-donor-advised-fund-koch-dark-money/ — in Donors & Power Networks\Mega-Donors\Koch Network - Charles Koch.md, Donors & Power Networks\Mega-Donors\Koch Network - Charles Koch.md
-- **DEAD LINK (404)**: https://www.brookings.edu/articles/alec-model-bills-are-more-likely-to-become-law-heres-why/ — in Donors & Power Networks\Mega-Donors\Koch Network - Charles Koch.md, Donors & Power Networks\Mega-Donors\Koch Network - Charles Koch.md
-- **DEAD LINK (404)**: https://www.cnbc.com/2017/06/26/koch-network-warns-donors-are-closing-wallets-until-they-see-legislative-progress.html — in Donors & Power Networks\Mega-Donors\Koch Network - Charles Koch.md, Donors & Power Networks\Mega-Donors\Koch Network - Charles Koch.md
-- **DEAD LINK (404)**: https://americansfortaxfairness.org/tax-fairness-briefing-booklet/fact-sheet-koch-brothers-exposed-billionaires-fuel-extreme-right/ — in Donors & Power Networks\Mega-Donors\Koch Network - Charles Koch.md
-- **DEAD LINK (404)**: https://finance.yahoo.com/news/larry-ellison-net-worth-update-from-topping-musk-in-2025-to-losing-19-of-his-wealth-in-2026-203114110.html — in Donors & Power Networks\Mega-Donors\Larry Ellison.md
-- **DEAD LINK (404, no archive)**: https://www.eastbaytimes.com/2013/02/14/chevron-agrees-to-pay-90-million-to-settle-richmond-refinery-fire-claims/ — in Donors & Power Networks\Energy & Utilities\Chevron.md
-- **DEAD LINK (404)**: https://www.fns.usda.gov/snap/retailer-data — in Donors & Power Networks\Mega-Donors\Walmart - Walton Family.md
-- **DEAD LINK (404)**: https://www.ftc.gov/news-events/news/press-releases/2019/07/ftc-imposes-5-billion-penalty-sweeping-new-privacy-restrictions-facebook — in Donors & Power Networks\Mega-Donors\Mark Zuckerberg.md, Donors & Power Networks\Tech & Crypto\Meta - Facebook.md
-- **DEAD LINK (404)**: https://web.archive.org/web/2019/https:/www.cnn.com/politics/news/2018-midterms-bloomberg-spending — in Donors & Power Networks\Mega-Donors\Michael Bloomberg.md
-- **DEAD LINK (404)**: https://www.influencewatch.org/non-profit/independence-usa-pac/ — in Donors & Power Networks\Mega-Donors\Michael Bloomberg.md
-- **DEAD LINK (404, no archive)**: https://www.opensecrets.org/orgs/drummond — in Donors & Power Networks\Energy & Utilities\Drummond Co.md
-- **DEAD LINK (404)**: https://www.influencewatch.org/person/paul-singer/ — in Donors & Power Networks\Mega-Donors\Paul Singer.md
-- **DEAD LINK (404, no archive)**: https://fortune.com/sector/energy/ — in Donors & Power Networks\Energy & Utilities\Fossil Fuel Bloc.md
-- **DEAD LINK (404)**: https://www.cnbc.com/2024/03/15/rebekah-mercer-trump.html — in Donors & Power Networks\Mega-Donors\Rebekah Mercer.md
-- **DEAD LINK (404)**: https://fortune.com/2016/11/17/trump-transition-women/ — in Donors & Power Networks\Mega-Donors\Rebekah Mercer.md
-- **DEAD LINK (404, no archive)**: https://www.epa.gov/uic/class-ii-oil-and-gas-related-injection-wells — in Donors & Power Networks\Energy & Utilities\Halliburton.md
-- **DEAD LINK (404)**: https://elections.wi.gov/state-candidates-and-committees — in Donors & Power Networks\Mega-Donors\Reid Hoffman.md
-- **DEAD LINK (404)**: https://www.politico.com/news/2024/10/swing-state-spending — in Donors & Power Networks\Mega-Donors\Reid Hoffman.md
-- **DEAD LINK (404)**: https://www.hsgac.senate.gov/subcommittees/investigations/ — in Donors & Power Networks\Mega-Donors\Renaissance Technologies and the 7 Billion Dollar Tax Settlement.md, Donors & Power Networks\Mega-Donors\Robert Mercer.md
-- **DEAD LINK (404)**: https://www.cbsnews.com/news/gop-megadonor-richard-uihlein-pours-millions-into-effort-to-hinder-ohio-abortion-amendment/ — in Donors & Power Networks\Mega-Donors\Richard and Elizabeth Uihlein.md
-- **DEAD LINK (404)**: https://www.fda.gov/drugs/therapeutic-biologics-applications-bla/insulin — in Donors & Power Networks\Pharma & Healthcare\Novo Nordisk.md
-- **DEAD LINK (404)**: https://www.justice.gov/usao-sdny/united-states-v-samuel-bankman-fried-aka-sbf-22-cr-673-lak — in Donors & Power Networks\Mega-Donors\Sam Bankman-Fried.md, Donors & Power Networks\Tech & Crypto\FTX - Sam Bankman-Fried.md
-- **DEAD LINK (404)**: https://fortune.com/2020/11/09/pfizer-vaccine-funding-warp-speed/ — in Donors & Power Networks\Pharma & Healthcare\Pfizer.md
-- **DEAD LINK (404)**: https://msfaccess.org/msf-response-license-between-pfizer-and-medicines-patent-pool-for-new-covid-19-treatment-paxlovid — in Donors & Power Networks\Pharma & Healthcare\Pfizer.md
-- **DEAD LINK (404)**: https://www.cms.gov/priorities/medicare-prescription-drug-affordability/overview/medicare-drug-price-negotiation-program — in Donors & Power Networks\Pharma & Healthcare\PhRMA.md, Stories\Published\Contradiction Deep Dives\Contradiction 03 - PhRMA Kills Drug Negotiation From Both Sides.md
-- **DEAD LINK (404)**: https://taxfoundation.org/research/all/federal/carried-interest-tax-debate/ — in Donors & Power Networks\Mega-Donors\Stephen Schwarzman.md
-- **DEAD LINK (404)**: https://itep.org/private-equity-tax-loophole/ — in Donors & Power Networks\Mega-Donors\Stephen Schwarzman.md
-- **DEAD LINK (404)**: https://kffhealthnews.org/news/non-profit-linked-to-phrma-rolls-out-campaign-to-block-drug-imports/ — in Donors & Power Networks\Pharma & Healthcare\PhRMA.md
-- **DEAD LINK (404)**: https://finance.yahoo.com/news/reclusive-billionaire-timothy-mellon-has-spent-504-million-on-trump-and-gop-causes-113025926.html — in Donors & Power Networks\Mega-Donors\Timothy Mellon.md
-- **DEAD LINK (404, no archive)**: https://www.opensecrets.org/political-action-committees-pacs/democratic-majority-for-israel/C00764431/ — in Donors & Power Networks\Foreign\AIPAC Super PAC Spending Map.md
-- **DEAD LINK (404)**: https://www.cnbc.com/2024/11/07/timothy-mellon-quietly-spent-165-million-on-2024-election-making-him-second-largest-donor.html — in Donors & Power Networks\Mega-Donors\Timothy Mellon.md
-- **DEAD LINK (404)**: https://fortune.com/2025/10/15/timothy-mellon-donates-130-million-to-military-pay-during-shutdown/ — in Donors & Power Networks\Mega-Donors\Timothy Mellon.md
-- **DEAD LINK (404)**: https://www.texastribune.org/2025/06/02/texas-border-wall-funding/ — in Donors & Power Networks\Mega-Donors\Timothy Mellon.md
-- **DEAD LINK (404)**: https://web.archive.org/web/2024/https:/www.cnn.com/politics/live-news/maga-super-pac-spending — in Donors & Power Networks\Mega-Donors\Timothy Mellon.md
-- **DEAD LINK (404)**: https://fortune.com/person/timothy-mellon/ — in Donors & Power Networks\Mega-Donors\Timothy Mellon.md
-- **DEAD LINK (404)**: https://archive.vanityfair.com/article/2024/10/a-house-divided — in Donors & Power Networks\Mega-Donors\Timothy Mellon.md
-- **DEAD LINK (404, no archive)**: https://www.golfdigest.com/story/pga-tour-saudi-pif-negotiation-breakdown-and-the-state-of-a-potential-deal — in Donors & Power Networks\Foreign\Gulf State Money - Saudi Arabia, UAE, Qatar.md
-- **DEAD LINK (404, no archive)**: https://www.latimes.com/business/story/2020-10-20/prop-22-gig-workers-uber-lyft-record-spending — in Donors & Power Networks\Gig Economy\DoorDash.md, Donors & Power Networks\Gig Economy\Lyft.md
-- **DEAD LINK (404)**: https://www.federalreserve.gov/econres/notes/feds-notes/institutional-investors-single-family-housing.html — in Donors & Power Networks\Real Estate\Invitation Homes - Institutional Landlords.md
-- **DEAD LINK (404)**: https://www.fns.usda.gov/snap/retailer-data — in Donors & Power Networks\Mega-Donors\Walmart - Walton Family.md
-- **DEAD LINK (404, no archive)**: https://www.cms.gov/data-research/statistics-trends-and-reports — in Donors & Power Networks\Healthcare\Blue Cross Blue Shield Association.md
-- **DEAD LINK (404, no archive)**: https://www.fppc.ca.gov/transparency/behested-payments.html — in Donors & Power Networks\Healthcare\Blue Shield of California.md
-- **DEAD LINK (404)**: https://www.fda.gov/drugs/therapeutic-biologics-applications-bla/insulin — in Donors & Power Networks\Pharma & Healthcare\Novo Nordisk.md
-- **DEAD LINK (404)**: https://fortune.com/2020/11/09/pfizer-vaccine-funding-warp-speed/ — in Donors & Power Networks\Pharma & Healthcare\Pfizer.md
-- **DEAD LINK (404, no archive)**: https://www.justice.gov/archives/opa/pr/justice-department-requires-cvs-and-aetna-divest-aetna-s-medicare-individual-part-d — in Donors & Power Networks\Healthcare\CVS Health - Aetna.md
-- **DEAD LINK (404)**: https://msfaccess.org/msf-response-license-between-pfizer-and-medicines-patent-pool-for-new-covid-19-treatment-paxlovid — in Donors & Power Networks\Pharma & Healthcare\Pfizer.md
-- **DEAD LINK (404)**: https://www.irs.gov/credits-and-deductions-for-businesses/opportunity-zones — in Donors & Power Networks\Real Estate\Real Estate Roundtable.md
-- **DEAD LINK (404, no archive)**: https://www.statnews.com/cvs-vertical-integration/ — in Donors & Power Networks\Healthcare\CVS Health - Aetna.md
-- **DEAD LINK (404)**: https://www.cnbc.com/2022/08/04/kyrsten-sinema-demands-carried-interest-change-removed-from-manchin-schumer-climate-deal.html — in Donors & Power Networks\Real Estate\Real Estate Roundtable.md
-- **DEAD LINK (404)**: https://www.cms.gov/priorities/medicare-prescription-drug-affordability/overview/medicare-drug-price-negotiation-program — in Donors & Power Networks\Pharma & Healthcare\PhRMA.md, Stories\Published\Contradiction Deep Dives\Contradiction 03 - PhRMA Kills Drug Negotiation From Both Sides.md
-- **DEAD LINK (404)**: https://www.brookings.edu/articles/opportunity-zones-what-we-know-and-what-we-dont/ — in Donors & Power Networks\Real Estate\Real Estate Roundtable.md
-- **DEAD LINK (404)**: https://www.cnbc.com/2017/02/03/blackstones-schwarzman-on-trump-business-advisory-council.html — in Donors & Power Networks\Real Estate\Real Estate Roundtable.md
-- **DEAD LINK (404)**: https://kffhealthnews.org/news/non-profit-linked-to-phrma-rolls-out-campaign-to-block-drug-imports/ — in Donors & Power Networks\Pharma & Healthcare\PhRMA.md
-- **DEAD LINK (404, no archive)**: https://www.statnews.com/medicare-advantage-upcoding/ — in Donors & Power Networks\Healthcare\Humana.md
-- **DEAD LINK (404)**: https://www.federalreserve.gov/econres/notes/feds-notes/institutional-investors-single-family-housing.html — in Donors & Power Networks\Real Estate\Invitation Homes - Institutional Landlords.md
-- **DEAD LINK (404)**: https://www.chicagotribune.com/politics/ct-aipac-spending-illinois-20240930-story.html — in Donors & Power Networks\Super PACs\Affordable Chicago Now PAC.md
-- **DEAD LINK (404, no archive)**: https://www.middleeasteye.net/news/49-times-us-has-used-veto-power-against-un-resolutions-israel — in Donors & Power Networks\Israel Lobby\AIPAC - American Israel Public Affairs Committee.md
-- **DEAD LINK (404)**: https://www.irs.gov/credits-and-deductions-for-businesses/opportunity-zones — in Donors & Power Networks\Real Estate\Real Estate Roundtable.md
-- **DEAD LINK (404)**: https://www.cnbc.com/2022/08/04/kyrsten-sinema-demands-carried-interest-change-removed-from-manchin-schumer-climate-deal.html — in Donors & Power Networks\Real Estate\Real Estate Roundtable.md
-- **DEAD LINK (404)**: https://www.brookings.edu/articles/opportunity-zones-what-we-know-and-what-we-dont/ — in Donors & Power Networks\Real Estate\Real Estate Roundtable.md
-- **DEAD LINK (404)**: https://www.cnbc.com/2017/02/03/blackstones-schwarzman-on-trump-business-advisory-council.html — in Donors & Power Networks\Real Estate\Real Estate Roundtable.md
-- **DEAD LINK (404, no archive)**: https://www.theguardian.com/us-news/2021/jan/11/sheldon-adelson-dead-pro-israel-mega-donor — in Donors & Power Networks\Israel Lobby\Republican Jewish Coalition.md
-- **DEAD LINK (404, no archive)**: https://www.justice.gov/usao-sdfl/united-states-v-jeffrey-epstein — in Donors & Power Networks\Jeffrey Epstein Network.md
-- **DEAD LINK (404, no archive)**: https://www.federaltimes.com/management/2024/01/15/afge-federal-workforce/ — in Donors & Power Networks\Labor Unions\AFGE - American Federation of Government Employees.md
-- **DEAD LINK (404)**: https://www.latimes.com/politics/story/2023-04-11/could-california-decide-control-of-congress-a-democratic-super-pac-plans-to-spend-35-million-in-the-staten-into-california/ — in Donors & Power Networks\Super PACs\House Majority PAC.md
-- **DEAD LINK (404)**: https://www.chicagotribune.com/politics/ct-aipac-spending-illinois-20240930-story.html — in Donors & Power Networks\Super PACs\Affordable Chicago Now PAC.md
-- **DEAD LINK (404, no archive)**: https://www.sos.ca.gov/campaign-lobbying/cal-access-portal — in Donors & Power Networks\Labor Unions\IBEW California State Association.md
-- **DEAD LINK (404, no archive)**: https://www.dir.ca.gov/dls/prevailing-wage.html — in Donors & Power Networks\Labor Unions\IBEW California State Association.md
-- **DEAD LINK (404)**: https://projects.propublica.org/nonprofits/organizations/854970843 — in Donors & Power Networks\Super PACs\Marble Freedom Trust.md
-- **DEAD LINK (404)**: https://www.latimes.com/politics/story/2023-04-11/could-california-decide-control-of-congress-a-democratic-super-pac-plans-to-spend-35-million-in-the-staten-into-california/ — in Donors & Power Networks\Super PACs\House Majority PAC.md
-- **DEAD LINK (404, no archive)**: https://unitehere.org/affiliates/local-2-san-francisco-and-bay-area/ — in Donors & Power Networks\Labor Unions\UNITE HERE.md
-- **DEAD LINK (404, no archive)**: https://unitehere.org/affiliates/local-11-los-angeles-orange-county-arizona2/ — in Donors & Power Networks\Labor Unions\UNITE HERE.md
-- **DEAD LINK (404)**: https://projects.propublica.org/nonprofits/organizations/474943695 — in Donors & Power Networks\Super PACs\One Nation.md
-- **DEAD LINK (404)**: https://projects.propublica.org/nonprofits/organizations/854970843 — in Donors & Power Networks\Super PACs\Marble Freedom Trust.md
-- **DEAD LINK (404, no archive)**: https://fop.net/government-and-media-affairs/legislation-we-support/ — in Donors & Power Networks\Law Enforcement\Fraternal Order of Police.md
-- **DEAD LINK (404)**: https://projects.propublica.org/nonprofits/organizations/474943695 — in Donors & Power Networks\Super PACs\One Nation.md
-- **DEAD LINK (404, no archive)**: https://www.theiacp.org/resources/policy-center — in Donors & Power Networks\Law Enforcement\International Association of Chiefs of Police.md
-- **DEAD LINK (404)**: https://campaignlegal.org/press-releases/breaking-campaign-legal-center-files-fec-complaint-against-former-president-donald — in Donors & Power Networks\Super PACs\Save America PAC.md, Donors & Power Networks\Super PACs\Save America PAC.md
-- **DEAD LINK (404)**: https://campaignlegal.org/press-releases/breaking-campaign-legal-center-files-fec-complaint-against-former-president-donald — in Donors & Power Networks\Super PACs\Save America PAC.md, Donors & Power Networks\Super PACs\Save America PAC.md
-- **DEAD LINK (404, no archive)**: https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=leonard%20leo — in Donors & Power Networks\Leonard Leo.md
-- **DEAD LINK (404, no archive)**: https://www.hollywoodreporter.com/news/general-news/jeffrey-katzenberg-democrat-donations-fundraising-hollywood-strikes-4088888/ — in Donors & Power Networks\Media & Entertainment\Hollywood Democratic Donor Network.md
-- **DEAD LINK (404, no archive)**: https://www.wga.org/news-events-press/news/archives-2023 — in Donors & Power Networks\Media & Entertainment\Hollywood Democratic Donor Network.md
-- **DEAD LINK (404, no archive)**: https://www.cnbc.com/2024/07/reed-hastings-kamala-harris-donation/ — in Donors & Power Networks\Media & Entertainment\Hollywood Democratic Donor Network.md
-- **DEAD LINK (404)**: https://www.opensecrets.org/pacs/super-pacs/2024 — in Donors & Power Networks\Super PACs\Susan B. Anthony Pro-Life America PAC.md
-- **DEAD LINK (404)**: https://www.opensecrets.org/pacs/super-pacs/2024 — in Donors & Power Networks\Super PACs\Susan B. Anthony Pro-Life America PAC.md
-- **DEAD LINK (404)**: https://www.theguardian.com/us-news/2024/abortion-pac-influence — in Donors & Power Networks\Super PACs\Susan B. Anthony Pro-Life America PAC.md
-- **DEAD LINK (404)**: https://www.theguardian.com/us-news/2024/abortion-pac-influence — in Donors & Power Networks\Super PACs\Susan B. Anthony Pro-Life America PAC.md
-- **DEAD LINK (404)**: https://www.opensecrets.org/pacs/svb-pac — in Donors & Power Networks\Super PACs\SV&B PAC.md
-- **DEAD LINK (404)**: https://www.opensecrets.org/pacs/svb-pac — in Donors & Power Networks\Super PACs\SV&B PAC.md
-- **DEAD LINK (404, no archive)**: https://www.pewresearch.org/journalism/2023/06/13/local-news-media-landscape/ — in Donors & Power Networks\Media & Entertainment\Sinclair Broadcasting Group.md
-- **DEAD LINK (404, no archive)**: https://www.usatoday.com/story/opinion/2019/02/07/justice-department-online-gambling-gop-donor-sheldon-adelson-trump-column/2019-02-07/ — in Donors & Power Networks\Mega-Donors\Adelson Family.md
-- **DEAD LINK (404, no archive)**: https://www.aljazeera.com/economy/2025/2/26/washington-post-opinion-head-departs-as-jeff-bezos-shifts-focus-for-paper-about-latest-us-border-flashpoint — in Donors & Power Networks\Mega-Donors\Adelson Family.md
-- **DEAD LINK (404, no archive)**: https://www.scotusblog.com/cases/case-files/dobbs-v-jackson-womens-health-organization/ — in Donors & Power Networks\Mega-Donors\Barre Seid.md
-- **DEAD LINK (404)**: https://www.nextgov.com/digital-government/2022/12/amazon-google-microsoft-oracle-awarded-9b-pentagon-cloud-contract/380596/ — in Donors & Power Networks\Tech & Crypto\Amazon.md
-- **DEAD LINK (404)**: https://www.nextgov.com/digital-government/2022/12/amazon-google-microsoft-oracle-awarded-9b-pentagon-cloud-contract/380596/ — in Donors & Power Networks\Tech & Crypto\Amazon.md
-- **DEAD LINK (404, no archive)**: https://www.insidephilanthropy.com/home/looking-back-at-bernie-marcus-giving-and-what-next — in Donors & Power Networks\Mega-Donors\Bernard Marcus.md
-- **DEAD LINK (404)**: https://www.cnn.com/2019/02/tech/amazon-hq2-nyc — in Donors & Power Networks\Tech & Crypto\Amazon.md
-- **DEAD LINK (404)**: https://www.cnn.com/2019/02/tech/amazon-hq2-nyc — in Donors & Power Networks\Tech & Crypto\Amazon.md
-- **DEAD LINK (404, no archive)**: https://en.wikipedia.org/wiki/All-In_(podcast) — in Donors & Power Networks\Mega-Donors\David Sacks.md
-- **DEAD LINK (404)**: https://defensescoop.com/2023/09/08/eric-schmidt-led-panel-pushing-for-new-defense-experimentation-unit-to-drive-military-adoption-of-generative-ai/se-experimentation-unit-to-drive-military-adoption-of-generative-ai/ — in Donors & Power Networks\Tech & Crypto\Eric Schmidt.md
-- **DEAD LINK (404)**: https://defensescoop.com/2023/09/08/eric-schmidt-led-panel-pushing-for-new-defense-experimentation-unit-to-drive-military-adoption-of-generative-ai/se-experimentation-unit-to-drive-military-adoption-of-generative-ai/ — in Donors & Power Networks\Tech & Crypto\Eric Schmidt.md
-- **DEAD LINK (404, no archive)**: https://web.archive.org/web/2026/https:/www.cnbc.com/2026/02/02/spacex-xai-merger.html — in Donors & Power Networks\Mega-Donors\Elon Musk.md, Donors & Power Networks\Mega-Donors\Elon Musk.md
-- **DEAD LINK (404)**: https://www.cnn.com/2025/01/25/politics/crypto-regulation-gensler-replacement/ — in Donors & Power Networks\Tech & Crypto\Fairshake PAC.md
-- **DEAD LINK (404)**: https://www.cnn.com/2025/01/25/politics/crypto-regulation-gensler-replacement/ — in Donors & Power Networks\Tech & Crypto\Fairshake PAC.md
-- **DEAD LINK (404)**: https://www.investmentlawwatch.com/2025/01/24/president-trump-executive-order-steering-digital-assets-policy/ — in Donors & Power Networks\Tech & Crypto\Fairshake PAC.md
-- **DEAD LINK (404)**: https://www.investmentlawwatch.com/2025/01/24/president-trump-executive-order-steering-digital-assets-policy/ — in Donors & Power Networks\Tech & Crypto\Fairshake PAC.md
+- **DEAD LINK (404)**: https://fop.net/government-and-media-affairs/legislation-we-support/, in Donors & Power Networks\Law Enforcement\Fraternal Order of Police.md
+- **DEAD LINK (404, no archive)**: https://www.justice.gov/archive/opa/pr/1996/Oct96/508at.htm, in Donors & Power Networks\Agriculture\ADM - Archer Daniels Midland.md
+- **DEAD LINK (404)**: https://www.theiacp.org/resources/policy-center, in Donors & Power Networks\Law Enforcement\International Association of Chiefs of Police.md
+- **DEAD LINK (404)**: https://www.opensecrets.org/political-action-committees-pacs/democratic-majority-for-israel/C00764431/, in Donors & Power Networks\Foreign\AIPAC Super PAC Spending Map.md
+- **DEAD LINK (404)**: https://www.golfdigest.com/story/pga-tour-saudi-pif-negotiation-breakdown-and-the-state-of-a-potential-deal, in Donors & Power Networks\Foreign\Gulf State Money - Saudi Arabia, UAE, Qatar.md
+- **DEAD LINK (404)**: https://www.latimes.com/business/story/2020-10-20/prop-22-gig-workers-uber-lyft-record-spending, in Donors & Power Networks\Gig Economy\DoorDash.md, Donors & Power Networks\Gig Economy\Lyft.md
+- **DEAD LINK (404)**: https://www.hollywoodreporter.com/news/general-news/jeffrey-katzenberg-democrat-donations-fundraising-hollywood-strikes-4088888/, in Donors & Power Networks\Media & Entertainment\Hollywood Democratic Donor Network.md
+- **DEAD LINK (404)**: https://www.wga.org/news-events-press/news/archives-2023, in Donors & Power Networks\Media & Entertainment\Hollywood Democratic Donor Network.md
+- **DEAD LINK (404)**: https://www.cnbc.com/2024/07/reed-hastings-kamala-harris-donation/, in Donors & Power Networks\Media & Entertainment\Hollywood Democratic Donor Network.md
+- **DEAD LINK (404)**: https://www.pewresearch.org/journalism/2023/06/13/local-news-media-landscape/, in Donors & Power Networks\Media & Entertainment\Sinclair Broadcasting Group.md
+- **DEAD LINK (404, no archive)**: https://democracyfund.org/grants/voter-contact-coordination-research/, in Donors & Power Networks\Dark Money\America Votes.md
+- **DEAD LINK (404)**: https://www.cms.gov/data-research/statistics-trends-and-reports, in Donors & Power Networks\Healthcare\Blue Cross Blue Shield Association.md
+- **DEAD LINK (404)**: https://www.usatoday.com/story/opinion/2019/02/07/justice-department-online-gambling-gop-donor-sheldon-adelson-trump-column/2019-02-07/, in Donors & Power Networks\Mega-Donors\Adelson Family.md
+- **DEAD LINK (404, no archive)**: https://nonprofitquarterly.org/arabella-advisors-grows-as-a-major-dem-player/, in Donors & Power Networks\Dark Money\Arabella Advisors.md, Donors & Power Networks\Dark Money\Arabella Advisors.md
+- **DEAD LINK (404)**: https://www.fppc.ca.gov/transparency/behested-payments.html, in Donors & Power Networks\Healthcare\Blue Shield of California.md
+- **DEAD LINK (404)**: https://www.aljazeera.com/economy/2025/2/26/washington-post-opinion-head-departs-as-jeff-bezos-shifts-focus-for-paper-about-latest-us-border-flashpoint, in Donors & Power Networks\Mega-Donors\Adelson Family.md
+- **DEAD LINK (404)**: https://www.scotusblog.com/cases/case-files/dobbs-v-jackson-womens-health-organization/, in Donors & Power Networks\Mega-Donors\Barre Seid.md
+- **DEAD LINK (404, no archive)**: https://www.opensecrets.org/pacs/brady-pac, in Donors & Power Networks\Dark Money\Brady Campaign.md
+- **DEAD LINK (404)**: https://www.insidephilanthropy.com/home/looking-back-at-bernie-marcus-giving-and-what-next, in Donors & Power Networks\Mega-Donors\Bernard Marcus.md
+- **DEAD LINK (404)**: https://www.justice.gov/archives/opa/pr/justice-department-requires-cvs-and-aetna-divest-aetna-s-medicare-individual-part-d, in Donors & Power Networks\Healthcare\CVS Health - Aetna.md
+- **DEAD LINK (404)**: https://www.statnews.com/cvs-vertical-integration/, in Donors & Power Networks\Healthcare\CVS Health - Aetna.md
+- **DEAD LINK (404, no archive)**: https://www.salon.com/2017/12/05/how-center-for-american-progress-became-a-corporate-think-tank/, in Donors & Power Networks\Dark Money\Center for American Progress.md
+- **DEAD LINK (404, no archive)**: https://prospect.org/2023/07/11/2023-07-11-gunning-for-more-va-privatization/, in Donors & Power Networks\Dark Money\Center for American Progress.md
+- **DEAD LINK (404, no archive)**: https://projects.propublica.org/nonprofits/organizations/271747501, in Donors & Power Networks\Dark Money\Concerned Veterans for America.md
+- **DEAD LINK (404)**: https://www.statnews.com/medicare-advantage-upcoding/, in Donors & Power Networks\Healthcare\Humana.md
+- **DEAD LINK (404, no archive)**: https://www.influencewatch.org/organization/demand-justice/, in Donors & Power Networks\Dark Money\Demand Justice.md, Donors & Power Networks\Dark Money\Demand Justice.md
+- **DEAD LINK (404, no archive)**: https://www.whitehouse.gov/briefing-room/statements-releases/2023/07/26/fact-sheet-president-biden-announces-federal-judicial-appointments/, in Donors & Power Networks\Dark Money\Demand Justice.md
+- **DEAD LINK (404)**: https://en.wikipedia.org/wiki/All-In_(podcast), in Donors & Power Networks\Mega-Donors\David Sacks.md
+- **DEAD LINK (404)**: https://web.archive.org/web/2026/https:/www.cnbc.com/2026/02/02/spacex-xai-merger.html, in Donors & Power Networks\Mega-Donors\Elon Musk.md, Donors & Power Networks\Mega-Donors\Elon Musk.md
+- **DEAD LINK (404, no archive)**: https://projects.propublica.org/nonprofits/organizations/521544430, in Donors & Power Networks\Dark Money\Environmental Law & Policy Center.md
+- **DEAD LINK (404, no archive)**: https://www.insidephilanthropy.com/environmental-nonprofits/, in Donors & Power Networks\Dark Money\Environmental Law & Policy Center.md
+- **DEAD LINK (404)**: https://www.middleeasteye.net/news/49-times-us-has-used-veto-power-against-un-resolutions-israel, in Donors & Power Networks\Israel Lobby\AIPAC - American Israel Public Affairs Committee.md
+- **DEAD LINK (404, no archive)**: https://www.scotusblog.com/2022/06/a-minor-impact-on-gun-laws-but-a-potentially-momentous-shift-in-constitutional-method/, in Donors & Power Networks\Dark Money\Gun Owners of America.md
+- **DEAD LINK (404)**: https://www.middleeasteye.net/news/whatsapp-co-founder-donates-2m-pro-israel-super-pac, in Donors & Power Networks\Mega-Donors\Jan Koum.md
+- **DEAD LINK (404)**: https://www.nasa.gov/press-release/nasa-selects-blue-origin-for-second-artemis-moon-lander, in Donors & Power Networks\Mega-Donors\Jeff Bezos.md
+- **DEAD LINK (404)**: https://projects.propublica.org/nonprofits/organizations/273725506, in Donors & Power Networks\Mega-Donors\Jeffrey Katzenberg.md
+- **DEAD LINK (404)**: https://www.theguardian.com/us-news/2021/jan/11/sheldon-adelson-dead-pro-israel-mega-donor, in Donors & Power Networks\Israel Lobby\Republican Jewish Coalition.md
+- **DEAD LINK (404)**: https://www.justice.gov/usao-sdfl/united-states-v-jeffrey-epstein, in Donors & Power Networks\Jeffrey Epstein Network.md
+- **DEAD LINK (404)**: https://www.federaltimes.com/management/2024/01/15/afge-federal-workforce/, in Donors & Power Networks\Labor Unions\AFGE - American Federation of Government Employees.md
+- **DEAD LINK (404)**: https://www.sos.ca.gov/campaign-lobbying/cal-access-portal, in Donors & Power Networks\Labor Unions\IBEW California State Association.md
+- **DEAD LINK (404)**: https://www.dir.ca.gov/dls/prevailing-wage.html, in Donors & Power Networks\Labor Unions\IBEW California State Association.md
+- **DEAD LINK (404, no archive)**: https://www.cnn.com/technology/elon-musk-sues-media-matters/index.html, in Donors & Power Networks\Dark Money\Media Matters.md
+- **DEAD LINK (404)**: https://www.theguardian.com/us-news/2024/apr/01/billionaire-donor-tiktok-stake, in Donors & Power Networks\Mega-Donors\Jeffrey Yass.md
+- **DEAD LINK (404, no archive)**: https://www.desmog.com/national-association-of-manufacturers/, in Donors & Power Networks\Dark Money\National Association of Manufacturers.md
+- **DEAD LINK (404, no archive)**: https://www.whitehouse.senate.gov/news/speeches/time-to-wake-up-249-the-national-association-of-manufacturers/, in Donors & Power Networks\Dark Money\National Association of Manufacturers.md
+- **DEAD LINK (404)**: https://www.theguardian.com/business/2024/mar/12/hedge-fund-billionaire-kenneth-griffin, in Donors & Power Networks\Mega-Donors\Ken Griffin.md
+- **DEAD LINK (404)**: https://unitehere.org/affiliates/local-2-san-francisco-and-bay-area/, in Donors & Power Networks\Labor Unions\UNITE HERE.md
+- **DEAD LINK (404)**: https://unitehere.org/affiliates/local-11-los-angeles-orange-county-arizona2/, in Donors & Power Networks\Labor Unions\UNITE HERE.md
+- **DEAD LINK (404)**: https://www.politico.com/story/2015/01/koch-2016-702-million-702-million-114604, in Donors & Power Networks\Mega-Donors\Koch Network - Charles Koch.md, Donors & Power Networks\Mega-Donors\Koch Network - Charles Koch.md
+- **DEAD LINK (404)**: https://www.motherjones.com/politics/2013/02/donors-trust-donor-advised-fund-koch-dark-money/, in Donors & Power Networks\Mega-Donors\Koch Network - Charles Koch.md, Donors & Power Networks\Mega-Donors\Koch Network - Charles Koch.md
+- **DEAD LINK (404)**: https://fop.net/government-and-media-affairs/legislation-we-support/, in Donors & Power Networks\Law Enforcement\Fraternal Order of Police.md
+- **DEAD LINK (404)**: https://www.theiacp.org/resources/policy-center, in Donors & Power Networks\Law Enforcement\International Association of Chiefs of Police.md
+- **DEAD LINK (404)**: https://www.brookings.edu/articles/alec-model-bills-are-more-likely-to-become-law-heres-why/, in Donors & Power Networks\Mega-Donors\Koch Network - Charles Koch.md, Donors & Power Networks\Mega-Donors\Koch Network - Charles Koch.md
+- **DEAD LINK (404)**: https://www.cnbc.com/2017/06/26/koch-network-warns-donors-are-closing-wallets-until-they-see-legislative-progress.html, in Donors & Power Networks\Mega-Donors\Koch Network - Charles Koch.md, Donors & Power Networks\Mega-Donors\Koch Network - Charles Koch.md
+- **DEAD LINK (404, no archive)**: https://capitalresearch.org/article/sixteen-thirty-fund-carpet-bombed-the-2020-election-in-leftist-dark-money/, in Donors & Power Networks\Dark Money\Sixteen Thirty Fund.md, Donors & Power Networks\Dark Money\Sixteen Thirty Fund.md
+- **DEAD LINK (404)**: https://americansfortaxfairness.org/tax-fairness-briefing-booklet/fact-sheet-koch-brothers-exposed-billionaires-fuel-extreme-right/, in Donors & Power Networks\Mega-Donors\Koch Network - Charles Koch.md
+- **DEAD LINK (404)**: https://finance.yahoo.com/news/larry-ellison-net-worth-update-from-topping-musk-in-2025-to-losing-19-of-his-wealth-in-2026-203114110.html, in Donors & Power Networks\Mega-Donors\Larry Ellison.md
+- **DEAD LINK (404)**: https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=leonard%20leo, in Donors & Power Networks\Leonard Leo.md
+- **DEAD LINK (404, no archive)**: https://www.fec.gov/data/receipts/?data_type=processed, in Donors & Power Networks\Dark Money\Sports Betting Alliance.md
+- **DEAD LINK (404)**: https://www.hollywoodreporter.com/news/general-news/jeffrey-katzenberg-democrat-donations-fundraising-hollywood-strikes-4088888/, in Donors & Power Networks\Media & Entertainment\Hollywood Democratic Donor Network.md
+- **DEAD LINK (404)**: https://www.wga.org/news-events-press/news/archives-2023, in Donors & Power Networks\Media & Entertainment\Hollywood Democratic Donor Network.md
+- **DEAD LINK (404)**: https://www.cnbc.com/2024/07/reed-hastings-kamala-harris-donation/, in Donors & Power Networks\Media & Entertainment\Hollywood Democratic Donor Network.md
+- **DEAD LINK (404, no archive)**: https://www.citizen.org/article/chamber-of-secrets/, in Donors & Power Networks\Dark Money\US Chamber of Commerce.md, Donors & Power Networks\Dark Money\US Chamber of Commerce.md
+- **DEAD LINK (404, no archive)**: https://www.npr.org/2021/01/07/954478011/u-s-chamber-of-commerce-condemns-violence-at-capitol, in Donors & Power Networks\Dark Money\US Chamber of Commerce.md
+- **DEAD LINK (404)**: https://www.pewresearch.org/journalism/2023/06/13/local-news-media-landscape/, in Donors & Power Networks\Media & Entertainment\Sinclair Broadcasting Group.md
+- **DEAD LINK (404)**: https://www.ftc.gov/news-events/news/press-releases/2019/07/ftc-imposes-5-billion-penalty-sweeping-new-privacy-restrictions-facebook, in Donors & Power Networks\Mega-Donors\Mark Zuckerberg.md, Donors & Power Networks\Tech & Crypto\Meta - Facebook.md
+- **DEAD LINK (404)**: https://web.archive.org/web/2019/https:/www.cnn.com/politics/news/2018-midterms-bloomberg-spending, in Donors & Power Networks\Mega-Donors\Michael Bloomberg.md
+- **DEAD LINK (404)**: https://www.influencewatch.org/non-profit/independence-usa-pac/, in Donors & Power Networks\Mega-Donors\Michael Bloomberg.md
+- **DEAD LINK (404, no archive)**: https://www.npr.org/2024/05/02/1248693512/boeing-whistleblower-josh-dean-dead, in Donors & Power Networks\Defense & Intelligence\Boeing.md
+- **DEAD LINK (404)**: https://www.usatoday.com/story/opinion/2019/02/07/justice-department-online-gambling-gop-donor-sheldon-adelson-trump-column/2019-02-07/, in Donors & Power Networks\Mega-Donors\Adelson Family.md
+- **DEAD LINK (404, no archive)**: https://www.scientificamerican.com/article/nasa-says-a-litany-of-failures-led-to-2024-boeing-starliner/, in Donors & Power Networks\Defense & Intelligence\Boeing.md
+- **DEAD LINK (404)**: https://www.aljazeera.com/economy/2025/2/26/washington-post-opinion-head-departs-as-jeff-bezos-shifts-focus-for-paper-about-latest-us-border-flashpoint, in Donors & Power Networks\Mega-Donors\Adelson Family.md
+- **DEAD LINK (404)**: https://www.scotusblog.com/cases/case-files/dobbs-v-jackson-womens-health-organization/, in Donors & Power Networks\Mega-Donors\Barre Seid.md
+- **DEAD LINK (404)**: https://www.influencewatch.org/person/paul-singer/, in Donors & Power Networks\Mega-Donors\Paul Singer.md
+- **DEAD LINK (404)**: https://www.cnbc.com/2024/03/15/rebekah-mercer-trump.html, in Donors & Power Networks\Mega-Donors\Rebekah Mercer.md
+- **DEAD LINK (404)**: https://fortune.com/2016/11/17/trump-transition-women/, in Donors & Power Networks\Mega-Donors\Rebekah Mercer.md
+- **DEAD LINK (404)**: https://www.insidephilanthropy.com/home/looking-back-at-bernie-marcus-giving-and-what-next, in Donors & Power Networks\Mega-Donors\Bernard Marcus.md
+- **DEAD LINK (404, no archive)**: https://www.defensenews.com/general-dynamics/, in Donors & Power Networks\Defense & Intelligence\General Dynamics.md
+- **DEAD LINK (404)**: https://elections.wi.gov/state-candidates-and-committees, in Donors & Power Networks\Mega-Donors\Reid Hoffman.md
+- **DEAD LINK (404)**: https://www.hsgac.senate.gov/subcommittees/investigations/, in Donors & Power Networks\Mega-Donors\Renaissance Technologies and the 7 Billion Dollar Tax Settlement.md, Donors & Power Networks\Mega-Donors\Robert Mercer.md
+- **DEAD LINK (404)**: https://www.cbsnews.com/news/gop-megadonor-richard-uihlein-pours-millions-into-effort-to-hinder-ohio-abortion-amendment/, in Donors & Power Networks\Mega-Donors\Richard and Elizabeth Uihlein.md
+- **DEAD LINK (404)**: https://en.wikipedia.org/wiki/All-In_(podcast), in Donors & Power Networks\Mega-Donors\David Sacks.md
+- **DEAD LINK (404)**: https://www.justice.gov/usao-sdny/united-states-v-samuel-bankman-fried-aka-sbf-22-cr-673-lak, in Donors & Power Networks\Mega-Donors\Sam Bankman-Fried.md, Donors & Power Networks\Tech & Crypto\FTX - Sam Bankman-Fried.md
+- **DEAD LINK (404)**: https://web.archive.org/web/2026/https:/www.cnbc.com/2026/02/02/spacex-xai-merger.html, in Donors & Power Networks\Mega-Donors\Elon Musk.md, Donors & Power Networks\Mega-Donors\Elon Musk.md
+- **DEAD LINK (404, no archive)**: https://fas.org/publication/f-35-program-cost/, in Donors & Power Networks\Defense & Intelligence\Lockheed Martin.md
+- **DEAD LINK (404, no archive)**: https://costsofwar.watson.brown.edu/papers/2025/MilitaryContractors, in Donors & Power Networks\Defense & Intelligence\Lockheed Martin.md
+- **DEAD LINK (404, no archive)**: https://www.fool.com/investing/2019/01/29/nucor-corporation-just-had-its-most-profitable-yea.html, in Donors & Power Networks\Defense & Intelligence\Nucor Corporation.md
+- **DEAD LINK (404)**: https://www.middleeasteye.net/news/whatsapp-co-founder-donates-2m-pro-israel-super-pac, in Donors & Power Networks\Mega-Donors\Jan Koum.md
+- **DEAD LINK (404)**: https://taxfoundation.org/research/all/federal/carried-interest-tax-debate/, in Donors & Power Networks\Mega-Donors\Stephen Schwarzman.md
+- **DEAD LINK (404)**: https://itep.org/private-equity-tax-loophole/, in Donors & Power Networks\Mega-Donors\Stephen Schwarzman.md
+- **DEAD LINK (404, no archive)**: https://www.latimes.com/california/story/2019-10-13/newsom-vetoes-charter-school-geographic-restriction-bill, in Donors & Power Networks\Education\California Charter Schools Association.md, Politicians\Democrats\Governors\Gavin Newsom\Education\Charter Schools and the Billionaire Reform Movement.md
+- **DEAD LINK (404, no archive)**: https://www.latimes.com/california/story/2021-03-05/teachers-union-california-schools-reopening, in Donors & Power Networks\Education\CTA - California Teachers Association.md
+- **DEAD LINK (404)**: https://www.nasa.gov/press-release/nasa-selects-blue-origin-for-second-artemis-moon-lander, in Donors & Power Networks\Mega-Donors\Jeff Bezos.md
+- **DEAD LINK (404)**: https://projects.propublica.org/nonprofits/organizations/273725506, in Donors & Power Networks\Mega-Donors\Jeffrey Katzenberg.md
+- **DEAD LINK (404)**: https://www.theguardian.com/us-news/2024/apr/01/billionaire-donor-tiktok-stake, in Donors & Power Networks\Mega-Donors\Jeffrey Yass.md
+- **DEAD LINK (404)**: https://www.theguardian.com/business/2024/mar/12/hedge-fund-billionaire-kenneth-griffin, in Donors & Power Networks\Mega-Donors\Ken Griffin.md
+- **DEAD LINK (404)**: https://finance.yahoo.com/news/reclusive-billionaire-timothy-mellon-has-spent-504-million-on-trump-and-gop-causes-113025926.html, in Donors & Power Networks\Mega-Donors\Timothy Mellon.md
+- **DEAD LINK (404)**: https://www.cnbc.com/2024/11/07/timothy-mellon-quietly-spent-165-million-on-2024-election-making-him-second-largest-donor.html, in Donors & Power Networks\Mega-Donors\Timothy Mellon.md
+- **DEAD LINK (404)**: https://fortune.com/2025/10/15/timothy-mellon-donates-130-million-to-military-pay-during-shutdown/, in Donors & Power Networks\Mega-Donors\Timothy Mellon.md
+- **DEAD LINK (404, no archive)**: https://theintercept.com/2019/11/05/erik-prince-trump-ukraine-china/, in Donors & Power Networks\Education\DeVos Family.md
+- **DEAD LINK (404)**: https://www.texastribune.org/2025/06/02/texas-border-wall-funding/, in Donors & Power Networks\Mega-Donors\Timothy Mellon.md
+- **DEAD LINK (404)**: https://web.archive.org/web/2024/https:/www.cnn.com/politics/live-news/maga-super-pac-spending, in Donors & Power Networks\Mega-Donors\Timothy Mellon.md
+- **DEAD LINK (404, no archive)**: https://www.theguardian.com/us-news/2014/mar/25/walton-family-foundation-charter-schools, in Donors & Power Networks\Education\Walton Family Foundation.md
+- **DEAD LINK (404)**: https://fortune.com/person/timothy-mellon/, in Donors & Power Networks\Mega-Donors\Timothy Mellon.md
+- **DEAD LINK (404)**: https://archive.vanityfair.com/article/2024/10/a-house-divided, in Donors & Power Networks\Mega-Donors\Timothy Mellon.md
+- **DEAD LINK (404, no archive)**: https://www.opensecrets.org/orgs/southern-company, in Donors & Power Networks\Energy & Utilities\Alabama Power.md
+- **DEAD LINK (404)**: https://www.politico.com/story/2015/01/koch-2016-702-million-702-million-114604, in Donors & Power Networks\Mega-Donors\Koch Network - Charles Koch.md, Donors & Power Networks\Mega-Donors\Koch Network - Charles Koch.md
+- **DEAD LINK (404)**: https://www.politico.com/news/2022/08/22/dark-money-donation-conservative-00052809, in Donors & Power Networks\Mega-Donors\Koch Network - Charles Koch.md, Donors & Power Networks\Mega-Donors\Koch Network - Charles Koch.md
+- **DEAD LINK (404)**: https://www.motherjones.com/politics/2013/02/donors-trust-donor-advised-fund-koch-dark-money/, in Donors & Power Networks\Mega-Donors\Koch Network - Charles Koch.md, Donors & Power Networks\Mega-Donors\Koch Network - Charles Koch.md
+- **DEAD LINK (404)**: https://www.brookings.edu/articles/alec-model-bills-are-more-likely-to-become-law-heres-why/, in Donors & Power Networks\Mega-Donors\Koch Network - Charles Koch.md, Donors & Power Networks\Mega-Donors\Koch Network - Charles Koch.md
+- **DEAD LINK (404)**: https://www.cnbc.com/2017/06/26/koch-network-warns-donors-are-closing-wallets-until-they-see-legislative-progress.html, in Donors & Power Networks\Mega-Donors\Koch Network - Charles Koch.md, Donors & Power Networks\Mega-Donors\Koch Network - Charles Koch.md
+- **DEAD LINK (404)**: https://americansfortaxfairness.org/tax-fairness-briefing-booklet/fact-sheet-koch-brothers-exposed-billionaires-fuel-extreme-right/, in Donors & Power Networks\Mega-Donors\Koch Network - Charles Koch.md
+- **DEAD LINK (404)**: https://finance.yahoo.com/news/larry-ellison-net-worth-update-from-topping-musk-in-2025-to-losing-19-of-his-wealth-in-2026-203114110.html, in Donors & Power Networks\Mega-Donors\Larry Ellison.md
+- **DEAD LINK (404, no archive)**: https://www.eastbaytimes.com/2013/02/14/chevron-agrees-to-pay-90-million-to-settle-richmond-refinery-fire-claims/, in Donors & Power Networks\Energy & Utilities\Chevron.md
+- **DEAD LINK (404)**: https://www.fns.usda.gov/snap/retailer-data, in Donors & Power Networks\Mega-Donors\Walmart - Walton Family.md
+- **DEAD LINK (404)**: https://www.ftc.gov/news-events/news/press-releases/2019/07/ftc-imposes-5-billion-penalty-sweeping-new-privacy-restrictions-facebook, in Donors & Power Networks\Mega-Donors\Mark Zuckerberg.md, Donors & Power Networks\Tech & Crypto\Meta - Facebook.md
+- **DEAD LINK (404)**: https://web.archive.org/web/2019/https:/www.cnn.com/politics/news/2018-midterms-bloomberg-spending, in Donors & Power Networks\Mega-Donors\Michael Bloomberg.md
+- **DEAD LINK (404)**: https://www.influencewatch.org/non-profit/independence-usa-pac/, in Donors & Power Networks\Mega-Donors\Michael Bloomberg.md
+- **DEAD LINK (404, no archive)**: https://www.opensecrets.org/orgs/drummond, in Donors & Power Networks\Energy & Utilities\Drummond Co.md
+- **DEAD LINK (404)**: https://www.influencewatch.org/person/paul-singer/, in Donors & Power Networks\Mega-Donors\Paul Singer.md
+- **DEAD LINK (404, no archive)**: https://fortune.com/sector/energy/, in Donors & Power Networks\Energy & Utilities\Fossil Fuel Bloc.md
+- **DEAD LINK (404)**: https://www.cnbc.com/2024/03/15/rebekah-mercer-trump.html, in Donors & Power Networks\Mega-Donors\Rebekah Mercer.md
+- **DEAD LINK (404)**: https://fortune.com/2016/11/17/trump-transition-women/, in Donors & Power Networks\Mega-Donors\Rebekah Mercer.md
+- **DEAD LINK (404, no archive)**: https://www.epa.gov/uic/class-ii-oil-and-gas-related-injection-wells, in Donors & Power Networks\Energy & Utilities\Halliburton.md
+- **DEAD LINK (404)**: https://elections.wi.gov/state-candidates-and-committees, in Donors & Power Networks\Mega-Donors\Reid Hoffman.md
+- **DEAD LINK (404)**: https://www.politico.com/news/2024/10/swing-state-spending, in Donors & Power Networks\Mega-Donors\Reid Hoffman.md
+- **DEAD LINK (404)**: https://www.hsgac.senate.gov/subcommittees/investigations/, in Donors & Power Networks\Mega-Donors\Renaissance Technologies and the 7 Billion Dollar Tax Settlement.md, Donors & Power Networks\Mega-Donors\Robert Mercer.md
+- **DEAD LINK (404)**: https://www.cbsnews.com/news/gop-megadonor-richard-uihlein-pours-millions-into-effort-to-hinder-ohio-abortion-amendment/, in Donors & Power Networks\Mega-Donors\Richard and Elizabeth Uihlein.md
+- **DEAD LINK (404)**: https://www.fda.gov/drugs/therapeutic-biologics-applications-bla/insulin, in Donors & Power Networks\Pharma & Healthcare\Novo Nordisk.md
+- **DEAD LINK (404)**: https://www.justice.gov/usao-sdny/united-states-v-samuel-bankman-fried-aka-sbf-22-cr-673-lak, in Donors & Power Networks\Mega-Donors\Sam Bankman-Fried.md, Donors & Power Networks\Tech & Crypto\FTX - Sam Bankman-Fried.md
+- **DEAD LINK (404)**: https://fortune.com/2020/11/09/pfizer-vaccine-funding-warp-speed/, in Donors & Power Networks\Pharma & Healthcare\Pfizer.md
+- **DEAD LINK (404)**: https://msfaccess.org/msf-response-license-between-pfizer-and-medicines-patent-pool-for-new-covid-19-treatment-paxlovid, in Donors & Power Networks\Pharma & Healthcare\Pfizer.md
+- **DEAD LINK (404)**: https://www.cms.gov/priorities/medicare-prescription-drug-affordability/overview/medicare-drug-price-negotiation-program, in Donors & Power Networks\Pharma & Healthcare\PhRMA.md, Stories\Published\Contradiction Deep Dives\Contradiction 03 - PhRMA Kills Drug Negotiation From Both Sides.md
+- **DEAD LINK (404)**: https://taxfoundation.org/research/all/federal/carried-interest-tax-debate/, in Donors & Power Networks\Mega-Donors\Stephen Schwarzman.md
+- **DEAD LINK (404)**: https://itep.org/private-equity-tax-loophole/, in Donors & Power Networks\Mega-Donors\Stephen Schwarzman.md
+- **DEAD LINK (404)**: https://kffhealthnews.org/news/non-profit-linked-to-phrma-rolls-out-campaign-to-block-drug-imports/, in Donors & Power Networks\Pharma & Healthcare\PhRMA.md
+- **DEAD LINK (404)**: https://finance.yahoo.com/news/reclusive-billionaire-timothy-mellon-has-spent-504-million-on-trump-and-gop-causes-113025926.html, in Donors & Power Networks\Mega-Donors\Timothy Mellon.md
+- **DEAD LINK (404, no archive)**: https://www.opensecrets.org/political-action-committees-pacs/democratic-majority-for-israel/C00764431/, in Donors & Power Networks\Foreign\AIPAC Super PAC Spending Map.md
+- **DEAD LINK (404)**: https://www.cnbc.com/2024/11/07/timothy-mellon-quietly-spent-165-million-on-2024-election-making-him-second-largest-donor.html, in Donors & Power Networks\Mega-Donors\Timothy Mellon.md
+- **DEAD LINK (404)**: https://fortune.com/2025/10/15/timothy-mellon-donates-130-million-to-military-pay-during-shutdown/, in Donors & Power Networks\Mega-Donors\Timothy Mellon.md
+- **DEAD LINK (404)**: https://www.texastribune.org/2025/06/02/texas-border-wall-funding/, in Donors & Power Networks\Mega-Donors\Timothy Mellon.md
+- **DEAD LINK (404)**: https://web.archive.org/web/2024/https:/www.cnn.com/politics/live-news/maga-super-pac-spending, in Donors & Power Networks\Mega-Donors\Timothy Mellon.md
+- **DEAD LINK (404)**: https://fortune.com/person/timothy-mellon/, in Donors & Power Networks\Mega-Donors\Timothy Mellon.md
+- **DEAD LINK (404)**: https://archive.vanityfair.com/article/2024/10/a-house-divided, in Donors & Power Networks\Mega-Donors\Timothy Mellon.md
+- **DEAD LINK (404, no archive)**: https://www.golfdigest.com/story/pga-tour-saudi-pif-negotiation-breakdown-and-the-state-of-a-potential-deal, in Donors & Power Networks\Foreign\Gulf State Money - Saudi Arabia, UAE, Qatar.md
+- **DEAD LINK (404, no archive)**: https://www.latimes.com/business/story/2020-10-20/prop-22-gig-workers-uber-lyft-record-spending, in Donors & Power Networks\Gig Economy\DoorDash.md, Donors & Power Networks\Gig Economy\Lyft.md
+- **DEAD LINK (404)**: https://www.federalreserve.gov/econres/notes/feds-notes/institutional-investors-single-family-housing.html, in Donors & Power Networks\Real Estate\Invitation Homes - Institutional Landlords.md
+- **DEAD LINK (404)**: https://www.fns.usda.gov/snap/retailer-data, in Donors & Power Networks\Mega-Donors\Walmart - Walton Family.md
+- **DEAD LINK (404, no archive)**: https://www.cms.gov/data-research/statistics-trends-and-reports, in Donors & Power Networks\Healthcare\Blue Cross Blue Shield Association.md
+- **DEAD LINK (404, no archive)**: https://www.fppc.ca.gov/transparency/behested-payments.html, in Donors & Power Networks\Healthcare\Blue Shield of California.md
+- **DEAD LINK (404)**: https://www.fda.gov/drugs/therapeutic-biologics-applications-bla/insulin, in Donors & Power Networks\Pharma & Healthcare\Novo Nordisk.md
+- **DEAD LINK (404)**: https://fortune.com/2020/11/09/pfizer-vaccine-funding-warp-speed/, in Donors & Power Networks\Pharma & Healthcare\Pfizer.md
+- **DEAD LINK (404, no archive)**: https://www.justice.gov/archives/opa/pr/justice-department-requires-cvs-and-aetna-divest-aetna-s-medicare-individual-part-d, in Donors & Power Networks\Healthcare\CVS Health - Aetna.md
+- **DEAD LINK (404)**: https://msfaccess.org/msf-response-license-between-pfizer-and-medicines-patent-pool-for-new-covid-19-treatment-paxlovid, in Donors & Power Networks\Pharma & Healthcare\Pfizer.md
+- **DEAD LINK (404)**: https://www.irs.gov/credits-and-deductions-for-businesses/opportunity-zones, in Donors & Power Networks\Real Estate\Real Estate Roundtable.md
+- **DEAD LINK (404, no archive)**: https://www.statnews.com/cvs-vertical-integration/, in Donors & Power Networks\Healthcare\CVS Health - Aetna.md
+- **DEAD LINK (404)**: https://www.cnbc.com/2022/08/04/kyrsten-sinema-demands-carried-interest-change-removed-from-manchin-schumer-climate-deal.html, in Donors & Power Networks\Real Estate\Real Estate Roundtable.md
+- **DEAD LINK (404)**: https://www.cms.gov/priorities/medicare-prescription-drug-affordability/overview/medicare-drug-price-negotiation-program, in Donors & Power Networks\Pharma & Healthcare\PhRMA.md, Stories\Published\Contradiction Deep Dives\Contradiction 03 - PhRMA Kills Drug Negotiation From Both Sides.md
+- **DEAD LINK (404)**: https://www.brookings.edu/articles/opportunity-zones-what-we-know-and-what-we-dont/, in Donors & Power Networks\Real Estate\Real Estate Roundtable.md
+- **DEAD LINK (404)**: https://www.cnbc.com/2017/02/03/blackstones-schwarzman-on-trump-business-advisory-council.html, in Donors & Power Networks\Real Estate\Real Estate Roundtable.md
+- **DEAD LINK (404)**: https://kffhealthnews.org/news/non-profit-linked-to-phrma-rolls-out-campaign-to-block-drug-imports/, in Donors & Power Networks\Pharma & Healthcare\PhRMA.md
+- **DEAD LINK (404, no archive)**: https://www.statnews.com/medicare-advantage-upcoding/, in Donors & Power Networks\Healthcare\Humana.md
+- **DEAD LINK (404)**: https://www.federalreserve.gov/econres/notes/feds-notes/institutional-investors-single-family-housing.html, in Donors & Power Networks\Real Estate\Invitation Homes - Institutional Landlords.md
+- **DEAD LINK (404)**: https://www.chicagotribune.com/politics/ct-aipac-spending-illinois-20240930-story.html, in Donors & Power Networks\Super PACs\Affordable Chicago Now PAC.md
+- **DEAD LINK (404, no archive)**: https://www.middleeasteye.net/news/49-times-us-has-used-veto-power-against-un-resolutions-israel, in Donors & Power Networks\Israel Lobby\AIPAC - American Israel Public Affairs Committee.md
+- **DEAD LINK (404)**: https://www.irs.gov/credits-and-deductions-for-businesses/opportunity-zones, in Donors & Power Networks\Real Estate\Real Estate Roundtable.md
+- **DEAD LINK (404)**: https://www.cnbc.com/2022/08/04/kyrsten-sinema-demands-carried-interest-change-removed-from-manchin-schumer-climate-deal.html, in Donors & Power Networks\Real Estate\Real Estate Roundtable.md
+- **DEAD LINK (404)**: https://www.brookings.edu/articles/opportunity-zones-what-we-know-and-what-we-dont/, in Donors & Power Networks\Real Estate\Real Estate Roundtable.md
+- **DEAD LINK (404)**: https://www.cnbc.com/2017/02/03/blackstones-schwarzman-on-trump-business-advisory-council.html, in Donors & Power Networks\Real Estate\Real Estate Roundtable.md
+- **DEAD LINK (404, no archive)**: https://www.theguardian.com/us-news/2021/jan/11/sheldon-adelson-dead-pro-israel-mega-donor, in Donors & Power Networks\Israel Lobby\Republican Jewish Coalition.md
+- **DEAD LINK (404, no archive)**: https://www.justice.gov/usao-sdfl/united-states-v-jeffrey-epstein, in Donors & Power Networks\Jeffrey Epstein Network.md
+- **DEAD LINK (404, no archive)**: https://www.federaltimes.com/management/2024/01/15/afge-federal-workforce/, in Donors & Power Networks\Labor Unions\AFGE - American Federation of Government Employees.md
+- **DEAD LINK (404)**: https://www.latimes.com/politics/story/2023-04-11/could-california-decide-control-of-congress-a-democratic-super-pac-plans-to-spend-35-million-in-the-staten-into-california/, in Donors & Power Networks\Super PACs\House Majority PAC.md
+- **DEAD LINK (404)**: https://www.chicagotribune.com/politics/ct-aipac-spending-illinois-20240930-story.html, in Donors & Power Networks\Super PACs\Affordable Chicago Now PAC.md
+- **DEAD LINK (404, no archive)**: https://www.sos.ca.gov/campaign-lobbying/cal-access-portal, in Donors & Power Networks\Labor Unions\IBEW California State Association.md
+- **DEAD LINK (404, no archive)**: https://www.dir.ca.gov/dls/prevailing-wage.html, in Donors & Power Networks\Labor Unions\IBEW California State Association.md
+- **DEAD LINK (404)**: https://projects.propublica.org/nonprofits/organizations/854970843, in Donors & Power Networks\Super PACs\Marble Freedom Trust.md
+- **DEAD LINK (404)**: https://www.latimes.com/politics/story/2023-04-11/could-california-decide-control-of-congress-a-democratic-super-pac-plans-to-spend-35-million-in-the-staten-into-california/, in Donors & Power Networks\Super PACs\House Majority PAC.md
+- **DEAD LINK (404, no archive)**: https://unitehere.org/affiliates/local-2-san-francisco-and-bay-area/, in Donors & Power Networks\Labor Unions\UNITE HERE.md
+- **DEAD LINK (404, no archive)**: https://unitehere.org/affiliates/local-11-los-angeles-orange-county-arizona2/, in Donors & Power Networks\Labor Unions\UNITE HERE.md
+- **DEAD LINK (404)**: https://projects.propublica.org/nonprofits/organizations/474943695, in Donors & Power Networks\Super PACs\One Nation.md
+- **DEAD LINK (404)**: https://projects.propublica.org/nonprofits/organizations/854970843, in Donors & Power Networks\Super PACs\Marble Freedom Trust.md
+- **DEAD LINK (404, no archive)**: https://fop.net/government-and-media-affairs/legislation-we-support/, in Donors & Power Networks\Law Enforcement\Fraternal Order of Police.md
+- **DEAD LINK (404)**: https://projects.propublica.org/nonprofits/organizations/474943695, in Donors & Power Networks\Super PACs\One Nation.md
+- **DEAD LINK (404, no archive)**: https://www.theiacp.org/resources/policy-center, in Donors & Power Networks\Law Enforcement\International Association of Chiefs of Police.md
+- **DEAD LINK (404)**: https://campaignlegal.org/press-releases/breaking-campaign-legal-center-files-fec-complaint-against-former-president-donald, in Donors & Power Networks\Super PACs\Save America PAC.md, Donors & Power Networks\Super PACs\Save America PAC.md
+- **DEAD LINK (404)**: https://campaignlegal.org/press-releases/breaking-campaign-legal-center-files-fec-complaint-against-former-president-donald, in Donors & Power Networks\Super PACs\Save America PAC.md, Donors & Power Networks\Super PACs\Save America PAC.md
+- **DEAD LINK (404, no archive)**: https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=leonard%20leo, in Donors & Power Networks\Leonard Leo.md
+- **DEAD LINK (404, no archive)**: https://www.hollywoodreporter.com/news/general-news/jeffrey-katzenberg-democrat-donations-fundraising-hollywood-strikes-4088888/, in Donors & Power Networks\Media & Entertainment\Hollywood Democratic Donor Network.md
+- **DEAD LINK (404, no archive)**: https://www.wga.org/news-events-press/news/archives-2023, in Donors & Power Networks\Media & Entertainment\Hollywood Democratic Donor Network.md
+- **DEAD LINK (404, no archive)**: https://www.cnbc.com/2024/07/reed-hastings-kamala-harris-donation/, in Donors & Power Networks\Media & Entertainment\Hollywood Democratic Donor Network.md
+- **DEAD LINK (404)**: https://www.opensecrets.org/pacs/super-pacs/2024, in Donors & Power Networks\Super PACs\Susan B. Anthony Pro-Life America PAC.md
+- **DEAD LINK (404)**: https://www.opensecrets.org/pacs/super-pacs/2024, in Donors & Power Networks\Super PACs\Susan B. Anthony Pro-Life America PAC.md
+- **DEAD LINK (404)**: https://www.theguardian.com/us-news/2024/abortion-pac-influence, in Donors & Power Networks\Super PACs\Susan B. Anthony Pro-Life America PAC.md
+- **DEAD LINK (404)**: https://www.theguardian.com/us-news/2024/abortion-pac-influence, in Donors & Power Networks\Super PACs\Susan B. Anthony Pro-Life America PAC.md
+- **DEAD LINK (404)**: https://www.opensecrets.org/pacs/svb-pac, in Donors & Power Networks\Super PACs\SV&B PAC.md
+- **DEAD LINK (404)**: https://www.opensecrets.org/pacs/svb-pac, in Donors & Power Networks\Super PACs\SV&B PAC.md
+- **DEAD LINK (404, no archive)**: https://www.pewresearch.org/journalism/2023/06/13/local-news-media-landscape/, in Donors & Power Networks\Media & Entertainment\Sinclair Broadcasting Group.md
+- **DEAD LINK (404, no archive)**: https://www.usatoday.com/story/opinion/2019/02/07/justice-department-online-gambling-gop-donor-sheldon-adelson-trump-column/2019-02-07/, in Donors & Power Networks\Mega-Donors\Adelson Family.md
+- **DEAD LINK (404, no archive)**: https://www.aljazeera.com/economy/2025/2/26/washington-post-opinion-head-departs-as-jeff-bezos-shifts-focus-for-paper-about-latest-us-border-flashpoint, in Donors & Power Networks\Mega-Donors\Adelson Family.md
+- **DEAD LINK (404, no archive)**: https://www.scotusblog.com/cases/case-files/dobbs-v-jackson-womens-health-organization/, in Donors & Power Networks\Mega-Donors\Barre Seid.md
+- **DEAD LINK (404)**: https://www.nextgov.com/digital-government/2022/12/amazon-google-microsoft-oracle-awarded-9b-pentagon-cloud-contract/380596/, in Donors & Power Networks\Tech & Crypto\Amazon.md
+- **DEAD LINK (404)**: https://www.nextgov.com/digital-government/2022/12/amazon-google-microsoft-oracle-awarded-9b-pentagon-cloud-contract/380596/, in Donors & Power Networks\Tech & Crypto\Amazon.md
+- **DEAD LINK (404, no archive)**: https://www.insidephilanthropy.com/home/looking-back-at-bernie-marcus-giving-and-what-next, in Donors & Power Networks\Mega-Donors\Bernard Marcus.md
+- **DEAD LINK (404)**: https://www.cnn.com/2019/02/tech/amazon-hq2-nyc, in Donors & Power Networks\Tech & Crypto\Amazon.md
+- **DEAD LINK (404)**: https://www.cnn.com/2019/02/tech/amazon-hq2-nyc, in Donors & Power Networks\Tech & Crypto\Amazon.md
+- **DEAD LINK (404, no archive)**: https://en.wikipedia.org/wiki/All-In_(podcast), in Donors & Power Networks\Mega-Donors\David Sacks.md
+- **DEAD LINK (404)**: https://defensescoop.com/2023/09/08/eric-schmidt-led-panel-pushing-for-new-defense-experimentation-unit-to-drive-military-adoption-of-generative-ai/se-experimentation-unit-to-drive-military-adoption-of-generative-ai/, in Donors & Power Networks\Tech & Crypto\Eric Schmidt.md
+- **DEAD LINK (404)**: https://defensescoop.com/2023/09/08/eric-schmidt-led-panel-pushing-for-new-defense-experimentation-unit-to-drive-military-adoption-of-generative-ai/se-experimentation-unit-to-drive-military-adoption-of-generative-ai/, in Donors & Power Networks\Tech & Crypto\Eric Schmidt.md
+- **DEAD LINK (404, no archive)**: https://web.archive.org/web/2026/https:/www.cnbc.com/2026/02/02/spacex-xai-merger.html, in Donors & Power Networks\Mega-Donors\Elon Musk.md, Donors & Power Networks\Mega-Donors\Elon Musk.md
+- **DEAD LINK (404)**: https://www.cnn.com/2025/01/25/politics/crypto-regulation-gensler-replacement/, in Donors & Power Networks\Tech & Crypto\Fairshake PAC.md
+- **DEAD LINK (404)**: https://www.cnn.com/2025/01/25/politics/crypto-regulation-gensler-replacement/, in Donors & Power Networks\Tech & Crypto\Fairshake PAC.md
+- **DEAD LINK (404)**: https://www.investmentlawwatch.com/2025/01/24/president-trump-executive-order-steering-digital-assets-policy/, in Donors & Power Networks\Tech & Crypto\Fairshake PAC.md
+- **DEAD LINK (404)**: https://www.investmentlawwatch.com/2025/01/24/president-trump-executive-order-steering-digital-assets-policy/, in Donors & Power Networks\Tech & Crypto\Fairshake PAC.md
 - **FIXED (404→archive)**: https://www.middleeasteye.net/news/whatsapp-co-founder-donates-2m-pro-israel-super-pac → http://web.archive.org/web/20260203105558/https:/www.middleeasteye.net/news/whatsapp-co-founder-donates-2m-pro-israel-super-pac
-- **DEAD LINK (404, no archive)**: https://www.nasa.gov/press-release/nasa-selects-blue-origin-for-second-artemis-moon-lander — in Donors & Power Networks\Mega-Donors\Jeff Bezos.md
-- **DEAD LINK (404, no archive)**: https://projects.propublica.org/nonprofits/organizations/273725506 — in Donors & Power Networks\Mega-Donors\Jeffrey Katzenberg.md
-- **DEAD LINK (404, no archive)**: https://www.theguardian.com/us-news/2024/apr/01/billionaire-donor-tiktok-stake — in Donors & Power Networks\Mega-Donors\Jeffrey Yass.md
-- **DEAD LINK (404, no archive)**: https://www.theguardian.com/business/2024/mar/12/hedge-fund-billionaire-kenneth-griffin — in Donors & Power Networks\Mega-Donors\Ken Griffin.md
-- **DEAD LINK (404, no archive)**: https://www.politico.com/story/2015/01/koch-2016-702-million-702-million-114604 — in Donors & Power Networks\Mega-Donors\Koch Network - Charles Koch.md, Donors & Power Networks\Mega-Donors\Koch Network - Charles Koch.md
-- **DEAD LINK (404, no archive)**: https://www.motherjones.com/politics/2013/02/donors-trust-donor-advised-fund-koch-dark-money/ — in Donors & Power Networks\Mega-Donors\Koch Network - Charles Koch.md, Donors & Power Networks\Mega-Donors\Koch Network - Charles Koch.md
-- **DEAD LINK (404)**: https://lda.gov/filings/public/filing/search/ — in Donors & Power Networks\Tech & Crypto\Meta - Facebook.md
-- **DEAD LINK (404)**: https://lda.gov/filings/public/filing/search/ — in Donors & Power Networks\Tech & Crypto\Meta - Facebook.md
-- **DEAD LINK (404, no archive)**: https://www.brookings.edu/articles/alec-model-bills-are-more-likely-to-become-law-heres-why/ — in Donors & Power Networks\Mega-Donors\Koch Network - Charles Koch.md, Donors & Power Networks\Mega-Donors\Koch Network - Charles Koch.md
-- **DEAD LINK (404, no archive)**: https://www.cnbc.com/2017/06/26/koch-network-warns-donors-are-closing-wallets-until-they-see-legislative-progress.html — in Donors & Power Networks\Mega-Donors\Koch Network - Charles Koch.md, Donors & Power Networks\Mega-Donors\Koch Network - Charles Koch.md
-- **DEAD LINK (404, no archive)**: https://americansfortaxfairness.org/tax-fairness-briefing-booklet/fact-sheet-koch-brothers-exposed-billionaires-fuel-extreme-right/ — in Donors & Power Networks\Mega-Donors\Koch Network - Charles Koch.md
-- **DEAD LINK (404, no archive)**: https://finance.yahoo.com/news/larry-ellison-net-worth-update-from-topping-musk-in-2025-to-losing-19-of-his-wealth-in-2026-203114110.html — in Donors & Power Networks\Mega-Donors\Larry Ellison.md
-- **DEAD LINK (404, no archive)**: https://www.ftc.gov/news-events/news/press-releases/2019/07/ftc-imposes-5-billion-penalty-sweeping-new-privacy-restrictions-facebook — in Donors & Power Networks\Mega-Donors\Mark Zuckerberg.md, Donors & Power Networks\Tech & Crypto\Meta - Facebook.md
-- **DEAD LINK (404, no archive)**: https://web.archive.org/web/2019/https:/www.cnn.com/politics/news/2018-midterms-bloomberg-spending — in Donors & Power Networks\Mega-Donors\Michael Bloomberg.md
-- **DEAD LINK (404)**: https://www.americanimmigrationcouncil.org/research/h-1b-visa-program-overview — in Donors & Power Networks\Tech & Crypto\Silicon Valley Democratic Donor Network.md
-- **DEAD LINK (404)**: https://www.nasa.gov/humans-in-space/commercial-space/spacex/ — in Donors & Power Networks\Tech & Crypto\SpaceX.md
-- **DEAD LINK (404, no archive)**: https://www.influencewatch.org/non-profit/independence-usa-pac/ — in Donors & Power Networks\Mega-Donors\Michael Bloomberg.md
-- **DEAD LINK (404)**: https://www.americanimmigrationcouncil.org/research/h-1b-visa-program-overview — in Donors & Power Networks\Tech & Crypto\Silicon Valley Democratic Donor Network.md
-- **DEAD LINK (404)**: https://www.nasa.gov/humans-in-space/commercial-space/spacex/ — in Donors & Power Networks\Tech & Crypto\SpaceX.md
-- **DEAD LINK (404, no archive)**: https://www.influencewatch.org/person/paul-singer/ — in Donors & Power Networks\Mega-Donors\Paul Singer.md
-- **DEAD LINK (404, no archive)**: https://www.cnbc.com/2024/03/15/rebekah-mercer-trump.html — in Donors & Power Networks\Mega-Donors\Rebekah Mercer.md
-- **DEAD LINK (404, no archive)**: https://fortune.com/2016/11/17/trump-transition-women/ — in Donors & Power Networks\Mega-Donors\Rebekah Mercer.md
-- **DEAD LINK (404, no archive)**: https://elections.wi.gov/state-candidates-and-committees — in Donors & Power Networks\Mega-Donors\Reid Hoffman.md
-- **DEAD LINK (404)**: https://www.justice.gov/archives/opa/pr/bank-america-pay-1665-billion-historic-justice-department-settlement-financial-fraud-leading — in Donors & Power Networks\Wall Street\Bank of America.md
-- **DEAD LINK (404)**: https://www.justice.gov/archives/opa/pr/bank-america-pay-1665-billion-historic-justice-department-settlement-financial-fraud-leading — in Donors & Power Networks\Wall Street\Bank of America.md
-- **DEAD LINK (404, no archive)**: https://www.hsgac.senate.gov/subcommittees/investigations/ — in Donors & Power Networks\Mega-Donors\Renaissance Technologies and the 7 Billion Dollar Tax Settlement.md, Donors & Power Networks\Mega-Donors\Robert Mercer.md
-- **DEAD LINK (404)**: https://www.ft.com/content/blackrock-esg-backlash — in Donors & Power Networks\Wall Street\Blackrock.md
-- **DEAD LINK (404)**: https://www.ft.com/content/blackrock-esg-backlash — in Donors & Power Networks\Wall Street\Blackrock.md
-- **DEAD LINK (404, no archive)**: https://www.cbsnews.com/news/gop-megadonor-richard-uihlein-pours-millions-into-effort-to-hinder-ohio-abortion-amendment/ — in Donors & Power Networks\Mega-Donors\Richard and Elizabeth Uihlein.md
-- **DEAD LINK (404)**: https://www.ohchr.org/en/press-releases/2019/03/un-housing-expert-blackstone — in Donors & Power Networks\Wall Street\Blackstone Group.md
-- **DEAD LINK (404)**: https://www.ohchr.org/en/press-releases/2019/03/un-housing-expert-blackstone — in Donors & Power Networks\Wall Street\Blackstone Group.md
-- **DEAD LINK (404)**: https://americansfortaxfairness.org/issue/carried-interest/ — in Donors & Power Networks\Wall Street\Blackstone Group.md, Donors & Power Networks\Wall Street\Private Equity Industry Bloc.md
-- **DEAD LINK (404)**: https://americansfortaxfairness.org/issue/carried-interest/ — in Donors & Power Networks\Wall Street\Blackstone Group.md, Donors & Power Networks\Wall Street\Private Equity Industry Bloc.md
-- **DEAD LINK (404, no archive)**: https://www.justice.gov/usao-sdny/united-states-v-samuel-bankman-fried-aka-sbf-22-cr-673-lak — in Donors & Power Networks\Mega-Donors\Sam Bankman-Fried.md, Donors & Power Networks\Tech & Crypto\FTX - Sam Bankman-Fried.md
-- **DEAD LINK (404, no archive)**: https://taxfoundation.org/research/all/federal/carried-interest-tax-debate/ — in Donors & Power Networks\Mega-Donors\Stephen Schwarzman.md
-- **DEAD LINK (404, no archive)**: https://itep.org/private-equity-tax-loophole/ — in Donors & Power Networks\Mega-Donors\Stephen Schwarzman.md
-- **DEAD LINK (404, no archive)**: https://finance.yahoo.com/news/reclusive-billionaire-timothy-mellon-has-spent-504-million-on-trump-and-gop-causes-113025926.html — in Donors & Power Networks\Mega-Donors\Timothy Mellon.md
-- **DEAD LINK (404)**: https://en.wikipedia.org/wiki/Paul_Singer_(businessman — in Donors & Power Networks\Wall Street\Elliott Management.md
-- **DEAD LINK (404)**: https://en.wikipedia.org/wiki/Paul_Singer_(businessman — in Donors & Power Networks\Wall Street\Elliott Management.md
-- **DEAD LINK (404, no archive)**: https://www.cnbc.com/2024/11/07/timothy-mellon-quietly-spent-165-million-on-2024-election-making-him-second-largest-donor.html — in Donors & Power Networks\Mega-Donors\Timothy Mellon.md
-- **DEAD LINK (404, no archive)**: https://fortune.com/2025/10/15/timothy-mellon-donates-130-million-to-military-pay-during-shutdown/ — in Donors & Power Networks\Mega-Donors\Timothy Mellon.md
-- **DEAD LINK (404, no archive)**: https://www.texastribune.org/2025/06/02/texas-border-wall-funding/ — in Donors & Power Networks\Mega-Donors\Timothy Mellon.md
-- **DEAD LINK (404, no archive)**: https://web.archive.org/web/2024/https:/www.cnn.com/politics/live-news/maga-super-pac-spending — in Donors & Power Networks\Mega-Donors\Timothy Mellon.md
-- **DEAD LINK (404)**: https://www.opensecrets.org/political-action-committees-pacs/C00351658/summary — in Donors & Power Networks\Wall Street\Elliott Management.md
-- **DEAD LINK (404)**: https://www.opensecrets.org/political-action-committees-pacs/C00351658/summary — in Donors & Power Networks\Wall Street\Elliott Management.md
-- **DEAD LINK (404, no archive)**: https://fortune.com/person/timothy-mellon/ — in Donors & Power Networks\Mega-Donors\Timothy Mellon.md
-- **DEAD LINK (404, no archive)**: https://archive.vanityfair.com/article/2024/10/a-house-divided — in Donors & Power Networks\Mega-Donors\Timothy Mellon.md
-- **DEAD LINK (404)**: https://www.sec.gov/divisions/investment/ia-registration-stats.shtml — in Donors & Power Networks\Wall Street\Hedge Fund Industry Bloc.md
-- **DEAD LINK (404)**: https://www.sec.gov/divisions/investment/ia-registration-stats.shtml — in Donors & Power Networks\Wall Street\Hedge Fund Industry Bloc.md
-- **DEAD LINK (404)**: https://www.federalreserve.gov/supervisionreg/stress-tests-capital-planning.htm — in Donors & Power Networks\Wall Street\JPMorgan Chase.md
-- **DEAD LINK (404)**: https://www.federalreserve.gov/supervisionreg/stress-tests-capital-planning.htm — in Donors & Power Networks\Wall Street\JPMorgan Chase.md
-- **DEAD LINK (404, no archive)**: https://www.fns.usda.gov/snap/retailer-data — in Donors & Power Networks\Mega-Donors\Walmart - Walton Family.md
-- **DEAD LINK (404)**: https://www.justice.gov/archives/opa/pr/wells-fargo-agrees-pay-3-billion-resolve-criminal-and-civil-investigations-sales-practices — in Donors & Power Networks\Wall Street\Wells Fargo.md
-- **DEAD LINK (404)**: https://www.justice.gov/archives/opa/pr/wells-fargo-agrees-pay-3-billion-resolve-criminal-and-civil-investigations-sales-practices — in Donors & Power Networks\Wall Street\Wells Fargo.md
-- **DEAD LINK (404, no archive)**: https://www.fda.gov/drugs/therapeutic-biologics-applications-bla/insulin — in Donors & Power Networks\Pharma & Healthcare\Novo Nordisk.md
-- **DEAD LINK (404, no archive)**: https://fortune.com/2020/11/09/pfizer-vaccine-funding-warp-speed/ — in Donors & Power Networks\Pharma & Healthcare\Pfizer.md
-- **DEAD LINK (404, no archive)**: https://msfaccess.org/msf-response-license-between-pfizer-and-medicines-patent-pool-for-new-covid-19-treatment-paxlovid — in Donors & Power Networks\Pharma & Healthcare\Pfizer.md
-- **DEAD LINK (404, no archive)**: https://www.cms.gov/priorities/medicare-prescription-drug-affordability/overview/medicare-drug-price-negotiation-program — in Donors & Power Networks\Pharma & Healthcare\PhRMA.md, Stories\Published\Contradiction Deep Dives\Contradiction 03 - PhRMA Kills Drug Negotiation From Both Sides.md
-- **DEAD LINK (404, no archive)**: https://kffhealthnews.org/news/non-profit-linked-to-phrma-rolls-out-campaign-to-block-drug-imports/ — in Donors & Power Networks\Pharma & Healthcare\PhRMA.md
-- **DEAD LINK (404)**: https://lda.gov/filings/public/filing/search/ — in Lobbying Firms & K Street\Akin Gump Strauss Hauer & Feld.md
-- **DEAD LINK (404, no archive)**: https://www.federalreserve.gov/econres/notes/feds-notes/institutional-investors-single-family-housing.html — in Donors & Power Networks\Real Estate\Invitation Homes - Institutional Landlords.md
-- **DEAD LINK (404, no archive)**: https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=sheldon%20adelson — in Donors & Power Networks\Real Estate\Las Vegas Sands.md
-- **DEAD LINK (404)**: https://www.middleeasteye.net/news/us-lobby-firm-secures-2m-contract-whitewash-khalifa-haftars-image — in Lobbying Firms & K Street\Ballard Partners.md
-- **DEAD LINK (404)**: https://www.middleeasteye.net/news/us-lobby-firm-secures-2m-contract-whitewash-khalifa-haftars-image — in Lobbying Firms & K Street\Ballard Partners.md
-- **DEAD LINK (404, no archive)**: https://www.irs.gov/credits-and-deductions-for-businesses/opportunity-zones — in Donors & Power Networks\Real Estate\Real Estate Roundtable.md
-- **DEAD LINK (404, no archive)**: https://www.cnbc.com/2022/08/04/kyrsten-sinema-demands-carried-interest-change-removed-from-manchin-schumer-climate-deal.html — in Donors & Power Networks\Real Estate\Real Estate Roundtable.md
-- **DEAD LINK (404, no archive)**: https://www.brookings.edu/articles/opportunity-zones-what-we-know-and-what-we-dont/ — in Donors & Power Networks\Real Estate\Real Estate Roundtable.md
-- **DEAD LINK (404, no archive)**: https://www.cnbc.com/2017/02/03/blackstones-schwarzman-on-trump-business-advisory-council.html — in Donors & Power Networks\Real Estate\Real Estate Roundtable.md
-- **DEAD LINK (404)**: https://en.wikipedia.org/wiki/Gerald_Cassidy_(lobbyist — in Lobbying Firms & K Street\Cassidy & Associates.md
-- **DEAD LINK (404)**: https://en.wikipedia.org/wiki/Gerald_Cassidy_(lobbyist — in Lobbying Firms & K Street\Cassidy & Associates.md
-- **DEAD LINK (404, no archive)**: https://www.chicagotribune.com/politics/ct-aipac-spending-illinois-20240930-story.html — in Donors & Power Networks\Super PACs\Affordable Chicago Now PAC.md
-- **DEAD LINK (404)**: https://www.opensecrets.org/revolving-door?id=D000021982 — in Lobbying Firms & K Street\Fierce Government Relations.md
-- **DEAD LINK (404)**: https://www.opensecrets.org/revolving-door?id=D000021982 — in Lobbying Firms & K Street\Fierce Government Relations.md
-- **DEAD LINK (404, no archive)**: https://www.latimes.com/politics/story/2023-04-11/could-california-decide-control-of-congress-a-democratic-super-pac-plans-to-spend-35-million-in-the-staten-into-california/ — in Donors & Power Networks\Super PACs\House Majority PAC.md
-- **DEAD LINK (404, no archive)**: https://projects.propublica.org/nonprofits/organizations/854970843 — in Donors & Power Networks\Super PACs\Marble Freedom Trust.md
-- **DEAD LINK (404, no archive)**: https://projects.propublica.org/nonprofits/organizations/474943695 — in Donors & Power Networks\Super PACs\One Nation.md
-- **DEAD LINK (404, no archive)**: https://campaignlegal.org/press-releases/breaking-campaign-legal-center-files-fec-complaint-against-former-president-donald — in Donors & Power Networks\Super PACs\Save America PAC.md, Donors & Power Networks\Super PACs\Save America PAC.md
-- **DEAD LINK (404)**: https://en.wikipedia.org/wiki/Tiber_Creek_Group — in Lobbying Firms & K Street\Peck Madigan Jones.md
-- **DEAD LINK (404)**: https://en.wikipedia.org/wiki/Tiber_Creek_Group — in Lobbying Firms & K Street\Peck Madigan Jones.md
-- **DEAD LINK (404, no archive)**: https://www.opensecrets.org/pacs/super-pacs/2024 — in Donors & Power Networks\Super PACs\Susan B. Anthony Pro-Life America PAC.md
-- **DEAD LINK (404, no archive)**: https://www.theguardian.com/us-news/2024/abortion-pac-influence — in Donors & Power Networks\Super PACs\Susan B. Anthony Pro-Life America PAC.md
-- **DEAD LINK (404, no archive)**: https://www.opensecrets.org/pacs/svb-pac — in Donors & Power Networks\Super PACs\SV&B PAC.md
-- **DEAD LINK (404, no archive)**: https://www.nextgov.com/digital-government/2022/12/amazon-google-microsoft-oracle-awarded-9b-pentagon-cloud-contract/380596/ — in Donors & Power Networks\Tech & Crypto\Amazon.md
-- **DEAD LINK (404, no archive)**: https://www.cnn.com/2019/02/tech/amazon-hq2-nyc — in Donors & Power Networks\Tech & Crypto\Amazon.md
-- **DEAD LINK (404, no archive)**: https://defensescoop.com/2023/09/08/eric-schmidt-led-panel-pushing-for-new-defense-experimentation-unit-to-drive-military-adoption-of-generative-ai/se-experimentation-unit-to-drive-military-adoption-of-generative-ai/ — in Donors & Power Networks\Tech & Crypto\Eric Schmidt.md
-- **DEAD LINK (404, no archive)**: https://www.cnn.com/2025/01/25/politics/crypto-regulation-gensler-replacement/ — in Donors & Power Networks\Tech & Crypto\Fairshake PAC.md
-- **DEAD LINK (404, no archive)**: https://www.investmentlawwatch.com/2025/01/24/president-trump-executive-order-steering-digital-assets-policy/ — in Donors & Power Networks\Tech & Crypto\Fairshake PAC.md
-- **DEAD LINK (404)**: https://en.wikipedia.org/wiki/The_Free_Press_(Paramount_Skydance — in Media & Influence Pipeline\Centrist\Bari Weiss.md
-- **DEAD LINK (404)**: https://en.wikipedia.org/wiki/The_Free_Press_(Paramount_Skydance — in Media & Influence Pipeline\Centrist\Bari Weiss.md
-- **DEAD LINK (404)**: https://en.wikipedia.org/wiki/All-In_(podcast)) — in Media & Influence Pipeline\Centrist\Destiny - Steven Bonnell.md
-- **DEAD LINK (404)**: https://en.wikipedia.org/wiki/All-In_(podcast)) — in Media & Influence Pipeline\Centrist\Destiny - Steven Bonnell.md
-- **DEAD LINK (404)**: https://cces.mit.edu/team/lex-fridman/ — in Media & Influence Pipeline\Centrist\Lex Fridman.md
-- **DEAD LINK (404)**: https://cces.mit.edu/team/lex-fridman/ — in Media & Influence Pipeline\Centrist\Lex Fridman.md
-- **DEAD LINK (404)**: https://www.currentaffairs.org/posts/the-guy-who-just-loves-everyone — in Media & Influence Pipeline\Centrist\Lex Fridman.md
-- **DEAD LINK (404)**: https://www.currentaffairs.org/posts/the-guy-who-just-loves-everyone — in Media & Influence Pipeline\Centrist\Lex Fridman.md
-- **DEAD LINK (404)**: https://www.wired.com/story/a-dark-money-group-is-secretly-funding-high-profile-democratic-influencers/ — in Media & Influence Pipeline\Left\David Pakman.md
-- **DEAD LINK (404)**: https://www.wired.com/story/a-dark-money-group-is-secretly-funding-high-profile-democratic-influencers/ — in Media & Influence Pipeline\Left\David Pakman.md
-- **DEAD LINK (404)**: https://en.wikipedia.org/wiki/Sputnik_(TV_programme — in Media & Influence Pipeline\Left\George Galloway.md
-- **DEAD LINK (404)**: https://en.wikipedia.org/wiki/Sputnik_(TV_programme — in Media & Influence Pipeline\Left\George Galloway.md
-- **DEAD LINK (404, no archive)**: https://www.americanimmigrationcouncil.org/research/h-1b-visa-program-overview — in Donors & Power Networks\Tech & Crypto\Silicon Valley Democratic Donor Network.md
-- **DEAD LINK (404, no archive)**: https://www.nasa.gov/humans-in-space/commercial-space/spacex/ — in Donors & Power Networks\Tech & Crypto\SpaceX.md
-- **DEAD LINK (404)**: https://www.thenation.com/article/news/jacobin-sunkara-nation/ — in Media & Influence Pipeline\Left\Jacobin.md
-- **DEAD LINK (404)**: https://www.thenation.com/article/news/jacobin-sunkara-nation/ — in Media & Influence Pipeline\Left\Jacobin.md
-- **DEAD LINK (404)**: https://www.dropsitenews.com/author/jeremy-scahill/ — in Media & Influence Pipeline\Left\Jeremy Scahill.md
-- **DEAD LINK (404)**: https://www.dropsitenews.com/author/jeremy-scahill/ — in Media & Influence Pipeline\Left\Jeremy Scahill.md
-- **DEAD LINK (404)**: https://en.wikipedia.org/wiki/Lee_Camp_(comedian — in Media & Influence Pipeline\Left\Lee Camp.md
-- **DEAD LINK (404)**: https://en.wikipedia.org/wiki/Lee_Camp_(comedian — in Media & Influence Pipeline\Left\Lee Camp.md
-- **DEAD LINK (404, no archive)**: https://www.justice.gov/archives/opa/pr/bank-america-pay-1665-billion-historic-justice-department-settlement-financial-fraud-leading — in Donors & Power Networks\Wall Street\Bank of America.md
-- **DEAD LINK (404)**: https://en.wikipedia.org/wiki/Jon_Favreau_(speechwriter — in Media & Influence Pipeline\Left\Pod Save America.md
-- **DEAD LINK (404)**: https://en.wikipedia.org/wiki/Jon_Favreau_(speechwriter — in Media & Influence Pipeline\Left\Pod Save America.md
-- **DEAD LINK (404, no archive)**: https://www.ft.com/content/blackrock-esg-backlash — in Donors & Power Networks\Wall Street\Blackrock.md
-- **DEAD LINK (404)**: https://www.dropsitenews.com/author/ryan-grim/ — in Media & Influence Pipeline\Left\Ryan Grim.md
-- **DEAD LINK (404)**: https://www.dropsitenews.com/author/ryan-grim/ — in Media & Influence Pipeline\Left\Ryan Grim.md
-- **DEAD LINK (404)**: https://en.wikipedia.org/wiki/Air_America_(radio_network) — in Media & Influence Pipeline\Left\Sam Seder.md
-- **DEAD LINK (404)**: https://en.wikipedia.org/wiki/Air_America_(radio_network) — in Media & Influence Pipeline\Left\Sam Seder.md
-- **DEAD LINK (404, no archive)**: https://www.ohchr.org/en/press-releases/2019/03/un-housing-expert-blackstone — in Donors & Power Networks\Wall Street\Blackstone Group.md
-- **DEAD LINK (404, no archive)**: https://www.ft.com/content/blackstone-saudi-pif — in Donors & Power Networks\Wall Street\Blackstone Group.md
-- **DEAD LINK (404, no archive)**: https://en.wikipedia.org/wiki/Paul_Singer_(businessman — in Donors & Power Networks\Wall Street\Elliott Management.md
-- **DEAD LINK (404)**: https://projects.propublica.org/nonprofits/organizations/135626156 — in Media & Influence Pipeline\Right\Christopher Rufo.md
-- **DEAD LINK (404)**: https://projects.propublica.org/nonprofits/organizations/855631396 — in Media & Influence Pipeline\Right\Christopher Rufo.md
-- **DEAD LINK (404, no archive)**: https://www.opensecrets.org/political-action-committees-pacs/C00351658/summary — in Donors & Power Networks\Wall Street\Elliott Management.md
-- **DEAD LINK (404)**: https://www.motherjones.com/politics/2023/06/anti-dei-activists-dark-money/ — in Media & Influence Pipeline\Right\Christopher Rufo.md
-- **DEAD LINK (404)**: https://www.motherjones.com/politics/2023/03/bradley-foundation-woke-culture-war/ — in Media & Influence Pipeline\Right\Christopher Rufo.md
-- **DEAD LINK (404)**: https://www.politico.com/news/2021/10/07/christopher-rufo-anti-crt-republican-politics — in Media & Influence Pipeline\Right\Christopher Rufo.md
-- **DEAD LINK (404)**: https://www.chronicle.com/articles/new-college-enrollment-crisis — in Media & Influence Pipeline\Right\Christopher Rufo.md
-- **DEAD LINK (404)**: https://marginalrevolution.com/marginalrevolution/2025/new-college-florida-cost.html — in Media & Influence Pipeline\Right\Christopher Rufo.md
-- **DEAD LINK (404)**: https://projects.propublica.org/nonprofits/organizations/135626156 — in Media & Influence Pipeline\Right\Christopher Rufo.md
-- **DEAD LINK (404)**: https://projects.propublica.org/nonprofits/organizations/855631396 — in Media & Influence Pipeline\Right\Christopher Rufo.md
-- **DEAD LINK (404)**: https://www.motherjones.com/politics/2023/06/anti-dei-activists-dark-money/ — in Media & Influence Pipeline\Right\Christopher Rufo.md
-- **DEAD LINK (404)**: https://www.motherjones.com/politics/2023/03/bradley-foundation-woke-culture-war/ — in Media & Influence Pipeline\Right\Christopher Rufo.md
-- **DEAD LINK (404)**: https://en.wikipedia.org/wiki/Matt_Walsh_(political_commentator — in Media & Influence Pipeline\Right\Daily Wire.md, Media & Influence Pipeline\Right\Matt Walsh.md
-- **DEAD LINK (404)**: https://www.politico.com/news/2021/10/07/christopher-rufo-anti-crt-republican-politics — in Media & Influence Pipeline\Right\Christopher Rufo.md
-- **DEAD LINK (404)**: https://www.chronicle.com/articles/new-college-enrollment-crisis — in Media & Influence Pipeline\Right\Christopher Rufo.md
-- **DEAD LINK (404)**: https://marginalrevolution.com/marginalrevolution/2025/new-college-florida-cost.html — in Media & Influence Pipeline\Right\Christopher Rufo.md
-- **DEAD LINK (404)**: https://en.wikipedia.org/wiki/Matt_Walsh_(political_commentator — in Media & Influence Pipeline\Right\Daily Wire.md, Media & Influence Pipeline\Right\Matt Walsh.md
-- **DEAD LINK (404, no archive)**: https://www.sec.gov/divisions/investment/ia-registration-stats.shtml — in Donors & Power Networks\Wall Street\Hedge Fund Industry Bloc.md
-- **DEAD LINK (404)**: https://projects.propublica.org/nonprofits/organizations/136181096 — in Media & Influence Pipeline\Right\Dinesh D'Souza.md
-- **DEAD LINK (404)**: https://projects.propublica.org/nonprofits/organizations/136181096 — in Media & Influence Pipeline\Right\Dinesh D'Souza.md
-- **DEAD LINK (404, no archive)**: https://www.federalreserve.gov/supervisionreg/stress-tests-capital-planning.htm — in Donors & Power Networks\Wall Street\JPMorgan Chase.md
-- **DEAD LINK (404)**: https://www.laughfactory.com/comedians/JimmyDore — in Media & Influence Pipeline\Right\Jimmy Dore.md
-- **DEAD LINK (404)**: https://www.laughfactory.com/comedians/JimmyDore — in Media & Influence Pipeline\Right\Jimmy Dore.md
-- **DEAD LINK (404)**: https://en.wikipedia.org/wiki/Michael_Knowles_(political_commentator — in Media & Influence Pipeline\Right\Michael Knowles.md
-- **DEAD LINK (404)**: https://en.wikipedia.org/wiki/Michael_Knowles_(political_commentator — in Media & Influence Pipeline\Right\Michael Knowles.md
-- **DEAD LINK (404)**: https://www.adl.org/resources/blog/rumble-emerges-platform-choice-antisemitic-and-far-right-extremist-content — in Media & Influence Pipeline\Right\Rumble.md
-- **DEAD LINK (404)**: https://www.adl.org/resources/blog/rumble-emerges-platform-choice-antisemitic-and-far-right-extremist-content — in Media & Influence Pipeline\Right\Rumble.md
-- **DEAD LINK (404)**: https://en.wikipedia.org/wiki/Rumble_(company — in Media & Influence Pipeline\Right\Rumble.md
-- **DEAD LINK (404)**: https://en.wikipedia.org/wiki/Rumble_(company — in Media & Influence Pipeline\Right\Rumble.md
-- **DEAD LINK (404, no archive)**: https://www.justice.gov/archives/opa/pr/wells-fargo-agrees-pay-3-billion-resolve-criminal-and-civil-investigations-sales-practices — in Donors & Power Networks\Wall Street\Wells Fargo.md
-- **DEAD LINK (404, no archive)**: https://lda.gov/filings/public/filing/search/ — in Lobbying Firms & K Street\Akin Gump Strauss Hauer & Feld.md
-- **DEAD LINK (404)**: https://www.cnbc.com/2025/03/14/david-sacks-sold-200-million-in-crypto-holdings-before-wh-job.html — in Media & Influence Pipeline\The Both-Sides Illusion (Media Edition) — Shared Infrastructure Behind Opposing Voices.md
-- **DEAD LINK (404)**: https://www.cnbc.com/2025/03/14/david-sacks-sold-200-million-in-crypto-holdings-before-wh-job.html — in Media & Influence Pipeline\The Both-Sides Illusion (Media Edition) — Shared Infrastructure Behind Opposing Voices.md
-- **DEAD LINK (404, no archive)**: https://www.opensecrets.org/revolving-door?id=D000000162 — in Lobbying Firms & K Street\Akin Gump Strauss Hauer & Feld.md
-- **DEAD LINK (404, no archive)**: https://www.middleeasteye.net/news/us-lobby-firm-secures-2m-contract-whitewash-khalifa-haftars-image — in Lobbying Firms & K Street\Ballard Partners.md
-- **DEAD LINK (404)**: https://www.latimes.com/california/story/2022-10-31/la-mansion-tax-measure-ula-explained — in Politicians\Democrats\CA Governor 2026\Antonio Villaraigosa\The Real Estate Mayor and the 2026 Donor Coalition.md
-- **DEAD LINK (404)**: https://www.latimes.com/california/story/2022-10-31/la-mansion-tax-measure-ula-explained — in Politicians\Democrats\CA Governor 2026\Antonio Villaraigosa\The Real Estate Mayor and the 2026 Donor Coalition.md
-- **DEAD LINK (404)**: https://www.sandiegouniontribune.com/la-pol-ca-essential-politics-updates-netflix-ceo-and-ed-reform-advocate-reed-1523495119-htmlstory.html — in Politicians\Democrats\CA Governor 2026\Antonio Villaraigosa\_Antonio Villaraigosa Master Profile.md, Politicians\Democrats\CA Governor 2026\Tony Thurmond\The Education Establishment and the Charter School War.md
-- **DEAD LINK (404)**: https://www.sandiegouniontribune.com/la-pol-ca-essential-politics-updates-netflix-ceo-and-ed-reform-advocate-reed-1523495119-htmlstory.html — in Politicians\Democrats\CA Governor 2026\Antonio Villaraigosa\_Antonio Villaraigosa Master Profile.md, Politicians\Democrats\CA Governor 2026\Tony Thurmond\The Education Establishment and the Charter School War.md
-- **DEAD LINK (404, no archive)**: https://en.wikipedia.org/wiki/Gerald_Cassidy_(lobbyist — in Lobbying Firms & K Street\Cassidy & Associates.md
-- **DEAD LINK (404)**: https://www.cnbc.com/2024/11/13/crypto-firms-dump-77-million-into-fairshake-pac-for-2026/ — in Politicians\Democrats\CA Governor 2026\Katie Porter\Fairshake and the Crypto Industry War.md
-- **DEAD LINK (404)**: https://www.cnbc.com/2024/11/13/crypto-firms-dump-77-million-into-fairshake-pac-for-2026/ — in Politicians\Democrats\CA Governor 2026\Katie Porter\Fairshake and the Crypto Industry War.md
-- **DEAD LINK (404)**: https://sfist.com/2024/02/23/fairshake-super-pac-spends-millions-on-ads-against-katie-porter/ — in Politicians\Democrats\CA Governor 2026\Katie Porter\Fairshake and the Crypto Industry War.md
-- **DEAD LINK (404)**: https://sfist.com/2024/02/23/fairshake-super-pac-spends-millions-on-ads-against-katie-porter/ — in Politicians\Democrats\CA Governor 2026\Katie Porter\Fairshake and the Crypto Industry War.md
-- **DEAD LINK (404, no archive)**: https://www.opensecrets.org/revolving-door?id=D000021982 — in Lobbying Firms & K Street\Fierce Government Relations.md
-- **DEAD LINK (404)**: https://www.opensecrets.org/2020-presidential-race/ — in Politicians\Democrats\CA Governor 2026\Tom Steyer\The Self-Funded Billionaire Model.md
-- **DEAD LINK (404)**: https://www.opensecrets.org/2020-presidential-race/ — in Politicians\Democrats\CA Governor 2026\Tom Steyer\The Self-Funded Billionaire Model.md
-- **DEAD LINK (404)**: https://www.fiercehealthcare.com/hospitals/from-340b-to-price-transparency-here-are-3-takeaways-from-xavier-becerras-confirmation — in Politicians\Democrats\CA Governor 2026\Xavier Becerra\The HHS Record and the Healthcare Industry Question.md
-- **DEAD LINK (404)**: https://www.fiercehealthcare.com/hospitals/from-340b-to-price-transparency-here-are-3-takeaways-from-xavier-becerras-confirmation — in Politicians\Democrats\CA Governor 2026\Xavier Becerra\The HHS Record and the Healthcare Industry Question.md
-- **DEAD LINK (404)**: https://www.wkyc.com/article/news/politics/armed-protesters-gather-at-home-of-ohio-health-director-amy-acton/95-578654340 — in Politicians\Democrats\Governors\Amy Acton\The COVID Tenure and the Political Fallout.md
-- **DEAD LINK (404)**: https://www.wkyc.com/article/news/politics/armed-protesters-gather-at-home-of-ohio-health-director-amy-acton/95-578654340 — in Politicians\Democrats\Governors\Amy Acton\The COVID Tenure and the Political Fallout.md
-- **DEAD LINK (404)**: https://www.amyacton.com/healthcare-plan — in Politicians\Democrats\Governors\Amy Acton\The Healthcare Platform and the Insurance Industry Question.md, Politicians\Democrats\Governors\Amy Acton\The Healthcare Platform and the Insurance Industry Question.md
-- **DEAD LINK (404)**: https://www.amyacton.com/healthcare-plan — in Politicians\Democrats\Governors\Amy Acton\The Healthcare Platform and the Insurance Industry Question.md, Politicians\Democrats\Governors\Amy Acton\The Healthcare Platform and the Insurance Industry Question.md
-- **DEAD LINK (404)**: https://www.cms.gov/marketplace-state-data/ohio — in Politicians\Democrats\Governors\Amy Acton\The Healthcare Platform and the Insurance Industry Question.md
-- **DEAD LINK (404)**: https://www.cms.gov/marketplace-state-data/ohio — in Politicians\Democrats\Governors\Amy Acton\The Healthcare Platform and the Insurance Industry Question.md
-- **DEAD LINK (404)**: https://www.ohiohospitals.org/advocacy/rural-hospitals-at-risk — in Politicians\Democrats\Governors\Amy Acton\The Healthcare Platform and the Insurance Industry Question.md
-- **DEAD LINK (404)**: https://www.kff.org/medicaid/state-indicator/births-covered-by-medicaid/ — in Politicians\Democrats\Governors\Amy Acton\The Healthcare Platform and the Insurance Industry Question.md
-- **DEAD LINK (404)**: https://www.ohiohospitals.org/advocacy/rural-hospitals-at-risk — in Politicians\Democrats\Governors\Amy Acton\The Healthcare Platform and the Insurance Industry Question.md
-- **DEAD LINK (404)**: https://www.kff.org/medicaid/state-indicator/births-covered-by-medicaid/ — in Politicians\Democrats\Governors\Amy Acton\The Healthcare Platform and the Insurance Industry Question.md
-- **DEAD LINK (404)**: https://www.statnews.com/article/fda-deregulation-pharma/ — in Politicians\Democrats\Governors\Amy Acton\The Healthcare Platform and the Insurance Industry Question.md
-- **DEAD LINK (404)**: https://www.statnews.com/article/fda-deregulation-pharma/ — in Politicians\Democrats\Governors\Amy Acton\The Healthcare Platform and the Insurance Industry Question.md
-- **DEAD LINK (404)**: https://www.epi.org/publication/right-to-work-states/ — in Politicians\Democrats\Governors\Amy Acton\The Labor Coalition and What Unions Expect.md, Politicians\Democrats\Governors\Amy Acton\The Labor Coalition and What Unions Expect.md
-- **DEAD LINK (404)**: https://www.epi.org/publication/right-to-work-states/ — in Politicians\Democrats\Governors\Amy Acton\The Labor Coalition and What Unions Expect.md, Politicians\Democrats\Governors\Amy Acton\The Labor Coalition and What Unions Expect.md
+- **DEAD LINK (404, no archive)**: https://www.nasa.gov/press-release/nasa-selects-blue-origin-for-second-artemis-moon-lander, in Donors & Power Networks\Mega-Donors\Jeff Bezos.md
+- **DEAD LINK (404, no archive)**: https://projects.propublica.org/nonprofits/organizations/273725506, in Donors & Power Networks\Mega-Donors\Jeffrey Katzenberg.md
+- **DEAD LINK (404, no archive)**: https://www.theguardian.com/us-news/2024/apr/01/billionaire-donor-tiktok-stake, in Donors & Power Networks\Mega-Donors\Jeffrey Yass.md
+- **DEAD LINK (404, no archive)**: https://www.theguardian.com/business/2024/mar/12/hedge-fund-billionaire-kenneth-griffin, in Donors & Power Networks\Mega-Donors\Ken Griffin.md
+- **DEAD LINK (404, no archive)**: https://www.politico.com/story/2015/01/koch-2016-702-million-702-million-114604, in Donors & Power Networks\Mega-Donors\Koch Network - Charles Koch.md, Donors & Power Networks\Mega-Donors\Koch Network - Charles Koch.md
+- **DEAD LINK (404, no archive)**: https://www.motherjones.com/politics/2013/02/donors-trust-donor-advised-fund-koch-dark-money/, in Donors & Power Networks\Mega-Donors\Koch Network - Charles Koch.md, Donors & Power Networks\Mega-Donors\Koch Network - Charles Koch.md
+- **DEAD LINK (404)**: https://lda.gov/filings/public/filing/search/, in Donors & Power Networks\Tech & Crypto\Meta - Facebook.md
+- **DEAD LINK (404)**: https://lda.gov/filings/public/filing/search/, in Donors & Power Networks\Tech & Crypto\Meta - Facebook.md
+- **DEAD LINK (404, no archive)**: https://www.brookings.edu/articles/alec-model-bills-are-more-likely-to-become-law-heres-why/, in Donors & Power Networks\Mega-Donors\Koch Network - Charles Koch.md, Donors & Power Networks\Mega-Donors\Koch Network - Charles Koch.md
+- **DEAD LINK (404, no archive)**: https://www.cnbc.com/2017/06/26/koch-network-warns-donors-are-closing-wallets-until-they-see-legislative-progress.html, in Donors & Power Networks\Mega-Donors\Koch Network - Charles Koch.md, Donors & Power Networks\Mega-Donors\Koch Network - Charles Koch.md
+- **DEAD LINK (404, no archive)**: https://americansfortaxfairness.org/tax-fairness-briefing-booklet/fact-sheet-koch-brothers-exposed-billionaires-fuel-extreme-right/, in Donors & Power Networks\Mega-Donors\Koch Network - Charles Koch.md
+- **DEAD LINK (404, no archive)**: https://finance.yahoo.com/news/larry-ellison-net-worth-update-from-topping-musk-in-2025-to-losing-19-of-his-wealth-in-2026-203114110.html, in Donors & Power Networks\Mega-Donors\Larry Ellison.md
+- **DEAD LINK (404, no archive)**: https://www.ftc.gov/news-events/news/press-releases/2019/07/ftc-imposes-5-billion-penalty-sweeping-new-privacy-restrictions-facebook, in Donors & Power Networks\Mega-Donors\Mark Zuckerberg.md, Donors & Power Networks\Tech & Crypto\Meta - Facebook.md
+- **DEAD LINK (404, no archive)**: https://web.archive.org/web/2019/https:/www.cnn.com/politics/news/2018-midterms-bloomberg-spending, in Donors & Power Networks\Mega-Donors\Michael Bloomberg.md
+- **DEAD LINK (404)**: https://www.americanimmigrationcouncil.org/research/h-1b-visa-program-overview, in Donors & Power Networks\Tech & Crypto\Silicon Valley Democratic Donor Network.md
+- **DEAD LINK (404)**: https://www.nasa.gov/humans-in-space/commercial-space/spacex/, in Donors & Power Networks\Tech & Crypto\SpaceX.md
+- **DEAD LINK (404, no archive)**: https://www.influencewatch.org/non-profit/independence-usa-pac/, in Donors & Power Networks\Mega-Donors\Michael Bloomberg.md
+- **DEAD LINK (404)**: https://www.americanimmigrationcouncil.org/research/h-1b-visa-program-overview, in Donors & Power Networks\Tech & Crypto\Silicon Valley Democratic Donor Network.md
+- **DEAD LINK (404)**: https://www.nasa.gov/humans-in-space/commercial-space/spacex/, in Donors & Power Networks\Tech & Crypto\SpaceX.md
+- **DEAD LINK (404, no archive)**: https://www.influencewatch.org/person/paul-singer/, in Donors & Power Networks\Mega-Donors\Paul Singer.md
+- **DEAD LINK (404, no archive)**: https://www.cnbc.com/2024/03/15/rebekah-mercer-trump.html, in Donors & Power Networks\Mega-Donors\Rebekah Mercer.md
+- **DEAD LINK (404, no archive)**: https://fortune.com/2016/11/17/trump-transition-women/, in Donors & Power Networks\Mega-Donors\Rebekah Mercer.md
+- **DEAD LINK (404, no archive)**: https://elections.wi.gov/state-candidates-and-committees, in Donors & Power Networks\Mega-Donors\Reid Hoffman.md
+- **DEAD LINK (404)**: https://www.justice.gov/archives/opa/pr/bank-america-pay-1665-billion-historic-justice-department-settlement-financial-fraud-leading, in Donors & Power Networks\Wall Street\Bank of America.md
+- **DEAD LINK (404)**: https://www.justice.gov/archives/opa/pr/bank-america-pay-1665-billion-historic-justice-department-settlement-financial-fraud-leading, in Donors & Power Networks\Wall Street\Bank of America.md
+- **DEAD LINK (404, no archive)**: https://www.hsgac.senate.gov/subcommittees/investigations/, in Donors & Power Networks\Mega-Donors\Renaissance Technologies and the 7 Billion Dollar Tax Settlement.md, Donors & Power Networks\Mega-Donors\Robert Mercer.md
+- **DEAD LINK (404)**: https://www.ft.com/content/blackrock-esg-backlash, in Donors & Power Networks\Wall Street\Blackrock.md
+- **DEAD LINK (404)**: https://www.ft.com/content/blackrock-esg-backlash, in Donors & Power Networks\Wall Street\Blackrock.md
+- **DEAD LINK (404, no archive)**: https://www.cbsnews.com/news/gop-megadonor-richard-uihlein-pours-millions-into-effort-to-hinder-ohio-abortion-amendment/, in Donors & Power Networks\Mega-Donors\Richard and Elizabeth Uihlein.md
+- **DEAD LINK (404)**: https://www.ohchr.org/en/press-releases/2019/03/un-housing-expert-blackstone, in Donors & Power Networks\Wall Street\Blackstone Group.md
+- **DEAD LINK (404)**: https://www.ohchr.org/en/press-releases/2019/03/un-housing-expert-blackstone, in Donors & Power Networks\Wall Street\Blackstone Group.md
+- **DEAD LINK (404)**: https://americansfortaxfairness.org/issue/carried-interest/, in Donors & Power Networks\Wall Street\Blackstone Group.md, Donors & Power Networks\Wall Street\Private Equity Industry Bloc.md
+- **DEAD LINK (404)**: https://americansfortaxfairness.org/issue/carried-interest/, in Donors & Power Networks\Wall Street\Blackstone Group.md, Donors & Power Networks\Wall Street\Private Equity Industry Bloc.md
+- **DEAD LINK (404, no archive)**: https://www.justice.gov/usao-sdny/united-states-v-samuel-bankman-fried-aka-sbf-22-cr-673-lak, in Donors & Power Networks\Mega-Donors\Sam Bankman-Fried.md, Donors & Power Networks\Tech & Crypto\FTX - Sam Bankman-Fried.md
+- **DEAD LINK (404, no archive)**: https://taxfoundation.org/research/all/federal/carried-interest-tax-debate/, in Donors & Power Networks\Mega-Donors\Stephen Schwarzman.md
+- **DEAD LINK (404, no archive)**: https://itep.org/private-equity-tax-loophole/, in Donors & Power Networks\Mega-Donors\Stephen Schwarzman.md
+- **DEAD LINK (404, no archive)**: https://finance.yahoo.com/news/reclusive-billionaire-timothy-mellon-has-spent-504-million-on-trump-and-gop-causes-113025926.html, in Donors & Power Networks\Mega-Donors\Timothy Mellon.md
+- **DEAD LINK (404)**: https://en.wikipedia.org/wiki/Paul_Singer_(businessman, in Donors & Power Networks\Wall Street\Elliott Management.md
+- **DEAD LINK (404)**: https://en.wikipedia.org/wiki/Paul_Singer_(businessman, in Donors & Power Networks\Wall Street\Elliott Management.md
+- **DEAD LINK (404, no archive)**: https://www.cnbc.com/2024/11/07/timothy-mellon-quietly-spent-165-million-on-2024-election-making-him-second-largest-donor.html, in Donors & Power Networks\Mega-Donors\Timothy Mellon.md
+- **DEAD LINK (404, no archive)**: https://fortune.com/2025/10/15/timothy-mellon-donates-130-million-to-military-pay-during-shutdown/, in Donors & Power Networks\Mega-Donors\Timothy Mellon.md
+- **DEAD LINK (404, no archive)**: https://www.texastribune.org/2025/06/02/texas-border-wall-funding/, in Donors & Power Networks\Mega-Donors\Timothy Mellon.md
+- **DEAD LINK (404, no archive)**: https://web.archive.org/web/2024/https:/www.cnn.com/politics/live-news/maga-super-pac-spending, in Donors & Power Networks\Mega-Donors\Timothy Mellon.md
+- **DEAD LINK (404)**: https://www.opensecrets.org/political-action-committees-pacs/C00351658/summary, in Donors & Power Networks\Wall Street\Elliott Management.md
+- **DEAD LINK (404)**: https://www.opensecrets.org/political-action-committees-pacs/C00351658/summary, in Donors & Power Networks\Wall Street\Elliott Management.md
+- **DEAD LINK (404, no archive)**: https://fortune.com/person/timothy-mellon/, in Donors & Power Networks\Mega-Donors\Timothy Mellon.md
+- **DEAD LINK (404, no archive)**: https://archive.vanityfair.com/article/2024/10/a-house-divided, in Donors & Power Networks\Mega-Donors\Timothy Mellon.md
+- **DEAD LINK (404)**: https://www.sec.gov/divisions/investment/ia-registration-stats.shtml, in Donors & Power Networks\Wall Street\Hedge Fund Industry Bloc.md
+- **DEAD LINK (404)**: https://www.sec.gov/divisions/investment/ia-registration-stats.shtml, in Donors & Power Networks\Wall Street\Hedge Fund Industry Bloc.md
+- **DEAD LINK (404)**: https://www.federalreserve.gov/supervisionreg/stress-tests-capital-planning.htm, in Donors & Power Networks\Wall Street\JPMorgan Chase.md
+- **DEAD LINK (404)**: https://www.federalreserve.gov/supervisionreg/stress-tests-capital-planning.htm, in Donors & Power Networks\Wall Street\JPMorgan Chase.md
+- **DEAD LINK (404, no archive)**: https://www.fns.usda.gov/snap/retailer-data, in Donors & Power Networks\Mega-Donors\Walmart - Walton Family.md
+- **DEAD LINK (404)**: https://www.justice.gov/archives/opa/pr/wells-fargo-agrees-pay-3-billion-resolve-criminal-and-civil-investigations-sales-practices, in Donors & Power Networks\Wall Street\Wells Fargo.md
+- **DEAD LINK (404)**: https://www.justice.gov/archives/opa/pr/wells-fargo-agrees-pay-3-billion-resolve-criminal-and-civil-investigations-sales-practices, in Donors & Power Networks\Wall Street\Wells Fargo.md
+- **DEAD LINK (404, no archive)**: https://www.fda.gov/drugs/therapeutic-biologics-applications-bla/insulin, in Donors & Power Networks\Pharma & Healthcare\Novo Nordisk.md
+- **DEAD LINK (404, no archive)**: https://fortune.com/2020/11/09/pfizer-vaccine-funding-warp-speed/, in Donors & Power Networks\Pharma & Healthcare\Pfizer.md
+- **DEAD LINK (404, no archive)**: https://msfaccess.org/msf-response-license-between-pfizer-and-medicines-patent-pool-for-new-covid-19-treatment-paxlovid, in Donors & Power Networks\Pharma & Healthcare\Pfizer.md
+- **DEAD LINK (404, no archive)**: https://www.cms.gov/priorities/medicare-prescription-drug-affordability/overview/medicare-drug-price-negotiation-program, in Donors & Power Networks\Pharma & Healthcare\PhRMA.md, Stories\Published\Contradiction Deep Dives\Contradiction 03 - PhRMA Kills Drug Negotiation From Both Sides.md
+- **DEAD LINK (404, no archive)**: https://kffhealthnews.org/news/non-profit-linked-to-phrma-rolls-out-campaign-to-block-drug-imports/, in Donors & Power Networks\Pharma & Healthcare\PhRMA.md
+- **DEAD LINK (404)**: https://lda.gov/filings/public/filing/search/, in Lobbying Firms & K Street\Akin Gump Strauss Hauer & Feld.md
+- **DEAD LINK (404, no archive)**: https://www.federalreserve.gov/econres/notes/feds-notes/institutional-investors-single-family-housing.html, in Donors & Power Networks\Real Estate\Invitation Homes - Institutional Landlords.md
+- **DEAD LINK (404, no archive)**: https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=sheldon%20adelson, in Donors & Power Networks\Real Estate\Las Vegas Sands.md
+- **DEAD LINK (404)**: https://www.middleeasteye.net/news/us-lobby-firm-secures-2m-contract-whitewash-khalifa-haftars-image, in Lobbying Firms & K Street\Ballard Partners.md
+- **DEAD LINK (404)**: https://www.middleeasteye.net/news/us-lobby-firm-secures-2m-contract-whitewash-khalifa-haftars-image, in Lobbying Firms & K Street\Ballard Partners.md
+- **DEAD LINK (404, no archive)**: https://www.irs.gov/credits-and-deductions-for-businesses/opportunity-zones, in Donors & Power Networks\Real Estate\Real Estate Roundtable.md
+- **DEAD LINK (404, no archive)**: https://www.cnbc.com/2022/08/04/kyrsten-sinema-demands-carried-interest-change-removed-from-manchin-schumer-climate-deal.html, in Donors & Power Networks\Real Estate\Real Estate Roundtable.md
+- **DEAD LINK (404, no archive)**: https://www.brookings.edu/articles/opportunity-zones-what-we-know-and-what-we-dont/, in Donors & Power Networks\Real Estate\Real Estate Roundtable.md
+- **DEAD LINK (404, no archive)**: https://www.cnbc.com/2017/02/03/blackstones-schwarzman-on-trump-business-advisory-council.html, in Donors & Power Networks\Real Estate\Real Estate Roundtable.md
+- **DEAD LINK (404)**: https://en.wikipedia.org/wiki/Gerald_Cassidy_(lobbyist, in Lobbying Firms & K Street\Cassidy & Associates.md
+- **DEAD LINK (404)**: https://en.wikipedia.org/wiki/Gerald_Cassidy_(lobbyist, in Lobbying Firms & K Street\Cassidy & Associates.md
+- **DEAD LINK (404, no archive)**: https://www.chicagotribune.com/politics/ct-aipac-spending-illinois-20240930-story.html, in Donors & Power Networks\Super PACs\Affordable Chicago Now PAC.md
+- **DEAD LINK (404)**: https://www.opensecrets.org/revolving-door?id=D000021982, in Lobbying Firms & K Street\Fierce Government Relations.md
+- **DEAD LINK (404)**: https://www.opensecrets.org/revolving-door?id=D000021982, in Lobbying Firms & K Street\Fierce Government Relations.md
+- **DEAD LINK (404, no archive)**: https://www.latimes.com/politics/story/2023-04-11/could-california-decide-control-of-congress-a-democratic-super-pac-plans-to-spend-35-million-in-the-staten-into-california/, in Donors & Power Networks\Super PACs\House Majority PAC.md
+- **DEAD LINK (404, no archive)**: https://projects.propublica.org/nonprofits/organizations/854970843, in Donors & Power Networks\Super PACs\Marble Freedom Trust.md
+- **DEAD LINK (404, no archive)**: https://projects.propublica.org/nonprofits/organizations/474943695, in Donors & Power Networks\Super PACs\One Nation.md
+- **DEAD LINK (404, no archive)**: https://campaignlegal.org/press-releases/breaking-campaign-legal-center-files-fec-complaint-against-former-president-donald, in Donors & Power Networks\Super PACs\Save America PAC.md, Donors & Power Networks\Super PACs\Save America PAC.md
+- **DEAD LINK (404)**: https://en.wikipedia.org/wiki/Tiber_Creek_Group, in Lobbying Firms & K Street\Peck Madigan Jones.md
+- **DEAD LINK (404)**: https://en.wikipedia.org/wiki/Tiber_Creek_Group, in Lobbying Firms & K Street\Peck Madigan Jones.md
+- **DEAD LINK (404, no archive)**: https://www.opensecrets.org/pacs/super-pacs/2024, in Donors & Power Networks\Super PACs\Susan B. Anthony Pro-Life America PAC.md
+- **DEAD LINK (404, no archive)**: https://www.theguardian.com/us-news/2024/abortion-pac-influence, in Donors & Power Networks\Super PACs\Susan B. Anthony Pro-Life America PAC.md
+- **DEAD LINK (404, no archive)**: https://www.opensecrets.org/pacs/svb-pac, in Donors & Power Networks\Super PACs\SV&B PAC.md
+- **DEAD LINK (404, no archive)**: https://www.nextgov.com/digital-government/2022/12/amazon-google-microsoft-oracle-awarded-9b-pentagon-cloud-contract/380596/, in Donors & Power Networks\Tech & Crypto\Amazon.md
+- **DEAD LINK (404, no archive)**: https://www.cnn.com/2019/02/tech/amazon-hq2-nyc, in Donors & Power Networks\Tech & Crypto\Amazon.md
+- **DEAD LINK (404, no archive)**: https://defensescoop.com/2023/09/08/eric-schmidt-led-panel-pushing-for-new-defense-experimentation-unit-to-drive-military-adoption-of-generative-ai/se-experimentation-unit-to-drive-military-adoption-of-generative-ai/, in Donors & Power Networks\Tech & Crypto\Eric Schmidt.md
+- **DEAD LINK (404, no archive)**: https://www.cnn.com/2025/01/25/politics/crypto-regulation-gensler-replacement/, in Donors & Power Networks\Tech & Crypto\Fairshake PAC.md
+- **DEAD LINK (404, no archive)**: https://www.investmentlawwatch.com/2025/01/24/president-trump-executive-order-steering-digital-assets-policy/, in Donors & Power Networks\Tech & Crypto\Fairshake PAC.md
+- **DEAD LINK (404)**: https://en.wikipedia.org/wiki/The_Free_Press_(Paramount_Skydance, in Media & Influence Pipeline\Centrist\Bari Weiss.md
+- **DEAD LINK (404)**: https://en.wikipedia.org/wiki/The_Free_Press_(Paramount_Skydance, in Media & Influence Pipeline\Centrist\Bari Weiss.md
+- **DEAD LINK (404)**: https://en.wikipedia.org/wiki/All-In_(podcast)), in Media & Influence Pipeline\Centrist\Destiny - Steven Bonnell.md
+- **DEAD LINK (404)**: https://en.wikipedia.org/wiki/All-In_(podcast)), in Media & Influence Pipeline\Centrist\Destiny - Steven Bonnell.md
+- **DEAD LINK (404)**: https://cces.mit.edu/team/lex-fridman/, in Media & Influence Pipeline\Centrist\Lex Fridman.md
+- **DEAD LINK (404)**: https://cces.mit.edu/team/lex-fridman/, in Media & Influence Pipeline\Centrist\Lex Fridman.md
+- **DEAD LINK (404)**: https://www.currentaffairs.org/posts/the-guy-who-just-loves-everyone, in Media & Influence Pipeline\Centrist\Lex Fridman.md
+- **DEAD LINK (404)**: https://www.currentaffairs.org/posts/the-guy-who-just-loves-everyone, in Media & Influence Pipeline\Centrist\Lex Fridman.md
+- **DEAD LINK (404)**: https://www.wired.com/story/a-dark-money-group-is-secretly-funding-high-profile-democratic-influencers/, in Media & Influence Pipeline\Left\David Pakman.md
+- **DEAD LINK (404)**: https://www.wired.com/story/a-dark-money-group-is-secretly-funding-high-profile-democratic-influencers/, in Media & Influence Pipeline\Left\David Pakman.md
+- **DEAD LINK (404)**: https://en.wikipedia.org/wiki/Sputnik_(TV_programme, in Media & Influence Pipeline\Left\George Galloway.md
+- **DEAD LINK (404)**: https://en.wikipedia.org/wiki/Sputnik_(TV_programme, in Media & Influence Pipeline\Left\George Galloway.md
+- **DEAD LINK (404, no archive)**: https://www.americanimmigrationcouncil.org/research/h-1b-visa-program-overview, in Donors & Power Networks\Tech & Crypto\Silicon Valley Democratic Donor Network.md
+- **DEAD LINK (404, no archive)**: https://www.nasa.gov/humans-in-space/commercial-space/spacex/, in Donors & Power Networks\Tech & Crypto\SpaceX.md
+- **DEAD LINK (404)**: https://www.thenation.com/article/news/jacobin-sunkara-nation/, in Media & Influence Pipeline\Left\Jacobin.md
+- **DEAD LINK (404)**: https://www.thenation.com/article/news/jacobin-sunkara-nation/, in Media & Influence Pipeline\Left\Jacobin.md
+- **DEAD LINK (404)**: https://www.dropsitenews.com/author/jeremy-scahill/, in Media & Influence Pipeline\Left\Jeremy Scahill.md
+- **DEAD LINK (404)**: https://www.dropsitenews.com/author/jeremy-scahill/, in Media & Influence Pipeline\Left\Jeremy Scahill.md
+- **DEAD LINK (404)**: https://en.wikipedia.org/wiki/Lee_Camp_(comedian, in Media & Influence Pipeline\Left\Lee Camp.md
+- **DEAD LINK (404)**: https://en.wikipedia.org/wiki/Lee_Camp_(comedian, in Media & Influence Pipeline\Left\Lee Camp.md
+- **DEAD LINK (404, no archive)**: https://www.justice.gov/archives/opa/pr/bank-america-pay-1665-billion-historic-justice-department-settlement-financial-fraud-leading, in Donors & Power Networks\Wall Street\Bank of America.md
+- **DEAD LINK (404)**: https://en.wikipedia.org/wiki/Jon_Favreau_(speechwriter, in Media & Influence Pipeline\Left\Pod Save America.md
+- **DEAD LINK (404)**: https://en.wikipedia.org/wiki/Jon_Favreau_(speechwriter, in Media & Influence Pipeline\Left\Pod Save America.md
+- **DEAD LINK (404, no archive)**: https://www.ft.com/content/blackrock-esg-backlash, in Donors & Power Networks\Wall Street\Blackrock.md
+- **DEAD LINK (404)**: https://www.dropsitenews.com/author/ryan-grim/, in Media & Influence Pipeline\Left\Ryan Grim.md
+- **DEAD LINK (404)**: https://www.dropsitenews.com/author/ryan-grim/, in Media & Influence Pipeline\Left\Ryan Grim.md
+- **DEAD LINK (404)**: https://en.wikipedia.org/wiki/Air_America_(radio_network), in Media & Influence Pipeline\Left\Sam Seder.md
+- **DEAD LINK (404)**: https://en.wikipedia.org/wiki/Air_America_(radio_network), in Media & Influence Pipeline\Left\Sam Seder.md
+- **DEAD LINK (404, no archive)**: https://www.ohchr.org/en/press-releases/2019/03/un-housing-expert-blackstone, in Donors & Power Networks\Wall Street\Blackstone Group.md
+- **DEAD LINK (404, no archive)**: https://www.ft.com/content/blackstone-saudi-pif, in Donors & Power Networks\Wall Street\Blackstone Group.md
+- **DEAD LINK (404, no archive)**: https://en.wikipedia.org/wiki/Paul_Singer_(businessman, in Donors & Power Networks\Wall Street\Elliott Management.md
+- **DEAD LINK (404)**: https://projects.propublica.org/nonprofits/organizations/135626156, in Media & Influence Pipeline\Right\Christopher Rufo.md
+- **DEAD LINK (404)**: https://projects.propublica.org/nonprofits/organizations/855631396, in Media & Influence Pipeline\Right\Christopher Rufo.md
+- **DEAD LINK (404, no archive)**: https://www.opensecrets.org/political-action-committees-pacs/C00351658/summary, in Donors & Power Networks\Wall Street\Elliott Management.md
+- **DEAD LINK (404)**: https://www.motherjones.com/politics/2023/06/anti-dei-activists-dark-money/, in Media & Influence Pipeline\Right\Christopher Rufo.md
+- **DEAD LINK (404)**: https://www.motherjones.com/politics/2023/03/bradley-foundation-woke-culture-war/, in Media & Influence Pipeline\Right\Christopher Rufo.md
+- **DEAD LINK (404)**: https://www.politico.com/news/2021/10/07/christopher-rufo-anti-crt-republican-politics, in Media & Influence Pipeline\Right\Christopher Rufo.md
+- **DEAD LINK (404)**: https://www.chronicle.com/articles/new-college-enrollment-crisis, in Media & Influence Pipeline\Right\Christopher Rufo.md
+- **DEAD LINK (404)**: https://marginalrevolution.com/marginalrevolution/2025/new-college-florida-cost.html, in Media & Influence Pipeline\Right\Christopher Rufo.md
+- **DEAD LINK (404)**: https://projects.propublica.org/nonprofits/organizations/135626156, in Media & Influence Pipeline\Right\Christopher Rufo.md
+- **DEAD LINK (404)**: https://projects.propublica.org/nonprofits/organizations/855631396, in Media & Influence Pipeline\Right\Christopher Rufo.md
+- **DEAD LINK (404)**: https://www.motherjones.com/politics/2023/06/anti-dei-activists-dark-money/, in Media & Influence Pipeline\Right\Christopher Rufo.md
+- **DEAD LINK (404)**: https://www.motherjones.com/politics/2023/03/bradley-foundation-woke-culture-war/, in Media & Influence Pipeline\Right\Christopher Rufo.md
+- **DEAD LINK (404)**: https://en.wikipedia.org/wiki/Matt_Walsh_(political_commentator, in Media & Influence Pipeline\Right\Daily Wire.md, Media & Influence Pipeline\Right\Matt Walsh.md
+- **DEAD LINK (404)**: https://www.politico.com/news/2021/10/07/christopher-rufo-anti-crt-republican-politics, in Media & Influence Pipeline\Right\Christopher Rufo.md
+- **DEAD LINK (404)**: https://www.chronicle.com/articles/new-college-enrollment-crisis, in Media & Influence Pipeline\Right\Christopher Rufo.md
+- **DEAD LINK (404)**: https://marginalrevolution.com/marginalrevolution/2025/new-college-florida-cost.html, in Media & Influence Pipeline\Right\Christopher Rufo.md
+- **DEAD LINK (404)**: https://en.wikipedia.org/wiki/Matt_Walsh_(political_commentator, in Media & Influence Pipeline\Right\Daily Wire.md, Media & Influence Pipeline\Right\Matt Walsh.md
+- **DEAD LINK (404, no archive)**: https://www.sec.gov/divisions/investment/ia-registration-stats.shtml, in Donors & Power Networks\Wall Street\Hedge Fund Industry Bloc.md
+- **DEAD LINK (404)**: https://projects.propublica.org/nonprofits/organizations/136181096, in Media & Influence Pipeline\Right\Dinesh D'Souza.md
+- **DEAD LINK (404)**: https://projects.propublica.org/nonprofits/organizations/136181096, in Media & Influence Pipeline\Right\Dinesh D'Souza.md
+- **DEAD LINK (404, no archive)**: https://www.federalreserve.gov/supervisionreg/stress-tests-capital-planning.htm, in Donors & Power Networks\Wall Street\JPMorgan Chase.md
+- **DEAD LINK (404)**: https://www.laughfactory.com/comedians/JimmyDore, in Media & Influence Pipeline\Right\Jimmy Dore.md
+- **DEAD LINK (404)**: https://www.laughfactory.com/comedians/JimmyDore, in Media & Influence Pipeline\Right\Jimmy Dore.md
+- **DEAD LINK (404)**: https://en.wikipedia.org/wiki/Michael_Knowles_(political_commentator, in Media & Influence Pipeline\Right\Michael Knowles.md
+- **DEAD LINK (404)**: https://en.wikipedia.org/wiki/Michael_Knowles_(political_commentator, in Media & Influence Pipeline\Right\Michael Knowles.md
+- **DEAD LINK (404)**: https://www.adl.org/resources/blog/rumble-emerges-platform-choice-antisemitic-and-far-right-extremist-content, in Media & Influence Pipeline\Right\Rumble.md
+- **DEAD LINK (404)**: https://www.adl.org/resources/blog/rumble-emerges-platform-choice-antisemitic-and-far-right-extremist-content, in Media & Influence Pipeline\Right\Rumble.md
+- **DEAD LINK (404)**: https://en.wikipedia.org/wiki/Rumble_(company, in Media & Influence Pipeline\Right\Rumble.md
+- **DEAD LINK (404)**: https://en.wikipedia.org/wiki/Rumble_(company, in Media & Influence Pipeline\Right\Rumble.md
+- **DEAD LINK (404, no archive)**: https://www.justice.gov/archives/opa/pr/wells-fargo-agrees-pay-3-billion-resolve-criminal-and-civil-investigations-sales-practices, in Donors & Power Networks\Wall Street\Wells Fargo.md
+- **DEAD LINK (404, no archive)**: https://lda.gov/filings/public/filing/search/, in Lobbying Firms & K Street\Akin Gump Strauss Hauer & Feld.md
+- **DEAD LINK (404)**: https://www.cnbc.com/2025/03/14/david-sacks-sold-200-million-in-crypto-holdings-before-wh-job.html, in Media & Influence Pipeline\The Both-Sides Illusion (Media Edition). Shared Infrastructure Behind Opposing Voices.md
+- **DEAD LINK (404)**: https://www.cnbc.com/2025/03/14/david-sacks-sold-200-million-in-crypto-holdings-before-wh-job.html, in Media & Influence Pipeline\The Both-Sides Illusion (Media Edition). Shared Infrastructure Behind Opposing Voices.md
+- **DEAD LINK (404, no archive)**: https://www.opensecrets.org/revolving-door?id=D000000162, in Lobbying Firms & K Street\Akin Gump Strauss Hauer & Feld.md
+- **DEAD LINK (404, no archive)**: https://www.middleeasteye.net/news/us-lobby-firm-secures-2m-contract-whitewash-khalifa-haftars-image, in Lobbying Firms & K Street\Ballard Partners.md
+- **DEAD LINK (404)**: https://www.latimes.com/california/story/2022-10-31/la-mansion-tax-measure-ula-explained, in Politicians\Democrats\CA Governor 2026\Antonio Villaraigosa\The Real Estate Mayor and the 2026 Donor Coalition.md
+- **DEAD LINK (404)**: https://www.latimes.com/california/story/2022-10-31/la-mansion-tax-measure-ula-explained, in Politicians\Democrats\CA Governor 2026\Antonio Villaraigosa\The Real Estate Mayor and the 2026 Donor Coalition.md
+- **DEAD LINK (404)**: https://www.sandiegouniontribune.com/la-pol-ca-essential-politics-updates-netflix-ceo-and-ed-reform-advocate-reed-1523495119-htmlstory.html, in Politicians\Democrats\CA Governor 2026\Antonio Villaraigosa\_Antonio Villaraigosa Master Profile.md, Politicians\Democrats\CA Governor 2026\Tony Thurmond\The Education Establishment and the Charter School War.md
+- **DEAD LINK (404)**: https://www.sandiegouniontribune.com/la-pol-ca-essential-politics-updates-netflix-ceo-and-ed-reform-advocate-reed-1523495119-htmlstory.html, in Politicians\Democrats\CA Governor 2026\Antonio Villaraigosa\_Antonio Villaraigosa Master Profile.md, Politicians\Democrats\CA Governor 2026\Tony Thurmond\The Education Establishment and the Charter School War.md
+- **DEAD LINK (404, no archive)**: https://en.wikipedia.org/wiki/Gerald_Cassidy_(lobbyist, in Lobbying Firms & K Street\Cassidy & Associates.md
+- **DEAD LINK (404)**: https://www.cnbc.com/2024/11/13/crypto-firms-dump-77-million-into-fairshake-pac-for-2026/, in Politicians\Democrats\CA Governor 2026\Katie Porter\Fairshake and the Crypto Industry War.md
+- **DEAD LINK (404)**: https://www.cnbc.com/2024/11/13/crypto-firms-dump-77-million-into-fairshake-pac-for-2026/, in Politicians\Democrats\CA Governor 2026\Katie Porter\Fairshake and the Crypto Industry War.md
+- **DEAD LINK (404)**: https://sfist.com/2024/02/23/fairshake-super-pac-spends-millions-on-ads-against-katie-porter/, in Politicians\Democrats\CA Governor 2026\Katie Porter\Fairshake and the Crypto Industry War.md
+- **DEAD LINK (404)**: https://sfist.com/2024/02/23/fairshake-super-pac-spends-millions-on-ads-against-katie-porter/, in Politicians\Democrats\CA Governor 2026\Katie Porter\Fairshake and the Crypto Industry War.md
+- **DEAD LINK (404, no archive)**: https://www.opensecrets.org/revolving-door?id=D000021982, in Lobbying Firms & K Street\Fierce Government Relations.md
+- **DEAD LINK (404)**: https://www.opensecrets.org/2020-presidential-race/, in Politicians\Democrats\CA Governor 2026\Tom Steyer\The Self-Funded Billionaire Model.md
+- **DEAD LINK (404)**: https://www.opensecrets.org/2020-presidential-race/, in Politicians\Democrats\CA Governor 2026\Tom Steyer\The Self-Funded Billionaire Model.md
+- **DEAD LINK (404)**: https://www.fiercehealthcare.com/hospitals/from-340b-to-price-transparency-here-are-3-takeaways-from-xavier-becerras-confirmation, in Politicians\Democrats\CA Governor 2026\Xavier Becerra\The HHS Record and the Healthcare Industry Question.md
+- **DEAD LINK (404)**: https://www.fiercehealthcare.com/hospitals/from-340b-to-price-transparency-here-are-3-takeaways-from-xavier-becerras-confirmation, in Politicians\Democrats\CA Governor 2026\Xavier Becerra\The HHS Record and the Healthcare Industry Question.md
+- **DEAD LINK (404)**: https://www.wkyc.com/article/news/politics/armed-protesters-gather-at-home-of-ohio-health-director-amy-acton/95-578654340, in Politicians\Democrats\Governors\Amy Acton\The COVID Tenure and the Political Fallout.md
+- **DEAD LINK (404)**: https://www.wkyc.com/article/news/politics/armed-protesters-gather-at-home-of-ohio-health-director-amy-acton/95-578654340, in Politicians\Democrats\Governors\Amy Acton\The COVID Tenure and the Political Fallout.md
+- **DEAD LINK (404)**: https://www.amyacton.com/healthcare-plan, in Politicians\Democrats\Governors\Amy Acton\The Healthcare Platform and the Insurance Industry Question.md, Politicians\Democrats\Governors\Amy Acton\The Healthcare Platform and the Insurance Industry Question.md
+- **DEAD LINK (404)**: https://www.amyacton.com/healthcare-plan, in Politicians\Democrats\Governors\Amy Acton\The Healthcare Platform and the Insurance Industry Question.md, Politicians\Democrats\Governors\Amy Acton\The Healthcare Platform and the Insurance Industry Question.md
+- **DEAD LINK (404)**: https://www.cms.gov/marketplace-state-data/ohio, in Politicians\Democrats\Governors\Amy Acton\The Healthcare Platform and the Insurance Industry Question.md
+- **DEAD LINK (404)**: https://www.cms.gov/marketplace-state-data/ohio, in Politicians\Democrats\Governors\Amy Acton\The Healthcare Platform and the Insurance Industry Question.md
+- **DEAD LINK (404)**: https://www.ohiohospitals.org/advocacy/rural-hospitals-at-risk, in Politicians\Democrats\Governors\Amy Acton\The Healthcare Platform and the Insurance Industry Question.md
+- **DEAD LINK (404)**: https://www.kff.org/medicaid/state-indicator/births-covered-by-medicaid/, in Politicians\Democrats\Governors\Amy Acton\The Healthcare Platform and the Insurance Industry Question.md
+- **DEAD LINK (404)**: https://www.ohiohospitals.org/advocacy/rural-hospitals-at-risk, in Politicians\Democrats\Governors\Amy Acton\The Healthcare Platform and the Insurance Industry Question.md
+- **DEAD LINK (404)**: https://www.kff.org/medicaid/state-indicator/births-covered-by-medicaid/, in Politicians\Democrats\Governors\Amy Acton\The Healthcare Platform and the Insurance Industry Question.md
+- **DEAD LINK (404)**: https://www.statnews.com/article/fda-deregulation-pharma/, in Politicians\Democrats\Governors\Amy Acton\The Healthcare Platform and the Insurance Industry Question.md
+- **DEAD LINK (404)**: https://www.statnews.com/article/fda-deregulation-pharma/, in Politicians\Democrats\Governors\Amy Acton\The Healthcare Platform and the Insurance Industry Question.md
+- **DEAD LINK (404)**: https://www.epi.org/publication/right-to-work-states/, in Politicians\Democrats\Governors\Amy Acton\The Labor Coalition and What Unions Expect.md, Politicians\Democrats\Governors\Amy Acton\The Labor Coalition and What Unions Expect.md
+- **DEAD LINK (404)**: https://www.epi.org/publication/right-to-work-states/, in Politicians\Democrats\Governors\Amy Acton\The Labor Coalition and What Unions Expect.md, Politicians\Democrats\Governors\Amy Acton\The Labor Coalition and What Unions Expect.md
 - **FIXED (404→archive)**: https://en.wikipedia.org/wiki/Tiber_Creek_Group → http://web.archive.org/web/20250825193021/https:/en.wikipedia.org/wiki/Tiber_Creek_Group
-- **DEAD LINK (404)**: https://uaw.org/uaw-endorses-amy-acton-for-ohio-governor/ — in Politicians\Democrats\Governors\Amy Acton\The Labor Coalition and What Unions Expect.md, Politicians\Democrats\Governors\Amy Acton.md
-- **DEAD LINK (404)**: https://uaw.org/uaw-endorses-amy-acton-for-ohio-governor/ — in Politicians\Democrats\Governors\Amy Acton\The Labor Coalition and What Unions Expect.md, Politicians\Democrats\Governors\Amy Acton.md
-- **DEAD LINK (404)**: https://www.emcresearch.com/polling-data/ohio-2026-governor-acton-ramaswamy/ — in Politicians\Democrats\Governors\Amy Acton.md
-- **DEAD LINK (404)**: https://www.emcresearch.com/polling-data/ohio-2026-governor-acton-ramaswamy/ — in Politicians\Democrats\Governors\Amy Acton.md
-- **DEAD LINK (404)**: https://www.latimes.com/california/story/2020-09-30/newsom-police-reform-bills-california — in Politicians\Democrats\Governors\Gavin Newsom\Criminal Justice\Policing Reform - George Floyd Era.md
-- **DEAD LINK (404)**: https://www.latimes.com/california/story/2020-09-30/newsom-police-reform-bills-california — in Politicians\Democrats\Governors\Gavin Newsom\Criminal Justice\Policing Reform - George Floyd Era.md
-- **DEAD LINK (404)**: https://www.latimes.com/california/story/2020-06-30/san-quentin-coronavirus-outbreak — in Politicians\Democrats\Governors\Gavin Newsom\Criminal Justice\San Quentin - COVID Disaster and Rehabilitation Theater.md
-- **DEAD LINK (404)**: https://www.latimes.com/california/story/2020-06-30/san-quentin-coronavirus-outbreak — in Politicians\Democrats\Governors\Gavin Newsom\Criminal Justice\San Quentin - COVID Disaster and Rehabilitation Theater.md
-- **DEAD LINK (404)**: https://itep.org/expert-report-on-the-california-2026-billionaire-tax-revenue-economic-and-constitutional-analysis/ — in Politicians\Democrats\Governors\Gavin Newsom\Economic Policy\Tax Policy - Who Pays and Who Doesnt.md
-- **DEAD LINK (404)**: https://itep.org/expert-report-on-the-california-2026-billionaire-tax-revenue-economic-and-constitutional-analysis/ — in Politicians\Democrats\Governors\Gavin Newsom\Economic Policy\Tax Policy - Who Pays and Who Doesnt.md
-- **DEAD LINK (404)**: https://www.cde.ca.gov/cd/ci/charter/ — in Politicians\Democrats\Governors\Gavin Newsom\Education\Charter Schools and the Billionaire Reform Movement.md
-- **DEAD LINK (404)**: https://www.cde.ca.gov/cd/ci/charter/ — in Politicians\Democrats\Governors\Gavin Newsom\Education\Charter Schools and the Billionaire Reform Movement.md
-- **DEAD LINK (404)**: https://www.latimes.com/california/story/2020-11-24/newsom-children-attend-in-person-private-school — in Politicians\Democrats\Governors\Gavin Newsom\Education\COVID School Closures - Learning Loss and Class Division.md
-- **DEAD LINK (404)**: https://www.latimes.com/california/story/2020-11-24/newsom-children-attend-in-person-private-school — in Politicians\Democrats\Governors\Gavin Newsom\Education\COVID School Closures - Learning Loss and Class Division.md
-- **DEAD LINK (404)**: https://web.archive.org/web/2022/https:/www.edweek.org/leadership/school-reopening-tracker/ — in Politicians\Democrats\Governors\Gavin Newsom\Education\COVID School Closures - Learning Loss and Class Division.md
-- **DEAD LINK (404)**: https://web.archive.org/web/2022/https:/www.edweek.org/leadership/school-reopening-tracker/ — in Politicians\Democrats\Governors\Gavin Newsom\Education\COVID School Closures - Learning Loss and Class Division.md
-- **DEAD LINK (404)**: https://jweekly.com/2019/08/16/newsom-ethnic-studies-draft-offensive/ — in Politicians\Democrats\Governors\Gavin Newsom\Education\Ethnic Studies - Whose History Gets Taught.md
-- **DEAD LINK (404)**: https://jweekly.com/2019/08/16/newsom-ethnic-studies-draft-offensive/ — in Politicians\Democrats\Governors\Gavin Newsom\Education\Ethnic Studies - Whose History Gets Taught.md
-- **DEAD LINK (404)**: https://www.cde.ca.gov/ci/gs/tk/ — in Politicians\Democrats\Governors\Gavin Newsom\Education\Universal Pre-K and Transitional Kindergarten.md
-- **DEAD LINK (404)**: https://www.cde.ca.gov/ci/gs/tk/ — in Politicians\Democrats\Governors\Gavin Newsom\Education\Universal Pre-K and Transitional Kindergarten.md
-- **DEAD LINK (404)**: https://credo.stanford.edu/2024-california-tk-outcomes — in Politicians\Democrats\Governors\Gavin Newsom\Education\Universal Pre-K and Transitional Kindergarten.md
-- **DEAD LINK (404)**: https://credo.stanford.edu/2024-california-tk-outcomes — in Politicians\Democrats\Governors\Gavin Newsom\Education\Universal Pre-K and Transitional Kindergarten.md
-- **DEAD LINK (404)**: https://www.childtrends.org/publications/california-childcare-2024 — in Politicians\Democrats\Governors\Gavin Newsom\Education\Universal Pre-K and Transitional Kindergarten.md
-- **DEAD LINK (404)**: https://www.childtrends.org/publications/california-childcare-2024 — in Politicians\Democrats\Governors\Gavin Newsom\Education\Universal Pre-K and Transitional Kindergarten.md
-- **DEAD LINK (404)**: https://www.biologicaldiversity.org/programs/energy-justice/california/ — in Politicians\Democrats\Governors\Gavin Newsom\Environment\Fracking and Oil Permits - Green Branding vs. Record.md
-- **DEAD LINK (404)**: https://www.biologicaldiversity.org/programs/energy-justice/california/ — in Politicians\Democrats\Governors\Gavin Newsom\Environment\Fracking and Oil Permits - Green Branding vs. Record.md
-- **DEAD LINK (404)**: https://www.latimes.com/california/story/2019-07-12/california-wildfire-legislation-signed-pge — in Politicians\Democrats\Governors\Gavin Newsom\Environment\PG&E - The Utility Donor and the Wildfire Cover.md
-- **DEAD LINK (404)**: https://www.latimes.com/california/story/2019-07-12/california-wildfire-legislation-signed-pge — in Politicians\Democrats\Governors\Gavin Newsom\Environment\PG&E - The Utility Donor and the Wildfire Cover.md
-- **DEAD LINK (404, no archive)**: https://en.wikipedia.org/wiki/The_Free_Press_(Paramount_Skydance — in Media & Influence Pipeline\Centrist\Bari Weiss.md
-- **DEAD LINK (404)**: https://www.disabilityrightsca.org/news/sb-43-gravely-disabled — in Politicians\Democrats\Governors\Gavin Newsom\Healthcare\Mental Health CARE Court and Forced Treatment.md
-- **DEAD LINK (404)**: https://www.disabilityrightsca.org/news/sb-43-gravely-disabled — in Politicians\Democrats\Governors\Gavin Newsom\Healthcare\Mental Health CARE Court and Forced Treatment.md
-- **DEAD LINK (404)**: https://www.ftc.gov/news-events/news/2024/09/ftc-supports-pbm-regulation-california — in Politicians\Democrats\Governors\Gavin Newsom\Healthcare\Prescription Drug Pricing - PBM Veto Cycle.md
-- **DEAD LINK (404)**: https://www.ftc.gov/news-events/news/2024/09/ftc-supports-pbm-regulation-california — in Politicians\Democrats\Governors\Gavin Newsom\Healthcare\Prescription Drug Pricing - PBM Veto Cycle.md
-- **DEAD LINK (404, no archive)**: https://en.wikipedia.org/wiki/All-In_(podcast)) — in Media & Influence Pipeline\Centrist\Destiny - Steven Bonnell.md
-- **DEAD LINK (404)**: https://www.latimes.com/california/story/2024-07-25/newsom-orders-state-agencies-to-clear-homeless-encampments — in Politicians\Democrats\Governors\Gavin Newsom\Housing\Homelessness Spending and Encampments.md
-- **DEAD LINK (404)**: https://www.latimes.com/california/story/2024-07-25/newsom-orders-state-agencies-to-clear-homeless-encampments — in Politicians\Democrats\Governors\Gavin Newsom\Housing\Homelessness Spending and Encampments.md
-- **DEAD LINK (404)**: https://www.latimes.com/california/story/2020-10-01/newsom-prop-21-rent-control — in Politicians\Democrats\Governors\Gavin Newsom\Housing\Rent Control - Props 10, 21, and 33.md
-- **DEAD LINK (404)**: https://www.latimes.com/california/story/2020-10-01/newsom-prop-21-rent-control — in Politicians\Democrats\Governors\Gavin Newsom\Housing\Rent Control - Props 10, 21, and 33.md
-- **DEAD LINK (404)**: https://cdn.ca9.uscourts.gov/datastore/opinions/2022/04/15/20-16496.pdf — in Politicians\Democrats\Governors\Gavin Newsom\Immigration\Private Detention - AB 32.md
-- **DEAD LINK (404)**: https://cdn.ca9.uscourts.gov/datastore/opinions/2022/04/15/20-16496.pdf — in Politicians\Democrats\Governors\Gavin Newsom\Immigration\Private Detention - AB 32.md
-- **DEAD LINK (404)**: https://web.archive.org/web/2023/https:/www.cdcr.ca.gov/ab-32-status — in Politicians\Democrats\Governors\Gavin Newsom\Immigration\Private Detention - AB 32.md
-- **DEAD LINK (404)**: https://web.archive.org/web/2023/https:/www.cdcr.ca.gov/ab-32-status — in Politicians\Democrats\Governors\Gavin Newsom\Immigration\Private Detention - AB 32.md
-- **DEAD LINK (404)**: https://law.ucdavis.edu/2023-california-private-detention-ruling — in Politicians\Democrats\Governors\Gavin Newsom\Immigration\Private Detention - AB 32.md
-- **DEAD LINK (404)**: https://law.ucdavis.edu/2023-california-private-detention-ruling — in Politicians\Democrats\Governors\Gavin Newsom\Immigration\Private Detention - AB 32.md
-- **DEAD LINK (404)**: https://cdn.ca9.uscourts.gov/datastore/opinions/2019/04/18/18-16496.pdf — in Politicians\Democrats\Governors\Gavin Newsom\Immigration\Sanctuary State - SB 54 and What It Actually Does.md
-- **DEAD LINK (404)**: https://cdn.ca9.uscourts.gov/datastore/opinions/2019/04/18/18-16496.pdf — in Politicians\Democrats\Governors\Gavin Newsom\Immigration\Sanctuary State - SB 54 and What It Actually Does.md
-- **DEAD LINK (404)**: https://www.acluca.org/the-california-values-act-what-you-need-to-know/ — in Politicians\Democrats\Governors\Gavin Newsom\Immigration\Sanctuary State - SB 54 and What It Actually Does.md
-- **DEAD LINK (404)**: https://www.acluca.org/the-california-values-act-what-you-need-to-know/ — in Politicians\Democrats\Governors\Gavin Newsom\Immigration\Sanctuary State - SB 54 and What It Actually Does.md
-- **DEAD LINK (404, no archive)**: https://cces.mit.edu/team/lex-fridman/ — in Media & Influence Pipeline\Centrist\Lex Fridman.md
-- **DEAD LINK (404)**: https://www.americanprogress.org/article/sb54-compliance-california/ — in Politicians\Democrats\Governors\Gavin Newsom\Immigration\Sanctuary State - SB 54 and What It Actually Does.md
-- **DEAD LINK (404)**: https://www.americanprogress.org/article/sb54-compliance-california/ — in Politicians\Democrats\Governors\Gavin Newsom\Immigration\Sanctuary State - SB 54 and What It Actually Does.md
-- **DEAD LINK (404)**: https://www.latimes.com/california/story/2025-01-06/newsom-special-session-trump — in Politicians\Democrats\Governors\Gavin Newsom\Immigration\Trump Resistance and the 2028 Play.md
-- **DEAD LINK (404)**: https://www.latimes.com/california/story/2025-01-06/newsom-special-session-trump — in Politicians\Democrats\Governors\Gavin Newsom\Immigration\Trump Resistance and the 2028 Play.md
-- **DEAD LINK (404, no archive)**: https://www.currentaffairs.org/posts/the-guy-who-just-loves-everyone — in Media & Influence Pipeline\Centrist\Lex Fridman.md
-- **DEAD LINK (404)**: https://jewishfed.org/news/blog/mayor-newsom-heading-israel-federations-mission — in Politicians\Democrats\Governors\Gavin Newsom\Israel\Early History and Background Ties 2003-2019.md, Politicians\Democrats\Governors\Gavin Newsom\Israel\Pro-Israel Donor Network Deep Dive.md
-- **DEAD LINK (404)**: https://jewishfed.org/news/blog/mayor-newsom-heading-israel-federations-mission — in Politicians\Democrats\Governors\Gavin Newsom\Israel\Early History and Background Ties 2003-2019.md, Politicians\Democrats\Governors\Gavin Newsom\Israel\Pro-Israel Donor Network Deep Dive.md
-- **DEAD LINK (404)**: https://www.latimes.com/california/story/2019-09-18/gavin-newsom-signs-ab5-worker-protection-bill — in Politicians\Democrats\Governors\Gavin Newsom\Labor\AB5 - Gig Worker Classification.md
-- **DEAD LINK (404)**: https://www.latimes.com/california/story/2019-09-18/gavin-newsom-signs-ab5-worker-protection-bill — in Politicians\Democrats\Governors\Gavin Newsom\Labor\AB5 - Gig Worker Classification.md
-- **DEAD LINK (404)**: https://www.technologyreview.com/2019/09/11/133106/ab5-gig-work-uber-lyft-california-law/ — in Politicians\Democrats\Governors\Gavin Newsom\Labor\AB5 - Gig Worker Classification.md
-- **DEAD LINK (404)**: https://www.technologyreview.com/2019/09/11/133106/ab5-gig-work-uber-lyft-california-law/ — in Politicians\Democrats\Governors\Gavin Newsom\Labor\AB5 - Gig Worker Classification.md
-- **DEAD LINK (404)**: https://www.vox.com/policy-and-politics/2019/9/18/20872942/california-ab5-law-gig-economy-uber-lyft-freelancers — in Politicians\Democrats\Governors\Gavin Newsom\Labor\AB5 - Gig Worker Classification.md
-- **DEAD LINK (404)**: https://www.vox.com/policy-and-politics/2019/9/18/20872942/california-ab5-law-gig-economy-uber-lyft-freelancers — in Politicians\Democrats\Governors\Gavin Newsom\Labor\AB5 - Gig Worker Classification.md
-- **DEAD LINK (404)**: https://www.latimes.com/california/story/2022-09-29/newsom-vetoes-farmworker-union-vote-bill — in Politicians\Democrats\Governors\Gavin Newsom\Labor\Farmworker Union Rights - AB 2183 Veto and Reversal.md
-- **DEAD LINK (404)**: https://www.latimes.com/california/story/2022-09-29/newsom-vetoes-farmworker-union-vote-bill — in Politicians\Democrats\Governors\Gavin Newsom\Labor\Farmworker Union Rights - AB 2183 Veto and Reversal.md
-- **DEAD LINK (404)**: https://www.latimes.com/business/story/2023-09-11/fast-food-minimum-wage-deal-explained — in Politicians\Democrats\Governors\Gavin Newsom\Labor\FAST Act and the AB 1228 Deal.md
-- **DEAD LINK (404)**: https://www.latimes.com/business/story/2023-09-11/fast-food-minimum-wage-deal-explained — in Politicians\Democrats\Governors\Gavin Newsom\Labor\FAST Act and the AB 1228 Deal.md
-- **DEAD LINK (404)**: https://www.theguardian.com/us-news/2021/aug/20/prop-22-unconstitutional-california-ruling-gig-workers — in Politicians\Democrats\Governors\Gavin Newsom\Labor\Prop 22 - The $200M Corporate Rollback.md
-- **DEAD LINK (404)**: https://www.theguardian.com/us-news/2021/aug/20/prop-22-unconstitutional-california-ruling-gig-workers — in Politicians\Democrats\Governors\Gavin Newsom\Labor\Prop 22 - The $200M Corporate Rollback.md
-- **DEAD LINK (404)**: https://economicrt.org/publication/rights-at-risk/ — in Politicians\Democrats\Governors\Gavin Newsom\Labor\Prop 22 - The $200M Corporate Rollback.md
-- **DEAD LINK (404)**: https://economicrt.org/publication/rights-at-risk/ — in Politicians\Democrats\Governors\Gavin Newsom\Labor\Prop 22 - The $200M Corporate Rollback.md
-- **DEAD LINK (404)**: https://cola.unh.edu/unh-survey-center — in Politicians\Democrats\Governors\Gavin Newsom\Newsom 2028 - The Donor Class Presidential Campaign.md
-- **DEAD LINK (404)**: https://cola.unh.edu/unh-survey-center — in Politicians\Democrats\Governors\Gavin Newsom\Newsom 2028 - The Donor Class Presidential Campaign.md
-- **DEAD LINK (404, no archive)**: https://www.wired.com/story/a-dark-money-group-is-secretly-funding-high-profile-democratic-influencers/ — in Media & Influence Pipeline\Left\David Pakman.md
-- **DEAD LINK (404, no archive)**: https://en.wikipedia.org/wiki/Sputnik_(TV_programme — in Media & Influence Pipeline\Left\George Galloway.md
-- **DEAD LINK (404)**: https://mauinow.com/2024/04/23/gov-green-renews-commitment-to-house-fema-ineligible-maui-wildfire-survivors/ble-maui-wildfire-survivors-with-450-unit-ka-lai-ola-project/ — in Politicians\Democrats\Governors\Josh Green\The Maui Wildfire Response and the Rebuilding Money Trail.md, Politicians\Democrats\Governors\Josh Green\_Josh Green Master Profile.md
-- **DEAD LINK (404)**: https://mauinow.com/2024/04/23/gov-green-renews-commitment-to-house-fema-ineligible-maui-wildfire-survivors/ble-maui-wildfire-survivors-with-450-unit-ka-lai-ola-project/ — in Politicians\Democrats\Governors\Josh Green\The Maui Wildfire Response and the Rebuilding Money Trail.md, Politicians\Democrats\Governors\Josh Green\_Josh Green Master Profile.md
-- **DEAD LINK (404, no archive)**: https://www.thenation.com/article/news/jacobin-sunkara-nation/ — in Media & Influence Pipeline\Left\Jacobin.md
-- **DEAD LINK (404, no archive)**: https://www.dropsitenews.com/author/jeremy-scahill/ — in Media & Influence Pipeline\Left\Jeremy Scahill.md
-- **DEAD LINK (404, no archive)**: https://en.wikipedia.org/wiki/Lee_Camp_(comedian — in Media & Influence Pipeline\Left\Lee Camp.md
-- **DEAD LINK (404, no archive)**: https://en.wikipedia.org/wiki/Jon_Favreau_(speechwriter — in Media & Influence Pipeline\Left\Pod Save America.md
-- **DEAD LINK (404, no archive)**: https://www.dropsitenews.com/author/ryan-grim/ — in Media & Influence Pipeline\Left\Ryan Grim.md
-- **DEAD LINK (404, no archive)**: https://en.wikipedia.org/wiki/Air_America_(radio_network) — in Media & Influence Pipeline\Left\Sam Seder.md
-- **DEAD LINK (404)**: https://www.dhs.gov/sites/default/files/2023-03/DHS%20BIB%20-%20web%20version.pdf — in Politicians\Democrats\House\Bennie Thompson\_Bennie Thompson Master Profile.md
-- **DEAD LINK (404)**: https://mississippitoday.org/category/the-capitol/ — in Politicians\Democrats\House\Bennie Thompson\_Bennie Thompson Master Profile.md
-- **DEAD LINK (404)**: https://www.dhs.gov/sites/default/files/2023-03/DHS%20BIB%20-%20web%20version.pdf — in Politicians\Democrats\House\Bennie Thompson\_Bennie Thompson Master Profile.md
-- **DEAD LINK (404)**: https://mississippitoday.org/category/the-capitol/ — in Politicians\Democrats\House\Bennie Thompson\_Bennie Thompson Master Profile.md
-- **DEAD LINK (404)**: https://www.edweek.org/policy-politics/bobby-scott — in Politicians\Democrats\House\Bobby Scott\_Bobby Scott Master Profile.md
-- **DEAD LINK (404)**: https://www.edweek.org/policy-politics/bobby-scott — in Politicians\Democrats\House\Bobby Scott\_Bobby Scott Master Profile.md
-- **DEAD LINK (404, no archive)**: https://projects.propublica.org/nonprofits/organizations/135626156 — in Media & Influence Pipeline\Right\Christopher Rufo.md
-- **DEAD LINK (404, no archive)**: https://projects.propublica.org/nonprofits/organizations/855631396 — in Media & Influence Pipeline\Right\Christopher Rufo.md
-- **DEAD LINK (404, no archive)**: https://www.motherjones.com/politics/2023/06/anti-dei-activists-dark-money/ — in Media & Influence Pipeline\Right\Christopher Rufo.md
-- **DEAD LINK (404, no archive)**: https://www.motherjones.com/politics/2023/03/bradley-foundation-woke-culture-war/ — in Media & Influence Pipeline\Right\Christopher Rufo.md
-- **DEAD LINK (404, no archive)**: https://www.politico.com/news/2021/10/07/christopher-rufo-anti-crt-republican-politics — in Media & Influence Pipeline\Right\Christopher Rufo.md
-- **DEAD LINK (404, no archive)**: https://www.chronicle.com/articles/new-college-enrollment-crisis — in Media & Influence Pipeline\Right\Christopher Rufo.md
-- **DEAD LINK (404, no archive)**: https://marginalrevolution.com/marginalrevolution/2025/new-college-florida-cost.html — in Media & Influence Pipeline\Right\Christopher Rufo.md
-- **DEAD LINK (404, no archive)**: https://en.wikipedia.org/wiki/Matt_Walsh_(political_commentator — in Media & Influence Pipeline\Right\Daily Wire.md, Media & Influence Pipeline\Right\Matt Walsh.md
-- **DEAD LINK (404, no archive)**: https://projects.propublica.org/nonprofits/organizations/136181096 — in Media & Influence Pipeline\Right\Dinesh D'Souza.md
-- **DEAD LINK (404, no archive)**: https://www.laughfactory.com/comedians/JimmyDore — in Media & Influence Pipeline\Right\Jimmy Dore.md
-- **DEAD LINK (404)**: https://www.justice.gov/archives/opa/pr/us-congressman-henry-cuellar-and-his-wife-charged-bribery-unlawful-foreign-influence-and — in Politicians\Democrats\House\Henry Cuellar\The Last Oil Democrat - Fossil Fuel Money in a Blue District.md
-- **DEAD LINK (404)**: https://www.justice.gov/archives/opa/pr/us-congressman-henry-cuellar-and-his-wife-charged-bribery-unlawful-foreign-influence-and — in Politicians\Democrats\House\Henry Cuellar\The Last Oil Democrat - Fossil Fuel Money in a Blue District.md
-- **DEAD LINK (404)**: https://www.texastribune.org/cuellar-cisneros-primary/ — in Politicians\Democrats\House\Henry Cuellar\The Last Oil Democrat - Fossil Fuel Money in a Blue District.md
-- **DEAD LINK (404)**: https://www.texastribune.org/cuellar-cisneros-primary/ — in Politicians\Democrats\House\Henry Cuellar\The Last Oil Democrat - Fossil Fuel Money in a Blue District.md
-- **DEAD LINK (404, no archive)**: https://en.wikipedia.org/wiki/Michael_Knowles_(political_commentator — in Media & Influence Pipeline\Right\Michael Knowles.md
-- **DEAD LINK (404)**: https://www.justice.gov/archives/opa/pr/us-congressman-henry-cuellar-and-his-wife-charged-bribery-unlawful-foreign-influence-and — in Politicians\Democrats\House\Henry Cuellar\_Henry Cuellar Master Profile.md
-- **DEAD LINK (404)**: https://www.justice.gov/archives/opa/pr/us-congressman-henry-cuellar-and-his-wife-charged-bribery-unlawful-foreign-influence-and — in Politicians\Democrats\House\Henry Cuellar\_Henry Cuellar Master Profile.md
-- **DEAD LINK (404)**: https://www.opensecrets.org/members-of-congress/summary?cid=N00000840 — in Politicians\Democrats\House\Henry Cuellar\_Henry Cuellar Master Profile.md
-- **DEAD LINK (404)**: https://www.opensecrets.org/members-of-congress/summary?cid=N00000840 — in Politicians\Democrats\House\Henry Cuellar\_Henry Cuellar Master Profile.md
-- **DEAD LINK (404)**: https://www.middleeasteye.net/news/pro-israel-donors-raise-hundreds-thousands-last-minute-funds-oust-ilhan-omar — in Politicians\Democrats\House\Ilhan Omar\_Ilhan Omar Master Profile.md
-- **DEAD LINK (404)**: https://www.middleeasteye.net/news/pro-israel-donors-raise-hundreds-thousands-last-minute-funds-oust-ilhan-omar — in Politicians\Democrats\House\Ilhan Omar\_Ilhan Omar Master Profile.md
-- **DEAD LINK (404)**: https://www.npr.org/2022/08/10/1116575726/democratic-rep-ilhan-omar-wins-primary-in-minnesota — in Politicians\Democrats\House\Ilhan Omar.md
-- **DEAD LINK (404)**: https://www.npr.org/2022/08/10/1116575726/democratic-rep-ilhan-omar-wins-primary-in-minnesota — in Politicians\Democrats\House\Ilhan Omar.md
-- **DEAD LINK (404, no archive)**: https://www.adl.org/resources/blog/rumble-emerges-platform-choice-antisemitic-and-far-right-extremist-content — in Media & Influence Pipeline\Right\Rumble.md
-- **DEAD LINK (404, no archive)**: https://en.wikipedia.org/wiki/Rumble_(company — in Media & Influence Pipeline\Right\Rumble.md
-- **DEAD LINK (404, no archive)**: https://www.cnbc.com/2025/03/14/david-sacks-sold-200-million-in-crypto-holdings-before-wh-job.html — in Media & Influence Pipeline\The Both-Sides Illusion (Media Edition) — Shared Infrastructure Behind Opposing Voices.md
-- **DEAD LINK (404)**: https://www.forbes.com/profile/jim-himes/ — in Politicians\Democrats\House\Jim Himes\_Jim Himes Master Profile.md
-- **DEAD LINK (404)**: https://www.forbes.com/profile/jim-himes/ — in Politicians\Democrats\House\Jim Himes\_Jim Himes Master Profile.md
-- **DEAD LINK (404)**: https://www.bostonglobe.com/metro/2018/10/23/lawmakers-are-calling-for-halt-saudi-arms-sales-that-could-mean-big-hit-for-raytheon/ — in Politicians\Democrats\House\Jim McGovern\_Jim McGovern Master Profile.md
-- **DEAD LINK (404)**: https://www.bostonglobe.com/metro/2018/10/23/lawmakers-are-calling-for-halt-saudi-arms-sales-that-could-mean-big-hit-for-raytheon/ — in Politicians\Democrats\House\Jim McGovern\_Jim McGovern Master Profile.md
-- **DEAD LINK (404)**: https://www.stripes.com/veterans/2022-08-10/biden-signs-pact-act-burn-pits-veterans-6921619.html — in Politicians\Democrats\House\Mark Takano\_Mark Takano Master Profile.md
-- **DEAD LINK (404)**: https://www.stripes.com/veterans/2022-08-10/biden-signs-pact-act-burn-pits-veterans-6921619.html — in Politicians\Democrats\House\Mark Takano\_Mark Takano Master Profile.md
-- **DEAD LINK (404)**: https://www.americanbanker.com/maxine-waters-financial-services/ — in Politicians\Democrats\House\Maxine Waters\The Financial Services Committee and Wall Street Oversight.md
-- **DEAD LINK (404)**: https://www.americanbanker.com/maxine-waters-financial-services/ — in Politicians\Democrats\House\Maxine Waters\The Financial Services Committee and Wall Street Oversight.md
-- **DEAD LINK (404, no archive)**: https://www.latimes.com/california/story/2022-10-31/la-mansion-tax-measure-ula-explained — in Politicians\Democrats\CA Governor 2026\Antonio Villaraigosa\The Real Estate Mayor and the 2026 Donor Coalition.md
-- **DEAD LINK (404, no archive)**: https://www.sandiegouniontribune.com/la-pol-ca-essential-politics-updates-netflix-ceo-and-ed-reform-advocate-reed-1523495119-htmlstory.html — in Politicians\Democrats\CA Governor 2026\Antonio Villaraigosa\_Antonio Villaraigosa Master Profile.md, Politicians\Democrats\CA Governor 2026\Tony Thurmond\The Education Establishment and the Charter School War.md
-- **DEAD LINK (404, no archive)**: https://www.cnbc.com/2024/11/13/crypto-firms-dump-77-million-into-fairshake-pac-for-2026/ — in Politicians\Democrats\CA Governor 2026\Katie Porter\Fairshake and the Crypto Industry War.md
-- **DEAD LINK (404, no archive)**: https://sfist.com/2024/02/23/fairshake-super-pac-spends-millions-on-ads-against-katie-porter/ — in Politicians\Democrats\CA Governor 2026\Katie Porter\Fairshake and the Crypto Industry War.md
-- **DEAD LINK (404)**: https://www.gao.gov/products/gao-23-105770 — in Politicians\Democrats\House\Raul Grijalva\The Natural Resources Committee and Border-Environment Axis.md
-- **DEAD LINK (404)**: https://www.gao.gov/products/gao-23-105770 — in Politicians\Democrats\House\Raul Grijalva\The Natural Resources Committee and Border-Environment Axis.md
-- **DEAD LINK (404)**: https://www.azcentral.com/story/news/politics/arizona/2025/03/13/raul-grijalva-arizona-congressman-dies/82378457007/ — in Politicians\Democrats\House\Raul Grijalva\_Raul Grijalva Master Profile.md
-- **DEAD LINK (404)**: https://www.azcentral.com/story/news/politics/arizona/2025/03/13/raul-grijalva-arizona-congressman-dies/82378457007/ — in Politicians\Democrats\House\Raul Grijalva\_Raul Grijalva Master Profile.md
-- **DEAD LINK (404)**: https://www.opensecrets.org/members-of-congress/summary?cid=N00007222 — in Politicians\Democrats\House\Richard Neal\_Richard Neal Master Profile.md
-- **DEAD LINK (404)**: https://www.opensecrets.org/members-of-congress/summary?cid=N00007222 — in Politicians\Democrats\House\Richard Neal\_Richard Neal Master Profile.md
-- **DEAD LINK (404)**: https://convention.acec.org/speakers/congressman-rick-larsen/ — in Politicians\Democrats\House\Rick Larsen\_Rick Larsen Master Profile.md
-- **DEAD LINK (404)**: https://convention.acec.org/speakers/congressman-rick-larsen/ — in Politicians\Democrats\House\Rick Larsen\_Rick Larsen Master Profile.md
-- **DEAD LINK (404)**: https://www.jta.org/2026/01/30/politics/ritchie-torres-challengers-are-testing-how-israel-plays-in-the-bronx-and-testing-aim-at-zionists-in-a-jewish-neighborhood — in Politicians\Democrats\House\Ritchie Torres.md
-- **DEAD LINK (404)**: https://www.jta.org/2026/01/30/politics/ritchie-torres-challengers-are-testing-how-israel-plays-in-the-bronx-and-testing-aim-at-zionists-in-a-jewish-neighborhood — in Politicians\Democrats\House\Ritchie Torres.md
-- **DEAD LINK (404, no archive)**: https://www.opensecrets.org/2020-presidential-race/ — in Politicians\Democrats\CA Governor 2026\Tom Steyer\The Self-Funded Billionaire Model.md
-- **DEAD LINK (404, no archive)**: https://www.fiercehealthcare.com/hospitals/from-340b-to-price-transparency-here-are-3-takeaways-from-xavier-becerras-confirmation — in Politicians\Democrats\CA Governor 2026\Xavier Becerra\The HHS Record and the Healthcare Industry Question.md
+- **DEAD LINK (404)**: https://uaw.org/uaw-endorses-amy-acton-for-ohio-governor/, in Politicians\Democrats\Governors\Amy Acton\The Labor Coalition and What Unions Expect.md, Politicians\Democrats\Governors\Amy Acton.md
+- **DEAD LINK (404)**: https://uaw.org/uaw-endorses-amy-acton-for-ohio-governor/, in Politicians\Democrats\Governors\Amy Acton\The Labor Coalition and What Unions Expect.md, Politicians\Democrats\Governors\Amy Acton.md
+- **DEAD LINK (404)**: https://www.emcresearch.com/polling-data/ohio-2026-governor-acton-ramaswamy/, in Politicians\Democrats\Governors\Amy Acton.md
+- **DEAD LINK (404)**: https://www.emcresearch.com/polling-data/ohio-2026-governor-acton-ramaswamy/, in Politicians\Democrats\Governors\Amy Acton.md
+- **DEAD LINK (404)**: https://www.latimes.com/california/story/2020-09-30/newsom-police-reform-bills-california, in Politicians\Democrats\Governors\Gavin Newsom\Criminal Justice\Policing Reform - George Floyd Era.md
+- **DEAD LINK (404)**: https://www.latimes.com/california/story/2020-09-30/newsom-police-reform-bills-california, in Politicians\Democrats\Governors\Gavin Newsom\Criminal Justice\Policing Reform - George Floyd Era.md
+- **DEAD LINK (404)**: https://www.latimes.com/california/story/2020-06-30/san-quentin-coronavirus-outbreak, in Politicians\Democrats\Governors\Gavin Newsom\Criminal Justice\San Quentin - COVID Disaster and Rehabilitation Theater.md
+- **DEAD LINK (404)**: https://www.latimes.com/california/story/2020-06-30/san-quentin-coronavirus-outbreak, in Politicians\Democrats\Governors\Gavin Newsom\Criminal Justice\San Quentin - COVID Disaster and Rehabilitation Theater.md
+- **DEAD LINK (404)**: https://itep.org/expert-report-on-the-california-2026-billionaire-tax-revenue-economic-and-constitutional-analysis/, in Politicians\Democrats\Governors\Gavin Newsom\Economic Policy\Tax Policy - Who Pays and Who Doesnt.md
+- **DEAD LINK (404)**: https://itep.org/expert-report-on-the-california-2026-billionaire-tax-revenue-economic-and-constitutional-analysis/, in Politicians\Democrats\Governors\Gavin Newsom\Economic Policy\Tax Policy - Who Pays and Who Doesnt.md
+- **DEAD LINK (404)**: https://www.cde.ca.gov/cd/ci/charter/, in Politicians\Democrats\Governors\Gavin Newsom\Education\Charter Schools and the Billionaire Reform Movement.md
+- **DEAD LINK (404)**: https://www.cde.ca.gov/cd/ci/charter/, in Politicians\Democrats\Governors\Gavin Newsom\Education\Charter Schools and the Billionaire Reform Movement.md
+- **DEAD LINK (404)**: https://www.latimes.com/california/story/2020-11-24/newsom-children-attend-in-person-private-school, in Politicians\Democrats\Governors\Gavin Newsom\Education\COVID School Closures - Learning Loss and Class Division.md
+- **DEAD LINK (404)**: https://www.latimes.com/california/story/2020-11-24/newsom-children-attend-in-person-private-school, in Politicians\Democrats\Governors\Gavin Newsom\Education\COVID School Closures - Learning Loss and Class Division.md
+- **DEAD LINK (404)**: https://web.archive.org/web/2022/https:/www.edweek.org/leadership/school-reopening-tracker/, in Politicians\Democrats\Governors\Gavin Newsom\Education\COVID School Closures - Learning Loss and Class Division.md
+- **DEAD LINK (404)**: https://web.archive.org/web/2022/https:/www.edweek.org/leadership/school-reopening-tracker/, in Politicians\Democrats\Governors\Gavin Newsom\Education\COVID School Closures - Learning Loss and Class Division.md
+- **DEAD LINK (404)**: https://jweekly.com/2019/08/16/newsom-ethnic-studies-draft-offensive/, in Politicians\Democrats\Governors\Gavin Newsom\Education\Ethnic Studies - Whose History Gets Taught.md
+- **DEAD LINK (404)**: https://jweekly.com/2019/08/16/newsom-ethnic-studies-draft-offensive/, in Politicians\Democrats\Governors\Gavin Newsom\Education\Ethnic Studies - Whose History Gets Taught.md
+- **DEAD LINK (404)**: https://www.cde.ca.gov/ci/gs/tk/, in Politicians\Democrats\Governors\Gavin Newsom\Education\Universal Pre-K and Transitional Kindergarten.md
+- **DEAD LINK (404)**: https://www.cde.ca.gov/ci/gs/tk/, in Politicians\Democrats\Governors\Gavin Newsom\Education\Universal Pre-K and Transitional Kindergarten.md
+- **DEAD LINK (404)**: https://credo.stanford.edu/2024-california-tk-outcomes, in Politicians\Democrats\Governors\Gavin Newsom\Education\Universal Pre-K and Transitional Kindergarten.md
+- **DEAD LINK (404)**: https://credo.stanford.edu/2024-california-tk-outcomes, in Politicians\Democrats\Governors\Gavin Newsom\Education\Universal Pre-K and Transitional Kindergarten.md
+- **DEAD LINK (404)**: https://www.childtrends.org/publications/california-childcare-2024, in Politicians\Democrats\Governors\Gavin Newsom\Education\Universal Pre-K and Transitional Kindergarten.md
+- **DEAD LINK (404)**: https://www.childtrends.org/publications/california-childcare-2024, in Politicians\Democrats\Governors\Gavin Newsom\Education\Universal Pre-K and Transitional Kindergarten.md
+- **DEAD LINK (404)**: https://www.biologicaldiversity.org/programs/energy-justice/california/, in Politicians\Democrats\Governors\Gavin Newsom\Environment\Fracking and Oil Permits - Green Branding vs. Record.md
+- **DEAD LINK (404)**: https://www.biologicaldiversity.org/programs/energy-justice/california/, in Politicians\Democrats\Governors\Gavin Newsom\Environment\Fracking and Oil Permits - Green Branding vs. Record.md
+- **DEAD LINK (404)**: https://www.latimes.com/california/story/2019-07-12/california-wildfire-legislation-signed-pge, in Politicians\Democrats\Governors\Gavin Newsom\Environment\PG&E - The Utility Donor and the Wildfire Cover.md
+- **DEAD LINK (404)**: https://www.latimes.com/california/story/2019-07-12/california-wildfire-legislation-signed-pge, in Politicians\Democrats\Governors\Gavin Newsom\Environment\PG&E - The Utility Donor and the Wildfire Cover.md
+- **DEAD LINK (404, no archive)**: https://en.wikipedia.org/wiki/The_Free_Press_(Paramount_Skydance, in Media & Influence Pipeline\Centrist\Bari Weiss.md
+- **DEAD LINK (404)**: https://www.disabilityrightsca.org/news/sb-43-gravely-disabled, in Politicians\Democrats\Governors\Gavin Newsom\Healthcare\Mental Health CARE Court and Forced Treatment.md
+- **DEAD LINK (404)**: https://www.disabilityrightsca.org/news/sb-43-gravely-disabled, in Politicians\Democrats\Governors\Gavin Newsom\Healthcare\Mental Health CARE Court and Forced Treatment.md
+- **DEAD LINK (404)**: https://www.ftc.gov/news-events/news/2024/09/ftc-supports-pbm-regulation-california, in Politicians\Democrats\Governors\Gavin Newsom\Healthcare\Prescription Drug Pricing - PBM Veto Cycle.md
+- **DEAD LINK (404)**: https://www.ftc.gov/news-events/news/2024/09/ftc-supports-pbm-regulation-california, in Politicians\Democrats\Governors\Gavin Newsom\Healthcare\Prescription Drug Pricing - PBM Veto Cycle.md
+- **DEAD LINK (404, no archive)**: https://en.wikipedia.org/wiki/All-In_(podcast)), in Media & Influence Pipeline\Centrist\Destiny - Steven Bonnell.md
+- **DEAD LINK (404)**: https://www.latimes.com/california/story/2024-07-25/newsom-orders-state-agencies-to-clear-homeless-encampments, in Politicians\Democrats\Governors\Gavin Newsom\Housing\Homelessness Spending and Encampments.md
+- **DEAD LINK (404)**: https://www.latimes.com/california/story/2024-07-25/newsom-orders-state-agencies-to-clear-homeless-encampments, in Politicians\Democrats\Governors\Gavin Newsom\Housing\Homelessness Spending and Encampments.md
+- **DEAD LINK (404)**: https://www.latimes.com/california/story/2020-10-01/newsom-prop-21-rent-control, in Politicians\Democrats\Governors\Gavin Newsom\Housing\Rent Control - Props 10, 21, and 33.md
+- **DEAD LINK (404)**: https://www.latimes.com/california/story/2020-10-01/newsom-prop-21-rent-control, in Politicians\Democrats\Governors\Gavin Newsom\Housing\Rent Control - Props 10, 21, and 33.md
+- **DEAD LINK (404)**: https://cdn.ca9.uscourts.gov/datastore/opinions/2022/04/15/20-16496.pdf, in Politicians\Democrats\Governors\Gavin Newsom\Immigration\Private Detention - AB 32.md
+- **DEAD LINK (404)**: https://cdn.ca9.uscourts.gov/datastore/opinions/2022/04/15/20-16496.pdf, in Politicians\Democrats\Governors\Gavin Newsom\Immigration\Private Detention - AB 32.md
+- **DEAD LINK (404)**: https://web.archive.org/web/2023/https:/www.cdcr.ca.gov/ab-32-status, in Politicians\Democrats\Governors\Gavin Newsom\Immigration\Private Detention - AB 32.md
+- **DEAD LINK (404)**: https://web.archive.org/web/2023/https:/www.cdcr.ca.gov/ab-32-status, in Politicians\Democrats\Governors\Gavin Newsom\Immigration\Private Detention - AB 32.md
+- **DEAD LINK (404)**: https://law.ucdavis.edu/2023-california-private-detention-ruling, in Politicians\Democrats\Governors\Gavin Newsom\Immigration\Private Detention - AB 32.md
+- **DEAD LINK (404)**: https://law.ucdavis.edu/2023-california-private-detention-ruling, in Politicians\Democrats\Governors\Gavin Newsom\Immigration\Private Detention - AB 32.md
+- **DEAD LINK (404)**: https://cdn.ca9.uscourts.gov/datastore/opinions/2019/04/18/18-16496.pdf, in Politicians\Democrats\Governors\Gavin Newsom\Immigration\Sanctuary State - SB 54 and What It Actually Does.md
+- **DEAD LINK (404)**: https://cdn.ca9.uscourts.gov/datastore/opinions/2019/04/18/18-16496.pdf, in Politicians\Democrats\Governors\Gavin Newsom\Immigration\Sanctuary State - SB 54 and What It Actually Does.md
+- **DEAD LINK (404)**: https://www.acluca.org/the-california-values-act-what-you-need-to-know/, in Politicians\Democrats\Governors\Gavin Newsom\Immigration\Sanctuary State - SB 54 and What It Actually Does.md
+- **DEAD LINK (404)**: https://www.acluca.org/the-california-values-act-what-you-need-to-know/, in Politicians\Democrats\Governors\Gavin Newsom\Immigration\Sanctuary State - SB 54 and What It Actually Does.md
+- **DEAD LINK (404, no archive)**: https://cces.mit.edu/team/lex-fridman/, in Media & Influence Pipeline\Centrist\Lex Fridman.md
+- **DEAD LINK (404)**: https://www.americanprogress.org/article/sb54-compliance-california/, in Politicians\Democrats\Governors\Gavin Newsom\Immigration\Sanctuary State - SB 54 and What It Actually Does.md
+- **DEAD LINK (404)**: https://www.americanprogress.org/article/sb54-compliance-california/, in Politicians\Democrats\Governors\Gavin Newsom\Immigration\Sanctuary State - SB 54 and What It Actually Does.md
+- **DEAD LINK (404)**: https://www.latimes.com/california/story/2025-01-06/newsom-special-session-trump, in Politicians\Democrats\Governors\Gavin Newsom\Immigration\Trump Resistance and the 2028 Play.md
+- **DEAD LINK (404)**: https://www.latimes.com/california/story/2025-01-06/newsom-special-session-trump, in Politicians\Democrats\Governors\Gavin Newsom\Immigration\Trump Resistance and the 2028 Play.md
+- **DEAD LINK (404, no archive)**: https://www.currentaffairs.org/posts/the-guy-who-just-loves-everyone, in Media & Influence Pipeline\Centrist\Lex Fridman.md
+- **DEAD LINK (404)**: https://jewishfed.org/news/blog/mayor-newsom-heading-israel-federations-mission, in Politicians\Democrats\Governors\Gavin Newsom\Israel\Early History and Background Ties 2003-2019.md, Politicians\Democrats\Governors\Gavin Newsom\Israel\Pro-Israel Donor Network Deep Dive.md
+- **DEAD LINK (404)**: https://jewishfed.org/news/blog/mayor-newsom-heading-israel-federations-mission, in Politicians\Democrats\Governors\Gavin Newsom\Israel\Early History and Background Ties 2003-2019.md, Politicians\Democrats\Governors\Gavin Newsom\Israel\Pro-Israel Donor Network Deep Dive.md
+- **DEAD LINK (404)**: https://www.latimes.com/california/story/2019-09-18/gavin-newsom-signs-ab5-worker-protection-bill, in Politicians\Democrats\Governors\Gavin Newsom\Labor\AB5 - Gig Worker Classification.md
+- **DEAD LINK (404)**: https://www.latimes.com/california/story/2019-09-18/gavin-newsom-signs-ab5-worker-protection-bill, in Politicians\Democrats\Governors\Gavin Newsom\Labor\AB5 - Gig Worker Classification.md
+- **DEAD LINK (404)**: https://www.technologyreview.com/2019/09/11/133106/ab5-gig-work-uber-lyft-california-law/, in Politicians\Democrats\Governors\Gavin Newsom\Labor\AB5 - Gig Worker Classification.md
+- **DEAD LINK (404)**: https://www.technologyreview.com/2019/09/11/133106/ab5-gig-work-uber-lyft-california-law/, in Politicians\Democrats\Governors\Gavin Newsom\Labor\AB5 - Gig Worker Classification.md
+- **DEAD LINK (404)**: https://www.vox.com/policy-and-politics/2019/9/18/20872942/california-ab5-law-gig-economy-uber-lyft-freelancers, in Politicians\Democrats\Governors\Gavin Newsom\Labor\AB5 - Gig Worker Classification.md
+- **DEAD LINK (404)**: https://www.vox.com/policy-and-politics/2019/9/18/20872942/california-ab5-law-gig-economy-uber-lyft-freelancers, in Politicians\Democrats\Governors\Gavin Newsom\Labor\AB5 - Gig Worker Classification.md
+- **DEAD LINK (404)**: https://www.latimes.com/california/story/2022-09-29/newsom-vetoes-farmworker-union-vote-bill, in Politicians\Democrats\Governors\Gavin Newsom\Labor\Farmworker Union Rights - AB 2183 Veto and Reversal.md
+- **DEAD LINK (404)**: https://www.latimes.com/california/story/2022-09-29/newsom-vetoes-farmworker-union-vote-bill, in Politicians\Democrats\Governors\Gavin Newsom\Labor\Farmworker Union Rights - AB 2183 Veto and Reversal.md
+- **DEAD LINK (404)**: https://www.latimes.com/business/story/2023-09-11/fast-food-minimum-wage-deal-explained, in Politicians\Democrats\Governors\Gavin Newsom\Labor\FAST Act and the AB 1228 Deal.md
+- **DEAD LINK (404)**: https://www.latimes.com/business/story/2023-09-11/fast-food-minimum-wage-deal-explained, in Politicians\Democrats\Governors\Gavin Newsom\Labor\FAST Act and the AB 1228 Deal.md
+- **DEAD LINK (404)**: https://www.theguardian.com/us-news/2021/aug/20/prop-22-unconstitutional-california-ruling-gig-workers, in Politicians\Democrats\Governors\Gavin Newsom\Labor\Prop 22 - The $200M Corporate Rollback.md
+- **DEAD LINK (404)**: https://www.theguardian.com/us-news/2021/aug/20/prop-22-unconstitutional-california-ruling-gig-workers, in Politicians\Democrats\Governors\Gavin Newsom\Labor\Prop 22 - The $200M Corporate Rollback.md
+- **DEAD LINK (404)**: https://economicrt.org/publication/rights-at-risk/, in Politicians\Democrats\Governors\Gavin Newsom\Labor\Prop 22 - The $200M Corporate Rollback.md
+- **DEAD LINK (404)**: https://economicrt.org/publication/rights-at-risk/, in Politicians\Democrats\Governors\Gavin Newsom\Labor\Prop 22 - The $200M Corporate Rollback.md
+- **DEAD LINK (404)**: https://cola.unh.edu/unh-survey-center, in Politicians\Democrats\Governors\Gavin Newsom\Newsom 2028 - The Donor Class Presidential Campaign.md
+- **DEAD LINK (404)**: https://cola.unh.edu/unh-survey-center, in Politicians\Democrats\Governors\Gavin Newsom\Newsom 2028 - The Donor Class Presidential Campaign.md
+- **DEAD LINK (404, no archive)**: https://www.wired.com/story/a-dark-money-group-is-secretly-funding-high-profile-democratic-influencers/, in Media & Influence Pipeline\Left\David Pakman.md
+- **DEAD LINK (404, no archive)**: https://en.wikipedia.org/wiki/Sputnik_(TV_programme, in Media & Influence Pipeline\Left\George Galloway.md
+- **DEAD LINK (404)**: https://mauinow.com/2024/04/23/gov-green-renews-commitment-to-house-fema-ineligible-maui-wildfire-survivors/ble-maui-wildfire-survivors-with-450-unit-ka-lai-ola-project/, in Politicians\Democrats\Governors\Josh Green\The Maui Wildfire Response and the Rebuilding Money Trail.md, Politicians\Democrats\Governors\Josh Green\_Josh Green Master Profile.md
+- **DEAD LINK (404)**: https://mauinow.com/2024/04/23/gov-green-renews-commitment-to-house-fema-ineligible-maui-wildfire-survivors/ble-maui-wildfire-survivors-with-450-unit-ka-lai-ola-project/, in Politicians\Democrats\Governors\Josh Green\The Maui Wildfire Response and the Rebuilding Money Trail.md, Politicians\Democrats\Governors\Josh Green\_Josh Green Master Profile.md
+- **DEAD LINK (404, no archive)**: https://www.thenation.com/article/news/jacobin-sunkara-nation/, in Media & Influence Pipeline\Left\Jacobin.md
+- **DEAD LINK (404, no archive)**: https://www.dropsitenews.com/author/jeremy-scahill/, in Media & Influence Pipeline\Left\Jeremy Scahill.md
+- **DEAD LINK (404, no archive)**: https://en.wikipedia.org/wiki/Lee_Camp_(comedian, in Media & Influence Pipeline\Left\Lee Camp.md
+- **DEAD LINK (404, no archive)**: https://en.wikipedia.org/wiki/Jon_Favreau_(speechwriter, in Media & Influence Pipeline\Left\Pod Save America.md
+- **DEAD LINK (404, no archive)**: https://www.dropsitenews.com/author/ryan-grim/, in Media & Influence Pipeline\Left\Ryan Grim.md
+- **DEAD LINK (404, no archive)**: https://en.wikipedia.org/wiki/Air_America_(radio_network), in Media & Influence Pipeline\Left\Sam Seder.md
+- **DEAD LINK (404)**: https://www.dhs.gov/sites/default/files/2023-03/DHS%20BIB%20-%20web%20version.pdf, in Politicians\Democrats\House\Bennie Thompson\_Bennie Thompson Master Profile.md
+- **DEAD LINK (404)**: https://mississippitoday.org/category/the-capitol/, in Politicians\Democrats\House\Bennie Thompson\_Bennie Thompson Master Profile.md
+- **DEAD LINK (404)**: https://www.dhs.gov/sites/default/files/2023-03/DHS%20BIB%20-%20web%20version.pdf, in Politicians\Democrats\House\Bennie Thompson\_Bennie Thompson Master Profile.md
+- **DEAD LINK (404)**: https://mississippitoday.org/category/the-capitol/, in Politicians\Democrats\House\Bennie Thompson\_Bennie Thompson Master Profile.md
+- **DEAD LINK (404)**: https://www.edweek.org/policy-politics/bobby-scott, in Politicians\Democrats\House\Bobby Scott\_Bobby Scott Master Profile.md
+- **DEAD LINK (404)**: https://www.edweek.org/policy-politics/bobby-scott, in Politicians\Democrats\House\Bobby Scott\_Bobby Scott Master Profile.md
+- **DEAD LINK (404, no archive)**: https://projects.propublica.org/nonprofits/organizations/135626156, in Media & Influence Pipeline\Right\Christopher Rufo.md
+- **DEAD LINK (404, no archive)**: https://projects.propublica.org/nonprofits/organizations/855631396, in Media & Influence Pipeline\Right\Christopher Rufo.md
+- **DEAD LINK (404, no archive)**: https://www.motherjones.com/politics/2023/06/anti-dei-activists-dark-money/, in Media & Influence Pipeline\Right\Christopher Rufo.md
+- **DEAD LINK (404, no archive)**: https://www.motherjones.com/politics/2023/03/bradley-foundation-woke-culture-war/, in Media & Influence Pipeline\Right\Christopher Rufo.md
+- **DEAD LINK (404, no archive)**: https://www.politico.com/news/2021/10/07/christopher-rufo-anti-crt-republican-politics, in Media & Influence Pipeline\Right\Christopher Rufo.md
+- **DEAD LINK (404, no archive)**: https://www.chronicle.com/articles/new-college-enrollment-crisis, in Media & Influence Pipeline\Right\Christopher Rufo.md
+- **DEAD LINK (404, no archive)**: https://marginalrevolution.com/marginalrevolution/2025/new-college-florida-cost.html, in Media & Influence Pipeline\Right\Christopher Rufo.md
+- **DEAD LINK (404, no archive)**: https://en.wikipedia.org/wiki/Matt_Walsh_(political_commentator, in Media & Influence Pipeline\Right\Daily Wire.md, Media & Influence Pipeline\Right\Matt Walsh.md
+- **DEAD LINK (404, no archive)**: https://projects.propublica.org/nonprofits/organizations/136181096, in Media & Influence Pipeline\Right\Dinesh D'Souza.md
+- **DEAD LINK (404, no archive)**: https://www.laughfactory.com/comedians/JimmyDore, in Media & Influence Pipeline\Right\Jimmy Dore.md
+- **DEAD LINK (404)**: https://www.justice.gov/archives/opa/pr/us-congressman-henry-cuellar-and-his-wife-charged-bribery-unlawful-foreign-influence-and, in Politicians\Democrats\House\Henry Cuellar\The Last Oil Democrat - Fossil Fuel Money in a Blue District.md
+- **DEAD LINK (404)**: https://www.justice.gov/archives/opa/pr/us-congressman-henry-cuellar-and-his-wife-charged-bribery-unlawful-foreign-influence-and, in Politicians\Democrats\House\Henry Cuellar\The Last Oil Democrat - Fossil Fuel Money in a Blue District.md
+- **DEAD LINK (404)**: https://www.texastribune.org/cuellar-cisneros-primary/, in Politicians\Democrats\House\Henry Cuellar\The Last Oil Democrat - Fossil Fuel Money in a Blue District.md
+- **DEAD LINK (404)**: https://www.texastribune.org/cuellar-cisneros-primary/, in Politicians\Democrats\House\Henry Cuellar\The Last Oil Democrat - Fossil Fuel Money in a Blue District.md
+- **DEAD LINK (404, no archive)**: https://en.wikipedia.org/wiki/Michael_Knowles_(political_commentator, in Media & Influence Pipeline\Right\Michael Knowles.md
+- **DEAD LINK (404)**: https://www.justice.gov/archives/opa/pr/us-congressman-henry-cuellar-and-his-wife-charged-bribery-unlawful-foreign-influence-and, in Politicians\Democrats\House\Henry Cuellar\_Henry Cuellar Master Profile.md
+- **DEAD LINK (404)**: https://www.justice.gov/archives/opa/pr/us-congressman-henry-cuellar-and-his-wife-charged-bribery-unlawful-foreign-influence-and, in Politicians\Democrats\House\Henry Cuellar\_Henry Cuellar Master Profile.md
+- **DEAD LINK (404)**: https://www.opensecrets.org/members-of-congress/summary?cid=N00000840, in Politicians\Democrats\House\Henry Cuellar\_Henry Cuellar Master Profile.md
+- **DEAD LINK (404)**: https://www.opensecrets.org/members-of-congress/summary?cid=N00000840, in Politicians\Democrats\House\Henry Cuellar\_Henry Cuellar Master Profile.md
+- **DEAD LINK (404)**: https://www.middleeasteye.net/news/pro-israel-donors-raise-hundreds-thousands-last-minute-funds-oust-ilhan-omar, in Politicians\Democrats\House\Ilhan Omar\_Ilhan Omar Master Profile.md
+- **DEAD LINK (404)**: https://www.middleeasteye.net/news/pro-israel-donors-raise-hundreds-thousands-last-minute-funds-oust-ilhan-omar, in Politicians\Democrats\House\Ilhan Omar\_Ilhan Omar Master Profile.md
+- **DEAD LINK (404)**: https://www.npr.org/2022/08/10/1116575726/democratic-rep-ilhan-omar-wins-primary-in-minnesota, in Politicians\Democrats\House\Ilhan Omar.md
+- **DEAD LINK (404)**: https://www.npr.org/2022/08/10/1116575726/democratic-rep-ilhan-omar-wins-primary-in-minnesota, in Politicians\Democrats\House\Ilhan Omar.md
+- **DEAD LINK (404, no archive)**: https://www.adl.org/resources/blog/rumble-emerges-platform-choice-antisemitic-and-far-right-extremist-content, in Media & Influence Pipeline\Right\Rumble.md
+- **DEAD LINK (404, no archive)**: https://en.wikipedia.org/wiki/Rumble_(company, in Media & Influence Pipeline\Right\Rumble.md
+- **DEAD LINK (404, no archive)**: https://www.cnbc.com/2025/03/14/david-sacks-sold-200-million-in-crypto-holdings-before-wh-job.html, in Media & Influence Pipeline\The Both-Sides Illusion (Media Edition). Shared Infrastructure Behind Opposing Voices.md
+- **DEAD LINK (404)**: https://www.forbes.com/profile/jim-himes/, in Politicians\Democrats\House\Jim Himes\_Jim Himes Master Profile.md
+- **DEAD LINK (404)**: https://www.forbes.com/profile/jim-himes/, in Politicians\Democrats\House\Jim Himes\_Jim Himes Master Profile.md
+- **DEAD LINK (404)**: https://www.bostonglobe.com/metro/2018/10/23/lawmakers-are-calling-for-halt-saudi-arms-sales-that-could-mean-big-hit-for-raytheon/, in Politicians\Democrats\House\Jim McGovern\_Jim McGovern Master Profile.md
+- **DEAD LINK (404)**: https://www.bostonglobe.com/metro/2018/10/23/lawmakers-are-calling-for-halt-saudi-arms-sales-that-could-mean-big-hit-for-raytheon/, in Politicians\Democrats\House\Jim McGovern\_Jim McGovern Master Profile.md
+- **DEAD LINK (404)**: https://www.stripes.com/veterans/2022-08-10/biden-signs-pact-act-burn-pits-veterans-6921619.html, in Politicians\Democrats\House\Mark Takano\_Mark Takano Master Profile.md
+- **DEAD LINK (404)**: https://www.stripes.com/veterans/2022-08-10/biden-signs-pact-act-burn-pits-veterans-6921619.html, in Politicians\Democrats\House\Mark Takano\_Mark Takano Master Profile.md
+- **DEAD LINK (404)**: https://www.americanbanker.com/maxine-waters-financial-services/, in Politicians\Democrats\House\Maxine Waters\The Financial Services Committee and Wall Street Oversight.md
+- **DEAD LINK (404)**: https://www.americanbanker.com/maxine-waters-financial-services/, in Politicians\Democrats\House\Maxine Waters\The Financial Services Committee and Wall Street Oversight.md
+- **DEAD LINK (404, no archive)**: https://www.latimes.com/california/story/2022-10-31/la-mansion-tax-measure-ula-explained, in Politicians\Democrats\CA Governor 2026\Antonio Villaraigosa\The Real Estate Mayor and the 2026 Donor Coalition.md
+- **DEAD LINK (404, no archive)**: https://www.sandiegouniontribune.com/la-pol-ca-essential-politics-updates-netflix-ceo-and-ed-reform-advocate-reed-1523495119-htmlstory.html, in Politicians\Democrats\CA Governor 2026\Antonio Villaraigosa\_Antonio Villaraigosa Master Profile.md, Politicians\Democrats\CA Governor 2026\Tony Thurmond\The Education Establishment and the Charter School War.md
+- **DEAD LINK (404, no archive)**: https://www.cnbc.com/2024/11/13/crypto-firms-dump-77-million-into-fairshake-pac-for-2026/, in Politicians\Democrats\CA Governor 2026\Katie Porter\Fairshake and the Crypto Industry War.md
+- **DEAD LINK (404, no archive)**: https://sfist.com/2024/02/23/fairshake-super-pac-spends-millions-on-ads-against-katie-porter/, in Politicians\Democrats\CA Governor 2026\Katie Porter\Fairshake and the Crypto Industry War.md
+- **DEAD LINK (404)**: https://www.gao.gov/products/gao-23-105770, in Politicians\Democrats\House\Raul Grijalva\The Natural Resources Committee and Border-Environment Axis.md
+- **DEAD LINK (404)**: https://www.gao.gov/products/gao-23-105770, in Politicians\Democrats\House\Raul Grijalva\The Natural Resources Committee and Border-Environment Axis.md
+- **DEAD LINK (404)**: https://www.azcentral.com/story/news/politics/arizona/2025/03/13/raul-grijalva-arizona-congressman-dies/82378457007/, in Politicians\Democrats\House\Raul Grijalva\_Raul Grijalva Master Profile.md
+- **DEAD LINK (404)**: https://www.azcentral.com/story/news/politics/arizona/2025/03/13/raul-grijalva-arizona-congressman-dies/82378457007/, in Politicians\Democrats\House\Raul Grijalva\_Raul Grijalva Master Profile.md
+- **DEAD LINK (404)**: https://www.opensecrets.org/members-of-congress/summary?cid=N00007222, in Politicians\Democrats\House\Richard Neal\_Richard Neal Master Profile.md
+- **DEAD LINK (404)**: https://www.opensecrets.org/members-of-congress/summary?cid=N00007222, in Politicians\Democrats\House\Richard Neal\_Richard Neal Master Profile.md
+- **DEAD LINK (404)**: https://convention.acec.org/speakers/congressman-rick-larsen/, in Politicians\Democrats\House\Rick Larsen\_Rick Larsen Master Profile.md
+- **DEAD LINK (404)**: https://convention.acec.org/speakers/congressman-rick-larsen/, in Politicians\Democrats\House\Rick Larsen\_Rick Larsen Master Profile.md
+- **DEAD LINK (404)**: https://www.jta.org/2026/01/30/politics/ritchie-torres-challengers-are-testing-how-israel-plays-in-the-bronx-and-testing-aim-at-zionists-in-a-jewish-neighborhood, in Politicians\Democrats\House\Ritchie Torres.md
+- **DEAD LINK (404)**: https://www.jta.org/2026/01/30/politics/ritchie-torres-challengers-are-testing-how-israel-plays-in-the-bronx-and-testing-aim-at-zionists-in-a-jewish-neighborhood, in Politicians\Democrats\House\Ritchie Torres.md
+- **DEAD LINK (404, no archive)**: https://www.opensecrets.org/2020-presidential-race/, in Politicians\Democrats\CA Governor 2026\Tom Steyer\The Self-Funded Billionaire Model.md
+- **DEAD LINK (404, no archive)**: https://www.fiercehealthcare.com/hospitals/from-340b-to-price-transparency-here-are-3-takeaways-from-xavier-becerras-confirmation, in Politicians\Democrats\CA Governor 2026\Xavier Becerra\The HHS Record and the Healthcare Industry Question.md

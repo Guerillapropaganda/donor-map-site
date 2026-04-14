@@ -47,17 +47,17 @@ donors: [[Lockheed Martin]] [[Northrop Grumman]]
 
 ## Who They Are
 
-Roger Wicker. Republican, Mississippi. Senior Senator, appointed December 31, 2007 to fill Trent Lott's vacated seat, subsequently elected in 2008 and re-elected in 2012, 2018, and 2024 (current term ends January 2031). Chair, Senate Armed Services Committee (119th Congress) — the committee with jurisdiction over the entire Department of Defense budget, military operations, weapons systems acquisition, and base infrastructure.
+Roger Wicker. Republican, Mississippi. Senior Senator, appointed December 31, 2007 to fill Trent Lott's vacated seat, subsequently elected in 2008 and re-elected in 2012, 2018, and 2024 (current term ends January 2031). Chair, Senate Armed Services Committee (119th Congress), the committee with jurisdiction over the entire Department of Defense budget, military operations, weapons systems acquisition, and base infrastructure.
 
 Born 1951 in Pontotoc, Mississippi. University of Mississippi (B.A. journalism and political science, 1973; J.D. 1975). Active duty U.S. Air Force Judge Advocate (1976-1980), then Air Force Reserve (1980-2003), retired as Lieutenant Colonel. Mississippi House of Representatives (1988-1994), then U.S. House (1994-2007, MS-1st District) before appointment to the Senate.
 
-Wicker's significance is geographic: Mississippi's economy is structurally dependent on defense spending he now controls. Huntington Ingalls Industries' Ingalls Shipbuilding division in Pascagoula employs 11,000+ Mississippians and builds the Navy's destroyers and amphibious assault ships. Stennis Space Center generates $950 million in annual regional economic impact. Keesler Air Force Base contributes $1 billion annually to the Biloxi area. Columbus Air Force Base trains roughly half of all Air Force pilots. Defense contracts account for 4.3% of Mississippi's GDP — $31.2 billion in investment since FY 2014. The senator who chairs Armed Services represents a state whose economy depends on the spending he authorizes.
+Wicker's significance is geographic: Mississippi's economy is structurally dependent on defense spending he now controls. Huntington Ingalls Industries' Ingalls Shipbuilding division in Pascagoula employs 11,000+ Mississippians and builds the Navy's destroyers and amphibious assault ships. Stennis Space Center generates $950 million in annual regional economic impact. Keesler Air Force Base contributes $1 billion annually to the Biloxi area. Columbus Air Force Base trains roughly half of all Air Force pilots. Defense contracts account for 4.3% of Mississippi's GDP, $31.2 billion in investment since FY 2014. The senator who chairs Armed Services represents a state whose economy depends on the spending he authorizes.
 
 ---
 
 ## The Central Thesis
 
-Wicker is the defense-state senator who chairs the defense committee. The structural alignment is total: Mississippi's largest employer (Huntington Ingalls), Mississippi's military bases (Stennis, Keesler, Columbus, Camp Shelby), and the defense contractors who fund his campaigns all depend on the spending Wicker's committee authorizes. He is the #1 Senate recipient of defense industry campaign contributions ($343,065 in 2024 alone). His "Peace Through Strength" proposal calls for $55 billion in additional annual defense spending — with specific line items for shipbuilding programs built at the Pascagoula shipyard in his state. The Marine Corps Commandant calls him "a good friend to the industrial base." The rhetoric is national security. The structure is a self-reinforcing cycle: defense contractors donate to Wicker → Wicker authorizes contracts for their systems → those systems are built in Mississippi → Mississippi's economy depends on continued defense spending → Wicker is re-elected to continue the cycle.
+Wicker is the defense-state senator who chairs the defense committee. The structural alignment is total: Mississippi's largest employer (Huntington Ingalls), Mississippi's military bases (Stennis, Keesler, Columbus, Camp Shelby), and the defense contractors who fund his campaigns all depend on the spending Wicker's committee authorizes. He is the #1 Senate recipient of defense industry campaign contributions ($343,065 in 2024 alone). His "Peace Through Strength" proposal calls for $55 billion in additional annual defense spending, with specific line items for shipbuilding programs built at the Pascagoula shipyard in his state. The Marine Corps Commandant calls him "a good friend to the industrial base." The rhetoric is national security. The structure is a self-reinforcing cycle: defense contractors donate to Wicker → Wicker authorizes contracts for their systems → those systems are built in Mississippi → Mississippi's economy depends on continued defense spending → Wicker is re-elected to continue the cycle.
 
 ---
 
@@ -110,9 +110,9 @@ Wicker is the defense-state senator who chairs the defense committee. The struct
 | 2007-present | Career defense industry contributions | $343,065 in 2024 alone | OpenSecrets |
 | 2007 | Secured $6M earmark for defense company whose execs donated to campaign | $6M | Critics flagged |
 | FY 2010 | Sponsored/co-sponsored 164 earmarks totaling $381M (ranked 3rd of 100 senators) | $381M | Taxpayers for Common Sense |
-| 2017 | Authored SHIPS Act — made 355-ship Navy official U.S. policy | Policy shift | Congress.gov |
+| 2017 | Authored SHIPS Act, made 355-ship Navy official U.S. policy | Policy shift | Congress.gov |
 | 2018 | Multi-year DDG-51 destroyer contract to Ingalls Shipbuilding | $5.1B | Wicker.senate.gov |
-| May 2024 | Unveils "Peace Through Strength" — $55B additional annual defense spending | $55B/year | Defense News |
+| May 2024 | Unveils "Peace Through Strength", $55B additional annual defense spending | $55B/year | Defense News |
 | FY 2024-2029 | Multi-ship amphibious assault contract to Ingalls | $11.5B | Magnolia Tribune |
 | 2025 | Lockheed Martin Aegis BMD contract for destroyers Wicker authorized | $2.97B | USNI News |
 | FY 2026 | NDAA: $528.7M authorized for Mississippi defense sites | $528.7M | Wicker.senate.gov |
@@ -133,17 +133,17 @@ The class function is clear in the numbers. Wicker's funding breaks down as 48.3
 
 **Two-Audience Problem:** For conservative voters: "Peace Through Strength," countering the "Axis of Aggressors," national security, military readiness. For defense contractors: specific contract authorizations worth billions, shipbuilding expansion, missile defense upgrades, fleet size mandates that guarantee decades of procurement revenue.
 
-**Genuine Win + Structural Limit:** Wicker's advocacy for Navy modernization is consistent, specific, and arguably necessary — the fleet has shrunk while adversary capabilities have grown. The genuine security case exists. But every proposal maintains contractor profit margins, expands procurement without cost controls, and directs contracts to companies that fund his campaign. The "strength" is real; the structural limit is that "strength" is always measured in contractor revenue rather than military effectiveness per dollar spent.
+**Genuine Win + Structural Limit:** Wicker's advocacy for Navy modernization is consistent, specific, and arguably necessary, the fleet has shrunk while adversary capabilities have grown. The genuine security case exists. But every proposal maintains contractor profit margins, expands procurement without cost controls, and directs contracts to companies that fund his campaign. The "strength" is real; the structural limit is that "strength" is always measured in contractor revenue rather than military effectiveness per dollar spent.
 
-**Revolving Door (geographic):** Rather than staff movement, Wicker's revolving door operates through geography. Mississippi's defense economy — Ingalls Shipbuilding (11,000 jobs), Stennis ($950M/year), Keesler ($1B/year) — creates a constituency whose economic survival depends on continued defense spending. The revolving door isn't between government and industry. It's between the state and the committee: Mississippi needs defense spending → Mississippi elects defense hawks → defense hawks direct spending to Mississippi → Mississippi needs more defense spending.
+**Revolving Door (geographic):** Rather than staff movement, Wicker's revolving door operates through geography. Mississippi's defense economy. Ingalls Shipbuilding (11,000 jobs), Stennis ($950M/year), Keesler ($1B/year), creates a constituency whose economic survival depends on continued defense spending. The revolving door isn't between government and industry. It's between the state and the committee: Mississippi needs defense spending → Mississippi elects defense hawks → defense hawks direct spending to Mississippi → Mississippi needs more defense spending.
 
 ---
 
 ## Rhetorical Signature Moves
 
-Wicker's signature is the national security frame that never mentions money. Every spending increase is framed as deterrence, every contract as capability, every budget line as readiness. The "Peace Through Strength" proposal — $55 billion in additional annual spending — is presented as a response to the "Axis of Aggressors," not as a revenue stream for defense contractors. The word "jobs" rarely appears in his defense rhetoric; the framing is consistently about threats, not economics. This is strategic: if defense spending is about security, questioning it is unpatriotic. If it's about jobs, it's an earmark.
+Wicker's signature is the national security frame that never mentions money. Every spending increase is framed as deterrence, every contract as capability, every budget line as readiness. The "Peace Through Strength" proposal, $55 billion in additional annual spending, is presented as a response to the "Axis of Aggressors," not as a revenue stream for defense contractors. The word "jobs" rarely appears in his defense rhetoric; the framing is consistently about threats, not economics. This is strategic: if defense spending is about security, questioning it is unpatriotic. If it's about jobs, it's an earmark.
 
-On foreign policy, Wicker positions as a reliable hawk — pro-Ukraine, pro-Taiwan, anti-China — which aligns defense contractor interests (more weapons production) with bipartisan foreign policy consensus. His advocacy for a $1.5 billion Taiwan weapons replenishment fund and dedicated Taiwan weapons stockpile creates specific procurement mandates that translate directly to contractor orders.
+On foreign policy, Wicker positions as a reliable hawk, pro-Ukraine, pro-Taiwan, anti-China, which aligns defense contractor interests (more weapons production) with bipartisan foreign policy consensus. His advocacy for a $1.5 billion Taiwan weapons replenishment fund and dedicated Taiwan weapons stockpile creates specific procurement mandates that translate directly to contractor orders.
 
 ---
 

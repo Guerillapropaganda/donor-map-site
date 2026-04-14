@@ -46,9 +46,9 @@ The needs-reenrichment flag has been set. The next scheduled pipeline run will p
 
 [[Open Society Foundations]] (OSF) is the philanthropic network of billionaire [[George Soros]], with a total endowment exceeding $32 billion. Founded in 1979, OSF operates globally but maintains significant influence in U.S. progressive politics, particularly in justice system and voting rights infrastructure.
 
-[Open Society Foundations — Wikipedia](https://en.wikipedia.org/wiki/Open_Society_Foundations) (Tier 2) (VERIFIED)
+[Open Society Foundations. Wikipedia](https://en.wikipedia.org/wiki/Open_Society_Foundations) (Tier 2) (VERIFIED)
 
-[Open Society Foundations — Ballotpedia](https://ballotpedia.org/Open_Society_Foundations) (Tier 3) (VERIFIED)
+[Open Society Foundations. Ballotpedia](https://ballotpedia.org/Open_Society_Foundations) (Tier 3) (VERIFIED)
 
 In 2023, [[George Soros]] stepped down as CEO and handed control to his son Alexander Soros, though George retains board influence. The transition included significant organizational restructuring, including layoffs of approximately 40% of international staff, indicating a strategic recalibration of priorities.
 
@@ -56,7 +56,7 @@ OSF is simultaneously: (1) the largest funding source for progressive causes in 
 
 ### What They Want
 
-[[Open Society Foundations]] operates on a stated mission of advancing "open society" — democratic institutions, rule of law, free media, human rights. In practice, OSF funding priorities reveal a narrower agenda focused on professional-class institutional reform.
+[[Open Society Foundations]] operates on a stated mission of advancing "open society", democratic institutions, rule of law, free media, human rights. In practice, OSF funding priorities reveal a narrower agenda focused on professional-class institutional reform.
 
 ### Progressive Prosecutor Funding (justice system Lens)
 
@@ -91,7 +91,7 @@ The goal: expand voting access, particularly for communities disproportionately 
 
 ### Judicial Selection & Court Packing
 
-OSF funds organizations that target judicial elections and conduct "vetting" of progressive judicial candidates. This is infrastructure for court capture — not eliminating the court system but ensuring progressives control it.
+OSF funds organizations that target judicial elections and conduct "vetting" of progressive judicial candidates. This is infrastructure for court capture, not eliminating the court system but ensuring progressives control it.
 
 ### Who They Fund / Who Funds Them
 
@@ -107,13 +107,13 @@ OSF funds organizations that target judicial elections and conduct "vetting" of 
 ### Primary Funding Source:
 [[George Soros]]'s personal wealth. Net worth estimated at $6–7 billion (lower than Koch or Adelson, but concentrated in the OSF endowment, which controls $32B+).
 
-The critical distinction: Unlike [[Stand Together]] (which distributes Koch's personal wealth annually), OSF operates through a quasi-permanent endowment. This creates a professional philanthropic class that exists independent of Soros's direct oversight — but still implements his ideological direction.
+The critical distinction: Unlike [[Stand Together]] (which distributes Koch's personal wealth annually), OSF operates through a quasi-permanent endowment. This creates a professional philanthropic class that exists independent of Soros's direct oversight, but still implements his ideological direction.
 
 ### Organizational Structure:
-- **[[Open Society Foundations]]** — Main grantmaking body (U.S. and international)
-- **Democracy PAC** — Super PAC affiliate for direct electoral spending (2024: $60M+)
-- **Local funding initiatives** — State-based OSF offices that coordinate local giving
-- **International offices** — OSF operates in 100+ countries
+- **[[Open Society Foundations]]**. Main grantmaking body (U.S. and international)
+- **Democracy PAC**. Super PAC affiliate for direct electoral spending (2024: $60M+)
+- **Local funding initiatives**. State-based OSF offices that coordinate local giving
+- **International offices**. OSF operates in 100+ countries
 
 ### What They've Gotten
 
@@ -125,7 +125,7 @@ Soros-funded prosecutors won 77% of races they were targeted to influence (per W
 - Expanded "alternative prosecution" (which benefits nonprofits)
 - Police accountability limited to civil liability (not structural accountability)
 
-The outcome: Progressive rhetoric ("justice system reform") masks professional-class restructuring of the carceral system. Incarceration rates drop slightly, but the infrastructure remains intact. Prosecutor offices employ more progressive lawyers. Nonprofits receive more funding for diversion programs. Capital concentration — the actual driver of crime — remains untouched.
+The outcome: Progressive rhetoric ("justice system reform") masks professional-class restructuring of the carceral system. Incarceration rates drop slightly, but the infrastructure remains intact. Prosecutor offices employ more progressive lawyers. Nonprofits receive more funding for diversion programs. Capital concentration, the actual driver of crime, remains untouched.
 
 ### Court Influence:
 OSF's judicial funding has produced a network of judges favorable to progressive interpretations of constitutional law, particularly on voting rights, LGBTQ+ rights, and religious freedom. This is genuine institutional influence but constrained to constitutional questions, not structural economic change.
@@ -141,7 +141,7 @@ Note: OSF announced it will **not** issue a call for proposals for 2025 Soros Ju
 
 What OSF funding reveals is how billionaire philanthropy funds progressive *rhetoric* while maintaining donor-class *structural control*.
 
-OSF appears to fund social justice: prosecutors who reduce incarceration, voting rights organizations, justice system reform. The reality is narrower: funding for professional progressivism that benefits lawyers, nonprofit staff, and advocacy organizations while leaving the capitalist structure — the actual driver of crime, poverty, and inequality — completely untouched.
+OSF appears to fund social justice: prosecutors who reduce incarceration, voting rights organizations, justice system reform. The reality is narrower: funding for professional progressivism that benefits lawyers, nonprofit staff, and advocacy organizations while leaving the capitalist structure, the actual driver of crime, poverty, and inequality, completely untouched.
 
 This is the mirror image of [[Stand Together]]: Koch money appears to fund justice system reform while advancing deregulation; Soros money appears to fund justice system reform while advancing professional-class employment. Both leave capital untouched.
 
@@ -158,11 +158,11 @@ This is why OSF remains powerful even when individual prosecutor experiments fai
 ### Related Democratic Party Infrastructure
 
 OSF operates within a broader ecosystem of Democratic mega-donor funding:
-- **Democracy PAC** — OSF super PAC
-- **Planned Parenthood Votes** — Reproductive rights super PAC (coordinated with OSF)
-- **Emily's List** — Women's fundraising machine (separate funding, coordinated strategy)
-- **Working Families Party** — OSF-influenced independent political organization
-- **[[Democracy Alliance|Democracy Alliance]]** — Donor coordination club for major Democratic funders
+- **Democracy PAC**. OSF super PAC
+- **Planned Parenthood Votes**. Reproductive rights super PAC (coordinated with OSF)
+- **Emily's List**. Women's fundraising machine (separate funding, coordinated strategy)
+- **Working Families Party**. OSF-influenced independent political organization
+- **[[Democracy Alliance|Democracy Alliance]]**. Donor coordination club for major Democratic funders
 
 ## Class Analysis
 
@@ -176,11 +176,11 @@ The donor class needs its progressive wing. OSF provides it, professionally mana
 
 ### Sources
 
-- [Open Society Foundations — Wikipedia](https://en.wikipedia.org/wiki/Open_Society_Foundations) (Tier 2)
-- [Open Society Foundations — Ballotpedia](https://ballotpedia.org/Open_Society_Foundations) (Tier 3)
-- ~~[How George Soros changed justice system in America — DNYUZ](https://dnyuz.com/2025/12/03/how-george-soros-changed-criminal-justice-in-america/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- [Open Society Foundations. Wikipedia](https://en.wikipedia.org/wiki/Open_Society_Foundations) (Tier 2)
+- [Open Society Foundations. Ballotpedia](https://ballotpedia.org/Open_Society_Foundations) (Tier 3)
+- ~~[How George Soros changed justice system in America. DNYUZ](https://dnyuz.com/2025/12/03/how-george-soros-changed-criminal-justice-in-america/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Guest Commentary: George Soros' Bad Bet on Progressive Prosecutors](https://www.congress.gov/118/meeting/house/117234/documents/HHRG-118-JU00-20240503-SD008-U8.pdf) (Tier 2) (VERIFIED)
-- [Follow the Money: Mapping Soros Prosecutor Funding — LELDF](https://www.policedefense.org/sorosmap/) (Tier 2) (VERIFIED)
+- [Follow the Money: Mapping Soros Prosecutor Funding. LELDF](https://www.policedefense.org/sorosmap/) (Tier 2) (VERIFIED)
 - [Two dozen progressive prosecutors linked to Soros money](https://fox17.com/news/nation-world/two-dozen-progressive-prosecutors-linked-to-soros-money-report-finds) (Tier 3)
 - [Open Society Foundations Announce 2024 Soros Justice Fellows](https://www.opensocietyfoundations.org/newsroom/open-society-foundations-announce-2024-soros-justice-fellows) (Tier 2) (VERIFIED)
 - [Soros Justice Fellowships](https://www.opensocietyfoundations.org/grants/soros-justice-fellowships) (Tier 2) (VERIFIED)

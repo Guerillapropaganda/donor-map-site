@@ -7,7 +7,7 @@ source-tier: 1
 parent: null
 category: right
 platform: multi-platform
-related: "[[Koch Network - Charles Koch]] · [[Fox News - Murdoch Media Empire]] · [[Mark Levin]] · [[Valuetainment]] · [[Jillian Michaels]] · [[Sean Hannity]] · [[Greg Gutfeld]] · [[Crooked Media]] · [[The Platform Dependency Spectrum — Revenue Vulnerability Across Political Media]] · [[Tucker Carlson]] · [[Tim Pool]] · [[Tenet Media]] · [[Steven Crowder]] · [[Rumble]] · [[Matt Walsh]] · [[Laura Ingraham]] · [[Jordan Peterson]] · [[Jesse Watters]] · [[Michael Knowles]] · [[Jeremy Boreing]] · [[James O'Keefe]] · [[Dave Rubin]] · [[Dan Bongino]] · [[The Daily Wire]] · [[Jimmy Dore]] · [[Christopher Rufo]] · [[Charlie Kirk]] · [[Candace Owens]] · [[Ben Shapiro]] · [[Andrew Klavan]] · [[TYT Network - The Young Turks]] · [[Sam Seder]] · [[Rachel Maddow]] · [[Pod Save America]] · [[Kyle Kulinski]] · [[John Oliver]]"
+related: "[[Koch Network - Charles Koch]] · [[Fox News - Murdoch Media Empire]] · [[Mark Levin]] · [[Valuetainment]] · [[Jillian Michaels]] · [[Sean Hannity]] · [[Greg Gutfeld]] · [[Crooked Media]] · [[The Platform Dependency Spectrum , Revenue Vulnerability Across Political Media]] · [[Tucker Carlson]] · [[Tim Pool]] · [[Tenet Media]] · [[Steven Crowder]] · [[Rumble]] · [[Matt Walsh]] · [[Laura Ingraham]] · [[Jordan Peterson]] · [[Jesse Watters]] · [[Michael Knowles]] · [[Jeremy Boreing]] · [[James O'Keefe]] · [[Dave Rubin]] · [[Dan Bongino]] · [[The Daily Wire]] · [[Jimmy Dore]] · [[Christopher Rufo]] · [[Charlie Kirk]] · [[Candace Owens]] · [[Ben Shapiro]] · [[Andrew Klavan]] · [[TYT Network - The Young Turks]] · [[Sam Seder]] · [[Rachel Maddow]] · [[Pod Save America]] · [[Kyle Kulinski]] · [[John Oliver]]"
 ---
 
 #media-pipeline #right #mlm #entrepreneurship #trump #immigration #youtube #podcast
@@ -188,5 +188,5 @@ The "Her Take" expansion is class analysis in action: Valuetainment is building 
 - [Vanity Fair: Watching the Trump Victory Among the Podcasters](https://www.vanityfair.com/news/story/watching-the-trump-victory-among-the-podcasters) (Tier 2) (VERIFIED)
 - [Yahoo Finance/PR Newswire: Bold New Podcast "Her Take" Airs Every Friday](https://finance.yahoo.com/news/bold-podcast-talk-show-her-190000209.html) (Tier 3) (VERIFIED)
 - [Wikipedia: Patrick Bet-David](https://en.wikipedia.org/wiki/Patrick_Bet-David) (Tier 3) (VERIFIED)
-- ~~[Politico: Trump suggests Zelenskyy is to blame for the Russia-Ukraine war (PBD interview context)](https://www.politico.com/news/2024/10/17/trump-zelenskyy-russia-ukraine-war-00184183)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[Politico: Trump suggests Zelenskyy is to blame for the Russia-Ukraine war (PBD interview context)](https://www.politico.com/news/2024/10/17/trump-zelenskyy-russia-ukraine-war-00184183)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 

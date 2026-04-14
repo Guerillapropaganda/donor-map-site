@@ -1,5 +1,5 @@
 ---
-title: "Elena Kagan Master Profile"
+title: "Elena Kagan"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

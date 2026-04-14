@@ -1,5 +1,5 @@
 ---
-title: "Derek Schmidt Master Profile"
+title: "Derek Schmidt"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

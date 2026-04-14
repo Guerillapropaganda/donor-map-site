@@ -1,5 +1,5 @@
 ---
-title: "Jennifer A. Kiggans Master Profile"
+title: "Jennifer A. Kiggans"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

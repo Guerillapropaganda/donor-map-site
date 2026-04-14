@@ -1,33 +1,44 @@
 ---
-title: "Debbie Wasserman Schultz"
+title: Debbie Wasserman Schultz
 type: politician
-bioguide-id: "W000797"
+bioguide-id: W000797
 content-readiness: ready
-central-thesis: "Wasserman Schultz is the Both-Sides Illusion made flesh. She is a Democrat funded by the same sugar PACs and Israel lobby money that funds the Republican Cuba hawks. Her presence in the sugar-defense-Israel coalition proves that the embargo — and ..."
-last-updated: 2026-04-14
+central-thesis: >-
+  Wasserman Schultz is the Both-Sides Illusion made flesh. She is a Democrat
+  funded by the same sugar PACs and Israel lobby money that funds the Republican
+  Cuba hawks. Her presence in the sugar-defense-Israel coalition proves that the
+  embargo , and ...
+last-updated: '2026-04-14'
 source-tier: 1
 parent: null
-party: "Democrat"
-chamber: "House"
-state: "Florida"
-state-abbr: "FL"
-district: "25"
+party: Democrat
+chamber: House
+state: Florida
+state-abbr: FL
+district: '25'
 issues:
-  - "Israel & Foreign Policy"
+  - Israel & Foreign Policy
 top-donors:
-  - "Fanjul Family - Florida Crystals"
-  - "AIPAC"
-total-received: "$1,785,365"
-fec-candidate-id: "H4FL20023"
-last-enriched: "2026-04-14"
+  - Fanjul Family - Florida Crystals
+  - AIPAC
+total-received: '$1,785,365'
+fec-candidate-id: H4FL20023
+last-enriched: '2026-04-13'
 needs-reenrichment: true
-reenrich-reason: "run voting pipeline; run congress pipeline"
-donors: "[[UNITE HERE]] · [[Bacardi - Bacardi USA]]"
-related: "[[_Marco Rubio Master Profile|Rubio]] · [[_Mario Diaz-Balart Master Profile|Diaz-Balart]] · [[Fanjul Family - Florida Crystals]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[_Bob Menendez Master Profile|Menendez]]"
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • VOTING data is missing entirely. This profile was promoted to ready without ever having voting enrichment run on it.
-  • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+reenrich-reason: run voting pipeline; run congress pipeline
+donors: '[[UNITE HERE]] · [[Bacardi - Bacardi USA]]'
+related: >-
+  [[_Marco Rubio Master Profile|Rubio]] · [[_Mario Diaz-Balart Master
+  Profile|Diaz-Balart]] · [[Fanjul Family - Florida Crystals]] · [[AIPAC -
+  American Israel Public Affairs Committee|AIPAC]] · [[_Bob Menendez Master
+  Profile|Menendez]] · [[Rick Scott Master Profile]]
+internal-notes: >-
+  [JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: •
+  VOTING data is missing entirely. This profile was promoted to ready without
+  ever having voting enrichment run on it. • CONGRESS data is missing entirely.
+  This profile was promoted to ready without ever having congress enrichment run
+  on it. The needs-reenrichment flag has been set. The next scheduled pipeline
+  run will pick it up automatically.
 ---
 #politician #democrat #house #florida #sugar #aipac #dnc #both-sides-illusion #class-analysis #follow-the-money
 
@@ -41,13 +52,13 @@ Debbie Wasserman Schultz. U.S. Representative, Florida's 25th Congressional Dist
 
 OpenSecrets CID: N00026106.
 
-Career arc: Florida House (1992-2000) → Florida Senate (2000-2004) → U.S. House (2005-present) → DNC Chair (2011-2016, resigned amid email scandal) → continued House service. Wasserman Schultz is the vault's primary Democratic example of the sugar-AIPAC bipartisan donor axis — the same donors that fund Rubio and Diaz-Balart also fund her.
+Career arc: Florida House (1992-2000) → Florida Senate (2000-2004) → U.S. House (2005-present) → DNC Chair (2011-2016, resigned amid email scandal) → continued House service. Wasserman Schultz is the vault's primary Democratic example of the sugar-AIPAC bipartisan donor axis, the same donors that fund Rubio and Diaz-Balart also fund her.
 
 ---
 
 ## The Central Thesis
 
-Wasserman Schultz is the Both-Sides Illusion made flesh. She is a Democrat funded by the same sugar PACs and Israel lobby money that funds the Republican Cuba hawks. Her presence in the sugar-defense-Israel coalition proves that the embargo — and the sugar subsidy system it protects — survives not because of Republican ideology but because of bipartisan donor capture. When the Fanjul brothers split their donations between parties, Wasserman Schultz is one of the Democrats who receives.
+Wasserman Schultz is the Both-Sides Illusion made flesh. She is a Democrat funded by the same sugar PACs and Israel lobby money that funds the Republican Cuba hawks. Her presence in the sugar-defense-Israel coalition proves that the embargo, and the sugar subsidy system it protects, survives not because of Republican ideology but because of bipartisan donor capture. When the Fanjul brothers split their donations between parties, Wasserman Schultz is one of the Democrats who receives.
 
 ---
 
@@ -77,7 +88,7 @@ Wasserman Schultz is the Both-Sides Illusion made flesh. She is a Democrat funde
 ### Broader Democratic Establishment
 - Healthcare/pharma donors
 - Finance sector PACs
-- 48 PAC donations worth $96,000 in a single reporting quarter — indicating broad establishment support
+- 48 PAC donations worth $96,000 in a single reporting quarter, indicating broad establishment support
 
 ---
 
@@ -91,9 +102,9 @@ Wasserman Schultz is the Both-Sides Illusion made flesh. She is a Democrat funde
 
 ---
 
-### The DNC Scandal — Democratic Donor Infrastructure
+### The DNC Scandal. Democratic Donor Infrastructure
 
-Wasserman Schultz resigned as DNC Chair in July 2016 after WikiLeaks published emails showing DNC staff bias toward Hillary Clinton over Bernie Sanders during the primary. Former DNC Chair Donna Brazile later alleged that Wasserman Schultz allowed the Clinton campaign to take over DNC finances and operations before Clinton secured the nomination — undermining primary fairness.
+Wasserman Schultz resigned as DNC Chair in July 2016 after WikiLeaks published emails showing DNC staff bias toward Hillary Clinton over Bernie Sanders during the primary. Former DNC Chair Donna Brazile later alleged that Wasserman Schultz allowed the Clinton campaign to take over DNC finances and operations before Clinton secured the nomination, undermining primary fairness.
 
 The scandal reveals how donor infrastructure operates at the party level: the DNC's financial dependency on Clinton-aligned donors created institutional capture. Wasserman Schultz's role was to manage that capture, not prevent it.
 
@@ -101,7 +112,7 @@ The scandal reveals how donor infrastructure operates at the party level: the DN
 
 ### The Both-Sides Proof
 
-The vault's core thesis — donors control politicians, not the other way around — finds its clearest bipartisan proof in the Florida sugar coalition:
+The vault's core thesis, donors control politicians, not the other way around, finds its clearest bipartisan proof in the Florida sugar coalition:
 
 | Politician | Party | Sugar PAC Money | AIPAC Money | Cuba Position |
 |-----------|-------|-----------------|-------------|---------------|
@@ -128,15 +139,15 @@ The DNC chairmanship (2011-2016) exposed the party-level version of the same don
 
 **Two-Audience Problem:** Progressive messaging for the Democratic base; sugar industry and AIPAC loyalty for the donors. The contradiction is sustainable because most voters don't track PAC contributions.
 
-**Donor-Class Override:** The sugar program costs consumers $2.4-$4B annually and damages the Everglades. Wasserman Schultz — who represents a South Florida district affected by Everglades pollution — never opposes the program that causes it. Donor interest overrides constituent interest.
+**Donor-Class Override:** The sugar program costs consumers $2.4-$4B annually and damages the Everglades. Wasserman Schultz, who represents a South Florida district affected by Everglades pollution, never opposes the program that causes it. Donor interest overrides constituent interest.
 
 ---
 
 ## Sources
 
-- [FEC Candidate: Debbie Wasserman Schultz campaign finance summary](https://www.fec.gov/data/candidate/H4FL20023/) (Tier 1)
-- [NBC News: DNC Chief Wasserman Schultz stepping aside in wake of scandal](https://www.nbcnews.com/storyline/2016-conventions/democratic-national-committee-chief-stepping-aside-after-convention-n615826) (Tier 2)
-- [Wikipedia: Debbie Wasserman Schultz](https://en.wikipedia.org/wiki/Debbie_Wasserman_Schultz) (Tier 3)
+- [FEC Candidate: Debbie Wasserman Schultz campaign finance summary](https://www.fec.gov/data/candidate/H4FL20023/) (Tier 1) (VERIFIED)
+- [NBC News: DNC Chief Wasserman Schultz stepping aside in wake of scandal](https://www.nbcnews.com/storyline/2016-conventions/democratic-national-committee-chief-stepping-aside-after-convention-n615826) (Tier 2) (VERIFIED)
+- [Wikipedia: Debbie Wasserman Schultz](https://en.wikipedia.org/wiki/Debbie_Wasserman_Schultz) (Tier 3) (VERIFIED)
 
 ---
 
@@ -172,7 +183,7 @@ The DNC chairmanship (2011-2016) exposed the party-level version of the same don
 | CITIZENS AGAINST AIPAC CORRUPTION | $0 | $45,408 |
 | UNITED FOR COMMON SENSE | $0 | $44,250 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H4FL20023/) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H4FL20023/) (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ### DOJ Press Releases
@@ -182,5 +193,5 @@ The DNC chairmanship (2011-2016) exposed the party-level version of the same don
 <!-- auto:voting-record start -->
 **Sources**
 
-- [Congress.gov: Debbie Wasserman Schultz](https://www.congress.gov/member/e000179) (Tier 1)
+- ~~[Congress.gov: Debbie Wasserman Schultz](https://www.congress.gov/member/e000179)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:voting-record end -->

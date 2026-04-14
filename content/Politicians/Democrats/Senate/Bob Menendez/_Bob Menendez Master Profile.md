@@ -33,7 +33,7 @@ donors: [[AIPAC - American Israel Public Affairs Committee|AIPAC]]
 
 ## Who He Is
 
-Robert "Bob" Menendez. Former U.S. Senator from New Jersey (D). Resigned August 2024 after conviction on 16 federal counts including bribery, extortion, acting as an unregistered foreign agent (Egypt and Qatar), conspiracy, and honest services misconduct. Began serving an 11-year prison sentence in June 2025. Previously served as Chairman of the Senate Foreign Relations Committee — the most powerful committee position for shaping U.S. foreign policy, including Cuba policy.
+Robert "Bob" Menendez. Former U.S. Senator from New Jersey (D). Resigned August 2024 after conviction on 16 federal counts including bribery, extortion, acting as an unregistered foreign agent (Egypt and Qatar), conspiracy, and honest services misconduct. Began serving an 11-year prison sentence in June 2025. Previously served as Chairman of the Senate Foreign Relations Committee, the most powerful committee position for shaping U.S. foreign policy, including Cuba policy.
 
 OpenSecrets CID: N00000699.
 
@@ -43,7 +43,7 @@ Career arc: Union City Mayor → NJ State Legislature → U.S. House (1993-2006)
 
 ## The Central Thesis
 
-Menendez is the vault's most extreme case of the foreign policy-to-corruption pipeline. His SFRC chairmanship gave him unilateral power to block nominations, hold hearings, and shape every diplomatic relationship. He used that power to serve three constituencies simultaneously: the Miami Cuban exile community (Cuba embargo enforcement), the Israel lobby (JCPOA opposition), and — most damningly — foreign governments that paid cash and gold for his official acts. He is the proof that the donor-class model isn't just about campaign contributions; when the institutional controls fail, it scales to outright bribery.
+Menendez is the vault's most extreme case of the foreign policy-to-corruption pipeline. His SFRC chairmanship gave him unilateral power to block nominations, hold hearings, and shape every diplomatic relationship. He used that power to serve three constituencies simultaneously: the Miami Cuban exile community (Cuba embargo enforcement), the Israel lobby (JCPOA opposition), and, most damningly, foreign governments that paid cash and gold for his official acts. He is the proof that the donor-class model isn't just about campaign contributions; when the institutional controls fail, it scales to outright bribery.
 
 ---
 
@@ -70,11 +70,11 @@ Menendez is the vault's most extreme case of the foreign policy-to-corruption pi
 ### Illegal Bribery (Convicted)
 - **Egyptian government/businessmen**: Cash, gold bars, Mercedes-Benz in exchange for Senate influence on Grand Ethiopian Renaissance Dam policy, Egyptian military aid, and other Egypt-favorable positions (2018-2022)
 - **Qatar**: Acted as unregistered foreign agent
-- **Salomon Melgen** (ophthalmologist): $750,000+ in campaign contributions; private jets; Caribbean villa vacations; Paris trips; $40K legal defense fund — in exchange for Senate intervention in Medicare billing disputes, Dominican Republic port contracts, and visa applications for Melgen's girlfriends
+- **Salomon Melgen** (ophthalmologist): $750,000+ in campaign contributions; private jets; Caribbean villa vacations; Paris trips; $40K legal defense fund, in exchange for Senate intervention in Medicare billing disputes, Dominican Republic port contracts, and visa applications for Melgen's girlfriends
 
 ---
 
-### Cuba Policy — The "Sanctioner-in-Chief"
+### Cuba Policy. The "Sanctioner-in-Chief"
 
 Menendez was the most powerful individual in the U.S. government on Cuba policy for over a decade. As SFRC Chairman, he could:
 - Block any Cuba-related nomination or treaty
@@ -114,11 +114,11 @@ The class analysis is straightforward: Menendez proves that the campaign finance
 
 ## Analytical Patterns
 
-**Both-Sides Illusion:** Menendez (D) and Rubio (R) — from opposite parties — enforced identical Cuba embargo policy from different institutional positions (SFRC vs. State Department). Both funded by AIPAC and the exile community. The bipartisan Cuba consensus is donor-funded, not constituency-driven.
+**Both-Sides Illusion:** Menendez (D) and Rubio (R), from opposite parties, enforced identical Cuba embargo policy from different institutional positions (SFRC vs. State Department). Both funded by AIPAC and the exile community. The bipartisan Cuba consensus is donor-funded, not constituency-driven.
 
 **Donor-Class Override:** Menendez's Cuba policy served the sugar industry and exile community at the expense of Cuban citizens and the broader U.S. diplomatic interest in normalization. His Egypt corruption served Egyptian military interests at the expense of Ethiopian water rights and U.S. democratic values.
 
-**Revolving Door (Corruption Variant):** Menendez didn't rotate between government and industry — he converted his government position into a direct revenue stream. The SFRC chairmanship was the asset; the bribes were the return.
+**Revolving Door (Corruption Variant):** Menendez didn't rotate between government and industry, he converted his government position into a direct revenue stream. The SFRC chairmanship was the asset; the bribes were the return.
 
 ---
 

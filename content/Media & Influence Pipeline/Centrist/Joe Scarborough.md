@@ -7,7 +7,7 @@ source-tier: 1
 parent: null
 category: centrist
 platform: multi-platform
-related: "[[Fox Corp - Rupert Murdoch]] · [[Comcast Corporation]] · [[The Revolving Door (Media) — Government-to-Media Personnel Pipeline]] · [[Nicolle Wallace]] · [[Sean Hannity]] · [[Greg Gutfeld]] · [[Crooked Media]] · [[Patrick Bet-David]] · [[Mark Levin]] · [[The Platform Dependency Spectrum — Revenue Vulnerability Across Political Media]] · [[Tucker Carlson]] · [[Tim Pool]] · [[Tenet Media]] · [[Steven Crowder]] · [[Rumble]] · [[Matt Walsh]] · [[Laura Ingraham]] · [[Jordan Peterson]] · [[Michael Knowles]] · [[Jesse Watters]] · [[Jeremy Boreing]] · [[James O'Keefe]] · [[Dave Rubin]] · [[Dan Bongino]] · [[Jimmy Dore]] · [[The Daily Wire]] · [[Christopher Rufo]] · [[Charlie Kirk]] · [[Candace Owens]] · [[Ben Shapiro]] · [[Andrew Klavan]] · [[TYT Network - The Young Turks]] · [[Sam Seder]] · [[Rachel Maddow]] · [[Pod Save America]] · [[Kyle Kulinski]]"
+related: "[[Fox Corp - Rupert Murdoch]] · [[Comcast Corporation]] · [[The Revolving Door (Media) , Government-to-Media Personnel Pipeline]] · [[Nicolle Wallace]] · [[Sean Hannity]] · [[Greg Gutfeld]] · [[Crooked Media]] · [[Patrick Bet-David]] · [[Mark Levin]] · [[The Platform Dependency Spectrum , Revenue Vulnerability Across Political Media]] · [[Tucker Carlson]] · [[Tim Pool]] · [[Tenet Media]] · [[Steven Crowder]] · [[Rumble]] · [[Matt Walsh]] · [[Laura Ingraham]] · [[Jordan Peterson]] · [[Michael Knowles]] · [[Jesse Watters]] · [[Jeremy Boreing]] · [[James O'Keefe]] · [[Dave Rubin]] · [[Dan Bongino]] · [[Jimmy Dore]] · [[The Daily Wire]] · [[Christopher Rufo]] · [[Charlie Kirk]] · [[Candace Owens]] · [[Ben Shapiro]] · [[Andrew Klavan]] · [[TYT Network - The Young Turks]] · [[Sam Seder]] · [[Rachel Maddow]] · [[Pod Save America]] · [[Kyle Kulinski]]"
 ---
 
 #media-pipeline #centrist #cable-news #msnbc #ms-now #republican-turned-independent #revolving-door
@@ -110,7 +110,7 @@ The Biden relationship reveals the structural function most clearly: the Preside
 ### Sources
 
 - [Deadline: Morning Joe co-hosts renew MS NOW deal through 2029](https://deadline.com/2026/03/morning-joe-scarborough-mika-brzezinski-contract-1236765234/) (Tier 2) (VERIFIED)
-- ~~[Puck: Will MSNBC pay Joe Scarborough $31 million?](https://puck.news/will-msnbc-pay-joe-scarborough-31-million/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[Puck: Will MSNBC pay Joe Scarborough $31 million?](https://puck.news/will-msnbc-pay-joe-scarborough-31-million/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [CNN: Morning Joe pulled from air after Trump assassination attempt](https://www.cnn.com/2024/07/14/media/msnbc-morning-joe-pulled-trump-assassination) (Tier 2) (VERIFIED)
 - [Politico: Biden surrogates wake up to post-debate panic](https://www.politico.com/news/2024/06/28/biden-debate-democrats-00165722) (Tier 2) (VERIFIED)
 - [Ballotpedia: Joe Scarborough](https://ballotpedia.org/Joe_Scarborough) (Tier 3) (VERIFIED)

@@ -1,5 +1,5 @@
 ---
-title: "Sanford D. Bishop Master Profile"
+title: "Sanford D. Bishop"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

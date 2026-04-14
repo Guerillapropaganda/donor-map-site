@@ -1,9 +1,9 @@
 ---
-title: "Hakeem Jeffries Master Profile"
+title: "Hakeem Jeffries"
 type: politician
 content-readiness: ready
-central-thesis: "Jeffries is the Democratic establishment's chosen successor to Pelosi — a corporate-friendly leader who performs progressivism while maintaining the party's Wall Street and real estate donor relationships. His Brooklyn base is gentrifying; his don..."
-last-updated: 2026-04-14
+central-thesis: "Jeffries is the Democratic establishment's chosen successor to Pelosi , a corporate-friendly leader who performs progressivism while maintaining the party's Wall Street and real estate donor relationships. His Brooklyn base is gentrifying; his don..."
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -48,7 +48,7 @@ donors:
 editorial-review-date: '2026-04-10'
 editorial-reviewer: "Research Claude"
 editorial-result: ready
-editorial-notes: "Promoted draft→ready. Strong editorial content (4 analytical patterns, donor class map, central thesis on gentrification dynamics, Pelosi-to-Jeffries institutional continuity table), but ONLY 1 Tier 1 source type (FEC). Does NOT qualify for verified-candidate status — needs Congress.gov member profile + House.gov leadership page before verified sign-off. FIXED: moved OpenSecrets from Tier 1 to Archived per Vault Rules. FIXED: removed inline dataview markers (donors::, profile-status::) per frontmatter-only rule. FIXED: removed duplicate ---. Zero A000383 contamination. Zero (URL NEEDED) tags. Re-review for verified after Congress.gov and House leadership sources added."
+editorial-notes: "Promoted draft→ready. Strong editorial content (4 analytical patterns, donor class map, central thesis on gentrification dynamics, Pelosi-to-Jeffries institutional continuity table), but ONLY 1 Tier 1 source type (FEC). Does NOT qualify for verified-candidate status , needs Congress.gov member profile + House.gov leadership page before verified sign-off. FIXED: moved OpenSecrets from Tier 1 to Archived per Vault Rules. FIXED: removed inline dataview markers (donors::, profile-status::) per frontmatter-only rule. FIXED: removed duplicate ---. Zero A000383 contamination. Zero (URL NEEDED) tags. Re-review for verified after Congress.gov and House leadership sources added."
 related: "[[_Nancy Pelosi Master Profile]] · [[AIPAC - American Israel Public Affairs Committee]] · [[_Chuck Schumer Master Profile]] · [[_Alexandria Ocasio-Cortez Master Profile|Alexandria Ocasio-Cortez]] · [[_Josh Gottheimer Master Profile|Josh Gottheimer]] · [[The Real Estate Money and Brooklyn's Gentrification Politics]] · [[Team Blue PAC]] · [[Jobs, Education and Family First]] · [[Real Estate Industry]]"
 opensanctions-status: "pep-sanctioned"
 opensanctions-matches: 2
@@ -66,7 +66,7 @@ reenrich-reason: "re-run congress pipeline"
 internal-notes: "[JANITOR 2026-04-10] Demoted ready→draft by pipeline-janitor.cjs because:
   • BIOGUIDE data was stripped from this profile but the frontmatter still says it was enriched. The pipeline thinks it's already done and won't refresh it. Needs a re-run.
 The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
-last-enriched: "2026-04-14"
+last-enriched: "2026-04-13"
 total-raised: "$10,327,241"
 total-spent: "$9,417,063"
 cash-on-hand: "5864742.02"
@@ -87,7 +87,7 @@ phone: "202-225-5936"
 
 ## Who He Is
 
-Hakeem Sekou Jeffries. Born August 4, 1970, Brooklyn, New York. U.S. Representative for New York's 8th congressional district (2013–present). House Minority Leader (2023–present) — the first Black person to lead a major party in either chamber of Congress. Former corporate attorney. Unanimously elected by House Democrats to succeed [[_Nancy Pelosi Master Profile|Nancy Pelosi]] as leader in November 2022. Net worth: estimated –$217,000 to $402,000 per 2024 disclosure (negative due to mortgages, relatively modest for a leader of his stature). Raised in Crown Heights, Brooklyn.
+Hakeem Sekou Jeffries. Born August 4, 1970, Brooklyn, New York. U.S. Representative for New York's 8th congressional district (2013–present). House Minority Leader (2023–present), the first Black person to lead a major party in either chamber of Congress. Former corporate attorney. Unanimously elected by House Democrats to succeed [[_Nancy Pelosi Master Profile|Nancy Pelosi]] as leader in November 2022. Net worth: estimated –$217,000 to $402,000 per 2024 disclosure (negative due to mortgages, relatively modest for a leader of his stature). Raised in Crown Heights, Brooklyn.
 
 ---
 
@@ -107,22 +107,22 @@ Hakeem Sekou Jeffries. Born August 4, 1970, Brooklyn, New York. U.S. Representat
 ## Donor Class Map
 
 ### The Real Estate Money:
-- [[The Real Estate Money and Brooklyn's Gentrification Politics]] — $365K from real estate interests (2022 cycle). Developers, landlords, and real estate attorneys who profit from the transformation of Brooklyn's historically Black neighborhoods. Jeffries' district encompasses areas where median rents have doubled since 2010.
+- [[The Real Estate Money and Brooklyn's Gentrification Politics]], $365K from real estate interests (2022 cycle). Developers, landlords, and real estate attorneys who profit from the transformation of Brooklyn's historically Black neighborhoods. Jeffries' district encompasses areas where median rents have doubled since 2010.
 
 ### The Wall Street and Finance Base:
-- Securities, investment, and banking industries provided nearly $600K in the 2022 cycle. As Minority Leader, Jeffries oversees DCCC fundraising — giving him leverage over members who need donor network access.
+- Securities, investment, and banking industries provided nearly $600K in the 2022 cycle. As Minority Leader, Jeffries oversees DCCC fundraising, giving him leverage over members who need donor network access.
 
 ### The AIPAC and Israel-Lobby Network:
-- [[The Corporate Democrat Leadership Model - From Pelosi to Jeffries]] — Pro-Israel America ($213K), AIPAC direct ($67K), NorPAC ($99K) among top donors per OpenSecrets. Career Israel-lobby total: $1.3M+. Jeffries has maintained a consistently pro-Israel position, including on Gaza, against significant progressive pressure within his caucus.
+- [[The Corporate Democrat Leadership Model - From Pelosi to Jeffries]]. Pro-Israel America ($213K), AIPAC direct ($67K), NorPAC ($99K) among top donors per OpenSecrets. Career Israel-lobby total: $1.3M+. Jeffries has maintained a consistently pro-Israel position, including on Gaza, against significant progressive pressure within his caucus.
 
 ### The Leadership PAC Infrastructure:
-- Jobs, Education and Family First (leadership PAC) functions as the distribution mechanism for donor loyalty. Team Blue PAC — co-founded with [[_Josh Gottheimer Master Profile|Josh Gottheimer]] and Terri Sewell — relies "almost exclusively on corporate PACs and lobbyists." The discipline mechanism is financial: members who cross the leadership risk losing access to the network.
+- Jobs, Education and Family First (leadership PAC) functions as the distribution mechanism for donor loyalty. Team Blue PAC, co-founded with [[_Josh Gottheimer Master Profile|Josh Gottheimer]] and Terri Sewell, relies "almost exclusively on corporate PACs and lobbyists." The discipline mechanism is financial: members who cross the leadership risk losing access to the network.
 
 ---
 
 ### The Pelosi Succession
 
-Jeffries was not spontaneously elected. He was Pelosi's designated successor — she recruited him, mentored him, and retired to clear his path. The transition is the clearest evidence that Democratic leadership is a donor-class institution, not an ideological one:
+Jeffries was not spontaneously elected. He was Pelosi's designated successor, she recruited him, mentored him, and retired to clear his path. The transition is the clearest evidence that Democratic leadership is a donor-class institution, not an ideological one:
 
 | Function | Pelosi Model | Jeffries Model |
 |----------|-------------|----------------|
@@ -142,21 +142,21 @@ The institutional continuity is the point. Jeffries was selected because he woul
 
 | Date | Donor | Amount | Given | Policy Outcome |
 |------|-------|--------|-------|----------------|
-| 2022 | [[Goldman Sachs]], BlackRock, Citigroup (PACs to leadership PAC) | $3M+ career | 2021-2022 cycle | Jeffries opposes progressive amendments to Build Back Better — blocks wealth taxes and stronger drug pricing controls |
-| 2022-11 | Corporate Democratic donor class (institutional backing) | Career investment | 2013-2022 | Elected House Minority Leader — first Black House leader; backed by corporate donors who preferred him to progressive alternatives |
-| 2024 | Defense/finance bipartisan donor class | Part of Wall Street/defense funding | 2023-2024 | Leads Democrats in providing votes to save Speaker Johnson (Ukraine aid) — bipartisan donor interest in Ukraine funding satisfied |
+| 2022 | [[Goldman Sachs]], BlackRock, Citigroup (PACs to leadership PAC) | $3M+ career | 2021-2022 cycle | Jeffries opposes progressive amendments to Build Back Better, blocks wealth taxes and stronger drug pricing controls |
+| 2022-11 | Corporate Democratic donor class (institutional backing) | Career investment | 2013-2022 | Elected House Minority Leader, first Black House leader; backed by corporate donors who preferred him to progressive alternatives |
+| 2024 | Defense/finance bipartisan donor class | Part of Wall Street/defense funding | 2023-2024 | Leads Democrats in providing votes to save Speaker Johnson (Ukraine aid), bipartisan donor interest in Ukraine funding satisfied |
 
 #### Real Estate
 
 | Date | Donor | Amount | Given | Policy Outcome |
 |------|-------|--------|-------|----------------|
-| 2019-2020 | NYC real estate industry (Related Companies, Blackstone, Tishman Speyer) | $2M+ career | 2013-2022 (ongoing) | Jeffries opposes strong tenant protections in federal housing legislation — aligned with real estate donor opposition to rent control and Section 8 expansion |
+| 2019-2020 | NYC real estate industry (Related Companies, Blackstone, Tishman Speyer) | $2M+ career | 2013-2022 (ongoing) | Jeffries opposes strong tenant protections in federal housing legislation, aligned with real estate donor opposition to rent control and Section 8 expansion |
 
 #### Israel Lobby
 
 | Date | Donor | Amount | Given | Policy Outcome |
 |------|-------|--------|-------|----------------|
-| 2021-2024 | [[AIPAC - American Israel Public Affairs Committee|AIPAC]] and affiliated Israel lobby | $1.5M+ | 2021 onward | Votes against every ceasefire resolution in 2023-24; opposes conditions on U.S. military aid to Israel — complete correlation between $1.5M+ and voting record |
+| 2021-2024 | [[AIPAC - American Israel Public Affairs Committee|AIPAC]] and affiliated Israel lobby | $1.5M+ | 2021 onward | Votes against every ceasefire resolution in 2023-24; opposes conditions on U.S. military aid to Israel, complete correlation between $1.5M+ and voting record |
 
 #### Education / Charter Schools
 
@@ -185,9 +185,9 @@ The leadership PAC (Jobs, Education and Family First) and Team Blue PAC (co-foun
 
 ## Rhetorical Signature Moves
 
-1. **The alphabetical affirmations:** Jeffries regularly deploys alliterative alphabetical speeches ("A is for Accountability, B is for Build Back Better...") — a distinctive rhetorical style that reads as inspiring to supporters and evasive to critics, since the poetic form avoids substantive commitment.
+1. **The alphabetical affirmations:** Jeffries regularly deploys alliterative alphabetical speeches ("A is for Accountability, B is for Build Back Better."), a distinctive rhetorical style that reads as inspiring to supporters and evasive to critics, since the poetic form avoids substantive commitment.
 2. **The "big tent" defense:** Jeffries frames the progressive-moderate conflict as strength through diversity rather than a donor-class enforcement operation. The tent metaphor obscures that the donor infrastructure determines who gets into leadership.
-3. **The successor humility:** "I'm not [[_Nancy Pelosi Master Profile|Nancy Pelosi]]" — Jeffries deploys this to deflect comparisons, while replicating her donor infrastructure exactly.
+3. **The successor humility:** "I'm not [[_Nancy Pelosi Master Profile|Nancy Pelosi]]". Jeffries deploys this to deflect comparisons, while replicating her donor infrastructure exactly.
 4. **The Brooklyn authenticity:** His Crown Heights origin story is deployed as class credentials in contexts where his donor base would otherwise create obvious tension.
 
 ---
@@ -196,7 +196,7 @@ The leadership PAC (Jobs, Education and Family First) and Team Blue PAC (co-foun
 
 ### Verified
 - [FEC Candidate: Hakeem Jeffries campaign finance summary](https://www.fec.gov/data/candidate/H2NY10092/) (Tier 1) (VERIFIED)
-- ~~[FEC: Jeffries for Congress committee (C00481488)](https://www.fec.gov/data/committee/C00481488/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[FEC: Jeffries for Congress committee (C00481488)](https://www.fec.gov/data/committee/C00481488/)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [Sludge: Jeffries misleads on AIPAC PAC money](https://readsludge.com/2025/11/25/jeffries-misleads-on-aipac-pac-money/) (Tier 2) (VERIFIED)
 - [Sludge: House Democrats' anti-progressive PAC funded by corporate lobbyists](https://readsludge.com/2022/02/01/house-democrats-new-anti-progressive-pac-is-funded-by-corporate-lobbyists-and-pacs/) (Tier 2) (VERIFIED)
 - [The Real Deal: Jeffries on real estate and gentrification](https://therealdeal.com/magazine/national-july-2020/the-closing-hakeem-jeffries/) (Tier 2) (VERIFIED)
@@ -210,13 +210,13 @@ The leadership PAC (Jobs, Education and Family First) and Team Blue PAC (co-foun
 - Direct FEC IE filings for AIPAC coordinated spending on Jeffries
 
 ### Archived
-- ~~[OpenSecrets: Democratic leadership profile — Hakeem Jeffries](https://www.opensecrets.org/news/2025/04/democratic-leadership-profile-hakeem-jeffries)~~ (was Tier 1, OpenSecrets demoted per Vault Rules 2026-04-09 — industry breakdown data referenced in Donor Class Map body; needs FEC cross-check)
+- ~~[OpenSecrets: Democratic leadership profile. Hakeem Jeffries](https://www.opensecrets.org/news/2025/04/democratic-leadership-profile-hakeem-jeffries)~~ (was Tier 1, OpenSecrets demoted per Vault Rules 2026-04-09, industry breakdown data referenced in Donor Class Map body; needs FEC cross-check)
 
 ---
 
 ### The Four Patterns in Jeffries' Record
 
-#### 1. The Genuine Win + Structural Limit — Historic First Black Leader with Inherited Donor Base
+#### 1. The Genuine Win + Structural Limit. Historic First Black Leader with Inherited Donor Base
 
 Jeffries achieved genuine historic significance: first Black person to lead a major party in either chamber. The symbolism is real and the breaking of a racial barrier in American politics is meaningful.
 
@@ -225,7 +225,7 @@ The structural continuity is also real: Jeffries was Pelosi's designated success
 > [!contradiction]
 > Jeffries represents Crown Heights and Brownsville—neighborhoods transformed from working-class Black communities to gentrifying development targets. His real estate donors ($365K, 2022 cycle) are the gentrifiers. His Wall Street donors ($600K+, 2022 cycle) are the financiers backing the displacement. Jeffries is not personally corrupt; he is the system-level expression of how the Democratic Party's donor structure necessarily produces leaders who speak the language of their constituencies while serving the interests of the investor class destroying those neighborhoods.
 
-#### 2. The Two-Audience Problem — Crown Heights Activist vs. Real Estate/Wall Street Donor
+#### 2. The Two-Audience Problem. Crown Heights Activist vs. Real Estate/Wall Street Donor
 
 Jeffries' personal background:
 - Son of social workers and substance abuse counselor
@@ -241,7 +241,7 @@ Jeffries' donor base and legislative record:
 
 The gap is not personal failure but structural requirement: Jeffries cannot deliver housing affordability to his constituents without threatening his donors. So he delivers symbolic progressivism while accepting real estate money that contradicts it.
 
-#### 3. The Pilot Program — Leadership PAC Distribution as Gatekeeping Mechanism
+#### 3. The Pilot Program. Leadership PAC Distribution as Gatekeeping Mechanism
 
 Jeffries replicates Pelosi's exact discipline mechanism:
 
@@ -249,12 +249,12 @@ Jeffries replicates Pelosi's exact discipline mechanism:
 - **Team Blue PAC:** Co-founded with [[_Josh Gottheimer Master Profile|Josh Gottheimer]] and Terri Sewell, funded "almost exclusively by corporate PACs and lobbyists"
 - **DCCC dues system:** Requires committee members to fundraise for party apparatus, creating incentive dependence
 
-The "pilot program" is that Jeffries could have changed this system—broken the PAC dependence, distributed leadership resources based on seniority/need rather than loyalty. Instead, he replicated it exactly.
+The "pilot program" is that Jeffries could have changed this system, broken the PAC dependence, distributed leadership resources based on seniority/need rather than loyalty. Instead, he replicated it exactly.
 
 > [!money]
 > **The Pattern:** New leaders don't dismantle gatekeeping systems; they inherit them and maintain them because the system provides the leader's power. Jeffries' power derives from controlling who gets campaign resources. If Jeffries were to democratize resource distribution or break the PAC dependence, his power would decline. Instead, he maintains the mechanism and positions himself as a reformer within the system—the exact position Pelosi held.
 
-#### 4. The Villain Framing — Republicans and AIPAC as External Enemies Rather Than Party Structure
+#### 4. The Villain Framing. Republicans and AIPAC as External Enemies Rather Than Party Structure
 
 Jeffries frames opposition to gentrification as requiring:
 - Progressive zoning reforms (blocked by Republican governors and local politicians)
@@ -410,7 +410,7 @@ _No committee data found._
 - ~~[Congress.gov: Hakeem Jeffries](https://www.congress.gov/member/c001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:voting-record end -->
 
-<!-- auto:voting-record pending-merge 2026-04-14 -->
+<!-- auto:voting-record pending-merge 2026-04-13 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 

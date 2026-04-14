@@ -167,7 +167,7 @@ Booz Allen Hamilton FY2013 (ending March 2013): $5.9 billion total revenue, 98% 
 
 **OpenSecrets Tech Donor Data:**
 - [OpenSecrets: Obama 2008 Top Contributors by Industry](https://www.opensecrets.org/pres08/industries?id=N00009638) (Tier 1) (VERIFIED) (UNVERIFIED - URL requires verification)
-- ~~[OpenSecrets: Obama 2012 Top Contributors](https://www.opensecrets.org/pres12/contrib?id=N00009638)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1) (UNVERIFIED - URL requires verification)
+- ~~[OpenSecrets: Obama 2012 Top Contributors](https://www.opensecrets.org/pres12/contrib?id=N00009638)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1) (UNVERIFIED - URL requires verification)
 
 **USA Freedom Act Reform Gap:**
 Section 215 bulk collection: ended November 29, 2015 under USA Freedom Act. PRISM (Section 702 downstream): continued after 2015 reform. Upstream collection (Section 702): continued until partial reform in 2017. Post-reform collection: NSA collected hundreds of millions of call records in 2018 under new authority, exceeding the old bulk program volume.

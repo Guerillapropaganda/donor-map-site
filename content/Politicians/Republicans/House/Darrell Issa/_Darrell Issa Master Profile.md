@@ -1,5 +1,5 @@
 ---
-title: "Darrell Issa Master Profile"
+title: "Darrell Issa"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

@@ -50,7 +50,7 @@ The needs-reenrichment flag has been set. The next scheduled pipeline run will p
 
 ### Who They Are
 
-[[Kaiser Permanente|Kaiser Permanente]] — the largest private nonprofit health care organization in the United States. 12.6 million members. Largest private employer in California. 19,100+ physicians, 184,000+ employees including 130,500 union members. Operates as an integrated system: Kaiser Foundation Health Plan, Kaiser Foundation Hospitals, and the Permanente Medical Groups (for-profit physician partnerships). Self-perpetuating board — members nominated and appointed by the board itself, not elected by enrollees.
+[[Kaiser Permanente|Kaiser Permanente]], the largest private nonprofit health care organization in the United States. 12.6 million members. Largest private employer in California. 19,100+ physicians, 184,000+ employees including 130,500 union members. Operates as an integrated system: Kaiser Foundation Health Plan, Kaiser Foundation Hospitals, and the Permanente Medical Groups (for-profit physician partnerships). Self-perpetuating board, members nominated and appointed by the board itself, not elected by enrollees.
 
 The nonprofit structure is the key to understanding Kaiser politically. As a tax-exempt nonprofit, Kaiser Foundation Health Plan and Kaiser Foundation Hospitals cannot directly donate to political campaigns. So the influence flows through three other channels: behested payments (the biggest pipeline), federal PAC spending, and executive personal donations. The scale of behested payments dwarfs everything else.
 
@@ -58,13 +58,13 @@ The nonprofit structure is the key to understanding Kaiser politically. As a tax
 
 ### What They Want
 
-Preservation of the integrated managed care model that gives Kaiser unique market advantages over competitors. Favorable Medi-Cal contracting terms — especially the no-bid direct contract that lets them cherry-pick healthier enrollees. Protection from mental health parity enforcement that would require them to actually staff their behavioral health networks. Continued exemption from competitive bidding requirements that other health plans must follow. Influence over CalAIM implementation to maintain enrollment growth without accepting the highest-acuity patients.
+Preservation of the integrated managed care model that gives Kaiser unique market advantages over competitors. Favorable Medi-Cal contracting terms, especially the no-bid direct contract that lets them cherry-pick healthier enrollees. Protection from mental health parity enforcement that would require them to actually staff their behavioral health networks. Continued exemption from competitive bidding requirements that other health plans must follow. Influence over CalAIM implementation to maintain enrollment growth without accepting the highest-acuity patients.
 
 ---
 
 ### Who They Fund
 
-> [!money] Follow the Money — Kaiser Permanente → Newsom
+> [!money] Follow the Money. Kaiser Permanente → Newsom
 > **Behested payments:** $35.5 million (2020) — the largest single behested payment relationship in Newsom's governorship
 > - $25 million to Project Homekey (with Blue Shield's $20M — total $45M services subsidy fund)
 > - Additional $10.5M in other behested payments at Newsom's request
@@ -82,17 +82,17 @@ Preservation of the integrated managed care model that gives Kaiser unique marke
 
 ### What They've Gotten
 
-**The No-Bid Medi-Cal Contract (2022) — the crown jewel.** Kaiser received a statewide direct Medi-Cal contract that bypassed the standard competitive bidding process required of every other commercial health plan. Brokered "behind closed doors" in the Governor's office. Codified through AB 2724, signed by Newsom June 30, 2022. Effective January 2024. Covers 32 California counties. Kaiser was allowed to hand-pick its enrollee population — restricting new Medi-Cal enrollment to existing Kaiser members, foster youth, and dually eligible seniors/disabled individuals. The 25% enrollment growth "commitment" sounds like accountability until you realize Kaiser controls who that 25% is.
+**The No-Bid Medi-Cal Contract (2022), the crown jewel.** Kaiser received a statewide direct Medi-Cal contract that bypassed the standard competitive bidding process required of every other commercial health plan. Brokered "behind closed doors" in the Governor's office. Codified through AB 2724, signed by Newsom June 30, 2022. Effective January 2024. Covers 32 California counties. Kaiser was allowed to hand-pick its enrollee population, restricting new Medi-Cal enrollment to existing Kaiser members, foster youth, and dually eligible seniors/disabled individuals. The 25% enrollment growth "commitment" sounds like accountability until you realize Kaiser controls who that 25% is.
 
 **COVID vaccine distribution:** Kaiser operated two mass vaccination sites (Moscone Center SF, Cal Poly Pomona) and served as adviser to Blue Shield on the state's vaccine rollout. Blue Shield got the $15M no-bid vaccine contract; Kaiser got the advisory role and the public health branding.
 
-**Mental health enforcement pattern:** Despite $250 million in settlements and fines over 15 years of mental health access violations — including a record $50 million California fine in 2023 — Kaiser's state contracts have never been threatened. The fines are a cost of doing business. The contracts keep flowing.
+**Mental health enforcement pattern:** Despite $250 million in settlements and fines over 15 years of mental health access violations, including a record $50 million California fine in 2023. Kaiser's state contracts have never been threatened. The fines are a cost of doing business. The contracts keep flowing.
 
 ---
 
-### Class Analysis — The Nonprofit Shield
+### Class Analysis. The Nonprofit Shield
 
-Kaiser Permanente demonstrates how nonprofit status functions as political armor. The organization cannot make direct campaign donations, which makes it appear politically neutral. But the behested payment channel — $35.5 million in a single year — dwarfs what any for-profit health insurer gives through traditional campaign contributions. The nonprofit structure doesn't reduce political influence; it redirects it through a channel with even less public scrutiny.
+Kaiser Permanente demonstrates how nonprofit status functions as political armor. The organization cannot make direct campaign donations, which makes it appear politically neutral. But the behested payment channel, $35.5 million in a single year, dwarfs what any for-profit health insurer gives through traditional campaign contributions. The nonprofit structure doesn't reduce political influence; it redirects it through a channel with even less public scrutiny.
 
 The no-bid Medi-Cal contract is the clearest return on investment in the vault's healthcare section. Every other health plan in California must compete through a formal bidding process. Kaiser got a direct deal negotiated in the Governor's office, codified through legislation he signed, with enrollment terms that let Kaiser select its own patient population. This is not corruption in the legal sense. It is the system working exactly as the donor class designed it.
 
@@ -104,13 +104,13 @@ The fines don't change the behavior because the behavior is profitable. Denying 
 
 ### Enemies / Opposition
 
-**NUHW (National Union of Healthcare Workers)** — represents Kaiser mental health professionals. Led the March 2026 strike over AI, understaffing, and caseload sizes. 29+ bargaining sessions since July 2025. The primary institutional opposition to Kaiser's mental health staffing model.
+**NUHW (National Union of Healthcare Workers)**, represents Kaiser mental health professionals. Led the March 2026 strike over AI, understaffing, and caseload sizes. 29+ bargaining sessions since July 2025. The primary institutional opposition to Kaiser's mental health staffing model.
 
-**California Department of Managed Health Care** — responsible for the $50M fine (2023) and ongoing enforcement. Kaiser accounts for $54M of the $55.7M in mental health fines the DMHC has ever levied. The enforcement exists but hasn't changed the underlying business model.
+**California Department of Managed Health Care**, responsible for the $50M fine (2023) and ongoing enforcement. Kaiser accounts for $54M of the $55.7M in mental health fines the DMHC has ever levied. The enforcement exists but hasn't changed the underlying business model.
 
-**Department of Labor** — $3 million federal settlement (February 2026) over inadequate mental health provider networks and improper use of questionnaires to deny care.
+**Department of Labor**, $3 million federal settlement (February 2026) over inadequate mental health provider networks and improper use of questionnaires to deny care.
 
-**CalMatters / CapRadio / KQED** — investigative journalism has driven public accountability on both the no-bid contract and mental health failures.
+**CalMatters / CapRadio / KQED**, investigative journalism has driven public accountability on both the no-bid contract and mental health failures.
 
 ---
 

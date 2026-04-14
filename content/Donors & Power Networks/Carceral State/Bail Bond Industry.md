@@ -21,9 +21,9 @@ related: "[[CCPOA - California Correctional Peace Officers Association]] · [[PO
 
 ### Who They Are
 
-The commercial bail bond industry — a $2–3.5 billion annual market (IBISWorld projects $3.5B by 2026) operating in 38+ states through approximately 25,000 bail bond companies. The industry is dominated by six insurance corporations that underwrite 76% of all bonds: Fairfax Financial Holdings, Bankers Financial Corp, Allegheny Casualty/International Fidelity/Associated Bond (AIA Holdings), Financial Casualty & Surety, Lexington National Insurance Corp, and American Surety Co.
+The commercial bail bond industry, a $2–3.5 billion annual market (IBISWorld projects $3.5B by 2026) operating in 38+ states through approximately 25,000 bail bond companies. The industry is dominated by six insurance corporations that underwrite 76% of all bonds: Fairfax Financial Holdings, Bankers Financial Corp, Allegheny Casualty/International Fidelity/Associated Bond (AIA Holdings), Financial Casualty & Surety, Lexington National Insurance Corp, and American Surety Co.
 
-The trade group is the **American Bail Coalition (ABC)** — the industry's political arm. Individual bail bond agents write the bonds; the insurance companies underwrite the risk; the ABC coordinates the political spending. The private equity layer adds a third tier: firms like Endeavour Capital buy up bail bond companies and insurance underwriters, extract profit, and fund political opposition to reform.
+The trade group is the **American Bail Coalition (ABC)**, the industry's political arm. Individual bail bond agents write the bonds; the insurance companies underwrite the risk; the ABC coordinates the political spending. The private equity layer adds a third tier: firms like Endeavour Capital buy up bail bond companies and insurance underwriters, extract profit, and fund political opposition to reform.
 
 States that have abolished commercial bail: Illinois, Kentucky, Oregon, Wisconsin, Maine, Nebraska. Massachusetts effectively ended it in 2014. Everywhere else, the industry profits from a simple model: charge a non-refundable 10% fee on bail amounts, collect regardless of case outcome.
 
@@ -31,13 +31,13 @@ States that have abolished commercial bail: Illinois, Kentucky, Oregon, Wisconsi
 
 ### What They Want
 
-Preservation of the cash bail system — the only thing standing between them and extinction. Every bail reform effort is an existential threat. They need courts to continue setting cash bail as the default pretrial release condition. They need legislatures to reject algorithmic risk assessment alternatives. They need voters to fear "criminals on the streets" more than they question why poor people sit in jail while rich people go home.
+Preservation of the cash bail system, the only thing standing between them and extinction. Every bail reform effort is an existential threat. They need courts to continue setting cash bail as the default pretrial release condition. They need legislatures to reject algorithmic risk assessment alternatives. They need voters to fear "criminals on the streets" more than they question why poor people sit in jail while rich people go home.
 
 ---
 
 ### Who They Fund
 
-> [!money] Follow the Money — Bail Industry vs. California Bail Reform
+> [!money] Follow the Money. Bail Industry vs. California Bail Reform
 > **No on Prop 25 (2020):** $11.26 million total raised by "Californians Against the Reckless Bail Scheme"
 >
 > Top donors:
@@ -56,28 +56,28 @@ Preservation of the cash bail system — the only thing standing between them an
 >
 > **Historical California spending:** ~$700K in political campaigns (2002–2011), $105K to California Democratic Party before 2011 convention, ~$4M in direct lobbying against Prop 25.
 
-**Endeavour Capital / Triton Management** — the private equity layer. Endeavour Capital Fund VI owned Aladdin Bail Bonds (largest bail bond company in the U.S., 50+ offices across 8 states) and Seaview Insurance Company (bail bond underwriter). Triton Management Services provided software, claims handling, and management services to Seaview. Their $2.79M to No on Prop 25 was the single largest opposition donation. Key detail: Endeavour Capital divested from bail bonds in early 2020 after sustained ACLU/Color of Change pressure campaigns — but only after spending millions to defeat reform.
+**Endeavour Capital / Triton Management**, the private equity layer. Endeavour Capital Fund VI owned Aladdin Bail Bonds (largest bail bond company in the U.S. 50+ offices across 8 states) and Seaview Insurance Company (bail bond underwriter). Triton Management Services provided software, claims handling, and management services to Seaview. Their $2.79M to No on Prop 25 was the single largest opposition donation. Key detail: Endeavour Capital divested from bail bonds in early 2020 after sustained ACLU/Color of Change pressure campaigns, but only after spending millions to defeat reform.
 
 ---
 
 ### What They've Gotten
 
-**Prop 25 defeated (November 2020).** SB 10 — which would have replaced cash bail with algorithmic risk assessments statewide — was overturned by voters 56–44. The $11.26M opposition campaign successfully reframed bail reform as dangerous to public safety.
+**Prop 25 defeated (November 2020).** SB 10, which would have replaced cash bail with algorithmic risk assessments statewide, was overturned by voters 56–44. The $11.26M opposition campaign successfully reframed bail reform as dangerous to public safety.
 
-### Post-Prop 25 landscape — partial reform, industry intact:
+### Post-Prop 25 landscape, partial reform, industry intact:
 - *In re Kenneth Humphrey* (California Supreme Court, March 2021): Ruled that holding someone solely because they cannot afford bail violates due process and equal protection. Courts must consider ability to pay and explore alternatives before imposing financial bail. But UCLA Law and UC Berkeley research found "no evidence that the decision has made cash bail more affordable or decreased pretrial detention."
 - SB 262: Required a statewide bail schedule (effective January 2023), ability-to-pay inquiries, and consideration of non-financial conditions. Incremental reform that leaves commercial bail intact.
 - Net result: The industry survived. Cash bail remains the default in California despite Humphrey. The system self-corrected just enough to absorb the legal pressure without structural change.
 
 ---
 
-### Class Analysis — Who Pays for Pretrial Freedom
+### Class Analysis. Who Pays for Pretrial Freedom
 
-The bail bond industry is the purest expression of a two-tier justice system in the vault. The product being sold is pretrial freedom — and the price is set by wealth, not risk. A person with resources posts bail and goes home. A person without resources pays a non-refundable 10% fee to a bail bond company — money they never get back regardless of whether charges are dropped, they're acquitted, or they're convicted. If they can't afford even the 10%, they sit in jail awaiting trial, lose their job, lose their housing, and face pressure to plead guilty just to get out.
+The bail bond industry is the purest expression of a two-tier justice system in the vault. The product being sold is pretrial freedom, and the price is set by wealth, not risk. A person with resources posts bail and goes home. A person without resources pays a non-refundable 10% fee to a bail bond company, money they never get back regardless of whether charges are dropped, they're acquitted, or they're convicted. If they can't afford even the 10%, they sit in jail awaiting trial, lose their job, lose their housing, and face pressure to plead guilty just to get out.
 
-The industry's political spending is defensive — they're not buying new policy, they're preventing the elimination of their business model. The $11.26M on Prop 25 was an existential investment. The CCPOA's $2M contribution is the tell: police unions and the bail industry share a structural interest in maintaining pretrial detention as a coercive tool.
+The industry's political spending is defensive, they're not buying new policy, they're preventing the elimination of their business model. The $11.26M on Prop 25 was an existential investment. The CCPOA's $2M contribution is the tell: police unions and the bail industry share a structural interest in maintaining pretrial detention as a coercive tool.
 
-The private equity dimension adds extraction on top of extraction. Endeavour Capital bought Aladdin Bail Bonds to profit from the spread between bond premiums collected and defaults paid. When reform threatened that profit, they spent $2.79M to defeat it. When public pressure threatened their reputation, they divested — but only after the reform was already dead.
+The private equity dimension adds extraction on top of extraction. Endeavour Capital bought Aladdin Bail Bonds to profit from the spread between bond premiums collected and defaults paid. When reform threatened that profit, they spent $2.79M to defeat it. When public pressure threatened their reputation, they divested, but only after the reform was already dead.
 
 Ten states have no licensure requirements for bail agents. Only 22 states require bounty hunters to be licensed. The industry operates in a regulatory vacuum by design.
 
@@ -85,13 +85,13 @@ Ten states have no licensure requirements for bail agents. Only 22 states requir
 
 ### Enemies / Opposition
 
-**ACLU / Color of Change** — led the pressure campaign that forced Endeavour Capital's divestment. Ongoing litigation and advocacy for bail reform nationally.
+**ACLU / Color of Change**, led the pressure campaign that forced Endeavour Capital's divestment. Ongoing litigation and advocacy for bail reform nationally.
 
-**[[Brennan Center for Justice]]** — primary research and policy organization documenting the bail industry's profit structure and political spending.
+**[[Brennan Center for Justice]]**, primary research and policy organization documenting the bail industry's profit structure and political spending.
 
-**John & Laura Arnold Foundation** — $5M to Yes on Prop 25. The largest funder of bail reform efforts nationally through their Pretrial Justice Institute.
+**John & Laura Arnold Foundation**, $5M to Yes on Prop 25. The largest funder of bail reform efforts nationally through their Pretrial Justice Institute.
 
-**Public defenders and legal aid organizations** — the frontline institutional opposition in courtrooms.
+**Public defenders and legal aid organizations**, the frontline institutional opposition in courtrooms.
 
 ---
 
@@ -100,7 +100,7 @@ Ten states have no licensure requirements for bail agents. Only 22 states requir
 - [Ballotpedia: California Proposition 25 (2020) donor data](https://ballotpedia.org/California_Proposition_25,_Replace_Cash_Bail_with_Risk_Assessments_Referendum_%282020%29) (Tier 1) (VERIFIED)
 - [Brennan Center for Justice: How Profit Shapes the Bail Bond System](https://www.brennancenter.org/our-work/analysis-opinion/how-profit-shapes-bail-bond-system) (Tier 2) (VERIFIED)
 - [ACLU: Statement on Endeavour Capital's Divestment (2020)](https://www.aclu.org/press-releases/aclu-and-color-change-statement-endeavour-capitals-divestment-predatory-profit-bail) (Tier 2) (VERIFIED)
-- ~~[In re Kenneth Humphrey, California Supreme Court (2021)](https://law.justia.com/cases/california/supreme-court/2021/s247278.html)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[In re Kenneth Humphrey, California Supreme Court (2021)](https://law.justia.com/cases/california/supreme-court/2021/s247278.html)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [California Department of Insurance: Seaview Insurance records](https://www.aclu.org/documents/final-letter-aclu-sent-endeavour-capital) (Tier 1) (VERIFIED)
 - [Private Equity Stakeholder Project: Endeavour Capital bail bond coverage](https://pestakeholder.org/news/following-aclu-report-endeavour-capital-exits-bail-bond-investment-2/) (Tier 3) (VERIFIED)
 - [Color of Change: Endeavour Capital Statement](https://colorofchange.org/blog/internal_press/aclu-and-color-of-change-statement-on-endeavour-capitals-divestment-from-predatory-for-profit-bail-industry/) (Tier 3) (VERIFIED)

@@ -111,7 +111,7 @@ The PAC also illustrates **asymmetry in Palestinian rights advocacy:** Pro-Pales
 
 - [The American Prospect: AIPAC Coordinates Donors in Illinois House Primaries](https://prospect.org/2026/02/06/aipac-coordinates-donors-in-illinois-house-primaries/) (Tier 2) (VERIFIED)
 - [FEC: Elect Chicago Women PAC filings](https://www.fec.gov/data/committee/C00936724/) (Tier 1) (VERIFIED)
-- ~~[OpenSecrets: AIPAC political spending](https://www.opensecrets.org/orgs/aipac/summary)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[OpenSecrets: AIPAC political spending](https://www.opensecrets.org/orgs/aipac/summary)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [The Intercept: AIPAC Is Secretly Funneling Money Into a Congressional Race, Sources Say](https://theintercept.com/2024/05/04/aipac-congress-the-squad/) (Tier 2) (VERIFIED)
 - [Illinois State Board of Elections: 2024 House Primary Results](https://www.cyberdriveillinois.com/departments/index/register/home.html) (Tier 1) (NEEDS REVIEW)
 

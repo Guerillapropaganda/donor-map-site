@@ -30,7 +30,7 @@ Anti-Trump conservative media outlet founded in 2018 by Bill Kristol and Charlie
 
 ### FEC Record
 
-*Pending API query — run fecDonorLookup() for principals/founders.*
+*Pending API query, run fecDonorLookup() for principals/founders.*
 
 ### Who Funds Them
 
@@ -48,15 +48,15 @@ Anti-Trump conservatism, institutional democracy defense, GOP accountability. Th
 
 ### What Their Funders Got
 
-*To be researched — map funding inputs to editorial/policy outputs.*
+*To be researched, map funding inputs to editorial/policy outputs.*
 
 ### Class Analysis
 
-Does The Bulwark function as a pressure valve — channeling conservative anti-Trump energy into institutional liberalism rather than economic populism? Omidyar funds both left (The Intercept) and center (The Bulwark) media. What class interest does 'defending democracy' serve when the definition of democracy excludes economic democracy? Is Never-Trump conservatism a political movement or a donor-class project?
+Does The Bulwark function as a pressure valve, channeling conservative anti-Trump energy into institutional liberalism rather than economic populism? Omidyar funds both left (The Intercept) and center (The Bulwark) media. What class interest does 'defending democracy' serve when the definition of democracy excludes economic democracy? Is Never-Trump conservatism a political movement or a donor-class project?
 
 ### Capture Architecture
 
-*Pending — 3-5 line structural summary of platform funder, income dependency, and editorial red lines.*
+*Pending, 3-5 line structural summary of platform funder, income dependency, and editorial red lines.*
 
 ### Timeline
 
@@ -68,5 +68,5 @@ Does The Bulwark function as a pressure valve — channeling conservative anti-T
 
 ### Sources
 
-*No sources yet — raw placeholder.*
+*No sources yet, raw placeholder.*
 

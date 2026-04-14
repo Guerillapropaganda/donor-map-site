@@ -1,5 +1,5 @@
 ---
-title: "Nick Lalota Master Profile"
+title: "Nick Lalota"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

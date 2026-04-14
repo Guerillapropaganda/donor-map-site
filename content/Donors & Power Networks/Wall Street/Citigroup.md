@@ -133,9 +133,9 @@ Citigroup represents the purest form of Wall Street regulatory capture. The bank
 - [OpenSecrets: Citigroup Inc organizational profile](https://www.opensecrets.org/orgs/citigroup-inc/summary?id=D000000071) (Tier 1) (VERIFIED)
 - [FEC: Citigroup PAC filings](https://www.fec.gov/data/committee/C00108092/) (Tier 1)
 - [TARP: Citigroup bailout allocation records](https://home.treasury.gov/data/troubled-asset-relief-program) (Tier 1) (VERIFIED)
-- ~~[New York Times: Citigroup lobbyists wrote derivatives provision in spending bill](https://dealbook.nytimes.com/2014/12/11/citigroup-and-other-big-banks-win-a-round-in-dodd-frank-rollback/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[New York Times: Citigroup lobbyists wrote derivatives provision in spending bill](https://dealbook.nytimes.com/2014/12/11/citigroup-and-other-big-banks-win-a-round-in-dodd-frank-rollback/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [ProPublica: Robert Rubin's role in Citigroup's risk-taking](https://www.propublica.org/article/how-citigroup-unraveled-under-geithners-watch) (Tier 2) (VERIFIED)
-- ~~[Wall Street Journal: Citigroup's political spending and lobbying operation](https://www.wsj.com/articles/citigroup-lobbying)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[Wall Street Journal: Citigroup's political spending and lobbying operation](https://www.wsj.com/articles/citigroup-lobbying)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Ballotpedia: Citigroup political spending](https://ballotpedia.org/Citigroup) (Tier 3) (VERIFIED)
 
 ### Influence Network (Cross-Reference)

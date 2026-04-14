@@ -11,7 +11,7 @@ sprint-end: '2026-04-30'
 sprint-goal: "Public launch of thedonormap.org with ≥40 verified profiles, ≥100 draft→ready promotions, all pipeline bugs fixed, 528 conflicts triaged"
 ---
 
-# Sprint Schedule — April 10-30, 2026
+# Sprint Schedule. April 10-30, 2026
 
 This file is the **single source of truth** for the Apr 10-30 sprint schedule. Both the Ops app calendar component AND both Claude sessions read this file. Edit the frontmatter `last-updated` field whenever you modify the schedule. Phases, daily blocks, tasks, and exit criteria are all in structured form below so the calendar can parse them.
 
@@ -209,7 +209,7 @@ daily_template:
     work: "Protect sleep. Window to 23:30 is crunch-only."
 ```
 
-## Phase 1 — must-complete tasks
+## Phase 1, must-complete tasks
 
 ```yaml
 phase_1_tasks:
@@ -1142,7 +1142,7 @@ phase_1_tasks:
       priority_order: ["FEC", "Congress.gov", "Senate LDA", "USASpending", "SAM.gov", "ProPublica Nonprofit", "SEC EDGAR", "GovTrack", "FARA", "GLEIF", "DOJ Press", "LobbyView"]
 ```
 
-## Phase 2 — must-complete tasks
+## Phase 2, must-complete tasks
 
 ```yaml
 phase_2_tasks:
@@ -1191,7 +1191,7 @@ phase_2_tasks:
       notes: "Feeds the ContradictionCard component currently rendering on Pelosi only"
 ```
 
-## Phase 3 — must-complete tasks
+## Phase 3, must-complete tasks
 
 ```yaml
 phase_3_tasks:
@@ -1368,7 +1368,7 @@ parser_guidance:
 
 ---
 
-**Schedule last updated: 2026-04-12 (Capitol Trades mega-build — cc_79-84 added: House+Senate backfill, 12-tab Ops page, 6 API routes, name normalization, data quality report. 52,822 transactions.)**
+**Schedule last updated: 2026-04-12 (Capitol Trades mega-build, cc_79-84 added: House+Senate backfill, 12-tab Ops page, 6 API routes, name normalization, data quality report. 52,822 transactions.)**
 **Current phase: phase_1 (Day 2 of 7)**
 **Next checkpoint: Phase 1 exit, 2026-04-16**
 **New data sources added 2026-04-11: FDA (pharma/device/food enforcement), OCC (national bank enforcement), FTC (mergers + historical enforcement). All three live in CI + Ops app.**

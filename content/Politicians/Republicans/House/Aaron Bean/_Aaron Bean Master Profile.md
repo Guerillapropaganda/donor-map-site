@@ -1,5 +1,5 @@
 ---
-title: "Aaron Bean Master Profile"
+title: "Aaron Bean"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

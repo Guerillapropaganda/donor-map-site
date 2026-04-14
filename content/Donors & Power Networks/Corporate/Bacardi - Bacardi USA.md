@@ -13,7 +13,7 @@ politicians-funded:
   - "Maria Elvira Salazar"
   - "Carlos Gimenez"
   - "Debbie Wasserman Schultz"
-related: "[[The Nuestra América Convoy — How the Donor Class Attacked a Humanitarian Mission]] · [[Helms-Burton Title III and the Bacardi Trademark Wars: How Corporate Lobbying Rewrote U.S.-Cuba Policy]] · [[_Marco Rubio Master Profile|Rubio]] · [[_Mario Diaz-Balart Master Profile|Diaz-Balart]] · [[_Maria Elvira Salazar Master Profile|Salazar]] · [[_Carlos Gimenez Master Profile|Gimenez]] · [[_Debbie Wasserman Schultz Master Profile|Wasserman Schultz]] · [[Fanjul Family - Florida Crystals]] · [[LARA Fund - Mauricio Claver-Carone]] · [[Helms-Burton Title III and the Bacardi Trademark Wars]] · [[Operation Southern Spear and the Cuba Fuel Blockade]] · [[MasTec - Mas Canosa Family]]"
+related: "[[The Nuestra América Convoy , How the Donor Class Attacked a Humanitarian Mission]] · [[Helms-Burton Title III and the Bacardi Trademark Wars: How Corporate Lobbying Rewrote U.S.-Cuba Policy]] · [[_Marco Rubio Master Profile|Rubio]] · [[_Mario Diaz-Balart Master Profile|Diaz-Balart]] · [[_Maria Elvira Salazar Master Profile|Salazar]] · [[_Carlos Gimenez Master Profile|Gimenez]] · [[_Debbie Wasserman Schultz Master Profile|Wasserman Schultz]] · [[Fanjul Family - Florida Crystals]] · [[LARA Fund - Mauricio Claver-Carone]] · [[Helms-Burton Title III and the Bacardi Trademark Wars]] · [[Operation Southern Spear and the Cuba Fuel Blockade]] · [[MasTec - Mas Canosa Family]]"
 source-types:
   - LDA
 known-gaps:
@@ -31,9 +31,9 @@ last-enriched: "2026-04-11"
 
 ### Who They Are
 
-Bacardi Limited, founded in Santiago de Cuba in 1862, is the world's largest privately held spirits company. Following the nationalization of operations by the Castro regime (1959-1960), the family-controlled enterprise relocated to Puerto Rico, Mexico, and the Bahamas, preserving its capital and legal claim to the confiscated Cuban assets—particularly the Havana Club trademark.
+Bacardi Limited, founded in Santiago de Cuba in 1862, is the world's largest privately held spirits company. Following the nationalization of operations by the Castro regime (1959-1960), the family-controlled enterprise relocated to Puerto Rico, Mexico, and the Bahamas, preserving its capital and legal claim to the confiscated Cuban assets, particularly the Havana Club trademark.
 
-During the Helms-Burton era, key figures included executive director Manuel J. Cutillas. The organization's primary lobbying apparatus has been Otto Reich (an associated lobbyist drawing $600K+ in fees since 1996) and the law firm Kelly-Drye and Warren (represented by Ignacio Sanchez). Otto Reich's career trajectory—from Bacardi lobbyist to Assistant Secretary of State for Western Hemisphere Affairs (2002-2004)—exemplifies the revolving-door mechanism by which private interests flow into policy enforcement.
+During the Helms-Burton era, key figures included executive director Manuel J. Cutillas. The organization's primary lobbying apparatus has been Otto Reich (an associated lobbyist drawing $600K+ in fees since 1996) and the law firm Kelly-Drye and Warren (represented by Ignacio Sanchez). Otto Reich's career trajectory, from Bacardi lobbyist to Assistant Secretary of State for Western Hemisphere Affairs (2002-2004), exemplifies the revolving-door mechanism by which private interests flow into policy enforcement.
 
 ### What They Want
 
@@ -74,7 +74,7 @@ Bacardi's political agenda centers on four interconnected objectives:
 
 #### Historical Pattern (1999-2002)
 
-During the Cuban exile political spending boom, Bacardi and the Fanjul Family combined to represent 70%+ of $1.8 million in exile-directed contributions. Bacardi Martini alone contributed approximately $400,000. Notably, contributions to Rep. Dan Burton (R-FL), a key Helms-Burton architect, increased from $0 to $61,000 during this period. Senator Jesse Helms received 74% of $86,000 in contributions (1995-1996). After Helms-Burton's passage in March 1996, neither Burton nor Helms received further contributions—suggesting that once the legislative objective was achieved, the financial incentive dissolved.
+During the Cuban exile political spending boom, Bacardi and the Fanjul Family combined to represent 70%+ of $1.8 million in exile-directed contributions. Bacardi Martini alone contributed approximately $400,000. Notably, contributions to Rep. Dan Burton (R-FL), a key Helms-Burton architect, increased from $0 to $61,000 during this period. Senator Jesse Helms received 74% of $86,000 in contributions (1995-1996). After Helms-Burton's passage in March 1996, neither Burton nor Helms received further contributions, suggesting that once the legislative objective was achieved, the financial incentive dissolved.
 
 ### What They've Gotten
 
@@ -101,7 +101,7 @@ Bacardi demonstrates the vault's clearest example of the revolving-door pipeline
 5. **Subsequent activation**: Twenty-three years later, the same lobbying firm (Cormac Group) that had represented Bacardi successfully mobilized the campaign for Title III activation (2019)
 6. **Final closure**: The No Stolen Trademarks Act (2024) calcified Bacardi's monopoly in perpetuity
 
-The political contributions ($39,000 PAC annually, $550,000 in lobbying) are investments in access and relationship maintenance, not in legislative capture itself. The legislative capture occurred upstream—in the drafting phase—when corporate lawyers inserted the provisions that would later become law. The trademark victory alone—exclusive US access to the "Havana Club" brand, the world's third-largest rum category—generates revenue measured in hundreds of millions of dollars annually, making the cumulative political spending an extraordinarily profitable investment in state power.
+The political contributions ($39,000 PAC annually, $550,000 in lobbying) are investments in access and relationship maintenance, not in legislative capture itself. The legislative capture occurred upstream, in the drafting phase, when corporate lawyers inserted the provisions that would later become law. The trademark victory alone, exclusive US access to the "Havana Club" brand, the world's third-largest rum category, generates revenue measured in hundreds of millions of dollars annually, making the cumulative political spending an extraordinarily profitable investment in state power.
 
 ### Sources
 

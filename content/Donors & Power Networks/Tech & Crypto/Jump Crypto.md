@@ -76,11 +76,11 @@ Jump Crypto and Jump Trading's substantial political contributions have helped s
 
 ### Class Analysis
 
-Jump Crypto represents the pattern of financial oligarchs using massive capital reserves to buy regulatory capture before it's needed: Jump Trading's high-frequency trading operations already capture rent from traditional financial markets by exploiting microsecond timing advantages, and Jump Crypto extends this rent-extraction to cryptocurrency markets. The company's massive contributions to Fairshake demonstrate how concentrated capital can establish industry consensus through political donations alone — billions in political spending can shape which policy frameworks Congress considers viable. Jump Crypto's relative obscurity compared to companies like Ripple shows how much of crypto's political influence operates through middlemen like PACs and trade associations rather than direct corporate spending.
+Jump Crypto represents the pattern of financial oligarchs using massive capital reserves to buy regulatory capture before it's needed: Jump Trading's high-frequency trading operations already capture rent from traditional financial markets by exploiting microsecond timing advantages, and Jump Crypto extends this rent-extraction to cryptocurrency markets. The company's massive contributions to Fairshake demonstrate how concentrated capital can establish industry consensus through political donations alone, billions in political spending can shape which policy frameworks Congress considers viable. Jump Crypto's relative obscurity compared to companies like Ripple shows how much of crypto's political influence operates through middlemen like PACs and trade associations rather than direct corporate spending.
 
 ### Sources
 
-- ~~[OpenSecrets: Fairshake PAC Contributions by Donor](https://www.opensecrets.org/orgs/jump-trading-llc/summary?id=D000088534)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[OpenSecrets: Fairshake PAC Contributions by Donor](https://www.opensecrets.org/orgs/jump-trading-llc/summary?id=D000088534)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 
 ---
 

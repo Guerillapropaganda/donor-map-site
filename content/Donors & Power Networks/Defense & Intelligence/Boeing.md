@@ -129,7 +129,7 @@ Boeing pursues four concrete policy objectives: (1) continuous increase in defen
 
 | Date | Event | Amount | Source |
 |------|-------|--------|--------|
-| 2022-01-01 | Boeing hires 85 government officials (record year for defense contractor revolving door) | — | POGO |
+| 2022-01-01 | Boeing hires 85 government officials (record year for defense contractor revolving door) |, | POGO |
 | 2024-01-01 | Boeing distributes $1.59M to federal candidates (2:1 Republican:Democrat ratio) | $1.59M | OpenSecrets |
 | 2024-01-01 | Boeing contributes $40K+ to Armed Services Committee members (Katherine Clark, Clyburn, Johnson, Emmer) | $40K+ | OpenSecrets |
 | 2025-01-01 | Boeing deploys ~$1M to 300 political committees in 2025 YTD | $1M | OpenSecrets |
@@ -146,7 +146,7 @@ Boeing pursues four concrete policy objectives: (1) continuous increase in defen
 
 **Defense Contracts (2024-2026):** $12.8 billion in new major contracts signed January 2026 alone ($4.2B E-4B logistics, $8.6B F-15IA aircraft). Sustained flow of $20B+ annually across multiple program lines without competitive pressure.
 
-**Regulatory Capture — FAA Certification:** 737 MAX allowed to return to service (November 2020) despite 346 deaths from two crashes (March 2018, March 2019). Investigation later found Boeing's design review was inadequate and FAA's certification process was compromised. Boeing hired former FAA officials directly, creating structural incentive for lax oversight.
+**Regulatory Capture. FAA Certification:** 737 MAX allowed to return to service (November 2020) despite 346 deaths from two crashes (March 2018, March 2019). Investigation later found Boeing's design review was inadequate and FAA's certification process was compromised. Boeing hired former FAA officials directly, creating structural incentive for lax oversight.
 
 **737 MAX Legal Shield:** Despite DOJ settlement for $2.5B (2021) acknowledging misconduct in certification, penalties against the corporation were waived through deferred prosecution agreement. No executives faced charges.
 
@@ -163,15 +163,15 @@ Boeing pursues four concrete policy objectives: (1) continuous increase in defen
 > [!contradiction]
 > **The Central Contradiction:** Boeing presents itself as the responsible contractor and "partner" to the Pentagon and FAA. The actual record: prioritized shareholder dividends over safety engineering, lobbied to weaken the FAA certification process, hired regulators to ensure weak oversight, settled criminal fraud charges without criminal consequences, and continued receiving contract increases despite documented quality failures.
 
-**Pattern of Regulatory Evasion:** Two whistleblowers died in 2024—John Barnett (62, suicide March 9, 2024 after deposition in retaliation case) and Joshua Dean (45, MRSA infection May 2, 2024 after reporting defects at Spirit AeroSystems, Boeing's main supplier). Boeing's culture actively suppresses safety reporting.
+**Pattern of Regulatory Evasion:** Two whistleblowers died in 2024, John Barnett (62, suicide March 9, 2024 after deposition in retaliation case) and Joshua Dean (45, MRSA infection May 2, 2024 after reporting defects at Spirit AeroSystems, Boeing's main supplier). Boeing's culture actively suppresses safety reporting.
 
-**Ongoing Failures (Starliner, 2024):** NASA's investigation classified Starliner's crewed test failure as a "Type A mishap"—highest severity classification. Issues included thruster failures, qualification gaps, "leadership missteps," and "cultural breakdowns." Boeing's response: Continue contract work with reduced mission scope. No structural accountability.
+**Ongoing Failures (Starliner, 2024):** NASA's investigation classified Starliner's crewed test failure as a "Type A mishap", highest severity classification. Issues included thruster failures, qualification gaps, "leadership missteps," and "cultural breakdowns." Boeing's response: Continue contract work with reduced mission scope. No structural accountability.
 
 ---
 
 ### The Revolving Door
 
-Boeing hired 85 government officials in 2022 alone—more than any other defense contractor. Notable examples:
+Boeing hired 85 government officials in 2022 alone, more than any other defense contractor. Notable examples:
 
 - **Heidi Grant:** Director of Pentagon's Defense Security Cooperation Agency (arms sales office) → hired by Boeing to lead global sales strategy
 - **Vice Admiral Jeffrey Wieringa:** Led Pentagon's arms sales office → President for Global Services and Support at Boeing (within one year of retirement)
@@ -187,7 +187,7 @@ Boeing hired 85 government officials in 2022 alone—more than any other defense
 
 **[[_Elizabeth Warren Master Profile|Elizabeth Warren]] (D-MA):** Investigated Boeing's SLS cost overruns and revolving door practices; signatory to 2025 letter with Tammy Duckworth, Richard Blumenthal, Elissa Slotkin, Mazie Hirono urging Boeing-IAM union negotiations.
 
-**Cornerstone Government Affairs:** Boeing's primary lobbying firm during 737 MAX crisis (2019–2024) was cut loose in February 2024—Boeing's own move to create separation from the crash response narrative.
+**Cornerstone Government Affairs:** Boeing's primary lobbying firm during 737 MAX crisis (2019–2024) was cut loose in February 2024, Boeing's own move to create separation from the crash response narrative.
 
 ---
 
@@ -241,12 +241,12 @@ The Starliner failure completes the picture. After stranding two astronauts and 
 - [Motley Fool: Boeing wins $12.8B defense contracts January 2026](https://www.fool.com/investing/2026/01/10/2026-boeing-wins-billion-defense-contract/) (Tier 2) (VERIFIED)
 
 ### Revolving Door (Tier 2)
-- ~~[Project On Government Oversight: Pentagon's Revolving Door 2021 Review](https://www.pogo.org/analyses/the-pentagons-revolving-door-keeps-spinning-2021-in-review)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[Project On Government Oversight: Pentagon's Revolving Door 2021 Review](https://www.pogo.org/analyses/the-pentagons-revolving-door-keeps-spinning-2021-in-review)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Seattle Times: How the revolving door at FAA spins Boeing's way](https://www.seattletimes.com/business/boeing-aerospace/how-the-revolving-door-at-faa-spins-boeings-way/) (Tier 2) (VERIFIED)
 
 ### Starliner Program Failure (Tier 2)
 - [NASA Press Release: Starliner Crewed Flight Test Investigation](https://www.nasa.gov/news-release/nasa-releases-report-on-starliner-crewed-flight-test-investigation/) (Tier 1) (VERIFIED)
-- ~~[Scientific American: NASA says a litany of failures led to 2024 Boeing Starliner astronaut stranding](https://www.scientificamerican.com/article/nasa-says-a-litany-of-failures-led-to-2024-boeing-starliner/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[Scientific American: NASA says a litany of failures led to 2024 Boeing Starliner astronaut stranding](https://www.scientificamerican.com/article/nasa-says-a-litany-of-failures-led-to-2024-boeing-starliner/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [CNN: NASA designates Boeing Starliner test flight a 'Type A mishap'](https://www.cnn.com/2026/02/19/science/nasa-boeing-starliner-investigation-report) (Tier 2) (VERIFIED)
 
 ### SLS/Artemis Cost Overruns (Tier 2)
@@ -263,22 +263,22 @@ The Starliner failure completes the picture. After stranding two astronauts and 
 
 ---
 
-### March 2026 Updates — Fischer Earmark and Iran War Windfall
+### March 2026 Updates. Fischer Earmark and Iran War Windfall
 
-**The Fischer Earmark — $34K Buys $60M:** Sen. Deb Fischer (R-NE), who chairs the Strategic Forces subcommittee and sits on both Armed Services and Appropriations, secured **$60 million above the President's request** for additional Boeing **MH-139A Grey Wolf helicopters** — used for ICBM missile field monitoring and security. Boeing PAC and individual employees donated **$34,000+** to Fischer. The MH-139 program is a Boeing prime contract valued at **$2.38 billion for up to 84 helicopters** (awarded 2018). Boeing was subsequently awarded a contract for **eight additional MH-139A helicopters** beyond the original buy.
+**The Fischer Earmark, $34K Buys $60M:** Sen. Deb Fischer (R-NE), who chairs the Strategic Forces subcommittee and sits on both Armed Services and Appropriations, secured **$60 million above the President's request** for additional Boeing **MH-139A Grey Wolf helicopters**, used for ICBM missile field monitoring and security. Boeing PAC and individual employees donated **$34,000+** to Fischer. The MH-139 program is a Boeing prime contract valued at **$2.38 billion for up to 84 helicopters** (awarded 2018). Boeing was subsequently awarded a contract for **eight additional MH-139A helicopters** beyond the original buy.
 
-Fischer's dual committee position (Appropriations + Armed Services with Strategic Forces chair) gives her both oversight authority and discretionary funding power over the same Boeing programs — the ideal position for the donor-to-earmark pipeline.
+Fischer's dual committee position (Appropriations + Armed Services with Strategic Forces chair) gives her both oversight authority and discretionary funding power over the same Boeing programs, the ideal position for the donor-to-earmark pipeline.
 
 > [!money] The MH-139 Earmark Pipeline
 > Boeing PAC + employee donations to Fischer: **$34,000+**. Fischer's earmark: **$60M** above Pentagon request for Grey Wolf helicopters. ROI: **1,765:1**. Fischer controls the subcommittee that oversees the nuclear triad programs these helicopters support AND sits on the Appropriations committee that funds them. The Boeing donation purchases access to both the authorization and the appropriation — the full legislative pipeline.
 
-**Iran war production scaling:** Boeing's PAC-3 Missile Seeker contract ($2.7B awarded 2025) positions the company for expanded munitions production under the **$200 billion Iran supplemental**. Boeing defense revenue already includes **$12.8 billion in new contracts signed January 2026** ($4.2B E-4B logistics, $8.6B F-15IA). The FY2027 base budget ($1.5T proposed) plus supplemental creates the largest defense spending environment in history — and Boeing is the fourth-largest contractor by revenue.
+**Iran war production scaling:** Boeing's PAC-3 Missile Seeker contract ($2.7B awarded 2025) positions the company for expanded munitions production under the **$200 billion Iran supplemental**. Boeing defense revenue already includes **$12.8 billion in new contracts signed January 2026** ($4.2B E-4B logistics, $8.6B F-15IA). The FY2027 base budget ($1.5T proposed) plus supplemental creates the largest defense spending environment in history, and Boeing is the fourth-largest contractor by revenue.
 
 | Date | Event/Contribution | Amount | Policy Action | Time Gap | Outcome |
 |------|-------------------|--------|---------------|----------|---------|
 | 2023-2024 | Boeing PAC + employees to Deb Fischer (R-NE) | $34,000+ | Fischer pushes $60M MH-139A Grey Wolf earmark | Concurrent | 8 additional helicopters funded above Pentagon request |
 | 2025 | Boeing awarded PAC-3 seeker contract | $2.7B | Iran war munitions production | Concurrent | Positioned for supplemental expansion |
-| 2026-01 | Boeing wins major defense contracts | $12.8B | E-4B logistics ($4.2B) + F-15IA ($8.6B) | — | Largest single-month contract haul |
+| 2026-01 | Boeing wins major defense contracts | $12.8B | E-4B logistics ($4.2B) + F-15IA ($8.6B) |, | Largest single-month contract haul |
 
 - [Responsible Statecraft: Despite ban, pernicious military 'earmarks' are back in the billions](https://responsiblestatecraft.org/backdoor-earmarks-pentagon/) (Tier 2) (VERIFIED)
 - [Sen. Fischer: Advances over $200M for defense programs](https://www.fischer.senate.gov/public/index.cfm/news?ID=6FD233AD-6BDD-4AEE-800E-ED1CF97839D4) (Tier 1) (NEEDS REVIEW)

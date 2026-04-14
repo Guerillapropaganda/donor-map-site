@@ -75,11 +75,11 @@ Moinian has benefited directly from tax incentive continuation (particularly 421
 
 ### Class Analysis
 
-Moinian Group exemplifies how individual developers can exercise substantial political power by converting development profits into campaign contributions. The company's $3-5M contribution level makes Moinian among New York's most significant political donors in absolute terms, yet this spending level is modest for a company controlling billions in real estate assets. The modest contribution-to-assets ratio suggests that developers operate with structural leverage over politicians independent of donation size—politicians cannot ignore real estate development interests because development activity directly affects city finances and employment. Moinian's ability to extract political favors through relatively modest contributions reveals that real estate wealth holds disproportionate political power.
+Moinian Group exemplifies how individual developers can exercise substantial political power by converting development profits into campaign contributions. The company's $3-5M contribution level makes Moinian among New York's most significant political donors in absolute terms, yet this spending level is modest for a company controlling billions in real estate assets. The modest contribution-to-assets ratio suggests that developers operate with structural leverage over politicians independent of donation size, politicians cannot ignore real estate development interests because development activity directly affects city finances and employment. Moinian's ability to extract political favors through relatively modest contributions reveals that real estate wealth holds disproportionate political power.
 
 ### Sources
 
-- ~~[New York Times: Developer contributions to Hochul](https://www.nytimes.com/2022/06/developer-hochul.html)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[New York Times: Developer contributions to Hochul](https://www.nytimes.com/2022/06/developer-hochul.html)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 
 ### Lobbying Activity
 <!-- auto:lda-lobbying start -->

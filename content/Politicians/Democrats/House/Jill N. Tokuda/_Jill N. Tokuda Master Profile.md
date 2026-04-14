@@ -1,5 +1,5 @@
 ---
-title: "Jill N. Tokuda Master Profile"
+title: "Jill N. Tokuda"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

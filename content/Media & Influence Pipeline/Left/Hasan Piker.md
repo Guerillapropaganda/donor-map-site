@@ -7,7 +7,7 @@ source-tier: 2
 parent: null
 category: left
 platform: multi-platform
-related: "[[Cenk Uygur|TYT / Cenk Uygur]] · [[Amazon|Amazon/Twitch]] · [[Sam Seder]] · [[Kyle Kulinski]] · [[TYT Network - The Young Turks]] · [[Rachel Maddow]] · [[Pod Save America]] · [[John Oliver]] · [[David Pakman]] · [[Briahna Joy Gray]] · [[Ezra Klein]] · [[Breaking Points with Krystal and Saagar]] · [[Ana Kasparian]] · [[Abby Phillip]] · [[The Daily Wire]] · [[The Platform Dependency Spectrum — Revenue Vulnerability Across Political Media]] · [[Tucker Carlson]] · [[Tim Pool]] · [[Tenet Media]] · [[Steven Crowder]] · [[Sean Hannity]] · [[Rumble]] · [[Patrick Bet-David]] · [[Michael Knowles]] · [[Matt Walsh]] · [[Mark Levin]] · [[Laura Ingraham]] · [[Jordan Peterson]] · [[Jimmy Dore]] · [[Jesse Watters]] · [[Jeremy Boreing]] · [[James O'Keefe]]"
+related: "[[Cenk Uygur|TYT / Cenk Uygur]] · [[Amazon|Amazon/Twitch]] · [[Sam Seder]] · [[Kyle Kulinski]] · [[TYT Network - The Young Turks]] · [[Rachel Maddow]] · [[Pod Save America]] · [[John Oliver]] · [[David Pakman]] · [[Briahna Joy Gray]] · [[Ezra Klein]] · [[Breaking Points with Krystal and Saagar]] · [[Ana Kasparian]] · [[Abby Phillip]] · [[The Daily Wire]] · [[The Platform Dependency Spectrum , Revenue Vulnerability Across Political Media]] · [[Tucker Carlson]] · [[Tim Pool]] · [[Tenet Media]] · [[Steven Crowder]] · [[Sean Hannity]] · [[Rumble]] · [[Patrick Bet-David]] · [[Michael Knowles]] · [[Matt Walsh]] · [[Mark Levin]] · [[Laura Ingraham]] · [[Jordan Peterson]] · [[Jimmy Dore]] · [[Jesse Watters]] · [[Jeremy Boreing]] · [[James O'Keefe]]"
 ---
 
 #media-pipeline #left #twitch #amazon #platform-dependency #audience-capture #independence-theater #socialist-content
@@ -173,7 +173,7 @@ This does not make Hasan Piker a villain or a fraud. It makes the platform the s
 - [Washington Post: Twitch hack reveals pay of xQc, Pokimane, and more](https://www.washingtonpost.com/video-games/2021/10/06/twitch-hack-pay-xqc-pokimane-summit1g/) (Tier 2) (VERIFIED)
 - [Kotaku: Twitch Suspends Popular Leftist Streamer After Controversial 9/11 Comments](https://kotaku.com/twitch-suspends-popular-leftist-streamer-after-controve-1837518859) (Tier 3) (VERIFIED)
 - [Yahoo Entertainment: Young Turks' Hasan Piker Says Comment That US 'Deserved 9/11' Was 'Inappropriate'](https://www.yahoo.com/entertainment/young-turks-hasan-piker-says-154258933.html) (Tier 3) (VERIFIED)
-- ~~[Sportskeeda: Twitch data breach reveals how much HasanAbi has earned since 2019](https://www.sportskeeda.com/esports/twitch-data-breach-reveals-much-hasanabi-earned-since-2019)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3)
+- ~~[Sportskeeda: Twitch data breach reveals how much HasanAbi has earned since 2019](https://www.sportskeeda.com/esports/twitch-data-breach-reveals-much-hasanabi-earned-since-2019)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
 - [Rolling Stone: Hasan Piker on DNC Chaos, Creators for Kamala, Obama's Role in Election](https://www.rollingstone.com/culture/culture-features/hasan-piker-dnc-creators-for-kamala-1235089088/) (Tier 2) (VERIFIED)
 - [Newsweek: Hasan Piker on Kamala Harris Loss: 'You Can't Podcast Your Way Out of This'](https://www.newsweek.com/hasan-piker-kamala-harris-loss-failures-podcast-twitch-streamer-progressive-politics-1983001) (Tier 3) (VERIFIED)
 - [Dazed: Hasan Piker: 'I think the Overton window is shifting on Palestine'](https://www.dazeddigital.com/life-culture/article/65723/1/hasan-piker-i-think-the-overton-window-is-shifting-on-palestine-interview) (Tier 3) (VERIFIED)

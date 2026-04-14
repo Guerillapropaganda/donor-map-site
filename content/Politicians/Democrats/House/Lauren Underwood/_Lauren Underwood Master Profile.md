@@ -1,5 +1,5 @@
 ---
-title: "Lauren Underwood Master Profile"
+title: "Lauren Underwood"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

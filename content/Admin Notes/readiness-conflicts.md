@@ -520,12 +520,12 @@ These were LEFT UNTOUCHED during the 2026-04-09 cleanup pass. Each needs manual 
 - [ ] `content/Think Tanks & Policy Infrastructure/Conservative/Claremont Institute.md`
 - [ ] `content/Think Tanks & Policy Infrastructure/Conservative/Hudson Institute.md`
 - [ ] `content/Think Tanks & Policy Infrastructure/Conservative/State Policy Network.md`
-- [ ] `content/Think Tanks & Policy Infrastructure/Cross-Think-Tank Donor Map — The Both-Sides Illusion With Receipts.md`
+- [ ] `content/Think Tanks & Policy Infrastructure/Cross-Think-Tank Donor Map. The Both-Sides Illusion With Receipts.md`
 - [ ] `content/Think Tanks & Policy Infrastructure/Liberal/InfluenceMap.md`
 - [ ] `content/Think Tanks & Policy Infrastructure/Liberal/New America.md`
-- [ ] `content/Think Tanks & Policy Infrastructure/The Idea Laundering Pipeline — How Think Tank Research Becomes Law.md`
-- [ ] `content/Think Tanks & Policy Infrastructure/The Revolving Door — A Cross-Think-Tank Personnel Map.md`
-- [ ] `content/Think Tanks & Policy Infrastructure/The Think Tank Money Map — Budget, Funding Sources, and the Illusion of Independence.md`
+- [ ] `content/Think Tanks & Policy Infrastructure/The Idea Laundering Pipeline. How Think Tank Research Becomes Law.md`
+- [ ] `content/Think Tanks & Policy Infrastructure/The Revolving Door. A Cross-Think-Tank Personnel Map.md`
+- [ ] `content/Think Tanks & Policy Infrastructure/The Think Tank Money Map. Budget, Funding Sources, and the Illusion of Independence.md`
 - [ ] `content/Think Tanks & Policy Infrastructure/_Think Tank Framework.md`
 - [ ] `content/Think Tanks & Policy Infrastructure/_Think Tank Index.md`
 - [ ] `content/Vault Maintenance/Archive/2026-03-26 Vault Audit.md`

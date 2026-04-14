@@ -192,7 +192,7 @@ The case crystallizes the central legal fiction of 501(c)(4) dark money: AAN spe
 - [HealthLeaders Media: Drug trade group quietly spends dark money to sway policy. PhRMA $6.1M to AAN in 2017](https://www.healthleadersmedia.com/strategy/drug-trade-group-quietly-spends-dark-money-sway-policy-and-voters) (Tier 2) (VERIFIED)
 - [CREW: Lawsuit against FEC over AAN political spending classification](https://www.citizensforethics.org/legal-action/lawsuits/crew-sues-fec-over-american-action-network-complaint/) (Tier 2) (VERIFIED)
 - [Campaign Legal Center: Super PACs are continuing to hide secret money. CLF-AAN pipeline](https://campaignlegal.org/update/super-pacs-are-continuing-hide-secret-money-wealthy-special-interests-heres-how) (Tier 2) (VERIFIED)
-- ~~[SourceWatch: American Action Network, founding, leadership, donor history](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/American_Action_Network)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3)
+- ~~[SourceWatch: American Action Network, founding, leadership, donor history](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/American_Action_Network)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
 - [Ballotpedia: American Action Network](https://ballotpedia.org/American_Action_Network) (Tier 3) (VERIFIED)
 - [Wikipedia: American Action Network](https://en.wikipedia.org/wiki/American_Action_Network) (Tier 3) (VERIFIED)
 

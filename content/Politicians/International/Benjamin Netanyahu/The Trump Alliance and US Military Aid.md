@@ -30,36 +30,36 @@ Netanyahu's relationship with Trump was transactional from the start. Adelson fu
 
 ---
 
-### U.S. Military Aid — The $3.8 Billion Baseline
+### U.S. Military Aid. The $3.8 Billion Baseline
 
-Israel receives $3.8 billion in annual U.S. military aid — more per capita than any other country. This is not aid based on democratic accountability or strategic interest defined by Congress. This is aid structured by the pro-Israel donor network.
+Israel receives $3.8 billion in annual U.S. military aid, more per capita than any other country. This is not aid based on democratic accountability or strategic interest defined by Congress. This is aid structured by the pro-Israel donor network.
 
 The mechanism: [[AIPAC - American Israel Public Affairs Committee|AIPAC]] and the American Israel Public Affairs Committee (itself a donor network coordinator) has established sufficient congressional support that military aid to Israel is essentially untouchable. No senator votes against Israel aid without expecting severe campaign funding consequences. The result: $3.8B annually, adjusted for inflation, year after year, regardless of Israeli military conduct or international legal violations.
 
 ---
 
-### Post-October 7 — Biden's Pause and Trump's Restoration
+### Post-October 7. Biden's Pause and Trump's Restoration
 
 **May 2024:** Biden publicly stated that U.S.-made weapons were used "in ways inconsistent with international humanitarian law." He paused shipments of 2,000-pound bombs after Netanyahu invaded Rafah against Biden's explicit opposition.
 
 **The contradiction:** Biden issued the pause while simultaneously:
-— Approving continued general military aid ($18B in security packages)
-— Vetoing UN Security Council ceasefire resolutions (4 vetoes)
-— Maintaining the $3.8B annual baseline
+, Approving continued general military aid ($18B in security packages)
+, Vetoing UN Security Council ceasefire resolutions (4 vetoes)
+, Maintaining the $3.8B annual baseline
 
 This reveals the structure: even a Democratic president opposing Israeli military strategy could not withstand donor network pressure. The pause was symbolic. The aid continued.
 
 **Trump's return (January 2025):** Trump immediately:
-— Rescinded Biden-era weapons regulations
-— Resumed all paused shipments
-— Maintained $3.8B annual baseline
-— Provided unlimited diplomatic cover (no pressure for ceasefire, continued vetoes)
+, Rescinded Biden-era weapons regulations
+, Resumed all paused shipments
+, Maintained $3.8B annual baseline
+, Provided unlimited diplomatic cover (no pressure for ceasefire, continued vetoes)
 
 **The continuity:** Regardless of which party holds the White House, military aid to Israel remains constant. This is what donor network power looks like: it transcends electoral cycles and party boundaries. AIPAC operates both parties simultaneously. Adelson funds Trump. Saban funds Biden. The result: Israel gets weapons and diplomatic protection regardless of who wins elections.
 
 ---
 
-### Second Term Tensions — The Narration Problem
+### Second Term Tensions. The Narration Problem
 
 > [!contradiction]
 > Trump and Netanyahu's relationship has become strained despite their apparent alignment. The cause: Gaza war endurance. Trump demanded Netanyahu end the war quickly, claiming it damaged his (Trump's) ability to claim a Nobel Peace Prize. Netanyahu refused, citing security needs. Trump accused Netanyahu of "not wanting to make a deal."
@@ -68,7 +68,7 @@ This reveals the structure: even a Democratic president opposing Israeli militar
 
 ---
 
-### UN Veto Power — The Diplomatic Dimension
+### UN Veto Power. The Diplomatic Dimension
 
 Since October 7, 2023, the U.S. has vetoed 13 Security Council resolutions calling for ceasefire or humanitarian aid in Gaza. This is sustained diplomatic protection that would not exist without the pro-Israel donor network's control over American foreign policy.
 
@@ -80,7 +80,7 @@ Since October 7, 2023, the U.S. has vetoed 13 Security Council resolutions calli
 
 **$3.8B annual baseline:** Weapons, ammunition, training, spare parts.
 
-**January 2026 announcement:** $100–110 billion domestic Israeli arms industry expansion. This is not defensive. This is industrial development driven by military Keynesianism — war creates demand for weapons, which drives economic growth, which benefits defense contractors and arms export markets.
+**January 2026 announcement:** $100–110 billion domestic Israeli arms industry expansion. This is not defensive. This is industrial development driven by military Keynesianism, war creates demand for weapons, which drives economic growth, which benefits defense contractors and arms export markets.
 
 **The beneficiaries:** Israeli defense companies, U.S. defense contractors ([[Lockheed Martin|Lockheed Martin]], Raytheon, General Dynamics), and the entire ecosystem of surveillance tech and weapons manufacturing that depends on military conflict for revenue.
 
@@ -88,9 +88,9 @@ Since October 7, 2023, the U.S. has vetoed 13 Security Council resolutions calli
 
 ---
 
-### Abraham Accords — Opening Markets for Surveillance Tech
+### Abraham Accords. Opening Markets for Surveillance Tech
 
-Netanyahu's diplomatic expansion to Saudi Arabia, UAE, and Bahrain (Abraham Accords) opened new markets for Israeli surveillance technology. NSO Group's Pegasus spyware is now deployed across all of these countries — all of them are Adelson priorities.
+Netanyahu's diplomatic expansion to Saudi Arabia, UAE, and Bahrain (Abraham Accords) opened new markets for Israeli surveillance technology. NSO Group's Pegasus spyware is now deployed across all of these countries, all of them are Adelson priorities.
 
 **The pattern:** Netanyahu's foreign policy serves the defense and surveillance export interests that constitute a major component of his donor base. Military expansion, diplomatic ties, and surveillance tech markets are one integrated class interest. Netanyahu delivers all three simultaneously.
 
@@ -98,7 +98,7 @@ Netanyahu's diplomatic expansion to Saudi Arabia, UAE, and Bahrain (Abraham Acco
 
 ### Sources
 
-- [CNN — Netanyahu leaves Trump meeting empty-handed](https://www.cnn.com/2025/04/09/middleeast/analysis-netanyahu-trump-tariffs-iran-intl-latam) (Tier 2) (VERIFIED)
-- [ProPublica — Biden weapons restrictions and Israel aid](https://www.propublica.org/article/biden-blinken-state-department-israel-gaza-human-rights-horrors) (Tier 2) (VERIFIED)
-- [U.S. State Department — Foreign Military Sales to Israel](https://www.state.gov/defense-trade-controls/) (Tier 1) (VERIFIED)
+- [CNN. Netanyahu leaves Trump meeting empty-handed](https://www.cnn.com/2025/04/09/middleeast/analysis-netanyahu-trump-tariffs-iran-intl-latam) (Tier 2) (VERIFIED)
+- [ProPublica. Biden weapons restrictions and Israel aid](https://www.propublica.org/article/biden-blinken-state-department-israel-gaza-human-rights-horrors) (Tier 2) (VERIFIED)
+- [U.S. State Department. Foreign Military Sales to Israel](https://www.state.gov/defense-trade-controls/) (Tier 1) (VERIFIED)
 

@@ -76,7 +76,7 @@ Temporal mapping: donation → policy outcome, with dates and amounts. The argum
 
 | Date | Donor/Event | Amount | Recipient | Policy Outcome | Time Gap |
 |------|-----------|--------|-----------|----------------|----------|
-| 1989–1999 | Goldman Sachs cumulative | $576K | [[_Chuck Schumer Master Profile|Chuck Schumer]] | Glass-Steagall repeal (signed Nov 12, 1999). Schumer publicly supported. "We could find London or Frankfurt..becoming the financial capital" | 10 yrs (ongoing) |
+| 1989–1999 | Goldman Sachs cumulative | $576K | [[_Chuck Schumer Master Profile|Chuck Schumer]] | Glass-Steagall repeal (signed Nov 12, 1999). Schumer publicly supported. "We could find London or Frankfurt.becoming the financial capital" | 10 yrs (ongoing) |
 | Oct 1999 | Goldman client Clinton admin | N/A (revolving door) | Robert Rubin (Clinton Treasury, then Citigroup) | Glass-Steagall repeal signed Nov 1999; Citigroup merger approved Nov 1999. Rubin moved to Citigroup Oct 1999 days after repeal signed | Same week |
 | 2006–2008 | Goldman Sachs cumulative | $207K (federal) | Hank Paulson (Treasury Sec) | $700B TARP bailout created Sept 2008. Goldman AIG benefit: $12.9B. Paulson Treasury architected the deal. | 2 yrs (pre-crisis) |
 | 2010 | Goldman shift | 62% → Republicans | Federal level | Goldman pivots to Republican funding post-Dodd-Frank, offsetting Democratic regulation risk. | Post-crisis repositioning |
@@ -290,13 +290,13 @@ Across three decades, four presidents, and multiple Congress-control shifts, Gol
 - [Wikipedia: Steven Mnuchin](https://en.wikipedia.org/wiki/Steven_Mnuchin) (Tier 3) (VERIFIED)
 - [Jacobin: Chuck Schumer D-Wall Street](https://jacobin.com/2016/11/chuck-schumer-bernie-sanders-financial-industry-fundraising) (Tier 2) (VERIFIED)
 - [OpenSecrets: The Revolving Door Always Spins for Goldman Sachs](https://www.opensecrets.org/news/2017/03/revolving-door-goldman-sachs/) (Tier 2) (VERIFIED)
-- ~~[CNN: Goldman Sachs Alums in Trumpworld](https://money.cnn.com/2018/03/07/investing/gary-cohn-trump-goldman-sachs/index.html)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[CNN: Goldman Sachs Alums in Trumpworld](https://money.cnn.com/2018/03/07/investing/gary-cohn-trump-goldman-sachs/index.html)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [ProPublica: The Surreal Politics of a Billionaire's Tax Loophole](https://www.propublica.org/article/the-surreal-politics-of-a-billionaires-tax-loophole) (Tier 2) (VERIFIED)
 - [American Prospect: How Chuck Schumer Deep-Sixed the Tech Antitrust Bills](https://prospect.org/2023/01/26/2023-01-26-chuck-schumer-tech-antitrust-bills/) (Tier 2) (VERIFIED)
 - [Washington Examiner: Dodd-Frank Regulations Help Goldman Sachs Gain Market Share](https://www.washingtonexaminer.com/dodd-frank-regulations-help-goldman-sachs-gain-market-share) (Tier 2) (NEEDS REVIEW)
 - [Wikipedia: Glass-Steagall Legislation](https://en.wikipedia.org/wiki/Glass%E2%80%93Steagall_legislation) (Tier 3) (VERIFIED)
-- ~~[CNN: Goldman Sachs' Top 1% Employees Can't Donate to Trump](https://money.cnn.com/2016/09/06/investing/goldman-sachs-political-donations/index.html)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
-- ~~[CNBC: Cory Booker Wall Street Campaign Finance Support](https://www.cnbc.com/2019/03/28/cory-booker-lines-up-support-in-the-financial-industry-to-help-him-raise-cash-for-2020/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[CNN: Goldman Sachs' Top 1% Employees Can't Donate to Trump](https://money.cnn.com/2016/09/06/investing/goldman-sachs-political-donations/index.html)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[CNBC: Cory Booker Wall Street Campaign Finance Support](https://www.cnbc.com/2019/03/28/cory-booker-lines-up-support-in-the-financial-industry-to-help-him-raise-cash-for-2020/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 
 ---
 

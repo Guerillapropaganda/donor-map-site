@@ -3,7 +3,7 @@ title: Changelog
 type: meta
 ---
 
-# The Donor Map — Development Changelog
+# The Donor Map. Development Changelog
 
 A running timeline of every feature, fix, and improvement made to The Donor Map.
 
@@ -13,33 +13,33 @@ A running timeline of every feature, fix, and improvement made to The Donor Map.
 
 ### Vault Methodology Rewrite
 - **Replaced 10 contradictory methodology docs with 3 unified files:** `Vault Rules.md` (single source of truth), `Pipeline Guide.md` (API infrastructure), `Session State.md` (cross-session continuity)
-- **New readiness tier: `verified`** — sits between `developed` and `ready`, means Tier 1 pipeline data backs the factual claims. Existing `ready` files stay published; pipeline promotes through `verified` organically
-- **Tier 1 First mandate** — every factual claim needs a government source (FEC, Congress.gov, Senate LDA, USASpending). Articles provide context, not evidence
-- **Two-section source layout** — profiles now use Verified (working Tier 1 first) and Archived (broken/paywalled links struck through, preserved as research trail)
-- **OpenSecrets demoted** — site unreliable (blocks, rate limits). Existing URLs move to Archived. 4,075 URLs across 968 files being replaced by FEC/Congress.gov equivalents
-- **Archived 19 old docs** to `Vault Maintenance/Archive/` and `Assets/Archive/` — Quality Standards, State Engine, Research Methodology, Vault Standards, API Pipeline, Sources Master Node, etc.
-- **CLAUDE.md slimmed** from 197 to ~107 lines — no more duplicated rules, points to Vault Rules.md
-- **Updated all 7 Obsidian templates** — new frontmatter fields (`last-enriched`, `lobbyview-bills`, `naics-code`, etc.), two-section source layout, removed deprecated `research-status::` inline fields
-- **Decisions log** started in Vault Rules.md — permanent record of architectural decisions
+- **New readiness tier: `verified`**, sits between `developed` and `ready`, means Tier 1 pipeline data backs the factual claims. Existing `ready` files stay published; pipeline promotes through `verified` organically
+- **Tier 1 First mandate**, every factual claim needs a government source (FEC, Congress.gov, Senate LDA, USASpending). Articles provide context, not evidence
+- **Two-section source layout**, profiles now use Verified (working Tier 1 first) and Archived (broken/paywalled links struck through, preserved as research trail)
+- **OpenSecrets demoted**, site unreliable (blocks, rate limits). Existing URLs move to Archived. 4,075 URLs across 968 files being replaced by FEC/Congress.gov equivalents
+- **Archived 19 old docs** to `Vault Maintenance/Archive/` and `Assets/Archive/`. Quality Standards, State Engine, Research Methodology, Vault Standards, API Pipeline, Sources Master Node, etc.
+- **CLAUDE.md slimmed** from 197 to ~107 lines, no more duplicated rules, points to Vault Rules.md
+- **Updated all 7 Obsidian templates**, new frontmatter fields (`last-enriched`, `lobbyview-bills`, `naics-code`, etc.), two-section source layout, removed deprecated `research-status::` inline fields
+- **Decisions log** started in Vault Rules.md, permanent record of architectural decisions
 
 ### New Pipelines (engine repo)
-- **LobbyView pipeline** (`lobbyview-pipeline.cjs`) — pulls client-bill lobbying networks, NAICS codes, issue areas. 100 req/day limit, default 5 profiles per run. Writes `auto:lobbyview-networks` blocks + `lobbyview-bills` and `naics-code` frontmatter
-- **OpenSecrets URL replacement script** (`opensecrets-replace.cjs`) — scans vault for opensecrets.org URLs, maps to FEC/Congress.gov/Senate LDA equivalents. Handles 14 URL categories (members, orgs, PACs, lobbying, outside spending, donor lookup, races, FARA, etc.)
-- **LobbyView added to GitHub Actions** — runs alongside other 7 pipelines, `LOBBYVIEWAPI` secret configured
-- **Fixed LobbyView CI timeout** — burst rate 60/hr instead of 4/hr (daily cap is the real limit, not hourly)
+- **LobbyView pipeline** (`lobbyview-pipeline.cjs`), pulls client-bill lobbying networks, NAICS codes, issue areas. 100 req/day limit, default 5 profiles per run. Writes `auto:lobbyview-networks` blocks + `lobbyview-bills` and `naics-code` frontmatter
+- **OpenSecrets URL replacement script** (`opensecrets-replace.cjs`), scans vault for opensecrets.org URLs, maps to FEC/Congress.gov/Senate LDA equivalents. Handles 14 URL categories (members, orgs, PACs, lobbying, outside spending, donor lookup, races, FARA, etc.)
+- **LobbyView added to GitHub Actions**, runs alongside other 7 pipelines, `LOBBYVIEWAPI` secret configured
+- **Fixed LobbyView CI timeout**, burst rate 60/hr instead of 4/hr (daily cap is the real limit, not hourly)
 
 ### Site Polish (carried from previous session)
-- **Party dots on profiles** — blue for D, red for R, grey for I on badge bar
-- **ProfileWidget widened** — now shows on all profile types, not just master-profile slugs
+- **Party dots on profiles**, blue for D, red for R, grey for I on badge bar
+- **ProfileWidget widened**, now shows on all profile types, not just master-profile slugs
 - **Empty states** for EventTimeline and ProfileWidget when no data available
-- **Fixed sidebar nav** — Fox News, Daily Wire paths, added Races/Biden Cabinet/Bush Cabinet/Corporate nodes
+- **Fixed sidebar nav**. Fox News, Daily Wire paths, added Races/Biden Cabinet/Bush Cabinet/Corporate nodes
 
 ### Pipeline Infrastructure
 - **FEC + Congress pipelines now write body sections** via `applyAutoBlock` (were frontmatter-only before)
 - **Auto-populate `politicians-funded`** from FEC recipient data on donor profiles
-- **Array support in `updateFrontmatter()`** — YAML array serialization for `politicians-funded`, `committees`, etc.
+- **Array support in `updateFrontmatter()`**. YAML array serialization for `politicians-funded`, `committees`, etc.
 - **Pipeline timeout bumped** 18→22min step, 25→30min job
-- **Pipeline push conflict resolution** — fetch→rebase→merge fallback pattern
+- **Pipeline push conflict resolution**, fetch→rebase→merge fallback pattern
 
 ### Vault Health Snapshot (end of session)
 - **698** ready / **0** verified / **4** developed / **21** draft / **5** raw
@@ -53,22 +53,22 @@ A running timeline of every feature, fix, and improvement made to The Donor Map.
 ## 2026-04-05
 
 ### Pipeline Fixes (engine repo)
-- **ProPublica 990 pipeline was hitting corporations** — the pipeline queried the ProPublica Nonprofit Explorer for ALL donor-type profiles including public corporations. Lockheed Martin matched a tiny foundation ($137K revenue), Devon Energy matched a $1 shell entity. Now skips `entity-type: "Corporation"` and `"Individual Donor"` — 990 data only goes to nonprofits, PACs, and think tanks.
-- **Stripped bogus 990 data from 16 corporation profiles** — removed `ein`, `annual-revenue`, `net-assets`, `tax-year`, `employee-count` frontmatter and `Financial Overview` auto-blocks from: Cargill, John Deere, Tyson Foods, Aramark, General Dynamics, Lockheed Martin, Northrop Grumman, Devon Energy, Marathon Petroleum, PG&E, Williams Companies, Humana, Johnson & Johnson, National Rental Home Council, Carlyle Group, Morgan Stanley. **Research Claude: if you built analysis on any of these Financial Overview sections, that data was wrong — it came from unrelated nonprofit EINs, not the actual corporations.**
-- **Fixed duplicate `last-updated` frontmatter keys** — consolidated 7 copy-pasted `updateFrontmatter()` functions into `shared.cjs` with key deduplication. Fixed existing duplicates in Adelson Family + Sheldon Adelson.
-- **Fixed enrichment pipeline timeout** — step timeout 15→18min, job 20→25min. Replaced heredoc in `$GITHUB_OUTPUT` with temp file so timeouts can't corrupt the output stream and kill the commit step. Every scheduled run was hitting the 15min ceiling; 2 of 4 daily runs were failing.
+- **ProPublica 990 pipeline was hitting corporations**, the pipeline queried the ProPublica Nonprofit Explorer for ALL donor-type profiles including public corporations. Lockheed Martin matched a tiny foundation ($137K revenue), Devon Energy matched a $1 shell entity. Now skips `entity-type: "Corporation"` and `"Individual Donor"`, 990 data only goes to nonprofits, PACs, and think tanks.
+- **Stripped bogus 990 data from 16 corporation profiles**, removed `ein`, `annual-revenue`, `net-assets`, `tax-year`, `employee-count` frontmatter and `Financial Overview` auto-blocks from: Cargill, John Deere, Tyson Foods, Aramark, General Dynamics, Lockheed Martin, Northrop Grumman, Devon Energy, Marathon Petroleum, PG&E, Williams Companies, Humana, Johnson & Johnson, National Rental Home Council, Carlyle Group, Morgan Stanley. **Research Claude: if you built analysis on any of these Financial Overview sections, that data was wrong, it came from unrelated nonprofit EINs, not the actual corporations.**
+- **Fixed duplicate `last-updated` frontmatter keys**, consolidated 7 copy-pasted `updateFrontmatter()` functions into `shared.cjs` with key deduplication. Fixed existing duplicates in Adelson Family + Sheldon Adelson.
+- **Fixed enrichment pipeline timeout**, step timeout 15→18min, job 20→25min. Replaced heredoc in `$GITHUB_OUTPUT` with temp file so timeouts can't corrupt the output stream and kill the commit step. Every scheduled run was hitting the 15min ceiling; 2 of 4 daily runs were failing.
 
 ### Sidebar Navigation Audit
-- **Fixed all featured item search terms** — Fox News, AIPAC, Koch Network, Lockheed Martin, Drug Pricing Theater, Defense Budget Bloat, Carried Interest, Heritage Foundation, Brookings, ALEC, Cato, CAP, all K Street firms — updated from broken lowercase slugs to correct Quartz-encoded paths
+- **Fixed all featured item search terms**. Fox News, AIPAC, Koch Network, Lockheed Martin, Drug Pricing Theater, Defense Budget Bloat, Carried Interest, Heritage Foundation, Brookings, ALEC, Cato, CAP, all K Street firms, updated from broken lowercase slugs to correct Quartz-encoded paths
 - **Removed MSNBC** from featured media (no profile exists), replaced with Daily Wire
-- **Fixed CA Governor 2026 nav paths** — removed stale entries under Democrats/ and Republicans/ (folders don't exist there), added new Races node with CA Governor 2026 + OH Governor 2026
+- **Fixed CA Governor 2026 nav paths**, removed stale entries under Democrats/ and Republicans/ (folders don't exist there), added new Races node with CA Governor 2026 + OH Governor 2026
 - **Added Biden Cabinet** node under Democrats
 - **Added Corporate sector** to Donors & Power Networks nav tree (folder existed but wasn't navigable)
 
 ### Site Polish
-- **Listing filter bar** — added Profiles/Notes toggle + per-source-tier filter chips to folder + tag listings, auto-hides when listing has no variety
-- **Folder entries enriched** — master-profile folders now inherit their master's frontmatter (party, state, sector, tier, readiness) so they render with dots + meta line + chips like regular profile entries
-- **ProfileHeader fixes** — tier badge now reads `TIER 1` (was bare `1`); section-card wrapping falls back to h3 when a profile uses h3 as its top-level heading
+- **Listing filter bar**, added Profiles/Notes toggle + per-source-tier filter chips to folder + tag listings, auto-hides when listing has no variety
+- **Folder entries enriched**, master-profile folders now inherit their master's frontmatter (party, state, sector, tier, readiness) so they render with dots + meta line + chips like regular profile entries
+- **ProfileHeader fixes**, tier badge now reads `TIER 1` (was bare `1`); section-card wrapping falls back to h3 when a profile uses h3 as its top-level heading
 
 ### Scope Rules (Code Claude ↔ Research Claude)
 - Added scope-boundary sections to both CLAUDE.md files (site + vault) defining who owns what. Triggered by the dossier-folder incident earlier today.
@@ -77,15 +77,15 @@ A running timeline of every feature, fix, and improvement made to The Donor Map.
 - **Research Claude please note:** `HANDOFF-to-Code-Claude.md` (Session 38n, 2026-04-05) currently lists editorial tasks (dossier merges, profile expansions, backlink passes, voice calibration) that are in your lane, not Code Claude's. Restructure it into your own session task list, keeping only mechanical items (git-commit dossier files after David provides them) in the handoff itself.
 
 ### Enrichment Pipeline (engine repo)
-- Pipelines now run in parallel — workflow runtime dropped from ~26min to ~15min
-- Fixed selection bug that processed the same 15 profiles every run — coverage now rotates via Fisher-Yates shuffle + 30-day miss cache
+- Pipelines now run in parallel, workflow runtime dropped from ~26min to ~15min
+- Fixed selection bug that processed the same 15 profiles every run, coverage now rotates via Fisher-Yates shuffle + 30-day miss cache
 - `continue-on-error: true` on each pipeline step so one timeout doesn't block the commit step
 - Recent runs: 37/43/37 profiles enriched across scheduled runs
 
-### Enrichment Integration — Log + Conflict Handling (engine commit `c9e94d2`)
+### Enrichment Integration. Log + Conflict Handling (engine commit `c9e94d2`)
 Fixes the "bot writes surprise Research Claude" problem. Two new engine lib helpers wired into all 7 pipelines (fec, lda, congress, propublica, sam, usaspending, govtrack):
 
-- **`scripts/lib/enrichment-log.cjs`** — every run appends a dated section to `Vault Maintenance/Auto-Enrichment Log.md`, grouped by pipeline, listing each profile touched with a one-line summary ("2024 raised $5M", "$1.9M spend, 51 filings", etc.). 30-day rolling window, auto-pruned on every write.
+- **`scripts/lib/enrichment-log.cjs`**, every run appends a dated section to `Vault Maintenance/Auto-Enrichment Log.md`, grouped by pipeline, listing each profile touched with a one-line summary ("2024 raised $5M", "$1.9M spend, 51 filings", etc.). 30-day rolling window, auto-pruned on every write.
 - **`scripts/lib/enrichment-markers.cjs`** — hashes the body of every `<!-- auto:* -->` block when written. On the next run:
   - Block unchanged from stored hash → overwrite with fresh data (status: `updated`)
   - Block edited by a human → leave it alone, park fresh data in a `<!-- auto:* pending-merge -->` block directly below with an `[!attention]` callout (status: `parked`, conflict: true)

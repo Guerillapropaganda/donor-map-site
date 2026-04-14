@@ -1,8 +1,8 @@
 ---
-title: "Betty Yee Master Profile"
+title: "Betty Yee"
 type: politician
 content-readiness: draft
-central-thesis: "Betty Yee is the fiscal technocrat candidate — her entire political identity is built around the Controller role, which gives her unique visibility into California's state finances, pension obligations, corporate tax compliance, and fiscal policy ..."
+central-thesis: "Betty Yee is the fiscal technocrat candidate , her entire political identity is built around the Controller role, which gives her unique visibility into California's state finances, pension obligations, corporate tax compliance, and fiscal policy ..."
 last-updated: 2026-04-09
 source-tier: 1
 parent: null
@@ -63,7 +63,7 @@ Betty Yee. Former California State Controller (2015–2023, elected 2014 and 201
 - No major financial sector donors reported in 2026 fundraising
 
 ### The Fundraising Crisis:
-Yee's $342K fundraising is extraordinary given her position as Controller — the chief financial officer role should translate to either:
+Yee's $342K fundraising is extraordinary given her position as Controller, the chief financial officer role should translate to either:
 - Business/financial sector donor base (wanting a business-friendly Controller)
 - Public sector union support (wanting a watchdog on government waste)
 
@@ -78,9 +78,9 @@ This is remarkable for a statewide elected official. Controller is a significant
 
 ## Analytical Patterns
 
-**The Genuine Win + Structural Limit** — Yee's Controller role genuinely required auditing state spending and reporting on fiscal performance. She did conduct audits and released reports on state expenditures. But the structural limit is that auditing is not the same as preventing waste or challenging underlying policy. An audit can document a compromised contract; it cannot force the state to stop awarding contracts to compromised vendors. Yee's "watchdog" role stopped at documentation, not at structural reform.
+**The Genuine Win + Structural Limit**. Yee's Controller role genuinely required auditing state spending and reporting on fiscal performance. She did conduct audits and released reports on state expenditures. But the structural limit is that auditing is not the same as preventing waste or challenging underlying policy. An audit can document a compromised contract; it cannot force the state to stop awarding contracts to compromised vendors. Yee's "watchdog" role stopped at documentation, not at structural reform.
 
-**The Villain Framing** — Yee frames California's fiscal challenges as caused by external villainy (corruption, waste, mismanagement) rather than structural policy choices. The solution, in her framing, is better auditing and fiscal discipline — catching villains rather than changing the rules they operate within. This deflects class analysis (who benefits from spending, who is harmed by austerity) onto technical accountability.
+**The Villain Framing**. Yee frames California's fiscal challenges as caused by external villainy (corruption, waste, mismanagement) rather than structural policy choices. The solution, in her framing, is better auditing and fiscal discipline, catching villains rather than changing the rules they operate within. This deflects class analysis (who benefits from spending, who is harmed by austerity) onto technical accountability.
 
 ---
 
@@ -98,9 +98,9 @@ This is remarkable for a statewide elected official. Controller is a significant
 
 | Date | Donor | Amount | Given | Policy Outcome |
 |------|-------|--------|-------|----------------|
-| 2014-2022 | No significant organized donor network documented | Minimal — re-elected on fiscal conservative message | 2014-2022 cycles | Controller position provides institutional credibility (CalPERS/CalSTRS board, $500B+ pension fund governance) but no donor class alignment |
-| 2024-03 | No major donor commitments | Campaign launch | 2024 | Announces 2026 gubernatorial campaign; positions as fiscal expert, watchdog — but no business donors and no labor donors rally |
-| 2025-11 | Sparse donor base | $342K raised total | 2024-2025 | Fundraising trail cold — remarkable for a statewide elected official; most Controller candidates convert the position into a donor network. Yee has not |
+| 2014-2022 | No significant organized donor network documented | Minimal, re-elected on fiscal conservative message | 2014-2022 cycles | Controller position provides institutional credibility (CalPERS/CalSTRS board, $500B+ pension fund governance) but no donor class alignment |
+| 2024-03 | No major donor commitments | Campaign launch | 2024 | Announces 2026 gubernatorial campaign; positions as fiscal expert, watchdog, but no business donors and no labor donors rally |
+| 2025-11 | Sparse donor base | $342K raised total | 2024-2025 | Fundraising trail cold, remarkable for a statewide elected official; most Controller candidates convert the position into a donor network. Yee has not |
 | 2026-02 | Democratic Convention delegates | Delegate count not disclosed (likely minimal) | 2025-2026 | Convention silence confirms institutional Democratic apparatus does not view Yee as viable |
 
 > [!money]
@@ -118,7 +118,7 @@ This is remarkable for a statewide elected official. Controller is a significant
 
 **Labor Endorsements:** None
 
-**Path to Top-Two:** Minimal. At $342K fundraising and no labor backing, Yee's path to the top-two requires massive grassroots fundraising surge or a political consolidation opportunity (e.g., if all establishment candidates collapse and moderate voters rally around her). Neither is plausible given current race dynamics.
+**Path to Top-Two:** Minimal. At $342K fundraising and no labor backing, Yee's path to the top-two requires massive grassroots fundraising surge or a political consolidation opportunity (e.g. if all establishment candidates collapse and moderate voters rally around her). Neither is plausible given current race dynamics.
 
 **The Porter Dropout Comment:** In October 2025, Yee publicly called for [[_Katie Porter Master Profile|Katie Porter]] to drop out of the race, citing the risk that a fractured Democratic primary could result in two Republicans making the general election (top-two primary system). This comment served a double purpose: it signaled concern about primary fragmentation AND positioned Yee as a serious moderate alternative to Porter. It was a campaign signal, though it did not move Yee's fundraising.
 
@@ -154,7 +154,7 @@ Without clarity on these questions, her fiscal watchdog credential is ambiguous.
 
 ## Sources
 
-- ~~[FollowTheMoney.org: Betty Yee 2026 Campaign Finance](https://www.followthemoney.org/show-me?s=CA&y=2024&c-r-ot=U&d-cci=Betty%20Yee#[%7B1%7Cgro=d-id)~~ (was FollowTheMoney — site merged into OpenSecrets, all URLs dead) (Tier 1)
+- ~~[FollowTheMoney.org: Betty Yee 2026 Campaign Finance](https://www.followthemoney.org/show-me?s=CA&y=2024&c-r-ot=U&d-cci=Betty%20Yee#[%7B1%7Cgro=d-id)~~ (was FollowTheMoney, site merged into OpenSecrets, all URLs dead) (Tier 1)
 - [CalMatters: Republican Steve Hilton leads California governor fundraising](https://calmatters.org/politics/2026/02/governors-race-fundraising-reports/) (Tier 2) (VERIFIED)
 - [CapRadio: Former state Controller Betty Yee announces campaign for California governor](https://www.capradio.org/articles/2024/03/27/former-state-controller-betty-yee-announces-campaign-for-california-governor/) (Tier 2) (VERIFIED)
 - [CBS San Francisco: Former state Controller Betty Yee latest to announce 2026 run for California governor](https://www.cbsnews.com/sanfrancisco/news/betty-yee-former-california-controller-2026-campaignf-for-governor/) (Tier 2) (VERIFIED)

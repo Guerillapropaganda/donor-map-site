@@ -42,13 +42,13 @@ The needs-reenrichment flag has been set. The next scheduled pipeline run will p
 
 ### Who They Are
 
-National Republican Senatorial Committee (NRSC). The official campaign arm of the Republican Senate caucus, responsible for electing Republicans to the U.S. Senate. In the 2024 cycle, the NRSC raised $296.5 million and spent $301.1 million (FEC filings, committee ID C00027466) — outpacing its Democratic counterpart, the DSCC, which raised $275.5 million. The NRSC operates in parallel with the Senate Leadership Fund (Mitch McConnell's aligned super PAC), which often outspends the NRSC in the most competitive races.
+National Republican Senatorial Committee (NRSC). The official campaign arm of the Republican Senate caucus, responsible for electing Republicans to the U.S. Senate. In the 2024 cycle, the NRSC raised $296.5 million and spent $301.1 million (FEC filings, committee ID C00027466), outpacing its Democratic counterpart, the DSCC, which raised $275.5 million. The NRSC operates in parallel with the Senate Leadership Fund (Mitch McConnell's aligned super PAC), which often outspends the NRSC in the most competitive races.
 
 The NRSC is chaired by a sitting senator appointed by Senate leadership. Its structural function mirrors the DSCC: gatekeeper over which Republican Senate candidates receive national funding, early investment, and institutional support. But in the Trump era, the NRSC faces a tension the DSCC does not: the committee's corporate donor base prefers electable moderates, while the MAGA primary base demands Trump-endorsed loyalists. The 2022 cycle demonstrated the cost when these preferences collide.
 
 ---
 
-### The Money — 2024 Cycle
+### The Money, 2024 Cycle
 
 ### Financial Summary (FEC, 2023-2024 cycle):
 
@@ -57,8 +57,8 @@ The NRSC is chaired by a sitting senator appointed by Senate leadership. Its str
 | Total receipts | $296,513,813 |
 | Total contributions | $204,372,802 |
 | Individual contributions | $165,933,255 |
-| — Itemized (large donors) | $121,098,475 |
-| — Unitemized (small donors) | $44,834,778 |
+|. Itemized (large donors) | $121,098,475 |
+|. Unitemized (small donors) | $44,834,778 |
 | Party committee contributions | $23,343,971 |
 | Other committee contributions | $15,095,576 |
 | Transfers from affiliated committees | $29,740,359 |
@@ -68,11 +68,11 @@ The NRSC is chaired by a sitting senator appointed by Senate leadership. Its str
 | Coordinated expenditures | $13,174,035 |
 | Transfers to affiliated committees | $35,718,314 |
 
-Compared to the DSCC, the NRSC relies more heavily on party committee contributions ($23.3M vs. $0 for DSCC) and less on small donors ($44.8M unitemized vs. $63.1M for DSCC). The NRSC's small-dollar share is 27% of individual contributions, vs. 36% for the DSCC — reflecting the Republican small-dollar operation's concentration on Trump's own fundraising infrastructure (WinRed/Save America) rather than the party committee.
+Compared to the DSCC, the NRSC relies more heavily on party committee contributions ($23.3M vs. $0 for DSCC) and less on small donors ($44.8M unitemized vs. $63.1M for DSCC). The NRSC's small-dollar share is 27% of individual contributions, vs. 36% for the DSCC, reflecting the Republican small-dollar operation's concentration on Trump's own fundraising infrastructure (WinRed/Save America) rather than the party committee.
 
 ---
 
-### Who Funds Them — Top Contributors (2024)
+### Who Funds Them. Top Contributors (2024)
 
 | Contributor | Amount | Sector |
 |-------------|--------|--------|
@@ -89,13 +89,13 @@ Compared to the DSCC, the NRSC relies more heavily on party committee contributi
 | Mountaire Corp | $579,243 | Poultry/Agriculture |
 | Reyes Holdings | $555,200 | Distribution/Beverages |
 
-The NRSC's donor profile is the mirror image of the DSCC's: where Democrats draw from venture capital and tech (Kleiner Perkins, Alphabet, Greylock), Republicans draw from Wall Street (Elliott Management, Citadel, Charles Schwab), energy (Energy Transfer, Crownquest), traditional industry (FedEx, Mountaire, Reyes), and financial services (Fisher, Stephens). This is the two-party donor class in microcosm — tech/VC funds the Democratic Senate, energy/finance/traditional industry funds the Republican Senate. Both parties' Senate operations are controlled by capital; they just draw from different sectors.
+The NRSC's donor profile is the mirror image of the DSCC's: where Democrats draw from venture capital and tech (Kleiner Perkins, Alphabet, Greylock), Republicans draw from Wall Street (Elliott Management, Citadel, Charles Schwab), energy (Energy Transfer, Crownquest), traditional industry (FedEx, Mountaire, Reyes), and financial services (Fisher, Stephens). This is the two-party donor class in microcosm, tech/VC funds the Democratic Senate, energy/finance/traditional industry funds the Republican Senate. Both parties' Senate operations are controlled by capital; they just draw from different sectors.
 
-The largest single contributor — Friends of John Thune at $4.25 million — dwarfs any single DSCC senator contribution (Booker's $1M was the DSCC's largest). Thune's financial dominance of the NRSC reflects his position as Senate Republican Leader: the party leader's personal fundraising operation is the committee's financial backbone.
+The largest single contributor. Friends of John Thune at $4.25 million, dwarfs any single DSCC senator contribution (Booker's $1M was the DSCC's largest). Thune's financial dominance of the NRSC reflects his position as Senate Republican Leader: the party leader's personal fundraising operation is the committee's financial backbone.
 
 ---
 
-### Where the Money Goes — 2024 Expenditures
+### Where the Money Goes, 2024 Expenditures
 
 ### Top Vendors:
 
@@ -112,19 +112,19 @@ The largest single contributor — Friends of John Thune at $4.25 million — dw
 | Jones Day | $8,510,959 | Legal |
 | WinRed | $5,099,581 | Digital fundraising |
 
-The expenditure data tells the story of the 2024 Senate map: the Republican Party of Montana received $20.7 million in NRSC state party transfers — the second-largest single expenditure. Compare this to the DSCC, which sent $5.9 million to the Democratic Party of Montana. The NRSC outspent the DSCC 3.5:1 on Montana state party transfers alone — and won the race, defeating Jon Tester by 7.1 points.
+The expenditure data tells the story of the 2024 Senate map: the Republican Party of Montana received $20.7 million in NRSC state party transfers, the second-largest single expenditure. Compare this to the DSCC, which sent $5.9 million to the Democratic Party of Montana. The NRSC outspent the DSCC 3.5:1 on Montana state party transfers alone, and won the race, defeating Jon Tester by 7.1 points.
 
 Jones Day ($8.5M in legal fees) is notable: the elite law firm is both the NRSC's legal counsel and one of the Republican Party's primary institutional legal operations, staffing the pipeline of conservative lawyers into government positions.
 
 ---
 
-### The 2022 Disaster — Rick Scott and the McConnell War
+### The 2022 Disaster. Rick Scott and the McConnell War
 
 The NRSC's recent history includes the most damaging internal party conflict of the modern era. Rick Scott's tenure as NRSC chair during the 2022 cycle was defined by:
 
 **The Spending War:** Scott publicly feuded with Mitch McConnell over spending priorities. McConnell's Senate Leadership Fund pulled advertising from key races (Arizona, New Hampshire) where MAGA-aligned candidates were deemed unelectable, while Scott's NRSC had already invested in those candidates. The result was a disjointed spending strategy that wasted resources and abandoned winnable seats.
 
-**The "Rescue America" Plan:** Scott released an 11-point policy agenda that proposed sunsetting all federal legislation every five years — including Social Security and Medicare. Democrats weaponized the plan in attack ads nationwide, forcing McConnell to publicly repudiate it. The episode demonstrated the NRSC chair using the committee's platform to advance a personal ideological agenda that damaged the party's Senate candidates.
+**The "Rescue America" Plan:** Scott released an 11-point policy agenda that proposed sunsetting all federal legislation every five years, including Social Security and Medicare. Democrats weaponized the plan in attack ads nationwide, forcing McConnell to publicly repudiate it. The episode demonstrated the NRSC chair using the committee's platform to advance a personal ideological agenda that damaged the party's Senate candidates.
 
 **The MAGA Primary Problem:** NRSC-supported MAGA primary winners in Arizona (Blake Masters), Georgia (Herschel Walker), Pennsylvania (Mehmet Oz), and New Hampshire (Don Bolduc) all lost general elections that more moderate candidates might have won. The 2022 cycle cost Republicans the Senate majority for another two years.
 

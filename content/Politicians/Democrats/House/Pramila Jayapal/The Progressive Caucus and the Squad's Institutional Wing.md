@@ -21,17 +21,17 @@ donors: [[AFL-CIO]] [[SEIU - Service Employees International Union]] [[ActBlue]]
 
 ### The Progressive Caucus Chair as Institutional Broker
 
-Pramila Jayapal chairs the Congressional Progressive Caucus — the largest ideological caucus in the House with 100+ members — and has used the position to transform the CPC from a protest bloc into a negotiating force. The evolution: from symbolic resolutions to leverage politics, using the CPC's vote bloc to extract concessions from Democratic leadership on spending bills and legislative priorities.
+Pramila Jayapal chairs the Congressional Progressive Caucus, the largest ideological caucus in the House with 100+ members, and has used the position to transform the CPC from a protest bloc into a negotiating force. The evolution: from symbolic resolutions to leverage politics, using the CPC's vote bloc to extract concessions from Democratic leadership on spending bills and legislative priorities.
 
-The tension: institutional leverage requires institutional compromise. Jayapal's CPC negotiated aggressively during the Build Back Better negotiations (2021-2022), initially holding the infrastructure bill hostage to demand passage of the larger reconciliation package. The CPC eventually relented — passing infrastructure without the reconciliation guarantee — in what progressives viewed as a capitulation to Manchin and Sinema's corporate-aligned demands.
+The tension: institutional leverage requires institutional compromise. Jayapal's CPC negotiated aggressively during the Build Back Better negotiations (2021-2022), initially holding the infrastructure bill hostage to demand passage of the larger reconciliation package. The CPC eventually relented, passing infrastructure without the reconciliation guarantee, in what progressives viewed as a capitulation to Manchin and Sinema's corporate-aligned demands.
 
 ---
 
 ### Medicare for All and the Ambition Gap
 
-Jayapal is the lead House sponsor of the Medicare for All Act — the most comprehensive single-payer healthcare bill in Congress. The bill would eliminate private health insurance, covering all Americans under a single government program. Jayapal has secured 120+ co-sponsors and holds the bill's most prominent legislative position.
+Jayapal is the lead House sponsor of the Medicare for All Act, the most comprehensive single-payer healthcare bill in Congress. The bill would eliminate private health insurance, covering all Americans under a single government program. Jayapal has secured 120+ co-sponsors and holds the bill's most prominent legislative position.
 
-The structural reality: Medicare for All will not pass during Jayapal's career in its current form. The healthcare industry spends $700+ million annually on lobbying — more than any other sector — and Democratic leadership has never scheduled the bill for a floor vote. Jayapal's role is to keep single-payer on the legislative agenda as an aspirational marker while the party's actual healthcare policy moves incrementally (ACA expansion, drug pricing negotiation, public option proposals that never advance).
+The structural reality: Medicare for All will not pass during Jayapal's career in its current form. The healthcare industry spends $700+ million annually on lobbying, more than any other sector, and Democratic leadership has never scheduled the bill for a floor vote. Jayapal's role is to keep single-payer on the legislative agenda as an aspirational marker while the party's actual healthcare policy moves incrementally (ACA expansion, drug pricing negotiation, public option proposals that never advance).
 
 > [!contradiction]
 > Jayapal sponsors Medicare for All while the Progressive Caucus she chairs has never made the bill a condition for supporting Democratic legislative packages. The CPC's leverage strategy works for spending levels and program funding — issues where the Democratic donor class is flexible. It has never been deployed for single-payer healthcare — the one issue where the donor class is unified in opposition. The pattern: progressive leverage is exercised on issues where donors are indifferent and withheld on issues where donors are threatened.
@@ -40,9 +40,9 @@ The structural reality: Medicare for All will not pass during Jayapal's career i
 
 ### Immigration and the Tech Labor Pipeline
 
-Jayapal represents Washington's 7th District — Seattle and surrounding suburbs, home to Amazon, Microsoft, and thousands of tech workers. Before Congress, Jayapal founded OneAmerica, an immigration advocacy organization. Her immigration platform combines humanitarian concerns (refugee protection, DACA) with tech industry labor interests (H-1B visa expansion, green card backlog reduction).
+Jayapal represents Washington's 7th District. Seattle and surrounding suburbs, home to Amazon, Microsoft, and thousands of tech workers. Before Congress, Jayapal founded OneAmerica, an immigration advocacy organization. Her immigration platform combines humanitarian concerns (refugee protection, DACA) with tech industry labor interests (H-1B visa expansion, green card backlog reduction).
 
-The constituency overlap: Seattle's tech sector depends on immigrant labor (40%+ of tech workers in the Seattle metro area are foreign-born), and Jayapal's immigration advocacy serves both her progressive base and her corporate donors. This is one of the rare cases where progressive values and corporate interests align — tech companies want more immigrant workers, and Jayapal wants more immigrant protections. The question: does this alignment make the immigration agenda more achievable, or does it ensure that immigration reform is shaped by corporate labor needs rather than humanitarian principles?
+The constituency overlap: Seattle's tech sector depends on immigrant labor (40%+ of tech workers in the Seattle metro area are foreign-born), and Jayapal's immigration advocacy serves both her progressive base and her corporate donors. This is one of the rare cases where progressive values and corporate interests align, tech companies want more immigrant workers, and Jayapal wants more immigrant protections. The question: does this alignment make the immigration agenda more achievable, or does it ensure that immigration reform is shaped by corporate labor needs rather than humanitarian principles?
 
 ---
 

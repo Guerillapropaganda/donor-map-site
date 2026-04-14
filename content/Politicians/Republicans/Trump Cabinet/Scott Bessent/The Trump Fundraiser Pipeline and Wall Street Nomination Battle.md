@@ -59,7 +59,7 @@ The nomination came down to two Wall Street figures competing for the most power
 
 ### The Confirmation: 68-29
 
-Bessent's confirmation was bipartisan — 68-29 — the widest margin of any Trump Cabinet nominee. Nineteen Democrats voted to confirm. The bipartisan support reflects Wall Street's bipartisan influence: the same financial institutions that fund Schumer ($10.4M) also fund the Republican ecosystem that produced Bessent. The financial sector doesn't need partisan loyalty — it needs regulatory access, and Bessent provides it regardless of which party's senators confirm him.
+Bessent's confirmation was bipartisan, 68-29, the widest margin of any Trump Cabinet nominee. Nineteen Democrats voted to confirm. The bipartisan support reflects Wall Street's bipartisan influence: the same financial institutions that fund Schumer ($10.4M) also fund the Republican ecosystem that produced Bessent. The financial sector doesn't need partisan loyalty, it needs regulatory access, and Bessent provides it regardless of which party's senators confirm him.
 
 ---
 
@@ -67,12 +67,12 @@ Bessent's confirmation was bipartisan — 68-29 — the widest margin of any Tru
 
 Bessent's appointment reveals the Treasury Secretary's structural role in the donor-class system:
 
-1. **Financial regulation:** Treasury oversees FSOC, which monitors systemic risk. Bessent is weakening oversight — directly benefiting the hedge funds and banks in his professional network.
+1. **Financial regulation:** Treasury oversees FSOC, which monitors systemic risk. Bessent is weakening oversight, directly benefiting the hedge funds and banks in his professional network.
 2. **Tax policy:** Treasury implements tax legislation. Bessent's priorities (extend Trump cuts, no carried interest reform) preserve the wealth structures that enriched him.
 3. **Currency policy:** Treasury sets dollar policy. Bessent's $50M+ in currency positions are affected by his own policy decisions.
 4. **Trade negotiation:** Treasury participates in tariff negotiations. Bessent's North Dakota farmland ($5–25M) is affected by the agricultural trade terms he helps set.
 
-The Treasury Secretary is not a neutral administrator — he is the donor class's representative inside the government's economic machinery.
+The Treasury Secretary is not a neutral administrator, he is the donor class's representative inside the government's economic machinery.
 
 ---
 
@@ -80,5 +80,5 @@ The Treasury Secretary is not a neutral administrator — he is the donor class'
 
 - [PBS News: Trump names hedge fund founder Scott Bessent as pick for Treasury secretary](https://www.pbs.org/newshour/politics/trump-names-hedge-fund-founder-scott-bessent-as-pick-for-treasury-secretary) (Tier 2) (VERIFIED)
 - [Newsweek: Scott Bessent connection to George Soros explained as Trump mulls Cabinet](https://www.newsweek.com/scott-bessent-connection-george-soros-trump-treasury-secretary-1984669) (Tier 2) (VERIFIED)
-- ~~[Axios: What to know about Scott Bessent, Trump's U.S. Treasury pick](https://www.axios.com/2024/11/22/trump-treasury-pick-scott-bessent)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[Axios: What to know about Scott Bessent, Trump's U.S. Treasury pick](https://www.axios.com/2024/11/22/trump-treasury-pick-scott-bessent)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 

@@ -1,5 +1,5 @@
 ---
-title: "Rick W. Allen Master Profile"
+title: "Rick W. Allen"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

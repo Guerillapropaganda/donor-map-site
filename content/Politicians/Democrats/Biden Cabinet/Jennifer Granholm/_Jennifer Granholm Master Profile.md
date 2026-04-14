@@ -1,5 +1,5 @@
 ---
-title: "Jennifer Granholm Master Profile"
+title: "Jennifer Granholm"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

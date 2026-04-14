@@ -1,30 +1,71 @@
 ---
-title: "Center for American Progress"
+title: Center for American Progress
 type: think-tank
 content-readiness: ready
-last-updated: 2026-04-11
+last-updated: '2026-04-14'
 source-tier: 1
 parent: null
 category: liberal
 tax-status: 501c3
-related: "[[Goldman Sachs - Wall Street Titan]] · [[Goldman Sachs]] · [[Citigroup]] · [[Google - Alphabet]] · [[Meta - Facebook Political Operation]] · [[New Venture Fund]] · [[Sixteen Thirty Fund]] · [[National Progressive Donor Networks]] · [[Democratic Party Infrastructure]] · [[Silicon Valley Democratic Donor Network]] · [[The Think Tank Money Map — Budget, Funding Sources, and the Illusion of Independence]] · [[Urban Institute]] · [[Cross-Think-Tank Donor Map — The Both-Sides Illusion With Receipts]] · [[The Revolving Door — A Cross-Think-Tank Personnel Map]] · [[The Idea Laundering Pipeline — How Think Tank Research Becomes Law]] · [[Brennan Center for Justice]] · [[Mercatus Center]] · [[Center on Budget and Policy Priorities]] · [[Economic Policy Institute]] · [[Manhattan Institute for Policy Research]] · [[Hudson Institute]] · [[Hoover Institution]] · [[Heritage Foundation]] · [[Heartland Institute]] · [[Federalist Society]] · [[Claremont Institute]] · [[Cato Institute]] · [[American Enterprise Institute]] · [[Third Way]] · [[RAND Corporation]] · [[Council on Foreign Relations]] · [[Center for a New American Security]] · [[Brookings Institution]] · [[Atlantic Council]] · [[Aspen Institute]] · [[Media Matters]] · [[Democracy Alliance]]"
-ein: "300126510"
-nonprofit-status: "501(c)(3)"
-last-enriched: "2026-04-09"
+related: >-
+  [[Goldman Sachs - Wall Street Titan]] · [[Goldman Sachs]] · [[Citigroup]] ·
+  [[Google - Alphabet]] · [[Meta - Facebook Political Operation]] · [[New
+  Venture Fund]] · [[Sixteen Thirty Fund]] · [[National Progressive Donor
+  Networks]] · [[Democratic Party Infrastructure]] · [[Silicon Valley Democratic
+  Donor Network]] · [[The Think Tank Money Map , Budget, Funding Sources, and
+  the Illusion of Independence]] · [[Urban Institute]] · [[Cross-Think-Tank
+  Donor Map , The Both-Sides Illusion With Receipts]] · [[The Revolving Door , A
+  Cross-Think-Tank Personnel Map]] · [[The Idea Laundering Pipeline , How Think
+  Tank Research Becomes Law]] · [[Brennan Center for Justice]] · [[Mercatus
+  Center]] · [[Center on Budget and Policy Priorities]] · [[Economic Policy
+  Institute]] · [[Manhattan Institute for Policy Research]] · [[Hudson
+  Institute]] · [[Hoover Institution]] · [[Heritage Foundation]] · [[Heartland
+  Institute]] · [[Federalist Society]] · [[Claremont Institute]] · [[Cato
+  Institute]] · [[American Enterprise Institute]] · [[Third Way]] · [[RAND
+  Corporation]] · [[Council on Foreign Relations]] · [[Center for a New American
+  Security]] · [[Brookings Institution]] · [[Atlantic Council]] · [[Aspen
+  Institute]] · [[Media Matters]] · [[Democracy Alliance]]
+ein: '300126510'
+nonprofit-status: 501(c)(3)
+last-enriched: '2026-04-09'
 total-revenue: 37377429
 total-assets: 84539768
 federal-register-mentions: 127
 regulatory-agencies:
-  - "Centers for Medicare & Medicaid Services"
-  - "Commodity Futures Trading Commission"
-  - "Education Department"
-  - "Employee Benefits Security Administration"
-  - "Federal Trade Commission"
-  - "Health and Human Services Department"
-  - "Homeland Security Department"
-  - "Housing and Urban Development Department"
-  - "Labor Department"
-  - "National Highway Traffic Safety Administration"
+  - Centers for Medicare & Medicaid Services
+  - Commodity Futures Trading Commission
+  - Education Department
+  - Employee Benefits Security Administration
+  - Federal Trade Commission
+  - Health and Human Services Department
+  - Homeland Security Department
+  - Housing and Urban Development Department
+  - Labor Department
+  - National Highway Traffic Safety Administration
+sec-filings: 775
+sec-form-types:
+  - 10-Q
+  - 10QSB
+  - 485BPOS
+  - '497'
+  - 497K
+  - 6-K
+  - 8-K
+  - CORRESP
+  - DEF 14A
+  - DEFA14A
+  - EX-99.1
+  - EX-99.1 CHARTER
+  - EX-99.2
+  - EX-99.2 BYLAWS
+  - FWP
+  - MA-I
+  - MA-I/A
+  - N-CSR
+  - PART II
+  - PX14A6G
+lobbying-spend: 3338250
+lobbying-filings: 125
 ---
 
 #think-tank #liberal #healthcare #climate #economic-policy #revolving-door #idea-laundering #obama-network #biden-network
@@ -193,9 +234,9 @@ The ThinkProgress episode is instructive: when CAP's own progressive media staff
 - [Center for American Progress: Our Supporters (self-reported donor list)](https://www.americanprogress.org/c3-our-supporters/) (Tier 3) (VERIFIED)
 - [Wikipedia: Center for American Progress](https://en.wikipedia.org/wiki/Center_for_American_Progress) (Tier 3) (VERIFIED)
 - [Ballotpedia: Center for American Progress](https://ballotpedia.org/Center_for_American_Progress) (Tier 3) (VERIFIED)
-- ~~[SourceWatch: Center for American Progress](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/Center_for_American_Progress)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3)
+- ~~[SourceWatch: Center for American Progress](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/Center_for_American_Progress)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
 - [Politico: The Most Influential Think Tank of the Biden Era Has a New Leader](https://www.politico.com/news/2021/06/30/center-for-american-progress-new-leader-497167) (Tier 2) (VERIFIED)
-- ~~[The Hill: Liberal News Site ThinkProgress Shutting Down](https://thehill.com/homenews/media/460268-liberal-news-site-thinkprogress-shutting-down/)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3)
+- ~~[The Hill: Liberal News Site ThinkProgress Shutting Down](https://thehill.com/homenews/media/460268-liberal-news-site-thinkprogress-shutting-down/)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
 - [The Intercept: Leaked Emails From Pro-Clinton Group Reveal Censorship of Staff on Israel, AIPAC Pandering](https://theintercept.com/2015/11/05/leaked-emails-from-pro-clinton-group-reveal-censorship-of-staff-on-israel-aipac-pandering-warped-militarism/) (Tier 2) (VERIFIED)
 - [Truthdig: The Center for American Progress Isn't Fooling Anybody. ThinkProgress union shutdown analysis (2019)](https://www.truthdig.com/articles/liberal-think-tank-shutters-its-unionized-news-site-thinkprogress/) (Tier 2) (VERIFIED)
 - [The Nation: Corporate Influence at the Center for American Progress?](https://www.thenation.com/article/archive/corporate-influence-center-american-progress/) (Tier 2) (VERIFIED)

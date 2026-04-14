@@ -26,11 +26,11 @@ donors: [[Trump Media & Technology Group]] The Epoch Times
 
 | Date | Event | Amount | Source |
 |------|-------|--------|--------|
-| 2021-01-01 | Patel leaves Trump administration (January 2021) and founds Trishul LLC consulting firm | — | Founding records |
+| 2021-01-01 | Patel leaves Trump administration (January 2021) and founds Trishul LLC consulting firm |, | Founding records |
 | 2021-01-01 | The Epoch Times pays Patel contributor fees for "Kash's Corner" media hosting | $99,000 | Financial disclosure |
 | 2021-01-01 | Trump Media provides board compensation to Patel | $120,000/year | Financial disclosure |
-| 2021-01-01 | Patel begins book project "Government Gangsters: The Deep State, the Truth and the Battle for Our Democracy" | — | Publishing records |
-| 2022-07-01 | Patel launches Kash Foundation as 501(c)(3) charity (later funds January 6 defendants and Republican FBI whistleblowers) | — | Tax records |
+| 2021-01-01 | Patel begins book project "Government Gangsters: The Deep State, the Truth and the Battle for Our Democracy" |, | Publishing records |
+| 2022-07-01 | Patel launches Kash Foundation as 501(c)(3) charity (later funds January 6 defendants and Republican FBI whistleblowers) |, | Tax records |
 | 2023-01-01 | "Government Gangsters" published as bestseller with royalties from sales | $100,000–$1,000,000 | Book royalties |
 | 2023-01-01 | Trishul LLC generates major consulting contracts from Trump-adjacent organizations | $2,100,000 (2024) | Financial disclosure |
 | 2023-01-01 | Patel receives consulting payments from Save America PAC (Trump's political operation) | $400,000 | FEC filings |
@@ -38,9 +38,9 @@ donors: [[Trump Media & Technology Group]] The Epoch Times
 | 2023-01-01 | Real America's Voice News pays Patel media fees | $20,000 | Financial disclosure |
 | 2023-01-01 | Patel collects royalties from children's book series "The Plot Against the King" | $45,000–$150,000 | Financial disclosure |
 | 2023-01-01 | Patel conducts paid speaking engagements for conservative organizations | $57,000 | Financial disclosure |
-| 2024-01-01 | Patel's 2024 identifiable income from Trump ecosystem reaches $3M+ | — | Financial disclosure |
-| 2024-11-01 | Trump nominates Patel as FBI Director after year of building loyalty wealth through Trump ecosystem | — | Trump announcement |
-| 2025-01-01 | Patel confirmed as FBI Director, controlling agency responsible for investigating Trump-related matters | — | Senate confirmation |
+| 2024-01-01 | Patel's 2024 identifiable income from Trump ecosystem reaches $3M+ |, | Financial disclosure |
+| 2024-11-01 | Trump nominates Patel as FBI Director after year of building loyalty wealth through Trump ecosystem |, | Trump announcement |
+| 2025-01-01 | Patel confirmed as FBI Director, controlling agency responsible for investigating Trump-related matters |, | Senate confirmation |
 
 ---
 
@@ -50,7 +50,7 @@ Patel's media income reveals the financial infrastructure of Trump loyalty:
 
 **The Epoch Times:** $99,000 in contributor fees for hosting "Kash's Corner" on EpochTV (2021–2023). The Epoch Times is affiliated with Falun Gong and has been a primary distributor of pro-Trump content and conspiracy theories. The relationship is transactional: Epoch gets a Trump insider's credibility; Patel gets a platform and income.
 
-**Book deals:** "Government Gangsters" — subtitled "The Deep State, the Truth and the Battle for Our Democracy" — became a New York Times bestseller. The book includes an "enemies list" of 60 named "deep state" members. The children's book series "The Plot Against the King" (110,000+ copies sold) repackages the Trump persecution narrative for children. Combined royalties: $145K–$1.15M.
+**Book deals:** "Government Gangsters", subtitled "The Deep State, the Truth and the Battle for Our Democracy", became a New York Times bestseller. The book includes an "enemies list" of 60 named "deep state" members. The children's book series "The Plot Against the King" (110,000+ copies sold) repackages the Trump persecution narrative for children. Combined royalties: $145K–$1.15M.
 
 **Speaking circuit:** $57,000 from organizations including Our Watch, Libertarian National Committee, Citizens Defending Freedom, and Global Tree Pictures.
 
@@ -71,7 +71,7 @@ Patel's tax-exempt foundation reveals the political function of "charity" in the
 - Funded January 6 defendants' legal costs
 - Gave "thousands of dollars" to at least two FBI whistleblowers aligned with House Republican investigations
 - $5,000 to pro-Trump personality Benny Johnson for East Palestine, Ohio relief
-- Paid $275,475 to One and Oh LLC — a company founded by the foundation's vice president, raising self-dealing questions
+- Paid $275,475 to One and Oh LLC, a company founded by the foundation's vice president, raising self-dealing questions
 
 > [!contradiction]
 > The Kash Foundation is a 501(c)(3) charitable organization that funds January 6 defendants and Republican-aligned FBI whistleblowers. The "charity" designation enables tax-deductible donations to flow to Trump's political allies. The $275,475 payment to a company run by the foundation's own vice president suggests the foundation also functions as a self-enrichment vehicle. The man now running the FBI used a tax-exempt charity to fund the legal defense of people who attacked the Capitol his agency protects.

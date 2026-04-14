@@ -105,11 +105,11 @@ L3 Technologies secured: continued government contracts for surveillance and com
 
 ### Class Analysis
 
-L3 Technologies exemplifies how defense contractors operate within military-industrial complex dynamics: sustained government spending guarantees corporate revenue, political influence ensures contract awards, and revolving-door relationships eliminate separation between corporate interests and military strategy. The company's surveillance technology operations reveal that the military-industrial complex includes electronic surveillance as core infrastructure. L3's success in maintaining contracts despite technological obsolescence (surveillance systems require constant upgrade) demonstrates that military-industrial complex dynamics eliminate market accountability—performance doesn't determine contract awards, relationships do.
+L3 Technologies exemplifies how defense contractors operate within military-industrial complex dynamics: sustained government spending guarantees corporate revenue, political influence ensures contract awards, and revolving-door relationships eliminate separation between corporate interests and military strategy. The company's surveillance technology operations reveal that the military-industrial complex includes electronic surveillance as core infrastructure. L3's success in maintaining contracts despite technological obsolescence (surveillance systems require constant upgrade) demonstrates that military-industrial complex dynamics eliminate market accountability, performance doesn't determine contract awards, relationships do.
 
 ### Sources
 
-- ~~[OpenSecrets: L3 Technologies lobbying and contributions](https://www.opensecrets.org/orgs/l3-technologies)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[OpenSecrets: L3 Technologies lobbying and contributions](https://www.opensecrets.org/orgs/l3-technologies)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [FEC Receipts: Defense sector political spending overview](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1) (VERIFIED)
 - [The Intercept: Surveillance and Border Security Contractors See Big Money in Donald Trump's Immigration Agenda](https://theintercept.com/2016/12/06/defense-companies-trump/) (Tier 2) (VERIFIED)
 

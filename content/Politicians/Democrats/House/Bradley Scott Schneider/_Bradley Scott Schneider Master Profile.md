@@ -1,5 +1,5 @@
 ---
-title: "Bradley Scott Schneider Master Profile"
+title: "Bradley Scott Schneider"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

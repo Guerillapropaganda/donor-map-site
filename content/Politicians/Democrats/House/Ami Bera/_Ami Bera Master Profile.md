@@ -1,5 +1,5 @@
 ---
-title: "Ami Bera Master Profile"
+title: "Ami Bera"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

@@ -199,8 +199,8 @@ NAM is the permanent institutional voice of manufacturing capital, the organizat
 
 - [OpenSecrets: National Association of Manufacturers lobbying profile](https://www.opensecrets.org/orgs/national-assn-of-manufacturers/lobbying?id=D000054156) (Tier 1)
 - [OpenSecrets: NAM PAC contributions and summary](https://www.opensecrets.org/orgs/national-assn-of-manufacturers/summary?id=D000054156) (Tier 1)
-- ~~[DeSmog: National Association of Manufacturers. Climate Science Denial profile](https://www.desmog.com/national-association-of-manufacturers/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
-- ~~[U.S. Senate: Whitehouse "Time to Wake Up" speech on NAM climate obstruction](https://www.whitehouse.senate.gov/news/speeches/time-to-wake-up-249-the-national-association-of-manufacturers/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[DeSmog: National Association of Manufacturers. Climate Science Denial profile](https://www.desmog.com/national-association-of-manufacturers/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[U.S. Senate: Whitehouse "Time to Wake Up" speech on NAM climate obstruction](https://www.whitehouse.senate.gov/news/speeches/time-to-wake-up-249-the-national-association-of-manufacturers/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Ballotpedia: National Association of Manufacturers](https://ballotpedia.org/National_Association_of_Manufacturers) (Tier 3) (VERIFIED)
 - [NAM: Policy positions](https://nam.org/issues/) (Tier 3) (VERIFIED)
 

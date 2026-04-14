@@ -1,5 +1,5 @@
 ---
-title: "Marty Walsh Master Profile"
+title: "Marty Walsh"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

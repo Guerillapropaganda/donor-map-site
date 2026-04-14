@@ -1,5 +1,5 @@
 ---
-title: "Patrick Ryan Master Profile"
+title: "Patrick Ryan"
 type: politician
 content-readiness: draft
 last-updated: 2026-04-12

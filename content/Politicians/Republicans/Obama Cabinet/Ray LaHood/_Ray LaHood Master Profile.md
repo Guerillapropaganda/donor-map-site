@@ -1,5 +1,5 @@
 ---
-title: "Ray LaHood Master Profile"
+title: "Ray LaHood"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

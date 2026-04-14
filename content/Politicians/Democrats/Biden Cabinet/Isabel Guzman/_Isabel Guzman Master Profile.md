@@ -1,5 +1,5 @@
 ---
-title: "Isabel Guzman Master Profile"
+title: "Isabel Guzman"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

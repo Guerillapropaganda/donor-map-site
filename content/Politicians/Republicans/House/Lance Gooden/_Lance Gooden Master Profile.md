@@ -1,5 +1,5 @@
 ---
-title: "Lance Gooden Master Profile"
+title: "Lance Gooden"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

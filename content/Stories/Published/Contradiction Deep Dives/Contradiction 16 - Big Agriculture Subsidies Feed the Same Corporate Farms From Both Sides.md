@@ -118,7 +118,7 @@ The top 10% of subsidy recipients collect 60–66% of all payments. The bottom 8
 - [Cato: Most Hypocritical Performance Fincher](https://www.cato.org/blog/award-most-hypocritical-performance-member-congress-goes) (Tier 2) (VERIFIED)
 - [LA Times: LaMalfa Farm Subsidies](https://www.latimes.com/business/la-xpm-2013-sep-20-la-fi-mo-lamalfa-20130920-story.html) (Tier 2)
 - [EWG: Farm Subsidies to Members of Congress](https://www.scribd.com/document/847434405/Farm-subsidies-to-members-of-congress) (Tier 2)
-- ~~[Politico: Republicans Who Got Farm Subsidies](https://www.politico.com/story/2013/07/republicans-who-got-farm-subsidies-targeted-094532)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[Politico: Republicans Who Got Farm Subsidies](https://www.politico.com/story/2013/07/republicans-who-got-farm-subsidies-targeted-094532)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [EWG: Crop Insurance Subsidies to Corps Not Farmers](https://www.bleedingheartland.com/2023/07/21/1-3-of-crop-insurance-subsidies-flow-to-insurance-corps-agents-not-farmers/) (Tier 2) (VERIFIED)
 - [Farm Policy News: Farm Bill Lobbying Exceeds $500M](https://farmpolicynews.illinois.edu/2024/05/farm-bill-lobbying-exceeds-500-million-report-says/) (Tier 2) (VERIFIED)
 

@@ -1,9 +1,9 @@
 ---
-title: "Chris Coons Master Profile"
+title: "Chris Coons"
 type: politician
 content-readiness: ready
-central-thesis: "Coons is Big Pharma's man in the Senate — Jacobin's phrase, but the evidence is structural. Delaware is home to DuPont, AstraZeneca, and the corporate incorporation industry that shelters more than 1.8 million business entities. Coons's committee ..."
-last-updated: 2026-04-14
+central-thesis: "Coons is Big Pharma's man in the Senate , Jacobin's phrase, but the evidence is structural. Delaware is home to DuPont, AstraZeneca, and the corporate incorporation industry that shelters more than 1.8 million business entities. Coons's committee ..."
+last-updated: 2026-04-13
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -48,7 +48,7 @@ committees:
   - "Senate Committee on Small Business and Entrepreneurship"
   - "Senate Committee on the Judiciary"
   - "Senate Select Committee on Ethics"
-internal-notes: "[MANUAL 2026-04-11] Bioguide recovered: C001088. Previously cleared by fix-bioguide-contamination.cjs because the profile was sharing a contaminated wrong bioguide (C001091 or B001296) with other unrelated profiles. Manually verified against bioguide.congress.gov/search. needs-reenrichment flipped from false to true — the next scheduled pipeline run will now populate correct Congress.gov auto-blocks.
+internal-notes: "[MANUAL 2026-04-11] Bioguide recovered: C001088. Previously cleared by fix-bioguide-contamination.cjs because the profile was sharing a contaminated wrong bioguide (C001091 or B001296) with other unrelated profiles. Manually verified against bioguide.congress.gov/search. needs-reenrichment flipped from false to true , the next scheduled pipeline run will now populate correct Congress.gov auto-blocks.
 
 [JANITOR 2026-04-11] Bioguide contamination cleared by fix-bioguide-contamination.cjs. This profile had bioguide-id set to 'C001091' (Joaquin Castro's ID), almost certainly from a past bulk-set script that fell through to candidates[0]?.bioguideId when a name search failed. 19 unrelated profiles all had the same wrong ID — same class of bug as the A000383 Alan Armstrong incident documented in the Pipeline Guide. The wrong ID has been removed. A correct bioguide must be added manually (verify at bioguide.congress.gov/search) before the Congress.gov pipeline can enrich this profile. Pipeline will skip this profile until a bioguide is provided."
 ---
@@ -61,17 +61,17 @@ donors: [[PhRMA - Pharmaceutical Research and Manufacturers of America|PhRMA]] �
 
 ## Who They Are
 
-[[_Chris Coons Master Profile|Chris Coons]] is the senior United States Senator from Delaware, serving since November 2010. Born September 9, 1963, in Greenwich, Connecticut. B.A. in chemistry and political science from Amherst College. Master's in ethics from Yale Divinity School. J.D. from Yale Law School. Worked for eight years as in-house counsel at W.L. Gore & Associates (makers of Gore-Tex), handling ethics training, federal government relations, and commercial contracting. Served as president of the New Castle County Council (2001–2005) and New Castle County Executive (2005–2010). Won a 2010 special election against Christine O'Donnell to fill Joe Biden's Senate seat — the seat Biden vacated when he became Vice President. Coons's family business manufactures medical devices and depends on patents to maintain its monopolies. Reelected 2014 and 2020.
+[[_Chris Coons Master Profile|Chris Coons]] is the senior United States Senator from Delaware, serving since November 2010. Born September 9, 1963, in Greenwich, Connecticut. B.A. in chemistry and political science from Amherst College. Master's in ethics from Yale Divinity School. J.D. from Yale Law School. Worked for eight years as in-house counsel at W.L. Gore & Associates (makers of Gore-Tex), handling ethics training, federal government relations, and commercial contracting. Served as president of the New Castle County Council (2001–2005) and New Castle County Executive (2005–2010). Won a 2010 special election against Christine O'Donnell to fill Joe Biden's Senate seat, the seat Biden vacated when he became Vice President. Coons's family business manufactures medical devices and depends on patents to maintain its monopolies. Reelected 2014 and 2020.
 
-**Current committee assignments:** Appropriations; Foreign Relations; Judiciary; Ethics (Select, Vice Chair — formerly Chair 2021–2025); Small Business and Entrepreneurship.
+**Current committee assignments:** Appropriations; Foreign Relations; Judiciary; Ethics (Select, Vice Chair, formerly Chair 2021–2025); Small Business and Entrepreneurship.
 
-**The Biden seat:** This is the structural detail. Coons inherited the seat that Joe Biden used for 36 years as Delaware's corporate senator — the man who championed the 2005 bankruptcy bill for MBNA and the credit card industry. Coons continues the tradition: the Delaware seat serves the corporate incorporation industry, the pharmaceutical industry, the banking sector, and the patent law ecosystem that makes Wilmington the legal capital of American corporate power.
+**The Biden seat:** This is the structural detail. Coons inherited the seat that Joe Biden used for 36 years as Delaware's corporate senator, the man who championed the 2005 bankruptcy bill for MBNA and the credit card industry. Coons continues the tradition: the Delaware seat serves the corporate incorporation industry, the pharmaceutical industry, the banking sector, and the patent law ecosystem that makes Wilmington the legal capital of American corporate power.
 
 ---
 
 ## The Central Thesis
 
-Coons is Big Pharma's man in the Senate — Jacobin's phrase, but the evidence is structural. Delaware is home to DuPont, AstraZeneca, and the corporate incorporation industry that shelters more than 1.8 million business entities. Coons's committee portfolio (Judiciary for patent law, Foreign Relations for vaccine IP, Appropriations for research funding) maps directly onto the industries that fund him. His patent maximalism — strengthening IP protections that extend pharmaceutical monopolies, opposing vaccine patent sharing during COVID, and fighting to weaken the Patent Trial and Appeal Board that challenges bad patents — serves the pharmaceutical donor class that provided $124,000+ in his 2020 cycle alone (making him the third-highest pharma recipient in the Senate). The Biden seat serves the same interests it always has. The occupant changed. The function didn't.
+Coons is Big Pharma's man in the Senate. Jacobin's phrase, but the evidence is structural. Delaware is home to DuPont, AstraZeneca, and the corporate incorporation industry that shelters more than 1.8 million business entities. Coons's committee portfolio (Judiciary for patent law, Foreign Relations for vaccine IP, Appropriations for research funding) maps directly onto the industries that fund him. His patent maximalism, strengthening IP protections that extend pharmaceutical monopolies, opposing vaccine patent sharing during COVID, and fighting to weaken the Patent Trial and Appeal Board that challenges bad patents, serves the pharmaceutical donor class that provided $124,000+ in his 2020 cycle alone (making him the third-highest pharma recipient in the Senate). The Biden seat serves the same interests it always has. The occupant changed. The function didn't.
 
 > [!money]
 > **Campaign finance (2020 cycle):** $6 million raised. 65% from large individual donors ($3.9M). 31% from PACs. Third-highest pharmaceutical industry recipient in the Senate ($124,000+). Top industry sectors: lawyers/law firms, securities/investment, pharmaceuticals/health products, real estate. Coons held a massive financial advantage over his 2020 progressive primary challenger Jess Scarane — outspending her by more than 20-to-1.
@@ -103,15 +103,15 @@ Coons is Big Pharma's man in the Senate — Jacobin's phrase, but the evidence i
 | Date | Type | Event | Donor/Amount | Gap |
 |------|------|-------|-------------|-----|
 | 2010 | Appointment | Coons wins Biden's old seat in special election vs. Christine O'Donnell | Delaware corporate establishment backing | 0 |
-| 2011 | Policy | Cosponsors Patent Reform Act of 2011 — backed by PhRMA, BIO, and Coalition for 21st Century Patent Reform (including DuPont, AstraZeneca) | Beneficiary: pharma patent holders in Delaware | 12 months after entering Senate |
+| 2011 | Policy | Cosponsors Patent Reform Act of 2011, backed by PhRMA, BIO, and Coalition for 21st Century Patent Reform (including DuPont, AstraZeneca) | Beneficiary: pharma patent holders in Delaware | 12 months after entering Senate |
 | 2019 | Policy | Slips provision into NDAA eliminating federal funding limit for National Institute for Innovation in Manufacturing Biopharmaceuticals (private-public pharma partnership) | Beneficiary: AstraZeneca, Delaware pharma | Ongoing pharma donations |
-| 2019 | Policy | Introduces STRONG Patents Act — weakens PTAB, makes it harder to challenge pharma patents | Beneficiary: every pharma company using Delaware patents to maintain monopolies | Concurrent with $124K+ pharma donations |
+| 2019 | Policy | Introduces STRONG Patents Act, weakens PTAB, makes it harder to challenge pharma patents | Beneficiary: every pharma company using Delaware patents to maintain monopolies | Concurrent with $124K+ pharma donations |
 | 2020 | Donation | Third-highest pharmaceutical industry recipient in Senate ($124,000+) | PhRMA, AstraZeneca, DuPont affiliates | Concurrent with patent legislation |
-| 2020 | Election | Defeats progressive challenger Jess Scarane 73–27 in primary — outspends her 20:1 | $6M total vs. challenger's ~$300K | Corporate fundraising advantage |
+| 2020 | Election | Defeats progressive challenger Jess Scarane 73–27 in primary, outspends her 20:1 | $6M total vs. challenger's ~$300K | Corporate fundraising advantage |
 | 2021 | Policy | Invokes Red Scare rhetoric to oppose COVID vaccine patent waiver (TRIPS waiver) at CSIS event | Beneficiary: pharma companies with vaccine IP (Pfizer, Moderna) | Months after $124K+ pharma cycle |
 | 2021 | Policy | Demands that no one who has "ever criticized intellectual property" be allowed to head the Patent and Trademark Office | Beneficiary: patent maximalist lobby | Concurrent |
 | 2025 | Policy | ← Co-authors Coons-Rubio bill authorizing $3.3B/year minimum security assistance to Israel; Senate passes | Pro-Israel donors ($258K+ career) | Ongoing AIPAC-aligned funding |
-| 2025–2026 | Policy | Authors bill expanding Delaware bankruptcy judgeships; opposes Warren's bill restricting corporate bankruptcy venue shopping | Beneficiary: Delaware incorporation/bankruptcy industry | Structural — Delaware's entire corporate model |
+| 2025–2026 | Policy | Authors bill expanding Delaware bankruptcy judgeships; opposes Warren's bill restricting corporate bankruptcy venue shopping | Beneficiary: Delaware incorporation/bankruptcy industry | Structural. Delaware's entire corporate model |
 
 > [!money] The Patent Pipeline
 > Coons's patent maximalism is the clearest donor-to-policy pipeline in the profile. PhRMA and BIO back his Patent Reform Act (2011). He introduces STRONG Patents Act to weaken the PTAB — the single most effective mechanism for challenging bad pharmaceutical patents. He fights to keep IP maximalists running the Patent Office. He opposes sharing vaccine patents during COVID. Every position extends pharmaceutical monopolies, every monopoly extends drug prices, every price extension benefits the companies that provide $124K+ per cycle. His family's medical device business depends on the same patent system he strengthens through legislation.
@@ -130,13 +130,13 @@ During the global COVID vaccine crisis, Coons invoked Red Scare rhetoric and the
 
 ## Analytical Patterns
 
-**Genuine Win + Structural Limit:** Coons has genuine legislative accomplishments — bipartisan foreign policy work, Africa subcommittee leadership, and real ethics committee oversight. The structural limit: every patent law position, every pharmaceutical policy vote, every bankruptcy jurisdiction protection serves the Delaware corporate ecosystem that funds him. The genuine bipartisan work provides cover for industry-aligned votes that never get the same attention.
+**Genuine Win + Structural Limit:** Coons has genuine legislative accomplishments, bipartisan foreign policy work, Africa subcommittee leadership, and real ethics committee oversight. The structural limit: every patent law position, every pharmaceutical policy vote, every bankruptcy jurisdiction protection serves the Delaware corporate ecosystem that funds him. The genuine bipartisan work provides cover for industry-aligned votes that never get the same attention.
 
 **Revolving Door:** Coons went from W.L. Gore in-house counsel (corporate law, federal government relations) to New Castle County government to the Senate, where he legislates on the same patent and corporate law issues he practiced. His family medical device business benefits from the patent protections he strengthens. The personal economic interest and the legislative agenda overlap.
 
 **Two-Audience Problem:** Progressive voters and Democratic base hear: bipartisan dealmaker, ethics background, foreign policy experience, Africa expertise, faith-based values. Pharmaceutical companies, corporate law firms, and the Delaware incorporation industry hear: patent maximalism, PTAB weakening, bankruptcy venue protection, opposition to vaccine patent sharing, no one who criticizes IP can lead the Patent Office. The two messages are delivered to entirely different audiences.
 
-**Villain Framing:** Coons frames patent reform critics as threats to "innovation" and vaccine-sharing advocates as naive or dangerous — he literally invoked the Capitol riot and Red Scare rhetoric to argue against the TRIPS waiver. The real structural threat is not to innovation. It is to pharmaceutical monopoly pricing. Framing patent challenges as anti-innovation lets Coons protect drug company profits while appearing to defend American competitiveness.
+**Villain Framing:** Coons frames patent reform critics as threats to "innovation" and vaccine-sharing advocates as naive or dangerous, he literally invoked the Capitol riot and Red Scare rhetoric to argue against the TRIPS waiver. The real structural threat is not to innovation. It is to pharmaceutical monopoly pricing. Framing patent challenges as anti-innovation lets Coons protect drug company profits while appearing to defend American competitiveness.
 
 ---
 
@@ -144,13 +144,13 @@ During the global COVID vaccine crisis, Coons invoked Red Scare rhetoric and the
 
 1. **Ethics Credentialing:** Yale Divinity ethics degree + W.L. Gore ethics program director. Uses personal ethics training background to establish moral authority while legislating for pharma profits. The credentials are real; the deployment is strategic.
 
-2. **Bipartisan Bridge-Builder:** Ranked among most bipartisan senators. Cosponsors with Republicans on foreign policy, judiciary. The bipartisan brand provides cover for corporate-aligned votes that aren't bipartisan controversies — they're donor-class consensus.
+2. **Bipartisan Bridge-Builder:** Ranked among most bipartisan senators. Cosponsors with Republicans on foreign policy, judiciary. The bipartisan brand provides cover for corporate-aligned votes that aren't bipartisan controversies, they're donor-class consensus.
 
 3. **Innovation Defense:** Every pharma-friendly position is framed as defending "innovation" and "American competitiveness." The STRONG Patents Act protects "strong patents." Opposing vaccine sharing protects "innovation incentives." The frame makes pharmaceutical monopoly protection sound like patriotism.
 
-4. **The Biden Inheritance:** Coons explicitly occupies Biden's seat and his political space — moderate Delaware Democrat, corporate-friendly, bipartisan affect. The inheritance is not just the seat. It is the donor relationships, the corporate class alignment, and the understanding that Delaware's senator serves Delaware's industries.
+4. **The Biden Inheritance:** Coons explicitly occupies Biden's seat and his political space, moderate Delaware Democrat, corporate-friendly, bipartisan affect. The inheritance is not just the seat. It is the donor relationships, the corporate class alignment, and the understanding that Delaware's senator serves Delaware's industries.
 
-5. **Red Scare as IP Defense:** During COVID vaccine patent debate, Coons argued at CSIS that sharing patents would empower China and referenced the Capitol riot — connecting patent sharing with national security threats. Using Cold War and insurrection framing to defend pharmaceutical IP profits is the most extreme version of villain framing in the vault.
+5. **Red Scare as IP Defense:** During COVID vaccine patent debate, Coons argued at CSIS that sharing patents would empower China and referenced the Capitol riot, connecting patent sharing with national security threats. Using Cold War and insurrection framing to defend pharmaceutical IP profits is the most extreme version of villain framing in the vault.
 
 ---
 
@@ -161,11 +161,11 @@ During the global COVID vaccine crisis, Coons invoked Red Scare rhetoric and the
 - [Jacobin: Chris Coons Is Big Pharma's Man in Washington](https://jacobin.com/2020/09/chris-coons-big-pharma-joe-biden) (Tier 2) (VERIFIED)
 - [Jacobin: Sen. Chris Coons's Defense of Vaccine Apartheid Is Obscene](https://jacobin.com/2021/05/senator-chris-coons-vaccine-patent-remarks-csis-cold-war-red-scare) (Tier 2) (VERIFIED)
 - [OpenSecrets: Coons holds massive financial advantage over progressive challenger](https://www.opensecrets.org/news/2020/09/chris-coons-2020-progressive-challenger/) (Tier 1) (VERIFIED)
-- [Revolving Door Project: Revolver Spotlight — Chris Coons](https://therevolvingdoorproject.org/revolver-spotlight-chris-coons/) (Tier 2) (VERIFIED)
+- [Revolving Door Project: Revolver Spotlight. Chris Coons](https://therevolvingdoorproject.org/revolver-spotlight-chris-coons/) (Tier 2) (VERIFIED)
 - [The American Prospect: Where's the Congressional Champion on Pharma Patent Abuses?](https://prospect.org/2022/04/25/wheres-congressional-champion-on-pharma-patent-abuses/) (Tier 2) (VERIFIED)
 - [Techdirt: Senator Chris Coons Says No One Who Has Ever Criticized IP Can Head the Patent Office](https://www.techdirt.com/2021/05/27/senator-chris-coons-says-no-one-who-has-ever-criticized-intellectual-property-can-head-patent-office/) (Tier 2) (VERIFIED)
 - [ProPublica: Biden's Cozy Relations With Bank Industry](https://www.propublica.org/article/bidens-cozy-relations-with-bank-industry-825) (Tier 2) (VERIFIED)
-- [TrackAIPAC: Chris Coons — $258,166 from pro-Israel groups](https://www.trackaipac.com/congress) (Tier 2) (VERIFIED)
+- [TrackAIPAC: Chris Coons, $258,166 from pro-Israel groups](https://www.trackaipac.com/congress) (Tier 2) (VERIFIED)
 - [Senator Coons: Coons-Rubio bill enhances U.S. security assistance to Israel](https://www.coons.senate.gov/news/press-releases/senate-passes-coons-rubio-bill-to-enhance-us-security-assistance-to-israel/) (Tier 1) (VERIFIED)
 - [Wikipedia: Chris Coons](https://en.wikipedia.org/wiki/Chris_Coons) (Tier 3) (VERIFIED)
 - [Ballotpedia: Chris Coons](https://ballotpedia.org/Chris_Coons) (Tier 3) (VERIFIED)

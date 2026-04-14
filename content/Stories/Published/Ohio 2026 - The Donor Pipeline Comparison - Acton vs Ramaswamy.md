@@ -154,19 +154,19 @@ The race pivots on three money movements over the next 7 months:
 
 ### Sources
 
-- ~~[OpenSecrets: Vivek Ramaswamy 2026 Governor Campaign Finance](https://www.opensecrets.org/races/OH-Gov-2026)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[OpenSecrets: Vivek Ramaswamy 2026 Governor Campaign Finance](https://www.opensecrets.org/races/OH-Gov-2026)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - ~~[FollowTheMoney.org: Ohio 2026 Governor Race](https://followthemoney.org/entity-race/OH/Governor/2026)~~ (was FollowTheMoney, site merged into OpenSecrets, all URLs dead) (Tier 1)
 - [Jeff Yass personal donations tracker, Club for Growth, MAGA Inc.](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Jeff%20Yass) (Tier 1) (VERIFIED)
 - [ProPublica: Jeff Yass. The Billionaire GOP Mega-Donor Gaming the Tax System](https://www.propublica.org/article/jeff-yass-susquehanna-tiktok-tax-avoidance) (Tier 2) (VERIFIED)
-- ~~[Bloomberg: Stone Ridge Holdings profit, Ross Stevens Bitcoin](https://www.bloomberg.com/news/articles/stone-ridge-holdings-bitcoin)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[Bloomberg: Stone Ridge Holdings profit, Ross Stevens Bitcoin](https://www.bloomberg.com/news/articles/stone-ridge-holdings-bitcoin)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [FEC: MAGA Inc. January 2025 donations (January 17 Yass $1M)](https://www.fec.gov/data/committee/C00892471/) (Tier 1) (VERIFIED)
 - [Roivant Sciences FDA clinical trials status, Ramaswamy stake value](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company_id=0001850229&type=10-K) (Tier 1) (VERIFIED)
 - [Ramaswamy 2024 primary self-funding ($26M+)](https://www.opensecrets.org/2024-presidential-race) (Tier 1) (VERIFIED)
-- ~~[Amy Acton 2026 campaign finance, small-dollar concentration](https://followthemoney.org/entity-candidate/OH/36088-Amy-Acton)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
-- ~~[Ohio Democratic Party largest donor to Acton, $125K](https://followthemoney.org/entity-donor/Ohio-Democratic-Party)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
-- ~~[EMC Research poll February 2026 (Acton 53-43 Ramaswamy)](https://www.emcresearch.com/ohio-polls)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
-- ~~[T. Roosevelt Action poll August 2025 (Ramaswamy 49-39)](https://www.theodoreroosevelthouse.org/polls)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
-- ~~[Elon Musk clashes with far right over Trump, H-1B visas and immigration • Washington Post](https://www.washingtonpost.com/technology/2024/12/27/h-1b-visas-elon-musk-trump-immigration/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
-- ~~[DOGE 32-day timeline, Elon Musk departure, Ramaswamy exit](https://www.reuters.com/world/us/2025-musk-departs-doge)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
-- ~~[Roivant Social Ventures DEI initiatives contradiction](https://www.roivant.com/social-ventures)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[Amy Acton 2026 campaign finance, small-dollar concentration](https://followthemoney.org/entity-candidate/OH/36088-Amy-Acton)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- ~~[Ohio Democratic Party largest donor to Acton, $125K](https://followthemoney.org/entity-donor/Ohio-Democratic-Party)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- ~~[EMC Research poll February 2026 (Acton 53-43 Ramaswamy)](https://www.emcresearch.com/ohio-polls)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[T. Roosevelt Action poll August 2025 (Ramaswamy 49-39)](https://www.theodoreroosevelthouse.org/polls)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Elon Musk clashes with far right over Trump, H-1B visas and immigration • Washington Post](https://www.washingtonpost.com/technology/2024/12/27/h-1b-visas-elon-musk-trump-immigration/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[DOGE 32-day timeline, Elon Musk departure, Ramaswamy exit](https://www.reuters.com/world/us/2025-musk-departs-doge)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Roivant Social Ventures DEI initiatives contradiction](https://www.roivant.com/social-ventures)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 

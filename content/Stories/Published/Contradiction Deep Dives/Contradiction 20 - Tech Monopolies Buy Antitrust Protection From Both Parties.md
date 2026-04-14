@@ -1,5 +1,5 @@
 ---
-title: "Contradiction 20 — Tech Monopolies Buy Antitrust Protection From Both Parties"
+title: "Contradiction 20 , Tech Monopolies Buy Antitrust Protection From Both Parties"
 type: story
 content-readiness: ready
 last-updated: 2026-04-10
@@ -7,7 +7,7 @@ source-tier: 2
 parent: null
 issues:
   - "Antitrust & Monopoly"
-related: "[[Prison Telecom Monopoly Profits From Bipartisan Neglect]] · [[_Chuck Schumer Master Profile|Schumer]] · [[_Nancy Pelosi Master Profile|Pelosi]] · [[_Mitch McConnell Master Profile|McConnell]] · [[_Ted Cruz Master Profile|Cruz]] · [[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]] · [[Payday Lending Survives Through Bipartisan Protection]] · [[Water Privatization: Both Parties Sell Public Infrastructure to Donors]] · [[Contradiction 19 — Student Loan Industry Buys Bipartisan Protection for the Creditor Class]]"
+related: "[[Prison Telecom Monopoly Profits From Bipartisan Neglect]] · [[_Chuck Schumer Master Profile|Schumer]] · [[_Nancy Pelosi Master Profile|Pelosi]] · [[_Mitch McConnell Master Profile|McConnell]] · [[_Ted Cruz Master Profile|Cruz]] · [[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]] · [[Payday Lending Survives Through Bipartisan Protection]] · [[Water Privatization: Both Parties Sell Public Infrastructure to Donors]] · [[Contradiction 19 , Student Loan Industry Buys Bipartisan Protection for the Creditor Class]]"
 ---
 #contradiction #big-tech #antitrust #lobbying #AICOA #revolving-door #class-analysis
 
@@ -38,7 +38,7 @@ Big Tech PACs split donations near 50/50, the signature hedge of an industry tha
 | Microsoft | $800K | 45.2% | 53.4% | $10.4M |
 | Apple | No PAC |, |, | $10.4M |
 
-~~[OpenSecrets PAC data](https://www.opensecrets.org/political-action-committees-pacs/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1), [Axios](https://www.axios.com/pro/tech-policy/2024/01/23/2023-tech-lobbying-in-review) (Tier 2) (VERIFIED)
+~~[OpenSecrets PAC data](https://www.opensecrets.org/political-action-committees-pacs/)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1), [Axios](https://www.axios.com/pro/tech-policy/2024/01/23/2023-tech-lobbying-in-review) (Tier 2) (VERIFIED)
 
 The total industry numbers are staggering. Big Tech (Amazon, Apple, Facebook, Google) spent $124 million in lobbying and campaign contributions during the 2020 election cycle alone. [Public Citizen](https://www.citizen.org/article/big-tech-lobbying-update/) (Tier 2) (VERIFIED)
 
@@ -58,7 +58,7 @@ The American Innovation and Choice Online Act (AICOA, S. 2992), sponsored by Sen
 
 **May–Summer 2022:** [[_Chuck Schumer Master Profile|Schumer]] promises floor vote "by early summer." Then meets in Seattle with Microsoft President Brad Smith, speaks with Amazon CEO Andy Jassy and Google CEO Sundar Pichai, during the very window he was supposedly finding votes. Tech company lobbyists bundle $1.7 million for the DSCC. Schumer's dark-money vehicle Majority Forward spends $74 million in the cycle, with tech lobbyists among key bundlers. [The American Prospect](https://prospect.org/2023/01/26/2023-01-26-chuck-schumer-tech-antitrust-bills/) (Tier 2) (VERIFIED)
 
-**The conflict of interest:** Both of Schumer's daughters work for companies AICOA would regulate: Jessica Schumer is a registered lobbyist for Amazon; Alison Schumer is a product marketing manager at Meta. In July 2022, 16 progressive groups called on Schumer to recuse himself. [NY Post](https://nypost.com/2022/01/18/schumers-daughters-work-for-amazon-facebook-as-he-holds-power-over-antitrust-bill/) (Tier 3) (VERIFIED), ~~[Bloomberg](https://www.bloomberg.com/news/articles/2022-07-22/groups-push-schumer-to-recuse-himself-from-big-tech-legislation)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+**The conflict of interest:** Both of Schumer's daughters work for companies AICOA would regulate: Jessica Schumer is a registered lobbyist for Amazon; Alison Schumer is a product marketing manager at Meta. In July 2022, 16 progressive groups called on Schumer to recuse himself. [NY Post](https://nypost.com/2022/01/18/schumers-daughters-work-for-amazon-facebook-as-he-holds-power-over-antitrust-bill/) (Tier 3) (VERIFIED), ~~[Bloomberg](https://www.bloomberg.com/news/articles/2022-07-22/groups-push-schumer-to-recuse-himself-from-big-tech-legislation)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 
 **December 2022:** During omnibus negotiations, a Politico tweet states OAMA was "elevated to the leadership level and Leader McConnell rejected it", but an earlier version of the tweet was sourced to Schumer's own office, revealing his active role in blaming McConnell while killing the bill. An enforcement funding provision passed 88–8, demolishing Schumer's claim that the bills lacked 60 votes. [The American Prospect](https://prospect.org/2023/01/26/2023-01-26-chuck-schumer-tech-antitrust-bills/) (Tier 2)
 
@@ -75,7 +75,7 @@ The American Innovation and Choice Online Act (AICOA, S. 2992), sponsored by Sen
 
 **Jim Jordan (R-OH):** Declared "Big Tech is out to get conservatives, that is not a hunch, it is a fact" while accepting $760,000+ in career donations from the communications/electronics industry. In 2020, he received $13,500 from Big Tech PACs. Tech companies sponsored 17 trips (~$39,000) for Jordan and his staff. His fourth-largest career donor is Koch Industries, the Koch network has spent decades fighting antitrust enforcement. Jordan's staff includes a former George Mason/Scalia Law School alumni whose Global Antitrust Institute is funded by Google, Amazon, and Qualcomm, and a former lawyer who represented Google against antitrust accusations. As House Judiciary Chairman, Jordan held zero meaningful antitrust markups. His own 2021 tech proposal would have stripped the FTC of antitrust enforcement authority. [New Republic](https://newrepublic.com/article/176148/jim-jordan-attack-big-tech-accept-donations) (Tier 2) (VERIFIED), [Public Citizen](https://www.citizen.org/article/big-tech-lobbying-update/) (Tier 2)
 
-**[[_Ted Cruz Master Profile|Ted Cruz]] (R-TX):** Voted FOR AICOA in committee (January 2022), then weaponized content moderation to blow up the Journalism Competition and Preservation Act, adding an amendment that passed 11–10 along party lines, causing Klobuchar to withdraw the bill. Cruz's approach consistently prioritizes Section 230/content moderation battles (which generate campaign attention) over structural antitrust enforcement (which would actually reduce tech power). ~~[Politico](https://www.politico.com/news/2022/09/08/content-moderation-blows-up-journalism-antitrust-bill-00055556)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+**[[_Ted Cruz Master Profile|Ted Cruz]] (R-TX):** Voted FOR AICOA in committee (January 2022), then weaponized content moderation to blow up the Journalism Competition and Preservation Act, adding an amendment that passed 11–10 along party lines, causing Klobuchar to withdraw the bill. Cruz's approach consistently prioritizes Section 230/content moderation battles (which generate campaign attention) over structural antitrust enforcement (which would actually reduce tech power). ~~[Politico](https://www.politico.com/news/2022/09/08/content-moderation-blows-up-journalism-antitrust-bill-00055556)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 
 The broader Republican pattern: preferred "anti-tech" legislation. Section 230 reform, censorship hearings, content moderation restrictions, all avoids structural remedies. Republican "antitrust" bills that advance tend to target TikTok rather than Silicon Valley monopolists. Rep. Ken Buck (R-CO) was the exception, pledged to refuse Big Tech PAC money, pushed real enforcement, and was marginalized within the caucus before retiring in 2024.
 
@@ -150,9 +150,9 @@ The PAC splits tell the story: Google PAC 48.5% Democratic/50.5% Republican. Ama
 - [Sludge: Apple Record Lobbying](https://readsludge.com/2023/01/23/apple-spent-record-amount-on-lobbying-as-it-fought-antitrust-legislation/) (Tier 2) (VERIFIED)
 - [New Republic: Jim Jordan Big Tech Donations](https://newrepublic.com/article/176148/jim-jordan-attack-big-tech-accept-donations) (Tier 2) (VERIFIED)
 - [Politico: Senate Democrats Back Off Big Tech Bill](https://www.politico.com/news/2022/05/26/vulnerable-senate-democrats-back-off-big-tech-bill-00035307) (Tier 2) (VERIFIED)
-- ~~[The Hill: How Big Tech Fought Antitrust and Won](https://thehill.com/policy/technology/3785894-how-big-tech-fought-antitrust-reform-and-won/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[The Hill: How Big Tech Fought Antitrust and Won](https://thehill.com/policy/technology/3785894-how-big-tech-fought-antitrust-reform-and-won/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Tech Transparency Project: Google Revolving Door](https://www.techtransparencyproject.org/articles/googles-revolving-door-us) (Tier 2) (VERIFIED)
-- ~~[Axios: 2023 Tech Lobbying Review](https://www.axios.com/pro/tech-policy/2024/01/23/2023-tech-lobbying-in-review)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[Axios: 2023 Tech Lobbying Review](https://www.axios.com/pro/tech-policy/2024/01/23/2023-tech-lobbying-in-review)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [NY Post: Schumer Daughters at Amazon/Meta](https://nypost.com/2022/01/18/schumers-daughters-work-for-amazon-facebook-as-he-holds-power-over-antitrust-bill/) (Tier 3) (VERIFIED)
 - ~~[FollowTheMoney: AGs vs Big Tech](https://www.followthemoney.org/research/blog/attorneys-general-take-on-big-tech)~~ (was FollowTheMoney, site merged into OpenSecrets, all URLs dead) (Tier 2)
 

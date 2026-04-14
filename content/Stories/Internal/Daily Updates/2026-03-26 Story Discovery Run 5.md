@@ -36,7 +36,7 @@ known-gaps:
 **Additionally:** Two Republican members of Congress who received nearly $5 million in financial sector donations are pushing federal legislation to override state interest rate protections, allowing lenders to charge potentially exorbitant rates, a direct donor-to-legislation pipeline.
 
 ### Sources:
-- ~~[Axios: Wall Street cops propose new slate of easier big bank rules](https://www.axios.com/2026/03/19/fed-bank-wall-street-regulation)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[Axios: Wall Street cops propose new slate of easier big bank rules](https://www.axios.com/2026/03/19/fed-bank-wall-street-regulation)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [CNBC: Wall Street banks set for 5% capital decline under new rules](https://www.cnbc.com/2026/03/19/wall-street-banks-set-for-5percent-capital-decline-under-new-rules.html) (Tier 2) (VERIFIED)
 - [Jacobin: Wall Street–Backed Lawmakers Want to Help Banks Gouge You](https://jacobin.com/2026/02/interest-rate-caps-republicans-donations) (Tier 2) (VERIFIED)
 
@@ -74,7 +74,7 @@ known-gaps:
 ### Sources:
 - [CNBC: Crypto PAC Fairshake touts $193 million war chest as regulatory bill faces first vote](https://www.cnbc.com/2026/01/28/crypto-pac-fairshake-bill-vote.html) (Tier 2) (VERIFIED)
 - [CoinDesk: Crypto election PAC Fairshake marks first wins in 2026 U.S. congressional primaries](https://www.coindesk.com/policy2026/03/04/crypto-election-pac-fairshake-marks-first-wins-in-2026-u-s-congressional-primaries) (Tier 2) (VERIFIED)
-- ~~[Axios: Al Green and Christian Menefee headed to a runoff](https://www.axios.com/local/houston/2026/03/04/al-green-christian-menefee-primary-election-results-2026)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[Axios: Al Green and Christian Menefee headed to a runoff](https://www.axios.com/local/houston/2026/03/04/al-green-christian-menefee-primary-election-results-2026)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 
 ---
 
@@ -89,7 +89,7 @@ known-gaps:
 **Vault relevance:** Directly relevant to Mega-Donors sector, any Musk donor node, and Republican politician profiles receiving his money. The 50 billionaire families collectively pumping $430M+ into midterms provides the macro context.
 
 ### Sources:
-- ~~[Axios: Musk shocks with $10 million donation in Ky. Senate race](https://www.axios.com/2026/01/19/elon-musk-10-million-campaign-donation-kentucky)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[Axios: Musk shocks with $10 million donation in Ky. Senate race](https://www.axios.com/2026/01/19/elon-musk-10-million-campaign-donation-kentucky)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Common Dreams: 50 Billionaire Families Have Already Pumped Over $430 Million Into Midterms](https://www.commondreams.org/news/billionaire-spending-2026-midterms) (Tier 2) (VERIFIED)
 - [OpenSecrets: Political ad spending projected to reach new high in 2026 midterms](https://www.opensecrets.org/news/2026/01/political-ad-spending-is-projected-to-reach-a-new-high-in-2026-midterms/) (Tier 1) (VERIFIED)
 

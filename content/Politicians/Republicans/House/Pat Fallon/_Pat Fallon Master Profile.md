@@ -1,5 +1,5 @@
 ---
-title: "Pat Fallon Master Profile"
+title: "Pat Fallon"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

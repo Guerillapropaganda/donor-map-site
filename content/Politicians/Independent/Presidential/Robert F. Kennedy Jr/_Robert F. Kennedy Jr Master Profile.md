@@ -1,5 +1,5 @@
 ---
-title: "Robert F. Kennedy Jr Master Profile"
+title: "Robert F. Kennedy Jr"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

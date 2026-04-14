@@ -63,11 +63,11 @@ The needs-reenrichment flag has been set. The next scheduled pipeline run will p
 
 ### Who They Are
 
-AbbVie Inc. A major pharmaceutical company with $55 billion in annual revenue (2024), spun off from Abbott Laboratories in 2013. AbbVie is best known for Humira — the world's best-selling drug of all time, generating over $200 billion in cumulative revenue since launch. AbbVie's Humira patent strategy is the most aggressive in pharmaceutical history: the company secured 132 patents on a single drug, creating a "patent thicket" that delayed biosimilar competition by years and extracted tens of billions in excess revenue.
+AbbVie Inc. A major pharmaceutical company with $55 billion in annual revenue (2024), spun off from Abbott Laboratories in 2013. AbbVie is best known for Humira, the world's best-selling drug of all time, generating over $200 billion in cumulative revenue since launch. AbbVie's Humira patent strategy is the most aggressive in pharmaceutical history: the company secured 132 patents on a single drug, creating a "patent thicket" that delayed biosimilar competition by years and extracted tens of billions in excess revenue.
 
 AbbVie PAC contributes $1.5-2 million per cycle and the company spends $8-12 million annually on lobbying, with heavy focus on patent law, drug pricing, and FDA regulation.
 
-- ~~[OpenSecrets: AbbVie organizational profile](https://www.opensecrets.org/orgs/abbvie-inc/summary?id=D000067068)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~[OpenSecrets: AbbVie organizational profile](https://www.opensecrets.org/orgs/abbvie-inc/summary?id=D000067068)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 
 ---
 
@@ -79,7 +79,7 @@ Patent exclusivity protection: AbbVie's business model depends on maximizing the
 
 ### The Humira Patent Thicket
 
-AbbVie filed 132 patents on Humira — covering the drug itself, the delivery device, the manufacturing process, and treatment methods. This "patent thicket" strategy delayed biosimilar competition until 2023, despite the core patent expiring in 2016. The seven-year delay generated approximately $70 billion in additional revenue that would have flowed to patients and insurers under biosimilar competition.
+AbbVie filed 132 patents on Humira, covering the drug itself, the delivery device, the manufacturing process, and treatment methods. This "patent thicket" strategy delayed biosimilar competition until 2023, despite the core patent expiring in 2016. The seven-year delay generated approximately $70 billion in additional revenue that would have flowed to patients and insurers under biosimilar competition.
 
 > [!money]
 > AbbVie's 132-patent Humira strategy extracted an estimated $70 billion in excess revenue by delaying biosimilar competition for seven years. AbbVie's lobbying spend over that period was approximately $60 million. The return on lobbying investment: approximately 116,000%. This is the pharmaceutical industry's most successful patent monetization strategy in history.
@@ -99,7 +99,7 @@ AbbVie's PAC distributes $1.5-2 million per cycle across both parties, with $30,
 ### Sources
 
 - [OpenSecrets: AbbVie organizational profile](https://www.opensecrets.org/orgs/abbvie-inc/summary?id=D000067068) (Tier 1)
-- [I-MAK: Overpatented, Overpriced — Humira patent analysis](https://www.i-mak.org/humira/) (Tier 2) (VERIFIED)
+- [I-MAK: Overpatented, Overpriced. Humira patent analysis](https://www.i-mak.org/humira/) (Tier 2) (VERIFIED)
 - [STAT News: AbbVie's Humira patent thicket strategy](https://www.statnews.com/pharmalot/2022/03/08/abbvie-humira-patent-biosimilar/) (Tier 2) (VERIFIED)
 - [Ballotpedia: AbbVie political spending](https://ballotpedia.org/AbbVie) (Tier 3) (VERIFIED)
 

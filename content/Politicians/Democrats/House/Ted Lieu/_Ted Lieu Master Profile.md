@@ -1,5 +1,5 @@
 ---
-title: "Ted Lieu Master Profile"
+title: "Ted Lieu"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

@@ -1,5 +1,5 @@
 ---
-title: "Gabe Evans Master Profile"
+title: "Gabe Evans"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

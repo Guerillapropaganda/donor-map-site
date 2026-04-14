@@ -65,7 +65,7 @@ These are not identical. Yet both endorsed Platner. This signals that:
 - DSCC can direct corporate PAC money and establishment donor networks to Mills
 - DSCC can facilitate bundling (collecting $2,000 donations and presenting them as unified)
 - DSCC can coordinate super-PAC independent expenditure spending on Mills' behalf
-- DSCC networks include corporate lobbyists, law firm partners, financial sector donors — establishment wealth concentrated in DC networks
+- DSCC networks include corporate lobbyists, law firm partners, financial sector donors, establishment wealth concentrated in DC networks
 
 ### Operational coordination:
 - DSCC can provide strategic consulting, polling, media production
@@ -105,7 +105,7 @@ This is genuinely rare. Consider historical precedents:
 
 **Argument 2: General election strength.** Schumer calculates that Mills is more likely to beat [[_Susan Collins Master Profile|Susan Collins]] than Platner. A known quantity (governor) is safer than an outsider (oyster farmer) in a general election. This is the DSCC's core logic: elect Democrats, regardless of ideology.
 
-**Argument 3: Access to power.** Mills has relationships with corporate donors, law firms, financial sector networks — the machinery of establishment politics. She can raise money more easily. Schumer prefers candidates who can self-fund (or access capital networks) rather than relying on small-dollar fundraising.
+**Argument 3: Access to power.** Mills has relationships with corporate donors, law firms, financial sector networks, the machinery of establishment politics. She can raise money more easily. Schumer prefers candidates who can self-fund (or access capital networks) rather than relying on small-dollar fundraising.
 
 **The counter-argument (progressive perspective):** Mills is *too* aligned with corporate interests. A governor is an establishment insider; an oyster farmer represents a genuine alternative. Platner's outsider status is a *strength*, not a weakness, because it means he won't be beholden to the same donors that Mills serves.
 
@@ -201,7 +201,7 @@ If progressives win Maine (and Michigan), they will have demonstrated that they 
 ### Sources
 
 - [Elizabeth Warren Backs Graham Platner in Maine Senate Race, Bucking Democratic Leadership](https://www.notus.org/2026-election/elizabeth-warren-graham-platner-maine-senate-endorse) (Tier 2) (VERIFIED)
-- ~~[Elizabeth Warren endorses Graham Platner over Janet Mills in Maine Senate primary](https://thehill.com/homenews/campaign/5791291-warren-endorses-platner-maine-senate-primary/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[Elizabeth Warren endorses Graham Platner over Janet Mills in Maine Senate primary](https://thehill.com/homenews/campaign/5791291-warren-endorses-platner-maine-senate-primary/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Praising Platner's 'Fighting Spirit,' Warren Is Latest Senator to Endorse Maine Senate Candidate](https://www.commondreams.org/news/warren-platner) (Tier 2) (VERIFIED)
 - [Iraq and Afghanistan veteran launches Democratic campaign against Sen. Susan Collins in Maine](https://www.nbcnews.com/politics/2026-election/iraq-afghanistan-veteran-launches-democratic-campaign-sen-susan-collin-rcna225703) (Tier 2) (VERIFIED)
 

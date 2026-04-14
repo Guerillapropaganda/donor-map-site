@@ -1,5 +1,5 @@
 ---
-title: "Nina Turner Master Profile"
+title: "Nina Turner"
 type: politician
 content-readiness: ready
 last-updated: 2026-04-13
@@ -43,7 +43,7 @@ Turner is the vault's earliest case study of the DMFI primary enforcement model 
 
 ## The Central Thesis
 
-*Stub — needs full development.*
+*Stub, needs full development.*
 
 Turner's two consecutive primary losses to DMFI-backed Shontel Brown in OH-11 established the playbook that AIPAC and DMFI later scaled against [[_Jamaal Bowman Master Profile|Jamaal Bowman]] and [[_Cori Bush Master Profile|Cori Bush]] in 2024. The $2M+ spent against Turner in a single House primary was unprecedented at the time and demonstrated the donor class's willingness to defeat progressive incumbents through outside spending alone.
 

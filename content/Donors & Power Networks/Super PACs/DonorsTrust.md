@@ -23,7 +23,7 @@ known-gaps:
 
 ### Who They Are
 
-DonorsTrust is a 501(c)(3) donor-advised fund (DAF) sponsor and public charity established in 1999 by [[Whitney Lynn Ball]] and Kimberly Dennis (both formerly of the [[Philanthropy Roundtable|Philanthropy Roundtable]]). Its stated mission is "safeguarding the intent of libertarian and conservative donors" and protecting against "philanthropic drift" — the fear that family foundations would eventually be captured by centrist or progressive heirs.
+DonorsTrust is a 501(c)(3) donor-advised fund (DAF) sponsor and public charity established in 1999 by [[Whitney Lynn Ball]] and Kimberly Dennis (both formerly of the [[Philanthropy Roundtable|Philanthropy Roundtable]]). Its stated mission is "safeguarding the intent of libertarian and conservative donors" and protecting against "philanthropic drift", the fear that family foundations would eventually be captured by centrist or progressive heirs.
 
 ### Core structure:
 - **EIN:** 52-2166327
@@ -45,17 +45,17 @@ DonorsTrust is a 501(c)(3) donor-advised fund (DAF) sponsor and public charity e
 
 ### Five-step mechanism:
 
-1. **IRC Section 4966/4967 Donor-Advised Funds:** Under the Pension Protection Act of 2006, DAF sponsors must disclose aggregate assets and distributions on Form 990, but are NOT required to disclose donor identities. The gift is legally irrevocable — once a donor contributes, the money belongs to DonorsTrust, not the donor. Donor "advises" but does not legally direct.
+1. **IRC Section 4966/4967 Donor-Advised Funds:** Under the Pension Protection Act of 2006, DAF sponsors must disclose aggregate assets and distributions on Form 990, but are NOT required to disclose donor identities. The gift is legally irrevocable, once a donor contributes, the money belongs to DonorsTrust, not the donor. Donor "advises" but does not legally direct.
 
 2. **Schedule B Confidentiality:** Form 990 Schedule B (Schedule of Contributors) requires listing donors giving $5,000+. However, for 501(c)(3) public charities like DonorsTrust, Schedule B is **filed with IRS but withheld from public disclosure** under IRC Section 6104(b). Only the IRS sees donor identities. Public 990 filings show zero donor information.
 
 3. **The "Scrubbing" Effect:** When DonorsTrust grants to, say, [[Heritage Foundation]], Heritage's own 990 Schedule B lists "DonorsTrust" as the contributor. Heritage has no knowledge of and no obligation to disclose who originally funded that account. The original donor's identity is legally expunged.
 
 4. **Tax Advantages Over Private Foundations:**
-   - Higher deductibility ceiling: gifts of appreciated securities to a public charity DAF deductible up to 30% of AGI (vs. 20% for private foundations); cash up to 60% (vs. 30%)
-   - Capital gains avoidance: donating appreciated stock avoids capital gains tax entirely; deduction is full fair-market value
-   - No minimum payout requirement: private foundations must distribute 5% of assets annually; DAF sponsors do not face the same legally mandated floor
-   - Lower administrative overhead: no need to create a separate legal entity
+ - Higher deductibility ceiling: gifts of appreciated securities to a public charity DAF deductible up to 30% of AGI (vs. 20% for private foundations); cash up to 60% (vs. 30%)
+ - Capital gains avoidance: donating appreciated stock avoids capital gains tax entirely; deduction is full fair-market value
+ - No minimum payout requirement: private foundations must distribute 5% of assets annually; DAF sponsors do not face the same legally mandated floor
+ - Lower administrative overhead: no need to create a separate legal entity
 
 5. **Closely Held Stock Transactions:** DonorsTrust received a gift of "hundreds of millions in closely held common stock in a C-corporation" on December 30, 2021. This technique allows a donor to claim a full fair-market-value deduction on an asset that could never otherwise be easily liquidated, while keeping identity hidden.
 
@@ -106,7 +106,7 @@ Source: ProPublica Nonprofit Explorer (Tier 1, API-accessible)
 
 ### Key observations:
 - The 2021 spike in revenue ($1.094 billion) reflects three disclosed donations: $427 million (cash), ~$77 million, and ~$426 million in "closely held common stock in a C-corporation" received December 30, 2021. All three donors remain anonymous.
-- "Expenses" in a DAF context represents primarily grants disbursed, plus administrative overhead (salaries, etc.) — executive compensation was only $1.76 million of $291 million in 2024 expenses.
+- "Expenses" in a DAF context represents primarily grants disbursed, plus administrative overhead (salaries, etc.), executive compensation was only $1.76 million of $291 million in 2024 expenses.
 - The 2023 negative net revenue of -$199.7 million reflects large grants paid out from the accumulated asset base built in 2021.
 
 ### Grants paid (CMD analysis):
@@ -159,7 +159,7 @@ Source: ProPublica Nonprofit Explorer (Tier 1, API-accessible)
 ### Key observations:
 - DCF's total assets peaked around 2013–2014 at ~$36 million and have declined dramatically, reaching ~$11 million by 2022–2024.
 - DCF received no contributions in 2021 and essentially ceased active grantmaking after 2020.
-- Between 2005 and 2012, DCF declared $349 million of income from donations, yet conservative transparency tracking suggests only ~$2.75 million came from other non-profit groups required to declare their funding — meaning over $346 million was untraceable to specific donors.
+- Between 2005 and 2012, DCF declared $349 million of income from donations, yet conservative transparency tracking suggests only ~$2.75 million came from other non-profit groups required to declare their funding, meaning over $346 million was untraceable to specific donors.
 
 ---
 
@@ -175,7 +175,7 @@ SPN is consistently the largest single beneficiary category.
 |------|-------------|-----|-----------------|
 | 2024 | $24.5M (national + 41 affiliates) | n/a | **$24.5M+** |
 | 2022 | ~$19.3M total | n/a | **$19.3M** |
-| 2021 | ~$19.7M (national + affiliates) | — | **$19.7M** |
+| 2021 | ~$19.7M (national + affiliates) |, | **$19.7M** |
 | 2019 | $7,246,121 | $50,000 | **$7,296,121** |
 | 2018 | $7,539,300 | $50,000 | **$7,589,300** |
 | 2017 | $5,750,800 | $0 | **$5,790,800** |
@@ -191,8 +191,8 @@ SPN is consistently the largest single beneficiary category.
 
 | Year | DonorsTrust | DCF | Combined Total |
 |------|-------------|-----|-----------------|
-| 2022 | $4.3M | — | **$4.3M** |
-| 2021 | $3.7M | — | **$3.7M** |
+| 2022 | $4.3M |, | **$4.3M** |
+| 2021 | $3.7M |, | **$3.7M** |
 | 2019 | $7,007,750 | $0 | **$7,007,750** |
 | 2018 | $5,989,500 | $0 | **$5,989,500** |
 | 2017 | $5,506,000 | $0 | **$5,506,000** |
@@ -210,10 +210,10 @@ SPN is consistently the largest single beneficiary category.
 
 | Year | DonorsTrust | DCF | Combined Total |
 |------|-------------|-----|-----------------|
-| 2024 | — | — | — |
-| 2023 | — | — | — |
-| 2022 | — | — | ~$1M |
-| 2021 | $935,000 | — | **$935,000** |
+| 2024 |, |, |, |
+| 2023 |, |, |, |
+| 2022 |, |, | ~$1M |
+| 2021 | $935,000 |, | **$935,000** |
 | 2019 | $2,055,532 | $0 | **$2,055,532** |
 | 2018 | $2,911,100 | $0 | **$2,911,100** |
 | 2017 | $1,865,000 | $0 | **$1,865,000** |
@@ -242,15 +242,15 @@ SPN is consistently the largest single beneficiary category.
 | 2011 | $859,200 | $50,000 | **$909,200** |
 | 2010 | $7,648,911 | $10,000 | **$7,658,911** |
 
-**Total 2010–2019: approximately $31.5 million.** [[Americans for Prosperity|AFP]] is chaired by David Koch. In 2010 alone, AFP received $7.6 million from DonorsTrust — making DonorsTrust one of AFP's largest single funders that year.
+**Total 2010–2019: approximately $31.5 million.** [[Americans for Prosperity|AFP]] is chaired by David Koch. In 2010 alone, AFP received $7.6 million from DonorsTrust, making DonorsTrust one of AFP's largest single funders that year.
 
 #### 7.5 Competitive Enterprise Institute
 
 | Year | DonorsTrust | DCF | Combined Total |
 |------|-------------|-----|-----------------|
-| 2024 | $2,800,000 | — | **$2,800,000** |
-| 2022 | $1,300,000 | — | **$1.3M** |
-| 2021 | $816,000 | — | **$816,000** |
+| 2024 | $2,800,000 |, | **$2,800,000** |
+| 2022 | $1,300,000 |, | **$1.3M** |
+| 2021 | $816,000 |, | **$816,000** |
 | 2019 | $891,750 | $0 | **$891,750** |
 | 2018 | $634,200 | $0 | **$634,200** |
 | 2017 | $547,000 | $0 | **$547,000** |
@@ -266,7 +266,7 @@ SPN is consistently the largest single beneficiary category.
 
 | Year | DonorsTrust | DCF | Combined Total |
 |------|-------------|-----|-----------------|
-| 2022 | — | $225,000 | **$225,000** |
+| 2022 |, | $225,000 | **$225,000** |
 | 2019 | $648,713 | $350,000 | **$998,713** |
 | 2018 | $283,050 | $384,000 | **$667,050** |
 | 2017 | $243,600 | $90,000 | **$333,600** |
@@ -282,7 +282,7 @@ SPN is consistently the largest single beneficiary category.
 
 | Year | DonorsTrust | DCF | Combined Total |
 |------|-------------|-----|-----------------|
-| 2022 | $4.2M (Antonin Scalia Law School) | — | ~$4.2M |
+| 2022 | $4.2M (Antonin Scalia Law School) |, | ~$4.2M |
 | 2019 | $891,000 | $200,000 | **$1,091,000** |
 | 2018 | $890,590 | $200,000 | **$1,090,590** |
 | 2017 | $145,000 | $0 | **$145,000** |
@@ -294,13 +294,13 @@ SPN is consistently the largest single beneficiary category.
 | 2011 | $296,700 | $150,000 | **$446,700** |
 | 2010 | $913,200 | $243,500 | **$1,156,700** |
 
-*The 2019 DonorsTrust grant list also shows $5,625,000 to the GMU Foundation in 2019 — the parent vehicle of the Mercatus Center and Antonin Scalia Law School. Barre Seid was identified as routing donations to GMU through DonorsTrust/DCF.*
+*The 2019 DonorsTrust grant list also shows $5,625,000 to the GMU Foundation in 2019, the parent vehicle of the Mercatus Center and Antonin Scalia Law School. Barre Seid was identified as routing donations to GMU through DonorsTrust/DCF.*
 
 #### 7.8 Heritage Foundation
 
 | Year | DonorsTrust | DCF | Combined Total |
 |------|-------------|-----|-----------------|
-| 2021 | $361,000 | — | **$361,000** |
+| 2021 | $361,000 |, | **$361,000** |
 | 2019 | $366,718 | $50,000 | **$416,718** |
 | 2018 | $362,450 | $50,000 | **$412,450** |
 | 2017 | $37,100 | $0 | **$77,100** |
@@ -314,8 +314,8 @@ SPN is consistently the largest single beneficiary category.
 
 | Year | DonorsTrust | DCF | Combined Total |
 |------|-------------|-----|-----------------|
-| 2022 | $185,100 | — | **$185,100** |
-| 2021 | $191,000 | — | **$191,000** |
+| 2022 | $185,100 |, | **$185,100** |
+| 2021 | $191,000 |, | **$191,000** |
 | 2019 | $593,021 | $0 | **$593,021** |
 | 2018 | $610,000 | $0 | **$610,000** |
 | 2017 | $422,000 | $0 | **$422,000** |
@@ -327,7 +327,7 @@ SPN is consistently the largest single beneficiary category.
 | 2011 | $0 | $20,000 | **$20,000** |
 | 2010 | $0 | $25,000 | **$25,000** |
 
-**Cumulative 2010–2022: over $3.4 million.** Notably, ALEC itself developed the anonymity-protection template ("Resolution in Support of Nonprofit Donor Privacy") that states (Oklahoma, Utah, others) used to block state-level donor disclosure requirements — while simultaneously receiving DonorsTrust grants.
+**Cumulative 2010–2022: over $3.4 million.** Notably, ALEC itself developed the anonymity-protection template ("Resolution in Support of Nonprofit Donor Privacy") that states (Oklahoma, Utah, others) used to block state-level donor disclosure requirements, while simultaneously receiving DonorsTrust grants.
 
 #### 7.10 Manhattan Institute
 
@@ -348,7 +348,7 @@ SPN is consistently the largest single beneficiary category.
 
 | Year | DonorsTrust | DCF | Combined Total |
 |------|-------------|-----|-----------------|
-| 2021 | $1.3M | — | **$1.3M** |
+| 2021 | $1.3M |, | **$1.3M** |
 | 2019 | $541,400 | $60,000 | **$601,400** |
 | 2018 | $534,200 | $160,000 | **$694,200** |
 | 2017 | $111,600 | $140,000 | **$251,600** |
@@ -458,15 +458,15 @@ The $4.85 million KPF grant to DonorsTrust in 2013 was described by DeSmog as li
 
 ---
 
-### Money Flow — Source to Impact
+### Money Flow. Source to Impact
 
 | Date | Source → Recipient | Amount | Electoral/Policy Impact | Time Gap |
 |------|-------------------|--------|------------------------|----------|
-| 2000 | Conservative mega-donors → DonorsTrust | — | Dark money infrastructure established; anonymity mechanism operationalized | Immediate |
+| 2000 | Conservative mega-donors → DonorsTrust |, | Dark money infrastructure established; anonymity mechanism operationalized | Immediate |
 | 2003 | DonorsTrust → [[Heritage Foundation]], [[Federalist Society]], [[Cato Institute]], others | $37.9M (combined 2002–2003) | Judicial vetting apparatus funded; policy shops launched; ideological network institutionalized | Immediate |
-| 2008 | Citizens United Supreme Court | — | Dark money becomes legally unlimited and fully opaque; DonorsTrust becomes de facto pass-through infrastructure | Triggered 2008-2010 expansion |
+| 2008 | Citizens United Supreme Court |, | Dark money becomes legally unlimited and fully opaque; DonorsTrust becomes de facto pass-through infrastructure | Triggered 2008-2010 expansion |
 | 2010 | DonorsTrust → [[State Policy Network|SPN]] affiliates | $2.3M | Model legislation engine launched: voter ID laws, right-to-work templates, anti-environmental policy | 6-18 months |
-| 2011 | [[State Policy Network|SPN]] + DonorsTrust → Kansas | — | Kansas voter ID law passed (drafted by [[State Policy Network|SPN]] lawyer); first major state voting restriction post-*Citizens United* | 12 months |
+| 2011 | [[State Policy Network|SPN]] + DonorsTrust → Kansas |, | Kansas voter ID law passed (drafted by [[State Policy Network|SPN]] lawyer); first major state voting restriction post-*Citizens United* | 12 months |
 | 2012 | [[Donors Capital Fund|DCF]] → [[Heartland Institute]] | $101K + $1.1M+ undisclosed | Anonymous donor funding enables climate denial operation to scale; media presence expanded | Ongoing |
 | 2013 | DonorsTrust → [[Federalist Society]], others | $7M+ | Federalist Society becomes primary vehicle for federal judicial screening; $40M cumulative funding secures 300+ federal judges | 3-5 years |
 | 2016 | DonorsTrust → [[Americans for Prosperity|AFP]] Foundation, others | $138M combined distribution | Voter suppression infrastructure funded; Trump judicial vetting accelerated via Federalist Society | Ongoing |
@@ -494,7 +494,7 @@ The $4.85 million KPF grant to DonorsTrust in 2013 was described by DeSmog as li
 >
 > 5. **Avoid the 5% minimum payout requirement** — A private foundation must distribute 5% of assets annually. DonorsTrust sponsors avoid this constraint. The $1.36 billion DonorsTrust will thus maintain funding capacity in perpetuity without ever reducing its asset base, even as individual accounts are drawn down.
 
-DonorsTrust is not a unique outlier or loophole. It is the operating infrastructure of American oligarchy — the legal mechanism through which wealth becomes political control while escaping public view.
+DonorsTrust is not a unique outlier or loophole. It is the operating infrastructure of American oligarchy, the legal mechanism through which wealth becomes political control while escaping public view.
 
 ---
 
@@ -554,33 +554,33 @@ California (under then-AG Kamala Harris) required charitable organizations to su
 In May 2020, the Treasury Department and IRS finalized a rule relieving 501(c)(4) and 501(c)(6) organizations from having to report names and addresses of large contributors on annual 990 returns. 501(c)(3) public charities (including DonorsTrust) remained required to file Schedule B with the IRS, but the regulatory environment for connected entities was loosened.
 
 #### State "Donor Privacy" Laws (ALEC Template)
-Beginning around 2020, [[ALEC - American Legislative Exchange Council|ALEC]] published a "Resolution in Support of Nonprofit Donor Privacy" with model legislative language to block state-level disclosure requirements. Oklahoma, Utah, and other states passed laws prohibiting state agencies from requiring disclosure of nonprofit donors. Campaign Legal Center characterized these as "dark money protection laws." ALEC itself is a DonorsTrust recipient — the organization that developed the anonymity-protection template was simultaneously receiving DonorsTrust grants (total 2010–2022: $3.4M+).
+Beginning around 2020, [[ALEC - American Legislative Exchange Council|ALEC]] published a "Resolution in Support of Nonprofit Donor Privacy" with model legislative language to block state-level disclosure requirements. Oklahoma, Utah, and other states passed laws prohibiting state agencies from requiring disclosure of nonprofit donors. Campaign Legal Center characterized these as "dark money protection laws." ALEC itself is a DonorsTrust recipient, the organization that developed the anonymity-protection template was simultaneously receiving DonorsTrust grants (total 2010–2022: $3.4M+).
 
 #### Congressional Reform Efforts: The DISCLOSE Act
 Democrats in Congress, led by Senator Sheldon Whitehouse and Rep. Pappas, have introduced the DISCLOSE Act in every Congress since 2010 following *Citizens United*. The most recent iteration was reintroduced in March 2026. The bill would require super PACs, 501(c)(4) dark money groups, and organizations spending >$10,000 in elections to disclose donors contributing >$10,000, and shut down the use of transfers between organizations to cloak original contributors. The bill has never passed the Senate and is opposed by conservative groups, including DonorsTrust-funded organizations.
 
 #### IRS Proposed DAF Regulations (2023)
-In November 2023, the IRS proposed new regulations for donor-advised funds, but these focused narrowly on taxing investment advisory fees — deliberately sidestepping donor transparency requirements. The proposals did not address the anonymization function of DAFs like DonorsTrust.
+In November 2023, the IRS proposed new regulations for donor-advised funds, but these focused narrowly on taxing investment advisory fees, deliberately sidestepping donor transparency requirements. The proposals did not address the anonymization function of DAFs like DonorsTrust.
 
 ---
 
 ### Sources
 
 #### Tier 1 (Government Records/API Data):
-- [ProPublica Nonprofit Explorer — DonorsTrust Inc (EIN 52-2166327)](https://projects.propublica.org/nonprofits/organizations/522166327) (Tier 1) (VERIFIED)
-- [ProPublica Nonprofit Explorer — Donors Capital Fund Inc (EIN 54-1934032)](https://projects.propublica.org/nonprofits/organizations/541934032) (Tier 1) (VERIFIED)
-- ~~[SourceWatch — DonorsTrust and Donors Capital Fund Grant Recipients](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/DonorsTrust_and_Donors_Capital_Fund_Grant_Recipients)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3) (UNVERIFIED)
+- [ProPublica Nonprofit Explorer. DonorsTrust Inc (EIN 52-2166327)](https://projects.propublica.org/nonprofits/organizations/522166327) (Tier 1) (VERIFIED)
+- [ProPublica Nonprofit Explorer. Donors Capital Fund Inc (EIN 54-1934032)](https://projects.propublica.org/nonprofits/organizations/541934032) (Tier 1) (VERIFIED)
+- ~~[SourceWatch. DonorsTrust and Donors Capital Fund Grant Recipients](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/DonorsTrust_and_Donors_Capital_Fund_Grant_Recipients)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3) (UNVERIFIED)
 
 #### Tier 2 (Major Investigative Journalism):
-- [Mother Jones: "The Dark-Money ATM of the Conservative Movement"](https://www.motherjones.com/politics/2013/02/donors-trust-donor-capital-fund-dark-money-koch-bradley-devos/) (VERIFIED) — Andy Kroll, Feb. 5, 2013 (Tier 2)
-- [The Guardian: "Secret Funding Built Vast Network of Climate Denial Think Tanks"](https://www.theguardian.com/environment/2013/feb/14/funding-climate-change-denial-thinktanks-network) (VERIFIED) — Suzanne Goldenberg, Feb. 14, 2013 (Tier 2)
-- ~~[Greenpeace USA: "Donors Trust: Laundering Climate Denial Funding"](https://www.greenpeace.org/global/usa/donors-trust-laundering-climate-denial-funding/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
-- [Scientific American: Robert Brulle peer-reviewed study](https://www.scientificamerican.com/article/dark-money-funds-climate-change-denial-effort/) (VERIFIED) — Dec. 2013 (Tier 2)
-- ~~[Center for Media and Democracy: 2024 Analysis](https://www.exposedbycmd.org/2025/11/21/dark-money-donor-conduit-funneled-195-million-to-right-wing-groups-in-2024/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
-- ~~[Center for Media and Democracy: 2022 Analysis](https://www.exposedbycmd.org/2023/11/17/donorstrust-funneled-134-million-to-right-wing-groups-in-2022/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
-- ~~[Center for Media and Democracy: 2021 Analysis](https://www.exposedbycmd.org/2022/11/18/dark-money-atm-injected-right-wing-groups-with-123-million-in-2021/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
-- ~~[Politico: "Two Anonymous $425 Million Donations"](https://www.politico.com/news/2022/11/16/two-anonymous-425-million-donations-gives-dark-money-conservative-group-a-massive-haul-00067493)~~ (URL broken, archived by Ops) — Nov. 16, 2022 (Tier 2) (UNVERIFIED)
-- [ProPublica: "Dark Money" — Barre Seid investigation](https://www.propublica.org/article/dark-money-leonard-leo-barre-seid) (VERIFIED) — Aug. 2022 (Tier 2)
+- [Mother Jones: "The Dark-Money ATM of the Conservative Movement"](https://www.motherjones.com/politics/2013/02/donors-trust-donor-capital-fund-dark-money-koch-bradley-devos/) (VERIFIED). Andy Kroll, Feb. 5, 2013 (Tier 2)
+- [The Guardian: "Secret Funding Built Vast Network of Climate Denial Think Tanks"](https://www.theguardian.com/environment/2013/feb/14/funding-climate-change-denial-thinktanks-network) (VERIFIED). Suzanne Goldenberg, Feb. 14, 2013 (Tier 2)
+- ~~[Greenpeace USA: "Donors Trust: Laundering Climate Denial Funding"](https://www.greenpeace.org/global/usa/donors-trust-laundering-climate-denial-funding/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- [Scientific American: Robert Brulle peer-reviewed study](https://www.scientificamerican.com/article/dark-money-funds-climate-change-denial-effort/) (VERIFIED). Dec. 2013 (Tier 2)
+- ~~[Center for Media and Democracy: 2024 Analysis](https://www.exposedbycmd.org/2025/11/21/dark-money-donor-conduit-funneled-195-million-to-right-wing-groups-in-2024/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Center for Media and Democracy: 2022 Analysis](https://www.exposedbycmd.org/2023/11/17/donorstrust-funneled-134-million-to-right-wing-groups-in-2022/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Center for Media and Democracy: 2021 Analysis](https://www.exposedbycmd.org/2022/11/18/dark-money-atm-injected-right-wing-groups-with-123-million-in-2021/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Politico: "Two Anonymous $425 Million Donations"](https://www.politico.com/news/2022/11/16/two-anonymous-425-million-donations-gives-dark-money-conservative-group-a-massive-haul-00067493)~~ (URL broken, archived by Ops). Nov. 16, 2022 (Tier 2) (UNVERIFIED)
+- [ProPublica: "Dark Money". Barre Seid investigation](https://www.propublica.org/article/dark-money-leonard-leo-barre-seid) (VERIFIED). Aug. 2022 (Tier 2)
 
 #### Tier 3 (Secondary Reporting/Reference):
 - [DeSmog/DonorsTrust](https://www.desmog.com/who-donors-trust/) (Tier 2) (VERIFIED)
@@ -594,7 +594,7 @@ In November 2023, the IRS proposed new regulations for donor-advised funds, but 
 
 ---
 
-### Financial Overview (990 Filing — 2016)
+### Financial Overview (990 Filing, 2016)
 <!-- auto:propublica-990 start -->
 | Metric | Amount |
 |--------|--------|

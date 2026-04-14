@@ -1,5 +1,5 @@
 ---
-title: "Sonia Sotomayor Master Profile"
+title: "Sonia Sotomayor"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

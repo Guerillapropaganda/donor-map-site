@@ -17,13 +17,13 @@ donors: []
 
 ### The $1.6 Billion Fundraising Machine
 
-Pelosi is not a politician who takes donor money and delivers policy. She is the infrastructure — the mechanism through which the donor class controls the Democratic Party's candidate pipeline. No single politician in American history has raised more money for their party's congressional apparatus.
+Pelosi is not a politician who takes donor money and delivers policy. She is the infrastructure, the mechanism through which the donor class controls the Democratic Party's candidate pipeline. No single politician in American history has raised more money for their party's congressional apparatus.
 
 ---
 
 ### The Numbers
 
-> [!money] Follow the Money — The Gatekeeper
+> [!money] Follow the Money. The Gatekeeper
 > **Career fundraising total:** $1.6 billion+ raised since entering House leadership in 2002
 > **2018 cycle:** $83 million raised for DCCC through June; ~$91 million through July
 > **2017:** $47.6 million raised directly for DCCC
@@ -51,7 +51,7 @@ House Democrats pay "dues" to the DCCC based on their committee assignments. The
 
 After [[_Alexandria Ocasio-Cortez Master Profile|Alexandria Ocasio-Cortez]]'s 2018 upset victory over Joe Crowley (a senior Pelosi ally), the DCCC announced it would blacklist any consultant or vendor who worked for primary challengers to Democratic incumbents.
 
-**Affected services:** Polling, advertising, digital consulting, fundraising, field organizing — the entire professional ecosystem that campaigns depend on.
+**Affected services:** Polling, advertising, digital consulting, fundraising, field organizing, the entire professional ecosystem that campaigns depend on.
 
 > [!contradiction] Who the Blacklist Protects
 > The DCCC blacklist doesn't protect "Democrats." It protects incumbent Democrats — the ones who have already proven they can raise donor-class money. Any challenger, regardless of policy alignment, is treated as a threat. The blacklist means the consultant class must choose: work for the party apparatus (guaranteed repeat business) or work for primary challengers (career risk). The system ensures that even the professionals who build campaigns are structurally aligned against insurgency.
@@ -60,17 +60,17 @@ After [[_Alexandria Ocasio-Cortez Master Profile|Alexandria Ocasio-Cortez]]'s 20
 
 ---
 
-### Progressive Wing — The Containment Strategy
+### Progressive Wing. The Containment Strategy
 
 Pelosi's relationship with the progressive caucus follows the vault's containment pattern:
 
 ### AOC/Squad conflicts (2019–present):
-- Publicly dismissed the Squad as "four people" with no following — "They didn't have any following. They're four people and that's how many votes they got"
+- Publicly dismissed the Squad as "four people" with no following, "They didn't have any following. They're four people and that's how many votes they got"
 - Mocked progressive members in a "baby voice" according to reporting
 - Blocked AOC's bid for top Oversight Committee position in favor of Gerry Connolly
 - AOC responded: "the explicit singling out of newly elected women of color"
 
-**The containment function:** Pelosi doesn't suppress progressives — she manages them. She allows progressive rhetoric, progressive amendments that won't pass, progressive committee appearances that generate media clips. What she doesn't allow is progressive control of the legislative agenda, committee chairs, or spending priorities. The DCCC blacklist, the dues system, and the committee assignment process ensure that donor-class-aligned members advance and insurgents are structurally disadvantaged.
+**The containment function:** Pelosi doesn't suppress progressives, she manages them. She allows progressive rhetoric, progressive amendments that won't pass, progressive committee appearances that generate media clips. What she doesn't allow is progressive control of the legislative agenda, committee chairs, or spending priorities. The DCCC blacklist, the dues system, and the committee assignment process ensure that donor-class-aligned members advance and insurgents are structurally disadvantaged.
 
 ---
 

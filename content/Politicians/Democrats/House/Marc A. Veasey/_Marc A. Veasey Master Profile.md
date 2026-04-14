@@ -1,5 +1,5 @@
 ---
-title: "Marc A. Veasey Master Profile"
+title: "Marc A. Veasey"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

@@ -1,5 +1,5 @@
 ---
-title: "Maxine Dexter Master Profile"
+title: "Maxine Dexter"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

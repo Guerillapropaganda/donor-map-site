@@ -1,5 +1,5 @@
 ---
-title: "John W. Mannion Master Profile"
+title: "John W. Mannion"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

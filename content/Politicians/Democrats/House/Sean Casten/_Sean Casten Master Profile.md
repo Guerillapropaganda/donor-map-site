@@ -1,5 +1,5 @@
 ---
-title: "Sean Casten Master Profile"
+title: "Sean Casten"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

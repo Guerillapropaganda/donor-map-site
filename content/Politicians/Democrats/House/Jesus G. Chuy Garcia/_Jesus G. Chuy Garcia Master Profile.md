@@ -1,5 +1,5 @@
 ---
-title: "Jesus G. Chuy Garcia Master Profile"
+title: "Jesus G. Chuy Garcia"
 type: politician
 content-readiness: draft
 last-updated: 2026-04-12

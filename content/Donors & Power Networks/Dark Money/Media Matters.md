@@ -99,7 +99,7 @@ Media Matters is itself a funded organization rather than a funding vehicle (it 
 Media Matters has become the canonical source for progressive rapid-response tracking of conservative media. Its daily "Media Matters" reports and research publications set the baseline for Democratic communication strategies. Virtually all Democratic opposition to Fox News talking points starts with Media Matters documentation.
 
 ### Fox News Advertiser Pressure Campaigns:
-Media Matters runs repeated advertiser-pressure campaigns against Fox News commentators. Campaigns targeting Sean Hannity, Tucker Carlson, and other figures have periodically succeeded in forcing advertisers to withdraw support. These campaigns function as asymmetric warfare against Fox News' business model — not directly regulated by government, but indirectly pressuring commercial viability.
+Media Matters runs repeated advertiser-pressure campaigns against Fox News commentators. Campaigns targeting Sean Hannity, Tucker Carlson, and other figures have periodically succeeded in forcing advertisers to withdraw support. These campaigns function as asymmetric warfare against Fox News' business model, not directly regulated by government, but indirectly pressuring commercial viability.
 
 ### 2020-2024 Impact:
 During Trump's presidency (2017-2021) and subsequent 2020-2024 period, Media Matters documented:
@@ -113,7 +113,7 @@ Media Matters' documentation became a key reference source for:
 - Congressional investigations into January 6 and Trump's incitement
 
 ### Elon Musk Lawsuit and Institutional Vulnerability:
-In 2024, Elon Musk filed a $500 million lawsuit against Media Matters, alleging defamation over Media Matters' documentation that advertisers were fleeing X (formerly Twitter) due to hate speech and extremist content. The lawsuit targeted Media Matters' core function (documenting harm caused by right-wing platforms) and revealed institutional vulnerability: Media Matters operates as a nonprofit without legal resources to defend extended litigation against billionaires. The lawsuit — even if it ultimately fails — creates chilling effect on future investigative work.
+In 2024, Elon Musk filed a $500 million lawsuit against Media Matters, alleging defamation over Media Matters' documentation that advertisers were fleeing X (formerly Twitter) due to hate speech and extremist content. The lawsuit targeted Media Matters' core function (documenting harm caused by right-wing platforms) and revealed institutional vulnerability: Media Matters operates as a nonprofit without legal resources to defend extended litigation against billionaires. The lawsuit, even if it ultimately fails, creates chilling effect on future investigative work.
 
 > [!money]
 > Media Matters' Elon Musk lawsuit illustrates the **asymmetry of billionaire power in infrastructure attacks:** Progressive infrastructure organizations (like Media Matters) depend on modest funding ($5-10M annually) and rely on legal protections (First Amendment, anti-SLAPP statutes). When a billionaire (Musk) perceives Media Matters as threatening his business interests (X's advertiser relationships), he can deploy capital to litigate beyond Media Matters' budget capacity. Media Matters must either: (1) spend significant resources defending litigation, (2) reduce investigative work to avoid future lawsuits, or (3) seek emergency mega-donor funding for legal defense. Each option reduces Media Matters' effectiveness as infrastructure organization.
@@ -142,7 +142,7 @@ The Musk lawsuit reveals that this billionaire-funded model is strategically vul
 
 ---
 
-### Financial Overview (990 Filing — 2023)
+### Financial Overview (990 Filing, 2023)
 <!-- auto:propublica-990 start -->
 
 | Metric | Amount |

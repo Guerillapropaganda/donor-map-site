@@ -170,7 +170,7 @@ DOGE was positioned as a temporary (9-month) audit and efficiency review. In pra
 - [PBS News: Musk says DOGE was "only somewhat successful"](https://www.pbs.org/newshour/politics/elon-musk-says-doge-was-only-somewhat-successful-and-he-wouldnt-do-it-again) (Tier 2) (VERIFIED)
 - [Fortune: Ex-DOGE staffer admits failure to lower deficit](https://fortune.com/2026/03/16/doge-employee-deposition-lawsuit-federal-deficit-elon-musk-spending/) (Tier 2) (VERIFIED)
 - [Fortune: DOGE cancelled HVAC grant after ChatGPT flagged it](https://fortune.com/2026/03/19/doge-cancelled-350000-hvac-grant-dei-lawsuit-elon-musk/) (Tier 2) (VERIFIED)
-- ~~[Bloomberg: Musk deposition blocked](https://www.bloomberg.com/news/articles/2026-03-04/elon-musk-deposition-blocked-by-appeals-court-in-doge-fight)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[Bloomberg: Musk deposition blocked](https://www.bloomberg.com/news/articles/2026-03-04/elon-musk-deposition-blocked-by-appeals-court-in-doge-fight)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [CNN: DOGE cuts hamper US war readiness](https://www.cnn.com/2026/03/10/politics/doge-government-spending-cuts-iran-war) (Tier 2) (VERIFIED)
 
 ### Voting Record

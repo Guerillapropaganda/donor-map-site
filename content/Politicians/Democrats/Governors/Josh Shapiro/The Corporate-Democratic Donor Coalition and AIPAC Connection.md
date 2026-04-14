@@ -52,7 +52,7 @@ Biden chose Tim Walz. The decision confirmed what the donor data already showed:
 
 ### The Corporate Tax Cut
 
-Shapiro signed Pennsylvania's corporate tax cut reducing the rate from 9.99% to 4.99% — the largest corporate tax cut in the state's history. The cut serves the 240+ CEOs who funded his re-election and positions him as a business-friendly Democrat. The progressive framing: making Pennsylvania "competitive." The donor-class reality: the corporations that funded the campaign got the tax cut they funded it for.
+Shapiro signed Pennsylvania's corporate tax cut reducing the rate from 9.99% to 4.99%, the largest corporate tax cut in the state's history. The cut serves the 240+ CEOs who funded his re-election and positions him as a business-friendly Democrat. The progressive framing: making Pennsylvania "competitive." The donor-class reality: the corporations that funded the campaign got the tax cut they funded it for.
 
 ---
 

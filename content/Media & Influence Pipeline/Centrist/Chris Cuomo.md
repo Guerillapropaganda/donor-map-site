@@ -7,7 +7,7 @@ source-tier: 1
 parent: null
 category: centrist
 platform: cable-news
-related: "[[Megyn Kelly]] · [[Bari Weiss]] · [[Glenn Greenwald]] · [[_Media Pipeline Framework]] · [[Dave Rubin]] · [[Jordan Peterson]] · [[The Platform Dependency Spectrum — Revenue Vulnerability Across Political Media]] · [[Tenet Media]] · [[Rumble]] · [[Tucker Carlson]] · [[Tim Pool]] · [[Steven Crowder]] · [[Matt Walsh]] · [[Sean Hannity]] · [[Patrick Bet-David]] · [[Mark Levin]] · [[Laura Ingraham]] · [[Jesse Watters]] · [[James O'Keefe]] · [[Greg Gutfeld]] · [[Dan Bongino]] · [[Michael Knowles]] · [[Jeremy Boreing]] · [[The Daily Wire]] · [[Christopher Rufo]] · [[Charlie Kirk]] · [[Candace Owens]] · [[Jimmy Dore]] · [[Ben Shapiro]] · [[Andrew Klavan]] · [[TYT Network - The Young Turks]] · [[Sam Seder]] · [[Rachel Maddow]] · [[Pod Save America]] · [[Kyle Kulinski]] · [[John Oliver]] · [[Hasan Piker]] · [[David Pakman]] · [[Crooked Media]]"
+related: "[[Megyn Kelly]] · [[Bari Weiss]] · [[Glenn Greenwald]] · [[_Media Pipeline Framework]] · [[Dave Rubin]] · [[Jordan Peterson]] · [[The Platform Dependency Spectrum , Revenue Vulnerability Across Political Media]] · [[Tenet Media]] · [[Rumble]] · [[Tucker Carlson]] · [[Tim Pool]] · [[Steven Crowder]] · [[Matt Walsh]] · [[Sean Hannity]] · [[Patrick Bet-David]] · [[Mark Levin]] · [[Laura Ingraham]] · [[Jesse Watters]] · [[James O'Keefe]] · [[Greg Gutfeld]] · [[Dan Bongino]] · [[Michael Knowles]] · [[Jeremy Boreing]] · [[The Daily Wire]] · [[Christopher Rufo]] · [[Charlie Kirk]] · [[Candace Owens]] · [[Jimmy Dore]] · [[Ben Shapiro]] · [[Andrew Klavan]] · [[TYT Network - The Young Turks]] · [[Sam Seder]] · [[Rachel Maddow]] · [[Pod Save America]] · [[Kyle Kulinski]] · [[John Oliver]] · [[Hasan Piker]] · [[David Pakman]] · [[Crooked Media]]"
 donors: "[]"
 ---
 
@@ -153,8 +153,8 @@ Chris Cuomo represents the **corporate media carousel**, the mechanism by which 
 - [NPR: "Chris Cuomo, Newly Fired from CNN, Faces an Allegation of Sexual Misconduct" (Dec 5, 2021)](https://www.npr.org/2021/12/05/1061639233/chris-cuomo-newly-fired-from-cnn-faces-an-allegation-of-sexual-misconduct) (Tier 2) (VERIFIED)
 - [NPR: "Chris Cuomo Seeks $125 Million After Being Fired from CNN" (Mar 17, 2022)](https://www.npr.org/2022/03/17/1087167551/chris-cuomo-cnn-125-million) (Tier 2) (VERIFIED)
 - [Variety: "Chris Cuomo Inks Multiyear NewsNation Deal Renewal as Primetime Host" (Dec 16, 2024)](https://variety.com/2024/tv/news/chris-cuomo-newsnation-multiyear-renewal-1236250269/) (Tier 2) (VERIFIED)
-- ~~[NewsNation: "NewsNation Finishes 2025 with Record Viewership, Ratings Gains"](https://www.newsnationnow.com/entertainment-news/media/newsnation-record-viewership-ratings/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
-- ~~[Washington Post: "Chris Cuomo Isn't Done with TV" (Jan 22, 2024)](https://www.washingtonpost.com/style/media/2024/01/22/chris-cuomo-interview-newsnation-cnn/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[NewsNation: "NewsNation Finishes 2025 with Record Viewership, Ratings Gains"](https://www.newsnationnow.com/entertainment-news/media/newsnation-record-viewership-ratings/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Washington Post: "Chris Cuomo Isn't Done with TV" (Jan 22, 2024)](https://www.washingtonpost.com/style/media/2024/01/22/chris-cuomo-interview-newsnation-cnn/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Variety: "Chris Cuomo: I Was Going to Kill Myself After CNN Firing" (Feb 2023)](https://variety.com/2023/tv/news/chris-cuomo-kill-myself-cnn-firing-1235525559/) (Tier 2) (VERIFIED)
 - [NBC News: "CNN Fires Chris Cuomo for Aiding His Brother Against Sexual Misconduct Allegations" (Dec 4, 2021)](https://www.nbcnews.com/news/us-news/cnn-fires-chris-cuomo-suspension-rcna7245) (Tier 2) (VERIFIED)
 

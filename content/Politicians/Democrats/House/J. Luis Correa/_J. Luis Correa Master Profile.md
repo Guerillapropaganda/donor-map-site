@@ -1,5 +1,5 @@
 ---
-title: "J. Luis Correa Master Profile"
+title: "J. Luis Correa"
 type: politician
 content-readiness: raw
 last-updated: 2026-04-12

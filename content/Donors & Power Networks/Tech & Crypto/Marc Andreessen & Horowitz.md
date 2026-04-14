@@ -29,13 +29,13 @@ The needs-reenrichment flag has been set. The next scheduled pipeline run will p
 
 ### Who They Are
 
-Marc Lowell Andreessen (born July 9, 1971, Cedar Falls, Iowa). Co-creator of Mosaic, the first widely used web browser. Co-founder of Netscape (1994, IPO 1995 — the event that launched the commercial internet era). Co-founder and general partner of Andreessen Horowitz (a16z, founded 2009), one of the largest venture capital firms in Silicon Valley. Net worth approximately $1.7B+. Board member at Meta Platforms (Facebook). Previously served on boards of Hewlett-Packard, eBay.
+Marc Lowell Andreessen (born July 9, 1971, Cedar Falls, Iowa). Co-creator of Mosaic, the first widely used web browser. Co-founder of Netscape (1994, IPO 1995, the event that launched the commercial internet era). Co-founder and general partner of Andreessen Horowitz (a16z, founded 2009), one of the largest venture capital firms in Silicon Valley. Net worth approximately $1.7B+. Board member at Meta Platforms (Facebook). Previously served on boards of Hewlett-Packard, eBay.
 
 Ben Horowitz (born June 18, 1966). Co-founder and managing partner of a16z. Previously co-founded Opsware (sold to HP for $1.6B in 2007). Author of *The Hard Thing About Hard Things* (2014). Wife Felicia Horowitz is a significant political donor in her own right.
 
-**a16z manages $42+ billion** in assets across technology, crypto, biotech, AI, and defense investments. The firm is the most politically active venture capital operation in American history — not just in dollars spent, but in the infrastructure it has built to convert investment returns into policy outcomes.
+**a16z manages $42+ billion** in assets across technology, crypto, biotech, AI, and defense investments. The firm is the most politically active venture capital operation in American history, not just in dollars spent, but in the infrastructure it has built to convert investment returns into policy outcomes.
 
-**Class function:** Deploy venture capital political spending to prevent regulation of portfolio companies. The 2024-2026 political mobilization is the most expensive VC intervention in American electoral history. The goal is not ideological — it is material. Biden's crypto regulation threatened a16z portfolio returns. Trump offered deregulation. AI safety legislation threatened portfolio valuations. The money followed.
+**Class function:** Deploy venture capital political spending to prevent regulation of portfolio companies. The 2024-2026 political mobilization is the most expensive VC intervention in American electoral history. The goal is not ideological, it is material. Biden's crypto regulation threatened a16z portfolio returns. Trump offered deregulation. AI safety legislation threatened portfolio valuations. The money followed.
 
 ---
 
@@ -47,7 +47,7 @@ a16z's policy agenda is the portfolio's wish list:
 
 **2. Crypto/fintech deregulation.** Light-touch regulatory framework favoring exchanges and DeFi protocols. Hollow out the CFPB (primary crypto and fintech regulator). Pass industry-written legislation (GENIUS Act, FIT21). a16z's crypto fund manages $7.6B+ across four dedicated crypto/web3 funds.
 
-**3. No unrealized capital gains tax.** Biden's proposed tax on unrealized gains was "the final straw" per Andreessen — it would directly impact a16z partners' paper wealth in pre-IPO portfolio companies. This single proposal catalyzed the Trump pivot more than any regulatory issue.
+**3. No unrealized capital gains tax.** Biden's proposed tax on unrealized gains was "the final straw" per Andreessen, it would directly impact a16z partners' paper wealth in pre-IPO portfolio companies. This single proposal catalyzed the Trump pivot more than any regulatory issue.
 
 **4. Antitrust restraint.** Prevent aggressive M&A enforcement that would limit portfolio company exit paths. VC returns depend on acquisitions by big tech; aggressive antitrust enforcement reduces acquirer appetite.
 
@@ -57,7 +57,7 @@ a16z's policy agenda is the portfolio's wish list:
 
 ### Who They Fund
 
-#### FEC Individual Contributions — Marc Andreessen
+#### FEC Individual Contributions. Marc Andreessen
 
 **441 FEC-disclosed contributions** (2019-2026). All from California. Employer listed as "Andreessen Horowitz." The scale and breadth of Andreessen's direct FEC contributions reveal a systematic Republican donor operation that goes far beyond super PAC contributions.
 
@@ -67,7 +67,7 @@ a16z's policy agenda is the portfolio's wish list:
 - Pat Harrigan Committee (NC-R): $5,000 (Jan 30, 2026)
 
 ### 2025 cycle contributions (selected major):
-- Fairshake PAC: **$11,900,000** (Dec 10, 2025) — via AH Capital Management LLC
+- Fairshake PAC: **$11,900,000** (Dec 10, 2025), via AH Capital Management LLC
 - Defend American Jobs: $50,000 (Dec 10, 2025)
 - Protect Progress: $50,000 (Dec 10, 2025)
 - NRSC: $12,000 (Nov 21, 2025)
@@ -90,7 +90,7 @@ a16z's policy agenda is the portfolio's wish list:
 - Total 2024 political giving: exceeds **$24 million**, ranking among top 10 individual donors nationally
 - Previously a Democratic donor (contributed to Obama 2008)
 
-**The partisan shift is total.** Every 2025-2026 contribution identified in FEC records goes to Republican candidates, Republican party committees, or Republican-aligned PACs. The only non-Republican contribution since the Trump pivot is the Fairshake ecosystem, which funds both parties' crypto-friendly candidates — but even Fairshake's spending pattern is disproportionately Republican-aligned.
+**The partisan shift is total.** Every 2025-2026 contribution identified in FEC records goes to Republican candidates, Republican party committees, or Republican-aligned PACs. The only non-Republican contribution since the Trump pivot is the Fairshake ecosystem, which funds both parties' crypto-friendly candidates, but even Fairshake's spending pattern is disproportionately Republican-aligned.
 
 #### Ben Horowitz
 
@@ -134,7 +134,7 @@ a16z's policy agenda is the portfolio's wish list:
 
 ---
 
-### Leading the Future — The AI Super PAC (2025-2026)
+### Leading the Future. The AI Super PAC (2025-2026)
 
 ### The playbook that worked for crypto is now being deployed for AI.
 
@@ -147,9 +147,9 @@ In August 2025, Andreessen and Horowitz launched Leading the Future (LTF), a sup
 - Total raised: **$125 million** by January 2026 (CNBC)
 - Cash on hand entering 2026 midterms: **$70 million** (NOTUS)
 
-**Strategy:** Mirror the Fairshake model — fund candidates from both parties who support AI deregulation, destroy candidates who advocate for AI safety regulation. Target state legislators as well as federal.
+**Strategy:** Mirror the Fairshake model, fund candidates from both parties who support AI deregulation, destroy candidates who advocate for AI safety regulation. Target state legislators as well as federal.
 
-**Infrastructure:** American Innovators Network, a16z's lobbying arm, spent $350K+ in New York alone opposing AI safety legislation. LTF will function as the electoral complement to the lobbying operation — AIN blocks bills, LTF punishes the legislators who write them.
+**Infrastructure:** American Innovators Network, a16z's lobbying arm, spent $350K+ in New York alone opposing AI safety legislation. LTF will function as the electoral complement to the lobbying operation. AIN blocks bills, LTF punishes the legislators who write them.
 
 > [!money]
 > The Fairshake-to-LTF pipeline reveals the a16z political model: identify a regulatory threat → build a super PAC → spend $100M+ to elect sympathetic legislators → write the regulation yourself. Crypto was the proof of concept. AI is the scaled deployment. The same personnel, the same structure, the same strategy. By 2028, expect a third a16z super PAC for whatever regulatory frontier the firm identifies next. The machine is permanent.
@@ -160,7 +160,7 @@ In August 2025, Andreessen and Horowitz launched Leading the Future (LTF), a sup
 
 ### Timeline:
 - Spring 2024: Andreessen describes "alarming" meeting with Biden officials who explained plans for government AI control
-- July 16, 2024: Andreessen and Horowitz publicly endorse Trump in podcast episode "The Ben and Marc Show" — one week before Biden withdrew
+- July 16, 2024: Andreessen and Horowitz publicly endorse Trump in podcast episode "The Ben and Marc Show", one week before Biden withdrew
 - July 2024: Announced donations to pro-Trump super PACs
 - October 2024: $2.5M each from Andreessen and Horowitz to pro-Trump super PAC
 - November 2024: Additional $23M to Fairshake for 2026
@@ -171,7 +171,7 @@ In August 2025, Andreessen and Horowitz launched Leading the Future (LTF), a sup
 
 **Stated reasons:** Crypto regulation. AI regulation. Biden's proposed tax on unrealized capital gains ("the final straw"). Claim that Biden officials discouraged new startups.
 
-**The both-sides insurance.** Ben Horowitz simultaneously made a "significant donation" to Kamala Harris after Biden dropped out (August 2024). He described Harris as a "great friend" to both him and his wife Felicia. $2.5 million to Trump. Significant donation to Harris. Maintain access regardless of outcome. The firm also hosted a policy forum for moderate Democrats focused on AI and crypto, attended by several Democratic House members — building a bipartisan escape route in case Democrats retake power.
+**The both-sides insurance.** Ben Horowitz simultaneously made a "significant donation" to Kamala Harris after Biden dropped out (August 2024). He described Harris as a "great friend" to both him and his wife Felicia. $2.5 million to Trump. Significant donation to Harris. Maintain access regardless of outcome. The firm also hosted a policy forum for moderate Democrats focused on AI and crypto, attended by several Democratic House members, building a bipartisan escape route in case Democrats retake power.
 
 > [!contradiction]
 > **The bipartisan hedge.** a16z publicly endorses Trump, spends $100M+ on Republican-aligned super PACs, and places partners in the Trump White House — while simultaneously courting moderate Democrats with policy forums and maintaining Horowitz's Harris donation as relationship insurance. The firm's leadership has explicitly stated they are building influence that "extends beyond Trump's term." This is not ideological commitment. This is access infrastructure designed to survive any electoral outcome.
@@ -188,7 +188,7 @@ The ideological document. A 5,200-word essay declaring technology the primary dr
 
 ---
 
-### The Revolving Door — Government Placement
+### The Revolving Door. Government Placement
 
 **Sriram Krishnan:** Former a16z partner → White House Senior AI Policy Advisor. This is the revolving door operating at its most direct. Krishnan went from managing a16z's investments in AI companies to advising the President on AI policy that directly affects those same companies.
 
@@ -203,7 +203,7 @@ The PCAST appointment formalizes what Bloomberg reported in February 2026: a16z 
 2. Place partners in government (Krishnan)
 3. Get appointed to presidential advisory councils (Andreessen on PCAST)
 4. Install your lobbyist as the government's first call on policy (McCune)
-5. Draft the regulations — or block them
+5. Draft the regulations, or block them
 6. Portfolio companies benefit
 
 > [!money] Venture capital writes government policy
@@ -217,9 +217,9 @@ The PCAST appointment formalizes what Bloomberg reported in February 2026: a16z 
 
 **The pipeline:** Thiel and Andreessen fund Vance's firm → Vance enters politics → Vance becomes VP → a16z now has direct policy access through a venture capital partner sitting in the White House. The Sacks PCAST chairmanship completes the circuit: Sacks (PayPal Mafia, Craft Ventures) chairs the council that Andreessen sits on, advising the president whose VP is their shared investment partner.
 
-**Shared portfolio companies:** Rumble (video platform — connects to [[Glenn Greenwald]], [[Russell Brand]]), Anduril Industries (AI defense), Strive Asset Management (Vivek Ramaswamy's fund).
+**Shared portfolio companies:** Rumble (video platform, connects to [[Glenn Greenwald]], [[Russell Brand]]), Anduril Industries (AI defense), Strive Asset Management (Vivek Ramaswamy's fund).
 
-**Media pipeline connections:** Andreessen's investor network overlaps with the vault's Media & Influence Pipeline. David Sacks was a seed investor in [[Bari Weiss]]'s Free Press. [[Nate Silver]] advises Polymarket (Thiel's Founders Fund $45M Series B). [[Lex Fridman]]'s tech billionaire guest pipeline includes a16z partners. The Thiel-Andreessen-Sacks network doesn't just fund politicians and policy — it funds the media infrastructure that normalizes deregulatory ideology.
+**Media pipeline connections:** Andreessen's investor network overlaps with the vault's Media & Influence Pipeline. David Sacks was a seed investor in [[Bari Weiss]]'s Free Press. [[Nate Silver]] advises Polymarket (Thiel's Founders Fund $45M Series B). [[Lex Fridman]]'s tech billionaire guest pipeline includes a16z partners. The Thiel-Andreessen-Sacks network doesn't just fund politicians and policy, it funds the media infrastructure that normalizes deregulatory ideology.
 
 ---
 
@@ -229,19 +229,19 @@ The PCAST appointment formalizes what Bloomberg reported in February 2026: a16z 
 
 | Date | Recipient/Target | Amount | Policy Return | Time Gap |
 |------|-----------------|--------|---------------|----------|
-| Oct 2023 | Techno-Optimist Manifesto published | $0 (ideological) | Framework for "regulation as enemy" — adopted by Republican tech policy | — |
+| Oct 2023 | Techno-Optimist Manifesto published | $0 (ideological) | Framework for "regulation as enemy", adopted by Republican tech policy |, |
 | 2023 | Fairshake PAC (a16z share) | ~$19M | 33-2 primary win record in crypto-friendly races | 6 months |
 | Mar 2024 | Fairshake vs. Katie Porter | $10M+ (Fairshake total) | Porter eliminated from CA Senate primary | Immediate |
 | Jul 2024 | Trump endorsement + super PAC | $5M (combined A+H) | Access to transition team, Mar-a-Lago | 4 months |
 | Oct 2024 | Trump campaign + party | $844,600 + $2.5M | Federal contribution maximum + super PAC | 2 months |
-| Nov 2024 | Trump wins | — | CFPB hollowed out, AI safety blocked | Immediate |
+| Nov 2024 | Trump wins |, | CFPB hollowed out, AI safety blocked | Immediate |
 | Jan 2025 | Krishnan appointed WH AI advisor | $0 (personnel) | a16z partner writes AI policy from inside WH | 2 months post-election |
-| H1 2025 | MAGA Inc. super PAC | $3M | Ongoing relationship investment | — |
-| Jul 2025 | GENIUS Act signed | — | Crypto regulatory framework written by industry | 8 months post-election |
+| H1 2025 | MAGA Inc. super PAC | $3M | Ongoing relationship investment |, |
+| Jul 2025 | GENIUS Act signed |, | Crypto regulatory framework written by industry | 8 months post-election |
 | Aug 2025 | Leading the Future launched | $25M (A+H personal) | AI deregulation electoral machine activated | 9 months post-election |
 | Dec 2025 | Fairshake 2026 cycle | $11.9M | $116M war chest for 2026 midterms | 13 months |
 | Jan 2026 | LTF total raised | $125M | $70M cash on hand for 2026 | 14 months |
-| Feb 2026 | Bloomberg: a16z is "first call" on AI policy | — | Regulatory capture confirmed by rival lobbyists | 15 months |
+| Feb 2026 | Bloomberg: a16z is "first call" on AI policy |, | Regulatory capture confirmed by rival lobbyists | 15 months |
 | Mar 2026 | Andreessen appointed to PCAST | $0 (appointment) | Formal advisory role on science/tech policy | 16 months post-election |
 
 > [!money]
@@ -251,17 +251,17 @@ The PCAST appointment formalizes what Bloomberg reported in February 2026: a16z 
 
 ### Class Analysis
 
-Marc Andreessen and a16z represent **venture capital as political infrastructure** — the conversion of investment returns into regulatory capture at a scale never before achieved by a single firm.
+Marc Andreessen and a16z represent **venture capital as political infrastructure**, the conversion of investment returns into regulatory capture at a scale never before achieved by a single firm.
 
 **Pattern: The VC-to-Government Pipeline.** The traditional revolving door moves individuals between industry and government. a16z has industrialized the process: invest in companies → fund politicians → place partners in government → sit on presidential advisory councils → have your lobbyist become the government's primary point of contact → write the regulations yourself. Every node in the policy process is now occupied by an a16z-connected person.
 
 **Pattern: The Super PAC Assembly Line.** Fairshake (crypto, 2023) → Leading the Future (AI, 2025) → [next regulatory frontier, 2027?]. a16z has built a replicable model for converting regulatory threats into electoral campaigns. Identify the regulation that threatens portfolio returns → build a super PAC → raise $100M+ → destroy opponents, elect allies → write the regulation yourself. The machine is permanent and expanding.
 
-**Pattern: Both-Sides Insurance.** Horowitz donates to Harris while Andreessen maxes out for Trump. a16z hosts policy forums for moderate Democrats while spending $100M+ on Republican-aligned infrastructure. The firm explicitly plans to "build influence that extends beyond Trump's term." This is not bipartisanship — it is access insurance. The class function is to maintain policy influence regardless of which party controls government.
+**Pattern: Both-Sides Insurance.** Horowitz donates to Harris while Andreessen maxes out for Trump. a16z hosts policy forums for moderate Democrats while spending $100M+ on Republican-aligned infrastructure. The firm explicitly plans to "build influence that extends beyond Trump's term." This is not bipartisanship, it is access insurance. The class function is to maintain policy influence regardless of which party controls government.
 
-**Pattern: Ideology as Portfolio Protection.** The Techno-Optimist Manifesto is not philosophy — it's a fundraising pitch. "Growth is progress" as a framework justifies opposing every regulation that threatens portfolio returns: labor protections (reduce margins), environmental regulation (increase costs), safety oversight (slow deployment), tax enforcement (reduce returns). The manifesto provides intellectual cover for material interests. Andreessen believes this ideology. The ideology also happens to maximize his wealth.
+**Pattern: Ideology as Portfolio Protection.** The Techno-Optimist Manifesto is not philosophy, it's a fundraising pitch. "Growth is progress" as a framework justifies opposing every regulation that threatens portfolio returns: labor protections (reduce margins), environmental regulation (increase costs), safety oversight (slow deployment), tax enforcement (reduce returns). The manifesto provides intellectual cover for material interests. Andreessen believes this ideology. The ideology also happens to maximize his wealth.
 
-**Comparison to Koch Network.** The Kochs built a permanent political infrastructure — donor networks, think tanks, media operations, candidate pipelines — that survived any individual election. a16z is building the same thing for venture capital. The difference is speed: what took the Kochs decades, a16z is constructing in three years. And a16z has an advantage the Kochs lacked — they can place their own partners directly in government through the tech industry's revolving door, because the government needs tech expertise and only the tech industry has it.
+**Comparison to Koch Network.** The Kochs built a permanent political infrastructure, donor networks, think tanks, media operations, candidate pipelines, that survived any individual election. a16z is building the same thing for venture capital. The difference is speed: what took the Kochs decades, a16z is constructing in three years. And a16z has an advantage the Kochs lacked, they can place their own partners directly in government through the tech industry's revolving door, because the government needs tech expertise and only the tech industry has it.
 
 ---
 
@@ -273,7 +273,7 @@ Marc Andreessen and a16z represent **venture capital as political infrastructure
 - [OpenSecrets: Fairshake PAC Summary 2024](https://www.opensecrets.org/political-action-committees-pacs/fairshake-pac/C00835959/summary/2024) (Tier 1) (VERIFIED)
 - [FEC Independent Expenditures: Marc Andreessen Donor Detail 2024](https://www.fec.gov/data/independent-expenditures/) (Tier 1) (NEEDS REVIEW)
 - [OpenSecrets: Andreessen Horowitz Organization Summary](https://www.opensecrets.org/orgs/andreessen-horowitz/summary?id=D000047147) (Tier 1) (VERIFIED)
-- ~~[Bloomberg: Trump's AI Policy Shaped by VC Tech Giant Andreessen Horowitz (Feb 2026)](https://www.bloomberg.com/news/features/2026-02-10/trump-s-ai-policy-shaped-by-vc-tech-giant-andreessen-horowitz)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[Bloomberg: Trump's AI Policy Shaped by VC Tech Giant Andreessen Horowitz (Feb 2026)](https://www.bloomberg.com/news/features/2026-02-10/trump-s-ai-policy-shaped-by-vc-tech-giant-andreessen-horowitz)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [ProPublica: Marc Andreessen Trump CFPB Impact](https://www.propublica.org/article/trump-cfpb-marc-andreessen-silicon-valley) (Tier 2) (VERIFIED)
 - [CNBC: AI Industry Super PAC Raises $125 Million in 2025 (Jan 30, 2026)](https://www.cnbc.com/2026/01/30/ai-industry-super-pac-raises-campaign-money.html) (Tier 2) (VERIFIED)
 - [NOTUS: AI Industry Super PAC Enters Midterm Elections With $70 Million War Chest](https://www.notus.org/money/ai-super-pac-fundraising-midterms-democrats-republicans) (Tier 2) (VERIFIED)

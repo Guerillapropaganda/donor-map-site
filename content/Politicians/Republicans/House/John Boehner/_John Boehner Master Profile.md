@@ -2,7 +2,7 @@
 title: "John Boehner"
 type: politician
 content-readiness: ready
-central-thesis: "John Boehner exemplifies the professional legislative operative deployed by the donor class to manage Congress. His public brand is 'regular guy conservative' — orange tan, golf outings, emotional authenticity (crying at press conferences). This b..."
+central-thesis: "John Boehner exemplifies the professional legislative operative deployed by the donor class to manage Congress. His public brand is 'regular guy conservative' , orange tan, golf outings, emotional authenticity (crying at press conferences). This b..."
 last-updated: 2026-04-13
 source-tier: 1
 parent: null
@@ -91,7 +91,7 @@ John Boehner. U.S. Representative (OH-8, 1991–2015). Speaker of the House (201
 ### Key Policy-to-Donor Pipelines
 
 #### Tobacco Lobby Protection (The Signature Behavior)
-- **1995:** Boehner hands out tobacco industry checks on the House floor — literally distributes tobacco PAC checks to colleagues, publicly photographed
+- **1995:** Boehner hands out tobacco industry checks on the House floor, literally distributes tobacco PAC checks to colleagues, publicly photographed
 - **1995–2015:** Boehner repeatedly blocks tobacco regulation, anti-smoking legislation, FDA restrictions on nicotine
 - **Direct benefit:** Reynolds American, Altria, and tobacco companies avoided regulatory restrictions that might have reduced profit margins
 - **Time gap:** Tobacco checks distributed 1995; Boehner serves as tobacco industry's primary legislative defense 1995–2015; post-House, moves to cannabis legalization advocacy (different industry, same function)
@@ -140,25 +140,25 @@ The post-House career confirms the pattern. Boehner left Congress in 2015 and be
 
 ## Analytical Patterns
 
-**The Revolving Door (Tobacco → Cannabis):** Boehner's post-House career reveals the full scope of the revolving door pattern. He moved from tobacco industry representation to cannabis industry representation without any ideological consistency or principle. His actual function was industry representation; the specific industry was irrelevant. Tobacco paid more when he was in Congress; cannabis pays more now. His willingness to work for both industries reveals that his "regular guy" brand was purely functional — designed to make industry representation seem authentic.
+**The Revolving Door (Tobacco → Cannabis):** Boehner's post-House career reveals the full scope of the revolving door pattern. He moved from tobacco industry representation to cannabis industry representation without any ideological consistency or principle. His actual function was industry representation; the specific industry was irrelevant. Tobacco paid more when he was in Congress; cannabis pays more now. His willingness to work for both industries reveals that his "regular guy" brand was purely functional, designed to make industry representation seem authentic.
 
 **Donor-Class Override:** Boehner's entire congressional career subordinated constituent interests (Ohio workers, Ohio public health) to donor-class interests (tobacco companies, Koch Industries). He blocked tobacco regulation that would have benefited Ohio public health because tobacco companies funded his campaigns. This is the core pattern: elected officials serve donors, not constituents.
 
 **Credibility as Disguise:** Boehner's "regular guy" brand provided cover for his actual function as corporate delivery mechanism. His authenticity (crying, golf, everyman persona) made him seem trustworthy and relatable; this trust enabled him to deliver corporate legislative priorities without generating public backlash.
 
-**The Brazen Transaction:** The 1995 House floor check distribution is remarkable because it was so explicit. Boehner literally distributed tobacco industry checks to colleagues on the floor of Congress — a transaction that was photographed and documented. This was not subtle. His willingness to make the transaction so explicit reveals how normalized the donor-class delivery function was: there was no expectation that this behavior would generate consequences.
+**The Brazen Transaction:** The 1995 House floor check distribution is remarkable because it was so explicit. Boehner literally distributed tobacco industry checks to colleagues on the floor of Congress, a transaction that was photographed and documented. This was not subtle. His willingness to make the transaction so explicit reveals how normalized the donor-class delivery function was: there was no expectation that this behavior would generate consequences.
 
 ---
 
 ## Sources
 
 - [FEC Candidate: John Boehner donor profile](https://www.fec.gov/data/candidate/H0OH08029/) (Tier 1) (VERIFIED)
-- ~~[FEC: John Boehner campaign finance (CID: N00003675)](https://www.fec.gov/data/candidate/H2OH08055/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
-- ~~[Mother Jones: John Boehner tobacco check distribution - House floor photograph](https://www.motherjones.com/politics/2011/06/boehner-tobacco-checks)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
+- ~~[FEC: John Boehner campaign finance (CID: N00003675)](https://www.fec.gov/data/candidate/H2OH08055/)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- ~~[Mother Jones: John Boehner tobacco check distribution - House floor photograph](https://www.motherjones.com/politics/2011/06/boehner-tobacco-checks)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [The Atlantic: John Boehner's tobacco industry career](https://www.theatlantic.com/politics/archive/2011/11/video-of-the-day-sen-vitters-honey-badger-analogy-for-lsu-bama/247837/) (Tier 2) (VERIFIED)
-- ProPublica: John Boehner tobacco lobby protection record (Tier 2) (URL NEEDED — fabricated slug; original ProPublica article not found; tobacco record covered by Mother Jones and Atlantic citations above)
-- ~~[Reuters: John Boehner joins cannabis company board](https://www.reuters.com/article/john-boehner-cannabis-legalization-idUSKBN1YA1X5/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
-- ~~[Congress.gov: John Boehner voting record](https://www.congress.gov/member/john-boehner/B000589)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ProPublica: John Boehner tobacco lobby protection record (Tier 2) (URL NEEDED, fabricated slug; original ProPublica article not found; tobacco record covered by Mother Jones and Atlantic citations above)
+- ~~[Reuters: John Boehner joins cannabis company board](https://www.reuters.com/article/john-boehner-cannabis-legalization-idUSKBN1YA1X5/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Congress.gov: John Boehner voting record](https://www.congress.gov/member/john-boehner/B000589)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [Wikipedia: John Boehner - tobacco industry and post-House career](https://en.wikipedia.org/wiki/John_Boehner) (Tier 3) (VERIFIED)
 
 ## Influence Network (Cross-Reference)

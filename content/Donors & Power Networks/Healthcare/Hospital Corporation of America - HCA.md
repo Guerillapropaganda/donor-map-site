@@ -26,7 +26,7 @@ The needs-reenrichment flag has been set. The next scheduled pipeline run will p
 
 ### Who They Are
 
-HCA Healthcare, Inc. The largest for-profit hospital operator in the world ($65 billion revenue, 2024), operating 182 hospitals and approximately 2,300 sites of care across 20 states and the United Kingdom. HCA was founded by the Frist family — former Senate Majority Leader Bill Frist's family — and has been through multiple leveraged buyouts (including a $33 billion KKR-led LBO in 2006, then the largest in history).
+HCA Healthcare, Inc. The largest for-profit hospital operator in the world ($65 billion revenue, 2024), operating 182 hospitals and approximately 2,300 sites of care across 20 states and the United Kingdom. HCA was founded by the Frist family, former Senate Majority Leader Bill Frist's family, and has been through multiple leveraged buyouts (including a $33 billion KKR-led LBO in 2006, then the largest in history).
 
 HCA PAC contributes $2-3 million per cycle, with lobbying spending of $5-8 million annually. The company's political operation focuses on Medicaid reimbursement rates, Medicare payment policies, certificate-of-need laws (which restrict competition from new hospitals), and opposition to Medicare for All or any single-payer proposal.
 
@@ -42,9 +42,9 @@ Favorable Medicare/Medicaid reimbursement rates, preservation of certificate-of-
 
 ### What They've Gotten
 
-**Certificate-of-Need Protection:** Certificate-of-need (CON) laws — which require state approval before building new hospitals or expanding existing ones — protect HCA's existing facilities from competition. HCA lobbies to maintain CON laws in states where it operates, ensuring that potential competitors cannot build new hospitals to challenge HCA's market dominance.
+**Certificate-of-Need Protection:** Certificate-of-need (CON) laws, which require state approval before building new hospitals or expanding existing ones, protect HCA's existing facilities from competition. HCA lobbies to maintain CON laws in states where it operates, ensuring that potential competitors cannot build new hospitals to challenge HCA's market dominance.
 
-**Medicare Advantage Revenue:** HCA has expanded aggressively into Medicare Advantage partnerships, leveraging its hospital network to negotiate favorable contracts with MA plans. The Medicare Advantage program — which pays private insurers to provide Medicare benefits — has become a primary revenue growth driver for for-profit hospital systems.
+**Medicare Advantage Revenue:** HCA has expanded aggressively into Medicare Advantage partnerships, leveraging its hospital network to negotiate favorable contracts with MA plans. The Medicare Advantage program, which pays private insurers to provide Medicare benefits, has become a primary revenue growth driver for for-profit hospital systems.
 
 > [!money]
 > HCA's business model is the healthcare system's extraction architecture made corporate: $65 billion in revenue generated from a system where prices are opaque, competition is restricted by CON laws, and the largest payer (Medicare/Medicaid) reimburses at rates influenced by HCA's lobbying. The Frist family built HCA into a political dynasty — Bill Frist became Senate Majority Leader while his family owned the largest for-profit hospital chain, creating a legislative-industrial overlap that shaped healthcare policy for a decade. HCA's $5-8 million annual political investment protects a revenue stream that depends on the regulatory framework remaining unchanged.
