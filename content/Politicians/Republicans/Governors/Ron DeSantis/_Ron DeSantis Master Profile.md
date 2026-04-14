@@ -2,8 +2,12 @@
 title: Ron DeSantis Master Profile
 type: politician
 content-readiness: ready
-central-thesis: "DeSantis is the donor class's backup plan. When Trump became criminally indicted and legally toxic heading into 2024, billionaires like Ken Griffin ($5M+ to DeSantis's 2022 reelection), the Koch network, and Club for Growth-aligned donors rallied ..."
-last-updated: 2026-04-13
+central-thesis: >-
+  DeSantis is the donor class's backup plan. When Trump became criminally
+  indicted and legally toxic heading into 2024, billionaires like Ken Griffin
+  ($5M+ to DeSantis's 2022 reelection), the Koch network, and Club for
+  Growth-aligned donors rallied ...
+last-updated: '2026-04-14'
 source-tier: 1
 parent: null
 party: Republican
@@ -17,7 +21,7 @@ top-donors:
   - Club for Growth
   - Lennar Corporation
 total-received: '$375,129'
-fec-candidate-id: "P40013039"
+fec-candidate-id: P40013039
 source-types:
   - FEC
 known-gaps:
@@ -25,22 +29,27 @@ known-gaps:
   - No voting record data
   - No mapped relationships
 executive-actions: 25
-last-enriched: "2026-04-10"
+last-enriched: '2026-04-10'
 opposes: '[[SFA FUND, INC]] · [[MAKE AMERICA GREAT AGAIN INC.]]'
-related: "[[_Donald Trump Master Profile]] · [[Kenneth Griffin]] · [[Koch Network - Charles Koch]] · [[Peter Thiel]] · [[Elon Musk]] · [[_Gavin Newsom Master Profile]] · [[The $150 Million Collapse - When Donor Money Can't Buy a Primary]] · [[The Disney War and the Limits of Culture War Governance]]"
-opensanctions-status: "pep"
+related: >-
+  [[_Donald Trump Master Profile]] · [[Kenneth Griffin]] · [[Koch Network -
+  Charles Koch]] · [[Peter Thiel]] · [[Elon Musk]] · [[_Gavin Newsom Master
+  Profile]] · [[The $150 Million Collapse - When Donor Money Can't Buy a
+  Primary]] · [[The Disney War and the Limits of Culture War Governance]] ·
+  [[Rand Paul Master Profile]]
+opensanctions-status: pep
 opensanctions-matches: 1
 opensanctions-datasets:
-  - "ann_pep_positions"
-  - "wd_categories"
-  - "everypolitician"
-  - "wd_peps"
-  - "us_plural_legislators"
-  - "wikidata"
-  - "us_congress"
-total-raised: "$375,129"
-total-spent: "$375,129"
-cash-on-hand: "0.00"
+  - ann_pep_positions
+  - wd_categories
+  - everypolitician
+  - wd_peps
+  - us_plural_legislators
+  - wikidata
+  - us_congress
+total-raised: '$375,129'
+total-spent: '$375,129'
+cash-on-hand: '0.00'
 fec-cycle: 2024
 ---
 #desantis #governor #florida #republican #culture-war #anti-woke #class-analysis #follow-the-money #failed-2024 #tax-haven #disney #donor-capture #presidential-2028
