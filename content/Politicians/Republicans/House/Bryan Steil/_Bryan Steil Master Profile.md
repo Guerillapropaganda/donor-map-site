@@ -157,8 +157,8 @@ Steil is Paul Ryan's protege and successor. He worked as Ryan's aide in 2003, sp
 
 ## Sources
 
-- [FEC Candidate: Bryan Steil donor profile](https://www.fec.gov/data/candidate/H8WI01156/) (Tier 1) (VERIFIED)
-- [FEC Candidate: Bryan Steil industry donors](https://www.fec.gov/data/candidate/H8WI01156/) (Tier 1) (VERIFIED)
+- {{src:src_004520}} (Tier 1) (VERIFIED)
+- {{src:src_004520}} (Tier 1) (VERIFIED)
 - ~~[Congress.gov: Bryan Steil](https://www.congress.gov/member/bryan-steil/S001213)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - [House Administration Committee: Meet the Chairman](https://cha.house.gov/meet-the-chairman) (Tier 1) (VERIFIED)
 - [House.gov: Steil introduces MEGA Act election reform package](https://steil.house.gov/media/press-releases/steil-introduces-election-reform-package) (Tier 1) (VERIFIED)
@@ -203,7 +203,7 @@ Steil is Paul Ryan's protege and successor. He worked as Ryan's aide in 2003, sp
 | NATIONAL ASSOCIATION OF REALTORS POLITICAL ACTION COMMITTEE | $62,666 | $0 |
 | MIDWEST GROWTH PAC | $39,950 | $0 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H8WI01156/) (Tier 1) (VERIFIED)
+- {{src:src_004520}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ### DOJ Press Releases

@@ -168,7 +168,7 @@ The bipartisan protection model makes the class function explicit. Larsen (Democ
 
 ## Sources
 
-- [FEC Candidate: Rick Larsen donor profile](https://www.fec.gov/data/candidate/H0WA02080/) (Tier 1) (VERIFIED)
+- {{src:src_005888}} (Tier 1) (VERIFIED)
 - [Congress.gov: Rick Larsen](https://www.congress.gov/member/rick-larsen/L000560) (Tier 1) (VERIFIED)
 - [House T&I Committee: Ranking Member Larsen](https://democrats-transportation.house.gov/ranking-member-larsen) (Tier 1) (VERIFIED)
 - [Larsen.house.gov: Serves as Ranking Member statement](https://larsen.house.gov/news/documentsingle.aspx?DocumentID=2714) (Tier 1) (VERIFIED)
@@ -212,7 +212,7 @@ The bipartisan protection model makes the class function explicit. Larsen (Democ
 | NARAL | $0 | $57,293 |
 | DEMOCRATIC CONGRESSIONAL CAMPAIGN COMMITTEE - EXPENDITURES | $0 | $56,683 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H0WA02080/) (Tier 1) (VERIFIED)
+- {{src:src_005888}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ### Legislative Activity (GovTrack)

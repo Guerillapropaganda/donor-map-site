@@ -170,8 +170,8 @@ Her committee position turned her funded-by relationship into actual regulatory 
 
 ## Sources
 
-- [FEC Candidate: Cathy McMorris Rodgers donor profile, 2020 cycle](https://www.fec.gov/data/candidate/H4WA05077/) (Tier 1) (VERIFIED)
-- [FEC Candidate: Cathy McMorris Rodgers PAC receipts](https://www.fec.gov/data/candidate/H4WA05077/) (Tier 1) (VERIFIED)
+- {{src:src_004092}} (Tier 1) (VERIFIED)
+- {{src:src_004092}} (Tier 1) (VERIFIED)
 - [House Energy & Commerce Committee roster](https://energycommerce.house.gov/subcommittees) (Tier 1) (VERIFIED)
 - ~~[Fight for the Future: Net Neutrality opposition record](https://fightforthefuture.org/tracking-net-neutrality-opposition/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 - [Seattle Times: What a WA rep's No. 1 ranking in corporate cash means for the climate](https://www.seattletimes.com/seattle-news/politics/what-a-wa-reps-no-1-ranking-in-corporate-cash-means-for-the-climate/) (Tier 2) (VERIFIED)
@@ -210,7 +210,7 @@ Her committee position turned her funded-by relationship into actual regulatory 
 | NATIONAL REPUBLICAN CONGRESSIONAL COMMITTEE | $278,926 | $0 |
 | AMERICAN COLLEGE OF RADIOLOGY ASSOCIATION PAC | $179,660 | $0 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H4WA05077/) (Tier 1) (VERIFIED)
+- {{src:src_004092}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ### Influence Network (Cross-Reference)

@@ -238,7 +238,7 @@ Detailed sourcing is in each sub-note. Key sources for the master profile:
 | PRESERVE AMERICA PAC | $0 | $130,341,113 |
 | RESTORATION PAC | $0 | $47,398,182 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/P00009423/) (Tier 1) (VERIFIED)
+- {{src:src_005051}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ## Influence Network (Cross-Reference)

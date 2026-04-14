@@ -370,7 +370,7 @@ RTX represents the defense sector's structural capture of the American state. Th
 
 #### Tier 1. Government Data and Records
 
-- [FEC Committee C00097568. RTX PAC](https://www.fec.gov/data/committee/C00097568/) (VERIFIED)
+- {{src:src_013424}} (VERIFIED)
 - [USAspending.gov: RTX Federal Award Recipient Profile](https://www.usaspending.gov/recipient/bb947c1e-56f7-2f71-34d9-b0240c8b117c-P/latest) (VERIFIED)
 - [DOJ Press Release: $950M Raytheon Settlement](https://www.justice.gov/archives/opa/pr/raytheon-company-pay-over-950m-connection-defective-pricing-foreign-bribery-and-export) (VERIFIED)
 - [OpenSecrets: RTX Corp Profile](https://www.opensecrets.org/orgs/rtx-corp/summary?id=D000072615) (Tier 1) (VERIFIED)

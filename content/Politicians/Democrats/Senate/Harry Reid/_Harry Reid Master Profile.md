@@ -84,7 +84,7 @@ The Nevada machine illustrates how a regional power can balance labor alliance w
 
 ## Sources
 
-- ~~[FEC Campaign Finance: Harry Reid](https://www.fec.gov/data/candidate/S0702061/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~{{src:src_005391}}~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - ~~[Nevada Secretary of State: Campaign Finance Database](https://sos.nv.gov/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - ~~[Open Secrets: Harry Reid Donor Profile](https://www.opensecrets.org/politicians/harry-reid)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - [ProPublica: Reid's Personal Real Estate Dealings](https://www.propublica.org/) (Tier 2) (VERIFIED)
@@ -137,5 +137,5 @@ The Nevada machine illustrates how a regional power can balance labor alliance w
 | ENDING SPENDING FUND | $0 | $1,724,864 |
 | FIRST AMENDMENT ALLIANCE | $0 | $820,690 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/S6NV00028/) (Tier 1) (VERIFIED)
+- {{src:src_005396}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->

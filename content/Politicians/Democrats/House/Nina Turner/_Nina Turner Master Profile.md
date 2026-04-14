@@ -112,5 +112,5 @@ Source: [[DMFI - Democratic Majority for Israel]] vault entry.
 | WFP IE COMMITTEE | $404,831 | $0 |
 | MAINSTREAM DEMOCRATS PAC | $0 | $303,171 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H2OH11151/) (Tier 1) (VERIFIED)
+- {{src:src_005986}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->

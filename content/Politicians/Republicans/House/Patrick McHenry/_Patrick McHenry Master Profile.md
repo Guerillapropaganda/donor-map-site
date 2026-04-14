@@ -229,7 +229,7 @@ When questioned about consumer harm or misconduct risk, McHenry invoked "free ma
 | NATIONAL RIFLE ASSOCIATION OF AMERICA POLITICAL VICTORY FUND | $11,632 | $0 |
 | NATIONAL RIGHT TO LIFE POLITICAL ACTION COMMITTEE | $8,130 | $0 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H4NC10047/) (Tier 1) (VERIFIED)
+- {{src:src_004254}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ## Committee Assignments (Congress.gov)

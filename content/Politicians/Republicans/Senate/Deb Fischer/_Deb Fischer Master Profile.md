@@ -164,7 +164,7 @@ The pharmaceutical industry adds a third extraction point: $205,000 in career co
 ## Sources
 
 - [OpenSecrets: Deb Fischer donor profile](https://www.opensecrets.org/members-of-congress/summary?cid=N00033443) (Tier 1) (VERIFIED)
-- [FEC Candidate: Deb Fischer industry donors](https://www.fec.gov/data/candidate/S2NE00094/) (Tier 1) (VERIFIED)
+- {{src:src_003615}} (Tier 1) (VERIFIED)
 - ~~[OpenSecrets: Deb Fischer personal finances](https://www.opensecrets.org/personal-finances/deb-fischer/net-worth?cid=N00033443)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - ~~[Senate.gov: Fischer biography](https://www.fischer.senate.gov/public/index.cfm/biography)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - [Senate.gov: Fischer Strategic Forces Subcommittee appointments](https://www.fischer.senate.gov/public/index.cfm/2025/1/fischer-announces-appointment-to-key-senate-armed-services-subcommittees) (Tier 1) (VERIFIED)
@@ -240,7 +240,7 @@ The pharmaceutical industry adds a third extraction point: $205,000 in career co
 | ESAFUND | $881,915 | $0 |
 | COMMON SENSE FOR AMERICA PAC | $303,194 | $0 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/S2NE00094/) (Tier 1) (VERIFIED)
+- {{src:src_003615}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ### Legislative Activity (Congress.gov)

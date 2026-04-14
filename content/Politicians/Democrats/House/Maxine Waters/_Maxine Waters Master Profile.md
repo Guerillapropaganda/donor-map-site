@@ -157,8 +157,8 @@ Her rhetoric consistently frames regulation as protection — protecting consume
 
 ## Sources
 
-- [FEC Candidate: Maxine Waters donor profile](https://www.fec.gov/data/candidate/H4CA23011/) (Tier 1) (VERIFIED)
-- [FEC: Maxine Waters candidate profile](https://www.fec.gov/data/candidate/H4CA23011/) (Tier 1) (VERIFIED)
+- {{src:src_006034}} (Tier 1) (VERIFIED)
+- {{src:src_006034}} (Tier 1) (VERIFIED)
 - ~~[House Ethics Committee Report 112-690: Waters investigation](https://www.congress.gov/committee-report/112th-congress/house-report/690/1)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - [ProPublica: Read the Ethics Findings for Rep. Maxine Waters](https://www.propublica.org/article/read-the-ethics-findings-for-rep-maxine-waters) (Tier 2) (VERIFIED)
 - [NPR: Waters Cleared by House Ethics Committee](https://www.npr.org/sections/thetwo-way/2012/09/21/161538755/rep-maxine-waters-cleared-by-house-ethics-committee) (Tier 2) (VERIFIED)
@@ -292,5 +292,5 @@ Her rhetoric consistently frames regulation as protection — protecting consume
 | LOS ANGELES COUNTY DEMOCRATIC CENTRAL COMMITTEE | $62,562 | $0 |
 | ELBERT GUILLORY'S AMERICA | $9,724 | $8,292 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H4CA23011/) (Tier 1) (VERIFIED)
+- {{src:src_006034}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->

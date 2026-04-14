@@ -138,9 +138,9 @@ The SNAP defense provided the progressive cover. Stabenow declared SNAP funding 
 
 ## Sources
 
-- [FEC Candidate: Debbie Stabenow Campaign Finance Summary](https://www.fec.gov/data/candidate/H6MI08163/) (Tier 1) (VERIFIED)
+- {{src:src_005489}} (Tier 1) (VERIFIED)
 - [OpenSecrets: Debbie Stabenow Top Industries](https://www.opensecrets.org/members-of-congress/industries?cycle=Career&cid=N00004118) (Tier 1) (VERIFIED)
-- [FEC: Debbie Stabenow for U.S. Senate](https://www.fec.gov/data/candidate/S8MI00281/) (Tier 1) (VERIFIED)
+- {{src:src_005493}} (Tier 1) (VERIFIED)
 - [Sunlight Foundation: Senators Who Write Farm Bill Fine Print Reap Agribusiness Campaign Cash](https://sunlightfoundation.com/2013/06/10/senators-who-write-farm-bill/) (Tier 2) (VERIFIED)
 - [Center for Public Integrity: Debbie Stabenow — Senate Agriculture Committee](https://publicintegrity.org/politics/debbie-stabenow-senate-agriculture-nutrition-and-forestry-committee/) (Tier 2) (VERIFIED)
 - [Taxpayers for Common Sense: Political Power of the Agribusiness & Crop Insurance Lobbies](https://www.taxpayer.net/wp-content/uploads/ported/images/downloads/Political_Power_of_Farm_And_Crop_Insurance_Lobbies_Fact_Sheet.pdf) (Tier 2) (VERIFIED)
@@ -193,7 +193,7 @@ party:: Democrat
 | LABORERS' POLITICAL LEAGUE-LABORERS' INTERNATIONAL UNION OF NA | $0 | $7,500 |
 | RIGHT TO LIFE OF MICHIGAN POLITICAL ACTION COMMITTEE | $0 | $174 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H6MI08163/) (Tier 1) (VERIFIED)
+- {{src:src_005489}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ## Voting Record

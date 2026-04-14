@@ -40,7 +40,7 @@ The Minnesota connection: Minnesota is home to Target, UnitedHealth Group, 3M, a
 
 ### Sources
 
-- [FEC Candidate: Amy Klobuchar donor profile](https://www.fec.gov/data/candidate/S6MN00267/) (Tier 1) (VERIFIED)
+- {{src:src_005585}} (Tier 1) (VERIFIED)
 - ~~[Congress.gov: American Innovation and Choice Online Act](https://www.congress.gov/bill/117th-congress/senate-bill/2992)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - [Senate Judiciary Subcommittee on Competition hearings](https://www.senate.gov/pagelayout/general/one_item_and_teasers/waf.htm) (Tier 1) (VERIFIED)
 - [Ballotpedia: Amy Klobuchar](https://ballotpedia.org/Amy_Klobuchar) (Tier 3) (VERIFIED)

@@ -74,9 +74,9 @@ Pappas' fundraising advantage ($14.2M for House career) is disproportionately bu
 ### Sources
 
 - [New Hampshire 2026 Senate race: Pappas vs Brown/Sununu | Ballotpedia](https://ballotpedia.org/United_States_Senate_election_in_New_Hampshire,_2026) (Tier 3) (VERIFIED)
-- [Chris Pappas campaign finances | FEC](https://www.fec.gov/data/candidate/S6NH00141/) (Tier 1) (VERIFIED)
+- {{src:src_001977}} (Tier 1) (VERIFIED)
 - ~~[Chris Pappas voting record on healthcare and opioid legislation | ProPublica Congress](https://projects.propublica.org/congress/members/P000614-chris-pappas)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
-- [Scott Brown political action committee activity | FEC](https://www.fec.gov/data/candidate/S6NH00166/) (Tier 1) (VERIFIED)
+- {{src:src_001979}} (Tier 1) (VERIFIED)
 - ~~[John Sununu state campaign finances | New Hampshire Secretary of State](https://sos.nh.gov/elections-division/candidates-committees/campaign-finance-disclosure)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - [FEC Receipts: Pharmaceutical industry political spending. New Hampshire](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1) (VERIFIED)
 - ~~[Pfizer opioid settlement and ongoing litigation | DOJ Settlement Tracker](https://www.justice.gov/civil/opioid-litigation-settlements)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)

@@ -117,7 +117,7 @@ Sentinel also illustrates **speculative mega-donor spending:** Barre Seid and Ke
 ### Sources
 
 - ~~[OpenSecrets: Sentinel Action Fund organizational profile](https://www.opensecrets.org/orgs/sentinel-action-fund/summary)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
-- [FEC: Sentinel Action Fund filings](https://www.fec.gov/data/committee/C00811166/) (Tier 1) (VERIFIED)
+- {{src:src_009860}} (Tier 1) (VERIFIED)
 - [Heritage Foundation: About and Policy Priorities](https://www.heritage.org/about-heritage/impact) (Tier 2) (VERIFIED)
 - [OpenSecrets: Sentinel Action Fund PAC Profile 2022](https://www.opensecrets.org/political-action-committees-pacs/sentinel-action-fund/c00811166/summary/2022) (Tier 1) (VERIFIED)
 - ~~[Campaign Finance Institute: Super PAC effectiveness research](https://www.cfinst.org/research/super-pacs)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3)

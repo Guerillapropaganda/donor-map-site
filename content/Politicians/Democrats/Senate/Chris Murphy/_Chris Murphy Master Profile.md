@@ -185,8 +185,8 @@ The class tell is Medicare for All. When Bernie Sanders proposed it in 2019, Mur
 
 ## Sources
 
-- [FEC Candidate: Chris Murphy campaign finance summary](https://www.fec.gov/data/candidate/S2WI00409/) (Tier 1) (VERIFIED)
-- [FEC Candidate: Chris Murphy career industries](https://www.fec.gov/data/candidate/S2WI00409/) (Tier 1) (VERIFIED)
+- {{src:src_005532}} (Tier 1) (VERIFIED)
+- {{src:src_005532}} (Tier 1) (VERIFIED)
 - ~~[Congress.gov: Chris Murphy member profile](https://www.congress.gov/member/chris-murphy/M001169)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - ~~[Congress.gov: Bipartisan Safer Communities Act](https://www.congress.gov/bill/117th-congress/senate-bill/2938)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - [Murphy.senate.gov: Murphy-Young resolution on Saudi arms sales](https://www.murphy.senate.gov/newsroom/press-releases/murphy-young-announce-privileged-resolution-to-force-vote-on-us-saudi-security-relationship-recent-arms-sale) (Tier 1) (VERIFIED)
@@ -236,7 +236,7 @@ The class tell is Medicare for All. When Bernie Sanders proposed it in 2019, Mur
 | Individual Contributions | $600 |
 | Cash on Hand | 0.00 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/S2WI00409/) (Tier 1) (VERIFIED)
+- {{src:src_005532}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ## Influence Network (Cross-Reference)

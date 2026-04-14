@@ -149,8 +149,8 @@ The Cuba blockade completed the transaction. Trump's January 2026 executive orde
 
 ## Sources
 
-- [FEC Candidate: Marco Rubio career donor industries](https://www.fec.gov/data/candidate/P60006723/) (Tier 1) (VERIFIED)
-- [FEC Candidate: Marco Rubio campaign finance summary](https://www.fec.gov/data/candidate/P60006723/) (Tier 1) (VERIFIED)
+- {{src:src_002884}} (Tier 1) (VERIFIED)
+- {{src:src_002884}} (Tier 1) (VERIFIED)
 - [The Intercept: Rubio follows donor dollars, veers from limited-government dogma](https://theintercept.com/2016/01/31/rubio-donor-dollars/) (Tier 2) (VERIFIED)
 - [National Review: Marco Rubio's billion-dollar sugar addiction](https://www.nationalreview.com/2015/11/marco-rubio-sugar-subsidy-support-fanjul-brothers/) (Tier 2) (VERIFIED)
 - ~~[Bloomberg: Sugar Barons Amass $8 Billion Fortune](https://www.bloomberg.com/news/articles/2017-08-09/sugar-barons-amass-8-billion-fortune-by-mastering-u-s-politics)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)

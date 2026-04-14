@@ -606,11 +606,11 @@ The $252M annual budget is not a philanthropic charitable organization. It is a 
 ### Sources
 
 - [Senate LDA Filings: API Federal Lobbying Disclosure (D000031493)](https://lda.gov/filings/public/filing/search/) (Tier 1) (VERIFIED) (UNVERIFIED)
-- [FEC Committee: API PAC Committee Filings (C00483677)](https://www.fec.gov/data/committee/C00483677/) (Tier 1) (VERIFIED)
+- {{src:src_012402}} (Tier 1) (VERIFIED)
 - [OpenSecrets: API Political Contributions and Outside Spending](https://www.opensecrets.org/orgs/american-petroleum-institute/summary?id=D000031493) (Tier 1) (VERIFIED) (UNVERIFIED)
 - [Senate LDA Filings: API Lobbyist Roster (2021–2024)](https://lda.gov/filings/public/filing/search/) (Tier 1) (VERIFIED) (UNVERIFIED)
 - [ProPublica Nonprofit Explorer: API Form 990 Filings (2020–2024)](https://projects.propublica.org/nonprofits/organizations/130433430) (Tier 1) (VERIFIED)
-- [FEC: American Petroleum Institute PAC and Super PAC Contributions](https://www.fec.gov/data/committee/C00483677/) (Tier 1) (VERIFIED)
+- {{src:src_012402}} (Tier 1) (VERIFIED)
 - [ExxonMobil Corporate Disclosure: Trade Association Expenditures](https://corporate.exxonmobil.com/who-we-are/policy/exxonmobil-advocacy-report/direct-lobbying-activities-expenditures/trade-associations-think-tanks-and-coalitions) (Tier 1) (VERIFIED)
 - [Senate LD-2 Lobbying Disclosure: API Current Filings](https://lda.gov/filings/public/filing/94aa0f30-7984-4a4e-bb3c-9f50b25355b3/print/) (Tier 1) (VERIFIED)
 - [InfluenceMap: API Political Spending Analysis (2016 Report)](https://senate.ucsd.edu/media/206150/lobby_spend_report__april.pdf) (Tier 2) (VERIFIED)

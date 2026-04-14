@@ -155,8 +155,8 @@ On tax policy, he frames himself as the counterweight to Crapo — the progressi
 
 ## Sources
 
-- [FEC Candidate: Ron Wyden Campaign Finance Summary](https://www.fec.gov/data/candidate/H0OR03026/) (Tier 1) (VERIFIED)
-- [FEC: Ron Wyden Candidate Profile (S6OR00110)](https://www.fec.gov/data/candidate/S6OR00110/) (Tier 1) (VERIFIED)
+- {{src:src_001777}} (Tier 1) (VERIFIED)
+- {{src:src_005185}} (Tier 1) (VERIFIED)
 - [Senate Finance Committee: Ranking Member Wyden](https://www.finance.senate.gov/about/ranking-member) (Tier 1) (VERIFIED)
 - [Finance Committee: Wyden Introduces Billionaires Income Tax Act (2025)](https://www.finance.senate.gov/ranking-members-news/wyden-cohen-beyer-introduce-the-billionaires-income-tax-act) (Tier 1) (VERIFIED)
 - [Finance Committee: Wyden Unveils Billionaires Income Tax (2021)](https://www.finance.senate.gov/chairmans-news/wyden-unveils-billionaires-income-tax) (Tier 1) (VERIFIED)
@@ -200,7 +200,7 @@ On tax policy, he frames himself as the counterweight to Crapo — the progressi
 | SENIOR POLITICAL ACTION COMMITTEE  (WASH D.C.) | $0 | $679 |
 | POLITICAL ACTION FOR LASTING SECURITY | $0 | $80 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H0OR03026/) (Tier 1) (VERIFIED)
+- {{src:src_001777}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ### Congressional Stock Trades (STOCK Act)

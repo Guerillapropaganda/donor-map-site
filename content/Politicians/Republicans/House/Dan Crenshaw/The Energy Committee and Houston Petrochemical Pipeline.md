@@ -66,9 +66,9 @@ Crenshaw is explicit about the district-donor alignment in ways most members avo
 
 ### Sources
 
-- [FEC Candidate: Dan Crenshaw career industry breakdown](https://www.fec.gov/data/candidate/H8TX02166/) (Tier 1) (VERIFIED)
-- [FEC Candidate: Dan Crenshaw 2024 cycle industry breakdown](https://www.fec.gov/data/candidate/H8TX02166/) (Tier 1) (VERIFIED)
-- [FEC Candidate: Dan Crenshaw career top contributors](https://www.fec.gov/data/candidate/H8TX02166/) (Tier 1) (VERIFIED)
+- {{src:src_004487}} (Tier 1) (VERIFIED)
+- {{src:src_004487}} (Tier 1) (VERIFIED)
+- {{src:src_004487}} (Tier 1) (VERIFIED)
 - ~~[Congress.gov: Dan Crenshaw member profile](https://www.congress.gov/member/dan-crenshaw/C001120)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - ~~[Congress.gov: H.R.7176. Unlocking our Domestic LNG Potential Act of 2024](https://www.congress.gov/bill/118th-congress/house-bill/7176)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - [Ballotpedia: Dan Crenshaw](https://ballotpedia.org/Dan_Crenshaw) (Tier 3) (VERIFIED)

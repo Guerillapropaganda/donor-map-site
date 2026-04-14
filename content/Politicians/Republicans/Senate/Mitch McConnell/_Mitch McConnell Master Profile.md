@@ -207,7 +207,7 @@ McConnell announced retirement February 20, 2025 after multiple health episodes 
 
 ## Sources
 
-- [FEC Candidate: McConnell career finance](https://www.fec.gov/data/candidate/S2KY00012/) (Tier 1) (VERIFIED)
+- {{src:src_003318}} (Tier 1) (VERIFIED)
 - [CREW: dark money investigations — SLF, One Nation, FTX connections](https://www.citizensforethics.org/reports-investigations/crew-investigations/mitch-mcconnell-tied-dark-money-group-bolstered-by-millions-from-ftx-fraudsters/) (Tier 2) (VERIFIED)
 - [NPR: tobacco documents investigation](https://www.npr.org/2019/06/17/730496066/tobaccos-special-friend-what-internal-documents-say-about-mitch-mcconnell) (Tier 2) (VERIFIED)
 - [Center for Public Integrity: Kentucky donor mapping](https://publicintegrity.org/politics/mitch-mcconnell-fueled-by-tobacco-and-whiskey/) (Tier 2) (VERIFIED)
@@ -281,7 +281,7 @@ McConnell announced retirement February 20, 2025 after multiple health episodes 
 | DITCH FUND | $0 | $3,114,757 |
 | SAVE AMERICA FUND | $0 | $3,098,840 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/S2KY00012/) (Tier 1) (VERIFIED)
+- {{src:src_003318}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ## Voting Record

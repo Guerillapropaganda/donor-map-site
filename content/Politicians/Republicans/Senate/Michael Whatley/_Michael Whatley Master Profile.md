@@ -178,7 +178,7 @@ Susan B. Anthony Pro-Life America PAC's $4.5 million donation is the other half 
 | AMERICANS FOR PROSPERITY ACTION, INC. (AFP ACTION) DBA CVA ACTION AND DBA LIBRE ACTION | $4,189,244 | $0 |
 | SLF PAC | $911,323 | $0 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/S6NC00415/) (Tier 1) (VERIFIED)
+- {{src:src_003375}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ### Voting Record

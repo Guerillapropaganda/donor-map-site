@@ -149,7 +149,7 @@ His nuclear energy advocacy is the most authentic throughline — it directly se
 ## Sources
 
 - [OpenSecrets: Mike Crapo Campaign Finance Summary](https://www.opensecrets.org/members-of-congress/summary?cid=N00006267) (Tier 1) (VERIFIED)
-- [FEC: Mike Crapo for US Senate (C00330886)](https://www.fec.gov/data/committee/C00330886/) (Tier 1) (VERIFIED)
+- {{src:src_003338}} (Tier 1) (VERIFIED)
 - [Senate Finance Committee: Chairman Crapo](https://www.finance.senate.gov/about/chairman) (Tier 1) (VERIFIED)
 - [Finance Committee: Crapo Releases Reconciliation Text](https://www.finance.senate.gov/chairmans-news/chairman-crapo-releases-finance-committee-reconciliation-text) (Tier 1) (VERIFIED)
 - [Finance Committee: Crapo Statement on Senate Passage of OBBB](https://www.finance.senate.gov/chairmans-news/chairman-crapo-statement-on-senate-passage-of-one-big-beautiful-bill-act) (Tier 1) (VERIFIED)

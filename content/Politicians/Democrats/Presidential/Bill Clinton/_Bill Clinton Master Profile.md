@@ -54,7 +54,7 @@ Clinton's presidency executed every major item on the corporate donor class's ag
 
 Clinton relied heavily on presidential public funds ($75.2M — 61% of total receipts). Individual contributions totaled $35.3M across both cycles. The 1996 reelection campaign would become the subject of a major campaign finance investigation involving $2.8M in returned illegal contributions and 22 unlawful convictions.
 
-- [FEC: Clinton, William Jefferson — candidate overview](https://www.fec.gov/data/candidate/P20000642/) (Tier 1) (VERIFIED)
+- {{src:src_005663}} (Tier 1) (VERIFIED)
 
 ---
 
@@ -219,7 +219,7 @@ The long-term class consequence: Clinton's realignment of the Democratic Party t
 
 ## Sources
 
-- [FEC: Clinton, William Jefferson — candidate overview (ID: P20000642)](https://www.fec.gov/data/candidate/P20000642/) (Tier 1) (VERIFIED)
+- {{src:src_005663}} (Tier 1) (VERIFIED)
 - ~~[Congress.gov: Gramm-Leach-Bliley Act (S.900, 106th Congress)](https://www.congress.gov/bill/106th-congress/senate-bill/900)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - ~~[Congress.gov: NAFTA Implementation Act (H.R.3450, 103rd Congress)](https://www.congress.gov/bill/103rd-congress/house-bill/3450)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - ~~[Congress.gov: Violent Crime Control and Law Enforcement Act (H.R.3355, 103rd Congress)](https://www.congress.gov/bill/103rd-congress/house-bill/3355)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
@@ -252,7 +252,7 @@ The long-term class consequence: Clinton's realignment of the Democratic Party t
 | REPUBLICAN NATIONAL COMMITTEE | $0 | $1,278 |
 | MICHIGAN REPUBLICAN PARTY | $0 | $597 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/P60012333/) (Tier 1) (VERIFIED)
+- {{src:src_005676}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ### DOJ Press Releases

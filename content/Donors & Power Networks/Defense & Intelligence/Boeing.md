@@ -220,7 +220,7 @@ The Starliner failure completes the picture. After stranding two astronauts and 
 ### Federal Campaign Finance (Tier 1)
 - [OpenSecrets: Boeing Co PAC Summary 2024](https://www.opensecrets.org/political-action-committees-pacs/boeing-co/C00142711/summary/2024) (Tier 1) (VERIFIED)
 - [OpenSecrets: Boeing Co Recipients 2024](https://www.opensecrets.org/orgs/boeing-co/recipients?id=D000000100) (Tier 1) (VERIFIED)
-- [FEC: Boeing Co PAC Committee Overview](https://www.fec.gov/data/committee/C00142711/) (Tier 1) (VERIFIED)
+- {{src:src_013084}} (Tier 1) (VERIFIED)
 
 ### Lobbying Data (Tier 1)
 - [OpenSecrets: Boeing Co Lobbying Profile](https://www.opensecrets.org/orgs/boeing-co/lobbying?id=D000000100) (Tier 1) (VERIFIED)

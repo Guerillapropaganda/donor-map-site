@@ -157,7 +157,7 @@ The bipartisan giving strategy reveals the structural function: Comcast doesn't 
 
 - [OpenSecrets: Comcast Corp organizational profile](https://www.opensecrets.org/orgs/comcast-corp/summary?id=D000000461) (Tier 1) (VERIFIED)
 - [Senate LDA Filings: Comcast Corp lobbying profile](https://lda.gov/filings/public/filing/search/) (Tier 1) (VERIFIED)
-- [FEC: Comcast Corporation & NBCUniversal PAC — Federal (C00248716)](https://www.fec.gov/data/committee/C00248716/) (Tier 1) (VERIFIED)
+- {{src:src_011423}} (Tier 1) (VERIFIED)
 - [Roll Call: FCC move to restore net neutrality sets stage for familiar fight](https://rollcall.com/2024/04/09/fcc-move-to-restore-net-neutrality-sets-stage-for-familiar-fight/) (Tier 2) (VERIFIED)
 - [Revolving Door Project: Unmasking FCC's revolving door with telecom giants](https://therevolvingdoorproject.org/unmasking-fccs-revolving-door-with-telecom-giants/) (Tier 2) (VERIFIED)
 - [Techdirt: Former Trump FCC boss Ajit Pai promoted to top wireless industry lobbyist](https://www.techdirt.com/2025/03/27/the-revolving-door-spins-former-trump-fcc-boss-ajit-pai-promoted-to-top-wireless-industry-lobbyist/) (Tier 2) (VERIFIED)

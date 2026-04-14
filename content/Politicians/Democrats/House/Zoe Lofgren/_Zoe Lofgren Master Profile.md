@@ -163,7 +163,7 @@ The H-1B visa work completes the alignment. Lofgren, the former immigration atto
 
 ## Sources
 
-- [FEC Candidate: Zoe Lofgren donor profile](https://www.fec.gov/data/candidate/H4CA16049/) (Tier 1) (VERIFIED)
+- {{src:src_005813}} (Tier 1) (VERIFIED)
 - ~~[Congress.gov: Zoe Lofgren](https://www.congress.gov/member/zoe-lofgren/L000397)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - [House.gov: Lofgren biography](https://lofgren.house.gov/about) (Tier 1) (VERIFIED)
 - [House Science Committee Democrats: RM Lofgren](https://democrats-science.house.gov/news/press-releases/ranking-member-lofgrens-statement-on-being-selected-to-continue-leading-science-committee-democrats) (Tier 1) (VERIFIED)
@@ -206,7 +206,7 @@ The H-1B visa work completes the alignment. Lofgren, the former immigration atto
 | SAN BENITO COUNTY DEMOCRATIC CENTRAL COMMITTEE | $1,795 | $0 |
 | OPPORTUNITY PAC - A COALITION OF TEACHERS HEALTH CARE GIVERS FACULTY MEMBERS SCHOOL EMPLOYEES AND PUBLIC AND PR | $1,772 | $0 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H4CA16049/) (Tier 1) (VERIFIED)
+- {{src:src_005813}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ### Legislative Activity (Congress.gov)
@@ -279,7 +279,7 @@ The H-1B visa work completes the alignment. Lofgren, the former immigration atto
 | 2016 | $1,381,140 | $1,157,331 | 1275112.09 |
 | ... | 11 more cycles available | | |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H4CA16049/) (Tier 1)
+- {{src:src_005813}} (Tier 1)
 <!-- auto:fec-summary end -->
 
 ### Voting Record

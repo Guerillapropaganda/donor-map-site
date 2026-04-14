@@ -244,10 +244,10 @@ Then there is the wife's employer. Sandra Whitehouse has received $2,686,800 fro
 
 ## Sources
 
-- [FEC Candidate: Sheldon Whitehouse campaign finance summary](https://www.fec.gov/data/candidate/S6RI00221/) (Tier 1) (VERIFIED)
-- [FEC Candidate: Sheldon Whitehouse career industry breakdown](https://www.fec.gov/data/candidate/S6RI00221/) (Tier 1) (VERIFIED)
-- [FEC Candidate: Sheldon Whitehouse career top contributors](https://www.fec.gov/data/candidate/S6RI00221/) (Tier 1) (VERIFIED)
-- [FEC: Sheldon Whitehouse candidate profile](https://www.fec.gov/data/candidate/S6RI00221/) (Tier 1) (VERIFIED)
+- {{src:src_005132}} (Tier 1) (VERIFIED)
+- {{src:src_005132}} (Tier 1) (VERIFIED)
+- {{src:src_005132}} (Tier 1) (VERIFIED)
+- {{src:src_005132}} (Tier 1) (VERIFIED)
 - ~~[Congress.gov: DISCLOSE Act of 2023 (S.512, 118th Congress)](https://www.congress.gov/bill/118th-congress/senate-bill/512)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - [Senator Whitehouse: The Scheme 30 — Update on Captured Supreme Court](https://www.whitehouse.senate.gov/news/speeches/the-scheme-30-an-update-on-the-captured-supreme-court/) (Tier 1) (VERIFIED)
 - [Senator Whitehouse: The Scheme 18 — Leonard Leo's $1.6 Billion Payday](https://www.whitehouse.senate.gov/news/speeches/scheme-18_leonard-leos-16-billion-payday/) (Tier 1) (VERIFIED)
@@ -296,7 +296,7 @@ Then there is the wife's employer. Sandra Whitehouse has received $2,686,800 fro
 | ROOSEVELT SOCIETY ACTION | $0 | $159,783 |
 | MOVEON.ORG POLITICAL ACTION | $5,751 | $0 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/S6RI00221/) (Tier 1) (VERIFIED)
+- {{src:src_005132}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ## Influence Network (Cross-Reference)

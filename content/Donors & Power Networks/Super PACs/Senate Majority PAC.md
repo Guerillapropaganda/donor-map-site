@@ -162,7 +162,7 @@ The class function is donor-first governance wrapped in progressive messaging. S
 
 - ~~[Axios: Schumer-Linked PAC Raises $119M in Q3 2024](https://www.axios.com/2024/10/15/schumer-pac-senate-fundraising)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 - ~~[OpenSecrets: Senate Majority PAC Summary](https://www.opensecrets.org/orgs/senate-majority-pac/summary)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
-- [FEC: Senate Majority PAC Filings](https://www.fec.gov/data/committee/C00484642/) (Tier 1) (VERIFIED)
+- {{src:src_009848}} (Tier 1) (VERIFIED)
 - [Ballotpedia: Senate Majority PAC](https://ballotpedia.org/Senate_Majority_PAC) (Tier 2) (VERIFIED)
 - [Daily Caller: Schumer-Linked Super PAC Trails GOP Counterpart](https://dailycaller.com/2026/01/29/chuck-schumer-pac-republicans-democrats-senate-fundraising/) (Tier 3) (VERIFIED)
 - [Washington Examiner: Schumer's PAC Dark Money Hypocrisy](https://www.washingtonexaminer.com/news/1107241/chuck-schumer-tied-pac-took-81m-from-dark-money-group-as-he-decried-special-interests/) (Tier 3) (VERIFIED)

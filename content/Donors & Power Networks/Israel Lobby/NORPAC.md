@@ -110,7 +110,7 @@ NORPAC's funding is split nearly evenly between parties: $800,218 to Democrats, 
 
 NORPAC increased its spending to $2.7 million in the 2024 elections from $1.6 million in 2022, and increased fundraising events from approximately 40 per year to 60. President Chouake told JNS: "People are distressed. Israel is at war. The house is on fire. People are more active."
 
-- [FEC: NORPAC committee totals by cycle](https://www.fec.gov/data/committee/C00247403/) (Tier 1) (VERIFIED)
+- {{src:src_011919}} (Tier 1) (VERIFIED)
 
 #### Top Recipients (2024 Cycle)
 
@@ -188,8 +188,8 @@ For the vault's framework: NORPAC operates at a different tier than AIPAC or DMF
 - [Jewish Link: NORPAC's Annual Mission to Washington](https://jewishlink.news/norpacs-annual-mission-to-washington-a-day-of-advocacy-for-israel/) (Tier 3) (VERIFIED)
 - [Rep. Schweikert: NORPAC sends 1,200 advocates to DC](https://schweikert.house.gov/2024/05/23/norpac-sends-1200-advocates-to-dc/) (Tier 3) (VERIFIED)
 - [OpenSecrets: NorPAC profile](https://www.opensecrets.org/political-action-committees-pacs/norpac/C00247403/summary/2024) (Tier 1) (VERIFIED)
-- [FEC: NorPAC committee data](https://www.fec.gov/data/committee/C00247403/) (Tier 1) (VERIFIED)
-- [FEC: NORPAC committee totals by cycle](https://www.fec.gov/data/committee/C00247403/) (Tier 1)
+- {{src:src_011919}} (Tier 1) (VERIFIED)
+- {{src:src_011919}} (Tier 1)
 - [OpenSecrets: NorPAC candidate recipients 2024](https://www.opensecrets.org/political-action-committees-pacs/norpac/C00247403/candidate-recipients/2024) (Tier 1) (VERIFIED)
 - [Militarist Monitor: NORPAC profile](https://militarist-monitor.org/profile/norpac/) (Tier 3) (VERIFIED)
 - [Wikipedia: NORPAC](https://en.wikipedia.org/wiki/NORPAC) (Tier 3) (VERIFIED)

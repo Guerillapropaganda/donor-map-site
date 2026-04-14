@@ -155,7 +155,7 @@ Kyle Kulinski represents **the unfunded left**, the structural asymmetry between
 ### Sources
 
 - [FEC Individual Contributions: Kyle Kulinski (28 results, NY, self-employed, 2019-2022)](https://www.fec.gov/data/receipts/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026individual-contributions/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?contributor_name=kyle+kulinski&min_date=01%2F01%2F2015&max_date=12%2F31%2F2026) (Tier 1) (VERIFIED)
-- [FEC Committee Overview: Justice Democrats PAC (C00630665)](https://www.fec.gov/data/committee/C00630665/) (Tier 1) (VERIFIED)
+- {{src:src_005834}} (Tier 1) (VERIFIED)
 - [OpenSecrets: Justice Democrats PAC Profile (2018 cycle)](https://www.opensecrets.org/political-action-committees-pacs/justice-democrats/C00630665/summary/2018) (Tier 1) (VERIFIED)
 - [Jacobin: "Kyle Kulinski Speaks, the Bernie Bros Listen" (Connor Kilpatrick, Mar 2020)](https://jacobin.com/2020/03/kyle-kulinski-bernie-bros-secular-talk-joe-rogan-youtube) (Tier 2) (VERIFIED)
 - [Wikipedia: Kyle Kulinski](https://en.wikipedia.org/wiki/Kyle_Kulinski) (Tier 3) (VERIFIED)

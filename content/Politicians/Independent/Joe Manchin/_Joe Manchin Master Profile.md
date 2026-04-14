@@ -69,7 +69,7 @@ Joe Manchin. Former U.S. Senator from West Virginia (2010–2025). Former Govern
 - **2022:** Manchin ranked #1 oil & gas recipient in entire Senate for 2021–2022 cycle, receiving $835,209 from oil & gas alone in that cycle
 - **Q3 2021 (CEPP blockade period):** $400,000+ from fossil fuel interests in just July–October 2021 while negotiating BBB
 
-Sources: [OpenSecrets Industries pages, 2010–2022 cycles](https://www.fec.gov/data/candidate/S0WV00090/) (Tier 1) (VERIFIED); [E&E News, October 20, 2021](https://www.eenews.net/articles/manchin-has-raked-in-400k-in-fossil-fuel-donations/) (Tier 2) (VERIFIED)
+Sources: {{src:src_001301}} (Tier 1) (VERIFIED); [E&E News, October 20, 2021](https://www.eenews.net/articles/manchin-has-raked-in-400k-in-fossil-fuel-donations/) (Tier 2) (VERIFIED)
 
 ---
 
@@ -168,7 +168,7 @@ The Manchin-Kyrsten Sinema bloc functioned as the donor class's two-person insur
 
 ## Sources
 
-- [FEC Candidate: Joe Manchin Campaign Finance Summary](https://www.fec.gov/data/candidate/S0WV00090/) (Tier 1) (VERIFIED)
+- {{src:src_001301}} (Tier 1) (VERIFIED)
 - [Senate financial disclosures: Enersystems dividends](https://www.senate.gov/senators/senators-contact.htm) (Tier 1) (VERIFIED)
 - [OpenSecrets: Manchin career donors, fossil fuel totals](https://www.opensecrets.org/members-of-congress/summary?displayname=Joe%20Manchin) (Tier 1) (VERIFIED)
 - [Mylan SEC filings: Bresch compensation](https://www.sec.gov/cgi-bin/browse-edgar?company=Joe%20Manchin&CIK=&type=&dateb=&owner=include&count=40&search_text=&action=getcompany) (Tier 1) (VERIFIED)
@@ -204,5 +204,5 @@ The Manchin-Kyrsten Sinema bloc functioned as the donor class's two-person insur
 | NRSC | $0 | $4,805,962 |
 | MAJORITY FORWARD | $2,278,848 | $0 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/S0WV00090/) (Tier 1) (VERIFIED)
+- {{src:src_001301}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->

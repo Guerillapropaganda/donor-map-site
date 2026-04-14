@@ -184,8 +184,8 @@ The class position is swing-state progressive funded by professionals, serving w
 
 ## Sources
 
-- [FEC Candidate: Tammy Baldwin campaign finance summary](https://www.fec.gov/data/candidate/H8WI00018/) (Tier 1) (VERIFIED)
-- [FEC Candidate: Tammy Baldwin career industry breakdown](https://www.fec.gov/data/candidate/H8WI00018/) (Tier 1) (VERIFIED)
+- {{src:src_005115}} (Tier 1) (VERIFIED)
+- {{src:src_005115}} (Tier 1) (VERIFIED)
 - [OpenSecrets: Wisconsin Senate 2024 race summary](https://www.opensecrets.org/races/summary?cycle=2024&id=WIS1&special=N) (Tier 1) (VERIFIED)
 - ~~[Congress.gov: Tammy Baldwin member profile](https://www.congress.gov/member/tammy-baldwin/B001230)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - [Baldwin.senate.gov: Made in America Act announcement](https://www.baldwin.senate.gov/news/press-releases/made-in-america-act) (Tier 1) (VERIFIED)
@@ -225,7 +225,7 @@ The class position is swing-state progressive funded by professionals, serving w
 | LET AMERICA VOTE PAC | $8,884 | $0 |
 | PROTECT THE VOTE | $5,000 | $0 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H8WI00018/) (Tier 1) (VERIFIED)
+- {{src:src_005115}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ### Legislative Activity (Congress.gov)

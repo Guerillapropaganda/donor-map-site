@@ -33,7 +33,7 @@ Total projected spending across all congressional races is projected to exceed $
 > The 2026 House cycle will be defined by competing donor blocs: pro-Israel forces ([[AIPAC - American Israel Public Affairs Committee|AIPAC]]/UDP), crypto platforms (Fairshake, Digital Freedom Fund), AI industry ([[Think Big AI|Think Big AI]], Leading the Future), Trump-aligned super PACs ([[MAGA Inc|MAGA Inc]]), and Koch-network groups ([[Americans for Prosperity|Americans for Prosperity]]).
 
 ### AIPAC / [[United Democracy Project - UDP|United Democracy Project]]: $100M+ war chest, shell PAC strategy
-[[United Democracy Project - UDP|United Democracy Project]] (UDP), AIPAC's super PAC arm, entered 2026 with $78 million raised in the 2025-2026 cycle as of January 2026. [United Democracy Project - FEC.gov](https://www.fec.gov/data/committee/C00799031/) (Tier 1) (VERIFIED)
+[[United Democracy Project - UDP|United Democracy Project]] (UDP), AIPAC's super PAC arm, entered 2026 with $78 million raised in the 2025-2026 cycle as of January 2026. {{src:src_001534}} (Tier 1) (VERIFIED)
 
 In the 2024 cycle, UDP spent roughly $61 million total with about $37.9 million in independent expenditures aimed at House races. [United Democracy Project Recipients, 2024 • OpenSecrets](https://www.opensecrets.org/political-action-committees-pacs/united-democracy-project/C00799031/summary/2024) (Tier 2) (VERIFIED)
 

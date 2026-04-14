@@ -177,7 +177,7 @@ The Hunters Point development makes the class function explicit: Lennar extracte
 - [OpenSecrets: Lennar Corp summary](https://www.opensecrets.org/orgs/lennar-corp/summary?id=D000053016) (Tier 1)
 - [OpenSecrets: Lennar Corp recipients](https://www.opensecrets.org/orgs/lennar-corp/recipients?id=D000053016) (Tier 1) (VERIFIED)
 - [OpenSecrets: Lennar Corp lobbying](https://www.opensecrets.org/orgs/lennar-corp/lobbying?id=D000053016) (Tier 1) (VERIFIED)
-- [FEC: BUILD PAC (NAHB) committee overview](https://www.fec.gov/data/committee/C00000901/) (Tier 1) (VERIFIED)
+- {{src:src_010079}} (Tier 1) (VERIFIED)
 - [OpenSecrets: National Assn of Home Builders summary](https://www.opensecrets.org/orgs/national-assn-of-home-builders/summary?id=D000000086) (Tier 1) (VERIFIED)
 - [Florida Bulldog: FEC lets Lennar Corp's Stuart Miller walk despite making $125,000 in illegal contributions](https://www.floridabulldog.org/2025/04/fec-lets-lennar-corp-stuart-miller-walk-despite-making-125000-illegal-contributions/) (Tier 2) (VERIFIED)
 - [The Real Deal: Stuart Miller won't face fines for $125K in allegedly illegal political donations](https://therealdeal.com/miami/2025/04/08/no-fines-for-stuart-millers-allegedly-illegal-donations/) (Tier 2) (VERIFIED)

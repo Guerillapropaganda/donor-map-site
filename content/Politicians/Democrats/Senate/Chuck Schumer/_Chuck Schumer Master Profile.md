@@ -279,7 +279,7 @@ Schumer's role is not to vote yes or no. His role is to determine what the Senat
 
 ## Sources
 
-- [FEC Candidate: Chuck Schumer Campaign Finance Summary](https://www.fec.gov/data/candidate/H0NY16010/) (Tier 1) (VERIFIED)
+- {{src:src_001236}} (Tier 1) (VERIFIED)
 - [CREW: Majority Forward investigation](https://publicintegrity.org/politics/how-democrats-use-dark-money-and-win-elections/) (Tier 2) (VERIFIED)
 - ~~[Politico: Tech antitrust bill killed without floor vote, $277M tech lobbying](https://www.politico.com/story/2022/03/28/tech-companies-kill-antitrust-bills-1231482)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 - [ProPublica: How Philanthropist David Rubenstein Helped Save a Tax Break Billionaires Love](https://www.propublica.org/article/how-david-rubenstein-helped-save-the-carried-interest-tax-loophole) (Tier 2) (VERIFIED)

@@ -112,7 +112,7 @@ The firing tells the class story most clearly. Trump did not fire Noem for the c
 
 ## Sources
 
-- [FEC Candidate: Kristi Noem campaign finance summary](https://www.fec.gov/data/candidate/H0SD00054/) (Tier 1) (VERIFIED)
+- {{src:src_002936}} (Tier 1) (VERIFIED)
 - [ProPublica: Kristi Noem secretly took personal cut of political donations](https://www.propublica.org/article/kristi-noem-political-donations-income-dark-money-dhs-ethics) (Tier 1) (VERIFIED)
 - [ProPublica: Kristi Noem-tied firm secretly got piece of $220M DHS campaign](https://www.propublica.org/article/kristi-noem-dhs-ad-campaign-strategy-group) (Tier 1) (VERIFIED)
 - ~~[Bloomberg: Trump fires DHS head Kristi Noem amid $240M ad campaign](https://www.bloomberg.com/news/articles/2026-03-07/trump-fires-dhs-head-kristi-noem-amid-240-million-ad-campaign)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)

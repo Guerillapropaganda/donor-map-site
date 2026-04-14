@@ -224,7 +224,7 @@ In 2018, Massachusetts held a non-binding referendum on "Medicare for All." In R
 | INDIVISIBLE ACTION | $0 | $302,147 |
 | NATIONAL ASSOCIATION OF REALTORS POLITICAL ACTION COMMITTEE | $126,197 | $0 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H8MA02041/) (Tier 1) (VERIFIED)
+- {{src:src_001197}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ### Legislative Activity (GovTrack)

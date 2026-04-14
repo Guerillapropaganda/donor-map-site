@@ -137,7 +137,7 @@ Lawler's legislative record and rhetoric emphasize constituent service, bipartis
 ## Sources
 
 - ~~[Rep. Mike Lawler Campaign Finance Summary: OpenSecrets](https://www.congress.gov/search?q=Mike%20Lawler&searchResultViewType=expanded)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
-- [LAWLER, MICHAEL VINCENT Candidate Overview: FEC.gov](https://www.fec.gov/data/candidate/H2NY17162/) (Tier 1) (VERIFIED)
+- {{src:src_004282}} (Tier 1) (VERIFIED)
 - [Elon Musk spends millions on Republican candidates in key NY, NJ races: Gothamist](https://gothamist.com/news/elon-musk-spends-millions-on-republican-candidates-in-key-ny-nj-races) (Tier 2) (VERIFIED)
 - [Elon Musk's PAC among Mike Lawler's biggest outside spenders: Yahoo Finance](https://finance.yahoo.com/news/elon-musks-pac-among-mike-142004964.html) (Tier 2) (VERIFIED)
 - [Mike Lawler for Congress Official Website](https://www.lawlerforcongress.com/about/) (Tier 4) (VERIFIED)

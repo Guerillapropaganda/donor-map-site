@@ -93,14 +93,14 @@ Cori Bush. Born July 21, 1976, St. Louis, Missouri. U.S. Representative for Miss
 
 ## The Central Thesis
 
-Bush's political trajectory is a case study in how the donor class neutralizes progressive insurgents through a multi-pressure vector strategy. The triggering event is legible in the Congressional record: on October 25, 2023, Bush introduced [H.Res. 786](https://www.congress.gov/bill/118th-congress/house-resolution/786) (VERIFIED), "Calling for an immediate deescalation and cease-fire in Israel and occupied Palestine" — one of the earliest such resolutions in Congress after the October 7 Hamas attack and the Israeli military response. She became a named sponsor of a Gaza ceasefire before AIPAC had finished calibrating its 2024 primary-intervention list. Within months, AIPAC's United Democracy Project spent **$9,956,554 in independent expenditures opposing her** (per [FEC IE data](https://www.fec.gov/data/candidate/H8MO01143/)), making her the single largest AIPAC spending target of the 2024 cycle. Fairshake PAC, the crypto industry's election vehicle, added another $2,789,872 in opposition, bringing combined IE opposition to **$13.97 million** against a candidate whose own 2024 fundraising totaled $4.17M — a **3.3-to-1 opposition-to-fundraising ratio**. Justice Democrats PAC countered with $2.76M in support, but was outspent 5-to-1. Her subsequent federal indictment over campaign security payments (~$750K total, including $102,500+ to her husband) compounds her political vulnerability. Whether the indictment is politically motivated or reflects genuine misconduct, the sequencing tells the story: ceasefire resolution, AIPAC targeting, primary loss, DOJ investigation, indictment. Multiple pressure vectors converging on a progressive legislator who broke with the donor class consensus on Israel.
+Bush's political trajectory is a case study in how the donor class neutralizes progressive insurgents through a multi-pressure vector strategy. The triggering event is legible in the Congressional record: on October 25, 2023, Bush introduced [H.Res. 786](https://www.congress.gov/bill/118th-congress/house-resolution/786) (VERIFIED), "Calling for an immediate deescalation and cease-fire in Israel and occupied Palestine" — one of the earliest such resolutions in Congress after the October 7 Hamas attack and the Israeli military response. She became a named sponsor of a Gaza ceasefire before AIPAC had finished calibrating its 2024 primary-intervention list. Within months, AIPAC's United Democracy Project spent **$9,956,554 in independent expenditures opposing her** (per {{src:src_006283}}), making her the single largest AIPAC spending target of the 2024 cycle. Fairshake PAC, the crypto industry's election vehicle, added another $2,789,872 in opposition, bringing combined IE opposition to **$13.97 million** against a candidate whose own 2024 fundraising totaled $4.17M — a **3.3-to-1 opposition-to-fundraising ratio**. Justice Democrats PAC countered with $2.76M in support, but was outspent 5-to-1. Her subsequent federal indictment over campaign security payments (~$750K total, including $102,500+ to her husband) compounds her political vulnerability. Whether the indictment is politically motivated or reflects genuine misconduct, the sequencing tells the story: ceasefire resolution, AIPAC targeting, primary loss, DOJ investigation, indictment. Multiple pressure vectors converging on a progressive legislator who broke with the donor class consensus on Israel.
 
 ---
 
 ## The Core Contradiction
 
 > [!contradiction]
-> **Anti-establishment brand vs. self-dealing conduct.** Bush ran as a grassroots activist and was destroyed by establishment spending ($9.96M AIPAC, $2.79M Fairshake — per [FEC IE data](https://www.fec.gov/data/candidate/H8MO01143/)). The DOJ then indicted her over $102K in security payments to her husband ([Time, 2024](https://time.com/6590139/cori-bush-justice-department-investigation-security-spending/)). Both facts are true simultaneously: she was genuinely targeted by donor-class spending AND she engaged in conduct (paying family members from campaign funds for unlicensed services) that undermines the anti-corruption brand. The contradiction is structural, not resolvable — it demonstrates that progressive insurgents face both external destruction (AIPAC) and internal vulnerability (self-dealing). Resolution: documented as inherent tension, not factual dispute. Both claims are FEC/DOJ sourced.
+> **Anti-establishment brand vs. self-dealing conduct.** Bush ran as a grassroots activist and was destroyed by establishment spending ($9.96M AIPAC, $2.79M Fairshake — per {{src:src_006283}}). The DOJ then indicted her over $102K in security payments to her husband ([Time, 2024](https://time.com/6590139/cori-bush-justice-department-investigation-security-spending/)). Both facts are true simultaneously: she was genuinely targeted by donor-class spending AND she engaged in conduct (paying family members from campaign funds for unlicensed services) that undermines the anti-corruption brand. The contradiction is structural, not resolvable — it demonstrates that progressive insurgents face both external destruction (AIPAC) and internal vulnerability (self-dealing). Resolution: documented as inherent tension, not factual dispute. Both claims are FEC/DOJ sourced.
 
 ---
 
@@ -206,8 +206,8 @@ The DOJ indictment over $102,500 in security payments to Bush's husband compound
 ## Sources
 
 #### Verified
-- [FEC Candidate: Cori Bush campaign finance summary](https://www.fec.gov/data/candidate/H8MO01143/) (Tier 1) (VERIFIED)
-- [FEC: Bush campaign committee C00638767](https://www.fec.gov/data/committee/C00638767/) (Tier 1) (VERIFIED)
+- {{src:src_006283}} (Tier 1) (VERIFIED)
+- {{src:src_006287}} (Tier 1) (VERIFIED)
 - [GovTrack: Cori Bush voting record](https://www.govtrack.us/congress/members/456829) (Tier 1)
 - [NBC News: Bush loses primary to Bell amid AIPAC spending](https://www.nbcnews.com/politics/2024-election/rep-cori-bush-loses-democratic-primary-campaign-onslaught-israel-group-rcna165306) (Tier 2) (VERIFIED)
 - [Time: Cori Bush DOJ investigation into security spending](https://time.com/6590139/cori-bush-justice-department-investigation-security-spending/) (Tier 2) (VERIFIED)
@@ -366,7 +366,7 @@ The DOJ indictment over $102,500 in security payments to Bush's husband compound
 | MAINSTREAM DEMOCRATS PAC | $0 | $992,222 |
 | WORKING FAMILIES PARTY PAC | $878,370 | $0 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H8MO01143/) (Tier 1)
+- {{src:src_006283}} (Tier 1)
 <!-- auto:fec-politician end -->
 
 ## Committee Assignments (Congress.gov)
@@ -459,7 +459,7 @@ _No committee data found._
 | 2020 | $1,429,837 | $1,345,334 | 84502.71 |
 | 2018 | $177,038 | $177,038 | 0.00 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H8MO01143/) (Tier 1)
+- {{src:src_006283}} (Tier 1)
 <!-- auto:fec-summary end -->
 
 ### Wikipedia

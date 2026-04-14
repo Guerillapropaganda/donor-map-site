@@ -277,9 +277,9 @@ The class function Khanna serves: he demonstrates that progressive politics can 
 
 ## Sources
 
-- [FEC Candidate: Ro Khanna campaign finance summary (career)](https://www.fec.gov/data/candidate/H4CA12055/) (Tier 1) (VERIFIED)
-- [FEC Candidate: Ro Khanna campaign finance summary (2024 cycle)](https://www.fec.gov/data/candidate/H4CA12055/) (Tier 1) (VERIFIED)
-- [FEC: Khanna candidate overview (H4CA12055)](https://www.fec.gov/data/candidate/H4CA12055/) (Tier 1) (VERIFIED)
+- {{src:src_005869}} (Tier 1) (VERIFIED)
+- {{src:src_005869}} (Tier 1) (VERIFIED)
+- {{src:src_005869}} (Tier 1) (VERIFIED)
 - [Congress.gov: Ro Khanna member profile](https://www.congress.gov/member/ro-khanna/K000389) (Tier 1) (VERIFIED)
 - [Khanna.house.gov: Statement on lone NDAA no vote](https://khanna.house.gov/media/press-releases/statement-khanna-long-no-vote-ndaa-out-house-armed-services-committee) (Tier 1) (VERIFIED)
 - [Common Dreams: Khanna says he is "proud" of lone no vote against $886B military budget](https://www.commondreams.org/news/khanna-no-vote-military-budget) (Tier 2) (VERIFIED)
@@ -364,7 +364,7 @@ The class function Khanna serves: he demonstrates that progressive politics can 
 | OHLONE AREA UNITED DEMOCRATIC CAMPAIGN | $13,246 | $0 |
 | HE'S GOTTA GO PAC | $1,750 | $4,715 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H4CA12055/) (Tier 1) (VERIFIED)
+- {{src:src_005869}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ### DOJ Press Releases
@@ -496,7 +496,7 @@ The class function Khanna serves: he demonstrates that progressive politics can 
 | 2016 | $3,732,538 | $3,679,116 | 55091.87 |
 | ... | 3 more cycles available | | |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H4CA12055/) (Tier 1)
+- {{src:src_005869}} (Tier 1)
 <!-- auto:fec-summary end -->
 
 ### Wikipedia

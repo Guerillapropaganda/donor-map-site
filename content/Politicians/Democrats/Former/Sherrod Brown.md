@@ -171,7 +171,7 @@ The class lesson Brown's defeat teaches is that labor movements cannot own polit
 ### Sources
 
 #### Verified
-- [FEC Candidate: Sherrod Brown campaign finance summary](https://www.fec.gov/data/candidate/H2OH13033/) (Tier 1) (VERIFIED)
+- {{src:src_001996}} (Tier 1) (VERIFIED)
 - ~~[AFL-CIO Scorecard: Sherrod Brown labor voting record](https://aflcio.org/scorecard/legislators/sherrod-brown)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - [WOSU Public Media: Crypto spent millions to defeat Sherrod Brown and elect allies](https://www.wosu.org/politics-government/2025-10-13/crypto-spent-millions-to-defeat-sherrod-brown-and-elect-allies-its-ready-for-a-repeat-in-2026) (Tier 2) (VERIFIED)
 - [CNBC: Bitcoiners celebrate as Bernie Moreno ousts Sherrod Brown](https://www.cnbc.com/2024/11/05/bitcoiners-celebrate-as-bernie-moreno-ousts-sherrod-brown-ohio-upset.html) (Tier 2) (VERIFIED)
@@ -209,7 +209,7 @@ The class lesson Brown's defeat teaches is that labor movements cannot own polit
 | GOOD JOBS AND STRONG COMMUNITIES PAC | $10,000 | $0 |
 | STARS AND STRIPES FOREVER PAC | $0 | $7,341 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H2OH13033/) (Tier 1) (VERIFIED)
+- {{src:src_001996}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 <!-- auto:fec-politician pending-merge 2026-04-13 -->
@@ -246,7 +246,7 @@ The class lesson Brown's defeat teaches is that labor movements cannot own polit
 | WINSENATE | $12,170,854 | $0 |
 | CROSSROADS GRASSROOTS POLICY STRATEGIES | $0 | $11,968,181 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/S6OH00163/) (Tier 1) (VERIFIED)
+- {{src:src_006846}} (Tier 1) (VERIFIED)
 
 <!-- auto:fec-politician pending-merge end -->
 
@@ -336,7 +336,7 @@ The class lesson Brown's defeat teaches is that labor movements cannot own polit
 | 2012 | $24,831,022 | $24,567,107 | 551089.00 |
 | 2006 | $8,937,005 | $10,752,667 | 287174.00 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/S6OH00163/) (Tier 1)
+- {{src:src_006846}} (Tier 1)
 <!-- auto:fec-summary end -->
 
 ### Committee Assignments (Congress.gov)

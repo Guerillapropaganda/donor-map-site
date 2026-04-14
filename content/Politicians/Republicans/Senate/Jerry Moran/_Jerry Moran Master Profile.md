@@ -155,8 +155,8 @@ The aviation side completes the Kansas donor map. Moran chairs the Commerce Subc
 
 ## Sources
 
-- [FEC Candidate: Jerry Moran donor profile](https://www.fec.gov/data/candidate/H6KS01096/) (Tier 1) (NEEDS REVIEW)
-- [FEC Candidate: Jerry Moran industry donors](https://www.fec.gov/data/candidate/H6KS01096/) (Tier 1) (VERIFIED)
+- {{src:src_003589}} (Tier 1) (NEEDS REVIEW)
+- {{src:src_003589}} (Tier 1) (VERIFIED)
 - [Senate.gov: Moran biography](https://www.moran.senate.gov/public/index.cfm/biography) (Tier 1) (VERIFIED)
 - ~~[Senate.gov: Moran appointed to committees for 119th Congress](https://www.moran.senate.gov/public/index.cfm/2025/1/sen-moran-appointed-to-influential-committees-for-the-119th-congress)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - ~~[Senate.gov: Moran Aviation Subcommittee chair](https://www.moran.senate.gov/public/index.cfm/2025/2/sen-moran-to-chair-the-senate-commerce-subcommittee-on-aviation-space-and-innovation)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
@@ -218,7 +218,7 @@ The aviation side completes the Kansas donor map. Moran chairs the Commerce Subc
 | PLANNED PARENTHOOD OF KS & MID-MO | $0 | $7 |
 | PLANNED PARENTHOOD ACTION FUND INC | $0 | $2 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H6KS01096/) (Tier 1) (VERIFIED)
+- {{src:src_003589}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ## Voting Record

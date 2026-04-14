@@ -40,7 +40,7 @@ The pattern: Paul's libertarianism is deployed against government functions that
 
 ### Sources
 
-- [FEC Candidate: Rand Paul donor profile](https://www.fec.gov/data/candidate/H4OH19044/) (Tier 1) (VERIFIED)
+- {{src:src_003284}} (Tier 1) (VERIFIED)
 - ~~[Congress.gov: Rand Paul voting record](https://www.congress.gov/member/rand-paul/P000603)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - [Senate.gov: Paul filibuster records](https://www.senate.gov/senators/senators-contact.htm) (Tier 1) (VERIFIED)
 - [Ballotpedia: Rand Paul](https://ballotpedia.org/Rand_Paul) (Tier 3) (VERIFIED)

@@ -39,7 +39,7 @@ WinRed. The Republican Party's official online fundraising platform, launched in
 
 WinRed's political significance extends beyond transaction processing. The platform has been criticized for using dark patterns — pre-checked recurring donation boxes, confusing opt-out language, and aggressive default settings — that resulted in millions of dollars in unwitting recurring charges to donors. The New York Times reported in 2021 that the Trump campaign refunded $122 million in donations that were charged through pre-checked recurring boxes donors did not intentionally authorize.
 
-- [FEC: WinRed filings](https://www.fec.gov/data/committee/C00694323/) (Tier 1) (VERIFIED)
+- {{src:src_009904}} (Tier 1) (VERIFIED)
 
 ---
 
@@ -71,7 +71,7 @@ The Trump campaign's $122 million in refunds represents only the donors who succ
 
 ### Sources
 
-- [FEC: WinRed committee filings](https://www.fec.gov/data/committee/C00694323/) (Tier 1) (VERIFIED)
+- {{src:src_009904}} (Tier 1) (VERIFIED)
 - ~~[New York Times: Trump's campaign refunded $122 million in recurring donations](https://www.nytimes.com/2021/04/03/us/politics/trump-donations.html)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 - [Washington Post: Four states' AGs investigate pre-checked recurring donation boxes on WinRed and ActBlue](https://www.washingtonpost.com/local/md-politics/attorney-generals-donations-winred-actblue/2021/07/08/671a6af6-e045-11eb-ae31-6b7c5c34f0d6_story.html) (Tier 2) (VERIFIED)
 - [Ballotpedia: WinRed](https://ballotpedia.org/WinRed) (Tier 3) (VERIFIED)

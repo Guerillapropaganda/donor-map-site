@@ -205,4 +205,4 @@ The 2024 campaign is the vault's definitive case study: the donor class spent re
 **Class analysis angle:** 736,000+ small-dollar donors who gave to Harris's campaign are now in the DNC's possession. Their data, giving patterns, contact info, fundraising response rates, is the party's most valuable midterm organizing asset. They gave to Harris; the party bought their information to use for 2026.
 
 - [National Today. DNC bought Kamala Harris donor list for $6.5M](https://nationaltoday.com/us/ny/new-york/news/2026/02/17/dnc-bought-kamala-harris-donor-list-for-6-5m-after-2024-election/) (Tier 2) (VERIFIED)
-- [FEC. Fight for the People PAC committee overview](https://www.fec.gov/data/committee/C00703975/) (Tier 1) (VERIFIED)
+- {{src:src_005027}} (Tier 1) (VERIFIED)

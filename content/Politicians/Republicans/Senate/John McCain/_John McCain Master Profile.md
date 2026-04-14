@@ -77,7 +77,7 @@ His opposition to Trump's tariffs on China (2018) and defense budget cuts (2017)
 
 ## Sources
 
-- [FEC Candidate: John McCain donor profile](https://www.fec.gov/data/candidate/H2AZ01024/) (Tier 1) (VERIFIED)
+- {{src:src_003506}} (Tier 1) (VERIFIED)
 - [FEC campaign finance records: McCain presidential 2008](https://www.fec.gov) (Tier 1) (VERIFIED)
 - [Defense Industry Donations to John McCain](https://publicintegrity.org) (Tier 2) (VERIFIED)
 - [Keating Five scandal: Senate Ethics Committee investigation](https://www.senate.gov) (Tier 1) (VERIFIED)
@@ -118,7 +118,7 @@ His opposition to Trump's tariffs on China (2018) and defense budget cuts (2017)
 |-----------|---------|--------|
 | NRA POLITICAL VICTORY FUND | $0 | $77 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H2AZ01024/) (Tier 1) (VERIFIED)
+- {{src:src_003506}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ## Voting Record
@@ -145,5 +145,5 @@ His opposition to Trump's tariffs on China (2018) and defense budget cuts (2017)
 | 1984 | $707,083 | $524,237 | 192781.00 |
 | 1982 | $454,665 | $442,760 | 0.00 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H2AZ01024/) (Tier 1)
+- {{src:src_003506}} (Tier 1)
 <!-- auto:fec-summary end -->

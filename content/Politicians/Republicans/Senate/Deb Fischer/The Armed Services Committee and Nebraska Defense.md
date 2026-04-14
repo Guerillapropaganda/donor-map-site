@@ -39,7 +39,7 @@ Nebraska's economy runs on agriculture (beef, corn, soybeans) and defense (STRAT
 ### Sources
 
 - ~~[Congress.gov: Deb Fischer member profile](https://www.congress.gov/member/deb-fischer/F000463)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
-- [FEC Candidate: Deb Fischer campaign finance summary](https://www.fec.gov/data/candidate/S2NE00094/) (Tier 1) (VERIFIED)
+- {{src:src_003615}} (Tier 1) (VERIFIED)
 - ~~[CBO: Nuclear triad modernization cost estimates](https://www.cbo.gov/publication/57240)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - [Ballotpedia: Deb Fischer](https://ballotpedia.org/Deb_Fischer) (Tier 3) (VERIFIED)
 

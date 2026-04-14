@@ -74,7 +74,7 @@ Kelly's public identity: Gun control advocate married to a shooting survivor, Gi
 
 ### Sources
 
-- [FEC Candidate: Mark Kelly donor profile and campaign finance](https://www.fec.gov/data/candidate/S0AZ00350/) (Tier 1) (VERIFIED)
+- {{src:src_001217}} (Tier 1) (VERIFIED)
 - [OpenSecrets: Armed Services Committee members defense sector donations 2022](https://www.opensecrets.org/news/2023/03/armed-services-committee-members-received-5-8-million-from-defense-sector-during-2022-election-cycle) (Tier 1) (VERIFIED)
 - [The Intercept: Exxon, Big Pharma, Wall Street lobbyists host Kelly fundraiser](https://theintercept.com/2019/03/12/mark-kelly-senate-lobbying-fundraiser/) (Tier 2) (VERIFIED)
 - [Breaking Defense: Mark Kelly, Ranking Member Armed Services Subcommittee](https://breakingdefense.com/2025/09/whos-who-in-defense-mark-kelly-ranking-member-senate-armed-services-sasc-subcommittee-of-airland/) (Tier 2) (VERIFIED)
@@ -112,7 +112,7 @@ Kelly's public identity: Gun control advocate married to a shooting survivor, Gi
 | CLUB FOR GROWTH ACTION | $0 | $12,643,765 |
 | THE SENTINEL ACTION FUND | $0 | $10,655,338 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/S0AZ00350/) (Tier 1) (VERIFIED)
+- {{src:src_001217}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ### DOJ Press Releases

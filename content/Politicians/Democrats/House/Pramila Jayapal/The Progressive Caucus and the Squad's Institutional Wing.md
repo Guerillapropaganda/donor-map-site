@@ -59,7 +59,7 @@ The structural limit: small-dollar fundraising works for individual members in s
 
 ### Sources
 
-- [FEC Candidate: Pramila Jayapal donor profile](https://www.fec.gov/data/candidate/H6WA07458/) (Tier 1) (VERIFIED)
+- {{src:src_005955}} (Tier 1) (VERIFIED)
 - [Congress.gov: Medicare for All Act co-sponsors](https://www.congress.gov/bill/118th-congress/house-bill/3421/cosponsors) (Tier 1) (VERIFIED)
 - [Ballotpedia: Pramila Jayapal](https://ballotpedia.org/Pramila_Jayapal) (Tier 3) (VERIFIED)
 

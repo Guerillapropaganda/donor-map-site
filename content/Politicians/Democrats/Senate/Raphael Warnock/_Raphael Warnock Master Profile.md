@@ -254,9 +254,9 @@ The healthcare positioning makes the mechanism visible. Warnock pastors a church
 
 ## Sources
 
-- [FEC Candidate: Raphael Warnock Campaign Finance Summary](https://www.fec.gov/data/candidate/S0GA00559/) (Tier 1) (VERIFIED)
-- [FEC: Raphael Warnock Candidate Profile](https://www.fec.gov/data/candidate/S0GA00559/) (Tier 1) (VERIFIED)
-- [FEC Candidate: Warnock 2022 Industries](https://www.fec.gov/data/candidate/S0GA00559/) (Tier 1) (VERIFIED)
+- {{src:src_001214}} (Tier 1) (VERIFIED)
+- {{src:src_001214}} (Tier 1) (VERIFIED)
+- {{src:src_001214}} (Tier 1) (VERIFIED)
 - [Newsweek: Raphael Warnock's Campaign Cash Is Coming From Everywhere But Georgia](https://www.newsweek.com/raphael-warnocks-campaign-cash-coming-everywhere-georgia-1752452) (Tier 2) (VERIFIED)
 - [Yahoo: Sen. Raphael Warnock Gets 73% More Campaign Contributions From California Donors Than Georgia](https://www.yahoo.com/entertainment/sen-raphael-warnock-gets-73-225439165.html) (Tier 2) (VERIFIED)
 - [Washington Post: Ebenezer Baptist: MLK's church central to Raphael Warnock's Senate victory in Georgia](https://www.washingtonpost.com/history/2021/01/03/ebenezer-baptist-king-mlk-warnock/) (Tier 2) (VERIFIED)
@@ -295,7 +295,7 @@ The healthcare positioning makes the mechanism visible. Warnock pastors a church
 | NRSC | $0 | $23,545,584 |
 | WORKER POWER PAC FOR GEORGIA | $8,030,000 | $0 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/S0GA00559/) (Tier 1) (VERIFIED)
+- {{src:src_001214}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ### Legislative Activity (GovTrack)

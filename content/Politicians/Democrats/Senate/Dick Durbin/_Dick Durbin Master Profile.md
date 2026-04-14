@@ -204,7 +204,7 @@ Durbin's retirement in 2027 confirms the model's sustainability. Forty-four year
 - ~~[Congress.gov: Dick Durbin campaign finance summary](https://www.congress.gov/search?q=Dick%20Durbin&searchResultViewType=expanded)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - ~~[Congress.gov: Dick Durbin career industries](https://www.congress.gov/search?q=Dick%20Durbin&searchResultViewType=expanded)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - ~~[Congress.gov: Dick Durbin career contributors](https://www.congress.gov/search?q=Dick%20Durbin&searchResultViewType=expanded)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
-- [FEC: Richard J. Durbin candidate overview](https://www.fec.gov/data/candidate/S6IL00151/) (Tier 1) (VERIFIED)
+- {{src:src_005477}} (Tier 1) (VERIFIED)
 - [Senate Judiciary Committee: Durbin celebrates 235 federal judges confirmed during Biden administration](https://www.judiciary.senate.gov/press/dem/releases/durbin-celebrates-235-federal-judges-confirmed-during-the-biden-harris-administration) (Tier 1) (VERIFIED)
 - [PBS NewsHour: Senate confirms 235th federal judge under Biden](https://www.pbs.org/newshour/politics/senate-confirms-235th-judge-under-bidens-presidency-beating-trumps-first-term-tally) (Tier 2) (VERIFIED)
 - [Payments Dive: Durbin to reintroduce credit card competition bill (Jan 2026)](https://www.paymentsdive.com/news/durbin-marshall-senate-credit-card-competition-act-bill/740921/) (Tier 2) (VERIFIED)

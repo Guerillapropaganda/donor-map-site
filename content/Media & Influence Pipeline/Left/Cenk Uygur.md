@@ -174,7 +174,7 @@ Patterns present: **Independence Theater**, **Audience Capture**, **Revolving Do
 - [Variety: Jeffrey Katzenberg's WndrCo Invests in TYT Network as Part of $20 Million Round](https://variety.com/2017/digital/news/young-turks-jeffrey-katzenberg-wndrco-funding-1202518938/) (Tier 2) (VERIFIED)
 - [Tubefilter: The Young Turks Raises $20 Million From Jeffrey Katzenberg's WndrCo, Greycroft, 3L Capital, More](https://www.tubefilter.com/2017/08/08/the-young-turks-20-million-funding-jeffrey-katzenberg-wndrco/) (Tier 3) (VERIFIED)
 - [TheWrap: The Young Turks Raise $4 Million From a Republican Politician](https://www.thewrap.com/young-turks-raise-4-million-republican-politician/) (Tier 2) (VERIFIED)
-- [FEC: UYGUR, CENK. Candidate overview (P40015752)](https://www.fec.gov/data/candidate/P40015752/) (Tier 1) (VERIFIED)
+- {{src:src_001494}} (Tier 1) (VERIFIED)
 - ~~[The Hill: Democratic presidential candidate Cenk Uygur raises more than $250K since campaign launch](https://thehill.com/homenews/campaign/4327418-democratic-presidential-candidate-cenk-uygur-raises-250k/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 - [The New Republic: The Myth of the Progressive Boss](https://newrepublic.com/article/156757/myth-progressive-boss) (Tier 2) (VERIFIED)
 - [In These Times: The Young Turks Union Fight Gets Nastier With Charges of Retaliatory Firing, Withholding Raises](https://inthesetimes.com/article/the-young-turks-union-cenk-uygur-labor-organizing) (Tier 2) (VERIFIED)

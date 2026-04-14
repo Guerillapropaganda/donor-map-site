@@ -176,11 +176,11 @@ Estimated net worth: $218,000 (439th highest in Congress as of January 2026). Mi
 
 ## Sources
 
-- [FEC Candidate: Pete Aguilar campaign finance summary](https://www.fec.gov/data/candidate/H2CA31125/) (Tier 1) (VERIFIED)
-- [FEC Candidate: Pete Aguilar top contributors — career](https://www.fec.gov/data/candidate/H2CA31125/) (Tier 1) (VERIFIED)
-- [FEC Candidate: Pete Aguilar top contributors — 2024 cycle](https://www.fec.gov/data/candidate/H2CA31125/) (Tier 1) (VERIFIED)
-- [FEC Candidate: Pete Aguilar industries breakdown — 2024 cycle](https://www.fec.gov/data/candidate/H2CA31125/) (Tier 1) (VERIFIED)
-- [FEC: Aguilar campaign finance filings](https://www.fec.gov/data/candidate/H2CA31125/) (Tier 1) (VERIFIED)
+- {{src:src_005967}} (Tier 1) (VERIFIED)
+- {{src:src_005967}} (Tier 1) (VERIFIED)
+- {{src:src_005967}} (Tier 1) (VERIFIED)
+- {{src:src_005967}} (Tier 1) (VERIFIED)
+- {{src:src_005967}} (Tier 1) (VERIFIED)
 - ~~[Congress.gov: H.R.8034 — Israel Security Supplemental Appropriations Act, 2024](https://www.congress.gov/bill/118th-congress/house-bill/8034)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - ~~[Congress.gov: Pete Aguilar](https://www.congress.gov/member/pete-aguilar/A000371)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - [Quiver Quantitative: Aguilar net worth](https://www.quiverquant.com/congresstrading/politician/Pete%20Aguilar-A000371/net-worth) (Tier 3) (VERIFIED)
@@ -221,7 +221,7 @@ Estimated net worth: $218,000 (439th highest in Congress as of January 2026). Mi
 | WOMEN VOTE! | $0 | $87,812 |
 | COOPERATIVE OF AMERICAN PHYSICIANS INDEPENDENT EXPENDITURE COMMITTEE | $45,992 | $0 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H2CA31125/) (Tier 1) (VERIFIED)
+- {{src:src_005967}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ### Legislative Activity (Congress.gov)

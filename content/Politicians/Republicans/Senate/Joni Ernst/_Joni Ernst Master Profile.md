@@ -202,7 +202,7 @@ Retirement avoided the risk of a difficult 2026 campaign while preserving her ex
 
 ## Sources
 
-- [FEC Candidate: Sen. Joni Ernst campaign finance summary](https://www.fec.gov/data/candidate/S4IA00129/) (Tier 1) (VERIFIED)
+- {{src:src_003449}} (Tier 1) (VERIFIED)
 - ~~[The Hill: Kochs max out for Iowa Republican](https://www.thehill.com/blogs/ballot-box/senate-races/212609-kochs-max-out-for-ernst-in-iowa/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 - ~~[Real Koch Facts: More Koch Money for Top Crony Joni Ernst](http://realkochfacts.com/more-koch-money-for-top-crony-joni-ernst/)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3)
 - [Think Progress: Iowa Senate Nominee Says The Koch Network 'Started My Trajectory'](https://thinkprogress.org/iowa-senate-nominee-says-the-koch-network-started-my-trajectory-56712b88d7e/) (Tier 2) (VERIFIED)

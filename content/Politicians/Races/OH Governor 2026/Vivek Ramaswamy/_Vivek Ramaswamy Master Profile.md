@@ -128,7 +128,7 @@ Vivek Ramaswamy. DOGE co-lead (32 days, November 2024–January 2025). Now runni
 ## Sources
 
 ### Verified
-- [FEC: Vivek Ramaswamy 2024 Presidential Campaign](https://www.fec.gov/data/candidate/P40011082/) (Tier 1) (VERIFIED)
+- {{src:src_004728}} (Tier 1) (VERIFIED)
 - [SEC EDGAR: Roivant Sciences filings and ownership structure](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=roivant&CIK=&type=&dateb=&owner=include&count=40&search_text=&action=getcompany) (Tier 1) (VERIFIED)
 - ~~[Washington Post: Vivek Ramaswamy's push for FDA changes could boost his wealth](https://www.washingtonpost.com/business/2024/11/25/vivek-ramaswamy-conflicts-doge-fda/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 - [Fortune: DOGE departure and Musk conflict](https://fortune.com/2025/01/21/doge-elon-musk-vivek-ramaswamy-departure-donald-trump-presidency/) (Tier 2) (VERIFIED)

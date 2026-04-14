@@ -72,7 +72,7 @@ His 2020 impeachment vote (one of seven Republicans voting to convict) demonstra
 
 ## Sources
 
-- [FEC Candidate: Mitt Romney donor profile](https://www.fec.gov/data/candidate/P80003353/) (Tier 1) (VERIFIED)
+- {{src:src_003307}} (Tier 1) (VERIFIED)
 - [FEC campaign finance records: Romney 2012 presidential](https://www.fec.gov) (Tier 1) (VERIFIED)
 - [Bain Capital leveraged buyout model and investment performance](https://www.sec.gov) (Tier 1) (VERIFIED)
 - [Romney "47 percent" comment: leaked video, 2012](https://www.youtube.com/watch?v=J2SLM7ktjUU) (Tier 3) (VERIFIED)
@@ -110,7 +110,7 @@ His 2020 impeachment vote (one of seven Republicans voting to convict) demonstra
 | AMERICAN CROSSROADS | $11,481,126 | $0 |
 | AMERICANS FOR RESPONSIBLE LEADERSHIP | $9,633,565 | $0 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/P80003353/) (Tier 1) (VERIFIED)
+- {{src:src_003307}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ### Legislative Activity (GovTrack)

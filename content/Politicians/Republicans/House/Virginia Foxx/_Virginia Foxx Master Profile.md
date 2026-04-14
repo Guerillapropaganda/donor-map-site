@@ -53,8 +53,8 @@ Virginia Foxx. Republican, North Carolina's 5th District. Chair of the House Edu
 
 Net worth: $3.4–$10.5 million (2023 financial disclosure). Age 82 (born 1943). Ph.D. from UNC Greensboro. Now in her 11th term.
 
-- [FEC Candidate: Virginia Foxx campaign finance summary](https://www.fec.gov/data/candidate/H4NC05146/) (Tier 1) (VERIFIED)
-- [FEC: Virginia Ann Foxx candidate overview](https://www.fec.gov/data/candidate/H4NC05146/) (Tier 1) (VERIFIED)
+- {{src:src_004136}} (Tier 1) (VERIFIED)
+- {{src:src_004136}} (Tier 1) (VERIFIED)
 
 ---
 
@@ -102,7 +102,7 @@ McDonald's, Lowe's, Deere & Company, Discover Financial Services, Caterpillar, A
 - 36.72% PAC contributions
 - 2.23% small individual contributions
 
-- [FEC Candidate: Virginia Foxx contributors](https://www.fec.gov/data/candidate/H4NC05146/) (Tier 1) (VERIFIED)
+- {{src:src_004136}} (Tier 1) (VERIFIED)
 
 ---
 
@@ -181,8 +181,8 @@ Virginia Foxx serves the for-profit education industry and its private equity ba
 
 ## Sources
 
-- [FEC Candidate: Virginia Foxx campaign finance summary](https://www.fec.gov/data/candidate/H4NC05146/) (Tier 1)
-- [FEC: Virginia Ann Foxx candidate overview](https://www.fec.gov/data/candidate/H4NC05146/) (Tier 1)
+- {{src:src_004136}} (Tier 1)
+- {{src:src_004136}} (Tier 1)
 - [House Education and Workforce Committee: Full committee membership](https://edworkforce.house.gov/committee/fullcommittee.htm) (Tier 1) (VERIFIED)
 - [EdWorkforce Committee: Chair Foxx releases new report on student debt](https://edworkforce.house.gov/news/documentsingle.aspx?DocumentID=412129) (Tier 1) (VERIFIED)
 - [Republic Report: As House Education Chair Probes For-Profit Colleges, Ranking Republican Foxx Takes Their Donations](https://www.republicreport.org/2022/as-house-education-chair-probes-for-profit-colleges-ranking-republican-foxx-takes-their-donations/) (Tier 2)

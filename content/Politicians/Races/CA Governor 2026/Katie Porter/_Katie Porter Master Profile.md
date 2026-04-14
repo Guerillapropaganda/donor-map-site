@@ -207,7 +207,7 @@ The labor endorsement pattern reveals something: the industrial unions (Teamster
 ## Sources
 
 ### Verified
-- ~~[FEC: Katie Porter candidate page (House campaigns)](https://www.fec.gov/data/candidate/H8CA45076/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~{{src:src_004806}}~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - ~~[Congress.gov: Katie Porter member profile](https://www.congress.gov/member/katie-porter/P000618)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - [GovTrack: Katie Porter voting record](https://www.govtrack.us/congress/members/412758) (Tier 1) (NEEDS REVIEW)
 - [CalMatters: California Governor Race Fundraising Reports](https://calmatters.org/politics/2026/02/governors-race-fundraising-reports/) (Tier 2) (VERIFIED)

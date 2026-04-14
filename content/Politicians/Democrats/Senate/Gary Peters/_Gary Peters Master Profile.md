@@ -172,8 +172,8 @@ The class function is pipeline operator. Peters does not generate progressive po
 
 ## Sources
 
-- [FEC Candidate: Gary Peters Campaign Finance Summary](https://www.fec.gov/data/candidate/H8MI09068/) (Tier 1) (VERIFIED)
-- [FEC: Gary Peters for Michigan (S4MI00355)](https://www.fec.gov/data/candidate/S4MI00355/) (Tier 1) (VERIFIED)
+- {{src:src_005413}} (Tier 1) (VERIFIED)
+- {{src:src_005416}} (Tier 1) (VERIFIED)
 - ~~[POGO: Representatives Are Too Invested in Defense Contractors](https://www.pogo.org/analyses/representatives-are-too-invested-in-defense-contractors)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 - [Common Dreams: Report Reveals 50+ US Lawmakers Hold Military Stocks](https://www.commondreams.org/news/members-of-congress-who-own-defense-stock) (Tier 2) (VERIFIED)
 - [Washington Post: Senator Gary Peters Is Overseeing a Boom in Cyber Bills](https://www.hsgac.senate.gov/media/dems/washington-post-senator-gary-peters-is-overseeing-a-boom-in-cyber-bills/) (Tier 2) (VERIFIED)

@@ -195,8 +195,8 @@ The leadership PAC (Jobs, Education and Family First) and Team Blue PAC (co-foun
 ## Sources
 
 ### Verified
-- [FEC Candidate: Hakeem Jeffries campaign finance summary](https://www.fec.gov/data/candidate/H2NY10092/) (Tier 1) (VERIFIED)
-- ~~[FEC: Jeffries for Congress committee (C00481488)](https://www.fec.gov/data/committee/C00481488/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- {{src:src_006189}} (Tier 1) (VERIFIED)
+- ~~{{src:src_006198}}~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - [Sludge: Jeffries misleads on AIPAC PAC money](https://readsludge.com/2025/11/25/jeffries-misleads-on-aipac-pac-money/) (Tier 2) (VERIFIED)
 - [Sludge: House Democrats' anti-progressive PAC funded by corporate lobbyists](https://readsludge.com/2022/02/01/house-democrats-new-anti-progressive-pac-is-funded-by-corporate-lobbyists-and-pacs/) (Tier 2) (VERIFIED)
 - [The Real Deal: Jeffries on real estate and gentrification](https://therealdeal.com/magazine/national-july-2020/the-closing-hakeem-jeffries/) (Tier 2) (VERIFIED)
@@ -319,7 +319,7 @@ The transition is the most visible evidence that Democratic leadership is a dono
 | HEROES UNITED PAC, DBA VOLUNTEER FIREFIGHTERS ASSOCIATION, DBA ASSOCIATION OF POLICE & FIRST RESPONDERS | $6,400 | $0 |
 | PLANNED PARENTHOOD VOTES | $195 | $0 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H2NY10092/) (Tier 1) (VERIFIED)
+- {{src:src_006189}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ### Sanctions & PEP Screening (OpenSanctions)
@@ -393,7 +393,7 @@ The transition is the most visible evidence that Democratic leadership is a dono
 | 2016 | $1,294,870 | $791,629 | 1011604.86 |
 | ... | 2 more cycles available | | |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H2NY10092/) (Tier 1)
+- {{src:src_006189}} (Tier 1)
 <!-- auto:fec-summary end -->
 
 ### Committee Assignments (Congress.gov)

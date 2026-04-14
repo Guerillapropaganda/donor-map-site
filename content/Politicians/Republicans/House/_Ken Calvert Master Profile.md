@@ -148,7 +148,7 @@ When progressive members proposed redirecting small portions of the Pentagon bud
 
 ## Sources
 
-- [FEC Candidate: Rep Ken Calvert Donor Profile](https://www.fec.gov/data/candidate/H2CA37023/) (Tier 1) (VERIFIED)
+- {{src:src_004116}} (Tier 1) (VERIFIED)
 - [Defense PAC Contributions, 2024-2025 Cycle](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1) (VERIFIED)
 - [House Appropriations Committee: Defense Subcommittee Composition](https://appropriations.house.gov/subcommittees/defense-0) (Tier 1) (VERIFIED)
 - [House Appropriations Committee Defense Markup, 2025](https://appropriations.house.gov/news/press-releases) (Tier 1) (VERIFIED)
@@ -220,7 +220,7 @@ When progressive members proposed redirecting small portions of the Pentagon bud
 | LCV VICTORY FUND | $0 | $918,467 |
 | EDF ACTION VOTES | $0 | $795,808 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H2CA37023/) (Tier 1) (VERIFIED)
+- {{src:src_004116}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ### DOJ Press Releases

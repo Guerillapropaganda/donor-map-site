@@ -197,8 +197,8 @@ The leaked 2026 recordings are the class analysis in audio form. Cruz privately 
 
 ## Sources
 
-- [FEC Candidate: Cruz career donors, oil/gas totals, 2024 race spending](https://www.fec.gov/data/candidate/S2TX00312/) (Tier 1) (VERIFIED)
-- [FEC: undisclosed loan violations, Bitcoin Freedom PAC](https://www.fec.gov/data/committee/C00822775/?tab=filings) (Tier 1) (VERIFIED)
+- {{src:src_001216}} (Tier 1) (VERIFIED)
+- {{src:src_003188}} (Tier 1) (VERIFIED)
 - [New York Times: Goldman Sachs loans investigation](https://qz.com/594425/wall-street-critic-ted-cruz-funded-his-senate-campaign-with-a-loan-from-goldman-sachs) (Tier 2) (VERIFIED)
 - [Texas Tribune: 2024 race coverage, grid failure reporting](https://www.texastribune.org/2024/07/18/ted-cruz-colin-allred-fundraising-2024/) (Tier 2) (VERIFIED)
 - [Wall Street Journal: Mercer-Cruz financial relationship](https://www.opensecrets.org/news/2018/03/before-trump-cambridge-analytica-was-on-team-cruz/) (Tier 2) (VERIFIED)
@@ -255,7 +255,7 @@ conte
 | SAVE OUR COUNTRY | $3,100,000 | $0 |
 | WINSENATE | $0 | $2,487,500 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/S2TX00312/) (Tier 1) (VERIFIED)
+- {{src:src_001216}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ## Voting Record

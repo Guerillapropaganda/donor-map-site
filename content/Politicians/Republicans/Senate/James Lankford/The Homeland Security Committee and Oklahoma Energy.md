@@ -39,6 +39,6 @@ Oklahoma is an oil and gas state. ConocoPhillips, Devon Energy, and Continental 
 ### Sources
 
 - ~~[Congress.gov: James Lankford member profile](https://www.congress.gov/member/james-lankford/L000575)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
-- [FEC Candidate: James Lankford campaign finance summary](https://www.fec.gov/data/candidate/S4OK00232/) (Tier 1) (VERIFIED)
+- {{src:src_003602}} (Tier 1) (VERIFIED)
 - [Ballotpedia: James Lankford](https://ballotpedia.org/James_Lankford) (Tier 3) (VERIFIED)
 

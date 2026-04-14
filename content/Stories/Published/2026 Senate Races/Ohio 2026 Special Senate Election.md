@@ -162,7 +162,7 @@ This race reveals fundamental contradiction in Ohio working-class politics and w
 
 - [Democrat Sherrod Brown leads Ohio Republican U.S. Sen. Jon Husted in quarterly fundraising | Ohio Capital Journal](https://ohiocapitaljournal.com/2026/02/04/democrat-sherrod-brown-leads-ohio-republican-u-s-sen-jon-husted-in-quarterly-fundraising/) (Tier 2) (VERIFIED)
 - ~~[Ohio's U.S. Senate race: Brown raises $8 million, Husted sets Republican record | NBC4 WCMH-TV](https://www.nbc4i.com/news/your-local-election-hq/ohios-u-s-senate-race-brown-raises-8-million-husted-sets-republican-record/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
-- [Sen. Sherrod Brown - Campaign Finance Summary | OpenSecrets](https://www.fec.gov/data/candidate/H2OH13033/) (Tier 1) (VERIFIED)
+- {{src:src_001996}} (Tier 1) (VERIFIED)
 - [Union workers welcome Sherrod Brown's 2026 Ohio comeback, but can he win? | Salon.com](https://www.salon.com/2025/08/27/union-workers-welcome-sherrod-browns-2026-ohio-comeback-but-can-he-win/) (Tier 2) (VERIFIED)
 - [Scoop: Jon Husted snatches third union endorsement from Sherrod Brown | Axios](https://www.axios.com/2025/10/15/senate-brown-husted-ohio-unions) (Tier 2) (VERIFIED)
 - [Poll shows the Ohio US Senate race is statistically tied | Ohio Capital Journal](https://ohiocapitaljournal.com/2026/03/18/poll-shows-the-ohio-us-senate-race-is-statistically-tied-and-that-health-insurance-is-a-big-concern/) (Tier 2) (VERIFIED)

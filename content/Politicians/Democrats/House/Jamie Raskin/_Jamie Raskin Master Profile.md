@@ -178,8 +178,8 @@ On campaign finance reform, he leads with the structural argument — corporatio
 
 ## Sources
 
-- [FEC Candidate: Jamie Raskin donor profile](https://www.fec.gov/data/candidate/H6MD08457/) (Tier 1) (VERIFIED)
-- [FEC: Jamie Raskin candidate profile](https://www.fec.gov/data/candidate/H6MD08457/) (Tier 1) (VERIFIED)
+- {{src:src_006117}} (Tier 1) (VERIFIED)
+- {{src:src_006117}} (Tier 1) (VERIFIED)
 - [ProPublica FEC Itemizer: Jamie Raskin PAC donations](https://projects.propublica.org/itemizer/committee/C00575126/2024/pac-donations) (Tier 1) (VERIFIED)
 - ~~[Congress.gov: Jamie Raskin member profile](https://www.congress.gov/member/jamie-raskin/R000606)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - [Raskin.house.gov: Committees and Caucuses](https://raskin.house.gov/committees-and-caucuses) (Tier 1) (VERIFIED)
@@ -298,7 +298,7 @@ On campaign finance reform, he leads with the structural argument — corporatio
 | 2018 | $1,185,776 | $872,438 | 665129.75 |
 | 2016 | $2,555,285 | $2,203,493 | 351791.83 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H6MD08457/) (Tier 1) (VERIFIED)
+- {{src:src_006117}} (Tier 1) (VERIFIED)
 <!-- auto:fec-summary end -->
 
 ### Campaign Finance (FEC)
@@ -332,7 +332,7 @@ On campaign finance reform, he leads with the structural argument — corporatio
 | MAYDAY PAC | $7,717 | $0 |
 | PLANNED PARENTHOOD VOTES | $124 | $0 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H6MD08457/) (Tier 1)
+- {{src:src_006117}} (Tier 1)
 <!-- auto:fec-politician end -->
 
 ### Wikipedia

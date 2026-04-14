@@ -125,8 +125,8 @@ The Signalgate incident stripped the credentialing bare. Waltz built his politic
 ## Sources
 
 - [Wikipedia: Mike Waltz](https://en.wikipedia.org/wiki/Mike_Waltz) (Tier 4) (VERIFIED)
-- [FEC Candidate: Michael Waltz summary](https://www.fec.gov/data/candidate/H8FL06148/) (Tier 1) (VERIFIED)
-- [FEC Candidate: Waltz industry donors](https://www.fec.gov/data/candidate/H8FL06148/) (Tier 1) (VERIFIED)
+- {{src:src_002841}} (Tier 1) (VERIFIED)
+- {{src:src_002841}} (Tier 1) (VERIFIED)
 - [Clerk of the House: Waltz](https://clerk.house.gov/members/W000823) (Tier 1) (VERIFIED)
 - [Press UN: Waltz bio](https://press.un.org/en/2025/bio5611.doc.htm) (Tier 1) (VERIFIED)
 - [ABC News: Waltz Signal controversy](https://abcnews.com/Politics/mike-waltz-national-security-adviser-added-journalist-signal/story?id=120131357) (Tier 2) (VERIFIED)
@@ -166,7 +166,7 @@ The Signalgate incident stripped the credentialing bare. Waltz built his politic
 | AMERICAN JOBS AND GROWTH PAC | $0 | $176,702 |
 | SPECIAL OPERATIONS FOR AMERICA | $110,004 | $0 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H8FL06148/) (Tier 1) (VERIFIED)
+- {{src:src_002841}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ### Legislative Activity (Congress.gov)

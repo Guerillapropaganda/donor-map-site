@@ -150,8 +150,8 @@ This is the triple alignment: donor money from oil and gas ($184,000+ in a singl
 
 ## Sources
 
-- [FEC Candidate: Bruce Westerman donor profile](https://www.fec.gov/data/candidate/H4AR04048/) (Tier 1) (VERIFIED)
-- [FEC Candidate: Bruce Westerman industry donors](https://www.fec.gov/data/candidate/H4AR04048/) (Tier 1) (VERIFIED)
+- {{src:src_004533}} (Tier 1) (VERIFIED)
+- {{src:src_004533}} (Tier 1) (VERIFIED)
 - ~~[Congress.gov: Bruce Westerman](https://www.congress.gov/member/bruce-westerman/W000821)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - [House Natural Resources Committee: Chairman Westerman](https://naturalresources.house.gov/about/chairman.htm) (Tier 1) (VERIFIED)
 - [Public Domain Media: House Natural Resources Chair's Oil Stock Purchases Were Unusual](https://www.publicdomain.media/p/bruce-westerman-stocks) (Tier 2) (VERIFIED)
@@ -194,7 +194,7 @@ This is the triple alignment: donor money from oil and gas ($184,000+ in a singl
 | CITIZENS FOR RESPONSIBLE ENERGY SOLUTIONS INC. | $36,000 | $0 |
 | NATIONAL RIGHT TO LIFE POLITICAL ACTION COMMITTEE | $9,992 | $0 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H4AR04048/) (Tier 1) (VERIFIED)
+- {{src:src_004533}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ### Legislative Activity (Congress.gov)

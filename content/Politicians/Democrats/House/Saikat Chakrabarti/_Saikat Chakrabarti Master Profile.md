@@ -79,7 +79,7 @@ Saikat Chakrabarti. Born January 12, 1986, Fort Worth, Texas. Bengali immigrant 
 ## Donor Class Map
 
 > [!money] Follow the Money
-> CA-11 campaign total receipts through end of 2025: $1,769,247.61. Of that, $1,470,000.00 (83.1%) is candidate self-loans. Individual contributions: $298,247.61. PAC money: $0.00. Cash on hand: $112,266.36. Burn rate: 93.7%. 5,724 individual donors in one quarter vs. Wiener's 2,226 — grassroots volume despite low dollar totals. [FEC: Saikat for Congress C00897314](https://www.fec.gov/data/committee/C00897314/) (Tier 1) (VERIFIED)
+> CA-11 campaign total receipts through end of 2025: $1,769,247.61. Of that, $1,470,000.00 (83.1%) is candidate self-loans. Individual contributions: $298,247.61. PAC money: $0.00. Cash on hand: $112,266.36. Burn rate: 93.7%. 5,724 individual donors in one quarter vs. Wiener's 2,226 — grassroots volume despite low dollar totals. {{src:src_005841}} (Tier 1) (VERIFIED)
 
 ### Personal Wealth (House Financial Disclosure #10063516, filed August 13, 2025):
 
@@ -185,11 +185,11 @@ Running for Pelosi's CA-11 is not incidental. Pelosi is the institutional figure
 ## Sources
 
 ### Verified
-- [FEC: Saikat for Congress committee (C00897314)](https://www.fec.gov/data/committee/C00897314/) (Tier 1) (VERIFIED)
-- ~~[FEC: Candidate H6CA11219](https://www.fec.gov/data/candidate/H6CA11219/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- {{src:src_005841}} (Tier 1) (VERIFIED)
+- ~~{{src:src_005845}}~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - [House Financial Disclosure #10063516](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10063516.pdf) (Tier 1)
-- [FEC: Justice Democrats PAC (C00630665)](https://www.fec.gov/data/committee/C00630665/) (Tier 1) (VERIFIED)
-- [FEC: Brand New Congress PAC (C00613810)](https://www.fec.gov/data/committee/C00613810/) (Tier 1) (VERIFIED)
+- {{src:src_005834}} (Tier 1) (VERIFIED)
+- {{src:src_005835}} (Tier 1) (VERIFIED)
 - [FEC: MUR 7575 (Matter Under Review)](https://www.fec.gov/data/legal/matter-under-review/7575/) (Tier 1) (VERIFIED)
 - [ProPublica Nonprofit Explorer: New Consensus 990s (EIN 82-3053965)](https://projects.propublica.org/nonprofits/organizations/823053965) (Tier 1) (VERIFIED)
 - [Business Insider: Chakrabarti net worth (Bryan Metzger, August 2025)](https://www.businessinsider.com/saikat-chakrabarti-net-worth-nancy-pelosi-primary-challenger-2025-8) (Tier 2) (VERIFIED)
@@ -220,7 +220,7 @@ Running for Pelosi's CA-11 is not incidental. Pelosi is the institutional figure
 |-----------|---------|--------|
 | ABUNDANT FUTURE | $0 | $205,918 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H6CA11219/) (Tier 1) (VERIFIED)
+- {{src:src_005845}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ### Voting Record

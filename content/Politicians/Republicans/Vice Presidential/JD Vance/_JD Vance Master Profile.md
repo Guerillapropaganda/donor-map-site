@@ -163,7 +163,7 @@ The vault's central insight applies directly: **Vance is not a politician with d
 ## Sources
 
 ### Tier 1 (Primary/Government):
-- [FEC: VANCE, J D - Candidate overview](https://www.fec.gov/data/candidate/S2OH00436/) (Tier 1) (VERIFIED)
+- {{src:src_002687}} (Tier 1) (VERIFIED)
 - ~~[Congress.gov: J. D. Vance voting record and bills introduced](https://www.congress.gov/member/j-vance/V000137)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 
 ### Tier 2 (Major Journalism):
@@ -172,7 +172,7 @@ The vault's central insight applies directly: **Vance is not a politician with d
 - [The Conversation: Peter Thiel helped make JD Vance. The Republican kingmaker's influence is growing](https://theconversation.com/friday-essay-libertarian-tech-titan-peter-thiel-helped-make-jd-vance-the-republican-kingmakers-influence-is-growing-261856) (Tier 2) (VERIFIED)
 
 ### Tier 3 (Aggregators):
-- [OpenSecrets.org: Sen. J D Vance - Campaign Finance Summary](https://www.fec.gov/data/candidate/S2OH00436/) (Tier 3) (VERIFIED)
+- {{src:src_002687}} (Tier 3) (VERIFIED)
 - [Ballotpedia: J.D. Vance voting record and biography](https://ballotpedia.org/J.D._Vance) (Tier 3) (VERIFIED)
 - [ProPublica: Peter Thiel donor lookup and contributions](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=peter%20thiel) (Tier 3) (VERIFIED)
 

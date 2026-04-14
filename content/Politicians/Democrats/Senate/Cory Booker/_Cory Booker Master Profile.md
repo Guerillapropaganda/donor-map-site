@@ -81,7 +81,7 @@ Cory Booker. Democrat, New Jersey. Senator since 2013. Former Mayor of Newark (2
 
 Booker is the most Wall Street-funded progressive in the Senate. New Jersey's economic geography makes this structural: Goldman Sachs offices, pharmaceutical headquarters (Johnson & Johnson, Merck, Pfizer facilities), and the financial corridor between Manhattan and Newark generate the donor base that funds his campaigns. His political brand combines progressive social positions (justice system reform, racial equity, veganism) with a donor base dominated by Wall Street and pharma — the two industries most concentrated in New Jersey's economy.
 
-- [FEC Candidate: Cory Booker campaign finance summary](https://www.fec.gov/data/candidate/P00009795/) (Tier 1) (VERIFIED)
+- {{src:src_001199}} (Tier 1) (VERIFIED)
 - [Congress.gov: Cory Booker member profile](https://www.congress.gov/member/cory-booker/B001288) (Tier 1) (VERIFIED: It works; moved from bad)
 
 ---
@@ -207,8 +207,8 @@ Cory Booker's 2020 presidential run attracted 39 billionaire donors, more than a
 
 ## Sources
 
-- [FEC Candidate: Cory Booker campaign finance summary](https://www.fec.gov/data/candidate/P00009795/) (Tier 1)
-- [FEC Candidate: Cory Booker top industries](https://www.fec.gov/data/candidate/P00009795/) (Tier 1)
+- {{src:src_001199}} (Tier 1)
+- {{src:src_001199}} (Tier 1)
 - [Congress.gov: Cory Booker member profile](https://www.congress.gov/member/cory-booker/B001288) (Tier 1)
 - [Congress.gov: First Step Act](https://www.congress.gov/bill/115th-congress/senate-bill/756) (Tier 1) (VERIFIED: Works; moved from bad)
 - [Brennan Center: What Is the First Step Act](https://www.brennancenter.org/our-work/research-reports/what-first-step-act-and-whats-happening-it) (Tier 2) (VERIFIED)
@@ -350,7 +350,7 @@ Cory Booker's 2020 presidential run attracted 39 billionaire donors, more than a
 | DREAM UNITED | $17,667 | $0 |
 | DREAM DEFENDERS FIGHT PAC | $0 | $3,516 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/P00009795/) (Tier 1)
+- {{src:src_001199}} (Tier 1)
 <!-- auto:fec-politician end -->
 
 <!-- auto:fec-politician pending-merge 2026-04-11 -->
@@ -385,7 +385,7 @@ Cory Booker's 2020 presidential run attracted 39 billionaire donors, more than a
 | AMERICAN COMMITMENT ACTION FUND | $0 | $371,600 |
 | POWERPACPLUS | $81,401 | $0 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/S4NJ00185/) (Tier 1) (VERIFIED)
+- {{src:src_005515}} (Tier 1) (VERIFIED)
 
 <!-- auto:fec-politician pending-merge end -->
 

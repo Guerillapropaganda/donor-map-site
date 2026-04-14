@@ -322,10 +322,10 @@ Lucas is a third-generation rancher. His wealth is partially inherited, partiall
 
 ## Sources
 
-- [FEC Candidate: Frank Lucas donor profile and campaign finance](https://www.fec.gov/data/candidate/H4OK06056/) (Tier 1) (VERIFIED)
+- {{src:src_004096}} (Tier 1) (VERIFIED)
 - [OpenSecrets: Congressional members receiving farm subsidies](https://www.opensecrets.org/news/) (Tier 1) (VERIFIED)
 - [Environmental Working Group: Farm Subsidy Database — Frank Lucas](https://farm.ewg.org/persondetail.php?custnumber=13000178668) (Tier 1) (VERIFIED)
-- [FEC: Frank Lucas for Congress Committee filings](https://www.fec.gov/data/committee/C00287912/) (Tier 1) (VERIFIED)
+- {{src:src_004098}} (Tier 1) (VERIFIED)
 - [GovTrack: Frank Lucas voting record on Farm Bills](https://www.govtrack.us/congress/members/zoe_lofgren/400245) (Tier 1) (NEEDS REVIEW)
 - ~~[Congressional Research Service: Farm Bill Overview and History](https://crsreports.congress.gov/product/pdf/R/R47667)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - [USDA: Commodity subsidy distribution data](https://www.usda.gov/farmbill/) (Tier 1) (NEEDS REVIEW)
@@ -425,7 +425,7 @@ Lucas is a third-generation rancher. His wealth is partially inherited, partiall
 | CLUB FOR GROWTH ACTION | $0 | $970 |
 | EVERYTOWN FOR GUN SAFETY ACTION FUND | $0 | $862 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H4OK06056/) (Tier 1) (VERIFIED)
+- {{src:src_004096}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ### DOJ Press Releases

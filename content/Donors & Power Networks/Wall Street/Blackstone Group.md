@@ -61,7 +61,7 @@ Blackstone's political significance extends far beyond its campaign contribution
 Schwarzman's relationship with Trump has defined Blackstone's political strategy. He chaired Trump's Strategic and Policy Forum in 2017, broke with Trump over January 6, then reconciled by 2024, sitting at the head table with Trump and the emir of Qatar at a 2024 state dinner. The pattern reveals the donor-class calculation: political principles are negotiable when carried interest and regulatory treatment are at stake.
 
 - [OpenSecrets: Blackstone Group organizational profile](https://www.opensecrets.org/orgs/blackstone-group/summary?id=D000021873) (Tier 1) (VERIFIED)
-- [FEC: Blackstone PAC filings](https://www.fec.gov/data/committee/C00428052/) (Tier 1) (VERIFIED)
+- {{src:src_008679}} (Tier 1) (VERIFIED)
 - [SEC: Blackstone Inc. 10-K Annual Report (2024)](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001393818&type=10-K) (Tier 1) (VERIFIED)
 
 ---
@@ -261,7 +261,7 @@ The pension fund dynamic completes the circle. State employee pension funds, Cal
 - [Senate LDA Filings: Blackstone Group lobbying profile](https://lda.gov/filings/public/filing/search/) (Tier 1)
 - [FEC Receipts: Stephen Schwarzman donor lookup](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Stephen%20Schwarzman) (Tier 1)
 - [OpenSecrets: Blackstone Group top recipients](https://www.opensecrets.org/orgs/blackstone-group/recipients?id=D000021873) (Tier 1)
-- [FEC: Blackstone PAC filings](https://www.fec.gov/data/committee/C00428052/) (Tier 1)
+- {{src:src_008679}} (Tier 1)
 - [FEC: Blackstone PAC disbursements](https://www.fec.gov/data/disbursements/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?committee_id=C00428052) (Tier 1)
 
 ### Government & Regulatory:

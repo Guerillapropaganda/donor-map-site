@@ -206,8 +206,8 @@ Granger's "fiscal conservative" brand makes the class analysis sharper. She oppo
 
 ## Sources
 
-- [FEC Candidate: Kay Granger donor profile, 2020 cycle](https://www.fec.gov/data/candidate/H6TX12060/) (Tier 1) (VERIFIED)
-- [FEC Candidate: Kay Granger PAC receipts, defense sector](https://www.fec.gov/data/candidate/H6TX12060/) (Tier 1) (VERIFIED)
+- {{src:src_004109}} (Tier 1) (VERIFIED)
+- {{src:src_004109}} (Tier 1) (VERIFIED)
 - [House Appropriations Committee roster](https://appropriations.house.gov/about) (Tier 1) (VERIFIED)
 - ~~[Read Sludge: Kay Granger and Lockheed Martin ties](https://read-sludge.myopengov.com/politicians/kay-granger)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 - [Washington Post: Kay Granger's senior facility revelation sparks debate over lawmakers' ages (2024)](https://www.washingtonpost.com/politics/2024/12/24/kay-granger-texas-congresswoman-age-facility/) (Tier 2) (VERIFIED)
@@ -248,5 +248,5 @@ Granger's "fiscal conservative" brand makes the class analysis sharper. She oppo
 | NATIONAL ASSOCIATION OF REALTORS POLITICAL ACTION COMMITTEE | $118,530 | $0 |
 | WFW ACTION FUND, INC. | $79,662 | $0 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H6TX12060/) (Tier 1) (VERIFIED)
+- {{src:src_004109}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->

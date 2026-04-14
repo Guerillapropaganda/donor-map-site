@@ -39,6 +39,6 @@ Williams partially self-funds his campaigns — a pattern that creates the appea
 ### Sources
 
 - ~~[Congress.gov: Roger Williams member profile](https://www.congress.gov/member/roger-williams/W000816)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
-- [FEC Candidate: Roger Williams campaign finance and personal finances](https://www.fec.gov/data/candidate/H2TX33040/) (Tier 1) (VERIFIED)
+- {{src:src_004212}} (Tier 1) (VERIFIED)
 - [Ballotpedia: Roger Williams](https://ballotpedia.org/Roger_Williams_(Texas) (VERIFIED)) (Tier 3)
 

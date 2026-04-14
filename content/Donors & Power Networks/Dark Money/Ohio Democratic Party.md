@@ -137,7 +137,7 @@ The class analysis of Ohio Democratic collapse is structural, not cyclical:
 ### Sources
 
 - [OpenSecrets: Democratic Party of Ohio PAC summary 2024](https://www.opensecrets.org/political-action-committees-pacs/democratic-party-of-ohio/C00016899/summary/2024) (Tier 1) (VERIFIED)
-- [FEC: Ohio Democratic Party. Federal, committee overview](https://www.fec.gov/data/committee/C00016899/) (Tier 1) (VERIFIED)
+- {{src:src_014072}} (Tier 1) (VERIFIED)
 - [OpenSecrets: Ohio Senate 2024 Race. Brown vs. Moreno](https://www.opensecrets.org/races/summary?cycle=2024&id=OHS1) (Tier 1) (VERIFIED)
 - ~~[FollowTheMoney: Ohio Democratic Party entity profile](https://www.followthemoney.org/tools/election-overview?eid=4909)~~ (was FollowTheMoney, site merged into OpenSecrets, all URLs dead) (Tier 1)
 - [CNN: What Sherrod Brown says went wrong in his Senate race](https://edition.cnn.com/2024/11/24/politics/sherrod-brown-democrats-workers-ohio) (Tier 2) (VERIFIED)

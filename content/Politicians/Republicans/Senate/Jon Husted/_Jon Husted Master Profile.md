@@ -146,8 +146,8 @@ The Centene pipeline follows the same pattern. Centene Corporation paid Ohio $88
 
 ## Sources
 
-- [FEC.gov: Candidate Jon Husted (S6OH00304)](https://www.fec.gov/data/candidate/S6OH00304/) (Tier 1) (VERIFIED)
-- [FEC.gov: Committee "Husted for Senate" (C00896019)](https://www.fec.gov/data/committee/C00896019/) (Tier 1) (VERIFIED)
+- {{src:src_003485}} (Tier 1) (VERIFIED)
+- {{src:src_003491}} (Tier 1) (VERIFIED)
 - ~~[Jon Husted sitting on $2.6 million for 2026 U.S. Senate race](https://www.nbc4i.com/news/your-local-election-hq/jon-husted-sitting-on-2-6-million-for-2026-u-s-senate-race-as-sherrod-brown-mulls-run/)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3)
 - [Sen. Jon Husted received donations from Epstein associate Les Wexner. We followed the money](https://www.snopes.com/fact-check/jon-husted-les-wexner-epstein/) (Tier 2) (VERIFIED)
 - [Husted took donations from Epstein 'co-conspirator' Les Wexner, then voted to block file release](https://tiffinohio.net/posts/husted-took-donations-from-epstein-co-conspirator-les-wexner-then-voted-to-block-file-release/) (Tier 2) (VERIFIED)
@@ -199,5 +199,5 @@ party:: Republican
 | INDIVISIBLE ACTION | $0 | $15,476 |
 | ACTIVATE AMERICA | $0 | $5,465 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/S6OH00304/) (Tier 1) (VERIFIED)
+- {{src:src_003485}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->

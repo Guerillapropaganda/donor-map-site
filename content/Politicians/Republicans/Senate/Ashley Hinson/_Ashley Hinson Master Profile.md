@@ -151,7 +151,7 @@ Hinson's agricultural advocacy reveals the gap between brand and beneficiary. Sh
 - ~~[GOP Rallies Behind Hinson in Iowa Senate Race | WJBC AM 1230](https://www.wjbc.com/2025/09/05/gop-rallies-behind-hinson-in-iowa-senate-race/)~~ (URL broken, archived by Ops) (Tier 3 - regional broadcast) (Tier 2)
 - [Ashley Hinson takes massive fundraising edge in Iowa's open-seat U.S. Senate campaign | The Gazette](https://www.thegazette.com/news/elections/ashley-hinson-takes-massive-fundraising-edge-in-iowa-s-open-seat-u-s-senate-campaign/article_220dafe1-f9b3-5451-9cbe-6bf8a25bf0a0.html) (Tier 2) (VERIFIED)
 - [Ashley Hinson secures key endorsement from super PAC supporting GOP women | Washington Examiner](https://www.washingtonexaminer.com/news/campaigns/congressional/3796883/ashley-hinson-senate-endorsement-winning-for-women-pac/) (Tier 2) (VERIFIED)
-- [Rep. Ashley Hinson - Campaign Finance Summary | OpenSecrets](https://www.fec.gov/data/candidate/H0IA01174/) (Tier 1) (VERIFIED)
+- {{src:src_003675}} (Tier 1) (VERIFIED)
 - ~~[Hinson introduces E15 bill in House | Southeast Iowa Union](https://www.southeastiowaunion.com/se-iowa-union-hometown-current/hinson-introduces-e15-bill-in-house/)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3)
 - [Victory for Iowa Ag: Hinson's Bipartisan PRECISE Act & Major Biofuels Priorities Pass House | Representative Ashley Hinson](https://hinson.house.gov/media/press-releases/victory-iowa-ag-hinsons-bipartisan-precise-act-major-biofuels-priorities-pass) (VERIFIED) (Tier 1 - campaign source) (Tier 1)
 - [Iowa's Hinson says E15 certainty still within reach despite congressional setback | Brownfield Ag News](https://www.brownfieldagnews.com/news/iowas-hinson-says-e15-certainty-still-within-reach-despite-congressional-setback/) (Tier 3) (VERIFIED)
@@ -277,7 +277,7 @@ party:: Republican
 | UA UNION PLUMBERS & PIPEFITTERS VOTE! PAC (UNITED ASSOCIATION OF JOURNEYMEN AND APPRENTICES OF THE PLUMBING & PIPEFITTING INDUSTRY OF THE UNITED STATES AND CANADA) | $0 | $912,900 |
 | AMERICANS FOR PROSPERITY ACTION, INC.(AFP ACTION) | $368,348 | $0 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H0IA01174/) (Tier 1) (VERIFIED)
+- {{src:src_003675}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ### Campaign Finance Summary (FEC)
@@ -292,5 +292,5 @@ party:: Republican
 | PAC Contributions | $1,399,500 |
 | Coverage Through | 2025-12-31 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/S6IA00314/) (Tier 1) (VERIFIED)
+- {{src:src_003677}} (Tier 1) (VERIFIED)
 <!-- auto:fec-summary end -->

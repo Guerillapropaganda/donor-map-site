@@ -64,7 +64,7 @@ Amy Klobuchar. Democrat, Minnesota. Senator since 2007. Chair of the Judiciary S
 
 Minnesota's economy anchors her donor base: 3M, Cargill, General Mills, Medtronic, and UnitedHealth Group all headquartered in the state. Her constituency alignment is corporate-moderate — the professionals, agribusiness executives, and healthcare company employees who fund her campaigns are the same people she represents.
 
-- [FEC Candidate: Amy Klobuchar campaign finance summary](https://www.fec.gov/data/candidate/S6MN00267/) (Tier 1) (VERIFIED)
+- {{src:src_005585}} (Tier 1) (VERIFIED)
 - [Congress.gov: Amy Klobuchar member profile](https://www.congress.gov/member/amy-klobuchar/K000367) (Tier 1) (VERIFIED)
 
 ---
@@ -156,8 +156,8 @@ The legislative record is the class proof. The Merger Filing Fee Modernization A
 
 ## Sources
 
-- [FEC Candidate: Amy Klobuchar campaign finance summary](https://www.fec.gov/data/candidate/S6MN00267/) (Tier 1)
-- [FEC Candidate: Amy Klobuchar top industries](https://www.fec.gov/data/candidate/S6MN00267/) (Tier 1) (VERIFIED)
+- {{src:src_005585}} (Tier 1)
+- {{src:src_005585}} (Tier 1) (VERIFIED)
 - [Congress.gov: Amy Klobuchar member profile](https://www.congress.gov/member/amy-klobuchar/K000367) (Tier 1)
 - ~~[Congress.gov: American Innovation and Choice Online Act](https://www.congress.gov/bill/117th-congress/senate-bill/2992)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - [Congress.gov: Merger Filing Fee Modernization Act](https://www.congress.gov/bill/117th-congress/senate-bill/228) (Tier 1) (VERIFIED)
@@ -296,7 +296,7 @@ The legislative record is the class proof. The Merger Filing Fee Modernization A
 | UNITED BREAST CANCER SUPPORT PAC | $57,125 | $0 |
 | AFSCME WORKING FAMILIES FUND | $36,702 | $0 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/S6MN00267/) (Tier 1) (VERIFIED)
+- {{src:src_005585}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ### Voting Record

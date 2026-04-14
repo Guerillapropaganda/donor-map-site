@@ -210,7 +210,7 @@ Rogers lost. Why?
 ### Sources
 
 - [OpenSecrets: Great Lakes Conservatives Fund PAC profile](https://www.opensecrets.org/political-action-committees-pacs/great-lakes-conservatives-fund/C00853861/summary/2024) (Tier 1) (VERIFIED)
-- [FEC: Great Lakes Conservatives Fund committee filings](https://www.fec.gov/data/committee/C00853861/) (Tier 1) (VERIFIED)
+- {{src:src_009652}} (Tier 1) (VERIFIED)
 - [Detroit News: Blackstone CEO Schwarzman $2M to Rogers super PAC July 2024](https://www.detroitnews.com/story/news/politics/2024/07/15/blackstone-ceo-schwarzman-gives-2m-to-mike-rogers-super-pac/74407815007/) (Tier 2) (VERIFIED)
 - [Detroit News: Pro-Rogers super PAC $4M ad buy September 2024](https://www.detroitnews.com/story/news/politics/2024/09/13/pro-rogers-super-pac-puts-4m-behind-2-ads-in-senate-race/75208183007/) (Tier 2) (VERIFIED)
 - ~~[The Hill: Pro-Mike Rogers super PAC raises $5M Michigan Senate 2025](https://thehill.com/homenews/campaign/5393334-pro-mike-rogers-super-pac-raises-5m-for-michigan-senate-bid/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)

@@ -150,8 +150,8 @@ Graves brands himself as a Missouri farmer and small-government conservative. He
 
 ## Sources
 
-- [FEC Candidate: Sam Graves donor profile](https://www.fec.gov/data/candidate/H0MO06073/) (Tier 1) (VERIFIED)
-- [FEC Candidate: Sam Graves industry donors](https://www.fec.gov/data/candidate/H0MO06073/) (Tier 1) (VERIFIED)
+- {{src:src_004201}} (Tier 1) (VERIFIED)
+- {{src:src_004201}} (Tier 1) (VERIFIED)
 - [OpenSecrets: Sam Graves net worth](https://www.opensecrets.org/personal-finances/sam-graves/net-worth?cid=N00013323) (Tier 1) (VERIFIED)
 - ~~[Congress.gov: Sam Graves](https://www.congress.gov/member/sam-graves/G000546)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - [House Transportation Committee: Chairman Sam Graves](https://transportation.house.gov/about/ranking-member-sam-graves/) (Tier 1) (VERIFIED)
@@ -195,5 +195,5 @@ Graves brands himself as a Missouri farmer and small-government conservative. He
 | NATIONAL REPUBLICAN CONGRESSIONAL COMMITTEE | $41,300 | $0 |
 | ASSOCIATED GENERAL CONTRACTORS OF AMERICA POLITICAL ACTION COMMITTEE | $21,628 | $0 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H0MO06073/) (Tier 1) (VERIFIED)
+- {{src:src_004201}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->

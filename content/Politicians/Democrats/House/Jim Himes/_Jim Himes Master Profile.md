@@ -156,13 +156,13 @@ The district-donor-committee triangle is nearly perfect. Fairfield County is the
 
 ## Sources
 
-- [FEC Candidate: Jim Himes donor profile](https://www.fec.gov/data/candidate/H8CT04172/) (Tier 1) (VERIFIED)
-- [FEC Candidate: Jim Himes industry donors](https://www.fec.gov/data/candidate/H8CT04172/) (Tier 1) (VERIFIED)
-- [FEC Candidate: Jim Himes contributors](https://www.fec.gov/data/candidate/H8CT04172/) (Tier 1) (VERIFIED)
+- {{src:src_006093}} (Tier 1) (VERIFIED)
+- {{src:src_006093}} (Tier 1) (VERIFIED)
+- {{src:src_006093}} (Tier 1) (VERIFIED)
 - ~~[Congress.gov: H.R. 992 — Swaps Regulatory Improvement Act](https://www.congress.gov/bill/113th-congress/house-bill/992)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - [House.gov: Jim Himes official biography](https://himes.house.gov/about-jim) (Tier 1) (VERIFIED)
 - ~~[New York Times: Banks' Lobbyists Help in Writing Bill to Loosen Regulations (2013)](https://www.nytimes.com/2013/05/24/business/banks-lobbyists-help-in-writing-financial-regulations.html)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
-- [FEC Candidate: Jim Himes donor profile and top industries](https://www.fec.gov/data/candidate/H8CT04172/) (Tier 1) (VERIFIED)
+- {{src:src_006093}} (Tier 1) (VERIFIED)
 - [Salon: Inside Wall Street's New Heist — How Big Banks Exploited a Broken Democratic Caucus (Citigroup Swaps Provision)](https://www.salon.com/2014/12/16/inside_wall_streets_new_heist_how_big_banks_exploited_a_broken_democratic_caucus/) (Tier 2) (VERIFIED)
 - [NPR: Silicon Valley Bank and the Regulatory Rollback (2023)](https://www.npr.org/2023/03/15/1163617407/some-in-washington-blame-the-bank-failures-on-a-rollback-of-landmark-banking-rul) (Tier 2) (VERIFIED)
 - [Ballotpedia: Jim Himes](https://ballotpedia.org/Jim_Himes) (Tier 3) (VERIFIED)
@@ -276,5 +276,5 @@ The district-donor-committee triangle is nearly perfect. Fairfield County is the
 | CONNECTICUT TAXPAYERS ALLIANCE | $0 | $40,000 |
 | COMMON SENSE FOR CONNECTICUT | $0 | $39,058 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H8CT04172/) (Tier 1) (VERIFIED)
+- {{src:src_006093}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->

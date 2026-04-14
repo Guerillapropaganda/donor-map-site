@@ -129,7 +129,7 @@ Becerra had $1.4 million remaining from an abandoned 2022 re-election bid for at
 ## Sources
 
 - ~~[FollowTheMoney.org: Xavier Becerra 2026 Campaign Finance](https://www.followthemoney.org/show-me?s=CA&y=2024&c-r-ot=U&d-cci=Xavier%20Becerra#[%7B1%7Cgro=d-id)~~ (was FollowTheMoney — site merged into OpenSecrets, all URLs dead) (Tier 1)
-- [FEC Candidate: Xavier Becerra campaign finance](https://www.fec.gov/data/candidate/H2CA30143/) (Tier 1) (VERIFIED)
+- {{src:src_004751}} (Tier 1) (VERIFIED)
 - [CalMatters: Republican Steve Hilton leads California governor fundraising](https://calmatters.org/politics/2026/02/governors-race-fundraising-reports/) (Tier 2) (VERIFIED)
 - [CapRadio: California's powerful labor forces are divided on who should be the state's next governor](https://www.capradio.org/articles/2026/03/18/californias-powerful-labor-forces-are-divided-on-who-should-be-the-states-next-governor/) (Tier 2) (VERIFIED)
 - [California Department of Justice: Attorney General Becerra Secures Nearly $70 Million against Several Drug Companies](https://oag.ca.gov/news/press-releases/attorney-general-becerra-secures-nearly-70-million-against-several-drug) (Tier 1) (VERIFIED)
@@ -167,7 +167,7 @@ Becerra had $1.4 million remaining from an abandoned 2022 re-election bid for at
 | YOUR PRO-CHOICE VOTER GUIDE | $0 | $500 |
 | VOTER GUIDE | $0 | $288 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H2CA30143/) (Tier 1) (VERIFIED)
+- {{src:src_004751}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ## Committee Assignments (Congress.gov)

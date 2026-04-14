@@ -157,8 +157,8 @@ The "energy independence" framing is the rhetorical mechanism that makes all of 
 
 ## Sources
 
-- [FEC Candidate: John Hoeven campaign finance summary](https://www.fec.gov/data/candidate/S0ND00093/) (Tier 1) (VERIFIED)
-- [FEC: John Hoeven candidate overview](https://www.fec.gov/data/candidate/S0ND00093/) (Tier 1) (VERIFIED)
+- {{src:src_003525}} (Tier 1) (VERIFIED)
+- {{src:src_003525}} (Tier 1) (VERIFIED)
 - ~~[Congress.gov: John Hoeven committee assignments](https://www.congress.gov/member/john-hoeven/H001061/committees)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - [Hoeven.senate.gov: Keystone XL pipeline legislation](https://www.hoeven.senate.gov/news/news-releases/hoeven-baucus-bipartisan-group-of-senators-introduce-legislation-to-approve-the-keystone-xl-pipeline) (Tier 1) (VERIFIED)
 - [Hoeven.senate.gov: Statement on DAPL and Keystone XL executive orders](https://www.hoeven.senate.gov/news/news-releases/hoeven-statements-on-president-trumps-executive-orders-advancing-the-keystone-xl-and-dakota-access-pipelines) (Tier 1) (VERIFIED)
@@ -201,7 +201,7 @@ The "energy independence" framing is the rhetorical mechanism that makes all of 
 | NATIONAL WILDLIFE FEDERATION ACTION FUND | $100,000 | $0 |
 | CLEARPATH ACTION FUND, INC. | $50,000 | $0 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/S0ND00093/) (Tier 1) (VERIFIED)
+- {{src:src_003525}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ### Congressional Stock Trades (STOCK Act)

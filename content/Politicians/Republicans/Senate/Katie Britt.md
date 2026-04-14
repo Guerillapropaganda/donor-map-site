@@ -125,8 +125,8 @@ When Britt moved from BCA to the Senate, she carried that donor list and alignme
 - [Wikipedia: Katie Britt](https://en.wikipedia.org/wiki/Katie_Britt) (Tier 3) (VERIFIED)
 - [Ballotpedia: Katie Britt](https://ballotpedia.org/Katie_Britt) (Tier 3) (VERIFIED)
 - ~~[Bloomberg Government: Alabama GOP Candidate Boosted by Shelby's Appropriations Network](https://about.bgov.com/news/alabama-gop-candidate-boosted-by-shelbys-appropriations-network/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
-- [FEC Candidate: Sen. Katie Britt Campaign Finance Summary](https://www.fec.gov/data/candidate/S2AL00145/) (Tier 1) (VERIFIED)
-- [FEC Candidate: Katie Britt 2022 Campaign Contributors](https://www.fec.gov/data/candidate/S2AL00145/) (Tier 1) (VERIFIED)
+- {{src:src_001218}} (Tier 1) (VERIFIED)
+- {{src:src_001218}} (Tier 1) (VERIFIED)
 - ~~[Reckon News: RNC speaker Sen. Katie Britt's ties to 'big oil' and Alabama Power](https://www.reckon.news/news/2024/07/rnc-speaker-sen-katie-britts-ties-to-big-oil-and-alabama-power/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 - [CBS News: Who is Katie Britt, the senator who delivered the Republican State of the Union response?](https://www.cbsnews.com/amp/news/who-is-katie-britt/) (Tier 2) (VERIFIED)
 
@@ -161,5 +161,5 @@ When Britt moved from BCA to the Senate, she carried that donor list and alignme
 | AMERICAN DREAM FEDERAL ACTION | $3,310,471 | $0 |
 | CONSERVATIVE OUTSIDER PAC INC | $0 | $2,272,673 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/S2AL00145/) (Tier 1) (VERIFIED)
+- {{src:src_001218}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->

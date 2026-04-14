@@ -35,7 +35,7 @@ The University of Phoenix, once the largest for-profit university in the country
 ### Sources
 
 - ~~[Congress.gov: Virginia Foxx member profile](https://www.congress.gov/member/virginia-foxx/F000450)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
-- [FEC Candidate: Virginia Foxx campaign finance summary](https://www.fec.gov/data/candidate/H4NC05146/) (Tier 1) (VERIFIED)
+- {{src:src_004136}} (Tier 1) (VERIFIED)
 - ~~[FTC: University of Phoenix settlement](https://www.ftc.gov/news-events/news/press-releases/2019/12/ftc-obtains-record-191-million-settlement-university-phoenix-resolve-ftc-charges-it-used-deceptive91-million-settlement-university-phoenix-resolve-ftc-charges-it-used-deceptive)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - [Republic Report: Foxx and for-profit college donations](https://www.republicreport.org/2022/as-house-education-chair-probes-for-profit-colleges-ranking-republican-foxx-takes-their-donations/) (Tier 2) (VERIFIED)
 - [Ballotpedia: Virginia Foxx](https://ballotpedia.org/Virginia_Foxx) (Tier 3) (VERIFIED)

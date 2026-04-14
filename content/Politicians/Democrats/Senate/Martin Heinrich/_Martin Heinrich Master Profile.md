@@ -159,8 +159,8 @@ Heinrich's clean energy and AI work provide the progressive credential. He co-fo
 
 ## Sources
 
-- [FEC Candidate: Martin Heinrich Campaign Finance Summary](https://www.fec.gov/data/candidate/H8NM01224/) (Tier 1) (VERIFIED)
-- [FEC: Martin Heinrich for Senate (S2NM00088)](https://www.fec.gov/data/candidate/S2NM00088/) (Tier 1) (VERIFIED)
+- {{src:src_005234}} (Tier 1) (VERIFIED)
+- {{src:src_005238}} (Tier 1) (VERIFIED)
 - [Senator Heinrich: Secures Wins for NM Military Installations, National Labs in FY2025 NDAA](https://www.heinrich.senate.gov/newsroom/press-releases/heinrich-secures-wins-for-nm-military-installations-national-labs-in-fy2025-national-defense-bill) (Tier 1) (VERIFIED)
 - [Senator Heinrich: Secures Wins for NM in FY2026 NDAA](https://www.heinrich.senate.gov/newsroom/press-releases/heinrich-secures-wins-for-nm-service-members-military-installations-and-national-labs-in-fy2026-national-defense-bill) (Tier 1) (VERIFIED)
 - [Senator Heinrich: National Labs Priority Page](https://www.heinrich.senate.gov/priorities/issues/national-labs) (Tier 1) (VERIFIED)
@@ -203,7 +203,7 @@ party:: Democrat
 | REPUBLICAN CAMPAIGN COMMITTEE OF NEW MEXICO | $0 | $930,000 |
 | ENVIRONMENT AMERICA INC | $289,555 | $0 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H8NM01224/) (Tier 1) (VERIFIED)
+- {{src:src_005234}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ### DOJ Press Releases

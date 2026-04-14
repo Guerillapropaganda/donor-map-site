@@ -161,7 +161,7 @@ The WWE fortune that funds all of this was built on the exact labor model the do
 | AMERICAN FEDERATION OF STATE COUNTY & MUNICIPAL EMPLOYEES  P E O P L E | $0 | $518,043 |
 | LEAGUE OF CONSERVATION VOTERS ACTION FUND | $0 | $509,979 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/S0CT00151/) (Tier 1) (VERIFIED)
+- {{src:src_002916}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ### DOJ Press Releases

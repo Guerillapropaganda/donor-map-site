@@ -225,7 +225,7 @@ This concentration of funding created structural dependency: Republican leadersh
 
 ### Las Vegas Sands / Texas:
 - ~~[OpenSecrets: Las Vegas Sands profile](https://www.opensecrets.org/orgs/las-vegas-sands/summary?id=D000020980)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
-- [FEC: Las Vegas Sands PAC](https://www.fec.gov/data/committee/C00399642/) (Tier 1) (VERIFIED)
+- {{src:src_010547}} (Tier 1) (VERIFIED)
 - [Casino Beats: Las Vegas Sands 2026 Texas push $9M PAC](https://casinobeats.com/2025/08/13/las-vegas-sands-2026-texas-casino-pac/) (Tier 2) (VERIFIED)
 
 ### Iran / 2025–2026:

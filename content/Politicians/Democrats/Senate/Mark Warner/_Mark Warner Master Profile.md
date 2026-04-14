@@ -160,8 +160,8 @@ Warner announced 2026 reelection bid (fourth term), positioning himself for cont
 
 ## Sources
 
-- [FEC Candidate: Mark Warner campaign finance summary](https://www.fec.gov/data/candidate/P80003023/) (Tier 1) (VERIFIED)
-- [FEC Candidate: Mark Warner industries (career)](https://www.fec.gov/data/candidate/P80003023/) (Tier 1) (VERIFIED)
+- {{src:src_002029}} (Tier 1) (VERIFIED)
+- {{src:src_002029}} (Tier 1) (VERIFIED)
 - [Wikipedia: Mark Warner biography and Nextel wealth](https://en.wikipedia.org/wiki/Mark_Warner) (Tier 3) (VERIFIED)
 - [Ballotpedia: Mark Warner net worth and telecom background](https://ballotpedia.org/Mark_Warner) (Tier 3) (VERIFIED)
 - [Fox News: Mark Warner Intelligence Committee background](https://www.foxnews.com/politics/mark-warner-senate-intel-committees-top-democrat-what-to-know) (Tier 2) (VERIFIED)
@@ -183,7 +183,7 @@ Warner announced 2026 reelection bid (fourth term), positioning himself for cont
 |-----------|---------|--------|
 | HEALTH JUSTICE FOR ALL | $2,417 | $0 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/P80003023/) (Tier 1) (VERIFIED)
+- {{src:src_002029}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ### Congressional Stock Trades (STOCK Act)

@@ -142,8 +142,8 @@ Merkley's existence in the Senate also creates a useful illusion for the Democra
 
 ## Sources
 
-- [FEC Candidate: Jeff Merkley Campaign Finance Summary](https://www.fec.gov/data/candidate/S8OR00207/) (Tier 1) (VERIFIED)
-- [FEC: Jeff Merkley for Oregon (C00437277)](https://www.fec.gov/data/committee/C00437277/) (Tier 1) (VERIFIED)
+- {{src:src_005349}} (Tier 1) (VERIFIED)
+- {{src:src_005353}} (Tier 1) (VERIFIED)
 - [OPB: Oregon Sen. Jeff Merkley Has Stopped Taking Corporate PAC Cash](https://www.opb.org/news/article/jeff-merkley-pac-cash-stop/) (Tier 2) (VERIFIED)
 - [Senator Merkley: Statement on Financial Reform Legislation](https://www.merkley.senate.gov/merkley-statement-on-financial-reform-legislation/) (Tier 1) (VERIFIED)
 - [Jeff Merkley Campaign: End Hedge Fund Control of American Homes Act](https://www.jeffmerkley.com/2024/02/02/end-hedge-fund-control-american-homes-act/) (Tier 1) (VERIFIED)
@@ -190,7 +190,7 @@ party:: Democrat
 | League of Conservation Voters Inc | $591,357 | $0 |
 | AMERICAN FUTURE FUND POLITICAL ACTION | $0 | $330,000 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/S8OR00207/) (Tier 1) (VERIFIED)
+- {{src:src_005349}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ### DOJ Press Releases

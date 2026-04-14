@@ -97,7 +97,7 @@ He is not compromised in the transactional sense. He believes in progressive val
 - ~~[Open Secrets: Tim Walz Political Profile](https://www.opensecrets.org/politicians/tim-walz)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - [House Clerk: Tim Walz Congressional Voting Record](https://clerk.house.gov/) (Tier 1) (VERIFIED)
 - [Minnesota State Legislature: Tim Walz Bills](https://www.revisor.mn.gov/) (Tier 1) (VERIFIED)
-- ~~[FEC 2024 Vice Presidential Campaign Finance](https://www.fec.gov/data/candidate/P00010802/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~{{src:src_006452}}~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - [CalMatters: Harris-Walz Ticket Donor Analysis](https://calmatters.org/) (Tier 2) (VERIFIED)
 - [Minnesota Public Radio: Walz Governorship Policy Record](https://www.mprnews.org/) (Tier 2) (VERIFIED)
 
@@ -123,7 +123,7 @@ He is not compromised in the transactional sense. He believes in progressive val
 | 2012 | $1,976,106 | $787,174 | $780,173 |
 | 2010 | $2,163,759 | $952,848 | $751,771 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H6MN01174/) (Tier 1) (VERIFIED)
+- {{src:src_006454}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 <!-- auto:fec-politician pending-merge 2026-04-13 -->
@@ -160,7 +160,7 @@ He is not compromised in the transactional sense. He believes in progressive val
 | BLUEGREEN ALLIANCE | $108,805 | $0 |
 | FREEDOM CLUB FEDERAL PAC | $0 | $66,000 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H6MN01174/) (Tier 1)
+- {{src:src_006454}} (Tier 1)
 
 <!-- auto:fec-politician pending-merge end -->
 
@@ -212,5 +212,5 @@ Timothy James Walz is an American politician, former educator, and Army National
 | 2008 | $2,732,743 | $2,707,390 | 30528.16 |
 | ... | 1 more cycles available | | |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H6MN01174/) (Tier 1)
+- {{src:src_006454}} (Tier 1)
 <!-- auto:fec-summary end -->

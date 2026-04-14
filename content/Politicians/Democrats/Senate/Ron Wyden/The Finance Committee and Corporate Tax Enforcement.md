@@ -43,7 +43,7 @@ The paradox: Wyden's privacy agenda protects citizens from government surveillan
 ### Sources
 
 - ~~[Congress.gov: Ron Wyden member profile](https://www.congress.gov/member/ron-wyden/W000779)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
-- [FEC Candidate: Ron Wyden campaign finance summary](https://www.fec.gov/data/candidate/H0OR03026/) (Tier 1) (VERIFIED)
+- {{src:src_001777}} (Tier 1) (VERIFIED)
 - [Senate Finance Committee: Wyden tax proposals](https://www.finance.senate.gov/chairmans-news) (Tier 1) (VERIFIED)
 - ~~[Joint Committee on Taxation: Billionaires Income Tax revenue estimate](https://www.jct.gov/publications/?search_term=The%20Finance%20Committee%20and%20Corporate%20Tax%20Enforcement)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - [Washington Post: Democrats move to finalize new billionaire tax proposal targeting 700 wealthiest Americans](https://www.washingtonpost.com/us-policy/2021/10/22/sinema-warren-billionaire-tax/) (Tier 2) (VERIFIED)

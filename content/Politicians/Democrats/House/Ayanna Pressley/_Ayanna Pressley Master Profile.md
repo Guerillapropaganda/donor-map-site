@@ -196,7 +196,7 @@ Pressley's real power base is Labor ($278,750 career PAC) and Ideological donors
 
 ### Verified
 - ~~[Congress.gov: Ayanna Pressley member profile](https://www.congress.gov/member/ayanna-pressley/P000617)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
-- [FEC Candidate: Ayanna Pressley campaign finance summary](https://www.fec.gov/data/candidate/H8MA07032/) (Tier 1) (VERIFIED)
+- {{src:src_006345}} (Tier 1) (VERIFIED)
 - ~~[Congress.gov: H.Res.702 — Criminal justice reform resolution (116th Congress)](https://www.congress.gov/bill/116th-congress/house-resolution/702/all-info)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - ~~[Congress.gov: H.R.3412 — Ending Administrative Garnishment Act of 2025](https://www.congress.gov/bill/119th-congress/house-bill/3412)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - [Pressley House.gov: Student debt cancellation floor speech](https://pressley.house.gov/2022/09/21/video-pressley-heralds-student-debt-cancellation-in-powerful-floor-speech/) (Tier 1) (VERIFIED)
@@ -340,7 +340,7 @@ Pressley's real power base is Labor ($278,750 career PAC) and Ideological donors
 | 2020 | $2,190,613 | $1,775,676 | 501037.26 |
 | 2018 | $1,491,070 | $1,404,970 | 86099.78 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H8MA07032/) (Tier 1) (VERIFIED)
+- {{src:src_006345}} (Tier 1) (VERIFIED)
 <!-- auto:fec-summary end -->
 
 ### Committee Assignments (Congress.gov)
@@ -420,7 +420,7 @@ Pressley's real power base is Labor ($278,750 career PAC) and Ideological donors
 | INDIVISIBLE PROJECT INC. | $41,981 | $0 |
 | WE DECIDE | $0 | $35,256 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H8MA07032/) (Tier 1)
+- {{src:src_006345}} (Tier 1)
 <!-- auto:fec-politician end -->
 
 ### Wikipedia

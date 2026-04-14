@@ -112,8 +112,8 @@ The 2026 cycle reveals the scale. Torres has raised $5,052,480 with $1,616,453 f
 
 ### Sources
 
-- [FEC Candidate: Ritchie Torres campaign finance summary](https://www.fec.gov/data/candidate/H0NY15160/) (Tier 1) (VERIFIED)
-- [FEC Candidate: Ritchie Torres industry breakdown 2024](https://www.fec.gov/data/candidate/H0NY15160/) (Tier 1) (VERIFIED)
+- {{src:src_001730}} (Tier 1) (VERIFIED)
+- {{src:src_001730}} (Tier 1) (VERIFIED)
 - [AIPAC Tracker on X: Torres AIPAC donations $683,006](https://x.com/TrackAIPAC/status/1892365341709279628?lang=en) (VERIFIED) (Tier 3 — activist tracking) (Tier 2)
 - [AIPAC Tracker on X: Torres Israel lobby total $1.5M+](https://x.com/TrackAIPAC/status/1793830657472471181) (Tier 3) (VERIFIED)
 - [Jewish Currents: Ritchie Torres is the Future of Pro-Israel Politics](https://jewishcurrents.org/ritchie-torres-is-the-future-of-pro-israel-politics) (Tier 2) (VERIFIED)
@@ -160,7 +160,7 @@ The 2026 cycle reveals the scale. Torres has raised $5,052,480 with $1,616,453 f
 | PROTECT PROGRESS | $220,295 | $0 |
 | FAIRSHAKE | $126,168 | $0 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H0NY15160/) (Tier 1) (VERIFIED)
+- {{src:src_001730}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ### Voting Record

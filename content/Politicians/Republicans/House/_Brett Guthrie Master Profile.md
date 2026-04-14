@@ -125,7 +125,7 @@ Guthrie supports PBM transparency requirements and fee disclosure — which moll
 
 ## Sources
 
-- [FEC Candidate: Rep Brett Guthrie Donor Profile](https://www.fec.gov/data/candidate/H8KY02031/) (Tier 1) (VERIFIED)
+- {{src:src_001563}} (Tier 1) (VERIFIED)
 - [PhRMA 2024 Campaign Finance Data](https://www.opensecrets.org/orgs/pharmaceuticals-health-products/summary?id=D000000149) (Tier 1) (VERIFIED)
 - [House Energy & Commerce Committee Composition, 118th Congress](https://energycommerce.house.gov/about) (Tier 1) (VERIFIED)
 - [Orphan Drug Act expansion votes, Rep Guthrie record](https://www.govtrack.us/congress/members/vern_buchanan/412196) (Tier 1) (VERIFIED)
@@ -165,5 +165,5 @@ Guthrie supports PBM transparency requirements and fee disclosure — which moll
 | NATIONAL RIGHT TO LIFE POLITICAL ACTION COMMITTEE | $4,751 | $0 |
 | EVERYTOWN FOR GUN SAFETY ACTION FUND | $0 | $862 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H8KY02031/) (Tier 1) (VERIFIED)
+- {{src:src_001563}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->

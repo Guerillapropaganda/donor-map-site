@@ -151,8 +151,8 @@ Agriculture Committee jurisdiction maps directly to donor base: Farm Bill (crop 
 
 ## Sources
 
-- [FEC Candidate: Glenn Thompson donor profile](https://www.fec.gov/data/candidate/H8PA05071/) (Tier 1) (VERIFIED)
-- [FEC Candidate: Glenn Thompson industry donors](https://www.fec.gov/data/candidate/H8PA05071/) (Tier 1) (VERIFIED)
+- {{src:src_004463}} (Tier 1) (VERIFIED)
+- {{src:src_004463}} (Tier 1) (VERIFIED)
 - [Congress.gov: Glenn Thompson](https://www.congress.gov/member/glenn-thompson/T000467) (Tier 1) (VERIFIED)
 - [House Agriculture Committee: Chairman Thompson](https://agriculture.house.gov/about/chairman-thompson.htm) (Tier 1) (VERIFIED)
 - ~~[CBPP: House Agriculture Committee Chairman Proposes Cut in SNAP Benefits](https://www.cbpp.org/blog/house-agriculture-committee-chairman-proposes-cut-in-snap-benefits-reversing-bipartisan)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
@@ -197,7 +197,7 @@ Agriculture Committee jurisdiction maps directly to donor base: Farm Bill (crop 
 | PENNSYLVANIA PRO-LIFE FEDERATION PAC | $1,635 | $0 |
 | EVERYTOWN FOR GUN SAFETY ACTION FUND | $0 | $862 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H8PA05071/) (Tier 1) (VERIFIED)
+- {{src:src_004463}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ### Voting Record
@@ -227,5 +227,5 @@ Agriculture Committee jurisdiction maps directly to donor base: Farm Bill (crop 
 | 2016 | $1,206,124 | $1,232,583 | 284051.79 |
 | ... | 4 more cycles available | | |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H8PA05071/) (Tier 1)
+- {{src:src_004463}} (Tier 1)
 <!-- auto:fec-summary end -->

@@ -39,6 +39,6 @@ Under Westerman's chairmanship, efforts to reform the 1872 Mining Law — which 
 ### Sources
 
 - ~~[Congress.gov: Bruce Westerman member profile](https://www.congress.gov/member/bruce-westerman/W000821)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
-- [FEC Candidate: Bruce Westerman campaign finance summary](https://www.fec.gov/data/candidate/H4AR04048/) (Tier 1) (VERIFIED)
+- {{src:src_004533}} (Tier 1) (VERIFIED)
 - [Ballotpedia: Bruce Westerman](https://ballotpedia.org/Bruce_Westerman) (Tier 3) (VERIFIED)
 

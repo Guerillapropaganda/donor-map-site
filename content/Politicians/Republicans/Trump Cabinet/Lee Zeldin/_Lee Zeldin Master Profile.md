@@ -146,7 +146,7 @@ The 2022 governor race reveals the donor network's full scope. Ronald Lauder, pr
 
 ## Sources
 
-- [FEC Candidate: Zeldin congressional fundraising](https://www.fec.gov/data/candidate/H8NY01148/) (Tier 1) (VERIFIED)
+- {{src:src_002925}} (Tier 1) (VERIFIED)
 - [E&E News: EPA deregulatory actions and Zeldin consulting fees](https://www.eenews.net/articles/epas-zeldin-emerges-as-project-2025-frontman/) (Tier 2) (VERIFIED)
 - [CBS News: EPA rollbacks health effects analysis](https://www.cbsnews.com/news/epa-rollback-3-ways-affect-americans-health/) (Tier 2) (VERIFIED)
 - [Rolling Stone: Zeldin paid op-eds and secret clients](https://www.rollingstone.com/politics/politics-news/lee-zeldin-trump-epa-op-eds-1235233073/) (Tier 2) (VERIFIED)
@@ -186,7 +186,7 @@ The 2022 governor race reveals the donor network's full scope. Ronald Lauder, pr
 | DEMOCRATIC CONGRESSIONAL CAMPAIGN COMMITTEE | $0 | $3,039,289 |
 | DCCC | $0 | $2,185,865 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H8NY01148/) (Tier 1) (VERIFIED)
+- {{src:src_002925}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ### Wikipedia

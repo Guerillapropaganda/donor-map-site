@@ -191,7 +191,7 @@ The bipartisan contribution pattern confirms the structural analysis: Tenet fund
 
 - [OpenSecrets: Tenet Healthcare organizational profile](https://www.opensecrets.org/orgs/tenet-healthcare/summary?id=D000000751) (Tier 1) (VERIFIED)
 - [OpenSecrets: Tenet Healthcare lobbying profile](https://www.opensecrets.org/orgs/tenet-healthcare/lobbying?id=D000000751) (Tier 1) (VERIFIED)
-- [FEC: Tenet Healthcare Corporation Political Action Committee (C00119354)](https://www.fec.gov/data/committee/C00119354/) (Tier 1) (VERIFIED)
+- {{src:src_012126}} (Tier 1) (VERIFIED)
 - [DOJ: Tenet Healthcare to Pay U.S. More Than $900 Million (2006)](https://www.justice.gov/archive/opa/pr/2006/June/06_civ_406.html) (Tier 1) (VERIFIED)
 - [DOJ: Hospital Chain Will Pay Over $513 Million for Defrauding the United States (2016)](https://www.justice.gov/archives/opa/pr/hospital-chain-will-pay-over-513-million-defrauding-united-states-and-making-illegal-payments) (Tier 1) (VERIFIED)
 - [Georgia AG: Landmark Kickback Settlement With Tenet Healthcare — Over $100 Million Returned](https://law.georgia.gov/press-releases/2016-10-03/georgia-reaches-landmark-kickback-settlement-tenet-healthcare-corp-over) (Tier 1) (VERIFIED)

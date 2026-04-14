@@ -130,7 +130,7 @@ The resume inflation tells the whole story. Ratcliffe claimed "dozens" of terror
 
 ## Sources
 
-- [FEC Candidate: Ratcliffe congressional fundraising](https://www.fec.gov/data/candidate/H4TX04153/) (Tier 1) (VERIFIED)
+- {{src:src_002961}} (Tier 1) (VERIFIED)
 - [The Intercept: Ratcliffe AI advisory positions](https://theintercept.com/2025/01/23/cia-nominee-john-ratcliffe-ai/) (Tier 2) (VERIFIED)
 - [Rolling Stone: Ratcliffe defense contractor consulting](https://www.rollingstone.com/politics/politics-features/john-ratcliffe-trump-cia-clients-ai-defense-contractors-1235238009/) (Tier 2) (VERIFIED)
 - [CNN: Resume inflation and terrorism claims](https://edition.cnn.com/2019/08/01/politics/john-ratcliffe-democratic-strategy/index.html) (Tier 2) (VERIFIED)
@@ -190,5 +190,5 @@ The resume inflation tells the whole story. Ratcliffe claimed "dozens" of terror
 | CLUB FOR GROWTH PAC | $5,083 | $0 |
 | THE COMMITTEE TO DEFEND THE PRESIDENT | $5,000 | $0 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H4TX04153/) (Tier 1) (VERIFIED)
+- {{src:src_002961}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->

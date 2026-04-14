@@ -169,10 +169,10 @@ The January 6 texts to Mark Meadows reveal where the ideology actually breaks. C
 
 ## Sources
 
-- [FEC Candidate: Mike Lee campaign finance summary](https://www.fec.gov/data/candidate/S0UT00165/) (Tier 1) (VERIFIED)
-- [FEC Candidate: Mike Lee career industries](https://www.fec.gov/data/candidate/S0UT00165/) (Tier 1) (VERIFIED)
-- [FEC Candidate: Mike Lee career contributors](https://www.fec.gov/data/candidate/S0UT00165/) (Tier 1) (VERIFIED)
-- [FEC: Friends of Mike Lee Inc campaign committee](https://www.fec.gov/data/committee/C00473827/) (Tier 1) (VERIFIED)
+- {{src:src_003323}} (Tier 1) (VERIFIED)
+- {{src:src_003323}} (Tier 1) (VERIFIED)
+- {{src:src_003323}} (Tier 1) (VERIFIED)
+- {{src:src_003325}} (Tier 1) (VERIFIED)
 - [CNN: Meadows texts reveal Lee and Chip Roy lobbied White House to overturn election](https://www.cnn.com/2022/04/15/politics/mike-lee-chip-roy-text-messages-jan-6-mark-meadows-overturn-election/index.html) (Tier 2) (VERIFIED)
 - [CNN: Fact check — Mike Lee's texts contradict his debate claims about January 6](https://www.cnn.com/2022/10/18/politics/fact-check-mike-lee-january-6-texts) (Tier 2) (VERIFIED)
 - [Tech Transparency Project: The Curious Transformation of Mike Lee](https://www.techtransparencyproject.org/articles/the-curious-transformation-of-sen-mike-lee) (Tier 2) (VERIFIED)
@@ -254,5 +254,5 @@ The January 6 texts to Mark Meadows reveal where the ideology actually breaks. C
 | AMERICANS FOR PROSPERITY ACTION, INC. (AFP ACTION) DBA CVA ACTION AND DBA LIBRE ACTION | $2,798,792 | $0 |
 | PROTECT FREEDOM POLITICAL ACTION COMMITTEE | $1,350,000 | $0 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/S0UT00165/) (Tier 1) (VERIFIED)
+- {{src:src_003323}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->

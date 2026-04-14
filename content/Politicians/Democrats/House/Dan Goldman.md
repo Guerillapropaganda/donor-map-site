@@ -130,8 +130,8 @@ Goldman represents the final stage of Democratic realignment: dynastic wealth in
 
 ### Sources
 
-- [FEC Candidate: Dan Goldman campaign finance summary](https://www.fec.gov/data/candidate/H2NY10308/) (Tier 1) (VERIFIED)
-- [FEC Candidate: Dan Goldman industries](https://www.fec.gov/data/candidate/H2NY10308/) (Tier 1) (VERIFIED)
+- {{src:src_005786}} (Tier 1) (VERIFIED)
+- {{src:src_005786}} (Tier 1) (VERIFIED)
 - [Wikipedia: Dan Goldman biography](https://en.wikipedia.org/wiki/Dan_Goldman) (Tier 3) (VERIFIED)
 - ~~[Bloomberg: Levi Strauss heir wealth and campaign](https://www.bloomberg.com/news/articles/2022-07-30/dan-goldman-levi-strauss-heir-would-join-congress-s-richest-with-nyc-win)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 - [HuffPost: Dan Goldman NY-10 Democratic candidate interview](https://www.huffpost.com/entry/dan-goldman-new-york-10-democratic-primary_n_62cdf45be4b0aa392d457aaa) (Tier 2) (VERIFIED)
@@ -167,5 +167,5 @@ Goldman represents the final stage of Democratic realignment: dynastic wealth in
 | TZEDEK PAC | $52,000 | $0 |
 | SIERRA CLUB INDEPENDENT ACTION | $10 | $0 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H2NY10308/) (Tier 1) (VERIFIED)
+- {{src:src_005786}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->

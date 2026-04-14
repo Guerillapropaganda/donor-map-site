@@ -106,8 +106,8 @@ Coinbase is the crypto industry's political infrastructure. The company's $45 mi
 ### Sources
 
 - [OpenSecrets: Coinbase Global organizational profile](https://www.opensecrets.org/orgs/coinbase-global/summary?id=D000075712) (Tier 1)
-- [FEC: Coinbase PAC filings](https://www.fec.gov/data/committee/C00810184/) (Tier 1) (VERIFIED)
-- [FEC: Fairshake PAC filings](https://www.fec.gov/data/committee/C00835959/) (Tier 1) (VERIFIED)
+- {{src:src_009163}} (Tier 1) (VERIFIED)
+- {{src:src_004057}} (Tier 1) (VERIFIED)
 - [ReadSludge: Crypto Ally French Hill to Lead Financial Services Committee](https://readsludge.com/2024/12/31/crypto-ally-french-hill-to-lead-financial-services-committee/) (Tier 2) (VERIFIED)
 - ~~[The Verge: Coinbase political spending and Fairshake PAC](https://www.theverge.com/coinbase-fairshake-pac-political-spending/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 - ~~[Washington Post: Crypto cash helps propel Trump, other allies to 2024 election victory](https://www.washingtonpost.com/business/2024/11/06/crypto-cash-helps-propel-trump-other-allies-2024-election-victory/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)

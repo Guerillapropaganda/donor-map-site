@@ -88,7 +88,7 @@ DSCC fundraising relies on three channels:
 ### Sources
 
 - ~~[OpenSecrets: DSCC spending data](https://www.opensecrets.org/parties/totals?cmte=DSCC)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
-- [FEC: DSCC filings](https://www.fec.gov/data/committee/C00042366/) (Tier 1) (VERIFIED)
+- {{src:src_009594}} (Tier 1) (VERIFIED)
 - [Ballotpedia: DSCC](https://ballotpedia.org/Democratic_Senatorial_Campaign_Committee) (Tier 3) (VERIFIED)
 
 ---

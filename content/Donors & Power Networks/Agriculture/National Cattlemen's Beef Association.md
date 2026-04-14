@@ -219,7 +219,7 @@ Ranchers pay $1/head (mandatory checkoff) → funds flow to NCBA ($45.6M in 2020
 ### Sources
 
 - [OpenSecrets: National Cattlemen's Beef Association Profile](https://www.opensecrets.org/orgs/national-cattlemen-s-beef-assn/summary?id=D000000252) (Tier 1) (VERIFIED)
-- [FEC: NCBA-PAC Committee Data (C00028787)](https://www.fec.gov/data/committee/C00028787/) (Tier 1) (VERIFIED)
+- {{src:src_014592}} (Tier 1) (VERIFIED)
 - [Congress.gov: COOL CRS Report (RS22955)](https://www.congress.gov/crs-product/RS22955) (Tier 1) (VERIFIED)
 - [WTO: DS384 — United States COOL Dispute](https://www.wto.org/english/tratop_e/dispu_e/cases_e/ds384_e.htm) (Tier 1) (VERIFIED)
 - [BLM: 2025 Federal Grazing Fee Announcement](https://www.blm.gov/press-release/blm-usda-forest-service-announce-2025-grazing-fees) (Tier 1) (VERIFIED)

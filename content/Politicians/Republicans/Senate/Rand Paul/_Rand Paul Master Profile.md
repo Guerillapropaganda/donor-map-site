@@ -221,7 +221,7 @@ The dynasty matters for the donor-class analysis: the Paul movement created a pi
 | Total Raised | $11,515 |
 | Cash on Hand | 45.00 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H4OH19044/) (Tier 1) (VERIFIED)
+- {{src:src_003284}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ## Voting Record

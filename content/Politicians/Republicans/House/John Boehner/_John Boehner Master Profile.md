@@ -152,8 +152,8 @@ The post-House career confirms the pattern. Boehner left Congress in 2015 and be
 
 ## Sources
 
-- [FEC Candidate: John Boehner donor profile](https://www.fec.gov/data/candidate/H0OH08029/) (Tier 1) (VERIFIED)
-- ~~[FEC: John Boehner campaign finance (CID: N00003675)](https://www.fec.gov/data/candidate/H2OH08055/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- {{src:src_004386}} (Tier 1) (VERIFIED)
+- ~~{{src:src_004387}}~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - ~~[Mother Jones: John Boehner tobacco check distribution - House floor photograph](https://www.motherjones.com/politics/2011/06/boehner-tobacco-checks)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 - [The Atlantic: John Boehner's tobacco industry career](https://www.theatlantic.com/politics/archive/2011/11/video-of-the-day-sen-vitters-honey-badger-analogy-for-lsu-bama/247837/) (Tier 2) (VERIFIED)
 - ProPublica: John Boehner tobacco lobby protection record (Tier 2) (URL NEEDED — fabricated slug; original ProPublica article not found; tobacco record covered by Mother Jones and Atlantic citations above)
@@ -210,7 +210,7 @@ The post-House career confirms the pattern. Boehner left Congress in 2015 and be
 | MOVEON.ORG POLITICAL ACTION | $0 | $75,194 |
 | BLUE AMERICA PAC | $0 | $19,200 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H0OH08029/) (Tier 1) (VERIFIED)
+- {{src:src_004386}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ### Legislative Activity (GovTrack)

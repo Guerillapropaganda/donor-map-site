@@ -174,8 +174,8 @@ The class function Scott performs is unique and cannot be replicated by a white 
 
 ## Sources
 
-- [FEC Candidate: Tim Scott campaign finance summary (career)](https://www.fec.gov/data/candidate/P80008063/) (Tier 1) (VERIFIED)
-- [FEC Candidate: Tim Scott top industries (career)](https://www.fec.gov/data/candidate/P80008063/) (Tier 1) (VERIFIED)
+- {{src:src_001219}} (Tier 1) (VERIFIED)
+- {{src:src_001219}} (Tier 1) (VERIFIED)
 - [OpenSecrets: Tim Scott 2024 presidential race summary](https://www.opensecrets.org/2024-presidential-race?id=N00031782) (Tier 1) (VERIFIED)
 - [Congress.gov: Tax Cuts and Jobs Act (H.R.1, 115th Congress)](https://www.congress.gov/bill/115th-congress/house-bill/1/text) (Tier 1) (VERIFIED)
 - [Senate Banking Committee: Scott pushes for regulatory clarity in digital asset market structure legislation](https://www.banking.senate.gov/newsroom/majority/scott-pushes-for-regulatory-clarity-in-digital-asset-market-structure-legislation) (Tier 1) (VERIFIED)
@@ -229,7 +229,7 @@ The class function Scott performs is unique and cannot be replicated by a white 
 | Total Raised | $1,539 |
 | Cash on Hand | 1209.41 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/P80008063/) (Tier 1) (VERIFIED)
+- {{src:src_001219}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ### Influence Network (Cross-Reference)

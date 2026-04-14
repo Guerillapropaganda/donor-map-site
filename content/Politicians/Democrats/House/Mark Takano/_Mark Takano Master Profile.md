@@ -155,7 +155,7 @@ Takano's class position as a former teacher is not incidental. He spent 24 years
 
 ## Sources
 
-- [FEC Candidate: Mark Takano donor profile](https://www.fec.gov/data/candidate/H2CA43245/) (Tier 1) (VERIFIED)
+- {{src:src_006046}} (Tier 1) (VERIFIED)
 - ~~[Congress.gov: Mark Takano](https://www.congress.gov/member/mark-takano/T000472)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - [House Veterans' Affairs Democrats: Ranking Member Takano](https://democrats-veterans.house.gov/about/ranking-member) (Tier 1) (VERIFIED)
 - [House.gov: Takano biography](https://takano.house.gov/about) (Tier 1) (VERIFIED)
@@ -207,5 +207,5 @@ Takano's class position as a former teacher is not incidental. He spent 24 years
 | NATIONAL NURSES UNITED FOR PATIENT PROTECTION | $70,135 | $0 |
 | PLANNED PARENTHOOD ACTION FUND OF THE PACIFIC SOUTHWEST PAC | $11,245 | $0 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H2CA43245/) (Tier 1) (VERIFIED)
+- {{src:src_006046}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->

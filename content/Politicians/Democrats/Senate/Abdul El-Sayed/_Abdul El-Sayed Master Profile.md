@@ -64,7 +64,7 @@ Dr. Abdul El-Sayed. Physician, epidemiologist, Rhodes Scholar (Oxford University
 
 ### The Fundraising Disadvantage:
 - El-Sayed's small-dollar model generates roughly 1/3 the total funds available to McMorrow, who benefits from national donor networks attracted by her 2022 viral speech and Warren endorsement. This creates a structural advantage for establishment candidates even in a primary framed as "progressive."
-- FEC filing data: [ABDUL EL-SAYED FOR MICHIGAN](https://www.fec.gov/data/candidate/S6MI00418/) (Tier 1) (VERIFIED)
+- FEC filing data: {{src:src_005620}} (Tier 1) (VERIFIED)
 
 ---
 
@@ -121,7 +121,7 @@ Dr. Abdul El-Sayed. Physician, epidemiologist, Rhodes Scholar (Oxford University
 
 - [Newsweek: Bernie Sanders-Backed Abdul El-Sayed Rakes in Over $24K Per Day](https://www.newsweek.com/michigan-senate-race-election-abdul-el-sayed-fundraising-2096219) (Tier 2) (VERIFIED)
 - [Common Dreams: Sanders Endorses Abdul El-Sayed for US Senate](https://www.commondreams.org/news/abdul-el-sayed) (Tier 2) (VERIFIED)
-- [FEC: Abdul El-Sayed for Michigan](https://www.fec.gov/data/candidate/S6MI00418/) (Tier 1) (VERIFIED)
+- {{src:src_005620}} (Tier 1) (VERIFIED)
 
 ---
 
@@ -169,7 +169,7 @@ The Michigan primary is a proxy war between two factions of the Democratic donor
 
 ## Sources
 
-- [Abdul El-Sayed - FEC Candidate Page](https://www.fec.gov/data/candidate/S6MI00418/) (Tier 1) (VERIFIED)
+- {{src:src_005620}} (Tier 1) (VERIFIED)
 - ~~[ABDUL EL-SAYED FOR MICHIGAN - FollowTheMoney.org](https://www.followthemoney.org/tools/election-overview?eid=44060467)~~ (was FollowTheMoney — site merged into OpenSecrets, all URLs dead) (Tier 1)
 - [Ready to 'Fight for the Working Class': Sanders Endorses Abdul El-Sayed for US Senate](https://www.commondreams.org/news/abdul-el-sayed) (Tier 2)
 - [Abdul El-Sayed joins race for Michigan's U.S. Senate seat with Bernie Sanders endorsement](https://www.metrotimes.com/news/abdul-el-sayed-joins-race-for-michigans-us-senate-seat-with-bernie-sanders-endorsement-39147339/) (Tier 2) (VERIFIED)
@@ -197,7 +197,7 @@ The Michigan primary is a proxy war between two factions of the Democratic donor
 |-----------|---------|--------|
 | THE PEOPLE UNITED PAC | $50 | $0 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/S6MI00418/) (Tier 1) (VERIFIED)
+- {{src:src_005620}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ### OFAC Sanctions Screening

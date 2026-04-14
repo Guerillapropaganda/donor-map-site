@@ -49,7 +49,7 @@ Hill's CFPB overdraft fee reversal is the second act of the donor-service functi
 ### Sources
 
 - [House.gov: Rep. Hill's FIT21 legislation passes the House](https://hill.house.gov/news/documentsingle.aspx?DocumentID=9315) (Tier 1) (VERIFIED)
-- [FEC Candidate: French Hill campaign finance summary](https://www.fec.gov/data/candidate/H4AR02141/) (Tier 1) (VERIFIED)
+- {{src:src_004476}} (Tier 1) (VERIFIED)
 - [ReadSludge: Crypto Ally French Hill to Lead Financial Services Committee](https://readsludge.com/2024/12/31/crypto-ally-french-hill-to-lead-financial-services-committee/) (Tier 2) (VERIFIED)
 - [Arkansas Times: Banker French Hill clears path for bankers to charge you more](https://arktimes.com/arkansas-blog/2025/02/19/banker-french-hill-clears-path-for-bankers-to-charge-you-more) (Tier 2) (VERIFIED)
 - [Ballotpedia: French Hill](https://ballotpedia.org/French_Hill) (Tier 3) (VERIFIED)

@@ -105,7 +105,7 @@ Wiener uses technocratic framing — "supply and demand," "evidence-based housin
 - [Senator Wiener: Biography](https://sd11.senate.ca.gov/biography) (Tier 1) (VERIFIED)
 - [Wikipedia: Scott Wiener](https://en.wikipedia.org/wiki/Scott_Wiener) (Tier 4) (VERIFIED)
 - [Ballotpedia: Scott Wiener](https://ballotpedia.org/Scott_Wiener) (Tier 3) (VERIFIED)
-- [FEC: Wiener congressional campaign](https://www.fec.gov/data/committee/C00909283/) (Tier 1) (VERIFIED)
+- {{src:src_005155}} (Tier 1) (VERIFIED)
 - [OpenSecrets: Wiener contributors 2024](https://www.opensecrets.org/officeholders/scott-wiener/contributors?cycle=2024&id=32203683) (Tier 1) (VERIFIED)
 - [OpenSecrets: Wiener contributors 2017](https://www.opensecrets.org/officeholders/scott-wiener/contributors?cycle=2017&id=32203683) (Tier 1) (VERIFIED)
 - [Housing is a Human Right: Wiener real estate money ties](https://www.housingisahumanright.org/selling-out-california-scott-wiener-money-ties-to-big-real-estate/) (Tier 2) (VERIFIED)
@@ -128,7 +128,7 @@ Wiener uses technocratic framing — "supply and demand," "evidence-based housin
 | PAC Contributions | $28,100 |
 | Cash on Hand | 2274364.87 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H8CA11116/) (Tier 1) (VERIFIED)
+- {{src:src_005165}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ### Voting Record

@@ -238,7 +238,7 @@ The pilot model, demonstrate that an alternative is possible, then watch as the 
 - [PBS NewsHour: Klobuchar, Buttigieg endorse Biden on eve of Super Tuesday](https://www.pbs.org/newshour/politics/klobuchar-buttigieg-endorse-biden-on-eve-of-super-tuesday) (Tier 2) (VERIFIED)
 - [CNN Politics: Elizabeth Warren Drops Out of 2020 Presidential Race](https://www.cnn.com/2020/03/05/politics/elizabeth-warren-drops-out) (Tier 2) (VERIFIED)
 - [OpenSecrets: Elizabeth Warren 2020 Cycle Funding](https://www.opensecrets.org/2020-presidential-race?id=N00033492) (Tier 1) (VERIFIED)
-- [FEC: Elizabeth Warren Presidential Campaign Filings](https://www.fec.gov/data/candidate/P00009621/) (Tier 1) (VERIFIED)
+- {{src:src_000346}} (Tier 1) (VERIFIED)
 - [FactCheck.org: Fairshake](https://www.factcheck.org/2024/04/fairshake/) (Tier 2) (VERIFIED)
 - [CoinDesk: Crypto PAC Fairshake Claims Another Win Against Elizabeth Warren Ally With Bush Loss](https://www.coindesk.com/policy2024/08/07/crypto-pac-fairshake-claims-another-win-against-elizabeth-warren-ally-with-bush-loss) (Tier 2) (VERIFIED)
 - [Boston Globe: As crypto industry looks to widen its influence in Washington, Elizabeth Warren emerges as a target](https://www.bostonglobe.com/2024/03/15/metro/elizabeth-warren-reelection-crypto-industry/) (Tier 2) (VERIFIED)

@@ -116,7 +116,7 @@ The Bowman case pairs with the Omar case in the vault's donor-class map: both sh
 > [!money]
 > Bowman raised $6M in the 2024 cycle — a strong total for any House incumbent. His small-dollar base ($1.63M unitemized, 27% of individual contributions) reflects genuine grassroots support. Zero dollars from party committees confirms his outsider status within the Democratic establishment. But $6M is irrelevant when opposing outside spending exceeds $14.5M from a single super PAC. The fundraising gap isn't a failure of grassroots organizing — it's a structural ceiling on what grassroots can compete against.
 
-- [FEC: Bowman candidate financial summary 2024](https://www.fec.gov/data/candidate/H0NY16143/) (Tier 1) (VERIFIED)
+- {{src:src_006137}} (Tier 1) (VERIFIED)
 
 ---
 
@@ -302,7 +302,7 @@ Bowman's zero dollars from party committees confirms the structural isolation. T
 ## Sources
 
 ### Verified
-- [FEC: Bowman candidate financial summary 2024](https://www.fec.gov/data/candidate/H0NY16143/) (Tier 1)
+- {{src:src_006137}} (Tier 1)
 - [FEC: Independent expenditures opposing Bowman](https://www.fec.gov/data/independent-expenditures/?candidate_id=H0NY16143&support_oppose_indicator=O) (Tier 1) (VERIFIED)
 - [FEC: United Democracy Project IE filings against Bowman](https://www.fec.gov/data/independent-expenditures/?q_spender=united+democracy+project&candidate_id=H0NY16143) (Tier 1) (VERIFIED)
 - ~~[Congress.gov: Jamaal Bowman member profile](https://www.congress.gov/member/jamaal-bowman/B001223)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
@@ -344,7 +344,7 @@ Bowman's zero dollars from party committees confirms the structural isolation. T
 | DMFI PAC | $0 | $990,125 |
 | COURAGE TO CHANGE | $469,200 | $0 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H0NY16143/) (Tier 1) (VERIFIED)
+- {{src:src_006137}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ### Legislative Activity (GovTrack)
@@ -428,7 +428,7 @@ _No committee data found._
 | 2022 | $1,877,493 | $1,933,450 | 21516.46 |
 | 2020 | $2,915,373 | $2,837,899 | 77473.96 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H0NY16143/) (Tier 1)
+- {{src:src_006137}} (Tier 1)
 <!-- auto:fec-summary end -->
 
 ### Voting Record

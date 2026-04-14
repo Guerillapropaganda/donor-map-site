@@ -154,7 +154,7 @@ His son of a union plumber origin story is genuine, not performed. But even genu
 ## Sources
 
 - [OpenSecrets: Joseph Morelle Campaign Finance Summary](https://www.opensecrets.org/members-of-congress/summary?cid=N00043207) (Tier 1) (VERIFIED)
-- [FEC: Joe Morelle for Congress](https://www.fec.gov/data/committee/C00660407/) (Tier 1) (VERIFIED)
+- {{src:src_006060}} (Tier 1) (VERIFIED)
 - [Rochester Beacon: The Money Trail](https://rochesterbeacon.com/2018/11/15/the-money-trail/) (Tier 2) (VERIFIED)
 - [House Administration Committee Democrats: Ranking Member Morelle Voting Rights Report](https://democrats-cha.house.gov/media/press-releases/ranking-member-morelle-releases-voting-rights-report-focused-native-americans) (Tier 1) (VERIFIED)
 - [House Administration Committee Democrats: Morelle Rejects SAVE Act](https://democrats-cha.house.gov/media/press-releases/schumer-padilla-morelle-voting-rights-advocates-reject-republicans-save) (Tier 1) (VERIFIED)
@@ -202,7 +202,7 @@ party:: Democrat
 | PLANNED PARENTHOOD VOTES | $195 | $0 |
 | NEA ADVOCACY FUND | $68 | $0 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H8NY25105/) (Tier 1) (VERIFIED)
+- {{src:src_006057}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ### Committee Assignments (Congress.gov)
@@ -274,7 +274,7 @@ party:: Democrat
 | 2020 | $1,417,965 | $1,317,025 | 160175.38 |
 | 2018 | $1,896,368 | $1,837,133 | 59235.42 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H8NY25105/) (Tier 1)
+- {{src:src_006057}} (Tier 1)
 <!-- auto:fec-summary end -->
 
 ### Voting Record

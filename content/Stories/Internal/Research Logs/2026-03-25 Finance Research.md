@@ -258,7 +258,7 @@ The two main Republican congressional super PACs raised a combined $175M in 2025
 **Vault profiles to update:** [[Senate Leadership Fund]], [[Congressional Leadership Fund]], [[Ken Griffin - Citadel]]
 
 ### Sources:
-- [FEC: SLF PAC committee overview](https://www.fec.gov/data/committee/C00571703/?tab=summary) (Tier 1) (VERIFIED)
+- {{src:src_002105}} (Tier 1) (VERIFIED)
 - ~~[Axios: The 2026 midterms spending explosion has begun](https://www.axios.com/2026/02/03/2025-campaign-fundraising)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2) (UNVERIFIED, not Chrome-checked this session)
 
 ---

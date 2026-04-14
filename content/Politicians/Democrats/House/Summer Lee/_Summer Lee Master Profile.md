@@ -198,7 +198,7 @@ The darker implication: her safety is not a product of principle or popularity. 
 | WORKING FAMILIES PARTY PAC | $640,000 | $0 |
 | CONGRESSIONAL PROGRESSIVE CAUCUS PAC | $437,462 | $0 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H2PA18200/) (Tier 1) (VERIFIED)
+- {{src:src_005831}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ### Legislative Activity (Congress.gov)

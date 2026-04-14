@@ -93,7 +93,7 @@ The meat processing and products industry spent $886,000 on election-related act
 > The meatpacking industry's political spending is modest in absolute terms — under $1M per cycle in direct PAC contributions, $2-5M in lobbying — but the return is extraordinary. A $15,615 OSHA fine for a plant where seven workers died of COVID represents a regulatory capture so complete that the penalty amounts to a rounding error on a single day's production. The $2.2M Tyson spent on lobbying in 2025 purchased the withdrawal of USDA rules that would have restructured the industry's market power. The ROI is incalculable because the "investment" is not buying favorable policy — it's buying the absence of enforcement against an 85% market concentration that economic theory says should not exist.
 
 - ~~[OpenSecrets: Tyson Foods PAC candidate recipients 2024](https://www.opensecrets.org/political-action-committees-pacs/tyson-foods/C00169821/candidate-recipients/2024)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
-- [FEC: Tyson Foods Inc Political Action Committee (TYPAC)](https://www.fec.gov/data/committee/C00169821/) (Tier 1) (VERIFIED)
+- {{src:src_010355}} (Tier 1) (VERIFIED)
 - ~~[OpenSecrets: Tyson Foods lobbying profile](https://www.opensecrets.org/orgs/tyson-foods/lobbying?id=D000000460)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - [OpenSecrets: Meat processing & products PAC contributions 2024](https://www.opensecrets.org/political-action-committees-pacs/industry-detail/G2300/2024) (Tier 1) (VERIFIED)
 
@@ -155,7 +155,7 @@ The COVID-19 crisis proved the model. The industry drafted its own executive ord
 - [OpenSecrets: Tyson Foods PAC candidate recipients 2024](https://www.opensecrets.org/political-action-committees-pacs/tyson-foods/C00169821/candidate-recipients/2024) (Tier 1)
 - [OpenSecrets: Tyson Foods lobbying profile](https://www.opensecrets.org/orgs/tyson-foods/lobbying?id=D000000460) (Tier 1)
 - [OpenSecrets: Meat processing & products PAC contributions 2024](https://www.opensecrets.org/political-action-committees-pacs/industry-detail/G2300/2024) (Tier 1)
-- [FEC: Tyson Foods Inc Political Action Committee (TYPAC)](https://www.fec.gov/data/committee/C00169821/) (Tier 1)
+- {{src:src_010355}} (Tier 1)
 - [USDA ERS: Concentration in U.S. Meatpacking Industry](https://www.ers.usda.gov/amber-waves/2024/january/concentration-in-u-s-meatpacking-industry-and-how-it-affects-competition-and-cattle-prices) (Tier 1)
 - [Missouri Independent: Meat industry increases political spending as USDA updates regulations](https://missouriindependent.com/2024/06/06/meat-industry-increases-political-spending-lobbying-as-usda-updates-crucial-regulations/) (Tier 2) (VERIFIED)
 - [Agriculture Dive: Big Ag spending big on lobbying and 2024 election](https://www.agriculturedive.com/news/agriculture-lobbying-2024-election-campaign-spending-farm-bill/730813/) (Tier 2)

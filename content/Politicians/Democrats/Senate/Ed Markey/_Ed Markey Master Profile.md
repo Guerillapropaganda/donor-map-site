@@ -153,7 +153,7 @@ The structural question is whether Markey's evolution is replicable or anomalous
 
 ## Sources
 
-- [FEC Candidate: Ed Markey donor profile](https://www.fec.gov/data/candidate/H6MA07101/) (Tier 1) (VERIFIED)
+- {{src:src_005450}} (Tier 1) (VERIFIED)
 - ~~[Congress.gov: Edward J. Markey](https://www.congress.gov/member/edward-markey/M000133)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - [Senate.gov: About Ed Markey](https://www.markey.senate.gov/about) (Tier 1) (VERIFIED)
 - [Senate.gov: Markey committee assignments](https://www.markey.senate.gov/about/committee-assignments) (Tier 1) (VERIFIED)
@@ -195,7 +195,7 @@ The structural question is whether Markey's evolution is replicable or anomalous
 | SIERRA CLUB INDEPENDENT ACTION | $6,495 | $0 |
 | LEAGUE OF CONSERVATION VOTERS | $0 | $2,106 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H6MA07101/) (Tier 1) (VERIFIED)
+- {{src:src_005450}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ### Legislative Activity (GovTrack)

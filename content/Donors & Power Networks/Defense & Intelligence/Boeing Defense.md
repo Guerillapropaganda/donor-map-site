@@ -133,7 +133,7 @@ The Both-Sides Illusion pattern is central to Boeing's operation: the company fu
 - [OpenSecrets: Boeing summary — contributions and lobbying overview](https://www.opensecrets.org/orgs/boeing-co/summary?id=D000000100) (Tier 1) (VERIFIED)
 - [OpenSecrets: Boeing lobbying profile — annual totals and bills lobbied](https://www.opensecrets.org/orgs/boeing-co/lobbying?id=D000000100) (Tier 1) (VERIFIED)
 - [OpenSecrets: Boeing PAC contributions to federal candidates 2024](https://www.opensecrets.org/political-action-committees-pacs/boeing-co/C00142711/candidate-recipients/2024) (Tier 1) (VERIFIED)
-- [FEC: The Boeing Company PAC — committee overview and filings](https://www.fec.gov/data/committee/C00142711/) (Tier 1) (VERIFIED)
+- {{src:src_013084}} (Tier 1) (VERIFIED)
 - [DOD: Contract announcements](https://www.defense.gov/News/Contracts/) (Tier 1) (NEEDS REVIEW)
 - [Defense News: How Boeing won a US Air Force program and lost $7B — KC-46 cost overruns](https://www.defensenews.com/industry/2024/01/09/cautionary-tale-how-boeing-won-a-us-air-force-program-and-lost-7b/) (Tier 2) (VERIFIED)
 - [Defense News: Boeing wins contract for NGAD fighter jet, dubbed F-47](https://www.defensenews.com/air/2025/03/21/boeing-wins-contract-for-ngad-fighter-jet-dubbed-f-47/) (Tier 2) (VERIFIED)

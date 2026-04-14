@@ -234,7 +234,7 @@ The Inflation Reduction Act represents the first breach in this structure. PhRMA
 - [OpenSecrets 2015–2024 Annual Cycle Profiles](https://lda.gov/filings/public/filing/search/) (Tier 1) (VERIFIED)
 - [Medicare Drug Price Negotiation Program • CMS.gov](https://www.cms.gov/priorities/medicare-prescription-drug-affordability/overview/medicare-drug-price-negotiation-program) (Tier 1) (VERIFIED)
 - [Inflation Reduction Act Drug Negotiation Provision • Congressional Research Service](https://sgp.fas.org/crs/health/IF12447.pdf) (Tier 1) (VERIFIED)
-- [FEC PhRMA PAC Filings](https://www.fec.gov/data/committee/C00021972/) (Tier 1) (VERIFIED)
+- {{src:src_010493}} (Tier 1) (VERIFIED)
 - [PhRMA 2025 Annual Membership Survey](https://cdn.aglty.io/phrma/Report%20-%20PhRMA%202025%20Annual%20Membership%20Survey%20-%20July%202025.pdf) (Tier 1) (VERIFIED)
 
 #### Tier 2 (Major investigative journalism and secondary analysis):

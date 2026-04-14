@@ -173,8 +173,8 @@ Shooters Grill, Boebert's gun-themed restaurant in Rifle, accumulated $600,000+ 
 
 ## Sources
 
-- [FEC Candidate: Lauren Boebert campaign finance summary](https://www.fec.gov/data/candidate/H0CO03165/) (Tier 1) (VERIFIED)
-- [FEC: Lauren Boebert committee filings](https://www.fec.gov/data/candidate/H0CO03165/) (Tier 1) (VERIFIED)
+- {{src:src_004373}} (Tier 1) (VERIFIED)
+- {{src:src_004373}} (Tier 1) (VERIFIED)
 - [FEC: MUR 7876 — mileage reimbursement complaint](https://www.fec.gov/files/legal/murs/7876/7876_12.pdf) (Tier 1) (VERIFIED)
 - ~~[Congress.gov: Lauren Boebert member profile](https://www.congress.gov/member/lauren-boebert/B000825)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - [Colorado Sun: Business records tie Boebert to husband's gas firm](https://coloradosun.com/2021/08/20/lauren-boebert-husband-jayson-oil-gas-consulting-terra-energy/) (Tier 2) (VERIFIED)
@@ -220,7 +220,7 @@ Shooters Grill, Boebert's gun-themed restaurant in Rifle, accumulated $600,000+ 
 | LCV VICTORY FUND | $0 | $979,880 |
 | COLORADO UNITED PAC | $0 | $720,000 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H0CO03165/) (Tier 1) (VERIFIED)
+- {{src:src_004373}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ### Voting Record

@@ -238,7 +238,7 @@ The Warren endorsement crystallizes the class alignment. Elizabeth Warren chose 
 
 ## Sources
 
-- [Mallory McMorrow - FEC Candidate Page](https://www.fec.gov/data/candidate/S6MI00392/) (Tier 1) (VERIFIED)
+- {{src:src_005277}} (Tier 1) (VERIFIED)
 - ~~[MCMORROW, MALLORY - FollowTheMoney.org](https://www.followthemoney.org/tools/election-overview?eid=44066166&default=candidate)~~ (was FollowTheMoney — site merged into OpenSecrets, all URLs dead) (Tier 1)
 - [Viral speech: Michigan Sen. Mallory McMorrow fires back at colleague's 'grooming' accusation](https://www.clickondetroit.com/news/local/2022/04/20/viral-speech-michigan-sen-mallory-mcmorrow-fires-back-at-colleagues-grooming-accusation/) (Tier 2) (VERIFIED)
 - [Democrat McMorrow's rousing anti-hate speech leads to $250,000 in donations in one day](https://www.metrotimes.com/news/democrat-mcmorrows-rousing-anti-hate-speech-leads-to-250000-in-donations-in-one-day-29865253/) (Tier 2) (VERIFIED)
@@ -265,7 +265,7 @@ The Warren endorsement crystallizes the class alignment. Elizabeth Warren chose 
 |-----------|---------|--------|
 | THE PEOPLE UNITED PAC | $50 | $0 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/S6MI00392/) (Tier 1) (VERIFIED)
+- {{src:src_005277}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ### DOJ Press Releases

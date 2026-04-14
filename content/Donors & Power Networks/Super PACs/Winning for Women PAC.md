@@ -30,7 +30,7 @@ Dickerson's connection to Singer is the organizational DNA. Singer — founder o
 
 The PAC claims a network of over 800,000 members who provide small-dollar and grassroots support. In its most recent full cycle, WFW and related entities raised approximately $17 million, directing nearly $4 million in hard dollars to endorsed candidates. The organization positions itself as the Republican counterpart to [[EMILY's List]], though it operates at a fraction of EMILY's List's scale ($17M vs. $1B+ cumulative).
 
-- [FEC: Winning for Women, Inc. PAC committee overview](https://www.fec.gov/data/committee/C00646703/) (Tier 1) (VERIFIED)
+- {{src:src_009898}} (Tier 1) (VERIFIED)
 - [OpenSecrets: Winning for Women PAC profile 2024](https://www.opensecrets.org/political-action-committees-pacs/winning-for-women/C00646703/summary/2024) (Tier 1) (VERIFIED)
 
 ---
@@ -142,7 +142,7 @@ The pattern this reveals: **Self-Funding as Independence** inverted. WFW doesn't
 
 ### Sources
 
-- [FEC: Winning for Women, Inc. PAC committee overview](https://www.fec.gov/data/committee/C00646703/) (Tier 1)
+- {{src:src_009898}} (Tier 1)
 - [OpenSecrets: Winning for Women PAC profile 2024](https://www.opensecrets.org/political-action-committees-pacs/winning-for-women/C00646703/summary/2024) (Tier 1)
 - [OpenSecrets: Winning for Women organization summary](https://www.opensecrets.org/orgs/winning-for-women/summary?id=D000070512) (Tier 1) (VERIFIED)
 - [FEC Independent Expenditures: Winning for Women outside spending 2024](https://www.fec.gov/data/independent-expenditures/) (Tier 1)

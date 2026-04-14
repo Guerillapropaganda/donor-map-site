@@ -41,6 +41,6 @@ The border is Cornyn's other jurisdiction-donor alignment: he negotiated the fai
 ### Sources
 
 - ~~[Congress.gov: John Cornyn member profile](https://www.congress.gov/member/john-cornyn/C001056)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
-- [FEC Candidate: John Cornyn campaign finance summary](https://www.fec.gov/data/candidate/S2TX00106/) (Tier 1) (VERIFIED)
+- {{src:src_003536}} (Tier 1) (VERIFIED)
 - [Ballotpedia: John Cornyn](https://ballotpedia.org/John_Cornyn) (Tier 3) (VERIFIED)
 

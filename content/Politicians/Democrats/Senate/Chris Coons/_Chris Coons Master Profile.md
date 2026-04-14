@@ -156,8 +156,8 @@ During the global COVID vaccine crisis, Coons invoked Red Scare rhetoric and the
 
 ## Sources
 
-- [FEC Candidate: Chris Coons Campaign Finance Summary](https://www.fec.gov/data/candidate/S0DE00092/) (Tier 1) (VERIFIED)
-- [FEC: Chris Coons for Delaware (C00475392)](https://www.fec.gov/data/committee/C00475392/) (Tier 1) (VERIFIED)
+- {{src:src_005546}} (Tier 1) (VERIFIED)
+- {{src:src_005549}} (Tier 1) (VERIFIED)
 - [Jacobin: Chris Coons Is Big Pharma's Man in Washington](https://jacobin.com/2020/09/chris-coons-big-pharma-joe-biden) (Tier 2) (VERIFIED)
 - [Jacobin: Sen. Chris Coons's Defense of Vaccine Apartheid Is Obscene](https://jacobin.com/2021/05/senator-chris-coons-vaccine-patent-remarks-csis-cold-war-red-scare) (Tier 2) (VERIFIED)
 - [OpenSecrets: Coons holds massive financial advantage over progressive challenger](https://www.opensecrets.org/news/2020/09/chris-coons-2020-progressive-challenger/) (Tier 1) (VERIFIED)
@@ -235,7 +235,7 @@ party:: Democrat
 | AMERICAN WORKER INC, THE | $7,540 | $0 |
 | THE NATIONAL REPUBLICAN TRUST PAC | $0 | $6,615 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/S0DE00092/) (Tier 1) (VERIFIED)
+- {{src:src_005546}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ## Committee Assignments (Congress.gov)

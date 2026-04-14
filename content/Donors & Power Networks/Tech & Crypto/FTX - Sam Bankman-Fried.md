@@ -124,7 +124,7 @@ SBF represents the purest case study in the vault of money-as-political-infrastr
 ### Sources
 
 - [DOJ: United States v. Samuel Bankman-Fried — Indictment and Sentencing](https://www.justice.gov/usao-sdny/united-states-v-samuel-bankman-fried-aka-sbf-22-cr-673-lak) (Tier 1) (VERIFIED)
-- [FEC: Protect Our Future PAC Committee Overview (C00801514)](https://www.fec.gov/data/committee/C00801514/) (Tier 1) (NEEDS REVIEW)
+- {{src:src_009306}} (Tier 1) (NEEDS REVIEW)
 - [Congress.gov: Digital Commodities Consumer Protection Act (S.4760)](https://www.congress.gov/bill/117th-congress/senate-bill/4760) (Tier 1) (VERIFIED)
 - [OpenSecrets: Protect Our Future PAC 2022](https://www.opensecrets.org/political-action-committees-pacs/protect-our-future-pac/C00801514/summary/2022) (Tier 1) (VERIFIED)
 - [Senate LDA Filings: FTX.US Lobbying Profile](https://lda.gov/filings/public/filing/search/) (Tier 1) (VERIFIED)

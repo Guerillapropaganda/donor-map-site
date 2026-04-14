@@ -43,8 +43,8 @@ The contributions are not necessarily corrupting in Waters' case, she may genuin
 ### Sources
 
 - ~~[Congress.gov: Maxine Waters member profile](https://www.congress.gov/member/maxine-waters/W000187)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
-- [FEC Candidate: Maxine Waters campaign finance summary](https://www.fec.gov/data/candidate/H4CA23011/) (Tier 1) (VERIFIED)
-- [FEC Candidate: Maxine Waters top industries](https://www.fec.gov/data/candidate/H4CA23011/) (Tier 1) (VERIFIED)
+- {{src:src_006034}} (Tier 1) (VERIFIED)
+- {{src:src_006034}} (Tier 1) (VERIFIED)
 - ~~[American Banker: Waters' chairmanship record and Wall Street relations](https://www.americanbanker.com/maxine-waters-financial-services/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 - [Ballotpedia: Maxine Waters](https://ballotpedia.org/Maxine_Waters) (Tier 3) (VERIFIED)
 

@@ -175,9 +175,9 @@ Scott proves that alignment with workers is possible and insufficient. The labor
 
 ## Sources
 
-- [FEC Candidate: Bobby Scott donor profile](https://www.fec.gov/data/candidate/H6GA02115/) (Tier 1) (VERIFIED)
-- [FEC Candidate: Bobby Scott industry donors](https://www.fec.gov/data/candidate/H6GA02115/) (Tier 1) (VERIFIED)
-- [FEC Candidate: Bobby Scott contributors](https://www.fec.gov/data/candidate/H6GA02115/) (Tier 1) (VERIFIED)
+- {{src:src_006315}} (Tier 1) (VERIFIED)
+- {{src:src_006315}} (Tier 1) (VERIFIED)
+- {{src:src_006315}} (Tier 1) (VERIFIED)
 - ~~[Congress.gov: Every Student Succeeds Act](https://www.congress.gov/bill/114th-congress/senate-bill/1177)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - ~~[Congress.gov: Raise the Wage Act](https://www.congress.gov/bill/118th-congress/house-bill/4889)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - [Congress.gov: PRO Act](https://www.congress.gov/bill/117th-congress/house-bill/842) (Tier 1) (VERIFIED)
@@ -224,7 +224,7 @@ Scott proves that alignment with workers is possible and insufficient. The labor
 |-----------|---------|--------|
 | SIERRA CLUB INDEPENDENT ACTION | $10 | $0 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H6GA02115/) (Tier 1) (VERIFIED)
+- {{src:src_006315}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 <!-- auto:fec-politician pending-merge 2026-04-13 -->
@@ -260,7 +260,7 @@ Scott proves that alignment with workers is possible and insufficient. The labor
 | SOUTHERN STATES POLICE BENEVOLENT ASSOC PAC FUND | $984 | $0 |
 | TOGETHER WE THRIVE | $750 | $0 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H6VA01117/) (Tier 1) (VERIFIED)
+- {{src:src_006327}} (Tier 1) (VERIFIED)
 
 <!-- auto:fec-politician pending-merge end -->
 
@@ -395,5 +395,5 @@ _No committee data found._
 | 2016 | $771,224 | $765,805 | 110924.80 |
 | ... | 13 more cycles available | | |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H6VA01117/) (Tier 1)
+- {{src:src_006327}} (Tier 1)
 <!-- auto:fec-summary end -->

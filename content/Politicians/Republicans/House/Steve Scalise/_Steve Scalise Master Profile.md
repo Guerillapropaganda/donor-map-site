@@ -148,8 +148,8 @@ The class contradiction hits hardest in Louisiana's Cancer Alley. Scalise's dist
 
 ## Sources
 
-- [FEC Candidate: Steve Scalise campaign finance summary](https://www.fec.gov/data/candidate/H0LA01087/) (Tier 1) (VERIFIED)
-- [FEC Candidate: Steve Scalise industry contributions 2020](https://www.fec.gov/data/candidate/H0LA01087/) (Tier 1) (VERIFIED)
+- {{src:src_004181}} (Tier 1) (VERIFIED)
+- {{src:src_004181}} (Tier 1) (VERIFIED)
 - [OpenSecrets: Team Scalise top donors 2024](https://www.opensecrets.org/joint-fundraising-committees-jfcs/team-scalise/C00750521/2024/donors) (Tier 1) (VERIFIED)
 - [GovTrack: Steve Scalise](https://www.govtrack.us/congress/members/steve_scalise/412261) (Tier 1) (VERIFIED)
 - ~~[Congress.gov: Steve Scalise](https://www.congress.gov/member/steve-scalise/S001176)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
@@ -197,7 +197,7 @@ The class contradiction hits hardest in Louisiana's Cancer Alley. Scalise's dist
 | CLUB FOR GROWTH PAC | $4,035 | $0 |
 | HUNTER ACTION FUND (HAF) | $1,857 | $0 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H0LA01087/) (Tier 1) (VERIFIED)
+- {{src:src_004181}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ### DOJ Press Releases

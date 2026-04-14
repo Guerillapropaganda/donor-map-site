@@ -150,8 +150,8 @@ Mast's committee also oversees foreign affairs broadly — China, Russia, Iran, 
 
 ## Sources
 
-- [FEC Candidate: Brian Mast donor profile](https://www.fec.gov/data/candidate/H6FL18097/) (Tier 1) (VERIFIED)
-- [FEC Candidate: Brian Mast contributors](https://www.fec.gov/data/candidate/H6FL18097/) (Tier 1) (VERIFIED)
+- {{src:src_004544}} (Tier 1) (VERIFIED)
+- {{src:src_004544}} (Tier 1) (VERIFIED)
 - [Congress.gov: Brian Mast](https://www.congress.gov/member/brian-mast/M001199) (Tier 1) (VERIFIED)
 - [House Foreign Affairs Committee: Chairman Mast](https://mast.house.gov/biography) (Tier 1) (VERIFIED)
 - [Jewish Insider: Pro-Israel firebrand Rep. Brian Mast to be next Foreign Affairs chair](https://jewishinsider.com/2024/12/brian-mast-foreign-affairs-chair-pro-israel-gop-florida-legislator/) (Tier 2) (VERIFIED)
@@ -196,7 +196,7 @@ Mast's committee also oversees foreign affairs broadly — China, Russia, Iran, 
 | DCCC | $0 | $614,220 |
 | SPECIAL OPERATIONS FOR AMERICA | $411,772 | $0 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H6FL18097/) (Tier 1) (VERIFIED)
+- {{src:src_004544}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ### Sanctions & PEP Screening (OpenSanctions)

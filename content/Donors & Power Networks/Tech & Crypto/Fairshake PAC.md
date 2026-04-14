@@ -645,7 +645,7 @@ Sources: Financial Times (Tier 2), Gate.com (Tier 3, UNVERIFIED), Observer (Tier
 - [OpenSecrets: Protect Progress summary 2024](https://www.opensecrets.org/political-action-committees-pacs/protect-progress/C00848440/summary/2024) (VERIFIED) (UNVERIFIED)
 - [OpenSecrets: Ohio Senate 2024 outside spending](https://www.opensecrets.org/races/outside-spending?cycle=2024&id=OHS1) (VERIFIED) (UNVERIFIED)
 - [ProPublica FEC Itemizer: Protect Progress 2024](https://projects.propublica.org/itemizer/committee/C00848440/2024) (VERIFIED) (UNVERIFIED)
-- [FEC.gov: Fairshake PAC filings](https://www.fec.gov/data/committee/C00835959/) (VERIFIED) (UNVERIFIED)
+- {{src:src_004057}} (VERIFIED) (UNVERIFIED)
 - [White House: GENIUS Act signing fact sheet](https://www.whitehouse.gov/fact-sheets/2025/07/fact-sheet-president-donald-j-trump-signs-genius-act-into-law/) (VERIFIED) (UNVERIFIED)
 - [White House: Strategic Bitcoin Reserve fact sheet](https://www.whitehouse.gov/fact-sheets/2025/03/fact-sheet-president-donald-j-trump-establishes-the-strategic-bitcoin-reserve-and-u-s-digital-asset-stockpile/) (VERIFIED) (UNVERIFIED)
 - [House Financial Services Committee Democrats: Letter to SEC on crypto dismissals (Jan 2026)](https://democrats-financialservices.house.gov/uploadedfiles/01.14.2026_ltr_sec_rfcryptoe.pdf) (VERIFIED) (UNVERIFIED)

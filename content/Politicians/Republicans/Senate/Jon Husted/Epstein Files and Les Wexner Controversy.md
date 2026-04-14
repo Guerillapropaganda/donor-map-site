@@ -59,7 +59,7 @@ This pattern exemplifies why campaign finance accountability matters: Wexner's c
 
 ### Sources
 
-- [FEC.gov: Candidate Jon Husted Financial Disclosures](https://www.fec.gov/data/candidate/S6OH00304/) (Tier 1) (VERIFIED)
+- {{src:src_003485}} (Tier 1) (VERIFIED)
 - [Snopes: Sen. Jon Husted received donations from Epstein associate Les Wexner](https://www.snopes.com/fact-check/jon-husted-les-wexner-epstein/) (Tier 2) (VERIFIED)
 - [Tiffin Ohio: Husted took donations from Epstein 'co-conspirator' Les Wexner, then voted to block file release](https://tiffinohio.net/posts/husted-took-donations-from-epstein-co-conspirator-les-wexner-then-voted-to-block-file-release/) (Tier 2) (VERIFIED)
 - [The New Republic: MAGA Senator Took Donation From Epstein Friend Before Key Vote](https://newrepublic.com/post/206564/maga-senator-donation-epstein-conspirator-vote-block-files) (Tier 2) (VERIFIED)

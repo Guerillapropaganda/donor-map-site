@@ -221,7 +221,7 @@ The DCCC blacklist, the dues system, the committee assignment leverage, the prog
 
 Detailed sourcing is in each sub-note. Key sources for the master profile:
 
-- [FEC Candidate: Nancy Pelosi Campaign Finance Summary](https://www.fec.gov/data/candidate/H8CA05035/) (Tier 1) (VERIFIED)
+- {{src:src_001501}} (Tier 1) (VERIFIED)
 - [Federal Election Commission: Candidate Filings](https://www.fec.gov/data/filings/) (Tier 1) (VERIFIED)
 - Track AIPAC — Pelosi pro-Israel donations ($618K+) (Tier 1)
 - The Intercept — DCCC committee dues system, blacklist policy (Tier 2)
@@ -277,7 +277,7 @@ Detailed sourcing is in each sub-note. Key sources for the master profile:
 | POLICE OFFICERS DEFENSE ALLIANCE LLC | $0 | $100,000 |
 | CONGRESSIONAL LEADERSHIP FUND | $0 | $75,000 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H8CA05035/) (Tier 1) (VERIFIED)
+- {{src:src_001501}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ### DOJ Press Releases
@@ -360,7 +360,7 @@ Nancy Patricia Pelosi is an American politician who was the 52nd speaker of the 
 | 2016 | $4,416,893 | $3,577,236 | 1820817.85 |
 | ... | 14 more cycles available | | |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H8CA05035/) (Tier 1)
+- {{src:src_001501}} (Tier 1)
 <!-- auto:fec-summary end -->
 
 ### Voting Record

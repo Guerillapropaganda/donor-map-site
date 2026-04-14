@@ -146,8 +146,8 @@ The northwest Arkansas connection locks the donor map into place. Boozman's form
 
 ## Sources
 
-- [FEC Candidate: John Boozman donor profile](https://www.fec.gov/data/candidate/H2AR03176/) (Tier 1) (VERIFIED)
-- [FEC Candidate: John Boozman contributors](https://www.fec.gov/data/candidate/H2AR03176/) (Tier 1) (VERIFIED)
+- {{src:src_003546}} (Tier 1) (VERIFIED)
+- {{src:src_003546}} (Tier 1) (VERIFIED)
 - [Senate.gov: John Boozman biography](https://www.boozman.senate.gov/public/index.cfm/biography) (Tier 1) (VERIFIED)
 - [Senate.gov: Boozman agriculture page](https://www.boozman.senate.gov/public/index.cfm/agriculture_1) (Tier 1) (VERIFIED)
 - ~~[Congress.gov: John Boozman](https://www.congress.gov/member/john-boozman/B001236)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
@@ -212,7 +212,7 @@ The northwest Arkansas connection locks the donor map into place. Boozman's form
 | NATIONAL RIGHT TO LIFE POLITICAL ACTION COMMITTEE | $0 | $2,561 |
 | PLANNED PARENTHOOD ACTION FUND INC | $0 | $2 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H2AR03176/) (Tier 1) (VERIFIED)
+- {{src:src_003546}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ### Voting Record

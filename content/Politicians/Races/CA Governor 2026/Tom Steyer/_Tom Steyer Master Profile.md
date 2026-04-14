@@ -188,7 +188,7 @@ Steyer's profile is unique in this vault: he is simultaneously the donor and the
 |-----------|---------|--------|
 | MISLOVE, ALAN EDWARD | $941 | $0 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/P00012716/) (Tier 1) (VERIFIED)
+- {{src:src_004777}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ### DOJ Press Releases

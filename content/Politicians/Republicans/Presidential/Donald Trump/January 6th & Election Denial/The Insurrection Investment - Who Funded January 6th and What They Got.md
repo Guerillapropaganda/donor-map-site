@@ -134,7 +134,7 @@ This permanence is the evidence that election denial was never about overturning
 
 ### Sources
 
-- [FEC.gov: Save America PAC Financial Disclosures (Form 3X)](https://www.fec.gov/data/committee/C00753251/?tab=contributions) (Tier 1) (VERIFIED)
+- {{src:src_003865}} (Tier 1) (VERIFIED)
 - ~~[House Select Committee to Investigate the January 6th Attack. Final Report, Chapter 3: Election Fraud Allegations](https://january6thcommittee.house.gov/news/press-releases/read-house-select-committee-january-6-final-report)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - ~~[OpenSecrets: Trump Political Operation Steers $130 Million in Donor Money to Cover Legal Fees](https://www.opensecrets.org/news/2023/08/trump-political-operation-steers-130-million-in-donor-money-to-cover-legal-fees/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - ~~[OpenSecrets: The 147 Republicans Who Voted to Overturn the Election](https://www.opensecrets.org/news/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)

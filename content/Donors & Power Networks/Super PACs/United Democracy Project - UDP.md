@@ -43,7 +43,7 @@ The needs-reenrichment flag has been set. The next scheduled pipeline run will p
 
 ## Who They Are
 
-United Democracy Project is the super PAC arm of [[AIPAC - American Israel Public Affairs Committee|AIPAC]] (American Israel Public Affairs Committee), created in 2022 to conduct independent expenditure campaigns separate from AIPAC's direct lobbying operations. [UNITED DEMOCRACY PROJECT - FEC.gov](https://www.fec.gov/data/committee/C00799031/) (Tier 1) (VERIFIED)
+United Democracy Project is the super PAC arm of [[AIPAC - American Israel Public Affairs Committee|AIPAC]] (American Israel Public Affairs Committee), created in 2022 to conduct independent expenditure campaigns separate from AIPAC's direct lobbying operations. {{src:src_001534}} (Tier 1) (VERIFIED)
 
 UDP is registered as a traditional super PAC, meaning it can accept unlimited contributions from individuals, corporations, and unions. However, its funding is heavily concentrated among AIPAC's donor base: major philanthropists with pro-Israel commitments, AIPAC members, and pro-Israel family foundations.
 
@@ -214,7 +214,7 @@ The fundamental pattern: donor → UDP → shell PACs → primary outcomes. Vote
 ## Sources
 
 ### Verified
-- [FEC: United Democracy Project committee page](https://www.fec.gov/data/committee/C00799031/) (Tier 1) (VERIFIED)
+- {{src:src_001534}} (Tier 1) (VERIFIED)
 - [FEC: UDP independent expenditures](https://www.fec.gov/data/independent-expenditures/?q_spender=united+democracy+project) (Tier 1) (VERIFIED)
 - [NBC News: AIPAC super PAC funded big-spending Illinois groups](https://www.nbcnews.com/politics/2026-election/aipac-super-pac-funded-illinois-groups-democratic-primaries-israel-rcna264379) (Tier 2) (VERIFIED)
 - ~~[Axios: AIPAC notches first real 2026 primary wins in Illinois](https://www.axios.com/2026/03/18/aipac-illinois-primary-biss-abughazaleh-bean)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)

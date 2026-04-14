@@ -177,8 +177,8 @@ The class math is straightforward. Roy supports making the 2017 tax cuts permane
 
 ## Sources
 
-- [FEC Candidate: Chip Roy campaign finance summary](https://www.fec.gov/data/candidate/H8TX21307/) (Tier 1) (VERIFIED)
-- [FEC Candidate: Chip Roy career industries](https://www.fec.gov/data/candidate/H8TX21307/) (Tier 1) (VERIFIED)
+- {{src:src_004503}} (Tier 1) (VERIFIED)
+- {{src:src_004503}} (Tier 1) (VERIFIED)
 - ~~[Congress.gov: Chip Roy member profile](https://www.congress.gov/member/chip-roy/R000614)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - [Roy.house.gov: Statement on OBBBA advancement](https://roy.house.gov/media/press-releases/rep-roy-issues-statement-advancement-one-big-beautiful-bill-house-budget) (Tier 1) (VERIFIED)
 - [CNN: Trump pushing Republicans to fall in line — Chip Roy could stand in the way](https://www.cnn.com/2025/05/21/politics/chip-roy-house-budget-bill) (Tier 2) (VERIFIED)
@@ -269,7 +269,7 @@ The class math is straightforward. Roy supports making the 2017 tax cuts permane
 | WOMEN VOTE! | $0 | $925,128 |
 | VOTEVETS | $0 | $364,650 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H8TX21307/) (Tier 1) (VERIFIED)
+- {{src:src_004503}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ## Voting Record

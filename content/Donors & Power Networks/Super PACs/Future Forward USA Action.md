@@ -102,7 +102,7 @@ The tech donor class that funds Future Forward received concrete returns during 
 
 ### Sources
 
-- [FEC: Future Forward USA Action committee filings](https://www.fec.gov/data/committee/C00784868/) (Tier 1) (NEEDS REVIEW)
+- {{src:src_009641}} (Tier 1) (NEEDS REVIEW)
 - [FEC Independent Expenditures: Future Forward USA Action outside spending](https://www.fec.gov/data/independent-expenditures/) (Tier 1) (NEEDS REVIEW)
 - [OpenSecrets: Outside spending on 2024 elections shatters records, fueled by dark money](https://www.opensecrets.org/news/2024/11/outside-spending-on-2024-elections-shatters-records-fueled-by-billion-dollar-dark-money-infusion/) (Tier 1) (VERIFIED)
 - [Campaign Legal Center: 501(c)(4) political spending analysis](https://campaignlegal.org/issues/campaign-finance) (Tier 2) (VERIFIED)

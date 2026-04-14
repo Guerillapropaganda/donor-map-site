@@ -128,7 +128,7 @@ In July 2025, Stratton pledged publicly that her Senate campaign would reject co
 
 ## Sources
 
-- [FEC: STRATTON, JULIANA - Candidate overview](https://www.fec.gov/data/candidate/S6IL00458/) (Tier 1) (VERIFIED)
+- {{src:src_005296}} (Tier 1) (VERIFIED)
 - [NBC News: Lt. Gov. Juliana Stratton wins Democratic Senate primary in Illinois](https://www.nbcnews.com/politics/2026-election/lt-gov-juliana-stratton-wins-democratic-senate-primary-illinois-rcna263528) (Tier 3) (VERIFIED)
 - [CNN: Juliana Stratton wins Illinois Democratic primary for Senate](https://www.cnn.com/2026/03/17/politics/juliana-stratton-illinois-senate-primary) (Tier 3) (VERIFIED)
 - [Chicago Sun-Times: Juliana Stratton defeats Raja Krishnamoorthi in Senate Democratic primary](https://chicago.suntimes.com/elections/2026/03/17/us-senate-illinois-primary-results) (Tier 2) (VERIFIED)
@@ -139,7 +139,7 @@ In July 2025, Stratton pledged publicly that her Senate campaign would reject co
 - [Chicago Sun-Times: Stratton vows to not take corporate PAC money in Senate bid but has history of getting corporate backing](https://chicago.suntimes.com/the-watchdogs/2025/11/21/juliana-stratton-us-senate-bid-march-primary-corporate-pac-money) (Tier 2) (VERIFIED)
 - [Chicago Tribune: Rejecting corporate PAC money earns Juliana Stratton endorsement from End Citizens United](https://www.chicagotribune.com/2025/11/06/end-citizens-united-endorses-stratton-senate/) (Tier 3) (VERIFIED)
 - [The Intercept: AIPAC Is Staying Out of Illinois Senate Race. But Its Donors Back Juliana Stratton](https://theintercept.com/2026/03/12/aipac-illinois-senate-stratton-kelly-krishnamoorthi/) (Tier 2) (VERIFIED)
-- [FEC: STRATTON, JULIANA - Candidate overview](https://www.fec.gov/data/candidate/S6IL00458/) (Tier 1)
+- {{src:src_005296}} (Tier 1)
 - [Illinois Campaign Finance Tracker: Federal Candidate Detail](https://www.followthemoneyil.com/federal-finance/S6IL00458?cycle=2026&contribution_page=1&schedule_b_page=1&schedule_e_page=1&schedule_b_sort=date&schedule_b_dir=desc&schedule_e_sort=date&schedule_e_dir=asc) (Tier 1) (VERIFIED)
 - [Fortune: AI and Crypto spent nearly $20 million to reshape Illinois's Democratic primaries. They mostly lost](https://fortune.com/2026/03/18/ai-crypto-illinois-primary-spending-fairshake-think-big-pac/) (Tier 2) (VERIFIED)
 - [The American Prospect: Illinois Senate Primary Features Millions in Outside Spending, Too](https://prospect.org/2026/03/17/illinois-senate-primary-super-pac-spending-juliana-stratton-raja-krishnamoorthi/) (Tier 2) (VERIFIED)
@@ -172,7 +172,7 @@ party:: Democrat
 | DLGA | $356,857 | $0 |
 | PROTECT PROGRESS | $0 | $211,662 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/S6IL00458/) (Tier 1) (VERIFIED)
+- {{src:src_005296}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ## Influence Network (Cross-Reference)

@@ -183,7 +183,7 @@ South Bend is Buttigieg's biography — "Mayor Pete" is the entire brand. But So
 | WOMEN SPEAK OUT PAC | $0 | $9,200 |
 | DREAM DEFENDERS FIGHT PAC | $0 | $3,516 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/P00010298/) (Tier 1) (VERIFIED)
+- {{src:src_006898}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ## Influence Network (Cross-Reference)

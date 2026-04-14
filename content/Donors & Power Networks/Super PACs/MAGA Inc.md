@@ -128,7 +128,7 @@ The legal framework that enables this — *Citizens United* allowing unlimited s
 
 ### Sources
 
-- [FEC: MAGA Inc independent expenditure reports](https://www.fec.gov/data/committee/C00892471/) (Tier 1) (VERIFIED)
+- {{src:src_001273}} (Tier 1) (VERIFIED)
 - [OpenSecrets: MAGA Inc donor and spending data](https://www.opensecrets.org/political-action-committees-pacs/maga-inc/C00892471/summary/2024) (Tier 1) (VERIFIED)
 - [OpenSecrets: Billionaire Timothy Mellon has poured $165 million into 2024 elections](https://www.opensecrets.org/news/2024/08/heir-to-andrew-mellons-fortune-spends-over-165-million-to-support-trumps-reelection/) (Tier 1) (VERIFIED)
 - [Fortune: TikTok might survive its U.S. ban thanks to Trump's cozy relationship with Jeff Yass](https://fortune.com/2024/12/09/trump-jeff-yass-tiktok-avoid-ban/) (Tier 2) (VERIFIED)

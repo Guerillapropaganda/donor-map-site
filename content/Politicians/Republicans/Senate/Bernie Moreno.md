@@ -102,8 +102,8 @@ The payoff is already visible. Moreno supports the GENIUS Act, FIT21 framework, 
 
 ### Sources
 
-- [FEC Candidate: Bernie Moreno donor profile](https://www.fec.gov/data/candidate/S4OH00192/) (Tier 1) (VERIFIED)
-- [FEC: Bernie Moreno campaign finance filings](https://www.fec.gov/data/candidate/S4OH00192/) (Tier 1) (VERIFIED)
+- {{src:src_003089}} (Tier 1) (VERIFIED)
+- {{src:src_003089}} (Tier 1) (VERIFIED)
 - [Senate Financial Disclosure: Bernie Moreno](https://efdsearch.senate.gov/search/home/) (Tier 1) (VERIFIED)
 - ~~[Axios: Bernie Moreno's crypto dream in the Ohio Senate race](https://www.axios.com/2024/10/01/moreno-brown-senate-crypto-money-trump)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 - [DL News: Crypto champion Bernie Moreno wins Senate seat with $40m in industry cash](https://www.dlnews.com/articles/regulation/bernie-moreno-wins-ohio-from-crypto-sceptic-sherrod-brown/) (Tier 2) (VERIFIED)
@@ -163,7 +163,7 @@ The payoff is already visible. Moreno supports the GENIUS Act, FIT21 framework, 
 | SENATE LEADERSHIP FUND | $9,777,367 | $0 |
 | BUCKEYE LEADERSHIP FUND, INC. | $0 | $6,577,836 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/S4OH00192/) (Tier 1) (VERIFIED)
+- {{src:src_003089}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ### Voting Record

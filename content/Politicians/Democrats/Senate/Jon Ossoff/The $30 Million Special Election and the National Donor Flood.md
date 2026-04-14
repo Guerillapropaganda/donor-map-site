@@ -156,6 +156,6 @@ The $30 million 2017 race was expensive and ultimately unsuccessful, but it func
 ### Sources
 
 - [OpenSecrets: Georgia's 6th Congressional District 2017 Special Election](https://www.opensecrets.org/races/summary?cycle=2017&id=GA06&spec=N) (Tier 1) (VERIFIED)
-- [FEC: Jon Ossoff 2017 Campaign Committee Filings](https://www.fec.gov/data/committee/C00718866/) (Tier 1) (VERIFIED)
+- {{src:src_005309}} (Tier 1) (VERIFIED)
 - ~~[CNN: Democratic Ossoff Raises $106 Million in Georgia Senate Race](https://www.bloomberg.com/news/articles/2020-12-24/ossoff-s-fundraising-tops-106-million-in-georgia-senate-race)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 - ~~[The Hill: Ossoff, Warnock each rake in over $100 million](https://thehill.com/homenews/campaign/531652-ossoff-warnock-each-rake-in-over-100-million-in-recent-months/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)

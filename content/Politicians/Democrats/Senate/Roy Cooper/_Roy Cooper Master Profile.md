@@ -148,7 +148,7 @@ Cooper's $21 million Senate war chest, his 3.4:1 fundraising advantage over Mich
 
 ## Sources
 
-- [FEC: Roy Cooper Candidate Profile](https://www.fec.gov/data/candidate/S6NC00407/) (Tier 1) (VERIFIED)
+- {{src:src_005174}} (Tier 1) (VERIFIED)
 - ~~[FollowTheMoney.org: Roy Cooper North Carolina Senate 2026](https://www.followthemoney.org/tools/election-overview?eid=46064532)~~ (was FollowTheMoney — site merged into OpenSecrets, all URLs dead) (Tier 1)
 - [NC Newsline: Cooper reports sizable lead in fundraising for 2026 U.S. Senate race](https://ncnewsline.com/2026/02/02/cooper-reports-sizable-lead-in-fundraising-for-2026-u-s-senate-race/) (Tier 2) (VERIFIED)
 - [WRAL: Cooper raises $3.4M in first 24 hours of Senate bid](https://www.wral.com/news/state/politics-us-senate-roy-cooper-fundraising-24-hours-bid-2026-election-july-2025/) (Tier 2) (VERIFIED)

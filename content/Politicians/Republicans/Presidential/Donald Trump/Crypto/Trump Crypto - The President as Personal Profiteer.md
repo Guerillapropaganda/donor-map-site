@@ -127,7 +127,7 @@ The Strategic Bitcoin Reserve (announced in Executive Order, details to follow i
 
 ### Sources
 
-- [FEC Committee: Fairshake PAC summary (C00835959). FEC filing data](https://www.fec.gov/data/committee/C00835959/) (Tier 1) (VERIFIED)
+- {{src:src_004057}} (Tier 1) (VERIFIED)
 - [White House: Executive Order 14178 "Strengthening American Leadership in Digital Financial Technology"](https://www.whitehouse.gov/presidential-actions/2025/01/strengthening-american-leadership-in-digital-financial-technology/) (Tier 1) (VERIFIED)
 - [White House: Fact Sheet on Executive Order 14178. Digital Assets Framework](https://www.whitehouse.gov/fact-sheets/2025/01/fact-sheet-executive-order-to-establish-united-states-leadership-in-digital-financial-technology/) (Tier 1) (VERIFIED)
 - [Senate Banking Committee: David Sacks conflicts of interest](https://www.banking.senate.gov/newsroom/minority/ahead-of-trump-crypto-fundraiser-warren-questions-government-ethics-agency-on-crypto-czar-david-sacks-conflicts-of-interest) (Tier 1) (VERIFIED)

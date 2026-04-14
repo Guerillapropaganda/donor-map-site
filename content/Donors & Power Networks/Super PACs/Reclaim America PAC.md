@@ -85,7 +85,7 @@ Reclaim America PAC is a standard leadership PAC that functions as Rubio's polit
 
 ### Sources
 
-- [FEC: Reclaim America PAC (C00500025)](https://www.fec.gov/data/committee/C00500025/) (Tier 1) (VERIFIED)
+- {{src:src_009815}} (Tier 1) (VERIFIED)
 - [Reclaim America PAC: About](https://www.reclaimamericapac.com/about/) (Tier 3) (VERIFIED)
 - [OpenSecrets: Reclaim America PAC summary](https://www.opensecrets.org/political-action-committees-pacs/reclaim-america-pac/C00500025/summary/2024) (Tier 1) (VERIFIED)
 - [OpenSecrets: Reclaim America PAC candidate recipients](https://www.opensecrets.org/political-action-committees-pacs/reclaim-america-pac/C00500025/candidate-recipients/2024) (Tier 1) (VERIFIED)

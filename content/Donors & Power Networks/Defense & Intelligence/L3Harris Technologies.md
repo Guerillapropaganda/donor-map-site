@@ -248,7 +248,7 @@ L3Harris represents the defense sector's "invisible infrastructure" model of pol
 ### Sources
 
 ### FEC & OpenSecrets:
-- [FEC: L3Harris Technologies Inc PAC Committee Overview](https://www.fec.gov/data/committee/C00100321/) (Tier 1) (VERIFIED)
+- {{src:src_013271}} (Tier 1) (VERIFIED)
 - [OpenSecrets: L3Harris Technologies PAC Summary 2024](https://www.opensecrets.org/political-action-committees-pacs/l3harris-technologies/C00100321/summary/2024) (Tier 1) (VERIFIED)
 - [Senate LDA Filings: L3Harris Technologies Lobbying Profile](https://lda.gov/filings/public/filing/search/) (Tier 1) (VERIFIED)
 - [L3Harris: 2024 Cycle Political Contributions (PDF)](https://www.l3harris.com/sites/default/files/2025-03/L3Harris-2024-cycle-contributions.pdf) (Tier 1) (VERIFIED)

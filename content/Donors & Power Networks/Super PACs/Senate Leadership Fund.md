@@ -192,7 +192,7 @@ McConnell built SLF as his personal power machine from 2015 to 2024. The organiz
 ### Sources
 
 - [OpenSecrets: Senate Leadership Fund PAC summary — $299M raised, 2024 cycle (C00571703)](https://www.opensecrets.org/political-action-committees-pacs/C00571703/summary/2024) (Tier 1) (VERIFIED)
-- [FEC: Senate Leadership Fund committee filings (C00571703)](https://www.fec.gov/data/committee/C00571703/?tab=summary) (Tier 1) (VERIFIED)
+- {{src:src_002105}} (Tier 1) (VERIFIED)
 - [OpenSecrets: Senate Leadership Fund organization profile](https://www.opensecrets.org/orgs/senate-leadership-fund/summary?id=D000068516) (Tier 1) (VERIFIED)
 - [FactCheck.org: Senate Leadership Fund — donors, spending, One Nation relationship](https://www.factcheck.org/2024/07/senate-leadership-fund-4/) (Tier 2) (VERIFIED)
 - [ArtNews: Kenneth Griffin donated $100M to 2024 election — SLF largest recipient](https://www.artnews.com/art-news/news/billionaire-collector-kenneth-griffin-donated-100-million-2024-election-senate-leadership-fund-1234724065/) (Tier 2) (VERIFIED)

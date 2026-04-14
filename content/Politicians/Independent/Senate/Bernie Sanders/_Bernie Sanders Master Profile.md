@@ -177,7 +177,7 @@ For IBEW members: Sanders's Raise the Wage Act, PRO Act co-sponsorship, and prev
 
 Detailed sourcing is in each sub-note. Key sources for the master profile:
 
-- [FEC Candidate: Sanders 2016 and 2020 Campaign Finance](https://www.fec.gov/data/candidate/H8VT01016/) (Tier 1) (VERIFIED)
+- {{src:src_001220}} (Tier 1) (VERIFIED)
 - [Federal Election Commission: Candidate Filings](https://www.fec.gov/data/filings/) (Tier 1) (VERIFIED)
 - [AIPAC 2024 Election Spending](https://www.opensecrets.org/orgs/american-israel-public-affairs-cmte/summary?id=D000046963) (Tier 1) (VERIFIED)
 - [National Nurses United: Endorsements](https://www.nationalnursesunited.org/nnu-endorsements) (Tier 2) (VERIFIED)
@@ -321,7 +321,7 @@ For IBEW members specifically: Sanders' Raise the Wage Act, PRO Act, and prevail
 | INTERNATIONAL ASSOCIATION OF FIREFIGHTERS INTERESTED IN REGISTRATION AND EDUCATION PAC | $0 | $21 |
 | PUTTING PEOPLE FIRST POLITICAL ACTION COMMITTEE | $0 | $5 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H8VT01016/) (Tier 1) (VERIFIED)
+- {{src:src_001220}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ### Voting Record

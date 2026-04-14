@@ -123,8 +123,8 @@ The Majority Leader position is the capstone of the donor-class capture model. M
 
 ## Sources
 
-- [FEC Candidate: Thune career fundraising and industry donors](https://www.fec.gov/data/candidate/H6SD00085/) (Tier 1) (VERIFIED)
-- [FEC.gov: Thune campaign filings](https://www.fec.gov/data/candidate/S2SD00068/) (Tier 1) (VERIFIED)
+- {{src:src_003500}} (Tier 1) (VERIFIED)
+- {{src:src_003503}} (Tier 1) (VERIFIED)
 - [STAT News: Pharma CEO donations February 2022](https://www.statnews.com/2022/05/10/pharma-showers-john-thune-with-campaign-cash/) (Tier 2) (VERIFIED)
 - [National Pulse: Corporate donor analysis](https://thenationalpulse.com/2024/11/13/john-thune-is-the-new-senate-leader-here-are-his-biggest-corporate-donors/) (Tier 3) (VERIFIED)
 - [NBC News: Senate Majority Leader election](https://www.nbcnews.com/politics/congress/senate-republicans-choose-new-leader-mitch-mcconnell-steps-rcna179670) (Tier 2) (VERIFIED)
@@ -174,5 +174,5 @@ The Majority Leader position is the capstone of the donor-class capture model. M
 | LEAGUE OF CONSERVATION VOTERS | $0 | $203 |
 | NATIONAL RIGHT TO LIFE VICTORY FUND | $51 | $0 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H6SD00085/) (Tier 1) (VERIFIED)
+- {{src:src_003500}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->

@@ -161,10 +161,10 @@ Cole's personal net worth grew from $3.2 million in 2008 to $9.4 million in 2024
 
 ## Sources
 
-- [FEC Candidate: Tom Cole campaign finance summary](https://www.fec.gov/data/candidate/H6MO06013/) (Tier 1) (VERIFIED)
-- [FEC Candidate: Tom Cole top industries](https://www.fec.gov/data/candidate/H6MO06013/) (Tier 1) (VERIFIED)
-- [FEC Candidate: Tom Cole top contributors](https://www.fec.gov/data/candidate/H6MO06013/) (Tier 1) (VERIFIED)
-- [FEC: Tom Cole candidate filings](https://www.fec.gov/data/candidate/H2OK04055/) (Tier 1) (VERIFIED)
+- {{src:src_004155}} (Tier 1) (VERIFIED)
+- {{src:src_004155}} (Tier 1) (VERIFIED)
+- {{src:src_004155}} (Tier 1) (VERIFIED)
+- {{src:src_004157}} (Tier 1) (VERIFIED)
 - ~~[Congress.gov: Tom Cole member profile](https://www.congress.gov/member/tom-cole/C001053)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - [House Appropriations Committee: Chairman Tom Cole](https://appropriations.house.gov/about/chairman-tom-cole) (Tier 1) (VERIFIED)
 - ~~[Cole.house.gov: FY2026 Defense Appropriations vote statement](https://cole.house.gov/media/press-releases/cole-votes-favor-defense-labor-health-and-human-services-educationfense-appropriations-bill)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)

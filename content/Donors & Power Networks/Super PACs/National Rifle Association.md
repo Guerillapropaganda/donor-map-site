@@ -215,7 +215,7 @@ The NRA's decline doesn't reverse its victories. The gun industry is pivoting to
 - [FEC Independent Expenditures: NRA Outside Spending 2024](https://www.fec.gov/data/independent-expenditures/) (Tier 1) (NEEDS REVIEW)
 - [OpenSecrets: NRA Profile Summary](https://www.opensecrets.org/orgs/national-rifle-assn/summary?id=D000000082) (Tier 1) (VERIFIED)
 - [OpenSecrets: NRA Recipients Profile](https://www.opensecrets.org/orgs/national-rifle-assn/recipients?id=D000000082) (Tier 1) (VERIFIED)
-- [FEC: NRA Political Victory Fund 2024](https://www.fec.gov/data/committee/C00053553/) (Tier 1) (VERIFIED)
+- {{src:src_009737}} (Tier 1) (VERIFIED)
 - [Senate Finance Committee: The NRA & Russia — How a Tax-Exempt Organization Became a Foreign Asset (PDF)](https://www.finance.senate.gov/imo/media/doc/The%20NRA%20%20Russia%20-%20How%20a%20Tax-Exempt%20Organization%20Became%20a%20Foreign%20Asset.pdf) (Tier 1) (VERIFIED)
 - [New York Attorney General: NRA Trial Victory — LaPierre Corruption Verdict](https://ag.ny.gov/press-release/2024/attorney-general-james-wins-trial-against-nra-and-wayne-lapierre) (Tier 1) (VERIFIED)
 - [NRA-PVF: Grades and Endorsements](https://www.nrapvf.org/grades/) (Tier 1) (VERIFIED)

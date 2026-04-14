@@ -129,8 +129,8 @@ Craig's 2026 Senate campaign adds a second donor pipeline through her Agricultur
 
 ## Sources
 
-- [FEC Candidate: Angie Craig Campaign Finance Summary](https://www.fec.gov/data/candidate/S6MN00499/) (Tier 1) (VERIFIED)
-- [FEC: Angie Craig for Congress](https://www.fec.gov/data/committee/C00596015/) (Tier 1) (VERIFIED)
+- {{src:src_006362}} (Tier 1) (VERIFIED)
+- {{src:src_006364}} (Tier 1) (VERIFIED)
 - [MinnPost: What It Would Mean to Elect a Former Medical Device Executive to Congress](https://www.minnpost.com/politics-policy/2016/10/second-district-race-what-it-would-mean-elect-former-medical-device-executiv/) (Tier 2) (VERIFIED)
 - [Minnesota Reformer: Craig More Than Doubles Flanagan's Q3 Fundraising](https://minnesotareformer.com/briefs/craig-more-than-doubles-flanagans-q3-fundraising/) (Tier 2) (VERIFIED)
 - [NBC News: Rep. Angie Craig Launches Senate Run in Minnesota](https://www.nbcnews.com/politics/2026-election/rep-angie-craig-launches-senate-run-minnesota-ahead-competitive-democr-rcna203371) (Tier 2) (VERIFIED)
@@ -168,7 +168,7 @@ party:: Democrat
 | NORTH STAR DAWN PAC | $37,500 | $0 |
 | DMFI PAC | $2,649 | $0 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/S6MN00499/) (Tier 1) (VERIFIED)
+- {{src:src_006362}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ### DOJ Press Releases

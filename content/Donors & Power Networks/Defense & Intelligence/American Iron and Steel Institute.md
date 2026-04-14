@@ -152,7 +152,7 @@ The "national security" frame is the mechanism that makes the transfer invisible
 - [Commerce.gov: Section 232 Steel Investigation and Reports](https://www.commerce.gov/issues/trade-enforcement/section-232-steel) (Tier 1) (VERIFIED)
 - ~~[Commerce.gov: Secretary Ross Releases Steel and Aluminum 232 Reports](https://www.commerce.gov/news/press-releases/2018/02/secretary-ross-releases-steel-and-aluminum-232-reports-coordination)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - [OpenSecrets: AISI PAC Profile 2022](https://www.opensecrets.org/political-action-committees-pacs/american-iron-steel-institute/C00295097/summary/2022) (Tier 1) (VERIFIED)
-- [FEC: Nucor Corporation PAC (C00379628)](https://www.fec.gov/data/committee/C00379628/) (Tier 1) (VERIFIED)
+- {{src:src_013010}} (Tier 1) (VERIFIED)
 - [USITC: Tariff Effects on U.S. Industries](https://www.usitc.gov/press_room/news_release/2023/er0315_63679.htm) (Tier 1) (VERIFIED)
 - [Tax Foundation: Section 232 Tariffs Harmed the Economy](https://taxfoundation.org/research/all/federal/section-232-tariffs-steel-aluminum-2024/) (Tier 2) (VERIFIED)
 - [PBS News: Steel Tariffs Hurt Manufacturers Downstream](https://www.pbs.org/newshour/economy/making-sense/steel-tariffs-hurt-manufacturers-downstream-data-shows) (Tier 2) (VERIFIED)

@@ -111,7 +111,7 @@ Nucor's policy agenda is inseparable from [[American Iron and Steel Institute|AI
 ### Sources
 
 - [SEC: Nucor Corporation 2018 10-K Annual Report](https://www.sec.gov/Archives/edgar/data/73309/000119312519057744/d691427dex13.htm) (Tier 1) (VERIFIED)
-- [FEC: Nucor Corporation PAC (C00379628)](https://www.fec.gov/data/committee/C00379628/) (Tier 1) (VERIFIED)
+- {{src:src_013010}} (Tier 1) (VERIFIED)
 - [OpenSecrets: Nucor Corp PAC 2024 Cycle](https://www.opensecrets.org/political-action-committees-pacs/nucor-corp/C00379628/summary/2024) (Tier 1) (VERIFIED)
 - [OpenSecrets: Nucor Corp Organization Profile](https://www.opensecrets.org/orgs/nucor-corp/summary?id=D000028057) (Tier 1) (VERIFIED)
 - [Nucor Investor Relations: Annual Reports](https://investors.nucor.com/financials/annual-reports/default.aspx) (Tier 1) (VERIFIED)

@@ -146,7 +146,7 @@ The Senate confirmed Burgum 79-18 because they voted for the moderate governor t
 | PRIORITIES USA ACTION | $0 | $5,311 |
 | RURALVOTE.ORG | $0 | $357 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/P40013518/) (Tier 1) (VERIFIED)
+- {{src:src_003025}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ### Influence Network (Cross-Reference)

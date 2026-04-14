@@ -227,10 +227,10 @@ McCarthy was the answer to the question: what does a successful donor-servant lo
 
 ## Sources
 
-- [FEC Candidate: Kevin McCarthy donor profile](https://www.fec.gov/data/candidate/H6CA22125/) (Tier 1) (VERIFIED)
+- {{src:src_001500}} (Tier 1) (VERIFIED)
 - [FEC Receipts: Oil and gas contributions to McCarthy by cycle](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1) (VERIFIED)
-- ~~[FEC: McCarthy for Congress Committee filings](https://www.fec.gov/data/committee/C00420935/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
-- [FEC: Congressional Leadership Fund SuperPAC filings](https://www.fec.gov/data/committee/C00573519/) (Tier 1) (VERIFIED)
+- ~~{{src:src_004123}}~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- {{src:src_004124}} (Tier 1) (VERIFIED)
 - ~~[Politico: McCarthy's debt ceiling deal includes fossil fuel giveaways](https://www.politico.com/news/2023/05/26/how-kevin-mccarthy-got-fossil-fuel-provisions-into-debt-deal)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 - ~~[E&E News: McCarthy's oil industry backing documented](https://www.eenews.net/articles/mccarthy-gets-most-oil-gas-money-of-any-house-member/)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 2)
 - ~~[The Guardian: McCarthy's energy industry connections](https://www.theguardian.com/us-news/2023/jun/15/kevin-mccarthy-fossil-fuel-speaker-debt-deal)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 2)
@@ -274,7 +274,7 @@ McCarthy was the answer to the question: what does a successful donor-servant lo
 | VALLEY WORKS ACTION FUND | $0 | $36,537 |
 | REALLY AMERICAN PAC | $0 | $20,670 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H6CA22125/) (Tier 1) (VERIFIED)
+- {{src:src_001500}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ### DOJ Press Releases

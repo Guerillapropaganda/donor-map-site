@@ -124,7 +124,7 @@ Source: [[_Cori Bush Master Profile]], [[DMFI - Democratic Majority for Israel]]
 | DMFI PAC | $921,906 | $0 |
 | WORKING FAMILIES PARTY PAC | $0 | $403,125 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H4MO01134/) (Tier 1) (VERIFIED)
+- {{src:src_005828}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ### Legislative Activity (Congress.gov)

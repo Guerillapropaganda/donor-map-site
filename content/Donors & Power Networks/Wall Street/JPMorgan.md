@@ -194,7 +194,7 @@ The $13 billion DOJ settlement in 2013, the largest with a single entity in Amer
 - [OpenSecrets: JPMorgan Chase & Co organizational profile and contribution totals](https://www.opensecrets.org/orgs/jpmorgan-chase-co/summary?id=d000000103) (Tier 1) (VERIFIED)
 - [OpenSecrets: JPMorgan Chase lobbying profile 1998–2024](https://www.opensecrets.org/orgs/jpmorgan-chase-co/lobbying?id=D000000103) (Tier 1) (VERIFIED)
 - [OpenSecrets: JPMorgan Chase PAC profile, 2024 cycle](https://www.opensecrets.org/political-action-committees-pacs/jpmorgan-chase-co/C00104299/summary/2024) (Tier 1) (VERIFIED)
-- [FEC: JPMORGAN CHASE & CO. FEDERAL POLITICAL ACTION COMMITTEE, committee overview](https://www.fec.gov/data/committee/C00104299/) (Tier 1) (VERIFIED)
+- {{src:src_008890}} (Tier 1) (VERIFIED)
 - [NPR: JPMorgan Chase Will Pay $13 Billion In Record Settlement](https://www.npr.org/sections/thetwo-way/2013/11/19/246143595/j-p-morgan-chase-will-pay-13-billion-in-record-settlement) (Tier 2) (VERIFIED)
 - [Federal Reserve: Enforcement action against JPMorgan Chase, $98.2 million fine](https://www.federalreserve.gov/newsevents/pressreleases/enforcement20240314a.htm) (Tier 1) (VERIFIED)
 - [Fortune: Jamie Dimon has been floated for Treasury role by both parties](https://fortune.com/2024/08/23/jamie-dimon-kamala-harris-donald-trump-campaigns-treasury-secretary-position/) (Tier 2) (VERIFIED)

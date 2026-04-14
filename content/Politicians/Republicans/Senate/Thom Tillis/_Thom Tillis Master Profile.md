@@ -201,8 +201,8 @@ Retirement preserved his exit while the pharmaceutical industry maintained its i
 
 ## Sources
 
-- [FEC Candidate: Thom Tillis campaign finance summary](https://www.fec.gov/data/candidate/S4NC00162/) (Tier 1) (VERIFIED)
-- [FEC: Thom Tillis candidate profile](https://www.fec.gov/data/candidate/S4NC00162/) (Tier 1) (VERIFIED)
+- {{src:src_003157}} (Tier 1) (VERIFIED)
+- {{src:src_003157}} (Tier 1) (VERIFIED)
 - [WBTV (Charlotte): Tillis took pharmaceutical money within weeks of co-sponsoring new drug price bill](https://www.wbtv.com/2020/09/16/tillis-took-pharmaceutical-money-within-weeks-co-sponsoring-new-drug-price-bill/) (Tier 2) (VERIFIED)
 - [KFF Health News: Senators Who Led Pharma-Friendly Patent Reform Also Prime Targets For Pharma Cash](https://kffhealthnews.org/news/senators-who-led-pharma-friendly-patent-reform-also-prime-targets-for-pharma-cash/) (Tier 2) (VERIFIED)
 - [Salon: Big Pharma gave more than $20,000 to Tillis campaign after he co-sponsored drug pricing bill](https://www.salon.com/2020/09/17/big-pharma-gave-more-than-20000-to-tillis-campaign-after-he-co-sponsored-drug-pricing-bill-report_partner/) (Tier 2) (VERIFIED)
@@ -287,7 +287,7 @@ Retirement preserved his exit while the pharmaceutical industry maintained its i
 | SENATE MAJORITY PAC | $0 | $11,990,212 |
 | NEA ADVOCACY FUND | $0 | $10,547,618 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/S4NC00162/) (Tier 1) (VERIFIED)
+- {{src:src_003157}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ### Voting Record
@@ -313,5 +313,5 @@ Retirement preserved his exit while the pharmaceutical industry maintained its i
 | 2020 | $26,718,700 | $26,370,206 | 834908.56 |
 | 2014 | $11,000,378 | $10,513,963 | 486415.00 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/S4NC00162/) (Tier 1)
+- {{src:src_003157}} (Tier 1)
 <!-- auto:fec-summary end -->

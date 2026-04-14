@@ -98,7 +98,7 @@ At no point in this career does the transaction run in the direction of constitu
 ### Sources
 
 - [Mesirow Hires JPMorgan's Melissa Bean to Lead $29 Billion Wealth Unit: Wealth Management](https://www.wealthmanagement.com/ria-news/mesirow-hires-jpmorgan-s-melissa-bean-to-lead-29-billion-wealth-unit) (Tier 3) (VERIFIED)- [Mesirow nabs Melissa Bean from JPMorgan: Crain's Chicago Business](https://www.chicagobusiness.com/finance-banking/mesirow-nabs-melissa-bean-jpmorgan/) (Tier 3) (VERIFIED)- [Rep. Melissa Bean [D-IL8, 2005-2010] voting record and ideology analysis: GovTrack](https://www.govtrack.us/congress/members/melissa_bean/400631) (Tier 3)- ~~[Melissa Bean. Congress.gov member page](https://www.congress.gov/member/melissa-bean/B001253)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
-- [FEC: Melissa Bean for Congress committee](https://www.fec.gov/data/committee/C00369710/) (Tier 1) (VERIFIED)
+- {{src:src_006017}} (Tier 1) (VERIFIED)
 - [In Illinois's Eighth District, AIPAC and AI Try to Buy a Seat: The American Prospect](https://prospect.org/2026/03/12/illinois-eighth-congressional-district-aipac-ai-bean-ahmed/) (Tier 2) (VERIFIED)
 - [Melissa Bean - Wikipedia](https://en.wikipedia.org/wiki/Melissa_Bean) (Tier 3) (VERIFIED)
 - [Melissa Bean - Ballotpedia](https://ballotpedia.org/Melissa_Bean) (Tier 3) (VERIFIED)

@@ -160,9 +160,9 @@ Krishnamoorthi's $29 million Senate campaign, the most expensive in the Illinois
 
 ## Sources
 
-- [FEC Candidate: Raja Krishnamoorthi donor profile](https://www.fec.gov/data/candidate/H6IL08147/) (Tier 1) (VERIFIED)
-- [FEC Candidate: Krishnamoorthi industry donors 2024](https://www.fec.gov/data/candidate/H6IL08147/) (Tier 1) (VERIFIED)
-- [FEC: Krishnamoorthi campaign finance](https://www.fec.gov/data/candidate/H6IL08147/) (Tier 1) (VERIFIED)
+- {{src:src_005942}} (Tier 1) (VERIFIED)
+- {{src:src_005942}} (Tier 1) (VERIFIED)
+- {{src:src_005942}} (Tier 1) (VERIFIED)
 - [Chicago Sun-Times: Krishnamoorthi rails against Trump but takes money from MAGA donors](https://chicago.suntimes.com/the-watchdogs/2025/12/08/raja-krishnamoorthi-senate-campaign-donors-trump-allies-maga-money) (Tier 2) (VERIFIED)
 - [Chicago Tribune: Krishnamoorthi raises millions for Senate bid as fundraising draws scrutiny](https://www.chicagotribune.com/2026/03/10/raja-krishnamoorthi-fundraising-illinois-senate/) (Tier 2) (VERIFIED)
 - [Crain's Chicago Business: How Krishnamoorthi became the money leader in the Senate sweepstakes](https://www.chicagobusiness.com/politics/krishnamoorthi-has-19m-senate-bid-more-rivals-combined/) (Tier 2) (VERIFIED)
@@ -205,7 +205,7 @@ Krishnamoorthi's $29 million Senate campaign, the most expensive in the Illinois
 | PLANNED PARENTHOOD VOTES | $195 | $0 |
 | NEA ADVOCACY FUND | $67 | $0 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H6IL08147/) (Tier 1) (VERIFIED)
+- {{src:src_005942}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ### Legislative Activity (GovTrack)
@@ -352,7 +352,7 @@ Krishnamoorthi's $29 million Senate campaign, the most expensive in the Illinois
 | 2018 | $5,315,280 | $1,964,491 | 4276671.79 |
 | 2016 | $3,572,635 | $2,646,752 | 925882.71 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H6IL08147/) (Tier 1)
+- {{src:src_005942}} (Tier 1)
 <!-- auto:fec-summary end -->
 
 ### Wikipedia

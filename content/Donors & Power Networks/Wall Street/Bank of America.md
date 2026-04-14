@@ -85,7 +85,7 @@ Bank of America Corporation. The second-largest U.S. bank by assets ($3.3 trilli
 Bank of America's political operation distributes $3-5 million per cycle through its PAC, with additional executive bundling and $7-9 million in annual lobbying expenditures. The bank acquired Countrywide Financial (2008) and Merrill Lynch (2008-2009) during the crisis, absorbing both their toxic assets and their political relationships.
 
 - [OpenSecrets: Bank of America organizational profile](https://www.opensecrets.org/orgs/bank-of-america/summary?id=D000000090) (Tier 1) (VERIFIED)
-- [FEC: Bank of America PAC filings](https://www.fec.gov/data/committee/C00040998/) (Tier 1) (VERIFIED)
+- {{src:src_008628}} (Tier 1) (VERIFIED)
 
 ---
 
@@ -130,7 +130,7 @@ Bank of America occupies the consumer-facing end of Wall Street's political oper
 ### Sources
 
 - [OpenSecrets: Bank of America organizational profile](https://www.opensecrets.org/orgs/bank-of-america/summary?id=D000000090) (Tier 1)
-- [FEC: Bank of America PAC filings](https://www.fec.gov/data/committee/C00040998/) (Tier 1)
+- {{src:src_008628}} (Tier 1)
 - [Department of Justice: Bank of America $16.65 billion settlement](https://www.justice.gov/archives/opa/pr/bank-america-pay-1665-billion-historic-justice-department-settlement-financial-fraud-leading) (Tier 1) (VERIFIED)
 - [TARP: Bank of America bailout records](https://home.treasury.gov/data/troubled-asset-relief-program) (Tier 1) (VERIFIED)
 - ~~[OpenSecrets: Bank of America lobbying expenditures](https://www.opensecrets.org/orgs/bank-of-america/lobbying?id=D000000090)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)

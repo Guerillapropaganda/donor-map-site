@@ -244,9 +244,9 @@ The Brownstein Hyatt Farber Schreck connection illustrates how the donor class o
 
 ## Sources
 
-- [FEC Candidate: John Hickenlooper campaign finance summary](https://www.fec.gov/data/candidate/P00010520/) (Tier 1) (VERIFIED)
-- [FEC Candidate: John Hickenlooper top industries (career)](https://www.fec.gov/data/candidate/P00010520/) (Tier 1) (VERIFIED)
-- [FEC Candidate: John Hickenlooper top contributors (career)](https://www.fec.gov/data/candidate/P00010520/) (Tier 1) (VERIFIED)
+- {{src:src_005322}} (Tier 1) (VERIFIED)
+- {{src:src_005322}} (Tier 1) (VERIFIED)
+- {{src:src_005322}} (Tier 1) (VERIFIED)
 - [Colorado Sun: Oil and gas and private donors paid for Hickenlooper initiatives](https://coloradosun.com/2020/06/12/john-hickenlooper-oil-and-gas-governor-office/) (Tier 2) (VERIFIED)
 - [Colorado Sun: Oil and gas donors become issue in Democratic primary](https://coloradosun.com/2020/06/23/oil-and-gas-hickenlooper-romanoff-campaign-finance/) (Tier 2) (VERIFIED)
 - [Colorado Sun: Ethics panel orders Hickenlooper to pay $2,750 for two violations](https://coloradosun.com/2020/06/12/john-hickenlooper-ethics-violation/) (Tier 2) (VERIFIED)
@@ -269,7 +269,7 @@ The Brownstein Hyatt Farber Schreck connection illustrates how the donor class o
 | PAC Contributions | $4,653 |
 | Cash on Hand | 0.00 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/P00010520/) (Tier 1) (VERIFIED)
+- {{src:src_005322}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 <!-- auto:fec-politician pending-merge 2026-04-11 -->
@@ -303,7 +303,7 @@ The Brownstein Hyatt Farber Schreck connection illustrates how the donor class o
 | FAIR SHARE ACTION | $1,511,450 | $0 |
 | ESAFUND | $0 | $1,050,000 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/S0CO00575/) (Tier 1) (VERIFIED)
+- {{src:src_001920}} (Tier 1) (VERIFIED)
 
 <!-- auto:fec-politician pending-merge end -->
 

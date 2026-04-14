@@ -169,7 +169,7 @@ The Arkansas farm boy turned intelligence chairman is the point, not the irony. 
 - ~~[House Intelligence Committee: Crawford-Himes on FY26 Intelligence Authorization Act](https://intelligence.house.gov/news/documentsingle.aspx?DocumentID=2639)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - [House.gov: Crawford biography](https://crawford.house.gov/about-rick) (Tier 1) (VERIFIED)
 - [Clerk.house.gov: Crawford 119th Congress profile](https://clerk.house.gov/members/C001087) (Tier 1) (VERIFIED)
-- [FEC: Crawford candidate overview](https://www.fec.gov/data/candidate/H0AR01083/) (Tier 1) (VERIFIED)
+- {{src:src_004227}} (Tier 1) (VERIFIED)
 - [NBC News: Mike Johnson picks Crawford to lead Intelligence after ousting Turner](https://www.nbcnews.com/politics/congress/speaker-johnson-rick-crawford-house-intelligence-committee-chair-rcna187950) (Tier 2) (VERIFIED)
 - ~~[The Hill: Who is Rick Crawford, the new House Intelligence chair](https://thehill.com/homenews/house/5090034-rick-crawford-intelligence-committee-chair/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 - ~~[Bloomberg: Ukraine aid critic to lead Intelligence panel](https://www.bloomberg.com/news/articles/2025-01-16/gop-s-johnson-taps-ukraine-aid-critic-to-lead-intelligence-panel)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
@@ -211,7 +211,7 @@ The Arkansas farm boy turned intelligence chairman is the point, not the irony. 
 | REVERE AMERICA | $4,298 | $0 |
 | AMERICANS FOR JOB SECURITY | $3,227 | $0 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H0AR01083/) (Tier 1) (VERIFIED)
+- {{src:src_004227}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ### Voting Record
@@ -241,7 +241,7 @@ The Arkansas farm boy turned intelligence chairman is the point, not the irony. 
 | 2016 | $669,502 | $808,955 | 258577.00 |
 | ... | 3 more cycles available | | |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H0AR01083/) (Tier 1)
+- {{src:src_004227}} (Tier 1)
 <!-- auto:fec-summary end -->
 
 ### Legislative Activity (Congress.gov)

@@ -158,7 +158,7 @@ The fundamental asymmetry: a bundler who raises $500K for a senator gets a phone
 
 ### Sources
 
-- [FEC: ActBlue committee overview](https://www.fec.gov/data/committee/C00401224/) (Tier 1) (VERIFIED)
+- {{src:src_013802}} (Tier 1) (VERIFIED)
 - [OpenSecrets: ActBlue PAC profile, 2024 cycle](https://www.opensecrets.org/political-action-committees-pacs/actblue/C00401224/summary/2024) (Tier 1) (VERIFIED)
 - [White House: Presidential memorandum on straw donor investigation](https://www.whitehouse.gov/presidential-actions/2025/04/investigation-into-unlawful-straw-donor-and-foreign-contributions-in-american-elections/) (Tier 1) (VERIFIED)
 - [CNN: ActBlue brings in nearly $400 million more despite Trump pressure](https://www.cnn.com/2025/07/07/politics/actblue-trump-fundraising-democrats) (Tier 2) (VERIFIED)

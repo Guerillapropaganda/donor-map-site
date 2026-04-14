@@ -156,8 +156,8 @@ On healthcare, she leads with children and families — the child tax credit, sc
 
 ## Sources
 
-- [FEC Candidate: Rosa DeLauro donor profile](https://www.fec.gov/data/candidate/H0CT03072/) (Tier 1) (VERIFIED)
-- [FEC: Rosa DeLauro candidate profile](https://www.fec.gov/data/candidate/H0CT03072/) (Tier 1) (VERIFIED)
+- {{src:src_005855}} (Tier 1) (VERIFIED)
+- {{src:src_005855}} (Tier 1) (VERIFIED)
 - [House Appropriations Committee: Ranking Member DeLauro](https://democrats-appropriations.house.gov/about/ranking-member-rosa-l-delauro) (Tier 1) (VERIFIED)
 - [Track AIPAC: Rosa DeLauro Israel lobby contributions](https://www.trackaipac.com/congress) (Tier 2) (VERIFIED)
 - [Hartford Courant: Wall Street, lawyers, insurance and defense top donors to CT lawmakers](https://www.courant.com/2019/05/28/wall-street-lawyers-insurance-and-defense-top-donors-to-connecticut-lawmakers/) (Tier 2) (VERIFIED)
@@ -198,7 +198,7 @@ c
 | CT WORKING FAMILIES FEDERAL PAC D/B/A TAKE BACK CONGRESS CT | $5,075 | $0 |
 | MID-AMERICA CONSERVATIVE POLITICAL ACTION COMMITTEE | $0 | $4,496 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H0CT03072/) (Tier 1) (VERIFIED)
+- {{src:src_005855}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ### Legislative Activity (GovTrack)
@@ -299,7 +299,7 @@ c
 | 2016 | $1,146,730 | $1,150,879 | 15216.06 |
 | ... | 13 more cycles available | | |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H0CT03072/) (Tier 1)
+- {{src:src_005855}} (Tier 1)
 <!-- auto:fec-summary end -->
 
 ### Voting Record

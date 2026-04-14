@@ -159,7 +159,7 @@ The race pivots on three money movements over the next 7 months:
 - [Jeff Yass personal donations tracker, Club for Growth, MAGA Inc.](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Jeff%20Yass) (Tier 1) (VERIFIED)
 - [ProPublica: Jeff Yass. The Billionaire GOP Mega-Donor Gaming the Tax System](https://www.propublica.org/article/jeff-yass-susquehanna-tiktok-tax-avoidance) (Tier 2) (VERIFIED)
 - ~~[Bloomberg: Stone Ridge Holdings profit, Ross Stevens Bitcoin](https://www.bloomberg.com/news/articles/stone-ridge-holdings-bitcoin)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
-- [FEC: MAGA Inc. January 2025 donations (January 17 Yass $1M)](https://www.fec.gov/data/committee/C00892471/) (Tier 1) (VERIFIED)
+- {{src:src_001273}} (Tier 1) (VERIFIED)
 - [Roivant Sciences FDA clinical trials status, Ramaswamy stake value](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company_id=0001850229&type=10-K) (Tier 1) (VERIFIED)
 - [Ramaswamy 2024 primary self-funding ($26M+)](https://www.opensecrets.org/2024-presidential-race) (Tier 1) (VERIFIED)
 - ~~[Amy Acton 2026 campaign finance, small-dollar concentration](https://followthemoney.org/entity-candidate/OH/36088-Amy-Acton)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)

@@ -147,7 +147,7 @@ Collins does not represent Maine voters. She represents the national corporate d
 
 ## Sources
 
-- [FEC Candidate: Collins career donors, industry totals, 2020 race](https://www.fec.gov/data/candidate/S6ME00159/) (Tier 1) (VERIFIED)
+- {{src:src_001210}} (Tier 1) (VERIFIED)
 - [ProPublica: private equity and carried interest](https://www.propublica.org/article/susan-collins-backed-down-from-a-fight-with-private-equity-now-theyre-underwriting-her-reelection) (Tier 2) (VERIFIED)
 - [Common Dreams/Rolling Stone: Schwarzman-tax bill timeline](https://www.commondreams.org/news/collins-private-equity-donation-tax-bill) (Tier 2) (VERIFIED)
 - [Maine Public: post-Kavanaugh fundraising](https://www.mainepublic.org/politics/2019-02-04/collins-brings-in-most-money-of-her-career-after-kavanaugh-vote) (Tier 2) (VERIFIED)
@@ -215,7 +215,7 @@ Collins does not represent Maine voters. She represents the national corporate d
 | 1820 PAC | $4,805,828 | $0 |
 | NATIONAL ASSOCIATION OF REALTORS CONGRESSIONAL FUND | $3,849,523 | $0 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/S6ME00159/) (Tier 1) (VERIFIED)
+- {{src:src_001210}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ## Committee Assignments (Congress.gov)

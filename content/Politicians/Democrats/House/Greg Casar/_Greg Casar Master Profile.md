@@ -63,5 +63,5 @@ Casar's thirst strike on the Capitol steps in February 2023, demanding federal h
 ## Sources
 
 ### Verified
-- ~~[FEC Candidate: Greg Casar campaign finance summary](https://www.fec.gov/data/candidate/H2TX35108/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~{{src:src_006229}}~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - ~~[Congress.gov: Greg Casar member profile](https://www.congress.gov/member/greg-casar/C001133)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)

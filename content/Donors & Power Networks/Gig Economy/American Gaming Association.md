@@ -214,7 +214,7 @@ The prediction market schism reveals the limits of trade association governance 
 - [Senate LDA Filings: AGA lobbying profile](https://lda.gov/filings/public/filing/search/) (Tier 1) (VERIFIED) (UNVERIFIED)
 - [OpenSecrets: AGA PAC profile C00309146](https://www.opensecrets.org/political-action-committees-pacs/american-gaming-assn/C00309146/summary/2024) (Tier 1) (VERIFIED) (UNVERIFIED)
 - [FEC Receipts: Casinos/Gambling industry totals](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1) (VERIFIED) (UNVERIFIED)
-- [FEC: AGA PAC committee C00309146](https://www.fec.gov/data/committee/C00309146/) (Tier 1) (VERIFIED)
+- {{src:src_012182}} (Tier 1) (VERIFIED)
 - [AGA: 2024 Commercial Gaming Revenue press release](https://www.americangaming.org/2024-commercial-gaming-revenue-reaches-71-9b-marking-fourth-straight-year-of-record-revenue/) (Tier 1) (VERIFIED) (UNVERIFIED)
 - [Supreme Court: Murphy v. NCAA opinion (584 U.S. 453, 2018)](https://www.supremecourt.gov/opinions/17pdf/16-476_dbfi.pdf) (Tier 1) (VERIFIED)
 - ~~[SBC Americas: IRS confirms $2,000 slot tax threshold for 2026](https://sbcamericas.com/2025/12/17/irs-slot-tax-threshold-increase/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2) (UNVERIFIED)

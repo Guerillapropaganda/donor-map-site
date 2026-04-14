@@ -161,7 +161,7 @@ The Vietnam service record controversy sharpens the class analysis. Blumenthal r
 
 ## Sources
 
-- [FEC Candidate: Richard Blumenthal donor profile](https://www.fec.gov/data/candidate/S0CT00177/) (Tier 1) (VERIFIED)
+- {{src:src_005198}} (Tier 1) (VERIFIED)
 - [OpenSecrets: Richard Blumenthal personal finances](https://www.opensecrets.org/personal-finances/richard-blumenthal/net-worth?cid=N00031685) (Tier 1) (VERIFIED)
 - ~~[Congress.gov: Richard Blumenthal](https://www.congress.gov/member/richard-blumenthal/B001277)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - [Senate Veterans' Affairs Committee: About the Ranking Member](https://www.veterans.senate.gov/ranking-member-about) (Tier 1) (VERIFIED)
@@ -207,7 +207,7 @@ The Vietnam service record controversy sharpens the class analysis. Blumenthal r
 | NATIONAL RIFLE ASSOCIATION OF AMERICA POLITICAL VICTORY FUND | $3,294 | $158,505 |
 | NATIONAL COMMITTEE TO PRESERVE SOCIAL SECURITY & MEDICARE PAC | $102,121 | $0 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/S0CT00177/) (Tier 1) (VERIFIED)
+- {{src:src_005198}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ### Legislative Activity (GovTrack)

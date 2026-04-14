@@ -182,8 +182,8 @@ The KKR pop-up PAC is the most precisely documented pay-to-play sequence in the 
 
 ## Sources
 
-- [FEC Candidate: Gregory Meeks campaign finance summary](https://www.fec.gov/data/candidate/H8NY06048/) (Tier 1) (VERIFIED)
-- [FEC: Gregory Meeks candidate filings](https://www.fec.gov/data/candidate/H8NY06048/) (Tier 1) (VERIFIED)
+- {{src:src_006212}} (Tier 1) (VERIFIED)
+- {{src:src_006212}} (Tier 1) (VERIFIED)
 - [OpenSecrets: Meeks Victory Fund 2024 joint fundraising committee](https://www.opensecrets.org/joint-fundraising-committees-jfcs/meeks-victory-fund-2024/C00833319/2024/summary) (Tier 1) (VERIFIED)
 - [House Ethics Committee: Statement regarding Rep. Gregory Meeks](https://ethics.house.gov/press-releases/statement-chairman-and-ranking-member-regarding-representative-gregory-meeks/) (Tier 1) (VERIFIED)
 - [Office of Congressional Ethics: Referral regarding Rep. Gregory Meeks](https://conduct.house.gov/reports/investigations/oce-referral-regarding-rep-gregory-meeks) (Tier 1) (VERIFIED)
@@ -233,7 +233,7 @@ The KKR pop-up PAC is the most precisely documented pay-to-play sequence in the 
 | SIERRA CLUB POLITICAL COMMITTEE | $180 | $0 |
 | PLANNED PARENTHOOD VOTES | $124 | $0 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H8NY06048/) (Tier 1) (VERIFIED)
+- {{src:src_006212}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ### Legislative Activity (GovTrack)

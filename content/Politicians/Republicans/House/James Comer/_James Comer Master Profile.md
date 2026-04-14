@@ -176,8 +176,8 @@ On DOGE and government efficiency, Comer has adopted Musk's language wholesale â
 
 ## Sources
 
-- [FEC Candidate: James Comer Campaign Finance Summary](https://www.fec.gov/data/candidate/H6KY01110/) (Tier 1) (VERIFIED)
-- [FEC: Comer for Congress (C00588764)](https://www.fec.gov/data/candidate/H6KY01110/) (Tier 1) (VERIFIED)
+- {{src:src_004442}} (Tier 1) (VERIFIED)
+- {{src:src_004442}} (Tier 1) (VERIFIED)
 - ~~[Congress.gov: James Comer Member Profile](https://www.congress.gov/member/james-comer/C001108)~~ (was Tier 1 â€” URL broken, archived by Ops) (Tier 1)
 - [Fortune: Comer's Kentucky Land Shell Company](https://fortune.com/2023/12/14/james-comer-kentucky-land-shell-company-hunter-biden-probe/) (Tier 2) (VERIFIED)
 - [NPR: FBI Informant Smirnov Charged with Lying About Bidens](https://www.npr.org/2024/02/20/1232789953/alexander-smirnov-fbi-informant-biden-hunter-ukraine) (Tier 2) (VERIFIED)
@@ -242,7 +242,7 @@ On DOGE and government efficiency, Comer has adopted Musk's language wholesale â
 | ALLIANCE COAL, LLC PAC | $69 | $0 |
 | NATIONAL RIGHT TO LIFE POLITICAL ACTION COMMITTEE | $13 | $0 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H6KY01110/) (Tier 1) (VERIFIED)
+- {{src:src_004442}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ### Voting Record

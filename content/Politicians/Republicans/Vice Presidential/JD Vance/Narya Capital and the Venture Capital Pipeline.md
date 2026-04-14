@@ -147,8 +147,8 @@ Standard conflict-of-interest enforcement mechanisms fail in this scenario:
 ### Sources
 
 ### Tier 1 (Primary/Government):
-- [FEC: JD VANCE FOR SENATE INC. - committee overview](https://www.fec.gov/data/committee/C00783142/?cycle=2024) (Tier 1) (VERIFIED)
-- [OpenSecrets.org: Sen. J D Vance Financial Disclosures](https://www.fec.gov/data/candidate/S2OH00436/) (Tier 1) (VERIFIED)
+- {{src:src_002686}} (Tier 1) (VERIFIED)
+- {{src:src_002687}} (Tier 1) (VERIFIED)
 - ~~[Congress.gov: J. D. Vance voting record](https://www.congress.gov/member/j-vance/V000137)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 
 ### Tier 2 (Major Journalism):
@@ -157,7 +157,7 @@ Standard conflict-of-interest enforcement mechanisms fail in this scenario:
 - [Washington Post: Inside the powerful Peter Thiel tech network that launched JD Vance](https://www.washingtonpost.com/technology/2024/07/28/jd-vance-peter-thiel-donors-big-tech-trump-vp/) (Tier 2) (VERIFIED)
 
 ### Tier 3 (Aggregators & Government Data):
-- [OpenSecrets.org: Vance financial disclosures and defense contractor donations](https://www.fec.gov/data/candidate/S2OH00436/) (Tier 3) (VERIFIED)
+- {{src:src_002687}} (Tier 3) (VERIFIED)
 - [Ballotpedia: J.D. Vance voting record](https://ballotpedia.org/J.D._Vance) (Tier 3) (VERIFIED)
 
 ### Tier 4 (Investigative Analysis):

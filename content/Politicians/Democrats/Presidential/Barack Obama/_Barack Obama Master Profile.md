@@ -335,7 +335,7 @@ Compare this to [[_Bernie Sanders Master Profile|Bernie Sanders]], who left offi
 | Election Cycle | 2016 |
 | Cash on Hand | 0.00 |
 
-- ~~[Source: FEC.gov](https://www.fec.gov/data/candidate/S6CA00808/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~{{src:src_005746}}~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:fec-politician end -->
 
 ### Presidential Actions (Federal Register)

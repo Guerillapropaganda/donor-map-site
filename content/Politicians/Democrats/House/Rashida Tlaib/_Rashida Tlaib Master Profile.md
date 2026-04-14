@@ -217,8 +217,8 @@ The structural trap is visible: Tlaib's small-dollar model proves the alternativ
 
 ## Sources
 
-- [FEC Candidate: Rashida Tlaib campaign finance summary](https://www.fec.gov/data/candidate/H8MI13250/) (Tier 1) (VERIFIED)
-- [FEC: Rashida Tlaib committee filings](https://www.fec.gov/data/candidate/H8MI13250/) (Tier 1) (VERIFIED)
+- {{src:src_005925}} (Tier 1) (VERIFIED)
+- {{src:src_005925}} (Tier 1) (VERIFIED)
 - ~~[Congress.gov: Rashida Tlaib member profile](https://www.congress.gov/member/rashida-tlaib/T000481)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - [NPR: House votes to censure Rep. Rashida Tlaib](https://www.npr.org/2023/11/07/1211315549/tlaib-censure-house-israel-gaza) (Tier 2) (VERIFIED)
 - [Detroit News: Tlaib raises $3.7M after censure](https://www.detroitnews.com/story/news/politics/2024/02/01/tlaib-raises-3-7m-for-reelection-after-censure-by-house/72430690007/) (Tier 2) (VERIFIED)
@@ -263,7 +263,7 @@ The structural trap is visible: Tlaib's small-dollar model proves the alternativ
 | MOVEON.ORG POLITICAL ACTION | $89,795 | $0 |
 | FRIENDS OF THE EARTH (ACTION) INC | $40,939 | $0 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H8MI13250/) (Tier 1) (VERIFIED)
+- {{src:src_005925}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ## Voting Record
@@ -388,7 +388,7 @@ The structural trap is visible: Tlaib's small-dollar model proves the alternativ
 | 2020 | $4,093,645 | $3,769,569 | 391731.92 |
 | 2018 | $1,666,003 | $1,598,348 | 67655.29 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H8MI13250/) (Tier 1)
+- {{src:src_005925}} (Tier 1)
 <!-- auto:fec-summary end -->
 
 ### Wikipedia

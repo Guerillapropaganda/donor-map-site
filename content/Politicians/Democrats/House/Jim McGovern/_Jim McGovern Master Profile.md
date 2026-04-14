@@ -156,7 +156,7 @@ McGovern is the anti-pattern that proves the pattern across the vault. When a po
 
 ## Sources
 
-- [FEC Candidate: Jim McGovern donor profile](https://www.fec.gov/data/candidate/H6FL06225/) (Tier 1) (VERIFIED)
+- {{src:src_006076}} (Tier 1) (VERIFIED)
 - ~~[Congress.gov: James P. McGovern](https://www.congress.gov/member/james-mcgovern/M000312)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - [House.gov: McGovern biography](https://mcgovern.house.gov/about/) (Tier 1) (VERIFIED)
 - [House Rules Committee: Ranking Member McGovern](https://democrats-rules.house.gov/about/chairman-mcgovern) (Tier 1) (VERIFIED)

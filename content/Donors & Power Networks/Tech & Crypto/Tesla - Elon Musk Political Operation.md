@@ -50,7 +50,7 @@ EV tax credit structures that favor Tesla's manufacturing model, reduced NHTSA e
 ### Sources
 
 - [OpenSecrets: Elon Musk political contributions](https://www.opensecrets.org/donor-lookup/results?name=elon+musk) (Tier 1) (VERIFIED)
-- [FEC: America PAC filings](https://www.fec.gov/data/committee/C00873893/) (Tier 1) (VERIFIED)
+- {{src:src_009514}} (Tier 1) (VERIFIED)
 - [Tesla: SEC 10-K filing, regulatory credit revenue](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001318605) (Tier 1) (NEEDS REVIEW)
 - [Ballotpedia: Elon Musk](https://ballotpedia.org/Elon_Musk) (Tier 3) (VERIFIED)
 

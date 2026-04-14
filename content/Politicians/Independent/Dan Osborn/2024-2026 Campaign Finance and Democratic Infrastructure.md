@@ -32,7 +32,7 @@ However, geographic analysis reveals the illusion: of $1 million+ raised from in
 
 ### Tier 2: DSCC Direct Support
 
-The Democratic Senatorial Campaign Committee, [[_Chuck Schumer Master Profile|Chuck Schumer]]'s party operation, contributed $57,800 directly to Osborn's campaign in the final weeks before the 2024 election. [Source: FEC data](https://www.fec.gov/data/candidate/S4NE00207/) (Tier 1) (VERIFIED). This represents party establishment choosing to invest directly in Osborn's campaign despite his "independent" positioning. The timing, late October/early November, shows the DSCC deploying capital when turnout operations matter most.
+The Democratic Senatorial Campaign Committee, [[_Chuck Schumer Master Profile|Chuck Schumer]]'s party operation, contributed $57,800 directly to Osborn's campaign in the final weeks before the 2024 election. {{src:src_004998}} (Tier 1) (VERIFIED). This represents party establishment choosing to invest directly in Osborn's campaign despite his "independent" positioning. The timing, late October/early November, shows the DSCC deploying capital when turnout operations matter most.
 
 ### Tier 3: [[Senate Majority PAC|Senate Majority PAC]] and the Real Firepower
 
@@ -74,7 +74,7 @@ Working-class Nebraskans who donate to Osborn thinking they are funding a grassr
 
 ### Sources
 
-- [FEC.gov: Candidate Dan Osborn Financial Disclosures](https://www.fec.gov/data/candidate/S4NE00207/) (Tier 1) (VERIFIED)
+- {{src:src_004998}} (Tier 1) (VERIFIED)
 - [Nebraska Examiner: Dan Osborn raises more than $1 million for second Nebraska U.S. Senate race](https://nebraskaexaminer.com/2025/10/02/dan-osborn-raises-more-than-1-million-for-second-nebraska-u-s-senate-race-against-ricketts/) (Tier 2) (VERIFIED)
 - [Fox News: Senate hopeful with deep Dem ties has paid family over $350K from his campaign coffers](https://www.foxnews.com/politics/senate-hopeful-deep-dem-ties-has-paid-family-over-350k-from-his-campaign-coffers) (Tier 2) (VERIFIED)
 - [Free Beacon: 'Independent' Nebraska Senate Candidate Dan Osborn's Latest Financial Disclosures](https://freebeacon.com/elections/independent-nebraska-senate-candidate-dan-osborns-latest-financial-disclosures-show-nearly-400000-raised-from-roughly-200-donors-six-are-nebraskans/) (Tier 2) (VERIFIED)

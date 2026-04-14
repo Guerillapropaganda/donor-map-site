@@ -107,7 +107,7 @@ Source: [[United Democracy Project - UDP]], [[_Jamaal Bowman Master Profile]] va
 | JUSTICE DEMOCRATS PAC | $0 | $783,227 |
 | EMGAGE FEDERAL POLITICAL ACTION COMMITTEE | $0 | $200,000 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H4NY16087/) (Tier 1) (VERIFIED)
+- {{src:src_006244}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ### Voting Record

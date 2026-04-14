@@ -111,7 +111,7 @@ ActBlue's $3.82 billion in 2024 cycle processing demonstrates that small-dollar 
 
 ### Sources
 
-- [FEC: ActBlue committee overview — receipts, disbursements, and filings](https://www.fec.gov/data/committee/C00401224/) (Tier 1) (VERIFIED)
+- {{src:src_013802}} (Tier 1) (VERIFIED)
 - [OpenSecrets: ActBlue PAC profile — 2024 cycle summary and historical totals](https://www.opensecrets.org/political-action-committees-pacs/actblue/C00401224/summary/2024) (Tier 1) (VERIFIED)
 - [House Administration Committee: Chairman Steil demands information from ActBlue on potential foreign influence](https://cha.house.gov/2024/10/chairman-steil-demands-information-from-actblue-on-potential-foreign-influence-in-campaign-funding) (Tier 1) (VERIFIED)
 - ~~[The Hill: ActBlue rakes in nearly $50 million in 7 hours after Harris campaign launch](https://thehill.com/elections/4785224-harris-campaign-fundraising-actblue/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)

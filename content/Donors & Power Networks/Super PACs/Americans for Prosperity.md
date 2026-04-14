@@ -171,7 +171,7 @@ State-level capture is where AFP's model reaches its most advanced form. In stat
 ### Sources
 
 - [OpenSecrets: AFP Action PAC summary — $181.5M raised, $138.5M IE (C00687103)](https://www.opensecrets.org/political-action-committees-pacs/americans-for-prosperity/C00687103/summary/2024) (Tier 1) (VERIFIED)
-- [FEC: AFP Action committee filings (C00687103)](https://www.fec.gov/data/committee/C00687103/?tab=summary) (Tier 1) (VERIFIED)
+- {{src:src_009547}} (Tier 1) (VERIFIED)
 - [OpenSecrets: Koch network flagship super PAC spending — 2024 elections](https://www.opensecrets.org/news/2024/08/koch-network-flagship-super-pac-pours-big-money-into-2024-elections/) (Tier 1) (VERIFIED)
 - ~~[EXPOSEDbyCMD: Koch super PAC shatters election spending record — $548M cycle](https://www.exposedbycmd.org/2024/11/05/koch-super-pac-shatters-its-election-spending-record/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 - ~~[EXPOSEDbyCMD: Major right-wing super PACs disclose contributions — AFP Action $28.9M in 2025](https://www.exposedbycmd.org/2026/02/18/major-right-wing-super-pacs-disclose-recent-contributions-and-endorsements/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)

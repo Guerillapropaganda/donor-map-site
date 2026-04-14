@@ -96,8 +96,8 @@ Cortez Masto represents the precise labor-containment function: she maintains la
 ### Sources
 
 - [Nevada Current: Battle for Senate Control Pits Cortez Masto Against Sands & Station](https://nevadacurrent.com/2020/09/08/battle-for-senate-control-pits-cortez-masto-against-sands-station/) (Tier 2) (VERIFIED)
-- [FEC Candidate: Sen. Catherine Cortez Masto Campaign Finance Summary](https://www.fec.gov/data/candidate/S6NV00200/) (Tier 1) (VERIFIED)
-- [FEC Candidate: Catherine Cortez Masto Nevada State Data](https://www.fec.gov/data/candidate/S6NV00200/) (Tier 1) (VERIFIED)
+- {{src:src_005066}} (Tier 1) (VERIFIED)
+- {{src:src_005066}} (Tier 1) (VERIFIED)
 - [Senator Cortez Masto Official: Sports Betting Bill Press Release](https://www.cortezmasto.senate.gov/news/press-releases/as-football-season-begins-cortez-masto-hyde-smith-introduce-bipartisan-bill-to-boost-local-sports-tourism-and-gaming-economy/) (Tier 1) (VERIFIED)
 - [Las Vegas Review-Journal: Senators Reintroduce Bipartisan Bill to Repeal Federal Sports Betting Excise Tax](https://www.reviewjournal.com/business/casinos-gaming/bill-aims-to-repeal-federal-sports-betting-excise-tax-3441085/) (Tier 2) (VERIFIED)
 - [Las Vegas Review-Journal: Nevada's Top 10 Political Contributors](https://www.reviewjournal.com/local/local-nevada/nevadas-top-10-political-contributors-so-far/) (Tier 2) (VERIFIED)
@@ -134,7 +134,7 @@ Cortez Masto represents the precise labor-containment function: she maintains la
 | SMP | $8,551,162 | $0 |
 | NRSC | $0 | $4,359,251 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/S6NV00200/) (Tier 1) (VERIFIED)
+- {{src:src_005066}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ### DOJ Press Releases

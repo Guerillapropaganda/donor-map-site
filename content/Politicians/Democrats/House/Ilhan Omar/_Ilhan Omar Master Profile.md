@@ -226,8 +226,8 @@ Omar's small-dollar model ($1.7M in Q1 2024, 56,022 contributions, $31.79 averag
 
 ### Verified
 - [Congress.gov: Ilhan Omar member profile](https://www.congress.gov/member/ilhan-omar/O000173) (Tier 1) (VERIFIED)
-- [FEC Candidate: Ilhan Omar campaign finance summary](https://www.fec.gov/data/candidate/H8MN05239/) (Tier 1) (VERIFIED)
-- [FEC: Ilhan for Congress committee (C00680934)](https://www.fec.gov/data/committee/C00680934/?tab=summary) (Tier 1) (VERIFIED)
+- {{src:src_006158}} (Tier 1) (VERIFIED)
+- {{src:src_006164}} (Tier 1) (VERIFIED)
 - [Omar.house.gov: Statement on Foreign Aid Supplemental Bills](https://omar.house.gov/media/press-releases/rep-omar-statement-foreign-aid-supplemental-bills) (Tier 1) (VERIFIED)
 - [NPR: House Republicans vote to remove Omar from Foreign Affairs Committee](https://www.npr.org/2023/02/02/1153472237/ilhan-omar-foreign-affairs-committee-vote-republicans-remove) (Tier 2) (VERIFIED)
 - [CNN: House passes resolution to remove Omar from committees](https://www.cnn.com/2023/02/02/politics/house-vote-ilhan-omar-committees) (Tier 2) (VERIFIED)
@@ -278,7 +278,7 @@ Omar's small-dollar model ($1.7M in Q1 2024, 56,022 contributions, $31.79 averag
 | WFP IE COMMITTEE | $161,100 | $0 |
 | NATIONAL NURSES UNITED FOR PATIENT PROTECTION | $155,229 | $0 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H8MN05239/) (Tier 1) (VERIFIED)
+- {{src:src_006158}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ### Voting Record
@@ -355,7 +355,7 @@ Omar's small-dollar model ($1.7M in Q1 2024, 56,022 contributions, $31.79 averag
 | 2020 | $5,810,874 | $5,697,934 | 167769.73 |
 | 2018 | $1,084,183 | $1,029,354 | 54829.27 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H8MN05239/) (Tier 1)
+- {{src:src_006158}} (Tier 1)
 <!-- auto:fec-summary end -->
 
 ### Wikipedia

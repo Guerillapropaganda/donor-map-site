@@ -173,7 +173,7 @@ Bean represents a new model of donor-class power projection. Rather than corrupt
 
 ## Sources
 
-- [FEC Candidate: Melissa Bean 2026 Campaign Finance](https://www.fec.gov/data/candidate/H2IL08088/) (Tier 1) (VERIFIED)
+- {{src:src_006028}} (Tier 1) (VERIFIED)
 - [FEC: Illinois 8th District 2026 Primary Results](https://www.fec.gov/data/elections/house/IL/08/2026/) (Tier 1) (VERIFIED)
 - [In Illinois's Eighth District, AIPAC and AI Try to Buy a Seat: The American Prospect](https://prospect.org/2026/03/12/illinois-eighth-congressional-district-aipac-ai-bean-ahmed/) (Tier 2) (VERIFIED)
 - [Melissa Bean wins 8th Congressional District primary, moves to reclaim seat she lost 16 years ago: Chicago Sun-Times](https://chicago.suntimes.com/elections/2026/03/17/us-house-illinois-8th-congressional-district-primary-results) (Tier 2) (VERIFIED)
@@ -238,7 +238,7 @@ _No committee data found._
 | NATIONAL ASSOCIATION OF REALTORS POLITICAL ACTION COMMITTEE | $464,668 | $0 |
 | NEW HOUSE PAC | $47,072 | $0 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H2IL08088/) (Tier 1) (VERIFIED)
+- {{src:src_006028}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ### Legislative Activity (Congress.gov)
@@ -292,7 +292,7 @@ _No committee data found._
 | 2004 | $1,603,232 | $1,586,835 | 24463.84 |
 | 2002 | $329,028 | $320,960 | 8066.54 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H2IL08088/) (Tier 1)
+- {{src:src_006028}} (Tier 1)
 <!-- auto:fec-summary end -->
 
 ### Voting Record

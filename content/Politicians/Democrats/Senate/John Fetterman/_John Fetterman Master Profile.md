@@ -199,8 +199,8 @@ The Pennsylvania context matters: a $500K net-worth senator in a swing state is 
 
 ## Sources
 
-- [FEC Candidate: John Fetterman Campaign Finance Summary](https://www.fec.gov/data/candidate/S6PA00274/) (Tier 1) (VERIFIED)
-- [FEC: John Fetterman Candidate Profile](https://www.fec.gov/data/candidate/S6PA00274/) (Tier 1) (VERIFIED)
+- {{src:src_005345}} (Tier 1) (VERIFIED)
+- {{src:src_005345}} (Tier 1) (VERIFIED)
 - [The Intercept: Since October, Sen. John Fetterman Has Been Building a Roster of Republican Donors](https://theintercept.com/2024/04/19/john-fetterman-israel-gop-donors/) (Tier 2) (VERIFIED)
 - [The Nation: Senator John Fetterman Is a Progressive Icon, a Republican Hate Figure—and a Pro-Israel Pinup](https://www.thenation.com/article/politics/fetterman-israel-palestine-progressives/) (Tier 2) (VERIFIED)
 - [Pittsburgh Post-Gazette: Sen. John Fetterman sparks a backlash with staunch support for Israel](https://www.post-gazette.com/news/politics-nation/2023/11/03/john-fetterman-israel-hamas-progressives/stories/202311050075) (Tier 2) (VERIFIED)
@@ -239,7 +239,7 @@ The Pennsylvania context matters: a $500K net-worth senator in a swing state is 
 | NRSC | $0 | $6,691,948 |
 | MAKE AMERICA GREAT AGAIN INC. | $0 | $6,652,742 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/S6PA00274/) (Tier 1) (VERIFIED)
+- {{src:src_005345}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ### Legislative Activity (GovTrack)

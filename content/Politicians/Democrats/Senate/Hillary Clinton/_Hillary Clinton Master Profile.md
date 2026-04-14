@@ -101,7 +101,7 @@ The Goldman Sachs speeches were not anomalous; they were the clearest articulati
 
 ## Sources
 
-- [FEC 2016 Presidential Campaign Finance](https://www.fec.gov/data/candidate/P00003392/) (Tier 1) (VERIFIED)
+- {{src:src_005384}} (Tier 1) (VERIFIED)
 - [Hillary Clinton Goldman Sachs Speeches Leaked, WikiLeaks](https://wikileaks.org/podesta-emails/emailid/927) (Tier 2) (VERIFIED)
 - ~~[Open Secrets: Hillary Clinton Donor Profile](https://www.opensecrets.org/politicians/hillary-clinton)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - ~~[CNN: Hillary Clinton and Wall Street](https://www.cnn.com/politics/hillary-clinton-wall-street)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
@@ -141,7 +141,7 @@ The Goldman Sachs speeches were not anomalous; they were the clearest articulati
 | STOP UNION POLITICAL ABUSE (SUPA) | $0 | $202,500 |
 | CONSERVATIVE LEADERSHIP POLITICAL ACTION COMMITTEE | $0 | $163,990 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/S0NY00188/) (Tier 1) (VERIFIED)
+- {{src:src_005389}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ### DOJ Press Releases

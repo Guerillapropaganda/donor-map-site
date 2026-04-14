@@ -212,7 +212,7 @@ The firm's representation of Saudi Arabia — maintained after the Khashoggi mur
 - [Senate LDA Filings: Brownstein, Hyatt et al Lobbying Profile](https://lda.gov/filings/public/filing/search/) (Tier 1) (VERIFIED)
 - [Senate LDA Filings: Brownstein, Hyatt et al Lobbyists 2024](https://lda.gov/filings/public/filing/search/) (Tier 1) (VERIFIED)
 - [OpenSecrets: Brownstein, Hyatt et al FARA Foreign Lobbying](https://www.opensecrets.org/fara/registrants/D000000724) (Tier 1) (VERIFIED)
-- [FEC: BHFS-E, PC PAC committee overview](https://www.fec.gov/data/committee/C00390583/) (Tier 1) (VERIFIED)
+- {{src:src_007997}} (Tier 1) (VERIFIED)
 - [Washington Post: The firm that once employed Trump's pick to run Interior is making millions lobbying it](https://www.washingtonpost.com/climate-environment/2019/04/03/firm-that-once-employed-trumps-pick-run-interior-is-making-millions-lobbying-it/) (Tier 2) (VERIFIED)
 - [Denver Post: Denver lobbyists are nation's most profitable](https://www.denverpost.com/2019/07/29/brownstein-lobbying-congress-nancy-pelosi/) (Tier 2) (VERIFIED)
 - [Denver Post: Colorado lobbying firm brings clout to DC](https://www.denverpost.com/2016/04/09/colorado-lobbying-firm-brings-clout-to-dc/) (Tier 2) (VERIFIED)

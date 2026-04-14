@@ -149,7 +149,7 @@ Then he left for the private sector, where the real money is.
 
 ## Sources
 
-- [FEC Candidate: Mark Green donor profile](https://www.fec.gov/data/candidate/H0CT05150/) (Tier 1) (VERIFIED)
+- {{src:src_004331}} (Tier 1) (VERIFIED)
 - ~~[Congress.gov: Mark E. Green](https://www.congress.gov/member/mark-green/G000590)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - ~~[House.gov: Mark Green biography](https://markgreen.house.gov/biography)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - [NBC News: Mark Green to resign from Congress for private-sector job](https://www.nbcnews.com/politics/congress/mark-green-tennessee-republican-resign-congress-homeland-security-rcna211953) (Tier 2) (VERIFIED)
@@ -191,7 +191,7 @@ Then he left for the private sector, where the real money is.
 | NATIONAL RIGHT TO LIFE POLITICAL ACTION COMMITTEE | $4,882 | $0 |
 | NATIONAL RIGHT TO LIFE VICTORY FUND | $2,451 | $0 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H0CT05150/) (Tier 1) (VERIFIED)
+- {{src:src_004331}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ### Legislative Activity (GovTrack)

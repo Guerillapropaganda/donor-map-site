@@ -159,7 +159,7 @@ Grijalva spent two decades fighting battles with no corporate lobby behind them.
 
 ## Sources
 
-- [FEC Candidate: Raul Grijalva donor profile](https://www.fec.gov/data/candidate/H2AZ07070/) (Tier 1) (VERIFIED)
+- {{src:src_005908}} (Tier 1) (VERIFIED)
 - ~~[Congress.gov: Raul M. Grijalva](https://www.congress.gov/member/raul-grijalva/G000551)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - [House Natural Resources Democrats: Ranking Member Grijalva](https://democrats-naturalresources.house.gov/about/ranking-member-grijalva) (Tier 1) (VERIFIED)
 - [Grijalva.house.gov: Biography](https://grijalva.house.gov/about/about) (Tier 1) (VERIFIED)
@@ -200,7 +200,7 @@ Grijalva spent two decades fighting battles with no corporate lobby behind them.
 | SERVICE EMPLOYEES INTERNATIONAL UNION (SEIU) | $121,000 | $0 |
 | WORKING FAMILIES PARTY PAC | $92,000 | $0 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H2AZ07070/) (Tier 1) (VERIFIED)
+- {{src:src_005908}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ### Legislative Activity (Congress.gov)

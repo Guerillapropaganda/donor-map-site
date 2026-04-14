@@ -202,7 +202,7 @@ For the vault's framework: DMFI is the Israel lobby's version of what the Koch n
 ## Sources
 
 ### Verified
-- [FEC: DMFI PAC committee page](https://www.fec.gov/data/committee/C00710848/) (Tier 1) (VERIFIED)
+- {{src:src_011868}} (Tier 1) (VERIFIED)
 - [FEC: DMFI PAC independent expenditures](https://www.fec.gov/data/independent-expenditures/?committee_id=C00710848) (Tier 1) (VERIFIED)
 - [ProPublica Nonprofit Explorer: DMFI 501(c)(4) EIN 833298146](https://projects.propublica.org/nonprofits/organizations/833298146) (Tier 1) (VERIFIED)
 - [Sludge: AIPAC-tied DMFI raises from private equity execs](https://readsludge.com/2024/04/16/aipac-tied-dmfi-raises-more-from-private-equity-execs/) (Tier 2) (VERIFIED)

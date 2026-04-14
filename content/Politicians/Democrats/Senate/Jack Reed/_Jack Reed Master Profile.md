@@ -181,9 +181,9 @@ Reed's net worth is among the lowest in the Senate, reported between negative $5
 
 ## Sources
 
-- [FEC Candidate: Jack Reed donor profile](https://www.fec.gov/data/candidate/P60023777/) (Tier 1) (VERIFIED)
-- [FEC Candidate: Jack Reed industry donors](https://www.fec.gov/data/candidate/P60023777/) (Tier 1) (VERIFIED)
-- [FEC Candidate: Jack Reed contributors](https://www.fec.gov/data/candidate/P60023777/) (Tier 1) (VERIFIED)
+- {{src:src_005374}} (Tier 1) (VERIFIED)
+- {{src:src_005374}} (Tier 1) (VERIFIED)
+- {{src:src_005374}} (Tier 1) (VERIFIED)
 - ~~[Senate.gov: Jack Reed official biography](https://www.reed.senate.gov/about)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - ~~[Congress.gov: National Defense Authorization Act](https://www.congress.gov/bill/118th-congress/house-bill/2670)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - ~~[DOD: Rhode Island Defense Spending Report](https://oldcc.gov/state/rhode-island)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
@@ -219,7 +219,7 @@ Reed's net worth is among the lowest in the Senate, reported between negative $5
 | Election Cycle | 2036 |
 | Cash on Hand | 0.00 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/P60023777/) (Tier 1) (VERIFIED)
+- {{src:src_005374}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 <!-- auto:fec-politician pending-merge 2026-04-11 -->
@@ -256,7 +256,7 @@ Reed's net worth is among the lowest in the Senate, reported between negative $5
 | CAMPAIGN FOR WORKING FAMILIES | $0 | $66 |
 | ENVIRONMENT AMERICA INC | $59 | $0 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/S6RI00163/) (Tier 1) (VERIFIED)
+- {{src:src_005381}} (Tier 1) (VERIFIED)
 
 <!-- auto:fec-politician pending-merge end -->
 

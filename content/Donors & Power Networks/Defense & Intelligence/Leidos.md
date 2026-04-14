@@ -184,7 +184,7 @@ The Genuine Win + Structural Limit pattern appears in Leidos' VA healthcare work
 - [OpenSecrets: Leidos Inc summary, contributions, lobbying, and revolving door overview](https://www.opensecrets.org/orgs/leidos-inc/summary?id=D000000369) (Tier 1) (VERIFIED)
 - [OpenSecrets: Leidos Inc lobbying profile, annual totals and bills lobbied](https://www.opensecrets.org/orgs/leidos-inc/lobbying?id=D000000369) (Tier 1) (VERIFIED)
 - [OpenSecrets: Leidos Inc PAC contributions to federal candidates 2024](https://www.opensecrets.org/political-action-committees-pacs/leidos-inc/C00546234/candidate-recipients/2024) (Tier 1) (VERIFIED)
-- [FEC: Leidos Inc Political Action Committee, committee overview and filings](https://www.fec.gov/data/committee/C00546234/?cycle=2024) (Tier 1) (VERIFIED)
+- {{src:src_013303}} (Tier 1) (VERIFIED)
 - [Leidos: Political Activities disclosure](https://www.leidos.com/company/responsibility-and-sustainability/political-activities) (Tier 1) (VERIFIED)
 - [Leidos Investor Relations: Three DISA awards for DoDNet modernization](https://investors.leidos.com/news-releases/news-release-details/leidos-receives-three-disa-awards-launch-next-phase-it) (Tier 1) (VERIFIED)
 - [PR Newswire: Leidos awarded $390M NSA signals intelligence contract](https://www.prnewswire.com/news-releases/leidos-awarded-390-million-nsa-signals-intelligence-contract-302417279.html) (Tier 2) (VERIFIED)

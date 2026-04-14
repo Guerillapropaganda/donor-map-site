@@ -144,7 +144,7 @@ The family narrative is the rhetorical armor. Diaz-Balart's aunt, Mirta Diaz-Bal
 
 ## Sources
 
-- [FEC Candidate: Mario Diaz-Balart campaign finance summary](https://www.fec.gov/data/candidate/H2FL25018/) (Tier 1) (VERIFIED)
+- {{src:src_004359}} (Tier 1) (VERIFIED)
 - [Miami New Times: Florida Algae Bloom — Rep. Diaz-Balart Took $27,200 From Big Sugar](https://www.miaminewtimes.com/news/florida-algae-bloom-miami-rep-mario-diaz-balart-took-27200-from-big-sugar-10605348/) (Tier 2) (VERIFIED)
 - ~~[Florida Daily: Diaz-Balart Plans to Use Appropriations to Help Israel, Take Aim at Cuban Regimes](https://www.floridadaily.com/mario-diaz-balart-plans-to-use-appropriations-assignments-to-help-israel-take-aim-at-cuban-venezuelan-regimes/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 - [Diaz-Balart.house.gov: FY26 Appropriations passage press release](https://mariodiazbalart.house.gov/media-center/press-releases/diaz-balart-delivers-stronger-national-security-less-waste-passage-fy26) (Tier 1) (VERIFIED)
@@ -186,5 +186,5 @@ The family narrative is the rhetorical armor. Diaz-Balart's aunt, Mirta Diaz-Bal
 | HOUSE MAJORITY PAC | $0 | $64,729 |
 | NATIONAL REPUBLICAN CONGRESSIONAL COMMITTEE | $20,324 | $0 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H2FL25018/) (Tier 1) (VERIFIED)
+- {{src:src_004359}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->

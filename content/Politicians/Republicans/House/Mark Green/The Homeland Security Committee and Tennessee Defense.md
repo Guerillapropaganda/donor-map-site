@@ -41,6 +41,6 @@ Green's military credentials (West Point, combat service) and business backgroun
 ### Sources
 
 - ~~[Congress.gov: Mark Green member profile](https://www.congress.gov/member/mark-green/G000590)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
-- [FEC Candidate: Mark Green campaign finance summary](https://www.fec.gov/data/candidate/H0CT05150/) (Tier 1) (VERIFIED)
+- {{src:src_004331}} (Tier 1) (VERIFIED)
 - [Ballotpedia: Mark Green](https://ballotpedia.org/Mark_Green_(Tennessee) (VERIFIED)) (Tier 3)
 

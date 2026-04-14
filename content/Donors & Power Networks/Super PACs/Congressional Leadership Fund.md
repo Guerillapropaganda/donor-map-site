@@ -200,7 +200,7 @@ Every competitive district with energy-sector employers receives CLF ad spending
 ### Sources
 
 - [OpenSecrets: Congressional Leadership Fund PAC summary — $243M raised, 2024 cycle](https://www.opensecrets.org/political-action-committees-pacs/C00504530/summary/2024) (Tier 1) (VERIFIED)
-- ~~[FEC: Congressional Leadership Fund committee filings (C00504530)](https://www.fec.gov/data/committee/C00504530/?tab=summary)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~{{src:src_009568}}~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - [FactCheck.org: Congressional Leadership Fund — hybrid PAC, top donors, AAN relationship](https://www.factcheck.org/2024/04/congressional-leadership-fund-5/) (Tier 2) (VERIFIED)
 - [Ballotpedia: Congressional Leadership Fund — background, leadership, endorsements](https://ballotpedia.org/Congressional_Leadership_Fund) (Tier 3) (VERIFIED)
 - [Read Sludge: Fossil fuel donors give record amount to congressional GOP super PACs](https://readsludge.com/2024/10/17/fossil-fuel-donors-give-record-amount-to-congressional-gop-super-pacs/) (Tier 2) (VERIFIED)

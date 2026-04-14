@@ -283,7 +283,7 @@ The structural innovation Trump represents is the merger of state power and pers
 - [OpenSecrets: Trump 2024 summary](https://www.opensecrets.org/2024-presidential-race?id=N00023864) (Tier 1) (VERIFIED)
 - [OpenSecrets: 2024 mega-donors](https://www.opensecrets.org/news/2025/03/elon-musk-tops-list-of-2024-political-donors-but-six-others-gave-more-than-100-million) (Tier 1)
 - [Brennan Center: Megadonor analysis](https://www.brennancenter.org/our-work/analysis-opinion/megadonors-playing-larger-role-presidential-race-fec-data-shows) (Tier 2)
-- [FEC: Trump candidate page](https://www.fec.gov/data/candidate/P80001571/) (Tier 1) (VERIFIED)
+- {{src:src_003731}} (Tier 1) (VERIFIED)
 - ~~[CBO: TCJA analysis](https://www.cbo.gov/publication/53312)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1) (VERIFIED: H.R. 1, the Tax Cuts and Jobs Act November 13, 2017 Cost Estimate As ordered reported by the House Committee on Ways and Means on November 9, 2017; Seems like it works fine. Not sure about context but it works)
 - [Tax Policy Center: TCJA impact](https://taxpolicycenter.org/briefing-book/how-did-tcja-affect-federal-budget-outlook) (Tier 1) (VERIFIED)
 - [NPR: World Liberty Financial](https://www.npr.org/2025/09/03/nx-s1-5527047/trump-crypto-family-world-liberty-financial) (Tier 2) (VERIFIED)
@@ -371,7 +371,7 @@ The structural innovation Trump represents is the merger of state power and pers
 
 - [CNN — Trump super PAC builds $300 million cash stockpile for 2026](https://www.cnn.com/2026/01/02/politics/trump-super-pac-maga-inc-fundraising) (Tier 2) (VERIFIED)
 - [US News — Trump-Aligned MAGA Inc Super PAC enters 2026 with $300 million stockpile](https://www.usnews.com/news/politics/articles/2026-01-02/trump-aligned-maga-inc-super-pac-enters-2026-with-300-million-stockpile) (Tier 2) (VERIFIED)
-- [FEC — MAGA INC. committee overview](https://www.fec.gov/data/committee/C00892471/) (Tier 1) (VERIFIED) (NEEDS REVIEW: Very slow but works; Note it)
+- {{src:src_001273}} (Tier 1) (VERIFIED) (NEEDS REVIEW: Very slow but works; Note it)
 
 ---
 
@@ -455,7 +455,7 @@ The structural innovation Trump represents is the merger of state power and pers
 | RBG PAC | $34,600,000 | $0 |
 | AB PAC | $0 | $33,935,549 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/P80001571/) (Tier 1) (VERIFIED)
+- {{src:src_003731}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ### Voting Record

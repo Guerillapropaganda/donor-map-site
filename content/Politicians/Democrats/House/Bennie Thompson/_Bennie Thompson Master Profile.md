@@ -152,9 +152,9 @@ The January 6th investigation was Thompson's highest-profile moment and his clea
 
 ## Sources
 
-- [FEC Candidate: Bennie Thompson donor profile](https://www.fec.gov/data/candidate/H4MS02068/) (Tier 1) (VERIFIED)
-- [FEC Candidate: Bennie Thompson industry donors](https://www.fec.gov/data/candidate/H4MS02068/) (Tier 1) (VERIFIED)
-- [FEC Candidate: Bennie Thompson contributors](https://www.fec.gov/data/candidate/H4MS02068/) (Tier 1) (VERIFIED)
+- {{src:src_006332}} (Tier 1) (VERIFIED)
+- {{src:src_006332}} (Tier 1) (VERIFIED)
+- {{src:src_006332}} (Tier 1) (VERIFIED)
 - [House.gov: Bennie Thompson official biography](https://benniethompson.house.gov/about) (Tier 1) (VERIFIED)
 - ~~[Congress.gov: January 6th Select Committee Final Report](https://www.congress.gov/committee/house-select-committee-to-investigate-the-january-6th-attack/hlij00)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - ~~[DHS.gov: Budget-in-Brief FY2024](https://www.dhs.gov/sites/default/files/2023-03/DHS%20BIB%20-%20web%20version.pdf)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
@@ -198,7 +198,7 @@ The January 6th investigation was Thompson's highest-profile moment and his clea
 | DEMOCRATIC CONGRESSIONAL CAMPAIGN COMMITTEE | $9,514 | $0 |
 | NARAL PRO-CHOICE AMERICA | $3,380 | $0 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H4MS02068/) (Tier 1) (VERIFIED)
+- {{src:src_006332}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ### Legislative Activity (GovTrack)

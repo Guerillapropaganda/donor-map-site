@@ -40,7 +40,7 @@ As Secretary of State, Rubio's diplomatic positions directly affect defense proc
 
 ### Sources
 
-- [FEC Candidate: Marco Rubio donor profile](https://www.fec.gov/data/candidate/P60006723/) (Tier 1) (VERIFIED)
+- {{src:src_002884}} (Tier 1) (VERIFIED)
 - ~~[Congress.gov: Uyghur Human Rights Policy Act of 2020 (S.3744)](https://www.congress.gov/bill/116th-congress/senate-bill/3744)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - [Ballotpedia: Marco Rubio](https://ballotpedia.org/Marco_Rubio) (Tier 3) (VERIFIED)
 

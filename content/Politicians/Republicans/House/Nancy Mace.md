@@ -184,7 +184,7 @@ The class structure is straightforward. Mace's $8M+ career fundraising has track
 - [NPR: Nancy Mace launches Capitol bathroom rule before trans colleague's arrival](https://www.npr.org/2024/11/19/nx-s1-5196116/capitol-transgender-bathroom-ban-nancy-mace-sarah-mcbride) (Tier 2) (VERIFIED)
 - ~~[Axios: Congress erupts over bill targeting new transgender member](https://www.axios.com/2024/11/19/nancy-mace-sarah-mcbride-transgender-bathroom)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 - [Post and Courier: SC's Nancy Mace speaks out about Jan. 6 and her former boss Donald Trump](https://www.postandcourier.com/news/newsmaker-scs-nancy-mace-speaks-out-about-jan-6-and-her-former-boss-donald-trump/article_0134c7f8-61ce-11ec-8f9a-c317e9d5151b.html) (Tier 2) (VERIFIED)
-- [FEC Candidate: Rep. Nancy Mace Campaign Finance Summary](https://www.fec.gov/data/candidate/H0SC01394/) (Tier 1) (VERIFIED)
+- {{src:src_004084}} (Tier 1) (VERIFIED)
 
 ---
 
@@ -219,7 +219,7 @@ The class structure is straightforward. Mace's $8M+ career fundraising has track
 | 314 ACTION FUND | $0 | $1,511,730 |
 | CLUB FOR GROWTH ACTION | $1,278,503 | $0 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H0SC01394/) (Tier 1) (VERIFIED)
+- {{src:src_004084}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ### Legislative Activity (GovTrack)

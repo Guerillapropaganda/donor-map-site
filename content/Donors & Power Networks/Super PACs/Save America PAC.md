@@ -40,7 +40,7 @@ Save America is not a political action committee in any meaningful sense. It is 
 - **Trump 47 Committee**: Joint fundraising vehicle with the RNC for the 2024 campaign. Donations flow to the campaign first, then overflow to Save America once donors hit individual contribution limits.
 - **[[Trump Victory]]**: Joint fundraising with state parties and RNC.
 
-[Source: [FEC: Save America Committee Overview](https://www.fec.gov/data/committee/C00762591/) (Tier 1) (VERIFIED); [OpenSecrets: Save America PAC Profile 2024](https://www.opensecrets.org/political-action-committees-pacs/save-america/C00762591/summary/2024) (Tier 1) (VERIFIED)]
+[Source: {{src:src_009824}} (Tier 1) (VERIFIED); [OpenSecrets: Save America PAC Profile 2024](https://www.opensecrets.org/political-action-committees-pacs/save-america/C00762591/summary/2024) (Tier 1) (VERIFIED)]
 
 ---
 
@@ -192,9 +192,9 @@ Save America represents a structural innovation in American political corruption
 ### Sources
 
 ### FEC Filings & OpenSecrets:
-- [FEC: Save America Committee Overview](https://www.fec.gov/data/committee/C00762591/) (Tier 1)
+- {{src:src_009824}} (Tier 1)
 - [OpenSecrets: Save America PAC Profile 2024](https://www.opensecrets.org/political-action-committees-pacs/save-america/C00762591/summary/2024) (Tier 1)
-- [FEC: Trump 47 Committee](https://www.fec.gov/data/committee/C00867937/) (Tier 1) (VERIFIED)
+- {{src:src_009834}} (Tier 1) (VERIFIED)
 
 ### January 6 Committee:
 - [Congress.gov: January 6 Committee Final Report — "The Big Rip-Off" (PDF)](https://www.govinfo.gov/content/pkg/GPO-J6-REPORT/pdf/GPO-J6-REPORT-4-3.pdf) (Tier 1)

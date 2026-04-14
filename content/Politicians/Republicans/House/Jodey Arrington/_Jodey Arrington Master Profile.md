@@ -61,8 +61,8 @@ Jodey Arrington. Republican, Texas's 19th District (Lubbock — one of the large
 
 His district produces nearly 70% of the world's cotton supply across 14+ million acres of farmland, and sits atop significant oil and gas reserves. Top donor industry: oil and gas ($186,128 in the 2019–2020 cycle alone).
 
-- [FEC Candidate: Jodey Arrington campaign finance summary](https://www.fec.gov/data/candidate/H6TX19099/) (Tier 1) (VERIFIED)
-- [FEC: Jodey Arrington candidate overview](https://www.fec.gov/data/candidate/H6TX19099/) (Tier 1) (VERIFIED)
+- {{src:src_004395}} (Tier 1) (VERIFIED)
+- {{src:src_004395}} (Tier 1) (VERIFIED)
 
 ---
 
@@ -93,7 +93,7 @@ Jodey Arrington's structural function is to translate corporate tax and energy p
 - 48.57% PAC contributions
 - Leadership PAC: Texans for Jodey Arrington (FEC ID: C00588657)
 
-- [FEC Candidate: Jodey Arrington contributors by industry](https://www.fec.gov/data/candidate/H6TX19099/) (Tier 1) (VERIFIED)
+- {{src:src_004395}} (Tier 1) (VERIFIED)
 
 **Industry Alignment:** Arrington's Budget Committee jurisdiction doesn't regulate specific industries — it sets the fiscal envelope that determines what's possible for every other committee. Oil and gas donors don't need him to write their deregulation bills. They need him to create budget reconciliation instructions that enable tax cuts and spending frameworks favorable to fossil fuel interests. Agriculture donors need him to protect farm subsidies from the cuts he applies to everything else. The Budget Committee is the meta-committee: it shapes the playing field.
 
@@ -192,8 +192,8 @@ Arrington serves the oil and gas industry, corporate tax beneficiaries, and agri
 
 ## Sources
 
-- [FEC Candidate: Jodey Arrington campaign finance summary](https://www.fec.gov/data/candidate/H6TX19099/) (Tier 1)
-- [FEC: Jodey Arrington candidate overview](https://www.fec.gov/data/candidate/H6TX19099/) (Tier 1)
+- {{src:src_004395}} (Tier 1)
+- {{src:src_004395}} (Tier 1)
 - [Official biography: U.S. Rep. Jodey Arrington](https://arrington.house.gov/about-jodey/) (Tier 1)
 - [Budget Committee: House unlocks reconciliation](https://budget.house.gov/press-release/house-unlocks-reconciliation-to-deliver-president-trumps-full-america-first-agenda) (Tier 1) (VERIFIED)
 - [Budget Committee: Chairman Arrington responds to Trustees Reports](https://budget.house.gov/press-release/chairman-arrington-responds-to-2025-social-security-and-medicare-trustees-reports) (Tier 1) (VERIFIED)

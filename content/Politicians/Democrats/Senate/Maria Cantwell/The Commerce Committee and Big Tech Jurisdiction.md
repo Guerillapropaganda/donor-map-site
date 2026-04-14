@@ -45,7 +45,7 @@ Cantwell championed federal privacy legislation — the American Privacy Rights 
 ### Sources
 
 - [Congress.gov: Maria Cantwell member profile](https://www.congress.gov/member/maria-cantwell/C000127) (Tier 1) (VERIFIED)
-- [FEC Candidate: Maria Cantwell campaign finance summary](https://www.fec.gov/data/candidate/H2WA01054/) (Tier 1) (VERIFIED)
-- [FEC Candidate: Maria Cantwell top industries](https://www.fec.gov/data/candidate/H2WA01054/) (Tier 1) (VERIFIED)
+- {{src:src_005258}} (Tier 1) (VERIFIED)
+- {{src:src_005258}} (Tier 1) (VERIFIED)
 - [Ballotpedia: Maria Cantwell](https://ballotpedia.org/Maria_Cantwell) (Tier 3) (VERIFIED)
 

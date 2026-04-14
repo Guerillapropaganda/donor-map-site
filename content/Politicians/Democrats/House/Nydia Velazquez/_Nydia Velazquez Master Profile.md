@@ -143,8 +143,8 @@ Velazquez's three decades of institutional knowledge now face a direct class thr
 
 ## Sources
 
-- [FEC Candidate: Nydia Velazquez donor profile](https://www.fec.gov/data/candidate/H2NY00010/) (Tier 1) (VERIFIED)
-- [FEC Candidate: Nydia Velazquez industry donors](https://www.fec.gov/data/candidate/H2NY00010/) (Tier 1) (VERIFIED)
+- {{src:src_005977}} (Tier 1) (VERIFIED)
+- {{src:src_005977}} (Tier 1) (VERIFIED)
 - ~~[Congress.gov: Nydia Velazquez](https://www.congress.gov/member/nydia-velazquez/V000081)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - [House Small Business Committee: Ranking Member Velazquez](https://democrats-smallbusiness.house.gov/about/ranking-member-velazquez.htm) (Tier 1) (VERIFIED)
 - [House.gov: Velazquez small business policy page](https://velazquez.house.gov/issues/small-business) (Tier 1) (VERIFIED)

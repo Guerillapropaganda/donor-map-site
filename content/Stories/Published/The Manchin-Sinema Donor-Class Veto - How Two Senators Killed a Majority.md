@@ -122,8 +122,8 @@ The Manchin-Sinema bloc demonstrates three structural principles of donor-class 
 
 ### Sources
 
-- [FEC Candidate: Joe Manchin Career Donors](https://www.fec.gov/data/candidate/S0WV00090/) (Tier 1) (VERIFIED)
-- [FEC Candidate: Kyrsten Sinema Campaign Finance Summary](https://www.fec.gov/data/candidate/H2AZ09019/) (Tier 1) (VERIFIED)
+- {{src:src_001301}} (Tier 1) (VERIFIED)
+- {{src:src_001302}} (Tier 1) (VERIFIED)
 - [PBS: Sinema received nearly $1 million from Wall Street while killing tax hike on investors](https://www.pbs.org/newshour/politics/sinema-received-nearly-1-million-from-wall-street-while-killing-tax-hike-on-investors) (Tier 2) (VERIFIED)
 - [CNBC: How Wall Street wooed Sinema and preserved carried interest](https://www.cnbc.com/2022/08/09/how-wall-street-wooed-sen-kyrsten-sinema-and-preserved-its-multi-billion-dollar-carried-interest-tax-break.html) (Tier 2) (VERIFIED)
 - [NBC News: Sinema delivers a 'gift to private equity'](https://www.nbcnews.com/politics/congress/kyrsten-sinema-delivers-gift-private-equity-democrats-big-agenda-bill-rcna42394) (Tier 2) (VERIFIED)

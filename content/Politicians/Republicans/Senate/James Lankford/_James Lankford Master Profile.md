@@ -151,8 +151,8 @@ The pastoral background completes the picture. Lankford ran the largest Christia
 
 ## Sources
 
-- [FEC Candidate: James Lankford donor profile](https://www.fec.gov/data/candidate/S4OK00232/) (Tier 1) (VERIFIED)
-- [FEC Candidate: James Lankford industry donors](https://www.fec.gov/data/candidate/S4OK00232/) (Tier 1) (VERIFIED)
+- {{src:src_003602}} (Tier 1) (VERIFIED)
+- {{src:src_003602}} (Tier 1) (VERIFIED)
 - [Senate.gov: James Lankford biography](https://www.lankford.senate.gov/about/bio/) (Tier 1) (VERIFIED)
 - [Senate.gov: Lankford committee assignments](https://www.lankford.senate.gov/about/committees/) (Tier 1) (VERIFIED)
 - [Senate.gov: Lankford secures wins for Oklahoma energy in One Big Beautiful Bill](https://www.lankford.senate.gov/news/press-releases/lankford-secures-major-wins-for-oklahoma-families-energy-producers-and-small-businesses-in-one-big-beautiful-bill/) (Tier 1) (VERIFIED)
@@ -196,7 +196,7 @@ The pastoral background completes the picture. Lankford ran the largest Christia
 | AMERICAN ENERGY ACTION FUND | $104,000 | $0 |
 | NOW OR NEVER PAC | $0 | $100,000 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/S4OK00232/) (Tier 1) (VERIFIED)
+- {{src:src_003602}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ### Legislative Activity (Congress.gov)

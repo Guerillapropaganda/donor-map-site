@@ -171,8 +171,8 @@ The class function is clear: Pallone is the progressive validator for industries
 
 ## Sources
 
-- [FEC Candidate: Frank Pallone campaign finance summary](https://www.fec.gov/data/candidate/H8NJ03073/) (Tier 1) (VERIFIED)
-- [FEC: Frank Pallone candidate filings](https://www.fec.gov/data/candidate/H8NJ03073/) (Tier 1) (VERIFIED)
+- {{src:src_006246}} (Tier 1) (VERIFIED)
+- {{src:src_006246}} (Tier 1) (VERIFIED)
 - ~~[C-SPAN: RFK Jr. accuses Pallone of $2M pharma donations at E&C hearing](https://www.c-span.org/clip/house-committee/sec-kennedy-accuses-rep-pallone-of-receiving-2-million-of-contributions-from-pharmaceutical-companies/5166292)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - ~~[Congress.gov: H.R. 3 — Elijah E. Cummings Lower Drug Costs Now Act](https://www.congress.gov/bill/116th-congress/house-bill/3)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - [League of Conservation Voters: Frank Pallone lifetime scorecard (96%)](https://www.lcv.org/moc/frank-j-pallone/) (Tier 1) (VERIFIED)
@@ -216,7 +216,7 @@ The class function is clear: Pallone is the progressive validator for industries
 | NEW JERSEY FAMILY FIRST INC | $0 | $7,681 |
 | FOCUS ON THE FAMILY ACTION | $0 | $7,681 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H8NJ03073/) (Tier 1) (VERIFIED)
+- {{src:src_006246}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ### Voting Record
@@ -331,7 +331,7 @@ The class function is clear: Pallone is the progressive validator for industries
 | 2016 | $2,415,229 | $1,879,868 | 1039220.84 |
 | ... | 14 more cycles available | | |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H8NJ03073/) (Tier 1)
+- {{src:src_006246}} (Tier 1)
 <!-- auto:fec-summary end -->
 
 ### Committee Assignments (Congress.gov)

@@ -141,8 +141,8 @@ The post-Congress transition confirms the transaction. Ryan moved seamlessly fro
 
 ## Sources
 
-- [FEC Candidate: Paul Ryan donor profile](https://www.fec.gov/data/candidate/P80003353/) (Tier 1) (VERIFIED)
-- ~~[FEC: Paul Ryan campaign finance (CID: N00004357)](https://www.fec.gov/data/candidate/H2WI01055/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- {{src:src_003307}} (Tier 1) (VERIFIED)
+- ~~{{src:src_004245}}~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - ~~[Center on Budget and Policy Priorities: Tax Cuts and Jobs Act deficit impact analysis](https://www.cbpp.org/sites/default/files/atoms/files/2020-10-14_tcja_deficit_impact_brief.pdf)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 - [ProPublica: Paul Ryan Reading Guide — Koch network, budget policy, donor relationships](https://www.propublica.org/article/paul-ryan-reading-guide-the-best-reporting-on-the-vp-candidate) (Tier 2) (VERIFIED)
 - ~~[The Guardian: Paul Ryan's 2017 tax bill - deficit impact](https://www.theguardian.com/us-news/2017/dec/20/republicans-tax-bill-paul-ryan-deficit)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
@@ -277,5 +277,5 @@ The post-Congress transition confirms the transaction. Ryan moved seamlessly fro
 | AMERICAN CROSSROADS | $11,481,126 | $0 |
 | AMERICANS FOR RESPONSIBLE LEADERSHIP | $9,633,565 | $0 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/P80003353/) (Tier 1) (VERIFIED)
+- {{src:src_003307}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->

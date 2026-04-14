@@ -96,10 +96,10 @@ The $4.3M+ career finance sector haul and $262K+ career pharma haul are the fina
 
 ### Sources
 
-- [FEC Candidate: Thom Tillis campaign finance summary](https://www.fec.gov/data/candidate/S4NC00162/) (Tier 1) (VERIFIED)
-- [FEC Candidate: Thom Tillis industry contributions, finance sector](https://www.fec.gov/data/candidate/S4NC00162/) (Tier 1) (VERIFIED)
+- {{src:src_003157}} (Tier 1) (VERIFIED)
+- {{src:src_003157}} (Tier 1) (VERIFIED)
 - [OpenSecrets News: Wall Street ally Sen. Thom Tillis tapped to join GOP leadership](https://www.opensecrets.org/news/2023/01/wall-street-ally-sen-thom-tillis-tapped-to-join-gop-leadership/) (Tier 1) (VERIFIED)
-- [FEC: Thom Tillis candidate overview](https://www.fec.gov/data/candidate/S4NC00162/) (Tier 1) (VERIFIED)
+- {{src:src_003157}} (Tier 1) (VERIFIED)
 - ~~[Congress.gov: S.2155. Economic Growth, Regulatory Relief, and Consumer Protection Act (115th Congress)](https://www.congress.gov/bill/115th-congress/senate-bill/2155)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - ~~[Congress.gov: PREVAIL Act. S.2220 (118th Congress)](https://www.congress.gov/bill/118th-congress/senate-bill/2220)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - [Sludge: Bank Lobby's Pro-Tillis Ad Follows Legislative Favors from the Senator](https://readsludge.com/2020/09/19/bank-lobbys-pro-tillis-ad-follows-legislative-favors-from-the-senator/) (Tier 2) (VERIFIED)

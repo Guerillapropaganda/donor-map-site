@@ -131,8 +131,8 @@ For every $1 private equity firms donated to Sinema, they preserved $1,857–$4,
 
 - [PBS: Sinema received nearly $1 million from Wall Street while killing tax hike on investors](https://www.pbs.org/newshour/politics/sinema-received-nearly-1-million-from-wall-street-while-killing-tax-hike-on-investors) (Tier 2) (VERIFIED)
 - [CNBC: How Wall Street wooed Sinema and preserved carried interest](https://www.cnbc.com/2022/08/09/how-wall-street-wooed-sen-kyrsten-sinema-and-preserved-its-multi-billion-dollar-carried-interest-tax-break.html) (Tier 2) (VERIFIED)
-- [FEC Candidate: Kyrsten Sinema Campaign Finance Summary](https://www.fec.gov/data/candidate/H2AZ09019/) (Tier 1) (VERIFIED)
+- {{src:src_001302}} (Tier 1) (VERIFIED)
 - [NBC News: Sinema delivers a 'gift to private equity'](https://www.nbcnews.com/politics/congress/kyrsten-sinema-delivers-gift-private-equity-democrats-big-agenda-bill-rcna42394) (Tier 2) (VERIFIED)
 - ~~[The Hill: Schumer defends dropping carried interest tax change to win over Sinema](https://thehill.com/homenews/senate/3589865-schumer-defends-dropping-carried-interest-tax-change-to-win-over-sinema/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
-- [FEC Candidate: Kyrsten Sinema Industries](https://www.fec.gov/data/candidate/H2AZ09019/) (Tier 1) (VERIFIED)
+- {{src:src_001302}} (Tier 1) (VERIFIED)
 - [Truthout: Private equity gave Sinema $500K, she exempted it from corporate minimum tax](https://truthout.org/articles/private-equity-gave-sinema-500k-so-she-exempted-it-from-corporate-minimum-tax/) (Tier 2) (VERIFIED)

@@ -143,7 +143,7 @@ The NRSC's recent history includes the most damaging internal party conflict of 
 
 ### Sources
 
-- [FEC: NRSC committee overview and financial filings (C00027466)](https://www.fec.gov/data/committee/C00027466/?cycle=2024) (Tier 1) (VERIFIED)
+- {{src:src_009723}} (Tier 1) (VERIFIED)
 - [OpenSecrets: NRSC fundraising overview 2024](https://www.opensecrets.org/political-parties/NRSC/2024/summary?name=national-republican-senatorial-cmte) (Tier 1) (VERIFIED)
 - [OpenSecrets: NRSC top contributors 2024](https://www.opensecrets.org/political-parties/NRSC/2024/contributors?name=national-republican-senatorial-cmte) (Tier 1) (VERIFIED)
 - [OpenSecrets: NRSC expenditures 2024](https://www.opensecrets.org/political-parties/NRSC/2024/expenditures?name=national-republican-senatorial-cmte) (Tier 1) (VERIFIED)

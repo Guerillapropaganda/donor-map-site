@@ -173,7 +173,7 @@ The fragmentation of Democratic House spending (DCCC, HMP, progressive super PAC
 ### Sources
 
 - [OpenSecrets: House Majority PAC Summary](https://www.opensecrets.org/political-action-committees-pacs/house-majority-pac/C00495028/summary/2024) (Tier 1) (VERIFIED)
-- [FEC: House Majority PAC Filings](https://www.fec.gov/data/committee/C00495028/) (Tier 1) (NEEDS REVIEW)
+- {{src:src_009660}} (Tier 1) (NEEDS REVIEW)
 - [FactCheck.org: House Majority PAC](https://www.factcheck.org/2024/04/house-majority-pac-7/) (Tier 2) (VERIFIED)
 - ~~[Axios: Jeffries Super PAC 2026 Strategy](https://www.axios.com/2024/12/13/jeffries-2026-elections-republican-seats)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 - ~~[Roll Call: House Democratic Super PAC California Investment](https://www.latimes.com/politics/story/2023-04-11/could-california-decide-control-of-congress-a-democratic-super-pac-plans-to-spend-35-million-in-the-staten-into-california/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)

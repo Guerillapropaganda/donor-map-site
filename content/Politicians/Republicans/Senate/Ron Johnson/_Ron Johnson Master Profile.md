@@ -139,8 +139,8 @@ Johnson supplements this core tax function with aggressive partisan investigatio
 
 ## Sources
 
-- [FEC Candidate: Ron Johnson campaign finance summary](https://www.fec.gov/data/candidate/S2PA00513/) (Tier 1) (VERIFIED)
-- [FEC Candidate: Ron Johnson career industry contributions](https://www.fec.gov/data/candidate/S2PA00513/) (Tier 1) (VERIFIED)
+- {{src:src_003226}} (Tier 1) (VERIFIED)
+- {{src:src_003226}} (Tier 1) (VERIFIED)
 - [GovTrack: Ron Johnson — Tax Cuts and Jobs Act Senate Vote #303](https://www.govtrack.us/congress/votes/115-2017/s303) (Tier 1) (VERIFIED)
 - [Congress.gov: Ron Johnson committee assignments](https://www.congress.gov/member/ron-johnson/J000293/committees) (Tier 1) (VERIFIED)
 - [HSGAC: Johnson-Grassley conflicts-of-interest investigation report](https://www.hsgac.senate.gov/media/reps/johnson-grassley-release-report-on-conflicts-of-interest-investigation/) (Tier 1) (VERIFIED)
@@ -171,7 +171,7 @@ Johnson supplements this core tax function with aggressive partisan investigatio
 |-----------|---------|--------|
 | REALLY AMERICAN PAC | $0 | $5,000 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/S2PA00513/) (Tier 1) (VERIFIED)
+- {{src:src_003226}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ### Congressional Stock Trades (STOCK Act)

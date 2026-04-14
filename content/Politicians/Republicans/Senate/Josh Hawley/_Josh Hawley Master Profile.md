@@ -134,7 +134,7 @@ The household economics complete the picture. Josh Hawley's wife Erin Hawley is 
 
 ## Sources
 
-- [FEC Candidate: Hawley career donors, 2018 outside spending, 2024 cycle](https://www.fec.gov/data/candidate/S8MO00160/) (Tier 1) (VERIFIED)
+- {{src:src_001212}} (Tier 1) (VERIFIED)
 - [Salon/Detroit News: post-J6 fundraising boom](https://www.salon.com/2021/03/18/josh-hawley-marjorie-taylor-greene-report-record-donations-as-gop-sees-post-riot-financial-boom/) (Tier 2) (VERIFIED)
 - [STLPR: 2018 outside money analysis](https://www.stlpr.org/2019-04-17/dark-money-groups-spent-millions-to-influence-missouri-voters-report-finds) (Tier 2) (VERIFIED)
 - [Missouri Independent: out-of-state donor analysis](https://missouriindependent.com/2023/10/23/hawley-kunce-draw-heavily-on-donors-outside-missouri-to-fuel-u-s-senate-campaigns/) (Tier 2) (VERIFIED)
@@ -170,7 +170,7 @@ The household economics complete the picture. Josh Hawley's wife Erin Hawley is 
 | MAJORITY FORWARD | $0 | $6,433,695 |
 | PATRIOTS PREVAIL PAC | $0 | $540,000 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/S8MO00160/) (Tier 1) (VERIFIED)
+- {{src:src_001212}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ## Committee Assignments (Congress.gov)

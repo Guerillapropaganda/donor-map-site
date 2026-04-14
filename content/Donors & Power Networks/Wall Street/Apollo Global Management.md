@@ -100,7 +100,7 @@ Reduced regulation of for-profit education (University of Phoenix), favorable pr
 ### Sources
 
 - [OpenSecrets: Apollo Global Management organizational profile](https://www.opensecrets.org/orgs/apollo-global-management/summary?id=D000067184) (Tier 1)
-- [FEC: Apollo Global Management PAC filings](https://www.fec.gov/data/committee/C00548180/) (Tier 1) (VERIFIED)
+- {{src:src_008604}} (Tier 1) (VERIFIED)
 - [Republic Report: Foxx and for-profit college donations](https://www.republicreport.org/2022/as-house-education-chair-probes-for-profit-colleges-ranking-republican-foxx-takes-their-donations/) (Tier 2) (VERIFIED)
 - ~~[New York Times: Apollo's insurance and PE operations](https://www.nytimes.com/2023/10/04/business/private-equity-insurance.html)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 - [Ballotpedia: Apollo Global Management](https://ballotpedia.org/Apollo_Global_Management) (Tier 3) (VERIFIED)

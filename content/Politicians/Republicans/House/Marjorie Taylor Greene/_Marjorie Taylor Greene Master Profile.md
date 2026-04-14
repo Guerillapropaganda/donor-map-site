@@ -166,7 +166,7 @@ Greene is the right-wing mirror of the progressive small-dollar fundraising mode
 
 ## Sources
 
-- [FEC Candidate: Marjorie Taylor Greene campaign finance summary](https://www.fec.gov/data/candidate/H0GA06192/) (Tier 1) (VERIFIED)
+- {{src:src_004351}} (Tier 1) (VERIFIED)
 - [OpenSecrets: MTG heads for the exit after controversy-fueled fundraising trail](https://www.opensecrets.org/news/2025/12/marjorie-taylor-greene-heads-for-the-exit-having-blazed-a-controversy-fueled-fundraising-trail/) (Tier 1) (VERIFIED)
 - [ProPublica: How MTG juiced her fundraising numbers](https://www.propublica.org/article/how-josh-hawley-and-marjorie-taylor-greene-juiced-their-fundraising-numbers) (Tier 2) (VERIFIED)
 - [CNBC: Marjorie Taylor Greene expresses regret about QAnon](https://www.cnbc.com/2021/02/04/marjorie-taylor-greene-regret-qanon-conspiracy-claims.html) (Tier 2) (VERIFIED)
@@ -204,7 +204,7 @@ Greene is the right-wing mirror of the progressive small-dollar fundraising mode
 | A GREAT AMERICA PAC | $0 | $109,304 |
 | DRAIN THE DC SWAMP PAC | $73,333 | $0 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H0GA06192/) (Tier 1) (VERIFIED)
+- {{src:src_004351}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ## Influence Network (Cross-Reference)

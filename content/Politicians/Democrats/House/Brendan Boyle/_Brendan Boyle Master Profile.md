@@ -148,8 +148,8 @@ The Philadelphia machine connection carries its own class complication. IBEW Loc
 
 ## Sources
 
-- [FEC Candidate: Brendan Boyle donor profile](https://www.fec.gov/data/candidate/H4PA13199/) (Tier 1) (VERIFIED)
-- [FEC Candidate: Brendan Boyle industry donors](https://www.fec.gov/data/candidate/H4PA13199/) (Tier 1) (VERIFIED)
+- {{src:src_006302}} (Tier 1) (VERIFIED)
+- {{src:src_006302}} (Tier 1) (VERIFIED)
 - [Congress.gov: Brendan Boyle](https://www.congress.gov/member/brendan-boyle/B001296) (Tier 1) (VERIFIED)
 - [House Budget Committee Democrats: Ranking Member Boyle](https://democrats-budget.house.gov/about/ranking-member) (Tier 1) (VERIFIED)
 - [House.gov: Boyle biography](https://boyle.house.gov/about/biography) (Tier 1) (VERIFIED)
@@ -198,7 +198,7 @@ The Philadelphia machine connection carries its own class complication. IBEW Loc
 | COMMONWEALTH COMMUNICATIONS | $22,008 | $0 |
 | NARAL Pro-Choice America | $22,000 | $0 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H4PA13199/) (Tier 1) (VERIFIED)
+- {{src:src_006302}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ### Voting Record

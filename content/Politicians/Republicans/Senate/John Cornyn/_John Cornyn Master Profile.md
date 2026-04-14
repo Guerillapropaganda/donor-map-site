@@ -185,9 +185,9 @@ The gun bill is the exception that proves the rule. The Bipartisan Safer Communi
 
 ## Sources
 
-- [FEC Candidate: John Cornyn campaign finance summary](https://www.fec.gov/data/candidate/S2TX00106/) (Tier 1) (VERIFIED)
-- [FEC Candidate: John Cornyn top industries (2019–2024)](https://www.fec.gov/data/candidate/S2TX00106/) (Tier 1) (VERIFIED)
-- [FEC: John Cornyn candidate filings](https://www.fec.gov/data/candidate/S2TX00106/) (Tier 1) (VERIFIED)
+- {{src:src_003536}} (Tier 1) (VERIFIED)
+- {{src:src_003536}} (Tier 1) (VERIFIED)
+- {{src:src_003536}} (Tier 1) (VERIFIED)
 - ~~[Congress.gov: John Cornyn member profile](https://www.congress.gov/member/john-cornyn/C001056)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - ~~[Congress.gov: Bipartisan Safer Communities Act (S.2938, 117th Congress)](https://www.congress.gov/bill/117th-congress/senate-bill/2938)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - [Texas Tribune: How John Cornyn got the bipartisan gun bill passed](https://www.texastribune.org/2022/06/27/john-cornyn-texas-gun-bill/) (Tier 2) (VERIFIED)
@@ -229,7 +229,7 @@ The gun bill is the exception that proves the rule. The Bipartisan Safer Communi
 | AMERICANS FOR PROSPERITY ACTION, INC.(AFP ACTION) | $6,910,561 | $0 |
 | WOMEN VOTE! | $0 | $1,977,955 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/S2TX00106/) (Tier 1) (VERIFIED)
+- {{src:src_003536}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ## Influence Network (Cross-Reference)

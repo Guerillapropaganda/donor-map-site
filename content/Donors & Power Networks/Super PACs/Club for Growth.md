@@ -210,7 +210,7 @@ The 2024-2025 cycle demonstrated this perfectly: Yass gave $19M to Club for Grow
 ### Sources
 
 - [OpenSecrets: Club for Growth Action PAC profile — $88.6M raised, 2024 cycle (C00487470)](https://www.opensecrets.org/political-action-committees-pacs/club-for-growth-action/C00487470/summary/2024) (Tier 1) (VERIFIED)
-- [FEC: Club for Growth Action committee filings (C00487470)](https://www.fec.gov/data/committee/C00487470/) (Tier 1) (VERIFIED)
+- {{src:src_009558}} (Tier 1) (VERIFIED)
 - [Club for Growth: 2024 results — 32 wins, $163M raised, 77.3% win rate](https://www.clubforgrowth.org/club-for-growth-action-2024-32-wins-and-163-million-raised/) (Tier 4) (VERIFIED)
 - [Fox News: Club for Growth plans $175M for 2026 midterm spending](https://www.foxnews.com/politics/mcintosh-midterms-choice-between-trumps-great-progress-letting-socialists-back) (Tier 2) (VERIFIED)
 - [FactCheck.org: Club for Growth Action profile](https://www.factcheck.org/2024/04/club-for-growth-action-7/) (Tier 2) (VERIFIED)

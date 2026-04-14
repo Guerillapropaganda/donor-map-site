@@ -175,8 +175,8 @@ The U.S. Chamber of Commerce spent $400,000 supporting Capito. TAKE ME HOME WV A
 
 ## Sources
 
-- [FEC Candidate: Shelley Moore Capito donor profile](https://www.fec.gov/data/candidate/S4WV00159/) (Tier 1) (VERIFIED)
-- [FEC Candidate: Shelley Moore Capito industry donors](https://www.fec.gov/data/candidate/S4WV00159/) (Tier 1) (VERIFIED)
+- {{src:src_003213}} (Tier 1) (VERIFIED)
+- {{src:src_003213}} (Tier 1) (VERIFIED)
 - ~~[Senate EPW Committee: Chairman Capito](https://www.epw.senate.gov/public/public/index.cfm/chairman-capito)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - [Senate.gov: Shelley Moore Capito energy & environment](https://www.capito.senate.gov/about/issues/energy-and-environment) (Tier 1) (VERIFIED)
 - [Senate.gov: Capito commends Trump EPA repeal of Biden coal regulations](https://www.capito.senate.gov/news/press-releases/-capito-commends-trump-epas-repeal-of-biden-era-attacks-on-coal) (Tier 1) (VERIFIED)
@@ -219,7 +219,7 @@ The U.S. Chamber of Commerce spent $400,000 supporting Capito. TAKE ME HOME WV A
 | DEFENDING MAIN STREET SUPERPAC INC | $98,000 | $0 |
 | NATIONAL RIFLE ASSOCIATION OF AMERICA POLITICAL VICTORY FUND | $48,061 | $0 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/S4WV00159/) (Tier 1) (VERIFIED)
+- {{src:src_003213}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ### Congressional Stock Trades (STOCK Act)

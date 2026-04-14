@@ -255,7 +255,7 @@ The answer to this question will determine whether Wahls' campaign is a serious 
 
 ## Sources
 
-- [Zach Wahls - FEC Candidate Profile](https://www.fec.gov/data/candidate/S6IA00272/) (Tier 1) (VERIFIED)
+- {{src:src_005096}} (Tier 1) (VERIFIED)
 - [Zach Wahls - Wikipedia](https://en.wikipedia.org/wiki/Zach_Wahls) (Tier 3) (VERIFIED)
 - [Elizabeth Warren backs Zach Wahls in Iowa U.S. Senate race](https://www.thegazette.com/news/elections/elizabeth-warren-backs-zach-wahls-in-iowa-s-democratic-u-s-senate-primary/article_d360eb4e-edad-4493-b803-b4b21c77e7f0.html) (Tier 2) (VERIFIED)
 - [Democratic U.S. Senate candidates Zach Wahls, Josh Turek tout new endorsements](https://iowacapitaldispatch.com/2025/11/18/democratic-u-s-senate-candidates-zach-wahls-josh-turek-tout-new-endorsements/) (Tier 2)
@@ -275,7 +275,7 @@ The answer to this question will determine whether Wahls' campaign is a serious 
 | PAC Contributions | $26,055 |
 | Cash on Hand | 733480.88 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/S6IA00272/) (Tier 1) (VERIFIED)
+- {{src:src_005096}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ### Influence Network (Cross-Reference)

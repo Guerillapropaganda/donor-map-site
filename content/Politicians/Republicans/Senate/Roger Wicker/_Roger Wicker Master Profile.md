@@ -170,8 +170,8 @@ On foreign policy, Wicker positions as a reliable hawk — pro-Ukraine, pro-Taiw
 
 ## Sources
 
-- [FEC Candidate: Sen. Roger Wicker Campaign Finance Summary](https://www.fec.gov/data/candidate/H4MS01078/) (Tier 1) (VERIFIED)
-- [FEC: Roger Wicker Candidate Profile (S8MS00196)](https://www.fec.gov/data/candidate/S8MS00196/) (Tier 1) (VERIFIED)
+- {{src:src_003242}} (Tier 1) (VERIFIED)
+- {{src:src_003246}} (Tier 1) (VERIFIED)
 - [Wicker.senate.gov: FY26 NDAA Recognizes Mississippi Defense Contributions](https://www.wicker.senate.gov/2025/12/chairman-wicker-fy26-ndaa-recognizes-full-range-of-mississippi-defense-contributions) (Tier 1) (VERIFIED)
 - [Wicker.senate.gov: Peace Through Strength Defense Investment Plan](https://www.wicker.senate.gov/2024/5/senator-wicker-unveils-major-defense-investment-plan) (Tier 1) (VERIFIED)
 - [Wicker.senate.gov: Multi-Year Contract Award for Ingalls Shipbuilding](https://www.wicker.senate.gov/2018/9/wicker-hyde-smith-palazzo-praise-multi-year-contract-award-for-ingalls-shipbuilding) (Tier 1) (VERIFIED)
@@ -275,7 +275,7 @@ On foreign policy, Wicker positions as a reliable hawk — pro-Ukraine, pro-Taiw
 | MISSISSIPPI REPUBLICAN PARTY | $19,442 | $0 |
 | PLANNED PARENTHOOD ACTION FUND INC | $0 | $2 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H4MS01078/) (Tier 1) (VERIFIED)
+- {{src:src_003242}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ## Voting Record

@@ -95,5 +95,5 @@ The DNI appointment rewards all three utilities simultaneously. The intelligence
 - [CNN: Hillary Clinton suggests Russians are 'grooming' Tulsi Gabbard for third-party run](https://www.cnn.com/2019/10/18/politics/hillary-clinton-tulsi-gabbard) (Tier 2) (VERIFIED)
 - [The Intercept: Tulsi Gabbard is a rising progressive star, despite her support for Hindu nationalists](https://theintercept.com/2019/01/05/tulsi-gabbard-2020-hindu-nationalist-modi/) (Tier 2) (VERIFIED)
 - [Honolulu Civil Beat: Senators urged to examine Gabbard's 'deep and intense' ties to Hawaii sect](https://www.civilbeat.org/2024/12/senators-urged-to-examine-gabbards-deep-and-intense-ties-to-hawaii-sect/) (Tier 2) (VERIFIED)
-- [FEC Candidate: Gabbard congressional campaign donors](https://www.fec.gov/data/candidate/H2HI02508/) (Tier 1) (VERIFIED)
+- {{src:src_002713}} (Tier 1) (VERIFIED)
 

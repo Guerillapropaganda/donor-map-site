@@ -139,8 +139,8 @@ Every foreign policy position Shaheen takes maps onto the economic interests of 
 
 ## Sources
 
-- [FEC Candidate: Jeanne Shaheen Campaign Finance Summary](https://www.fec.gov/data/candidate/S0NH00219/) (Tier 1) (VERIFIED)
-- [FEC: Jeanne Shaheen for Senate (S0NH00219)](https://www.fec.gov/data/candidate/S0NH00219/) (Tier 1) (VERIFIED)
+- {{src:src_005363}} (Tier 1) (VERIFIED)
+- {{src:src_005363}} (Tier 1) (VERIFIED)
 - [The American Prospect: Jeanne Shaheen, Defense Contractors, and the Afghanistan Withdrawal](https://prospect.org/2021/05/12/jeanne-shaheen-defense-contractors-afghanistan-withdrawal/) (Tier 2) (VERIFIED)
 - [Senate Foreign Relations Committee: About the Ranking Member](https://www.foreign.senate.gov/about/ranking) (Tier 1) (VERIFIED)
 - [Senator Shaheen: NH Delegation Applauds $35M CHIPS Funding to BAE Systems](https://www.shaheen.senate.gov/news/press/nh-delegation-applauds-finalization-of-35-million-in-chips-funding-headed-to-bae-systems) (Tier 1) (VERIFIED)
@@ -255,7 +255,7 @@ party:: Democrat
 | INDEPENDENT LEADERSHIP FOR NEW HAMPSHIRE PAC | $0 | $1,656,880 |
 | COUNCIL FOR AMERICAN JOB GROWTH | $1,401,341 | $0 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/S0NH00219/) (Tier 1) (VERIFIED)
+- {{src:src_005363}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ### Legislative Activity (GovTrack)

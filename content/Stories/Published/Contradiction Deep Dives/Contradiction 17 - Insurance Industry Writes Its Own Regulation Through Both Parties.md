@@ -35,7 +35,7 @@ Sen. Max Baucus (D-MT), Senate Finance Chair, received $1.5 million from health 
 
 Sen. Joe Lieberman (I-CT) received $1 million+ from the insurance industry over his career, with $467,944 from insurance in the 2005–2006 cycle alone. He threatened to filibuster unless both the public option and a Medicare buy-in were removed, reversing his own prior support for the Medicare buy-in. His wife Hadassah worked in health industry lobbying at Hill & Knowlton. ~~[Congress.gov: Joe Lieberman Industries 2006](https://www.congress.gov/search?q=Joe%20Lieberman&searchResultViewType=expanded)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 
-Sen. Ben Nelson (D-NE) was a former insurance executive. Insurance was his No. 1 industry contributor: $470,649 (2007–2012). [FEC Candidate: Ben Nelson Summary](https://www.fec.gov/data/candidate/S6NE00095/) (Tier 1) (VERIFIED)
+Sen. Ben Nelson (D-NE) was a former insurance executive. Insurance was his No. 1 industry contributor: $470,649 (2007–2012). {{src:src_001802}} (Tier 1) (VERIFIED)
 
 > [!contradiction]
 > Three Democrats killed the public option. All three had direct financial ties to the insurance industry, through donations (Baucus, Lieberman, Nelson), through employment (Nelson was a former insurance executive), through staffing (Baucus's chief health counsel was a former WellPoint VP), and through family (Lieberman's wife lobbied for health companies). The public option died not because Democrats lacked votes but because industry money controlled the votes that mattered.
@@ -112,7 +112,7 @@ The contradiction is not that the system fails. The contradiction is that both p
 
 - [FEC Receipts: Insurance Industry Totals](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1)
 - [Congress.gov: Joe Lieberman Industries 2006](https://www.congress.gov/search?q=Joe%20Lieberman&searchResultViewType=expanded) (Tier 1)
-- [FEC Candidate: Ben Nelson Summary](https://www.fec.gov/data/candidate/S6NE00095/) (Tier 1)
+- {{src:src_001802}} (Tier 1)
 - [OpenSecrets: Big Pharma Insurers Hospitals Team Up to Kill Medicare for All](https://www.opensecrets.org/news/2019/03/big-pharma-insurers-hospitals-team-up-to-kill-medicare-for-all/) (Tier 1)
 - [OpenSecrets: Federal Lobbying 2009](https://www.opensecrets.org/news/2010/02/federal-lobbying-soars-in-2009/) (Tier 1)
 - [Consumer Watchdog: Baucus Healthcare Donations](https://consumerwatchdog.org/healthcare/baucus-reels-big-healthcare-donations/) (Tier 2) (VERIFIED)

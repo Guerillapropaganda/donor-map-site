@@ -193,8 +193,8 @@ Kennedy's class position is the populist brand as capital shield. The folksy per
 
 ## Sources
 
-- [FEC Candidate: John Kennedy campaign finance summary](https://www.fec.gov/data/candidate/S0MD00069/) (Tier 1) (VERIFIED)
-- [FEC Candidate: John Kennedy industry breakdown 2024 cycle](https://www.fec.gov/data/candidate/S0MD00069/) (Tier 1) (VERIFIED)
+- {{src:src_003511}} (Tier 1) (VERIFIED)
+- {{src:src_003511}} (Tier 1) (VERIFIED)
 - [Congress.gov: John Kennedy member profile](https://www.congress.gov/member/john-kennedy/K000393) (Tier 1) (VERIFIED)
 - [Kennedy.senate.gov: Transparency in CFPB Cost-Benefit Analysis Act (2023)](https://www.kennedy.senate.gov/public/2023/5/kennedy-introduces-bill-to-protect-taxpayers-from-cfpb-bureaucracy) (Tier 1) (VERIFIED)
 - [Kennedy.senate.gov: Bill to repeal CFPB small business data rule (2025)](https://www.kennedy.senate.gov/public/2025/2/kennedy-champions-bill-to-repeal-woke-cfpb-rule-forcing-banks-to-collect-data-on-sex-ethnicity-from-small-businesses) (Tier 1) (VERIFIED)
@@ -237,7 +237,7 @@ Kennedy's class position is the populist brand as capital shield. The folksy per
 | Election Cycle | 1980 |
 | Cash on Hand | 0.00 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/S0MD00069/) (Tier 1) (VERIFIED)
+- {{src:src_003511}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ## Influence Network (Cross-Reference)

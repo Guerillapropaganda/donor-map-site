@@ -170,9 +170,9 @@ The ethics record confirms the structure. The Office of Congressional Ethics una
 
 ## Sources
 
-- [FEC Candidate: Roger Williams donor profile](https://www.fec.gov/data/candidate/H2TX33040/) (Tier 1) (VERIFIED)
+- {{src:src_004212}} (Tier 1) (VERIFIED)
 - [OpenSecrets: Roger Williams net worth](https://www.opensecrets.org/personal-finances/roger-williams/net-worth?cid=N00030602) (Tier 1) (VERIFIED)
-- [FEC: Roger Williams candidate overview](https://www.fec.gov/data/candidate/H2TX33040/) (Tier 1) (VERIFIED)
+- {{src:src_004212}} (Tier 1) (VERIFIED)
 - [Office of Congressional Ethics: Referral regarding Rep. Roger Williams](https://conduct.house.gov/reports/investigations/oce-referral-regarding-rep-roger-williams) (Tier 1) (VERIFIED)
 - [House Small Business Committee: Chairman Roger Williams](https://smallbusiness.house.gov/about/chair.htm) (Tier 1) (VERIFIED)
 - [Center for Public Integrity: Congressman-auto dealer accused of conflict of interest](https://publicintegrity.org/politics/congressman-auto-dealer-accused-of-conflict-of-interest/) (Tier 2) (VERIFIED)
@@ -216,7 +216,7 @@ The ethics record confirms the structure. The Office of Congressional Ethics una
 | COMMITTEE FOR DEFENDING AMERICAN VALUES | $1,715 | $0 |
 | ZB, N.A. DBA AMEGY BANK PAC | $1,000 | $0 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H2TX33040/) (Tier 1) (VERIFIED)
+- {{src:src_004212}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ### Legislative Activity (GovTrack)

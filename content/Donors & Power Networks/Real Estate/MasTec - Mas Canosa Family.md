@@ -99,7 +99,7 @@ The Mas Canosa family represents the structural intersection of exile politics a
 ### Sources
 
 - [Wikipedia: Jorge Mas Canosa](https://en.wikipedia.org/wiki/Jorge_Mas_Canosa) (Tier 3) (VERIFIED)
-- [FEC Candidate: Carlos Gimenez campaign finance summary](https://www.fec.gov/data/candidate/H0FL26036/) (Tier 1) (VERIFIED)
+- {{src:src_004514}} (Tier 1) (VERIFIED)
 - [OpenSecrets: MasTec Inc summary](https://www.opensecrets.org/orgs/mastec-inc/summary?id=D000035672) (Tier 1) (VERIFIED)
 - [LatinFinance: PE fund seeks $750M for LatAm prospects](https://latinfinance.com/daily-brief/2024/08/21/pe-fund-seeks-750-mln-for-latam-prospects/) (Tier 2) (VERIFIED)
 

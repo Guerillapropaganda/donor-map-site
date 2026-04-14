@@ -194,10 +194,10 @@ Jayapal proves that even a well-funded progressive operating on a labor-and-gras
 
 ## Sources
 
-- [FEC Candidate: Pramila Jayapal campaign finance summary](https://www.fec.gov/data/candidate/H6WA07458/) (Tier 1) (VERIFIED)
+- {{src:src_005955}} (Tier 1) (VERIFIED)
 - [Congress.gov: Pramila Jayapal member profile](https://www.congress.gov/member/pramila-jayapal/J000298) (Tier 1) (VERIFIED)
 - ~~[Congress.gov: Medicare for All Act H.R. 3421 (118th)](https://www.congress.gov/bill/118th-congress/house-bill/3421)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
-- [FEC: Jayapal candidate overview](https://www.fec.gov/data/candidate/H6WA07458/) (Tier 1) (VERIFIED)
+- {{src:src_005955}} (Tier 1) (VERIFIED)
 - [The Intercept: Jayapal Defends Breaking From Progressives' Two-Track Strategy on Build Back Better](https://theintercept.com/2021/12/20/build-back-better-manchin-democrats/) (Tier 2) (VERIFIED)
 - [Seattle Times: Jayapal takes on tech giants antitrust bill](https://www.seattletimes.com/seattle-news/politics/break-up-amazon-seattle-congresswoman-pramila-jayapal-sponsors-bill-taking-on-tech-giants/) (Tier 2) (VERIFIED)
 - [Seattle Times: Bezos grilled by Jayapal in antitrust panel](https://www.seattletimes.com/business/amazons-jeff-bezos-and-ceos-of-other-tech-giants-testifying-before-house-panel-come-under-fire-over-market-power/) (Tier 2) (VERIFIED)
@@ -237,7 +237,7 @@ Jayapal proves that even a well-funded progressive operating on a labor-and-gras
 | PLANNED PARENTHOOD VOTES NORTHWEST | $19,132 | $0 |
 | ONEAMERICA VOTES | $9,956 | $0 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H6WA07458/) (Tier 1) (VERIFIED)
+- {{src:src_005955}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ### Legislative Activity (Congress.gov)

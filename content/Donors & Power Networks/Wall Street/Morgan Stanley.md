@@ -105,7 +105,7 @@ Morgan Stanley is the donor class's bank. Its wealth management division serves 
 
 - [OpenSecrets: Morgan Stanley organizational profile](https://www.opensecrets.org/orgs/morgan-stanley/summary?id=D000000106) (Tier 1)
 - [OpenSecrets: Morgan Stanley lobbying expenditures](https://www.opensecrets.org/orgs/morgan-stanley/lobbying?id=D000000106) (Tier 1) (VERIFIED)
-- [FEC: Morgan Stanley PAC filings](https://www.fec.gov/data/committee/C00102657/) (Tier 1) (VERIFIED)
+- {{src:src_008960}} (Tier 1) (VERIFIED)
 - ~~[Wall Street Journal: Morgan Stanley wealth management growth strategy](https://www.wsj.com/articles/morgan-stanley-wealth-management)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 - [Ballotpedia: Morgan Stanley political spending](https://ballotpedia.org/Morgan_Stanley) (Tier 3) (VERIFIED)
 

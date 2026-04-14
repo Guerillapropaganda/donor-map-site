@@ -119,7 +119,7 @@ Bush's use of faith-based rhetoric, patriotic framing post-9/11, and "compassion
 | NRA POLITICAL VICTORY FUND | $1,826,863 | $1,155,364 |
 | REPUBLICAN PARTY OF FLORIDA | $2,099,667 | $0 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/P00003335/) (Tier 1) (NEEDS REVIEW)
+- {{src:src_003682}} (Tier 1) (NEEDS REVIEW)
 <!-- auto:fec-politician end -->
 
 ### Presidential Actions (Federal Register)

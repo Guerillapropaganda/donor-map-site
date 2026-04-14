@@ -150,8 +150,8 @@ On trade, he adopts Trump's protectionist language — "treating countries how t
 
 ## Sources
 
-- [FEC Candidate: Jason Smith Campaign Finance Summary](https://www.fec.gov/data/candidate/P20005559/) (Tier 1) (VERIFIED)
-- [FEC: Jason Smith for Congress Committee (C00541862)](https://www.fec.gov/data/committee/C00541862/) (Tier 1) (VERIFIED)
+- {{src:src_004426}} (Tier 1) (VERIFIED)
+- {{src:src_004428}} (Tier 1) (VERIFIED)
 - ~~[Congress.gov: Rep. Jason Smith Member Profile](https://www.congress.gov/member/jason-smith/S001195)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - [House Ways and Means Committee: Chairman Jason Smith](https://waysandmeans.house.gov/the-chairman/) (Tier 1) (VERIFIED)
 - [Tax Foundation: One Big Beautiful Bill Act Tax Changes](https://taxfoundation.org/research/all/federal/one-big-beautiful-bill-act-tax-changes/) (Tier 1) (VERIFIED)
@@ -173,7 +173,7 @@ On trade, he adopts Trump's protectionist language — "treating countries how t
 | Election Cycle | 2032 |
 | Cash on Hand | 0.00 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/P20005559/) (Tier 1) (VERIFIED)
+- {{src:src_004426}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ### DOJ Press Releases

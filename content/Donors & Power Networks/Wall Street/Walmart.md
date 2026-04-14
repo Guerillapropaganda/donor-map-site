@@ -187,7 +187,7 @@ The Both-Sides Illusion is visible in the PAC's bipartisan giving: Walmart gives
 ### Sources
 
 - [OpenSecrets: Walmart Inc PAC and lobbying profile](https://www.opensecrets.org/orgs/walmart-inc/summary?id=D000000367) (Tier 1) (VERIFIED)
-- [FEC: Walmart Inc PAC for Responsible Government (C00093054)](https://www.fec.gov/data/committee/C00093054/) (Tier 1) (VERIFIED)
+- {{src:src_009017}} (Tier 1) (VERIFIED)
 - [OpenSecrets: Walmart PAC candidate recipients 2024](https://www.opensecrets.org/political-action-committees-pacs/walmart-inc/C00093054/candidate-recipients/2024) (Tier 1) (VERIFIED)
 - [OpenSecrets: Walmart lobbying profile](https://www.opensecrets.org/orgs/walmart-inc/lobbying?id=D000000367) (Tier 1) (VERIFIED)
 - [GAO/Sen. Sanders: Taxpayers subsidize poverty wages at Walmart, McDonald's](https://www.sanders.senate.gov/press-releases/taxpayers-subsidize-poverty-wages-at-walmart-mcdonalds-other-large-corporations-gao-finds/) (Tier 1) (VERIFIED)

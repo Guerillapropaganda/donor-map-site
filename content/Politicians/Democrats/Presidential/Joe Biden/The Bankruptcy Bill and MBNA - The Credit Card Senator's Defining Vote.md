@@ -140,7 +140,7 @@ By 2020, when Biden ran for president, his campaign website said: "We must provi
 
 ### Sources
 
-- [FEC Candidate: Joe Biden donor profile](https://www.fec.gov/data/candidate/P60012143/) (Tier 1) (VERIFIED)
+- {{src:src_005628}} (Tier 1) (VERIFIED)
 - ~~[U.S. Courts: Bankruptcy filings statistics 2000–2010](https://www.uscourts.gov/news/2021/11/22/bankruptcy-filings-2021)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - [NPR: Biden's Link To Credit-Card Firm Questioned](https://www.npr.org/2008/08/25/93954519/bidens-link-to-credit-card-firm-questioned) (Tier 2) (VERIFIED)
 - [ProPublica: Biden's Cozy Relations With Bank Industry](https://www.propublica.org/article/bidens-cozy-relations-with-bank-industry-825) (Tier 2) (VERIFIED)

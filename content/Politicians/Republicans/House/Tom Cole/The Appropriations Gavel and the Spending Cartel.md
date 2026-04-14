@@ -39,6 +39,6 @@ The CR dynamic also affects fundraising: when regular order collapses, appropria
 ### Sources
 
 - [House Appropriations Committee: Chairman Tom Cole](https://appropriations.house.gov/about/chairman-tom-cole) (Tier 1) (VERIFIED)
-- [FEC Candidate: Tom Cole campaign finance summary](https://www.fec.gov/data/candidate/H6MO06013/) (Tier 1) (VERIFIED)
+- {{src:src_004155}} (Tier 1) (VERIFIED)
 - [Ballotpedia: Tom Cole](https://ballotpedia.org/Tom_Cole) (Tier 3) (VERIFIED)
 

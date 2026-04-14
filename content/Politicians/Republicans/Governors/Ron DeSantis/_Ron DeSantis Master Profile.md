@@ -213,7 +213,7 @@ DeSantis's second gubernatorial term ends in January 2027. He is term-limited an
 
 - [OpenSecrets: Ron DeSantis 2024 Presidential Summary](https://www.opensecrets.org/2024-presidential-race/ron-desantis/candidate?id=N00034746) (Tier 1) (VERIFIED)
 - [OpenSecrets: DeSantis 2022 Contributors and Donors](https://www.opensecrets.org/2024-presidential-race/ron-desantis/contributors?id=N00034746) (Tier 1) (VERIFIED)
-- [FEC: Ron DeSantis Candidate Overview](https://www.fec.gov/data/candidate/P40013039/) (Tier 1) (VERIFIED)
+- {{src:src_004639}} (Tier 1) (VERIFIED)
 - [League of Conservation Voters: Ron DeSantis scorecard](https://www.lcv.org/moc/ron-desantis/) (Tier 1) (VERIFIED)
 - [Orlando Sentinel: DeSantis and super PAC spent $158.5 million during presidential run](https://www.orlandosentinel.com/2024/02/01/desantis-super-pac-spent-158-5-million-during-presidential-run-in-2023/) (Tier 2) (VERIFIED)
 - [Washington Post: Inside the collapse of Ron DeSantis's campaign funding experiment](https://www.washingtonpost.com/politics/2023/12/16/desantis-super-pac-collapse/) (Tier 2) (VERIFIED)
@@ -245,7 +245,7 @@ DeSantis's second gubernatorial term ends in January 2027. He is term-limited an
 | GOOD FIGHT | $5,549,500 | $0 |
 | READY TO WIN | $1,000,000 | $0 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/P40013039/) (Tier 1) (VERIFIED)
+- {{src:src_004639}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ### Sanctions & PEP Screening (OpenSanctions)
@@ -276,7 +276,7 @@ DeSantis's second gubernatorial term ends in January 2027. He is term-limited an
 | PAC Contributions | $0 |
 | Coverage Through | 2023-09-18 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/P40013039/) (Tier 1)
+- {{src:src_004639}} (Tier 1)
 <!-- auto:fec-summary end -->
 
 ### Influence Network (Cross-Reference)

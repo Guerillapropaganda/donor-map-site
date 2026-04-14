@@ -144,7 +144,7 @@ The counter-funding dynamic — where Chamber of Commerce, AIPAC, and Main Stree
 
 - [OpenSecrets: House Freedom Fund profile](https://www.opensecrets.org/orgs/house-freedom-fund/summary?id=D000068902) (Tier 1) (VERIFIED)
 - [OpenSecrets: House Freedom Fund PAC profile, 2024 cycle](https://www.opensecrets.org/political-action-committees-pacs/house-freedom-fund/C00552851/summary/2024) (Tier 1) (VERIFIED)
-- [FEC: Freedom Caucus Fund committee overview (C00552851)](https://www.fec.gov/data/committee/C00552851/) (Tier 1) (VERIFIED)
+- {{src:src_013883}} (Tier 1) (VERIFIED)
 - [Ballotpedia: House Freedom Caucus](https://ballotpedia.org/House_Freedom_Caucus) (Tier 3) (VERIFIED)
 - [Wikipedia: Freedom Caucus](https://en.wikipedia.org/wiki/Freedom_Caucus) (Tier 3) (VERIFIED)
 - [NBC News: Hard-right Freedom Caucus could be gutted as key members run for new jobs in 2026](https://www.nbcnews.com/politics/congress/hard-right-freedom-caucus-gutted-key-members-run-new-jobs-2026-rcna227209) (Tier 2) (VERIFIED)

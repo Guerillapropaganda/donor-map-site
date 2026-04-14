@@ -280,9 +280,9 @@ Warren is the vault's case study in the limits of individual resistance within a
 
 ## Sources
 
-- [FEC Candidate: Elizabeth Warren Campaign Finance Summary](https://www.fec.gov/data/candidate/P00009621/) (Tier 1) (VERIFIED)
-- [FEC Candidate: Elizabeth Warren 2024 Donor Industries](https://www.fec.gov/data/candidate/P00009621/) (Tier 1) (VERIFIED)
-- [FEC: Elizabeth Warren Candidate Filing Data](https://www.fec.gov/data/candidate/S2MA00170/) (Tier 1) (VERIFIED)
+- {{src:src_000346}} (Tier 1) (VERIFIED)
+- {{src:src_000346}} (Tier 1) (VERIFIED)
+- {{src:src_005446}} (Tier 1) (VERIFIED)
 - [Consumer Financial Protection Bureau: CFPB History and Impact](https://www.consumerfinance.gov/about-us/) (Tier 1) (VERIFIED)
 - ~~[Consumer Financial Protection Bureau: Consumer Relief Data](https://www.consumerfinance.gov/about-us/newsroom/cfpb-ordered-return-about-21-billion-in-relief-to-consumers/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - [Boston Globe: CFPB Shutdown — Elizabeth Warren Fights to Save Agency She Conceived](https://www.bostonglobe.com/2025/02/10/nation/cfpb-elizabeth-warren-trump-elon-musk/) (Tier 2) (VERIFIED)
@@ -369,7 +369,7 @@ Warren's small-dollar base has remained remarkably consistent in profile and siz
 >
 > Warren's small-dollar independence is real at the donor level. It is not complete at the infrastructure level.
 
-[FEC Candidate: Elizabeth Warren 2024 Donor Industries](https://www.fec.gov/data/candidate/P00009621/) (Tier 1)
+{{src:src_000346}} (Tier 1)
 
 ---
 
@@ -458,7 +458,7 @@ party:: Democrat
 | AMERICANS FOR TAX REFORM | $0 | $878,468 |
 | COMMONWEALTH UNITY FUND | $0 | $785,000 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/S2MA00170/) (Tier 1) (VERIFIED)
+- {{src:src_005446}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ### Voting Record

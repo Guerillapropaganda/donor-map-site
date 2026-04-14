@@ -203,7 +203,7 @@ Haley is the most likely donor-class vehicle for 2028 if Trump does not run and 
 | MAKE AMERICA GREAT AGAIN INC. | $0 | $16,761,873 |
 | NEVER BACK DOWN INC. | $0 | $4,158,125 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/P40010977/) (Tier 1) (VERIFIED)
+- {{src:src_004661}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ### DOJ Press Releases

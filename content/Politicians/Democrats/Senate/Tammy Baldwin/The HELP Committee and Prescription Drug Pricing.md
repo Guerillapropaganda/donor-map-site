@@ -102,8 +102,8 @@ The HELP Committee jurisdiction is not incidental to this analysis, it is the me
 
 ### Sources
 
-- [FEC Candidate: Tammy Baldwin career industries](https://www.fec.gov/data/candidate/H8WI00018/) (Tier 1) (VERIFIED)
-- [FEC Candidate: Tammy Baldwin 2024 cycle industries](https://www.fec.gov/data/candidate/H8WI00018/) (Tier 1) (VERIFIED)
+- {{src:src_005115}} (Tier 1) (VERIFIED)
+- {{src:src_005115}} (Tier 1) (VERIFIED)
 - [FEC Receipts: Pharmaceuticals/Health Products sector recipients (career)](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1) (VERIFIED)
 - ~~[Congress.gov: Tammy Baldwin member profile](https://www.congress.gov/member/tammy-baldwin/B001230)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - [Baldwin.senate.gov: FAIR Drug Pricing Act 2021 introduction](https://www.baldwin.senate.gov/news/press-releases/fair-drug-pricing-act-2021) (Tier 1) (VERIFIED)

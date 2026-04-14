@@ -260,5 +260,5 @@ No ethics filing shows Hegseth divested defense contractor stocks before taking 
 | PAC Contributions | $3,600 |
 | Coverage Through | 2012-06-30 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/S2MN00258/) (Tier 1) (VERIFIED)
+- {{src:src_002826}} (Tier 1) (VERIFIED)
 <!-- auto:fec-summary end -->

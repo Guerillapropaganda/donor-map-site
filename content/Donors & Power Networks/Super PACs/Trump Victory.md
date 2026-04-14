@@ -175,8 +175,8 @@ Trump Victory is the structural mechanism through which Trump converted the Repu
 
 ### Sources
 
-- ~~[FEC: Trump Victory Committee Data](https://www.fec.gov/data/committee/C00618389/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
-- [FEC: Trump 47 Committee Data](https://www.fec.gov/data/committee/C00867937/) (Tier 1) (VERIFIED)
+- ~~{{src:src_009875}}~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- {{src:src_009834}} (Tier 1) (VERIFIED)
 - ~~[OpenSecrets: Trump Victory Summary 2020](https://www.opensecrets.org/jfc/summary.php?id=C00618389&cycle=2020)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - ~~[OpenSecrets: Trump Victory Summary 2016](https://www.opensecrets.org/joint-fundraising-committees-jfcs/summary?name=Trump+Victory&id=C00618389&cycle=2016)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - ~~[OpenSecrets: Trump 47 Committee Summary 2024](https://www.opensecrets.org/joint-fundraising-committees-jfcs/trump-47-cmte/C00867937/2024/summary)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)

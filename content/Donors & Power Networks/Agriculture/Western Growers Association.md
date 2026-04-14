@@ -131,7 +131,7 @@ The position is not contradictory — it is coherent from a class standpoint. Th
 — 2024: $68,502 in contributions
 — 2021-22: $80,000
 — 2019-20: $49,000
-[FEC: Western Growers Political Action Committee](https://www.fec.gov/data/committee/C00193979/) (Tier 1) (VERIFIED)
+{{src:src_014660}} (Tier 1) (VERIFIED)
 
 **California lobbying:** ~$700,000 (specific year unclear); $190,000 in federal lobbying (2024). ~~[Senate LDA: Western Growers Association Lobbying Filings](https://lda.gov/filings/public/filing/search/?client_name=Western+Growers)~~ (was Tier 1 — lda.gov mid-migration, reinstate after June 2026)
 

@@ -266,8 +266,8 @@ Ossoff didn't invent this template, but he has executed it particularly effectiv
 
 ## Sources
 
-- [FEC Candidate: Jon Ossoff Campaign Finance Summary](https://www.fec.gov/data/candidate/H8GA06195/) (Tier 1) (VERIFIED)
-- [FEC: Jon Ossoff Candidate Profile](https://www.fec.gov/data/candidate/S8GA00180/) (Tier 1) (VERIFIED)
+- {{src:src_001215}} (Tier 1) (VERIFIED)
+- {{src:src_005316}} (Tier 1) (VERIFIED)
 - [CNN: Democrats Ossoff and Warnock each raise more than $100 million for Georgia Senate runoffs](https://www.cnn.com/2020/12/24/politics/georgia-senate-runoffs-ossoff-warnock-fundraising) (Tier 2) (VERIFIED)
 - ~~[The Hill: Ossoff, Warnock each rake in over $100 million](https://thehill.com/homenews/campaign/531652-ossoff-warnock-each-rake-in-over-100-million-in-recent-months/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 - [NME: Jon Ossoff produced Stacey Dooley documentaries before Georgia Senate run](https://www.nme.com/news/tv/jon-ossoff-produced-stacey-dooley-documentaries-before-georgia-senate-run-2850342) (Tier 2) (VERIFIED)
@@ -335,7 +335,7 @@ Ossoff didn't invent this template, but he has executed it particularly effectiv
 | US CHAMBER OF COMMERCE | $0 | $500,000 |
 | PLANNED PARENTHOOD ACTION FUND INC | $495,427 | $0 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H8GA06195/) (Tier 1) (VERIFIED)
+- {{src:src_001215}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ## Voting Record

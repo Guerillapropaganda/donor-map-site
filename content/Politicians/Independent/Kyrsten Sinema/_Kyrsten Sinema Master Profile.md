@@ -170,7 +170,7 @@ The revolving door completed the exchange. Sinema left the Senate on January 3, 
 
 ## Sources
 
-- [FEC Candidate: Kyrsten Sinema Campaign Finance Summary](https://www.fec.gov/data/candidate/H2AZ09019/) (Tier 1) (VERIFIED)
+- {{src:src_001302}} (Tier 1) (VERIFIED)
 - [PBS: Sinema received nearly $1 million from Wall Street while killing tax hike on investors](https://www.pbs.org/newshour/politics/sinema-received-nearly-1-million-from-wall-street-while-killing-tax-hike-on-investors) (Tier 2) (VERIFIED)
 - [CNBC: How Wall Street wooed Sinema and preserved carried interest](https://www.cnbc.com/2022/08/09/how-wall-street-wooed-sen-kyrsten-sinema-and-preserved-its-multi-billion-dollar-carried-interest-tax-break.html) (Tier 2) (VERIFIED)
 - [NBC News: Sinema delivers a 'gift to private equity'](https://www.nbcnews.com/politics/congress/kyrsten-sinema-delivers-gift-private-equity-democrats-big-agenda-bill-rcna42394) (Tier 2) (VERIFIED)
@@ -225,7 +225,7 @@ The revolving door completed the exchange. Sinema left the Senate on January 3, 
 | CONGRESSIONAL LEADERSHIP FUND | $0 | $1,143,122 |
 | NATIONAL ASSOCIATION OF REALTORS CONGRESSIONAL FUND | $712,100 | $0 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H2AZ09019/) (Tier 1) (VERIFIED)
+- {{src:src_001302}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ### Campaign Finance Summary (FEC)
@@ -247,7 +247,7 @@ The revolving door completed the exchange. Sinema left the Senate on January 3, 
 | 2024 | $17,050,976 | $12,945,617 | 4276880.44 |
 | 2018 | $22,643,275 | $24,735,383 | 171526.59 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/S8AZ00197/) (Tier 1) (VERIFIED)
+- {{src:src_004964}} (Tier 1) (VERIFIED)
 <!-- auto:fec-summary end -->
 
 ### Committee Assignments (Congress.gov)

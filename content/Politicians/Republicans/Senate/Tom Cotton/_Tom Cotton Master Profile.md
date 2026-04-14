@@ -137,7 +137,7 @@ Cotton's Armed Services Committee position completes the donor-to-policy circuit
 ## Sources
 
 - ~~[Congress.gov: Cotton 2014 Senate fundraising](https://www.congress.gov/search?q=Tom%20Cotton&searchResultViewType=expanded)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
-- [FEC.gov: Cotton campaign filings](https://www.fec.gov/data/candidate/S4AR00103/) (Tier 1) (VERIFIED)
+- {{src:src_003136}} (Tier 1) (VERIFIED)
 - [LobeLog: Emergency Committee for Israel spending](https://lobelog.com/exclusive-emergency-committee-for-israel-spends-big-on-rep-tom-cotton/) (Tier 2) (VERIFIED)
 - [NPR: Freshman senator behind Iran letter](https://www.npr.org/2015/03/13/392845709/tom-cotton-the-freshman-senator-behind-the-iran-letter) (Tier 2) (VERIFIED)
 - [Snopes: Army Ranger claim fact check](https://www.snopes.com/fact-check/tom-cotton-army-ranger/) (Tier 2) (VERIFIED)

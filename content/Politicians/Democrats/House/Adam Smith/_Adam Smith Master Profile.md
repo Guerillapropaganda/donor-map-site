@@ -148,8 +148,8 @@ Smith publicly supports campaign finance reform, states "corporations are not pe
 
 ## Sources
 
-- ~~[FEC Candidate: Adam Smith campaign finance summary](https://www.fec.gov/data/candidate/S0KS00216/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
-- ~~[FEC: Adam Smith candidate filings](https://www.fec.gov/data/candidate/H6WA09025/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~{{src:src_006407}}~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~{{src:src_006409}}~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - [House Armed Services Committee Democrats: Ranking Member Adam Smith](https://democrats-armedservices.house.gov/ranking-member) (Tier 1) (VERIFIED)
 - ~~[Congress.gov: Adam Smith voting record](https://www.congress.gov/member/adam-smith/S000510)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1) (VERIFIED: I see voting record. changed from bad)
 - [KUOW: Mr. Smith stays in Washington — with help from military-industrial complex](https://www.kuow.org/stories/mr-smith-stays-washington-help-military-industrial-complex/) (Tier 2) (VERIFIED)
@@ -167,7 +167,7 @@ Smith publicly supports campaign finance reform, states "corporations are not pe
 | Election Cycle | 2020 |
 | Cash on Hand | 0.00 |
 
-- ~~[Source: FEC.gov](https://www.fec.gov/data/candidate/S0KS00216/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- ~~{{src:src_006407}}~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:fec-politician end -->
 
 <!-- auto:fec-politician pending-merge 2026-04-13 -->
@@ -204,7 +204,7 @@ Smith publicly supports campaign finance reform, states "corporations are not pe
 | PUGET SOUND ENERGY INC PAC FOR GOOD GOVERNMENT | $6,577 | $0 |
 | THE 60 PLUS ASSOCIATION | $0 | $6,122 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H6WA09025/) (Tier 1) (VERIFIED)
+- {{src:src_006409}} (Tier 1) (VERIFIED)
 
 <!-- auto:fec-politician pending-merge end -->
 
@@ -335,7 +335,7 @@ Smith publicly supports campaign finance reform, states "corporations are not pe
 | 2016 | $925,645 | $1,105,447 | 399695.38 |
 | ... | 10 more cycles available | | |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H6WA09025/) (Tier 1)
+- {{src:src_006409}} (Tier 1)
 <!-- auto:fec-summary end -->
 
 ### Voting Record

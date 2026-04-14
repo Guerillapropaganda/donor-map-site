@@ -157,7 +157,7 @@ party:: Democrat
 | PAC Contributions | $6,000 |
 | Cash on Hand | 162.00 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H4ME02085/) (Tier 1) (VERIFIED)
+- {{src:src_006500}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ## Committee Assignments (Congress.gov)

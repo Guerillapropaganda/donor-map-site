@@ -49,7 +49,7 @@ This creates a structural incentive to continue high-profile investigations even
 ### Sources
 
 - ~~[Congress.gov: Jamie Raskin member profile](https://www.congress.gov/member/jamie-raskin/R000606)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
-- [FEC Candidate: Jamie Raskin campaign finance summary](https://www.fec.gov/data/candidate/H6MD08457/) (Tier 1) (VERIFIED)
+- {{src:src_006117}} (Tier 1) (VERIFIED)
 - [Washington Post: Raskin's role as lead impeachment manager](https://www.washingtonpost.com/local/md-politics/raskin-son-impeachment/2021/01/11/b9cd33d4-5420-11eb-a931-5b162d0d033d_story.html) (Tier 2) (VERIFIED)
 - [Ballotpedia: Jamie Raskin](https://ballotpedia.org/Jamie_Raskin) (Tier 3) (VERIFIED)
 

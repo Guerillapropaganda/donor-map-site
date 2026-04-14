@@ -157,7 +157,7 @@ The transactional clarity is the defining feature. Traditional Republican fundra
 
 - [OpenSecrets: Make America Great Again Inc. PAC summary — $410.5M raised (C00825851)](https://www.opensecrets.org/political-action-committees-pacs/make-america-great-again-inc/C00825851/summary/2024) (Tier 1) (VERIFIED)
 - [OpenSecrets: MAGA Inc. top donors — Mellon $151.5M, Yass $16M, crypto (C00825851)](https://www.opensecrets.org/outside-spending/detail/2024?cmte=C00825851&tab=donors) (Tier 1) (VERIFIED)
-- [FEC: Donald J. Trump candidate overview (P80001571)](https://www.fec.gov/data/candidate/P80001571/) (Tier 1) (VERIFIED)
+- {{src:src_003731}} (Tier 1) (VERIFIED)
 - [CNN: Elon Musk spent $290M+ on 2024 election — year-end FEC filings](https://www.cnn.com/2025/02/01/politics/elon-musk-2024-election-spending-millions) (Tier 2) (VERIFIED)
 - [Brennan Center: Unprecedented big money surge for super PAC tied to Trump](https://www.brennancenter.org/our-work/analysis-opinion/unprecedented-big-money-surge-super-pac-tied-trump) (Tier 2) (VERIFIED)
 - [Brennan Center: Trump's use of campaign funds to pay legal bills — $100M+](https://www.brennancenter.org/our-work/research-reports/trumps-use-campaign-funds-pay-legal-bills) (Tier 2) (VERIFIED)

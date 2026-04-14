@@ -195,7 +195,7 @@ After December 2025, Cuéllar's media strategy shifted to portraying himself as 
 | MAINSTREAM DEMOCRATS PAC | $1,425,211 | $0 |
 | NATIONAL ASSOCIATION OF REALTORS CONGRESSIONAL FUND | $1,285,000 | $0 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H2TX23082/) (Tier 1) (VERIFIED)
+- {{src:src_006182}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ### Legislative Activity (GovTrack)
@@ -252,5 +252,5 @@ After December 2025, Cuéllar's media strategy shifted to portraying himself as 
 | 2016 | $1,689,932 | $929,900 | 2077784.05 |
 | ... | 7 more cycles available | | |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H2TX23082/) (Tier 1)
+- {{src:src_006182}} (Tier 1)
 <!-- auto:fec-summary end -->

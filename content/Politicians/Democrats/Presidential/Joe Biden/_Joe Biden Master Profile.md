@@ -262,7 +262,7 @@ Biden's career trajectory confirms the class reading. MBNA senator (1989-2005). 
 | AMERICAS PAC | $0 | $1,573,351 |
 | LIVING UNITED FOR CHANGE IN ARIZONA | $1,214,021 | $135,590 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/P60012143/) (Tier 1) (VERIFIED)
+- {{src:src_005628}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ## Influence Network (Cross-Reference)

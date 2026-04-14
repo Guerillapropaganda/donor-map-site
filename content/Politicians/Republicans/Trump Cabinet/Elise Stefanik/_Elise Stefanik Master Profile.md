@@ -150,9 +150,9 @@ Stefanik's E-PAC (Elevate PAC) extends the class function beyond her own career.
 
 ## Sources
 
-- [FEC Candidate: Elise Stefanik donor profile](https://www.fec.gov/data/candidate/H4NY21079/) (Tier 1) (VERIFIED)
+- {{src:src_002998}} (Tier 1) (VERIFIED)
 - [OpenSecrets: Trump administration profile — Elise Stefanik](https://www.opensecrets.org/news/2025/01/trump-administration-profile-elise-stefanik/) (Tier 1) (VERIFIED)
-- [FEC: Stefanik campaign finance filings](https://www.fec.gov/data/candidate/H4NY21079/) (Tier 1) (VERIFIED)
+- {{src:src_002998}} (Tier 1) (VERIFIED)
 - [TIME: How Elise Stefanik went from moderate to MAGA](https://time.com/6046674/elise-stefanik-liz-cheney-republican/) (Tier 2) (VERIFIED)
 - [CNN: Stefanik back in spotlight after fierce questioning of university presidents](https://edition.cnn.com/2023/12/11/politics/elise-stefanik-antisemitism-hearing/index.html) (Tier 2) (VERIFIED)
 - [NPR: 4 things to know about Elise Stefanik](https://www.npr.org/2024/11/11/nx-s1-5186927/trump-taps-rep-elise-stefanik-to-be-u-s-ambassador-to-the-united-nations) (Tier 2) (VERIFIED)
@@ -197,7 +197,7 @@ Stefanik's E-PAC (Elevate PAC) extends the class function beyond her own career.
 | THE LINCOLN PROJECT | $0 | $252,550 |
 | NATIONAL VICTORY ACTION FUND | $180,000 | $0 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H4NY21079/) (Tier 1) (VERIFIED)
+- {{src:src_002998}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ## Voting Record

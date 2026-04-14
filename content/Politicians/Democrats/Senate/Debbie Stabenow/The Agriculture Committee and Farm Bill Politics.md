@@ -39,7 +39,7 @@ Michigan is simultaneously an auto manufacturing state and a major agricultural 
 ### Sources
 
 - ~~[Congress.gov: Debbie Stabenow member profile](https://www.congress.gov/member/debbie-stabenow/S000770)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
-- [FEC Candidate: Debbie Stabenow campaign finance summary](https://www.fec.gov/data/candidate/H6MI08163/) (Tier 1) (VERIFIED)
+- {{src:src_005489}} (Tier 1) (VERIFIED)
 - ~~[Congressional Research Service: Farm Bill primer](https://crsreports.congress.gov/product/pdf/IF/IF12047)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - [Ballotpedia: Debbie Stabenow](https://ballotpedia.org/Debbie_Stabenow) (Tier 3) (VERIFIED)
 

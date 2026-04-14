@@ -137,7 +137,7 @@ The climate denial is the intellectual infrastructure for the financial interest
 | Individual Contributions | $312 |
 | Cash on Hand | 0.00 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H4NY16095/) (Tier 1) (VERIFIED)
+- {{src:src_003062}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ### Influence Network (Cross-Reference)

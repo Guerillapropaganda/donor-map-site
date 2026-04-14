@@ -157,7 +157,7 @@ The personal financial structure mirrors the institutional one. Roberts's estima
 | Individual Contributions | $110,850 |
 | Cash on Hand | 0.00 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H2AL05169/) (Tier 1) (VERIFIED)
+- {{src:src_002623}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ### Influence Network (Cross-Reference)

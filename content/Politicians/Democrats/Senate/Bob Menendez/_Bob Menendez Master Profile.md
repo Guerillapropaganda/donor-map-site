@@ -124,7 +124,7 @@ The class analysis is straightforward: Menendez proves that the campaign finance
 
 ## Sources
 
-- [FEC Candidate: Bob Menendez campaign finance summary](https://www.fec.gov/data/candidate/H2NJ08232/) (Tier 1) (VERIFIED)
+- {{src:src_005578}} (Tier 1) (VERIFIED)
 - [OpenSecrets: Menendez used donor cash for legal costs ahead of conviction](https://www.opensecrets.org/news/2024/07/menendez-used-donor-cash-for-legal-costs-ahead-of-conviction/) (Tier 2) (VERIFIED)
 - [The Nation: Senator Robert Menendez and the Corruption of Cuba Policy](https://www.thenation.com/article/world/cuba-harris-menendez-corruption-diplomacy/) (Tier 2) (VERIFIED)
 - [FBI: Menendez and Melgen Indictment](https://www.fbi.gov/contact-us/field-offices/newark/news/press-releases/senator-robert-menendez-and-dr.-salomon-melgen-indicted-for-conspiracy-bribery-and-honest-services-fraud) (Tier 1) (VERIFIED)

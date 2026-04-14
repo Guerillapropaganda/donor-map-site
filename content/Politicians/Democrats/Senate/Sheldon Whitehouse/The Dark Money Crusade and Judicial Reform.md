@@ -48,7 +48,7 @@ Whitehouse connects dark money to climate policy: fossil fuel companies fund dar
 ### Sources
 
 - [Senate Judiciary Committee: Dark money hearings](https://www.judiciary.senate.gov/committee-activity/hearings) (Tier 1) (VERIFIED)
-- [FEC Candidate: Sheldon Whitehouse donor profile](https://www.fec.gov/data/candidate/S6RI00221/) (Tier 1) (VERIFIED)
+- {{src:src_005132}} (Tier 1) (VERIFIED)
 - [Congress.gov: DISCLOSE Act of 2023 (S.512, 118th Congress)](https://www.congress.gov/bill/118th-congress/senate-bill/512) (Tier 1) (VERIFIED)
 - [Ballotpedia: Sheldon Whitehouse](https://ballotpedia.org/Sheldon_Whitehouse) (Tier 3) (VERIFIED)
 

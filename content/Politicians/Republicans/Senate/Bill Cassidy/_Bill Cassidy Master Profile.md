@@ -146,7 +146,7 @@ That impeachment vote is the key to understanding Cassidy's class function. He s
 ## Sources
 
 - ~~[Congress.gov: Bill Cassidy campaign finance summary](https://www.congress.gov/search?q=Bill%20Cassidy&searchResultViewType=expanded)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
-- [FEC: Bill Cassidy candidate profile](https://www.fec.gov/data/candidate/S4LA00107/) (Tier 1) (VERIFIED)
+- {{src:src_003659}} (Tier 1) (VERIFIED)
 - [U.S. Senator Bill Cassidy official statement on impeachment conviction vote](https://www.cassidy.senate.gov/newsroom/press-releases/cassidy-votes-to-convict-president-donald-trump/) (Tier 1) (VERIFIED)
 - [Rolling Stone: Louisiana GOP Censures Sen. Cassidy Who 'Voted to Convict President Trump Because He Is Guilty'](https://www.rollingstone.com/politics/politics-news/louisiana-gop-censures-cassidy-trump-impeachment-vote-1128332/) (Tier 2) (VERIFIED)
 - [Louisiana Illuminator: 'By objecting to the term Cancer Alley, Sen. Bill Cassidy is defending polluters, not Louisiana'](https://lailluminator.com/2021/02/05/despite-sen-cassidys-critiques-louisianans-have-lamented-cancer-alley-since-the-80s/) (Tier 2) (VERIFIED)

@@ -263,7 +263,7 @@ The final-years cognitive decline exposes the class infrastructure beneath the i
 | ENGLISH LANGUAGE POLITICAL ACTION COMMITTEE | $0 | $47,994 |
 | ONE NATION UNITED | $26,400 | $0 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/S0CA00199/) (Tier 1) (VERIFIED)
+- {{src:src_005079}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ### Legislative Activity (GovTrack)

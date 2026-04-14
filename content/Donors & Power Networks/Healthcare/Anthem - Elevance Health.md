@@ -118,7 +118,7 @@ The Medicare Advantage expansion is the long game. Each year, more Medicare bene
 
 - [OpenSecrets: Elevance Health PAC Profile, 2023-2024 cycle](https://www.opensecrets.org/political-action-committees-pacs/elevance-health/C00197228/summary/2024) (Tier 1) (VERIFIED)
 - [OpenSecrets: Elevance Health Lobbying Profile](https://www.opensecrets.org/orgs/elevance-health/lobbying?id=D000023159) (Tier 1) (VERIFIED)
-- [FEC: Elevance Health PAC filings](https://www.fec.gov/data/committee/C00197228/) (Tier 1) (VERIFIED)
+- {{src:src_011972}} (Tier 1) (VERIFIED)
 - [The Lever: Newsom's Big Choice — Single Payer or His Insurance Donors](https://www.levernews.com/newsoms-big-choice-single-payer-or-his-insurance-donors/) (Tier 2) (VERIFIED)
 - [Fierce Healthcare: Elevance Health Q4 2024 earnings, $175.2B revenue](https://www.fiercehealthcare.com/payers/elevance-health-beats-profit-misses-revenue-mixed-q4) (Tier 2) (VERIFIED)
 - ~~[Becker's Payer Issues: Elevance Health 5 highest-paid executives 2024](https://www.beckerspayer.com/payer/elevance-healths-5-highest-paid-executives-2025/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)

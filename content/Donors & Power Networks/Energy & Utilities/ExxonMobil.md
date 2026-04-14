@@ -353,7 +353,7 @@ ExxonMobil operates within a structural contradiction that defines fossil fuel p
 - [OpenSecrets: ExxonMobil PAC profile 2024](https://www.opensecrets.org/political-action-committees-pacs/C00121368/summary/2024) (Tier 1) (VERIFIED) (UNVERIFIED)
 - [OpenSecrets: ExxonMobil totals](https://www.opensecrets.org/orgs/exxon-mobil/totals?id=D000000129) (Tier 1) (VERIFIED) (UNVERIFIED)
 - [OpenSecrets: ExxonMobil recipients](https://www.opensecrets.org/orgs/exxon-mobil/recipients?id=D000000129) (Tier 1) (VERIFIED) (UNVERIFIED)
-- [FEC: ExxonMobil PAC committee overview](https://www.fec.gov/data/committee/C00121368/) (Tier 1) (VERIFIED)
+- {{src:src_012599}} (Tier 1) (VERIFIED)
 - [ExxonMobil: 2024 Corporate political contributions disclosure](https://corporate.exxonmobil.com/who-we-are/policy/political-contributions/corporate-political-contributions) (Tier 1) (VERIFIED)
 - [ExxonMobil: PAC contribution data](https://corporate.exxonmobil.com/who-we-are/policy/political-contributions/pac-contribution-data) (Tier 1) (VERIFIED)
 

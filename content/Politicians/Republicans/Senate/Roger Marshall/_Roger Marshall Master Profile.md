@@ -136,8 +136,8 @@ Marshall's donor-class function is to serve as the agribusiness and healthcare i
 
 ## Sources
 
-- [FEC Candidate: Roger Marshall campaign finance summary](https://www.fec.gov/data/candidate/H6KS01179/) (Tier 1) (VERIFIED)
-- [FEC: Roger Marshall candidate overview](https://www.fec.gov/data/candidate/S0KS00315/) (Tier 1) (VERIFIED)
+- {{src:src_003257}} (Tier 1) (VERIFIED)
+- {{src:src_003258}} (Tier 1) (VERIFIED)
 - ~~[Congress.gov: Roger Marshall](https://www.congress.gov/member/roger-marshall/M001198)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - [Marshall.senate.gov: 119th Congress committee assignments](https://www.marshall.senate.gov/newsroom/press-releases/senator-marshall-announces-committee-assignments-for-the-119th-congress/) (Tier 1) (VERIFIED)
 - [Marshall.senate.gov: COVID vaccine mandate op-ed](https://www.marshall.senate.gov/newsroom/op-eds/sen-marshall-op-ed-bidens-covid-vaccine-mandate-treats-our-heroes-like-felons-im-fighting-to-stop-it/) (Tier 1) (VERIFIED)
@@ -176,7 +176,7 @@ Marshall's donor-class function is to serve as the agribusiness and healthcare i
 | KANSAS FARMERS FUND | $0 | $374,565 |
 | KANSAS AG COMMUNITIES COALITION | $204,877 | $0 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H6KS01179/) (Tier 1) (VERIFIED)
+- {{src:src_003257}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ### Voting Record

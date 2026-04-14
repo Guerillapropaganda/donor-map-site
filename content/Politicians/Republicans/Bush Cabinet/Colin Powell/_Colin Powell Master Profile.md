@@ -146,7 +146,7 @@ The pattern: military authority → government deployment of credibility for def
 |-----------|---------|--------|
 | WASHINGTON CITIZENS FOR COLIN POWELL | $0 | $8,098 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/P60003050/) (Tier 1) (VERIFIED)
+- {{src:src_004714}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ### DOJ Press Releases

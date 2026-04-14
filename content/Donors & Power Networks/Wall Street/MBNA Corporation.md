@@ -82,7 +82,7 @@ The MBNA-Biden relationship is the most documented donor-policy pipeline in Bide
 
 ### Sources
 
-- [FEC Candidate: Joe Biden career donors - MBNA](https://www.fec.gov/data/candidate/P60012143/) (Tier 1) (VERIFIED)
+- {{src:src_005628}} (Tier 1) (VERIFIED)
 - ~~[Congress.gov: Bankruptcy Abuse Prevention Act S. 256](https://www.congress.gov/bill/109th-congress/senate-bill/256)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - [Ballotpedia: 2005 Bankruptcy Act](https://ballotpedia.org/MBNA_Corporation) (Tier 3) (VERIFIED)
 

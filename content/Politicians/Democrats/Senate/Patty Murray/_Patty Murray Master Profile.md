@@ -155,8 +155,8 @@ The pharmaceutical dimension completes the picture. Murray chaired the HELP Comm
 
 ## Sources
 
-- [FEC Candidate: Sen. Patty Murray campaign finance summary](https://www.fec.gov/data/candidate/S2WA00189/) (Tier 1) (VERIFIED)
-- [FEC Candidate: Sen. Patty Murray elections 2024](https://www.fec.gov/data/candidate/S2WA00189/) (Tier 1) (VERIFIED)
+- {{src:src_005224}} (Tier 1) (VERIFIED)
+- {{src:src_005224}} (Tier 1) (VERIFIED)
 - ~~[Seattle Times: Lobbyists are Sen. Murray's biggest donors](https://www.seattletimes.com/seattle-times/lobbyists-are-sen-murrays-biggest-donors/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 - [Senator Murray: Statement on Air Force Extending KC-46A Tanker Contract](https://www.murray.senate.gov/senator-murray-statement-on-air-force-extending-kc-46a-tanker-contract-award-to-acquire-up-to-75-additional-aircraft-produced-in-everett-wa/) (Tier 1) (VERIFIED)
 - ~~[Defense News: Air Force awards Boeing $2.4 billion contract for KC-46 tankers](https://www.defensenews.com/air/2024/11/25/air-force-awards-boeing-2-4-billion-contract-for-kc-46-tankers/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
@@ -304,5 +304,5 @@ The pharmaceutical dimension completes the picture. Murray chaired the HELP Comm
 | WOMEN VOTE! | $4,344,848 | $0 |
 | ESAFUND | $0 | $1,954,200 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/S2WA00189/) (Tier 1) (VERIFIED)
+- {{src:src_005224}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->

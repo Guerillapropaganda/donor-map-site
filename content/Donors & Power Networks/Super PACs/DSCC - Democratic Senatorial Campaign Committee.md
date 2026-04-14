@@ -128,7 +128,7 @@ The losses flipped Senate control to Republicans. The $600+ million investment f
 
 ### Sources
 
-- [FEC: DSCC committee overview and financial filings (C00042366)](https://www.fec.gov/data/committee/C00042366/?cycle=2024) (Tier 1) (VERIFIED)
+- {{src:src_009620}} (Tier 1) (VERIFIED)
 - [OpenSecrets: DSCC fundraising overview 2024](https://www.opensecrets.org/political-parties/DSCC/2024/summary?name=democratic-senatorial-campaign-cmte) (Tier 1) (VERIFIED)
 - [OpenSecrets: DSCC top contributors 2024](https://www.opensecrets.org/political-parties/DSCC/2024/contributors?name=democratic-senatorial-campaign-cmte) (Tier 1) (VERIFIED)
 - [OpenSecrets: DSCC expenditures 2024](https://www.opensecrets.org/political-parties/DSCC/2024/expenditures?name=democratic-senatorial-campaign-cmte) (Tier 1) (VERIFIED)

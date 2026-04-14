@@ -82,7 +82,7 @@ Tammy Duckworth. Democrat, Illinois. Senator since 2017. Purple Heart recipient 
 Duckworth's military sacrifice gives her unassailable credentials on defense and veterans' issues — a biographical shield that makes her defense spending positions essentially unquestionable. She is one of the few Democratic senators who can advocate for defense spending increases without facing progressive backlash. Illinois's defense economy — Boeing headquarters in Chicago, Rock Island Arsenal, Collins Aerospace in Rockford, 8,713 defense contractors across 102 counties holding $116.1 billion in government contracts — creates constituency alignment with her committee jurisdiction.
 
 - ~~[Congress.gov: Tammy Duckworth member profile](https://www.congress.gov/member/tammy-duckworth/D000622)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
-- [FEC Candidate: Tammy Duckworth campaign finance summary](https://www.fec.gov/data/candidate/H6IL06141/) (Tier 1) (VERIFIED)
+- {{src:src_005102}} (Tier 1) (VERIFIED)
 
 ---
 
@@ -191,8 +191,8 @@ Duckworth's veteran advocacy, the billions in caregiver funding, the suicide pre
 ## Sources
 
 - [Congress.gov: Tammy Duckworth member profile](https://www.congress.gov/member/tammy-duckworth/D000622) (Tier 1)
-- [FEC Candidate: Tammy Duckworth campaign finance summary](https://www.fec.gov/data/candidate/H6IL06141/) (Tier 1)
-- [FEC: Tammy Duckworth candidate profile](https://www.fec.gov/data/candidate/S6IL00292/) (Tier 1) (VERIFIED)
+- {{src:src_005102}} (Tier 1)
+- {{src:src_005104}} (Tier 1) (VERIFIED)
 - [Duckworth Senate: FY 2026 NDAA vote statement](https://www.duckworth.senate.gov/news/press-releases/amid-trumps-escalating-misuse-of-our-military-against-americans-duckworth-votes-to-block-final-passage-of-defense-authorization-bill-for-the-first-time-in-her-career) (Tier 1) (VERIFIED)
 - [Duckworth Senate: Rock Island Arsenal FY 2026 provisions](https://www.duckworth.senate.gov/news/press-releases/duckworth-secures-key-ndaa-provisions-to-strengthen-rock-island-arsenal-support-families-and-farmers-in-illinois-and-beyond) (Tier 1) (VERIFIED)
 - [Duckworth Senate: FY 2025 NDAA passage statement ($850B)](https://www.duckworth.senate.gov/news/press-releases/duckworth-statement-on-senate-passage-of-bipartisan-ndaa-that-provides-pay-raise-to-our-troops-bolsters-readiness-and-supports-servicemembers-and-their-families-at-home-and-abroad) (Tier 1) (VERIFIED)
@@ -262,7 +262,7 @@ Duckworth's veteran advocacy, the billions in caregiver funding, the suicide pre
 | DEMOCRATIC CONGRESSIONAL CAMPAIGN COMMITTEE | $858,884 | $0 |
 | NEW PROSPERITY FOUNDATION; THE | $0 | $517,710 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H6IL06141/) (Tier 1) (VERIFIED)
+- {{src:src_005102}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ### Legislative Activity (GovTrack)

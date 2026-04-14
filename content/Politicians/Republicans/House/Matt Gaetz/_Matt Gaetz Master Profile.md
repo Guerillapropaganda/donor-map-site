@@ -223,7 +223,7 @@ The House Ethics Committee found "substantial evidence" that Gaetz engaged in se
 | FLORIDA CONSERVATIVE FUND | $121,542 | $0 |
 | CITIZEN SUPER PAC | $0 | $44,721 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H6FL01119/) (Tier 1) (VERIFIED)
+- {{src:src_004328}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ## Committee Assignments (Congress.gov)
